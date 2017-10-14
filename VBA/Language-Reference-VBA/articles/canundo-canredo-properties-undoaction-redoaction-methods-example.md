@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # CanUndo, CanRedo Properties, UndoAction, RedoAction Methods Example
 
-The following example demonstrates how to undo or redo text editing within a text box or within the text area of a  **ComboBox**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
+The following example demonstrates how to undo or redo text editing within a text box or within the text area of a **ComboBox**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.
     
 
 

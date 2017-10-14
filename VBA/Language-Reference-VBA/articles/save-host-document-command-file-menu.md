@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Saves the current project and all of its components - forms and [modules](vbe-glossary.md) - with your document. A standalone project is saved separately as a project file with a .vba extension.
 
-The  **Save** command displays the **Save As** dialog box if this is the first time the project is being saved.
+The **Save** command displays the **Save As** dialog box if this is the first time the project is being saved.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_save_ZA01201736.gif). Keyboard shortcut: CTRL+S.

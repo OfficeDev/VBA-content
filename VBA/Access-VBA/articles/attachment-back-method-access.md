@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.Back Method (Access)
 
-Moves the focus to the previous file in the specified  **Attachment** control.
+Moves the focus to the previous file in the specified **Attachment** control.
 
 
 ## Syntax

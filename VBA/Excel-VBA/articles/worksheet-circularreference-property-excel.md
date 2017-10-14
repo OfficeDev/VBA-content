@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.CircularReference Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the range containing the first circular reference on the sheet, or returns **Nothing** if there's no circular reference on the sheet. The circular reference must be removed before calculation can proceed.
+Returns a **[Range](range-object-excel.md)** object that represents the range containing the first circular reference on the sheet, or returns **Nothing** if there's no circular reference on the sheet. The circular reference must be removed before calculation can proceed.
 
 
 ## Syntax

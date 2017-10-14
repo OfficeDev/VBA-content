@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AttachmentSelection.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The  **Parent** property of an **AttachmentSelection** object represents the Microsoft Outlook item that contains the selected attachments.
+The **Parent** property of an **AttachmentSelection** object represents the Microsoft Outlook item that contains the selected attachments.
 
-If the item is in an explorer, the value of the  **Parent** property is the same as the first item in the selection that is returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property, which is `Explorer.Selection.Item(1)`. 
+If the item is in an explorer, the value of the **Parent** property is the same as the first item in the selection that is returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property, which is `Explorer.Selection.Item(1)`. 
 
-If the item is in an inspector, the value of the  **Parent** property is the same as the value of the **[Inspector.CurrentItem](inspector-currentitem-property-outlook.md)** property.
+If the item is in an inspector, the value of the **Parent** property is the same as the value of the **[Inspector.CurrentItem](inspector-currentitem-property-outlook.md)** property.
 
 
 ## See also

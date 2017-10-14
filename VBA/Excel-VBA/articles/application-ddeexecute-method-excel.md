@@ -29,12 +29,12 @@ Runs a command or performs some other action or actions in another application b
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](application-ddeinitiate-method-excel.md)** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **[DDEInitiate](application-ddeinitiate-method-excel.md)** method.|
 | _String_|Required| **String**|The message defined in the receiving application.|
 
 ## Remarks
 
-The  **DDEExecute** method is designed to send commands to another application. You can also use it to send keystrokes to another application, although the **[SendKeys](application-sendkeys-method-excel.md)** method is the preferred way to send keystrokes. The _String_ argument can specify any single key combined with ALT, CTRL, or SHIFT, or any combination of those keys. Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the ENTER key.
+The **DDEExecute** method is designed to send commands to another application. You can also use it to send keystrokes to another application, although the **[SendKeys](application-sendkeys-method-excel.md)** method is the preferred way to send keystrokes. The _String_ argument can specify any single key combined with ALT, CTRL, or SHIFT, or any combination of those keys. Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the ENTER key.
 
 To specify characters that aren't displayed when you press the corresponding key (for example, ENTER or TAB), use the codes listed in the following table. Each code in the table represents one key on the keyboard.
 

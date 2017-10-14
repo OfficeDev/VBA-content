@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Mileage Property (Outlook)
 
-Returns or sets a  **String** representing the mileage for an item. Read/write.
+Returns or sets a **String** representing the mileage for an item. Read/write.
 
 
 ## Syntax

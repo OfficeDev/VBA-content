@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For database query tables, the default formatting setting is  **xlSimple** .
+For database query tables, the default formatting setting is **xlSimple** .
 
-The new AutoFormat style is applied to the query table when the table is refreshed. The AutoFormat is reset to  **None** whenever **PreserveFormatting** is set to **False** . As a result, any AutoFormat that's set before **PreserveFormatting** is set to **False** and before the query table is refreshed doesn't take effect, and the resulting query table has no formatting applied to it.
+The new AutoFormat style is applied to the query table when the table is refreshed. The AutoFormat is reset to **None** whenever **PreserveFormatting** is set to **False** . As a result, any AutoFormat that's set before **PreserveFormatting** is set to **False** and before the query table is refreshed doesn't take effect, and the resulting query table has no formatting applied to it.
 
 
 ## Example
@@ -39,7 +39,7 @@ This example preserves the formatting of the first PivotTable report on workshee
 Worksheets(1).PivotTables("Pivot1").PreserveFormatting = True
 ```
 
-This example demonstrates how setting  **PreserveFormatting** to **False** causes the AutoFormat to be set to **xlRangeAutoFormatNone** instead of the specified **xlRangeAutoFormatColor1** format.
+This example demonstrates how setting **PreserveFormatting** to **False** causes the AutoFormat to be set to **xlRangeAutoFormatNone** instead of the specified **xlRangeAutoFormatColor1** format.
 
 
 

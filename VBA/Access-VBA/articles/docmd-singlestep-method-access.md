@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SingleStep Method (Access)
 
-Pauses macro execution and opens the  **Macro Single Step** dialog box.
+Pauses macro execution and opens the **Macro Single Step** dialog box.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Pauses macro execution and opens the  **Macro Single Step** dialog box.
 
 ## Remarks
 
-The  **SingleStep** method will not stop the execution of or assist in debugging Visual Basic for Applications (VBA) code. Use the **[Stop](http://msdn.microsoft.com/library/9B6B5394-9B19-8F18-216C-AC64B165218F%28Office.15%29.aspx)** statement to pause execution of VBA code.
+The **SingleStep** method will not stop the execution of or assist in debugging Visual Basic for Applications (VBA) code. Use the **[Stop](http://msdn.microsoft.com/library/9B6B5394-9B19-8F18-216C-AC64B165218F%28Office.15%29.aspx)** statement to pause execution of VBA code.
 
 
 ## See also

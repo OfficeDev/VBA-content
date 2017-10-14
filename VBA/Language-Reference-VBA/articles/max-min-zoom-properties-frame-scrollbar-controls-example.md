@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 
 # Max, Min, Zoom Properties, Frame, ScrollBar Controls Example
 
-The following example uses the  **Zoom** property to shrink or enlarge the information displayed on a form, Page, or Frame. This example includes a **Frame**, a **TextBox** in the **Frame**, and a **ScrollBar**. The magnification level of the **Frame** changes through **Zoom**. The user can set **Zoom** by using the **ScrollBar**. The **TextBox** is present to demonstrate the effects of zooming.
+The following example uses the **Zoom** property to shrink or enlarge the information displayed on a form, Page, or Frame. This example includes a **Frame**, a **TextBox** in the **Frame**, and a **ScrollBar**. The magnification level of the **Frame** changes through **Zoom**. The user can set **Zoom** by using the **ScrollBar**. The **TextBox** is present to demonstrate the effects of zooming.
 
-This example also uses the  **Max** and **Min** properties to identify the range of acceptable values for the **ScrollBar**.
+This example also uses the **Max** and **Min** properties to identify the range of acceptable values for the **ScrollBar**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- A  **ScrollBar** named ScrollBar1.
+- A **ScrollBar** named ScrollBar1.
     
-- A second  **Label** named Label2.
+- A second **Label** named Label2.
     
-- A  **Frame** named Frame1.
+- A **Frame** named Frame1.
     
-- A  **TextBox** named TextBox1 that is located inside Frame1.
+- A **TextBox** named TextBox1 that is located inside Frame1.
     
 
 

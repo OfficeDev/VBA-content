@@ -25,9 +25,9 @@ Returns an ADO connection object if the PivotTable cache is connected to an OLE 
 
 ## Remarks
 
-The  **ADOConnection** property exposes the Microsoft Excel connection to the data provider, allowing the user to write code within the context of the same session that Excel is using.
+The **ADOConnection** property exposes the Microsoft Excel connection to the data provider, allowing the user to write code within the context of the same session that Excel is using.
 
-The  **ADOConnection** property is available only for sessions where the data source is an OLE DB data source. When there is no ADO session, the query will result in a run-time error. The **ADOConnection** property can be used for any OLE DB-based cache with ADO. The ADO connection object can be used with ADO MD for finding information about OLAP cubes on which the cache is based.
+The **ADOConnection** property is available only for sessions where the data source is an OLE DB data source. When there is no ADO session, the query will result in a run-time error. The **ADOConnection** property can be used for any OLE DB-based cache with ADO. The ADO connection object can be used with ADO MD for finding information about OLAP cubes on which the cache is based.
 
 
 ## See also

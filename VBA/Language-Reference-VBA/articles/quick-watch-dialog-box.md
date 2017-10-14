@@ -30,10 +30,10 @@ Shows the selected expression.
 
  **Value**
 
-Shows the value of the selected expression. The current value isn't displayed if the expression context isn't within a procedure listed in the  **Calls** dialog box.
+Shows the value of the selected expression. The current value isn't displayed if the expression context isn't within a procedure listed in the **Calls** dialog box.
 
  **Add**
 
-Adds the expression to the  **Watch** window.
+Adds the expression to the **Watch** window.
 
 

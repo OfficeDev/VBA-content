@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcExportXMLEncoding Enumeration (Access)
 
-Use with the  **ExportXML** method to specify the text encoding to use for exporting XML data.
+Use with the **ExportXML** method to specify the text encoding to use for exporting XML data.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.CanShrink Property (Access)
 
-Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
+Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets whether the specified control automatically adjusts vertically to p
 
 ## Remarks
 
-The  **CanShrink** property uses the following settings.
+The **CanShrink** property uses the following settings.
 
 
 
@@ -37,11 +37,11 @@ This property setting is read-only in a macro or Visual Basic in any view but De
 
 You can use this property to control the appearance of printed forms and reports. When you set the property to Yes, the object automatically adjusts so any amount of data can be printed. When a control shrinks, the controls below it move up the page.
 
-If you set a control's  **CanShrink** property to Yes, Microsoft Access does not set the section's **CanShrink** property to Yes.
+If you set a control's **CanShrink** property to Yes, Microsoft Access does not set the section's **CanShrink** property to Yes.
 
-Sections shrink vertically across their entire width. For example, suppose a form has two text boxes side by side in a section, and each control has its  **CanShrink** property set to Yes. If one text box contains one line of data and the other text box contains two lines of data, both text boxes will be two lines long because the section is sized across its entire width. To shrink the data independently, you can place two subform or subreport controls side by side, and set their **CanShrink** property to Yes.
+Sections shrink vertically across their entire width. For example, suppose a form has two text boxes side by side in a section, and each control has its **CanShrink** property set to Yes. If one text box contains one line of data and the other text box contains two lines of data, both text boxes will be two lines long because the section is sized across its entire width. To shrink the data independently, you can place two subform or subreport controls side by side, and set their **CanShrink** property to Yes.
 
-When you use the  **CanShrink** property, remember that:
+When you use the **CanShrink** property, remember that:
 
 
 - The property settings don't affect the horizontal spacing between controls; they affect only the vertical space the controls occupy.

@@ -21,7 +21,7 @@ The [parameter](vbe-glossary.md) list of an event-handling[procedure](vbe-glossa
     
     Make the parameter types match those of the event declaration.
     
-- Your event-handling procedure is a  **Function** rather than a **Sub**. Make your procedure a **Sub**. An event handler can't return a value.
+- Your event-handling procedure is a **Function** rather than a **Sub**. Make your procedure a **Sub**. An event handler can't return a value.
     
 - Another [type library](vbe-glossary.md) uses the event name for a type of its own.
     

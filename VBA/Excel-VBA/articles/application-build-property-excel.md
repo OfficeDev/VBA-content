@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Build Property (Excel)
 
-Returns the Microsoft Excel build number. Read-only  **Long** .
+Returns the Microsoft Excel build number. Read-only **Long** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the Microsoft Excel build number. Read-only  **Long** .
 
 ## Remarks
 
-It's usually safer to test the  **[Version](application-version-property-excel.md)** property, unless you're sure you need to know the build number.
+It's usually safer to test the **[Version](application-version-property-excel.md)** property, unless you're sure you need to know the build number.
 
 
 ## Example
 
-This example tests the  **Build** property.
+This example tests the **Build** property.
 
 
 ```vb

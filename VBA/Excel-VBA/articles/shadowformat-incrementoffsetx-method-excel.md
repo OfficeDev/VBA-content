@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.IncrementOffsetX Method (Excel)
 
-Changes the horizontal offset of the shadow by the specified number of points. Use the  **[OffsetX](shadowformat-offsetx-property-excel.md)** property to set the absolute horizontal shadow offset.
+Changes the horizontal offset of the shadow by the specified number of points. Use the **[OffsetX](shadowformat-offsetx-property-excel.md)** property to set the absolute horizontal shadow offset.
 
 
 ## Syntax

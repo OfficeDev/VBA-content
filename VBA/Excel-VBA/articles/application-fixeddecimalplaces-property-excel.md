@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FixedDecimalPlaces Property (Excel)
 
-Returns or sets the number of fixed decimal places used when the  **[FixedDecimal](application-fixeddecimal-property-excel.md)** property is set to **True** . Read/write **Long** .
+Returns or sets the number of fixed decimal places used when the **[FixedDecimal](application-fixeddecimal-property-excel.md)** property is set to **True** . Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number of fixed decimal places used when the  **[FixedDecima
 
 ## Example
 
-This example sets the  **FixedDecimal** property to **True** and then sets the **FixedDecimalPlaces** property to 4. Entering "30000" after running this example produces "3" on the worksheet, and entering "12500" produces "1.25."
+This example sets the **FixedDecimal** property to **True** and then sets the **FixedDecimalPlaces** property to 4. Entering "30000" after running this example produces "3" on the worksheet, and entering "12500" produces "1.25."
 
 
 ```vb

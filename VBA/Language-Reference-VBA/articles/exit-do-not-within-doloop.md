@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- You used an  **Exit Do** statement outside a **Do...Loop** statement. Make sure a valid **Do** statement precedes the **Exit Do**.
+- You used an **Exit Do** statement outside a **Do...Loop** statement. Make sure a valid **Do** statement precedes the **Exit Do**.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

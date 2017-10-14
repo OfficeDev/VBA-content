@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.ShowCategoriesDialog Method (Outlook)
 
-Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
+Displays the **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new distribution list item, displays the item on the screen, and opens up the  **Show Categories** dialog box.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new distribution list item, displays the item on the screen, and opens up the **Show Categories** dialog box.
 
 
 ```vb

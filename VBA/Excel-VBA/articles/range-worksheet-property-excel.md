@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Worksheet Property (Excel)
 
-Returns a  **[Worksheet](worksheet-object-excel.md)** object that represents the worksheet containing the specified range. Read-only.
+Returns a **[Worksheet](worksheet-object-excel.md)** object that represents the worksheet containing the specified range. Read-only.
 
 
 ## Syntax

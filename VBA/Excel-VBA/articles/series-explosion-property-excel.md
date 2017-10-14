@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Explosion Property (Excel)
 
-Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Returns 0 (zero) if there's no explosion (the tip of the slice is in the center of the pie). Read/write  **Long** .
+Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Returns 0 (zero) if there's no explosion (the tip of the slice is in the center of the pie). Read/write **Long** .
 
 
 ## Syntax

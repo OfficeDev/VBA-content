@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.SourceItem Property (Access)
 
-You can use the  **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
+You can use the **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ You can use the  **SourceItem** property to specify the data within a file to be
 
 ## Remarks
 
-You can set the  **SourceItem** property by specifying data in units recognized by the application supplying the object. For example, when you link to Microsoft Excel, you specify the **SourceItem** property setting by using a cell or cell-range reference such as R1C1 or R3C4:R9C22 or a named range such as Revenues.
+You can set the **SourceItem** property by specifying data in units recognized by the application supplying the object. For example, when you link to Microsoft Excel, you specify the **SourceItem** property setting by using a cell or cell-range reference such as R1C1 or R3C4:R9C22 or a named range such as Revenues.
 
 
  **Note**  To determine the syntax to describe a unit of data for a particular object, see the documentation for the application that was used to create the object.
 
-The control's  **OLETypeAllowed** property must be set to Linked or Either when you use this property. Use the control's **SourceDoc** property to specify the file to link.
+The control's **OLETypeAllowed** property must be set to Linked or Either when you use this property. Use the control's **SourceDoc** property to specify the file to link.
 
 
 ## Example

@@ -18,7 +18,7 @@ Represents a single sparkline.
 
 ## Remarks
 
-Use the  **[ModifyLocation](sparkline-modifylocation-method-excel.md)** method to change the location of a single sparkline, and use the **[ModifySourceData](sparkline-modifysourcedata-method-excel.md)** method to change the range of the source data. To work with a group of sparklines at once, use the members of the **[SparklineGroup](sparklinegroup-object-excel.md)** object.
+Use the **[ModifyLocation](sparkline-modifylocation-method-excel.md)** method to change the location of a single sparkline, and use the **[ModifySourceData](sparkline-modifysourcedata-method-excel.md)** method to change the range of the source data. To work with a group of sparklines at once, use the members of the **[SparklineGroup](sparklinegroup-object-excel.md)** object.
 
 
 ## See also

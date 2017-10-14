@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ID Property (Excel)
 
-Returns or sets a  **String** value that represents the identifying label for the specified cell when the page is saved as a Web page.
+Returns or sets a **String** value that represents the identifying label for the specified cell when the page is saved as a Web page.
 
 
 ## Syntax

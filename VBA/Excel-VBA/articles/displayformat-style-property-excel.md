@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.Style Property (Excel)
 
-Returns a value, containing a  **[Style](style-object-excel.md)** object, that represents the style of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface.
+Returns a value, containing a **[Style](style-object-excel.md)** object, that represents the style of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface.
 
 
 ## Syntax

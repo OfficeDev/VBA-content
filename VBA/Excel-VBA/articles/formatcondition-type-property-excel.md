@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Type Property (Excel)
 
-Returns a  **Long** value, containing a **[xlFormatConditionType](xlformatconditiontype-enumeration-excel.md)** value, that represents the object type.
+Returns a **Long** value, containing a **[xlFormatConditionType](xlformatconditiontype-enumeration-excel.md)** value, that represents the object type.
 
 
 ## Syntax

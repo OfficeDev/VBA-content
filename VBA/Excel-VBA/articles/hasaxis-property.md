@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets which axes exist on the chart. Read/write Variant.
 
- _expression_. **HasAxis**( **_Index1_**,  **_Index2_**)
+ _expression_. **HasAxis**( **_Index1_**, **_Index2_**)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
@@ -34,7 +34,7 @@ Returns or sets which axes exist on the chart. Read/write Variant.
 
 ## Remarks
 
-Microsoft Graph may create or delete axes if you change the chart type or change the  **[AxisGroup](axisgroup-property.md)** property.
+Microsoft Graph may create or delete axes if you change the chart type or change the **[AxisGroup](axisgroup-property.md)** property.
 
 
 ## Example

@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Swap Columns of a Multicolumn List Box
 
-The following example swaps columns of a multicolumn  **[ListBox](listbox-object-outlook-forms-script.md)**. The sample uses the  **[List](listbox-list-property-outlook-forms-script.md)** property in two ways:
+The following example swaps columns of a multicolumn **[ListBox](listbox-object-outlook-forms-script.md)**. The sample uses the **[List](listbox-list-property-outlook-forms-script.md)** property in two ways:
 
 
-1. To access and exchange individual values in the  **ListBox**. In this usage,  **List** has subscripts to designate the row and column of a specified value.
+1. To access and exchange individual values in the **ListBox**. In this usage, **List** has subscripts to designate the row and column of a specified value.
     
-2. To initially load the  **ListBox** with values from an array. In this usage, **List** has no subscripts.
+2. To initially load the **ListBox** with values from an array. In this usage, **List** has no subscripts.
     
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains a **ListBox** named ListBox1 and a **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains a **ListBox** named ListBox1 and a **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
 
 
 

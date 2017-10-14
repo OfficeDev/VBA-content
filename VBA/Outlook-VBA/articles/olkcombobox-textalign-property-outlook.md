@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.TextAlign Property (Outlook)
 
-Returns or sets an  **[OlTextAlign](oltextalign-enumeration-outlook.md)** constant that specifies how text is aligned in the control. Read/write.
+Returns or sets an **[OlTextAlign](oltextalign-enumeration-outlook.md)** constant that specifies how text is aligned in the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlTextAlign](oltextalign-enumeration-outlook.md)** consta
 
 ## Remarks
 
-The default value is  **olTextAlignLeft** in left-to-right languages such as English.
+The default value is **olTextAlignLeft** in left-to-right languages such as English.
 
 
 ## See also

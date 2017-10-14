@@ -33,7 +33,7 @@ Occurs when one or more items are added to the specified collection. This event 
 
 ## Example
 
-In this Visual Basic for Applications (VBA) example, when a new contact is added to the  **Contacts** folder, the contact item is attached to an e-mail message and sent to a distribution list named "Sales Team". The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+In this Visual Basic for Applications (VBA) example, when a new contact is added to the **Contacts** folder, the contact item is attached to an e-mail message and sent to a distribution list named "Sales Team". The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-It's possible for  **FreezePanes** to be **True** and **[Split](window-split-property-excel.md)** to be **False** , or vice versa.
+It's possible for **FreezePanes** to be **True** and **[Split](window-split-property-excel.md)** to be **False** , or vice versa.
 
 This property applies only to worksheets and macro sheets.
 

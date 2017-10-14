@@ -39,8 +39,8 @@ Answer3 = MsgBox("Are you happy with your salary?", 4, "Question 3")
 
 ```
 
-A statement in a  **Sub** or **Function** procedure can pass values to a called procedure using[named arguments](vbe-glossary.md). The guidelines for using parentheses apply, whether or not you use named arguments. When you use named arguments, you can list them in any order, and you can omit optional arguments. Named arguments are always followed by a colon and an equal sign ( **:=** ), and then the argument value.
-The following example calls the  **MsgBox** function using named arguments, but it ignores the return value:
+A statement in a **Sub** or **Function** procedure can pass values to a called procedure using[named arguments](vbe-glossary.md). The guidelines for using parentheses apply, whether or not you use named arguments. When you use named arguments, you can list them in any order, and you can omit optional arguments. Named arguments are always followed by a colon and an equal sign ( **:=** ), and then the argument value.
+The following example calls the **MsgBox** function using named arguments, but it ignores the return value:
 
 
 
@@ -49,7 +49,7 @@ MsgBox Title:="Task Box", Prompt:="Task Completed!"
 
 ```
 
-The following example calls the  **MsgBox** function using named arguments and assigns the return value to the variable :
+The following example calls the **MsgBox** function using named arguments and assigns the return value to the variable :
 
 
 

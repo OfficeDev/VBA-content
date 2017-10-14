@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Callout Property (Excel)
 
-Returns a  **[CalloutFormat](calloutformat-object-excel.md)** object that contains callout formatting properties for the specified shape. Applies to a **[ShapeRange](shaperange-object-excel.md)** object that represent line callouts. Read-only.
+Returns a **[CalloutFormat](calloutformat-object-excel.md)** object that contains callout formatting properties for the specified shape. Applies to a **[ShapeRange](shaperange-object-excel.md)** object that represent line callouts. Read-only.
 
 
 ## Syntax

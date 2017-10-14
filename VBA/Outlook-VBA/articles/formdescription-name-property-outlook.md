@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for a form. Read/write.
+Returns or sets a **String** value that represents the display name for a form. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the display name for a form.
 
 ## Remarks
 
-The  **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](formdescription-publishform-method-outlook.md)** method.
+The **Name** is also the caption for a form. This property must be set before you can use the **[FormDescription.PublishForm](formdescription-publishform-method-outlook.md)** method.
 
 
 ## See also

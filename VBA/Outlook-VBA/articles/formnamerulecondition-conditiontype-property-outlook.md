@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormNameRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionFormName** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant, **olConditionFormName** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

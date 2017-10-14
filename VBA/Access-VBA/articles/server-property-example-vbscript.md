@@ -50,7 +50,7 @@ font-size: x-small;}
 <!-- EndServerDesignVBS -->
 ```
 
-The following example shows how to set the necessary parameters of  **RDS.DataControl** at run time. To test this example, cut and paste this code into a normal ASP document and name it **ServerRuntimeVBS.asp**. ASP script will identify your server.
+The following example shows how to set the necessary parameters of **RDS.DataControl** at run time. To test this example, cut and paste this code into a normal ASP document and name it **ServerRuntimeVBS.asp**. ASP script will identify your server.
 
 
 

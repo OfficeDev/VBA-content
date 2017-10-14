@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # OlBusinessCardType Enumeration (Outlook)
 
-Identifies the type of Electronic Business Card (EBC) format associated with a  **[ContactItem](contactitem-object-outlook.md)** object.
+Identifies the type of Electronic Business Card (EBC) format associated with a **[ContactItem](contactitem-object-outlook.md)** object.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **olBusinessCardTypeInterConnect**|1|Indicates that the  **ContactItem** uses the Microsoft Office InterConnect format for the associated Electronic Business Card.|
-| **olBusinessCardTypeOutlook**|0|Indicates that the  **ContactItem** object uses the Microsoft Outlook format for the associated Electronic Business Card.|
+| **olBusinessCardTypeInterConnect**|1|Indicates that the **ContactItem** uses the Microsoft Office InterConnect format for the associated Electronic Business Card.|
+| **olBusinessCardTypeOutlook**|0|Indicates that the **ContactItem** object uses the Microsoft Outlook format for the associated Electronic Business Card.|
 

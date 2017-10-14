@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels Object (Excel)
 
-A collection of all the  **[DataLabel](datalabel-object-excel.md)** objects for the specified series.
+A collection of all the **[DataLabel](datalabel-object-excel.md)** objects for the specified series.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[DataLabel](datalabel-object-excel.md)** objects for 
 
 ## Example
 
-Use the  **[DataLabels](series-datalabels-method-excel.md)** method to return the **DataLabels** collection. The following example sets the number format for data labels on series one on chart sheet one.
+Use the **[DataLabels](series-datalabels-method-excel.md)** method to return the **DataLabels** collection. The following example sets the number format for data labels on series one on chart sheet one.
 
 
 ```
@@ -33,7 +33,7 @@ With Charts(1).SeriesCollection(1)
 End With
 ```
 
-Use  **DataLabels** ( _index_ ), where _index_ is the data-label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in embedded chart one on worksheet one.
+Use **DataLabels** ( _index_ ), where _index_ is the data-label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in embedded chart one on worksheet one.
 
 
 

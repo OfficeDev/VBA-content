@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.FileURL Property (Access)
 
-Returns the Uniform Resource Locator (URL) of the specified attachment. Read-only  **String**.
+Returns the Uniform Resource Locator (URL) of the specified attachment. Read-only **String**.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns the Uniform Resource Locator (URL) of the specified attachment. Read-onl
 
 ## Remarks
 
-The  **FileURL** property returns an empty string if the table that contains the attachments is not linked to a SharePoint list.
+The **FileURL** property returns an empty string if the table that contains the attachments is not linked to a SharePoint list.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatConditions.AddColorScale Method (Excel)
 
-Returns a new  **[ColorScale](colorscale-object-excel.md)** object representing a conditional formatting rule that uses gradations in cell colors to indicate relative differences in the values of cells included in a selected range.
+Returns a new **[ColorScale](colorscale-object-excel.md)** object representing a conditional formatting rule that uses gradations in cell colors to indicate relative differences in the values of cells included in a selected range.
 
 
 ## Syntax

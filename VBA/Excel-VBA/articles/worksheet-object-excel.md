@@ -18,14 +18,14 @@ Represents a worksheet.
 
 ## Remarks
 
-The  **Worksheet** object is a member of the **[Worksheets](http://msdn.microsoft.com/library/5ec467a6-97e3-98d7-0b14-845d20c15910%28Office.15%29.aspx)** collection. The **Worksheets** collection contains all the **Worksheet** objects in a workbook.
+The **Worksheet** object is a member of the **[Worksheets](http://msdn.microsoft.com/library/5ec467a6-97e3-98d7-0b14-845d20c15910%28Office.15%29.aspx)** collection. The **Worksheets** collection contains all the **Worksheet** objects in a workbook.
 
-The  **Worksheet** object is also a member of the [Sheets](http://msdn.microsoft.com/library/048fd93c-bc27-4b58-358f-56fcee1710f8%28Office.15%29.aspx) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
+The **Worksheet** object is also a member of the [Sheets](http://msdn.microsoft.com/library/048fd93c-bc27-4b58-358f-56fcee1710f8%28Office.15%29.aspx) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
 
 
 ## Example
 
-Use  **[Worksheets](http://msdn.microsoft.com/library/8b7d660d-ca49-0bd0-dc57-64defa47bd5e%28Office.15%29.aspx)** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
+Use **[Worksheets](http://msdn.microsoft.com/library/8b7d660d-ca49-0bd0-dc57-64defa47bd5e%28Office.15%29.aspx)** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 
 
 ```

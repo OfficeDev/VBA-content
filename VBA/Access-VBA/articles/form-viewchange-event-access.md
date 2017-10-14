@@ -33,7 +33,7 @@ Occurs whenever the specified PivotChart view or PivotTable view is redrawn.
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **ViewChange** event.
+The following example demonstrates the syntax for a subroutine that traps the **ViewChange** event.
 
 
 ```vb

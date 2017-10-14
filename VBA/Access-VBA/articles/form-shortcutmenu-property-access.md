@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.ShortcutMenu Property (Access)
 
-You can use the  **ShortcutMenu** property to specify whether a shortcut menu is displayed when you right-click an object on a form. For example, you might want to disable a shortcut menu to prevent the user from changing the form's underlying record source by using one of the filtering commands on the form's shortcut menu. Read/write **Boolean**.
+You can use the **ShortcutMenu** property to specify whether a shortcut menu is displayed when you right-click an object on a form. For example, you might want to disable a shortcut menu to prevent the user from changing the form's underlying record source by using one of the filtering commands on the form's shortcut menu. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **ShortcutMenu** property to specify whether a shortcut menu is
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
-This property controls the displaying of the shortcut menus for a form and for any of its controls. If the  **ShortcutMenu** property is set to **False**, shortcut menus aren't displayed when you right-click a form or any of its controls.
+This property controls the displaying of the shortcut menus for a form and for any of its controls. If the **ShortcutMenu** property is set to **False**, shortcut menus aren't displayed when you right-click a form or any of its controls.
 
-If you're developing a wizard, you might want to hide shortcut menus on your wizard forms to prevent the user from viewing or using them. This is especially true for forms that display choices. For example, the  **ShortcutMenu** property for the Startup form in the Northwind sample database is set to No. This prevents users from displaying shortcut menus for the form or controls on the form.
+If you're developing a wizard, you might want to hide shortcut menus on your wizard forms to prevent the user from viewing or using them. This is especially true for forms that display choices. For example, the **ShortcutMenu** property for the Startup form in the Northwind sample database is set to No. This prevents users from displaying shortcut menus for the form or controls on the form.
 
 
 ## Example

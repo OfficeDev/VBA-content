@@ -25,11 +25,11 @@ Establishes a connection for the specified PivotTable cache.
 
 ## Remarks
 
-The  **MakeConnection** method can be used after the cache drops a connection and the user wants to reestablish the connection.
+The **MakeConnection** method can be used after the cache drops a connection and the user wants to reestablish the connection.
 
 Various objects and methods might return a run-time error if the cache is not connected. Use of this method assures a connection before executing other objects or methods.
 
-This method will result in a run-time error if the  **MaintainConnection** property of the specified PivotTable cache has been set to **False** , the **SourceType** property of the specified PivotTable cache has not been set to xlExternal, or if the connection is not to an OLE DB data source.
+This method will result in a run-time error if the **MaintainConnection** property of the specified PivotTable cache has been set to **False** , the **SourceType** property of the specified PivotTable cache has not been set to xlExternal, or if the connection is not to an OLE DB data source.
 
 
  **Note**  Microsoft Excel might drop a connection temporarily in the course of a session (unknown to the VBA programmer), so this method proves useful.

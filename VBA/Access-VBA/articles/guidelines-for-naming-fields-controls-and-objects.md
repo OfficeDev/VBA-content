@@ -27,7 +27,7 @@ Names if fields, controls, and objects in Microsoft Access:
 - Can't include control characters (ASCII values 0 through 31).
     
 Although you can include spaces in field, control, and object names, most examples in the Access documentation show field and control names without spaces because spaces in names can produce naming conflicts in Visual Basic for Applications in some circumstances.
-When you name a field, control, or object, it's a good idea to make sure that the name doesn't duplicate the name of a property or other element used by Access; otherwise, your database can produce unexpected behavior in some circumstances. For example, if you refer to the value of a field that is named Name in a table NameInfo using the syntax NameInfo.Name, Access displays the value of the table's  **Name** property rather than the value of the Name field.
+When you name a field, control, or object, it's a good idea to make sure that the name doesn't duplicate the name of a property or other element used by Access; otherwise, your database can produce unexpected behavior in some circumstances. For example, if you refer to the value of a field that is named Name in a table NameInfo using the syntax NameInfo.Name, Access displays the value of the table's **Name** property rather than the value of the Name field.
 Another way to avoid unexpected results is to always use the ! operator instead of the . (dot) operator to refer to the value of a field, control, or object. For example, the following identifier explicitly refers to the value of the Name field rather than the Name property:
 [NameInfo]![Name]
 

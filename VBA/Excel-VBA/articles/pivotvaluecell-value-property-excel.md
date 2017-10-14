@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PivotValueCell.Value Property (Excel)
 
-Returns the value at the location. The value is the value after  **ShowAs** and other calculations have been applied. Variant can be **Empty** , **Number** , **Date** , **String** , or **Error** value.
+Returns the value at the location. The value is the value after **ShowAs** and other calculations have been applied. Variant can be **Empty** , **Number** , **Date** , **String** , or **Error** value.
 
 
 ## Syntax

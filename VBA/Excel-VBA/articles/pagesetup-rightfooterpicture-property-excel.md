@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.RightFooterPicture Property (Excel)
 
-Returns a  **[Graphic](graphic-object-excel.md)** object that represents the picture for the right section of the footer. Used to set attributes of the picture.
+Returns a **[Graphic](graphic-object-excel.md)** object that represents the picture for the right section of the footer. Used to set attributes of the picture.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 
 ## Remarks
 
-The  **RightFooterPicture** property itself is read-only, but not all of its properties are read-only.
+The **RightFooterPicture** property itself is read-only, but not all of its properties are read-only.
 
 
 ## Example

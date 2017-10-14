@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Previous Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the next cell.
+Returns a **[Range](range-object-excel.md)** object that represents the next cell.
 
 
 ## Syntax

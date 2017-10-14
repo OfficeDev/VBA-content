@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.AlertStyle Property (Excel)
 
-Returns the validation alert style. Read-only  **[XlDVAlertStyle](xldvalertstyle-enumeration-excel.md)** .
+Returns the validation alert style. Read-only **[XlDVAlertStyle](xldvalertstyle-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the validation alert style. Read-only  **[XlDVAlertStyle](xldvalertstyle
 
 ## Remarks
 
-Use the  **[Add](validation-add-method-excel.md)** method to set the alert style for a range. If the range already has data validation, use the **[Modify](validation-modify-method-excel.md)** method to change the alert style.
+Use the **[Add](validation-add-method-excel.md)** method to set the alert style for a range. If the range already has data validation, use the **[Modify](validation-modify-method-excel.md)** method to change the alert style.
 
 
 ## Example

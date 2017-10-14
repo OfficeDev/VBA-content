@@ -18,13 +18,13 @@ Represents a navigation folder displayed in a navigation group of a navigation m
 
 ## Remarks
 
-Use the  **[Item](navigationfolders-item-method-outlook.md)** method to retrieve a **NavigationFolder** object from the **[NavigationFolders](navigationfolders-object-outlook.md)** collection of the parent **[NavigationGroup](navigationgroup-object-outlook.md)** object. Use the **[Add](navigationfolders-add-method-outlook.md)** method of the **NavigationFolders** collection to create a new **NavigationFolder** object based on an existing **[Folder](folder-object-outlook.md)** object.
+Use the **[Item](navigationfolders-item-method-outlook.md)** method to retrieve a **NavigationFolder** object from the **[NavigationFolders](navigationfolders-object-outlook.md)** collection of the parent **[NavigationGroup](navigationgroup-object-outlook.md)** object. Use the **[Add](navigationfolders-add-method-outlook.md)** method of the **NavigationFolders** collection to create a new **NavigationFolder** object based on an existing **[Folder](folder-object-outlook.md)** object.
 
-Use the  **[Folder](navigationfolder-folder-property-outlook.md)** method to return or set the **Folder** object on which the **NavigationFolder** object is based.
+Use the **[Folder](navigationfolder-folder-property-outlook.md)** method to return or set the **Folder** object on which the **NavigationFolder** object is based.
 
-Use the  **[IsSelected](navigationfolder-isselected-property-outlook.md)** property to determine if the navigation folder is selected and the **[Position](navigationfolder-position-property-outlook.md)** property to return or set the display position of the navigation folder within the Navigation Pane. You can also use the **[DisplayName](navigationfolder-displayname-property-outlook.md)** property to return the display name of the navigation folder within the Navigation Pane.
+Use the **[IsSelected](navigationfolder-isselected-property-outlook.md)** property to determine if the navigation folder is selected and the **[Position](navigationfolder-position-property-outlook.md)** property to return or set the display position of the navigation folder within the Navigation Pane. You can also use the **[DisplayName](navigationfolder-displayname-property-outlook.md)** property to return the display name of the navigation folder within the Navigation Pane.
 
-Use the  **[IsRemovable](navigationfolder-isremovable-property-outlook.md)** property to determine if a navigation folder can be removed from the **NavigationFolders** collection and the **[IsSideBySide](navigationfolder-issidebyside-property-outlook.md)** property to return or set the viewing mode for a navigation folder associated with a **[CalendarModule](calendarmodule-object-outlook.md)** object.
+Use the **[IsRemovable](navigationfolder-isremovable-property-outlook.md)** property to determine if a navigation folder can be removed from the **NavigationFolders** collection and the **[IsSideBySide](navigationfolder-issidebyside-property-outlook.md)** property to return or set the viewing mode for a navigation folder associated with a **[CalendarModule](calendarmodule-object-outlook.md)** object.
 
 
 ## Properties

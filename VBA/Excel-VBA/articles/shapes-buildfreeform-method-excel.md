@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.BuildFreeform Method (Excel)
 
-Builds a freeform object. Returns a  **[FreeformBuilder](freeformbuilder-object-excel.md)** object that represents the freeform as it is being built. Use the **[AddNodes](freeformbuilder-addnodes-method-excel.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **[ConvertToShape](freeformbuilder-converttoshape-method-excel.md)** method to convert the **FreeformBuilder** object into a **[Shape](shape-object-excel.md)** object that has the geometric description you?ve defined in the **FreeformBuilder** object.
+Builds a freeform object. Returns a **[FreeformBuilder](freeformbuilder-object-excel.md)** object that represents the freeform as it is being built. Use the **[AddNodes](freeformbuilder-addnodes-method-excel.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **[ConvertToShape](freeformbuilder-converttoshape-method-excel.md)** method to convert the **FreeformBuilder** object into a **[Shape](shape-object-excel.md)** object that has the geometric description you?ve defined in the **FreeformBuilder** object.
 
 
 ## Syntax

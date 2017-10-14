@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Font.Size Property (Outlook Forms Script)
 
-Returns or sets a  **Currency** that indicates the height, in points, of displayed text. Read/write.
+Returns or sets a **Currency** that indicates the height, in points, of displayed text. Read/write.
 
 
 ## Syntax
 
  _expression_. **Size**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Remarks

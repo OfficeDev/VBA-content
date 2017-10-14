@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 
 # ComboBox.ShowDropButtonWhen Property (Outlook Forms Script)
 
-Returns or sets a  **fmShowDropButtonWhen** value that specifies when to show the drop-down button for a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a **fmShowDropButtonWhen** value that specifies when to show the drop-down button for a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
 
 
 ## Syntax
 
  _expression_. **ShowDropButtonWhen**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-The settings for  **ShowDropButtonWhen** are:
+The settings for **ShowDropButtonWhen** are:
 
 
 

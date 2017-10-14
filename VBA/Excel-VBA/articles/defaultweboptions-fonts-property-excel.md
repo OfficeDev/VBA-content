@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.Fonts Property (Excel)
 
-Returns the  **[WebPageFonts](http://msdn.microsoft.com/library/c42bd65d-7c5c-148a-6f52-7aacd75be06a%28Office.15%29.aspx)** collection representing the set of fonts Microsoft Excel uses when you open a Web page in Excel and there is either no font information specified in the Web page, or the current default font can't display the character set in the Web page. Read-only.
+Returns the **[WebPageFonts](http://msdn.microsoft.com/library/c42bd65d-7c5c-148a-6f52-7aacd75be06a%28Office.15%29.aspx)** collection representing the set of fonts Microsoft Excel uses when you open a Web page in Excel and there is either no font information specified in the Web page, or the current default font can't display the character set in the Web page. Read-only.
 
 
 ## Syntax

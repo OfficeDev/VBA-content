@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.ProjectType Property (Access)
 
-You can use the  **ProjectType** property to determine the type of project that is currently open. Read-only **[AcProjectType](acprojecttype-enumeration-access.md)**.
+You can use the **ProjectType** property to determine the type of project that is currently open. Read-only **[AcProjectType](acprojecttype-enumeration-access.md)**.
 
 
 ## Syntax

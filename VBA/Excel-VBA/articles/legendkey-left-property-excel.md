@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey.Left Property (Excel)
 
-Returns a  **Double** value that represents the distance, in points, from the left edge of the object to the left edge of the chart area.
+Returns a **Double** value that represents the distance, in points, from the left edge of the object to the left edge of the chart area.
 
 
 ## Syntax

@@ -32,15 +32,15 @@ Most naming conflicts can be resolved by preceding each identifier with a qualif
 YourProject.YourModule.YourSub MyProject.MyModule.MyVar
 ```
 
-The preceding code calls the  **Sub** procedure `YourSub` and passes `MyVar` as an argument. You can use any combination of qualifiers to differentiate identical identifiers.
+The preceding code calls the **Sub** procedure `YourSub` and passes `MyVar` as an argument. You can use any combination of qualifiers to differentiate identical identifiers.
 Visual Basic matches each reference to an identifier with the "closest" declaration of a matching identifier. For example, if  `MyID` is declared **Public** in two modules in a project ( `Mod1` and `Mod2`), you can specify the  `MyID` declared in `Mod2` without qualification from within `Mod2`, but you must qualify it as  `Mod2.MyID` to specify it in `Mod1`. This is also true if  `Mod2` is in a different but directly [referenced project](vbe-glossary.md). However, if  `Mod2` is in an indirectly referenced project, that is, a project referenced by the project you directly reference, references to the `Mod2` variable named `MyID` must always be qualified with the project name. If you reference `MyID` from a third, directly referenced module, the match is made with the first declaration encountered by searching:
 
-- Directly referenced projects, in the order that they appear in the  **References** dialog box of the **Tools** menu.
+- Directly referenced projects, in the order that they appear in the **References** dialog box of the **Tools** menu.
     
 - The modules of each project. Note that there is no inherent order to the modules in the project.
     
 You can't reuse names of [host-application](vbe-glossary.md) objects, for example, R1C1 in Microsoft Excel, at different scoping levels.
 
- **Tip**  Typical errors caused by naming conflicts include ambiguous names, duplicate declarations, undeclared identifiers, and procedures that are not found. By beginning each module with an  **Option Explicit** statement to force explicit declarations of variables before they are used, you can avoid some potential naming conflicts and identifier-related bugs.
+ **Tip**  Typical errors caused by naming conflicts include ambiguous names, duplicate declarations, undeclared identifiers, and procedures that are not found. By beginning each module with an **Option Explicit** statement to force explicit declarations of variables before they are used, you can avoid some potential naming conflicts and identifier-related bugs.
 
 

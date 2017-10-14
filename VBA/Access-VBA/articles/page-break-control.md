@@ -20,7 +20,7 @@ The page break control marks the start of a new screen or printed page on a form
 
 ## Remarks
 
-In a form, a page break is active only when you set the form's  **DefaultView** property to Single Form. Page breaks don't affect a form's datasheet.
+In a form, a page break is active only when you set the form's **DefaultView** property to Single Form. Page breaks don't affect a form's datasheet.
 
 In Form view, press the PAGE UP or PAGE DOWN key to move to the previous or next page break.
 

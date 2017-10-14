@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Width Property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in points, from the left edge of the application window to its right edge.
+Returns or sets a **Double** value that represents the distance, in points, from the left edge of the application window to its right edge.
 
 
 ## Syntax

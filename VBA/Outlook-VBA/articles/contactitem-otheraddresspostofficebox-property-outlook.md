@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.OtherAddressPostOfficeBox Property (Outlook)
 
-Returns or sets a  **String** representing the post office box portion of the other address for the contact. Read/write.
+Returns or sets a **String** representing the post office box portion of the other address for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the post office box portion of the ot
 
 ## Remarks
 
-This property is parsed from the  **[OtherAddress](contactitem-otheraddress-property-outlook.md)** property, but may be changed or entered independently should it be parsed incorrectly. Note that any such changes or entries to this property will be overwritten by any subsequent changes or entries to **OtherAddress** .
+This property is parsed from the **[OtherAddress](contactitem-otheraddress-property-outlook.md)** property, but may be changed or entered independently should it be parsed incorrectly. Note that any such changes or entries to this property will be overwritten by any subsequent changes or entries to **OtherAddress** .
 
 
 ## See also

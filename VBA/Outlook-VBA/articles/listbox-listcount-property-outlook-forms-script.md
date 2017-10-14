@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ListBox.ListCount Property (Outlook Forms Script)
 
-Returns a  **Long** that represents the number of list entries in a control. Read-only.
+Returns a **Long** that represents the number of list entries in a control. Read-only.
 
 
 ## Syntax
 
  _expression_. **ListCount**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_A variable that represents a **ListBox** object.
 
 
 ## Remarks

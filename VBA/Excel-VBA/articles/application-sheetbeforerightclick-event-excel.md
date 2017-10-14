@@ -29,7 +29,7 @@ Occurs when any worksheet is right-clicked, before the default right-click actio
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Sh_|Required| **Object**|A  **[Worksheet](worksheet-object-excel.md)** object that represents the sheet.|
+| _Sh_|Required| **Object**|A **[Worksheet](worksheet-object-excel.md)** object that represents the sheet.|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the right-click occurred.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action isn't performed when the procedure is finished.|
 

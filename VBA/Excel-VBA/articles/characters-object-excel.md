@@ -18,9 +18,9 @@ Represents characters in an object that contains text.
 
 ## Remarks
 
-The  **Characters** object lets you modify any sequence of characters contained in the full text string.
+The **Characters** object lets you modify any sequence of characters contained in the full text string.
 
-Use  **Characters** ( _start_, _length_ ), where _start_ is the start character number and _length_ is the number of characters, to return a **Characters** object.
+Use **Characters** ( _start_, _length_ ), where _start_ is the start character number and _length_ is the number of characters, to return a **Characters** object.
 
 
 ## Example
@@ -35,7 +35,7 @@ With Worksheets("Sheet1").Range("B1")
 End With
 ```
 
-The  **[Characters](range-characters-property-excel.md)** method is necessary only when you need to change some of an object's text without affecting the rest (you cannot use the **Characters** method to format a portion of the text if the object doesn't support rich text). To change all the text at the same time, you can usually apply the appropriate method or property directly to the object. The following example formats the contents of cell A5 as italic.
+The **[Characters](range-characters-property-excel.md)** method is necessary only when you need to change some of an object's text without affecting the rest (you cannot use the **Characters** method to format a portion of the text if the object doesn't support rich text). To change all the text at the same time, you can usually apply the appropriate method or property directly to the object. The following example formats the contents of cell A5 as italic.
 
 
 

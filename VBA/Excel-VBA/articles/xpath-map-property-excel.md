@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XPath.Map Property (Excel)
 
-Returns an  **[XmlMap](xmlmap-object-excel.md)** object that represents the schema map that contains the specified **[XPath](xpath-object-excel.md)** object. Read-only.
+Returns an **[XmlMap](xmlmap-object-excel.md)** object that represents the schema map that contains the specified **[XPath](xpath-object-excel.md)** object. Read-only.
 
 
 ## Syntax

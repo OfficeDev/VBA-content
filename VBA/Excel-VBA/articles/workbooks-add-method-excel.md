@@ -33,7 +33,7 @@ Creates a new workbook. The new workbook becomes the active workbook.
 
 ### Return Value
 
-A  **[Workbook](workbook-object-excel.md)** object that represents the new workbook.
+A **[Workbook](workbook-object-excel.md)** object that represents the new workbook.
 
 
 ## Remarks

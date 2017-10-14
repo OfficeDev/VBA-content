@@ -48,7 +48,7 @@ Protects a worksheet so that it cannot be modified.
 
 ## Remarks
 
-If changes wanted to be made to a protected worksheet, it is possible to use the  **Protect** method on a protected worksheet if the password is supplied. Also, another method would be to unprotect the worksheet, make the necessary changes, and then protect the worksheet again.
+If changes wanted to be made to a protected worksheet, it is possible to use the **Protect** method on a protected worksheet if the password is supplied. Also, another method would be to unprotect the worksheet, make the necessary changes, and then protect the worksheet again.
 
 
  **Note**  'Unprotected' means the cell may be locked ( **Format Cells** dialog box) but is included in a range defined in the **Allow Users to Edit Ranges** dialog box, and the user has unprotected the range with a password or been validated via NT permissions.

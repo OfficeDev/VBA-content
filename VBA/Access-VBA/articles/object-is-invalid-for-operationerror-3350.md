@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You used the  **RefreshLink** method on an object other than a linked table. An object ceases to exist when it is destroyed and when its associated DAO object is closed or is no longer defined in the current scope.
+You used the **RefreshLink** method on an object other than a linked table. An object ceases to exist when it is destroyed and when its associated DAO object is closed or is no longer defined in the current scope.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

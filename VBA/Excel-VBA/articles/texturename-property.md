@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 # TextureName Property
 
-Returns the name of the custom texture file for the specified fill. Read-only  **String**.
+Returns the name of the custom texture file for the specified fill. Read-only **String**.
 
-This property is read-only. Use the  **UserPicture** or **UserTextured** method to set the texture file for the fill.
+This property is read-only. Use the **UserPicture** or **UserTextured** method to set the texture file for the fill.
 
 ## Example
 

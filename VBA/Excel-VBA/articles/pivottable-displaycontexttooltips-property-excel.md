@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.DisplayContextTooltips Property (Excel)
 
-Controls whether or not tooltips are displayed for PivotTable cells. Read/write  **Boolean** .
+Controls whether or not tooltips are displayed for PivotTable cells. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Controls whether or not tooltips are displayed for PivotTable cells. Read/write 
 
 ## Remarks
 
-If  **DisplayContextTooltips** is set to **False** , contextual tooltips for PivotTable cells will not be displayed. If it is set to **True** , tooltips for PivotTable cells in the row, column, and data areas will be displayed.
+If **DisplayContextTooltips** is set to **False** , contextual tooltips for PivotTable cells will not be displayed. If it is set to **True** , tooltips for PivotTable cells in the row, column, and data areas will be displayed.
 
 
 ## See also

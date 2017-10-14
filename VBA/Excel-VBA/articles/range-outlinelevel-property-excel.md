@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.OutlineLevel Property (Excel)
 
-Returns or sets the current outline level of the specified row or column. Read/write  **Variant** .
+Returns or sets the current outline level of the specified row or column. Read/write **Variant** .
 
 
 ## Syntax

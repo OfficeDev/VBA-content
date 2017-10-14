@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.SourceConnectionFile Property (Excel)
 
-Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the QueryTable. Read/write.
+Returns or sets a **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the QueryTable. Read/write.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 
 ## Remarks
 
-Data from Web queries or text queries is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object. You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
+Data from Web queries or text queries is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object. You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
 
 
 ## See also

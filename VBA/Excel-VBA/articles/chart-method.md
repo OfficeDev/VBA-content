@@ -13,6 +13,6 @@ ms.date: 06/08/2017
 
 # Chart Method
 
-Returns a  **Chart** object that represents the Microsoft Graph chart.
+Returns a **Chart** object that represents the Microsoft Graph chart.
 
 

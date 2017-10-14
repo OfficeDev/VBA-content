@@ -33,7 +33,7 @@ Returns a single object from the represented collection.
 
 ### Return Value
 
-A  **ColorStops** object contained by the collection.
+A **ColorStops** object contained by the collection.
 
 
 ## See also

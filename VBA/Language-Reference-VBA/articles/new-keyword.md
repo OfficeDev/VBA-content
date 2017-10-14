@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # New <keyword>
 
-The  **New** keyword is used in these contexts:
+The **New** keyword is used in these contexts:
 
 [Dim Statement](dim-statement.md)
 

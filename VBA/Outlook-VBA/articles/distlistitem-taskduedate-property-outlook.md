@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.TaskDueDate Property (Outlook)
 
-Returns or sets a  **Date** value that represents the due date of the task for this **[DistListItem](distlistitem-object-outlook.md)** . Read/write.
+Returns or sets a **Date** value that represents the due date of the task for this **[DistListItem](distlistitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the due date of the task for t
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](distlistitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](distlistitem-ismarkedastask-property-outlook.md)** property is set to **False** .
 
 
 ## See also

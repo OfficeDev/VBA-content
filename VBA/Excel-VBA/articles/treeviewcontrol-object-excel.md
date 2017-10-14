@@ -23,7 +23,7 @@ You use this object primarily for macro recording; it is not intended for any ot
 
 ## Example
 
-Use the  **[TreeviewControl](cubefield-treeviewcontrol-property-excel.md)** property to return the **TreeviewControl** object. The following example sets the control to its "drilled" (expanded, or visible) status for the states of California and Maryland in the second PivotTable report on the active worksheet.
+Use the **[TreeviewControl](cubefield-treeviewcontrol-property-excel.md)** property to return the **TreeviewControl** object. The following example sets the control to its "drilled" (expanded, or visible) status for the states of California and Maryland in the second PivotTable report on the active worksheet.
 
 
 ```vb

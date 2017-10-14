@@ -34,7 +34,7 @@ Records code if the macro recorder is on.
 
 ## Remarks
 
-The  **RecordMacro** method cannot record into the active module (the module in which the **RecordMacro** method exists).
+The **RecordMacro** method cannot record into the active module (the module in which the **RecordMacro** method exists).
 
 If  _BasicCode_ is omitted and the application is recording into Visual Basic, Microsoft Excel will record a suitable `Application.Run` statement.
 

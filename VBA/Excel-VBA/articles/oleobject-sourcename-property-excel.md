@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.SourceName Property (Excel)
 
-Returns or sets a  **String** value that represents the specified object's link source name.
+Returns or sets a **String** value that represents the specified object's link source name.
 
 
 ## Syntax

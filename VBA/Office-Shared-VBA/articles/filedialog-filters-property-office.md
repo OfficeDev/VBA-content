@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.Filters Property (Office)
 
-Gets a  **FileDialogFilters** collection. Read-only.
+Gets a **FileDialogFilters** collection. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ FileDialogFilters
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box. The example also adds a new file filter called "Images."
+The following example displays a **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box. The example also adds a new file filter called "Images."
 
 
 ```

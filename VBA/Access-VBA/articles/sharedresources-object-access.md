@@ -22,9 +22,9 @@ The SharedResources collection contains Microsoft Office themes and images that 
 
  For example, you may want to display your company logo on every form that you create. In earlier versions of Access, you had to import the logo into every form. In Access, you can add the logo as a shared image. Then , it will be displayed in the **Image Gallery** that is displayed when you click the **Insert Image** dropdown menu for the **Controls** group in the **Design** tab.
 
-Use the  **[Resources](codeproject-resources-property-access.md)** property of the **[CodeProject](codeproject-object-access.md)** object or the **[Resources](currentproject-resources-property-access.md)** property of the **[CurrentProject](currentproject-object-access.md)** object to enumerate the **SharedResources** collection.
+Use the **[Resources](codeproject-resources-property-access.md)** property of the **[CodeProject](codeproject-object-access.md)** object or the **[Resources](currentproject-resources-property-access.md)** property of the **[CurrentProject](currentproject-object-access.md)** object to enumerate the **SharedResources** collection.
 
-To import an image as a  **SharedResource** object, use the **[AddSharedImage](codeproject-addsharedimage-method-access.md)** method of the **[CodeProject](codeproject-object-access.md)** object or the **[AddSharedImage](currentproject-addsharedimage-method-access.md)** method of the **[CurrentProject](currentproject-object-access.md)** object.
+To import an image as a **SharedResource** object, use the **[AddSharedImage](codeproject-addsharedimage-method-access.md)** method of the **[CodeProject](codeproject-object-access.md)** object or the **[AddSharedImage](currentproject-addsharedimage-method-access.md)** method of the **[CurrentProject](currentproject-object-access.md)** object.
 
 
 ## Properties

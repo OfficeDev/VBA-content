@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmptyCell.BottomPadding Property (Access)
 
-Gets or sets the amount of space (in inches) between the list box and its bottom gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the list box and its bottom gridline. Read/write **Integer**.
 
 
 ## Syntax

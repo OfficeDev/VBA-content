@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Position Property
 
-Position property as it applies to the  **DataLabel** and **DataLabels** objects.
+Position property as it applies to the **DataLabel** and **DataLabels** objects.
 
 Returns or sets the position of the data label. Read/write XlDataLabelPosition.
 
@@ -32,7 +32,7 @@ Returns or sets the position of the data label. Read/write XlDataLabelPosition.
 | **xlLabelPositionCustom**|
  _expression_. **Position**
  _expression_ Required. An expression that returns one of the above objects.
-Position property as it applies to the  **Legend** object.
+Position property as it applies to the **Legend** object.
 Returns or sets the position of the legend on the chart. Read/write XlLegendPosition .
 
 

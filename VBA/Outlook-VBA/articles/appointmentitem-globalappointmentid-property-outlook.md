@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.GlobalAppointmentID Property (Outlook)
 
-Returns a  **String** value that represents a unique global identifier for the **[AppointmentItem](appointmentitem-object-outlook.md)** object. Read-only.
+Returns a **String** value that represents a unique global identifier for the **[AppointmentItem](appointmentitem-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents a unique global identifier for the *
 
 ## Remarks
 
-There are situations where the entry ID of  **AppointmentItem** objects may change, such as when an item is moved to a different folder or to a different store. Entry IDs can also change when a user performs certain functions in Outlook, such as exporting and then reimporting data.
+There are situations where the entry ID of **AppointmentItem** objects may change, such as when an item is moved to a different folder or to a different store. Entry IDs can also change when a user performs certain functions in Outlook, such as exporting and then reimporting data.
 
 Therefore, each Outlook appointment item is assigned a Global Object ID, a unique global identifier which does not change during those situations. The Global Object ID is a MAPI property that Outlook uses to correlate meeting updates and responses with a particular meeting on the calendar. The Global Object ID is the same across all copies of the item.
 

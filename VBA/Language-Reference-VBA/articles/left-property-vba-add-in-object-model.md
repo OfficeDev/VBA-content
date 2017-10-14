@@ -15,9 +15,9 @@ ms.date: 06/08/2017
 
 Returns or sets a [Single](vbe-glossary.md) containing the location of the left edge of the window on the screen in[twips](vbe-glossary.md). Read/write.
  **Remarks**
-The value returned by the  **Left** property depends on whether or not the window is[linked](vbe-glossary.md) or[docked](vbe-glossary.md).
+The value returned by the **Left** property depends on whether or not the window is[linked](vbe-glossary.md) or[docked](vbe-glossary.md).
 
- **Note**  Changing the  **Left** property setting of a linked or docked window has no effect as long as the window remains linked or docked.
+ **Note**  Changing the **Left** property setting of a linked or docked window has no effect as long as the window remains linked or docked.
 
 
 

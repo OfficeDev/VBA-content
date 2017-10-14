@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomControl.Value Property (Access)
 
-Gets or sets the value displayed in the specified control. Read/write  **Variant**.
+Gets or sets the value displayed in the specified control. Read/write **Variant**.
 
 
 ## Syntax

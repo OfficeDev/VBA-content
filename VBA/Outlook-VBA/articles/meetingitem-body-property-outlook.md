@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.Body Property (Outlook)
 
-Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
+Returns or sets a **String** representing the clear-text body of the Outlook item. Read/write.
 
 
 ## Syntax

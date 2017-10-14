@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.IconSets Property (Excel)
 
-This property is used to filter data in a workbook based on a cell icon from the  **IconSet** collection. Read-only.
+This property is used to filter data in a workbook based on a cell icon from the **IconSet** collection. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Anniversary Property (Outlook)
 
-Returns or sets a  **Date** indicating the anniversary date for the contact. Read/write.
+Returns or sets a **Date** indicating the anniversary date for the contact. Read/write.
 
 
 ## Syntax

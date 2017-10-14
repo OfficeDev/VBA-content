@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Shapes Property (Excel)
 
-Returns a  **[Shapes](shapes-object-excel.md)** collection that represents all the shapes on the chart sheet. Read-only.
+Returns a **[Shapes](shapes-object-excel.md)** collection that represents all the shapes on the chart sheet. Read-only.
 
 
 ## Syntax

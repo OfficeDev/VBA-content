@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.DataTable Property (Excel)
 
-Returns a  **[DataTable](datatable-object-excel.md)** object that represents the chart data table. Read-only.
+Returns a **[DataTable](datatable-object-excel.md)** object that represents the chart data table. Read-only.
 
 
 ## Syntax

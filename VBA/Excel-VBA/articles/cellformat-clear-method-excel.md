@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellFormat.Clear Method (Excel)
 
-Clears the criterias set in the  **[FindFormat](application-findformat-property-excel.md)** and **[ReplaceFormat](application-replaceformat-property-excel.md)** properties.
+Clears the criterias set in the **[FindFormat](application-findformat-property-excel.md)** and **[ReplaceFormat](application-replaceformat-property-excel.md)** properties.
 
 
 ## Syntax

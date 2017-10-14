@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When this property is  **True** , shapes cannot be added to the chart, and the **Click** and **DoubleClick** events for chart elements don't occur.
+When this property is **True** , shapes cannot be added to the chart, and the **Click** and **DoubleClick** events for chart elements don't occur.
 
-This property is not persisted when the file is saved. If you set this property to  **True** and then reopen the file, it will no longer be set to **True** .
+This property is not persisted when the file is saved. If you set this property to **True** and then reopen the file, it will no longer be set to **True** .
 
 
 ## Example

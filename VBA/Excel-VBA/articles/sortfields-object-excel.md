@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SortFields Object (Excel)
 
-The  **SortFields** collection is a collection of **SortField** objects. It allows developers to store a sort state on workbooks, lists, and autofilters.
+The **SortFields** collection is a collection of **SortField** objects. It allows developers to store a sort state on workbooks, lists, and autofilters.
 
 
 ## Remarks
 
-The object contains properties to add, count, sort, and remove  **SortField** objects.
+The object contains properties to add, count, sort, and remove **SortField** objects.
 
 
 ## Example

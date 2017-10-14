@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Operations.Item Property (Access)
 
-The  **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
+The **Item** property returns a specific member of a collection either by position or by index. Read-only **Object**.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The  **Item** property returns a specific member of a collection either by posit
 
 If the value provided for the  _index_ argument doesn't match any existing member of the collection, an error occurs.
 
-The  **Item** property is the default member of a collection, so you don't have to specify it explicitly. For example, the following two lines of code are equivalent:
+The **Item** property is the default member of a collection, so you don't have to specify it explicitly. For example, the following two lines of code are equivalent:
 
 
 

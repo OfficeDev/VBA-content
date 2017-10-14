@@ -17,15 +17,15 @@ ms.date: 06/08/2017
 Sets or returns the name of a specified file or folder. Read/write.
  **Syntax**
  _object_. **Name** [= _newname_ ]
-The  **Name** property has these parts:
+The **Name** property has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **File** or **Folder** object.|
+| _object_|Required. Always the name of a **File** or **Folder** object.|
 | _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
  **Remarks**
-The following code illustrates the use of the  **Name** property:
+The following code illustrates the use of the **Name** property:
 
 
 

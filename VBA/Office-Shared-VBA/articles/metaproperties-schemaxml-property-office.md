@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperties.SchemaXml Property (Office)
 
-Gets the schema XML for the  **MetaProperties** object. Read-only.
+Gets the schema XML for the **MetaProperties** object. Read-only.
 
 
 ## Syntax

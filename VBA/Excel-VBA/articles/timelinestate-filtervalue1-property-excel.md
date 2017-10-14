@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TimelineState.FilterValue1 Property (Excel)
 
-Returns the 1st value associated with the date filter (semantics vary by filter type).  **Variant** Read-only
+Returns the 1st value associated with the date filter (semantics vary by filter type). **Variant** Read-only
 
 
 ## Syntax

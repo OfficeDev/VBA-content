@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.PictureTiling Property (Access)
 
-You can use the  **PictureTiling** property to specify whether a background picture is tiled across the entire image control, Form window, form, or page of a report. Read/write **Boolean**.
+You can use the **PictureTiling** property to specify whether a background picture is tiled across the entire image control, Form window, form, or page of a report. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **PictureTiling** property to specify whether a background pict
 
 ## Remarks
 
-The  **PictureTiling** property uses the following settings.
+The **PictureTiling** property uses the following settings.
 
 
 
@@ -33,11 +33,11 @@ The  **PictureTiling** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The picture is tiled.|
 |No|**False**|(Default) The picture isn't tiled.|
-You can also set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can also set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-You can create interesting effects by placing a picture on a form or report and setting the  **PictureTiling** property to Yes. The alignment of the tiled images is affected by the **PictureAlignment** property setting. For example, if the **PictureTiling** property is set to Top Left, tiling begins at the top left of the image control, Form window, or page of a report.
+You can create interesting effects by placing a picture on a form or report and setting the **PictureTiling** property to Yes. The alignment of the tiled images is affected by the **PictureAlignment** property setting. For example, if the **PictureTiling** property is set to Top Left, tiling begins at the top left of the image control, Form window, or page of a report.
 
-If the  **PictureAlignment** property is set to Form Center and the **PictureTiling** property is set to Yes, the background picture of a form will be tiled across the form, not across the Form window.
+If the **PictureAlignment** property is set to Form Center and the **PictureTiling** property is set to Yes, the background picture of a form will be tiled across the form, not across the Form window.
 
 
 ## See also

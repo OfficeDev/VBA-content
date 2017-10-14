@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomTaskPane.Width Property (Office)
 
-Gets or sets the width of the task pane specified by the  **CustomTaskPane** object. Read/write.
+Gets or sets the width of the task pane specified by the **CustomTaskPane** object. Read/write.
 
 
 ## Syntax

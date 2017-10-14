@@ -25,17 +25,17 @@ Branches to and returns from a subroutine within a [procedure](vbe-glossary.md).
  **Return**
 The  _line_[argument](vbe-glossary.md) can be any[line label](vbe-glossary.md) or[line number](vbe-glossary.md).
  **Remarks**
-You can use  **GoSub** and **Return** anywhere in a procedure, but **GoSub** and the corresponding **Return** statement must be in the same procedure. A subroutine can contain more than one **Return** statement, but the first **Return** statement encountered causes the flow of execution to branch back to the[statement](vbe-glossary.md) immediately following the most recently executed **GoSub** statement.
+You can use **GoSub** and **Return** anywhere in a procedure, but **GoSub** and the corresponding **Return** statement must be in the same procedure. A subroutine can contain more than one **Return** statement, but the first **Return** statement encountered causes the flow of execution to branch back to the[statement](vbe-glossary.md) immediately following the most recently executed **GoSub** statement.
 
- **Note**  You can't enter or exit  **Sub** procedures with **GoSub...Return**.
+ **Note**  You can't enter or exit **Sub** procedures with **GoSub...Return**.
 
 
- **Tip**  Creating separate procedures that you can call may provide a more structured alternative to using  **GoSub...Return**.
+ **Tip**  Creating separate procedures that you can call may provide a more structured alternative to using **GoSub...Return**.
 
 
 ## Example
 
-This example uses  **GoSub** to call a subroutine within a **Sub** procedure. The **Return** statement causes the execution to resume at the statement immediately following the **GoSub** statement. The **Exit Sub** statement is used to prevent control from accidentally flowing into the subroutine.
+This example uses **GoSub** to call a subroutine within a **Sub** procedure. The **Return** statement causes the execution to resume at the statement immediately following the **GoSub** statement. The **Exit Sub** statement is used to prevent control from accidentally flowing into the subroutine.
 
 
 ```vb

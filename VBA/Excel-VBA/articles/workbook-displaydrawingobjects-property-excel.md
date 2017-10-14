@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.DisplayDrawingObjects Property (Excel)
 
-Returns or sets how shapes are displayed. Read/write  **Long** .
+Returns or sets how shapes are displayed. Read/write **Long** .
 
 
 ## Syntax

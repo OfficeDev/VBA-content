@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.DataBodyRange Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the range of values in a PivotTable. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the range of values in a PivotTable. Read-only.
 
 
 ## Syntax

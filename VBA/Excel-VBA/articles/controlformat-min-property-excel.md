@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.Min Property (Excel)
 
-Returns or sets the minimum value of a scroll bar or spinner range. The scroll bar or spinner won't take on values less than this minimum value. Read/write  **Long** .
+Returns or sets the minimum value of a scroll bar or spinner range. The scroll bar or spinner won't take on values less than this minimum value. Read/write **Long** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The value of the  **Min** property must be less than the value of the **[Max](controlformat-max-property-excel.md)** property.
+The value of the **Min** property must be less than the value of the **[Max](controlformat-max-property-excel.md)** property.
 
 
 ## Example

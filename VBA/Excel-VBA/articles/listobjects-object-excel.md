@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ListObjects Object (Excel)
 
-A collection of all the  **[ListObject](listobject-object-excel.md)** objects on a worksheet. Each **ListObject** object represents a table in the worksheet.
+A collection of all the **[ListObject](listobject-object-excel.md)** objects on a worksheet. Each **ListObject** object represents a table in the worksheet.
 
 
 ## Remarks
 
-Use the  **[ListObjects](worksheet-listobjects-property-excel.md)** property of the[Worksheet](worksheet-object-excel.md) object to return the **ListObjects** collection.
+Use the **[ListObjects](worksheet-listobjects-property-excel.md)** property of the[Worksheet](worksheet-object-excel.md) object to return the **ListObjects** collection.
 
 
 ## Example

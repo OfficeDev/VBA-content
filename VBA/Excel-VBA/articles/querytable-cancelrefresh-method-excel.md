@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.CancelRefresh Method (Excel)
 
-Cancels all background queries for the specified query table. Use the  **[Refreshing](querytable-refreshing-property-excel.md)** property to determine whether a background query is currently in progress.
+Cancels all background queries for the specified query table. Use the **[Refreshing](querytable-refreshing-property-excel.md)** property to determine whether a background query is currently in progress.
 
 
 ## Syntax

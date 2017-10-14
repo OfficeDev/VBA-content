@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.CubeFields Property (Excel)
 
-Returns the  **[CubeFields](cubefields-object-excel.md)** collection. Each **[CubeField](cubefield-object-excel.md)** object contains the properties of the cube field element. Read-only.
+Returns the **[CubeFields](cubefields-object-excel.md)** collection. Each **[CubeField](cubefield-object-excel.md)** object contains the properties of the cube field element. Read-only.
 
 
 ## Syntax

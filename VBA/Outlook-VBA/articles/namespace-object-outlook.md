@@ -20,7 +20,7 @@ Represents an abstract root object for any data source.
 
 The object itself provides methods for logging in and out, accessing storage objects directly by ID, accessing certain special default folders directly, and accessing data sources owned by other users.
 
-Use  **[GetNameSpace](http://msdn.microsoft.com/library/6175d0d9-5a61-ce45-35c0-b70895d757b3%28Office.15%29.aspx)** ("MAPI") to return the Outlook **NameSpace** object from the **[Application](http://msdn.microsoft.com/library/797003e7-ecd1-eccb-eaaf-32d6ddde8348%28Office.15%29.aspx)** object.
+Use **[GetNameSpace](http://msdn.microsoft.com/library/6175d0d9-5a61-ce45-35c0-b70895d757b3%28Office.15%29.aspx)** ("MAPI") to return the Outlook **NameSpace** object from the **[Application](http://msdn.microsoft.com/library/797003e7-ecd1-eccb-eaaf-32d6ddde8348%28Office.15%29.aspx)** object.
 
 The only data source supported is MAPI, which allows access to all Outlook data stored in the user's mail stores.
 

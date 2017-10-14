@@ -25,7 +25,7 @@ Gets or sets the value of a document property. Read/write.
 
 ## Remarks
 
-If the container application doesn't define a value for one of the built-in document properties, reading the  **Value** property for that document property causes an error.
+If the container application doesn't define a value for one of the built-in document properties, reading the **Value** property for that document property causes an error.
 
 
 ## See also

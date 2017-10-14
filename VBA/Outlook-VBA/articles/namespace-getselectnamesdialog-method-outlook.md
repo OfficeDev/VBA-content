@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetSelectNamesDialog Method (Outlook)
 
-Obtains a  **[SelectNamesDialog](selectnamesdialog-object-outlook.md)** object for the current session.
+Obtains a **[SelectNamesDialog](selectnamesdialog-object-outlook.md)** object for the current session.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Obtains a  **[SelectNamesDialog](selectnamesdialog-object-outlook.md)** object f
 
 ### Return Value
 
-A  **SelectNamesDialog** object for the current session. The **SelectNamesDialog** object supports displaying the **Select Names** dialog box for the user to select entries from one or more address lists in the current session.
+A **SelectNamesDialog** object for the current session. The **SelectNamesDialog** object supports displaying the **Select Names** dialog box for the user to select entries from one or more address lists in the current session.
 
 
 ## Example
 
-The following code sample shows how to instantiate an instance of  **SelectNamesDialog** for the current session, and use it to display entries from the Contacts folder in a dialog box that resembles the **Select Names** dialog box in the Outlook user interface.
+The following code sample shows how to instantiate an instance of **SelectNamesDialog** for the current session, and use it to display entries from the Contacts folder in a dialog box that resembles the **Select Names** dialog box in the Outlook user interface.
 
 
 ```vb

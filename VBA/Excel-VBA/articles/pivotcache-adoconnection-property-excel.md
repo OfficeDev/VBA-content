@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.ADOConnection Property (Excel)
 
-Returns an  **ADO Connection** object if the PivotTable cache is connected to an OLE DB data source. The **ADOConnection** property exposes the Microsoft Excel connection to the data provider, allowing the user to write code within the context of the same session that Excel is using with ADO (relational source) or ADO MD (OLAP source). Read-only.
+Returns an **ADO Connection** object if the PivotTable cache is connected to an OLE DB data source. The **ADOConnection** property exposes the Microsoft Excel connection to the data provider, allowing the user to write code within the context of the same session that Excel is using with ADO (relational source) or ADO MD (OLAP source). Read-only.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns an  **ADO Connection** object if the PivotTable cache is connected to an
 
 ## Remarks
 
-The  **ADOConnection** property is available only for sessions with an OLE DB data source. When there is no ADO session, the query will result in a run-time error.
+The **ADOConnection** property is available only for sessions with an OLE DB data source. When there is no ADO session, the query will result in a run-time error.
 
-The  **ADOConnection** property can be used for any OLE DB-based cache with ADO. The **ADO Connection** object can be used with ADO MD for finding information about OLAP cubes on which the cache is based.
+The **ADOConnection** property can be used for any OLE DB-based cache with ADO. The **ADO Connection** object can be used with ADO MD for finding information about OLAP cubes on which the cache is based.
 
 
 ## Example
 
-This example sets an  **ADO DB Connection** object to the **ADOConnection** property of the PivotTable cache. The example assumes that a PivotTable report exists on the active worksheet.
+This example sets an **ADO DB Connection** object to the **ADOConnection** property of the PivotTable cache. The example assumes that a PivotTable report exists on the active worksheet.
 
 
 ```vb

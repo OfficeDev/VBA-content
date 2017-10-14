@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLSchemaCollection.NamespaceURI Property (Office)
 
-Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCollection** object. Read-only.
+Gets the unique address identifier for the namespace of the **CustomXMLSchemaCollection** object. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the  **CustomXMLSchema** object.|
+| _Index_|Required|**Long**|The index number of the **CustomXMLSchema** object.|
 
 ### Return Value
 

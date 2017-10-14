@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.Show Method (Office)
 
-Displays a file dialog box and returns a  **Long** indicating whether the user pressed the **Action** button (-1) or the **Cancel** button (0). When you call the **Show** method, no more code executes until the user dismisses the file dialog box. In the case of **Open** and **SaveAs** dialog boxes, use the **Execute** method right after the **Show** method to carry out the user's action.
+Displays a file dialog box and returns a **Long** indicating whether the user pressed the **Action** button (-1) or the **Cancel** button (0). When you call the **Show** method, no more code executes until the user dismisses the file dialog box. In the case of **Open** and **SaveAs** dialog boxes, use the **Execute** method right after the **Show** method to carry out the user's action.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Displays a file dialog box and returns a  **Long** indicating whether the user p
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the FileDialog object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box using the FileDialog object and displays each selected file in a message box.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.FontName Property (Excel)
 
-Returns or sets the name of the font in the specified WordArt. Read/write  **String** .
+Returns or sets the name of the font in the specified WordArt. Read/write **String** .
 
 
 ## Syntax

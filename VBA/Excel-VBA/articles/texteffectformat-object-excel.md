@@ -18,7 +18,7 @@ Contains properties and methods that apply to WordArt objects.
 
 ## Remarks
 
-Use the  **[TextEffect](shape-texteffect-property-excel.md)** property to return a **TextEffectFormat** object.
+Use the **[TextEffect](shape-texteffect-property-excel.md)** property to return a **TextEffectFormat** object.
 
 
 ## Example

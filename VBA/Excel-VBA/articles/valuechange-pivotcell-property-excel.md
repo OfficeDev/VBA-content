@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValueChange.PivotCell Property (Excel)
 
-Returns a  **[PivotCell](pivotcell-object-excel.md)** object that represents the cell (tuple) that was changed. Read-only
+Returns a **[PivotCell](pivotcell-object-excel.md)** object that represents the cell (tuple) that was changed. Read-only
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Returns a  **[PivotCell](pivotcell-object-excel.md)** object that represents the
 
 ## Remarks
 
-When the value of the  **[VisibleInPivotTable](valuechange-visibleinpivottable-property-excel.md)** property of the specified **ValueChange** object is **True** , the **PivotCell** property returns a **PivotCell** object for the cell (tuple) that was changed. When the value of the **VisibleInPivotTable** property of the specified **ValueChange** object is **False** , the **PivotCell** property returns **NULL** .
+When the value of the **[VisibleInPivotTable](valuechange-visibleinpivottable-property-excel.md)** property of the specified **ValueChange** object is **True** , the **PivotCell** property returns a **PivotCell** object for the cell (tuple) that was changed. When the value of the **VisibleInPivotTable** property of the specified **ValueChange** object is **False** , the **PivotCell** property returns **NULL** .
 
 

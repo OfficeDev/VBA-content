@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentInspectors.Item Property (Office)
 
-Gets the  **DocumentInspector** object specified by the index. Read-only.
+Gets the **DocumentInspector** object specified by the index. Read-only.
 
 
 ## Syntax

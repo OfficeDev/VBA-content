@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllowEditRange.Title Property (Excel)
 
-Returns or sets the title of the range of cells that can edited on a protected sheet. Read/write  **String** .
+Returns or sets the title of the range of cells that can edited on a protected sheet. Read/write **String** .
 
 
 ## Syntax

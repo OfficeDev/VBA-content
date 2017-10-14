@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceFiles.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **SharedWorkspaceFiles** collection. Read-only.
+Gets a **Long** indicating the number of items in the **SharedWorkspaceFiles** collection. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.

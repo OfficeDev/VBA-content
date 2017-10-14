@@ -36,11 +36,11 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
-The  **StDevP** function evaluates a population, and the **StDev** function evaluates a population sample.
+The **StDevP** function evaluates a population, and the **StDev** function evaluates a population sample.
 
-If the underlying query contains fewer than two records (or no records, for the  **StDevP** function), these functions return a **Null** value (which indicates that a standard deviation cannot be calculated).
+If the underlying query contains fewer than two records (or no records, for the **StDevP** function), these functions return a **Null** value (which indicates that a standard deviation cannot be calculated).
 
-You can use the  **StDev** and **StDevP** functions in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
+You can use the **StDev** and **StDevP** functions in a query expression. You can also use this expression in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
 
 
 ## Example

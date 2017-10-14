@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.LastFirstNoSpaceAndSuffix Property (Outlook)
 
-Returns a  **String** that contains the last name, first name, and suffix of the user without a space. Read-only
+Returns a **String** that contains the last name, first name, and suffix of the user without a space. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that contains the last name, first name, and suffix of the
 
 ## Remarks
 
-This property is used only when the  **[FirstName](contactitem-firstname-property-outlook.md)** , **[LastName](contactitem-lastname-property-outlook.md)** , and **[Suffix](contactitem-suffix-property-outlook.md)** properties (the fields that define this property) contain Asian (DBCS) characters. Note that any such changes or entries to the **FirstName** , **LastName** , or **Suffix** properties will be overwritten by any subsequent changes or entries to FullName.
+This property is used only when the **[FirstName](contactitem-firstname-property-outlook.md)** , **[LastName](contactitem-lastname-property-outlook.md)** , and **[Suffix](contactitem-suffix-property-outlook.md)** properties (the fields that define this property) contain Asian (DBCS) characters. Note that any such changes or entries to the **FirstName** , **LastName** , or **Suffix** properties will be overwritten by any subsequent changes or entries to FullName.
 
 
 ## See also

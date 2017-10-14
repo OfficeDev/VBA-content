@@ -19,9 +19,9 @@ If a Compatible ActiveX component already exists as a previously distributed [ex
     
     If you make changes that affect the interface to the object, the class will not be upward compatible with the previous version and so it will not be possible to use the new version in place of the old version for compiled code.
     
-    In Visual Basic, the name of the Compatible ActiveX component appears in the dialog box displayed when you choose  **Project Options** from the **Tools** menu.
+    In Visual Basic, the name of the Compatible ActiveX component appears in the dialog box displayed when you choose **Project Options** from the **Tools** menu.
     
-     **Important**  To accept the edit, click  **OK** in the error message dialog box. If you want to undo the edit, click the **Cancel** button.
+    **Important**  To accept the edit, click **OK** in the error message dialog box. If you want to undo the edit, click the **Cancel** button.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

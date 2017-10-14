@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Use the  **[Names](worksheet-names-property-excel.md)** property to return a collection of all the names on a worksheet.
+Use the **[Names](worksheet-names-property-excel.md)** property to return a collection of all the names on a worksheet.
 
 
 ## Example

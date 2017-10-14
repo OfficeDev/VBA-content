@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcDisplayAs Enumeration (Access)
 
-Use with the  **DisplayAs** property to specify what is displayed in an Attachment control.
+Use with the **DisplayAs** property to specify what is displayed in an Attachment control.
 
 
 

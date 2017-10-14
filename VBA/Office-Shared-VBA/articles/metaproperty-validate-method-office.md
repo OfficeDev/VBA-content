@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.Validate Method (Office)
 
-Validates a  **MetaProperty** object representing a single property value according to a schema.
+Validates a **MetaProperty** object representing a single property value according to a schema.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ If the property is invalid, the test fails and an error message is returned. The
 
 ## Example
 
-In the following example, a  **MetaProperties** object is passed to a validation function. The function then validates the value of a single property represented by its index and returns the result.
+In the following example, a **MetaProperties** object is passed to a validation function. The function then validates the value of a single property represented by its index and returns the result.
 
 
 ```

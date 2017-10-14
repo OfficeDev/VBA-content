@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Chart Property (Excel)
 
-Returns a  **[Chart](chart-object-excel.md)** object that represents the chart contained in the shape. Read-only.
+Returns a **[Chart](chart-object-excel.md)** object that represents the chart contained in the shape. Read-only.
 
 
 ## Syntax

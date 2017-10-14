@@ -39,7 +39,7 @@ Removes all list items from a command bar combo box control (a drop-down list bo
 
 ## Example
 
-This example checks the number of items in the combo box control on a command bar named  **Custom Bar**. If there are fewer than three items in the list in the combo box, the example clears the list, adds a new first item to the list, and then displays this new item as the default for the combo box control.
+This example checks the number of items in the combo box control on a command bar named **Custom Bar**. If there are fewer than three items in the list in the combo box, the example clears the list, adds a new first item to the list, and then displays this new item as the default for the combo box control.
 
 
 ```

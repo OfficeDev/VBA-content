@@ -15,8 +15,8 @@ ms.date: 06/08/2017
     
      [How](using-the-script-editor.md)?
     
-2. On the  **Edit** menu, click **Go To**.
+2. On the **Edit** menu, click **Go To**.
     
-3. In the  **Line Number** box, type in the number of the line of code to which you want to go.
+3. In the **Line Number** box, type in the number of the line of code to which you want to go.
     
 

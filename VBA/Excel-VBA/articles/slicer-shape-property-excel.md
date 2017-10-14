@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicer.Shape Property (Excel)
 
-Returns the  **[Shape](shape-object-excel.md)** object associated with the specified slicer. Read-only.
+Returns the **[Shape](shape-object-excel.md)** object associated with the specified slicer. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Shape
 
 ## Remarks
 
-Some properties of the slicer, such as the  **[AlternativeText](shape-alternativetext-property-excel.md)** property, can only be accessed from the **Shape** object associated with the slicer.
+Some properties of the slicer, such as the **[AlternativeText](shape-alternativetext-property-excel.md)** property, can only be accessed from the **Shape** object associated with the slicer.
 
 
 ## See also

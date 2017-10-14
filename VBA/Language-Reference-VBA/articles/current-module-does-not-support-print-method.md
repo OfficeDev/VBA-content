@@ -15,11 +15,11 @@ Not all [methods](vbe-glossary.md) and[properties](vbe-glossary.md) are appropri
 
 
 
-- You tried to use the  **Print** method on an object that can't display anything. For example, you can't use the **Print** method without qualification in a[standard module](vbe-glossary.md).
+- You tried to use the **Print** method on an object that can't display anything. For example, you can't use the **Print** method without qualification in a[standard module](vbe-glossary.md).
     
-    Remove the reference to the  **Print** method, or qualify it with an appropriate object. For example, qualify it with the **Debug** object to display its arguments in the **Immediate** window during debugging.
+    Remove the reference to the **Print** method, or qualify it with an appropriate object. For example, qualify it with the **Debug** object to display its arguments in the **Immediate** window during debugging.
     
-- You tried to use the  **Line**, **Circle**, **PSet**, or **Scale** method on an object that can't accept them. For example, they can't appear unqualified in a standard module or an Automation[class module](vbe-glossary.md).
+- You tried to use the **Line**, **Circle**, **PSet**, or **Scale** method on an object that can't accept them. For example, they can't appear unqualified in a standard module or an Automation[class module](vbe-glossary.md).
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialogSelectedItems.Item Method (Office)
 
-Gets a  **String** that corresponds to the path of one of the files by **_Index_** that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.
+Gets a **String** that corresponds to the path of one of the files by **_Index_** that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorksheetDataConnection.Connection Property (Excel)
 
-Returns the internal connection string to the object in Excel.  **Variant** Read-only
+Returns the internal connection string to the object in Excel. **Variant** Read-only
 
 
 ## Syntax

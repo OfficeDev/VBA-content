@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.DisplayInkComments Property (Excel)
 
-A  **Boolean** value that determines whether ink comments are displayed in the workbook. Read/write **Boolean** .
+A **Boolean** value that determines whether ink comments are displayed in the workbook. Read/write **Boolean** .
 
 
 ## Syntax

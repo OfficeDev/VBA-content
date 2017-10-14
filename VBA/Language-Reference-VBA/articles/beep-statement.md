@@ -22,7 +22,7 @@ The frequency and duration of the beep depend on your hardware and system softwa
 
 ## Example
 
-This example uses the  **Beep** statement to sound three consecutive tones through the computer's speaker.
+This example uses the **Beep** statement to sound three consecutive tones through the computer's speaker.
 
 
 ```vb

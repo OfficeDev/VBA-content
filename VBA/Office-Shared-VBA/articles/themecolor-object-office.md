@@ -15,7 +15,7 @@ Represents a color in the color scheme of a Microsoft Office theme.
 
 ## Example
 
-The following example sets a  **ThemeColor** object to the **msoThemeAccent1** constant.
+The following example sets a **ThemeColor** object to the **msoThemeAccent1** constant.
 
 
 ```

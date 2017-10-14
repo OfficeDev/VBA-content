@@ -38,6 +38,6 @@ This tab lists the currently trusted certificates that can be used by developers
 
 ## Remove Button
 
-If you added a certificate to your list of trusted sources when you first opened VBA project signed with that certificate, and later choose not to trust that source, you can use the  **Remove** button to remove the certificate from your list of trusted sources. The next time a project signed with that certificate is opened, the virus protection behavior corresponding to the setting on the **Security Level** tab will occur.
+If you added a certificate to your list of trusted sources when you first opened VBA project signed with that certificate, and later choose not to trust that source, you can use the **Remove** button to remove the certificate from your list of trusted sources. The next time a project signed with that certificate is opened, the virus protection behavior corresponding to the setting on the **Security Level** tab will occur.
 
 

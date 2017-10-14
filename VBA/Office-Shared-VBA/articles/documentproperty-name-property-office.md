@@ -39,12 +39,12 @@ String
 
 ## Remarks
 
-A  **DocumentProperty** object represents a custom or built-in document property of a container document.
+A **DocumentProperty** object represents a custom or built-in document property of a container document.
 
 
 ## Example
 
-This example displays the name, type, and value of a document property. You must pass a valid  **DocumentProperty** object to the procedure.
+This example displays the name, type, and value of a document property. You must pass a valid **DocumentProperty** object to the procedure.
 
 
 ```

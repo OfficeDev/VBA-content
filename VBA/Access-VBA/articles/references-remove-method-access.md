@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # References.Remove Method (Access)
 
-The  **Remove** method removes a **[Reference](reference-object-access.md)** object from the **[References](references-object-access.md)** collection.
+The **Remove** method removes a **[Reference](reference-object-access.md)** object from the **[References](references-object-access.md)** collection.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ The  **Remove** method removes a **[Reference](reference-object-access.md)** obj
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Reference_|Required|**Reference**|The  **Reference** object that represents the reference you wish to remove.|
+| _Reference_|Required|**Reference**|The **Reference** object that represents the reference you wish to remove.|
 
 ## Remarks
 
-To determine the name of the  **Reference** object you wish to remove, check the Project/Library box in the Object Browser. The names of all references that are currently set appear there. These names correspond to the value of the **Name** property of a **Reference** object.
+To determine the name of the **Reference** object you wish to remove, check the Project/Library box in the Object Browser. The names of all references that are currently set appear there. These names correspond to the value of the **Name** property of a **Reference** object.
 
 
 ## See also

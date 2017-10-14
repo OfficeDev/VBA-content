@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Using Select Case Statements
 
-Use the  **Select Case** statement as an alternative to using **ElseIf** in **If...Then...Else** statements when comparing one[expression](vbe-glossary.md) to several different values. While **If...Then...Else** statements can evaluate a different expression for each **ElseIf** statement, the **Select Case** statement evaluates an expression only once, at the top of the control structure.
+Use the **Select Case** statement as an alternative to using **ElseIf** in **If...Then...Else** statements when comparing one[expression](vbe-glossary.md) to several different values. While **If...Then...Else** statements can evaluate a different expression for each **ElseIf** statement, the **Select Case** statement evaluates an expression only once, at the top of the control structure.
 
-In the following example, the  **Select Case** statement evaluates the argument that is passed to the procedure. Note that each **Case** statement can contain more than one value, a range of values, or a combination of values and[comparison operators](vbe-glossary.md). The optional  **Case Else** statement runs if the **Select Case** statement doesn't match a value in any of the **Case** statements.
+In the following example, the **Select Case** statement evaluates the argument that is passed to the procedure. Note that each **Case** statement can contain more than one value, a range of values, or a combination of values and[comparison operators](vbe-glossary.md). The optional **Case Else** statement runs if the **Select Case** statement doesn't match a value in any of the **Case** statements.
 
 
 

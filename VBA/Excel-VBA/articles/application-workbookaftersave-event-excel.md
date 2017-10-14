@@ -29,7 +29,7 @@ Occurs after the workbook is saved.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](workbook-object-excel.md)**|The workbook being saved.|
-| _Success_|Required| **Boolean**|Returns  **True** if the save operation was successful; otherwise **False** .|
+| _Success_|Required| **Boolean**|Returns **True** if the save operation was successful; otherwise **False** .|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ Nothing
 
 ## Example
 
-The following code example displays a message box if the workbook was successfully saved. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the  **Application** object, see [Using Events with the Application Object](http://msdn.microsoft.com/library/0063feba-47fd-29be-d2d5-8fcf47e70cbc%28Office.15%29.aspx).
+The following code example displays a message box if the workbook was successfully saved. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see [Using Events with the Application Object](http://msdn.microsoft.com/library/0063feba-47fd-29be-d2d5-8fcf47e70cbc%28Office.15%29.aspx).
 
 
 ```vb

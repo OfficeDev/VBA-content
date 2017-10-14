@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorksheetFunction.Dbcs Method (Excel)
 
-Converts half-width (single-byte) letters within a character string to full-width (double-byte) characters. The name of the function (and the characters that it converts) depends upon the language settings. Read/write  **String** .
+Converts half-width (single-byte) letters within a character string to full-width (double-byte) characters. The name of the function (and the characters that it converts) depends upon the language settings. Read/write **String** .
 
 
 ## Syntax

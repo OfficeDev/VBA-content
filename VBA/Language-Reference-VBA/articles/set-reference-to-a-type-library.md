@@ -18,7 +18,7 @@ Automation (formerly OLE Automation) enables you to use objects from other appli
 
 
 
-1. Click  **References** on the **Tools** menu.
+1. Click **References** on the **Tools** menu.
     
 2. Select the check boxes for the applications with type libraries you want to reference.
     

@@ -20,9 +20,9 @@ A collection of objects that have been marked as viewable on the server.
 
 This is a collection of references to objects in the workbook. Only objects in this collection will be shown on the server. By default, the entire workbook (including all worksheets) is shown.
 
-Only one  **ServerViewableItems** object can exist per workbook. This collection is not indexable by name because there is no guarantee that the names of objects that are marked as viewable on the server are unique.
+Only one **ServerViewableItems** object can exist per workbook. This collection is not indexable by name because there is no guarantee that the names of objects that are marked as viewable on the server are unique.
 
-In the Excel user interface, you can view the collection of objects that are marked as viewable on the server in the  **Excel Services Options** dialog box.
+In the Excel user interface, you can view the collection of objects that are marked as viewable on the server in the **Excel Services Options** dialog box.
 
 
 ## See also

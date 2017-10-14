@@ -25,7 +25,7 @@ Gets the domain and user name of the specified [SharedWorkspaceMember](sharedwor
 
 ## Example
 
-The following example extracts the domain name from the  **DomainName** property of each shared workspace member and lists members who belong to the "MyCompany" domain.
+The following example extracts the domain name from the **DomainName** property of each shared workspace member and lists members who belong to the "MyCompany" domain.
 
 
 ```

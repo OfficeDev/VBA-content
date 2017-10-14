@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.DrillTo Method (Excel)
 
-The  **DrillTo** method supports drilling to a specified PivotField from a PivotItem.
+The **DrillTo** method supports drilling to a specified PivotField from a PivotItem.
 
 
 ## Syntax

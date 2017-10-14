@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TabStops2 Object (Office)
 
-The collection of  **TabStop2** objects.
+The collection of **TabStop2** objects.
 
 
 ## Remarks

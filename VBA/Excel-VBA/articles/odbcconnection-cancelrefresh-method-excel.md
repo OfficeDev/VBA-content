@@ -25,7 +25,7 @@ Cancels all refresh operations in progress for the specified ODBC connection.
 
 ## Remarks
 
-Use the  **[Refreshing](odbcconnection-refreshing-property-excel.md)** property to determine whether a refresh operation is currently in progress.
+Use the **[Refreshing](odbcconnection-refreshing-property-excel.md)** property to determine whether a refresh operation is currently in progress.
 
 
 ## See also

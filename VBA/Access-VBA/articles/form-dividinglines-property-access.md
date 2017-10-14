@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DividingLines Property (Access)
 
-You can use the  **DividingLines** property to specify whether dividing lines will separate sections on a form or records displayed on a continuous form. Read/write **Boolean**.
+You can use the **DividingLines** property to specify whether dividing lines will separate sections on a form or records displayed on a continuous form. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **DividingLines** property to specify whether dividing lines wi
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 This property can be set in any view.
 

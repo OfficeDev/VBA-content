@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CheckBox.GridlineWidthBottom Property (Access)
 
-Gets or sets the width of the bottom gridline for the specified check box. Read/write  **Byte**.
+Gets or sets the width of the bottom gridline for the specified check box. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the bottom gridline for the specified check box. Read/
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **BottomGridlineWidth** property uses the following settings.
 
 
 

@@ -18,7 +18,7 @@ Branch to one of several specified lines, depending on the value of an [expressi
  **On**_expression_**GoSub**_destinationlist_
 
  **On**_expression_**GoTo**_destinationlist_
-The  **On...GoSub** and **On...GoTo** statement syntax has these parts:
+The **On...GoSub** and **On...GoTo** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -32,17 +32,17 @@ The value of  _expression_ determines which line is branched to in _destinationl
 |**If  _expression_ is**|**Then**|
 |:-----|:-----|
 |Equal to 0|Control drops to the [statement](vbe-glossary.md) following **On...GoSub** or **On...GoTo**.|
-|Greater than number of items in list|Control drops to the statement following  **On...GoSub** or **On...GoTo**.|
+|Greater than number of items in list|Control drops to the statement following **On...GoSub** or **On...GoTo**.|
 |Negative|An error occurs.|
 |Greater than 255|An error occurs.|
-You can mix line numbers and line labels in the same list. You can use as many line labels and line numbers as you like with  **On...GoSub** and **On...GoTo**. However, if you use more labels or numbers than fit on a single line, you must use the[line-continuation character](vbe-glossary.md) to continue the logical line onto the next physical line.
+You can mix line numbers and line labels in the same list. You can use as many line labels and line numbers as you like with **On...GoSub** and **On...GoTo**. However, if you use more labels or numbers than fit on a single line, you must use the[line-continuation character](vbe-glossary.md) to continue the logical line onto the next physical line.
 
- **Tip**   **Select Case** provides a more structured and flexible way to perform multiple branching.
+ **Tip**  **Select Case** provides a more structured and flexible way to perform multiple branching.
 
 
 ## Example
 
-This example uses the  **On...GoSub** and **On...GoTo** statements to branch to subroutines and line labels, respectively.
+This example uses the **On...GoSub** and **On...GoTo** statements to branch to subroutines and line labels, respectively.
 
 
 ```vb

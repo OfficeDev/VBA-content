@@ -26,7 +26,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **IMESentenceMode** property uses the following settings.
+The **IMESentenceMode** property uses the following settings.
 
 
 

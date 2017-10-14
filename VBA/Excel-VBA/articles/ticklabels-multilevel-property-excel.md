@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.MultiLevel Property (Excel)
 
-Sets whether an axis is multilevel or not. Read/write  **Boolean** .
+Sets whether an axis is multilevel or not. Read/write **Boolean** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IRTDUpdateEvent.Disconnect Method (Excel)
 
-Instructs the real-time data server (RTD) to disconnect from the specified  **IRTDUpdateEvent** object.
+Instructs the real-time data server (RTD) to disconnect from the specified **IRTDUpdateEvent** object.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 1. Select the control.
     
-2. From the  **Format** menu, choose **Size to Grid**. Microsoft Forms adjusts the size of the selected control so that each corner aligns with a grid point.
+2. From the **Format** menu, choose **Size to Grid**. Microsoft Forms adjusts the size of the selected control so that each corner aligns with a grid point.
     
 
 

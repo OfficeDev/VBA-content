@@ -18,7 +18,7 @@ Represents real-time data update events.
 
 ## Remarks
 
-To instantiate or to return an  **IRTDUpdateEvent** object, declare a variable as an **IRTDUpdateEvent** object, and then use that variable as a callback object.
+To instantiate or to return an **IRTDUpdateEvent** object, declare a variable as an **IRTDUpdateEvent** object, and then use that variable as a callback object.
 
 
 ## See also

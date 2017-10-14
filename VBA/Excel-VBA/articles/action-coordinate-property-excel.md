@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.Coordinate Property (Excel)
 
-Returns the coordinate property of the  **Action** object. Read-only
+Returns the coordinate property of the **Action** object. Read-only
 
 
 ## Syntax

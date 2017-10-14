@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.SendUsingAccount Property (Outlook)
 
-Returns or sets an  **[Account](account-object-outlook.md)** object that represents the account under which the **[MailItem](mailitem-object-outlook.md)** is to be sent. Read/write.
+Returns or sets an **[Account](account-object-outlook.md)** object that represents the account under which the **[MailItem](mailitem-object-outlook.md)** is to be sent. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets an  **[Account](account-object-outlook.md)** object that represe
 
 ## Remarks
 
-The  **SendUsingAccount** property can be used to specify the account that should be used to send the **MailItem** when the **[Send](mailitem-send-method-outlook.md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the account specified for the **MailItem** no longer exists.
+The **SendUsingAccount** property can be used to specify the account that should be used to send the **MailItem** when the **[Send](mailitem-send-method-outlook.md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the account specified for the **MailItem** no longer exists.
 
 
 ## Example
 
-The following code sample in Microsoft Visual Basic for Applications enumerates the  **[Accounts](accounts-object-outlook.md)** collection to find a Pop3 account. If the account is found, then a message is created programmatically and the **SendUsingAccount** property is assigned to the Pop3 account. Note that you must assign the **SendUsingAccount** property before you call the **Send** method.
+The following code sample in Microsoft Visual Basic for Applications enumerates the **[Accounts](accounts-object-outlook.md)** collection to find a Pop3 account. If the account is found, then a message is created programmatically and the **SendUsingAccount** property is assigned to the Pop3 account. Note that you must assign the **SendUsingAccount** property before you call the **Send** method.
 
 
 ```vb

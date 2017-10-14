@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowFormattingColumns Property (Excel)
 
-Returns  **True** if the formatting of columns is allowed on a protected worksheet. Read-only **Boolean** .
+Returns **True** if the formatting of columns is allowed on a protected worksheet. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **True** if the formatting of columns is allowed on a protected workshe
 
 ## Remarks
 
-The  **AllowFormattingColumns** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowFormattingColumns** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
 
 ## Example

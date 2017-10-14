@@ -16,15 +16,15 @@ ms.date: 06/08/2017
 Removes all objects from an object or [collection](vbe-glossary.md).
  **Syntax**
  _object_. **Clear**
-The  **Clear** method syntax has these parts:
+The **Clear** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
  **Remarks**
-For a  **MultiPage** or **TabStrip**, the **Clear** method deletes individual pages or tabs.
-For a  **ListBox** or **ComboBox**, **Clear** removes all entries in the list.
-For a  **Controls** collection, **Clear** deletes controls that were created at[run time](vbe-glossary.md) with the **Add** method. Using **Clear** on controls created at[design time](vbe-glossary.md) causes an error.
-If the control is bound to data, the  **Clear** method fails.
+For a **MultiPage** or **TabStrip**, the **Clear** method deletes individual pages or tabs.
+For a **ListBox** or **ComboBox**, **Clear** removes all entries in the list.
+For a **Controls** collection, **Clear** deletes controls that were created at[run time](vbe-glossary.md) with the **Add** method. Using **Clear** on controls created at[design time](vbe-glossary.md) causes an error.
+If the control is bound to data, the **Clear** method fails.
 

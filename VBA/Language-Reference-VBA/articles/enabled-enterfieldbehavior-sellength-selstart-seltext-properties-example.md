@@ -18,9 +18,9 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- One large  **TextBox** named TextBox1.
+- One large **TextBox** named TextBox1.
     
-- Three  **TextBox** controls in a column named TextBox2 through TextBox4.
+- Three **TextBox** controls in a column named TextBox2 through TextBox4.
     
 
 

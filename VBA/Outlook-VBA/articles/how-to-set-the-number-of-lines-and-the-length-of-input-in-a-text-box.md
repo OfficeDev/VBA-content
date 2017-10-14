@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # How to: Set the Number of Lines and the Length of Input in a Text Box
 
-The following example counts the characters and the number of lines of text in a  **[TextBox](textbox-object-outlook-forms-script.md)** by using the **[LineCount](textbox-linecount-property-outlook-forms-script.md)** and **[TextLength](textbox-textlength-property-outlook-forms-script.md)** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the  **LineCount** and **TextLength** properties.
+The following example counts the characters and the number of lines of text in a **[TextBox](textbox-object-outlook-forms-script.md)** by using the **[LineCount](textbox-linecount-property-outlook-forms-script.md)** and **[TextLength](textbox-textlength-property-outlook-forms-script.md)** properties, and the **SetFocus** method. In this example, the user can type into a **TextBox**, and can retrieve current values of the **LineCount** and **TextLength** properties.
 
 
- **Note**  The  **SetFocus** method is inherited from the Microsoft Forms 2.0 **TextBox** control.
+ **Note**  The **SetFocus** method is inherited from the Microsoft Forms 2.0 **TextBox** control.
 
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains the following controls:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains the following controls:
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
+- A **[CommandButton](commandbutton-object-outlook-forms-script.md)** named CommandButton1.
     
-- Two  **[Label](label-object-outlook-forms-script.md)** controls named Label1 and Label2.
+- Two **[Label](label-object-outlook-forms-script.md)** controls named Label1 and Label2.
     
 
 

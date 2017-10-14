@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.CategoryLocal Property (Excel)
 
-Returns or sets the category for the specified name, in the language of the user, if the name refers to a custom function or command. Read/write  **String** .
+Returns or sets the category for the specified name, in the language of the user, if the name refers to a custom function or command. Read/write **String** .
 
 
 ## Syntax

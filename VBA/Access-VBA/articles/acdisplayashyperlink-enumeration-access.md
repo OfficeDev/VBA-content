@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcDisplayAsHyperlink Enumeration (Access)
 
-Used with the  **DisplayAsHyperlink** property to specify whether to display the contents of a text box or combo box as a hyperlink.
+Used with the **DisplayAsHyperlink** property to specify whether to display the contents of a text box or combo box as a hyperlink.
 
 
 

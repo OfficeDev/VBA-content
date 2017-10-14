@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.WordArtformat Property (Excel)
 
-Returns or sets the Word Art type for the specified text frame. Read/write  **[MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** .
+Returns or sets the Word Art type for the specified text frame. Read/write **[MsoPresetTextEffect](http://msdn.microsoft.com/library/56a7008d-ce2c-f127-56de-851cb8fef44f%28Office.15%29.aspx)** .
 
 
 ## Syntax

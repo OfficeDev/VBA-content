@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-This is the default member of  **CustomXMLNode** object.
+This is the default member of **CustomXMLNode** object.
 
 
 ## See also

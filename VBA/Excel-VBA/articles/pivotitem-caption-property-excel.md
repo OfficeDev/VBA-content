@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.Caption Property (Excel)
 
-Returns a  **String** value that represents the label text for the pivot item.
+Returns a **String** value that represents the label text for the pivot item.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents the label text for the pivot item.
 
 ## Remarks
 
-The following table shows example values of the  **Caption** property and related properties, given an OLAP data source with the unique name "[Europe].[France].[Paris]" and a non-OLAP data source with the item name "Paris".
+The following table shows example values of the **Caption** property and related properties, given an OLAP data source with the unique name "[Europe].[France].[Paris]" and a non-OLAP data source with the item name "Paris".
 
 
 
@@ -35,14 +35,14 @@ The following table shows example values of the  **Caption** property and relate
 | **[Name](pivotitem-name-property-excel.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
 | **[SourceName](pivotitem-sourcename-property-excel.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|(Same as the SQL property value; read-only)|
 | **[Value](pivotitem-value-property-excel.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
-When specifying an index into the  **[PivotItems](pivotitems-object-excel.md)** collection, you can use the syntax shown in the following table.
+When specifying an index into the **[PivotItems](pivotitems-object-excel.md)** collection, you can use the syntax shown in the following table.
 
 
 
 |**Syntax (OLAP data source)**|**Syntax (non-OLAP data source)**|
 |:-----|:-----|
 |expression.PivotItems("[Europe].[France].[Paris]")|expression.PivotItems("Paris")|
-When using the  **Item** property to reference a specific member of a collection, you can use the text index names shown in the following table.
+When using the **Item** property to reference a specific member of a collection, you can use the text index names shown in the following table.
 
 
 

@@ -21,14 +21,14 @@ You cannot replicate an object in a database unless you first replicate the data
 
 - Dragging it into the Microsoft Windows Briefcase.
     
-- Using DAO programming to set the  **Replicable** property to "T" or the **ReplicableBool** property to **True**.
+- Using DAO programming to set the **Replicable** property to "T" or the **ReplicableBool** property to **True**.
     
 - Using Microsoft Access.
     
 - Using the Replication Manager.
     
 
-All objects in the database are replicated when the database is replicated, unless the  **KeepLocal** property has been set on an object.
+All objects in the database are replicated when the database is replicated, unless the **KeepLocal** property has been set on an object.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

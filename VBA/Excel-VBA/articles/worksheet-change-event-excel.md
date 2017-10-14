@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-This event does not occur when cells change during a recalculation. Use the  **[Calculate](chart-calculate-event-excel.md)** event to trap a sheet recalculation.
+This event does not occur when cells change during a recalculation. Use the **[Calculate](chart-calculate-event-excel.md)** event to trap a sheet recalculation.
 
 
 ## Example

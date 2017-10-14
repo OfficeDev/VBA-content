@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Font Property (Office)
 
-Returns a  **Font** object that represents character formatting for the **TextRange2** object. Read-only.
+Returns a **Font** object that represents character formatting for the **TextRange2** object. Read-only.
 
 
 ## Syntax

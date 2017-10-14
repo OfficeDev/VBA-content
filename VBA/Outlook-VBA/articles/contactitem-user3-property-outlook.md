@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.User3 Property (Outlook)
 
-Returns or sets a  **String** specifying the third field on the Contacts form intended for miscellaneous use for the contact. Read/write.
+Returns or sets a **String** specifying the third field on the Contacts form intended for miscellaneous use for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** specifying the third field on the Contacts form in
 
 ## Remarks
 
-The properties  **[ContactItem.User1](contactitem-user1-property-outlook.md)** , **[ContactItem.User2](contactitem-user2-property-outlook.md)** , **ContactItem.User3** , and **[ContactItem.User4](contactitem-user4-property-outlook.md)** map to the fields **User Field 1**,  **User Field 2**,  **User Field 3**, and  **User Field 4** on the Contacts form respectively. These properties are explicit built-in **String** properties; users can use these fields for miscellaneous purposes for the contact.
+The properties **[ContactItem.User1](contactitem-user1-property-outlook.md)** , **[ContactItem.User2](contactitem-user2-property-outlook.md)** , **ContactItem.User3** , and **[ContactItem.User4](contactitem-user4-property-outlook.md)** map to the fields **User Field 1**, **User Field 2**, **User Field 3**, and **User Field 4** on the Contacts form respectively. These properties are explicit built-in **String** properties; users can use these fields for miscellaneous purposes for the contact.
 
 
 ## See also

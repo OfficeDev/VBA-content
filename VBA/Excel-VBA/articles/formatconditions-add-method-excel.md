@@ -30,18 +30,18 @@ Adds a new conditional format.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **[XlFormatConditionType](xlformatconditiontype-enumeration-excel.md)**|. Specifies whether the conditional format is based on a cell value or an expression.|
-| _Operator_|Optional| **Variant**|The conditional format operator. Can be one of the following  **XlFormatConditionOperator** constants: **xlBetween** , **xlEqual** , **xlGreater** , **xlGreaterEqual** , **xlLess** , **xlLessEqual** , **xlNotBetween** , or **xlNotEqual** . If _Type_ is **xlExpression** , the _Operator_ argument is ignored.|
+| _Operator_|Optional| **Variant**|The conditional format operator. Can be one of the following **XlFormatConditionOperator** constants: **xlBetween** , **xlEqual** , **xlGreater** , **xlGreaterEqual** , **xlLess** , **xlLessEqual** , **xlNotBetween** , or **xlNotEqual** . If _Type_ is **xlExpression** , the _Operator_ argument is ignored.|
 | _Formula1_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula.|
 | _Formula2_|Optional| **Variant**|The value or expression associated with the second part of the conditional format when  _Operator_ is **xlBetween** or **xlNotBetween** (otherwise, this argument is ignored). Can be a constant value, a string value, a cell reference, or a formula.|
 
 ### Return Value
 
-A  **[FormatCondition](formatcondition-object-excel.md)** object that represents the new conditional format.
+A **[FormatCondition](formatcondition-object-excel.md)** object that represents the new conditional format.
 
 
 ## Remarks
 
-You cannot define more than three conditional formats for a range. Use the  **[Modify](formatcondition-modify-method-excel.md)** method to modify an existing conditional format, or use the **[Delete](formatcondition-delete-method-excel.md)** method to delete an existing format before adding a new one.
+You cannot define more than three conditional formats for a range. Use the **[Modify](formatcondition-modify-method-excel.md)** method to modify an existing conditional format, or use the **[Delete](formatcondition-delete-method-excel.md)** method to delete an existing format before adding a new one.
 
 
 ## Example

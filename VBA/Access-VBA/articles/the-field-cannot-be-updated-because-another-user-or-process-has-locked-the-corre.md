@@ -21,7 +21,7 @@ Possible causes:
 
 - You tried to update a field in a record or table that is currently locked by another user. Wait for the other user to finish working with the record or table, and then try the operation again.
     
-- In Microsoft Access, you tried to change the value of a control whose  **Locked** property is set to **Yes**.
+- In Microsoft Access, you tried to change the value of a control whose **Locked** property is set to **Yes**.
     
 
  **ACCESS SUPPORT RESOURCES**<br>

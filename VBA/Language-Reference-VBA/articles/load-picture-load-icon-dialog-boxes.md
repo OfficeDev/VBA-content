@@ -50,7 +50,7 @@ Select or type the name of a picture file you want to open.
 
  **List files of type**
 
-Select a file type. Files of the selected type appear in the  **File** **Name** box.
+Select a file type. Files of the selected type appear in the **File** **Name** box.
 
 
 
@@ -77,6 +77,6 @@ Closes the dialog box without loading a picture file.
 
  **Desktop**
 
-Lists the folders and files on the desktop. The files and folders are displayed in the  **File** **Name** box.
+Lists the folders and files on the desktop. The files and folders are displayed in the **File** **Name** box.
 
 

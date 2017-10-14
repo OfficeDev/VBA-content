@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Deleting a  **[LegendKey](legendkey-object-excel.md)** object deletes the entire series.
+Deleting a **[LegendKey](legendkey-object-excel.md)** object deletes the entire series.
 
 
 ## See also

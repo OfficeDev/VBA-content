@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.PreviousSibling Property (Office)
 
-Gets the previous sibling node (element, comment, or processing instruction) of the current node. If the current node is the first sibling at its level, the property returns  **Nothing**. Read-only.
+Gets the previous sibling node (element, comment, or processing instruction) of the current node. If the current node is the first sibling at its level, the property returns **Nothing**. Read-only.
 
 
 ## Syntax

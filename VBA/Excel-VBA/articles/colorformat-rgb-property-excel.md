@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.RGB Property (Excel)
 
-Returns or sets a  **Long** value that represents the red-green-blue value of the specified color.
+Returns or sets a **Long** value that represents the red-green-blue value of the specified color.
 
 
 ## Syntax

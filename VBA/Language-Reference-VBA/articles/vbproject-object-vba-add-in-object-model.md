@@ -15,5 +15,5 @@ ms.date: 06/08/2017
 
 Represents a [project](vbe-glossary.md).
  **Remarks**
-Use the  **VBProject** object to set[properties](vbe-glossary.md) for the project, to access the **VBComponents** collection, and to access the **References** collection.
+Use the **VBProject** object to set[properties](vbe-glossary.md) for the project, to access the **VBComponents** collection, and to access the **References** collection.
 

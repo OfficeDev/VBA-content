@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 You can add items to a list box or a combo box at design time or at run time. 
 
-To save contents in an item,  **[ListBox](listbox-object-outlook-forms-script.md)** and  **[ComboBox](combobox-object-outlook-forms-script.md)** controls must be bound to a field.
+To save contents in an item, **[ListBox](listbox-object-outlook-forms-script.md)** and **[ComboBox](combobox-object-outlook-forms-script.md)** controls must be bound to a field.
 
 For more information, see the following topics:
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSetup.ShowSignDate Property (Office)
 
-Gets or sets a  **Boolean** value indicating whether the date the document was signed should be displayed. Read/write.
+Gets or sets a **Boolean** value indicating whether the date the document was signed should be displayed. Read/write.
 
 
 ## Syntax

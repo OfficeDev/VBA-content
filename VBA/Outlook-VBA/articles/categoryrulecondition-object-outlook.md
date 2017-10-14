@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CategoryRuleCondition Object (Outlook)
 
-Represents a rule condition that evaluates categories on a message as compared with  **CategoryRuleCondition.Categories**.
+Represents a rule condition that evaluates categories on a message as compared with **CategoryRuleCondition.Categories**.
 
 
 ## Remarks

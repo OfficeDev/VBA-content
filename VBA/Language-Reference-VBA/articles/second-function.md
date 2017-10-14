@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **Integer** ) specifying a whole number between 0 and 59, inclusive, representing the second of the minute.
+Returns a **Variant** ( **Integer** ) specifying a whole number between 0 and 59, inclusive, representing the second of the minute.
  **Syntax**
  **Second(**_time_**)**
-The required  _time_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a time. If  _time_ contains[Null](vbe-glossary.md),  **Null** is returned.
+The required  _time_[argument](vbe-glossary.md) is any[Variant](vbe-glossary.md), [numeric expression](vbe-glossary.md), [string expression](vbe-glossary.md), or any combination, that can represent a time. If  _time_ contains[Null](vbe-glossary.md), **Null** is returned.
 
 ## Example
 
-This example uses the  **Second** function to obtain the second of the minute from a specified time. In the development environment, the time literal is displayed in short time format using the locale settings of your code.
+This example uses the **Second** function to obtain the second of the minute from a specified time. In the development environment, the time literal is displayed in short time format using the locale settings of your code.
 
 
 ```vb

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # XmlSchemas Object (Excel)
 
-Represents the collection of  **[XmlSchema](xmlschema-object-excel.md)** objects contained by an **[XmlMap](xmlmap-object-excel.md)** object.
+Represents the collection of **[XmlSchema](xmlschema-object-excel.md)** objects contained by an **[XmlMap](xmlmap-object-excel.md)** object.
 
 
 ## Remarks
 
-Use the  **[Schemas](xmlmap-schemas-property-excel.md)** property of the **XmlMap** object to return the **XmlSchemas** collection.
+Use the **[Schemas](xmlmap-schemas-property-excel.md)** property of the **XmlMap** object to return the **XmlSchemas** collection.
 
-Use the  **[Item](xmlschemas-item-property-excel.md)** method to return an **XmlSchema** object from the **XmlSchemas** collection.
+Use the **[Item](xmlschemas-item-property-excel.md)** method to return an **XmlSchema** object from the **XmlSchemas** collection.
 
 
 ## See also

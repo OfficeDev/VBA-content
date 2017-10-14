@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Validate](metaproperty-validate-method-office.md)|Validates a  **MetaProperty** object representing a single property value according to a schema.|
+|[Validate](metaproperty-validate-method-office.md)|Validates a **MetaProperty** object representing a single property value according to a schema.|
 

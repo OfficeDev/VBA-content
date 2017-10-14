@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotLine.Position Property (Excel)
 
-Returns or sets the position of the  **PivotLine** object. Read-only.
+Returns or sets the position of the **PivotLine** object. Read-only.
 
 
 ## Syntax

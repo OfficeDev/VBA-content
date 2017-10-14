@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Shape Property (Excel)
 
-Returns a  **[Shape](shape-object-excel.md)** object that represents the shape attached to the specified comment.
+Returns a **[Shape](shape-object-excel.md)** object that represents the shape attached to the specified comment.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ Returns a  **[Shape](shape-object-excel.md)** object that represents the shape a
 This example selects comment two on the active sheet.
 
 
- **Note**  Ensure that the comments are not hidden. On the  **Review** Tab, choose `Comments`,  `Show All Comments`.
+ **Note**  Ensure that the comments are not hidden. On the **Review** Tab, choose `Comments`,  `Show All Comments`.
 
 
 ```vb

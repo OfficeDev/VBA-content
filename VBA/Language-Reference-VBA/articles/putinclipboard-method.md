@@ -15,15 +15,15 @@ ms.date: 06/08/2017
 
 
 
-Moves data from a  **DataObject** to the Clipboard.
+Moves data from a **DataObject** to the Clipboard.
  **Syntax**
  _object_. **PutInClipboard**
-The  **PutInClipboard** method syntax has these parts:
+The **PutInClipboard** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
  **Remarks**
-The  **PutInClipboard** method replaces the contents of the Clipboard with the contents of the **DataObject** that is in Text format.
+The **PutInClipboard** method replaces the contents of the Clipboard with the contents of the **DataObject** that is in Text format.
 

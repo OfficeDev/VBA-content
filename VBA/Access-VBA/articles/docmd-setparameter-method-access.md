@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SetParameter Method (Access)
 
-Use the  **SetParameter** method to create a parameter for use by the **[BrowseTo ](docmd-browseto-method-access.md)**, **[OpenForm](docmd-openform-method-access.md)**, **[OpenQuery](docmd-openquery-method-access.md)**, **[OpenReport](docmd-openreport-method-access.md)**, or **[RunDataMacro](docmd-rundatamacro-method-access.md)** methods.
+Use the **SetParameter** method to create a parameter for use by the **[BrowseTo ](docmd-browseto-method-access.md)**, **[OpenForm](docmd-openform-method-access.md)**, **[OpenQuery](docmd-openquery-method-access.md)**, **[OpenReport](docmd-openreport-method-access.md)**, or **[RunDataMacro](docmd-rundatamacro-method-access.md)** methods.
 
 
 ## Syntax
@@ -29,16 +29,16 @@ Use the  **SetParameter** method to create a parameter for use by the **[BrowseT
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required|**Variant**|The name of the parameter. The name must match the name of the parameter expected by the  **BrowseTo**, **OpenForm**, **OpenQuery**, **OpenReport**, or **RunDataMacro** method.|
+| _Name_|Required|**Variant**|The name of the parameter. The name must match the name of the parameter expected by the **BrowseTo**, **OpenForm**, **OpenQuery**, **OpenReport**, or **RunDataMacro** method.|
 | _Expression_|Required|**Variant**|An expression that evaluates to a value to assign to the parameter.|
 
 ## Remarks
 
-You must create as many calls to the  **SetParameter** method as are necessary to create the parameters you need.
+You must create as many calls to the **SetParameter** method as are necessary to create the parameters you need.
 
-Each call to  **SetParameter** adds or updates a single parameter in an internal parameters collection. The parameters collection is passed to the **BrowseTo**, **OpenForm**, **OpenQuery**, **OpenReport**, or **RunDataMacro** method. When the method is run the parameters collection supplies the needed parameters. When the method is finished the parameters collection is cleared.
+Each call to **SetParameter** adds or updates a single parameter in an internal parameters collection. The parameters collection is passed to the **BrowseTo**, **OpenForm**, **OpenQuery**, **OpenReport**, or **RunDataMacro** method. When the method is run the parameters collection supplies the needed parameters. When the method is finished the parameters collection is cleared.
 
-Because each of the methods that accepts parameters clears the parameters collection when it completes, you must ensure that your calls to  **SetParameter** immediately precede the call to the method that employs them.
+Because each of the methods that accepts parameters clears the parameters collection when it completes, you must ensure that your calls to **SetParameter** immediately precede the call to the method that employs them.
 
 
 ## Example

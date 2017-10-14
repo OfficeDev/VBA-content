@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
 
 It is useful to know that collections inherit certain common methods and properties.
-All collections inherit the  **Count** property and **Refresh** method, and all collections add the **Item** property. The **Errors** collection adds the **Clear** method. The **Parameters** collection inherits the **Append** and **Delete** methods, while the **Fields** collection adds the **Append**, **Delete**, and **Update** methods.
+All collections inherit the **Count** property and **Refresh** method, and all collections add the **Item** property. The **Errors** collection adds the **Clear** method. The **Parameters** collection inherits the **Append** and **Delete** methods, while the **Fields** collection adds the **Append**, **Delete**, and **Update** methods.
 
 ## Properties Collection
 <a name="sectionSection0"> </a>

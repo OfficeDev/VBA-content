@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.GetExchangeUser Method (Outlook)
 
-Returns the  **[ExchangeUser](exchangeuser-object-outlook.md)** object.
+Returns the **[ExchangeUser](exchangeuser-object-outlook.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[ExchangeUser](exchangeuser-object-outlook.md)** object.
 
 ### Return Value
 
-The parent  **ExchangeUser** object.
+The parent **ExchangeUser** object.
 
 
 ## See also

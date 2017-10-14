@@ -22,6 +22,6 @@ Specifies how to plot the sparkline when the data on which it is based is in a s
 
 ## Remarks
 
-The  **XlSparklineRowCol** enumeration is used by the **[PlotBy](http://msdn.microsoft.com/library/bec64068-b9de-d857-829f-4ce061ce7585%28Office.15%29.aspx)** property of the **[SparklineGroup](sparklinegroup-object-excel.md)** object to determine how to plot chart in a sparkline when data on which it based is in a square-shaped range, such as A1:B2.
+The **XlSparklineRowCol** enumeration is used by the **[PlotBy](http://msdn.microsoft.com/library/bec64068-b9de-d857-829f-4ce061ce7585%28Office.15%29.aspx)** property of the **[SparklineGroup](sparklinegroup-object-excel.md)** object to determine how to plot chart in a sparkline when data on which it based is in a square-shaped range, such as A1:B2.
 
 

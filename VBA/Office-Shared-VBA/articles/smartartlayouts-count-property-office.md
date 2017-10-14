@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtLayouts.Count Property (Office)
 
-Retrieves the count of the number of  **SmartArtLayout** objects contained within the **SmartArtLayouts** collection. Read-only
+Retrieves the count of the number of **SmartArtLayout** objects contained within the **SmartArtLayouts** collection. Read-only
 
 
 ## Syntax

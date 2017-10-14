@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ClearAllFilters Method (Excel)
 
-The  **ClearAllFilters** method deletes all filters currently applied to the PivotTable. This includes deleting all filters in the **PivotFilters** collection of the **PivotTable** object, removing any manual filtering applied and setting all PivotFields in the Report Filter area to the default item.
+The **ClearAllFilters** method deletes all filters currently applied to the PivotTable. This includes deleting all filters in the **PivotFilters** collection of the **PivotTable** object, removing any manual filtering applied and setting all PivotFields in the Report Filter area to the default item.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **ClearAllFilters** method deletes all filters currently applied to the Piv
 
 ## Remarks
 
-After calling the  **ClearAllFilters** method, the **PivotFilters** collection will be empty.
+After calling the **ClearAllFilters** method, the **PivotFilters** collection will be empty.
 
 
 ## See also

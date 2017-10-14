@@ -19,12 +19,12 @@ ms.date: 06/08/2017
 Returns the special folder specified.
  **Syntax**
  _object_**.GetSpecialFolder(**_folderspec_**)**
-The  **GetSpecialFolder** method syntax has these parts:
+The **GetSpecialFolder** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
+| _object_|Required. Always the name of a **FileSystemObject**.|
 | _folderspec_|Required. The name of the special folder to be returned. Can be any of the constants shown in the Settings section.|
  **Settings**
 The  _folderspec_ argument can have any of the following values:

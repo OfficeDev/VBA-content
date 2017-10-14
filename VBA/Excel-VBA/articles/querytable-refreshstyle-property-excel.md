@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.RefreshStyle Property (Excel)
 
-Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[XlCellInsertionMode](xlcellinsertionmode-enumeration-excel.md)** .
+Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write **[XlCellInsertionMode](xlcellinsertionmode-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -31,16 +31,16 @@ Returns or sets the way rows on the specified worksheet are added or deleted to 
 | **xlInsertDeleteCells** Partial rows are inserted or deleted to match the exact number of rows required for the new recordset.|
 | **xlOverwriteCells** No new cells or rows are added to the worksheet. Data in surrounding cells is overwritten to accommodate any overflow.|
 | **xlInsertEntireRows** Entire rows are inserted, if necessary, to accommodate any overflow. No cells or rows are deleted from the worksheet.|
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **RefreshStyle** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **RefreshStyle** property.
 
 
 ## Example
 
-This example adds a query table to Sheet1. The  **RefreshStyle** property adds rows to the worksheet as needed, to hold the data results.
+This example adds a query table to Sheet1. The **RefreshStyle** property adds rows to the worksheet as needed, to hold the data results.
 
 
 ```vb

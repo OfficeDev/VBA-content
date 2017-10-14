@@ -18,7 +18,7 @@ Represents a single icon in an icon set used in a conditional formatting rule.
 
 ## Remarks
 
-The  **Icon** object is returned from the **[Item](iconset-item-property-excel.md)** property of the **[IconSet](iconset-object-excel.md)** object.
+The **Icon** object is returned from the **[Item](iconset-item-property-excel.md)** property of the **[IconSet](iconset-object-excel.md)** object.
 
 
 ## See also

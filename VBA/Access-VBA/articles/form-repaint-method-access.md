@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Repaint Method (Access)
 
-The  **Repaint** method completes any pending screen updates for a specified form. When performed on a form, the **Repaint** method also completes any pending recalculations of the form's controls.
+The **Repaint** method completes any pending screen updates for a specified form. When performed on a form, the **Repaint** method also completes any pending recalculations of the form's controls.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ Nothing
 
 ## Remarks
 
-Microsoft Access sometimes waits to complete pending screen updates until it finishes other tasks. With the  **Repaint** method, you can force immediate repainting of the controls on the specified form. You can use the **Repaint** method:
+Microsoft Access sometimes waits to complete pending screen updates until it finishes other tasks. With the **Repaint** method, you can force immediate repainting of the controls on the specified form. You can use the **Repaint** method:
 
 
 - When you change values in a number of fields. Unless you force a repaint, Microsoft Access might not display the changes immediately, especially if other fields, such as those in an expression in a calculated control, depend on values in the changed fields.
     
 - When you want to make sure that a form displays data in all of its fields. For example, fields containing OLE objects often don't display their data immediately after you open a form.
     
-This method doesn't cause a requery of the database, nor does it show new or changed records in the form's underlying record source. You can use the  **[Requery](form-requery-method-access.md)** method to requery the source of data for the form or one of its controls.
+This method doesn't cause a requery of the database, nor does it show new or changed records in the form's underlying record source. You can use the **[Requery](form-requery-method-access.md)** method to requery the source of data for the form or one of its controls.
 
 
 
@@ -48,7 +48,7 @@ This method doesn't cause a requery of the database, nor does it show new or cha
 
 ## Example
 
-The following example uses the  **Repaint** method to repaint a form when the form receives the focus:
+The following example uses the **Repaint** method to repaint a form when the form receives the focus:
 
 
 ```vb

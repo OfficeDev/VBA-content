@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
  **Description**
-Skips the next line when reading a  **TextStream** file.
+Skips the next line when reading a **TextStream** file.
  **Syntax**
  _object_. **SkipLine**
 The  _object_ is always the name of a **TextStream** object.

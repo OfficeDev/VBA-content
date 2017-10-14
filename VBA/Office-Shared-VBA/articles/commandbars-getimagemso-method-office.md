@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.GetImageMso Method (Office)
 
-Returns an  **IPictureDisp** object of the control image identified by the **idMso** parameter scaled to the dimensions specified by width and height.
+Returns an **IPictureDisp** object of the control image identified by the **idMso** parameter scaled to the dimensions specified by width and height.
 
 
 ## 
@@ -46,12 +46,12 @@ IPictureDisp
 
 ## Remarks
 
-The  **Width** and **Height** parameters must be between 16 and 128.
+The **Width** and **Height** parameters must be between 16 and 128.
 
 
 ## Example
 
-The following sample returns a 32x32 version of the  **Paste** icon as an **IPictureDisp** object.
+The following sample returns a 32x32 version of the **Paste** icon as an **IPictureDisp** object.
 
 
 ```

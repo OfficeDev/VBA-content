@@ -15,7 +15,7 @@ An interface is a collection of unimplemented [procedure](vbe-glossary.md) proto
 
 
 
-- You specified an interface in an  **Implements** statement, but you didn't add code for all the procedures in the interface. You must write code for each of the procedures specified in the interface. An empty procedure is adequate; the procedure should implement the required behavior.
+- You specified an interface in an **Implements** statement, but you didn't add code for all the procedures in the interface. You must write code for each of the procedures specified in the interface. An empty procedure is adequate; the procedure should implement the required behavior.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

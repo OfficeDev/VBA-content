@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProtectedViewWindows Property (Excel)
 
-Returns a  **[ProtectedViewWindows](protectedviewwindows-object-excel.md)** collection that represents all the **Protected View** windows that are open in the application. Read-only
+Returns a **[ProtectedViewWindows](protectedviewwindows-object-excel.md)** collection that represents all the **Protected View** windows that are open in the application. Read-only
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 
 
-1. In the  **Available Controls** list, select the control or controls you want to add to the Toolbox.
+1. In the **Available Controls** list, select the control or controls you want to add to the Toolbox.
     
 2. Click OK.
     
@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 
 
- **Tip**  You can filter the  **Available Controls** list by selecting options in the **Show** group.
+ **Tip**  You can filter the **Available Controls** list by selecting options in the **Show** group.
 
 

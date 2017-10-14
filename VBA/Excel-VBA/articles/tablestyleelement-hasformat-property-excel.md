@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyleElement.HasFormat Property (Excel)
 
-Returns whether a table style element has formatting applied to the specified element. Read-only  **Boolean** .
+Returns whether a table style element has formatting applied to the specified element. Read-only **Boolean** .
 
 
 ## Syntax

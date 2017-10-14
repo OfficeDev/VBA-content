@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.FileFormat Property (Access)
 
-Returns an  **[AcFileFormat](acfileformat-enumeration-access.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
+Returns an **[AcFileFormat](acfileformat-enumeration-access.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AcFileFormat](acfileformat-enumeration-access.md)** constant indi
 
 ## Remarks
 
-Use the  **ConvertAccessProject** method to convert an Access project from one version to another.
+Use the **ConvertAccessProject** method to convert an Access project from one version to another.
 
 
 ## Example

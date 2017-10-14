@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Parent Property (Office)
 
-Gets the  **Parent** object for the **CommandBarPopup** object. Read-only.
+Gets the **Parent** object for the **CommandBarPopup** object. Read-only.
 
 
 ## 

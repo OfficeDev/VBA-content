@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Hidden Property (Excel)
 
-Returns or sets a  **Variant** value that indicates if the rows or columns are hidden.
+Returns or sets a **Variant** value that indicates if the rows or columns are hidden.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Variant** value that indicates if the rows or columns are h
 
 ## Remarks
 
-Set this property to  **True** to hide a row or column. The specified range must span an entire column or row.
+Set this property to **True** to hide a row or column. The specified range must span an entire column or row.
 
-Don't confuse this property with the  **[FormulaHidden](range-formulahidden-property-excel.md)** property.
+Don't confuse this property with the **[FormulaHidden](range-formulahidden-property-excel.md)** property.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.Add Method (Outlook)
 
-Creates a new folder in the  **[Folders](folders-object-outlook.md)** collection.
+Creates a new folder in the **[Folders](folders-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -30,16 +30,16 @@ Creates a new folder in the  **[Folders](folders-object-outlook.md)** collection
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The display name for the new folder.|
-| _Type_|Optional| **Long**|The Outlook folder type for the new folder. If the folder type is not specified, the new folder will default to the same type as the folder in which it is created. Can be one of the following  **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . The constants **olFolderConflicts** , **olFolderDeletedItems** , **olFolderJunk** , **olFolderLocalFailures** , **olFolderManagedEmail** , **olFolderOutbox** , **olFolderRssSubscriptions** , **olFolderSentMail** , **olFolderServerFailures** , **olFolderSyncIssues** , **olFolderToDo** , and **olPublicFoldersAllPublicFolders** cannot be specified for this argument.|
+| _Type_|Optional| **Long**|The Outlook folder type for the new folder. If the folder type is not specified, the new folder will default to the same type as the folder in which it is created. Can be one of the following **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . The constants **olFolderConflicts** , **olFolderDeletedItems** , **olFolderJunk** , **olFolderLocalFailures** , **olFolderManagedEmail** , **olFolderOutbox** , **olFolderRssSubscriptions** , **olFolderSentMail** , **olFolderServerFailures** , **olFolderSyncIssues** , **olFolderToDo** , and **olPublicFoldersAllPublicFolders** cannot be specified for this argument.|
 
 ### Return Value
 
-A  **[Folder](folder-object-outlook.md)** object that represents the new folder.
+A **[Folder](folder-object-outlook.md)** object that represents the new folder.
 
 
 ## Example
 
-This VBA example uses the  **Add** method to add the new folder named "My Contacts" to the current (default) Contacts folder.
+This VBA example uses the **Add** method to add the new folder named "My Contacts" to the current (default) Contacts folder.
 
 
 ```vb
@@ -54,7 +54,7 @@ Sub AddContactsFolder()
 End Sub
 ```
 
-This VBA example uses the  **Add** method to add three new folders in the Tasks folder. The first folder, "Notes Folder", will contain note items. The second folder, "Contacts Folder", will contain contact items. The third folder, ?Public Folder? will be a public folder. If the folders already exist, a message box will inform the user.
+This VBA example uses the **Add** method to add three new folders in the Tasks folder. The first folder, "Notes Folder", will contain note items. The second folder, "Contacts Folder", will contain contact items. The third folder, ?Public Folder? will be a public folder. If the folders already exist, a message box will inform the user.
 
 
 

@@ -15,7 +15,7 @@ An operation can't be carried out if it would invalidate the current state of th
 
 
 
-- The requested operation would invalidate the current state of the project. For example, the error occurs if you use the  **References** dialog box to add a reference to a new project or[object library](vbe-glossary.md) while a program is in[break mode](vbe-glossary.md).
+- The requested operation would invalidate the current state of the project. For example, the error occurs if you use the **References** dialog box to add a reference to a new project or[object library](vbe-glossary.md) while a program is in[break mode](vbe-glossary.md).
     
     Stop execution of the current code, and then retry the operation.
     

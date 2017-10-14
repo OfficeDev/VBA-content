@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToggleButton.ReadingOrder Property (Access)
 
-You can use the  **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
+You can use the **ReadingOrder** property to specify or determine the reading order of words in text. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **ReadingOrder** property to specify or determine the reading o
 
 ## Remarks
 
-The  **ReadingOrder** property uses the following settings.
+The **ReadingOrder** property uses the following settings.
 
 
 

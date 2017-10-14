@@ -21,13 +21,13 @@ Represents the window in which the contents of a folder are displayed.
 
 
 
-- Use the  **[Item](http://msdn.microsoft.com/library/b854ab0e-e966-4de8-7ccf-db4723812212%28Office.15%29.aspx)** method of the **[Explorers](http://msdn.microsoft.com/library/8398532a-1fad-7390-6778-109ac5e6c67c%28Office.15%29.aspx)** object to return the object representing a specific explorer.
+- Use the **[Item](http://msdn.microsoft.com/library/b854ab0e-e966-4de8-7ccf-db4723812212%28Office.15%29.aspx)** method of the **[Explorers](http://msdn.microsoft.com/library/8398532a-1fad-7390-6778-109ac5e6c67c%28Office.15%29.aspx)** object to return the object representing a specific explorer.
     
-- Use the  **[ActiveExplorer](http://msdn.microsoft.com/library/f6dd27c0-4319-c7fc-191f-8b3b2ea319d3%28Office.15%29.aspx)** method to return the object representing the currently active explorer (if there is one).
+- Use the **[ActiveExplorer](http://msdn.microsoft.com/library/f6dd27c0-4319-c7fc-191f-8b3b2ea319d3%28Office.15%29.aspx)** method to return the object representing the currently active explorer (if there is one).
     
-- Use the  **[GetExplorer](http://msdn.microsoft.com/library/f60bf373-802e-cb93-2152-bc6c8945edb1%28Office.15%29.aspx)** method to return the **Explorer** object associated with a folder.
+- Use the **[GetExplorer](http://msdn.microsoft.com/library/f60bf373-802e-cb93-2152-bc6c8945edb1%28Office.15%29.aspx)** method to return the **Explorer** object associated with a folder.
     
-- Use the  **[Display](http://msdn.microsoft.com/library/cde389e0-5ec9-8261-5ec0-9a5ba4f8776d%28Office.15%29.aspx)** method of a **[Folder](folder-object-outlook.md)** object to display a folder in its associated explorer.
+- Use the **[Display](http://msdn.microsoft.com/library/cde389e0-5ec9-8261-5ec0-9a5ba4f8776d%28Office.15%29.aspx)** method of a **[Folder](folder-object-outlook.md)** object to display a folder in its associated explorer.
     
 
 ## Events

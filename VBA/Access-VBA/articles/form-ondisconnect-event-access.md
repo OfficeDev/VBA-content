@@ -30,7 +30,7 @@ nothing
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **OnDisconnect** event.
+The following example demonstrates the syntax for a subroutine that traps the **OnDisconnect** event.
 
 
 ```vb

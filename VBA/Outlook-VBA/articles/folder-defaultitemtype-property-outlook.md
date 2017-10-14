@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.DefaultItemType Property (Outlook)
 
-Returns a constant from the  **[OlItemType](olitemtype-enumeration-outlook.md)** enumeration indicating the default Outlook item type contained in the folder. Read-only.
+Returns a constant from the **[OlItemType](olitemtype-enumeration-outlook.md)** enumeration indicating the default Outlook item type contained in the folder. Read-only.
 
 
 ## Syntax

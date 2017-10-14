@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Filtering Items Using a Comparison with a Keywords Property
 
-The following discussion uses the  **Categories** property as an example, but can apply as well to any multi-valued string property.
+The following discussion uses the **Categories** property as an example, but can apply as well to any multi-valued string property.
 
-The  **Categories** property of an item is of type **keywords** which can contain multiple values. When being compared to a comparison string in a filter, the **Categories** property behaves like a text string where values are separated by a comma and a space. This is true for filters using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax.
+The **Categories** property of an item is of type **keywords** which can contain multiple values. When being compared to a comparison string in a filter, the **Categories** property behaves like a text string where values are separated by a comma and a space. This is true for filters using Microsoft Jet syntax or DAV Searching and Locating (DASL) syntax.
 
 ## Jet Queries
 
@@ -21,12 +21,12 @@ The  **Categories** property of an item is of type **keywords** which can contai
 string filter  = "[Categories] = 'Partner'"
 ```
 
-This Jet query will return rows for items where the  **Categories** property for the item finds a phrase-match for **Partner**. It will return rows for items that are categorized as  **Partner**, for items that are categorized as  **Partner** and **Important**, and for items that are categorized as  **Tier1 Partner**. It will not return rows for items that are categorized only as  **Partnership**.
+This Jet query will return rows for items where the **Categories** property for the item finds a phrase-match for **Partner**. It will return rows for items that are categorized as **Partner**, for items that are categorized as **Partner** and **Important**, and for items that are categorized as **Tier1 Partner**. It will not return rows for items that are categorized only as **Partnership**.
 
 
 ## DASL Queries
 
-To overcome the limitations of keywords restrictions using the Jet query syntax, use DASL syntax which allows starts-with or substring restrictions. The following criteria string will find all items that contain  **Partner** as a category, as one of the words in a category, and as the beginning part of a word in the category, such as the category **Partnership**: 
+To overcome the limitations of keywords restrictions using the Jet query syntax, use DASL syntax which allows starts-with or substring restrictions. The following criteria string will find all items that contain **Partner** as a category, as one of the words in a category, and as the beginning part of a word in the category, such as the category **Partnership**: 
 
 
 ```
@@ -57,8 +57,8 @@ criteria = "@SQL=" &; Chr(34) _
 &; " = 'Book'"
 ```
 
-returns any item that has  **Book** as a category, including those categorized with multiple categories, where **Book** is one of the categories. The query does not return items that do not have **Book** as a category.
+returns any item that has **Book** as a category, including those categorized with multiple categories, where **Book** is one of the categories. The query does not return items that do not have **Book** as a category.
 
-If the multi-valued property is added to the  **[Table](table-object-outlook.md)** using a reference by namespace, the format of the values of the property is a variant array. To access these values, parse the elements in the array. Using the last example, this would also allow you to obtain the items that contain exactly **Partner** as a category.
+If the multi-valued property is added to the **[Table](table-object-outlook.md)** using a reference by namespace, the format of the values of the property is a variant array. To access these values, parse the elements in the array. Using the last example, this would also allow you to obtain the items that contain exactly **Partner** as a category.
 
 

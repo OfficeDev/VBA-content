@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.HTMLBody Property (Outlook)
 
-Returns or sets a  **String** representing the HTML body of the specified item. Read/write.
+Returns or sets a **String** representing the HTML body of the specified item. Read/write.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns or sets a  **String** representing the HTML body of the specified item. 
 
 ## Remarks
 
-The  **HTMLBody** property should be an HTML syntax string.
+The **HTMLBody** property should be an HTML syntax string.
 
-Setting the  **HTMLBody** property will always update the **[Body](mailitem-body-property-outlook.md)** property immediately.
+Setting the **HTMLBody** property will always update the **[Body](mailitem-body-property-outlook.md)** property immediately.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a new  **[MailItem](mailitem-object-outlook.md)** object and sets the **[BodyFormat](mailitem-bodyformat-property-outlook.md)** property to **olFormatHTML** . The body text of the e-mail item will now appear in HTML format.
+The following Visual Basic for Applications (VBA) example creates a new **[MailItem](mailitem-object-outlook.md)** object and sets the **[BodyFormat](mailitem-bodyformat-property-outlook.md)** property to **olFormatHTML** . The body text of the e-mail item will now appear in HTML format.
 
 
 ```vb

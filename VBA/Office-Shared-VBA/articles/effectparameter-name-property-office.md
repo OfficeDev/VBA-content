@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # EffectParameter.Name Property (Office)
 
-Retrieves the string name of the  **EffectParameter** parameter. Read-only
+Retrieves the string name of the **EffectParameter** parameter. Read-only
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ErrorCheckingOptions Property (Excel)
 
-Returns an  **[ErrorCheckingOptions](errorcheckingoptions-object-excel.md)** object, which represents the error checking options for an application.
+Returns an **[ErrorCheckingOptions](errorcheckingoptions-object-excel.md)** object, which represents the error checking options for an application.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[ErrorCheckingOptions](errorcheckingoptions-object-excel.md)** obj
 
 ## Example
 
-In this example, the  **TextDate** property is used in conjunction with the **ErrorCheckingOptions** property. When the user selects a cell containing a two-digit year in the date, the AutoCorrect Options button appears.
+In this example, the **TextDate** property is used in conjunction with the **ErrorCheckingOptions** property. When the user selects a cell containing a two-digit year in the date, the AutoCorrect Options button appears.
 
 
 ```vb

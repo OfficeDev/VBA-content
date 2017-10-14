@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.TableStyles Property (Excel)
 
-Returns a  **TableStyles** collection object for the current workbook that refers to the styles used in the current workbook. Read-only.
+Returns a **TableStyles** collection object for the current workbook that refers to the styles used in the current workbook. Read-only.
 
 
 ## Syntax

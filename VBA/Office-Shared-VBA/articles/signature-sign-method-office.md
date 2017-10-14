@@ -36,12 +36,12 @@ Creates a signature packet.
 
 ## Remarks
 
-When the  **Sign** method is called, Microsoft Office creates a manifest and calls the signature provider to create a hash for each stream in the document. Office then bundles up the results into an unsigned XMLDSIG template and calls to the provider to modify the XMLDSIG (if necessary) and then sign it. The resulting signed signature is then handed back to Office to be stored.
+When the **Sign** method is called, Microsoft Office creates a manifest and calls the signature provider to create a hash for each stream in the document. Office then bundles up the results into an unsigned XMLDSIG template and calls to the provider to modify the XMLDSIG (if necessary) and then sign it. The resulting signed signature is then handed back to Office to be stored.
 
 
 ## Example
 
-In the following example, the variables for the signature image, signer, signer's title, and signer's e-mail address are set and then the  **Sign** method is called to create and sign a signature packet.
+In the following example, the variables for the signature image, signer, signer's title, and signer's e-mail address are set and then the **Sign** method is called to create and sign a signature packet.
 
 
 ```

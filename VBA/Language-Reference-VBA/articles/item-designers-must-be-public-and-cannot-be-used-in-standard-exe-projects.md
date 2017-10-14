@@ -15,7 +15,7 @@ This error has the following causes and solutions:
 
 
 
-- The indicated designer's  **Instancing** property must be set to **Public**. The designer cannot be used in standard .exe projects.
+- The indicated designer's **Instancing** property must be set to **Public**. The designer cannot be used in standard .exe projects.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationControl.SelectedTab Property (Access)
 
-Gets the active tab of the navigation control. Read-only  **[NavigationButton](navigationbutton-object-access.md)**.
+Gets the active tab of the navigation control. Read-only **[NavigationButton](navigationbutton-object-access.md)**.
 
 
 ## Syntax

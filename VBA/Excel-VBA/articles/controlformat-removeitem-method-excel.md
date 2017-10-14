@@ -29,14 +29,14 @@ Removes one or more items from a list box or combo box.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The number of the first item to be removed. Valid values are from 1 to the number of items in the list (returned by the  **ListCount** property).|
+| _Index_|Required| **Long**|The number of the first item to be removed. Valid values are from 1 to the number of items in the list (returned by the **ListCount** property).|
 | _Count_|Optional| **Variant**|The number of items to be removed, starting at item  _Index_. If this argument is omitted, one item is removed. If  _Index_ + _Count_ exceeds the number of items in the list, all items from _Index_ through the end of the list are removed without an error.|
 
 ## Remarks
 
 If the specified object has a fill range defined for it, this method fails.
 
-Use the  **[RemoveAllItems](controlformat-removeallitems-method-excel.md)** method to remove all entries from a Microsoft Excel list box or combo box.
+Use the **[RemoveAllItems](controlformat-removeallitems-method-excel.md)** method to remove all entries from a Microsoft Excel list box or combo box.
 
 
 ## Example

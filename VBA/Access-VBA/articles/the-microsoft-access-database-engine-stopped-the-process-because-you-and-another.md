@@ -17,8 +17,8 @@ ms.date: 06/08/2017
 
 This error can occur in a multiuser environment.
 
-Another user has changed the data you are trying to update. This error can occur when multiple users open a table or create a  **Recordset** and use optimistic locking. Between the time you used the **Edit** method and the **Update** method, another user changed the same data.
-To overwrite the other user's changes with your own, execute the  **Update** method again.
+Another user has changed the data you are trying to update. This error can occur when multiple users open a table or create a **Recordset** and use optimistic locking. Between the time you used the **Edit** method and the **Update** method, another user changed the same data.
+To overwrite the other user's changes with your own, execute the **Update** method again.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

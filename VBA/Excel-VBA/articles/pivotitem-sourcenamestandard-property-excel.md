@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.SourceNameStandard Property (Excel)
 
-Returns a  **String** that represents the PivotTable items' source name in standard English (United States) format settings. Read-only.
+Returns a **String** that represents the PivotTable items' source name in standard English (United States) format settings. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the PivotTable items' source name in stand
 
 ## Remarks
 
-This property is used when an item has a localized version and its  **SourceNameStandard** property value differs from the **[SourceName](pivotitem-sourcename-property-excel.md)** property value, such as with date formatting.
+This property is used when an item has a localized version and its **SourceNameStandard** property value differs from the **[SourceName](pivotitem-sourcename-property-excel.md)** property value, such as with date formatting.
 
 
 ## Example

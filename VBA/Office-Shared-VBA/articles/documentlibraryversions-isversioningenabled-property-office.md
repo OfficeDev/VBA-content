@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersions.IsVersioningEnabled Property (Office)
 
-Gets a  **Boolean** value that indicates whether the document library in which the active document is saved on the server is configured to create a backup copy, or version, each time the file is edited on the Web site. Read-only.
+Gets a **Boolean** value that indicates whether the document library in which the active document is saved on the server is configured to create a backup copy, or version, each time the file is edited on the Web site. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets a  **Boolean** value that indicates whether the document library in which t
 
 ## Remarks
 
-Versioning is enabled or disabled on the document library and not on individual documents. Therefore the value of the  **IsVersioningEnabled** property depends on the document library in which the document is saved.
+Versioning is enabled or disabled on the document library and not on individual documents. Therefore the value of the **IsVersioningEnabled** property depends on the document library in which the document is saved.
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelFormatDecimalNumber.UseThousandSeparator Property (Excel)
 
-Specifies whether to display commas between thousands. Read/write  **Boolean**.
+Specifies whether to display commas between thousands. Read/write **Boolean**.
 
 
 ## Syntax

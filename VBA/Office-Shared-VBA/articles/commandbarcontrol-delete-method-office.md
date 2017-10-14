@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Delete Method (Office)
 
-Deletes the  **CommandBarControl** object from its collection.
+Deletes the **CommandBarControl** object from its collection.
 
 
 ## 

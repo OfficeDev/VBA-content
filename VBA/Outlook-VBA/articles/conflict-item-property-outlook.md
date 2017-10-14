@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflict.Item Property (Outlook)
 
-Returns an  **Object** corresponding to the specified Outlook item. Read-only.
+Returns an **Object** corresponding to the specified Outlook item. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNodes.Count Property (Office)
 
-Gets a count of the number of  **CustomXMLNode** objects in a **CustomXMLNodes** collection. Read-only.
+Gets a count of the number of **CustomXMLNode** objects in a **CustomXMLNodes** collection. Read-only.
 
 
 ## Syntax

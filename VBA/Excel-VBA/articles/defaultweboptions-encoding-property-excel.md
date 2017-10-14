@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.Encoding Property (Excel)
 
-Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. The default is the system code page. Read/write  **[MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** .
+Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. The default is the system code page. Read/write **[MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the document encoding (code page or character set) to be used by
 
 ## Remarks
 
-You cannot use any of the constants that have the suffix  **AutoDetect** . These constants are used by the **[ReloadAs](workbook-reloadas-method-excel.md)** method.
+You cannot use any of the constants that have the suffix **AutoDetect** . These constants are used by the **[ReloadAs](workbook-reloadas-method-excel.md)** method.
 
 
 ## Example

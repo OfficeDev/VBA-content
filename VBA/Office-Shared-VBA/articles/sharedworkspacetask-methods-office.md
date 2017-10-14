@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](sharedworkspacetask-delete-method-office.md)|Deletes the current  **SharedWorkspaceTask** object.|
+|[Delete](sharedworkspacetask-delete-method-office.md)|Deletes the current **SharedWorkspaceTask** object.|
 |[Save](sharedworkspacetask-save-method-office.md)|Uploads changes made programmatically to a shared server.|
 

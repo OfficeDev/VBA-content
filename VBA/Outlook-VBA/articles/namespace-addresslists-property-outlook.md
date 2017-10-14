@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.AddressLists Property (Outlook)
 
-Returns an  **[AddressLists](addresslists-object-outlook.md)** collection representing a collection of the address lists available for this session. Read-only.
+Returns an **[AddressLists](addresslists-object-outlook.md)** collection representing a collection of the address lists available for this session. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AddressLists](addresslists-object-outlook.md)** collection repres
 
 ## Remarks
 
-The  **AddressLists** collection represents the root of the address book hierarchy for the current session. A particular **[AddressList](addresslist-object-outlook.md)** object represents one of the available address books. The type of access you obtain depends on the access permissions granted to you by each individual address book provider.
+The **AddressLists** collection represents the root of the address book hierarchy for the current session. A particular **[AddressList](addresslist-object-outlook.md)** object represents one of the available address books. The type of access you obtain depends on the access permissions granted to you by each individual address book provider.
 
 
 ## See also

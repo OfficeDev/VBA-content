@@ -21,6 +21,6 @@ Describes the nature of the display mode. Possible modes include Normal, Portrai
 | **olDisplayModeNormal**| **0**|Displays Normal mode.|
 | **olDisplayModePortraitReadingPane**| **2**|Displays Portrait Reading Pane mode.|
 | **olDisplayModePortraitView**| **1**|Displays Portrait View mode.|
-Used by the  **DisplayMode** property of the[Explorer.DisplayModeChange](explorer-displaymodechange-event-outlook.md) event.
+Used by the **DisplayMode** property of the[Explorer.DisplayModeChange](explorer-displaymodechange-event-outlook.md) event.
 
 

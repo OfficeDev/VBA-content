@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.AlignMarginsHeaderFooter Property (Excel)
 
-Returns  **True** for Excel to align the header and the footer with the margins set in the page setup options. Read/write **Boolean** .
+Returns **True** for Excel to align the header and the footer with the margins set in the page setup options. Read/write **Boolean** .
 
 
 ## Syntax

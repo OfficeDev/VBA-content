@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Wait Method (Excel)
 
-Pauses a running macro until a specified time. Returns  **True** if the specified time has arrived.
+Pauses a running macro until a specified time. Returns **True** if the specified time has arrived.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-The  **Wait** method suspends all Microsoft Excel activity and may prevent you from performing other operations on your computer while **Wait** is in effect. However, background processes such as printing and recalculation continue.
+The **Wait** method suspends all Microsoft Excel activity and may prevent you from performing other operations on your computer while **Wait** is in effect. However, background processes such as printing and recalculation continue.
 
 
 ## Example

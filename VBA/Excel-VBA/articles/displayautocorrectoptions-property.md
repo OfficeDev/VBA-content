@@ -22,12 +22,12 @@ Allows the user to display or hide the AutoCorrect Options button. The default v
 
 ## Remarks
 
-The  **DisplayAutoCorrectOptions** property is a Microsoft Office-wide setting. Changing this property in Microsoft Graph will affect the other Office applications also.
+The **DisplayAutoCorrectOptions** property is a Microsoft Office-wide setting. Changing this property in Microsoft Graph will affect the other Office applications also.
 
 
 ## Example
 
-This example determines if the  **AutoCorrect Options** button can be displayed and notifies the user.
+This example determines if the **AutoCorrect Options** button can be displayed and notifies the user.
 
 
 ```vb

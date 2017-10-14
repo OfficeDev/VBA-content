@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtNode.OrgChartLayout Property (Office)
 
-Retrieves or sets the  **MsoOrgChartLayoutType** associated with this node if there is one. Read/write
+Retrieves or sets the **MsoOrgChartLayoutType** associated with this node if there is one. Read/write
 
 
 ## Syntax

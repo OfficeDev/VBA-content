@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Names.Item Method (Excel)
 
-Returns a single  **[Name](name-object-excel.md)** object from a **Names** collection.
+Returns a single **[Name](name-object-excel.md)** object from a **Names** collection.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Returns a single  **[Name](name-object-excel.md)** object from a **Names** colle
 
 ### Return Value
 
-A  **Name** object contained by the collection.
+A **Name** object contained by the collection.
 
 
 ## Remarks

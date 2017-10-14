@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.PictureFormat Property (Excel)
 
-Returns a  **[PictureFormat](pictureformat-object-excel.md)** object for a specified chart that contains pictures. Read-only.
+Returns a **[PictureFormat](pictureformat-object-excel.md)** object for a specified chart that contains pictures. Read-only.
 
 
 ## Syntax

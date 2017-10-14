@@ -29,7 +29,7 @@ Closes a channel to another application.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](application-ddeinitiate-method-excel.md)** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **[DDEInitiate](application-ddeinitiate-method-excel.md)** method.|
 
 ## Example
 

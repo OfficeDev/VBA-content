@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.DeferredDeliveryTime Property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time the mail message is to be delivered. Read/write.
+Returns or sets a **Date** indicating the date and time the mail message is to be delivered. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** indicating the date and time the mail message is to 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDeferredDeliveryTime** .
+This property corresponds to the MAPI property **PidTagDeferredDeliveryTime** .
 
 
 ## See also

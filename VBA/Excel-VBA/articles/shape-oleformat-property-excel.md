@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.OLEFormat Property (Excel)
 
-Returns an  **[OLEFormat](oleformat-object-excel.md)** object that contains OLE object properties. Read-only.
+Returns an **[OLEFormat](oleformat-object-excel.md)** object that contains OLE object properties. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkPoints.Highpoint Property (Excel)
 
-Returns a  **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the highest point of data on a sparkline. Read-only
+Returns a **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the highest point of data on a sparkline. Read-only
 
 
 ## Syntax

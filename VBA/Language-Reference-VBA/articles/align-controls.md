@@ -18,25 +18,25 @@ ms.date: 06/08/2017
     
 2. Select the [dominant control](glossary-vba.md).
     
-3. From the  **Format** menu, choose **Align**.
+3. From the **Format** menu, choose **Align**.
     
 4. From the cascading menu, choose one of the following to align the specified part of each selected control with the same part of the dominant control:
     
     
     
-      -  **Lefts** — to align the left edge.
+      - **Lefts** — to align the left edge.
     
-  -  **Centers** — to align the center of each control. This means a vertical line drawn at the center of the dominant control would contain the center of every selected control.
+  - **Centers** — to align the center of each control. This means a vertical line drawn at the center of the dominant control would contain the center of every selected control.
     
-  -  **Rights** — to align the right edge.
+  - **Rights** — to align the right edge.
     
-  -  **Tops** — to align the top.
+  - **Tops** — to align the top.
     
-  -  **Middles** — to align the center of each control. This means a horizontal line drawn at the center of the dominant control would also contain the center of every selected control.
+  - **Middles** — to align the center of each control. This means a horizontal line drawn at the center of the dominant control would also contain the center of every selected control.
     
-  -  **Bottoms** — to align the bottom.
+  - **Bottoms** — to align the bottom.
     
-  -  **To Grid** — to align the upper left corner of each selected control with its nearest grid point. Note that this option is not based on the position of the dominant control.
+  - **To Grid** — to align the upper left corner of each selected control with its nearest grid point. Note that this option is not based on the position of the dominant control.
     
 
     

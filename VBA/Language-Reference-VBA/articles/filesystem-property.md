@@ -22,7 +22,7 @@ Returns the type of file system in use for the specified drive.
 The  _object_ is always a **Drive** object.
  **Remarks**
 Available return types include FAT, NTFS, and CDFS.
-The following code illustrates the use of the  **FileSystem** property:
+The following code illustrates the use of the **FileSystem** property:
 
 
 

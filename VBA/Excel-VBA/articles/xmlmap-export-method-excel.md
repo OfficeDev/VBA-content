@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.Export Method (Excel)
 
-Exports the contents of cells mapped to the specified  **[XmlMap](xmlmap-object-excel.md)** object to an XML data file.
+Exports the contents of cells mapped to the specified **[XmlMap](xmlmap-object-excel.md)** object to an XML data file.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](xmlmap-object-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path and file name of the XML data file to export to.|
-| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite the file specified in the _URL_ parameter if the file exists. The default value is **False** .|
+| _Overwrite_|Optional| **Variant**|Set to **True** to overwrite the file specified in the _URL_ parameter if the file exists. The default value is **False** .|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](xmlmap-object-
 
 ## Remarks
 
-Use the  **[ExportXml](xmlmap-exportxml-method-excel.md)** method to export the contents of the mapped cells to a **String** variable.
+Use the **[ExportXml](xmlmap-exportxml-method-excel.md)** method to export the contents of the mapped cells to a **String** variable.
 
 
 ## See also

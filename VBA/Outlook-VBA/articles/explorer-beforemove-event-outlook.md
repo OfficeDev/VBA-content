@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.BeforeMove Event (Outlook)
 
-Occurs when the  **[Explorer](explorer-object-outlook.md)** is moved by the user.
+Occurs when the **[Explorer](explorer-object-outlook.md)** is moved by the user.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ This event can be cancelled after it has started.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a message before the explorer is moved by the user. If the user clicks  **Yes**, the explorer can be moved by the user. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a message before the explorer is moved by the user. If the user clicks **Yes**, the explorer can be moved by the user. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

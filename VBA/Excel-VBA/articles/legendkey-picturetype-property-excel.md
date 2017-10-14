@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey.PictureType Property (Excel)
 
-Returns or sets a  **[XlChartPictureType](xlchartpicturetype-enumeration-excel.md)** value that represents the way pictures are displayed on a legend key.
+Returns or sets a **[XlChartPictureType](xlchartpicturetype-enumeration-excel.md)** value that represents the way pictures are displayed on a legend key.
 
 
 ## Syntax

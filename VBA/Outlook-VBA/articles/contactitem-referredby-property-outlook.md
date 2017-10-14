@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ReferredBy Property (Outlook)
 
-Returns or sets a  **String** specifying the referral name entry for the contact. Read/write.
+Returns or sets a **String** specifying the referral name entry for the contact. Read/write.
 
 
 ## Syntax

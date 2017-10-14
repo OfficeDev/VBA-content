@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.Order Property (Excel)
 
-Specifies the evaluation order of the filter among all Value filters applied to the entire PivotTable. Read/write  **Integer** .
+Specifies the evaluation order of the filter among all Value filters applied to the entire PivotTable. Read/write **Integer** .
 
 
 ## Syntax
@@ -27,9 +27,9 @@ Specifies the evaluation order of the filter among all Value filters applied to 
 
 This property is valid only for Value and Top  _n_ type PivotFilters. A run-time error is returned if an attempt is made to set or get this property for Label and Date filters. 1 represents the first filter evaluated, 2 represents the next filter evaluated, and so on, until the _n_th value is reached. -1 represents an inactive filter.
 
-If the  **EvaluationOrder** property is not specified when a new filter is added, it will be set to _N+1_ (where _N_ is the current highest **EvaluationOrder** number in the filter collection).
+If the **EvaluationOrder** property is not specified when a new filter is added, it will be set to _N+1_ (where _N_ is the current highest **EvaluationOrder** number in the filter collection).
 
-The property can be specified in the  **Add** method or it can be set later for a field by changing the property.
+The property can be specified in the **Add** method or it can be set later for a field by changing the property.
 
 Increasing the evaluation order for a field will decrease the evaluation order of the field previously holding that evaluation order value—and all fields in between the two fields—by one. Setting the evaluation order to the same as before will have no effect. Decreasing the evaluation order for a field will increase the evaluation order of the field previously holding that evaluation order value—and all fields in between the two fields—by one.
 

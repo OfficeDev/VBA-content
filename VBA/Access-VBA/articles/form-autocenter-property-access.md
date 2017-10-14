@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.AutoCenter Property (Access)
 
-Returns or sets a  **Boolean** indicating whether a form will be centered automatically in the application window when the form is opened. Read/write.
+Returns or sets a **Boolean** indicating whether a form will be centered automatically in the application window when the form is opened. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** indicating whether a form will be centered automa
 
 ## Remarks
 
-The  **AutoCenter** property uses the following settings.
+The **AutoCenter** property uses the following settings.
 
 
 
@@ -37,7 +37,7 @@ You can set this property only in Design view.
 
 Depending on the size and placement of the application window, forms can appear off to one side of the application window, hiding part of the form or report. Centering the form automatically when it's opened makes it easier to view and use.
 
-If you make any changes in Design view to a form whose  **AutoResize** property is set to No and whose **AutoCenter** property is set to Yes, switch to Form view before saving the form. If you don't, Microsoft Access clips the form on the right and bottom edges the next time you open the form.
+If you make any changes in Design view to a form whose **AutoResize** property is set to No and whose **AutoCenter** property is set to Yes, switch to Form view before saving the form. If you don't, Microsoft Access clips the form on the right and bottom edges the next time you open the form.
 
 
 ## See also

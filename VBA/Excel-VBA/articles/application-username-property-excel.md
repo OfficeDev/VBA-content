@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UserName Property (Excel)
 
-Returns or sets the name of the current user. Read/write  **String** .
+Returns or sets the name of the current user. Read/write **String** .
 
 
 ## Syntax

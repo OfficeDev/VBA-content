@@ -38,12 +38,12 @@ String
 
 ## Remarks
 
-For Word, Excel, PowerPoint, and Access, there is only one ID for each application. Outlook uses ribbon extensibility to customize not only the ribbon in an inspector, but also the ribbon in an explorer, in various context menus, in contextual tabs in a ribbon, and in the Microsoft Office Backstage view. In each of these scenarios, the developer specifies the custom UI in an XML file that is loaded when Office calls  **GetCustomUI** with a specific ribbon ID.
+For Word, Excel, PowerPoint, and Access, there is only one ID for each application. Outlook uses ribbon extensibility to customize not only the ribbon in an inspector, but also the ribbon in an explorer, in various context menus, in contextual tabs in a ribbon, and in the Microsoft Office Backstage view. In each of these scenarios, the developer specifies the custom UI in an XML file that is loaded when Office calls **GetCustomUI** with a specific ribbon ID.
 
 
 ## Example
 
-In the following example, written in C#, the  **IRibbonExtensibility** interface is specified in the class definition. The example then implements the interfaces's only method, **GetCustomUI**. The method creates an instance of a **SteamReader** object that reads in the customization markup in an external XML file.
+In the following example, written in C#, the **IRibbonExtensibility** interface is specified in the class definition. The example then implements the interfaces's only method, **GetCustomUI**. The method creates an instance of a **SteamReader** object that reads in the customization markup in an external XML file.
 
 
 ```

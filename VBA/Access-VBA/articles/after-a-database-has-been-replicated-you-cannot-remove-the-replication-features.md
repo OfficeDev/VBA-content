@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You cannot remove the replication features from a database that has been replicated, either by setting its  **Replicable** property to "T" or by converting it with the Microsoft Windows Briefcase, Microsoft Access, or the Replication Manager. Using DAO to set the database's **Replicable** property to "F" or any other value has no effect on the replicated database. If you need to use a copy of the database that does not have the properties, fields, tables, and other characteristics associated with replication, open the backup copy of the database made before the database was first converted.
+You cannot remove the replication features from a database that has been replicated, either by setting its **Replicable** property to "T" or by converting it with the Microsoft Windows Briefcase, Microsoft Access, or the Replication Manager. Using DAO to set the database's **Replicable** property to "F" or any other value has no effect on the replicated database. If you need to use a copy of the database that does not have the properties, fields, tables, and other characteristics associated with replication, open the backup copy of the database made before the database was first converted.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

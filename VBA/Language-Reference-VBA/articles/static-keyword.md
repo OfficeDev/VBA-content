@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Static <keyword>
 
-The  **Static** keyword is used in these contexts:
+The **Static** keyword is used in these contexts:
 
 [Function Statement](function-statement.md)
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TimelineViewState.ShowTimeLevel Property (Excel)
 
-Get or set whether the control's time level drop-down is displayed.  **Boolean** Read/Write
+Get or set whether the control's time level drop-down is displayed. **Boolean** Read/Write
 
 
 ## Syntax

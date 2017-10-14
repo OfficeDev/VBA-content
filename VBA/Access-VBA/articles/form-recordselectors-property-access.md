@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.RecordSelectors Property (Access)
 
-You can use the  **RecordSelectors** property to specify whether a form displays record selectors in Form view. Read/write **Boolean**.
+You can use the **RecordSelectors** property to specify whether a form displays record selectors in Form view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **RecordSelectors** property to specify whether a form displays
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
-You can use this property to remove record selectors when you create or use a form as a custom dialog box or a palette. You can also use this property for forms whose  **[DefaultView](form-defaultview-property-access.md)** property is set to Single Form.
+You can use this property to remove record selectors when you create or use a form as a custom dialog box or a palette. You can also use this property for forms whose **[DefaultView](form-defaultview-property-access.md)** property is set to Single Form.
 
-The record selector displays the unsaved record indicator when a record is being edited. When the  **RecordSelectors** property is set to No and the **[RecordLocks](form-recordlocks-property-access.md)** property is set to Edited Record (record locking is "pessimistic" — only one person can edit a record at a time), there is no visual clue that the record is locked.
+The record selector displays the unsaved record indicator when a record is being edited. When the **RecordSelectors** property is set to No and the **[RecordLocks](form-recordlocks-property-access.md)** property is set to Edited Record (record locking is "pessimistic" — only one person can edit a record at a time), there is no visual clue that the record is locked.
 
 
 ## Example

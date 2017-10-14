@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.CustomSubtotalFunction Property (Excel)
 
-Returns the custom subtotal function field setting of a  **PivotCell** object. Read-only **[XlConsolidationFunction](xlconsolidationfunction-enumeration-excel.md)** .
+Returns the custom subtotal function field setting of a **PivotCell** object. Read-only **[XlConsolidationFunction](xlconsolidationfunction-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -40,7 +40,7 @@ Returns the custom subtotal function field setting of a  **PivotCell** object. R
 | **xlUnknown**|
 | **xlVar**|
 | **xlVarP**|
-The  **CustomSubtotalFunction** property will return an error if the **PivotCell** object type is not a custom subtotal. This property applies only to non-OLAP source data.
+The **CustomSubtotalFunction** property will return an error if the **PivotCell** object type is not a custom subtotal. This property applies only to non-OLAP source data.
 
 
 ## Example

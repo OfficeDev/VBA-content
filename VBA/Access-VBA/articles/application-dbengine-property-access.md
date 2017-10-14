@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DBEngine Property (Access)
 
-You can use the  **DBEngine** property in[Visual Basic](set-properties-by-using-visual-basic.md)to access the current  **DBEngine** object and its related properties. Read-only **DBEngine**.
+You can use the **DBEngine** property in[Visual Basic](set-properties-by-using-visual-basic.md)to access the current **DBEngine** object and its related properties. Read-only **DBEngine**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ You can use the  **DBEngine** property in[Visual Basic](set-properties-by-using-
 
 ## Remarks
 
-The  **DBEngine** property of the **[Application](application-object-access.md)** object represents the Microsoft Access database engine. The **DBEngine** object is the top-level object in the Data Access Objects (DAO) model and it contains and controls all other objects in the hierarchy of Data Access Objects.
+The **DBEngine** property of the **[Application](application-object-access.md)** object represents the Microsoft Access database engine. The **DBEngine** object is the top-level object in the Data Access Objects (DAO) model and it contains and controls all other objects in the hierarchy of Data Access Objects.
 
 
 ## Example
 
-The following example displays the  **DBEngine** properties in a message box.
+The following example displays the **DBEngine** properties in a message box.
 
 
 ```vb

@@ -17,13 +17,13 @@ When you run your code, execution may stop if:
 
 - An untrapped [run-time error](vbe-glossary.md) occurs.
     
-- A trapped run-time error occurs, and  **Break on All Errors** is selected on the **General** tab of the **Options** dialog box ( **Tools** menu).
+- A trapped run-time error occurs, and **Break on All Errors** is selected on the **General** tab of the **Options** dialog box ( **Tools** menu).
     
 - A previously set [breakpoint](vbe-glossary.md) is encountered.
     
-- A  **Stop** statement in your code is encountered, switching the mode to[break mode](vbe-glossary.md).
+- A **Stop** statement in your code is encountered, switching the mode to[break mode](vbe-glossary.md).
     
-- An  **End** statement in your code is encountered, switching the mode to[design time](vbe-glossary.md).
+- An **End** statement in your code is encountered, switching the mode to[design time](vbe-glossary.md).
     
 - You halt execution manually at a given point.
     
@@ -33,20 +33,20 @@ When you run your code, execution may stop if:
  **To halt execution manually**
 
 
-1. To switch to break mode, choose  **Break** (CTRL+BREAK) from the **Run** menu, or use the toolbar shortcut:
+1. To switch to break mode, choose **Break** (CTRL+BREAK) from the **Run** menu, or use the toolbar shortcut:
 ![Toolbar button](images/tbr_brk_ZA01201682.gif).
     
-2. To switch to design time, choose  **Reset <projectname&gt;** from the **Run** menu, or use the toolbar shortcut:
+2. To switch to design time, choose **Reset <projectname&gt;** from the **Run** menu, or use the toolbar shortcut:
 ![Toolbar button](images/tbr_end_ZA01201701.gif).
     
 
  **To continue execution when your application has halted**
 
 
-- On the  **Run** menu, click **Continue** (F5), or use the toolbar shortcut:
+- On the **Run** menu, click **Continue** (F5), or use the toolbar shortcut:
 ![Toolbar button](images/tbr_strt_ZA01201751.gif). - Or -
     
-- On the  **Debug** menu, click **Step Into** (F8), **Step Over** (SHIFT+F8), **Step Out** (CTRL+SHIFT+F8), or **Run To Cursor** (CTRL+F8)(.
+- On the **Debug** menu, click **Step Into** (F8), **Step Over** (SHIFT+F8), **Step Out** (CTRL+SHIFT+F8), or **Run To Cursor** (CTRL+F8)(.
     
 
  **To continue execution when your application has halted because of a handled error**

@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 When you open a workbook that was saved as read-only recommended, Microsoft Excel displays a message recommending that you open the workbook as read-only.
 
-Use the  **[SaveAs](workbook-saveas-method-excel.md)** method to change this property.
+Use the **[SaveAs](workbook-saveas-method-excel.md)** method to change this property.
 
 
 ## Example

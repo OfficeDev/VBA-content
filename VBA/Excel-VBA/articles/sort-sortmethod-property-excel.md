@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sort.SortMethod Property (Excel)
 
-Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](xlsortmethod-enumeration-excel.md)** .
+Specifies the sort method for Chinese languages. Read/write **[XlSortMethod](xlsortmethod-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](xl
 
 
 
-|XlSortMethod can be one of these  **SortMethod** constants.|
+|XlSortMethod can be one of these **SortMethod** constants.|
 | **xlStroke**|
 | **xlPinYin**|
 

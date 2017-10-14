@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtNode.Hidden Property (Office)
 
-Returns  **true** if this node is a hidden node in the data model. Read-only
+Returns **true** if this node is a hidden node in the data model. Read-only
 
 
 ## Syntax

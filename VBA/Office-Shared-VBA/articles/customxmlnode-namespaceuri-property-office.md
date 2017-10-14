@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.NamespaceURI Property (Office)
 
-Gets the unique address identifier for the namespace of the  **CustomXMLNode** object. Read-only.
+Gets the unique address identifier for the namespace of the **CustomXMLNode** object. Read-only.
 
 
 ## Syntax

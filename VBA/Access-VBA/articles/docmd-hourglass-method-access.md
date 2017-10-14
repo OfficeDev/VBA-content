@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.Hourglass Method (Access)
 
-The  **Hourglass** method carries out the Hourglass action in Visual Basic.
+The **Hourglass** method carries out the Hourglass action in Visual Basic.
 
 
 ## Syntax
@@ -29,13 +29,13 @@ The  **Hourglass** method carries out the Hourglass action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _HourglassOn_|Required|**Variant**|Use  **True** (?1) to display the hourglass icon (or another icon you've chosen). Use **False** (0) to display the normal mouse pointer.|
+| _HourglassOn_|Required|**Variant**|Use **True** (?1) to display the hourglass icon (or another icon you've chosen). Use **False** (0) to display the normal mouse pointer.|
 
 ## Remarks
 
-You can use the  **Hourglass** method to change the mouse pointer to an image of an hourglass (or another icon you've chosen) while a procedure is running. This method can provide a visual indication that the procedure is running. This is especially useful when a procedure takes a long time to run.
+You can use the **Hourglass** method to change the mouse pointer to an image of an hourglass (or another icon you've chosen) while a procedure is running. This method can provide a visual indication that the procedure is running. This is especially useful when a procedure takes a long time to run.
 
-You often use this method if you've turned echo off by using the  **Echo** method. When echo is off, Microsoft Access suspends screen updates until the macro is finished.
+You often use this method if you've turned echo off by using the **Echo** method. When echo is off, Microsoft Access suspends screen updates until the macro is finished.
 
 Microsoft Access automatically resets the  _HourglassOn_ argument to **False** when the procedure finishes running.
 

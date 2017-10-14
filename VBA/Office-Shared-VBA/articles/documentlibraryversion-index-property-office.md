@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersion.Index Property (Office)
 
-Gets a  **Long** representing the index number for a **DocumentLibraryVersion** object in the collection. Read-only.
+Gets a **Long** representing the index number for a **DocumentLibraryVersion** object in the collection. Read-only.
 
 
 ## Syntax

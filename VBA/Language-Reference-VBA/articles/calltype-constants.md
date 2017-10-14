@@ -18,7 +18,7 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 |**Constant**|**Value**|**Decription**|
 |:-----|:-----|:-----|
 |**vbMethod**|1|Indicates that a method has been invoked.|
-|**vbGet**|2|Indicates a  **Property Get** procedure.|
-|**vbLet**|4|Indicates a  **Property Let** procedure.|
-|**vbSet**|8|Indicates a  **Property Set** procedure.|
+|**vbGet**|2|Indicates a **Property Get** procedure.|
+|**vbLet**|4|Indicates a **Property Let** procedure.|
+|**vbSet**|8|Indicates a **Property Set** procedure.|
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.LegendKey Property (Excel)
 
-Returns a  **[LegendKey](legendkey-object-excel.md)** object that represents the legend key associated with the entry.
+Returns a **[LegendKey](legendkey-object-excel.md)** object that represents the legend key associated with the entry.
 
 
 ## Syntax

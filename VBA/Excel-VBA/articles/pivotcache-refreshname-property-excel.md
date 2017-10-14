@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.RefreshName Property (Excel)
 
-Returns the name of the person who last refreshed the PivotTable cache. Read-only  **String** .
+Returns the name of the person who last refreshed the PivotTable cache. Read-only **String** .
 
 
 ## Syntax

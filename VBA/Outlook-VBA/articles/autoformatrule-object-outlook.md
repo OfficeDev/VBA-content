@@ -13,34 +13,34 @@ ms.date: 06/08/2017
 
 # AutoFormatRule Object (Outlook)
 
-Represents a formatting rule used by a  **[View](view-object-outlook.md)** object to determine how to format Outlook items displayed within that view.
+Represents a formatting rule used by a **[View](view-object-outlook.md)** object to determine how to format Outlook items displayed within that view.
 
 
 ## Remarks
 
-Use the  **[Add](autoformatrules-add-method-outlook.md)** method or the **[Insert](autoformatrules-insert-method-outlook.md)** method of the **[AutoFormatRules](autoformatrules-object-outlook.md)** collection to create a new formatting rule for the following objects:
+Use the **[Add](autoformatrules-add-method-outlook.md)** method or the **[Insert](autoformatrules-insert-method-outlook.md)** method of the **[AutoFormatRules](autoformatrules-object-outlook.md)** collection to create a new formatting rule for the following objects:
 
 
--  **[CalendarView](calendarview-object-outlook.md)**
+- **[CalendarView](calendarview-object-outlook.md)**
     
--  **[CardView](cardview-object-outlook.md)**
+- **[CardView](cardview-object-outlook.md)**
     
--  **[TableView](tableview-object-outlook.md)**
+- **[TableView](tableview-object-outlook.md)**
     
 
 ### Built-In and Custom Formatting Rules
 
-Microsoft Outlook provides a set of built-in formatting rules that can be disabled but cannot be removed or reordered. Custom formatting rules, defined either programmatically or by user action, cannot be moved above or between built-in formatting rules. Use the  **[Standard](autoformatrule-standard-property-outlook.md)** property to determine whether a formatting rule is built-in or custom.
+Microsoft Outlook provides a set of built-in formatting rules that can be disabled but cannot be removed or reordered. Custom formatting rules, defined either programmatically or by user action, cannot be moved above or between built-in formatting rules. Use the **[Standard](autoformatrule-standard-property-outlook.md)** property to determine whether a formatting rule is built-in or custom.
 
 
 ### Applying Formatting Rules
 
-Formatting rules are checked and applied against each Outlook item, in the order in which they are contained within the  **AutoFormatRules** collection. Use the **[Enabled](autoformatrule-enabled-property-outlook.md)** property to enable or disable a formatting rule, the **[Filter](autoformatrule-filter-property-outlook.md)** property to define the conditions an Outlook item must meet to be formatted by the formatting rule, and the **[Font](autoformatrule-font-property-outlook.md)** property to specify the format to be applied by the formatting rule.
+Formatting rules are checked and applied against each Outlook item, in the order in which they are contained within the **AutoFormatRules** collection. Use the **[Enabled](autoformatrule-enabled-property-outlook.md)** property to enable or disable a formatting rule, the **[Filter](autoformatrule-filter-property-outlook.md)** property to define the conditions an Outlook item must meet to be formatted by the formatting rule, and the **[Font](autoformatrule-font-property-outlook.md)** property to specify the format to be applied by the formatting rule.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **[AutoFormatRules](tableview-autoformatrules-property-outlook.md)** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
+The following Visual Basic for Applications (VBA) example enumerates the **[AutoFormatRules](tableview-autoformatrules-property-outlook.md)** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
 
 
 ```

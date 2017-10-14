@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a value containing the mode of the specified [project](vbe-glossary.md). Read-only.
  **Return Values**
-The  **Mode** property return values are:
+The **Mode** property return values are:
 
 
 |**Constant**|**Description**|

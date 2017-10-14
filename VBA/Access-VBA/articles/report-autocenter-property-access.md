@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.AutoCenter Property (Access)
 
-Returns or sets a  **Boolean** indicating whether a report will be centered automatically in the application window when the form is opened. Read/write.
+Returns or sets a **Boolean** indicating whether a report will be centered automatically in the application window when the form is opened. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** indicating whether a report will be centered auto
 
 ## Remarks
 
-The  **AutoCenter** property uses the following settings.
+The **AutoCenter** property uses the following settings.
 
 
 

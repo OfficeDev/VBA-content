@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.Title Property (Office)
 
-Sets or gets the title of a file dialog box displayed using the  **FileDialog** object. Read/write.
+Sets or gets the title of a file dialog box displayed using the **FileDialog** object. Read/write.
 
 
 ## Syntax

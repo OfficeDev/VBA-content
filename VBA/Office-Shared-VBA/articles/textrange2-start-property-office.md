@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Start Property (Office)
 
-Gets a  **Long** value indicating the starting point of the specified text range. Read-only.
+Gets a **Long** value indicating the starting point of the specified text range. Read-only.
 
 
 ## Syntax

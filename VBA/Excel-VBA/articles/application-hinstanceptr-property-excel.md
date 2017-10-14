@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.HinstancePtr Property (Excel)
 
-Returns a handle to the instance of Excel represented by the specified  **[Application](application-object-excel.md)** object. Read-only **Variant** .
+Returns a handle to the instance of Excel represented by the specified **[Application](application-object-excel.md)** object. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a handle to the instance of Excel represented by the specified  **[Appli
 
 ## Remarks
 
-This property returns a correct handle in both the 32- and 64-bit versions of Excel. It extends the functionality of the  **[Hinstance](application-hinstance-property-excel.md)** property of the **Application** object, which only works correctly in the 32-bit version of Excel.
+This property returns a correct handle in both the 32- and 64-bit versions of Excel. It extends the functionality of the **[Hinstance](application-hinstance-property-excel.md)** property of the **Application** object, which only works correctly in the 32-bit version of Excel.
 
-The ideal data type to use with this property is the  **[LongPtr](http://msdn.microsoft.com/library/10ee4c07-b686-5b86-5cea-250a9218e7ba%28Office.15%29.aspx)** data type. Assigning the value returned by this property to a **LongPtr** variable will work as expected in both 32- and 64-bit versions of Excel. The property is defined as **Variant** for internal implementation reasons. However, it always returns a 32-bit value on 32-bit systems and a 64-bit value on 64-bit systems.
+The ideal data type to use with this property is the **[LongPtr](http://msdn.microsoft.com/library/10ee4c07-b686-5b86-5cea-250a9218e7ba%28Office.15%29.aspx)** data type. Assigning the value returned by this property to a **LongPtr** variable will work as expected in both 32- and 64-bit versions of Excel. The property is defined as **Variant** for internal implementation reasons. However, it always returns a 32-bit value on 32-bit systems and a 64-bit value on 64-bit systems.
 
 This property only works starting with Excel, and is only required with the 64-bit version of Excel. If you must write code that will also work with earlier versions of Excel, in order to avoid compilation errors, read this property under an  `#if Win64` conditional compilation directive, and use the **Hinstance** property under the `#else` directive.
 

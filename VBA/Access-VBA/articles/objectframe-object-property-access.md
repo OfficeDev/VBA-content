@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.Object Property (Access)
 
-You can use the  **Object** property in Visual Basic to return a reference to the ActiveX object that is associated with a linked or embedded OLE object in a control. By using this reference, you can access the properties or invoke the methods of the OLE object. Read-only **Object**.
+You can use the **Object** property in Visual Basic to return a reference to the ActiveX object that is associated with a linked or embedded OLE object in a control. By using this reference, you can access the properties or invoke the methods of the OLE object. Read-only **Object**.
 
 
 ## Syntax
@@ -25,16 +25,16 @@ You can use the  **Object** property in Visual Basic to return a reference to th
 
 ## Remarks
 
-The  **Object** property returns a reference to an ActiveX object. You can use the **Set** statement to assign this ActiveX object to an object variable. The type of object reference returned depends on which application created the OLE object.
+The **Object** property returns a reference to an ActiveX object. You can use the **Set** statement to assign this ActiveX object to an object variable. The type of object reference returned depends on which application created the OLE object.
 
-When you embed or link an OLE object in a Microsoft Access form, you can set properties that determine the type of object and the behavior of the container control. However, you can't directly set or read the OLE object's properties or apply its methods, as you can when performing Automation. The  **Object** property returns a reference to an Automation object that represents the linked or embedded OLE object. By using this reference, you can change the OLE object by setting or reading its properties or applying its methods. For example, Microsoft Excel is an COM component that supports Automation. If you've embedded a Microsoft Excel worksheet in a Microsoft Access form, you can use the **Object** property to set a reference to the **Worksheet** object associated with that worksheet. You can then use any of the properties and methods of the **Worksheet** object.
+When you embed or link an OLE object in a Microsoft Access form, you can set properties that determine the type of object and the behavior of the container control. However, you can't directly set or read the OLE object's properties or apply its methods, as you can when performing Automation. The **Object** property returns a reference to an Automation object that represents the linked or embedded OLE object. By using this reference, you can change the OLE object by setting or reading its properties or applying its methods. For example, Microsoft Excel is an COM component that supports Automation. If you've embedded a Microsoft Excel worksheet in a Microsoft Access form, you can use the **Object** property to set a reference to the **Worksheet** object associated with that worksheet. You can then use any of the properties and methods of the **Worksheet** object.
 
 For information on which properties and methods an ActiveX object supports, see the documentation for the application that was used to create the OLE object.
 
 
 ## Example
 
-The following example uses the  **Object** property of an unbound object frame named OLE1. Customer name and address information is inserted in an embedded Microsoft Word document formatted as a form letter with placeholders for the name and address information and boilerplate text in the body of the letter. The procedure replaces the placeholder information for each record and prints the form letter. It doesn't save copies of the printed form letter.
+The following example uses the **Object** property of an unbound object frame named OLE1. Customer name and address information is inserted in an embedded Microsoft Word document formatted as a form letter with placeholders for the name and address information and boilerplate text in the body of the letter. The procedure replaces the placeholder information for each record and prints the form letter. It doesn't save copies of the printed form letter.
 
 
 ```vb

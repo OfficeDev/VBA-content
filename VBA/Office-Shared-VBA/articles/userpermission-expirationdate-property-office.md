@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserPermission.ExpirationDate Property (Office)
 
-Gets or sets the optional expiration date of the permissions on the active document assigned to the user associated with the specified  **UserPermission** object. Read/write.
+Gets or sets the optional expiration date of the permissions on the active document assigned to the user associated with the specified **UserPermission** object. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-The  **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **ExpirationDate** property returns or sets the optional expiration date of the specified **UserPermission** object using the local time zone.
+The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **ExpirationDate** property returns or sets the optional expiration date of the specified **UserPermission** object using the local time zone.
 
 
 ## See also

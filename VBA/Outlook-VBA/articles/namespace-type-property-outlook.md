@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.Type Property (Outlook)
 
-Returns a  **String** indicating the type of the specified object. Read-only.
+Returns a **String** indicating the type of the specified object. Read-only.
 
 
 ## Syntax

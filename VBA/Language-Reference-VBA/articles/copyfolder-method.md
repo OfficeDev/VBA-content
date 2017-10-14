@@ -19,15 +19,15 @@ ms.date: 06/08/2017
 Recursively copies a folder from one location to another.
  **Syntax**
  _object_. **CopyFolder**_source_, _destination_ [, ove _r_ write]
-The  **CopyFolder** method syntax has these parts:
+The **CopyFolder** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
+| _object_|Required. Always the name of a **FileSystemObject**.|
 | _source_|Required. Character string folder specification, which can include wildcard characters, for one or more folders to be copied.|
 | _destination_|Required. Character string destination where the folder and subfolders from  _source_ are to be copied. Wildcard characters are not allowed.|
-| _overwrite_|Optional.  **Boolean** value that indicates if existing folders are to be overwritten. If **True**, files are overwritten; if **False**, they are not. The default is **True**.|
+| _overwrite_|Optional. **Boolean** value that indicates if existing folders are to be overwritten. If **True**, files are overwritten; if **False**, they are not. The default is **True**.|
  **Remarks**
 Wildcard characters can only be used in the last path component of the  _source_ argument. For example, you can use:
 
@@ -61,5 +61,5 @@ If  _source_ contains wildcard characters or _destination_ ends with a path sepa
     
 
 An error also occurs if a  _source_ using wildcard characters doesn't match any folders.
-The  **CopyFolder** method stops on the first error it encounters. No attempt is made to roll back any changes made before an error occurs.
+The **CopyFolder** method stops on the first error it encounters. No attempt is made to roll back any changes made before an error occurs.
 

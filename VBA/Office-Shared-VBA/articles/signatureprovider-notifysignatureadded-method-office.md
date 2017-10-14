@@ -40,7 +40,7 @@ This method is called when the signing process has completed. Allows a signature
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **NotifySignatureAdded** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **NotifySignatureAdded** method in a custom signature provider project.
 
 
 ```

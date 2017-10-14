@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Enhance the Border Style, Color, and Special Effects of a Text Box Control
 
-The following example demonstrates the  **[BorderColor](textbox-bordercolor-property-outlook-forms-script.md)** and **[SpecialEffect](textbox-specialeffect-property-outlook-forms-script.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](textbox-backcolor-property-outlook-forms-script.md)**,  **[BackStyle](textbox-backstyle-property-outlook-forms-script.md)**,  **BorderColor**, and  **[ForeColor](textbox-forecolor-property-outlook-forms-script.md)** properties.
+The following example demonstrates the **[BorderColor](textbox-bordercolor-property-outlook-forms-script.md)** and **[SpecialEffect](textbox-specialeffect-property-outlook-forms-script.md)** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **[BackColor](textbox-backcolor-property-outlook-forms-script.md)**, **[BackStyle](textbox-backstyle-property-outlook-forms-script.md)**, **BorderColor**, and **[ForeColor](textbox-forecolor-property-outlook-forms-script.md)** properties.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Six  **[TextBox](textbox-object-outlook-forms-script.md)** controls named TextBox1 through TextBox6.
+- Six **[TextBox](textbox-object-outlook-forms-script.md)** controls named TextBox1 through TextBox6.
     
-- Two  **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 and ToggleButton2.
+- Two **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 and ToggleButton2.
     
 
 

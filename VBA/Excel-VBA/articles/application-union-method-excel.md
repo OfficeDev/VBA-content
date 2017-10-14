@@ -29,36 +29,36 @@ Returns the union of two or more ranges.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Range**|At least two  **[Range](range-object-excel.md)** objects must be specified.|
-| _Arg2_|Required| **Range**|At least two  **Range** objects must be specified.|
-| _Arg3_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg4_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg5_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg6_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg7_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg8_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg9_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg10_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg11_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg12_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg13_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg14_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg15_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg16_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg17_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg18_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg19_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg20_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg21_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg22_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg23_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg24_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg25_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg26_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg27_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg28_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg29_|Optional| **Variant**|At least two  **Range** objects must be specified.|
-| _Arg30_|Optional| **Variant**|At least two  **Range** objects must be specified.|
+| _Arg1_|Required| **Range**|At least two **[Range](range-object-excel.md)** objects must be specified.|
+| _Arg2_|Required| **Range**|At least two **Range** objects must be specified.|
+| _Arg3_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg4_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg5_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg6_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg7_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg8_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg9_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg10_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg11_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg12_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg13_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg14_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg15_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg16_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg17_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg18_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg19_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg20_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg21_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg22_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg23_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg24_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg25_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg26_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg27_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg28_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg29_|Optional| **Variant**|At least two **Range** objects must be specified.|
+| _Arg30_|Optional| **Variant**|At least two **Range** objects must be specified.|
 
 ### Return Value
 

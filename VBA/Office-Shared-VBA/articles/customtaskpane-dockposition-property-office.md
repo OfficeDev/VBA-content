@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomTaskPane.DockPosition Property (Office)
 
-Gets or sets an enumerated value specifying the docked position of a  **CustomTaskPane** object. Read/write.
+Gets or sets an enumerated value specifying the docked position of a **CustomTaskPane** object. Read/write.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ MsoCTPDockPosition
 
 ## Remarks
 
-Defaults to  **Right** for Right-to-Left languages and **Left** for Left-toRight languages.
+Defaults to **Right** for Right-to-Left languages and **Left** for Left-toRight languages.
 
-The value of this property can be set to one of the following  **MsoCTPDockPosition** constants.
+The value of this property can be set to one of the following **MsoCTPDockPosition** constants.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.OnAttachmentCurrent Property (Access)
 
-Sets or gets the value of the  **On Attachment Current** box in the Properties window of the specified **Attachment**. Read/write.
+Sets or gets the value of the **On Attachment Current** box in the Properties window of the specified **Attachment**. Read/write.
 
 
 ## Syntax

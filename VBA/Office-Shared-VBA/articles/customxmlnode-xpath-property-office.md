@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.XPath Property (Office)
 
-Gets a  **String** with the canonicalized XPath for the current node. If the node is no longer in the Document Object Model (DOM), the property returns an error message. Read-only.
+Gets a **String** with the canonicalized XPath for the current node. If the node is no longer in the Document Object Model (DOM), the property returns an error message. Read-only.
 
 
 ## Syntax

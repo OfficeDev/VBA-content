@@ -64,7 +64,7 @@ Access 2013 is designed to enable you to create functional views with little int
 
 ![Tile pane](images/odc_Access15_WhatsNewInAccessforDevelopers_Figure03.jpg)You can rearrange the tables in the Tile Pane. You can change the name displayed on a tile, which doesn't rename its underlying table. However, deleting the tile deletes the table.
 
-You can hide tiles that you don't want to be displayed in the web browser. When you hide a tile, you can still edit the underlying table and views in Access. Although the user can't access the views of hidden tiles directly, you can use the  **ChangeView** or **OpenPopup** macro actions to display a view associated with a hidden tile. Figure 4 shows that the Related Issues and Issue Comments tiles have been hidden.
+You can hide tiles that you don't want to be displayed in the web browser. When you hide a tile, you can still edit the underlying table and views in Access. Although the user can't access the views of hidden tiles directly, you can use the **ChangeView** or **OpenPopup** macro actions to display a view associated with a hidden tile. Figure 4 shows that the Related Issues and Issue Comments tiles have been hidden.
 
 
 **Figure 4. Hidden tiles in the view designer**
@@ -83,7 +83,7 @@ There are four kinds of views that you can create in yourAccess 2013 app: List D
 
 List Details is one of the views Access automatically generates when you create a table. The main feature that distinguishes a list view is the list pane that appears on the left side of the view. The list pane is used to filter and navigate the records contained in the view.
 
-The list pane can display up to three items from each record by setting its  **Primary**, **Secondary**, and **Thumbnail** properties. Figure 6 shows that the list pane in the Employees List view is configured to display the **FullName** and **Job Title** fields.
+The list pane can display up to three items from each record by setting its **Primary**, **Secondary**, and **Thumbnail** properties. Figure 6 shows that the list pane in the Employees List view is configured to display the **FullName** and **Job Title** fields.
 
 
 **Figure 6. List Details view**
@@ -95,7 +95,7 @@ Datasheet is the other kind of view Access automatically generates when you crea
 
 **Figure 7. A filtered Datasheet view**
 
-![A filtered Datasheet view](images/odc_Access15_WhatsNewInAccessforDevelopers_Figure07.jpg)Summary views can be used to group records based on a field and optionally calculate a sum or average. The field to group by displays its values in a list view. When a group is selected, the record contained in the group is displayed in a related items control. The related items control can be configured to display up to four fields that have information about the record. A popup view can be specified if you want to drill down on the item. Figure 8 shows the  **Issues By Status** view, a Summary view that groups the **Issues** table by the **Status** field.
+![A filtered Datasheet view](images/odc_Access15_WhatsNewInAccessforDevelopers_Figure07.jpg)Summary views can be used to group records based on a field and optionally calculate a sum or average. The field to group by displays its values in a list view. When a group is selected, the record contained in the group is displayed in a related items control. The related items control can be configured to display up to four fields that have information about the record. A popup view can be specified if you want to drill down on the item. Figure 8 shows the **Issues By Status** view, a Summary view that groups the **Issues** table by the **Status** field.
 
 
 **Figure 8. A Summary view**
@@ -107,7 +107,7 @@ Datasheet is the other kind of view Access automatically generates when you crea
 
 The Access 2013 view designer doesn't provide the pixel-perfect approach offered when you design forms in client databases. The view and its controls in Access 2013 apps support a smaller set of controls, properties and events.
 
-The view designer is laid out as a table grid. As you add, move, and resize a control on a view, it snaps to the invisible grid. To configure a control property, select the control. One or more icons are displayed next to the control. Selecting an icon displays a popup that contains a category of properties. Access displays only the properties that are relevant in the current context. Figure 9 shows the  **Data** properties for the **ProjectComboBox** control.
+The view designer is laid out as a table grid. As you add, move, and resize a control on a view, it snaps to the invisible grid. To configure a control property, select the control. One or more icons are displayed next to the control. Selecting an icon displays a popup that contains a category of properties. Access displays only the properties that are relevant in the current context. Figure 9 shows the **Data** properties for the **ProjectComboBox** control.
 
 
 **Figure 9. Property popup**
@@ -131,7 +131,7 @@ The Related Items control displays a set of records from tables related to the v
 
 **Figure 11. Related Items control**
 
-![Related Items control](images/odc_Access15_WhatsNewInAccessforDevelopers_Figure11.jpg)To edit the items in a Related Items tab, you must assign a view to its  **Popup view** property. The specified view will open in a popup window when you choose an item.
+![Related Items control](images/odc_Access15_WhatsNewInAccessforDevelopers_Figure11.jpg)To edit the items in a Related Items tab, you must assign a view to its **Popup view** property. The specified view will open in a popup window when you choose an item.
 
 
 ## Programmability in Access apps
@@ -175,7 +175,7 @@ Table 2 lists the events supported by each control.
 |Multiline Textbox|After Update, On Click|
 |Text Box|After Update, On Click|
 |View|On Current, On Load|
-Reuse standalone UI macros by calling them from other macros, helping you avoid duplicate code. Standalone UI macros are visible in the Navigation Pane, under  **Macros**. However, you can't run them directly from the Navigation Pane. Use the  **RunMacro** action to run a standalone UI macro from an embedded UI macro.
+Reuse standalone UI macros by calling them from other macros, helping you avoid duplicate code. Standalone UI macros are visible in the Navigation Pane, under **Macros**. However, you can't run them directly from the Navigation Pane. Use the **RunMacro** action to run a standalone UI macro from an embedded UI macro.
 
 
 ### Data macros
@@ -195,14 +195,14 @@ Table 3 lists the events that you can attach a data macro to in a table.
 |On Insert|Occurs after a new record is added to the table.|
 |On Update|Occurs after an existing record is changed.|
 |On Delete|Occurs after a record is deleted|
-Figure 12 shows a data macro embedded in the  **On Update** event of the Issues table. The data macro verifies that a resolution is selected when an issue is resolved or closed.
+Figure 12 shows a data macro embedded in the **On Update** event of the Issues table. The data macro verifies that a resolution is selected when an issue is resolved or closed.
 
 
 **Figure 12. Data macro embedded in the On Update event**
 
-![Data macro embedded in the On Update event](images/odc_Access15_WhatsNewInAccessforDevelopers_Figure12.jpg)If no resolution is selected, the  **RaiseError** macro action is used to display an error message to the user and the record is not saved.
+![Data macro embedded in the On Update event](images/odc_Access15_WhatsNewInAccessforDevelopers_Figure12.jpg)If no resolution is selected, the **RaiseError** macro action is used to display an error message to the user and the record is not saved.
 
-Standalone data macros can be called from UI macros and data macros by using the  **RunDataMacro** action. Standalone data macros can contain one or more parameters. In the data macro, use the **SetReturnVar** action to set a return value that the calling macro can use to determine what to do next.
+Standalone data macros can be called from UI macros and data macros by using the **RunDataMacro** action. Standalone data macros can contain one or more parameters. In the data macro, use the **SetReturnVar** action to set a return value that the calling macro can use to determine what to do next.
 
 
 ## Publishing your Access app

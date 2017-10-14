@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoPresetExtrusionDirection Enumeration (Office)
 
-Specifies the direction that the extrusion's sweep path takes away from the extruded shape (the front face of the extrusion). Used with the  **PresetExtrusionDirection** property of the **ThreeDFormat** object.
+Specifies the direction that the extrusion's sweep path takes away from the extruded shape (the front face of the extrusion). Used with the **PresetExtrusionDirection** property of the **ThreeDFormat** object.
 
 
 

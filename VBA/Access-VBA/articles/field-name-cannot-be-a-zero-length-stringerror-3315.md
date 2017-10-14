@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **AllowZeroLength** property for this field is set to **False**, prohibiting the entry of a zero-length string in the field. Enter a different value in the field.
+The **AllowZeroLength** property for this field is set to **False**, prohibiting the entry of a zero-length string in the field. Enter a different value in the field.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

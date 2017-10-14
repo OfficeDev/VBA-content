@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pie3DGroup Property
 
-Returns a  **[ChartGroup](chartgroup-object.md)** object that represents the pie chart group on a 3-D chart. Read-only.
+Returns a **[ChartGroup](chartgroup-object.md)** object that represents the pie chart group on a 3-D chart. Read-only.
 
 
 ## Example

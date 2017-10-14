@@ -15,7 +15,7 @@ An error occurred during the attempted file access. This error has the following
 
 
 
-- The record number in a  **Put** or **Get** statement is less than or equal to zero. Check the calculations used in generating the record number. Make sure that the[variables](vbe-glossary.md) containing the record number or used in calculating record numbers are spelled correctly. A misspelled variable name is implicitly declared and initialized to zero, unless you have properly placed **Option Explicit** in the[module](vbe-glossary.md).
+- The record number in a **Put** or **Get** statement is less than or equal to zero. Check the calculations used in generating the record number. Make sure that the[variables](vbe-glossary.md) containing the record number or used in calculating record numbers are spelled correctly. A misspelled variable name is implicitly declared and initialized to zero, unless you have properly placed **Option Explicit** in the[module](vbe-glossary.md).
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

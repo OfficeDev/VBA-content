@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 The Color Builder is a Microsoft Access tool used to select colors from the palette or to create custom colors that you can save and use in forms and reports.
 
-To run this builder, click the  **Build** button next to the appropriate property in the property sheet.
+To run this builder, click the **Build** button next to the appropriate property in the property sheet.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

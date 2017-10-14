@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItems Object (Excel)
 
-A collection of all the  **[PivotItem](pivotitem-object-excel.md)** objects in a PivotTable field.
+A collection of all the **[PivotItem](pivotitem-object-excel.md)** objects in a PivotTable field.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[PivotItem](pivotitem-object-excel.md)** objects in a
 
 ## Example
 
-Use the  **[PivotItems](pivotfield-pivotitems-method-excel.md)** method to return the **[PivotItems](pivotitems-object-excel.md)** collection. The following example creates an enumerated list of field names and the items contained in those fields for the first PivotTable report on Sheet4.
+Use the **[PivotItems](pivotfield-pivotitems-method-excel.md)** method to return the **[PivotItems](pivotitems-object-excel.md)** collection. The following example creates an enumerated list of field names and the items contained in those fields for the first PivotTable report on Sheet4.
 
 
 ```
@@ -43,7 +43,7 @@ With Worksheets("sheet3").PivotTables(1)
 End With
 ```
 
-Use  **PivotItems** ( _index_ ), where _index_ is the item index number or name, to return a single **PivotItem** object. The following example hides all entries in the first PivotTable report on Sheet3 that contain "1998" in the Year field.
+Use **PivotItems** ( _index_ ), where _index_ is the item index number or name, to return a single **PivotItem** object. The following example hides all entries in the first PivotTable report on Sheet3 that contain "1998" in the Year field.
 
 
 

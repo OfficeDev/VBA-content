@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkflowTemplate.Name Property (Office)
 
-Gets the name of the  **WorkflowTemplate** object. Read-only.
+Gets the name of the **WorkflowTemplate** object. Read-only.
 
 
 ## Syntax

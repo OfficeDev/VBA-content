@@ -34,7 +34,7 @@ Sends keystrokes to the active application.
 
 ## Remarks
 
-This method places keystrokes in a key buffer. In some cases, you must call this method before you call the method that will use the keystrokes. For example, to send a password to a dialog box, you must call the  **SendKeys** method before you display the dialog box.
+This method places keystrokes in a key buffer. In some cases, you must call this method before you call the method that will use the keystrokes. For example, to send a password to a dialog box, you must call the **SendKeys** method before you display the dialog box.
 
 The  _Keys_ argument can specify any single key or any key combined with ALT, CTRL, or SHIFT (or any combination of those keys). Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the ENTER key.
 
@@ -79,7 +79,7 @@ You can also specify keys combined with SHIFT and/or CTRL and/or ALT. To specify
 
 ## Example
 
-This example uses the  **SendKeys** method to quit Microsoft Excel.
+This example uses the **SendKeys** method to quit Microsoft Excel.
 
 
 ```vb

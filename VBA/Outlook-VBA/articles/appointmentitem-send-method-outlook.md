@@ -25,12 +25,12 @@ Sends the appointment.
 
 ## Remarks
 
-The  **Send** method sends an item using the default account specified for the session. In a session where multiple Microsoft Exchange accounts are defined in the profile, the first Exchange account added to the profile is the primary Exchange account, and is also the default account for the session. To specify a different account to send an item, set the **[SendUsingAccount](appointmentitem-sendusingaccount-property-outlook.md)** property to the desired **[Account](account-object-outlook.md)** object and then call the **Send** method.
+The **Send** method sends an item using the default account specified for the session. In a session where multiple Microsoft Exchange accounts are defined in the profile, the first Exchange account added to the profile is the primary Exchange account, and is also the default account for the session. To specify a different account to send an item, set the **[SendUsingAccount](appointmentitem-sendusingaccount-property-outlook.md)** property to the desired **[Account](account-object-outlook.md)** object and then call the **Send** method.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an appointment. The example sets the **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** property to **olMeeting** to indicate the appointment as a meeting request, and sets a required attendee, an optional attendee, and a meeting location as a resource. The example then displays and sends the appointment item.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](application-createitem-method-outlook.md)** to create an appointment. The example sets the **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** property to **olMeeting** to indicate the appointment as a meeting request, and sets a required attendee, an optional attendee, and a meeting location as a resource. The example then displays and sends the appointment item.
 
 
 ```vb

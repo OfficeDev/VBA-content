@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.PhoneticCharacters Property (Excel)
 
-Returns or sets the phonetic text in the specified  **[Characters](characters-object-excel.md)** object. Read/write **String** .
+Returns or sets the phonetic text in the specified **[Characters](characters-object-excel.md)** object. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the phonetic text in the specified  **[Characters](characters-ob
 
 ## Remarks
 
-Instead of using this property, you should use the  **[Add](phonetics-add-method-excel.md)** method of the **[Phonetics](phonetics-object-excel.md)** collection to add phonetic information to a cell, and use the **[Text](phonetic-text-property-excel.md)** property of the **[Phonetic](phonetic-object-excel.md)** object to return or set the phonetic text strings in a cell.
+Instead of using this property, you should use the **[Add](phonetics-add-method-excel.md)** method of the **[Phonetics](phonetics-object-excel.md)** collection to add phonetic information to a cell, and use the **[Text](phonetic-text-property-excel.md)** property of the **[Phonetic](phonetic-object-excel.md)** object to return or set the phonetic text strings in a cell.
 
 
 ## Example

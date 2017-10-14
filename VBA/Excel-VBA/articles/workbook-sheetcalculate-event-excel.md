@@ -29,7 +29,7 @@ Occurs after any worksheet is recalculated or after any changed data is plotted 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Sh_|Required| **Object**|Can be a  **[Chart](chart-object-excel.md)** or **[Worksheet](worksheet-object-excel.md)** object.|
+| _Sh_|Required| **Object**|Can be a **[Chart](chart-object-excel.md)** or **[Worksheet](worksheet-object-excel.md)** object.|
 
 ## Example
 

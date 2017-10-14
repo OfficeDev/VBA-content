@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetBorderLineStyle Property (Access)
 
-Returns or sets a  **Byte** indicating the line style to use for the border of the specified datasheet. Read/write.
+Returns or sets a **Byte** indicating the line style to use for the border of the specified datasheet. Read/write.
 
 
 ## Syntax

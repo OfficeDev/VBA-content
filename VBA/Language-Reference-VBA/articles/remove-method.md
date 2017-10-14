@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 
 
-Removes a member from a [collection](vbe-glossary.md); or, removes a control from a  **Frame**, **Page**, or form.
+Removes a member from a [collection](vbe-glossary.md); or, removes a control from a **Frame**, **Page**, or form.
  **Syntax**
  _object_. **Remove(**_collectionindex_**)**
-The  **Remove** method syntax has these parts:
+The **Remove** method syntax has these parts:
 
 
 |**Part**|**Description**|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object. Read/write.
+Returns or sets a **String** value that represents the display name for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

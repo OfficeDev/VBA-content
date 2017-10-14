@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicers.Parent Property (Excel)
 
-Returns the parent  **[SlicerCache](slicercache-object-excel.md)** object for the specified **[Slicers](slicers-object-excel.md)** collection. Read-only.
+Returns the parent **[SlicerCache](slicercache-object-excel.md)** object for the specified **[Slicers](slicers-object-excel.md)** collection. Read-only.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Makes all rows of the currently filtered list visible. If AutoFilter is in use, 
 
 ## Example
 
-This example makes all data on Sheet1 visible. The example should be run on a worksheet that contains a list you filtered using the  **AutoFilter** command.
+This example makes all data on Sheet1 visible. The example should be run on a worksheet that contains a list you filtered using the **AutoFilter** command.
 
 
 ```vb

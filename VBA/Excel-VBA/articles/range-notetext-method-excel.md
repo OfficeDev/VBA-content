@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.NoteText Method (Excel)
 
-Returns or sets the cell note associated with the cell in the upper-left corner of the range. Read/write  **String** . Cell notes have been replaced by range comments. For more information, see the **[Comment](comment-object-excel.md)** object.
+Returns or sets the cell note associated with the cell in the upper-left corner of the range. Read/write **String** . Cell notes have been replaced by range comments. For more information, see the **[Comment](comment-object-excel.md)** object.
 
 
 ## Syntax

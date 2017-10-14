@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Width Property (Excel)
 
-Returns a  **Variant** value that represents the width, in units, of the range.
+Returns a **Variant** value that represents the width, in units, of the range.
 
 
 ## Syntax

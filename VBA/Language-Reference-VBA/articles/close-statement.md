@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Close Statement
 
-Concludes input/output (I/O) to a file opened using the  **Open** statement.
+Concludes input/output (I/O) to a file opened using the **Open** statement.
 
  **Syntax**
 
@@ -21,12 +21,12 @@ The optional  _filenumberlist_[argument](vbe-glossary.md) can be one or more[fil
 [[ **#** ] _filenumber_ ] [ **,** [ **#** ] _filenumber_ ] **. . .**
  **Remarks**
 If you omit  _filenumberlist_, all active files opened by the **Open** statement are closed.
-When you close files that were opened for  **Output** or **Append**, the final buffer of output is written to the operating system buffer for that file. All buffer space associated with the closed file is released.
-When the  **Close** statement is executed, the association of a file with its file number ends.
+When you close files that were opened for **Output** or **Append**, the final buffer of output is written to the operating system buffer for that file. All buffer space associated with the closed file is released.
+When the **Close** statement is executed, the association of a file with its file number ends.
 
 ## Example
 
-This example uses the  **Close** statement to close all three files opened for **Output**.
+This example uses the **Close** statement to close all three files opened for **Output**.
 
 
 ```vb

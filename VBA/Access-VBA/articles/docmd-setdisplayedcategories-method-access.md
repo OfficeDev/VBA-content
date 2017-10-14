@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SetDisplayedCategories Method (Access)
 
-Specifies which categories are displayed under  **Navigate to Category** in the title bar of the Navigation Pane. .
+Specifies which categories are displayed under **Navigate to Category** in the title bar of the Navigation Pane. .
 
 
 ## Syntax
@@ -34,11 +34,11 @@ Specifies which categories are displayed under  **Navigate to Category** in the 
 
 ## Remarks
 
-For example, if you want to prevent users from switching the Navigation Pane so that it displays objects sorted by  **Created Date**, you can use this method to hide that option in the title bar's drop-down list.
+For example, if you want to prevent users from switching the Navigation Pane so that it displays objects sorted by **Created Date**, you can use this method to hide that option in the title bar's drop-down list.
 
-The caption in the title bar of the Navigation Pane indicates which filter, if any, is currently active. Click anywhere in the bar to display the drop-down list. The items that this method controls are listed under  **Navigate to Category**.
+The caption in the title bar of the Navigation Pane indicates which filter, if any, is currently active. Click anywhere in the bar to display the drop-down list. The items that this method controls are listed under **Navigate to Category**.
 
-This method only enables or disables the display of the specified category or categories; it does not perform any switching of the Navigation Pane display. For example, if you are displaying objects sorted by  **Creation Date** and you use the **SetDisplayedCategories** method to disable the **Creation Date** option, Access does not switch the Navigation Pane to another category.
+This method only enables or disables the display of the specified category or categories; it does not perform any switching of the Navigation Pane display. For example, if you are displaying objects sorted by **Creation Date** and you use the **SetDisplayedCategories** method to disable the **Creation Date** option, Access does not switch the Navigation Pane to another category.
 
 
 ## See also

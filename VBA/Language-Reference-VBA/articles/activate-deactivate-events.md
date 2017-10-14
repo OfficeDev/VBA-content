@@ -19,14 +19,14 @@ The Activate event occurs when an object becomes the active window. The Deactiva
  **Private Sub**_object_**_Deactivate()**
 The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-An object can become active by using the  **Show** method in code.
-The Activate event can occur only when an object is visible. A  **UserForm** loaded with **Load** isn't visible unless you use the **Show** method.
+An object can become active by using the **Show** method in code.
+The Activate event can occur only when an object is visible. A **UserForm** loaded with **Load** isn't visible unless you use the **Show** method.
 The Activate and Deactivate events occur only when you move the [focus](vbe-glossary.md) within an application. Moving the focus to or from an object in another application doesn't trigger either event.
 The Deactivate event doesn't occur when unloading an object.
 
 ## Example
 
-The following code uses two  **UserForms**: UserForm1 and UserForm2. Copy these procedures into the UserForm1 module, then add UserForm2. UserForm1's caption is created in its Activate event procedure. When the user clicks the client area of UserForm1, UserForm2 is loaded, and shown, triggering UserForm1's Deactivate event, changing their captions.
+The following code uses two **UserForms**: UserForm1 and UserForm2. Copy these procedures into the UserForm1 module, then add UserForm2. UserForm1's caption is created in its Activate event procedure. When the user clicks the client area of UserForm1, UserForm2 is loaded, and shown, triggering UserForm1's Deactivate event, changing their captions.
 
 
 ```vb

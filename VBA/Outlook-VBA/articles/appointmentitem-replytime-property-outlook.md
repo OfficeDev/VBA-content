@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.ReplyTime Property (Outlook)
 
-Returns or sets a  **Date** indicating the reply time for the appointment. Read/write.
+Returns or sets a **Date** indicating the reply time for the appointment. Read/write.
 
 
 ## Syntax

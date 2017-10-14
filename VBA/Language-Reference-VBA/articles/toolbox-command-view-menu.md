@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Toolbox Command (View Menu)
 
-Displays or hides the  **Toolbox**, which contains the controls currently available to your application.
+Displays or hides the **Toolbox**, which contains the controls currently available to your application.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_tbx_ZA01201755.gif).

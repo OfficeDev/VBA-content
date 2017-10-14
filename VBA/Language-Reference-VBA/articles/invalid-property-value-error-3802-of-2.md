@@ -15,7 +15,7 @@ An inappropriate value is assigned to a [property](vbe-glossary.md). This error 
 
 
 
-- You tried to set one of the properties of an object or control to a value outside its permissible range. Change the property value to a valid setting. For example, the  **MousePointer** property must be set to an integer from 0 - 15 or 99.
+- You tried to set one of the properties of an object or control to a value outside its permissible range. Change the property value to a valid setting. For example, the **MousePointer** property must be set to an integer from 0 - 15 or 99.
     
 
 

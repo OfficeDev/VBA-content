@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.FormatConditions Property (Access)
 
-You can use the  **FormatConditions** property to return a read-only reference to the **[FormatConditions](formatconditions-object-access.md)** collection and its related properties.
+You can use the **FormatConditions** property to return a read-only reference to the **[FormatConditions](formatconditions-object-access.md)** collection and its related properties.
 
 
 ## Syntax

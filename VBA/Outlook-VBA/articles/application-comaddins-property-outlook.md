@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.COMAddIns Property (Outlook)
 
-Returns a  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently loaded in Microsoft Outlook.
+Returns a **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently loaded in Microsoft Outlook.
 
 
 ## Syntax

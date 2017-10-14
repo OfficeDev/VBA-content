@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PasswordEncryptionKeyLength Property (Excel)
 
-Returns a  **Long** indicating the key length of the algorithm Microsoft Excel uses when encrypting passwords for the specified workbook. Read-only.
+Returns a **Long** indicating the key length of the algorithm Microsoft Excel uses when encrypting passwords for the specified workbook. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** indicating the key length of the algorithm Microsoft Excel u
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](workbook-setpasswordencryptionoptions-method-excel.md)** method to specify whether Excel encrypts file properties for the specified password-protected workbook.
+Use the **[SetPasswordEncryptionOptions](workbook-setpasswordencryptionoptions-method-excel.md)** method to specify whether Excel encrypts file properties for the specified password-protected workbook.
 
 
 ## Example

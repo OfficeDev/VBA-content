@@ -21,20 +21,20 @@ Represents a user who has rights in a shared document workspace site.
 
 ## Remarks
 
-Use the  **SharedWorkspaceMember** object to manage users who have rights to participate in a shared workspace and to collaborate on the shared documents saved in the workspace site.
+Use the **SharedWorkspaceMember** object to manage users who have rights to participate in a shared workspace and to collaborate on the shared documents saved in the workspace site.
 
  The **Role** specified when the user is added as a member of the workspace (for example, "Reader" or "Contributor") determines that user's rights in the workspace and cannot be accessed or modified later through properties of the **SharedWorkspaceMember** object.
 
-Use the  **Item** ( _index_ ) property of the **SharedWorkspaceMembers** collection to return a specific **SharedWorkspaceMember** object.
+Use the **Item** ( _index_ ) property of the **SharedWorkspaceMembers** collection to return a specific **SharedWorkspaceMember** object.
 
-Use the  **SharedWorkspaceMember** object's three distinct name properties to retrieve identifying information about the member.
+Use the **SharedWorkspaceMember** object's three distinct name properties to retrieve identifying information about the member.
 
 
-- the  **Name** property returns the members display name;
+- the **Name** property returns the members display name;
     
-- the  **Email** property returns the member's e-mail address; and,
+- the **Email** property returns the member's e-mail address; and,
     
-- the  **DomainName** property returns the member's domain and user name in the format `domain\user`.
+- the **DomainName** property returns the member's domain and user name in the format `domain\user`.
     
 
 

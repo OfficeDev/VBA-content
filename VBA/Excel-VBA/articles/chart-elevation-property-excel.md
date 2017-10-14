@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Elevation Property (Excel)
 
-Returns or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long** .
+Returns or sets the elevation of the 3-D chart view, in degrees. Read/write **Long** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The chart elevation is the height at which you view the chart, in degrees. The d
 
 ## Example
 
-This example sets the chart elevation of Chart1 to 34 degrees. The example should be run on a 3-D chart (the  **Elevation** property fails on 2-D charts).
+This example sets the chart elevation of Chart1 to 34 degrees. The example should be run on a 3-D chart (the **Elevation** property fails on 2-D charts).
 
 
 ```vb

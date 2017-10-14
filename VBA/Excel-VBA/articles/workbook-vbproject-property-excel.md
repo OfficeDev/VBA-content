@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.VBProject Property (Excel)
 
-Returns a  **VBProject** object that represents the Visual Basic project in the specified workbook. Read-only.
+Returns a **VBProject** object that represents the Visual Basic project in the specified workbook. Read-only.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ The number of subexpressions allowed in a floating-point [expression](vbe-glossa
     
     Break the expression into as many separate expressions as necessary to prevent the error from occurring.
     
-     **Note**  In earlier versions of Visual Basic, Error 16 was "String expression too complex." That error condition can no longer occur. However, if you have early code that traps and handles that error, you should remove it to prevent confusion with this new error.
+    **Note**  In earlier versions of Visual Basic, Error 16 was "String expression too complex." That error condition can no longer occur. However, if you have early code that traps and handles that error, you should remove it to prevent confusion with this new error.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

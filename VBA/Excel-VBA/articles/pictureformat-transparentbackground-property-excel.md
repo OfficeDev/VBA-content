@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.TransparentBackground Property (Excel)
 
-Use the  **[TransparencyColor](pictureformat-transparencycolor-property-excel.md)** property to set the transparent color. Applies to bitmaps only. Read/write MsoTriState.
+Use the **[TransparencyColor](pictureformat-transparencycolor-property-excel.md)** property to set the transparent color. Applies to bitmaps only. Read/write MsoTriState.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Use the  **[TransparencyColor](pictureformat-transparencycolor-property-excel.md
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
 | **msoTrue** The parts of the picture that are the color defined as the transparent color appear transparent.|
-If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **Visible** property of the picture's **FillFormat** object to **False** . If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True** , the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
+If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the **Visible** property of the picture's **FillFormat** object to **False** . If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True** , the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
 
 
 ## Example

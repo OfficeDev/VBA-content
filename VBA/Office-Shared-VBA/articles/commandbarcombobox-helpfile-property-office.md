@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.HelpFile Property (Office)
 
-Gets or sets the file name for the Help topic attached to the  **CommandBarComboBox** control. Read/write.
+Gets or sets the file name for the Help topic attached to the **CommandBarComboBox** control. Read/write.
 
 
 ## 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceLink.Delete Method (Office)
 
-Deletes the current  **SharedWorkspaceLink** object.
+Deletes the current **SharedWorkspaceLink** object.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.GoToPage Method (Access)
 
-The  **GoToPage** method moves the focus to the first control on a specified page in the active form.
+The **GoToPage** method moves the focus to the first control on a specified page in the active form.
 
 
 ## Syntax
@@ -35,16 +35,16 @@ The  **GoToPage** method moves the focus to the first control on a specified pag
 
 ## Remarks
 
-When you use this method to move to a specified page of a form, the focus is set to the first control on the page, as defined by the form's tab order. To move to a particular control on the form, use the  **SetFocus** method.
+When you use this method to move to a specified page of a form, the focus is set to the first control on the page, as defined by the form's tab order. To move to a particular control on the form, use the **SetFocus** method.
 
-You can use the  **GoToPage** method if you've created page breaks on a form to group related information. For example, you might have an Employees form with personal information on the first page, office information on the second page, and sales information on the third page. You can use the **GoToPage** method to move to the desired page.
+You can use the **GoToPage** method if you've created page breaks on a form to group related information. For example, you might have an Employees form with personal information on the first page, office information on the second page, and sales information on the third page. You can use the **GoToPage** method to move to the desired page.
 
 You can use the  _right_ and _down_ arguments for forms with pages larger than the Microsoft Access window. Use the _pagenumber_ argument to move to the desired page, and then use the _right_ and _down_ arguments to display the part of the page you want to see. Microsoft Access displays the part of the page that's offset from the upper-left corner of the window by the distance specified in the _right_ and _down_ arguments.
 
 
 ## Example
 
-The following example uses the  **GoToPage** method to move the focus to the second page of the Customer form at the position specified by the _right_ and _down_ arguments:
+The following example uses the **GoToPage** method to move the focus to the second page of the Customer form at the position specified by the _right_ and _down_ arguments:
 
 
 ```vb

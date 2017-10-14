@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.FitToPage Property (Access)
 
-Gets or sets whether the width of the specified report is sized to automatically fit the page. Read/write  **Boolean**.
+Gets or sets whether the width of the specified report is sized to automatically fit the page. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets whether the width of the specified report is sized to automatically
 
 ## Remarks
 
-The default value is  **True** for new reports, and **False** for reports created in earlier versions of Access.
+The default value is **True** for new reports, and **False** for reports created in earlier versions of Access.
 
 
 ## See also

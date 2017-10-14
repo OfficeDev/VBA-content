@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutSpaceSlabStyle Enumeration (Office)
 
-Specifies constants that define the styles of the slabs on the  **File** tab.
+Specifies constants that define the styles of the slabs on the **File** tab.
 
 
 

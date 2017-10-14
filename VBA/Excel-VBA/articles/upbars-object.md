@@ -18,7 +18,7 @@ Represents the up bars in a chart group. Up bars connect points in series one wi
 
 ## Using the UpBars Object
 
-Use the  **UpBars** property to return the **UpBars** object. The following example turns on up and down bars for chart group one in the chart. The example then sets the up-bar color to blue and sets the down-bar color to red.
+Use the **UpBars** property to return the **UpBars** object. The following example turns on up and down bars for chart group one in the chart. The example then sets the up-bar color to blue and sets the down-bar color to red.
 
 
 ```vb
@@ -32,6 +32,6 @@ End With
 
 ## Remarks
 
-If the  **[HasUpDownBars](hasupdownbars-property.md)** property is  **False**, most properties of the  **UpBars** object are disabled.
+If the **[HasUpDownBars](hasupdownbars-property.md)** property is **False**, most properties of the **UpBars** object are disabled.
 
 

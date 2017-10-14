@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-This error occurs after the unsuccessful application of one of the Find methods or the  **Seek** method, when the underlying **Recordset** contains no records or the record has been deleted. Move to or select another record, and try the operation again. If the **Recordset** is empty, you cannot position to a current record. Check the **BOF** and **EOF** properties.
+This error occurs after the unsuccessful application of one of the Find methods or the **Seek** method, when the underlying **Recordset** contains no records or the record has been deleted. Move to or select another record, and try the operation again. If the **Recordset** is empty, you cannot position to a current record. Check the **BOF** and **EOF** properties.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

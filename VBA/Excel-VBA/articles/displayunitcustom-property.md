@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayUnitCustom Property
 
-If the value returned or set by the  **[DisplayUnit](displayunit-property.md)** property is  **xlCustom**, the  **DisplayUnitCustom** property returns or sets the value of the units displayed for the value axis in the specified chart. The value must be a number from 0 through 10E307. Read/write **Double**.
+If the value returned or set by the **[DisplayUnit](displayunit-property.md)** property is **xlCustom**, the **DisplayUnitCustom** property returns or sets the value of the units displayed for the value axis in the specified chart. The value must be a number from 0 through 10E307. Read/write **Double**.
 
 
 ## Remarks

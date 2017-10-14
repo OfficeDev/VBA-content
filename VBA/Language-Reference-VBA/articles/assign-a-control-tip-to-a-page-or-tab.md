@@ -14,13 +14,13 @@ ms.date: 06/08/2017
 
 
 
-1. Select an individual  **Page** or **Tab**. Be sure to select an individual **Page** or **Tab**, not the corresponding **MultiPage** or **TabStrip**. When a **Page** or **Tab** is selected, a rectangle appears around its caption.
+1. Select an individual **Page** or **Tab**. Be sure to select an individual **Page** or **Tab**, not the corresponding **MultiPage** or **TabStrip**. When a **Page** or **Tab** is selected, a rectangle appears around its caption.
     
-2. Right-click the selected  **Page** or **Tab**.
+2. Right-click the selected **Page** or **Tab**.
     
-3. From the shortcut menu, choose  **Rename**.
+3. From the shortcut menu, choose **Rename**.
     
-4. In the  **ControlTipText** field, type the string you want to use as the[control tip](glossary-vba.md).
+4. In the **ControlTipText** field, type the string you want to use as the[control tip](glossary-vba.md).
     
 5. Click OK.
     
@@ -28,6 +28,6 @@ ms.date: 06/08/2017
 
 
 
- **Tip**  To assign a control tip for a  **MultiPage** or **TabStrip**, use the **ControlTipText** property.
+ **Tip**  To assign a control tip for a **MultiPage** or **TabStrip**, use the **ControlTipText** property.
 
 

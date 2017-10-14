@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.AutoShowRange Property (Excel)
 
-Returns  **xlTop** if the top items are shown automatically in the specified PivotTable field; returns **xlBottom** if the bottom items are shown. Read-only **Long** .
+Returns **xlTop** if the top items are shown automatically in the specified PivotTable field; returns **xlBottom** if the bottom items are shown. Read-only **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **xlTop** if the top items are shown automatically in the specified Piv
 
 ## Example
 
-This example displays a message box showing the  **AutoShow** parameters for the Salesman field.
+This example displays a message box showing the **AutoShow** parameters for the Salesman field.
 
 
 ```vb

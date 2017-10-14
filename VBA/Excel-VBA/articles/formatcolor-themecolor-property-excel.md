@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatColor.ThemeColor Property (Excel)
 
-Returns or sets one of the constants of the  **[XlThemeColor](xlthemecolor-enumeration-excel.md)** enumeration, specifying the theme color used in a threshold of a data bar or color scale conditional format.
+Returns or sets one of the constants of the **[XlThemeColor](xlthemecolor-enumeration-excel.md)** enumeration, specifying the theme color used in a threshold of a data bar or color scale conditional format.
 
 
 ## Syntax

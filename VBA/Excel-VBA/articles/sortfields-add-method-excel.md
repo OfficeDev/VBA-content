@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortFields.Add Method (Excel)
 
-Creates a new sort field and returns a  **SortFields** object.
+Creates a new sort field and returns a **SortFields** object.
 
 
 ## Syntax

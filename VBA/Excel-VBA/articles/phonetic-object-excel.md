@@ -23,14 +23,14 @@ Contains information about a specific phonetic text string in a cell.
 
 ## Example
 
-Use  **[Phonetics](range-phonetics-property-excel.md)** ( _index_ ), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object. The following example sets the first phonetic text string in the active cell to "フリガナ".
+Use **[Phonetics](range-phonetics-property-excel.md)** ( _index_ ), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object. The following example sets the first phonetic text string in the active cell to "フリガナ".
 
 
 ```vb
 ActiveCell.Phonetics(1).Text = "フリガナ"
 ```
 
-The  **[Phonetic](range-phonetic-property-excel.md)** property provides compatibility with earlier versions of Microsoft Excel. You should use **Phonetics** ( _index_ ), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object. To demonstrate compatibility with earlier versions of Microsoft Excel, the following example adds Furigana characters to the range A1:C4. If you add Furigana characters to a range, a new **Phonetic** object is automatically created.
+The **[Phonetic](range-phonetic-property-excel.md)** property provides compatibility with earlier versions of Microsoft Excel. You should use **Phonetics** ( _index_ ), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object. To demonstrate compatibility with earlier versions of Microsoft Excel, the following example adds Furigana characters to the range A1:C4. If you add Furigana characters to a range, a new **Phonetic** object is automatically created.
 
 
 

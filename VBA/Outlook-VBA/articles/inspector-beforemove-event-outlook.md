@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.BeforeMove Event (Outlook)
 
-Occurs when the  **[Inspector](inspector-object-outlook.md)** is moved by the user.
+Occurs when the **[Inspector](inspector-object-outlook.md)** is moved by the user.
 
 
 ## Syntax

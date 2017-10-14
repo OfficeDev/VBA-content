@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[NavigationModule](navigationmodule-object-outlook.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[NavigationModule](navigationmodule-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

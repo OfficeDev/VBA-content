@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.UseDefaultPrinter Property (Access)
 
-Returns or sets a  **Boolean** indicating whether the specified form uses the default printer for the system; **True** if the form or report uses the default printer. Read/write.
+Returns or sets a **Boolean** indicating whether the specified form uses the default printer for the system; **True** if the form or report uses the default printer. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **Boolean** indicating whether the specified form uses the de
 
 This property is read/write in Design view and read-only in all other views.
 
-When this property is  **True**, the form or report inherits all of its printer settings from the settings of the default printer. Changing the printer associated with a form or report by assigning its **Printer** property to a **Printer** object sets the **UseDefaultPrinter** property to **False**.
+When this property is **True**, the form or report inherits all of its printer settings from the settings of the default printer. Changing the printer associated with a form or report by assigning its **Printer** property to a **Printer** object sets the **UseDefaultPrinter** property to **False**.
 
 
 ## Example

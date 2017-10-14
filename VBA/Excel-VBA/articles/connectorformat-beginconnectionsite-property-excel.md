@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.BeginConnectionSite Property (Excel)
 
-Returns an integer that specifies the connection site that the beginning of a connector is connected to. Read-only  **Long** .
+Returns an integer that specifies the connection site that the beginning of a connector is connected to. Read-only **Long** .
 
 
 ## Syntax

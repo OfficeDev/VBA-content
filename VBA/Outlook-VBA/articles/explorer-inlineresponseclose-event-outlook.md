@@ -24,9 +24,9 @@ Occurs when the user performs an action that causes the active inline response t
 This event fires when a new inline response or draft inline response is closed for the following reasons:
 
 
-- The user selects the  **Pop Out** command.
+- The user selects the **Pop Out** command.
     
-    The user selects the  **Discard** command.
+    The user selects the **Discard** command.
     
     The user sends the inline response.
     

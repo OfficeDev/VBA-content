@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.LargeButtons Property (Office)
 
-Is  **True** if the toolbar buttons displayed are larger than normal size. Read/write.
+Is **True** if the toolbar buttons displayed are larger than normal size. Read/write.
 
 
 ## 

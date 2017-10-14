@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.PasteSpecial Method (Office)
 
-Replaces the text range with the contents of the Clipboard in the format specified. If the paste succeeds, this method returns a  **TextRange2** object including the text range that was pasted.
+Replaces the text range with the contents of the Clipboard in the format specified. If the paste succeeds, this method returns a **TextRange2** object including the text range that was pasted.
 
 
 ## Syntax

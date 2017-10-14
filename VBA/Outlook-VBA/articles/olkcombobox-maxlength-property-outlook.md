@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.MaxLength Property (Outlook)
 
-Returns or sets a  **Long** that specifies the maximum number of characters for the **[Value](olkcombobox-value-property-outlook.md)** of this control. Read/write.
+Returns or sets a **Long** that specifies the maximum number of characters for the **[Value](olkcombobox-value-property-outlook.md)** of this control. Read/write.
 
 
 ## Syntax

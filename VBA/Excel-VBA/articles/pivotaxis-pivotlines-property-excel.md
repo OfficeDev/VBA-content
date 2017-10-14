@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotAxis.PivotLines Property (Excel)
 
-Returns the PivotLines attached to the specified  **PivotAxis** object. Read-only.
+Returns the PivotLines attached to the specified **PivotAxis** object. Read-only.
 
 
 ## Syntax

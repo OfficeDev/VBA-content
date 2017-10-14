@@ -33,9 +33,9 @@ Boolean
 
 ## Remarks
 
-For command bars, setting this property to  **True** causes the name of the command bar to appear in the list of available command bars.
+For command bars, setting this property to **True** causes the name of the command bar to appear in the list of available command bars.
 
-For built-in controls, if you set the  **Enabled** property to **True**, the application determines its state, but setting it to **False** will force it to be disabled.
+For built-in controls, if you set the **Enabled** property to **True**, the application determines its state, but setting it to **False** will force it to be disabled.
 
 
 ## See also

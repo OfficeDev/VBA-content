@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCacheLevel.Ordinal Property (Excel)
 
-Returns the one-based ordinal value of the hierarchy level represented by the specified  **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object. Read-only
+Returns the one-based ordinal value of the hierarchy level represented by the specified **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object. Read-only
 
 
 ## Syntax

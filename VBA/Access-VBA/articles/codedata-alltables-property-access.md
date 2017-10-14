@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeData.AllTables Property (Access)
 
-You can use the  **AllTables** property to reference the **[AllTables](alltables-object-access.md)** collection and its related properties. Read-only **AllTables** object.
+You can use the **AllTables** property to reference the **[AllTables](alltables-object-access.md)** collection and its related properties. Read-only **AllTables** object.
 
 
 ## Syntax

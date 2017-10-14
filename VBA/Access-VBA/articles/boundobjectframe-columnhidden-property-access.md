@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BoundObjectFrame.ColumnHidden Property (Access)
 
-You can use the  **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
+You can use the **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,19 +28,19 @@ You can use the  **ColumnHidden** property to show or hide a specified column in
 For example, you might want to hide a CustomerAddress field that's too wide so you can view the CustomerName and PhoneNumber fields.
 
 
- **Note**  The  **ColumnHidden** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
+ **Note**  The **ColumnHidden** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-Hiding a column with the  **ColumnHidden** property in Datasheet view doesn't hide fields from the same column in Form view. Similarly, setting a control's **Visible** property to **False** in Form view doesn't hide the corresponding column in Datasheet view.
+Hiding a column with the **ColumnHidden** property in Datasheet view doesn't hide fields from the same column in Form view. Similarly, setting a control's **Visible** property to **False** in Form view doesn't hide the corresponding column in Datasheet view.
 
 
- **Note**  To set or change this property for a table or query by using Visual Basic, you must use a column's  **Properties** collection. For details on using the **Properties** collection, see **Properties**.
+ **Note**  To set or change this property for a table or query by using Visual Basic, you must use a column's **Properties** collection. For details on using the **Properties** collection, see **Properties**.
 
 You can display a field in a query even though the column for the field is hidden in table Datasheet view. You can use values from a hidden column as the criteria for a filter even though the column remains hidden after the filter is applied.
 
-Setting a field's  **ColumnWidth** property to 0, or resizing the field to a zero width in Datasheet view, causes Microsoft Access to set the corresponding **ColumnHidden** property to **True**. Unhiding a column restores the **ColumnWidth** **ColumnWidth** property to the value it had before the field was hidden.
+Setting a field's **ColumnWidth** property to 0, or resizing the field to a zero width in Datasheet view, causes Microsoft Access to set the corresponding **ColumnHidden** property to **True**. Unhiding a column restores the **ColumnWidth** **ColumnWidth** property to the value it had before the field was hidden.
 
 
- **Note**  The  **ColumnHidden** property is not available in Design view.
+ **Note**  The **ColumnHidden** property is not available in Design view.
 
 
 ## Example

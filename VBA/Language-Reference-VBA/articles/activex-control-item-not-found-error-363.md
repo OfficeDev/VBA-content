@@ -15,7 +15,7 @@ The form being loaded contains an [ActiveX control](vbe-glossary.md) that isn't 
 
 
 
-- You may have manually edited the project's .vbp file to add a form containing an ActiveX control that isn't already part of the project. After the project loads, use the  **Add File** command on the **File** menu to add the ActiveX control to the project.
+- You may have manually edited the project's .vbp file to add a form containing an ActiveX control that isn't already part of the project. After the project loads, use the **Add File** command on the **File** menu to add the ActiveX control to the project.
     
 - You may have manually edited the project's .vbp file to add a form containing an earlier version of an ActiveX control than the ActiveX control that is already part of the project. After the project loads, delete the earlier version from the form and put the later version of the control on the form.
     

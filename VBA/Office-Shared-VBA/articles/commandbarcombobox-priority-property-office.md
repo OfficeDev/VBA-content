@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Priority Property (Office)
 
-Gets or sets the priority of a  **CommandBarComboBox** control. A control's priority determines whether the control can be dropped from a docked command bar if the command bar controls can't fit in a single row. Read/write.
+Gets or sets the priority of a **CommandBarComboBox** control. A control's priority determines whether the control can be dropped from a docked command bar if the command bar controls can't fit in a single row. Read/write.
 
 
 ## 
@@ -30,7 +30,7 @@ Gets or sets the priority of a  **CommandBarComboBox** control. A control's prio
 
 Valid priority numbers are 0 (zero) through 7 and the default value is 3. A priority of 1 means that the control cannot be dropped from a toolbar. Other priority values are ignored.
 
-The  **Priority** property is not used by command bar controls that are menu items.
+The **Priority** property is not used by command bar controls that are menu items.
 
 
 ## See also

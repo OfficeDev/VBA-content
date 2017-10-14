@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # File Command (Insert Menu)
 
-Displays the  **Insert** **File** dialog box so that you can insert text from an existing module at the current cursor position.
+Displays the **Insert** **File** dialog box so that you can insert text from an existing module at the current cursor position.
 
 Not available when no editor is open.
 

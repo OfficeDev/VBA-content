@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ChartGroup.BinsOverflowValue Property (Excel)
 
-If an [BinsOverflowEnabled](chartgroup-binsoverflowenabled-property-excel.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
+If an [BinsOverflowEnabled](chartgroup-binsoverflowenabled-property-excel.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.
 
 
 ## Syntax

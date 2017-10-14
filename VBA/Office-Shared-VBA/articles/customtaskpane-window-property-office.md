@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomTaskPane.Window Property (Office)
 
-Gets the parent window object of the  **CustomTaskPane** object. Read-only.
+Gets the parent window object of the **CustomTaskPane** object. Read-only.
 
 
 ## Syntax

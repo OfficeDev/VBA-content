@@ -18,12 +18,12 @@ Returns a [Variant](vbe-glossary.md) of subtype **Error** containing an[error nu
  **CVErr(**_errornumber_**)**
 The required  _errornumber_[argument](vbe-glossary.md) is any valid error number.
  **Remarks**
-Use the  **CVErr** function to create user-defined errors in user-created[procedures](vbe-glossary.md). For example, if you create a function that accepts several arguments and normally returns a string, you can have your function evaluate the input arguments to ensure they are within acceptable range. If they are not, it is likely your function will not return what you expect. In this event,  **CVErr** allows you to return an error number that tells you what action to take.
-Note that implicit conversion of an  **Error** is not allowed. For example, you can't directly assign the return value of **CVErr** to a[variable](vbe-glossary.md) that is not a **Variant**. However, you can perform an explicit conversion (using **CInt**, **CDbl**, and so on) of the value returned by **CVErr** and assign that to a variable of the appropriate[data type](vbe-glossary.md).
+Use the **CVErr** function to create user-defined errors in user-created[procedures](vbe-glossary.md). For example, if you create a function that accepts several arguments and normally returns a string, you can have your function evaluate the input arguments to ensure they are within acceptable range. If they are not, it is likely your function will not return what you expect. In this event, **CVErr** allows you to return an error number that tells you what action to take.
+Note that implicit conversion of an **Error** is not allowed. For example, you can't directly assign the return value of **CVErr** to a[variable](vbe-glossary.md) that is not a **Variant**. However, you can perform an explicit conversion (using **CInt**, **CDbl**, and so on) of the value returned by **CVErr** and assign that to a variable of the appropriate[data type](vbe-glossary.md).
 
 ## Example
 
-This example uses the  **CVErr** function to return a **Variant** whose **VarType** is **vbError** (10). The user-defined function `CalculateDouble` returns an error if the argument passed to it isn't a number. You can use **CVErr** to return user-defined errors from user-defined procedures or to defer handling of a run-time error. Use the **IsError** function to test if the value represents an error.
+This example uses the **CVErr** function to return a **Variant** whose **VarType** is **vbError** (10). The user-defined function `CalculateDouble` returns an error if the argument passed to it isn't a number. You can use **CVErr** to return user-defined errors from user-defined procedures or to defer handling of a run-time error. Use the **IsError** function to test if the value represents an error.
 
 
 ```vb

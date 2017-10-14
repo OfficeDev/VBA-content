@@ -18,5 +18,5 @@ Makes the specified [code pane](vbe-glossary.md) the visible code pane in its wi
  _object_**.Show**
 The  _object_ placeholder is an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-The  **Show** method makes the specified code pane the pane with the[focus](vbe-glossary.md) in its window.
+The **Show** method makes the specified code pane the pane with the[focus](vbe-glossary.md) in its window.
 

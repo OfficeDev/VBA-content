@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelMeasure Object (Excel)
 
-Represents a single  **ModelMeasure** object in the[ModelMeasures](modelmeasures-object-excel.md) collection.
+Represents a single **ModelMeasure** object in the[ModelMeasures](modelmeasures-object-excel.md) collection.
 
 
 ## See also

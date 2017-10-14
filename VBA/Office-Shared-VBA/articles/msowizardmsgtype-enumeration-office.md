@@ -18,7 +18,7 @@ Specifies context under which a wizard's callback procedure is called. Used as a
 |:-----|:-----|:-----|
 |**msoWizardMsgLocalStateOff**|2|User clicked the right button in the decision or branch balloon.|
 |**msoWizardMsgLocalStateOn**|1|Not supported.|
-|**msoWizardMsgResuming**|5|Passed to the  **ActivateWizard** method if **msoWizardActResume** is specified for the Act argument.|
+|**msoWizardMsgResuming**|5|Passed to the **ActivateWizard** method if **msoWizardActResume** is specified for the Act argument.|
 |**msoWizardMsgShowHelp**|3|User clicked the left button in the decision or branch balloon.|
-|**msoWizardMsgSuspending**|4|Passed to the  **ActivateWizard** method if **msoWizardActSuspend** is specified for the Act argument.|
+|**msoWizardMsgSuspending**|4|Passed to the **ActivateWizard** method if **msoWizardActSuspend** is specified for the Act argument.|
 

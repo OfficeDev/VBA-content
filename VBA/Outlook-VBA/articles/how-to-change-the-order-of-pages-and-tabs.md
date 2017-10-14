@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Change the Order of Pages and Tabs
 
-The following example uses the  **Index** property to change the order of the pages and tabs in a **[MultiPage](multipage-object-outlook-forms-script.md)** and **[TabStrip](tabstrip-object-outlook-forms-script.md)**. The user chooses CommandButton1 to move the third page and tab to the front of the  **MultiPage** and **TabStrip**. The user chooses CommandButton2 to move the selected page and tab to the back of the  **MultiPage** and **TabStrip**.
+The following example uses the **Index** property to change the order of the pages and tabs in a **[MultiPage](multipage-object-outlook-forms-script.md)** and **[TabStrip](tabstrip-object-outlook-forms-script.md)**. The user chooses CommandButton1 to move the third page and tab to the front of the **MultiPage** and **TabStrip**. The user chooses CommandButton2 to move the selected page and tab to the back of the **MultiPage** and **TabStrip**.
 
 To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
-- Two  **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 and CommandButton2.
+- Two **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 and CommandButton2.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
 
 

@@ -30,7 +30,7 @@ Returns or sets how Excel will validate files before opening them. Read/write
 
 ## Remarks
 
-Files that do not pass validation will be opened in a  **Protected View** window. If you set the **FileValidation** property, that setting will remain in effect for the entire session the application is open.
+Files that do not pass validation will be opened in a **Protected View** window. If you set the **FileValidation** property, that setting will remain in effect for the entire session the application is open.
 
 
 ## See also

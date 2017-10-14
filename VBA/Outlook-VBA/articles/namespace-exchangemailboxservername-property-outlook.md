@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.ExchangeMailboxServerName Property (Outlook)
 
-Returns a  **String** value that represents the name of the Exchange server that hosts the primary Exchange account mailbox. Read-only.
+Returns a **String** value that represents the name of the Exchange server that hosts the primary Exchange account mailbox. Read-only.
 
 
 ## Syntax

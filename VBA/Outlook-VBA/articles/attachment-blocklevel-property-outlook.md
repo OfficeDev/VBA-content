@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.BlockLevel Property (Outlook)
 
-Returns an  **[OlAttachmentBlockLevel](olattachmentblocklevel-enumeration-outlook.md)** constant that specifies if there is any restriction on the attachment based on its file extension. Read-only.
+Returns an **[OlAttachmentBlockLevel](olattachmentblocklevel-enumeration-outlook.md)** constant that specifies if there is any restriction on the attachment based on its file extension. Read-only.
 
 
 ## Syntax

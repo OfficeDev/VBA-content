@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Selection Property (Excel)
 
-Returns the specified window, for a  **[Windows](windows-object-excel.md)** object.
+Returns the specified window, for a **[Windows](windows-object-excel.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the specified window, for a  **[Windows](windows-object-excel.md)** obje
 
 ## Remarks
 
-The returned object type depends on the current selection (for example, if a cell is selected, this property returns a  **[Range](range-object-excel.md)** object). The **Selection** property returns **Nothing** if nothing is selected.
+The returned object type depends on the current selection (for example, if a cell is selected, this property returns a **[Range](range-object-excel.md)** object). The **Selection** property returns **Nothing** if nothing is selected.
 
 Using this property with no object qualifier is equivalent to using  `Application.Selection`.
 

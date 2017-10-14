@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 The following example shows how to set the necessary parameters of the [RDSServer.DataFactory](http://msdn.microsoft.com/library/1de76cdd-34dc-8547-29aa-48ad6067bdea%28Office.15%29.aspx) default business rules at run time.
 
-To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **RecordsetVBS.asp**. ASP script will identify your server.
+To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **RecordsetVBS.asp**. ASP script will identify your server.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.Parent Property (Office)
 
-Gets the  **Parent** object for the **CommandBars** object. Read-only.
+Gets the **Parent** object for the **CommandBars** object. Read-only.
 
 
 ## 

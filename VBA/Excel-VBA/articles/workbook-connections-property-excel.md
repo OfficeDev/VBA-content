@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Connections Property (Excel)
 
-The  **Connections** property establishes a connection between the workbook and an ODBC or an OLEDB data source and refreshes the data without prompting the user. Read-only.
+The **Connections** property establishes a connection between the workbook and an ODBC or an OLEDB data source and refreshes the data without prompting the user. Read-only.
 
 
 ## Syntax

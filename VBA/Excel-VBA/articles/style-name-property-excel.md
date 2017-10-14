@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Name Property (Excel)
 
-Returns a  **String** value that represents the name of the object.
+Returns a **String** value that represents the name of the object.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ With ActiveWorkbook.Styles(1)
 End With
 ```
 
-The following example displays the name of the default  **ListObject** object in sheet1 of the active workbook.
+The following example displays the name of the default **ListObject** object in sheet1 of the active workbook.
 
 
 

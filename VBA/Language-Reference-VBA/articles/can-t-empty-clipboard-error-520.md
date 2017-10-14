@@ -15,7 +15,7 @@ The Clipboard was opened but could not be emptied. This error has the following 
 
 
 
-- Another application is using the Clipboard and won't release it to your application. Set an error trap for this situation in your code and provide a message box with  **Retry** and **Cancel** buttons to allow the user to try again after a short pause.
+- Another application is using the Clipboard and won't release it to your application. Set an error trap for this situation in your code and provide a message box with **Retry** and **Cancel** buttons to allow the user to try again after a short pause.
     
 
 

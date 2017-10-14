@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.SpecialEffect Property (Access)
 
-You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
+You can use the **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **SpecialEffect** property to specify whether special formattin
 
 ## Remarks
 
-The  **SpecialEffect** property uses the following settings.
+The **SpecialEffect** property uses the following settings.
 
 
 
@@ -37,7 +37,7 @@ The  **SpecialEffect** property uses the following settings.
 |Etched|3|The object has a sunken line surrounding the control.|
 |Shadowed|4|The object has a shadow below and to the right of the control.|
 |Chiseled|5|The object has a sunken line below the control.|
-The  **SpecialEffect** property setting affects related property settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties. For example, if the **SpecialEffect** property is set to Raised, the settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties are ignored. In addition, changing or setting the **BorderStyle**, **BorderColor**, and **BorderWidth** properties may cause Microsoft Access to change the **SpecialEffect** property setting to Flat.
+The **SpecialEffect** property setting affects related property settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties. For example, if the **SpecialEffect** property is set to Raised, the settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties are ignored. In addition, changing or setting the **BorderStyle**, **BorderColor**, and **BorderWidth** properties may cause Microsoft Access to change the **SpecialEffect** property setting to Flat.
 
 
 ## Example

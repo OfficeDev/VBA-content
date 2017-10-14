@@ -7,9 +7,9 @@ ms.date: 06/08/2017
 
 
 # PickerResults Members (Office)
-A collection of  **PickerResult** objects.
+A collection of **PickerResult** objects.
 
-A collection of  **PickerResult** objects.
+A collection of **PickerResult** objects.
 
 
 ## Methods
@@ -18,7 +18,7 @@ A collection of  **PickerResult** objects.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](pickerresults-add-method-office.md)|Adds a  **PickerResult** object to the **PickerResults** collection.|
+|[Add](pickerresults-add-method-office.md)|Adds a **PickerResult** object to the **PickerResults** collection.|
 
 ## Properties
 
@@ -26,8 +26,8 @@ A collection of  **PickerResult** objects.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](pickerresults-application-property-office.md)|Gets an  **Application** object that represents the container application for the **PickerResults** object. Read-only|
-|[Count](pickerresults-count-property-office.md)|Retrieves the count of the number of  **PickerResult** objects contained within the **PickerResults** collection. Read-only|
-|[Creator](pickerresults-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **PickerResults** object was created. Read-only|
-|[Item](pickerresults-item-property-office.md)|Retrieves a  **PickerResult** object at the specified index. Read-only|
+|[Application](pickerresults-application-property-office.md)|Gets an **Application** object that represents the container application for the **PickerResults** object. Read-only|
+|[Count](pickerresults-count-property-office.md)|Retrieves the count of the number of **PickerResult** objects contained within the **PickerResults** collection. Read-only|
+|[Creator](pickerresults-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **PickerResults** object was created. Read-only|
+|[Item](pickerresults-item-property-office.md)|Retrieves a **PickerResult** object at the specified index. Read-only|
 

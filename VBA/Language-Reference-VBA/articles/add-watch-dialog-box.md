@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 
 
 
-Use to enter a [watch expression](vbe-glossary.md). The expression can be a [variable](vbe-glossary.md), a property, a function call, or any other valid Basic expression. Watch expressions are updated in the  **Watch** window each time you enter[break mode](vbe-glossary.md) or after execution of each statement in the Immediate window.
+Use to enter a [watch expression](vbe-glossary.md). The expression can be a [variable](vbe-glossary.md), a property, a function call, or any other valid Basic expression. Watch expressions are updated in the **Watch** window each time you enter[break mode](vbe-glossary.md) or after execution of each statement in the Immediate window.
 
-You can drag selected expressions from the  **Code** window into the **Watch** window.
+You can drag selected expressions from the **Code** window into the **Watch** window.
 
 
 
@@ -54,7 +54,7 @@ Determines how Visual Basic responds to the watch expression.
 
 
 
-- Watch Expression — Displays the watch expression and its value in the  **Watch** window. When you enter break mode, the value of the watch expression is automatically updated.
+- Watch Expression — Displays the watch expression and its value in the **Watch** window. When you enter break mode, the value of the watch expression is automatically updated.
     
 - Break When Value Is True — Execution automatically enters break mode when the expression evaluates to true or is any nonzero value (not valid for string expressions).
     

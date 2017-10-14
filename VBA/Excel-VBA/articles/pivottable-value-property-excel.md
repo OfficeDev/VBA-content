@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.Value Property (Excel)
 
-Returns or sets a  **String** value that represents the name of the PivotTable report.
+Returns or sets a **String** value that represents the name of the PivotTable report.
 
 
 ## Syntax

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- Part or all of the letter range for this  **Def**_type_ statement is already included in another **Def**_type_ statement. Rewrite the statement so there is no overlap in the letter ranges.
+- Part or all of the letter range for this **Def**_type_ statement is already included in another **Def**_type_ statement. Rewrite the statement so there is no overlap in the letter ranges.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Indicates whether the contents of a control automatically wrap at the end of a line.
  **Syntax**
  _object_. **WordWrap** [= _Boolean_ ]
-The  **WordWrap** property syntax has these parts:
+The **WordWrap** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -34,5 +34,5 @@ The settings for  _Boolean_ are:
 |**True**|The text wraps (default).|
 |**False**|The text does not wrap.|
  **Remarks**
-For controls that support the  **MultiLine** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
+For controls that support the **MultiLine** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
 

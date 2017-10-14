@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecentFiles.Maximum Property (Excel)
 
-Returns or sets the maximum number of files in the list of recently used files. Can be a value from 0 (zero) through 50. Read/write  **Long** .
+Returns or sets the maximum number of files in the list of recently used files. Can be a value from 0 (zero) through 50. Read/write **Long** .
 
 
 ## Syntax

@@ -18,7 +18,7 @@ Used as a container for Microsoft Excel worksheet functions that can be called f
 
 ## Example
 
-Use the  **[WorksheetFunction](application-worksheetfunction-property-excel.md)** property to return the **WorksheetFunction** object. The following example displays the result of applying the **Min** worksheet function to the range A1:C10.
+Use the **[WorksheetFunction](application-worksheetfunction-property-excel.md)** property to return the **WorksheetFunction** object. The following example displays the result of applying the **Min** worksheet function to the range A1:C10.
 
 
 ```
@@ -29,7 +29,7 @@ MsgBox answer
 
  **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
 
-This example uses the  **CountA** worksheet function to determine how many cells in column A contain a value. For this example, the values in column A should be text. This example does a spell check on each value in column A, and if the value is spelled incorrectly, inserts the text "Wrong" into column B; otherwise, it inserts the text "OK" into column B.
+This example uses the **CountA** worksheet function to determine how many cells in column A contain a value. For this example, the values in column A should be text. This example does a spell check on each value in column A, and if the value is spelled incorrectly, inserts the text "Wrong" into column B; otherwise, it inserts the text "OK" into column B.
 
 
 

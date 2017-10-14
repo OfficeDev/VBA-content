@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UpBars Property
 
-Returns an  **[UpBars](upbars-object.md)** object that represents the up bars on a line chart. Applies only to line charts. Read-only.
+Returns an **[UpBars](upbars-object.md)** object that represents the up bars on a line chart. Applies only to line charts. Read-only.
 
 
 ## Example

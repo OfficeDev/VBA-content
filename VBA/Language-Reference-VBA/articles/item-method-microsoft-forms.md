@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Returns a member of a [collection](vbe-glossary.md), either by position or by name.
  **Syntax**
  **Set**_Object_ = _object_. **Item(**_collectionindex_**)**
-The  **Item** method syntax has these parts:
+The **Item** method syntax has these parts:
 
 
 |**Part**|**Description**|

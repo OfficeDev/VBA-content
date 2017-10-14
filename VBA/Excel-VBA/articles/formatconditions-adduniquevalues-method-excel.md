@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatConditions.AddUniqueValues Method (Excel)
 
-Returns a new  **[UniqueValues](uniquevalues-object-excel.md)** object representing a conditional formatting rule for the specified range.
+Returns a new **[UniqueValues](uniquevalues-object-excel.md)** object representing a conditional formatting rule for the specified range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a new  **[UniqueValues](uniquevalues-object-excel.md)** object represent
 
 ## Remarks
 
-You can use the  **UniqueValues** object to quickly visualize cells that contain either unique or duplicate values.
+You can use the **UniqueValues** object to quickly visualize cells that contain either unique or duplicate values.
 
 
 ## See also

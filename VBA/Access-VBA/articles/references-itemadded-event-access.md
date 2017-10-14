@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # References.ItemAdded Event (Access)
 
-The  **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
+The **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
 
 
 ## Syntax
@@ -34,16 +34,16 @@ The  **ItemAdded** event occurs when a reference is added to the project from Vi
 ## Remarks
 
 
-- The  **ItemAdded** event applies to the **[References](references-object-access.md)** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the **ItemAdded** event procedure, you must use a special syntax.
+- The **ItemAdded** event applies to the **[References](references-object-access.md)** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the **ItemAdded** event procedure, you must use a special syntax.
     
-- The  **ItemAdded** event can run only an event procedure when it occurs, it cannot run a macro.
+- The **ItemAdded** event can run only an event procedure when it occurs, it cannot run a macro.
     
-This event occurs only when you add a reference from code. It doesn't occur when you add a reference from the  **References** dialog box, available by clicking **References** on the **Tools** menu when the Module window is the active window.
+This event occurs only when you add a reference from code. It doesn't occur when you add a reference from the **References** dialog box, available by clicking **References** on the **Tools** menu when the Module window is the active window.
 
 
 ## Example
 
-The following example includes event procedures for the  **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by clicking **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents:
+The following example includes event procedures for the **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by clicking **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents:
 
 
 ```vb

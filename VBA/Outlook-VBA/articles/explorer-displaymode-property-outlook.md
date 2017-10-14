@@ -19,7 +19,7 @@ Indicates the display mode: Normal, Portrait View, or Portrait Reading Pane.
 
  _expression_ .
 
- _expression_ A variable that **DisplayMode**represents a  **Explorer** object.
+ _expression_ A variable that **DisplayMode**represents a **Explorer** object.
 
 
 ## Modes

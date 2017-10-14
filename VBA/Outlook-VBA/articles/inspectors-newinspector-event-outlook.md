@@ -35,7 +35,7 @@ Occurs whenever a new inspector window is opened, either as a result of user act
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-The event occurs after the new  **Inspector** object is created but before the inspector window appears.
+The event occurs after the new **Inspector** object is created but before the inspector window appears.
 
 
 ## See also

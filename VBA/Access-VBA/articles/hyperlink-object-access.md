@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Hyperlink Object (Access)
 
-The  **Hyperlink** object represents a hyperlink associated with a control on a form, report, or data access page.
+The **Hyperlink** object represents a hyperlink associated with a control on a form, report, or data access page.
 
 
 ## Remarks
 
-Use the  **Hyperlink** property to return a reference to a hyperlink object.
+Use the **Hyperlink** property to return a reference to a hyperlink object.
 
 
 ## Properties

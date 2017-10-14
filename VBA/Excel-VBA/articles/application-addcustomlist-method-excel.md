@@ -29,7 +29,7 @@ Adds a custom list for custom autofill and/or custom sort.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ListArray_|Required| **Variant**|Specifies the source data, as either an array of strings or a  **Range** object.|
+| _ListArray_|Required| **Variant**|Specifies the source data, as either an array of strings or a **Range** object.|
 | _ByRow_|Optional| **Variant**|Only used if  _ListArray_ is a **Range** object. **True** to create a custom list from each row in the range. **False** to create a custom list from each column in the range. If this argument is omitted and there are more rows than columns (or an equal number of rows and columns) in the range, Microsoft Excel creates a custom list from each column in the range. If this argument is omitted and there are more columns than rows in the range, Microsoft Excel creates a custom list from each row in the range.|
 
 ## Remarks

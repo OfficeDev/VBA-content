@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MaximumScale Property (Excel)
 
-Returns or sets the maximum value on the value axis. Read/write  **Double** .
+Returns or sets the maximum value on the value axis. Read/write **Double** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the maximum value on the value axis. Read/write  **Double** .
 
 ## Remarks
 
-Setting this property sets the  **[MaximumScaleIsAuto](axis-maximumscaleisauto-property-excel.md)** property to **False** .
+Setting this property sets the **[MaximumScaleIsAuto](axis-maximumscaleisauto-property-excel.md)** property to **False** .
 
 
 ## Example

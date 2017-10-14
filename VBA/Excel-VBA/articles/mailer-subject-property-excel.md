@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Mailer.Subject Property (Excel)
 
-Returns or sets the subject for the mailer. Read/write  **String** .
+Returns or sets the subject for the mailer. Read/write **String** .
 
 
 ## Syntax

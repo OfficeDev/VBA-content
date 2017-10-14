@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.ErrorTitle Property (Excel)
 
-Returns or sets the title of the data-validation error dialog box. Read/write  **String** .
+Returns or sets the title of the data-validation error dialog box. Read/write **String** .
 
 
 ## Syntax

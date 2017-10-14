@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Modal Property (Access)
 
-You can use the  **Modal** property to specify whether a form opens as a modal window. When a form opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
+You can use the **Modal** property to specify whether a form opens as a modal window. When a form opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Modal** property to specify whether a form opens as a modal w
 
 ## Remarks
 
-The  **Modal** property uses the following settings.
+The **Modal** property uses the following settings.
 
 
 
@@ -33,13 +33,13 @@ The  **Modal** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The form or report opens as a modal window.|
 |No|**False**|(Default) The form opens as a non-modal window.|
-When you open a modal window, other windows in Microsoft Access are disabled until you close the form (although you can switch to windows in other applications). To disable menus and toolbars in addition to other windows, set both the  **Modal** and **PopUp** properties to Yes.
+When you open a modal window, other windows in Microsoft Access are disabled until you close the form (although you can switch to windows in other applications). To disable menus and toolbars in addition to other windows, set both the **Modal** and **PopUp** properties to Yes.
 
-You can use the  **BorderStyle** property to specify the kind of border a form will have. Typically, modal forms have the **BorderStyle** property set to Dialog.
+You can use the **BorderStyle** property to specify the kind of border a form will have. Typically, modal forms have the **BorderStyle** property set to Dialog.
 
-You can use the  **Modal**, **PopUp**, and **BorderStyle** properties to create a custom dialog box. You can set **Modal** to Yes, **PopUp** to Yes, and **BorderStyle** to Dialog for custom dialog boxes.
+You can use the **Modal**, **PopUp**, and **BorderStyle** properties to create a custom dialog box. You can set **Modal** to Yes, **PopUp** to Yes, and **BorderStyle** to Dialog for custom dialog boxes.
 
-Setting the  **Modal** property to Yes makes the form modal only when you:
+Setting the **Modal** property to Yes makes the form modal only when you:
 
 
 - Open it in Form view from the Database window.
@@ -53,7 +53,7 @@ When the form is modal, you can't switch to Datasheet view from Form view, altho
 The form isn't modal in Design view or Datasheet view and also isn't modal if you switch from Datasheet view to Form view.
 
 
- **Note**  You can use the Dialog setting of the Window Mode action argument of the OpenForm action to open a form with its  **Modal** and **PopUp** properties set to Yes.
+ **Note**  You can use the Dialog setting of the Window Mode action argument of the OpenForm action to open a form with its **Modal** and **PopUp** properties set to Yes.
 
 
 ## See also

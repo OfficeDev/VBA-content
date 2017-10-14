@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.CountOfLines Property (Access)
 
-The  **CountOfLines** property returns a **Long** value indicating the number of lines of code in a standard module or class module. Read-only **Long**.
+The **CountOfLines** property returns a **Long** value indicating the number of lines of code in a standard module or class module. Read-only **Long**.
 
 
 ## Syntax
@@ -27,12 +27,12 @@ The  **CountOfLines** property returns a **Long** value indicating the number of
 
 Lines in a module are numbered beginning with 1.
 
-The line number of the last line in a module is the value of the  **CountOfLines** property.
+The line number of the last line in a module is the value of the **CountOfLines** property.
 
 
 ## Example
 
-The following example counts the number of lines and declaration lines in each standard module in the  **Modules** collection. Note that the **Modules** collection contains only modules that are open in the module editor.
+The following example counts the number of lines and declaration lines in each standard module in the **Modules** collection. Note that the **Modules** collection contains only modules that are open in the module editor.
 
 
 ```vb

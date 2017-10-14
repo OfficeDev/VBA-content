@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Width # Statement
 
-Assigns an output line width to a file opened using the  **Open** statement.
+Assigns an output line width to a file opened using the **Open** statement.
 
  **Syntax**
 
  **Width #**_filenumber_, _width_
 
-The  **Width #** statement syntax has these parts:
+The **Width #** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -27,7 +27,7 @@ The  **Width #** statement syntax has these parts:
 
 ## Example
 
-This example uses the  **Width #** statement to set the output line width for a file.
+This example uses the **Width #** statement to set the output line width for a file.
 
 
 ```vb

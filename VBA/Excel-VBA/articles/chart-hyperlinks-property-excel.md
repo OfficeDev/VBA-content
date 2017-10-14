@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Hyperlinks Property (Excel)
 
-Returns a  **[Hyperlinks](hyperlinks-object-excel.md)** collection that represents the hyperlinks for the chart.
+Returns a **[Hyperlinks](hyperlinks-object-excel.md)** collection that represents the hyperlinks for the chart.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # For Each can only iterate over a collection object or an array
 
-The  **For Each** construct can only be used with[collections](vbe-glossary.md) and[arrays](vbe-glossary.md). This error has the following cause and solution:
+The **For Each** construct can only be used with[collections](vbe-glossary.md) and[arrays](vbe-glossary.md). This error has the following cause and solution:
 
 
 

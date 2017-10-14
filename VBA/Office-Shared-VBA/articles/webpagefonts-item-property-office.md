@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebPageFonts.Item Property (Office)
 
-Gets a  **WebPageFont** object from the **WebPageFonts** collection for a particular value of **MsoCharacterSet**. Read-only.
+Gets a **WebPageFont** object from the **WebPageFonts** collection for a particular value of **MsoCharacterSet**. Read-only.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Gets a  **WebPageFont** object from the **WebPageFonts** collection for a partic
 
 ## Example
 
-The following example uses the  **Item** property to set "myFont" to the **WebPageFont** object for the **English/Western European/Other Latin Script** character set in the active application.
+The following example uses the **Item** property to set "myFont" to the **WebPageFont** object for the **English/Western European/Other Latin Script** character set in the active application.
 
 
 ```

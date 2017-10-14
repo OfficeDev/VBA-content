@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SmartTag.IsMissing Property (Access)
 
-Returns  **True** if the specified smart tag is not installed or is installed incorrectly. Read-only **Boolean**.
+Returns **True** if the specified smart tag is not installed or is installed incorrectly. Read-only **Boolean**.
 
 
 ## Syntax

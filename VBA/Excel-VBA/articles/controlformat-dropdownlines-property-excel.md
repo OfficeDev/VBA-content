@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.DropDownLines Property (Excel)
 
-Returns or sets the number of list lines displayed in the drop-down portion of a combo box. Read/write  **Long** .
+Returns or sets the number of list lines displayed in the drop-down portion of a combo box. Read/write **Long** .
 
 
 ## Syntax

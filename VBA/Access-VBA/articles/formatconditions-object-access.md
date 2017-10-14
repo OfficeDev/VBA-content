@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FormatConditions Object (Access)
 
-The  **FormatConditions** collection represents the collection of conditional formats for a combo box or text box control. Each format is represented by a **[FormatCondition](formatcondition-object-access.md)** object.
+The **FormatConditions** collection represents the collection of conditional formats for a combo box or text box control. Each format is represented by a **[FormatCondition](formatcondition-object-access.md)** object.
 
 
 ## Remarks
 
-Use the  **FormatConditions** property of a combo box or text box in Visual Basic or in an expression to return a **FormatConditions** collection. Use the **[Add](formatconditions-add-method-access.md)** method to create a new conditional format, and use the **[Modify](formatcondition-modify-method-access.md)** method to change an existing conditional format.
+Use the **FormatConditions** property of a combo box or text box in Visual Basic or in an expression to return a **FormatConditions** collection. Use the **[Add](formatconditions-add-method-access.md)** method to create a new conditional format, and use the **[Modify](formatcondition-modify-method-access.md)** method to change an existing conditional format.
 
-You can use the  **Modify** method to change one of the formats, or the **[Delete](formatconditions-delete-method-access.md)** method to delete a format.
+You can use the **Modify** method to change one of the formats, or the **[Delete](formatconditions-delete-method-access.md)** method to delete a format.
 
 
 ## Methods

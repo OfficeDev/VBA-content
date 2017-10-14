@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlSchema.XML Property (Excel)
 
-Returns a  **String** value that represents the content of the specified schema.
+Returns a **String** value that represents the content of the specified schema.
 
 
 ## Syntax

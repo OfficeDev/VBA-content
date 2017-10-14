@@ -18,39 +18,39 @@ Represents the various spell checking options for a worksheet.
 
 ## Remarks
 
-Use the  **[SpellingOptions](application-spellingoptions-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return a **SpellingOptions** object.
+Use the **[SpellingOptions](application-spellingoptions-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return a **SpellingOptions** object.
 
-Once a  **SpellingOptions** object is returned, you can use its following properties to set or return various spell checking options.
+Once a **SpellingOptions** object is returned, you can use its following properties to set or return various spell checking options.
 
 
--  **[ArabicModes](spellingoptions-arabicmodes-property-excel.md)**
+- **[ArabicModes](spellingoptions-arabicmodes-property-excel.md)**
     
--  **[DictLang](spellingoptions-dictlang-property-excel.md)**
+- **[DictLang](spellingoptions-dictlang-property-excel.md)**
     
--  **[GermanPostReform](spellingoptions-germanpostreform-property-excel.md)**
+- **[GermanPostReform](spellingoptions-germanpostreform-property-excel.md)**
     
--  **[HebrewModes](spellingoptions-hebrewmodes-property-excel.md)**
+- **[HebrewModes](spellingoptions-hebrewmodes-property-excel.md)**
     
--  **[IgnoreCaps](spellingoptions-ignorecaps-property-excel.md)**
+- **[IgnoreCaps](spellingoptions-ignorecaps-property-excel.md)**
     
--  **[IgnoreFileNames](spellingoptions-ignorefilenames-property-excel.md)**
+- **[IgnoreFileNames](spellingoptions-ignorefilenames-property-excel.md)**
     
--  **[IgnoreMixedDigits](spellingoptions-ignoremixeddigits-property-excel.md)**
+- **[IgnoreMixedDigits](spellingoptions-ignoremixeddigits-property-excel.md)**
     
--  **[KoreanCombineAux](spellingoptions-koreancombineaux-property-excel.md)**
+- **[KoreanCombineAux](spellingoptions-koreancombineaux-property-excel.md)**
     
--  **[KoreanProcessCompound](spellingoptions-koreanprocesscompound-property-excel.md)**
+- **[KoreanProcessCompound](spellingoptions-koreanprocesscompound-property-excel.md)**
     
--  **[KoreanUseAutoChangeList](spellingoptions-koreanuseautochangelist-property-excel.md)**
+- **[KoreanUseAutoChangeList](spellingoptions-koreanuseautochangelist-property-excel.md)**
     
--  **[SuggestMainOnly](spellingoptions-suggestmainonly-property-excel.md)**
+- **[SuggestMainOnly](spellingoptions-suggestmainonly-property-excel.md)**
     
--  **[UserDict](spellingoptions-userdict-property-excel.md)**
+- **[UserDict](spellingoptions-userdict-property-excel.md)**
     
 
 ## Example
 
-The following example uses the  **[IgnoreCaps](spellingoptions-ignorecaps-property-excel.md)** property to disable spell checking for words that have all capitalized letters. In this example, "Testt", but not "TESTT", is identified by the spell checker.
+The following example uses the **[IgnoreCaps](spellingoptions-ignorecaps-property-excel.md)** property to disable spell checking for words that have all capitalized letters. In this example, "Testt", but not "TESTT", is identified by the spell checker.
 
 
 ```vb

@@ -11,26 +11,26 @@ ms.date: 06/08/2017
 
 # TabIndex Property Example
 
-The following example uses the  **TabIndex** property to display and set the tab order for individual controls. The user can press TAB to reach the next control in the tab order and to display the **TabIndex** of that control. The user can also click on a control to display its **TabIndex**. The User can change the **TabIndex** of a control by specifying a new index value in the **TextBox** and clicking CommandButton3. Changing the **TabIndex** for one control also updates the **TabIndex** for other controls in the **Frame**.
+The following example uses the **TabIndex** property to display and set the tab order for individual controls. The user can press TAB to reach the next control in the tab order and to display the **TabIndex** of that control. The user can also click on a control to display its **TabIndex**. The User can change the **TabIndex** of a control by specifying a new index value in the **TextBox** and clicking CommandButton3. Changing the **TabIndex** for one control also updates the **TabIndex** for other controls in the **Frame**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **Frame** named Frame1.
+- A **Frame** named Frame1.
     
-- A  **TextBox** in the **Frame** named TextBox2.
+- A **TextBox** in the **Frame** named TextBox2.
     
-- Two  **CommandButton** controls in the **Frame** named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls in the **Frame** named CommandButton1 and CommandButton2.
     
-- A  **ScrollBar** in the **Frame** named ScrollBar1.
+- A **ScrollBar** in the **Frame** named ScrollBar1.
     
-- A  **CommandButton** (not in the **Frame** ) named CommandButton3.
+- A **CommandButton** (not in the **Frame** ) named CommandButton3.
     
 
 

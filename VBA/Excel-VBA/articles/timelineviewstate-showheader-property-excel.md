@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TimelineViewState.ShowHeader Property (Excel)
 
-Get or set whether the control's header is displayed.  **Boolean** Read/Write
+Get or set whether the control's header is displayed. **Boolean** Read/Write
 
 
 ## Syntax

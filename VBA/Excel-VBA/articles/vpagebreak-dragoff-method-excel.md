@@ -34,7 +34,7 @@ Drags a page break out of the print area.
 
 ## Remarks
 
-This method exists primarily for the macro recorder. You can use the  **[Delete](vpagebreak-delete-method-excel.md)** method to delete a page break in Visual Basic.
+This method exists primarily for the macro recorder. You can use the **[Delete](vpagebreak-delete-method-excel.md)** method to delete a page break in Visual Basic.
 
 
 ## Example

@@ -18,9 +18,9 @@ Represents identifier information. Identifier information can be used as metadat
 
 ## Remarks
 
-Use the  **[Add](customproperties-add-method-excel.md)** method or the **[Item](customproperties-item-property-excel.md)** property of the **[CustomProperties](customproperties-object-excel.md)** collection to return a **CustomProperty** object.
+Use the **[Add](customproperties-add-method-excel.md)** method or the **[Item](customproperties-item-property-excel.md)** property of the **[CustomProperties](customproperties-object-excel.md)** collection to return a **CustomProperty** object.
 
-Once a  **CustomProperty** object is returned, you can add metadata to worksheets using the **[CustomProperties](worksheet-customproperties-property-excel.md)** property with the **Add** method.
+Once a **CustomProperty** object is returned, you can add metadata to worksheets using the **[CustomProperties](worksheet-customproperties-property-excel.md)** property with the **Add** method.
 
 
 ## Example

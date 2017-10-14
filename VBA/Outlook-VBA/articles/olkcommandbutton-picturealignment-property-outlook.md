@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkCommandButton.PictureAlignment Property (Outlook)
 
-Returns or sets an  **[OlPictureAlignment](olpicturealignment-enumeration-outlook.md)** constant that specifies the alignment of the image and the text on the button. Read/write.
+Returns or sets an **[OlPictureAlignment](olpicturealignment-enumeration-outlook.md)** constant that specifies the alignment of the image and the text on the button. Read/write.
 
 
 ## Syntax

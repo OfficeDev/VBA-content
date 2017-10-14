@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayDocumentInformationPanel Property (Excel)
 
-Returns or sets a  **Boolean** that represents whether the document properties panel is displayed. Read/write **Boolean** .
+Returns or sets a **Boolean** that represents whether the document properties panel is displayed. Read/write **Boolean** .
 
 This property has been deprecated in Office 2016, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

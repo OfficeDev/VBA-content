@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.ScrollArea Property (Excel)
 
-Returns or sets the range where scrolling is allowed, as an A1-style range reference. Cells outside the scroll area cannot be selected. Read/write  **String** .
+Returns or sets the range where scrolling is allowed, as an A1-style range reference. Cells outside the scroll area cannot be selected. Read/write **String** .
 
 
 ## Syntax

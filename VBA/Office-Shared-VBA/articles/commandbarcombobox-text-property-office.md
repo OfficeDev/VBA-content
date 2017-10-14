@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Text Property (Office)
 
-Gets or sets the text in the display or edit portion of the  **CommandBarComboBox** control. Read/write.
+Gets or sets the text in the display or edit portion of the **CommandBarComboBox** control. Read/write.
 
 
 ## 

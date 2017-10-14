@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BoundObjectFrame.AfterUpdate Property (Access)
 
-Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
+Returns or sets which macro, event procedure, or user-defined function runs when the **AfterUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax

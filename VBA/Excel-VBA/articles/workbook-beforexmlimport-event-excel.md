@@ -32,7 +32,7 @@ Occurs before an existing XML data connection is refreshed or before new XML dat
 | _Map_|Required| **[XmlMap](xmlmap-object-excel.md)**|The XML map that will be used to import data.|
 | _Url_|Required| **String**|The location of the XML file to be imported.|
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data; **False** if the event was triggered by importing from a different data source.|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the import or refresh operation.|
+| _Cancel_|Required| **Boolean**|Set to **True** to cancel the import or refresh operation.|
 
 ### Return Value
 

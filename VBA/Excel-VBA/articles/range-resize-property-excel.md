@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Resize Property (Excel)
 
-Resizes the specified range. Returns a  **[Range](range-object-excel.md)** object that represents the resized range.
+Resizes the specified range. Returns a **[Range](range-object-excel.md)** object that represents the resized range.
 
 
 ## Syntax

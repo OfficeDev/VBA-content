@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.GridlineWidthRight Property (Access)
 
-Gets or sets the width of the right gridline for the specified text box. Read/write  **Byte**.
+Gets or sets the width of the right gridline for the specified text box. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the right gridline for the specified text box. Read/wr
 
 ## Remarks
 
-The  **RightGridlineWidth** property uses the following settings.
+The **RightGridlineWidth** property uses the following settings.
 
 
 

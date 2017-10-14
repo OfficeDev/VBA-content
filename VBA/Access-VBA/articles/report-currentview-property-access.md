@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.CurrentView Property (Access)
 
-You can use the  **CurrentView** property to determine how a report is currently displayed. Read/write **Integer**.
+You can use the **CurrentView** property to determine how a report is currently displayed. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **CurrentView** property to determine how a report is currently
 
 ## Remarks
 
-The  **CurrentView** property uses the following settings.
+The **CurrentView** property uses the following settings.
 
 
 

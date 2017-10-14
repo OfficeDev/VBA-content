@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCaches.Parent Property (Excel)
 
-Returns the parent  **[Workbook](workbook-object-excel.md)** object for the collection. Read-only.
+Returns the parent **[Workbook](workbook-object-excel.md)** object for the collection. Read-only.
 
 
 ## Syntax

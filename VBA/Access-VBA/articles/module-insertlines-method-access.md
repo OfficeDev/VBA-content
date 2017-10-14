@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.InsertLines Method (Access)
 
-The  **InsertLines** method inserts a line or group of lines of code in a standard module or a class module.
+The **InsertLines** method inserts a line or group of lines of code in a standard module or a class module.
 
 
 ## Syntax
@@ -41,9 +41,9 @@ Nothing
 
 To add multiple lines, include the intrinsic constant **vbCrLf** at the desired line breaks within the string that makes up the _string_ argument. This constant forces a carriage return and line feed.
 
-When you use the  **InsertLines** method, any existing code at the line specified by the _line_ argument moves down.
+When you use the **InsertLines** method, any existing code at the line specified by the _line_ argument moves down.
 
-Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the  **[CountOfLines](module-countoflines-property-access.md)** property.
+Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the **[CountOfLines](module-countoflines-property-access.md)** property.
 
 
 ## Example

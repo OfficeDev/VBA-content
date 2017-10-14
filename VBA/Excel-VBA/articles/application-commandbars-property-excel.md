@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CommandBars Property (Excel)
 
-Returns a  **[CommandBars](http://msdn.microsoft.com/library/0e312e21-14ee-5055-d604-b66e61c53b47%28Office.15%29.aspx)** object that represents the Microsoft Excel command bars. Read-only.
+Returns a **[CommandBars](http://msdn.microsoft.com/library/0e312e21-14ee-5055-d604-b66e61c53b47%28Office.15%29.aspx)** object that represents the Microsoft Excel command bars. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[CommandBars](http://msdn.microsoft.com/library/0e312e21-14ee-5055-
 
 ## Remarks
 
-Used with the  **[Application](application-object-excel.md)** object, this property returns the set of built-in and custom command bars available to the application.
+Used with the **[Application](application-object-excel.md)** object, this property returns the set of built-in and custom command bars available to the application.
 
-When a workbook is embedded in another application and activated by the user by double-clicking the workbook, using this property with a  **[Workbook](workbook-object-excel.md)** object returns the set of Microsoft Excel command bars available within the other application. At all other times, using this property with a **Workbook** object returns **Nothing** .
+When a workbook is embedded in another application and activated by the user by double-clicking the workbook, using this property with a **[Workbook](workbook-object-excel.md)** object returns the set of Microsoft Excel command bars available within the other application. At all other times, using this property with a **Workbook** object returns **Nothing** .
 
 There is no programmatic way to return the set of command bars attached to a workbook.
 

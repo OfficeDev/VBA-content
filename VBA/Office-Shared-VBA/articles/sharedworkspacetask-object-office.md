@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceTask Object (Office)
 
-The  **SharedWorkspaceTask** object represents a task in a shared document workspace. Member of the **SharedWorkspaceTasks** collection.
+The **SharedWorkspaceTask** object represents a task in a shared document workspace. Member of the **SharedWorkspaceTasks** collection.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,19 +21,19 @@ The  **SharedWorkspaceTask** object represents a task in a shared document works
 
 ## Remarks
 
-Use the  **SharedWorkspaceTask** object to manage tasks assigned to the members who are collaborating on the documents in the shared workspace.
+Use the **SharedWorkspaceTask** object to manage tasks assigned to the members who are collaborating on the documents in the shared workspace.
 
-Use the  **Item** ( _index_ ) property of the **SharedWorkspaceTasks** collection to return a specific **SharedWorkspaceTask** object.
+Use the **Item** ( _index_ ) property of the **SharedWorkspaceTasks** collection to return a specific **SharedWorkspaceTask** object.
 
-Use the  **Title** property to set the text of the task that appears on the **Tasks** tab of the **Shared Workspace** task pane and on the shared workspace Web page. Use the **Description** property to supply additional information about the task.
+Use the **Title** property to set the text of the task that appears on the **Tasks** tab of the **Shared Workspace** task pane and on the shared workspace Web page. Use the **Description** property to supply additional information about the task.
 
-Assign the task to a member of the workspace using the  **AssignedTo** property and the member's domain user name. Specify a due date for the task using the **DueDate** property.
+Assign the task to a member of the workspace using the **AssignedTo** property and the member's domain user name. Specify a due date for the task using the **DueDate** property.
 
-Use the enumerations for task  **Priority** and **Status** to indicate the relative importance of the task and to update the task's status.
+Use the enumerations for task **Priority** and **Status** to indicate the relative importance of the task and to update the task's status.
 
-Use the  **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceTask** object.
+Use the **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceTask** object.
 
-Use the  **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each task.
+Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each task.
 
 
 ## Example

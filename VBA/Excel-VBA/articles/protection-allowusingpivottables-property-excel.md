@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowUsingPivotTables Property (Excel)
 
-Returns  **True** if the user is allowed to manipulate pivot tables on a protected worksheet. Read-only **Boolean** .
+Returns **True** if the user is allowed to manipulate pivot tables on a protected worksheet. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns  **True** if the user is allowed to manipulate pivot tables on a protect
 
 ## Remarks
 
-The  **AllowUsingPivotTables** property applies to non-OLAP source data.
+The **AllowUsingPivotTables** property applies to non-OLAP source data.
 
-The  **AllowUsingPivotTables** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowUsingPivotTables** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalModule.NavigationModuleType Property (Outlook)
 
-Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an **[olNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outloo
 
 ## Remarks
 
-This property returns  **olModuleJournal** for the **[JournalModule](journalmodule-object-outlook.md)** object.
+This property returns **olModuleJournal** for the **[JournalModule](journalmodule-object-outlook.md)** object.
 
 
 ## See also

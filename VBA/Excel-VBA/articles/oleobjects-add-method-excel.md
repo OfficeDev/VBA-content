@@ -43,7 +43,7 @@ Adds a new OLE object to a sheet.
 
 ### Return Value
 
-An  **[OLEObject](oleobject-object-excel.md)** object that represents the new OLE object.
+An **[OLEObject](oleobject-object-excel.md)** object that represents the new OLE object.
 
 
 ## Example

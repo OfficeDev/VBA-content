@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.Position Property (Office)
 
-Gets or sets a  **MsoBarPosition** constant representing the position of a command bar. Read/write.
+Gets or sets a **MsoBarPosition** constant representing the position of a command bar. Read/write.
 
 
 ## 

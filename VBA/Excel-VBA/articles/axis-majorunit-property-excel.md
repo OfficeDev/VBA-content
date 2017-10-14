@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MajorUnit Property (Excel)
 
-Returns or sets the major units for the value axis. Read/write  **Double** .
+Returns or sets the major units for the value axis. Read/write **Double** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the major units for the value axis. Read/write  **Double** .
 
 ## Remarks
 
-Setting this property sets the  **[MajorUnitIsAuto](axis-majorunitisauto-property-excel.md)** property to **False** .
+Setting this property sets the **[MajorUnitIsAuto](axis-majorunitisauto-property-excel.md)** property to **False** .
 
-Use the  **[TickMarkSpacing](axis-tickmarkspacing-property-excel.md)** property to set tick mark spacing on the category axis.
+Use the **[TickMarkSpacing](axis-tickmarkspacing-property-excel.md)** property to set tick mark spacing on the category axis.
 
 
 ## Example

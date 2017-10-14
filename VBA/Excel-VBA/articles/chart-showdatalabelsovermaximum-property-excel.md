@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ShowDataLabelsOverMaximum Property (Excel)
 
-Returns or sets whether to show the data labels when the value is greater than the maximum value on the value axis. Read/write  **Boolean** .
+Returns or sets whether to show the data labels when the value is greater than the maximum value on the value axis. Read/write **Boolean** .
 
 
 ## Syntax

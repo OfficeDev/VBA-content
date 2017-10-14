@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.AddressEntryUserType Property (Outlook)
 
-Returns  **olExchangeDistributionListAddressEntry** which is a constant from the **[OlAddressEntryUserType](oladdressentryusertype-enumeration-outlook.md)** enumeration representing the user type of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read-only.
+Returns **olExchangeDistributionListAddressEntry** which is a constant from the **[OlAddressEntryUserType](oladdressentryusertype-enumeration-outlook.md)** enumeration representing the user type of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **olExchangeDistributionListAddressEntry** which is a constant from the
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList** , **AddressEntryUserType** should always return **olExchangeDistributionListAddressEntry** .
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeDistributionList** , **AddressEntryUserType** should always return **olExchangeDistributionListAddressEntry** .
 
 
 ## See also

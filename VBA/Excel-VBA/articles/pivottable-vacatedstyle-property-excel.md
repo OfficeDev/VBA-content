@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.VacatedStyle Property (Excel)
 
-Returns or sets the style applied to cells vacated when the PivotTable report is refreshed. The default value is a null string (no style is applied by default). Read/write  **String** .
+Returns or sets the style applied to cells vacated when the PivotTable report is refreshed. The default value is a null string (no style is applied by default). Read/write **String** .
 
 
 ## Syntax

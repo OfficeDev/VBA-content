@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.WholeDayFilter Property (Excel)
 
-Sets or gets the filtering semantics for date filters.  **Boolean** . Read/Write
+Sets or gets the filtering semantics for date filters. **Boolean** . Read/Write
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The following describes the results for previous and current property settings:
     
 - True (Microsoft Office 2013 behavior): This behavior is enforced for Timeline controls. Only whole dates are specified; dates include all times-of-day until and not including the next day at midnight.
     
-For a Timeline, always returns  **True** ; returns a run-time error when setting to this to **False** .
+For a Timeline, always returns **True** ; returns a run-time error when setting to this to **False** .
 
 For a non-date filter, any access returns a run-time error.
 

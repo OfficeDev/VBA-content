@@ -25,7 +25,7 @@ Closes the object.
 
 ## Remarks
 
-Closing a workbook from Visual Basic doesn't run any Auto_Close macros in the workbook. Use the  **[RunAutoMacros](workbook-runautomacros-method-excel.md)** method to run the auto close macros.
+Closing a workbook from Visual Basic doesn't run any Auto_Close macros in the workbook. Use the **[RunAutoMacros](workbook-runautomacros-method-excel.md)** method to run the auto close macros.
 
 
 ## Example

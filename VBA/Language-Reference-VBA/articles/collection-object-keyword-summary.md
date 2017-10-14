@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 |**Action**|**Keywords**|
 |:-----|:-----|
-|Create a  **Collection** object.|[Collection](collection-object.md)|
+|Create a **Collection** object.|[Collection](collection-object.md)|
 |Add an object to a collection.|[Add](add-method-visual-basic-for-applications.md)|
 |Remove an object from a collection.|[Remove](remove-method-visual-basic-for-applications.md)|
 |Reference an item in a collection.|[Item](item-method-visual-basic-for-applications.md)|

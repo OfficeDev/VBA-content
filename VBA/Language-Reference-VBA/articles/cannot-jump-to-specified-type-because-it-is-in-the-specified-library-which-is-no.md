@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 This error has the following causes and solutions:
 
 
-- You tried to specify a type in a library that isn't reference within the project. Set a reference to the type library through the  **References** dialog.
+- You tried to specify a type in a library that isn't reference within the project. Set a reference to the type library through the **References** dialog.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

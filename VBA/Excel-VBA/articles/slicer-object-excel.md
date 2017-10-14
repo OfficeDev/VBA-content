@@ -18,9 +18,9 @@ Represents a slicer in a workbook.
 
 ## Remarks
 
-Each  **Slicer** object represents a slicer in a workbook. Slicers are used to filter data in PivotTable reports or OLAP data sources.
+Each **Slicer** object represents a slicer in a workbook. Slicers are used to filter data in PivotTable reports or OLAP data sources.
 
-Use the  **[Add](slicers-add-method-excel.md)** method to add a **Slicer** object to the **[Slicers](slicers-object-excel.md)** collection. To access the **SlicerItem** object that represents the currently selected button in a slicer, use the **[ActiveItem](slicer-activeitem-property-excel.md)** property of the **Slicer** object.
+Use the **[Add](slicers-add-method-excel.md)** method to add a **Slicer** object to the **[Slicers](slicers-object-excel.md)** collection. To access the **SlicerItem** object that represents the currently selected button in a slicer, use the **[ActiveItem](slicer-activeitem-property-excel.md)** property of the **Slicer** object.
 
 
 ## Example

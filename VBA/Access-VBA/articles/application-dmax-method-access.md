@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DMax Method (Access)
 
-You can use  **DMax** function to determine maximum value in a specified set of records (a domain).
+You can use **DMax** function to determine maximum value in a specified set of records (a domain).
 
 
 ## Syntax
@@ -31,7 +31,7 @@ You can use  **DMax** function to determine maximum value in a specified set of 
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the field for which you want to find the minimum or maximum value. It can be a string expression identifying a field in a table or query, or it can be an expression that performs [calculation on data in that field](calculate-fields-in-domain-aggregate-functions.md). In  _expr_, you can include the name of a field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain. It can be a table name or a query name for a query that does not require a parameter.|
-| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DMax** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the word WHERE. If _criteria_ is omitted, the **DMax** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_, otherwise the  **DMax** function returns a **Null**.|
+| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the **DMax** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the word WHERE. If _criteria_ is omitted, the **DMax** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_, otherwise the **DMax** function returns a **Null**.|
 
 ### Return Value
 
@@ -40,18 +40,18 @@ Variant
 
 ## Remarks
 
-For example, you could use the  **DMax** function in calculated controls on a report to display largest order amount for a particular customer.
+For example, you could use the **DMax** function in calculated controls on a report to display largest order amount for a particular customer.
 
-The  **DMax** function returns the maximum value that satisfy _criteria_. If  _expr_ identifies numeric data, the **DMax** function returns numeric values. If _expr_ identifies string data, they return the string that is first or last alphabetically.
+The **DMax** function returns the maximum value that satisfy _criteria_. If  _expr_ identifies numeric data, the **DMax** function returns numeric values. If _expr_ identifies string data, they return the string that is first or last alphabetically.
 
-The  **DMax** function ignores **Null** values in the field referenced by _expr_. However, if no record satisfies  _criteria_ or if _domain_ contains no records, the **DMax** function returns a **Null**.
+The **DMax** function ignores **Null** values in the field referenced by _expr_. However, if no record satisfies  _criteria_ or if _domain_ contains no records, the **DMax** function returns a **Null**.
 
-You can use the  **DMax** function to specify criteria in the Criteria row of a query, in a calculated field expression in a query, or in the Update To row of an update query.
+You can use the **DMax** function to specify criteria in the Criteria row of a query, in a calculated field expression in a query, or in the Update To row of an update query.
 
 
- **Note**  You can use the  **DMax** function or the **Max** function in a calculated field expression of a totals query. If you use the **DMax** function, values are evaluated before the data is grouped. If you use the **Max** function, the data is grouped before values in the field expression are evaluated.
+ **Note**  You can use the **DMax** function or the **Max** function in a calculated field expression of a totals query. If you use the **DMax** function, values are evaluated before the data is grouped. If you use the **Max** function, the data is grouped before values in the field expression are evaluated.
 
-Use the  **DMax** function in a calculated control when you need to specify criteria to restrict the range of data on which the function is performed. For example, to display the maximum freight charged for an order shipped to California, set the **ControlSource** property of a text box to the following expression:
+Use the **DMax** function in a calculated control when you need to specify criteria to restrict the range of data on which the function is performed. For example, to display the maximum freight charged for an order shipped to California, set the **ControlSource** property of a text box to the following expression:
 
 
 
@@ -60,9 +60,9 @@ Use the  **DMax** function in a calculated control when you need to specify crit
 =DMax("[Freight]", "Orders", "[ShipRegion] = 'CA'")
 ```
 
-If you simply want to find the minimum or maximum value of all records in  _domain_, use the  **Min** or **Max** function.
+If you simply want to find the minimum or maximum value of all records in  _domain_, use the **Min** or **Max** function.
 
-Although you can use the  **DMin** or **DMax** function to find the minimum or maximum value from a field in a foreign table, it may be more efficient to create a query that contains the fields that you need from both tables and base your form or report on that query.
+Although you can use the **DMin** or **DMax** function to find the minimum or maximum value from a field in a foreign table, it may be more efficient to create a query that contains the fields that you need from both tables and base your form or report on that query.
 
  **Link provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
@@ -97,7 +97,7 @@ curX = DMax("[Freight]", "Orders", "[OrderDate] = #" _
 
 
 
-The following examples show how to use various types of criteria with the  **DMax** function.
+The following examples show how to use various types of criteria with the **DMax** function.
 
  **Sample code provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community

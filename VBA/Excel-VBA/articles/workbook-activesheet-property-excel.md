@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ActiveSheet Property (Excel)
 
-Returns an object that represents the active sheet (the sheet on top) in the active workbook or in the specified window or workbook. Returns  **Nothing** if no sheet is active.
+Returns an object that represents the active sheet (the sheet on top) in the active workbook or in the specified window or workbook. Returns **Nothing** if no sheet is active.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns an object that represents the active sheet (the sheet on top) in the act
 
 If you don't specify an object qualifier, this property returns the active sheet in the active workbook.
 
-If a workbook appears in more than one window, the  **ActiveSheet** property may be different in different windows.
+If a workbook appears in more than one window, the **ActiveSheet** property may be different in different windows.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.MarkAsTask Method (Outlook)
 
-Marks a  **[DistListItem](distlistitem-object-outlook.md)** object as a task and assigns a task interval for the object.
+Marks a **[DistListItem](distlistitem-object-outlook.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Marks a  **[DistListItem](distlistitem-object-outlook.md)** object as a task and
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)**|The task interval for the  **DistListItem** .|
+| _MarkInterval_|Required| **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)**|The task interval for the **DistListItem** .|
 
 ## Remarks
 

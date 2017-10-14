@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.LabelRange Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the cell (or cells) that contain the field label. Read-only
+Returns a **[Range](range-object-excel.md)** object that represents the cell (or cells) that contain the field label. Read-only
 
 
 ## Syntax

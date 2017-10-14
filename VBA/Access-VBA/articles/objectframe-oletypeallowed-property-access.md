@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.OLETypeAllowed Property (Access)
 
-You can use the  **OLETypeAllowed** property to specify the type of OLE object a control can contain. Read/write **Byte**.
+You can use the **OLETypeAllowed** property to specify the type of OLE object a control can contain. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **OLETypeAllowed** property to specify the type of OLE object a
 
 ## Remarks
 
-The  **OLETypeAllowed** property uses the following settings.
+The **OLETypeAllowed** property uses the following settings.
 
 
 
@@ -37,7 +37,7 @@ The  **OLETypeAllowed** property uses the following settings.
 
  **Note**   For unbound object frames and charts , you can't change the **OLETypeAllowed** setting after an object is created. For bound object frames, you can change the setting after the object is created. Changing the **OLETypeAllowed** property setting only affects new objects that you add to the control.
 
-To determine the type of OLE object a control already contains, you can use the  **OLEType** property.
+To determine the type of OLE object a control already contains, you can use the **OLEType** property.
 
 
 ## Example

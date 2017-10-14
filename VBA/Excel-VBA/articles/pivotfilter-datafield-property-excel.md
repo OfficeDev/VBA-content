@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.DataField Property (Excel)
 
-This property is applicable only to non-OLAP PivotTables and provides the  **Value** field (PivotField in the Values area) being filtered by for a value filter. Read/write **PivotField** .
+This property is applicable only to non-OLAP PivotTables and provides the **Value** field (PivotField in the Values area) being filtered by for a value filter. Read/write **PivotField** .
 
 
 ## Syntax

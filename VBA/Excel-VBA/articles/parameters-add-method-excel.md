@@ -30,11 +30,11 @@ Creates a new query parameter.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the specified parameter. The parameter name should match the parameter clause in the SQL statement.|
-| _iDataType_|Optional| **Variant**|The data type of the parameter. Can be any  **[XlParameterDataType](xlparameterdatatype-enumeration-excel.md)** constant. These values correspond to ODBC data types. They indicate the type of value the ODBC driver is expecting to receive. Microsoft Excel and the ODBC driver manager will coerce the parameter value given in Microsoft Excel into the correct data type for the driver.|
+| _iDataType_|Optional| **Variant**|The data type of the parameter. Can be any **[XlParameterDataType](xlparameterdatatype-enumeration-excel.md)** constant. These values correspond to ODBC data types. They indicate the type of value the ODBC driver is expecting to receive. Microsoft Excel and the ODBC driver manager will coerce the parameter value given in Microsoft Excel into the correct data type for the driver.|
 
 ### Return Value
 
-A  **[Parameter](parameter-object-excel.md)** object that represents the new query parameter.
+A **[Parameter](parameter-object-excel.md)** object that represents the new query parameter.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.ErrorMessage Property (Excel)
 
-Returns or sets the data validation error message. Read/write  **String** .
+Returns or sets the data validation error message. Read/write **String** .
 
 
 ## Syntax

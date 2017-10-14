@@ -25,11 +25,11 @@ Visual Basic can't determine what action to take. This error has the following c
     
     Check the spelling of the procedure name.
     
-- You tried to specify both  **Optional** and **ParamArray** in the same procedure declaration. A **ParamArray** argument can't be **Optional**. Choose one and delete the other.
+- You tried to specify both **Optional** and **ParamArray** in the same procedure declaration. A **ParamArray** argument can't be **Optional**. Choose one and delete the other.
     
-- You tried to define an event procedure with an  **Optional** or **ParamArray** parameter. Remove the **Optional** or **ParamArray** keyword from the parameter specification.
+- You tried to define an event procedure with an **Optional** or **ParamArray** parameter. Remove the **Optional** or **ParamArray** keyword from the parameter specification.
     
-- You tried to use a named argument in a  **RaiseEvent** statement. Events do not support named arguments.
+- You tried to use a named argument in a **RaiseEvent** statement. Events do not support named arguments.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

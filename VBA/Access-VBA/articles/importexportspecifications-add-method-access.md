@@ -29,7 +29,7 @@ Adds a new [ImportExportSpecification](importexportspecification-object-access.m
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required|**String**|The name to use for the  **ImportExportSpecification**.|
+| _Name_|Required|**String**|The name to use for the **ImportExportSpecification**.|
 | _SpecificationDefinition_|Required|**String**|The XML markup that represents the settings to save for the import or export operation.|
 
 ### Return Value

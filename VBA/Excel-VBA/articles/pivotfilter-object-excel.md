@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # PivotFilter Object (Excel)
 
-A PivotFilter is applied to a  **PivotField** object.
+A PivotFilter is applied to a **PivotField** object.
 
 
 ## Remarks
 
-Developers have the option of naming filters for reference since the index is not reliable. The  **DataField** property specifies the PivotField to base a value filter on.
+Developers have the option of naming filters for reference since the index is not reliable. The **DataField** property specifies the PivotField to base a value filter on.
 
 
 ## See also

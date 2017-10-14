@@ -25,7 +25,7 @@ Deletes the specified slicer cache and the slicers associated with it.
 
 ## Remarks
 
-To delete a particular slicer independently of the slicer cache, use the  **[Delete](slicer-delete-method-excel.md)** method of the **[Slicer](slicer-object-excel.md)** object instead.
+To delete a particular slicer independently of the slicer cache, use the **[Delete](slicer-delete-method-excel.md)** method of the **[Slicer](slicer-object-excel.md)** object instead.
 
 
 ## Example

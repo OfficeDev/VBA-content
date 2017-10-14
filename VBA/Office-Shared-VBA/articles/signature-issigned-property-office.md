@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Signature.IsSigned Property (Office)
 
-Gets a  **Boolean** value indicating whether the document was signed successfully. Read-only.
+Gets a **Boolean** value indicating whether the document was signed successfully. Read-only.
 
 
 ## Syntax

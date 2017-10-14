@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ChartGroup.BinsUnderflowValue Property (Excel)
 
-If an [BinsUnderflowEnabled](chartgroup-binsunderflowenabled-property-excel.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write  **Double**.
+If an [BinsUnderflowEnabled](chartgroup-binsunderflowenabled-property-excel.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.
 
 
 ## Syntax

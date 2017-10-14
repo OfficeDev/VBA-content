@@ -25,7 +25,7 @@ Retrieves the current data and schema for the list from the server that is runni
 
 ## Remarks
 
-Calling the  **Refresh** method does not commit changes to the list in the Excel workbook. Uncommitted changes in the list in Excel are discarded when the **Refresh** method is called.
+Calling the **Refresh** method does not commit changes to the list in the Excel workbook. Uncommitted changes in the list in Excel are discarded when the **Refresh** method is called.
 
 
 ## See also

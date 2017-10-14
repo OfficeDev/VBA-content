@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.RefreshPeriod Property (Excel)
 
-Returns or sets the number of minutes between refreshes. Read/write  **Long** .
+Returns or sets the number of minutes between refreshes. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number of minutes between refreshes. Read/write  **Long** .
 
 ## Remarks
 
-Setting the period to 0 (zero) disables automatic timed refreshes and is equivalent to setting this property to  **Null** . The value of the **RefreshPeriod** property can be an integer from 0 through 32767.
+Setting the period to 0 (zero) disables automatic timed refreshes and is equivalent to setting this property to **Null** . The value of the **RefreshPeriod** property can be an integer from 0 through 32767.
 
 
 ## See also

@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # GroupName Property Example
 
-The following example uses the  **GroupName** property to create two groups of **OptionButton** controls on the same form.
+The following example uses the **GroupName** property to create two groups of **OptionButton** controls on the same form.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains five  **OptionButton** controls named OptionButton1 through OptionButton5.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains five **OptionButton** controls named OptionButton1 through OptionButton5.
 
 
 

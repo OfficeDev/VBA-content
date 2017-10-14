@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowFiltering Property (Excel)
 
-Returns  **True** if the user is allowed to make use of an AutoFilter that was created before the sheet was protected. Read-only **Boolean** .
+Returns **True** if the user is allowed to make use of an AutoFilter that was created before the sheet was protected. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns  **True** if the user is allowed to make use of an AutoFilter that was c
 
 ## Remarks
 
-The  **AllowFiltering** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowFiltering** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
-The  **AllowFiltering** property allows the user to change filter criteria on an existing AutoFilter. The user cannot create or remove an AutoFilter on a protected worksheet.
+The **AllowFiltering** property allows the user to change filter criteria on an existing AutoFilter. The user cannot create or remove an AutoFilter on a protected worksheet.
 
 The cells to be filtered must be unlocked when the sheet is protected.
 

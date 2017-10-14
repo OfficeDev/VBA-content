@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkLabel.MousePointer Property (Outlook)
 
-Returns or sets an  **[OlMousePointer](olmousepointer-enumeration-outlook.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
+Returns or sets an **[OlMousePointer](olmousepointer-enumeration-outlook.md)** constant that specifies the type of pointer displayed when the user positions the mouse over the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlMousePointer](olmousepointer-enumeration-outlook.md)** 
 
 ## Remarks
 
-The default value is  **olMousePointerDefault** .
+The default value is **olMousePointerDefault** .
 
 
 ## See also

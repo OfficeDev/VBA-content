@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialogFilters.Item Method (Office)
 
-Gets a  **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.
+Gets a **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.
 
 
 ## Syntax

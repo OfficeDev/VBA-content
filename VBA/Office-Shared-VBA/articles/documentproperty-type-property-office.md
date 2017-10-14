@@ -25,7 +25,7 @@ Gets or sets the document property type. Read-only for built-in document propert
 
 ## Remarks
 
-The return value will be a  **MsoDocProperties** constant.
+The return value will be a **MsoDocProperties** constant.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowStartupDialog Property (Excel)
 
-Returns  **True** (default is **False** ) when the New Workbook task pane appears for a Microsoft Excel application. Read/write **Boolean** .
+Returns **True** (default is **False** ) when the New Workbook task pane appears for a Microsoft Excel application. Read/write **Boolean** .
 
 
 ## Syntax

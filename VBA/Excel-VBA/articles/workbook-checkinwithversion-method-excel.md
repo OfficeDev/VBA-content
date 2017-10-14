@@ -48,7 +48,7 @@ To take advantage of the collaboration features built into Microsoft Excel, docu
 
 ## Example
 
-The following example uses the  **[CanCheckIn](workbook-cancheckin-method-excel.md)** method to determine whether the workbook has been stored on a Microsoft SharePoint Server. If the workbook has been stored on a server, the example calls the **CheckInWithVersion** method to check in the workbook along with the specified comments and version number, save changes to the server location, and submit the workbook for the approval process.
+The following example uses the **[CanCheckIn](workbook-cancheckin-method-excel.md)** method to determine whether the workbook has been stored on a Microsoft SharePoint Server. If the workbook has been stored on a server, the example calls the **CheckInWithVersion** method to check in the workbook along with the specified comments and version number, save changes to the server location, and submit the workbook for the approval process.
 
 This example is for a workbook-level customization.
 

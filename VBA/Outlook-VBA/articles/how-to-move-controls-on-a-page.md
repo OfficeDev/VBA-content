@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # How to: Move Controls on a Page
 
-The following example demonstrates moving all the controls on a form by using the  **Move** method with the Microsoft Forms 2.0 **Controls** collection. The user clicks on the **[CommandButton](commandbutton-object-outlook-forms-script.md)** to move the controls.
+The following example demonstrates moving all the controls on a form by using the **Move** method with the Microsoft Forms 2.0 **Controls** collection. The user clicks on the **[CommandButton](commandbutton-object-outlook-forms-script.md)** to move the controls.
 
-To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a  **CommandButton** named CommandButton1 and several other controls.
+To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains a **CommandButton** named CommandButton1 and several other controls.
 
 
 

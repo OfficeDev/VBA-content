@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Causes the current project to be written as a DLL. The DLL name is specified by the  **BuildFileName** property.
+Causes the current project to be written as a DLL. The DLL name is specified by the **BuildFileName** property.
  **Syntax**
  _object_. **MakeCompiledFile**
 The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.

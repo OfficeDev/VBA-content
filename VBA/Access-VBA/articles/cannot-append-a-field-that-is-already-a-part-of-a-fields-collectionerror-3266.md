@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-A  **Field** object was specified as an argument to an **Append** operation when it already is a member of an existing **Fields** collection. Use the **Dim** statement and **CreateField** method to declare a new **Field** object and specify its values, and retry the operation with the new **Field** object.
+A **Field** object was specified as an argument to an **Append** operation when it already is a member of an existing **Fields** collection. Use the **Dim** statement and **CreateField** method to declare a new **Field** object and specify its values, and retry the operation with the new **Field** object.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

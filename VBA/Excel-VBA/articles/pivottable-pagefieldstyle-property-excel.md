@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PageFieldStyle Property (Excel)
 
-Returns or sets the style used in the bound page field area. The default value is a null string (no style is applied by default). Read/write  **String** .
+Returns or sets the style used in the bound page field area. The default value is a null string (no style is applied by default). Read/write **String** .
 
 
 ## Syntax

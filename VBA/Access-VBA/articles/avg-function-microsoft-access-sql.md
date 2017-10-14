@@ -34,11 +34,11 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
-The average calculated by  **Avg** is the arithmetic mean (the sum of the values divided by the number of values). You could use **Avg**, for example, to calculate average freight cost.
+The average calculated by **Avg** is the arithmetic mean (the sum of the values divided by the number of values). You could use **Avg**, for example, to calculate average freight cost.
 
-The  **Avg** function does not include any **Null** fields in the calculation.
+The **Avg** function does not include any **Null** fields in the calculation.
 
-You can use  **Avg** in a query expression and in the **SQL** property of a **QueryDef** object or when creating a Recordset object based on an SQL query.
+You can use **Avg** in a query expression and in the **SQL** property of a **QueryDef** object or when creating a Recordset object based on an SQL query.
 
 
 ## Example

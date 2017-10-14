@@ -34,7 +34,7 @@ Creates a new embedded chart.
 
 ### Return Value
 
-A  **[ChartObject](chartobject-object-excel.md)** object that represents the new embedded chart.
+A **[ChartObject](chartobject-object-excel.md)** object that represents the new embedded chart.
 
 
 ## Example

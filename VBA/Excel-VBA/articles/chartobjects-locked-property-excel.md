@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObjects.Locked Property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if the objects are locked.
+Returns or sets a **Boolean** value that indicates if the objects are locked.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Returns or sets a  **Boolean** value that indicates if the objects are locked.
 
 ## Remarks
 
-This property returns  **True** if the objects are locked or **False** if the objects can be modified when the sheet is protected.
+This property returns **True** if the objects are locked or **False** if the objects can be modified when the sheet is protected.
 
 

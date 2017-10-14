@@ -25,11 +25,11 @@ Returns the sort criteria for the query table range. Read-only.
 
 ## Remarks
 
-If you import data using the user interface, data from Web queries or text queries is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from Web queries or text queries is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from Web queries or text queries must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from Web queries or text queries must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **QueryTable** property of the **ListObject** to access the **Sort** property.
+You can use the **QueryTable** property of the **ListObject** to access the **Sort** property.
 
 
 ## Example

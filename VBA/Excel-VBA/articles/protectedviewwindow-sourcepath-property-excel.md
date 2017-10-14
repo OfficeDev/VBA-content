@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.SourcePath Property (Excel)
 
-Returns the path of the source file that is open in the specified  **Protected View** window. Read-only
+Returns the path of the source file that is open in the specified **Protected View** window. Read-only
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns the path of the source file that is open in the specified  **Protected V
 
 ## Remarks
 
-The path does not include a trailing character (for example, "C:\MSOffice"). Use the  **[PathSeparator](application-pathseparator-property-excel.md)** property to add the character that separates folders and drive letters. Use the **[SourceName](protectedviewwindow-sourcename-property-excel.md)** of the **ProtectedViewWindow** object to return the source file name without the path.
+The path does not include a trailing character (for example, "C:\MSOffice"). Use the **[PathSeparator](application-pathseparator-property-excel.md)** property to add the character that separates folders and drive letters. Use the **[SourceName](protectedviewwindow-sourcename-property-excel.md)** of the **ProtectedViewWindow** object to return the source file name without the path.
 
 
 ## Example

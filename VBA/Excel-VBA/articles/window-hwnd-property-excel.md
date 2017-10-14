@@ -11,7 +11,7 @@ ms.prod: excel
 
 # Window.Hwnd Property (Excel)
 
-Returns a  **Long** that indicates the window handle of the specified window. Read-only.
+Returns a **Long** that indicates the window handle of the specified window. Read-only.
 
 
 ## Syntax

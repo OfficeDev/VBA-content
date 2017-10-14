@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](pictureeffects-application-property-office.md)|Gets an  **Application** object that represents the container application for the **PictureEffects** object. Read-only|
-|[Count](pictureeffects-count-property-office.md)|Retrieves the count of the number of  **PictureEffect** objects contained within the **PictureEffects** collection. Read-only|
-|[Creator](pictureeffects-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **PictureEffects** object was created. Read-only|
-|[Item](pictureeffects-item-property-office.md)|Retrieves a  **PictureEffect** object at the specified index. Read-only|
+|[Application](pictureeffects-application-property-office.md)|Gets an **Application** object that represents the container application for the **PictureEffects** object. Read-only|
+|[Count](pictureeffects-count-property-office.md)|Retrieves the count of the number of **PictureEffect** objects contained within the **PictureEffects** collection. Read-only|
+|[Creator](pictureeffects-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **PictureEffects** object was created. Read-only|
+|[Item](pictureeffects-item-property-office.md)|Retrieves a **PictureEffect** object at the specified index. Read-only|
 

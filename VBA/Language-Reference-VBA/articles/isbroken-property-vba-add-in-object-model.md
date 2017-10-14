@@ -15,11 +15,11 @@ ms.date: 06/08/2017
 
 Returns a [Boolean](vbe-glossary.md) value indicating whether or not the **Reference** object points to a valid reference in the[registry](vbe-glossary.md). Read-only.
  **Return Values**
-The  **IsBroken** property returns these values:
+The **IsBroken** property returns these values:
 
 
 |**Value**|**Description**|
 |:-----|:-----|
-|**True**|The  **Reference** object no longer points to a valid reference in the registry.|
-|**False**|The  **Reference** object points to a valid reference in the registry.|
+|**True**|The **Reference** object no longer points to a valid reference in the registry.|
+|**False**|The **Reference** object points to a valid reference in the registry.|
 

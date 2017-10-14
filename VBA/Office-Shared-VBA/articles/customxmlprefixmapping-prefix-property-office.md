@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPrefixMapping.Prefix Property (Office)
 
-Gets the prefix for a  **CustomXMLPrefixMapping** object. Read-only.
+Gets the prefix for a **CustomXMLPrefixMapping** object. Read-only.
 
 
 ## Syntax

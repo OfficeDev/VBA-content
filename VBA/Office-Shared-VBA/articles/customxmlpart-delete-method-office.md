@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.Delete Method (Office)
 
-Deletes the current  **CustomXMLPart** from the data store ( **IXMLDataStore** interface).
+Deletes the current **CustomXMLPart** from the data store ( **IXMLDataStore** interface).
 
 
 ## Syntax

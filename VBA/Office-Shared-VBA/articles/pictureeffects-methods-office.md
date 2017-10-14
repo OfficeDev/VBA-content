@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Delete](pictureeffects-delete-method-office.md)|Deletes a  **PictureEffect** object from the collection.|
+|[Delete](pictureeffects-delete-method-office.md)|Deletes a **PictureEffect** object from the collection.|
 |[Insert](pictureeffects-insert-method-office.md)|Inserts a Picture Effect in a chain of composite effects.|
 

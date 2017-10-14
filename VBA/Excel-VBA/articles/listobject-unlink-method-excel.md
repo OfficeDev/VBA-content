@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Unlink Method (Excel)
 
-Removes the link to a Microsoft SharePoint Foundation site from a list. Returns  **Nothing** .
+Removes the link to a Microsoft SharePoint Foundation site from a list. Returns **Nothing** .
 
 
 ## Syntax

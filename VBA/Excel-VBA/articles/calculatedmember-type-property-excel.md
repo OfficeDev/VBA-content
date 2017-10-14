@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalculatedMember.Type Property (Excel)
 
-Returns a  **[XlCalculatedMemberType](xlcalculatedmembertype-enumeration-excel.md)** value that represents the calculated member type.
+Returns a **[XlCalculatedMemberType](xlcalculatedmembertype-enumeration-excel.md)** value that represents the calculated member type.
 
 
 ## Syntax

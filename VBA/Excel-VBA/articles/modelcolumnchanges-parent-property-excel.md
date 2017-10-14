@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelColumnChanges.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelColumnChanges Object (Excel)](modelcolumnchanges-object-excel.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified[ModelColumnChanges Object (Excel)](modelcolumnchanges-object-excel.md) object. Read-only.
 
 
 ## Syntax

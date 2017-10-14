@@ -37,17 +37,17 @@ Creates a document workspace site on the server and adds the active document to 
 
 ## Remarks
 
-Use the  **CreateNew** method to create a shared workspace site for the active document. Omit the 2 optional arguments to create the site using the name of the active document in the user's default server location.
+Use the **CreateNew** method to create a shared workspace site for the active document. Omit the 2 optional arguments to create the site using the name of the active document in the user's default server location.
 
-The  **CreateNew** method raises an error if the active document has changes that have not been saved. The document must be saved before you can add it to a shared workspace site.
+The **CreateNew** method raises an error if the active document has changes that have not been saved. The document must be saved before you can add it to a shared workspace site.
 
 
- **Note**  Immediately after creating a shared workspace site and then creating the active document in the site, the active document is closed and then reopened so that the copy of the active document that the user sees is the one located in the site. If the active document was saved prior to invoking the  **CreateNew** method, that copy of the document is unavailable for the period of time while the new copy is created. This causes an exception for any code that tries to access the saved copy during the creation time period. One workaround is to impose a short delay (suggested 15 seconds or more) before attempting to access the active document from any script. In addition, any cached object that points to the local document msut be updated to point to the document in the shared workspace site.
+ **Note**  Immediately after creating a shared workspace site and then creating the active document in the site, the active document is closed and then reopened so that the copy of the active document that the user sees is the one located in the site. If the active document was saved prior to invoking the **CreateNew** method, that copy of the document is unavailable for the period of time while the new copy is created. This causes an exception for any code that tries to access the saved copy during the creation time period. One workaround is to impose a short delay (suggested 15 seconds or more) before attempting to access the active document from any script. In addition, any cached object that points to the local document msut be updated to point to the document in the shared workspace site.
 
 
 ## Example
 
-The following example creates a shared workspace site at the URL http://server/sites/mysite/, names the workspace "My Shared Budget Document", and adds the active document to the site. The  **URL** property of the new shared workspace site returns http://server/sites/mysite/My%20Shared%20Budget%20Document/, the **Name** property returns "My Shared Budget Document, and **Count** property of the **SharedWorkspaceFiles** collection shows a single file.
+The following example creates a shared workspace site at the URL http://server/sites/mysite/, names the workspace "My Shared Budget Document", and adds the active document to the site. The **URL** property of the new shared workspace site returns http://server/sites/mysite/My%20Shared%20Budget%20Document/, the **Name** property returns "My Shared Budget Document, and **Count** property of the **SharedWorkspaceFiles** collection shows a single file.
 
 
 ```

@@ -33,7 +33,7 @@ The focus on the control is subtle. After you use this method, you will notice a
 
 ## Example
 
-This example creates a command bar named "Custom" and adds a  **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
+This example creates a command bar named "Custom" and adds a **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
 
 
 ```

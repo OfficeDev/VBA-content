@@ -15,7 +15,7 @@ Not all [arrays](vbe-glossary.md) can be redimensioned. Even arrays specifically
 
 
 
-- You tried to use  **ReDim** to change the number of elements of a fixed-size array . For example, in the following code, the fixed array `FixedArr` is received by `SomeArr` in the `NextOne` procedure, and then an attempt is made to resize `SomeArr`:
+- You tried to use **ReDim** to change the number of elements of a fixed-size array . For example, in the following code, the fixed array `FixedArr` is received by `SomeArr` in the `NextOne` procedure, and then an attempt is made to resize `SomeArr`:
     
 ```vb
 Sub FirstOne 
@@ -52,7 +52,7 @@ End Sub
 
     There is no need to pass an element of the module-level array in this case, since it's visible within all procedures in the module. However, if an element is passed, the array is locked to prevent a deallocation of memory for the reference [parameter](vbe-glossary.md) within the procedure, causing unpredictable behavior when the procedure returns.
     
-- You attempted to assign a value to a  **Variant** variable containing an array, but the **Variant** is currently locked. For example, if your code uses a **For Each...Next** loop to iterate over a variant containing an array, the array is locked on entry into the loop, and then released at the termination of the loop:
+- You attempted to assign a value to a **Variant** variable containing an array, but the **Variant** is currently locked. For example, if your code uses a **For Each...Next** loop to iterate over a variant containing an array, the array is locked on entry into the loop, and then released at the termination of the loop:
     
 ```vb
 SomeArray = Array(9,8,7,6,5,4,3,2,1) 

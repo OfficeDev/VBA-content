@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ScrollRow Property (Excel)
 
-Returns or sets the number of the row that appears at the top of the pane or window. Read/write  **Long** .
+Returns or sets the number of the row that appears at the top of the pane or window. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number of the row that appears at the top of the pane or win
 
 ## Remarks
 
-If the window is split, the  **ScrollRow** property of the **[Window](window-object-excel.md)** object refers to the upper-left pane. If the panes are frozen, the **ScrollRow** property of the **Window** object excludes the frozen areas.
+If the window is split, the **ScrollRow** property of the **[Window](window-object-excel.md)** object refers to the upper-left pane. If the panes are frozen, the **ScrollRow** property of the **Window** object excludes the frozen areas.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # COMAddIn.Connect Property (Office)
 
-Gets or sets the state of the connection for the specified  **COMAddIn** object. Read/write.
+Gets or sets the state of the connection for the specified **COMAddIn** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the state of the connection for the specified  **COMAddIn** object.
 
 ## Remarks
 
-The  **Connect** property returns **True** if the add-in is active; it returns **False** if the add-in is inactive. An active add-in is registered and connected; an inactive add-in is registered but not currently connected.
+The **Connect** property returns **True** if the add-in is active; it returns **False** if the add-in is inactive. An active add-in is registered and connected; an inactive add-in is registered but not currently connected.
 
 
 ## Example

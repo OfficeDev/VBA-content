@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-User-defined  **Property** objects cannot be set to **Null**. Instead, use the **Delete** method on the property to remove it from its collection.
+User-defined **Property** objects cannot be set to **Null**. Instead, use the **Delete** method on the property to remove it from its collection.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

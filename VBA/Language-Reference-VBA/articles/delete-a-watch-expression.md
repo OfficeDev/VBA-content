@@ -17,11 +17,11 @@ ms.date: 06/08/2017
 
 - Select the [watch expression](vbe-glossary.md) and press DELETE.
     
-- Select the expression and choose  **Clear** from the **Edit** menu.
+- Select the expression and choose **Clear** from the **Edit** menu.
     
-- Select the expression, choose  **Edit Watch** from the **Debug** menu, and then press DELETE.
+- Select the expression, choose **Edit Watch** from the **Debug** menu, and then press DELETE.
     
-- Right-click the expression and choose  **Delete Watch** from the context menu.
+- Right-click the expression and choose **Delete Watch** from the context menu.
     
 
 

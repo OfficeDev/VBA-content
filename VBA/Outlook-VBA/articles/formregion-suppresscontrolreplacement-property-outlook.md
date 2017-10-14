@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.SuppressControlReplacement Property (Outlook)
 
-Returns or sets a  **Boolean** that disables Outlook from automatically replacing a Forms 2.0 control by a themed Outlook control at design time and runtime. Read/write.
+Returns or sets a **Boolean** that disables Outlook from automatically replacing a Forms 2.0 control by a themed Outlook control at design time and runtime. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.PrintQuality Property (Access)
 
-Returns or sets an  **[AcPrintObjQuality](acprintobjquality-enumeration-access.md)** constant indicating the resolution at which the specified printer should print jobs. Read/write.
+Returns or sets an **[AcPrintObjQuality](acprintobjquality-enumeration-access.md)** constant indicating the resolution at which the specified printer should print jobs. Read/write.
 
 
 ## Syntax

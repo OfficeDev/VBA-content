@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.PathName Property (Outlook)
 
-Returns a  **String** representing the full path to the linked attached file. Read-only.
+Returns a **String** representing the full path to the linked attached file. Read-only.
 
 
 ## Syntax

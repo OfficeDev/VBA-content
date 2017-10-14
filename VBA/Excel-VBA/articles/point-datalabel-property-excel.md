@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.DataLabel Property (Excel)
 
-Returns a  **[DataLabel](datalabel-object-excel.md)** object that represents the data label associated with the point. Read-only.
+Returns a **[DataLabel](datalabel-object-excel.md)** object that represents the data label associated with the point. Read-only.
 
 
 ## Syntax

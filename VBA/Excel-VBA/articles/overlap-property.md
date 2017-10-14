@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Overlap Property
 
-Specifies how bars and columns are positioned. Can be a value between -100 and 100. Applies only to 2-D bar and 2-D column charts. Read/write  **Long**.
+Specifies how bars and columns are positioned. Can be a value between -100 and 100. Applies only to 2-D bar and 2-D column charts. Read/write **Long**.
 
 
 ## Remarks

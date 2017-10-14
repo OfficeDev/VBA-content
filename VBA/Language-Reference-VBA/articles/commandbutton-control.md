@@ -15,9 +15,9 @@ ms.date: 06/08/2017
 
 Starts, ends, or interrupts an action or series of actions.
  **Remarks**
-The macro or event procedure assigned to the  **CommandButton's** Click event determines what the **CommandButton** does. For example, you can create a **CommandButton** that opens another form. You can also display text, a picture, or both on a **CommandButton**.
-The default property of a  **CommandButton** is the **Value** property.
-The default event for a  **CommandButton** is the Click event.
+The macro or event procedure assigned to the **CommandButton's** Click event determines what the **CommandButton** does. For example, you can create a **CommandButton** that opens another form. You can also display text, a picture, or both on a **CommandButton**.
+The default property of a **CommandButton** is the **Value** property.
+The default event for a **CommandButton** is the Click event.
 
 ## Related Topics
 

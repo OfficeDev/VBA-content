@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Delete <item> Command (Shortcut Menu)
 
-Deletes the selected item from the  **Toolbox**. You can add the item again using the **Additional Controls** command on the shortcut menu.
+Deletes the selected item from the **Toolbox**. You can add the item again using the **Additional Controls** command on the shortcut menu.
 
 

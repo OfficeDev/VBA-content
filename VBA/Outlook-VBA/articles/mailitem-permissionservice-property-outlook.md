@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.PermissionService Property (Outlook)
 
-Sets or returns an  **[OlPermissionService](olpermissionservice-enumeration-outlook.md)** constant that determines the permission service that will be used when sending a message protected by Information Rights Management (IRM). Read/write.
+Sets or returns an **[OlPermissionService](olpermissionservice-enumeration-outlook.md)** constant that determines the permission service that will be used when sending a message protected by Information Rights Management (IRM). Read/write.
 
 
 ## Syntax

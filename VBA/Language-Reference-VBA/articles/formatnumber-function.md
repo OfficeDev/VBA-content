@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 Returns an expression formatted as a number.
  **Syntax**
  **FormatNumber(**_Expression_ [ **,**_NumDigitsAfterDecimal_ [ **,**_IncludeLeadingDigit_ [ **,**_UseParensForNegativeNumbers_ [ **,**_GroupDigits_ ]]]] **)**
-The  **FormatNumber** function syntax has these parts:
+The **FormatNumber** function syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -39,6 +39,6 @@ The  _IncludeLeadingDigit_, _UseParensForNegativeNumbers_, and _GroupDigits_ arg
  **Remarks**
 When one or more optional arguments are omitted, the values for omitted arguments are provided by the computer's regional settings.
 
- **Note**  All settings information comes from the  **Regional Settings Number** tab.
+ **Note**  All settings information comes from the **Regional Settings Number** tab.
 
 

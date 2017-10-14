@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 
 
-Specifies the symbol displayed on the drop button in a  **ComboBox**.
+Specifies the symbol displayed on the drop button in a **ComboBox**.
  **Syntax**
  _object_. **DropButtonStyle** [= _fmDropButtonStyle_ ]
-The  **DropButtonStyle** property syntax has these parts:
+The **DropButtonStyle** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -36,5 +36,5 @@ The settings for  _fmDropButtonStyle_ are:
 | _fmDropButtonStyleEllipsis_|2|Displays an ellipsis (...).|
 | _fmDropButtonStyleReduce_|3|Displays a horizontal line like an underscore character.|
  **Remarks**
-The recommended setting for showing items in a list is  **fmDropButtonStyleArrow**. If you want to use the drop button in another way, such as to display a dialog box, specify **fmDropButtonStyleEllipsis**, **fmDropButtonStylePlain**, or **fmDropButtonStyleReduce** and trap the DropButtonClick event.
+The recommended setting for showing items in a list is **fmDropButtonStyleArrow**. If you want to use the drop button in another way, such as to display a dialog box, specify **fmDropButtonStyleEllipsis**, **fmDropButtonStylePlain**, or **fmDropButtonStyleReduce** and trap the DropButtonClick event.
 

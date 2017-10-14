@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetStoreFromID Method (Outlook)
 
-Returns a  **[Store](store-object-outlook.md)** object that represents the store specified by _ID_ .
+Returns a **[Store](store-object-outlook.md)** object that represents the store specified by _ID_ .
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Returns a  **[Store](store-object-outlook.md)** object that represents the store
 
 ### Return Value
 
-A  **Store** object that has the **[StoreID](store-storeid-property-outlook.md)** property matching _ID_ .
+A **Store** object that has the **[StoreID](store-storeid-property-outlook.md)** property matching _ID_ .
 
 
 ## Remarks
 
-The  **StoreID** property of a **Store** is unique to the profile for the session. It is equivalent to the MAPI property **PR_STORE_ENTRY_ID** .
+The **StoreID** property of a **Store** is unique to the profile for the session. It is equivalent to the MAPI property **PR_STORE_ENTRY_ID** .
 
 The store must be mounted in order for this method to succeed.
 

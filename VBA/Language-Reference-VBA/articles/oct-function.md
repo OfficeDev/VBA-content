@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) representing the octal value of a number.
+Returns a **Variant** ( **String** ) representing the octal value of a number.
  **Syntax**
  **Oct** ( _number_ )
 The required  _number_[argument](vbe-glossary.md) is any valid[numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md).
@@ -30,7 +30,7 @@ You can represent octal numbers directly by preceding numbers in the proper rang
 
 ## Example
 
-This example uses the  **Oct** function to return the octal value of a number.
+This example uses the **Oct** function to return the octal value of a number.
 
 
 ```vb

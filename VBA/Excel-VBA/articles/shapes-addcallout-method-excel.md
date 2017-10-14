@@ -50,7 +50,7 @@ Shape
 | **msoCalloutMixed** .|
 | **msoCalloutThree** . A two-segment line.|
 | **msoCalloutFour** . A three-segment line.|
-You can insert a greater variety of callouts by using the  **[AddShape](shapes-addshape-method-excel.md)** method.
+You can insert a greater variety of callouts by using the **[AddShape](shapes-addshape-method-excel.md)** method.
 
 
 ## Example

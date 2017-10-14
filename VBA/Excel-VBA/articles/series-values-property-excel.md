@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Values Property (Excel)
 
-Returns or sets a  **Variant** value that represents a collection of all the values in the series.
+Returns or sets a **Variant** value that represents a collection of all the values in the series.
 
 
 ## Syntax

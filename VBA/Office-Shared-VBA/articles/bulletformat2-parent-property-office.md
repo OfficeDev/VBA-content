@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # BulletFormat2.Parent Property (Office)
 
-Gets the parent of the  **BulletFormat2** object. Read-only.
+Gets the parent of the **BulletFormat2** object. Read-only.
 
 
 ## Syntax

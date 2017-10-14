@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CreateGroupLevel Method (Access)
 
-You can use the  **CreateGroupLevel** method to specify a field or expression on which to group or sort data in a report. .
+You can use the **CreateGroupLevel** method to specify a field or expression on which to group or sort data in a report. .
 
 
 ## Syntax
@@ -41,17 +41,17 @@ Long
 
 ## Remarks
 
-For example, suppose you are building a custom wizard that provides the user with a choice of fields on which to group data when designing a report. Call the  **CreateGroupLevel** method from your wizard to create the appropriate groups according to the user's choice.
+For example, suppose you are building a custom wizard that provides the user with a choice of fields on which to group data when designing a report. Call the **CreateGroupLevel** method from your wizard to create the appropriate groups according to the user's choice.
 
-You can use the  **CreateGroupLevel** method when designing a wizard that creates a report with groups or totals. The **CreateGroupLevel** method groups or sorts data on the specified field or expression and creates a header and/or footer for the group level.
+You can use the **CreateGroupLevel** method when designing a wizard that creates a report with groups or totals. The **CreateGroupLevel** method groups or sorts data on the specified field or expression and creates a header and/or footer for the group level.
 
-The  **CreateGroupLevel** method is available only in report Design view.
+The **CreateGroupLevel** method is available only in report Design view.
 
-Microsoft Access uses an array, the  **[GroupLevel](report-grouplevel-property-access.md)** property array, to keep track of the group levels created for a report. The **CreateGroupLevel** method adds a new group level to the array, based on the _expression_ argument. The **CreateGroupLevel** method then returns an index value that represents the new group level's position in the array. The first field or expression you sort or group on is level 0, the second is level 1, and so on. You can have up to ten group levels in a report (0 to 9).
+Microsoft Access uses an array, the **[GroupLevel](report-grouplevel-property-access.md)** property array, to keep track of the group levels created for a report. The **CreateGroupLevel** method adds a new group level to the array, based on the _expression_ argument. The **CreateGroupLevel** method then returns an index value that represents the new group level's position in the array. The first field or expression you sort or group on is level 0, the second is level 1, and so on. You can have up to ten group levels in a report (0 to 9).
 
 When you specify that either the  _header_ or _footer_ argument, or both, is **True**, the **[GroupHeader](grouplevel-groupheader-property-access.md)** and **[GroupFooter](grouplevel-groupfooter-property-access.md)** properties in a report are set to Yes, and a header and/or footer is created for the group level.
 
-Once a header or footer is created, you can set other GroupLevel properties:  **[GroupOn](grouplevel-groupon-property-access.md)**, **[GroupInterval](grouplevel-groupinterval-property-access.md)**, and **[KeepTogether](grouplevel-keeptogether-property-access.md)**.
+Once a header or footer is created, you can set other GroupLevel properties: **[GroupOn](grouplevel-groupon-property-access.md)**, **[GroupInterval](grouplevel-groupinterval-property-access.md)**, and **[KeepTogether](grouplevel-keeptogether-property-access.md)**.
 
 
  **Note**  If your wizard creates group levels in a new or existing report, it must open the report in Design view.

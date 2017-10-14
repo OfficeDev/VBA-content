@@ -18,7 +18,7 @@ Left aligns a string within a string [variable](vbe-glossary.md), or copies a va
  **LSet**_stringvar_**=**_string_
 
  **LSet**_varname1_**=**_varname2_
-The  **LSet** statement syntax has these parts:
+The **LSet** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -30,12 +30,12 @@ The  **LSet** statement syntax has these parts:
  **Remarks**
  **LSet** replaces any leftover characters in _stringvar_ with spaces.
 If  _string_ is longer than _stringvar_, **LSet** places only the leftmost characters, up to the length of the _stringvar,_ in _stringvar_.
-Using  **LSet** to copy a variable of one user-defined type into a variable of a different user-defined type is not recommended. Copying data of one[data type](vbe-glossary.md) into space reserved for a different data type can cause unpredictable results.
+Using **LSet** to copy a variable of one user-defined type into a variable of a different user-defined type is not recommended. Copying data of one[data type](vbe-glossary.md) into space reserved for a different data type can cause unpredictable results.
 When you copy a variable from one user-defined type to another, the binary data from one variable is copied into the memory space of the other, without regard for the data types specified for the elements.
 
 ## Example
 
-This example uses the  **LSet** statement to left align a string within a string variable. Although **LSet** can also be used to copy a variable of one user-defined type to another variable of a different, but compatible, user-defined type, this practice is not recommended. Due to the varying implementations of data structures among platforms, such a use of **LSet** can't be guaranteed to be portable.
+This example uses the **LSet** statement to left align a string within a string variable. Although **LSet** can also be used to copy a variable of one user-defined type to another variable of a different, but compatible, user-defined type, this practice is not recommended. Due to the varying implementations of data structures among platforms, such a use of **LSet** can't be guaranteed to be portable.
 
 
 ```vb

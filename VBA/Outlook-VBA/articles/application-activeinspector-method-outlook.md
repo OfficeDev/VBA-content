@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveInspector Method (Outlook)
 
-Returns the topmost  **[Inspector](inspector-object-outlook.md)** object on the desktop.
+Returns the topmost **[Inspector](inspector-object-outlook.md)** object on the desktop.
 
 
 ## Syntax
@@ -25,19 +25,19 @@ Returns the topmost  **[Inspector](inspector-object-outlook.md)** object on the 
 
 ### Return Value
 
-An  **Inspector** that represents the topmost inspector on the desktop.
+An **Inspector** that represents the topmost inspector on the desktop.
 
 
 ## Remarks
 
  Use this method to access the **Inspector** object that the user is most likely to be viewing.
 
-If no inspector is active, returns  **Nothing** .
+If no inspector is active, returns **Nothing** .
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[ActiveInspector](application-activeinspector-method-outlook.md)** method to obtain the currently active **[Inspector](inspector-object-outlook.md)** object. The example saves and closes the item displayed in the active inspector without prompting the user. To run this example, you need to have an item displayed in an inspector window.
+This Visual Basic for Applications (VBA) example uses the **[ActiveInspector](application-activeinspector-method-outlook.md)** method to obtain the currently active **[Inspector](inspector-object-outlook.md)** object. The example saves and closes the item displayed in the active inspector without prompting the user. To run this example, you need to have an item displayed in an inspector window.
 
 
 ```vb

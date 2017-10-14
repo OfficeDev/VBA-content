@@ -18,9 +18,9 @@ Represents an empty cell in a control layout.
 
 ## Remarks
 
-An  **EmptyCell** object is created when a control layout contains an empty cell. You cannot explicitly create or delete an **EmptyCell** object.
+An **EmptyCell** object is created when a control layout contains an empty cell. You cannot explicitly create or delete an **EmptyCell** object.
 
-When you type inside an empty cell, Microsoft Access automatically inserts a  **[Label](label-object-access.md)** control.
+When you type inside an empty cell, Microsoft Access automatically inserts a **[Label](label-object-access.md)** control.
 
 
 ## Methods

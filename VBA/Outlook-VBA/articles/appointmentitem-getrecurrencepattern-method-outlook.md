@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.GetRecurrencePattern Method (Outlook)
 
-Returns a  **[RecurrencePattern](recurrencepattern-object-outlook.md)** object that represents the recurrence attributes of an appointment.
+Returns a **[RecurrencePattern](recurrencepattern-object-outlook.md)** object that represents the recurrence attributes of an appointment.
 
 
 ## Syntax
@@ -25,23 +25,23 @@ Returns a  **[RecurrencePattern](recurrencepattern-object-outlook.md)** object t
 
 ### Return Value
 
-A  **RecurrencePattern** object that represents the recurrence attributes of an appointment.
+A **RecurrencePattern** object that represents the recurrence attributes of an appointment.
 
 
 ## Remarks
 
-If there is no existing recurrence pattern, a new empty  **RecurrencePattern** object is returned.
+If there is no existing recurrence pattern, a new empty **RecurrencePattern** object is returned.
 
-When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **[AppointmentItem](appointmentitem-object-outlook.md)** object, and any **[Exception](exception-object-outlook.md)** or **RecurrencePattern** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing** . In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
+When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring **[AppointmentItem](appointmentitem-object-outlook.md)** object, and any **[Exception](exception-object-outlook.md)** or **RecurrencePattern** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing** . In C#, explicitly release the memory for that object. For a code example, see the topic for the **AppointmentItem** object.
 
 Note that even after you release your reference and attempt to obtain a new reference, if there is still an active reference, held by another add-in or Outlook, to one of the above objects, your new reference will still point to an out-of-date copy of the object. Therefore, it is important that you release your references as soon as you are finished with the recurring appointment.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an **AppointmentItem** object. The **RecurrencePattern** is obtained for this item using the **GetRecurrencePattern** method. By setting the **RecurrencePattern** properties, **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** , **[PatternStartDate](recurrencepattern-patternstartdate-property-outlook.md)** , and **[PatternEndDate](recurrencepattern-patternenddate-property-outlook.md)** , the appointments are now a recurring series that occur on a daily basis for the period of one year.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](application-createitem-method-outlook.md)** to create an **AppointmentItem** object. The **RecurrencePattern** is obtained for this item using the **GetRecurrencePattern** method. By setting the **RecurrencePattern** properties, **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** , **[PatternStartDate](recurrencepattern-patternstartdate-property-outlook.md)** , and **[PatternEndDate](recurrencepattern-patternenddate-property-outlook.md)** , the appointments are now a recurring series that occur on a daily basis for the period of one year.
 
-An  **Exception** object is created when one instance of this recurring appointment is obtained using the **[GetOccurrence](recurrencepattern-getoccurrence-method-outlook.md)** method and properties for this instance are altered. This exception to the series of appointments is obtained using the **GetRecurrencePattern** method to access the **[Exceptions](exceptions-object-outlook.md)** collection associated with this series. Message boxes display the original **[Subject](appointmentitem-subject-property-outlook.md)** and **[OriginalDate](exception-originaldate-property-outlook.md)** for this exception to the series of appointments and the current date, time, and subject for this exception.
+An **Exception** object is created when one instance of this recurring appointment is obtained using the **[GetOccurrence](recurrencepattern-getoccurrence-method-outlook.md)** method and properties for this instance are altered. This exception to the series of appointments is obtained using the **GetRecurrencePattern** method to access the **[Exceptions](exceptions-object-outlook.md)** collection associated with this series. Message boxes display the original **[Subject](appointmentitem-subject-property-outlook.md)** and **[OriginalDate](exception-originaldate-property-outlook.md)** for this exception to the series of appointments and the current date, time, and subject for this exception.
 
 
 

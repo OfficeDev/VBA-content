@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CreateControl Method (Access)
 
-The  **CreateControl** method creates a control on a specified open form. For example, suppose you are building a custom wizard that allows users to easily construct a particular form. You can use the **CreateControl** method in your wizard to add the appropriate controls to the form.
+The **CreateControl** method creates a control on a specified open form. For example, suppose you are building a custom wizard that allows users to easily construct a particular form. You can use the **CreateControl** method in your wizard to add the appropriate controls to the form.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ The  **CreateControl** method creates a control on a specified open form. For ex
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _FormName_|Required|**String**|The name of the open form or report on which you want to create the control.|
-| _ControlType_|Required|**AcControlType**|An  **[AcControlType](accontroltype-enumeration-access.md)** constant that represents the type of control you want to create.|
-| _Section_|Optional|**AcSection**|An  **[AcSection](acsection-enumeration-access.md)** constant that identifying the section that will contain the new control.|
+| _ControlType_|Required|**AcControlType**|An **[AcControlType](accontroltype-enumeration-access.md)** constant that represents the type of control you want to create.|
+| _Section_|Optional|**AcSection**|An **[AcSection](acsection-enumeration-access.md)** constant that identifying the section that will contain the new control.|
 | _Parent_|Optional|**Variant**|The name of the parent control of an attached control. For controls that have no parent control, use a zero-length string for this argument, or omit it.|
 | _ColumnName_|Optional|**Variant**|The name of the field to which the control will be bound, if it is to be a data-bound control.|
 | _Left,Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in twips.|
@@ -46,7 +46,7 @@ Control
 
 You can use the Create **Control** and **CreateReportControl** methods in a custom wizard to create controls on a form or report. Both methods return a **[Control](control-object-access.md)** object.
 
-You can use the  **CreateControl** and **CreateReportControl** methods only in form Design view or report Design view, respectively.
+You can use the **CreateControl** and **CreateReportControl** methods only in form Design view or report Design view, respectively.
 
 You use the  _parent_ argument to identify the relationship between a main control and a subordinate control. For example, if a text box has an attached label, the text box is the main (or parent) control and the label is the subordinate (or child) control. When you create the label control, set its _parent_ argument to a string identifying the name of the parent control. When you create the text box, set its _parent_ argument to a zero-length string.
 
@@ -59,12 +59,12 @@ If you specify the name of a field for the  _columnname_ argument, you create a 
 
  **Note**  If your wizard creates controls on a new or existing form or report, it must first open the form or report in Design view.
 
-To remove a control from a form or report, use the  **[DeleteControl](application-deletecontrol-method-access.md)** and **[DeleteReportControl](application-deletereportcontrol-method-access.md)** statements.
+To remove a control from a form or report, use the **[DeleteControl](application-deletecontrol-method-access.md)** and **[DeleteReportControl](application-deletereportcontrol-method-access.md)** statements.
 
 
 ## Example
 
-The following example first creates a new form based on an Orders table. It then uses the  **CreateControl** method to create a text box control and an attached label control on the form.
+The following example first creates a new form based on an Orders table. It then uses the **CreateControl** method to create a text box control and an attached label control on the form.
 
 
 ```vb

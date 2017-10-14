@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.ConsolidationOptions Property (Excel)
 
-Returns a three-element array of consolidation options, as shown in the following table. If the element is  **True** , that option is set. Read-only **Variant** .
+Returns a three-element array of consolidation options, as shown in the following table. If the element is **True** , that option is set. Read-only **Variant** .
 
 
 ## Syntax

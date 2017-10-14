@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ThisWorkbook Property (Excel)
 
-Returns a  **[Workbook](workbook-object-excel.md)** object that represents the workbook where the current macro code is running. Read-only.
+Returns a **[Workbook](workbook-object-excel.md)** object that represents the workbook where the current macro code is running. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[Workbook](workbook-object-excel.md)** object that represents the w
 
 ## Remarks
 
-Use this property to refer to the workbook that contains your macro code.  **ThisWorkbook** is the only way to refer to an add-in workbook from inside the add-in itself. The **ActiveWorkbook** property doesn't return the add-in workbook; it returns the workbook that's calling the add-in.
+Use this property to refer to the workbook that contains your macro code. **ThisWorkbook** is the only way to refer to an add-in workbook from inside the add-in itself. The **ActiveWorkbook** property doesn't return the add-in workbook; it returns the workbook that's calling the add-in.
 
-The  **Workbooks** property may fail, as the workbook name probably changed when you created the add-in. **ThisWorkbook** always returns the workbook in which the code is running.
+The **Workbooks** property may fail, as the workbook name probably changed when you created the add-in. **ThisWorkbook** always returns the workbook in which the code is running.
 
 For example, use code such as the following to activate a dialog sheet stored in your add-in workbook.
 

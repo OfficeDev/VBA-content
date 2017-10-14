@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.DisplayFonts Property (Office)
 
-Is  **True** if the font names in the **Font** box are displayed in their actual fonts. Read/write.
+Is **True** if the font names in the **Font** box are displayed in their actual fonts. Read/write.
 
 
 ## 

@@ -20,16 +20,16 @@ Represents the entire Microsoft Outlook application.
 
  This is the only object in the hierarchy that can be returned by using the **[CreateObject](http://msdn.microsoft.com/library/09b6ff5b-a750-c07d-7499-c1f8a00214fe%28Office.15%29.aspx)** method or the intrinsic Visual Basic **GetObject** function.
 
-The Outlook  **Application** object has several purposes:
+The Outlook **Application** object has several purposes:
 
 
 - As the root object, it allows access to other objects in the Outlook hierarchy.
     
-- It allows direct access to a new item created by using  **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)**, without having to traverse the object hierarchy.
+- It allows direct access to a new item created by using **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)**, without having to traverse the object hierarchy.
     
 - It allows access to the active interface objects (the explorer and the inspector).
     
-When you use Automation to control Outlook from another application, you use the  **CreateObject** method to create an Outlook **Application** object.
+When you use Automation to control Outlook from another application, you use the **CreateObject** method to create an Outlook **Application** object.
 
 
 ## Example
@@ -47,7 +47,7 @@ Set myFolder= _
 myFolder.Display
 ```
 
-The following Visual Basic for Applications (VBA) example uses the  **Application** object to create and open a new contact.
+The following Visual Basic for Applications (VBA) example uses the **Application** object to create and open a new contact.
 
 
 

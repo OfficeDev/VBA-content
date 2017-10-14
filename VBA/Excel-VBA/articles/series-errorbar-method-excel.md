@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.ErrorBar Method (Excel)
 
-Applies error bars to the series.  **Variant** .
+Applies error bars to the series. **Variant** .
 
 
 ## Syntax

@@ -30,7 +30,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-This code example uses the  **[WindowState](explorer-windowstate-property-outlook.md)** property to maximize the topmost explorer window when the **Activate** event occurs. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This code example uses the **[WindowState](explorer-windowstate-property-outlook.md)** property to maximize the topmost explorer window when the **Activate** event occurs. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

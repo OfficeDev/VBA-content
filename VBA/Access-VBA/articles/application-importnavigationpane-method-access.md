@@ -30,7 +30,7 @@ Loads a saved Navigation Pane configuration from disk.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path and name of the XML file that contains the Navigation Pane configuration to load. |
-| _fAppendOnly_|Optional|**Boolean**|Set to  **True** to append the imported categories to the existing categories. The default value is **False**.|
+| _fAppendOnly_|Optional|**Boolean**|Set to **True** to append the imported categories to the existing categories. The default value is **False**.|
 
 ## See also
 

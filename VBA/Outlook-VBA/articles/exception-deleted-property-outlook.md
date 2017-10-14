@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Exception.Deleted Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[AppointmentItem](appointmentitem-object-outlook.md)** was deleted from the recurring pattern. Read-only
+Returns a **Boolean** value that indicates whether the **[AppointmentItem](appointmentitem-object-outlook.md)** was deleted from the recurring pattern. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates whether the **[AppointmentItem](appo
 
 ## Remarks
 
-If this property returns  **True** , then the **AppointmentItem** was deleted from the recurring pattern.
+If this property returns **True** , then the **AppointmentItem** was deleted from the recurring pattern.
 
 
 ## See also

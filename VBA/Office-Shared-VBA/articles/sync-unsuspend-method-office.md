@@ -28,9 +28,9 @@ Resumes synchronization between the local copy and the server copy of a shared d
 
 ## Remarks
 
-Use the  **Unsuspend** method to resume document synchronization when the **Status** property returns **msoSyncStatusSuspended**.
+Use the **Unsuspend** method to resume document synchronization when the **Status** property returns **msoSyncStatusSuspended**.
 
-Not all document synchronization problems raise trappable run-time errors. After performing an operation using the  **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
+Not all document synchronization problems raise trappable run-time errors. After performing an operation using the **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationErrors.Parent Property (Office)
 
-Gets the  **Parent** object for the **CustomXMLValidationErrors** object. Read-only.
+Gets the **Parent** object for the **CustomXMLValidationErrors** object. Read-only.
 
 
 ## Syntax

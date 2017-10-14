@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomControl.About Property (Access)
 
-Returns or sets a  **String** representing version and copyright information for an ActiveX control. Read/write.
+Returns or sets a **String** representing version and copyright information for an ActiveX control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing version and copyright information for
 
 ## Remarks
 
-To view an  **About** box showing version and copyright information for an ActiveX control, click the **About** property box in the Microsoft Access property sheet. Then click the **Build** button to the right of the property box.
+To view an **About** box showing version and copyright information for an ActiveX control, click the **About** property box in the Microsoft Access property sheet. Then click the **Build** button to the right of the property box.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeightPercent Property
 
-Returns or sets the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent). Read/write  **Long**.
+Returns or sets the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent). Read/write **Long**.
 
 
 ## Example

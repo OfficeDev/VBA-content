@@ -29,16 +29,16 @@ Moves a Microsoft Outlook item to a new folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestFldr_|Required| **[Folder](folder-object-outlook.md)**|An expression that returns a  **Folder** object. The destination folder.|
+| _DestFldr_|Required| **[Folder](folder-object-outlook.md)**|An expression that returns a **Folder** object. The destination folder.|
 
 ### Return Value
 
-An  **Object** value that represents the item which has been moved to the designated folder.
+An **Object** value that represents the item which has been moved to the designated folder.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** to return the **Folder** object that represents the default folder. It then uses the **[Find](items-find-method-outlook.md)** and **[FindNext](items-findnext-method-outlook.md)** methods to find all messages sent by Dan Wilson and uses the **Move** method to move all e-mail messages sent by Dan Wilson from the default **Inbox** folder to the Personal Mail folder. To run this example without any errors, replace 'Dan Wilson' with a vaid sender name and make sure there's a folder under Inbox called 'Personal Mail'. Note that `myItem` is declared as type **Object** so that it can represent all types of Outlook items including meeting request and task request items.
+This Visual Basic for Applications (VBA) example uses **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** to return the **Folder** object that represents the default folder. It then uses the **[Find](items-find-method-outlook.md)** and **[FindNext](items-findnext-method-outlook.md)** methods to find all messages sent by Dan Wilson and uses the **Move** method to move all e-mail messages sent by Dan Wilson from the default **Inbox** folder to the Personal Mail folder. To run this example without any errors, replace 'Dan Wilson' with a vaid sender name and make sure there's a folder under Inbox called 'Personal Mail'. Note that `myItem` is declared as type **Object** so that it can represent all types of Outlook items including meeting request and task request items.
 
 
 ```vb

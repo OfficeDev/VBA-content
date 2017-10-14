@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Explorers Object (Outlook)
 
-Contains a set of  **[Explorer](explorer-object-outlook.md)** objects representing all explorers.
+Contains a set of **[Explorer](explorer-object-outlook.md)** objects representing all explorers.
 
 
 ## Remarks
 
  An explorer need not be visible to be included in the **Explorers** collection.
 
-Use the  **[Explorers](application-explorers-property-outlook.md)** property to return the **Explorers** object from the **[Application](application-object-outlook.md)** object.
+Use the **[Explorers](application-explorers-property-outlook.md)** property to return the **Explorers** object from the **[Application](application-object-outlook.md)** object.
 
 
 ## Example
 
-The following example shows how to retrieve the  **Explorers** object in Microsoft Visual Basic and Microsoft Visual Basic for Applications (VBA).
+The following example shows how to retrieve the **Explorers** object in Microsoft Visual Basic and Microsoft Visual Basic for Applications (VBA).
 
 
 ```

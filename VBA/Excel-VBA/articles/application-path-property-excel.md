@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Path Property (Excel)
 
-Returns a  **String** value that represents the complete path to the application, excluding the final separator and name of the application.
+Returns a **String** value that represents the complete path to the application, excluding the final separator and name of the application.
 
 
 ## Syntax

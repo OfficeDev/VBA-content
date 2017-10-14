@@ -15,13 +15,13 @@ ms.date: 06/08/2017
 
 Returns a Range object that represents the specified cell or range of cells. Read-only Range object.
 
- _expression_. **Range( _Range1_**,  **_Range2_)**
+ _expression_. **Range( _Range1_**, **_Range2_)**
 
  _expression_ Required. An expression that returns a **DataSheet** object.
 
  **Range 1** Required for a single cell. The name of the specified range. This must be an A1-style reference in the language the macro is written in. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they're ignored.
 OR
- **Range1**,  **_Range2_** Required for a range of cells. The cells in the upper-left and lower-right corners of the specified range. Each argument can be a **Range** object that contains a single cell (or an entire column or entire row), or the argument can be a string that names a single cell in the language the macro is written in.
+ **Range1**, **_Range2_** Required for a range of cells. The cells in the upper-left and lower-right corners of the specified range. Each argument can be a **Range** object that contains a single cell (or an entire column or entire row), or the argument can be a string that names a single cell in the language the macro is written in.
 
 ## Remarks
 

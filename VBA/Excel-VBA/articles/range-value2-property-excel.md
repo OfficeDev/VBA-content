@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Value2 Property (Excel)
 
-Returns or sets the cell value. Read/write  **Variant** .
+Returns or sets the cell value. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the cell value. Read/write  **Variant** .
 
 ## Remarks
 
-The only difference between this property and the  **Value** property is that the **Value2** property doesn't use the **Currency** and **Date** data types. You can return values formatted with these data types as floating-point numbers by using the **Double** data type.
+The only difference between this property and the **Value** property is that the **Value2** property doesn't use the **Currency** and **Date** data types. You can return values formatted with these data types as floating-point numbers by using the **Double** data type.
 
 
 ## Example
 
-This example uses the  **Value2** property to add the values of two cells.
+This example uses the **Value2** property to add the values of two cells.
 
 
 ```vb

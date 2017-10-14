@@ -43,15 +43,15 @@ Double
 
 
 
-- If Trials, Probability_s, or Alpha is nonnumeric, the  **Binom_Inv** method generates an error.
+- If Trials, Probability_s, or Alpha is nonnumeric, the **Binom_Inv** method generates an error.
     
 - If Trials is not an integer, it is truncated.
     
-- If Trials < 0, the  **Binom_Inv** method generates an error.
+- If Trials < 0, the **Binom_Inv** method generates an error.
     
-- If Probability_s < 0 or Probability_s > 1, the  **Binom_Inv** method generates an error.
+- If Probability_s < 0 or Probability_s > 1, the **Binom_Inv** method generates an error.
     
-- If Alpha < 0 or Alpha > 1, the  **Binom_Inv** method generates an error.
+- If Alpha < 0 or Alpha > 1, the **Binom_Inv** method generates an error.
     
 
 ## See also

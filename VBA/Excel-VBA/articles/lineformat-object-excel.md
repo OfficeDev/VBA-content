@@ -23,7 +23,7 @@ Represents line and arrowhead formatting.
 
 ## Example
 
-Use the  **[Line](shape-line-property-excel.md)** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its end point.
+Use the **[Line](shape-line-property-excel.md)** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its end point.
 
 
 ```

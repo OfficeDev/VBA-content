@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Type Property (Access)
 
-Returns the value of a  **[FormatCondition](formatcondition-object-access.md)** object type. Read-only **[AcFormatConditionType](acformatconditiontype-enumeration-access.md)**.
+Returns the value of a **[FormatCondition](formatcondition-object-access.md)** object type. Read-only **[AcFormatConditionType](acformatconditiontype-enumeration-access.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SetMenuItem Method (Access)
 
-The  **SetMenuItem** method carries out the SetMenuItem action in Visual Basic.
+The **SetMenuItem** method carries out the SetMenuItem action in Visual Basic.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ The  **SetMenuItem** method carries out the SetMenuItem action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MenuIndex_|Required|**Variant**|An integer, counting from 0, that's the valid index of a menu on the custom menu bar or global menu bar for the active window, as defined in the menu bar macro for the custom menu bar or global menu bar. If you select a menu with this argument and leave the commandindex and subcommandindex arguments blank (or set them to ?1), you can enable or disable the menu name itself. You can't, however, check or uncheck a menu name (Microsoft Access ignores the  **acMenuCheck** and **acMenuUncheck** settings for the flag argument for menu names).|
+| _MenuIndex_|Required|**Variant**|An integer, counting from 0, that's the valid index of a menu on the custom menu bar or global menu bar for the active window, as defined in the menu bar macro for the custom menu bar or global menu bar. If you select a menu with this argument and leave the commandindex and subcommandindex arguments blank (or set them to ?1), you can enable or disable the menu name itself. You can't, however, check or uncheck a menu name (Microsoft Access ignores the **acMenuCheck** and **acMenuUncheck** settings for the flag argument for menu names).|
 | _CommandIndex_|Optional|**Variant**|An integer, counting from 0, that's the valid index of a command on the menu selected by the menuindex argument, as defined in the macro group that defines the selected menu for the custom menu bar or global menu bar for the active window.|
 | _SubcommandIndex_|Optional|**Variant**|An integer, counting from 0, that's the valid index of a subcommand in the submenu selected by the commandindex argument, as defined in the macro group that defines the selected submenu for the custom menu bar or global menu bar for the active window.|
 | _Flag_|Optional|**Variant**|The state you want to set the command or subcommand to. Can be one of the following constants.
@@ -37,7 +37,7 @@ The  **SetMenuItem** method carries out the SetMenuItem action in Visual Basic.
 
 ## Remarks
 
-You can use the  **SetMenuItem** method to set the state of menu items (enabled or disabled, checked or unchecked) on the custom menu bar or global menu bar for the active window.
+You can use the **SetMenuItem** method to set the state of menu items (enabled or disabled, checked or unchecked) on the custom menu bar or global menu bar for the active window.
 
 
  **Note**   The **SetMenuItem** method works only with custom menu bars and global menu bars created by using menu bar macros. The **SetMenuItem** method is included in this version of Microsoft Access only for compatibility with versions prior to Microsoft Access 97. It doesn't work with the new command bars functionality.

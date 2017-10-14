@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Series.IsFiltered Property (Excel)
 
-This setting controls whether the series has been filtered out from the chart. The default value is  **False** . **Boolean** Read/Write.
+This setting controls whether the series has been filtered out from the chart. The default value is **False** . **Boolean** Read/Write.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ This setting controls whether the series has been filtered out from the chart. T
 
 ## Remarks
 
-When a user filters out a series, the series  **IsFiltered** property switches to **True** , and the series is transferred out of its parent **SeriesCollection** . However, that series still remains in its parent **FullSeriesCollection** . When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection** .
+When a user filters out a series, the series **IsFiltered** property switches to **True** , and the series is transferred out of its parent **SeriesCollection** . However, that series still remains in its parent **FullSeriesCollection** . When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection** .
 
 
 ## Property value

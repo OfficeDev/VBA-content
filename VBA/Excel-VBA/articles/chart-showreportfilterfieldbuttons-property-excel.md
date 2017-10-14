@@ -30,9 +30,9 @@ Returns or sets whether to display the report filter field buttons on a PivotCha
 
 ## Remarks
 
-Set the  **ShowReportFilterFieldButtons** property to **True** to display the **Report Filter Field** buttons on the specified PivotChart. Set the property to **False** to hide the buttons.
+Set the **ShowReportFilterFieldButtons** property to **True** to display the **Report Filter Field** buttons on the specified PivotChart. Set the property to **False** to hide the buttons.
 
-The  **ShowReportFilterFieldButtons** property corresponds to the **Show Report Filter Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
+The **ShowReportFilterFieldButtons** property corresponds to the **Show Report Filter Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
 
 
 ## Example

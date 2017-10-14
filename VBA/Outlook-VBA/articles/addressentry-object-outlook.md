@@ -18,14 +18,14 @@ Represents a person, group, or public folder to which the messaging system can d
 
 ## Remarks
 
-The  **AddressEntry** object is an address in an **[AddressEntries](addressentries-object-outlook.md)** object. Each **AddressEntry** object in the **AddressEntries** object holds information that represents a person, group, or public folder to which the messaging system can deliver messages.
+The **AddressEntry** object is an address in an **[AddressEntries](addressentries-object-outlook.md)** object. Each **AddressEntry** object in the **AddressEntries** object holds information that represents a person, group, or public folder to which the messaging system can deliver messages.
 
-Use  **AddressEntries** ( _index_ ), where _index_ is the index number of an address entry or a value used to match the default property of an address entry, to return a single **AddressEntry** object.
+Use **AddressEntries** ( _index_ ), where _index_ is the index number of an address entry or a value used to match the default property of an address entry, to return a single **AddressEntry** object.
 
 
 ## Example
 
-The following example sets a reference to an  **AddressEntry** object.
+The following example sets a reference to an **AddressEntry** object.
 
 
 ```

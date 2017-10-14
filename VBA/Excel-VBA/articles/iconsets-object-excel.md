@@ -18,7 +18,7 @@ Represents a collection of icon sets used in an icon set conditional formatting 
 
 ## Remarks
 
-The icon set for the conditional format is assigned using the  **[IconSet](iconsetcondition-iconset-property-excel.md)** property of the **[IconSetCondition](iconsetcondition-object-excel.md)** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[XlIconSet](xliconset-enumeration-excel.md)** enumeration as an index of the **[IconSets](workbook-iconsets-property-excel.md)** property of the **[Workbook](workbook-object-excel.md)** object. See the example for details.
+The icon set for the conditional format is assigned using the **[IconSet](iconsetcondition-iconset-property-excel.md)** property of the **[IconSetCondition](iconsetcondition-object-excel.md)** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[XlIconSet](xliconset-enumeration-excel.md)** enumeration as an index of the **[IconSets](workbook-iconsets-property-excel.md)** property of the **[Workbook](workbook-object-excel.md)** object. See the example for details.
 
 
 ## Example

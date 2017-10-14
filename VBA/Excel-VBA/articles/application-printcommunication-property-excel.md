@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PrintCommunication Property (Excel)
 
-Specifies whether communication with the printer is turned on.  **Boolean** Read/write
+Specifies whether communication with the printer is turned on. **Boolean** Read/write
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Specifies whether communication with the printer is turned on.  **Boolean** Read
 
 ## Remarks
 
-Set the  **PrintCommunication** property to **False** to speed up the execution of code that sets **[PageSetup](pagesetup-object-excel.md)** properties. Set the **PrintCommunication** property to **True** after setting properties to commit all cached **PageSetup** commands.
+Set the **PrintCommunication** property to **False** to speed up the execution of code that sets **[PageSetup](pagesetup-object-excel.md)** properties. Set the **PrintCommunication** property to **True** after setting properties to commit all cached **PageSetup** commands.
 
 
 ## Example
 
-The following example suspends communication with the printer while setting  **PageSetup** properties.
+The following example suspends communication with the printer while setting **PageSetup** properties.
 
 
 ```vb

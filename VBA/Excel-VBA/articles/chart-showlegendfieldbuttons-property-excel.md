@@ -30,9 +30,9 @@ Returns or sets whether to display legend field buttons on a PivotChart. Read/wr
 
 ## Remarks
 
-Set the  **ShowLegendFieldButtons** property to **True** to display legend field buttons on the specified PivotChart. Set the property to **False** to hide the buttons.
+Set the **ShowLegendFieldButtons** property to **True** to display legend field buttons on the specified PivotChart. Set the property to **False** to hide the buttons.
 
-The  **ShowLegendFieldButtons** property corresponds to the **Show Legend Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
+The **ShowLegendFieldButtons** property corresponds to the **Show Legend Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
 
 
 ## Example

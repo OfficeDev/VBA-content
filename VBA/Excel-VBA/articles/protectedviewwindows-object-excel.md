@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindows Object (Excel)
 
-A collection of the  **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** objects that represent all the **Protected View** windows that are currently open in the application.
+A collection of the **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** objects that represent all the **Protected View** windows that are currently open in the application.
 
 
 ## Remarks
 
-Use the  **[ProtectedViewWindows](application-protectedviewwindows-property-excel.md)** property to return the **ProtectedViewWindows** collection.
+Use the **[ProtectedViewWindows](application-protectedviewwindows-property-excel.md)** property to return the **ProtectedViewWindows** collection.
 
 
 ## Example
 
-The following code example displays the number of  **Protected View** windows that are open.
+The following code example displays the number of **Protected View** windows that are open.
 
 
 ```vb

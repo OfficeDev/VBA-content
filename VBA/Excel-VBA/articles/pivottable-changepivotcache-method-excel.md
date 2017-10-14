@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ChangePivotCache Method (Excel)
 
-Changes the  **[PivotCache](pivotcache-object-excel.md)** of the specified **[PivotTable](pivottable-object-excel.md)** .
+Changes the **[PivotCache](pivotcache-object-excel.md)** of the specified **[PivotTable](pivottable-object-excel.md)** .
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Changes the  **[PivotCache](pivotcache-object-excel.md)** of the specified **[Pi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _bstr_|Required| **String**|A  **PivotTable** or **PivotCache** object that represents the new **PivotCache** for the specfied **PivotTable** .|
+| _bstr_|Required| **String**|A **PivotTable** or **PivotCache** object that represents the new **PivotCache** for the specfied **PivotTable** .|
 
 ## Remarks
 
-The  **ChangePivotCache** method can only be used with a **PivotTable** that uses data stored on a worksheet as its data source. A run-time error will occur if the **ChangePivotCache** method is used with a **PivotTable** that is connected to an external data source.
+The **ChangePivotCache** method can only be used with a **PivotTable** that uses data stored on a worksheet as its data source. A run-time error will occur if the **ChangePivotCache** method is used with a **PivotTable** that is connected to an external data source.
 
 
 ## See also

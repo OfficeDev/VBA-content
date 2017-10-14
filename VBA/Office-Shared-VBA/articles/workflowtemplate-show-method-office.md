@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkflowTemplate.Show Method (Office)
 
-Displays a workflow specific configuration user interface for the specified  **WorkflowTemplate** object.
+Displays a workflow specific configuration user interface for the specified **WorkflowTemplate** object.
 
 
 ## Syntax

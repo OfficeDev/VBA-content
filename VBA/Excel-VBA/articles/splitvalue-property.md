@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SplitValue Property
 
-Returns or sets the threshold value separating the two sections of either a pie of pie chart or a bar of pie chart. Read/write  **Variant**.
+Returns or sets the threshold value separating the two sections of either a pie of pie chart or a bar of pie chart. Read/write **Variant**.
 
 
 ## Example

@@ -54,7 +54,7 @@ The following types of names in Microsoft Excel can be used with this method:
 - Chart Objects. You can specify any chart object name, such as "Legend", "Plot Area", or "Series 1", to access the properties and methods of that object. For example,  `Charts("Chart1").Evaluate("Legend").Font.Name` returns the name of the font used in the legend.
     
 
- **Note**  Using square brackets (for example, "[A1:C5]") is identical to calling the  **Evaluate** method with a string argument. For example, the following expression pairs are equivalent.
+ **Note**  Using square brackets (for example, "[A1:C5]") is identical to calling the **Evaluate** method with a string argument. For example, the following expression pairs are equivalent.
 
 
 ```vb
@@ -70,7 +70,7 @@ Set firstCellInSheet = _
 
 ```
 
-The advantage of using square brackets is that the code is shorter. The advantage of using  **Evaluate** is that the argument is a string, so you can either construct the string in your code or use a Visual Basic variable.
+The advantage of using square brackets is that the code is shorter. The advantage of using **Evaluate** is that the argument is a string, so you can either construct the string in your code or use a Visual Basic variable.
 
 
 ## Example

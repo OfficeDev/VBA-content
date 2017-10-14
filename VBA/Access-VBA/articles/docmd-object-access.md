@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # DoCmd Object (Access)
 
-You can use the methods of the  **DoCmd** object to run Microsoft Office Access actions from Visual Basic. An action performs tasks such as closing windows, opening forms, and setting the value of controls.
+You can use the methods of the **DoCmd** object to run Microsoft Office Access actions from Visual Basic. An action performs tasks such as closing windows, opening forms, and setting the value of controls.
 
 
 ## Remarks
 
-For example, you can use the  **OpenForm** method of the **DoCmd** object to open a form, or use the **Hourglass** method to change the mouse pointer to an hourglass icon.
+For example, you can use the **OpenForm** method of the **DoCmd** object to open a form, or use the **Hourglass** method to change the mouse pointer to an hourglass icon.
 
-Most of the methods of the  **DoCmd** object have arguments — some are required, while others are optional. If you omit optional arguments, the arguments assume the default values for the particular method. For example, the **OpenForm** method uses seven arguments, but only the first argument, _FormName_, is required. The following example shows how you can open the Employees form in the current database. Only employees with the title Sales Representative are included.
+Most of the methods of the **DoCmd** object have arguments — some are required, while others are optional. If you omit optional arguments, the arguments assume the default values for the particular method. For example, the **OpenForm** method uses seven arguments, but only the first argument, _FormName_, is required. The following example shows how you can open the Employees form in the current database. Only employees with the title Sales Representative are included.
 
 
 
@@ -29,15 +29,15 @@ Most of the methods of the  **DoCmd** object have arguments — some are require
 DoCmd.OpenForm "Employees", , ,"[Title] = 'Sales Representative'"
 ```
 
-The  **DoCmd** object doesn't support methods corresponding to the following actions:
+The **DoCmd** object doesn't support methods corresponding to the following actions:
     
-- MsgBox. Use the  **MsgBox** function.
+- MsgBox. Use the **MsgBox** function.
     
-- RunApp. Use the  **Shell** function to run another application.
+- RunApp. Use the **Shell** function to run another application.
     
 - RunCode. Run the function directly in Visual Basic.
     
-- SendKeys. Use the  **SendKeys** statement.
+- SendKeys. Use the **SendKeys** statement.
     
 - SetValue. Set the value directly in Visual Basic.
     

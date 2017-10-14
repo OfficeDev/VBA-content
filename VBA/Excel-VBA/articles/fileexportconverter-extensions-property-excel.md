@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileExportConverter.Extensions Property (Excel)
 
-Returns the file name extensions associated with the specified  **[FileExportConverter](fileexportconverter-object-excel.md)** object. Read-only **String** .
+Returns the file name extensions associated with the specified **[FileExportConverter](fileexportconverter-object-excel.md)** object. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the file name extensions associated with the specified  **[FileExportCon
 
 ## Example
 
-The following example displays the file extensions for the first file converter in the  **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
+The following example displays the file extensions for the first file converter in the **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
 
 
 ```vb

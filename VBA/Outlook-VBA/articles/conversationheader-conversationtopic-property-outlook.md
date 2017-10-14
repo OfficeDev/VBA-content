@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConversationHeader.ConversationTopic Property (Outlook)
 
-Returns a  **String** value that represents the topic of the conversation thread of the conversation header. Read-only.
+Returns a **String** value that represents the topic of the conversation thread of the conversation header. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents the topic of the conversation thread
 
 ## Remarks
 
-Corresponds to the MAPI property  **PidTagConversationTopic** .
+Corresponds to the MAPI property **PidTagConversationTopic** .
 
 
 ## See also

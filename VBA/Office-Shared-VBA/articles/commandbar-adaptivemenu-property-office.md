@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.AdaptiveMenu Property (Office)
 
-Gets a  **Boolean** value that specifies whether the command bar should include an adaptive menu. Read/write.
+Gets a **Boolean** value that specifies whether the command bar should include an adaptive menu. Read/write.
 
 
 ## 

@@ -29,7 +29,7 @@ Inserts a cell or a range of cells into the worksheet or macro sheet and shifts 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Shift_|Optional| **Variant**|Specifies which way to shift the cells. Can be one of the following  **[XlInsertShiftDirection](xlinsertshiftdirection-enumeration-excel.md)** constants: **xlShiftToRight** or **xlShiftDown** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
+| _Shift_|Optional| **Variant**|Specifies which way to shift the cells. Can be one of the following **[XlInsertShiftDirection](xlinsertshiftdirection-enumeration-excel.md)** constants: **xlShiftToRight** or **xlShiftDown** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
 | _CopyOrigin_|Optional| **Variant**|The copy origin.|
 
 ### Return Value

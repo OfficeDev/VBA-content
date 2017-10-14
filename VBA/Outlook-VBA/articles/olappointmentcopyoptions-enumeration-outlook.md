@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlAppointmentCopyOptions Enumeration (Outlook)
 
-Specifies what actions to take when copying an  **[AppointmentItem](appointmentitem-object-outlook.md)** object to a folder.
+Specifies what actions to take when copying an **[AppointmentItem](appointmentitem-object-outlook.md)** object to a folder.
 
 
 

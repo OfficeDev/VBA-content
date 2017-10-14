@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # ReturnVar Object (Access)
 
-Represents a variable that was initialized by the  **SetReturnVar** function in a Data Macro.
+Represents a variable that was initialized by the **SetReturnVar** function in a Data Macro.
 
 
 ## Remarks
 
-A  **ReturnVar** object provides a convenient way to use values set in a Data Macro.
+A **ReturnVar** object provides a convenient way to use values set in a Data Macro.
 
-Although a  **ReturnVar** object can be used to store information for use in VBA procedures, it does not have the same functionality as a VBA variable.
+Although a **ReturnVar** object can be used to store information for use in VBA procedures, it does not have the same functionality as a VBA variable.
 
 
-- By default, a  **ReturnVar** object remains in memory until the next time that the **[RunDataMacro](docmd-rundatamacro-method-access.md)** method is used.
+- By default, a **ReturnVar** object remains in memory until the next time that the **[RunDataMacro](docmd-rundatamacro-method-access.md)** method is used.
     
     Use the Value poperty of the ReturnVar
     
-- A  **ReturnVar** object can store only text or numeric data. **ReturnVar** objects cannot store objects.
+- A **ReturnVar** object can store only text or numeric data. **ReturnVar** objects cannot store objects.
     
 To refer to a TempVar object in a collection by its ordinal number or by its Name property setting, use the following syntax form:
 

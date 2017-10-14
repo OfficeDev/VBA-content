@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Application.ReturnVars Property (Access)
 
-Returns the  **[ReturnVars](returnvars-object-access.md)** collection representing all the available **ReturnVar** variables. Read-only **ReturnVars** collection.
+Returns the **[ReturnVars](returnvars-object-access.md)** collection representing all the available **ReturnVar** variables. Read-only **ReturnVars** collection.
 
 
 ## Syntax

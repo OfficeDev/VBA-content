@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # How to: Control the Drop Button Style and When to Show the Drop Button
 
-The following example demonstrates the different symbols that you can specify for a drop-down arrow in a  **[ComboBox](combobox-object-outlook-forms-script.md)** or **[TextBox](textbox-object-outlook-forms-script.md)**. In this example, the user chooses a drop-down arrow style from a  **ComboBox**. This example also uses the  ** [TextBox.Locked](olktextbox-locked-property-outlook.md)** property. To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
+The following example demonstrates the different symbols that you can specify for a drop-down arrow in a **[ComboBox](combobox-object-outlook-forms-script.md)** or **[TextBox](textbox-object-outlook-forms-script.md)**. In this example, the user chooses a drop-down arrow style from a **ComboBox**. This example also uses the ** [TextBox.Locked](olktextbox-locked-property-outlook.md)** property. To use this example, copy this sample code to the Script Editor of a form. Make sure that the form contains:
 
 
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1.
+- A **[Label](label-object-outlook-forms-script.md)** named Label1.
     
-- A  **TextBox** named TextBox1 placed beneath Label1.
+- A **TextBox** named TextBox1 placed beneath Label1.
     
 
 ```vb

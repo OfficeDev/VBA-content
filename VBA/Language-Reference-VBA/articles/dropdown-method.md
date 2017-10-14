@@ -15,15 +15,15 @@ ms.date: 06/08/2017
 
 
 
-Displays the list portion of a  **ComboBox**.
+Displays the list portion of a **ComboBox**.
  **Syntax**
  _object_. **DropDown**
-The  **DropDown** method syntax has these parts:
+The **DropDown** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
  **Remarks**
-Use the  **DropDown** method to open the list in a combo box.
+Use the **DropDown** method to open the list in a combo box.
 

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 # GapWidth Property
 
-Bar and Column charts: Returns or sets the space between bar or column clusters, as a percentage of the bar or column width. The value of this property must be between 0 and 500. Read/write  **Long**.
+Bar and Column charts: Returns or sets the space between bar or column clusters, as a percentage of the bar or column width. The value of this property must be between 0 and 500. Read/write **Long**.
 
-Pie of Pie and Bar of Pie charts: Returns or sets the space between the primary and secondary sections of the specified chart. The value of this property must be between 5 and 200. Read/write  **Long**.
+Pie of Pie and Bar of Pie charts: Returns or sets the space between the primary and secondary sections of the specified chart. The value of this property must be between 5 and 200. Read/write **Long**.
 
 ## Example
 

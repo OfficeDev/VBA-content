@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroups.Parent Property (Excel)
 
-Returns the  **[Range](range-object-excel.md)** object for the specified object. Read-only.
+Returns the **[Range](range-object-excel.md)** object for the specified object. Read-only.
 
 
 ## Syntax

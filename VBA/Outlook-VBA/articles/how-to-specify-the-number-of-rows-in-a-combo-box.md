@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Specify the Number of Rows in a Combo Box
 
-The following example uses a  **[SpinButton](spinbutton-object-outlook-forms-script.md)** to control the number of rows in the drop-down list of a **[ComboBox](combobox-object-outlook-forms-script.md)**. The user changes the value of the  **SpinButton**, then clicks on the drop-down arrow of the  **ComboBox** to display the list.
+The following example uses a **[SpinButton](spinbutton-object-outlook-forms-script.md)** to control the number of rows in the drop-down list of a **[ComboBox](combobox-object-outlook-forms-script.md)**. The user changes the value of the **SpinButton**, then clicks on the drop-down arrow of the **ComboBox** to display the list.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **SpinButton** named SpinButton1 that is bound to a custom number field named SpinButtonValue.
+- A **SpinButton** named SpinButton1 that is bound to a custom number field named SpinButtonValue.
     
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1.
+- A **[Label](label-object-outlook-forms-script.md)** named Label1.
     
 
 

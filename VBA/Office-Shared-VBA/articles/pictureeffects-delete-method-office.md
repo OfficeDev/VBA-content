@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PictureEffects.Delete Method (Office)
 
-Deletes a  **PictureEffect** object from the collection.
+Deletes a **PictureEffect** object from the collection.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Deletes a  **PictureEffect** object from the collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|**Integer**|The index number of the  **PictureEffect** object to delete.|
+| _Index_|Optional|**Integer**|The index number of the **PictureEffect** object to delete.|
 
 ### Return Value
 

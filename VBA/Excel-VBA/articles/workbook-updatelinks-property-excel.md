@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.UpdateLinks Property (Excel)
 
-Returns or sets an  **[XlUpdateLink](xlupdatelinks-enumeration-excel.md)** constant indicating a workbook's setting for updating embedded OLE links. Read/write.
+Returns or sets an **[XlUpdateLink](xlupdatelinks-enumeration-excel.md)** constant indicating a workbook's setting for updating embedded OLE links. Read/write.
 
 
 ## Syntax

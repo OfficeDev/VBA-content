@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Optional <keyword>
 
-The  **Optional** keyword is used in these contexts:
+The **Optional** keyword is used in these contexts:
 
 [Declare Statement](declare-statement.md)
 

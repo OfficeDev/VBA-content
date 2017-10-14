@@ -11,24 +11,24 @@ ms.date: 06/08/2017
 
 # PictureSizeMode Property Example
 
-The following example uses the  **PictureSizeMode** property to demonstrate three display options for a picture: showing the picture as is, changing the size of the picture while maintaining its original proportions, and stretching the picture to fill a space.
+The following example uses the **PictureSizeMode** property to demonstrate three display options for a picture: showing the picture as is, changing the size of the picture while maintaining its original proportions, and stretching the picture to fill a space.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **Frame** named Frame1.
+- A **Frame** named Frame1.
     
-- A  **SpinButton** named SpinButton1.
+- A **SpinButton** named SpinButton1.
     
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
 
 
- **Note**  This example is an enhanced version of the  **PictureAlignment** property example, as the two properties complement each other. The enhancements are three **OptionButton** event subroutines that control whether the image is cropped, zoomed, or stretched.
+ **Note**  This example is an enhanced version of the **PictureAlignment** property example, as the two properties complement each other. The enhancements are three **OptionButton** event subroutines that control whether the image is cropped, zoomed, or stretched.
 
 
 

@@ -34,7 +34,7 @@ Exports the data that has been mapped to the specified XML schema map to an XML 
 
 ## Remarks
 
-This method will result in a run-time error if Excel cannot export data with the specified schema map. To check whether Excel can use the specified schema map to export data, use the  **[IsExportable](xmlmap-isexportable-property-excel.md)** property.
+This method will result in a run-time error if Excel cannot export data with the specified schema map. To check whether Excel can use the specified schema map to export data, use the **[IsExportable](xmlmap-isexportable-property-excel.md)** property.
 
 
 ## Example

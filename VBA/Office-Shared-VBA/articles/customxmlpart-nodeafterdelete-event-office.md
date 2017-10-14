@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.NodeAfterDelete Event (Office)
 
-Occurs after a node is deleted in a  **CustomXMLPart** object.
+Occurs after a node is deleted in a **CustomXMLPart** object.
 
 
 ## Syntax
@@ -29,10 +29,10 @@ Occurs after a node is deleted in a  **CustomXMLPart** object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _OldNode_|Required|**CustomXMLNode**|Corresponds to the node which was just removed from the  **CustomXMLPart** object. Note that this node may have children, if a subtree is being removed from the document. Also, this node will be a "disconnected" node in that you can query down from the node, but you cannot query up the tree - the node appears to exist alone.|
+| _OldNode_|Required|**CustomXMLNode**|Corresponds to the node which was just removed from the **CustomXMLPart** object. Note that this node may have children, if a subtree is being removed from the document. Also, this node will be a "disconnected" node in that you can query down from the node, but you cannot query up the tree - the node appears to exist alone.|
 | _OldParentNode_|Required|**CustomXMLNode**|Corresponds to the former parent node of OldNode.|
 | _OldNextSibling_|Required|**CustomXMLNode**|Corresponds to the former next sibling of OldNode.|
-| _InUndoRedo_|Required|**Boolean**|Returns  **TRUE** if the node was inserted as part of an Undo/Redo action by the user.|
+| _InUndoRedo_|Required|**Boolean**|Returns **TRUE** if the node was inserted as part of an Undo/Redo action by the user.|
 
 ## Example
 

@@ -24,7 +24,7 @@ In Form view, Microsoft Access doesn't display the list until you click the comb
 
 If you have Control Wizards on before you select the combo box tool, you can create a combo box with a wizard. To turn Control Wizards on or off, click the Control Wizards button in the toolbox.
 
-The setting of the  **LimitToList** property determines whether you can enter values that aren't in the list.
+The setting of the **LimitToList** property determines whether you can enter values that aren't in the list.
 
 The list can be single- or multiple-column, and the columns can appear with or without headings.
 

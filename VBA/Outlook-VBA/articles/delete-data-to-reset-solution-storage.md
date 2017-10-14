@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 This topic describes how to delete existing solution data to reset the solution storage:
 
 
-1. Use  **[Folder.GetStorage](folder-getstorage-method-outlook.md)** to obtain an existing **[StorageItem](storageitem-object-outlook.md)** object in a specific folder. This call will return a new **StorageItem** object if none already exists.
+1. Use **[Folder.GetStorage](folder-getstorage-method-outlook.md)** to obtain an existing **[StorageItem](storageitem-object-outlook.md)** object in a specific folder. This call will return a new **StorageItem** object if none already exists.
     
-2. Use  **[StorageItem.Delete](storageitem-delete-method-outlook.md)** to remove the object permanently from the folder.
+2. Use **[StorageItem.Delete](storageitem-delete-method-outlook.md)** to remove the object permanently from the folder.
     
-3. Use  **Folder.GetStorage** to create a new instance of the **StorageItem** object with the same subject.
+3. Use **Folder.GetStorage** to create a new instance of the **StorageItem** object with the same subject.
     
-4. Use the  **[Add](userproperties-add-method-outlook.md)** method of **[StorageItem.UserProperties](storageitem-userproperties-property-outlook.md)** to create a custom property **Order Number**.
+4. Use the **[Add](userproperties-add-method-outlook.md)** method of **[StorageItem.UserProperties](storageitem-userproperties-property-outlook.md)** to create a custom property **Order Number**.
     
-5. Set the  **Order Number** property.
+5. Set the **Order Number** property.
     
-6. Use  **[StorageItem.Save](storageitem-save-method-outlook.md)** to save the **StorageItem** object to the folder.
+6. Use **[StorageItem.Save](storageitem-save-method-outlook.md)** to save the **StorageItem** object to the folder.
     
 
 ```vb

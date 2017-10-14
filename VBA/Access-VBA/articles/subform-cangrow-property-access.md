@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SubForm.CanGrow Property (Access)
 
-Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
+Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets whether the specified control automatically adjusts vertically to p
 
 ## Remarks
 
-The  **CanGrow** property uses the following settings.
+The **CanGrow** property uses the following settings.
 
 
 
@@ -37,11 +37,11 @@ This property setting is read-only in a macro or Visual Basic in any view but De
 
 You can use this property to control the appearance of printed forms and reports. When you set the property to Yes, the object automatically adjusts so any amount of data can be printed. When a control grows, the controls below it move down the page.
 
-If you set a control's  **CanGrow** property to Yes, Microsoft Access automatically sets the **CanGrow** property of the section containing the control to Yes.
+If you set a control's **CanGrow** property to Yes, Microsoft Access automatically sets the **CanGrow** property of the section containing the control to Yes.
 
-Sections grow vertically across their entire width. To grow the data independently, you can place two subform or subreport controls side by side, and set their  **CanGrow** property to Yes.
+Sections grow vertically across their entire width. To grow the data independently, you can place two subform or subreport controls side by side, and set their **CanGrow** property to Yes.
 
-When you use the  **CanGrow** property, remember that:
+When you use the **CanGrow** property, remember that:
 
 
 - The property settings don't affect the horizontal spacing between controls; they affect only the vertical space the controls occupy.

@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # ListBox Control, Column, ColumnCount, List Properties Example
 
-The following example loads a two-dimensional array with data and, in turn, loads two  **ListBox** controls using the **Column** and **List** properties. Note that the **Column** property transposes the array elements during loading.
+The following example loads a two-dimensional array with data and, in turn, loads two **ListBox** controls using the **Column** and **List** properties. Note that the **Column** property transposes the array elements during loading.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two  **ListBox** controls named ListBox1 and ListBox2.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two **ListBox** controls named ListBox1 and ListBox2.
 
 
 

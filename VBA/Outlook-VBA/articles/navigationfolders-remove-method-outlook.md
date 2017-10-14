@@ -33,7 +33,7 @@ Removes an object from the collection.
 
 ## Remarks
 
-Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](navigationfolder-isremovable-property-outlook.md)** property value set to **True** , can be removed from a **NavigationFolders** collection. This means that you can use **NavigationFolders.Remove** to remove shared folders, public folders, and linked folders. However, you must use **[Folder.Delete](folder-delete-method-outlook.md)** to remove any user-created folders.
+Only removable folders, **NavigationFolder** objects with an **[IsRemovable](navigationfolder-isremovable-property-outlook.md)** property value set to **True** , can be removed from a **NavigationFolders** collection. This means that you can use **NavigationFolders.Remove** to remove shared folders, public folders, and linked folders. However, you must use **[Folder.Delete](folder-delete-method-outlook.md)** to remove any user-created folders.
 
 
 ## See also

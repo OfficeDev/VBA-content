@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserAccess.AllowEdit Property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if the user is allowed access to the specified range on a protected worksheet.
+Returns or sets a **Boolean** value that indicates if the user is allowed access to the specified range on a protected worksheet.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.AutoForwarded Property (Outlook)
 
-A  **Boolean** value that returns **True** if the item was automatically forwarded. Read/write.
+A **Boolean** value that returns **True** if the item was automatically forwarded. Read/write.
 
 
 ## Syntax

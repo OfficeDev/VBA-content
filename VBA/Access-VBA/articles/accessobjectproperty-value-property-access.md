@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObjectProperty.Value Property (Access)
 
-Determines or specifies the value of a built-in property of an  **[AccessObject](accessobject-object-access.md)** object. Read/write **Variant**.
+Determines or specifies the value of a built-in property of an **[AccessObject](accessobject-object-access.md)** object. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Determines or specifies the value of a built-in property of an  **[AccessObject]
 
 ## Remarks
 
-The  **Value** property of a custom property contains the value of the specified custom property of an **AccessObject** object. For more information about custom properties, see the topics about the **AccessObject** object, **AccessObjectProperty** object, and the **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection.
+The **Value** property of a custom property contains the value of the specified custom property of an **AccessObject** object. For more information about custom properties, see the topics about the **AccessObject** object, **AccessObjectProperty** object, and the **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection.
 
 
 ## See also

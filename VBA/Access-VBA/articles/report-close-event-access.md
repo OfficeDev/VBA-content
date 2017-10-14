@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Close Event (Access)
 
-The  **Close** event occurs when a report is closed and removed from the screen.
+The **Close** event occurs when a report is closed and removed from the screen.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **Close** event occurs when a report is closed and removed from the screen.
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the  **OnClose** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **OnClose** property to the name of the macro or to [Event Procedure].
 
 
 ## See also

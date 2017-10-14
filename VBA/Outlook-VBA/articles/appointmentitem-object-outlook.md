@@ -18,13 +18,13 @@ Represents a meeting, a one-time appointment, or a recurring appointment or meet
 
 ## Remarks
 
-Use the  **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create an **AppointmentItem** object that represents a new appointment.
+Use the **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create an **AppointmentItem** object that represents a new appointment.
 
-Use  **[Items](http://msdn.microsoft.com/library/89a031e0-c0a3-fc22-f485-189df8db45f4%28Office.15%29.aspx)** ( _index_ ), where _index_ is the index number of an appointment or a value used to match the default property of an appointment, to return a single **AppointmentItem** object from a Calendar folder.
+Use **[Items](http://msdn.microsoft.com/library/89a031e0-c0a3-fc22-f485-189df8db45f4%28Office.15%29.aspx)** ( _index_ ), where _index_ is the index number of an appointment or a value used to match the default property of an appointment, to return a single **AppointmentItem** object from a Calendar folder.
 
-You can also return an  **AppointmentItem** object from a **[MeetingItem](meetingitem-object-outlook.md)** object by using the **[GetAssociatedAppointment](http://msdn.microsoft.com/library/8344d40d-5c1d-ead3-87cb-fd795b831712%28Office.15%29.aspx)** method.
+You can also return an **AppointmentItem** object from a **[MeetingItem](meetingitem-object-outlook.md)** object by using the **[GetAssociatedAppointment](http://msdn.microsoft.com/library/8344d40d-5c1d-ead3-87cb-fd795b831712%28Office.15%29.aspx)** method.
 
-When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring  **AppointmentItem** object, and any **[Exception](http://msdn.microsoft.com/library/010552b0-9ba6-c81b-1e3a-fd6a681e5163%28Office.15%29.aspx)** or **[RecurrencePattern](recurrencepattern-object-outlook.md)** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object.
+When you work with recurring appointment items, you should release any prior references, obtain new references to the recurring appointment item before you access or modify the item, and release these references as soon as you are finished and have saved the changes. This practice applies to the recurring **AppointmentItem** object, and any **[Exception](http://msdn.microsoft.com/library/010552b0-9ba6-c81b-1e3a-fd6a681e5163%28Office.15%29.aspx)** or **[RecurrencePattern](recurrencepattern-object-outlook.md)** object. To release a reference in Visual Basic for Applications (VBA) or Visual Basic, set that existing object to **Nothing**. In C#, explicitly release the memory for that object.
 
 Note that even after you release your reference and attempt to obtain a new reference, if there is still an active reference, held by another add-in or Outlook, to one of the above objects, your new reference will still point to an out-of-date copy of the object. Therefore, it is important that you release your references as soon as you are finished with the recurring appointment.
 

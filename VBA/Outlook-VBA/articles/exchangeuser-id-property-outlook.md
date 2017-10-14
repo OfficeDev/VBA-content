@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.ID Property (Outlook)
 
-Returns a  **String** representing the unique identifier for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read-only.
+Returns a **String** representing the unique identifier for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read-only.
 
 
 ## Syntax

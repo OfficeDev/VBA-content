@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.XML Property (Office)
 
-Gets the XML representation of the current  **CustomXMLPart** object. Read-only.
+Gets the XML representation of the current **CustomXMLPart** object. Read-only.
 
 
 ## Syntax

@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Allow the Null State for a Check Box and a Toggle Button
 
-The following example uses the  **TripleState** property to allow Null as a legal value of a **[CheckBox](checkbox-object-outlook-forms-script.md)** and a **[ToggleButton](togglebutton-object-outlook-forms-script.md)**. The user controls the value of  **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**. However, when a control is set to  **Null**, no event is fired.
+The following example uses the **TripleState** property to allow Null as a legal value of a **[CheckBox](checkbox-object-outlook-forms-script.md)** and a **[ToggleButton](togglebutton-object-outlook-forms-script.md)**. The user controls the value of **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**. However, when a control is set to **Null**, no event is fired.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **CheckBox** named CheckBox1.
+- A **CheckBox** named CheckBox1.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
-- A  **ToggleButton** named ToggleButton2.
+- A **ToggleButton** named ToggleButton2.
     
 
 

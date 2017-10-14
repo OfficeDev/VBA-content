@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Range Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the range the specified hyperlink is attached to.
+Returns a **[Range](range-object-excel.md)** object that represents the range the specified hyperlink is attached to.
 
 
 ## Syntax

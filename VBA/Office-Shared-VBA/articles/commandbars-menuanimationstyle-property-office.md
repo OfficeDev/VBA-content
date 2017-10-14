@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.MenuAnimationStyle Property (Office)
 
-Gets or sets a  **MsoMenuAnimation** that represents the way a command bar is animated. Read/write.
+Gets or sets a **MsoMenuAnimation** that represents the way a command bar is animated. Read/write.
 
 
 ## 

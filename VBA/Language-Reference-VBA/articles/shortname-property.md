@@ -21,7 +21,7 @@ Returns the short name used by programs that require the earlier 8.3 naming conv
  _object_. **ShortName**
 The  _object_ is always a **File** or **Folder** object.
  **Remarks**
-The following code illustrates the use of the  **ShortName** property with a **File** object:
+The following code illustrates the use of the **ShortName** property with a **File** object:
 
 
 

@@ -25,9 +25,9 @@ Returns or sets an [AddressEntry](addressentry-object-outlook.md) object that co
 
 ## Remarks
 
-In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the  **AddressEntry** object of the user that is represented by the[CurrentUser](account-currentuser-property-outlook.md) property of a specific account.
+In a session where multiple accounts are defined in the profile, you can set this property to specify the account from which to send a mail item. Set this property to the **AddressEntry** object of the user that is represented by the[CurrentUser](account-currentuser-property-outlook.md) property of a specific account.
 
-If you set the  **Sender** property to an **AddressEntry** that does not have permissions to send messages on that account, Microsoft Outlook will raise an error.
+If you set the **Sender** property to an **AddressEntry** that does not have permissions to send messages on that account, Microsoft Outlook will raise an error.
 
 
 ## Example
@@ -37,7 +37,7 @@ Michael Bauer provided the following code example. Michael is a [Microsoft Most 
 
 The following VBA code example shows how to display the details of the sender of an e-mail. If the sender corresponds to a contact in the user's Outlook Contacts Address Book (CAB), the code example displays information about that contact in an inspector. If the sender is not a contact in the user's CAB, the code example displays details from the user's address entry (taken from the transport provider's address book container) in a dialog box. 
 
-To display information about a sender, the user should have selected a  **MailItem** in the explorer. The code example also checks whether the selected **MailItem** has been sent, because the **Sender** property is defined only if the **Mailtem** has been sent. The example then accesses the **Sender** property to obtain the **AddressEntry** object that corresponds to the sender of that mail item, and displays the contact information, if it exists; otherwise, the example displays the address entry details.
+To display information about a sender, the user should have selected a **MailItem** in the explorer. The code example also checks whether the selected **MailItem** has been sent, because the **Sender** property is defined only if the **Mailtem** has been sent. The example then accesses the **Sender** property to obtain the **AddressEntry** object that corresponds to the sender of that mail item, and displays the contact information, if it exists; otherwise, the example displays the address entry details.
 
 
 

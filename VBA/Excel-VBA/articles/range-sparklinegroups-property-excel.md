@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.SparklineGroups Property (Excel)
 
-Returns a  **[SparklineGroups](sparklinegroups-object-excel.md)** object that represents an existing group of sparklines from the specified range. Read-only
+Returns a **[SparklineGroups](sparklinegroups-object-excel.md)** object that represents an existing group of sparklines from the specified range. Read-only
 
 
 ## Syntax

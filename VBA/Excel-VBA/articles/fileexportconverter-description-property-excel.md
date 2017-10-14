@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileExportConverter.Description Property (Excel)
 
-Returns the description for the file converter. Read-only  **String** .
+Returns the description for the file converter. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the description for the file converter. Read-only  **String** .
 
 ## Example
 
-The following example displays the description for the first file converter in the  **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
+The following example displays the description for the first file converter in the **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
 
 
 ```vb

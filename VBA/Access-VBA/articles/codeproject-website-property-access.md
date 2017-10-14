@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeProject.WebSite Property (Access)
 
-Gets the Uniform Resource Locator (URL) of the Web site to which the database has been published. Read-only  **String**.
+Gets the Uniform Resource Locator (URL) of the Web site to which the database has been published. Read-only **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the Uniform Resource Locator (URL) of the Web site to which the database ha
 
 ## Remarks
 
-The  **WebSite** property contains a zero-length string if the database has not been published.
+The **WebSite** property contains a zero-length string if the database has not been published.
 
 
 ## See also

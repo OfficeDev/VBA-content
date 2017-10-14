@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ActiveCell Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the active cell in the active window (the window on top) or in the specified window. If the window isn't displaying a worksheet, this property fails. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the active cell in the active window (the window on top) or in the specified window. If the window isn't displaying a worksheet, this property fails. Read-only.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ Application.ActiveWindow.ActiveCell
 
 ## Example
 
-This example uses a message box to display the value in the active cell. Because the  **ActiveCell** property fails if the active sheet isn't a worksheet, the example activates Sheet1 before using the **ActiveCell** property.
+This example uses a message box to display the value in the active cell. Because the **ActiveCell** property fails if the active sheet isn't a worksheet, the example activates Sheet1 before using the **ActiveCell** property.
 
 
 ```vb

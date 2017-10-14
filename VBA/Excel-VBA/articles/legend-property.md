@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Legend Property
 
-Returns a  **[Legend](legend-object.md)** object that represents the legend for the specified chart. Read-only.
+Returns a **[Legend](legend-object.md)** object that represents the legend for the specified chart. Read-only.
 
 
 ## Example

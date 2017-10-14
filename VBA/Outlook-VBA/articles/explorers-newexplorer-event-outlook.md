@@ -35,7 +35,7 @@ Occurs whenever a new explorer window is opened, either as a result of user acti
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-The event occurs after the new  **[Explorer](explorer-object-outlook.md)** object is created but before the explorer window appears.
+The event occurs after the new **[Explorer](explorer-object-outlook.md)** object is created but before the explorer window appears.
 
 
 ## Example

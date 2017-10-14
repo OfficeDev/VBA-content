@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Modal Property (Access)
 
-You can use the  **Modal** property to specify whether a report opens as a modal window. When a report opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
+You can use the **Modal** property to specify whether a report opens as a modal window. When a report opens as a modal window, you must close the window before you can move the focus to another object. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Modal** property to specify whether a report opens as a modal
 
 ## Remarks
 
-The  **Modal** property uses the following settings.
+The **Modal** property uses the following settings.
 
 
 
@@ -33,7 +33,7 @@ The  **Modal** property uses the following settings.
 |:-----|:-----|:-----|
 |Yes|**True**|The form or report opens as a modal window.|
 |No|**False**|(Default) The form opens as a non-modal window.|
-When you open a modal window, other windows in Microsoft Access are disabled until you close it (although you can switch to windows in other applications). To disable menus and toolbars in addition to other windows, set both the  **Modal** and **PopUp** properties to Yes.
+When you open a modal window, other windows in Microsoft Access are disabled until you close it (although you can switch to windows in other applications). To disable menus and toolbars in addition to other windows, set both the **Modal** and **PopUp** properties to Yes.
 
 
 ## See also

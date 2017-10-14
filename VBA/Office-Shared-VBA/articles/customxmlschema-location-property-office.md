@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLSchema.Location Property (Office)
 
-Gets a  **String** that represents the location of a schema on a computer. Read-only.
+Gets a **String** that represents the location of a schema on a computer. Read-only.
 
 
 ## Syntax

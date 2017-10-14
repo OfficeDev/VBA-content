@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Label.GridlineWidthBottom Property (Access)
 
-Gets or sets the width of the bottom gridline for the specified label. Read/write  **Byte**.
+Gets or sets the width of the bottom gridline for the specified label. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the bottom gridline for the specified label. Read/writ
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **BottomGridlineWidth** property uses the following settings.
 
 
 

@@ -29,19 +29,19 @@ When you construct a DASL query for a custom property, you must use the namespac
 
  **http://schemas.microsoft.com/mapi/string/{GUID}/PropertyName**
 
-where  **{GUID}** is the following GUID:
+where **{GUID}** is the following GUID:
 
  **{00020329-0000-0000-C000-000000000046}**
 
 
 ## Filtering Custom Properties Referenced by the MAPI String Namespace
 
-If the custom property you are filtering for does not exist in the  **[UserDefinedProperties](userdefinedproperties-object-outlook.md)** collection for the folder, and if you are referencing the custom property by the MAPI string namespace, then you must explicitly append a type specifier to the namespace representation of the custom property. Note that you need to specify the type only when applying a DASL filter to search and filter entry points in the **[Items](items-object-outlook.md)** collection and the **[Table](table-object-outlook.md)** object, and to the **[Application.AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
+If the custom property you are filtering for does not exist in the **[UserDefinedProperties](userdefinedproperties-object-outlook.md)** collection for the folder, and if you are referencing the custom property by the MAPI string namespace, then you must explicitly append a type specifier to the namespace representation of the custom property. Note that you need to specify the type only when applying a DASL filter to search and filter entry points in the **[Items](items-object-outlook.md)** collection and the **[Table](table-object-outlook.md)** object, and to the **[Application.AdvancedSearch](application-advancedsearch-method-outlook.md)** method.
 
 
  **Note**  The hexagonal type specifier must be of the form 0000HHHH with only 8 digits as opposed to 9. For more information on the hexagonal type specifiers (HHHH) for various MAPI types, see  [Property Types](http://msdn.microsoft.com/library/71967150-1005-4c85-90f1-76fc7876c0d0.aspx).
 
-For example, if you want to use  **[Items.Restrict](items-restrict-method-outlook.md)** to search for the custom Unicode string property named "MyProperty" and this property does not exist in the **UserDefinedProperties** collection for the folder, you must append the Unicode string type specifier, 0000001f, to the representation of the property in the MAPI string namespace:
+For example, if you want to use **[Items.Restrict](items-restrict-method-outlook.md)** to search for the custom Unicode string property named "MyProperty" and this property does not exist in the **UserDefinedProperties** collection for the folder, you must append the Unicode string type specifier, 0000001f, to the representation of the property in the MAPI string namespace:
 
 
 

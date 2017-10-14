@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Workbook.DefaultTimelineStyle Property (Excel)
 
-The name of the default slicer style of the workbook.  **Variant**. Read/Write
+The name of the default slicer style of the workbook. **Variant**. Read/Write
 
 
 ## Syntax

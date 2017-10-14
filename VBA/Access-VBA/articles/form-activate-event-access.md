@@ -31,17 +31,17 @@ nothing
 ## Remarks
 
 
- **Note**  The  **Activate** event doesn't occur when a form receives focus back from a dialog box, popup, or another form.
+ **Note**  The **Activate** event doesn't occur when a form receives focus back from a dialog box, popup, or another form.
 
-To run a macro or event procedure when these events occur, set the  **OnActivate**, or **OnDeactivate** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **OnActivate**, or **OnDeactivate** property to the name of the macro or to [Event Procedure].
 
-You can make a form active by opening it, clicking it or a control on it, or by using the  **SetFocus** method in Visual Basic.
+You can make a form active by opening it, clicking it or a control on it, or by using the **SetFocus** method in Visual Basic.
 
-The  **Activate** event can occur only when a form is visible.
+The **Activate** event can occur only when a form is visible.
 
-The  **Activate** event occurs before the **GotFocus** event; the Deactivate event occurs after the **LostFocus** event.
+The **Activate** event occurs before the **GotFocus** event; the Deactivate event occurs after the **LostFocus** event.
 
-When you switch between two open forms, the  **Deactivate** event occurs for the form being switched from, and the **Activate** event occurs for the form being switched to. If the forms contain no visible, enabled controls, the **LostFocus** event occurs for the first form before the **Deactivate** event, and the **GotFocus** event occurs for the second form after the **Activate** event.
+When you switch between two open forms, the **Deactivate** event occurs for the form being switched from, and the **Activate** event occurs for the form being switched to. If the forms contain no visible, enabled controls, the **LostFocus** event occurs for the first form before the **Deactivate** event, and the **GotFocus** event occurs for the second form after the **Activate** event.
 
 When you first open a form, the following events occur in this order:
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.MaxDrillthroughRecords Property (Excel)
 
-Returns or sets the maximum number of records to retrieve. Read/write  **Long** .
+Returns or sets the maximum number of records to retrieve. Read/write **Long** .
 
 
 ## Syntax

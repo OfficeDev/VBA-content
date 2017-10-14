@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartGroups Method (Excel)
 
-Returns an object that represents either a single chart group (a  **[ChartGroup](chartgroup-object-excel.md)** object) or a collection of all the chart groups in the chart (a **[ChartGroups](chartgroups-object-excel.md)** object). The returned collection includes every type of group.
+Returns an object that represents either a single chart group (a **[ChartGroup](chartgroup-object-excel.md)** object) or a collection of all the chart groups in the chart (a **[ChartGroups](chartgroups-object-excel.md)** object). The returned collection includes every type of group.
 
 
 ## Syntax

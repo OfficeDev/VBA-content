@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.HTMLDocument Property (Outlook)
 
-Returns an  **HTMLDocument** object that specifies the HTML object model associated with the HTML document in the current view (assuming one exists). Read-only.
+Returns an **HTMLDocument** object that specifies the HTML object model associated with the HTML document in the current view (assuming one exists). Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **HTMLDocument** object that specifies the HTML object model associa
 
 ## Remarks
 
-In order to use this property, a folder must be using a folder home page, or you can set the  **[WebViewURL](folder-webviewurl-property-outlook.md)** property of the **[Folder](folder-object-outlook.md)** object to a Web page.
+In order to use this property, a folder must be using a folder home page, or you can set the **[WebViewURL](folder-webviewurl-property-outlook.md)** property of the **[Folder](folder-object-outlook.md)** object to a Web page.
 
 
 ## Example

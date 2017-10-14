@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[MoveAfterReturnDirection](application-moveafterreturndirection-property-excel.md)** property to specify the direction in which the active cell is to be moved.
+Use the **[MoveAfterReturnDirection](application-moveafterreturndirection-property-excel.md)** property to specify the direction in which the active cell is to be moved.
 
 
 ## Example
 
-This example sets the  **MoveAfterReturn** property to **True** .
+This example sets the **MoveAfterReturn** property to **True** .
 
 
 ```vb

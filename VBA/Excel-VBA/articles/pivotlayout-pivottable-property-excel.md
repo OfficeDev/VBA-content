@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotLayout.PivotTable Property (Excel)
 
-Returns a  **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable report associated with the PivotChart report.
+Returns a **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable report associated with the PivotChart report.
 
 
 ## Syntax

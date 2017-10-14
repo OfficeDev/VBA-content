@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](workbook-setpasswordencryptionoptions-method-excel.md)** method to specify whether Excel encrypts file properties for the specified password-protected workbook.
+Use the **[SetPasswordEncryptionOptions](workbook-setpasswordencryptionoptions-method-excel.md)** method to specify whether Excel encrypts file properties for the specified password-protected workbook.
 
 
 ## Example

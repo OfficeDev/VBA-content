@@ -25,7 +25,7 @@ Specifies the table to be updateable when A form is bound to a multiple table vi
 
 ## Remarks
 
-The  **UniqueTable** property identifies the "most many" table of a join.
+The **UniqueTable** property identifies the "most many" table of a join.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.Value Property (Excel)
 
-Returns or sets a  **Long** value that represents the name of specified control format.
+Returns or sets a **Long** value that represents the name of specified control format.
 
 
 ## Syntax

@@ -36,7 +36,7 @@ Gets the name of a built-in command bar as it's displayed in the language versio
 
 The local name of a built-in command bar is displayed in the title bar (when the command bar isn't docked) and in the list of available command bars, wherever that list is displayed in the container application.
 
-If you change the value of the  **LocalName** property for a custom command bar, the value of **Name** changes as well, and vice versa.
+If you change the value of the **LocalName** property for a custom command bar, the value of **Name** changes as well, and vice versa.
 
 
 ## Example

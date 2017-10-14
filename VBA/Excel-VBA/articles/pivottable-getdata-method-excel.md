@@ -29,7 +29,7 @@ Returns the value for the a data filed in a PivotTable.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|Describes a single cell in the PivotTable report, using syntax similar to the  **[PivotSelect](pivottable-pivotselect-method-excel.md)** method or the PivotTable report references in calculated item formulas.|
+| _Name_|Required| **String**|Describes a single cell in the PivotTable report, using syntax similar to the **[PivotSelect](pivottable-pivotselect-method-excel.md)** method or the PivotTable report references in calculated item formulas.|
 
 ### Return Value
 

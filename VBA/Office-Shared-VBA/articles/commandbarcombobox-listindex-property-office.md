@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.ListIndex Property (Office)
 
-Gets or sets the index number of the selected item in the list portion of the  **CommandBarComboBox** control. If nothing is selected in the list, this property returns zero. Read/write.
+Gets or sets the index number of the selected item in the list portion of the **CommandBarComboBox** control. If nothing is selected in the list, this property returns zero. Read/write.
 
 
 ## 
@@ -34,12 +34,12 @@ Gets or sets the index number of the selected item in the list portion of the  *
 
  **Note**  This property fails when applied to controls other than list controls.
 
-Setting the  **ListIndex** property causes the specified control to select the given item and execute the appropriate action in the application.
+Setting the **ListIndex** property causes the specified control to select the given item and execute the appropriate action in the application.
 
 
 ## Example
 
-This example uses the  **ListIndex** property to determine the correct subroutine to run, based on the selection in the combo box on the command bar named "My Custom Bar." Because the procedure uses **ListIndex**, the text in the combo box can be anything.
+This example uses the **ListIndex** property to determine the correct subroutine to run, based on the selection in the combo box on the command bar named "My Custom Bar." Because the procedure uses **ListIndex**, the text in the combo box can be anything.
 
 
 ```

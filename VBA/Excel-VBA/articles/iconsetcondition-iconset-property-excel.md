@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconSetCondition.IconSet Property (Excel)
 
-Returns or sets an  **[IconSets](iconsets-object-excel.md)** collection, which specifies the icon set used in the conditional format.
+Returns or sets an **[IconSets](iconsets-object-excel.md)** collection, which specifies the icon set used in the conditional format.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[IconSets](iconsets-object-excel.md)** collection, which s
 
 ## Remarks
 
-You can assign the icon set by using the  **[IconSets](workbook-iconsets-property-excel.md)** property of the **[Workbook](workbook-object-excel.md)** object. For example, `Selection.FormatConditions(1).IconSet = ActiveWorkbook.IconSets(xl3TrafficLights1)` will apply the three-traffic-light icon set to the conditional format.
+You can assign the icon set by using the **[IconSets](workbook-iconsets-property-excel.md)** property of the **[Workbook](workbook-object-excel.md)** object. For example, `Selection.FormatConditions(1).IconSet = ActiveWorkbook.IconSets(xl3TrafficLights1)` will apply the three-traffic-light icon set to the conditional format.
 
 
 ## See also

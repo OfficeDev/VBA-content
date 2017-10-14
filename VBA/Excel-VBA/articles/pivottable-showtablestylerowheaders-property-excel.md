@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ShowTableStyleRowHeaders Property (Excel)
 
-The  **ShowTableStyleRowHeaders** property is set to **True** if the row headers should be displayed in the PivotTable. Read/write **Boolean** .
+The **ShowTableStyleRowHeaders** property is set to **True** if the row headers should be displayed in the PivotTable. Read/write **Boolean** .
 
 
 ## Syntax

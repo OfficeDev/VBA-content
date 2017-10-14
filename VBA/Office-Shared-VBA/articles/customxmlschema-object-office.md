@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomXMLSchema Object (Office)
 
-Represents a schema in a  **CustomXMLSchemaCollection** collection.
+Represents a schema in a **CustomXMLSchemaCollection** collection.
 
 
 ## Example
 
-The following example adds a  **CustomXMLSchema** object to a **CustomXMLSchemaCollection** object.
+The following example adds a **CustomXMLSchema** object to a **CustomXMLSchemaCollection** object.
 
 
 ```

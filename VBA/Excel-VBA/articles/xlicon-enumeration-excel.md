@@ -72,6 +72,6 @@ Specifies the icon for a criterion in an icon set conditional formatting rule.
 
 ## Remarks
 
-Specify the icon for a criterion in an icon set conditional formatting rule by using the  **[Icon](iconcriterion-icon-property-excel.md)** property of the **[IconCriterion](iconcriterion-object-excel.md)** object.
+Specify the icon for a criterion in an icon set conditional formatting rule by using the **[Icon](iconcriterion-icon-property-excel.md)** property of the **[IconCriterion](iconcriterion-object-excel.md)** object.
 
 

@@ -27,7 +27,7 @@ Single
 
 ## Remarks
 
-In Microsoft Word, the  **ShapeLeft** and **ShapeTop** properties will return an error is the picture or shape have the wrap text set to **Inline with Text**.
+In Microsoft Word, the **ShapeLeft** and **ShapeTop** properties will return an error is the picture or shape have the wrap text set to **Inline with Text**.
 
 
 ## Example

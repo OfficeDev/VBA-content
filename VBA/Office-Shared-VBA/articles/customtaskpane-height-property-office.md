@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomTaskPane.Height Property (Office)
 
-Gets or sets the height of the  **CustomTaskPane** object (in points). Read/write.
+Gets or sets the height of the **CustomTaskPane** object (in points). Read/write.
 
 
 ## Syntax

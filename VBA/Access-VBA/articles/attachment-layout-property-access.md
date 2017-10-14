@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.Layout Property (Access)
 
-Returns the type of layout for the specified attachment. Read-only  **[AcLayoutType](aclayouttype-enumeration-access.md)**.
+Returns the type of layout for the specified attachment. Read-only **[AcLayoutType](aclayouttype-enumeration-access.md)**.
 
 
 ## Syntax

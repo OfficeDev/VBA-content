@@ -29,7 +29,7 @@ Defines a parameter for the specified query table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlParameterType](xlparametertype-enumeration-excel.md)**|One of the constants of  **XlParameterType** which specifies the parameter type.|
+| _Type_|Required| **[XlParameterType](xlparametertype-enumeration-excel.md)**|One of the constants of **XlParameterType** which specifies the parameter type.|
 | _Value_|Required| **Variant**|The value of the specified parameter, as shown in the description of the  _Type_ argument.|
 
 ## Remarks

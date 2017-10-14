@@ -17,7 +17,7 @@ The keyword you want help on may be contained within an [object library](vbe-glo
 
 The easiest way to get help on a specific keyword is to position the insertion point anywhere within the keyword and press F1. You don't have to select the keyword. In fact, if you select only a portion of the keyword, or more than a single word, Help won't find what you're looking for.
 
-The  **Value** property topic is displayed when you press F1 with the insertion point between the "a" and the "l" in the **Value** keyword as shown in the following example.
+The **Value** property topic is displayed when you press F1 with the insertion point between the "a" and the "l" in the **Value** keyword as shown in the following example.
 
 
 
@@ -26,7 +26,7 @@ Worksheets(1).Range ("A2").value=3.14159
 
 ```
 
-To use the built-in Help  **Search**, click **Microsoft Visual Basic Help** on the **Help** menu.
+To use the built-in Help **Search**, click **Microsoft Visual Basic Help** on the **Help** menu.
 
 
 

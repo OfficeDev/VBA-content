@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Journal Property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the transaction of the contact will be journalized. Read/write.
+Returns a **Boolean** that indicates **True** if the transaction of the contact will be journalized. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** that indicates **True** if the transaction of the contact
 
 ## Remarks
 
-The default value is  **False** .
+The default value is **False** .
 
 
 ## See also

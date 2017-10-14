@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Orientation Property (Excel)
 
-Returns or sets a  **[XlPageOrientation](xlpageorientation-enumeration-excel.md)** value that represents the portrait or landscape printing mode.
+Returns or sets a **[XlPageOrientation](xlpageorientation-enumeration-excel.md)** value that represents the portrait or landscape printing mode.
 
 
 ## Syntax

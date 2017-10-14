@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPrefixMapping.NamespaceURI Property (Office)
 
-Gets the unique address identifier for the namespace of the  **CustomXMLPrefixMapping** object. Read-only.
+Gets the unique address identifier for the namespace of the **CustomXMLPrefixMapping** object. Read-only.
 
 
 ## Syntax

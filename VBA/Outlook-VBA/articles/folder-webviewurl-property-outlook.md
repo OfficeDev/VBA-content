@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.WebViewURL Property (Outlook)
 
-Returns or sets a  **String** indicating the URL of the Web page that is assigned to a folder. Read/write.
+Returns or sets a **String** indicating the URL of the Web page that is assigned to a folder. Read/write.
 
 
 ## Syntax

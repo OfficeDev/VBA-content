@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NotesModule.NavigationGroups Property (Outlook)
 
-Returns a  **[NavigationGroups](navigationgroups-object-outlook.md)** object that contains the set of navigation groups associated with the **[NotesModule](notesmodule-object-outlook.md)** object. Read-only.
+Returns a **[NavigationGroups](navigationgroups-object-outlook.md)** object that contains the set of navigation groups associated with the **[NotesModule](notesmodule-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

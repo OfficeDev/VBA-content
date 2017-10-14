@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.WindowTop Property (Access)
 
-Returns an  **Integer** indicating the screen position in twips of the top edge of a report relative to the top of the Microsoft Access window. Read-only.
+Returns an **Integer** indicating the screen position in twips of the top edge of a report relative to the top of the Microsoft Access window. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **Integer** indicating the screen position in twips of the top edge 
 
 ## Remarks
 
-Use the  **Move** method to change the position of a report.
+Use the **Move** method to change the position of a report.
 
 
 ## See also

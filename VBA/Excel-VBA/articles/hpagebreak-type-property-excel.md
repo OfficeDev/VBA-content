@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HPageBreak.Type Property (Excel)
 
-Returns or sets a  **[XlPageBreak](xlpagebreak-enumeration-excel.md)** value that represents the page break type.
+Returns or sets a **[XlPageBreak](xlpagebreak-enumeration-excel.md)** value that represents the page break type.
 
 
 ## Syntax

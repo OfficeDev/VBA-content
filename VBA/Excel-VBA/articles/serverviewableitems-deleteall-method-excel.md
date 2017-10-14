@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ServerViewableItems.DeleteAll Method (Excel)
 
-Deletes references to all the objects in the  **[ServerViewableItems](serverviewableitems-object-excel.md)** collection in the workbook.
+Deletes references to all the objects in the **[ServerViewableItems](serverviewableitems-object-excel.md)** collection in the workbook.
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Deletes references to all the objects in the  **[ServerViewableItems](serverview
 
 ## Remarks
 
-If you do not want any of the objects in the  **ServerViewableItems** collection to be viewable on the server, use this method to remove them all at once.
+If you do not want any of the objects in the **ServerViewableItems** collection to be viewable on the server, use this method to remove them all at once.
 
 
- **Note**  If the  **ServerViewableItems** collection does not contain at least one object, you will see the message "Unable to Display Specified Named Range or Item" when viewing the workbook in Excel Services.
+ **Note**  If the **ServerViewableItems** collection does not contain at least one object, you will see the message "Unable to Display Specified Named Range or Item" when viewing the workbook in Excel Services.
 
 
 ## See also

@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # CustomXMLNode Object (Office)
 
-Represents an XML node in a tree in a document. The  **CustomXMLNode** object is a member of the **CustomXMLNodes** collection.
+Represents an XML node in a tree in a document. The **CustomXMLNode** object is a member of the **CustomXMLNodes** collection.
 
 
 ## Remarks
 
-The  **CustomXMLNode** object is designed to have functional parity with the **IXMLDOMNode** interface. In addition, it contains an **XPath** property, which is a great improvement over the objects provided by MSXML.
+The **CustomXMLNode** object is designed to have functional parity with the **IXMLDOMNode** interface. In addition, it contains an **XPath** property, which is a great improvement over the objects provided by MSXML.
 
 
 ## Example
 
-The following example selects a single node from a  **CustomXMLPart** object by using an XPath expression and assigns it to a **CustomXMLNode** object.
+The following example selects a single node from a **CustomXMLPart** object by using an XPath expression and assigns it to a **CustomXMLNode** object.
 
 
 ```

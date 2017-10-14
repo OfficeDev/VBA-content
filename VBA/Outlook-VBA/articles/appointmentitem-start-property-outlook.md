@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.Start Property (Outlook)
 
-Returns or sets a  **Date** indicating the starting date and time for the Outlook item. Read/write.
+Returns or sets a **Date** indicating the starting date and time for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** indicating the starting date and time for the Outloo
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" and to make it a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" and to make it a meeting request with both a required and an optional attendee.
 
 
 ```vb

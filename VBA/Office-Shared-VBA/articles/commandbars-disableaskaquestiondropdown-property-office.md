@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.DisableAskAQuestionDropdown Property (Office)
 
-Is  **True** if the **Answer Wizard** dropdown menu is enabled. Read/write.
+Is **True** if the **Answer Wizard** dropdown menu is enabled. Read/write.
 
 
 ## 
@@ -31,7 +31,7 @@ Is  **True** if the **Answer Wizard** dropdown menu is enabled. Read/write.
 
 ## Example
 
-The following example switches the  **DisableAskAQuestionDropdown** property on or off.
+The following example switches the **DisableAskAQuestionDropdown** property on or off.
 
 
 ```

@@ -30,7 +30,7 @@ Returns or sets the horizontal overflow setting for the specified object. Read/w
 
 ## Remarks
 
-This property only has an effect when the  **[WordWrap](textframe2-wordwrap-property-excel.md)** property is **msoFalse** (0).
+This property only has an effect when the **[WordWrap](textframe2-wordwrap-property-excel.md)** property is **msoFalse** (0).
 
 
 ## See also

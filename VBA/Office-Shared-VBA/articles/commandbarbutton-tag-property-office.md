@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Tag Property (Office)
 
-Gets or sets information about the  **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
+Gets or sets information about the **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
 
 
 ## 
@@ -33,7 +33,7 @@ String
 
 ## Example
 
-To avoid duplicate calls of the same class when tiggered with events, define the  **Tag** property unique to the events. The following example demonstrates this concept with two modules.
+To avoid duplicate calls of the same class when tiggered with events, define the **Tag** property unique to the events. The following example demonstrates this concept with two modules.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conversation.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified **[Conversation](conversation-object-outlook.md)** object. Read-only.
+Returns the parent **Object** of the specified **[Conversation](conversation-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified **[Conversation](conversation-ob
 
 ## Remarks
 
-The parent of a  **Conversation** object is the first item in the conversation.
+The parent of a **Conversation** object is the first item in the conversation.
 
  If all items in the conversation are deleted after the **Conversation** object has been obtained, the **Parent** property returns **Null** ( **Nothing** in Visual Basic).
 

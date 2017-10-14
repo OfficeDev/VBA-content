@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Seek <keyword>
 
-The  **Seek** keyword is used in these contexts:
+The **Seek** keyword is used in these contexts:
 
 [Seek Function](seek-function.md)
 

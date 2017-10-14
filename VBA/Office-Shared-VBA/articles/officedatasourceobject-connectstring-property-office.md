@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.ConnectString Property (Office)
 
-Gets or sets a  **String** that represents the connection to the specified mail merge data source. Read/write.
+Gets or sets a **String** that represents the connection to the specified mail merge data source. Read/write.
 
 
 ## Syntax

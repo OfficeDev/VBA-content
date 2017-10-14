@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.Language Property (Outlook)
 
-Returns a  **Long** that indicates the LCID for the current language. Read-only.
+Returns a **Long** that indicates the LCID for the current language. Read-only.
 
 
 ## Syntax

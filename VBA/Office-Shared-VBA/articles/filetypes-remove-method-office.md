@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileTypes.Remove Method (Office)
 
-Removes a  **FileType** object from the collection.
+Removes a **FileType** object from the collection.
 
 
 ## Syntax

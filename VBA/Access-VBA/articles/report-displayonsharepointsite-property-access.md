@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.DisplayOnSharePointSite Property (Access)
 
-Gets or sets whether the specified report can be made available as a view on a Microsoft SharePoint Foundation site. Read/write  **Byte**.
+Gets or sets whether the specified report can be made available as a view on a Microsoft SharePoint Foundation site. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets whether the specified report can be made available as a view on a M
 
 ## Remarks
 
-The  **DisplayOnSharePointSite** property uses the following settings.
+The **DisplayOnSharePointSite** property uses the following settings.
 
 
 

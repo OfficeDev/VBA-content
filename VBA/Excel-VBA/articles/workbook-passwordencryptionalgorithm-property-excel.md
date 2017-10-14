@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PasswordEncryptionAlgorithm Property (Excel)
 
-Returns a  **String** indicating the algorithm Microsoft Excel uses to encrypt passwords for the specified workbook. Read-only.
+Returns a **String** indicating the algorithm Microsoft Excel uses to encrypt passwords for the specified workbook. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** indicating the algorithm Microsoft Excel uses to encrypt p
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](workbook-setpasswordencryptionoptions-method-excel.md)** method to specify whether Excel encrypts file properties for password-protected workbooks.
+Use the **[SetPasswordEncryptionOptions](workbook-setpasswordencryptionoptions-method-excel.md)** method to specify whether Excel encrypts file properties for password-protected workbooks.
 
 
 ## Example

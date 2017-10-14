@@ -22,7 +22,7 @@ This object corresponds to a page break control. The page break control marks th
 |:-----|:-----|
 |![Page break control](images/t-pgbrk_ZA06047730.gif)|![Page break tool](images/pagebrk_ZA06044536.gif)|
 
-In a form, a page break is active only when you set the form's  **DefaultView** property to Single Form. Page breaks don't affect a form's datasheet.
+In a form, a page break is active only when you set the form's **DefaultView** property to Single Form. Page breaks don't affect a form's datasheet.
 
 In Form view, press the PAGE UP or PAGE DOWN key to move to the previous or next page break.
 

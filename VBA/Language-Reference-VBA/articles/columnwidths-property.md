@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies the width of each column in a multicolumn combo box or list box.
  **Syntax**
  _object_. **ColumnWidths** [= _String_ ]
-The  **ColumnWidths** property syntax has these parts:
+The **ColumnWidths** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -27,9 +27,9 @@ The  **ColumnWidths** property syntax has these parts:
 | _String_|Optional. Sets the column width in points. A setting of -1 or blank results in a calculated width. A width of 0 hides a column. To specify a different unit of measurement, include the unit of measure. A value greater than 0 explicitly specifies the width of the column.|
  **Settings**
 To separate column entries, use semicolons (;) as list separators. In Windows, use the list separator specified in the Regional Settings section of the Windows Control Panel to change this value.
-Any or all of the  **ColumnWidths** property settings can be blank. You create a blank setting by typing a list separator without a preceding value.
+Any or all of the **ColumnWidths** property settings can be blank. You create a blank setting by typing a list separator without a preceding value.
 If you specify a -1 in the property page, the displayed value in the property page is a blank.
-To calculate column widths when  **ColumnWidths** is blank or -1, the width of the control is divided equally among all columns of the list. If the sum of the specified column widths exceeds the width of the control, the list is left-aligned within the control and one or more of the rightmost columns are not displayed. Users can scroll the list using the horizontal scroll bar to display the rightmost columns.
+To calculate column widths when **ColumnWidths** is blank or -1, the width of the control is divided equally among all columns of the list. If the sum of the specified column widths exceeds the width of the control, the list is left-aligned within the control and one or more of the rightmost columns are not displayed. Users can scroll the list using the horizontal scroll bar to display the rightmost columns.
 The minimum calculated column width is 72 [points](vbe-glossary.md) (1 inch). To produce columns narrower than this, you must specify the width explicitly.
 Unless specified otherwise, column widths are measured in points. To specify another unit of measure, include the units as part of the values. The following examples specify column widths in several units of measure and describe how the various settings would fit in a three-column list box that is 4 inches wide.
 
@@ -42,5 +42,5 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 |2 in;;2 in|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|
 |(Blank)|All three columns are the same width (1.33 inches).|
  **Remarks**
-In a combo box, the system displays the column designated by the  **TextColumn** property in the text box portion of the control.
+In a combo box, the system displays the column designated by the **TextColumn** property in the text box portion of the control.
 

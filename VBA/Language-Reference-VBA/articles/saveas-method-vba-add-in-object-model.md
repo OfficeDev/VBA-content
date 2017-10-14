@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Saves a project to a given location using a new filename.
  **Syntax**
  _object_**.SaveAs** **(**_newfilename_**As String)**
-The  **SaveAs** method syntax has these parts:
+The **SaveAs** method syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,5 +25,5 @@ The  **SaveAs** method syntax has these parts:
 | _newfilename_|Required. A [string expression](vbe-glossary.md) specifying the new filename for the component to be saved.|
  **Remarks**
 If a new path name is given, it is used. Otherwise, the old path name is used. If the new filename is invalid or refers to a read-only file, an error occurs.
-The  **SaveAs** method can only be used on standalone projects. It generates a run-time error if you use it with a host project.
+The **SaveAs** method can only be used on standalone projects. It generates a run-time error if you use it with a host project.
 

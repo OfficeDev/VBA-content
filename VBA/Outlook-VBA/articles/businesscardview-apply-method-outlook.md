@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BusinessCardView.Apply Method (Outlook)
 
-Applies the  **[BusinessCardView](businesscardview-object-outlook.md)** object to the current view.
+Applies the **[BusinessCardView](businesscardview-object-outlook.md)** object to the current view.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Applies the  **[BusinessCardView](businesscardview-object-outlook.md)** object t
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates, saves, and applies a new  **BusinessCardView** object.
+The following Visual Basic for Applications (VBA) example creates, saves, and applies a new **BusinessCardView** object.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconCriterion.Type Property (Excel)
 
-Returns one of the constants of the  **[XlConditionValueTypes](xlconditionvaluetypes-enumeration-excel.md)** enumeration, which specifies how the threshold value for an icon set is determined. Read-only.
+Returns one of the constants of the **[XlConditionValueTypes](xlconditionvaluetypes-enumeration-excel.md)** enumeration, which specifies how the threshold value for an icon set is determined. Read-only.
 
 
 ## Syntax

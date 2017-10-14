@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFormatRule.Enabled Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the formatting rule represented by the **[AutoFormatRule](autoformatrule-object-outlook.md)** object is enabled. Read/write.
+Returns or sets a **Boolean** value that indicates whether the formatting rule represented by the **[AutoFormatRule](autoformatrule-object-outlook.md)** object is enabled. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether the formatting rule 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example enumerates the  **[AutoFormatRules](tableview-autoformatrules-property-outlook.md)** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
+The following Visual Basic for Applications (VBA) example enumerates the **[AutoFormatRules](tableview-autoformatrules-property-outlook.md)** collection for the current **TableView** object, disabling any custom formatting rule contained by the collection.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Screen Property (Access)
 
-You can use the  **Screen** property to return a reference the **[Screen](screen-object-access.md)** object and its related properties. Read-only.
+You can use the **Screen** property to return a reference the **[Screen](screen-object-access.md)** object and its related properties. Read-only.
 
 
 ## Syntax

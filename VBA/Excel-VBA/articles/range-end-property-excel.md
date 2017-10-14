@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.End Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the cell at the end of the region that contains the source range. Equivalent to pressing END+UP ARROW, END+DOWN ARROW, END+LEFT ARROW, or END+RIGHT ARROW. Read-only **Range** object.
+Returns a **[Range](range-object-excel.md)** object that represents the cell at the end of the region that contains the source range. Equivalent to pressing END+UP ARROW, END+DOWN ARROW, END+LEFT ARROW, or END+RIGHT ARROW. Read-only **Range** object.
 
 
 ## Syntax

@@ -39,7 +39,7 @@ String
 
 ## Remarks
 
-The major difference between formatting a cell that contains a number with the  **Cells** command ( **Format** menu) and formatting a number directly with the DOLLAR function is that DOLLAR converts its result to text. A number formatted with the **Cells** command is still a number. You can continue to use numbers formatted with DOLLAR in formulas, because Microsoft Excel converts numbers entered as text values to numbers when it calculates.
+The major difference between formatting a cell that contains a number with the **Cells** command ( **Format** menu) and formatting a number directly with the DOLLAR function is that DOLLAR converts its result to text. A number formatted with the **Cells** command is still a number. You can continue to use numbers formatted with DOLLAR in formulas, because Microsoft Excel converts numbers entered as text values to numbers when it calculates.
 
 
 ## See also

@@ -34,11 +34,11 @@ Binds an explicit built-in property or a custom property to a control in the for
 
 ## Remarks
 
-You can use this method to bind an explicit built-in property or a custom property to a control. You must reference the property by its string name, for example,  **Subject** , and not by namespace, for example, http://schemas.microsoft.com/mapi/proptag/0x0037001E.
+You can use this method to bind an explicit built-in property or a custom property to a control. You must reference the property by its string name, for example, **Subject** , and not by namespace, for example, http://schemas.microsoft.com/mapi/proptag/0x0037001E.
 
 The  _PropertyName_ parameter is not case-sensitive. For example, **SetControlItemProperty** interprets an argument, _CustomerId_, to be the same as  _CustomerID_ and binds the specified control to the built-in **[ContactItem.CustomerID](contactitem-customerid-property-outlook.md)** property.
 
-Other than using the  **SetControlItemProperty** method of a **[FormRegion](formregion-object-outlook.md)** object, you can also use code similar to the following to bind a property such as the **Subject** property to a control:
+Other than using the **SetControlItemProperty** method of a **[FormRegion](formregion-object-outlook.md)** object, you can also use code similar to the following to bind a property such as the **Subject** property to a control:
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Label.BottomMargin Property (Access)
 
-Along with the  **LeftMargin**, **RightMargin**, and **TopMargin** properties, specifies the location of information displayed within a label control. Read/write **Integer**.
+Along with the **LeftMargin**, **RightMargin**, and **TopMargin** properties, specifies the location of information displayed within a label control. Read/write **Integer**.
 
 
 ## Syntax

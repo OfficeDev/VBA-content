@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Views Property (Outlook)
 
-Returns the  **[Views](views-object-outlook.md)** collection object of the **[Folder](folder-object-outlook.md)** object. Read-only.
+Returns the **[Views](views-object-outlook.md)** collection object of the **[Folder](folder-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[Views](views-object-outlook.md)** collection object of the **[Fo
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the  **Views** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
+The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the **Views** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
 
 
 ```vb

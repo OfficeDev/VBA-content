@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Toolbars Command (View Menu)
 
-Lists the toolbars that are built into Visual Basic and the  **Customize** command. You can:
+Lists the toolbars that are built into Visual Basic and the **Customize** command. You can:
 
 
 
@@ -21,13 +21,13 @@ Lists the toolbars that are built into Visual Basic and the  **Customize** comma
     
 
  **Debug**
-Displays the  **Debug** toolbar which contains buttons for common debugging tasks.
+Displays the **Debug** toolbar which contains buttons for common debugging tasks.
  **Edit**
-Displays the  **Edit** toolbar which contains buttons for common editing tasks.
+Displays the **Edit** toolbar which contains buttons for common editing tasks.
  **Standard**
-Displays the  **Standard** toolbar which is the default toolbar.
+Displays the **Standard** toolbar which is the default toolbar.
  **UserForm**
-Displays the  **UserForm** toolbar which contains buttons specific to the form.
+Displays the **UserForm** toolbar which contains buttons specific to the form.
  **Customize**
-Displays the  **Customize** dialog box where you can customize or create toolbars and your menu bar.
+Displays the **Customize** dialog box where you can customize or create toolbars and your menu bar.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.RecordSource Property (Access)
 
-You can use the  **RecordSource** property to specify the source of the data for a report. Read/write **String**.
+You can use the **RecordSource** property to specify the source of the data for a report. Read/write **String**.
 
 
 ## Syntax
@@ -25,23 +25,23 @@ You can use the  **RecordSource** property to specify the source of the data for
 
 ## Remarks
 
-The  **RecordSource** property setting can be a table name, a query name, or an SQL statement. For example, you can use the following settings.
+The **RecordSource** property setting can be a table name, a query name, or an SQL statement. For example, you can use the following settings.
 
 
 
 |**Sample setting**|**Description**|
 |:-----|:-----|
 |Employees|A table name specifying the Employees table as the source of data.|
-| `SELECT Orders!OrderDate FROM Orders;`|An SQL statement specifying the  **OrderDate** field on the Orders table as the source of data. You can bind a control on the form or report to the **OrderDate** field in the Orders table by setting the control's **ControlSource** property to **OrderDate**.|
+| `SELECT Orders!OrderDate FROM Orders;`|An SQL statement specifying the **OrderDate** field on the Orders table as the source of data. You can bind a control on the form or report to the **OrderDate** field in the Orders table by setting the control's **ControlSource** property to **OrderDate**.|
 
- **Note**  Changing the record source of an open form or report causes an automatic requery of the underlying data. If a form's  **Recordset** property is set at runtime, the form's **RecordSource** property is updated.
+ **Note**  Changing the record source of an open form or report causes an automatic requery of the underlying data. If a form's **Recordset** property is set at runtime, the form's **RecordSource** property is updated.
 
-After you have created a form or report, you can change its source of data by changing the  **RecordSource** property. The **RecordSource** property is also useful if you want to create a reusable form or report. For example, you could create a form that incorporates a standard design, then copy the form and change the **RecordSource** property to display data from a different table, query, or SQL statement.
+After you have created a form or report, you can change its source of data by changing the **RecordSource** property. The **RecordSource** property is also useful if you want to create a reusable form or report. For example, you could create a form that incorporates a standard design, then copy the form and change the **RecordSource** property to display data from a different table, query, or SQL statement.
 
 
 ## Example
 
-The following example sets a form's  **RecordSource** property to the Customers table:
+The following example sets a form's **RecordSource** property to the Customers table:
 
 
 ```vb

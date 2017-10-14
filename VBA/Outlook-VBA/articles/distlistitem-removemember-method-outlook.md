@@ -29,11 +29,11 @@ Removes an individual member from a given distribution list.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Recipient_|Required| **[Recipient](recipient-object-outlook.md)**|The  **Recipient** to be removed from the distribution list.|
+| _Recipient_|Required| **[Recipient](recipient-object-outlook.md)**|The **Recipient** to be removed from the distribution list.|
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example removes a member from the distribution list called Group List. The  **RemoveMember** method will fail if the specified recipient is not valid. Before running the example, create or make sure a distribution list called 'Group List' exists in your default Contacts folder.
+The following Microsoft Visual Basic for Applications (VBA) example removes a member from the distribution list called Group List. The **RemoveMember** method will fail if the specified recipient is not valid. Before running the example, create or make sure a distribution list called 'Group List' exists in your default Contacts folder.
 
 
 ```vb

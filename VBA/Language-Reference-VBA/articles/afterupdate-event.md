@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Occurs after data in a control is changed through the user interface.
  **Syntax**
  **Private Sub**_object_ _**AfterUpdate( )**
-The  **AfterUpdate** event syntax has these parts:
+The **AfterUpdate** event syntax has these parts:
 
 
 |**Part**|**Description**|

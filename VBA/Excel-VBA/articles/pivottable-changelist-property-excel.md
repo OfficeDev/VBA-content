@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ChangeList Property (Excel)
 
-Returns the  **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection that represents the list of changes that have been made to the specified PivotTable based on an OLAP data source. Read-only
+Returns the **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection that represents the list of changes that have been made to the specified PivotTable based on an OLAP data source. Read-only
 
 
 ## Syntax

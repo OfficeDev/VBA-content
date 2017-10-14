@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetBackColor Property (Access)
 
-You can use the  **DatasheetBackColor** property in[Visual Basic](set-properties-by-using-visual-basic.md)to specify or determine the background color of an entire table, query, or form in Datasheet view within a Microsoft Access database. Read/write  **Long**.
+You can use the **DatasheetBackColor** property in[Visual Basic](set-properties-by-using-visual-basic.md)to specify or determine the background color of an entire table, query, or form in Datasheet view within a Microsoft Access database. Read/write **Long**.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ You can use the  **DatasheetBackColor** property in[Visual Basic](set-properties
 
 The following setting information applies to both Microsoft Access database and Access projects (.adp):
 
-Setting the  **DatasheetBackColor** property for a table or query won't affect this property setting for a form that uses the table or query as its source of data.
+Setting the **DatasheetBackColor** property for a table or query won't affect this property setting for a form that uses the table or query as its source of data.
 
-The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
+The following table contains the properties that don't exist in the DAO **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 
 |||
@@ -40,12 +40,12 @@ The following table contains the properties that don't exist in the DAO  **Prope
 |**[DatasheetFontItalic](form-datasheetfontitalic-property-access.md)** *|**[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)**|
 |**[DatasheetFontName](form-datasheetfontname-property-access.md)** *|**[DatasheetGridlinesColor](form-datasheetgridlinesbehavior-property-access.md)**|
 
- **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds it to the  **Properties** collection.
+ **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds it to the **Properties** collection.
 
 
 ## Example
 
-The following example uses the SetTableProperty procedure to set a table's font color to dark blue and its background color to light gray. If a "Property not found" error occurs when the property is set, the  **CreateProperty** method is used to add the property to the object's **Properties** collection.
+The following example uses the SetTableProperty procedure to set a table's font color to dark blue and its background color to light gray. If a "Property not found" error occurs when the property is set, the **CreateProperty** method is used to add the property to the object's **Properties** collection.
 
 
 ```vb

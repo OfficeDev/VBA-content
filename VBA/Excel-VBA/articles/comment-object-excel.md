@@ -23,14 +23,14 @@ Represents a cell comment.
 
 ## Example
 
-Use the  **[Comment](range-comment-property-excel.md)** property to return a **Comment** object. The following example changes the text in the comment in cell E5.
+Use the **[Comment](range-comment-property-excel.md)** property to return a **Comment** object. The following example changes the text in the comment in cell E5.
 
 
 ```
 Worksheets(1).Range("E5").Comment.Text "reviewed on " &amp; Date
 ```
 
-Use  **Comments** ( _index_ ), where _index_ is the comment number, to return a single comment from the **Comments** collection. The following example hides comment two on worksheet one.
+Use **Comments** ( _index_ ), where _index_ is the comment number, to return a single comment from the **Comments** collection. The following example hides comment two on worksheet one.
 
 
 
@@ -39,7 +39,7 @@ Use  **Comments** ( _index_ ), where _index_ is the comment number, to return a 
 Worksheets(1).Comments(2).Visible = False
 ```
 
-Use the  **[AddComment](range-addcomment-method-excel.md)** method to add a comment to a range. The following example adds a comment to cell E5 on worksheet one.
+Use the **[AddComment](range-addcomment-method-excel.md)** method to add a comment to a range. The following example adds a comment to cell E5 on worksheet one.
 
 
 

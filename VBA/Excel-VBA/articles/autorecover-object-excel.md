@@ -18,11 +18,11 @@ Represents the automatic recovery features of a workbook.
 
 ## Remarks
 
-Properties for the  **AutoRecover** object determine the path and time interval for backing up all files.
+Properties for the **AutoRecover** object determine the path and time interval for backing up all files.
 
-Use the  **[AutoRecover](application-autorecover-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return an **AutoRecover** object.
+Use the **[AutoRecover](application-autorecover-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return an **AutoRecover** object.
 
-Use the  **[Path](autorecover-path-property-excel.md)** property of the **AutoRecover** object to set the path for where the AutoRecover file will be saved.
+Use the **[Path](autorecover-path-property-excel.md)** property of the **AutoRecover** object to set the path for where the AutoRecover file will be saved.
 
 
 ## Example
@@ -38,10 +38,10 @@ Sub SetPath()
 End Sub
 ```
 
-Use the  **[Time](autorecover-time-property-excel.md)** property of the **AutoRecover** object to set the time interval for backing up all files.
+Use the **[Time](autorecover-time-property-excel.md)** property of the **AutoRecover** object to set the time interval for backing up all files.
 
 
- **Note**  Units for the  **Time** property are in minutes.
+ **Note**  Units for the **Time** property are in minutes.
 
 
 

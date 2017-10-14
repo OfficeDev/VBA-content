@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.ImportExportSpecifications Property (Access)
 
-Returns a  **[ImportExportSpecifications](importexportspecifications-object-access.md)** collection that represents the collection of saved import or export operations for the specified object. Read-only.
+Returns a **[ImportExportSpecifications](importexportspecifications-object-access.md)** collection that represents the collection of saved import or export operations for the specified object. Read-only.
 
 
 ## Syntax

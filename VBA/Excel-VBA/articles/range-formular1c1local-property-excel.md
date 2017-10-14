@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.FormulaR1C1Local Property (Excel)
 
-Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **Variant** .
+Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write **Variant** .
 
 
 ## Syntax

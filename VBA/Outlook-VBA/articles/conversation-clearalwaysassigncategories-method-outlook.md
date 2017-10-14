@@ -35,9 +35,9 @@ Removes all categories from all items in the conversation and stops the action o
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the category removal action will apply to items of the conversation in the default delivery store.
 
-After you apply the  **ClearAlwaysAssignCategories** method on a conversation, the **[GetAlwaysAssignCategories](conversation-getalwaysassigncategories-method-outlook.md)** method will return **Null** ( **Nothing** in Visual Basic) for that conversation. Categories on existing items are cleared, and no categories are assigned to new items in the conversation.
+After you apply the **ClearAlwaysAssignCategories** method on a conversation, the **[GetAlwaysAssignCategories](conversation-getalwaysassigncategories-method-outlook.md)** method will return **Null** ( **Nothing** in Visual Basic) for that conversation. Categories on existing items are cleared, and no categories are assigned to new items in the conversation.
 
-If the  **[SetAlwaysAssignCategories](conversation-setalwaysassigncategories-method-outlook.md)** method has not been applied to a conversation, **ClearAlwaysAssignCategories** does not remove any categories.
+If the **[SetAlwaysAssignCategories](conversation-setalwaysassigncategories-method-outlook.md)** method has not been applied to a conversation, **ClearAlwaysAssignCategories** does not remove any categories.
 
 
 ## See also

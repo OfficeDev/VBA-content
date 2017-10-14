@@ -18,11 +18,11 @@ Represents a navigation group displayed by a navigation module in the Navigation
 
 ## Remarks
 
-Use the  **[Item](navigationgroups-item-method-outlook.md)** method to retrieve a **NavigationGroup** object from the **[NavigationGroups](navigationgroups-object-outlook.md)** collection of a parent navigation module, such as a **[MailModule](mailmodule-object-outlook.md)** object. Use the **[Create](navigationgroups-create-method-outlook.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
+Use the **[Item](navigationgroups-item-method-outlook.md)** method to retrieve a **NavigationGroup** object from the **[NavigationGroups](navigationgroups-object-outlook.md)** collection of a parent navigation module, such as a **[MailModule](mailmodule-object-outlook.md)** object. Use the **[Create](navigationgroups-create-method-outlook.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
 
-Use the  **[GroupType](navigationgroup-grouptype-property-outlook.md)** property to determine the group type of the navigation group and the **[Position](navigationgroup-position-property-outlook.md)** property to return or set the display position of the navigation group within the Navigation Pane. You can also use the **[Name](navigationgroup-name-property-outlook.md)** property to return or set the display name of the navigation group within the Navigation Pane.
+Use the **[GroupType](navigationgroup-grouptype-property-outlook.md)** property to determine the group type of the navigation group and the **[Position](navigationgroup-position-property-outlook.md)** property to return or set the display position of the navigation group within the Navigation Pane. You can also use the **[Name](navigationgroup-name-property-outlook.md)** property to return or set the display name of the navigation group within the Navigation Pane.
 
-Use the  **[NavigationFolders](navigationgroup-navigationfolders-property-outlook.md)** property to return a **[NavigationFolders](navigationfolders-object-outlook.md)** object containing the navigation folders for the specified navigation group.
+Use the **[NavigationFolders](navigationgroup-navigationfolders-property-outlook.md)** property to return a **[NavigationFolders](navigationfolders-object-outlook.md)** object containing the navigation folders for the specified navigation group.
 
 
 ## Properties

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.TextFrame2 Property (Excel)
 
-Returns a  **[TextFrame2](textframe2-object-excel.md)** object that contains text formatting for the specified chart element. Read-only.
+Returns a **[TextFrame2](textframe2-object-excel.md)** object that contains text formatting for the specified chart element. Read-only.
 
 
 ## Syntax

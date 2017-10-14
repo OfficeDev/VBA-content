@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextColumn2.TextDirection Property (Office)
 
-Gets or sets the direction of text in the  **TextColumn2** object. Read/write.
+Gets or sets the direction of text in the **TextColumn2** object. Read/write.
 
 
 ## Syntax

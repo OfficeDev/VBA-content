@@ -27,13 +27,13 @@ Used to retrieve a Boolean value that indicates whether or not any manual filter
 
 This property provides a simple way to easily check whether manual filtering is applied to a PivotField or CubeField.
 
-For OLAP PivotTables, this property is available only for the  **CubeField** object. Trying to get or set it on the **PivotField** object in OLAP PivotTables will return a run-time error.
+For OLAP PivotTables, this property is available only for the **CubeField** object. Trying to get or set it on the **PivotField** object in OLAP PivotTables will return a run-time error.
 
-For PivotTables, this property is available for the  **PivotField** object.
+For PivotTables, this property is available for the **PivotField** object.
 
-The default value is  **True** . This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False** ). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False** ).
+The default value is **True** . This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False** ). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is **True** or **False** ).
 
-This property directly reflects the state of the  **Select All** check box in the filter drop-down lislt for the PivotField or CubeField.
+This property directly reflects the state of the **Select All** check box in the filter drop-down lislt for the PivotField or CubeField.
 
 
 ## See also

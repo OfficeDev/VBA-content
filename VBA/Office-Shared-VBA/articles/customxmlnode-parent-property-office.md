@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.Parent Property (Office)
 
-Gets the  **Parent** object for the **CustomXMLNode** object. Read-only.
+Gets the **Parent** object for the **CustomXMLNode** object. Read-only.
 
 
 ## Syntax

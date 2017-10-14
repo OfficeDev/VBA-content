@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Expected End Function
 
-An  **End**_procedure_ statement must match the[procedure](vbe-glossary.md) in which it occurs. This error has the following cause and solution:
+An **End**_procedure_ statement must match the[procedure](vbe-glossary.md) in which it occurs. This error has the following cause and solution:
 
 
 
-- You used  **End Property** or **End** **Sub** to end a **Function** procedure. Use **End** **Function** for this type of procedure.
+- You used **End Property** or **End** **Sub** to end a **Function** procedure. Use **End** **Function** for this type of procedure.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DeleteReportControl Method (Access)
 
-The  **DeleteReportControl** method deletes a specified control from a report.
+The **DeleteReportControl** method deletes a specified control from a report.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-The  **DeleteReportControl** method is available only in form Design view or report Design view, respectively.
+The **DeleteReportControl** method is available only in form Design view or report Design view, respectively.
 
 
  **Note**  If you are building a wizard that deletes a control from a form or report, your wizard must open the form or report in Design view before it can delete the control.

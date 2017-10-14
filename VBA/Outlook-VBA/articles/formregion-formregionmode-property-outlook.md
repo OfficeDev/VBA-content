@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.FormRegionMode Property (Outlook)
 
-Returns an  **OlFormRegionMode** constant that indicates whether the form region is in a read page, compose page, or Reading Pane. Read-only.
+Returns an **OlFormRegionMode** constant that indicates whether the form region is in a read page, compose page, or Reading Pane. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **OlFormRegionMode** constant that indicates whether the form region
 
 ## Remarks
 
-If the user has a mail item in the Reading Pane, you can use the  **[MailItem.Sent](mailitem-sent-property-outlook.md)** property to further determine if the user is in the edit mode or the read mode of the Reading Pane. A mail item is displayed differently in the Reading Pane if it is in the edit mode (the mail item is in the Draft folder) than if it is in the read mode (the mail item is in the Inbox or Sent folder).
+If the user has a mail item in the Reading Pane, you can use the **[MailItem.Sent](mailitem-sent-property-outlook.md)** property to further determine if the user is in the edit mode or the read mode of the Reading Pane. A mail item is displayed differently in the Reading Pane if it is in the edit mode (the mail item is in the Draft folder) than if it is in the read mode (the mail item is in the Inbox or Sent folder).
 
 
 ## See also

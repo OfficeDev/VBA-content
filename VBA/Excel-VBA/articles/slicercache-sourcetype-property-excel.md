@@ -30,7 +30,7 @@ Returns the kind of data source the slicer is connected to. Read-only
 
 ## Remarks
 
-Only the  **xlDatabase** and **xlExternal** data source types are supported.
+Only the **xlDatabase** and **xlExternal** data source types are supported.
 
 
 ## See also

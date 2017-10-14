@@ -15,7 +15,7 @@ There is some problem that prevents printing. This error has the following cause
 
 
 
-- You don't have a printer installed from the Windows  **Control Panel**. Open the **Control Panel**, double-click the **Printers** icon, and click **Add Printer** to install a printer.
+- You don't have a printer installed from the Windows **Control Panel**. Open the **Control Panel**, double-click the **Printers** icon, and click **Add Printer** to install a printer.
     
 - Your printer isn't online. Physically switch the printer online.
     

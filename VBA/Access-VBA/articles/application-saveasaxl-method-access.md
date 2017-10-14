@@ -35,9 +35,9 @@ Exports the specified object to an Application XML (AXL) file.
 
 ## Remarks
 
-The  **SaveAsAXL** method does not provide a warning when the file specified in the _FileName_ argument already exists. If this occurs, the file will be overwritten.
+The **SaveAsAXL** method does not provide a warning when the file specified in the _FileName_ argument already exists. If this occurs, the file will be overwritten.
 
-The  **SaveAsAXL** method generates a run-time error if the current database is not a Web database.
+The **SaveAsAXL** method generates a run-time error if the current database is not a Web database.
 
 For more information about AXL, see [[MS-AXL]: Access Application Transfer Protocol Structure Specification](http://msdn.microsoft.com/en-us/library/dd927584.aspx).
 

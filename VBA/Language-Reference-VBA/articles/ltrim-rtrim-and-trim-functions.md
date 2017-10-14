@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) containing a copy of a specified string without leading spaces ( **LTrim** ), trailing spaces ( **RTrim** ), or both leading and trailing spaces ( **Trim** ).
+Returns a **Variant** ( **String** ) containing a copy of a specified string without leading spaces ( **LTrim** ), trailing spaces ( **RTrim** ), or both leading and trailing spaces ( **Trim** ).
  **Syntax**
  **LTrim** ( _string_ )
  **RTrim** ( _string_ )
  **Trim** ( _string_ )
-The required  _string_[argument](vbe-glossary.md) is any valid[string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md),  **Null** is returned.
+The required  _string_[argument](vbe-glossary.md) is any valid[string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md), **Null** is returned.
 
 ## Example
 
-This example uses the  **LTrim** function to strip leading spaces and the **RTrim** function to strip trailing spaces from a string variable. It uses the **Trim** function to strip both types of spaces.
+This example uses the **LTrim** function to strip leading spaces and the **RTrim** function to strip trailing spaces from a string variable. It uses the **Trim** function to strip both types of spaces.
 
 
 ```vb

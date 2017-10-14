@@ -15,7 +15,7 @@ Some attributes are invalid within [procedures](vbe-glossary.md). This error has
 
 
 
-- A  **Public** or **Private** attribute appears within the body of a procedure definition. Remove the attribute from the procedure. To give the[variable](vbe-glossary.md) wider[scope](vbe-glossary.md), move the declaration to [module level](vbe-glossary.md). Variables declared within procedures are always  **Private**.
+- A **Public** or **Private** attribute appears within the body of a procedure definition. Remove the attribute from the procedure. To give the[variable](vbe-glossary.md) wider[scope](vbe-glossary.md), move the declaration to [module level](vbe-glossary.md). Variables declared within procedures are always **Private**.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

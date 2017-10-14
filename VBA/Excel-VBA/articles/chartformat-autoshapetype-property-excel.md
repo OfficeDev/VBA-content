@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.AutoShapeType Property (Excel)
 
-Returns the type of the specified shape.  **MsoAutoShapeType** Read-only
+Returns the type of the specified shape. **MsoAutoShapeType** Read-only
 
 
 ## Syntax

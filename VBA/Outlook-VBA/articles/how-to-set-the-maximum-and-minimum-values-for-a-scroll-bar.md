@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 
 # How to: Set the Maximum and Minimum Values for a Scroll Bar
 
-The following example demonstrates the  **[Max](scrollbar-max-property-outlook-forms-script.md)** and **[Min](scrollbar-min-property-outlook-forms-script.md)** properties when used with a stand-alone **[ScrollBar](scrollbar-object-outlook-forms-script.md)**. The user can set the  **Max** and **Min** values to any integer in the range of -1000 to 1000. This example also uses the ** [TextBox.MaxLength](textbox-maxlength-property-outlook-forms-script.md)** property to restrict the number of characters entered for the **Max** and **Min** values.
+The following example demonstrates the **[Max](scrollbar-max-property-outlook-forms-script.md)** and **[Min](scrollbar-min-property-outlook-forms-script.md)** properties when used with a stand-alone **[ScrollBar](scrollbar-object-outlook-forms-script.md)**. The user can set the **Max** and **Min** values to any integer in the range of -1000 to 1000. This example also uses the ** [TextBox.MaxLength](textbox-maxlength-property-outlook-forms-script.md)** property to restrict the number of characters entered for the **Max** and **Min** values.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1
+- A **[Label](label-object-outlook-forms-script.md)** named Label1
     
-- A  **[TextBox](textbox-object-outlook-forms-script.md)** named TextBox1 that is bound to the custom number field named ScrollBarMin.
+- A **[TextBox](textbox-object-outlook-forms-script.md)** named TextBox1 that is bound to the custom number field named ScrollBarMin.
     
-- A  **Label** named Label2
+- A **Label** named Label2
     
-- A  **TextBox** named TextBox2 that is bound to the custom number field named ScrollBarMax.
+- A **TextBox** named TextBox2 that is bound to the custom number field named ScrollBarMax.
     
-- A  **ScrollBar** named ScrollBar1 that is bound to the custom number field named ScrollBarValue.
+- A **ScrollBar** named ScrollBar1 that is bound to the custom number field named ScrollBarValue.
     
-- A  **Label** named Label3.
+- A **Label** named Label3.
     
 
 

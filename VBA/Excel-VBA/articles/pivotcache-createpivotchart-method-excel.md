@@ -41,7 +41,7 @@ Creates a standalone PivotChart from a [PivotCache Object (Excel)](pivotcache-ob
 
 ## Remarks
 
-If the  **PivotCache** object that the method is called from has no attached PivotTable:
+If the **PivotCache** object that the method is called from has no attached PivotTable:
 
 
 - A workbook-level PivotTable is created from the existing PivotCache.

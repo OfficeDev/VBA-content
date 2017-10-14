@@ -13,15 +13,15 @@ ms.date: 06/08/2017
 
 # ToggleButton.FontName Property (Access)
 
-You can use the  **FontName** property to specify the font for text in the following situations:
+You can use the **FontName** property to specify the font for text in the following situations:
 
 
 - When displaying or printing controls on forms and reports.
     
-- When using the  **[Print](report-print-method-access.md)** method on a report.
+- When using the **[Print](report-print-method-access.md)** method on a report.
     
 
-Read/write  **String**.
+Read/write **String**.
 
 
 ## Syntax
@@ -33,18 +33,18 @@ Read/write  **String**.
 
 ## Remarks
 
-The  **FontName** property setting is the name of the font that the text is displayed in.
+The **FontName** property setting is the name of the font that the text is displayed in.
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-For reports, you can set this property only in an event procedure or in a macro specified by the  **OnPrint** event property setting.
+For reports, you can set this property only in an event procedure or in a macro specified by the **OnPrint** event property setting.
 
 Font availability depends on your system and printer. If you select a font that your system can't display or that isn't installed, Windows substitutes a similar font.
 
 
 ## Example
 
-The following example uses the  **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
+The following example uses the **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
 
 
 ```vb

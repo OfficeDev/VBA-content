@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.UseWordMail Property (Outlook)
 
-Returns a  **Boolean** that indicates **True** to use Microsoft Office Word as the default editor for the form. Read/write.
+Returns a **Boolean** that indicates **True** to use Microsoft Office Word as the default editor for the form. Read/write.
 
 
 ## Syntax

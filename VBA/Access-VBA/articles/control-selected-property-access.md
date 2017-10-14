@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Control.Selected Property (Access)
 
-You can use the  **Selected** property in Visual Basic to determine if an item is selected. Read/write **Long**.
+You can use the **Selected** property in Visual Basic to determine if an item is selected. Read/write **Long**.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ You can use the  **Selected** property in Visual Basic to determine if an item i
 
 ## Remarks
 
-The  **Selected** property is a zero-based array that contains the selected state of each item in a list box.
+The **Selected** property is a zero-based array that contains the selected state of each item in a list box.
 
 
 
@@ -43,9 +43,9 @@ The  **Selected** property is a zero-based array that contains the selected stat
 |**False**|The list box item isn't selected.|
 This property is available only at run time.
 
-When a list box control's  **MultiSelect** property is set to None, only one item can have its **Selected** property set to **True**. When a list box control's **MultiSelect** property is set to Simple or Extended, any or all of the items can have their **Selected** property set to **True**. A multiple-selection list box bound to a field will always have a **Value** property equal to **Null**. You use the **Selected** property or the **ItemsSelected** collection to retrieve information about which items are selected.
+When a list box control's **MultiSelect** property is set to None, only one item can have its **Selected** property set to **True**. When a list box control's **MultiSelect** property is set to Simple or Extended, any or all of the items can have their **Selected** property set to **True**. A multiple-selection list box bound to a field will always have a **Value** property equal to **Null**. You use the **Selected** property or the **ItemsSelected** collection to retrieve information about which items are selected.
 
-You can use the  **Selected** property to select items in a list box by using Visual Basic. For example, the following expression selects the fifth item in the list:
+You can use the **Selected** property to select items in a list box by using Visual Basic. For example, the following expression selects the fifth item in the list:
 
 
 
@@ -57,7 +57,7 @@ Me!Listbox.Selected(4) = True
 
 ## Example
 
-The following example uses the  **Selected** property to move selected items in the lstSource list box to the lstDestination list box. The lstDestination list box's **RowSourceType** property is set to Value List and the control's **RowSource** property is constructed from all the selected items in the lstSource control. The lstSource list box's **MultiSelect** property is set to Extended. The CopySelected( ) procedure is called from the cmdCopyItem command button.
+The following example uses the **Selected** property to move selected items in the lstSource list box to the lstDestination list box. The lstDestination list box's **RowSourceType** property is set to Value List and the control's **RowSource** property is constructed from all the selected items in the lstSource control. The lstSource list box's **MultiSelect** property is set to Extended. The CopySelected( ) procedure is called from the cmdCopyItem command button.
 
 
 ```vb

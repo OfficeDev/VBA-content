@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.FaceId Property (Office)
 
-Gets or sets the Id number for the face of a  **CommandBarButton** control. Read/write.
+Gets or sets the Id number for the face of a **CommandBarButton** control. Read/write.
 
 
 ## 
@@ -31,14 +31,14 @@ Gets or sets the Id number for the face of a  **CommandBarButton** control. Read
 
 ## Remarks
 
-The  **FaceId** property dictates the look, not the function, of a command bar button. The **Id** property of the **CommandBarControl** object determines the function of the button.
+The **FaceId** property dictates the look, not the function, of a command bar button. The **Id** property of the **CommandBarControl** object determines the function of the button.
 
-The value of the  **FaceId** property for a command bar button with a custom face is 0 (zero).
+The value of the **FaceId** property for a command bar button with a custom face is 0 (zero).
 
 
 ## Example
 
-This example adds a command bar button to a custom command bar. Clicking this button is equivalent to clicking the  **Open** command on the **File** menu because the ID number is 23, yet the button has the same button face as the built-in **Charting** button.
+This example adds a command bar button to a custom command bar. Clicking this button is equivalent to clicking the **Open** command on the **File** menu because the ID number is 23, yet the button has the same button face as the built-in **Charting** button.
 
 
 ```

@@ -39,7 +39,7 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 |**vbInactiveCaptionText**|0x80000013|Color of text in an inactive caption|
 |**vb3DHighlight**|0x80000014|Highlight color for 3-D display elements|
 |**vb3DDKShadow**|0x80000015|Darkest shadow color for 3-D display elements|
-|**vb3DLight**|0x80000016|Second lightest 3-D color after  **vb3DHighlight**|
+|**vb3DLight**|0x80000016|Second lightest 3-D color after **vb3DHighlight**|
 |**vbInfoText**|0x80000017|Color of text in ToolTips|
 |**vbInfoBackground**|0x80000018|Background color of ToolTips|
 

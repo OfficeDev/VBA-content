@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ConnectorFormat Property (Excel)
 
-Returns a  **[ConnectorFormat](connectorformat-object-excel.md)** object that contains connector formatting properties. Applies to a **[ShapeRange](shaperange-object-excel.md)** objects that represent connectors. Read-only.
+Returns a **[ConnectorFormat](connectorformat-object-excel.md)** object that contains connector formatting properties. Applies to a **[ShapeRange](shaperange-object-excel.md)** objects that represent connectors. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.UnlockedFormulaCells Property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies selected cells that are unlocked and contain a formula. **False** disables error checking for unlocked cells that contain formulas. Read/write **Boolean** .
+When set to **True** (default), Microsoft Excel identifies selected cells that are unlocked and contain a formula. **False** disables error checking for unlocked cells that contain formulas. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ When set to  **True** (default), Microsoft Excel identifies selected cells that 
 
 ## Example
 
-In the following example, the  **AutoCorrect Options** button appears for cell A3, an unlocked cell containing a formula.
+In the following example, the **AutoCorrect Options** button appears for cell A3, an unlocked cell containing a formula.
 
 
 ```vb

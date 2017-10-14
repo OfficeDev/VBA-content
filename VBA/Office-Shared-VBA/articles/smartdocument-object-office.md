@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # SmartDocument Object (Office)
 
-The  **SmartDocument** property of the **Document** object in Microsoft Word and the **Workbook** object in Microsoft Excel returns a **SmartDocument** object.
+The **SmartDocument** property of the **Document** object in Microsoft Word and the **Workbook** object in Microsoft Excel returns a **SmartDocument** object.
 
 
 ## Remarks
 
-Use the  **SmartDocument** object to manage the XML expansion pack attached to the active document.
+Use the **SmartDocument** object to manage the XML expansion pack attached to the active document.
 
-Use the  **SmartDocument** object's **SolutionID** and **SolutionURI** properties to retrieve information about the XML expansion pack attached to the active document or workbook. Use the **PickSolution** method to allow the user to select an available XML expansion pack from a list to attach to the active document or workbook. Use the **RefreshPane** method to refresh the smart document's **Document Actions** task pane.
+Use the **SmartDocument** object's **SolutionID** and **SolutionURI** properties to retrieve information about the XML expansion pack attached to the active document or workbook. Use the **PickSolution** method to allow the user to select an available XML expansion pack from a list to attach to the active document or workbook. Use the **RefreshPane** method to refresh the smart document's **Document Actions** task pane.
 
-The  **SmartDocument** object model is available whether or not a document has an XML expansion pack attached. The **SmartDocument** property of the **Document** or **Workbook** objects does not return **Nothing** when the active document has no XML expansion pack attached. Examine the **SolutionID** property to determine whether the active document has an XML expansion pack attached.
+The **SmartDocument** object model is available whether or not a document has an XML expansion pack attached. The **SmartDocument** property of the **Document** or **Workbook** objects does not return **Nothing** when the active document has no XML expansion pack attached. Examine the **SolutionID** property to determine whether the active document has an XML expansion pack attached.
 
 
 ## Methods

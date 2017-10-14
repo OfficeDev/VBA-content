@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Legend Property (Excel)
 
-Returns a  **[Legend](legend-object-excel.md)** object that represents the legend for the chart. Read-only.
+Returns a **[Legend](legend-object-excel.md)** object that represents the legend for the chart. Read-only.
 
 
 ## Syntax

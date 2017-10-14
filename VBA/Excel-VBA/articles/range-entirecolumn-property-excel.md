@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.EntireColumn Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the entire column (or columns) that contains the specified range. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the entire column (or columns) that contains the specified range. Read-only.
 
 
 ## Syntax

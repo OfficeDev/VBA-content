@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetCellsEffect Property (Access)
 
-You can use the  **DatasheetCellsEffect** property to specify whether special effects are applied to cells in a datasheet. Read/write **Byte**.
+You can use the **DatasheetCellsEffect** property to specify whether special effects are applied to cells in a datasheet. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **DatasheetCellsEffect** property to specify whether special ef
 
 ## Remarks
 
-The  **DatasheetCellsEffect** property applies only to objects in Datasheet view.
+The **DatasheetCellsEffect** property applies only to objects in Datasheet view.
 
 This property is only available within a Microsoft Access database.
 
-The  **DatasheetCellsEffect** property uses the following settings.
+The **DatasheetCellsEffect** property uses the following settings.
 
 
 
@@ -40,9 +40,9 @@ The  **DatasheetCellsEffect** property uses the following settings.
 |Sunken|**acEffectSunken**|Cells in the datasheet appear sunken.|
 This property applies the selected effect to the entire datasheet.
 
-When this property is set to Raised or Sunken, gridlines will be visible on the datasheet regardless of the  **[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)** property setting.
+When this property is set to Raised or Sunken, gridlines will be visible on the datasheet regardless of the **[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)** property setting.
 
-The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database (.mdb) by using the **CreateProperty** method and append it to the DAO **Properties** collection.
+The following table contains the properties that don't exist in the DAO **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database (.mdb) by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 
 |||
@@ -53,7 +53,7 @@ The following table contains the properties that don't exist in the DAO  **Prope
 |**[DatasheetFontUnderline](form-datasheetfontunderline-property-access.md)** *|**[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)**|
 |**[DatasheetFontWeight](form-datasheetfontweight-property-access.md)** *|**DatasheetCellsEffect**|
 
- **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the  **Properties** collection in the database.
+ **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection in the database.
 
 
 ## See also

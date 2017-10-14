@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoFontLanguageIndex Enumeration (Office)
 
-Represents one of the three language fonts contained in the  **ThemeFonts** collection
+Represents one of the three language fonts contained in the **ThemeFonts** collection
 
 
 

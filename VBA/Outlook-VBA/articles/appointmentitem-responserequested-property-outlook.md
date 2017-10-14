@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.ResponseRequested Property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the sender would like a response to the meeting request for the appointment. Read/write.
+Returns a **Boolean** that indicates **True** if the sender would like a response to the meeting request for the appointment. Read/write.
 
 
 ## Syntax

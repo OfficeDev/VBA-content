@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.RangeFromPoint Method (Excel)
 
-Returns the  **[Shape](shape-object-excel.md)** or **[Range](range-object-excel.md)** object that is positioned at the specified pair of screen coordinates. If there isn?t a shape located at the specified coordinates, this method returns **Nothing** .
+Returns the **[Shape](shape-object-excel.md)** or **[Range](range-object-excel.md)** object that is positioned at the specified pair of screen coordinates. If there isn?t a shape located at the specified coordinates, this method returns **Nothing** .
 
 
 ## Syntax

@@ -26,7 +26,7 @@ Closes the current database.
 ## Remarks
 
 This method has the same effect as clicking the Microsoft Office Button 
-![File menu button](/images/O12FileMenuButton_ZA10077102.gif) and then clicking **Close Database**. If you have any unsaved objects when you use the  **CloseDatabase** method, the dialog boxes that appear are the same as those displayed when you click **Close Database**. 
+![File menu button](/images/O12FileMenuButton_ZA10077102.gif) and then clicking **Close Database**. If you have any unsaved objects when you use the **CloseDatabase** method, the dialog boxes that appear are the same as those displayed when you click **Close Database**. 
 
 
 ## See also

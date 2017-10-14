@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DependencyInfo.OutOfDateObjects Property (Access)
 
-Returns a  **[DependencyObjects](dependencyobjects-object-access.md)** collection that represents the **[AccessObject](accessobject-object-access.md)** objects for which the dependency information is outdated. Read-only.
+Returns a **[DependencyObjects](dependencyobjects-object-access.md)** collection that represents the **[AccessObject](accessobject-object-access.md)** objects for which the dependency information is outdated. Read-only.
 
 
 ## Syntax

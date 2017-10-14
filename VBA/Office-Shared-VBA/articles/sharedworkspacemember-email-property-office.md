@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceMember.Email Property (Office)
 
-Gets the e-mail name of the specified  **SharedWorkspaceMember** in the format user@domain.com. Read-only.
+Gets the e-mail name of the specified **SharedWorkspaceMember** in the format user@domain.com. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -28,7 +28,7 @@ Gets the e-mail name of the specified  **SharedWorkspaceMember** in the format u
 
 ## Example
 
-The following example extracts the e-mail domain name from the  **Email** property of each shared workspace member and lists members who have e-mail addresses at the "example.com" domain.
+The following example extracts the e-mail domain name from the **Email** property of each shared workspace member and lists members who have e-mail addresses at the "example.com" domain.
 
 
 ```

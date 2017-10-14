@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.Connection Property (Excel)
 
-Returns or sets a string that contains text file names that enable Microsoft Excel to connect to text data sources.  **Variant** Read/Write
+Returns or sets a string that contains text file names that enable Microsoft Excel to connect to text data sources. **Variant** Read/Write
 
 
 ## Syntax

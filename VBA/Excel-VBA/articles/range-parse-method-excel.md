@@ -39,7 +39,7 @@ Variant
 
 ## Remarks
 
-" `[xxx][xxx]`" would insert the first three characters into the first column of the destination range, and it would insert the next three characters into the second column. If this argument is omitted, Microsoft Excel guesses where to split the columns based on the spacing of the top left cell in the range. If you want to use a different range to guess the parse line, use a  **Range** object as the _ParseLine_ argument. That range must be one of the cells that's being parsed. The _ParseLine_ argument cannot be longer than 255 characters, including the brackets and spaces.
+" `[xxx][xxx]`" would insert the first three characters into the first column of the destination range, and it would insert the next three characters into the second column. If this argument is omitted, Microsoft Excel guesses where to split the columns based on the spacing of the top left cell in the range. If you want to use a different range to guess the parse line, use a **Range** object as the _ParseLine_ argument. That range must be one of the cells that's being parsed. The _ParseLine_ argument cannot be longer than 255 characters, including the brackets and spaces.
 
 
 ## Example

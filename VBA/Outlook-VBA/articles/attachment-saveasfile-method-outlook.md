@@ -33,7 +33,7 @@ Saves the attachment to the specified path.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[SaveAsFile](attachment-saveasfile-method-outlook.md)** method to save the first attachment of the currently open item as a file in the Documents folder, using the attachment's display name as the file name.
+This Visual Basic for Applications (VBA) example uses the **[SaveAsFile](attachment-saveasfile-method-outlook.md)** method to save the first attachment of the currently open item as a file in the Documents folder, using the attachment's display name as the file name.
 
 
 ```vb

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # PivotAxis Object (Excel)
 
-The  **PivotAxis** object is used for asymmetric drilling in a PivotTable.
+The **PivotAxis** object is used for asymmetric drilling in a PivotTable.
 
 
 ## Remarks
 
-The  **PivotAxis** object contains properties such as **PivotRowAxis** and **PivotRowAxis** to work with the rows and columns in the PivotTable.
+The **PivotAxis** object contains properties such as **PivotRowAxis** and **PivotRowAxis** to work with the rows and columns in the PivotTable.
 
 
 ## See also

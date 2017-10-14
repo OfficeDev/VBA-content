@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns  **True** if the expression is a date or is recognizable as a valid date or time; otherwise, it returns **False**.
+Returns **True** if the expression is a date or is recognizable as a valid date or time; otherwise, it returns **False**.
  **Syntax**
  **IsDate(**_expression_**)**
 The required  _expression_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md) containing a[date expression](vbe-glossary.md) or[string expression](vbe-glossary.md) recognizable as a date or time.
@@ -22,7 +22,7 @@ In Microsoft Windows, the range of valid dates is January 1, 100 A.D. through De
 
 ## Example
 
-This example uses the  **IsDate** function to determine if an expression is recognized as a date or time value.
+This example uses the **IsDate** function to determine if an expression is recognized as a date or time value.
 
 
 ```vb

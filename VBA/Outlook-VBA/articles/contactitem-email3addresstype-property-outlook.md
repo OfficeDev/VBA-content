@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email3AddressType Property (Outlook)
 
-Returns or sets a  **String** representing the address type (such as EX or SMTP) of the third e-mail entry for the contact. Read/write.
+Returns or sets a **String** representing the address type (such as EX or SMTP) of the third e-mail entry for the contact. Read/write.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Watch Window Command (View Menu)
 
-Displays the  **Watch** window and displays the current watch expressions. The **Watch** window appears automatically if watch expressions are defined in the project.
+Displays the **Watch** window and displays the current watch expressions. The **Watch** window appears automatically if watch expressions are defined in the project.
 
 If the context of the expression isn't in [scope](vbe-glossary.md) when going to[break mode](vbe-glossary.md), the current value isn't displayed.
 

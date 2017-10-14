@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ShowTableStyleRowStripes Property (Excel)
 
-Returns or sets if the Row Stripes table style is used for the specified  **ListObject** object. Read/write **Boolean** .
+Returns or sets if the Row Stripes table style is used for the specified **ListObject** object. Read/write **Boolean** .
 
 
 ## Syntax

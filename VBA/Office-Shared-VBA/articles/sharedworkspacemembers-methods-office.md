@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](sharedworkspacemembers-add-method-office.md)|Adds a member to the list of members in a shared workspace site. Returns a  **[SharedWorkspaceMember](sharedworkspacemember-object-office.md)** object.|
+|[Add](sharedworkspacemembers-add-method-office.md)|Adds a member to the list of members in a shared workspace site. Returns a **[SharedWorkspaceMember](sharedworkspacemember-object-office.md)** object.|
 

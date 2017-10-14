@@ -13,23 +13,23 @@ ms.date: 06/08/2017
 
 # Conflicts Object (Outlook)
 
-Contains a collection of  **[Conflict](conflict-object-outlook.md)** objects that represent all Microsoft Outlook items that are in conflict with a particular Outlook item.
+Contains a collection of **[Conflict](conflict-object-outlook.md)** objects that represent all Microsoft Outlook items that are in conflict with a particular Outlook item.
 
 
 ## Remarks
 
-Use the  **[Conflicts](mailitem-conflicts-property-outlook.md)** property of any Outlook item, such as **[MailItem](mailitem-object-outlook.md)**, to return the **Conflicts** object.
+Use the **[Conflicts](mailitem-conflicts-property-outlook.md)** property of any Outlook item, such as **[MailItem](mailitem-object-outlook.md)**, to return the **Conflicts** object.
 
-Use the  **[Count](conflicts-count-property-outlook.md)** property of the **Conflicts** object to determine if the item is invloved in a conflict. A non-zero value indicates conflict.
+Use the **[Count](conflicts-count-property-outlook.md)** property of the **Conflicts** object to determine if the item is invloved in a conflict. A non-zero value indicates conflict.
 
-Use the  **[Item](conflicts-item-method-outlook.md)** method to retrieve a particular conflict item from the **Conflicts** collection object.
+Use the **[Item](conflicts-item-method-outlook.md)** method to retrieve a particular conflict item from the **Conflicts** collection object.
 
-Use the  **[GetFirst](conflicts-getfirst-method-outlook.md)**, **[GetNext](conflicts-getnext-method-outlook.md)**, **[GetPrevious](conflicts-getprevious-method-outlook.md)**, and **[GetLast](conflicts-getlast-method-outlook.md)** methods to traverse the **Conflicts** collection.
+Use the **[GetFirst](conflicts-getfirst-method-outlook.md)**, **[GetNext](conflicts-getnext-method-outlook.md)**, **[GetPrevious](conflicts-getprevious-method-outlook.md)**, and **[GetLast](conflicts-getlast-method-outlook.md)** methods to traverse the **Conflicts** collection.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example uses the  **Count** property of the **Conflicts** object to determine if the item is involved in any conflict. To run this example, make sure an e-mail item is open in the active window.
+The following Microsoft Visual Basic for Applications (VBA) example uses the **Count** property of the **Conflicts** object to determine if the item is involved in any conflict. To run this example, make sure an e-mail item is open in the active window.
 
 
 ```

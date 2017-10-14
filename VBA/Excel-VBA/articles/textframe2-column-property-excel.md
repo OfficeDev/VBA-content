@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.Column Property (Excel)
 
-Returns the  **TextColumn2** object that represents the columns within the text frame. Read-only.
+Returns the **TextColumn2** object that represents the columns within the text frame. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.PictureType Property (Access)
 
-You can use the  **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
+You can use the **PictureType** property to specify whether Microsoft Access stores an object's picture as a linked or an embedded object. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **PictureType** property to specify whether Microsoft Access st
 
 ## Remarks
 
-The  **PictureType** property uses the following settings.
+The **PictureType** property uses the following settings.
 
 
 
@@ -35,14 +35,14 @@ The  **PictureType** property uses the following settings.
 |1|The picture is linked to the object. Microsoft Access stores a pointer to the location of the picture on the disk.|
 This property can be set only in form Design view or report Design view.
 
-For controls, you can set the default for this property by using the default control style or the  **DefaultControl** property in Visual Basic.
+For controls, you can set the default for this property by using the default control style or the **DefaultControl** property in Visual Basic.
 
 When this property is set to 0, the size of the database increases by the size of the picture file and, with some .wmf files, the size may increase as much as twice the size of the picture file. When this property is set to 1, there is no increase in the size of the database because Microsoft Access only saves a pointer to the picture's location on the disk.
 
 
  **Note**   If a linked file is moved to another location on the disk, you must re-establish the link by using the object's **Picture** property.
 
-For embedded pictures, the object's  **PictureData** property stores the individual bits that make up a picture's image. For linked pictures, this property stores the path to the picture's file.
+For embedded pictures, the object's **PictureData** property stores the individual bits that make up a picture's image. For linked pictures, this property stores the path to the picture's file.
 
 You can modify a linked picture by using a separate application and changes to the picture will appear the next time the object containing that picture is displayed in the database.
 

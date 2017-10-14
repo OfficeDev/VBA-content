@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to assign a  **Null** value to a variable that is not a **Variant** data type. Use the **Dim** statement to declare the variable as a **Variant**, and then try the operation again.
+You tried to assign a **Null** value to a variable that is not a **Variant** data type. Use the **Dim** statement to declare the variable as a **Variant**, and then try the operation again.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

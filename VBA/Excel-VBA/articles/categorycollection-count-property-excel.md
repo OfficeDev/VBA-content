@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CategoryCollection.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the **CategoryCollection** (returns the number of categories visible in the chart). Read-only.
+Returns a **Long** value that represents the number of objects in the **CategoryCollection** (returns the number of categories visible in the chart). Read-only.
 
 
 ## Syntax

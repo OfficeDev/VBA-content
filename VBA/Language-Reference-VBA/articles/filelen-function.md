@@ -18,14 +18,14 @@ Returns a [Long](vbe-glossary.md) specifying the length of a file in bytes.
  **FileLen(**_pathname_**)**
 The required  _pathname_[argument](vbe-glossary.md) is a[string expression](vbe-glossary.md) that specifies a file. The _pathname_ may include the directory or folder, and the drive.
  **Remarks**
-If the specified file is open when the  **FileLen** function is called, the value returned represents the size of the file immediately before it was opened.
+If the specified file is open when the **FileLen** function is called, the value returned represents the size of the file immediately before it was opened.
 
- **Note**  To obtain the length of an open file, use the  **LOF** function.
+ **Note**  To obtain the length of an open file, use the **LOF** function.
 
 
 ## Example
 
-This example uses the  **FileLen** function to return the length of a file in bytes. For purposes of this example, assume that `TESTFILE` is a file containing some data.
+This example uses the **FileLen** function to return the length of a file in bytes. For purposes of this example, assume that `TESTFILE` is a file containing some data.
 
 
 ```vb

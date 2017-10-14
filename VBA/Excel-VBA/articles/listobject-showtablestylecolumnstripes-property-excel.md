@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ShowTableStyleColumnStripes Property (Excel)
 
-Returns or sets if the Column Stripes table style is used for the specified  **ListObject** object. Read/write **Boolean** .
+Returns or sets if the Column Stripes table style is used for the specified **ListObject** object. Read/write **Boolean** .
 
 
 ## Syntax

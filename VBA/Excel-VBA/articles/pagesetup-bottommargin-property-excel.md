@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.BottomMargin Property (Excel)
 
-Returns or sets the size of the bottom margin, in points. Read/write  **Double** .
+Returns or sets the size of the bottom margin, in points. Read/write **Double** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the size of the bottom margin, in points. Read/write  **Double**
 
 ## Remarks
 
-Margins are set or returned in points. Use either the  **[InchesToPoints](application-inchestopoints-method-excel.md)** method or the **[CentimetersToPoints](application-centimeterstopoints-method-excel.md)** method to do the conversion.
+Margins are set or returned in points. Use either the **[InchesToPoints](application-inchestopoints-method-excel.md)** method or the **[CentimetersToPoints](application-centimeterstopoints-method-excel.md)** method to do the conversion.
 
 
 ## Example

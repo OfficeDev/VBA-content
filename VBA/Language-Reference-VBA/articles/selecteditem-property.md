@@ -15,15 +15,15 @@ ms.date: 06/08/2017
 
 
 
-Returns the currently selected  **Tab** or **Page** object.
+Returns the currently selected **Tab** or **Page** object.
  **Syntax**
  _object_. **SelectedItem**
-The  **SelectedItem** property syntax has these parts:
+The **SelectedItem** property syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. A valid  **TabStrip** or **MultiPage**.|
+| _object_|Required. A valid **TabStrip** or **MultiPage**.|
  **Remarks**
-The  **SelectedItem** property is read-only. Use **SelectedItem** to programmatically control the currently selected **Tab** or **Page** object. For example, you can use **SelectedItem** to assign values to properties of a **Tab** or **Page** object.
+The **SelectedItem** property is read-only. Use **SelectedItem** to programmatically control the currently selected **Tab** or **Page** object. For example, you can use **SelectedItem** to assign values to properties of a **Tab** or **Page** object.
 

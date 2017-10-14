@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can assign a protection password to a workbook by using the  **[SaveAs](workbook-saveas-method-excel.md)** method.
+You can assign a protection password to a workbook by using the **[SaveAs](workbook-saveas-method-excel.md)** method.
 
 
 ## Example

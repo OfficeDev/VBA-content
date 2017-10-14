@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Chart.SeriesNameLevel Property (Excel)
 
-Returns a  **[XlSeriesNameLevel Enumeration (Excel)](xlseriesnamelevel-enumeration-excel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
+Returns a **[XlSeriesNameLevel Enumeration (Excel)](xlseriesnamelevel-enumeration-excel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ If there is a hierarchy, 0 refers to the most parent level, 1 refers to its chil
 
 ## Example
 
-The following sample code uses the  **SeriesNameLevel** property to set the chart series names from previously created columns.
+The following sample code uses the **SeriesNameLevel** property to set the chart series names from previously created columns.
 
 
 ```vb

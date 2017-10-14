@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CurrentRegion Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the current region. The current region is a range bounded by any combination of blank rows and blank columns. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the current region. The current region is a range bounded by any combination of blank rows and blank columns. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Range](range-object-excel.md)** object that represents the current
 
 ## Remarks
 
-This property is useful for many operations that automatically expand the selection to include the entire current region, such as the  **[AutoFormat](xlrangeautoformat-enumeration-excel.md)** method.
+This property is useful for many operations that automatically expand the selection to include the entire current region, such as the **[AutoFormat](xlrangeautoformat-enumeration-excel.md)** method.
 
 This property cannot be used on a protected worksheet.
 

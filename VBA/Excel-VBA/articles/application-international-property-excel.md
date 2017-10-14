@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.International Property (Excel)
 
-Returns information about the current country/region and international settings. Read-only  **Variant** .
+Returns information about the current country/region and international settings. Read-only **Variant** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns information about the current country/region and international settings.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional| **Variant**|The setting to be returned. Can be one of the  **XlApplicationInternational** constants listed in the following tables.|
+| _Index_|Optional| **Variant**|The setting to be returned. Can be one of the **XlApplicationInternational** constants listed in the following tables.|
 
 ## Remarks
 

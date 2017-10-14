@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Walls Property (Excel)
 
-Returns a  **[Walls](walls-object-excel.md)** object that represents the walls of the 3-D chart. Read-only.
+Returns a **[Walls](walls-object-excel.md)** object that represents the walls of the 3-D chart. Read-only.
 
 
 ## Syntax

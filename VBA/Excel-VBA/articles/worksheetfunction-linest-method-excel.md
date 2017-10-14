@@ -109,7 +109,7 @@ The following illustration shows the order in which the additional regression st
     
 - Formulas that return arrays must be entered as array formulas.
     
-- When entering an array constant such as known_x's as an argument, use commas to separate values in the same row and semicolons to separate rows. Separator characters may be different depending on your locale setting in  **Regional and Language Options** in **Control Panel**.
+- When entering an array constant such as known_x's as an argument, use commas to separate values in the same row and semicolons to separate rows. Separator characters may be different depending on your locale setting in **Regional and Language Options** in **Control Panel**.
     
 - Note that the y-values predicted by the regression equation may not be valid if they are outside the range of the y-values you used to determine the equation.
     

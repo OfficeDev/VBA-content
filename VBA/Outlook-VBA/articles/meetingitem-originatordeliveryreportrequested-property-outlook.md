@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.OriginatorDeliveryReportRequested Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the originator of the meeting item or mail message will receive a delivery report. Read/write.
+Returns or sets a **Boolean** value that determines whether the originator of the meeting item or mail message will receive a delivery report. Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Boolean** value that determines whether the originator of t
 
 ## Remarks
 
-Each transport provider that handles your message sends you a single delivery notification containing the names and addresses of each recipient to whom it was delivered. Delivery does not imply that the message has been read.  **True** if the originator requested a delivery receipt on the message.
+Each transport provider that handles your message sends you a single delivery notification containing the names and addresses of each recipient to whom it was delivered. Delivery does not imply that the message has been read. **True** if the originator requested a delivery receipt on the message.
 
-The  **OriginatorDeliveryReportRequested** property corresponds to the MAPI property **PidTagOriginatorDeliveryReportRequested** .
+The **OriginatorDeliveryReportRequested** property corresponds to the MAPI property **PidTagOriginatorDeliveryReportRequested** .
 
 
 ## See also

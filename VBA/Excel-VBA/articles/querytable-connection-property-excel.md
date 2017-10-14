@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.Connection Property (Excel)
 
-Returns or sets a string that contains one of the following: OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source; ODBC settings that enable Microsoft Excel to connect to an ODBC data source; a URL that enables Microsoft Excel to connect to a Web data source; the path to and file name of a text file, or the path to and file name of a file that specifies a database or Web query. Read/write  **Variant** .
+Returns or sets a string that contains one of the following: OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source; ODBC settings that enable Microsoft Excel to connect to an ODBC data source; a URL that enables Microsoft Excel to connect to a Web data source; the path to and file name of a text file, or the path to and file name of a file that specifies a database or Web query. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,17 +25,17 @@ Returns or sets a string that contains one of the following: OLE DB settings tha
 
 ## Remarks
 
-Setting the  **Connection** property doesn't immediately initiate the connection to the data source. You must use the **[Refresh](querytable-refresh-method-excel.md)** method to make the connection and retrieve the data.
+Setting the **Connection** property doesn't immediately initiate the connection to the data source. You must use the **[Refresh](querytable-refresh-method-excel.md)** method to make the connection and retrieve the data.
 
-For more information about the connection string syntax, see the  **[Add](querytables-add-method-excel.md)** method of the **QueryTables** collection.
+For more information about the connection string syntax, see the **[Add](querytables-add-method-excel.md)** method of the **QueryTables** collection.
 
 Alternatively, you may choose to access a data source directly by using the Microsoft ActiveX Data Objects (ADO) library instead.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **Connection** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **Connection** property.
 
 
 ## Example

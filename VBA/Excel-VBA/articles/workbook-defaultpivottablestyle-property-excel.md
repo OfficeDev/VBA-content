@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.DefaultPivotTableStyle Property (Excel)
 
-Specifies the table style from the  **TableStyles** collection that is used as the default style for PivotTables. Read/write.
+Specifies the table style from the **TableStyles** collection that is used as the default style for PivotTables. Read/write.
 
 
 ## Syntax

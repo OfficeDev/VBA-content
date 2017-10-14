@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the object. Read/write.
+Returns or sets a **String** value that represents the display name for the object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 ## Remarks
 
-It is necessary for the  **Name** property to be set before calling the **[AddressEntry.Details](addressentry-details-method-outlook.md)** method.
+It is necessary for the **Name** property to be set before calling the **[AddressEntry.Details](addressentry-details-method-outlook.md)** method.
 
 
 ## See also

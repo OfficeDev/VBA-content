@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.Type Property (Excel)
 
-Returns the workbook connection type. Read-only  **[XlConnectionType](xlconnectiontype-enumeration-excel.md)** .
+Returns the workbook connection type. Read-only **[XlConnectionType](xlconnectiontype-enumeration-excel.md)** .
 
 
 ## Syntax

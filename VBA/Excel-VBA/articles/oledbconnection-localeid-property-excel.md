@@ -30,7 +30,7 @@ Returns or sets the locale identifier for the specified connection. Read/write
 
 ## Remarks
 
-Before you set the  **LocaleID** property to a new locale, you must set the **[RetrieveInOfficeUILang](oledbconnection-retrieveinofficeuilang-property-excel.md)** property of the **OLEDBConnection** object to **False** . For more information about valid Locale ID (LCID) values, search the MSDN Web site for "Locale IDs Assigned by Microsoft".
+Before you set the **LocaleID** property to a new locale, you must set the **[RetrieveInOfficeUILang](oledbconnection-retrieveinofficeuilang-property-excel.md)** property of the **OLEDBConnection** object to **False** . For more information about valid Locale ID (LCID) values, search the MSDN Web site for "Locale IDs Assigned by Microsoft".
 
 
 ## Example

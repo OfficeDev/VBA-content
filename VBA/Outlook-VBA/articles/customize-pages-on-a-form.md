@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Customize Pages on a Form
 
-In general, you can customize up to five pages on a form. For e-mail messages and posts, you can customize a sixth page, the  **Message** page; for contacts, you can customize the **General** page. You can also customize forms by using form regions. For a side-by-side comparison of both options, see [Customizing Form Pages and Form Regions](customizing-form-pages-and-form-regions.md).
+In general, you can customize up to five pages on a form. For e-mail messages and posts, you can customize a sixth page, the **Message** page; for contacts, you can customize the **General** page. You can also customize forms by using form regions. For a side-by-side comparison of both options, see [Customizing Form Pages and Form Regions](customizing-form-pages-and-form-regions.md).
 
 
 ## Forms customized with form regions
@@ -23,7 +23,7 @@ In the Forms Designer, do the following:
 
 1. Click the page that you want to customize. 
     
-2. From the  **Field Chooser**, drag a field to the page. Outlook automatically sizes the field for you. If you do not see the  **Field Chooser** box, on the **Developer** tab, in the **Tools** group, click **Field Chooser**.If the field that you want does not appear in the  **Field Chooser**, click a different field set from the list in the box at the top of the  **Field Chooser**. 
+2. From the **Field Chooser**, drag a field to the page. Outlook automatically sizes the field for you. If you do not see the **Field Chooser** box, on the **Developer** tab, in the **Tools** group, click **Field Chooser**.If the field that you want does not appear in the **Field Chooser**, click a different field set from the list in the box at the top of the **Field Chooser**. 
     
 3. To align, size, or remove fields, right-click the field, and then select the options that you want from the shortcut menu. 
     

@@ -31,7 +31,7 @@ Calculates the variance of a population in a specified set of records (a domain)
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|An expression that identifies the numeric field on which you want to find the variance. It can be a string expression identifying a field from a table or query, or it can be an expression that performs a [calculation on data in that field](calculate-fields-in-domain-aggregate-functions.md) . In _expr_, you can include the name field in a table, a control on a form, a constant, or a function. If  _expr_ includes a function, it can be either built-in or user-defined, but not another domain aggregate or SQL aggregate function. Any field included in _expr_ must be a numeric field.|
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain. It can be a table name or a query name for a query that does not require a parameter.|
-| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DVarP** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the word WHERE. If _criteria_ is omitted, the **DVarP** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise the  **DVarP** function returns a **Null**.|
+| _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the **DVarP** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the word WHERE. If _criteria_ is omitted, the **DVarP** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise the **DVarP** function returns a **Null**.|
 
 ### Return Value
 
@@ -40,16 +40,16 @@ Variant
 
 ## Remarks
 
-If  _domain_ refers to fewer than two records or if fewer than two records satisfy _criteria_, the  **DVarP** functions return a **Null**, indicating that a variance can't be calculated.
+If  _domain_ refers to fewer than two records or if fewer than two records satisfy _criteria_, the **DVarP** functions return a **Null**, indicating that a variance can't be calculated.
 
-Whether you use the  **DVarP** function in a macro, module, query expression, or calculated control, you must construct the _criteria_ argument carefully to ensure that it will be evaluated correctly.
+Whether you use the **DVarP** function in a macro, module, query expression, or calculated control, you must construct the _criteria_ argument carefully to ensure that it will be evaluated correctly.
 
-You can use the  **DVarP** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
+You can use the **DVarP** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
 
 
- **Note**  You can use the  **DVarP** function or the **VarP** function in a calculated field expression in a totals query. If you use the **DVarP** function, values are calculated before data is grouped. If you use the **VarP** function, the data is grouped before values in the field expression are evaluated.
+ **Note**  You can use the **DVarP** function or the **VarP** function in a calculated field expression in a totals query. If you use the **DVarP** function, values are calculated before data is grouped. If you use the **VarP** function, the data is grouped before values in the field expression are evaluated.
 
-If you simply want to find the standard deviation across all records in  _domain_, use the  **Var** or **VarP** function.
+If you simply want to find the standard deviation across all records in  _domain_, use the **Var** or **VarP** function.
 
 
 ## Example
@@ -70,7 +70,7 @@ dblY = DVarP("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 
 
 
-The following examples show how to use various types of criteria with the  **DVarP** function.
+The following examples show how to use various types of criteria with the **DVarP** function.
 
  **Sample code provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community

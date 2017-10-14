@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 |Generate run-time errors.|[Clear](clear-method-visual-basic-for-applications.md), [Error](error-statement.md), [Raise](raise-method.md)|
 |Get error messages.|[Error](error-function.md)|
 |Provide error information.|[Err](err-object.md)|
-|Return  **Error** variant.|[CVErr](cverr-function.md)|
+|Return **Error** variant.|[CVErr](cverr-function.md)|
 |Trap errors during run time.|[On Error](on-error-statement.md), [Resume](resume-statement.md)|
 |Type verification.|[IsError](iserror-function.md)|
 

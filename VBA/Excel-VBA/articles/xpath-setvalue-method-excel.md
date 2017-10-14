@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XPath.SetValue Method (Excel)
 
-Maps the specified  **[XPath](xpath-object-excel.md)** object to a **[ListColumn](listcolumn-object-excel.md)** object or **[Range](range-object-excel.md)** collection. If the **XPath** object has previously been mapped to the **ListColumn** object or **Range** collection, the **SetValue** method sets the properties of the **XPath** object.
+Maps the specified **[XPath](xpath-object-excel.md)** object to a **[ListColumn](listcolumn-object-excel.md)** object or **[Range](range-object-excel.md)** collection. If the **XPath** object has previously been mapped to the **ListColumn** object or **Range** collection, the **SetValue** method sets the properties of the **XPath** object.
 
 
 ## Syntax
@@ -31,12 +31,12 @@ Maps the specified  **[XPath](xpath-object-excel.md)** object to a **[ListColumn
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](xmlmap-object-excel.md)**|The map info that the mapped range will be associated with.|
 | _XPath_|Required| **String**|A valid XPath expression that tells Excel what XML data should appear in this mapped range. The XPath string can also contain valid filters, in which case, only a subset of the data that the XPath points to will ever appear in this mapped range.|
-| _SelectionNamespace_|Optional| **Variant**|Specifies any namespace prefixes used in the XPath argument. This argument can be omitted if the  **XPath** object doesn't contain any prefixes, or if the **XPath** object uses the Microsoft Excel internal prefixes.|
-| _Repeating_|Optional| **Variant**|Specifies whether the  **XPath** object is to be bound to a column in an XML list, or mapped to a single cell. Set to **True** to bind the **XPath** object to a column in an XML list. **False** forces a non-repeating cell to be created. If the range is greater than a single cell and **False** is specified, a runtime error will occur.|
+| _SelectionNamespace_|Optional| **Variant**|Specifies any namespace prefixes used in the XPath argument. This argument can be omitted if the **XPath** object doesn't contain any prefixes, or if the **XPath** object uses the Microsoft Excel internal prefixes.|
+| _Repeating_|Optional| **Variant**|Specifies whether the **XPath** object is to be bound to a column in an XML list, or mapped to a single cell. Set to **True** to bind the **XPath** object to a column in an XML list. **False** forces a non-repeating cell to be created. If the range is greater than a single cell and **False** is specified, a runtime error will occur.|
 
 ## Remarks
 
-See  **[IsExportable](xmlmap-isexportable-property-excel.md)** Property for a discussion on XPath support in Excel. If the XPath expression is invalid or if the XPath specified has already been mapped, a runtime error will occur.
+See **[IsExportable](xmlmap-isexportable-property-excel.md)** Property for a discussion on XPath support in Excel. If the XPath expression is invalid or if the XPath specified has already been mapped, a runtime error will occur.
 
 If Excel cannot resolve the namespace, a runtime error will occur.
 
@@ -63,7 +63,7 @@ If the range spans multiple cells then Excel creates a repeating XML List. Excel
 
 ## Example
 
-The following example creates an XML list based on the "Contacts" schema map that is attached to the workbook, and then uses the  **SetValue** method to bind each column to an **XPath** object.
+The following example creates an XML list based on the "Contacts" schema map that is attached to the workbook, and then uses the **SetValue** method to bind each column to an **XPath** object.
 
 
 ```vb

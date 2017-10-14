@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Apply Method (Excel)
 
-Applies to the specified shape formatting that's been copied by using the  **[PickUp](shaperange-pickup-method-excel.md)** method.
+Applies to the specified shape formatting that's been copied by using the **[PickUp](shaperange-pickup-method-excel.md)** method.
 
 
 ## Syntax

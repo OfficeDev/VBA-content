@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Font.Italic Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether text is normal or italic. Read/write.
+Returns or sets a **Boolean** that specifies whether text is normal or italic. Read/write.
 
 
 ## Syntax
 
  _expression_. **Italic**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Remarks

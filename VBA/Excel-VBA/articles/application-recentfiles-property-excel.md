@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RecentFiles Property (Excel)
 
-Returns a  **[RecentFiles](recentfiles-object-excel.md)** collection that represents the list of recently used files.
+Returns a **[RecentFiles](recentfiles-object-excel.md)** collection that represents the list of recently used files.
 
 
 ## Syntax

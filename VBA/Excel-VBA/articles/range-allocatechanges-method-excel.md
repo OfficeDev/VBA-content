@@ -25,7 +25,7 @@ Performs a writeback operation for all edited cells in a range based on an OLAP 
 
 ## Remarks
 
-The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for all changes made in the range since the last apply changes operation was committed. This method generates a run-time error if it is executed on a range based on a non-OLAP data source.
+The **AllocateChanges** method will execute an **UPDATE CUBE** statement for all changes made in the range since the last apply changes operation was committed. This method generates a run-time error if it is executed on a range based on a non-OLAP data source.
 
 
 ## See also

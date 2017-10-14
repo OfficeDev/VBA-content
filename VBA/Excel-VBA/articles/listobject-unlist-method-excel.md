@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Unlist Method (Excel)
 
-Removes the list functionality from a  **[ListObject](listobject-object-excel.md)** object. After you use this method, the range of cells that made up the the list will be a regular range of data.
+Removes the list functionality from a **[ListObject](listobject-object-excel.md)** object. After you use this method, the range of cells that made up the the list will be a regular range of data.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Removes the list functionality from a  **[ListObject](listobject-object-excel.md
 
 ## Remarks
 
-Running this method leaves the cell data, formatting, and formulas in the worksheet. The  **Total row** is also left intact. This method removes any link to a Microsoft SharePoint Foundation site. **AutoFilter** is also removed from the list.
+Running this method leaves the cell data, formatting, and formulas in the worksheet. The **Total row** is also left intact. This method removes any link to a Microsoft SharePoint Foundation site. **AutoFilter** is also removed from the list.
 
 
 ## Example

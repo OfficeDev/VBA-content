@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.GetMemberOfList Method (Outlook)
 
-Returns an  **[AddressEntries](addressentries-object-outlook.md)** collection object that contains the **[AddressEntry](addressentry-object-outlook.md)** objects representing all the Exchange distribution lists to which the user belongs.
+Returns an **[AddressEntries](addressentries-object-outlook.md)** collection object that contains the **[AddressEntry](addressentry-object-outlook.md)** objects representing all the Exchange distribution lists to which the user belongs.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AddressEntries](addressentries-object-outlook.md)** collection ob
 
 ### Return Value
 
-An  **AddressEntries** collection object that represents the Exchange distribution lists to which the **[ExchangeUser](exchangeuser-object-outlook.md)** belongs. Returns an **AddressEntries** collection object with a count of zero (0) if the **ExchangeUser** is not a member of any Exchange distribution list.
+An **AddressEntries** collection object that represents the Exchange distribution lists to which the **[ExchangeUser](exchangeuser-object-outlook.md)** belongs. Returns an **AddressEntries** collection object with a count of zero (0) if the **ExchangeUser** is not a member of any Exchange distribution list.
 
 
 ## Remarks
@@ -35,7 +35,7 @@ An  **AddressEntries** collection object that represents the Exchange distributi
 
 ## Example
 
-The following code sample shows how to obtain the names of the Exchange distribution lists to which the manager of the current user belongs. It uses the  **ExchangeUser** object to obtain specific Exchange user information such as the user's Exchange account alias, details about the user's manager, and the distribution lists that the user's manager has joined.
+The following code sample shows how to obtain the names of the Exchange distribution lists to which the manager of the current user belongs. It uses the **ExchangeUser** object to obtain specific Exchange user information such as the user's Exchange account alias, details about the user's manager, and the distribution lists that the user's manager has joined.
 
 
 ```vb

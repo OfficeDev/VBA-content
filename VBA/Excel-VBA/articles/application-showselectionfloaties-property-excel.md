@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowSelectionFloaties Property (Excel)
 
-Returns or sets a  **Boolean** that represents whether **Mini toolbars** displays when a user selects text. **False** if **Mini toolbars** are displayed. Read/write **Boolean** .
+Returns or sets a **Boolean** that represents whether **Mini toolbars** displays when a user selects text. **False** if **Mini toolbars** are displayed. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether **Mini toolbars** display
 
 ## Remarks
 
-Corresponds with the  **Show MiniBar on selection** check box in the **Excel Options** dialog box.
+Corresponds with the **Show MiniBar on selection** check box in the **Excel Options** dialog box.
 
 
 ## See also

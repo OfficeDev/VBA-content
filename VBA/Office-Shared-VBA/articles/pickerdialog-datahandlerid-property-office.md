@@ -25,7 +25,7 @@ Sets or gets the GUID of the Picker Dialog data handler component. Read/write
 
 ## Remarks
 
-You must specify  **DataHandlerID** before invoking the Picker Dialog.
+You must specify **DataHandlerID** before invoking the Picker Dialog.
 
 
 ## Example

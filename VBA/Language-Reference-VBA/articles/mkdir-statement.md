@@ -21,7 +21,7 @@ The required  _path_[argument](vbe-glossary.md) is a[string expression](vbe-glos
 
 ## Example
 
-This example uses the  **MkDir** statement to create a directory or folder. If the drive is not specified, the new directory or folder is created on the current drive.
+This example uses the **MkDir** statement to create a directory or folder. If the drive is not specified, the new directory or folder is created on the current drive.
 
 
 ```

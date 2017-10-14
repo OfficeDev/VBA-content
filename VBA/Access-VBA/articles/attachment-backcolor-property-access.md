@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.BackColor Property (Access)
 
-Gets or sets the interior color of the specified object. Read/write  **Long**.
+Gets or sets the interior color of the specified object. Read/write **Long**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 ## Remarks
 
-The  **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
+The **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-To use the  **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
+To use the **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
 
 
 ## See also

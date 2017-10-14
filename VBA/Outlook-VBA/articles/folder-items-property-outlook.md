@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Items Property (Outlook)
 
-Returns an  **[Items](items-object-outlook.md)** collection object as a collection of Outlook items in the specified folder. Read-only.
+Returns an **[Items](items-object-outlook.md)** collection object as a collection of Outlook items in the specified folder. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns an  **[Items](items-object-outlook.md)** collection object as a collecti
 
 ## Remarks
 
-The index for the  **Items** collection starts at 1, and the items in the **Items** collection object are not guaranteed to be in any particular order.
+The index for the **Items** collection starts at 1, and the items in the **Items** collection object are not guaranteed to be in any particular order.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Items** property to obtain the collection of **[ContactItem](contactitem-object-outlook.md)** objects from the default Contacts folder.
+This Visual Basic for Applications (VBA) example uses the **Items** property to obtain the collection of **[ContactItem](contactitem-object-outlook.md)** objects from the default Contacts folder.
 
 
 ```vb

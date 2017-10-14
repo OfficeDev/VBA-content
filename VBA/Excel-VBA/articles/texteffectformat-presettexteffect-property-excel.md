@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.PresetTextEffect Property (Excel)
 
-Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextEffect** .
+Returns or sets the style of the specified WordArt. Read/write **MsoPresetTextEffect** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextE
 
 ## Remarks
 
-The values for this property correspond to the formats in the  **WordArt Gallery** dialog box (numbered from left to right, top to bottom).
+The values for this property correspond to the formats in the **WordArt Gallery** dialog box (numbered from left to right, top to bottom).
 
 
 
@@ -61,7 +61,7 @@ The values for this property correspond to the formats in the  **WordArt Gallery
 | **msoTextEffect8**|
 | **msoTextEffect9**|
 | **msoTextEffectMixed**|
-Setting the  **PresetTextEffect** property automatically sets many other formatting properties of the specified shape.
+Setting the **PresetTextEffect** property automatically sets many other formatting properties of the specified shape.
 
 
 ## Example

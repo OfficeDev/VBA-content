@@ -63,7 +63,7 @@ This example runs my_Procedure at 5 P.M.
 Application.OnTime TimeValue("17:00:00"), "my_Procedure"
 ```
 
-This example cancels the  **OnTime** setting from the previous example.
+This example cancels the **OnTime** setting from the previous example.
 
 
 

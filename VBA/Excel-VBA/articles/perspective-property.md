@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Perspective Property
 
-Returns or sets the perspective for the 3-D chart view. Must be from 0 through 100. This property is ignored if the  **[RightAngleAxes](rightangleaxes-property.md)** property is **True**. Read/write  **Long**.
+Returns or sets the perspective for the 3-D chart view. Must be from 0 through 100. This property is ignored if the **[RightAngleAxes](rightangleaxes-property.md)** property is **True**. Read/write **Long**.
 
 
 ## Example

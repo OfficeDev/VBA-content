@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.Allocation Property (Excel)
 
-Returns or sets whether to run an  **UPDATE CUBE** statement for each cell is edited, or only when the user chooses to calculate changes when performing what-if analysis on a PivotTable based on an OLAP data source. Read/write
+Returns or sets whether to run an **UPDATE CUBE** statement for each cell is edited, or only when the user chooses to calculate changes when performing what-if analysis on a PivotTable based on an OLAP data source. Read/write
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns or sets whether to run an  **UPDATE CUBE** statement for each cell is ed
 
 ## Remarks
 
-The  **Allocation** property corresponds to the **Calculate with changes** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlManualAllocation** , which corresponds to the **Manually (when selecting calculate PivotTable with changes)** setting.
+The **Allocation** property corresponds to the **Calculate with changes** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlManualAllocation** , which corresponds to the **Manually (when selecting calculate PivotTable with changes)** setting.
 
 
 ## See also

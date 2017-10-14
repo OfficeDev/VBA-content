@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AboveAverage.AboveBelow Property (Excel)
 
-Returns or sets one of the constants of the  **[XlAboveBelow](xlabovebelow-enumeration-excel.md)** enumeration, specifying if the conditional formatting rule looks for cell values above or below the range average or standard deviation.
+Returns or sets one of the constants of the **[XlAboveBelow](xlabovebelow-enumeration-excel.md)** enumeration, specifying if the conditional formatting rule looks for cell values above or below the range average or standard deviation.
 
 
 ## Syntax

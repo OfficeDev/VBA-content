@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.InternetFreeBusyAddress Property (Outlook)
 
-Returns or sets a  **String** corresponding to the **Address** box on the **Details** tab for a contact. Read/write.
+Returns or sets a **String** corresponding to the **Address** box on the **Details** tab for a contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** corresponding to the **Address** box on the **Deta
 
 ## Remarks
 
-The  **Address** box on the **Details** tab can contain the URL location of the user's free-busy information in vCard Free-Busy standard format.
+The **Address** box on the **Details** tab can contain the URL location of the user's free-busy information in vCard Free-Busy standard format.
 
 
 ## See also

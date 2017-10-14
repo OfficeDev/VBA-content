@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.GetPivotData Method (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object with information about a data item in a PivotTable report.
+Returns a **[Range](range-object-excel.md)** object with information about a data item in a PivotTable report.
 
 
 ## Syntax

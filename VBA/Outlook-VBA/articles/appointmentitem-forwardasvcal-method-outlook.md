@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.ForwardAsVcal Method (Outlook)
 
-Forwards the  **[AppointmentItem](appointmentitem-object-outlook.md)** as a vCal; virtual calendar item.
+Forwards the **[AppointmentItem](appointmentitem-object-outlook.md)** as a vCal; virtual calendar item.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Forwards the  **[AppointmentItem](appointmentitem-object-outlook.md)** as a vCal
 
 ### Return Value
 
-A  **[MailItem](mailitem-object-outlook.md)** object that represents the new mail item to which the calendar information is attached.
+A **[MailItem](mailitem-object-outlook.md)** object that represents the new mail item to which the calendar information is attached.
 
 
 ## Remarks
 
-The  **ForwardAsVcal** method returns a **[MailItem](mailitem-object-outlook.md)** with the vCal file attached.
+The **ForwardAsVcal** method returns a **[MailItem](mailitem-object-outlook.md)** with the vCal file attached.
 
 
 ## See also

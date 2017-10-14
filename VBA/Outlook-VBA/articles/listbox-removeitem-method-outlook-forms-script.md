@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ListBox.RemoveItem Method (Outlook Forms Script)
 
-Removes a row from the list in a  **[ListBox](listbox-object-outlook-forms-script.md)**.
+Removes a row from the list in a **[ListBox](listbox-object-outlook-forms-script.md)**.
 
 
 ## Syntax
 
  _expression_. **RemoveItem**( **_pvargIndex_**)
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_A variable that represents a **ListBox** object.
 
 
 ### Parameters
@@ -28,11 +28,11 @@ Removes a row from the list in a  **[ListBox](listbox-object-outlook-forms-scrip
 
 ### Return Value
 
-A Boolean that returns  **True** if the method succeeds, **False** otherwise.
+A Boolean that returns **True** if the method succeeds, **False** otherwise.
 
 
 ## Remarks
 
-This method will not remove a row from the list if the  **ListBox** is data bound.
+This method will not remove a row from the list if the **ListBox** is data bound.
 
 

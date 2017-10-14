@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Walls.Thickness Property (Excel)
 
-Returns or sets a  **Long** specifying the thickness of the wall. Read/write.
+Returns or sets a **Long** specifying the thickness of the wall. Read/write.
 
 
 ## Syntax

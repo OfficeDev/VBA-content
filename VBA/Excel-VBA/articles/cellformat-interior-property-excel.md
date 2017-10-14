@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellFormat.Interior Property (Excel)
 
-Returns an  **[Interior](interior-object-excel.md)** object allowing the user to set or return the search criteria based on the cell's interior format.
+Returns an **[Interior](interior-object-excel.md)** object allowing the user to set or return the search criteria based on the cell's interior format.
 
 
 ## Syntax

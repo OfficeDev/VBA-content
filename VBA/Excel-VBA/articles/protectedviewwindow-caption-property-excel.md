@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Caption Property (Excel)
 
-Returns or sets a  **Variant** value that represents the name that appears in the title bar of the **Protected View** window. Read/write
+Returns or sets a **Variant** value that represents the name that appears in the title bar of the **Protected View** window. Read/write
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Container Property (Excel)
 
-Returns the object that represents the container application for the specified OLE object. Read-only  **Object** .
+Returns the object that represents the container application for the specified OLE object. Read-only **Object** .
 
 
 ## Syntax

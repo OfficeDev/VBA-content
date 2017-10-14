@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Databar.BarColor Property (Excel)
 
-Returns a  **[FormatColor](formatcolor-object-excel.md)** object that you can use to modify the color of the bars in a data bar conditional format.
+Returns a **[FormatColor](formatcolor-object-excel.md)** object that you can use to modify the color of the bars in a data bar conditional format.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationPane.Modules Property (Outlook)
 
-Returns a  **[NavigationModules](navigationmodules-object-outlook.md)** object that represents the set of navigation modules contained by the Navigation Pane. Read-only.
+Returns a **[NavigationModules](navigationmodules-object-outlook.md)** object that represents the set of navigation modules contained by the Navigation Pane. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicers.Item Property (Excel)
 
-Returns a  **[Slicer](slicer-object-excel.md)** object from the collection. Read-only.
+Returns a **[Slicer](slicer-object-excel.md)** object from the collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[Slicer](slicer-object-excel.md)** object from the collection. Read
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The name or index number of the  **Slicer** object.|
+| _Index_|Required| **Variant**|The name or index number of the **Slicer** object.|
 
 ## See also
 

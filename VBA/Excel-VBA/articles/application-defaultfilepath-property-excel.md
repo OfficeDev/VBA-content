@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultFilePath Property (Excel)
 
-Returns or sets the default path that Microsoft Excel uses when it opens files. Read/write  **String** .
+Returns or sets the default path that Microsoft Excel uses when it opens files. Read/write **String** .
 
 
 ## Syntax

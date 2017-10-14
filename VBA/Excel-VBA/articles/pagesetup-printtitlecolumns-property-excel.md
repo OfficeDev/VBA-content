@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintTitleColumns Property (Excel)
 
-Returns or sets the columns that contain the cells to be repeated on the left side of each page, as a string in A1-style notation in the language of the macro. Read/write  **String** .
+Returns or sets the columns that contain the cells to be repeated on the left side of each page, as a string in A1-style notation in the language of the macro. Read/write **String** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the columns that contain the cells to be repeated on the left si
 
 If you specify only part of a column or columns, Microsoft Excel expands the range to full columns.
 
-Set this property to  **False** or to the empty string ("") to turn off title columns.
+Set this property to **False** or to the empty string ("") to turn off title columns.
 
 This property applies only to worksheet pages.
 

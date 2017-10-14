@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Excel4MacroSheets Property (Excel)
 
-Returns a  **[Sheets](sheets-object-excel.md)** collection that represents all the Microsoft Excel 4.0 macro sheets in the specified workbook. Read-only.
+Returns a **[Sheets](sheets-object-excel.md)** collection that represents all the Microsoft Excel 4.0 macro sheets in the specified workbook. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Sheets](sheets-object-excel.md)** collection that represents all t
 
 ## Remarks
 
-Using this property with the  **Application** object or without an object qualifier is equivalent to using `ActiveWorkbook.Excel4MacroSheets`.
+Using this property with the **Application** object or without an object qualifier is equivalent to using `ActiveWorkbook.Excel4MacroSheets`.
 
 
 ## Example

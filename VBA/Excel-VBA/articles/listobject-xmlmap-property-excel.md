@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.XmlMap Property (Excel)
 
-Returns an  **XmlMap** object that represents the schema map used for the specified table. Read-only.
+Returns an **XmlMap** object that represents the schema map used for the specified table. Read-only.
 
 
 ## Syntax

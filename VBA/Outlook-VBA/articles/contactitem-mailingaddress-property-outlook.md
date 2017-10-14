@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.MailingAddress Property (Outlook)
 
-Returns or sets a  **String** representing the full, unparsed selected mailing address for the contact. Read/write.
+Returns or sets a **String** representing the full, unparsed selected mailing address for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the full, unparsed selected mailing a
 
 ## Remarks
 
-This property replicates the property indicated by the  **[SelectedMailingAddress](contactitem-selectedmailingaddress-property-outlook.md)** property, which is one of the following **OlMailingAddress** constants: **olBusiness** , **olHome** , **olNone** , or **olOther** . While it can be changed or entered independently, any such changes or entries to this property will be overwritten by any subsequent changes or entries to the property indicated by **SelectedMailingAddress** .
+This property replicates the property indicated by the **[SelectedMailingAddress](contactitem-selectedmailingaddress-property-outlook.md)** property, which is one of the following **OlMailingAddress** constants: **olBusiness** , **olHome** , **olNone** , or **olOther** . While it can be changed or entered independently, any such changes or entries to this property will be overwritten by any subsequent changes or entries to the property indicated by **SelectedMailingAddress** .
 
 
 ## See also

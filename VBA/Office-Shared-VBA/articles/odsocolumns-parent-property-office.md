@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOColumns.Parent Property (Office)
 
-Gets the  **Parent** object for the **ODSOColumns** object. Read-only.
+Gets the **Parent** object for the **ODSOColumns** object. Read-only.
 
 
 ## Syntax

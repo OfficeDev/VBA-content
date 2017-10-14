@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.EndDisconnect Method (Excel)
 
-Detaches the end of the specified connector from the shape it's attached to. This method doesn't alter the size or position of the connector: the end of the connector remains positioned at a connection site but is no longer connected. Use the  **[BeginDisconnect](connectorformat-begindisconnect-method-excel.md)** method to detach the beginning of the connector from a shape.
+Detaches the end of the specified connector from the shape it's attached to. This method doesn't alter the size or position of the connector: the end of the connector remains positioned at a connection site but is no longer connected. Use the **[BeginDisconnect](connectorformat-begindisconnect-method-excel.md)** method to detach the beginning of the connector from a shape.
 
 
 ## Syntax

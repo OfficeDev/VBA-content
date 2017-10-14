@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a numeric or string value containing the type of object. Read-only.
  **Return Values**
-The  **Type** property settings for the **Window** object are described in the following table:
+The **Type** property settings for the **Window** object are described in the following table:
 
 
 |**Constant**|**Value**|**Description**|
@@ -39,7 +39,7 @@ The  **Type** property settings for the **Window** object are described in the f
  **Important**  Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.
 
 
-The  **Type** property settings for the **VBComponent** object are described in the following table:
+The **Type** property settings for the **VBComponent** object are described in the following table:
 
 
 |**Constant**|**Value**|**Description**|
@@ -49,14 +49,14 @@ The  **Type** property settings for the **VBComponent** object are described in 
 |**vbext_ct_MSForm**|3|Microsoft Form|
 |**vbext_ct_ActiveXDesigner**|11|ActiveX Designer|
 |**vbext_ct_Document**|100|Document Module|
-The  **Type** property settings for the **Reference** object are described in the following table:
+The **Type** property settings for the **Reference** object are described in the following table:
 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**vbext_rk_TypeLib**|0|[Type library](vbe-glossary.md)|
 |**vbext_rk_Project**|1|[Project](vbe-glossary.md)|
-The  **Type** property settings for the **VBProject** object are described in the following table:
+The **Type** property settings for the **VBProject** object are described in the following table:
 
 
 |**Constant**|**Value**|**Description**|

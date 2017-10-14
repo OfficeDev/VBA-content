@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Open Event (Access)
 
-The  **Open** occurs before a report is previewed or printed.
+The **Open** occurs before a report is previewed or printed.
 
 
 ## Syntax
@@ -38,15 +38,15 @@ nothing
 
 ## Remarks
 
-For example, an  **Open** macro or event procedure can open a custom dialog box in which the user enters the criteria to filter the set of records to display on a form or the date range to include for a report.
+For example, an **Open** macro or event procedure can open a custom dialog box in which the user enters the criteria to filter the set of records to display on a form or the date range to include for a report.
 
-When you open a report based on an underlying query, Microsoft Access runs the  **Open** macro or event procedure before it runs the underlying query for the report. This enables the user to specify criteria for the report before it opens ? for example, in a custom dialog box you display when the **Open** event occurs.
+When you open a report based on an underlying query, Microsoft Access runs the **Open** macro or event procedure before it runs the underlying query for the report. This enables the user to specify criteria for the report before it opens ? for example, in a custom dialog box you display when the **Open** event occurs.
 
-If your application can have more than one form loaded at a time, use the  **Activate** and **Deactivate** events instead of the **Open** event to display and hide custom toolbars when the focus moves to a different form.
+If your application can have more than one form loaded at a time, use the **Activate** and **Deactivate** events instead of the **Open** event to display and hide custom toolbars when the focus moves to a different form.
 
-When the  **Close** event occurs, you can open another window or request the user's name to make a log entry indicating who used the form or report.
+When the **Close** event occurs, you can open another window or request the user's name to make a log entry indicating who used the form or report.
 
-If you're trying to decide whether to use the  **Open** or **Load** event for your macro or event procedure, one significant difference is that the **Open** event can be canceled, but the **Load** event can't. For example, if you're dynamically building a record source for a form in an event procedure for the form's **Open** event, you can cancel opening the form if there are no records to display. Similarly, the **Unload** event can be canceled, but the **Close** event can't.
+If you're trying to decide whether to use the **Open** or **Load** event for your macro or event procedure, one significant difference is that the **Open** event can be canceled, but the **Load** event can't. For example, if you're dynamically building a record source for a form in an event procedure for the form's **Open** event, you can cancel opening the form if there are no records to display. Similarly, the **Unload** event can be canceled, but the **Close** event can't.
 
 
 ## Example

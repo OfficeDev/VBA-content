@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reference.Minor Property (Access)
 
-The  **Minor** property of a **[Reference](reference-object-access.md)** object returns a **Long** value indicating the minor version number of the application to which you have set a reference.
+The **Minor** property of a **[Reference](reference-object-access.md)** object returns a **Long** value indicating the minor version number of the application to which you have set a reference.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **Minor** property of a **[Reference](reference-object-access.md)** object 
 
 ## Remarks
 
-The  **Minor** property returns the value to the right of the decimal point in a version number. For example, if you've set a reference to an application whose version number is 2.5, the **Minor** property returns 5.
+The **Minor** property returns the value to the right of the decimal point in a version number. For example, if you've set a reference to an application whose version number is 2.5, the **Minor** property returns 5.
 
 
 ## Example

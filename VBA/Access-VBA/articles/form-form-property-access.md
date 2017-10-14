@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Form Property (Access)
 
-You can use the  **Form** property to refer to a form or to refer to the form associated with a subformcontrol. Read-only **Form**.
+You can use the **Form** property to refer to a form or to refer to the form associated with a subformcontrol. Read-only **Form**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ You can use the  **Form** property to refer to a form or to refer to the form as
 
 This property refers to a form object. It is read-only in all views.
 
-This property is typically used to refer to the form or report contained in a subform control. For example, the following code uses the  **Form** property to access the OrderID control on a subform contained in the OrderDetails subform control.
+This property is typically used to refer to the form or report contained in a subform control. For example, the following code uses the **Form** property to access the OrderID control on a subform contained in the OrderDetails subform control.
 
 
 
@@ -37,7 +37,7 @@ Dim intOrderID As Integer
 intOrderID = Forms!Orders!OrderDetails.Form!OrderID
 ```
 
-The next example calls a function from a property sheet by using the  **Form** property to refer to the active form that contains the control named CustomerID.
+The next example calls a function from a property sheet by using the **Form** property to refer to the active form that contains the control named CustomerID.
 
 
 
@@ -46,7 +46,7 @@ The next example calls a function from a property sheet by using the  **Form** p
 =MyFunction(Form!CustomerID)
 ```
 
-When you use the  **Form** property in this manner, you are referring to the active form, and the name of the form isn't necessary.
+When you use the **Form** property in this manner, you are referring to the active form, and the name of the form isn't necessary.
 
 The next example is the Visual Basic equivalent of the preceding example.
 
@@ -63,7 +63,7 @@ X = MyFunction(Forms!Customers!CustomerID)
 
 ## Example
 
-The following example uses the  **Form** property to refer to a control on a subform.
+The following example uses the **Form** property to refer to a control on a subform.
 
 
 ```vb

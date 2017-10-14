@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Circle Method (Access)
 
-The  **Circle** method draws a circle, an ellipse, or an arc on a **Report** object when the Print event occurs.
+The **Circle** method draws a circle, an ellipse, or an arc on a **Report** object when the Print event occurs.
 
 
 ## Syntax
@@ -38,26 +38,26 @@ The  **Circle** method draws a circle, an ellipse, or an arc on a **Report** obj
 
 ## Remarks
 
-You can use this method only in an event procedure or a macro specified by the event properties for a report section, or the  **OnPage** event property for a report.
+You can use this method only in an event procedure or a macro specified by the event properties for a report section, or the **OnPage** event property for a report.
 
 When drawing a partial circle or ellipse, if the  _start_ argument is negative, the **Circle** method draws a radius to the position specified by the _start_ argument and treats the angle as positive. If the _end_ argument is negative, the **Circle** method draws a radius to the position specified by the _end_ argument and again treats the angle as positive. The **Circle** method always draws in a counterclockwise (positive) direction.
 
-To fill a circle, set the  **FillColor** and **FillStyle** properties of the report. Only a closed figure can be filled. Closed figures include circles, ellipses, and pie slices, which are arcs with radius lines drawn at both ends.
+To fill a circle, set the **FillColor** and **FillStyle** properties of the report. Only a closed figure can be filled. Closed figures include circles, ellipses, and pie slices, which are arcs with radius lines drawn at both ends.
 
 When drawing pie slices, if you need to draw a radius to angle 0 to form a horizontal line segment to the right, specify a very small negative value for the  _start_ argument rather than 0. For example, you might specify -.00000001 for the _start_ argument.
 
 You can omit an argument in the middle of the syntax, but you must include the argument's comma before including the next argument. If you omit a trailing argument, don't use any commas following the last argument you specify.
 
-The width of the line used to draw the circle, ellipse, or arc depends on the  **DrawWidth** property setting. The way the circle is drawn on the background depends on the settings of the **DrawMode** and **DrawStyle** properties.
+The width of the line used to draw the circle, ellipse, or arc depends on the **DrawWidth** property setting. The way the circle is drawn on the background depends on the settings of the **DrawMode** and **DrawStyle** properties.
 
-When you apply the  **Circle** method, the **CurrentX** and **CurrentY** properties are set to the center point specified by the _x_ and _y_ arguments.
+When you apply the **Circle** method, the **CurrentX** and **CurrentY** properties are set to the center point specified by the _x_ and _y_ arguments.
 
 
 ## Example
 
-The following example uses the  **Circle** method to draw a circle, and then create a pie slice within the circle and color it red.
+The following example uses the **Circle** method to draw a circle, and then create a pie slice within the circle and color it red.
 
-To try this example in Microsoft Access, create a new report. Set the  **OnPrint** property of the Detail section to [Event Procedure]. Enter the following code in the report's module, then switch to Print Preview.
+To try this example in Microsoft Access, create a new report. Set the **OnPrint** property of the Detail section to [Event Procedure]. Enter the following code in the report's module, then switch to Print Preview.
 
 
 

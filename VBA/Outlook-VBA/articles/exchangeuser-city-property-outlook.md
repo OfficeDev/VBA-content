@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.City Property (Outlook)
 
-Returns a  **String** representing the city for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns a **String** representing the city for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the city for the **[ExchangeUser](exchangeuse
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagLocality** .
+This property corresponds to the MAPI property, **PidTagLocality** .
 
  Returns an empty string if this property has not been implemented or does not exist for the **ExchangeUser** object.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sync.ErrorType Property (Office)
 
-Gets a  **MsoSyncErrorType** constant which indicates the type of the most recent document synchronization error. Read-only.
+Gets a **MsoSyncErrorType** constant which indicates the type of the most recent document synchronization error. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -33,7 +33,7 @@ MsoSyncErrorType
 
 ## Remarks
 
-Use the  **ErrorType** property to determine the type of the most recent document synchronization error. Not all document synchronization problems raise trappable run-time errors. After performing an operation using the **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
+Use the **ErrorType** property to determine the type of the most recent document synchronization error. Not all document synchronization problems raise trappable run-time errors. After performing an operation using the **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
 
 
 ## See also

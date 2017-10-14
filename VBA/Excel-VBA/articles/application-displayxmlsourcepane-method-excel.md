@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayXMLSourcePane Method (Excel)
 
-Opens the  **XML Source** task pane and displays the XML map specified by the _XmlMap_ argument.
+Opens the **XML Source** task pane and displays the XML map specified by the _XmlMap_ argument.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Opens the  **XML Source** task pane and displays the XML map specified by the _X
 
 ## Remarks
 
-You can use the following code to hide the  **XML Source** task pane.
+You can use the following code to hide the **XML Source** task pane.
 
 
 ```vb
@@ -43,7 +43,7 @@ Application.CommandBars("XML Source").Visible = False
 
 ## Example
 
-The following example adds an XML map named Customers to the active workbook, and then displays the XML map in the  **XML Source** task pane.
+The following example adds an XML map named Customers to the active workbook, and then displays the XML map in the **XML Source** task pane.
 
 
 ```vb

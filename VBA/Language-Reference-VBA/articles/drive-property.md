@@ -21,7 +21,7 @@ Returns the drive letter of the drive on which the specified file or folder resi
  _object_. **Drive**
 The  _object_ is always a **File** or **Folder** object.
  **Remarks**
-The following code illustrates the use of the  **Drive** property:
+The following code illustrates the use of the **Drive** property:
 
 
 

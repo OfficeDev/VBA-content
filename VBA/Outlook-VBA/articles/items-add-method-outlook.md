@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Items.Add Method (Outlook)
 
-Creates a new Outlook item in the  **[Items](items-object-outlook.md)** collection for the folder.
+Creates a new Outlook item in the **[Items](items-object-outlook.md)** collection for the folder.
 
 
 ## Syntax
@@ -29,16 +29,16 @@ Creates a new Outlook item in the  **[Items](items-object-outlook.md)** collecti
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a  **[MessageClass](mailitem-messageclass-property-outlook.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem** , **olContactItem** , **olJournalItem** , **olMailItem** , **olNoteItem** , **olPostItem** , or **olTaskItem,** , or any valid message class.|
+| _Type_|Optional| **Variant**|The Outlook item type for the new item. Specifies a **[MessageClass](mailitem-messageclass-property-outlook.md)** to create custom forms. Can be one of the following **OlItemType** constants: **olAppointmentItem** , **olContactItem** , **olJournalItem** , **olMailItem** , **olNoteItem** , **olPostItem** , or **olTaskItem,** , or any valid message class.|
 
 ### Return Value
 
-An  **Object** value that represents the new Outlook item.
+An **Object** value that represents the new Outlook item.
 
 
 ## Remarks
 
-If not specified, the  **Type** property of the Outlook item defaults to the type of the folder or to **[MailItem](mailitem-object-outlook.md)** if the parent folder is not typed.
+If not specified, the **Type** property of the Outlook item defaults to the type of the folder or to **[MailItem](mailitem-object-outlook.md)** if the parent folder is not typed.
 
 
 ## Example

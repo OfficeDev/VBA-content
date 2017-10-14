@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressList.AddressEntries Property (Outlook)
 
-Returns the  **[AddressEntries](addressentries-object-outlook.md)** collection for the specified object. Read-only.
+Returns the **[AddressEntries](addressentries-object-outlook.md)** collection for the specified object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkflowTask.Name Property (Office)
 
-Gets the name of the  **WorkflowTask** object. Read-only.
+Gets the name of the **WorkflowTask** object. Read-only.
 
 
 ## Syntax

@@ -34,7 +34,7 @@ Adds an item to a list box or a combo box.
 
 ## Remarks
 
-Using this method clears any range specified by the  **[ListFillRange](controlformat-listfillrange-property-excel.md)** property.
+Using this method clears any range specified by the **[ListFillRange](controlformat-listfillrange-property-excel.md)** property.
 
 
 ## Example

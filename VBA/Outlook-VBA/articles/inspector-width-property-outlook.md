@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.Width Property (Outlook)
 
-Returns or sets a  **Long** indicating the width (in pixels) of the specified object. Read/write.
+Returns or sets a **Long** indicating the width (in pixels) of the specified object. Read/write.
 
 
 ## Syntax

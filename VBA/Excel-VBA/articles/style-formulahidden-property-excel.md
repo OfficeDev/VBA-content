@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.FormulaHidden Property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if the formula will be hidden when the worksheet is protected.
+Returns or sets a **Boolean** value that indicates if the formula will be hidden when the worksheet is protected.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates if the formula will be hidde
 
 ## Remarks
 
-Don't confuse this property with the  **[Hidden](range-hidden-property-excel.md)** property. The formula will not be hidden if the workbook is protected and the worksheet is not, but only if the worksheet is protected.
+Don't confuse this property with the **[Hidden](range-hidden-property-excel.md)** property. The formula will not be hidden if the workbook is protected and the worksheet is not, but only if the worksheet is protected.
 
 
 ## See also

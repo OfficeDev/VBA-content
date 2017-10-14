@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ByVal <keyword>
 
-The  **ByVal** keyword is used in these contexts:
+The **ByVal** keyword is used in these contexts:
 
 [Call Statement](call-statement.md)
 

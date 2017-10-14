@@ -18,17 +18,17 @@ Contains a collection of [Outlook item objects](http://msdn.microsoft.com/librar
 
 ## Remarks
 
-Use the  **[Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** property to return the **Items** object of a **[Folder](folder-object-outlook.md)** object.
+Use the **[Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** property to return the **Items** object of a **[Folder](folder-object-outlook.md)** object.
 
-Use  **Items** ( _index_ ), where _index_ is the name or index number, to return a single Outlook item.
+Use **Items** ( _index_ ), where _index_ is the name or index number, to return a single Outlook item.
 
 
- **Note**  The index for the  **Items** collection starts at 1, and the items in the **Items** collection object are not guaranteed to be in any particular order.
+ **Note**  The index for the **Items** collection starts at 1, and the items in the **Items** collection object are not guaranteed to be in any particular order.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example returns the first item in the  **Inbox** with the Subject "Need your advice."
+The following Microsoft Visual Basic for Applications (VBA) example returns the first item in the **Inbox** with the Subject "Need your advice."
 
 
 
@@ -59,7 +59,7 @@ Sub GetItem()
 End sub
 ```
 
-The following VBA example returns the first item in the  **Inbox**. In Microsoft Office Outlook 2003 or later, the  **Items** object returns the items in an Offline Folders file (.ost) in the reverse order.
+The following VBA example returns the first item in the **Inbox**. In Microsoft Office Outlook 2003 or later, the **Items** object returns the items in an Offline Folders file (.ost) in the reverse order.
 
 
 

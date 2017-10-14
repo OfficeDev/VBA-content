@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTableChangeList.Add Method (Excel)
 
-Adds a  **[ValueChange](valuechange-object-excel.md)** object to the specified **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection.
+Adds a **[ValueChange](valuechange-object-excel.md)** object to the specified **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ ValueChange
 
 ## Remarks
 
-The  **Add** method enables you to add **ValueChange** objects that represent changes to the PivotTable report through code. Doing so will add to the **UPDATE CUBE** statement that Excel constructs based on this change list. Note that if the user changes the allocation settings so that not all changes have the same settings, Excel will run multiple **UPDATE CUBE** statements, one for each group of changes that were made while the same settings were applied.
+The **Add** method enables you to add **ValueChange** objects that represent changes to the PivotTable report through code. Doing so will add to the **UPDATE CUBE** statement that Excel constructs based on this change list. Note that if the user changes the allocation settings so that not all changes have the same settings, Excel will run multiple **UPDATE CUBE** statements, one for each group of changes that were made while the same settings were applied.
 
 
 ## See also

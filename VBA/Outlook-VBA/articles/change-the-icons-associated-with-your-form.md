@@ -19,11 +19,11 @@ When you customize icons on a form region, you can set icons for each of the dif
 ## Forms customized with form pages
 
 
-1. In the Forms Designer, click the  **Properties** page.
+1. In the Forms Designer, click the **Properties** page.
     
-2. Click  **Change Large Icon** or **Change Small Icon**. 
+2. Click **Change Large Icon** or **Change Small Icon**. 
     
-3. Select the icon that you want to use and then click  **Open**.
+3. Select the icon that you want to use and then click **Open**.
     
 
 |**Note**|

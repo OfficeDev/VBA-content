@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Research Property (Excel)
 
-Returns a  **Research** object that represents the research service for a workbook. Read-only.
+Returns a **Research** object that represents the research service for a workbook. Read-only.
 
 
 ## Syntax

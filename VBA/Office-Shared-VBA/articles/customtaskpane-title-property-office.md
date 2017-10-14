@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomTaskPane.Title Property (Office)
 
-Gets a  **String** representing the title of a **CustomTaskPane** object. Read-only.
+Gets a **String** representing the title of a **CustomTaskPane** object. Read-only.
 
 
 ## Syntax

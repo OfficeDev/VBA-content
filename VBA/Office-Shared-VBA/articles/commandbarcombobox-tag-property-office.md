@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Tag Property (Office)
 
-Gets or sets information about the  **CommandBarComboBox** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
+Gets or sets information about the **CommandBarComboBox** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
 
 
 ## 

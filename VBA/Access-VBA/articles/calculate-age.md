@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Calculate Age
 
-Access does not include a function that will calculate the age of a person or thing based on a given date. This topic contains Visual Basic for Applications (VBA) code for two custom functions,  **Age** and **AgeMonths**, that will calculate age based on a given date.
+Access does not include a function that will calculate the age of a person or thing based on a given date. This topic contains Visual Basic for Applications (VBA) code for two custom functions, **Age** and **AgeMonths**, that will calculate age based on a given date.
 
 The following function calculates age in years from a given date to today's date.
 

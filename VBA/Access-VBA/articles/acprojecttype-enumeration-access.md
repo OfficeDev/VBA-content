@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcProjectType Enumeration (Access)
 
-Used with the  **ProjectType** property to determine the type of project that is currently open.
+Used with the **ProjectType** property to determine the type of project that is currently open.
 
 
 

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 Returns an expression formatted as a currency value using the currency symbol defined in the system control panel.
  **Syntax**
  **FormatCurrency(**_Expression_ [ **,**_NumDigitsAfterDecimal_ [ **,**_IncludeLeadingDigit_ [ **,**_UseParensForNegativeNumbers_ [ **,**_GroupDigits_ ]]]] **)**
-The  **FormatCurrency** function syntax has these parts:
+The **FormatCurrency** function syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -40,6 +40,6 @@ The  _IncludeLeadingDigit_, _UseParensForNegativeNumbers_, and _GroupDigits_ arg
 When one or more optional arguments are omitted, the values for omitted arguments are provided by the computer's regional settings.
 The position of the currency symbol relative to the currency value is determined by the system's regional settings.
 
- **Note**  All settings information comes from the  **Regional Settings Currency** tab, except leading zero which comes from the **Number** tab.
+ **Note**  All settings information comes from the **Regional Settings Currency** tab, except leading zero which comes from the **Number** tab.
 
 

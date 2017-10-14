@@ -29,7 +29,7 @@ Occurs before any object in the specified PivotChart view has been rendered.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _drawObject_|Required|**Object**|A reference to the  **ChChartDraw** object. Use the **DrawType** property of the returned object to determine what type of rendering is about to occur.|
+| _drawObject_|Required|**Object**|A reference to the **ChChartDraw** object. Use the **DrawType** property of the returned object to determine what type of rendering is about to occur.|
 | _chartObject_|Required|**Object**| The object that is to be rendered. Use the **TypeName** function to determine the type of the object.|
 | _Cancel_|Required|**Object**| Set the **Value** property of this object to **True** to cancel the rendering of the PivotChart View object.|
 
@@ -40,7 +40,7 @@ nothing
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **BeforeRender** event.
+The following example demonstrates the syntax for a subroutine that traps the **BeforeRender** event.
 
 
 ```vb

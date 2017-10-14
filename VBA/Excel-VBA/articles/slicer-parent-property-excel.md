@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicer.Parent Property (Excel)
 
-Returns the  **[Worksheet](worksheet-object-excel.md)** object that represents the sheet that contains the slicer. Read-only.
+Returns the **[Worksheet](worksheet-object-excel.md)** object that represents the sheet that contains the slicer. Read-only.
 
 
 ## Syntax

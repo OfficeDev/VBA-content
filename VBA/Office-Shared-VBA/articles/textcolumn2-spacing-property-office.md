@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextColumn2.Spacing Property (Office)
 
-Gets or sets the spacing between text columns in a  **TextColumn2** object. Read/write.
+Gets or sets the spacing between text columns in a **TextColumn2** object. Read/write.
 
 
 ## Syntax

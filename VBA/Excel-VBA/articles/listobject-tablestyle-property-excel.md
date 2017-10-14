@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.TableStyle Property (Excel)
 
-Gets or sets the table style for the specified  **ListObject** object. Read/write **Variant** .
+Gets or sets the table style for the specified **ListObject** object. Read/write **Variant** .
 
 
 ## Syntax

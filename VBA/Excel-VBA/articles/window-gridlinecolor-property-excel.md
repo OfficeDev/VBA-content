@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.GridlineColor Property (Excel)
 
-Returns or sets the gridline color as an RGB value. Read/write  **Long** .
+Returns or sets the gridline color as an RGB value. Read/write **Long** .
 
 
 ## Syntax

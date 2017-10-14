@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Rows Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents all the rows on the active worksheet. If the active document isn't a worksheet, the **Rows** property fails. Read-only **Range** object.
+Returns a **[Range](range-object-excel.md)** object that represents all the rows on the active worksheet. If the active document isn't a worksheet, the **Rows** property fails. Read-only **Range** object.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[Range](range-object-excel.md)** object that represents all the row
 
 Using this property without an object qualifier is equivalent to using  `ActiveSheet.Rows`.
 
-When applied to a  **Range** object that's a multiple selection, this property returns rows from only the first area of the range. For example, if the **Range** object has two areas — A1:B2 and C3:D4 — `Selection.Rows.Count` returns 2, not 4. To use this property on a range that may contain a multiple selection, test `Areas.Count` to determine whether the range is a multiple selection. If it is, loop over each area in the range, as shown in the third example.
+When applied to a **Range** object that's a multiple selection, this property returns rows from only the first area of the range. For example, if the **Range** object has two areas — A1:B2 and C3:D4 — `Selection.Rows.Count` returns 2, not 4. To use this property on a range that may contain a multiple selection, test `Areas.Count` to determine whether the range is a multiple selection. If it is, loop over each area in the range, as shown in the third example.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.BaseField Property (Excel)
 
-Returns or sets the base field for a custom calculation. This property is valid only for data fields. Read/write  **Variant** .
+Returns or sets the base field for a custom calculation. This property is valid only for data fields. Read/write **Variant** .
 
 
 ## Syntax

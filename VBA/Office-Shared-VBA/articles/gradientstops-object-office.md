@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GradientStops Object (Office)
 
-Contains a collection of  **GradientStop** objects.
+Contains a collection of **GradientStop** objects.
 
 
 ## Remarks

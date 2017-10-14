@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CodeData Property (Access)
 
-You can use the  **CodeData** property to access the **[CodeData](codedata-object-access.md)** object and its related collections. Read-only **CodeData** object.
+You can use the **CodeData** property to access the **[CodeData](codedata-object-access.md)** object and its related collections. Read-only **CodeData** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **CodeData** property to access the **[CodeData](codedata-objec
 
 ## Remarks
 
-Use the  **CodeData** property to refer to one of the following code database collections together with one of its properties or methods.
+Use the **CodeData** property to refer to one of the following code database collections together with one of its properties or methods.
 
 
 ## See also

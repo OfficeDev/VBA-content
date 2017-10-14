@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.ReceivedTime Property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the item was received. Read/write.
+Returns or sets a **Date** indicating the date and time at which the item was received. Read/write.
 
 
 ## Syntax

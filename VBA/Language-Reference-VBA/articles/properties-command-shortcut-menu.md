@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Properties Command (Shortcut Menu)
 
-Opens the  **Properties** window for the selected item.
+Opens the **Properties** window for the selected item.
 
 

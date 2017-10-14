@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Microsoft Excel prints row and column labels in place of any print titles set for the worksheet. Use the  **[PrintTitles](pivottable-printtitles-property-excel.md)** property to determine whether print titles are set for the PivotTable report.
+Microsoft Excel prints row and column labels in place of any print titles set for the worksheet. Use the **[PrintTitles](pivottable-printtitles-property-excel.md)** property to determine whether print titles are set for the PivotTable report.
 
 
 ## Example

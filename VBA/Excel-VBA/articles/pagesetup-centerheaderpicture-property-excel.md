@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.CenterHeaderPicture Property (Excel)
 
-Returns a  **[Graphic](graphic-object-excel.md)** object that represents the picture for the center section of the header. Used to set attributes about the picture.
+Returns a **[Graphic](graphic-object-excel.md)** object that represents the picture for the center section of the header. Used to set attributes about the picture.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 
 ## Remarks
 
-The  **CenterHeaderPicture** property is read-only, but the properties on it are not all read-only.
+The **CenterHeaderPicture** property is read-only, but the properties on it are not all read-only.
 
-It is required that "&;G" is a part of the  **CenterHeader** property string in order for the image to show up in the center header.
+It is required that "&;G" is a part of the **CenterHeader** property string in order for the image to show up in the center header.
 
 
 ## Example

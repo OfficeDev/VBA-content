@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Control Character Matching in a Combo Box and List Box
 
-The following example uses the  **MatchEntry** property to demonstrate character matching that is available for **[ComboBox](combobox-object-outlook-forms-script.md)** and **[ListBox](listbox-object-outlook-forms-script.md)**. In this example, the user can set the type of matching with the  **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls and then type into the **ComboBox** to specify an item from its list.
+The following example uses the **MatchEntry** property to demonstrate character matching that is available for **[ComboBox](combobox-object-outlook-forms-script.md)** and **[ListBox](listbox-object-outlook-forms-script.md)**. In this example, the user can set the type of matching with the **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls and then type into the **ComboBox** to specify an item from its list.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
 
 

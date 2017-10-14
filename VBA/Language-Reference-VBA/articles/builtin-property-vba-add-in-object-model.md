@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a [Boolean](vbe-glossary.md) value indicating whether or not the reference is a default reference that can't be removed. Read-only.
  **Return Values**
-The  **BuiltIn** property returns these values:
+The **BuiltIn** property returns these values:
 
 
 |**Value**|**Description**|

@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Specify the Column in a Multi-Column List Box to Store Data for the Control
 
-The following example demonstrates how the  **[BoundColumn](listbox-boundcolumn-property-outlook-forms-script.md)** property influences the value of a **[ListBox](listbox-object-outlook-forms-script.md)**. The user can choose to set the value of the  **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
+The following example demonstrates how the **[BoundColumn](listbox-boundcolumn-property-outlook-forms-script.md)** property influences the value of a **[ListBox](listbox-object-outlook-forms-script.md)**. The user can choose to set the value of the **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1.
+- A **[Label](label-object-outlook-forms-script.md)** named Label1.
     
-- Three  **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
+- Three **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
     
 
 

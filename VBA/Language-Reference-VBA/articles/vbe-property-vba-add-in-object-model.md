@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the root of the  **VBE** object. Read-only.
+Returns the root of the **VBE** object. Read-only.
  **Remarks**
-All objects have a  **VBE** property that points to the root of the **VBE** object.
+All objects have a **VBE** property that points to the root of the **VBE** object.
 

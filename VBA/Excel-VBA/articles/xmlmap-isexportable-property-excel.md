@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.IsExportable Property (Excel)
 
-Returns  **True** if Microsoft Excel can use the **[XPath](xpath-object-excel.md)** objects in the specified schema map to export XML data and all XML lists mapped to the specified schema map can be exported.
+Returns **True** if Microsoft Excel can use the **[XPath](xpath-object-excel.md)** objects in the specified schema map to export XML data and all XML lists mapped to the specified schema map can be exported.
 
 
 ## Syntax

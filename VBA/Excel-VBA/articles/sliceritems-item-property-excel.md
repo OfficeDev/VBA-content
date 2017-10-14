@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerItems.Item Property (Excel)
 
-Returns a  **[SlicerItem](sliceritem-object-excel.md)** object from a collection. Read-only.
+Returns a **[SlicerItem](sliceritem-object-excel.md)** object from a collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[SlicerItem](sliceritem-object-excel.md)** object from a collection
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The name or index number of the  **SlicerItem** object.|
+| _Index_|Required| **Variant**|The name or index number of the **SlicerItem** object.|
 
 ### Return Value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NotesModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[NotesModule](notesmodule-object-outlook.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[NotesModule](notesmodule-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

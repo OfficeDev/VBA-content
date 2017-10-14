@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextBox.AllowAutoCorrect Property (Access)
 
-You can use the  **AllowAutoCorrect** property to specify whetherthe specified control will automatically correct entries made by the user. Read/write **Boolean**.
+You can use the **AllowAutoCorrect** property to specify whetherthe specified control will automatically correct entries made by the user. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **AllowAutoCorrect** property to specify whetherthe specified c
 
 ## Remarks
 
-The  **AllowAutoCorrect** property uses the following settings.
+The **AllowAutoCorrect** property uses the following settings.
 
 
 ## See also

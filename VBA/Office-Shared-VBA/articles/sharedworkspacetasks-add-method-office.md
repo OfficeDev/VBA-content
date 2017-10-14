@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceTasks.Add Method (Office)
 
-Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorkspaceTask** object.
+Adds a task to the list of tasks in a shared workspace. Returns a **SharedWorkspaceTask** object.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -33,22 +33,22 @@ Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorks
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Title_|Required|**String**|The title of the new task.|
-| _Status_|Optional|**msoSharedWorkspaceTask**|The status of the new task. Default is  **msoSharedWorkspaceTaskNotStarted**.|
-| _Priority_|Optional|**msoSharedWorkspaceTask**|The priority of the new task. Default is  **msoSharedWorkspaceTaskNormal**.|
+| _Status_|Optional|**msoSharedWorkspaceTask**|The status of the new task. Default is **msoSharedWorkspaceTaskNotStarted**.|
+| _Priority_|Optional|**msoSharedWorkspaceTask**|The priority of the new task. Default is **msoSharedWorkspaceTaskNormal**.|
 | _Assignee_|Optional|**SharedWorkspaceMember**|The member to whom the new task is assigned.|
 | _Description_|Optional|**String**|The description of the new task.|
 | _DueDate_|Optional|**Date**|The due date of the new task.|
 
 ## Remarks
 
-The schema that defines shared workspace tasks and their properties for a SharePoint site can be modified on the server in such a way that the  **Add** method of the **SharedWorkspaceTasks** collection may raise an error, or may disregard the values of certain arguments. In particular, the task status and priority enumerations can be customized. Some examples of the problems that can result are mentioned below:
+The schema that defines shared workspace tasks and their properties for a SharePoint site can be modified on the server in such a way that the **Add** method of the **SharedWorkspaceTasks** collection may raise an error, or may disregard the values of certain arguments. In particular, the task status and priority enumerations can be customized. Some examples of the problems that can result are mentioned below:
 
 
 - If a  _Status_ argument is supplied, and the status field has been removed from the customized tasks schema, the argument will be ignored and no error will be raised.
     
 - If a  _Status_ value is supplied that lies outside the status values recognized by the customized tasks schema, the argument will be ignored, the default value will be used, and no error will be raised.
     
-- If a new required field has been added to the customized tasks schema, then the  **Add** method will fail with an error, and it will no longer be possible to use the **Add** method to add new tasks.
+- If a new required field has been added to the customized tasks schema, then the **Add** method will fail with an error, and it will no longer be possible to use the **Add** method to add new tasks.
     
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.LeftFooterPicture Property (Excel)
 
-Returns a  **[Graphic](graphic-object-excel.md)** object that represents the picture for the left section of the footer. Used to set attributes about the picture.
+Returns a **[Graphic](graphic-object-excel.md)** object that represents the picture for the left section of the footer. Used to set attributes about the picture.
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 
 ## Remarks
 
-The  **LeftFooterPicture** property is read-only, but the properties on it are not all read-only.
+The **LeftFooterPicture** property is read-only, but the properties on it are not all read-only.
 
 
- **Note**  It is required that "&;G" is a part of the  **LeftFooter** property string in order for the image to show up in the left footer.
+ **Note**  It is required that "&;G" is a part of the **LeftFooter** property string in order for the image to show up in the left footer.
 
 
 ## Example

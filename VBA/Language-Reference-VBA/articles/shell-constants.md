@@ -21,6 +21,6 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 |**vbNormalNoFocus**|4|Window is restored to its most recent size and position. The currently active window remains active.|
 |**vbMinimizedNoFocus**|6|Window is displayed as an icon. The currently active window remains active.|
 
-On the Macintosh,  **vbNormalFocus**, **vbMinimizedFocus**, and **vbMaximizedFocus** all place the application in the foreground; **vbHide**, **vbNoFocus**, **vbMinimizedFocus** all place the application in the background.
+On the Macintosh, **vbNormalFocus**, **vbMinimizedFocus**, and **vbMaximizedFocus** all place the application in the foreground; **vbHide**, **vbNoFocus**, **vbMinimizedFocus** all place the application in the background.
 
 

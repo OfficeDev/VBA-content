@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Slicer.TimelineViewState Property (Excel)
 
-The timeline-specific state of the Slicer.  **TimelineViewState** Read-only
+The timeline-specific state of the Slicer. **TimelineViewState** Read-only
 
 
 ## Syntax

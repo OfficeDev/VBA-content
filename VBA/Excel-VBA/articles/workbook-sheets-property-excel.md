@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Sheets Property (Excel)
 
-Returns a  **[Sheets](sheets-object-excel.md)** collection that represents all the sheets in the specified workbook. Read-only **Sheets** object.
+Returns a **[Sheets](sheets-object-excel.md)** collection that represents all the sheets in the specified workbook. Read-only **Sheets** object.
 
 
 ## Syntax

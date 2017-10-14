@@ -19,9 +19,9 @@ Possible causes:
 
 
 
-- The specified field is part of a  **TableDef** or dynaset-type **Recordset** object that cannot be updated. For example, this error occurs if you try to update an AutoNumber field.
+- The specified field is part of a **TableDef** or dynaset-type **Recordset** object that cannot be updated. For example, this error occurs if you try to update an AutoNumber field.
     
-- You executed a query that combines updatable and nonupdatable  **TableDef** objects, and you tried to update one of the fields in the query's results (the resulting dynaset-type **Recordset** ).
+- You executed a query that combines updatable and nonupdatable **TableDef** objects, and you tried to update one of the fields in the query's results (the resulting dynaset-type **Recordset** ).
     
 
  **ACCESS SUPPORT RESOURCES**<br>

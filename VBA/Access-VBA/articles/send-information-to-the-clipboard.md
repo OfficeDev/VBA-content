@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 ## Use the RunCommand Method
 
-You can use the  **[RunCommand](docmd-runcommand-method-access.md)** method with the **acCmdCopy** constant to copy the contents of the active control on a form or report to the Clipboard. The following example illustrates how to copy the contents of a text box named txtNotes to the Clipboard.
+You can use the **[RunCommand](docmd-runcommand-method-access.md)** method with the **acCmdCopy** constant to copy the contents of the active control on a form or report to the Clipboard. The following example illustrates how to copy the contents of a text box named txtNotes to the Clipboard.
 
 
 ```vb

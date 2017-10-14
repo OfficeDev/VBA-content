@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Tab Order Command (View Menu)
 
-Displays the  **Tab** **Order** dialog box for the active **Form**.
+Displays the **Tab** **Order** dialog box for the active **Form**.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_tbod_ZA01201754.gif).

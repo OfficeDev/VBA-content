@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Error Trapping
 
-You can use the  **On Error GoTo** statement to trap errors and direct procedure flow to the location of error-handling statements within a procedure. For example, the following statement directs the flow to the label line:
+You can use the **On Error GoTo** statement to trap errors and direct procedure flow to the location of error-handling statements within a procedure. For example, the following statement directs the flow to the label line:
 
 
 ```vb
@@ -19,7 +19,7 @@ On Error GoTo ErrorHandler
 ```
 
 
-Be sure to give each error handler label in a procedure a unique name that will not conflict with any other element in the procedure, and make sure you append a colon to the name. Within the procedure, place the  **Exit Sub** or **Exit Function** statement in front of the error handler label so that the procedure doesn't run the error-checking code if no error occurs.
+Be sure to give each error handler label in a procedure a unique name that will not conflict with any other element in the procedure, and make sure you append a colon to the name. Within the procedure, place the **Exit Sub** or **Exit Function** statement in front of the error handler label so that the procedure doesn't run the error-checking code if no error occurs.
 
 
 
@@ -40,7 +40,7 @@ ErrorHandler:
 End Sub
 ```
 
-The  **Raise** method of the **Err** object generates the specified error. The **Number** property of the **Err** object returns the number corresponding to the most recent run-time error; the **Description** property returns the corresponding message text for a given error.
+The **Raise** method of the **Err** object generates the specified error. The **Number** property of the **Err** object returns the number corresponding to the most recent run-time error; the **Description** property returns the corresponding message text for a given error.
 
  **Note**  
 

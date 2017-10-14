@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalculatedMember.Formula Property (Excel)
 
-Returns a  **String** value that represents the member's formula in multidimensional expressions (MDX) syntax.
+Returns a **String** value that represents the member's formula in multidimensional expressions (MDX) syntax.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents the member's formula in multidimensi
 
 ## Remarks
 
-If the cell contains a constant, this property returns the constant. If the cell is empty, this property returns an empty string. If the cell contains a formula, the  **Formula** property returns the formula as a string in the same format that would be displayed in the formula bar (including the equal sign).
+If the cell contains a constant, this property returns the constant. If the cell is empty, this property returns an empty string. If the cell contains a formula, the **Formula** property returns the formula as a string in the same format that would be displayed in the formula bar (including the equal sign).
 
 If you set the value or formula of a cell to a date, Microsoft Excel checks to see whether that cell is already formatted with one of the date or time number formats. If not, Microsoft Excel changes the number format to the default short date number format.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Fill Property (Excel)
 
-Returns a  **[FillFormat](fillformat-object-excel.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
+Returns a **[FillFormat](fillformat-object-excel.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
 
 
 ## Syntax

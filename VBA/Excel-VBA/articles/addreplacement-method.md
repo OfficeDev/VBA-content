@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Adds an entry to the array of AutoCorrect replacements.
 
- _expression_. **AddReplacement( _What_**,  **_Replacement_)**
+ _expression_. **AddReplacement( _What_**, **_Replacement_)**
 
  _expression_ Required. An expression that returns an **AutoCorrect** object.
 

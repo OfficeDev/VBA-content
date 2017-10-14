@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.CompactLayoutColumnHeader Property (Excel)
 
-Specifies the caption that is displayed in the column header of a PivotTable when in compact row layout form. Read/write  **String** .
+Specifies the caption that is displayed in the column header of a PivotTable when in compact row layout form. Read/write **String** .
 
 
 ## Syntax

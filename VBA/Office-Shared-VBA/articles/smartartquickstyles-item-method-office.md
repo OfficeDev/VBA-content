@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtQuickStyles.Item Method (Office)
 
-Retrieves a  **SmartArtQuickStyle** object at the specified index or with the specified unique Id.
+Retrieves a **SmartArtQuickStyle** object at the specified index or with the specified unique Id.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Retrieves a  **SmartArtQuickStyle** object at the specified index or with the sp
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the location of the  **SmartArtQuickStyle** object.|
+| _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the location of the **SmartArtQuickStyle** object.|
 
 ### Return Value
 

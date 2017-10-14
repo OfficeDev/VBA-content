@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeProject.AllModules Property (Access)
 
-You can use the  **AllModules** property to reference the **[AllModules](allmodules-object-access.md)** collection and its related properties. Read-only **AllModules** object.
+You can use the **AllModules** property to reference the **[AllModules](allmodules-object-access.md)** collection and its related properties. Read-only **AllModules** object.
 
 
 ## Syntax

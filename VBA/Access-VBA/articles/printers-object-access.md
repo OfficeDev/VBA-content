@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # Printers Object (Access)
 
-The  **Printers** collection contains **[Printer](printer-object-access.md)** objects representing all the printers available on the current system.
+The **Printers** collection contains **[Printer](printer-object-access.md)** objects representing all the printers available on the current system.
 
 
 ## Remarks
 
-Use the  **[Printers](application-printers-property-access.md)** property of the **Application** object to return the **Printers** collection. You can enumerate through the **Printers** collection by using the **For Each...Next** statement.
+Use the **[Printers](application-printers-property-access.md)** property of the **Application** object to return the **Printers** collection. You can enumerate through the **Printers** collection by using the **For Each...Next** statement.
 
-You can refer to an individual  **Printer** object in the **Printers** collection either by referring to the printer by name, or by referring to its index within the collection.
+You can refer to an individual **Printer** object in the **Printers** collection either by referring to the printer by name, or by referring to its index within the collection.
 
-The  **Printers** collection is indexed beginning with zero. If you refer to a printer by its index, the first printer is Printers(0), the second printer is Printers(1), and so on.
+The **Printers** collection is indexed beginning with zero. If you refer to a printer by its index, the first printer is Printers(0), the second printer is Printers(1), and so on.
 
-You can't add or delete a  **Printer** object from the **Printers** collection.
+You can't add or delete a **Printer** object from the **Printers** collection.
 
 
 ## Example

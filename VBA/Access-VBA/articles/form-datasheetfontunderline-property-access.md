@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetFontUnderline Property (Access)
 
-You can use the  **DatasheetFontUnderline** property to specify an underlined appearance for field names and data in Datasheet view. Read/write **Boolean**.
+You can use the **DatasheetFontUnderline** property to specify an underlined appearance for field names and data in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **DatasheetFontUnderline** property to specify an underlined ap
 
 ## Remarks
 
-The  **DatasheetFontUnderline** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
+The **DatasheetFontUnderline** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
 This property is only available in [Visual Basic](set-properties-by-using-visual-basic.md)within a Microsoft Access database.
 
-The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
+The following table contains the properties that don't exist in the DAO **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 
 |||
@@ -40,7 +40,7 @@ The following table contains the properties that don't exist in the DAO  **Prope
 |**DatasheetFontUnderline** *|**[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)**|
 |**[DatasheetFontWeight](form-datasheetfontweight-property-access.md)** *|**[DatasheetCellsEffect](form-datasheetcellseffect-property-access.md)**|
 
- **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the  **Properties** collection of the database.
+ **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection of the database.
 
 
 ## Example
@@ -55,7 +55,7 @@ Forms![Products].DatasheetFontUnderline = True
 
 The next example displays the data and field names in Datasheet view of the Products table as italic and underlined.
 
-To set the  **DatasheetFontItalic** and **DatasheetFontUnderline** properties, the example uses the SetTableProperty procedure, which is in the database's standard module.
+To set the **DatasheetFontItalic** and **DatasheetFontUnderline** properties, the example uses the SetTableProperty procedure, which is in the database's standard module.
 
 
 

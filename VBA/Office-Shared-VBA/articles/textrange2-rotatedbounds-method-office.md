@@ -37,12 +37,12 @@ Gets the coordinates of the vertices of the text bounding box for the specified 
 
 ## Remarks
 
-The text bounding box is not the same as the  **TextFrame2** object. The **TextFrame2** object represents the container in which the text can reside. The text bounding box represents the perimeter immediately surrounding the text.
+The text bounding box is not the same as the **TextFrame2** object. The **TextFrame2** object represents the container in which the text can reside. The text bounding box represents the perimeter immediately surrounding the text.
 
 
 ## Example
 
-This example uses the values returned by the arguments of the  **RotatedBounds** method to draw a freeform that has the dimensions of the text bounding box for the third word in the text range in shape one on slide one in the active presentation.
+This example uses the values returned by the arguments of the **RotatedBounds** method to draw a freeform that has the dimensions of the text bounding box for the third word in the text range in shape one on slide one in the active presentation.
 
 
 ```

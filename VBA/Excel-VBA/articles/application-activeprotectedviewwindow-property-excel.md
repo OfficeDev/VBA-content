@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveProtectedViewWindow Property (Excel)
 
-Returns a  **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** object that represents the active **Protected View** window (the window on top). Read-only. Returns **Nothing** if there are no **Protected View** windows open. Read-only
+Returns a **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** object that represents the active **Protected View** window (the window on top). Read-only. Returns **Nothing** if there are no **Protected View** windows open. Read-only
 
 
 ## Syntax

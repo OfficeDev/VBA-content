@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 # Application.ActiveWorkbook Property (Excel)
 
-Returns a  **[Workbook](workbook-object-excel.md)** object that represents the workbook in the active window (the window on top). Read-only. Returns **Nothing** if there are no windows open or if either the Info window or the Clipboard window is the active window.
+Returns a **[Workbook](workbook-object-excel.md)** object that represents the workbook in the active window (the window on top). Read-only. Returns **Nothing** if there are no windows open or if either the Info window or the Clipboard window is the active window.
 
 
- **Note**  The document in the active protected view window cannot be accessed using this property. Instead, use the  **[Workbook](protectedviewwindow-workbook-property-excel.md)** property of the **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** object.
+ **Note**  The document in the active protected view window cannot be accessed using this property. Instead, use the **[Workbook](protectedviewwindow-workbook-property-excel.md)** property of the **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** object.
 
 
 ## Syntax

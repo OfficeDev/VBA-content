@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # KeyDown Event, TextBox Control, CurLine, CurTargetX, CurX, Text Properties Example
 
-The following example tracks the  **CurLine**, **CurTargetX**, and **CurX** property settings in a multiline **TextBox**. These settings change in the **KeyUp** event as the user types into the **Text** property, moves the insertion point, and extends the selection using the keyboard.
+The following example tracks the **CurLine**, **CurTargetX**, and **CurX** property settings in a multiline **TextBox**. These settings change in the **KeyUp** event as the user types into the **Text** property, moves the insertion point, and extends the selection using the keyboard.
 
 To use this example, follow these steps:
 
@@ -20,9 +20,9 @@ To use this example, follow these steps:
 
 1. Copy this sample code to the Declarations portion of a form.
     
-2. Add one large  **TextBox** named TextBox1 to the form.
+2. Add one large **TextBox** named TextBox1 to the form.
     
-3. Add three  **TextBox** controls named TextBox2, TextBox3, and TextBox4 in a column.
+3. Add three **TextBox** controls named TextBox2, TextBox3, and TextBox4 in a column.
     
 
 

@@ -20,11 +20,11 @@ Moves the selected objects so that there is equal space between them using the o
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_heql_ZA01201706.gif).
  **Increase**
-Increases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units in the  **General** tab of the **Options** dialog box.
+Increases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units in the **General** tab of the **Options** dialog box.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_hinc_ZA01201707.gif).
  **Decrease**
-Decreases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units in the  **General** tab of the **Options** dialog box.
+Decreases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units in the **General** tab of the **Options** dialog box.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_hdec_ZA01201705.gif).
  **Remove**
@@ -35,6 +35,6 @@ Toolbar shortcut:
  **Note**  The object with focus does not move but the other objects move around it.
 
 
- **Note**  If using the  **Horizontal** **Spacing** command does not produce the results you want, try to manually rearrange some of the objects and repeat the command. Also, try the using the **Vertical** **Spacing** command.
+ **Note**  If using the **Horizontal** **Spacing** command does not produce the results you want, try to manually rearrange some of the objects and repeat the command. Also, try the using the **Vertical** **Spacing** command.
 
 

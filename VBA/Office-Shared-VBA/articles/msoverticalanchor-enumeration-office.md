@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoVerticalAnchor Enumeration (Office)
 
-Specifies the vertical alignment of text in a text frame. Used with the  **VerticalAnchor** property of the **TextFrame** object.
+Specifies the vertical alignment of text in a text frame. Used with the **VerticalAnchor** property of the **TextFrame** object.
 
 
 

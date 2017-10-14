@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.SelectedStartTime Property (Outlook)
 
-Returns a  **Date** that represents the start time of a selection in the **[CalendarView](calendarview-object-outlook.md)** object. Read-only.
+Returns a **Date** that represents the start time of a selection in the **[CalendarView](calendarview-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,18 +25,18 @@ Returns a  **Date** that represents the start time of a selection in the **[Cale
 
 ## Remarks
 
-The intent of the  **SelectedStartTime** and **[SelectedEndTime](calendarview-selectedendtime-property-outlook.md)** properties is to replicate, programmatically, the way that users create an appointment in the Microsoft Outlook user interface. Typically, a user selects a time range in the calendar view and then creates a new appointment by either double clicking the selection or clicking **New Appointment** in the **Home** tab of the ribbon. With these two properties of the **CalendarView** object, you can obtain the start time and the end time of any selection in that view programmatically. You can then programmatically create the **[AppointmentItem](appointmentitem-object-outlook.md)** object, setting the **[Start](appointmentitem-start-property-outlook.md)** and **[End](appointmentitem-end-property-outlook.md)** properties of the **AppointmentItem** object to the **SelectedStartTime** and **SelectedEndTime** properties respectively to reflect any user selection in the calendar view.
+The intent of the **SelectedStartTime** and **[SelectedEndTime](calendarview-selectedendtime-property-outlook.md)** properties is to replicate, programmatically, the way that users create an appointment in the Microsoft Outlook user interface. Typically, a user selects a time range in the calendar view and then creates a new appointment by either double clicking the selection or clicking **New Appointment** in the **Home** tab of the ribbon. With these two properties of the **CalendarView** object, you can obtain the start time and the end time of any selection in that view programmatically. You can then programmatically create the **[AppointmentItem](appointmentitem-object-outlook.md)** object, setting the **[Start](appointmentitem-start-property-outlook.md)** and **[End](appointmentitem-end-property-outlook.md)** properties of the **AppointmentItem** object to the **SelectedStartTime** and **SelectedEndTime** properties respectively to reflect any user selection in the calendar view.
 
-If the selection in the calendar view is a time range and is not an item,  **SelectedStartTime** returns a **Date** value equal to the start time of the selection.
+If the selection in the calendar view is a time range and is not an item, **SelectedStartTime** returns a **Date** value equal to the start time of the selection.
 
-If one or more items are selected in the calendar view,  **SelectedStartTime** returns a **Date** value equal to the start time of the first item in the selection of the explorer that displays the calendar view. That selection is specified by the **[Selection](explorer-selection-property-outlook.md)** property of the **[Explorer](explorer-object-outlook.md)** object.
+If one or more items are selected in the calendar view, **SelectedStartTime** returns a **Date** value equal to the start time of the first item in the selection of the explorer that displays the calendar view. That selection is specified by the **[Selection](explorer-selection-property-outlook.md)** property of the **[Explorer](explorer-object-outlook.md)** object.
 
-To use this property on a  **CalendarView** object, obtain the **CalendarView** object from the **[CurrentView](explorer-currentview-property-outlook.md)** property of the active **[Explorer](explorer-object-outlook.md)** object (which can be returned by the **[Application.ActiveExplorer](application-activeexplorer-method-outlook.md)** method). There is a known issue with using this property on an **CalendarView** object obtained otherwise - using the **[CurrentView](folder-currentview-property-outlook.md)** property of the current **[Folder](folder-object-outlook.md)** object (returned by the **[Application.ActiveExplorer.CurrentFolder](explorer-currentfolder-property-outlook.md)** property).
+To use this property on a **CalendarView** object, obtain the **CalendarView** object from the **[CurrentView](explorer-currentview-property-outlook.md)** property of the active **[Explorer](explorer-object-outlook.md)** object (which can be returned by the **[Application.ActiveExplorer](application-activeexplorer-method-outlook.md)** method). There is a known issue with using this property on an **CalendarView** object obtained otherwise - using the **[CurrentView](folder-currentview-property-outlook.md)** property of the current **[Folder](folder-object-outlook.md)** object (returned by the **[Application.ActiveExplorer.CurrentFolder](explorer-currentfolder-property-outlook.md)** property).
 
 
 ## Example
 
-The following code samples, in Visual Basic for Applications (VBA) and C#, show how to use the  **SelectedStartTime** and **SelectedEndTime** properties of the calendar view of the active explorer to initialize the start and end times of a new appointment. The following code sample is in VBA.
+The following code samples, in Visual Basic for Applications (VBA) and C#, show how to use the **SelectedStartTime** and **SelectedEndTime** properties of the calendar view of the active explorer to initialize the start and end times of a new appointment. The following code sample is in VBA.
 
 
 ```vb
@@ -76,7 +76,7 @@ Sub CreateAppointmentUsingSelectedTime()
 End Sub
 ```
 
-The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the  **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
+The following managed code is written in C#. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
 
 

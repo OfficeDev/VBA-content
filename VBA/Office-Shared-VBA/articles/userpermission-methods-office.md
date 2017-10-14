@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Remove](userpermission-remove-method-office.md)|Removes the specified  **UserPermission** object from the **[Permission](permission-object-office.md)** collection of the active document.|
+|[Remove](userpermission-remove-method-office.md)|Removes the specified **UserPermission** object from the **[Permission](permission-object-office.md)** collection of the active document.|
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Gridlines.Border Property (Excel)
 
-Returns a  **[Border](border-object-excel.md)** object that represents the border of the object.
+Returns a **[Border](border-object-excel.md)** object that represents the border of the object.
 
 
 ## Syntax

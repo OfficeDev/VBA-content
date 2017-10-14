@@ -25,7 +25,7 @@ Updates the dependency information for the database.
 
 ## Remarks
 
-The  **UpdateDependencyInfo** method opens, saves, and then closes every table, query, form, and report in the database; no messages are presented to the user.
+The **UpdateDependencyInfo** method opens, saves, and then closes every table, query, form, and report in the database; no messages are presented to the user.
 
 This method will return a run-time error if any of the following conditions are true:
 

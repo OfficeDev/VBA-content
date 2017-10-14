@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.TextEffect Property (Excel)
 
-Returns a  **[TextEffectFormat](texteffectformat-object-excel.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **[TextEffectFormat](texteffectformat-object-excel.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

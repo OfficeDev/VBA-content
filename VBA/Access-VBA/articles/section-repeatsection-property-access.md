@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.RepeatSection Property (Access)
 
-You can use the  **RepeatSection** property to specify whether a group header is repeated on the next page or column when a group spans more than one page or column. Read/write **Boolean**.
+You can use the **RepeatSection** property to specify whether a group header is repeated on the next page or column when a group spans more than one page or column. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **RepeatSection** property to specify whether a group header is
 
 ## Remarks
 
-The  **RepeatSection** property only applies to group headers on a report.
+The **RepeatSection** property only applies to group headers on a report.
 
-The  **RepeatSection** property uses the following settings.
+The **RepeatSection** property uses the following settings.
 
 
 
@@ -35,7 +35,7 @@ The  **RepeatSection** property uses the following settings.
 |:-----|:-----|:-----|
 |**Yes**|**True**|The group header is repeated.|
 |**No**|**False**|(Default) The group header isn't repeated.|
-When printing a report that contains a subreport, the subreport's  **RepeatSection** property will determine if the subreport group headers are repeated across pages or columns.
+When printing a report that contains a subreport, the subreport's **RepeatSection** property will determine if the subreport group headers are repeated across pages or columns.
 
 
 ## Example

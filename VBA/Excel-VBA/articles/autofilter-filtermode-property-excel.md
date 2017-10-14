@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFilter.FilterMode Property (Excel)
 
-Returns  **True** if the worksheet is in the AutoFilter filter mode. Read-only **Boolean** .
+Returns **True** if the worksheet is in the AutoFilter filter mode. Read-only **Boolean** .
 
 
 ## Syntax

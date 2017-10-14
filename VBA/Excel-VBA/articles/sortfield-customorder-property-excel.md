@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.CustomOrder Property (Excel)
 
-Specifies a custom order to sort the fields. Read/write  **Variant** .
+Specifies a custom order to sort the fields. Read/write **Variant** .
 
 
 ## Syntax

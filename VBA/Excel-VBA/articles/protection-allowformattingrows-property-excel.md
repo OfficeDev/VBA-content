@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowFormattingRows Property (Excel)
 
-Returns  **True** if the formatting of rows is allowed on a protected worksheet. Read-only **Boolean** .
+Returns **True** if the formatting of rows is allowed on a protected worksheet. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **True** if the formatting of rows is allowed on a protected worksheet.
 
 ## Remarks
 
-The  **AllowFormattingRows** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowFormattingRows** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
 
 ## Example

@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Align the Caption of an Option Button with the Control
 
-The following example demonstrates the  **[Alignment](optionbutton-alignment-property-outlook-forms-script.md)** property used with several **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls. In this example, the user can change the alignment by clicking a **[ToggleButton](togglebutton-object-outlook-forms-script.md)**.
+The following example demonstrates the **[Alignment](optionbutton-alignment-property-outlook-forms-script.md)** property used with several **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls. In this example, the user can change the alignment by clicking a **[ToggleButton](togglebutton-object-outlook-forms-script.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains the following controls:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains the following controls:
 
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

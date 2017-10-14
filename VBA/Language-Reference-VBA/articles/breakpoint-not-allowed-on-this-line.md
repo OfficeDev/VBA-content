@@ -27,7 +27,7 @@ ms.date: 06/08/2017
     
   - Any line in a hidden [module](vbe-glossary.md).
     
-  - Any line in the  **Immediate** window.
+  - Any line in the **Immediate** window.
     
 
     

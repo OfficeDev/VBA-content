@@ -15,5 +15,5 @@ ms.date: 06/08/2017
 |**Name**|**Description**|
 |:-----|:-----|
 |[Add](filetypes-add-method-office.md)|Adds a new file type to a file search.|
-|[Remove](filetypes-remove-method-office.md)|Removes a  **FileType** object from the collection.|
+|[Remove](filetypes-remove-method-office.md)|Removes a **FileType** object from the collection.|
 

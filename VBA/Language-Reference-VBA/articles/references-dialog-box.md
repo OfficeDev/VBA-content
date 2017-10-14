@@ -35,14 +35,14 @@ Lists the references available to your project.
     
 - References not in use are listed alphabetically.
     
-     **Note**  You can't remove the "Visual Basic For Applications" and "Visual Basic objects and procedures" references, because they are necessary for running Visual Basic.
+    **Note**  You can't remove the "Visual Basic For Applications" and "Visual Basic objects and procedures" references, because they are necessary for running Visual Basic.
 
 
  **Priority Buttons**
 
 Moves references up, 
 ![Move up](images/tbr_pri1_ZA01201723.gif), and down, 
-![Move down](images/tbr_pri2_ZA01201724.gif), on the list. When you refer to an object in code, Visual Basic searches each referenced library selected in the  **References** dialog box in the order the libraries are displayed. If two referenced libraries contain objects with the same name, Visual Basic uses the definition provided by the library listed higher in the Available References box.
+![Move down](images/tbr_pri2_ZA01201724.gif), on the list. When you refer to an object in code, Visual Basic searches each referenced library selected in the **References** dialog box in the order the libraries are displayed. If two referenced libraries contain objects with the same name, Visual Basic uses the definition provided by the library listed higher in the Available References box.
 
  **Result**
 
@@ -50,7 +50,7 @@ Displays the name and path of the reference selected in the Available References
 
  **Browse**
 
-Displays the  **Add** **Reference** dialog box so that you can search other directories for and add references to the Available Resources box for the following types:
+Displays the **Add** **Reference** dialog box so that you can search other directories for and add references to the Available Resources box for the following types:
 
 
 
@@ -61,7 +61,7 @@ Displays the  **Add** **Reference** dialog box so that you can search other dire
     
 - ActiveX Controls (*.ocx)
     
-- All Files (*.*) The  **Add** **References** dialog box is the **Open** common dialog box.
+- All Files (*.*) The **Add** **References** dialog box is the **Open** common dialog box.
     
 
 

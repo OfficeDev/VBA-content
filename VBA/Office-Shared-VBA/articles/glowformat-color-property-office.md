@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GlowFormat.Color Property (Office)
 
-Gets a  **ColorFormat** object that represents the color of text formatted as glow. Read-only.
+Gets a **ColorFormat** object that represents the color of text formatted as glow. Read-only.
 
 
 ## Syntax

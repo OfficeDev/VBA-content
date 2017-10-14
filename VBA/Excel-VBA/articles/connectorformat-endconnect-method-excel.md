@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.EndConnect Method (Excel)
 
-Attaches the end of the specified connector to a specified shape. If there?s already a connection between the end of the connector and another shape, that connection is broken. If the end of the connector isn?t already positioned at the specified connecting site, this method moves the end of the connector to the connecting site and adjusts the size and position of the connector. Use the  **[BeginConnect](connectorformat-beginconnect-method-excel.md)** method to attach the beginning of the connector to a shape.
+Attaches the end of the specified connector to a specified shape. If there?s already a connection between the end of the connector and another shape, that connection is broken. If the end of the connector isn?t already positioned at the specified connecting site, this method moves the end of the connector to the connecting site and adjusts the size and position of the connector. Use the **[BeginConnect](connectorformat-beginconnect-method-excel.md)** method to attach the beginning of the connector to a shape.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Attaches the end of the specified connector to a specified shape. If there?s alr
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ConnectedShape_|Required| **[Shape](shape-object-excel.md)**|The shape to attach the end of the connector to. The specified  **Shape** object must be in the same **[Shapes](shapes-object-excel.md)** collection as the connector.|
-| _ConnectionSite_|Required| **Long**|Must be an integer between 1 and the integer returned by the  **ConnectionSiteCount** property of the specified shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](shape-rerouteconnections-method-excel.md)** method after the connector is attached to shapes at both ends.|
+| _ConnectedShape_|Required| **[Shape](shape-object-excel.md)**|The shape to attach the end of the connector to. The specified **Shape** object must be in the same **[Shapes](shapes-object-excel.md)** collection as the connector.|
+| _ConnectionSite_|Required| **Long**|Must be an integer between 1 and the integer returned by the **ConnectionSiteCount** property of the specified shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](shape-rerouteconnections-method-excel.md)** method after the connector is attached to shapes at both ends.|
 
 ## Remarks
 

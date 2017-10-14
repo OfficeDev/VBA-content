@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.PrintOut Method (Access)
 
-The  **PrintOut** method carries out the PrintOut action in Visual Basic.
+The **PrintOut** method carries out the PrintOut action in Visual Basic.
 
 
 ## Syntax
@@ -29,12 +29,12 @@ The  **PrintOut** method carries out the PrintOut action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PrintRange_|Optional|**AcPrintRange**|A  **[AcPrintRange](acprintrange-enumeration-access.md)** constant that specifies the range to print. The default value is **acPrintAll**.|
-| _PageFrom_|Optional|**Variant**|The first page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify  **acPages** for the _printrange_ argument.|
-| _PageTo_|Optional|**Variant**|The last page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify  **acPages** for the _printrange_ argument.|
-| _PrintQuality_|Optional|**AcPrintQuality**|A  **[AcPrintQuality](acprintquality-enumeration-access.md)** constant that specifies the print quality. the default value is **acHigh**.|
+| _PrintRange_|Optional|**AcPrintRange**|A **[AcPrintRange](acprintrange-enumeration-access.md)** constant that specifies the range to print. The default value is **acPrintAll**.|
+| _PageFrom_|Optional|**Variant**|The first page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify **acPages** for the _printrange_ argument.|
+| _PageTo_|Optional|**Variant**|The last page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify **acPages** for the _printrange_ argument.|
+| _PrintQuality_|Optional|**AcPrintQuality**|A **[AcPrintQuality](acprintquality-enumeration-access.md)** constant that specifies the print quality. the default value is **acHigh**.|
 | _Copies_|Optional|**Variant**|The number of copies to print. If you leave this argument blank, the default (1) is assumed.|
-| _CollateCopies_|Optional|**Variant**|Use  **True** (?1) to collate copies and **False** (0) to print without collating. If you leave this argument blank, the default ( **True** ) is assumed.|
+| _CollateCopies_|Optional|**Variant**|Use **True** (?1) to collate copies and **False** (0) to print without collating. If you leave this argument blank, the default ( **True** ) is assumed.|
 
 ## Remarks
 

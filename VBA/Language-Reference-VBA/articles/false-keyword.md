@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # False <keyword>
 
-The  **False**[keyword](vbe-glossary.md) has a value equal to 0.
+The **False**[keyword](vbe-glossary.md) has a value equal to 0.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceFiles.Add Method (Office)
 
-Adds a file to the document library in a shared workspace. Returns a  **[SharedWorkspaceFile](sharedworkspacefile-object-office.md)** object.
+Adds a file to the document library in a shared workspace. Returns a **[SharedWorkspaceFile](sharedworkspacefile-object-office.md)** object.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.

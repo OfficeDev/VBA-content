@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GroupShapes.Range Property (Excel)
 
-Returns a  **[ShapeRange](shaperange-object-excel.md)** object that represents a subset of the shapes in a **[Shapes](shapes-object-excel.md)** collection.
+Returns a **[ShapeRange](shaperange-object-excel.md)** object that represents a subset of the shapes in a **[Shapes](shapes-object-excel.md)** collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **[ShapeRange](shaperange-object-excel.md)** object that represents a
 
 ## Remarks
 
-Although you can use the  **[Range](groupshapes-range-property-excel.md)** property to return any number of shapes, it is simpler to use the **[Item](groupshapes-item-method-excel.md)** method if you want to return only a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
+Although you can use the **[Range](groupshapes-range-property-excel.md)** property to return any number of shapes, it is simpler to use the **[Item](groupshapes-item-method-excel.md)** method if you want to return only a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
 
 ## Example
@@ -47,7 +47,7 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-To specify an array of integers or strings for  **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
 
 
@@ -60,7 +60,7 @@ Set objRange = ActiveSheet.Shapes.Range(arShapes)
  
 ```
 
-In Microsoft Excel, you cannot use this property to return a  **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code:
+In Microsoft Excel, you cannot use this property to return a **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code:
 
 
 

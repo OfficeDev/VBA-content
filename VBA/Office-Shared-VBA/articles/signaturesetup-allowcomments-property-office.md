@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSetup.AllowComments Property (Office)
 
-Gets or sets a  **Boolean** value specifying whether the signer can enter comments in the **Sign** dialog box. Read/write.
+Gets or sets a **Boolean** value specifying whether the signer can enter comments in the **Sign** dialog box. Read/write.
 
 
 ## Syntax

@@ -18,9 +18,9 @@ Represents a group of sparklines.
 
 ## Remarks
 
-The  **SparklineGroup** object can contain multiple sparklines and contains the property settings for the group, such as color and axis settings. Each sparkline is represented by a **[Sparkline](sparkline-object-excel.md)** object.
+The **SparklineGroup** object can contain multiple sparklines and contains the property settings for the group, such as color and axis settings. Each sparkline is represented by a **[Sparkline](sparkline-object-excel.md)** object.
 
-Use the  **[Modify](sparklinegroup-modify-method-excel.md)** method to add or remove sparklines from the sparkline group. Use the **[ModifyLocation](sparklinegroup-modifylocation-method-excel.md)** method to change the location of the sparkline and use the **[ModifySourceData](sparklinegroup-modifysourcedata-method-excel.md)** method to change the range of the source data.
+Use the **[Modify](sparklinegroup-modify-method-excel.md)** method to add or remove sparklines from the sparkline group. Use the **[ModifyLocation](sparklinegroup-modifylocation-method-excel.md)** method to change the location of the sparkline and use the **[ModifySourceData](sparklinegroup-modifysourcedata-method-excel.md)** method to change the range of the source data.
 
 
 ## Example

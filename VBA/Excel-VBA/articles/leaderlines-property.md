@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LeaderLines Property
 
-Returns a  **LeaderLines** object that represents the leader lines for the specified series. Read-only.
+Returns a **LeaderLines** object that represents the leader lines for the specified series. Read-only.
 
 
 ## Example

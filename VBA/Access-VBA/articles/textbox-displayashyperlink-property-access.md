@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextBox.DisplayAsHyperlink Property (Access)
 
-Gets or sets an  **[AcDisplayAsHyperlink](acdisplayashyperlink-enumeration-access.md)** constant that specifies whether to display the contents of the specified text box as a hyperlink. Read/write.
+Gets or sets an **[AcDisplayAsHyperlink](acdisplayashyperlink-enumeration-access.md)** constant that specifies whether to display the contents of the specified text box as a hyperlink. Read/write.
 
 
 ## Syntax

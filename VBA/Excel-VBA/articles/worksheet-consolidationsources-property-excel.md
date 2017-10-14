@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.ConsolidationSources Property (Excel)
 
-Returns an array of string values that name the source sheets for the worksheet's current consolidation. Returns  **Empty** if there's no consolidation on the sheet. Read-only **Variant** .
+Returns an array of string values that name the source sheets for the worksheet's current consolidation. Returns **Empty** if there's no consolidation on the sheet. Read-only **Variant** .
 
 
 ## Syntax

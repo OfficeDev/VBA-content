@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList Object (Outlook)
 
-The  **ExchangeDistributionList** object provides detailed information about an **[AddressEntry](addressentry-object-outlook.md)** that represents an Exchange distribution list.
+The **ExchangeDistributionList** object provides detailed information about an **[AddressEntry](addressentry-object-outlook.md)** that represents an Exchange distribution list.
 
 
 ## Remarks
 
  **ExchangeDistributionList** is a derived class of **AddressEntry**, and is returned instead of an **AddressEntry** when the caller performs a **QueryInterface** on the **AddressEntry**.
 
-The  **AddressEntry.Members** property supports enumerating members of a distribution list. **ExchangeDistributionList** adds the first-class properties for **[Alias](exchangedistributionlist-alias-property-outlook.md)**, **[Comments](exchangedistributionlist-comments-property-outlook.md)**, and **[PrimarySmtpAddress](exchangedistributionlist-primarysmtpaddress-property-outlook.md)**. You can also access other properties specific to the Exchange distribution list that are not exposed in the object model through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object.
+The **AddressEntry.Members** property supports enumerating members of a distribution list. **ExchangeDistributionList** adds the first-class properties for **[Alias](exchangedistributionlist-alias-property-outlook.md)**, **[Comments](exchangedistributionlist-comments-property-outlook.md)**, and **[PrimarySmtpAddress](exchangedistributionlist-primarysmtpaddress-property-outlook.md)**. You can also access other properties specific to the Exchange distribution list that are not exposed in the object model through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object.
 
-Some properties such as  **Comments** are read-write properties. Setting these properties requires the code to be running under an appropriate Exchange administrator account; without sufficient permissions, calling the **[ExchangeUser.Update](exchangeuser-update-method-outlook.md)** method will result in a "permission denied" error.
+Some properties such as **Comments** are read-write properties. Setting these properties requires the code to be running under an appropriate Exchange administrator account; without sufficient permissions, calling the **[ExchangeUser.Update](exchangeuser-update-method-outlook.md)** method will result in a "permission denied" error.
 
 
 ## Example
 
-The following code sample shows how to obtain the names of the Exchange distribution lists that the current user's manager belongs to. It uses the  **[ExchangeUser.GetExchangeUserManager](exchangeuser-getexchangeusermanager-method-outlook.md)** method to obtain information about the user's manager, and uses **[ExchangeUser.GetMemberOfList](exchangeuser-getmemberoflist-method-outlook.md)** to obtain the distribution lists (represented by **ExchangeDistributionList** objects) that the manager has joined.
+The following code sample shows how to obtain the names of the Exchange distribution lists that the current user's manager belongs to. It uses the **[ExchangeUser.GetExchangeUserManager](exchangeuser-getexchangeusermanager-method-outlook.md)** method to obtain information about the user's manager, and uses **[ExchangeUser.GetMemberOfList](exchangeuser-getmemberoflist-method-outlook.md)** to obtain the distribution lists (represented by **ExchangeDistributionList** objects) that the manager has joined.
 
 
 ```

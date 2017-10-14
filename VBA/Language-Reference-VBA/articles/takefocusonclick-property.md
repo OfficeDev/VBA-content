@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies whether a control takes the [focus](vbe-glossary.md) when clicked.
  **Syntax**
  _object_. **TakeFocusOnClick** [= _Boolean_ ]
-The  **TakeFocusOnClick** property syntax has these parts:
+The **TakeFocusOnClick** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -34,6 +34,6 @@ The settings for  _Boolean_ are:
 |**True**|The button takes the focus when clicked (default).|
 |**False**|The button does not take the focus when clicked.|
  **Remarks**
-The  **TakeFocusOnClick** property defines only what happens when the user clicks a control. If the user tabs to the control, the control takes the focus regardless of the value of **TakeFocusOnClick**.
-Use this property to complete actions that affect a control without requiring that control to give up focus. For example, assume your form includes a  **TextBox** and a **CommandButton** that checks for correct spelling of text. You would like to be able to select text in the **TextBox**, then click the **CommandButton** and run the spelling checker without taking focus away from the **TextBox**. You can do this by setting the **TakeFocusOnClick** property of the **CommandButton** to **False**.
+The **TakeFocusOnClick** property defines only what happens when the user clicks a control. If the user tabs to the control, the control takes the focus regardless of the value of **TakeFocusOnClick**.
+Use this property to complete actions that affect a control without requiring that control to give up focus. For example, assume your form includes a **TextBox** and a **CommandButton** that checks for correct spelling of text. You would like to be able to select text in the **TextBox**, then click the **CommandButton** and run the spelling checker without taking focus away from the **TextBox**. You can do this by setting the **TakeFocusOnClick** property of the **CommandButton** to **False**.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObject.FullName Property (Access)
 
-Sets or returns the full path (including file name) of a specific object. Read/write  **String**.
+Sets or returns the full path (including file name) of a specific object. Read/write **String**.
 
 
 ## Syntax

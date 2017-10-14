@@ -25,7 +25,7 @@ Opens a recent workbook.
 
 ### Return Value
 
-A  **[Workbook](workbook-object-excel.md)** object that represents the opened workbook.
+A **[Workbook](workbook-object-excel.md)** object that represents the opened workbook.
 
 
 ## Example

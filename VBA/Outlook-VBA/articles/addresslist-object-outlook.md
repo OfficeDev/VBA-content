@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # AddressList Object (Outlook)
 
-Represents an address book that contains a set of  **[AddressEntry](addressentry-object-outlook.md)** objects.
+Represents an address book that contains a set of **[AddressEntry](addressentry-object-outlook.md)** objects.
 
 
 ## Remarks
 
-The  **AddressList** object is an address book that contains a set of **[AddressEntry](addressentry-object-outlook.md)** objects.
+The **AddressList** object is an address book that contains a set of **[AddressEntry](addressentry-object-outlook.md)** objects.
 
-The  **AddressList** object supplies a list of address entries to which a messaging system can deliver messages. An **AddressList** object represents one address book container available under the transport provider's address book hierarchy for the current session. The entire hierarchy is available through the parent **[AddressLists](http://msdn.microsoft.com/library/b8c5ce75-3030-0179-45bb-f44fe6628074%28Office.15%29.aspx)** object.
+The **AddressList** object supplies a list of address entries to which a messaging system can deliver messages. An **AddressList** object represents one address book container available under the transport provider's address book hierarchy for the current session. The entire hierarchy is available through the parent **[AddressLists](http://msdn.microsoft.com/library/b8c5ce75-3030-0179-45bb-f44fe6628074%28Office.15%29.aspx)** object.
 
 
 ## Example
 
-The following example retrieves an  **AddressList** object that represents the Personal Address List.
+The following example retrieves an **AddressList** object that represents the Personal Address List.
 
 
 ```

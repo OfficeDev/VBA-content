@@ -18,37 +18,37 @@ Represents the various types of protection options available for a worksheet.
 
 ## Remarks
 
-Use the  **[Protection](worksheet-protection-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object to return a **Protection** object.
+Use the **[Protection](worksheet-protection-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object to return a **Protection** object.
 
-Once a  **Protection** object is returned, you can use its following properties, to set or return protection options.
+Once a **Protection** object is returned, you can use its following properties, to set or return protection options.
 
 
--  **[AllowDeletingColumns](protection-allowdeletingcolumns-property-excel.md)**
+- **[AllowDeletingColumns](protection-allowdeletingcolumns-property-excel.md)**
     
--  **[AllowDeletingRows](protection-allowdeletingrows-property-excel.md)**
+- **[AllowDeletingRows](protection-allowdeletingrows-property-excel.md)**
     
--  **[AllowFiltering](protection-allowfiltering-property-excel.md)**
+- **[AllowFiltering](protection-allowfiltering-property-excel.md)**
     
--  **[AllowFormattingCells](protection-allowformattingcells-property-excel.md)**
+- **[AllowFormattingCells](protection-allowformattingcells-property-excel.md)**
     
--  **[AllowFormattingColumns](protection-allowformattingcolumns-property-excel.md)**
+- **[AllowFormattingColumns](protection-allowformattingcolumns-property-excel.md)**
     
--  **[AllowFormattingRows](protection-allowformattingrows-property-excel.md)**
+- **[AllowFormattingRows](protection-allowformattingrows-property-excel.md)**
     
--  **[AllowInsertingColumns](protection-allowinsertingcolumns-property-excel.md)**
+- **[AllowInsertingColumns](protection-allowinsertingcolumns-property-excel.md)**
     
--  **[AllowInsertingHyperlinks](protection-allowinsertinghyperlinks-property-excel.md)**
+- **[AllowInsertingHyperlinks](protection-allowinsertinghyperlinks-property-excel.md)**
     
--  **[AllowInsertingRows](protection-allowinsertingrows-property-excel.md)**
+- **[AllowInsertingRows](protection-allowinsertingrows-property-excel.md)**
     
--  **[AllowSorting](protection-allowsorting-property-excel.md)**
+- **[AllowSorting](protection-allowsorting-property-excel.md)**
     
--  **[AllowUsingPivotTables](protection-allowusingpivottables-property-excel.md)**
+- **[AllowUsingPivotTables](protection-allowusingpivottables-property-excel.md)**
     
 
 ## Example
 
-The following example demonstrates how to use the  **[AllowInsertingColumns](protection-allowinsertingcolumns-property-excel.md)** property of the **Protection** object, placing three numbers in the top row and protecting the worksheet. Then this example checks to see if the protection setting for allowing the insertion of columns is **False** and sets it to **True**, if necessary. Finally, it notifies the user to insert a column.
+The following example demonstrates how to use the **[AllowInsertingColumns](protection-allowinsertingcolumns-property-excel.md)** property of the **Protection** object, placing three numbers in the top row and protecting the worksheet. Then this example checks to see if the protection setting for allowing the insertion of columns is **False** and sets it to **True**, if necessary. Finally, it notifies the user to insert a column.
 
 
 ```

@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ## Example
 
-This example displays the  **Open** dialog box and selects the **Read-Only** option.
+This example displays the **Open** dialog box and selects the **Read-Only** option.
 
 
 ```vb

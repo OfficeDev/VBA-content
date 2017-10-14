@@ -29,33 +29,33 @@ Occurs when a filter is applied to a form.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **ApplyFilter** event occurs. Setting the _Cancel_ argument to **True** cancels the **ApplyFilter** event and the filter is not applied to the form.|
+| _Cancel_|Required|**Integer**|The setting determines if the **ApplyFilter** event occurs. Setting the _Cancel_ argument to **True** cancels the **ApplyFilter** event and the filter is not applied to the form.|
 | _ApplyType_|Required|**Integer**|Returns the type of filter that was applied.|
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the  **[OnApplyFilter](form-onapplyfilter-property-access.md)** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **[OnApplyFilter](form-onapplyfilter-property-access.md)** property to the name of the macro or to [Event Procedure].
 
-You can use the  **ApplyFilter** event to:
+You can use the **ApplyFilter** event to:
 
 
-- Make sure the filter that is being applied is correct. For example, you may want to be sure that any filter applied to an Orders form includes criteria restricting the OrderDate field. To do this, check the form's  **[Filter](form-filter-property-access.md)** or **[ServerFilter](form-serverfilter-property-access.md)** property value to make sure this criteria is included in the WHERE clause expression.
+- Make sure the filter that is being applied is correct. For example, you may want to be sure that any filter applied to an Orders form includes criteria restricting the OrderDate field. To do this, check the form's **[Filter](form-filter-property-access.md)** or **[ServerFilter](form-serverfilter-property-access.md)** property value to make sure this criteria is included in the WHERE clause expression.
     
 - Change the display of the form before the filter is applied. For example, when you apply a certain filter, you may want to disable or hide some fields that aren't appropriate for the records displayed by this filter.
     
 - Undo or change actions you took when the Filter event occurred. For example, you can disable or hide some controls on the form when the user is creating the filter, because you don't want these controls to be included in the filter criteria. You can then enable or show these controls after the filter is applied. 
     
-The actions in the  **ApplyFilter** macro or event procedure occur before the filter is applied or removed; or after the Advanced Filter/Sort, Filter By Form, or Server Filter By Form window is closed, but before the form is redisplayed. The criteria you've entered in the newly created filter are available to the **ApplyFilter** macro or event procedure as the setting of the **Filter** or **ServerFilter** property.
+The actions in the **ApplyFilter** macro or event procedure occur before the filter is applied or removed; or after the Advanced Filter/Sort, Filter By Form, or Server Filter By Form window is closed, but before the form is redisplayed. The criteria you've entered in the newly created filter are available to the **ApplyFilter** macro or event procedure as the setting of the **Filter** or **ServerFilter** property.
 
 
- **Note**  The  **ApplyFilter** event doesn't occur when the user does one of the following:
+ **Note**  The **ApplyFilter** event doesn't occur when the user does one of the following:
 
 
-- Applies or removes a filter by using the  **ApplyFilter**, **OpenReport**, or **ShowAllRecords** actions in a macro, or their corresponding methods of the **DoCmd** object in Visual Basic.
+- Applies or removes a filter by using the **ApplyFilter**, **OpenReport**, or **ShowAllRecords** actions in a macro, or their corresponding methods of the **DoCmd** object in Visual Basic.
     
-- Uses the  **Close** action or the **Close** method of the **DoCmd** object to close the Advanced Filter/Sort, Filter By Form, or Server Filter By Form window
+- Uses the **Close** action or the **Close** method of the **DoCmd** object to close the Advanced Filter/Sort, Filter By Form, or Server Filter By Form window
     
-- Sets the  **Filter** or **ServerFilter** property or **FilterOn** or **ServerFilterByForm** property in a macro or Visual Basic (although you can set these properties in an **ApplyFilter** macro or event procedure).
+- Sets the **Filter** or **ServerFilter** property or **FilterOn** or **ServerFilterByForm** property in a macro or Visual Basic (although you can set these properties in an **ApplyFilter** macro or event procedure).
     
 
 ## Example

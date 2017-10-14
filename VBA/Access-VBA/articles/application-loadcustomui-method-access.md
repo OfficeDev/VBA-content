@@ -34,16 +34,16 @@ Loads XML markup that represents a customized ribbon.
 
 ## Remarks
 
-To create and make the ribbon available to Access, you first create a module in the database with a procedure that calls the  **LoadCustomUI** method, passing in the name of the ribbon and the XML customization markup. The XML markup can come from a **Recordset** object created from a table, from a source external to the database (such as an XML file that you must parse into a **String** ), or from XML markup embedded directly inside of the procedure.
+To create and make the ribbon available to Access, you first create a module in the database with a procedure that calls the **LoadCustomUI** method, passing in the name of the ribbon and the XML customization markup. The XML markup can come from a **Recordset** object created from a table, from a source external to the database (such as an XML file that you must parse into a **String** ), or from XML markup embedded directly inside of the procedure.
 
-You can make different ribbons available by using multiple calls to the  **LoadCustomUI** method, passing in different XML markup, as long as the name of each ribbon and the id attribute of the tabs that make up the ribbon are unique.
+You can make different ribbons available by using multiple calls to the **LoadCustomUI** method, passing in different XML markup, as long as the name of each ribbon and the id attribute of the tabs that make up the ribbon are unique.
 
  After the procedure is complete, you then create an AutoExec macro that calls the procedure by using the RunCode action. That way, when the application is started, the **LoadCustomUI** method is automatically executed and all of the custom ribbons are made available to the application
 
 
 ## Example
 
-The following code example creates a  **Recordset** from any table that contains the word "Ribbons" in its name. Then it calls the **LoadCustomUI** method to load the ribbons in order to make them available to the database. Finally, it closes the recordset and the reference to the **Database** object.
+The following code example creates a **Recordset** from any table that contains the word "Ribbons" in its name. Then it calls the **LoadCustomUI** method to load the ribbons in order to make them available to the database. Finally, it closes the recordset and the reference to the **Database** object.
 
 
 ```vb

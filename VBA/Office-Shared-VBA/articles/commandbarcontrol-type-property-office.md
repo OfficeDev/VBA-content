@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Type Property (Office)
 
-Gets the type of  **CommandBarControl**. Read-only.
+Gets the type of **CommandBarControl**. Read-only.
 
 
 ## 
@@ -28,7 +28,7 @@ Gets the type of  **CommandBarControl**. Read-only.
 
 ## Remarks
 
-The value of the  **Type** property is available as a value in the **[MsoControlType](msocontroltype-enumeration-office.md)** enumeration.
+The value of the **Type** property is available as a value in the **[MsoControlType](msocontroltype-enumeration-office.md)** enumeration.
 
 
 ## See also

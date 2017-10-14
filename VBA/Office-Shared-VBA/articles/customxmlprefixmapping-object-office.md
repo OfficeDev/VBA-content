@@ -15,7 +15,7 @@ Represents a namespace prefix.
 
 ## Example
 
-The following example creates a  **CustomXMLPrefixMapping** object by adding a namespace and prefix to the **CustomXMLPrefixMapping** collection.
+The following example creates a **CustomXMLPrefixMapping** object by adding a namespace and prefix to the **CustomXMLPrefixMapping** collection.
 
 
 ```

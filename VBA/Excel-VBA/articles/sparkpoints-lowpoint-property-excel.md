@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkPoints.Lowpoint Property (Excel)
 
-Returns a  **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the lowest point of data on a sparkline. Read-only
+Returns a **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the lowest point of data on a sparkline. Read-only
 
 
 ## Syntax

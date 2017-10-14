@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Category.CategoryID Property (Outlook)
 
-Returns a  **String** value that represents the unique identifier for the **[Category](category-object-outlook.md)** object. Read-only.
+Returns a **String** value that represents the unique identifier for the **[Category](category-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents the unique identifier for the **[Cat
 
 ## Remarks
 
-Because the  **[Name](category-name-property-outlook.md)** property of a **Category** object can be changed either programmatically or by user action, each **Category** object is uniquely identified by a globally unique identifier (GUID), assigned to the object, that can be retrieved using this property. The GUID is presented as a string using the following format:
+Because the **[Name](category-name-property-outlook.md)** property of a **Category** object can be changed either programmatically or by user action, each **Category** object is uniquely identified by a globally unique identifier (GUID), assigned to the object, that can be retrieved using this property. The GUID is presented as a string using the following format:
 
 
 ```
@@ -35,7 +35,7 @@ Because the  **[Name](category-name-property-outlook.md)** property of a **Categ
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
 
 
 ```vb

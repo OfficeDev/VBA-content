@@ -22,7 +22,7 @@ Deletes the text from a text frame and all the associated text properties.
 
 ## Remarks
 
-The associated text properties include  **Font** attributes such as bold, underline, and so on.
+The associated text properties include **Font** attributes such as bold, underline, and so on.
 
 
 ## Example

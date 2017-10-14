@@ -25,15 +25,15 @@ ms.date: 06/08/2017
 [Orders table](#sectionSection4)
 
 
-You can use the  **UniqueRecords** property to specify whether to return only unique records based on all fields in the underlying data source, not just those fields present in the query itself.
+You can use the **UniqueRecords** property to specify whether to return only unique records based on all fields in the underlying data source, not just those fields present in the query itself.
 
- **Note**  The  **UniqueRecords** property applies only to append and make-table action queries and select queries.
+ **Note**  The **UniqueRecords** property applies only to append and make-table action queries and select queries.
 
 
 ## Setting
 <a name="sectionSection0"> </a>
 
-The  **UniqueRecords** property uses the following settings.
+The **UniqueRecords** property uses the following settings.
 
 
 
@@ -41,20 +41,20 @@ The  **UniqueRecords** property uses the following settings.
 |:-----|:-----|
 |Yes|Doesn't return duplicate records.|
 |No|(Default) Returns duplicate records.|
-You can set the  **UniqueRecords** property in the query's property sheet or in SQL view of the Query window.
+You can set the **UniqueRecords** property in the query's property sheet or in SQL view of the Query window.
 
 
- **Note**  You set this property when you create a new query by using an SQL statement. The DISTINCTROW predicate corresponds to the  **UniqueRecords** property setting. The DISTINCT predicate corresponds to the **UniqueValues** property setting.
+ **Note**  You set this property when you create a new query by using an SQL statement. The DISTINCTROW predicate corresponds to the **UniqueRecords** property setting. The DISTINCT predicate corresponds to the **UniqueValues** property setting.
 
 
 ## Remarks
 <a name="sectionSection1"> </a>
 
-You can use the  **UniqueRecords** property when you want to omit data based on entire duplicate records, not just duplicate fields. Microsoft Access considers a record to be unique as long as the value in one field in the record differs from the value in the same field in another record.
+You can use the **UniqueRecords** property when you want to omit data based on entire duplicate records, not just duplicate fields. Microsoft Access considers a record to be unique as long as the value in one field in the record differs from the value in the same field in another record.
 
-The  **UniqueRecords** property has an effect only when you use more than one table in the query and select fields from the tables used in the query. The **UniqueRecords** property is ignored if the query includes only one table.
+The **UniqueRecords** property has an effect only when you use more than one table in the query and select fields from the tables used in the query. The **UniqueRecords** property is ignored if the query includes only one table.
 
-The  **UniqueRecords** and **UniqueValues** properties are related in that only one of them can be set to Yes at a time. When you set **UniqueRecords** to Yes, for example, Microsoft Access automatically sets **UniqueValues** to No. You can, however, set both of them to No. When both properties are set to No, all records are returned.
+The **UniqueRecords** and **UniqueValues** properties are related in that only one of them can be set to Yes at a time. When you set **UniqueRecords** to Yes, for example, Microsoft Access automatically sets **UniqueValues** to No. You can, however, set both of them to No. When both properties are set to No, all records are returned.
 
 
 ## Example

@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Style Property Example
 
-The following example uses the  **Style** property to change the effect of typing in the text area of a **ComboBox**. The user chooses a style by selecting an **OptionButton** control and then types into the **ComboBox** to select an item. When **Style** is _fmStyleDropDownList_, the user must choose an item from the drop-down list. When **Style** is _fmStyleDropDownCombo_, the user can type into the text area to specify an item in the drop-down list.
+The following example uses the **Style** property to change the effect of typing in the text area of a **ComboBox**. The user chooses a style by selecting an **OptionButton** control and then types into the **ComboBox** to select an item. When **Style** is _fmStyleDropDownList_, the user must choose an item from the drop-down list. When **Style** is _fmStyleDropDownCombo_, the user can type into the text area to specify an item in the drop-down list.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
 
 

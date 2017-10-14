@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.DropButtonClick Event (Outlook)
 
-Occurs when the user clicks the drop button to expand the drop-down list in the combo box control, or when the  **[DropDown](olkcombobox-dropdown-method-outlook.md)** method is called programmatically.
+Occurs when the user clicks the drop button to expand the drop-down list in the combo box control, or when the **[DropDown](olkcombobox-dropdown-method-outlook.md)** method is called programmatically.
 
 
 ## Syntax

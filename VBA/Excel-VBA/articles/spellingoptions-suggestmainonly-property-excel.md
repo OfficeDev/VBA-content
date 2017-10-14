@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.SuggestMainOnly Property (Excel)
 
-When set to  **True** , instructs Microsoft Excel to suggest words from only the main dictionary, for using the spelling checker. **False** removes the limits of suggesting words from only the main dictionary, for using the spelling checker. Read/write **Boolean** .
+When set to **True** , instructs Microsoft Excel to suggest words from only the main dictionary, for using the spelling checker. **False** removes the limits of suggesting words from only the main dictionary, for using the spelling checker. Read/write **Boolean** .
 
 
 ## Syntax

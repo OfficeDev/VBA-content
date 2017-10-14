@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.UserName Property (Outlook)
 
-Returns a  **String** representing the user name for the **[Account](account-object-outlook.md)** . Read-only.
+Returns a **String** representing the user name for the **[Account](account-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** representing the user name for the **[Account](account-obj
 
 ## Remarks
 
-The purpose of  **[Account.SmtpAddress](account-smtpaddress-property-outlook.md)** and **UserName** is to provide an account-based context to determine identity.
+The purpose of **[Account.SmtpAddress](account-smtpaddress-property-outlook.md)** and **UserName** is to provide an account-based context to determine identity.
 
-If the account does not have a user name defined,  **UserName** returns an empty string.
+If the account does not have a user name defined, **UserName** returns an empty string.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.OnAction Property (Office)
 
-Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a  **CommandBarControl**. Read/write.
+Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a **CommandBarControl**. Read/write.
 
 
 ## 
@@ -38,7 +38,7 @@ The container application determines whether the value is a valid macro name.
 
 ## Example
 
-This example adds a command bar control to the command bar named "Custom". The procedure named  **MySub** will run each time the control is clicked.
+This example adds a command bar control to the command bar named "Custom". The procedure named **MySub** will run each time the control is clicked.
 
 
 ```

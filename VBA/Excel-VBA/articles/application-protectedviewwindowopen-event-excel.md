@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProtectedViewWindowOpen Event (Excel)
 
-Occurs when a workbook is opened in a  **Protected View** window.
+Occurs when a workbook is opened in a **Protected View** window.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Occurs when a workbook is opened in a  **Protected View** window.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Pvw_|Required| **[ProtectedViewWindow](protectedviewwindow-object-excel.md)**|An object that represents the  **Protected View** window that is opened.|
+| _Pvw_|Required| **[ProtectedViewWindow](protectedviewwindow-object-excel.md)**|An object that represents the **Protected View** window that is opened.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ Nothing
 
 ## Example
 
-The following code example informs the user that the workbook will be opened in a  **Protected View** window. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/0063feba-47fd-29be-d2d5-8fcf47e70cbc%28Office.15%29.aspx).
+The following code example informs the user that the workbook will be opened in a **Protected View** window. This code must be placed in a class module and an instance of that class must be correctly initialized. For more information about how to use event procedures with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/0063feba-47fd-29be-d2d5-8fcf47e70cbc%28Office.15%29.aspx).
 
 
 ```vb

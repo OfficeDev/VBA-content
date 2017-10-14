@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](odsocolumns-item-method-office.md)|Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.|
+|[Item](odsocolumns-item-method-office.md)|Specifies an **ODSOColumn** object in the **ODSOColumns** collection.|
 

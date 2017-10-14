@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.ReceivedByEntryID Property (Outlook)
 
-Returns a  **String** representing the **[EntryID](recipient-entryid-property-outlook.md)** for the true recipient as set by the transport provider delivering the mail message. Read-only.
+Returns a **String** representing the **[EntryID](recipient-entryid-property-outlook.md)** for the true recipient as set by the transport provider delivering the mail message. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** representing the **[EntryID](recipient-entryid-property-ou
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReceivedByEntryId** .
+This property corresponds to the MAPI property **PidTagReceivedByEntryId** .
 
-If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **ReceivedByEntryID** , you should get the property through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object returned by the **[MailItem.PropertyAccessor](mailitem-propertyaccessor-property-outlook.md)** property, specifying the **PidTagReceivedByEntryId** property and its MAPI proptag namespace. The following code sample in VBA shows the workaround.
+If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing **ReceivedByEntryID** , you should get the property through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object returned by the **[MailItem.PropertyAccessor](mailitem-propertyaccessor-property-outlook.md)** property, specifying the **PidTagReceivedByEntryId** property and its MAPI proptag namespace. The following code sample in VBA shows the workaround.
 
 
 

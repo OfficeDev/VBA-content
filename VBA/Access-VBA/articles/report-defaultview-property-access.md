@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.DefaultView Property (Access)
 
-You can use the  **DefaultView** property to specify the opening view of a report. Read/write **Byte**.
+You can use the **DefaultView** property to specify the opening view of a report. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **DefaultView** property to specify the opening view of a repor
 
 ## Remarks
 
-The  **DefaultView** property uses the following settings.
+The **DefaultView** property uses the following settings.
 
 
 

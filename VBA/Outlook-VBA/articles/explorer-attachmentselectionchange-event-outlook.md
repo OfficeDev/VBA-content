@@ -25,7 +25,7 @@ Occurs when the user selects a different or additional attachment in the active 
 
 ## Remarks
 
-The  **AttachmentSelectionChange** event fires when a different or additional attachment of any item is selected in the active explorer.
+The **AttachmentSelectionChange** event fires when a different or additional attachment of any item is selected in the active explorer.
 
 
 ## See also

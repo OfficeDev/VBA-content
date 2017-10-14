@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialogFilter.Description Property (Office)
 
-Gets the description of each  **Filter** object as a **String** value. The description is the text that is displayed in a file dialog box. Read-only.
+Gets the description of each **Filter** object as a **String** value. The description is the text that is displayed in a file dialog box. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the description of each  **Filter** object as a **String** value. The descr
 
 ## Example
 
-The following example iterates through the default filters of the  **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file. The Extensions property is used to find the appropriate filter objects.
+The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file. The Extensions property is used to find the appropriate filter objects.
 
 
 ```

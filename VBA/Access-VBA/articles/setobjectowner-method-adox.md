@@ -14,26 +14,26 @@ ms.date: 06/08/2017
 
 
 
-Specifies the owner of an object in a  **Catalog**.
+Specifies the owner of an object in a **Catalog**.
 
 ## Parameters
 
 
 -  _ObjectName_
     
-- A  **String** value that specifies the name of the object for which to specify the owner.
+- A **String** value that specifies the name of the object for which to specify the owner.
     
 -  _ObjectType_
     
-- A  **Long** value which can be one of the **ObjectTypeEnum** constants that specifies the owner type.
+- A **Long** value which can be one of the **ObjectTypeEnum** constants that specifies the owner type.
     
 -  _OwnerName_
     
-- A  **String** value that specifies the **Name** of the **User** or **Group** to own the object.
+- A **String** value that specifies the **Name** of the **User** or **Group** to own the object.
     
 -  _ObjectTypeId_
     
-- Optional. A  **Variant** value that specifies the GUID for a provider object type not defined by the OLE DB specification. This parameter is required if _ObjectType_ is set to **adPermObjProviderSpecific**; otherwise, it is not used.
+- Optional. A **Variant** value that specifies the GUID for a provider object type not defined by the OLE DB specification. This parameter is required if _ObjectType_ is set to **adPermObjProviderSpecific**; otherwise, it is not used.
     
 
 ## Remarks

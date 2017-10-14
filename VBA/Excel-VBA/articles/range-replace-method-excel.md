@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Replace Method (Excel)
 
-Returns a  **Boolean** indicating characters in cells within the specified range. Using this method doesn't change either the selection or the active cell.
+Returns a **Boolean** indicating characters in cells within the specified range. Using this method doesn't change either the selection or the active cell.
 
 
 ## Syntax
@@ -31,10 +31,10 @@ Returns a  **Boolean** indicating characters in cells within the specified range
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The string you want Microsoft Excel to search for.|
 | _Replacement_|Required| **Variant**|The replacement string.|
-| _LookAt_|Optional| **Variant**|Can be one of the following  **[XlLookAt](xllookat-enumeration-excel.md)** constants: **xlWhole** or **xlPart** .|
-| _SearchOrder_|Optional| **Variant**|Can be one of the following  **[XlSearchOrder](xlsearchorder-enumeration-excel.md)** constants: **xlByRows** or **xlByColumns** .|
+| _LookAt_|Optional| **Variant**|Can be one of the following **[XlLookAt](xllookat-enumeration-excel.md)** constants: **xlWhole** or **xlPart** .|
+| _SearchOrder_|Optional| **Variant**|Can be one of the following **[XlSearchOrder](xlsearchorder-enumeration-excel.md)** constants: **xlByRows** or **xlByColumns** .|
 | _MatchCase_|Optional| **Variant**| **True** to make the search case sensitive.|
-| _MatchByte_|Optional| **Variant**|You can use this argument only if you?ve selected or installed double-byte language support in Microsoft Excel.  **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
+| _MatchByte_|Optional| **Variant**|You can use this argument only if you?ve selected or installed double-byte language support in Microsoft Excel. **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
 | _SearchFormat_|Optional| **Variant**|The search format for the method.|
 | _ReplaceFormat_|Optional| **Variant**|The replace format for the method.|
 

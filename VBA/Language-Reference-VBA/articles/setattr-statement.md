@@ -17,7 +17,7 @@ Sets attribute information for a file.
 
  **SetAttr** **_pathname_, _attributes_**
 
-The  **SetAttr** statement syntax has these[named arguments](vbe-glossary.md):
+The **SetAttr** statement syntax has these[named arguments](vbe-glossary.md):
 
 
 |**Part**|**Description**|
@@ -25,7 +25,7 @@ The  **SetAttr** statement syntax has these[named arguments](vbe-glossary.md):
 |**_pathname_**|Required. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.|
 |**_attributes_**|Required. [Constant](vbe-glossary.md) or[numeric expression](vbe-glossary.md), whose sum specifies file attributes.|
  **Settings**
-The  **_attributes_**[argument](vbe-glossary.md) settings are:
+The **_attributes_**[argument](vbe-glossary.md) settings are:
 
 
 |**Constant**|**Value**|**Description**|
@@ -44,7 +44,7 @@ A [run-time error](vbe-glossary.md) occurs if you try to set the attributes of a
 
 ## Example
 
-This example uses the  **SetAttr** statement to set attributes for a file. On the Macintosh, only the constants vbNormal, vbReadOnly, vbHidden and vbAlias are available.
+This example uses the **SetAttr** statement to set attributes for a file. On the Macintosh, only the constants vbNormal, vbReadOnly, vbHidden and vbAlias are available.
 
 
 ```

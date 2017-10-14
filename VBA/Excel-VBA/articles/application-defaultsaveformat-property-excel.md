@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultSaveFormat Property (Excel)
 
-Returns or sets the default format for saving files. For a list of valid constants, see the  **[FileFormat](workbook-fileformat-property-excel.md)** property. Read/write **Long** .
+Returns or sets the default format for saving files. For a list of valid constants, see the **[FileFormat](workbook-fileformat-property-excel.md)** property. Read/write **Long** .
 
 
 ## Syntax

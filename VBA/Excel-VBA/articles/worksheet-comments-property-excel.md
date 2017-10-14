@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Comments Property (Excel)
 
-Returns a  **[Comments](comments-object-excel.md)** collection that represents all the comments for the specified worksheet. Read-only.
+Returns a **[Comments](comments-object-excel.md)** collection that represents all the comments for the specified worksheet. Read-only.
 
 
 ## Syntax

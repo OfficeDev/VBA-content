@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Screen.ActiveReport Property (Access)
 
-You can use the  **ActiveReport** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the report that has the focus. Read-only **Report** object.
+You can use the **ActiveReport** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the report that has the focus. Read-only **Report** object.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **ActiveReport** property together with the **[Screen](screen-o
 
 ## Remarks
 
-This property setting contains a reference to the  **[Report](report-object-access.md)** object that has the focus at run time.
+This property setting contains a reference to the **[Report](report-object-access.md)** object that has the focus at run time.
 
-You can use the  **ActiveReport** property to refer to an active report together with one of its properties or methods. The following example displays the **Name** property setting of the active report.
+You can use the **ActiveReport** property to refer to an active report together with one of its properties or methods. The following example displays the **Name** property setting of the active report.
 
 
 
@@ -38,7 +38,7 @@ Set rptCurrentReport = Screen.ActiveReport
 MsgBox "Current report is " &; rptCurrentReport.Name
 ```
 
-If no report has the focus when you use the  **ActiveReport** property, an error occurs.
+If no report has the focus when you use the **ActiveReport** property, an error occurs.
 
 
 ## See also

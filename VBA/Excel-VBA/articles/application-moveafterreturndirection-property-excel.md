@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MoveAfterReturnDirection Property (Excel)
 
-Returns or sets the direction in which the active cell is moved when the user presses ENTER. Read/write  **[XlDirection](xldirection-enumeration-excel.md)** .
+Returns or sets the direction in which the active cell is moved when the user presses ENTER. Read/write **[XlDirection](xldirection-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -32,7 +32,7 @@ Returns or sets the direction in which the active cell is moved when the user pr
 | **xlToLeft**|
 | **xlToRight**|
 | **xlUp**|
-If the  **[MoveAfterReturn](application-moveafterreturn-property-excel.md)** property is **False** , the selection doesn't move at all, regardless of how the **MoveAfterReturnDirection** property is set.
+If the **[MoveAfterReturn](application-moveafterreturn-property-excel.md)** property is **False** , the selection doesn't move at all, regardless of how the **MoveAfterReturnDirection** property is set.
 
 
 ## Example

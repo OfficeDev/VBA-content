@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tab.TintAndShade Property (Excel)
 
-Returns or sets a  **Single** that lightens or darkens a color.
+Returns or sets a **Single** that lightens or darkens a color.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that lightens or darkens a color.
 
 ## Remarks
 
-You can enter a number from -1 (darkest) to 1 (lightest) for the  **TintAndShade** property. Zero (0) is neutral.
+You can enter a number from -1 (darkest) to 1 (lightest) for the **TintAndShade** property. Zero (0) is neutral.
 
 Attempting to set this property to a value less than -1 or more than 1, is not recommended. Excel will correct the value internally to some value that falls with the range of valid values. This property works for both theme colors and nontheme colors.
 

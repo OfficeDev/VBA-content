@@ -30,7 +30,7 @@ Returns or sets what value to allocate when performing what-if analysis on a Piv
 
 ## Remarks
 
-The  **AllocationValue** property corresponds to the **Value to Allocate** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlAllocateValue** , which corresponds to the **The value entered divided by the number of allocations** setting.
+The **AllocationValue** property corresponds to the **Value to Allocate** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlAllocateValue** , which corresponds to the **The value entered divided by the number of allocations** setting.
 
 
 ## See also

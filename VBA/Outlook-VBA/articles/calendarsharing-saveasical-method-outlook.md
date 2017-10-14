@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.SaveAsICal Method (Outlook)
 
-Exports calendar information from the parent  **[Folder](folder-object-outlook.md)** of the **[CalendarSharing](calendarsharing-object-outlook.md)** object as an iCalendar calendar (.ics) file.
+Exports calendar information from the parent **[Folder](folder-object-outlook.md)** of the **[CalendarSharing](calendarsharing-object-outlook.md)** object as an iCalendar calendar (.ics) file.
 
 
 ## Syntax
@@ -33,23 +33,23 @@ Exports calendar information from the parent  **[Folder](folder-object-outlook.m
 
 ## Remarks
 
-The level of detail provided in the iCalendar file is determined by a combination of values in the following  **CalendarSharing** properties:
+The level of detail provided in the iCalendar file is determined by a combination of values in the following **CalendarSharing** properties:
 
 
--  **[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)**
+- **[CalendarDetail](calendarsharing-calendardetail-property-outlook.md)**
     
--  **[IncludeAttachments](calendarsharing-includeattachments-property-outlook.md)**
+- **[IncludeAttachments](calendarsharing-includeattachments-property-outlook.md)**
     
--  **[IncludePrivateDetails](calendarsharing-includeprivatedetails-property-outlook.md)**
+- **[IncludePrivateDetails](calendarsharing-includeprivatedetails-property-outlook.md)**
     
--  **[RestrictToWorkingHours](calendarsharing-restricttoworkinghours-property-outlook.md)**
+- **[RestrictToWorkingHours](calendarsharing-restricttoworkinghours-property-outlook.md)**
     
-You can set the  **[IncludeWholeCalendar](calendarsharing-includewholecalendar-property-outlook.md)** property to **True** to export all items contained in the folder, or you can set the **[StartDate](calendarsharing-startdate-property-outlook.md)** and **[EndDate](calendarsharing-enddate-property-outlook.md)** properties to limit the exported items to a date range between a specified start date and end date, respectively.
+You can set the **[IncludeWholeCalendar](calendarsharing-includewholecalendar-property-outlook.md)** property to **True** to export all items contained in the folder, or you can set the **[StartDate](calendarsharing-startdate-property-outlook.md)** and **[EndDate](calendarsharing-enddate-property-outlook.md)** properties to limit the exported items to a date range between a specified start date and end date, respectively.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a  **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
+The following Visual Basic for Applications (VBA) example creates a **CalendarSharing** object for the Calendar folder, then exports the contents of the entire folder (including attachments and private items) to an iCalendar calendar (.ics) file.
 
 
 ```vb

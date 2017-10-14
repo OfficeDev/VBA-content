@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSet.ShowSignaturesPane Property (Office)
 
-Gets or sets a  **Boolean** value indicating whether the **Signature** task pane should be displayed. Read/write.
+Gets or sets a **Boolean** value indicating whether the **Signature** task pane should be displayed. Read/write.
 
 
 ## Syntax

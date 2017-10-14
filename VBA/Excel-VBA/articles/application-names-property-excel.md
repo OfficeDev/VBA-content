@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Names Property (Excel)
 
-Returns a  **[Names](names-object-excel.md)** collection that represents all the names in the active workbook. Read-only **Names** object.
+Returns a **[Names](names-object-excel.md)** collection that represents all the names in the active workbook. Read-only **Names** object.
 
 
 ## Syntax

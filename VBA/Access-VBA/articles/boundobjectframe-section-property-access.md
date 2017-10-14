@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BoundObjectFrame.Section Property (Access)
 
-You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
+You can identify these controls by the section of a form or report where the control appears. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can identify these controls by the section of a form or report where the con
 
 ## Remarks
 
-For controls, you can use the  **Section** property to determine which section of a form or report a control is in.
+For controls, you can use the **Section** property to determine which section of a form or report a control is in.
 
 
 ## See also

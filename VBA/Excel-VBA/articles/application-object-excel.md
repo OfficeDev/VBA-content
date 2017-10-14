@@ -49,7 +49,7 @@ ActiveCell.Font.Bold = True
 
 ## Remarks
 
-The  **Application** object contains:
+The **Application** object contains:
 
 - Application-wide settings and options.
     

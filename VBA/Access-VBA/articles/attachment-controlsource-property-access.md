@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.ControlSource Property (Access)
 
-You can use the  **ControlSource** property to specify what data appears in the specified **[Attachment](attachment-object-access.md)** control. Read/write **String**.
+You can use the **ControlSource** property to specify what data appears in the specified **[Attachment](attachment-object-access.md)** control. Read/write **String**.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ You can use the  **ControlSource** property to specify what data appears in the 
 
 ## Remarks
 
-The  **ControlSource** property uses the following settings.
+The **ControlSource** property uses the following settings.
 
 
 
 |**Setting**|**Description**|
 |:-----|:-----|
-|A field name|The  **ControlSource** property must be set to the name of a field that stores attachments.|
+|A field name|The **ControlSource** property must be set to the name of a field that stores attachments.|
 
 ## See also
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RTD Property (Excel)
 
-Returns an  **[RTD](rtd-object-excel.md)** object.
+Returns an **[RTD](rtd-object-excel.md)** object.
 
 
 ## Syntax

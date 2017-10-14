@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.Item Property (Outlook)
 
-Returns an  **Object** corresponding to the Outlook item bound to the form region. Read-only.
+Returns an **Object** corresponding to the Outlook item bound to the form region. Read-only.
 
 
 ## Syntax

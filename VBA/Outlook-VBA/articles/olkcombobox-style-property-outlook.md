@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.Style Property (Outlook)
 
-Returns or sets an  **[OlComboBoxStyle](olcomboboxstyle-enumeration-outlook.md)** constant to specify how the user can choose or set the control's value. Read/write.
+Returns or sets an **[OlComboBoxStyle](olcomboboxstyle-enumeration-outlook.md)** constant to specify how the user can choose or set the control's value. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlComboBoxStyle](olcomboboxstyle-enumeration-outlook.md)*
 
 ## Remarks
 
-The default value is  **olComboBoxStyleCombo** .
+The default value is **olComboBoxStyleCombo** .
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Actions.Item Property (Excel)
 
-Returns a  **Actions** object that represents a collection of actions in a workbook. Read-only.
+Returns a **Actions** object that represents a collection of actions in a workbook. Read-only.
 
 
 ## Syntax

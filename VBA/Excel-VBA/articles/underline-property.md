@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Underline Property
 
-Returns or sets the type of underline applied to the font. Required  **XlUnderlineStyle**.
+Returns or sets the type of underline applied to the font. Required **XlUnderlineStyle**.
 
 
 

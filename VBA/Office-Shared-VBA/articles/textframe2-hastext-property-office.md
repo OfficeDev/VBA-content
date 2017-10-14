@@ -22,7 +22,7 @@ Indicates whether the shape that contains the specified text frame has text asso
 
 ## Remarks
 
-The value of the  **HasText** property can be one of the following **MsoTriState** constants.
+The value of the **HasText** property can be one of the following **MsoTriState** constants.
 
 
 

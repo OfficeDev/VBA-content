@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Click Event (Access)
 
-The  **Click** event occurs when the user presses and then releases a mouse button over a report.
+The **Click** event occurs when the user presses and then releases a mouse button over a report.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ The  **Click** event occurs when the user presses and then releases a mouse butt
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the  **OnClick** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **OnClick** property to the name of the macro or to [Event Procedure].
 
 On a report, this event occurs when the user clicks a blank area of the report.
 
-To distinguish between the left, right, and middle mouse buttons, use the  **MouseDown** and **MouseUp** events.
+To distinguish between the left, right, and middle mouse buttons, use the **MouseDown** and **MouseUp** events.
 
 
 ## See also

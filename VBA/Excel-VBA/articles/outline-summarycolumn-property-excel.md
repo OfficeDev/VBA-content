@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Outline.SummaryColumn Property (Excel)
 
-Returns or sets the location of the summary columns in the outline. Read/write  **[XlSummaryColumn](xlsummarycolumn-enumeration-excel.md)** .
+Returns or sets the location of the summary columns in the outline. Read/write **[XlSummaryColumn](xlsummarycolumn-enumeration-excel.md)** .
 
 
 ## Syntax

@@ -21,7 +21,7 @@ Repeats a group of [statements](vbe-glossary.md) a specified number of times.
 [ _statements_ ]
 
  **Next** [ _counter_ ]
-The  **For…Next** statement syntax has these parts:
+The **For…Next** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -30,7 +30,7 @@ The  **For…Next** statement syntax has these parts:
 | _start_|Required. Initial value of  _counter_.|
 | _end_|Required. Final value of  _counter_.|
 | _step_|Optional. Amount  _counter_ is changed each time through the loop. If not specified, _step_ defaults to one.|
-| _statements_|Optional. One or more statements between  **For** and **Next** that are executed the specified number of times.|
+| _statements_|Optional. One or more statements between **For** and **Next** that are executed the specified number of times.|
  **Remarks**
 The  _step_[argument](vbe-glossary.md) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
 
@@ -43,8 +43,8 @@ After all statements in the loop have executed,  _step_ is added to _counter_. A
 
  **Tip**  Changing the value of  _counter_ while inside a loop can make it more difficult to read and debug your code.
 
-Any number of  **Exit For** statements may be placed anywhere in the loop as an alternate way to exit. **Exit For** is often used after evaluating of some condition, for example **If...Then**, and transfers control to the statement immediately following **Next**.
-You can nest  **For...Next** loops by placing one **For...Next** loop within another. Give each loop a unique variable name as its _counter_. The following construction is correct:
+Any number of **Exit For** statements may be placed anywhere in the loop as an alternate way to exit. **Exit For** is often used after evaluating of some condition, for example **If...Then**, and transfers control to the statement immediately following **Next**.
+You can nest **For...Next** loops by placing one **For...Next** loop within another. Give each loop a unique variable name as its _counter_. The following construction is correct:
 
 
 
@@ -65,7 +65,7 @@ Next I
 
 ## Example
 
-This example uses the  **For...Next** statement to create a string that contains 10 instances of the numbers 0 through 9, each string separated from the other by a single space. The outer loop uses a loop counter variable that is decremented each time through the loop.
+This example uses the **For...Next** statement to create a string that contains 10 instances of the numbers 0 through 9, each string separated from the other by a single space. The outer loop uses a loop counter variable that is decremented each time through the loop.
 
 
 ```vb

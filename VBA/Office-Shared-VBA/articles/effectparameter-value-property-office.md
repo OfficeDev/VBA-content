@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # EffectParameter.Value Property (Office)
 
-Retrieves or sets the value of the  **EffectParameter** object. Read/write
+Retrieves or sets the value of the **EffectParameter** object. Read/write
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Retrieves or sets the value of the  **EffectParameter** object. Read/write
 
 ## Example
 
-The following code sets the first parameter of the  **PictureEffect** object as color temperature.
+The following code sets the first parameter of the **PictureEffect** object as color temperature.
 
 
 ```

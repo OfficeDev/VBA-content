@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Form already displayed; can't show modally (Error 400)
 
-You can't use the  **Show** method to display a visible form as modal. This error has the following cause and solution:
+You can't use the **Show** method to display a visible form as modal. This error has the following cause and solution:
 
 
 
-- You tried to use  **Show**, with the _style_[argument](vbe-glossary.md) set to 1 - **vbModal**, on an already visible form.
+- You tried to use **Show**, with the _style_[argument](vbe-glossary.md) set to 1 - **vbModal**, on an already visible form.
     
-    Use either the  **Unload** statement or the **Hide** method on the form before trying to show it as a modal form.
+    Use either the **Unload** statement or the **Hide** method on the form before trying to show it as a modal form.
     
 
 

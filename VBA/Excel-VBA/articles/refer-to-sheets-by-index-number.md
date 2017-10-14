@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Refer to Sheets by Index Number
 
-An index number is a sequential number assigned to a sheet, based on the position of its sheet tab (counting from the left) among sheets of the same type. The following procedure uses the  **[Worksheets](workbook-worksheets-property-excel.md)** property to activate the first worksheet in the active workbook.
+An index number is a sequential number assigned to a sheet, based on the position of its sheet tab (counting from the left) among sheets of the same type. The following procedure uses the **[Worksheets](workbook-worksheets-property-excel.md)** property to activate the first worksheet in the active workbook.
 
 
 ```vb
@@ -21,7 +21,7 @@ End Sub
 ```
 
 
-If you want to work with all types of sheets (worksheets, charts, modules, and dialog sheets), use the  **[Sheets](workbook-sheets-property-excel.md)** property. The following procedure activates sheet four in the workbook.
+If you want to work with all types of sheets (worksheets, charts, modules, and dialog sheets), use the **[Sheets](workbook-sheets-property-excel.md)** property. The following procedure activates sheet four in the workbook.
 
 
 

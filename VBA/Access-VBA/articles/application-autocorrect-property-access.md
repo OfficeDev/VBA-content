@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AutoCorrect Property (Access)
 
-Returns an  **[AutoCorrect](autocorrect-object-access.md)** object that represents the AutoCorrect settings for Microsoft Access. Read-only.
+Returns an **[AutoCorrect](autocorrect-object-access.md)** object that represents the AutoCorrect settings for Microsoft Access. Read-only.
 
 
 ## Syntax

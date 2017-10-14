@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-This method returns  **True** if the code resource is successfully loaded; otherwise, the method returns **False** .
+This method returns **True** if the code resource is successfully loaded; otherwise, the method returns **False** .
 
 
 ## Example

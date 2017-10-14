@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.LayoutCompactRow Property (Excel)
 
-Specifies whether or not a PivotField is compacted (items of multiple PivotFields are displayed in a single column) when rows are selected. Read/write  **Boolean** .
+Specifies whether or not a PivotField is compacted (items of multiple PivotFields are displayed in a single column) when rows are selected. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Specifies whether or not a PivotField is compacted (items of multiple PivotField
 
 ## Remarks
 
-Setting this property to  **True** (default) will have no immediate visual effect in the PivotTable if the **LayoutForm** property is set to **xlTabular** , but it can be set independently.
+Setting this property to **True** (default) will have no immediate visual effect in the PivotTable if the **LayoutForm** property is set to **xlTabular** , but it can be set independently.
 
 
 ## See also

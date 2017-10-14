@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcCommand Enumeration (Access)
 
-Used with the  **[RunCommand](application-runcommand-method-access.md)** method to run built-in commands.
+Used with the **[RunCommand](application-runcommand-method-access.md)** method to run built-in commands.
 
 
 

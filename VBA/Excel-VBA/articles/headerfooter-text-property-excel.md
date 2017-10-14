@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeaderFooter.Text Property (Excel)
 
-Returns or sets a  **Text** object that represents text included in the specified header or footer. Read/write.
+Returns or sets a **Text** object that represents text included in the specified header or footer. Read/write.
 
 
 ## Syntax

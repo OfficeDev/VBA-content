@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Research Object (Excel)
 
-Represents the controls of a  **Research** query.
+Represents the controls of a **Research** query.
 
 
 ## Remarks
 
-When working with  **Research** queries, you must have an existing GUID that corresponds to a live data source. If the data source is unavailable or does not exist, a run-time error occurs.
+When working with **Research** queries, you must have an existing GUID that corresponds to a live data source. If the data source is unavailable or does not exist, a run-time error occurs.
 
 
 ## Example

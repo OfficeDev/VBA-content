@@ -17,7 +17,7 @@ Often a query must be based on values that the user supplies, or values that cha
 
 ## Building SQL Statements with DAO
 
-The following example shows how to create a  **QueryDef** object with a simple SQL statement. This query returns all orders from an Orders table that were placed after March 31, 2006.
+The following example shows how to create a **QueryDef** object with a simple SQL statement. This query returns all orders from an Orders table that were placed after March 31, 2006.
 
 
 ```vb
@@ -34,7 +34,7 @@ Public Sub GetOrders()
 End Sub
 ```
 
-The next example creates the same  **QueryDef** object by using a value stored in a variable. Be aware that the number signs (#) that denote the date values must be included in the string so that they are concatenated with the date value.
+The next example creates the same **QueryDef** object by using a value stored in a variable. Be aware that the number signs (#) that denote the date values must be included in the string so that they are concatenated with the date value.
 
 
 
@@ -49,7 +49,7 @@ strSQL = "SELECT * FROM Orders WHERE OrderDate" _
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
-The following example creates a  **QueryDef** object by using a value in a control called OrderDate on an Orders form. Be aware that you provide the full reference to the control, and that you include the number signs (#) that denote the date within the string.
+The following example creates a **QueryDef** object by using a value in a control called OrderDate on an Orders form. Be aware that you provide the full reference to the control, and that you include the number signs (#) that denote the date within the string.
 
 
 
@@ -67,7 +67,7 @@ Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 
 In this section, you will build the same statements as in the previous section, but this time using ADO as the data access method.
 
-The following code example shows how to create a  **QueryDef** object with a simple SQL statement. This query returns all orders from an Orders table that were placed after March 31, 2006.
+The following code example shows how to create a **QueryDef** object with a simple SQL statement. This query returns all orders from an Orders table that were placed after March 31, 2006.
 
 
 
@@ -79,7 +79,7 @@ strSQL = "SELECT * FROM Orders WHERE OrderDate >#3-31-2006#;"
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
-The next example creates the same  **QueryDef** object by using a value stored in a variable. Be aware that the number signs (#) that denote the date values must be included in the string so that they are concatenated with the date value.
+The next example creates the same **QueryDef** object by using a value stored in a variable. Be aware that the number signs (#) that denote the date values must be included in the string so that they are concatenated with the date value.
 
 
 
@@ -94,7 +94,7 @@ strSQL = "SELECT * FROM Orders WHERE OrderDate" _
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
-The following code example creates a  **QueryDef** object by using a value in a control called OrderDate on an Orders form. Be aware that it provides the full reference to the control, and that it includes the number signs that denote the date within the string.
+The following code example creates a **QueryDef** object by using a value in a control called OrderDate on an Orders form. Be aware that it provides the full reference to the control, and that it includes the number signs that denote the date within the string.
 
 
 

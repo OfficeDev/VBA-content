@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.OrderByOnLoad Property (Access)
 
-Gets or sets whether the sorting specified by the  **[OrderBy](form-orderby-property-access.md)** property is applied when the form is loaded. Read/write **Boolean**.
+Gets or sets whether the sorting specified by the **[OrderBy](form-orderby-property-access.md)** property is applied when the form is loaded. Read/write **Boolean**.
 
 
 ## Syntax

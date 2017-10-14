@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.HyperlinkType Property (Office)
 
-Sets or gets a  **MsoCommandBarButtonHyperlinkType** constant that represents the type of hyperlink associated with the specified command bar button. Read/write.
+Sets or gets a **MsoCommandBarButtonHyperlinkType** constant that represents the type of hyperlink associated with the specified command bar button. Read/write.
 
 
 ## 
@@ -31,7 +31,7 @@ Sets or gets a  **MsoCommandBarButtonHyperlinkType** constant that represents th
 
 ## Example
 
-This example checks the  **HyperlinkType** property for the specified command bar button on the command bar named "Custom.". If **HyperlinkType** is set to **msoCommandBarButtonHyperlinkNone**, the example sets the property to **msoCommandBarButtonHyperlinkOpen** and sets the URL to www.microsoft.com.
+This example checks the **HyperlinkType** property for the specified command bar button on the command bar named "Custom.". If **HyperlinkType** is set to **msoCommandBarButtonHyperlinkNone**, the example sets the property to **msoCommandBarButtonHyperlinkOpen** and sets the URL to www.microsoft.com.
 
 
 ```

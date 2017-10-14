@@ -25,12 +25,12 @@ Ungroups any grouped shapes in the specified shape or range of shapes. Disassemb
 
 ### Return Value
 
-A  **[ShapeRange](shaperange-object-excel.md)** object that represents the ungrouped shapes.
+A **[ShapeRange](shaperange-object-excel.md)** object that represents the ungrouped shapes.
 
 
 ## Remarks
 
-Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the  **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single object, grouping and ungrouping shapes changes the number of items in the **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example

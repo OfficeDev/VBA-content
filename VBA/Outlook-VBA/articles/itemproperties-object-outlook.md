@@ -18,12 +18,12 @@ A collection of all properties associated with the item.
 
 ## Remarks
 
-Use the  **[ItemProperties](http://msdn.microsoft.com/library/620e3af5-0c11-bd78-a98f-b08b36857113%28Office.15%29.aspx)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** ( _index_ ), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](itemproperty-object-outlook.md)** object.
+Use the **[ItemProperties](http://msdn.microsoft.com/library/620e3af5-0c11-bd78-a98f-b08b36857113%28Office.15%29.aspx)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** ( _index_ ), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](itemproperty-object-outlook.md)** object.
 
 
- **Note**  The  **ItemProperties** collection is zero-based, meaning that the first item in the collection is referenced by 0.
+ **Note**  The **ItemProperties** collection is zero-based, meaning that the first item in the collection is referenced by 0.
 
-Use the  **[Add](http://msdn.microsoft.com/library/317daeba-e34c-8458-2492-c434707fa805%28Office.15%29.aspx)** method to add a new item property to the **ItemProperties** collection. Use the **[Remove](http://msdn.microsoft.com/library/51d0320b-99f4-60df-4646-b8e365813d2f%28Office.15%29.aspx)** method to remove an item property from the **ItemProperties** collection.
+Use the **[Add](http://msdn.microsoft.com/library/317daeba-e34c-8458-2492-c434707fa805%28Office.15%29.aspx)** method to add a new item property to the **ItemProperties** collection. Use the **[Remove](http://msdn.microsoft.com/library/51d0320b-99f4-60df-4646-b8e365813d2f%28Office.15%29.aspx)** method to remove an item property from the **ItemProperties** collection.
 
 
  **Note**   You can only add or remove custom properties. Custom properties are denoted by the **[IsUserProperty](http://msdn.microsoft.com/library/6787380b-fe85-22d9-b95b-2b356bf84a21%28Office.15%29.aspx)**.
@@ -31,7 +31,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/317daeba-e34c-8458-2492-c4347
 
 ## Example
 
-The following example creates a new  **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)** object and stores its **ItemProperties** collection in a variable called `objItems`.
+The following example creates a new **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)** object and stores its **ItemProperties** collection in a variable called `objItems`.
 
 
 ```

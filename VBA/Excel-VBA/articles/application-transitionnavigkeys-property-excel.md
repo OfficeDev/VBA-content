@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example displays the current state of the  **Transition navigation keys** option.
+This example displays the current state of the **Transition navigation keys** option.
 
 
 ```vb

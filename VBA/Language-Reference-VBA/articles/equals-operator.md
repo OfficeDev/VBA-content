@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 Used to assign a value to a [variable](vbe-glossary.md) or[property](vbe-glossary.md).
  **Syntax**
  _variable_**=**_value_
-The  **=** operator syntax has these parts:
+The **=** operator syntax has these parts:
 
 
 |**Part**|**Description**|

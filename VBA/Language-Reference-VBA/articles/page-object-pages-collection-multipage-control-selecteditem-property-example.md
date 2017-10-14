@@ -11,22 +11,22 @@ ms.date: 06/08/2017
 
 # Page Object, Pages Collection, MultiPage Control, SelectedItem Property Example
 
-The following example accesses an individual page of a  **MultiPage** in several ways:
+The following example accesses an individual page of a **MultiPage** in several ways:
 
 
 
-- Using the  **Pages** collection with a numeric index.
+- Using the **Pages** collection with a numeric index.
     
-- Using the  **Pages** collection with a string index.
+- Using the **Pages** collection with a string index.
     
-- Using the  **Pages** collection with the **Item** method.
+- Using the **Pages** collection with the **Item** method.
     
-- Using the name of the individual page in the  **MultiPage**.
+- Using the name of the individual page in the **MultiPage**.
     
-- Using the  **SelectedItem** property.
+- Using the **SelectedItem** property.
     
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **MultiPage** named MultiPage1.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **MultiPage** named MultiPage1.
 
 
 

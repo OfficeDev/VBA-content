@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.GetInspector Property (Outlook)
 
-Returns an  **[Inspector](inspector-object-outlook.md)** object that represents an inspector initialized to contain the specified item. Read-only.
+Returns an **[Inspector](inspector-object-outlook.md)** object that represents an inspector initialized to contain the specified item. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Inspector](inspector-object-outlook.md)** object that represents 
 
 ## Remarks
 
-This property is useful for returning an  **Inspector** object in which to display the item, as opposed to using the **[Application.ActiveInspector](application-activeinspector-method-outlook.md)** method and setting the **[Inspector.CurrentItem](inspector-currentitem-property-outlook.md)** property. If an **Inspector** object already exists for the item, the **GetInspector** property will return that **Inspector** object instead of creating a new one.
+This property is useful for returning an **Inspector** object in which to display the item, as opposed to using the **[Application.ActiveInspector](application-activeinspector-method-outlook.md)** method and setting the **[Inspector.CurrentItem](inspector-currentitem-property-outlook.md)** property. If an **Inspector** object already exists for the item, the **GetInspector** property will return that **Inspector** object instead of creating a new one.
 
 
 ## See also

@@ -40,14 +40,14 @@ Displays a command bar as a shortcut menu at the specified coordinates or at the
 
 ## Remarks
 
-When menus are left-aligned, the shortcut menu displayed by the  **ShowPopup** method has its upper left corner at (x, y + 1); when menus are right-aligned, the shortcut menu has its upper right corner at (x + 1, y + 1). You can use the Windows function **GetSystemMetrics(SM_MENUDROPALIGNMENT)** to check the system metric for dropdown menu alignment.
+When menus are left-aligned, the shortcut menu displayed by the **ShowPopup** method has its upper left corner at (x, y + 1); when menus are right-aligned, the shortcut menu has its upper right corner at (x + 1, y + 1). You can use the Windows function **GetSystemMetrics(SM_MENUDROPALIGNMENT)** to check the system metric for dropdown menu alignment.
 
 When the screen location of the (x, y) coordinates would cause all or part of the popup menu to be displayed beyond the edge of the visible screen, then the popup menu shifts to fit into the viewable area.
 
 
 ## Example
 
-This example creates a shortcut menu containing two controls. The  **ShowPopup** method is used to make the shortcut menu visible.
+This example creates a shortcut menu containing two controls. The **ShowPopup** method is used to make the shortcut menu visible.
 
 
 ```
@@ -64,7 +64,7 @@ myBar.ShowPopup
  **Note**  
 
 
- **Note**  If the  **Position** property of the command bar is not set to **msoBarPopup**, this method fails.
+ **Note**  If the **Position** property of the command bar is not set to **msoBarPopup**, this method fails.
 
 
 ## See also

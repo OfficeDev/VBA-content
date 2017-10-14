@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Refer to Cells by Using Index Numbers
 
-You can use the  **Cells** property to refer to a single cell by using row and column index numbers. This property returns a  **Range** object that represents a single cell. In the following example, `Cells(6,1)` returns cell A6 on Sheet1. The **Value** property is then set to 10.
+You can use the **Cells** property to refer to a single cell by using row and column index numbers. This property returns a **Range** object that represents a single cell. In the following example, `Cells(6,1)` returns cell A6 on Sheet1. The **Value** property is then set to 10.
 
 
 ```vb
@@ -21,7 +21,7 @@ End Sub
 ```
 
 
-The  **Cells** property works well for looping through a range of cells, because you can substitute variables for the index numbers, as shown in the following example.
+The **Cells** property works well for looping through a range of cells, because you can substitute variables for the index numbers, as shown in the following example.
 
 
 
@@ -36,6 +36,6 @@ End Sub
 ```
 
 
- **Note**  If you want to change the properties of (or apply a method to) a range of cells all at once, use the  **Range** property. For more information, see [Refer to Cells and Ranges by Using A1 Notation](refer-to-cells-and-ranges-by-using-a1-notation.md).
+ **Note**  If you want to change the properties of (or apply a method to) a range of cells all at once, use the **Range** property. For more information, see [Refer to Cells and Ranges by Using A1 Notation](refer-to-cells-and-ranges-by-using-a1-notation.md).
 
 

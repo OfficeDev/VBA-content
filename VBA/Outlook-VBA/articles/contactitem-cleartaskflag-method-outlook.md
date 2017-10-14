@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ClearTaskFlag Method (Outlook)
 
-Clears the  **[ContactItem](contactitem-object-outlook.md)** object as a task.
+Clears the **[ContactItem](contactitem-object-outlook.md)** object as a task.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Clears the  **[ContactItem](contactitem-object-outlook.md)** object as a task.
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](contactitem-ismarkedastask-property-outlook.md)** property to **False** .
+Calling this method sets the **[IsMarkedAsTask](contactitem-ismarkedastask-property-outlook.md)** property to **False** .
 
 
 ## See also

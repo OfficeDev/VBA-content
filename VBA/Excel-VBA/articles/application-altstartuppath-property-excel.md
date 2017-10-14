@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AltStartupPath Property (Excel)
 
-Returns or sets the name of the alternate startup folder. Read/write  **String** .
+Returns or sets the name of the alternate startup folder. Read/write **String** .
 
 
 ## Syntax

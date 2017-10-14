@@ -25,7 +25,7 @@ Allows the user to to access error checking options.
 
 ## Remarks
 
-Reference the  **[Errors](errors-object-excel.md)** object to view a list of index values associated with error checking options.
+Reference the **[Errors](errors-object-excel.md)** object to view a list of index values associated with error checking options.
 
 
 ## Example

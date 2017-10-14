@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.GetExchangeUser Method (Outlook)
 
-Returns an  **[ExchangeUser](exchangeuser-object-outlook.md)** object that represents the **[AddressEntry](addressentry-object-outlook.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](addresslist-object-outlook.md)** object such as the Global Address List (GAL) and corresponds to an Exchange user.
+Returns an **[ExchangeUser](exchangeuser-object-outlook.md)** object that represents the **[AddressEntry](addressentry-object-outlook.md)** if the **AddressEntry** belongs to an Exchange **[AddressList](addresslist-object-outlook.md)** object such as the Global Address List (GAL) and corresponds to an Exchange user.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[ExchangeUser](exchangeuser-object-outlook.md)** object that repre
 
 ### Return Value
 
-An  **ExchangeUser** object that represents the **AddressEntry** . Returns **Null** ( **Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to an Exchange user.
+An **ExchangeUser** object that represents the **AddressEntry** . Returns **Null** ( **Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to an Exchange user.
 
 
 ## Remarks
@@ -39,7 +39,7 @@ For example, you pass the string "Jack" for an Exchange user who has an address 
 
 ## Example
 
-The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses  **[AddressList.AddressListType](addresslist-addresslisttype-property-outlook.md)** to find the Global Address List. For each **AddressEntry** on that **[AddressList](addresslist-object-outlook.md)** , it uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it uses **GetExchangeUser** to obtain and print the various pieces of data for the user.
+The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses **[AddressList.AddressListType](addresslist-addresslisttype-property-outlook.md)** to find the Global Address List. For each **AddressEntry** on that **[AddressList](addresslist-object-outlook.md)** , it uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it uses **GetExchangeUser** to obtain and print the various pieces of data for the user.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.RowFields Property (Excel)
 
-Returns an object that represents either a single field in a PivotTable report (a  **[PivotField](pivotfield-object-excel.md)** object) or a collection of all the fields (a **[PivotFields](pivotfields-object-excel.md)** object) that are currently showing as row fields. Read-only.
+Returns an object that represents either a single field in a PivotTable report (a **[PivotField](pivotfield-object-excel.md)** object) or a collection of all the fields (a **[PivotFields](pivotfields-object-excel.md)** object) that are currently showing as row fields. Read-only.
 
 
 ## Syntax

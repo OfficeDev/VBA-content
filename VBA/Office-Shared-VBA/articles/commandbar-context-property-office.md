@@ -31,12 +31,12 @@ Gets or sets a string that determines where a command bar will be saved. The str
 
 ## Remarks
 
-You can set the  **Context** property only for custom command bars. This property will fail if the application doesn't recognize the context string, or if the application doesn't support changing context strings programmatically.
+You can set the **Context** property only for custom command bars. This property will fail if the application doesn't recognize the context string, or if the application doesn't support changing context strings programmatically.
 
 
 ## Example
 
-This example displays a message box containing the context string for the command bar named "Custom". This example works in Microsoft Word and other applications that support the  **Context** property.
+This example displays a message box containing the context string for the command bar named "Custom". This example works in Microsoft Word and other applications that support the **Context** property.
 
 
 ```

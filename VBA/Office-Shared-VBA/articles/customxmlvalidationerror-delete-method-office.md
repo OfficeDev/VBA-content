@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationError.Delete Method (Office)
 
-Deletes the  **CustomXMLValidationError** object representing a data validation error.
+Deletes the **CustomXMLValidationError** object representing a data validation error.
 
 
 ## Syntax

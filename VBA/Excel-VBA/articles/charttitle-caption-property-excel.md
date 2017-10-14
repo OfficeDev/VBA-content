@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartTitle.Caption Property (Excel)
 
-Returns or sets a  **String** value that represents the chart title text.
+Returns or sets a **String** value that represents the chart title text.
 
 
 ## Syntax

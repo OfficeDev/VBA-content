@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintTitleRows Property (Excel)
 
-Returns or sets the rows that contain the cells to be repeated at the top of each page, as a string in A1-style notation in the language of the macro. Read/write  **String** .
+Returns or sets the rows that contain the cells to be repeated at the top of each page, as a string in A1-style notation in the language of the macro. Read/write **String** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the rows that contain the cells to be repeated at the top of eac
 
 If you specify only part of a row or rows, Microsoft Excel expands the range to full rows.
 
-Set this property to  **False** or to the empty string ("") to turn off title rows.
+Set this property to **False** or to the empty string ("") to turn off title rows.
 
 This property applies only to worksheet pages.
 

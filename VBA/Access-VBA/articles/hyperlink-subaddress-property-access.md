@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.SubAddress Property (Access)
 
-You can use the  **SubAddress** property to specify or determine a location within the target document specified by the **[Address](hyperlink-address-property-access.md)** property. Read/write **String**. .
+You can use the **SubAddress** property to specify or determine a location within the target document specified by the **[Address](hyperlink-address-property-access.md)** property. Read/write **String**. .
 
 
 ## Syntax
@@ -25,13 +25,13 @@ You can use the  **SubAddress** property to specify or determine a location with
 
 ## Remarks
 
-The  **SubAddress** property can be an object within a Microsoft Access database, a bookmark within a Microsoft Word document, a named range within a Microsoft Excel spreadsheet, a slide within a Microsoft PowerPoint presentation, or a location within an HTML document.
+The **SubAddress** property can be an object within a Microsoft Access database, a bookmark within a Microsoft Word document, a named range within a Microsoft Excel spreadsheet, a slide within a Microsoft PowerPoint presentation, or a location within an HTML document.
 
-The  **SubAddress** property represents the **HyperlinkSubAddress** property of a named location within the target document specified by the **HyperlinkAddress** property
+The **SubAddress** property represents the **HyperlinkSubAddress** property of a named location within the target document specified by the **HyperlinkAddress** property
 
-When you move the cursor over a command button, image control, or label control whose  **HyperlinkSubAddress** property is set, the cursor changes to an upward-pointing hand. Clicking the control displays the object or Web page specified by the link.
+When you move the cursor over a command button, image control, or label control whose **HyperlinkSubAddress** property is set, the cursor changes to an upward-pointing hand. Clicking the control displays the object or Web page specified by the link.
 
-For more information about hyperlink addresses and their format, see the  **HyperlinkAddress** and **HyperlinkSubAddress** property topics.
+For more information about hyperlink addresses and their format, see the **HyperlinkAddress** and **HyperlinkSubAddress** property topics.
 
 
 ## Example

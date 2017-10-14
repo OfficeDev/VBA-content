@@ -17,7 +17,7 @@ Writes data to a sequential file.
 
  **Write #**_filenumber_, [ _outputlist_ ]
 
-The  **Write #** statement syntax has these parts:
+The **Write #** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,9 +25,9 @@ The  **Write #** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
 | _outputlist_|Optional. One or more comma-delimited [numeric expressions](vbe-glossary.md) or[string expressions](vbe-glossary.md) to write to a file.|
  **Remarks**
-Data written with  **Write #** is usually read from a file with **Input #**.
+Data written with **Write #** is usually read from a file with **Input #**.
 If you omit  _outputlist_ and include a comma after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with a space, a semicolon, or a comma. A space has the same effect as a semicolon.
-When  **Write #** is used to write data to a file, several universal assumptions are followed so the data can always be read and correctly interpreted using **Input #**, regardless of[locale](vbe-glossary.md):
+When **Write #** is used to write data to a file, several universal assumptions are followed so the data can always be read and correctly interpreted using **Input #**, regardless of[locale](vbe-glossary.md):
 
 
 - Numeric data is always written using the period as the decimal separator.
@@ -40,17 +40,17 @@ When  **Write #** is used to write data to a file, several universal assumptions
     
 - If  _outputlist_ data is **Null** data, `#NULL#` is written to the file.
     
-- For  **Error** data, the output appears as `#ERROR errorcode#`. The  **Error** keyword is not translated, regardless of locale.
+- For **Error** data, the output appears as `#ERROR errorcode#`. The **Error** keyword is not translated, regardless of locale.
     
 
-Unlike the  **Print #** statement, the **Write #** statement inserts commas between items and quotation marks around strings as they are written to the file. You don't have to put explicit delimiters in the list. **Write #** inserts a newline character, that is, a carriage return-linefeed ( **Chr(** 13 **)** + **Chr(** 10 **)** ), after it has written the final character in _outputlist_ to the file.
+Unlike the **Print #** statement, the **Write #** statement inserts commas between items and quotation marks around strings as they are written to the file. You don't have to put explicit delimiters in the list. **Write #** inserts a newline character, that is, a carriage return-linefeed ( **Chr(** 13 **)** + **Chr(** 10 **)** ), after it has written the final character in _outputlist_ to the file.
 
  **Note**  You should not write strings that contain embedded quotation marks, for example, `"1,2""X"` for use with the **Input #** statement: **Input #** parses this string as two complete and separate strings.
 
 
 ## Example
 
-This example uses the  **Write #** statement to write raw data to a sequential file.
+This example uses the **Write #** statement to write raw data to a sequential file.
 
 
 ```

@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # NavigationGroups Object (Outlook)
 
-Contains a set of  **[NavigationGroup](navigationgroup-object-outlook.md)** objects that represent the navigation groups displayed by a navigation module in the Navigation Pane.
+Contains a set of **[NavigationGroup](navigationgroup-object-outlook.md)** objects that represent the navigation groups displayed by a navigation module in the Navigation Pane.
 
 
 ## Remarks
 
-Use the  **[NavigationGroups](mailmodule-navigationgroups-property-outlook.md)** property of the parent navigation module, such as a **[MailModule](mailmodule-object-outlook.md)** object, to return a **NavigationGroups** object.
+Use the **[NavigationGroups](mailmodule-navigationgroups-property-outlook.md)** property of the parent navigation module, such as a **[MailModule](mailmodule-object-outlook.md)** object, to return a **NavigationGroups** object.
 
-Use the  **[Create](navigationgroups-create-method-outlook.md)** method to create a new **NavigationGroup** object and add it to the collection. Use the **[Item](navigationgroups-item-method-outlook.md)** method to retrieve a **NavigationGroup** object from the collection. Use the **[Delete](navigationgroups-delete-method-outlook.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
+Use the **[Create](navigationgroups-create-method-outlook.md)** method to create a new **NavigationGroup** object and add it to the collection. Use the **[Item](navigationgroups-item-method-outlook.md)** method to retrieve a **NavigationGroup** object from the collection. Use the **[Delete](navigationgroups-delete-method-outlook.md)** method of the **NavigationGroups** collection to create a new **NavigationGroup** object.
 
-Use the  **[GetDefaultNavigationGroup](navigationgroups-getdefaultnavigationgroup-method-outlook.md)** to return the default navigation group for a specified group type.
+Use the **[GetDefaultNavigationGroup](navigationgroups-getdefaultnavigationgroup-method-outlook.md)** to return the default navigation group for a specified group type.
 
 
 ## Events

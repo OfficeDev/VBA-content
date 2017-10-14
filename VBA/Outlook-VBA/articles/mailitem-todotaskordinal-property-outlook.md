@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.ToDoTaskOrdinal Property (Outlook)
 
-Returns or sets a  **Date** value that represents the ordinal value of the task for the **[MailItem](mailitem-object-outlook.md)** . Read/write.
+Returns or sets a **Date** value that represents the ordinal value of the task for the **[MailItem](mailitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Date** value that represents the ordinal value of the task 
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](mailitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](mailitem-ismarkedastask-property-outlook.md)** property is set to **False** .
 
-This property is used to indicate how the task should be ordered within the parent groups, such as the  **Today** group or the **Tomorrow** group, of the **To-Do Bar**. The value used in this property does not have any relation to the values of the  **[TaskStartDate](mailitem-taskstartdate-property-outlook.md)** , **[TaskDueDate](mailitem-taskduedate-property-outlook.md)** , or **[TaskCompletedDate](mailitem-taskcompleteddate-property-outlook.md)** properties.
+This property is used to indicate how the task should be ordered within the parent groups, such as the **Today** group or the **Tomorrow** group, of the **To-Do Bar**. The value used in this property does not have any relation to the values of the **[TaskStartDate](mailitem-taskstartdate-property-outlook.md)** , **[TaskDueDate](mailitem-taskduedate-property-outlook.md)** , or **[TaskCompletedDate](mailitem-taskcompleteddate-property-outlook.md)** properties.
 
 
 ## See also

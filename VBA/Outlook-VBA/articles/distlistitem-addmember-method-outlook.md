@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.AddMember Method (Outlook)
 
-Adds a new member to the specified distribution list. The distribution list contains  **[Recipient](recipient-object-outlook.md)** objects that represent valid e-mail addresses.
+Adds a new member to the specified distribution list. The distribution list contains **[Recipient](recipient-object-outlook.md)** objects that represent valid e-mail addresses.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Adds a new member to the specified distribution list. The distribution list cont
 
 ## Remarks
 
-Use the  **[AddMembers](distlistitem-addmembers-method-outlook.md)** method to add multiple members to a given distribution list.
+Use the **[AddMembers](distlistitem-addmembers-method-outlook.md)** method to add multiple members to a given distribution list.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **DistributionList** object and adds a recipient to it. If the specified recipient is not valid, the **AddMember** method will fail. To run this example, replace 'Dan Wilson' with a valid recipient name.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new **DistributionList** object and adds a recipient to it. If the specified recipient is not valid, the **AddMember** method will fail. To run this example, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

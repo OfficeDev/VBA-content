@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.Criteria1 Property (Excel)
 
-Returns the first filtered value for the specified column in a filtered range. Read-only  **Variant** .
+Returns the first filtered value for the specified column in a filtered range. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the first filtered value for the specified column in a filtered range. R
 
 ## Example
 
-The following example sets a variable to the value of the  **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
+The following example sets a variable to the value of the **Criteria1** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
 ```vb

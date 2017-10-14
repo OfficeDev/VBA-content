@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WorkbookRowsetComplete Event (Excel)
 
-The  **WorkbookRowsetComplete** event occurs when the user either drills through the recordset or invokes the rowset action on an OLAP PivotTable.
+The **WorkbookRowsetComplete** event occurs when the user either drills through the recordset or invokes the rowset action on an OLAP PivotTable.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.GetTable Method (Outlook)
 
-Obtains a  **[Table](table-object-outlook.md)** object that contains items filtered by _Filter_ .
+Obtains a **[Table](table-object-outlook.md)** object that contains items filtered by _Filter_ .
 
 
 ## Syntax
@@ -29,12 +29,12 @@ Obtains a  **[Table](table-object-outlook.md)** object that contains items filte
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Filter_|Optional| **String**|A filter in Microsft Jet or DAV Searching and Locating (DASL) syntax that specifies the criteria for items in the parent  **Folder** .|
-| _TableContents_|Optional| **[OlTableContents](oltablecontents-enumeration-outlook.md)**|Specifies the type of items in the folder that  **GetTable** returns. The default is **olUserItems**.|
+| _Filter_|Optional| **String**|A filter in Microsft Jet or DAV Searching and Locating (DASL) syntax that specifies the criteria for items in the parent **Folder** .|
+| _TableContents_|Optional| **[OlTableContents](oltablecontents-enumeration-outlook.md)**|Specifies the type of items in the folder that **GetTable** returns. The default is **olUserItems**.|
 
 ### Return Value
 
-A  **Table** that contains items in the parent **[Folder](folder-object-outlook.md)** that meet the criteria in _Filter_ . By default, _TableContents_ is **olUserItems** and the returned **Table** contains only the filtered items that are not hidden.
+A **Table** that contains items in the parent **[Folder](folder-object-outlook.md)** that meet the criteria in _Filter_ . By default, _TableContents_ is **olUserItems** and the returned **Table** contains only the filtered items that are not hidden.
 
 
 ## Remarks
@@ -45,12 +45,12 @@ For more information on filters, see [Filtering Items](http://msdn.microsoft.com
 
  **GetTable** returns a **Table** with the default column set for the folder type of the parent **Folder** . To modify the default column set, use the **[Add](columns-add-method-outlook.md)** , **[Remove](columns-remove-method-outlook.md)** , or **[RemoveAll](columns-removeall-method-outlook.md)** methods of the **[Columns](columns-object-outlook.md)** collection object. When _TableContents_ is **olHiddenItems** , the default column set is always the default column set for a mail folder even though the parent **Folder** might be, for example, a Contacts folder. For more information on default column sets, see[Default Properties Displayed in a Table Object](http://msdn.microsoft.com/library/649c64f3-2d1e-23f1-bf13-3368da79e62b%28Office.15%29.aspx).
 
-You can use  **[Table.Restrict](table-restrict-method-outlook.md)** to apply subsequent filters to a **Table** that is based on the **Folder** object.
+You can use **[Table.Restrict](table-restrict-method-outlook.md)** to apply subsequent filters to a **Table** that is based on the **Folder** object.
 
 
 ## Example
 
-The following code sample illustrates how to use  **Folder.GetTable** to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It then enumerates and prints the values of a couple of default properties of these items.
+The following code sample illustrates how to use **Folder.GetTable** to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It then enumerates and prints the values of a couple of default properties of these items.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TempVars.Count Property (Access)
 
-Gets the number of  **[TempVar](tempvar-object-access.md)** objects in the **[TempVars](tempvars-object-access.md)** collection. Read-only **Long**.
+Gets the number of **[TempVar](tempvar-object-access.md)** objects in the **[TempVars](tempvars-object-access.md)** collection. Read-only **Long**.
 
 
 ## Syntax

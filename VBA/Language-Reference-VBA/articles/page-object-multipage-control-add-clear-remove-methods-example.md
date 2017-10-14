@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Page Object, MultiPage Control, Add, Clear, Remove Methods Example
 
-The following example uses the  **Add**, **Clear**, and **Remove** methods to add and remove a control to a **Page** of a **MultiPage** at run time.
+The following example uses the **Add**, **Clear**, and **Remove** methods to add and remove a control to a **Page** of a **MultiPage** at run time.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- Three  **CommandButton** controls named CommandButton1 through CommandButton3.
+- Three **CommandButton** controls named CommandButton1 through CommandButton3.
     
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # COMAddIn.ProgId Property (Office)
 
-Gets the programmatic identifier (ProgID) for the specified  **COMAddIn** object. Read-only.
+Gets the programmatic identifier (ProgID) for the specified **COMAddIn** object. Read-only.
 
 
 ## Syntax

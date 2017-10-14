@@ -21,9 +21,9 @@ You can:
 
 - Change the size of the column headers by dragging its border to the right to make it larger or to the left to make it smaller.
     
-- Drag a selected variable to the  **Immediate** window or the **Watch** window.
+- Drag a selected variable to the **Immediate** window or the **Watch** window.
     
-- Close the window by clicking the Close box. If the Close box is not visible, double-click the  **Title** bar to make the Close box visible, then click it.
+- Close the window by clicking the Close box. If the Close box is not visible, double-click the **Title** bar to make the Close box visible, then click it.
     
 
 
@@ -31,7 +31,7 @@ You can:
 
  **Expression**
 
-Lists the watch expression with the  **Watch** icon,
+Lists the watch expression with the **Watch** icon,
 ![Toolbar button](images/tbr_wawd_ZA01201768.gif) on the left.
 
  **Value**
@@ -50,6 +50,6 @@ Lists the context of the watch expression.
 
 If the context of the expression isn't in [scope](vbe-glossary.md) when going to break mode, the current value isn't displayed.
 
-You can close the window by clicking the Close box. If the Close box is not visible, double-click the  **Title** bar to make the Close box visible, then click it.
+You can close the window by clicking the Close box. If the Close box is not visible, double-click the **Title** bar to make the Close box visible, then click it.
 
 

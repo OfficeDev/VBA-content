@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserPermission.Remove Method (Office)
 
-Removes the specified  **UserPermission** object from the **[Permission](permission-object-office.md)** collection of the active document.
+Removes the specified **UserPermission** object from the **[Permission](permission-object-office.md)** collection of the active document.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Removes the specified  **UserPermission** object from the **[Permission](permiss
 
 ## Remarks
 
-The  **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **Remove** method removes the user and the set of user permissions determined by the specified **UserPermission** object.
+The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **Remove** method removes the user and the set of user permissions determined by the specified **UserPermission** object.
 
 
 ## Example

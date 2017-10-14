@@ -25,7 +25,7 @@ Sets or gets the proportional font setting in the host application. Read/write.
 
 ## Remarks
 
-When you set the  **ProportionalFont** property, the host application does not check the value for validity.
+When you set the **ProportionalFont** property, the host application does not check the value for validity.
 
 
 ## Example

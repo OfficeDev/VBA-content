@@ -18,7 +18,7 @@ Represents a data table in the specified chart.
 
 ## Using the DataTable Object
 
-Use the  **DataTable** property to return a **DataTable** object. The following example adds a data table with an outline border to the embedded chart.
+Use the **DataTable** property to return a **DataTable** object. The following example adds a data table with an outline border to the embedded chart.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.Font Property (Excel)
 
-Returns a  **[Font](font-object-excel.md)** object that represents the font of the specified object.
+Returns a **[Font](font-object-excel.md)** object that represents the font of the specified object.
 
 
 ## Syntax

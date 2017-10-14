@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.ActiveMenuBar Property (Office)
 
-Gets a  **CommandBar** object that represents the active menu bar in the container application. Read-only.
+Gets a **CommandBar** object that represents the active menu bar in the container application. Read-only.
 
 
 ## 

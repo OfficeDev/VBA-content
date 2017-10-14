@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # HeaderFooter Object (Excel)
 
-Represents a single header or footer. The  **HeaderFooter** object is a member of the **HeadersFooters** collection.
+Represents a single header or footer. The **HeaderFooter** object is a member of the **HeadersFooters** collection.
 
 
 ## Remarks
 
-You can also return a single  **HeaderFooter** object by using the **HeaderFooter** property with a **Selection** object.
+You can also return a single **HeaderFooter** object by using the **HeaderFooter** property with a **Selection** object.
 
 
- **Note**  You cannot add  **HeaderFooter** objects to the **HeadersFooters** collection.
+ **Note**  You cannot add **HeaderFooter** objects to the **HeadersFooters** collection.
 
-Use the  **DifferentFirstPageHeaderFooter** property with the **PageSetup** object to specify a different first page.
+Use the **DifferentFirstPageHeaderFooter** property with the **PageSetup** object to specify a different first page.
 
 
 ## Example

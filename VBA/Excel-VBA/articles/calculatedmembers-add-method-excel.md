@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalculatedMembers.Add Method (Excel)
 
-Adds a calculated field or calculated item to a PivotTable. Returns a  **[CalculatedMember](calculatedmember-object-excel.md)** object.
+Adds a calculated field or calculated item to a PivotTable. Returns a **[CalculatedMember](calculatedmember-object-excel.md)** object.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Adds a calculated field or calculated item to a PivotTable. Returns a  **[Calcul
 
 ### Return Value
 
-A  **CalculatedMember** object that represents the new calculated field or calculated item.
+A **CalculatedMember** object that represents the new calculated field or calculated item.
 
 
 ## Remarks

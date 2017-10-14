@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CategoryCollection.Item Method (Excel)
 
-Returns a single object from the  **CategoryCollection** object.
+Returns a single object from the **CategoryCollection** object.
 
 
 ## Syntax

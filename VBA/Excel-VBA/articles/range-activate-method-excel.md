@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Activate Method (Excel)
 
-Activates a single cell, which must be inside the current selection. To select a range of cells, use the  **[Select](range-select-method-excel.md)** method.
+Activates a single cell, which must be inside the current selection. To select a range of cells, use the **[Select](range-select-method-excel.md)** method.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.MeetingStatus Property (Outlook)
 
-Returns or sets an  **[OlMeetingStatus](olmeetingstatus-enumeration-outlook.md)** constant specifying the meeting status of the appointment. Read/write.
+Returns or sets an **[OlMeetingStatus](olmeetingstatus-enumeration-outlook.md)** constant specifying the meeting status of the appointment. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets an  **[OlMeetingStatus](olmeetingstatus-enumeration-outlook.md)*
 
 ## Remarks
 
-Use this property to make a  **[MeetingItem](meetingitem-object-outlook.md)** object available for the appointment.
+Use this property to make a **[MeetingItem](meetingitem-object-outlook.md)** object available for the appointment.
 
 
 ## Example
 
-This Visual Basic for Applications example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications example uses **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
 
 
 ```vb

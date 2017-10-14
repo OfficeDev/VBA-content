@@ -30,7 +30,7 @@ Gets or sets the priority of a CommandBarButton control. A control's priority de
 
 Valid priority numbers are 0 (zero) through 7 and the default value is 3. A priority of 1 means that the control cannot be dropped from a toolbar. Other priority values are ignored.
 
-The  **Priority** property is not used by command bar controls that are menu items.
+The **Priority** property is not used by command bar controls that are menu items.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Hwnd Property (Access)
 
-You can use the  **hWnd** property to determine the handle (a unique **Long Integer** value) assigned by Microsoft Windows to the current window. Read/write **Long**.
+You can use the **hWnd** property to determine the handle (a unique **Long Integer** value) assigned by Microsoft Windows to the current window. Read/write **Long**.
 
 
 ## Syntax
@@ -25,15 +25,15 @@ You can use the  **hWnd** property to determine the handle (a unique **Long Inte
 
 ## Remarks
 
-You can use this property in Visual Basic when making calls to Windows application programming interface (API) functions or other external routines that require the  **hWnd** property as an argument. Many Windows functions require the **hWnd** property value of the current window as one of the arguments.
+You can use this property in Visual Basic when making calls to Windows application programming interface (API) functions or other external routines that require the **hWnd** property as an argument. Many Windows functions require the **hWnd** property value of the current window as one of the arguments.
 
 
- **Note**  Because the value of this property can change while a program is running, don't store the  **hWnd** property value in a public variable.
+ **Note**  Because the value of this property can change while a program is running, don't store the **hWnd** property value in a public variable.
 
 
 ## Example
 
-The following example uses the  **hWnd** property with the Windows API **IsZoomed** function to determine if a window is maximized.
+The following example uses the **hWnd** property with the Windows API **IsZoomed** function to determine if a window is maximized.
 
 
 ```vb

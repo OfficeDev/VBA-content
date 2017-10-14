@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkAxes.Horizontal Property (Excel)
 
-Returns the  **[SparkHorizontalAxis](sparkhorizontalaxis-object-excel.md)** object for the specified **[SparkAxes](sparkaxes-object-excel.md)** object. Read-only
+Returns the **[SparkHorizontalAxis](sparkhorizontalaxis-object-excel.md)** object for the specified **[SparkAxes](sparkaxes-object-excel.md)** object. Read-only
 
 
 ## Syntax

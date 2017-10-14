@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.PicturePages Property (Access)
 
-You can use the  **PicturePages** property to specify on which page or pages of a report a picture will be displayed. Read/write **Byte**.
+You can use the **PicturePages** property to specify on which page or pages of a report a picture will be displayed. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **PicturePages** property to specify on which page or pages of 
 
 ## Remarks
 
-The  **PicturePages** property uses the following settings.
+The **PicturePages** property uses the following settings.
 
 
 

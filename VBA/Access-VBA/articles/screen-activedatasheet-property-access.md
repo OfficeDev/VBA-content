@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Screen.ActiveDatasheet Property (Access)
 
-You can use the  **ActiveDatasheet** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the datasheet that has the focus. Read-only **Form** object.
+You can use the **ActiveDatasheet** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the datasheet that has the focus. Read-only **Form** object.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **ActiveDatasheet** property together with the **[Screen](scree
 
 ## Remarks
 
-The  **ActiveDatasheet** property setting contains the datasheet object that has the focus at run time.
+The **ActiveDatasheet** property setting contains the datasheet object that has the focus at run time.
 
-You can use this property to refer to an active datasheet together with one of its properties or methods. For example, the following code uses the  **ActiveDatasheet** property to reference the top row of the selection in the active datasheet.
+You can use this property to refer to an active datasheet together with one of its properties or methods. For example, the following code uses the **ActiveDatasheet** property to reference the top row of the selection in the active datasheet.
 
 
 
@@ -39,7 +39,7 @@ TopRow = Screen.ActiveDatasheet.SelTop
 
 ## Example
 
-The following example uses the  **ActiveDatasheet** property to identify the datasheet cell with the focus, or if more than one cell is selected, the location of the first row and column in the selection.
+The following example uses the **ActiveDatasheet** property to identify the datasheet cell with the focus, or if more than one cell is selected, the location of the first row and column in the selection.
 
 
 ```vb

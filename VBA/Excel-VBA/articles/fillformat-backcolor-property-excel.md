@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.BackColor Property (Excel)
 
-Returns or sets a  **[ColorFormat](colorformat-object-excel.md)** object that represents the specified fill background color.
+Returns or sets a **[ColorFormat](colorformat-object-excel.md)** object that represents the specified fill background color.
 
 
 ## Syntax

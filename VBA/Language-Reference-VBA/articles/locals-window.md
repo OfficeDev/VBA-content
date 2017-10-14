@@ -15,14 +15,14 @@ ms.date: 06/08/2017
 
 Automatically displays all of the declared variables in the current procedure and their values.
 
-When the  **Locals** window is visible, it is automatically updated every time there is a change from Run to[Break mode](vbe-glossary.md) or you navigate in the stack display.
+When the **Locals** window is visible, it is automatically updated every time there is a change from Run to[Break mode](vbe-glossary.md) or you navigate in the stack display.
 
 You can:
 
 
 - Resize the column headers by dragging the border to the right or the left.
     
-- Close the window by clicking the Close box. If the Close box is not visible, double-click the  **Title** bar to make the Close box visible, then click it.
+- Close the window by clicking the Close box. If the Close box is not visible, double-click the **Title** bar to make the Close box visible, then click it.
     
 
 
@@ -30,7 +30,7 @@ You can:
 
  **Calls Stack Button**
 
-Opens the  **Call** **Stack** dialog box which lists the procedures in the call stack.
+Opens the **Call** **Stack** dialog box which lists the procedures in the call stack.
 
  **Expression**
 

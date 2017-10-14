@@ -19,7 +19,7 @@ Represents a collection of properties describing the metadata stored in a docume
 |**Name**|**Description**|
 |:-----|:-----|
 |[GetItemByInternalName](metaproperties-getitembyinternalname-method-office.md)|Gets a property's value specifying its name as opposed to its index value.|
-|[Validate](metaproperties-validate-method-office.md)|Validates all of the properties in a  **MetaProperties** collection object according to a schema.|
+|[Validate](metaproperties-validate-method-office.md)|Validates all of the properties in a **MetaProperties** collection object according to a schema.|
 
 ## Properties
 
@@ -27,10 +27,10 @@ Represents a collection of properties describing the metadata stored in a docume
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](metaproperties-application-property-office.md)|Gets an  **Application** object that represents the container application for the **MetaProperties** object. Read-only.|
-|[Count](metaproperties-count-property-office.md)|Gets a  **Long** indicating the number of items in the **MetaProperties** collection. Read-only.|
-|[Creator](metaproperties-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **MetaProperties** object was created. Read-only.|
-|[Item](metaproperties-item-property-office.md)|Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-only.|
-|[Parent](metaproperties-parent-property-office.md)|Gets the  **Parent** object for the **MetaProperties** object. Read-only.|
-|[SchemaXml](metaproperties-schemaxml-property-office.md)|Gets the schema XML for the  **MetaProperties** object. Read-only.|
+|[Application](metaproperties-application-property-office.md)|Gets an **Application** object that represents the container application for the **MetaProperties** object. Read-only.|
+|[Count](metaproperties-count-property-office.md)|Gets a **Long** indicating the number of items in the **MetaProperties** collection. Read-only.|
+|[Creator](metaproperties-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **MetaProperties** object was created. Read-only.|
+|[Item](metaproperties-item-property-office.md)|Gets a **MetaProperty** object from the **MetaProperties** collection. Read-only.|
+|[Parent](metaproperties-parent-property-office.md)|Gets the **Parent** object for the **MetaProperties** object. Read-only.|
+|[SchemaXml](metaproperties-schemaxml-property-office.md)|Gets the schema XML for the **MetaProperties** object. Read-only.|
 

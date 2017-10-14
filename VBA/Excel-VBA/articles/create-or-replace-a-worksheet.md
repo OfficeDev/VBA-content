@@ -14,7 +14,7 @@ The following examples show how to determine if a worksheet exists, and then how
 
 ## Determining if a Worksheet Exists
 
-This example shows how to determine if a worksheet named "Sheet4" exists by using the  **[Name](worksheet-name-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object. The name of the worksheet is specified by the `mySheetName` variable.
+This example shows how to determine if a worksheet named "Sheet4" exists by using the **[Name](worksheet-name-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object. The name of the worksheet is specified by the `mySheetName` variable.
 
 
 ```vb

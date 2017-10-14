@@ -33,7 +33,7 @@ Adds a Personal Folders (.pst) file to the current profile.
 
 ## Remarks
 
-Use the  **RemoveStore** method to remove a .pst that is already added to a profile.
+Use the **RemoveStore** method to remove a .pst that is already added to a profile.
 
 
 ## Example

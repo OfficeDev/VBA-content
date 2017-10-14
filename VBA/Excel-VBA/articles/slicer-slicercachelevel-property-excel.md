@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicer.SlicerCacheLevel Property (Excel)
 
-Returns the  **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object associated with the slicer. Read-only.
+Returns the **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object associated with the slicer. Read-only.
 
 
 ## Syntax

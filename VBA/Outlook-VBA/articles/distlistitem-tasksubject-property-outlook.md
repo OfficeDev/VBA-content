@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.TaskSubject Property (Outlook)
 
-Returns or sets a  **String** value that represents the subject of the task for the **[DistListItem](distlistitem-object-outlook.md)** object. Read/write.
+Returns or sets a **String** value that represents the subject of the task for the **[DistListItem](distlistitem-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the subject of the task for 
 
 ## Remarks
 
-This property returns the value of the  **[Subject](distlistitem-subject-property-outlook.md)** property if the **[IsMarkedAsTask](distlistitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns the value of the **[Subject](distlistitem-subject-property-outlook.md)** property if the **[IsMarkedAsTask](distlistitem-ismarkedastask-property-outlook.md)** property is set to **False** .
 
 
 ## See also

@@ -29,7 +29,7 @@ Occurs after all elements in the specified PivotChart view have been rendered.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _drawObject_|Required|**Object**|A  **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
+| _drawObject_|Required|**Object**|A **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ nothing
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **AfterFinalRender** event.
+The following example demonstrates the syntax for a subroutine that traps the **AfterFinalRender** event.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.Address Property (Outlook)
 
-Returns or sets a  **String** representing the e-mail address of the **[AddressEntry](addressentry-object-outlook.md)** . Read/write.
+Returns or sets a **String** representing the e-mail address of the **[AddressEntry](addressentry-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the e-mail address of the **[AddressE
 
 ## Remarks
 
-The  **Address** property must be set before calling the **[AddressEntry.Details](addressentry-details-method-outlook.md)** method.
+The **Address** property must be set before calling the **[AddressEntry.Details](addressentry-details-method-outlook.md)** method.
 
 
 ## See also

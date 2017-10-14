@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Sensitivity Property (Outlook)
 
-Returns or sets a constant in the  **[OlSensitivity](olsensitivity-enumeration-outlook.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
+Returns or sets a constant in the **[OlSensitivity](olsensitivity-enumeration-outlook.md)** enumeration indicating the sensitivity for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a constant in the  **[OlSensitivity](olsensitivity-enumeration-o
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSensitivity** .
+This property corresponds to the MAPI property **PidTagSensitivity** .
 
 
 ## See also

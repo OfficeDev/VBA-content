@@ -18,14 +18,14 @@ ms.date: 06/08/2017
 Specifies whether the Clipboard contains data that the object supports.
  **Syntax**
  _object_. **CanPaste**
-The  **CanPaste** property syntax has these parts:
+The **CanPaste** property syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
  **Return Values**
-The  **CanPaste** property return values are:
+The **CanPaste** property return values are:
 
 
 |**Value**|**Description**|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.SizeToFit Method (Access)
 
-You can use the  **SizeToFit** method to size a control so it fits the text or image that it contains.
+You can use the **SizeToFit** method to size a control so it fits the text or image that it contains.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ You can use the  **SizeToFit** method to size a control so it fits the text or i
 
 ## Remarks
 
-For example, you can apply the  **SizeToFit** method to a command button that is too small to display all the text in its **Caption** property.
+For example, you can apply the **SizeToFit** method to a command button that is too small to display all the text in its **Caption** property.
 
-You can apply the  **SizeToFit** method to controls only in form Design view or report Design view.
+You can apply the **SizeToFit** method to controls only in form Design view or report Design view.
 
-The  **SizeToFit** method will make a control larger or smaller, depending on the size of the text or image it contains.
+The **SizeToFit** method will make a control larger or smaller, depending on the size of the text or image it contains.
 
-You can use the  **SizeToFit** method in conjunction with the **[CreateControl](application-createcontrol-method-access.md)** method to size new controls that you have created in code.
+You can use the **SizeToFit** method in conjunction with the **[CreateControl](application-createcontrol-method-access.md)** method to size new controls that you have created in code.
 
 
 ## See also

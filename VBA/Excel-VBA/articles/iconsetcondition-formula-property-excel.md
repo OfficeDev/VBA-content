@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconSetCondition.Formula Property (Excel)
 
-Returns or sets a  **String** representing a formula, which determines the values to which the icon set will be applied.
+Returns or sets a **String** representing a formula, which determines the values to which the icon set will be applied.
 
 
 ## Syntax

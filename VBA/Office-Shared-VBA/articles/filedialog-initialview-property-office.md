@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.InitialView Property (Office)
 
-Gets or sets an  **MsoFileDialogView** constant representing the initial presentation of files and folders in a file dialog box. Read/write.
+Gets or sets an **MsoFileDialogView** constant representing the initial presentation of files and folders in a file dialog box. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets an  **MsoFileDialogView** constant representing the initial present
 
 ## Example
 
-The following example displays a  **File Picker** dialog box in details view using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box in details view using the **FileDialog** object and displays each selected file in a message box.
 
 
 ```

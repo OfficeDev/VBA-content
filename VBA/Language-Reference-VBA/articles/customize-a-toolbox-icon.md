@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 1. Right-click the icon in the Toolbox.
     
-2. From the shortcut menu, choose  **Customize**.
+2. From the shortcut menu, choose **Customize**.
     
 3. Do one of the following:
     
@@ -24,9 +24,9 @@ ms.date: 06/08/2017
     
       - To change the ToolTip, enter the new text for the ToolTip.
     
-  - To edit the icon, choose  **Edit Picture**. Then choose the color you want to use and choose the pixel in the image where you want to apply that color.
+  - To edit the icon, choose **Edit Picture**. Then choose the color you want to use and choose the pixel in the image where you want to apply that color.
     
-  - To assign a new bitmap, choose  **Load Picture**. Then identify the file that contains the bitmap you want to use as the icon. If you attempt to load a picture that is larger than an icon, an error occurs.
+  - To assign a new bitmap, choose **Load Picture**. Then identify the file that contains the bitmap you want to use as the icon. If you attempt to load a picture that is larger than an icon, an error occurs.
     
 
     

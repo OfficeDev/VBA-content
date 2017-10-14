@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintColor Enumeration (Access)
 
-Used with the  **ColorMode** property to specify whether the printer should print output in color or monochrome.
+Used with the **ColorMode** property to specify whether the printer should print output in color or monochrome.
 
 
 

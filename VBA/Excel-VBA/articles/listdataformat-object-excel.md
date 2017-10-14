@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat Object (Excel)
 
-The  **ListDataFormat** object holds all the data type properties of the **[ListColumn](listcolumn-object-excel.md)** object. These properties are read-only.
+The **ListDataFormat** object holds all the data type properties of the **[ListColumn](listcolumn-object-excel.md)** object. These properties are read-only.
 
 
 ## Remarks

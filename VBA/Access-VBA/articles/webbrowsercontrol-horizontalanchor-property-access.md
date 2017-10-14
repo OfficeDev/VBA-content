@@ -25,7 +25,7 @@ Gets or sets an [AcHorizontalAnchor](achorizontalanchor-enumeration-access.md) c
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
 
 ## See also

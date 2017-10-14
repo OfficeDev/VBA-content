@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Scenarios Method (Excel)
 
-Returns an object that represents either a single scenario (a  **[Scenario](scenario-object-excel.md)** object) or a collection of scenarios (a **[Scenarios](scenarios-object-excel.md)** object) on the worksheet.
+Returns an object that represents either a single scenario (a **[Scenario](scenario-object-excel.md)** object) or a collection of scenarios (a **[Scenarios](scenarios-object-excel.md)** object) on the worksheet.
 
 
 ## Syntax

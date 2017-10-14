@@ -15,9 +15,9 @@ Not all [keywords](vbe-glossary.md) can appear at the beginning of a line of cod
 
 
 
-- You preceded a  **Sub**, **Function**, or **Property** statement with another statement on the same line. A **Sub**, **Function**, or **Property** statement must always be the first statement on any line in which it appears (unless preceded by the keyword **Public**, **Private**, or **Static** ).
+- You preceded a **Sub**, **Function**, or **Property** statement with another statement on the same line. A **Sub**, **Function**, or **Property** statement must always be the first statement on any line in which it appears (unless preceded by the keyword **Public**, **Private**, or **Static** ).
     
-- You preceded an  **End If**, **Else**, or **ElseIf** statement with another statement on the same line. An **End If**, **Else**, or **ElseIf** (only when used in a block **If** structure) statement must always be the first statement on any line in which it appears.
+- You preceded an **End If**, **Else**, or **ElseIf** statement with another statement on the same line. An **End If**, **Else**, or **ElseIf** (only when used in a block **If** structure) statement must always be the first statement on any line in which it appears.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

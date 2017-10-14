@@ -8,43 +8,43 @@ ms.date: 06/08/2017
 
 # Extra Members for Outlook Controls
 
-Outlook controls have access to a set of members that belong to the Microsoft Forms 2.0  **Control** interface. These members include the following properties:
+Outlook controls have access to a set of members that belong to the Microsoft Forms 2.0 **Control** interface. These members include the following properties:
 
 
--  ** [ControlTipText](controltiptext-property-outlook-controls.md)**
+- ** [ControlTipText](controltiptext-property-outlook-controls.md)**
     
--  ** [Height](height-property-outlook-controls.md)**
+- ** [Height](height-property-outlook-controls.md)**
     
--  ** [Left](left-property-outlook-controls.md)**
+- ** [Left](left-property-outlook-controls.md)**
     
--  ** [Name](name-property-outlook-controls.md)**
+- ** [Name](name-property-outlook-controls.md)**
     
--  ** [TabIndex](tabindex-property-outlook-controls.md)**
+- ** [TabIndex](tabindex-property-outlook-controls.md)**
     
--  ** [TabStop](tabstop-property-outlook-controls.md)**
+- ** [TabStop](tabstop-property-outlook-controls.md)**
     
--  ** [Tag](tag-property-outlook-controls.md)**
+- ** [Tag](tag-property-outlook-controls.md)**
     
--  ** [Top](top-property-outlook-controls.md)**
+- ** [Top](top-property-outlook-controls.md)**
     
--  ** [Visible](visible-property-outlook-controls.md)**
+- ** [Visible](visible-property-outlook-controls.md)**
     
--  ** [Width](width-property-outlook-controls.md)**
+- ** [Width](width-property-outlook-controls.md)**
     
 
 
 
 And the following methods:
 
--  ** [Move](move-method-outlook-controls.md)**
+- ** [Move](move-method-outlook-controls.md)**
     
--  ** [SetFocus](setfocus-method-outlook-controls.md)**
+- ** [SetFocus](setfocus-method-outlook-controls.md)**
     
--  ** [ZOrder](zorder-method-outlook-controls.md)**
+- ** [ZOrder](zorder-method-outlook-controls.md)**
     
 
 Because these members are not part of the Outlook object model, they are not displayed in the object browser and are not supported by intellisense. However, you can search for specific help topics for these members in the Outlook Developer Help.
-To access these members, you can directly reference the member, as in the following example, an  **[OlkTextBox](olktextbox-object-outlook.md)** control, `TextBoxControl`, accesses the  **ControlTipText** property directly with the following line of code.
+To access these members, you can directly reference the member, as in the following example, an **[OlkTextBox](olktextbox-object-outlook.md)** control, `TextBoxControl`, accesses the **ControlTipText** property directly with the following line of code.
 
 
 

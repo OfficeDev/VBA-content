@@ -20,9 +20,9 @@ Represents a single action for a smart tag.
 
 Smart tag actions are processes that are programmed into smart tags that allow users to perform certain functions related to the smart tag. For example, one action for a smart tag might be to access a Web site, while another action inserts contact information from Microsoft Outlook, while yet another action displays a map and driving directions.
 
-To perform an action represented by a  **SmartTagAction** object, use the **Execute** method.
+To perform an action represented by a **SmartTagAction** object, use the **Execute** method.
 
-To return the parent control of the  **[SmartTag](smarttag-object-access.md)** object, use the **Parent** property.
+To return the parent control of the **[SmartTag](smarttag-object-access.md)** object, use the **Parent** property.
 
 
 ## Methods

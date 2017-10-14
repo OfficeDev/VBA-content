@@ -43,7 +43,7 @@ nothing
 
 This includes Microsoft Access database engine errors, but not run-time errors in Visual Basic or errors from ADO.
 
-To run a macro or event procedure when this event occurs, set the  **OnError** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **OnError** property to the name of the macro or to [Event Procedure].
 
 By running an event procedure or a macro when an Error event occurs, you can intercept a Microsoft Access error message and display a custom message that conveys a more specific meaning for your application.
 

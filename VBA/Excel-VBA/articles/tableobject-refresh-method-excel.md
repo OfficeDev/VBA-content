@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.Refresh Method (Excel)
 
-This method updates the  **TableObject** object.
+This method updates the **TableObject** object.
 
 
 ## Syntax

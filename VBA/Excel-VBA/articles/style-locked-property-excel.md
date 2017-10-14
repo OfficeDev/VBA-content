@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Locked Property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if the object is locked.
+Returns or sets a **Boolean** value that indicates if the object is locked.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates if the object is locked.
 
 ## Remarks
 
-This property returns  **True** if the object is locked or **False** if the object can be modified when the sheet is protected.
+This property returns **True** if the object is locked or **False** if the object can be modified when the sheet is protected.
 
 
 ## See also

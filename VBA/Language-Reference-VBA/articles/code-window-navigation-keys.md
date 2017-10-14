@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Code Window Navigation Keys
 
-Use these key combinations to navigate in the  **Code** window:
+Use these key combinations to navigate in the **Code** window:
 
 
 
@@ -32,5 +32,5 @@ Use these key combinations to navigate in the  **Code** window:
 |HOME|Go to the beginning of the line.|
 |CTRL+PAGE DOWN|Go to the bottom of the current procedure.|
 |CTRL+PAGE UP|Go to the top of the current procedure.|
-|F6|Switch between  **Code** window panes (when the window is split).|
+|F6|Switch between **Code** window panes (when the window is split).|
 

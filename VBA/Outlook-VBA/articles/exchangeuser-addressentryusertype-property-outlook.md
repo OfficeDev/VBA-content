@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.AddressEntryUserType Property (Outlook)
 
-Returns  **olExchangeUserAddressEntry** which is a constant from the **[OlAddressEntryUserType](oladdressentryusertype-enumeration-outlook.md)** enumeration representing the user type of the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read-only.
+Returns **olExchangeUserAddressEntry** which is a constant from the **[OlAddressEntryUserType](oladdressentryusertype-enumeration-outlook.md)** enumeration representing the user type of the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **olExchangeUserAddressEntry** which is a constant from the **[OlAddres
 
 ## Remarks
 
-The  **ExchangeUser** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeUser** , **AddressEntryUserType** should always return **olExchangeUserAddressEntry** .
+The **ExchangeUser** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **AddressEntryUserType** property from the **AddressEntry** object. In the case of **ExchangeUser** , **AddressEntryUserType** should always return **olExchangeUserAddressEntry** .
 
 
 ## See also

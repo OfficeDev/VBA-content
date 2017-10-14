@@ -21,7 +21,7 @@ This error has the following causes and solutions:
     
     Reduce the length specified for the fixed-length string.
     
-     **Note**  Variable-length strings can exceed the upper limit and can have zero length.
+    **Note**  Variable-length strings can exceed the upper limit and can have zero length.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

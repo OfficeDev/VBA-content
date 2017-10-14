@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalculatedItems.Add Method (Excel)
 
-Creates a new calculated item. Returns a  **[PivotItem](pivotitem-object-excel.md)** object.
+Creates a new calculated item. Returns a **[PivotItem](pivotitem-object-excel.md)** object.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Creates a new calculated item. Returns a  **[PivotItem](pivotitem-object-excel.m
 
 ### Return Value
 
-A  **PivotItem** object that represents the new calculated item.
+A **PivotItem** object that represents the new calculated item.
 
 
 ## See also

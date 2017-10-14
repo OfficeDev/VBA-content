@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Category.ShortcutKey Property (Outlook)
 
-Returns or sets an  **[OlCategoryShortcutKey](olcategoryshortcutkey-enumeration-outlook.md)** constant that specifies the shortcut key used by the **[Category](category-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlCategoryShortcutKey](olcategoryshortcutkey-enumeration-outlook.md)** constant that specifies the shortcut key used by the **[Category](category-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets an  **[OlCategoryShortcutKey](olcategoryshortcutkey-enumeration-
 
 ## Remarks
 
-Any  **OlCategoryShortcutKey** constant other than **olCategoryShortcutKeyNone** can only be used by one **Category** object at any given time. Setting the value of this property to an **OlCategoryShortcutKey** constant already in use sets the **ShortcutKey** property of the **Category** object already using the specified value to **olCategoryShortcutKeyNone** .
+Any **OlCategoryShortcutKey** constant other than **olCategoryShortcutKeyNone** can only be used by one **Category** object at any given time. Setting the value of this property to an **OlCategoryShortcutKey** constant already in use sets the **ShortcutKey** property of the **Category** object already using the specified value to **olCategoryShortcutKeyNone** .
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing shortcut key assignments for each  **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing shortcut key assignments for each **Category** object contained in the **[Categories](namespace-categories-property-outlook.md)** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
 
 
 ```vb

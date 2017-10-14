@@ -25,9 +25,9 @@ Quits Microsoft Excel.
 
 ## Remarks
 
-If unsaved workbooks are open when you use this method, Microsoft Excel displays a dialog box asking whether you want to save the changes. You can prevent this by saving all workbooks before using the  **Quit** method or by setting the **[DisplayAlerts](application-displayalerts-property-excel.md)** property to **False** . When this property is **False** , Microsoft Excel doesn't display the dialog box when you quit with unsaved workbooks; it quits without saving them.
+If unsaved workbooks are open when you use this method, Microsoft Excel displays a dialog box asking whether you want to save the changes. You can prevent this by saving all workbooks before using the **Quit** method or by setting the **[DisplayAlerts](application-displayalerts-property-excel.md)** property to **False** . When this property is **False** , Microsoft Excel doesn't display the dialog box when you quit with unsaved workbooks; it quits without saving them.
 
-If you set the  **[Saved](workbook-saved-property-excel.md)** property for a workbook to **True** without saving the workbook to the disk, Microsoft Excel will quit without asking you to save the workbook.
+If you set the **[Saved](workbook-saved-property-excel.md)** property for a workbook to **True** without saving the workbook to the disk, Microsoft Excel will quit without asking you to save the workbook.
 
 
 ## Example

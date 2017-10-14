@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to set or change a schema property. When you create a new schema property, specify  **True** as the fourth argument to the **CreateProperty** method in order to set or delete this property.
+You tried to set or change a schema property. When you create a new schema property, specify **True** as the fourth argument to the **CreateProperty** method in order to set or delete this property.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

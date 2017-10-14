@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Copy, GetFromClipboard, GetText Methods, DataObject Object Example
 
-The following example demonstrates data movement from a  **TextBox** to the Clipboard, from the Clipboard to a **DataObject**, and from a **DataObject** into another **TextBox**. The **GetFromClipboard** method transfers the data from the Clipboard to a **DataObject**. The **Copy** and **GetText** methods are also used.
+The following example demonstrates data movement from a **TextBox** to the Clipboard, from the Clipboard to a **DataObject**, and from a **DataObject** into another **TextBox**. The **GetFromClipboard** method transfers the data from the Clipboard to a **DataObject**. The **Copy** and **GetText** methods are also used.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 
 

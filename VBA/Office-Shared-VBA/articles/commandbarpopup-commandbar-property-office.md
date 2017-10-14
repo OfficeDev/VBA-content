@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.CommandBar Property (Office)
 
-Gets a  **CommandBar** object that represents the menu displayed by the specified pop-up control. Read-only.
+Gets a **CommandBar** object that represents the menu displayed by the specified pop-up control. Read-only.
 
 
 ## 

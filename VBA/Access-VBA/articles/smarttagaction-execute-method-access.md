@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SmartTagAction.Execute Method (Access)
 
-The  **Execute** method performs the specified smart tag action.
+The **Execute** method performs the specified smart tag action.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ The  **Execute** method performs the specified smart tag action.
 
 Smart tag actions are processes that are programmed into smart tags that allow users to perform certain functions related to the smart tag. For example, one action for a smart tag might be to access a Web site, while another action inserts contact information from Microsoft Outlook, while yet another action displays a map and driving directions.
 
-Calling the  **Execute** method will result in a run-time error if the smart tag is:
+Calling the **Execute** method will result in a run-time error if the smart tag is:
 
 
 - Located on a report.

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.Execute Method (Office)
 
-Carries out a user's action right after the  **Show** method is invoked.
+Carries out a user's action right after the **Show** method is invoked.
 
 
 ## Syntax

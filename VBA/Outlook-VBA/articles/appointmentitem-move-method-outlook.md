@@ -33,7 +33,7 @@ Moves a Microsoft Outlook item to a new folder.
 
 ### Return Value
 
-An  **Object** value that represents the item which has been moved to the designated folder.
+An **Object** value that represents the item which has been moved to the designated folder.
 
 
 ## See also

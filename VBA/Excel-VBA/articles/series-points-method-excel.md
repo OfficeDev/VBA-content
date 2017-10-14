@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Points Method (Excel)
 
-Returns an object that represents a single point (a  **[Point](point-object-excel.md)** object) or a collection of all the points (a **[Points](points-object-excel.md)** collection) in the series. Read-only
+Returns an object that represents a single point (a **[Point](point-object-excel.md)** object) or a collection of all the points (a **[Points](points-object-excel.md)** collection) in the series. Read-only
 
 
 ## Syntax

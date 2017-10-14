@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Get <keyword>
 
-The  **Get** keyword is used in these contexts:
+The **Get** keyword is used in these contexts:
 
 [Get Statement](get-statement.md)
 

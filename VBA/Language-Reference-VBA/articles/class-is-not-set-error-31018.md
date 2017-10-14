@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 If you don't specify a source document ( **SourceDoc** property) when setting **Action** = 0 ( **CreateEmbed** method), the **Class** property must be set to the name of a[class](vbe-glossary.md) available on your system.
 
-To display a list of the available class names at [design time](vbe-glossary.md), right-click the  **OLE** container control and choose the **Insert Object** command.
+To display a list of the available class names at [design time](vbe-glossary.md), right-click the **OLE** container control and choose the **Insert Object** command.
 

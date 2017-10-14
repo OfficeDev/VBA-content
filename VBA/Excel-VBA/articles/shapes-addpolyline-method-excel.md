@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddPolyline Method (Excel)
 
-Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](shape-object-excel.md)** object that represents the new polyline or polygon.
+Creates an open polyline or a closed polygon drawing. Returns a **[Shape](shape-object-excel.md)** object that represents the new polyline or polygon.
 
 
 ## Syntax

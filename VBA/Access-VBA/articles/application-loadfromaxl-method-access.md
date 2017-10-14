@@ -35,7 +35,7 @@ Imports the object defined in an Application XML (AXL) file into the database.
 
 ## Remarks
 
-The  **LoadFromAXL** method does not provide a warning when the object specified in the _ObjectName_ argument already exists. If an object of the same name already exists, it will be replaced by the object specified in the _ObjectName_ argument.
+The **LoadFromAXL** method does not provide a warning when the object specified in the _ObjectName_ argument already exists. If an object of the same name already exists, it will be replaced by the object specified in the _ObjectName_ argument.
 
 For more information about AXL, see [[MS-AXL]: Access Application Transfer Protocol Structure Specification](http://msdn.microsoft.com/en-us/library/dd927584.aspx).
 

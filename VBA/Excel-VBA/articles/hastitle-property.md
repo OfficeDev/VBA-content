@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-An axis title is represented by an  **[AxisTitle](axistitle-object.md)** object.
+An axis title is represented by an **[AxisTitle](axistitle-object.md)** object.
 
-A chart title is represented by a  **[ChartTitle](charttitle-object.md)** object.
+A chart title is represented by a **[ChartTitle](charttitle-object.md)** object.
 
 
 ## Example

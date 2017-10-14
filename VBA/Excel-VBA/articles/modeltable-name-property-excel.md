@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTable.Name Property (Excel)
 
-Returns a  **String** value that represents the name of the object.
+Returns a **String** value that represents the name of the object.
 
 
 ## Syntax

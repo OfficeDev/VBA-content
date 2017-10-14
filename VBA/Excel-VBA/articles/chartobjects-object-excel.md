@@ -13,37 +13,37 @@ ms.date: 06/08/2017
 
 # ChartObjects Object (Excel)
 
-A collection of all the  **[ChartObject](chartobject-object-excel.md)** objects on the specified chart sheet, dialog sheet, or worksheet.
+A collection of all the **[ChartObject](chartobject-object-excel.md)** objects on the specified chart sheet, dialog sheet, or worksheet.
 
 
 ## Remarks
 
-Each  **ChartObject** object represents an embedded chart. The **ChartObject** object acts as a container for a **[Chart](chart-object-excel.md)** object. Properties and methods for the **ChartObject** object control the appearance and size of the embedded chart on the sheet. **ChartObjects** collection
+Each **ChartObject** object represents an embedded chart. The **ChartObject** object acts as a container for a **[Chart](chart-object-excel.md)** object. Properties and methods for the **ChartObject** object control the appearance and size of the embedded chart on the sheet. **ChartObjects** collection
 
 
 ## Example
 
-Use the  **[ChartObjects](worksheet-chartobjects-method-excel.md)** method to return the **ChartObjects** collection. The following example deletes all the embedded charts on the worksheet named "Sheet1."
+Use the **[ChartObjects](worksheet-chartobjects-method-excel.md)** method to return the **ChartObjects** collection. The following example deletes all the embedded charts on the worksheet named "Sheet1."
 
 
 ```
 Worksheets("sheet1").ChartObjects.Delete
 ```
 
-You cannot use the  **ChartObjects** collection to call the following properties and methods:
+You cannot use the **ChartObjects** collection to call the following properties and methods:
 
 
--  **Locked** property
+- **Locked** property
     
--  **Placement** property
+- **Placement** property
     
--  **PrintObject** property
+- **PrintObject** property
     
 
 
-Unlike in previous version, the  **ChartObjects** collection can now read the properties for height, width, left and top.
+Unlike in previous version, the **ChartObjects** collection can now read the properties for height, width, left and top.
 
-Use the  **[Add](chartobjects-add-method-excel.md)** method to create a new, empty embedded chart and add it to the collection. Use the **[ChartWizard](chart-chartwizard-method-excel.md)** method to add data and format the new chart. The following example creates a new embedded chart and then adds the data from cells A1:A20 as a line chart.
+Use the **[Add](chartobjects-add-method-excel.md)** method to create a new, empty embedded chart and add it to the collection. Use the **[ChartWizard](chart-chartwizard-method-excel.md)** method to add data and format the new chart. The following example creates a new embedded chart and then adds the data from cells A1:A20 as a line chart.
 
 
 
@@ -55,7 +55,7 @@ ch.Chart.ChartWizard source:=Worksheets("sheet1").Range("a1:a20"), _
  gallery:=xlLine, title:="New Chart"
 ```
 
-Use  **ChartObjects** ( _index_ ), where _index_ is the embedded chart index number or name, to return a single object. The following example sets the pattern for the chart area in embedded Chart 1 on the worksheet named "Sheet1."
+Use **ChartObjects** ( _index_ ), where _index_ is the embedded chart index number or name, to return a single object. The following example sets the pattern for the chart area in embedded Chart 1 on the worksheet named "Sheet1."
 
 
 

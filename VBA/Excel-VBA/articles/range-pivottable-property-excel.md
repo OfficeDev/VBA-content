@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PivotTable Property (Excel)
 
-Returns a  **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable report containing the upper-left corner of the specified range.
+Returns a **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable report containing the upper-left corner of the specified range.
 
 
 ## Syntax

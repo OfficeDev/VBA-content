@@ -19,7 +19,7 @@ Saves changes to the graph in a different file.
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
- **FileName**Required  **String**. A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.
+ **FileName**Required **String**. A string that indicates the name of the file to be saved. You can include a full path; if you don't, Microsoft Excel saves the file in the current folder.
 
 ## Example
 

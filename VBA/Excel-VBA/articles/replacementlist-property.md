@@ -23,7 +23,7 @@ Returns the array of AutoCorrect replacements.
 
 ## Remarks
 
-Use the  **[AddReplacement](addreplacement-method.md)** method to add an entry to the replacement list.
+Use the **[AddReplacement](addreplacement-method.md)** method to add an entry to the replacement list.
 
 
 ## Example

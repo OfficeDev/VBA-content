@@ -16,7 +16,7 @@ Represent a table in the Data Model.
 
 ## Remarks
 
-The  **ModelTable** object will be read only (cannot be created or edited programmatically). There will be a **ModelTable** object for every table in the model.
+The **ModelTable** object will be read only (cannot be created or edited programmatically). There will be a **ModelTable** object for every table in the model.
 
 
 ## Methods

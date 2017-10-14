@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.FormControlType Property (Excel)
 
-Returns the Microsoft Excel control type. Read-only  **[XlFormControl](xlformcontrol-enumeration-excel.md)** .
+Returns the Microsoft Excel control type. Read-only **[XlFormControl](xlformcontrol-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the Microsoft Excel control type. Read-only  **[XlFormControl](xlformcon
 
 ## Remarks
 
-You cannot use this property with ActiveX controls (the  **[Type](shape-type-property-excel.md)** property for the **[Shape](shape-object-excel.md)** object must return **msoFormControl** ).
+You cannot use this property with ActiveX controls (the **[Type](shape-type-property-excel.md)** property for the **[Shape](shape-object-excel.md)** object must return **msoFormControl** ).
 
 
 ## Example

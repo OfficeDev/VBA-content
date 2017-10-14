@@ -31,7 +31,7 @@ m_sConnStr = "Provider='SQLOLEDB';Data Source='MySqlServer';" &; _
 ```
 
 The only ADO parameter supplied in this connection string was "Provider=SQLOLEDB", which indicated the Microsoft OLE DB Provider for SQL Server. Other valid parameters that can be passed in the connection string can be determined by referring to individual providers' documentation.
-To open the connection, simply pass the connection string as the first argument in the  **Connection** object's **Open** method:
+To open the connection, simply pass the connection string as the first argument in the **Connection** object's **Open** method:
 
 
 
@@ -39,7 +39,7 @@ To open the connection, simply pass the connection string as the first argument 
 objConn.Open m_sConnStr
 ```
 
-It is also possible to supply much of this information by setting properties of the  **Connection** object before opening the connection. For example, you could achieve the same effect as the connection string above by using the following code:
+It is also possible to supply much of this information by setting properties of the **Connection** object before opening the connection. For example, you could achieve the same effect as the connection string above by using the following code:
 
 
 

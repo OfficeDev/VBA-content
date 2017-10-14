@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.RefreshDate Property (Excel)
 
-Returns the date on which the PivotTable report was last refreshed. Read-only  **Date** .
+Returns the date on which the PivotTable report was last refreshed. Read-only **Date** .
 
 
 ## Syntax

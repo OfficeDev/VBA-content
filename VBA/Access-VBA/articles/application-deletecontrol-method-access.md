@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DeleteControl Method (Access)
 
-The  **DeleteControl** method deletes a specified control from a form.
+The **DeleteControl** method deletes a specified control from a form.
 
 
 ## Syntax
@@ -39,9 +39,9 @@ Nothing
 
 ## Remarks
 
-For example, suppose you have a procedure that must be run the first time each user logs onto your database. You can set the  **OnClick** property of a button on the form to this procedure. Once the user has logged on and run the procedure, you can use the **DeleteControl** method to dynamically remove the command button from the form.
+For example, suppose you have a procedure that must be run the first time each user logs onto your database. You can set the **OnClick** property of a button on the form to this procedure. Once the user has logged on and run the procedure, you can use the **DeleteControl** method to dynamically remove the command button from the form.
 
-The  **DeleteControl** method is available only in form Design view or report Design view, respectively.
+The **DeleteControl** method is available only in form Design view or report Design view, respectively.
 
 
  **Note**  If you are building a wizard that deletes a control from a form or report, your wizard must open the form or report in Design view before it can delete the control.

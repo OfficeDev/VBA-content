@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Charts.Visible Property (Excel)
 
-Returns or sets a  **Variant** value that determines whether the object is visible.
+Returns or sets a **Variant** value that determines whether the object is visible.
 
 
 ## Syntax

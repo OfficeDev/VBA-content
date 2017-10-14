@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.AutoUpdateFrequency Property (Excel)
 
-Returns or sets the number of minutes between automatic updates to the shared workbook. Read/write  **Long** .
+Returns or sets the number of minutes between automatic updates to the shared workbook. Read/write **Long** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the number of minutes between automatic updates to the shared wo
 
 ## Remarks
 
-The  **AutoUpdateFrequency** property must be set to a value from 5 to 1440 for this property to take effect.
+The **AutoUpdateFrequency** property must be set to a value from 5 to 1440 for this property to take effect.
 
 
 ## Example
 
-This example causes the  **shared workbook** to be automatically updated every five minutes.
+This example causes the **shared workbook** to be automatically updated every five minutes.
 
 
 ```vb

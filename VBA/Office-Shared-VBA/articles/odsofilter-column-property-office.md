@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOFilter.Column Property (Office)
 
-Gets or sets a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
+Gets or sets a **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
 
 
 ## Syntax

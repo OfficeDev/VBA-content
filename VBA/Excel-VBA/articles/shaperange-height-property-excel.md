@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Height Property (Excel)
 
-Returns or sets a  **Single** value that represents the height, in points, of the object.
+Returns or sets a **Single** value that represents the height, in points, of the object.
 
 
 ## Syntax

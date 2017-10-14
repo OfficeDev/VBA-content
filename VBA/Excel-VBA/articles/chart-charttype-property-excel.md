@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartType Property (Excel)
 
-Returns or sets the chart type. Read/write  **[XlChartType](xlcharttype-enumeration-excel.md)** .
+Returns or sets the chart type. Read/write **[XlChartType](xlcharttype-enumeration-excel.md)** .
 
 
 ## Syntax

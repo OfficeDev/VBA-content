@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Application Object
 
-Represents the entire Microsoft Graph application. The  **Application** object represents the top level of the object hierarchy and contains all of the objects, properties, and methods for the application.
+Represents the entire Microsoft Graph application. The **Application** object represents the top level of the object hierarchy and contains all of the objects, properties, and methods for the application.
 
 
 ## Using the Application Object
 
-Use the  **Application** property to return the **Application** object. The following example applies the **DataSheet** property to the **Application** object.
+Use the **Application** property to return the **Application** object. The following example applies the **DataSheet** property to the **Application** object.
 
 
 ```

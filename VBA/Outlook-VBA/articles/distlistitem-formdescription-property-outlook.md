@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.FormDescription Property (Outlook)
 
-Returns the  **[FormDescription](formdescription-object-outlook.md)** object that represents the form description for the specified Outlook item. Read-only.
+Returns the **[FormDescription](formdescription-object-outlook.md)** object that represents the form description for the specified Outlook item. Read-only.
 
 
 ## Syntax

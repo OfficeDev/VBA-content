@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Comment Property (Excel)
 
-Returns or sets the comment associated with the list object. Read/write  **String** .
+Returns or sets the comment associated with the list object. Read/write **String** .
 
 
 ## Syntax

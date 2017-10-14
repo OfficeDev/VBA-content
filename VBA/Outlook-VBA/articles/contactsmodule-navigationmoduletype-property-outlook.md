@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactsModule.NavigationModuleType Property (Outlook)
 
-Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an **[olNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outloo
 
 ## Remarks
 
-This property returns  **olModuleContacts** for the **[ContactsModule](contactsmodule-object-outlook.md)** object.
+This property returns **olModuleContacts** for the **[ContactsModule](contactsmodule-object-outlook.md)** object.
 
 
 ## See also

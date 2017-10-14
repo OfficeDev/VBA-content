@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.MoveSize Method (Access)
 
-The  **MoveSize** method carries out the MoveSize action in Visual Basic.
+The **MoveSize** method carries out the MoveSize action in Visual Basic.
 
 
 ## Syntax
@@ -36,11 +36,11 @@ The  **MoveSize** method carries out the MoveSize action in Visual Basic.
 
 ## Remarks
 
-You can use the  **MoveSize** method to move or resize the active window.
+You can use the **MoveSize** method to move or resize the active window.
 
 The units for the arguments are twips.
 
-You must include at least one argument for the  **MoveSize** method. If you leave an argument blank, the current setting for the window is used.
+You must include at least one argument for the **MoveSize** method. If you leave an argument blank, the current setting for the window is used.
 
 
 ## Example

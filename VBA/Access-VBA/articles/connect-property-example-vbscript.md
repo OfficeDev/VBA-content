@@ -29,8 +29,8 @@ This code shows how to set the [Connect](http://msdn.microsoft.com/library/11aa3
 
 ```
 
-The following example shows how to set the  **Connect** property at run time in VBScript code.
-To test this example, copy and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **ConnectVBS.asp**. ASP script will identify your server.
+The following example shows how to set the **Connect** property at run time in VBScript code.
+To test this example, copy and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **ConnectVBS.asp**. ASP script will identify your server.
 
 
 

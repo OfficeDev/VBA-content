@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.Orientation Property (Excel)
 
-Returns a value that represents the text orientation of the associated  **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
+Returns a value that represents the text orientation of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax

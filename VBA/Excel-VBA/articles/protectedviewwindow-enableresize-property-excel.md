@@ -30,7 +30,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-The following code example sets the active  **Protected View** window so that it cannot be resized.
+The following code example sets the active **Protected View** window so that it cannot be resized.
 
 
 ```vb

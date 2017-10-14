@@ -30,7 +30,7 @@ Returns or sets the descriptive (alternative) text string for the specified tabl
 
 ## Remarks
 
-The value of the  **AlternativeText** property corresponds to the setting of the **Title** box in the **Alternative Text** dialog box, which is displayed by right-clicking a table, pointing to **Table**, and then clicking  **Alternative Text**.
+The value of the **AlternativeText** property corresponds to the setting of the **Title** box in the **Alternative Text** dialog box, which is displayed by right-clicking a table, pointing to **Table**, and then clicking **Alternative Text**.
 
 
 ## See also

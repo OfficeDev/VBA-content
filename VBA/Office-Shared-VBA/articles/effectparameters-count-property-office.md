@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # EffectParameters.Count Property (Office)
 
-Retrieves the count of the number of  **EffectParameter** objects contained within the **EffectParameters** collection. Read-only
+Retrieves the count of the number of **EffectParameter** objects contained within the **EffectParameters** collection. Read-only
 
 
 ## Syntax

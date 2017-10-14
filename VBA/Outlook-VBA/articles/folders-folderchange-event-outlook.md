@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folders.FolderChange Event (Outlook)
 
-Occurs when a folder in the specified  **[Folders](folders-object-outlook.md)** collection is changed.
+Occurs when a folder in the specified **[Folders](folders-object-outlook.md)** collection is changed.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Occurs when a folder in the specified  **[Folders](folders-object-outlook.md)** 
 
 ## Remarks
 
-The  **FolderChange** event fires when a folder in a **Folders** collection object is changed, either through user action or program code. The change can be a user or program code renaming the folder, or adding, changing, or removing an item in the folder. This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
+The **FolderChange** event fires when a folder in a **Folders** collection object is changed, either through user action or program code. The change can be a user or program code renaming the folder, or adding, changing, or removing an item in the folder. This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example prompts the user to remove a folder from the  **Deleted Items** folder if the folder is empty. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example prompts the user to remove a folder from the **Deleted Items** folder if the folder is empty. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

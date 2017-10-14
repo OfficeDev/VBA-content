@@ -18,7 +18,7 @@ Provides access to functionality that lets you send documents as e-mail messages
 
 ## Remarks
 
-Use the  **MailEnvelope** property of the **Document** object, **Chart** object or **Worksheet** object (depending on the application you are using) to return a **MsoEnvelope** object.
+Use the **MailEnvelope** property of the **Document** object, **Chart** object or **Worksheet** object (depending on the application you are using) to return a **MsoEnvelope** object.
 
 
 ## Example

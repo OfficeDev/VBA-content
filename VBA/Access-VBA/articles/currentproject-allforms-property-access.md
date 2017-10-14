@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.AllForms Property (Access)
 
-You can use the  **AllForms** property to reference the **[AllForms](allforms-object-access.md)** collection and its related properties. Read-only **AllForms** object.
+You can use the **AllForms** property to reference the **[AllForms](allforms-object-access.md)** collection and its related properties. Read-only **AllForms** object.
 
 
 ## Syntax

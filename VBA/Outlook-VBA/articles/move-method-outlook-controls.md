@@ -16,7 +16,7 @@ Moves a control to the specified location.
 
 ## Syntax
 
- _expression_. **Move**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Layout_**)
+ _expression_. **Move**( **_Left_**, **_Top_**, **_Width_**, **_Height_**, **_Layout_**)
 
  _expression_A variable that represents an Outlook control object.
 
@@ -31,7 +31,7 @@ Moves a control to the specified location.
 |Top|Optional| **Variant**|Single-precision value, in points, that specifies the vertical coordinate for the top edge of the object.|
 |Width|Optional| **Variant**|Single-precision value, in points, indicating the width of the object.|
 |Height|Optional| **Variant**|Single-precision value, in points, indicating the height of the object.|
-|Layout|Optional| **Variant**|A Boolean value indicating whether the  **Layout** event is initiated for the control's parent following this move. **False** is the default value.|
+|Layout|Optional| **Variant**|A Boolean value indicating whether the **Layout** event is initiated for the control's parent following this move. **False** is the default value.|
 
 ## Remarks
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Trendline Object
 
-Represents a trendline in the specified chart. A trendline shows the trend, or direction, of data in a series. The  **Trendline** object is a member of the **[Trendlines](trendlines-collection-excel.md)** collection, which contains all the  **Trendline** objects for a single series.
+Represents a trendline in the specified chart. A trendline shows the trend, or direction, of data in a series. The **Trendline** object is a member of the **[Trendlines](trendlines-collection-excel.md)** collection, which contains all the **Trendline** objects for a single series.
 
 
 ## Using the Trendline Object
 
-Use  **Trendlines**( _index_), where  _index_ is the trendline's index number, to return a single **Trendline** object. The following example changes the trendline type for series one in the chart. If the series has no trendline, this example will fail.
+Use **Trendlines**( _index_), where  _index_ is the trendline's index number, to return a single **Trendline** object. The following example changes the trendline type for series one in the chart. If the series has no trendline, this example will fail.
 
 
 ```

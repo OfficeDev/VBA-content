@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PasswordEncryptionProvider Property (Excel)
 
-Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Excel uses when encrypting passwords for the specified workbook. Read-only.
+Returns a **String** specifying the name of the algorithm encryption provider that Microsoft Excel uses when encrypting passwords for the specified workbook. Read-only.
 
 
 ## Syntax

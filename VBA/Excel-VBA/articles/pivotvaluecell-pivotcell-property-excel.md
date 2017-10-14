@@ -23,7 +23,7 @@ Returns the [PivotCell Object (Excel)](pivotcell-object-excel.md) that specifies
 
 ## Example
 
-The following code sample uses the  **PivotCell** property to get the Multi-dimensional Expressions (MDX) expression for the specified cell.
+The following code sample uses the **PivotCell** property to get the Multi-dimensional Expressions (MDX) expression for the specified cell.
 
 
 ```vb

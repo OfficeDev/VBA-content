@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To save a workbook as a shared list, use the  **SaveAs** method. To switch the workbook from shared mode to exclusive mode, use the **ExclusiveAccess** method.
+To save a workbook as a shared list, use the **SaveAs** method. To switch the workbook from shared mode to exclusive mode, use the **ExclusiveAccess** method.
 
 
 ## Example

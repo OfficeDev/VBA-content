@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Reminders Property (Outlook)
 
-Returns a  **[Reminders](reminders-object-outlook.md)** collection that represents all current reminders. Read-only.
+Returns a **[Reminders](reminders-object-outlook.md)** collection that represents all current reminders. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Reminders](reminders-object-outlook.md)** collection that represen
 
 ## Example
 
-The following example returns the  **Reminders** collection and displays the captions of all reminders in the collection. If no current reminders are available, a message is displayed to the user.
+The following example returns the **Reminders** collection and displays the captions of all reminders in the collection. If no current reminders are available, a message is displayed to the user.
 
 
 ```vb

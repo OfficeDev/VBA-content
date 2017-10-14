@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlSchema.Name Property (Excel)
 
-Returns a  **String** value that represents the friendly name used to identify an XML schema in an **[XmlMap](xmlmap-object-excel.md)** object.
+Returns a **String** value that represents the friendly name used to identify an XML schema in an **[XmlMap](xmlmap-object-excel.md)** object.
 
 
 ## Syntax

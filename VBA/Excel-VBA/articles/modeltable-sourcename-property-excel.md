@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTable.SourceName Property (Excel)
 
-Name of the data source for the table. If the table has no data source, the call will generate a run-time error.  **String** Read-only
+Name of the data source for the table. If the table has no data source, the call will generate a run-time error. **String** Read-only
 
 
 ## Syntax

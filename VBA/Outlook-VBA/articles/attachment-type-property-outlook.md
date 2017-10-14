@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.Type Property (Outlook)
 
-Returns an  **[OlAttachmentType](olattachmenttype-enumeration-outlook.md)** constant indicating the type of the specified object. Read-only.
+Returns an **[OlAttachmentType](olattachmenttype-enumeration-outlook.md)** constant indicating the type of the specified object. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # XlPhoneticAlignment Enumeration (Excel)
 
-Specifies the alignment for phonetic text. Used with a  **Phonetic** or a **Phonetics** object.
+Specifies the alignment for phonetic text. Used with a **Phonetic** or a **Phonetics** object.
 
 
 

@@ -30,7 +30,7 @@ Returns or sets the custom minimum value for the vertical axis of a sparkline. R
 
 ## Remarks
 
-The  **CustomMinScaleValue** property can be returned or set only when the **[MinScaleType](sparkverticalaxis-minscaletype-property-excel.md)** property of the specified **SparkVerticalAxis** object is set to **xlSparkScaleCustom** (3).
+The **CustomMinScaleValue** property can be returned or set only when the **[MinScaleType](sparkverticalaxis-minscaletype-property-excel.md)** property of the specified **SparkVerticalAxis** object is set to **xlSparkScaleCustom** (3).
 
 
 ## See also

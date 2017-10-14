@@ -18,12 +18,12 @@ Suspends execution.
  **Stop**
 
  **Remarks**
-You can place  **Stop** statements anywhere in[procedures](vbe-glossary.md) to suspend execution. Using the **Stop** statement is similar to setting a[breakpoint](vbe-glossary.md) in the code.
-The  **Stop** statement suspends execution, but unlike **End**, it doesn't close any files or clear[variables](vbe-glossary.md), unless it is in a compiled executable (.exe) file.
+You can place **Stop** statements anywhere in[procedures](vbe-glossary.md) to suspend execution. Using the **Stop** statement is similar to setting a[breakpoint](vbe-glossary.md) in the code.
+The **Stop** statement suspends execution, but unlike **End**, it doesn't close any files or clear[variables](vbe-glossary.md), unless it is in a compiled executable (.exe) file.
 
 ## Example
 
-This example uses the  **Stop** statement to suspend execution for each iteration through the **For...Next** loop.
+This example uses the **Stop** statement to suspend execution for each iteration through the **For...Next** loop.
 
 
 ```vb

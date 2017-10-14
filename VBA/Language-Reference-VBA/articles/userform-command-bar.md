@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 Contains buttons that are shortcuts to some commonly used menu items that are useful for working with forms.
 
-You can click a toolbar button once to carry out the action represented by that button. You can select the Show ToolTips option in the  **General** tab of the **Options** dialog box if you want to display ToolTips for the toolbar buttons.
+You can click a toolbar button once to carry out the action represented by that button. You can select the Show ToolTips option in the **General** tab of the **Options** dialog box if you want to display ToolTips for the toolbar buttons.
 
 
 ## Toolbar Buttons
@@ -103,6 +103,6 @@ Ungroups the objects that were previously grouped.
 
 ![Zoom](images/tbr_zoom_ZA01201769.gif) **Zoom**
 
-Reduces or enlarges the display of all controls on the  **UserForm**. You can set any magnification between 10 and 400 percent.
+Reduces or enlarges the display of all controls on the **UserForm**. You can set any magnification between 10 and 400 percent.
 
 

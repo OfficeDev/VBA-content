@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Form Object (Access)
 
-A  **Form** object refers to a particular Microsoft Access form.
+A **Form** object refers to a particular Microsoft Access form.
 
 
 ## Remarks
 
-A  **Form** object is a member of the **Forms** collection, which is a collection of all currently open forms. Within the **Forms** collection, individual forms are indexed beginning with zero. You can refer to an individual **Form** object in the **Forms** collection either by referring to the form by name, or by referring to its index within the collection. If you want to refer to a specific form in the **Forms** collection, it's better to refer to the form by name because a form's collection index may change. If the form name includes a space, the name must be surrounded by brackets ([ ]).
+A **Form** object is a member of the **Forms** collection, which is a collection of all currently open forms. Within the **Forms** collection, individual forms are indexed beginning with zero. You can refer to an individual **Form** object in the **Forms** collection either by referring to the form by name, or by referring to its index within the collection. If you want to refer to a specific form in the **Forms** collection, it's better to refer to the form by name because a form's collection index may change. If the form name includes a space, the name must be surrounded by brackets ([ ]).
 
 
 
@@ -28,7 +28,7 @@ A  **Form** object is a member of the **Forms** collection, which is a collectio
 |**AllForms** ![ _form name_]|AllForms![Order Form]|
 |**AllForms** (" _formname_")|AllForms("OrderForm")|
 |**AllForms** ( _formname_)|AllForms(0)|
-Each  **Form** object has a **Controls** collection, which contains all controls on the form. You can refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**:
+Each **Form** object has a **Controls** collection, which contains all controls on the form. You can refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**:
 
 
 
@@ -46,7 +46,7 @@ Forms!OrderForm!NewData
 Forms!OrderForm.Controls!NewData
 ```
 
-The next two examples show how you might refer to a control named  **NewData** on a subform `ctlSubForm` contained in the form called **OrderForm**:
+The next two examples show how you might refer to a control named **NewData** on a subform `ctlSubForm` contained in the form called **OrderForm**:
 
 
 
@@ -87,7 +87,7 @@ Forms!OrderForm.ctlSubForm!NewData
 
 ## Example
 
-The following example shows how to use  **TextBox** controls to supply date criteria for a query.
+The following example shows how to use **TextBox** controls to supply date criteria for a query.
 
 UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.mdl).
 
@@ -143,7 +143,7 @@ Private Sub cmdSearch_Click()
 End Sub
 ```
 
-The following example shows how to use the  **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
+The following example shows how to use the **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
 
  **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
 
@@ -168,7 +168,7 @@ End If
 End Sub
 ```
 
-The following example shows how to use the  **OpenArgs** property to prevent a form from being opened from the Navigation Pane.
+The following example shows how to use the **OpenArgs** property to prevent a form from being opened from the Navigation Pane.
 
 
 

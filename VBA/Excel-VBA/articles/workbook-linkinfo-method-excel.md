@@ -31,7 +31,7 @@ Returns the link date and update status.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the link.|
 | _LinkInfo_|Required| **[XlLinkInfo](xllinkinfo-enumeration-excel.md)**|The type of information to be returned.|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLinkInfoType](xllinkinfotype-enumeration-excel.md)** specifying the type of link to return.|
+| _Type_|Optional| **Variant**|One of the constants of **[XlLinkInfoType](xllinkinfotype-enumeration-excel.md)** specifying the type of link to return.|
 | _EditionRef_|Optional| **Variant**|If the link is an edition, this argument specifies the edition reference as a string in R1C1 style. This argument is required if there's more than one publisher or subscriber with the same name in the workbook.|
 
 ### Return Value

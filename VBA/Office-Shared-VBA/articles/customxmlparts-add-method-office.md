@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLParts.Add Method (Office)
 
-Allows you to add a new  **CustomXMLPart** to a file.
+Allows you to add a new **CustomXMLPart** to a file.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Allows you to add a new  **CustomXMLPart** to a file.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _XML_|Optional|**String**|Contains the XML to add to the newly created  **CustomXMLPart**.|
+| _XML_|Optional|**String**|Contains the XML to add to the newly created **CustomXMLPart**.|
 | _SchemaCollection_|Optional|**CustomXMLSchemaCollection**|Represents the set of schemas to be used to validate this stream.|
 
 ### Return Value

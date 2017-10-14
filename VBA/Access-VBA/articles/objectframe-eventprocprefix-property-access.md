@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.EventProcPrefix Property (Access)
 
-Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
+Gets or sets the prefix portion of an event procedure name. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the prefix portion of an event procedure name. Read/write  **String
 
 ## Remarks
 
-For example, if you have a command button with an event procedure named Details_Click, the  **EventProcPrefix** property returns the string "Details".
+For example, if you have a command button with an event procedure named Details_Click, the **EventProcPrefix** property returns the string "Details".
 
 Microsoft Access adds the prefix portion of an event procedure name to the event name with an underscore character (_).
 

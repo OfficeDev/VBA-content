@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialogSelectedItems.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **FileDialogSelectedItem** s collection. Read-only.
+Gets a **Long** indicating the number of items in the **FileDialogSelectedItem** s collection. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Long
 
 ## Example
 
-The following example displays a  **File Picker** dialog box and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box and displays each selected file in a message box.
 
 
 ```

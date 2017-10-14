@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sort.MatchCase Property (Excel)
 
-Set to  **True** to perform a case-sensitive sort or set to **False** to perform non-case sensitive sort. Read/write.
+Set to **True** to perform a case-sensitive sort or set to **False** to perform non-case sensitive sort. Read/write.
 
 
 ## Syntax

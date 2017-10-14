@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # AddressEntries Object (Outlook)
 
-Contains a collection of addresses for an  **[AddressList](addresslist-object-outlook.md)** object.
+Contains a collection of addresses for an **[AddressList](addresslist-object-outlook.md)** object.
 
 
 ## Remarks
 
-The object may contain zero or more  **[AddressEntry](addressentry-object-outlook.md)** objects and provides access to the entries in a transport provider's address book container.
+The object may contain zero or more **[AddressEntry](addressentry-object-outlook.md)** objects and provides access to the entries in a transport provider's address book container.
 
 
 ## Example
 
-The following example sets a reference to an  **AddressEntries** object.
+The following example sets a reference to an **AddressEntries** object.
 
 
 
@@ -38,7 +38,7 @@ Set myAddressList = myNameSpace.AddressLists("Personal Address Book")
 Set myAddressEntries = myAddressList.AddressEntries
 ```
 
-You can also index directly into the  **AddressEntries** object, returning an **AddressEntry** object.
+You can also index directly into the **AddressEntries** object, returning an **AddressEntry** object.
 
 
 

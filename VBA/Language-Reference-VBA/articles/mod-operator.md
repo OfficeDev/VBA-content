@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to divide two numbers and return only the remainder.
  **Syntax**
  _result_**=**_number1_**Mod**_number2_
-The  **Mod** operator syntax has these parts:
+The **Mod** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -26,11 +26,11 @@ The  **Mod** operator syntax has these parts:
 | _number2_|Required; any numeric expression.|
  **Remarks**
 The modulus, or remainder, operator divides  _number1_ by _number2_ (rounding floating-point numbers to integers) and returns only the remainder as _result_. For example, in the following[expression](vbe-glossary.md), A ( _result_ ) equals 5.
-Usually, the [data type](vbe-glossary.md) of _result_ is a[Byte](vbe-glossary.md),  **Byte** variant,[Integer](vbe-glossary.md),  **Integer** variant,[Long](vbe-glossary.md), or [Variant](vbe-glossary.md) containing a **Long**, regardless of whether or not _result_ is a whole number. Any fractional portion is truncated. However, if any expression is[Null](vbe-glossary.md),  _result_ is **Null**. Any expression that is[Empty](vbe-glossary.md) is treated as 0.
+Usually, the [data type](vbe-glossary.md) of _result_ is a[Byte](vbe-glossary.md), **Byte** variant,[Integer](vbe-glossary.md), **Integer** variant,[Long](vbe-glossary.md), or [Variant](vbe-glossary.md) containing a **Long**, regardless of whether or not _result_ is a whole number. Any fractional portion is truncated. However, if any expression is[Null](vbe-glossary.md),  _result_ is **Null**. Any expression that is[Empty](vbe-glossary.md) is treated as 0.
 
 ## Example
 
-This example uses the  **Mod** operator to divide two numbers and return only the remainder. If either number is a floating-point number, it is first rounded to an integer.
+This example uses the **Mod** operator to divide two numbers and return only the remainder. If either number is a floating-point number, it is first rounded to an integer.
 
 
 ```vb

@@ -13,26 +13,26 @@ ms.date: 06/08/2017
 
 # AllDatabaseDiagrams Object (Access)
 
-The  **AllDatabaseDiagrams** collection contains an **[AccessObject](accessobject-object-access.md)** for each database diagram in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
+The **AllDatabaseDiagrams** collection contains an **[AccessObject](accessobject-object-access.md)** for each database diagram in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
 
 
 ## Remarks
 
-The  **CurrentData** or **CodeData** object has an **AllDatabaseDiagrams** collection containing **AccessObject** objects that describe instances of all database diagrams specified by **CurrentData** or **CodeData**. For example, you can enumerate the **AllDatabaseDiagrams** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
+The **CurrentData** or **CodeData** object has an **AllDatabaseDiagrams** collection containing **AccessObject** objects that describe instances of all database diagrams specified by **CurrentData** or **CodeData**. For example, you can enumerate the **AllDatabaseDiagrams** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
 
-You can refer to an individual  **AccessObject** object in the **AllDatabaseDiagrams** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllDatabaseDiagrams** collection, it's better to refer to the database diagram by name because a database diagram's collection index may change.
+You can refer to an individual **AccessObject** object in the **AllDatabaseDiagrams** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllDatabaseDiagrams** collection, it's better to refer to the database diagram by name because a database diagram's collection index may change.
 
-The  **AllDatabaseDiagrams** collection is indexed beginning with zero. If you refer to a database diagram by its index, the first database diagram is AllDatabaseDiagrams(0), the second database diagram is AllDatabaseDiagrams(1), and so on.
+The **AllDatabaseDiagrams** collection is indexed beginning with zero. If you refer to a database diagram by its index, the first database diagram is AllDatabaseDiagrams(0), the second database diagram is AllDatabaseDiagrams(1), and so on.
 
 
  **Note**  
 
-You can't add or delete an  **AccessObject** object from the **AllDatabaseDiagrams** collection.
+You can't add or delete an **AccessObject** object from the **AllDatabaseDiagrams** collection.
 
 
 ## Example
 
-The following example prints the name of each open  **AccessObject** object in the **AllDatabaseDiagrams** collection.
+The following example prints the name of each open **AccessObject** object in the **AllDatabaseDiagrams** collection.
 
 
 ```

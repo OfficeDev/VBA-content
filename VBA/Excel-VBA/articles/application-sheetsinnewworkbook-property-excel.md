@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SheetsInNewWorkbook Property (Excel)
 
-Returns or sets the number of sheets that Microsoft Excel automatically inserts into new workbooks. Read/write  **Long** .
+Returns or sets the number of sheets that Microsoft Excel automatically inserts into new workbooks. Read/write **Long** .
 
 
 ## Syntax

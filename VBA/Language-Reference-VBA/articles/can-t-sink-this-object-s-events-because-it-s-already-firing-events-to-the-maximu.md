@@ -15,7 +15,7 @@ Each object specifies the maximum number of simultaneous recipients to which it 
 
 
 
-- You tried to use  **Set** for a **WithEvents** variable for a control on a form. You can't use **Set** for a **WithEvents** variable because the number of recipients allowed for these events.
+- You tried to use **Set** for a **WithEvents** variable for a control on a form. You can't use **Set** for a **WithEvents** variable because the number of recipients allowed for these events.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LanguageSettings.LanguagePreferredForEditing Property (Office)
 
-Gets  **True** if the value for the **MsoLanguageID** constant has been identified in the Windows registry as a preferred language for editing. Read-only.
+Gets **True** if the value for the **MsoLanguageID** constant has been identified in the Windows registry as a preferred language for editing. Read-only.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Gets  **True** if the value for the **MsoLanguageID** constant has been identifi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _lid_|Required|**MsoLanguageID**|Returns one of the  **MsoLanguageID** enumerations.|
+| _lid_|Required|**MsoLanguageID**|Returns one of the **MsoLanguageID** enumerations.|
 
 ## Remarks
 
-You must test all valid  **msoLanguageID** values to enumerate the set of preferred languages.
+You must test all valid **msoLanguageID** values to enumerate the set of preferred languages.
 
 
 ## Example

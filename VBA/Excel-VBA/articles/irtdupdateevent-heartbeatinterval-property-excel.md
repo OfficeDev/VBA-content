@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IRTDUpdateEvent.HeartbeatInterval Property (Excel)
 
-Returns or sets a  **Long** for the interval between updates for real-time data. Read/write.
+Returns or sets a **Long** for the interval between updates for real-time data. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** for the interval between updates for real-time data.
 
 ## Remarks
 
-Setting the  **HeartbeatInterval** property to -1 will result in the **[Heartbeat](irtdserver-heartbeat-method-excel.md)** method not being called.
+Setting the **HeartbeatInterval** property to -1 will result in the **[Heartbeat](irtdserver-heartbeat-method-excel.md)** method not being called.
 
 
  **Note**  The heartbeat interval cannot be set below 15,000 milliseconds, due to the standard 15-second time out.

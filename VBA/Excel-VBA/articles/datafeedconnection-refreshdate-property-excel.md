@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.RefreshDate Property (Excel)
 
-Returns the date on which the OLE DB connection was last refreshed.  **Date** . Read-only
+Returns the date on which the OLE DB connection was last refreshed. **Date** . Read-only
 
 
 ## Syntax

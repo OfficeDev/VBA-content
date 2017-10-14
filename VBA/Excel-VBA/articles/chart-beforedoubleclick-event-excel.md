@@ -36,7 +36,7 @@ Occurs when a chart element is double-clicked, before the default double-click a
 
 ## Remarks
 
-The  **[DoubleClick](application-doubleclick-method-excel.md)** method doesn't cause this event to occur.
+The **[DoubleClick](application-doubleclick-method-excel.md)** method doesn't cause this event to occur.
 
 This event doesn't occur when the user double-clicks the border of a cell.
 
@@ -83,15 +83,15 @@ The following table describes the meaning of the arguments.
 
 |**Argument**|**Description**|
 |:-----|:-----|
-|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **XlAxisGroup** constants: **xlPrimary** or **xlSecondary** .|
-|AxisType|Specifies the axis type. Can be one of the following  **XlAxisType** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue** .|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **XlPivotFieldOrientation** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField** . The column and row field constants specify the series and category fields, respectively.|
-|GroupIndex|Specifies the offset within the  **[ChartGroups](chartgroups-object-excel.md)** collection for a specific chart group.|
-|PivotFieldIndex|Specifies the offset within the  **[PivotFields](pivotfields-object-excel.md)** collection for a specific column (series), data, page, or row (category) field.|
-|PointIndex|Specifies the offset within the  **[Points](points-object-excel.md)** collection for a specific point within a series. The value ? 1 indicates that all data points are selected.|
-|SeriesIndex|Specifies the offset within the  **[Series](series-object-excel.md)** collection for a specific series.|
-|ShapeIndex|Specifies the offset within the  **[Shapes](shapes-object-excel.md)** collection for a specific shape.|
-|TrendlineIndex|Specifies the offset within the  **[Trendlines](trendlines-object-excel.md)** collection for a specific trendline within a series.|
+|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following **XlAxisGroup** constants: **xlPrimary** or **xlSecondary** .|
+|AxisType|Specifies the axis type. Can be one of the following **XlAxisType** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue** .|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following **XlPivotFieldOrientation** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField** . The column and row field constants specify the series and category fields, respectively.|
+|GroupIndex|Specifies the offset within the **[ChartGroups](chartgroups-object-excel.md)** collection for a specific chart group.|
+|PivotFieldIndex|Specifies the offset within the **[PivotFields](pivotfields-object-excel.md)** collection for a specific column (series), data, page, or row (category) field.|
+|PointIndex|Specifies the offset within the **[Points](points-object-excel.md)** collection for a specific point within a series. The value ? 1 indicates that all data points are selected.|
+|SeriesIndex|Specifies the offset within the **[Series](series-object-excel.md)** collection for a specific series.|
+|ShapeIndex|Specifies the offset within the **[Shapes](shapes-object-excel.md)** collection for a specific shape.|
+|TrendlineIndex|Specifies the offset within the **[Trendlines](trendlines-object-excel.md)** collection for a specific trendline within a series.|
 
 ## Example
 

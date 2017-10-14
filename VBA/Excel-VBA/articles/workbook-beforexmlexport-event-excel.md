@@ -31,7 +31,7 @@ Occurs before Microsoft Excel saves or exports XML data from the specified workb
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](xmlmap-object-excel.md)**|The XML map that will be used to save or export data.|
 | _Url_|Required| **String**|The location where you want to export the resulting XML file.|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the save or export operation|
+| _Cancel_|Required| **Boolean**|Set to **True** to cancel the save or export operation|
 
 ### Return Value
 

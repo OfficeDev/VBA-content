@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.Ranges Property (Excel)
 
-Returns the range of object for the specified  **WorkbookConnection** object. Read-only **Ranges** .
+Returns the range of object for the specified **WorkbookConnection** object. Read-only **Ranges** .
 
 
 ## Syntax

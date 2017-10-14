@@ -30,7 +30,7 @@ Returns what method to use to allocate this value when performing what-if analys
 
 ## Remarks
 
-The  **AllocationMethod** property corresponds to the **Allocation Method** setting in the **What-If Analysis Settings** dialog box for a PivotTable report based on an OLAP data source as it was set at the time that this change was originally applied. If the specified **ValueChange** object was created by using the **[Add](pivottablechangelist-add-method-excel.md)** method of the **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection and the corresponding _AllocationMethod_ parameter was not supplied, the default allocation method of the OLAP server is returned.
+The **AllocationMethod** property corresponds to the **Allocation Method** setting in the **What-If Analysis Settings** dialog box for a PivotTable report based on an OLAP data source as it was set at the time that this change was originally applied. If the specified **ValueChange** object was created by using the **[Add](pivottablechangelist-add-method-excel.md)** method of the **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection and the corresponding _AllocationMethod_ parameter was not supplied, the default allocation method of the OLAP server is returned.
 
 
 ## See also

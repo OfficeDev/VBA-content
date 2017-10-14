@@ -37,7 +37,7 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
-The  **First** and **Last** functions are analogous to the **MoveFirst** and **MoveLast** methods of a DAO Recordset object. They simply return the value of a specified field in the first or last record, respectively, of the result set returned by a query. Because records are usually returned in no particular order (unless the query includes an[ORDER BY](order-by-clause-microsoft-access-sql.md) clause), the records returned by these functions will be arbitrary.
+The **First** and **Last** functions are analogous to the **MoveFirst** and **MoveLast** methods of a DAO Recordset object. They simply return the value of a specified field in the first or last record, respectively, of the result set returned by a query. Because records are usually returned in no particular order (unless the query includes an[ORDER BY](order-by-clause-microsoft-access-sql.md) clause), the records returned by these functions will be arbitrary.
 
  **Link provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
@@ -85,7 +85,7 @@ End Sub
 
 ```
 
-The next example compares using the  **First** and **Last** functions with simply using the **Min** and **Max** functions to find the earliest and latest birth dates of Employees.
+The next example compares using the **First** and **Last** functions with simply using the **Min** and **Max** functions to find the earliest and latest birth dates of Employees.
 
 
 

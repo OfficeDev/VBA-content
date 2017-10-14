@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MacroError Property (Access)
 
-Returns a  **[MacroError](macroerror-object-access.md)** object that contains information about the latest error to occur in a macro. Read-only.
+Returns a **[MacroError](macroerror-object-access.md)** object that contains information about the latest error to occur in a macro. Read-only.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ Gets an object that represents a color in the color scheme of a Microsoft Office
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**MsoThemeColorSchemeIndex**|The index value of the  **ThemeColor** object.|
+| _Index_|Required|**MsoThemeColorSchemeIndex**|The index value of the **ThemeColor** object.|
 
 ### Return Value
 
@@ -35,7 +35,7 @@ ThemeColor
 
 ## Example
 
-In the following example, the  **msoThemeAccent1** theme color is set to the color **Red** and then the scheme is saved to a file.
+In the following example, the **msoThemeAccent1** theme color is set to the color **Red** and then the scheme is saved to a file.
 
 
 ```

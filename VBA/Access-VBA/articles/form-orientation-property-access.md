@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Orientation Property (Access)
 
-You can use the  **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
+You can use the **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Orientation** property to specify or determine the view orien
 
 ## Remarks
 
-The  **Orientation** property uses the following settings.
+The **Orientation** property uses the following settings.
 
 
 

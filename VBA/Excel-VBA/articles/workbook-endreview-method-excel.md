@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.EndReview Method (Excel)
 
-Terminates a review of a file that has been sent for review using the  **[SendForReview](workbook-sendforreview-method-excel.md)** method.
+Terminates a review of a file that has been sent for review using the **[SendForReview](workbook-sendforreview-method-excel.md)** method.
 
 
 ## Syntax

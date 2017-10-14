@@ -39,7 +39,7 @@ If the prefix already exists in the Namespace Manager, this method will overwrit
 
 ## Example
 
-The following example adds a prefix and namespace to a  **CustomPrefixMappings** object.
+The following example adds a prefix and namespace to a **CustomPrefixMappings** object.
 
 
 ```

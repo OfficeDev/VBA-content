@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Type Property (Office)
 
-Gets the type of  **CommandBarButton** control. Read-only.
+Gets the type of **CommandBarButton** control. Read-only.
 
 
 ## 

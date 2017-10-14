@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LanguageSettings.Parent Property (Office)
 
-Gets the  **Parent** object for the **ODSOFilter** object. Read-only.
+Gets the **Parent** object for the **ODSOFilter** object. Read-only.
 
 
 ## Syntax

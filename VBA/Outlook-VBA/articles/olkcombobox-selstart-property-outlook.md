@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.SelStart Property (Outlook)
 
-Returns or sets a  **Long** that specifies either the starting point of the selected text or the insertion point if no text has been selected. Read/write.
+Returns or sets a **Long** that specifies either the starting point of the selected text or the insertion point if no text has been selected. Read/write.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns or sets a  **Long** that specifies either the starting point of the sele
 
 ## Remarks
 
-The current selection is specified by  **[SelText](olkcombobox-seltext-property-outlook.md)** , which is a portion of the control's **[Value](olkcombobox-value-property-outlook.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](olkcombobox-maxlength-property-outlook.md)** .
+The current selection is specified by **[SelText](olkcombobox-seltext-property-outlook.md)** , which is a portion of the control's **[Value](olkcombobox-value-property-outlook.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](olkcombobox-maxlength-property-outlook.md)** .
 
 The default value is zero, which means no text is selected and the insertion point is at the beginning.
 
-The  **SelStart** property is always valid, even when the control does not have focus. Setting **SelStart** to a value less than zero causes an error. Setting **SelStart** to a value greater than **MaxLength** will reset **SelStart** to **MaxLength** . Changing the value of **SelStart** cancels any existing selection, places the insertion point in the text, and sets the **SelLength** property to zero.
+The **SelStart** property is always valid, even when the control does not have focus. Setting **SelStart** to a value less than zero causes an error. Setting **SelStart** to a value greater than **MaxLength** will reset **SelStart** to **MaxLength** . Changing the value of **SelStart** cancels any existing selection, places the insertion point in the text, and sets the **SelLength** property to zero.
 
 
 ## See also

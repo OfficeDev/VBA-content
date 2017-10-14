@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroup.GroupType Property (Outlook)
 
-Returns an  **[OlGroupType](olgrouptype-enumeration-outlook.md)** constant that indicates the group type for the **[NavigationGroup](navigationgroup-object-outlook.md)** object. Read-only.
+Returns an **[OlGroupType](olgrouptype-enumeration-outlook.md)** constant that indicates the group type for the **[NavigationGroup](navigationgroup-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

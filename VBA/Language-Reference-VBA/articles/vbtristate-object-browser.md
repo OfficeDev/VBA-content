@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # VbTriState (Object Browser)
 
-The  **VbTriState** enumeration defines constants used to identify one of three possible states.
+The **VbTriState** enumeration defines constants used to identify one of three possible states.
 
  **To get Help on a particular constant**
 
 
 
 
-1. Select the constant from the  **Members of 'VbTriState'** list.
+1. Select the constant from the **Members of 'VbTriState'** list.
     
 2. Click the 
 ![Help button](images/but_help_ZA01201583.gif) button.

@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # End If without block If
 
-An  **End If** statement must have a corresponding **If** statement. This error has the following cause and solution:
+An **End If** statement must have a corresponding **If** statement. This error has the following cause and solution:
 
 
 
-- The  **If** clause was omitted or is separated from the **End If**. Check other control structures within the **If...End If** structure and verify that they are correctly matched. Also check that the block **If** is correctly formatted.
+- The **If** clause was omitted or is separated from the **End If**. Check other control structures within the **If...End If** structure and verify that they are correctly matched. Also check that the block **If** is correctly formatted.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

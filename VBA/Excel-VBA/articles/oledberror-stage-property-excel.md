@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBError.Stage Property (Excel)
 
-Returns a numeric value specifying the stage of an error that resulted after the most recent OLE DB query. Read-only  **Long** .
+Returns a numeric value specifying the stage of an error that resulted after the most recent OLE DB query. Read-only **Long** .
 
 
 ## Syntax

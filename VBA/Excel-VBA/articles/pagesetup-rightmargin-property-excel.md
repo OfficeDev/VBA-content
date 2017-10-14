@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.RightMargin Property (Excel)
 
-Returns or sets the size of the right margin, in points. Read/write  **Double** .
+Returns or sets the size of the right margin, in points. Read/write **Double** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the size of the right margin, in points. Read/write  **Double** 
 
 ## Remarks
 
-Margins are set or returned in points. Use the  **InchesToPoints** method or the **CentimetersToPoints** method to convert measurements from inches or centimeters.
+Margins are set or returned in points. Use the **InchesToPoints** method or the **CentimetersToPoints** method to convert measurements from inches or centimeters.
 
 
 ## Example

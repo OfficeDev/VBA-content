@@ -17,7 +17,7 @@ The syntax in a Visual Basic Help topic for a [method](vbe-glossary.md), [statem
 
  _object_. **Activate**
 
-In the  **Activate** method syntax, the italic word "object" is a placeholder for information you supply — in this case, code that returns an [object](vbe-glossary.md). Words that are bold should be typed exactly as they appear. For example, the following [procedure](vbe-glossary.md) activates the second window in the active document.
+In the **Activate** method syntax, the italic word "object" is a placeholder for information you supply — in this case, code that returns an [object](vbe-glossary.md). Words that are bold should be typed exactly as they appear. For example, the following [procedure](vbe-glossary.md) activates the second window in the active document.
 
 
 
@@ -29,7 +29,7 @@ End Sub
 
  **MsgBox Function Syntax**
  **MsgBox(**_prompt_ [ _, buttons_ ] [ _, title_ ] [ _, helpfile, context_ ] **)**
-In the  **MsgBox** function syntax, the italic words are[named arguments](vbe-glossary.md) of the function.  [Arguments](vbe-glossary.md) enclosed in brackets are optional. (Do not type the brackets in your Visual Basic code.) For the **MsgBox** function, the only argument you must provide is the text for the prompt.
+In the **MsgBox** function syntax, the italic words are[named arguments](vbe-glossary.md) of the function.  [Arguments](vbe-glossary.md) enclosed in brackets are optional. (Do not type the brackets in your Visual Basic code.) For the **MsgBox** function, the only argument you must provide is the text for the prompt.
 Arguments for functions and methods can be specified in code either by position or by name. To specify arguments by position, follow the order presented in the syntax, separating each argument with a comma, for example:
 
 
@@ -49,7 +49,7 @@ MsgBox Title:="Answer Box", Prompt:="Your answer is correct!"
 ```
 
 The syntax for functions and some methods shows the arguments enclosed in parentheses. These functions and methods return values, so you must enclose the arguments in parentheses to assign the value to a variable. If you ignore the return value or if you don't pass arguments at all, don't include the parentheses. Methods that don't return values do not need their arguments enclosed in parentheses. These guidelines apply whether you're using positional arguments or named arguments.
-In the following example, the return value from the  **MsgBox** function is a number indicating the selected button that is stored in the variable `myVar`. Because the return value is used, parentheses are required. Another message box then displays the value of the variable.
+In the following example, the return value from the **MsgBox** function is a number indicating the selected button that is stored in the variable `myVar`. Because the return value is used, parentheses are required. Another message box then displays the value of the variable.
 
 
 
@@ -63,7 +63,7 @@ End Sub
 
  **Option Statement Syntax**
  **Option** **Compare** { **Binary** |**Text** |**Database** }
-In the  **Option** **Compare** statement syntax, the braces and vertical bar indicate a mandatory choice between three items. (Do not type the braces in the Visual Basic statement). For example, the following statement specifies that within the [module](vbe-glossary.md), strings will be compared in a [sort order](vbe-glossary.md) that is not case-sensitive.
+In the **Option** **Compare** statement syntax, the braces and vertical bar indicate a mandatory choice between three items. (Do not type the braces in the Visual Basic statement). For example, the following statement specifies that within the [module](vbe-glossary.md), strings will be compared in a [sort order](vbe-glossary.md) that is not case-sensitive.
 
 
 
@@ -74,7 +74,7 @@ Option Compare Text
 
  **Dim Statement Syntax**
  **Dim**_varname_ [ **(** [ _subscripts_ ] **)** ] [ **As**_type_ ] [ **,**_varname_ [ **(** [ _subscripts_ ] **)** ] [ **As**_type_ ]] **. . .**
-In the  **Dim** statement syntax, the word **Dim** is a required[keyword](vbe-glossary.md). The only required element is  _varname_ (the variable name). For example, the following statement creates three variables: `myVar` , `nextVar` , and `thirdVar` . These are automatically declared as **Variant** variables.
+In the **Dim** statement syntax, the word **Dim** is a required[keyword](vbe-glossary.md). The only required element is  _varname_ (the variable name). For example, the following statement creates three variables: `myVar` , `nextVar` , and `thirdVar` . These are automatically declared as **Variant** variables.
 
 
 
@@ -83,7 +83,7 @@ Dim myVar, nextVar, thirdVar
 
 ```
 
-The following example declares a variable as a  **String**. Including a [data type](vbe-glossary.md) saves memory and can help you find errors in your code.
+The following example declares a variable as a **String**. Including a [data type](vbe-glossary.md) saves memory and can help you find errors in your code.
 
 
 
@@ -92,7 +92,7 @@ Dim myAnswer As String
 
 ```
 
-To declare several variables in one statement, include the data type for each variable. Variables declared without a data type are automatically declared as  **Variant**.
+To declare several variables in one statement, include the data type for each variable. Variables declared without a data type are automatically declared as **Variant**.
 
 
 

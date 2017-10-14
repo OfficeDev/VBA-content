@@ -17,7 +17,7 @@ You can edit code in [break mode](vbe-glossary.md), but some edits prevent conti
 
 - You attempted an edit that prevents continued execution, for example, you declared a static [variable](vbe-glossary.md).
     
-    If you choose  **Yes**, execution will terminate and you can edit your code. If you choose **No**, you can continue running the code from the point at which it was suspended.
+    If you choose **Yes**, execution will terminate and you can edit your code. If you choose **No**, you can continue running the code from the point at which it was suspended.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

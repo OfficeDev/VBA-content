@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **DependencyObjects** collection returned by this property contains a collection of **[AccessObject](accessobject-object-access.md)** objects.
+The **DependencyObjects** collection returned by this property contains a collection of **[AccessObject](accessobject-object-access.md)** objects.
 
 
 ## See also

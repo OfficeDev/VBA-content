@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # XlPivotConditionScope Enumeration (Excel)
 
-This enumeration specifies the conditional formatting applied for filtering values from the  **PivotTable** object.
+This enumeration specifies the conditional formatting applied for filtering values from the **PivotTable** object.
 
 
 

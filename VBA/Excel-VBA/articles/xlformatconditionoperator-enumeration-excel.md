@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # XlFormatConditionOperator Enumeration (Excel)
 
-Specifies the operator to use to compare a formula against the value in a cell or, for  **xlBetween** and **xlNotBetween** , to compare two formulas.
+Specifies the operator to use to compare a formula against the value in a cell or, for **xlBetween** and **xlNotBetween** , to compare two formulas.
 
 
 

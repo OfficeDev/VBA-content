@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email1EntryID Property (Outlook)
 
-Returns a  **String** representing the entry ID of the first e-mail address for the contact. Read-only.
+Returns a **String** representing the entry ID of the first e-mail address for the contact. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** representing the entry ID of the first e-mail address for 
 
 ## Remarks
 
-This property corresponds to the MAPI named property  **dispidEmail1OriginalEntryID** .
+This property corresponds to the MAPI named property **dispidEmail1OriginalEntryID** .
 
-If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **Email1EntryID** , you should get the property through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object returned by the **[ContactItem.PropertyAccessor](contactitem-propertyaccessor-property-outlook.md)** property, specifying the MAPI property **PidLidEmail1OriginalEntryId** property and its MAPI id namespace. The following code sample in VBA shows the workaround.
+If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing **Email1EntryID** , you should get the property through the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object returned by the **[ContactItem.PropertyAccessor](contactitem-propertyaccessor-property-outlook.md)** property, specifying the MAPI property **PidLidEmail1OriginalEntryId** property and its MAPI id namespace. The following code sample in VBA shows the workaround.
 
 
 

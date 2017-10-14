@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.Duplicate Method (Excel)
 
-Duplicates the  **TableStyle** object and returns a reference to the new copy.
+Duplicates the **TableStyle** object and returns a reference to the new copy.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ TableStyle
 
 ## Remarks
 
-If no name is specified, the  **Duplicate** method uses the same default name as the user interface.
+If no name is specified, the **Duplicate** method uses the same default name as the user interface.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Items.FindNext Method (Outlook)
 
-After the  **[Find](items-find-method-outlook.md)** method runs, this method finds and returns the next Outlook item in the specified collection.
+After the **[Find](items-find-method-outlook.md)** method runs, this method finds and returns the next Outlook item in the specified collection.
 
 
 ## Syntax
@@ -25,19 +25,19 @@ After the  **[Find](items-find-method-outlook.md)** method runs, this method fin
 
 ### Return Value
 
-An  **Object** value that represents the next Outlook item found in the collection.
+An **Object** value that represents the next Outlook item found in the collection.
 
 
 ## Remarks
 
  The search operation begins from the current position, which matches the expression previously set through the **Find** method.
 
-The method returns an Outlook item object if the call succeeds; it returns  **Null** (or **Nothing** in Visual Basic) if it fails.
+The method returns an Outlook item object if the call succeeds; it returns **Null** (or **Nothing** in Visual Basic) if it fails.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** method to return the **[Folder](folder-object-outlook.md)** object that represents the default **Calendar** folder for the current user. It then uses the **[Find](items-find-method-outlook.md)** and **FindNext** methods to locate all the appointments that occur today and display them in a series of message boxes.
+This Visual Basic for Applications (VBA) example uses the **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** method to return the **[Folder](folder-object-outlook.md)** object that represents the default **Calendar** folder for the current user. It then uses the **[Find](items-find-method-outlook.md)** and **FindNext** methods to locate all the appointments that occur today and display them in a series of message boxes.
 
 
 ```vb

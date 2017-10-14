@@ -25,14 +25,14 @@ Groups the shapes in the specified range.
 
 ### Return Value
 
-A  **[Shape](shape-object-excel.md)** object that represents the grouped shape.
+A **[Shape](shape-object-excel.md)** object that represents the grouped shape.
 
 
 ## Remarks
 
-Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **[Shapes](shapes-object-excel.md)** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the **[Shapes](shapes-object-excel.md)** collection and changes the index numbers of items that come after the affected items in the collection.
 
-The  **[Range](range-object-excel.md)** object must be a single cell in the PivotTable field's data range. If you attempt to apply this method to more than one cell, it will fail (without displaying an error message).
+The **[Range](range-object-excel.md)** object must be a single cell in the PivotTable field's data range. If you attempt to apply this method to more than one cell, it will fail (without displaying an error message).
 
 
 ## See also

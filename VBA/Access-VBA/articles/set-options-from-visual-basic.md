@@ -8,18 +8,18 @@ ms.date: 06/08/2017
 
 # Set Options from Visual Basic
 
-You can use the  **[SetOption](application-setoption-method-access.md)** and **[GetOption](application-getoption-method-access.md)** methods to set and return option values in the **Access Options** dialog box from code. To view the **Access Options** dialog box, click the Microsoft Office Button and then click **Access Options**.
+You can use the **[SetOption](application-setoption-method-access.md)** and **[GetOption](application-getoption-method-access.md)** methods to set and return option values in the **Access Options** dialog box from code. To view the **Access Options** dialog box, click the Microsoft Office Button and then click **Access Options**.
 
-The value that you pass to the  **SetOption** method as the _setting_ argument depends on which type of option you are setting. The following table establishes some guidelines for setting options.
+The value that you pass to the **SetOption** method as the _setting_ argument depends on which type of option you are setting. The following table establishes some guidelines for setting options.
 
 
 |**If the option is**|**Then the  _setting_ argument is**|
 |:-----|:-----|
 |A text box|A string|
-|A check box|A Boolean value —  **True** (-1) or **False** (0)|
+|A check box|A Boolean value — **True** (-1) or **False** (0)|
 |An option button in an option group, or an option in a combo box or a list box|An integer corresponding to the option's position in the option group or list (starting with zero [0])|
 
-The following tables list the names of all options that can be set or returned from code and the tabs on which they can be found in the  **Access Options** dialog box, followed by the corresponding string argument that you must pass to the **SetOption** or **GetOption** method.
+The following tables list the names of all options that can be set or returned from code and the tabs on which they can be found in the **Access Options** dialog box, followed by the corresponding string argument that you must pass to the **SetOption** or **GetOption** method.
 
 
 ## Popular Tab

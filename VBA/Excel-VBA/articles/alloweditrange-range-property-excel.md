@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllowEditRange.Range Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents a subset of the ranges that can be edited edited on a protected worksheet.
+Returns a **[Range](range-object-excel.md)** object that represents a subset of the ranges that can be edited edited on a protected worksheet.
 
 
 ## Syntax

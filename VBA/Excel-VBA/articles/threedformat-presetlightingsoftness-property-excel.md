@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetLightingSoftness Property (Excel)
 
-Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPresetLightingSoftness** .
+Returns or sets the intensity of the extrusion lighting. Read/write **MsoPresetLightingSoftness** .
 
 
 ## Syntax

@@ -29,7 +29,7 @@ Occurs when certain properties are changed or when certain methods are executed 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Reason_|Required|**Long**|A  **PivotDataReasonEnum** constant that indicates the reason that this event was triggered.|
+| _Reason_|Required|**Long**|A **PivotDataReasonEnum** constant that indicates the reason that this event was triggered.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ nothing
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **DataChange** event.
+The following example demonstrates the syntax for a subroutine that traps the **DataChange** event.
 
 
 

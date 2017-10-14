@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProductCode Property (Excel)
 
-Returns the globally unique identifier (GUID) for Microsoft Excel. Read-only  **String** .
+Returns the globally unique identifier (GUID) for Microsoft Excel. Read-only **String** .
 
 
 ## Syntax

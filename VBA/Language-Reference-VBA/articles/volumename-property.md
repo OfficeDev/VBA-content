@@ -24,10 +24,10 @@ The VolumeName property has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **Drive** object.|
+| _object_|Required. Always the name of a **Drive** object.|
 | _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
  **Remarks**
-The following code illustrates the use of the  **VolumeName** property:
+The following code illustrates the use of the **VolumeName** property:
 
 
 

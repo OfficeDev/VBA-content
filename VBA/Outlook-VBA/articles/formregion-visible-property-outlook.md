@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.Visible Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the form region is visible or hidden. Read/write.
+Returns or sets a **Boolean** value that indicates whether the form region is visible or hidden. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **Boolean** value that indicates whether the form region is v
 
  **True** if the form region is visible; **False** if it is hidden. The default is **True** .
 
-Use the  **Visible** property to control access to information without displaying it in a form region.
+Use the **Visible** property to control access to information without displaying it in a form region.
 
 
 ## See also

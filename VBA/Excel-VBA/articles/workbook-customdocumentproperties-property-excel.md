@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CustomDocumentProperties Property (Excel)
 
-Returns or sets a  **[DocumentProperties](http://msdn.microsoft.com/library/90d42786-7d9a-b604-dbdf-88db41cbe69b%28Office.15%29.aspx)** collection that represents all the custom document properties for the specified workbook.
+Returns or sets a **[DocumentProperties](http://msdn.microsoft.com/library/90d42786-7d9a-b604-dbdf-88db41cbe69b%28Office.15%29.aspx)** collection that represents all the custom document properties for the specified workbook.
 
 
 ## Syntax
@@ -25,17 +25,17 @@ Returns or sets a  **[DocumentProperties](http://msdn.microsoft.com/library/90d4
 
 ## Remarks
 
-This property returns the entire collection of custom document properties. Use the  **Item** method to return a single member of the collection (a **DocumentProperty** object) by specifying either the name of the property or the collection index (as a number).
+This property returns the entire collection of custom document properties. Use the **Item** method to return a single member of the collection (a **DocumentProperty** object) by specifying either the name of the property or the collection index (as a number).
 
-Because the  **Item** method is the default method for the **DocumentProperties** collection, the following statements are identical:
+Because the **Item** method is the default method for the **DocumentProperties** collection, the following statements are identical:
 
  `CustomDocumentProperties.Item("Complete")`
 
  `CustomDocumentProperties("Complete")`
 
-Use the  **[BuiltinDocumentProperties](workbook-builtindocumentproperties-property-excel.md)** property to return the collection of built-in document properties.
+Use the **[BuiltinDocumentProperties](workbook-builtindocumentproperties-property-excel.md)** property to return the collection of built-in document properties.
 
-Properties of type  **msoPropertyTypeString** cannot exceed 255 characters in length.
+Properties of type **msoPropertyTypeString** cannot exceed 255 characters in length.
 
 
 ## Example

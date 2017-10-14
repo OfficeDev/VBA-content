@@ -17,7 +17,7 @@ An [argument](vbe-glossary.md) passed **ByRef** ([by reference](vbe-glossary.md)
 
 - You passed an argument of one type that could not be coerced to the type expected. 
     
-    For example, this error occurs if you try to pass an  **Integer** variable when a **Long** is expected. If you want coercion to occur, even if it causes information to be lost, you can pass the argument in its own set of parentheses. For example, to pass the **Variant** argument `MyVar` to a procedure that expects an **Integer** argument, you can write the call as follows:
+    For example, this error occurs if you try to pass an **Integer** variable when a **Long** is expected. If you want coercion to occur, even if it causes information to be lost, you can pass the argument in its own set of parentheses. For example, to pass the **Variant** argument `MyVar` to a procedure that expects an **Integer** argument, you can write the call as follows:
     
 
 
@@ -34,7 +34,7 @@ End Sub
 
     Placing the argument in its own set of parentheses forces evaluation of it as an [expression](vbe-glossary.md). During this evaluation, the fractional portion of the number is rounded (not truncated) to make it conform to the expected argument type. The result of the evaluation is placed in a temporary location, and a reference to the temporary location is received by the procedure. Thus, the original  `MyVar` retains its value.
     
-     **Note**  If you don't specify a type for a [variable](vbe-glossary.md), the variable receives the default type,  **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a  **Variant**; the second, `AnotherVar`, is an  **Integer**.
+    **Note**  If you don't specify a type for a [variable](vbe-glossary.md), the variable receives the default type, **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a **Variant**; the second, `AnotherVar`, is an **Integer**.
 
 
 

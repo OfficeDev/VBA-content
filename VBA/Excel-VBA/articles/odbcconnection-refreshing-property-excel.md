@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[CancelRefresh](odbcconnection-cancelrefresh-method-excel.md)** method to cancel background queries.
+Use the **[CancelRefresh](odbcconnection-cancelrefresh-method-excel.md)** method to cancel background queries.
 
 
 ## See also

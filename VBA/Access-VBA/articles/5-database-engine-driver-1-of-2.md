@@ -19,7 +19,7 @@ When you install the Microsoft® Jet version 3.5 Engine database driver, the Set
 
 ## Microsoft Jet Engine Initialization Settings
 
-The  **Access Connectivity Engine\Engines\Jet 3.x** folder includes initialization settings for the Acer3x.dll driver, used for access to Microsoft Access 97 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
+The **Access Connectivity Engine\Engines\Jet 3.x** folder includes initialization settings for the Acer3x.dll driver, used for access to Microsoft Access 97 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
 
 
 ```
@@ -78,7 +78,7 @@ The Microsoft Access database engine uses the following entries.
 
 ## Microsoft Jet Engine ISAM Formats
 
-The  **Jet\4.0\ISAM Formats\Jet 3.x** folder contains the following entries.
+The **Jet\4.0\ISAM Formats\Jet 3.x** folder contains the following entries.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Adjustments Property (Excel)
 
-Returns an  **[Adjustments](adjustments-object-excel.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **[ShapeRange](shaperange-object-excel.md)** object that represents an AutoShape, WordArt, or a connector.
+Returns an **[Adjustments](adjustments-object-excel.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **[ShapeRange](shaperange-object-excel.md)** object that represents an AutoShape, WordArt, or a connector.
 
 
 ## Syntax

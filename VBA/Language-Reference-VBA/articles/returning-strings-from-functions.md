@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Returning Strings from Functions
 
-Some functions have two versions: one that returns a [Variant data type](vbe-glossary.md) and one that returns a [String data type](vbe-glossary.md). The  **Variant** versions are more convenient because variants handle conversions between different types of data automatically. They also allow [Null](vbe-glossary.md) to be propagated through an [expression](vbe-glossary.md). The  **String** versions are more efficient because they use less memory.
+Some functions have two versions: one that returns a [Variant data type](vbe-glossary.md) and one that returns a [String data type](vbe-glossary.md). The **Variant** versions are more convenient because variants handle conversions between different types of data automatically. They also allow [Null](vbe-glossary.md) to be propagated through an [expression](vbe-glossary.md). The **String** versions are more efficient because they use less memory.
 
-Consider using the  **String** version when:
+Consider using the **String** version when:
 
 
 
@@ -23,7 +23,7 @@ Consider using the  **String** version when:
 - You write data directly to random-access files.
     
 
-The following functions return values in a  **String** variable when you append a dollar sign ( **$** ) to the function name. These functions have the same usage and syntax as their **Variant** equivalents without the dollar sign.
+The following functions return values in a **String** variable when you append a dollar sign ( **$** ) to the function name. These functions have the same usage and syntax as their **Variant** equivalents without the dollar sign.
 
 |**Function**|||
 |:-----|:-----|:-----|

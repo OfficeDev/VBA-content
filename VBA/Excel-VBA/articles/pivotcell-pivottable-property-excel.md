@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.PivotTable Property (Excel)
 
-Returns a  **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable report associated with the PivotCell.
+Returns a **[PivotTable](pivottable-object-excel.md)** object that represents the PivotTable report associated with the PivotCell.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Close Method (Excel)
 
-Closes the specified  **Protected View** window.
+Closes the specified **Protected View** window.
 
 
 ## Syntax

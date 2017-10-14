@@ -25,7 +25,7 @@ Returns or sets the type of color transformation applied to the specified pictur
 
 ## Example
 
-This example sets the color transformation to grayscale through  **[MsoPictureColorType](http://msdn.microsoft.com/library/d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae%28Office.15%29.aspx)** for shape one on `myDocument`. Shape one must be either a picture or an OLE object.
+This example sets the color transformation to grayscale through **[MsoPictureColorType](http://msdn.microsoft.com/library/d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae%28Office.15%29.aspx)** for shape one on `myDocument`. Shape one must be either a picture or an OLE object.
 
 
 ```vb

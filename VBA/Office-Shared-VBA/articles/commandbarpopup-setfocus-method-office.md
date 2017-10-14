@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.SetFocus Method (Office)
 
-Moves the keyboard focus to the specified  **CommandBarPopup** control. If the popup is disabled or isn't visible, this method will fail.
+Moves the keyboard focus to the specified **CommandBarPopup** control. If the popup is disabled or isn't visible, this method will fail.
 
 
 ## 

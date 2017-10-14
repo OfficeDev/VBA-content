@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TempVar.Value Property (Access)
 
-Gets or sets the value of the specified  **[TempVar](tempvar-object-access.md)**. Read/write **Variant**.
+Gets or sets the value of the specified **[TempVar](tempvar-object-access.md)**. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the value of the specified  **[TempVar](tempvar-object-access.md)**
 
 ## Remarks
 
-A  **TempVar** can store only numeric or text data. Setting the **Value** property to anObject data type will result in a run-time error.
+A **TempVar** can store only numeric or text data. Setting the **Value** property to anObject data type will result in a run-time error.
 
 
 ## See also

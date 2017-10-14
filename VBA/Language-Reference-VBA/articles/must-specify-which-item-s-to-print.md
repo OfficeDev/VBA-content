@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Must specify which item(s) to print
 
-You haven't specified what to print. Check at least one of the  **Form** or **Code** check boxes in the **Print** dialog box after choosing **Print** from the **File** menu.
+You haven't specified what to print. Check at least one of the **Form** or **Code** check boxes in the **Print** dialog box after choosing **Print** from the **File** menu.
 
 

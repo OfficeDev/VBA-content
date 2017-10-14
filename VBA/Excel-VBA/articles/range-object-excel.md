@@ -18,7 +18,7 @@ Represents a cell, a row, a column, a selection of cells containing one or more 
 
 ## Example
 
-Use  **Range** ( _arg_ ), where _arg_ names the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
+Use **Range** ( _arg_ ), where _arg_ names the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
 
 
 ```
@@ -26,7 +26,7 @@ Worksheets("Sheet1").Range("A5").Value = _
     Worksheets("Sheet1").Range("A1").Value
 ```
 
-The following example fills the range A1:H8 with random numbers by setting the formula for each cell in the range. When it's used without an object qualifier (an object to the left of the period), the  **Range** property returns a range on the active sheet. If the active sheet isn't a worksheet, the method fails. Use the **[Activate](http://msdn.microsoft.com/library/b198dc36-99d0-42db-6cbb-7f68396fd2f5%28Office.15%29.aspx)** method to activate a worksheet before you use the **Range** property without an explicit object qualifier.
+The following example fills the range A1:H8 with random numbers by setting the formula for each cell in the range. When it's used without an object qualifier (an object to the left of the period), the **Range** property returns a range on the active sheet. If the active sheet isn't a worksheet, the method fails. Use the **[Activate](http://msdn.microsoft.com/library/b198dc36-99d0-42db-6cbb-7f68396fd2f5%28Office.15%29.aspx)** method to activate a worksheet before you use the **Range** property without an explicit object qualifier.
 
 
 
@@ -48,7 +48,7 @@ The following example clears the contents of the range named  _Criteria_.
 Worksheets(1).Range("Criteria").ClearContents
 ```
 
-Use  **Cells** ( _row_, _column_ ) where _row_ is the row index and _column_ is the column index, to return a single cell. The following example sets the value of cell A1 to 24.
+Use **Cells** ( _row_, _column_ ) where _row_ is the row index and _column_ is the column index, to return a single cell. The following example sets the value of cell A1 to 24.
 
 
 
@@ -95,10 +95,10 @@ Use  _expression_. **Cells** ( _row_, _column_ ), where _expression_ is an expre
 Worksheets(1).Range("C5:C10").Cells(1, 1).Formula = "=Rand()"
 ```
 
-Use  **Range** ( _cell1, cell2_ ), where _cell1_ and _cell2_ are **Range** objects that specify the start and end cells, to return a **Range** object. The following example sets the border line style for cells A1:J10.
+Use **Range** ( _cell1, cell2_ ), where _cell1_ and _cell2_ are **Range** objects that specify the start and end cells, to return a **Range** object. The following example sets the border line style for cells A1:J10.
 
 
- **Note**  Be aware that the period in front of each occurrence of the  **Cells** property. The period is required if the result of the preceding **With** statement is to be applied to the **Cells** property—in this case, to indicate that the cells are on worksheet one (without the period, the **Cells** property would return cells on the active sheet).
+ **Note**  Be aware that the period in front of each occurrence of the **Cells** property. The period is required if the result of the preceding **With** statement is to be applied to the **Cells** property—in this case, to indicate that the cells are on worksheet one (without the period, the **Cells** property would return cells on the active sheet).
 
 
 
@@ -110,7 +110,7 @@ With Worksheets(1)
 End With
 ```
 
-Use  **Offset** ( _row, column_ ), where _row_ and _column_ are the row and column offsets, to return a range at a specified offset to another range. The following example selects the cell three rows down from and one column to the right of the cell in the upper-left corner of the current selection. You cannot select a cell that is not on the active sheet, so you must first activate the worksheet.
+Use **Offset** ( _row, column_ ), where _row_ and _column_ are the row and column offsets, to return a range at a specified offset to another range. The following example selects the cell three rows down from and one column to the right of the cell in the upper-left corner of the current selection. You cannot select a cell that is not on the active sheet, so you must first activate the worksheet.
 
 
 
@@ -121,7 +121,7 @@ Worksheets("Sheet1").Activate
 Selection.Offset(3, 1).Range("A1").Select
 ```
 
-Use  **Union** ( _range1, range2_, ...) to return multiple-area ranges—that is, ranges composed of two or more contiguous blocks of cells. The following example creates an object defined as the union of ranges A1:B2 and C3:D4, and then selects the defined range.
+Use **Union** ( _range1, range2_, ...) to return multiple-area ranges—that is, ranges composed of two or more contiguous blocks of cells. The following example creates an object defined as the union of ranges A1:B2 and C3:D4, and then selects the defined range.
 
 
 
@@ -135,7 +135,7 @@ Set myMultiAreaRange = Union(r1, r2)
 myMultiAreaRange.Select
 ```
 
-If you work with selections that contain more than one area, the  **[Areas](http://msdn.microsoft.com/library/31fc03b4-25b6-27ae-2350-b34c6c6ba255%28Office.15%29.aspx)** property is useful. It divides a multiple-area selection into individual **Range** objects and then returns the objects as a collection. You can use the **[Count](http://msdn.microsoft.com/library/080cbbe7-056f-b21c-9004-171a6acce664%28Office.15%29.aspx)** property on the returned collection to verify a selection that contains more than one area, as shown in the following example.
+If you work with selections that contain more than one area, the **[Areas](http://msdn.microsoft.com/library/31fc03b4-25b6-27ae-2350-b34c6c6ba255%28Office.15%29.aspx)** property is useful. It divides a multiple-area selection into individual **Range** objects and then returns the objects as a collection. You can use the **[Count](http://msdn.microsoft.com/library/080cbbe7-056f-b21c-9004-171a6acce664%28Office.15%29.aspx)** property on the returned collection to verify a selection that contains more than one area, as shown in the following example.
 
 
 
@@ -152,7 +152,7 @@ End Sub
 
  **Sample code provided by:** Dennis Wallentin,[VSTO &amp; .NET &amp; Excel](http://xldennis.wordpress.com/)
 
-This example uses the  **AdvancedFilter** method of the **Range** object to create a list of the unique values, and the number of times those unique values occur, in the range of column A.
+This example uses the **AdvancedFilter** method of the **Range** object to create a list of the unique values, and the number of times those unique values occur, in the range of column A.
 
 
 
@@ -222,18 +222,18 @@ End Sub
 
 ## Remarks
 
-The following properties and methods for returning a  **Range** object are described in the examples section:
+The following properties and methods for returning a **Range** object are described in the examples section:
 
 
--  **[Range](http://msdn.microsoft.com/library/9a323305-c822-ef9e-1cc8-ec077a976834%28Office.15%29.aspx)** property
+- **[Range](http://msdn.microsoft.com/library/9a323305-c822-ef9e-1cc8-ec077a976834%28Office.15%29.aspx)** property
     
--  **[Cells](http://msdn.microsoft.com/library/19c14e41-7d8e-b56f-fd60-717df64edee8%28Office.15%29.aspx)** property
+- **[Cells](http://msdn.microsoft.com/library/19c14e41-7d8e-b56f-fd60-717df64edee8%28Office.15%29.aspx)** property
     
--  **Range** and **Cells**
+- **Range** and **Cells**
     
--  **[Offset](http://msdn.microsoft.com/library/dfbbd1a2-2f73-fd6a-6277-4584823f55a4%28Office.15%29.aspx)** property
+- **[Offset](http://msdn.microsoft.com/library/dfbbd1a2-2f73-fd6a-6277-4584823f55a4%28Office.15%29.aspx)** property
     
--  **[Union](http://msdn.microsoft.com/library/7c70a5be-2696-5fc2-bd69-6c6ff4d3291e%28Office.15%29.aspx)** method
+- **[Union](http://msdn.microsoft.com/library/7c70a5be-2696-5fc2-bd69-6c6ff4d3291e%28Office.15%29.aspx)** method
     
 
 ## Methods

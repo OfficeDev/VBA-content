@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GenerateGetPivotData Property (Excel)
 
-Returns  **True** when Microsoft Excel can get PivotTable report data. Read/write **Boolean** .
+Returns **True** when Microsoft Excel can get PivotTable report data. Read/write **Boolean** .
 
 
 ## Syntax

@@ -29,7 +29,7 @@ Occurs before the explorer goes to a new folder, either as a result of user acti
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _NewFolder_|Required| **Object**|The  **[Folder](folder-object-outlook.md)** object the explorer is switching to.|
+| _NewFolder_|Required| **Object**|The **[Folder](folder-object-outlook.md)** object the explorer is switching to.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , navigation is cancelled, and the current folder is not changed.|
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSet.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **SignatureSet** object. Read-only.
+Gets a **Long** indicating the number of items in the **SignatureSet** object. Read-only.
 
 
 ## Syntax

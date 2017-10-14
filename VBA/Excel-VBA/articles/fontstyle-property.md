@@ -22,7 +22,7 @@ Returns or sets the font style. Read/write Variant.
 
 ## Remarks
 
-Changing this property may affect other  **Font** properties (such as **Bold** and **Italic**).
+Changing this property may affect other **Font** properties (such as **Bold** and **Italic**).
 
 
 ## Example

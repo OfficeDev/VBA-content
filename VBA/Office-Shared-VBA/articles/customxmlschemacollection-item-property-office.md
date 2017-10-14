@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLSchemaCollection.Item Property (Office)
 
-Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collection. Read-only.
+Gets a **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collec
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the  **CustomXMLSchema** object to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the **CustomXMLSchema** object to be returned.|
 
 ### Return Value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.Caption Property (Excel)
 
-Returns the caption assigned to the  **Action** object. Read-only **String** .
+Returns the caption assigned to the **Action** object. Read-only **String** .
 
 
 ## Syntax

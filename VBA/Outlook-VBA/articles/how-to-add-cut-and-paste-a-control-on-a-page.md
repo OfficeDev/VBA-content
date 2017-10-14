@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # How to: Add, Cut, and Paste a Control on a Page
 
-The following example uses the Microsoft Forms 2.0  **Controls**collection, and the  **Controls.Add**,  **Controls.Cut**, and  **[Page.Paste](page-paste-method-outlook-forms-script.md)** methods to add, cut, and paste a control on a **[Page](page-object-outlook-forms-script.md)** of a **[MultiPage](multipage-object-outlook-forms-script.md)**. The control involved in the cut and paste operations is dynamically added to the form.
+The following example uses the Microsoft Forms 2.0 **Controls**collection, and the **Controls.Add**, **Controls.Cut**, and **[Page.Paste](page-paste-method-outlook-forms-script.md)** methods to add, cut, and paste a control on a **[Page](page-object-outlook-forms-script.md)** of a **[MultiPage](multipage-object-outlook-forms-script.md)**. The control involved in the cut and paste operations is dynamically added to the form.
 
 This example assumes the user will add, then cut, then paste the new control.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 
-- Three  **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 through CommandButton3.
+- Three **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 through CommandButton3.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
 
 

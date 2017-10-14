@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[CTPFactoryAvailable](icustomtaskpaneconsumer-ctpfactoryavailable-method-office.md)|Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.|
+|[CTPFactoryAvailable](icustomtaskpaneconsumer-ctpfactoryavailable-method-office.md)|Passes an **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.|
 

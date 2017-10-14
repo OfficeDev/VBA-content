@@ -18,7 +18,7 @@ Represents a Contact card.
 
 ## Remarks
 
-You cannot create a new instance of a  **ContactCard** object programmatically. The **ContactCard** object is returned as an **IRibbonControl.Context** object when a Microsoft Office Fluent Ribbon callback procedure is triggered from the Contact Card context menu. You use the **ContactCard** object to determine additional information about the entity displayed in the Contact Card.
+You cannot create a new instance of a **ContactCard** object programmatically. The **ContactCard** object is returned as an **IRibbonControl.Context** object when a Microsoft Office Fluent Ribbon callback procedure is triggered from the Contact Card context menu. You use the **ContactCard** object to determine additional information about the entity displayed in the Contact Card.
 
 
 ## Properties

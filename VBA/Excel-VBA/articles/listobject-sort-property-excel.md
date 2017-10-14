@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Sort Property (Excel)
 
-Gets or sets the sort column or columns, and sort order for the  **ListObject** collection.
+Gets or sets the sort column or columns, and sort order for the **ListObject** collection.
 
 
 ## Syntax

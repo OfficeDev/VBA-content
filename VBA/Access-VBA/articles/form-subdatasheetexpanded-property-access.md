@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.SubdatasheetExpanded Property (Access)
 
-You can use the  **SubdatasheetExpanded** property to specify or determine the saved state of all subdatasheets within a table or query. Read/write **Boolean**.
+You can use the **SubdatasheetExpanded** property to specify or determine the saved state of all subdatasheets within a table or query. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **SubdatasheetExpanded** property to specify or determine the s
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
-To set the  **SubdatasheetExpanded** property by using Visual Basic, you must first create the property by using the DAO **CreateProperty** method.
+To set the **SubdatasheetExpanded** property by using Visual Basic, you must first create the property by using the DAO **CreateProperty** method.
 
-The  **SubdatasheetExpanded** and **SubdatasheetHeight** properties take effect on the subform control when the form is in datasheet view.
+The **SubdatasheetExpanded** and **SubdatasheetHeight** properties take effect on the subform control when the form is in datasheet view.
 
 
 ## Example

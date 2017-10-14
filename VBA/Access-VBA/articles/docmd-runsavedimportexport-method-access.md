@@ -36,13 +36,13 @@ Run a saved import or export specification.
 This method has the same effect as performing the following procedure in Access:
 
 
-1. On the  **External Data** tab, click either **Saved Imports** or **Saved Exports**.
+1. On the **External Data** tab, click either **Saved Imports** or **Saved Exports**.
     
-2. In the  **Manage Data Tasks** dialog box, on the **Saved Imports** or **Saved Exports** tab (depending on your choice in the preceding step), click the specification that you want to run.
+2. In the **Manage Data Tasks** dialog box, on the **Saved Imports** or **Saved Exports** tab (depending on your choice in the preceding step), click the specification that you want to run.
     
-3. Click  **Run**. 
+3. Click **Run**. 
     
-Before running the  **RunSavedImportExport** method, make sure that the source and destination files exist, the source data is ready for importing, and that the operation will not accidentally overwrite any data in your destination file.
+Before running the **RunSavedImportExport** method, make sure that the source and destination files exist, the source data is ready for importing, and that the operation will not accidentally overwrite any data in your destination file.
 
 
 ## See also

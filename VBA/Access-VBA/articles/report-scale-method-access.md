@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Scale Method (Access)
 
-The  **Scale** method defines the coordinate system for a **[Report](report-object-access.md)** object.
+The **Scale** method defines the coordinate system for a **[Report](report-object-access.md)** object.
 
 
 ## Syntax
@@ -42,14 +42,14 @@ Nothing
 
 ## Remarks
 
-You can use this method only in an event procedure or a macro specified by the  **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
+You can use this method only in an event procedure or a macro specified by the **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
 
-You can use the  **Scale** method to reset the coordinate system to any scale you choose. Using the **Scale** method with no arguments resets the coordinate system to twips. The **Scale** method affects the coordinate system for the **Print** method and the report graphics methods, which include the **Circle**, **Line**, and **PSet** methods.
+You can use the **Scale** method to reset the coordinate system to any scale you choose. Using the **Scale** method with no arguments resets the coordinate system to twips. The **Scale** method affects the coordinate system for the **Print** method and the report graphics methods, which include the **Circle**, **Line**, and **PSet** methods.
 
 
 ## Example
 
-The following example draws a circle with one scale, then uses the  **Scale** method to change the scale and draw another circle with the new scale.
+The following example draws a circle with one scale, then uses the **Scale** method to change the scale and draw another circle with the new scale.
 
 
 ```vb

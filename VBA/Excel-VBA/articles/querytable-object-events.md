@@ -19,6 +19,6 @@ ms.date: 06/08/2017
 -  [BeforeRefresh](querytable-beforerefresh-event-excel.md)
     
 
- **Note**  To write event procedures for a  **QueryTable** object, you must first create a new object by using the **WithEvents** keyword in a class module. For more information, see [Using Events with the QueryTable Object](using-events-with-the-querytable-object.md).
+ **Note**  To write event procedures for a **QueryTable** object, you must first create a new object by using the **WithEvents** keyword in a class module. For more information, see [Using Events with the QueryTable Object](using-events-with-the-querytable-object.md).
 
 

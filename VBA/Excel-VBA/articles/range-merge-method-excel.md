@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Merge Method (Excel)
 
-Creates a merged cell from the specified  **[Range](range-object-excel.md)** object.
+Creates a merged cell from the specified **[Range](range-object-excel.md)** object.
 
 
 ## Syntax

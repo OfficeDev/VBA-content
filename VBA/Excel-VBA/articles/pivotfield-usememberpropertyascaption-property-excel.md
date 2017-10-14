@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.UseMemberPropertyAsCaption Property (Excel)
 
-This property is used to control whether member property captions are used for PivotItem captions of the PivotField. Read/write  **Boolean** .
+This property is used to control whether member property captions are used for PivotItem captions of the PivotField. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,11 +25,11 @@ This property is used to control whether member property captions are used for P
 
 ## Remarks
 
-If  **UseMemberPropertyAsCaption** is set to **True** for a PivotField, then **MemberPropertyCaption** specifies which member property caption to display. If none is specified, the first member property of that PivotField (in data source order) will be displayed as the caption for items of that PivotField.
+If **UseMemberPropertyAsCaption** is set to **True** for a PivotField, then **MemberPropertyCaption** specifies which member property caption to display. If none is specified, the first member property of that PivotField (in data source order) will be displayed as the caption for items of that PivotField.
 
-If  **UseMemberPropertyAsCaption** is set to **False** , then the regular PivotItem captions are used for the PivotField.
+If **UseMemberPropertyAsCaption** is set to **False** , then the regular PivotItem captions are used for the PivotField.
 
-If you try to set  **UseMemberPropertyAsCaption** to **True** for a PivotField with no member properties, a run-time error is returned. For PivotFields with no member properties, the property will always be **False** .
+If you try to set **UseMemberPropertyAsCaption** to **True** for a PivotField with no member properties, a run-time error is returned. For PivotFields with no member properties, the property will always be **False** .
 
 
 ## See also

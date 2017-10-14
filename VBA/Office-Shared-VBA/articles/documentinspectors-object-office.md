@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # DocumentInspectors Object (Office)
 
-Represents a collection of  **DocumentInspector** objects.
+Represents a collection of **DocumentInspector** objects.
 
 
 ## Remarks
 
-The  **DocumentInspectors** collection is part of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in MicrosoftPowerPoint. A **DocumentInspectors** collection contains multiple **DocumentInspector** objects, one for some built-in options and each installed custom Document Inspector module. For more information, see the **DocumentInspector** help topic.
+The **DocumentInspectors** collection is part of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in MicrosoftPowerPoint. A **DocumentInspectors** collection contains multiple **DocumentInspector** objects, one for some built-in options and each installed custom Document Inspector module. For more information, see the **DocumentInspector** help topic.
 
 
 ## Example
 
-The following example calls the  **Fix** method of a Document Inspector module and displays the status of the action and the specific items that are removed.
+The following example calls the **Fix** method of a Document Inspector module and displays the status of the action and the specific items that are removed.
 
 
 ```

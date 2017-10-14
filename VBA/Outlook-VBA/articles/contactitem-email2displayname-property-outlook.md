@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email2DisplayName Property (Outlook)
 
-Returns a  **String** representing the display name of the second e-mail entry for the contact. Read/write.
+Returns a **String** representing the display name of the second e-mail entry for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the display name of the second e-mail entry f
 
 ## Remarks
 
-This property is set to the value of the  **[FullName](contactitem-fullname-property-outlook.md)** property by default.
+This property is set to the value of the **[FullName](contactitem-fullname-property-outlook.md)** property by default.
 
 
 ## See also

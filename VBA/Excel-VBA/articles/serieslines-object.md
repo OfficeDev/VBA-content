@@ -18,7 +18,7 @@ Represents series lines in the specified chart group. Series lines connect the d
 
 ## Using the SeriesLines Object
 
-Use the  **SeriesLines** property to return the **SeriesLines** object. The following example adds series lines to chart group one in the chart. The chart must be a 2-D stacked-bar or column chart.
+Use the **SeriesLines** property to return the **SeriesLines** object. The following example adds series lines to chart group one in the chart. The chart must be a 2-D stacked-bar or column chart.
 
 
 ```vb
@@ -31,6 +31,6 @@ End With
 
 ## Remarks
 
-If the  **[HasSeriesLines](hasserieslines-property.md)** property is  **False**, most properties of the  **SeriesLines** object are disabled.
+If the **[HasSeriesLines](hasserieslines-property.md)** property is **False**, most properties of the **SeriesLines** object are disabled.
 
 

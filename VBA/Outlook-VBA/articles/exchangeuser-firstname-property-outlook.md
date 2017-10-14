@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.FirstName Property (Outlook)
 
-Returns a  **String** representing the first name of the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns a **String** representing the first name of the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the first name of the **[ExchangeUser](exchan
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagGivenName** .
+This property corresponds to the MAPI property, **PidTagGivenName** .
 
  Returns an empty string if this property has not been implemented or does not exist for the **ExchangeUser** object.
 

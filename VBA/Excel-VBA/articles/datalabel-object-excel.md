@@ -23,7 +23,7 @@ Represents the data label on a chart point or trendline.
 
 ## Example
 
-Use  **[DataLabels](series-datalabels-method-excel.md)** ( _index_ ), where _index_ is the data-label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in embedded chart one on worksheet one.
+Use **[DataLabels](series-datalabels-method-excel.md)** ( _index_ ), where _index_ is the data-label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in embedded chart one on worksheet one.
 
 
 ```
@@ -31,7 +31,7 @@ Worksheets(1).ChartObjects(1).Chart _
  .SeriesCollection(1).DataLabels(5).NumberFormat = "0.000"
 ```
 
-Use the  **[DataLabel](point-datalabel-property-excel.md)** property to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in series one on the chart sheet named "Chart1" and sets the data label text to "Saturday."
+Use the **[DataLabel](point-datalabel-property-excel.md)** property to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in series one on the chart sheet named "Chart1" and sets the data label text to "Saturday."
 
 
 
@@ -45,7 +45,7 @@ With Charts("chart1")
 End With
 ```
 
-On a trendline, the  **[DataLabel](trendline-datalabel-property-excel.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text to show only the equation and then places the data label text in cell A1 on the worksheet named "Sheet1."
+On a trendline, the **[DataLabel](trendline-datalabel-property-excel.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text to show only the equation and then places the data label text in cell A1 on the worksheet named "Sheet1."
 
 
 

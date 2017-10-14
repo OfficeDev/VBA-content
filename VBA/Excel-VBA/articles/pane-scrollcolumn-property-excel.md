@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.ScrollColumn Property (Excel)
 
-Returns or sets the number of the leftmost column in the pane or window. Read/write  **Long** .
+Returns or sets the number of the leftmost column in the pane or window. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number of the leftmost column in the pane or window. Read/wr
 
 ## Remarks
 
-If the window is split, the  **ScrollColumn** property of the **[Window](window-object-excel.md)** object refers to the upper-left pane. If the panes are frozen, the **ScrollColumn** property of the **Window** object excludes the frozen areas.
+If the window is split, the **ScrollColumn** property of the **[Window](window-object-excel.md)** object refers to the upper-left pane. If the panes are frozen, the **ScrollColumn** property of the **Window** object excludes the frozen areas.
 
 
 ## See also

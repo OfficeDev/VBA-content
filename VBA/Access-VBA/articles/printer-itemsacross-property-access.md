@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.ItemsAcross Property (Access)
 
-Returns or sets a  **Long** indicating the number of columns to print across a page for multiple-column reports or labels. Read/write.
+Returns or sets a **Long** indicating the number of columns to print across a page for multiple-column reports or labels. Read/write.
 
 
 ## Syntax

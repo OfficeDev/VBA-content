@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # WithEvents <keyword>
 
-The  **WithEvents** keyword is used in these contexts:
+The **WithEvents** keyword is used in these contexts:
 
 [Dim Statement](dim-statement.md)
 

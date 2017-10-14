@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Paste Method (Office)
 
-Pastes the contents of the Clipboard into the  **TextRange2** object.
+Pastes the contents of the Clipboard into the **TextRange2** object.
 
 
 ## Syntax

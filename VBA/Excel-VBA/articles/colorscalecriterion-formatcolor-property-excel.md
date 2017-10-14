@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScaleCriterion.FormatColor Property (Excel)
 
-Returns a  **[FormatColor](formatcolor-object-excel.md)** object, which specifies the color assigned to the threshold of a color scale conditional format. Read-only.
+Returns a **[FormatColor](formatcolor-object-excel.md)** object, which specifies the color assigned to the threshold of a color scale conditional format. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[FormatColor](formatcolor-object-excel.md)** object, which specifie
 
 ## Remarks
 
-You can set the color of the minimum, midpoint, or maximum thresholds to any custom color by using the  **[Color](formatcolor-color-property-excel.md)** property; or use the **[ThemeColor](formatcolor-themecolor-property-excel.md)** property.
+You can set the color of the minimum, midpoint, or maximum thresholds to any custom color by using the **[Color](formatcolor-color-property-excel.md)** property; or use the **[ThemeColor](formatcolor-themecolor-property-excel.md)** property.
 
 
 ## See also

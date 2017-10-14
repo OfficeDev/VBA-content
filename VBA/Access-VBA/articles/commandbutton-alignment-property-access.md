@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandButton.Alignment Property (Access)
 
-Gets or sets how the specified button's caption and picture are aligned. Read/write  **Byte**.
+Gets or sets how the specified button's caption and picture are aligned. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets how the specified button's caption and picture are aligned. Read/wr
 
 ## Remarks
 
-The  **Alignment** property uses the following settings.
+The **Alignment** property uses the following settings.
 
 
 

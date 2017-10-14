@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.AllowInCellEditing Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether in-cell editing is allowed in the **[CardView](cardview-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines whether in-cell editing is allowed in the **[CardView](cardview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

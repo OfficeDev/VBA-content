@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TransitionMenuKey Property (Excel)
 
-Returns or sets the Microsoft Excel menu or help key, which is usually "/". Read/write  **String** .
+Returns or sets the Microsoft Excel menu or help key, which is usually "/". Read/write **String** .
 
 
 ## Syntax

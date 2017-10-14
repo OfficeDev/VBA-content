@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScaleCriterion.Value Property (Excel)
 
-Returns or sets the minimum, midpoint, or maximum threshold value for a color scale conditional format. Read/write  **Variant** .
+Returns or sets the minimum, midpoint, or maximum threshold value for a color scale conditional format. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the minimum, midpoint, or maximum threshold value for a color sc
 
 ## Remarks
 
-You can set the value only if the  **[ColorScaleCriterion.Type](colorscalecriterion-type-property-excel.md)** property for the conditional format is set to one of the following constants: **xlConditionValueNumber** , **xlConditionValuePercent** , **xlConditionValuePercentile** , or **xlConditionValueFormula** .
+You can set the value only if the **[ColorScaleCriterion.Type](colorscalecriterion-type-property-excel.md)** property for the conditional format is set to one of the following constants: **xlConditionValueNumber** , **xlConditionValuePercent** , **xlConditionValuePercentile** , or **xlConditionValueFormula** .
 
-If the type of threshold is a formula, you can set the formula as a  **String** . The formula must return a single number.
+If the type of threshold is a formula, you can set the formula as a **String** . The formula must return a single number.
 
 
 ## See also

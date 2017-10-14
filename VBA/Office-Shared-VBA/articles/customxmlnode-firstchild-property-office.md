@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.FirstChild Property (Office)
 
-Gets a  **CustomXMLNode** object corresponding to the first child element of the current node. If the node has no child elements (or if it isn't of type **msoCustomXMLNodeElement** ), returns **Nothing**. Read-only.
+Gets a **CustomXMLNode** object corresponding to the first child element of the current node. If the node has no child elements (or if it isn't of type **msoCustomXMLNodeElement** ), returns **Nothing**. Read-only.
 
 
 ## Syntax

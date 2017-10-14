@@ -7,9 +7,9 @@ ms.date: 06/08/2017
 
 
 # IRibbonUI Members (Office)
-The object that is returned by the  **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
+The object that is returned by the **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
 
-The object that is returned by the  **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
+The object that is returned by the **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
 
 
 ## Methods

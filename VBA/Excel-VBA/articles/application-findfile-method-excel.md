@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FindFile Method (Excel)
 
-Displays the  **Open** dialog box.
+Displays the **Open** dialog box.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Boolean
 
 ## Remarks
 
-This method displays the  **Open** dialog box and allows the user to open a file. If a new file is opened successfully, this method returns **True** . If the user cancels the dialog box, this method returns **False** .
+This method displays the **Open** dialog box and allows the user to open a file. If a new file is opened successfully, this method returns **True** . If the user cancels the dialog box, this method returns **False** .
 
 
 ## Example
 
-This example displays the  **Open** dialog box.
+This example displays the **Open** dialog box.
 
 
 ```vb

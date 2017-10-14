@@ -30,13 +30,13 @@ nothing
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the  **OnActivate**, or **OnDeactivate** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **OnActivate**, or **OnDeactivate** property to the name of the macro or to [Event Procedure].
 
 You can make a report or report active by opening it, clicking it or a control on it.
 
-The  **Activate** event can occur only when a report is visible.
+The **Activate** event can occur only when a report is visible.
 
-The  **Activate** event occurs before the **GotFocus** event; the Deactivate event occurs after the **LostFocus** event.
+The **Activate** event occurs before the **GotFocus** event; the Deactivate event occurs after the **LostFocus** event.
 
 
 ## See also

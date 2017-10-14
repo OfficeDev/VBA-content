@@ -20,9 +20,9 @@ Represents a distribution list in a Contacts folder.
 
  A distribution list can contain multiple recipients and is used to send messages to everyone in the list.
 
-Use the  **[CreateItem](application-createitem-method-outlook.md)** method to create a **DistListItem** object that represents a new distribution list.
+Use the **[CreateItem](application-createitem-method-outlook.md)** method to create a **DistListItem** object that represents a new distribution list.
 
-Use  **[Items](folder-items-property-outlook.md)** ( _index_ ), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem** ).
+Use **[Items](folder-items-property-outlook.md)** ( _index_ ), where _index_ is the index number of an item in a contacts folder or a value used to match the default property of an item in the folder, to return a single **DistListItem** object from a contacts folder (that is, a folder whose default item type is **olContactItem** ).
 
 
 ## Example

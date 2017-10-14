@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope.Introduction Property (Office)
 
-Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the e-mail. Read/write.
+Sets or gets the introductory text that is included with a document that is sent using the **MsoEnvelope** object. The introductory text is included at the top of the document in the e-mail. Read/write.
 
 
 ## Syntax

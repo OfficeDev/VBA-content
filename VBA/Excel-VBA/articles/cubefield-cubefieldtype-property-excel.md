@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.CubeFieldType Property (Excel)
 
-Indicates whether the OLAP cube field is a hierarchy field or a measure field. Can be one of the  **[XlCubeFieldType](xlcubefieldtype-enumeration-excel.md)** constants.
+Indicates whether the OLAP cube field is a hierarchy field or a measure field. Can be one of the **[XlCubeFieldType](xlcubefieldtype-enumeration-excel.md)** constants.
 
 
 ## Syntax

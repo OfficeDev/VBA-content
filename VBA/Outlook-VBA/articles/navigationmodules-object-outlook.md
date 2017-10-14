@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # NavigationModules Object (Outlook)
 
-Contains a read-only set of  **[NavigationModule](navigationmodule-object-outlook.md)** objects that represent the navigation modules displayed by the Navigation Pane.
+Contains a read-only set of **[NavigationModule](navigationmodule-object-outlook.md)** objects that represent the navigation modules displayed by the Navigation Pane.
 
 
 ## Remarks
 
-Use the  **[Modules](navigationpane-modules-property-outlook.md)** property of the **[NavigationPane](navigationpane-object-outlook.md)** object to return a **NavigationModules** object.
+Use the **[Modules](navigationpane-modules-property-outlook.md)** property of the **[NavigationPane](navigationpane-object-outlook.md)** object to return a **NavigationModules** object.
 
-Use the  **[Item](navigationmodules-item-method-outlook.md)** method to retrieve a **NavigationModule** object by either the name or ordinal position of the navigation module within the collection, or use the **[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)** method to return a **NavigationModule** object by the navigation module type.
+Use the **[Item](navigationmodules-item-method-outlook.md)** method to retrieve a **NavigationModule** object by either the name or ordinal position of the navigation module within the collection, or use the **[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)** method to return a **NavigationModule** object by the navigation module type.
 
-Use the  **[Count](navigationmodules-count-property-outlook.md)** property to return the number of navigation modules contained in the Navigation Pane.
+Use the **[Count](navigationmodules-count-property-outlook.md)** property to return the number of navigation modules contained in the Navigation Pane.
 
 
 ## Methods

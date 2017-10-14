@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultProfileName Property (Outlook)
 
-Returns a  **String** representing the name of the default profile name. Read-only.
+Returns a **String** representing the name of the default profile name. Read-only.
 
 
 ## Syntax

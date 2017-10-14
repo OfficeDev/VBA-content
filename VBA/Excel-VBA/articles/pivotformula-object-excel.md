@@ -23,7 +23,7 @@ This object and its associated properties and methods aren't available for OLAP 
 
 ## Example
 
-Use  **[PivotFormulas](pivottable-pivotformulas-property-excel.md)** ( _index_ ), where _index_ is the formula number or string on the left side of the formula, to return the **PivotFormula** object. The following example changes the index number for formula one in the first PivotTable report on the first worksheet so that this formula will be solved after formula two.
+Use **[PivotFormulas](pivottable-pivotformulas-property-excel.md)** ( _index_ ), where _index_ is the formula number or string on the left side of the formula, to return the **PivotFormula** object. The following example changes the index number for formula one in the first PivotTable report on the first worksheet so that this formula will be solved after formula two.
 
 
 ```vb

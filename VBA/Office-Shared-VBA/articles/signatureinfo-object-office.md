@@ -18,7 +18,7 @@ Represents the information used to create a digital or in-document signature.
 
 ## Example
 
-The following example uses the  **GetCertificationDetails** method of the **SignatureInfo** object to get the expiration date of the digital certificate.
+The following example uses the **GetCertificationDetails** method of the **SignatureInfo** object to get the expiration date of the digital certificate.
 
 
 ```

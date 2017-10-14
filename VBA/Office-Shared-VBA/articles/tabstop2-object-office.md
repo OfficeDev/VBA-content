@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TabStop2 Object (Office)
 
-Represents a single tab stop. The  **TabStop2** object is a member of the **TabStops2** collection.
+Represents a single tab stop. The **TabStop2** object is a member of the **TabStops2** collection.
 
 
 ## Remarks

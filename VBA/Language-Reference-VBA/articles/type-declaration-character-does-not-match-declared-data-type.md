@@ -17,7 +17,7 @@ The [data type](vbe-glossary.md) of a[variable](vbe-glossary.md) can't be change
 
 - You declared a variable of a specific type, referenced a variable of the same name in the same [scope](vbe-glossary.md), and then appended an inconsistent type-declaration character.
     
-    If you want to be able to change the type of data assigned to a variable, declare the variable as a  **Variant**. If you simply appended an incorrect type-declaration character, delete or change it.
+    If you want to be able to change the type of data assigned to a variable, declare the variable as a **Variant**. If you simply appended an incorrect type-declaration character, delete or change it.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

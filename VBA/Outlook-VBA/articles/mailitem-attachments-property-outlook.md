@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Attachments Property (Outlook)
 
-Returns an  **[Attachments](attachments-object-outlook.md)** object that represents all the attachments for the specified item. Read-only.
+Returns an **[Attachments](attachments-object-outlook.md)** object that represents all the attachments for the specified item. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Attachments](attachments-object-outlook.md)** object that represe
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Attachments.Remove](attachments-remove-method-outlook.md)** method to remove all attachments from a forwarded mail message before sending it on to 'Dan Wilson'. To run this example, replace 'Dan Wilson' with a valid recipient's name and keep an item with attachments open in an inspector window.
+This Visual Basic for Applications (VBA) example uses the **[Attachments.Remove](attachments-remove-method-outlook.md)** method to remove all attachments from a forwarded mail message before sending it on to 'Dan Wilson'. To run this example, replace 'Dan Wilson' with a valid recipient's name and keep an item with attachments open in an inspector window.
 
 
 ```vb

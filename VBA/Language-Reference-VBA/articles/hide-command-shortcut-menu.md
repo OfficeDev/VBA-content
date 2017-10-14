@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Hide Command (Shortcut Menu)
 
-Hides the active window, project, folder, module, or the  **Toolbox**.
+Hides the active window, project, folder, module, or the **Toolbox**.
 
 

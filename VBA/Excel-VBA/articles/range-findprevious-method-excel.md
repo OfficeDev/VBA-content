@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.FindPrevious Method (Excel)
 
-Continues a search that was begun with the  **[Find](range-find-method-excel.md)** method. Finds the previous cell that matches those same conditions and returns a **[Range](range-object-excel.md)** object that represents that cell. Doesn?t affect the selection or the active cell.
+Continues a search that was begun with the **[Find](range-find-method-excel.md)** method. Finds the previous cell that matches those same conditions and returns a **[Range](range-object-excel.md)** object that represents that cell. Doesn?t affect the selection or the active cell.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ When the search reaches the beginning of the specified search range, it wraps ar
 
 ## Example
 
-This example shows how the  **FindPrevious** method is used with the **Find** and **[FindNext](range-findnext-method-excel.md)** methods. Before running this example, make sure that Sheet1 contains at least two occurrences of the word ?Phoenix? in column B.
+This example shows how the **FindPrevious** method is used with the **Find** and **[FindNext](range-findnext-method-excel.md)** methods. Before running this example, make sure that Sheet1 contains at least two occurrences of the word ?Phoenix? in column B.
 
 
 ```vb

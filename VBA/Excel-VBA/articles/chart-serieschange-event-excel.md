@@ -33,7 +33,7 @@ Occurs when the user changes the value of a chart data point by clicking a bar i
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _SeriesIndex_|Required| **Long**| The offset within the **[Series](series-object-excel.md)** collection for the changed series.|
-| _PointIndex_|Required| **Long**|The offset within the  **[Points](points-object-excel.md)** collection for the changed point.|
+| _PointIndex_|Required| **Long**|The offset within the **[Points](points-object-excel.md)** collection for the changed point.|
 
 ### Return Value
 

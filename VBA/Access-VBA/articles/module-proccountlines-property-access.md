@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.ProcCountLines Property (Access)
 
-The  **ProcCountLines** property returns the number of lines in a specified procedure in a standard module or a class module. Read-only **Long**.
+The **ProcCountLines** property returns the number of lines in a specified procedure in a standard module or a class module. Read-only **Long**.
 
 
 ## Syntax
@@ -40,27 +40,27 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 
 |**Constant**|**Description**|
 |:-----|:-----|
-|**vbext_pk_Get**|A  **Property Get** procedure.|
-|**vbext_pk_Let**|A  **Property Let** procedure.|
-|**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
-|**vbext_pk_Set**|A  **Property Set** procedure.|
+|**vbext_pk_Get**|A **Property Get** procedure.|
+|**vbext_pk_Let**|A **Property Let** procedure.|
+|**vbext_pk_Proc**|A **Sub** or **Function** procedure.|
+|**vbext_pk_Set**|A **Property Set** procedure.|
 The procedure begins with any comments and compilation constants that immediately precede the procedure definition, denoted by one of the following:
 
 
-- A  **Sub** statement.
+- A **Sub** statement.
     
-- A  **Function** statement.
+- A **Function** statement.
     
-- A  **Property Get** statement.
+- A **Property Get** statement.
     
-- A  **Property Let** statement.
+- A **Property Let** statement.
     
-- A  **Property Set** statement.
+- A **Property Set** statement.
     
-The  **ProcCountLines** property returns the number of lines in a procedure, beginning with the line returned by the **[ProcStartLine](module-procstartline-property-access.md)** property and ending with the line that ends the procedure. The procedure may be ended with **End Sub**, **End Function**, or **End Property**.
+The **ProcCountLines** property returns the number of lines in a procedure, beginning with the line returned by the **[ProcStartLine](module-procstartline-property-access.md)** property and ending with the line that ends the procedure. The procedure may be ended with **End Sub**, **End Function**, or **End Property**.
 
 
- **Note**  The  **ProcCountLines** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
+ **Note**  The **ProcCountLines** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
 
 
 ## Example

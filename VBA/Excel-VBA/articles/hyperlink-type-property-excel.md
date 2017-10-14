@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Type Property (Excel)
 
-Returns a  **Long** value, containing a **[MsoHyperlinkType](http://msdn.microsoft.com/library/4945ef63-e47e-2305-b4d2-afbc1c086f4d%28Office.15%29.aspx)** constant, that represents the location of the HTML frame.
+Returns a **Long** value, containing a **[MsoHyperlinkType](http://msdn.microsoft.com/library/4945ef63-e47e-2305-b4d2-afbc1c086f4d%28Office.15%29.aspx)** constant, that represents the location of the HTML frame.
 
 
 ## Syntax

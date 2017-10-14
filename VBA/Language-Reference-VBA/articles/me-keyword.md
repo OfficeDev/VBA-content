@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Me <keyword>
 
-The  **Me**[keyword](vbe-glossary.md) behaves like an implicitly declared[variable](vbe-glossary.md). It is automatically available to every [procedure](vbe-glossary.md) in a[class module](vbe-glossary.md). When a [class](vbe-glossary.md) can have more than one instance, **Me** provides a way to refer to the specific instance of the class where the code is executing. Using **Me** is particularly useful for passing information about the currently executing instance of a class to a procedure in another[module](vbe-glossary.md). For example, suppose you have the following procedure in a module:
+The **Me**[keyword](vbe-glossary.md) behaves like an implicitly declared[variable](vbe-glossary.md). It is automatically available to every [procedure](vbe-glossary.md) in a[class module](vbe-glossary.md). When a [class](vbe-glossary.md) can have more than one instance, **Me** provides a way to refer to the specific instance of the class where the code is executing. Using **Me** is particularly useful for passing information about the currently executing instance of a class to a procedure in another[module](vbe-glossary.md). For example, suppose you have the following procedure in a module:
 
 
 ```vb

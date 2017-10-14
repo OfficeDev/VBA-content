@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.WebViewOn Property (Outlook)
 
-Returns or sets a  **Boolean** indicating the Web view state for a folder. Read/write.
+Returns or sets a **Boolean** indicating the Web view state for a folder. Read/write.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ Returns or sets a  **Boolean** indicating the Web view state for a folder. Read/
 
 ## Remarks
 
-Returns  **True** to display the Web page specified by the **[WebViewURL](folder-webviewurl-property-outlook.md)** property of the **[Folder](folder-object-outlook.md)** object.
+Returns **True** to display the Web page specified by the **[WebViewURL](folder-webviewurl-property-outlook.md)** property of the **[Folder](folder-object-outlook.md)** object.
 
 Microsoft Outlook uses the rendering engine of the version Windows Internet Explorer installed on the client computer to display the web page. If Internet Explorer is not installed on the client computer, Outlook will not display the web page.
 
-This property is always  **False** if the value of the **WebViewURL** property is empty.
+This property is always **False** if the value of the **WebViewURL** property is empty.
 
-Also, setting the  **WebViewOn** property to **True** before setting the **WebViewURL** property will not display the home page specified in the **WebViewURL** property.
+Also, setting the **WebViewOn** property to **True** before setting the **WebViewURL** property will not display the home page specified in the **WebViewURL** property.
 
 
 ## Example

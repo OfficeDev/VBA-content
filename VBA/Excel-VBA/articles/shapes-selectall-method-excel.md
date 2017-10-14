@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.SelectAll Method (Excel)
 
-Selects all the shapes in the specified  **[Shapes](shapes-object-excel.md)** collection.
+Selects all the shapes in the specified **[Shapes](shapes-object-excel.md)** collection.
 
 
 ## Syntax

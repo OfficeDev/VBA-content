@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 
 # How to: Set the Item at the Top of a List and the Item that Has Focus in the List
 
-The following example identifies the top item displayed in a  **[ListBox](listbox-object-outlook-forms-script.md)** and the item that has the focus within the **ListBox**. This example uses the  **[TopIndex](listbox-topindex-property-outlook-forms-script.md)** property to identify the item displayed at the top of the **ListBox** and the **[ListIndex](listbox-listindex-property-outlook-forms-script.md)** property to identify the item that has the focus. The user selects an item in the **ListBox**. The displayed values of  **TopIndex** and **ListIndex** are updated when the user selects an item or when the user clicks the **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
+The following example identifies the top item displayed in a **[ListBox](listbox-object-outlook-forms-script.md)** and the item that has the focus within the **ListBox**. This example uses the **[TopIndex](listbox-topindex-property-outlook-forms-script.md)** property to identify the item displayed at the top of the **ListBox** and the **[ListIndex](listbox-listindex-property-outlook-forms-script.md)** property to identify the item that has the focus. The user selects an item in the **ListBox**. The displayed values of **TopIndex** and **ListIndex** are updated when the user selects an item or when the user clicks the **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1.
+- A **[Label](label-object-outlook-forms-script.md)** named Label1.
     
-- A  **[TextBox](textbox-object-outlook-forms-script.md)** named TextBox1.
+- A **[TextBox](textbox-object-outlook-forms-script.md)** named TextBox1.
     
-- A  **Label** named Label2.
+- A **Label** named Label2.
     
-- A  **TextBox** named TextBox2.
+- A **TextBox** named TextBox2.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **ListBox** named ListBox1 that is bound to the Subject field.
+- A **ListBox** named ListBox1 that is bound to the Subject field.
     
 
 

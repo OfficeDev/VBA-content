@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlSchema.Namespace Property (Excel)
 
-Returns an  **[XmlNamespace](xmlnamespace-object-excel.md)** object that represents the target namespace for the specified schema. Read-only.
+Returns an **[XmlNamespace](xmlnamespace-object-excel.md)** object that represents the target namespace for the specified schema. Read-only.
 
 
 ## Syntax

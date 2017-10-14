@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-A query field represents data from a table linked to the query. By default, a query field inherits all the properties that it has in the underlying table or query. For example, if a table design specifies the display format of the Order Date field as Medium Date in the field's  **Format** property, the Order Date field is formatted in the query recordset as Medium Date. Because the underlying field properties are the defaults, they aren't displayed on the property sheet.
+A query field represents data from a table linked to the query. By default, a query field inherits all the properties that it has in the underlying table or query. For example, if a table design specifies the display format of the Order Date field as Medium Date in the field's **Format** property, the Order Date field is formatted in the query recordset as Medium Date. Because the underlying field properties are the defaults, they aren't displayed on the property sheet.
 
 If a field property is changed in the table design, the query field automatically inherits the change. If, however, you change a property within the query, the property setting within the table design is overridden. If the property is later changed in the table design, the change isn't reflected in the query.
 You can set the properties for query fields within the Field Properties window of the query Design view.

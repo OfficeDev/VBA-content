@@ -11,22 +11,22 @@ ms.date: 06/08/2017
 
 # Tag Property Example
 
-The following example uses the  **Tag** property to store additional information about each control on the **UserForm**. The user clicks a control and then clicks the **CommandButton**. The contents of **Tag** for the appropriate control are returned in the **TextBox**.
+The following example uses the **Tag** property to store additional information about each control on the **UserForm**. The user clicks a control and then clicks the **CommandButton**. The contents of **Tag** for the appropriate control are returned in the **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **ScrollBar** named ScrollBar1.
+- A **ScrollBar** named ScrollBar1.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
 
 

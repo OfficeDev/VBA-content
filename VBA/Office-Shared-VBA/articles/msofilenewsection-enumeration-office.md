@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoFileNewSection Enumeration (Office)
 
-Specifies the task pane section to which to add a file or where the file reference exists. Used with the  **Add** method and the **Remove** method of the **NewFile** object.
+Specifies the task pane section to which to add a file or where the file reference exists. Used with the **Add** method and the **Remove** method of the **NewFile** object.
 
 
 

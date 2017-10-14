@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Specifies the [background color](glossary-vba.md) of the object.
  **Syntax**
  _object_. **BackColor** [= _Long_ ]
-The  **BackColor** property syntax has these parts:
+The **BackColor** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -26,5 +26,5 @@ The  **BackColor** property syntax has these parts:
  **Settings**
 You can use any integer that represents a valid color. You can also specify a color by using the [RGB](glossary-vba.md) function with red, green, and blue color components. The value of each color component is an integer that ranges from zero to 255. For example, you can specify teal blue as the integer value 4966415 or as red, green, and blue color components 15, 200, 75.
  **Remarks**
-You can only see the background color of an object if the  **BackStyle** property is set to **fmBackStyleOpaque**.
+You can only see the background color of an object if the **BackStyle** property is set to **fmBackStyleOpaque**.
 

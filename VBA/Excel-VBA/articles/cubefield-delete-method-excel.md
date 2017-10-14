@@ -25,7 +25,7 @@ Deletes the object.
 
 ## Remarks
 
-You can delete cube fields only if you have created the cube fields yourself by using the  **[Add](calculatedmembers-add-method-excel.md)** method with the **xlCalculatedSet** argument.
+You can delete cube fields only if you have created the cube fields yourself by using the **[Add](calculatedmembers-add-method-excel.md)** method with the **xlCalculatedSet** argument.
 
 
 ## See also

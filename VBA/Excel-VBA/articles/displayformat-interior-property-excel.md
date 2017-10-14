@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.Interior Property (Excel)
 
-Returns an  **[Interior](interior-object-excel.md)** object that represents the interior of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
+Returns an **[Interior](interior-object-excel.md)** object that represents the interior of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax

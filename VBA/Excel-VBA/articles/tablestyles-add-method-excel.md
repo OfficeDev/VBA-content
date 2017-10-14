@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyles.Add Method (Excel)
 
-Creates a new  **[TableStyle](tablestyle-object-excel.md)** object and adds it to the collection.
+Creates a new **[TableStyle](tablestyle-object-excel.md)** object and adds it to the collection.
 
 
 ## Syntax

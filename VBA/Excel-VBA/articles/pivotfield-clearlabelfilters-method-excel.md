@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ClearLabelFilters Method (Excel)
 
-This method deletes all label filters or all date filters in the  **PivotFilters** collection of the PivotField.
+This method deletes all label filters or all date filters in the **PivotFilters** collection of the PivotField.
 
 
 ## Syntax

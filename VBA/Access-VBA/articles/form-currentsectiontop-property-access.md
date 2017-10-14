@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.CurrentSectionTop Property (Access)
 
-You can use this property to determine the distance in twips from the top edge of the current section to the top edge of the form. Read/write  **Integer**.
+You can use this property to determine the distance in twips from the top edge of the current section to the top edge of the form. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,18 +25,18 @@ You can use this property to determine the distance in twips from the top edge o
 
 ## Remarks
 
-The  **CurrentSectionTop** property setting changes whenever a user scrolls through a form.
+The **CurrentSectionTop** property setting changes whenever a user scrolls through a form.
 
-For forms whose  **[DefaultView](form-defaultview-property-access.md)** property is set to Single Form, if the user scrolls above the upper-left corner of the section, the property settings are negative values.
+For forms whose **[DefaultView](form-defaultview-property-access.md)** property is set to Single Form, if the user scrolls above the upper-left corner of the section, the property settings are negative values.
 
-For forms whose  **DefaultView** property is set to Continuous Forms, if a section isn't visible, the **CurrentSectionTop** property is equal to the **[InsideHeight](form-insideheight-property-access.md)** property of the form.
+For forms whose **DefaultView** property is set to Continuous Forms, if a section isn't visible, the **CurrentSectionTop** property is equal to the **[InsideHeight](form-insideheight-property-access.md)** property of the form.
 
-The  **CurrentSectionTop** property is useful for finding the positions of detail sections displayed in Form view as continuous forms or in Datasheet view. Each detail section has a different **CurrentSectionTop** property setting, depending on the section's position on the form.
+The **CurrentSectionTop** property is useful for finding the positions of detail sections displayed in Form view as continuous forms or in Datasheet view. Each detail section has a different **CurrentSectionTop** property setting, depending on the section's position on the form.
 
 
 ## Example
 
-The following example displays the  **CurrentSectionLeft** and **CurrentSectionTop** property settings for a control on a continuous form. Whenever the user moves to a new record, the property settings for the current section are displayed in the `lblStatus` label in the form's header.
+The following example displays the **CurrentSectionLeft** and **CurrentSectionTop** property settings for a control on a continuous form. Whenever the user moves to a new record, the property settings for the current section are displayed in the `lblStatus` label in the form's header.
 
 
 ```vb

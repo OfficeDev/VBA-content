@@ -38,7 +38,7 @@ Variant
 
 ## Remarks
 
-The  **CurrentWebUserGroups** method returns **Null** if the user is not a member of any groups.
+The **CurrentWebUserGroups** method returns **Null** if the user is not a member of any groups.
 
 
 ## See also

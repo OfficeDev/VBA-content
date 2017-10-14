@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.HiddenItemsList Property (Excel)
 
-Returns or sets a  **Variant** specifying an array of strings that are hidden items for a PivotTable field. Read/write.
+Returns or sets a **Variant** specifying an array of strings that are hidden items for a PivotTable field. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Variant** specifying an array of strings that are hidden it
 
 ## Remarks
 
-The  **HiddenItemsList** property is only valid for Online Analytical Processing (OLAP) data sources; using this property on non-OLAP data sources will return a run-time error.
+The **HiddenItemsList** property is only valid for Online Analytical Processing (OLAP) data sources; using this property on non-OLAP data sources will return a run-time error.
 
 
 ## Example

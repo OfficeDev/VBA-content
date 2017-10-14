@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.Name Property (Office)
 
-Gets the name of the built-in  **CommandBar** object. Read-only.
+Gets the name of the built-in **CommandBar** object. Read-only.
 
 
 ## 
@@ -31,7 +31,7 @@ Gets the name of the built-in  **CommandBar** object. Read-only.
 
 ## Remarks
 
-The local name of a built-in command bar is displayed in the title bar (when the command bar isn't docked) and in the list of available command bars — wherever that list is displayed in the container application. For a built-in command bar, the  **Name** property returns the command bar's U.S. English name. Use the **NameLocal** property to return the localized name. If you change the value of the **LocalName** property for a custom command bar, the value of **Name** changes as well, and vice versa.
+The local name of a built-in command bar is displayed in the title bar (when the command bar isn't docked) and in the list of available command bars — wherever that list is displayed in the container application. For a built-in command bar, the **Name** property returns the command bar's U.S. English name. Use the **NameLocal** property to return the localized name. If you change the value of the **LocalName** property for a custom command bar, the value of **Name** changes as well, and vice versa.
 
 
 ## Example

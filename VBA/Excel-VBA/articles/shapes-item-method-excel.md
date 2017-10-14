@@ -33,17 +33,17 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Shape](shape-object-excel.md)** object contained by the collection.
+A **[Shape](shape-object-excel.md)** object contained by the collection.
 
 
 ## Remarks
 
-The text name of the object is the value of the  **[Name](shape-name-property-excel.md)** property.
+The text name of the object is the value of the **[Name](shape-name-property-excel.md)** property.
 
 
 ## Example
 
-This example sets the  **OnAction** property for shape two in a **Shapes** collection. If the ss variable doesn?t represent a **Shapes** object, this example fails.
+This example sets the **OnAction** property for shape two in a **Shapes** collection. If the ss variable doesn?t represent a **Shapes** object, this example fails.
 
 
 ```vb

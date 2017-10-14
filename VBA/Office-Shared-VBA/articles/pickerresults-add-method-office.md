@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerResults.Add Method (Office)
 
-Adds a  **PickerResult** object to the **PickerResults** collection.
+Adds a **PickerResult** object to the **PickerResults** collection.
 
 
 ## Syntax

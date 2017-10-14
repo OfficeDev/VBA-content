@@ -33,7 +33,7 @@ Creates a new style and adds it to the list of styles that are available for the
 
 ### Return Value
 
-A  **[Style](style-object-excel.md)** object that represents the new style.
+A **[Style](style-object-excel.md)** object that represents the new style.
 
 
 ## Example

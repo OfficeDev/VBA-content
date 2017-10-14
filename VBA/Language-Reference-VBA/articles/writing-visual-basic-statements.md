@@ -25,7 +25,7 @@ A [statement](vbe-glossary.md) in Visual Basic is a complete instruction. It can
 
 ## Continuing a Statement over Multiple Lines
 
-A statement usually fits on one line, but you can continue a statement onto the next line using a [line-continuation character](vbe-glossary.md). In the following example, the  **MsgBox** executable statement is continued over three lines:
+A statement usually fits on one line, but you can continue a statement onto the next line using a [line-continuation character](vbe-glossary.md). In the following example, the **MsgBox** executable statement is continued over three lines:
 
 
 ```vb

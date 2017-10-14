@@ -38,11 +38,11 @@ Moves the specified object to the coordinates specified by the argument values.
 
 Only the  _Left_ argument is required. However, to specify any other arguments, you must specify all the arguments that precede it. For example, you cannot specify _Width_ without specifying _Left_ and _Top_. Any trailing arguments that are unspecified remain unchanged.
 
-This method overrides the  **Moveable** property.
+This method overrides the **Moveable** property.
 
 If a report is modal, it is still positioned relative to the Access window, but the values for  _Left_ and _Top_ can be negative.
 
-In Datasheet View or Print Preview, changes made using the  **Move** method are saved if the user explicitly saves the database, but Access does not prompt the user to save such changes.
+In Datasheet View or Print Preview, changes made using the **Move** method are saved if the user explicitly saves the database, but Access does not prompt the user to save such changes.
 
 
 ## See also

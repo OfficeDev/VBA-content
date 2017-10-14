@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.CurrentPageList Property (Excel)
 
-Returns or sets an array of strings corresponding to the list of items included in a multiple-item page field of a PivotTable report. Read/write  **Variant** .
+Returns or sets an array of strings corresponding to the list of items included in a multiple-item page field of a PivotTable report. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an array of strings corresponding to the list of items included 
 
 ## Remarks
 
-To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the Page position, and the  **[EnableMultiplePageItems](pivotfield-enablemultiplepageitems-property-excel.md)** property must be set to **True** .
+To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the Page position, and the **[EnableMultiplePageItems](pivotfield-enablemultiplepageitems-property-excel.md)** property must be set to **True** .
 
 
 ## Example

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The relationship you specified does not exist in this database. Check to see if the name you specified exists in the  **Relations** collection.
+The relationship you specified does not exist in this database. Check to see if the name you specified exists in the **Relations** collection.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

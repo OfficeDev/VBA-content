@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Report Property (Access)
 
-You can use the  **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
+You can use the **Report** property to refer to a report or to refer to the report associated with a subreport control. Read-only **Report**.
 
 
 ## Syntax
@@ -28,12 +28,12 @@ You can use the  **Report** property to refer to a report or to refer to the rep
 This property is typically used to refer to the report contained in a subreport control.
 
 
- **Note**  When you use the  **[Reports](reports-object-access.md)** collection, you must specify the name of the report.
+ **Note**  When you use the **[Reports](reports-object-access.md)** collection, you must specify the name of the report.
 
 
 ## Example
 
-The following example uses the  **Report** property to refer to a control on a subreport.
+The following example uses the **Report** property to refer to a control on a subreport.
 
 
 ```vb

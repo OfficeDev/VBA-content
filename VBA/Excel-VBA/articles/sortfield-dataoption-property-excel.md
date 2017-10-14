@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.DataOption Property (Excel)
 
-Specifies how to sort text in the range specified in  **SortField** object. Read/write **[XlSortDataOption](xlsortdataoption-enumeration-excel.md)** .
+Specifies how to sort text in the range specified in **SortField** object. Read/write **[XlSortDataOption](xlsortdataoption-enumeration-excel.md)** .
 
 
 ## Syntax

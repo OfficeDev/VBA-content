@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.WorkbookConnection Property (Excel)
 
-Retuns a new connection for the specified  **XMLMap** object. Read-only.
+Retuns a new connection for the specified **XMLMap** object. Read-only.
 
 
 ## Syntax

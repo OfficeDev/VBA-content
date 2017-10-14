@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.Recordset Property (Excel)
 
-Returns or sets a  **Recordset** object that's used as the data source for the specified query table. Read/write.
+Returns or sets a **Recordset** object that's used as the data source for the specified query table. Read/write.
 
 
 ## Syntax
@@ -25,18 +25,18 @@ Returns or sets a  **Recordset** object that's used as the data source for the s
 
 ## Remarks
 
-If this property is used to overwrite an existing recordset, the change takes effect when the  **[Refresh](querytable-refresh-method-excel.md)** method is run.
+If this property is used to overwrite an existing recordset, the change takes effect when the **[Refresh](querytable-refresh-method-excel.md)** method is run.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **RecordSet** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **RecordSet** property.
 
 
 ## Example
 
-This example changes the  **Recordset** object used with the first query table on the first worksheet and then refreshes the query table.
+This example changes the **Recordset** object used with the first query table on the first worksheet and then refreshes the query table.
 
 
 ```vb

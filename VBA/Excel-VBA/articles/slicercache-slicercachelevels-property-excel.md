@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.SlicerCacheLevels Property (Excel)
 
-Returns the collection of  **[SlicerCacheLevel](slicercachelevel-object-excel.md)** objects that represent the levels of an OLAP hierarchy on which the specified slicer cache is based. Read-only
+Returns the collection of **[SlicerCacheLevel](slicercachelevel-object-excel.md)** objects that represent the levels of an OLAP hierarchy on which the specified slicer cache is based. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the collection of  **[SlicerCacheLevel](slicercachelevel-object-excel.md
 
 ## Remarks
 
-The  **SlicerCacheLevels** property applies only to slicers that filter OLAP data sources ( **SlicerCache** . **[OLAP](slicercache-olap-property-excel.md)** = **True** ). Attempting to access this property from non-OLAP slicers will generate a run-time error.
+The **SlicerCacheLevels** property applies only to slicers that filter OLAP data sources ( **SlicerCache** . **[OLAP](slicercache-olap-property-excel.md)** = **True** ). Attempting to access this property from non-OLAP slicers will generate a run-time error.
 
 
 ## See also

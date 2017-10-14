@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.Shape Property (Access)
 
-Returns or sets the shape of the specified tab control. Read/write  **Long**.
+Returns or sets the shape of the specified tab control. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the shape of the specified tab control. Read/write  **Long**.
 
 ## Remarks
 
-The  **Shape** property uses the following settings.
+The **Shape** property uses the following settings.
 
 
 

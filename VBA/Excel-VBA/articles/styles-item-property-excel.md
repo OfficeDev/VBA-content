@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ## Example
 
-This example changes the Normal style for the active workbook by setting the style's  **Bold** property.
+This example changes the Normal style for the active workbook by setting the style's **Bold** property.
 
 
 ```vb

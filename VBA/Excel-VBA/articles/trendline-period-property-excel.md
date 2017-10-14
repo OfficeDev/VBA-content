@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.Period Property (Excel)
 
-Returns or sets the period for the moving-average trendline. Can be a value from 2 through 255. Read/write  **Long** .
+Returns or sets the period for the moving-average trendline. Can be a value from 2 through 255. Read/write **Long** .
 
 
 ## Syntax

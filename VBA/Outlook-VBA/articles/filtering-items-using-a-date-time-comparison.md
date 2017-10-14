@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 ## Filtering Recurring Items in the Calendar Folder
 
-To filter a collection of appointment items that include recurring appointments, you must use the  **[Items](items-object-outlook.md)** collection. Use the **[Items.IncludeRecurrences](items-includerecurrences-property-outlook.md)** property to specify that **[Items.Find](items-find-method-outlook.md)** or **[Items.Restrict](items-restrict-method-outlook.md)** should include recurring appointments. The **[Table](table-object-outlook.md)** object returns only one row representing the recurrent appointment item, instead of a row for each occurrence of the appointment.
+To filter a collection of appointment items that include recurring appointments, you must use the **[Items](items-object-outlook.md)** collection. Use the **[Items.IncludeRecurrences](items-includerecurrences-property-outlook.md)** property to specify that **[Items.Find](items-find-method-outlook.md)** or **[Items.Restrict](items-restrict-method-outlook.md)** should include recurring appointments. The **[Table](table-object-outlook.md)** object returns only one row representing the recurrent appointment item, instead of a row for each occurrence of the appointment.
 
 
 ## Date-time Format of Comparison Strings
@@ -19,7 +19,7 @@ Outlook evaluates date-time values according to the time format, short date form
 
 Although dates and times are typically stored with a date format, filters using the Jet and DAV Searching and Locating (DASL) syntax require that the date-time value to be converted to a string representation. In Jet syntax, the date-time comparison string should be enclosed in either double quotes or single quotes. In DASL syntax, the date-time comparison string should be enclosed in single quotes.
 
-To make sure that the date-time comparison string is formatted as Microsoft Outlook expects, use the Visual Basic for Applications  **Format** function (or its equivalent in your programming language). The following example creates a Jet filter to find all contacts that have been modified before June 12, 2005 at 3:30 P.M local time.
+To make sure that the date-time comparison string is formatted as Microsoft Outlook expects, use the Visual Basic for Applications **Format** function (or its equivalent in your programming language). The following example creates a Jet filter to find all contacts that have been modified before June 12, 2005 at 3:30 P.M local time.
 
 
 
@@ -47,12 +47,12 @@ criteria = "@SQL=" &; Chr(34) &; "DAV:getlastmodified" &; Chr(34) _
 
 ## Conversion to UTC for DASL Queries
 
-Since DASL queries always perform date-time comparisons in UTC, if you use a date literal in a comparison string, you must use its UTC value for the comparison. You can use the  **[Row.LocalTimeToUTC](row-localtimetoutc-method-outlook.md)** helper function or Outlook date-time macros to facilitate the conversion.
+Since DASL queries always perform date-time comparisons in UTC, if you use a date literal in a comparison string, you must use its UTC value for the comparison. You can use the **[Row.LocalTimeToUTC](row-localtimetoutc-method-outlook.md)** helper function or Outlook date-time macros to facilitate the conversion.
 
 
 ## LocalTimeToUTC
 
- One way to facilitate local time to UTC conversion is to use the helper function, **LocalTimeToUTC**, of the  **[Row](row-object-outlook.md)** object. The following line of code uses this helper function to convert the value of the **LastModificationTime** property (which is a default column in all **Table** objects):
+ One way to facilitate local time to UTC conversion is to use the helper function, **LocalTimeToUTC**, of the **[Row](row-object-outlook.md)** object. The following line of code uses this helper function to convert the value of the **LastModificationTime** property (which is a default column in all **Table** objects):
 
 
 ```
@@ -85,7 +85,7 @@ The date macros listed below return filter strings that compare the value of a g
 
 ## Example Showing Conversion to UTC
 
-The following code example illustrates three filter strings that return all messages received today, and applies one of the filters to  **Items.Restrict** and **[Application.AdvancedSearch](application-advancedsearch-method-outlook.md)**. It first uses  **[PropertyAccessor.LocalTimeToUTC](propertyaccessor-localtimetoutc-method-outlook.md)** to convert today's date to UTC date strings. The first filter uses the Outlook macro, **today**, to obtain a filter string that compares the  **ReceivedTime** property with today's date in UTC. The second and third macros reference the **ReceivedTime** property by two different namespaces. 
+The following code example illustrates three filter strings that return all messages received today, and applies one of the filters to **Items.Restrict** and **[Application.AdvancedSearch](application-advancedsearch-method-outlook.md)**. It first uses **[PropertyAccessor.LocalTimeToUTC](propertyaccessor-localtimetoutc-method-outlook.md)** to convert today's date to UTC date strings. The first filter uses the Outlook macro, **today**, to obtain a filter string that compares the **ReceivedTime** property with today's date in UTC. The second and third macros reference the **ReceivedTime** property by two different namespaces. 
 
 The code example finally applies the third filter to items in the Inbox twice, first using **Items.Restrict** and then using **Application.AdvancedSearch**. It prints the number of items in the Inbox, and the number of items returned from each application of the filter.
 

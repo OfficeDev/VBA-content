@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Name Property (Excel)
 
-Returns or sets a  **Variant** value that represents the name of the object.
+Returns or sets a **Variant** value that represents the name of the object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Variant** value that represents the name of the object.
 
 ## Remarks
 
-The name of a  **[Font](font-object-excel.md)** object is a **String** .
+The name of a **[Font](font-object-excel.md)** object is a **String** .
 
 
 ## See also

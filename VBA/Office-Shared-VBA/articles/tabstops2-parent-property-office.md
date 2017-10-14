@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TabStops2.Parent Property (Office)
 
-Gets an  **Object** that represents the **Parent** object of the specified **TabStops2** object. Read-only.
+Gets an **Object** that represents the **Parent** object of the specified **TabStops2** object. Read-only.
 
 
 ## Syntax

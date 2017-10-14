@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.Parent Property (Outlook)
 
-Returns the parent object of the  **[Column](column-object-outlook.md)** object. Read-only.
+Returns the parent object of the **[Column](column-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

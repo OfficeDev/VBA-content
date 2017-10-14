@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DownBars Property
 
-Returns a  **[DownBars](downbars-object.md)** object that represents the down bars on a line chart. Applies only to line charts. Read-only.
+Returns a **[DownBars](downbars-object.md)** object that represents the down bars on a line chart. Applies only to line charts. Read-only.
 
 
 ## Example

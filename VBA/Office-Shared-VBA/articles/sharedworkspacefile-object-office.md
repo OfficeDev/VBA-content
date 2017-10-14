@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceFile Object (Office)
 
-The  **SharedWorkspaceFile** object represents a file saved in a shared document workspace.
+The **SharedWorkspaceFile** object represents a file saved in a shared document workspace.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,12 +21,12 @@ The  **SharedWorkspaceFile** object represents a file saved in a shared document
 
 ## Remarks
 
-Use the  **SharedWorkspaceFile** object to manage documents and files saved in a shared workspace.
+Use the **SharedWorkspaceFile** object to manage documents and files saved in a shared workspace.
 
 
 ## Example
 
-Although the  **SharedWorkspaceFile** object has a **URL** property that returns the file's complete path and filename, it does not have a **FileName** property. Use a simple function to extract the filename from the file's URL as in the following example. An additional supporting function decodes escaped space characters in the URL.
+Although the **SharedWorkspaceFile** object has a **URL** property that returns the file's complete path and filename, it does not have a **FileName** property. Use a simple function to extract the filename from the file's URL as in the following example. An additional supporting function decodes escaped space characters in the URL.
 
 
 ```
@@ -43,7 +43,7 @@ End Function
 
 ```
 
-Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collection to return a specific **SharedWorkspaceFile** object. Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each file. The following example returns the number of files in the shared workspace and information about each file, using the supporting functions shown above.
+Use the **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collection to return a specific **SharedWorkspaceFile** object. Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each file. The following example returns the number of files in the shared workspace and information about each file, using the supporting functions shown above.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.HasAxis Property (Excel)
 
-Returns or sets which axes exist on the chart. Read/write  **Variant** .
+Returns or sets which axes exist on the chart. Read/write **Variant** .
 
 
 ## Syntax
@@ -29,14 +29,14 @@ Returns or sets which axes exist on the chart. Read/write  **Variant** .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index1_|Required| **Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[XlAxisType](xlaxistype-enumeration-excel.md)** constants.|
-| _Index2_|Optional| **Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants.|
+| _Index1_|Required| **Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the **[XlAxisType](xlaxistype-enumeration-excel.md)** constants.|
+| _Index2_|Optional| **Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants.|
 
 ## Remarks
 
 You must enter a value for at least one of the parameters when setting this property.
 
-Microsoft Excel may create or delete axes if you change the chart type or the  **[Axis.AxisGroup](axis-axisgroup-property-excel.md)** , **[Chart.AxisGroup](chartgroup-axisgroup-property-excel.md)** , or **[Series.AxisGroup](series-axisgroup-property-excel.md)** properties.
+Microsoft Excel may create or delete axes if you change the chart type or the **[Axis.AxisGroup](axis-axisgroup-property-excel.md)** , **[Chart.AxisGroup](chartgroup-axisgroup-property-excel.md)** , or **[Series.AxisGroup](series-axisgroup-property-excel.md)** properties.
 
 
 ## Example

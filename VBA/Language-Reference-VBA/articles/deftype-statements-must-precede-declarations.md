@@ -17,11 +17,11 @@ ms.date: 06/08/2017
 
 - A [variable](vbe-glossary.md)[declaration](vbe-glossary.md) precedes a **Def**_type_ statement at[module level](vbe-glossary.md).
     
-    Move the  **Def**_type_ statement to precede all variable declarations.
+    Move the **Def**_type_ statement to precede all variable declarations.
     
-- A  **Def**_type_ statement appears in a[procedure](vbe-glossary.md).
+- A **Def**_type_ statement appears in a[procedure](vbe-glossary.md).
     
-    Move the  **Def**_type_ statement to module level, preceding all variable declarations.
+    Move the **Def**_type_ statement to module level, preceding all variable declarations.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

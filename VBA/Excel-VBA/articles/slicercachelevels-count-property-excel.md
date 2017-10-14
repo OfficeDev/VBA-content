@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCacheLevels.Count Property (Excel)
 
-Returns the number of levels in the specified  **[SlicerCacheLevels](slicercachelevels-object-excel.md)** collection, which represents the number of levels in the associated **[SlicerCache](slicercache-object-excel.md)** object.
+Returns the number of levels in the specified **[SlicerCacheLevels](slicercachelevels-object-excel.md)** collection, which represents the number of levels in the associated **[SlicerCache](slicercache-object-excel.md)** object.
 
 
 ## Syntax

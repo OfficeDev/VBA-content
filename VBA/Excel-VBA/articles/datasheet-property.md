@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataSheet Property
 
-Returns the  **[DataSheet](datasheet-object.md)** object. Read-only.
+Returns the **[DataSheet](datasheet-object.md)** object. Read-only.
 
 
 ## Example

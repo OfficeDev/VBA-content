@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OptionButton.Locked Property (Access)
 
-The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
+The **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ The  **Locked** property specifies whether you can edit data in a control in For
 
 ## Remarks
 
-The default setting of the  **Locked** property is **True**. This setting allows editing, adding, and deleting data.
+The default setting of the **Locked** property is **True**. This setting allows editing, adding, and deleting data.
 
-Use the  **Locked** property to protect data in a field by making it read-only. For example, you might want a control to only display information without allowing editing, or you might want to lock a control until a specific condition is met.
+Use the **Locked** property to protect data in a field by making it read-only. For example, you might want a control to only display information without allowing editing, or you might want to lock a control until a specific condition is met.
 
 
 ## Example
 
-The following example toggles the  **Enabled** property of a command button and the **Enabled** and **Locked** properties of a control, depending on the type of employee displayed in the current record. If the employee is a manager, then the SalaryDetails button is enabled and the PersonalInfo control is unlocked and enabled.
+The following example toggles the **Enabled** property of a command button and the **Enabled** and **Locked** properties of a control, depending on the type of employee displayed in the current record. If the employee is a manager, then the SalaryDetails button is enabled and the PersonalInfo control is unlocked and enabled.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoAlertCancelType Enumeration (Office)
 
-Specifies behavior when the user cancels an alert. Only  **msoAlertCancelDefault** is currently supported.
+Specifies behavior when the user cancels an alert. Only **msoAlertCancelDefault** is currently supported.
 
 
 

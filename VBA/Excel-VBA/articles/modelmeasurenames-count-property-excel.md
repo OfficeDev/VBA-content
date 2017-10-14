@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelMeasureNames.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of a[ModelMeasureName Object (Excel)](modelmeasurename-object-excel.md) objects in a[ModelMeasureNames Object (Excel)](modelmeasurenames-object-excel.md) object. Read-only.
+Returns a **Long** value that represents the number of a[ModelMeasureName Object (Excel)](modelmeasurename-object-excel.md) objects in a[ModelMeasureNames Object (Excel)](modelmeasurenames-object-excel.md) object. Read-only.
 
 
 ## Syntax

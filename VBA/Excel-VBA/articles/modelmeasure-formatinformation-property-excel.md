@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelMeasure.FormatInformation Property (Excel)
 
-The format of the model measure. Read/write  **Variant**.
+The format of the model measure. Read/write **Variant**.
 
 
 ## Syntax

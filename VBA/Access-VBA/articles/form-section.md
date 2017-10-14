@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 A form section is part of a form such as a header, footer, or detail section.
 
-You can set section properties which are attributes of a form that affect the appearance or behavior of that section. For example, you can set the  **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in form Design view.
+You can set section properties which are attributes of a form that affect the appearance or behavior of that section. For example, you can set the **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in form Design view.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

@@ -18,17 +18,17 @@ ms.date: 06/08/2017
 The number of characters selected in a text box or the text portion of a combo box.
  **Syntax**
  _object_. **SelLength** [= _Long_ ]
-The  **SelLength** property syntax has these parts:
+The **SelLength** property syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _Long_|Optional. A numeric expression specifying the number of characters selected. For  **SelLength** and **SelStart**, the valid range of settings is 0 to the total number of characters in the edit area of a **ComboBox** or **TextBox**.|
+| _Long_|Optional. A numeric expression specifying the number of characters selected. For **SelLength** and **SelStart**, the valid range of settings is 0 to the total number of characters in the edit area of a **ComboBox** or **TextBox**.|
  **Remarks**
-The  **SelLength** property is always valid, even when the control does not have[focus](vbe-glossary.md). Setting  **SelLength** to a value less than zero creates an error. Attempting to set **SelLength** to a value greater than the number of characters available in a control results in a value equal to the number of characters in the control.
+The **SelLength** property is always valid, even when the control does not have[focus](vbe-glossary.md). Setting **SelLength** to a value less than zero creates an error. Attempting to set **SelLength** to a value greater than the number of characters available in a control results in a value equal to the number of characters in the control.
 
- **Note**  Changing the value of the  **SelStart** property cancels any existing selection in the control, places an insertion point in the text, and sets **SelLength** to zero.
+ **Note**  Changing the value of the **SelStart** property cancels any existing selection in the control, places an insertion point in the text, and sets **SelLength** to zero.
 
 The default value, zero, means that no text is currently selected.
 

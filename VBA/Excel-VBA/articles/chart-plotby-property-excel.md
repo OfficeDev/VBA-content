@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.PlotBy Property (Excel)
 
-Returns or sets the way columns or rows are used as data series on the chart. Can be one of the following  **[XlRowCol](xlrowcol-enumeration-excel.md)** constants: **xlColumns** or **xlRows** . Read/write **Long** .
+Returns or sets the way columns or rows are used as data series on the chart. Can be one of the following **[XlRowCol](xlrowcol-enumeration-excel.md)** constants: **xlColumns** or **xlRows** . Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Ca
 
 ## Remarks
 
-For PivotChart reports, this property is read-only and always returns  **xlColumns** .
+For PivotChart reports, this property is read-only and always returns **xlColumns** .
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenario.Values Property (Excel)
 
-Returns a  **Variant** array that contains the current values of the changing cells for the scenario.
+Returns a **Variant** array that contains the current values of the changing cells for the scenario.
 
 
 ## Syntax

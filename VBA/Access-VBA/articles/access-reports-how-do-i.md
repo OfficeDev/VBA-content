@@ -32,7 +32,7 @@ This page links to help on widely used report-related tasks. To view other categ
 
 - [How to: Assign a Control a Value From a Table](assign-a-control-a-value-from-a-table.md)
     
-      - Describes how to use the  **DLookup** function to display the value of a field that is not in the record source for your form or report.
+      - Describes how to use the **DLookup** function to display the value of a field that is not in the record source for your form or report.
     
 - [How to: Set Form, Report, and Control Properties in Code](set-form-report-and-control-properties-in-code.md)
     
@@ -48,7 +48,7 @@ This page links to help on widely used report-related tasks. To view other categ
     
 - [How to: Retrieve a List of Installed Printers](retrieve-a-list-of-installed-printers.md)
     
-      - Describes how to use the  **Printers** collection to determine the installed printers.
+      - Describes how to use the **Printers** collection to determine the installed printers.
     
 - [How to: Work with Form and Report Printer Settings](work-with-form-and-report-printer-settings.md)
     

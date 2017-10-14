@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # TripleState Property, ToggleButton Control Example
 
-The following example uses the  **TripleState** property to allow **Null** as a legal value of a **CheckBox** and a **ToggleButton**. The user controls the value of **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**.
+The following example uses the **TripleState** property to allow **Null** as a legal value of a **CheckBox** and a **ToggleButton**. The user controls the value of **TripleState** through ToggleButton2. The user can set the value of a **CheckBox** or **ToggleButton** based on the value of **TripleState**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **CheckBox** named CheckBox1.
+- A **CheckBox** named CheckBox1.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
-- A  **ToggleButton** named ToggleButton2.
+- A **ToggleButton** named ToggleButton2.
     
 
 

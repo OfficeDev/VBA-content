@@ -14,6 +14,6 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](tabstops2-add-method-office.md)|Adds a new tab stop to the specified  **TabStops2** object.|
-|[Item](tabstops2-item-method-office.md)|Gets an individual object from the  **TabStops2** collection.|
+|[Add](tabstops2-add-method-office.md)|Adds a new tab stop to the specified **TabStops2** object.|
+|[Item](tabstops2-item-method-office.md)|Gets an individual object from the **TabStops2** collection.|
 

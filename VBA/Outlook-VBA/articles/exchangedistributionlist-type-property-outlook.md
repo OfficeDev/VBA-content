@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Type Property (Outlook)
 
-Returns a  **String** representing the type of entry for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read/write.
+Returns a **String** representing the type of entry for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the type of entry for the **[ExchangeDistribu
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeDistributionList** , the type is always the string "EX".
+The **ExchangeDistributionList** object is derived from the **[AddressEntry](addressentry-object-outlook.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeDistributionList** , the type is always the string "EX".
 
 
 ## See also

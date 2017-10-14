@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Inserts a new [Sub](vbe-glossary.md), [Function](vbe-glossary.md), or  **Property** procedure. The **Add** **Procedure** dialog box also allows you to set the[scope](vbe-glossary.md) to public or private, and make all local variables in the procedure static.
+Inserts a new [Sub](vbe-glossary.md), [Function](vbe-glossary.md), or **Property** procedure. The **Add** **Procedure** dialog box also allows you to set the[scope](vbe-glossary.md) to public or private, and make all local variables in the procedure static.
 
 ## Dialog Box Options
 
@@ -31,25 +31,25 @@ Identifies the type of procedure to create.
 
 
 
-- Sub — Creates a new  **Sub** procedure.
+- Sub — Creates a new **Sub** procedure.
     
-- Function — Creates a new  **Function** procedure.
+- Function — Creates a new **Function** procedure.
     
-- Property — Creates a new  **Let** property and **Get** property procedure pair.
+- Property — Creates a new **Let** property and **Get** property procedure pair.
     
 
 
  **Scope**
 
-Sets the procedure's scope to either  **Public** or **Private**.
+Sets the procedure's scope to either **Public** or **Private**.
 
  **All Local Variables as Statics**
 
-Adds the  **Static** keyword to the procedure definition.
+Adds the **Static** keyword to the procedure definition.
 
  **OK**
 
-Inserts the procedure template in the  **Code** window.
+Inserts the procedure template in the **Code** window.
 
  **Cancel**
 

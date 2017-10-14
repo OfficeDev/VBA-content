@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddPicture Method (Excel)
 
-Creates a picture from an existing file. Returns a  **Shape** object that represents the new picture.
+Creates a picture from an existing file. Returns a **Shape** object that represents the new picture.
 
 
 ## Syntax

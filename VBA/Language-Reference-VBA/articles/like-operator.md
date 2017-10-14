@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to compare two strings.
  **Syntax**
  _result_**=**_string_**Like**_pattern_
-The  **Like** operator syntax has these parts:
+The **Like** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -26,10 +26,10 @@ The  **Like** operator syntax has these parts:
 | _pattern_|Required; any string expression conforming to the pattern-matching conventions described in Remarks.|
  **Remarks**
 If  _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is[Null](vbe-glossary.md),  _result_ is **Null**.
-The behavior of the  **Like** operator depends on the **Option Compare** statement. The default[string-comparison](vbe-glossary.md) method for each[module](vbe-glossary.md) is **Option Compare** **Binary**.
+The behavior of the **Like** operator depends on the **Option Compare** statement. The default[string-comparison](vbe-glossary.md) method for each[module](vbe-glossary.md) is **Option Compare** **Binary**.
  **Option Compare Binary** results in string comparisons based on a[sort order](vbe-glossary.md) derived from the internal binary representations of the characters. Sort order is determined by the code page. In the following example, a typical binary sort order is shown:
 A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø
- **Option Compare Text** results in string comparisons based on a case-insensitive, textual sort order determined by your system's[locale](vbe-glossary.md). When you sort the same characters using  **Option Compare Text**, the following text sort order is produced:
+ **Option Compare Text** results in string comparisons based on a case-insensitive, textual sort order determined by your system's[locale](vbe-glossary.md). When you sort the same characters using **Option Compare Text**, the following text sort order is produced:
 (A=a) < (À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø)
 Built-in pattern matching provides a versatile tool for string comparisons. The pattern-matching features allow you to use wildcard characters, character lists, or character ranges, in any combination, to match strings. The following table shows the characters allowed in  _pattern_ and what they match:
 
@@ -58,12 +58,12 @@ Other important rules for pattern matching include the following:
 - The character sequence  `[]` is considered a zero-length string ("").
     
 
-In some languages, there are special characters in the alphabet that represent two separate characters. For example, several languages use the character "æ" to represent the characters "a" and "e" when they appear together. The  **Like** operator recognizes that the single special character and the two individual characters are equivalent.
+In some languages, there are special characters in the alphabet that represent two separate characters. For example, several languages use the character "æ" to represent the characters "a" and "e" when they appear together. The **Like** operator recognizes that the single special character and the two individual characters are equivalent.
 When a language that uses a special character is specified in the system locale settings, an occurrence of the single special character in either  _pattern_ or _string_ matches the equivalent 2-character sequence in the other string. Similarly, a single special character in _pattern_ enclosed in brackets (by itself, in a list, or in a range) matches the equivalent 2-character sequence in _string_.
 
 ## Example
 
-This example uses the  **Like** operator to compare a string to a pattern.
+This example uses the **Like** operator to compare a string to a pattern.
 
 
 ```vb

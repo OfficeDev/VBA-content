@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Trendlines Method (Excel)
 
-Returns an object that represents a single trendline (a  **[Trendline](trendline-object-excel.md)** object) or a collection of all the trendlines (a **[Trendlines](trendlines-object-excel.md)** collection) for the series.
+Returns an object that represents a single trendline (a **[Trendline](trendline-object-excel.md)** object) or a collection of all the trendlines (a **[Trendlines](trendlines-object-excel.md)** collection) for the series.
 
 
 ## Syntax

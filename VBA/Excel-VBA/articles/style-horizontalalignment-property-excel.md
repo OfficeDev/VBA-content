@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.HorizontalAlignment Property (Excel)
 
-Returns or sets a  **[XlHAlign](xlhalign-enumeration-excel.md)** value that represents the horizontal alignment for the specified object.
+Returns or sets a **[XlHAlign](xlhalign-enumeration-excel.md)** value that represents the horizontal alignment for the specified object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MoveOrCopyRuleAction.Folder Property (Outlook)
 
-Returns or sets a  **[Folder](folder-object-outlook.md)** object that represents the folder to which the rule moves or copies the message. Read/write.
+Returns or sets a **[Folder](folder-object-outlook.md)** object that represents the folder to which the rule moves or copies the message. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[Folder](folder-object-outlook.md)** object that represents
 
 ## Remarks
 
-If no folder has been assigned to the move or copy rule action, this property is  **Null** ( **Nothing** in Visual Basic).
+If no folder has been assigned to the move or copy rule action, this property is **Null** ( **Nothing** in Visual Basic).
 
 This property returns an error if the specified folder cannot serve as a target folder for the copy or move operation. For example, the folder is a search folder, is read-only, or the user does not have the required permissions to move or copy messages to it.
 

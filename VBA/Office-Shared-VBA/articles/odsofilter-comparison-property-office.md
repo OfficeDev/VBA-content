@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOFilter.Comparison Property (Office)
 
-Gets or sets an  **MsoFilterComparison** constant that represents how to compare the **Column** and **CompareTo** properties. Read/write.
+Gets or sets an **MsoFilterComparison** constant that represents how to compare the **Column** and **CompareTo** properties. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets an  **MsoFilterComparison** constant that represents how to compare
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a  **Region** field equal to "WA".
+The following example changes an existing filter to remove from the mail merge all records that do not have a **Region** field equal to "WA".
 
 
 ```

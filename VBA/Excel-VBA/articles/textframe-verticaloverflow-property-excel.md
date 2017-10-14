@@ -30,7 +30,7 @@ Returns or sets the vertical overflow setting for the specified object. Read/wri
 
 ## Remarks
 
-This property only has an effect when the  **[AutoSize](textframe-autosize-property-excel.md)** property is **False** .
+This property only has an effect when the **[AutoSize](textframe-autosize-property-excel.md)** property is **False** .
 
 
 ## See also

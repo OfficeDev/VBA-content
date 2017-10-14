@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ContentTypeProperties Property (Excel)
 
-Returns a  **[MetaProperties](http://msdn.microsoft.com/library/957a6e06-3348-b180-3655-06ffbfb69e12%28Office.15%29.aspx)** collection that describes the metadata stored in the workbook. Read-only.
+Returns a **[MetaProperties](http://msdn.microsoft.com/library/957a6e06-3348-b180-3655-06ffbfb69e12%28Office.15%29.aspx)** collection that describes the metadata stored in the workbook. Read-only.
 
 
 ## Syntax

@@ -13,25 +13,25 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) containing a specified number of characters from the left side of a string.
+Returns a **Variant** ( **String** ) containing a specified number of characters from the left side of a string.
  **Syntax**
  **Left** ( **_string_**, **_length_** )
-The  **Left** function syntax has these[named arguments](vbe-glossary.md):
+The **Left** function syntax has these[named arguments](vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_string_**|Required. [String expression](vbe-glossary.md) from which the leftmost characters are returned. If **_string_** contains[Null](vbe-glossary.md), Null is returned.|
-|**_length_**|Required;  **Variant** ( **Long** ).[Numeric expression](vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
+|**_length_**|Required; **Variant** ( **Long** ).[Numeric expression](vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
  **Remarks**
-To determine the number of characters in  **_string_**, use the **Len** function.
+To determine the number of characters in **_string_**, use the **Len** function.
 
- **Note**  Use the  **LeftB** function with byte data contained in a string. Instead of specifying the number of characters to return, **_length_** specifies the number of bytes.
+ **Note**  Use the **LeftB** function with byte data contained in a string. Instead of specifying the number of characters to return, **_length_** specifies the number of bytes.
 
 
 ## Example
 
-This example uses the  **Left** function to return a specified number of characters from the left side of a string.
+This example uses the **Left** function to return a specified number of characters from the left side of a string.
 
 
 ```vb

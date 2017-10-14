@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartArea Property (Excel)
 
-Returns a  **[ChartArea](chartarea-object-excel.md)** object that represents the complete chart area for the chart. Read-only.
+Returns a **[ChartArea](chartarea-object-excel.md)** object that represents the complete chart area for the chart. Read-only.
 
 
 ## Syntax

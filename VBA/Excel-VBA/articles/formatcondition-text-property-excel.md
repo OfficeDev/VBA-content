@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Text Property (Excel)
 
-Returns or sets a  **String** value specifying the text string used by the conditional formatting rule.
+Returns or sets a **String** value specifying the text string used by the conditional formatting rule.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value specifying the text string used by the condi
 
 ## Remarks
 
-This property is ignored if the  **[Type](formatcondition-type-property-excel.md)** property is not set to **xlTextString** .
+This property is ignored if the **[Type](formatcondition-type-property-excel.md)** property is not set to **xlTextString** .
 
 
 ## See also

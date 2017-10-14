@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sort.Orientation Property (Excel)
 
-Specifies the orientation for the sort. Read/write  **[XlSortOrientation](xlsortorientation-enumeration-excel.md)** .
+Specifies the orientation for the sort. Read/write **[XlSortOrientation](xlsortorientation-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Specifies the orientation for the sort. Read/write  **[XlSortOrientation](xlsort
 
 
 
-|XlSortOrientation can be one of these  **XlSortOrientation** constants.|
+|XlSortOrientation can be one of these **XlSortOrientation** constants.|
 | **xlSortColumns**|
 | **xlSortRows**|
 

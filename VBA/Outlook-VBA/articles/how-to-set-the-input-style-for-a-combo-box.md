@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Set the Input Style for a Combo Box
 
-The following example uses the  **[Style](combobox-style-property-outlook-forms-script.md)** property to change the style of user input of a **[ComboBox](combobox-object-outlook-forms-script.md)**. The user chooses a style by selecting an  **[OptionButton](optionbutton-object-outlook-forms-script.md)** control and then types into the **ComboBox** to select an item. When **Style** is _StyleDropDownList_, the user must choose an item from the drop-down list. When  **Style** is _StyleDropDownCombo_, the user can type into the text area to specify an item in the drop-down list.
+The following example uses the **[Style](combobox-style-property-outlook-forms-script.md)** property to change the style of user input of a **[ComboBox](combobox-object-outlook-forms-script.md)**. The user chooses a style by selecting an **[OptionButton](optionbutton-object-outlook-forms-script.md)** control and then types into the **ComboBox** to select an item. When **Style** is _StyleDropDownList_, the user must choose an item from the drop-down list. When **Style** is _StyleDropDownCombo_, the user can type into the text area to specify an item in the drop-down list.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
 
 

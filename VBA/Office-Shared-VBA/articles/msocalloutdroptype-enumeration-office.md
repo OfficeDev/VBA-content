@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoCalloutDropType Enumeration (Office)
 
-Specifies starting position of the callout line relative to the text bounding box. Used with the  **PresetDrop** method of the **CalloutFormat** object.
+Specifies starting position of the callout line relative to the text bounding box. Used with the **PresetDrop** method of the **CalloutFormat** object.
 
 
 
@@ -18,7 +18,7 @@ Specifies starting position of the callout line relative to the text bounding bo
 |:-----|:-----|:-----|
 |**msoCalloutDropBottom**|4|Bottom.|
 |**msoCalloutDropCenter**|3|Center.|
-|**msoCalloutDropCustom**|1|Custom. If this value is used as the value for the  **PresetDrop** property, the **Drop** and **AutoAttach** properties of the **CalloutFormat** object are used to determine where the callout line attaches to the text box.|
+|**msoCalloutDropCustom**|1|Custom. If this value is used as the value for the **PresetDrop** property, the **Drop** and **AutoAttach** properties of the **CalloutFormat** object are used to determine where the callout line attaches to the text box.|
 |**msoCalloutDropMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoCalloutDropTop**|2|Top.|
 

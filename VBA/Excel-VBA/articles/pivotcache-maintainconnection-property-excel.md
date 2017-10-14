@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can set the  **MaintainConnection** property only if the **[QueryType](querytable-querytype-property-excel.md)** property of the query table or PivotTable cache is set to **xlOLEDBQuery** .
+You can set the **MaintainConnection** property only if the **[QueryType](querytable-querytype-property-excel.md)** property of the query table or PivotTable cache is set to **xlOLEDBQuery** .
 
-If you anticipate frequent queries to a server, setting this property to  **True** might improve performance by reducing reconnection time. Setting the property to **False** causes an open connection to be closed.
+If you anticipate frequent queries to a server, setting this property to **True** might improve performance by reducing reconnection time. Setting the property to **False** causes an open connection to be closed.
 
 
 ## Example

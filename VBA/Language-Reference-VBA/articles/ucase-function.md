@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) containing the specified string, converted to uppercase.
+Returns a **Variant** ( **String** ) containing the specified string, converted to uppercase.
  **Syntax**
  **UCase** ( _string_ )
-The required  _string_[argument](vbe-glossary.md) is any valid[string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md),  **Null** is returned.
+The required  _string_[argument](vbe-glossary.md) is any valid[string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md), **Null** is returned.
  **Remarks**
 Only lowercase letters are converted to uppercase; all uppercase letters and nonletter characters remain unchanged.
 
 ## Example
 
-This example uses the  **UCase** function to return an uppercase version of a string.
+This example uses the **UCase** function to return an uppercase version of a string.
 
 
 ```vb

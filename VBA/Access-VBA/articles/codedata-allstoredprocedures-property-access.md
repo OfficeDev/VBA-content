@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeData.AllStoredProcedures Property (Access)
 
-You can use the  **AllStoredProcedures** property to reference the **[AllStoredProcedures](allstoredprocedures-object-access.md)** collection and its related properties. Read-only **AllStoredProcedures** object.
+You can use the **AllStoredProcedures** property to reference the **[AllStoredProcedures](allstoredprocedures-object-access.md)** collection and its related properties. Read-only **AllStoredProcedures** object.
 
 
 ## Syntax

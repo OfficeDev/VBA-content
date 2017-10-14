@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyleElement.Font Property (Excel)
 
-Returns a  **[Font](font-object-excel.md)** object that represents the font of the specified object. Read-only.
+Returns a **[Font](font-object-excel.md)** object that represents the font of the specified object. Read-only.
 
 
 ## Syntax

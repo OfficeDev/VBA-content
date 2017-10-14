@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkControl.EnableAutoLayout Property (Outlook)
 
-Returns or sets a  **Boolean** that enables automatic adjustments of the layout for the control with respect to the rest of the form. Read/write.
+Returns or sets a **Boolean** that enables automatic adjustments of the layout for the control with respect to the rest of the form. Read/write.
 
 
 ## Syntax

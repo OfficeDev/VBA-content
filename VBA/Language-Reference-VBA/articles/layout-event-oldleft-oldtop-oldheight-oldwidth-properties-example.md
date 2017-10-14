@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Layout Event, OldLeft, OldTop, OldHeight, OldWidth Properties Example
 
-The following example uses the  **OldLeft**, **OldTop**, **OldHeight**, and **OldWidth** properties within the **Layout** event to keep a control at its current position and size. The user clicks the **CommandButton** labeled **Move ComboBox** to move the control, and then responds to a message box. The user can click the **CommandButton** labeled **Reset ComboBox** to reset the control for another repetition.
+The following example uses the **OldLeft**, **OldTop**, **OldHeight**, and **OldWidth** properties within the **Layout** event to keep a control at its current position and size. The user clicks the **CommandButton** labeled **Move ComboBox** to move the control, and then responds to a message box. The user can click the **CommandButton** labeled **Reset ComboBox** to reset the control for another repetition.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
 
 

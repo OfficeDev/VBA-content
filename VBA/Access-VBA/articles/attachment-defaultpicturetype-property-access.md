@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.DefaultPictureType Property (Access)
 
-Gets or sets the method used to store the image specified by the  **[DefaultPicture](attachment-defaultpicture-property-access.md)** property in the database. Read/write **Byte**.
+Gets or sets the method used to store the image specified by the **[DefaultPicture](attachment-defaultpicture-property-access.md)** property in the database. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,15 +25,15 @@ Gets or sets the method used to store the image specified by the  **[DefaultPict
 
 ## Remarks
 
-The  **DefaultPictureType** property uses the following settings.
+The **DefaultPictureType** property uses the following settings.
 
 
 
 |**Setting**|**Value**|**Meaning**|
 |:-----|:-----|:-----|
-|Embedded (Default)|0|The image is embedded with the specified  **Attachment** control.|
+|Embedded (Default)|0|The image is embedded with the specified **Attachment** control.|
 |Linked|1|The image is stored outside of the database.|
-|Shared|2|The image is added to the  **[SharedResources](sharedresources-object-access.md)** collection.|
+|Shared|2|The image is added to the **[SharedResources](sharedresources-object-access.md)** collection.|
 
 ## See also
 

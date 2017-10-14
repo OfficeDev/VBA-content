@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThemeColorScheme.Count Property (Office)
 
-Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.
+Gets a **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.
 
 
 ## Syntax

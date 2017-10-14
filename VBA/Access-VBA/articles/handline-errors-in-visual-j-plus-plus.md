@@ -12,9 +12,9 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-Handle ADO errors in your Microsoft Visual J++ applications using a  **try catch** block. Once an error has been thrown, you can iterate through the collection, successively handling each error. The following Visual J++ example shows a console application that deliberately causes an error.
+Handle ADO errors in your Microsoft Visual J++ applications using a **try catch** block. Once an error has been thrown, you can iterate through the collection, successively handling each error. The following Visual J++ example shows a console application that deliberately causes an error.
 
-When the  **catch** block is activated, it calls the PrintProviderError function to display the errors. The PrintProviderError function iterates through the **Errors** collection and sends a line to the standard output device that describes each error in the collection.
+When the **catch** block is activated, it calls the PrintProviderError function to display the errors. The PrintProviderError function iterates through the **Errors** collection and sends a line to the standard output device that describes each error in the collection.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Comment Property (Excel)
 
-Returns a  **[Comment](comment-object-excel.md)** object that represents the comment associated with the cell in the upper-left corner of the range.
+Returns a **[Comment](comment-object-excel.md)** object that represents the comment associated with the cell in the upper-left corner of the range.
 
 
 ## Syntax

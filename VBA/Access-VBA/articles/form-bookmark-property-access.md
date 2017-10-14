@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Bookmark Property (Access)
 
-You can use the  **Bookmark** property with forms to set a bookmark that uniquely identifies a particular record in the form's underlying table, query, or SQL statement. Read/write **Variant**.
+You can use the **Bookmark** property with forms to set a bookmark that uniquely identifies a particular record in the form's underlying table, query, or SQL statement. Read/write **Variant**.
 
 
 ## Syntax
@@ -28,9 +28,9 @@ You can use the  **Bookmark** property with forms to set a bookmark that uniquel
 
 
 
- **Note**  You get or set the form's  **Bookmark** property separately from the ADO **Bookmark** or DAO **Bookmark** property of the underlying table or query.
+ **Note**  You get or set the form's **Bookmark** property separately from the ADO **Bookmark** or DAO **Bookmark** property of the underlying table or query.
 
-When a bound form is opened in Form view, each record is assigned a unique bookmark. In Visual Basic, you can save the bookmark for the current record by assigning the value of the form's  **Bookmark** property to a string variable. To return to a saved record after moving to a different record, set the form's **Bookmark** property to the value of the saved string variable. You can use the **StrComp** function to compare a **Variant** or string variable to a bookmark, or when comparing a bookmark against a bookmark. The third argument for the **StrComp** function must be set to a value of zero.
+When a bound form is opened in Form view, each record is assigned a unique bookmark. In Visual Basic, you can save the bookmark for the current record by assigning the value of the form's **Bookmark** property to a string variable. To return to a saved record after moving to a different record, set the form's **Bookmark** property to the value of the saved string variable. You can use the **StrComp** function to compare a **Variant** or string variable to a bookmark, or when comparing a bookmark against a bookmark. The third argument for the **StrComp** function must be set to a value of zero.
 
 
 
@@ -39,17 +39,17 @@ When a bound form is opened in Form view, each record is assigned a unique bookm
 
 There is no limit to the number of bookmarks you can save if each is saved with a unique string variable.
 
-The  **Bookmark** property is only available for the form's current record. To save a bookmark for a record other than the current record, move to the desired record and assign the value of the **Bookmark** property to a string variable that identifies this record.
+The **Bookmark** property is only available for the form's current record. To save a bookmark for a record other than the current record, move to the desired record and assign the value of the **Bookmark** property to a string variable that identifies this record.
 
 You can use bookmarks in any form that is based entirely on Microsoft Access tables. However, other database products may not support bookmarks. For example, you can't use bookmarks in a form based on a linked table that has no primary index.
 
-Requerying a form invalidates any bookmarks set on records in the form. However, clicking  **Refresh** on the **Records** menu doesn't affect bookmarks.
+Requerying a form invalidates any bookmarks set on records in the form. However, clicking **Refresh** on the **Records** menu doesn't affect bookmarks.
 
-Since Microsoft Access creates a unique bookmark for each record in a form's recordset when a form is opened, a form's bookmark will not work on another recordset, even when the two recordsets are based on the same table, query, or SQL statement. For example, suppose you open a form bound to the Customers table. If you then open the Customers table by using Visual Basic and use the ADO  **Seek** or DAO **Seek** method to locate a specific record in the table, you can't set the form's **Bookmark** property to the current table record. To perform this kind of operation you can use the ADO **Find** method or DAO **Find** methods with the form's **[RecordsetClone](form-recordsetclone-property-access.md)** property.
+Since Microsoft Access creates a unique bookmark for each record in a form's recordset when a form is opened, a form's bookmark will not work on another recordset, even when the two recordsets are based on the same table, query, or SQL statement. For example, suppose you open a form bound to the Customers table. If you then open the Customers table by using Visual Basic and use the ADO **Seek** or DAO **Seek** method to locate a specific record in the table, you can't set the form's **Bookmark** property to the current table record. To perform this kind of operation you can use the ADO **Find** method or DAO **Find** methods with the form's **[RecordsetClone](form-recordsetclone-property-access.md)** property.
 
-An error occurs if you set the  **Bookmark** property to a string variable and then try to return to that record after the record has been deleted.
+An error occurs if you set the **Bookmark** property to a string variable and then try to return to that record after the record has been deleted.
 
-The value of the  **Bookmark** property isn't the same as a record number.
+The value of the **Bookmark** property isn't the same as a record number.
 
 
 ## Example

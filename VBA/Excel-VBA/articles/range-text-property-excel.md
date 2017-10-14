@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Text Property (Excel)
 
-Returns or sets the text for the specified object. Read-only  **String** .
+Returns or sets the text for the specified object. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text for the specified object. Read-only  **String** .
 
 ## Example
 
-This example illustrates the difference between the  **Text** and **Value** properties of cells that contain formatted numbers.
+This example illustrates the difference between the **Text** and **Value** properties of cells that contain formatted numbers.
 
 
 ```vb

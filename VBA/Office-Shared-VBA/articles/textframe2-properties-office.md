@@ -14,9 +14,9 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](textframe2-application-property-office.md)|Gets an  **Application** object that represents the container application for the **TextFrame2** object. Read-only|
+|[Application](textframe2-application-property-office.md)|Gets an **Application** object that represents the container application for the **TextFrame2** object. Read-only|
 |[AutoSize](textframe2-autosize-property-office.md)| Returns or sets a value that indicates whether the size of the specified shape is changed automatically to fit text within its boundaries. Read/write|
-|[Column](textframe2-column-property-office.md)|Returns the  **Column** object that represents the columns of the specified text frame. Read-only|
+|[Column](textframe2-column-property-office.md)|Returns the **Column** object that represents the columns of the specified text frame. Read-only|
 |[Creator](textframe2-creator-property-office.md)|Returns a 32-bit integer that indicates the application in which this object was created. Read-only. Long|
 |[HasText](textframe2-hastext-property-office.md)|Indicates whether the shape that contains the specified text frame has text associated with it. Read-only|
 |[HorizontalAnchor](textframe2-horizontalanchor-property-office.md)| Returns or sets the horizontal alignment of text in a text frame. Read/write|
@@ -28,9 +28,9 @@ ms.date: 06/08/2017
 |[Orientation](textframe2-orientation-property-office.md)|Returns or sets text orientation. Read/write|
 |[Parent](textframe2-parent-property-office.md)|Returns the calling object. Read-only|
 |[PathFormat](textframe2-pathformat-property-office.md)|Returns or sets the path type for the specified text frame. Read/write|
-|[Ruler](textframe2-ruler-property-office.md)|Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only|
+|[Ruler](textframe2-ruler-property-office.md)|Returns a **Ruler2** object that represents the ruler for the specified text. Read-only|
 |[TextRange](textframe2-textrange-property-office.md)|Sets the text for a range of nodes in a SmartArt object. Read-only|
-|[ThreeD](textframe2-threed-property-office.md)|Returns a  **ThreeDFormat** object that represents the three-dimensional formatting of the parent shape. Read-only|
+|[ThreeD](textframe2-threed-property-office.md)|Returns a **ThreeDFormat** object that represents the three-dimensional formatting of the parent shape. Read-only|
 |[VerticalAnchor](textframe2-verticalanchor-property-office.md)|Returns or sets the vertical alignment of text in a text frame. Read/write|
 |[WarpFormat](textframe2-warpformat-property-office.md)|Returns or sets the warp format (how the text is warped) for the specified text frame. Read/write|
 |[WordArtformat](textframe2-wordartformat-property-office.md)|Returns or sets the WordArt type for the specified text frame. Read/write|

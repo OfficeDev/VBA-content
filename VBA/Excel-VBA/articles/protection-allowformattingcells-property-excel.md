@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowFormattingCells Property (Excel)
 
-Returns  **True** if the formatting of cells is allowed on a protected worksheet. Read-only **Boolean** .
+Returns **True** if the formatting of cells is allowed on a protected worksheet. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **True** if the formatting of cells is allowed on a protected worksheet
 
 ## Remarks
 
-The  **AllowFormattingCells** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowFormattingCells** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
 Use of this property disables the protection tab, allowing the user to change all formats, but not to unlock or unhide ranges.
 

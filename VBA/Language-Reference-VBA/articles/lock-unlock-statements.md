@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Lock, Unlock Statements
 
-Controls access by other processes to all or part of a file opened using the  **Open** statement.
+Controls access by other processes to all or part of a file opened using the **Open** statement.
 
  **Syntax**
 
@@ -19,7 +19,7 @@ Controls access by other processes to all or part of a file opened using the  **
  **. . .**
 
  **Unlock** [ **#** ] _filenumber_ [, _recordrange_ ]
-The  **Lock** and **Unlock** statement syntax has these parts:
+The **Lock** and **Unlock** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -37,17 +37,17 @@ The  _recordrange_[argument](vbe-glossary.md) settings are:
 | _start_|Number of the first record or byte to lock or unlock.|
 | _end_|Number of the last record or byte to lock or unlock.|
  **Remarks**
-The  **Lock** and **Unlock** statements are used in environments where several processes might need access to the same file.
+The **Lock** and **Unlock** statements are used in environments where several processes might need access to the same file.
  **Lock** and **Unlock** statements are always used in pairs. The arguments to **Lock** and **Unlock** must match exactly.
 The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you specify just one record, then only that record is locked or unlocked. If you specify a range of records and omit a starting record ( _start_ ), all records from the first record to the end of the range ( _end_ ) are locked or unlocked. Using **Lock** without _recnumber_ locks the entire file; using **Unlock** without _recnumber_ unlocks the entire file.
-If the file has been opened for sequential input or output,  **Lock** and **Unlock** affect the entire file, regardless of the range specified by _start_ and _end_.
+If the file has been opened for sequential input or output, **Lock** and **Unlock** affect the entire file, regardless of the range specified by _start_ and _end_.
 
- **Important**  Be sure to remove all locks with an  **Unlock** statement before closing a file or quitting your program. Failure to remove locks produces unpredictable results.
+ **Important**  Be sure to remove all locks with an **Unlock** statement before closing a file or quitting your program. Failure to remove locks produces unpredictable results.
 
 
 ## Example
 
-This example illustrates the use of the  **Lock** and **Unlock** statements. While a record is being modified, access by other processes to the record is denied. This example assumes that `TESTFILE` is a file containing five records of the user-defined type is a file containing five records of the user-defined type `Record`.
+This example illustrates the use of the **Lock** and **Unlock** statements. While a record is being modified, access by other processes to the record is denied. This example assumes that `TESTFILE` is a file containing five records of the user-defined type is a file containing five records of the user-defined type `Record`.
 
 
 ```vb

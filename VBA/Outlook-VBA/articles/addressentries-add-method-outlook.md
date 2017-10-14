@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntries.Add Method (Outlook)
 
-Adds a new entry to the  **[AddressEntries](addressentries-object-outlook.md)** collection.
+Adds a new entry to the **[AddressEntries](addressentries-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -35,12 +35,12 @@ Adds a new entry to the  **[AddressEntries](addressentries-object-outlook.md)** 
 
 ### Return Value
 
-An  **[AddressEntry](addressentry-object-outlook.md)** object that represents the new entry.
+An **[AddressEntry](addressentry-object-outlook.md)** object that represents the new entry.
 
 
 ## Remarks
 
-New entries or changes to existing entries are not persisted in the collection until after calling the  **[Update](addressentry-update-method-outlook.md)** method.
+New entries or changes to existing entries are not persisted in the collection until after calling the **[Update](addressentry-update-method-outlook.md)** method.
 
 
 ## See also

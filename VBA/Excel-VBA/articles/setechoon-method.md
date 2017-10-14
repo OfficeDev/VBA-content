@@ -19,7 +19,7 @@ Returns a Chart object.
 
  _expression_ Required. An expression that returns a **Chart** object.
 
- **EchoOn**Optional  **Variant**.
+ **EchoOn**Optional **Variant**.
 
 ## Example
 

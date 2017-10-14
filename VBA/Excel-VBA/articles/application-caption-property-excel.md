@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Caption Property (Excel)
 
-Returns or sets a  **String** value that represents the name that appears in the title bar of the main Microsoft Excel window.
+Returns or sets a **String** value that represents the name that appears in the title bar of the main Microsoft Excel window.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the name that appears in the
 
 ## Remarks
 
-If you don't set a name, or if you set the name to  **Empty** , this property returns "Microsoft Excel".
+If you don't set a name, or if you set the name to **Empty** , this property returns "Microsoft Excel".
 
 
 ## Example

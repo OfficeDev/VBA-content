@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior Property
 
-Returns an  **[Interior](interior-object.md)** object that represents the interior of the specified object. Read-only.
+Returns an **[Interior](interior-object.md)** object that represents the interior of the specified object. Read-only.
 
 
 ## Example

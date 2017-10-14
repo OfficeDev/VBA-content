@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.EnableItemSelection Property (Excel)
 
-When set to  **False** , disables the ability to use the field dropdown in the user interface. The default value is **True** . Read/write **Boolean** .
+When set to **False** , disables the ability to use the field dropdown in the user interface. The default value is **True** . Read/write **Boolean** .
 
 
 ## Syntax

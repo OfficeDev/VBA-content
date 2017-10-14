@@ -23,7 +23,7 @@ Represents a scenario on a worksheet.
 
 ## Example
 
-Use  **[Scenarios](worksheet-scenarios-method-excel.md)** ( _index_ ), where _index_ is the scenario name or index number, to return a single **Scenario** object. The following example shows the scenario named "Typical" on the worksheet named "Options."
+Use **[Scenarios](worksheet-scenarios-method-excel.md)** ( _index_ ), where _index_ is the scenario name or index number, to return a single **Scenario** object. The following example shows the scenario named "Typical" on the worksheet named "Options."
 
 
 ```vb

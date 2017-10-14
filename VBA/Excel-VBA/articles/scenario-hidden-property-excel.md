@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenario.Hidden Property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if the scenario is hidden.
+Returns or sets a **Boolean** value that indicates if the scenario is hidden.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Boolean** value that indicates if the scenario is hidden.
 
 ## Remarks
 
-The default value for this property is  **False** .
+The default value for this property is **False** .
 
-Don't confuse this property with the  **[FormulaHidden](range-formulahidden-property-excel.md)** property.
+Don't confuse this property with the **[FormulaHidden](range-formulahidden-property-excel.md)** property.
 
 
 ## See also

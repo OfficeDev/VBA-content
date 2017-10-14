@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-In OLAP PivotTables, PivotFields do not exist until the corresponding CubeField is added to the PivotTable. The  **CreatePivotFields** method enables users to create all PivotFields of a CubeField. Users can also add filters to the PivotFields and set properties on them before the CubeField is added to the PivotTable.
+In OLAP PivotTables, PivotFields do not exist until the corresponding CubeField is added to the PivotTable. The **CreatePivotFields** method enables users to create all PivotFields of a CubeField. Users can also add filters to the PivotFields and set properties on them before the CubeField is added to the PivotTable.
 
 
 ## Example

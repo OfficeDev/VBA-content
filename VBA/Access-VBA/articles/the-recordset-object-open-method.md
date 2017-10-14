@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 [Retrieving Multiple Recordsets](#sectionSection4)
 
 
-Everything you need to open an ADO  **Recordset** is built into the **Open** method. You can use it without explicitly creating any other objects. The syntax of this method is as follows:
+Everything you need to open an ADO **Recordset** is built into the **Open** method. You can use it without explicitly creating any other objects. The syntax of this method is as follows:
 
 
 
@@ -47,14 +47,14 @@ The  _Options_ argument is a **Long** value that indicates either or both of the
 
 - How the provider should evaluate the  _Source_ argument if it represents something other than a **Command** object.
     
-- That the  **Recordset** should be restored from a file where it was previously saved.
+- That the **Recordset** should be restored from a file where it was previously saved.
     
-This argument can contain a bitmask of  **CommandTypeEnum** or **ExecuteOptionEnum** values. A **CommandTypeEnum** passed in the _Options_ argument sets the **CommandType** property of the **Recordset**.
+This argument can contain a bitmask of **CommandTypeEnum** or **ExecuteOptionEnum** values. A **CommandTypeEnum** passed in the _Options_ argument sets the **CommandType** property of the **Recordset**.
 
 
- **Note**  The  **ExecuteOpenEnum** values of **adExecuteNoRecords** and **adExecuteStream** cannot be used with **Open**.
+ **Note**  The **ExecuteOpenEnum** values of **adExecuteNoRecords** and **adExecuteStream** cannot be used with **Open**.
 
-If the  **CommandType** property value equals **adCmdUnknown** (the default value), you might experience diminished performance, because ADO must make calls to the provider to determine whether the **CommandText** property is a SQL statement, a stored procedure, or a table name. If you know what type of command you are using, setting the **CommandType** property instructs ADO to go directly to the relevant code. If the **CommandType** property does not match the type of command in the **CommandText** property, an error occurs when you call the **Open** method.
+If the **CommandType** property value equals **adCmdUnknown** (the default value), you might experience diminished performance, because ADO must make calls to the provider to determine whether the **CommandText** property is a SQL statement, a stored procedure, or a table name. If you know what type of command you are using, setting the **CommandType** property instructs ADO to go directly to the relevant code. If the **CommandType** property does not match the type of command in the **CommandText** property, an error occurs when you call the **Open** method.
 
 For more information about using these enumerated constants for  _Options_ and with other ADO methods and properties, see CommandTypeEnum and ExecuteOptionEnum.
 
@@ -62,7 +62,7 @@ For more information about using these enumerated constants for  _Options_ and w
 ## ActiveConnection Argument
 <a name="sectionSection1"> </a>
 
-You can pass in either a  **Connection** object or a connection string as the _ActiveConnection_ argument.
+You can pass in either a **Connection** object or a connection string as the _ActiveConnection_ argument.
 
 
 ```
@@ -71,7 +71,7 @@ recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 
 The  _ActiveConnection_ argument corresponds to the **ActiveConnection** property and specifies in which connection to open the **Recordset** object. If you pass a connection definition for this argument, ADO opens a new connection using the specified parameters. After opening the **Recordset** with a client-side cursor ( **CursorLocation** = **adUseClient** ), you can change the value of this property to send updates to another provider. Or you can set this property to Nothing (in Microsoft Visual Basic) or NULL to disconnect the **Recordset** from any provider. Changing **ActiveConnection** for a server-side cursor generates an error, however.
 
-If you pass a  **Command** object in the _Source_ argument and also pass an _ActiveConnection_ argument, an error occurs because the **ActiveConnection** property of the **Command** object must already be set to a valid **Connection** object or connection string.
+If you pass a **Command** object in the _Source_ argument and also pass an _ActiveConnection_ argument, an error occurs because the **ActiveConnection** property of the **Command** object must already be set to a valid **Connection** object or connection string.
 
 
 ## CursorType Argument
@@ -82,7 +82,7 @@ If you pass a  **Command** object in the _Source_ argument and also pass an _Act
 recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 ```
 
-As discussed in The Significance of Cursor Location, the type of cursor that your application uses will determine which capabilities are available to the resultant  **Recordset** (if any). For a detailed examination of cursor types, see Chapter 8: Understanding Cursors and Locks.
+As discussed in The Significance of Cursor Location, the type of cursor that your application uses will determine which capabilities are available to the resultant **Recordset** (if any). For a detailed examination of cursor types, see Chapter 8: Understanding Cursors and Locks.
 
 The  _CursorType_ argument can accept any of the **CursorTypeEnum** values.
 
@@ -116,7 +116,7 @@ SELECT ProductID, ProductName, UnitPrice
 
 ```
 
-The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO when the command contains a COMPUTE clause. Therefore, the ADO code must use the  **NextRecordset** method to access the data in the second result set, as shown here:
+The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO when the command contains a COMPUTE clause. Therefore, the ADO code must use the **NextRecordset** method to access the data in the second result set, as shown here:
 
 
 

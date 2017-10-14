@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.DisplayAutoCorrectOptions Property (Access)
 
-Returns or sets a  **Boolean** value that specifies whether the **AutoCorrect Options** button is displayed for the specified control. The default value is **True**. Read/write.
+Returns or sets a **Boolean** value that specifies whether the **AutoCorrect Options** button is displayed for the specified control. The default value is **True**. Read/write.
 
 
 ## Syntax

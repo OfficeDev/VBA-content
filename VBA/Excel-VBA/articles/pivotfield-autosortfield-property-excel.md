@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.AutoSortField Property (Excel)
 
-Returns the name of the data field used to sort the specified PivotTable field automatically. Read-only  **String** .
+Returns the name of the data field used to sort the specified PivotTable field automatically. Read-only **String** .
 
 
 ## Syntax

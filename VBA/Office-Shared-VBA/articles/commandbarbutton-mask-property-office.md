@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Mask Property (Office)
 
-Gets or sets an  **IPictureDisp** object representing the mask image of a **CommandBarButton** object. The mask image determines what parts of the button image are transparent. Read/write.
+Gets or sets an **IPictureDisp** object representing the mask image of a **CommandBarButton** object. The mask image determines what parts of the button image are transparent. Read/write.
 
 
 ## 
@@ -33,12 +33,12 @@ Gets or sets an  **IPictureDisp** object representing the mask image of a **Comm
 
 When you create an image that you plan on using as a mask image, all of the areas that you want to be transparent should be white, and all of the areas that you want to show should be black.
 
-Always set the mask after you have set the picture for a  **CommandBarButton** object.
+Always set the mask after you have set the picture for a **CommandBarButton** object.
 
 
 ## Example
 
-The following example sets the image and mask of the first  **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and sustitute the paths in the sample with the paths to your images.
+The following example sets the image and mask of the first **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and sustitute the paths in the sample with the paths to your images.
 
 
 ```
@@ -64,7 +64,7 @@ Sub ChangeButtonImage()
 End Sub
 ```
 
-The following example gets the image and mask of the first  **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
+The following example gets the image and mask of the first **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
 
 
 

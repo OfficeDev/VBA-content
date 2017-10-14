@@ -24,17 +24,17 @@ For more information, see  [How to: Create Separate Read and Compose Pages Using
 ## Forms customized with form pages
 
 
-1. In Forms Designer, on the  **Developer** tab, in the **Form** group, do one of the following:
+1. In Forms Designer, on the **Developer** tab, in the **Form** group, do one of the following:
     
-      - To create or edit the compose page, click  **Page**, then click  **Edit Compose Page**.
+      - To create or edit the compose page, click **Page**, then click **Edit Compose Page**.
     
-  - To create or edit the read page, click  **Page**, then click  **Edit Read Page**.
+  - To create or edit the read page, click **Page**, then click **Edit Read Page**.
     
 2. Customize pages on the form.
     
     For more information, see  [How to: Customize Pages on a Form](customize-pages-on-a-form.md).
     
 
- **Note**  You can quickly switch between the two versions by clicking  **Edit Compose Page** and **Edit Read Page** in the **Design** group. If these commands are not available, you have set the compose and read versions to be the same. To have separate compose and read versions, click **Separate Read Layout** in the **Design** group.
+ **Note**  You can quickly switch between the two versions by clicking **Edit Compose Page** and **Edit Read Page** in the **Design** group. If these commands are not available, you have set the compose and read versions to be the same. To have separate compose and read versions, click **Separate Read Layout** in the **Design** group.
 
 

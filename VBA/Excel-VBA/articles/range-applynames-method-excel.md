@@ -44,11 +44,11 @@ Variant
 
 ## Remarks
 
-You can use the  **Array** function to create the list of names for the _Names_ argument.
+You can use the **Array** function to create the list of names for the _Names_ argument.
 
 If you want to apply names to the entire sheet, use  `Cells.ApplyNames`.
 
-You cannot "unapply" names; to delete names, use the  **Delete** method.
+You cannot "unapply" names; to delete names, use the **Delete** method.
 
 
 ## Example

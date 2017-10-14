@@ -29,7 +29,7 @@ Controls how changes are shown in a shared workbook.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _When_|Optional| **Variant**|The changes that are shown. Can be one of the following  **[XlHighlightChangesTime](xlhighlightchangestime-enumeration-excel.md)** constants: **xlSinceMyLastSave** , **xlAllChanges** , or **xlNotYetReviewed** .|
+| _When_|Optional| **Variant**|The changes that are shown. Can be one of the following **[XlHighlightChangesTime](xlhighlightchangestime-enumeration-excel.md)** constants: **xlSinceMyLastSave** , **xlAllChanges** , or **xlNotYetReviewed** .|
 | _Who_|Optional| **Variant**|The user or users whose changes are shown. Can be "Everyone," "Everyone but Me," or the name of one of the users of the shared workbook.|
 | _Where_|Optional| **Variant**|An A1-style range reference that specifies the area to check for changes.|
 

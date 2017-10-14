@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.Tag Property (Excel)
 
-Returns or sets a string saved with the PivotTable report. Read/write  **String** .
+Returns or sets a string saved with the PivotTable report. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a string saved with the PivotTable report. Read/write  **String*
 
 ## Example
 
-This example sets the PivotTable report's  **Tag** property.
+This example sets the PivotTable report's **Tag** property.
 
 
 ```vb

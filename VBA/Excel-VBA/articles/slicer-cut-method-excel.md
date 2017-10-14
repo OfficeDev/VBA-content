@@ -25,7 +25,7 @@ Cuts the specified slicer and copies it to the clipboard.
 
 ## Example
 
-The following code example accesses the Customer slicer by using the  **[Range](shapes-range-property-excel.md)** property of the **[Shapes](shapes-object-excel.md)** collection, and then cuts and pastes it into the active worksheet.
+The following code example accesses the Customer slicer by using the **[Range](shapes-range-property-excel.md)** property of the **[Shapes](shapes-object-excel.md)** collection, and then cuts and pastes it into the active worksheet.
 
 
 ```vb
@@ -35,7 +35,7 @@ ActiveSheet.Paste
 
 ```
 
-Alternatively, you can perform the same operation by using the  **[Slicers](slicercache-slicers-property-excel.md)** property of the **[SlicerCaches](slicercaches-object-excel.md)** collection to access the slicer, as shown in the following code example.
+Alternatively, you can perform the same operation by using the **[Slicers](slicercache-slicers-property-excel.md)** property of the **[SlicerCaches](slicercaches-object-excel.md)** collection to access the slicer, as shown in the following code example.
 
 
 

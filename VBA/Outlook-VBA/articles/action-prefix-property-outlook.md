@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.Prefix Property (Outlook)
 
-Returns or sets a  **String** specifying the prefix (for example, "Re") to use with the subject of the item when the action is executed. Read/write.
+Returns or sets a **String** specifying the prefix (for example, "Re") to use with the subject of the item when the action is executed. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** specifying the prefix (for example, "Re") to use w
 
 ## Remarks
 
-Outlook automatically adds a colon (:) to the value of the  **Prefix** property when setting the subject of the item.
+Outlook automatically adds a colon (:) to the value of the **Prefix** property when setting the subject of the item.
 
 
 ## See also

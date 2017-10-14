@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.UseLocalConnection Property (Excel)
 
-Returns  **True** if the **[LocalConnection](pivotcache-localconnection-property-excel.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. Returns **False** if the connection string specified by the **Connection** property is used. Read/write **Boolean** .
+Returns **True** if the **[LocalConnection](pivotcache-localconnection-property-excel.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. Returns **False** if the connection string specified by the **Connection** property is used. Read/write **Boolean** .
 
 
 ## Syntax

@@ -34,7 +34,7 @@ Adds a Personal Folders file (.pst) in the specified format to the current profi
 
 ## Remarks
 
-Use the  **olStoreUnicode** constant to add a new .pst file that has greater storage capacity for items and folders and supports multilingual Unicode data, to the user's profile. The **olStoreANSI** constant allows you to create .pst files that do not provide full support for multilingual Unicode data, but are compatible with earlier versions of Outlook. The **olStoreDefault** constant helps you create a .pst file in the default format that is compatible with the mailbox mode in which Outlook runs on the Microsoft Exchange Server.
+Use the **olStoreUnicode** constant to add a new .pst file that has greater storage capacity for items and folders and supports multilingual Unicode data, to the user's profile. The **olStoreANSI** constant allows you to create .pst files that do not provide full support for multilingual Unicode data, but are compatible with earlier versions of Outlook. The **olStoreDefault** constant helps you create a .pst file in the default format that is compatible with the mailbox mode in which Outlook runs on the Microsoft Exchange Server.
 
 
 ## Example

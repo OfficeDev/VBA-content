@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ExportToVisio Method (Excel)
 
-Exports a  **ListObject** object to Visio.
+Exports a **ListObject** object to Visio.
 
 
 ## Syntax

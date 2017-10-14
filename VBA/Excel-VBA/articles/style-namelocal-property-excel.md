@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.NameLocal Property (Excel)
 
-Returns or sets the name of the object, in the language of the user. Read-only  **String** .
+Returns or sets the name of the object, in the language of the user. Read-only **String** .
 
 
 ## Syntax

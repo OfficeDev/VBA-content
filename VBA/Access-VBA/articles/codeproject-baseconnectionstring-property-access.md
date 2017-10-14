@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeProject.BaseConnectionString Property (Access)
 
-You can use the  **BaseConnectionString** property to return the base connection string for the specified object. Read-only **String**.
+You can use the **BaseConnectionString** property to return the base connection string for the specified object. Read-only **String**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ You can use the  **BaseConnectionString** property to return the base connection
 
 ## Remarks
 
-The  **BaseConnectionString** property returns the connection string that was set through the **OpenConnection** method or by clicking **Connection** on the **File** menu. When making a connection, Microsoft Access project modifies the **BaseConnectionString** property for use with the ADO environment.
+The **BaseConnectionString** property returns the connection string that was set through the **OpenConnection** method or by clicking **Connection** on the **File** menu. When making a connection, Microsoft Access project modifies the **BaseConnectionString** property for use with the ADO environment.
 
 
 ## Example
 
-The following example displays the  **BaseConnectionString** property setting of the current project:
+The following example displays the **BaseConnectionString** property setting of the current project:
 
 
 ```vb

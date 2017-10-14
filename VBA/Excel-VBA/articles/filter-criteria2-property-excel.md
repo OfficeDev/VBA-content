@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.Criteria2 Property (Excel)
 
-Returns the second filtered value for the specified column in a filtered range. Read-only  **Variant** .
+Returns the second filtered value for the specified column in a filtered range. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the second filtered value for the specified column in a filtered range. 
 
 ## Remarks
 
-If you try to access the  **Criteria2** property for a filter that does not use two criteria, an error will occur. Check that the **[Operator](filter-operator-property-excel.md)** property of a **Filter** object doesn't equal zero (0) before trying to access the **Criteria2** property.
+If you try to access the **Criteria2** property for a filter that does not use two criteria, an error will occur. Check that the **[Operator](filter-operator-property-excel.md)** property of a **Filter** object doesn't equal zero (0) before trying to access the **Criteria2** property.
 
 
 ## Example
 
-The following example sets a variable to the value of the  **Criteria2** property of the filter for the first column in the filtered range on the Crew worksheet.
+The following example sets a variable to the value of the **Criteria2** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
 ```vb

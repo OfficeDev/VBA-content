@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.RefersToRange Property (Excel)
 
-Returns the  **[Range](range-object-excel.md)** object referred to by a **Name** object. Read-only.
+Returns the **[Range](range-object-excel.md)** object referred to by a **Name** object. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the  **[Range](range-object-excel.md)** object referred to by a **Name**
 
 ## Remarks
 
-If the  **Name** object doesn't refer to a range (for example, if it refers to a constant or a formula), this property fails.
+If the **Name** object doesn't refer to a range (for example, if it refers to a constant or a formula), this property fails.
 
-To change the range that a name refers to, use the  **[RefersTo](name-refersto-property-excel.md)** property.
+To change the range that a name refers to, use the **[RefersTo](name-refersto-property-excel.md)** property.
 
 
 ## Example

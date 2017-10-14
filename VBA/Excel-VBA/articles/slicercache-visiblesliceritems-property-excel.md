@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.VisibleSlicerItems Property (Excel)
 
-Returns a  **[SlicerItems](sliceritems-object-excel.md)** collection that contains the collection of all the visible items in the specified slicer cache. Read-only
+Returns a **[SlicerItems](sliceritems-object-excel.md)** collection that contains the collection of all the visible items in the specified slicer cache. Read-only
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a  **[SlicerItems](sliceritems-object-excel.md)** collection that contai
 
 ## Remarks
 
-The  **VisibleSlicerItems** property is only applicable for slicers that are based on PivotTables based on workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ). Attempting to access the **VisibleSlicerItems** property for slicers that are connected to an OLAP data source ( **SlicerCache** . **OLAP** = **True** ) generates a run-time error.
+The **VisibleSlicerItems** property is only applicable for slicers that are based on PivotTables based on workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ). Attempting to access the **VisibleSlicerItems** property for slicers that are connected to an OLAP data source ( **SlicerCache** . **OLAP** = **True** ) generates a run-time error.
 
 
 ## See also

@@ -29,12 +29,12 @@ Blocking user input will prevent the user from interfering with the macro as it 
 
 This property is useful if you're using DDE or OLE Automation to communicate with Microsoft Excel from another application.
 
-If you set this property to  **False** , don't forget to set it back to **True** . Microsoft Excel won't automatically set this property back to **True** when your macro stops running.
+If you set this property to **False** , don't forget to set it back to **True** . Microsoft Excel won't automatically set this property back to **True** when your macro stops running.
 
 
 ## Example
 
-This example sets the  **Interactive** property to **False** while it's using DDE in Windows and then sets this property back to **True** when it's finished. This prevents the user from interfering with the macro.
+This example sets the **Interactive** property to **False** while it's using DDE in Windows and then sets this property back to **True** when it's finished. This prevents the user from interfering with the macro.
 
 
 ```vb

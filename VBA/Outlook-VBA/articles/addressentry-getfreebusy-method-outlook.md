@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.GetFreeBusy Method (Outlook)
 
-Returns a  **String** value that represents the availability of the individual user for a period of 30 days from the start date, beginning at midnight of the date specified.
+Returns a **String** value that represents the availability of the individual user for a period of 30 days from the start date, beginning at midnight of the date specified.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Returns a  **String** value that represents the availability of the individual u
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|Specifies the date.|
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. The default value is 30.|
-| _CompleteFormat_|Optional| **Variant**|Specifies a  **Boolean** value that represents the level of information returned for each time slot. The default value is **False** .|
+| _CompleteFormat_|Optional| **Variant**|Specifies a **Boolean** value that represents the level of information returned for each time slot. The default value is **False** .|
 
 ### Return Value
 
@@ -41,7 +41,7 @@ A String value that represents the availability of the user for the specified pe
 ## Remarks
 
 
- **Note**  If an address entry represents a distribution list, the status of its individual members cannot be returned to you with the  **GetFreeBusy** method. A meeting request should be sent only to single messaging users. You can determine if a messaging user is a distribution list by determining if its **[DisplayType](addressentry-displaytype-property-outlook.md)** property is **olDistList** or **olPrivateDistList** .
+ **Note**  If an address entry represents a distribution list, the status of its individual members cannot be returned to you with the **GetFreeBusy** method. A meeting request should be sent only to single messaging users. You can determine if a messaging user is a distribution list by determining if its **[DisplayType](addressentry-displaytype-property-outlook.md)** property is **olDistList** or **olPrivateDistList** .
 
 The contents of the string returned by this method are determined by the  _CompleteFormat_ parameter.
 

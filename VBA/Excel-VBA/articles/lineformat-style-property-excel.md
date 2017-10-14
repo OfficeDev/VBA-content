@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Style Property (Excel)
 
-Returns or sets a  **[MsoLineStyle](http://msdn.microsoft.com/library/888c4d9c-a20d-f71a-faa9-8ea0275efd4e%28Office.15%29.aspx)** value that represents the style of the line.
+Returns or sets a **[MsoLineStyle](http://msdn.microsoft.com/library/888c4d9c-a20d-f71a-faa9-8ea0275efd4e%28Office.15%29.aspx)** value that represents the style of the line.
 
 
 ## Syntax

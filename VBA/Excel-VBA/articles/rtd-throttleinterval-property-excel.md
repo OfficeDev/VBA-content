@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RTD.ThrottleInterval Property (Excel)
 
-Returns or sets a  **Long** indicating the time interval between updates. Read/write.
+Returns or sets a **Long** indicating the time interval between updates. Read/write.
 
 
 ## Syntax

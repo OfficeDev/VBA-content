@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcFormatConditionOperator Enumeration (Access)
 
-Specifies the operator to apply when using the  **Add** method to create a conditional format.
+Specifies the operator to apply when using the **Add** method to create a conditional format.
 
 
 

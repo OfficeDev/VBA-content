@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Using Events with Embedded Charts
 
-Events are enabled for chart sheets by default. Before you can use events with a  **Chart** object that represents an embedded chart, you must create a new class module and declare an object of type **Chart** with events. For example, assume that a new class module is created and named EventClassModule. The new class module contains the following code.
+Events are enabled for chart sheets by default. Before you can use events with a **Chart** object that represents an embedded chart, you must create a new class module and declare an object of type **Chart** with events. For example, assume that a new class module is created and named EventClassModule. The new class module contains the following code.
 
 
 ```vb
@@ -19,7 +19,7 @@ Public WithEvents myChartClass As Chart
 ```
 
 
-After the new object has been declared with events, it appears in the  **Object** drop-down list box in the class module, and you can write event procedures for this object. (When you select the new object in the **Object** box, the valid events for that object are listed in the **Procedure** drop-down list box.)
+After the new object has been declared with events, it appears in the **Object** drop-down list box in the class module, and you can write event procedures for this object. (When you select the new object in the **Object** box, the valid events for that object are listed in the **Procedure** drop-down list box.)
 
 Before your procedures will run, however, you must connect the declared object in the class module with the embedded chart. You can do this by using the following code from any module.
 

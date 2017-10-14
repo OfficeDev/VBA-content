@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SheetViews.Count Property (Excel)
 
-Returns the number of objects in the collection. Read-only  **Long** .
+Returns the number of objects in the collection. Read-only **Long** .
 
 
 ## Syntax

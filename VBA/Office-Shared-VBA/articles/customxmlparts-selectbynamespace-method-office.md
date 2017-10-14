@@ -38,7 +38,7 @@ CustomXMLParts
 
 ## Remarks
 
-If no custom XML parts with this namespace exist, the method returns an empty  **CustomXMLParts** collection object.
+If no custom XML parts with this namespace exist, the method returns an empty **CustomXMLParts** collection object.
 
 
 ## Example

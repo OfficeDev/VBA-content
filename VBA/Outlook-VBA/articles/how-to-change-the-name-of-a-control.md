@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Change the Name of a Control
 
-The following code example uses the  **[ModifiedFormPages](inspector-modifiedformpages-property-outlook.md)** property of the current **[Inspector](inspector-object-outlook.md)** object to set the Microsoft Forms 2.0 **Name** property of a **[CheckBox](checkbox-object-outlook-forms-script.md)** on a page named "Test" to "Selection."
+The following code example uses the **[ModifiedFormPages](inspector-modifiedformpages-property-outlook.md)** property of the current **[Inspector](inspector-object-outlook.md)** object to set the Microsoft Forms 2.0 **Name** property of a **[CheckBox](checkbox-object-outlook-forms-script.md)** on a page named "Test" to "Selection."
 
 
 ```

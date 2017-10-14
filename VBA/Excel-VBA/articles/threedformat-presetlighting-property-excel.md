@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetLighting Property (Excel)
 
-Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Read-only **[MsoLightRigType](http://msdn.microsoft.com/library/54a42ee8-a029-0580-eddc-adc305f34d0d%28Office.15%29.aspx)** .
+Returns or sets the extrusion preset lighting for a **ThreeDFormat** object. Read-only **[MsoLightRigType](http://msdn.microsoft.com/library/54a42ee8-a029-0580-eddc-adc305f34d0d%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Re
 
 
 
-|MsoLightRigType can be one of these  **MsoLightRigType** constants.|
+|MsoLightRigType can be one of these **MsoLightRigType** constants.|
 | **msoLightRigBalanced**|
 | **msoLightRigBrightRoom**|
 | **msoLightRigChilly**|

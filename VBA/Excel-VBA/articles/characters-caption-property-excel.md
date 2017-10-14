@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.Caption Property (Excel)
 
-Returns a  **String** value that represents the text of this range of characters.
+Returns a **String** value that represents the text of this range of characters.
 
 
 ## Syntax

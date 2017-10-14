@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # EndStyle Property
 
-Returns or sets the end style for the error bars. Read/write  **XlEndStyleCap**.
+Returns or sets the end style for the error bars. Read/write **XlEndStyleCap**.
 
 
 ## 
@@ -20,7 +20,7 @@ Returns or sets the end style for the error bars. Read/write  **XlEndStyleCap**.
 |XlEndStyleCap can be one of these XlEndStyleCap constants.|
 | **xlCap**|
 | **xlNoCap**|
- _expression_.  **EndStyle**
+ _expression_. **EndStyle**
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 

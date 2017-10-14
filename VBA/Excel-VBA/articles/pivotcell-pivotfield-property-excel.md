@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.PivotField Property (Excel)
 
-Returns a  **[PivotField](pivotfield-object-excel.md)** object that represents the PivotTable field containing the upper-left corner of the specified range.
+Returns a **[PivotField](pivotfield-object-excel.md)** object that represents the PivotTable field containing the upper-left corner of the specified range.
 
 
 ## Syntax

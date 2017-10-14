@@ -34,7 +34,7 @@ Occurs when a worksheet is double-clicked, before the default double-click actio
 
 ## Remarks
 
-The  **[DoubleClick](application-doubleclick-method-excel.md)** method doesn't cause this event to occur.
+The **[DoubleClick](application-doubleclick-method-excel.md)** method doesn't cause this event to occur.
 
 This event doesn't occur when the user double-clicks the border of a cell.
 

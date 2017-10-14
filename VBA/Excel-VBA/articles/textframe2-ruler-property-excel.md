@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.Ruler Property (Excel)
 
-Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only.
+Returns a **Ruler2** object that represents the ruler for the specified text. Read-only.
 
 
 ## Syntax

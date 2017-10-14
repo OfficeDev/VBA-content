@@ -22,7 +22,7 @@ Possible causes:
 
 - You included a Memo or OLE Object field in an expression where it is not allowed.
     
-- You included a numeric aggregate function, such as  **Sum** or **StDev**, that tried to perform a calculation on a Text field. Choose a different aggregate function.
+- You included a numeric aggregate function, such as **Sum** or **StDev**, that tried to perform a calculation on a Text field. Choose a different aggregate function.
     
 
  **ACCESS SUPPORT RESOURCES**<br>

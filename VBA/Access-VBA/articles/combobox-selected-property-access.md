@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.Selected Property (Access)
 
-You can use the  **Selected** property in Visual Basic to determine if an item in a combo box is selected. Read/write **Long**.
+You can use the **Selected** property in Visual Basic to determine if an item in a combo box is selected. Read/write **Long**.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ You can use the  **Selected** property in Visual Basic to determine if an item i
 
 ## Remarks
 
-The  **Selected** property is a zero-based array that contains the selected state of each item in a combo box.
+The **Selected** property is a zero-based array that contains the selected state of each item in a combo box.
 
 
 
@@ -43,7 +43,7 @@ The  **Selected** property is a zero-based array that contains the selected stat
 |**False**|The combo box item is not selected.|
 This property is available only at run time.
 
-You can use the  **Selected** property to select items in a combo box by using Visual Basic. For example, the following expression selects the fifth item in the list:
+You can use the **Selected** property to select items in a combo box by using Visual Basic. For example, the following expression selects the fifth item in the list:
 
 
 

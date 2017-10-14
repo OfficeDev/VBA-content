@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-A command button on a form can start an action or a set of actions. For example, you could create a command button that opens another form. To make a command button do something, you write a macro or event procedure and attach it to the button's  **OnClick** property.
+A command button on a form can start an action or a set of actions. For example, you could create a command button that opens another form. To make a command button do something, you write a macro or event procedure and attach it to the button's **OnClick** property.
 
 
 ## Remarks
 
-You can display text on a command button by setting its  **Caption** property, or you can display a picture by setting its **Picture** property.
+You can display text on a command button by setting its **Caption** property, or you can display a picture by setting its **Picture** property.
 
 
  **Tip**  You can create over 30 different types of command buttons with the Command Button Wizard. When you use the Command Button Wizard, Microsoft Access creates the button and the event procedure for you.

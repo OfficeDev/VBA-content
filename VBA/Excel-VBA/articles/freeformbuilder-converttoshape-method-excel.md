@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FreeformBuilder.ConvertToShape Method (Excel)
 
-Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](freeformbuilder-object-excel.md)** object. Returns a **[Shape](shape-object-excel.md)** object that represents the new shape.
+Creates a shape that has the geometric characteristics of the specified **[FreeformBuilder](freeformbuilder-object-excel.md)** object. Returns a **[Shape](shape-object-excel.md)** object that represents the new shape.
 
 
 ## Syntax

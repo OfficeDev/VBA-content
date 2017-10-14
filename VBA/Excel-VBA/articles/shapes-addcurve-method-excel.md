@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddCurve Method (Excel)
 
-Returns a  **[Shape](shape-object-excel.md)** object that represents a B?zier curve in a worksheet.
+Returns a **[Shape](shape-object-excel.md)** object that represents a B?zier curve in a worksheet.
 
 
 ## Syntax

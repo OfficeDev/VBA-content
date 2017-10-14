@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThemeColorScheme.Parent Property (Office)
 
-Gets the  **Parent** object for the **ThemeColorScheme** object. Read-only.
+Gets the **Parent** object for the **ThemeColorScheme** object. Read-only.
 
 
 ## Syntax

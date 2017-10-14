@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-This won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](workbook-runautomacros-method-excel.md)** method to run those macros).
+This won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the **[RunAutoMacros](workbook-runautomacros-method-excel.md)** method to run those macros).
 
 
 ## See also

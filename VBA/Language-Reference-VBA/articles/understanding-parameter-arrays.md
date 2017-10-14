@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 A [parameter](vbe-glossary.md)[array](vbe-glossary.md) can be used to pass an array of [arguments](vbe-glossary.md) to a [procedure](vbe-glossary.md). You don't have to know the number of elements in the array when you define the procedure.
 
-You use the  **ParamArray** keyword to denote a parameter array. The array must be declared as an array of type **Variant**, and it must be the last argument in the procedure definition.
+You use the **ParamArray** keyword to denote a parameter array. The array must be declared as an array of type **Variant**, and it must be the last argument in the procedure definition.
 
 The following example shows how you might define a procedure with a parameter array.
 

@@ -37,6 +37,6 @@ End Sub
 ```
 
 
- **Note**  If you want to use a folder other than a default folder, use the  **[Folders](folders-object-outlook.md)** collection object to refer to any folder that is available in your Folder List.
+ **Note**  If you want to use a folder other than a default folder, use the **[Folders](folders-object-outlook.md)** collection object to refer to any folder that is available in your Folder List.
 
 

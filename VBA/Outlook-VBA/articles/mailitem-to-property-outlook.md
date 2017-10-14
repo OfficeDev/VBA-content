@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.To Property (Outlook)
 
-Returns or sets a semicolon-delimited  **String** list of display names for the **To** recipients for the Outlook item. Read/write.
+Returns or sets a semicolon-delimited **String** list of display names for the **To** recipients for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a semicolon-delimited  **String** list of display names for the 
 
 ## Remarks
 
-This property contains the display names only. The  **To** property corresponds to the MAPI property **PidTagDisplayTo** . The **[Recipients](recipients-object-outlook.md)** collection should be used to modify this property.
+This property contains the display names only. The **To** property corresponds to the MAPI property **PidTagDisplayTo** . The **[Recipients](recipients-object-outlook.md)** collection should be used to modify this property.
 
 
 ## See also

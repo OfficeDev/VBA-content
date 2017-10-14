@@ -33,18 +33,18 @@ Displays a dialog box that allows the user to choose an available XML expansion 
 
 ## Remarks
 
-Use the  **PickSolution** method to allow the user to select an XML expansion pack from a list. The schema attached to the active document or workbook determines which XML expansion packs are applicable.
+Use the **PickSolution** method to allow the user to select an XML expansion pack from a list. The schema attached to the active document or workbook determines which XML expansion packs are applicable.
 
-The  **PickSolution** method does not return a value to indicate whether the user selected an XML expansion pack or clicked **Cancel** in the dialog box. Check the **SolutionID** property after calling **PickSolution** to determine whether an XML expansion pack has been attached.
+The **PickSolution** method does not return a value to indicate whether the user selected an XML expansion pack or clicked **Cancel** in the dialog box. Check the **SolutionID** property after calling **PickSolution** to determine whether an XML expansion pack has been attached.
 
-If the smart document developer has failed to specify "targetApplication" in the XML expansion pack manifest file, the list displayed by  **PickSolution** may include XML expansion packs that are not targeted to the active application; for example, an Excel user may see XML expansion packs targeted exclusively to Word. In these circumstances, the user may select an XML expansion pack that is not appropriate for the active application.
+If the smart document developer has failed to specify "targetApplication" in the XML expansion pack manifest file, the list displayed by **PickSolution** may include XML expansion packs that are not targeted to the active application; for example, an Excel user may see XML expansion packs targeted exclusively to Word. In these circumstances, the user may select an XML expansion pack that is not appropriate for the active application.
 
 For more information on smart documents or XML expansion packs for smart documents, please see the Smart Document Software Development Kit (SDK) on the Microsoft Developer Network (MSDN) Web site.
 
 
 ## Example
 
-The following example checks the  **SolutionID** property to determine whether the active Microsoft Word document already has an attached XML expansion pack; if not, it displays a dialog box which allows the user to choose an available XML expansion pack. It then displays the properties of the smart document.
+The following example checks the **SolutionID** property to determine whether the active Microsoft Word document already has an attached XML expansion pack; if not, it displays a dialog box which allows the user to choose an available XML expansion pack. It then displays the properties of the smart document.
 
 
 ```

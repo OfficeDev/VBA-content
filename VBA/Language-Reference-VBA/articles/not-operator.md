@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to perform logical negation on an [expression](vbe-glossary.md).
  **Syntax**
  _result_**=** **Not**_expression_
-The  **Not** operator syntax has these parts:
+The **Not** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -32,7 +32,7 @@ The following table illustrates how  _result_ is determined:
 |**True**|**False**|
 |**False**|**True**|
 |[Null](vbe-glossary.md)|**Null**|
-In addition, the  **Not** operator inverts the bit values of any variable and sets the corresponding bit in _result_ according to the following table:
+In addition, the **Not** operator inverts the bit values of any variable and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression_ is**|**Then bit in  _result_ is**|
@@ -42,7 +42,7 @@ In addition, the  **Not** operator inverts the bit values of any variable and se
 
 ## Example
 
-This example uses the  **Not** operator to perform logical negation on an expression.
+This example uses the **Not** operator to perform logical negation on an expression.
 
 
 ```vb

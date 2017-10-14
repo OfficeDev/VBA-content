@@ -30,14 +30,14 @@ Dim ss As SearchScope
 Set ss = SearchScopes.Item(1)
 ```
 
-Ultimately, the  **SearchScope** object is intended to provide access to **ScopeFolder** objects that can be added to the **SearchFolders** collection. For an example that demonstrates how this is accomplished, see the **SearchFolders** collection topic.
+Ultimately, the **SearchScope** object is intended to provide access to **ScopeFolder** objects that can be added to the **SearchFolders** collection. For an example that demonstrates how this is accomplished, see the **SearchFolders** collection topic.
 
-See the  **ScopeFolder** object topic to see a simple example of how to return a **ScopeFolder** object from a **SearchScope** object.
+See the **ScopeFolder** object topic to see a simple example of how to return a **ScopeFolder** object from a **SearchScope** object.
 
 
 ## Example
 
-The following example displays all of the currently available  **SearchScope** objects.
+The following example displays all of the currently available **SearchScope** objects.
 
 
 ```

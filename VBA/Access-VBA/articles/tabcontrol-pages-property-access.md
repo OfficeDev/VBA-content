@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.Pages Property (Access)
 
-Returns a  **[Pages](pages-object-access.md)** collection that represents the pages in the specified **TabControl** object. Read-only.
+Returns a **[Pages](pages-object-access.md)** collection that represents the pages in the specified **TabControl** object. Read-only.
 
 
 ## Syntax

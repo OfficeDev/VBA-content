@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Comment Block and Uncomment Block Commands
 
-Adds and removes the comment character, an apostrophe, for each line of a selected block of text. If you do not have text selected and you choose the  **Comment** **Block** or **Uncomment** **Block** command, the comment character is added or removed in the line where the pointer is located.
+Adds and removes the comment character, an apostrophe, for each line of a selected block of text. If you do not have text selected and you choose the **Comment** **Block** or **Uncomment** **Block** command, the comment character is added or removed in the line where the pointer is located.
 
  **Comment Block**
 

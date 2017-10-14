@@ -13,6 +13,6 @@ ms.date: 06/08/2017
 
 # Corners Property
 
-Returns a  **[Corners](corners-object.md)** object that represents the corners of the specified 3-D chart. Read-only.
+Returns a **[Corners](corners-object.md)** object that represents the corners of the specified 3-D chart. Read-only.
 
 

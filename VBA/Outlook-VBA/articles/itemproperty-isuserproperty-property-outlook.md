@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ItemProperty.IsUserProperty Property (Outlook)
 
-Returns a  **Boolean** value that indicates if the item property is a custom property created by the user. Read-only.
+Returns a **Boolean** value that indicates if the item property is a custom property created by the user. Read-only.
 
 
 ## Syntax

@@ -15,16 +15,16 @@ ms.date: 06/08/2017
 
 
 
-Specifies the source providing a list for a  **ComboBox** or **ListBox**.
+Specifies the source providing a list for a **ComboBox** or **ListBox**.
  **Syntax**
  _object_. **RowSource** [= _String_ ]
-The  **RowSource** property syntax has these parts:
+The **RowSource** property syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _String_|Optional. The source of the list for the  **ComboBox** or **ListBox**.|
+| _String_|Optional. The source of the list for the **ComboBox** or **ListBox**.|
  **Remarks**
-The  **RowSource** property accepts worksheet ranges from Microsoft Excel.
+The **RowSource** property accepts worksheet ranges from Microsoft Excel.
 

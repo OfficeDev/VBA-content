@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.CubeField Property (Excel)
 
-Returns the  **[CubeField](cubefield-object-excel.md)** object from which the specified PivotTable field is descended. Read-only.
+Returns the **[CubeField](cubefield-object-excel.md)** object from which the specified PivotTable field is descended. Read-only.
 
 
 ## Syntax

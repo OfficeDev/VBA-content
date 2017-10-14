@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Parent Property (Outlook)
 
-Returns the parent  **Object** of the **[ExchangeUser](exchangeuser-object-outlook.md)** object. Read-only.
+Returns the parent **Object** of the **[ExchangeUser](exchangeuser-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

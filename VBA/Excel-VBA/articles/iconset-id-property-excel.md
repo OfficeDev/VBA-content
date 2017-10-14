@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconSet.ID Property (Excel)
 
-Returns one of the constants of the  **[XlIconSet](xliconset-enumeration-excel.md)** enumeration, which specifies the name of the icon set used in an icon set conditional formatting rule.
+Returns one of the constants of the **[XlIconSet](xliconset-enumeration-excel.md)** enumeration, which specifies the name of the icon set used in an icon set conditional formatting rule.
 
 
 ## Syntax

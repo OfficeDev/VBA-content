@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The value specified for the  **Caption** property is displayed in the header of the slicer. If the **Caption** property is not specified, Excel uses the value of the **[Caption](pivotfield-caption-property-excel.md)** property of the underlying **[PivotField](pivotfield-object-excel.md)** object.
+The value specified for the **Caption** property is displayed in the header of the slicer. If the **Caption** property is not specified, Excel uses the value of the **[Caption](pivotfield-caption-property-excel.md)** property of the underlying **[PivotField](pivotfield-object-excel.md)** object.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Body Property (Outlook)
 
-Returns or sets a  **String** representing the clear-text body of the Outlook item. Read/write.
+Returns or sets a **String** representing the clear-text body of the Outlook item. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the clear-text body of the Outlook it
 
 ## Remarks
 
-The  **[MailItem.BodyFormat](mailitem-bodyformat-property-outlook.md)** property allows you to programmatically change the editor that is used for the body of an item.
+The **[MailItem.BodyFormat](mailitem-bodyformat-property-outlook.md)** property allows you to programmatically change the editor that is used for the body of an item.
 
 
 ## See also

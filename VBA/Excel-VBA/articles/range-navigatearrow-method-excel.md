@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.NavigateArrow Method (Excel)
 
-Navigates a tracer arrow for the specified range to the precedent, dependent, or error-causing cell or cells. Selects the precedent, dependent, or error cells and returns a  **[Range](range-object-excel.md)** object that represents the new selection. This method causes an error if it's applied to a cell without visible tracer arrows.
+Navigates a tracer arrow for the specified range to the precedent, dependent, or error-causing cell or cells. Selects the precedent, dependent, or error cells and returns a **[Range](range-object-excel.md)** object that represents the new selection. This method causes an error if it's applied to a cell without visible tracer arrows.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Navigates a tracer arrow for the specified range to the precedent, dependent, or
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TowardPrecedent_|Optional| **Variant**|Specifies the direction to navigate:  **True** to navigate toward precedents, **False** to navigate toward dependent.|
+| _TowardPrecedent_|Optional| **Variant**|Specifies the direction to navigate: **True** to navigate toward precedents, **False** to navigate toward dependent.|
 | _ArrowNumber_|Optional| **Variant**|Specifies the arrow number to navigate; corresponds to the numbered reference in the cell's formula.|
 | _LinkNumber_|Optional| **Variant**|If the arrow is an external reference arrow, this argument indicates which external reference to follow. If this argument is omitted, the first external reference is followed.|
 
@@ -40,7 +40,7 @@ Variant
 
 ## Example
 
-This example navigates along the first tracer arrow from cell A1 on Sheet1 toward the precedent cell. The example should be run on a worksheet containing a formula in cell A1 that includes references to cells D1, D2, and D3 (for example, the formula =D1*D2*D3). Before running the example, display the  **Auditing** toolbar, select cell A1, and click the **Trace Precedents** button.
+This example navigates along the first tracer arrow from cell A1 on Sheet1 toward the precedent cell. The example should be run on a worksheet containing a formula in cell A1 that includes references to cells D1, D2, and D3 (for example, the formula =D1*D2*D3). Before running the example, display the **Auditing** toolbar, select cell A1, and click the **Trace Precedents** button.
 
 
 ```vb

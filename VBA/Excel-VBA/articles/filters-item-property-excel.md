@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ## Example
 
-The following example sets a variable to the value of the  **On** property of the filter for the first column in the filtered range on the Crew worksheet.
+The following example sets a variable to the value of the **On** property of the filter for the first column in the filtered range on the Crew worksheet.
 
 
 ```vb

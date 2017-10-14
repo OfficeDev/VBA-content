@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PickerField.Creator Property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **PickerField** object was created. Read-only
+Gets a 32-bit integer that indicates the application in which the **PickerField** object was created. Read-only
 
 
 ## Syntax

@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # Columns Object (Outlook)
 
-Represents the collection of  **[Column](column-object-outlook.md)** objects in a **[Table](table-object-outlook.md)** object.
+Represents the collection of **[Column](column-object-outlook.md)** objects in a **[Table](table-object-outlook.md)** object.
 
 
 ## Remarks
 
-The  **Columns** object supports enumerating **Column** objects in the **[Columns](columns-object-outlook.md)** collection object. It supports the COM interface, **IEnumerable**.
+The **Columns** object supports enumerating **Column** objects in the **[Columns](columns-object-outlook.md)** collection object. It supports the COM interface, **IEnumerable**.
 
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
 
 
 ```

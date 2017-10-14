@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Lock <keyword>
 
-The  **Lock** keyword is used in these contexts:
+The **Lock** keyword is used in these contexts:
 
 [Lock, Unlock Statements](lock-unlock-statements.md)
 

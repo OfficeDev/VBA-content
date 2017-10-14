@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.GetItem Method (Outlook)
 
-Obtains a  **String** that represents an item at the specified location in the list of the combo box control.
+Obtains a **String** that represents an item at the specified location in the list of the combo box control.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Obtains a  **String** that represents an item at the specified location in the l
 
 ### Return Value
 
-A  **String** value that represents the item at the specified location in the list.
+A **String** value that represents the item at the specified location in the list.
 
 
 ## Remarks

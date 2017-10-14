@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Add a Click Event for a Control in a Custom Form Page
 
-You can use VBScript to extend the  **Click** event of a control in a custom form page.
+You can use VBScript to extend the **Click** event of a control in a custom form page.
 
 
 1. Open the Script Editor. 
     
      [How](using-the-script-editor.md)?
     
-2. For the control to which you want to add a  **Click** event, for example, a command button control, add the following. In the example, CommandButton1 is the name of the control.
+2. For the control to which you want to add a **Click** event, for example, a command button control, add the following. In the example, CommandButton1 is the name of the control.
     
 ```vb
   Sub CommandButton1_Click 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # XlPivotFieldDataType Enumeration (Excel)
 
-Specifies the type of data in the  **PivotTable** field.
+Specifies the type of data in the **PivotTable** field.
 
 
 
@@ -22,6 +22,6 @@ Specifies the type of data in the  **PivotTable** field.
 
 ## Remarks
 
-This enumeration is used with the  **DataType** property of the **PivotField** object.
+This enumeration is used with the **DataType** property of the **PivotField** object.
 
 

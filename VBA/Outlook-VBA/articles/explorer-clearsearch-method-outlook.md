@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.ClearSearch Method (Outlook)
 
-Clears results from a Microsoft Instant Search in an  **[Explorer](explorer-object-outlook.md)** if results are displayed in the **Explorer** .
+Clears results from a Microsoft Instant Search in an **[Explorer](explorer-object-outlook.md)** if results are displayed in the **Explorer** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Clears results from a Microsoft Instant Search in an  **[Explorer](explorer-obje
 
 ## Remarks
 
-The functionality of this method is analogous to the  **Clear** button in Instant Search.
+The functionality of this method is analogous to the **Clear** button in Instant Search.
 
-If no search results are displayed in the Explorer,  **ClearSearch** will not take any action. If the current view of the **Explorer** does not present a search view, **ClearSearch** will not raise an error.
+If no search results are displayed in the Explorer, **ClearSearch** will not take any action. If the current view of the **Explorer** does not present a search view, **ClearSearch** will not raise an error.
 
 
 ## See also

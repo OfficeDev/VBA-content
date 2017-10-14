@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Mid <keyword>
 
-The  **Mid** keyword is used in these contexts:
+The **Mid** keyword is used in these contexts:
 
 [Mid Function](mid-function.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.RefersToR1C1 Property (Excel)
 
-Returns or sets the formula that the name refers to. The formula is in the language of the macro, and it's in R1C1-style notation, beginning with an equal sign. Read/write  **String** .
+Returns or sets the formula that the name refers to. The formula is in the language of the macro, and it's in R1C1-style notation, beginning with an equal sign. Read/write **String** .
 
 
 ## Syntax

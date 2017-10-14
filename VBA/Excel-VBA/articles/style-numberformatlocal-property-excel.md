@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.NumberFormatLocal Property (Excel)
 
-Returns or sets a  **String** value that represents the format code for the object as a string in the language of the user.
+Returns or sets a **String** value that represents the format code for the object as a string in the language of the user.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the format code for the obje
 
 ## Remarks
 
-The  **Format** function uses different format code strings than do the **[NumberFormat](style-numberformat-property-excel.md)** and **NumberFormatLocal** properties.
+The **Format** function uses different format code strings than do the **[NumberFormat](style-numberformat-property-excel.md)** and **NumberFormatLocal** properties.
 
 
 ## See also

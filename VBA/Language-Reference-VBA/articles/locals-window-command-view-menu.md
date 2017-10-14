@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Locals Window Command (View Menu)
 
-Displays the  **Locals** window and automatically displays all of the[variables](vbe-glossary.md) in the current stack and their values.
+Displays the **Locals** window and automatically displays all of the[variables](vbe-glossary.md) in the current stack and their values.
 
-The  **Locals** window is automatically updated every time you change from[run time](vbe-glossary.md) to[break mode](vbe-glossary.md) and every time the stack context changes.
+The **Locals** window is automatically updated every time you change from[run time](vbe-glossary.md) to[break mode](vbe-glossary.md) and every time the stack context changes.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_lowd_ZA01201713.gif).

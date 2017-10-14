@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Databar.NegativeBarFormat Property (Excel)
 
-Returns the  **[NegativeBarFormat](negativebarformat-object-excel.md)** object associated with a data bar conditional formatting rule. Read-only
+Returns the **[NegativeBarFormat](negativebarformat-object-excel.md)** object associated with a data bar conditional formatting rule. Read-only
 
 
 ## Syntax

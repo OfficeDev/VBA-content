@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Value Property (Excel)
 
-Returns or sets a  **Variant** value that represents the value of the specified range.
+Returns or sets a **Variant** value that represents the value of the specified range.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets a  **Variant** value that represents the value of the specified 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _RangeValueDataType_|Optional| **Variant**|The range value data type. Can be a  **[xlRangeValueDataType](xlrangevaluedatatype-enumeration-excel.md)** constant.|
+| _RangeValueDataType_|Optional| **Variant**|The range value data type. Can be a **[xlRangeValueDataType](xlrangevaluedatatype-enumeration-excel.md)** constant.|
 
 ## Remarks
 

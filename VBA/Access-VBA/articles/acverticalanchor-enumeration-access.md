@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcVerticalAnchor Enumeration (Access)
 
-Used with the  **VerticalAnchor** property to specify how a control is anchored vertically within its layout.
+Used with the **VerticalAnchor** property to specify how a control is anchored vertically within its layout.
 
 
 

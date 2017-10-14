@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.BeginGroup Property (Office)
 
-Gets  **True** if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.
+Gets **True** if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.
 
 
 ## 

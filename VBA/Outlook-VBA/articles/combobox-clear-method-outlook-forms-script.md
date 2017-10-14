@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # ComboBox.Clear Method (Outlook Forms Script)
 
-Removes all entries in the list in a  **[ComboBox](combobox-object-outlook-forms-script.md)**.
+Removes all entries in the list in a **[ComboBox](combobox-object-outlook-forms-script.md)**.
 
 
 ## Syntax
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-If the control is bound to data, the  **Clear** method fails.
+If the control is bound to data, the **Clear** method fails.
 
 

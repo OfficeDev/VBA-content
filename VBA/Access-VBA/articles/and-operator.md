@@ -28,7 +28,7 @@ Determines whether the value of an expression falls within a specified range of 
 
  _expr_ [ **Not** ] **Between** _value1_ **And** _value2_
 
-The  **Between…And** operator syntax has these parts:
+The **Between…And** operator syntax has these parts:
 
 
 
@@ -42,7 +42,7 @@ The  **Between…And** operator syntax has these parts:
 
 If the value of  _expr_ is between _value1_ and _value2_ (inclusive), the **Between…And** operator returns **True**; otherwise, it returns **False**. You can include the **Not** logical operator to evaluate the opposite condition (that is, whether _expr_ lies outside the range defined by _value1_ and _value2_ ).
 
-You might use  **Between…And** to determine whether the value of a field falls within a specified numeric range. The following example determines whether an order was shipped to a location within a range of postal codes. If the postal code is between 98101 and 98199, the **IIf** function returns "Local". Otherwise, it returns "Nonlocal".
+You might use **Between…And** to determine whether the value of a field falls within a specified numeric range. The following example determines whether an order was shipped to a location within a range of postal codes. If the postal code is between 98101 and 98199, the **IIf** function returns "Local". Otherwise, it returns "Nonlocal".
 
 
 
@@ -54,7 +54,7 @@ FROM Publishers;
 
 If  _expr_, _value1_, or _value2_ is **Null**, **Between…And** returns a **Null** value.
 
-Because wildcard characters, such as *, are treated as literals, you cannot use them with the  **Between…And** operator. For example, you cannot use 980* and 989* to find all postal codes that start with 980 to 989. Instead, you have two alternatives for accomplishing this. You can add an expression to the query that takes the left three characters of the text field and use **Between…And** on those characters. Or you can pad the high and low values with extra characters — in this case, 98000 to 98999, or 98000 to 98999 - 9999 if using extended postal codes. (You must omit the - 0000 from the low values because otherwise 98000 is dropped if some postal codes have extended sections and others do not.)
+Because wildcard characters, such as *, are treated as literals, you cannot use them with the **Between…And** operator. For example, you cannot use 980* and 989* to find all postal codes that start with 980 to 989. Instead, you have two alternatives for accomplishing this. You can add an expression to the query that takes the left three characters of the text field and use **Between…And** on those characters. Or you can pad the high and low values with extra characters — in this case, 98000 to 98999, or 98000 to 98999 - 9999 if using extended postal codes. (You must omit the - 0000 from the low values because otherwise 98000 is dropped if some postal codes have extended sections and others do not.)
 
 
 ## Example

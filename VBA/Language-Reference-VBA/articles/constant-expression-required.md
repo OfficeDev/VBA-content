@@ -17,11 +17,11 @@ A [constant](vbe-glossary.md) must be initialized. This error has the following 
 
 - You tried to initialize a constant with a [variable](vbe-glossary.md), and instance of a [user-defined type](vbe-glossary.md), an object, or the return value of a function call.
     
-    Initialize constants with literals, previously declared constants, or literals and constants joined by operators (except the  **Is** logical operator).
+    Initialize constants with literals, previously declared constants, or literals and constants joined by operators (except the **Is** logical operator).
     
 - [array](vbe-glossary.md)
     
-    To declare a dynamic array within a [procedure](vbe-glossary.md), declare the array with  **ReDim** and specify the number of elements with a variable.
+    To declare a dynamic array within a [procedure](vbe-glossary.md), declare the array with **ReDim** and specify the number of elements with a variable.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.BarShape Property (Excel)
 
-Returns or sets the shape used with the 3-D bar or column chart. Read/write  **[XlBarShape](xlbarshape-enumeration-excel.md)** .
+Returns or sets the shape used with the 3-D bar or column chart. Read/write **[XlBarShape](xlbarshape-enumeration-excel.md)** .
 
 
 ## Syntax

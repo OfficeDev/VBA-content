@@ -29,18 +29,18 @@ The BeforeInsert event occurs when the user types the first character in a new r
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **BeforeInsert** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **BeforeInsert** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the **BeforeInsert** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **BeforeInsert** event.|
 
 ## Remarks
 
 
  **Note**  Setting the value of a control by using a macro or Visual Basic doesn't trigger these events.
 
-To run a macro or event procedure when these events occur, set the  **BeforeInsert** or **AfterInsert** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **BeforeInsert** or **AfterInsert** property to the name of the macro or to [Event Procedure].
 
 You can use an AfterInsert event procedure or macro to requery a recordset whenever a new record is added.
 
-The BeforeInsert and AfterInsert events are similar to the  **BeforeUpdate** and **AfterUpdate** events. These events occur in the following order:
+The BeforeInsert and AfterInsert events are similar to the **BeforeUpdate** and **AfterUpdate** events. These events occur in the following order:
 
  **BeforeInsert** → **BeforeUpdate** → **AfterUpdate** → **AfterInsert**.
 
@@ -54,12 +54,12 @@ The following table summarizes the interaction between these events.
 |BeforeUpdate|User updates the record.|
 |AfterUpdate|Record is updated.|
 |AfterInsert|Record updated is a new record.|
-If the first character in a new record is typed into a text box or combo box, the  **BeforeInsert** event occurs before the **Change** event.
+If the first character in a new record is typed into a text box or combo box, the **BeforeInsert** event occurs before the **Change** event.
 
 
 ## Example
 
-This example shows how you can use a  **BeforeInsert** event procedure to verify that the user wants to create a new record, and an **AfterInsert** event procedure to requery the record source for the Employees form after a record has been added.
+This example shows how you can use a **BeforeInsert** event procedure to verify that the user wants to create a new record, and an **AfterInsert** event procedure to requery the record source for the Employees form after a record has been added.
 
 To try the example, add the following event procedure to a form named Employees that is based on a table or query. Switch to form Datasheet view and try to insert a record.
 

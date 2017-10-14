@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.NewRecord Property (Access)
 
-You can use the  **NewRecord** property to determine whether the current record is a new record. Read-only **Integer**.
+You can use the **NewRecord** property to determine whether the current record is a new record. Read-only **Integer**.
 
 
 ## Syntax
@@ -26,14 +26,14 @@ You can use the  **NewRecord** property to determine whether the current record 
 ## Remarks
 
 
- **Note**  The  **NewRecord** property is read-only in Form view and Datasheet view. It isn't available in Design view.
+ **Note**  The **NewRecord** property is read-only in Form view and Datasheet view. It isn't available in Design view.
 
-When a user has moved to a new record, the  **NewRecord** property setting will be **True** whether the user has started to edit the record or not.
+When a user has moved to a new record, the **NewRecord** property setting will be **True** whether the user has started to edit the record or not.
 
 
 ## Example
 
-The following example shows how to use the  **NewRecord** property to determine if the current record is a new record. The NewRecordMark procedure sets the current record to the variable `intnewrec`. If the record is new, a message is displayed notifying the user of this. You could run this procedure when the Current event for a form occurs.
+The following example shows how to use the **NewRecord** property to determine if the current record is a new record. The NewRecordMark procedure sets the current record to the variable `intnewrec`. If the record is new, a message is displayed notifying the user of this. You could run this procedure when the Current event for a form occurs.
 
 
 ```vb

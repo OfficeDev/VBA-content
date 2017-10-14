@@ -18,7 +18,7 @@ Represents a collection of properties describing the metadata stored in a docume
 
 ## Example
 
-In the following example, a  **MetaProperties** object is passed to a validation function. The function then validates the value of a single property represented by its index and returns the result.
+In the following example, a **MetaProperties** object is passed to a validation function. The function then validates the value of a single property represented by its index and returns the result.
 
 
 ```

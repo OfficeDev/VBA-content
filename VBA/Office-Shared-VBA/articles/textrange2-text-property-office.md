@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Text Property (Office)
 
-Gets or sets a  **String** value that represents the text in a text range. Read/write.
+Gets or sets a **String** value that represents the text in a text range. Read/write.
 
 
 ## Syntax

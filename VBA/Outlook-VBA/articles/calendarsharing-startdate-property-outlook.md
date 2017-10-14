@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.StartDate Property (Outlook)
 
-Returns or sets a  **Date** that represents the inclusive start date of the range of calendar items to be shared by the **[CalendarSharing](calendarsharing-object-outlook.md)** object. Read/write.
+Returns or sets a **Date** that represents the inclusive start date of the range of calendar items to be shared by the **[CalendarSharing](calendarsharing-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Date
 
 ## Remarks
 
-This property is ignored if the  **[IncludeWholeCalendar](calendarsharing-includewholecalendar-property-outlook.md)** property of the **CalendarSharing** object is set to **True** .
+This property is ignored if the **[IncludeWholeCalendar](calendarsharing-includewholecalendar-property-outlook.md)** property of the **CalendarSharing** object is set to **True** .
 
 
 ## See also

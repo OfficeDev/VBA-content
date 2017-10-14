@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.DisplayTooltips Property (Office)
 
-Is  **True** if ScreenTips are displayed whenever the user positions the pointer over command bar controls. Read/write.
+Is **True** if ScreenTips are displayed whenever the user positions the pointer over command bar controls. Read/write.
 
 
 ## 
@@ -31,7 +31,7 @@ Is  **True** if ScreenTips are displayed whenever the user positions the pointer
 
 ## Remarks
 
-Setting the  **DisplayTooltips** property in a container application immediately affects every command bar in every running Microsoft Office application, and in every Office application opened after the property is set.
+Setting the **DisplayTooltips** property in a container application immediately affects every command bar in every running Microsoft Office application, and in every Office application opened after the property is set.
 
 
 ## Example

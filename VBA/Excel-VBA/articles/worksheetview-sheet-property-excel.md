@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorksheetView.Sheet Property (Excel)
 
-Returns the sheet name for the specified  **[WorksheetView](worksheetview-object-excel.md)** object. Read-only.
+Returns the sheet name for the specified **[WorksheetView](worksheetview-object-excel.md)** object. Read-only.
 
 
 ## Syntax

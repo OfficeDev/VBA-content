@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomControl.RightPadding Property (Access)
 
-Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the text box and its right gridline. Read/write **Integer**.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[CreatePickerResults](pickerdialog-createpickerresults-method-office.md)|Creates an empty  **PickerResults** object.|
+|[CreatePickerResults](pickerdialog-createpickerresults-method-office.md)|Creates an empty **PickerResults** object.|
 |[Resolve](pickerdialog-resolve-method-office.md)|Resolves the token using the Picker Dialog and retrieves the results.|
 |[Show](pickerdialog-show-method-office.md)|Displays the Picker Dialog with already specified data handler and given options.|
 

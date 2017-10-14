@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.DayWeekTimeScale Property (Outlook)
 
-Returns or sets an  **[OlDayWeekTimeScale](oldayweektimescale-enumeration-outlook.md)** constant that represents the scale used to represent time periods in a **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlDayWeekTimeScale](oldayweektimescale-enumeration-outlook.md)** constant that represents the scale used to represent time periods in a **[CalendarView](calendarview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlDayWeekTimeScale](oldayweektimescale-enumeration-outloo
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a new  **CalendarView** object in the **Calendar** default folder, and then configures it to display 14 consecutive days in multi-day mode, with Outlook items displayed within an hourly time scale.
+The following Visual Basic for Applications (VBA) example creates a new **CalendarView** object in the **Calendar** default folder, and then configures it to display 14 consecutive days in multi-day mode, with Outlook items displayed within an hourly time scale.
 
 
 ```vb

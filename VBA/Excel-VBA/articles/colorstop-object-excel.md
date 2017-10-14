@@ -18,12 +18,12 @@ Represents the color stop point for a gradient fill in a range or selection.
 
 ## Remarks
 
-The  **ColorStop** object enables you to set properties for the cell fill including the **[Color](border-color-property-excel.md)** , **[ThemeColor](border-themecolor-property-excel.md)** , and **[TintAndShade](border-tintandshade-property-excel.md)** properties.
+The **ColorStop** object enables you to set properties for the cell fill including the **[Color](border-color-property-excel.md)** , **[ThemeColor](border-themecolor-property-excel.md)** , and **[TintAndShade](border-tintandshade-property-excel.md)** properties.
 
 
 ## Example
 
-The following example shows how to apply properties to a  **ColorStop** object.
+The following example shows how to apply properties to a **ColorStop** object.
 
 .
 

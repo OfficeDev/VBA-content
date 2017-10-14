@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationPane.ModuleSwitch Event (Outlook)
 
-Occurs after the selection changes for a navigation module in the  **[NavigationModules](navigationmodules-object-outlook.md)** collection of the **[NavigationPane](navigationpane-object-outlook.md)** object.
+Occurs after the selection changes for a navigation module in the **[NavigationModules](navigationmodules-object-outlook.md)** collection of the **[NavigationPane](navigationpane-object-outlook.md)** object.
 
 
 ## Syntax

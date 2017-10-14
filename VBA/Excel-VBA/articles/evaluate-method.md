@@ -33,7 +33,7 @@ You can use the following types of names in Microsoft Graph with this method:
 - Defined names. You can specify any name in the language of the macro.
     
 
- **Note**  Using square brackets (for example, "[A1:C5]") is identical to calling the  **Evaluate** method with a string argument. For example, the following expressions are equivalent:
+ **Note**  Using square brackets (for example, "[A1:C5]") is identical to calling the **Evaluate** method with a string argument. For example, the following expressions are equivalent:
 
 
 ```
@@ -41,7 +41,7 @@ myChart.Application.[a1].Value = 25
 myChart.Application.Evaluate("A1").Value = 25
 ```
 
-The advantage of using square brackets is that the code is shorter. The advantage of using  **Evaluate** is that the argument is a string, so you can either construct the string in your code or use a Visual Basic variable.
+The advantage of using square brackets is that the code is shorter. The advantage of using **Evaluate** is that the argument is a string, so you can either construct the string in your code or use a Visual Basic variable.
 
 
 ## Example

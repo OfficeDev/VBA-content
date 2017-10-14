@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureProvider.ShowSigningCeremony Method (Office)
 
-Provides a signature provider add-in the opportunity to display the  **Signature** dialog box to users, allowing them to specify their identity and then be authenticated.
+Provides a signature provider add-in the opportunity to display the **Signature** dialog box to users, allowing them to specify their identity and then be authenticated.
 
 
 ## Syntax
@@ -29,18 +29,18 @@ Provides a signature provider add-in the opportunity to display the  **Signature
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the  **Signature** dialog box.|
+| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the **Signature** dialog box.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies initial settings of the signature provider.|
 | _psiginfo_|Required|**SignatureInfo**|Specifies information about the signature provider.|
 
 ## Remarks
 
-This method is internally called by the Microsoft Office application when the user is attempting to sign a signature line, or if the add-in has called the  **Sign** method in the Office application's object model on a **SignatureLine** object.
+This method is internally called by the Microsoft Office application when the user is attempting to sign a signature line, or if the add-in has called the **Sign** method in the Office application's object model on a **SignatureLine** object.
 
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **ShowSigningCeremony** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **ShowSigningCeremony** method in a custom signature provider project.
 
 
 ```

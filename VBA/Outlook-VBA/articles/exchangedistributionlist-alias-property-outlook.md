@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Alias Property (Outlook)
 
-Returns a  **String** representing the alias for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read-only.
+Returns a **String** representing the alias for the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** representing the alias for the **[ExchangeDistributionList
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagAccount** .
+This property corresponds to the MAPI property **PidTagAccount** .
 
-Returns an empty string if this property has not been implemented or does not exist for the  **ExchangeDistributionList** object.
+Returns an empty string if this property has not been implemented or does not exist for the **ExchangeDistributionList** object.
 
 
 ## See also

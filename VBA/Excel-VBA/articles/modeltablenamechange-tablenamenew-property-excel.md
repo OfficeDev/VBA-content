@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNameChange.TableNameNew Property (Excel)
 
-Returns the new name of the table.  **String** Read-only
+Returns the new name of the table. **String** Read-only
 
 
 ## Syntax

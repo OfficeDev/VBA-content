@@ -30,7 +30,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-The following example displays the setting of the  **ShowAutoFilter** property the default list in Sheet 1 of the active workbook.
+The following example displays the setting of the **ShowAutoFilter** property the default list in Sheet 1 of the active workbook.
 
 
 ```vb

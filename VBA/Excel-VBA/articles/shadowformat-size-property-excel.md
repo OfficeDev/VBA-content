@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Size Property (Excel)
 
-Returns or sets the size of the specified shadow. Read/write  **Single** .
+Returns or sets the size of the specified shadow. Read/write **Single** .
 
 
 ## Syntax

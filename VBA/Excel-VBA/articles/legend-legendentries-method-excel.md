@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Legend.LegendEntries Method (Excel)
 
-Returns an object that represents either a single legend entry (a  **[LegendEntry](legendentry-object-excel.md)** object) or a collection of legend entries (a **[LegendEntries](legendentries-object-excel.md)** object) for the legend.
+Returns an object that represents either a single legend entry (a **[LegendEntry](legendentry-object-excel.md)** object) or a collection of legend entries (a **[LegendEntries](legendentries-object-excel.md)** object) for the legend.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.SenderEmailAddress Property (Outlook)
 
-Returns a  **String** that represents the e-mail address of the sender of the Outlook item. Read-only.
+Returns a **String** that represents the e-mail address of the sender of the Outlook item. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the e-mail address of the sender of the Ou
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderEmailAddress** .
+This property corresponds to the MAPI property **PidTagSenderEmailAddress** .
 
 
 ## See also

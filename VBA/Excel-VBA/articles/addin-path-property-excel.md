@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Path Property (Excel)
 
-Returns a  **String** value that represents the complete path to the **Add-in** , excluding the final separator and name of the **Add-in** .
+Returns a **String** value that represents the complete path to the **Add-in** , excluding the final separator and name of the **Add-in** .
 
 
 ## Syntax

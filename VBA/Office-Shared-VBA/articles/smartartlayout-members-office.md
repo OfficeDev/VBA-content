@@ -18,9 +18,9 @@ Represents a Smart Art diagram.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](smartartlayout-application-property-office.md)|Gets an  **Application** object that represents the container application for the **SmartArtLayout** object. Read-only|
+|[Application](smartartlayout-application-property-office.md)|Gets an **Application** object that represents the container application for the **SmartArtLayout** object. Read-only|
 |[Category](smartartlayout-category-property-office.md)|Retrieves the primary category name associated with the SmartArt layout. Read-only|
-|[Creator](smartartlayout-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **SmartArtLayout** object was created. Read-only|
+|[Creator](smartartlayout-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **SmartArtLayout** object was created. Read-only|
 |[Description](smartartlayout-description-property-office.md)|Retrieves the description of the SmartArt layout. Read-only|
 |[Id](smartartlayout-id-property-office.md)|Retrieves the unique Id of the associated SmartArt layout. Read-only|
 |[Name](smartartlayout-name-property-office.md)|Retrieves the string name of the SmartArt layout. Read-only|

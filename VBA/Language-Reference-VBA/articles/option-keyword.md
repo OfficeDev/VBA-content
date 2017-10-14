@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Option <keyword>
 
-The  **Option** keyword is used in these contexts:
+The **Option** keyword is used in these contexts:
 
 [Option Base Statement](option-base-statement.md)
 

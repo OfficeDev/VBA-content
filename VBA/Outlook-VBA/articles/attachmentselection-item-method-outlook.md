@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AttachmentSelection.Item Method (Outlook)
 
-Returns an  **[Attachment](attachment-object-outlook.md)** object from the collection.
+Returns an **[Attachment](attachment-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an  **[Attachment](attachment-object-outlook.md)** object from the colle
 
 ### Return Value
 
-An  **Attachment** object that represents the specified object.
+An **Attachment** object that represents the specified object.
 
 
 ## See also

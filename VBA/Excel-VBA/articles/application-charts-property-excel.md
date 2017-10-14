@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Charts Property (Excel)
 
-Returns a  **[Sheets](sheets-object-excel.md)** collection that represents all the chart sheets in the active workbook.
+Returns a **[Sheets](sheets-object-excel.md)** collection that represents all the chart sheets in the active workbook.
 
 
 ## Syntax

@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Add a Control to a MultiPage Control
 
-The following example uses the  **Add**,  **Clear**, and  **Remove** methods of the Microsoft Forms 2.0 **Controls** collection to add a control to and remove a control from a **[Page](page-object-outlook-forms-script.md)** of a **[MultiPage](multipage-object-outlook-forms-script.md)** at run time.
+The following example uses the **Add**, **Clear**, and **Remove** methods of the Microsoft Forms 2.0 **Controls** collection to add a control to and remove a control from a **[Page](page-object-outlook-forms-script.md)** of a **[MultiPage](multipage-object-outlook-forms-script.md)** at run time.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- Three  **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 through CommandButton3.
+- Three **[CommandButton](commandbutton-object-outlook-forms-script.md)** controls named CommandButton1 through CommandButton3.
     
 
 

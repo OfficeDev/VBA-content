@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroups.Add Method (Excel)
 
-Creates a new sparkline group and returns a  **[SparklineGroup](sparklinegroup-object-excel.md)** object.
+Creates a new sparkline group and returns a **[SparklineGroup](sparklinegroup-object-excel.md)** object.
 
 
 ## Syntax

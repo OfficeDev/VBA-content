@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Axes Object (Excel)
 
-A collection of all the  **[Axis](axis-object-excel.md)** objects in the specified chart.
+A collection of all the **[Axis](axis-object-excel.md)** objects in the specified chart.
 
 
 ## Remarks
 
-Use the  **Axes** method to return the **Axes** collection.
+Use the **Axes** method to return the **Axes** collection.
 
-Use  **Axes** ( _type_, _group_ ), where _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](xlaxistype-enumeration-excel.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _Group_ can be one of the following **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](chart-axes-method-excel.md)** method.
+Use **Axes** ( _type_, _group_ ), where _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](xlaxistype-enumeration-excel.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _Group_ can be one of the following **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](chart-axes-method-excel.md)** method.
 
 
 ## Example

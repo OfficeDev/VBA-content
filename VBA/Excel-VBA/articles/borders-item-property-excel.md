@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.Item Property (Excel)
 
-Returns a  **[Border](border-object-excel.md)** object that represents one of the borders of either a range of cells or a style.
+Returns a **[Border](border-object-excel.md)** object that represents one of the borders of either a range of cells or a style.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **[Border](border-object-excel.md)** object that represents one of th
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **XlBordersIndex**|One of the constants of  **XlBordersIndex** .|
+| _Index_|Required| **XlBordersIndex**|One of the constants of **XlBordersIndex** .|
 
 ## Remarks
 

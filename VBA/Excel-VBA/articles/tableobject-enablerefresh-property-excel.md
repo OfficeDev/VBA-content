@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.EnableRefresh Property (Excel)
 
-Specifies if the query table can be refreshed by the user.  **Boolean** Read/Write
+Specifies if the query table can be refreshed by the user. **Boolean** Read/Write
 
 
 ## Syntax

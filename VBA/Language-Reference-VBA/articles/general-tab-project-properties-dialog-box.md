@@ -22,7 +22,7 @@ Specifies the settings for the current Visual Basic project. The name of the pro
 
  **Project Name**
 
-Identifies your component in the Windows Registry and the  **Object** **Browser**. It is important that it has a unique name.
+Identifies your component in the Windows Registry and the **Object** **Browser**. It is important that it has a unique name.
 
 The project name is the name of the  _type library_ for your component. The type library, or TypeLib, contains the description of the objects and interfaces provided by your component.
 
@@ -34,7 +34,7 @@ Displays the name of the Help file associated with the project.
 
  **Project Description**
 
-Sets the descriptive text that is displayed in the  **Description** pane at the bottom of the **Object** **Browser**.
+Sets the descriptive text that is displayed in the **Description** pane at the bottom of the **Object** **Browser**.
 
  **Project Help Context ID**
 

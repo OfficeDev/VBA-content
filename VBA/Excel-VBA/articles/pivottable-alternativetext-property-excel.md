@@ -30,7 +30,7 @@ Returns or sets the descriptive (alternative) text string for the specified Pivo
 
 ## Remarks
 
-The value of the  **AlternativeText** property corresponds to the value in the **Title** box on the **Alt Text** tab of the **PivotTable Options** dialog box.
+The value of the **AlternativeText** property corresponds to the value in the **Title** box on the **Alt Text** tab of the **PivotTable Options** dialog box.
 
 
 ## See also

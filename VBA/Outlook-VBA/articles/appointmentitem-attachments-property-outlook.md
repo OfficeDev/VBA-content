@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.Attachments Property (Outlook)
 
-Returns an  **[Attachments](attachments-object-outlook.md)** object that represents all the attachments for the specified item. Read-only.
+Returns an **[Attachments](attachments-object-outlook.md)** object that represents all the attachments for the specified item. Read-only.
 
 
 ## Syntax

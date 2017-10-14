@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.SourceDataFile Property (Excel)
 
-Returns or sets a  **String** indicating the source data file for an ODBC connection. Read/write.
+Returns or sets a **String** indicating the source data file for an ODBC connection. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the source data file for an ODBC connec
 
 ## Remarks
 
-For file-based data sources (for example, Access) the  **SourceDataFile** property contains a fully qualified path to the source data file. It is null for server-based data sources (for example, SQL Server). The **SourceDataFile** property is set to null if the **[Connection](odbcconnection-connection-property-excel.md)** property is changed programmatically.
+For file-based data sources (for example, Access) the **SourceDataFile** property contains a fully qualified path to the source data file. It is null for server-based data sources (for example, SQL Server). The **SourceDataFile** property is set to null if the **[Connection](odbcconnection-connection-property-excel.md)** property is changed programmatically.
 
 
 ## See also

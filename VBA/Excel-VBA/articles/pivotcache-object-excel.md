@@ -23,14 +23,14 @@ Represents the memory cache for a PivotTable report.
 
 ## Example
 
-Use the  **[PivotCache](pivottable-pivotcache-method-excel.md)** method to return a **PivotCache** object for a PivotTable report (each report has only one cache). The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
+Use the **[PivotCache](pivottable-pivotcache-method-excel.md)** method to return a **PivotCache** object for a PivotTable report (each report has only one cache). The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
 
 
 ```
 Worksheets(1).PivotTables(1).PivotCache.RefreshOnFileOpen = True
 ```
 
-Use  **[PivotCaches](workbook-pivotcaches-method-excel.md)** ( _index_ ), where _index_ is the PivotTable cache number, to return a single **PivotCache** object from the **PivotCaches** collection for a workbook. The following example refreshes cache one.
+Use **[PivotCaches](workbook-pivotcaches-method-excel.md)** ( _index_ ), where _index_ is the PivotTable cache number, to return a single **PivotCache** object from the **PivotCaches** collection for a workbook. The following example refreshes cache one.
 
 
 

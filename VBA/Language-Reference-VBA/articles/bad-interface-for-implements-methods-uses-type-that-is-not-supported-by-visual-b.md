@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Bad interface for Implements: methods uses type that is not supported by Visual Basic
 
-The  **Implements** statement is used to specify an interface or class that will be implemented in the class module in which it appears. This error has the following cause and solution:
+The **Implements** statement is used to specify an interface or class that will be implemented in the class module in which it appears. This error has the following cause and solution:
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.ChangeCase Method (Office)
 
-Changes the case of a  **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.
+Changes the case of a **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Changes the case of a  **TextRange2** object to one of the values in the **MsoTe
 
 ## Remarks
 
-Examples of  **MsoTextChangeCase** enumeration include **msoCaseLower**, **msoCaseUpper**, and **msoCaseTitle**.
+Examples of **MsoTextChangeCase** enumeration include **msoCaseLower**, **msoCaseUpper**, and **msoCaseTitle**.
 
 
 ## See also

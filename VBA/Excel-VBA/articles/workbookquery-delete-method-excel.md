@@ -11,7 +11,7 @@ ms.prod: excel
 
 # WorkbookQuery.Delete Method (Excel)
 
-Deletes this query and its underlying connection and removes it from the  **Queries** collection.
+Deletes this query and its underlying connection and removes it from the **Queries** collection.
 
 
 ## Syntax

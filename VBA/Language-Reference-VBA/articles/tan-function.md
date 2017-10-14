@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Double** specifying the tangent of an angle.
+Returns a **Double** specifying the tangent of an angle.
  **Syntax**
  **Tan(**_number_**)**
 The required  _number_[argument](vbe-glossary.md) is a[Double](vbe-glossary.md) or any valid[numeric expression](vbe-glossary.md) that expresses an angle in radians.
@@ -23,7 +23,7 @@ To convert degrees to radians, multiply degrees by [pi](vbe-glossary.md)/180. To
 
 ## Example
 
-This example uses the  **Tan** function to return the tangent of an angle.
+This example uses the **Tan** function to return the tangent of an angle.
 
 
 ```vb

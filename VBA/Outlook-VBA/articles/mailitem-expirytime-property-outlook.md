@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.ExpiryTime Property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
+Returns or sets a **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** indicating the date and time at which the item becom
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[MailItem.Send](mailitem-send-event-outlook.md)** event and sends an item with an automatic expiration date.
+This Visual Basic for Applications (VBA) example uses the **[MailItem.Send](mailitem-send-event-outlook.md)** event and sends an item with an automatic expiration date.
 
 
 ```vb

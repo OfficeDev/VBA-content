@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.EnableAutoRecover Property (Excel)
 
-Saves changed files, of all formats, on a timed interval. Read/write  **Boolean** .
+Saves changed files, of all formats, on a timed interval. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Saves changed files, of all formats, on a timed interval. Read/write  **Boolean*
 
 ## Remarks
 
-If Microsoft Excel fails, the system fails, or if the system is improperly shut down (not allowing Excel to save the changed files), the backed up files are opened and the user has an opportunity to save changes that otherwise would have been lost. When the user restarts Excel, a document recovery window opens, giving the user an option to recover the files they were working on. Setting this property to  **True** (default) enables this feature.
+If Microsoft Excel fails, the system fails, or if the system is improperly shut down (not allowing Excel to save the changed files), the backed up files are opened and the user has an opportunity to save changes that otherwise would have been lost. When the user restarts Excel, a document recovery window opens, giving the user an option to recover the files they were working on. Setting this property to **True** (default) enables this feature.
 
 
 ## Example

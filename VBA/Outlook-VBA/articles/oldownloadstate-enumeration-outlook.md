@@ -24,6 +24,6 @@ Indicates the download state.
 
 ## Remarks
 
-Used by the  **DownLoadState** property of an item to indicate the download state.
+Used by the **DownLoadState** property of an item to indicate the download state.
 
 

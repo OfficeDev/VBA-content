@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ContactCard.Creator Property (Office)
 
-Returns a  **Long** that indicates the application in which the **ContactCard** object was created. Read-only.
+Returns a **Long** that indicates the application in which the **ContactCard** object was created. Read-only.
 
 
 ## Syntax

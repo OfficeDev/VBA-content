@@ -15,6 +15,6 @@ ms.date: 06/08/2017
 
 Represents a [code pane](vbe-glossary.md).
  **Remarks**
-Use the  **CodePane** object to manipulate the position of visible text or the text selection displayed in the code pane.
-You can use the  **Show** method to make the code pane you specify visible. Use the **SetSelection** method to set the selection in a code pane and the **GetSelection** method to return the location of the selection in a code pane.
+Use the **CodePane** object to manipulate the position of visible text or the text selection displayed in the code pane.
+You can use the **Show** method to make the code pane you specify visible. Use the **SetSelection** method to set the selection in a code pane and the **GetSelection** method to return the location of the selection in a code pane.
 

@@ -17,7 +17,7 @@ To specify textual criteria for an operation, you supply a text string as part o
  **Note**  The single quotation marks indicate to Access that the  _criteria_ argument contains a string within a string.
 
 
-Suppose that you are using the ADO  **Find** method to find the first occurrence of a last name in an Employees table. You could construct the _criteria_ argument as in the following example, which moves the current record pointer to the first record in which an employee's last name is Buchanan. Note that the string literal is enclosed in single quotation marks and the entire string comprising the criteria argument must also be enclosed in double quotation marks (").
+Suppose that you are using the ADO **Find** method to find the first occurrence of a last name in an Employees table. You could construct the _criteria_ argument as in the following example, which moves the current record pointer to the first record in which an employee's last name is Buchanan. Note that the string literal is enclosed in single quotation marks and the entire string comprising the criteria argument must also be enclosed in double quotation marks (").
 
 
 

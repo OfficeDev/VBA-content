@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Automatically Size a Text Box with User Input
 
-The following example demonstrates the effects of the  **[AutoSize](textbox-autosize-property-outlook-forms-script.md)** property with a single-line **[TextBox](textbox-object-outlook-forms-script.md)** and a multiline **TextBox**. The user can enter text into either of the  **TextBox** controls and turn **AutoSize** on or off independently of the contents of the **TextBox**. This code sample also uses the  **[Text](textbox-text-property-outlook-forms-script.md)** property.
+The following example demonstrates the effects of the **[AutoSize](textbox-autosize-property-outlook-forms-script.md)** property with a single-line **[TextBox](textbox-object-outlook-forms-script.md)** and a multiline **TextBox**. The user can enter text into either of the **TextBox** controls and turn **AutoSize** on or off independently of the contents of the **TextBox**. This code sample also uses the **[Text](textbox-text-property-outlook-forms-script.md)** property.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
-- A  **[ToggleButton](togglebutton-object-outlook-forms-script.md)** named ToggleButton1.
+- A **[ToggleButton](togglebutton-object-outlook-forms-script.md)** named ToggleButton1.
     
 
 

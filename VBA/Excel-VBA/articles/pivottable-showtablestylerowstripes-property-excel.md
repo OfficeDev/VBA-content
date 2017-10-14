@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ShowTableStyleRowStripes Property (Excel)
 
-The  **ShowTableStyleRowStripes** property displays banded rows in which even rows are formatted differently from odd rows. This makes PivotTables easier to read. Read/write **Boolean** .
+The **ShowTableStyleRowStripes** property displays banded rows in which even rows are formatted differently from odd rows. This makes PivotTables easier to read. Read/write **Boolean** .
 
 
 ## Syntax

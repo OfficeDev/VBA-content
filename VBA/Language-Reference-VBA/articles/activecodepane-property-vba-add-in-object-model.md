@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 
 
-Returns the active or last active  **CodePane** object or sets the active **CodePane** object. Read/write.
+Returns the active or last active **CodePane** object or sets the active **CodePane** object. Read/write.
  **Remarks**
-You can set the  **ActiveCodePane** property to any valid **CodePane** object, as shown in the following example:
+You can set the **ActiveCodePane** property to any valid **CodePane** object, as shown in the following example:
 
 
 

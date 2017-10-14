@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileExportConverters.Item Property (Excel)
 
-Returns an individual  **[FileExportConverter](fileexportconverter-object-excel.md)** object from a collection.
+Returns an individual **[FileExportConverter](fileexportconverter-object-excel.md)** object from a collection.
 
 
 ## Syntax

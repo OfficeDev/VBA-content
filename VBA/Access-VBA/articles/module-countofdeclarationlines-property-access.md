@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.CountOfDeclarationLines Property (Access)
 
-The  **CountOfDeclarationLines** property returns a **Long** value indicating the number of lines of code in the Declarations section in a standard module or class module. Read-only **Long**.
+The **CountOfDeclarationLines** property returns a **Long** value indicating the number of lines of code in the Declarations section in a standard module or class module. Read-only **Long**.
 
 
 ## Syntax
@@ -27,12 +27,12 @@ The  **CountOfDeclarationLines** property returns a **Long** value indicating th
 
 Lines in a module are numbered beginning with 1.
 
-The value of the  **CountOfDeclarationLines** property is equal to the line number of the last line of the Declarations section. You can use this property to determine where the Declarations section ends and the body of the module begins.
+The value of the **CountOfDeclarationLines** property is equal to the line number of the last line of the Declarations section. You can use this property to determine where the Declarations section ends and the body of the module begins.
 
 
 ## Example
 
-The following example counts the number of lines and declaration lines in each standard module in the  **Modules** collection. Note that the **Modules** collection contains only modules that are open in the module editor.
+The following example counts the number of lines and declaration lines in each standard module in the **Modules** collection. Note that the **Modules** collection contains only modules that are open in the module editor.
 
 
 ```vb

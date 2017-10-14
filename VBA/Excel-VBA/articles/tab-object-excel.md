@@ -18,9 +18,9 @@ Represents a tab in a chart or a worksheet.
 
 ## Remarks
 
-Use the  **[Tab](chart-tab-property-excel.md)** property of the **[Chart](chart-object-excel.md)** object or **[Worksheet](worksheet-object-excel.md)** object to return a **Tab** object.
+Use the **[Tab](chart-tab-property-excel.md)** property of the **[Chart](chart-object-excel.md)** object or **[Worksheet](worksheet-object-excel.md)** object to return a **Tab** object.
 
-Once a  **Tab** object is returned, you can use the **[ColorIndex](tab-colorindex-property-excel.md)** property determine the settings of a tab for a chart or worksheet.
+Once a **Tab** object is returned, you can use the **[ColorIndex](tab-colorindex-property-excel.md)** property determine the settings of a tab for a chart or worksheet.
 
 
 ## Example

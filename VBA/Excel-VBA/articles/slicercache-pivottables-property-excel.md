@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.PivotTables Property (Excel)
 
-Returns a  **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection that contains information about the PivotTables the slicer cache is currently filtering. Read-only
+Returns a **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection that contains information about the PivotTables the slicer cache is currently filtering. Read-only
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a  **[SlicerPivotTables](slicerpivottables-object-excel.md)** collection
 
 ## Remarks
 
-The  **SlicerPivotTables** collection returned by the **PivotTables** property will be empty if the slicer associated with the specified **SlicerCache** is not connected to any PivotTables.
+The **SlicerPivotTables** collection returned by the **PivotTables** property will be empty if the slicer associated with the specified **SlicerCache** is not connected to any PivotTables.
 
 
 ## See also

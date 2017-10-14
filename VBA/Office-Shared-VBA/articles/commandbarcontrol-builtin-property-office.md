@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.BuiltIn Property (Office)
 
-Gets  **True** if the specified command bar control is a built-in control of the container application. Returns **False** if it's a custom control, or if it's a built-in control whose **OnAction** property has been set. Read-only.
+Gets **True** if the specified command bar control is a built-in control of the container application. Returns **False** if it's a custom control, or if it's a built-in control whose **OnAction** property has been set. Read-only.
 
 
 ## 

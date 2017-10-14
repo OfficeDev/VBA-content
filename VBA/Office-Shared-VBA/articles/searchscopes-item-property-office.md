@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SearchScopes.Item Property (Office)
 
-Gets a  **SearchScope** object that corresponds to an area in which to perform a file search, such as local drives or Microsoft Outlook folders. Read-only.
+Gets a **SearchScope** object that corresponds to an area in which to perform a file search, such as local drives or Microsoft Outlook folders. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets a  **SearchScope** object that corresponds to an area in which to perform a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|Determines which  **SearchScope** object to return.|
+| _Index_|Required|**Long**|Determines which **SearchScope** object to return.|
 
 ## See also
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.ArabicModes Property (Excel)
 
-Returns or sets the mode for the Arabic spelling checker. Read/write  **[XlArabicModes](xlarabicmodes-enumeration-excel.md)** .
+Returns or sets the mode for the Arabic spelling checker. Read/write **[XlArabicModes](xlarabicmodes-enumeration-excel.md)** .
 
 
 ## Syntax

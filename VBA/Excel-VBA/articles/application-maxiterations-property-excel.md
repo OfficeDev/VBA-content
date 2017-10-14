@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MaxIterations Property (Excel)
 
-Returns or sets the maximum number of iterations that Microsoft Excel can use to resolve a circular reference. Read/write  **Long** .
+Returns or sets the maximum number of iterations that Microsoft Excel can use to resolve a circular reference. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the maximum number of iterations that Microsoft Excel can use to
 
 ## Remarks
 
-The  **[MaxChange](application-maxchange-property-excel.md)** property sets the maximum amount of change between each iteration when Microsoft Excel is resolving circular references.
+The **[MaxChange](application-maxchange-property-excel.md)** property sets the maximum amount of change between each iteration when Microsoft Excel is resolving circular references.
 
 
 ## Example

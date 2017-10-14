@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Argument required for Property Let or Property Set
 
-The purpose of  **Property Let** and **Property Set** procedures is to give a new value to a[property](vbe-glossary.md). This error has the following causes and solutions:
+The purpose of **Property Let** and **Property Set** procedures is to give a new value to a[property](vbe-glossary.md). This error has the following causes and solutions:
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.CustomProperties Property (Excel)
 
-Returns a  **[CustomProperties](customproperties-object-excel.md)** object representing the identifier information associated with a worksheet.
+Returns a **[CustomProperties](customproperties-object-excel.md)** object representing the identifier information associated with a worksheet.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[CustomProperties](customproperties-object-excel.md)** object repre
 
 ## Remarks
 
-For the  **CustomProperties** property, identifier information for a worksheet can represent metadata for XML.
+For the **CustomProperties** property, identifier information for a worksheet can represent metadata for XML.
 
 
 ## Example

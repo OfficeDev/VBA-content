@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebBrowserControl.ScrollTop Property (Access)
 
-Gets or sets the distance, in pixels, between the top edge of the  **WebBrowser** object and the topmost portion of the content currently visible in the control. Read/write **Long**.
+Gets or sets the distance, in pixels, between the top edge of the **WebBrowser** object and the topmost portion of the content currently visible in the control. Read/write **Long**.
 
 
 ## Syntax

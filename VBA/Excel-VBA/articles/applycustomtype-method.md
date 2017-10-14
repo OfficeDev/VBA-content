@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ApplyCustomType Method
 
-ApplyCustomType method as it applies to the  **Series** object.
+ApplyCustomType method as it applies to the **Series** object.
 
 Applies a standard or custom chart type to a series.
 
@@ -99,9 +99,9 @@ Applies a standard or custom chart type to a series.
 | **xlSurfaceWireframe**|
 | **xlXYScatterLines**|
 | **xlXYScatterSmooth**|
-ApplyCustomType method as it applies to the  **Chart** object.
+ApplyCustomType method as it applies to the **Chart** object.
 Applies a standard or custom chart type to a chart.
- _expression_. **ApplyCustomType**( **_ChartType_**,  **_TypeName_**)
+ _expression_. **ApplyCustomType**( **_ChartType_**, **_TypeName_**)
  _expression_ Required. An expression that returns one of the above objects.
  **ChartType**Required 
  **XlChartType**
@@ -182,7 +182,7 @@ Applies a standard or custom chart type to a chart.
 | **xlSurfaceWireframe**|
 | **xlXYScatterLines**|
 | **xlXYScatterSmooth**|
- **TypeName**Optional  **Variant**. A  **String** naming the custom chart type when **_ChartType_** specifies a custom chart gallery.
+ **TypeName**Optional **Variant**. A **String** naming the custom chart type when **_ChartType_** specifies a custom chart gallery.
 
 ## Example
 

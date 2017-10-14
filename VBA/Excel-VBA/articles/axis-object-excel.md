@@ -18,9 +18,9 @@ Represents a single axis in a chart.
 
 ## Remarks
 
-The  **Axis** object is a member of the **[Axes](axes-object-excel.md)** collection.
+The **Axis** object is a member of the **[Axes](axes-object-excel.md)** collection.
 
-Use  **Axes** ( _type_, _group_ ) where _type_ is the axis type and _group_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](xlaxistype-enumeration-excel.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _Group_ can be one of the following **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](chart-axes-method-excel.md)** method.
+Use **Axes** ( _type_, _group_ ) where _type_ is the axis type and _group_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](xlaxistype-enumeration-excel.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _Group_ can be one of the following **[XlAxisGroup](xlaxisgroup-enumeration-excel.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](chart-axes-method-excel.md)** method.
 
 
 ## Example

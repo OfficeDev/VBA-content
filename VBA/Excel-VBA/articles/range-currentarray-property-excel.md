@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CurrentArray Property (Excel)
 
-If the specified cell is part of an array, returns a  **[Range](range-object-excel.md)** object that represents the entire array. Read-only.
+If the specified cell is part of an array, returns a **[Range](range-object-excel.md)** object that represents the entire array. Read-only.
 
 
 ## Syntax

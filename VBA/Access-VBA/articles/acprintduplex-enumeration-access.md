@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintDuplex Enumeration (Access)
 
-Used with the  **Duplex** property to specify how the printer handles duplex printing.
+Used with the **Duplex** property to specify how the printer handles duplex printing.
 
 
 

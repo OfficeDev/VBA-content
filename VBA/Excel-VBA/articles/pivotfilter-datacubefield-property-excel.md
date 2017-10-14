@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.DataCubeField Property (Excel)
 
-This property is applicable only to OLAP PivotTables and provides the  **Value** field (PivotField in the Values area) being filtered by for a value filter. Read/write **CubeField** .
+This property is applicable only to OLAP PivotTables and provides the **Value** field (PivotField in the Values area) being filtered by for a value filter. Read/write **CubeField** .
 
 
 ## Syntax

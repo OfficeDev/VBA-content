@@ -27,7 +27,7 @@ More memory was required than is available, or a 64K segment boundary was encoun
     
 - You have many device drivers loaded. Eliminate unnecessary device drivers.
     
-- You have run out of space for **Public** [variables](vbe-glossary.md). Reduce the number of  **Public** variables.
+- You have run out of space for **Public** [variables](vbe-glossary.md). Reduce the number of **Public** variables.
     
 - You have attempted to update a property that is read-only. Do not assign values to read-only properties.
 

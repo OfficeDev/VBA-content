@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotLineCells.Item Property (Excel)
 
-Returns a specific element of the  **PivotLineCells** collection object by its position in the collection. Read-only.
+Returns a specific element of the **PivotLineCells** collection object by its position in the collection. Read-only.
 
 
 ## Syntax

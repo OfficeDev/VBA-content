@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OfficeTheme.ThemeColorScheme Property (Office)
 
-Gets a  **ThemeColorScheme** object that represents the color scheme of a Microsoft Office theme. Read-only.
+Gets a **ThemeColorScheme** object that represents the color scheme of a Microsoft Office theme. Read-only.
 
 
 ## Syntax

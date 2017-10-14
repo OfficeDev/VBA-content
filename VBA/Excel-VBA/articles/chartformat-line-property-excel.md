@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Line Property (Excel)
 
-Returns a  **[LineFormat](lineformat-object-excel.md)** object that contains line formatting properties for the specified chart element. Read-only.
+Returns a **[LineFormat](lineformat-object-excel.md)** object that contains line formatting properties for the specified chart element. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[LineFormat](lineformat-object-excel.md)** object that contains lin
 
 ## Remarks
 
-For a line, the  **LineFormat** object represents the line itself; for a chart with a border, the **LineFormat** object represents the border.
+For a line, the **LineFormat** object represents the line itself; for a chart with a border, the **LineFormat** object represents the border.
 
 
 ## See also

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ReturnVars Object (Access)
 
-Represents the collection of  **[ReturnVar](returnvar-object-access.md)** objects.
+Represents the collection of **[ReturnVar](returnvar-object-access.md)** objects.
 
 
 ## Remove
 
-The  **RetunVars** collection can store up to 255 **ReturnVar** objects.
+The **RetunVars** collection can store up to 255 **ReturnVar** objects.
 
 
 

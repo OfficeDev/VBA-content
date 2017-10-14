@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # RulerLevel2.Parent Property (Office)
 
-Gets the  **Parent** object for the **RulerLevel2** object. Read-only.
+Gets the **Parent** object for the **RulerLevel2** object. Read-only.
 
 
 ## Syntax

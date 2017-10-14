@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The specified index does not exist in the specified table. Check your code for a misspelling or other error, or verify the  **Indexes** collection contains the specified index.
+The specified index does not exist in the specified table. Check your code for a misspelling or other error, or verify the **Indexes** collection contains the specified index.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
