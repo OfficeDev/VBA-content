@@ -39,7 +39,7 @@ This example displays the name of the active sheet.
 MsgBox "The name of the active sheet is " & ActiveSheet.Name
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example creates a print preview of the active sheet that has the page number at the top of column B on each page.
 

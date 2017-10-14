@@ -30,7 +30,7 @@ Object
 
 ## Remarks
 
-The  **Object** property raises an exception if the object doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&;H8000) is set in the value returned by the **ForeignType** property.
+The  **Object** property raises an exception if the object doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&H8000) is set in the value returned by the **ForeignType** property.
 
 If the  **Object** property succeeds, it returns an **IDispatch** interface on the control or object. You owe an eventual release on the returned value (set it to **Nothing** or let it go out of scope if you're using Microsoft Visual Basic). You can determine the kind of object you've obtained an interface on by using the **ClassID** or **ProgID** property.
 

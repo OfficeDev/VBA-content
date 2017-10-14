@@ -26,7 +26,7 @@ If  _number_ is not already a whole number, it is rounded to the nearest whole n
 |[Null](vbe-glossary.md)|Null|
 |[Empty](vbe-glossary.md)|Zero (0)|
 |Any other number|Up to eight hexadecimal characters|
-You can represent hexadecimal numbers directly by preceding numbers in the proper range with  `&;H.` For example, For example, `&;H10` represents decimal 16 in hexadecimal notation.
+You can represent hexadecimal numbers directly by preceding numbers in the proper range with  `&H.` For example, For example, `&H10` represents decimal 16 in hexadecimal notation.
 
 ## Example
 

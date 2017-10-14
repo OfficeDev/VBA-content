@@ -30,7 +30,7 @@ This example displays a message about the creator of  `myChart`.
 
 
 ```vb
-If myChart.Creator = &;h4D534752 Then 
+If myChart.Creator = &h4D534752 Then 
     MsgBox "This is a Microsoft Graph object" 
 Else 
     MsgBox "This is not a Microsoft Graph object" 

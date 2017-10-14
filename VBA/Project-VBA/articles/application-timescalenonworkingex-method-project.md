@@ -31,7 +31,7 @@ Sets the format of nonworking times, where color values can be hexadecimal RGB v
 |:-----|:-----|:-----|:-----|
 | _Draw_|Optional|**Integer**|How nonworking times are denoted in relation to Gantt bars. Can be one of the following  **[PjNonWorkingPlacement](pjnonworkingplacement-enumeration-project.md)** constants: **pjBehind**, **pjInFront**, or **pjDoNotDraw**.|
 | _Calendar_|Optional|**String**|The name of the calendar to format.|
-| _Color_|Optional|**Long**|The color of nonworking times. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow. |
+| _Color_|Optional|**Long**|The color of nonworking times. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow. |
 | _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 
 ### Return Value
@@ -54,8 +54,8 @@ Sub Timescale_NonWorking()
     ' Sets nonworking time behind the task bars to red. 
  
     'Activate Gantt Chart. 
-    ViewApply Name:="&;Gantt Chart" 
-    TimescaleNonWorkingEx Draw:=pjBehind, Color:=&;HAAAAFF 
+    ViewApply Name:="&Gantt Chart" 
+    TimescaleNonWorkingEx Draw:=pjBehind, Color:=&HAAAAFF 
 End Sub
 ```
 

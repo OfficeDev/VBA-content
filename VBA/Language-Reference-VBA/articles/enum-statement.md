@@ -52,18 +52,15 @@ You can't use an  **Enum** type as the target in a **With** block.
 
 The following example shows the  **Enum** statement used to define a collection of named constants. In this case, the constants are colors you might choose to design data entry forms for a database.
 
-
 ```vb
-Public Enum InterfaceColors 
- icMistyRose = &;HE1E4FF&; 
- icSlateGray = &;H908070&; 
- icDodgerBlue = &;HFF901E&; 
- icDeepSkyBlue = &;HFFBF00&; 
- icSpringGreen = &;H7FFF00&; 
- icForestGreen = &;H228B22&; 
- icGoldenrod = &;H20A5DA&; 
- icFirebrick = &;H2222B2&; 
+Public Enum InterfaceColors
+    icMistyRose = &HE1E4FF&
+    icSlateGray = &H908070&
+    icDodgerBlue = &HFF901E&
+    icDeepSkyBlue = &HFFBF00&
+    icSpringGreen = &H7FFF00&
+    icForestGreen = &H228B22&
+    icGoldenrod = &H20A5DA&
+    icFirebrick = &H2222B2&
 End Enum
 ```
-
-

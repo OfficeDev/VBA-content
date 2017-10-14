@@ -30,9 +30,9 @@ The  **Caption** property is a string expression that can contain up to 2,048 ch
 
  **Note**  The text of the  **Caption** property for a label or command button control is the hyperlink display text when the **HyperlinkAddress** or **HyperlinkSubAddress** property is set for the control.
 
-You can use the  **Caption** property to assign an access key to a label or command button. In the caption, include an ampersand (&;) immediately preceding the character you want to use as an access key. The character will be underlined. You can press ALT plus the underlined character to move the focus to that control on a form.
+You can use the  **Caption** property to assign an access key to a label or command button. In the caption, include an ampersand (&) immediately preceding the character you want to use as an access key. The character will be underlined. You can press ALT plus the underlined character to move the focus to that control on a form.
 
-Include two ampersands (&;&;) in the setting for a caption if you want to display an ampersand itself in the caption text. For example, to display "Save & Exit", you should type  **Save &;&; Exit** in the **Caption** property box.
+Include two ampersands (&&) in the setting for a caption if you want to display an ampersand itself in the caption text. For example, to display "Save & Exit", you should type  **Save && Exit** in the **Caption** property box.
 
 
 ## See also

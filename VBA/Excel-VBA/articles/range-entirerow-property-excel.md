@@ -32,7 +32,7 @@ This example sets the value of the first cell in the row that contains the activ
 ActiveCell.EntireRow.Cells(1, 1).Value = 5
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example sorts all the rows on a worksheet, including hidden rows.
 

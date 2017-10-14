@@ -34,13 +34,13 @@ Changes or creates a Gantt bar style, where colors can be hexadecimal values.
 | _Name_|Optional|**String**|A new name for the Gantt bar.|
 | _StartShape_|Optional|**Integer**|The start shape of the Gantt bar. The default value is  **pjNone**. Can be one of the **[PjBarEndShape](pjbarendshape-enumeration-project.md)** constants.|
 | _StartType_|Optional|**Integer**|The start type of the Gantt bar. Can be one of the following  **[PjBarType](pjbartype-enumeration-project.md)** constants: **pjDashed**, **pjFramed**, or **pjSolid**. The default value is **pjSolid**.|
-| _StartColor_|Optional|**Long**|The start color of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &;H00FFFF is yellow. The default value is &;H0 (black). |
+| _StartColor_|Optional|**Long**|The start color of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &H00FFFF is yellow. The default value is &H0 (black). |
 | _MiddleShape_|Optional|**Integer**|The middle shape of the Gantt bar. Can be one of the  **[PjBarShape](pjbarshape-enumeration-project.md)** constants. The default value is **pjRectangleBar**.|
-| _MiddleColor_|Optional|**Long**|The middle color of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFFFF00 is blue-green. The default value is &;H0 (black).|
+| _MiddleColor_|Optional|**Long**|The middle color of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFFFF00 is blue-green. The default value is &H0 (black).|
 | _MiddlePattern_|Optional|**Integer**|The middle pattern of the Gantt bar. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants. The default value is **pjMediumFillPattern**.|
 | _EndShape_|Optional|**Integer**|The end shape of the Gantt bar. Can be one of the  **[PjBarEndShape](pjbarendshape-enumeration-project.md)** constants. The default value is **pjNone**.|
 | _EndType_|Optional|**Integer**|The end type of the Gantt bar. Can be one of the following  **PjBarType** constants: **pjDashed**, **pjFramed**, or **pjSolid**. The default value is **pjSolid**.|
-| _EndColor_|Optional|**Long**|The end color of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. The default value is &;H0 (black).|
+| _EndColor_|Optional|**Long**|The end color of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. The default value is &H0 (black).|
 | _ShowFor_|Optional|**String**|One or more task types (such as normal, split, summary, milestone, and so on) separated by the list separator character.|
 | _Row_|Optional|**Integer**|A number from 1 to 4 that specifies the row in which the Gantt bar appears. The default value is 1.|
 | _From_|Optional|**String**|The name of a date field specifying the start of the Gantt bar.|
@@ -69,7 +69,7 @@ The following example creates a bar style that has a light green color and ends 
 ```vb
 Sub CreateGanttBar() 
     GanttBarEditEx Item:=-1, Create:=True, Name:="My New Bar Style", _
-        MiddleColor:=&;H88FF88, EndShape:=pjStar 
+        MiddleColor:=&H88FF88, EndShape:=pjStar 
 End Sub
 ```
 

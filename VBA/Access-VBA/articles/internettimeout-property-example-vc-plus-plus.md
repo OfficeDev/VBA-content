@@ -25,7 +25,7 @@ no_namespace rename("EOF", "EndOfFile")#import "C:\Program Files\Common Files\Sy
 #include <conio.h> 
 // Function declarationsinline void TESTHR(HRESULT x) {if FAILED(x) _com_issue_error(x);};
 void InternetTimeOutX(void);void PrintProviderError(_ConnectionPtr pConnection);
-void PrintComError(_com_error &;e); 
+void PrintComError(_com_error &e); 
 //////////////////////////////////////////////////////////// //
 // Main Function //// //
 ////////////////////////////////////////////////////////// 
@@ -52,7 +52,7 @@ printf("%s %s",(LPSTR) (_bstr_t) pRst->Fields->GetItem("au_fname")->Value,
 (LPSTR) (_bstr_t) pRst->Fields->GetItem("au_lname")->Value); 
 pRst->MoveNext();}
 pRst->Close();} 
-catch (_com_error &;e){
+catch (_com_error &e){
 PrintProviderError(pRst->GetActiveConnection());PrintComError(e);
 }} 
 //////////////////////////////////////////////////////////// //
@@ -70,7 +70,7 @@ pErr->Description);}
 //////////////////////////////////////////////////////////// //
 // PrintComError Function //// //
 ////////////////////////////////////////////////////////// 
-void PrintComError(_com_error &;e){
+void PrintComError(_com_error &e){
 _bstr_t bstrSource(e.Source());_bstr_t bstrDescription(e.Description()); 
 // Print Com errors.printf("Error\n");
 printf("\tCode = %08lx\n", e.Error());printf("\tCode meaning = %s\n", e.ErrorMessage());
@@ -81,7 +81,7 @@ printf("\tSource = %s\n", (LPCSTR) bstrSource);printf("\tDescription = %s\n", (L
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

@@ -50,7 +50,7 @@ The following example selects the  **Name** column and the next two columns of t
 ```vb
 Sub Select_ResourceField() 
  
- ViewApply Name:="&;Resource Sheet" 
+ ViewApply Name:="&Resource Sheet" 
  SelectResourceField Row:=3, Column:="Name", RowRelative:=False, Width:=2, Height:=1 
 End Sub
 ```

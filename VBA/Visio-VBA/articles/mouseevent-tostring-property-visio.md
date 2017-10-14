@@ -82,7 +82,7 @@ Private mEventSink As clsEventSink
  
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
-Private Const visEvtAdd% = &;H8000 
+Private Const visEvtAdd% = &H8000 
  
 Public Sub CreateMouseDownEventObject() 
  

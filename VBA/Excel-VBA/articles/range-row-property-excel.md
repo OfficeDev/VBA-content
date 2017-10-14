@@ -36,7 +36,7 @@ For Each rw In Worksheets("Sheet1").Rows
 Next rw
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1) |[About the Contributors](range-row-property-excel.md#AboutContributor)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1) |[About the Contributors](range-row-property-excel.md#AboutContributor)
 
 This example uses the  **BeforeDoubleClick** worksheet event to copy a row of data from one worksheet to another. To run this code, the name of the target worksheet must be in column A. When you double click a cell that contains data, this example gets the target worksheet name from column A and copies the entire row of data into the next available row on the target worksheet. This example accesses the active row using the **Target** keyword.
 

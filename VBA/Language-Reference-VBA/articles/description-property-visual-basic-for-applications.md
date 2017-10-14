@@ -23,10 +23,9 @@ The  **Description** property setting consists of a short description of the err
 This example assigns a user-defined message to the  **Description** property of the **Err** object.
 
 
-```
-Err. Description = "It was not possible to access an object necessary " _
-&; "for this operation."
-
+```vb
+Err.Description = "It was not possible to access an object necessary " _
+& "for this operation."
 ```
 
 

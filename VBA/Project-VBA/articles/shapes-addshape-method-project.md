@@ -66,7 +66,7 @@ Sub TestShapes()
     
     ' Change the blue cloud to a yellow speech balloon.
     cloudShape2.AutoShapeType = msoShapeBalloon
-    cloudShape2.Fill.ForeColor.RGB = &;H80FFFF
+    cloudShape2.Fill.ForeColor.RGB = &H80FFFF
 End Sub
 ```
 

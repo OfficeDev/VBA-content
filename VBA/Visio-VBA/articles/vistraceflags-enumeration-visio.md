@@ -22,8 +22,8 @@ The value of the  **TraceFlags** property can be a combination of the following 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visTraceAddonInvokes**|&;H4|Add-on invocations.|
-| **visTraceAdvises**|&;H2|Outgoing advise calls.|
-| **visTraceCallsToVBA**|&;H8|Microsoft Visual Basic for Applications (VBA) invocations.|
-| **visTraceEvents**|&;H1|Event occurrences.|
+| **visTraceAddonInvokes**|&H4|Add-on invocations.|
+| **visTraceAdvises**|&H2|Outgoing advise calls.|
+| **visTraceCallsToVBA**|&H8|Microsoft Visual Basic for Applications (VBA) invocations.|
+| **visTraceEvents**|&H1|Event occurrences.|
 

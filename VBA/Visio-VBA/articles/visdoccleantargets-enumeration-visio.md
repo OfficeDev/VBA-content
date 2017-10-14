@@ -17,11 +17,11 @@ Flags passed to the  **Document.Clean** method to indicate which objects to exam
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visDocCleanTargAll**|&;HFF|Examine all objects.|
-| **visDocCleanTargBPages**|&;H2|Examine background pages.|
-| **visDocCleanTargDoc**|&;H10|Examine document sheet.|
-| **visDocCleanTargFPages**|&;H1|Examine foreground pages.|
-| **visDocCleanTargMasters**|&;H4|Examine masters.|
-| **visDocCleanTargPageSheet**|&;H100|Examine page sheet(s).|
-| **visDocCleanTargStyles**|&;H8|Examine styles.|
+| **visDocCleanTargAll**|&HFF|Examine all objects.|
+| **visDocCleanTargBPages**|&H2|Examine background pages.|
+| **visDocCleanTargDoc**|&H10|Examine document sheet.|
+| **visDocCleanTargFPages**|&H1|Examine foreground pages.|
+| **visDocCleanTargMasters**|&H4|Examine masters.|
+| **visDocCleanTargPageSheet**|&H100|Examine page sheet(s).|
+| **visDocCleanTargStyles**|&H8|Examine styles.|
 

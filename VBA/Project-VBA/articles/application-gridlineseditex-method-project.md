@@ -34,7 +34,7 @@ Edits gridlines, where colors can be hexadecimal values.
 </p></li><li><p>If the Resource Graph is active: <b>pjMajorVertical</b> , <b>pjMinorVertical</b> , <b>pjHorizontal</b> , <b>pjGraphCurrentDate</b> , <b>pjGraphTitleHorizontal</b> , <b>pjGraphTitleVertical</b> , <b>pjGraphProjectStart</b> , <b>pjGraphProjectFinish</b> , or <b>pjGraphStatusDate</b> . 
 </p></li><li><p>If the Task Sheet or Resource Sheet is active: <b>pjSheetColumns</b> , <b>pjSheetRows</b> , <b>pjSheetTitleHorizontal</b> , <b>pjSheetTitleVertical</b> , or <b>pjSheetPageBreaks</b> .</p></li><li><p>If the Task Usage or Resource Usage view is active: <b>pjUsageColumns</b> , <b>pjUsageRows</b> , <b>pjUsageSheetRows</b> , <b>pjUsageSheetColumns</b> , <b>pjUsageTitleHorizontal</b> , <b>pjUsageTitleVertical</b> , or <b>pjUsagePageBreaks</b> .</p></li></ul>|
 | _NormalType_|Optional|**Integer**| The type for normal gridlines. Can be one of the following **[PjLineType](pjlinetype-enumeration-project.md)** constants: **pjNoLines**, **pjContinuous**, **pjCloseDot**, **pjDot**, or **pjDash**.|
-| _NormalColor_|Optional|**Long**|The color of normal gridlines. Can be a hexadecimal RGB value, where red is the last byte. For example, &;H0088FF is orange.|
+| _NormalColor_|Optional|**Long**|The color of normal gridlines. Can be a hexadecimal RGB value, where red is the last byte. For example, &H0088FF is orange.|
 | _Interval_|Optional|**Integer**|A number from 0 to 99 that specifies the interval between gridlines.|
 | _IntervalType_|Optional|**Integer**|The type for secondary gridlines. Can be one of the  **[PjLineType](pjlinetype-enumeration-project.md)** constants.|
 | _IntervalColor_|Optional|**Long**|The color of secondary gridlines. Can be a hexadecimal RGB value, where red is the last byte.|
@@ -52,8 +52,8 @@ The following example changes the major gridlines to red.
 ```vb
 Sub Gridlines_Edit() 
     'Activate Gantt Chart view 
-    ViewApply Name:="&;Gantt Chart" 
-    GridlinesEditEx Item:=pjMajorColumns, NormalColor:=&;HFF 
+    ViewApply Name:="&Gantt Chart" 
+    GridlinesEditEx Item:=pjMajorColumns, NormalColor:=&HFF 
 End Sub
 ```
 

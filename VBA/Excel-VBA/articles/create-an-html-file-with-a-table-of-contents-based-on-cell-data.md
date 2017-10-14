@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This code example shows how to take data from a worksheet and create a table of contents in an HTML file. The worksheet should have data in columns A, B, and C that correspond to the first, second, and third levels of the table of contents hierarchy. The HTML file is stored in the same working folder as the active workbook.
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 
 

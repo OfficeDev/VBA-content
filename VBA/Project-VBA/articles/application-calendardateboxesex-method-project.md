@@ -33,7 +33,7 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
 | _TopRight_|Optional|**Long**|The format for dates in the upper-right corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
 | _BottomLeft_|Optional|**Long**|The format for dates in the lower-left corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
 | _BottomRight_|Optional|**Long**|The format for dates in the lower-right corner of each date box. Can be one of the  **PjCalendarDateLabel** constants.|
-| _TopColor_|Optional|**Long**|The color of the top band in each date box. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
+| _TopColor_|Optional|**Long**|The color of the top band in each date box. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 | _BottomColor_|Optional|**Long**|The color of the bottom band in each date box. Can be a hexadecimal value for the RGB color.|
 | _TopPattern_|Optional|**Long**|The pattern of the top band in each date box. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 | _BottomPattern_|Optional|**Long**|The pattern of the bottom band in each date box. Can be one of the  **PjFillPattern** constants.|
@@ -57,7 +57,7 @@ The following example displays the day of the week (for example, Thursday) in th
 Sub FormatCalendarDays() 
       CalendarDateBoxesEx Topleft:=pjOverflowIndicator, TopRight:=pjDay_mmm_dd, _ 
         BottomLeft:=pjCalendarLabelDayOfYear_dd_yyyy, _ 
-        TopColor:=&;HE0E8E8, BottomColor:=&;H1E8E8 
+        TopColor:=&HE0E8E8, BottomColor:=&H1E8E8 
 End Sub
 ```
 

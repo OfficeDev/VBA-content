@@ -64,7 +64,7 @@ Sub AddBigArrow()
         .Weight = 3
         .EndArrowheadStyle = msoArrowheadTriangle
         .EndArrowheadWidth = msoArrowheadWidthMedium
-        .ForeColor.RGB = &;HFF0090
+        .ForeColor.RGB = &HFF0090
     End With
 End Sub
 ```

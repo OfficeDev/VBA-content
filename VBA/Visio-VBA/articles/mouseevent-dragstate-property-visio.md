@@ -80,7 +80,7 @@ Implements Visio.IVisEventProc
  
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
-Private Const visEvtAdd% = &;H8000 
+Private Const visEvtAdd% = &H8000 
  
 Private Function IVisEventProc_VisEventProc( _ 
     ByVal nEventCode As Integer, _ 
@@ -149,7 +149,7 @@ Dim vsoMouseMoveEvent As Visio.Event
  
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
-Private Const visEvtAdd% = &;H8000  
+Private Const visEvtAdd% = &H8000  
  
 Public Sub CreateEventObjects()  
  

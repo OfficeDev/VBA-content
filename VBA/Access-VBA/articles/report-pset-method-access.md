@@ -47,7 +47,7 @@ The way the point is drawn depends on the settings of the  **[DrawMode](report-d
 
 When you apply the  **PSet** method, the **CurrentX** and **CurrentY** properties are set to the point specified by the _x_ and _y_ arguments.
 
-To clear a single pixel with the  **PSet** method, specify the coordinates of the pixel and use &;HFFFFFF (white) as the _color_ argument.
+To clear a single pixel with the  **PSet** method, specify the coordinates of the pixel and use &HFFFFFF (white) as the _color_ argument.
 
 
 ## Example

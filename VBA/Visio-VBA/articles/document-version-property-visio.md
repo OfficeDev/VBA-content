@@ -38,9 +38,9 @@ Microsoft Visio can save a document in the following file format versions. Note 
 
 |**Constant **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visVersion60**|&;H60000|Visio 2000 or Visio 2002 document|
-| **visVersion110**|&;HB0000| Visio 2003 or Visio 2007 document|
-| **visVersion120**|&;HB0000|Visio 2003 or Visio 2007 document|
+| **visVersion60**|&H60000|Visio 2000 or Visio 2002 document|
+| **visVersion110**|&HB0000| Visio 2003 or Visio 2007 document|
+| **visVersion120**|&HB0000|Visio 2003 or Visio 2007 document|
 When Visio opens a document that was saved in an earlier version format, it converts the document's in-memory representation to the current version. However, when closing the document, Visio recognizes that the document was saved in an earlier version format and allows the user to choose the version in which to save the document.
 
 

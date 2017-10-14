@@ -101,7 +101,7 @@ Alternatively, you can use the  `chr(34)` function to represent the double quote
 
 
 ```
-filter = "@SQL= " & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _&; Chr(34) & " = " & "'can''t'"
+filter = "@SQL= " & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001f" _& Chr(34) & " = " & "'can''t'"
 ```
 
 Escaping single and double quote characters is also required for DASL queries with the  **ci_startswith** or **ci_phrasematch** operators. For example, the following query performs a phrase match query for `can't` in the message subject:
@@ -110,7 +110,7 @@ Escaping single and double quote characters is also required for DASL queries wi
 
 
 ```
-filter = "@SQL=" & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _&; Chr(34) & " ci_phrasematch " & "'can''t'"
+filter = "@SQL=" & Chr(34) & "http://schemas.microsoft.com/mapi/proptag/0x0037001E" _& Chr(34) & " ci_phrasematch " & "'can''t'"
 ```
 
 Another example is a DASL filter string that filters for the  **Subject** property being equal to the words `the right stuff`, where the word  `stuff` is enclosed by double quotes. In this case, you must escape the enclosing double quotes as follows:

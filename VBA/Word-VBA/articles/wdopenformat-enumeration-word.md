@@ -23,7 +23,7 @@ Specifies the format to use when opening a document.
 | **wdOpenFormatRTF**|3|Rich text format (RTF).|
 | **wdOpenFormatTemplate**|2|As a Word template.|
 | **wdOpenFormatText**|4|Unencoded text format.|
-| **wdOpenFormatOpenDocumentText**|18 (&;H12)|OpenDocument Text format.|
+| **wdOpenFormatOpenDocumentText**|18 (&H12)|OpenDocument Text format.|
 | **wdOpenFormatUnicodeText**|5|Unicode text format.|
 | **wdOpenFormatWebPages**|7|HTML format.|
 | **wdOpenFormatXML**|8|XML format.|
@@ -35,7 +35,7 @@ Specifies the format to use when opening a document.
 | **wdOpenFormatXMLDocumentMacroEnabled**|10|XML document format with macros enabled.|
 | **wdOpenFormatXMLDocumentMacroEnabledSerialized**|15|Open XML file format with macros enabled saved as a single XML file.|
 | **wdOpenFormatXMLTemplate**|11|XML template format.|
-| **wdOpenFormatXMLTemplateSerialized**|16 (&;H10)|Open XML template format saved as a XML single file.|
+| **wdOpenFormatXMLTemplateSerialized**|16 (&H10)|Open XML template format saved as a XML single file.|
 | **wdOpenFormatXMLTemplateMacroEnabled**|12|XML template format with macros enabled.|
-| **wdOpenFormatXMLTemplateMacroEnabledSerialized**|17 (&;H11)|Open XML template format with macros enabled saved as a single XML file.|
+| **wdOpenFormatXMLTemplateMacroEnabledSerialized**|17 (&H11)|Open XML template format with macros enabled saved as a single XML file.|
 

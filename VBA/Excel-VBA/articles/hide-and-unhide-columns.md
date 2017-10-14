@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Hide and Unhide Columns
 
-This example finds all the cells in the first four columns that have a constant &;quot;X&;quot; in them and hides the column that contains the X.
+This example finds all the cells in the first four columns that have a constant 'X' in them and hides the column that contains the X.
 
  **Sample code provided by:** Dennis Wallentin,[VSTO & .NET & Excel](http://xldennis.wordpress.com/)
 

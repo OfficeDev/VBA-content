@@ -52,7 +52,7 @@ Sub UnknownRange()
         MsgBox "There is no range to be selected.", , "No cells contain any values."
         Exit Sub
     Else
-        Dim FirstRow&;, FirstCol&;, LastRow&;, LastCol&;
+        Dim FirstRow&, FirstCol&, LastRow&, LastCol&
         Dim myUsedRange As Range
         FirstRow = Cells.Find(What:="*", SearchDirection:=xlNext, SearchOrder:=xlByRows).Row
         

@@ -38,11 +38,11 @@ The  **GlueSettings** property can be any combination of the following **VisGlue
 
 |**Constant **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visGlueToNone**|&;H0 |Glue is enabled but no other glue settings are on. |
-| **visGlueToGuides**|&;H1 |Glue to guides. |
-| **visGlueToHandles**|&;H2 |Glue to shape handles. |
-| **visGlueToVertices**|&;H4 |Glue to shape vertices. |
-| **visGlueToConnectionPoints**|&;H8 |Glue to connection points. |
-| **visGlueToGeometry**|&;H20 |Glue to shape geometry. |
-| **visGlueToDisabled**|&;H8000 |Disable glue. |
+| **visGlueToNone**|&H0 |Glue is enabled but no other glue settings are on. |
+| **visGlueToGuides**|&H1 |Glue to guides. |
+| **visGlueToHandles**|&H2 |Glue to shape handles. |
+| **visGlueToVertices**|&H4 |Glue to shape vertices. |
+| **visGlueToConnectionPoints**|&H8 |Glue to connection points. |
+| **visGlueToGeometry**|&H20 |Glue to shape geometry. |
+| **visGlueToDisabled**|&H8000 |Disable glue. |
 

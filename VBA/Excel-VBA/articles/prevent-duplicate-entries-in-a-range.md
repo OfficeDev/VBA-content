@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following code example verifies that a value entered in the range A1:B20 exists within that range on any of the worksheets in the current workbook and prevents duplicate entries if the value exists.
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 
 

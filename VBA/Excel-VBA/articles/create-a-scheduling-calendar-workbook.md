@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following code example shows how to use information in one workbook to create a scheduling calendar workbook that contains one month per worksheet and can optionally include holidays and weekends.
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 To run this code, your workbook must have a worksheet named "Cover" that contains the following:
 

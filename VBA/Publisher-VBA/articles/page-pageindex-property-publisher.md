@@ -40,8 +40,8 @@ With ActiveDocument.Pages
 For lngLoop = 1 To .Count 
 With .Item(lngLoop) 
 Debug.Print "PageIndex = " & .PageIndex _ 
-&; " / PageNumber = " & .PageNumber _ 
-&; " / PageID = " & .PageID 
+& " / PageNumber = " & .PageNumber _ 
+& " / PageID = " & .PageID 
 End With 
 Next lngLoop 
 End With 

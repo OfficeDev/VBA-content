@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 # Exporting a Table to a Word Document
 
-This example takes the table named &;quot;Table1&;quot; on Sheet 1 and copies it into an existing Word document named &;quot;Quarter Report&;quot; at the bookmarked location named &;quot;Report&;quot;.
+This example takes the table named 'Table1' on Sheet 1 and copies it into an existing Word document named 'Quarter Report' at the bookmarked location named 'Report'.
 
  **Sample code provided by:** Dennis Wallentin,[VSTO & .NET & Excel](http://xldennis.wordpress.com/)
 

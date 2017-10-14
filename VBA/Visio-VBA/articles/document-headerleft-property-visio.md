@@ -47,7 +47,7 @@ Sub HeaderLeft_Example()
     Dim strHeader as String 
  
     'Build header string. 
-    strHeader = "The date is " & "&;D"  
+    strHeader = "The date is " & "&D"  
  
     'Set header of the current document. 
     ThisDocument.HeaderLeft = strHeader  

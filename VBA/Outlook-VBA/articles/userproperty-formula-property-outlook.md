@@ -51,7 +51,7 @@ Sub TestFormula()
  
  Set uprs = tki.UserProperties 
  
- Set upr = uprs.Add("Total&;ActualWork", olFormula) 
+ Set upr = uprs.Add("Total&ActualWork", olFormula) 
  
  upr.Formula = "[Total Work] + [Actual Work]" 
  

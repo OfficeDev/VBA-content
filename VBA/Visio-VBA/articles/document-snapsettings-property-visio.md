@@ -38,16 +38,16 @@ The  **SnapSettings** property can be any combination of the following **VisSnap
 
 |**Constant **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visSnapToNone**|&;H0 |Snap to nothing. |
-| **visSnapToRulerSubdivisions**|&;H1 |Snap to tick marks on the ruler. |
-| **visSnapToGrid**|&;H2 |Snap to the grid. |
-| **visSnapToGuides**|&;H4 |Snap to guides. |
-| **visSnapToHandles**|&;H8 |Snap to selection handles. |
-| **visSnapToVertices**|&;H10 |Snap to vertices. |
-| **visSnapToConnectionPoints**|&;H20 |Snap to connection points. |
-| **visSnapToGeometry**|&;H100 |Snap to the visible edges of shapes. |
-| **visSnapToAlignmentBox**|&;H200 |Snap to the alignment box. |
-| **visSnapToExtensions**|&;H400 |Snap to shape extensions options. |
-| **visSnapToDisabled**|&;H8000 |Disable snap. |
-| **visSnapToIntersections**|&;H10000 |Snap to intersections. |
+| **visSnapToNone**|&H0 |Snap to nothing. |
+| **visSnapToRulerSubdivisions**|&H1 |Snap to tick marks on the ruler. |
+| **visSnapToGrid**|&H2 |Snap to the grid. |
+| **visSnapToGuides**|&H4 |Snap to guides. |
+| **visSnapToHandles**|&H8 |Snap to selection handles. |
+| **visSnapToVertices**|&H10 |Snap to vertices. |
+| **visSnapToConnectionPoints**|&H20 |Snap to connection points. |
+| **visSnapToGeometry**|&H100 |Snap to the visible edges of shapes. |
+| **visSnapToAlignmentBox**|&H200 |Snap to the alignment box. |
+| **visSnapToExtensions**|&H400 |Snap to shape extensions options. |
+| **visSnapToDisabled**|&H8000 |Disable snap. |
+| **visSnapToIntersections**|&H10000 |Snap to intersections. |
 

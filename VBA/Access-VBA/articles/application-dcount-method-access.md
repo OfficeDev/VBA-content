@@ -70,7 +70,7 @@ intX = DCount("*", "Orders")
 
 If  _domain_ is a table with a primary key, you can also count the total number of records by setting _expr_ to the primary key field, since there will never be a **Null** in the primary key field.
 
-If  _expr_ identifies multiple fields, separate the field names with a concatenation operator, either an ampersand (&;) or the addition operator (+). If you use an ampersand to separate the fields, the **DCount** function returns the number of records containing data in any of the listed fields. If you use the addition operator, the **DCount** function returns only the number of records containing data in all of the listed fields. The following example demonstrates the effects of each operator when used with a field that contains data in all records (ShipName) and a field that contains no data (ShipRegion).
+If  _expr_ identifies multiple fields, separate the field names with a concatenation operator, either an ampersand (&) or the addition operator (+). If you use an ampersand to separate the fields, the **DCount** function returns the number of records containing data in any of the listed fields. If you use the addition operator, the **DCount** function returns only the number of records containing data in all of the listed fields. The following example demonstrates the effects of each operator when used with a field that contains data in all records (ShipName) and a field that contains no data (ShipRegion).
 
 
 

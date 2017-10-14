@@ -35,7 +35,7 @@ This example shows manual, inclusive filtering in an OLAP PivotTable.
 
 ```vb
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] & _ 
-.[Country]").VisibleItemsList = Array("[Customer].[Customer Geography].[Country].&;[Australia]") 
+.[Country]").VisibleItemsList = Array("[Customer].[Customer Geography].[Country].&[Australia]") 
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] & _ 
 .[State-Province]").VisibleItemsList = Array("") 
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] & _ 

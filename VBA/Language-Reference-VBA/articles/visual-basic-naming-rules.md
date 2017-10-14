@@ -17,7 +17,7 @@ Use the following rules when you name [procedures](vbe-glossary.md), [constants]
 
 - You must use a letter as the first character.
     
-- You can't use a space, period ( **.** ), exclamation mark ( **!** ), or the characters **@**, **&;**, **$**, **#** in the name.
+- You can't use a space, period ( **.** ), exclamation mark ( **!** ), or the characters **@**, **&**, **$**, **#** in the name.
     
 - Name can't exceed 255 characters in length.
     

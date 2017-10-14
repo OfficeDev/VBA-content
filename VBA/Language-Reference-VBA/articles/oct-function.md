@@ -26,7 +26,7 @@ If  _number_ is not already a whole number, it is rounded to the nearest whole n
 |[Null](vbe-glossary.md)|**Null**|
 |[Empty](vbe-glossary.md)|Zero (0)|
 |Any other number|Up to 11 octal characters|
-You can represent octal numbers directly by preceding numbers in the proper range with  `&;O`. For example, . For example,  `&;O10` is the octal notation for decimal 8.
+You can represent octal numbers directly by preceding numbers in the proper range with  `&O`. For example, . For example,  `&O10` is the octal notation for decimal 8.
 
 ## Example
 

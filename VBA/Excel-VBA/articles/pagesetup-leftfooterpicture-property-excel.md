@@ -28,7 +28,7 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 The  **LeftFooterPicture** property is read-only, but the properties on it are not all read-only.
 
 
- **Note**  It is required that "&;G" is a part of the  **LeftFooter** property string in order for the image to show up in the left footer.
+ **Note**  It is required that "&G" is a part of the  **LeftFooter** property string in order for the image to show up in the left footer.
 
 
 ## Example
@@ -53,7 +53,7 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the left footer. 
- ActiveSheet.PageSetup.LeftFooter = "&;G" 
+ ActiveSheet.PageSetup.LeftFooter = "&G" 
  
 End Sub
 ```

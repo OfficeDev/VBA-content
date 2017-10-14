@@ -21,6 +21,6 @@ Constants that represent galleries of building blocks.
 | **pbBBGalAdvertisements**|0|Advertisements gallery|
 | **pbBBGalBusinessInfo**|3|Business Information gallery|
 | **pbBBGalCalendars**|2|Calendars gallery|
-| **pbBBGalNone**|-1 (&;HFFFFFFFF)|No gallery|
+| **pbBBGalNone**|-1 (&HFFFFFFFF)|No gallery|
 | **pbBBGalPageParts**|4|Page Parts gallery|
 

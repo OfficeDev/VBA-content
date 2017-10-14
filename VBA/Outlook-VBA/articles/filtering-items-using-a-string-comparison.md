@@ -113,8 +113,8 @@ As an example, the following DASL query creates a filter for company name equals
 
 ```
 criteria = "@SQL=" & Chr(34) _
-&; "urn:schemas-microsoft-com:office:office#Company" & Chr(34) _
-&; " = 'Microsoft'"
+& "urn:schemas-microsoft-com:office:office#Company" & Chr(34) _
+& " = 'Microsoft'"
 ```
 
 As another example, assume that the folder you are searching contains items with the following subjects: 
@@ -137,8 +137,8 @@ The following = restriction:
 
 ```
 criteria = "@SQL=" & Chr(34) _ 
-&; "urn:schemas:httpmail:subject" & Chr(34) _ 
-&; " = 'question'"
+& "urn:schemas:httpmail:subject" & Chr(34) _ 
+& " = 'question'"
 ```
 
 will return the following results:
@@ -209,8 +209,8 @@ The following  **ci_startswith** restriction:
 
 ```
 criteria = "@SQL=" & Chr(34) _ 
-&; "urn:schemas:httpmail:subject" & Chr(34) _ 
-&; " ci_startswith 'question'" 
+& "urn:schemas:httpmail:subject" & Chr(34) _ 
+& " ci_startswith 'question'" 
 ```
 
 will return the following results:
@@ -270,8 +270,8 @@ The following  **ci_phrasematch** restriction:
 
 ```
 criteria = "@SQL=" & Chr(34) _ 
-&; "urn:schemas:httpmail:subject" & Chr(34) _ 
-&; " ci_phrasematch 'question'" 
+& "urn:schemas:httpmail:subject" & Chr(34) _ 
+& " ci_phrasematch 'question'" 
 ```
 
 will return the following results:
@@ -356,8 +356,8 @@ The following like restriction :
 
 ```
 criteria = "@SQL=" & Chr(34) _ 
-&; "urn:schemas:httpmail:subject" & Chr(34) _ 
-&; " like '%question%'" 
+& "urn:schemas:httpmail:subject" & Chr(34) _ 
+& " like '%question%'" 
 ```
 
 will return the following results: 

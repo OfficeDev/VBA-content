@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following code example shows how to send an email to a list of recipients based on data stored in a workbook. The recipient email addresses must be in column A, and the body text of the email must be in the first text box on the active sheet.
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 
 

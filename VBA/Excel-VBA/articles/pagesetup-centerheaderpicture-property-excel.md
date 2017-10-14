@@ -27,7 +27,7 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 
 The  **CenterHeaderPicture** property is read-only, but the properties on it are not all read-only.
 
-It is required that "&;G" is a part of the  **CenterHeader** property string in order for the image to show up in the center header.
+It is required that "&G" is a part of the  **CenterHeader** property string in order for the image to show up in the center header.
 
 
 ## Example
@@ -52,7 +52,7 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the center header. 
- ActiveSheet.PageSetup.CenterHeader = "&;G" 
+ ActiveSheet.PageSetup.CenterHeader = "&G" 
  
 End Sub
 ```

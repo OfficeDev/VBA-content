@@ -37,7 +37,7 @@ _expression_ An expression that returns an **Application** object.
 | _LabelFontBold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _LabelFontItalic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _LabelFontUnderline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _LabelFontColor_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &;H01FFFF is yellow.|
+| _LabelFontColor_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &H01FFFF is yellow.|
 
 
 #### Format codes
@@ -94,13 +94,13 @@ Sub SetLegend()
     Dim strLegend As String 
  
     strLegend = GetFontFormatCode("Arial") 
-    strLegend = strLegend & "&;BThis text will appear in the legend.&;B" 
+    strLegend = strLegend & "&BThis text will appear in the legend.&B" 
     Application.FilePageSetupLegendEx Text:=strLegend, _ 
         Alignment:=pjCenter, LegendOn:=pjOnEveryPage 
 End Sub 
  
 Public Function GetFontFormatCode(strFontName As String) As String 
-    GetFontFormatCode = "&;" & Chr(34) & strFontName & Chr(34) 
+    GetFontFormatCode = "&" & Chr(34) & strFontName & Chr(34) 
 End Function
 ```
 

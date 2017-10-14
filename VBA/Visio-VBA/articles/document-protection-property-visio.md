@@ -48,10 +48,10 @@ The value of the  **Protection** property can be a combination of the following 
 
 |**Constant **|**Value **|
 |:-----|:-----|
-| **visProtectNone**|&;H0|
-| **visProtectStyles**|&;H1|
-| **visProtectShapes**|&;H2|
-| **visProtectMasters**|&;H4|
-| **visProtectBackgrounds**|&;H8|
-| **visProtectPreviews**|&;H10|
+| **visProtectNone**|&H0|
+| **visProtectStyles**|&H1|
+| **visProtectShapes**|&H2|
+| **visProtectMasters**|&H4|
+| **visProtectBackgrounds**|&H8|
+| **visProtectPreviews**|&H10|
 

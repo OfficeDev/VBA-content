@@ -33,9 +33,9 @@ OLE_COLOR
 Valid values for  **OLE_COLOR** within Microsoft Visio can be one of the following:
 
 
-- &;H00 _bbggrr,_ where _bb_ is the blue value between 0 and 0xFF (255), _gg_ the green value, and _rr_ the red value.
+- &H00 _bbggrr,_ where _bb_ is the blue value between 0 and 0xFF (255), _gg_ the green value, and _rr_ the red value.
     
-- &;H800000 _xx_ , where _xx_ is a valid **GetSysColor** index.
+- &H800000 _xx_ , where _xx_ is a valid **GetSysColor** index.
     
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
@@ -54,7 +54,7 @@ The following macro shows how to assign the color blue to text in the header and
 Sub HeaderFooterColor_Example() 
   
     'Set color of the header of this document to blue.  
-    ThisDocument.HeaderFooterColor = &;H00FF0000  
+    ThisDocument.HeaderFooterColor = &H00FF0000  
  
 End Sub
 ```

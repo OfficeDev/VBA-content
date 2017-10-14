@@ -72,7 +72,7 @@ Private Sub Form_Load()
     Me.RecordSource = "tblDepartments"
     DoCmd.Maximize  
     txtDept.ControlSource = "Department"
-    cmdClose.Caption = "&;Close"
+    cmdClose.Caption = "&Close"
     cboDept.RowSourceType = "Table/Query"
     cboDept.RowSource = "SELECT Department FROM tblDepartments"
 End Sub

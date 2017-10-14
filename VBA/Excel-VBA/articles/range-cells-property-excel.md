@@ -54,7 +54,7 @@ For n = 1 To r.Rows.Count
 Next n
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example looks through column C, and for every cell that has a comment, it puts the comment text into column D and deletes the comment from column C.
 

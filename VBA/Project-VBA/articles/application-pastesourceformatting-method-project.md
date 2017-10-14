@@ -64,7 +64,7 @@ Sub CopyCostReport()
                 newReportTitle = "My " & oShape.TextFrame2.TextRange.Text
                 With oShape.TextFrame2.TextRange
                     .Text = newReportTitle
-                    .Characters.Font.Fill.ForeColor.RGB = &;H60FF10 ' Bluish green.
+                    .Characters.Font.Fill.ForeColor.RGB = &H60FF10 ' Bluish green.
                 End With
                 
                 oShape.Reflection.Type = msoReflectionType2

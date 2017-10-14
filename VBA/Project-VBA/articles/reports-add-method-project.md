@@ -61,7 +61,7 @@ Sub DeleteAReport()
     
     If ActiveProject.Reports.IsPresent(reportName) Then
         ' To delete the active report, change to another view.
-        ViewApplyEx Name:="&;Gantt Chart"
+        ViewApplyEx Name:="&Gantt Chart"
         
         ActiveProject.Reports(reportName).Delete
     Else

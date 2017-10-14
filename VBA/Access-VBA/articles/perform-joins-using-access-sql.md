@@ -84,7 +84,7 @@ SELECT [Last Name] & ', ' &  [First Name] AS Name,
    GROUP BY [Last Name] & ', ' &  [First Name] 
 ```
 
-Several things occur in the previous SQL statement. The first is the use of the string concatenation operator "&;". This operator allows you to join two or more fields together as one string. The second is the immediate if ( **IIf** ) statement, which checks to see if the total is null. If it is, the statement returns the word "NONE." If the total is not null, the value is returned. The final thing is the **OUTER JOIN** clause. Using the **LEFT OUTER JOIN** preserves the rows in the left table so that you see all customers, even those who do not have invoices.
+Several things occur in the previous SQL statement. The first is the use of the string concatenation operator "&". This operator allows you to join two or more fields together as one string. The second is the immediate if ( **IIf** ) statement, which checks to see if the total is null. If it is, the statement returns the word "NONE." If the total is not null, the value is returned. The final thing is the **OUTER JOIN** clause. Using the **LEFT OUTER JOIN** preserves the rows in the left table so that you see all customers, even those who do not have invoices.
 
  **OUTER JOINs** can be nested inside **INNER JOINs** in a multi-table join, but **INNER JOINs** cannot be nested inside **OUTER JOINs**.
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following code example shows how to create a custom menu with four menu options, each of which calls a macro.
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 The following code example sets up the custom menu when the workbook is opened, and deletes it when the workbook is closed.
 
@@ -23,7 +23,7 @@ Option Explicit
 Private Sub Workbook_BeforeClose(Cancel As Boolean)
    With Application.CommandBars("Worksheet Menu Bar")
       On Error Resume Next
-      .Controls("&;MyFunction").Delete
+      .Controls("&MyFunction").Delete
       On Error GoTo 0
    End With
 End Sub
@@ -40,7 +40,7 @@ Private Sub Workbook_Open()
          before:=.Controls.Count, _
          temporary:=True)
    End With
-   objPopUp.Caption = "&;MyFunction"
+   objPopUp.Caption = "&MyFunction"
    Set objBtn = objPopUp.Controls.Add
    With objBtn
       .Caption = "Formula Entry"

@@ -27,7 +27,7 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 
 The  **CenterFooterPicture** property is read-only, but the properties on it are not all read-only.
 
-It is required that "&;G" is a part of the  **CenterFooter** property string in order for the image to show up in the center footer.
+It is required that "&G" is a part of the  **CenterFooter** property string in order for the image to show up in the center footer.
 
 
 ## Example
@@ -52,7 +52,7 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the center footer. 
- ActiveSheet.PageSetup.CenterFooter = "&;G" 
+ ActiveSheet.PageSetup.CenterFooter = "&G" 
  
 End Sub
 ```

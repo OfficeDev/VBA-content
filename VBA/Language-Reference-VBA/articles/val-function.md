@@ -18,7 +18,7 @@ Returns the numbers contained in a string as a numeric value of appropriate type
  **Val(**_string_**)**
 The required  _string_[argument](vbe-glossary.md) is any valid[string expression](vbe-glossary.md).
  **Remarks**
-The  **Val** function stops reading the string at the first character it can't recognize as part of a number. Symbols and characters that are often considered parts of numeric values, such as dollar signs and commas, are not recognized. However, the function recognizes the radix prefixes `&;O` (for octal) and (for octal) and `&;H` (for hexadecimal). Blanks, tabs, and linefeed characters are stripped from the argument.
+The  **Val** function stops reading the string at the first character it can't recognize as part of a number. Symbols and characters that are often considered parts of numeric values, such as dollar signs and commas, are not recognized. However, the function recognizes the radix prefixes `&O` (for octal) and (for octal) and `&H` (for hexadecimal). Blanks, tabs, and linefeed characters are stripped from the argument.
 The following returns the value 1615198:
 
 
@@ -32,7 +32,7 @@ In the code below,  **Val** returns the decimal value -1 for the hexadecimal val
 
 
 ```vb
-Val("&;HFFFF")
+Val("&HFFFF")
 ```
 
 

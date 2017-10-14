@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Exporting a Chart to a Word Document
 
-This example takes a chart named &;quot;Chart 1&;quot; from Sheet 1 and exports it as a .gif file. Then it inserts the .gif file into an existing Word document named &;quot;Chart Report&;quot; at the bookmarked location named &;quot;ChartReport&;quot;.
+This example takes a chart named 'Chart 1' from Sheet 1 and exports it as a .gif file. Then it inserts the .gif file into an existing Word document named 'Chart Report' at the bookmarked location named 'ChartReport'.
 
  **Sample code provided by:** Dennis Wallentin,[VSTO & .NET & Excel](http://xldennis.wordpress.com/)
 

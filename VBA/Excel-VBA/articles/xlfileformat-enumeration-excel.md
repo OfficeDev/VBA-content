@@ -42,7 +42,7 @@ Specifies the file format when saving the worksheet.
 | **xlIntlMacro**|25|International Macro|
 | **xlOpenDocumentSpreadsheet**|60|OpenDocument Spreadsheet|
 | **xlOpenXMLAddIn**|55|Open XML Add-In|
-| **xlOpenXMLStrictWorkbook**|61 (&;H3D)|Strict Open XML file|
+| **xlOpenXMLStrictWorkbook**|61 (&H3D)|Strict Open XML file|
 | **xlOpenXMLTemplate**|54|Open XML Template|
 | **xlOpenXMLTemplateMacroEnabled**|53|Open XML Template Macro Enabled|
 | **xlOpenXMLWorkbook**|51|Open XML Workbook|

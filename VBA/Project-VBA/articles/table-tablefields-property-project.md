@@ -40,7 +40,7 @@ Sub AutoWrap()
  ActiveProject.TaskTables("Entry").TableFields(fieldNumber _ 
  + 1).AlignData = pjCenter 
  
- TableApply Name:="&;Entry" 
+ TableApply Name:="&Entry" 
 End Sub
 ```
 

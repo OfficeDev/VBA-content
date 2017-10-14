@@ -105,11 +105,11 @@ EndRoutine:
  
 ErrRoutine: 
  
- Debug.Print Err.Number & " (&;H" & Hex(Err.Number) & ")" 
+ Debug.Print Err.Number & " (&H" & Hex(Err.Number) & ")" 
  
  Select Case Err.Number 
  
- Case -2147024809 '&;H80070057 
+ Case -2147024809 '&H80070057 
  
  ' Typically occurs if you set the Position 
  

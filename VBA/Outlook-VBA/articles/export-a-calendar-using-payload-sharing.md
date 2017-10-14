@@ -92,7 +92,7 @@ Exit Sub
  
 ErrRoutine: 
  Select Case Err.Number 
- Case 287 ' &;H0000011F 
+ Case 287 ' &H0000011F 
  ' The user denied access to the Address Book. 
  ' This error occurs if the code is run by an 
  ' untrusted application, and the user chose not to 
@@ -100,7 +100,7 @@ ErrRoutine:
  MsgBox "Access to Outlook was denied by the user.", _ 
  vbOKOnly, _ 
  Err.Number & " - " & Err.Source 
- Case -2147467259 ' &;H80004005 
+ Case -2147467259 ' &H80004005 
  ' Export failed. 
  ' This error typically occurs if the CalendarSharing 
  ' method cannot export the calendar information because 
@@ -108,7 +108,7 @@ ErrRoutine:
  MsgBox Err.Description, _ 
  vbOKOnly, _ 
  Err.Number & " - " & Err.Source 
- Case -2147221233 ' &;H8004010F 
+ Case -2147221233 ' &H8004010F 
  ' Operation failed. 
  ' This error typically occurs if the GetCalendarExporter method 
  ' is called on a folder that doesn't contain calendar items. 

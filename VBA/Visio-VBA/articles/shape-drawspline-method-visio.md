@@ -52,10 +52,10 @@ The  _Flags_ parameter is a bitmask that specifies options for drawing the new s
 
 |**Constant**|**Value**|
 |:-----|:-----|
-| **visSplinePeriodic**|1(&;H1)|
-| **visSplineDoCircles**|2(&;H2)|
-| **visSplineAbrupt**|4(&;H4)|
-| **visSpline1D**|8(&;H8)|
+| **visSplinePeriodic**|1(&H1)|
+| **visSplineDoCircles**|2(&H2)|
+| **visSplineAbrupt**|4(&H4)|
+| **visSpline1D**|8(&H8)|
 If  _Flags_ includes **visSplinePeriodic** and the following conditions are met, the application attempts to draw a periodic spline. Otherwise, Visio draws a non-periodic spline:
 
 

@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Long Data Type
 
-[Long (long integer) variables](vbe-glossary.md) are stored as signed 32-bit (4-byte) numbers ranging in value from -2,147,483,648 to 2,147,483,647. The[type-declaration character](vbe-glossary.md) for **Long** is the ampersand ( **&;** ).
+[Long (long integer) variables](vbe-glossary.md) are stored as signed 32-bit (4-byte) numbers ranging in value from -2,147,483,648 to 2,147,483,647. The[type-declaration character](vbe-glossary.md) for **Long** is the ampersand (**&**).
 
 
