@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoReflectionType Enumeration (Office)
 
-Specifies the type of the  **ReflectionFormat** object.
+Specifies the type of the **ReflectionFormat** object.
 
 
 

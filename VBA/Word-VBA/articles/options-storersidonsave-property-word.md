@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Word stores the random numbers in a table and updates the table after each save. The default for the  **StoreRSIDOnSave** property is **True** . However, RSID information is not saved for HTML documents.
+Word stores the random numbers in a table and updates the table after each save. The default for the **StoreRSIDOnSave** property is **True** . However, RSID information is not saved for HTML documents.
 
-Use the  **[RemovePersonalInformation](document-removepersonalinformation-property-word.md)** property if you want to remove information related to authors and reviewers of a document.
+Use the **[RemovePersonalInformation](document-removepersonalinformation-property-word.md)** property if you want to remove information related to authors and reviewers of a document.
 
 
 ## Example

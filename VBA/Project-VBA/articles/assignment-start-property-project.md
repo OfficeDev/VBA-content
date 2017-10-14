@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Start Property (Project)
 
-Gets or sets the start date of the assignment. Read/write  **Variant**.
+Gets or sets the start date of the assignment. Read/write **Variant**.
 
 
 ## Syntax

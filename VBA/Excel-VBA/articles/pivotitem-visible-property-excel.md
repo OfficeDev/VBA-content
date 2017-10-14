@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.Visible Property (Excel)
 
-Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
+Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 ## Remarks
 
-The  **Visible** property for a PivotTable item is **True** if the item is currently visible in the table.
+The **Visible** property for a PivotTable item is **True** if the item is currently visible in the table.
 
 
 ## See also

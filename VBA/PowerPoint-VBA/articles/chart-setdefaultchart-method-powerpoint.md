@@ -29,7 +29,7 @@ Specifies the name of the chart template that Microsoft Word uses when it create
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required|**Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[XlChartGallery](xlchartgallery-enumeration-powerpoint.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
+| _Name_|Required|**Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special **[XlChartGallery](xlchartgallery-enumeration-powerpoint.md)** constant, **xlBuiltIn**, to specify a built-in chart template.|
 
 ## Example
 

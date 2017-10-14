@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # SignatureSet Object (Office)
 
-A collection of  **Signature** objects that correspond to the digital signature attached to a document.
+A collection of **Signature** objects that correspond to the digital signature attached to a document.
 
 
 ## Remarks
 
-Use the  **Signatures** property of the **Document** object to return a **SignatureSet** collection; for example:
+Use the **Signatures** property of the **Document** object to return a **SignatureSet** collection; for example:
 
 
 ```
 Set sigs = ActiveDocument.Signatures
 ```
 
-You can add a  **Signature** object to a **SignatureSet** collection using the **Add** method and you can return an existing member using the **Item** method. The **AddSignatureLine** method also adds a **Signature** object to the collection. Also see the **Subset** property, which acts as a filter for whether certain **Signature** objects appear in the collection. To remove a **Signature** from a **SignatureSet** collection, use the **Delete** method of the **Signature** object.
+You can add a **Signature** object to a **SignatureSet** collection using the **Add** method and you can return an existing member using the **Item** method. The **AddSignatureLine** method also adds a **Signature** object to the collection. Also see the **Subset** property, which acts as a filter for whether certain **Signature** objects appear in the collection. To remove a **Signature** from a **SignatureSet** collection, use the **Delete** method of the **Signature** object.
 
 
 ## Example
 
-The following example prompts the user to select a digital signature with which to sign the active document in Microsoft Word. To use this example, open a document in Word and pass this function the name of a certificate issuer and the name of a certificate signer that match the  **Issued By** and **Issued To** fields of a digital certificate in the **Digital Certificates** dialog box. This example will test to make sure that the digital signature that the user selects meets certain criteria, such as not having expired, before the new signature is committed to the disk.
+The following example prompts the user to select a digital signature with which to sign the active document in Microsoft Word. To use this example, open a document in Word and pass this function the name of a certificate issuer and the name of a certificate signer that match the **Issued By** and **Issued To** fields of a digital certificate in the **Digital Certificates** dialog box. This example will test to make sure that the digital signature that the user selects meets certain criteria, such as not having expired, before the new signature is committed to the disk.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathScrSubSup.Sub Property (Word)
 
-Returns an  **[OMath](omath-object-word.md)** object that represents the subscript for a subscript-superscript object. Read-only.
+Returns an **[OMath](omath-object-word.md)** object that represents the subscript for a subscript-superscript object. Read-only.
 
 
 ## Syntax

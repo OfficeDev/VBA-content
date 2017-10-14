@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Style Property (Word)
 
-Returns or sets a  **MsoShadowType** that represents the type of shadow formatting to apply to a shape. Read/write.
+Returns or sets a **MsoShadowType** that represents the type of shadow formatting to apply to a shape. Read/write.
 
 
 ## Syntax

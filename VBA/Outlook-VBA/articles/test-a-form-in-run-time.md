@@ -19,9 +19,9 @@ You cannot test forms that you customize with form regions from inside Outlook. 
 ## Forms customized with form pages
 
 
-1. To switch the form between design mode and run mode (that is, the way the form appears when it is used) do the following. In the Forms Designer, on the  **Developer** tab, in the **Form** group, click **Run This Form**.
+1. To switch the form between design mode and run mode (that is, the way the form appears when it is used) do the following. In the Forms Designer, on the **Developer** tab, in the **Form** group, click **Run This Form**.
     
-     **Note**  You can test the form outside the Microsoft Outlook design environment by opening a new instance of the form. 
+    **Note**  You can test the form outside the Microsoft Outlook design environment by opening a new instance of the form. 
 2. Type information in the form, send or post it, and then open the form to make sure that it behaves as expected.
     
 

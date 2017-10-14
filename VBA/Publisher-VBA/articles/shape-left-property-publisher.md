@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.Left Property (Publisher)
 
-Returns or sets a  **Variant** indicating the distance from the left edge of the page to the leftmost edge of the specified shape. Numeric values are in points; all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read/write.
+Returns or sets a **Variant** indicating the distance from the left edge of the page to the leftmost edge of the specified shape. Numeric values are in points; all other values are in any measurement supported by Publisher (for example, "2.5 in"). Read/write.
 
 
 ## Syntax
 
  _expression_. **Left**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Example

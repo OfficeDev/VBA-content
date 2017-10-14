@@ -50,6 +50,6 @@ Indicates the color that is specified for a category or a font in a view.
 
 Used by the [Color](category-color-property-outlook.md) property of the[Category Object (Outlook)](category-object-outlook.md), and the [ExtendedColor](viewfont-extendedcolor-property-outlook.md) property of the[ViewFont Object (Outlook)](viewfont-object-outlook.md).
 
-The color constants provided here are approximations of the actual colors used by the  **Category** object. Use the[CategoryBorderColor](category-categorybordercolor-property-outlook.md), [CategoryGradientBottomColor](category-categorygradientbottomcolor-property-outlook.md), and [CategoryGradientTopColor](category-categorygradienttopcolor-property-outlook.md) properties to retrieve the **OLE_COLOR** color values that are used to represent the **Category** object, after setting the **Color** property to the appropriate constant.
+The color constants provided here are approximations of the actual colors used by the **Category** object. Use the[CategoryBorderColor](category-categorybordercolor-property-outlook.md), [CategoryGradientBottomColor](category-categorygradientbottomcolor-property-outlook.md), and [CategoryGradientTopColor](category-categorygradienttopcolor-property-outlook.md) properties to retrieve the **OLE_COLOR** color values that are used to represent the **Category** object, after setting the **Color** property to the appropriate constant.
 
 

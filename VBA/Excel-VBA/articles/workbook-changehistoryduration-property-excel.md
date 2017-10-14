@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ChangeHistoryDuration Property (Excel)
 
-Returns or sets the number of days shown in the shared workbook's change history. Read/write  **Long** .
+Returns or sets the number of days shown in the shared workbook's change history. Read/write **Long** .
 
 
 ## Syntax

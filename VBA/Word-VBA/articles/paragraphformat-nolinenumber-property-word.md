@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[LineNumbering](pagesetup-linenumbering-property-word.md)** property of the **[PageSetup](pagesetup-object-word.md)** object to turn on line numbering.
+Use the **[LineNumbering](pagesetup-linenumbering-property-word.md)** property of the **[PageSetup](pagesetup-object-word.md)** object to turn on line numbering.
 
 
 ## See also

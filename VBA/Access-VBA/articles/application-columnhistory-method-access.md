@@ -31,7 +31,7 @@ Gets the history of values that have been stored in a Memo field.
 |:-----|:-----|:-----|:-----|
 | _TableName_|Required|**String**|The name of the table that contains the Append Only field.|
 | _ColumnName_|Required|**String**|The name of the field to display the history for.|
-| _queryString_|Required|**String**|A  **String** used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
+| _queryString_|Required|**String**|A **String** used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
 
 ### Return Value
 
@@ -40,7 +40,7 @@ String
 
 ## Remarks
 
-A Memo field's  **AppendOnly** property must be set to **True** in order for Access to store the change history for the field.
+A Memo field's **AppendOnly** property must be set to **True** in order for Access to store the change history for the field.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # RulerGuides.Add Method (Publisher)
 
-Adds a new ruler guide to the specified  **RulerGuides** collection.
+Adds a new ruler guide to the specified **RulerGuides** collection.
 
 
 ## Syntax
 
- _expression_. **Add**( **_Position_**,  **_Type_**)
+ _expression_. **Add**( **_Position_**, **_Type_**)
 
- _expression_A variable that represents a  **RulerGuides** object.
+ _expression_A variable that represents a **RulerGuides** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Adds a new ruler guide to the specified  **RulerGuides** collection.
 
 ## Remarks
 
-Type can be one of these  **PbRulerGuideType** constants.
+Type can be one of these **PbRulerGuideType** constants.
 
 
 

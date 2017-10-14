@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 ## access key
 
-A key pressed while holding down the ALT key that allows the user to open a menu, carry out a command, select an object, or move to an object. For example, ALT+F opens the  **File** menu.
+A key pressed while holding down the ALT key that allows the user to open a menu, carry out a command, select an object, or move to an object. For example, ALT+F opens the **File** menu.
 
 
 ## ActiveX control
@@ -80,17 +80,17 @@ A bit-by-bit comparison between identically positioned bits in two numeric expre
 
 ## Boolean expression
 
-An expression that evaluates to either  **True** or **False**.
+An expression that evaluates to either **True** or **False**.
 
 
 ## Boolean data type
 
-A data type with only two possible values,  **True** (-1) or **False** (0). **Boolean** variables are stored as 16-bit (2-byte) numbers.
+A data type with only two possible values, **True** (-1) or **False** (0). **Boolean** variables are stored as 16-bit (2-byte) numbers.
 
 
 ## bound control
 
-A data-aware control that can provide access to a specific field or fields in a database through a  **Data** control. A data-aware control is typically bound to a **Data** control through its **DataSource** and **DataField** properties. When a **Data** control moves from one record to the next, all bound controls connected to the **Data** control change to display data from fields in the current record. When users change data in a bound control and then move to a different record, the changes are automatically saved in the database.
+A data-aware control that can provide access to a specific field or fields in a database through a **Data** control. A data-aware control is typically bound to a **Data** control through its **DataSource** and **DataField** properties. When a **Data** control moves from one record to the next, all bound controls connected to the **Data** control change to display data from fields in the current record. When users change data in a bound control and then move to a different record, the changes are automatically saved in the database.
 
 
 ## break mode
@@ -102,11 +102,11 @@ Temporary suspension of program execution in the development environment. In bre
     
 - Press CTRL+BREAK during program execution.
     
-- Encounter a  **Stop** statement or untrapped run-time error during program execution.
+- Encounter a **Stop** statement or untrapped run-time error during program execution.
     
-- Add a  **Break When True** watch expression. Execution stops when the value of the watch changes and evaluates to **True**.
+- Add a **Break When True** watch expression. Execution stops when the value of the watch changes and evaluates to **True**.
     
-- Add a  **Break When Changed** watch expression. Execution stops when the value of the watch changes.
+- Add a **Break When Changed** watch expression. Execution stops when the value of the watch changes.
     
 
 
@@ -188,12 +188,12 @@ The period during which source code is translated to executable code.
 
 ## conditional compiler constant
 
-A Visual Basic identifier that is defined using the  **#Const** compiler directive or defined in the host application and used by other compiler directives to determine when or if certain blocks of Visual Basic code are compiled.
+A Visual Basic identifier that is defined using the **#Const** compiler directive or defined in the host application and used by other compiler directives to determine when or if certain blocks of Visual Basic code are compiled.
 
 
 ## constant
 
-A named item that retains a constant value throughout the execution of a program. A constant can be a string or numeric literal, another constant, or any combination that includes arithmetic or logical operators except  **Is** and exponentiation. Each host application can define its own set of constants. Additional constants can be defined by the user with the **Const** statement. You can use constants anywhere in your code in place of actual values.
+A named item that retains a constant value throughout the execution of a program. A constant can be a string or numeric literal, another constant, or any combination that includes arithmetic or logical operators except **Is** and exponentiation. Each host application can define its own set of constants. Additional constants can be defined by the user with the **Const** statement. You can use constants anywhere in your code in place of actual values.
 
 
 ## container
@@ -218,7 +218,7 @@ A data type with a range of -922,337,203,685,477.5808 to 922,337,203,685,477.580
 
 ## data type
 
-The characteristic of a variable that determines what kind of data it can hold. Data types include  **Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Decimal**, **Single**, **Double**, **Date**, **String**, **Object**, **Variant** (default), and user-defined types, as well as specific types of objects.
+The characteristic of a variable that determines what kind of data it can hold. Data types include **Byte**, **Boolean**, **Integer**, **Long**, **Currency**, **Decimal**, **Single**, **Double**, **Date**, **String**, **Object**, **Variant** (default), and user-defined types, as well as specific types of objects.
 
 
 ## Date data type
@@ -242,7 +242,7 @@ For example,  `#12/31/92#` is the date literal that represents December 31, 1992
 
 ## date separators
 
-Characters used to separate the day, month, and year when date values are formatted. The characters are determined by system settings or by the  **Format** function.
+Characters used to separate the day, month, and year when date values are formatted. The characters are determined by system settings or by the **Format** function.
 
 
 ## DBCS
@@ -257,9 +257,9 @@ An established protocol for exchanging data through active links between applica
 
 ## Decimal data type
 
-A data type that contains decimal numbers scaled by a power of 10. For zero-scaled numbers, that is, numbers with no decimal places, the range is +/-79,228,162,514,264,337,593,543,950,335. For numbers with 28 decimal places the range is +/-7.9228162514264337593543950335. The smallest non-zero number that can be represented as a  **Decimal** is 0.0000000000000000000000000001.
+A data type that contains decimal numbers scaled by a power of 10. For zero-scaled numbers, that is, numbers with no decimal places, the range is +/-79,228,162,514,264,337,593,543,950,335. For numbers with 28 decimal places the range is +/-7.9228162514264337593543950335. The smallest non-zero number that can be represented as a **Decimal** is 0.0000000000000000000000000001.
 
-Note that at this time the  **Decimal** data type can only be used within a **Variant**. You cannot declare a variable to be of type **Decimal**. You can, however, create a **Variant** whose subtype is **Decimal** using the **CDec** function.
+Note that at this time the **Decimal** data type can only be used within a **Variant**. You cannot declare a variable to be of type **Decimal**. You can, however, create a **Variant** whose subtype is **Decimal** using the **CDec** function.
 
 
 ## declaration
@@ -304,17 +304,17 @@ A data type that holds double-precision floating-point numbers as 64-bit numbers
 
 ## Empty
 
-Indicates that no beginning value has been assigned to a  **Variant** variable. An **Empty** variable is represented as 0 in a numeric context or a zero-length string ("") in a string context.
+Indicates that no beginning value has been assigned to a **Variant** variable. An **Empty** variable is represented as 0 in a numeric context or a zero-length string ("") in a string context.
 
 
 ## error number
 
-A whole number in the range 0 - 65,535 that corresponds to the  **Number** property setting of the **Err** object. When combined with the **Description** property setting of the **Err** object, this number represents a particular error message.
+A whole number in the range 0 - 65,535 that corresponds to the **Number** property setting of the **Err** object. When combined with the **Description** property setting of the **Err** object, this number represents a particular error message.
 
 
 ## event source object
 
-An object that is the source of events that occur in response to an action. An event source object is returned by a property. For example, the  **CommandBarEvents** property returns the **CommandBarEvents** object.
+An object that is the source of events that occur in response to an action. An event source object is returned by a property. For example, the **CommandBarEvents** property returns the **CommandBarEvents** object.
 
 
 ## executable file
@@ -329,7 +329,7 @@ A combination of keywords, operators, variables, and constants that yields a str
 
 ## file number
 
-Number used in the  **Open** statement to open a file. Use file numbers in the range 1-255, inclusive, for files not accessible to other applications. Use file numbers in the range 256-511 for files accessible from other applications.
+Number used in the **Open** statement to open a file. Use file numbers in the range 1-255, inclusive, for files not accessible to other applications. Use file numbers in the range 256-511 for files accessible from other applications.
 
 
 ## focus
@@ -349,7 +349,7 @@ A file in a Visual Basic project with an .frm file name extension that can conta
 
 ## Function procedure
 
-A procedure that performs a specific task within a program and returns a value. A  **Function** procedure begins with a **Function** statement and ends with an **End Function** statement.
+A procedure that performs a specific task within a program and returns a value. A **Function** procedure begins with a **Function** statement and ends with an **End Function** statement.
 
 
 ## general procedure
@@ -359,7 +359,7 @@ A procedure that must be explicitly called by another procedure. In contrast, an
 
 ## graphics method
 
-A method that operates on an object such as a  **Form**, **PictureBox**, or **Printer**, and performs run-time drawing operations such as animation or simulation. The graphics methods are **Circle**, **Cls**, **Line**, **PaintPicture**, **Point**, **Print**, and **PSet**.
+A method that operates on an object such as a **Form**, **PictureBox**, or **Printer**, and performs run-time drawing operations such as animation or simulation. The graphics methods are **Circle**, **Cls**, **Line**, **PaintPicture**, **Point**, **Print**, and **PSet**.
 
 
 ## host application
@@ -389,12 +389,12 @@ An application object that is a type of custom control, such as a Microsoft Exce
 
 ## Integer data type
 
-A data type that holds integer variables stored as 2-byte whole numbers in the range -32,768 to 32,767. The  **Integer** data type is also used to represent enumerated values. The percent sign ( **%** ) type-declaration character represents an **Integer** in Visual Basic.
+A data type that holds integer variables stored as 2-byte whole numbers in the range -32,768 to 32,767. The **Integer** data type is also used to represent enumerated values. The percent sign ( **%** ) type-declaration character represents an **Integer** in Visual Basic.
 
 
 ## intrinsic constants
 
-A constant provided by an application. Visual Basic constants are listed in the object library and can be viewed with the  **Object Browser**. Because you can't disable intrinsic constants, you can't create a user-defined constant with the same name.
+A constant provided by an application. Visual Basic constants are listed in the object library and can be viewed with the **Object Browser**. Because you can't disable intrinsic constants, you can't create a user-defined constant with the same name.
 
 
 ## keyword
@@ -431,7 +431,7 @@ A window frame containing multiple windows that have been linked together.
 
 The set of information that corresponds to a given language and country/region. The code locale setting affects the language of terms such as keywords and defines locale-specific settings such as the decimal and list separators, date formats, and character sorting order.
 
-The system locale setting affects the way locale-aware functionality behaves, for example, when you display numbers or convert strings to dates. You set the system locale using the  **Control Panel** utilities provided by the operating system.
+The system locale setting affects the way locale-aware functionality behaves, for example, when you display numbers or convert strings to dates. You set the system locale using the **Control Panel** utilities provided by the operating system.
 
 Although the code locale and system locale are generally set to the same setting, they may differ in some situations. For example, in Visual Basic, Standard Edition and Visual Basic, Professional Edition, the code is not translated from English-U.S. The system locale can be set to the user's language and country/region, but the code locale is always set to English-U.S. and can't be changed. In this case, the English-U.S. separators, format placeholders, and sorting order are used.
 
@@ -448,12 +448,12 @@ A 4-byte integer ranging in value from -2,147,483,648 to 2,147,483,647. The ampe
 
 ## margin indicator
 
-An icon displayed in the  **Margin Indicator** bar in the **Code** window. Margin indicators provide visual cues during code editing.
+An icon displayed in the **Margin Indicator** bar in the **Code** window. Margin indicators provide visual cues during code editing.
 
 
 ## MDI child
 
-A form contained within an MDI form in a multiple-document interface (MDI) application. To create a child form, set the  **MDIChild** property of the MDI form to **True**.
+A form contained within an MDI form in a multiple-document interface (MDI) application. To create a child form, set the **MDIChild** property of the MDI form to **True**.
 
 
 ## MDI form
@@ -488,7 +488,7 @@ Describes code in the Declarations section of a module. Any code outside a proce
 
 ## module variable
 
-A variable declared outside  **Function**, **Sub**, or **Property** procedure code. Module variables must be declared outside any procedures in the module. They exist while the module is loaded and are visible in all procedures in the module.
+A variable declared outside **Function**, **Sub**, or **Property** procedure code. Module variables must be declared outside any procedures in the module. They exist while the module is loaded and are visible in all procedures in the module.
 
 
 ## named argument
@@ -512,7 +512,7 @@ Note that the named arguments don't have to appear in the normal positional orde
 
 ## Null
 
-A value indicating that a variable contains no valid data.  **Null** is the result of an explicit assignment of **Null** to a variable or any operation between expressions that contain **Null**.
+A value indicating that a variable contains no valid data. **Null** is the result of an explicit assignment of **Null** to a variable or any operation between expressions that contain **Null**.
 
 
 ## numeric data type
@@ -537,7 +537,7 @@ A combination of code and data that can be treated as a unit, for example, a con
 
 ## Object box
 
-A list box at the upper-left corner of the  **Code** window that lists the form and controls in the form to which the code is attached, or a list box located at the top of the **Properties** window that lists the form and its controls.
+A list box at the upper-left corner of the **Code** window that lists the form and controls in the form to which the code is attached, or a list box located at the top of the **Properties** window that lists the form and its controls.
 
 
 ## Object Browser
@@ -547,17 +547,17 @@ A dialog box in which you can examine the contents of an object library to get i
 
 ## Object data type
 
-A data type that represents any  **Object** reference. **Object** variables are stored as 32-bit (4-byte) addresses that refer to objects.
+A data type that represents any **Object** reference. **Object** variables are stored as 32-bit (4-byte) addresses that refer to objects.
 
 
 ## object expression
 
-An expression that specifies a particular object and can include any of the object's containers. For example, an application can have an  **Application** object that contains a **Document** object that contains a **Text** object.
+An expression that specifies a particular object and can include any of the object's containers. For example, an application can have an **Application** object that contains a **Document** object that contains a **Text** object.
 
 
 ## object library
 
-A file with the .olb extension that provides information to Automation controllers (like Visual Basic) about available objects. You can use the  **Object Browser** to examine the contents of an object library to get information about the objects provided.
+A file with the .olb extension that provides information to Automation controllers (like Visual Basic) about available objects. You can use the **Object Browser** to examine the contents of an object library to get information about the objects provided.
 
 
 ## object module
@@ -567,7 +567,7 @@ A module that contains code specific to an object, for example, class module, fo
 
 ## object type
 
-A type of object exposed by an application through Automation, for example,  **Application**, **File**, **Range**, and **Sheet**. Use the **Object Browser** or refer to the application's documentation for a complete listing of available objects.
+A type of object exposed by an application through Automation, for example, **Application**, **File**, **Range**, and **Sheet**. Use the **Object Browser** or refer to the application's documentation for a complete listing of available objects.
 
 
 ## object variable
@@ -612,12 +612,12 @@ Variables that are visible only to the module in which they are declared.
 
 ## procedure
 
-A named sequence of statements executed as a unit. For example,  **Function**, **Property**, and **Sub** are types of procedures. A procedure name is always defined at module level. All executable code must be contained in a procedure. Procedures can't be nested within other procedures.
+A named sequence of statements executed as a unit. For example, **Function**, **Property**, and **Sub** are types of procedures. A procedure name is always defined at module level. All executable code must be contained in a procedure. Procedures can't be nested within other procedures.
 
 
 ## Procedure box
 
-A list box at the upper-right corner of the  **Code** window and the **Debug** window that displays the procedures recognized for the object displayed in the **Object** box.
+A list box at the upper-right corner of the **Code** window and the **Debug** window that displays the procedures recognized for the object displayed in the **Object** box.
 
 
 ## procedure call
@@ -627,7 +627,7 @@ A statement in code that tells Visual Basic to execute a procedure.
 
 ## procedure level
 
-Describes statements located within a  **Function**, **Property**, or **Sub** procedure. Declarations are usually listed first, followed by assignments and other executable code.
+Describes statements located within a **Function**, **Property**, or **Sub** procedure. Declarations are usually listed first, followed by assignments and other executable code.
 
 Note that module-level code resides outside a procedure block.
 
@@ -639,12 +639,12 @@ A set of modules.
 
 ## Project window
 
-A window that displays a list of the form, class, and standard modules; the resource file; and references in your project. Files with .ocx and .vbx file name extensions aren't displayed in the  **Project** window.
+A window that displays a list of the form, class, and standard modules; the resource file; and references in your project. Files with .ocx and .vbx file name extensions aren't displayed in the **Project** window.
 
 
 ## Properties window
 
-A window used to display or change properties of a selected form or control at design time. Some custom controls have customized  **Properties** windows.
+A window used to display or change properties of a selected form or control at design time. Some custom controls have customized **Properties** windows.
 
 
 ## property
@@ -654,22 +654,22 @@ A named attribute of an object. Properties define object characteristics such as
 
 ## Property procedure
 
-A procedure that creates and manipulates properties for a class module. A  **Property** procedure begins with a **Property Let**, **Property Get**, or **Property Set** statement and ends with an **End Property** statement.
+A procedure that creates and manipulates properties for a class module. A **Property** procedure begins with a **Property Let**, **Property Get**, or **Property Set** statement and ends with an **End Property** statement.
 
 
 ## Public
 
-Variables declared using the  **Public** statement are visible to all procedures in all modules in all applications unless **Option Private Module** is in effect. In that case, the variables are public only within the project in which they reside.
+Variables declared using the **Public** statement are visible to all procedures in all modules in all applications unless **Option Private Module** is in effect. In that case, the variables are public only within the project in which they reside.
 
 
 ## referenced project
 
-The project you directly create a link to from the current project you are working on. A project referenced by one of the current project's directly referenced projects is called an indirectly referenced project. Its  **Public** variables are not accessible to the current project except through qualification with its project name. Any combination of direct and indirect references between projects is valid as long as they do not result in a complete cycle.
+The project you directly create a link to from the current project you are working on. A project referenced by one of the current project's directly referenced projects is called an indirectly referenced project. Its **Public** variables are not accessible to the current project except through qualification with its project name. Any combination of direct and indirect references between projects is valid as long as they do not result in a complete cycle.
 
 
 ## referencing project
 
-The current project. How you create a link to a project depends on the host application. For example, to directly reference a project in Microsoft Excel, select the project from the  **References** dialog box of the **Tools** menu. **Public** variables in a directly referenced project are visible to the directly referencing project, but **Public** variables in a directly referencing project are not visible to a directly referenced project.
+The current project. How you create a link to a project depends on the host application. For example, to directly reference a project in Microsoft Excel, select the project from the **References** dialog box of the **Tools** menu. **Public** variables in a directly referenced project are visible to the directly referencing project, but **Public** variables in a directly referencing project are not visible to a directly referenced project.
 
 
 ## registry
@@ -694,12 +694,12 @@ The time during which code is running. During run time, you can't edit the code.
 
 ## scope
 
-Defines the visibility of a variable, procedure, or object. For example, a variable declared as  **Public** is visible to all procedures in all modules in a directly referencing project unless **Option Private Module** is in effect. When **Option Private Module** is in effect, the module itself is private and therefore not visible to referencing projects. Variables declared in a procedure are visible only within the procedure and lose their value between calls unless they are declared **Static**.
+Defines the visibility of a variable, procedure, or object. For example, a variable declared as **Public** is visible to all procedures in all modules in a directly referencing project unless **Option Private Module** is in effect. When **Option Private Module** is in effect, the module itself is private and therefore not visible to referencing projects. Variables declared in a procedure are visible only within the procedure and lose their value between calls unless they are declared **Static**.
 
 
 ## seed
 
-An initial value used to generate pseudorandom numbers. For example, the  **Randomize** statement creates a seed number used by the **Rnd** function to create unique pseudorandom number sequences.
+An initial value used to generate pseudorandom numbers. For example, the **Randomize** statement creates a seed number used by the **Rnd** function to create unique pseudorandom number sequences.
 
 
 ## Single data type
@@ -719,7 +719,7 @@ A fixed amount of memory used by Visual Basic to preserve local variables and ar
 
 ## standard module
 
-A module containing only procedure, type, and data declarations and definitions. Module-level declarations and definitions in a standard module are  **Public** by default. A standard module is referred to as a code module in earlier versions of Visual Basic.
+A module containing only procedure, type, and data declarations and definitions. Module-level declarations and definitions in a standard module are **Public** by default. A standard module is referred to as a code module in earlier versions of Visual Basic.
 
 
 ## statement
@@ -729,22 +729,22 @@ A syntactically complete unit that expresses one kind of action, declaration, or
 
 ## string comparison
 
-A comparison of two sequences of characters. Use  **Option Compare** to specify binary or text comparison. In English-U.S., binary comparisons are case sensitive; text comparisons are not.
+A comparison of two sequences of characters. Use **Option Compare** to specify binary or text comparison. In English-U.S., binary comparisons are case sensitive; text comparisons are not.
 
 
 ## string constant
 
-Any constant (defined using the  **Const** keyword) consisting of a sequence of contiguous characters interpreted as the characters themselves rather than as a numeric value.
+Any constant (defined using the **Const** keyword) consisting of a sequence of contiguous characters interpreted as the characters themselves rather than as a numeric value.
 
 
 ## String data type
 
-A data type consisting of a sequence of contiguous characters that represent the characters themselves rather than their numeric values. A  **String** can include letters, numbers, spaces, and punctuation. The **String** data type can store fixed-length strings ranging in length from 0 to approximately 63K characters and dynamic strings ranging in length from 0 to approximately 2 billion characters. The dollar sign ( **$** ) type-declaration character represents a **String** in Visual Basic.
+A data type consisting of a sequence of contiguous characters that represent the characters themselves rather than their numeric values. A **String** can include letters, numbers, spaces, and punctuation. The **String** data type can store fixed-length strings ranging in length from 0 to approximately 63K characters and dynamic strings ranging in length from 0 to approximately 2 billion characters. The dollar sign ( **$** ) type-declaration character represents a **String** in Visual Basic.
 
 
 ## string expression
 
-Any expression that evaluates to a sequence of contiguous characters. Elements of a string expression can include a function that returns a string, a string literal, a string constant, a string variable, a string  **Variant**, or a function that returns a string **Variant** ( **VarType** 8).
+Any expression that evaluates to a sequence of contiguous characters. Elements of a string expression can include a function that returns a string, a string literal, a string constant, a string variable, a string **Variant**, or a function that returns a string **Variant** ( **VarType** 8).
 
 
 ## string literal
@@ -754,7 +754,7 @@ Any expression consisting of a sequence of contiguous characters surrounded by q
 
 ## Sub procedure
 
-A procedure that performs a specific task within a program, but returns no explicit value. A  **Sub** procedure begins with a **Sub** statement and ends with an **End Sub** statement.
+A procedure that performs a specific task within a program, but returns no explicit value. A **Sub** procedure begins with a **Sub** statement and ends with an **End Sub** statement.
 
 
 ## syntax checking
@@ -788,7 +788,7 @@ A unit of screen measurement equal to 1/20 point. A twip is a screen-independent
 
 ## type-declaration character
 
-A character appended to a variable name indicating the variable's data type. By default, variables are of type  **Variant** unless a corresponding **Def**_type_ statement is present in the module.
+A character appended to a variable name indicating the variable's data type. By default, variables are of type **Variant** unless a corresponding **Def**_type_ statement is present in the module.
 
 
 ## type library
@@ -808,7 +808,7 @@ The universal date format is  `#yyyy-mm-dd hh:mm:ss#`. However, both the date co
 
 ## user-defined type
 
-Any data type defined using the  **Type** statement. User-defined data types can contain one or more elements of any data type. Arrays of user-defined and other data types are created using the **Dim** statement. Arrays of any type can be included within user-defined types.
+Any data type defined using the **Type** statement. User-defined data types can contain one or more elements of any data type. Arrays of user-defined and other data types are created using the **Dim** statement. Arrays of any type can be included within user-defined types.
 
 
 ## variable
@@ -820,17 +820,17 @@ Variable names must begin with an alphabetic character, must be unique within th
 
 ## Variant data type
 
-A special data type that can contain numeric, string, or date data as well as user-defined types and the special values  **Empty** and **Null**. The **Variant** data type has a numeric storage size of 16 bytes and can contain data up to the range of a **Decimal**, or a character storage size of 22 bytes (plus string length), and can store any character text. The **VarType** function defines how the data in a **Variant** is treated. All variables become **Variant** data types if not explicitly declared as some other data type.
+A special data type that can contain numeric, string, or date data as well as user-defined types and the special values **Empty** and **Null**. The **Variant** data type has a numeric storage size of 16 bytes and can contain data up to the range of a **Decimal**, or a character storage size of 22 bytes (plus string length), and can store any character text. The **VarType** function defines how the data in a **Variant** is treated. All variables become **Variant** data types if not explicitly declared as some other data type.
 
 
 ## variant expression
 
-Any expression that can evaluate to numeric, string, or date data, as well as the special values  **Empty** and **Null**.
+Any expression that can evaluate to numeric, string, or date data, as well as the special values **Empty** and **Null**.
 
 
 ## watch expression
 
-A user-defined expression that enables you to observe the behavior of a variable or expression. Watch expressions appear in the Watch window of the Visual Basic Editor and are automatically updated when you enter break mode. The  **Watch** window displays the value of an expression within a given context. Watch expressions are not saved with your code.
+A user-defined expression that enables you to observe the behavior of a variable or expression. Watch expressions appear in the Watch window of the Visual Basic Editor and are automatically updated when you enter break mode. The **Watch** window displays the value of an expression within a given context. Watch expressions are not saved with your code.
 
 
 ## z-order

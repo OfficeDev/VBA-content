@@ -16,14 +16,14 @@ When you save a form that is customized with form regions, you must save each fo
 ## Forms customized with form pages
 
 
-1. Click the  **File** tab.
+1. Click the **File** tab.
     
-2. Click  **Save As**. 
+2. Click **Save As**. 
     
-3. In the  **File name** box, type a name for the form.
+3. In the **File name** box, type a name for the form.
     
-4. In the  **Save as type** box, click a file type.
+4. In the **Save as type** box, click a file type.
     
-    To save the form as an Outlook template, click  **Outlook Template**, and then save the form in the Templates folder. 
+    To save the form as an Outlook template, click **Outlook Template**, and then save the form in the Templates folder. 
     
 

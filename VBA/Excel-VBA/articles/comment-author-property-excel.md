@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Author Property (Excel)
 
-Returns or sets the author of the comment. Read-only  **String** .
+Returns or sets the author of the comment. Read-only **String** .
 
 
 ## Syntax

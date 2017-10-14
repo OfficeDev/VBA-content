@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MediaBookmarks.Item Method (PowerPoint)
 
-Returns the specified  **MediaBookmark**.
+Returns the specified **MediaBookmark**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns the specified  **MediaBookmark**.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**[INT]**|The position of the  **MediaBookmark**.|
+| _Index_|Required|**[INT]**|The position of the **MediaBookmark**.|
 
 ### Return Value
 

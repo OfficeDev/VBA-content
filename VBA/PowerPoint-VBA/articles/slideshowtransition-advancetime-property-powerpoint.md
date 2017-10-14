@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-To put the slide interval settings into effect for the entire slide show, set the  **[AdvanceMode](slideshowsettings-advancemode-property-powerpoint.md)** property of the **[SlideShowSettings](slideshowsettings-object-powerpoint.md)** object to **ppSlideShowUseSlideTimings**.
+To put the slide interval settings into effect for the entire slide show, set the **[AdvanceMode](slideshowsettings-advancemode-property-powerpoint.md)** property of the **[SlideShowSettings](slideshowsettings-object-powerpoint.md)** object to **ppSlideShowUseSlideTimings**.
 
 
 ## Example

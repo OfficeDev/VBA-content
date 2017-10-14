@@ -20,7 +20,7 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
  _expression_. **ZOrder**( **_ZOrderCmd_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The ZOrderCmd parameter can be one of the  **MsoZOrderCmd** constants declared in the Microsoft Office type library and shown in the following table.
+The ZOrderCmd parameter can be one of the **MsoZOrderCmd** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

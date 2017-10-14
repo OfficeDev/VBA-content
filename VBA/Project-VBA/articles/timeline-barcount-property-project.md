@@ -8,7 +8,7 @@ ms.prod: project-server
 
 # Timeline.BarCount Property (Project)
 
-Indicates the number of bars in a  **Timeline** view. Introduced in Office 2016.
+Indicates the number of bars in a **Timeline** view. Introduced in Office 2016.
 
 
 ## Syntax

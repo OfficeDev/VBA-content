@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.LinkFormat Property (Excel)
 
-Returns a  **[LinkFormat](linkformat-object-excel.md)** object that contains linked OLE object properties. Read-only.
+Returns a **[LinkFormat](linkformat-object-excel.md)** object that contains linked OLE object properties. Read-only.
 
 
 ## Syntax

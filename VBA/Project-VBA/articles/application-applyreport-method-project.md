@@ -37,7 +37,7 @@ Displays the specified report.
 
 ## Remarks
 
-The  **ApplyReport** method can be applied to custom reports and to built-in reports, such as Project Overview.
+The **ApplyReport** method can be applied to custom reports and to built-in reports, such as Project Overview.
 
 
 ## Example

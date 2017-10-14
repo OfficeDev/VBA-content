@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TablesOfFigures.Add Method (Word)
 
-Returns a  **TableOfFigures** object that represents a table of figures added to a document.
+Returns a **TableOfFigures** object that represents a table of figures added to a document.
 
 
 ## Syntax
@@ -33,8 +33,8 @@ Returns a  **TableOfFigures** object that represents a table of figures added to
 | _Caption_|Optional| **Variant**|The label that identifies the items you want to include in the table of figures. Corresponds to the \c switch for a Table of Contents (TOC) field. The default value is "Figure."|
 | _IncludeLabel_|Optional| **Variant**| **True** to include the caption label and caption number in the table of figures. The default value is **True** .|
 | _UseHeadingStyles_|Optional| **Variant**| **True** to use built-in heading styles to create the table of figures. The default value is **False** .|
-| _UpperHeadingLevel_|Optional| **Variant**|The starting heading level for the table of figures, if UseHeadingStyles is set to  **True** . Corresponds to the starting value used with the \o switch for a Table of Contents (TOC) field. The default value is 1.|
-| _LowerHeadingLevel_|Optional| **Variant**|The ending heading level for the table of figures, if UseHeadingStyles is set to  **True** . Corresponds to the ending value used with the \o switch for a Table of Contents (TOC) field. The default value is 9.|
+| _UpperHeadingLevel_|Optional| **Variant**|The starting heading level for the table of figures, if UseHeadingStyles is set to **True** . Corresponds to the starting value used with the \o switch for a Table of Contents (TOC) field. The default value is 1.|
+| _LowerHeadingLevel_|Optional| **Variant**|The ending heading level for the table of figures, if UseHeadingStyles is set to **True** . Corresponds to the ending value used with the \o switch for a Table of Contents (TOC) field. The default value is 9.|
 | _UseFields_|Optional| **Variant**| **True** to use Table of Contents Entry (TC) fields to create the table of figures. Use the **MarkEntry** method to mark entries you want to include in the table of figures. The default value is **False** .|
 | _TableID_|Optional| **Variant**|A one-letter identifier that's used to build a table of figures from Table of Contents Entry (TC) fields. Corresponds to the \f switch for a Table of Contents (TOC) field. For example, "i" builds a table of figures for an illustration.|
 | _RightAlignPageNumbers_|Optional| **Variant**| **True** align page numbers with the right margin in the table of figures. The default value is **True** .|

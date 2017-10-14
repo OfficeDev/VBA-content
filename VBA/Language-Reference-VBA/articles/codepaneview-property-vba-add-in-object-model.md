@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a value indicating whether the [code pane](vbe-glossary.md) is in Procedure view or Full Module view. Read-only.
  **Return Values**
-The  **CodePaneView** property return values are:
+The **CodePaneView** property return values are:
 
 
 |**Constant**|**Description**|

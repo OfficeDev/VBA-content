@@ -18,9 +18,9 @@ Adds list items to a Web list box control.
 
 ## Syntax
 
- _expression_. **AddItem**( **_Item_**,  **_Index_**,  **_SelectState_**,  **_ItemValue_**)
+ _expression_. **AddItem**( **_Item_**, **_Index_**, **_SelectState_**, **_ItemValue_**)
 
- _expression_A variable that represents a  **WebListBoxItems** object.
+ _expression_A variable that represents a **WebListBoxItems** object.
 
 
 ### Parameters
@@ -36,7 +36,7 @@ Adds list items to a Web list box control.
 
 ## Remarks
 
-When you programmatically create a new Web list box, it contains three items. Use the  **[Delete](weblistboxitems-delete-method-publisher.md)** method to remove them from the list.
+When you programmatically create a new Web list box, it contains three items. Use the **[Delete](weblistboxitems-delete-method-publisher.md)** method to remove them from the list.
 
 
 ## Example

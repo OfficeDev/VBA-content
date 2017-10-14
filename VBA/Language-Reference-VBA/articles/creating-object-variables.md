@@ -26,7 +26,7 @@ You can treat an [object variable](vbe-glossary.md) exactly the same as the [obj
 
 ## Declaring an Object Variable
 
-Use the  **Dim** statement or one of the other declaration statements ( **Public**, **Private**, or **Static** ) to declare an object variable. A [variable](vbe-glossary.md) that refers to an object must be a **Variant**, an **Object**, or a specific type of object. For example, the following declarations are valid:
+Use the **Dim** statement or one of the other declaration statements ( **Public**, **Private**, or **Static** ) to declare an object variable. A [variable](vbe-glossary.md) that refers to an object must be a **Variant**, an **Object**, or a specific type of object. For example, the following declarations are valid:
 
 
 ```vb
@@ -42,7 +42,7 @@ Dim MyObject As Font
 
  **Note**  If you use an object variable without declaring it first, the [data type](vbe-glossary.md) of the object variable is **Variant** by default.
 
-You can declare an object variable with the  **Object** data type when the specific [object type](vbe-glossary.md) is not known until the procedure runs. Use the **Object** data type to create a generic reference to any object.
+You can declare an object variable with the **Object** data type when the specific [object type](vbe-glossary.md) is not known until the procedure runs. Use the **Object** data type to create a generic reference to any object.
 
 If you know the specific object type, you should declare the object variable as that object type. For example, if the application contains a Sample object type, you can declare an object variable for that object using either of these statements:
 
@@ -60,7 +60,7 @@ Declaring specific object types provides automatic type checking, faster code, a
 
 ## Assigning an Object Variable to an Object
 
-Use the  **Set** statement to assign an object to an object variable. You can assign an [object expression](vbe-glossary.md) or **Nothing**. For example, the following object variable assignments are valid:
+Use the **Set** statement to assign an object to an object variable. You can assign an [object expression](vbe-glossary.md) or **Nothing**. For example, the following object variable assignments are valid:
 
 
 ```vb
@@ -69,7 +69,7 @@ Set MyObject = Nothing ' Discontinue association.
 
 ```
 
-You can combine declaring an object variable with assigning an object to it by using the  **New** [keyword](vbe-glossary.md) with the **Set** statement. For example:
+You can combine declaring an object variable with assigning an object to it by using the **New** [keyword](vbe-glossary.md) with the **Set** statement. For example:
 
 
 
@@ -79,7 +79,7 @@ Set MyObject = New Object ' Create and Assign
 
 ```
 
-Setting an object variable equal to  **Nothing** discontinues the association of the object variable with any specific object. This prevents you from accidentally changing the object by changing the variable. An object variable is always set to **Nothing** after closing the associated object so you can test whether or not the object variable points to a valid object. For example:
+Setting an object variable equal to **Nothing** discontinues the association of the object variable with any specific object. This prevents you from accidentally changing the object by changing the variable. An object variable is always set to **Nothing** after closing the associated object so you can test whether or not the object variable points to a valid object. For example:
 
 
 
@@ -97,7 +97,7 @@ Of course, this test can never determine with absolute certainty whether or not 
 
 ## Referring to the Current Instance of an Object
 
-Use the  **Me** keyword to refer to the current instance of the object where the code is running. All procedures associated with the current object have access to the object referred to as **Me**. Using **Me** is particularly useful for passing information about the current instance of an object to a procedure in another module. For example, suppose you have the following procedure in a module:
+Use the **Me** keyword to refer to the current instance of the object where the code is running. All procedures associated with the current object have access to the object referred to as **Me**. Using **Me** is particularly useful for passing information about the current instance of an object to a procedure in another module. For example, suppose you have the following procedure in a module:
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.LanguageID Property (Word)
 
-Returns or sets the language for the specified  **Find** object. Read/write **[WdLanguageID](wdlanguageid-enumeration-word.md)** .
+Returns or sets the language for the specified **Find** object. Read/write **[WdLanguageID](wdlanguageid-enumeration-word.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the language for the specified  **Find** object. Read/write **[W
 
 ## Remarks
 
-Some of the  **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## See also

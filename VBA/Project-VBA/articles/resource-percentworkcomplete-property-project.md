@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.PercentWorkComplete Property (Project)
 
-Gets or sets the percentage of work complete for a resource. Read-only  **Variant**.
+Gets or sets the percentage of work complete for a resource. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the percentage of work complete for a resource. Read-only  **Varian
 
 ## Example
 
-The following example sets the  **Marked** property to **True** for each task in the active project with a percentage of work complete that exceeds the percentage specified by the user.
+The following example sets the **Marked** property to **True** for each task in the active project with a percentage of work complete that exceeds the percentage specified by the user.
 
 
 ```vb

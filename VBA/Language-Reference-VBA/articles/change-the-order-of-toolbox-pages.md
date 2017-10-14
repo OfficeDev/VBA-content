@@ -16,11 +16,11 @@ ms.date: 06/08/2017
 
 1. Right-click the tab of any Toolbox page.
     
-2. From the shortcut menu, choose  **Move**.
+2. From the shortcut menu, choose **Move**.
     
 3. Select the name of a page you want to move.
     
-4. Choose  **Move Up** or **Move Down** until the page is at the appropriate position in the page list.
+4. Choose **Move Up** or **Move Down** until the page is at the appropriate position in the page list.
     
 5. Click OK.
     

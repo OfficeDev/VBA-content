@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SmartDocument.RefreshPane Method (Office)
 
-Refreshes the  **Document Actions** task pane for the active document in Microsoft Word or a workbook in Microsoft Excel.
+Refreshes the **Document Actions** task pane for the active document in Microsoft Word or a workbook in Microsoft Excel.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Refreshes the  **Document Actions** task pane for the active document in Microso
 
 ## Remarks
 
-The  **RefreshPane** method raises an error if the active document does not have an XML expansion pack attached.
+The **RefreshPane** method raises an error if the active document does not have an XML expansion pack attached.
 
 
 ## Example
 
-The following example determines whether the active Excel workbook has an XML expansion pack attached. If so, it refreshes the smart document's  **Document Actions** task pane.
+The following example determines whether the active Excel workbook has an XML expansion pack attached. If so, it refreshes the smart document's **Document Actions** task pane.
 
 
 ```

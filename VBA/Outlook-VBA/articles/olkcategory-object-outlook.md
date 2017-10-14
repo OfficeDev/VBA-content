@@ -18,7 +18,7 @@ A control that displays the selected categories.
 
 ## Remarks
 
-Before you use this control for the first time in the forms designer, add the Microsoft Outlook Category Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic  **UserForm** object in the Visual Basic Editor.
+Before you use this control for the first time in the forms designer, add the Microsoft Outlook Category Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic **UserForm** object in the Visual Basic Editor.
 
 This control shows both the category name and the category color. Right-clicking this control displays the category selector context menu that allows the user to select categories in standard Outlook forms. If there are no categories to be displayed, this control will resize automatically to a height of zero.
 

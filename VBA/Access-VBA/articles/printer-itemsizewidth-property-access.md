@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.ItemSizeWidth Property (Access)
 
-Returns or sets a  **Long** indicating the height of the detail section of a form or report in twips. Read/write.
+Returns or sets a **Long** indicating the height of the detail section of a form or report in twips. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** indicating the height of the detail section of a for
 
 ## Remarks
 
-If the  **[DefaultSize](printer-defaultsize-property-access.md)** property is **True**, this property is ignored.
+If the **[DefaultSize](printer-defaultsize-property-access.md)** property is **True**, this property is ignored.
 
 
 ## Example

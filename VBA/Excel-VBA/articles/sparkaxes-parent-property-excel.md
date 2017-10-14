@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkAxes.Parent Property (Excel)
 
-Returns the parent  **[SparklineGroup](sparklinegroup-object-excel.md)** object for the specified **[SparkAxes](sparkaxes-object-excel.md)** object. Read-only.
+Returns the parent **[SparklineGroup](sparklinegroup-object-excel.md)** object for the specified **[SparkAxes](sparkaxes-object-excel.md)** object. Read-only.
 
 
 ## Syntax

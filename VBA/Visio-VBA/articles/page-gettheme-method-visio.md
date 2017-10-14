@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Page.GetTheme Method (Visio)
 
-Returns a  **Variant** that represents the specified theme component of the specified page.
+Returns a **Variant** that represents the specified theme component of the specified page.
 
 
 ## Syntax

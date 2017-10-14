@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayUnitLabel.Characters Property (Word)
 
-Returns a  **[ChartCharacters](chartcharacters-object-word.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
+Returns a **[ChartCharacters](chartcharacters-object-word.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns a  **[ChartCharacters](chartcharacters-object-word.md)** object that rep
 
 ## Remarks
 
-The  **ChartCharacters** object is not a collection.
+The **ChartCharacters** object is not a collection.
 
 
 ## See also

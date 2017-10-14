@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToggleButton.FontWeight Property (Access)
 
-Use the  **FontWeight** property to specify the line width that Windows uses to display and print characters in a control. Read/write **Integer**.
+Use the **FontWeight** property to specify the line width that Windows uses to display and print characters in a control. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Use the  **FontWeight** property to specify the line width that Windows uses to 
 
 ## Remarks
 
-The  **FontWeight** property uses the following settings.
+The **FontWeight** property uses the following settings.
 
 
 
@@ -40,11 +40,11 @@ The  **FontWeight** property uses the following settings.
 |Bold|700|
 |Extra Bold|800|
 |Heavy|900|
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-A font's appearance on screen and in print may differ, depending on your computer and printer. For example, a  **FontWeight** property setting of Thin may look identical to Normal on screen but appear lighter when printed.
+A font's appearance on screen and in print may differ, depending on your computer and printer. For example, a **FontWeight** property setting of Thin may look identical to Normal on screen but appear lighter when printed.
 
-The  **FontBold** property, which is available only in Visual Basic and macros, can also be used to set the line width for a control's or report's text to bold. The **FontBold** property gives you a quick way to make text bold; the **FontWeight** property gives you finer control over the line width setting for text. The following table shows the relationship between these properties' settings.
+The **FontBold** property, which is available only in Visual Basic and macros, can also be used to set the line width for a control's or report's text to bold. The **FontBold** property gives you a quick way to make text bold; the **FontWeight** property gives you finer control over the line width setting for text. The following table shows the relationship between these properties' settings.
 
 
 

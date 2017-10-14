@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.Bookmark Property (Word)
 
-Returns or sets the name of the bookmark from which to collect table of authorities entries. Read/write  **String** .
+Returns or sets the name of the bookmark from which to collect table of authorities entries. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the name of the bookmark from which to collect table of authorit
 
 ## Remarks
 
-The  **Bookmark** property corresponds to the \b switch for a TOA (Table of Authorities) field.
+The **Bookmark** property corresponds to the \b switch for a TOA (Table of Authorities) field.
 
 
 ## Example

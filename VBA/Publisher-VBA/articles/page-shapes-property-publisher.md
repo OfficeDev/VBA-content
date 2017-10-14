@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Page.Shapes Property (Publisher)
 
-Returns a  **[Shapes](shapes-object-publisher.md)** collection that represents all the  **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
+Returns a **[Shapes](shapes-object-publisher.md)** collection that represents all the **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
 
 
 ## Syntax
 
  _expression_. **Shapes**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ## Remarks
 
-For information about returning a single member of a collection, see  **Returning an Object from a Collection**.
+For information about returning a single member of a collection, see **Returning an Object from a Collection**.
 
 
 ## Example

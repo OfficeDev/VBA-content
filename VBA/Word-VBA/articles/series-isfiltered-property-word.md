@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Series.IsFiltered Property (Word)
 
-Returns or sets a  **Boolean** that determines whether the specified chart series is filtered out from the chart. Read-write.
+Returns or sets a **Boolean** that determines whether the specified chart series is filtered out from the chart. Read-write.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ Represents an ActiveX control or a linked or embedded OLE object on a worksheet.
 
 ## Example
 
-Use  **[OLEObjects](worksheet-oleobjects-method-excel.md)** ( _index_ ), where _index_ is the name or number of the object, to return an **OLEObject** object. The following example deletes OLE object one on Sheet1.
+Use **[OLEObjects](worksheet-oleobjects-method-excel.md)** ( _index_ ), where _index_ is the name or number of the object, to return an **OLEObject** object. The following example deletes OLE object one on Sheet1.
 
 
 ```
@@ -39,7 +39,7 @@ The following example deletes the OLE object named "ListBox1."
 Worksheets("sheet1").OLEObjects("ListBox1").Delete
 ```
 
-The properties and methods of the  **OLEObject** object are duplicated on each ActiveX control on a worksheet. This enables Visual Basic code to gain access to these properties by using the control's name. The following example selects the check box control named "MyCheckBox," aligns it with the active cell, and then activates the control.
+The properties and methods of the **OLEObject** object are duplicated on each ActiveX control on a worksheet. This enables Visual Basic code to gain access to these properties by using the control's name. The following example selects the check box control named "MyCheckBox," aligns it with the active cell, and then activates the control.
 
 
 

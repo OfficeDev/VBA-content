@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-An empty bookmark marks a location (a collapsed selection); it doesn't mark any text. An error occurs if the specified bookmark doesn't exist. Use the  **[Exists](bookmarks-exists-method-word.md)** property to determine whether the bookmark exists.
+An empty bookmark marks a location (a collapsed selection); it doesn't mark any text. An error occurs if the specified bookmark doesn't exist. Use the **[Exists](bookmarks-exists-method-word.md)** property to determine whether the bookmark exists.
 
 
 ## Example

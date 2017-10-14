@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Ligatures Property (Word)
 
-Returns or sets the ligatures setting for the specified  **Font** object. Read/write[WdLigatures](wdligatures-enumeration-word.md).
+Returns or sets the ligatures setting for the specified **Font** object. Read/write[WdLigatures](wdligatures-enumeration-word.md).
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the ligatures setting for the specified  **Font** object. Read/w
 
 ## Remarks
 
-Open Type fonts support the use of ligatures. The  **Ligatures** property specifies the Word ligatures setting to apply to an Open Type font.
+Open Type fonts support the use of ligatures. The **Ligatures** property specifies the Word ligatures setting to apply to an Open Type font.
 
 The following table lists the four basic values for ligatures.
 

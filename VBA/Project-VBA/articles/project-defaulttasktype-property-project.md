@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.DefaultTaskType Property (Project)
 
-Gets or sets the default task type. Read/write  **PjTaskFixedType**.
+Gets or sets the default task type. Read/write **PjTaskFixedType**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the default task type. Read/write  **PjTaskFixedType**.
 
 ## Remarks
 
-The  **DefaultTaskType** property can be one of the following **[PjTaskFixedType](pjtaskfixedtype-enumeration-project.md)** constants: **pjFixedDuration**, **pjFixedUnits**, or **pjFixedWork**.
+The **DefaultTaskType** property can be one of the following **[PjTaskFixedType](pjtaskfixedtype-enumeration-project.md)** constants: **pjFixedDuration**, **pjFixedUnits**, or **pjFixedWork**.
 
 

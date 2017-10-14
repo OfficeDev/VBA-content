@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.LockTheme Property (Word)
 
-Returns or sets a  **Boolean** that represents whether a user can change a document theme. Read/write.
+Returns or sets a **Boolean** that represents whether a user can change a document theme. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether a user can change a docum
 
 ## Remarks
 
-Use the  **[ApplyDocumentTheme](document-applydocumenttheme-method.md)** method to apply a Microsoft Office theme. Use the **[DocumentTheme](document-documenttheme-property-word.md)** property to return the Office theme that is applied to a document.
+Use the **[ApplyDocumentTheme](document-applydocumenttheme-method.md)** method to apply a Microsoft Office theme. Use the **[DocumentTheme](document-documenttheme-property-word.md)** property to return the Office theme that is applied to a document.
 
 
 ## See also

@@ -23,7 +23,7 @@ A collection of custom workbook views.
 
 ## Example
 
-Use the  **CustomViews** property to return the **CustomViews** collection. Use the **[Add](customviews-add-method-excel.md)** method to create a new custom view and add it to the **CustomViews** collection. The following example creates a new custom view named "Summary."
+Use the **CustomViews** property to return the **CustomViews** collection. Use the **[Add](customviews-add-method-excel.md)** method to create a new custom view and add it to the **CustomViews** collection. The following example creates a new custom view named "Summary."
 
 
 ```vb

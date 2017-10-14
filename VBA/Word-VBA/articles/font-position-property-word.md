@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Position Property (Word)
 
-Returns or sets the position of text (in points) relative to the base line. Read/write  **Long** .
+Returns or sets the position of text (in points) relative to the base line. Read/write **Long** .
 
 
 ## Syntax

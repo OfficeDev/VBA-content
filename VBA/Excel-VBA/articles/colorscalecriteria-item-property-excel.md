@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScaleCriteria.Item Property (Excel)
 
-Returns a single  **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** object from the **ColorScaleCriteria** collection. Read-only.
+Returns a single **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** object from the **ColorScaleCriteria** collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **[ColorScaleCriterion](colorscalecriterion-object-excel.md)**
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The index number of the  **ColorScaleCriterion** object.|
+| _Index_|Required| **Variant**|The index number of the **ColorScaleCriterion** object.|
 
 ## Remarks
 

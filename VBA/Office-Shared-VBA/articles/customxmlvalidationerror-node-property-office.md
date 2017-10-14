@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationError.Node Property (Office)
 
-Gets a node in a  **CustomXMLValidationError** object, if any exist. If no nodes exist, the property returns **Nothing**. Read-only.
+Gets a node in a **CustomXMLValidationError** object, if any exist. If no nodes exist, the property returns **Nothing**. Read-only.
 
 
 ## Syntax

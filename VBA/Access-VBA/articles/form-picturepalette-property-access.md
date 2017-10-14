@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.PicturePalette Property (Access)
 
-You can use the  **PicturePalette** property to specify a palette to be used by a form. Read/write **Variant**.
+You can use the **PicturePalette** property to specify a palette to be used by a form. Read/write **Variant**.
 
 
 ## Syntax

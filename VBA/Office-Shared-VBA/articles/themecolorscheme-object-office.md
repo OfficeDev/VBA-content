@@ -15,7 +15,7 @@ Represents the color scheme of a Microsoft Office theme.
 
 ## Example
 
-The following example sets a  **ThemeColorScheme** object to **Red**.
+The following example sets a **ThemeColorScheme** object to **Red**.
 
 
 ```

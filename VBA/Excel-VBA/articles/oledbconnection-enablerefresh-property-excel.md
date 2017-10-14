@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](oledbconnection-refreshonfileopen-property-excel.md)** property is ignored if the **EnableRefresh** property is set to **False** .
+The **[RefreshOnFileOpen](oledbconnection-refreshonfileopen-property-excel.md)** property is ignored if the **EnableRefresh** property is set to **False** .
 
 
 ## See also

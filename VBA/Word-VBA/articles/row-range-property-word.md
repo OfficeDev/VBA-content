@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within the specified table row.
+Returns a **Range** object that represents the portion of a document that is contained within the specified table row.
 
 
 ## Syntax

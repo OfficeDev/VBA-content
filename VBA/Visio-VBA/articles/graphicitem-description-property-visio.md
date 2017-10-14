@@ -33,6 +33,6 @@ String
 
 ## Remarks
 
-The possible values of the description property correspond to the four types of graphic items available in the  **New Item** list in the **New Data Graphic** or **Edit Data Graphic** dialog box in the Microsoft Visio user interface: **Text**,  **Data Bar**,  **Icon Set**, and  **Color by Value**.
+The possible values of the description property correspond to the four types of graphic items available in the **New Item** list in the **New Data Graphic** or **Edit Data Graphic** dialog box in the Microsoft Visio user interface: **Text**, **Data Bar**, **Icon Set**, and **Color by Value**.
 
 

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # DropCap.FontBold Property (Publisher)
 
-Sets or returns an  **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
+Sets or returns an **MsoTriState**constant that represents whether the font for a dropped capital letter or WordArt text effect is bold. Read/write.
 
 
 ## Syntax
 
  _expression_. **FontBold**
 
- _expression_A variable that represents a  **DropCap** object.
+ _expression_A variable that represents a **DropCap** object.
 
 
 ## Remarks
 
-The  **FontBold** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **FontBold** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

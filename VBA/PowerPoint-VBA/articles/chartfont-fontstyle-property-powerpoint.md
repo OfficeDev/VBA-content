@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.FontStyle Property (PowerPoint)
 
-Returns or sets the font style. Read/write  **String**.
+Returns or sets the font style. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the font style. Read/write  **String**.
 
 ## Remarks
 
-Changing this property may affect other  **ChartFont** properties (such as **[Bold](chartfont-bold-property-powerpoint.md)** and **[Italic](chartfont-italic-property-powerpoint.md)** ).
+Changing this property may affect other **ChartFont** properties (such as **[Bold](chartfont-bold-property-powerpoint.md)** and **[Italic](chartfont-italic-property-powerpoint.md)** ).
 
 
 ## Example

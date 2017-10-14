@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.DisplayName Property (Excel)
 
-Returns or sets the display name for the specified  **ListObject** object. Read/write **String** .
+Returns or sets the display name for the specified **ListObject** object. Read/write **String** .
 
 
 ## Syntax

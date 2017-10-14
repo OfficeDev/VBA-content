@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.ConvertToTextUnitEffect Method (PowerPoint)
 
-Returns an  **[Effect](effect-object-powerpoint.md)** object that represents how text should be animated.
+Returns an **[Effect](effect-object-powerpoint.md)** object that represents how text should be animated.
 
 
 ## Syntax

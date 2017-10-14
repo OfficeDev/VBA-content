@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GlowFormat.Radius Property (Word)
 
-Returns or sets a  **Single** that represents the length of the radius for a glow effect. Read/write.
+Returns or sets a **Single** that represents the length of the radius for a glow effect. Read/write.
 
 
 ## Syntax

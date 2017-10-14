@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.Type Property (Excel)
 
-Returns or sets a  **[MsoConnectorType](http://msdn.microsoft.com/library/2c67963f-5cb3-295d-fdf4-df33a283f1af%28Office.15%29.aspx)** value that represents the connector format type.
+Returns or sets a **[MsoConnectorType](http://msdn.microsoft.com/library/2c67963f-5cb3-295d-fdf4-df33a283f1af%28Office.15%29.aspx)** value that represents the connector format type.
 
 
 ## Syntax

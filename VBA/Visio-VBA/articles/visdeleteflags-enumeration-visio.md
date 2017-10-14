@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisDeleteFlags Enumeration (Visio)
 
-Specifies constants that define particular sets of instruction to apply to a deletion; passed to the  **[Selection.DeleteEx](selection-deleteex-method-visio.md)** and **[Shape.DeleteEx](shape-deleteex-method-visio.md)** methods.
+Specifies constants that define particular sets of instruction to apply to a deletion; passed to the **[Selection.DeleteEx](selection-deleteex-method-visio.md)** and **[Shape.DeleteEx](shape-deleteex-method-visio.md)** methods.
 
 
 

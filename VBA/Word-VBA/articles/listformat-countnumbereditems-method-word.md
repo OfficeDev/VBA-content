@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.CountNumberedItems Method (Word)
 
-Returns the number of bulleted or numbered items and LISTNUM fields in the specified  **ListFormat** object.
+Returns the number of bulleted or numbered items and LISTNUM fields in the specified **ListFormat** object.
 
 
 ## Syntax

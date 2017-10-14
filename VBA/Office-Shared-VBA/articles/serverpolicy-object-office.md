@@ -18,7 +18,7 @@ Represents a policy specified for a document type stored on a server running Mic
 
 ## Remarks
 
-The  **ServerPolicy** object is composed of individual **PolicyItem** objects representing the individual policy definitions for the active document.
+The **ServerPolicy** object is composed of individual **PolicyItem** objects representing the individual policy definitions for the active document.
 
 
 ## Example

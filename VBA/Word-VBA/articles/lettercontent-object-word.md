@@ -18,7 +18,7 @@ Represents the elements of a letter created by the Letter Wizard.
 
 ## Remarks
 
-Use the  **GetLetterContent** or **CreateLetterContent** method to return a **LetterContent** object. The following example retrieves and displays the letter recipient's name from the active document.
+Use the **GetLetterContent** or **CreateLetterContent** method to return a **LetterContent** object. The following example retrieves and displays the letter recipient's name from the active document.
 
 
 ```vb
@@ -26,7 +26,7 @@ Set myLetterContent = ActiveDocument.GetLetterContent
 MsgBox myLetterContent.RecipientName
 ```
 
-The following example uses the  **CreateLetterContent** method to create a new **LetterContent** object, which is then used with the **RunLetterWizard** method.
+The following example uses the **CreateLetterContent** method to create a new **LetterContent** object, which is then used with the **RunLetterWizard** method.
 
 
 
@@ -55,7 +55,7 @@ ActiveDocument.RunLetterWizard _
  LetterContent:=myLetter, WizardMode:=True
 ```
 
-The  **CreateLetterContent** method creates a **LetterContent** object; however, there are numerous required arguments. If you want to set only a few properties, use the **New** keyword to create a new, stand-alone **LetterContent** object. The following example creates a **LetterContent** object, sets some of its properties, and then uses the **LetterContent** object with the **RunLetterWizard** method to run the Letter Wizard, using the preset values as the default settings.
+The **CreateLetterContent** method creates a **LetterContent** object; however, there are numerous required arguments. If you want to set only a few properties, use the **New** keyword to create a new, stand-alone **LetterContent** object. The following example creates a **LetterContent** object, sets some of its properties, and then uses the **LetterContent** object with the **RunLetterWizard** method to run the Letter Wizard, using the preset values as the default settings.
 
 
 
@@ -73,7 +73,7 @@ Documents.Add.RunLetterWizard LetterContent:=myLetter, _
  WizardMode:=True
 ```
 
-You can duplicate a  **LetterContent** object by using the **Duplicate** property. The following example retrieves the letter elements in the active document and makes a duplicate copy. The example assigns the duplicate copy to _aLetter_ and resets the recipient's name and address to empty strings. The **RunLetterWizard** method is used to run the Letter Wizard, using the values in the revised **LetterContent** object ( _aLetter_ ) as the default settings.
+You can duplicate a **LetterContent** object by using the **Duplicate** property. The following example retrieves the letter elements in the active document and makes a duplicate copy. The example assigns the duplicate copy to _aLetter_ and resets the recipient's name and address to empty strings. The **RunLetterWizard** method is used to run the Letter Wizard, using the values in the revised **LetterContent** object ( _aLetter_ ) as the default settings.
 
 
 
@@ -88,7 +88,7 @@ Documents.Add.RunLetterWizard LetterContent:=aLetter, _
  WizardMode:=True
 ```
 
-The  **SetLetterContent** method inserts the contents of the specified **LetterContent** object in a document. The following example retrieves the letter elements from the active document, changes the attention line, and then uses the **SetLetterContent** method to update the active document to reflect the change.
+The **SetLetterContent** method inserts the contents of the specified **LetterContent** object in a document. The following example retrieves the letter elements from the active document, changes the attention line, and then uses the **SetLetterContent** method to update the active document to reflect the change.
 
 
 

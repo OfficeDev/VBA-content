@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Boolean** value indicating whether an[identifier](vbe-glossary.md) represents an object[variable](vbe-glossary.md).
+Returns a **Boolean** value indicating whether an[identifier](vbe-glossary.md) represents an object[variable](vbe-glossary.md).
  **Syntax**
  **IsObject(**_identifier_**)**
 The required  _identifier_[argument](vbe-glossary.md) is a variable name.
@@ -24,7 +24,7 @@ Use error trapping to be sure that an object reference is valid.
 
 ## Example
 
-This example uses the  **IsObject** function to determine if an identifier represents an object variable. `MyObject` and and `YourObject` are object variables of the same type. They are generic names used for illustration purposes only.
+This example uses the **IsObject** function to determine if an identifier represents an object variable. `MyObject` and and `YourObject` are object variables of the same type. They are generic names used for illustration purposes only.
 
 
 ```vb

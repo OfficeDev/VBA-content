@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConversationHeader.Session Property (Outlook)
 
-Returns the  **[NameSpace](namespace-object-outlook.md)** object for the current session. Read-only.
+Returns the **[NameSpace](namespace-object-outlook.md)** object for the current session. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the  **[NameSpace](namespace-object-outlook.md)** object for the current
 
 ## Remarks
 
-Returns  **Null** ( **Nothing** in Visual Basic) if there is no logged-on session.
+Returns **Null** ( **Nothing** in Visual Basic) if there is no logged-on session.
 
-You can use the  **Session** property and the **[GetNamespace](application-getnamespace-method-outlook.md)** method interchangeably to obtain the **NameSpace** object for the current session.
+You can use the **Session** property and the **[GetNamespace](application-getnamespace-method-outlook.md)** method interchangeably to obtain the **NameSpace** object for the current session.
 
 
 ## See also

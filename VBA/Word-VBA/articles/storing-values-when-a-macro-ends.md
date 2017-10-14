@@ -13,7 +13,7 @@ When a macro ends, the values stored in its variables are not automatically save
 
 ## Document variables
 
-Document variables allow you to store values as part of a document or a template. For example, you might store macro values in the document or template where the macro resides. You can add variables to a document or template using the  **[Add](variables-add-method-word.md)** method of the  **[Variables](variables-object-word.md)** collection. The following example saves a document variable in the same location as the macro that is running (document or template) using the  **ActiveDocument** property.
+Document variables allow you to store values as part of a document or a template. For example, you might store macro values in the document or template where the macro resides. You can add variables to a document or template using the **[Add](variables-add-method-word.md)** method of the **[Variables](variables-object-word.md)** collection. The following example saves a document variable in the same location as the macro that is running (document or template) using the **ActiveDocument** property.
 
 
 ```vb
@@ -22,7 +22,7 @@ Sub AddDocumentVariable()
 End Sub
 ```
 
-The following example uses the  **[Value](variable-value-property-word.md)** property with a  **[Variable](variable-object-word.md)** object to return the value of a document variable.
+The following example uses the **[Value](variable-value-property-word.md)** property with a **[Variable](variable-object-word.md)** object to return the value of a document variable.
 
 
 
@@ -42,11 +42,11 @@ You can use the DOCVARIABLE field to insert a document variable into a document.
 
 ## Document properties
 
-Like document variables, document properties allow you to store values as part of a document or a template. Document properties can be viewed in the  **Properties** dialog box.
+Like document variables, document properties allow you to store values as part of a document or a template. Document properties can be viewed in the **Properties** dialog box.
 
-The Word object model breaks document properties into two groups: built-in and custom. Custom document properties include the properties shown on the  **Custom** tab in the **Properties** dialog box. Built-in document properties include the properties on all the tabs in the **Properties** dialog box, except the **Custom** tab.
+The Word object model breaks document properties into two groups: built-in and custom. Custom document properties include the properties shown on the **Custom** tab in the **Properties** dialog box. Built-in document properties include the properties on all the tabs in the **Properties** dialog box, except the **Custom** tab.
 
-To access built-in properties, use the  **BuiltInDocumentProperties** property to return a **DocumentProperties** collection that includes the built-in document properties. Use the **CustomDocumentProperties**property of a  **[Document](document-object-word.md)** object or a **[Template](template-object-word.md)** object to return a **DocumentProperties** collection that includes the custom document properties. The following example creates a custom document property named "YourName" in the same location as the macro that is running (document or template).
+To access built-in properties, use the **BuiltInDocumentProperties** property to return a **DocumentProperties** collection that includes the built-in document properties. Use the **CustomDocumentProperties**property of a **[Document](document-object-word.md)** object or a **[Template](template-object-word.md)** object to return a **DocumentProperties** collection that includes the custom document properties. The following example creates a custom document property named "YourName" in the same location as the macro that is running (document or template).
 
 
 
@@ -58,7 +58,7 @@ Sub AddCustomDocumentProperties()
 End Sub
 ```
 
-Built-in document properties cannot be added to the  **DocumentProperties** collection returned by the **BuiltInDocumentProperties** property of a **[Document](document-object-word.md)** object or **[Template](template-object-word.md)** object. You can, however, retrieve the contents of a built-in document property or change the value of a read/write built-in document property.
+Built-in document properties cannot be added to the **DocumentProperties** collection returned by the **BuiltInDocumentProperties** property of a **[Document](document-object-word.md)** object or **[Template](template-object-word.md)** object. You can, however, retrieve the contents of a built-in document property or change the value of a read/write built-in document property.
 
 
 ## Remarks
@@ -68,7 +68,7 @@ You can use the DOCPROPERTY field to insert document properties into a document.
 
 ## AutoText entries
 
-AutoText entries can be used to store information in a template. Unlike a document variable or property, AutoText entries can include items beyond macro variables, such as formatted text or a graphic. Use the  **[Add](autotextentries-add-method-word.md)** method with the  **[AutoTextEntries](autotextentries-object-word.md)** collection to create a new AutoText entry. The following example creates an AutoText entry named "MyText" that contains the contents of the selection. If the following instruction is part of a template macro, the new AutoText entry is stored in the template, otherwise, the AutoText entry is stored in the template attached to the document where the instruction resides.
+AutoText entries can be used to store information in a template. Unlike a document variable or property, AutoText entries can include items beyond macro variables, such as formatted text or a graphic. Use the **[Add](autotextentries-add-method-word.md)** method with the **[AutoTextEntries](autotextentries-object-word.md)** collection to create a new AutoText entry. The following example creates an AutoText entry named "MyText" that contains the contents of the selection. If the following instruction is part of a template macro, the new AutoText entry is stored in the template, otherwise, the AutoText entry is stored in the template attached to the document where the instruction resides.
 
 
 ```vb
@@ -78,12 +78,12 @@ Sub AddAutoTextEntry()
 End Sub
 ```
 
-Use the  **[Value](autotextentry-value-property-word.md)** property with an  **[AutoTextEntry](autotextentry-object-word.md)** object to retrieve the contents of an AutoText entry object.
+Use the **[Value](autotextentry-value-property-word.md)** property with an **[AutoTextEntry](autotextentry-object-word.md)** object to retrieve the contents of an AutoText entry object.
 
 
 ## Settings files
 
-You can set and retrieve information from a settings file using the  **[PrivateProfileString](system-privateprofilestring-property-word.md)** property of the  **[System](system-object-word.md)** object. The structure of a Windows settings file is the same as the Windows 3.1 WIN.INI file. The following example sets the DocNum key to 1 under the DocTracker section in the Macro.ini file.
+You can set and retrieve information from a settings file using the **[PrivateProfileString](system-privateprofilestring-property-word.md)** property of the **[System](system-object-word.md)** object. The structure of a Windows settings file is the same as the Windows 3.1 WIN.INI file. The following example sets the DocNum key to 1 under the DocTracker section in the Macro.ini file.
 
 
 ```vb
@@ -104,9 +104,9 @@ After running the above instruction, the Macro.ini file includes the following t
 DocNum=1
 ```
 
-The  **PrivateProfileString** property has three arguments: **_FileName_**,  **_Section_**, and  **_Key_**. The  **_FileName_** argument is used to specify a settings file path and file name. The **_Section_** argument specifies the section name that appears between brackets before the associated keys (do not include the brackets with the section name). The **_Key_** argument specifies the key name, which is followed by an equal sign (=) and the setting.
+The **PrivateProfileString** property has three arguments: **_FileName_**, **_Section_**, and **_Key_**. The **_FileName_** argument is used to specify a settings file path and file name. The **_Section_** argument specifies the section name that appears between brackets before the associated keys (do not include the brackets with the section name). The **_Key_** argument specifies the key name, which is followed by an equal sign (=) and the setting.
 
-Use the same  **PrivateProfileString** property to retrieve a setting from a settings file. The following example retrieves the DocNum setting under the DocTracker section in the Macro.ini file.
+Use the same **PrivateProfileString** property to retrieve a setting from a settings file. The following example retrieves the DocNum setting under the DocTracker section in the Macro.ini file.
 
 
 
@@ -124,7 +124,7 @@ End Sub
 
 ## Windows registry
 
-You can set and retrieve information from the Windows registry using the  **PrivateProfileString**property. The following example retrieves the Word 2007 program directory from the Windows registry.
+You can set and retrieve information from the Windows registry using the **PrivateProfileString**property. The following example retrieves the Word 2007 program directory from the Windows registry.
 
 
 ```vb
@@ -139,11 +139,11 @@ Sub GetRegistryInfo()
 End Sub
 ```
 
-The  **PrivateProfileString** property has three arguments: **_FileName_**,  **_Section_**, and  **_Key_**. To return or set a value for a registry entry, specify an empty string ("") for the  **_FileName_** argument. The **_Section_** argument should be the complete path to the registry subkey. The **_Key_** argument should be the name of an entry in the subkey specified by **_Section_**.
+The **PrivateProfileString** property has three arguments: **_FileName_**, **_Section_**, and **_Key_**. To return or set a value for a registry entry, specify an empty string ("") for the **_FileName_** argument. The **_Section_** argument should be the complete path to the registry subkey. The **_Key_** argument should be the name of an entry in the subkey specified by **_Section_**.
 
-You can also set information in the Windows registry using the following  **PrivateProfileString** syntax.
+You can also set information in the Windows registry using the following **PrivateProfileString** syntax.
 
- **System.PrivateProfileString**( **_FileName_**,  **_Section_**,  **_Key_**)  **=**_value_
+ **System.PrivateProfileString**( **_FileName_**, **_Section_**, **_Key_**) **=**_value_
 
 The following example sets the DOC-PATH entry to "C:\My Documents" in the Options subkey for Office Word 2007 in the Windows registry.
 

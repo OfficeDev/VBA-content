@@ -30,9 +30,9 @@ MsoLanguageID
 
 ## Remarks
 
-The  **LanguageID** property is used for tagging portions of text written in a different language than the **[DefaultLanguageID](presentation-defaultlanguageid-property-powerpoint.md)** property specifies. This allows Microsoft PowerPoint to check spelling and grammar according to the language for each text range. This property is not related to the application interface language.
+The **LanguageID** property is used for tagging portions of text written in a different language than the **[DefaultLanguageID](presentation-defaultlanguageid-property-powerpoint.md)** property specifies. This allows Microsoft PowerPoint to check spelling and grammar according to the language for each text range. This property is not related to the application interface language.
 
-The value of the  **LanguageID** property can be one of these **MsoLanguageID** constants.
+The value of the **LanguageID** property can be one of these **MsoLanguageID** constants.
 
 
 ||

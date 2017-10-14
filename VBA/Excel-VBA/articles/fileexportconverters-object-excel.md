@@ -13,26 +13,26 @@ ms.date: 06/08/2017
 
 # FileExportConverters Object (Excel)
 
-A collection of  **[FileExportConverter](fileexportconverter-object-excel.md)** objects that represent all the file converters available for saving files.
+A collection of **[FileExportConverter](fileexportconverter-object-excel.md)** objects that represent all the file converters available for saving files.
 
 
 ## Remarks
 
-Use the  **FileExportConverters** property to return the **FileExportConverters** collection.
+Use the **FileExportConverters** property to return the **FileExportConverters** collection.
 
-The  **Add** method is not available for the **FileExportConverters** collection. **FileExportConverter** objects are added during installation of Microsoft Office or by installing supplemental converters.
+The **Add** method is not available for the **FileExportConverters** collection. **FileExportConverter** objects are added during installation of Microsoft Office or by installing supplemental converters.
 
 
 ## Example
 
-Use  **FileExportConverters** ( _Index_ ), where _Index_ is an integer, to return a single **FileExportConverter** object. The following example displays the extensions associated with the second Microsoft Excel worksheet converter in the collection.
+Use **FileExportConverters** ( _Index_ ), where _Index_ is an integer, to return a single **FileExportConverter** object. The following example displays the extensions associated with the second Microsoft Excel worksheet converter in the collection.
 
 
 ```vb
 MsgBox FileExportConverters(2).Extensions
 ```
 
-The index number represents the position of the file converter in the  **FileExportConverters** collection. The following example displays the description for the first file converter in the collection.
+The index number represents the position of the file converter in the **FileExportConverters** collection. The following example displays the description for the first file converter in the collection.
 
 
 

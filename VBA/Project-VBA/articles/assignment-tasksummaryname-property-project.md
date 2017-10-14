@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.TaskSummaryName Property (Project)
 
-Gets the name of the summary task for the task in the assignment. Read-only  **String**.
+Gets the name of the summary task for the task in the assignment. Read-only **String**.
 
 
 ## Syntax

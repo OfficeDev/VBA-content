@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Inserts a line or lines of code at a specified location in a block of code.
  **Syntax**
  _object_**.InsertLines(**_line_, _code_**)**
-The  **InsertLines** syntax has these parts:
+The **InsertLines** syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,5 +25,5 @@ The  **InsertLines** syntax has these parts:
 | _line_|Required. A [Long](vbe-glossary.md) specifying the location at which you want to insert the code.|
 | _code_|Required. A [String](vbe-glossary.md) containing the code you want to insert.|
  **Remarks**
-If the text you insert using the  **InsertLines** method is carriage return-linefeed delimited, it will be inserted as consecutive lines.
+If the text you insert using the **InsertLines** method is carriage return-linefeed delimited, it will be inserted as consecutive lines.
 

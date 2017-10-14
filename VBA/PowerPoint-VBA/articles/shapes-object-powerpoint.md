@@ -13,20 +13,20 @@ ms.date: 06/08/2017
 
 # Shapes Object (PowerPoint)
 
-A collection of all the  **[Shape](http://msdn.microsoft.com/library/1da93849-99e0-827e-ced3-c6cf7f8569f3%28Office.15%29.aspx)** objects on the specified slide.
+A collection of all the **[Shape](http://msdn.microsoft.com/library/1da93849-99e0-827e-ced3-c6cf7f8569f3%28Office.15%29.aspx)** objects on the specified slide.
 
 
 ## Remarks
 
-Each  **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
+Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
 
- **Note**  If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a  **[ShapeRange](shaperange-object-powerpoint.md)** collection that contains the shapes you want to work with. For an overview of how to work either with a single shape or with more than one shape at a time, see[How to: Work with Shapes (Drawing Objects)](http://msdn.microsoft.com/library/3ffaaaea-6406-262b-2bc7-788699175266%28Office.15%29.aspx).
+ **Note**  If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a **[ShapeRange](shaperange-object-powerpoint.md)** collection that contains the shapes you want to work with. For an overview of how to work either with a single shape or with more than one shape at a time, see[How to: Work with Shapes (Drawing Objects)](http://msdn.microsoft.com/library/3ffaaaea-6406-262b-2bc7-788699175266%28Office.15%29.aspx).
 
 
 ## Example
 
-Use the  **Shapes** property to return the **Shapes** collection. The following example selects all the shapes in the active presentation.
+Use the **Shapes** property to return the **Shapes** collection. The following example selects all the shapes in the active presentation.
 
 
 ```
@@ -34,9 +34,9 @@ ActivePresentation.Slides(1).Shapes.SelectAll
 ```
 
 
- **Note**  If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](http://msdn.microsoft.com/library/5ee926d9-5b30-a26b-7365-f4709a1a7bdb%28Office.15%29.aspx)method with no argument to create a  **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+ **Note**  If you want to do something (like delete or set a property) to all the shapes on a document at the same time, use the [Range](http://msdn.microsoft.com/library/5ee926d9-5b30-a26b-7365-f4709a1a7bdb%28Office.15%29.aspx)method with no argument to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
-Use the [AddCallout](http://msdn.microsoft.com/library/e4b468d7-793a-09ae-fcfc-6a73db93c90e%28Office.15%29.aspx), [AddComment](http://msdn.microsoft.com/library/11347ca1-cef3-0923-2544-cb80e7fc5768%28Office.15%29.aspx), [AddConnector](http://msdn.microsoft.com/library/407eee86-11c1-7bee-ed25-aba71a930a1c%28Office.15%29.aspx), [AddCurve](http://msdn.microsoft.com/library/47f90182-a71b-a028-c43f-a85d59d2a56b%28Office.15%29.aspx), [AddLabel](http://msdn.microsoft.com/library/b744daf1-5b99-9649-8b97-d3f2193373c1%28Office.15%29.aspx), [AddLine](http://msdn.microsoft.com/library/9dbe640b-5ba4-a620-d3c6-4a2d0cc2bc27%28Office.15%29.aspx), [AddMediaObject](http://msdn.microsoft.com/library/7e2ab704-7fd4-86d7-3f61-8d69c13b5685%28Office.15%29.aspx), [AddOLEObject](http://msdn.microsoft.com/library/88a5aa63-0531-b9d8-43d2-5a995b91b189%28Office.15%29.aspx), [AddPicture](http://msdn.microsoft.com/library/af432432-b09b-3ca6-d392-132bd78251c7%28Office.15%29.aspx), [AddPlaceholder](http://msdn.microsoft.com/library/10927d59-1810-2f91-eb52-c42113570ccc%28Office.15%29.aspx), [AddPolyline](http://msdn.microsoft.com/library/e42c4f7a-de68-88bf-d250-28e642b56232%28Office.15%29.aspx), [AddShape](http://msdn.microsoft.com/library/2bc6cce5-3461-61ff-083d-bd36ee71cb59%28Office.15%29.aspx), [AddTable](http://msdn.microsoft.com/library/77ce193e-10f7-25f4-a6f8-99d7d2b781ad%28Office.15%29.aspx), [AddTextbox](http://msdn.microsoft.com/library/0c7c6093-48f6-e1f1-1837-e69d6ef13e57%28Office.15%29.aspx), [AddTextEffect](http://msdn.microsoft.com/library/4428ac57-c704-475a-1640-78a556e9ac3d%28Office.15%29.aspx), or [AddTitle](http://msdn.microsoft.com/library/1fe13529-526a-1b29-7589-c155f9e46379%28Office.15%29.aspx)method to create a new shape and add it to the  **Shapes** collection. Use the[BuildFreeform](http://msdn.microsoft.com/library/330ea348-9f8c-c418-d67f-e4fd6c105c59%28Office.15%29.aspx)method in conjunction with the [ConvertToShape](http://msdn.microsoft.com/library/bc3d209e-6735-3011-9334-46049d269355%28Office.15%29.aspx)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
+Use the [AddCallout](http://msdn.microsoft.com/library/e4b468d7-793a-09ae-fcfc-6a73db93c90e%28Office.15%29.aspx), [AddComment](http://msdn.microsoft.com/library/11347ca1-cef3-0923-2544-cb80e7fc5768%28Office.15%29.aspx), [AddConnector](http://msdn.microsoft.com/library/407eee86-11c1-7bee-ed25-aba71a930a1c%28Office.15%29.aspx), [AddCurve](http://msdn.microsoft.com/library/47f90182-a71b-a028-c43f-a85d59d2a56b%28Office.15%29.aspx), [AddLabel](http://msdn.microsoft.com/library/b744daf1-5b99-9649-8b97-d3f2193373c1%28Office.15%29.aspx), [AddLine](http://msdn.microsoft.com/library/9dbe640b-5ba4-a620-d3c6-4a2d0cc2bc27%28Office.15%29.aspx), [AddMediaObject](http://msdn.microsoft.com/library/7e2ab704-7fd4-86d7-3f61-8d69c13b5685%28Office.15%29.aspx), [AddOLEObject](http://msdn.microsoft.com/library/88a5aa63-0531-b9d8-43d2-5a995b91b189%28Office.15%29.aspx), [AddPicture](http://msdn.microsoft.com/library/af432432-b09b-3ca6-d392-132bd78251c7%28Office.15%29.aspx), [AddPlaceholder](http://msdn.microsoft.com/library/10927d59-1810-2f91-eb52-c42113570ccc%28Office.15%29.aspx), [AddPolyline](http://msdn.microsoft.com/library/e42c4f7a-de68-88bf-d250-28e642b56232%28Office.15%29.aspx), [AddShape](http://msdn.microsoft.com/library/2bc6cce5-3461-61ff-083d-bd36ee71cb59%28Office.15%29.aspx), [AddTable](http://msdn.microsoft.com/library/77ce193e-10f7-25f4-a6f8-99d7d2b781ad%28Office.15%29.aspx), [AddTextbox](http://msdn.microsoft.com/library/0c7c6093-48f6-e1f1-1837-e69d6ef13e57%28Office.15%29.aspx), [AddTextEffect](http://msdn.microsoft.com/library/4428ac57-c704-475a-1640-78a556e9ac3d%28Office.15%29.aspx), or [AddTitle](http://msdn.microsoft.com/library/1fe13529-526a-1b29-7589-c155f9e46379%28Office.15%29.aspx)method to create a new shape and add it to the **Shapes** collection. Use the[BuildFreeform](http://msdn.microsoft.com/library/330ea348-9f8c-c418-d67f-e4fd6c105c59%28Office.15%29.aspx)method in conjunction with the [ConvertToShape](http://msdn.microsoft.com/library/bc3d209e-6735-3011-9334-46049d269355%28Office.15%29.aspx)method to create a new freeform and add it to the collection. The following example adds a rectangle to the active presentation.
 
 
 
@@ -47,7 +47,7 @@ ActivePresentation.Slides(1).Shapes.AddShape Type:=msoShapeRectangle, _
     Left:=50, Top:=50, Width:=100, Height:=200
 ```
 
-Use  **Shapes** (index), where index is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one in the active presentation.
+Use **Shapes** (index), where index is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one in the active presentation.
 
 
 
@@ -60,7 +60,7 @@ ActivePresentation.Slides(1).Shapes(1).Fill _
     PresetGradientType:=msoGradientBrass
 ```
 
-Use  **Shapes.Range** (index), where index is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](shaperange-object-powerpoint.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three in the active presentation.
+Use **Shapes.Range** (index), where index is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](shaperange-object-powerpoint.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three in the active presentation.
 
 
 
@@ -71,7 +71,7 @@ ActivePresentation.Slides(1).Shapes.Range(Array(1, 3)).Fill _
     .Patterned Pattern:=msoPatternHorizontalBrick
 ```
 
-Use  **Shapes.Placeholders** (index), where index is the placeholder number, to return a **Shape** object that represents a placeholder. If the specified slide has a title, use **Shapes.Placeholders(1)** or **Shapes.Title** to return the title placeholder. The following example adds a slide to the active presentation and then adds text to both the title and the subtitle (the subtitle is the second placeholder on a slide with this layout).
+Use **Shapes.Placeholders** (index), where index is the placeholder number, to return a **Shape** object that represents a placeholder. If the specified slide has a title, use **Shapes.Placeholders(1)** or **Shapes.Title** to return the title placeholder. The following example adds a slide to the active presentation and then adds text to both the title and the subtitle (the subtitle is the second placeholder on a slide with this layout).
 
 
 

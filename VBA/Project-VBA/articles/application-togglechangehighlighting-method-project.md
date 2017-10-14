@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ToggleChangeHighlighting Method (Project)
 
-Toggles calculation  **Change Highlighting** on or off.
+Toggles calculation **Change Highlighting** on or off.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Toggles calculation  **Change Highlighting** on or off.
 
 ## Remarks
 
-Returns  **True** if successful. See also the **[EnableChangeHighlighting](application-enablechangehighlighting-property-project.md)** property.
+Returns **True** if successful. See also the **[EnableChangeHighlighting](application-enablechangehighlighting-property-project.md)** property.
 
 

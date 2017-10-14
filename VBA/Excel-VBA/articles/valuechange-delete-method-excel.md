@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValueChange.Delete Method (Excel)
 
-Deletes the specified  **[ValueChange](valuechange-object-excel.md)** object from the **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection.
+Deletes the specified **[ValueChange](valuechange-object-excel.md)** object from the **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Deletes the specified  **[ValueChange](valuechange-object-excel.md)** object fro
 
 ## Remarks
 
-You can also delete a  **ValueChange** object by using the Delete method of the PivotTableChangeList collection.
+You can also delete a **ValueChange** object by using the Delete method of the PivotTableChangeList collection.
 
 
 ## See also

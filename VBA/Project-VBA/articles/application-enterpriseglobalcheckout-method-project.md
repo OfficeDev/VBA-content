@@ -30,6 +30,6 @@ Checks out the enterprise global template from Project Server. Available in Proj
 
 ## Remarks
 
-he  **EnterpriseGlobalCheckOut** method is only available when the user is connected to Project Server and when the user has permission to check in files.
+he **EnterpriseGlobalCheckOut** method is only available when the user is connected to Project Server and when the user has permission to check in files.
 
 

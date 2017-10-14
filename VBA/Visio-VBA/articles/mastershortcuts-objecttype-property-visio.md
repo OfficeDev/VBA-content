@@ -30,12 +30,12 @@ Integer
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
 
 
 ## Example
 
-This example shows how to use the  **ObjectType** property of a page to iterate recursively through a group and identify the top shape.
+This example shows how to use the **ObjectType** property of a page to iterate recursively through a group and identify the top shape.
 
 
 ```vb

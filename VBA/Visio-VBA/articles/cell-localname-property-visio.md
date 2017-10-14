@@ -32,6 +32,6 @@ String
 
 A cell has both a local name and a universal name. The local name differs according to the locale for which Microsoft Windows is installed on the user's system. The universal name is the same regardless of locale.
 
-To get the universal name of a cell, use the  **Name** property.
+To get the universal name of a cell, use the **Name** property.
 
 

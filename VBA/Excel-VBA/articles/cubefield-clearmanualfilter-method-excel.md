@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.ClearManualFilter Method (Excel)
 
-The  **ClearManualFilter** method provides an easy way to set the **Visible** property to **True** for all items of a PivotField in PivotTables, and to empty the **HiddenItemsList** / **VisibleItemsList** collections in OLAP PivotTables.
+The **ClearManualFilter** method provides an easy way to set the **Visible** property to **True** for all items of a PivotField in PivotTables, and to empty the **HiddenItemsList** / **VisibleItemsList** collections in OLAP PivotTables.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ The  **ClearManualFilter** method provides an easy way to set the **Visible** pr
 
 ## Remarks
 
-This method is available for the  **PivotField** object in PivotTables and for the **CubeField** object in the OLAP PivotTable. Calling it for a PivotField in an OLAP PivotTable will return a run-time error.
+This method is available for the **PivotField** object in PivotTables and for the **CubeField** object in the OLAP PivotTable. Calling it for a PivotField in an OLAP PivotTable will return a run-time error.
 
-After calling this method, the  **HiddenItemsList** / **HiddenItems** and **VisibleItemsList** / **VisibleItems** collections are empty.
+After calling this method, the **HiddenItemsList** / **HiddenItems** and **VisibleItemsList** / **VisibleItems** collections are empty.
 
 
 ## See also

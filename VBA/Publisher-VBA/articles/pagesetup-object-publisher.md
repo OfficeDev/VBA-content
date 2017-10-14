@@ -18,7 +18,7 @@ Contains information about the page setup for the pages in a publication.
 
 ## Example
 
-Use the  **[PageSetup](http://msdn.microsoft.com/library/1dac39f0-2507-a85b-8c71-cd1980022fb3%28Office.15%29.aspx)** property to return the **PageSetup** object. The following example sets all pages in the active publication to be 8.5 inches wide and 11 inches high.
+Use the **[PageSetup](http://msdn.microsoft.com/library/1dac39f0-2507-a85b-8c71-cd1980022fb3%28Office.15%29.aspx)** property to return the **PageSetup** object. The following example sets all pages in the active publication to be 8.5 inches wide and 11 inches high.
 
 
 ```

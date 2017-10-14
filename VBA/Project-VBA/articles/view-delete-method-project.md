@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # View.Delete Method (Project)
 
-Deletes the  **View** object from a **Views** collection.
+Deletes the **View** object from a **Views** collection.
 
 
 ## Syntax

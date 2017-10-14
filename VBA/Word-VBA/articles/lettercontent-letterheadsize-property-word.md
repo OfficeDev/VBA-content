@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.LetterheadSize Property (Word)
 
-Returns or sets the amount of space (in points) to be reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write  **Single** .
+Returns or sets the amount of space (in points) to be reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the amount of space (in points) to be reserved for a preprinted 
 
 ## Example
 
-This example retrieves the Letter Wizard elements from the active document, changes the preprinted letterhead settings, and then uses the  **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the active document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the preprinted letterhead settings, and then uses the **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the active document to reflect the changes.
 
 
 ```vb

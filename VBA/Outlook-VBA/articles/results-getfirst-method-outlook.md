@@ -25,12 +25,12 @@ Returns the first object in the collection.
 
 ### Return Value
 
-An  **Object** value that represents the first object contained by the collection.
+An **Object** value that represents the first object contained by the collection.
 
 
 ## Remarks
 
-Returns  **Nothing** if no first object exists, for example, if there are no objects in the collection. To ensure correct operation of the **GetFirst** , **[GetLast](results-getlast-method-outlook.md)** , **[GetNext](results-getnext-method-outlook.md)** , and **[GetPrevious](results-getprevious-method-outlook.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+Returns **Nothing** if no first object exists, for example, if there are no objects in the collection. To ensure correct operation of the **GetFirst** , **[GetLast](results-getlast-method-outlook.md)** , **[GetNext](results-getnext-method-outlook.md)** , and **[GetPrevious](results-getprevious-method-outlook.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## See also

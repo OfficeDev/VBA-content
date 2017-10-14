@@ -30,7 +30,7 @@ Returns or sets the group for the specified chart. Read/write
 
 ## Remarks
 
-For 3-D charts, only  **xlPrimary** is valid.
+For 3-D charts, only **xlPrimary** is valid.
 
 
 ## Example

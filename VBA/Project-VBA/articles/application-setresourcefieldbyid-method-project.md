@@ -29,11 +29,11 @@ Sets the value of a resource field specified by the field identification number.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**PjField**|Field identification number. Can be one of the resource fields specified by a  **[PjField](pjfield-enumeration-project.md)** constant or a number returned by the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method.|
+| _FieldID_|Required|**PjField**|Field identification number. Can be one of the resource fields specified by a **[PjField](pjfield-enumeration-project.md)** constant or a number returned by the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method.|
 | _Value_|Required|**String**|The value of the resource field.|
 | _AllSelectedResources_|Optional|**Boolean**|**True** if the value of the field is set for all selected resources. **False** if the value is set for the active resource. The default value is **False**.|
 | _Create_|Optional|**Boolean**|**True** if Project should create a resource if the active cell is on an empty row. The default value is **True**.|
-| _ResourceID_|Optional|**Long**|The identification number of the resource containing the field to set. If AllSelectedResources is  **True**, ResourceID is ignored.|
+| _ResourceID_|Optional|**Long**|The identification number of the resource containing the field to set. If AllSelectedResources is **True**, ResourceID is ignored.|
 | _ProjectName_|Optional|**String**|If the active project is a consolidated project, specifies the name of the project for the resource specified by  _ResourceID_. If  _ResourceID_ is not specified, _ProjectName_ is ignored. The default value is the name of the active project.|
 
 ### Return Value
@@ -43,6 +43,6 @@ Sets the value of a resource field specified by the field identification number.
 
 ## Remarks
 
-To set a resource field by name, use the  **[SetResourceField](application-setresourcefield-method-project.md)** method.
+To set a resource field by name, use the **[SetResourceField](application-setresourcefield-method-project.md)** method.
 
 

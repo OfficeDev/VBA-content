@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.LinkSources Method (Excel)
 
-Returns an array of links in the workbook. The names in the array are the names of the linked documents, editions, or DDE or OLE servers. Returns  **Empty** if there are no links.
+Returns an array of links in the workbook. The names in the array are the names of the linked documents, editions, or DDE or OLE servers. Returns **Empty** if there are no links.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns an array of links in the workbook. The names in the array are the names 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLink](xllink-enumeration-excel.md)** which specifies the type of link to return.|
+| _Type_|Optional| **Variant**|One of the constants of **[XlLink](xllink-enumeration-excel.md)** which specifies the type of link to return.|
 
 ### Return Value
 

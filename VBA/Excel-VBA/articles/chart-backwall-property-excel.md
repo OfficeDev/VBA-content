@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.BackWall Property (Excel)
 
-Returns a  **[Walls](walls-object-excel.md)** object that allows the user to individually format the back wall of a 3-D chart. Read-only.
+Returns a **[Walls](walls-object-excel.md)** object that allows the user to individually format the back wall of a 3-D chart. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProjectStatistics Method (Project)
 
-Displays the  **Project Statistics** dialog box.
+Displays the **Project Statistics** dialog box.
 
 
 ## Syntax
@@ -38,6 +38,6 @@ Displays the  **Project Statistics** dialog box.
 
 ## Remarks
 
-The  **ProjectStatistics** method has the same effect as clicking **Project Information** on the **Project** tab of the Ribbon, and then clicking **Statistics**.
+The **ProjectStatistics** method has the same effect as clicking **Project Information** on the **Project** tab of the Ribbon, and then clicking **Statistics**.
 
 

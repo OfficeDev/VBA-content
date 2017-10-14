@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperty.Formula Property (Outlook)
 
-Returns or sets a  **String** representing the formula for the user property. Read/write.
+Returns or sets a **String** representing the formula for the user property. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the formula for the user property. Re
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Formula** property.
+The following Visual Basic for Applications (VBA) example shows how to use the **Formula** property.
 
 
 ```vb

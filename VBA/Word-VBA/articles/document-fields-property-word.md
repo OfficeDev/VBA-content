@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Fields Property (Word)
 
-Returns a  **[Fields](fields-object-word.md)** collection that represents all the fields in the document. Read-only.
+Returns a **[Fields](fields-object-word.md)** collection that represents all the fields in the document. Read-only.
 
 
 ## Syntax

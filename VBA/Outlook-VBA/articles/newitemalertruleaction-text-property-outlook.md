@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NewItemAlertRuleAction.Text Property (Outlook)
 
-Returns or sets a  **String** that represents the text displayed in the new item alert dialog box. Read/write.
+Returns or sets a **String** that represents the text displayed in the new item alert dialog box. Read/write.
 
 
 ## Syntax

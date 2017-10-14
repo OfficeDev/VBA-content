@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NewFile.Remove Method (Office)
 
-Removes an item from the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.
+Removes an item from the **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Removes an item from the  **New Item** task pane. Returns a **Boolean** value to
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file reference.|
-| _Section_|Optional|**Variant**|The section of the task pane where the file reference exists. Can be any  **msoFileNew** constant.|
+| _Section_|Optional|**Variant**|The section of the task pane where the file reference exists. Can be any **msoFileNew** constant.|
 | _DisplayName_|Optional|**Variant**|The display text of the file reference.|
 
 ## Remarks
 
-The arguments supplied to the  **Remove** method must match the arguments that were supplied to the **Add** method of the **NewFile** object, or the **Remove** method will fail. For example, if the **Action** argument was supplied when the **NewFile** object was added, then the same **Action** argument must be supplied to remove the **NewFile** object, or the **Remove** method will fail.
+The arguments supplied to the **Remove** method must match the arguments that were supplied to the **Add** method of the **NewFile** object, or the **Remove** method will fail. For example, if the **Action** argument was supplied when the **NewFile** object was added, then the same **Action** argument must be supplied to remove the **NewFile** object, or the **Remove** method will fail.
 
 
 ## See also

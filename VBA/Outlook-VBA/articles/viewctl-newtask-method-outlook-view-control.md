@@ -15,11 +15,11 @@ Creates and displays a new task.
 
  _expression_. **NewTask**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
 
-When the new task is saved it is saved to the  **Tasks**folder, if any, that is displayed in the control. If there is no  **Tasks** folder displayed in the control, the task is saved to the user's default **Tasks** folder.
+When the new task is saved it is saved to the **Tasks**folder, if any, that is displayed in the control. If there is no **Tasks** folder displayed in the control, the task is saved to the user's default **Tasks** folder.
 
 

@@ -30,9 +30,9 @@ Boolean
 
 ## Remarks
 
-The  **ExclusiveAccess** method saves any changes you've made to the workbook and requires other users who have the workbook open to save their changes to a different file.
+The **ExclusiveAccess** method saves any changes you've made to the workbook and requires other users who have the workbook open to save their changes to a different file.
 
-If the specified workbook isn't open as a shared list, this method fails. To determine whether a workbook is open as a shared list, use the  **[MultiUserEditing](workbook-multiuserediting-property-excel.md)** property.
+If the specified workbook isn't open as a shared list, this method fails. To determine whether a workbook is open as a shared list, use the **[MultiUserEditing](workbook-multiuserediting-property-excel.md)** property.
 
 
 ## Example

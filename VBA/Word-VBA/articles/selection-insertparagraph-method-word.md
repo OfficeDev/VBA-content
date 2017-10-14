@@ -25,7 +25,7 @@ Replaces the specified selection with a new paragraph.
 
 ## Remarks
 
-After using method, the selection contains the new paragraph. If you don't want to replace the current selection, use the  **Collapse** method before using this method. You can also use the **[InsertParagraphBefore](selection-insertparagraphbefore-method-word.md)** or **[InsertParagraphAfter](selection-insertparagraphafter-method-word.md)** method to insert a new paragraph before or after a selection.
+After using method, the selection contains the new paragraph. If you don't want to replace the current selection, use the **Collapse** method before using this method. You can also use the **[InsertParagraphBefore](selection-insertparagraphbefore-method-word.md)** or **[InsertParagraphAfter](selection-insertparagraphafter-method-word.md)** method to insert a new paragraph before or after a selection.
 
 
 ## Example

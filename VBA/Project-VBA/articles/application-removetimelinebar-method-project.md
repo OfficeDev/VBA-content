@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Application.RemoveTimelineBar Method (Project)
 
-Removes a  **Timeline** bar from the view. Introduced in Office 2016.
+Removes a **Timeline** bar from the view. Introduced in Office 2016.
 
 
 ## Syntax

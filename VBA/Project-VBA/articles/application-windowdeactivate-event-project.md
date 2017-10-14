@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.WindowDeactivate Event (Project)
 
-Occurs when any window within Project is deactivated. The  **WindowDeactivate** event does not occur when the application window is deactivated.
+Occurs when any window within Project is deactivated. The **WindowDeactivate** event does not occur when the application window is deactivated.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.RevisionNumber Property (Project)
 
-Gets the number of times a project has been saved. Read-only  **String**.
+Gets the number of times a project has been saved. Read-only **String**.
 
 
 ## Syntax

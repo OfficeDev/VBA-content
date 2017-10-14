@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Shading Property (Word)
 
-Returns a  **[Shading](shading-object-word.md)** object that refers to the shading formatting for the specified object.
+Returns a **[Shading](shading-object-word.md)** object that refers to the shading formatting for the specified object.
 
 
 ## Syntax

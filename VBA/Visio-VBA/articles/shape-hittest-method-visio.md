@@ -40,11 +40,11 @@ Integer
 
 ## Remarks
 
-The  **HitTest** method considers only visible geometry and ignores hidden geometry.
+The **HitTest** method considers only visible geometry and ignores hidden geometry.
 
 Use internal drawing units (inches in the drawing) for the  _xPos_,  _yPos_, and  _Tolerance_ values. These values should also be in, and with respect to, the coordinate space of the page, master, or group shape that contains the shape being hit tested.
 
-The following are possible values returned by the  **HitTest** method, and are declared by the Visio type library in **VisHitTestResults** .
+The following are possible values returned by the **HitTest** method, and are declared by the Visio type library in **VisHitTestResults** .
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.RotationZ Property (Word)
 
-Returns or sets a  **Single** that represents z-axis rotation of the camera. Read/write.
+Returns or sets a **Single** that represents z-axis rotation of the camera. Read/write.
 
 
 ## Syntax

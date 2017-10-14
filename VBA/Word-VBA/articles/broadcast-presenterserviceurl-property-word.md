@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Broadcast.PresenterServiceUrl Property (Word)
 
-If a broadcast is in progress, returns a  **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
+If a broadcast is in progress, returns a **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ If a broadcast is in progress, returns a  **String** that represents the URL of 
 
 ## Remarks
 
-If a broadcast is not in progress,  **PresenterServiceUrl** returns an empty string.
+If a broadcast is not in progress, **PresenterServiceUrl** returns an empty string.
 
 
 ## Property value

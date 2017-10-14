@@ -26,23 +26,23 @@ The Outlook object model provides several approaches to access Outlook propertie
     
 - Using the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object to access built-in and custom properties of the following objects:
     
-  -  **[AddressEntry](addressentry-object-outlook.md)**
+  - **[AddressEntry](addressentry-object-outlook.md)**
     
-  -  **[AddressList](addresslist-object-outlook.md)**
+  - **[AddressList](addresslist-object-outlook.md)**
     
-  -  **[Attachment](attachment-object-outlook.md)**
+  - **[Attachment](attachment-object-outlook.md)**
     
-  -  **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)**
+  - **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)**
     
-  -  **[ExchangeUser](exchangeuser-object-outlook.md)**
+  - **[ExchangeUser](exchangeuser-object-outlook.md)**
     
-  -  **[Folder](folder-object-outlook.md)**
+  - **[Folder](folder-object-outlook.md)**
     
-  -  **[Outlook item objects](outlook-item-objects.md)**
+  - **[Outlook item objects](outlook-item-objects.md)**
     
-  -  **[Recipient](recipient-object-outlook.md)**
+  - **[Recipient](recipient-object-outlook.md)**
     
-  -  **[Store](store-object-outlook.md)**
+  - **[Store](store-object-outlook.md)**
     
 
 > [!NOTE]

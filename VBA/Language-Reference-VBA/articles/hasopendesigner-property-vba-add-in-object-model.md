@@ -15,11 +15,11 @@ ms.date: 06/08/2017
 
 Returns a [Boolean](vbe-glossary.md) value indicating whether or not the **VBComponent** object has an open[designer](vbe-glossary.md). Read-only.
  **Return Values**
-The  **HasOpenDesigner** property returns these values:
+The **HasOpenDesigner** property returns these values:
 
 
 |**Value**|**Description**|
 |:-----|:-----|
-|**True**|The  **VBComponent** object has an open **Design** window.|
-|**False**|The  **VBComponent** object doesn't have an open **Design** window.|
+|**True**|The **VBComponent** object has an open **Design** window.|
+|**False**|The **VBComponent** object doesn't have an open **Design** window.|
 

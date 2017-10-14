@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.End Property (Outlook)
 
-Returns or sets a  **Date** indicating the end date and time of a Journal entry. Read/write.
+Returns or sets a **Date** indicating the end date and time of a Journal entry. Read/write.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Subproject.InsertedProjectSummary Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object that represents the summary task of the subproject in a master project. Read-only **Task**.
+Gets a **[Task](task-object-project.md)** object that represents the summary task of the subproject in a master project. Read-only **Task**.
 
 
 ## Syntax

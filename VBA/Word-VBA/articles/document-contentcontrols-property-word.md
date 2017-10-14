@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ContentControls Property (Word)
 
-Returns a  **[ContentControls](contentcontrols-object-word.md)** collection that represents all the content controls in a document. Read-only.
+Returns a **[ContentControls](contentcontrols-object-word.md)** collection that represents all the content controls in a document. Read-only.
 
 
 ## Syntax

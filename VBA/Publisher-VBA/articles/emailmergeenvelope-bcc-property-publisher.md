@@ -20,7 +20,7 @@ Gets or sets a semicolon-delimited list of e-mail addresses that receive a blind
 
  _expression_. **Bcc**
 
- _expression_A variable that represents an  **EmailMergeEnvelope** object.
+ _expression_A variable that represents an **EmailMergeEnvelope** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Set the  **Bcc** property to a string of e-mail addresses separated by semicolons, as shown in the following example.
+Set the **Bcc** property to a string of e-mail addresses separated by semicolons, as shown in the following example.
 
 
 ```vb

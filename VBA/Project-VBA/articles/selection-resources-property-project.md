@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Selection.Resources Property (Project)
 
-Gets a  **[Resources](resource-object-project.md)** collection that contains the resources in the selection. Read-only **Resources**.
+Gets a **[Resources](resource-object-project.md)** collection that contains the resources in the selection. Read-only **Resources**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets a  **[Resources](resource-object-project.md)** collection that contains the
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see the **[Resources](task-resources-property-project.md)** property.
+For a code example that uses the **Task** object, see the **[Resources](task-resources-property-project.md)** property.
 
 

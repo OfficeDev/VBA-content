@@ -29,18 +29,18 @@ Logs the user on to MAPI, obtaining a MAPI session.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Profile_|Optional| **Variant**|The MAPI profile name, as a  **String** , to use for the session. Specify an empty string to use the default profile for the current session.|
-| _Password_|Optional| **Variant**|The password (if any), as a  **String** , associated with the profile. This parameter exists only for backwards compatibility and for security reasons, it is not recommended for use. Microsoft Oultook will prompt the user to specify a password in most system configurations. This is your logon password and should not be confused with PST passwords.|
+| _Profile_|Optional| **Variant**|The MAPI profile name, as a **String** , to use for the session. Specify an empty string to use the default profile for the current session.|
+| _Password_|Optional| **Variant**|The password (if any), as a **String** , associated with the profile. This parameter exists only for backwards compatibility and for security reasons, it is not recommended for use. Microsoft Oultook will prompt the user to specify a password in most system configurations. This is your logon password and should not be confused with PST passwords.|
 | _ShowDialog_|Optional| **Variant**| **True** to display the MAPI logon dialog box to allow the user to select a MAPI profile.|
 | _NewSession_|Optional| **Variant**| **True** to create a new Microsoft Outlook session. Since multiple sessions cannot be created in Outlook, this parameter should be specified as True only if a session does not already exist.|
 
 ## Remarks
 
-Use the  **Logon** method only to log on to a specific profile when Outlook is not already running. This is because only one Outlook process can run at a time, and that Outlook process uses only one profile and supports only one MAPI session. When users start Outlook a second time, that instance of Outlook runs within the same Outlook process, does not create a new process, and uses the same profile.
+Use the **Logon** method only to log on to a specific profile when Outlook is not already running. This is because only one Outlook process can run at a time, and that Outlook process uses only one profile and supports only one MAPI session. When users start Outlook a second time, that instance of Outlook runs within the same Outlook process, does not create a new process, and uses the same profile.
 
 If Outlook is already running, using this method does not create a new Outlook session or change the current profile to a different one. 
 
-If Outlook is not running and you only want to start Outlook with the default profile, do not use the  **Logon** method. A better alternative is shown in the following code example, `InitializeMAPI`: first, instantiate the Outlook [Application](application-object-outlook.md) object, then reference a default folder such as the Inbox. This has the side effect of initializing MAPI to use the default profile and to make the object model fully functional.
+If Outlook is not running and you only want to start Outlook with the default profile, do not use the **Logon** method. A better alternative is shown in the following code example, `InitializeMAPI`: first, instantiate the Outlook [Application](application-object-outlook.md) object, then reference a default folder such as the Inbox. This has the side effect of initializing MAPI to use the default profile and to make the object model fully functional.
 
 
 
@@ -66,12 +66,12 @@ Sub InitializeMAPI ()
 End Sub
 ```
 
-Starting in Outlook 2010, if you have multiple profiles, you have configured Outlook to always use a default profile, and you use the  **Logon** method to log on to the default profile without prompting the user, the user will receive a prompt to choose a profile anyway. To avoid this behavior, do not use the **Logon** method; use the workaround suggested in the preceding `InitializeMAPI` example instead.
+Starting in Outlook 2010, if you have multiple profiles, you have configured Outlook to always use a default profile, and you use the **Logon** method to log on to the default profile without prompting the user, the user will receive a prompt to choose a profile anyway. To avoid this behavior, do not use the **Logon** method; use the workaround suggested in the preceding `InitializeMAPI` example instead.
 
 
 ## Example
 
-This Visual Basic for Applications example uses the  **Logon** method to log on to a new session, displaying the dialog box to verify the profile name and enter password.
+This Visual Basic for Applications example uses the **Logon** method to log on to a new session, displaying the dialog box to verify the profile name and enter password.
 
 
 ```vb

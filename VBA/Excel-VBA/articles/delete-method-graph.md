@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Delete Method (Graph)
 
-Delete method as it applies to all objects in the Applies To list except the  **Range** object.
+Delete method as it applies to all objects in the Applies To list except the **Range** object.
 
 Deletes the specified object.
 
  _expression_. **Delete**
 
  _expression_ Required. An expression that returns one of the above objects.
-Delete method as it applies to the  **Range** object.
+Delete method as it applies to the **Range** object.
 Deletes the specified object.
  _expression_. **Delete**( **_Shift_**)
  _expression_ Required. An expression that returns one of the above objects.
@@ -33,7 +33,7 @@ Deletes the specified object.
 
 ## Remarks
 
-Deleting a  **Point** or **LegendKey** object deletes the entire series.
+Deleting a **Point** or **LegendKey** object deletes the entire series.
 
 
 ## Example

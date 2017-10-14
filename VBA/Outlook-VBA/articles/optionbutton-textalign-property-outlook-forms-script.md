@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # OptionButton.TextAlign Property (Outlook Forms Script)
 
-Returns or sets an  **Integer** that specifies how text is aligned in a control. Read/write.
+Returns or sets an **Integer** that specifies how text is aligned in a control. Read/write.
 
 
 ## Syntax
 
  _expression_. **TextAlign**
 
- _expression_A variable that represents an  **OptionButton** object.
+ _expression_A variable that represents an **OptionButton** object.
 
 
 ## Remarks
 
-The settings for  **TextAlign** are:
+The settings for **TextAlign** are:
 
 
 

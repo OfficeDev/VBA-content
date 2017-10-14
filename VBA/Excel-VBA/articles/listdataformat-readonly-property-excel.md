@@ -30,7 +30,7 @@ This property is used only for tables that are linked to a SharePoint site.
 
 ## Example
 
-The following example displays the setting of the  **ReadOnly** property for the third column of a table in Sheet1 of the active workbook.
+The following example displays the setting of the **ReadOnly** property for the third column of a table in Sheet1 of the active workbook.
 
 
 ```vb

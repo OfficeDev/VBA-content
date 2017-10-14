@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SelectContentControlsByTag Method (Word)
 
-Returns a  **[ContentControls](contentcontrols-object-word.md)** collection that represents all the content controls in a document with the tag value specified in the Tag parameter. Read-only.
+Returns a **[ContentControls](contentcontrols-object-word.md)** collection that represents all the content controls in a document with the tag value specified in the Tag parameter. Read-only.
 
 
 ## Syntax

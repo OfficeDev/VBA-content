@@ -38,7 +38,7 @@ Document
 
 ## Remarks
 
-When you use the  **Open** method to open a **Document** object, it opens a Microsoft Visio file as an original. Depending on the file name extension, the **Open** method opens a drawing (.vsd), a stencil (.vss), a template (.vst), a workspace (.vsw), an XML drawing (.vdx), an XML stencil (.vsx), or an XML template (.vtx). You can also use this method to open and convert non-Visio files to Visio files. If the file does not exist or the file name is invalid, no **Document** object is returned and an error is generated.
+When you use the **Open** method to open a **Document** object, it opens a Microsoft Visio file as an original. Depending on the file name extension, the **Open** method opens a drawing (.vsd), a stencil (.vss), a template (.vst), a workspace (.vsw), an XML drawing (.vdx), an XML stencil (.vsx), or an XML template (.vtx). You can also use this method to open and convert non-Visio files to Visio files. If the file does not exist or the file name is invalid, no **Document** object is returned and an error is generated.
 
 If you pass a valid stencil (.vss) file name, the original stencil file opens. Starting with Microsoft Office Visio 2003, only user-created stencils are editable. By default, Visio stencils are not editable. Unless you want to create or edit the masters, open a stencil as read-only.
 

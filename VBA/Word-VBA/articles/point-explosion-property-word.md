@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.Explosion Property (Word)
 
-Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long** .
+Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write **Long** .
 
 
 ## Syntax

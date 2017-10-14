@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 
 
-Prints text in the  **Immediate** window.
+Prints text in the **Immediate** window.
  **Syntax**
  _object_**.Print** [ _outputlist_ ]
-The  **Print** method syntax has the following object qualifier and part:
+The **Print** method syntax has the following object qualifier and part:
 
 
 |**Part**|**Description**|
@@ -37,19 +37,19 @@ The  _outputlist_[argument](vbe-glossary.md) has the following syntax and parts:
 | _charpos_|Optional. Specifies the insertion point for the next character. Use a semicolon ( **;** ) to position the insertion point immediately following the last character displayed. Use **Tab(**_n_**)** to position the insertion point at an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
  **Remarks**
 Multiple expressions can be separated with either a space or a semicolon.
-All data printed to the  **Immediate** window is properly formatted using the decimal separator for the[locale](vbe-glossary.md) settings specified for your system. The[keywords](vbe-glossary.md) are output in the appropriate language for the[host application](vbe-glossary.md).
+All data printed to the **Immediate** window is properly formatted using the decimal separator for the[locale](vbe-glossary.md) settings specified for your system. The[keywords](vbe-glossary.md) are output in the appropriate language for the[host application](vbe-glossary.md).
 For [Boolean](vbe-glossary.md) data, either `True` or `False` is printed. The **True** and **False** keywords are translated according to the locale setting for the host application.
 [Date](vbe-glossary.md) data is written using the standard short date format recognized by your system. When either the date or the time component is missing or zero, only the data provided is written.
 Nothing is written if  _outputlist_ data is[Empty](vbe-glossary.md). However, if  _outputlist_ data is[Null](vbe-glossary.md),  `Null` is output. The **Null** keyword is appropriately translated when it is output.
-For error data, the output is written as  `Error errorcode`. The  **Error** keyword is appropriately translated when it is output.
+For error data, the output is written as  `Error errorcode`. The **Error** keyword is appropriately translated when it is output.
 The  _object_ is required if the method is used outside a[module](vbe-glossary.md) having a default display space. For example an error occurs if the method is called in a[standard module](vbe-glossary.md) without specifying an _object_, but if called in a form module, _outputlist_ is displayed on the form.
 
- **Note**  Because the  **Print** method typically prints with proportionally-spaced characters, there is no correlation between the number of characters printed and the number of fixed-width columns those characters occupy. For example, a wide letter, such as a "W", occupies more than one fixed-width column, and a narrow letter, such as an "i", occupies less. To allow for cases where wider than average characters are used, your tabular columns must be positioned far enough apart. Alternatively, you can print using a fixed-pitch font (such as Courier) to ensure that each character uses only one column.
+ **Note**  Because the **Print** method typically prints with proportionally-spaced characters, there is no correlation between the number of characters printed and the number of fixed-width columns those characters occupy. For example, a wide letter, such as a "W", occupies more than one fixed-width column, and a narrow letter, such as an "i", occupies less. To allow for cases where wider than average characters are used, your tabular columns must be positioned far enough apart. Alternatively, you can print using a fixed-pitch font (such as Courier) to ensure that each character uses only one column.
 
 
 ## Example
 
-Using the  **Print** method, this example displays the value of the variable `MyVar` in the **Immediate** window. Note that the **Print** method only applies to objects that can display text.
+Using the **Print** method, this example displays the value of the variable `MyVar` in the **Immediate** window. Note that the **Print** method only applies to objects that can display text.
 
 
 ```vb

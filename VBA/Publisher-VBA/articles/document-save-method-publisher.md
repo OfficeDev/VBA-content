@@ -20,14 +20,14 @@ Saves the specified publication.
 
  _expression_. **Save**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Remarks
 
-If the publication has not been previously saved, calling the  **Save** method is equivalent to calling the **[SaveAs](document-saveas-method-publisher.md)** method with the **_FileName_** argument set to the value of the publication's **[Name](application-name-property-publisher.md)** property. If the publication has been previously saved, the **Save** method saves the current version of the publication in the format in which it was opened and in the location to which it was last saved.
+If the publication has not been previously saved, calling the **Save** method is equivalent to calling the **[SaveAs](document-saveas-method-publisher.md)** method with the **_FileName_** argument set to the value of the publication's **[Name](application-name-property-publisher.md)** property. If the publication has been previously saved, the **Save** method saves the current version of the publication in the format in which it was opened and in the location to which it was last saved.
 
-Calling the  **Save** method always performs saves in the foreground regardless of whether background saves are enabled.
+Calling the **Save** method always performs saves in the foreground regardless of whether background saves are enabled.
 
 
 ## Example

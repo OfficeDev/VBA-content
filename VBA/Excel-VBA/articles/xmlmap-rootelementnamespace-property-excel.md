@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.RootElementNamespace Property (Excel)
 
-Returns an  **[XmlNamespace](xmlnamespace-object-excel.md)** object that represents the root element for the specified XML schema map. Read-only.
+Returns an **[XmlNamespace](xmlnamespace-object-excel.md)** object that represents the root element for the specified XML schema map. Read-only.
 
 
 ## Syntax

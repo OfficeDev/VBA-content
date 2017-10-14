@@ -18,7 +18,7 @@ Represents all the  [Tab Object (Outlook Forms Script)](tab-object-outlook-forms
 |**Name**|**Description**|
 |:-----|:-----|
 | [Add](tabs-add-method-outlook-forms-script.md)|Adds a  [Tab](tab-object-outlook-forms-script.md) to a [Tabs](tabs-object-outlook-forms-script.md) collection.|
-| [Clear](tabs-clear-method-outlook-forms-script.md)|Removes all tabs from a  **Tabs** collection.|
+| [Clear](tabs-clear-method-outlook-forms-script.md)|Removes all tabs from a **Tabs** collection.|
 | [Item](tabs-item-method-outlook-forms-script.md)|Returns a member of a collection, either by position or by name.|
 | [Remove](tabs-remove-method-outlook-forms-script.md)|Removes a member from a collection.|
 
@@ -30,7 +30,7 @@ Represents all the  [Tab Object (Outlook Forms Script)](tab-object-outlook-forms
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Count](tabs-count-property-outlook-forms-script.md)|Returns a  **Long** that represents the number of objects in a collection. Read-only.|
+| [Count](tabs-count-property-outlook-forms-script.md)|Returns a **Long** that represents the number of objects in a collection. Read-only.|
 
 
 

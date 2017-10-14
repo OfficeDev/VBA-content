@@ -31,7 +31,7 @@ Creates, edits, or copies a combination view.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of a two-pane view to edit, create, or copy. The default is the name of the active view.|
 | _Create_|Optional|**Boolean**|**True** if Project creates a two-pane view. If NewName is an empty string (""), the new view is given the name specified with Name. Otherwise, the new view is a copy of the view specified with Name and is given the name specified with NewName. The default value is **False.**|
-| _NewName_|Optional|**String**|A new name for the view specified with Name (Create is  **False** ) or a name for the new view just created (Create is **True** ). If NewName is an empty string and Create is **False**, the view specified with Name retains its current name. The default value is **False.**|
+| _NewName_|Optional|**String**|A new name for the view specified with Name (Create is **False** ) or a name for the new view just created (Create is **True** ). If NewName is an empty string and Create is **False**, the view specified with Name retains its current name. The default value is **False.**|
 | _TopView_|Optional|**String**|The name of the view to display in the upper pane. The view specified by Name displays in the lower pane.|
 | _BottomView_|Optional|**String**|The name of the view to display in the lower pane. The view specified by Name displays in the upper pane.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if the view name appears on the **Other Views** drop-down menu. The default value is **False.**|

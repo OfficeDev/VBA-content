@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SelectNodes Method (Word)
 
-Returns an  **XMLNodes** collection that represents all the nodes that match the XPath parameter in the order in which they appear in the document or range.
+Returns an **XMLNodes** collection that represents all the nodes that match the XPath parameter in the order in which they appear in the document or range.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ XMLNodes
 
 ## Remarks
 
-Setting the FastSearchSkippingTextNodes parameter to  **True** diminishes performance, because Microsoft Word searches all nodes in a document against the text contained in the node.
+Setting the FastSearchSkippingTextNodes parameter to **True** diminishes performance, because Microsoft Word searches all nodes in a document against the text contained in the node.
 
 
 ## Example

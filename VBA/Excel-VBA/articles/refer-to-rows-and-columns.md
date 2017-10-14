@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Refer to Rows and Columns
 
-Use the  **Rows** property or the **Columns** property to work with entire rows or columns. These properties return a **Range** object that represents a range of cells. In the following example, `Rows(1)` returns row one on Sheet1. The **Bold** property of the **Font** object for the range is then set to **True**.
+Use the **Rows** property or the **Columns** property to work with entire rows or columns. These properties return a **Range** object that represents a range of cells. In the following example, `Rows(1)` returns row one on Sheet1. The **Bold** property of the **Font** object for the range is then set to **True**.
 
 
 ```vb
@@ -21,7 +21,7 @@ End Sub
 ```
 
 
-The following table illustrates some row and column references using the  **Rows** and **Columns** properties.
+The following table illustrates some row and column references using the **Rows** and **Columns** properties.
 
 
 
@@ -32,7 +32,7 @@ The following table illustrates some row and column references using the  **Rows
 | `Columns(1)`|Column one|
 | `Columns("A")`|Column one|
 | `Columns`|All the columns on the worksheet|
-To work with several rows or columns at the same time, create an object variable and use the  **Union** method, combining multiple calls to the **Rows** or **Columns** property. The following example changes the format of rows one, three, and five on worksheet one in the active workbook to bold.
+To work with several rows or columns at the same time, create an object variable and use the **Union** method, combining multiple calls to the **Rows** or **Columns** property. The following example changes the format of rows one, three, and five on worksheet one in the active workbook to bold.
 
 
 

@@ -20,7 +20,7 @@ Specifies the color of the current color scheme. Read/write.
 
  _expression_. **SchemeColor**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_A variable that represents a **ColorFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbSchemeColorIndex
 
 ## Remarks
 
-The  **SchemeColor** property value can be one of the **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **SchemeColor** property value can be one of the **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecifications.Item Property (Access)
 
-The  **Item** property returns a specific member of a collection either by position or by index. Read-only **ImportExportSpecification**.
+The **Item** property returns a specific member of a collection either by position or by index. Read-only **ImportExportSpecification**.
 
 
 ## Syntax

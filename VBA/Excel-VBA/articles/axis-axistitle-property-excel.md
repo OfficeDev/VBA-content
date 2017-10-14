@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.AxisTitle Property (Excel)
 
-Returns an  **[AxisTitle](axistitle-object-excel.md)** object that represents the title of the specified axis. Read-only.
+Returns an **[AxisTitle](axistitle-object-excel.md)** object that represents the title of the specified axis. Read-only.
 
 
 ## Syntax

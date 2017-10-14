@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoPresetTextEffect Enumeration (Office)
 
-Specifies what text effect to use on a  **WordArt** object. Refer to the **WordArt Gallery** dialog box in any Microsoft Office product that supports WordArt to see a preview of each effect. The values of the **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).
+Specifies what text effect to use on a **WordArt** object. Refer to the **WordArt Gallery** dialog box in any Microsoft Office product that supports WordArt to see a preview of each effect. The values of the **MsoPresetTextEffect** constants correspond to the formats listed in the **WordArt Gallery** dialog box (numbered from left to right and from top to bottom).
 
 
 

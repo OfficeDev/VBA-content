@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CheckTaskErrors Method (Project)
 
-Checks the task to ensure that required custom fields are filled and that the calendars have the enterprise calendars type. If the TaskID parameter is  **null**, all tasks are checked. .
+Checks the task to ensure that required custom fields are filled and that the calendars have the enterprise calendars type. If the TaskID parameter is **null**, all tasks are checked. .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Checks the task to ensure that required custom fields are filled and that the ca
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TaskID_|Optional|**Variant**|TaskID for the task or  **null**.|
+| _TaskID_|Optional|**Variant**|TaskID for the task or **null**.|
 
 ### Return Value
 

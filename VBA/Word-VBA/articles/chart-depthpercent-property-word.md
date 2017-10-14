@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.DepthPercent Property (Word)
 
-Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long** .
+Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolder.IsRemovable Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[NavigationFolder](navigationfolder-object-outlook.md)** object can be removed from the Navigation Pane. Read-only.
+Returns a **Boolean** value that indicates whether the **[NavigationFolder](navigationfolder-object-outlook.md)** object can be removed from the Navigation Pane. Read-only.
 
 
 ## Syntax

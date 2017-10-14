@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Styles.PersistsEvents Property (Visio)
 
-Indicates whether an object is capable of containing persistent events in its  **EventList** collection. Read-only.
+Indicates whether an object is capable of containing persistent events in its **EventList** collection. Read-only.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ Integer
 
 ## Remarks
 
-Every object that has an  **EventList** property also has a **PersistsEvents** property. To be persistable, an event's action code must be **visActCodeRunAddon** , but it must also be in the **EventList** collection of an object whose **PersistsEvents** property is **True** . The only objects that currently persist events are **Document** , **Master** , and **Page** objects.
+Every object that has an **EventList** property also has a **PersistsEvents** property. To be persistable, an event's action code must be **visActCodeRunAddon** , but it must also be in the **EventList** collection of an object whose **PersistsEvents** property is **True** . The only objects that currently persist events are **Document** , **Master** , and **Page** objects.
 
-Whether a persistable event actually does persist depends on the value of its  **Persistent** property.
+Whether a persistable event actually does persist depends on the value of its **Persistent** property.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PersistsEvents** property to determine if an object is capable of containing persistent events. Executing the macro prints 1 ( **True** ), 1 ( **True** ), and 0 ( **False** ) in the **Immediate** window for the **Document** , **Page** , and **Window** objects, respectively.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **PersistsEvents** property to determine if an object is capable of containing persistent events. Executing the macro prints 1 ( **True** ), 1 ( **True** ), and 0 ( **False** ) in the **Immediate** window for the **Document** , **Page** , and **Window** objects, respectively.
 
 
 ```vb

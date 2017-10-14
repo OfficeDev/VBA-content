@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.Column Property (Access)
 
-You can use the  **Column** property to refer to a specific column, or column and row combination, in a multiple-column combo box or list box. Read-only **Variant**.
+You can use the **Column** property to refer to a specific column, or column and row combination, in a multiple-column combo box or list box. Read-only **Variant**.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ You can use the  **Column** property to refer to a specific column, or column an
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|A long integer that can range from 0 to the setting of the  **ColumnCount** property minus one.|
-| _Row_|Optional|**Variant**|An integer that can range from 0 to the setting of the  **ListCount** property minus 1.|
+| _Index_|Required|**Long**|A long integer that can range from 0 to the setting of the **ColumnCount** property minus one.|
+| _Row_|Optional|**Variant**|An integer that can range from 0 to the setting of the **ListCount** property minus 1.|
 
 ## Remarks
 
@@ -41,7 +41,7 @@ Use 0 to refer to the first column, 1 to refer to the second column, and so on. 
 Forms!Contacts!Customers.Column(1, 4)
 ```
 
-You can use the  **Column** property to assign the contents of a combo box or list box to another control, such as a text box. For example, to set the **ControlSource** property of a text box to the value in the second column of a list box, you could use the following expression:
+You can use the **Column** property to assign the contents of a combo box or list box to another control, such as a text box. For example, to set the **ControlSource** property of a text box to the value in the second column of a list box, you could use the following expression:
 
 
 
@@ -50,7 +50,7 @@ You can use the  **Column** property to assign the contents of a combo box or li
 =Forms!Customers!CompanyName.Column(1)
 ```
 
-If the user has made no selection when you refer to a column in a combo box or list box, the  **Column** property setting will be **Null**. You can use the **IsNull** function to determine if a selection has been made, as in the following example:
+If the user has made no selection when you refer to a column in a combo box or list box, the **Column** property setting will be **Null**. You can use the **IsNull** function to determine if a selection has been made, as in the following example:
 
 
 
@@ -62,12 +62,12 @@ End If
 ```
 
 
- **Note**  To determine how many columns a combo box or list box has, you can inspect the  **ColumnCount** property setting.
+ **Note**  To determine how many columns a combo box or list box has, you can inspect the **ColumnCount** property setting.
 
 
 ## Example
 
-The following example uses the  **Column** property and the **ColumnCount** property to print the values of a list box selection.
+The following example uses the **Column** property and the **ColumnCount** property to print the values of a list box selection.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TablesOfAuthorities Property (Word)
 
-Returns a  **[TableOfAuthorities](tableofauthorities-object-word.md)** collection that represents the tables of authorities in the specified document. Read-only.
+Returns a **[TableOfAuthorities](tableofauthorities-object-word.md)** collection that represents the tables of authorities in the specified document. Read-only.
 
 
 ## Syntax

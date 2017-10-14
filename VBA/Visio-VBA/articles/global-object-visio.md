@@ -18,7 +18,7 @@ The Microsoft Visio global object is automatically available to Microsoft Visual
 
 ## Remarks
 
-Members of the global object can be accessed without qualification. For example, to access the  **ActivePage** member of the global object:
+Members of the global object can be accessed without qualification. For example, to access the **ActivePage** member of the global object:
 
 
 ```vb
@@ -35,6 +35,6 @@ The preceding syntax is different from the syntax you would use for accessing me
 ```
 
 
- **Note**  The VBA project of every Visio document also has a class module called  **ThisDocument** . When referenced from code in the VBA project, the **ThisDocument** module returns a reference to the project's **Document** object.
+ **Note**  The VBA project of every Visio document also has a class module called **ThisDocument** . When referenced from code in the VBA project, the **ThisDocument** module returns a reference to the project's **Document** object.
 
 

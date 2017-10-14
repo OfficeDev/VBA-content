@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Parent Property (Office)
 
-Gets the  **Parent** object for the **TextRange2** object. Read-only.
+Gets the **Parent** object for the **TextRange2** object. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Object
 
 ## Example
 
-This example adds an oval containing text to slide one in the active presentation and rotates the oval and the text 45 degrees. The parent object for the text frame is the  **Shape** object that contains the text.
+This example adds an oval containing text to slide one in the active presentation and rotates the oval and the text 45 degrees. The parent object for the text frame is the **Shape** object that contains the text.
 
 
 ```

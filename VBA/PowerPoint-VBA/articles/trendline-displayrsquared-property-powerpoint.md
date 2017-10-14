@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting this property to  **True** automatically turns on data labels.
+Setting this property to **True** automatically turns on data labels.
 
 
 ## Example

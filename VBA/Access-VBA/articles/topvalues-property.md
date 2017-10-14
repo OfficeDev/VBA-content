@@ -23,28 +23,28 @@ ms.date: 06/08/2017
 [Example](#sectionSection2)
 
 
-You can use the  **TopValues** property to return a specified number of records or a percentage of records that meet the criteria you specify. For example, you might want to return the top 10 values or the top 25 percent of all values in a field.
+You can use the **TopValues** property to return a specified number of records or a percentage of records that meet the criteria you specify. For example, you might want to return the top 10 values or the top 25 percent of all values in a field.
 
- **Note**  The  **TopValues** property applies only to append, make-table, and select queries.
+ **Note**  The **TopValues** property applies only to append, make-table, and select queries.
 
 
 ## Setting
 <a name="sectionSection0"> </a>
 
-The  **TopValues** property setting is an Integer value that represents the exact number of values to return or a number followed by a percent sign (%) that represents the percent of records to return. For example, to return the top 10 values, set the **TopValues** property to 10; to return the top 10 percent of values, set the **TopValues** property to 10%.
+The **TopValues** property setting is an Integer value that represents the exact number of values to return or a number followed by a percent sign (%) that represents the percent of records to return. For example, to return the top 10 values, set the **TopValues** property to 10; to return the top 10 percent of values, set the **TopValues** property to 10%.
 
 You cannot set this property in code directly. It is set in SQL view of the Query window by using a TOP n or TOP n PERCENT clause in the SQL statement.
 
-You can also set the  **TopValues** property by using the query property sheet or the **Return** box in the **Query Setup** group on the ribbon.
+You can also set the **TopValues** property by using the query property sheet or the **Return** box in the **Query Setup** group on the ribbon.
 
 
- **Note**  The  **TopValues** property in the query property sheet **Return** box in the **Query Setup** group on the ribbon is a combo box that contains a list of values and percentage values. You can select one of these values or you can type any valid setting in the text box portion of this control.
+ **Note**  The **TopValues** property in the query property sheet **Return** box in the **Query Setup** group on the ribbon is a combo box that contains a list of values and percentage values. You can select one of these values or you can type any valid setting in the text box portion of this control.
 
 
 ## Remarks
 <a name="sectionSection1"> </a>
 
-Typically, you use the  **TopValues** property setting together with sorted fields. The field you want to display top values for should be the leftmost field that has the Sort box selected in the query design grid. An ascending sort returns the bottom-most records, and a descending sort returns the topmost records. If you specify that a specific number of records be returned, all records with values that match the value in the last record are also returned.
+Typically, you use the **TopValues** property setting together with sorted fields. The field you want to display top values for should be the leftmost field that has the Sort box selected in the query design grid. An ascending sort returns the bottom-most records, and a descending sort returns the topmost records. If you specify that a specific number of records be returned, all records with values that match the value in the last record are also returned.
 
 For example, suppose a set of employees has the following sales totals.
 
@@ -58,7 +58,7 @@ For example, suppose a set of employees has the following sales totals.
 |70,000|King|
 |60,000|Suyama|
 |50,000|Buchanan|
-If you set the  **TopValues** property to 3 with a descending sort on the Sales field, Microsoft Access returns the following four records.
+If you set the **TopValues** property to 3 with a descending sort on the Sales field, Microsoft Access returns the following four records.
 
 
 
@@ -69,13 +69,13 @@ If you set the  **TopValues** property to 3 with a descending sort on the Sales 
 |70,000|Davilio|
 |70,000|King|
 
- **Note**  To return the topmost or bottommost values without displaying duplicate values, set the  **UniqueValues** property in the query property sheet to Yes.
+ **Note**  To return the topmost or bottommost values without displaying duplicate values, set the **UniqueValues** property in the query property sheet to Yes.
 
 
 ## Example
 <a name="sectionSection2"> </a>
 
-The following code example assigns an SQL string that returns the top 10 most expensive products to the  **RecordSource** property for a form that will display the ten most expensive products.
+The following code example assigns an SQL string that returns the top 10 most expensive products to the **RecordSource** property for a form that will display the ten most expensive products.
 
 
 ```sql

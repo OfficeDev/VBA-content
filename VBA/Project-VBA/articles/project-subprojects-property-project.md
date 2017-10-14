@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Subprojects Property (Project)
 
-Gets a  **[Subprojects](subproject-object-project.md)** collection representing subprojects in the master project. Read-only **Subprojects**.
+Gets a **[Subprojects](subproject-object-project.md)** collection representing subprojects in the master project. Read-only **Subprojects**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.GetWorkflowTemplates Method (Word)
 
-Returns a  **WorkflowTemplates** collection that represents the workflow templates attached to a document.
+Returns a **WorkflowTemplates** collection that represents the workflow templates attached to a document.
 
 
 ## Syntax

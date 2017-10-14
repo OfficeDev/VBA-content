@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.First Property (Word)
 
-Returns a  **[Paragraph](paragraph-object-word.md)** object that represents the first item in the **Paragraphs** collection.
+Returns a **[Paragraph](paragraph-object-word.md)** object that represents the first item in the **Paragraphs** collection.
 
 
 ## Syntax

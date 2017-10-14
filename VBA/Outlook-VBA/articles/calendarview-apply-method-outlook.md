@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.Apply Method (Outlook)
 
-Applies the  **[CalendarView](calendarview-object-outlook.md)** object to the current view.
+Applies the **[CalendarView](calendarview-object-outlook.md)** object to the current view.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalculatedFields.Add Method (Excel)
 
-Creates a new calculated field. Returns a  **[PivotField](pivotfield-object-excel.md)** object.
+Creates a new calculated field. Returns a **[PivotField](pivotfield-object-excel.md)** object.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Creates a new calculated field. Returns a  **[PivotField](pivotfield-object-exce
 
 ### Return Value
 
-A  **PivotField** that represents the new calculated field.
+A **PivotField** that represents the new calculated field.
 
 
 ## Example

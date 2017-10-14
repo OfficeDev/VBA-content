@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureName Property (Excel)
 
-Returns the name of the custom texture file for the specified fill. Read-only  **String** .
+Returns the name of the custom texture file for the specified fill. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the name of the custom texture file for the specified fill. Read-only  *
 
 ## Remarks
 
-Use the  **[UserPicture](fillformat-userpicture-method-excel.md)** or **[UserTextured](fillformat-usertextured-method-excel.md)** method to set the texture file for the fill.
+Use the **[UserPicture](fillformat-userpicture-method-excel.md)** or **[UserTextured](fillformat-usertextured-method-excel.md)** method to set the texture file for the fill.
 
 
 ## Example

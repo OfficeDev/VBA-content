@@ -18,12 +18,12 @@ Returns a [Long](vbe-glossary.md) representing the size, in bytes, of a file ope
  **LOF(**_filenumber_**)**
 The required  _filenumber_[argument](vbe-glossary.md) is an[Integer](vbe-glossary.md) containing a valid[file number](vbe-glossary.md).
 
- **Note**  Use the  **FileLen** function to obtain the length of a file that is not open.
+ **Note**  Use the **FileLen** function to obtain the length of a file that is not open.
 
 
 ## Example
 
-This example uses the  **LOF** function to determine the size of an open file. This example assumes that `TESTFILE` is a text file containing sample data.
+This example uses the **LOF** function to determine the size of an open file. This example assumes that `TESTFILE` is a text file containing sample data.
 
 
 ```vb

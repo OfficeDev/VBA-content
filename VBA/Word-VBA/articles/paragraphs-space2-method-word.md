@@ -27,7 +27,7 @@ Double-spaces the specified paragraphs. .
 
 The exact spacing is determined by adding 12 points to the font size of the largest character in each paragraph.
 
-You can also use the  **[LineSpacingRule](paragraphs-linespacingrule-property-word.md)** property to set paragraph spacing. The following two statements are equivalent:
+You can also use the **[LineSpacingRule](paragraphs-linespacingrule-property-word.md)** property to set paragraph spacing. The following two statements are equivalent:
 
 
 

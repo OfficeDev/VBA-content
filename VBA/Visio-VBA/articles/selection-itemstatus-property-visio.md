@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.ItemStatus Property (Visio)
 
-Indicates if an item in a  **Selection** object is subselected, if the group to which it belongs is selected, or if it is the primary item. Read-only.
+Indicates if an item in a **Selection** object is subselected, if the group to which it belongs is selected, or if it is the primary item. Read-only.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Integer
 
 ## Remarks
 
-The  **ItemStatus** property reports a combination of the following values.
+The **ItemStatus** property reports a combination of the following values.
 
 
 

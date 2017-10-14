@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.Import Method (Excel)
 
-Imports data from the specified XML data file into cells that have been mapped to the specified  **[XmlMap](xmlmap-object-excel.md)** object.
+Imports data from the specified XML data file into cells that have been mapped to the specified **[XmlMap](xmlmap-object-excel.md)** object.
 
 
 ## Syntax
@@ -30,16 +30,16 @@ Imports data from the specified XML data file into cells that have been mapped t
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path to the XML data to import. The path can be specified in Universal Naming convention (UNC) or Uniform Resource Locator (URL) format. The file can be an XML data file.|
-| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False** .|
+| _Overwrite_|Optional| **Variant**|Set to **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False** .|
 
 ### Return Value
 
-A  **[XlXmlImportResult](xlxmlimportresult-enumeration-excel.md)** value that indicates the result of the method.
+A **[XlXmlImportResult](xlxmlimportresult-enumeration-excel.md)** value that indicates the result of the method.
 
 
 ## Remarks
 
-This method returns one of the following  **XlXmlImportResult** constants:
+This method returns one of the following **XlXmlImportResult** constants:
 
 
 

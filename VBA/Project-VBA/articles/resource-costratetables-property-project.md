@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.CostRateTables Property (Project)
 
-Gets a  **[CostRateTables](costratetable-object-project.md)** collection representing the cost rate tables for the resource. Read-only **CostRateTables**.
+Gets a **[CostRateTables](costratetable-object-project.md)** collection representing the cost rate tables for the resource. Read-only **CostRateTables**.
 
 
 ## Syntax

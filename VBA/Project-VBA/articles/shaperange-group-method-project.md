@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Group Method (Project)
-The  **Group** method is not implemented in Project.
+The **Group** method is not implemented in Project.
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The  **Group** method is not implemented in Project.
 
 ## Remarks
 
-In general for applications that implement Office Art, the  **Group** method groups the shapes in the shape range, and returns the grouped shapes as a single **Shape** object. Project does not support automatic grouping of shapes in a report.
+In general for applications that implement Office Art, the **Group** method groups the shapes in the shape range, and returns the grouped shapes as a single **Shape** object. Project does not support automatic grouping of shapes in a report.
 
 
 ## See also

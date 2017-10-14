@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.FieldOfView Property (Excel)
 
-Returns or sets the angle at which a  **ThreeDFormat** object can be viewed. Read/write **Single** .
+Returns or sets the angle at which a **ThreeDFormat** object can be viewed. Read/write **Single** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Permission.RemoveAll Method (Office)
 
-Removes all  **UserPermission** objects from the **Permission** collection of the active document.
+Removes all **UserPermission** objects from the **Permission** collection of the active document.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Removes all  **UserPermission** objects from the **Permission** collection of th
 
 ## Remarks
 
-The  **RemoveAll** method removes all UserPermissions that have been added to the **Permission** collection and disables restrictions on the active document. After calling the **RemoveAll** method, the **Enabled** property of the **Permission** object returns **False** and the **Count** property returns 0 (zero).
+The **RemoveAll** method removes all UserPermissions that have been added to the **Permission** collection and disables restrictions on the active document. After calling the **RemoveAll** method, the **Enabled** property of the **Permission** object returns **False** and the **Count** property returns 0 (zero).
 
 
 ## Example
 
-The following example uses the  **RemoveAll** method to remove all user permissions and to disable restrictions on the active document.
+The following example uses the **RemoveAll** method to remove all user permissions and to disable restrictions on the active document.
 
 
 ```

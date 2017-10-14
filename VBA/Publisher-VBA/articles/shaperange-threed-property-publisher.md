@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ShapeRange.ThreeD Property (Publisher)
 
-Returns a  **[ThreeDFormat](threedformat-object-publisher.md)** object.
+Returns a **[ThreeDFormat](threedformat-object-publisher.md)** object.
 
 
 ## Syntax
 
  _expression_. **ThreeD**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-Use the  **ThreeD** property to return a **ThreeDFormat** object whose properties are used to format the 3-D appearance of the specified shape.
+Use the **ThreeD** property to return a **ThreeDFormat** object whose properties are used to format the 3-D appearance of the specified shape.
 
 
 ## Example

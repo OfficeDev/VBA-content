@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.Undo Method (Publisher)
 
-Undoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the  **Undo** button on the **Standard** toolbar.
+Undoes the last action or a specified number of actions. Corresponds to the list of items that appears when you click the arrow beside the **Undo** button on the **Standard** toolbar.
 
 
 ## Syntax
 
  _expression_. **Undo**( **_Count_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -33,18 +33,18 @@ Undoes the last action or a specified number of actions. Corresponds to the list
 
 ## Remarks
 
-If called when there are no actions on the undo stack, or when  **_Count_** is greater than the number of actions that currently reside on the stack, the **Undo** method will undo as many actions as possible and ignore the rest.
+If called when there are no actions on the undo stack, or when **_Count_** is greater than the number of actions that currently reside on the stack, the **Undo** method will undo as many actions as possible and ignore the rest.
 
-The maximum number of actions that can be undone in one call to  **Undo** is 20.
+The maximum number of actions that can be undone in one call to **Undo** is 20.
 
 
 ## Example
 
-The following example uses the  **Undo** method to undo actions that do not meet specific criteria.
+The following example uses the **Undo** method to undo actions that do not meet specific criteria.
 
 Part 1 of the example adds a rectangular callout shape to the fourth page of the active publication, and text is added to the callout. This process creates three actions. 
 
-Part 2 of the example tests whether the font of the text added to the callout is Verdana. If not, then the  **Undo** method is used to undo all available actions (the value of the **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** property is used to specify that all actions be undone). This clears all actions from the stack. A new rectangle shape and text frame are then added and the text frame is populated with Verdana text.
+Part 2 of the example tests whether the font of the text added to the callout is Verdana. If not, then the **Undo** method is used to undo all available actions (the value of the **[UndoActionsAvailable](document-undoactionsavailable-property-publisher.md)** property is used to specify that all actions be undone). This clears all actions from the stack. A new rectangle shape and text frame are then added and the text frame is populated with Verdana text.
 
 
 

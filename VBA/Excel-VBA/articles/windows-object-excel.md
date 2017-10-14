@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # Windows Object (Excel)
 
-A collection of all the  **[Window](window-object-excel.md)** objects in Microsoft Excel.
+A collection of all the **[Window](window-object-excel.md)** objects in Microsoft Excel.
 
 
 ## Remarks
 
-The  **Windows** collection for the **[Application](application-object-excel.md)** object contains all the windows in the application, whereas the **Windows** collection for the **[Workbook](workbook-object-excel.md)** object contains only the windows in the specified workbook.
+The **Windows** collection for the **[Application](application-object-excel.md)** object contains all the windows in the application, whereas the **Windows** collection for the **[Workbook](workbook-object-excel.md)** object contains only the windows in the specified workbook.
 
 
 ## Example
 
-Use the  **Windows** property to return the **Windows** collection. The following example cascades all the windows that are currently displayed in Microsoft Excel.
+Use the **Windows** property to return the **Windows** collection. The following example cascades all the windows that are currently displayed in Microsoft Excel.
 
 
 ```
 Windows.Arrange arrangeStyle:=xlCascade
 ```
 
-Use the  **[NewWindow](window-newwindow-method-excel.md)** method to create a new window and add it to the collection. The following example creates a new window for the active workbook.
+Use the **[NewWindow](window-newwindow-method-excel.md)** method to create a new window and add it to the collection. The following example creates a new window for the active workbook.
 
 
 
@@ -39,7 +39,7 @@ Use the  **[NewWindow](window-newwindow-method-excel.md)** method to create a ne
 ActiveWorkbook.NewWindow
 ```
 
-Use  **Windows** ( _index_ ), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
+Use **Windows** ( _index_ ), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
 
 Note that the active window is always  `Windows(1)`.
 

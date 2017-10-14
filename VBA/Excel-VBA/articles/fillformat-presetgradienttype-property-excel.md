@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.PresetGradientType Property (Excel)
 
-Returns the preset gradient type for the specified fill. Read-only  **[MsoPresetGradientType](http://msdn.microsoft.com/library/d0ee19e7-bdd3-3102-61b4-dbb17d5c0363%28Office.15%29.aspx)** .
+Returns the preset gradient type for the specified fill. Read-only **[MsoPresetGradientType](http://msdn.microsoft.com/library/d0ee19e7-bdd3-3102-61b4-dbb17d5c0363%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the preset gradient type for the specified fill. Read-only  **[MsoPreset
 
 ## Remarks
 
-Use the  **[PresetGradient](fillformat-presetgradient-method-excel.md)** method to set the preset gradient type for the fill.
+Use the **[PresetGradient](fillformat-presetgradient-method-excel.md)** method to set the preset gradient type for the fill.
 
 
 ## Example

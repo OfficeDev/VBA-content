@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.ListRows Property (Access)
 
-You can use the  **ListRows** property to set the maximum number of rows to display in the list box portion of a combo box. Read/write **Integer**.
+You can use the **ListRows** property to set the maximum number of rows to display in the list box portion of a combo box. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,19 +25,19 @@ You can use the  **ListRows** property to set the maximum number of rows to disp
 
 ## Remarks
 
-The  **ListRows** property holds an integer that indicates the maximum number of rows to display. The default setting is 16. The setting for the **ListRows** property must be from 1 to 255.
+The **ListRows** property holds an integer that indicates the maximum number of rows to display. The default setting is 16. The setting for the **ListRows** property must be from 1 to 255.
 
 
- **Note**  Microsoft Access sets the  **ListRows** property automatically when you select Lookup Wizard as the data type for a field in table Design view.
+ **Note**  Microsoft Access sets the **ListRows** property automatically when you select Lookup Wizard as the data type for a field in table Design view.
 
-You can set the default for this property by using a combo box's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a combo box's default control style or the **DefaultControl** property in Visual Basic.
 
-If the actual number of rows exceeds the number specified by the  **ListRows** property setting, a vertical scroll bar appears in the list box portion of the combo box.
+If the actual number of rows exceeds the number specified by the **ListRows** property setting, a vertical scroll bar appears in the list box portion of the combo box.
 
 
 ## Example
 
-The following example uses the  **ListCount** property to find the number of rows in the list box portion of the CustomerList combo box on a Customers form. It then sets the **ListRows** property to display a specified number of rows in the list.
+The following example uses the **ListCount** property to find the number of rows in the list box portion of the CustomerList combo box on a Customers form. It then sets the **ListRows** property to display a specified number of rows in the list.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.LastChild Property (Word)
 
-Returns an  **XMLNode** object that represents the last child node of an XML element.
+Returns an **XMLNode** object that represents the last child node of an XML element.
 
 
 ## Syntax

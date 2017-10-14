@@ -25,7 +25,7 @@ For all open workbooks, forces a full calculation of the data and rebuilds the d
 
 ## Remarks
 
-Dependencies are the formulas that depend on other cells. For example, the formula "=A1" depends on cell A1. The  **CalculateFullRebuild** method is similar to re-entering all formulas.
+Dependencies are the formulas that depend on other cells. For example, the formula "=A1" depends on cell A1. The **CalculateFullRebuild** method is similar to re-entering all formulas.
 
 
 ## Example

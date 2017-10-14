@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.RevisedPropertiesColor Property (Word)
 
-Returns or sets the color used to mark formatting changes while change tracking is enabled. Read/write  **WdColorIndex** .
+Returns or sets the color used to mark formatting changes while change tracking is enabled. Read/write **WdColorIndex** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the color used to mark formatting changes while change tracking 
 
 ## Remarks
 
-If deleted or inserted text has formatting changes, the  **RevisedPropertiesColor** property is overridden by the **DeletedTextColor** or **InsertedTextColor** property.
+If deleted or inserted text has formatting changes, the **RevisedPropertiesColor** property is overridden by the **DeletedTextColor** or **InsertedTextColor** property.
 
 
 ## Example

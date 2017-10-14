@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.RelativeHorizontalPosition Property (Word)
 
-Specifies the relative horizontal position of a group of rows. Read/write  **[WdRelativeHorizontalPosition](wdrelativehorizontalposition-enumeration-word.md)** .
+Specifies the relative horizontal position of a group of rows. Read/write **[WdRelativeHorizontalPosition](wdrelativehorizontalposition-enumeration-word.md)** .
 
 
 ## Syntax

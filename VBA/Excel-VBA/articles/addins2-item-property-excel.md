@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ## Example
 
-This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the  **AddIns2** method is the **Title** property of the **AddIn** object.
+This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the **AddIns2** method is the **Title** property of the **AddIn** object.
 
 
 ```vb

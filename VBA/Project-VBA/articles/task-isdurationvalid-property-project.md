@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 
 A manually scheduled task must have a valid start date and finish date for the duration to be valid.
 
-To check the start date and finish date, use the  **[IsStartValid](task-isstartvalid-property-project.md)** property and the **[IsFinishValid](task-isfinishvalid-property-project.md)** property.
+To check the start date and finish date, use the **[IsStartValid](task-isstartvalid-property-project.md)** property and the **[IsFinishValid](task-isfinishvalid-property-project.md)** property.
 
 
 ## Property value

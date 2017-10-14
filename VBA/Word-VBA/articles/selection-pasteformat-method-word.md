@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.PasteFormat Method (Word)
 
-Applies formatting copied with the  **CopyFormat** method to the selection.
+Applies formatting copied with the **CopyFormat** method to the selection.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Applies formatting copied with the  **CopyFormat** method to the selection.
 
 ## Remarks
 
-If a paragraph mark was selected when the  **CopyFormat** method was used, Word applies paragraph formatting in addition to character formatting.
+If a paragraph mark was selected when the **CopyFormat** method was used, Word applies paragraph formatting in addition to character formatting.
 
 
 ## Example

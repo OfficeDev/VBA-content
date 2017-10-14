@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Orientation Property (Excel)
 
-Returns or sets a  **[XlOrientation](xlorientation-enumeration-excel.md)** value that represents the text orientation.
+Returns or sets a **[XlOrientation](xlorientation-enumeration-excel.md)** value that represents the text orientation.
 
 
 ## Syntax

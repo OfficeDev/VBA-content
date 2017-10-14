@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.CanGrow Property (Access)
 
-Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
+Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write **Boolean**.
 
 
 ## Syntax

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- You are trying to obtain the value of a  **Variant** variable or an[expression](vbe-glossary.md) that is **Null**. For example:
+- You are trying to obtain the value of a **Variant** variable or an[expression](vbe-glossary.md) that is **Null**. For example:
     
   ```
   MyVar = Null 

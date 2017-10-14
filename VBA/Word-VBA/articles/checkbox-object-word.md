@@ -18,14 +18,14 @@ Represents a single check box form field.
 
 ## Remarks
 
-Use  **FormFields** (Index), where Index is index number or the bookmark name associated with the check box, to return a single **[FormField](formfield-object-word.md)** object. Use the **[CheckBox](formfield-checkbox-property-word.md)** property with the **FormField** object to return a **CheckBox** object. The following example selects the check box form field named "Check1" in the active document.
+Use **FormFields** (Index), where Index is index number or the bookmark name associated with the check box, to return a single **[FormField](formfield-object-word.md)** object. Use the **[CheckBox](formfield-checkbox-property-word.md)** property with the **FormField** object to return a **CheckBox** object. The following example selects the check box form field named "Check1" in the active document.
 
 
 ```
 ActiveDocument.FormFields("Check1").CheckBox.Value = True
 ```
 
-The index number represents the position of the form field in the  **[FormFields](formfields-object-word.md)** collection. The following example checks the type of the first form field; if it is a check box, the check box is selected.
+The index number represents the position of the form field in the **[FormFields](formfields-object-word.md)** collection. The following example checks the type of the first form field; if it is a check box, the check box is selected.
 
 
 
@@ -51,7 +51,7 @@ Else
 End If
 ```
 
-Use the  **Add** method with the **FormFields** object to add a check box form field. The following example adds a check box at the beginning of the active document, sets the name to "Color", and then selects the check box.
+Use the **Add** method with the **FormFields** object to add a check box form field. The following example adds a check box at the beginning of the active document, sets the name to "Color", and then selects the check box.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CompatibilityMode Property (Word)
 
-Returns a  **Long** that specifies the compatibility mode that Word uses when opening the document. Read-only.
+Returns a **Long** that specifies the compatibility mode that Word uses when opening the document. Read-only.
 
 
 ## Syntax

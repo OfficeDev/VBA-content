@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationSettings.EntryEffect Property (PowerPoint)
 
-For the  **AnimationSettings** object, this property returns or sets the special effect applied to the animation for the specified shape. Read/write.
+For the **AnimationSettings** object, this property returns or sets the special effect applied to the animation for the specified shape. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ PpEntryEffect
 
 ## Remarks
 
-If the  **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property for the specified shape is set to **ppAnimateLevelNone** (the default value) or the **[Animate](animationsettings-animate-property-powerpoint.md)** property is set to **False**, you won't see the special effect you've applied with the **EntryEffect** property.
+If the **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property for the specified shape is set to **ppAnimateLevelNone** (the default value) or the **[Animate](animationsettings-animate-property-powerpoint.md)** property is set to **False**, you won't see the special effect you've applied with the **EntryEffect** property.
 
 
 ## Example

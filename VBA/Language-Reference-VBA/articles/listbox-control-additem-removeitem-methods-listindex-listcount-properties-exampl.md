@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # ListBox Control, AddItem, RemoveItem Methods, ListIndex, ListCount Properties Example
 
-The following example adds and deletes the contents of a  **ListBox** using the **AddItem** and **RemoveItem** methods, and the **ListIndex** and **ListCount** properties.
+The following example adds and deletes the contents of a **ListBox** using the **AddItem** and **RemoveItem** methods, and the **ListIndex** and **ListCount** properties.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.
     
 
 

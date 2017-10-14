@@ -30,9 +30,9 @@ Returns or sets whether to display axis field buttons on a PivotChart. Read/writ
 
 ## Remarks
 
-Set the  **ShowAxisFieldButtons** property to **True** to display axis field buttons on the specified PivotChart. Set the property to **False** to hide the buttons.
+Set the **ShowAxisFieldButtons** property to **True** to display axis field buttons on the specified PivotChart. Set the property to **False** to hide the buttons.
 
-The  **ShowAxisFieldButtons** property corresponds to the **Show Axis Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
+The **ShowAxisFieldButtons** property corresponds to the **Show Axis Field Buttons** command on the **Field Buttons** drop-down list of the **Analyze** tab, which is available when a PivotChart is selected.
 
 
 ## Example

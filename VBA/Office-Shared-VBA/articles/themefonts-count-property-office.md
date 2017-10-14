@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThemeFonts.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **ThemeFonts** collection. Read-only.
+Gets a **Long** indicating the number of items in the **ThemeFonts** collection. Read-only.
 
 
 ## Syntax

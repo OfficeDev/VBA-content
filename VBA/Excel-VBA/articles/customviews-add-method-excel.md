@@ -35,7 +35,7 @@ Creates a new custom view.
 
 ### Return Value
 
-A  **[CustomView](customview-object-excel.md)** object that represents the new custom view.
+A **[CustomView](customview-object-excel.md)** object that represents the new custom view.
 
 
 ## Example

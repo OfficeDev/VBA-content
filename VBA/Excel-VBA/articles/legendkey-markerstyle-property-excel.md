@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey.MarkerStyle Property (Excel)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](xlmarkerstyle-enumeration-excel.md)** .
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write **[XlMarkerStyle](xlmarkerstyle-enumeration-excel.md)** .
 
 
 ## Syntax

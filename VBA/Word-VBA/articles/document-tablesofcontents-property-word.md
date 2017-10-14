@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TablesOfContents Property (Word)
 
-Returns a  **[TablesOfContents](tablesofcontents-object-word.md)** collection that represents the tables of contents in the specified document. Read-only.
+Returns a **[TablesOfContents](tablesofcontents-object-word.md)** collection that represents the tables of contents in the specified document. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.InstanceHandle64 Property (Visio)
 
-Gets the instance handle of the  **[InvisibleApp](invisibleapp-object-visio.md)** object for a 64-bit version of Microsoft Visio. Read-only.
+Gets the instance handle of the **[InvisibleApp](invisibleapp-object-visio.md)** object for a 64-bit version of Microsoft Visio. Read-only.
 
 
 ## Syntax

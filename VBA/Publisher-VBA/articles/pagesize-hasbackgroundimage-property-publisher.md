@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSize.HasBackgroundImage Property (Publisher)
 
-Returns  **True** if the blank page size represented by the parent **PageSize** object has a background image. Read-only.
+Returns **True** if the blank page size represented by the parent **PageSize** object has a background image. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasBackgroundImage**
 
- _expression_A variable that represents a  **PageSize** object.
+ _expression_A variable that represents a **PageSize** object.
 
 
 ### Return Value
@@ -30,6 +30,6 @@ Returns  **True** if the blank page size represented by the parent **PageSize** 
 
 ## Remarks
 
-The blank page size represented by the parent  **PageSize** object corresponds to one of the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
+The blank page size represented by the parent **PageSize** object corresponds to one of the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
 
 

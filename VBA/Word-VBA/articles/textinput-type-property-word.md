@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextInput.Type Property (Word)
 
-Returns the type of text form field. Read-only  **[WdTextFormFieldType](wdtextformfieldtype-enumeration-word.md)** .
+Returns the type of text form field. Read-only **[WdTextFormFieldType](wdtextformfieldtype-enumeration-word.md)** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Document Property (Visio)
 
-Gets the  **Document** object that is associated with an object. Read-only.
+Gets the **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax
@@ -30,23 +30,23 @@ Document
 
 ## Remarks
 
-The  **Document** property of a docked stencil window returns a **Document** object for the stencil that is currently at the top of the window. If another stencil replaces the first in the top position, the first stencil's document is closed so the reference to it becomes invalid. For best results, assume that document references to docked stencils are not persistent.
+The **Document** property of a docked stencil window returns a **Document** object for the stencil that is currently at the top of the window. If another stencil replaces the first in the top position, the first stencil's document is closed so the reference to it becomes invalid. For best results, assume that document references to docked stencils are not persistent.
 
-If a  **Window** object shows no documents are open, no document is returned and no exception is raised. Your solution should check for **Nothing** returned after retrieving the **Document** property of a **Window** object.
+If a **Window** object shows no documents are open, no document is returned and no exception is raised. Your solution should check for **Nothing** returned after retrieving the **Document** property of a **Window** object.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Document** property of various objects to retrieve data about those objects, and does the following:
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Document** property of various objects to retrieve data about those objects, and does the following:
 
 
 
 
-- It adds a  **Document** object to the **Documents** collection and sets several of the **Document** object's properties.
+- It adds a **Document** object to the **Documents** collection and sets several of the **Document** object's properties.
     
-- It gets the active window and active page, draws a rectangle on the page, and drops a master on the  **Document** object to provide various objects to work on.
+- It gets the active window and active page, draws a rectangle on the page, and drops a master on the **Document** object to provide various objects to work on.
     
-- It uses the  **Document** property to get the **Document** object associated with each of these other objects.
+- It uses the **Document** property to get the **Document** object associated with each of these other objects.
     
 
 

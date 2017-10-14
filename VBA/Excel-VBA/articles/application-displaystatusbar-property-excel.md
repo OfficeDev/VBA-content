@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example saves the current state of the  **DisplayStatusBar** property and then sets the property to **True** so that the status bar is visible.
+This example saves the current state of the **DisplayStatusBar** property and then sets the property to **True** so that the status bar is visible.
 
 
 ```vb

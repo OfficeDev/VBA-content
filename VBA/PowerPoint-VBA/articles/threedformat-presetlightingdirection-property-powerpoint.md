@@ -30,7 +30,7 @@ MsoPresetLightingDirection
 
 ## Remarks
 
-The value of the  **PresetLightingDirection** property can be one of these **MsoPresetLightingDirection** constants.
+The value of the **PresetLightingDirection** property can be one of these **MsoPresetLightingDirection** constants.
 
 
 ||

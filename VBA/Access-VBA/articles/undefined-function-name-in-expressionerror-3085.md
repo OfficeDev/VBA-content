@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You entered an SQL expression that includes a  **Function** procedure name that cannot be recognized. Make sure the function exists, that it can be used in SQL expressions, or check the expression to make sure you entered the name correctly.
+You entered an SQL expression that includes a **Function** procedure name that cannot be recognized. Make sure the function exists, that it can be used in SQL expressions, or check the expression to make sure you entered the name correctly.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

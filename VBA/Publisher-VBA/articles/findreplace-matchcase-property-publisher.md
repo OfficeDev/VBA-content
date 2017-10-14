@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FindReplace.MatchCase Property (Publisher)
 
-Sets or returns a  **Boolean** that represents the case sensitivity of the search operation. Read/write.
+Sets or returns a **Boolean** that represents the case sensitivity of the search operation. Read/write.
 
 
 ## Syntax
 
  _expression_. **MatchCase**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-The default value for  **MatchCase** is **False**.
+The default value for **MatchCase** is **False**.
 
 
 ## Example

@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Size Command (Shortcut Menu)
 
-Changes the pointer so that you can resize the active window or  **Toolbox**.
+Changes the pointer so that you can resize the active window or **Toolbox**.
 
 

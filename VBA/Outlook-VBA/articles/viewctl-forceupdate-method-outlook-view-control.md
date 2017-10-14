@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # ViewCtl.ForceUpdate Method (Outlook View Control)
 
-Refreshes the view in the control, applying any property changes made since the  **[DeferUpdate](viewctl-deferupdate-property-outlook-view-control.md)** property was set to **True**.
+Refreshes the view in the control, applying any property changes made since the **[DeferUpdate](viewctl-deferupdate-property-outlook-view-control.md)** property was set to **True**.
 
 
 ## Syntax
 
  _expression_. **ForceUpdate**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Cell Method (PowerPoint)
 
-Returns a  **[Cell](cell-object-powerpoint.md)** object that represents a cell in a table.
+Returns a **[Cell](cell-object-powerpoint.md)** object that represents a cell in a table.
 
 
 ## Syntax

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Breaks Object (Word)
 
-A collection of page, column, or section breaks in a page. Use the  **Breaks** collection and the related objects and properties to programmatically define page layout in a document.
+A collection of page, column, or section breaks in a page. Use the **Breaks** collection and the related objects and properties to programmatically define page layout in a document.
 
 
 ## Remarks
 
-Use the  **[Breaks](page-breaks-property-word.md)** property to return a **Breaks** collection. The following example returns the breaks in the first page of the active document.
+Use the **[Breaks](page-breaks-property-word.md)** property to return a **Breaks** collection. The following example returns the breaks in the first page of the active document.
 
 
 ```vb

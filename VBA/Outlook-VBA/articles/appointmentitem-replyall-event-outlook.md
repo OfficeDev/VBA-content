@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.ReplyAll Event (Outlook)
 
-Occurs when the user selects the  **ReplyAll** action for an item (which is an instance of the parent object).
+Occurs when the user selects the **ReplyAll** action for an item (which is an instance of the parent object).
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
+Returns the reply as a **[MailItem](mailitem-object-outlook.md)** object.
 
 
 ## See also

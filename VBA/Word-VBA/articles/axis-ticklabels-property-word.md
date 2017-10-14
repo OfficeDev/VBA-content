@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickLabels Property (Word)
 
-Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](ticklabels-object-word.md)** .
+Returns the tick-mark labels for the specified axis. Read-only **[TickLabels](ticklabels-object-word.md)** .
 
 
 ## Syntax

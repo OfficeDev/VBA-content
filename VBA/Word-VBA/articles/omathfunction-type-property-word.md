@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Type Property (Word)
 
-Returns a  **[WdOMathFunctionType](wdomathfunctiontype-enumeration-word.md)** constant that represents the type of function. Read-only.
+Returns a **[WdOMathFunctionType](wdomathfunctiontype-enumeration-word.md)** constant that represents the type of function. Read-only.
 
 
 ## Syntax

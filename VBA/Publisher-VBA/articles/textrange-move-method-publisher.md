@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Move Method (Publisher)
 
-Collapses the specified range to its start position or end position and then moves the collapsed object by the specified number of units. This method returns a  **Long** that represents the number of units by which the object was actually moved, or it returns 0 (zero) if the move was unsuccessful.
+Collapses the specified range to its start position or end position and then moves the collapsed object by the specified number of units. This method returns a **Long** that represents the number of units by which the object was actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
- _expression_. **Move**( **_Unit_**,  **_Size_**)
+ _expression_. **Move**( **_Unit_**, **_Size_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -30,7 +30,7 @@ Collapses the specified range to its start position or end position and then mov
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbTextUnit**|The unit by which the collapsed range or selection is to be moved.|
-|Size|Required| **Long**|The number of units by which the specified range or selection is to be moved. If  **Size** is a positive number, the object is collapsed to its end position and moved forward in the document by the specified number of units. If **Size** is a negative number, the object is collapsed to its start position and moved backward by the specified number of units. You can also control the collapse direction by using the **Collapse** method before using the **Move** method.|
+|Size|Required| **Long**|The number of units by which the specified range or selection is to be moved. If **Size** is a positive number, the object is collapsed to its end position and moved forward in the document by the specified number of units. If **Size** is a negative number, the object is collapsed to its start position and moved backward by the specified number of units. You can also control the collapse direction by using the **Collapse** method before using the **Move** method.|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Long
 
 ## Remarks
 
-The Unit parameter can be one of the  **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Unit parameter can be one of the **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

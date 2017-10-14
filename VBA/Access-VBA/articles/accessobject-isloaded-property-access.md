@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObject.IsLoaded Property (Access)
 
-You can use the  **IsLoaded** property to determine if an **[AccessObject](accessobject-object-access.md)** is currently loaded. Read-only **Boolean**.
+You can use the **IsLoaded** property to determine if an **[AccessObject](accessobject-object-access.md)** is currently loaded. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ You can use the  **IsLoaded** property to determine if an **[AccessObject](acces
 
 ## Remarks
 
-The  **IsLoaded** property uses the following settings.
+The **IsLoaded** property uses the following settings.
 
 
 
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
-|Yes|**True**|The specified  **AccessObject** is loaded.|
-|No|**False**|The specified  **AccessObject** is not loaded.|
+|Yes|**True**|The specified **AccessObject** is loaded.|
+|No|**False**|The specified **AccessObject** is not loaded.|
 
 ## Example
 

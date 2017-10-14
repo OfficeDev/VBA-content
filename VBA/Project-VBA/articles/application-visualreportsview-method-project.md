@@ -30,7 +30,7 @@ Opens the specified Visual Reports template with the specified level of time.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _strVisualReportTemplateFile_|Optional|**String**|Full path and name of template file.|
-| _PjVisualReportsDataLevel_|Optional|**Long**|The time level of data, determined automatically or specified from days to years . Can be one of the  **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. The default value is **pjLevelAutomatic**.|
+| _PjVisualReportsDataLevel_|Optional|**Long**|The time level of data, determined automatically or specified from days to years . Can be one of the **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. The default value is **pjLevelAutomatic**.|
 
 ### Return Value
 

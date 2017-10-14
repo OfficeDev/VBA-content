@@ -29,7 +29,7 @@ If the event procedure is stored in a template, the procedure will run when a ne
 
 
 
-For information about using events with a  **Document** object, see[Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
+For information about using events with a **Document** object, see[Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
 
 
 

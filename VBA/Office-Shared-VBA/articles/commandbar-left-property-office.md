@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.Left Property (Office)
 
-Sets or gets the horizontal distance (in pixels) of the  **CommandBar** from the left edge of the object relative to the screen. Read/write.
+Sets or gets the horizontal distance (in pixels) of the **CommandBar** from the left edge of the object relative to the screen. Read/write.
 
 
 ## 

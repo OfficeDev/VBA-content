@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcCloseSave Enumeration (Access)
 
-Used by the  **Close** method to specify whether or not to save an object upon closing.
+Used by the **Close** method to specify whether or not to save an object upon closing.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.LineUnitAfter Property (Word)
 
-Returns or sets the amount of spacing (in gridlines) after the specified paragraph. Read/write  **Single** .
+Returns or sets the amount of spacing (in gridlines) after the specified paragraph. Read/write **Single** .
 
 
 ## Syntax

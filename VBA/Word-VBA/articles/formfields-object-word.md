@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # FormFields Object (Word)
 
-A collection of  **FormField** objects that represent all the form fields in a selection, range, or document.
+A collection of **FormField** objects that represent all the form fields in a selection, range, or document.
 
 
 ## Remarks
 
-Use the  **FormFields** property to return the **FormFields** collection. The following example counts the number of text box form fields in the active document.
+Use the **FormFields** property to return the **FormFields** collection. The following example counts the number of text box form fields in the active document.
 
 
 ```
@@ -23,7 +23,7 @@ Next aField
 MsgBox "There are " &amp; count &amp; " text boxes in this document"
 ```
 
-Use the  **Add** method with the **FormFields** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
+Use the **Add** method with the **FormFields** object to add a form field. The following example adds a check box at the beginning of the active document and then selects the check box.
 
 
 
@@ -35,7 +35,7 @@ Set ffield = ActiveDocument.FormFields.Add( _
 ffield.CheckBox.Value = True
 ```
 
-Use  **FormFields** (Index), where Index is a bookmark name or index number, to return a single **[FormField](formfield-object-word.md)** object. The following example sets the result of the Text1 form field to "Don Funk."
+Use **FormFields** (Index), where Index is a bookmark name or index number, to return a single **[FormField](formfield-object-word.md)** object. The following example sets the result of the Text1 form field to "Don Funk."
 
 
 

@@ -16,11 +16,11 @@ To set properties for a form region in a custom form, you must use the XML manif
 ## Forms customized with form pages
 
 
-1. In the Forms Designer, click the  **(Properties)** tab.
+1. In the Forms Designer, click the **(Properties)** tab.
     
-2. To be able to send a copy of the form in e-mail, select the  **Send form definition with item** check box.
+2. To be able to send a copy of the form in e-mail, select the **Send form definition with item** check box.
     
-3. To have the form show only for replies to messages, select the  **Use form only for responses** check box.
+3. To have the form show only for replies to messages, select the **Use form only for responses** check box.
     
 4. Select other options that you want. 
     

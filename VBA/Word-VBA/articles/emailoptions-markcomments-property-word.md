@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property marks comments with the value of the  **[MarkCommentsWith](emailoptions-markcommentswith-property-word.md)** property. The default value of the **MarkCommentsWith** property is the value of the **[UserName](application-username-property-word.md)** property.
+This property marks comments with the value of the **[MarkCommentsWith](emailoptions-markcommentswith-property-word.md)** property. The default value of the **MarkCommentsWith** property is the value of the **[UserName](application-username-property-word.md)** property.
 
 
 ## Example

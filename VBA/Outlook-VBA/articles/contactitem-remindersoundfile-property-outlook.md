@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.ReminderSoundFile Property (Outlook)
 
-Returns or sets a  **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
+Returns or sets a **String** indicating the path and file name of the sound file to play when the reminder occurs for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](contactitem-reminderoverridedefault-property-outlook.md)** and **[ReminderPlaySound](contactitem-reminderplaysound-property-outlook.md)** properties are set to **True** .
+This property is only valid if the **[ReminderOverrideDefault](contactitem-reminderoverridedefault-property-outlook.md)** and **[ReminderPlaySound](contactitem-reminderplaysound-property-outlook.md)** properties are set to **True** .
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.LtrRun Method (Office)
 
-Returns a  **TextRange2** object that represents the specified subset of left-to-right text runs. A text run consists of a range of characters that share the same font attributes.
+Returns a **TextRange2** object that represents the specified subset of left-to-right text runs. A text run consists of a range of characters that share the same font attributes.
 
 
 ## Syntax

@@ -18,7 +18,7 @@ Represents a phantom object, which has two primary uses: (1) adding the spacing 
 
 ## Remarks
 
-Use the  **OMathPhantom** object to display the spacing of part of an equation without displaying it, or to remove the spacing for part of a glyph from spacing considerations.
+Use the **OMathPhantom** object to display the spacing of part of an equation without displaying it, or to remove the spacing for part of a glyph from spacing considerations.
 
 
 ## See also

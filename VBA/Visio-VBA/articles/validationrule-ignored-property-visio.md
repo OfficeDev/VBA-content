@@ -30,12 +30,12 @@ Determines whether the validation rule is currently ignored. Read/write.
 
 ## Remarks
 
-Issues that pertain to an ignored rule are still recorded but, by default, they are not displayed in the  **Issues** window.
+Issues that pertain to an ignored rule are still recorded but, by default, they are not displayed in the **Issues** window.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Ignored** property to specify that the validation rule named "Unglued2DShape" should not be ignored.
+The following Visual Basic for Applications (VBA) example shows how to use the **Ignored** property to specify that the validation rule named "Unglued2DShape" should not be ignored.
 
 
 ```vb

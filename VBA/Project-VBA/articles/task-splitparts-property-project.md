@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.SplitParts Property (Project)
 
-Gets a  **[SplitParts](splitpart-object-project.md)** collection that represents the portions of a split task. Read-only **SplitParts**.
+Gets a **[SplitParts](splitpart-object-project.md)** collection that represents the portions of a split task. Read-only **SplitParts**.
 
 
 ## Syntax

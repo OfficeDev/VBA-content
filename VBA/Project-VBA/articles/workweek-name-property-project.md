@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeek.Name Property (Project)
 
-Gets the name of a  **WorkWeek** object representing a work week. Read/write **String**.
+Gets the name of a **WorkWeek** object representing a work week. Read/write **String**.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ Gets the name of a  **WorkWeek** object representing a work week. Read/write **S
 
  **Name** is the default property of the **WorkWeek** object.
 
-For a code example that uses the  **Task** object, see **[Name](task-name-property-project.md)**.
+For a code example that uses the **Task** object, see **[Name](task-name-property-project.md)**.
 
 
 ## See also

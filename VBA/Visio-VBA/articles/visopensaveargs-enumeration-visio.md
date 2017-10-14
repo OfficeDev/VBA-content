@@ -17,7 +17,7 @@ Flags to be passed to the ** Documents.AddEx** , **Documents.OpenEx** , and **Do
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visAddDeclineAutoRefresh**|1024|Adds a document without displaying the  **Configure Refresh** dialog box.|
+| **visAddDeclineAutoRefresh**|1024|Adds a document without displaying the **Configure Refresh** dialog box.|
 | **visAddDocked**|4|Adds a document in a docked window.|
 | **visAddHidden**|64|Adds a document in a hidden window.|
 | **visAddMacrosDisabled**|128|Adds a document with macros disabled.|
@@ -26,7 +26,7 @@ Flags to be passed to the ** Documents.AddEx** , **Documents.OpenEx** , and **Do
 | **visAddStencil**|512|Adds a new stencil file.|
 | **visOpenCopy**|1|Opens a copy of the document.|
 | **visOpenCopyOfNaming**|2048|Opens a copy of the document, using a copy of the naming.|
-| **visOpenDeclineAutoRefresh**|1024|Opens a document without displaying the  **Configure Refresh** dialog box.|
+| **visOpenDeclineAutoRefresh**|1024|Opens a document without displaying the **Configure Refresh** dialog box.|
 | **visOpenDocked**|4|Opens a stencil in a docked window.|
 | **visOpenDontList**|8|Opens the document without adding it to the Most Recently Used (MRU) list.|
 | **visOpenHidden**|64|Opens the document in a hidden window.|
@@ -35,7 +35,7 @@ Flags to be passed to the ** Documents.AddEx** , **Documents.OpenEx** , and **Do
 | **visOpenNoWorkspace**|256|Opens the document with no workspace information.|
 | **visOpenRO**|2|Opens the document as read-only.|
 | **visOpenRW**|32|Opens the document for both reading and writing.|
-| **visSaveAsCheckCompatibility**||Displays the  **Compatibility Checker** dialog box on save.|
+| **visSaveAsCheckCompatibility**||Displays the **Compatibility Checker** dialog box on save.|
 | **visSaveAsListInMRU**|4|Saves the document and puts it in the MRU list. |
 | **visSaveAsRO**|1|Saves the document as read-only.|
 | **visSaveAsWS**|2|Saves the workspace and the file.|

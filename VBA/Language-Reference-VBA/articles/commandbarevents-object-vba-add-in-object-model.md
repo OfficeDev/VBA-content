@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returned by the  **CommandBarEvents** property. The **CommandBarEvents** object triggers an event when a[control](vbe-glossary.md) on the command bar is clicked.
+Returned by the **CommandBarEvents** property. The **CommandBarEvents** object triggers an event when a[control](vbe-glossary.md) on the command bar is clicked.
  **Remarks**
-The  **CommandBarEvents** object is returned by the **CommandBarEvents** property of the **Events** object. The object that is returned has one event in its interface, the Click event. You can handle this event using the **WithEvents** object declaration.
+The **CommandBarEvents** object is returned by the **CommandBarEvents** property of the **Events** object. The object that is returned has one event in its interface, the Click event. You can handle this event using the **WithEvents** object declaration.
 

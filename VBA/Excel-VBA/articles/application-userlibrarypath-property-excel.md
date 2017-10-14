@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UserLibraryPath Property (Excel)
 
-Returns the path to the location on the user's computer where the COM add-ins are installed. Read-only  **String** .
+Returns the path to the location on the user's computer where the COM add-ins are installed. Read-only **String** .
 
 
 ## Syntax

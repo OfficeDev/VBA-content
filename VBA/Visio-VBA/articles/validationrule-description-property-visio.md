@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRule.Description Property (Visio)
 
-Specifies the description of the  **[ValidationRule](validationrule-object-visio.md)** object that appears in the user interface. Read/write.
+Specifies the description of the **[ValidationRule](validationrule-object-visio.md)** object that appears in the user interface. Read/write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Specifies the description of the  **[ValidationRule](validationrule-object-visio
 
 ## Remarks
 
-You cannot set the  **Description** property to a value that exceeds 255 characters.
+You cannot set the **Description** property to a value that exceeds 255 characters.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Description** property to set the description that appears in the user interface for the validation rule named "Unglued2DShape".
+The following Visual Basic for Applications (VBA) example shows how to use the **Description** property to set the description that appears in the user interface for the validation rule named "Unglued2DShape".
 
 
 ```vb

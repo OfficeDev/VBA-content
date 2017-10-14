@@ -33,7 +33,7 @@ String
 
 ## Remarks
 
-The  **URL** property returns the address of the shared workspace file in this format: `http://server/sites/user/workspace/Shared%Documents/MyWorkbook.xls`. The  **URL** property returns a URL-encoded string. For example, a space in the folder name is represented by %20. The **SharedWorkspaceFile** object does not have a **Name** or **FileName** property. The filename must be extracted from the **URL** property.
+The **URL** property returns the address of the shared workspace file in this format: `http://server/sites/user/workspace/Shared%Documents/MyWorkbook.xls`. The **URL** property returns a URL-encoded string. For example, a space in the folder name is represented by %20. The **SharedWorkspaceFile** object does not have a **Name** or **FileName** property. The filename must be extracted from the **URL** property.
 
 
 ## Example

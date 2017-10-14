@@ -27,14 +27,14 @@ Updates the specified Project data on a chart.
 |:-----|:-----|:-----|:-----|
 | _Task_|Required|**Boolean**|**True** to update the task data; otherwise, **False**.|
 | _Timephased_|Required|**Boolean**|**True** to update the timephased data; otherwise, **False**.|
-| _GroupName_|Optional|**String**|The name of the  **[Group2](group2-object-project.md)** object (a group of tasks or resources) for the update.|
-| _FilterName_|Optional|**String**|The name of the  **[Filter](filter-object-project.md)** object for the update.|
-| _LabelField_|Optional|**PjField**|Specifies the field for the update. Can be one of the  **[PjField](pjfield-enumeration-project.md)** constants.|
+| _GroupName_|Optional|**String**|The name of the **[Group2](group2-object-project.md)** object (a group of tasks or resources) for the update.|
+| _FilterName_|Optional|**String**|The name of the **[Filter](filter-object-project.md)** object for the update.|
+| _LabelField_|Optional|**PjField**|Specifies the field for the update. Can be one of the **[PjField](pjfield-enumeration-project.md)** constants.|
 | _OutlineLevel_|Optional|**Integer**|Specifies the task outline level for the update. The default value is -1, which is all outline levels.|
-| _SafeArrayOfPjField_|Optional|**Variant**|Specifies an array of fields for the update, where each item in the array can be a  **[PjField](pjfield-enumeration-project.md)** constant.|
-| _SafeArrayOfPjTimescaledData_|Optional|**Variant**|Specifies an array of timescaled data for the update, where each item in the array can be a  **[PjTimescaledData](pjtimescaleddata-enumeration-project.md)** constant.|
-| _TimeScaleUnit_|Optional|**PjTimescaleUnit**|Specifies a timescale unit for the update. Can be a  **[PjTimescaledUnit](pjtimescaleunit-enumeration-project.md)** constant. The default value is **pjTimescaleDays**.|
-| _TimescaleUnitCount_|Optional|**Long**|Specifies the number of timescale units to be included in the update. The default value is 1. For example, if the unit is  **pjTimescaleWeeks**, a value of 5 indicates five weeks.|
+| _SafeArrayOfPjField_|Optional|**Variant**|Specifies an array of fields for the update, where each item in the array can be a **[PjField](pjfield-enumeration-project.md)** constant.|
+| _SafeArrayOfPjTimescaledData_|Optional|**Variant**|Specifies an array of timescaled data for the update, where each item in the array can be a **[PjTimescaledData](pjtimescaleddata-enumeration-project.md)** constant.|
+| _TimeScaleUnit_|Optional|**PjTimescaleUnit**|Specifies a timescale unit for the update. Can be a **[PjTimescaledUnit](pjtimescaleunit-enumeration-project.md)** constant. The default value is **pjTimescaleDays**.|
+| _TimescaleUnitCount_|Optional|**Long**|Specifies the number of timescale units to be included in the update. The default value is 1. For example, if the unit is **pjTimescaleWeeks**, a value of 5 indicates five weeks.|
 | _StartDate_|Optional|**Variant**|Specifies the start date for the update.|
 | _FinishDate_|Optional|**Variant**|Specifies the finish date for the update.|
 | _Task_|Required|BOOL||

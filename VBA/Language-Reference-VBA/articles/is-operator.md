@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to compare two object reference [variables](vbe-glossary.md).
  **Syntax**
  _result_**=**_object1_**Is**_object2_
-The  **Is** operator syntax has these parts:
+The **Is** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -49,7 +49,7 @@ Set B = C
 
 ## Example
 
-This example uses the  **Is** operator to compare two object references. The object variable names are generic and used for illustration purposes only.
+This example uses the **Is** operator to compare two object references. The object variable names are generic and used for illustration purposes only.
 
 
 ```vb

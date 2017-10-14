@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.DistanceBottom Property (Word)
 
-Returns or sets the distance (in points) between the document text and the bottom edge of the specified table. Read/write  **Single** .
+Returns or sets the distance (in points) between the document text and the bottom edge of the specified table. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the distance (in points) between the document text and the botto
 
 ## Remarks
 
-This property doesn't have any effect if  **WrapAroundText** is **False** .
+This property doesn't have any effect if **WrapAroundText** is **False** .
 
 
 ## Example

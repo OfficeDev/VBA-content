@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisTitle.Caption Property (PowerPoint)
 
-Returns or sets a  **String** value that represents the axis title text.
+Returns or sets a **String** value that represents the axis title text.
 
 
 ## Syntax

@@ -22,7 +22,7 @@ The chart area includes everything, including the plot area. However, the plot a
 
  For information about formatting the plot area, see **[PlotArea Object](plotarea-object-excel.md)**.
 
-Use the  **ChartArea** property to return the **ChartArea** object.
+Use the **ChartArea** property to return the **ChartArea** object.
 
 
 ## Example

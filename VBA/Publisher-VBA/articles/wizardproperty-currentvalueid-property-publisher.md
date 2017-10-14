@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WizardProperty.CurrentValueId Property (Publisher)
 
-Returns or sets a  **Long** indicating the value of a setting in the specified publication design or Design Gallery object's wizard. Read/write.
+Returns or sets a **Long** indicating the value of a setting in the specified publication design or Design Gallery object's wizard. Read/write.
 
 
 ## Syntax
 
  _expression_. **CurrentValueId**
 
- _expression_A variable that represents a  **WizardProperty** object.
+ _expression_A variable that represents a **WizardProperty** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-Accessing this property for a publication design setting whose  **[Enabled](wizardproperty-enabled-property-publisher.md)** property is **False** causes an error.
+Accessing this property for a publication design setting whose **[Enabled](wizardproperty-enabled-property-publisher.md)** property is **False** causes an error.
 
 
 ## Example

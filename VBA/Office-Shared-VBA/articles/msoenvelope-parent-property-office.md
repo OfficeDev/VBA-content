@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope.Parent Property (Office)
 
-Gets the  **Parent** object for the MsoEnvelope object. Read-only.
+Gets the **Parent** object for the MsoEnvelope object. Read-only.
 
 
 ## Syntax

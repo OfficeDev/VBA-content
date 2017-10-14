@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.PatternColor Property (Excel)
 
-Returns or sets the color of the interior pattern as an RGB value. Read/write  **Variant** .
+Returns or sets the color of the interior pattern as an RGB value. Read/write **Variant** .
 
 
 ## Syntax

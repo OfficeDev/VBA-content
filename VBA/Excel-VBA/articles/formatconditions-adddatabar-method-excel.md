@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatConditions.AddDatabar Method (Excel)
 
-Returns a  **[Databar](databar-object-excel.md)** object representing a data bar conditional formatting rule for the specified range.
+Returns a **[Databar](databar-object-excel.md)** object representing a data bar conditional formatting rule for the specified range.
 
 
 ## Syntax

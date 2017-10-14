@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilters.Parent Property (Excel)
 
-Returns the parent object for the specified  **PivotFilters** object. Read-only.
+Returns the parent object for the specified **PivotFilters** object. Read-only.
 
 
 ## Syntax

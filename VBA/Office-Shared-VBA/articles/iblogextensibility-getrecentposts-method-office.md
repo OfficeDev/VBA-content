@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IBlogExtensibility.GetRecentPosts Method (Office)
 
-Returns the list of the user's last fifteen blog posts that Microsoft Word then displays in the  **Open Existing Post** dialog. This method does not actually return the blog post contents.
+Returns the list of the user's last fifteen blog posts that Microsoft Word then displays in the **Open Existing Post** dialog. This method does not actually return the blog post contents.
 
 
 ## Syntax

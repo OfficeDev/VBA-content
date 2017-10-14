@@ -25,7 +25,7 @@ Gets or sets an [AcVerticalAnchor](acverticalanchor-enumeration-access.md) const
 
 ## Remarks
 
-The default value is  **acVerticalAnchorTop**.
+The default value is **acVerticalAnchorTop**.
 
 
 ## See also

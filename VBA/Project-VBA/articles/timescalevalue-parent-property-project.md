@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TimeScaleValue.Parent Property (Project)
 
-Gets the parent of the  **TimeScaleValue** object. Read-only **Object**.
+Gets the parent of the **TimeScaleValue** object. Read-only **Object**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the parent of the  **TimeScaleValue** object. Read-only **Object**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

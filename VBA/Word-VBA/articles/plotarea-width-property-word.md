@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea.Width Property (Word)
 
-Returns or sets the width, in points, of the object. Read/write  **Double** .
+Returns or sets the width, in points, of the object. Read/write **Double** .
 
 
 ## Syntax

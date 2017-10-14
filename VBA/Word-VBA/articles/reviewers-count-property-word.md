@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reviewers.Count Property (Word)
 
-Returns a  **Long** that represents the number of reviewers in the collection. Read-only.
+Returns a **Long** that represents the number of reviewers in the collection. Read-only.
 
 
 ## Syntax

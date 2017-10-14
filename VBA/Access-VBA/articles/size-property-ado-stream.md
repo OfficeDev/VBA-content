@@ -18,7 +18,7 @@ Indicates the size of the stream in number of bytes.
 
 ## Return Values
 
-Returns a  **Long** value that specifies the size of the stream in number of bytes. The default value is the size of the stream, or -1 if the size of the stream is not known.
+Returns a **Long** value that specifies the size of the stream in number of bytes. The default value is the size of the stream, or -1 if the size of the stream is not known.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ Returns a  **Long** value that specifies the size of the stream in number of byt
  **Size** can be used only with open[Stream](http://msdn.microsoft.com/library/d49b1514-e0b4-0aca-d5c2-8266f3f4fe65%28Office.15%29.aspx) objects.
 
 
- **Note**  Any number of bits can be stored in a  **Stream** object, limited only by system resources. If the **Stream** contains more bits than can be represented by a **Long** value, **Size** is truncated and therefore does not accurately represent the length of the **Stream**.
+ **Note**  Any number of bits can be stored in a **Stream** object, limited only by system resources. If the **Stream** contains more bits than can be represented by a **Long** value, **Size** is truncated and therefore does not accurately represent the length of the **Stream**.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

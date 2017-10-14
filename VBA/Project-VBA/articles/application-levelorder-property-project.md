@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.LevelOrder Property (Project)
 
-Gets or sets the order in which tasks with overallocations will be delayed when resources are leveled. Read/write  **PjLevelOrder**.
+Gets or sets the order in which tasks with overallocations will be delayed when resources are leveled. Read/write **PjLevelOrder**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets or sets the order in which tasks with overallocations will be delayed when 
 
 ## Remarks
 
-The  **LevelOrder** property can be one of the following **[PjLevelOrder](pjlevelorder-enumeration-project.md)** constants: **pjLevelID**, **pjLevelStandard**, or **pjLevelPriority**.
+The **LevelOrder** property can be one of the following **[PjLevelOrder](pjlevelorder-enumeration-project.md)** constants: **pjLevelID**, **pjLevelStandard**, or **pjLevelPriority**.
 
-You can also set the  **LevelOrder** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then set the **Leveling order** drop-down list.
+You can also set the **LevelOrder** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then set the **Leveling order** drop-down list.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.RelativeVerticalPosition Property (Word)
 
-Specifies the relative vertical position of a group of rows. Read/write  **[WdRelativeVerticalPosition](wdrelativeverticalposition-enumeration-word.md)** .
+Specifies the relative vertical position of a group of rows. Read/write **[WdRelativeVerticalPosition](wdrelativeverticalposition-enumeration-word.md)** .
 
 
 ## Syntax

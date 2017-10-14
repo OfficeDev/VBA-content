@@ -30,7 +30,7 @@ Determines whether the container boundary resizes automatically to fit its conte
 
 ## Remarks
 
-The value of the  **ResizeAsNeeded** property can be one of the following **VisContainerAutoResize** constants.
+The value of the **ResizeAsNeeded** property can be one of the following **VisContainerAutoResize** constants.
 
 
 
@@ -39,6 +39,6 @@ The value of the  **ResizeAsNeeded** property can be one of the following **VisC
 | **visContainerAutoResizeNone**|0|Do not automatically resize container.|
 | **visContainerAutoResizeExpand**|1|Automatically expand the container size, but do not contract.|
 | **visContainerAutoResizeExpandContract**|2|Automatically expand and contract the container size.|
-The setting of the  **ResizeAsNeeded** property corresponds to the selection in the **Automatic Resize** drop-down list in the **Size** group on the **Container Tools Format** tab.
+The setting of the **ResizeAsNeeded** property corresponds to the selection in the **Automatic Resize** drop-down list in the **Size** group on the **Container Tools Format** tab.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Cursor Property (Excel)
 
-Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/write  **[XlMousePointer](xlmousepointer-enumeration-excel.md)** .
+Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/write **[XlMousePointer](xlmousepointer-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -32,7 +32,7 @@ Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/wri
 | **xlIBeam** . The I-beam pointer.|
 | **xlNorthwestArrow** . The northwest-arrow pointer.|
 | **xlWait** . The hourglass pointer.|
-The  **Cursor** property isn't reset automatically when the macro stops running. You should reset the pointer to **xlDefault** before your macro stops running.
+The **Cursor** property isn't reset automatically when the macro stops running. You should reset the pointer to **xlDefault** before your macro stops running.
 
 
 ## Example

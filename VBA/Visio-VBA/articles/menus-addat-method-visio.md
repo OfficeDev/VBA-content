@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Menus.AddAt Method (Visio)
 
-Creates a new  **Menu** object at a specified index in the **Menus** collection.
+Creates a new **Menu** object at a specified index in the **Menus** collection.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ Menu
 
 If the index is zero (0), the object is added at the beginning of the collection.
 
-The beginning of a  **Menus** collection is the leftmost menu when the menus are arranged horizontally.
+The beginning of a **Menus** collection is the leftmost menu when the menus are arranged horizontally.
 
 
 ## Example

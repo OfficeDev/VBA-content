@@ -20,7 +20,7 @@ Specifies the type of the wizard (template) to which to convert the current publ
 
  _expression_. **SetId**( **_ID_**)
 
- _expression_A variable that represents a  **Wizard** object.
+ _expression_A variable that represents a **Wizard** object.
 
 
 ### Parameters
@@ -33,12 +33,12 @@ Specifies the type of the wizard (template) to which to convert the current publ
 
 ## Remarks
 
-When Microsoft Publisher converts the publication type, it automatically maps elements of the existing publication type to the new publication type as best as possible. Any elements that it cannot map appear under  **Extra Content** in the **Format Publication** task pane in the Publisher user interface; you can add them to the new publication manually by dragging them onto the publication page.
+When Microsoft Publisher converts the publication type, it automatically maps elements of the existing publication type to the new publication type as best as possible. Any elements that it cannot map appear under **Extra Content** in the **Format Publication** task pane in the Publisher user interface; you can add them to the new publication manually by dragging them onto the publication page.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SetId** method to convert the current publication type to a brochure.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **SetId** method to convert the current publication type to a brochure.
 
 
 ```vb

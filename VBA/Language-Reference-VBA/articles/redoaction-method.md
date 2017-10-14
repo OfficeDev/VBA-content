@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Reverses the effect of the most recent Undo action.
  **Syntax**
  _Boolean_ = _object_. **RedoAction**
-The  **RedoAction** method syntax has these parts:
+The **RedoAction** method syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -26,9 +26,9 @@ The  **RedoAction** method syntax has these parts:
 | _object_|Required. A valid object.|
  **Remarks**
 Redo reverses the last Undo, which is not necessarily the last action taken. Not all actions can be undone.
-For example, after pasting text into a  **TextBox** and then choosing the Undo command to remove the text, you can choose the Redo command to put the text back in.
+For example, after pasting text into a **TextBox** and then choosing the Undo command to remove the text, you can choose the Redo command to put the text back in.
 
- **Note**  If the  **CanRedo** property is **False**, the Redo command is not available in the user interface, and the **RedoAction** method is not valid in code.
+ **Note**  If the **CanRedo** property is **False**, the Redo command is not available in the user interface, and the **RedoAction** method is not valid in code.
 
  **RedoAction** returns **True** if it was successful.
 

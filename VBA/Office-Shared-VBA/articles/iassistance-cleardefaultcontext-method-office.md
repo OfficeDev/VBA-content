@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IAssistance.ClearDefaultContext Method (Office)
 
-Clears the default help topic previously defined in the  **SetDefaultContext** method.
+Clears the default help topic previously defined in the **SetDefaultContext** method.
 
 
 ## Syntax
@@ -33,9 +33,9 @@ Clears the default help topic previously defined in the  **SetDefaultContext** m
 
 ## Remarks
 
-Executing this method will stop the default help topic from displaying when the user presses  **F1** or clicks the **Help** button in a dialog box.
+Executing this method will stop the default help topic from displaying when the user presses **F1** or clicks the **Help** button in a dialog box.
 
-The  **Assistance** property returns an **IAssistance** object. The **IAssistance** object exposes methods that allow developers to display help topics in the Office Help Viewer or to display help topics that ship with Office in the Help window of the host application. Developers either pass specific Help IDs to the help system or pass specific search queries. Help IDs have to be explicitly added to the Help file in order for the Help ID to return the help topic.
+The **Assistance** property returns an **IAssistance** object. The **IAssistance** object exposes methods that allow developers to display help topics in the Office Help Viewer or to display help topics that ship with Office in the Help window of the host application. Developers either pass specific Help IDs to the help system or pass specific search queries. Help IDs have to be explicitly added to the Help file in order for the Help ID to return the help topic.
 
 
 ## Example

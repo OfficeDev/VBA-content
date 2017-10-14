@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.FollowHyperlink Event (Excel)
 
-Occurs when you click any hyperlink on a worksheet. For application- and workbook-level events, see the  **[SheetFollowHyperlink](application-sheetfollowhyperlink-event-excel.md)** event and **[SheetFollowHyperlink](workbook-sheetfollowhyperlink-event-excel.md)** event.
+Occurs when you click any hyperlink on a worksheet. For application- and workbook-level events, see the **[SheetFollowHyperlink](application-sheetfollowhyperlink-event-excel.md)** event and **[SheetFollowHyperlink](workbook-sheetfollowhyperlink-event-excel.md)** event.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Occurs when you click any hyperlink on a worksheet. For application- and workboo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Target_|Required| **Hyperlink**|A  **[Hyperlink](hyperlink-object-excel.md)** object that represents the destination of the hyperlink.|
+| _Target_|Required| **Hyperlink**|A **[Hyperlink](hyperlink-object-excel.md)** object that represents the destination of the hyperlink.|
 
 ## Example
 

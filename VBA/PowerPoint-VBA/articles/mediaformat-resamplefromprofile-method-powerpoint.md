@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-profile must be one of the following  **PpResampleMediaProfile** constants.
+profile must be one of the following **PpResampleMediaProfile** constants.
 
 
 

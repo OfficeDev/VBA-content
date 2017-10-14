@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.BaseLineAlignment Property (Word)
 
-Returns or sets a  **WdBaselineAlignment** constant that represents the vertical position of fonts on a line. Read/write.
+Returns or sets a **WdBaselineAlignment** constant that represents the vertical position of fonts on a line. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Signature.Delete Method (Office)
 
-Deletes the  **Signature** object from the collection.
+Deletes the **Signature** object from the collection.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Deletes the  **Signature** object from the collection.
 
 ## Remarks
 
-For the  **Scripts** collection, using the **Delete** method removes all scripts from the specified Microsoft Word document, Microsoft Excel worksheet, or Microsoft PowerPoint slide. A script anchor is represented by a shape in the host application. Therefore, the **Shape** object associated with each script anchor of type **msoScriptAnchor** is deleted from the **Shapes** collection in Excel and PowerPoint and from the **InlineShapes** and **Shapes** collections in Word.
+For the **Scripts** collection, using the **Delete** method removes all scripts from the specified Microsoft Word document, Microsoft Excel worksheet, or Microsoft PowerPoint slide. A script anchor is represented by a shape in the host application. Therefore, the **Shape** object associated with each script anchor of type **msoScriptAnchor** is deleted from the **Shapes** collection in Excel and PowerPoint and from the **InlineShapes** and **Shapes** collections in Word.
 
 
 ## See also

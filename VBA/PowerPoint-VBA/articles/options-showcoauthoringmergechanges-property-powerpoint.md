@@ -30,7 +30,7 @@ Returns or sets the show changes mode. Read/write.
 
 ## Remarks
 
-Set this value to  **msoTrue** for the application to show changes. The default value is **msoFalse**.
+Set this value to **msoTrue** for the application to show changes. The default value is **msoFalse**.
 
 
 ## See also

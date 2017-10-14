@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CustomXMLSchemaCollection.Application Property (Office)
 
-Gets an  **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.
+Gets an **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.
 
 
 ## Syntax

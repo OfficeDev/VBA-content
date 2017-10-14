@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Windows.ActiveWindow Property (Project)
 
-Gets a  **[Window](window-object-project.md)** object that represents the active window. Read-only **Window**. .
+Gets a **[Window](window-object-project.md)** object that represents the active window. Read-only **Window**. .
 
 
 ## Syntax

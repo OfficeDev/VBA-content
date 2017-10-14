@@ -18,7 +18,7 @@ Represents an individual schema that is attached to a document.
 
 ## Remarks
 
-Use the  **XMLSchemaReference** property to return an **XMLSchemaReference** object for a **ChildNodeSuggestion** object. The following example inserts the suggested XML child element if the XML schema referenced is the SimpleSample schema.
+Use the **XMLSchemaReference** property to return an **XMLSchemaReference** object for a **ChildNodeSuggestion** object. The following example inserts the suggested XML child element if the XML schema referenced is the SimpleSample schema.
 
 
 ```vb

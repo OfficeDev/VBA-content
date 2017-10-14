@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.Runs Method (PowerPoint)
 
-Returns a  **TextRange** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes.
+Returns a **TextRange** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes.
 
 
 ## Syntax
@@ -51,11 +51,11 @@ If Length is greater than the number of runs from the specified starting run to 
 
 A run consists of all characters from the first character after a font change to the second-to-last character that has the same font attributes. For example, consider the following sentence:
 
-This italic word is not  **bold**.
+This italic word is not **bold**.
 
 In the preceding sentence, the first run consists of the word "This" only if the space after the word "This" isn't formatted as italic (if the space is italic, the first run is only the first three characters, or "Thi"). Likewise, the second run contains the word "italic" only if the space after the word is formatted as italic.
 
-For information about counting or looping through the runs in a text range, see the  **[TextRange](textrange-object-powerpoint.md)** object.
+For information about counting or looping through the runs in a text range, see the **[TextRange](textrange-object-powerpoint.md)** object.
 
 
 ## Example

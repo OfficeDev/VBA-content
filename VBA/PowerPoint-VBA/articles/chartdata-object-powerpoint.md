@@ -18,7 +18,7 @@ Represents access to the linked or embedded data associated with a chart.
 
 ## Remarks
 
-Use the  **[ChartData](http://msdn.microsoft.com/library/16262f71-13cd-a023-35df-2ca6bd017e3b%28Office.15%29.aspx)** property to return the **ChartData** object.
+Use the **[ChartData](http://msdn.microsoft.com/library/16262f71-13cd-a023-35df-2ca6bd017e3b%28Office.15%29.aspx)** property to return the **ChartData** object.
 
 
 ## Example
@@ -28,7 +28,7 @@ Use the  **[ChartData](http://msdn.microsoft.com/library/16262f71-13cd-a023-35df
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example uses the  **[Activate](http://msdn.microsoft.com/library/789651b8-334c-340a-e281-822f7129b76e%28Office.15%29.aspx)** method to display the data associated with the first chart in the active document.
+The following example uses the **[Activate](http://msdn.microsoft.com/library/789651b8-334c-340a-e281-822f7129b76e%28Office.15%29.aspx)** method to display the data associated with the first chart in the active document.
 
 
 

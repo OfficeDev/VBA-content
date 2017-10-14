@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeControl.AutoWordSelect Property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether a word or a character is the basic unit used to extend a selection. Read/write.
+Returns or sets a **Boolean** that specifies whether a word or a character is the basic unit used to extend a selection. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether a word or a character is t
 
 ## Remarks
 
-The default value is  **True** .
+The default value is **True** .
 
 
 ## See also

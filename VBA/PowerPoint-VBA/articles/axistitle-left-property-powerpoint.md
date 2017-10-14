@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisTitle.Left Property (PowerPoint)
 
-Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double**.
+Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write **Double**.
 
 
 ## Syntax

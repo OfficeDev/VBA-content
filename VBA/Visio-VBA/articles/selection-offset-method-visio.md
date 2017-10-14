@@ -38,14 +38,14 @@ Nothing
 
 ## Remarks
 
-Calling the  **Offset** method is equivalent to clicking **Offset** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab).
+Calling the **Offset** method is equivalent to clicking **Offset** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab).
 
 For a specified line or curve, the offset is implemented as a pair of lines or curves that are equidistant from the original line or curve. Offset shapes inherit line patterns from the original shapes. They do not inherit any fill patterns or text from the original shapes.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Offset** method to offset a line shape by a specified amount.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Offset** method to offset a line shape by a specified amount.
 
 
 ```vb

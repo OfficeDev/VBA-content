@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.TextFrame2 Property (Word)
 
-Returns the text formatting for the specified chart element. Read-only  **TextFrame2** .
+Returns the text formatting for the specified chart element. Read-only **TextFrame2** .
 
 
 ## Syntax

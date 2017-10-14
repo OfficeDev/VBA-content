@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.TemplateFolderPath Property (Publisher)
 
-Returns a  **String** that represents the location where Microsoft Publisher templates are stored. Read-only.
+Returns a **String** that represents the location where Microsoft Publisher templates are stored. Read-only.
 
 
 ## Syntax
 
  _expression_. **TemplateFolderPath**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

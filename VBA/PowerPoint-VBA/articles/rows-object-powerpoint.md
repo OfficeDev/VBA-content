@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Rows Object (PowerPoint)
 
-A collection of  **[Row](http://msdn.microsoft.com/library/df5ca5df-8119-1af8-b698-d96669ed0a02%28Office.15%29.aspx)** objects that represent the rows in a table.
+A collection of **[Row](http://msdn.microsoft.com/library/df5ca5df-8119-1af8-b698-d96669ed0a02%28Office.15%29.aspx)** objects that represent the rows in a table.
 
 
 ## Example
 
-Use the [Rows](http://msdn.microsoft.com/library/f7003d61-62d4-8d00-15c5-d9a2c5d57625%28Office.15%29.aspx)property to return the  **Rows** collection. This example changes the height of all rows in the specified table to 160 points.
+Use the [Rows](http://msdn.microsoft.com/library/f7003d61-62d4-8d00-15c5-d9a2c5d57625%28Office.15%29.aspx)property to return the **Rows** collection. This example changes the height of all rows in the specified table to 160 points.
 
 
 ```
@@ -44,7 +44,7 @@ Use the [Add](http://msdn.microsoft.com/library/7cc0c530-e817-1983-0946-90e49947
 ActivePresentation.Slides(2).Shapes(5).Table.Rows.Add (2)
 ```
 
-Use  **Rows** (index), where index is a number that represents the position of the row in the table, to return a single **Row** object. This example deletes the first row from the table in shape five on slide two.
+Use **Rows** (index), where index is a number that represents the position of the row in the table, to return a single **Row** object. This example deletes the first row from the table in shape five on slide two.
 
 
 

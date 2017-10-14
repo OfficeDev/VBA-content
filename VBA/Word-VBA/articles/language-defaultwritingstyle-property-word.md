@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Language.DefaultWritingStyle Property (Word)
 
-Returns or sets the default writing style used by the grammar checker for the specified language. Read/write  **String** .
+Returns or sets the default writing style used by the grammar checker for the specified language. Read/write **String** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the default writing style used by the grammar checker for the sp
 
 ## Remarks
 
-This property controls the global setting for the writing style. The name of the writing style is the localized name for the specified language. When setting this property, you must use the exact name found in the  **Writing style box** on the **Spelling &; Grammar** tab in the **Options** dialog box ( **Tools** menu).
+This property controls the global setting for the writing style. The name of the writing style is the localized name for the specified language. When setting this property, you must use the exact name found in the **Writing style box** on the **Spelling &; Grammar** tab in the **Options** dialog box ( **Tools** menu).
 
-The  **[ActiveWritingStyle](document-activewritingstyle-property-word.md)** property sets the writing style for each language in a document. The **ActiveWritingStyle** setting overrides the **DefaultWritingStyle** setting.
+The **[ActiveWritingStyle](document-activewritingstyle-property-word.md)** property sets the writing style for each language in a document. The **ActiveWritingStyle** setting overrides the **DefaultWritingStyle** setting.
 
 
 ## Example

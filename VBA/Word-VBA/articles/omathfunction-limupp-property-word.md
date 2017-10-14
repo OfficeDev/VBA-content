@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.LimUpp Property (Word)
 
-Returns an  **[OMathLimUpp](omathlimupp-object-word.md)** object that represents upper limit function. Read-only.
+Returns an **[OMathLimUpp](omathlimupp-object-word.md)** object that represents upper limit function. Read-only.
 
 
 ## Syntax

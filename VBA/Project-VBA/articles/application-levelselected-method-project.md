@@ -29,7 +29,7 @@ Levels the selected tasks to resolve resource conflicts or overallocations.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ResolveMethod_|Optional|**PjLevelSelectedOption**|Specifies what to resolve in the leveling process. Can be a  **[PjLevelSelectedOption](pjlevelselectedoption-enumeration-project.md)** constant. The default is **pjResolveSelectedTasks**.|
+| _ResolveMethod_|Optional|**PjLevelSelectedOption**|Specifies what to resolve in the leveling process. Can be a **[PjLevelSelectedOption](pjlevelselectedoption-enumeration-project.md)** constant. The default is **pjResolveSelectedTasks**.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Levels the selected tasks to resolve resource conflicts or overallocations.
 
 ## Remarks
 
-The  **LevelSelected** method corresponds to the **Level Selection** command in the **Level** group on the **Resource** tab. The **Level Selection** command is enabled when more than one task is selected.
+The **LevelSelected** method corresponds to the **Level Selection** command in the **Level** group on the **Resource** tab. The **Level Selection** command is enabled when more than one task is selected.
 
 

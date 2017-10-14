@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the  **Code** window and **Project** window settings.
+Specifies the **Code** window and **Project** window settings.
 
 ## Tab Options
 
@@ -46,11 +46,11 @@ Specifies the  **Code** window and **Project** window settings.
 
 
 
-- Drag-and-Drop Text Editing — Allows you to drag and drop elements within the current code and from the  **Code** window into the **Immediate** or **Watch** windows.
+- Drag-and-Drop Text Editing — Allows you to drag and drop elements within the current code and from the **Code** window into the **Immediate** or **Watch** windows.
     
-- Default to Full Module View — Sets the default state for new modules to allow you to look at procedures in the  **Code** window either as a single scrollable list or only at one procedure at a time. It does not change the way currently open modules are viewed.
+- Default to Full Module View — Sets the default state for new modules to allow you to look at procedures in the **Code** window either as a single scrollable list or only at one procedure at a time. It does not change the way currently open modules are viewed.
     
-- Procedure Separator — Allows you to display or hide separator bars that appear at the end of each procedure in the  **Code** window.
+- Procedure Separator — Allows you to display or hide separator bars that appear at the end of each procedure in the **Code** window.
     
 
 

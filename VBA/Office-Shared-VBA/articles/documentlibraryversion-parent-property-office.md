@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersion.Parent Property (Office)
 
-Gets the  **Parent** object for the **DocumentLibraryVersion** object. Read-only.
+Gets the **Parent** object for the **DocumentLibraryVersion** object. Read-only.
 
 
 ## Syntax

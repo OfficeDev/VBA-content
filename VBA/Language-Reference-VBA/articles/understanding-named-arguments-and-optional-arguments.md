@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Understanding Named Arguments and Optional Arguments
 
-When you call a  **Sub** or **Function** [procedure](vbe-glossary.md), you can supply [arguments](vbe-glossary.md) positionally, in the order they appear in the procedure's definition, or you can supply the arguments by name without regard to position.
+When you call a **Sub** or **Function** [procedure](vbe-glossary.md), you can supply [arguments](vbe-glossary.md) positionally, in the order they appear in the procedure's definition, or you can supply the arguments by name without regard to position.
 
-For example, the following  **Sub** procedure takes three arguments:
+For example, the following **Sub** procedure takes three arguments:
 
 
 
@@ -43,7 +43,7 @@ PassArgs intAge:=29, dteBirth:=#2/21/69#, strName:="Mary"
 
 A named argument consists of an argument name followed by a colon and an equal sign ( **:=** ), followed by the argument value.
 Named arguments are especially useful when you are calling a procedure that has optional arguments. If you use named arguments, you don't have to include commas to denote missing positional arguments. Using named arguments makes it easier to keep track of which arguments you passed and which you omitted.
-Optional arguments are preceded by the  **Optional** [keyword](vbe-glossary.md) in the procedure definition. You can also specify a default value for the optional argument in the procedure definition. For example:
+Optional arguments are preceded by the **Optional** [keyword](vbe-glossary.md) in the procedure definition. You can also specify a default value for the optional argument in the procedure definition. For example:
 
 
 

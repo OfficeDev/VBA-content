@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SeriesLines.Application Property (Word)
 
-When used without an object qualifier, returns an  **[Application](application-object-word.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
+When used without an object qualifier, returns an **[Application](application-object-word.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Parameter.DataType Property (Excel)
 
-Returns or sets a  **[XlParameterDataType](xlparameterdatatype-enumeration-excel.md)** value that represents the data type of the specified query parameter.
+Returns or sets a **[XlParameterDataType](xlparameterdatatype-enumeration-excel.md)** value that represents the data type of the specified query parameter.
 
 
 ## Syntax

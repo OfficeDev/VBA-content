@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Left Property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in points, from the left edge of the client area to the left edge of the window.
+Returns or sets a **Double** value that represents the distance, in points, from the left edge of the client area to the left edge of the window.
 
 
 ## Syntax

@@ -18,12 +18,12 @@ Occurs when the user clicks inside the control.
 
  _expression_. **Click**
 
- _expression_A variable that represents a  **CheckBox** object.
+ _expression_A variable that represents a **CheckBox** object.
 
 
 ## Remarks
 
-The following are examples of actions that initiate the  **Click** event of the specified control:
+The following are examples of actions that initiate the **Click** event of the specified control:
 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
@@ -34,13 +34,13 @@ The following are examples of actions that initiate the  **Click** event of the 
     
 
 
-For some controls, the  **Click** event occurs when the **Value** property changes. However, using the **PropertyChange** or **CustomPropertyChange** event is the preferred technique for detecting a new value for a property. The following are examples of actions that initiate the **Click** event due to assigning a new value to a control: clicking a **[CheckBox](checkbox-object-outlook-forms-script.md)**, pressing the  **SPACEBAR** when the check box has the focus, pressing the accelerator key, or changing the value of the control in code.
+For some controls, the **Click** event occurs when the **Value** property changes. However, using the **PropertyChange** or **CustomPropertyChange** event is the preferred technique for detecting a new value for a property. The following are examples of actions that initiate the **Click** event due to assigning a new value to a control: clicking a **[CheckBox](checkbox-object-outlook-forms-script.md)**, pressing the **SPACEBAR** when the check box has the focus, pressing the accelerator key, or changing the value of the control in code.
 
-The  **Click** event is not initiated when **Value** is set to **Null**.
+The **Click** event is not initiated when **Value** is set to **Null**.
 
-Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
+Left-clicking changes the value of a control, thus it initiates the **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
-If you bind a  **CheckBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
+If you bind a **CheckBox** to a field, then the **Click** event does not fire. You need to use the **PropertyChange** or **CustomPropertyChange** event to detect the change via code, as in the following code sample:
 
 
 

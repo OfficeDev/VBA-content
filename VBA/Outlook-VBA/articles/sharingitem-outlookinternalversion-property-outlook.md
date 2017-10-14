@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.OutlookInternalVersion Property (Outlook)
 
-Returns a  **Long** representing the build number of the Outlook application for a **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a **Long** representing the build number of the Outlook application for a **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax

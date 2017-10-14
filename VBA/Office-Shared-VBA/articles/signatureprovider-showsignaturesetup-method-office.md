@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureProvider.ShowSignatureSetup Method (Office)
 
-Provides a signature provider add-in the opportunity to display the  **Signature Setup** dialog box to the user.
+Provides a signature provider add-in the opportunity to display the **Signature Setup** dialog box to the user.
 
 
 ## Syntax
@@ -29,17 +29,17 @@ Provides a signature provider add-in the opportunity to display the  **Signature
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the  **Signature Setup** dialog box.|
+| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the **Signature Setup** dialog box.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies initial settings of the signature provider.|
 
 ## Remarks
 
-This method is used for both the insertion time configuration process and if a user later wants to re-configure the signature line. You display the  **Signature Setup** dialog box during this callback and wait for the user to select **OK** or **Cancel**. It is not necessary to display a dialog box for signature setup unless you specifically need information from the author about the signature line. If you can provide all of the necessary details back to Microsoft Office without user input, then no dialog is necessary.
+This method is used for both the insertion time configuration process and if a user later wants to re-configure the signature line. You display the **Signature Setup** dialog box during this callback and wait for the user to select **OK** or **Cancel**. It is not necessary to display a dialog box for signature setup unless you specifically need information from the author about the signature line. If you can provide all of the necessary details back to Microsoft Office without user input, then no dialog is necessary.
 
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **ShowSignatureSetup** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **ShowSignatureSetup** method in a custom signature provider project.
 
 
 ```

@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Class not registered on local machine (Error 463)
 
-The  **CreateObject** function requires a valid server. This error has the following cause and solution:
+The **CreateObject** function requires a valid server. This error has the following cause and solution:
 
 
 
-- A server parameter was specified, but the specified class progid (the first parameter of the  **CreateObject** function) is not registered on the local system.
+- A server parameter was specified, but the specified class progid (the first parameter of the **CreateObject** function) is not registered on the local system.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

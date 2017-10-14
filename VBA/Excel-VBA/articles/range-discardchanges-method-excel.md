@@ -25,7 +25,7 @@ Discards all changes in the edited cells of the range.
 
 ## Remarks
 
-For a range based on an OLAP data source, this method removes all values and formulas entered in the cells, and then runs an update operation to retrieve the latest values from the data source. It sets the data source value to  **NULL** for all value cells that are edited, and also executes a **ROLLBACK TRANSACTION** statement against the OLAP server. For ranges based on non-OLAP data sources, this method simply clears all edited cells.
+For a range based on an OLAP data source, this method removes all values and formulas entered in the cells, and then runs an update operation to retrieve the latest values from the data source. It sets the data source value to **NULL** for all value cells that are edited, and also executes a **ROLLBACK TRANSACTION** statement against the OLAP server. For ranges based on non-OLAP data sources, this method simply clears all edited cells.
 
 
 ## See also

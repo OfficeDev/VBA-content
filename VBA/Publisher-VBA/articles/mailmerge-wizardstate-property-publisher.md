@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMerge.WizardState Property (Publisher)
 
-Returns or sets a  **Long** indicating the current Mail Merge wizard step for a publication. The **WizardState** property returns a number that equates to the current Mail Merge wizard step; a zero (0) means the Mail Merge wizard is closed. Read/write.
+Returns or sets a **Long** indicating the current Mail Merge wizard step for a publication. The **WizardState** property returns a number that equates to the current Mail Merge wizard step; a zero (0) means the Mail Merge wizard is closed. Read/write.
 
 
 ## Syntax
 
  _expression_. **WizardState**
 
- _expression_A variable that represents a  **MailMerge** object.
+ _expression_A variable that represents a **MailMerge** object.
 
 
 ### Return Value

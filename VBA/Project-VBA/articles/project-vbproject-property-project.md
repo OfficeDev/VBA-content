@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.VBProject Property (Project)
 
-Gets a  **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.
+Gets a **VBProject** object that represents the Microsoft Visual Basic project. Read-only **VBProject**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets a  **VBProject** object that represents the Microsoft Visual Basic project.
 
 ## Remarks
 
-To use the  **VBProject** object, set a reference to Microsoft Visual Basic for Applications Extensibility 5.3 (the VBIDE library).
+To use the **VBProject** object, set a reference to Microsoft Visual Basic for Applications Extensibility 5.3 (the VBIDE library).
 
 

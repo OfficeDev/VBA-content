@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorFormat.TintAndShade Property (Publisher)
 
-Returns or sets a  **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
+Returns or sets a **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
 
 
 ## Syntax
 
  _expression_. **TintAndShade**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_A variable that represents a **ColorFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-You can enter a number from -1 (darkest) to 1 (lightest) for the  **TintAndShade** property, 0 (zero) being neutral.
+You can enter a number from -1 (darkest) to 1 (lightest) for the **TintAndShade** property, 0 (zero) being neutral.
 
 
 ## Example

@@ -32,7 +32,7 @@ Used to sign the XMLDSIG template.
 | _QueryContinue_|Required|**IQueryContinue**|Provides a way to query the host application for permission to continue the verification operation.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies configuration information about a signature line.|
 | _psiginfo_|Required|**SignatureInfo**|Specifies information captured from the signing ceremony.|
-| _XmlDsigStream_|Required|**IStream**|Represents a steam of data containing XML, which represents an  **XMLDSIG** object.|
+| _XmlDsigStream_|Required|**IStream**|Represents a steam of data containing XML, which represents an **XMLDSIG** object.|
 
 ## Remarks
 
@@ -41,7 +41,7 @@ XMLDSIG is a standards-based signature format (http://www.w3.org/TR/xmldsig-core
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **SignXmlDsig** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **SignXmlDsig** method in a custom signature provider project.
 
 
 ```

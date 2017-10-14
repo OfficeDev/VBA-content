@@ -16,12 +16,12 @@ Shows the selection state of an item.
 
 ## Remarks
 
-Use a  **ToggleButton** to show whether an item is selected. If a **ToggleButton** is bound to a data source, the **ToggleButton** shows the current value of that data source as either Yes/No, True/False, On/Off, or some other choice of two settings. If the user selects the **ToggleButton**, the current setting is Yes, True, or On. If the user does not select the  **ToggleButton**, the setting is No, False, or Off. If the  **ToggleButton** is bound to a data source, changing the setting changes the value of that data source. A disabled **ToggleButton** shows a value, but is dimmed and does not allow changes from the user interface.
+Use a **ToggleButton** to show whether an item is selected. If a **ToggleButton** is bound to a data source, the **ToggleButton** shows the current value of that data source as either Yes/No, True/False, On/Off, or some other choice of two settings. If the user selects the **ToggleButton**, the current setting is Yes, True, or On. If the user does not select the **ToggleButton**, the setting is No, False, or Off. If the **ToggleButton** is bound to a data source, changing the setting changes the value of that data source. A disabled **ToggleButton** shows a value, but is dimmed and does not allow changes from the user interface.
 
-You can also use a  **ToggleButton** inside a **[Frame](frame-object-outlook-forms-script.md)** to select one or more of a group of related items. For example, you can create an order form with a list of available items, with a **ToggleButton** preceding each item. The user can select a particular item by selecting the appropriate **ToggleButton**.
+You can also use a **ToggleButton** inside a **[Frame](frame-object-outlook-forms-script.md)** to select one or more of a group of related items. For example, you can create an order form with a list of available items, with a **ToggleButton** preceding each item. The user can select a particular item by selecting the appropriate **ToggleButton**.
 
-The default property of a  **ToggleButton** is the **[Value](togglebutton-value-property-outlook-forms-script.md)** property.
+The default property of a **ToggleButton** is the **[Value](togglebutton-value-property-outlook-forms-script.md)** property.
 
-The only event for a  **ToggleButton** is the **[Click](togglebutton-click-event-outlook-forms-script.md)** event.
+The only event for a **ToggleButton** is the **[Click](togglebutton-click-event-outlook-forms-script.md)** event.
 
 

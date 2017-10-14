@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Windows2.Parent Property (Project)
 
-Gets the parent of the  **Windows2** object. Read-only **Object**.
+Gets the parent of the **Windows2** object. Read-only **Object**.
 
 
 ## Syntax
@@ -22,9 +22,9 @@ Gets the parent of the  **Windows2** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of a  **Windows2** collection object can be the **Application** or a **Project** object.
+The parent of a **Windows2** collection object can be the **Application** or a **Project** object.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

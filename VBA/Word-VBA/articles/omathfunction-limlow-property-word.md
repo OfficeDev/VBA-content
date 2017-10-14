@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.LimLow Property (Word)
 
-Returns an  **[OMathLimLow](omathlimlow-object-word.md)** object that represents the lower limit for a function. Read-only.
+Returns an **[OMathLimLow](omathlimlow-object-word.md)** object that represents the lower limit for a function. Read-only.
 
 
 ## Syntax

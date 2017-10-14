@@ -20,7 +20,7 @@ Specifies whether a user may select more than one item in a Web list box control
 
  _expression_. **MultiSelect**
 
- _expression_A variable that represents a  **WebListBox** object.
+ _expression_A variable that represents a **WebListBox** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **MultiSelect** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **MultiSelect** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

@@ -12,10 +12,10 @@ ms.date: 06/08/2017
 |**To show the shortcut menu for a**|**Right-click**|
 |:-----|:-----|
 |Page|The caption of that page.|
-|Group of controls (groups created by using the  **Group** command)|Anywhere inside the rectangle that surrounds the group.|
+|Group of controls (groups created by using the **Group** command)|Anywhere inside the rectangle that surrounds the group.|
 |Tab|The caption of that tab.|
 |Any other control or container|The control or container.|
 
- **Note**  The commands on a shortcut menu vary based on the object that you select. For example, if you select multiple controls that are not in a group, the shortcut menu includes the  **Group** command, whereas the shortcut menu for a text box does not.
+ **Note**  The commands on a shortcut menu vary based on the object that you select. For example, if you select multiple controls that are not in a group, the shortcut menu includes the **Group** command, whereas the shortcut menu for a text box does not.
 
 

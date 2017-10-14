@@ -10,19 +10,19 @@ ms.date: 06/08/2017
 
 # TableOfContents Object (Word)
 
-Represents a single table of contents in a document. The  **TableOfContents** object is a member of the **[TablesOfContents](tablesofcontents-object-word.md)** collection. The **TablesOfContents** collection includes all the tables of contents in a document.
+Represents a single table of contents in a document. The **TableOfContents** object is a member of the **[TablesOfContents](tablesofcontents-object-word.md)** collection. The **TablesOfContents** collection includes all the tables of contents in a document.
 
 
 ## Remarks
 
-Use  **TablesOfContents** (Index), where Index is the index number, to return a single **TableOfContents** object. The index number represents the position of the table of contents in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
+Use **TablesOfContents** (Index), where Index is the index number, to return a single **TableOfContents** object. The index number represents the position of the table of contents in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
 
 
 ```
 ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 ```
 
-Use the  **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
+Use the **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
 
 
 

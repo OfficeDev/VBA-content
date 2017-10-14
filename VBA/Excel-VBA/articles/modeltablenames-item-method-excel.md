@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNames.Item Method (Excel)
 
-Returns a single object from the  **ModelTableNames** collection.
+Returns a single object from the **ModelTableNames** collection.
 
 
 ## Syntax

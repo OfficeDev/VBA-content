@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeFields.AddFillIn Method (Word)
 
-Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a FILLIN field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ MailMergeField
 
 ## Remarks
 
-When updated, a FILLIN field displays a dialog box that prompts you for text to insert into the document at the location of the FILLIN field. Use the  **Add** method with the **Fields** collection object to add a FILLIN field to a document other than a mail merge main document.
+When updated, a FILLIN field displays a dialog box that prompts you for text to insert into the document at the location of the FILLIN field. Use the **Add** method with the **Fields** collection object to add a FILLIN field to a document other than a mail merge main document.
 
 
 ## Example

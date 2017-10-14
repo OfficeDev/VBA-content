@@ -8,15 +8,15 @@ ms.date: 06/08/2017
 
 # Detect User Idle Time or Inactivity
 
-This topic shows how to create a procedure that will run if your Access application does not detect any user input for a specified period of time. It involves creating a hidden form,  **DetectIdleTime**, which keeps track of idle time.
+This topic shows how to create a procedure that will run if your Access application does not detect any user input for a specified period of time. It involves creating a hidden form, **DetectIdleTime**, which keeps track of idle time.
 
-Follow these steps to create the  **DetectIdleTime** form.
+Follow these steps to create the **DetectIdleTime** form.
 
-1. Create a blank form that is not based on any table or query and name it  **DetectIdleTime**.
+1. Create a blank form that is not based on any table or query and name it **DetectIdleTime**.
 
 2. Set the following form properties:
     
-     **Note**  The  **TimerInterval** setting indicates how often (in milliseconds) the application checks for user inactivity. A setting of 1000 equals 1 second.
+    **Note**  The **TimerInterval** setting indicates how often (in milliseconds) the application checks for user inactivity. A setting of 1000 equals 1 second.
 
 
   |**Property**|**Value**|
@@ -24,7 +24,7 @@ Follow these steps to create the  **DetectIdleTime** form.
   |OnTimer|[Event Procedure]|
   |TimerInterval|1000|
 
-3. Enter the following code for the  **OnTimer** property event procedure:
+3. Enter the following code for the **OnTimer** property event procedure:
     
 ```vb
 Sub Form_Timer() 
@@ -96,5 +96,5 @@ Sub IdleTimeDetected(ExpiredMinutes)
       End Sub
 ```
 
-To hide the  **DetectIdleTime** form as it opens, set the _WindowMode_ argument of the **[OpenForm](docmd-openform-method-access.md)** method to **acHidden**.
+To hide the **DetectIdleTime** form as it opens, set the _WindowMode_ argument of the **[OpenForm](docmd-openform-method-access.md)** method to **acHidden**.
 

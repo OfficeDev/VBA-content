@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.HeaderFooter Property (Word)
 
-Returns a  **[HeaderFooter](headerfooter-object-word.md)** object for the specified selection. Read-only.
+Returns a **[HeaderFooter](headerfooter-object-word.md)** object for the specified selection. Read-only.
 
 
 ## Syntax

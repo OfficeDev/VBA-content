@@ -21,7 +21,7 @@ You may also need to make some changes to the objects, macros, and procedures in
 
 ## Referencing and Loading Library Databases
 
-Before using a library in Microsoft Access 2002 or later, you must establish a reference to the library database from each of your applications that uses it. You establish such a reference by clicking  **References** on the **Tools** menu while in module Design view. A referenced database must be in Microsoft Access 2002 format.
+Before using a library in Microsoft Access 2002 or later, you must establish a reference to the library database from each of your applications that uses it. You establish such a reference by clicking **References** on the **Tools** menu while in module Design view. A referenced database must be in Microsoft Access 2002 format.
 
 A library database should contain only Visual Basic code, which you can call from any application that maintains a reference to that library. In versions 1. _x_ and 2.0 of Microsoft Access, you load a library database at startup by creating an entry in the Libraries section of your .ini file. Most of the information that's stored in an .ini file in versions 1. _x_ and 2.0 is stored in the Windows registry in later versions. However, there's no need to create a Windows registry key in order to use a library database.
 

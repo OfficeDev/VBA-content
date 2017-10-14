@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.PathSeparator Property (Publisher)
 
-Returns a  **String** that represents the character used to separate folder names. Read-only.
+Returns a **String** that represents the character used to separate folder names. Read-only.
 
 
 ## Syntax
 
  _expression_. **PathSeparator**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ String
 
 ## Remarks
 
-You can use  **PathSeparator** to build Web addresses even though they contain forward slashes (/).
+You can use **PathSeparator** to build Web addresses even though they contain forward slashes (/).
 
-The  **[FullName](document-fullname-property-publisher.md)** property returns the path and file name as a single string.
+The **[FullName](document-fullname-property-publisher.md)** property returns the path and file name as a single string.
 
 For worldwide compatibility, we recommend that you use this property when building paths, rather than referring explicitly to path separator characters in code (for example, "/").
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorScale.ColorScaleCriteria Property (Excel)
 
-Returns a  **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** object, which is a collection of individual **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** objects. The **ColorScaleCriterion** object specifies the type, value, and color of threshold criteria used in the color scale conditional format. Read-only.
+Returns a **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** object, which is a collection of individual **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** objects. The **ColorScaleCriterion** object specifies the type, value, and color of threshold criteria used in the color scale conditional format. Read-only.
 
 
 ## Syntax

@@ -14,15 +14,15 @@ ms.date: 06/08/2017
 
 
 
-1. Select any page in the  **MultiPage** or **TabStrip**.
+1. Select any page in the **MultiPage** or **TabStrip**.
     
 2. Right-click the caption of the page.
     
-3. From the shortcut menu, choose  **Move**.
+3. From the shortcut menu, choose **Move**.
     
-4. In the  **Move** dialog box, select the **Page** you want to move.
+4. In the **Move** dialog box, select the **Page** you want to move.
     
-5. Choose  **Move Up** or **Move Down** to change the position of the page.
+5. Choose **Move Up** or **Move Down** to change the position of the page.
     
 6. When you've made all changes you want to, click OK.
     
@@ -30,6 +30,6 @@ ms.date: 06/08/2017
 
 
 
- **Note**  You can also use the  **Index** property to change the page order through the **Properties** window. The index of the first page is 0; the index of the second page is 1, and so on.
+ **Note**  You can also use the **Index** property to change the page order through the **Properties** window. The index of the first page is 0; the index of the second page is 1, and so on.
 
 

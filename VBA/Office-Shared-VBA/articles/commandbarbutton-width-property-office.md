@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Width Property (Office)
 
-Gets or sets the width (in pixels) of the specified  **CommandBarButton** control. Read/write.
+Gets or sets the width (in pixels) of the specified **CommandBarButton** control. Read/write.
 
 
 ## 

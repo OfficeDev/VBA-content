@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MailItem.Send Event (Outlook)
 
-Occurs when the user selects the  **Send** action for an item, or when the **Send** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the **Send** action for an item, or when the **Send** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -26,16 +26,16 @@ Occurs when the user selects the  **Send** action for an item, or when the **Sen
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True** , the send operation is not completed and the inspector is left open.|
+| _Cancel_|Required| **Boolean**|(Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True** , the send operation is not completed and the inspector is left open.|
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the item is not sent.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False** , the item is not sent.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Send** event and sends an item with an automatic expiration date. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook.
+This Visual Basic for Applications (VBA) example uses the **Send** event and sends an item with an automatic expiration date. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

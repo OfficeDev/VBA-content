@@ -28,7 +28,7 @@ The horizontal offset and vertical offset of the duplicated shape range are both
 
 ### Example
 
-The following example uses the report created by the code example in the  **[ShapeRange.Apply](shaperange-apply-method-project.md)** method. The example duplicates a shape range that contains two shapes, and then vertically flips and selects the new shape range.
+The following example uses the report created by the code example in the **[ShapeRange.Apply](shaperange-apply-method-project.md)** method. The example duplicates a shape range that contains two shapes, and then vertically flips and selects the new shape range.
 
 
 ```vb

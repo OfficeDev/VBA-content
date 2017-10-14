@@ -29,7 +29,7 @@ Uses an open dynamic data exchange (DDE) channel to send data to an application.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **DDEInitiate** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **DDEInitiate** method.|
 | _Item_|Required| **String**|The item within a DDE topic to which the specified data is to be sent.|
 | _Data_|Required| **String**|The data to be sent to the receiving application (the DDE server).|
 
@@ -40,7 +40,7 @@ Uses an open dynamic data exchange (DDE) channel to send data to an application.
 
 
 
-If the  **DDEPoke** method isn't successful, an error occurs.
+If the **DDEPoke** method isn't successful, an error occurs.
 
 
 ## Example

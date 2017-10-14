@@ -30,10 +30,10 @@ In a project comparison report, shows the Resource Sheet view in all three proje
 
 ## Remarks
 
-Use the  **CompareProjectVersions** method to create a project comparison report, or choose **Compare Projects** on the **PROJECT** ribbon.
+Use the **CompareProjectVersions** method to create a project comparison report, or choose **Compare Projects** on the **PROJECT** ribbon.
 
-The  **ResourceComparison** method is equivalent to the **Resource Comparison** command on the **Compare Projects** tab on the ribbon.
+The **ResourceComparison** method is equivalent to the **Resource Comparison** command on the **Compare Projects** tab on the ribbon.
 
-To compare tasks in a comparison report, use the  **[TaskComparison](application-taskcomparison-method-project.md)** method.
+To compare tasks in a comparison report, use the **[TaskComparison](application-taskcomparison-method-project.md)** method.
 
 

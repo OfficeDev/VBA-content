@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlIconViewPlacement Enumeration (Outlook)
 
-Indicates how icons are arranged in an  **[IconView](iconview-object-outlook.md)** object.
+Indicates how icons are arranged in an **[IconView](iconview-object-outlook.md)** object.
 
 
 

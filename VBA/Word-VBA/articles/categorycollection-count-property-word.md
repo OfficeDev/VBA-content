@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CategoryCollection.Count Property (Word)
 
-Returns a  **Long** that represents the number of categories in the collection. Read-only.
+Returns a **Long** that represents the number of categories in the collection. Read-only.
 
 
 ## Syntax

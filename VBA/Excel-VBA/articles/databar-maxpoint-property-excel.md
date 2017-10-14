@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Databar.MaxPoint Property (Excel)
 
-Returns a  **[ConditionValue](conditionvalue-object-excel.md)** object that specifies how the longest bar is evaluated for a data bar conditional format.
+Returns a **[ConditionValue](conditionvalue-object-excel.md)** object that specifies how the longest bar is evaluated for a data bar conditional format.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ConditionValue](conditionvalue-object-excel.md)** object that spec
 
 ## Remarks
 
-You can specify the type and value of the evaluation by using the  **[Type](conditionvalue-type-property-excel.md)** and **[Value](conditionvalue-value-property-excel.md)** properties.
+You can specify the type and value of the evaluation by using the **[Type](conditionvalue-type-property-excel.md)** and **[Value](conditionvalue-value-property-excel.md)** properties.
 
 
 ## See also

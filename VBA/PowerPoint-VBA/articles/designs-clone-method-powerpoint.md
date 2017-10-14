@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Designs.Clone Method (PowerPoint)
 
-Creates a copy of a  **[Design](design-object-powerpoint.md)** object.
+Creates a copy of a **[Design](design-object-powerpoint.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Creates a copy of a  **[Design](design-object-powerpoint.md)** object.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _pOriginal_|Required|**Design**|**Design** object. The original design.|
-| _Index_|Optional|**Long**|The index location in the  **Designs** collection into which the design will be copied. If Index is omitted, the cloned design is added to the end of the **Designs** collection.|
+| _Index_|Optional|**Long**|The index location in the **Designs** collection into which the design will be copied. If Index is omitted, the cloned design is added to the end of the **Designs** collection.|
 
 ### Return Value
 

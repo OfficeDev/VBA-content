@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TextFrame Object (PowerPoint)
 
-Represents the text frame in a  **Shape** object. Contains the text in the text frame and the properties and methods that control the alignment and anchoring of the text frame.
+Represents the text frame in a **Shape** object. Contains the text in the text frame and the properties and methods that control the alignment and anchoring of the text frame.
 
 
 ## Example
 
-Use the  **TextFrame** property to return a **TextFrame** object. The following example adds a rectangle to myDocument, adds text to the rectangle, and then sets the margins for the text frame.
+Use the **TextFrame** property to return a **TextFrame** object. The following example adds a rectangle to myDocument, adds text to the rectangle, and then sets the margins for the text frame.
 
 
 ```

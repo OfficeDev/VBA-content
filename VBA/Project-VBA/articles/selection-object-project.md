@@ -12,9 +12,9 @@ ms.date: 06/08/2017
 
 
 
-Represents a selection in the active project. There is no collection for  **Selection** objects. The **Selection** object can be accessed only through the **[ActiveSelection](http://msdn.microsoft.com/library/aa72b337-4031-a970-0921-d1d60f66096e%28Office.15%29.aspx)** property of the **Application** object.
+Represents a selection in the active project. There is no collection for **Selection** objects. The **Selection** object can be accessed only through the **[ActiveSelection](http://msdn.microsoft.com/library/aa72b337-4031-a970-0921-d1d60f66096e%28Office.15%29.aspx)** property of the **Application** object.
  **Using the Selection Object**
-Use the  **ActiveSelection** property to return a **Selection** object. The following example lists the names of all the resources in the selection.
+Use the **ActiveSelection** property to return a **Selection** object. The following example lists the names of all the resources in the selection.
 
 ## Properties
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartTitle.FormulaLocal Property (PowerPoint)
 
-Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String**.
+Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write **String**.
 
 
 ## Syntax

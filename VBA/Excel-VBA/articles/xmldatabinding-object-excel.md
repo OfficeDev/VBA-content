@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # XmlDataBinding Object (Excel)
 
-Represents the connection to the source data for an  **[XmlMap](xmlmap-object-excel.md)** object.
+Represents the connection to the source data for an **[XmlMap](xmlmap-object-excel.md)** object.
 
 
 ## Remarks
 
-Use the  **[LoadSettings](xmldatabinding-loadsettings-method-excel.md)** method initialize the settings for an **XmlDataBinding** object
+Use the **[LoadSettings](xmldatabinding-loadsettings-method-excel.md)** method initialize the settings for an **XmlDataBinding** object
 
-Use the  **[Refresh](xmldatabinding-refresh-method-excel.md)** method to refresh a data binding.
+Use the **[Refresh](xmldatabinding-refresh-method-excel.md)** method to refresh a data binding.
 
-Use the  **[ClearSettings](xmldatabinding-clearsettings-method-excel.md)** method to remove a data binding.
+Use the **[ClearSettings](xmldatabinding-clearsettings-method-excel.md)** method to remove a data binding.
 
 
 ## See also

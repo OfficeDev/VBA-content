@@ -11,7 +11,7 @@ ms.prod: access
 
 # CodeProject.IsSQLBackend Property (Access)
 
-Returns  **true** if the code project was created in Access 2013 and onwards and **false** if the code project was created prior to Access 2013 . Read-only **Boolean** Introduced in Office 2016.
+Returns **true** if the code project was created in Access 2013 and onwards and **false** if the code project was created prior to Access 2013 . Read-only **Boolean** Introduced in Office 2016.
 
 
 ## Syntax

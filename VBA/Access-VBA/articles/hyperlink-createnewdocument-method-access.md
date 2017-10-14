@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.CreateNewDocument Method (Access)
 
-You can use the  **CreateNewDocument** method to create a new document associated with a specified hyperlink.
+You can use the **CreateNewDocument** method to create a new document associated with a specified hyperlink.
 
 
 ## Syntax
@@ -40,12 +40,12 @@ Nothing
 
 ## Remarks
 
-The  **CreateNewDocument** method provides a way to programmatically create a document associated with a hyperlink within a control.
+The **CreateNewDocument** method provides a way to programmatically create a document associated with a hyperlink within a control.
 
 
 ## Example
 
-The following example utilizes a hyperlink control's  **Click** event. This event creates a new file named "Report.txt" when the user clicks the hyperlink control named "GenerateReport" on a form. The new file opened for editing. If a file named "Report.txt" already exists on drive C, it is replaced with this new file.
+The following example utilizes a hyperlink control's **Click** event. This event creates a new file named "Report.txt" when the user clicks the hyperlink control named "GenerateReport" on a form. The new file opened for editing. If a file named "Report.txt" already exists on drive C, it is replaced with this new file.
 
 
 ```vb

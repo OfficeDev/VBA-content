@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The cascade operation you are attempting would result in a  **Null** value in the indicated field, which has been set up to not allow **Null** values. Check the values you are attempting to update and fix them so they do not result in **Null** values in this field.
+The cascade operation you are attempting would result in a **Null** value in the indicated field, which has been set up to not allow **Null** values. Check the values you are attempting to update and fix them so they do not result in **Null** values in this field.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

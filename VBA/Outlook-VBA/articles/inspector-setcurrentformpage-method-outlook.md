@@ -33,12 +33,12 @@ Displays the specified form page or form region in the inspector.
 
 ## Remarks
 
-You can use  **SetCurrentFormPage** to display a form region by specifying the **[InternalName](formregion-internalname-property-outlook.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
+You can use **SetCurrentFormPage** to display a form region by specifying the **[InternalName](formregion-internalname-property-outlook.md)** property of the form region, if the form region is an a separate, replace, or replace-all form region.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **SetCurrentFormPage** method to show the **All Fields** page of the currently open item. If an error occurs, Outlook will display a message box to the user.
+This Visual Basic for Applications (VBA) example uses the **SetCurrentFormPage** method to show the **All Fields** page of the currently open item. If an error occurs, Outlook will display a message box to the user.
 
 
 ```vb

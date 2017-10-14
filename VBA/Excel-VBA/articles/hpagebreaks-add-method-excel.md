@@ -29,11 +29,11 @@ Adds a horizontal page break.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Before_|Required| **Object**|A  **[Range](range-object-excel.md)** object. The range above which the new page break will be added.|
+| _Before_|Required| **Object**|A **[Range](range-object-excel.md)** object. The range above which the new page break will be added.|
 
 ### Return Value
 
-A  **[HPageBreak](hpagebreak-object-excel.md)** object that represents the new horizontal page break.
+A **[HPageBreak](hpagebreak-object-excel.md)** object that represents the new horizontal page break.
 
 
 ## Example

@@ -20,7 +20,7 @@ A check box on a form or report is a stand-alone control that display a Yes/No v
 
 ## Remarks
 
-When you select or clear a check box that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's  **Format** property (Yes/No, True/False, or On/Off).
+When you select or clear a check box that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's **Format** property (Yes/No, True/False, or On/Off).
 
 You can also use check boxes in an option group to display values to choose from.
 

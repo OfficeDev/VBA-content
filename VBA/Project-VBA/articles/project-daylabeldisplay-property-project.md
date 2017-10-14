@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.DayLabelDisplay Property (Project)
 
-Gets or sets the abbreviation for "day" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
+Gets or sets the abbreviation for "day" that is displayed for values such as durations, delays, slack, and work. Read/write **Integer**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets or sets the abbreviation for "day" that is displayed for values such as dur
 
 ## Remarks
 
-The  **DayLabelDisplay** property corresponds to the **Days** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **DayLabelDisplay** property to 1 sets the **Days** list to the second value in the list ("dy").
+The **DayLabelDisplay** property corresponds to the **Days** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **DayLabelDisplay** property to 1 sets the **Days** list to the second value in the list ("dy").
 
-Values of the  **DayLabelDisplay** property can be 0 to 2.
+Values of the **DayLabelDisplay** property can be 0 to 2.
 
 

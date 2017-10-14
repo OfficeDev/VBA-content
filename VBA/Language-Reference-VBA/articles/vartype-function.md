@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns an  **Integer** indicating the subtype of a[variable](vbe-glossary.md).
+Returns an **Integer** indicating the subtype of a[variable](vbe-glossary.md).
  **Syntax**
  **VarType(**_varname_**)**
 The required  _varname_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md) containing any variable except a variable of a[user-defined type](vbe-glossary.md).
@@ -45,11 +45,11 @@ The required  _varname_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md
  **Note**  These [constants](vbe-glossary.md) are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
 
  **Remarks**
-The  **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. The constant **vbVariant** is only returned in conjunction with **vbArray** to indicate that the argument to the **VarType** function is an array of type **Variant**. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. If an object has a default[property](vbe-glossary.md),  **VarType** **(**_object_**)** returns the type of the object's default property.
+The **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. The constant **vbVariant** is only returned in conjunction with **vbArray** to indicate that the argument to the **VarType** function is an array of type **Variant**. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. If an object has a default[property](vbe-glossary.md), **VarType** **(**_object_**)** returns the type of the object's default property.
 
 ## Example
 
-This example uses the  **VarType** function to determine the subtype of a variable.
+This example uses the **VarType** function to determine the subtype of a variable.
 
 
 ```vb

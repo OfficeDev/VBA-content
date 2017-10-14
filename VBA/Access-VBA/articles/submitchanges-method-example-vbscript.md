@@ -12,9 +12,9 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The following code fragment shows how to use the  **SubmitChanges** method with an **RDS.DataControl** object.
+The following code fragment shows how to use the **SubmitChanges** method with an **RDS.DataControl** object.
 
-To test this example, cut and paste this code into a normal ASP document and name it  **SubmitChangesCtrlVBS.asp**. ASP script will identify your server.
+To test this example, cut and paste this code into a normal ASP document and name it **SubmitChangesCtrlVBS.asp**. ASP script will identify your server.
 
 
 

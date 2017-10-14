@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Point.DataLabel Property (PowerPoint)
 
-Returns the data label associated with the point. Read-only  **[DataLabel](datalabel-object-powerpoint.md)**.
+Returns the data label associated with the point. Read-only **[DataLabel](datalabel-object-powerpoint.md)**.
 
 
 ## Syntax

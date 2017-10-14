@@ -29,9 +29,9 @@ Opens the supporting documents for a link or links.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The name of the Microsoft Excel or DDE/OLE link, as returned from the  **[LinkSources](workbook-linksources-method-excel.md)** method.|
+| _Name_|Required| **String**|The name of the Microsoft Excel or DDE/OLE link, as returned from the **[LinkSources](workbook-linksources-method-excel.md)** method.|
 | _ReadOnly_|Optional| **Variant**| **True** to open documents as read-only. The default value is **False** .|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLink](xllink-enumeration-excel.md)** that specifies the link type.|
+| _Type_|Optional| **Variant**|One of the constants of **[XlLink](xllink-enumeration-excel.md)** that specifies the link type.|
 
 ## Example
 

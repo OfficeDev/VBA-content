@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within a table of authorities.
+Returns a **Range** object that represents the portion of a document that is contained within a table of authorities.
 
 
 ## Syntax

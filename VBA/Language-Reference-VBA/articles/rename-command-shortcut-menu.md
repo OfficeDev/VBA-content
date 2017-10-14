@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Rename Command (Shortcut Menu)
 
-Displays the  **Rename** dialog box so that you can change the name of the selected page in your **Toolbox** and create a tip.
+Displays the **Rename** dialog box so that you can change the name of the selected page in your **Toolbox** and create a tip.
 
 
 ## Dialog Box Options

@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Resource.EngagementCommittedStart Property (Project)
 
-Returns the committed start date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
+Returns the committed start date for the engagement. Read-only **DateType**. Introduced in Office 2016.
 
 
 ## Syntax

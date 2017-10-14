@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.FindRow Method (Outlook)
 
-Finds the first row in the  **[Table](table-object-outlook.md)** that meets the criteria specified in _Filter_ .
+Finds the first row in the **[Table](table-object-outlook.md)** that meets the criteria specified in _Filter_ .
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Finds the first row in the  **[Table](table-object-outlook.md)** that meets the 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Filter_|Required| **String**|Specifies the condition that a row in the  **Table** has to meet.|
+| _Filter_|Required| **String**|Specifies the condition that a row in the **Table** has to meet.|
 
 ### Return Value
 
-A  **[Row](row-object-outlook.md)** object that represents the first row in the **Table** that meets the filter criteria. Returns **Null** ( **Nothing** in Visual Basic) if no such row can be found, or the **Table** does not contain any rows.
+A **[Row](row-object-outlook.md)** object that represents the first row in the **Table** that meets the filter criteria. Returns **Null** ( **Nothing** in Visual Basic) if no such row can be found, or the **Table** does not contain any rows.
 
 
 ## Remarks
@@ -44,7 +44,7 @@ A  **[Row](row-object-outlook.md)** object that represents the first row in the 
 
  **FindRow** returns an error if _Filter_ is a blank string or an invalid restriction. In cases where **FindRow** does not find any row, the current row will not be repositioned to where it was before the call to **FindRow** .
 
-To use content indexing search in a  **Table** , use the **[Restrict](table-restrict-method-outlook.md)** method. **FindRow** returns an error if _Filter_ contains content indexing keywords.
+To use content indexing search in a **Table** , use the **[Restrict](table-restrict-method-outlook.md)** method. **FindRow** returns an error if _Filter_ contains content indexing keywords.
 
 
 ## See also

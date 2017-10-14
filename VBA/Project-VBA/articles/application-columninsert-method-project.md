@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ColumnInsert Method (Project)
 
-Inserts a column to the left of the active column, and then displays the  **Field Settings** dialog box.
+Inserts a column to the left of the active column, and then displays the **Field Settings** dialog box.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Inserts a column to the left of the active column, and then displays the  **Fiel
 
 ## Remarks
 
-By comparison, the  **[AddNewColumn](application-addnewcolumn-method-project.md)** method can specify the column location and allows the user to type the field name directly in the new column header, rather than showing the **Field Settings** dialog box.
+By comparison, the **[AddNewColumn](application-addnewcolumn-method-project.md)** method can specify the column location and allows the user to type the field name directly in the new column header, rather than showing the **Field Settings** dialog box.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PublishObjects Property (Excel)
 
-Returns the  **[PublishObjects](publishobjects-object-excel.md)** collection. Read-only.
+Returns the **[PublishObjects](publishobjects-object-excel.md)** collection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[PublishObjects](publishobjects-object-excel.md)** collection. Re
 
 ## Example
 
-This example publishes all static  **PublishObject** objects in the active workbook to the Web page.
+This example publishes all static **PublishObject** objects in the active workbook to the Web page.
 
 
 ```vb

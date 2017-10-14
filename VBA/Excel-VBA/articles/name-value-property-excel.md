@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.Value Property (Excel)
 
-Returns or sets a  **String** value that represents the formula that the name is defined to refer to.
+Returns or sets a **String** value that represents the formula that the name is defined to refer to.
 
 
 ## Syntax

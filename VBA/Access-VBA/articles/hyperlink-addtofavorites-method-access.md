@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.AddToFavorites Method (Access)
 
-The  **AddToFavorites** method adds a hyperlink address to the Favorites folder.
+The **AddToFavorites** method adds a hyperlink address to the Favorites folder.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Nothing
 
 ## Remarks
 
-When applied to a  **Control** object, the **AddToFavorites** method adds the hyperlink address contained in a control to the Favorites folder.
+When applied to a **Control** object, the **AddToFavorites** method adds the hyperlink address contained in a control to the Favorites folder.
 
 
 ## Example
 
-The following example sets the  **HyperlinkAddress** property of a command button. When the user clicks the command button, the address is added to the Favorites folder by using the **AddToFavorites** method.
+The following example sets the **HyperlinkAddress** property of a command button. When the user clicks the command button, the address is added to the Favorites folder by using the **AddToFavorites** method.
 
 To try this example, create a new form and add a command button named Command0. Paste the following code into the form's module. Switch to Form view and click the command button.
 

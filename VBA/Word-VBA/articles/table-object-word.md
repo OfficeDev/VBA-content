@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Table Object (Word)
 
-Represents a single table. The  **Table** object is a member of the **[Tables](http://msdn.microsoft.com/library/068a3d0f-0b19-3927-cb0a-7fb0d0fd8e52%28Office.15%29.aspx)** collection. The **Tables** collection includes all the tables in the specified selection, range, or document.
+Represents a single table. The **Table** object is a member of the **[Tables](http://msdn.microsoft.com/library/068a3d0f-0b19-3927-cb0a-7fb0d0fd8e52%28Office.15%29.aspx)** collection. The **Tables** collection includes all the tables in the specified selection, range, or document.
 
 
 ## Remarks
 
-Use  **Tables** (Index), where Index is the index number, to return a single **Table** object. The index number represents the position of the table in the selection, range, or document. The following example converts the first table in the active document to text.
+Use **Tables** (Index), where Index is the index number, to return a single **Table** object. The index number represents the position of the table in the selection, range, or document. The following example converts the first table in the active document to text.
 
 
 ```
 ActiveDocument.Tables(1).ConvertToText Separator:=wdSeparateByTabs
 ```
 
-Use the  **Add** method to add a table at the specified range. The following example adds a 3x4 table at the beginning of the active document.
+Use the **Add** method to add a table at the specified range. The following example adds a 3x4 table at the beginning of the active document.
 
 
 

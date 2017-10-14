@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.ParentFrameset Property (Word)
 
-Returns a  **Frameset** object that represents the parent of the specified **Frameset** object on a frames page.
+Returns a **Frameset** object that represents the parent of the specified **Frameset** object on a frames page.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For more information on creating frames pages, see [Creating Frames Pages](http:
 
 ## Example
 
-This example returns the number of child  **Frameset** objects belonging to the parent **Frameset** object of the specified frame.
+This example returns the number of child **Frameset** objects belonging to the parent **Frameset** object of the specified frame.
 
 
 ```vb

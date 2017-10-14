@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-Setting the  **CenterSelectionOnZoom** property is equivalent to selecting **Center selection on zoom** under **Editing options** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **CenterSelectionOnZoom** property is equivalent to selecting **Center selection on zoom** under **Editing options** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 

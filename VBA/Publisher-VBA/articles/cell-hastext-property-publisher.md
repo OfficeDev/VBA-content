@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Cell.HasText Property (Publisher)
 
-Returns a  **Boolean** value indicating whether the specified cell contains any text. Returns **True** if the specified cell contains text. Read-only.
+Returns a **Boolean** value indicating whether the specified cell contains any text. Returns **True** if the specified cell contains text. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasText**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ## Example

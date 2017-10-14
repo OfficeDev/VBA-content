@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-Setting the  **ConnectorSplittingEnabled** property is equivalent to selecting **Enable connector splitting** under **Editing options** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **ConnectorSplittingEnabled** property is equivalent to selecting **Enable connector splitting** under **Editing options** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 

@@ -20,12 +20,12 @@ Represents a single range of consecutive slides or pages to be printed.
 
  The **PrintRange** object is a member of the **[PrintRanges](printranges-object-powerpoint.md)** collection. The **PrintRanges** collection contains all the print ranges that have been defined for the specified presentation.
 
-You can set print ranges in the  **PrintRanges** collection independent of the **RangeType** setting; these ranges are retained as long as the presentation they're contained in is loaded. The ranges in the **PrintRanges** collection are applied when the **RangeType** property is set to **ppPrintSlideRange**.
+You can set print ranges in the **PrintRanges** collection independent of the **RangeType** setting; these ranges are retained as long as the presentation they're contained in is loaded. The ranges in the **PrintRanges** collection are applied when the **RangeType** property is set to **ppPrintSlideRange**.
 
 
 ## Example
 
-Use  **Ranges** (index), where index is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
+Use **Ranges** (index), where index is the print range index number, to return a single **PrintRange** object. The following example displays a message that indicates the starting and ending slide numbers for print range one in the active presentation.
 
 
 ```vb
@@ -39,7 +39,7 @@ With ActivePresentation.PrintOptions.Ranges
 End With
 ```
 
-Use the [Add](printranges-add-method-powerpoint.md)method to create a  **PrintRange** object and add it to the **PrintRanges** collection. The following example defines three print ranges that represent slide 1, slides 3 through 5, and slides 8 and 9 in the active presentation and then prints the slides in these ranges.
+Use the [Add](printranges-add-method-powerpoint.md)method to create a **PrintRange** object and add it to the **PrintRanges** collection. The following example defines three print ranges that represent slide 1, slides 3 through 5, and slides 8 and 9 in the active presentation and then prints the slides in these ranges.
 
 
 

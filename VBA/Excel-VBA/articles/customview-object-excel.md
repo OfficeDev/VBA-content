@@ -23,7 +23,7 @@ Represents a custom workbook view.
 
 ## Example
 
-Use  **CustomViews** ( _index_ ), where _index_ is the name or index number of the custom view, to return a **CustomView** object. The following example shows the custom view named "Current Inventory."
+Use **CustomViews** ( _index_ ), where _index_ is the name or index number of the custom view, to return a **CustomView** object. The following example shows the custom view named "Current Inventory."
 
 
 ```vb

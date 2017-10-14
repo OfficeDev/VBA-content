@@ -18,7 +18,7 @@ Represents the floor of the specified 3-D chart.
 
 ## Using the Floor Object
 
-Use the  **Floor** property to return the **Floor** object. The following example sets the floor color for the chart to cyan. If the chart isn't a 3-D chart, this example will fail.
+Use the **Floor** property to return the **Floor** object. The following example sets the floor color for the chart to cyan. If the chart isn't a 3-D chart, this example will fail.
 
 
 ```

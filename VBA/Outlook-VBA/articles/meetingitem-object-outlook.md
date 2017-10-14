@@ -18,14 +18,14 @@ Represents a change to the recipient's Calendar folder initiated by another part
 
 ## Remarks
 
-Unlike other Microsoft Outlook objects, you cannot create this object. It is created automatically when you set the  **[MeetingStatus](http://msdn.microsoft.com/library/cfd970cd-df6c-4537-0a17-b5adab3b667f%28Office.15%29.aspx)** property of an **[AppointmentItem](appointmentitem-object-outlook.md)** object to **olMeeting** and send it to one or more users. They receive it in their inboxes as a **MeetingItem**.
+Unlike other Microsoft Outlook objects, you cannot create this object. It is created automatically when you set the **[MeetingStatus](http://msdn.microsoft.com/library/cfd970cd-df6c-4537-0a17-b5adab3b667f%28Office.15%29.aspx)** property of an **[AppointmentItem](appointmentitem-object-outlook.md)** object to **olMeeting** and send it to one or more users. They receive it in their inboxes as a **MeetingItem**.
 
-Use the  **[GetAssociatedAppointment](http://msdn.microsoft.com/library/8344d40d-5c1d-ead3-87cb-fd795b831712%28Office.15%29.aspx)** method to return the **AppointmentItem** object associated with a **MeetingItem** object, and work directly with the **AppointmentItem** object to respond to the request.
+Use the **[GetAssociatedAppointment](http://msdn.microsoft.com/library/8344d40d-5c1d-ead3-87cb-fd795b831712%28Office.15%29.aspx)** method to return the **AppointmentItem** object associated with a **MeetingItem** object, and work directly with the **AppointmentItem** object to respond to the request.
 
 
 ## Example
 
-The following example uses the  **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create an appointment. It becomes a **MeetingItem** with both a required and an optional attendee when it is received in the inbox of each of the recipients.
+The following example uses the **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create an appointment. It becomes a **MeetingItem** with both a required and an optional attendee when it is received in the inbox of each of the recipients.
 
 
 ```

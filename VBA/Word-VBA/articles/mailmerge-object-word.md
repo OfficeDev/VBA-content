@@ -18,7 +18,7 @@ Represents the mail merge functionality in Word.
 
 ## Remarks
 
-Use the  **MailMerge** property to return the **MailMerge** object. The **MailMerge** object is always available regardless of whether the mail merge operation has begun. Use the **State** property to determine the status of the mail merge operation. The following example executes a mail merge if the active document is a main document with an attached data source.
+Use the **MailMerge** property to return the **MailMerge** object. The **MailMerge** object is always available regardless of whether the mail merge operation has begun. Use the **State** property to determine the status of the mail merge operation. The following example executes a mail merge if the active document is a main document with an attached data source.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.Crop Property (Excel)
 
-Returns an  **[Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-717f-bf38fbced5a3%28Office.15%29.aspx)** object that represents the cropping settings for the specified **[PictureFormat](pictureformat-object-excel.md)** object. Read-only
+Returns an **[Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-717f-bf38fbced5a3%28Office.15%29.aspx)** object that represents the cropping settings for the specified **[PictureFormat](pictureformat-object-excel.md)** object. Read-only
 
 
 ## Syntax

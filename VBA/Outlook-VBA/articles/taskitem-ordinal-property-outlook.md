@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.Ordinal Property (Outlook)
 
-Returns or sets a  **Long** specifying the position in the view (ordinal) for the task. Read/write.
+Returns or sets a **Long** specifying the position in the view (ordinal) for the task. Read/write.
 
 
 ## Syntax

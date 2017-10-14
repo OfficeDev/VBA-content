@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.VerticalAlignment Property (Word)
 
-Returns or sets the vertical alignment of text on each page in a document or section. Read/write  **[WdVerticalAlignment](wdverticalalignment-enumeration-word.md)** .
+Returns or sets the vertical alignment of text on each page in a document or section. Read/write **[WdVerticalAlignment](wdverticalalignment-enumeration-word.md)** .
 
 
 ## Syntax

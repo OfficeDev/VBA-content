@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.SplitFormDatasheet Property (Access)
 
-Gets or sets whether the user can edit records in the datasheet when a form is displayed in Split Form view. Read/write  **[AcSplitFormDatasheet](acsplitformdatasheet-enumeration-access.md)**.
+Gets or sets whether the user can edit records in the datasheet when a form is displayed in Split Form view. Read/write **[AcSplitFormDatasheet](acsplitformdatasheet-enumeration-access.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FontNames Property (Word)
 
-Returns a  **[FontNames](fontnames-object-word.md)** object that includes the names of all the available fonts. Read-only.
+Returns a **[FontNames](fontnames-object-word.md)** object that includes the names of all the available fonts. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[FontNames](fontnames-object-word.md)** object that includes the na
 
 ## Example
 
-This example displays the font names in the  **FontNames** collection.
+This example displays the font names in the **FontNames** collection.
 
 
 ```vb

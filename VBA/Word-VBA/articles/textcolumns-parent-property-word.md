@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextColumns.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **TextColumns** object.
+Returns an **Object** that represents the parent object of the specified **TextColumns** object.
 
 
 ## Syntax

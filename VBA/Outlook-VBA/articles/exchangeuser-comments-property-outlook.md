@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Comments Property (Outlook)
 
-Returns a  **String** representing the comments for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns a **String** representing the comments for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the comments for the **[ExchangeUser](exchang
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagComment** .
+This property corresponds to the MAPI property, **PidTagComment** .
 
  Returns an empty string if this property has not been implemented or does not exist for the **ExchangeUser** object.
 

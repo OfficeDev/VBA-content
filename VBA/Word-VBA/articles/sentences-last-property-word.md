@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sentences.Last Property (Word)
 
-Returns a  **Range** object that represents the last sentence in a document, selection, or range.
+Returns a **Range** object that represents the last sentence in a document, selection, or range.
 
 
 ## Syntax

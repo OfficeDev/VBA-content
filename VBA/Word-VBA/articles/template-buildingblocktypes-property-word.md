@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.BuildingBlockTypes Property (Word)
 
-Returns a  **[BuildingBlockTypes](buildingblocktypes-object-word.md)** collection that represents the collection of building block types that are contained in a template. Read-only.
+Returns a **[BuildingBlockTypes](buildingblocktypes-object-word.md)** collection that represents the collection of building block types that are contained in a template. Read-only.
 
 
 ## Syntax

@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # MatchFound, MatchRequired Properties, Change Event, CheckBox Control Example
 
-The following example uses the  **MatchFound** and **MatchRequired** properties to demonstrate additional character matching for **ComboBox**. The matching verification occurs in the Change event.
+The following example uses the **MatchFound** and **MatchRequired** properties to demonstrate additional character matching for **ComboBox**. The matching verification occurs in the Change event.
 
-In this example, the user specifies whether the text portion of a  **ComboBox** must match one of the listed items in the **ComboBox**. The user can specify whether matching is required by using a **CheckBox** and then type into the **ComboBox** to specify an item from its list.
+In this example, the user specifies whether the text portion of a **ComboBox** must match one of the listed items in the **ComboBox**. The user can specify whether matching is required by using a **CheckBox** and then type into the **ComboBox** to specify an item from its list.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **CheckBox** named CheckBox1.
+- A **CheckBox** named CheckBox1.
     
 
 

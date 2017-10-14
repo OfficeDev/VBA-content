@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EndnoteOptions.NumberingRule Property (Word)
 
-Returns or sets the way footnotes or endnotes are numbered after page breaks or section breaks. Read/write  **[WdNumberingRule](wdnumberingrule-enumeration-word.md)** .
+Returns or sets the way footnotes or endnotes are numbered after page breaks or section breaks. Read/write **[WdNumberingRule](wdnumberingrule-enumeration-word.md)** .
 
 
 ## Syntax

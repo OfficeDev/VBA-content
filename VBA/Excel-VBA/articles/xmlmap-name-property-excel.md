@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.Name Property (Excel)
 
-Returns or sets a  **String** value that represents the friendly name used to uniquely identify a mapping in the workbook.
+Returns or sets a **String** value that represents the friendly name used to uniquely identify a mapping in the workbook.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the friendly name used to un
 
 ## Remarks
 
-The string specified for the  **Name** property must be unique within the workbook, and cannot exceed 255 characters.
+The string specified for the **Name** property must be unique within the workbook, and cannot exceed 255 characters.
 
 
 ## See also

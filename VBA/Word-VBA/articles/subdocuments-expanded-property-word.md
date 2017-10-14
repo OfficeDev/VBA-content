@@ -34,7 +34,7 @@ If ActiveDocument.Subdocuments.Count >= 1 Then
 End If
 ```
 
-This example switches the  **Expanded** property between expanding all subdocuments in the active window and collapsing all subdocuments in the active document.
+This example switches the **Expanded** property between expanding all subdocuments in the active window and collapsing all subdocuments in the active document.
 
 
 

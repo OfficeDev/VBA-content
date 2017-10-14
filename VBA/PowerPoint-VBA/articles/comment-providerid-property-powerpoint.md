@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Comment.ProviderID Property (PowerPoint)
 
-Returns a  **String** that represents ID of the service providing contact information. Read-only.
+Returns a **String** that represents ID of the service providing contact information. Read-only.
 
 
 ## Syntax

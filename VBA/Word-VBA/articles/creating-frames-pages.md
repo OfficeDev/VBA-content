@@ -39,21 +39,21 @@ In HTML, frames pages and the frames they contain are built using a hierarchical
 
 ## The Frameset Object
 
-The  **[Frameset](frameset-object-word.md)** object encompasses the functionality of both tags. Each **Frameset** object is either of type **wdFramesetTypeFrameset** or **wdFramesetTypeFrame**, which represent the HTML tags <FRAMESET> and <FRAME> respectively. Properties beginning with "Frameset" apply to  **Frameset** objects of type **wdFramesetTypeFrameset** ( **[FramesetBorderColor](frameset-framesetbordercolor-property-word.md)** and **[FramesetBorderWidth](frameset-framesetborderwidth-property-word.md)** . Properties beginning with "Frame" apply to **Frameset** objects of type **wdFramesetTypeFrame** ( **[FrameDefaultURL](frameset-framedefaulturl-property-word.md)**,  **[FrameDisplayBorders](frameset-framedisplayborders-property-word.md)**,  **[FrameLinkToFile](frameset-framelinktofile-property-word.md)**,  **[FrameName](frameset-framename-property-word.md)**,  **[FrameResizable](frameset-frameresizable-property-word.md)**, and  **[FrameScrollBarType](frameset-framescrollbartype-property-word.md)**).
+The **[Frameset](frameset-object-word.md)** object encompasses the functionality of both tags. Each **Frameset** object is either of type **wdFramesetTypeFrameset** or **wdFramesetTypeFrame**, which represent the HTML tags <FRAMESET> and <FRAME> respectively. Properties beginning with "Frameset" apply to **Frameset** objects of type **wdFramesetTypeFrameset** ( **[FramesetBorderColor](frameset-framesetbordercolor-property-word.md)** and **[FramesetBorderWidth](frameset-framesetborderwidth-property-word.md)** . Properties beginning with "Frame" apply to **Frameset** objects of type **wdFramesetTypeFrame** ( **[FrameDefaultURL](frameset-framedefaulturl-property-word.md)**, **[FrameDisplayBorders](frameset-framedisplayborders-property-word.md)**, **[FrameLinkToFile](frameset-framelinktofile-property-word.md)**, **[FrameName](frameset-framename-property-word.md)**, **[FrameResizable](frameset-frameresizable-property-word.md)**, and **[FrameScrollBarType](frameset-framescrollbartype-property-word.md)**).
 
 
 ## Traversing the Frameset Object Hierarchy
 
-Because frames pages are defined as a hierarchical set of HTML tags, the object model for accessing  **Frameset** objects is also hierarchical. Use the **[ChildFramesetItem](frameset-childframesetitem-property-word.md)** and **[ParentFrameset](frameset-parentframeset-property-word.md)** properties to traverse the hierarchy of **Frameset** objects. For example,
+Because frames pages are defined as a hierarchical set of HTML tags, the object model for accessing **Frameset** objects is also hierarchical. Use the **[ChildFramesetItem](frameset-childframesetitem-property-word.md)** and **[ParentFrameset](frameset-parentframeset-property-word.md)** properties to traverse the hierarchy of **Frameset** objects. For example,
 
 
 ```
 MyFrameset.ChildFramesetItem(n)
 ```
 
-returns a  **Frameset** object corresponding to the _n_th first-level <FRAMESET> or <FRAME> tag between the <FRAMESET> and </FRAMESET> tags corresponding to  `MyFrameset`.
+returns a **Frameset** object corresponding to the _n_th first-level <FRAMESET> or <FRAME> tag between the <FRAMESET> and </FRAMESET> tags corresponding to  `MyFrameset`.
 
-If  `MyFrameset` is a **Frameset** object corresponding to the outermost <FRAMESET> tags in the preceding HTML example, `MyFrameset.ChildFramesetItem(1)` returns a **Frameset** object of type **wdFramesetTypeFrame** that corresponds to the frame named "top." Similarly, `MyFrameset.ChildFramesetItem(2)` returns a **Frameset** object of type **wdFramesetTypeFrameset**, itself containing two  **Frameset** objects: the first object corresponds to the frame named "left," the second is of type **wdFramesetTypeFrameset**.
+If  `MyFrameset` is a **Frameset** object corresponding to the outermost <FRAMESET> tags in the preceding HTML example, `MyFrameset.ChildFramesetItem(1)` returns a **Frameset** object of type **wdFramesetTypeFrame** that corresponds to the frame named "top." Similarly, `MyFrameset.ChildFramesetItem(2)` returns a **Frameset** object of type **wdFramesetTypeFrameset**, itself containing two **Frameset** objects: the first object corresponds to the frame named "left," the second is of type **wdFramesetTypeFrameset**.
 
  **Frameset** objects of type **wdFramesetTypeFrame** have no child frames, while objects of **wdFramesetTypeFrameset** have at least one.
 
@@ -88,16 +88,16 @@ Debug.Print Name1, Name2, Name3, Name4
 
 ## Individual Frames and the Entire Frames Page
 
-To return the  **Frameset** object associated with a particular frame on a frames page, use the **[Frameset](pane-frameset-property-word.md)** property of a **[Pane](pane-object-word.md)** object. For example,
+To return the **Frameset** object associated with a particular frame on a frames page, use the **[Frameset](pane-frameset-property-word.md)** property of a **[Pane](pane-object-word.md)** object. For example,
 
 
 ```vb
 ActiveWindow.Panes(1).Frameset
 ```
 
-returns the  **Frameset** object that corresponds to the first frame of the frames page.
+returns the **Frameset** object that corresponds to the first frame of the frames page.
 
-The frames page is itself a document separate from the documents that make up the content of the individual frames. The  **Frameset** object associated with a frames page is accessed from its corresponding **[Document](document-object-word.md)** object, which in turn is accessed from the **[Window](window-object-word.md)** object in which the frames page appears. For example,
+The frames page is itself a document separate from the documents that make up the content of the individual frames. The **Frameset** object associated with a frames page is accessed from its corresponding **[Document](document-object-word.md)** object, which in turn is accessed from the **[Window](window-object-word.md)** object in which the frames page appears. For example,
 
 
 
@@ -106,10 +106,10 @@ The frames page is itself a document separate from the documents that make up th
 ActiveWindow.Document.Frameset
 ```
 
-returns the  **Frameset** object for the frames page in the active window.
+returns the **Frameset** object for the frames page in the active window.
 
 
- **Note**  When working with frames pages, the  **[ActiveDocument](application-activedocument-property-word.md)** property returns the **Document** object associated with the frame in the active pane, not the entire frames page.
+ **Note**  When working with frames pages, the **[ActiveDocument](application-activedocument-property-word.md)** property returns the **Document** object associated with the frame in the active pane, not the entire frames page.
 
 
 ## Creating a Frames Page and Its Content from Scratch

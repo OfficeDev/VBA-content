@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Crop.Application Property (Office)
 
-Gets the  **Application** object of the host application. Read-only.
+Gets the **Application** object of the host application. Read-only.
 
 
 ## Syntax

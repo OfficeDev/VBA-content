@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.AutoFormat Method (Word)
 
-Automatically formats a document. Use the  **Kind** property to specify a document type.
+Automatically formats a document. Use the **Kind** property to specify a document type.
 
 
 ## Syntax

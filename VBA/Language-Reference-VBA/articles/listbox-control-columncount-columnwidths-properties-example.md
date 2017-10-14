@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # ListBox Control, ColumnCount, ColumnWidths Properties Example
 
-The following example uses the  **ColumnWidths** property to change the column widths of a multicolumn **ListBox**. The example uses three **TextBox** controls to specify the individual column widths and uses the **Exit** event to specify the units of measure of each **TextBox**.
+The following example uses the **ColumnWidths** property to change the column widths of a multicolumn **ListBox**. The example uses three **TextBox** controls to specify the individual column widths and uses the **Exit** event to specify the units of measure of each **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- Three  **TextBox** controls named TextBox1 through TextBox3.
+- Three **TextBox** controls named TextBox1 through TextBox3.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 
 Try entering the value 0 to hide a column.

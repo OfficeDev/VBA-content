@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.CentimetersToPoints Method (Publisher)
 
-Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
 
  _expression_. **CentimetersToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[PointsToCentimeters](application-pointstocentimeters-method-publisher.md)** method to convert measurements in points to centimeters.
+Use the **[PointsToCentimeters](application-pointstocentimeters-method-publisher.md)** method to convert measurements in points to centimeters.
 
 
 ## Example

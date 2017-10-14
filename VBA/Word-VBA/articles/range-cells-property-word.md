@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Cells Property (Word)
 
-Returns a  **[Cells](cells-object-word.md)** collection that represents the table cells in a range. Read-only.
+Returns a **[Cells](cells-object-word.md)** collection that represents the table cells in a range. Read-only.
 
 
 ## Syntax

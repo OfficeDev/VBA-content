@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Selection.Type Property (Publisher)
 
-Returns a  **PbSelectionType** constant that represents the selection type. Read-only.
+Returns a **PbSelectionType** constant that represents the selection type. Read-only.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **Selection** object.
+ _expression_A variable that represents a **Selection** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **PbSelectionType** constants.
+The **Type** property value can be one of these **PbSelectionType** constants.
 
 
 

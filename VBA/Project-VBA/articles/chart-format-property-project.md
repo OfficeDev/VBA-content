@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.Format Property (Project)
-Gets an  **Office.IMsoChartFormat** object that enables access to format information for a chart. Read-only **IMsoChartFormat**.
+Gets an **Office.IMsoChartFormat** object that enables access to format information for a chart. Read-only **IMsoChartFormat**.
 
 ## Syntax
 

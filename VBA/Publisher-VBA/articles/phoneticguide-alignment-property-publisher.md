@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # PhoneticGuide.Alignment Property (Publisher)
 
-Returns a  **PbPhoneticGuideAlignmentType** constant that represents the position of phonetic characters above Japanese text. Read-only.
+Returns a **PbPhoneticGuideAlignmentType** constant that represents the position of phonetic characters above Japanese text. Read-only.
 
 
 ## Syntax
 
  _expression_. **Alignment**
 
- _expression_A variable that represents a  **PhoneticGuide** object.
+ _expression_A variable that represents a **PhoneticGuide** object.
 
 
 ## Remarks
 
-The  **Alignment** property value can be one of the **[PbPhoneticGuideAlignmentType](pbphoneticguidealignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Alignment** property value can be one of the **[PbPhoneticGuideAlignmentType](pbphoneticguidealignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 

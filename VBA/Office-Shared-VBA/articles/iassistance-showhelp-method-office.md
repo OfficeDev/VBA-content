@@ -31,9 +31,9 @@ Displays the help topic specified by its ID in the Office Help Viewer or, for he
 
 ## Remarks
 
-The  **Assistance** property returns an **IAssistance** object. The **IAssistance** object exposes methods that allow developers to display help topics in the Office Help Viewer or to display help topics that ship with Office in the Help window of the host application. Developers either pass specific Help IDs to the help system or pass specific search queries. Help IDs have to be explicitly added to the Help file in order for the Help ID to return the help topic.
+The **Assistance** property returns an **IAssistance** object. The **IAssistance** object exposes methods that allow developers to display help topics in the Office Help Viewer or to display help topics that ship with Office in the Help window of the host application. Developers either pass specific Help IDs to the help system or pass specific search queries. Help IDs have to be explicitly added to the Help file in order for the Help ID to return the help topic.
 
-The following scopes are available within the Microsoft Office applications. By default, the scope is set to the current application's namespace if a  **Null** string ("") is passed as a parameter.
+The following scopes are available within the Microsoft Office applications. By default, the scope is set to the current application's namespace if a **Null** string ("") is passed as a parameter.
 
 
 ## Example

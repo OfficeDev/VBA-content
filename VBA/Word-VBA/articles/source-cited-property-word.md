@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Source.Cited Property (Word)
 
-Returns a  **Boolean** that represents whether a source has been cited in a document. Read-only.
+Returns a **Boolean** that represents whether a source has been cited in a document. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Profiles.ActiveProfile Property (Project)
 
-Gets the  **[Profile](profile-object-project.md)** object of the current account. Read-only **Profile**.
+Gets the **[Profile](profile-object-project.md)** object of the current account. Read-only **Profile**.
 
 
 ## Syntax

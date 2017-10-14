@@ -15,6 +15,6 @@ Executes the Forward action for the item or items that are selected in the contr
 
  _expression_. **Forward**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

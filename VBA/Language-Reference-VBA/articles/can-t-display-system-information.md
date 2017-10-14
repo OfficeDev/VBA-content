@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Can't display system information
 
-Visual Basic can't display system information when you choose  **System Info** from the **About Microsoft Visual Basic** dialog box. Your system may not have enough memory, or a required file may be corrupted or missing.
+Visual Basic can't display system information when you choose **System Info** from the **About Microsoft Visual Basic** dialog box. Your system may not have enough memory, or a required file may be corrupted or missing.
 
 

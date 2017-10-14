@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.Fonts Property (PowerPoint)
 
-Returns a  **[Fonts](fonts-object-powerpoint.md)** collection that represents all fonts used in the specified presentation. Read-only.
+Returns a **[Fonts](fonts-object-powerpoint.md)** collection that represents all fonts used in the specified presentation. Read-only.
 
 
 ## Syntax

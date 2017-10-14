@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureInfo.IsCertificateRevoked Property (Office)
 
-Gets a  **Boolean** value indicating whether the digital certificate is revoked. Read-only.
+Gets a **Boolean** value indicating whether the digital certificate is revoked. Read-only.
 
 
 ## Syntax

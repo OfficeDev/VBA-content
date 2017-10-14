@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 ## To specify the way that the body of the current item is included in the resulting item
 
 
-1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
+1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
     
-2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
+2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
     
-3. Specify a value for the child  **body** element of the **action** element.
+3. Specify a value for the child **body** element of the **action** element.
     
 The following example assigns  `replyToBlog` as the internal name of a custom action, and specifies that the body of the current item will be included and indented in the resulting item:
 
@@ -30,7 +30,7 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
 ```
 
-Note that the child  **body** element of the **action** element can contain one of the folowing values:
+Note that the child **body** element of the **action** element can contain one of the folowing values:
 
 
 

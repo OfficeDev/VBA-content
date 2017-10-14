@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.Delete Method (Excel)
 
-Deletes the  **[TableStyle](tablestyle-object-excel.md)** object.
+Deletes the **[TableStyle](tablestyle-object-excel.md)** object.
 
 
 ## Syntax

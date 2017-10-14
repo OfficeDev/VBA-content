@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.LinkFormat Property (Word)
 
-Returns a  **LinkFormat** object that represents the link options of the specified inline shape that is linked to a file. Read/only.
+Returns a **LinkFormat** object that represents the link options of the specified inline shape that is linked to a file. Read/only.
 
 
 ## Syntax

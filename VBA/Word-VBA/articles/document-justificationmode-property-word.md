@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.JustificationMode Property (Word)
 
-Returns or sets the character spacing adjustment for the specified document. Read/write  **[WdJustificationMode](wdjustificationmode-enumeration-word.md)** .
+Returns or sets the character spacing adjustment for the specified document. Read/write **[WdJustificationMode](wdjustificationmode-enumeration-word.md)** .
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # InlineShapes.Range Property (Publisher)
 
-Returns a  **[ShapeRange](shaperange-object-publisher.md)** collection that represents the same set of inline shapes as the **InlineShapes** collection whose method was called. This allows for miscellaneous formatting of the contained shapes. Read-only.
+Returns a **[ShapeRange](shaperange-object-publisher.md)** collection that represents the same set of inline shapes as the **InlineShapes** collection whose method was called. This allows for miscellaneous formatting of the contained shapes. Read-only.
 
 
 ## Syntax
 
  _expression_. **Range**( **_Index_**)
 
- _expression_A variable that represents an  **InlineShapes** object.
+ _expression_A variable that represents an **InlineShapes** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **[ShapeRange](shaperange-object-publisher.md)** collection that repr
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Optional| **Long**|The index position of the inline shape within the  **ShapeRange** collection.|
+|Index|Optional| **Long**|The index position of the inline shape within the **ShapeRange** collection.|
 
 ## Example
 

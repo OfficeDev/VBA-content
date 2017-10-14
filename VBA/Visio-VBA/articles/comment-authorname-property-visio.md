@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.AuthorName Property (Visio)
 
-Returns the name of the author of the comment. Read-only  **String**.
+Returns the name of the author of the comment. Read-only **String**.
 
 
 ## Syntax

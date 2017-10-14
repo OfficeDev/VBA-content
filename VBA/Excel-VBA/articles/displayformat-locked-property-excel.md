@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.Locked Property (Excel)
 
-Returns a value that indicates if the associated  **[Range](range-object-excel.md)** object is locked as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if the associated **[Range](range-object-excel.md)** object is locked as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Returns  **True** if the range is locked, **False** if the range can be modified when the sheet is protected, or **Null** if the range contains both locked and unlocked cells.
+Returns **True** if the range is locked, **False** if the range can be modified when the sheet is protected, or **Null** if the range contains both locked and unlocked cells.
 
 
 ## See also

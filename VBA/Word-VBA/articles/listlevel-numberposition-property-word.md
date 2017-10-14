@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.NumberPosition Property (Word)
 
-Returns or sets the position (in points) of the number or bullet for the specified  **ListLevel** object. Read/write **Single** .
+Returns or sets the position (in points) of the number or bullet for the specified **ListLevel** object. Read/write **Single** .
 
 
 ## Syntax

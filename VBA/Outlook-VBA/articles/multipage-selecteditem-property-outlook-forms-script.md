@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # MultiPage.SelectedItem Property (Outlook Forms Script)
 
-Returns an  **Object** that indicates the currently selected **[Page](page-object-outlook-forms-script.md)** object. Read-only.
+Returns an **Object** that indicates the currently selected **[Page](page-object-outlook-forms-script.md)** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **SelectedItem**
 
- _expression_A variable that represents a  **MultiPage** object.
+ _expression_A variable that represents a **MultiPage** object.
 
 
 ## Remarks
 
-The  **SelectedItem** property is read-only. Use **SelectedItem** to programmatically control the currently selected **Page** object. For example, you can use **SelectedItem** to assign values to properties of a **Page** object.
+The **SelectedItem** property is read-only. Use **SelectedItem** to programmatically control the currently selected **Page** object. For example, you can use **SelectedItem** to assign values to properties of a **Page** object.
 
 

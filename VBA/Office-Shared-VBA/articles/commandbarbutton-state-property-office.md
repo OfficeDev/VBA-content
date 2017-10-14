@@ -25,12 +25,12 @@ Gets or sets the appearance of a CommandBarButton control. Read/write.
 
 ## Remarks
 
-The  **State** property of built-in command bar buttons is read-only. The value of the **Type** property is available as a value in the **[MsoButtonState](msobuttonstate-enumeration-office.md)** enumeration.
+The **State** property of built-in command bar buttons is read-only. The value of the **Type** property is available as a value in the **[MsoButtonState](msobuttonstate-enumeration-office.md)** enumeration.
 
 
 ## Example
 
-This example creates a command bar named "Custom" and adds two buttons to it. The example then sets the button on the left to  **msoButtonUp** and sets the button on the right to **msoButtonDown**.
+This example creates a command bar named "Custom" and adds two buttons to it. The example then sets the button on the left to **msoButtonUp** and sets the button on the right to **msoButtonDown**.
 
 
 ```

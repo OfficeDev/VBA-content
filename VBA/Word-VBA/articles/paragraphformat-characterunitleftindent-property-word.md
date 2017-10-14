@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.CharacterUnitLeftIndent Property (Word)
 
-Returns or sets the left indent value (in characters) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the left indent value (in characters) for the specified paragraphs. Read/write **Single** .
 
 
 ## Syntax

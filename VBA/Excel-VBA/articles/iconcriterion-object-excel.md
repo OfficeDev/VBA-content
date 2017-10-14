@@ -18,7 +18,7 @@ Represents the criterion for an individual icon in an icon set. The criterion sp
 
 ## Remarks
 
-All of the criteria for an icon set conditional format are contained in an  **[IconCriteria](iconcriteria-object-excel.md)** collection. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
+All of the criteria for an icon set conditional format are contained in an **[IconCriteria](iconcriteria-object-excel.md)** collection. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
 
 
 ## Example

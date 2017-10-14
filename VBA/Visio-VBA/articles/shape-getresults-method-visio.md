@@ -41,9 +41,9 @@ Nothing
 
 ## Remarks
 
-The  **GetResults** method is like the **Result** property for the **Cell** object, except that it can be used to get the results (values) of many cells at once, rather than one cell at a time.
+The **GetResults** method is like the **Result** property for the **Cell** object, except that it can be used to get the results (values) of many cells at once, rather than one cell at a time.
 
-For  **Shape** objects, you can use the **GetResults** method to get results of any set of cells.
+For **Shape** objects, you can use the **GetResults** method to get results of any set of cells.
 
  _SID_SRCStream()_ is an array of 2-byte integers. For **Shape** objects, _SID_SRCStream()_ should be a one-dimensional array of 3 _n_ 2-byte integers for _n_ >= 1. The **GetResults** method interprets _SID_SRCStream()_ as:
 
@@ -72,14 +72,14 @@ The  _UnitsNamesOrCodes()_ parameter is an array that controls what measurement 
 
 If  _UnitsNamesOrCodes_ is not null, the application expects it to be a one-dimensional array of 1 <= _u_**Variants** . Each entry can be a string or integer code, or empty (nothing). If the _i_ 'th entry is empty, the _i_ 'th returned result is returned in the units designated by _UnitsNamesOrCodes(j)_, where  _j_ is the index of the most recent prior non-empty entry. Thus if you want all returned values to be in the same units, you need only pass a _UnitsNamesOrCodes()_ array with one entry. If there is no prior non-empty entry, or if no _UnitsNameOrCodes()_ array is supplied, **visNumber** (0x20) is used. This causes internal units (like the **ResultIU** property of a **Cell** object) to be returned.
 
-If the  **GetResults** method succeeds, results returns a one-dimensional array of _n_ variants indexed from zero (0) to _n_ - 1. The type of the returned variants is a function of _Flags_. The  _resultArray()_ parameter is an out parameter that is allocated by the **GetResults** method, which passes ownership back to the caller. The caller should eventually perform **SafeArrayDestroy** on the returned array. Note that **SafeArrayDestroy** has the side effect of clearing the variants referenced by the array's entries, hence deallocating any strings the **GetResults** method returns. (Microsoft Visual Basic and Microsoft Visual Basic for Applications take care of this for you.)
+If the **GetResults** method succeeds, results returns a one-dimensional array of _n_ variants indexed from zero (0) to _n_ - 1. The type of the returned variants is a function of _Flags_. The  _resultArray()_ parameter is an out parameter that is allocated by the **GetResults** method, which passes ownership back to the caller. The caller should eventually perform **SafeArrayDestroy** on the returned array. Note that **SafeArrayDestroy** has the side effect of clearing the variants referenced by the array's entries, hence deallocating any strings the **GetResults** method returns. (Microsoft Visual Basic and Microsoft Visual Basic for Applications take care of this for you.)
 
 
 ## Example
 
-The following example shows how to use the  **GetResults** method. This example assumes there is an active page that has at least 3 shapes on it. It uses the **GetResults** method to get the width of shape 1, the height of shape 2, and the angle of shape 3.
+The following example shows how to use the **GetResults** method. This example assumes there is an active page that has at least 3 shapes on it. It uses the **GetResults** method to get the width of shape 1, the height of shape 2, and the angle of shape 3.
 
-This example uses the  **GetResults** method of the **Page** object to get 3 cell formulas. The input array has 4 slots for each cell, as it also would for **Master** objects. For **Shape** or **Style** objects, only 3 slots would be needed for each cell (section, row, and cell).
+This example uses the **GetResults** method of the **Page** object to get 3 cell formulas. The input array has 4 slots for each cell, as it also would for **Master** objects. For **Shape** or **Style** objects, only 3 slots would be needed for each cell (section, row, and cell).
 
 
 

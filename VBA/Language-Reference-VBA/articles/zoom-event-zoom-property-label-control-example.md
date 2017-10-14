@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # Zoom Event, Zoom Property, Label Control Example
 
-The following example uses the  **Zoom** event to evaluate the new value of the **Zoom** property and adds scroll bars to the form when appropriate. The example uses a **Label** to display the current value. The user specifies the size for the form by using the **SpinButton** and then clicks the **CommandButton** to set the value in the **Zoom** property.
+The following example uses the **Zoom** event to evaluate the new value of the **Zoom** property and adds scroll bars to the form when appropriate. The example uses a **Label** to display the current value. The user specifies the size for the form by using the **SpinButton** and then clicks the **CommandButton** to set the value in the **Zoom** property.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- A  **SpinButton** named SpinButton1.
+- A **SpinButton** named SpinButton1.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 - Other controls placed near the edges of the form.
     

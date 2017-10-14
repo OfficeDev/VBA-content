@@ -29,7 +29,7 @@ Displays on-line Help information.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these  **[WdHelpType](wdhelptype-enumeration-word.md)** constants.|
+| _HelpType_|Required| **Variant**|The on-line Help topic or window. Can be any of these **[WdHelpType](wdhelptype-enumeration-word.md)** constants.|
 
 ## Remarks
 

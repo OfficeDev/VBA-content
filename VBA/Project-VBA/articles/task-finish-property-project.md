@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Finish Property (Project)
 
-Gets or sets the finish date of a  **Task**. Read-only for summary tasks. Read/write **Variant**.
+Gets or sets the finish date of a **Task**. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

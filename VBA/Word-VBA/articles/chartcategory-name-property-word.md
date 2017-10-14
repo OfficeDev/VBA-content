@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartCategory.Name Property (Word)
 
-Returns or sets a  **String** that represents the name of a chart category. Read/write.
+Returns or sets a **String** that represents the name of a chart category. Read/write.
 
 
 ## Syntax

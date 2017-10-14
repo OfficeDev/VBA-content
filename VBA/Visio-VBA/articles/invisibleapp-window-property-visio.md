@@ -30,7 +30,7 @@ Window
 
 ## Example
 
-The following macro shows how to use the  **Window** property to print the caption of the window associated with the current instance of Visio in the Immediate window.
+The following macro shows how to use the **Window** property to print the caption of the window associated with the current instance of Visio in the Immediate window.
 
 
 ```vb

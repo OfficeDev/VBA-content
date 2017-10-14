@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TabStop2.Type Property (Office)
 
-Gets or sets the type of the  **TabStop2** object. Read/write.
+Gets or sets the type of the **TabStop2** object. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ MsoTabStopType
 
 ## Remarks
 
-Examples of  **MsoTabStopType** types include **msoTabStopCenter**, **msoTabStopLeft**, and **msoTabStopRight**.
+Examples of **MsoTabStopType** types include **msoTabStopCenter**, **msoTabStopLeft**, and **msoTabStopRight**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HorizontalLineFormat.PercentWidth Property (Word)
 
-Returns or sets the length of the specified horizontal line expressed as a percentage of the window width. Read/write  **Single** .
+Returns or sets the length of the specified horizontal line expressed as a percentage of the window width. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the length of the specified horizontal line expressed as a perce
 
 ## Remarks
 
-Setting this property also sets the  **[WidthType](horizontallineformat-widthtype-property-word.md)** property to **wdHorizontalLinePercentWidth** .
+Setting this property also sets the **[WidthType](horizontallineformat-widthtype-property-word.md)** property to **wdHorizontalLinePercentWidth** .
 
 
 ## Example

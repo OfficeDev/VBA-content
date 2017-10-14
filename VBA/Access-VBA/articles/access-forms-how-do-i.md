@@ -16,11 +16,11 @@ This page links to help on widely used form-related tasks. To view other categor
 
 - [How to: Add a Value to a Bound Combo Box](add-a-value-to-a-bound-combo-box.md)
     
-      - Describes how to add a use the  **NotInList** event to add a new value to a bound combo box.
+      - Describes how to add a use the **NotInList** event to add a new value to a bound combo box.
     
 - [How to: Determine Whether The Current Record is a New Record In a Form](determine-whether-the-current-record-is-a-new-record-in-a-form.md)
     
-      - Illustrates how to use the  **NewRecord** property to determine if the current record is a new record.
+      - Illustrates how to use the **NewRecord** property to determine if the current record is a new record.
     
 - [How to: Display a Custom Dialog Box When the User Deletes a Record](display-a-custom-dialog-box-when-the-user-deletes-a-record.md)
     
@@ -52,7 +52,7 @@ This page links to help on widely used form-related tasks. To view other categor
 
 - [How to: Add "(All)" to a Combo Box or List Box](addallto-a-combo-box-or-list-box.md)
     
-      - Describes how to add an  **(All)** entry at the top of a combo box.
+      - Describes how to add an **(All)** entry at the top of a combo box.
     
 - [How to: Allow Users to Add Items to an Unbound Combo Box](allow-users-to-add-items-to-an-unbound-combo-box.md)
     
@@ -60,7 +60,7 @@ This page links to help on widely used form-related tasks. To view other categor
     
 - [How to: Assign a Control a Value From a Table](assign-a-control-a-value-from-a-table.md)
     
-      - Describes how to use the  **DLookup** function to display the value of a field that is not in the record source for your form or report.
+      - Describes how to use the **DLookup** function to display the value of a field that is not in the record source for your form or report.
     
 - [How to: Call Procedures in a Subform or Subreport](call-procedures-in-a-subform-or-subreport.md)
     
@@ -92,11 +92,11 @@ This page links to help on widely used form-related tasks. To view other categor
     
 - [How to: Bind a Form to an ADO Recordset](bind-a-form-to-an-ado-recordset.md)
     
-      - Describes how to set a form's  **Recordset** property to an open ADO **Recordset** object.
+      - Describes how to set a form's **Recordset** property to an open ADO **Recordset** object.
     
 - [How to: Create a DAO Recordset From a Form](create-a-dao-recordset-from-a-form.md)
     
-      - Describes how to create a  **Recordset** object based on an Access form.
+      - Describes how to create a **Recordset** object based on an Access form.
     
 - [How to: Create Multiple Instances of a Form](create-multiple-instances-of-a-form.md)
     
@@ -144,7 +144,7 @@ This page links to help on widely used form-related tasks. To view other categor
     
 - [How to: Suspend Code Execution Until a Pop-Up Form is Closed](suspend-code-execution-until-a-pop-up-form-is-closed.md)
     
-      - Describes how to use the  **OpenForm** method to suspend code until a pop-up form is closed.
+      - Describes how to use the **OpenForm** method to suspend code until a pop-up form is closed.
     
 
 ## Printing
@@ -156,7 +156,7 @@ This page links to help on widely used form-related tasks. To view other categor
     
 - [How to: Retrieve a List of Installed Printers](retrieve-a-list-of-installed-printers.md)
     
-      - Describes how to use the  **Printers** collection to determine the installed printers.
+      - Describes how to use the **Printers** collection to determine the installed printers.
     
 - [How to: Work with Form and Report Printer Settings](work-with-form-and-report-printer-settings.md)
     

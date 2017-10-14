@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You are trying to enter a zero-length string in a field that has a data type other than Text or Memo. You may be able to enter a  **Null** value instead.
+You are trying to enter a zero-length string in a field that has a data type other than Text or Memo. You may be able to enter a **Null** value instead.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

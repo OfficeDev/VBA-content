@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Project.IsCheckoutOSVisible Property (Project)
-Gets whether the  **Check Out** button is visible in the Backstage view. Read-only **Boolean**.
+Gets whether the **Check Out** button is visible in the Backstage view. Read-only **Boolean**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets whether the  **Check Out** button is visible in the Backstage view. Read-on
 
 ## Remarks
 
-If the active project is not checked out, the Backstage view shows a  **Check Out** button. The **IsCheckoutOSVisible** property is **True** if the **Check Out** button is visible in the Backstage view; otherwise, **False**.
+If the active project is not checked out, the Backstage view shows a **Check Out** button. The **IsCheckoutOSVisible** property is **True** if the **Check Out** button is visible in the Backstage view; otherwise, **False**.
 
 
 ## Example

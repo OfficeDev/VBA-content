@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Delete Method (PowerPoint)
 
-Deletes a  **TextRange2** object.
+Deletes a **TextRange2** object.
 
 
 ## Syntax

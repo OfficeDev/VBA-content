@@ -25,7 +25,7 @@ Creates a reply to all original recipients from the original message.
 
 ### Return Value
 
-A  **[MailItem](mailitem-object-outlook.md)** that represents the reply.
+A **[MailItem](mailitem-object-outlook.md)** that represents the reply.
 
 
 ## See also

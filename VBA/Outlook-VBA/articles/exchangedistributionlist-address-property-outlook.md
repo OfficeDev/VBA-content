@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Address Property (Outlook)
 
-Returns or sets a  **String** representing the X400 e-mail address of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read/write.
+Returns or sets a **String** representing the X400 e-mail address of the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **String** representing the X400 e-mail address of the **[Exc
 
 ## Remarks
 
-This property assumes the X400 address of the distribution list. To determine the primary Internet address, use the  **[ExchangeDistributionList.PrimarySmtpAddress](exchangedistributionlist-primarysmtpaddress-property-outlook.md)** property.
+This property assumes the X400 address of the distribution list. To determine the primary Internet address, use the **[ExchangeDistributionList.PrimarySmtpAddress](exchangedistributionlist-primarysmtpaddress-property-outlook.md)** property.
 
-The  **Address** property must be set before calling the **[ExchangeDistributionList.Details](exchangeuser-details-method-outlook.md)** method.
+The **Address** property must be set before calling the **[ExchangeDistributionList.Details](exchangeuser-details-method-outlook.md)** method.
 
 
 ## See also

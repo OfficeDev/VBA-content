@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Remarks
 
-The parent of the  **[RuleConditions](ruleconditions-object-outlook.md)** object is the **[Rule](rule-object-outlook.md)** object.
+The parent of the **[RuleConditions](ruleconditions-object-outlook.md)** object is the **[Rule](rule-object-outlook.md)** object.
 
 
 ## See also

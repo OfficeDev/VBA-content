@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.BackgroundChecking Property (Excel)
 
-Alerts the user for all cells that violate enabled error-checking rules. When this property is set to  **True** (default), the **AutoCorrect Options** button appears next to all cells that violate enabled errors. **False** disables background checking for errors. Read/write **Boolean** .
+Alerts the user for all cells that violate enabled error-checking rules. When this property is set to **True** (default), the **AutoCorrect Options** button appears next to all cells that violate enabled errors. **False** disables background checking for errors. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Alerts the user for all cells that violate enabled error-checking rules. When th
 
 ## Remarks
 
-Refer to the  **[ErrorCheckingOptions](errorcheckingoptions-object-excel.md)** object to view a list of its members that can be enabled.
+Refer to the **[ErrorCheckingOptions](errorcheckingoptions-object-excel.md)** object to view a list of its members that can be enabled.
 
 
 ## Example
 
-In the following example, when the user selects cell A1 (which contains a formula referring to empty cells), the  **AutoCorrect Options** button appears.
+In the following example, when the user selects cell A1 (which contains a formula referring to empty cells), the **AutoCorrect Options** button appears.
 
 
 ```vb

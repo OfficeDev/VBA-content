@@ -30,13 +30,13 @@ Attaches a mail merge header source to the specified document.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The file name of the header source.|
-| _Format_|Optional| **Variant**|The file converter used to open the document. Can be one of the  **WdOpenFormat** constants. To specify an external file format, use the **OpenFormat** property with a **FileConverter** object to determine the value to use with this argument.|
+| _Format_|Optional| **Variant**|The file converter used to open the document. Can be one of the **WdOpenFormat** constants. To specify an external file format, use the **OpenFormat** property with a **FileConverter** object to determine the value to use with this argument.|
 | _ConfirmConversions_|Optional| **Variant**| **True** to display the **Convert File** dialog box if the file isn't in Microsoft Word format.|
 | _ReadOnly_|Optional| **Variant**| **True** to open the header source on a read-only basis.|
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the **File** menu.|
 | _PasswordDocument_|Optional| **Variant**|The password required to open the header source document. (See Remarks below.)|
 | _PasswordTemplate_|Optional| **Variant**|The password required to open the header source template. (See Remarks below.)|
-| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document.  **True** to discard any unsaved changes to the open document and reopen the file; **False** to activate the open document.|
+| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document. **True** to discard any unsaved changes to the open document and reopen the file; **False** to activate the open document.|
 | _WritePasswordDocument_|Optional| **Variant**|The password required to save changes to the document data source. (See Remarks below.)|
 | _WritePasswordTemplate_|Optional| **Variant**|The password required to save changes to the template data source. (See Remarks below.)|
 | _OpenExclusive_|Optional| **Variant**| **True** to open exclusively.|

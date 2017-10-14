@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GetNamespace Method (Outlook)
 
-Returns a  **[NameSpace](namespace-object-outlook.md)** object of the specified type.
+Returns a **[NameSpace](namespace-object-outlook.md)** object of the specified type.
 
 
 ## Syntax
@@ -33,17 +33,17 @@ Returns a  **[NameSpace](namespace-object-outlook.md)** object of the specified 
 
 ### Return Value
 
-A  **NameSpace** object that represents the specified namespace.
+A **NameSpace** object that represents the specified namespace.
 
 
 ## Remarks
 
-The only supported name space type is "MAPI". The  **GetNameSpace** method is functionally equivalent to the **Session** property.
+The only supported name space type is "MAPI". The **GetNameSpace** method is functionally equivalent to the **Session** property.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[CurrentFolder](explorer-currentfolder-property-outlook.md)** property to change the displayed folder to the user's **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **[CurrentFolder](explorer-currentfolder-property-outlook.md)** property to change the displayed folder to the user's **Calendar** folder.
 
 
 ```vb

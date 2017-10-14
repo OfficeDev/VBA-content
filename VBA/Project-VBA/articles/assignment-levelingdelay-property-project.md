@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.LevelingDelay Property (Project)
 
-Gets or sets the amount of time the assignment is delayed due to leveling. Read/write  **Variant**.
+Gets or sets the amount of time the assignment is delayed due to leveling. Read/write **Variant**.
 
 
 ## Syntax
@@ -24,6 +24,6 @@ Gets or sets the amount of time the assignment is delayed due to leveling. Read/
 
 Project recalculates the leveling delay as resources are leveled across the project.
 
-The  **LevelingDelay** property does not return any meaningful information for assignments of material resources. Setting a value returns a trappable error (error code 1101) when applied to assignments of material resources.
+The **LevelingDelay** property does not return any meaningful information for assignments of material resources. Setting a value returns a trappable error (error code 1101) when applied to assignments of material resources.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.ButtonName Property (Office)
 
-Sets or gets a  **String** representing the text that is displayed on the action button of a file dialog box. Read/write.
+Sets or gets a **String** representing the text that is displayed on the action button of a file dialog box. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Sets or gets a  **String** representing the text that is displayed on the action
 
 ## Remarks
 
-By default, this property is set to the standard text for the type of file dialog box. For example, in the case of the  **Open** dialog box, the property is set to "Open" by default. This string is limited to fifty-one characters.
+By default, this property is set to the standard text for the type of file dialog box. For example, in the case of the **Open** dialog box, the property is set to "Open" by default. This string is limited to fifty-one characters.
 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
 
 
 ```

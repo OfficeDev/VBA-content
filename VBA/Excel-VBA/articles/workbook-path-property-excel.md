@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Path Property (Excel)
 
-Returns a  **String** that represents the complete path to the workbook/file that this workbook object respresents.
+Returns a **String** that represents the complete path to the workbook/file that this workbook object respresents.
 
 
 ## Syntax

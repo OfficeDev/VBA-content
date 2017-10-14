@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.Reflection Property (Publisher)
 
-Returns a  **[ReflectionFormat](reflectionformat-object-publisher.md)** object that represents the reflection formatting for a range of shapes. Read-only.
+Returns a **[ReflectionFormat](reflectionformat-object-publisher.md)** object that represents the reflection formatting for a range of shapes. Read-only.
 
 
 ## Syntax
 
  _expression_. **Reflection**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Return value

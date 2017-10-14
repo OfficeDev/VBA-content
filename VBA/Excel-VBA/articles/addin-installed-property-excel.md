@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting this property to  **True** installs the add-in and calls its Auto_Add functions. Setting this property to **False** removes the add-in and calls its Auto_Remove functions.
+Setting this property to **True** installs the add-in and calls its Auto_Add functions. Setting this property to **False** removes the add-in and calls its Auto_Remove functions.
 
 
 ## Example

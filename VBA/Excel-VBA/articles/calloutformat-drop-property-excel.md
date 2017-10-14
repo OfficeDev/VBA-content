@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Drop Property (Excel)
 
-For callouts with an explicitly set drop value, this property returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only  **Single** .
+For callouts with an explicitly set drop value, this property returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only **Single** .
 
 
 ## Syntax
@@ -25,11 +25,11 @@ For callouts with an explicitly set drop value, this property returns the vertic
 
 ## Remarks
 
-This distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to), in which case the drop distance is measured from the bottom of the text box.
+This distance is measured from the top of the text box unless the **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to), in which case the drop distance is measured from the bottom of the text box.
 
-Use the  **[CustomDrop](calloutformat-customdrop-method-excel.md)** method to set the value of this property.
+Use the **[CustomDrop](calloutformat-customdrop-method-excel.md)** method to set the value of this property.
 
-The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the  **[DropType](calloutformat-droptype-property-excel.md)** property is **msoCalloutDropCustom** .
+The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the **[DropType](calloutformat-droptype-property-excel.md)** property is **msoCalloutDropCustom** .
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTables.Add Method (Excel)
 
-Adds a new PivotTable report. Returns a  **[PivotTable](pivottable-object-excel.md)** object.
+Adds a new PivotTable report. Returns a **[PivotTable](pivottable-object-excel.md)** object.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ Adds a new PivotTable report. Returns a  **[PivotTable](pivottable-object-excel.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _PivotCache_|Required| **[PivotCache](pivotcache-object-excel.md)**|The PivotTable cache on which the new PivotTable report is based. The cache provides data for the report.|
-| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting report will be placed). You must specify a destination range on the worksheet that contains the  **PivotTables** object specified by _expression_.|
+| _TableDestination_|Required| **Variant**|The cell in the upper-left corner of the PivotTable report's destination range (the range on the worksheet where the resulting report will be placed). You must specify a destination range on the worksheet that contains the **PivotTables** object specified by _expression_.|
 | _TableName_|Optional| **Variant**|The name of the new PivotTable report.|
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. **False** to enable setting some of the fields as server-based page fields before the data is actually read.|
 | _DefaultVersion_|Optional| **Variant**|The version of Microsoft Excel the PivotTable was originally created in.|
 
 ### Return Value
 
-A  **[PivotTable](pivottable-object-excel.md)** object that represents the new PivotTable report.
+A **[PivotTable](pivottable-object-excel.md)** object that represents the new PivotTable report.
 
 
 ## Example

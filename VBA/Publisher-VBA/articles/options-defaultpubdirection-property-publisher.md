@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.DefaultPubDirection Property (Publisher)
 
-Returns or sets a  **PbDirectionType** constant that represents the default direction in which text flows when a new publication is created. Read/write.
+Returns or sets a **PbDirectionType** constant that represents the default direction in which text flows when a new publication is created. Read/write.
 
 
 ## Syntax
 
  _expression_. **DefaultPubDirection**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbDirectionType
 
 ## Remarks
 
-The  **DefaultPubDirection** property value can be one of the **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **DefaultPubDirection** property value can be one of the **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 This property generates an error if you are not running a bi-directional-enabled version of Microsoft Publisher (for example, Arabic).
 

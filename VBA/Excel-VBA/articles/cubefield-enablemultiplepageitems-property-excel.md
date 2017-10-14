@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.EnableMultiplePageItems Property (Excel)
 
-Set to  **True** to allow multiple items in the page field area for OLAP PivotTables to be selected. The default value is **False** . Read/write **Boolean** .
+Set to **True** to allow multiple items in the page field area for OLAP PivotTables to be selected. The default value is **False** . Read/write **Boolean** .
 
 
 ## Syntax

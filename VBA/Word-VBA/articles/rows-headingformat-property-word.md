@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Rows formatted as table headings are repeated when a table spans more than one page. Can be  **True** , **False** or **wdUndefined** .
+Rows formatted as table headings are repeated when a table spans more than one page. Can be **True** , **False** or **wdUndefined** .
 
 
 ## Example

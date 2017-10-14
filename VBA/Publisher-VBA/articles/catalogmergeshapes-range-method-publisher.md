@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CatalogMergeShapes.Range Method (Publisher)
 
-Returns a  **[ShapeRange](shaperange-object-publisher.md)** object that represents a subset of the shapes in a **Shapes** collection.
+Returns a **[ShapeRange](shaperange-object-publisher.md)** object that represents a subset of the shapes in a **Shapes** collection.
 
 
 ## Syntax
 
  _expression_. **Range**( **_Index_**)
 
- _expression_A variable that represents a  **CatalogMergeShapes** object.
+ _expression_A variable that represents a **CatalogMergeShapes** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **[ShapeRange](shaperange-object-publisher.md)** object that represen
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If Index is omitted, the  **Range** method returns all the objects in the specified collection.|
+|Index|Required| **Variant**|The individual shapes that are to be included in the range. Can be an integer that specifies the index number of the shape, a string that specifies the name of the shape, or an array that contains either integers or strings. If Index is omitted, the **Range** method returns all the objects in the specified collection.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ ShapeRange
 
 ## Example
 
-To specify an array of integers or strings for  **_Index_**, you can use the  **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for **_Index_**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
 
 ```vb

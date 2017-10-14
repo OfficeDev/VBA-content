@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureName Property (Publisher)
 
-Returns a  **String** indicating the name of the custom texture file for the specified fill. Read-only.
+Returns a **String** indicating the name of the custom texture file for the specified fill. Read-only.
 
 
 ## Syntax
 
  _expression_. **TextureName**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Use the  **[UserTextured](fillformat-usertextured-method-publisher.md)** method to set the texture file for the fill.
+Use the **[UserTextured](fillformat-usertextured-method-publisher.md)** method to set the texture file for the fill.
 
 
 ## Example

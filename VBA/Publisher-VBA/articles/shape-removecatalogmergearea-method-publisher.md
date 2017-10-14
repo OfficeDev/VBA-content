@@ -20,14 +20,14 @@ Deletes the catalog merge area from the specified publication page. All shapes c
 
  _expression_. **RemoveCatalogMergeArea**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
-Removing a catalog merge area from a publication page does not disconnect the data source from the publication. Use the  **[IsDataSourceConnected](document-isdatasourceconnected-property-publisher.md)** property of the **[Document](document-object-publisher.md)** object to determine if a data source is connected to a publication.
+Removing a catalog merge area from a publication page does not disconnect the data source from the publication. Use the **[IsDataSourceConnected](document-isdatasourceconnected-property-publisher.md)** property of the **[Document](document-object-publisher.md)** object to determine if a data source is connected to a publication.
 
-Use the  **[AddCatalogMergeArea](shapes-addcatalogmergearea-method-publisher.md)** method of the **[Shapes](shapes-object-publisher.md)** collection to add a catalog merge area to a publication. A publication page can contain only one catalog merge area.
+Use the **[AddCatalogMergeArea](shapes-addcatalogmergearea-method-publisher.md)** method of the **[Shapes](shapes-object-publisher.md)** collection to add a catalog merge area to a publication. A publication page can contain only one catalog merge area.
 
 
 ## Example

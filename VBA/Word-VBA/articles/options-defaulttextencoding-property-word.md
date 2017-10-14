@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultTextEncoding Property (Word)
 
-Returns or sets an  **MsoEncoding** constant representing the code page, or character set, that Microsoft Word uses for all documents saved as encoded text files. Read/write.
+Returns or sets an **MsoEncoding** constant representing the code page, or character set, that Microsoft Word uses for all documents saved as encoded text files. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **MsoEncoding** constant representing the code page, or char
 
 ## Remarks
 
-Use the  **TextEncoding** property to set the encoding for an individual document. To set encoding for HTML documents, use the **Encoding** property.
+Use the **TextEncoding** property to set the encoding for an individual document. To set encoding for HTML documents, use the **Encoding** property.
 
 
 ## Example

@@ -18,7 +18,7 @@ Contains information about the page setup for slides, notes pages, handouts, and
 
 ## Example
 
-Use the [PageSetup](presentation-pagesetup-property-powerpoint.md)property to return the  **PageSetup** object. The following example sets all slides in the active presentation to be 11 inches wide and 8.5 inches high and sets the slide numbering for the presentation to start at 17.
+Use the [PageSetup](presentation-pagesetup-property-powerpoint.md)property to return the **PageSetup** object. The following example sets all slides in the active presentation to be 11 inches wide and 8.5 inches high and sets the slide numbering for the presentation to start at 17.
 
 
 ```vb

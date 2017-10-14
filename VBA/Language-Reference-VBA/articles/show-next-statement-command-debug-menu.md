@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Show Next Statement Command (Debug Menu)
 
-Highlights the next statement to be executed. Use the  **Show** **Next** **Statement** command to place the cursor on the line that will execute next.
+Highlights the next statement to be executed. Use the **Show** **Next** **Statement** command to place the cursor on the line that will execute next.
 
 Available only in [break mode](vbe-glossary.md).
 

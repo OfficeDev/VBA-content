@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.SourceCaption Property (Excel)
 
-The  **SourceCaption** property is applicable only for OLAP PivotTables, and returns the original caption from the OLAP server for a PivotField. Read-only.
+The **SourceCaption** property is applicable only for OLAP PivotTables, and returns the original caption from the OLAP server for a PivotField. Read-only.
 
 
 ## Syntax

@@ -29,11 +29,11 @@ Adds a vertical page break.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Before_|Required| **Object**|A  **[Range](range-object-excel.md)** object. The range to the left of which the new page break will be added.|
+| _Before_|Required| **Object**|A **[Range](range-object-excel.md)** object. The range to the left of which the new page break will be added.|
 
 ### Return Value
 
-A  **[VPageBreak](vpagebreak-object-excel.md)** object that represents the new vertical page break.
+A **[VPageBreak](vpagebreak-object-excel.md)** object that represents the new vertical page break.
 
 
 ## Example

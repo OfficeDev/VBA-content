@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoBevelType Enumeration (Office)
 
-Indicates the bevel type of a  **ThreeDFormat** object.
+Indicates the bevel type of a **ThreeDFormat** object.
 
 
 

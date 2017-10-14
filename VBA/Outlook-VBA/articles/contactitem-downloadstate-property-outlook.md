@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.DownloadState Property (Outlook)
 
-Returns a constant that belongs to the  **[OlDownloadState](oldownloadstate-enumeration-outlook.md)** enumeration indicating the download state of the item. Read-only.
+Returns a constant that belongs to the **[OlDownloadState](oldownloadstate-enumeration-outlook.md)** enumeration indicating the download state of the item. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a constant that belongs to the  **[OlDownloadState](oldownloadstate-enum
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example searches through the user's  **Inbox** for items that have not yet been fully downloaded. If any not yet fully downloaded items are found, a message is displayed to the user, and the item is marked for download.
+The following Microsoft Visual Basic for Applications (VBA) example searches through the user's **Inbox** for items that have not yet been fully downloaded. If any not yet fully downloaded items are found, a message is displayed to the user, and the item is marked for download.
 
 
 ```vb

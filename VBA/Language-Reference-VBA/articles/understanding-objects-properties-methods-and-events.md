@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
 An object represents an element of an application, such as a worksheet, a cell, a chart, a form, or a report. In Visual Basic code, you must identify an object before you can apply one of the object's [methods](vbe-glossary.md) or change the value of one of its [properties](vbe-glossary.md).
 
-A collection is an object that contains several other objects, usually, but not always, of the same type. In Microsoft Excel, for example, the  **Workbooks** object contains all the open **Workbook** objects. In Visual Basic, the **Forms** collection contains all the **Form** objects in an application.
+A collection is an object that contains several other objects, usually, but not always, of the same type. In Microsoft Excel, for example, the **Workbooks** object contains all the open **Workbook** objects. In Visual Basic, the **Forms** collection contains all the **Form** objects in an application.
 
-Items in a collection can be identified by number or by name. For example, in the following [procedure](vbe-glossary.md), identifies the first open  **Workbook** object.
+Items in a collection can be identified by number or by name. For example, in the following [procedure](vbe-glossary.md), identifies the first open **Workbook** object.
 
 
 
@@ -26,7 +26,7 @@ Sub CloseFirst()
 End Sub
 ```
 
-The following procedure uses a name specified as a string to identify a  **Form** object.
+The following procedure uses a name specified as a string to identify a **Form** object.
 
 
 
@@ -46,8 +46,8 @@ Sub CloseAll()
 End Sub
 ```
 
-A method is an action that an object can perform. For example,  **Add** is a method of the **ComboBox** object, because it adds a new entry to a combo box.
-The following procedure uses the  **Add** method to add a new item to a **ComboBox**.
+A method is an action that an object can perform. For example, **Add** is a method of the **ComboBox** object, because it adds a new entry to a combo box.
+The following procedure uses the **Add** method to add a new item to a **ComboBox**.
 
 
 

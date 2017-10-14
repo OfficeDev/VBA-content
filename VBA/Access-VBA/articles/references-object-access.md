@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # References Object (Access)
 
-The  **References** collection contains **Reference** objects representing each reference that's currently set.
+The **References** collection contains **Reference** objects representing each reference that's currently set.
 
 
 ## Remarks
 
-The  **Reference** objects in the **References** collection correspond to the list of references in the **References** dialog box, available by clicking **References** on the **Tools** menu. Each **Reference** object represents one selected reference in the list. References that appear in the **References** dialog box but haven't been selected aren't in the **References** collection.
+The **Reference** objects in the **References** collection correspond to the list of references in the **References** dialog box, available by clicking **References** on the **Tools** menu. Each **Reference** object represents one selected reference in the list. References that appear in the **References** dialog box but haven't been selected aren't in the **References** collection.
 
-You can enumerate through the  **References** collection by using the **For Each...Next** statement.
+You can enumerate through the **References** collection by using the **For Each...Next** statement.
 
-The  **References** collection belongs to the Microsoft Access **Application** object.
+The **References** collection belongs to the Microsoft Access **Application** object.
 
-Individual  **Reference** objects in the **References** collection are indexed beginning with 1.
+Individual **Reference** objects in the **References** collection are indexed beginning with 1.
 
  **Link provided by:**
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community

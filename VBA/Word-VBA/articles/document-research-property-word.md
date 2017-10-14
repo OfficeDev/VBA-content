@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Research Property (Word)
 
-Returns a  **Research** object that represents the research service for a document. Read-only.
+Returns a **Research** object that represents the research service for a document. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EventList.Item Property (Visio)
 
-Returns an item from a collection. The  **Item** property is the default property for all collections. Read-only.
+Returns an item from a collection. The **Item** property is the default property for all collections. Read-only.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Event
 
 ## Remarks
 
-When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
+When retrieving objects from a collection, you can omit **Item** from the expression because it is the default property for all collections. The following statement is equivalent to the syntax example given above:
 
 
 ```

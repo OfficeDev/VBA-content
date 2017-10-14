@@ -43,7 +43,7 @@ public int executeUpdate(String commandText , int options )
 
 ```
 
-The  **executeUpdate** method is a special case method that calls the underlying ADO **execute** method with certain parameters. The **executeUpdate** method does not support the return of a **Recordset** object, so the **execute** method's _options_ parameter is modified with **AdoEnums.ExecuteOptions.NORECORDS**. After the **execute** method completes, its updated _RecordsAffected_ parameter is passed back to the **executeUpdate** method, which is finally returned as an **int**.
+The **executeUpdate** method is a special case method that calls the underlying ADO **execute** method with certain parameters. The **executeUpdate** method does not support the return of a **Recordset** object, so the **execute** method's _options_ parameter is modified with **AdoEnums.ExecuteOptions.NORECORDS**. After the **execute** method completes, its updated _RecordsAffected_ parameter is passed back to the **executeUpdate** method, which is finally returned as an **int**.
 
 
 

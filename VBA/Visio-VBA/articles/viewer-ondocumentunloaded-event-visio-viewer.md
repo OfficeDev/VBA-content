@@ -17,12 +17,12 @@ Occurs after the current document in Microsoft Visio Viewer is unloaded.
 
  _expression_. **OnDocumentUnloaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ## Remarks
 
-You can unload the current document in Visio Viewer programmatically by using the  **[Unload](viewer-unload-method-visio-viewer.md)** method.
+You can unload the current document in Visio Viewer programmatically by using the **[Unload](viewer-unload-method-visio-viewer.md)** method.
 
 
 ## Example

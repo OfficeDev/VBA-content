@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points wide, rescale it so that it is 200 points wide, and then set the  **CropRight** property to 50, 100 points (not 50) will be cropped off the right side of your picture.
+Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points wide, rescale it so that it is 200 points wide, and then set the **CropRight** property to 50, 100 points (not 50) will be cropped off the right side of your picture.
 
 
 ## Example

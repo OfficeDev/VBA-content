@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcDataTransferType Enumeration (Access)
 
-Specifies the type of transfer that you want to make with the  **TransferDatabase** or **TransferSpreadsheet** method.
+Specifies the type of transfer that you want to make with the **TransferDatabase** or **TransferSpreadsheet** method.
 
 
 

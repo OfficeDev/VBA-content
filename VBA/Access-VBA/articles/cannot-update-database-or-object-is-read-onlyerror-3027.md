@@ -20,9 +20,9 @@ You tried to save changes in a database that was opened for read-only access.
 The database is read-only for one of these reasons:
 
 
-- You used the  **OpenDatabase** method and opened the database for read-only access.
+- You used the **OpenDatabase** method and opened the database for read-only access.
     
-- In Microsoft Visual Basic, you are using the  **Data** control, and you set the **ReadOnly** property to **True**.
+- In Microsoft Visual Basic, you are using the **Data** control, and you set the **ReadOnly** property to **True**.
     
 - The database file is defined as read-only in the operating system or by your network.
     

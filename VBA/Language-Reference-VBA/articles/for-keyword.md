@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # For <keyword>
 
-The  **For** keyword is used in these contexts:
+The **For** keyword is used in these contexts:
 
 [For...Next Statement](fornext-statement.md)
 

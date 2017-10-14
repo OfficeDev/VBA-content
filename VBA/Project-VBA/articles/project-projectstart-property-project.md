@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ProjectStart Property (Project)
 
-Gets or sets the start date for a project. Read/write  **Variant**.
+Gets or sets the start date for a project. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the start date for a project. Read/write  **Variant**.
 
 ## Remarks
 
-Setting  **ProjectStart** value also causes the project to be scheduled from its start date. This has the same effect as setting the **ScheduleFromStart** property to **True**.
+Setting **ProjectStart** value also causes the project to be scheduled from its start date. This has the same effect as setting the **ScheduleFromStart** property to **True**.
 
 

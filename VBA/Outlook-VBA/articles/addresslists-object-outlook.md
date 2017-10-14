@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # AddressLists Object (Outlook)
 
-Contains a set of  **[AddressList](addresslist-object-outlook.md)** objects.
+Contains a set of **[AddressList](addresslist-object-outlook.md)** objects.
 
 
 ## Remarks
 
-The  **AddressLists** collection provides access to the root of the transport provider's address book hierarchy for the current session.
+The **AddressLists** collection provides access to the root of the transport provider's address book hierarchy for the current session.
 
 
 ## Example
 
-The following example sets a reference to the  **AddressLists** object.
+The following example sets a reference to the **AddressLists** object.
 
 
 ```

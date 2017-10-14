@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # ListStyle, MultiSelect Properties Example
 
-The following example uses the  **ListStyle** and **MultiSelect** properties to control the appearance of a **ListBox**. The user chooses a value for **ListStyle** using the **ToggleButton** and chooses an **OptionButton** for one of the **MultiSelect** values. The appearance of the **ListBox** changes accordingly, as well as the selection behavior within the **ListBox**.
+The following example uses the **ListStyle** and **MultiSelect** properties to control the appearance of a **ListBox**. The user chooses a value for **ListStyle** using the **ToggleButton** and chooses an **OptionButton** for one of the **MultiSelect** values. The appearance of the **ListBox** changes accordingly, as well as the selection behavior within the **ListBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # New Project Command (File Menu)
 
-Displays the  **New Project** dialog box where you choose the type of[project](vbe-glossary.md) you want to create.
+Displays the **New Project** dialog box where you choose the type of[project](vbe-glossary.md) you want to create.
 
 If there is currently another project open when you create a new project, you will be prompted to save your work.
 

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If you haven't set up Word for multilingual editing, the  **CheckLanguage** property always returns **False** .
+If you haven't set up Word for multilingual editing, the **CheckLanguage** property always returns **False** .
 
 
 ## Example

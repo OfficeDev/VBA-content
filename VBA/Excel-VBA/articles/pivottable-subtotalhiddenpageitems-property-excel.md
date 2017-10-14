@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For OLAP data sources, the value is always  **True** .
+For OLAP data sources, the value is always **True** .
 
 
 ## Example

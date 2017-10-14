@@ -81,7 +81,7 @@ WHERE GraduationYear = 1994
 ORDER BY GradePointAverage ASC;
 ```
 
-The ASC predicate specifies a return of bottom values. The value that follows TOP must be an unsigned  **Integer**.TOP does not affect whether or not the query is updatable.|
+The ASC predicate specifies a return of bottom values. The value that follows TOP must be an unsigned **Integer**.TOP does not affect whether or not the query is updatable.|
 | _table_|The name of the table from which records are retrieved.|
 
 ## Example

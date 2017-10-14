@@ -38,6 +38,6 @@ Determines whether alerts appear when a macro runs.
 
 ## Remarks
 
-The  **Alerts** method applies only to the macro that contains the method.
+The **Alerts** method applies only to the macro that contains the method.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Clear Method
 
-Clear method as it applies to the  **ChartArea** and **Legend** objects.
+Clear method as it applies to the **ChartArea** and **Legend** objects.
 
 Clears the entire chart area.
 
  _expression_. **Clear**
 
  _expression_ Required. An expression that returns one of the above objects.
-Clear method as it applies to the  **Range** object.
+Clear method as it applies to the **Range** object.
 Clears the entire range.
  _expression_. **Clear**
  _expression_ Required. An expression that returns one of the above objects.

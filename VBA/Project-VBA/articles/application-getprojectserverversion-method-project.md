@@ -43,7 +43,7 @@ If the ServerURL argument does not point to a valid and functioning Project Serv
 
 ## Example
 
-The following sample returns an XML stream representing the following settings from Project Server:  **ProjectServerSettingsRequest**, **AdminDefaultTrackingMethod**, **AdminTrackingLocked**, **ProjectIDInProjectServer**, **ProjectManagerHasTransactions**, **ProjectManagerHasTransactionsForCurrentProject**, **TimePeriodGranularity**, and **GroupsForCurrentProjectManager**.
+The following sample returns an XML stream representing the following settings from Project Server: **ProjectServerSettingsRequest**, **AdminDefaultTrackingMethod**, **AdminTrackingLocked**, **ProjectIDInProjectServer**, **ProjectManagerHasTransactions**, **ProjectManagerHasTransactionsForCurrentProject**, **TimePeriodGranularity**, and **GroupsForCurrentProjectManager**.
 
 
 ```vb

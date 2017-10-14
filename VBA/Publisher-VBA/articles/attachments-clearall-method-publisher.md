@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # Attachments.ClearAll Method (Publisher)
 
-Clears (deletes) all the  **Attachment** objects in the parent **Attachments** collection of an e-mail merge message.
+Clears (deletes) all the **Attachment** objects in the parent **Attachments** collection of an e-mail merge message.
 
 
 ## Syntax
 
  _expression_. **ClearAll**
 
- _expression_A variable that represents an  **Attachments** collection.
+ _expression_A variable that represents an **Attachments** collection.
 
 
 ## Remarks
 
-To clear an individual attachment, use the  **[Delete](attachment-delete-method-publisher.md)** method of the specific **Attachment** object
+To clear an individual attachment, use the **[Delete](attachment-delete-method-publisher.md)** method of the specific **Attachment** object
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to clear all the attachment to the message in an e-mail merge. The code prints the number of current attachments to the message in the  **Immediate** window and then deletes all of the **Attachment** objects in the collection.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to clear all the attachment to the message in an e-mail merge. The code prints the number of current attachments to the message in the **Immediate** window and then deletes all of the **Attachment** objects in the collection.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RegisterRibbonX Method (Visio)
 
-Registers the  **[IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7576-b6f5-031e-e307-78ef5f8507e0%28Office.15%29.aspx)** interface that is implemented by the specified add-on to populate the custom user interface (UI).
+Registers the **[IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7576-b6f5-031e-e307-78ef5f8507e0%28Office.15%29.aspx)** interface that is implemented by the specified add-on to populate the custom user interface (UI).
 
 
 ## Syntax

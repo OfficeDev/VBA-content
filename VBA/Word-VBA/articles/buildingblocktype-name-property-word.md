@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlockType.Name Property (Word)
 
-Returns a  **String** that represents the localized name of a building block type. Read-only.
+Returns a **String** that represents the localized name of a building block type. Read-only.
 
 
 ## Syntax

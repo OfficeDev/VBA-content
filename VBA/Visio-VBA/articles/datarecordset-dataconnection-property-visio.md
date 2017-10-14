@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordset.DataConnection Property (Visio)
 
-Returns the  **[DataConnection](dataconnection-object-visio.md)** object associated with the **DataRecordset** object. Read-only.
+Returns the **[DataConnection](dataconnection-object-visio.md)** object associated with the **DataRecordset** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,8 +33,8 @@ DataConnection
 
 ## Remarks
 
-You can get the connection string associated with a data recordset by first using the  **DataConnection** property to get the **DataConnection** object associated with the data recordset and then getting the **[DataConnection.ConnectionString](dataconnection-connectionstring-property-visio.md)** property value.
+You can get the connection string associated with a data recordset by first using the **DataConnection** property to get the **DataConnection** object associated with the data recordset and then getting the **[DataConnection.ConnectionString](dataconnection-connectionstring-property-visio.md)** property value.
 
-The  **DataConnection** property returns **Nothing** for "connectionless" **DataRecordset** objects—those that are created by using the **[DataRecordsets.AddFromXML](datarecordsets-addfromxml-method-visio.md)** method.
+The **DataConnection** property returns **Nothing** for "connectionless" **DataRecordset** objects—those that are created by using the **[DataRecordsets.AddFromXML](datarecordsets-addfromxml-method-visio.md)** method.
 
 

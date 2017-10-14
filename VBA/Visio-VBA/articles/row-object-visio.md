@@ -18,6 +18,6 @@ Enables you to access and manipulate a row in a section.
 
 ## Remarks
 
-The default property of a  **Row** object is **Cell** .
+The default property of a **Row** object is **Cell** .
 
 

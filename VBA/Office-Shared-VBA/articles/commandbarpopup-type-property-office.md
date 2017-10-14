@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Type Property (Office)
 
-Gets the type of  **CommandBarPopup** control. Read-only.
+Gets the type of **CommandBarPopup** control. Read-only.
 
 
 ## 

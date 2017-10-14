@@ -30,7 +30,7 @@ Returns or sets the title of the alternative text associated with the specified 
 
 ## Remarks
 
-To set the descriptive text string of the alternative text for a shape, use the  **[AlternativeText](shape-alternativetext-property-excel.md)** property.
+To set the descriptive text string of the alternative text for a shape, use the **[AlternativeText](shape-alternativetext-property-excel.md)** property.
 
 
 ## See also

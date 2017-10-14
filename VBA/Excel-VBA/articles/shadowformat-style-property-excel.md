@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Style Property (Excel)
 
-Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle](http://msdn.microsoft.com/library/98bbf0a7-03f5-449e-b469-3652d7642b4a%28Office.15%29.aspx)** .
+Returns or sets the style of the specified shadow. Read/write **[MsoShadowStyle](http://msdn.microsoft.com/library/98bbf0a7-03f5-449e-b469-3652d7642b4a%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle
 
 
 
-|MsoShadowStyle can be one of these  **MsoShadowStyle** constants.|
+|MsoShadowStyle can be one of these **MsoShadowStyle** constants.|
 | **msoShadowStyleInnerShadow**|
 | **msoShadowStyleMixed**|
 | **msoShadowStyleOuterShadow**|

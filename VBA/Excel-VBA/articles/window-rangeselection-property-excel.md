@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.RangeSelection Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the selected cells on the worksheet in the specified window even if a graphic object is active or selected on the worksheet. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the selected cells on the worksheet in the specified window even if a graphic object is active or selected on the worksheet. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[Range](range-object-excel.md)** object that represents the selecte
 
 ## Remarks
 
-When a graphic object is selected on a worksheet, the  **Selection** property returns the graphic object instead of a **Range** object; the **RangeSelection** property returns the range of cells that was selected before the graphic object was selected.
+When a graphic object is selected on a worksheet, the **Selection** property returns the graphic object instead of a **Range** object; the **RangeSelection** property returns the range of cells that was selected before the graphic object was selected.
 
-This property and the  **Selection** property return identical values when a range (not a graphic object) is selected on the worksheet.
+This property and the **Selection** property return identical values when a range (not a graphic object) is selected on the worksheet.
 
 If the active sheet in the specified window isn't a worksheet, this property fails.
 

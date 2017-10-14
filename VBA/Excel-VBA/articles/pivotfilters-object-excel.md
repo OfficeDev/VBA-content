@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # PivotFilters Object (Excel)
 
-The  **PivotFilters** object is a collection of **PivotFilter** objects.
+The **PivotFilters** object is a collection of **PivotFilter** objects.
 
 
 ## Remarks
 
-The  **PivotFilters** collection contains properties and methods to add new filters, count the number of existing filters in the collection, and reference specific **PivotFilter** objects.
+The **PivotFilters** collection contains properties and methods to add new filters, count the number of existing filters in the collection, and reference specific **PivotFilter** objects.
 
 
 ## Example

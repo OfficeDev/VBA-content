@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # MultiSelect, Selected Properties Example
 
-The following example uses the  **MultiSelect** and **Selected** properties to demonstate how the user can select one or more items in a **ListBox**. The user specifies a selection method by choosing an option button and then selects an item(s) from the **ListBox**. The user can display the selected items in a second **ListBox** by clicking the **CommandButton**.
+The following example uses the **MultiSelect** and **Selected** properties to demonstate how the user can select one or more items in a **ListBox**. The user specifies a selection method by choosing an option button and then selects an item(s) from the **ListBox**. The user can display the selected items in a second **ListBox** by clicking the **CommandButton**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **ListBox** controls named ListBox1 and ListBox2.
+- Two **ListBox** controls named ListBox1 and ListBox2.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
 
 

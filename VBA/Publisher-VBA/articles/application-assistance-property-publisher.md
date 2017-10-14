@@ -17,12 +17,12 @@ Gets a reference to the Microsoft Office (MSO) **IAssistance** object, which pro
 
  _expression_. **Assistance**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ## Remarks
 
-The  **IAssistance** object exposes methods that developers can use to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the Publisher Help window.
+The **IAssistance** object exposes methods that developers can use to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the Publisher Help window.
 
 
 ## See also

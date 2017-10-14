@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RelatedShapePairEvent.ContainingPageID Property (Visio)
 
-Returns the identifier of the  **[Page](page-object-visio.md)** object that is associated with the **[RelatedShapePairEvent](relatedshapepairevent-object-visio.md)** object. Read-only.
+Returns the identifier of the **[Page](page-object-visio.md)** object that is associated with the **[RelatedShapePairEvent](relatedshapepairevent-object-visio.md)** object. Read-only.
 
 
 ## Syntax

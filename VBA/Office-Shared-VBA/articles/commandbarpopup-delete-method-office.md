@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Delete Method (Office)
 
-Deletes the  **CommandBarPopup** object from its collection.
+Deletes the **CommandBarPopup** object from its collection.
 
 
 ## Syntax

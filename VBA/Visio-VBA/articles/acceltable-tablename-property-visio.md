@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccelTable.TableName Property (Visio)
 
-Gets or sets the name of an  **AccelTable** object. Read/write.
+Gets or sets the name of an **AccelTable** object. Read/write.
 
 
 ## Syntax

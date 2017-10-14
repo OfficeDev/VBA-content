@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SmartDocument Property (Word)
 
-Returns a  **SmartDocument** object that represents the settings for a smart document solution.
+Returns a **SmartDocument** object that represents the settings for a smart document solution.
 
 
 ## Syntax

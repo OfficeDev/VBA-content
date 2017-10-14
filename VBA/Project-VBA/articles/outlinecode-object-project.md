@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  
 
-Represents a local outline code in Project. The  **OutlineCode** object is a member of the **[OutlineCodes](outlinecodes-object-project.md)** collection.
+Represents a local outline code in Project. The **OutlineCode** object is a member of the **[OutlineCodes](outlinecodes-object-project.md)** collection.
  
  **Using the OutlineCode Object**
  
@@ -80,7 +80,7 @@ End Sub
 
 ## Remarks
 
-An outline code is a type of local custom field that has a hierarchical text lookup table. Enterprise custom fields of type  **Text** that have hierarchical lookup tables act as outline codes. Use the **[OutlineCodes](project-outlinecodes-property-project.md)** property to return an **OutlineCodes** collection. Use the **[Add](outlinecodes-add-method-project.md)** method to add a local outline code to the **OutlineCodes** collection. To add an enterprise custom field, you must use Project Web App or the Project Server Interface (PSI).
+An outline code is a type of local custom field that has a hierarchical text lookup table. Enterprise custom fields of type **Text** that have hierarchical lookup tables act as outline codes. Use the **[OutlineCodes](project-outlinecodes-property-project.md)** property to return an **OutlineCodes** collection. Use the **[Add](outlinecodes-add-method-project.md)** method to add a local outline code to the **OutlineCodes** collection. To add an enterprise custom field, you must use Project Web App or the Project Server Interface (PSI).
  
 
  

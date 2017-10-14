@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.NamespaceManager Property (Office)
 
-Gets the set of namespace prefix mappings used against the current  **CustomXMLPart** object. Read-only.
+Gets the set of namespace prefix mappings used against the current **CustomXMLPart** object. Read-only.
 
 
 ## Syntax

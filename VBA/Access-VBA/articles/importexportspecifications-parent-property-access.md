@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecifications.Parent Property (Access)
 
-Returns the parent object for the specified object. Read-only  **Object**.
+Returns the parent object for the specified object. Read-only **Object**.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.ContainingObject Property (Publisher)
 
-Returns an  **Object** that represents the object that contains the text range. Read-only.
+Returns an **Object** that represents the object that contains the text range. Read-only.
 
 
 ## Syntax
 
  _expression_. **ContainingObject**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

@@ -33,7 +33,7 @@ Occurs when the user changes the visibility of the custom task pane.
 
 ## Example
 
-The following example, written in C#, creates a custom task pane and adds an ActiveX button control created in another project. A  **VisibleStateChange** event of type **_CustomTaskPaneEvents_VisibleStateChangeEventHandler** is defined in the procedure. When the event is triggered, the event handler displays a message box depending on whether the task pane is currently visible or hidden.
+The following example, written in C#, creates a custom task pane and adds an ActiveX button control created in another project. A **VisibleStateChange** event of type **_CustomTaskPaneEvents_VisibleStateChangeEventHandler** is defined in the procedure. When the event is triggered, the event handler displays a message box depending on whether the task pane is currently visible or hidden.
 
 
 ```

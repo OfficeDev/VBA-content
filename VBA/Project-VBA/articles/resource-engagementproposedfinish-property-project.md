@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Resource.EngagementProposedFinish Property (Project)
 
-Returns the proposed finish date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
+Returns the proposed finish date for the engagement. Read-only **DateType**. Introduced in Office 2016.
 
 
 ## Syntax

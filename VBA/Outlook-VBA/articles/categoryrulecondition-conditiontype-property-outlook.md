@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CategoryRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionCategory** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant, **olConditionCategory** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.AccessConnection Property (Access)
 
-You can use the  **AccessConnection** property to return a reference to the current Microsoft ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
+You can use the **AccessConnection** property to return a reference to the current Microsoft ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
 
 
 ## Syntax

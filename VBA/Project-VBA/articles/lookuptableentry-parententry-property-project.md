@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.ParentEntry Property (Project)
 
-Gets the parent lookup table entry in a hierarchical lookup table. Read-only  **LookupTableEntry**.
+Gets the parent lookup table entry in a hierarchical lookup table. Read-only **LookupTableEntry**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the parent lookup table entry in a hierarchical lookup table. Read-only  **
 
 ## Remarks
 
-The  **ParentEntry** property returns nothing if the lookup table entry has a level 1 value.
+The **ParentEntry** property returns nothing if the lookup table entry has a level 1 value.
 
 

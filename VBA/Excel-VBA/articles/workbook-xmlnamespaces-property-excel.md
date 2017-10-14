@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.XmlNamespaces Property (Excel)
 
-Returns an  **[XmlNamespaces](xmlnamespaces-object-excel.md)** collection that represents the XML namespaces contained in the specified workbook. Read-only.
+Returns an **[XmlNamespaces](xmlnamespaces-object-excel.md)** collection that represents the XML namespaces contained in the specified workbook. Read-only.
 
 
 ## Syntax

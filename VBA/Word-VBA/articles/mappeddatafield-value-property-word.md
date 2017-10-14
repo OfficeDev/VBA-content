@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MappedDataField.Value Property (Word)
 
-Returns the contents of the mail merge data field or mapped data field for the current record. Read-only  **String** .
+Returns the contents of the mail merge data field or mapped data field for the current record. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the contents of the mail merge data field or mapped data field for the c
 
 ## Remarks
 
-Use the  **ActiveRecord** property to set the active record in a mail merge data source.
+Use the **ActiveRecord** property to set the active record in a mail merge data source.
 
 
 ## Example

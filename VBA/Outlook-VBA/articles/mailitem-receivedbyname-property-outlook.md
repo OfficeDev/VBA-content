@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.ReceivedByName Property (Outlook)
 
-Returns a  **String** representing the display name of the true recipient for the mail message. Read-only.
+Returns a **String** representing the display name of the true recipient for the mail message. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the display name of the true recipient for th
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReceivedByName** .
+This property corresponds to the MAPI property **PidTagReceivedByName** .
 
 
 ## See also

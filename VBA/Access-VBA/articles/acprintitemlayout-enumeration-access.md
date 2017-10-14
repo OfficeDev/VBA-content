@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintItemLayout Enumeration (Access)
 
-Used with the  **ItemLayout** property to specify how columns are laid out when printing.
+Used with the **ItemLayout** property to specify how columns are laid out when printing.
 
 
 

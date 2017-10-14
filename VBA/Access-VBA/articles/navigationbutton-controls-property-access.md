@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.Controls Property (Access)
 
-Returns the  **Controls** collection of a form, subform, report or section. Read-only **Controls**.
+Returns the **Controls** collection of a form, subform, report or section. Read-only **Controls**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **Controls** collection of a form, subform, report or section. Read
 
 ## Remarks
 
-Use the  **Controls** property to refer to one of the controls on a form, subform, report, or section within or attached to another control. For example, the first code syntax below returns the number of controls located on Form1. The second references the name of a property within a control.
+Use the **Controls** property to refer to one of the controls on a form, subform, report, or section within or attached to another control. For example, the first code syntax below returns the number of controls located on Form1. The second references the name of a property within a control.
 
 
 ```vb

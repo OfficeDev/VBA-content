@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlaySoundRuleAction.FilePath Property (Outlook)
 
-Returns or sets a  **String** that represents the full file path to a sound file (.wav). Read/write.
+Returns or sets a **String** that represents the full file path to a sound file (.wav). Read/write.
 
 
 ## Syntax

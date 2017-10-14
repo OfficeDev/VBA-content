@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.AutoFilter Property (Excel)
 
-Filters a  **table** using the AutoFilter feature. Read-only.
+Filters a **table** using the AutoFilter feature. Read-only.
 
 
 ## Syntax

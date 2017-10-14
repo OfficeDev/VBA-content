@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoFilterComparison Enumeration (Office)
 
-Specifies how the  **Column** and **CompareTo** properties are compared for an **ODSOFilter** object.
+Specifies how the **Column** and **CompareTo** properties are compared for an **ODSOFilter** object.
 
 
 

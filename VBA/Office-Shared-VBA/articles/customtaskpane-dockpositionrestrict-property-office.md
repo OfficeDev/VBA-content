@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomTaskPane.DockPositionRestrict Property (Office)
 
-Gets or sets an enumerated value specifying a restriction on the orientation of a  **CustomTaskPane** object. Read/write.
+Gets or sets an enumerated value specifying a restriction on the orientation of a **CustomTaskPane** object. Read/write.
 
 
 ## Syntax

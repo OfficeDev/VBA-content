@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarPane.Contents Property (Outlook)
 
-Returns the  **[OutlookBarStorage](outlookbarstorage-object-outlook.md)** object for the specified Outlook Bar pane. Read-only.
+Returns the **[OutlookBarStorage](outlookbarstorage-object-outlook.md)** object for the specified Outlook Bar pane. Read-only.
 
 
 ## Syntax

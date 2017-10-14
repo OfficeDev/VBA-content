@@ -29,7 +29,7 @@ Moves a shape or a set of shapes up or down in the list.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectToReorder_|Required| **[UNKNOWN]**|The shape or shapes to reorder in the container. Can be either  **[Shape](shape-object-visio.md)** or **[Selection](selection-object-visio.md)** objects.|
+| _ObjectToReorder_|Required| **[UNKNOWN]**|The shape or shapes to reorder in the container. Can be either **[Shape](shape-object-visio.md)** or **[Selection](selection-object-visio.md)** objects.|
 | _Position_|Required| **Long**|The insertion position in the list, which is one-based.|
 
 ### Return Value
@@ -54,7 +54,7 @@ If you pass a non-contiguous selection of list members for  _ObjectToReorder_, V
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **ReorderListMember** method to move a list member shape to the second position in the list.
+The following Visual Basic for Applications (VBA) example shows how to use the **ReorderListMember** method to move a list member shape to the second position in the list.
 
 
 ```

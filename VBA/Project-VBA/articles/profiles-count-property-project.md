@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Profiles.Count Property (Project)
 
-Gets the number of account profiles that are defined for Project Professional. Read-only  **Long**.
+Gets the number of account profiles that are defined for Project Professional. Read-only **Long**.
 
 
 ## Syntax

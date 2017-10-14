@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowSettings.NamedSlideShows Property (PowerPoint)
 
-Returns a  **[NamedSlideShows](namedslideshows-object-powerpoint.md)** collection that represents all the named slide shows (custom slide shows) in the specified presentation. Read-only.
+Returns a **[NamedSlideShows](namedslideshows-object-powerpoint.md)** collection that represents all the named slide shows (custom slide shows) in the specified presentation. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ NamedSlideShows
 
 Each named slide show, or custom slide show, is a user-selected subset of the specified presentation.
 
-Use the  **[Add](namedslideshows-add-method-powerpoint.md)** method of the **NamedSlideShows** object to create a named slide show.
+Use the **[Add](namedslideshows-add-method-powerpoint.md)** method of the **NamedSlideShows** object to create a named slide show.
 
 
 ## Example

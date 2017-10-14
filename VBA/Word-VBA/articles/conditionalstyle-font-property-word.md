@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConditionalStyle.Font Property (Word)
 
-Returns or sets a  **[Font](font-object-word.md)** object that represents the character formatting of the specified object. Read/write.
+Returns or sets a **[Font](font-object-word.md)** object that represents the character formatting of the specified object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[Font](font-object-word.md)** object that represents the ch
 
 ## Remarks
 
-To set the  **Font** property, specify an expression that returns a **[Font](font-object-word.md)** object.
+To set the **Font** property, specify an expression that returns a **[Font](font-object-word.md)** object.
 
 
 ## See also

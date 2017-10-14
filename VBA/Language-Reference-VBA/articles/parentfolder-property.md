@@ -21,7 +21,7 @@ Returns the folder object for the parent of the specified file or folder. Read-o
  _object_. **ParentFolder**
 The  _object_ is always a **File** or **Folder** object.
  **Remarks**
-The following code illustrates the use of the  **ParentFolder** property with a file:
+The following code illustrates the use of the **ParentFolder** property with a file:
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.System Property (Word)
 
-Returns a  **[System](system-object-word.md)** object, which can be used to return system-related information and perform system-related tasks.
+Returns a **[System](system-object-word.md)** object, which can be used to return system-related information and perform system-related tasks.
 
 
 ## Syntax

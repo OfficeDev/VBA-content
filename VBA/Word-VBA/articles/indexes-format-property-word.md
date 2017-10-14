@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Indexes.Format Property (Word)
 
-Returns or sets a  **WdIndexFormat** that represents the formatting for the indexes in the specified document. Read/write.
+Returns or sets a **WdIndexFormat** that represents the formatting for the indexes in the specified document. Read/write.
 
 
 ## Syntax

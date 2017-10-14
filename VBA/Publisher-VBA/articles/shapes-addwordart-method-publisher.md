@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddWordArt Method (Publisher)
 
-Returns a  **Shape** object that represents the WordArt to be added to the publication.
+Returns a **Shape** object that represents the WordArt to be added to the publication.
 
 
 ## Syntax
 
- _expression_. **AddWordArt**( **_PresetWordArt_**,  **_Text_**,  **_FontName_**,  **_FontSize_**,  **_FontBold_**,  **_FontItalic_**,  **_Left_**,  **_Top_**)
+ _expression_. **AddWordArt**( **_PresetWordArt_**, **_Text_**, **_FontName_**, **_FontSize_**, **_FontBold_**, **_FontItalic_**, **_Left_**, **_Top_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -45,7 +45,7 @@ Returns a  **Shape** object that represents the WordArt to be added to the publi
 
 ### Remarks
 
-The  **FontBold** parameter value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
+The **FontBold** parameter value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 
@@ -53,9 +53,9 @@ The  **FontBold** parameter value can be one of the following **MsoTriState** co
 |:-----|:-----|
 | **msoFalse**|None of the characters in the WordArt are formatted as bold.|
 | **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as bold and some text not formatted as bold.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the WordArt are formatted as bold.|
-The  **FontItalic** parameter value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
+The **FontItalic** parameter value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 
@@ -63,6 +63,6 @@ The  **FontItalic** parameter value can be one of the following **MsoTriState** 
 |:-----|:-----|
 | **msoFalse**|None of the characters in the WordArt are formatted as italic.|
 | **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as italic and some text not formatted as italic.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the WordArt are formatted as italic.|
 

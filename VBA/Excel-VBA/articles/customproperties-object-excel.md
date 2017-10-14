@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # CustomProperties Object (Excel)
 
-A collection of  **CustomProperty** objects that represent additional information. The information can be used as metadata for XML.
+A collection of **CustomProperty** objects that represent additional information. The information can be used as metadata for XML.
 
 
 ## Remarks
 
-Use  **[CustomProperties](worksheet-customproperties-property-excel.md)** property of the **Worksheet** object to return a **CustomProperties** collection.
+Use **[CustomProperties](worksheet-customproperties-property-excel.md)** property of the **Worksheet** object to return a **CustomProperties** collection.
 
-Once a  **CustomProperties** collection is returned, you can add metadata to worksheets and additional actions depending on which you choose to work with.
+Once a **CustomProperties** collection is returned, you can add metadata to worksheets and additional actions depending on which you choose to work with.
 
-To add metadata to a worksheet, use the  **CustomProperties** property with the **Add** method.
+To add metadata to a worksheet, use the **CustomProperties** property with the **Add** method.
 
 
 ## Example

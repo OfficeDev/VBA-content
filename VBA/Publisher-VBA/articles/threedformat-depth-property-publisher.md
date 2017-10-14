@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.Depth Property (Publisher)
 
-Returns or sets a  **Variant** indicating the depth of the shape's extrusion. Read/write.
+Returns or sets a **Variant** indicating the depth of the shape's extrusion. Read/write.
 
 
 ## Syntax
 
  _expression_. **Depth**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ### Return Value

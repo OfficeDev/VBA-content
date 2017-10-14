@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.Font Property (Excel)
 
-Returns a  **[Font](font-object-excel.md)** object that represents the font of the associated **[Range](range-object-excel.md)** as it is displayed in the current user interface. Read-only.
+Returns a **[Font](font-object-excel.md)** object that represents the font of the associated **[Range](range-object-excel.md)** as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax

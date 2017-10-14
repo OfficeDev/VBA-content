@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.IgnorePunct Property (Word)
 
-Returns or sets a  **Boolean** that represents whether a find operation should ignore punctuation in found text. Read/write.
+Returns or sets a **Boolean** that represents whether a find operation should ignore punctuation in found text. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether a find operation should i
 
 ## Remarks
 
-This property corresponds to the  **Ignore punctuation characters** check box in the **Find and Replace** dialog box.
+This property corresponds to the **Ignore punctuation characters** check box in the **Find and Replace** dialog box.
 
 
 ## See also

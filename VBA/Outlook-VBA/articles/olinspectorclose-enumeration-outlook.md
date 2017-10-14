@@ -25,6 +25,6 @@ Indicates the save mode.
 
 ## Remarks
 
-Used as a parameter to the  **Close** method of item objects and the[Inspector.Close Method (Outlook)](inspector-close-method-outlook.md) to indicate the save mode.
+Used as a parameter to the **Close** method of item objects and the[Inspector.Close Method (Outlook)](inspector-close-method-outlook.md) to indicate the save mode.
 
 

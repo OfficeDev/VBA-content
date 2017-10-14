@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.AutoLength Property (Publisher)
 
-Returns an  **MsoTriState**constant indicating whether the first segment of the callout line is scaled when the callout is moved. Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read-only.
+Returns an **MsoTriState**constant indicating whether the first segment of the callout line is scaled when the callout is moved. Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**). Read-only.
 
 
 ## Syntax
 
  _expression_. **AutoLength**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-The  **AutoLength** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **AutoLength** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-Use the  [AutomaticLength](calloutformat-automaticlength-method-publisher.md)method to set this property to  **msoTrue**, and use the  [CustomLength](calloutformat-customlength-method-publisher.md)method to set this property to  **msoFalse**.
+Use the  [AutomaticLength](calloutformat-automaticlength-method-publisher.md)method to set this property to **msoTrue**, and use the  [CustomLength](calloutformat-customlength-method-publisher.md)method to set this property to **msoFalse**.
 
 
 ## Example

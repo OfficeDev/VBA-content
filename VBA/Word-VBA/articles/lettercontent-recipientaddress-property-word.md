@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.RecipientAddress Property (Word)
 
-Returns or sets the mailing address of the person who'll be receiving the letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the mailing address of the person who'll be receiving the letter created by the Letter Wizard. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the mailing address of the person who'll be receiving the letter
 
 ## Example
 
-This example creates a new  **LetterContent** object, sets several properties (including the recipient address), and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
+This example creates a new **LetterContent** object, sets several properties (including the recipient address), and then runs the Letter Wizard by using the **[RunLetterWizard](document-runletterwizard-method-word.md)** method.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.SelectNodes Method (Word)
 
-Returns an  **[XMLNodes](xmlnodes-object-word.md)** collection that represents all the child elements that match the XPath parameter, in the order in which they appear within the specified XML element.
+Returns an **[XMLNodes](xmlnodes-object-word.md)** collection that represents all the child elements that match the XPath parameter, in the order in which they appear within the specified XML element.
 
 
 ## Syntax

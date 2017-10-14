@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **EnterpriseNameUsed** property is available only in Project Professional.
+The **EnterpriseNameUsed** property is available only in Project Professional.
 
 

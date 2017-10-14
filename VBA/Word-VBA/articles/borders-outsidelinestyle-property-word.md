@@ -25,7 +25,7 @@ Returns or sets the outside border for the specified object. .
 
 ## Remarks
 
-This property returns  **wdUndefined** if more than one kind of border is applied to the specified object; otherwise, returns **False** or a **WdLineStyle** constant. Can be set to **True** , **False** , or a **WdLineStyle** constant.
+This property returns **wdUndefined** if more than one kind of border is applied to the specified object; otherwise, returns **False** or a **WdLineStyle** constant. Can be set to **True** , **False** , or a **WdLineStyle** constant.
 
  **True** sets the line style to the default line style and the line width to the default line width. The default line style and width can be set using the **DefaultBorderLineWidth** and **DefaultBorderLineStyle** properties.
 

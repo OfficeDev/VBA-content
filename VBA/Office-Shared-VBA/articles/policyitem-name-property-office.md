@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PolicyItem.Name Property (Office)
 
-Gets the name of the  **PolicyItem** object. Read-only.
+Gets the name of the **PolicyItem** object. Read-only.
 
 
 ## Syntax

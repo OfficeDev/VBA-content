@@ -17,7 +17,7 @@ Gets the build number of Microsoft Visio Viewer. Read-only.
 
  _expression_. **BuildNumber**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ For the 2007 release of Visio Viewer, the build number is a four-digit number us
 
 ## Example
 
-The following code gets the build number of Visio Viewer and prints it in the  **Immediate** window.
+The following code gets the build number of Visio Viewer and prints it in the **Immediate** window.
 
 
 ```vb

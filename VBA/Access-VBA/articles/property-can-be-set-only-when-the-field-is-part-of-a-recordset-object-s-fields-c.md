@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-This property is valid only for  **Field** objects that are part of a **Recordset** object's **Fields** collection. See the **Field** Object, **Fields** Collection Summary for a list of properties available for different **Fields** collections.
+This property is valid only for **Field** objects that are part of a **Recordset** object's **Fields** collection. See the **Field** Object, **Fields** Collection Summary for a list of properties available for different **Fields** collections.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

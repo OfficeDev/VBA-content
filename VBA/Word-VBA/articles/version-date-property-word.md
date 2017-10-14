@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Version.Date Property (Word)
 
-The date and time that the document version was saved. Read-only  **Date** .
+The date and time that the document version was saved. Read-only **Date** .
 
 
 ## Syntax

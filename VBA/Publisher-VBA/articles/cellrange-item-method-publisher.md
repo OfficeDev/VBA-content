@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CellRange.Item Method (Publisher)
 
-Returns an individual  **Cell** object in the specified **CellRange** collection.
+Returns an individual **Cell** object in the specified **CellRange** collection.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **CellRange** object.
+ _expression_A variable that represents a **CellRange** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Cell
 
 ## Example
 
-This example returns the first cell from a  **CellRange** collection.
+This example returns the first cell from a **CellRange** collection.
 
 
 ```vb

@@ -45,9 +45,9 @@ Boolean
 
 ## Remarks
 
-The  **Find** method searches for the specified text string in a **Module** object. If the string is found, the **Find** method returns **True**.
+The **Find** method searches for the specified text string in a **Module** object. If the string is found, the **Find** method returns **True**.
 
-To determine the position in the module at which the search text was found, pass empty variables to the  **Find** method for the _StartLine_,  _StartColumn_,  _EndLine_, and  _EndColumn_ arguments. If a match is found, these arguments will contain the line number and column position at which the search text begins ( _StartLine_,  _StartColumn_) and ends ( _EndLine_,  _EndColumn_).
+To determine the position in the module at which the search text was found, pass empty variables to the **Find** method for the _StartLine_,  _StartColumn_,  _EndLine_, and  _EndColumn_ arguments. If a match is found, these arguments will contain the line number and column position at which the search text begins ( _StartLine_,  _StartColumn_) and ends ( _EndLine_,  _EndColumn_).
 
 For example, if the search text is found on line 5, begins at column 10, and ends at column 20, the values of these arguments will be:  _StartLine_ = 5, _StartColumn_ = 10, _EndLine_ = 5, _EndColumn_ = 20.
 

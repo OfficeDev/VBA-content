@@ -18,9 +18,9 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
 
 ## Syntax
 
- _expression_. **ScaleWidth**( **_Factor_**,  **_RelativeToOriginalSize_**,  **_fScale_**)
+ _expression_. **ScaleWidth**( **_Factor_**, **_RelativeToOriginalSize_**, **_fScale_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -40,7 +40,7 @@ Nothing
 
 ## Remarks
 
-The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The RelativeToOriginalSize parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
@@ -48,16 +48,16 @@ The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constant
 |:-----|:-----|
 | **msoFalse**|Scales the shape relative to its current size.|
 | **msoTrue**|Scales the shape relative to its original size.|
-The fScale parameter can be one of the  **MsoScaleFrom** constants declared in the Microsoft Office type library and shown in the following table. The default is **msoScaleFromTopLeft**.
+The fScale parameter can be one of the **MsoScaleFrom** constants declared in the Microsoft Office type library and shown in the following table. The default is **msoScaleFromTopLeft**.
 
 
 
 | **msoScaleFromBottomRight**|
 | **msoScaleFromMiddle**|
 | **msoScaleFromTopLeft**|
-Shapes other than pictures and OLE objects are always scaled relative to their current width; specifying a RelativeToOriginalSize value of  **msoTrue** for shapes other than pictures or OLE objects causes an error.
+Shapes other than pictures and OLE objects are always scaled relative to their current width; specifying a RelativeToOriginalSize value of **msoTrue** for shapes other than pictures or OLE objects causes an error.
 
-Use the  **[ScaleHeight](shape-scaleheight-method-publisher.md)** method to scale the height of a shape.
+Use the **[ScaleHeight](shape-scaleheight-method-publisher.md)** method to scale the height of a shape.
 
 
 ## Example

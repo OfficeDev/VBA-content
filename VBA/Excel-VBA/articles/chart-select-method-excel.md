@@ -33,7 +33,7 @@ Selects the object.
 
 ## Remarks
 
-To select a cell or a range of cells, use the  **Select** method. To make a single cell the active cell, use the **[Activate](chart-activate-method-excel.md)** method.
+To select a cell or a range of cells, use the **Select** method. To make a single cell the active cell, use the **[Activate](chart-activate-method-excel.md)** method.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.PicasToPoints Method (Word)
 
-Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a **Single** .
 
 
 ## Syntax

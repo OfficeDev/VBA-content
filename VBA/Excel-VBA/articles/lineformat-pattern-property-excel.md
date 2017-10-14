@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Pattern Property (Excel)
 
-Returns or sets an  **[MsoPatternType](lineformat-pattern-property-excel.md)** value that represents the fill pattern.
+Returns or sets an **[MsoPatternType](lineformat-pattern-property-excel.md)** value that represents the fill pattern.
 
 
 ## Syntax

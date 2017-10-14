@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[CanOpen](fileconverter-canopen-property-powerpoint.md)** property returns **True** if the specified file converter can be used to open (import) files.
+The **[CanOpen](fileconverter-canopen-property-powerpoint.md)** property returns **True** if the specified file converter can be used to open (import) files.
 
 
 ## Example
@@ -35,7 +35,7 @@ The  **[CanOpen](fileconverter-canopen-property-powerpoint.md)** property return
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-This example determines whether the WordPerfect converter can be used to save files. If the return value is  **True**, the active document is saved in WordPerfect 6.x format.
+This example determines whether the WordPerfect converter can be used to save files. If the return value is **True**, the active document is saved in WordPerfect 6.x format.
 
 
 

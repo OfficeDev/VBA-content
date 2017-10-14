@@ -35,6 +35,6 @@ Replaces the specified shape?s current picture with a new picture.
 
 ## Remarks
 
-The  **DOUBLE** returned represents the ratio of the picture?s width to its height.
+The **DOUBLE** returned represents the ratio of the picture?s width to its height.
 
 

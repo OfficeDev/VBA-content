@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlockTypes.Item Method (Word)
 
-Returns a  **BuildingBlockType** object that represents the specified item in the collection.
+Returns a **BuildingBlockType** object that represents the specified item in the collection.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSetup.AvailablePageSizes Property (Publisher)
 
-Returns the  **PageSizes** collection that contains all the **[PageSize](pagesize-object-publisher.md)** objects available in the current publication.
+Returns the **PageSizes** collection that contains all the **[PageSize](pagesize-object-publisher.md)** objects available in the current publication.
 
 
 ## Syntax
 
  _expression_. **AvailablePageSizes**
 
- _expression_A variable that represents a  **PageSetup** object.
+ _expression_A variable that represents a **PageSetup** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ PageSizes
 
  **PageSize** objects correspond to the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
 
-Page sizes returned by the  **AvailablePageSizes** property include not only the page sizes provided by Microsoft Publisher, but also custom page sizes that you create or download, if any.
+Page sizes returned by the **AvailablePageSizes** property include not only the page sizes provided by Microsoft Publisher, but also custom page sizes that you create or download, if any.
 
 As you add or remove custom page sizes, the index number for all existing page sizes may change. 
 

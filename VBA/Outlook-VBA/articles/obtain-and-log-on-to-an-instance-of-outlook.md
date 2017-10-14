@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Obtain and Log On to an Instance of Outlook
 
-This topic shows how to obtain an  **[Application](application-object-outlook.md)** object that represents an active instance of Outlook, if there is one running on the local computer, or to create a new instance of Outlook, log on to the default profile, and return that instance of Outlook.
+This topic shows how to obtain an **[Application](application-object-outlook.md)** object that represents an active instance of Outlook, if there is one running on the local computer, or to create a new instance of Outlook, log on to the default profile, and return that instance of Outlook.
 
 Helmut Obertanner provided the following code samples. Helmut is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/default.aspx) with expertise in Microsoft Office development tools in Microsoft Visual Studio and Microsoft Office Outlook.
 
@@ -16,7 +16,7 @@ The following managed code samples are written in C# and Visual Basic. To run a 
 
 For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. 
 
-You should use the following code samples in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the  **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
+You should use the following code samples in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
 The following code samples contain the  `GetApplicationObject` method of the `Sample` class, implemented as part of an Outlook add-in project. Each project adds a reference to the Outlook PIA, which is based on the **Microsoft.Office.Interop.Outlook** namespace.
 

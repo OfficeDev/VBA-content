@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.ThemeFont Property (Excel)
 
-Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write  **[XlThemeFont](xlthemefont-enumeration-excel.md)** .
+Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write **[XlThemeFont](xlthemefont-enumeration-excel.md)** .
 
 
 ## Syntax

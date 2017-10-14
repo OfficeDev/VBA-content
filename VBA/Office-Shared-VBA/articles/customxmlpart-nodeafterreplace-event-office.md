@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.NodeAfterReplace Event (Office)
 
-Occurs just after a node is replaced in a  **CustomXMLPart** object.
+Occurs just after a node is replaced in a **CustomXMLPart** object.
 
 
 ## Syntax
@@ -29,9 +29,9 @@ Occurs just after a node is replaced in a  **CustomXMLPart** object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _OldNode_|Required|**CustomXMLNode**|Corresponds to the node which was just removed from the  **CustomXMLPart** object. Note that this node may have children, if a subtree was just added to the document. Also, this node will be a "disconnected" node in that you can query down from the node, but cannot go up - it appears to exist alone.|
-| _NewNode_|Required|**CustomXMLNode**|Corresponds to the node just added to the  **CustomXMLPart** object.|
-| _InUndoRedo_|Required|**Boolean**|Returns  **TRUE** if the node was added as part of an Undo/Redo action by the user.|
+| _OldNode_|Required|**CustomXMLNode**|Corresponds to the node which was just removed from the **CustomXMLPart** object. Note that this node may have children, if a subtree was just added to the document. Also, this node will be a "disconnected" node in that you can query down from the node, but cannot go up - it appears to exist alone.|
+| _NewNode_|Required|**CustomXMLNode**|Corresponds to the node just added to the **CustomXMLPart** object.|
+| _InUndoRedo_|Required|**Boolean**|Returns **TRUE** if the node was added as part of an Undo/Redo action by the user.|
 
 ## Example
 

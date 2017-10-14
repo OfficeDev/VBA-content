@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkOptionButton.Value Property (Outlook)
 
-Returns or sets a  **Variant** that represents the state of the control. Read/write.
+Returns or sets a **Variant** that represents the state of the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Variant** that represents the state of the control. Read/wr
 
 ## Remarks
 
-For the option button control, the value is either  **True** or **False** , representing whether the button has been selected or not. The default value is **False** .
+For the option button control, the value is either **True** or **False** , representing whether the button has been selected or not. The default value is **False** .
 
 
 ## See also

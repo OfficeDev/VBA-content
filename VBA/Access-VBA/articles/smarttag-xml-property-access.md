@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SmartTag.XML Property (Access)
 
-Returns a  **String** that represents the related XML code for a smart tag. Read-only.
+Returns a **String** that represents the related XML code for a smart tag. Read-only.
 
 
 ## Syntax

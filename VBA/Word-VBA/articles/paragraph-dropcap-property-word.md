@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.DropCap Property (Word)
 
-Returns a  **[DropCap](dropcap-object-word.md)** object that represents a dropped capital letter for the specified paragraph. Read-only.
+Returns a **[DropCap](dropcap-object-word.md)** object that represents a dropped capital letter for the specified paragraph. Read-only.
 
 
 ## Syntax

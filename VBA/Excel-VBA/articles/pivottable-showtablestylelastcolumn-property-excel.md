@@ -8,7 +8,7 @@ ms.prod: excel
 
 # PivotTable.ShowTableStyleLastColumn Property (Excel)
 
-Returns or sets if the last column is displayed for the specified  **PivotTable** object. Read/Write. **Boolean** .
+Returns or sets if the last column is displayed for the specified **PivotTable** object. Read/Write. **Boolean** .
 
 
 ## Syntax

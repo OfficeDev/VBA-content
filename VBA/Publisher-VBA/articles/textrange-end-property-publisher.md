@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.End Property (Publisher)
 
-Sets or returns a  **Long** that represents the ending character position of a selection or text range. Read/write.
+Sets or returns a **Long** that represents the ending character position of a selection or text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **End**
 
- _expression_A variable that represents an  **TextRange** object.
+ _expression_A variable that represents an **TextRange** object.
 
 
 ### Return Value

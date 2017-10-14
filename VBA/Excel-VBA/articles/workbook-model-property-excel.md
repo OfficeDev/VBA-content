@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Workbook.Model Property (Excel)
 
-Returns the top level  **Model** object which is the one Data Model for the workbook. Read-only
+Returns the top level **Model** object which is the one Data Model for the workbook. Read-only
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.Slicers Property (Excel)
 
-Returns a  **[Slicers](slicers-object-excel.md)** collection that contains the collection of **[Slicer](slicer-object-excel.md)** objects associated with the specified **[SlicerCache](slicercache-object-excel.md)** . Read-only
+Returns a **[Slicers](slicers-object-excel.md)** collection that contains the collection of **[Slicer](slicer-object-excel.md)** objects associated with the specified **[SlicerCache](slicercache-object-excel.md)** . Read-only
 
 
 ## Syntax

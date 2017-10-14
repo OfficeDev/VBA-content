@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Comment.Done Property (Word)
 
-Returns or sets a  **Boolean** whose value is **true** if the specified comment has been marked closed. Read-write.
+Returns or sets a **Boolean** whose value is **true** if the specified comment has been marked closed. Read-write.
 
 
 ## Syntax

@@ -17,7 +17,7 @@ The following [constants](vbe-glossary.md) are defined in the Visual Basic for A
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-|**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
+|**vbUseCompareOption**|-1|Performs a comparison using the setting of the **Option Compare** statement.|
 |**vbBinaryCompare**|0|Performs a binary comparison.|
 |**vbTextCompare**|1|Performs a textual comparison.|
 |**vbDatabaseCompare**|2|For Microsoft Access (Windows only), performs a comparison based on information contained in your database.|

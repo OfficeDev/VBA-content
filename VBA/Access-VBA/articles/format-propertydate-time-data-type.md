@@ -12,14 +12,14 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can set the  **Format** property to predefined date and time formats or use custom formats for the Date/Time data type.
+You can set the **Format** property to predefined date and time formats or use custom formats for the Date/Time data type.
 
 
 ## Setting
 
  **Predefined Formats**
 
-The following table shows the predefined  **Format** property settings for the Date/Time data type.
+The following table shows the predefined **Format** property settings for the Date/Time data type.
 
 
 
@@ -29,7 +29,7 @@ The following table shows the predefined  **Format** property settings for the D
 |Long Date|Same as the Long Date setting in the regional settings of Windows. Example: Saturday, April 3, 1993.|
 |Medium Date|Example: 3-Apr-93.|
 |Short Date|Same as the Short Date setting in the regional settings of Windows. Example: 4/3/93.<table><tr><th>**Caution**</th></tr><tr><td>The Short Date setting assumes that dates between 1/1/00 and 12/31/29 are twenty-first century dates (that is, the years are assumed to be 2000 to 2029). Dates between 1/1/30 and 12/31/99 are assumed to be twentieth century dates (that is, the years are assumed to be 1930 to 1999).</td></tr></table>|
-|Long Time|Same as the setting on the  **Time** tab in the regional settings of Windows. Example: 5:34:23 PM.|
+|Long Time|Same as the setting on the **Time** tab in the regional settings of Windows. Example: 5:34:23 PM.|
 |Medium Time|Example: 5:34 PM.|
 |Short Time|Example: 17:34.|
  **Custom Formats**

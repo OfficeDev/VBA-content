@@ -15,7 +15,7 @@ It may not be possible to obtain a reference to a [property](vbe-glossary.md) at
 
 
 
-- You tried to get a reference to a property that's read-only at run time. Since you can use a reference for both reading and writing, the property must provide run-time support for both operations for a reference to be obtained at run time. You can only use a  **Property Get** with this property.
+- You tried to get a reference to a property that's read-only at run time. Since you can use a reference for both reading and writing, the property must provide run-time support for both operations for a reference to be obtained at run time. You can only use a **Property Get** with this property.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

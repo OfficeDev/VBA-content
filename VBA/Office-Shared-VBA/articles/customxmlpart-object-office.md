@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomXMLPart Object (Office)
 
-Represents a single  **CustomXMLPart** in a **CustomXMLParts** collection.
+Represents a single **CustomXMLPart** in a **CustomXMLParts** collection.
 
 
 ## Example
 
-The following example adds a part to a  **CustomXMLPart** object.
+The following example adds a part to a **CustomXMLPart** object.
 
 
 ```

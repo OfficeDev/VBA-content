@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ParentGroup Property (Word)
 
-Returns a  **Shape** object that represents the common parent shape of a range of shapes.
+Returns a **Shape** object that represents the common parent shape of a range of shapes.
 
 
 ## Syntax

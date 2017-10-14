@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.GridlineWidthLeft Property (Access)
 
-Gets or sets the width of the left gridline for the specified combo box. Read/write  **Byte**.
+Gets or sets the width of the left gridline for the specified combo box. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the left gridline for the specified combo box. Read/wr
 
 ## Remarks
 
-The  **LeftGridlineWidth** property uses the following settings.
+The **LeftGridlineWidth** property uses the following settings.
 
 
 

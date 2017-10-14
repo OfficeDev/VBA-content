@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyboardEvent.KeyCode Property (Visio)
 
-Returns the key associated with  **KeyDown** and **KeyUp** events. Read-only.
+Returns the key associated with **KeyDown** and **KeyUp** events. Read-only.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ Long
 
 ## Remarks
 
-Possible values for  **KeyCode** are declared in **KeyCodeConstants** in the Microsoft Visual Basic for Applications (VBA) library.
+Possible values for **KeyCode** are declared in **KeyCodeConstants** in the Microsoft Visual Basic for Applications (VBA) library.
 
 
 ## Example
 
-This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown** , **KeyPress** , and **KeyUp** events.
+This class module shows how to define a sink class called **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown** , **KeyPress** , and **KeyUp** events.
 
-To run this example, insert a new class module in your VBA project, name it  **KeyboardListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it **KeyboardListener** , and insert the following code in the module.
 
 
 
@@ -78,7 +78,7 @@ Private Sub vsoWindow_KeyUp(ByVal KeyCode As Long, ByVal KeyButtonState As Long,
 End Sub
 ```
 
-Then, insert the following code in the  **ThisDocument** project.
+Then, insert the following code in the **ThisDocument** project.
 
 
 
@@ -99,6 +99,6 @@ Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument)
 End Sub
 ```
 
-Save the document to initialize the class, and then press any key to fire a  **KeyDown** event. In the Immediate window, the handler prints the code of the key that was pressed to fire the event and the state of the SHIFT and CTRL keys at the time the event fired.
+Save the document to initialize the class, and then press any key to fire a **KeyDown** event. In the Immediate window, the handler prints the code of the key that was pressed to fire the event and the state of the SHIFT and CTRL keys at the time the event fired.
 
 

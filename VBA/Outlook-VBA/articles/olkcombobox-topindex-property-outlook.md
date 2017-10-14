@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.TopIndex Property (Outlook)
 
-Returns or sets a  **Long** that represents the index of the item at the top of the displayed portion of the list in the combo box. Read/write.
+Returns or sets a **Long** that represents the index of the item at the top of the displayed portion of the list in the combo box. Read/write.
 
 
 ## Syntax

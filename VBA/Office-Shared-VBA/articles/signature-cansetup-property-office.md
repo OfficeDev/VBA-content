@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Signature.CanSetup Property (Office)
 
-Gets a  **Boolean** value indicating whether the user can set properties of the **Signature** object. Read-only.
+Gets a **Boolean** value indicating whether the user can set properties of the **Signature** object. Read-only.
 
 
 ## Syntax

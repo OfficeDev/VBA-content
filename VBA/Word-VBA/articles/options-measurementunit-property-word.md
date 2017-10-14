@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MeasurementUnit Property (Word)
 
-Returns or sets the standard measurement unit for Microsoft Word. Read/write  **WdMeasurementUnits** .
+Returns or sets the standard measurement unit for Microsoft Word. Read/write **WdMeasurementUnits** .
 
 
 ## Syntax

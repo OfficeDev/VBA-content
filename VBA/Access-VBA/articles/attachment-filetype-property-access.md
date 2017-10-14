@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.FileType Property (Access)
 
-Returns the file extension of the specifed attachment. Read-only  **String**.
+Returns the file extension of the specifed attachment. Read-only **String**.
 
 
 ## Syntax

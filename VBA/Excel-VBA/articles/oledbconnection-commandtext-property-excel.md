@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.CommandText Property (Excel)
 
-Returns or sets the command string for the specified data source. Read/write  **Variant** .
+Returns or sets the command string for the specified data source. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the command string for the specified data source. Read/write  **
 
 ## Remarks
 
-You should use the  **CommandText** property instead of the **SQL** property, which now exists primarily for compatibility with earlier versions of Microsoft Excel. If you use both properties, the **CommandText** property's value takes precedence.
+You should use the **CommandText** property instead of the **SQL** property, which now exists primarily for compatibility with earlier versions of Microsoft Excel. If you use both properties, the **CommandText** property's value takes precedence.
 
-The  **[CommandType](oledbconnection-commandtype-property-excel.md)** property describes the value of the **CommandText** property.
+The **[CommandType](oledbconnection-commandtype-property-excel.md)** property describes the value of the **CommandText** property.
 
 
 ## See also

@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # AllQueries Object (Access)
 
-The  **AllQueries** collection contains an **[AccessObject](accessobject-object-access.md)** for each query in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
+The **AllQueries** collection contains an **[AccessObject](accessobject-object-access.md)** for each query in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
 
 
 ## Remarks
 
-The  **CurrentData** or **CodeData** object has an **AllQueries** collection containing **AccessObject** objects that describe instances of all queries specified by **CurrentData** or **CodeData**. For example, you can enumerate the **AllQueries** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
+The **CurrentData** or **CodeData** object has an **AllQueries** collection containing **AccessObject** objects that describe instances of all queries specified by **CurrentData** or **CodeData**. For example, you can enumerate the **AllQueries** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
 
-You can refer to an individual  **AccessObject** object in the **AllQueries** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllQueries** collection, it's better to refer to the query by name because a query's collection index may change.
+You can refer to an individual **AccessObject** object in the **AllQueries** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllQueries** collection, it's better to refer to the query by name because a query's collection index may change.
 
-The  **AllQueries** collection is indexed beginning with zero. If you refer to a query by its index, the first query is AllQueries(0), the second query is AllQueries(1), and so on.
+The **AllQueries** collection is indexed beginning with zero. If you refer to a query by its index, the first query is AllQueries(0), the second query is AllQueries(1), and so on.
 
 
  **Note**  
@@ -30,7 +30,7 @@ The  **AllQueries** collection is indexed beginning with zero. If you refer to a
 
 ## Example
 
-The following example prints the name of each open  **AccessObject** object in the **AllQueries** collection.
+The following example prints the name of each open **AccessObject** object in the **AllQueries** collection.
 
 
 ```

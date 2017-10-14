@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisPrimaryKeySettings Enumeration (Visio)
 
-Primary key settings constants passed to the  **[DataRecordset.SetPrimaryKey](datarecordset-setprimarykey-method-visio.md)** method and returned by the **[DataRecordset.GetPrimaryKey](datarecordset-getprimarykey-method-visio.md)** method.
+Primary key settings constants passed to the **[DataRecordset.SetPrimaryKey](datarecordset-setprimarykey-method-visio.md)** method and returned by the **[DataRecordset.GetPrimaryKey](datarecordset-getprimarykey-method-visio.md)** method.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

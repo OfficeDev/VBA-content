@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisFixedFormatTypes Enumeration (Visio)
 
-File format types passed to the  **Document.ExportAsFixedFormat** method.
+File format types passed to the **Document.ExportAsFixedFormat** method.
 
 
 

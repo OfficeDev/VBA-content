@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Words.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Words** object.
+Returns an **Object** that represents the parent object of the specified **Words** object.
 
 
 ## Syntax

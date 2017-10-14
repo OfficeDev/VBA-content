@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCheckBox.Value Property (Publisher)
 
-Returns or sets a  **String** that represents the value of a Web check box or option button. Read/write.
+Returns or sets a **String** that represents the value of a Web check box or option button. Read/write.
 
 
 ## Syntax
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **WebCheckBox** object.
+ _expression_A variable that represents a **WebCheckBox** object.
 
 
 ## Example

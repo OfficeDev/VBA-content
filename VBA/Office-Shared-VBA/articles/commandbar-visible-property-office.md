@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.Visible Property (Office)
 
-Gets or sets the  **Visible** property of the command bar. **True** if the command bar is visible. Read/write.
+Gets or sets the **Visible** property of the command bar. **True** if the command bar is visible. Read/write.
 
 
 ## 
@@ -36,14 +36,14 @@ Boolean
 
 ## Remarks
 
-The  **Visible** property for newly created custom command bars is **False** by default.
+The **Visible** property for newly created custom command bars is **False** by default.
 
-The  **Enabled** property for a command bar must be set to **True** before the **Visible** property is set to **True**.
+The **Enabled** property for a command bar must be set to **True** before the **Visible** property is set to **True**.
 
 
 ## Example
 
-This example steps through the collection of command bars to find the  **Forms** command bar. If the **Forms** command bar is found, the example makes it visible and protects its docking state.
+This example steps through the collection of command bars to find the **Forms** command bar. If the **Forms** command bar is found, the example makes it visible and protects its docking state.
 
 
 ```

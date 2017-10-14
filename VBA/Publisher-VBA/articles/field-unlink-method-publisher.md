@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Field.Unlink Method (Publisher)
 
-Replaces the specified field or  **[Fields](fields-object-publisher.md)** collection with with their most recent results.
+Replaces the specified field or **[Fields](fields-object-publisher.md)** collection with with their most recent results.
 
 
 ## Syntax
 
  _expression_. **Unlink**
 
- _expression_A variable that represents a  **Field** object.
+ _expression_A variable that represents a **Field** object.
 
 
 ## Remarks

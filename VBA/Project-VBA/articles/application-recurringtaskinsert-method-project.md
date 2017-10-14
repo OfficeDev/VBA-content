@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RecurringTaskInsert Method (Project)
 
-Displays the  **Recurring Task Information** dialog box, which prompts the user to insert a recurring task.
+Displays the **Recurring Task Information** dialog box, which prompts the user to insert a recurring task.
 
 
 ## Syntax

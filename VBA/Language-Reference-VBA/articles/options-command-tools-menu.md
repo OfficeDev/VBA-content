@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Options Command (Tools Menu)
 
-Displays the  **Options** dialog box, from which you can choose a tab to set attributes of the Visual Basic programming environment.
+Displays the **Options** dialog box, from which you can choose a tab to set attributes of the Visual Basic programming environment.
 
 
 ## Tabs

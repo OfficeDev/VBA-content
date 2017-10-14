@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.RibbonName Property (Access)
 
-Gets or set the name of the customized ribbon to be displayed when the specified report is loaded. Read/write  **String**.
+Gets or set the name of the customized ribbon to be displayed when the specified report is loaded. Read/write **String**.
 
 
 ## Syntax

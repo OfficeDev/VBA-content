@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # List Object (Project)
 
-Represents a collection of strings or numbers that contain field identification numbers, field names, reports, resource filters, resource tables, resource views, task filters, task tables, task views, or views. (There is no collection for  **List** objects.) It can be accessed through the **List** properties of the appropriate objects.
+Represents a collection of strings or numbers that contain field identification numbers, field names, reports, resource filters, resource tables, resource views, task filters, task tables, task views, or views. (There is no collection for **List** objects.) It can be accessed through the **List** properties of the appropriate objects.
 
 
 ## Example
 
  **Using the List Object**
 
-Use a property such as the  **[ReportList](http://msdn.microsoft.com/library/0c688797-21cc-eaa0-0ebf-95e1e053f222%28Office.15%29.aspx)** property to return a **List** object. The following example displays a list of all the reports available in the active project.
+Use a property such as the **[ReportList](http://msdn.microsoft.com/library/0c688797-21cc-eaa0-0ebf-95e1e053f222%28Office.15%29.aspx)** property to return a **List** object. The following example displays a list of all the reports available in the active project.
 
 
 

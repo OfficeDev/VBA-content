@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisPageTypes Enumeration (Visio)
 
-Type codes returned by the  **Page.Type** property.
+Type codes returned by the **Page.Type** property.
 
 
 

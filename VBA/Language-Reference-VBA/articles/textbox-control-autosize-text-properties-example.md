@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # TextBox Control, AutoSize, Text Properties Example
 
-The following example demonstrates the effects of the  **AutoSize** property with a single-line **TextBox** and a multiline **TextBox**. The user can enter text into either **TextBox** and turn **AutoSize** on or off independently of the contents of the **TextBox**. This code sample also uses the **Text** property.
+The following example demonstrates the effects of the **AutoSize** property with a single-line **TextBox** and a multiline **TextBox**. The user can enter text into either **TextBox** and turn **AutoSize** on or off independently of the contents of the **TextBox**. This code sample also uses the **Text** property.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataFields.Count Property (Word)
 
-Returns a  **Long** that represents the number of mail merge data fields in the collection. Read-only.
+Returns a **Long** that represents the number of mail merge data fields in the collection. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisUnitCodes Enumeration (Visio)
 
-Unit codes used in conjunction with  **Cell.Result** and similar properties.
+Unit codes used in conjunction with **Cell.Result** and similar properties.
 
 
 

@@ -36,11 +36,11 @@ A unique number or string that corresponds to a specific object in an applicatio
 
 
  **control group**
-A set of controls that are conceptually or logically related. Controls that are conceptually related are usually viewed together but do not necessarily affect each other. Controls that are logically related affect each other. For example, setting one button in a group of option buttons sets the value of all other buttons in the group to  **False**.
+A set of controls that are conceptually or logically related. Controls that are conceptually related are usually viewed together but do not necessarily affect each other. Controls that are logically related affect each other. For example, setting one button in a group of option buttons sets the value of all other buttons in the group to **False**.
 
 
  **control tip**
-A brief phrase that describes a control, a  **Page**, or a **Tab**. The control tip appears when the user briefly holds the mouse pointer over a control without clicking. A control tip is similar to a ToolTip. Microsoft Forms provides ToolTips to developers at design time, while developers provide control tips to end-users at run time.
+A brief phrase that describes a control, a **Page**, or a **Tab**. The control tip appears when the user briefly holds the mouse pointer over a control without clicking. A control tip is similar to a ToolTip. Microsoft Forms provides ToolTips to developers at design time, while developers provide control tips to end-users at run time.
 
 
  **cursor**
@@ -56,11 +56,11 @@ The structure or appearance of a unit of data, such as a file, a database record
 
 
  **data source**
-The location of data to which a control is bound, for example, a cell in a worksheet. The current value of the data source can be stored in the  **Value** property of a control. However, the control does not store the data; it only displays the information that is stored in the data source.
+The location of data to which a control is bound, for example, a cell in a worksheet. The current value of the data source can be stored in the **Value** property of a control. However, the control does not store the data; it only displays the information that is stored in the data source.
 
 
  **dominant control**
-A reference for the  **Align** command and **Make Same Size** command on the **Format** menu. When aligning controls, the selected controls align to the dominant control. When sizing controls, the selected controls are assigned the dimensions of the dominant control.
+A reference for the **Align** command and **Make Same Size** command on the **Format** menu. When aligning controls, the selected controls align to the dominant control. When sizing controls, the selected controls are assigned the dimensions of the dominant control.
 The dominant control is indicated by white sizing handles. The sizing handles of the other selected controls are black.
 
 
@@ -121,7 +121,7 @@ An object onto which the user drops the object being dragged.
 
 
  **transparent**
-Describes the background of the object if the background is not visible. Instead of the background, you see whatever is behind the object, for example, an image or picture used as a backdrop in your application. Use the  **BackStyle** property to make the background transparent.
+Describes the background of the object if the background is not visible. Instead of the background, you see whatever is behind the object, for example, an image or picture used as a backdrop in your application. Use the **BackStyle** property to make the background transparent.
 
 
  **unbound**

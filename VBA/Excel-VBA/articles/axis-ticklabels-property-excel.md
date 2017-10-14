@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickLabels Property (Excel)
 
-Returns a  **[TickLabels](ticklabels-object-excel.md)** object that represents the tick-mark labels for the specified axis. Read-only.
+Returns a **[TickLabels](ticklabels-object-excel.md)** object that represents the tick-mark labels for the specified axis. Read-only.
 
 
 ## Syntax

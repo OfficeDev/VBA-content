@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.Hidden Property (Outlook)
 
-Returns a  **Boolean** value that indicates **True** to cause the specified custom form to be hidden. Read/write.
+Returns a **Boolean** value that indicates **True** to cause the specified custom form to be hidden. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates **True** to cause the specified cust
 
 ## Remarks
 
-The custom form will not appear on the menu or in the  **Choose Form** dialog box and will be used only if it is designated as the response form from another custom form. The default value is **False** .
+The custom form will not appear on the menu or in the **Choose Form** dialog box and will be used only if it is designated as the response form from another custom form. The default value is **False** .
 
 
 ## See also

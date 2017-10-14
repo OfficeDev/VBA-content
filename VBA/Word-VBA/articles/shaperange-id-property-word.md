@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ID Property (Word)
 
-Returns the identification type for the range of shapes. Read-only  **Long** .
+Returns the identification type for the range of shapes. Read-only **Long** .
 
 
 ## Syntax

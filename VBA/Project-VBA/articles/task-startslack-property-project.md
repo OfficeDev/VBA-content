@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.StartSlack Property (Project)
 
-Gets the starting slack time of a task in minutes. Read-only  **Variant**.
+Gets the starting slack time of a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

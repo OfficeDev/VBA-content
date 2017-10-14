@@ -15,14 +15,14 @@ Adds existing [modules](vbe-glossary.md) and forms to your project or saves a mo
 
  **Import File**
 
-Displays the  **Import** **Files** dialog box which allows you to add an existing module or form to the project. A copy of the file is added to the project and the original file is left intact. If you import a form or module with the same name as an existing one, the file is added with a number appended to it.
+Displays the **Import** **Files** dialog box which allows you to add an existing module or form to the project. A copy of the file is added to the project and the original file is left intact. If you import a form or module with the same name as an existing one, the file is added with a number appended to it.
 
-Imported components appear in the  **Project** **Explorer** window.
+Imported components appear in the **Project** **Explorer** window.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_impt_ZA01201709.gif). Keyboard shortcut: CTRL+M.
  **Export File**
-Displays the  **Export** **File** dialog box so that you can extract the active form or module from the project. The file is copied into an external file.
-Not available if you have not selected a file in the  **Project** **Explorer**.
+Displays the **Export** **File** dialog box so that you can extract the active form or module from the project. The file is copied into an external file.
+Not available if you have not selected a file in the **Project** **Explorer**.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_expt_ZA01201702.gif). Keyboard shortcut: CTRL+E.
 

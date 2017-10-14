@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HiLoLines.Border Property (PowerPoint)
 
-Returns the border of the object. Read-only  **[ChartBorder](chartborder-object-powerpoint.md)**.
+Returns the border of the object. Read-only **[ChartBorder](chartborder-object-powerpoint.md)**.
 
 
 ## Syntax

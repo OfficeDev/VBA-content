@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.ClearHitHighlight Method (Word)
 
-Removes the highlighting for all text located in a hit highlighting find operation, and returns a  **Boolean** that represents whether the operation was successful.
+Removes the highlighting for all text located in a hit highlighting find operation, and returns a **Boolean** that represents whether the operation was successful.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-Use the  **[HitHighlight](find-hithighlight-method-word.md)** method to highlight found text.
+Use the **[HitHighlight](find-hithighlight-method-word.md)** method to highlight found text.
 
 
 ## See also

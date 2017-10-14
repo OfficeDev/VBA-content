@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MoveFromTextColor Property (Word)
 
-Returns or sets a  **[WdColorIndex](wdcolorindex-enumeration-word.md)** constant that represents the color of moved text. Read/write.
+Returns or sets a **[WdColorIndex](wdcolorindex-enumeration-word.md)** constant that represents the color of moved text. Read/write.
 
 
 ## Syntax

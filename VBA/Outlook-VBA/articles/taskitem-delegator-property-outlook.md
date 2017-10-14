@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.Delegator Property (Outlook)
 
-Returns a  **String** representing the display name of the delegator for the task. Read-only.
+Returns a **String** representing the display name of the delegator for the task. Read-only.
 
 
 ## Syntax

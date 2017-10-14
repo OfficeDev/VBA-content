@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # DropCap.Span Property (Publisher)
 
-Returns or sets a  **Long** that represents the number of letters included in the specified dropped capital letter. Read/write.
+Returns or sets a **Long** that represents the number of letters included in the specified dropped capital letter. Read/write.
 
 
 ## Syntax
 
  _expression_. **Span**
 
- _expression_A variable that represents a  **DropCap** object.
+ _expression_A variable that represents a **DropCap** object.
 
 
 ### Return Value

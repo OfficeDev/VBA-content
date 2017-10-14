@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OrderField.ViewXMLSchemaName Property (Outlook)
 
-Returns a  **String** value that represents the XML schema name for the property referenced by the **[OrderField](orderfield-object-outlook.md)** object. Read-only.
+Returns a **String** value that represents the XML schema name for the property referenced by the **[OrderField](orderfield-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **String** value that represents the XML schema name for the property
 
 ## Remarks
 
-The value of this property contains the name of the property as it is included within the XML definition of the view containing the  **ViewField** object. This value may not match the name used to refer to the property when the **OrderField** object was defined.
+The value of this property contains the name of the property as it is included within the XML definition of the view containing the **ViewField** object. This value may not match the name used to refer to the property when the **OrderField** object was defined.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[SortFields](tableview-sortfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[SortFields](tableview-sortfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **OrderField** object in the collection.
 
 
 ```vb

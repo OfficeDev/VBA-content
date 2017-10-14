@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Icons Used in the Object Browser and Code Windows
 
-The  **Object** **Browser** and **Code** window contain many icons that represent classes and members. The following is a list of icons and what they represent.
+The **Object** **Browser** and **Code** window contain many icons that represent classes and members. The following is a list of icons and what they represent.
 
 
 

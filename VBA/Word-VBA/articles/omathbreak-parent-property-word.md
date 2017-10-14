@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBreak.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **OMathBreak** object.
+Returns an **Object** that represents the parent object of the specified **OMathBreak** object.
 
 
 ## Syntax

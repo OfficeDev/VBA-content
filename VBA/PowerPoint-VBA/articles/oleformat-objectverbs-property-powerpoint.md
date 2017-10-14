@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.ObjectVerbs Property (PowerPoint)
 
-Returns a  **[ObjectVerbs](objectverbs-object-powerpoint.md)** collection that contains all the OLE verbs for the specified OLE object. Read-only.
+Returns a **[ObjectVerbs](objectverbs-object-powerpoint.md)** collection that contains all the OLE verbs for the specified OLE object. Read-only.
 
 
 ## Syntax

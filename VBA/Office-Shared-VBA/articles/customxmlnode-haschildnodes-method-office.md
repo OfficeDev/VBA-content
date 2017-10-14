@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.HasChildNodes Method (Office)
 
-Gets  **True** if the current element node has child element nodes.
+Gets **True** if the current element node has child element nodes.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-This method will always return  **False** when **CustomXMLNode** isn't of node type **msoCustomXMLNodeElement**.
+This method will always return **False** when **CustomXMLNode** isn't of node type **msoCustomXMLNodeElement**.
 
 
 ## Example

@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Frame.InsideHeight Property (Outlook Forms Script)
 
-Returns a  **Long** that specifies the height, in points, of the client region inside a **[Frame](frame-object-outlook-forms-script.md)**. Read-only.
+Returns a **Long** that specifies the height, in points, of the client region inside a **[Frame](frame-object-outlook-forms-script.md)**. Read-only.
 
 
 ## Syntax
 
  _expression_. **InsideHeight**
 
- _expression_A variable that represents a  **Frame** object.
+ _expression_A variable that represents a **Frame** object.
 
 

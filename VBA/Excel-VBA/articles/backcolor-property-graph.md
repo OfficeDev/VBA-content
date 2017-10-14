@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # BackColor Property (Graph)
 
-Returns a  **ChartColorFormat** object that represents the fill background color.
+Returns a **ChartColorFormat** object that represents the fill background color.
 
 
 ## Example

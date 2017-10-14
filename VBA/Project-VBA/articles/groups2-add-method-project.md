@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Groups2.Add Method (Project)
 
-Adds a  **[Group2](group2-object-project.md)** object to a **Groups2** collection.
+Adds a **[Group2](group2-object-project.md)** object to a **Groups2** collection.
 
 
 ## Syntax

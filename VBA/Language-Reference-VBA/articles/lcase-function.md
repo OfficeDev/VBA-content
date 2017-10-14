@@ -22,7 +22,7 @@ Only uppercase letters are converted to lowercase; all lowercase letters and non
 
 ## Example
 
-This example uses the  **LCase** function to return a lowercase version of a string.
+This example uses the **LCase** function to return a lowercase version of a string.
 
 
 ```vb

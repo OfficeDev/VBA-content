@@ -39,6 +39,6 @@ Selects cells upward from the current selection.
 
 ## Remarks
 
-The  **SelectCellUp** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
+The **SelectCellUp** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
 

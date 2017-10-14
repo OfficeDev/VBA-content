@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GetOpenFilename Method (Excel)
 
-Displays the standard  **Open** dialog box and gets a file name from the user without actually opening any files.
+Displays the standard **Open** dialog box and gets a file name from the user without actually opening any files.
 
 
 ## Syntax
@@ -55,7 +55,7 @@ This method may change the current drive or folder.
 
 ## Example
 
-This example displays the  **Open** dialog box, with the file filter set to text files. If the user chooses a file name, the code displays that file name in a message box.
+This example displays the **Open** dialog box, with the file filter set to text files. If the user chooses a file name, the code displays that file name in a message box.
 
 
 ```vb

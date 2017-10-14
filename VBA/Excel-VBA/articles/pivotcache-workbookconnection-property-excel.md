@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.WorkbookConnection Property (Excel)
 
-Establishes a connection between the current workbook and the  **PivotCache** object. Read-only.
+Establishes a connection between the current workbook and the **PivotCache** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Establishes a connection between the current workbook and the  **PivotCache** ob
 
 ## Remarks
 
-The  **WorkbookConnection** object represents a connection to an external data source.
+The **WorkbookConnection** object represents a connection to an external data source.
 
 
 ## See also

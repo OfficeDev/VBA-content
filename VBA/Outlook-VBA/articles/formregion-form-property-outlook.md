@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.Form Property (Outlook)
 
-Returns an  **Object** representing the **MSForms.UserForm** object. Read-only.
+Returns an **Object** representing the **MSForms.UserForm** object. Read-only.
 
 
 ## Syntax

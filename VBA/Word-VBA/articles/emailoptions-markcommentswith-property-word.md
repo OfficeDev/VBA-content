@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.MarkCommentsWith Property (Word)
 
-Returns or sets the string with which Microsoft Word marks comments in e-mail messages. Read/write  **String** .
+Returns or sets the string with which Microsoft Word marks comments in e-mail messages. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the string with which Microsoft Word marks comments in e-mail me
 
 ## Remarks
 
-The default value is the value of the  **[UserName](application-username-property-word.md)** property.
+The default value is the value of the **[UserName](application-username-property-word.md)** property.
 
 
 ## Example

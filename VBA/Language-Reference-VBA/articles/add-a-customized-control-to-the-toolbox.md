@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 1. Place a control on your form and customize it.
     
-2. For example, to create an  **OK** button, place a **CommandButton** on the form, set its **Caption** property to **OK** and set its **Default** property to **True**.
+2. For example, to create an **OK** button, place a **CommandButton** on the form, set its **Caption** property to **OK** and set its **Default** property to **True**.
     
 3. Select the customized control.
     

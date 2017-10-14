@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.SelectNodes Method (Office)
 
-Selects a collection of nodes matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectNodes** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
+Selects a collection of nodes matching an XPath expression. This method differs from the **CustomXMLPart**. **SelectNodes** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
 
 
 ## Syntax

@@ -36,10 +36,10 @@ nothing
 
 ## Remarks
 
-The  **ProjectBeforeAssignmentNew** event also fires when a resource assignment is replaced. Additionally, the event will fire when the only resource assignment on a task is removed, because an "Unassigned Resource" assignment is created after the existing assignment is removed.
+The **ProjectBeforeAssignmentNew** event also fires when a resource assignment is replaced. Additionally, the event will fire when the only resource assignment on a task is removed, because an "Unassigned Resource" assignment is created after the existing assignment is removed.
 
 Project events do not occur when the project is embedded in another document or application. 
 
-The  **ProjectBeforeAssignmentNew** event doesn't occur when an assignment is created as the result of a drag-and-drop operation in the ** Resource Usage** view, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
+The **ProjectBeforeAssignmentNew** event doesn't occur when an assignment is created as the result of a drag-and-drop operation in the ** Resource Usage** view, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
 
 

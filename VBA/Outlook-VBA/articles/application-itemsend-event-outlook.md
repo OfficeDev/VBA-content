@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ItemSend Event (Outlook)
 
-Occurs whenever an Microsoft Outlook item is sent, either by the user through an  **[Inspector](inspector-object-outlook.md)** (before the inspector is closed, but after the user clicks the **Send** button) or when the **[Send](mailitem-send-method-outlook.md)** method for an Outlook item, such as **[MailItem](mailitem-object-outlook.md)** , is used in a program.
+Occurs whenever an Microsoft Outlook item is sent, either by the user through an **[Inspector](inspector-object-outlook.md)** (before the inspector is closed, but after the user clicks the **Send** button) or when the **[Send](mailitem-send-method-outlook.md)** method for an Outlook item, such as **[MailItem](mailitem-object-outlook.md)** , is used in a program.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example shows how to cancel the  **ItemSend** event in response to user input. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example shows how to cancel the **ItemSend** event in response to user input. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
 
 
 ```vb

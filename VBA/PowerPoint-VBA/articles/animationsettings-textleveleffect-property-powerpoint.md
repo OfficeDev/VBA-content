@@ -30,9 +30,9 @@ PpTextLevelEffect
 
 ## Remarks
 
-For the  **TextLevelEffect** property setting to take effect, the **[Animate](animationsettings-animate-property-powerpoint.md)** property must be set to **True**.
+For the **TextLevelEffect** property setting to take effect, the **[Animate](animationsettings-animate-property-powerpoint.md)** property must be set to **True**.
 
-The value of the  **TextLevelEffect** property can be one of these **PpTextLevelEffect** constants.
+The value of the **TextLevelEffect** property can be one of these **PpTextLevelEffect** constants.
 
 
 ||

@@ -25,7 +25,7 @@ Saves the specified template.
 
 ## Remarks
 
-If the template has not been saved before, the  **Save As** dialog box prompts the user for a file name.
+If the template has not been saved before, the **Save As** dialog box prompts the user for a file name.
 
 
 ## See also

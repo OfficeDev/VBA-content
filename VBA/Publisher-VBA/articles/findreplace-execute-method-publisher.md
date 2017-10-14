@@ -20,7 +20,7 @@ Performs the specified Find or Replace operation.
 
  _expression_. **Execute**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value

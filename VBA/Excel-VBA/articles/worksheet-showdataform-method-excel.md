@@ -25,7 +25,7 @@ Displays the data form associated with the worksheet.
 
 ## Remarks
 
-The macro pauses while you're using the data form. When you close the data form, the macro resumes at the line following the  **ShowDataForm** method.
+The macro pauses while you're using the data form. When you close the data form, the macro resumes at the line following the **ShowDataForm** method.
 
 This method runs the custom data form, if one exists.
 

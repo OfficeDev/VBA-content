@@ -30,7 +30,7 @@ ShadowFormat
 
 ## Remarks
 
-You can control the appearance and behavior of a shadow applied to a table by setting the properties of the  **ShadowFormat** object returned by the **Shadow** property. For example, you can specify the color of the shadow, its degree of transparency, whether it rotates when the table shape is rotated, and whether it is visible.
+You can control the appearance and behavior of a shadow applied to a table by setting the properties of the **ShadowFormat** object returned by the **Shadow** property. For example, you can specify the color of the shadow, its degree of transparency, whether it rotates when the table shape is rotated, and whether it is visible.
 
 
 ## See also

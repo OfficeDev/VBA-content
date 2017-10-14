@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ShapeRange.AlternativeText Property (Publisher)
 
-Returns or sets a  **String** representing the text displayed by a Web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
+Returns or sets a **String** representing the text displayed by a Web browser in place of the **Shape** object while the **Shape** object is being downloaded or when graphics are turned off. Read/write.
 
 
 ## Syntax
 
  _expression_. **AlternativeText**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-The maximum length of the  **AlternativeText** property is 254 characters. Microsoft Publisher returns an error if the text length exceeds this number.
+The maximum length of the **AlternativeText** property is 254 characters. Microsoft Publisher returns an error if the text length exceeds this number.
 
 
 ## Example

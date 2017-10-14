@@ -25,7 +25,7 @@ Occurs whenever the specified PivotTable view query becomes necessary. The query
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **Query** event.
+The following example demonstrates the syntax for a subroutine that traps the **Query** event.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.LegendKey Property (PowerPoint)
 
-Returns the legend key that is associated with the entry. Read-only  **[LegendKey](legendkey-object-powerpoint.md)**.
+Returns the legend key that is associated with the entry. Read-only **[LegendKey](legendkey-object-powerpoint.md)**.
 
 
 ## Syntax

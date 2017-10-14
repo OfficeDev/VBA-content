@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.DictLang Property (Excel)
 
-Selects the dictionary language used when Microsoft Excel performs spelling checks. Read/write  **Long** .
+Selects the dictionary language used when Microsoft Excel performs spelling checks. Read/write **Long** .
 
 
 ## Syntax

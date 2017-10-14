@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.ChildItems Property (Excel)
 
-Returns an object that represents either a single PivotTable item (a  **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the items (a **[PivotItems](pivotitems-object-excel.md)** object) that are group children in the specified field, or children of the specified item. Read-only.
+Returns an object that represents either a single PivotTable item (a **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the items (a **[PivotItems](pivotitems-object-excel.md)** object) that are group children in the specified field, or children of the specified item. Read-only.
 
 
 ## Syntax

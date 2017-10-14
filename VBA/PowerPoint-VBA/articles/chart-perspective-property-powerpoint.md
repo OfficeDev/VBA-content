@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Perspective Property (PowerPoint)
 
-Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
+Returns or sets the perspective for the 3-D chart view. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
 
 ## Remarks
 
-The value of this property must be between 0 and 100. This property is ignored if the  **[RightAngleAxes](chart-rightangleaxes-property-powerpoint.md)** property is set to **True**.
+The value of this property must be between 0 and 100. This property is ignored if the **[RightAngleAxes](chart-rightangleaxes-property-powerpoint.md)** property is set to **True**.
 
 
 ## Example

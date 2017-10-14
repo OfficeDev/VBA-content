@@ -35,7 +35,7 @@ Inserts the specified text before the specified range.
 
 After the text is inserted, the range is expanded to include the new text. If the range is a bookmark, the bookmark is also expanded to include the next text.
 
-You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic  **Chr** function with the **InsertBefore** method. You can also use the following Visual Basic constants: **vbCr** , **vbLf** , **vbCrLf** and **vbTab** .
+You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic **Chr** function with the **InsertBefore** method. You can also use the following Visual Basic constants: **vbCr** , **vbLf** , **vbCrLf** and **vbTab** .
 
 
 ## Example

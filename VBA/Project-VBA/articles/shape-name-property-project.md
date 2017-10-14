@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Name Property (Project)
-Gets or sets the name of the shape. Read-write  **String**.
+Gets or sets the name of the shape. Read-write **String**.
 
 ## Syntax
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.Column Property (PowerPoint)
 
-Returns the  **[Column](column-object-powerpoint.md)** object that represents the columns of the specified text frame. Read-only.
+Returns the **[Column](column-object-powerpoint.md)** object that represents the columns of the specified text frame. Read-only.
 
 
 ## Syntax

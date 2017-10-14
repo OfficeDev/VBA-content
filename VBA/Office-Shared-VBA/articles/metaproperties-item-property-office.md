@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperties.Item Property (Office)
 
-Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-only.
+Gets a **MetaProperty** object from the **MetaProperties** collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-onl
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the  **MetaProperty** object to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the **MetaProperty** object to be returned.|
 
 ### Return Value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Period Property
 
-Returns or sets the period for the moving-average trendline. Read/write  **Long**.
+Returns or sets the period for the moving-average trendline. Read/write **Long**.
 
 
 ## Example

@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **Use Default Paper Size** property to specify whether or not the default paper size of the current printer is used when you print a form or report.
+You can use the **Use Default Paper Size** property to specify whether or not the default paper size of the current printer is used when you print a form or report.
 
 
 ## Setting
 
-The  **Use Default Paper Size** property uses the following settings.
+The **Use Default Paper Size** property uses the following settings.
 
 
 
@@ -31,7 +31,7 @@ The  **Use Default Paper Size** property uses the following settings.
 
 ## Remarks
 
-By default, when you print a form or report, Access uses the paper size that was specified when the form or report was designed. This can cause problems when the form or report is printed on a printer that uses a different default paper size. For example, you might design a form or report while connected to a printer that has a default paper size of A4. An error might occur when you print the form or report on a printer that has a default paper size of Letter. Setting the  **Use Default Paper Size** property to **Yes** prevents this problem from occurring.
+By default, when you print a form or report, Access uses the paper size that was specified when the form or report was designed. This can cause problems when the form or report is printed on a printer that uses a different default paper size. For example, you might design a form or report while connected to a printer that has a default paper size of A4. An error might occur when you print the form or report on a printer that has a default paper size of Letter. Setting the **Use Default Paper Size** property to **Yes** prevents this problem from occurring.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

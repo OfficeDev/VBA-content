@@ -18,7 +18,7 @@ Represents a shape range, which is a set of shapes on a document. A shape range 
 
 ## Remarks
 
-You can include whichever shapes you want — chosen from among all the shapes on the document or all the shapes in the selection — to construct a shape range. For example, you could construct a  **ShapeRange** collection that contains the first three shapes on a document, all the selected shapes on a document, or all the freeforms on a document.
+You can include whichever shapes you want — chosen from among all the shapes on the document or all the shapes in the selection — to construct a shape range. For example, you could construct a **ShapeRange** collection that contains the first three shapes on a document, all the selected shapes on a document, or all the freeforms on a document.
 
 For an overview of how to work with either a single shape or with more than one shape at a time, see [How to: Work with Shapes (Drawing Objects)](http://msdn.microsoft.com/library/3ffaaaea-6406-262b-2bc7-788699175266%28Office.15%29.aspx).
 
@@ -32,7 +32,7 @@ The following examples describe how to:
 
 ## Example
 
-Use  **Shapes.Range** (index), where index is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on `myDocument`.
+Use **Shapes.Range** (index), where index is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on `myDocument`.
 
 
 ```
@@ -60,7 +60,7 @@ myRange.Fill.Patterned msoPatternHorizontalBrick
 
 Although you can use the [Range](http://msdn.microsoft.com/library/5ee926d9-5b30-a26b-7365-f4709a1a7bdb%28Office.15%29.aspx)method to return any number of shapes or slides, it is simpler to use the [Item](http://msdn.microsoft.com/library/c93d269b-7405-6e3f-6d59-d1e18e7f0cb1%28Office.15%29.aspx)method if you want to return only a single member of the collection. For example,  `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
-Use the [ShapeRange](http://msdn.microsoft.com/library/3fd7aed0-ab63-adaa-1a46-c745b6c3e245%28Office.15%29.aspx)property of the  **Selection** object to return all the shapes in the selection. The following example sets the fill foreground color for all the shapes in the selection in window one, assuming that there's at least one shape in the selection.
+Use the [ShapeRange](http://msdn.microsoft.com/library/3fd7aed0-ab63-adaa-1a46-c745b6c3e245%28Office.15%29.aspx)property of the **Selection** object to return all the shapes in the selection. The following example sets the fill foreground color for all the shapes in the selection in window one, assuming that there's at least one shape in the selection.
 
 
 
@@ -71,7 +71,7 @@ Windows(1).Selection.ShapeRange.Fill.ForeColor _
     .RGB = RGB(255, 0, 255)
 ```
 
-Use  **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
+Use **Selection.ShapeRange** (index), where index is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
 
 
 

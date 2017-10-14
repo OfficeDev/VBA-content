@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2.Pattern Property (Project)
 
-Gets or sets the pattern of the cell for a field used as a criterion in a group definition. Read/write  **PjBackgroundPattern**.
+Gets or sets the pattern of the cell for a field used as a criterion in a group definition. Read/write **PjBackgroundPattern**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the pattern of the cell for a field used as a criterion in a group 
 
 ## Remarks
 
-The  **Pattern** property can be one of the **[PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md)** constants.
+The **Pattern** property can be one of the **[PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md)** constants.
 
 
 ## See also

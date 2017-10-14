@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Footnote.Reference Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents a footnote reference mark.
+Returns a **[Range](range-object-word.md)** object that represents a footnote reference mark.
 
 
 ## Syntax

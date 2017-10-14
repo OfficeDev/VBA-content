@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnterpriseTeamBuilder Method (Project)
 
-Displays the  **Build Team** dialog box. Available in Project Professional only.
+Displays the **Build Team** dialog box. Available in Project Professional only.
 
 
 ## Syntax

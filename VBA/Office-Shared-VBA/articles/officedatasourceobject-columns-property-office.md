@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.Columns Property (Office)
 
-Gets an  **ODSOColumns** object that represents the fields in a data source. Read-only.
+Gets an **ODSOColumns** object that represents the fields in a data source. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationControl.Span Property (Access)
 
-Gets or sets the orientation of the navigation buttons. Read/write  **[AcNavigationSpan](acnavigationspan-enumeration-access.md)**.
+Gets or sets the orientation of the navigation buttons. Read/write **[AcNavigationSpan](acnavigationspan-enumeration-access.md)**.
 
 
 ## Syntax

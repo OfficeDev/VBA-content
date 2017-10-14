@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCaption.CaptionLabel Property (Word)
 
-Returns or sets the caption label ("Figure," "Table," or "Equation," for example) of the specified caption. Read/write  **Variant** .
+Returns or sets the caption label ("Figure," "Table," or "Equation," for example) of the specified caption. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the caption label ("Figure," "Table," or "Equation," for example
 
 ## Remarks
 
-This property can be set to a string or a  **WdCaptionLabelID** constant.
+This property can be set to a string or a **WdCaptionLabelID** constant.
 
 
 ## Example

@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # How to: Simulate a Two-Dimensional Array with List Boxes
 
-The following example loads a two-dimensional array with data and, in turn, loads two  **[ListBox](listbox-object-outlook-forms-script.md)** controls using the **[Column](listbox-column-property-outlook-forms-script.md)** and **[List](listbox-list-property-outlook-forms-script.md)** properties. Note that the **Column** property transposes the array elements during loading.
+The following example loads a two-dimensional array with data and, in turn, loads two **[ListBox](listbox-object-outlook-forms-script.md)** controls using the **[Column](listbox-column-property-outlook-forms-script.md)** and **[List](listbox-list-property-outlook-forms-script.md)** properties. Note that the **Column** property transposes the array elements during loading.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains two **ListBox** controls named ListBox1 and ListBox2.
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains two **ListBox** controls named ListBox1 and ListBox2.
 
 
 

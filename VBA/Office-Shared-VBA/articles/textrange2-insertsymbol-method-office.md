@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.InsertSymbol Method (Office)
 
-Inserts a symbol from the specified font set into the range of text represented by the  **TextRange2** object.
+Inserts a symbol from the specified font set into the range of text represented by the **TextRange2** object.
 
 
 ## Syntax

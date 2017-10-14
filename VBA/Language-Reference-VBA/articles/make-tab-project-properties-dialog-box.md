@@ -38,7 +38,7 @@ Creates the version number for the project.
     
 - Revision — Revision version number of the project; 0-9999.
     
-- Auto Increment — If selected, automatically increases the Revision number by one each time you run the  **Make** **Project** command for this project.
+- Auto Increment — If selected, automatically increases the Revision number by one each time you run the **Make** **Project** command for this project.
     
 
 
@@ -61,6 +61,6 @@ Allows you to set the base address
 
  **Remove information about unused ActiveX Controls**
 
-Allows you to specify that even if a control is unused (present in the  **Toolbox**, but not referenced in code), its information will be retained. Uncheck this when you plan to dynamically add the referenced control at run time using the **Controls** collection's **Add** method.
+Allows you to specify that even if a control is unused (present in the **Toolbox**, but not referenced in code), its information will be retained. Uncheck this when you plan to dynamically add the referenced control at run time using the **Controls** collection's **Add** method.
 
 

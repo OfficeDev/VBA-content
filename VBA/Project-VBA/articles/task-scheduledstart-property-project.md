@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.ScheduledStart Property (Project)
 
-Gets the scheduled (as opposed to actual) start time of a task. Read-only  **Variant**
+Gets the scheduled (as opposed to actual) start time of a task. Read-only **Variant**
 
 
 ## Syntax

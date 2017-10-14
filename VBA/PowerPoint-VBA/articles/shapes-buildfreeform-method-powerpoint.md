@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.BuildFreeform Method (PowerPoint)
 
-Builds a freeform object. Returns a  **[FreeformBuilder](freeformbuilder-object-powerpoint.md)** object that represents the freeform as it is being built.
+Builds a freeform object. Returns a **[FreeformBuilder](freeformbuilder-object-powerpoint.md)** object that represents the freeform as it is being built.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ FreeformBuilder
 
 ## Remarks
 
-Use the  **[AddNodes](freeformbuilder-addnodes-method-powerpoint.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **[ConvertToShape](freeformbuilder-converttoshape-method-powerpoint.md)** method to convert the **FreeformBuilder** object into a **[Shape](shape-object-powerpoint.md)** object that has the geometric description you've defined in the **FreeformBuilder** object.
+Use the **[AddNodes](freeformbuilder-addnodes-method-powerpoint.md)** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **[ConvertToShape](freeformbuilder-converttoshape-method-powerpoint.md)** method to convert the **FreeformBuilder** object into a **[Shape](shape-object-powerpoint.md)** object that has the geometric description you've defined in the **FreeformBuilder** object.
 
 
 ## Example

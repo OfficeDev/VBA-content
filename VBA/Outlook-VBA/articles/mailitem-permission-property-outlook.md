@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Permission Property (Outlook)
 
-Sets or returns an  **[OlPermission](olpermission-enumeration-outlook.md)** constant that determines what permissions to grant to the recipients of the e-mail item. Read/write.
+Sets or returns an **[OlPermission](olpermission-enumeration-outlook.md)** constant that determines what permissions to grant to the recipients of the e-mail item. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns an  **[OlPermission](olpermission-enumeration-outlook.md)** cons
 
 ## Remarks
 
-The  **Permission** property should be synchronized with the **[PermissionTemplateGuid](mailitem-permissiontemplateguid-property-outlook.md)** property to accurately reflect the permission status of the **MailItem** . Setting the **PermissionTemplateGuid** property to a valid GUID also sets the **Permission** property to **OlPermission.olPermissionTemplate** .
+The **Permission** property should be synchronized with the **[PermissionTemplateGuid](mailitem-permissiontemplateguid-property-outlook.md)** property to accurately reflect the permission status of the **MailItem** . Setting the **PermissionTemplateGuid** property to a valid GUID also sets the **Permission** property to **OlPermission.olPermissionTemplate** .
 
  When no Information Rights Management (IRM) has been set up, (in which case the **Permission** property is **OlPermission.olUnrestricted** ), or the restriction is not to forward the **MailItem** , (in which case the **Permission** property is **OlPermission.olDoNotForward** ), the value of the **PermissionTemplateGuid** property should be an empty string.
 
@@ -34,7 +34,7 @@ Although you can view content that is protected by IRM on any computer that is r
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example uses the  **[Send](mailitem-send-method-outlook.md)** event and sends an item with a 'Do not forward' restriction. You must place the sample code in a class module such as **ThisOutlookSession**, and the  `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook. Replace 'Dan Wilson' with a valid recipient name before you run this example.
+This Microsoft Visual Basic for Applications (VBA) example uses the **[Send](mailitem-send-method-outlook.md)** event and sends an item with a 'Do not forward' restriction. You must place the sample code in a class module such as **ThisOutlookSession**, and the  `SendMyMail` procedure must be called before the event procedure can be called by Microsoft Outlook. Replace 'Dan Wilson' with a valid recipient name before you run this example.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.Duration Property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[JournalItem](journalitem-object-outlook.md)** Read/write.
+Returns or sets a **Long** indicating the duration (in minutes) of the **[JournalItem](journalitem-object-outlook.md)** Read/write.
 
 
 ## Syntax

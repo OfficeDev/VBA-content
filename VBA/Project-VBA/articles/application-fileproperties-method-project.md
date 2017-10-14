@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileProperties Method (Project)
 
-Displays the  **Properties** dialog box for the active project file.
+Displays the **Properties** dialog box for the active project file.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Properties** dialog box for the active project file.
 
 ## Remarks
 
-See the  **[BuiltinDocumentProperties](project-builtindocumentproperties-property-project.md)** and **[CustomDocumentProperties](project-customdocumentproperties-property-project.md)** properties, as well as the appropriate Visual Basic properties of the **[Project](project-object-project.md)** object, to manipulate the values of these properties.
+See the **[BuiltinDocumentProperties](project-builtindocumentproperties-property-project.md)** and **[CustomDocumentProperties](project-customdocumentproperties-property-project.md)** properties, as well as the appropriate Visual Basic properties of the **[Project](project-object-project.md)** object, to manipulate the values of these properties.
 
 

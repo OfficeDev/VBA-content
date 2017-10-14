@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisMasterTypes Enumeration (Visio)
 
-Master-type constants passed to the  **[Masters.AddEx](masters-addex-method-visio.md)** method.
+Master-type constants passed to the **[Masters.AddEx](masters-addex-method-visio.md)** method.
 
 
 

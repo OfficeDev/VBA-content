@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Hyperlinks Property (Visio)
 
-Returns the  **Hyperlinks** collection for a **Shape** object. Read-only.
+Returns the **Hyperlinks** collection for a **Shape** object. Read-only.
 
 
 ## Syntax

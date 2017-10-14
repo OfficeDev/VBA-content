@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.Count Property (Word)
 
-Returns a  **Long** that represents the number of canvas shapes in the specified collection. Read-only.
+Returns a **Long** that represents the number of canvas shapes in the specified collection. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.LastChild Property (Office)
 
-Gets a  **CustomXMLNode** object corresponding to the last child element of the current node. If the node has no child elements (or if it is not of type **msoCustomXMLNodeElement** ), the property returns **Nothing**. Read-only.
+Gets a **CustomXMLNode** object corresponding to the last child element of the current node. If the node has no child elements (or if it is not of type **msoCustomXMLNodeElement** ), the property returns **Nothing**. Read-only.
 
 
 ## Syntax

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # AddIns2 Object (Excel)
 
-A collection of  **[AddIn](addin-object-excel.md)** objects that represent all the add-ins that are currently available or open in Microsoft Excel, regardless of whether they are installed.
+A collection of **[AddIn](addin-object-excel.md)** objects that represent all the add-ins that are currently available or open in Microsoft Excel, regardless of whether they are installed.
 
 
 ## Remarks
 
-The contents of the  **AddIns2** collection correspond to the list of add-ins displayed in the **Add-Ins** dialog box ( **Add-Ins** command on the **Developer** tab) and any add-ins that are currently open.
+The contents of the **AddIns2** collection correspond to the list of add-ins displayed in the **Add-Ins** dialog box ( **Add-Ins** command on the **Developer** tab) and any add-ins that are currently open.
 
 
 ## See also

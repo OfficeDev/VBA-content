@@ -18,14 +18,14 @@ ms.date: 06/08/2017
 Indicates whether the most recent Undo can be reversed.
  **Syntax**
  _object_. **CanRedo**
-The  **CanRedo** property syntax has these parts:
+The **CanRedo** property syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
  **Return Values**
-The  **CanRedo** property return values are:
+The **CanRedo** property return values are:
 
 
 |**Value**|**Description**|

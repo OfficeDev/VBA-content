@@ -31,7 +31,7 @@ Sets a value for the percent complete field of one or more tasks in the Team Pla
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**String**|The  _Field_ argument can be only "% Complete". You can also use the **FieldConstantToFieldName** method with **pjTaskPercentComplete**, as in the example.|
 | _Value_|Required|**String**|Value of the  _Field_ argument. Values can range from "0" to "100" for percent complete.|
-| _AllSelectedTasks_|Optional|**Boolean**|Not used in Project. The value is  **True**, which means that the _Field_ and _Value_ arguments are set for all selected tasks.|
+| _AllSelectedTasks_|Optional|**Boolean**|Not used in Project. The value is **True**, which means that the _Field_ and _Value_ arguments are set for all selected tasks.|
 | _Create_|Optional|**Boolean**|Not used in Project.|
 | _TaskID_|Optional|**Long**|Not used in Project.|
 | _ProjectName_|Optional|**String**|Not used in Project.|

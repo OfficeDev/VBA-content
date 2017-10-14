@@ -30,10 +30,10 @@ Long
 
 ## Remarks
 
-If you are creating an undo unit for your solution, the  **UnitSize** property is one of the members of **IVBUndoUnit** that you must implement. The Visio engine may use the memory size returned by the **UnitSize** property to decide whether to clear the undo queue.
+If you are creating an undo unit for your solution, the **UnitSize** property is one of the members of **IVBUndoUnit** that you must implement. The Visio engine may use the memory size returned by the **UnitSize** property to decide whether to clear the undo queue.
 
  The **UnitSize** value is optional, and you can set the value to zero (0) when you implement the property.
 
-For more information about the  **UnitSize** property and using the **IVBUndoUnit** interface to create undo units, search for "Creating Undo Units" on MSDN, the Microsoft Developer Network.
+For more information about the **UnitSize** property and using the **IVBUndoUnit** interface to create undo units, search for "Creating Undo Units" on MSDN, the Microsoft Developer Network.
 
 

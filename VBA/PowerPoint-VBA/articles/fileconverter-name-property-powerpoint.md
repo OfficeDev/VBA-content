@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.Name Property (PowerPoint)
 
-Returns the name of the specified object. Read-only  **String**.
+Returns the name of the specified object. Read-only **String**.
 
 
 ## Syntax

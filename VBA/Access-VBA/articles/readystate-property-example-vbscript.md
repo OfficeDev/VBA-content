@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 The following example shows how to read the [ReadyState](http://msdn.microsoft.com/library/e7b62205-a604-ef43-2f5d-9b51b46d2b5a%28Office.15%29.aspx) property of the[RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) object at run time in VBScript code. **ReadyState** is a read-only property.
 
-To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it  **RDSReadySt.asp**. Use **Find** to locate the file Adovbs.inc and place it in the directory you plan to use. ASP script will identify your server.
+To test this example, cut and paste this code between the <Body> and </Body> tags in a normal HTML document and name it **RDSReadySt.asp**. Use **Find** to locate the file Adovbs.inc and place it in the directory you plan to use. ASP script will identify your server.
 
 
 

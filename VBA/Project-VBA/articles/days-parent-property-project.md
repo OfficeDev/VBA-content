@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Days.Parent Property (Project)
 
-Gets the parent of the  **Days** object. Read-only **Month**.
+Gets the parent of the **Days** object. Read-only **Month**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the parent of the  **Days** object. Read-only **Month**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.GapDepth Property (Project)
-Gets or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. Read/write  **Long**.
+Gets or sets the distance between the data series in a 3-D chart, as a percentage of the marker width. Read/write **Long**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets or sets the distance between the data series in a 3-D chart, as a percentag
 
 ## Remarks
 
-The value of the  **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2-D charts.
+The value of the **GapDepth** property must be between 0 and 500. The **GapDepth** property fails on 2-D charts.
 
 
 ## Example

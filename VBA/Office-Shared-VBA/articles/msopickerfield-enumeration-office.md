@@ -20,7 +20,7 @@ Specifies contact-picker field types.
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**msoPickerFieldUnknown**|0|An unknown type of field.|
-|**msoPickerFieldDateTime**|1|A  **DateTime** field.|
+|**msoPickerFieldDateTime**|1|A **DateTime** field.|
 |**msoPickerFieldNumber**|2|A number field.|
 |**msoPickerFieldText**|3|A text field.|
 |**msoPickerFieldUser**|4|A user or group field.|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UIObject.ToolbarSets Property (Visio)
 
-Returns the  **ToolbarSets** collection of a **UIObject** object. Read-only.
+Returns the **ToolbarSets** collection of a **UIObject** object. Read-only.
 
 
 ## Syntax
@@ -33,20 +33,20 @@ ToolbarSets
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If a  **UIObject** object represents toolbars (for example, if the object was retrieved by using the **BuiltInToolbars** property of an **Application** object), its **ToolbarSets** collection represents all of the toolbars for that **UIObject** object.
+If a **UIObject** object represents toolbars (for example, if the object was retrieved by using the **BuiltInToolbars** property of an **Application** object), its **ToolbarSets** collection represents all of the toolbars for that **UIObject** object.
 
-Use the  **ItemAtID** property of a **ToolbarSets** object to retrieve toolbars for a particular window context, for example, the drawing window. If a context does not include toolbars, it has no **ToolbarSets** collection.
+Use the **ItemAtID** property of a **ToolbarSets** object to retrieve toolbars for a particular window context, for example, the drawing window. If a context does not include toolbars, it has no **ToolbarSets** collection.
 
 
 ## Example
 
-This Microsoft Visual Basic macro shows how to use the  **ToolbarSets** property to get a particular object in a collection. It also shows how to get a copy of the built-in Visio toolbars, add a toolbar button, set the button icon, and replace the built-in toolbar set with the custom set.
+This Microsoft Visual Basic macro shows how to use the **ToolbarSets** property to get a particular object in a collection. It also shows how to get a copy of the built-in Visio toolbars, add a toolbar button, set the button icon, and replace the built-in toolbar set with the custom set.
 
 
 
 Before running this code, replace  _path\filename_ with the full path to and name of a valid icon (.ico) file on your computer.
 
-To restore the built-in Visio toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in Visio toolbars after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

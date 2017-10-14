@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflict.Name Property (Outlook)
 
-Returns a  **String** value that represents the display name for the object. Read-only.
+Returns a **String** value that represents the display name for the object. Read-only.
 
 
 ## Syntax

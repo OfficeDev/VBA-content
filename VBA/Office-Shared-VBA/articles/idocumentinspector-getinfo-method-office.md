@@ -34,7 +34,7 @@ Gets information about a custom Document Inspector module.
 [HRESULT]
 
 
- **Note**  The  **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Visual Basic for Applications (VBA).
+ **Note**  The **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Visual Basic for Applications (VBA).
 
 
 ## See also

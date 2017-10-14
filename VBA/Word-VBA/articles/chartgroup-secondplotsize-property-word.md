@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SecondPlotSize Property (Word)
 
-Returns or sets the size, as a percentage of the primary pie, of the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Long** .
+Returns or sets the size, as a percentage of the primary pie, of the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Long** .
 
 
 ## Syntax

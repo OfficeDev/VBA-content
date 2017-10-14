@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.DropCap Property (Publisher)
 
-Returns a  **[DropCap](dropcap-object-publisher.md)** object that represents a dropped capital letter for the paragraphs in the specified text frame.
+Returns a **[DropCap](dropcap-object-publisher.md)** object that represents a dropped capital letter for the paragraphs in the specified text frame.
 
 
 ## Syntax
 
  _expression_. **DropCap**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

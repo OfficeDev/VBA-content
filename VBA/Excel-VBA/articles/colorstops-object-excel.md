@@ -18,7 +18,7 @@ A collection of all the [ColorStop](colorstop-object-excel.md) objects for the s
 
 ## Remarks
 
-Each  **ColorStop** Object represents a color stop for gradient fill in a range or selection.
+Each **ColorStop** Object represents a color stop for gradient fill in a range or selection.
 
 
 ## Example

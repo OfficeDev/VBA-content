@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutlineCodes.Item Property (Project)
 
-Gets a single  **OutlineCode** object from the **OutlineCodes** collection. Read-only **OutlineCode**.
+Gets a single **OutlineCode** object from the **OutlineCodes** collection. Read-only **OutlineCode**.
 
 
 ## Syntax

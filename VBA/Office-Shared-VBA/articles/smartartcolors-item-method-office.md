@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtColors.Item Method (Office)
 
-Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.
+Retrieves a **SmartArtColor** object at the specified index or with the specified unique Id.
 
 
 ## Syntax

@@ -18,9 +18,9 @@ Represents the chart title.
 
 ## Remarks
 
-Use the  **[ChartTitle](chart-charttitle-property-word.md)** property to return the **ChartTitle** object.
+Use the **[ChartTitle](chart-charttitle-property-word.md)** property to return the **ChartTitle** object.
 
-The  **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](chart-hastitle-property-word.md)** property for the chart is **True** .
+The **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](chart-hastitle-property-word.md)** property for the chart is **True** .
 
 
 ## Example

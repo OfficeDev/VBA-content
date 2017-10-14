@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ChartCharacters.Caption Property (PowerPoint)
 
-Returns the text of this range of characters. Read-only  **String**.
+Returns the text of this range of characters. Read-only **String**.
 
 
 ## Syntax

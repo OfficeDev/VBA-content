@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Errors.Item Property (Excel)
 
-Returns a single member of the  **[Error](error-object-excel.md)** object.
+Returns a single member of the **[Error](error-object-excel.md)** object.
 
 
 ## Syntax

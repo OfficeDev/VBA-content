@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.CostVariance Property (Project)
 
-Gets the variance between the baseline cost and the cost of a  **Task**. Read-only **Variant**.
+Gets the variance between the baseline cost and the cost of a **Task**. Read-only **Variant**.
 
 
 ## Syntax

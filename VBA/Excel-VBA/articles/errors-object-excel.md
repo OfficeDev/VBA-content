@@ -18,12 +18,12 @@ Represents the various spreadsheet errors for a range.
 
 ## Remarks
 
-Use the  **[Errors](range-errors-property-excel.md)** property of the **[Range](range-object-excel.md)** object to return an **Errors** object.
+Use the **[Errors](range-errors-property-excel.md)** property of the **[Range](range-object-excel.md)** object to return an **Errors** object.
 
 
 ## Example
 
-Once an  **Errors** object is returned, you can use the **Value** property of the **[Error](error-object-excel.md)** object to check for particular error-checking conditions. The following example places a number as text in cell A1 and then notifies the user when the value of cell A1 contains a number as text.
+Once an **Errors** object is returned, you can use the **Value** property of the **[Error](error-object-excel.md)** object to check for particular error-checking conditions. The following example places a number as text in cell A1 and then notifies the user when the value of cell A1 contains a number as text.
 
 
 ```vb

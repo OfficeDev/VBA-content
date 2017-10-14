@@ -25,7 +25,7 @@ Returns the gradient style for the specified fill. Read-only MsoGradientStyle .
 | **msoGradientFromTitle**|
 | **msoGradientHorizontal**|
 | **msoGradientMixed**|
-| **msoGradientVertical**This property is read-only. Use the  **OneColorGradient** or **TwoColorGradient** method to set the gradient style for the fill.|
+| **msoGradientVertical**This property is read-only. Use the **OneColorGradient** or **TwoColorGradient** method to set the gradient style for the fill.|
 
  _expression_. **GradientStyle**
 
@@ -33,7 +33,7 @@ Returns the gradient style for the specified fill. Read-only MsoGradientStyle .
 
 ## Example
 
-This example sets the chart's fill format so that its gradient style is changed to  **msoGradientDiagonalUp** if it was originally **msoGradientDiagonalDown**.
+This example sets the chart's fill format so that its gradient style is changed to **msoGradientDiagonalUp** if it was originally **msoGradientDiagonalDown**.
 
 
 ```vb

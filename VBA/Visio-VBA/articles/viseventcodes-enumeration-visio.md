@@ -19,7 +19,7 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 |:-----|:-----|:-----|
 | **visActCodeAdvise**|2| **AddAdvise** action code|
 | **visActCodeRunAddon**|1| **RunAddon** action code|
-| **visEvtAdd**|32768|Event code for adding an  **Event** object, passed to the **Add** and **AddAdvise** methods. Used in conjunction with object codes for particular objects.|
+| **visEvtAdd**|32768|Event code for adding an **Event** object, passed to the **Add** and **AddAdvise** methods. Used in conjunction with object codes for particular objects.|
 | **visEvtAfterModal**|64| **AfterModal** event|
 | **visEvtApp**|4096| **Application** object|
 | **visEvtAppActivate**|1| **AppActivated** event|
@@ -98,7 +98,7 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 | **visEvtCodeWinPageTurn**|704| **WindowTurnToPage** event code|
 | **visEvtCodeWinSelChange**|701| **SelectionChanged** event code|
 | **visEvtConnect**|256| **Connect** object|
-| **visEvtDel**|16384|Event code for deleting an  **Event** object, passed to the **Delete** and **AddAdvise** methods. Used in conjunction with object codes for particular objects.|
+| **visEvtDel**|16384|Event code for deleting an **Event** object, passed to the **Delete** and **AddAdvise** methods. Used in conjunction with object codes for particular objects.|
 | **visEvtDataRecordset**|32| **DataRecordset** object|
 | **visEvtDoc**|2| **Document** object|
 | **visEvtFormula**|4096| **FormulaChanged** event|
@@ -107,7 +107,7 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 | **visEvtIdMostRecent**|0|The ID of the most recent event to fire.|
 | **visEvtMarker**|256| **MarkerEvent** event|
 | **visEvtMaster**|8| **Master** object|
-| **visEvtMod**|8192|Used in conjunction with object codes for particular objects to create events that report a change to an object. For example,  **visEvtMod** + **visEvtCell** consitutes the **CellChanged** event.|
+| **visEvtMod**|8192|Used in conjunction with object codes for particular objects to create events that report a change to an object. For example, **visEvtMod** + **visEvtCell** consitutes the **CellChanged** event.|
 | **visEvtNonePending**|512| **NoEventsPending** event|
 | **visEvtObjActivate**|4| **AppObjActivated** event|
 | **visEvtObjDeactivate**|8| **AppObjDeactivated**|

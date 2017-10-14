@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.AddLabel Method (Word)
 
-Adds a text label to a drawing canvas. Returns a  **[Shapes](shapes-object-word.md)** object that represents the text label.
+Adds a text label to a drawing canvas. Returns a **[Shapes](shapes-object-word.md)** object that represents the text label.
 
 
 ## Syntax

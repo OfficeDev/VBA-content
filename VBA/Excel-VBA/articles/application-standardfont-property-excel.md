@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StandardFont Property (Excel)
 
-Returns or sets the name of the standard font. Read/write  **String** .
+Returns or sets the name of the standard font. Read/write **String** .
 
 
 ## Syntax

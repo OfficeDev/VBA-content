@@ -37,7 +37,7 @@ This example sets Word to automatically create tables as you type.
 Options.AutoFormatAsYouTypeApplyTables = True
 ```
 
-This example returns the status of the  **Tables** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Tables** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

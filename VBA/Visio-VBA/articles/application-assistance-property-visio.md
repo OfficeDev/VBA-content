@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Assistance Property (Visio)
 
-Gets a reference to the Microsoft Office (MSO)  **IAssistance** object, which provides a means for developers to create a customized help experience for users within Microsoft Office. Read-only.
+Gets a reference to the Microsoft Office (MSO) **IAssistance** object, which provides a means for developers to create a customized help experience for users within Microsoft Office. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Object
 
 ## Remarks
 
-The  **IAssistance** object exposes methods that allow developers to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the Visio **Help** window.
+The **IAssistance** object exposes methods that allow developers to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the Visio **Help** window.
 
 

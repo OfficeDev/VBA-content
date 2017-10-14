@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Window.Hwnd Property (Publisher)
 
-Returns a  **Long** indicating the handle to the Microsoft Publisher application window. Read-only.
+Returns a **Long** indicating the handle to the Microsoft Publisher application window. Read-only.
 
 
 ## Syntax
 
  _expression_. **Hwnd**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ### Return Value

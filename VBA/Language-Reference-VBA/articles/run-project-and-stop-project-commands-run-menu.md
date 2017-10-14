@@ -16,7 +16,7 @@ Puts the project into a mode in which it can be used by other applications. This
 
 Unregisters the project, and restores any previous registry information. This makes the in-memory project no longer able to be called from other applications.
 
- **Note**  The  **Run Project** and **Stop Project** commands are available only to the current stand-alone project. They are not available to[host application](vbe-glossary.md) document projects.
+ **Note**  The **Run Project** and **Stop Project** commands are available only to the current stand-alone project. They are not available to[host application](vbe-glossary.md) document projects.
 
 
  **Note**  This feature is not available in all versions of the Visual Basic Editor.

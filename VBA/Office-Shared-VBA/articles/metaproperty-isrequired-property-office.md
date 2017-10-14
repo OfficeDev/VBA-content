@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.IsRequired Property (Office)
 
-Gets a  **Boolean** value that specifies whether the meta property is required. Read-only.
+Gets a **Boolean** value that specifies whether the meta property is required. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.XMLNamespaces Property (Word)
 
-Returns an  **** collection that represents the XML schemas in the Schema Library.
+Returns an **** collection that represents the XML schemas in the Schema Library.
 
 
 ## Syntax

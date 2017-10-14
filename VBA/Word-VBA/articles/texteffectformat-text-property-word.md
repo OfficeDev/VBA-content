@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.Text Property (Word)
 
-Returns or sets the text in the specified object. Read/write  **String** .
+Returns or sets the text in the specified object. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text in the specified object. Read/write  **String** .
 
 ## Remarks
 
-The  **Text** property returns the plain, unformatted text of the selection or range. When you set this property, the text of the range or selection is replaced.
+The **Text** property returns the plain, unformatted text of the selection or range. When you set this property, the text of the range or selection is replaced.
 
 
 ## See also

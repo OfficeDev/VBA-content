@@ -40,7 +40,7 @@ Zooms in on or out from the Calendar.
 
 ## Remarks
 
-Using the  **ZoomCalendar** method without specifying any arguments displays the **Zoom** dialog box.
+Using the **ZoomCalendar** method without specifying any arguments displays the **Zoom** dialog box.
 
 
 ## Example

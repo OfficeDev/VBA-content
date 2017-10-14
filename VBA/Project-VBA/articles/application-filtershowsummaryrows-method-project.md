@@ -38,7 +38,7 @@ Shows or hides the related summary rows.
 
 ## Remarks
 
-The  **FilterShowSummaryRows** method corresponds to the following command on the ribbon: on the **View** tab, click the **Filter** drop-down list box in the **Data** section, and then click **Show Related Summary Rows**.
+The **FilterShowSummaryRows** method corresponds to the following command on the ribbon: on the **View** tab, click the **Filter** drop-down list box in the **Data** section, and then click **Show Related Summary Rows**.
 
 
 ## Example

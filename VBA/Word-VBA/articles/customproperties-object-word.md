@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomProperties Object (Word)
 
-A collection of  **[CustomProperty](customproperty-object-word.md)** objects that represents the properties related to a smart tag. The **CustomProperties** collection includes all the smart tag custom properties in a document.
+A collection of **[CustomProperty](customproperty-object-word.md)** objects that represents the properties related to a smart tag. The **CustomProperties** collection includes all the smart tag custom properties in a document.
 
 
 ## Remarks
 
-Use the  **[Properties](http://msdn.microsoft.com/library/c9f81907-e257-85cd-bc65-5b614e905738%28Office.15%29.aspx)** property to return a single **CustomProperties** object. Use the **[Add](customproperties-add-method-word.md)** method of the **CustomProperties** object with to create a custom property from within a Microsoft Word Visual Basic for Applications project. This example creates a new property for the first smart tag in the active document and displays the XML code used for the tag.
+Use the **[Properties](http://msdn.microsoft.com/library/c9f81907-e257-85cd-bc65-5b614e905738%28Office.15%29.aspx)** property to return a single **CustomProperties** object. Use the **[Add](customproperties-add-method-word.md)** method of the **CustomProperties** object with to create a custom property from within a Microsoft Word Visual Basic for Applications project. This example creates a new property for the first smart tag in the active document and displays the XML code used for the tag.
 
 
 ```vb
@@ -30,7 +30,7 @@ Sub AddProps()
 End Sub
 ```
 
-Use  **Properties** (Index) to return a single property for a smart tag, where Index is the number of the property. This example displays the name and value of the first property of the first smart tag in the current document.
+Use **Properties** (Index) to return a single property for a smart tag, where Index is the number of the property. This example displays the name and value of the first property of the first smart tag in the current document.
 
 
 
@@ -43,7 +43,7 @@ Sub ReturnProps()
 End Sub
 ```
 
-Use the  **[Count](customproperties-count-property-word.md)** property to return the number of custom properties for a smart tag. This example loops through all the smart tags in the current document and then lists in a new document the name and value of the custom properties for all smart tags that have custom properties.
+Use the **[Count](customproperties-count-property-word.md)** property to return the number of custom properties for a smart tag. This example loops through all the smart tags in the current document and then lists in a new document the name and value of the custom properties for all smart tags that have custom properties.
 
 
 

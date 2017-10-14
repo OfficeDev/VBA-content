@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.SetFocus Method (Office)
 
-Moves the keyboard focus to the specified  **CommandBarComboBox** control. If the control is disabled or isn't visible, this method will fail.
+Moves the keyboard focus to the specified **CommandBarComboBox** control. If the control is disabled or isn't visible, this method will fail.
 
 
 ## 
@@ -28,7 +28,7 @@ Moves the keyboard focus to the specified  **CommandBarComboBox** control. If th
 
 ## Example
 
-This example creates a command bar named "Custom" and adds a  **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
+This example creates a command bar named "Custom" and adds a **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
 
 
 ```

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.StartWeekOn Property (Project)
 
-Gets or sets the first day of the week for the project. Read/write  **PjWeekday**.
+Gets or sets the first day of the week for the project. Read/write **PjWeekday**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the first day of the week for the project. Read/write  **PjWeekday*
 
 ## Remarks
 
-The  **StartWeekOn** property can be one of the **[PjWeekday](pjweekday-enumeration-project.md)** constants. The **Project Options** dialog box displays the value in the **Week starts on** drop-down list on the **Schedule** tab.
+The **StartWeekOn** property can be one of the **[PjWeekday](pjweekday-enumeration-project.md)** constants. The **Project Options** dialog box displays the value in the **Week starts on** drop-down list on the **Schedule** tab.
 
 

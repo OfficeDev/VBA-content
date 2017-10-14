@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLSchema.Delete Method (Office)
 
-Deletes the specified schema from the  **CustomXMLSchema** collection.
+Deletes the specified schema from the **CustomXMLSchema** collection.
 
 
 ## Syntax

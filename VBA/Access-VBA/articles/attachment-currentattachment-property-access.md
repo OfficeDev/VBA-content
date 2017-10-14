@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.CurrentAttachment Property (Access)
 
-Gets the index number of the file that has the focus in the  **Attachment** control. Read/write **Long**.
+Gets the index number of the file that has the focus in the **Attachment** control. Read/write **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.Copies Property (Access)
 
-Returns or sets a  **Long** indicating the number of copies to be printed. Read/write.
+Returns or sets a **Long** indicating the number of copies to be printed. Read/write.
 
 
 ## Syntax

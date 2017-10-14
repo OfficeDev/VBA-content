@@ -30,9 +30,9 @@ MsoPresetExtrusionDirection
 
 ## Remarks
 
-This property is read-only. To set the value of this property, use the  **[SetExtrusionDirection](threedformat-setextrusiondirection-method-powerpoint.md)** method.
+This property is read-only. To set the value of this property, use the **[SetExtrusionDirection](threedformat-setextrusiondirection-method-powerpoint.md)** method.
 
-The value of the  **PresetExtrusionDirection** property can be one of these **MsoPresetExtrusionDirection** constants.
+The value of the **PresetExtrusionDirection** property can be one of these **MsoPresetExtrusionDirection** constants.
 
 
 ||

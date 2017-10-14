@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Section Property (Access)
 
-You can use the  **Section** property to identify a section of a form and provide access to the properties of that section. Read-only **Section** object.
+You can use the **Section** property to identify a section of a form and provide access to the properties of that section. Read-only **Section** object.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ You can use the  **Section** property to identify a section of a form and provid
 
 ## Remarks
 
-The  **Section** property corresponds to a particular section. You can use the following constants listed below. It is recommended that you use the constants to make your code easier to read.
+The **Section** property corresponds to a particular section. You can use the following constants listed below. It is recommended that you use the constants to make your code easier to read.
 
 
 
@@ -44,7 +44,7 @@ The  **Section** property corresponds to a particular section. You can use the f
 |2|**acFooter**|Form footer section|
 |3|**acPageHeader**|Form page header section|
 |4|**acPageFooter**|Form page footer section|
-For forms and reports, the  **Section** property is an array of all existing sections in the form specified by the section number. For example, `Section(0)` refers to a form's detail section and `Section(3)` refers to a form's page header section.
+For forms and reports, the **Section** property is an array of all existing sections in the form specified by the section number. For example, `Section(0)` refers to a form's detail section and `Section(3)` refers to a form's page header section.
 
 You can also refer to a section by name. The following statements refer to the Detail0 section for the Customers form and are equivalent.
 
@@ -69,7 +69,7 @@ Forms!Customers.Section(0).Visible
 Forms!Customers.Detail0.Visible
 ```
 
-For forms and reports, you must combine the  **Section** property with other properties that apply to form or report sections.
+For forms and reports, you must combine the **Section** property with other properties that apply to form or report sections.
 
 
 ## Example

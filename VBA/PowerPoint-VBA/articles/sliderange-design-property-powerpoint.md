@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.Design Property (PowerPoint)
 
-Returns a  **Design** object representing a design.
+Returns a **Design** object representing a design.
 
 
 ## Syntax

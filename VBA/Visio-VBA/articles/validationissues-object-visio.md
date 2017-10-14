@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # ValidationIssues Object (Visio)
 
-Includes a  **[ValidationIssue](validationissue-object-visio.md)** object for each validation issue in the document.
+Includes a **[ValidationIssue](validationissue-object-visio.md)** object for each validation issue in the document.
 
 
 ## Remarks
 
-To get a  **ValidationIssues** collection, use the **[Issues](validation-issues-property-visio.md)** property of the **[Validation](validation-object-visio.md)** object.
+To get a **ValidationIssues** collection, use the **[Issues](validation-issues-property-visio.md)** property of the **[Validation](validation-object-visio.md)** object.
 
-The default property of the  **ValidationIssues** collection is **[Item](validationissues-item-property-visio.md)** .
+The default property of the **ValidationIssues** collection is **[Item](validationissues-item-property-visio.md)** .
 
 

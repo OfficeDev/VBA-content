@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ParentContentControl Property (Word)
 
-Returns a  **ContentControl** object that represents the parent content control for the specified range. Read-only.
+Returns a **ContentControl** object that represents the parent content control for the specified range. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **ContentControl** object that represents the parent content control 
 
 ## Remarks
 
-This property returns  **Nothing** if there is no parent content control for the specified range.
+This property returns **Nothing** if there is no parent content control for the specified range.
 
 
 ## See also

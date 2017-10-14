@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.FooterDistance Property (Word)
 
-Returns or sets the distance (in points) between the footer and the bottom of the page. Read/write  **Single** .
+Returns or sets the distance (in points) between the footer and the bottom of the page. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the distance (in points) between the footer and the bottom of th
 
 ## Example
 
-This example sets the distance between the footer and the bottom of the page to 0.5 inch. The  **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
+This example sets the distance between the footer and the bottom of the page to 0.5 inch. The **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
 
 
 ```vb

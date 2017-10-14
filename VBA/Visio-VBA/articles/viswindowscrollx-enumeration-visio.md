@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisWindowScrollX Enumeration (Visio)
 
-X parameters to pass to the  **Window.Scroll** method.
+X parameters to pass to the **Window.Scroll** method.
 
 
 

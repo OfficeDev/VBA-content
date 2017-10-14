@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColumnFormat.Label Property (Outlook)
 
-Returns or sets a  **String** value that represents the column label and tooltip displayed for the property to which the **[ColumnFormat](columnformat-object-outlook.md)** object is associated. Read/write.
+Returns or sets a **String** value that represents the column label and tooltip displayed for the property to which the **[ColumnFormat](columnformat-object-outlook.md)** object is associated. Read/write.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ The value of this property applies only to the tooltip for Outlook properties in
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example iterates through the  **[ViewFields](tableview-viewfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
+The following Visual Basic for Applications (VBA) example iterates through the **[ViewFields](tableview-viewfields-property-outlook.md)** collection of the current **[TableView](tableview-object-outlook.md)** object, displaying the label and XML schema names of each **ViewField** object in the collection.
 
 
 ```vb

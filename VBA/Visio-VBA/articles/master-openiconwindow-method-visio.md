@@ -30,12 +30,12 @@ Window
 
 ## Remarks
 
-If the master's icon is already displayed in an icon window, the  **OpenIconWindow** method activates that window rather than opening another window.
+If the master's icon is already displayed in an icon window, the **OpenIconWindow** method activates that window rather than opening another window.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **OpenIconWindow** method to open an icon editing window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **OpenIconWindow** method to open an icon editing window.
 
 
 ```vb

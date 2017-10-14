@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.KernedPairs Property (Publisher)
 
-Sets or returns an  **MsoTriState** constant that indicates whether character pairs in a WordArt object have been kerned. Read/write.
+Sets or returns an **MsoTriState** constant that indicates whether character pairs in a WordArt object have been kerned. Read/write.
 
 
 ## Syntax
 
  _expression_. **KernedPairs**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 
 ### Return Value
@@ -30,14 +30,14 @@ MsoTriState
 
 ## Remarks
 
-The  **KernedPairs** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **KernedPairs** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**| Character pairs in the specified WordArt object have not been kerned.|
-| **msoTriStateToggle**|Switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateToggle**|Switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|Character pairs in the specified WordArt object have been kerned.|
 
 ## Example

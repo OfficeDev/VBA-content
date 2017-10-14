@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MenuSet.Top Property (Visio)
 
-Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a  **Menu** object and the top of the screen. Read/write.
+Gets the distance between the top of an object and the top of the docking area or the top of the screen if the object isn't docked; it sets the distance between the top of a **Menu** object and the top of the screen. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Placeholders Object (PowerPoint)
 
-A collection of all the  **Shape** objects that represent placeholders on the specified slide.
+A collection of all the **Shape** objects that represent placeholders on the specified slide.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ You can delete individual placeholders by using the [Delete](shapenodes-delete-m
 
 ## Example
 
-Use the [Placeholders](shapes-placeholders-property-powerpoint.md)property to return the  **Placeholders** collection. Use **Placeholders** (index), where index is the placeholder index number, to return a **Shape** object that represents a single placeholder. Note that for any slide that has a title, `Shapes`.Title is equivalent to  `Shapes.Placeholders(1)`.The following example adds a new slide with a Bulleted List slide layout to the beginning of the presentation, sets the text for the title, and then adds two paragraphs to the text placeholder.
+Use the [Placeholders](shapes-placeholders-property-powerpoint.md)property to return the **Placeholders** collection. Use **Placeholders** (index), where index is the placeholder index number, to return a **Shape** object that represents a single placeholder. Note that for any slide that has a title, `Shapes`.Title is equivalent to  `Shapes.Placeholders(1)`.The following example adds a new slide with a Bulleted List slide layout to the beginning of the presentation, sets the text for the title, and then adds two paragraphs to the text placeholder.
 
 
 ```vb

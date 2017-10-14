@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.Complete Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the task is completed. Read/write **Boolean** .
+Returns a **Boolean** value that indicates whether the task is completed. Read/write **Boolean** .
 
 
 ## Syntax

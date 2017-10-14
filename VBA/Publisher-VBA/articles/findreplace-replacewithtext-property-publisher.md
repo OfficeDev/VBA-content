@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FindReplace.ReplaceWithText Property (Publisher)
 
-Sets or retrieves a  **String** representing the replacement text in the specified range or selection. Read/write.
+Sets or retrieves a **String** representing the replacement text in the specified range or selection. Read/write.
 
 
 ## Syntax
 
  _expression_. **ReplaceWithText**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ String
 
 ## Remarks
 
-The default setting of the  **ReplaceWithText** property is an empty **String**.
+The default setting of the **ReplaceWithText** property is an empty **String**.
 
-If the  **ReplaceScope** property is set to either **pbReplaceScopeOne** or **pbReplaceScopeAll** and the **ReplaceWithText** property is not set, the text found will be replaced with the default empty string, thus removing the text.
+If the **ReplaceScope** property is set to either **pbReplaceScopeOne** or **pbReplaceScopeAll** and the **ReplaceWithText** property is not set, the text found will be replaced with the default empty string, thus removing the text.
 
 
 ## Example

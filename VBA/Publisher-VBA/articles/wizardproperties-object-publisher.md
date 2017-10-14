@@ -19,7 +19,7 @@ Represents the settings available in a publication design or in a Design Gallery
 
 ## Example
 
-Use the  **[Properties](wizard-properties-property-publisher.md)** property with a **Wizard** object to return a **WizardProperties** collection. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
+Use the **[Properties](wizard-properties-property-publisher.md)** property with a **Wizard** object to return a **WizardProperties** collection. The following example reports on the publication design associated with the active publication, displaying its name and current settings.
  
 
  
@@ -45,7 +45,7 @@ End With
 ```
 
 
- **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see  **[Wizard Object](wizard-object-publisher.md)**.
+ **Note**  Depending on the language version of Microsoft Publisher that you are using, you may receive an error when using the above code. If this occurs, you will need to build in error handlers to circumvent the errors. For more information, see **[Wizard Object](wizard-object-publisher.md)**.
  
 
 

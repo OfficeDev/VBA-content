@@ -39,15 +39,15 @@ Hides specific members of the Analysis Lens user interface.
 When the argument is set to any one of the following options, the resulting user interface is hidden:
 
 
-- If missing or set to  **0** = Hide all buttons
+- If missing or set to **0** = Hide all buttons
     
--  **1** = If showing, hide the **Conditional Formatting** &; **Sparklines** buttons
+- **1** = If showing, hide the **Conditional Formatting** &; **Sparklines** buttons
     
--  **2** = If showing, hide the **Charts** button
+- **2** = If showing, hide the **Charts** button
     
--  **3** = If showing, hide **Suggested Views** button
+- **3** = If showing, hide **Suggested Views** button
     
--  **4** = If showing, hide the **Totals** button
+- **4** = If showing, hide the **Totals** button
     
 
 ## See also

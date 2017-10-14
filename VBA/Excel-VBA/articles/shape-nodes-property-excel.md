@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Nodes Property (Excel)
 
-Returns a  **[ShapeNodes](shapenodes-object-excel.md)** collection that represents the geometric description of the specified shape.
+Returns a **[ShapeNodes](shapenodes-object-excel.md)** collection that represents the geometric description of the specified shape.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ShapeNodes](shapenodes-object-excel.md)** collection that represen
 
 ## Remarks
 
-This property applies to  **[Shape](shape-object-excel.md)** or **[ShapeRange](shaperange-object-excel.md)** objects that represent freeform drawings.
+This property applies to **[Shape](shape-object-excel.md)** or **[ShapeRange](shaperange-object-excel.md)** objects that represent freeform drawings.
 
 
 ## Example

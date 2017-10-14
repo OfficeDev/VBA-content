@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlDefaultExpandCollapseSetting Enumeration (Outlook)
 
-Specifies the expand/collapse default value specified in the  **[DefaultExpandCollapseSetting](tableview-defaultexpandcollapsesetting-property-outlook.md)** property of the **[TableView](tableview-object-outlook.md)** and **[TimelineView](timelineview-object-outlook.md)** objects.
+Specifies the expand/collapse default value specified in the **[DefaultExpandCollapseSetting](tableview-defaultexpandcollapsesetting-property-outlook.md)** property of the **[TableView](tableview-object-outlook.md)** and **[TimelineView](timelineview-object-outlook.md)** objects.
 
 
 

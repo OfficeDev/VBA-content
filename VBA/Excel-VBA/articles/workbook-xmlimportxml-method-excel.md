@@ -31,7 +31,7 @@ Imports an XML data stream that has been previously loaded into memory. Excel us
 |:-----|:-----|:-----|:-----|
 | _Data_|Required| **String**|The data to import.|
 | _ImportMap_|Required| **[XmlMap](xmlmap-object-excel.md)**|The schema map to apply when importing the file.|
-| _Overwrite_|Optional| **Variant**|If a value is not specified for the Destination parameter, then this parameter specifies whether or not to overwrite data that has been mapped to the schema map specified in the ImportMap parameter. Set to  **True** to overwrite the data or **False** to append the new data to the existing data. The default value is **True** . If a value is specified for the Destination parameter, then this parameter specifies whether or not to overwrite existing data. Set to **True** to overwrite existing data or **False** to cancel the import if data would be overwritten. The default value is **True** .|
+| _Overwrite_|Optional| **Variant**|If a value is not specified for the Destination parameter, then this parameter specifies whether or not to overwrite data that has been mapped to the schema map specified in the ImportMap parameter. Set to **True** to overwrite the data or **False** to append the new data to the existing data. The default value is **True** . If a value is specified for the Destination parameter, then this parameter specifies whether or not to overwrite existing data. Set to **True** to overwrite existing data or **False** to cancel the import if data would be overwritten. The default value is **True** .|
 | _Destination_|Optional| **Variant**|Specifies the range where the list will be created. Excel only uses the top left corner of the range.|
 
 ### Return Value
@@ -49,7 +49,7 @@ Imports an XML data stream that has been previously loaded into memory. Excel us
 | **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|
 Don't specify a value for the  _Destination_ parameter if you want to import data into an existing mapping.
 
-The following conditions will cause the  **[XmlImport](workbook-xmlimport-method-excel.md)** method to generate run-time errors:
+The following conditions will cause the **[XmlImport](workbook-xmlimport-method-excel.md)** method to generate run-time errors:
 
 
 - The specified XML data contains syntax errors.
@@ -60,7 +60,7 @@ The following conditions will cause the  **[XmlImport](workbook-xmlimport-method
     
 
 
-Use the  **XMLImport** method of the **[Workbook](workbook-object-excel.md)** object to import an XML data file into the current workbook.
+Use the **XMLImport** method of the **[Workbook](workbook-object-excel.md)** object to import an XML data file into the current workbook.
 
 
 ## See also

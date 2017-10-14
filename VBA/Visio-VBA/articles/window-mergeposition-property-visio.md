@@ -32,8 +32,8 @@ Long
 
 If there are  _n_ tabs, the leftmost position is 1 and the rightmost position is _n_ . If the windows are merged in a docked stencil fashion, 1 is the topmost and _n_ is the bottommost. A value of zero (0) means that the window is not merged.
 
-The  **MergePosition** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
+The **MergePosition** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
 
-Use the  **Type** property to determine window type.
+Use the **Type** property to determine window type.
 
 

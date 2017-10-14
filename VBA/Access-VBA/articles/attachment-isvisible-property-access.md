@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.IsVisible Property (Access)
 
-You can use the  **IsVisible** property to determine whether a control on a report is visible. Read/write **Boolean**.
+You can use the **IsVisible** property to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **IsVisible** property to determine whether a control on a repo
 
 ## Remarks
 
-You can set the  **IsVisible** property only in the **Print** event of a report section that contains the control.
+You can set the **IsVisible** property only in the **Print** event of a report section that contains the control.
 
 
 ## See also

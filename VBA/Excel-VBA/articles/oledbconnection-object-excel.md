@@ -18,9 +18,9 @@ Represents the OLE DB connection.
 
 ## Remarks
 
-An OLE DB connection can be stored in an Excel workbook. When Micrososft Excel opens the workbook, Excel creates an in-memory copy of the OLE DB connection known as the  **OLEDBConnection** object.
+An OLE DB connection can be stored in an Excel workbook. When Micrososft Excel opens the workbook, Excel creates an in-memory copy of the OLE DB connection known as the **OLEDBConnection** object.
 
-An  **OLEDBConnection** object contains information related to the connection, such as the name of the server to connect to and the name of the objects to be opened on that server. Optionally, the **OLEDBConnection** object may also include authentication credential information, or a command that is to be passed to the server and executed (for example, a `SELECT` statement to be executed by SQL Server).
+An **OLEDBConnection** object contains information related to the connection, such as the name of the server to connect to and the name of the objects to be opened on that server. Optionally, the **OLEDBConnection** object may also include authentication credential information, or a command that is to be passed to the server and executed (for example, a `SELECT` statement to be executed by SQL Server).
 
 
 ## Methods

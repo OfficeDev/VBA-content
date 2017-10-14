@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 You are trying to save a value to a primary key field that is included in a relationship.
 
-In Microsoft Access, the  **Cascade Update Related Fields** option is selected for the relationship; or, in DAO code, the **dbRelationUpdateCascade** option is specified for the **Relation** object's **Attributes** property. Setting either one of these options will cause your application to attempt to update the matching field in the related table.
-To save your changes to this field, the text you enter must be no longer than the field size of the related field that your application is trying to update for you. In this case, the related field has a shorter field size than the field you are updating. To avoid this problem in the future, set the  **Size** property for both of the matching fields to the same value.
+In Microsoft Access, the **Cascade Update Related Fields** option is selected for the relationship; or, in DAO code, the **dbRelationUpdateCascade** option is specified for the **Relation** object's **Attributes** property. Setting either one of these options will cause your application to attempt to update the matching field in the related table.
+To save your changes to this field, the text you enter must be no longer than the field size of the related field that your application is trying to update for you. In this case, the related field has a shorter field size than the field you are updating. To avoid this problem in the future, set the **Size** property for both of the matching fields to the same value.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

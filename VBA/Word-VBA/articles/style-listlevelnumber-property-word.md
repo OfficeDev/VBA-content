@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.ListLevelNumber Property (Word)
 
-Returns the list level for the specified style. Read-only  **Long** .
+Returns the list level for the specified style. Read-only **Long** .
 
 
 ## Syntax

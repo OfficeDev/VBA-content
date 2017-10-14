@@ -30,6 +30,6 @@ Custom forms are not used in Project.
 
 ## Remarks
 
-In previous versions of Project, the  **CustomForms** method displays the **Customize Forms** dialog box, which prompts the user to manage custom forms.
+In previous versions of Project, the **CustomForms** method displays the **Customize Forms** dialog box, which prompts the user to manage custom forms.
 
 

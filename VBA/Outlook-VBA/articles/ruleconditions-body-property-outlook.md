@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.Body Property (Outlook)
 
-Returns a  **[TextRuleCondition](textrulecondition-object-outlook.md)** object with a **[TextRuleCondition.ConditionType](textrulecondition-conditiontype-property-outlook.md)** of **olConditionBody** . Read-only.
+Returns a **[TextRuleCondition](textrulecondition-object-outlook.md)** object with a **[TextRuleCondition.ConditionType](textrulecondition-conditiontype-property-outlook.md)** of **olConditionBody** . Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[TextRuleCondition](textrulecondition-object-outlook.md)** object w
 
 ## Remarks
 
-Use the returned  **TextRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that certain text is in the message body.
+Use the returned **TextRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that certain text is in the message body.
 
-This property of the  **[RuleConditions](ruleconditions-object-outlook.md)** collection always returns a **TextRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[TextRuleCondition.Enabled](textrulecondition-enabled-property-outlook.md)** will be **True** .
+This property of the **[RuleConditions](ruleconditions-object-outlook.md)** collection always returns a **TextRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[TextRuleCondition.Enabled](textrulecondition-enabled-property-outlook.md)** will be **True** .
 
 
 ## See also

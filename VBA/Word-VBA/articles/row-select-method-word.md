@@ -25,7 +25,7 @@ Selects the specified table row.
 
 ## Remarks
 
-After using this method, use the  **Selection** object to work with the selected row. For more information, see[Working with the Selection Object](http://msdn.microsoft.com/library/a1ef7e48-5a0f-d278-4b67-7b96f4e24052%28Office.15%29.aspx).
+After using this method, use the **Selection** object to work with the selected row. For more information, see[Working with the Selection Object](http://msdn.microsoft.com/library/a1ef7e48-5a0f-d278-4b67-7b96f4e24052%28Office.15%29.aspx).
 
 
 ## Example

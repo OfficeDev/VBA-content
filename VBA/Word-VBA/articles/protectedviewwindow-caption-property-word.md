@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Caption Property (Word)
 
-Returns or sets the caption text that is displayed in the title bar of the document or protected view window. Read/write  **String** .
+Returns or sets the caption text that is displayed in the title bar of the document or protected view window. Read/write **String** .
 
 
 ## Syntax

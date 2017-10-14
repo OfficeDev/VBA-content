@@ -30,12 +30,12 @@ Integer
 
 ## Remarks
 
-Setting the  **ShowGrid** property is equivalent to selecting **Grid** in the **Show/Hide** group on the **View** tab.
+Setting the **ShowGrid** property is equivalent to selecting **Grid** in the **Show/Hide** group on the **View** tab.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ShowGrid** property to hide the grid. To restore the grid after running this macro, set the **ShowGrid** property to **True** .
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ShowGrid** property to hide the grid. To restore the grid after running this macro, set the **ShowGrid** property to **True** .
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Private <keyword>
 
-The  **Private** keyword is used in these contexts:
+The **Private** keyword is used in these contexts:
 
 [Const Statement](const-statement.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.Name Property (Word)
 
-Returns or sets name of the object. Read/write  **String** .
+Returns or sets name of the object. Read/write **String** .
 
 
 ## Syntax

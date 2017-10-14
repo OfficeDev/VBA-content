@@ -19,7 +19,7 @@ Represents the header or footer of a master page.
 
 ## Example
 
-Use  **MasterPages.Header** or **MasterPages.Footer** to return a **HeaderFooter** object. The following example adds text to the header of the first master page of the active document.
+Use **MasterPages.Header** or **MasterPages.Footer** to return a **HeaderFooter** object. The following example adds text to the header of the first master page of the active document.
  
 
  
@@ -31,7 +31,7 @@ objHeader.TextRange.Text = "Master Page 1 Header"
 
 ```
 
-Use  **HeaderFooter.Delete** to delete any existing content from a header or footer. Calling this method does not delete the text frame, just the contents of it. The following example deletes all of the header and footer content of all the master pages in a publication.
+Use **HeaderFooter.Delete** to delete any existing content from a header or footer. Calling this method does not delete the text frame, just the contents of it. The following example deletes all of the header and footer content of all the master pages in a publication.
  
 
  
@@ -46,7 +46,7 @@ For Each objMasterPage In ActiveDocument.masterPages
 Next
 ```
 
-Use  **HeaderFooter.TextRange** to return a **TextRange** object representing the header or footer of a master page. Any header or footer content manipulation is done with through this property of the **HeaderFooter** object. The following example first deletes any existing content and then adds some boilerplate text to the header of a master page.
+Use **HeaderFooter.TextRange** to return a **TextRange** object representing the header or footer of a master page. Any header or footer content manipulation is done with through this property of the **HeaderFooter** object. The following example first deletes any existing content and then adds some boilerplate text to the header of a master page.
  
 
  

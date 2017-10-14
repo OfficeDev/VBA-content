@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorEffect.To Property (PowerPoint)
 
-Sets or returns a  **ColorFormat** object that represents the RGB color value of an animation behavior. Read/write.
+Sets or returns a **ColorFormat** object that represents the RGB color value of an animation behavior. Read/write.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ ColorFormat
 
 ## Remarks
 
-Use this property in conjunction with the  **From** property to transition from one color to another.
+Use this property in conjunction with the **From** property to transition from one color to another.
 
-Do not confuse this property with the  **ToX** or **ToY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ToX** or **ToY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

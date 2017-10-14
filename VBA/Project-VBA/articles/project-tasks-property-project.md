@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Tasks Property (Project)
 
-Gets a  **[Tasks](task-object-project.md)** collection representing the tasks in the project. Read-only **Tasks**.
+Gets a **[Tasks](task-object-project.md)** collection representing the tasks in the project. Read-only **Tasks**.
 
 
 ## Syntax

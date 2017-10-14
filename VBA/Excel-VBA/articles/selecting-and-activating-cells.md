@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 In Microsoft Excel, you usually select a cell or cells and then perform an action, such as formatting the cells or entering values in them. In Visual Basic, it is usually not necessary to select cells before modifying them.
 
-For example, to enter a formula in cell D6 using Visual Basic, you do not need to select the range D6. Just return the  **Range** object for that cell, and then set the **Formula** property to the formula you want, as shown in the following example.
+For example, to enter a formula in cell D6 using Visual Basic, you do not need to select the range D6. Just return the **Range** object for that cell, and then set the **Formula** property to the formula you want, as shown in the following example.
 
 
 
@@ -27,9 +27,9 @@ For more information and examples of using other methods to control cells withou
 
 ## Using the Select Method and the Selection Property
 
-The  **Select** method activates sheets and objects on sheets; the **Selection** property returns an object that represents the current selection on the active sheet in the active workbook. Before you can use the **Selection** property successfully, you must activate a workbook, activate or select a sheet, and then select a range (or other object) using the **Select** method.
+The **Select** method activates sheets and objects on sheets; the **Selection** property returns an object that represents the current selection on the active sheet in the active workbook. Before you can use the **Selection** property successfully, you must activate a workbook, activate or select a sheet, and then select a range (or other object) using the **Select** method.
 
-The macro recorder will often create a macro that uses the  **Select** method and the **Selection** property. The following **Sub** procedure was created using the macro recorder, and it shows how **Select** and **Selection** work together.
+The macro recorder will often create a macro that uses the **Select** method and the **Selection** property. The following **Sub** procedure was created using the macro recorder, and it shows how **Select** and **Selection** work together.
 
 
 
@@ -64,7 +64,7 @@ End Sub
 
 ## Selecting Cells on the Active Worksheet
 
-If you use the  **Select** method to select cells, be aware that **Select** works only on the active worksheet. If you run your **Sub** procedure from the module, the **Select** method will fail unless your procedure activates the worksheet before using the **Select** method on a range of cells. For example, the following procedure copies a row from Sheet1 to Sheet2 in the active workbook.
+If you use the **Select** method to select cells, be aware that **Select** works only on the active worksheet. If you run your **Sub** procedure from the module, the **Select** method will fail unless your procedure activates the worksheet before using the **Select** method on a range of cells. For example, the following procedure copies a row from Sheet1 to Sheet2 in the active workbook.
 
 
 ```VB.net
@@ -79,7 +79,7 @@ End Sub
 
 ## Activating a Cell Within a Selection
 
-You can use the  **Activate** method to activate a cell within a selection. There can be only one active cell, even when a range of cells is selected. The following procedure selects a range and then activates a cell within the range without changing the selection.
+You can use the **Activate** method to activate a cell within a selection. There can be only one active cell, even when a range of cells is selected. The following procedure selects a range and then activates a cell within the range without changing the selection.
 
 
 ```VB.net

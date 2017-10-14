@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.ReadOnly Property (Publisher)
 
-Returns  **True** if the publication is read-only; returns **False** if it is read/write. Read-only **Boolean**.
+Returns **True** if the publication is read-only; returns **False** if it is read/write. Read-only **Boolean**.
 
 
 ## Syntax
 
  _expression_. **ReadOnly**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

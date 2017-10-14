@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.TextPosition Property (Word)
 
-Returns or sets the position (in points) for the second line of wrapping text for the specified  **ListLevel** object. Read/write **Single** .
+Returns or sets the position (in points) for the second line of wrapping text for the specified **ListLevel** object. Read/write **Single** .
 
 
 ## Syntax

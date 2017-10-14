@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddOLEObject Method (PowerPoint)
 
-Creates an OLE object. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new OLE object.
+Creates an OLE object. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new OLE object.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ Creates an OLE object. Returns a  **[Shape](shape-object-powerpoint.md)** object
 | _IconFileName_|Optional|**String**|The file that contains the icon to be displayed.|
 | _IconIndex_|Optional|**Long**|The index of the icon within IconFileName. The first icon in the file has the index number 0 (zero). If an icon with the given index number doesn't exist in IconFileName, the icon with the index number 1 (the second icon in the file) is used. The default value is 0 (zero).|
 | _IconLabel_|Optional|**String**|A label (caption) to be displayed beneath the icon.|
-| _Link_|Optional|**[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be  **msoFalse**.|
+| _Link_|Optional|**[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the OLE object will be linked to the file from which it was created. If you specified a value for ClassName, this argument must be **msoFalse**.|
 
 ### Return Value
 

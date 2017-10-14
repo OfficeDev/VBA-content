@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # TextFrame2 Object (Excel)
 
-Represents the text frame in a  **[Shape](shape-object-excel.md)**, **[ShapeRange](shaperange-object-excel.md)**, or **[ChartFormat](chartformat-object-excel.md)** object.
+Represents the text frame in a **[Shape](shape-object-excel.md)**, **[ShapeRange](shaperange-object-excel.md)**, or **[ChartFormat](chartformat-object-excel.md)** object.
 
 
 ## Remarks
 
-This object contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame. Use the  **TextFrame2** property to return a **TextFrame2** object.
+This object contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame. Use the **TextFrame2** property to return a **TextFrame2** object.
 
 
 ## Example

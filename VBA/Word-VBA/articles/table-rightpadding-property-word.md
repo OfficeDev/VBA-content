@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.RightPadding Property (Word)
 
-Returns or sets the amount of space (in points) to add to the right of the contents of all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the right of the contents of all the cells in a table. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the amount of space (in points) to add to the right of the conte
 
 ## Remarks
 
-The setting of the  **RightPadding** property for a single cell overrides the setting of the **RightPadding** property for the entire table.
+The setting of the **RightPadding** property for a single cell overrides the setting of the **RightPadding** property for the entire table.
 
 
 ## Example

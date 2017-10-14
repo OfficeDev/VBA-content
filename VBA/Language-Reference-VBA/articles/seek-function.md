@@ -26,7 +26,7 @@ The following describes the return values for each file access mode.
 
 ## Example
 
-This example uses the  **Seek** function to return the current file position. The example assumes `TESTFILE` is a file containing records of the user-defined type is a file containing records of the user-defined type `Record`.
+This example uses the **Seek** function to return the current file position. The example assumes `TESTFILE` is a file containing records of the user-defined type is a file containing records of the user-defined type `Record`.
 
 
 ```vb
@@ -36,7 +36,7 @@ Type Record    ' Define user-defined type.
 End Type
 ```
 
-For files opened in Random mode,  **Seek** returns number of next record.
+For files opened in Random mode, **Seek** returns number of next record.
 
 
 
@@ -53,7 +53,7 @@ Close #1    ' Close file.
 
 ```
 
-For files opened in modes other than Random mode,  **Seek** returns the byte position at which the next operation takes place. Assume `TESTFILE` is a file containing a few lines of text.
+For files opened in modes other than Random mode, **Seek** returns the byte position at which the next operation takes place. Assume `TESTFILE` is a file containing a few lines of text.
 
 
 

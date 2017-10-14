@@ -16,10 +16,10 @@ ms.date: 06/08/2017
 |:-----|:-----|
 |[BlogProviderProperties](iblogextensibility-blogproviderproperties-method-office.md)|Contains information about the provider.|
 |[GetCategories](iblogextensibility-getcategories-method-office.md)|This method returns the list of blog categories for an account so Microsoft Word can populate the categories dropdown list.|
-|[GetRecentPosts](iblogextensibility-getrecentposts-method-office.md)|Returns the list of the user's last fifteen blog posts that Microsoft Word then displays in the  **Open Existing Post** dialog. This method does not actually return the blog post contents.|
+|[GetRecentPosts](iblogextensibility-getrecentposts-method-office.md)|Returns the list of the user's last fifteen blog posts that Microsoft Word then displays in the **Open Existing Post** dialog. This method does not actually return the blog post contents.|
 |[GetUserBlogs](iblogextensibility-getuserblogs-method-office.md)|Returns the list and details of user blogs associated with the specified account.|
-|[Open](iblogextensibility-open-method-office.md)|Opens the blog specified by the blog ID. It is called by the  **Open Existing Post** dialog based on the item selected by the user.|
+|[Open](iblogextensibility-open-method-office.md)|Opens the blog specified by the blog ID. It is called by the **Open Existing Post** dialog based on the item selected by the user.|
 |[PublishPost](iblogextensibility-publishpost-method-office.md)|Hands off the current post so it can be published by the provider.|
 |[RepublishPost](iblogextensibility-republishpost-method-office.md)|Hands off the current post so it can be republished by the provider.|
-|[SetupBlogAccount](iblogextensibility-setupblogaccount-method-office.md)|Called from the  **Choose Account** dialog when the provider's name is chosen in the **Blog Host** dropdown or when the user requests to change a provider's account in the **Blog Accounts** dialog box.|
+|[SetupBlogAccount](iblogextensibility-setupblogaccount-method-office.md)|Called from the **Choose Account** dialog when the provider's name is chosen in the **Blog Host** dropdown or when the user requests to change a provider's account in the **Blog Accounts** dialog box.|
 

@@ -8,7 +8,7 @@ ms.prod: project-server
 
 # Project.LastWssSyncDate Property (Project)
 
-Returns the last date on which Project was synced with Wss. Read-only  **DateType**. Introduced in Office 2016.
+Returns the last date on which Project was synced with Wss. Read-only **DateType**. Introduced in Office 2016.
 
 
 ## Syntax

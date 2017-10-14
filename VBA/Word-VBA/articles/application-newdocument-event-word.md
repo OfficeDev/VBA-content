@@ -18,7 +18,7 @@ Occurs when a new document is created.
 
 ## Syntax
 
-Private Sub Application **_NewDocument**(ByVal  **_Doc_** As Document)
+Private Sub Application **_NewDocument**(ByVal **_Doc_** As Document)
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object that has been declared with events in a class module.
 
@@ -33,7 +33,7 @@ Private Sub Application **_NewDocument**(ByVal  **_Doc_** As Document)
 
 ## Remarks
 
-For more information about using events with the  **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
+For more information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 
 
 ## Example

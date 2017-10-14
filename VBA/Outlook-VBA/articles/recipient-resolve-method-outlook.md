@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.Resolve Method (Outlook)
 
-Attempts to resolve a  **[Recipient](recipient-object-outlook.md)** object against the Address Book.
+Attempts to resolve a **[Recipient](recipient-object-outlook.md)** object against the Address Book.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Attempts to resolve a  **[Recipient](recipient-object-outlook.md)** object again
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](application-createitem-method-outlook.md)** to create a simple task and delegate it as a task request to another user. Before running this example, replace 'Dan Wilson' with a valid recipient name.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](application-createitem-method-outlook.md)** to create a simple task and delegate it as a task request to another user. Before running this example, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

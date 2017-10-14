@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartArea Property (PowerPoint)
 
-Returns the complete chart area for the chart. Read-only  **[ChartArea](chartarea-object-powerpoint.md)**.
+Returns the complete chart area for the chart. Read-only **[ChartArea](chartarea-object-powerpoint.md)**.
 
 
 ## Syntax

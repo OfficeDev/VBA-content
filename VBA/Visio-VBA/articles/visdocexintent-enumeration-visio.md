@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # VisDocExIntent Enumeration (Visio)
 
-Export intent constants passed to the  **[Document.ExportAsFixedFormat](document-exportasfixedformat-method-visio.md)** method.
+Export intent constants passed to the **[Document.ExportAsFixedFormat](document-exportasfixedformat-method-visio.md)** method.
 
 
 

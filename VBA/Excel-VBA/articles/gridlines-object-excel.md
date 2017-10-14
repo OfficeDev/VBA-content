@@ -20,7 +20,7 @@ Represents major or minor gridlines on a chart axis.
 
  Gridlines extend the tick marks on a chart axis to make it easier to see the values associated with the data markers. This object isn't a collection. There's no object that represents a single gridline; you either have all gridlines for an axis turned on or all of them turned off.
 
-Use the  **[MajorGridlines](axis-majorgridlines-property-excel.md)** property to return the **GridLines** object that represents the major gridlines for the axis. Use the **[MinorGridlines](axis-minorgridlines-property-excel.md)** property to return the **GridLines** object that represents the minor gridlines. It's possible to return both major and minor gridlines at the same time.
+Use the **[MajorGridlines](axis-majorgridlines-property-excel.md)** property to return the **GridLines** object that represents the major gridlines for the axis. Use the **[MinorGridlines](axis-minorgridlines-property-excel.md)** property to return the **GridLines** object that represents the minor gridlines. It's possible to return both major and minor gridlines at the same time.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Sections Property (Word)
 
-Returns a  **Sections** collection that represents the sections in the specified range. Read-only.
+Returns a **Sections** collection that represents the sections in the specified range. Read-only.
 
 
 ## Syntax

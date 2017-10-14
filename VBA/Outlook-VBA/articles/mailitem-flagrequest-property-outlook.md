@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.FlagRequest Property (Outlook)
 
-Returns or sets a  **String** that indicates the requested action for a mail item. Read/write.
+Returns or sets a **String** that indicates the requested action for a mail item. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that indicates the requested action for a mail ite
 
 ## Remarks
 
-By default, a mail item is not marked with any flag and the default value for this property is the empty string. You can set the value of  **FlagRequest** either through the user interface or programmatically. When you mark a mail item with a flag through the user interface, the default value of **FlagRequest** is "Follow up".
+By default, a mail item is not marked with any flag and the default value for this property is the empty string. You can set the value of **FlagRequest** either through the user interface or programmatically. When you mark a mail item with a flag through the user interface, the default value of **FlagRequest** is "Follow up".
 
 
 ## See also

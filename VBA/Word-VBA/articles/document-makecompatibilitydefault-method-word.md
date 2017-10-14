@@ -25,7 +25,7 @@ Sets the compatibility options.
 
 ## Remarks
 
-The compatibility options are located on the  **Compatibility** tab in the **Options** dialog box as the default settings for new documents.
+The compatibility options are located on the **Compatibility** tab in the **Options** dialog box as the default settings for new documents.
 
 
 ## Example

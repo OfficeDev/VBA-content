@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.CharProps Property (Visio)
 
-Sets a character property of a  **Characters** object to a new value. Write-only.
+Sets a character property of a **Characters** object to a new value. Write-only.
 
 
 ## Syntax
@@ -38,13 +38,13 @@ Integer
 
 ## Remarks
 
-Depending on the extent of the text range and the format, setting the  **CharProps** property may cause rows to be added or removed from a shape's Character ShapeSheet section.
+Depending on the extent of the text range and the format, setting the **CharProps** property may cause rows to be added or removed from a shape's Character ShapeSheet section.
 
-The  **CharProps** property is a write-only property. To retrieve formatting properties of a **Characters** object, use the **CharPropsRow** property.
+The **CharProps** property is a write-only property. To retrieve formatting properties of a **Characters** object, use the **CharPropsRow** property.
 
-The values of the CellIndex argument correspond to cells in the Character section of the ShapeSheet window, and the values of the  **CharProps** property correspond to the values that can be entered in those cells.
+The values of the CellIndex argument correspond to cells in the Character section of the ShapeSheet window, and the values of the **CharProps** property correspond to the values that can be entered in those cells.
 
-Constants for CellIndex and for the  **CharProps** property value are declared in the Visio type library in **VisCellIndices** .
+Constants for CellIndex and for the **CharProps** property value are declared in the Visio type library in **VisCellIndices** .
 
 
 
@@ -59,13 +59,13 @@ Constants for CellIndex and for the  **CharProps** property value are declared i
 | **visCharacterColorTrans**|17|An integer from 0 to 100 that corresponds to the degree of transparency of the text color, as a percentage.|N/A|
 | **visCharacterDblUnderline**|8| **Boolean**|N/A|
 | **visCharacterFontScale**|5|An integer from 0 to 655 that represents the width of the text font, as a percentage, relative to the default (100%). |N/A|
-| **visCharacterLangID**|57|A  **Long** that represents the language the text is in. The language ID (LANGID) for a character is a 16-bit value defined by Windows, consisting of a primary language ID and a secondary language ID. To determine the value for particular languages, see the Platform SDK documentation on MSDN.|N/A|
+| **visCharacterLangID**|57|A **Long** that represents the language the text is in. The language ID (LANGID) for a character is a 16-bit value defined by Windows, consisting of a primary language ID and a secondary language ID. To determine the value for particular languages, see the Platform SDK documentation on MSDN.|N/A|
 | **visCharacterLetterspace**|16|An integer that represents additional space between adjacent letters, in points.|N/A|
 | **visCharacterOverline**|9| **Boolean**|N/A|
 | **visCharacterStrikethru**|10| **Boolean**|N/A|
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVCharacters.set_CharProps**
+- **Microsoft.Office.Interop.Visio.IVCharacters.set_CharProps**
     
 

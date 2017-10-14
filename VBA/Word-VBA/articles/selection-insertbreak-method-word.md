@@ -29,11 +29,11 @@ Inserts a page, column, or section break.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[WdBreakType](wdbreaktype-enumeration-word.md)**|the type of break to insert. The default value is  **wdPageBreak** . Some of the **WdBreakType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _Type_|Required| **[WdBreakType](wdbreaktype-enumeration-word.md)**|the type of break to insert. The default value is **wdPageBreak** . Some of the **WdBreakType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 
 ## Remarks
 
-When you insert a page or column break, the break replaces the selection. If you don't want to replace the selection, use the  **[Collapse](selection-collapse-method-word.md)** method before using the **InsertBreak** method.
+When you insert a page or column break, the break replaces the selection. If you don't want to replace the selection, use the **[Collapse](selection-collapse-method-word.md)** method before using the **InsertBreak** method.
 
 
  **Note**  When you insert a section break, the break is inserted immediately preceding the selection.

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.ActualDuration Property (Project)
 
-Gets or sets the actual duration (in minutes) of a task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the actual duration (in minutes) of a task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

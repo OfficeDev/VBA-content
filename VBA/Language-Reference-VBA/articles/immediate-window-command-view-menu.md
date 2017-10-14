@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Immediate Window Command (View Menu)
 
-Displays the  **Immediate** window and displays information resulting from debugging statements in your code or from commands typed directly into the window.
+Displays the **Immediate** window and displays information resulting from debugging statements in your code or from commands typed directly into the window.
 
 Use the Immediate window to:
 

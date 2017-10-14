@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AdvancedPrintOptions.PrintBleedMarks Property (Publisher)
 
- **True** to print bleed marks in the specified publication. The default is **False**. Read/write  **Boolean**.
+ **True** to print bleed marks in the specified publication. The default is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **PrintBleedMarks**
 
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ _expression_A variable that represents a **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -32,9 +32,9 @@ Boolean
 
 Bleed marks show the extent of a bleed, and print an eighth inch outside the crop marks.
 
-This property is only accessible if bleeds are allowed in the specified publication. Use the  **[AllowBleeds](advancedprintoptions-allowbleeds-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to specify bleeds are allowed. Returns "Permission Denied" if bleeds are not allowed in the publication.
+This property is only accessible if bleeds are allowed in the specified publication. Use the **[AllowBleeds](advancedprintoptions-allowbleeds-property-publisher.md)** property of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object to specify bleeds are allowed. Returns "Permission Denied" if bleeds are not allowed in the publication.
 
-This property corresponds to the  **Bleed marks** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+This property corresponds to the **Bleed marks** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
 
 
 ## Example

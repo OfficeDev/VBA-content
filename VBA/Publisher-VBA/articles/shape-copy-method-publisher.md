@@ -20,14 +20,14 @@ Copies the specified object to the Clipboard.
 
  _expression_. **Copy**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
-Use the  **Paste**method to paste the contents of the Clipboard.
+Use the **Paste**method to paste the contents of the Clipboard.
 
-The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+The **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
 
 
 ## Example

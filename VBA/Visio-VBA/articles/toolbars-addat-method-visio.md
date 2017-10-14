@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Toolbars.AddAt Method (Visio)
 
-Creates a new  **Toolbar** object at a specified index in the **Toolbars** collection. .
+Creates a new **Toolbar** object at a specified index in the **Toolbars** collection. .
 
 
 ## Syntax

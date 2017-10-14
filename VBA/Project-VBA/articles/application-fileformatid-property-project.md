@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileFormatID Property (Project)
 
-Gets a value that indicates the file format for the specified project. Possible formats are those that Project can directly open as a project file. Read-only  **String**.
+Gets a value that indicates the file format for the specified project. Possible formats are those that Project can directly open as a project file. Read-only **String**.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Gets a value that indicates the file format for the specified project. Possible 
 
 ## Remarks
 
-The specified file must be a project file in the current directory. The  **FileFormatID** property in Project can be one of the following strings, for the specified file format:
+The specified file must be a project file in the current directory. The **FileFormatID** property in Project can be one of the following strings, for the specified file format:
 
 
 - MSProject.MPP.14, for a standard Project or Project file

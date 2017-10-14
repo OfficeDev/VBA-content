@@ -20,7 +20,7 @@ Returns the number of printers installed on your computer. Read-only.
 
  _expression_. **Count**
 
- _expression_A variable that represents an  **InstalledPrinters** collection.
+ _expression_A variable that represents an **InstalledPrinters** collection.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GoalAreaHighlight Method (Project)
 
-Highlights a goal area on the  **Project Guide** toolbar to indicate it is currently selected. Deprecated in _pjgenericshort_.
+Highlights a goal area on the **Project Guide** toolbar to indicate it is currently selected. Deprecated in _pjgenericshort_.
 
 
 ## Syntax

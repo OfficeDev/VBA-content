@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Series Object
 
-Represents a series in the specified chart. The  **Series** object is a member of the **[SeriesCollection](seriescollection-collection-excel.md)** collection.
+Represents a series in the specified chart. The **Series** object is a member of the **[SeriesCollection](seriescollection-collection-excel.md)** collection.
 
 
 ## Using the Series Object
 
-Use  **SeriesCollection**( _index_), where  _index_ is the series' index number or name, to return a single **Series** object. The following example sets the color of the interior for series one in the chart.
+Use **SeriesCollection**( _index_), where  _index_ is the series' index number or name, to return a single **Series** object. The following example sets the color of the interior for series one in the chart.
 
 
 ```

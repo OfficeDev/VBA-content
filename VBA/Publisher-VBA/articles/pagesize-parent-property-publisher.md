@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSize.Parent Property (Publisher)
 
-Returns the parent of the  **[PageSize](pagesizes-object-publisher.md)** object. Read-only.
+Returns the parent of the **[PageSize](pagesizes-object-publisher.md)** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  **PageSize** object.
+ _expression_A variable that represents a **PageSize** object.
 
 
 ### Return Value

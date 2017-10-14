@@ -18,11 +18,11 @@ Represents a color scale conditional formatting rule.
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](formatconditions-object-excel.md)** collection object, which is a child of a **[Range](range-object-excel.md)** collection. You can create a color scale formatting rule by using either the **[Add](formatconditions-add-method-excel.md)** or **[AddColorScale](formatconditions-addcolorscale-method-excel.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a **[FormatConditions](formatconditions-object-excel.md)** collection object, which is a child of a **[Range](range-object-excel.md)** collection. You can create a color scale formatting rule by using either the **[Add](formatconditions-add-method-excel.md)** or **[AddColorScale](formatconditions-addcolorscale-method-excel.md)** method of the **FormatConditions** collection.
 
 Color scales are visual guides that help you understand data distribution and variation. You can apply either a two-color or a three-color scale to a range of data, data in a table, or data in a PivotTable report. For a two-color scale conditional format, you assign the value, type, and color to the minimum and maximum thresholds of a range. A three-color scale also has a midpoint threshold.
 
-Each of these thresholds is determined by setting the properties of the  **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** object. The **ColorScaleCriteria** object, which is a child of the **ColorScale** object, is a collection of all of the **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** objects for the color scale.
+Each of these thresholds is determined by setting the properties of the **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** object. The **ColorScaleCriteria** object, which is a child of the **ColorScale** object, is a collection of all of the **[ColorScaleCriterion](colorscalecriterion-object-excel.md)** objects for the color scale.
 
 
 ## Example

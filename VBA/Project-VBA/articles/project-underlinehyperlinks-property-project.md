@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The default value of  **UnderlineHyperlinks** is **True**. The application default can be set with the **[OptionsEditEx](application-optionseditex-method-project.md)** method.
+The default value of **UnderlineHyperlinks** is **True**. The application default can be set with the **[OptionsEditEx](application-optionseditex-method-project.md)** method.
 
 

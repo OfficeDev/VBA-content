@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.ShrinkToFit Property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if text automatically shrinks to fit in the available column width.
+Returns or sets a **Boolean** value that indicates if text automatically shrinks to fit in the available column width.
 
 
 ## Syntax

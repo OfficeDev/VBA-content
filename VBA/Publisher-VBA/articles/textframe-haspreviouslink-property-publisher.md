@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.HasPreviousLink Property (Publisher)
 
-Returns  **msoTrue** if the specified text frame has a valid link to a backward text box and **msoFalse** if it does not. Read-only.
+Returns **msoTrue** if the specified text frame has a valid link to a backward text box and **msoFalse** if it does not. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasPreviousLink**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ### Return Value

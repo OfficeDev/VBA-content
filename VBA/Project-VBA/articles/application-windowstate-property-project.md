@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.WindowState Property (Project)
 
-Gets or sets the state of the Project application window, where the state is maximized, minimized, or normal. Read/write  **PjWindowState**.
+Gets or sets the state of the Project application window, where the state is maximized, minimized, or normal. Read/write **PjWindowState**.
 
 
 ## Syntax
@@ -22,9 +22,9 @@ Gets or sets the state of the Project application window, where the state is max
 
 ## Remarks
 
-The  **WindowState** property can be one of the **[PjWindowState](pjwindowstate-enumeration-project.md)** constants.
+The **WindowState** property can be one of the **[PjWindowState](pjwindowstate-enumeration-project.md)** constants.
 
-To change the state of a window within the application window, use the  **[WindowState](window-windowstate-property-project.md)** property of the **Window** object.
+To change the state of a window within the application window, use the **[WindowState](window-windowstate-property-project.md)** property of the **Window** object.
 
 
 ## Example

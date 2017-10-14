@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Sections Property (Word)
 
-Returns a  **[Sections](sections-object-word.md)** collection that represents the sections in the specified selection. Read-only.
+Returns a **[Sections](sections-object-word.md)** collection that represents the sections in the specified selection. Read-only.
 
 
 ## Syntax

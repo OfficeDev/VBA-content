@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CustomizeField Method (Project)
 
-Displays the  **Customize Fields** dialog box.
+Displays the **Customize Fields** dialog box.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Customize Fields** dialog box.
 
 ## Remarks
 
-The  **CustomizeField** method has the same effect as the **Custom Fields** command on the **Project** tab on the Ribbon.
+The **CustomizeField** method has the same effect as the **Custom Fields** command on the **Project** tab on the Ribbon.
 
 

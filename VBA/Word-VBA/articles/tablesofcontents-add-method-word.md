@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TablesOfContents.Add Method (Word)
 
-Returns a  **TableOfContents** object that represents a table of contents added to a document.
+Returns a **TableOfContents** object that represents a table of contents added to a document.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ Returns a  **TableOfContents** object that represents a table of contents added 
 | _TableID_|Optional| **Variant**|A one-letter identifier that's used to build a table of contents from TC fields. Corresponds to the \f switch for a Table of Contents (TOC) field. For example, "T" builds a table of contents from TC fields using the table identifier T. If this argument is omitted, TC fields aren't used.|
 | _RightAlignPageNumbers_|Optional| **Variant**| **True** if page numbers in the table of contents are aligned with the right margin. The default value is **True** .|
 | _IncludePageNumbers_|Optional| **Variant**| **True** to include page numbers in the table of contents. The default value is **True** .|
-| _AddedStyles_|Optional| **Variant**|The string name for additional styles used to compile the table of contents (styles other than the Heading 1 ? Heading 9 styles). Use the  **Add** method of a **[HeadingStyles](headingstyles-object-word.md)** object to create new heading styles.|
+| _AddedStyles_|Optional| **Variant**|The string name for additional styles used to compile the table of contents (styles other than the Heading 1 ? Heading 9 styles). Use the **Add** method of a **[HeadingStyles](headingstyles-object-word.md)** object to create new heading styles.|
 | _UseHyperlinks_|Optional| **Variant**| **True** if entries in a table of contents should be formatted as hyperlinks when the document is being publishing to the Web. The default value is **True** .|
 | _HidePageNumbersInWeb_|Optional| **Variant**| **True** if page numbers in a table of contents should be hidden when the document is being publishing to the Web. The default value is **True** .|
 | _UseOutlineLevels_|Optional| **Variant**| **True** to use outline levels to create the table of contents. The default is **False** .|

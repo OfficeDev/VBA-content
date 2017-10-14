@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.Controls Property (Office)
 
-Gets a  **CommandBarControls** object that represents all the controls on a command bar. Read-only.
+Gets a **CommandBarControls** object that represents all the controls on a command bar. Read-only.
 
 
 ## 

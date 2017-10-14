@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PrintDrillIndicators Property (Excel)
 
-Specifies whether or not drill indicators are printed with the PivotTable. Read/write  **Boolean** .
+Specifies whether or not drill indicators are printed with the PivotTable. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Specifies whether or not drill indicators are printed with the PivotTable. Read/
 
 ## Remarks
 
-Returns  **True** if drill indicators are printed with the PivotTable and returns **False** if drill indicators are not printed with the PivotTable.
+Returns **True** if drill indicators are printed with the PivotTable and returns **False** if drill indicators are not printed with the PivotTable.
 
-When the  **[ShowDrillIndicators](pivottable-showdrillindicators-property-excel.md)** property is set to **False** , the **PrintDrillIndicators** property has no effect. Drill indicators are not printed when they are not displayed in the PivotTable.
+When the **[ShowDrillIndicators](pivottable-showdrillindicators-property-excel.md)** property is set to **False** , the **PrintDrillIndicators** property has no effect. Drill indicators are not printed when they are not displayed in the PivotTable.
 
 
 ## See also

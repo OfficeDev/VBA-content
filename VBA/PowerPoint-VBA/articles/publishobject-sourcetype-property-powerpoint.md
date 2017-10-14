@@ -30,7 +30,7 @@ PpPublishSourceType
 
 ## Remarks
 
-The value of the  **SourceType** property can be one of these **PpPublishSourceType** constants.
+The value of the **SourceType** property can be one of these **PpPublishSourceType** constants.
 
 
 ||

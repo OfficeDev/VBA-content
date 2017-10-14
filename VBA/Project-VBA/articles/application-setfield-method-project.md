@@ -42,12 +42,12 @@ Sets the value of a local custom field or enterprise custom field for the select
 
 If the custom field uses a lookup table that does not allow additional items to be entered, the specified Value must match a predefined value in the lookup table.
 
-If the value of the Field argument does not exist as a custom field name for the seleted items, the  **SetField** method results in run-time error 1101.
+If the value of the Field argument does not exist as a custom field name for the seleted items, the **SetField** method results in run-time error 1101.
 
 
 ## Example
 
-The following example sets the value of an enterprise task text custom field to one of the valid values in the lookup table for the custom field. To use the example, create a lookup table in Project Web App that includes the value  **Value 3**, and then create a task custom text field that uses that lookup table. Select a task in the active project and run the command in the  **Immediate** window in the Visual Basic Editor.
+The following example sets the value of an enterprise task text custom field to one of the valid values in the lookup table for the custom field. To use the example, create a lookup table in Project Web App that includes the value **Value 3**, and then create a task custom text field that uses that lookup table. Select a task in the active project and run the command in the **Immediate** window in the Visual Basic Editor.
 
 
 ```vb

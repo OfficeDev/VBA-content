@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.Visible Property (Excel)
 
-Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
+Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax

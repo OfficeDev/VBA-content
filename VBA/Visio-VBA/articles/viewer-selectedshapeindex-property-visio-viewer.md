@@ -17,7 +17,7 @@ Gets the index in the collection of shapes of the selected shape in the drawing 
 
  _expression_. **SelectedShapeIndex**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -29,7 +29,7 @@ Gets the index in the collection of shapes of the selected shape in the drawing 
 
 The collection of shapes is one-based, so the index of the first shape in the collection is 1.
 
-If no shapes are selected in the drawing, the  **SelectedShapeIndex** property returns 0.
+If no shapes are selected in the drawing, the **SelectedShapeIndex** property returns 0.
 
 
 ## Example

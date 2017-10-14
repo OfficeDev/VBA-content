@@ -25,7 +25,7 @@ Adds a Microsoft Exchange public folder to the public folder's Favorites folder.
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example adds the public folder GroupDiscussion to the user's Favorites folder by using the  **AddToPFFavorites** method. To run this example, you need to replace 'GroupDiscussion' with a valid public folder name.
+The following Visual Basic for Applications (VBA) example adds the public folder GroupDiscussion to the user's Favorites folder by using the **AddToPFFavorites** method. To run this example, you need to replace 'GroupDiscussion' with a valid public folder name.
 
 
 ```vb

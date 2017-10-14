@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ShowTableStyleFirstColumn Property (Excel)
 
-Returns or sets if the first column is formatted for the specified  **ListObject** object. Read/write **Boolean** .
+Returns or sets if the first column is formatted for the specified **ListObject** object. Read/write **Boolean** .
 
 
 ## Syntax

@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 # Group2 Object (Project)
 
-Represents a group definition where the group hierarchy can be maintained. A  **Group2** object is a member of a **[Groups2](groups2-object-project.md)**, **[ResourceGroups2](resourcegroups2-object-project.md)**, or **[TaskGroups2](taskgroups2-object-project.md)** collection.
+Represents a group definition where the group hierarchy can be maintained. A **Group2** object is a member of a **[Groups2](groups2-object-project.md)**, **[ResourceGroups2](resourcegroups2-object-project.md)**, or **[TaskGroups2](taskgroups2-object-project.md)** collection.
  
 
 
 ## Remarks
 
-The  **Group2** object includes the **[MaintainHierarchy](group2-maintainhierarchy-property-project.md)** property.
+The **Group2** object includes the **[MaintainHierarchy](group2-maintainhierarchy-property-project.md)** property.
  
 
  

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](odbcconnection-refreshonfileopen-property-excel.md)** property is ignored if the **EnableRefresh** property is set to **False** . For OLAP data sources, setting this property to **False** disables updates.
+The **[RefreshOnFileOpen](odbcconnection-refreshonfileopen-property-excel.md)** property is ignored if the **EnableRefresh** property is set to **False** . For OLAP data sources, setting this property to **False** disables updates.
 
 
 ## See also

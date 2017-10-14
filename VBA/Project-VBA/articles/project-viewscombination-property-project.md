@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.ViewsCombination Property (Project)
 
-Gets a  **[ViewsCombination](viewcombination-object-project.md)** collection representing the combination views of the project. Read-only **ViewsCombination**.
+Gets a **[ViewsCombination](viewcombination-object-project.md)** collection representing the combination views of the project. Read-only **ViewsCombination**.
 
 
 ## Syntax

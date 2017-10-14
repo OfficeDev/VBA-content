@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Deleting a  **[Point](point-object-excel.md)** object deletes the entire series.
+Deleting a **[Point](point-object-excel.md)** object deletes the entire series.
 
 
 ## See also

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Let <keyword>
 
-The  **Let** keyword is used in these contexts:
+The **Let** keyword is used in these contexts:
 
 [Let Statement](let-statement.md)
 

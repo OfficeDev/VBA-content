@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.ACWP Property (Project)
 
-Gets the actual cost of work performed for the task. Read-only  **Variant**.
+Gets the actual cost of work performed for the task. Read-only **Variant**.
 
 
 ## Syntax

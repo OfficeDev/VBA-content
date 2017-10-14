@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.FollowedHyperlinkColor Property (Project)
 
-Gets or sets the color used to denote followed hyperlinks. Read/write  **PjColor**.
+Gets or sets the color used to denote followed hyperlinks. Read/write **PjColor**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the color used to denote followed hyperlinks. Read/write  **PjColor
 
 ## Remarks
 
-The  **FollowedHyperlinkColor** property is one of the **[PjColor](pjcolor-enumeration-project.md)** constants. To get a hexadecimal RGB value for the color, use the **[FollowedHyperlinkColorEx](project-followedhyperlinkcolorex-property-project.md)** property.
+The **FollowedHyperlinkColor** property is one of the **[PjColor](pjcolor-enumeration-project.md)** constants. To get a hexadecimal RGB value for the color, use the **[FollowedHyperlinkColorEx](project-followedhyperlinkcolorex-property-project.md)** property.
 
 

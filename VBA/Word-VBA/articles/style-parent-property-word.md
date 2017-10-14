@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Style** object.
+Returns an **Object** that represents the parent object of the specified **Style** object.
 
 
 ## Syntax

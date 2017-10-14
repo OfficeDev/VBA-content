@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
  _expression_. **PresetGradient**(Style, Style, Variant, PresetGradientType)
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ### Parameters

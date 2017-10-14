@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Fields.Unlink Method (Word)
 
-Replaces all the fields in the  **Fields** collection with their most recent results.
+Replaces all the fields in the **Fields** collection with their most recent results.
 
 
 ## Syntax

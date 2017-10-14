@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNames.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of objects in a[ModelTableNames Object (Excel)](modeltablenames-object-excel.md) collection. Read-only.
+Returns a **Long** value that represents the number of objects in a[ModelTableNames Object (Excel)](modeltablenames-object-excel.md) collection. Read-only.
 
 
 ## Syntax

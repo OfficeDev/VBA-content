@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Next Property (Word)
 
-Returns a  **Row** object that represents the table row that is next in the collection of rows in a table. Read-only.
+Returns a **Row** object that represents the table row that is next in the collection of rows in a table. Read-only.
 
 
 ## Syntax

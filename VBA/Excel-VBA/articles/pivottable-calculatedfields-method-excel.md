@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.CalculatedFields Method (Excel)
 
-Returns a  **[CalculatedFields](calculatedfields-object-excel.md)** collection that represents all the calculated fields in the specified PivotTable report. Read-only.
+Returns a **[CalculatedFields](calculatedfields-object-excel.md)** collection that represents all the calculated fields in the specified PivotTable report. Read-only.
 
 
 ## Syntax

@@ -28,7 +28,7 @@ Shows or hides all revisions in a document that contains comments and tracked ch
 
 ## Remarks
 
-In previous versions of Word, the  **ToggleShowAllReviewers** method was on the **Window** object. As of Word, that method is hidden.
+In previous versions of Word, the **ToggleShowAllReviewers** method was on the **Window** object. As of Word, that method is hidden.
 
 
 ## See also

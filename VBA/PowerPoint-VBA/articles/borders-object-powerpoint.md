@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Borders Object (PowerPoint)
 
-A collection of  **[LineFormat](lineformat-object-powerpoint.md)** objects that represent the borders and diagonal lines of a cell or range of cells in a table.
+A collection of **[LineFormat](lineformat-object-powerpoint.md)** objects that represent the borders and diagonal lines of a cell or range of cells in a table.
 
 
 ## Remarks
 
-Each  **Cell** object or **CellRange** collection has six elements in the **Borders** collection. You cannot add objects to the **Borders** collection.
+Each **Cell** object or **CellRange** collection has six elements in the **Borders** collection. You cannot add objects to the **Borders** collection.
 
-Use  **Borders** (index), where index identifies the cell border or diagonal line, to return a single **Border** object. The index value can be any **PPBorderType** constant.
+Use **Borders** (index), where index identifies the cell border or diagonal line, to return a single **Border** object. The index value can be any **PPBorderType** constant.
 
 
 ||
@@ -34,7 +34,7 @@ Use  **Borders** (index), where index identifies the cell border or diagonal lin
 
 ## Example
 
-Use the [DashStyle](lineformat-dashstyle-property-powerpoint.md)property to apply a dashed line style to a  **Border** object. This example selects the second row from the table and applies a dashed line style to the bottom border.
+Use the [DashStyle](lineformat-dashstyle-property-powerpoint.md)property to apply a dashed line style to a **Border** object. This example selects the second row from the table and applies a dashed line style to the bottom border.
 
 
 ```vb

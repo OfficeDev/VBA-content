@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # ColorSchemes Object (Publisher)
 
-A collection of all the  **[ColorScheme](colorscheme-object-publisher.md)** objects in Microsoft Publisher. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used in a publication.
+A collection of all the **[ColorScheme](colorscheme-object-publisher.md)** objects in Microsoft Publisher. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used in a publication.
  
 
 
 ## Example
 
-Use the  **[Count](colorschemes-count-property-publisher.md)** property to return the number of color schemes available to Publisher. The following example displays the number of color schemes.
+Use the **[Count](colorschemes-count-property-publisher.md)** property to return the number of color schemes available to Publisher. The following example displays the number of color schemes.
  
 
  
@@ -30,7 +30,7 @@ Sub CountColorSchemes()
 End Sub
 ```
 
-Use the  **[Item](colorschemes-item-property-publisher.md)** property to return a specific color scheme from the **ColorSchemes** collection. The ** _Index_** argument of the **Item** property can be the number or name of the color scheme, or a **PbColorScheme** constant. The follow example sets the color scheme of the active publication to Wildflower.
+Use the **[Item](colorschemes-item-property-publisher.md)** property to return a specific color scheme from the **ColorSchemes** collection. The ** _Index_** argument of the **Item** property can be the number or name of the color scheme, or a **PbColorScheme** constant. The follow example sets the color scheme of the active publication to Wildflower.
  
 
  
@@ -44,7 +44,7 @@ Sub SetColorScheme()
 End Sub
 ```
 
-Use the  **[Name](colorscheme-name-property-publisher.md)** property to return a color scheme name. The following example lists in a text box all the color schemes available to Publisher.
+Use the **[Name](colorscheme-name-property-publisher.md)** property to return a color scheme name. The following example lists in a text box all the color schemes available to Publisher.
  
 
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Phantom Property (Word)
 
-Returns an  **[OMathPhantom](omathphantom-object-word.md)** object that represents an object used for advanced layout of an equation. Read-only.
+Returns an **[OMathPhantom](omathphantom-object-word.md)** object that represents an object used for advanced layout of an equation. Read-only.
 
 
 ## Syntax

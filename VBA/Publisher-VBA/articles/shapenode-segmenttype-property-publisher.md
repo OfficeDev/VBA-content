@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeNode.SegmentType Property (Publisher)
 
-Returns an  **MsoSegmentType** constant that indicates whether the segment associated with the specified node is straight or curved. Read-only.
+Returns an **MsoSegmentType** constant that indicates whether the segment associated with the specified node is straight or curved. Read-only.
 
 
 ## Syntax
 
  _expression_. **SegmentType**
 
- _expression_A variable that represents a  **ShapeNode** object.
+ _expression_A variable that represents a **ShapeNode** object.
 
 
 ### Return Value
@@ -30,11 +30,11 @@ MsoSegmentType
 
 ## Remarks
 
-If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve**.
+If the specified node is a control point for a curved segment, this property returns **msoSegmentCurve**.
 
-Use the  **[SetSegmentType](shapenodes-setsegmenttype-method-publisher.md)** method to set the value of this property.
+Use the **[SetSegmentType](shapenodes-setsegmenttype-method-publisher.md)** method to set the value of this property.
 
-The  **SegmentType** property value can be one of these **MsoSegmentType** constants declared in the Microsoft Publisher type library.
+The **SegmentType** property value can be one of these **MsoSegmentType** constants declared in the Microsoft Publisher type library.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Next Method (Excel)
 
-Returns a  **[Comment](comment-object-excel.md)** object that represents the next comment.
+Returns a **[Comment](comment-object-excel.md)** object that represents the next comment.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Comment
 
 ## Remarks
 
-This method works only on one sheet. Using this method on the last comment on a sheet returns  **Null** (not the next comment on the next sheet).
+This method works only on one sheet. Using this method on the last comment on a sheet returns **Null** (not the next comment on the next sheet).
 
 
 ## Example

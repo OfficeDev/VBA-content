@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # FileConverters.Count Property (PowerPoint)
 
-Returns a  **Long** that represents the number of file converters in the collection. Read-only.
+Returns a **Long** that represents the number of file converters in the collection. Read-only.
 
 
 ## Syntax

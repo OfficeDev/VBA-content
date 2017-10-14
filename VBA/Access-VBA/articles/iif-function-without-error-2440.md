@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **IIf** function requires parentheses around its arguments, as shown in the following syntax:
+The **IIf** function requires parentheses around its arguments, as shown in the following syntax:
 
  **IIf** ( _expr_, _truepart_, _falsepart_ )
  **ACCESS SUPPORT RESOURCES**<br>

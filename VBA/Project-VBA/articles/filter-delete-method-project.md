@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.Delete Method (Project)
 
-Deletes the  **Filter** object from a **Filters** collection.
+Deletes the **Filter** object from a **Filters** collection.
 
 
 ## Syntax

@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ViewCtl.Filter Property (Outlook View Control)
 
-Returns or sets a  **String**that represents the Distributed Authoring and Versioning (DAV) Searching and Locating (DASL) statement used to restrict the display to a specified subset of data. Read/write.
+Returns or sets a **String**that represents the Distributed Authoring and Versioning (DAV) Searching and Locating (DASL) statement used to restrict the display to a specified subset of data. Read/write.
 
 
 ## Syntax
 
  _expression_. **Filter**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

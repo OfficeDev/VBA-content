@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.GetExchangeDistributionList Method (Outlook)
 
-Returns the  **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object.
+Returns the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[ExchangeDistributionList](exchangedistributionlist-object-outloo
 
 ### Return Value
 
-The parent  **ExchangeDistributionList** object.
+The parent **ExchangeDistributionList** object.
 
 
 ## See also

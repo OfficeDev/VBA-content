@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Visible Property (Office)
 
-Gets or sets the  **Visible** property of the **CommandBarControl**. **True** if the **CommandBarControl** is visible. Read/write.
+Gets or sets the **Visible** property of the **CommandBarControl**. **True** if the **CommandBarControl** is visible. Read/write.
 
 
 ## 

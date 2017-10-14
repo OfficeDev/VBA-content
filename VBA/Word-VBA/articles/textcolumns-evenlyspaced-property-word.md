@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **EvenlySpaced** property can be **True** , **False** , or **wdUndefined** .
+The **EvenlySpaced** property can be **True** , **False** , or **wdUndefined** .
 
-If you set the  **[Spacing](textcolumns-spacing-property-word.md)** or **[Width](textcolumns-width-property-word.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True** . Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
+If you set the **[Spacing](textcolumns-spacing-property-word.md)** or **[Width](textcolumns-width-property-word.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True** . Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
 
 
 ## Example
@@ -45,7 +45,7 @@ If colTextColumns.Count > 1 Then _
 End If
 ```
 
-This example returns the status of the  **Equal column width** option in the **Columns** dialog box ( **Format** menu).
+This example returns the status of the **Equal column width** option in the **Columns** dialog box ( **Format** menu).
 
 
 

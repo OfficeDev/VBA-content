@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Windows Property (Excel)
 
-Returns a  **[Windows](windows-object-excel.md)** collection that represents all the windows in all the workbooks. Read-only **Windows** object.
+Returns a **[Windows](windows-object-excel.md)** collection that represents all the windows in all the workbooks. Read-only **Windows** object.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ This example closes the first open or hidden window in Microsoft Excel.
 Application.Windows(1).Close
 ```
 
-This example names window one in the active workbook "Consolidated Balance Sheet." This name is then used as the index to the  **Windows** collection.
+This example names window one in the active workbook "Consolidated Balance Sheet." This name is then used as the index to the **Windows** collection.
 
 
 

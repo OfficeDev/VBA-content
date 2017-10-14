@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # List.StyleName Property (Word)
 
-Returns the name of the style applied to the specified AutoText entry. Read-only  **String** .
+Returns the name of the style applied to the specified AutoText entry. Read-only **String** .
 
 
 ## Syntax

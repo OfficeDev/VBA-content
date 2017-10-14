@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Sent Property (Outlook)
 
-Returns a  **Boolean** value that indicates if a message has been sent. Read-only.
+Returns a **Boolean** value that indicates if a message has been sent. Read-only.
 
 
 ## Syntax

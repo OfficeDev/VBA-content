@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.IsTemplate Property (Project)
 
-Gets or sets a value that indicates whether the project is a template. Read/write  **Boolean**.
+Gets or sets a value that indicates whether the project is a template. Read/write **Boolean**.
 
 
 ## Syntax

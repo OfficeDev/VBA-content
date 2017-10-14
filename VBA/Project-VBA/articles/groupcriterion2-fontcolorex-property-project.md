@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2.FontColorEx Property (Project)
 
-Gets or sets the color of the font for a field used as a criterion in a group definition. Read/write  **Long**.
+Gets or sets the color of the font for a field used as a criterion in a group definition. Read/write **Long**.
 
 
 ## Syntax

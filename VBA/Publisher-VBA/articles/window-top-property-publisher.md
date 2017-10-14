@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Window.Top Property (Publisher)
 
-Returns or sets a  **Long** that represents the distance between the top edge of the screen and the application window. Read/write.
+Returns or sets a **Long** that represents the distance between the top edge of the screen and the application window. Read/write.
 
 
 ## Syntax
 
  _expression_. **Top**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ## Example

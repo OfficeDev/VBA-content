@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSize.Application Property (Publisher)
 
-Returns an  **Application** object that represents the creator of the parent **PageSize** object. Read-only.
+Returns an **Application** object that represents the creator of the parent **PageSize** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_A variable that represents a  **PageSize** object.
+ _expression_A variable that represents a **PageSize** object.
 
 
 ### Return Value

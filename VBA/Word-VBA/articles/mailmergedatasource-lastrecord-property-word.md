@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.LastRecord Property (Word)
 
-Returns or sets the number of the last record to be merged in a mail merge operation. Read/write  **Long** .
+Returns or sets the number of the last record to be merged in a mail merge operation. Read/write **Long** .
 
 
 ## Syntax

@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The slide number is the actual number that will appear in the lower-right corner of the slide when you display slide numbers. This number is determined by the number (order) of the slide within the presentation (the  **SlideIndex** property value) and the starting slide number for the presentation (the **FirstSlideNumber** property value). The slide number will always be equal to the starting slide number + the slide index number - 1. The **SlideNumber** property returns the slide number.
+The slide number is the actual number that will appear in the lower-right corner of the slide when you display slide numbers. This number is determined by the number (order) of the slide within the presentation (the **SlideIndex** property value) and the starting slide number for the presentation (the **FirstSlideNumber** property value). The slide number will always be equal to the starting slide number + the slide index number - 1. The **SlideNumber** property returns the slide number.
 
 
 ## Example

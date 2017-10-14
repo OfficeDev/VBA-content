@@ -38,7 +38,7 @@ Variant
 
 ## Remarks
 
-Setting this property clears any range specified by the  **[ListFillRange](controlformat-listfillrange-property-excel.md)** property.
+Setting this property clears any range specified by the **[ListFillRange](controlformat-listfillrange-property-excel.md)** property.
 
 
 ## Example

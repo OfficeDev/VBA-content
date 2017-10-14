@@ -21,7 +21,7 @@ Returns the total space, in bytes, of a drive or network share.
  _object_. **TotalSize**
 The  _object_ is always a **Drive** object.
  **Remarks**
-The following code illustrates the use of the  **TotalSize** property:
+The following code illustrates the use of the **TotalSize** property:
 
 
 

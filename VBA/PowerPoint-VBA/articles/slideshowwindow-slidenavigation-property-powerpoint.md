@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # SlideShowWindow.SlideNavigation Property (PowerPoint)
 
-Returns a  **[SlideNavigation](slidenavigation-object-powerpoint.md)** object that represents the slide navigation screen in slide show view. Read-only
+Returns a **[SlideNavigation](slidenavigation-object-powerpoint.md)** object that represents the slide navigation screen in slide show view. Read-only
 
 
 ## Syntax

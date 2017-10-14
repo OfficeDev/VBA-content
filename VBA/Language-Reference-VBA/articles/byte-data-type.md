@@ -13,5 +13,5 @@ ms.date: 06/08/2017
 
 [Byte variables](vbe-glossary.md) are stored as single, unsigned, 8-bit (1-byte) numbers ranging in value from 0-255.
 
-The  **Byte**[data type](vbe-glossary.md) is useful for containing binary data.
+The **Byte**[data type](vbe-glossary.md) is useful for containing binary data.
 

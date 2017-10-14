@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.Visible Property (Excel)
 
-Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
+Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 ## Remarks
 
-If you set the  **Visible** property for a name to **False** , the name won't appear in the **Define Name** dialog box.
+If you set the **Visible** property for a name to **False** , the name won't appear in the **Define Name** dialog box.
 
 
 ## See also

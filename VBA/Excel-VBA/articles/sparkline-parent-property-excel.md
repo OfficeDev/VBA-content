@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sparkline.Parent Property (Excel)
 
-Returns the parent  **[SparklineGroup](sparklinegroup-object-excel.md)** object for the specified object. Read-only.
+Returns the parent **[SparklineGroup](sparklinegroup-object-excel.md)** object for the specified object. Read-only.
 
 
 ## Syntax

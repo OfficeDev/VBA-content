@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ApplicationSettings.EnterCommitsText Property (Visio)
 
-Returns or sets a  **Boolean** that determines whether pressing **Enter** commits shape text ( **True**) or writes a new line ( **False**, the default). Read/write.
+Returns or sets a **Boolean** that determines whether pressing **Enter** commits shape text ( **True**) or writes a new line ( **False**, the default). Read/write.
 
 
 ## Syntax

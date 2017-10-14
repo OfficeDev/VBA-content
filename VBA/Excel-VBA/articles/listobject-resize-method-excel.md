@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Resize Method (Excel)
 
-The  **Resize** method allows a **[ListObject](listobject-object-excel.md)** object to be resized over a new range. No cells are inserted or moved.
+The **Resize** method allows a **[ListObject](listobject-object-excel.md)** object to be resized over a new range. No cells are inserted or moved.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ For tables that are linked to a server that is running Microsoft SharePoint Foun
 
 ## Example
 
-The following example uses the  **Resize** method to resize the default **ListObject** object in Sheet1 of the active workbook.
+The following example uses the **Resize** method to resize the default **ListObject** object in Sheet1 of the active workbook.
 
 
 ```vb

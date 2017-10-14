@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserDefinedProperty.Type Property (Outlook)
 
-Returns an  **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)** constant indicating the type of the **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** object. Read-only.
+Returns an **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)** constant indicating the type of the **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)** 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays the name of a specified  **[Folder](folder-object-outlook.md)** object, as well as the name and type of every **UserDefinedProperty** object contained in the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection of the specified **Folder** object, to the **Immediate** window.
+The following Visual Basic for Applications (VBA) example displays the name of a specified **[Folder](folder-object-outlook.md)** object, as well as the name and type of every **UserDefinedProperty** object contained in the **[UserDefinedProperties](folder-userdefinedproperties-property-outlook.md)** collection of the specified **Folder** object, to the **Immediate** window.
 
 
 ```vb

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** , or **wdUndefined** . Can be set to **True** , **False** , or **wdToggle** . Setting **Emboss** to **True** sets **[Engrave](font-engrave-property-word.md)** to **False** , and vice versa.
+Returns **True** , **False** , or **wdUndefined** . Can be set to **True** , **False** , or **wdToggle** . Setting **Emboss** to **True** sets **[Engrave](font-engrave-property-word.md)** to **False** , and vice versa.
 
 
 ## Example

@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-Setting the  **Size** property to 0 removes the shadow. Setting the **Size** property to 100 creates a shadow the same size as its associated shape. Setting the **Size** property to 200 creates a shadow double the size of its shape.
+Setting the **Size** property to 0 removes the shadow. Setting the **Size** property to 100 creates a shadow the same size as its associated shape. Setting the **Size** property to 200 creates a shadow double the size of its shape.
 
 
 ## See also

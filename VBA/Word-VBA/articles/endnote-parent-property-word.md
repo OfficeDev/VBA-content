@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Endnote.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Endnote** object.
+Returns an **Object** that represents the parent object of the specified **Endnote** object.
 
 
 ## Syntax

@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Add Scroll Bars to a Page and a Frame
 
-The following example uses the  **ScrollBars** and the **KeepScrollBarsVisible** properties to add scroll bars to a page of a **[MultiPage](multipage-object-outlook-forms-script.md)** and to a **[Frame](frame-object-outlook-forms-script.md)**. The user chooses an option button that, in turn, specifies a value for  **KeepScrollBarsVisible**.
+The following example uses the **ScrollBars** and the **KeepScrollBarsVisible** properties to add scroll bars to a page of a **[MultiPage](multipage-object-outlook-forms-script.md)** and to a **[Frame](frame-object-outlook-forms-script.md)**. The user chooses an option button that, in turn, specifies a value for **KeepScrollBarsVisible**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **Frame** named Frame1.
+- A **Frame** named Frame1.
     
-- Four  **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls named OptionButton1 through OptionButton4.
+- Four **[OptionButton](optionbutton-object-outlook-forms-script.md)** controls named OptionButton1 through OptionButton4.
     
 
 

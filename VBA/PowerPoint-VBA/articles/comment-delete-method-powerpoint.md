@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Delete Method (PowerPoint)
 
-Deletes the specified  **Comment** object.
+Deletes the specified **Comment** object.
 
 
 ## Syntax

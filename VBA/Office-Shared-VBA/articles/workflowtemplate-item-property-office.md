@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorkflowTemplate.Item Property (Office)
 
-Gets a  **WorkflowTemplate** object from the **WorkflowTemplates** collection. Read-only.
+Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Gets a  **WorkflowTemplate** object from the **WorkflowTemplates** collection. R
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the  **WorkflowTemplate** object to be returned.|
+| _Index_|Required|**Long**|The index number of the **WorkflowTemplate** object to be returned.|
 
 ### Return Value
 

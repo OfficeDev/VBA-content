@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- You tried to enter break mode, for example, by pressing CTRL+BREAK, pressing the  **Break** button on the **Standard** toolbar or the **Debug** toolbar, or by executing a[breakpoint](vbe-glossary.md) in the running code.
+- You tried to enter break mode, for example, by pressing CTRL+BREAK, pressing the **Break** button on the **Standard** toolbar or the **Debug** toolbar, or by executing a[breakpoint](vbe-glossary.md) in the running code.
     
     A change was made programmatically to the [project](vbe-glossary.md) using the extensibility (add-in) object model. This prevents the program from having execution suspended. You can continue running, or end execution, but can't suspend execution.
     

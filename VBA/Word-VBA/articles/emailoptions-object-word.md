@@ -15,7 +15,7 @@ Contains global application-level attributes used by Microsoft Word when you cre
 
 ## Remarks
 
-Use the  **[EmailOptions](application-emailoptions-property-word.md)** property to return the **EmailOptions** object.
+Use the **[EmailOptions](application-emailoptions-property-word.md)** property to return the **EmailOptions** object.
 
 This example changes the font color of the default style used to compose new e-mail messages.
 

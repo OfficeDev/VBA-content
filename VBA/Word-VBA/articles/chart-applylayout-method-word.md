@@ -30,7 +30,7 @@ Applies the layouts shown in the ribbon.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **Long**|The type of layout. The type of layout is denoted by a number from 1 to 10.|
-| _ChartType_|Optional| **Variant**|An  **[XlChartType](http://msdn.microsoft.com/library/bba4ee89-ee91-f55a-d2e0-59a73e5bfabe%28Office.15%29.aspx)** constant that represents the type of chart.|
+| _ChartType_|Optional| **Variant**|An **[XlChartType](http://msdn.microsoft.com/library/bba4ee89-ee91-f55a-d2e0-59a73e5bfabe%28Office.15%29.aspx)** constant that represents the type of chart.|
 
 ## Remarks
 

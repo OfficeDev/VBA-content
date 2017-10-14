@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Placeholders.FindByName Method (PowerPoint)
 
-Finds the placeholder in the  **[Placeholders](placeholders-object-powerpoint.md)** collection at the specified index location or with the specified name.
+Finds the placeholder in the **[Placeholders](placeholders-object-powerpoint.md)** collection at the specified index location or with the specified name.
 
 
 ## Syntax
@@ -38,12 +38,12 @@ Shape
 
 ## Remarks
 
-Because it takes a  **Variant**, the **FindByName** method makes it possible to locate a member of the **Placeholders** collection by specifying either the index number (an **Integer** or **Long** ) or the name (a **String** ) of an individual placeholder. Unlike the corresponding methods of other collections, such as **[Shapes](shapes-object-powerpoint.md)** or **[Slides](slides-object-powerpoint.md)**, the **[Item](placeholders-item-method-powerpoint.md)** method of the **Placeholders** collection takes only a **Long**.
+Because it takes a **Variant**, the **FindByName** method makes it possible to locate a member of the **Placeholders** collection by specifying either the index number (an **Integer** or **Long** ) or the name (a **String** ) of an individual placeholder. Unlike the corresponding methods of other collections, such as **[Shapes](shapes-object-powerpoint.md)** or **[Slides](slides-object-powerpoint.md)**, the **[Item](placeholders-item-method-powerpoint.md)** method of the **Placeholders** collection takes only a **Long**.
 
 
 ## Example
 
-The following example shows how to use the  **FindByName** method to select the title placeholder in slide one in the active presentation.
+The following example shows how to use the **FindByName** method to select the title placeholder in slide one in the active presentation.
 
 
 ```vb

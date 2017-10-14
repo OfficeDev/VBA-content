@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Store Property (Outlook)
 
-Returns a  **[Store](store-object-outlook.md)** object representing the store that contains the **[Folder](folder-object-outlook.md)** object. Read-only.
+Returns a **[Store](store-object-outlook.md)** object representing the store that contains the **[Folder](folder-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Store](store-object-outlook.md)** object representing the store th
 
 ## Remarks
 
-This property returns a  **Store** object except in the case where the **Folder** is a shared folder (returned by **[NameSpace.GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** ). In this case, one user has delegated access to a default folder to another user; a call to **Folder.Store** will return **Null** .
+This property returns a **Store** object except in the case where the **Folder** is a shared folder (returned by **[NameSpace.GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** ). In this case, one user has delegated access to a default folder to another user; a call to **Folder.Store** will return **Null** .
 
 
 ## See also

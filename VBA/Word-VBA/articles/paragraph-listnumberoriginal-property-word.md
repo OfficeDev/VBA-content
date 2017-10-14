@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.ListNumberOriginal Property (Word)
 
-Returns an  **Integer** that represents the original list level for a paragraph. Read-only.
+Returns an **Integer** that represents the original list level for a paragraph. Read-only.
 
 
 ## Syntax

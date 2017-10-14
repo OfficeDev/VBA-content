@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.BibliographySort Property (Word)
 
-Returns or sets a  **String** that represents the order in which to display sources in the **Source Manager** dialog box. Read/write.
+Returns or sets a **String** that represents the order in which to display sources in the **Source Manager** dialog box. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the order in which to display sour
 
 ## Remarks
 
-Possible values for the  **BibliographySort** property are `Author`,  `Title`,  `Tag`, or  `Year`.
+Possible values for the **BibliographySort** property are `Author`,  `Title`,  `Tag`, or  `Year`.
 
 
 ## See also

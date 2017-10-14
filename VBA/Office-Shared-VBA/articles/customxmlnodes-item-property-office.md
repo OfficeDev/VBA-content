@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNodes.Item Property (Office)
 
-Gets a  **CustomXMLNode** object from the **CustomXMLNodes** collection. Read-only.
+Gets a **CustomXMLNode** object from the **CustomXMLNodes** collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets a  **CustomXMLNode** object from the **CustomXMLNodes** collection. Read-on
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the  **CustomXMLNode** object to be returned.|
+| _Index_|Required|**Long**|The index number of the **CustomXMLNode** object to be returned.|
 
 ### Return Value
 

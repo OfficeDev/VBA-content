@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.RightMargin Property (Word)
 
-Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text. Read/write **Single** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the distance (in points) between the right edge of the page and 
 
 ## Remarks
 
-If the  **[MirrorMargins](pagesetup-mirrormargins-property-word.md)** property is set to **True** , the **RightMargin** property controls the setting for outside margins and the **[LeftMargin](pagesetup-leftmargin-property-word.md)** property controls the setting for inside margins.
+If the **[MirrorMargins](pagesetup-mirrormargins-property-word.md)** property is set to **True** , the **RightMargin** property controls the setting for outside margins and the **[LeftMargin](pagesetup-leftmargin-property-word.md)** property controls the setting for inside margins.
 
 
 ## Example
 
-This example displays the right margin setting for the active document. The  **[PointsToInches](global-pointstoinches-method-word.md)** method is used to convert the result to inches.
+This example displays the right margin setting for the active document. The **[PointsToInches](global-pointstoinches-method-word.md)** method is used to convert the result to inches.
 
 
 ```vb
@@ -40,7 +40,7 @@ With ActiveDocument.PageSetup
 End With
 ```
 
-This example sets the right margin for section two in the selection. The  **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
+This example sets the right margin for section two in the selection. The **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
 
 
 

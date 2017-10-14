@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Cancel the Deletion of a Record by Using Custom Criteria
 
-The following example illutrates how to use a form's  **[Delete](form-delete-event-access.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
+The following example illutrates how to use a form's **[Delete](form-delete-event-access.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
 
 
 ```vb

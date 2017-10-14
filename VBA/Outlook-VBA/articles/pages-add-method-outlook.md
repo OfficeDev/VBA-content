@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pages.Add Method (Outlook)
 
-Creates a new page in the  **[Pages](pages-object-outlook.md)** collection.
+Creates a new page in the **[Pages](pages-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Creates a new page in the  **[Pages](pages-object-outlook.md)** collection.
 
 ### Return Value
 
-A  **[Page](http://msdn.microsoft.com/library/836941c3-c768-151a-65a5-41c71493033a%28Office.15%29.aspx)** object that represents the new page.
+A **[Page](http://msdn.microsoft.com/library/836941c3-c768-151a-65a5-41c71493033a%28Office.15%29.aspx)** object that represents the new page.
 
 
 ## Remarks
 
-The  **Pages** collection is initially empty, and there is a limit of 5 customizable pages per collection.
+The **Pages** collection is initially empty, and there is a limit of 5 customizable pages per collection.
 
 
 ## See also

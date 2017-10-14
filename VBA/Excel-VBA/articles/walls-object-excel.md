@@ -18,7 +18,7 @@ Represents the walls of a 3-D chart. This object isn't a collection. There's no 
 
 ## Example
 
-Use the  **[Walls](chart-walls-property-excel.md)** property to return the **Walls** object. The following example sets the pattern on the walls for embedded chart one on Sheet1. If the chart isn't a 3-D chart, this example will fail.
+Use the **[Walls](chart-walls-property-excel.md)** property to return the **Walls** object. The following example sets the pattern on the walls for embedded chart one on Sheet1. If the chart isn't a 3-D chart, this example will fail.
 
 
 ```vb

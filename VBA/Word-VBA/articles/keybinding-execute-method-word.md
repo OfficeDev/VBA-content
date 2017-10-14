@@ -25,7 +25,7 @@ Runs the command associated with the specified key combination.
 
 ## Example
 
-This example assigns the CTRL+SHIFT+C key combination to the  **FileClose** command and then executes the key combination (the document is closed).
+This example assigns the CTRL+SHIFT+C key combination to the **FileClose** command and then executes the key combination (the document is closed).
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Shadow Property (Excel)
 
-Returns a read-only  **[ShadowFormat](shadowformat-object-excel.md)** object that contains shadow formatting properties for the specified shape or shapes.
+Returns a read-only **[ShadowFormat](shadowformat-object-excel.md)** object that contains shadow formatting properties for the specified shape or shapes.
 
 
 ## Syntax

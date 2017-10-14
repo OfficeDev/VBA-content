@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.IsRecolored Property (Publisher)
 
-Returns  **True** if the image represented by the parent **PictureFormat** object has been recolored, either in the user interface or by using the ** [PictureFormat.Recolor](pictureformat-recolor-method-publisher.md)** method. Read-only.
+Returns **True** if the image represented by the parent **PictureFormat** object has been recolored, either in the user interface or by using the ** [PictureFormat.Recolor](pictureformat-recolor-method-publisher.md)** method. Read-only.
 
 
 ## Syntax
 
  _expression_. **IsRecolored**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value

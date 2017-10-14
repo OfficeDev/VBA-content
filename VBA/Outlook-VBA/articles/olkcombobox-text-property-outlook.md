@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.Text Property (Outlook)
 
-Returns or sets a  **String** that is the text displayed in the control. Read/write.
+Returns or sets a **String** that is the text displayed in the control. Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **String** that is the text displayed in the control. Read/wr
 
 ## Remarks
 
-The default value of the  **Text** property is the empty string.
+The default value of the **Text** property is the empty string.
 
-The  **Text** property provides the same value as the **[Value](olkcombobox-value-property-outlook.md)** property, but the value is strongly typed as a **String** .
+The **Text** property provides the same value as the **[Value](olkcombobox-value-property-outlook.md)** property, but the value is strongly typed as a **String** .
 
 
 ## See also

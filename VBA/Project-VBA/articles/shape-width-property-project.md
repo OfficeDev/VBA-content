@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Width Property (Project)
-Gets or sets the width, in points, of the shape. Read/write  **Long**.
+Gets or sets the width, in points, of the shape. Read/write **Long**.
 
 ## Syntax
 

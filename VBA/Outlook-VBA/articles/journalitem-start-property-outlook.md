@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.Start Property (Outlook)
 
-Returns or sets a  **Date** indicating the starting date and time for the Outlook item. Read/write.
+Returns or sets a **Date** indicating the starting date and time for the Outlook item. Read/write.
 
 
 ## Syntax

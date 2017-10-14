@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Parent Property (Word)
 
-Returns a  **Shape** object that represents the parent shape of the text frame.
+Returns a **Shape** object that represents the parent shape of the text frame.
 
 
 ## Syntax

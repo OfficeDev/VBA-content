@@ -38,14 +38,14 @@ String
 
 ## Remarks
 
-The  **CreateURL** method of the **Hyperlink** object can be used to resolve relative URLs against a hyperlink's base address.
+The **CreateURL** method of the **Hyperlink** object can be used to resolve relative URLs against a hyperlink's base address.
 
-When you use the canonical form, the  **CreateURL** method applies URL canonicalization rules to the hyperlink. Only spaces are URL-encoded during canonicalization. Port 80 is assumed for HTTP URLs and is removed during canonicalization. For example, the URL "http://www.microsoft.com:80/" is returned as "http://www.microsoft.com/", whereas http://www.microsoft.com:1000/" is unchanged.
+When you use the canonical form, the **CreateURL** method applies URL canonicalization rules to the hyperlink. Only spaces are URL-encoded during canonicalization. Port 80 is assumed for HTTP URLs and is removed during canonicalization. For example, the URL "http://www.microsoft.com:80/" is returned as "http://www.microsoft.com/", whereas http://www.microsoft.com:1000/" is unchanged.
 
 
 ## Example
 
-Here are some examples of results of the  **CreateURL** method:
+Here are some examples of results of the **CreateURL** method:
 
 
 ```
@@ -74,7 +74,7 @@ CreateURL(False) returns "http://www.microsoft.com/file.htm"
 
 
 
-The following example shows how to use the  **CreateURL** method to resolve relative URLs against the base address of a hyperlink. Before running this macro, replace _drive\folder\subfolder_ with a valid file path on your computer, replace _address_ with a valid Internet or intranet address, and replace _drawing.vsd_ with a valid file on your computer.
+The following example shows how to use the **CreateURL** method to resolve relative URLs against the base address of a hyperlink. Before running this macro, replace _drive\folder\subfolder_ with a valid file path on your computer, replace _address_ with a valid Internet or intranet address, and replace _drawing.vsd_ with a valid file on your computer.
 
 
 

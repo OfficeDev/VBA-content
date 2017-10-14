@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.LastSavedBy Property (Project)
 
-Gets the name of the user who last saved a project. Read-only  **String**.
+Gets the name of the user who last saved a project. Read-only **String**.
 
 
 ## Syntax

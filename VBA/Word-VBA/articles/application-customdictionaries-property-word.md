@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CustomDictionaries Property (Word)
 
-Returns a  **[Dictionaries](dictionaries-object-word.md)** object that represents the collection of active custom dictionaries. Read-only.
+Returns a **[Dictionaries](dictionaries-object-word.md)** object that represents the collection of active custom dictionaries. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Dictionaries](dictionaries-object-word.md)** object that represent
 
 ## Remarks
 
-Active custom dictionaries are marked with a check in the  **Custom Dictionaries** dialog box. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+Active custom dictionaries are marked with a check in the **Custom Dictionaries** dialog box. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example

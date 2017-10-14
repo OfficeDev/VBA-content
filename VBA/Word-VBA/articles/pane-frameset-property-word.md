@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.Frameset Property (Word)
 
-Returns a  **[Frameset](frameset-object-word.md)** object that represents an entire frames page or a single frame on a frames page. Read-only.
+Returns a **[Frameset](frameset-object-word.md)** object that represents an entire frames page or a single frame on a frames page. Read-only.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Moves the specified shape or shape range vertically by the specified distance.
 
  _expression_. **IncrementTop**( **_Increment_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Moves the specified shape or shape range vertically by the specified distance.
 
 ## Remarks
 
-Use the  **[IncrementLeft](shape-incrementleft-method-publisher.md)** method to move shapes or shape ranges horizontally.
+Use the **[IncrementLeft](shape-incrementleft-method-publisher.md)** method to move shapes or shape ranges horizontally.
 
 
 ## Example

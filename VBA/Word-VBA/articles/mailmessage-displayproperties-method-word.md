@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMessage.DisplayProperties Method (Word)
 
-Displays the  **Properties** dialog box for the active e-mail message.
+Displays the **Properties** dialog box for the active e-mail message.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This method is available only if you are using Word as your e-mail editor.
 
 ## Example
 
-This example displays the  **Properties** dialog box for the active e-mail message.
+This example displays the **Properties** dialog box for the active e-mail message.
 
 
 ```vb

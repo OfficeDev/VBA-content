@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GroupLevel.SortOrder Property (Access)
 
-You use the  **SortOrder** property to specify the sort order for fields and expressions in a report. For example, if you're printing a list of suppliers, you can sort the records alphabetically by company name. Read/write **Boolean**.
+You use the **SortOrder** property to specify the sort order for fields and expressions in a report. For example, if you're printing a list of suppliers, you can sort the records alphabetically by company name. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You use the  **SortOrder** property to specify the sort order for fields and exp
 
 ## Remarks
 
-The  **SortOrder** property uses the following settings.
+The **SortOrder** property uses the following settings.
 
 
 
@@ -33,7 +33,7 @@ The  **SortOrder** property uses the following settings.
 |:-----|:-----|:-----|
 |Ascending|**False**|(Default) Sorts values in ascending (A to Z, 0 to 9) order.|
 |Descending|**True**|Sorts values in descending (Z to A, 9 to 0) order.|
-In Visual Basic, you set the  **SortOrder** property in report Design view or in the **Open** event procedure of a report by using the **[GroupLevel](report-grouplevel-property-access.md)** property.
+In Visual Basic, you set the **SortOrder** property in report Design view or in the **Open** event procedure of a report by using the **[GroupLevel](report-grouplevel-property-access.md)** property.
 
 
 ## Example

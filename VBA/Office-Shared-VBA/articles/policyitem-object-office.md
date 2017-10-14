@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PolicyItem Object (Office)
 
-Represents an item within a  **ServerPolicy** object that contains the settings for one policy.
+Represents an item within a **ServerPolicy** object that contains the settings for one policy.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisGroup Property
 
-AxisGroup property as it applies to the  **ChartGroup** and **Series** objects.
+AxisGroup property as it applies to the **ChartGroup** and **Series** objects.
 
 Returns the group for the specified chart group or series. Read/write XlAxisGroup .
 
@@ -23,7 +23,7 @@ Returns the group for the specified chart group or series. Read/write XlAxisGrou
 | **xlSecondary**|
  _expression_. **AxisGroup**
  _expression_ Required. An expression that returns one of the above objects.
-AxisGroup property as it applies to the  **Axis** object.
+AxisGroup property as it applies to the **Axis** object.
 Returns the group for the specified axis. Read-only XlAxisGroup .
 
 
@@ -35,7 +35,7 @@ Returns the group for the specified axis. Read-only XlAxisGroup .
 
 ## Remarks
 
-For 3-D charts, only  **xlPrimary** is valid.
+For 3-D charts, only **xlPrimary** is valid.
 
 
 ## Example

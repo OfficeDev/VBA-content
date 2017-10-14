@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerFields Object (Office)
 
-A collection of  **PickerField** objects. Each **PickerField** object represents a column definition of Picker dialog.
+A collection of **PickerField** objects. Each **PickerField** object represents a column definition of Picker dialog.
 
 
 ## Properties

@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.MergeShapes Method (Project)
-The  **MergeShapes** method is not implemented in Project.
+The **MergeShapes** method is not implemented in Project.
 
 ## Syntax
 
@@ -34,7 +34,7 @@ The  **MergeShapes** method is not implemented in Project.
 
 ## Remarks
 
-In general for applications that implement Office Art, the  **MergeShapes** method merges two or more shapes in a shape range into the specified **Shape** object. Project does not support the **MergeShapes** method.
+In general for applications that implement Office Art, the **MergeShapes** method merges two or more shapes in a shape range into the specified **Shape** object. Project does not support the **MergeShapes** method.
 
 
 ## See also

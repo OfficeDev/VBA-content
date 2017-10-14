@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.PageSetup Property (Word)
 
-Returns a  **PageSetup** object that is associated with the specified section.
+Returns a **PageSetup** object that is associated with the specified section.
 
 
 ## Syntax

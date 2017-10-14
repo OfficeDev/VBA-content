@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WindowState Property (Excel)
 
-Returns or sets the state of the window. Read/write  **[XlWindowState](xlwindowstate-enumeration-excel.md)** .
+Returns or sets the state of the window. Read/write **[XlWindowState](xlwindowstate-enumeration-excel.md)** .
 
 
 ## Syntax

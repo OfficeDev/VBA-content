@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Reflection Property (Word)
 
-Returns a  **[ReflectionFormat](reflectionformat-object-word.md)** object that represents the reflection formatting for a shape. Read-only.
+Returns a **[ReflectionFormat](reflectionformat-object-word.md)** object that represents the reflection formatting for a shape. Read-only.
 
 
 ## Syntax

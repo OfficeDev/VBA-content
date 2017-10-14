@@ -25,7 +25,7 @@ Returns a Boolean that indicates whether the specified calculated member has bee
 
 ## Remarks
 
-This property returns  **True** even if the PivotTable is not connected to its data source. Make sure that the PivotTable is connected before querying the value of the **IsValid** property.
+This property returns **True** even if the PivotTable is not connected to its data source. Make sure that the PivotTable is connected before querying the value of the **IsValid** property.
 
 
 ## Example

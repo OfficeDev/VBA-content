@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BrokenReference Property (Access)
 
-Returns a  **Boolean** indicating whether the current database has any broken references to databases or type libraries. **True** if there are any broken references. Read-only.
+Returns a **Boolean** indicating whether the current database has any broken references to databases or type libraries. **True** if there are any broken references. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** indicating whether the current database has any broken re
 
 ## Remarks
 
-To test the validity of a specific reference, use the  **[IsBroken](reference-isbroken-property-access.md)** property of the **[Reference](reference-object-access.md)** object.
+To test the validity of a specific reference, use the **[IsBroken](reference-isbroken-property-access.md)** property of the **[Reference](reference-object-access.md)** object.
 
 
 ## Example

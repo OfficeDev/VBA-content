@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slide.CustomLayout Property (PowerPoint)
 
-Returns a  **[CustomLayout](customlayout-object-powerpoint.md)** object that represents the custom layout associated with the specified slide. Read-only.
+Returns a **[CustomLayout](customlayout-object-powerpoint.md)** object that represents the custom layout associated with the specified slide. Read-only.
 
 
 ## Syntax

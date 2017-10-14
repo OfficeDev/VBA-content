@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActivePrinter Property (Excel)
 
-Returns or sets the name of the active printer. Read/write  **String** .
+Returns or sets the name of the active printer. Read/write **String** .
 
 
 ## Syntax

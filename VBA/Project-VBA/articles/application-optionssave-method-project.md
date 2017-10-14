@@ -36,7 +36,7 @@ Sets save options for project files.
 | _ExpandDatabaseTimephasedData_|Optional|**Boolean**|**True** if timephased data should be expanded to a readable format when saving to a database. **False** if timephased data should remain in a compressed binary format. The default value is **False**.|
 | _AutomaticSave_|Optional|**Boolean**|**True** if Project automatically saves files.|
 | _AutomaticSaveInterval_|Optional|**Long**|Specifies how often (in minutes) Project automatically saves.|
-| _AutomaticSaveOptions_|Optional|**Long**|Specifies whether Project saves only the active file or all changed files. Can be one of the following  **[PjAutomaticSaveOptions](pjautomaticsaveoptions-enumeration-project.md)** constants.|
+| _AutomaticSaveOptions_|Optional|**Long**|Specifies whether Project saves only the active file or all changed files. Can be one of the following **[PjAutomaticSaveOptions](pjautomaticsaveoptions-enumeration-project.md)** constants.|
 | _AutomaticSavePrompt_|Optional|**Boolean**|**True** if alerts display when automatically saving files.|
 | _SetDefaultsDatabase_|Optional|**Boolean**|**True** if the value specified in the **Database save options** section, found on the **Save** tab of the **Options** dialog box, is used as the default value for new projects. The default value is **False**.|
 
@@ -47,9 +47,9 @@ Sets save options for project files.
 
 ## Remarks
 
-If an argument is omitted, the default value is specified by the corresponding setting on the  **Save** tab of the **Project Options** dialog box.
+If an argument is omitted, the default value is specified by the corresponding setting on the **Save** tab of the **Project Options** dialog box.
 
-Using the  **OptionsSave** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
+Using the **OptionsSave** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
 
 ## Example

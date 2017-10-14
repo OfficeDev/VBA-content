@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSizes.Item Property (Publisher)
 
-Returns the  **[PageSize](pagesize-object-publisher.md)** object with the specified name or at the specified index position in the **[PageSizes](pagesizes-object-publisher.md)** collection. Read-only.
+Returns the **[PageSize](pagesize-object-publisher.md)** object with the specified name or at the specified index position in the **[PageSizes](pagesizes-object-publisher.md)** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **PageSizes** collection.
+ _expression_A variable that represents a **PageSizes** collection.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns the  **[PageSize](pagesize-object-publisher.md)** object with the specif
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Index|Required| **Variant**|The name or index position of a  **PageSize** object.|
+|Index|Required| **Variant**|The name or index position of a **PageSize** object.|
 
 ### Return Value
 

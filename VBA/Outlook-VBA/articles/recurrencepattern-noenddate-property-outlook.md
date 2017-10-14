@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecurrencePattern.NoEndDate Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the recurrence pattern has no end date. Read/write.
+Returns a **Boolean** value that indicates whether the recurrence pattern has no end date. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates whether the recurrence pattern has n
 
 ## Remarks
 
-This property must be coordinated with other properties when setting up a recurrence pattern. If the  **[PatternEndDate](recurrencepattern-patternenddate-property-outlook.md)** property or the **[Occurrences](recurrencepattern-occurrences-property-outlook.md)** property is set, the pattern is considered to be finite and the **NoEndDate** property is **False** . If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True** .
+This property must be coordinated with other properties when setting up a recurrence pattern. If the **[PatternEndDate](recurrencepattern-patternenddate-property-outlook.md)** property or the **[Occurrences](recurrencepattern-occurrences-property-outlook.md)** property is set, the pattern is considered to be finite and the **NoEndDate** property is **False** . If neither **PatternEndDate** nor **Occurrences** is set, the pattern is considered infinite and **NoEndDate** is **True** .
 
 
 ## See also

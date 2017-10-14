@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Caption Property (Excel)
 
-Returns or sets a  **String** value that represents the data label text.
+Returns or sets a **String** value that represents the data label text.
 
 
 ## Syntax

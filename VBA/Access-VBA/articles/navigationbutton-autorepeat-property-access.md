@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.AutoRepeat Property (Access)
 
-You can use the  **AutoRepeat** property to specify whether an event procedure or macro runs repeatedly while a command button on a form remains pressed in. Read/write **Boolean**.
+You can use the **AutoRepeat** property to specify whether an event procedure or macro runs repeatedly while a command button on a form remains pressed in. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ You can use the  **AutoRepeat** property to specify whether an event procedure o
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
 The initial repeat of the event procedure or macro occurs 0.5 seconds after it first runs. Subsequent repeats occur either 0.25 seconds apart or the duration of the event procedure or macro, whichever is longer.
 
-If the code attached to the command button causes the current record to change, the  **AutoRepeat** property has no effect.
+If the code attached to the command button causes the current record to change, the **AutoRepeat** property has no effect.
 
-If the code attached to the command button causes changes to another control on a form, use the  **DoEvents** function to ensure proper screen updating.
+If the code attached to the command button causes changes to another control on a form, use the **DoEvents** function to ensure proper screen updating.
 
 
 ## See also

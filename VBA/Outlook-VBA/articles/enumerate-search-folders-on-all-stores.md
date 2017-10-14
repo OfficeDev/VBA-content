@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 This topic describes a code sample that enumerates the search folders on all stores for the current session.
 
 
-1. The code sample begins by getting all the stores for the current session using the  **[NameSpace.Stores](namespace-stores-property-outlook.md)** property of the current session, `Application.Session`.
+1. The code sample begins by getting all the stores for the current session using the **[NameSpace.Stores](namespace-stores-property-outlook.md)** property of the current session, `Application.Session`.
     
-2. For each store of this session, it uses  **[Store.GetSearchFolders](store-getsearchfolders-method-outlook.md)** to obtain the collection of search folders for that store.
+2. For each store of this session, it uses **[Store.GetSearchFolders](store-getsearchfolders-method-outlook.md)** to obtain the collection of search folders for that store.
     
 3. For each collection of search folders, it displays the name of each folder.
     
 
 ## Remarks
 
-To run this code sample, place the code in the built-in  **ThisOutlookSession** module. Run the `EnumerateSearchFoldersInStores` procedure:
+To run this code sample, place the code in the built-in **ThisOutlookSession** module. Run the `EnumerateSearchFoldersInStores` procedure:
 
 
 ```vb

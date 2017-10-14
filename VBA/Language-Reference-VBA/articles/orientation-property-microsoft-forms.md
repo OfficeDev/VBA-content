@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether the  **SpinButton** or **ScrollBar** is oriented vertically or horizontally.
+Specifies whether the **SpinButton** or **ScrollBar** is oriented vertically or horizontally.
  **Syntax**
  _object_. **Orientation** [= _fmOrientation_ ]
-The  **Orientation** property syntax has these parts:
+The **Orientation** property syntax has these parts:
 
 
 |**Part**|**Description**|

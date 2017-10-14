@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.NewPresentation Event (PowerPoint)
 
-Occurs after a presentation is created, as it is added to the  **[Presentations](presentations-object-powerpoint.md)** collection.
+Occurs after a presentation is created, as it is added to the **[Presentations](presentations-object-powerpoint.md)** collection.
 
 
 ## Syntax
@@ -33,17 +33,17 @@ Occurs after a presentation is created, as it is added to the  **[Presentations]
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this event maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint.EApplication_NewPresentationEventHandler** (the **NewPresentation** delegate.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_NewPresentationEventHandler** (the **NewPresentation** delegate.)
     
--  **Microsoft.Office.Interop.PowerPoint.EApplication_Event.NewPresentation** (the **NewPresentation** event.)
+- **Microsoft.Office.Interop.PowerPoint.EApplication_Event.NewPresentation** (the **NewPresentation** event.)
     
 
 ## Example
 
-This example uses the  **RGB** function to set the slide master background color for the new presentation to salmon pink and then applies the third color scheme to the new presentation.
+This example uses the **RGB** function to set the slide master background color for the new presentation to salmon pink and then applies the third color scheme to the new presentation.
 
 
 ```vb

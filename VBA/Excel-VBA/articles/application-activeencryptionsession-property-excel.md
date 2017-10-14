@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveEncryptionSession Property (Excel)
 
-Returns a  **Long** that represents the encryption session associated with the active document. Read-only.
+Returns a **Long** that represents the encryption session associated with the active document. Read-only.
 
 
 ## Syntax

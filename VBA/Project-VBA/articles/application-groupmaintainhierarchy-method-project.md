@@ -38,7 +38,7 @@ Shows or hides item hierarchy in task views or resource views where a group is a
 
 ## Remarks
 
-The  **GroupMaintainHierarchy** method corresponds to the following command on the ribbon: On the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **Maintain Hierarchy in Current Group**.
+The **GroupMaintainHierarchy** method corresponds to the following command on the ribbon: On the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **Maintain Hierarchy in Current Group**.
 
 For example, if tasks are grouped by the Critical group, the  `GroupMaintainHierarchy True` command shows the summary tasks in the **Critical: No** and **Critical: Yes** groups. The `GroupMaintainHierarchy False` command hides summary tasks in the groups. If no group is applied to the view, **GroupMaintainHierarchy** has no effect.
 

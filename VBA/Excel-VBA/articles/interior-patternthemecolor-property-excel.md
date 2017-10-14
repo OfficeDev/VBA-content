@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.PatternThemeColor Property (Excel)
 
-Returns or sets a theme color pattern for an  **Interior** object. Read/write **Variant** .
+Returns or sets a theme color pattern for an **Interior** object. Read/write **Variant** .
 
 
 ## Syntax

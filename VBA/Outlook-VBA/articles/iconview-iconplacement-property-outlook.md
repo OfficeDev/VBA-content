@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconView.IconPlacement Property (Outlook)
 
-Returns or sets an  **[OlIconViewPlacement](oliconviewplacement-enumeration-outlook.md)** value that determines how icons are placed within the **[IconView](iconview-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlIconViewPlacement](oliconviewplacement-enumeration-outlook.md)** value that determines how icons are placed within the **[IconView](iconview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets an  **[OlIconViewPlacement](oliconviewplacement-enumeration-outl
 
 ## Remarks
 
-If the value of the  **[IconViewType](iconview-iconviewtype-property-outlook.md)** property is set to **olIconViewList** , the value of this property is automatically set to **olIconSortAndAutoArrange** .
+If the value of the **[IconViewType](iconview-iconviewtype-property-outlook.md)** property is set to **olIconViewList** , the value of this property is automatically set to **olIconSortAndAutoArrange** .
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **IconView** object to display Outlook items as a sorted, auto-arranged set of large icons.
+The following Visual Basic for Applications (VBA) example configures the current **IconView** object to display Outlook items as a sorted, auto-arranged set of large icons.
 
 
 ```vb

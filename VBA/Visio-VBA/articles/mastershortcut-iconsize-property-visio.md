@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The following constants declared by the Visio type library in  **VisMasterProperties** show the possible values for the **IconSize** property.
+The following constants declared by the Visio type library in **VisMasterProperties** show the possible values for the **IconSize** property.
 
 
 

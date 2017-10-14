@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ApplicationSettings.FreeformDrawingPrecision Property (Visio)
 
-Determines the margin of error allowed when the  **Freeform** tool is drawing a straight line before it switches to drawing a spline. Read/write.
+Determines the margin of error allowed when the **Freeform** tool is drawing a straight line before it switches to drawing a spline. Read/write.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ Long
 
 ## Remarks
 
-Setting the  **FreeformDrawingPrecision** property is equivalent to setting the **Precision** option on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **FreeformDrawingPrecision** property is equivalent to setting the **Precision** option on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-Possible values for the  **FreeformDrawingPrecision** property range from 0 ( **Tight**) to 10 ( **Loose**). The default is 5.
+Possible values for the **FreeformDrawingPrecision** property range from 0 ( **Tight**) to 10 ( **Loose**). The default is 5.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **FreeformDrawingPrecision** property to print the current freeform drawing precision setting in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **FreeformDrawingPrecision** property to print the current freeform drawing precision setting in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
 ```vb

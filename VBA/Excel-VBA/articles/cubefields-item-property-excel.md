@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ## Example
 
-This example finds the first PivotTable report whose first cube field name contains the string ?Paris?. The  **Boolean** variable `blnFoundName` is set to **True** if the name is found.
+This example finds the first PivotTable report whose first cube field name contains the string ?Paris?. The **Boolean** variable `blnFoundName` is set to **True** if the name is found.
 
 
 ```vb

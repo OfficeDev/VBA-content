@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.FindNextRow Method (Outlook)
 
-Finds the next row in the  **[Table](table-object-outlook.md)** that meets the criteria specified in a preceding **[Table.FindRow](table-findrow-method-outlook.md)** .
+Finds the next row in the **[Table](table-object-outlook.md)** that meets the criteria specified in a preceding **[Table.FindRow](table-findrow-method-outlook.md)** .
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Finds the next row in the  **[Table](table-object-outlook.md)** that meets the c
 
 ### Return Value
 
-A  **[Row](row-object-outlook.md)** object that represents the next row in the **Table** that meets the filter condition in the preceding call to **FindRow** . Returns **Null** ( **Nothing** in Visual Basic) if **FindNextRow** cannot find another row that meets the criteria specified in **FindRow** . Also returns **Null** if **FindRow** has not been called before **FindNextRow** .
+A **[Row](row-object-outlook.md)** object that represents the next row in the **Table** that meets the filter condition in the preceding call to **FindRow** . Returns **Null** ( **Nothing** in Visual Basic) if **FindNextRow** cannot find another row that meets the criteria specified in **FindRow** . Also returns **Null** if **FindRow** has not been called before **FindNextRow** .
 
 
 ## Remarks
 
  **FindNextRow** finds the next row based on the row returned by the preceding **FindRow** or **FindNextRow** . It does not depend on the current row (as the current row may have been repositioned since the preceding **FindRow** or **FindNextRow** , for example, by **[Table.MoveToStart](table-movetostart-method-outlook.md)** ).
 
-If  **FindNextRow** finds a row, it will position the current row to that row. If it does not find another row, it will not reposition the current row.
+If **FindNextRow** finds a row, it will position the current row to that row. If it does not find another row, it will not reposition the current row.
 
 
 ## See also

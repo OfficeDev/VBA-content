@@ -38,7 +38,7 @@ Provides a signature povider add-in the opportunity to display details about a s
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **ShowSignatureDetails** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **ShowSignatureDetails** method in a custom signature provider project.
 
 
 ```

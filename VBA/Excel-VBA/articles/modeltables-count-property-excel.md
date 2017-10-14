@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTables.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of[ModelTable Object (Excel)](modeltable-object-excel.md) objects in a[ModelTables Object (Excel)](modeltables-object-excel.md) collection. Read-only.
+Returns a **Long** value that represents the number of[ModelTable Object (Excel)](modeltable-object-excel.md) objects in a[ModelTables Object (Excel)](modeltables-object-excel.md) collection. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.CLSID Property (Excel)
 
-Returns a read-only unique identifier, or CLSID, identifying an object, as a  **String** .
+Returns a read-only unique identifier, or CLSID, identifying an object, as a **String** .
 
 
 ## Syntax

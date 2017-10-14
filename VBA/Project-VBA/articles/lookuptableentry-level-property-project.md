@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.Level Property (Project)
 
-Gets or sets the specific level of the lookup table entry. Can be an integer value between 1 and 255. Read/write  **Long**.
+Gets or sets the specific level of the lookup table entry. Can be an integer value between 1 and 255. Read/write **Long**.
 
 
 ## Syntax

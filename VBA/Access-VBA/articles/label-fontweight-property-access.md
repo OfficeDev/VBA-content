@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Label.FontWeight Property (Access)
 
-You can use the  **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
+You can use the **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ You can use the  **DatasheetFontWeight** property to specify the line width of t
 
 ## Remarks
 
-The  **DatasheetFontWeight** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
+The **DatasheetFontWeight** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
 These properties are only available in [Visual Basic](set-properties-by-using-visual-basic.md) within a Microsoft Access database.
 
-In Visual Basic, the  **DatasheetFontWeight** property setting uses the following **Integer** values.
+In Visual Basic, the **DatasheetFontWeight** property setting uses the following **Integer** values.
 
 
 
@@ -44,7 +44,7 @@ In Visual Basic, the  **DatasheetFontWeight** property setting uses the followin
 |700|Bold|
 |800|Extra Bold|
 |900|Heavy|
-The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
+The following table contains the properties that don't exist in the DAO **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 
 |||
@@ -55,7 +55,7 @@ The following table contains the properties that don't exist in the DAO  **Prope
 |**[DatasheetFontUnderline](form-datasheetfontunderline-property-access.md)** *|**[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)**|
 |**DatasheetFontWeight** *|**[DatasheetCellsEffect](form-datasheetcellseffect-property-access.md)**|
 
- **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the  **Properties** collection of the database.
+ **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection of the database.
 
 
 ## Example

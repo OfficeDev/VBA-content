@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.IsDate Property (Excel)
 
-Returns  **True** if the CubeField is a date. Read-only **Boolean** .
+Returns **True** if the CubeField is a date. Read-only **Boolean** .
 
 
 ## Syntax

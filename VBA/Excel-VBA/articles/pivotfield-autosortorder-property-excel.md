@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.AutoSortOrder Property (Excel)
 
-Returns the order used to sort the specified PivotTable field automatically. Can be one of the constants of  **[XlSortOrder](xlsortorder-enumeration-excel.md)** . Read-only **Long** .
+Returns the order used to sort the specified PivotTable field automatically. Can be one of the constants of **[XlSortOrder](xlsortorder-enumeration-excel.md)** . Read-only **Long** .
 
 
 ## Syntax

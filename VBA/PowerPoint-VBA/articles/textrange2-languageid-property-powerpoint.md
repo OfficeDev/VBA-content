@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.LanguageID Property (PowerPoint)
 
-Gets or sets the  **MsoLanguageID** value of the **TextRange2** object. Read/write.
+Gets or sets the **MsoLanguageID** value of the **TextRange2** object. Read/write.
 
 
 ## Syntax

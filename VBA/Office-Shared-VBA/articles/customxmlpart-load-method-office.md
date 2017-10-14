@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.Load Method (Office)
 
-Allows the template author to populate a  **CustomXMLPart** from an existing file. Returns **True** if the load was successful.
+Allows the template author to populate a **CustomXMLPart** from an existing file. Returns **True** if the load was successful.
 
 
 ## Syntax

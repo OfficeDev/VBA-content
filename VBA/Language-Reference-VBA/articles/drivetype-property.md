@@ -21,7 +21,7 @@ Returns a value indicating the type of a specified drive.
  _object_. **DriveType**
 The  _object_ is always a **Drive** object.
  **Remarks**
-The following code illustrates the use of the  **DriveType** property:
+The following code illustrates the use of the **DriveType** property:
 
 
 

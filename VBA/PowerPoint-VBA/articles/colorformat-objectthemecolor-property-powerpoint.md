@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.ObjectThemeColor Property (PowerPoint)
 
-Returns or sets the theme color of the specified  **ColorFormat** object. Read/Write.
+Returns or sets the theme color of the specified **ColorFormat** object. Read/Write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ MsoThemeColorIndex
 
 ## Remarks
 
-The value of the  **ObjectThemeColor** property can be one of these **[MsoThemeColorIndex](http://msdn.microsoft.com/library/2281eafa-c8f0-d620-d0eb-c301dfb6a426%28Office.15%29.aspx)** constants.
+The value of the **ObjectThemeColor** property can be one of these **[MsoThemeColorIndex](http://msdn.microsoft.com/library/2281eafa-c8f0-d620-d0eb-c301dfb6a426%28Office.15%29.aspx)** constants.
 
 
 ## Example
 
-The following example shows how to use the  **ObjectThemeColor** property to get the theme color of the foreground fill of shape one on slide one of the active presentation.
+The following example shows how to use the **ObjectThemeColor** property to get the theme color of the foreground fill of shape one on slide one of the active presentation.
 
 
 ```vb

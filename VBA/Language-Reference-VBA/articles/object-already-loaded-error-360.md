@@ -17,7 +17,7 @@ The control in the [control array](vbe-glossary.md) has already been loaded. Thi
 
 - You tried to add a control to a control array at [run time](vbe-glossary.md) with the **Load** statement but the index value you referred to already exists.
     
-    Change the index reference to a new value or check whether your code is executing the same  **Load** statement with the same index value reference more than once.
+    Change the index reference to a new value or check whether your code is executing the same **Load** statement with the same index value reference more than once.
     
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SplitCellColor Property (Word)
 
-Returns or sets a  **WdCellColor** that represents the color for split table cells. Read/write.
+Returns or sets a **WdCellColor** that represents the color for split table cells. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **WdCellColor** that represents the color for split table cel
 
 ## Remarks
 
-This property applies only to documents upon which you have run the  **[CompareDocuments](application-comparedocuments-method-word.md)** , **[Compare](document-compare-method-word.md)** , or **[Merge](document-merge-method-word.md)** method.
+This property applies only to documents upon which you have run the **[CompareDocuments](application-comparedocuments-method-word.md)** , **[Compare](document-compare-method-word.md)** , or **[Merge](document-merge-method-word.md)** method.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.FillStyle Property (Access)
 
-You can use the  **FillStyle** property to specify whether a circle or line drawn by the **[Circle](report-circle-method-access.md)** or **[Line](report-line-method-access.md)** method on a report is transparent, opaque, or filled with a pattern. Read/write **Integer**.
+You can use the **FillStyle** property to specify whether a circle or line drawn by the **[Circle](report-circle-method-access.md)** or **[Line](report-line-method-access.md)** method on a report is transparent, opaque, or filled with a pattern. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **FillStyle** property to specify whether a circle or line draw
 
 ## Remarks
 
-The  **FillStyle** property uses the following settings.
+The **FillStyle** property uses the following settings.
 
 
 
@@ -40,18 +40,18 @@ The  **FillStyle** property uses the following settings.
 |6|Cross|
 |7|Diagonal Cross|
 
- **Note**  You can set the  **FillStyle** property in an event procedure specified by a section's **OnPrint** property setting.
+ **Note**  You can set the **FillStyle** property in an event procedure specified by a section's **OnPrint** property setting.
 
-When the  **FillStyle** property is set to 0, a circle or line has the color set by the **[FillColor](report-fillcolor-property-access.md)** property. When the **FillStyle** property is set to 1, the interior of the circle or line is transparent and has the color of the report behind it.
+When the **FillStyle** property is set to 0, a circle or line has the color set by the **[FillColor](report-fillcolor-property-access.md)** property. When the **FillStyle** property is set to 1, the interior of the circle or line is transparent and has the color of the report behind it.
 
-To use the  **FillStyle** property, the **[SpecialEffect](line-specialeffect-property-access.md)** property must be set to Normal.
+To use the **FillStyle** property, the **[SpecialEffect](line-specialeffect-property-access.md)** property must be set to Normal.
 
-The following example uses the  **Circle** method to draw a circle and create a pie slice within the circle. Then it uses the **FillColor** and **FillStyle** properties to color the pie slice red. It also draws a line from the upper left to the center of the circle.
+The following example uses the **Circle** method to draw a circle and create a pie slice within the circle. Then it uses the **FillColor** and **FillStyle** properties to color the pie slice red. It also draws a line from the upper left to the center of the circle.
 
 
 ## Example
 
-To try this example in Microsoft Access, create a new report. Set the  **OnPrint** property of the Detail section to [Event Procedure]. Enter the following code in the report's module, then switch to Print Preview.
+To try this example in Microsoft Access, create a new report. Set the **OnPrint** property of the Detail section to [Event Procedure]. Enter the following code in the report's module, then switch to Print Preview.
 
 
 ```vb

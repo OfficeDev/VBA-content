@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BuildCriteria Method (Access)
 
-The  **BuildCriteria** method returns a parsed criteria string as it would appear in the query design grid, in Filter By Form or Server Filter By Form mode. For example, you may want to set a form's **Filter** or **[ServerFilter](form-serverfilter-property-access.md)** property based on varying criteria from the user. You can use the **BuildCriteria** method to construct the string expression argument for the **Filter** or **ServerFilter** property. **String**.
+The **BuildCriteria** method returns a parsed criteria string as it would appear in the query design grid, in Filter By Form or Server Filter By Form mode. For example, you may want to set a form's **Filter** or **[ServerFilter](form-serverfilter-property-access.md)** property based on varying criteria from the user. You can use the **BuildCriteria** method to construct the string expression argument for the **Filter** or **ServerFilter** property. **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The  **BuildCriteria** method returns a parsed criteria string as it would appea
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Field_|Required|**String**|The field for which you wish to define criteria.|
-| _FieldType_|Required|**Integer**|An intrinsic constant denoting the data type of the field. Can be set to one of the DAO  **DataTypeEnum** values.|
+| _FieldType_|Required|**Integer**|An intrinsic constant denoting the data type of the field. Can be set to one of the DAO **DataTypeEnum** values.|
 | _Expression_|Required|**String**|A string expression identifying the criteria to be parsed.|
 
 ### Return Value
@@ -40,9 +40,9 @@ String
 
 ## Remarks
 
-The  **BuildCriteria** method enables you to easily construct criteria for a filter based on user input. It parses the _expression_ argument in the same way that the expression would be parsed had it been entered in the query design grid, in Filter By Form or Server Filter By Form mode.
+The **BuildCriteria** method enables you to easily construct criteria for a filter based on user input. It parses the _expression_ argument in the same way that the expression would be parsed had it been entered in the query design grid, in Filter By Form or Server Filter By Form mode.
 
-For example, a user creating a query on an Orders table might restrict the result set to orders placed after January 1, 1995, by setting criteria on an OrderDate field. The user might enter an expression such as the following one in the  **Criteria** row beneath the OrderDate field:
+For example, a user creating a query on an Orders table might restrict the result set to orders placed after January 1, 1995, by setting criteria on an OrderDate field. The user might enter an expression such as the following one in the **Criteria** row beneath the OrderDate field:
 
 >1-1-95
 
@@ -50,7 +50,7 @@ Microsoft Access automatically parses this expression and returns the following 
 
 >#1/1/95#
 
-The  **BuildCriteria** method provides the same parsing from Visual Basic code. For example, to return the preceding correctly parsed string, you can supply the following arguments to the **BuildCriteria** method:
+The **BuildCriteria** method provides the same parsing from Visual Basic code. For example, to return the preceding correctly parsed string, you can supply the following arguments to the **BuildCriteria** method:
 
 
 
@@ -60,9 +60,9 @@ Dim strCriteria As String
 strCriteria = BuildCriteria("OrderDate", dbDate, ">1-1-95")
 ```
 
-Since you need to supply criteria for the  **Filter** property in correctly parsed form, you can use the **BuildCriteria** method to construct a correctly parsed string.
+Since you need to supply criteria for the **Filter** property in correctly parsed form, you can use the **BuildCriteria** method to construct a correctly parsed string.
 
-You can use the  **BuildCriteria** method to construct a string with multiple criteria if those criteria refer to the same field. For example, you can use the **BuildCriteria** method with the following arguments to construct a string with multiple criteria relating to the OrderDate field:
+You can use the **BuildCriteria** method to construct a string with multiple criteria if those criteria refer to the same field. For example, you can use the **BuildCriteria** method with the following arguments to construct a string with multiple criteria relating to the OrderDate field:
 
 
 
@@ -77,12 +77,12 @@ This example returns the following criteria string:
 OrderDate>#1/1/95# And OrderDate<#5/1/95#
 ```
 
-However, if you wish to construct a criteria string that refers to multiple fields, you must create the strings and concatenate them yourself. For example, if you wish to construct criteria for a filter to show records for orders placed after 1-1-95 and for which freight is less than $50, you would need to use the  **BuildCriteria** method twice and concatenate the resulting strings.
+However, if you wish to construct a criteria string that refers to multiple fields, you must create the strings and concatenate them yourself. For example, if you wish to construct criteria for a filter to show records for orders placed after 1-1-95 and for which freight is less than $50, you would need to use the **BuildCriteria** method twice and concatenate the resulting strings.
 
 
 ## Example
 
-The following example prompts the user to enter the first few letters of a product's name and then uses the  **BuildCriteria** method to construct a criteria string based on the user's input. Next, the procedure provides this string as an argument to the **Filter** property of a Products form. Finally, the **FilterOn** property is set to apply the filter.
+The following example prompts the user to enter the first few letters of a product's name and then uses the **BuildCriteria** method to construct a criteria string based on the user's input. Next, the procedure provides this string as an argument to the **Filter** property of a Products form. Finally, the **FilterOn** property is set to apply the filter.
 
 
 ```vb

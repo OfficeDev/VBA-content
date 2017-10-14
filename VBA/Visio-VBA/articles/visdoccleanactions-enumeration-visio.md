@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDocCleanActions Enumeration (Visio)
 
-Flags passed to the  **Document.Clean** method that indicate which document conditions to detect, report, and fix.
+Flags passed to the **Document.Clean** method that indicate which document conditions to detect, report, and fix.
 
 
 

@@ -18,9 +18,9 @@ Evenly distributes the shapes in the specified shape range.
 
 ## Syntax
 
- _expression_. **Distribute**( **_DistributeCmd_**,  **_RelativeTo_**)
+ _expression_. **Distribute**( **_DistributeCmd_**, **_RelativeTo_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -36,13 +36,13 @@ Evenly distributes the shapes in the specified shape range.
 
 Shapes are distributed so that there is an equal amount of space between one shape and the next. If the shapes are so large that they overlap when distributed over the available space, they are distributed so that there is an equal amount of overlap between one shape and the next.
 
-The DistributeCmd parameter can be one of the following  **MsoDistributeCmd** constants declared in the Microsoft Office type library.
+The DistributeCmd parameter can be one of the following **MsoDistributeCmd** constants declared in the Microsoft Office type library.
 
 
 
 | **msoDistributeHorizontally**|
 | **msoDistributeVertically**|
-The RelativeTo parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The RelativeTo parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
@@ -50,9 +50,9 @@ The RelativeTo parameter can be one of the  **MsoTriState** constants declared i
 |:-----|:-----|
 | **msoFalse**| Distribute the shapes within the horizontal or vertical space that the range of shapes originally occupies.|
 | **msoTrue**|Distribute the shapes evenly over the entire horizontal or vertical space on the page.|
-When RelativeTo is  **msoTrue**, shapes are distributed so that the distance between the two outer shapes and the edges of the page is the same as the distance between one shape and the next. If the shapes must overlap, the two outer shapes are moved to the edges of the page.
+When RelativeTo is **msoTrue**, shapes are distributed so that the distance between the two outer shapes and the edges of the page is the same as the distance between one shape and the next. If the shapes must overlap, the two outer shapes are moved to the edges of the page.
 
-When RelativeTo is  **msoFalse**, the two outer shapes are not moved; only the positions of the inner shapes are adjusted.
+When RelativeTo is **msoFalse**, the two outer shapes are not moved; only the positions of the inner shapes are adjusted.
 
 The z-order of shapes is unaffected by this method.
 

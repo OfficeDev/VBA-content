@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Calculate Method (Word)
 
-Calculates a mathematical expression within a selection. Returns the result as a  **Single** .
+Calculates a mathematical expression within a selection. Returns the result as a **Single** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.CopyAsPicture Method (Word)
 
-The  **CopyAsPicture** method works the same way as the **Copy** method.
+The **CopyAsPicture** method works the same way as the **Copy** method.
 
 
 ## Syntax

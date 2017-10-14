@@ -17,7 +17,7 @@ Right aligns a string within a string [variable](vbe-glossary.md).
 
  **RSet**_stringvar_**=**_string_
 
-The  **RSet** statement syntax has these parts:
+The **RSet** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -27,12 +27,12 @@ The  **RSet** statement syntax has these parts:
  **Remarks**
 If  _stringvar_ is longer than _string_, **RSet** replaces any leftover characters in _stringvar_ with spaces, back to its beginning.
 
- **Note**   **RSet** can't be used with[user-defined types](vbe-glossary.md).
+ **Note**  **RSet** can't be used with[user-defined types](vbe-glossary.md).
 
 
 ## Example
 
-This example uses the  **RSet** statement to right align a string within a string variable.
+This example uses the **RSet** statement to right align a string within a string variable.
 
 
 ```vb

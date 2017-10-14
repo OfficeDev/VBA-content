@@ -34,14 +34,14 @@ Occurs before a presentation is saved.
 
 ## Remarks
 
-This event is triggered as the  **Save As** dialog box appears.
+This event is triggered as the **Save As** dialog box appears.
 
-To access the  **Application** events, declare an **Application** variable in the General Declarations section of your code. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft PowerPoint **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+To access the **Application** events, declare an **Application** variable in the General Declarations section of your code. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft PowerPoint **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
 
 ## Example
 
-This example checks if there are revisions in a presentation and, if there are, asks whether to save the presentation. If a user's response is no, the save process is canceled. This example assumes an  **Application** object called PPTApp has been declared by using the **WithEvents** keyword.
+This example checks if there are revisions in a presentation and, if there are, asks whether to save the presentation. If a user's response is no, the save process is canceled. This example assumes an **Application** object called PPTApp has been declared by using the **WithEvents** keyword.
 
 
 ```vb

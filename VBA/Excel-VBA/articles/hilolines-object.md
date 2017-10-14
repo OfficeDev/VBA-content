@@ -18,7 +18,7 @@ Represents the high-low lines in the specified chart group. High-low lines conne
 
 ## Using the HiLoLines Object
 
-Use the  **HiLoLines** property to return the **HiLoLines** object. The following example makes the high-low lines in chart group one in the chart blue.
+Use the **HiLoLines** property to return the **HiLoLines** object. The following example makes the high-low lines in chart group one in the chart blue.
 
 
 ```
@@ -28,6 +28,6 @@ myChart.ChartGroups(1).HiLoLines.Border.Color = RGB(0, 0, 255)
 
 ## Remarks
 
-If the  **[HasHiLoLines](hashilolines-property.md)** property is  **False**, most properties of the  **HiLoLines** object are disabled.
+If the **[HasHiLoLines](hashilolines-property.md)** property is **False**, most properties of the **HiLoLines** object are disabled.
 
 

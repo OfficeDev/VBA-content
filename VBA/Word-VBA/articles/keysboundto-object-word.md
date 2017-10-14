@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # KeysBoundTo Object (Word)
 
-A collection of  **[KeyBinding](keybinding-object-word.md)** objects assigned to a command, style, macro, or other item in the current context.
+A collection of **[KeyBinding](keybinding-object-word.md)** objects assigned to a command, style, macro, or other item in the current context.
 
 
 ## Remarks
 
-Use the  **[KeysBoundTo](application-keysboundto-property-word.md)** property to return the **KeysBoundTo** collection. The following example displays the key combinations assigned to the **FileNew** command in the Normal template.
+Use the **[KeysBoundTo](application-keysboundto-property-word.md)** property to return the **KeysBoundTo** collection. The following example displays the key combinations assigned to the **FileNew** command in the Normal template.
 
 
 ```vb

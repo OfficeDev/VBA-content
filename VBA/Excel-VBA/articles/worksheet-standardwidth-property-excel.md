@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.StandardWidth Property (Excel)
 
-Returns or sets the standard (default) width of all the columns in the worksheet. Read/write  **Double** .
+Returns or sets the standard (default) width of all the columns in the worksheet. Read/write **Double** .
 
 
 ## Syntax

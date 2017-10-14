@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListGalleries.Item Method (Word)
 
-Returns an individual  **ListGalleries** object in a collection.
+Returns an individual **ListGalleries** object in a collection.
 
 
 ## Syntax

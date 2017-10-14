@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.VisibleItems Property (Excel)
 
-Returns an object that represents either a single visible PivotTable item (a  **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the visible items (a **[PivotItems](pivotitems-object-excel.md)** object) in the specified field. Read-only.
+Returns an object that represents either a single visible PivotTable item (a **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the visible items (a **[PivotItems](pivotitems-object-excel.md)** object) in the specified field. Read-only.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an object that represents either a single visible PivotTable item (a  **
 
 ## Remarks
 
-For OLAP data sources, this property is read-only and always returns  **True** . There are no hidden items.
+For OLAP data sources, this property is read-only and always returns **True** . There are no hidden items.
 
 
 ## Example

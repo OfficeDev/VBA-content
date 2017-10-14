@@ -47,7 +47,7 @@ The Formula argument is optional only if the selection is in a cell and there is
     
 - If neither cell immediately above the insertion point nor the cell immediately below it contains a value, Word inserts {=SUM(ABOVE)}.
     
-- If you don't specify  **Formula** and all the cells above and to the left of the insertion point are empty, using the = (Formula) field causes an error.
+- If you don't specify **Formula** and all the cells above and to the left of the insertion point are empty, using the = (Formula) field causes an error.
     
 
 ## Example

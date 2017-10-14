@@ -29,7 +29,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Property_|Required| **String**|The name of the property by which to sort, which may be enclosed in brackets, for example, "[CompanyName]". User-defined properties that contain spaces must be enclosed in brackets. May not be a user-defined property of type keywords, and may not be a multi-valued property, such as a category. For user-defined properties, the property must exist in the  **UserDefinedProperties** collection for **[Items.Parent](items-parent-property-outlook.md)** , which represents the **[Folder](folder-object-outlook.md)** object that contains the items.|
+| _Property_|Required| **String**|The name of the property by which to sort, which may be enclosed in brackets, for example, "[CompanyName]". User-defined properties that contain spaces must be enclosed in brackets. May not be a user-defined property of type keywords, and may not be a multi-valued property, such as a category. For user-defined properties, the property must exist in the **UserDefinedProperties** collection for **[Items.Parent](items-parent-property-outlook.md)** , which represents the **[Folder](folder-object-outlook.md)** object that contains the items.|
 | _Descending_|Optional| **Variant**| **True** to sort in descending order. The default value is **False** (ascending).|
 
 ## Remarks
@@ -52,7 +52,7 @@ Sorts the collection of items by the specified property. The index for the colle
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **Sort** method to sort the **[Items](items-object-outlook.md)** collection for the default **Tasks** folder by the "DueDate" property and displays the due dates each in turn.
+The following Visual Basic for Applications (VBA) example uses the **Sort** method to sort the **[Items](items-object-outlook.md)** collection for the default **Tasks** folder by the "DueDate" property and displays the due dates each in turn.
 
 
 ```vb

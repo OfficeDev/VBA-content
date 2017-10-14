@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.Glow Property (Access)
 
-Gets or sets the Glow effect applied to the specified object. Read/write  **Long**.
+Gets or sets the Glow effect applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the Glow effect applied to the specified object. Read/write  **Long
 
 ## Remarks
 
-The  **Glow** property uses one of the values listed in the following table.
+The **Glow** property uses one of the values listed in the following table.
 
 
 
@@ -56,7 +56,7 @@ The  **Glow** property uses one of the values listed in the following table.
 |22|Purple, 18 pt glow, Accent color 4|
 |23|Aqua, 18 pt glow, Accent color 5|
 |24|Orange, 18 pt glow, Accent color 6|
-To see the available glow effects and apply a glow through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a glow effect. Next, on the  **Format** tab, in the **Control Formatting** group, click **Shape Effects**, then click  **Glow** and choose a glow effect. Notice that the glow effects are indexed from left to right, and then top to bottom. So the first item, under No Glow, has the value 0. Then, under Glow, the first row contains glow effects with values from 1 to 6. The second row from 7 to 12, the third row from 13 to 18, and the fourth row from 19 to 24 .
+To see the available glow effects and apply a glow through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a glow effect. Next, on the **Format** tab, in the **Control Formatting** group, click **Shape Effects**, then click **Glow** and choose a glow effect. Notice that the glow effects are indexed from left to right, and then top to bottom. So the first item, under No Glow, has the value 0. Then, under Glow, the first row contains glow effects with values from 1 to 6. The second row from 7 to 12, the third row from 13 to 18, and the fourth row from 19 to 24 .
 
 This property is not surfaced in the property sheet. 
 

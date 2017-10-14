@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.Month Property (Project)
 
-Gets or sets the month for a yearly type of exception. Read/write  **PjMonth**.
+Gets or sets the month for a yearly type of exception. Read/write **PjMonth**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the month for a yearly type of exception. Read/write  **PjMonth**.
 
 ## Remarks
 
-The  **Month** property can be one of the **[PjMonth](pjmonth-enumeration-project.md)** constants. The defauilt is **pjJanuary**.
+The **Month** property can be one of the **[PjMonth](pjmonth-enumeration-project.md)** constants. The defauilt is **pjJanuary**.
 
 
 ## See also

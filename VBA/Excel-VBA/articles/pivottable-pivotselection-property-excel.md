@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PivotSelection Property (Excel)
 
-Returns or sets the PivotTable selection in standard PivotTable report selection format. Read/write  **String** .
+Returns or sets the PivotTable selection in standard PivotTable report selection format. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the PivotTable selection in standard PivotTable report selection
 
 ## Remarks
 
-Setting this property is equivalent to calling the  **PivotSelect** method with the _Mode_ argument set to **xlDataAndLabel** .
+Setting this property is equivalent to calling the **PivotSelect** method with the _Mode_ argument set to **xlDataAndLabel** .
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Callout Property (PowerPoint)
 
-Returns a  **[CalloutFormat](calloutformat-object-powerpoint.md)** object that contains callout formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent line callouts. Read-only.
+Returns a **[CalloutFormat](calloutformat-object-powerpoint.md)** object that contains callout formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent line callouts. Read-only.
 
 
 ## Syntax

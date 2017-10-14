@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MailPostDocument Method (Project)
 
-Displays the  **Send To Exchange Folder** dialog box to post a document to Microsoft Exchange.
+Displays the **Send To Exchange Folder** dialog box to post a document to Microsoft Exchange.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Send To Exchange Folder** dialog box to post a document to Micro
 
 ## Remarks
 
-The  **MailPostDocument** method is only available when a mail system utilizes a Microsoft Exchange server.
+The **MailPostDocument** method is only available when a mail system utilizes a Microsoft Exchange server.
 
 

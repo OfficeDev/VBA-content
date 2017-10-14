@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Selection.ShapeRange Property (Publisher)
 
-Returns a  **[ShapeRange](shaperange-object-publisher.md)** collection that represents all the **Shape** objects in the specified range or selection. The shape range can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
+Returns a **[ShapeRange](shaperange-object-publisher.md)** collection that represents all the **Shape** objects in the specified range or selection. The shape range can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
 
 
 ## Syntax
 
  _expression_. **ShapeRange**
 
- _expression_A variable that represents a  **Selection** object.
+ _expression_A variable that represents a **Selection** object.
 
 
 ### Return Value

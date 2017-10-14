@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FormattingShowFilter Property (Word)
 
-Sets or returns a  **WdShowFilter** constant that represents the styles and formatting displayed in the **Styles and Formatting** task pane. Read/write **Boolean** .
+Sets or returns a **WdShowFilter** constant that represents the styles and formatting displayed in the **Styles and Formatting** task pane. Read/write **Boolean** .
 
 
 ## Syntax

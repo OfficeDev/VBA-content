@@ -31,12 +31,12 @@ Finds specific information in a range.
 |:-----|:-----|:-----|:-----|
 | _What_|Required| **Variant**|The data to search for. Can be a string or any Microsoft Excel data type.|
 | _After_|Optional| **Variant**|The cell after which you want the search to begin. This corresponds to the position of the active cell when a search is done from the user interface. Notice that  _After_ must be a single cell in the range. Remember that the search begins after this cell; the specified cell isn't searched until the method wraps back around to this cell. If you do no specify this argument, the search starts after the cell in the upper-left corner of the range.|
-| _LookIn_|Optional| **Variant**|Can be one of the following  **XlFindLookIn** constants: **xlFormulas** , **xlValues** , or **xlNotes** .|
-| _LookAt_|Optional| **Variant**|Can be one of the following  **XlLookAt** constants: **xlWhole** or **xlPart** .|
-| _SearchOrder_|Optional| **Variant**|Can be one of the following  **XlSearchOrder** constants: **xlByRows** or **xlByColumns** .|
+| _LookIn_|Optional| **Variant**|Can be one of the following **XlFindLookIn** constants: **xlFormulas** , **xlValues** , or **xlNotes** .|
+| _LookAt_|Optional| **Variant**|Can be one of the following **XlLookAt** constants: **xlWhole** or **xlPart** .|
+| _SearchOrder_|Optional| **Variant**|Can be one of the following **XlSearchOrder** constants: **xlByRows** or **xlByColumns** .|
 | _SearchDirection_|Optional|[XlSearchDirection](xlsearchdirection-enumeration-excel.md)|The search direction.|
 | _MatchCase_|Optional| **Variant**| **True** to make the search case sensitive. The default value is **False** .|
-| _MatchByte_|Optional| **Variant**|Used only if you have selected or installed double-byte language support.  **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
+| _MatchByte_|Optional| **Variant**|Used only if you have selected or installed double-byte language support. **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
 | _SearchFormat_|Optional| **Variant**|The search format.|
 
 ### Return Value
@@ -46,7 +46,7 @@ A [Range](range-object-excel.md) object that represents the first cell where tha
 
 ## Remarks
 
-This method returns  **Nothing** if no match is found. The **Find** method does not affect the selection or the active cell.
+This method returns **Nothing** if no match is found. The **Find** method does not affect the selection or the active cell.
 
 The settings for  _LookIn_,  _LookAt_,  _SearchOrder_, and  _MatchByte_ are saved each time you use this method. If you do not specify values for these arguments the next time you call the method, the saved values are used. Setting these arguments changes the settings in the **Find** dialog box, and changing the settings in the **Find** dialog box changes the saved values that are used if you omit the arguments. To avoid problems, set these arguments explicitly each time you use this method.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentData.AllQueries Property (Access)
 
-You can use the  **AllQueries** property to reference the **[AllQueries](allqueries-object-access.md)** collection and its related properties. Read-only **AllQueries** object.
+You can use the **AllQueries** property to reference the **[AllQueries](allqueries-object-access.md)** collection and its related properties. Read-only **AllQueries** object.
 
 
 ## Syntax

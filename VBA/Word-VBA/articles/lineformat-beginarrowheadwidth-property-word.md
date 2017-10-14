@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.BeginArrowheadWidth Property (Word)
 
-Returns or sets the width of the arrowhead at the beginning of the specified line. Read/write  **MsoArrowheadWidth** .
+Returns or sets the width of the arrowhead at the beginning of the specified line. Read/write **MsoArrowheadWidth** .
 
 
 ## Syntax

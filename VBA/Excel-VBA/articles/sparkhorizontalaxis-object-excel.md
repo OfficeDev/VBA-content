@@ -18,7 +18,7 @@ Represents the settings for the horizontal axes of a group of sparklines.
 
 ## Remarks
 
-Use the  **[Horizontal](sparkaxes-horizontal-property-excel.md)** property of the **[SparkAxes](sparkaxes-object-excel.md)** object to return the **SparkHorizontalAxis** object for group of sparklines. The horizontal axis is displayed only if the data for the sparkline has both negative and positive values on the vertical axis.
+Use the **[Horizontal](sparkaxes-horizontal-property-excel.md)** property of the **[SparkAxes](sparkaxes-object-excel.md)** object to return the **SparkHorizontalAxis** object for group of sparklines. The horizontal axis is displayed only if the data for the sparkline has both negative and positive values on the vertical axis.
 
 
 ## See also

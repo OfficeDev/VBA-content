@@ -19,7 +19,7 @@ Loads an object but doesn't show it.
 
 The  _object_ placeholder represents an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-When an object is loaded, it is placed in memory, but isn't visible. Use the  **Show** method to make the object visible. Until an object is visible, a user can't interact with it. The object can be manipulated programmatically in its Initialize event procedure.
+When an object is loaded, it is placed in memory, but isn't visible. Use the **Show** method to make the object visible. Until an object is visible, a user can't interact with it. The object can be manipulated programmatically in its Initialize event procedure.
 
 ## Example
 

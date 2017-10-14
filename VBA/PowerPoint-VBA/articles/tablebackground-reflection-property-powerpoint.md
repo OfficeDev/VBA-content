@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableBackground.Reflection Property (PowerPoint)
 
-Returns an  **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99-113b-9808-1173fdd719a9%28Office.15%29.aspx)** object that represents the reflection effect associated with the table background. Read-only.
+Returns an **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99-113b-9808-1173fdd719a9%28Office.15%29.aspx)** object that represents the reflection effect associated with the table background. Read-only.
 
 
 ## Syntax

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # DepthPercent Property
 
-Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long**.
+Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write **Long**.
 
 
 ## Example
 
-This example sets the depth of the chart to be 50 percent of its width. The example should be run on a 3-D chart (the  **DepthPercent** property fails on 2-D charts).
+This example sets the depth of the chart to be 50 percent of its width. The example should be run on a 3-D chart (the **DepthPercent** property fails on 2-D charts).
 
 
 ```

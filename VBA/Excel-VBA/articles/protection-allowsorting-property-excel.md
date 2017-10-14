@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowSorting Property (Excel)
 
-Returns  **True** if the sorting option is allowed on a protected worksheet. Read-only **Boolean** .
+Returns **True** if the sorting option is allowed on a protected worksheet. Read-only **Boolean** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns  **True** if the sorting option is allowed on a protected worksheet. Rea
 
 Sorting can only be performed on unlocked or unprotected cells in a protected worksheet.
 
-The  **AllowSorting** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowSorting** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
 
 ## Example

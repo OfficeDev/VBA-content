@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.Background Property (Project)
-The  **Shapes.Background** property is not implemented for Office Art in the Office applications.
+The **Shapes.Background** property is not implemented for Office Art in the Office applications.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ The  **Shapes.Background** property is not implemented for Office Art in the Off
 
 ## Remarks
 
-If you try to use the  **Background** property, Project shows a run-time error 445, _Object doesn't support this action_.
+If you try to use the **Background** property, Project shows a run-time error 445, _Object doesn't support this action_.
 
 
 ## Property value

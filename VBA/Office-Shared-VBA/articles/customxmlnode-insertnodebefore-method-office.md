@@ -30,14 +30,14 @@ Inserts a new node just before the context node in the tree.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Represents the base name of the node to be added.|
-| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be added. This parameter is required if adding nodes of type  **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|
-| _NodeType_|Optional|**MsoCustomXMLNodeType**|Specifies the type of the node to be added. If the parameter is not specified, it is assumed to be a node of type  **msoCustomXMLNodeElement**.|
+| _NamespaceURI_|Optional|**String**|Represents the namespace of the element to be added. This parameter is required if adding nodes of type **msoCustomXMLNodeElement** or **msoCustomXMLNodeAttribute**, otherwise it is ignored.|
+| _NodeType_|Optional|**MsoCustomXMLNodeType**|Specifies the type of the node to be added. If the parameter is not specified, it is assumed to be a node of type **msoCustomXMLNodeElement**.|
 | _NodeValue_|Optional|**String**|Used to set the value of the node to be added for those nodes that allow text. If the node doesn't allow text, the parameter is ignored.|
 | _NextSibling_|Optional|**CustomXMLNode**|Represents the context node.|
 
 ## Remarks
 
-If the context node is not present when adding a node of type  **msoCustomXMLNodeElement**, **msoCustomXMLNodeComment**, or **msoCustomXMLNodeProcessingInstruction**, the new node is added to the last child of the context node. If the operation would result in an invalid tree structure, the insertion is not performed and an error message is displayed.
+If the context node is not present when adding a node of type **msoCustomXMLNodeElement**, **msoCustomXMLNodeComment**, or **msoCustomXMLNodeProcessingInstruction**, the new node is added to the last child of the context node. If the operation would result in an invalid tree structure, the insertion is not performed and an error message is displayed.
 
 
 ## Example

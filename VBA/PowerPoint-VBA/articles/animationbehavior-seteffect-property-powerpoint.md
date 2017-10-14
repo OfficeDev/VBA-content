@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.SetEffect Property (PowerPoint)
 
-Returns a  **SetEffect** object for the animation behavior. Read-only.
+Returns a **SetEffect** object for the animation behavior. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ SetEffect
 
 ## Remarks
 
-You can use the  **SetEffect** object returned to set the value of a property.
+You can use the **SetEffect** object returned to set the value of a property.
 
 
 ## Example

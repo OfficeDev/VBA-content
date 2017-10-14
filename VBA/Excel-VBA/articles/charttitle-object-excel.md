@@ -18,9 +18,9 @@ Represents the chart title.
 
 ## Remarks
 
-Use the  **ChartTitle** property to return the **ChartTitle** object.
+Use the **ChartTitle** property to return the **ChartTitle** object.
 
-The  **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](chart-hastitle-property-excel.md)** property for the chart is **True**.
+The **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](chart-hastitle-property-excel.md)** property for the chart is **True**.
 
 
 ## Example

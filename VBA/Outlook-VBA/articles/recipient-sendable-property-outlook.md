@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.Sendable Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether a meeting request can be sent to the **[Recipient](recipient-object-outlook.md)** . Read/write
+Returns or sets a **Boolean** value that indicates whether a meeting request can be sent to the **[Recipient](recipient-object-outlook.md)** . Read/write
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether a meeting request ca
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagRecipientFlags** . It returns **True** if **PidTagRecipientFlags** is equal to 0x00000001. Setting the property changes **PidTagRecipientFlags** accordingly.
+This property corresponds to the MAPI property **PidTagRecipientFlags** . It returns **True** if **PidTagRecipientFlags** is equal to 0x00000001. Setting the property changes **PidTagRecipientFlags** accordingly.
 
 This property applies only to a recipient of a meeting request. If the recipient is not on a meeting request, getting and setting this property does not do anything.
 

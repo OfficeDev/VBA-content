@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.InternetCodepage Property (Outlook)
 
-Returns or sets a  **Long** that determines the Internet code page used by the item. Read/write.
+Returns or sets a **Long** that determines the Internet code page used by the item. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **Long** that determines the Internet code page used by the i
 
 The Internet code page defines the text encoding scheme used by the item.
 
-The following table lists the values that are supported by the  **InternetCodePage** property.
+The following table lists the values that are supported by the **InternetCodePage** property.
 
 
 

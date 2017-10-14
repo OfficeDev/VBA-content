@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to perform a logical conjunction on two [expressions](vbe-glossary.md).
  **Syntax**
  _result_**=**_expression1_ **And** _expression2_
-The  **And** operator syntax has these parts:
+The **And** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,7 +25,7 @@ The  **And** operator syntax has these parts:
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
  **Remarks**
-If both expressions evaluate to  **True**, _result_ is **True**. If either expression evaluates to **False**, _result_ is **False.** The following table illustrates how _result_ is determined:
+If both expressions evaluate to **True**, _result_ is **True**. If either expression evaluates to **False**, _result_ is **False.** The following table illustrates how _result_ is determined:
 
 
 |**If  _expression1_ is**|**And  _expression2_ is**|**The  _result_ is**|
@@ -39,7 +39,7 @@ If both expressions evaluate to  **True**, _result_ is **True**. If either expre
 |**Null**|**True**|**Null**|
 |**Null**|**False**|**False**|
 |**Null**|**Null**|**Null**|
-The  **And** operator also performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
+The **And** operator also performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**The  _result_ is**|
@@ -51,7 +51,7 @@ The  **And** operator also performs a [bitwise comparison](vbe-glossary.md) of i
 
 ## Example
 
-This example uses the  **And** operator to perform a logical conjunction on two expressions.
+This example uses the **And** operator to perform a logical conjunction on two expressions.
 
 
 ```vb

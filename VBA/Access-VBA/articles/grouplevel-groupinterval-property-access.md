@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GroupLevel.GroupInterval Property (Access)
 
-You can use the  **GroupInterval** property with the **[GroupOn](grouplevel-groupon-property-access.md)** property to specify how records are grouped in a report. Read/write **Long**.
+You can use the **GroupInterval** property with the **[GroupOn](grouplevel-groupon-property-access.md)** property to specify how records are grouped in a report. Read/write **Long**.
 
 
 ## Syntax
@@ -25,16 +25,16 @@ You can use the  **GroupInterval** property with the **[GroupOn](grouplevel-grou
 
 ## Remarks
 
-The  **GroupInterval** property specifies an interval value that records are grouped by. This interval differs depending on the data type and **GroupOn** property setting of the field or expression you're grouping on. For example, you can set the **GroupInterval** property to 1 if you want to group records by the first character of a Text field, such as ProductName.
+The **GroupInterval** property specifies an interval value that records are grouped by. This interval differs depending on the data type and **GroupOn** property setting of the field or expression you're grouping on. For example, you can set the **GroupInterval** property to 1 if you want to group records by the first character of a Text field, such as ProductName.
 
-The  **GroupInterval** property settings are **Long** values that depend on the field's data type and its **GroupOn** property setting. The default **GroupInterval** setting is 1.
+The **GroupInterval** property settings are **Long** values that depend on the field's data type and its **GroupOn** property setting. The default **GroupInterval** setting is 1.
 
-You can set the  **GroupInterval** property only the **[Open](report-open-event-access.md)** event procedure of a report.
+You can set the **GroupInterval** property only the **[Open](report-open-event-access.md)** event procedure of a report.
 
 
- **Note**  To set the  **GroupInterval** property to a value other than its default setting (1), you must first set the **[GroupHeader](grouplevel-groupheader-property-access.md)** or **[GroupFooter](grouplevel-groupfooter-property-access.md)** property or both to Yes for the selected field or expression.
+ **Note**  To set the **GroupInterval** property to a value other than its default setting (1), you must first set the **[GroupHeader](grouplevel-groupheader-property-access.md)** or **[GroupFooter](grouplevel-groupfooter-property-access.md)** property or both to Yes for the selected field or expression.
 
-Here are examples of  **GroupInterval** property settings for different field data types.
+Here are examples of **GroupInterval** property settings for different field data types.
 
 
 
@@ -47,7 +47,7 @@ Here are examples of  **GroupInterval** property settings for different field da
 
 ## Example
 
-The following example sets the  **SortOrder** and grouping properties for the first group level in the Products By Category report to create an alphabetical list of products.
+The following example sets the **SortOrder** and grouping properties for the first group level in the Products By Category report to create an alphabetical list of products.
 
 
 ```vb

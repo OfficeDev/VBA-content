@@ -31,12 +31,12 @@ Copies the face of a command bar button control to the Clipboard.
 
 ## Remarks
 
-Use the  **PasteFace** method to paste the contents of the Clipboard onto a button face.
+Use the **PasteFace** method to paste the contents of the Clipboard onto a button face.
 
 
 ## Example
 
-This example finds the built-in  **Open** button, copies the button face to the Clipboard, and then pastes the face onto the **Spelling** and **Grammar** button.
+This example finds the built-in **Open** button, copies the button face to the Clipboard, and then pastes the face onto the **Spelling** and **Grammar** button.
 
 
 ```

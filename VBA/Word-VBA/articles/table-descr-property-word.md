@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Descr Property (Word)
 
-Returns or sets a  **String** that contains a description for the specified table. Read/write.
+Returns or sets a **String** that contains a description for the specified table. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that contains a description for the specified tabl
 
 ## Remarks
 
-Use the  **Descr** property to provide an alternative text description for a table. This property adds text to the **Description** text box on the **Alt Text** tab of the **Table Properties** dialog in Word.
+Use the **Descr** property to provide an alternative text description for a table. This property adds text to the **Description** text box on the **Alt Text** tab of the **Table Properties** dialog in Word.
 
 
  **Note**  Web browsers display alternative text while tables are loading or if they are missing. Web search engines use the alternative text to help find Web pages. Alternative text is also used to assist disabilities.

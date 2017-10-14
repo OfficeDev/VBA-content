@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ConnectionSiteCount Property (Excel)
 
-Returns the number of connection sites on the specified shape. Read-only  **Long** .
+Returns the number of connection sites on the specified shape. Read-only **Long** .
 
 
 ## Syntax

@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # Watch Object (Excel)
 
-Represents a range which is tracked when the worksheet is recalculated. The  **Watch** object allows users to verify the accuracy of their models and debug problems they encounter.
+Represents a range which is tracked when the worksheet is recalculated. The **Watch** object allows users to verify the accuracy of their models and debug problems they encounter.
 
 
 ## Remarks
 
-The  **Watch** object is a member of the **[Watches](watches-object-excel.md)** collection.
+The **Watch** object is a member of the **[Watches](watches-object-excel.md)** collection.
 
 
 ## Example
 
-Use the  **[Add](watches-add-method-excel.md)** method or the **[Item](watches-item-property-excel.md)** property of the **Watches** collection to return a **Watch** object.
+Use the **[Add](watches-add-method-excel.md)** method or the **[Item](watches-item-property-excel.md)** property of the **Watches** collection to return a **Watch** object.
 
 
 
-In the following example, Microsoft Excel creates a new  **Watch** object using the **Add** method. This example creates a summation formula in cell A3, and then adds this cell to the watch facility.
+In the following example, Microsoft Excel creates a new **Watch** object using the **Add** method. This example creates a summation formula in cell A3, and then adds this cell to the watch facility.
 
 
 
@@ -46,7 +46,7 @@ Sub AddWatch()
 End Sub
 ```
 
-You can specify to remove individual cells from the watch facility by using the  **[Delete](watches-delete-method-excel.md)** method of the **Watches** collection. This example deletes cell A3 on worksheet 1 of book 1 from the Watch Window. This example assumes you have added the cell A3 on sheet 1 of book 1 (using the previous example to add a **Watch** object).
+You can specify to remove individual cells from the watch facility by using the **[Delete](watches-delete-method-excel.md)** method of the **Watches** collection. This example deletes cell A3 on worksheet 1 of book 1 from the Watch Window. This example assumes you have added the cell A3 on sheet 1 of book 1 (using the previous example to add a **Watch** object).
 
 
 
@@ -59,7 +59,7 @@ Sub DeleteAWatch()
 End Sub
 ```
 
-You can also specify to remove all cells from the Watch Window, by using the  **Delete** method of the **Watches** collection. This example deletes all cells from the Watch Window.
+You can also specify to remove all cells from the Watch Window, by using the **Delete** method of the **Watches** collection. This example deletes all cells from the Watch Window.
 
 
 

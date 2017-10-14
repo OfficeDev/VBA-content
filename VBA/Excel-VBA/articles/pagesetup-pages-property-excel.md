@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Pages Property (Excel)
 
-Returns or sets the count or item number of the pages in  **Pages** collection.
+Returns or sets the count or item number of the pages in **Pages** collection.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathEqArray.Align Property (Word)
 
-Returns or sets a  **[WdOMathVertAlignType](wdomathvertaligntype-enumeration-word.md)** that represents the type of vertical alignment for an equation array with respect to the text that surrounds the array. Read/write.
+Returns or sets a **[WdOMathVertAlignType](wdomathvertaligntype-enumeration-word.md)** that represents the type of vertical alignment for an equation array with respect to the text that surrounds the array. Read/write.
 
 
 ## Syntax

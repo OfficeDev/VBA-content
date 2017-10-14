@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Selecting Text in a Document
 
-Use the  **Select**method to select an item in a document. The  **Select** method is available from several objects, such as **[Bookmark](bookmark-object-word.md)**,  **[Field](field-object-word.md)**,  **[Range](range-object-word.md)**, and  **[Table](table-object-word.md)**. The following example selects the first table in the active document.
+Use the **Select**method to select an item in a document. The **Select** method is available from several objects, such as **[Bookmark](bookmark-object-word.md)**, **[Field](field-object-word.md)**, **[Range](range-object-word.md)**, and **[Table](table-object-word.md)**. The following example selects the first table in the active document.
 
 
 ```vb
@@ -29,7 +29,7 @@ Sub SelectField()
 End Sub
 ```
 
-The following example selects the first four paragraphs in the active document. The  **Range**method is used to create a  **Range** object that refers to the first four paragraphs. The **Select** method is then applied to the **Range** object.
+The following example selects the first four paragraphs in the active document. The **Range**method is used to create a **Range** object that refers to the first four paragraphs. The **Select** method is then applied to the **Range** object.
 
 
 

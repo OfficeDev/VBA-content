@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UndoRecord.IsRecordingCustomRecord Property (Word)
 
-Returns a  **Boolean** that specifies whether a custom undo action is being recorded. Read-only.
+Returns a **Boolean** that specifies whether a custom undo action is being recorded. Read-only.
 
 
 ## Syntax

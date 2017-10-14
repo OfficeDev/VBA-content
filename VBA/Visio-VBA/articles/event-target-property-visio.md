@@ -32,8 +32,8 @@ String
 
 An event consists of an event-action pair. When the event occurs, the action is performed. An event also specifies the target of the action and arguments to send to the target.
 
-If the action code of the event is  **visActCodeRunAddon** , the **Target** property contains the name of the add-on to run.
+If the action code of the event is **visActCodeRunAddon** , the **Target** property contains the name of the add-on to run.
 
-If the action code of the event is  **visActCodeAdvise** , the **Target** property is not available. Attempting to get or set the **Target** property for such an event causes an exception.
+If the action code of the event is **visActCodeAdvise** , the **Target** property is not available. Attempting to get or set the **Target** property for such an event causes an exception.
 
 

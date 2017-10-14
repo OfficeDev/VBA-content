@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.LineNumbering Property (Word)
 
-Returns or sets a  **[LineNumbering](linenumbering-object-word.md)** object that represents the line numbers for the specified **PageSetup** object.
+Returns or sets a **[LineNumbering](linenumbering-object-word.md)** object that represents the line numbers for the specified **PageSetup** object.
 
 
 ## Syntax

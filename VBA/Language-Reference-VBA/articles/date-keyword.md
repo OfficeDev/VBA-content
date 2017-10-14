@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Date <keyword>
 
-The  **Date** keyword is used in these contexts:
+The **Date** keyword is used in these contexts:
 
 [Date Data Type](date-data-type.md)
 

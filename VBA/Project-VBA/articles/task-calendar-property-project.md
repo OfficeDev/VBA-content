@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Calendar Property (Project)
 
-Gets or sets the name of the calendar to be used when scheduling the task. Read/write  **String**.
+Gets or sets the name of the calendar to be used when scheduling the task. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the name of the calendar to be used when scheduling the task. Read/
 
 ## Remarks
 
-When there is no calendar set for the task, the  **Calendar** property is "None".
+When there is no calendar set for the task, the **Calendar** property is "None".
 
 

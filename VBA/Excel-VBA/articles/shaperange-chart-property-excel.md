@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Chart Property (Excel)
 
-Returns a  **[Chart](chart-object-excel.md)** object that represents the chart contained in the shape range. Read-only.
+Returns a **[Chart](chart-object-excel.md)** object that represents the chart contained in the shape range. Read-only.
 
 
 ## Syntax

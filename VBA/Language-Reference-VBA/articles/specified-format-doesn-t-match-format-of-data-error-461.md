@@ -15,9 +15,9 @@ The specified Clipboard format is incompatible with the method being executed. T
 
 
 
-- You tried to use the  **GetText** method or **SetText** method with a Clipboard format other than **vbCFText** or **vbCFLink**. Before using these methods, use the **GetFormat** method to test whether the current contents of the Clipboard matches the specified format.
+- You tried to use the **GetText** method or **SetText** method with a Clipboard format other than **vbCFText** or **vbCFLink**. Before using these methods, use the **GetFormat** method to test whether the current contents of the Clipboard matches the specified format.
     
-- You tried to use the  **GetData** method or **SetData** method with a Clipboard format other than **vbCFBitmap**, **vbCFDIB**, or **vbCFMetafile**. Before using these methods, use the **GetFormat** method to test whether the current contents of the Clipboard matches the specified graphics format.
+- You tried to use the **GetData** method or **SetData** method with a Clipboard format other than **vbCFBitmap**, **vbCFDIB**, or **vbCFMetafile**. Before using these methods, use the **GetFormat** method to test whether the current contents of the Clipboard matches the specified graphics format.
     
 
 

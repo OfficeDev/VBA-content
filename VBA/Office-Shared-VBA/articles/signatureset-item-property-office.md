@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSet.Item Property (Office)
 
-Gets a  **Signature** object that corresponds to one of the digital signatures with which the document is currently signed. Read-only.
+Gets a **Signature** object that corresponds to one of the digital signatures with which the document is currently signed. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets a  **Signature** object that corresponds to one of the digital signatures w
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _iSig_|Required|**Long**|Determines which  **Signature** object to return.|
+| _iSig_|Required|**Long**|Determines which **Signature** object to return.|
 
 ## See also
 

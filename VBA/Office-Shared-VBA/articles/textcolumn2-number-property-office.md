@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextColumn2.Number Property (Office)
 
-Gets or sets the index of the  **TextColumn2** object. Read/write
+Gets or sets the index of the **TextColumn2** object. Read/write
 
 
 ## Syntax

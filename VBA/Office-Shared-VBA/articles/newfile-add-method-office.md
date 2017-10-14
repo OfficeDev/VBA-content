@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NewFile.Add Method (Office)
 
-Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.
+Adds a new item to the **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to i
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file to add to the list of files on the task pane.|
-| _Section_|Optional|**Variant**|The section to which to add the file. Can be any  **msoFileNew** constant.|
+| _Section_|Optional|**Variant**|The section to which to add the file. Can be any **msoFileNew** constant.|
 | _DisplayName_|Optional|**Variant**|The text to display in the task pane.|
-| _Action_|Optional|**Variant**|The action to take when a user clicks the item. Can be any  **msoFileNew** constant.|
+| _Action_|Optional|**Variant**|The action to take when a user clicks the item. Can be any **msoFileNew** constant.|
 
 ## See also
 

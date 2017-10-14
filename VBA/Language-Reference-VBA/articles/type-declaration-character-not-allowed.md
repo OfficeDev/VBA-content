@@ -17,7 +17,7 @@ While using [type-declaration characters](vbe-glossary.md) is valid in Visual Ba
 
 - You tried to use a type-declaration character in the declaration of a [variable](vbe-glossary.md) that uses the **As** clause, for example, with **Dim**, **Static**, **Public**, and so on.
     
-    Either remove the type-declaration character or remove the  **As** clause.
+    Either remove the type-declaration character or remove the **As** clause.
     
 - You tried to use a [type-declaration character](vbe-glossary.md) in reference to a variable that was implicitly declared without a type-declaration character:
     
@@ -37,7 +37,7 @@ MyStr = "Because it was explicitly declared, the $ is optional."
 
     Either remove the type-declaration character or redeclare the original variable.
     
-     **Note**  If an explicit variable declaration contains a type-declaration character, inclusion of the character is optional in later references. For example:
+    **Note**  If an explicit variable declaration contains a type-declaration character, inclusion of the character is optional in later references. For example:
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

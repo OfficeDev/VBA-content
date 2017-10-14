@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CommandBars Property (Word)
 
-Returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
+Returns a **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **CommandBars** collection that represents the menu bar and all the t
 
 ## Remarks
 
-Use the  **[CustomizationContext](application-customizationcontext-property-word.md)** property to set the template or document context prior to accessing the **CommandBars** collection.
+Use the **[CustomizationContext](application-customizationcontext-property-word.md)** property to set the template or document context prior to accessing the **CommandBars** collection.
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
@@ -42,7 +42,7 @@ With CommandBars
 End With
 ```
 
-This example displays the  **Drawing** toolbar at the bottom of the application window.
+This example displays the **Drawing** toolbar at the bottom of the application window.
 
 
 
@@ -54,7 +54,7 @@ With CommandBars("Drawing")
 End With
 ```
 
-This example adds the Versions command button to the  **Standard** toolbar.
+This example adds the Versions command button to the **Standard** toolbar.
 
 
 

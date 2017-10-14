@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Chart Property (PowerPoint)
 
-Returns the  **Chart** object of the current **ShapeRange** object. Read-only.
+Returns the **Chart** object of the current **ShapeRange** object. Read-only.
 
 
 ## Syntax

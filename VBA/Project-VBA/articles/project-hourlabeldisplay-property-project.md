@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.HourLabelDisplay Property (Project)
 
-Gets or sets the abbreviation for "hour" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
+Gets or sets the abbreviation for "hour" that is displayed for values such as durations, delays, slack, and work. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,8 +25,8 @@ Gets or sets the abbreviation for "hour" that is displayed for values such as du
 
 ## Remarks
 
-The  **HourLabelDisplay** property corresponds to the **Hours** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **HourLabelDisplay** property to 1 sets the **Hours** list to the second value in the list ("hr").
+The **HourLabelDisplay** property corresponds to the **Hours** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **HourLabelDisplay** property to 1 sets the **Hours** list to the second value in the list ("hr").
 
-Values of the  **HourLabelDisplay** property can be 0 to 2.
+Values of the **HourLabelDisplay** property can be 0 to 2.
 
 

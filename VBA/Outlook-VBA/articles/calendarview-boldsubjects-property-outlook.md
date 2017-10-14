@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.BoldSubjects Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the subject information for Outlook items is displayed in bold within a **[CalendarView](calendarview-object-outlook.md)** object. Read/write
+Returns or sets a **Boolean** value that indicates whether the subject information for Outlook items is displayed in bold within a **[CalendarView](calendarview-object-outlook.md)** object. Read/write
 
 
 ## Syntax

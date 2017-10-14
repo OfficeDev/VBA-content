@@ -39,9 +39,9 @@ Nothing
 
 ## Remarks
 
-The  **FitCurve** method of a **Selection** object optimizes each of the shapes in the selection. It does not combine the selected shapes into a single shape.
+The **FitCurve** method of a **Selection** object optimizes each of the shapes in the selection. It does not combine the selected shapes into a single shape.
 
-The paths resulting from the  **FitCurve** method fall within the given tolerance of the initial paths. Tolerance should be in internal drawing units (inches). To match the initial paths exactly, specify a tolerance of zero (0).
+The paths resulting from the **FitCurve** method fall within the given tolerance of the initial paths. Tolerance should be in internal drawing units (inches). To match the initial paths exactly, specify a tolerance of zero (0).
 
 The  _Flags_ argument is a bitmask that specifies options for optimizing the paths. Its value should either be zero or a combination of one or more of the following values.
 

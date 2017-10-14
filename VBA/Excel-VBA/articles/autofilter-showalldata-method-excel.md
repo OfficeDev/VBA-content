@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFilter.ShowAllData Method (Excel)
 
-Displays all the data returned by the  **AutoFilter** object.
+Displays all the data returned by the **AutoFilter** object.
 
 
 ## Syntax

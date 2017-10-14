@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartStyle Property (Word)
 
-Returns or sets the chart style for the chart. Read/write  **Variant** .
+Returns or sets the chart style for the chart. Read/write **Variant** .
 
 
 ## Syntax

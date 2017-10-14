@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentations.Add Method (PowerPoint)
 
-Creates a presentation. Returns a  **[Presentation](presentation-object-powerpoint.md)** object that represents the new presentation.
+Creates a presentation. Returns a **[Presentation](presentation-object-powerpoint.md)** object that represents the new presentation.
 
 
 ## Syntax

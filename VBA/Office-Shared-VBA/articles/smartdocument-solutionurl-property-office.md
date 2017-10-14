@@ -25,9 +25,9 @@ Gets or sets an absolute URL which provides the complete path to the XML expansi
 
 ## Remarks
 
-The  **SolutionUrl** property returns an empty string when no XML expansion pack is attached to the active document.
+The **SolutionUrl** property returns an empty string when no XML expansion pack is attached to the active document.
 
-Provide appropriate values for the  **SolutionID** and **SolutionUrl** properties to attach an available XML expansion pack to the active document and transform it into a smart document without using the **PickSolution** method. Set the **SolutionID** and **SolutionUrl** properties to empty strings to remove the attached XML expansion pack
+Provide appropriate values for the **SolutionID** and **SolutionUrl** properties to attach an available XML expansion pack to the active document and transform it into a smart document without using the **PickSolution** method. Set the **SolutionID** and **SolutionUrl** properties to empty strings to remove the attached XML expansion pack
 
 
 ## Example

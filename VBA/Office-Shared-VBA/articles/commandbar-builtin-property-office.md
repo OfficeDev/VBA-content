@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBar.BuiltIn Property (Office)
 
-Gets  **True** if the specified command bar is a built-in command bar of the container application. Returns **False** if it is a custom command bar. Read-only.
+Gets **True** if the specified command bar is a built-in command bar of the container application. Returns **False** if it is a custom command bar. Read-only.
 
 
 ## 

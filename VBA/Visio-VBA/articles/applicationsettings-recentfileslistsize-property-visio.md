@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ApplicationSettings.RecentFilesListSize Property (Visio)
 
-Determines the number of entries in the  **Recent Documents** list in the Microsoft Visio user interface. Read/write.
+Determines the number of entries in the **Recent Documents** list in the Microsoft Visio user interface. Read/write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Long
 
 ## Remarks
 
-Setting the  **RecentFilesListSize** property is equivalent to setting the **Show this number of Recent Documents** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, click **Options**, and then click  **Advanced**). the maximum setting is 12.
+Setting the **RecentFilesListSize** property is equivalent to setting the **Show this number of Recent Documents** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, click **Options**, and then click **Advanced**). the maximum setting is 12.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **RecentFilesListSize** property to print the current size of the recently used file list in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **RecentFilesListSize** property to print the current size of the recently used file list in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
 ```vb

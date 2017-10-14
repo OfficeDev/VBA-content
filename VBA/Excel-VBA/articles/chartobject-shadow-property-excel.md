@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObject.Shadow Property (Excel)
 
-Returns or sets a  **Boolean** value that determines if the font is a shadow font or if the object has a shadow.
+Returns or sets a **Boolean** value that determines if the font is a shadow font or if the object has a shadow.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines if the font is a shadow fon
 
 ## Remarks
 
-For the  **Font** object, this property has no effect in Microsoft Windows, but its value is retained (it can be set and returned).
+For the **Font** object, this property has no effect in Microsoft Windows, but its value is retained (it can be set and returned).
 
 
 ## See also

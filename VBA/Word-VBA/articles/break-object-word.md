@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Break Object (Word)
 
-Represents individual page, column, and section breaks in a page. Use the  **Break** object and the related methods and properties for programmatically defining page layout in a document.
+Represents individual page, column, and section breaks in a page. Use the **Break** object and the related methods and properties for programmatically defining page layout in a document.
 
 
 ## Remarks
 
-Use the  **[Item](breaks-item-method-word.md)** method of the **[Breaks](breaks-object-word.md)** collection to return a specific **Break** object. The following example returns the first break in the first page of the active document.
+Use the **[Item](breaks-item-method-word.md)** method of the **[Breaks](breaks-object-word.md)** collection to return a specific **Break** object. The following example returns the first break in the first page of the active document.
 
 
 ```vb

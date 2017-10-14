@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # Workbooks Object (Excel)
 
-A collection of all the  **[Workbook](workbook-object-excel.md)** objects that are currently open in the Microsoft Excel application.
+A collection of all the **[Workbook](workbook-object-excel.md)** objects that are currently open in the Microsoft Excel application.
 
 
 ## Remarks
 
-For more information about using a single  **Workbook** object, see the[Workbook](workbook-object-excel.md) object.
+For more information about using a single **Workbook** object, see the[Workbook](workbook-object-excel.md) object.
 
 
 ## Example
 
-Use the  **[Workbooks](application-workbooks-property-excel.md)** property to return the **Workbooks** collection. The following example closes all open workbooks.
+Use the **[Workbooks](application-workbooks-property-excel.md)** property to return the **Workbooks** collection. The following example closes all open workbooks.
 
 
 ```
 Workbooks.Close
 ```
 
-Use the  **[Add](workbooks-add-method-excel.md)** method to create a new, empty workbook and add it to the collection. The following example adds a new, empty workbook to Microsoft Excel.
+Use the **[Add](workbooks-add-method-excel.md)** method to create a new, empty workbook and add it to the collection. The following example adds a new, empty workbook to Microsoft Excel.
 
 
 
@@ -39,7 +39,7 @@ Use the  **[Add](workbooks-add-method-excel.md)** method to create a new, empty 
 Workbooks.Add
 ```
 
-Use the  **[Open](workbooks-open-method-excel.md)** method to open a file. This creates a new workbook for the opened file. The following example opens the file Array.xls as a read-only workbook.
+Use the **[Open](workbooks-open-method-excel.md)** method to open a file. This creates a new workbook for the opened file. The following example opens the file Array.xls as a read-only workbook.
 
 
 

@@ -10,16 +10,16 @@ ms.date: 06/08/2017
 
 Add-ins provide more options when you customize standard form pages and form regions in Microsoft Outlook. COM add-ins and Microsoft Exchange Client add-ins are available.
 
-For best results, use  **Control Panel** to add or remove add-ins.
+For best results, use **Control Panel** to add or remove add-ins.
 
-For  **Microsoft Windows XP**
+For **Microsoft Windows XP**
 
 
-- Click  **Start**, click  **Control Panel**, and then click  **Add or Remove Programs**. 
+- Click **Start**, click **Control Panel**, and then click **Add or Remove Programs**. 
     
-For  **Windows Vista**
+For **Windows Vista**
 
--  Click **Start**, click  **Control Panel**, and then click  **Programs**.
+-  Click **Start**, click **Control Panel**, and then click **Programs**.
     
 For more information, see the following topics:
 

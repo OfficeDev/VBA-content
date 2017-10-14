@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.HasAttachment Property (Outlook)
 
-Returns a  **Boolean** that is **True** (default) if the remote item has an attachment associated with it. Read-only.
+Returns a **Boolean** that is **True** (default) if the remote item has an attachment associated with it. Read-only.
 
 
 ## Syntax

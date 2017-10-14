@@ -20,7 +20,7 @@ Returns an individual object from a specified collection. Read-only.
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **Plates** object.
+ _expression_A variable that represents a **Plates** object.
 
 
 ### Parameters

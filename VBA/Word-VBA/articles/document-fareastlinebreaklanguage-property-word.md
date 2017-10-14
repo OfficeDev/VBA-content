@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FarEastLineBreakLanguage Property (Word)
 
-Returns or sets a  **[WdFarEastLineBreakLanguageID](wdfareastlinebreaklanguageid-enumeration-word.md)** that represents the East Asian language to use when breaking lines of text in the specified document or template. Read/write.
+Returns or sets a **[WdFarEastLineBreakLanguageID](wdfareastlinebreaklanguageid-enumeration-word.md)** that represents the East Asian language to use when breaking lines of text in the specified document or template. Read/write.
 
 
 ## Syntax

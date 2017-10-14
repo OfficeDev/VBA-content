@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.NameFarEast Property (Word)
 
-Returns or sets an East Asian font name. Read/write  **String** .
+Returns or sets an East Asian font name. Read/write **String** .
 
 
 ## Syntax

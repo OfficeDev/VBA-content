@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Form Method (Project)
 
-Displays a custom form. The  **Form** method produces an error if a resource form is specified when the active view is a task view, and vice versa.
+Displays a custom form. The **Form** method produces an error if a resource form is specified when the active view is a task view, and vice versa.
 
 
 ## Syntax

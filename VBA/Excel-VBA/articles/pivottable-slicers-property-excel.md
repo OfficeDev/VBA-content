@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.Slicers Property (Excel)
 
-Returns the  **[Slicers](slicers-object-excel.md)** collection for the specified PivotTable. Read-only
+Returns the **[Slicers](slicers-object-excel.md)** collection for the specified PivotTable. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[Slicers](slicers-object-excel.md)** collection for the specified
 
 ## Remarks
 
-Slicers can be used to filter data in PivotTable reports. The  **Slicers** collection contains **[Slicer](slicer-object-excel.md)** objects that represent the slicers that are associated with the specified PivotTable.
+Slicers can be used to filter data in PivotTable reports. The **Slicers** collection contains **[Slicer](slicer-object-excel.md)** objects that represent the slicers that are associated with the specified PivotTable.
 
 
 ## See also

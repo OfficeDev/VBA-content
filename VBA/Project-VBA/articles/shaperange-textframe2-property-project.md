@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.TextFrame2 Property (Project)
-Gets a  **TextFrame2** object that contains the text in a text frame and the members that control the alignment, anchoring, and other features of the text frame. Read-only **[TextFrame2](http://msdn.microsoft.com/en-us/library/office/ff822136%28v=office.15%29)**.
+Gets a **TextFrame2** object that contains the text in a text frame and the members that control the alignment, anchoring, and other features of the text frame. Read-only **[TextFrame2](http://msdn.microsoft.com/en-us/library/office/ff822136%28v=office.15%29)**.
 
 ## Syntax
 
@@ -18,14 +18,14 @@ Gets a  **TextFrame2** object that contains the text in a text frame and the mem
 
 ## Remarks
 
-A  **TextFrame2** object contains many of the same properties as a **TextFrame** object, plus additional properties such as **AutoSize**,  **ThreeD**, and  **WordArtformat**.
+A **TextFrame2** object contains many of the same properties as a **TextFrame** object, plus additional properties such as **AutoSize**, **ThreeD**, and **WordArtformat**.
 
 
 ## Example
 
-The following example creates two text boxes and adds them to a  **ShapeRange** object, sets both text frames to automatically fit the text, sets the foreground color of text in the first text box shape to red, sets the foreground color of the shape range to a yellowish tan, and then uses the **TextEffect** property to set font properties on both text boxes in the shape range.
+The following example creates two text boxes and adds them to a **ShapeRange** object, sets both text frames to automatically fit the text, sets the foreground color of text in the first text box shape to red, sets the foreground color of the shape range to a yellowish tan, and then uses the **TextEffect** property to set font properties on both text boxes in the shape range.
 
-The  **TextFrame2** property for the **ShapeRange** object is shown in bold font.
+The **TextFrame2** property for the **ShapeRange** object is shown in bold font.
 
 
 

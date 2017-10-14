@@ -19,7 +19,7 @@ Represents the complete set of valid values for a wizard property.
 
 ## Example
 
-Use the  **[Values](wizardproperty-values-property-publisher.md)** property of the **WizardProperty** object to return a **WizardValues** collection. The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
+Use the **[Values](wizardproperty-values-property-publisher.md)** property of the **WizardProperty** object to return a **WizardValues** collection. The following example displays the current value for the first wizard property in the active publication and then lists all the other possible values.
  
 
  

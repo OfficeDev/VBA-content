@@ -30,6 +30,6 @@ Displays peak units information in the active Resource Graph view.
 
 ## Remarks
 
-The  **ViewShowPeakUnits** method has no effect unless the active window contains the Resource Graph view.
+The **ViewShowPeakUnits** method has no effect unless the active window contains the Resource Graph view.
 
 

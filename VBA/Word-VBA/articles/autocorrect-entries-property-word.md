@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.Entries Property (Word)
 
-Returns an  **[AutoCorrectEntries](autocorrectentries-object-word.md)** collection that represents the current list of AutoCorrect entries.
+Returns an **[AutoCorrectEntries](autocorrectentries-object-word.md)** collection that represents the current list of AutoCorrect entries.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AutoCorrectEntries](autocorrectentries-object-word.md)** collecti
 
 ## Remarks
 
-This list corresponds to the list of AutoCorrect entries on the  **AutoCorrect** tab in the **AutoCorrect** dialog box. Read-only. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+This list corresponds to the list of AutoCorrect entries on the **AutoCorrect** tab in the **AutoCorrect** dialog box. Read-only. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example

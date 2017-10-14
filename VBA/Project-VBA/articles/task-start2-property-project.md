@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Start2 Property (Project)
 
-Gets or sets a Start local custom field for the task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets a Start local custom field for the task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

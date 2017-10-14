@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # TablesOfContents Object (Word)
 
-A collection of  **[TableOfContents](tableofcontents-object-word.md)** objects that represent the tables of contents in a document.
+A collection of **[TableOfContents](tableofcontents-object-word.md)** objects that represent the tables of contents in a document.
 
 
 ## Remarks
 
-Use the  **TablesOfContents** property to return the **TablesOfContents** collection. The following example inserts a table of contents entry that references the selected text in the active document.
+Use the **TablesOfContents** property to return the **TablesOfContents** collection. The following example inserts a table of contents entry that references the selected text in the active document.
 
 
 ```
@@ -24,7 +24,7 @@ ActiveDocument.TablesOfContents.MarkEntry Range:=Selection.Range, _
  Level:=2, Entry:="Introduction"
 ```
 
-Use the  **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
+Use the **Add** method to add a table of contents to a document. The following example adds a table of contents at the beginning of the active document. The example builds the table of contents from all paragraphs styled as either Heading 1, Heading 2, or Heading 3.
 
 
 
@@ -37,7 +37,7 @@ ActiveDocument.TablesOfContents.Add Range:=myRange, _
  UpperHeadingLevel:=1
 ```
 
-Use  **TablesOfContents** (Index), where Index is the index number, to return a single **TableOfContents** object. The index number represents the position of the table of contents in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
+Use **TablesOfContents** (Index), where Index is the index number, to return a single **TableOfContents** object. The index number represents the position of the table of contents in the document. The following example updates the page numbers of the items in the first table of figures in the active document.
 
 
 

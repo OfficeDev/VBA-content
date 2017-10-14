@@ -29,7 +29,7 @@ Requests that an OLE object perform one of its available verbs ? the actions an 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _VerbIndex_|Optional| **Variant**|The verb that the OLE object should perform. If this argument is omitted, the default verb is sent. If the OLE object does not support the requested verb, an error will occur. Can be any  **WdOLEVerb** constant.|
+| _VerbIndex_|Optional| **Variant**|The verb that the OLE object should perform. If this argument is omitted, the default verb is sent. If the OLE object does not support the requested verb, an error will occur. Can be any **WdOLEVerb** constant.|
 
 ## Remarks
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpPublishSourceType Enumeration (PowerPoint)
 
-Constants that specify the type of source material to be published, passed to and returned by the  **SourceType** property of the **PublishObject** object.
+Constants that specify the type of source material to be published, passed to and returned by the **SourceType** property of the **PublishObject** object.
 
 
 

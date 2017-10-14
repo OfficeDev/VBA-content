@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Subject Property (Outlook)
 
-Returns or sets a  **String** indicating the subject for the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a **String** indicating the subject for the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the subject for the **[SharingItem](sha
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSubject** . The **Subject** property is the default property for Outlook items.
+This property corresponds to the MAPI property **PidTagSubject** . The **Subject** property is the default property for Outlook items.
 
 
 ## See also

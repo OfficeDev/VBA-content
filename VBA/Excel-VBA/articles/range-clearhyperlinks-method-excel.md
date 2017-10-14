@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **ClearHyperlinks** method on the specified range is equivalent to using the **Clear Hyperlinks** command from the **Clear** drop-down list in the **Editing** section of the **Home** tab. Only hyperlinks will be removed; all other cell content, such as text and formatting will be unaffected.
+Calling the **ClearHyperlinks** method on the specified range is equivalent to using the **Clear Hyperlinks** command from the **Clear** drop-down list in the **Editing** section of the **Home** tab. Only hyperlinks will be removed; all other cell content, such as text and formatting will be unaffected.
 
 
 ## See also

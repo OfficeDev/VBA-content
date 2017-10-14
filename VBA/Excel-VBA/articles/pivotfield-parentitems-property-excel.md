@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ParentItems Property (Excel)
 
-Returns an object that represents either a single PivotTable item (a  **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the items (a **[PivotItems](pivotitems-object-excel.md)** object) that are group parents in the specified field. The specified field must be a group parent of another field. Read-only.
+Returns an object that represents either a single PivotTable item (a **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the items (a **[PivotItems](pivotitems-object-excel.md)** object) that are group parents in the specified field. The specified field must be a group parent of another field. Read-only.
 
 
 ## Syntax

@@ -13,22 +13,22 @@ ms.date: 06/08/2017
 
 # ShapeRange Object (Publisher)
 
-Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as one shape or as many as all the shapes in the document. You can include whichever shapes you want — chosen from among all the shapes in the document or all the shapes in the selection — to construct a shape range. For example, you could construct a  **ShapeRange** collection that contains the first three shapes in a document, all the selected shapes in a document, or all the freeform shapes in a document.
+Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as one shape or as many as all the shapes in the document. You can include whichever shapes you want — chosen from among all the shapes in the document or all the shapes in the selection — to construct a shape range. For example, you could construct a **ShapeRange** collection that contains the first three shapes in a document, all the selected shapes in a document, or all the freeform shapes in a document.
 
 
- **Note**  Most operations that you can do with a  **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** object, you can also do with a **ShapeRange** object that contains only one shape. Some operations, when performed on a **ShapeRange** object that contains more than one shape, will cause an error. This section describes how to:
+ **Note**  Most operations that you can do with a **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** object, you can also do with a **ShapeRange** object that contains only one shape. Some operations, when performed on a **ShapeRange** object that contains more than one shape, will cause an error. This section describes how to:
 
 
 - Return a set of shapes.
     
-- Return a  **ShapeRange** object within a selection or range.
+- Return a **ShapeRange** object within a selection or range.
     
-- Align, distribute, and group shapes in a  **ShapeRange** object.
+- Align, distribute, and group shapes in a **ShapeRange** object.
     
 
 ## Example
 
-Use  **Shapes.Range** (index), where index is the index number of the shape or an array that contains index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes in a publication. You can use Visual Basic's **Array** function to construct an array of index numbers. The following example sets the fill pattern for shapes one through three on the active publication.
+Use **Shapes.Range** (index), where index is the index number of the shape or an array that contains index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes in a publication. You can use Visual Basic's **Array** function to construct an array of index numbers. The following example sets the fill pattern for shapes one through three on the active publication.
 
 
 ```
@@ -39,9 +39,9 @@ Sub ChangeFillPattern()
 End Sub
 ```
 
-Although you can use the  **[Range](http://msdn.microsoft.com/library/f9ef5314-21f1-378f-1552-fcd4e46f841d%28Office.15%29.aspx)** method to return any number of shapes, it is simpler to use the **[Item](http://msdn.microsoft.com/library/f316bbac-b0be-0281-585b-c32dcb709b66%28Office.15%29.aspx)** method if you want to return only a single member of the collection. For example, **Shapes** (1) is simpler than **Shapes.Range** (1).
+Although you can use the **[Range](http://msdn.microsoft.com/library/f9ef5314-21f1-378f-1552-fcd4e46f841d%28Office.15%29.aspx)** method to return any number of shapes, it is simpler to use the **[Item](http://msdn.microsoft.com/library/f316bbac-b0be-0281-585b-c32dcb709b66%28Office.15%29.aspx)** method if you want to return only a single member of the collection. For example, **Shapes** (1) is simpler than **Shapes.Range** (1).
 
-Use  **Selection.ShapeRange** (index), where index is the index number of the shape, to return a **Shape** object that represents a shape within a selection. The following example selects the first two shapes on the first page of the active publication and then sets the fill for the first shape in the selection.
+Use **Selection.ShapeRange** (index), where index is the index number of the shape, to return a **Shape** object that represents a shape within a selection. The following example selects the first two shapes on the first page of the active publication and then sets the fill for the first shape in the selection.
 
 
 
@@ -69,7 +69,7 @@ Sub SelectShapesOnPageOne()
 End Sub
 ```
 
-Use the  **[Align](http://msdn.microsoft.com/library/ef522d47-3fc7-cfca-5b9a-44ff020f8b31%28Office.15%29.aspx)**, **[Distribute](http://msdn.microsoft.com/library/a145fb46-d7b6-bc3c-b7fd-cdb892fda179%28Office.15%29.aspx)**, or **[ZOrder](http://msdn.microsoft.com/library/2043f78c-ab83-e719-c3b5-5d75edcf1593%28Office.15%29.aspx)** method to position a set of shapes relative to each other or relative to the document. This example specifies a shape range and left-aligns and vertically distributes the shapes on the page.
+Use the **[Align](http://msdn.microsoft.com/library/ef522d47-3fc7-cfca-5b9a-44ff020f8b31%28Office.15%29.aspx)**, **[Distribute](http://msdn.microsoft.com/library/a145fb46-d7b6-bc3c-b7fd-cdb892fda179%28Office.15%29.aspx)**, or **[ZOrder](http://msdn.microsoft.com/library/2043f78c-ab83-e719-c3b5-5d75edcf1593%28Office.15%29.aspx)** method to position a set of shapes relative to each other or relative to the document. This example specifies a shape range and left-aligns and vertically distributes the shapes on the page.
 
 
 
@@ -86,7 +86,7 @@ Sub AlignDistibuteShapes()
 End Sub
 ```
 
-Use the  **[Group](http://msdn.microsoft.com/library/ca3e011f-72ea-904e-da3f-cac7fe24341d%28Office.15%29.aspx)**, **[Regroup](http://msdn.microsoft.com/library/29342a78-9425-2356-963c-36a62a7f3091%28Office.15%29.aspx)**, or **[Ungroup](http://msdn.microsoft.com/library/253a366c-7317-14e7-2668-191eccec6cb8%28Office.15%29.aspx)** method to create and work with a single shape formed from a shape range. The **[GroupItems](http://msdn.microsoft.com/library/d37c75cd-a651-51d1-42c7-59879ccbbf1d%28Office.15%29.aspx)** property for a **Shape** object returns the **[GroupShapes](http://msdn.microsoft.com/library/dd723f99-25a9-81cc-1d16-eb7dcd651c5e%28Office.15%29.aspx)** object, which represents all the shapes that were grouped to form one shape. This example specifies a shape range and left-aligns and vertically distributes the shapes on the page.
+Use the **[Group](http://msdn.microsoft.com/library/ca3e011f-72ea-904e-da3f-cac7fe24341d%28Office.15%29.aspx)**, **[Regroup](http://msdn.microsoft.com/library/29342a78-9425-2356-963c-36a62a7f3091%28Office.15%29.aspx)**, or **[Ungroup](http://msdn.microsoft.com/library/253a366c-7317-14e7-2668-191eccec6cb8%28Office.15%29.aspx)** method to create and work with a single shape formed from a shape range. The **[GroupItems](http://msdn.microsoft.com/library/d37c75cd-a651-51d1-42c7-59879ccbbf1d%28Office.15%29.aspx)** property for a **Shape** object returns the **[GroupShapes](http://msdn.microsoft.com/library/dd723f99-25a9-81cc-1d16-eb7dcd651c5e%28Office.15%29.aspx)** object, which represents all the shapes that were grouped to form one shape. This example specifies a shape range and left-aligns and vertically distributes the shapes on the page.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.WindowHeight Property (Access)
 
-Returns the height of a form in twips. Read-only  **Integer**.
+Returns the height of a form in twips. Read-only **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the height of a form in twips. Read-only  **Integer**.
 
 ## Remarks
 
-The  **WindowHeight** property is measured from the upper-left corner of the form to its lower-left corner.
+The **WindowHeight** property is measured from the upper-left corner of the form to its lower-left corner.
 
 
 ## See also

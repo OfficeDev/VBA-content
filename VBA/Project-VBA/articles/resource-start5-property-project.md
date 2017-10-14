@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Start5 Property (Project)
 
-Gets or sets a Start local custom field for the resource. Read/write  **Variant**.
+Gets or sets a Start local custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax

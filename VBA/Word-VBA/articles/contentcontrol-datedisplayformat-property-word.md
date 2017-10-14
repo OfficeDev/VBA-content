@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.DateDisplayFormat Property (Word)
 
-Returns or sets a  **String** that represents the format in which dates are displayed. Read/write.
+Returns or sets a **String** that represents the format in which dates are displayed. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the format in which dates are disp
 
 ## Remarks
 
-The default format is the format setting specified in Microsoft Word on the users' system, which usually depends on the location setting in Microsoft Windows. For example, the default format of dates for English (U.S.) is "mm/dd/yyyy". Use the  **DateDisplayFormat** property to specify a different date format.
+The default format is the format setting specified in Microsoft Word on the users' system, which usually depends on the location setting in Microsoft Windows. For example, the default format of dates for English (U.S.) is "mm/dd/yyyy". Use the **DateDisplayFormat** property to specify a different date format.
 
 
 ## Example

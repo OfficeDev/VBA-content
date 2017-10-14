@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Fill Property (Excel)
 
-Returns a  **[FillFormat](fillformat-object-excel.md)** object for a specified shape or a **[ChartFillFormat](http://msdn.microsoft.com/library/e011f58f-141b-1b21-0db4-04a5c5e964c6%28Office.15%29.aspx)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
+Returns a **[FillFormat](fillformat-object-excel.md)** object for a specified shape or a **[ChartFillFormat](http://msdn.microsoft.com/library/e011f58f-141b-1b21-0db4-04a5c5e964c6%28Office.15%29.aspx)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
 
 
 ## Syntax

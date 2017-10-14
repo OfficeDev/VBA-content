@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ListIndent Method (Word)
 
-Increases the list level of the paragraphs in the range for the specified  **ListFormat** object, in increments of one level.
+Increases the list level of the paragraphs in the range for the specified **ListFormat** object, in increments of one level.
 
 
 ## Syntax

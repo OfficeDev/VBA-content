@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](customxmlvalidationerrors-add-method-office.md)|Adds a  **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.|
+|[Add](customxmlvalidationerrors-add-method-office.md)|Adds a **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.|
 

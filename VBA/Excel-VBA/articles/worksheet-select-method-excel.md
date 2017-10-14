@@ -33,7 +33,7 @@ Selects the object.
 
 ## Remarks
 
-To select a sheet or multiple sheets, use the  **Select** method. To make a single sheet the active sheet, use the **[Activate](worksheet-activate-method-excel.md)** method.
+To select a sheet or multiple sheets, use the **Select** method. To make a single sheet the active sheet, use the **[Activate](worksheet-activate-method-excel.md)** method.
 
 
 ## See also

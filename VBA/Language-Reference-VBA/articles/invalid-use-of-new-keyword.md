@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Invalid use of New keyword
 
-The  **New** keyword can only be applied to a creatable object (an instance of a[class](vbe-glossary.md) or[Automation object](vbe-glossary.md)). This error has the following causes and solutions:
+The **New** keyword can only be applied to a creatable object (an instance of a[class](vbe-glossary.md) or[Automation object](vbe-glossary.md)). This error has the following causes and solutions:
 
 
 
@@ -25,7 +25,7 @@ Dim MyMod As New Module1
 
     You can't create the new instance, since a module can have only one instance.
     
-- You tried to instantiate an Automation object, but it was not a creatable object. For example, you tried to create a new instance of a list box by specifying  **ListBox** in a statement like the following:
+- You tried to instantiate an Automation object, but it was not a creatable object. For example, you tried to create a new instance of a list box by specifying **ListBox** in a statement like the following:
     
   ```
   ' Valid syntax to create the variable. 
@@ -38,7 +38,7 @@ Set MyListBox = New ListBox
   ```
 
 
-     **ListBox** and **Form** are class names, not specific object names. You can use them to specify that a[variable](vbe-glossary.md) will be a reference to a certain[object type](vbe-glossary.md), as with the valid  **Dim** statements above. But you can't use them to instantiate the objects themselves in a **Set** statement. You must specify a specific object, rather than the generic class name, in the **Set** statement:
+    **ListBox** and **Form** are class names, not specific object names. You can use them to specify that a[variable](vbe-glossary.md) will be a reference to a certain[object type](vbe-glossary.md), as with the valid **Dim** statements above. But you can't use them to instantiate the objects themselves in a **Set** statement. You must specify a specific object, rather than the generic class name, in the **Set** statement:
     
 
 

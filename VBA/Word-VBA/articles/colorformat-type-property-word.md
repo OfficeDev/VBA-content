@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.Type Property (Word)
 
-Returns or sets the shape color type. Read-only  **MsoColorType** .
+Returns or sets the shape color type. Read-only **MsoColorType** .
 
 
 ## Syntax

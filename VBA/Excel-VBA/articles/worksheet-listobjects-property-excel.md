@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.ListObjects Property (Excel)
 
-Returns a collection of  **[ListObject](listobject-object-excel.md)** objects in the worksheet. Read-only **ListObjects** collection.
+Returns a collection of **[ListObject](listobject-object-excel.md)** objects in the worksheet. Read-only **ListObjects** collection.
 
 
 ## Syntax

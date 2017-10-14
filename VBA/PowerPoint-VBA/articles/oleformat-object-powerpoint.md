@@ -18,12 +18,12 @@ Contains properties and methods that apply to OLE objects.
 
 ## Remarks
 
-The  **[LinkFormat](linkformat-object-powerpoint.md)** object contains properties and methods that apply to linked OLE objects only. The **[PictureFormat](pictureformat-object-powerpoint.md)** object contains properties and methods that apply to pictures and OLE objects.
+The **[LinkFormat](linkformat-object-powerpoint.md)** object contains properties and methods that apply to linked OLE objects only. The **[PictureFormat](pictureformat-object-powerpoint.md)** object contains properties and methods that apply to pictures and OLE objects.
 
 
 ## Example
 
-Use the  **OLEFormat** property to return an **OLEFormat** object. The following example loops through all the shapes on all the slides in the active presentation and sets all linked Microsoft Excel worksheets to be updated manually.
+Use the **OLEFormat** property to return an **OLEFormat** object. The following example loops through all the shapes on all the slides in the active presentation and sets all linked Microsoft Excel worksheets to be updated manually.
 
 
 ```

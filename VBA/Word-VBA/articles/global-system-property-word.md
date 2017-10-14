@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.System Property (Word)
 
-Returns a  **System** object, which can be used to return system-related information and perform system-related tasks.
+Returns a **System** object, which can be used to return system-related information and perform system-related tasks.
 
 
 ## Syntax

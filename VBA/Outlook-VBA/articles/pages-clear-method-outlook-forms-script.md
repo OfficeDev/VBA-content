@@ -15,11 +15,11 @@ Removes pages from the collection.
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **Pages** object.
+ _expression_A variable that represents a **Pages** object.
 
 
 ## Remarks
 
-If the control is bound to data, the  **Clear** method fails.
+If the control is bound to data, the **Clear** method fails.
 
 

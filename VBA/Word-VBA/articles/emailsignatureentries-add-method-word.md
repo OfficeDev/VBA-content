@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailSignatureEntries.Add Method (Word)
 
-Returns an  **[EmailSignatureEntry](emailsignatureentry-object-word.md)** object that represents a new e-mail signature entry.
+Returns an **[EmailSignatureEntry](emailsignatureentry-object-word.md)** object that represents a new e-mail signature entry.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ EmailSignatureEntry
 
 ## Remarks
 
-An e-mail signature is standard text that ends an e-mail message, such as your name and telephone number. Use the  **EmailSignatureEntries** property to create and manage a collection of e-mail signatures that Microsoft Word will use when creating e-mail messages.
+An e-mail signature is standard text that ends an e-mail message, such as your name and telephone number. Use the **EmailSignatureEntries** property to create and manage a collection of e-mail signatures that Microsoft Word will use when creating e-mail messages.
 
 
 ## Example

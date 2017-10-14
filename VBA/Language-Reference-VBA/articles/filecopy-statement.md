@@ -17,19 +17,19 @@ Copies a file.
 
  **FileCopy** **_source_,** **_destination_**
 
-The  **FileCopy** statement syntax has these[named arguments](vbe-glossary.md):
+The **FileCopy** statement syntax has these[named arguments](vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_source_**|Required. [String expression](vbe-glossary.md) that specifies the name of the file to be copied. The **_source_** may include directory or folder, and drive.|
-|**_destination_**|Required. String expression that specifies the target file name. The  **_destination_** may include directory or folder, and drive.|
+|**_destination_**|Required. String expression that specifies the target file name. The **_destination_** may include directory or folder, and drive.|
  **Remarks**
-If you try to use the  **FileCopy** statement on a currently open file, an error occurs.
+If you try to use the **FileCopy** statement on a currently open file, an error occurs.
 
 ## Example
 
-This example uses the  **FileCopy** statement to copy one file to another. For purposes of this example, assume that is a file containing some data.
+This example uses the **FileCopy** statement to copy one file to another. For purposes of this example, assume that is a file containing some data.
 
 
 ```vb

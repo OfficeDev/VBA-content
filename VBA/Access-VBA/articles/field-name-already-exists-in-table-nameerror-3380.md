@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You have entered the same field name twice. Rewrite your code, giving each field a unique name. You should also check to see if the field name exists in the  **Fields** collection.
+You have entered the same field name twice. Rewrite your code, giving each field a unique name. You should also check to see if the field name exists in the **Fields** collection.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.SetObjectMatchingID Method (Project)
 
-Sets the matching identification value of an object in the  **Organizer** dialog box, for example to change the view specified by "Gantt Chart".
+Sets the matching identification value of an object in the **Organizer** dialog box, for example to change the view specified by "Gantt Chart".
 
 
 ## Syntax
@@ -26,13 +26,13 @@ Sets the matching identification value of an object in the  **Organizer** dialog
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Required|**Long**|The type of object, specified by a  **[pjOrganizer](pjorganizer-enumeration-project.md)** constant.|
+| _ObjectType_|Required|**Long**|The type of object, specified by a **[pjOrganizer](pjorganizer-enumeration-project.md)** constant.|
 | _ObjectName_|Required|**String**|Display name of the object.|
 | _MatchingID_|Required|**String**|String specifying the matching ID to set.|
 
 ## Example
 
-The following example sets the matching ID of a  **pjView** object type with the display name "Gantt Chart" to "Gantt Chart 1".
+The following example sets the matching ID of a **pjView** object type with the display name "Gantt Chart" to "Gantt Chart 1".
 
 
 ```vb

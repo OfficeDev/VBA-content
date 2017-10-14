@@ -18,9 +18,9 @@ Marks all records in a mail merge data source as containing invalid data in an a
 
 ## Syntax
 
- _expression_. **SetAllErrorFlags**( **_Invalid_**,  **_InvalidComment_**)
+ _expression_. **SetAllErrorFlags**( **_Invalid_**, **_InvalidComment_**)
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Marks all records in a mail merge data source as containing invalid data in an a
 
 ## Remarks
 
-You can individually mark records in a data source that contain invalid data in an address field using the  **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** and **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** properties.
+You can individually mark records in a data source that contain invalid data in an address field using the **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** and **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** properties.
 
 
 ## Example

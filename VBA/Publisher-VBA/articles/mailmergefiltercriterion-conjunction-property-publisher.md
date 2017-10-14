@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeFilterCriterion.Conjunction Property (Publisher)
 
-Returns or sets an  **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **[MailMergeFilters](mailmergefilters-object-publisher.md)** object. Read/write.
+Returns or sets an **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **[MailMergeFilters](mailmergefilters-object-publisher.md)** object. Read/write.
 
 
 ## Syntax
 
  _expression_. **Conjunction**
 
- _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+ _expression_A variable that represents a **MailMergeFilterCriterion** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoFilterConjunction
 
 ## Remarks
 
-The  **Conjunction** property value can be one of the following **MsoFilterConjunction** constants declared in the Microsoft Office type library.
+The **Conjunction** property value can be one of the following **MsoFilterConjunction** constants declared in the Microsoft Office type library.
 
 
 

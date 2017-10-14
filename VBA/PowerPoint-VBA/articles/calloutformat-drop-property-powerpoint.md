@@ -30,11 +30,11 @@ Single
 
 ## Remarks
 
-The distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to). In this case the drop distance is measured from the bottom of the text box.
+The distance is measured from the top of the text box unless the **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (the place that the callout points to). In this case the drop distance is measured from the bottom of the text box.
 
-Use the  **[CustomDrop](calloutformat-customdrop-method-powerpoint.md)** method to set the value of this property.
+Use the **[CustomDrop](calloutformat-customdrop-method-powerpoint.md)** method to set the value of this property.
 
-The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the  **[DropType](calloutformat-droptype-property-powerpoint.md)** property is **msoCalloutDropCustom**.
+The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the **[DropType](calloutformat-droptype-property-powerpoint.md)** property is **msoCalloutDropCustom**.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Parent Property (Project)
-Gets the parent object of the shape. Read-only  **Object**.
+Gets the parent object of the shape. Read-only **Object**.
 
 ## Syntax
 

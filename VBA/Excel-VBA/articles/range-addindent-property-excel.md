@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.AddIndent Property (Excel)
 
-Returns or sets a  **Variant** value that indicates if text is automatically indented when the text alignment in a cell is set to equal distribution (either horizontally or vertically.)
+Returns or sets a **Variant** value that indicates if text is automatically indented when the text alignment in a cell is set to equal distribution (either horizontally or vertically.)
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Variant** value that indicates if text is automatically ind
 
 ## Remarks
 
-Set the value of this property to  **True** to autmatically indent text when the text alignment in the cell is set, either horizontally or vertically, to equal distribution.
+Set the value of this property to **True** to autmatically indent text when the text alignment in the cell is set, either horizontally or vertically, to equal distribution.
 
-To set text alignment to equal distribution, you can set the  **[VerticalAlignment](range-verticalalignment-property-excel.md)** property to **xlVAlignDistributed** when the value of the **[Orientation](range-orientation-property-excel.md)** property is **xlVertical** , and you can set the **[HorizontalAlignment](range-horizontalalignment-property-excel.md)** property to **xlHAlignDistributed** when the value of the **Orientation** property is **xlHorizontal** .
+To set text alignment to equal distribution, you can set the **[VerticalAlignment](range-verticalalignment-property-excel.md)** property to **xlVAlignDistributed** when the value of the **[Orientation](range-orientation-property-excel.md)** property is **xlVertical** , and you can set the **[HorizontalAlignment](range-horizontalalignment-property-excel.md)** property to **xlHAlignDistributed** when the value of the **Orientation** property is **xlHorizontal** .
 
 
 ## Example

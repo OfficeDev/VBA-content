@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Selection Object (Publisher)
 
-Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the publication, or it represents the cursor if nothing in the publication is selected. There can only be one  **Selection** object per publication window pane, and only one **Selection** object in the entire application can be active.
+Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the publication, or it represents the cursor if nothing in the publication is selected. There can only be one **Selection** object per publication window pane, and only one **Selection** object in the entire application can be active.
  
 
 
 ## Example
 
-Use the  **[Selection](document-selection-property-publisher.md)** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Publisher returns the selection from the active pane of the active publication window. The following example copies the current selection from the active publication.
+Use the **[Selection](document-selection-property-publisher.md)** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Publisher returns the selection from the active pane of the active publication window. The following example copies the current selection from the active publication.
  
 
  

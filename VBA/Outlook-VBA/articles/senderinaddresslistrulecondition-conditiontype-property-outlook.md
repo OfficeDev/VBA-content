@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SenderInAddressListRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionSenderInAddressBook** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant, **olConditionSenderInAddressBook** , from the **[OlRuleConditionType](olruleconditiontype-enumeration-outlook.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

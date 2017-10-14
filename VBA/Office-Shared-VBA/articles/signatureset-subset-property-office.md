@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSet.Subset Property (Office)
 
-Gets or sets a value that acts as a filter on the available  **Signature** objects for a document. Read/write.
+Gets or sets a value that acts as a filter on the available **Signature** objects for a document. Read/write.
 
 
 ## Syntax

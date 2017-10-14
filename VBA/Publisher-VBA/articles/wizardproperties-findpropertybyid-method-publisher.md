@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WizardProperties.FindPropertyById Method (Publisher)
 
-Returns a  **[WizardProperty](wizardproperty-object-publisher.md)** object, based on the specified ID, from the collection of wizard properties associated with a publication design or a Design Gallery object's wizard.
+Returns a **[WizardProperty](wizardproperty-object-publisher.md)** object, based on the specified ID, from the collection of wizard properties associated with a publication design or a Design Gallery object's wizard.
 
 
 ## Syntax
 
  _expression_. **FindPropertyById**( **_ID_**)
 
- _expression_A variable that represents a  **WizardProperties** object.
+ _expression_A variable that represents a **WizardProperties** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns a  **[WizardProperty](wizardproperty-object-publisher.md)** object, base
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ID|Required| **Long**|The ID of the the wizard property to return; corresponds to the  **[ID](wizardproperty-id-property-publisher.md)** property of the **WizardProperty** object.|
+|ID|Required| **Long**|The ID of the the wizard property to return; corresponds to the **[ID](wizardproperty-id-property-publisher.md)** property of the **WizardProperty** object.|
 
 ### Return Value
 

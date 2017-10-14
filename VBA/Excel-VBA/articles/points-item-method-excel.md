@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Point](point-object-excel.md)** object contained by the collection.
+A **[Point](point-object-excel.md)** object contained by the collection.
 
 
 ## Example

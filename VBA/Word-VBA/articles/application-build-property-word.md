@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Build Property (Word)
 
-Returns the version and build number of the Word application. Read-only  **String** .
+Returns the version and build number of the Word application. Read-only **String** .
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskDependency.Type Property (Project)
 
-Gets or sets the link type of the task dependency. Read/write  **PjTaskLinkType**.
+Gets or sets the link type of the task dependency. Read/write **PjTaskLinkType**.
 
 
 ## Syntax
@@ -24,6 +24,6 @@ Gets or sets the link type of the task dependency. Read/write  **PjTaskLinkType*
 
 The task link types are sometimes abbreviated as FF (finish to finish), FS (finish to start), SF (start to finish), and SS (start to start).
 
-The  **Type** property can be one of the following **[PjTaskLinkType](pjtasklinktype-enumeration-project.md)** constants: **pjFinishToFinish**, **pjFinishToStart**, **pjStartToFinish**, or **pjStartToStart**.
+The **Type** property can be one of the following **[PjTaskLinkType](pjtasklinktype-enumeration-project.md)** constants: **pjFinishToFinish**, **pjFinishToStart**, **pjStartToFinish**, or **pjStartToStart**.
 
 

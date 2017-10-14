@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOFilters.Item Method (Office)
 
-Represents a  **ODSOFilter** object in the **ODSOFilters** collection.
+Represents a **ODSOFilter** object in the **ODSOFilters** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Object
 
 ## Example
 
-The following example retrieves an  **ODSOFilter** object from the **ODSOFilters** collection.
+The following example retrieves an **ODSOFilter** object from the **ODSOFilters** collection.
 
 
 ```

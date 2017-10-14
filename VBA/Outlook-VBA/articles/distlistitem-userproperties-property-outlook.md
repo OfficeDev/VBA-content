@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.UserProperties Property (Outlook)
 
-Returns the  **[UserProperties](userproperties-object-outlook.md)** collection that represents all the user properties for the Outlook item. Read-only.
+Returns the **[UserProperties](userproperties-object-outlook.md)** collection that represents all the user properties for the Outlook item. Read-only.
 
 
 ## Syntax

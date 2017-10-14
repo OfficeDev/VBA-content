@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisConnectedShapesFlags Enumeration (Visio)
 
-Specifies constants that identify shapes by the directionality of their connectors; passed to the  **[Shape.ConnectedShapes](shape-connectedshapes-method-visio.md)** method.
+Specifies constants that identify shapes by the directionality of their connectors; passed to the **[Shape.ConnectedShapes](shape-connectedshapes-method-visio.md)** method.
 
 
  **Note**  Connection points that have dual directionality (both inward and outward) are identified as either incoming or outgoing based on how they are used in a particular connection.

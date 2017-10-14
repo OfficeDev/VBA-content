@@ -34,7 +34,7 @@ Sends a Windows message and its associated parameters to the specified task.
 
 ## Example
 
-If Notepad is running, this example displays the  **About** dialog box (in Notepad) by sending a WM_COMMAND message to Notepad. The **SendWindowMessage** method is used to send the WM_COMMAND message (111 is the hexidecimal value for WM_COMMAND), with the parameters 11 and 0. The Spy tool was used to determine the **wParam** and **lParam** values.
+If Notepad is running, this example displays the **About** dialog box (in Notepad) by sending a WM_COMMAND message to Notepad. The **SendWindowMessage** method is used to send the WM_COMMAND message (111 is the hexidecimal value for WM_COMMAND), with the parameters 11 and 0. The Spy tool was used to determine the **wParam** and **lParam** values.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.CurrentView Property (Outlook)
 
-Returns a  **[View](view-object-outlook.md)** object representing the current view. Read-only.
+Returns a **[View](view-object-outlook.md)** object representing the current view. Read-only.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns a  **[View](view-object-outlook.md)** object representing the current vi
 
 ## Remarks
 
-To obtain a  **View** object for the view of the current **[Explorer](explorer-object-outlook.md)** , use **[Explorer.CurrentView](explorer-currentview-property-outlook.md)** instead of the **CurrentView** property of the current **[Folder](folder-object-outlook.md)** object returned by **[Explorer.CurrentFolder](explorer-currentfolder-property-outlook.md)** .
+To obtain a **View** object for the view of the current **[Explorer](explorer-object-outlook.md)** , use **[Explorer.CurrentView](explorer-currentview-property-outlook.md)** instead of the **CurrentView** property of the current **[Folder](folder-object-outlook.md)** object returned by **[Explorer.CurrentFolder](explorer-currentfolder-property-outlook.md)** .
 
-You must save a reference to the  **View** object returned by **CurrentView** before you proceed to use it for any purpose.
+You must save a reference to the **View** object returned by **CurrentView** before you proceed to use it for any purpose.
 
-To properly reset the current view, you must do a  **[View.Reset](view-reset-method-outlook.md)** and then a **[View.Apply](view-apply-method-outlook.md)** . The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a **[View.Reset](view-reset-method-outlook.md)** and then a **[View.Apply](view-apply-method-outlook.md)** . The code sample below illustrates the order of the calls:
 
 
 

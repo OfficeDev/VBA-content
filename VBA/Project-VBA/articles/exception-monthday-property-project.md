@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.MonthDay Property (Project)
 
-Gets or sets the day of the month for a monthly type of exception. Read/write  **Long**.
+Gets or sets the day of the month for a monthly type of exception. Read/write **Long**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the day of the month for a monthly type of exception. Read/write  *
 
 ## Remarks
 
-The default value of  **MonthDay** is 1.
+The default value of **MonthDay** is 1.
 
 
 ## See also

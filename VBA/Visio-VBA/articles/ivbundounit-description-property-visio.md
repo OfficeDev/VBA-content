@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IVBUndoUnit.Description Property (Visio)
 
-Gets the description of an  **IVBUndoUnit** interface. Read-only.
+Gets the description of an **IVBUndoUnit** interface. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-The  **Description** property of the **IVBUndoUnit** interface is read-only. It returns a string that describes the undo unit and appears in the **Undo** list on the **Quick Access** toolbar. For more information about the **Description** property as it applies to the **IVBUndoUnit** interface, search for "creating undo units" on MSDN, the Microsoft Developer Network.
+The **Description** property of the **IVBUndoUnit** interface is read-only. It returns a string that describes the undo unit and appears in the **Undo** list on the **Quick Access** toolbar. For more information about the **Description** property as it applies to the **IVBUndoUnit** interface, search for "creating undo units" on MSDN, the Microsoft Developer Network.
 
 

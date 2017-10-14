@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultTrayID Property (Word)
 
-Returns or sets the default tray your printer uses to print documents. Read/write  **WdPaperTray** .
+Returns or sets the default tray your printer uses to print documents. Read/write **WdPaperTray** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the default tray your printer uses to print documents. Read/writ
 
 ## Remarks
 
-You can use the  **DefaultTray**property with a string from the  **Default tray** box on the **Print** tab in the **Options** dialog box to set this same option.
+You can use the **DefaultTray**property with a string from the **Default tray** box on the **Print** tab in the **Options** dialog box to set this same option.
 
 
 ## Example
@@ -38,7 +38,7 @@ Options.DefaultTrayID = wdPrinterUpperBin
 ActiveDocument.PrintOut
 ```
 
-This example returns the current setting of the  **Default** tray option on the **Print** tab in the **Options** dialog box.
+This example returns the current setting of the **Default** tray option on the **Print** tab in the **Options** dialog box.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Designs.Item Method (PowerPoint)
 
-Returns a single  **Design** object from the specified **Designs** collection.
+Returns a single **Design** object from the specified **Designs** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Design** object from the specified **Designs** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Design** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Design** object in the collection to be returned.|
 
 ### Return Value
 

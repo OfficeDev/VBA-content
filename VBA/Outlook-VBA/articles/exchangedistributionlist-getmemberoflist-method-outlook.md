@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.GetMemberOfList Method (Outlook)
 
-Returns an  **[AddressEntries](addressentries-object-outlook.md)** collection object that contains all the **[AddressEntry](addressentry-object-outlook.md)** objects representing Exchange Distribution Lists of which the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** is a member.
+Returns an **[AddressEntries](addressentries-object-outlook.md)** collection object that contains all the **[AddressEntry](addressentry-object-outlook.md)** objects representing Exchange Distribution Lists of which the **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)** is a member.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AddressEntries](addressentries-object-outlook.md)** collection ob
 
 ### Return Value
 
-An  **AddressEntries** collection object that represents the distribution lists of which this **ExchangeDistributionList** object is a member. Returns an **AddressEntries** object with a count of zero (0) if the **ExchangeDistributionList** is not a member of any Exchange distribution list.
+An **AddressEntries** collection object that represents the distribution lists of which this **ExchangeDistributionList** object is a member. Returns an **AddressEntries** object with a count of zero (0) if the **ExchangeDistributionList** is not a member of any Exchange distribution list.
 
 
 ## Remarks

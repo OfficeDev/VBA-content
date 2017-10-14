@@ -29,7 +29,7 @@ Selects or clears the selection of an object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SheetObject_|Required| **[IVSHAPE]**|An expression that returns a  **Shape** object to select or clear.|
+| _SheetObject_|Required| **[IVSHAPE]**|An expression that returns a **Shape** object to select or clear.|
 | _SelectAction_|Required| **Integer**|The type of selection action to take.|
 
 ### Return Value
@@ -39,9 +39,9 @@ Nothing
 
 ## Remarks
 
-When used with the  **Window** object, the **Select** method will affect the selection in the Microsoft Visio window. The **Selection** object, however, is independent of the selection in the window. Therefore, using the **Select** method with a **Selection** object only affects the state of the object in memory; the Visio window is unaffected.
+When used with the **Window** object, the **Select** method will affect the selection in the Microsoft Visio window. The **Selection** object, however, is independent of the selection in the window. Therefore, using the **Select** method with a **Selection** object only affects the state of the object in memory; the Visio window is unaffected.
 
-The following constants declared by the Visio type library in  **VisSelectArgs** show valid values for selection types.
+The following constants declared by the Visio type library in **VisSelectArgs** show valid values for selection types.
 
 
 
@@ -54,11 +54,11 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 | **visDeselectAll**|256|Cancels the selection of a shape and all its peers.|
 If  _SelectAction_ is **visSubSelect** , the parent shape of _SheetObject_ must already be selected.
 
-You can combine  **visDeselectAll** with **visSelect** and **visSubSelect** to cancel the selection of all shapes prior to selecting or subselecting other shapes.
+You can combine **visDeselectAll** with **visSelect** and **visSubSelect** to cancel the selection of all shapes prior to selecting or subselecting other shapes.
 
-If the object being operated on is a  **Selection** object, and if the **Select** method selects a **Shape** object whose **ContainingShape** property is different from the **ContainingShape** property of the **Selection** object, the **Select** method clears everything, even if the selection type value does not specify canceling the selection.
+If the object being operated on is a **Selection** object, and if the **Select** method selects a **Shape** object whose **ContainingShape** property is different from the **ContainingShape** property of the **Selection** object, the **Select** method clears everything, even if the selection type value does not specify canceling the selection.
 
-If the object being operated on is a  **Window** object, and if _SelectAction_ is not **visSubSelect** , the parent shape of _SheetObject_ must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
+If the object being operated on is a **Window** object, and if _SelectAction_ is not **visSubSelect** , the parent shape of _SheetObject_ must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
 
 
 ## Example

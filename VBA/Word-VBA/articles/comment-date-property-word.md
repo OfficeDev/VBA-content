@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Date Property (Word)
 
-Returns a  **Date** that represents the date and time that a comment was inserted. Read-only.
+Returns a **Date** that represents the date and time that a comment was inserted. Read-only.
 
 
 ## Syntax

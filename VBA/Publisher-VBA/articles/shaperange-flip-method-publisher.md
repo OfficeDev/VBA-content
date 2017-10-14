@@ -20,7 +20,7 @@ Flips the specified shape around its horizontal or vertical axis, or flips all t
 
  _expression_. **Flip**( **_FlipCmd_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Flips the specified shape around its horizontal or vertical axis, or flips all t
 
 ## Remarks
 
-The FlipCmd parameter can be one of the following  **MsoFlipCmd** constants declared in the Microsoft Office type library.
+The FlipCmd parameter can be one of the following **MsoFlipCmd** constants declared in the Microsoft Office type library.
 
 
 

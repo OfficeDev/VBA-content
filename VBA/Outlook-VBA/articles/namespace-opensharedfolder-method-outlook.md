@@ -36,7 +36,7 @@ Opens a shared folder referenced through a URL or file name.
 
 ### Return Value
 
-A  **[Folder](folder-object-outlook.md)** object that represents the shared folder.
+A **[Folder](folder-object-outlook.md)** object that represents the shared folder.
 
 
 ## Remarks
@@ -57,9 +57,9 @@ This method is used to access the following shared folder types:
 - Outlook message (.msg) files
     
 
- **Note**  This method does not support iCalendar appointment (.ics) files. To open iCalendar appointment files, you can use the  **[OpenSharedItem](namespace-openshareditem-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object.
+ **Note**  This method does not support iCalendar appointment (.ics) files. To open iCalendar appointment files, you can use the **[OpenSharedItem](namespace-openshareditem-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object.
 
-You can use the  **[GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** method of the **Namespace** object to share default folders, such as the Inbox folder, in Exchange.
+You can use the **[GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** method of the **Namespace** object to share default folders, such as the Inbox folder, in Exchange.
 
 
 ## Example

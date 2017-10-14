@@ -40,18 +40,18 @@ Nothing
 
 ## Remarks
 
-To simply paste the contents of the Clipboard into an object, use the  **Paste** method.
+To simply paste the contents of the Clipboard into an object, use the **Paste** method.
 
 The value of the  _Format_ argument can be any of the following:
 
 
 
 
-- A value from  **VisPasteSpecialCodes** (see the following table).
+- A value from **VisPasteSpecialCodes** (see the following table).
     
 - Any of the standard Clipboard formats, for example, CF_TEXT. For details, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network Web site.
     
-- Any value returned from a call to the  **RegisterClipboardFormat** function. For details, see the Microsoft Platform SDK on MSDN.
+- Any value returned from a call to the **RegisterClipboardFormat** function. For details, see the Microsoft Platform SDK on MSDN.
     
 
 

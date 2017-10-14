@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UserInitials Property (Word)
 
-Returns or sets the user's initials, which Microsoft Word uses to construct comment marks. Read/write  **String** .
+Returns or sets the user's initials, which Microsoft Word uses to construct comment marks. Read/write **String** .
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This example sets the user's initials.
 Application.UserInitials = "baa"
 ```
 
-This example returns the letters found in the  **Initials** box on the **User Information** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the letters found in the **Initials** box on the **User Information** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

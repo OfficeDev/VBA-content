@@ -34,7 +34,7 @@ Adds custom property information.
 
 ### Return Value
 
-A  **[CustomProperty](customproperty-object-excel.md)** object that represents the custom property information.
+A **[CustomProperty](customproperty-object-excel.md)** object that represents the custom property information.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # DropCap.Size Property (Publisher)
 
-Returns or sets a  **Long** that represents the number of lines high to format a dropped capital letter. Read/write.
+Returns or sets a **Long** that represents the number of lines high to format a dropped capital letter. Read/write.
 
 
 ## Syntax
 
  _expression_. **Size**
 
- _expression_A variable that represents a  **DropCap** object.
+ _expression_A variable that represents a **DropCap** object.
 
 
 ## Example

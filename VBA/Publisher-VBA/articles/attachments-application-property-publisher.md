@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Attachments.Application Property (Publisher)
 
-Returns an  **Application** object that represents the creator of the parent **Attachments** collection. Read-only.
+Returns an **Application** object that represents the creator of the parent **Attachments** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_A variable that represents an  **Attachments** collection.
+ _expression_A variable that represents an **Attachments** collection.
 
 
 ### Return Value

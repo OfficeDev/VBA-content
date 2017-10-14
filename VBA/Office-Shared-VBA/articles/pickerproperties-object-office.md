@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # PickerProperties Object (Office)
 
-A collection of  **PickerProperty** objects.
+A collection of **PickerProperty** objects.
 
 
 ## Remarks
 
-Each  **PickerProperty** object is a Name(ID)/Value pair for passing option values to a PickerDialog object. You can get a **PickerProperties** collection object through the **Properties** property of **PickerDialog** object.
+Each **PickerProperty** object is a Name(ID)/Value pair for passing option values to a PickerDialog object. You can get a **PickerProperties** collection object through the **Properties** property of **PickerDialog** object.
 
 
 ## Example

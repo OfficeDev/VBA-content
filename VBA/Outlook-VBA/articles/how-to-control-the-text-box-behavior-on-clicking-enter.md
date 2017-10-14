@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # How to: Control the Text Box' Behavior on Clicking Enter
 
-The following example uses the  **[EnterKeyBehavior](textbox-enterkeybehavior-property-outlook-forms-script.md)** property to control the effect of ENTER in a **[TextBox](textbox-object-outlook-forms-script.md)**. In this example, the user can specify either a single-line or multiline  **TextBox**.
+The following example uses the **[EnterKeyBehavior](textbox-enterkeybehavior-property-outlook-forms-script.md)** property to control the effect of ENTER in a **[TextBox](textbox-object-outlook-forms-script.md)**. In this example, the user can specify either a single-line or multiline **TextBox**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Two  **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 and ToggleButton2.
+- Two **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 and ToggleButton2.
     
 
 

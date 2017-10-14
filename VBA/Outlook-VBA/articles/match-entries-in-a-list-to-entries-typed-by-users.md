@@ -10,9 +10,9 @@ ms.date: 06/08/2017
 
 1. In the Form Designer, drag the  [ListBox](listbox-object-outlook-forms-script.md) or [ComboBox](combobox-object-outlook-forms-script.md) control from the [Control Toolbox](show-or-hide-the-control-toolbox.md) to the form.
     
-2. Right-click the list box or combo box, and then click  **Advanced Properties**. 
+2. Right-click the list box or combo box, and then click **Advanced Properties**. 
     
-3. To set the  **MatchEntry** property, click the property, specify a value in the **Properties** box, and then click **Apply**.
+3. To set the **MatchEntry** property, click the property, specify a value in the **Properties** box, and then click **Apply**.
     
     For more information about the property for the specific control, see the following:
     

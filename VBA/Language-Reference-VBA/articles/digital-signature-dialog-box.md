@@ -34,11 +34,11 @@ Removes the current certificate from the project.
 
  **Choose**
 
-Displays the  **Select Certificate** dialog box, from which you can select a certificate.
+Displays the **Select Certificate** dialog box, from which you can select a certificate.
 
  **OK**
 
-Assigns the selected certificate to the project and closes the  **Digital Signature** dialog box.
+Assigns the selected certificate to the project and closes the **Digital Signature** dialog box.
 
  **Cancel**
 

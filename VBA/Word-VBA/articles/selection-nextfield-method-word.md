@@ -30,7 +30,7 @@ Field
 
 ## Remarks
 
-If this method finds a field, it returns a  **Field** object; if not, it returns **Nothing** .
+If this method finds a field, it returns a **Field** object; if not, it returns **Nothing** .
 
 
 ## Example

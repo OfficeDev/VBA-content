@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOColumns.Item Method (Office)
 
-Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
+Specifies an **ODSOColumn** object in the **ODSOColumns** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Object
 
 ## Example
 
-The following example retrieves an  **ODSOColumn** object from the **ODSOColumns** collection.
+The following example retrieves an **ODSOColumn** object from the **ODSOColumns** collection.
 
 
 ```

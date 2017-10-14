@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.MoveTo Method (PowerPoint)
 
-Moves the specified  **[CustomLayout](customlayout-object-powerpoint.md)** object to a different position in the **[CustomLayouts](customlayouts-object-powerpoint.md)** collection.
+Moves the specified **[CustomLayout](customlayout-object-powerpoint.md)** object to a different position in the **[CustomLayouts](customlayouts-object-powerpoint.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Moves the specified  **[CustomLayout](customlayout-object-powerpoint.md)** objec
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _toPos_|Required|**Long**|The index position in the  **CustomLayouts** collection to which the **CustomLayout** object will be moved.|
+| _toPos_|Required|**Long**|The index position in the **CustomLayouts** collection to which the **CustomLayout** object will be moved.|
 
 ## See also
 

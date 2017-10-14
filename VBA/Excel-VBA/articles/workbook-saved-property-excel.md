@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If a workbook has never been saved, its  **[Path](workbook-path-property-excel.md)** property returns an empty string ("").
+If a workbook has never been saved, its **[Path](workbook-path-property-excel.md)** property returns an empty string ("").
 
-You can set this property to  **True** if you want to close a modified workbook without either saving it or being prompted to save it.
+You can set this property to **True** if you want to close a modified workbook without either saving it or being prompted to save it.
 
 
 ## Example

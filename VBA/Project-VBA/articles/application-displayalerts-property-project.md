@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **DisplayAlerts** property is reset to **True** upon completion of a macro that sets it to **False**.
+The **DisplayAlerts** property is reset to **True** upon completion of a macro that sets it to **False**.
 
 

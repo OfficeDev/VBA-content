@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerResults.Item Property (Office)
 
-Retrieves a  **PickerResult** object at the specified index. Read-only
+Retrieves a **PickerResult** object at the specified index. Read-only
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Retrieves a  **PickerResult** object at the specified index. Read-only
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|Specifies an integer representing the indexed location of the  **PickerResult** object.|
+| _Index_|Required|**Integer**|Specifies an integer representing the indexed location of the **PickerResult** object.|
 
 ## Example
 

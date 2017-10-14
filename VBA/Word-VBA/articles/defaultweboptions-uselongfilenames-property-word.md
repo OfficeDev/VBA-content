@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If you don't use long file names and your document has supporting files, Microsoft Word automatically organizes those files in a separate folder. Otherwise, use the  **OrganizeInFolder** property to determine whether supporting files are organized in a separate folder.
+If you don't use long file names and your document has supporting files, Microsoft Word automatically organizes those files in a separate folder. Otherwise, use the **OrganizeInFolder** property to determine whether supporting files are organized in a separate folder.
 
 
 ## Example

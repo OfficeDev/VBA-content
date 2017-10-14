@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.SetListType Method (Publisher)
 
-Sets the list type of the specified  **ParagraphFormat** object. .
+Sets the list type of the specified **ParagraphFormat** object. .
 
 
 ## Syntax
 
- _expression_. **SetListType**( **_Value_**,  **_BulletText_**)
+ _expression_. **SetListType**( **_Value_**, **_BulletText_**)
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Parameters
@@ -29,18 +29,18 @@ Sets the list type of the specified  **ParagraphFormat** object. .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **PbListType**|Represents the list type of the specified  **ParagraphFormat** object.|
+|Value|Required| **PbListType**|Represents the list type of the specified **ParagraphFormat** object.|
 |BulletText|Optional| **String**| **String** that represents the text of the list bullet.|
 
 ## Remarks
 
-If Value is a bulleted list and the BulletText parameter is missing, the first bullet from the  **Bullets and Numbering** dialog box is used.
+If Value is a bulleted list and the BulletText parameter is missing, the first bullet from the **Bullets and Numbering** dialog box is used.
 
 BulletText is limited to one character. 
 
-A run-time error occurs if the BulletText parameter is provided and the Value parameter is not set to  **pbListTypeBullet**.
+A run-time error occurs if the BulletText parameter is provided and the Value parameter is not set to **pbListTypeBullet**.
 
-The Value parameter can be one of the  **PbListType** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Value parameter can be one of the **PbListType** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 
@@ -107,7 +107,7 @@ The Value parameter can be one of the  **PbListType** constants declared in the 
 
 ## Example
 
-This example tests to see if the list type is a numbered list, specifically  **pbListTypeArabic**. If the  **ListType** property is set to **pbListTypeArabic**, the  **ListSeparator** is set to **pbListSeparatorParenthesis**. Otherwise the  **SetListType** method is called and passed **pbListTypeArabic** as the Value parameter and then the **ListNumberSeparator** property can be set.
+This example tests to see if the list type is a numbered list, specifically **pbListTypeArabic**. If the **ListType** property is set to **pbListTypeArabic**, the **ListSeparator** is set to **pbListSeparatorParenthesis**. Otherwise the **SetListType** method is called and passed **pbListTypeArabic** as the Value parameter and then the **ListNumberSeparator** property can be set.
 
 
 ```vb
@@ -127,7 +127,7 @@ End With
 
 ```
 
-This example demonstrates how an organized document structure containing named text frames with lists can be configured. This example assumes that the publication has a naming convention for  **TextFrame** objects containing lists that use the word "list" as a prefix. This example uses nested collection iterations to access each of the **TextFrame** objects in each **Shapes** collection of each **Page**. The  **ParagraphFormat** object of each **TextFrame** name with the prefix "list" has the **ListType** and **ListBulletFontSize** set.
+This example demonstrates how an organized document structure containing named text frames with lists can be configured. This example assumes that the publication has a naming convention for **TextFrame** objects containing lists that use the word "list" as a prefix. This example uses nested collection iterations to access each of the **TextFrame** objects in each **Shapes** collection of each **Page**. The **ParagraphFormat** object of each **TextFrame** name with the prefix "list" has the **ListType** and **ListBulletFontSize** set.
 
 
 

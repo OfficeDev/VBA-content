@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Work Property (Project)
 
-Gets the work (in minutes) for the resource. Read-only  **Variant**.
+Gets the work (in minutes) for the resource. Read-only **Variant**.
 
 
 ## Syntax

@@ -30,13 +30,13 @@ Formats the text of calendar views for printing.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the calendar to edit.|
-| _Item_|Optional|**Long**|The text item to format. Can be one of the  **[PjPageSetupCalendarItem](pjpagesetupcalendaritem-enumeration-project.md)** constants.|
+| _Item_|Optional|**Long**|The text item to format. Can be one of the **[PjPageSetupCalendarItem](pjpagesetupcalendaritem-enumeration-project.md)** constants.|
 | _Font_|Optional|**String**|The name of the font.|
 | _Size_|Optional|**Integer**|The size of the font in points|
 | _Bold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _Italic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _Color_|Optional|**Long**|The color of the text. Can be one of the  **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _Color_|Optional|**Long**|The color of the text. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
 
 ### Return Value
 
@@ -45,10 +45,10 @@ Formats the text of calendar views for printing.
 
 ## Remarks
 
-Using the  **FilePageSetupCalendarText** method without any arguments displays the **Text Styles** dialog box.
+Using the **FilePageSetupCalendarText** method without any arguments displays the **Text Styles** dialog box.
 
 
- **Note**   **FilePageSetupCalendarText** works only for printing calendar views.
+ **Note**  **FilePageSetupCalendarText** works only for printing calendar views.
 
 To format calendar text where  _Color_ can be a hexadecimal RGB value, use the **[FilePageSetupCalendarTextEx](application-filepagesetupcalendartextex-method-project.md)** method.
 

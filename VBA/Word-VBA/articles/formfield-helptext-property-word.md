@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.HelpText Property (Word)
 
-Returns or sets the text that's displayed in a message box when the form field has the focus and the user presses F1. Read/write  **String** .
+Returns or sets the text that's displayed in a message box when the form field has the focus and the user presses F1. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text that's displayed in a message box when the form field h
 
 ## Remarks
 
-If the  **[OwnHelp](formfield-ownhelp-property-word.md)** property is set to **True** , **HelpText** specifies the text string value. If **OwnHelp** is set to **False** , **HelpText** specifies the name of an AutoText entry that contains help text for the form field.
+If the **[OwnHelp](formfield-ownhelp-property-word.md)** property is set to **True** , **HelpText** specifies the text string value. If **OwnHelp** is set to **False** , **HelpText** specifies the name of an AutoText entry that contains help text for the form field.
 
 
 ## Example

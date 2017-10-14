@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddPicture Method (Publisher)
 
-Adds a new  **Shape** object representing a picture to the specified **Shapes** collection.
+Adds a new **Shape** object representing a picture to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddPicture**( **_Filename_**,  **_LinkToFile_**,  **_SaveWithDocument_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+ _expression_. **AddPicture**( **_Filename_**, **_LinkToFile_**, **_SaveWithDocument_**, **_Left_**, **_Top_**, **_Width_**, **_Height_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -44,13 +44,13 @@ Shape
 
 ## Remarks
 
-If the SaveWithDocument argument is  **msoTrue**, Microsoft Publisher saves a new copy of the picture file specified by the FileName argument in the same directory as the publication.
+If the SaveWithDocument argument is **msoTrue**, Microsoft Publisher saves a new copy of the picture file specified by the FileName argument in the same directory as the publication.
 
-The LinkToFile and SaveWithDocument arguments cannot have the same value, or else an error occurs. If either argument is  **msoTrue**, the other must be  **msoFalse**.
+The LinkToFile and SaveWithDocument arguments cannot have the same value, or else an error occurs. If either argument is **msoTrue**, the other must be **msoFalse**.
 
 For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in").
 
-The LinkToFile parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The LinkToFile parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

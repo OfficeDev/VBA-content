@@ -22,7 +22,7 @@ Deprecated in Project.
 
 ## Remarks
 
-In Project, the  **ReportList** property returns **Nothing**. In Project, the  **ReportList** property gets a **[List](list-object-project.md)** object representing the reports in the active project.
+In Project, the **ReportList** property returns **Nothing**. In Project, the **ReportList** property gets a **[List](list-object-project.md)** object representing the reports in the active project.
 
 
 ## Example

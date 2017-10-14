@@ -20,14 +20,14 @@ Deletes the specified object and places it on the Clipboard.
 
  _expression_. **Cut**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-Use the  **Paste**method to paste the contents of the Clipboard.
+Use the **Paste**method to paste the contents of the Clipboard.
 
-The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+The **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
 
 
 ## Example

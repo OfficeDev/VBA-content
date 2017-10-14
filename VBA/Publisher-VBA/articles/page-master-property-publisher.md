@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.Master Property (Publisher)
 
-Sets or returns a  **[Page](page-object-publisher.md)** object that represents the master page properties for the specified page.
+Sets or returns a **[Page](page-object-publisher.md)** object that represents the master page properties for the specified page.
 
 
 ## Syntax
 
  _expression_. **Master**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Page
 
 ## Remarks
 
-Master pages do not have a  **Master** property. Any attempt to access the **Master** property of a master page will result in a run-time error.
+Master pages do not have a **Master** property. Any attempt to access the **Master** property of a master page will result in a run-time error.
 
 
 ## Example
@@ -49,7 +49,7 @@ Sub AddNewMasterPageShape()
 End Sub
 ```
 
-The  **Master** property can also be used to apply a master page to a page in a publication. The following example sets the master page of the first page of a publication to the master page of the second page in the publication. This example assumes that there are at least two pages and two master pages in the document.
+The **Master** property can also be used to apply a master page to a page in a publication. The following example sets the master page of the first page of a publication to the master page of the second page in the publication. This example assumes that there are at least two pages and two master pages in the document.
 
 
 

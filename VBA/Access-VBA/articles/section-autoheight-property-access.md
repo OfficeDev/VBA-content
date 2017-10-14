@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.AutoHeight Property (Access)
 
-Gets or sets whether a section's height is adjusted automatically when controls are resized. Read/write  **Boolean**.
+Gets or sets whether a section's height is adjusted automatically when controls are resized. Read/write **Boolean**.
 
 
 ## Syntax

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 In Microsoft Access database engine databases, this error occurs if you do not select a table name when you create a query. Select at least one table or query.
 
-In ODBCDirect databases, this error occurs if you attempt to execute a query that does not contain an SQL statement. Include at least one query or stored procedure call in the  **QueryDef** object's **SQL** property.
+In ODBCDirect databases, this error occurs if you attempt to execute a query that does not contain an SQL statement. Include at least one query or stored procedure call in the **QueryDef** object's **SQL** property.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

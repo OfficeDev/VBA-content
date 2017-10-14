@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrect Object (Word)
 
-Represents the math AutoCorrect feature in Microsoft Word. To access the math AutoCorrect entries, use the  **[OMathAutoCorrectEntries](omathautocorrectentries-object-word.md)** collection.
+Represents the math AutoCorrect feature in Microsoft Word. To access the math AutoCorrect entries, use the **[OMathAutoCorrectEntries](omathautocorrectentries-object-word.md)** collection.
 
 
 ## See also

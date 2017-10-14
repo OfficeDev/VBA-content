@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reminders.Snooze Event (Outlook)
 
-Occurs when a reminder is dismissed using the  **Snooze** button.
+Occurs when a reminder is dismissed using the **Snooze** button.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Occurs when a reminder is dismissed using the  **Snooze** button.
 
 ## Remarks
 
-This event will fire when the  **[Snooze](reminder-snooze-method-outlook.md)** method is executed, or when the user clicks the **Snooze** button.
+This event will fire when the **[Snooze](reminder-snooze-method-outlook.md)** method is executed, or when the user clicks the **Snooze** button.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the original date and time set for the  **Reminder** object that has been snoozed.
+The following Microsoft Visual Basic for Applications (VBA) example displays the original date and time set for the **Reminder** object that has been snoozed.
 
 
 ```vb

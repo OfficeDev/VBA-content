@@ -18,7 +18,7 @@ Provides the primary entry point to the co authoring object model.
 
 ## Remarks
 
-The  **CoAuthoring** object provides information about co authoring at the document level. For example, the **CoAuthoring** object can provide information about whether there are any locks in the document, which users have current locks in the document, or whether or not updates to the document content is available from the server. Use the **[CoAuthoring](document-coauthoring-property-word.md)** property to return the **CoAuthoring** object.
+The **CoAuthoring** object provides information about co authoring at the document level. For example, the **CoAuthoring** object can provide information about whether there are any locks in the document, which users have current locks in the document, or whether or not updates to the document content is available from the server. Use the **[CoAuthoring](document-coauthoring-property-word.md)** property to return the **CoAuthoring** object.
 
 
 ## Example

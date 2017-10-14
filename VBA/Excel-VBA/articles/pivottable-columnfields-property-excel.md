@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ColumnFields Property (Excel)
 
-Returns an object that represents either a single PivotTable field (a  **[PivotField](pivotfield-object-excel.md)** object) or a collection of all the fields (a **[PivotFields](pivotfields-object-excel.md)** object) that are currently shown as column fields. Read-only.
+Returns an object that represents either a single PivotTable field (a **[PivotField](pivotfield-object-excel.md)** object) or a collection of all the fields (a **[PivotFields](pivotfields-object-excel.md)** object) that are currently shown as column fields. Read-only.
 
 
 ## Syntax

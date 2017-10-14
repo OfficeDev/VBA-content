@@ -15,7 +15,7 @@ Contains a collection of adjustment values for the specified AutoShape or WordAr
 
 ## Remarks
 
-Use the  **Adjustments** property to return an **Adjustments** object. Use **Adjustments** (index), where index is the adjustment value's index number, to return a single adjustment value.
+Use the **Adjustments** property to return an **Adjustments** object. Use **Adjustments** (index), where index is the adjustment value's index number, to return a single adjustment value.
 
 Different shapes have different numbers of adjustment values, different kinds of adjustments change the geometry of a shape in different ways, and different kinds of adjustments have different ranges of valid values.
 

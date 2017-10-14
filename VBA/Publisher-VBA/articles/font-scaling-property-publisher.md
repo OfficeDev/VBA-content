@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.Scaling Property (Publisher)
 
-Returns or sets a  **Variant** value used to scale the width of the characters in the text range as a percentage of the current font size. Read/write.
+Returns or sets a **Variant** value used to scale the width of the characters in the text range as a percentage of the current font size. Read/write.
 
 
 ## Syntax
 
  _expression_. **Scaling**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value

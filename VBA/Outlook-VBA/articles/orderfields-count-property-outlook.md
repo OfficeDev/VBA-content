@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OrderFields.Count Property (Outlook)
 
-Returns a  **Long** value indicating the count of **[OrderField](orderfield-object-outlook.md)** objects in the specified collection. Read-only.
+Returns a **Long** value indicating the count of **[OrderField](orderfield-object-outlook.md)** objects in the specified collection. Read-only.
 
 
 ## Syntax

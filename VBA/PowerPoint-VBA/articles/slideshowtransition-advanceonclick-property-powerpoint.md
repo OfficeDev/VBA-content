@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-To set the slide to advance automatically after a certain amount of time elapses, set the  **[AdvanceOnTime](slideshowtransition-advanceontime-property-powerpoint.md)** property to **True** and set the **[AdvanceTime](slideshowtransition-advancetime-property-powerpoint.md)** property to the amount of time you want the slide to be shown. If you set both the **AdvanceOnClick** and the **AdvanceOnTime** properties to **True**, the slide advances either when it is clicked or when the specified amount of time has elapsed ? whichever comes first.
+To set the slide to advance automatically after a certain amount of time elapses, set the **[AdvanceOnTime](slideshowtransition-advanceontime-property-powerpoint.md)** property to **True** and set the **[AdvanceTime](slideshowtransition-advancetime-property-powerpoint.md)** property to the amount of time you want the slide to be shown. If you set both the **AdvanceOnClick** and the **AdvanceOnTime** properties to **True**, the slide advances either when it is clicked or when the specified amount of time has elapsed ? whichever comes first.
 
-The value of the  **AdvanceOnClick** property can be one of these **MsoTriState** constants.
+The value of the **AdvanceOnClick** property can be one of these **MsoTriState** constants.
 
 
 

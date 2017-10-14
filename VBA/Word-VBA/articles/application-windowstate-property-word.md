@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WindowState Property (Word)
 
-Returns or sets the state of the specified document window or task window. Read/write  **WdWindowState** .
+Returns or sets the state of the specified document window or task window. Read/write **WdWindowState** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the state of the specified document window or task window. Read/
 
 ## Remarks
 
-The  **wdWindowStateNormal** constant indicates a window that's not maximized or minimized. The state of an inactive window cannot be set. Use the **Activate** method to activate a window prior to setting the window state.
+The **wdWindowStateNormal** constant indicates a window that's not maximized or minimized. The state of an inactive window cannot be set. Use the **Activate** method to activate a window prior to setting the window state.
 
 
 ## See also

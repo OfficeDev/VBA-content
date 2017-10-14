@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.LanguageID Property (Office)
 
-Gets or sets the  **MsoLanguageID** value of the **TextRange2** object. Read/write.
+Gets or sets the **MsoLanguageID** value of the **TextRange2** object. Read/write.
 
 
 ## Syntax

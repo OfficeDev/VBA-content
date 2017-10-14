@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DisplayInReport Property (Excel)
 
-This property is used to specify whether the specified member property PivotField is displayed in the PivotTable or not. Read/write  **Boolean** .
+This property is used to specify whether the specified member property PivotField is displayed in the PivotTable or not. Read/write **Boolean** .
 
 
 ## Syntax

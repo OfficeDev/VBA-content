@@ -22,14 +22,14 @@ Sometimes you may want to copy a useful example from Visual Basic Help. While ma
     
 2. Click the Example link in the non-scrolling region near the top of the page. The code example is displayed.
     
-3. Right-click and select the part of the code you want to copy to your application. On the Macintosh, choose  **Copy** from the **Edit** menu; a window appears in which you can select the code to copy.
+3. Right-click and select the part of the code you want to copy to your application. On the Macintosh, choose **Copy** from the **Edit** menu; a window appears in which you can select the code to copy.
     
-4. Choose  **Copy** from the shortcut menu. On the Macintosh, press the **Copy** button.
+4. Choose **Copy** from the shortcut menu. On the Macintosh, press the **Copy** button.
     
-5. Move the focus back to the  **Code** window and position the mouse pointer where you want the code example to be inserted.
+5. Move the focus back to the **Code** window and position the mouse pointer where you want the code example to be inserted.
     
-6. Right-click again and choose  **Paste** to insert the code example into the **Code** window.
+6. Right-click again and choose **Paste** to insert the code example into the **Code** window.
     
-     **Tip**  You can also press CTRL+C to copy a selected example in a Help window. Press CTRL+V to paste the example into the  **Code** window.
+    **Tip**  You can also press CTRL+C to copy a selected example in a Help window. Press CTRL+V to paste the example into the **Code** window.
 
 

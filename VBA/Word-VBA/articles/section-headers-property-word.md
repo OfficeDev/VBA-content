@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.Headers Property (Word)
 
-Returns a  **[HeadersFooters](headersfooters-object-word.md)** collection that represents the headers for the specified section. Read-only.
+Returns a **[HeadersFooters](headersfooters-object-word.md)** collection that represents the headers for the specified section. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[HeadersFooters](headersfooters-object-word.md)** collection that r
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx). To return a  **HeadersFooters** collection that represents the footers for the specified section, use the **[Footers](section-footers-property-word.md)** property.
+For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx). To return a **HeadersFooters** collection that represents the footers for the specified section, use the **[Footers](section-footers-property-word.md)** property.
 
 
 ## Example

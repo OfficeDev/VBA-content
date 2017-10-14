@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 
 1. Right-click the tab of the Toolbox page whose name you want to change.
     
-2. From the shortcut menu, choose  **Rename**.
+2. From the shortcut menu, choose **Rename**.
     
-3. In the  **Caption** field, enter the name you want to use.
+3. In the **Caption** field, enter the name you want to use.
     
 4. Click OK.
     

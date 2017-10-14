@@ -18,12 +18,12 @@ Represents an entire frames page or a single frame on a frames page.
 
 ## Remarks
 
-Use the  **Frameset** propertyof a **Document** or **Pane** object to return a **Frameset** object.
+Use the **Frameset** propertyof a **Document** or **Pane** object to return a **Frameset** object.
 
 
 -  For properties or methods that affect all frames on a frames page, use the **Frameset** object from the **Document** object ( `ActiveWindow.Document.Frameset`).
     
-- For properties or methods that affect individual frames on a frames page, use the  **Frameset** object from the **Pane** object ( `ActiveWindow.ActivePane.Frameset`).
+- For properties or methods that affect individual frames on a frames page, use the **Frameset** object from the **Pane** object ( `ActiveWindow.ActivePane.Frameset`).
     
 This example opens a file named "Proposal.doc," creates a frames page based on the file, and adds a frame (on the left side of the page) containing a table of contents for the file.
 
@@ -46,7 +46,7 @@ ActiveDocument.ActiveWindow.ActivePane.Frameset _
  .AddNewFrame wdFramesetNewRight
 ```
 
-This example sets the name of the third child  **Frameset** object of the frames page to "BottomFrame."
+This example sets the name of the third child **Frameset** object of the frames page to "BottomFrame."
 
 
 

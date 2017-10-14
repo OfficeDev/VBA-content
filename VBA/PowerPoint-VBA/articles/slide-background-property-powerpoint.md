@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slide.Background Property (PowerPoint)
 
-Returns a  **[ShapeRange](shaperange-object-powerpoint.md)** object that represents the slide background.
+Returns a **[ShapeRange](shaperange-object-powerpoint.md)** object that represents the slide background.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ ShapeRange
 
 ## Remarks
 
-If you use the  **Background** property to set the background for an individual slide without changing the slide master, the **FollowMasterBackground** property for that slide must be set to **False**.
+If you use the **Background** property to set the background for an individual slide without changing the slide master, the **FollowMasterBackground** property for that slide must be set to **False**.
 
 
 ## Example

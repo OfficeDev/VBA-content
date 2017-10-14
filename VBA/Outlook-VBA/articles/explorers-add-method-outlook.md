@@ -29,19 +29,19 @@ Creates a new instance of the explorer window.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Folder_|Required| **Variant**|The  **Variant** object to display in the explorer window when it is created.|
-| _DisplayMode_|Optional| **Long**|The display mode of the folder. Can be one of the  **[OlFolderDisplayMode](olfolderdisplaymode-enumeration-outlook.md)** constants.|
+| _Folder_|Required| **Variant**|The **Variant** object to display in the explorer window when it is created.|
+| _DisplayMode_|Optional| **Long**|The display mode of the folder. Can be one of the **[OlFolderDisplayMode](olfolderdisplaymode-enumeration-outlook.md)** constants.|
 
 ### Return Value
 
-An  **[Explorer](explorer-object-outlook.md)** object that represents a new instance of the window.
+An **[Explorer](explorer-object-outlook.md)** object that represents a new instance of the window.
 
 
 ## Remarks
 
 The  _Folder_ argument can represent either a **[Folder](folder-object-outlook.md)** object or the URL to that folder.
 
-The explorer window is initially hidden. You must call the  **[Display](explorer-display-method-outlook.md)** method of the **Explorer** object to make it visible.
+The explorer window is initially hidden. You must call the **[Display](explorer-display-method-outlook.md)** method of the **Explorer** object to make it visible.
 
 
 ## Example

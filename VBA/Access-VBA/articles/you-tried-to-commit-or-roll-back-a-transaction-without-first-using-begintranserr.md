@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to commit or rollback a transaction that was not started with a  **BeginTrans** statement.
+You tried to commit or rollback a transaction that was not started with a **BeginTrans** statement.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

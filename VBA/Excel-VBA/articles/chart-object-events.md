@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Chart Object Events
 
-Chart events occur when the user activates or changes a chart. Events on chart sheets are enabled by default. To view the event procedures for a sheet, right-click the sheet tab and select  **View Code** from the shortcut menu. Select the event name from the **Procedure** drop-down list box.
+Chart events occur when the user activates or changes a chart. Events on chart sheets are enabled by default. To view the event procedures for a sheet, right-click the sheet tab and select **View Code** from the shortcut menu. Select the event name from the **Procedure** drop-down list box.
 
 [Activate](chart-activate-event-excel.md) | 
 [BeforeDoubleClick](chart-beforedoubleclick-event-excel.md) | 
@@ -25,7 +25,7 @@ Chart events occur when the user activates or changes a chart. Events on chart s
 [Select](chart-select-event-excel.md) | 
 [SeriesChange](chart-serieschange-event-excel.md)
 
- **Note**  To write event procedures for an embedded chart, you must create a new object using the  **WithEvents** keyword in a class module. For more information, see [Using Events with Embedded Charts](using-events-with-embedded-charts.md).
+ **Note**  To write event procedures for an embedded chart, you must create a new object using the **WithEvents** keyword in a class module. For more information, see [Using Events with Embedded Charts](using-events-with-embedded-charts.md).
 
 This example changes a point's border color when the user changes the point value.
 

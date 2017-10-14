@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Run Visio in Developer Mode
 
-- Click the  **File** tab, click **Options**, click **Advanced**, and then, under  **General**, select  **Run in developer mode**.
+- Click the **File** tab, click **Options**, click **Advanced**, and then, under **General**, select **Run in developer mode**.
     
 

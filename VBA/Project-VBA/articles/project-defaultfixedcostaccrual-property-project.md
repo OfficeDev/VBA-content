@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.DefaultFixedCostAccrual Property (Project)
 
-Gets or sets the default method used to accrue fixed task costs in the project. Read/write  **PjAccrueAt**.
+Gets or sets the default method used to accrue fixed task costs in the project. Read/write **PjAccrueAt**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the default method used to accrue fixed task costs in the project. 
 
 ## Remarks
 
-The  **DefaultFixedCostAccrual** property can be one of the following **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants: **pjStart**, **pjEnd**, or **pjProrated**.
+The **DefaultFixedCostAccrual** property can be one of the following **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants: **pjStart**, **pjEnd**, or **pjProrated**.
 
 

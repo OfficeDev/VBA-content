@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveProtectedViewWindow Property (PowerPoint)
 
-Returns a  **[ProtectedViewWindow](protectedviewwindow-object-powerpoint.md)** object that represents the active **Protected View** window (the window on top). Read-only.
+Returns a **[ProtectedViewWindow](protectedviewwindow-object-powerpoint.md)** object that represents the active **Protected View** window (the window on top). Read-only.
 
 
 ## Syntax

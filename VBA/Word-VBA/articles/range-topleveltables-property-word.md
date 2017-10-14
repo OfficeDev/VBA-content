@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.TopLevelTables Property (Word)
 
-Returns a  **Tables** collection that represents the tables at the outermost nesting level in the current range. Read-only.
+Returns a **Tables** collection that represents the tables at the outermost nesting level in the current range. Read-only.
 
 
 ## Syntax

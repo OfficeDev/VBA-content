@@ -25,7 +25,7 @@ Determines whether the specified text has a shadow. Read/write.
 
 ## Remarks
 
-The value of the  **Shadow** property can be one of these **MsoTriState** constants.
+The value of the **Shadow** property can be one of these **MsoTriState** constants.
 
 
 

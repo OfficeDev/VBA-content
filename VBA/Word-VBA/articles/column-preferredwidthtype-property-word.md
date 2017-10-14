@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.PreferredWidthType Property (Word)
 
-Returns or sets the preferred unit of measurement to use for the width of the specified table column. Read/write  **WdPreferredWidthType** .
+Returns or sets the preferred unit of measurement to use for the width of the specified table column. Read/write **WdPreferredWidthType** .
 
 
 ## Syntax

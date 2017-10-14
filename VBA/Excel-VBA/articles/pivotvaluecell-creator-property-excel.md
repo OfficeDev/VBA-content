@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PivotValueCell.Creator Property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only **Long** .
 
 
 ## Syntax
@@ -28,7 +28,7 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 ## Example
 
-The following code uses the  **Creator** property to check whether the specified object is an Excel object.
+The following code uses the **Creator** property to check whether the specified object is an Excel object.
 
 
 ```vb

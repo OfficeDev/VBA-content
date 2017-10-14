@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.Index Property (PowerPoint)
 
-Returns the index position of the specified custom layout in the  **[CustomLayouts](customlayouts-object-powerpoint.md)** collection. Read-only.
+Returns the index position of the specified custom layout in the **[CustomLayouts](customlayouts-object-powerpoint.md)** collection. Read-only.
 
 
 ## Syntax

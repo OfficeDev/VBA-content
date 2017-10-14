@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabelSpacing Property
 
-Returns or sets the number of categories or series between tick-mark labels. Applies only to category and series axes. Read/write  **Long**.
+Returns or sets the number of categories or series between tick-mark labels. Applies only to category and series axes. Read/write **Long**.
 
 
 ## Remarks

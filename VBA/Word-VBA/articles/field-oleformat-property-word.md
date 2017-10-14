@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.OLEFormat Property (Word)
 
-Returns an  **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified field. Read-only.
+Returns an **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified field. Read-only.
 
 
 ## Syntax

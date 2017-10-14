@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dialog.DefaultTab Property (Word)
 
-Returns or sets the active tab when the specified dialog box is displayed. Read/write  **WdWordDialogTab** .
+Returns or sets the active tab when the specified dialog box is displayed. Read/write **WdWordDialogTab** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the active tab when the specified dialog box is displayed. Read/
 
 ## Example
 
-This example displays the  **Page Setup** dialog box with the **Paper Source** tab selected.
+This example displays the **Page Setup** dialog box with the **Paper Source** tab selected.
 
 
 ```vb

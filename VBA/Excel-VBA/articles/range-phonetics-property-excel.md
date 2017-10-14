@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Phonetics Property (Excel)
 
-Returns the  **[Phonetics](phonetics-object-excel.md)** collection of the range. Read only.
+Returns the **[Phonetics](phonetics-object-excel.md)** collection of the range. Read only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[Phonetics](phonetics-object-excel.md)** collection of the range.
 
 ## Example
 
-This example displays all of the  **Phonetic** objects in the active cell.
+This example displays all of the **Phonetic** objects in the active cell.
 
 
 ```vb

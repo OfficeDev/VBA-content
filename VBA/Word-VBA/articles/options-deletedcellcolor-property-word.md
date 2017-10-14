@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DeletedCellColor Property (Word)
 
-Returns or sets a  **WdCellColor** constant that represents the color for a deleted cell. Read/write.
+Returns or sets a **WdCellColor** constant that represents the color for a deleted cell. Read/write.
 
 
 ## Syntax

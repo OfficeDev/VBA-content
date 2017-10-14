@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Provides the tools to modify  **Toolbar** icons.
+Provides the tools to modify **Toolbar** icons.
 
 ## Dialog Box Options
 

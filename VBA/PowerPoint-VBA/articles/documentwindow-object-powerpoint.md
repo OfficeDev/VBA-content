@@ -13,32 +13,32 @@ ms.date: 06/08/2017
 
 # DocumentWindow Object (PowerPoint)
 
-Represents a document window. The  **DocumentWindow** object is a member of the **[DocumentWindows](http://msdn.microsoft.com/library/84ed4b8c-593a-8100-d4b8-158115c4e84d%28Office.15%29.aspx)** collection. The **DocumentWindows** collection contains all the open document windows.
+Represents a document window. The **DocumentWindow** object is a member of the **[DocumentWindows](http://msdn.microsoft.com/library/84ed4b8c-593a-8100-d4b8-158115c4e84d%28Office.15%29.aspx)** collection. The **DocumentWindows** collection contains all the open document windows.
 
 
 ## Remarks
 
-Use the  **[Presentation](http://msdn.microsoft.com/library/d6f5f565-d593-e230-c3b9-2302bdd83644%28Office.15%29.aspx)** property to return the presentation that's currently running in the specified document window.
+Use the **[Presentation](http://msdn.microsoft.com/library/d6f5f565-d593-e230-c3b9-2302bdd83644%28Office.15%29.aspx)** property to return the presentation that's currently running in the specified document window.
 
-Use the  **[Selection](http://msdn.microsoft.com/library/0cd670b2-53a5-87d7-8b38-761920dd9758%28Office.15%29.aspx)** property to return the selection.
+Use the **[Selection](http://msdn.microsoft.com/library/0cd670b2-53a5-87d7-8b38-761920dd9758%28Office.15%29.aspx)** property to return the selection.
 
-Use the  **[SplitHorizontal](http://msdn.microsoft.com/library/89ec538b-d8a3-23e8-a246-35c44884a432%28Office.15%29.aspx)** property to return the percentage of the screen width that the outline pane occupies in normal view.
+Use the **[SplitHorizontal](http://msdn.microsoft.com/library/89ec538b-d8a3-23e8-a246-35c44884a432%28Office.15%29.aspx)** property to return the percentage of the screen width that the outline pane occupies in normal view.
 
-Use the  **[SplitVertical](http://msdn.microsoft.com/library/8a26332f-d00d-9816-30e1-48411db07a62%28Office.15%29.aspx)** property to return the percentage of the screen height that the slide pane occupies in normal view.
+Use the **[SplitVertical](http://msdn.microsoft.com/library/8a26332f-d00d-9816-30e1-48411db07a62%28Office.15%29.aspx)** property to return the percentage of the screen height that the slide pane occupies in normal view.
 
-Use the  **[View](http://msdn.microsoft.com/library/6488ba10-744a-eb88-df8d-bf85e2f6711d%28Office.15%29.aspx)** property to return the view in the specified document window.
+Use the **[View](http://msdn.microsoft.com/library/6488ba10-744a-eb88-df8d-bf85e2f6711d%28Office.15%29.aspx)** property to return the view in the specified document window.
 
 
 ## Example
 
-Use  **Windows** (index), where index is the document window index number, to return a single **DocumentWindow** object. The following example activates document window two.
+Use **Windows** (index), where index is the document window index number, to return a single **DocumentWindow** object. The following example activates document window two.
 
 
 ```
 Windows(2).Activate
 ```
 
-The first member of the  **DocumentWindows** collection, `Windows(1)`, always returns the active document window. Alternatively, you can use the  **[ActiveWindow](http://msdn.microsoft.com/library/762c1c6a-1f8a-f47a-7b75-006c745caee0%28Office.15%29.aspx)** property to return the active document window. The following example maximizes the active window.
+The first member of the **DocumentWindows** collection, `Windows(1)`, always returns the active document window. Alternatively, you can use the **[ActiveWindow](http://msdn.microsoft.com/library/762c1c6a-1f8a-f47a-7b75-006c745caee0%28Office.15%29.aspx)** property to return the active document window. The following example maximizes the active window.
 
 
 
@@ -47,7 +47,7 @@ The first member of the  **DocumentWindows** collection, `Windows(1)`, always re
 ActiveWindow.WindowState = ppWindowMaximized
 ```
 
-Use  **Panes** (index), where index is the pane index number, to manipulate panes within normal, slide, outline, or notes page views of the document window. The following example activates pane three, which is the notes pane.
+Use **Panes** (index), where index is the pane index number, to manipulate panes within normal, slide, outline, or notes page views of the document window. The following example activates pane three, which is the notes pane.
 
 
 
@@ -56,7 +56,7 @@ Use  **Panes** (index), where index is the pane index number, to manipulate pane
 ActiveWindow.Panes(3).Activate
 ```
 
-Use the  **[ActivePane](http://msdn.microsoft.com/library/8fa4c8a1-37b6-2676-1cfd-5fa2b130d2e3%28Office.15%29.aspx)** property to return the active pane within the document window. The following example checks to see if the active pane is the outline pane. If not, it activates the outline pane.
+Use the **[ActivePane](http://msdn.microsoft.com/library/8fa4c8a1-37b6-2676-1cfd-5fa2b130d2e3%28Office.15%29.aspx)** property to return the active pane within the document window. The following example checks to see if the active pane is the outline pane. If not, it activates the outline pane.
 
 
 

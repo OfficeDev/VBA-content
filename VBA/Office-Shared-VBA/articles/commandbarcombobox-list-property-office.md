@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.List Property (Office)
 
-Gets or sets an item in the  **CommandBarComboBox** control. Read/write.
+Gets or sets an item in the **CommandBarComboBox** control. Read/write.
 
 
 ## 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CreateLetterContent Method (Word)
 
-Creates and returns a  **LetterContent** object based on the specified letter elements. **LetterContent** object.
+Creates and returns a **LetterContent** object based on the specified letter elements. **LetterContent** object.
 
 
 ## Syntax
@@ -68,7 +68,7 @@ LetterContent
 
 ## Example
 
-The following example uses the  **CreateLetterContent** method to create a new **LetterContent** object in the active document and then uses this object with the **RunLetterWizard** method.
+The following example uses the **CreateLetterContent** method to create a new **LetterContent** object in the active document and then uses this object with the **RunLetterWizard** method.
 
 
 ```vb

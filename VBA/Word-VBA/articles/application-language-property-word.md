@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Language Property (Word)
 
-Returns an  **MsoLanguageID** constant that represents the language selected for the Microsoft Word user interface.
+Returns an **MsoLanguageID** constant that represents the language selected for the Microsoft Word user interface.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.ServerFilterByForm Property (Access)
 
-You can use the  **ServerFilterByForm** property to specify or determine whether a form is opened in the Server Filter By Form window. Read/write **Boolean**.
+You can use the **ServerFilterByForm** property to specify or determine whether a form is opened in the Server Filter By Form window. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ You can use the  **ServerFilterByForm** property to specify or determine whether
 
 ## Remarks
 
-The default value is  **False**.
+The default value is **False**.
 
-You can remove a filter by using Visual Basic to set the  **ServerFilterByForm** property to **False**.
-
-
+You can remove a filter by using Visual Basic to set the **ServerFilterByForm** property to **False**.
 
 
- **Note**  The  **ServerFilterByForm** property setting is ignored if the form's record source is a stored procedure.
+
+
+ **Note**  The **ServerFilterByForm** property setting is ignored if the form's record source is a stored procedure.
 
 
 ## Example

@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # ListBox Control, List Property Example
 
-The following example swaps columns of a multicolumn  **ListBox**. The sample uses the **List** property in two ways:
+The following example swaps columns of a multicolumn **ListBox**. The sample uses the **List** property in two ways:
 
 
 
-1. To access and exchange individual values in the  **ListBox**. In this usage, **List** has subscripts to designate the row and column of a specified value.
+1. To access and exchange individual values in the **ListBox**. In this usage, **List** has subscripts to designate the row and column of a specified value.
     
-2. To initially load the  **ListBox** with values from an array. In this usage, **List** has no subscripts.
+2. To initially load the **ListBox** with values from an array. In this usage, **List** has no subscripts.
     
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **ListBox** named ListBox1 and a **CommandButton** named CommandButton1.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **ListBox** named ListBox1 and a **CommandButton** named CommandButton1.
 
 
 

@@ -17,7 +17,7 @@ Loads the Web page settings that were saved in the registry in an earlier instan
 
  _expression_. **InitSettings**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
 
 
 ### Return Value
@@ -27,12 +27,12 @@ Loads the Web page settings that were saved in the registry in an earlier instan
 
 ## Remarks
 
-You can use the  **InitSettings** method to reinitialize the Web page settings to those values stored in the registry.
+You can use the **InitSettings** method to reinitialize the Web page settings to those values stored in the registry.
 
 
 ## Example
 
-The following example shows how to use the  **InitSettings** method to reinitialize the Web page settings to those that were saved in an earlier instance of Visio.
+The following example shows how to use the **InitSettings** method to reinitialize the Web page settings to those that were saved in an earlier instance of Visio.
 
 Before running this example, replace  _path\filename_ with a valid path and file name for the Web page project file.
 

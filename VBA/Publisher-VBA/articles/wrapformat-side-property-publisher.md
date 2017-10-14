@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WrapFormat.Side Property (Publisher)
 
-Returns or sets a  **PbWrapSideType** constant that indicates whether text should wrap around a shape. Read/write.
+Returns or sets a **PbWrapSideType** constant that indicates whether text should wrap around a shape. Read/write.
 
 
 ## Syntax
 
  _expression_. **Side**
 
- _expression_A variable that represents a  **WrapFormat** object.
+ _expression_A variable that represents a **WrapFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbWrapSideType
 
 ## Remarks
 
-The  **Side** property value can be one of the **[PbWrapSideType](pbwrapsidetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Side** property value can be one of the **[PbWrapSideType](pbwrapsidetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

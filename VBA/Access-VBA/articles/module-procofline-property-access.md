@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.ProcOfLine Property (Access)
 
-The  **ProcOfLine** property returns the name of the procedure that contains a specified line in a standard module or a class module. Read-only string.
+The **ProcOfLine** property returns the name of the procedure that contains a specified line in a standard module or a class module. Read-only string.
 
 
 ## Syntax
@@ -40,16 +40,16 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 
 |**Constant**|**Description**|
 |:-----|:-----|
-|**vbext_pk_Get**|A  **Property Get** procedure.|
-|**vbext_pk_Let**|A  **Property Let** procedure.|
-|**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
-|**vbext_pk_Set**|A  **Property Set** procedure.|
-For any given line number, the  **ProcOfLine** property returns the name of the procedure that contains that line. Since comments and compilation constants immediately preceding a procedure definition are considered part of that procedure, the **ProcOfLine** property may return the name of a procedure for a line that isn't within the body of the procedure. The **[ProcStartLine](module-procstartline-property-access.md)** property indicates the line on which a procedure begins; the **[ProcBodyLine](module-procbodyline-property-access.md)** property indicates the line on which the procedure definition begins (the body of the procedure).
+|**vbext_pk_Get**|A **Property Get** procedure.|
+|**vbext_pk_Let**|A **Property Let** procedure.|
+|**vbext_pk_Proc**|A **Sub** or **Function** procedure.|
+|**vbext_pk_Set**|A **Property Set** procedure.|
+For any given line number, the **ProcOfLine** property returns the name of the procedure that contains that line. Since comments and compilation constants immediately preceding a procedure definition are considered part of that procedure, the **ProcOfLine** property may return the name of a procedure for a line that isn't within the body of the procedure. The **[ProcStartLine](module-procstartline-property-access.md)** property indicates the line on which a procedure begins; the **[ProcBodyLine](module-procbodyline-property-access.md)** property indicates the line on which the procedure definition begins (the body of the procedure).
 
 Note that the  _pprockind_ argument indicates whether the line belongs to a **Sub** or **Function** procedure, a **Property Get** procedure, a **Property Let** procedure, or a **Property Set** procedure. To determine what type of procedure a line is in, pass a variable of type **Long** to the **ProcOfLine** property, then check the value of that variable.
 
 
- **Note**  The  **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of **Property** procedure.
+ **Note**  The **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of **Property** procedure.
 
 
 ## Example

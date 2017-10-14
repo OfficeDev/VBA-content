@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.HasContinued Property (Access)
 
-You can use the  **HasContinued** property to determine if part of the current section begins on the previous page. Read/write **Boolean**.
+You can use the **HasContinued** property to determine if part of the current section begins on the previous page. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **HasContinued** property to determine if part of the current s
 
 ## Remarks
 
-The  **HasContinued** property is set by Microsoft Access and is read-only in all views.
+The **HasContinued** property is set by Microsoft Access and is read-only in all views.
 
 
 
@@ -33,7 +33,7 @@ The  **HasContinued** property is set by Microsoft Access and is read-only in al
 |:-----|:-----|
 |**True**|Part of the current section has been printed on the previous page.|
 |**False**|Part of the current section hasn't been printed on the previous page.|
-You can use this property to determine whether to show or hide certain controls depending on the value of the property. For example, you may have a hidden label in a page header containing the text "Continued from previous page". If the value of the  **HasContinued** property is **True**, you can make the hidden label visible.
+You can use this property to determine whether to show or hide certain controls depending on the value of the property. For example, you may have a hidden label in a page header containing the text "Continued from previous page". If the value of the **HasContinued** property is **True**, you can make the hidden label visible.
 
 
 ## See also

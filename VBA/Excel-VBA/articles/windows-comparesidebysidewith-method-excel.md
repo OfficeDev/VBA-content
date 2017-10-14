@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.CompareSideBySideWith Method (Excel)
 
-Opens two windows in side-by-side mode. Returns a  **Boolean** value.
+Opens two windows in side-by-side mode. Returns a **Boolean** value.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 
 ## Remarks
 
-You cannot use the  **CompareSideBySideWith** method with the **[Application](application-object-excel.md)** object or the **[ActiveWorkbook](application-activeworkbook-property-excel.md)** property.
+You cannot use the **CompareSideBySideWith** method with the **[Application](application-object-excel.md)** object or the **[ActiveWorkbook](application-activeworkbook-property-excel.md)** property.
 
 
 ## See also

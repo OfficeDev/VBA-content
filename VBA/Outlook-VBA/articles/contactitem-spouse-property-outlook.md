@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Spouse Property (Outlook)
 
-Returns or sets a  **String** indicating the spouse/partner name entry for the contact. Read/write.
+Returns or sets a **String** indicating the spouse/partner name entry for the contact. Read/write.
 
 
 ## Syntax

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Application.Quit Method (Publisher)
 
-Quits Microsoft Publisher. This is equivalent to clicking  **Exit** on the **File** menu.
+Quits Microsoft Publisher. This is equivalent to clicking **Exit** on the **File** menu.
 
 
 ## Syntax
 
  _expression_. **Quit**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ## Remarks
 
-To avoid losing unsaved changes, use either the  **[Save](document-save-method-publisher.md)** or **[SaveAs](document-saveas-method-publisher.md)** method to save any open publication before calling the **Quit** method.
+To avoid losing unsaved changes, use either the **[Save](document-save-method-publisher.md)** or **[SaveAs](document-saveas-method-publisher.md)** method to save any open publication before calling the **Quit** method.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.SelectedItems Property (Office)
 
-Gets a  **FileDialogSelectedItems** collection. This collection contains a list of the paths of the files that a user selected from a file dialog box displayed using the **Show** method of the **FileDialog** object. Read-only.
+Gets a **FileDialogSelectedItems** collection. This collection contains a list of the paths of the files that a user selected from a file dialog box displayed using the **Show** method of the **FileDialog** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets a  **FileDialogSelectedItems** collection. This collection contains a list 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
 
 
 ```

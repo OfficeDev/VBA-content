@@ -15,6 +15,6 @@ Transfers the contents of the Clipboard to an object.
 
  _expression_. **Paste**
 
- _expression_A variable that represents a  **Frame** object.
+ _expression_A variable that represents a **Frame** object.
 
 

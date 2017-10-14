@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # References.ItemRemoved Event (Access)
 
-The  **ItemRemoved** event occurs when a reference is removed from the project.
+The **ItemRemoved** event occurs when a reference is removed from the project.
 
 
 ## Syntax
@@ -34,16 +34,16 @@ The  **ItemRemoved** event occurs when a reference is removed from the project.
 ## Remarks
 
 
-- The  **ItemRemoved** event applies to the **[References](references-object-access.md)** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the **ItemRemoved** event procedure, you must use a special syntax.
+- The **ItemRemoved** event applies to the **[References](references-object-access.md)** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the **ItemRemoved** event procedure, you must use a special syntax.
     
-- The  **ItemRemoved** event can run only an event procedure when it occurs, it cannot run a macro.
+- The **ItemRemoved** event can run only an event procedure when it occurs, it cannot run a macro.
     
-This event occurs only when you remove a reference from code. It doesn't occur when you remove a reference from the  **References** dialog box, available by clicking **References** on the **Tools** menu when the Module window is the active window.
+This event occurs only when you remove a reference from code. It doesn't occur when you remove a reference from the **References** dialog box, available by clicking **References** on the **Tools** menu when the Module window is the active window.
 
 
 ## Example
 
-The following example includes event procedures for the  **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by clicking **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents:
+The following example includes event procedures for the **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by clicking **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents:
 
 
 ```vb
@@ -76,7 +76,7 @@ End Sub
 
 The next Function procedure removes a specified reference. When a reference is removed, the ItemRemoved event procedure defined in the RefEvents class runs.
 
-For example, to remove a reference to the calendar control, you could pass the string "MSACAL", which is the name of the  **Reference** object that represents the calendar control.
+For example, to remove a reference to the calendar control, you could pass the string "MSACAL", which is the name of the **Reference** object that represents the calendar control.
 
 
 

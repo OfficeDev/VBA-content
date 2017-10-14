@@ -30,8 +30,8 @@ String
 
 ## Remarks
 
-The  **MergeCaption** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
+The **MergeCaption** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
 
-Use the  **Type** property to determine window type.
+Use the **Type** property to determine window type.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRuleSets.Document Property (Visio)
 
-Returns the  **[Document](document-object-visio.md)** object that is associated with an object. Read-only.
+Returns the **[Document](document-object-visio.md)** object that is associated with an object. Read-only.
 
 
 ## Syntax

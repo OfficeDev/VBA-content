@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.QueryCancelReplaceShapes Event (Visio)
 
-Occurs immediately after a shape-replacement operation is requested. If any event handler returns  **True** , the operation is canceled.
+Occurs immediately after a shape-replacement operation is requested. If any event handler returns **True** , the operation is canceled.
 
 
 ## Syntax

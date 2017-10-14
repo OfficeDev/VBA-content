@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.Delete Method (PowerPoint)
 
-Deletes the specified  **SlideRange** object.
+Deletes the specified **SlideRange** object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SetOrderBy Method (Access)
 
-Use the  **SetOrderBy** method to apply a sort to the active datasheet, form, report, or table.
+Use the **SetOrderBy** method to apply a sort to the active datasheet, form, report, or table.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ Use the  **SetOrderBy** method to apply a sort to the active datasheet, form, re
 
 When you run this method, the sort is applied to the table, form, report or datasheet (for example, query result) that is active and has the focus. 
 
-The Order By argument is the name of the field or fields on which you want to sort records. When you use more than one field name, separate the names with a comma (,). The  **OrderBy** property of the active object is used to save the ordering value and apply it at a later time. OrderBy values are saved with the objects in which they are created. They are automatically loaded when the object is opened, but they are not automatically applied.
+The Order By argument is the name of the field or fields on which you want to sort records. When you use more than one field name, separate the names with a comma (,). The **OrderBy** property of the active object is used to save the ordering value and apply it at a later time. OrderBy values are saved with the objects in which they are created. They are automatically loaded when the object is opened, but they are not automatically applied.
 
 When you set the Order By argument by entering one or more field names and then run the method, the records are sorted by default in ascending order. 
 

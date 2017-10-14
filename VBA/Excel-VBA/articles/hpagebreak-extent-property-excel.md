@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HPageBreak.Extent Property (Excel)
 
-Returns the type of the specified page break: full-screen or only within a print area. Can be either of the following  **[XlPageBreakExtent](xlpagebreakextent-enumeration-excel.md)** constants: **xlPageBreakFull** or **xlPageBreakPartial** . Read-only **Long** .
+Returns the type of the specified page break: full-screen or only within a print area. Can be either of the following **[XlPageBreakExtent](xlpagebreakextent-enumeration-excel.md)** constants: **xlPageBreakFull** or **xlPageBreakPartial** . Read-only **Long** .
 
 
 ## Syntax

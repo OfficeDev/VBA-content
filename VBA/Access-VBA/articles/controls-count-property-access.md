@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Controls.Count Property (Access)
 
-You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
+You can use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Count** property to determine the number of items in a specif
 
 ## Example
 
-The following example uses the  **Count** property to control a loop that prints information about all open forms and their controls.
+The following example uses the **Count** property to control a loop that prints information about all open forms and their controls.
 
 
 ```vb

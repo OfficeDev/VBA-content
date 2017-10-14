@@ -18,9 +18,9 @@ Sets the segment type of the segment that follows the specified node. If the nod
 
 ## Syntax
 
- _expression_. **SetSegmentType**( **_Index_**,  **_SegmentType_**)
+ _expression_. **SetSegmentType**( **_Index_**, **_SegmentType_**)
 
- _expression_A variable that represents a  **ShapeNodes** object.
+ _expression_A variable that represents a **ShapeNodes** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Sets the segment type of the segment that follows the specified node. If the nod
 
 ## Remarks
 
-The SegmentType parameter can be one of the  **MsoSegmentType** constants declared in the Microsoft Office type library and shown in the following table.
+The SegmentType parameter can be one of the **MsoSegmentType** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

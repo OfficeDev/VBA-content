@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.ConvertToAnimateBackground Method (PowerPoint)
 
-Determines whether the background will be animated separately from, or in addition to, its accompanying text. Returns an  **[Effect](effect-object-powerpoint.md)** object representing the newly-modified animation effect.
+Determines whether the background will be animated separately from, or in addition to, its accompanying text. Returns an **[Effect](effect-object-powerpoint.md)** object representing the newly-modified animation effect.
 
 
 ## Syntax

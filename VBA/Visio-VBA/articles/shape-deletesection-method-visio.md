@@ -42,9 +42,9 @@ When you delete a ShapeSheet section, all rows in the section are automatically 
 
 If a Geometry section is deleted, any subsequent Geometry sections shift up because they are indexed and no gaps can exist in an indexed range.
 
-You can delete any section except the section represented by  **visSectionObject** (although you can delete rows within that section).
+You can delete any section except the section represented by **visSectionObject** (although you can delete rows within that section).
 
-Section index values are declared in the Visio type library in  **[VisSectionIndices](vissectionindices-enumeration-visio.md)** .
+Section index values are declared in the Visio type library in **[VisSectionIndices](vissectionindices-enumeration-visio.md)** .
 
 
 ## Example

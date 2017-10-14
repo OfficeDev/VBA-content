@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[AutoUpdateFrequency](workbook-autoupdatefrequency-property-excel.md)** property must be set to a value from 5 to 1440 for this property to take effect.
+The **[AutoUpdateFrequency](workbook-autoupdatefrequency-property-excel.md)** property must be set to a value from 5 to 1440 for this property to take effect.
 
 
 ## Example

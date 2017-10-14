@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ActualOvertimeWork Property (Project)
 
-Gets or sets the actual overtime work (in minutes) for an assignment. Read/write  **Variant**.
+Gets or sets the actual overtime work (in minutes) for an assignment. Read/write **Variant**.
 
 
 ## Syntax

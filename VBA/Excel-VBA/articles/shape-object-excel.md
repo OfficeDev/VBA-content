@@ -21,7 +21,7 @@ Represents an object in the drawing layer, such as an AutoShape, freeform, OLE o
  The **Shape** object is a member of the **[Shapes](shapes-object-excel.md)** collection. The **Shapes** collection contains all the shapes in a workbook.
 
 
- **Note**  There are three objects that represent shapes: the  **Shapes** collection, which represents all the shapes on a workbook; the **[ShapeRange](shaperange-object-excel.md)** collection, which represents a specified subset of the shapes on a workbook (for example, a **ShapeRange** object could represent shapes one and four in the workbook, or it could represent all the selected shapes in the workbook); and the **Shape** object, which represents a single shape on a worksheet. If you want to work with several shapes at the same time or with shapes within the selection, use a **ShapeRange** collection.
+ **Note**  There are three objects that represent shapes: the **Shapes** collection, which represents all the shapes on a workbook; the **[ShapeRange](shaperange-object-excel.md)** collection, which represents a specified subset of the shapes on a workbook (for example, a **ShapeRange** object could represent shapes one and four in the workbook, or it could represent all the selected shapes in the workbook); and the **Shape** object, which represents a single shape on a worksheet. If you want to work with several shapes at the same time or with shapes within the selection, use a **ShapeRange** collection.
 
 
 ### Using the Shape Object
@@ -44,27 +44,27 @@ The following sections describes how to:
 
 ### Returning the Shapes Attached to the Ends of a Connector
 
-To return a  **Shape** object that represents one of the shapes attached by a connector, use the **[BeginConnectedShape](connectorformat-beginconnectedshape-property-excel.md)** or **[EndConnectedShape](connectorformat-endconnectedshape-property-excel.md)** property.
+To return a **Shape** object that represents one of the shapes attached by a connector, use the **[BeginConnectedShape](connectorformat-beginconnectedshape-property-excel.md)** or **[EndConnectedShape](connectorformat-endconnectedshape-property-excel.md)** property.
 
 
 ### Returning a newly created freeform
 
-Use the  **[BuildFreeform](shapes-buildfreeform-method-excel.md)** and **[AddNodes](freeformbuilder-addnodes-method-excel.md)** methods to define the geometry of a new freeform, and use the **[ConvertToShape](freeformbuilder-converttoshape-method-excel.md)** method to create the freeform and return the **Shape** object that represents it.
+Use the **[BuildFreeform](shapes-buildfreeform-method-excel.md)** and **[AddNodes](freeformbuilder-addnodes-method-excel.md)** methods to define the geometry of a new freeform, and use the **[ConvertToShape](freeformbuilder-converttoshape-method-excel.md)** method to create the freeform and return the **Shape** object that represents it.
 
 
 ### Returning a Single Shape from Within a Group
 
-Use  **[GroupItems](shape-groupitems-property-excel.md)** ( _index_ ), where _index_ is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
+Use **[GroupItems](shape-groupitems-property-excel.md)** ( _index_ ), where _index_ is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
 
 
 ### Returning a Newly Formed Group of Shapes
 
-Use the  **[Group](shaperange-group-method-excel.md)** or **[Regroup](shaperange-regroup-method-excel.md)** method to group a range of shapes and return a single **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
+Use the **[Group](shaperange-group-method-excel.md)** or **[Regroup](shaperange-regroup-method-excel.md)** method to group a range of shapes and return a single **Shape** object that represents the newly formed group. After a group has been formed, you can work with the group the same way you work with any other shape.
 
 
 ### Returning an Existing Shape
 
-Use  **[Shapes](worksheet-shapes-property-excel.md)** ( _index_ ), where _index_ is the shape name or the index number, to return a **Shape** object that represents a shape.
+Use **[Shapes](worksheet-shapes-property-excel.md)** ( _index_ ), where _index_ is the shape name or the index number, to return a **Shape** object that represents a shape.
 
 
 ### Returning a Shape Within the Selection
@@ -83,7 +83,7 @@ myDocument.Shapes(1).Flip msoFlipHorizontal
 myDocument.Shapes("Rectangle 1").Flip msoFlipHorizontal
 ```
 
-Each shape is assigned a default name when you add it to the  **Shapes** collection. To give the shape a more meaningful name, use the **Name** property. The following example adds a rectangle to myDocument, gives it the name Red Square, and then sets its foreground color and line style.
+Each shape is assigned a default name when you add it to the **Shapes** collection. To give the shape a more meaningful name, use the **Name** property. The following example adds a rectangle to myDocument, gives it the name Red Square, and then sets its foreground color and line style.
 
 
 

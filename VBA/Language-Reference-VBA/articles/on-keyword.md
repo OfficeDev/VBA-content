@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # On <keyword>
 
-The  **On** keyword is used in these contexts:
+The **On** keyword is used in these contexts:
 
 [On Error Statement](on-error-statement.md)
 

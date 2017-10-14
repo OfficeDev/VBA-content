@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.Parent Property (Publisher)
 
-Returns the parent of the  **[Printer](printer-object-publisher.md)** object. Read-only.
+Returns the parent of the **[Printer](printer-object-publisher.md)** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value

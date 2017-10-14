@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You attempted to append a new  **Property** object to a collection without first setting all of the new object's properties: **Value**, **Type**, and **Name**.
+You attempted to append a new **Property** object to a collection without first setting all of the new object's properties: **Value**, **Type**, and **Name**.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

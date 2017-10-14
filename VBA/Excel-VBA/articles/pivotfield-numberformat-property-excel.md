@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.NumberFormat Property (Excel)
 
-Returns or sets a  **String** value that represents the format code for the object.
+Returns or sets a **String** value that represents the format code for the object.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **String** value that represents the format code for the obje
 
 ## Remarks
 
-You can set the  **NumberFormat** property only for a data field.
+You can set the **NumberFormat** property only for a data field.
 
-The format code is the same string as the  **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **NumberFormatLocal** properties.
+The format code is the same string as the **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **NumberFormatLocal** properties.
 
 
 ## See also

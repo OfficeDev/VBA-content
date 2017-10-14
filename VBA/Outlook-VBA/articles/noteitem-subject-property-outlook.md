@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NoteItem.Subject Property (Outlook)
 
-Returns or sets a  **String** indicating the subject for the Outlook item. Read-only.
+Returns or sets a **String** indicating the subject for the Outlook item. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read-
 
 ## Remarks
 
-The  **Subject** property is a **String** that is calculated from the body text of the note.
+The **Subject** property is a **String** that is calculated from the body text of the note.
 
-This property corresponds to the MAPI property  **PidTagSubject** . The **Subject** property is the default property for Outlook items.
+This property corresponds to the MAPI property **PidTagSubject** . The **Subject** property is the default property for Outlook items.
 
 
 ## See also

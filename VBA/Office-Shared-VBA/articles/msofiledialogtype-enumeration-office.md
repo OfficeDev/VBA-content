@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoFileDialogType Enumeration (Office)
 
-Specifies the type of a  **FileDialog** object.
+Specifies the type of a **FileDialog** object.
 
 
 

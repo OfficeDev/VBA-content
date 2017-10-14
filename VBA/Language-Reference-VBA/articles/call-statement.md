@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Call Statement
 
-Transfers control to a  **Sub** procedure, **Function** procedure, or [dynamic-link library (DLL)](vbe-glossary.md) [procedure](vbe-glossary.md).
+Transfers control to a **Sub** procedure, **Function** procedure, or [dynamic-link library (DLL)](vbe-glossary.md) [procedure](vbe-glossary.md).
 
  **Syntax**
 
 [ **Call** ] _name_ [ _argumentlist_ ]
 
-The  **Call** statement syntax has these parts:
+The **Call** statement syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -28,12 +28,12 @@ The  **Call** statement syntax has these parts:
 
 ## Remarks
 
-You are not required to use the  **Call** keyword when calling a procedure. However, if you use the **Call** keyword to call a procedure that requires arguments, _argumentlist_ must be enclosed in parentheses. If you omit the **Call** keyword, you also must omit the parentheses around _argumentlist_. If you use either **Call** syntax to call any intrinsic or user-defined function, the function's return value is discarded.
+You are not required to use the **Call** keyword when calling a procedure. However, if you use the **Call** keyword to call a procedure that requires arguments, _argumentlist_ must be enclosed in parentheses. If you omit the **Call** keyword, you also must omit the parentheses around _argumentlist_. If you use either **Call** syntax to call any intrinsic or user-defined function, the function's return value is discarded.
 To pass a whole array to a procedure, use the array name followed by empty parentheses.
 
 ## Example
 
-This example illustrates how the  **Call** statement is used to transfer control to a **Sub** procedure, an intrinsic function, and a dynamic-link library (DLL) procedure.DLLs are not used on the Macintosh.
+This example illustrates how the **Call** statement is used to transfer control to a **Sub** procedure, an intrinsic function, and a dynamic-link library (DLL) procedure.DLLs are not used on the Macintosh.
 
 
 ```vb

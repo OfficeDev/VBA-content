@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FormatPaste Method (Project)
 
-Pastes formats (copied with the  **FormatCopy** method) into the selected cells.
+Pastes formats (copied with the **FormatCopy** method) into the selected cells.
 
 
 ## Syntax

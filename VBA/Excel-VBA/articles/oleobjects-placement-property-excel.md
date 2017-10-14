@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObjects.Placement Property (Excel)
 
-Returns or sets a  **Variant** value, containing an **[XlPlacement](xlplacement-enumeration-excel.md)** constant, that represents the way the object is attached to the cells below it.
+Returns or sets a **Variant** value, containing an **[XlPlacement](xlplacement-enumeration-excel.md)** constant, that represents the way the object is attached to the cells below it.
 
 
 ## Syntax

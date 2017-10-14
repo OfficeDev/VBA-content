@@ -39,7 +39,7 @@ Variant
 
 ## Example
 
-This example performs an autofill on cells A1:A20 on Sheet1, based on the source range A1:A2 on Sheet1. Before running this example, type  **1** in cell A1 and type **2** in cell A2.
+This example performs an autofill on cells A1:A20 on Sheet1, based on the source range A1:A2 on Sheet1. Before running this example, type **1** in cell A1 and type **2** in cell A2.
 
 
 ```vb

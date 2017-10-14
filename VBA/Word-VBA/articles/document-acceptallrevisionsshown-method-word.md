@@ -25,7 +25,7 @@ Accepts all revisions in the specified document that are displayed on the screen
 
 ## Remarks
 
-Use the  **RejectAllRevisionsShown** method to reject all revisions in a specified document that are displayed on the screen.
+Use the **RejectAllRevisionsShown** method to reject all revisions in a specified document that are displayed on the screen.
 
 
 ## Example

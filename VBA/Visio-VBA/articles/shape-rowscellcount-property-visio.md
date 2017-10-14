@@ -39,6 +39,6 @@ Integer
 
 ## Remarks
 
-Use section and row index constants declared by the Visio type library in members  **[VisSectionIndices](vissectionindices-enumeration-visio.md)** and **[VisRowIndices](visrowindices-enumeration-visio.md)** .
+Use section and row index constants declared by the Visio type library in members **[VisSectionIndices](vissectionindices-enumeration-visio.md)** and **[VisRowIndices](visrowindices-enumeration-visio.md)** .
 
 

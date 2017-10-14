@@ -68,19 +68,19 @@ This page links to help on widely used data-access tasks. To view other categori
     
 - [How to: Count the Number of Records in a DAO Recordset](count-the-number-of-records-in-a-dao-recordset.md)
     
-      - Describes how to count the umber of records in a  **Recordset** object.
+      - Describes how to count the umber of records in a **Recordset** object.
     
 - [How to: Create a DAO Recordset From a Form](create-a-dao-recordset-from-a-form.md)
     
-      - Describes how to create a  **Recordset** object based on an Access form.
+      - Describes how to create a **Recordset** object based on an Access form.
     
 - [How to: Create a DAO Recordset From a Query](create-a-dao-recordset-from-a-query.md)
     
-      - Describes how to create a  **Recordset** object based on a stored select query.
+      - Describes how to create a **Recordset** object based on a stored select query.
     
 - [How to: Create a DAO Recordset From a Table In the Current Database](create-a-dao-recordset-from-a-table-in-the-current-database.md)
     
-      - Describes how to create a  **Recordset** object for a table in the current database.
+      - Describes how to create a **Recordset** object for a table in the current database.
     
 - [How to: Create a User-Defined Property](create-a-user-defined-property.md)
     
@@ -104,7 +104,7 @@ This page links to help on widely used data-access tasks. To view other categori
     
 - [How to: Find a Record in a Table-Type DAO Recordset](find-a-record-in-a-table-type-dao-recordset.md)
     
-      - Describes how to use the  **Seek** method to locate a record in a table-type recordset.
+      - Describes how to use the **Seek** method to locate a record in a table-type recordset.
     
 - [How to: Find the Current Position in a DAO Recordset](find-the-current-position-in-a-dao-recordset.md)
     
@@ -120,7 +120,7 @@ This page links to help on widely used data-access tasks. To view other categori
     
 - [How to: Mark a Position in a DAO Recordset](mark-a-position-in-a-dao-recordset.md)
     
-      - Describes how to use the  **Bookmark** property to mark a record in a recordset.
+      - Describes how to use the **Bookmark** property to mark a record in a recordset.
     
 - [How to: Modify a Query from a DAO Recordset](modify-a-query-from-a-dao-recordset.md)
     
@@ -128,15 +128,15 @@ This page links to help on widely used data-access tasks. To view other categori
     
 - [How to: Modify an Existing Record in a DAO Recordset](modify-an-existing-record-in-a-dao-recordset.md)
     
-      - Describes how to use the  **Edit** and **Update** methods to modify records.
+      - Describes how to use the **Edit** and **Update** methods to modify records.
     
 - [How to: Move Through a DAO Recordset](move-through-a-dao-recordset.md)
     
-      - Describes how to use the  **Move** methods to navigate a recordset.
+      - Describes how to use the **Move** methods to navigate a recordset.
     
 - [How to: Read From and Write To a Field in a DAO Recordset](read-from-and-write-to-a-field-in-a-dao-recordset.md)
     
-      - Describes how to use the  **Value** property of a field to read or write data to a record.
+      - Describes how to use the **Value** property of a field to read or write data to a record.
     
 - [How to: Return a Random Record from a DAO Recordset](return-a-random-record-from-a-dao-recordset.md)
     
@@ -172,7 +172,7 @@ This page links to help on widely used data-access tasks. To view other categori
 
 - [How to: Bind a Form to an ADO Recordset](bind-a-form-to-an-ado-recordset.md)
     
-      - Describes how to set a form's  **Recordset** property to an open ADO **Recordset** object.
+      - Describes how to set a form's **Recordset** property to an open ADO **Recordset** object.
     
 - [How to: Build SQL Statements That Include Variables and Controls](build-sql-statements-that-include-variables-and-controls.md)
     

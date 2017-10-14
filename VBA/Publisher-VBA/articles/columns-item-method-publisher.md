@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Columns.Item Method (Publisher)
 
-Returns an individual  **Column** object in the specified **Columns** collection.
+Returns an individual **Column** object in the specified **Columns** collection.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **Columns** object.
+ _expression_A variable that represents a **Columns** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Column
 
 ## Example
 
-This example returns the first column from a  **Columns** collection.
+This example returns the first column from a **Columns** collection.
 
 
 ```vb

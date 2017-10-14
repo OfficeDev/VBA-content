@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SetEffect.To Property (PowerPoint)
 
-Sets or returns a  **Variant** that represents the value or ending value of the **SetEffect** object's **Type** property. Read/write.
+Sets or returns a **Variant** that represents the value or ending value of the **SetEffect** object's **Type** property. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **Variant** that represents the value or ending value of the 
 
 ## Remarks
 
-Do not confuse this property with the  **ToX** or **ToY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ToX** or **ToY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
 
 
 ## See also

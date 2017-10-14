@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Calendar.WeekDays Property (Project)
 
-Gets a  **[Weekdays](weekday-object-project.md)** collection representing the weekdays in the calendar. Read-only **Weekdays**.
+Gets a **[Weekdays](weekday-object-project.md)** collection representing the weekdays in the calendar. Read-only **Weekdays**.
 
 
 ## Syntax

@@ -18,35 +18,35 @@ Represents the error-checking options for an application.
 
 ## Remarks
 
-Use the  **[ErrorCheckingOptions](application-errorcheckingoptions-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return an **ErrorCheckingOptions** object.
+Use the **[ErrorCheckingOptions](application-errorcheckingoptions-property-excel.md)** property of the **[Application](application-object-excel.md)** object to return an **ErrorCheckingOptions** object.
 
-Reference the  **[Item](errors-item-property-excel.md)** property of the **[Errors](errors-object-excel.md)** object to view a list of index values associated with error-checking options.
+Reference the **[Item](errors-item-property-excel.md)** property of the **[Errors](errors-object-excel.md)** object to view a list of index values associated with error-checking options.
 
-Once an  **ErrorCheckingOptions** object is returned, you can use the following properties, which are members of the **ErrorCheckingOptions** object, to set or return error checking options.
+Once an **ErrorCheckingOptions** object is returned, you can use the following properties, which are members of the **ErrorCheckingOptions** object, to set or return error checking options.
 
 
--  **[BackgroundChecking](errorcheckingoptions-backgroundchecking-property-excel.md)**
+- **[BackgroundChecking](errorcheckingoptions-backgroundchecking-property-excel.md)**
     
--  **[EmptyCellReferences](errorcheckingoptions-emptycellreferences-property-excel.md)**
+- **[EmptyCellReferences](errorcheckingoptions-emptycellreferences-property-excel.md)**
     
--  **[EvaluateToError](errorcheckingoptions-evaluatetoerror-property-excel.md)**
+- **[EvaluateToError](errorcheckingoptions-evaluatetoerror-property-excel.md)**
     
--  **[InconsistentFormula](errorcheckingoptions-inconsistentformula-property-excel.md)**
+- **[InconsistentFormula](errorcheckingoptions-inconsistentformula-property-excel.md)**
     
--  **[IndicatorColorIndex](errorcheckingoptions-indicatorcolorindex-property-excel.md)**
+- **[IndicatorColorIndex](errorcheckingoptions-indicatorcolorindex-property-excel.md)**
     
--  **[NumberAsText](errorcheckingoptions-numberastext-property-excel.md)**
+- **[NumberAsText](errorcheckingoptions-numberastext-property-excel.md)**
     
--  **[OmittedCells](errorcheckingoptions-omittedcells-property-excel.md)**
+- **[OmittedCells](errorcheckingoptions-omittedcells-property-excel.md)**
     
--  **[TextDate](errorcheckingoptions-textdate-property-excel.md)**
+- **[TextDate](errorcheckingoptions-textdate-property-excel.md)**
     
--  **[UnlockedFormulaCells](errorcheckingoptions-unlockedformulacells-property-excel.md)**
+- **[UnlockedFormulaCells](errorcheckingoptions-unlockedformulacells-property-excel.md)**
     
 
 ## Example
 
-The following example uses the  **TextDate** property to enable error checking for two-digit-year text dates and notifies the user.
+The following example uses the **TextDate** property to enable error checking for two-digit-year text dates and notifies the user.
 
 
 ```vb

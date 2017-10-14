@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AutoCaptions Property (Word)
 
-Returns an  **[AutoCaptions](autocaptions-object-word.md)** collection that represents the captions that are automatically added when items such as tables and pictures are inserted into a document. Read-only.
+Returns an **[AutoCaptions](autocaptions-object-word.md)** collection that represents the captions that are automatically added when items such as tables and pictures are inserted into a document. Read-only.
 
 
 ## Syntax

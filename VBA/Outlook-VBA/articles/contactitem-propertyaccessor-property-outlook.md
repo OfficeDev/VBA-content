@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **ContactItem** object. Read-only.
+Returns a **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **ContactItem** object. Read-only.
 
 
 ## Syntax

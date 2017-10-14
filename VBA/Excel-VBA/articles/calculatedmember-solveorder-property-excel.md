@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalculatedMember.SolveOrder Property (Excel)
 
-Returns a  **Long** specifying the value of the calculated member's solve order MDX (Mulitdimensional Expression) argument. The default value is zero. Read-only.
+Returns a **Long** specifying the value of the calculated member's solve order MDX (Mulitdimensional Expression) argument. The default value is zero. Read-only.
 
 
 ## Syntax

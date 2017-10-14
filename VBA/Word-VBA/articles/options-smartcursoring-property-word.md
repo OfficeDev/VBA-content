@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SmartCursoring Property (Word)
 
-Returns or sets a  **Boolean** that represents whether smart cursoring is enabled. **True** enables smart cursoring.
+Returns or sets a **Boolean** that represents whether smart cursoring is enabled. **True** enables smart cursoring.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Boolean** that represents whether smart cursoring is enable
 
 ## Remarks
 
-The  **SmartCursoring** property corresponds to the **Use Smart Cursoring** option in the **Edit** tab of the **Options** dialog box, which is selected by default.
+The **SmartCursoring** property corresponds to the **Use Smart Cursoring** option in the **Edit** tab of the **Options** dialog box, which is selected by default.
 
-When the  **SmartCursoring** property is **True** , scrolling in a document by using the PAGE DOWN key will move the cursor to the current page. If the **SmartCursoring** property is **False** , the cursor remains in the last edited position.
+When the **SmartCursoring** property is **True** , scrolling in a document by using the PAGE DOWN key will move the cursor to the current page. If the **SmartCursoring** property is **False** , the cursor remains in the last edited position.
 
 
 ## Example

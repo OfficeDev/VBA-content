@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Fields.Add Method (Word)
 
-Adds a  **[Field](field-object-word.md)** object to the **Fields** collection. Returns the **[Field](field-object-word.md)** object at the specified range.
+Adds a **[Field](field-object-word.md)** object to the **Fields** collection. Returns the **[Field](field-object-word.md)** object at the specified range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Adds a  **[Field](field-object-word.md)** object to the **Fields** collection. R
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range where you want to add the field. If the range isn't collapsed, the field replaces the range.|
-| _Type_|Optional| **Variant**|Can be any  **WdFieldType** constant. For a list of valid constants, consult the Object Browser. The default value is **wdFieldEmpty** .|
+| _Type_|Optional| **Variant**|Can be any **WdFieldType** constant. For a list of valid constants, consult the Object Browser. The default value is **wdFieldEmpty** .|
 | _Text_|Optional| **Variant**|Additional text needed for the field. For example, if you want to specify a switch for the field, you would add it here.|
 | _PreserveFormatting_|Optional| **Variant**| **True** to have the formatting that's applied to the field preserved during updates.|
 
@@ -41,7 +41,7 @@ Field
 
 ## Remarks
 
-You cannot insert some fields (such as  **wdFieldOCX** and **wdFieldFormCheckBox** ) by using the **Add** method of the **Fields** collection. Instead, you must use specific methods such as the **AddOLEControl** method and the **Add** method for the **FormFields** collection.
+You cannot insert some fields (such as **wdFieldOCX** and **wdFieldFormCheckBox** ) by using the **Add** method of the **Fields** collection. Instead, you must use specific methods such as the **AddOLEControl** method and the **Add** method for the **FormFields** collection.
 
 
 ## Example

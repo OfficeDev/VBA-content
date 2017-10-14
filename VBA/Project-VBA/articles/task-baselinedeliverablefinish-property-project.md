@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.BaselineDeliverableFinish Property (Project)
 
-Gets or sets the task baseline deliverables finish date. Read/write  **Variant**.
+Gets or sets the task baseline deliverables finish date. Read/write **Variant**.
 
 
 ## Syntax

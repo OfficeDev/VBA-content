@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenarios Object (Excel)
 
-A collection of all the  **[Scenario](scenario-object-excel.md)** objects on the specified worksheet.
+A collection of all the **[Scenario](scenario-object-excel.md)** objects on the specified worksheet.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[Scenario](scenario-object-excel.md)** objects on the
 
 ## Example
 
-Use the  **[Scenarios](worksheet-scenarios-method-excel.md)** method to return the **Scenarios** collection. The following example creates a summary for the scenarios on the worksheet named "Options," using cells J10 and J20 as the result cells.
+Use the **[Scenarios](worksheet-scenarios-method-excel.md)** method to return the **Scenarios** collection. The following example creates a summary for the scenarios on the worksheet named "Options," using cells J10 and J20 as the result cells.
 
 
 ```vb
@@ -31,7 +31,7 @@ Worksheets("options").Scenarios.CreateSummary _
  resultCells:=Worksheets("options").Range("j10,j20")
 ```
 
-Use the  **[Add](scenarios-add-method-excel.md)** method to create a new scenario and add it to the collection. The following example adds a new scenario named "Typical" to the worksheet named "Options." The new scenario has two changing cells, A2 and A12, with the respective values 55 and 60.
+Use the **[Add](scenarios-add-method-excel.md)** method to create a new scenario and add it to the collection. The following example adds a new scenario named "Typical" to the worksheet named "Options." The new scenario has two changing cells, A2 and A12, with the respective values 55 and 60.
 
 
 
@@ -42,7 +42,7 @@ Worksheets("options").Scenarios.Add name:="Typical", _
  values:=Array("55", "60")
 ```
 
-Use  **Scenarios** ( _index_ ), where _index_ is the scenario name or index number, to return a single **Scenario** object. The following example shows the scenario named "Typical" on the worksheet named "Options."
+Use **Scenarios** ( _index_ ), where _index_ is the scenario name or index number, to return a single **Scenario** object. The following example shows the scenario named "Typical" on the worksheet named "Options."
 
 
 

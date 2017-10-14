@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.ScheduledFinish Property (Project)
 
-Gets the scheduled (as opposed to actual) finish time of a task. Read-only  **Variant**
+Gets the scheduled (as opposed to actual) finish time of a task. Read-only **Variant**
 
 
 ## Syntax

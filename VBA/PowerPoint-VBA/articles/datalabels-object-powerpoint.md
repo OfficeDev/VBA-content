@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels Object (PowerPoint)
 
-A collection of all the  **[DataLabel](datalabel-object-powerpoint.md)** objects for the specified series.
+A collection of all the **[DataLabel](datalabel-object-powerpoint.md)** objects for the specified series.
 
 
 ## Remarks
@@ -28,7 +28,7 @@ A collection of all the  **[DataLabel](datalabel-object-powerpoint.md)** objects
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[DataLabels](series-datalabels-method-powerpoint.md)** method to return the **DataLabels** collection. The following example sets the number format for data labels on the first series of the first chart in the active document.
+Use the **[DataLabels](series-datalabels-method-powerpoint.md)** method to return the **DataLabels** collection. The following example sets the number format for data labels on the first series of the first chart in the active document.
 
 
 
@@ -58,7 +58,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[DataLabels](series-datalabels-method-powerpoint.md)** ( _Index_ ), where _Index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
+Use **[DataLabels](series-datalabels-method-powerpoint.md)** ( _Index_ ), where _Index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.
 
 
 

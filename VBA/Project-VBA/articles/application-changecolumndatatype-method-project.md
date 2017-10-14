@@ -29,7 +29,7 @@ Changes the data type of a local custom field column in a table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required|**PjFieldTypes**|Specifies the type of the custom field data. The value can be one of the  **[PjFieldTypes](pjfieldtypes-enumeration-project.md)** constants. The default value is 0 ( **pjCostField** ).|
+| _Type_|Required|**PjFieldTypes**|Specifies the type of the custom field data. The value can be one of the **[PjFieldTypes](pjfieldtypes-enumeration-project.md)** constants. The default value is 0 ( **pjCostField** ).|
 | _Column_|Optional|**Variant**|Specifies the absolute column location. A value of 0 changes the data type of a column in the left-most position, if that column is a local custom field. If the first column is locked, the left-most position is the first column after the locked column. The default value is the selected column.|
 
 ### Return Value
@@ -44,19 +44,19 @@ Changes the data type of a local custom field column in a table.
 
 ## Example
 
-To use the following example, create a project with several tasks, and then open the Gantt Chart view. The  **CreateTestTable** macro creates a task table that has four columns. The first column with the ID field is locked. The second column has the title **Task Name**, the third column contains the  **Text1** task custom field, and the fourth column contains the **Number1** custom field. The macro assigns the table to the current view, and then adds text and number values to the task custom fields.
+To use the following example, create a project with several tasks, and then open the Gantt Chart view. The **CreateTestTable** macro creates a task table that has four columns. The first column with the ID field is locked. The second column has the title **Task Name**, the third column contains the **Text1** task custom field, and the fourth column contains the **Number1** custom field. The macro assigns the table to the current view, and then adds text and number values to the task custom fields.
 
 
 
 
-1. Run the  **CreateTestTable** macro. The **Text1** custom field value of the first task is **42 X**.
+1. Run the **CreateTestTable** macro. The **Text1** custom field value of the first task is **42 X**.
     
-2. Run the  **SwitchNumberAndText** macro. The macro switches the headings and types of the two custom fields.
+2. Run the **SwitchNumberAndText** macro. The macro switches the headings and types of the two custom fields.
     
-     **Note**  Because the value of the  **Text1** custom field in the first task is **42 X**, when  **ChangeColumnDataType** tries to convert that column to the **Number1** custom field, Project shows an error dialog box with the message, **Converting this data will cause errors. The contents of 1 records will be deleted. Do you want to continue anyway?**
-3. To continue with the conversion, click  **Yes** in the error dialog box. When the **Text1** custom field changes to the **Number1** custom field, the value **42 X** changes to **0**.
+    **Note**  Because the value of the **Text1** custom field in the first task is **42 X**, when **ChangeColumnDataType** tries to convert that column to the **Number1** custom field, Project shows an error dialog box with the message, **Converting this data will cause errors. The contents of 1 records will be deleted. Do you want to continue anyway?**
+3. To continue with the conversion, click **Yes** in the error dialog box. When the **Text1** custom field changes to the **Number1** custom field, the value **42 X** changes to **0**.
     
-4. To change back to a standard table in the Gantt Chart view, right-click the  **Select All** cell (the unnamed top-left cell in the table), and then select a different table in the drop-down list.
+4. To change back to a standard table in the Gantt Chart view, right-click the **Select All** cell (the unnamed top-left cell in the table), and then select a different table in the drop-down list.
     
 
 

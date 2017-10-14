@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # Categories Object (Outlook)
 
-Represents the collection of  **[Category](http://msdn.microsoft.com/library/143ef095-54b0-cbe2-e356-632029061ac2%28Office.15%29.aspx)** objects that define the Master Category List for a namespace.
+Represents the collection of **[Category](http://msdn.microsoft.com/library/143ef095-54b0-cbe2-e356-632029061ac2%28Office.15%29.aspx)** objects that define the Master Category List for a namespace.
 
 
 ## Remarks
 
-Microsoft Outlook provides a categorization system by which Outlook items can be easily identified and grouped into user-defined categories. The  **Categories** object represents the set of user-defined categories available to the user of a given mailbox.
+Microsoft Outlook provides a categorization system by which Outlook items can be easily identified and grouped into user-defined categories. The **Categories** object represents the set of user-defined categories available to the user of a given mailbox.
 
-Use the  **[Categories](http://msdn.microsoft.com/library/3963afca-3a7e-38d7-1347-7e1467be3a10%28Office.15%29.aspx)** property of the **[NameSpace](namespace-object-outlook.md)** object to obtain a **Categories** object reference, representing the Master Category List for that namespace.
+Use the **[Categories](http://msdn.microsoft.com/library/3963afca-3a7e-38d7-1347-7e1467be3a10%28Office.15%29.aspx)** property of the **[NameSpace](namespace-object-outlook.md)** object to obtain a **Categories** object reference, representing the Master Category List for that namespace.
 
-Use the  **[Add](http://msdn.microsoft.com/library/f776c2a2-1b32-f4eb-de5e-6e245a60cac2%28Office.15%29.aspx)** method to create a new **Category** object and append it to the collection. Use the **[Item](http://msdn.microsoft.com/library/7bdf22ec-7c77-1f1f-e4fd-77bdcc0ea288%28Office.15%29.aspx)** method to obtain a **Category** object reference for an existing category, and the **[Remove](http://msdn.microsoft.com/library/8c16b02e-0297-9f36-7cb7-20e6ab0c286b%28Office.15%29.aspx)** method to remove a **Category** object from the collection. Use the **[Count](http://msdn.microsoft.com/library/b78ff508-c5c2-515c-d5f4-f4ab959f207a%28Office.15%29.aspx)** property to return the number of categories contained in the collection.
+Use the **[Add](http://msdn.microsoft.com/library/f776c2a2-1b32-f4eb-de5e-6e245a60cac2%28Office.15%29.aspx)** method to create a new **Category** object and append it to the collection. Use the **[Item](http://msdn.microsoft.com/library/7bdf22ec-7c77-1f1f-e4fd-77bdcc0ea288%28Office.15%29.aspx)** method to obtain a **Category** object reference for an existing category, and the **[Remove](http://msdn.microsoft.com/library/8c16b02e-0297-9f36-7cb7-20e6ab0c286b%28Office.15%29.aspx)** method to remove a **Category** object from the collection. Use the **[Count](http://msdn.microsoft.com/library/b78ff508-c5c2-515c-d5f4-f4ab959f207a%28Office.15%29.aspx)** property to return the number of categories contained in the collection.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **Categories** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each **Category** object contained in the **Categories** collection associated with the default **[NameSpace](namespace-object-outlook.md)** object.
 
 
 ```

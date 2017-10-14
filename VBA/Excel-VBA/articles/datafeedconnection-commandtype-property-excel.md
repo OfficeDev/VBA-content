@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.CommandType Property (Excel)
 
-Returns or sets the command string for the specified data source.  **Variant** Read/Write
+Returns or sets the command string for the specified data source. **Variant** Read/Write
 
 
 ## Syntax

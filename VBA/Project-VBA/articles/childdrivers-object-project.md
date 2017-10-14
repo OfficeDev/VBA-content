@@ -8,17 +8,17 @@ ms.date: 06/08/2017
 
 # ChildDrivers Object (Project)
 
-The  **ChildDrivers** object is a collection of child **[Task](task-object-project.md)** objects that affect the task start date.
+The **ChildDrivers** object is a collection of child **[Task](task-object-project.md)** objects that affect the task start date.
  
 
 
 ## Remarks
 
-The  **ChildDrivers** collection supports the Task Drivers feature in Project.
+The **ChildDrivers** collection supports the Task Drivers feature in Project.
  
 
  
-Use the  **[Item](childdrivers-item-property-project.md)** property to get a single child task from the **ChildDrivers** collection.
+Use the **[Item](childdrivers-item-property-project.md)** property to get a single child task from the **ChildDrivers** collection.
  
 
  

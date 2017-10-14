@@ -26,7 +26,7 @@ BorderArt are picture borders that can be applied to text boxes, picture frames,
 
 ## Example
 
-Use the  **[BorderArt](shape-borderart-property-publisher.md)** property of a shape to return a **BorderArtFormat** object.
+Use the **[BorderArt](shape-borderart-property-publisher.md)** property of a shape to return a **BorderArtFormat** object.
  
 
  
@@ -44,7 +44,7 @@ Set bdaTemp = ActiveDocument.Pages(1).Shapes(1).BorderArt
 MsgBox "BorderArt name is: " &amp;bdaTemp.Name
 ```
 
-Use the  **[Set](borderartformat-set-method-publisher.md)** method to specify which type of BorderArt you want applied to a picture. The following example tests for the existence of BorderArt on each shape for each page of the active document. Any BorderArt found is set to the same type.
+Use the **[Set](borderartformat-set-method-publisher.md)** method to specify which type of BorderArt you want applied to a picture. The following example tests for the existence of BorderArt on each shape for each page of the active document. Any BorderArt found is set to the same type.
  
 
  
@@ -71,7 +71,7 @@ Next anyPage
 End Sub
 ```
 
-You can also use the  **[Name](borderartformat-name-property-publisher.md)** property to specify which type of BorderArt you want applied to a picture. The following example sets all the BorderArt in a document to the same type using the **Name** property.
+You can also use the **[Name](borderartformat-name-property-publisher.md)** property to specify which type of BorderArt you want applied to a picture. The following example sets all the BorderArt in a document to the same type using the **Name** property.
  
 
  
@@ -99,10 +99,10 @@ End Sub
 ```
 
 
- **Note**  Because  **Name** is the default property of both the **[BorderArt](borderart-object-publisher.md)** and **BorderArtFormat** objects, you do not need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)`is equivalent to  `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`
+ **Note**  Because **Name** is the default property of both the **[BorderArt](borderart-object-publisher.md)** and **BorderArtFormat** objects, you do not need to state it explicitly when setting the BorderArt type. The statement `Shape.BorderArtFormat = Document.BorderArts(1)`is equivalent to  `Shape.BorderArtFormat.Name = Document.BorderArts(1).Name`
  
 
-Use the  **[Delete](borderartformat-delete-method-publisher.md)** method to remove BorderArt from a picture. The following example tests for the existence of border art on each shape for each page of the active document. If border art exists, it is deleted.
+Use the **[Delete](borderartformat-delete-method-publisher.md)** method to remove BorderArt from a picture. The following example tests for the existence of border art on each shape for each page of the active document. If border art exists, it is deleted.
  
 
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.SourceData Property (Excel)
 
-Returns the data source for the PivotTable report, as shown in the following table. Read-write  **Variant** .
+Returns the data source for the PivotTable report, as shown in the following table. Read-write **Variant** .
 
 
 ## Syntax

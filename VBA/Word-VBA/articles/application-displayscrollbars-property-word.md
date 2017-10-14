@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **DisplayScrollBars** property to **True** displays horizontal and vertical scroll bars in all windows. Setting this property to **False** turns off all scroll bars in all windows.
+Setting the **DisplayScrollBars** property to **True** displays horizontal and vertical scroll bars in all windows. Setting this property to **False** turns off all scroll bars in all windows.
 
-Use the  **DisplayHorizontalScrollBar** and **DisplayVerticalScrollBar** properties to display individual scroll bars in the specified window.
+Use the **DisplayHorizontalScrollBar** and **DisplayVerticalScrollBar** properties to display individual scroll bars in the specified window.
 
 
 ## Example

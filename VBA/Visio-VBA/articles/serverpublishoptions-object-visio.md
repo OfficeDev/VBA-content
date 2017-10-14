@@ -18,6 +18,6 @@ Represents the settings to apply when you save a Web Drawing (as a .vdw file) to
 
 ## Remarks
 
-To get a  **ServerPublishOptions** object, you can use the **[ServerPublishOptions](document-serverpublishoptions-property-visio.md)** property of the **[Document](document-object-visio.md)** object.
+To get a **ServerPublishOptions** object, you can use the **[ServerPublishOptions](document-serverpublishoptions-property-visio.md)** property of the **[Document](document-object-visio.md)** object.
 
 

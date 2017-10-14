@@ -13,18 +13,18 @@ ms.date: 06/08/2017
 
 # CalculatedFields Object (Excel)
 
-A collection of  **[PivotField](pivotfield-object-excel.md)** objects that represents all the calculated fields in the specified PivotTable report.
+A collection of **[PivotField](pivotfield-object-excel.md)** objects that represents all the calculated fields in the specified PivotTable report.
 
 
 ## Remarks
 
 A report that contains Revenue and Expense fields could have a calculated field named "Profit" defined as the amount in the Revenue field minus the amount in the Expense field.
 
-For OLAP data sources, you cannot set this collection, and it always returns  **Nothing** .
+For OLAP data sources, you cannot set this collection, and it always returns **Nothing** .
 
-Use the  **[CalculatedFields](pivottable-calculatedfields-method-excel.md)** method to return the **CalculatedFields** collection .
+Use the **[CalculatedFields](pivottable-calculatedfields-method-excel.md)** method to return the **CalculatedFields** collection .
 
-Use  **CalculatedFields** ( _index_ ), where _index_ is specified field's name or index number, to return a single **PivotField** object from the **CalculatedFields** collection.
+Use **CalculatedFields** ( _index_ ), where _index_ is specified field's name or index number, to return a single **PivotField** object from the **CalculatedFields** collection.
 
 
 ## Example

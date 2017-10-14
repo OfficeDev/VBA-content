@@ -30,7 +30,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If you set the  **BorderColorType** property to **xlDataBarColor** , use the **[BorderColor](negativebarformat-bordercolor-property-excel.md)** of the **NegativeBarFormat** to return a **[FormatColor](formatcolor-object-excel.md)** object that you can use to specify the border color.
+If you set the **BorderColorType** property to **xlDataBarColor** , use the **[BorderColor](negativebarformat-bordercolor-property-excel.md)** of the **NegativeBarFormat** to return a **[FormatColor](formatcolor-object-excel.md)** object that you can use to specify the border color.
 
 
 ## See also

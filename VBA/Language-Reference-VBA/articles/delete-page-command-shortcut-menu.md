@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Delete Page Command (Shortcut Menu)
 
-Permanently deletes the selected page from the  **Toolbox**.
+Permanently deletes the selected page from the **Toolbox**.
 
 

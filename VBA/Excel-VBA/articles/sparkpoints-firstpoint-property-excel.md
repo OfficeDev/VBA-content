@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkPoints.Firstpoint Property (Excel)
 
-Returns a  **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the first point of data on a sparkline. Read-only
+Returns a **[SparkColor](sparkcolor-object-excel.md)** object that represents the color and visibility of the marker for the first point of data on a sparkline. Read-only
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a  **[SparkColor](sparkcolor-object-excel.md)** object that represents t
 
 ## Remarks
 
-The  **Firstpoint** property corresponds to the setting of the **First Point** check box in the **Show** section, and of the **First Point** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+The **Firstpoint** property corresponds to the setting of the **First Point** check box in the **Show** section, and of the **First Point** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also

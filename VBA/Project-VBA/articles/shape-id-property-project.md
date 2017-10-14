@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.ID Property (Project)
-Gets the identification type for the shape. Read-only  **Long**.
+Gets the identification type for the shape. Read-only **Long**.
 
 ## Syntax
 

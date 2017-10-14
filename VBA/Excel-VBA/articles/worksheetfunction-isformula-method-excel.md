@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorksheetFunction.IsFormula Method (Excel)
 
-Checks whether a reference is to a cell containing a formula, and returns  **TRUE** or **FALSE** .
+Checks whether a reference is to a cell containing a formula, and returns **TRUE** or **FALSE** .
 
 
 ## Syntax

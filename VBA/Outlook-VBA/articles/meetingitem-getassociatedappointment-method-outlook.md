@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.GetAssociatedAppointment Method (Outlook)
 
-Returns an  **[AppointmentItem](appointmentitem-object-outlook.md)** object that represents the appointment associated with the meeting request.
+Returns an **[AppointmentItem](appointmentitem-object-outlook.md)** object that represents the appointment associated with the meeting request.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Returns an  **[AppointmentItem](appointmentitem-object-outlook.md)** object that
 
 ### Return Value
 
-An  **AppointmentItem** object that represents the associated appointment.
+An **AppointmentItem** object that represents the associated appointment.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example finds a  **[MeetingItem](meetingitem-object-outlook.md)** in the default **Inbox** folder that has not been responded to yet and adds the associated appointment to the **Calendar** folder. It then responds to the sender by accepting the meeting.
+This Visual Basic for Applications (VBA) example finds a **[MeetingItem](meetingitem-object-outlook.md)** in the default **Inbox** folder that has not been responded to yet and adds the associated appointment to the **Calendar** folder. It then responds to the sender by accepting the meeting.
 
 
 ```vb

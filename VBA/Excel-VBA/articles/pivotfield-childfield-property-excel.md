@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ChildField Property (Excel)
 
-Returns a  **[PivotField](pivotfield-object-excel.md)** object that represents the child field for the specified field (if the field is grouped and has a child field). Read-only.
+Returns a **[PivotField](pivotfield-object-excel.md)** object that represents the child field for the specified field (if the field is grouped and has a child field). Read-only.
 
 
 ## Syntax

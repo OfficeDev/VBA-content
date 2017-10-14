@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Years.Count Property (Project)
 
-Gets the number of items in the  **Years** collection. Read-only **Integer**.
+Gets the number of items in the **Years** collection. Read-only **Integer**.
 
 
 ## Syntax
@@ -22,14 +22,14 @@ Gets the number of items in the  **Years** collection. Read-only **Integer**.
 
 ## Remarks
 
-The following statement prints 166 in the  **Immediate** pane of the VBE. The value is the number of years from 1984 to and including 2149.
+The following statement prints 166 in the **Immediate** pane of the VBE. The value is the number of years from 1984 to and including 2149.
 
 
 ```
 Print ActiveProject.Calendar.Years.Count
 ```
 
-Use of the  **Count** property in most collection objects is similar. For an example that uses the **Years** collection, see[Years Object](years-object-project.md).
+Use of the **Count** property in most collection objects is similar. For an example that uses the **Years** collection, see[Years Object](years-object-project.md).
 
 
 ## See also

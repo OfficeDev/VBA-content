@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # AnimationPoints Object (PowerPoint)
 
-Represents a collection of animation points for a  **[PropertyEffect](propertyeffect-object-powerpoint.md)** object.
+Represents a collection of animation points for a **[PropertyEffect](propertyeffect-object-powerpoint.md)** object.
 
 
 ## Example
 
-Use the [Points](propertyeffect-points-property-powerpoint.md)property of the  **[PropertyEffect](propertyeffect-object-powerpoint.md)** object to return an **AnimationPoints** collection object. The following example adds an animation point to the first behavior in the active presentation's main animation sequence.
+Use the [Points](propertyeffect-points-property-powerpoint.md)property of the **[PropertyEffect](propertyeffect-object-powerpoint.md)** object to return an **AnimationPoints** collection object. The following example adds an animation point to the first behavior in the active presentation's main animation sequence.
 
 
 ```vb

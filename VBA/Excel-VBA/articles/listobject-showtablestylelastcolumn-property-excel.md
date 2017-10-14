@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ShowTableStyleLastColumn Property (Excel)
 
-Returns or sets if the last column is displayed for the specified  **ListObject** object. Read/write **Boolean** .
+Returns or sets if the last column is displayed for the specified **ListObject** object. Read/write **Boolean** .
 
 
 ## Syntax

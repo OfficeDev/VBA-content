@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The  **Action** property value can be one of the following **PpActionType** constants.
+The **Action** property value can be one of the following **PpActionType** constants.
 
 
 ||
@@ -49,7 +49,7 @@ The  **Action** property value can be one of the following **PpActionType** cons
 |**ppActionPreviousSlide**|
 |**ppActionRunMacro**|
 |**ppActionRunProgram**|
-You can use the  **Action** property in conjunction with other properties of the **ActionSetting** object, as shown in the following table.
+You can use the **Action** property in conjunction with other properties of the **ActionSetting** object, as shown in the following table.
 
 
 

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example checks the  **UseDiffDiacColor** property before setting the color of diacritics in the current selection.
+This example checks the **UseDiffDiacColor** property before setting the color of diacritics in the current selection.
 
 
 ```vb

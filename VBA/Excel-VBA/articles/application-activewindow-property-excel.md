@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveWindow Property (Excel)
 
-Returns a  **[Window](window-object-excel.md)** object that represents the active window (the window on top). Read-only. Returns **Nothing** if there are no windows open.
+Returns a **[Window](window-object-excel.md)** object that represents the active window (the window on top). Read-only. Returns **Nothing** if there are no windows open.
 
 
 ## Syntax

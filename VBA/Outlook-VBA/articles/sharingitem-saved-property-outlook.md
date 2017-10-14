@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Saved Property (Outlook)
 
-Returns a  **Boolean** value that is **true** if the **[SharingItem](sharingitem-object-outlook.md)** has not been modified since the last save. Read-only.
+Returns a **Boolean** value that is **true** if the **[SharingItem](sharingitem-object-outlook.md)** has not been modified since the last save. Read-only.
 
 
 ## Syntax

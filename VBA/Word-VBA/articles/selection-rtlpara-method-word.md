@@ -27,7 +27,7 @@ Sets the reading order and alignment of the specified paragraphs to right-to-lef
 
 For all selected paragraphs, this method sets the reading order to right-to-left. If a paragraph with a left-to-right reading order is also left-aligned, this method reverses its reading order and sets its paragraph alignment to right-aligned.
 
-Use the  **ReadingOrder** property to change the reading order without affecting paragraph alignment.
+Use the **ReadingOrder** property to change the reading order without affecting paragraph alignment.
 
 
 ## Example

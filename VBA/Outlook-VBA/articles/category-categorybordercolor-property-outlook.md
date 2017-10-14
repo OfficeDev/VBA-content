@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Category.CategoryBorderColor Property (Outlook)
 
-Returns an  **OLE_COLOR** value that represents the border color of the color swatch displayed for a **[Category](category-object-outlook.md)** object. Read-only.
+Returns an **OLE_COLOR** value that represents the border color of the color swatch displayed for a **[Category](category-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns an  **OLE_COLOR** value that represents the border color of the color sw
 
 ## Remarks
 
-Setting the  **[Color](category-color-property-outlook.md)** property of the **Category** object to an **[OlCategoryColor](olcategorycolor-enumeration-outlook.md)** constant changes the value of this property, as well as the value of the **[CategoryGradientBottomColor](category-categorygradientbottomcolor-property-outlook.md)** and **[CategoryGradientTopColor](category-categorygradienttopcolor-property-outlook.md)** properties.
+Setting the **[Color](category-color-property-outlook.md)** property of the **Category** object to an **[OlCategoryColor](olcategorycolor-enumeration-outlook.md)** constant changes the value of this property, as well as the value of the **[CategoryGradientBottomColor](category-categorygradientbottomcolor-property-outlook.md)** and **[CategoryGradientTopColor](category-categorygradienttopcolor-property-outlook.md)** properties.
 
-This color should be used to display the border of a gradient-shaded color swatch for the  **Category** object.
+This color should be used to display the border of a gradient-shaded color swatch for the **Category** object.
 
 
 ## See also

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.Alignment Property (Publisher)
 
-Returns or sets a  **PbParagraphAlignmentType** constant that represents the alignment for the specified paragraphs. Read/write.
+Returns or sets a **PbParagraphAlignmentType** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
  _expression_. **Alignment**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ## Remarks
 
-The  **Alignment** property value can be one of the **[PbParagraphAlignmentType](pbparagraphalignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Alignment** property value can be one of the **[PbParagraphAlignmentType](pbparagraphalignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

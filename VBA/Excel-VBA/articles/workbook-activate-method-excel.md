@@ -25,7 +25,7 @@ Activates the first window associated with the workbook.
 
 ## Remarks
 
-This method won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](workbook-runautomacros-method-excel.md)** method to run those macros).
+This method won't run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the **[RunAutoMacros](workbook-runautomacros-method-excel.md)** method to run those macros).
 
 
 ## Example

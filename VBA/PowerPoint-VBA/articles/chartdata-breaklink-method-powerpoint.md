@@ -25,7 +25,7 @@ Removes the link between the data for a chart and a Microsoft Excel workbook.
 
 ## Remarks
 
-Calling this method sets the  **[IsLinked](chartdata-islinked-property-powerpoint.md)** property of the **ChartData** object to **False**.
+Calling this method sets the **[IsLinked](chartdata-islinked-property-powerpoint.md)** property of the **ChartData** object to **False**.
 
 
 ## Example
@@ -35,7 +35,7 @@ Calling this method sets the  **[IsLinked](chartdata-islinked-property-powerpoin
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example removes the link between the  **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
+The following example removes the link between the **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
 
 
 

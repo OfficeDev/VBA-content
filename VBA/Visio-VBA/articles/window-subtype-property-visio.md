@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SubType Property (Visio)
 
-Returns the subtype of a  **Window** object that represents a drawing window. Read-only.
+Returns the subtype of a **Window** object that represents a drawing window. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-If the  **Type** property of a **Window** object returns any value other than **visDrawing** , the **SubType** property returns the same value as the **Type** property. If the **Type** property of a **Window** object returns **visDrawing** , the **SubType** property returns one of the following values.
+If the **Type** property of a **Window** object returns any value other than **visDrawing** , the **SubType** property returns the same value as the **Type** property. If the **Type** property of a **Window** object returns **visDrawing** , the **SubType** property returns one of the following values.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.OnDeactivate Property (Access)
 
-Sets or returns the value of the  **On Deactivate** box in the **Properties** window of a form or report. Read/write **String**.
+Sets or returns the value of the **On Deactivate** box in the **Properties** window of a form or report. Read/write **String**.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ Sets or returns the value of the  **On Deactivate** box in the **Properties** wi
 
 This property is helpful for programmatically changing the action Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered.
 
-The  **Deactivate** event occurs when the form or report loses the focus to a Table, Query, Form, Report, Macro, or Module window, or to the Database window.
+The **Deactivate** event occurs when the form or report loses the focus to a Table, Query, Form, Report, Macro, or Module window, or to the Database window.
 
-The  **OnDeactivate** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Deactivate** box in the object's **Properties** window):
+The **OnDeactivate** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Deactivate** box in the object's **Properties** window):
 
 
 - If Expression Builder is chosen, the value will be "= _expression_", where  _expression_ is the expression from the Expression Builder window.
@@ -38,12 +38,12 @@ The  **OnDeactivate** value will be one of the following, depending on the selec
     
 - If Code Builder is chosen, the value will be "[Event Procedure]". 
     
-If the  **On Deactivate** box is blank, the property value is an empty string.
+If the **On Deactivate** box is blank, the property value is an empty string.
 
 
 ## Example
 
-The following example associates the  **Deactivate** event with the macro "Deactivate_Macro" for the "Order Entry" form.
+The following example associates the **Deactivate** event with the macro "Deactivate_Macro" for the "Order Entry" form.
 
 
 ```vb

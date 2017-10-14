@@ -25,7 +25,7 @@ Specifies the range that is currently being sorted on. Read-only.
 
 ## Remarks
 
-The key can either be a range name (String) or a  **Range** object.
+The key can either be a range name (String) or a **Range** object.
 
 
 ## See also

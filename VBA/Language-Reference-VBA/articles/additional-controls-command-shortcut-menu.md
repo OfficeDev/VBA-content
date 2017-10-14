@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Additional Controls Command (Shortcut Menu)
 
-Displays the  **Additional Controls** dialog box so that you can add controls.
+Displays the **Additional Controls** dialog box so that you can add controls.
 
 

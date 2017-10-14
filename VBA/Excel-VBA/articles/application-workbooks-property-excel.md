@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Workbooks Property (Excel)
 
-Returns a  **[Workbooks](workbooks-object-excel.md)** collection that represents all the open workbooks. Read-only.
+Returns a **[Workbooks](workbooks-object-excel.md)** collection that represents all the open workbooks. Read-only.
 
 
 ## Syntax
@@ -27,10 +27,10 @@ Returns a  **[Workbooks](workbooks-object-excel.md)** collection that represents
 
 Using this property without an object qualifier is equivalent to using `Application.Workbooks`.
 
-The collection returned by the  **Workbooks** property doesn't include open add-ins, which are a special kind of hidden workbook. You can, however, return a single open add-in if you know the file name. For example, `Workbooks("Oscar.xla")`will return the open add-in named "Oscar.xla" as a  **Workbook** object.
+The collection returned by the **Workbooks** property doesn't include open add-ins, which are a special kind of hidden workbook. You can, however, return a single open add-in if you know the file name. For example, `Workbooks("Oscar.xla")`will return the open add-in named "Oscar.xla" as a **Workbook** object.
 
 
- **Note**  A workbook displayed in a protected view window is not a member of the  **Workbooks** collection. Instead, use the **[Workbook](protectedviewwindow-workbook-property-excel.md)** property of the **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** object to access a workbook that is displayed in a protected view window.
+ **Note**  A workbook displayed in a protected view window is not a member of the **Workbooks** collection. Instead, use the **[Workbook](protectedviewwindow-workbook-property-excel.md)** property of the **[ProtectedViewWindow](protectedviewwindow-object-excel.md)** object to access a workbook that is displayed in a protected view window.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FirstSliceAngle Property
 
-Returns or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). Applies only to pie, 3-D pie, and doughnut charts. Read/write  **Long**.
+Returns or sets the angle of the first pie-chart or doughnut-chart slice, in degrees (clockwise from vertical). Applies only to pie, 3-D pie, and doughnut charts. Read/write **Long**.
 
 
 ## Example

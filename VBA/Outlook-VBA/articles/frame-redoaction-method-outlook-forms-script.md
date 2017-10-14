@@ -11,23 +11,23 @@ ms.date: 06/08/2017
 
 # Frame.RedoAction Method (Outlook Forms Script)
 
-Reverses the effect of the most recent  **Undo** action.
+Reverses the effect of the most recent **Undo** action.
 
 
 ## Syntax
 
  _expression_. **RedoAction**
 
- _expression_A variable that represents a  **Frame** object.
+ _expression_A variable that represents a **Frame** object.
 
 
 ### Return Value
 
-A  **Boolean** that specifies **True** if the method succeeds, **False** otherwise.
+A **Boolean** that specifies **True** if the method succeeds, **False** otherwise.
 
 
 ## Remarks
 
-Redo reverses the last  **Undo**, which is not necessarily the last action taken. Not all actions can be undone.
+Redo reverses the last **Undo**, which is not necessarily the last action taken. Not all actions can be undone.
 
 

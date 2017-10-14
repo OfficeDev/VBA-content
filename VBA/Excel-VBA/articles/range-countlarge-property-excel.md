@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CountLarge Property (Excel)
 
-Returns a value that represents the number of objects in the collection. Read-only  **Variant** .
+Returns a value that represents the number of objects in the collection. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a value that represents the number of objects in the collection. Read-on
 
 ## Remarks
 
-The  **CountLarge** property is functionally the same as the **[Count](range-count-property-excel.md)** property, except that the **Count** property will generate an overflow error if the specified range has more than 2,147,483,647 cells (one less than 2048 columns). The **CountLarge** property, however, can handle ranges up to the maximum size for a worksheet, which is 17,179,869,184 cells.
+The **CountLarge** property is functionally the same as the **[Count](range-count-property-excel.md)** property, except that the **Count** property will generate an overflow error if the specified range has more than 2,147,483,647 cells (one less than 2048 columns). The **CountLarge** property, however, can handle ranges up to the maximum size for a worksheet, which is 17,179,869,184 cells.
 
 
 ## See also

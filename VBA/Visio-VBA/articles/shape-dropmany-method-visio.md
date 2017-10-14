@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.DropMany Method (Visio)
 
-Creates one or more new  **Shape** objects in a group. It returns an array of the IDs of the **Shape** objects it produces.
+Creates one or more new **Shape** objects in a group. It returns an array of the IDs of the **Shape** objects it produces.
 
 
 ## Syntax
@@ -40,11 +40,11 @@ Integer
 
 ## Remarks
 
-Using the  **DropMany** method is like using the **Page** , **Master** , or **Shape** object's **Drop** method, except you can use the **DropMany** method to create many new **Shape** objects at once, rather than one per method call. The **DropMany** method creates new **Shape** objects on the page, in the master, or in the group shape to which it is applied (this shape is called the "target object" in the following discussion).
+Using the **DropMany** method is like using the **Page** , **Master** , or **Shape** object's **Drop** method, except you can use the **DropMany** method to create many new **Shape** objects at once, rather than one per method call. The **DropMany** method creates new **Shape** objects on the page, in the master, or in the group shape to which it is applied (this shape is called the "target object" in the following discussion).
 
-You can identify which master to drop by passing the  **DropMany** method a **Master** object or the master's index or the master's name. When you pass an object, **DropMany** isn't constrained to just dropping a master from the document stencil of the document onto which it is being dropped. The object can be a master from another document or another type of object.
+You can identify which master to drop by passing the **DropMany** method a **Master** object or the master's index or the master's name. When you pass an object, **DropMany** isn't constrained to just dropping a master from the document stencil of the document onto which it is being dropped. The object can be a master from another document or another type of object.
 
-Passing integers (master indices) or strings (master names) to  **DropMany** is faster than passing objects, but integers or strings can identify only masters in the document stencil of the document onto which it is being dropped. Hence your program has to somehow get the masters in question into the document stencil in the first place, provided they weren't there already.
+Passing integers (master indices) or strings (master names) to **DropMany** is faster than passing objects, but integers or strings can identify only masters in the document stencil of the document onto which it is being dropped. Hence your program has to somehow get the masters in question into the document stencil in the first place, provided they weren't there already.
 
  _ObjectsToInstance()_ should be a one-dimensional array of _n_ >= 1 variants. Its entries identify objects from which you want to make new **Shape** objects. An entry often refers to a Microsoft Visio application **Master** object. It might also refer to a Visio application **Shape** object, **Selection** object, or even an object from another application. The application doesn't care what the lower and upper array bounds of the _ObjectsToInstance_ entries are. Call these _vlb_ and _vub_ , respectively.
 
@@ -65,13 +65,13 @@ The  _xyArray()_ argument should be a one-dimensional array of 2 _m_ doubles wit
 
 Note that  _m_ > _n_ is allowed. For _n_ < _i_ <= _m_ , the _i_ 'th thing instanced is the same thing as the _n_ 'th thing instanced. Thus to make _m_ >= 1 instances of the same thing, you can pass an _ObjectsToInstance()_ array with one entry and an _m_ entry _xyArray()_ array.
 
-If the entity being instanced is a master, the pin of the new  **Shape** object is positioned at the given _xy_ . Otherwise, the center of the **Shape** objects is positioned at the given _xy_ .
+If the entity being instanced is a master, the pin of the new **Shape** object is positioned at the given _xy_ . Otherwise, the center of the **Shape** objects is positioned at the given _xy_ .
 
-The value returned by the  **DropMany** method is the number of _xy_ entries in _xyArray()_ that the **DropMany** method successfully processed. If all entries were processed successfully, _m_ is returned. If some entries are successfully processed prior to an error occurring, the produced **Shape** objects are not deleted and this raises an exception but still returns a positive value.
+The value returned by the **DropMany** method is the number of _xy_ entries in _xyArray()_ that the **DropMany** method successfully processed. If all entries were processed successfully, _m_ is returned. If some entries are successfully processed prior to an error occurring, the produced **Shape** objects are not deleted and this raises an exception but still returns a positive value.
 
 Presuming all  _m_ _xy_ entries are processed correctly, the number of new **Shape** objects produced by the **DropMany** method is usually equal to _m_ . In rare cases (for example, if a **Selection** object gets instanced), more than _m_**Shape** objects may be produced. The caller can determine the number of produced **Shape** objects by comparing the number of shapes in the target object before and after the **DropMany** method is executed. The caller can assert the new **Shape** objects are those with the highest indices in the target object's **Shapes** collection.
 
-If the  **DropMany** method returns zero (0), _IDArray()_ returns **Null** ( **Nothing** ). Otherwise, it returns a one-dimensional array of _m_ integers indexed from 0 to _m_ - 1. _IDArray()_ is an out parameter that is allocated by the **DropMany** method and ownership is passed to the program that called the **DropMany** method. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Visual Basic for Applications take care of this for you.)
+If the **DropMany** method returns zero (0), _IDArray()_ returns **Null** ( **Nothing** ). Otherwise, it returns a one-dimensional array of _m_ integers indexed from 0 to _m_ - 1. _IDArray()_ is an out parameter that is allocated by the **DropMany** method and ownership is passed to the program that called the **DropMany** method. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Visual Basic for Applications take care of this for you.)
 
 If  _IDArray()_ returns non- **null** (not **Nothing** ), _IDArray_( _i_ - 1), 1 <= _i_ <= _intReturned_ , returns the ID of the **Shape** object produced by the _i_ 'th _xyArray_ entry, provided the _i_ 'th _xyArray()_ entry produced exactly one **Shape** object. If the _i_ 'th _xyArray()_ entry produced multiple **Shape** objects, -1 is returned in the entry. All entries _i_ , _intReturned_ <= _i_ < _m_ , return -1.
 
@@ -85,7 +85,7 @@ If  _IDArray()_ returns non- **null** (not **Nothing** ), _IDArray_( _i_ - 1), 1
 
 ## Example
 
-The following example shows how to use the  **DropMany** method. It drops one instance of every master in the document stencil of the macro's **Document** object onto Page1 of the macro's **Document** object. Before running this macro, make sure there is at least one master in the document stencil.
+The following example shows how to use the **DropMany** method. It drops one instance of every master in the document stencil of the macro's **Document** object onto Page1 of the macro's **Document** object. Before running this macro, make sure there is at least one master in the document stencil.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.Cells Property (PowerPoint)
 
-Returns a  **[CellRange](cellrange-object-powerpoint.md)** collection that represents the cells in a table column or row. Read-only.
+Returns a **[CellRange](cellrange-object-powerpoint.md)** collection that represents the cells in a table column or row. Read-only.
 
 
 ## Syntax

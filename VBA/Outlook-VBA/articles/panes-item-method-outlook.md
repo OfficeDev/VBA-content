@@ -33,7 +33,7 @@ Returns a pane from a collection.
 
 ### Return Value
 
-An  **Object** value that represents the specified object.
+An **Object** value that represents the specified object.
 
 
 ## See also

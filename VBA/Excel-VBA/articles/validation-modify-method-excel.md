@@ -29,15 +29,15 @@ Modifies data validation for a range.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|An  **XlDVType** value that represents the validation type.|
-| _AlertStyle_|Optional| **Variant**|An  **[XlDVAlertStyle](xldvalertstyle-enumeration-excel.md)** value that represents the validation alert style.|
-| _Operator_|Optional| **Variant**|An  **[XlFormatConditionOperator](xlformatconditionoperator-enumeration-excel.md)** value that represents the data validation operator.|
+| _Type_|Optional| **Variant**|An **XlDVType** value that represents the validation type.|
+| _AlertStyle_|Optional| **Variant**|An **[XlDVAlertStyle](xldvalertstyle-enumeration-excel.md)** value that represents the validation alert style.|
+| _Operator_|Optional| **Variant**|An **[XlFormatConditionOperator](xlformatconditionoperator-enumeration-excel.md)** value that represents the data validation operator.|
 | _Formula1_|Optional| **Variant**|The first part of the data validation equation.|
-| _Formula2_|Optional| **Variant**|The second part of the data validation when  **Operator** is **xlBetween** or **xlNotBetween** ; otherwise, this argument is ignored.|
+| _Formula2_|Optional| **Variant**|The second part of the data validation when **Operator** is **xlBetween** or **xlNotBetween** ; otherwise, this argument is ignored.|
 
 ## Remarks
 
-The  **Modify** method requires different arguments, depending on the validation type, as shown in the following table.
+The **Modify** method requires different arguments, depending on the validation type, as shown in the following table.
 
 
 

@@ -30,6 +30,6 @@ Nothing
 
 ## Remarks
 
-The type of glue associated with the endpoints is also swapped. For example, if the begin point of a 1-D shape is glued to object A and the endpoint of the 1-D shape is not glued, after invoking the  **SwapEnds** method, the endpoint is glued to object A and the begin point is not glued.
+The type of glue associated with the endpoints is also swapped. For example, if the begin point of a 1-D shape is glued to object A and the endpoint of the 1-D shape is not glued, after invoking the **SwapEnds** method, the endpoint is glued to object A and the begin point is not glued.
 
 

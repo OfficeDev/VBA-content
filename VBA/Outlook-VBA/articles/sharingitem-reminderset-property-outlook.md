@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReminderSet Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **true** if a reminder has been set for the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a **Boolean** value that is **true** if a reminder has been set for the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax

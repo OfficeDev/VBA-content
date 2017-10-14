@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Caption Property (Excel)
 
-Returns or sets a  **Variant** value that represents the name that appears in the title bar of the document window.
+Returns or sets a **Variant** value that represents the name that appears in the title bar of the document window.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **Variant** value that represents the name that appears in th
 
 ## Remarks
 
-When you set the name, you can use that name as the index to the  **[Windows](windows-object-excel.md)** collection (as demonstrated in the example.)
+When you set the name, you can use that name as the index to the **[Windows](windows-object-excel.md)** collection (as demonstrated in the example.)
 
 
 ## Example
 
-This example sets the name of the first window in the active workbook to be "Consolidated Balance Sheet." This name is then used as the index to that window in the  **Windows** collection.
+This example sets the name of the first window in the active workbook to be "Consolidated Balance Sheet." This name is then used as the index to that window in the **Windows** collection.
 
 
 ```vb

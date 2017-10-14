@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether high-quality rendering is enabled in
 
  _expression_. **HighQualityRender**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -29,7 +29,7 @@ Gets or sets a value that indicates whether high-quality rendering is enabled in
 
 High-quality rendering is slower but produces output that looks better.
 
-The default is for high-quality rendering to be enabled (property value set to  **True**).
+The default is for high-quality rendering to be enabled (property value set to **True**).
 
 
 ## Example

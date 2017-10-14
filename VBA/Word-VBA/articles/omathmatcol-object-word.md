@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatCol Object (Word)
 
-Represents a matrix column. The  **OMathMatCol** is a member of the **OMathMatCols** collection.
+Represents a matrix column. The **OMathMatCol** is a member of the **OMathMatCols** collection.
 
 
 ## See also

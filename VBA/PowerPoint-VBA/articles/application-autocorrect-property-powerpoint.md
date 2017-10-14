@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AutoCorrect Property (PowerPoint)
 
-Returns an  **[AutoCorrect](autocorrect-object-powerpoint.md)** object that represents the AutoCorrect functionality in Microsoft PowerPoint.
+Returns an **[AutoCorrect](autocorrect-object-powerpoint.md)** object that represents the AutoCorrect functionality in Microsoft PowerPoint.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ AutoCorrect
 
 ## Example
 
-The following example disables display of the  **AutoCorrect Options** and **AutoLayout Options** buttons.
+The following example disables display of the **AutoCorrect Options** and **AutoLayout Options** buttons.
 
 
 ```vb

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ScreenUpdating Property (Publisher)
 
-Returns or sets a  **Boolean** indicating whether Microsoft Publisher refreshes the screen display during run time; **True** to refresh the screen display. Read/write.
+Returns or sets a **Boolean** indicating whether Microsoft Publisher refreshes the screen display during run time; **True** to refresh the screen display. Read/write.
 
 
 ## Syntax
 
  _expression_. **ScreenUpdating**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # View.Screen Property (Project)
 
-Gets the screen type for the view. Read-only  **PjViewScreen**.
+Gets the screen type for the view. Read-only **PjViewScreen**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the screen type for the view. Read-only  **PjViewScreen**.
 
 ## Remarks
 
-The  **Screen** property can be one of the **[PjViewScreen](pjviewscreen-enumeration-project.md)** constants.
+The **Screen** property can be one of the **[PjViewScreen](pjviewscreen-enumeration-project.md)** constants.
 
 

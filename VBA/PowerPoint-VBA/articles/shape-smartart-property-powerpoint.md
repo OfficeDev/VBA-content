@@ -25,7 +25,7 @@ Returns a Microsoft Office [SmartArt](http://msdn.microsoft.com/library/24332c9b
 
 ## Remarks
 
-The returned Microsoft Office  **SmartArt** object replaces the PowerPoint **Diagram** object, which is deprecated as of PowerPoint.
+The returned Microsoft Office **SmartArt** object replaces the PowerPoint **Diagram** object, which is deprecated as of PowerPoint.
 
 
 ## See also

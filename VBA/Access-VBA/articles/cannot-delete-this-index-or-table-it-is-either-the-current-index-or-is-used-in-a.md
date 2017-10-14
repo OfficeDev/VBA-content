@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-If the index or table is used in a relationship, you must delete the relationship before you can delete the index or table. If the index is specified as the current index by the  **Index** property, you must set the property to a different index before you can delete the index.
+If the index or table is used in a relationship, you must delete the relationship before you can delete the index or table. If the index is specified as the current index by the **Index** property, you must set the property to a different index before you can delete the index.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

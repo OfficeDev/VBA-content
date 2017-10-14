@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ShowTotals Property (Excel)
 
-Gets or sets a  **Boolean** to indicate whether the Total row is visible. Read/write **Boolean** .
+Gets or sets a **Boolean** to indicate whether the Total row is visible. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets a  **Boolean** to indicate whether the Total row is visible. Read/w
 
 ## Example
 
-The following code sample displays the current setting of the  **ShowTotals** property of the default list in Sheet1 of the active workbook.
+The following code sample displays the current setting of the **ShowTotals** property of the default list in Sheet1 of the active workbook.
 
 
 ```vb

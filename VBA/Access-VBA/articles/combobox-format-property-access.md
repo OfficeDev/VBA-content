@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.Format Property (Access)
 
-You can use the  **Format** property to customize the way numbers, dates, times, and text are displayed and printed. Read/write **String**.
+You can use the **Format** property to customize the way numbers, dates, times, and text are displayed and printed. Read/write **String**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ You can use the  **Format** property to customize the way numbers, dates, times,
 
 You can use one of the predefined formats or you can create a custom format by using formatting symbols.
 
-The  **Format** property uses different settings for different data types. For information about settings for a specific data type, see one of the following topics:
+The **Format** property uses different settings for different data types. For information about settings for a specific data type, see one of the following topics:
 
 
 - [Date/Time Data Type](format-propertydate-time-data-type.md)
@@ -40,11 +40,11 @@ The  **Format** property uses different settings for different data types. For i
     
 In Visual Basic, enter a string expression that corresponds to one of the predefined formats or enter a custom format.
 
-The  **Format** property affects only how data is displayed. It doesn't affect how data is stored.
+The **Format** property affects only how data is displayed. It doesn't affect how data is stored.
 
-Microsoft Access provides predefined formats for Date/Time, Number and Currency, Text and Memo, and Yes/No data types. The predefined formats depend on the country/region specified by double-clicking Regional Options in Windows Control Panel. Microsoft Access displays formats appropriate for the country/region selected. For example, with  **English (United States)** selected on the **General** tab, 1234.56 in the Currency format appears as $1,234.56, but when **English (British)** is selected on the **General** tab, the number appears as ?1,234.56.
+Microsoft Access provides predefined formats for Date/Time, Number and Currency, Text and Memo, and Yes/No data types. The predefined formats depend on the country/region specified by double-clicking Regional Options in Windows Control Panel. Microsoft Access displays formats appropriate for the country/region selected. For example, with **English (United States)** selected on the **General** tab, 1234.56 in the Currency format appears as $1,234.56, but when **English (British)** is selected on the **General** tab, the number appears as ?1,234.56.
 
-If you set a field's  **Format** property in table Design view, Microsoft Access uses that format to display data in datasheets. It also applies the field's **Format** property to new controls on forms and reports.
+If you set a field's **Format** property in table Design view, Microsoft Access uses that format to display data in datasheets. It also applies the field's **Format** property to new controls on forms and reports.
 
 You can use the following symbols in custom formats for any data type.
 
@@ -60,12 +60,12 @@ You can use the following symbols in custom formats for any data type.
 |[ _color_ ]|Display the formatted data in the color specified between the brackets. Available colors: Black, Blue, Green, Cyan, Red, Magenta, Yellow, White.|
 You can't mix custom formatting symbols for the Number and Currency data types with Date/Time, Yes/No, or Text and Memo formatting symbols.
 
-When you have defined an input mask and set the  **Format** property for the same data, the **Format** property takes precedence when the data is displayed and the input mask is ignored. For example, if you create a Password input mask in table Design view and also set the **Format** property for the same field, either in the table or in a control on a form, the Password input mask is ignored and the data is displayed according to the **Format** property.
+When you have defined an input mask and set the **Format** property for the same data, the **Format** property takes precedence when the data is displayed and the input mask is ignored. For example, if you create a Password input mask in table Design view and also set the **Format** property for the same field, either in the table or in a control on a form, the Password input mask is ignored and the data is displayed according to the **Format** property.
 
 
 ## Example
 
-The following three examples set the  **Format** property by using a predefined format:
+The following three examples set the **Format** property by using a predefined format:
 
 
 ```vb
@@ -76,7 +76,7 @@ Me!Time.Format = "Long Time"
 Me!Registered.Format = "Yes/No"
 ```
 
-The next example sets the  **Format** property by using a custom format. This format displays a date as: Jan 2006.
+The next example sets the **Format** property by using a custom format. This format displays a date as: Jan 2006.
 
 
 
@@ -85,7 +85,7 @@ The next example sets the  **Format** property by using a custom format. This fo
 Forms!Employees!HireDate.Format = "mmm yyyy"
 ```
 
-The following example demonstrates a Visual Basic function that formats numeric data by using the Currency format and formats text data entirely in capital letters. The function is called from the  **OnLostFocus** event of an unbound control named TaxRefund.
+The following example demonstrates a Visual Basic function that formats numeric data by using the Currency format and formats text data entirely in capital letters. The function is called from the **OnLostFocus** event of an unbound control named TaxRefund.
 
 
 

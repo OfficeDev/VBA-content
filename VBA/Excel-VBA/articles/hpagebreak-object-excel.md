@@ -18,7 +18,7 @@ Represents a horizontal page break.
 
 ## Remarks
 
-The  **HPageBreak** object is a member of the **[HPageBreaks](hpagebreaks-object-excel.md)** collection.
+The **HPageBreak** object is a member of the **[HPageBreaks](hpagebreaks-object-excel.md)** collection.
 
 
  **Note**  There is a limit of 1026 horizontal page breaks per sheet.
@@ -26,7 +26,7 @@ The  **HPageBreak** object is a member of the **[HPageBreaks](hpagebreaks-object
 
 ## Example
 
-Use  **[HPageBreaks](worksheets-hpagebreaks-property-excel.md)** ( _index_ ), where _index_ is the index number of the page break, to return an **HPageBreak** object. The following example changes the location of horizontal page break one.
+Use **[HPageBreaks](worksheets-hpagebreaks-property-excel.md)** ( _index_ ), where _index_ is the index number of the page break, to return an **HPageBreak** object. The following example changes the location of horizontal page break one.
 
 
 ```vb

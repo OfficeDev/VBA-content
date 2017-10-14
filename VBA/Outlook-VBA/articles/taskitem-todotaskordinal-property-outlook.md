@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.ToDoTaskOrdinal Property (Outlook)
 
-Returns or sets a  **Date** value that represents the ordinal value of the task for the **[TaskItem](taskitem-object-outlook.md)** . Read/write.
+Returns or sets a **Date** value that represents the ordinal value of the task for the **[TaskItem](taskitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the ordinal value of the task 
 
 ## Remarks
 
-This property is used to indicate how the task should be ordered within the parent groups, such as the  **Today** group or the **Tomorrow** group, of the **To-Do Bar**.
+This property is used to indicate how the task should be ordered within the parent groups, such as the **Today** group or the **Tomorrow** group, of the **To-Do Bar**.
 
 
 ## See also

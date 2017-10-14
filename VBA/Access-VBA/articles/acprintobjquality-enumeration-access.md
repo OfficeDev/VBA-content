@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintObjQuality Enumeration (Access)
 
-Used with the  **PrintQuality** property to specify the resolution at which the specified printer should print jobs.
+Used with the **PrintQuality** property to specify the resolution at which the specified printer should print jobs.
 
 
 

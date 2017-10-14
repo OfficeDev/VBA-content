@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EndnoteOptions.NumberStyle Property (Word)
 
-Returns or sets the number style for the endnotes. Read/write  **WdNoteNumberStyle** .
+Returns or sets the number style for the endnotes. Read/write **WdNoteNumberStyle** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number style for the endnotes. Read/write  **WdNoteNumberSty
 
 ## Remarks
 
-Some of the  **WdNoteNumberStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdNoteNumberStyle** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## See also

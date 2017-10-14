@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Subproject.SourceProject Property (Project)
 
-Gets a  **[Project](project-object-project.md)** object representing the master project. Read-only **Project**.
+Gets a **[Project](project-object-project.md)** object representing the master project. Read-only **Project**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.PivotLayout Property (Excel)
 
-Returns a  **[PivotLayout](pivotlayout-object-excel.md)** object that represents the placement of fields in a PivotTable report and the placement of axes in a PivotChart report. Read-only.
+Returns a **[PivotLayout](pivotlayout-object-excel.md)** object that represents the placement of fields in a PivotTable report and the placement of axes in a PivotChart report. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[PivotLayout](pivotlayout-object-excel.md)** object that represents
 
 ## Remarks
 
-If the chart you specify isn't a PivotChart report, the value of this property is  **Nothing** .
+If the chart you specify isn't a PivotChart report, the value of this property is **Nothing** .
 
 
 ## Example

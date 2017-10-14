@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.ResourceTables Property (Project)
 
-Gets a  **[Tables](tables-object-project.md)** collection that contains the resource tables of the project. Read-only **Tables**.
+Gets a **[Tables](tables-object-project.md)** collection that contains the resource tables of the project. Read-only **Tables**.
 
 
 ## Syntax

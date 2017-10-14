@@ -20,12 +20,12 @@ Deletes a Web navigation bar set and all instances of it in the current document
 
  _expression_. **DeleteSetAndInstances**
 
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ _expression_A variable that represents a **WebNavigationBarSet** object.
 
 
 ## Example
 
-The following example iterates through the  **WebNavigationBarSets** collection and deletes each set from the active document.
+The following example iterates through the **WebNavigationBarSets** collection and deletes each set from the active document.
 
 
 ```vb

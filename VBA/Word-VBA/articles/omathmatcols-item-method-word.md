@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatCols.Item Method (Word)
 
-Returns an  **OMathMatCol** object that represents the specified item in the collection.
+Returns an **OMathMatCol** object that represents the specified item in the collection.
 
 
 ## Syntax

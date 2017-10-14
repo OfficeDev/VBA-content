@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Information Property (Word)
 
-Returns information about the specified selection. Read-only  **Variant** .
+Returns information about the specified selection. Read-only **Variant** .
 
 
 ## Syntax

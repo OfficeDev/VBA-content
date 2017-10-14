@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.TooltipText Property (Office)
 
-Gets or sets the text displayed in a  **CommandBarControl's** **ScreenTip**. Read/write.
+Gets or sets the text displayed in a **CommandBarControl's** **ScreenTip**. Read/write.
 
 
 ## 
@@ -33,12 +33,12 @@ String
 
 ## Remarks
 
-By default, the value of the  **Caption** property is used as the **ScreenTip**.
+By default, the value of the **Caption** property is used as the **ScreenTip**.
 
 
 ## Example
 
-This example adds a  **ScreenTip** to the last control on the active menu bar.
+This example adds a **ScreenTip** to the last control on the active menu bar.
 
 
 ```

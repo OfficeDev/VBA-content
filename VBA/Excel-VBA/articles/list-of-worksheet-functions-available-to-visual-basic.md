@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # List of Worksheet Functions Available to Visual Basic
 
-The following list represents all of the worksheet functions that can be called using the  **WorkSheetFunction** object. For more information about a particular function, see the [Function Reference](http://office.microsoft.com/en-us/excel-help/list-of-worksheet-functions-by-category-HP010079186.aspx) topic on the Office Web site.
+The following list represents all of the worksheet functions that can be called using the **WorkSheetFunction** object. For more information about a particular function, see the [Function Reference](http://office.microsoft.com/en-us/excel-help/list-of-worksheet-functions-by-category-HP010079186.aspx) topic on the Office Web site.
 
 AccrInt
 

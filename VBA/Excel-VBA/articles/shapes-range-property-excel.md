@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.Range Property (Excel)
 
-Returns a  **[ShapeRange](shaperange-object-excel.md)** object that represents a subset of the shapes in a **Shapes** collection.
+Returns a **[ShapeRange](shaperange-object-excel.md)** object that represents a subset of the shapes in a **Shapes** collection.
 
 
 ## Syntax
@@ -33,13 +33,13 @@ Returns a  **[ShapeRange](shaperange-object-excel.md)** object that represents a
 
 ## Remarks
 
-Although you can use the  **[Range](shapes-range-property-excel.md)** property to return any number of shapes, it's simpler to use the **[Item](shapes-item-method-excel.md)** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
+Although you can use the **[Range](shapes-range-property-excel.md)** property to return any number of shapes, it's simpler to use the **[Item](shapes-item-method-excel.md)** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
-To specify an array of integers or strings for  **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
  `Dim arShapes() As Variant Dim objRange As Object arShapes = Array("Oval 4", "Rectangle 5") Set objRange = ActiveSheet.Shapes.Range(arShapes)`
 
-In Microsoft Excel, you cannot use this property to return a  **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code:
+In Microsoft Excel, you cannot use this property to return a **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code:
 
  `Worksheets(1).Shapes.SelectAll ' select all shapes set sr = Selection.ShapeRange ' create ShapeRange`
 

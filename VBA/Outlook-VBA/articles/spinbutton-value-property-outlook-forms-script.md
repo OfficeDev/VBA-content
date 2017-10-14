@@ -8,18 +8,18 @@ ms.date: 06/08/2017
 
 # SpinButton.Value Property (Outlook Forms Script)
 
-Returns or sets a  **Variant** that specifies the state of a **[SpinButton](spinbutton-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a **Variant** that specifies the state of a **[SpinButton](spinbutton-object-outlook-forms-script.md)**. Read/write.
 
 
 ## Syntax
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **SpinButton** object.
+ _expression_A variable that represents a **SpinButton** object.
 
 
 ## Remarks
 
-The  **Value** property is an integer between the values specified for the **[Max](spinbutton-max-property-outlook-forms-script.md)** and **[Min](spinbutton-min-property-outlook-forms-script.md)** properties.
+The **Value** property is an integer between the values specified for the **[Max](spinbutton-max-property-outlook-forms-script.md)** and **[Min](spinbutton-min-property-outlook-forms-script.md)** properties.
 
 

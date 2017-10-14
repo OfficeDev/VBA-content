@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Retrieve a List of Installed Printers
 
-You use the  **[Printers](application-printers-property-access.md)** property of the **[Application](application-object-access.md)** object to return the **[Printers](printers-object-access.md)** collection. The following procedure illustrates how to enumerate through each **Printer** object in the **Printers** collection by using a **For Each…Next** statement. A message box is displayed with information about each installed printer.
+You use the **[Printers](application-printers-property-access.md)** property of the **[Application](application-object-access.md)** object to return the **[Printers](printers-object-access.md)** collection. The following procedure illustrates how to enumerate through each **Printer** object in the **Printers** collection by using a **For Each…Next** statement. A message box is displayed with information about each installed printer.
 
 
 ```vb

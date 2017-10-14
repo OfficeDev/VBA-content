@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # String <keyword>
 
-The  **String** keyword is used in these contexts:
+The **String** keyword is used in these contexts:
 
 [String Data Type](string-data-type.md)
 

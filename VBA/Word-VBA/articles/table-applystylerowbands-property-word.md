@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.ApplyStyleRowBands Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to apply style bands to the rows in a table if an applied preset table style provides style banding for rows. Read/write.
+Returns or sets a **Boolean** that represents whether to apply style bands to the rows in a table if an applied preset table style provides style banding for rows. Read/write.
 
 
 ## Syntax

@@ -43,7 +43,7 @@ The Microsoft Excel 4.0 macro isn't evaluated in the context of the current work
 
 ## Example
 
-This example runs the  **GET.CELL(42)** macro function on cell C3 on Sheet1 and then displays the result in a message box. The **GET.CELL(42)** macro function returns the horizontal distance from the left edge of the active window to the left edge of the active cell. This macro function has no direct Visual Basic equivalent.
+This example runs the **GET.CELL(42)** macro function on cell C3 on Sheet1 and then displays the result in a message box. The **GET.CELL(42)** macro function returns the horizontal distance from the left edge of the active window to the left edge of the active cell. This macro function has no direct Visual Basic equivalent.
 
 
 ```vb

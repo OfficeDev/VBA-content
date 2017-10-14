@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Resource.WindowsUserAccount Property (Project)
 
-Gets or sets the user account for Microsoft Windows authentication of the resource. Read/write  **String**.
+Gets or sets the user account for Microsoft Windows authentication of the resource. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the user account for Microsoft Windows authentication of the resour
 
 ## Remarks
 
-The  **WindowsUserAccount** value is in the format of _"Domain name\User name"_, where _Domain name_ is the name of the Windows domain and _User name_ is the logon name of the user.
+The **WindowsUserAccount** value is in the format of _"Domain name\User name"_, where _Domain name_ is the name of the Windows domain and _User name_ is the logon name of the user.
 
 

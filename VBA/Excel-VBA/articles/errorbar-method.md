@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Applies error bars to the specified series. Variant.
 
- _expression_. **ErrorBar**( **_Direction_**,  **_Include_**,  **_Type_**,  **_Amount_**,  **_MinusValues_**)
+ _expression_. **ErrorBar**( **_Direction_**, **_Include_**, **_Type_**, **_Amount_**, **_MinusValues_**)
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
@@ -48,8 +48,8 @@ Applies error bars to the specified series. Variant.
 | **xlErrorBarTypePercent**|
 | **xlErrorBarTypeStDev**|
 | **xlErrorBarTypeStError**|
- **Amount** Optional **Variant**. The error amount. Used for only the positive error amount when  **_Type_** is **xlErrorBarTypeCustom**.
- **MinusValues** Optional **Variant**. The negative error amount when  **_Type_** is **xlErrorBarTypeCustom**.
+ **Amount** Optional **Variant**. The error amount. Used for only the positive error amount when **_Type_** is **xlErrorBarTypeCustom**.
+ **MinusValues** Optional **Variant**. The negative error amount when **_Type_** is **xlErrorBarTypeCustom**.
 
 ## Example
 

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When you select a range that contains merged cells, the resulting selection may be different from the intended selection. Use the  **[Address](range-address-property-excel.md)** property to check the address of the selected range.
+When you select a range that contains merged cells, the resulting selection may be different from the intended selection. Use the **[Address](range-address-property-excel.md)** property to check the address of the selected range.
 
 
 ## Example

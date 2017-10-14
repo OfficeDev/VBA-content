@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandButton.CursorOnHover Property (Access)
 
-Gets or sets the type of mouse cursor displayed when the user rests the pointer on a button. Read/write  **[AcCursorOnHover](accursoronhover-enumeration-access.md)**.
+Gets or sets the type of mouse cursor displayed when the user rests the pointer on a button. Read/write **[AcCursorOnHover](accursoronhover-enumeration-access.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the type of mouse cursor displayed when the user rests the pointer 
 
 ## Remarks
 
-Setting the  **CursorOnHover** property to **acCursorOnHoverHyperlinkHand** can be useful when a button's **BackStyle** property is set to Transparent.
+Setting the **CursorOnHover** property to **acCursorOnHoverHyperlinkHand** can be useful when a button's **BackStyle** property is set to Transparent.
 
 
 ## See also

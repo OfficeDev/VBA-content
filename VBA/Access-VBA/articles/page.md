@@ -15,9 +15,9 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-A  **Page** object corresponds to an individual page on a tab control.
+A **Page** object corresponds to an individual page on a tab control.
 
-Each  **Page** object can contain one or more controls, such as text boxes or option buttons. Controls on a **Page** object belong to that **Page** object's **Controls** collection. In order to work with a control on a **Page** object, you must refer to that control within the **Page** object's **Control** collection.
+Each **Page** object can contain one or more controls, such as text boxes or option buttons. Controls on a **Page** object belong to that **Page** object's **Controls** collection. In order to work with a control on a **Page** object, you must refer to that control within the **Page** object's **Control** collection.
 With the tab control, you can construct a single form or dialog box that contains several different tabs, and you can group similar options or data on each tab's page. For example, you might use a tab control on an Employees form to separate general and personal information.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

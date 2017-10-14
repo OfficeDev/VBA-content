@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.ReadingOrder Property (Word)
 
-Returns or sets the reading order of the specified paragraphs without changing their alignment. Read/write  **WdReadingOrder** .
+Returns or sets the reading order of the specified paragraphs without changing their alignment. Read/write **WdReadingOrder** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the reading order of the specified paragraphs without changing t
 
 ## Remarks
 
-Use the  **[LtrPara](selection-ltrpara-method-word.md)** , **[LtrRun](selection-ltrrun-method-word.md)** , **[RtlPara](selection-rtlpara-method-word.md)** , and **[RtlRun](selection-rtlrun-method-word.md)** methods of the **[Selection](selection-object-word.md)** object to change the paragraph alignment along with the reading order.
+Use the **[LtrPara](selection-ltrpara-method-word.md)** , **[LtrRun](selection-ltrrun-method-word.md)** , **[RtlPara](selection-rtlpara-method-word.md)** , and **[RtlRun](selection-rtlrun-method-word.md)** methods of the **[Selection](selection-object-word.md)** object to change the paragraph alignment along with the reading order.
 
 
 ## Example

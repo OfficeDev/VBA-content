@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.DisplayAutoLayoutOptions Property (PowerPoint)
 
-Determines whether Microsoft PowerPoint should display the  **AutoLayout Options** button. Read/write.
+Determines whether Microsoft PowerPoint should display the **AutoLayout Options** button. Read/write.
 
 
 ## Syntax
@@ -30,18 +30,18 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **DisplayAutoLayoutOptions** property can be one of these **MsoTriState** constants.
+The value of the **DisplayAutoLayoutOptions** property can be one of these **MsoTriState** constants.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
-|**msoFalse**|Do not display the  **AutoLayout Options** button.|
+|**msoFalse**|Do not display the **AutoLayout Options** button.|
 |**msoTrue**| Display the **AutoLayout Options** button.|
 
 ## Example
 
-This example disables display of the  **AutoCorrect Options** and **AutoLayout Options** buttons.
+This example disables display of the **AutoCorrect Options** and **AutoLayout Options** buttons.
 
 
 ```vb

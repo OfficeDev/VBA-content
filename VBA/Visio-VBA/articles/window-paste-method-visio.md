@@ -27,11 +27,11 @@ Version Added: Visio 2.0
 
 ## Remarks
 
-The  **Window** object's **Paste** method is now obsolete. Use the **Paste** or **PasteSpecial** method of the[Page](page-object-visio.md), [Master](master-object-visio.md), or [Shape](shape-object-visio.md) object. (Use the **Shape** object in the case of group shapes.)
+The **Window** object's **Paste** method is now obsolete. Use the **Paste** or **PasteSpecial** method of the[Page](page-object-visio.md), [Master](master-object-visio.md), or [Shape](shape-object-visio.md) object. (Use the **Shape** object in the case of group shapes.)
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.Paste()**
+- **Microsoft.Office.Interop.Visio.IVWindow.Paste()**
     
 

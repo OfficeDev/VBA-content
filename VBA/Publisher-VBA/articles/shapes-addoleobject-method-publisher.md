@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddOLEObject Method (Publisher)
 
-Adds a new  **[Shape](shape-object-publisher.md)** object representing an OLE object to the specified **[Shapes](shapes-object-publisher.md)** collection.
+Adds a new **[Shape](shape-object-publisher.md)** object representing an OLE object to the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddOLEObject**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_ClassName_**,  **_Filename_**,  **_Link_**)
+ _expression_. **AddOLEObject**( **_Left_**, **_Top_**, **_Width_**, **_Height_**, **_ClassName_**, **_Filename_**, **_Link_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -48,7 +48,7 @@ For the Left, Top, Width, and Height arguments, numeric values are evaluated in 
 
 You must specify either a ClassName or FileName. If neither argument is specified, or if both are specified, an error occurs.
 
-The Link parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The Link parameter can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

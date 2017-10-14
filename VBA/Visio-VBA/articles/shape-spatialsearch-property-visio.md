@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.SpatialSearch Property (Visio)
 
-Returns a  **Selection** object whose shapes meet certain criteria in relation to a point that is expressed in the coordinate space of a page, master, or group. Read-only.
+Returns a **Selection** object whose shapes meet certain criteria in relation to a point that is expressed in the coordinate space of a page, master, or group. Read-only.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Returns a  **Selection** object whose shapes meet certain criteria in relation t
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**|The x-coordinate.|
 | _y_|Required| **Double**|The y-coordinate.|
-| _Relation_|Required| **Integer**|Any combination of the values of the constants  **visSpatialContainedIn** and **visSpatialTouching** .|
+| _Relation_|Required| **Integer**|Any combination of the values of the constants **visSpatialContainedIn** and **visSpatialTouching** .|
 | _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space.|
 | _Flags_|Required| **Integer**|Flags that influence the result.|
 

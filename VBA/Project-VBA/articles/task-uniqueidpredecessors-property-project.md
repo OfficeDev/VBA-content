@@ -25,9 +25,9 @@ Gets or sets the unique identification ( **UniqueID** ) numbers of the predecess
 
 ## Remarks
 
-If a task has two predecessor tasks with the  **UniqueID** values of 9 and 10, for example, the **UniqueIDPredecessors** value is "9,10".
+If a task has two predecessor tasks with the **UniqueID** values of 9 and 10, for example, the **UniqueIDPredecessors** value is "9,10".
 
 
- **Note**   **UniqueID** values remain constant within a project and do not necessarily match the task **ID** values that can change with the position of the task in the outline or as tasks are deleted and added.
+ **Note**  **UniqueID** values remain constant within a project and do not necessarily match the task **ID** values that can change with the position of the task in the outline or as tasks are deleted and added.
 
 

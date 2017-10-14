@@ -32,7 +32,7 @@ Adds row, column, and page fields to a PivotTable report or PivotChart report.
 | _RowFields_|Optional| **Variant**|Specifies a field name (or an array of field names) to be added as rows, or to be added to the category axis.|
 | _ColumnFields_|Optional| **Variant**|Specifies a field name (or an array of field names) to be added as columns, or to be added to the series axis.|
 | _PageFields_|Optional| **Variant**|Specifies a field name (or an array of field names) to be added as pages, or to be added to the page area.|
-| _AddToTable_|Optional| **Variant**|Applies only to PivotTable reports.  **True** to add the specified fields to the report (none of the existing fields are replaced). **False** to replace existing fields with the new fields. The default value is **False** .|
+| _AddToTable_|Optional| **Variant**|Applies only to PivotTable reports. **True** to add the specified fields to the report (none of the existing fields are replaced). **False** to replace existing fields with the new fields. The default value is **False** .|
 
 ### Return Value
 
@@ -43,7 +43,7 @@ Variant
 
 You must specify one of the field arguments.
 
-Field names specify the unique name returned by the  **[SourceName](pivotfield-sourcename-property-excel.md)** property of the **[PivotField](pivotfield-object-excel.md)** object.
+Field names specify the unique name returned by the **[SourceName](pivotfield-sourcename-property-excel.md)** property of the **[PivotField](pivotfield-object-excel.md)** object.
 
 This method is not available for OLAP data sources.
 

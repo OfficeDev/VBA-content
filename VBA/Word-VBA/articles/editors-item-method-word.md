@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Editors.Item Method (Word)
 
-Returns an  **Editor** object that represents a specific user or a group of users who have been given permission to edit a portion of a document.
+Returns an **Editor** object that represents a specific user or a group of users who have been given permission to edit a portion of a document.
 
 
 ## Syntax

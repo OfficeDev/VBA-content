@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PolicyItem.Parent Property (Office)
 
-Gets the  **Parent** object for the **PolicyItem** object. Read-only.
+Gets the **Parent** object for the **PolicyItem** object. Read-only.
 
 
 ## Syntax

@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-Setting a hyperlink's  **Description** property is equivalent to entering information in the optional **Description** box in the **Hyperlinks** dialog box (click **Hyperlink** on the **Insert** tab). It is also equivalent to setting the result of the Description cell of the shape's Hyperlink row.
+Setting a hyperlink's **Description** property is equivalent to entering information in the optional **Description** box in the **Hyperlinks** dialog box (click **Hyperlink** on the **Insert** tab). It is also equivalent to setting the result of the Description cell of the shape's Hyperlink row.
 
 

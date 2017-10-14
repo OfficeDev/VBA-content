@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SolutionsModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[SolutionsModule](solutionsmodule-object-outlook.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[SolutionsModule](solutionsmodule-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents the localized display name for the *
 
 ## Remarks
 
-The display name of the  **Solutions** module can be customized if there is only one solution root folder under the **Solutions** module. If there are multiple solution root folders, the name reverts back to **Solutions**.
+The display name of the **Solutions** module can be customized if there is only one solution root folder under the **Solutions** module. If there are multiple solution root folders, the name reverts back to **Solutions**.
 
 
 ## See also

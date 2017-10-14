@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ObjectConvert Method (Project)
 
-Displays the  **Convert** dialog box, which prompts the user to convert the active object to a new format.
+Displays the **Convert** dialog box, which prompts the user to convert the active object to a new format.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Convert** dialog box, which prompts the user to convert the acti
 
 ## Remarks
 
-The  **ObjectConvert** method is equivalent to the **Convert** command. For an example of how to use the **Convert** command, see the **[ObjectChangeIcon](application-objectchangeicon-method-project.md)** method.
+The **ObjectConvert** method is equivalent to the **Convert** command. For an example of how to use the **Convert** command, see the **[ObjectChangeIcon](application-objectchangeicon-method-project.md)** method.
 
 

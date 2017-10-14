@@ -30,11 +30,11 @@ PpDateTimeFormat
 
 ## Remarks
 
-The  **Format** property applies only to **HeaderFooter** objects that represent a date and time (returned from the **HeadersFooters** collection by the **[DateAndTime](headersfooters-dateandtime-property-powerpoint.md)** property).
+The **Format** property applies only to **HeaderFooter** objects that represent a date and time (returned from the **HeadersFooters** collection by the **[DateAndTime](headersfooters-dateandtime-property-powerpoint.md)** property).
 
-Make sure that the date and time are set to be updated automatically (not displayed as fixed text) by setting the  **[UseFormat](headerfooter-useformat-property-powerpoint.md)** property to **True**.
+Make sure that the date and time are set to be updated automatically (not displayed as fixed text) by setting the **[UseFormat](headerfooter-useformat-property-powerpoint.md)** property to **True**.
 
-The  **Format** property value can be one of these **PpDateTimeFormat** constants.
+The **Format** property value can be one of these **PpDateTimeFormat** constants.
 
 
 ||

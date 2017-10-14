@@ -18,12 +18,12 @@ Represents access to the linked or embedded data associated with a chart.
 
 ## Remarks
 
-Use the  **[ChartData](chart-chartdata-property-word.md)** property to return the **ChartData** object.
+Use the **[ChartData](chart-chartdata-property-word.md)** property to return the **ChartData** object.
 
 
 ## Example
 
-The following example uses the  **[Activate](chartdata-activate-method-word.md)** method to display the data associated with the first chart in the active document.
+The following example uses the **[Activate](chartdata-activate-method-word.md)** method to display the data associated with the first chart in the active document.
 
 
 ```vb

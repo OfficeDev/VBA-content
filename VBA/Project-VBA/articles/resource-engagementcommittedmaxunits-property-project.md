@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Resource.EngagementCommittedMaxUnits Property (Project)
 
-Returns the committed max units for the engagement. Read-only  **Integer**. Introduced in Office 2016.
+Returns the committed max units for the engagement. Read-only **Integer**. Introduced in Office 2016.
 
 
 ## Syntax

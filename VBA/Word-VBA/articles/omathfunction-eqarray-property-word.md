@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.EqArray Property (Word)
 
-Returns an  **[OMathEqArray](omatheqarray-object-word.md)** object that represents an equation array function. Read-only.
+Returns an **[OMathEqArray](omatheqarray-object-word.md)** object that represents an equation array function. Read-only.
 
 
 ## Syntax

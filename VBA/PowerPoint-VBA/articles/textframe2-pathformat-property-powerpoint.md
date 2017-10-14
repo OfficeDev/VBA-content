@@ -30,7 +30,7 @@ MsoPathType
 
 ## Remarks
 
-The value of the  **PathFormat** property can be one of these **MsoPathType** constants. The value **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNone** removes any existing path.
+The value of the **PathFormat** property can be one of these **MsoPathType** constants. The value **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNone** removes any existing path.
 
 
 ||

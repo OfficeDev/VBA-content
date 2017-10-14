@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.BookmarkID Property (Word)
 
-Returns the number of the bookmark that encloses the beginning of the specified selection. Read-only  **Long** .
+Returns the number of the bookmark that encloses the beginning of the specified selection. Read-only **Long** .
 
 
 ## Syntax

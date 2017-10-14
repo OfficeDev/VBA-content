@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspace.Members Property (Office)
 
-Gets a  **[SharedWorkspaceMembers](sharedworkspacemembers-object-office.md)** collection that represents the list of members in the current shared workspace. Read-only.
+Gets a **[SharedWorkspaceMembers](sharedworkspacemembers-object-office.md)** collection that represents the list of members in the current shared workspace. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.

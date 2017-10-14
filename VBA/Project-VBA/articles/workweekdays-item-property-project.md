@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeekDays.Item Property (Project)
 
-Gets a single  **WorkWeekDay** object from the **WorkWeekDays** collection. Read-only **WorkWeekDay**.
+Gets a single **WorkWeekDay** object from the **WorkWeekDays** collection. Read-only **WorkWeekDay**.
 
 
 ## Syntax

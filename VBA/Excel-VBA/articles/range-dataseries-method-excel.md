@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.DataSeries Method (Excel)
 
-Creates a data series in the specified range.  **Variant** .
+Creates a data series in the specified range. **Variant** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Creates a data series in the specified range.  **Variant** .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Rowcol_|Optional| **Variant**|Can be the  **xlRows** or **xlColumns** constant to have the data series entered in rows or columns, respectively. If this argument is omitted, the size and shape of the range is used.|
+| _Rowcol_|Optional| **Variant**|Can be the **xlRows** or **xlColumns** constant to have the data series entered in rows or columns, respectively. If this argument is omitted, the size and shape of the range is used.|
 | _Type_|Optional| **[XlDataSeriesType](xldataseriestype-enumeration-excel.md)**|The type for the data series.|
 | _Date_|Optional| **[XlDataSeriesDate](xldataseriesdate-enumeration-excel.md)**|If the  _Type_ argument is **xlChronological** , the _Date_ argument indicates the step date unit.|
 | _Step_|Optional| **Variant**|The step value for the series. The default value is 1.|

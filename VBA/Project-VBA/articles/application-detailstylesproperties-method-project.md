@@ -29,10 +29,10 @@ Sets the format of details in a usage view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _AlignCellData_|Optional|**Long**|Specifies the alignment of data in cells. Can be one of the following  **PjAlignment** constants: **pjCenter**, **pjLeft**, or **pjRight**. The default value is **pjRight**.|
+| _AlignCellData_|Optional|**Long**|Specifies the alignment of data in cells. Can be one of the following **PjAlignment** constants: **pjCenter**, **pjLeft**, or **pjRight**. The default value is **pjRight**.|
 | _RepeatRowLabel_|Optional|**Boolean**|**True** if details headers are repeated on all assignment rows. The default value is **True**.|
 | _ShortLabels_|Optional|**Boolean**|**True** if Project displays short details header names. The default value is **True**.|
-| _DisplayDetailsColumn_|Optional|**Long**|Specifies whether a details column displays. Can be one of the following  **PjYesNoAutomatic** constants: **pjAuto**, **pjNo**, or **pjYes**. The default value is **pjYes**.|
+| _DisplayDetailsColumn_|Optional|**Long**|Specifies whether a details column displays. Can be one of the following **PjYesNoAutomatic** constants: **pjAuto**, **pjNo**, or **pjYes**. The default value is **pjYes**.|
 
 ### Return Value
 
@@ -41,7 +41,7 @@ Sets the format of details in a usage view.
 
 ## Remarks
 
-Using the  **DetailStylesProperties** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Properties** tab selected.
+Using the **DetailStylesProperties** method without specifying any arguments displays the **Detail Styles** dialog box with the **Usage Properties** tab selected.
 
 
 ## Example

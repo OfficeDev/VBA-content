@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkLabel.AutoSize Property (Outlook)
 
-Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
+Returns or sets a **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 
 
 ## Syntax

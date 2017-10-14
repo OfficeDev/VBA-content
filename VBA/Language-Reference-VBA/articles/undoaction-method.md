@@ -18,19 +18,19 @@ ms.date: 06/08/2017
 Reverses the most recent action that supports the Undo command.
  **Syntax**
  _Boolean_ = _object_. **UndoAction**
-The  **UndoAction** method syntax has these parts:
+The **UndoAction** method syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
  **Remarks**
-The Undo command in the user interface uses the  **UndoAction** method. For example, if you paste text into a **TextBox**, you can use **UndoAction** to remove that text and restore the previous contents of the **TextBox**.
+The Undo command in the user interface uses the **UndoAction** method. For example, if you paste text into a **TextBox**, you can use **UndoAction** to remove that text and restore the previous contents of the **TextBox**.
 Not all user actions can be undone. If an action cannot be undone, the Undo command is unavailable following the action.
 
- **Note**  If the  **CanUndo** property is **False**, the Undo command is not available in the user interface, and **UndoAction** is not valid in code.
+ **Note**  If the **CanUndo** property is **False**, the Undo command is not available in the user interface, and **UndoAction** is not valid in code.
 
-If  **UndoAction** is applied to a form, all changes to the current record are lost. If **UndoAction** is applied to a control, only the control itself is affected.
+If **UndoAction** is applied to a form, all changes to the current record are lost. If **UndoAction** is applied to a control, only the control itself is affected.
 You must apply this method before the form or control is updated. You may want to include this method in a form's BeforeUpdate event or a control's Change event.
  **UndoAction** is an alternative to using the[SendKeys Statement](vbe-glossary.md) to send the value of ESC in an event procedure.
 

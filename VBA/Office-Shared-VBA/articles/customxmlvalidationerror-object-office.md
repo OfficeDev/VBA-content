@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationError Object (Office)
 
-Represents a single validation error in a  **CustomXMLValidationErrors** collection.
+Represents a single validation error in a **CustomXMLValidationErrors** collection.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ Validation errors can either be triggered when validating an operation against t
 
 ## Example
 
-The following example adds a custom part and then adds a child node to that part. Any errors that occur are added to the  **CustomXMLValidationErrors** collection and then displayed in the Debug window.
+The following example adds a custom part and then adds a child node to that part. Any errors that occur are added to the **CustomXMLValidationErrors** collection and then displayed in the Debug window.
 
 
 ```

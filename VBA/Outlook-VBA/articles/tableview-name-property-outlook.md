@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the object. Read/write.
+Returns or sets a **String** value that represents the display name for the object. Read/write.
 
 
 ## Syntax

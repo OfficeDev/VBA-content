@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revisions.Item Method (Word)
 
-Returns an individual  **Revisions** object in a collection.
+Returns an individual **Revisions** object in a collection.
 
 
 ## Syntax

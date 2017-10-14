@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskGroups.Copy Method (Project)
 
-Makes a copy of a group definition for the  **TaskGroups** collection and returns a reference to the **[Group](group-object-project.md)** object.
+Makes a copy of a group definition for the **TaskGroups** collection and returns a reference to the **[Group](group-object-project.md)** object.
 
 
 ## Syntax

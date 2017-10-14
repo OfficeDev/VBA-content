@@ -23,6 +23,6 @@ You can add or remove controls on a form. In the Forms Designer, do one of the f
 ## To remove a control
 
 
-1. Right-click the control, and then click  **Delete**.
+1. Right-click the control, and then click **Delete**.
     
 

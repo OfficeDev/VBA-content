@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group.Index Property (Project)
 
-Gets the index of a  **Group** object in the containing collection object. Read-only **Long**.
+Gets the index of a **Group** object in the containing collection object. Read-only **Long**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the index of a  **Group** object in the containing collection object. Read-
 
 ## Remarks
 
-Objects that can contain  **Group** objects are **Groups**, **ResourceGroups**, and **TaskGroups**.
+Objects that can contain **Group** objects are **Groups**, **ResourceGroups**, and **TaskGroups**.
 
-The  **Index** properties of other objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
+The **Index** properties of other objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
 
 

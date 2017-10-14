@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Title Property (Project)
-Gets or sets the title of the shapes in the shape range. Read/write  **String**.
+Gets or sets the title of the shapes in the shape range. Read/write **String**.
 
 ## Syntax
 

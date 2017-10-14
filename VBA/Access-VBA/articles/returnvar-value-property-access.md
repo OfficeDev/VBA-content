@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReturnVar.Value Property (Access)
 
-Gets the value of the specified  **[ReturnVar](returnvar-object-access.md)**. Read-only **Variant**.
+Gets the value of the specified **[ReturnVar](returnvar-object-access.md)**. Read-only **Variant**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the value of the specified  **[ReturnVar](returnvar-object-access.md)**. Re
 
 ## Remarks
 
-A  **ReturnVar** can store only numeric or text data. Setting the **Value** property to an Object data type will result in a run-time error.
+A **ReturnVar** can store only numeric or text data. Setting the **Value** property to an Object data type will result in a run-time error.
 
 

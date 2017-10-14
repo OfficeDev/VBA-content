@@ -18,9 +18,9 @@ Represents a task (an assigned, delegated, or self-imposed task to be performed 
 
 ## Remarks
 
-Use the  **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create a **TaskItem** object that represents a new task.
+Use the **[CreateItem](http://msdn.microsoft.com/library/e5fbf367-db16-5042-823e-68e6b805e612%28Office.15%29.aspx)** method to create a **TaskItem** object that represents a new task.
 
-Use  **[Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** ( _index_ ), where _index_ is the index number of a task or a value used to match the default property of a task, to return a single **TaskItem** object from a Tasks folder.
+Use **[Items](http://msdn.microsoft.com/library/441820e7-5fe8-e5ef-83c0-9c87fd3dc9e3%28Office.15%29.aspx)** ( _index_ ), where _index_ is the index number of a task or a value used to match the default property of a task, to return a single **TaskItem** object from a Tasks folder.
 
 
 ## Example

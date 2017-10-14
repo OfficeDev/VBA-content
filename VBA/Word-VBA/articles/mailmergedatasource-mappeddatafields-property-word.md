@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.MappedDataFields Property (Word)
 
-Returns a  **[MappedDataFields](mappeddatafields-object-word.md)** collection that represents the mapped data fields available in Microsoft Word.
+Returns a **[MappedDataFields](mappeddatafields-object-word.md)** collection that represents the mapped data fields available in Microsoft Word.
 
 
 ## Syntax

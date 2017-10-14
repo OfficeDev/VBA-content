@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.ScreenTip Property (Access)
 
-You can use the  **ScreenTip** property to specify or determine the text that is displayed when you move the cursor over a hyperlink control. Read/write **String**.
+You can use the **ScreenTip** property to specify or determine the text that is displayed when you move the cursor over a hyperlink control. Read/write **String**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **ScreenTip** property to specify or determine the text that is
 
 ## Remarks
 
-When you move the cursor over a hyperlink control whose  **HyperlinkSubAddress** property is set, Microsoft Access changes the cursor to an upward-pointing hand and displays the text string defined by the **ScreenTip** property. Clicking the control displays the object or Web page specified by the link.
+When you move the cursor over a hyperlink control whose **HyperlinkSubAddress** property is set, Microsoft Access changes the cursor to an upward-pointing hand and displays the text string defined by the **ScreenTip** property. Clicking the control displays the object or Web page specified by the link.
 
-For more information about hyperlink addresses and their format, see the  **HyperlinkAddress** and **HyperlinkSubAddress** property topics.
+For more information about hyperlink addresses and their format, see the **HyperlinkAddress** and **HyperlinkSubAddress** property topics.
 
 
 ## Example

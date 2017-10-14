@@ -30,7 +30,7 @@ This object corresponds to a toggle button. A toggle button on a form is a stand
 
 |
 
- **Note**  When you click a toggle button that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's  **Format** property (Yes/No, **True** / **False**, or On/Off).
+ **Note**  When you click a toggle button that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's **Format** property (Yes/No, **True** / **False**, or On/Off).
 
 Toggle buttons are most useful when used in an option group with other buttons.
 

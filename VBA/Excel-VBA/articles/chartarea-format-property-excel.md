@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartArea.Format Property (Excel)
 
-Returns the  **[ChartFormat](chartformat-object-excel.md)** object. Read-only.
+Returns the **[ChartFormat](chartformat-object-excel.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[ChartFormat](chartformat-object-excel.md)** object. Read-only.
 
 ## Remarks
 
-The  **[ChartFormat](chartformat-object-excel.md)** object contains the line, fill, and effect formatting for the chart area.
+The **[ChartFormat](chartformat-object-excel.md)** object contains the line, fill, and effect formatting for the chart area.
 
 
 ## See also

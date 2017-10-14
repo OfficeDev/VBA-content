@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspace.Folders Property (Office)
 
-Gets a  **[SharedWorkspaceFolders](sharedworkspacefolders-object-office.md)** collection that represents the list of subfolders in the document library associated with the current shared workspace. Read-only.
+Gets a **[SharedWorkspaceFolders](sharedworkspacefolders-object-office.md)** collection that represents the list of subfolders in the document library associated with the current shared workspace. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -28,7 +28,7 @@ Gets a  **[SharedWorkspaceFolders](sharedworkspacefolders-object-office.md)** co
 
 ## Remarks
 
-The  **SharedWorkspaceFolders** collection does not include the root document library folder itself, which by default is named "Shared Documents".
+The **SharedWorkspaceFolders** collection does not include the root document library folder itself, which by default is named "Shared Documents".
 
 
 ## Example

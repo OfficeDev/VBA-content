@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SetWarnings Method (Access)
 
-The  **SetWarnings** method carries out the SetWarnings action in Visual Basic.
+The **SetWarnings** method carries out the SetWarnings action in Visual Basic.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ The  **SetWarnings** method carries out the SetWarnings action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _WarningsOn_|Required|**Variant**|Use  **True** (?1) to turn on the display of system messages and **False** (0) to turn it off.|
+| _WarningsOn_|Required|**Variant**|Use **True** (?1) to turn on the display of system messages and **False** (0) to turn it off.|
 
 ## Remarks
 
-You can use the  **SetWarnings** method to turn system messages on or off.
+You can use the **SetWarnings** method to turn system messages on or off.
 
 If you turn the display of system messages off in Visual Basic, you must turn it back on, or it will remain off, even if the user presses CTRL+BREAK or Visual Basic encounters a breakpoint. You may want to create a macro that turns the display of system messages on and then assign that macro to a key combination or a custom menu command. You could then use the key combination or menu command to turn the display of system messages on if it has been turned off in Visual Basic.
 

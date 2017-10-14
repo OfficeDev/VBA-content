@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.ScreenTip Property (Word)
 
-Returns or sets the text that appears as a ScreenTip when the mouse pointer is positioned over the specified hyperlink. Read/write  **String** .
+Returns or sets the text that appears as a ScreenTip when the mouse pointer is positioned over the specified hyperlink. Read/write **String** .
 
 
 ## Syntax

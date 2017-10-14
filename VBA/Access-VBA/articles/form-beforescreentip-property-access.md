@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.BeforeScreenTip Property (Access)
 
-Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **[BeforeScreenTip](form-beforescreentip-event-access.md)** event occurs. Read/write.
+Returns or sets a **String** indicating which macro, event procedure, or user-defined function runs when the **[BeforeScreenTip](form-beforescreentip-event-access.md)** event occurs. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Valid values for this property are "macroname" where  _macroname_ is the name of
 
 ## Example
 
-The following example specifies that when the  **BeforeScreenTip** event occurs on the first form of the current project, the associated event procedure should run.
+The following example specifies that when the **BeforeScreenTip** event occurs on the first form of the current project, the associated event procedure should run.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.MergeArea Property (Excel)
 
-Returns a  **Range** object that represents the merged range containing the specified cell. If the specified cell isn't in a merged range, this property returns the specified cell. Read-only **Variant** .
+Returns a **Range** object that represents the merged range containing the specified cell. If the specified cell isn't in a merged range, this property returns the specified cell. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Range** object that represents the merged range containing the spec
 
 ## Remarks
 
-The  **MergeArea** property only works on a single-cell range.
+The **MergeArea** property only works on a single-cell range.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorBars.EndStyle Property (Excel)
 
-Returns or sets the end style for the error bars. Can be one of the following  **[XlEndStyleCap](xlendstylecap-enumeration-excel.md)** constants: **xlCap** or **xlNoCap** . Read/write **Long** .
+Returns or sets the end style for the error bars. Can be one of the following **[XlEndStyleCap](xlendstylecap-enumeration-excel.md)** constants: **xlCap** or **xlNoCap** . Read/write **Long** .
 
 
 ## Syntax

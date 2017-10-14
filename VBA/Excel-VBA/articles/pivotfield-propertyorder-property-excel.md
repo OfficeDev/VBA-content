@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.PropertyOrder Property (Excel)
 
-Valid only for PivotTable fields that are member property fields. Returns a  **Long** indicating the display position of the member property within the cube field to which it belongs. Read/write.
+Valid only for PivotTable fields that are member property fields. Returns a **Long** indicating the display position of the member property within the cube field to which it belongs. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Valid only for PivotTable fields that are member property fields. Returns a  **L
 
 Setting this property will rearrange the order of the properties for this cube field. This property is one-based. The allowable range is from one to the maximum number of member property fields being displayed for the hierarchy. 
 
-If the  **[IsMemberProperty](pivotfield-ismemberproperty-property-excel.md)** property is **False** , using the **PropertyOrder** property will create a run-time error.
+If the **[IsMemberProperty](pivotfield-ismemberproperty-property-excel.md)** property is **False** , using the **PropertyOrder** property will create a run-time error.
 
 
 ## Example

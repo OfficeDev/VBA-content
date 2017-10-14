@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisFlipTypes Enumeration (Visio)
 
-Type constants to pass to the  **Selection.Flip** method.
+Type constants to pass to the **Selection.Flip** method.
 
 
 

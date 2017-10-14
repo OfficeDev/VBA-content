@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableField.Width Property (Project)
 
-Gets or sets the width in points of the field column in a table. Read/write  **Long**.
+Gets or sets the width in points of the field column in a table. Read/write **Long**.
 
 
 ## Syntax

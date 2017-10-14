@@ -29,10 +29,10 @@ Converts the specified OLE object from one class to another, making it possible 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ClassType_|Optional| **Variant**|The name of the application used to activate the OLE object. You can see a list of the available applications in the  **Object type** box on the **Create New** tab in the **Object** dialog box. You can find the ClassType string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."|
+| _ClassType_|Optional| **Variant**|The name of the application used to activate the OLE object. You can see a list of the available applications in the **Object type** box on the **Create New** tab in the **Object** dialog box. You can find the ClassType string by inserting an object as an inline shape and then viewing the field codes. The class type of the object follows either the word "EMBED" or the word "LINK."|
 | _DisplayAsIcon_|Optional| **Variant**| **True** to display the OLE object as an icon. The default value is **False** .|
 | _IconFileName_|Optional| **Variant**|The file that contains the icon to be displayed.|
-| _IconIndex_|Optional| **Variant**|The index number of the icon within IconFileName. The order of icons in the specified file corresponds to the order in which the icons appear in the  **Change Icon** dialog box ( **Insert Object** dialog box) when the **Display as icon** check box is selected. The first icon in the file has the index number 0 (zero). If an icon with the given index number doesn't exist in IconFileName, the icon with the index number 1 (the second icon in the file) is used. The default value is 0 (zero).|
+| _IconIndex_|Optional| **Variant**|The index number of the icon within IconFileName. The order of icons in the specified file corresponds to the order in which the icons appear in the **Change Icon** dialog box ( **Insert Object** dialog box) when the **Display as icon** check box is selected. The first icon in the file has the index number 0 (zero). If an icon with the given index number doesn't exist in IconFileName, the icon with the index number 1 (the second icon in the file) is used. The default value is 0 (zero).|
 | _IconLabel_|Optional| **Variant**|A label (caption) to be displayed beneath the icon.|
 
 ## Example

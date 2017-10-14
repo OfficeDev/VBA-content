@@ -15,7 +15,7 @@ This error has the following causes and solutions:
 
 
 
-- Visual Basic can't load the add-in that you tried to select from the Available Add-Ins list in the  **Add-In Manager** dialog box, because it was not registered properly or is no longer registered in the system registry.
+- Visual Basic can't load the add-in that you tried to select from the Available Add-Ins list in the **Add-In Manager** dialog box, because it was not registered properly or is no longer registered in the system registry.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

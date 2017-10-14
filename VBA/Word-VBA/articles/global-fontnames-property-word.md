@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.FontNames Property (Word)
 
-Returns a  **[FontNames](fontnames-object-word.md)** object that includes the names of all the available fonts. Read-only.
+Returns a **[FontNames](fontnames-object-word.md)** object that includes the names of all the available fonts. Read-only.
 
 
 ## Syntax

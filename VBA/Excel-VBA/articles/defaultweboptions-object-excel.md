@@ -26,7 +26,7 @@ Contains global application-level attributes used by Microsoft Excel when you sa
 
 ## Example
 
-Use the  **[DefaultWebOptions](application-defaultweboptions-property-excel.md)** property to return the **DefaultWebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and sets the _strImageFileType_ variable accordingly.
+Use the **[DefaultWebOptions](application-defaultweboptions-property-excel.md)** property to return the **DefaultWebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and sets the _strImageFileType_ variable accordingly.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.FormattedText Property (Word)
 
-Returns or sets a  **[Range](range-object-word.md)** object that includes the formatted text in the specified range or selection. Read/write.
+Returns or sets a **[Range](range-object-word.md)** object that includes the formatted text in the specified range or selection. Read/write.
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns or sets a  **[Range](range-object-word.md)** object that includes the fo
 
 ## Remarks
 
-This property returns a  **[Range](range-object-word.md)** object with the character formatting and text from the specified range or selection. Paragraph formatting is included in the **[Range](range-object-word.md)** object if there is a paragraph mark in the range or selection.
+This property returns a **[Range](range-object-word.md)** object with the character formatting and text from the specified range or selection. Paragraph formatting is included in the **[Range](range-object-word.md)** object if there is a paragraph mark in the range or selection.
 
 
 
-When you set this property, the text in the range is replaced with formatted text. If you don't want to replace the existing text, use the  **Collapse** method before using this property (see the first example).
+When you set this property, the text in the range is replaced with formatted text. If you don't want to replace the existing text, use the **Collapse** method before using this property (see the first example).
 
 
 

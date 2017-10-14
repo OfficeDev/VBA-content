@@ -11,24 +11,24 @@ ms.date: 06/08/2017
 
 # Style Property, Label Control Example
 
-The following example uses the  **Style** property to specify the appearance of the tabs in **MultiPage** and **TabStrip**. This example also demonstrates using a **Label**. The user chooses a style by selecting an **OptionButton**.
+The following example uses the **Style** property to specify the appearance of the tabs in **MultiPage** and **TabStrip**. This example also demonstrates using a **Label**. The user chooses a style by selecting an **OptionButton**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
-- Any control inside the  **TabStrip**.
+- Any control inside the **TabStrip**.
     
-- Any control in each page of the  **MultiPage**.
+- Any control in each page of the **MultiPage**.
     
 
 

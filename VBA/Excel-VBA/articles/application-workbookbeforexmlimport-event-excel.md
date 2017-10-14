@@ -33,7 +33,7 @@ Occurs before an existing XML data connection is refreshed, or new XML data is i
 | _Map_|Required| **[XmlMap](xmlmap-object-excel.md)**|The XML map that will be used to import data.|
 | _Url_|Required| **String**|The location of the XML file to be imported.|
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data, **False** if a new mapping will be created.|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the import or refresh operation.|
+| _Cancel_|Required| **Boolean**|Set to **True** to cancel the import or refresh operation.|
 
 ### Return Value
 
@@ -42,7 +42,7 @@ Nothing
 
 ## Remarks
 
-Use the  **[BeforeXmlImport](workbook-beforexmlimport-event-excel.md)** event if you want to capture XML data that is being imported or refreshed to a particular workbook.
+Use the **[BeforeXmlImport](workbook-beforexmlimport-event-excel.md)** event if you want to capture XML data that is being imported or refreshed to a particular workbook.
 
 
 ## See also

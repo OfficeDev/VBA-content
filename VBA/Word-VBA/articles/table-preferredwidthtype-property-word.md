@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.PreferredWidthType Property (Word)
 
-Returns or sets the preferred unit of measurement to use for the width of the specified table. Read/write  **[WdPreferredWidthType](wdpreferredwidthtype-enumeration-word.md)** .
+Returns or sets the preferred unit of measurement to use for the width of the specified table. Read/write **[WdPreferredWidthType](wdpreferredwidthtype-enumeration-word.md)** .
 
 
 ## Syntax

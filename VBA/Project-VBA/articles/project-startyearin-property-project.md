@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.StartYearIn Property (Project)
 
-Gets or sets the month number for the start of the fiscal year for the project. Read/write  **PjMonth**.
+Gets or sets the month number for the start of the fiscal year for the project. Read/write **PjMonth**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the month number for the start of the fiscal year for the project. 
 
 ## Remarks
 
-The  **StartYearIn** property can be one of the **[PjMonth](pjmonth-enumeration-project.md)** constants. The **Project Options** dialog box displays the value in the **Fiscal year starts in** drop-down list on the **Schedule** tab.
+The **StartYearIn** property can be one of the **[PjMonth](pjmonth-enumeration-project.md)** constants. The **Project Options** dialog box displays the value in the **Fiscal year starts in** drop-down list on the **Schedule** tab.
 
 

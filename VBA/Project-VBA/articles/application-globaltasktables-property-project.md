@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GlobalTaskTables Property (Project)
 
-Gets or sets a  **[Tables](table-object-project.md)** collection representing the task tables of the Global.mpt file. Read/write **Tables**.
+Gets or sets a **[Tables](table-object-project.md)** collection representing the task tables of the Global.mpt file. Read/write **Tables**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CommandUnderlines Property (Excel)
 
-Returns or sets the state of the command underlines in Microsoft Excel for the Macintosh. Can be one of the constants of  **[XlCommandUnderlines](xlcommandunderlines-enumeration-excel.md)** . Read/write **Long** .
+Returns or sets the state of the command underlines in Microsoft Excel for the Macintosh. Can be one of the constants of **[XlCommandUnderlines](xlcommandunderlines-enumeration-excel.md)** . Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the state of the command underlines in Microsoft Excel for the M
 
 ## Remarks
 
-In Microsoft Excel for Windows, reading this property always returns  **xlCommandUnderlinesOn** , and setting this property to anything other than **xlCommandUnderlinesOn** is an error.
+In Microsoft Excel for Windows, reading this property always returns **xlCommandUnderlinesOn** , and setting this property to anything other than **xlCommandUnderlinesOn** is an error.
 
 
 ## Example

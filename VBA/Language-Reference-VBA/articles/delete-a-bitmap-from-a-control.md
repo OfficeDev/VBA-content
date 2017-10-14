@@ -11,11 +11,11 @@ ms.date: 06/08/2017
 
 # Delete a bitmap from a control
 
-In the  **Properties** window:
+In the **Properties** window:
 
 
 
-1. Highlight the value of the  **Picture** property (the word "bitmap").
+1. Highlight the value of the **Picture** property (the word "bitmap").
     
 2. Press DELETE.
     

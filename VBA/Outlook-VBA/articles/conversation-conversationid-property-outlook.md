@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conversation.ConversationID Property (Outlook)
 
-Returns a  **String** that uniquely identifies a **[Conversation](conversation-object-outlook.md)** object. Read-only.
+Returns a **String** that uniquely identifies a **[Conversation](conversation-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** that uniquely identifies a **[Conversation](conversation-o
 
 ## Remarks
 
-This property associates items with a conversation. These items and the conversation all have the same value in their  **ConversationID** property.
+This property associates items with a conversation. These items and the conversation all have the same value in their **ConversationID** property.
 
-This property corresponds with the MAPI property  **PidTagConversationId** .
+This property corresponds with the MAPI property **PidTagConversationId** .
 
 
 ## See also

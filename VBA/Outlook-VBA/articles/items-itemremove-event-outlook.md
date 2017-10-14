@@ -30,7 +30,7 @@ This event does not run when the last item in a Personal Folders file (.pst) is 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example optionally sends a notification message to a workgroup when the user removes a contact from the default  **Contacts** folder. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example optionally sends a notification message to a workgroup when the user removes a contact from the default **Contacts** folder. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

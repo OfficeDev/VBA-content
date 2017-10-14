@@ -25,10 +25,10 @@ Activates the first window of the workbook associated with the chart.
 
 ## Remarks
 
-If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the  **[RunAutoMacros](http://msdn.microsoft.com/library/85dfdadf-75e6-437d-fb7a-e17681a69b35%28Office.15%29.aspx)** method to run those macros).
+If the chart is linked to a Microsoft Excel workbook, this method does not run any Auto_Activate or Auto_Deactivate macros that might be attached to the workbook (use the **[RunAutoMacros](http://msdn.microsoft.com/library/85dfdadf-75e6-437d-fb7a-e17681a69b35%28Office.15%29.aspx)** method to run those macros).
 
 
- **Note**  You must call this method before referencing the  **[Workbook](chartdata-workbook-property-powerpoint.md)** property.
+ **Note**  You must call this method before referencing the **[Workbook](chartdata-workbook-property-powerpoint.md)** property.
 
 
 ## Example

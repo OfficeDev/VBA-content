@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example sets the  **MoveAfterReturn** property to **True**.
+This example sets the **MoveAfterReturn** property to **True**.
 
 
 ```vb

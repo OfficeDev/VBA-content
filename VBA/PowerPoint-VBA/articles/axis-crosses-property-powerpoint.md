@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.Crosses Property (PowerPoint)
 
-Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long**.
+Returns or sets the point on the specified axis where the other axis crosses. Read/write **Long**.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 This property is not available for radar charts. For 3-D charts, this property can be applied only to the value axis and indicates where the plane defined by the category axes crosses the value axis.
 
-You can use this property for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.
+You can use this property for both category and value axes. On the category axis, **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.
 
-Note that  **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
+Note that **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
 
 
 ## Example

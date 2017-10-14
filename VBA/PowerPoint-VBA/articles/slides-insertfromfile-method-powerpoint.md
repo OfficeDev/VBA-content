@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slides.InsertFromFile Method (PowerPoint)
 
-Inserts slides from a file into a presentation, at the specified location. Returns an  **Integer** that represents the number of slides inserted.
+Inserts slides from a file into a presentation, at the specified location. Returns an **Integer** that represents the number of slides inserted.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Inserts slides from a file into a presentation, at the specified location. Retur
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The name of the file that contains the slides you want to insert.|
-| _Index_|Required|**Long**|The index number of the  **Slide** object in the specified **Slides** collection you want to insert the new slides after.|
-| _SlideStart_|Optional|**Long**|The index number of the first  **Slide** object in the **Slides** collection in the file denoted by FileName.|
-| _SlideEnd_|Optional|**Long**|The index number of the last  **Slide** object in the **Slides** collection in the file denoted by FileName.|
+| _Index_|Required|**Long**|The index number of the **Slide** object in the specified **Slides** collection you want to insert the new slides after.|
+| _SlideStart_|Optional|**Long**|The index number of the first **Slide** object in the **Slides** collection in the file denoted by FileName.|
+| _SlideEnd_|Optional|**Long**|The index number of the last **Slide** object in the **Slides** collection in the file denoted by FileName.|
 
 ### Return Value
 

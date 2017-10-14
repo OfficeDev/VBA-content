@@ -33,7 +33,7 @@ Variant
 This example creates an outline for the range A1:G37 on Sheet1. 
 
 
- **Note**  The range must contain either a  **summary row** or a **summary column** .
+ **Note**  The range must contain either a **summary row** or a **summary column** .
 
 
 ```vb

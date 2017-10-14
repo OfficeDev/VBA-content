@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Borders Property (Word)
 
-Returns a  **[Borders](borders-object-word.md)** collection that represents all the borders for the specified shape.
+Returns a **[Borders](borders-object-word.md)** collection that represents all the borders for the specified shape.
 
 
 ## Syntax

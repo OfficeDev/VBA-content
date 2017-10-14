@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Allows you to add designers to your project's  **Insert** menu.
+Allows you to add designers to your project's **Insert** menu.
 
  **Note**  This feature is not available in all versions of the Visual Basic Editor.
 
@@ -40,10 +40,10 @@ When selected, displays only those designers in the Available Designers list whi
 
  **Apply**
 
-Adds the selected designers to the  **Insert** menu without closing the dialog box.
+Adds the selected designers to the **Insert** menu without closing the dialog box.
 
  **OK**
 
-Adds the selected designers to the  **Insert** menuand closes the **Components** dialog box.
+Adds the selected designers to the **Insert** menuand closes the **Components** dialog box.
 
 

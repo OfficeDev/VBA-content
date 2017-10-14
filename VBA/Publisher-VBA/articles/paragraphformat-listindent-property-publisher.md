@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.ListIndent Property (Publisher)
 
-Returns or sets a  **Single** that represents the list indent value (in points) for the specified **ParagraphFormat** object. Read/write.
+Returns or sets a **Single** that represents the list indent value (in points) for the specified **ParagraphFormat** object. Read/write.
 
 
 ## Syntax
 
  _expression_. **ListIndent**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Single
 
 ## Example
 
-This example sets the  **ListIndent** property of a **ParagraphFormat** object to 0.25 inches. The **InchesToPoints** method is used to convert inches to points.
+This example sets the **ListIndent** property of a **ParagraphFormat** object to 0.25 inches. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

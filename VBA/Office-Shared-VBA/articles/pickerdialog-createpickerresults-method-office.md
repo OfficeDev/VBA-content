@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerDialog.CreatePickerResults Method (Office)
 
-Creates an empty  **PickerResults** object.
+Creates an empty **PickerResults** object.
 
 
 ## Syntax

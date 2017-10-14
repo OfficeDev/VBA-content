@@ -29,36 +29,36 @@ Returns a [Range](range-object-excel.md) object that represents the rectangular 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Range**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg2_|Required| **Range**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg3_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg4_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg5_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg6_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg7_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg8_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg9_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg10_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg11_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg12_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg13_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg14_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg15_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg16_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg17_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg18_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg19_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg20_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg21_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg22_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg23_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg24_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg25_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg26_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg27_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg28_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg29_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
-| _Arg30_|Optional| **Variant**|The intersecting ranges. At least two  **Range** objects must be specified.|
+| _Arg1_|Required| **Range**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg2_|Required| **Range**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg3_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg4_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg5_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg6_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg7_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg8_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg9_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg10_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg11_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg12_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg13_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg14_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg15_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg16_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg17_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg18_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg19_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg20_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg21_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg22_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg23_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg24_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg25_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg26_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg27_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg28_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg29_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
+| _Arg30_|Optional| **Variant**|The intersecting ranges. At least two **Range** objects must be specified.|
 
 ### Return Value
 

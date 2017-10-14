@@ -72,11 +72,11 @@ public AdoProperties Invalid DDUE based on source, error:link not allowed in cod
 
 The [Value](http://msdn.microsoft.com/library/ff21d122-98e3-2b48-d92f-e696b8079fc5%28Office.15%29.aspx) property of a[Parameter](http://msdn.microsoft.com/library/7577598e-3d0c-30c6-5f24-1cfe98791798%28Office.15%29.aspx) object gets or sets the content of that object. The content is represented as a VARIANT, a type of object that can be assigned a value and any of several data types.
 
-ADO/WFC implements the  **Value** property with the **getValue** method, which returns a VARIANT object; and the **setValue** method, which takes a VARIANT as an argument. VARIANTs are highly efficient in certain languages, such as Microsoft Visual Basic. However, you can attain better performance in Microsoft Visual J++ by using native Java data types.
+ADO/WFC implements the **Value** property with the **getValue** method, which returns a VARIANT object; and the **setValue** method, which takes a VARIANT as an argument. VARIANTs are highly efficient in certain languages, such as Microsoft Visual Basic. However, you can attain better performance in Microsoft Visual J++ by using native Java data types.
 
-In addition to the  **Value** property, ADO/WFC provides _accessor_ methods that use Java data types to get and set the content of **Parameter** objects. Most of these methods have names of the form **get** _DataType_ or **set** _DataType_.
+In addition to the **Value** property, ADO/WFC provides _accessor_ methods that use Java data types to get and set the content of **Parameter** objects. Most of these methods have names of the form **get** _DataType_ or **set** _DataType_.
 
-There is one noteworthy exception: There is no  **getNull** property; instead, there is an **isNull** property that returns a Boolean value indicating whether the field is null.
+There is one noteworthy exception: There is no **getNull** property; instead, there is an **isNull** property that returns a Boolean value indicating whether the field is null.
 
 
 

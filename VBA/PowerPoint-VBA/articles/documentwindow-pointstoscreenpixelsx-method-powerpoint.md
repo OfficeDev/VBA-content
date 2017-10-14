@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.PointsToScreenPixelsX Method (PowerPoint)
 
-Converts a horizontal measurement from points to pixels. Used to return a horizontal screen location for a text frame or shape. Returns the converted measurement as a  **Single**.
+Converts a horizontal measurement from points to pixels. Used to return a horizontal screen location for a text frame or shape. Returns the converted measurement as a **Single**.
 
 
 ## Syntax

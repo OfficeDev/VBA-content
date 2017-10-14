@@ -20,13 +20,13 @@ You can import a text file containing code into the current [module](vbe-glossar
 
 1. Open the module into which you want to insert text and position the entry point at the place where you want the text inserted.
     
-2. On the  **Insert** menu, click **File**.
+2. On the **Insert** menu, click **File**.
     
-3. The  **Insert File** dialog box appears.
+3. The **Insert File** dialog box appears.
     
-4. Use the  **Insert File** dialog box to select the file to import.
+4. Use the **Insert File** dialog box to select the file to import.
     
-5. Click  **OK**.
+5. Click **OK**.
     
 
 

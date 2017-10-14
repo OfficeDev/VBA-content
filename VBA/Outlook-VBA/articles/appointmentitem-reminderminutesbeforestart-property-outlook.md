@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.ReminderMinutesBeforeStart Property (Outlook)
 
-Returns or sets a  **Long** indicating the number of minutes the reminder should occur prior to the start of the appointment. Read/write.
+Returns or sets a **Long** indicating the number of minutes the reminder should occur prior to the start of the appointment. Read/write.
 
 
 ## Syntax

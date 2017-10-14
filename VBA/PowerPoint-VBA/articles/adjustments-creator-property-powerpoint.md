@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Adjustments.Creator Property (PowerPoint)
 
-Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
+Returns a **Long** that represents the four-character creator code for the application in which the specified object was created. For example, if the object was created in Microsoft PowerPoint, this property returns the hexadecimal number 50575054. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Long
 
 ## Remarks
 
-The  **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
+The **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
 
 
 ## Example

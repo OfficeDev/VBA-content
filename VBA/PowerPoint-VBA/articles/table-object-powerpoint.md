@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Table Object (PowerPoint)
 
-Represents a table shape on a slide. The  **Table** object is a member of the **Shapes** collection. The **Table** object contains the **[Columns](http://msdn.microsoft.com/library/ba2fb830-bb60-b259-3a3f-1281f77d6368%28Office.15%29.aspx)** collection and the **[Rows](rows-object-powerpoint.md)** collection.
+Represents a table shape on a slide. The **Table** object is a member of the **Shapes** collection. The **Table** object contains the **[Columns](http://msdn.microsoft.com/library/ba2fb830-bb60-b259-3a3f-1281f77d6368%28Office.15%29.aspx)** collection and the **[Rows](rows-object-powerpoint.md)** collection.
 
 
 ## Example
 
-Use  **Shapes** (index), where index is a number, to return a shape containing a table. Use the[HasTable](http://msdn.microsoft.com/library/fa38891a-e915-3a5c-4169-3c14e5e7136e%28Office.15%29.aspx)property to see if a shape contains a table. This example walks through the shapes on slide one, checks to see if each shape has a table, and then sets the mouse click action for each table shape to advance to the next slide.
+Use **Shapes** (index), where index is a number, to return a shape containing a table. Use the[HasTable](http://msdn.microsoft.com/library/fa38891a-e915-3a5c-4169-3c14e5e7136e%28Office.15%29.aspx)property to see if a shape contains a table. This example walks through the shapes on slide one, checks to see if each shape has a table, and then sets the mouse click action for each table shape to advance to the next slide.
 
 
 ```
@@ -39,7 +39,7 @@ With ActivePresentation.Slides(2).Shapes
 End With
 ```
 
-Use the [Cell](http://msdn.microsoft.com/library/31a2908b-7a33-994d-860a-e01da62729e7%28Office.15%29.aspx)method of the  **Table** object to access the contents of each cell. This example inserts the text "Cell 1" in the first cell of the table in shape five on slide three.
+Use the [Cell](http://msdn.microsoft.com/library/31a2908b-7a33-994d-860a-e01da62729e7%28Office.15%29.aspx)method of the **Table** object to access the contents of each cell. This example inserts the text "Cell 1" in the first cell of the table in shape five on slide three.
 
 
 

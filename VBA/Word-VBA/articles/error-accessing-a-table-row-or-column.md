@@ -18,7 +18,7 @@ End Sub
 ```
 
 
-You can avoid this error by first selecting the cells in a column or row using the  **[SelectColumn](selection-selectcolumn-method-word.md)** method or the  **[SelectRow](selection-selectrow-method-word.md)** method. After the selection is made, use the  **[Cells](selection-cells-property-word.md)** property with the  **[Selection](selection-object-word.md)** object. The following example selects the first row in the first document table. The  **Cells** property is used to access the selected cells (all the cells in the first row) so that borders can be removed.
+You can avoid this error by first selecting the cells in a column or row using the **[SelectColumn](selection-selectcolumn-method-word.md)** method or the **[SelectRow](selection-selectrow-method-word.md)** method. After the selection is made, use the **[Cells](selection-cells-property-word.md)** property with the **[Selection](selection-object-word.md)** object. The following example selects the first row in the first document table. The **Cells** property is used to access the selected cells (all the cells in the first row) so that borders can be removed.
 
 
 
@@ -33,7 +33,7 @@ Sub RemoveTableBorders()
 End Sub
 ```
 
-The following example selects the first column in the first document table. The  **For Each...Next** loop is used to add text to each cell in the selection (all the cells in the first column).
+The following example selects the first column in the first document table. The **For Each...Next** loop is used to add text to each cell in the selection (all the cells in the first column).
 
 
 

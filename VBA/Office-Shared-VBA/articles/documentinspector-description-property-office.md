@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentInspector.Description Property (Office)
 
-Gets the description of the  **DocumentInspector** object. Read-only.
+Gets the description of the **DocumentInspector** object. Read-only.
 
 
 ## Syntax

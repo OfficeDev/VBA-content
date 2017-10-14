@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.IsVisio32 Property (Visio)
 
-Returns  **True** if the current instance of Visio is 32-bit. Returns **False** if the current instance is 64-bit. Read-only.
+Returns **True** if the current instance of Visio is 32-bit. Returns **False** if the current instance is 64-bit. Read-only.
 
 
 ## Syntax

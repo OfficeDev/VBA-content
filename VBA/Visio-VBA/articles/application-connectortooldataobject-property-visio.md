@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ConnectorToolDataObject Property (Visio)
 
-Returns an  **IDataObject** interface representing the active **Connector** tool used in the Microsoft Visio user interface. Read-only.
+Returns an **IDataObject** interface representing the active **Connector** tool used in the Microsoft Visio user interface. Read-only.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ IDataObject
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ConnectorToolDataObject** property to connect two shapes. It drops two masters on the page and connects them with a **Dynamic Connector** shape, using dynamic glue. Before running this macro, open the **Basic Shapes** stencil, if it is not already open.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ConnectorToolDataObject** property to connect two shapes. It drops two masters on the page and connects them with a **Dynamic Connector** shape, using dynamic glue. Before running this macro, open the **Basic Shapes** stencil, if it is not already open.
 
 
 ```vb

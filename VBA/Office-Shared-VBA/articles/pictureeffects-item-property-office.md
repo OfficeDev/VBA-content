@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PictureEffects.Item Property (Office)
 
-Retrieves a  **PictureEffect** object at the specified index. Read-only
+Retrieves a **PictureEffect** object at the specified index. Read-only
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Retrieves a  **PictureEffect** object at the specified index. Read-only
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|Specifies an integer representing the indexed location of the  **PictureEffect** object.|
+| _Index_|Required|**Integer**|Specifies an integer representing the indexed location of the **PictureEffect** object.|
 
 ## See also
 

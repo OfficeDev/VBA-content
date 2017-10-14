@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.RecipientReassignmentProhibited Property (Outlook)
 
-Returns a  **Boolean** that indicates **true** if the recipient cannot forward the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns a **Boolean** that indicates **true** if the recipient cannot forward the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax

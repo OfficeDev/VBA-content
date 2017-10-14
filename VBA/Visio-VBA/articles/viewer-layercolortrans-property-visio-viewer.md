@@ -17,7 +17,7 @@ Gets or sets the transparency of the color of the layer at the specified index i
 
  _expression_. **LayerColorTrans**( **_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,9 +35,9 @@ Gets or sets the transparency of the color of the layer at the specified index i
 
 ## Remarks
 
-The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if you pass the index of a nonexistent layer, the  **LayerColorTrans** property returns 0.
+The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if you pass the index of a nonexistent layer, the **LayerColorTrans** property returns 0.
 
-The range of values for the  **LayerColorTrans** property is 0 to 1, which corresponds to a transparency percentage range of 0% to 100%. The property applies only to the active page in Visio Viewer.
+The range of values for the **LayerColorTrans** property is 0 to 1, which corresponds to a transparency percentage range of 0% to 100%. The property applies only to the active page in Visio Viewer.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlFormRegistry Enumeration (Outlook)
 
-Indicates the form registry (library) where the  **Form** is stored.
+Indicates the form registry (library) where the **Form** is stored.
 
 
 

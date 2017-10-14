@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Resource.EngagementDraftMaxUnits Property (Project)
 
-Returns the draft max units for the engagement. Read-only  **Integer**. Introduced in Office 2016.
+Returns the draft max units for the engagement. Read-only **Integer**. Introduced in Office 2016.
 
 
 ## Syntax

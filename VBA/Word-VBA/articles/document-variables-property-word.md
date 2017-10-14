@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Variables Property (Word)
 
-Returns a  **[Variables](variables-object-word.md)** collection that represents the variables stored in the specified document. Read-only.
+Returns a **[Variables](variables-object-word.md)** collection that represents the variables stored in the specified document. Read-only.
 
 
 ## Syntax

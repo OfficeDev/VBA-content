@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.IsOfficeTaskPaneVisible Method (Project)
 
-Returns  **True** if any of the Office task panes are visible.
+Returns **True** if any of the Office task panes are visible.
 
 
 ## Syntax

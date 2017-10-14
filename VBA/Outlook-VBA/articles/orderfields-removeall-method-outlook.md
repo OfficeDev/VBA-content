@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OrderFields.RemoveAll Method (Outlook)
 
-Removes all sorting properties from the  **[OrderFields](orderfields-object-outlook.md)** collection.
+Removes all sorting properties from the **[OrderFields](orderfields-object-outlook.md)** collection.
 
 
 ## Syntax

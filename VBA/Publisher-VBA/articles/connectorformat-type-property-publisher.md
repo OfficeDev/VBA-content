@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.Type Property (Publisher)
 
-Returns or sets an  **MsoConnectorType** constant that represents the connector type. Read/write.
+Returns or sets an **MsoConnectorType** constant that represents the connector type. Read/write.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_A variable that represents a **ConnectorFormat** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **MsoConnectorType** constants.
+The **Type** property value can be one of these **MsoConnectorType** constants.
 
 
 

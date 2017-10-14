@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Form.RecordsetType Property (Access)
 
-You can use the  **RecordsetType** property to specify what kind of recordset is made available to a form. Read/write **Byte**.
+You can use the **RecordsetType** property to specify what kind of recordset is made available to a form. Read/write **Byte**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ You can use the  **RecordsetType** property to specify what kind of recordset is
 
 ## Remarks
 
-The  **RecordsetType** property uses the following settings in a Microsoft Access database.
+The **RecordsetType** property uses the following settings in a Microsoft Access database.
 
 
 
@@ -33,19 +33,19 @@ The  **RecordsetType** property uses the following settings in a Microsoft Acces
 |1|Dynaset (Inconsistent Updates)|All tables and controls bound to their fields can be edited.|
 |2|Snapshot|No tables or the controls bound to their fields can be edited.|
 
- **Note**  If you don't want data in bound controls to be edited when a form is in Form view or Datasheet view, you can set the  **RecordsetType** property to 2.
+ **Note**  If you don't want data in bound controls to be edited when a form is in Form view or Datasheet view, you can set the **RecordsetType** property to 2.
 
 
- **Note**  Changing the  **RecordsetType** property of an open form or report causes an automatic recreation of the recordset.
+ **Note**  Changing the **RecordsetType** property of an open form or report causes an automatic recreation of the recordset.
 
-You can create forms based on multiple underlying tables with fields bound to controls on the forms. Depending on the  **RecordsetType** property setting, you can limit which of these bound controls can be edited.
+You can create forms based on multiple underlying tables with fields bound to controls on the forms. Depending on the **RecordsetType** property setting, you can limit which of these bound controls can be edited.
 
-In addition to the editing control provided by  **RecordsetType**, each control on a form has a **Locked** property that you can set to specify whether the control and its underlying data can be edited. If the **Locked** property is set to Yes, you can't edit the data.
+In addition to the editing control provided by **RecordsetType**, each control on a form has a **Locked** property that you can set to specify whether the control and its underlying data can be edited. If the **Locked** property is set to Yes, you can't edit the data.
 
 
 ## Example
 
-In the following example, only if the user ID is ADMIN can records be updated. This code sample sets the  **RecordsetType** property to Snapshot if the public variable gstrUserID value is not ADMIN.
+In the following example, only if the user ID is ADMIN can records be updated. This code sample sets the **RecordsetType** property to Snapshot if the public variable gstrUserID value is not ADMIN.
 
 
 ```vb

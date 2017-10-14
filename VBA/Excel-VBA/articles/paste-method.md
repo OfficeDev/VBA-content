@@ -19,7 +19,7 @@ Pastes the contents of the Clipboard into the specified range on the datasheet.
 
  _expression_ Required. An expression that returns a **Range** object.
 
- **Link** Optional **Variant**.  **True** to establish a link to the source of the pasted data. The default value is **False**.
+ **Link** Optional **Variant**. **True** to establish a link to the source of the pasted data. The default value is **False**.
 
 ## Example
 

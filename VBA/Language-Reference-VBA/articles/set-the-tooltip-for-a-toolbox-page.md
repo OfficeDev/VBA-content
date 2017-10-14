@@ -18,7 +18,7 @@ ms.date: 06/08/2017
     
 2. Right-click.
     
-3. From the shortcut menu, choose  **Rename**.
+3. From the shortcut menu, choose **Rename**.
     
 4. Enter the new text for the ToolTip.
     

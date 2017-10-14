@@ -16,11 +16,11 @@ Just as you can add ActiveX controls to custom dialog boxes, you can add control
 
 1. Add controls to documents
     
-    Display the  **Control Toolbox**, click the control you want to add, and then click the document.
+    Display the **Control Toolbox**, click the control you want to add, and then click the document.
     
 2. Set control properties
     
-    Right-click a control in design mode and click  **Properties** to display the **Properties** window.
+    Right-click a control in design mode and click **Properties** to display the **Properties** window.
     
 3. Initialize the control
     

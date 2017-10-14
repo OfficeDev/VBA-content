@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartTitle.Formula Property (Excel)
 
-Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
+Gets or sets a **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
 
 
 ## Syntax

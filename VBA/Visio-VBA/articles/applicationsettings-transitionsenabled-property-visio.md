@@ -30,8 +30,8 @@ Determines whether Microsoft Visio uses an animated transition to show certain s
 
 ## Remarks
 
-The  **TransitionsEnabled** property setting also determines whether changes of view (for example, those initiated in the **Pan &; Zoom** window) are animated.
+The **TransitionsEnabled** property setting also determines whether changes of view (for example, those initiated in the **Pan &; Zoom** window) are animated.
 
-The setting of the  **TransitionsEnabled** property corresponds to the setting of the **Enable transitions** check box under **Editing options** on the **Advanced** tab of the **Visio Options** dialog box. To open the **Visio Options** dialog box, click the **File** tab, click **Options**, and then click  **Advanced**. 
+The setting of the **TransitionsEnabled** property corresponds to the setting of the **Enable transitions** check box under **Editing options** on the **Advanced** tab of the **Visio Options** dialog box. To open the **Visio Options** dialog box, click the **File** tab, click **Options**, and then click **Advanced**. 
 
 

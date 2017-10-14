@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.AutoDiscoverXml Property (Outlook)
 
-Returns a  **String** that represents information in XML retrieved from the auto-discovery service of the Microsoft Exchange Server that is associated with the account. Read-only.
+Returns a **String** that represents information in XML retrieved from the auto-discovery service of the Microsoft Exchange Server that is associated with the account. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents information in XML retrieved from the auto
 
 ## Remarks
 
-This property is similar to the  **[AutoDiscoverXml](namespace-autodiscoverxml-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
+This property is similar to the **[AutoDiscoverXml](namespace-autodiscoverxml-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the account for which auto-discovery is completed and not necessarily to the primary Exchange account.
 
 The returned string of XML contains information about various Web services (for example, availability service and unified messaging service) and available servers.
 

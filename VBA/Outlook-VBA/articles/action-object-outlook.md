@@ -18,9 +18,9 @@ Represents a specialized action (for example, the voting options response) that 
 
 ## Remarks
 
-The  **Action** object is a member of the **[Actions](actions-object-outlook.md)** collection.
+The **Action** object is a member of the **[Actions](actions-object-outlook.md)** collection.
 
-Use  **[Actions](http://msdn.microsoft.com/library/1b7bb1c0-334f-826a-fd6b-8fc3f2fe5d64%28Office.15%29.aspx)** ( _index_ ), where _index_ is the name of an available action, to return a single **Action** object from the **Actions** collection object of an Outlook item, such as **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)**.
+Use **[Actions](http://msdn.microsoft.com/library/1b7bb1c0-334f-826a-fd6b-8fc3f2fe5d64%28Office.15%29.aspx)** ( _index_ ), where _index_ is the name of an available action, to return a single **Action** object from the **Actions** collection object of an Outlook item, such as **[MailItem](http://msdn.microsoft.com/library/14197346-05d2-0250-fa4c-4a6b07daf25f%28Office.15%29.aspx)**.
 
 
 ## Example

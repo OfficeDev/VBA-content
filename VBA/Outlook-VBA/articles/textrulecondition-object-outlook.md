@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRuleCondition Object (Outlook)
 
-Represents a rule condition that the part of the message, which can be the body, header, or subject, as specified by  **[TextRuleCondition.ConditionType](textrulecondition-conditiontype-property-outlook.md)**, contains the words specified in **[TextRuleCondition.Text](textrulecondition-text-property-outlook.md)**.
+Represents a rule condition that the part of the message, which can be the body, header, or subject, as specified by **[TextRuleCondition.ConditionType](textrulecondition-conditiontype-property-outlook.md)**, contains the words specified in **[TextRuleCondition.Text](textrulecondition-text-property-outlook.md)**.
 
 
 ## Remarks

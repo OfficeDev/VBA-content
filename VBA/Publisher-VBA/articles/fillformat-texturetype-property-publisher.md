@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureType Property (Publisher)
 
-Returns an  **MsoTextureType** constant indicating the texture type for the specified fill. Read-only.
+Returns an **MsoTextureType** constant indicating the texture type for the specified fill. Read-only.
 
 
 ## Syntax
 
  _expression_. **TextureType**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoTextureType
 
 ## Remarks
 
-This property is read-only. Use the  [PresetTextured](fillformat-presettextured-method-publisher.md)or  **[UserTextured](fillformat-usertextured-method-publisher.md)** method to set the texture type for the fill.
+This property is read-only. Use the  [PresetTextured](fillformat-presettextured-method-publisher.md)or **[UserTextured](fillformat-usertextured-method-publisher.md)** method to set the texture type for the fill.
 
-The property value can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

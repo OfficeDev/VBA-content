@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Index.SortBy Property (Word)
 
-Returns or sets the sorting criteria for the specified index. Read/write  **WdIndexSortBy** .
+Returns or sets the sorting criteria for the specified index. Read/write **WdIndexSortBy** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.InactiveListBorderVisible Property (Excel)
 
-A  **Boolean** value that specifies whether list borders are visible when a list is not active. Returns **True** if the border is visible. Read/write **Boolean** .
+A **Boolean** value that specifies whether list borders are visible when a list is not active. Returns **True** if the border is visible. Read/write **Boolean** .
 
 
 ## Syntax

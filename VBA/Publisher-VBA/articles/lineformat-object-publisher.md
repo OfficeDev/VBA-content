@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # LineFormat Object (Publisher)
 
-Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
+Represents line and arrowhead formatting. For a line, the **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
  
 
 
 ## Example
 
-Use the  **[Line](shape-line-property-publisher.md)** property to return a **LineFormat** object. The following example adds a blue, dashed line to the active document. There is a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
+Use the **[Line](shape-line-property-publisher.md)** property to return a **LineFormat** object. The following example adds a blue, dashed line to the active document. There is a short, narrow oval at the line's starting point and a long, wide triangle at its endpoint.
  
 
  

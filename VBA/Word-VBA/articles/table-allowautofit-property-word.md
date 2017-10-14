@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.AllowAutoFit Property (Word)
 
-Allows Microsoft Word to automatically resize cells in a table to fit their contents. Read/write  **Boolean** .
+Allows Microsoft Word to automatically resize cells in a table to fit their contents. Read/write **Boolean** .
 
 
 ## Syntax

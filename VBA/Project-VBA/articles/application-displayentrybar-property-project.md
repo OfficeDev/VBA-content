@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayEntryBar Property (Project)
 
-Gets or sets a value that determines whether the data entry bar is visible.  **True** if the data entry bar is visible. Read/write **Boolean**.
+Gets or sets a value that determines whether the data entry bar is visible. **True** if the data entry bar is visible. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,6 +27,6 @@ Gets or sets a value that determines whether the data entry bar is visible.  **T
 
 If the entry bar is selected and you run the command  `DisplayEntryBar = False`, Project shows run-time error 1100, "The method is not available in this situation."
 
-The  **DisplayEntryBar** property corresponds to the **Entry bar** checkbox on the **Display** tab of the **Project Options** dialog box.
+The **DisplayEntryBar** property corresponds to the **Entry bar** checkbox on the **Display** tab of the **Project Options** dialog box.
 
 

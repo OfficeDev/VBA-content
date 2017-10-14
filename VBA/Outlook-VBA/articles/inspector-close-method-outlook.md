@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.Close Method (Outlook)
 
-Closes the  **[Inspector](inspector-object-outlook.md)** and optionally saves changes to the displayed Outlook item.
+Closes the **[Inspector](inspector-object-outlook.md)** and optionally saves changes to the displayed Outlook item.
 
 
 ## Syntax

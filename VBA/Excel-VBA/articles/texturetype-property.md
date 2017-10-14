@@ -20,7 +20,7 @@ Returns the texture type for the specified fill. Read-only MsoTextureType .
 |MsoTextureType can be one of these MsoTextureType constants.|
 | **msoTexturePreset**|
 | **msoTextureTypeMixed**|
-| **msoTextureUserDefined**This property is read-only. Use the  **UserTextured** method to set the texture type for the fill.|
+| **msoTextureUserDefined**This property is read-only. Use the **UserTextured** method to set the texture type for the fill.|
 
  _expression_. **TextureType**
 

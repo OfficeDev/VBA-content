@@ -20,19 +20,19 @@ A collection of all the sheets in the specified or active workbook.
 
  The **Sheets** collection can contain **[Chart](chart-object-excel.md)** or **[Worksheet](worksheet-object-excel.md)** objects.
 
-The  **Sheets** collection is useful when you want to return sheets of any type. If you need to work with sheets of only one type, see the object topic for that sheet type.
+The **Sheets** collection is useful when you want to return sheets of any type. If you need to work with sheets of only one type, see the object topic for that sheet type.
 
 
 ## Example
 
-Use the  **[Sheets](workbook-sheets-property-excel.md)** property to return the **Sheets** collection. The following example prints all sheets in the active workbook.
+Use the **[Sheets](workbook-sheets-property-excel.md)** property to return the **Sheets** collection. The following example prints all sheets in the active workbook.
 
 
 ```
 Sheets.PrintOut
 ```
 
-Use the  **[Add](sheets-add-method-excel.md)** method to create a new sheet and add it to the collection. The following example adds two chart sheets to the active workbook, placing them after sheet two in the workbook.
+Use the **[Add](sheets-add-method-excel.md)** method to create a new sheet and add it to the collection. The following example adds two chart sheets to the active workbook, placing them after sheet two in the workbook.
 
 
 
@@ -41,7 +41,7 @@ Use the  **[Add](sheets-add-method-excel.md)** method to create a new sheet and 
 Sheets.Add type:=xlChart, count:=2, after:=Sheets(2)
 ```
 
-Use  **Sheets** ( _index_ ), where _index_ is the sheet name or index number, to return a single **Chart** or **Worksheet** object. The following example activates the sheet named "sheet1."
+Use **Sheets** ( _index_ ), where _index_ is the sheet name or index number, to return a single **Chart** or **Worksheet** object. The following example activates the sheet named "sheet1."
 
 
 
@@ -50,7 +50,7 @@ Use  **Sheets** ( _index_ ), where _index_ is the sheet name or index number, to
 Sheets("sheet1").Activate
 ```
 
-Use  **Sheets** ( _array_ ) to specify more than one sheet. The following example moves the sheets named "Sheet4" and "Sheet5" to the beginning of the workbook.
+Use **Sheets** ( _array_ ) to specify more than one sheet. The following example moves the sheets named "Sheet4" and "Sheet5" to the beginning of the workbook.
 
 
 

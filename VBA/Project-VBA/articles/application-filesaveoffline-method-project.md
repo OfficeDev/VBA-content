@@ -29,7 +29,7 @@ Saves the file for viewing offline.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Save_|Optional|**Long**|Can be one of the following  **PjSaveType** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default value is **pjPromptSave** for new project files and projects that have changed since the last save.|
+| _Save_|Optional|**Long**|Can be one of the following **PjSaveType** constants: **pjDoNotSave**, **pjSave**, or **pjPromptSave**. The default value is **pjPromptSave** for new project files and projects that have changed since the last save.|
 
 ### Return Value
 

@@ -25,7 +25,7 @@ Removes manual paragraph formatting (formatting not applied using a style).
 
 ## Remarks
 
-If you manually right align a paragraph and the underlying style has a different alignment, the  **Reset** method changes the alignment to match the formatting of the underlying style.
+If you manually right align a paragraph and the underlying style has a different alignment, the **Reset** method changes the alignment to match the formatting of the underlying style.
 
 
 ## Example

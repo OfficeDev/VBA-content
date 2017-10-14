@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # View.RevisionsFilter Property (Word)
 
-Returns an instance of a  **RevisionsFilter** object. Read-only.
+Returns an instance of a **RevisionsFilter** object. Read-only.
 
 
 ## Syntax

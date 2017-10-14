@@ -20,7 +20,7 @@ Merges the specified table cell with another cell. The result is a single table 
 
  _expression_. **Merge**( **_MergeTo_**)
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ### Parameters

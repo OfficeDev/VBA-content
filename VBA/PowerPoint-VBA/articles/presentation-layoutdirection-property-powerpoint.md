@@ -30,7 +30,7 @@ PpDirection
 
 ## Remarks
 
-The value of the  **LayoutDirection** property can be one of these **PpDirection** constants. The default value depends on the language support you have selected or installed.
+The value of the **LayoutDirection** property can be one of these **PpDirection** constants. The default value depends on the language support you have selected or installed.
 
 
 ||

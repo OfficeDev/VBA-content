@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.RemainingWork Property (Project)
 
-Gets or sets the remaining work (in minutes) for the task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the remaining work (in minutes) for the task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # How to: Allow Multiple Lines, Word Wrapping, and Scrolling in a Text Box
 
-The following example demonstrates the  **[MultiLine](textbox-multiline-property-outlook-forms-script.md)**,  **[WordWrap](textbox-wordwrap-property-outlook-forms-script.md)**, and  **[ScrollBars](textbox-scrollbars-property-outlook-forms-script.md)** properties on a **[TextBox](textbox-object-outlook-forms-script.md)**.
+The following example demonstrates the **[MultiLine](textbox-multiline-property-outlook-forms-script.md)**, **[WordWrap](textbox-wordwrap-property-outlook-forms-script.md)**, and **[ScrollBars](textbox-scrollbars-property-outlook-forms-script.md)** properties on a **[TextBox](textbox-object-outlook-forms-script.md)**.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Four  **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 through ToggleButton4.
+- Four **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 through ToggleButton4.
     
-To see the entire text placed in the  **TextBox**, set  **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
-When  **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
+To see the entire text placed in the **TextBox**, set **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
+When **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
  **ScrollBars** appears when you manually change the content of the **TextBox**.
 
 

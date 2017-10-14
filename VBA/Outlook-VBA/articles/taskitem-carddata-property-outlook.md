@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.CardData Property (Outlook)
 
-Returns or sets a  **String** representing the text of the card data for the task. Read/write.
+Returns or sets a **String** representing the text of the card data for the task. Read/write.
 
 
 ## Syntax

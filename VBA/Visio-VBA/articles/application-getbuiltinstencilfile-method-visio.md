@@ -45,15 +45,15 @@ The  _StencilType_ parameter value must be one of the following **VisBuiltInSten
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visBuiltInStencilBackgrounds**|0|The hidden stencil that contains the shapes displayed in the  **Backgrounds** gallery ( **Design** tab).|
-| **visBuiltInStencilBorders**|1|The hidden stencil that contains the shapes displayed in the  **Borders and Titles** gallery ( **Design** tab).|
-| **visBuiltInStencilContainers**|2|The hidden stencil that contains the shapes displayed in the  **Container** gallery ( **Insert** tab).|
-| **visBuiltInStencilCallouts**|3|The hidden stencil that contains the shapes displayed in the  **Callout** gallery ( **Insert** tab).|
-| **visBuiltInStencilLegends**|4|The hidden stencil that contains the shapes displayed in the  **Insert Legend** gallery ( **Data** tab).|
+| **visBuiltInStencilBackgrounds**|0|The hidden stencil that contains the shapes displayed in the **Backgrounds** gallery ( **Design** tab).|
+| **visBuiltInStencilBorders**|1|The hidden stencil that contains the shapes displayed in the **Borders and Titles** gallery ( **Design** tab).|
+| **visBuiltInStencilContainers**|2|The hidden stencil that contains the shapes displayed in the **Container** gallery ( **Insert** tab).|
+| **visBuiltInStencilCallouts**|3|The hidden stencil that contains the shapes displayed in the **Callout** gallery ( **Insert** tab).|
+| **visBuiltInStencilLegends**|4|The hidden stencil that contains the shapes displayed in the **Insert Legend** gallery ( **Data** tab).|
 
 ## Example
 
-The following Visual Basic for Applications (VBA) code sample shows how to use the  **GetBuiltInStencilFile** method to open the built-in, hidden, container stencil, and to add one of the containers from that stencil to the active page to contain the selected shape or shapes. Before you run this code, be sure that there is a selected shape (or a selection of shapes) on the active page.
+The following Visual Basic for Applications (VBA) code sample shows how to use the **GetBuiltInStencilFile** method to open the built-in, hidden, container stencil, and to add one of the containers from that stencil to the active page to contain the selected shape or shapes. Before you run this code, be sure that there is a selected shape (or a selection of shapes) on the active page.
 
 
 ```vb

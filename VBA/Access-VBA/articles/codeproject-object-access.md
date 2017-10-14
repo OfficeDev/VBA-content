@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CodeProject Object (Access)
 
-The  **CodeProject** object refers to the project for the code database of a Microsoft Access project (.adp) or Access database.
+The **CodeProject** object refers to the project for the code database of a Microsoft Access project (.adp) or Access database.
 
 
 ## Remarks
 
-The  **CodeProject** object has several collections that contain specific[AccessObject](accessobject-object-access.md)objects within the code database. The following table lists the name of each collection defined by Access project and the types of objects it contains.
+The **CodeProject** object has several collections that contain specific[AccessObject](accessobject-object-access.md)objects within the code database. The following table lists the name of each collection defined by Access project and the types of objects it contains.
 
 
 
@@ -31,7 +31,7 @@ The  **CodeProject** object has several collections that contain specific[Access
 
  **Note**   The collections in the preceding table contain all of the respective objects in the database regardless if they are opened or closed.
 
-For example, an  **AccessObject** object representing a form is a member of the **AllForms** collection, which is a collection of **AccessObject** objects within the current database. Within the **AllForms** collection, individual members of the collection are indexed beginning with zero. You can refer to an individual **AccessObject** object in the **AllForms** collection either by referring to the form by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllForms** collection, it's better to refer to it by name because a item's collection index may change. If the object name includes a space, the name must be surrounded by brackets ([ ]).
+For example, an **AccessObject** object representing a form is a member of the **AllForms** collection, which is a collection of **AccessObject** objects within the current database. Within the **AllForms** collection, individual members of the collection are indexed beginning with zero. You can refer to an individual **AccessObject** object in the **AllForms** collection either by referring to the form by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllForms** collection, it's better to refer to it by name because a item's collection index may change. If the object name includes a space, the name must be surrounded by brackets ([ ]).
 
 
 

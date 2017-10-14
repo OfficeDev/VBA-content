@@ -25,7 +25,7 @@ Use the [ListColumns](listobject-listcolumns-property-excel.md) property of the 
 
 ## Example
 
-The following example adds a new  **ListColumn** object to the default **ListObject** object in the first worksheet of the active workbook. Because no position is specified, a new rightmost column is added.
+The following example adds a new **ListColumn** object to the default **ListObject** object in the first worksheet of the active workbook. Because no position is specified, a new rightmost column is added.
 
 
 ```

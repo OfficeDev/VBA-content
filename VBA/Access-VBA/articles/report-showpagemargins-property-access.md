@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.ShowPageMargins Property (Access)
 
-Gets or sets whether page margins are displayed when the specified report is in Layout view. Read/write  **Boolean**.
+Gets or sets whether page margins are displayed when the specified report is in Layout view. Read/write **Boolean**.
 
 
 ## Syntax

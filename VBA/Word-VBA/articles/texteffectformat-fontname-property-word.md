@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.FontName Property (Word)
 
-Returns or sets the name of the font for the dropped capital letter. Read/write  **String** .
+Returns or sets the name of the font for the dropped capital letter. Read/write **String** .
 
 
 ## Syntax

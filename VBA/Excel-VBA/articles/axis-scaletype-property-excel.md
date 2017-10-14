@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.ScaleType Property (Excel)
 
-Returns or sets the value axis scale type. Read/write  **[XlScaleType](xlscaletype-enumeration-excel.md)** .
+Returns or sets the value axis scale type. Read/write **[XlScaleType](xlscaletype-enumeration-excel.md)** .
 
 
 ## Syntax

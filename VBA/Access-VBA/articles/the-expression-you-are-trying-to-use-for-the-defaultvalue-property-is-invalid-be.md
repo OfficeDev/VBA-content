@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The expression you are trying to use for the  **DefaultValue** property is invalid. Set the property to a valid expression.
+The expression you are trying to use for the **DefaultValue** property is invalid. Set the property to a valid expression.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

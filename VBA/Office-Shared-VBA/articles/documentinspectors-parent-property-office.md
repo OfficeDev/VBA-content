@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentInspectors.Parent Property (Office)
 
-Gets an object that represents the parent of a  **DocumentInspectors** object. Read-only.
+Gets an object that represents the parent of a **DocumentInspectors** object. Read-only.
 
 
 ## Syntax

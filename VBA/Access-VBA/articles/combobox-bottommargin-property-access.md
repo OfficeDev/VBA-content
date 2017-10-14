@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.BottomMargin Property (Access)
 
-Along with the  **LeftMargin**, **RightMargin**, and **TopMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.
+Along with the **LeftMargin**, **RightMargin**, and **TopMargin** properties, specifies the location of information displayed within a text box control. Read/write **Integer**.
 
 
 ## Syntax

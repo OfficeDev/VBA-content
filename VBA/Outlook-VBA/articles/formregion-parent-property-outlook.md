@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormRegion.Parent Property (Outlook)
 
-Returns the parent  **Object** of the form region. Read-only.
+Returns the parent **Object** of the form region. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.SmallChange Property (Excel)
 
-Returns or sets the amount that the scroll bar or spinner is incremented or decremented for a line scroll (when the user clicks an arrow). Read/write  **Long** .
+Returns or sets the amount that the scroll bar or spinner is incremented or decremented for a line scroll (when the user clicks an arrow). Read/write **Long** .
 
 
 ## Syntax

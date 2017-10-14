@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.DeviceName Property (Access)
 
-Returns a  **String** indicating name of the specified printer device. Read-only.
+Returns a **String** indicating name of the specified printer device. Read-only.
 
 
 ## Syntax

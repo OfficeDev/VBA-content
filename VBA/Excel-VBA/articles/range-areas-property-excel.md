@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Areas Property (Excel)
 
-Returns an  **[Areas](areas-object-excel.md)** collection that represents all the ranges in a multiple-area selection. Read-only.
+Returns an **[Areas](areas-object-excel.md)** collection that represents all the ranges in a multiple-area selection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Areas](areas-object-excel.md)** collection that represents all th
 
 ## Remarks
 
-For a single selection, the  **Areas** property returns a collection that contains one object — the original **Range** object itself. For a multiple-area selection, the **Areas** property returns a collection that contains one object for each selected area.
+For a single selection, the **Areas** property returns a collection that contains one object — the original **Range** object itself. For a multiple-area selection, the **Areas** property returns a collection that contains one object for each selected area.
 
 
 ## Example

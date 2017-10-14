@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.TopPadding Property (Word)
 
-Returns or sets the amount of space (in points) to add above the contents of all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add above the contents of all the cells in a table. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the amount of space (in points) to add above the contents of all
 
 ## Remarks
 
-The setting of the  **TopPadding** property for a single cell overrides the setting of the **TopPadding** property for the entire table.
+The setting of the **TopPadding** property for a single cell overrides the setting of the **TopPadding** property for the entire table.
 
 
 ## See also

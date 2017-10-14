@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotOnX Property
 
-Returns or sets the index of the data sheet row whose contents are to be used as the X-axis values in the specified X-Y scatter chart. Read/write  **Long**.
+Returns or sets the index of the data sheet row whose contents are to be used as the X-axis values in the specified X-Y scatter chart. Read/write **Long**.
 
 
 ## Example

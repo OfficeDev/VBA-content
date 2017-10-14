@@ -32,7 +32,7 @@ This example enables Word to display comments, footnotes, and endnotes as tips. 
 Application.DisplayScreenTips = True
 ```
 
-This example returns the current status of the  **ScreenTips** checkbox in the **Show** area on the **View** tab in the **Options** dialog box.
+This example returns the current status of the **ScreenTips** checkbox in the **Show** area on the **View** tab in the **Options** dialog box.
 
 
 

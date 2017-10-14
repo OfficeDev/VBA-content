@@ -29,8 +29,8 @@ Customizes which IME mode is used on a given field.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Optional|**Long**|The field to customize. The default value is  **pjTaskName**. Can be one of the **[PjField](pjfield-enumeration-project.md)** constants|
-| _IMEMode_|Optional|**Long**|Specifies the IME mode to use when the focus is on a table column. The default value is  **pjIMEModeNoControl**. Can be one of the **[PjIMEMode](pjimemode-enumeration-project.md)** constants.|
+| _FieldID_|Optional|**Long**|The field to customize. The default value is **pjTaskName**. Can be one of the **[PjField](pjfield-enumeration-project.md)** constants|
+| _IMEMode_|Optional|**Long**|Specifies the IME mode to use when the focus is on a table column. The default value is **pjIMEModeNoControl**. Can be one of the **[PjIMEMode](pjimemode-enumeration-project.md)** constants.|
 
 ### Return Value
 
@@ -39,8 +39,8 @@ Customizes which IME mode is used on a given field.
 
 ## Remarks
 
-The  **CustomizeIMEMode** method produces tangible results only if an East Asian version of Project is used.
+The **CustomizeIMEMode** method produces tangible results only if an East Asian version of Project is used.
 
-Using the  **CustomizeIMEMode** method without specifying any arguments displays the **Customize IME Mode** dialog box.
+Using the **CustomizeIMEMode** method without specifying any arguments displays the **Customize IME Mode** dialog box.
 
 

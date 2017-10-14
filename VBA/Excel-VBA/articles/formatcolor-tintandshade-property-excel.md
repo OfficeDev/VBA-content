@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatColor.TintAndShade Property (Excel)
 
-Returns or sets a  **Single** that lightens or darkens the fill color of a cell for a threshold of a data bar or color scale conditional formatting rule.
+Returns or sets a **Single** that lightens or darkens the fill color of a cell for a threshold of a data bar or color scale conditional formatting rule.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that lightens or darkens the fill color of a cell 
 
 ## Remarks
 
-You can enter a number from -1 (darkest) to 1 (lightest) for the  **TintAndShade** property. Zero (0) is neutral.
+You can enter a number from -1 (darkest) to 1 (lightest) for the **TintAndShade** property. Zero (0) is neutral.
 
 
 ## See also

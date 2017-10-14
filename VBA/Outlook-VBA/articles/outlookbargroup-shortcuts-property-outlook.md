@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarGroup.Shortcuts Property (Outlook)
 
-Returns an  **[OutlookBarShortcuts](outlookbarshortcuts-object-outlook.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
+Returns an **[OutlookBarShortcuts](outlookbarshortcuts-object-outlook.md)** collection of shortcuts contained within the **Shortcuts** pane. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OutlookBarShortcuts](outlookbarshortcuts-object-outlook.md)** col
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example deletes all empty groups in the  **Shortcuts** pane.
+This Microsoft Visual Basic for Applications (VBA) example deletes all empty groups in the **Shortcuts** pane.
 
 
 ```vb

@@ -23,7 +23,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The setting of the  **PreferCloudSaveLocations** property is the reverse of that of the **Save to Computer by default** option on the **Save** tab of the **Word Options** dialog box (Choose **Options** on the **File** tab.)
+The setting of the **PreferCloudSaveLocations** property is the reverse of that of the **Save to Computer by default** option on the **Save** tab of the **Word Options** dialog box (Choose **Options** on the **File** tab.)
 
 
 ## Property value

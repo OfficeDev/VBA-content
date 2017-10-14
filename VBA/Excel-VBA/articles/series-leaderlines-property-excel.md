@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.LeaderLines Property (Excel)
 
-Returns a  **LeaderLines** object that represents the leader lines for the series. Read-only.
+Returns a **LeaderLines** object that represents the leader lines for the series. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.BevelBottomType Property (Word)
 
-Returns or sets an  **MsoPresetCamera** constant that represents the bevel type for the bottom bevel. Read/write.
+Returns or sets an **MsoPresetCamera** constant that represents the bevel type for the bottom bevel. Read/write.
 
 
 ## Syntax

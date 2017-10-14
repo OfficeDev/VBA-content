@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.FindControls Method (Office)
 
-Gets the  **CommandBarControls** collection that fits the specified criteria.
+Gets the **CommandBarControls** collection that fits the specified criteria.
 
 
 ## 
@@ -35,7 +35,7 @@ Gets the  **CommandBarControls** collection that fits the specified criteria.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Variant**|Is one of the  **MsoControlType** constants specfying the type of control.|
+| _Type_|Optional|**Variant**|Is one of the **MsoControlType** constants specfying the type of control.|
 | _Id_|Optional|**Variant**|The control's identifier.|
 | _Tag_|Optional|**Variant**|The control's tag value.|
 | _Visible_|Optional|**Variant**|**True** to include only visible command bar controls in the search. The default value is False.|
@@ -47,7 +47,7 @@ CommandBarControls
 
 ## Remarks
 
-If no controls that fits the criteria are found, the  **FindControls** method returns **Nothing**.
+If no controls that fits the criteria are found, the **FindControls** method returns **Nothing**.
 
 
 ## Example

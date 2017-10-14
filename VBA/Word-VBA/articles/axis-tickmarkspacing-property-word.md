@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickMarkSpacing Property (Word)
 
-Returns or sets the number of categories or series between tick marks. Read/write  **Long** .
+Returns or sets the number of categories or series between tick marks. Read/write **Long** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the number of categories or series between tick marks. Read/writ
 
 This property applies only to category and series axes. It can be a value from 1 through 31999. 
 
-Use the  **[MajorUnit](axis-majorunit-property-word.md)** and **[MinorUnit](axis-minorunit-property-word.md)** properties to set tick-mark spacing on the value axis.
+Use the **[MajorUnit](axis-majorunit-property-word.md)** and **[MinorUnit](axis-minorunit-property-word.md)** properties to set tick-mark spacing on the value axis.
 
 
 ## Example

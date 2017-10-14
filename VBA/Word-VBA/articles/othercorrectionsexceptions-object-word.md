@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # OtherCorrectionsExceptions Object (Word)
 
-A collection of  **OtherCorrectionsException** objects that represents the list of words that Microsoft Word won't correct automatically.
+A collection of **OtherCorrectionsException** objects that represents the list of words that Microsoft Word won't correct automatically.
 
 
 ## Remarks
 
-This list corresponds to the list of AutoCorrect exceptions on the  **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
+This list corresponds to the list of AutoCorrect exceptions on the **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
 
-Use the  **OtherCorrectionsExceptions** property to return the **OtherCorrectionsExceptions** collection. The following example displays the items in this collection.
+Use the **OtherCorrectionsExceptions** property to return the **OtherCorrectionsExceptions** collection. The following example displays the items in this collection.
 
 
 
@@ -26,7 +26,7 @@ For Each aCap In AutoCorrect.OtherCorrectionsExceptions
 Next aCap
 ```
 
-If the value of the  **OtherCorrectionsAutoAdd** property is **True** , words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
+If the value of the **OtherCorrectionsAutoAdd** property is **True** , words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
 
 
 
@@ -35,7 +35,7 @@ If the value of the  **OtherCorrectionsAutoAdd** property is **True** , words ar
 AutoCorrect.OtherCorrectionsExceptions.Add Name:="TipTop"
 ```
 
-Use  **OtherCorrectionsExceptions** (Index), where Index is the name or the index number, to return a single **OtherCorrectionsException** object. The following example deletes "WTop" from the list of AutoCorrect exceptions.
+Use **OtherCorrectionsExceptions** (Index), where Index is the name or the index number, to return a single **OtherCorrectionsException** object. The following example deletes "WTop" from the list of AutoCorrect exceptions.
 
 
 
@@ -44,7 +44,7 @@ Use  **OtherCorrectionsExceptions** (Index), where Index is the name or the inde
 AutoCorrect.OtherCorrectionsExceptions("WTop").Delete
 ```
 
-The index number represents the position of the AutoCorrect exception in the  **OtherCorrectionsExceptions** collection. The following example displays the name of the first item in the **OtherCorrectionsExceptions** collection.
+The index number represents the position of the AutoCorrect exception in the **OtherCorrectionsExceptions** collection. The following example displays the name of the first item in the **OtherCorrectionsExceptions** collection.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.ExchangeConnectionMode Property (Outlook)
 
-Returns an  **[OlExchangeConnectionMode](olexchangeconnectionmode-enumeration-outlook.md)** constant that indicates the current connection mode for the Microsoft Exchange Server that hosts the account mailbox. Read-only
+Returns an **[OlExchangeConnectionMode](olexchangeconnectionmode-enumeration-outlook.md)** constant that indicates the current connection mode for the Microsoft Exchange Server that hosts the account mailbox. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlExchangeConnectionMode](olexchangeconnectionmode-enumeration-ou
 
 ## Remarks
 
-This property is similar to the  **[ExchangeConnectionMode](namespace-exchangeconnectionmode-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
+This property is similar to the **[ExchangeConnectionMode](namespace-exchangeconnectionmode-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.RecipientGender Property (Word)
 
-Returns or sets the recipient's gender, if known. Not used in the U.S. English version of Microsoft Word. Read/write  **WdSalutationGender** .
+Returns or sets the recipient's gender, if known. Not used in the U.S. English version of Microsoft Word. Read/write **WdSalutationGender** .
 
 
 ## Syntax

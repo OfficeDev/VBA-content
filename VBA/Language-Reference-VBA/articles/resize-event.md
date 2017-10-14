@@ -23,7 +23,7 @@ Use a Resize event [procedure](vbe-glossary.md) to move or resize[controls](vbe-
 
 ## Example
 
-The following example uses the Activate and Click events to illustrate triggering of the  **UserForm's** Resize event. As the user clicks the client area of the form, it grows or shrinks and the new height is specified in the title bar. Note that the **Tag** property is used to store the **UserForm's** initial height.
+The following example uses the Activate and Click events to illustrate triggering of the **UserForm's** Resize event. As the user clicks the client area of the form, it grows or shrinks and the new height is specified in the title bar. Note that the **Tag** property is used to store the **UserForm's** initial height.
 
 
 ```vb

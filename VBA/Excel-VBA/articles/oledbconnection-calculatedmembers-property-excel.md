@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.CalculatedMembers Property (Excel)
 
-Returns the  **[CalculatedMembers](calculatedmembers-object-excel.md)** collection for the specified connection. Read-only
+Returns the **[CalculatedMembers](calculatedmembers-object-excel.md)** collection for the specified connection. Read-only
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns the  **[CalculatedMembers](calculatedmembers-object-excel.md)** collecti
 
 ## Remarks
 
-Use the  **CalculatedMembers** property of the **OLEDBConnection** collection to share calculated members between multiple PivotTables and cube functions that use the same connection.
+Use the **CalculatedMembers** property of the **OLEDBConnection** collection to share calculated members between multiple PivotTables and cube functions that use the same connection.
 
 
 ## See also

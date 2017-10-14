@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ListString Property (Word)
 
-Returns a  **String** that represents the appearance of the list value of the first paragraph in the range for the specified **ListFormat** object. For example, the second paragraph in an alphabetical list would return B. Read-only.
+Returns a **String** that represents the appearance of the list value of the first paragraph in the range for the specified **ListFormat** object. For example, the second paragraph in an alphabetical list would return B. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **String** that represents the appearance of the list value of the fi
 
 For a bulleted list, you will need to apply the correct font to see the string. Most bullets use the Symbol or Wingdings font.
 
-Use the  **[ListValue](listformat-listvalue-property-word.md)** property to return the numeric value of the paragraph.
+Use the **[ListValue](listformat-listvalue-property-word.md)** property to return the numeric value of the paragraph.
 
 
 ## Example

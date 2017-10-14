@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # UserAccessList Object (Excel)
 
-A collection of  **[UserAccess](useraccess-object-excel.md)** objects that represent the user access for protected ranges.
+A collection of **[UserAccess](useraccess-object-excel.md)** objects that represent the user access for protected ranges.
 
 
 ## Example
 
-Use the  **[Users](alloweditrange-users-property-excel.md)** property of the protected **[Range](range-object-excel.md)** object to return a **UserAccessList** collection.
+Use the **[Users](alloweditrange-users-property-excel.md)** property of the protected **[Range](range-object-excel.md)** object to return a **UserAccessList** collection.
 
 
 
-Once a  **UserAccessList** collection is returned you can use the **[Count](useraccesslist-count-property-excel.md)** property to determine the number of users that have access to a protected range. In the following example, Microsoft Excel notifies the user the numbers users that have access to the first protected range. This example assumes that a protected range exists on the active worksheet.
+Once a **UserAccessList** collection is returned you can use the **[Count](useraccesslist-count-property-excel.md)** property to determine the number of users that have access to a protected range. In the following example, Microsoft Excel notifies the user the numbers users that have access to the first protected range. This example assumes that a protected range exists on the active worksheet.
 
 
 

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
     
 2. Select a control in the tab order.
     
-3. In the  **Properties** window, select the **TabIndex** property.
+3. In the **Properties** window, select the **TabIndex** property.
     
 4. Enter the appropriate number to identify the control's position in the tab order.
     

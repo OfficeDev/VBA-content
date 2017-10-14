@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.SourceDataFile Property (Excel)
 
-Returns a  **String** value that indicates the source data file for the cache of the PivotTable.
+Returns a **String** value that indicates the source data file for the cache of the PivotTable.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that indicates the source data file for the cache of
 
 ## Remarks
 
-For file-based data sources (e.g. Access), the  **SourceDataFile** property contains a fully qualified path to the source data file. It is set to **Null** for server-based data sources (e.g. SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](pivotcache-connection-property-excel.md)** property is changed programmatically.
+For file-based data sources (e.g. Access), the **SourceDataFile** property contains a fully qualified path to the source data file. It is set to **Null** for server-based data sources (e.g. SQL Server). The **SourceDataFile** property is set to **Null** if the **[Connection](pivotcache-connection-property-excel.md)** property is changed programmatically.
 
 
 ## Example

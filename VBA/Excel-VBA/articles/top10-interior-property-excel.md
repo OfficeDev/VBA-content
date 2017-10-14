@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Top10.Interior Property (Excel)
 
-Returns an  **[Interior](interior-object-excel.md)** object that specifies a cell's interior attributes for a conditional formatting rule that evaluates to **True** . Read-only.
+Returns an **[Interior](interior-object-excel.md)** object that specifies a cell's interior attributes for a conditional formatting rule that evaluates to **True** . Read-only.
 
 
 ## Syntax

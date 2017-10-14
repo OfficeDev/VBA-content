@@ -20,7 +20,7 @@ Occurs when opening a document.
 
  _expression_. **DocumentOpen**( **_Doc_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters

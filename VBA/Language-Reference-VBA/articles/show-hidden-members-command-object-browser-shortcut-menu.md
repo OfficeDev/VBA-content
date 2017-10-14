@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Show Hidden Members Command (Object Browser Shortcut Menu)
 
-Shows and hides the hidden members in the  **Object** **Browser** for each class. Hidden members are members that are not intended for use by the programmer of the reusable object and are not normally visible in the **Object** **Browser**. They appear as light gray text.
+Shows and hides the hidden members in the **Object** **Browser** for each class. Hidden members are members that are not intended for use by the programmer of the reusable object and are not normally visible in the **Object** **Browser**. They appear as light gray text.
 
 

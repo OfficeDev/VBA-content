@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebListBox.ListBoxItems Property (Publisher)
 
-Returns a  **[WebListBoxItems](weblistboxitems-object-publisher.md)** object that represents the items in a Web list box control.
+Returns a **[WebListBoxItems](weblistboxitems-object-publisher.md)** object that represents the items in a Web list box control.
 
 
 ## Syntax
 
  _expression_. **ListBoxItems**
 
- _expression_A variable that represents a  **WebListBox** object.
+ _expression_A variable that represents a **WebListBox** object.
 
 
 ### Return Value

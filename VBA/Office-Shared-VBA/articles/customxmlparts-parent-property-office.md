@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLParts.Parent Property (Office)
 
-Gets the  **Parent** object for the **CustomXMLParts** object. Read-only.
+Gets the **Parent** object for the **CustomXMLParts** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.TextFrame Property (Excel)
 
-Returns a  **[TextFrame](textframe-object-excel.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
+Returns a **[TextFrame](textframe-object-excel.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
 
 
 ## Syntax

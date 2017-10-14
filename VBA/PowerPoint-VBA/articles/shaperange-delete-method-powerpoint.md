@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Delete Method (PowerPoint)
 
-Deletes the specified  **ShapeRange** object.
+Deletes the specified **ShapeRange** object.
 
 
 ## Syntax

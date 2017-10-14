@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # HeadingStyle Object (Word)
 
-Represents a style used to build a table of contents or figures. The  **HeadingStyle** object is a member of the **[HeadingStyles](headingstyles-object-word.md)** collection.
+Represents a style used to build a table of contents or figures. The **HeadingStyle** object is a member of the **[HeadingStyles](headingstyles-object-word.md)** collection.
 
 
 ## Remarks
 
-Use  **HeadingStyles** (Index), where Index is the index number, to return a single **HeadingStyle** object. The index number represents the position of the style in the **HeadingStyles** collection. The following example adds (at the beginning of the active document) a table of figures built from the Title style, and then displays the name of the first style in the **HeadingStyles** collection.
+Use **HeadingStyles** (Index), where Index is the index number, to return a single **HeadingStyle** object. The index number represents the position of the style in the **HeadingStyles** collection. The following example adds (at the beginning of the active document) a table of figures built from the Title style, and then displays the name of the first style in the **HeadingStyles** collection.
 
 
 ```vb
@@ -27,7 +27,7 @@ Set myTOF = ActiveDocument.TablesOfFigures.Add _
 MsgBox myTOF.HeadingStyles(1).Style
 ```
 
-Use the  **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
+Use the **Add** method to add a style to the **HeadingStyles** collection. The following example adds a table of contents at the beginning of the active document and then adds the Title style to the list of styles used to build a table of contents.
 
 
 

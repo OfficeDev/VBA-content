@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.PasswordEncryptionAlgorithm Property (Word)
 
-Returns a  **String** indicating the algorithm Microsoft Word uses for encrypting documents with passwords. Read-only.
+Returns a **String** indicating the algorithm Microsoft Word uses for encrypting documents with passwords. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** indicating the algorithm Microsoft Word uses for encryptin
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify the algorithm Word uses for encrypting documents with passwords.
+Use the **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify the algorithm Word uses for encrypting documents with passwords.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NoteItem.Height Property (Outlook)
 
-Returns or sets a  **Long** specifying the height (in pixels) of the note window. Read/write.
+Returns or sets a **Long** specifying the height (in pixels) of the note window. Read/write.
 
 
 ## Syntax

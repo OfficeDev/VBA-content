@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.MinMaxButtons Property (Access)
 
-You can use the  **MinMaxButtons** property to specify whether the **Maximize** and **Minimize** buttons will be visible on a report. Read/write **Byte**.
+You can use the **MinMaxButtons** property to specify whether the **Maximize** and **Minimize** buttons will be visible on a report. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,17 +25,17 @@ You can use the  **MinMaxButtons** property to specify whether the **Maximize** 
 
 ## Remarks
 
-The  **MinMaxButtons** property uses the following settings.
+The **MinMaxButtons** property uses the following settings.
 
 
 
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
-|None|0|The  **Maximize** and **Minimize** buttons aren't visible.|
-|Min Enabled|1|Only the  **Minimize** button is visible.|
-|Max Enabled|2|Only the  **Maximize** button is visible.|
-|Both Enabled|3|(Default) Both the  **Minimize** and **Maximize** buttons are visible.|
-You can set the  **MinMaxButtons** property only in form Design view.
+|None|0|The **Maximize** and **Minimize** buttons aren't visible.|
+|Min Enabled|1|Only the **Minimize** button is visible.|
+|Max Enabled|2|Only the **Maximize** button is visible.|
+|Both Enabled|3|(Default) Both the **Minimize** and **Maximize** buttons are visible.|
+You can set the **MinMaxButtons** property only in form Design view.
 
 
 ## See also

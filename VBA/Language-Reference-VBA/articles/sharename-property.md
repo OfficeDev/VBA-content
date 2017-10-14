@@ -22,7 +22,7 @@ Returns the network share name for a specified drive.
 The  _object_ is always a **Drive** object.
  **Remarks**
 If  _object_ is not a network drive, the **ShareName** property returns a zero-length string ("").
-The following code illustrates the use of the  **ShareName** property:
+The following code illustrates the use of the **ShareName** property:
 
 
 

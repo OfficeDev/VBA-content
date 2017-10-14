@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Column Property (Word)
 
-Returns a  **Column** object that represents the table column containing the specified cell. Read-only.
+Returns a **Column** object that represents the table column containing the specified cell. Read-only.
 
 
 ## Syntax

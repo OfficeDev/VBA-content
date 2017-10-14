@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Replacement.Frame Property (Word)
 
-Returns a  **[Frame](frame-object-word.md)** object that represents the frame formatting for the specified style or find-and-replace operation. Read-only.
+Returns a **[Frame](frame-object-word.md)** object that represents the frame formatting for the specified style or find-and-replace operation. Read-only.
 
 
 ## Syntax

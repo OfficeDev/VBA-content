@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **ShowHeaderFooterOnFirstPage**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_A variable that represents a **Section** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Example
 
-The following example adds a new section starting on the second page of the active document, adds header and footer text to the master page, and then sets the  **ShowHeaderFooterOnFirstPage** property to **True**.
+The following example adds a new section starting on the second page of the active document, adds header and footer text to the master page, and then sets the **ShowHeaderFooterOnFirstPage** property to **True**.
 
 
 ```vb

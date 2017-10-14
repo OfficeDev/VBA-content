@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.TTYTDDTelephoneNumber Property (Outlook)
 
-Returns or sets a  **String** specifying the TTY/TDD telephone number for the contact. Read/write.
+Returns or sets a **String** specifying the TTY/TDD telephone number for the contact. Read/write.
 
 
 ## Syntax

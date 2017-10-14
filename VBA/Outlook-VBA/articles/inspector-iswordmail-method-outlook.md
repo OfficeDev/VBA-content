@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.IsWordMail Method (Outlook)
 
-Determines whether the mail message associated with an inspector is displayed in an Outlook  **[Inspector](inspector-object-outlook.md)** or in Microsoft Word.
+Determines whether the mail message associated with an inspector is displayed in an Outlook **[Inspector](inspector-object-outlook.md)** or in Microsoft Word.
 
 
 ## Syntax

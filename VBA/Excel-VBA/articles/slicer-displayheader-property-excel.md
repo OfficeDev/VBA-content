@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicer.DisplayHeader Property (Excel)
 
-Returns or sets whether the header that displays the slicer  **[Caption](slicer-caption-property-excel.md)** is visible. Read/write.
+Returns or sets whether the header that displays the slicer **[Caption](slicer-caption-property-excel.md)** is visible. Read/write.
 
 
 ## Syntax

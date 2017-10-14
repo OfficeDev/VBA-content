@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Top10.TopBottom Property (Excel)
 
-Returns or sets one of the constants of the  **[XlTopBottom](xltopbottom-enumeration-excel.md)** enumeration, determining if the ranking is evaluated from the top or bottom.
+Returns or sets one of the constants of the **[XlTopBottom](xltopbottom-enumeration-excel.md)** enumeration, determining if the ranking is evaluated from the top or bottom.
 
 
 ## Syntax

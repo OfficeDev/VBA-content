@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Font Property (PowerPoint)
 
-Returns a  **Font** object that represents character formatting for the **TextRange2** object. Read-only.
+Returns a **Font** object that represents character formatting for the **TextRange2** object. Read-only.
 
 
 ## Syntax

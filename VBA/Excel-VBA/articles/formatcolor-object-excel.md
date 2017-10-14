@@ -18,12 +18,12 @@ Represents the fill color specified for a threshold of a color scale conditional
 
 ## Remarks
 
-You can choose a color by passing an RGB value in the  **[Color](formatcolor-color-property-excel.md)** property or designate the color by indexing into the theme color palette using the **[ThemeColor](formatcolor-themecolor-property-excel.md)** property.
+You can choose a color by passing an RGB value in the **[Color](formatcolor-color-property-excel.md)** property or designate the color by indexing into the theme color palette using the **[ThemeColor](formatcolor-themecolor-property-excel.md)** property.
 
 
 ## Example
 
-The following code example creates a range of numbers and then applies a two-color scale conditional formatting rule to that range. The color for the minimum threshold is then assigned to red and the maximum threshold to blue by indexing into the  **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** collection to set individual criteria.
+The following code example creates a range of numbers and then applies a two-color scale conditional formatting rule to that range. The color for the minimum threshold is then assigned to red and the maximum threshold to blue by indexing into the **[ColorScaleCriteria](colorscalecriteria-object-excel.md)** collection to set individual criteria.
 
 
 ```vb

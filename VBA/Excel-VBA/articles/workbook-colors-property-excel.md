@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Colors Property (Excel)
 
-Returns or sets colors in the palette for the workbook. The palette has 56 entries, each represented by an RGB value. Read/write  **Variant** .
+Returns or sets colors in the palette for the workbook. The palette has 56 entries, each represented by an RGB value. Read/write **Variant** .
 
 
 ## Syntax

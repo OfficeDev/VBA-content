@@ -20,7 +20,7 @@ Returns the path for a specified file, folder, or drive.
 The  _object_ is always a **File**, **Folder**, or **Drive** object.
  **Remarks**
 For drive letters, the root drive is not included. For example, the path for the C drive is C:, not C:\.
-The following code illustrates the use of the  **Path** property with a **File** object:
+The following code illustrates the use of the **Path** property with a **File** object:
 
 
 

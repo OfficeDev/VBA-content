@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.Filters Property (Publisher)
 
-Returns a  **[MailMergeFilters](mailmergefilters-object-publisher.md)** object that represents filters applied to the mail merge or catalog merge data source.
+Returns a **[MailMergeFilters](mailmergefilters-object-publisher.md)** object that represents filters applied to the mail merge or catalog merge data source.
 
 
 ## Syntax
 
  _expression_. **Filters**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Return Value

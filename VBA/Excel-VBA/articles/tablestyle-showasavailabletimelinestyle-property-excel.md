@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableStyle.ShowAsAvailableTimelineStyle Property (Excel)
 
-Returns or sets whether the specified table style is shown as available in the timeline styles gallery.  **Boolean** . Read/write
+Returns or sets whether the specified table style is shown as available in the timeline styles gallery. **Boolean** . Read/write
 
 
 ## Syntax

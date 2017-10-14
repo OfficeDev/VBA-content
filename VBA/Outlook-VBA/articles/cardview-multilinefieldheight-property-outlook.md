@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.MultiLineFieldHeight Property (Outlook)
 
-Returns or sets a  **Long** value that determines the minimum number of lines for multiline fields displayed in the **[CardView](cardview-object-outlook.md)** object. Read/write.
+Returns or sets a **Long** value that determines the minimum number of lines for multiline fields displayed in the **[CardView](cardview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

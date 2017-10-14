@@ -11,30 +11,30 @@ ms.date: 06/08/2017
 
 # MouseIcon, MousePointer Properties Example
 
-The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. You can assign one of several available mouse pointers using the  **MousePointer** property; or, you can assign a custom icon using the **MousePointer** and **MouseIcon** properties.
+The following example demonstrates how to specify a mouse pointer that is appropriate for a specific control or situation. You can assign one of several available mouse pointers using the **MousePointer** property; or, you can assign a custom icon using the **MousePointer** and **MouseIcon** properties.
 
 This example works in the following ways:
 
 
 
 
-- Choose a mouse pointer from the  **ListBox** to change the mouse pointer associated with the first **CommandButton**.
+- Choose a mouse pointer from the **ListBox** to change the mouse pointer associated with the first **CommandButton**.
     
-- Click the first  **CommandButton** to associate its mouse pointer with the second **CommandButton**.
+- Click the first **CommandButton** to associate its mouse pointer with the second **CommandButton**.
     
-- Click the second  **CommandButton** to load a custom icon for its mouse pointer.
+- Click the second **CommandButton** to load a custom icon for its mouse pointer.
     
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.
     
-- A  **ListBox** named ListBox1.
+- A **ListBox** named ListBox1.
     
 
 
- **Note**  This example uses two icon files (identified by the .ico file extention in Windows) that are loaded using the  **LoadPicture** function. You should edit each **LoadPicture** function call to specify an icon file that resides on your system.
+ **Note**  This example uses two icon files (identified by the .ico file extention in Windows) that are loaded using the **LoadPicture** function. You should edit each **LoadPicture** function call to specify an icon file that resides on your system.
 
 
 

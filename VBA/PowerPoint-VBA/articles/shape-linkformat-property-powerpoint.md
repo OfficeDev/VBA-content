@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.LinkFormat Property (PowerPoint)
 
-Returns a  **[LinkFormat](linkformat-object-powerpoint.md)** object that contains the properties that are unique to linked OLE objects. Read-only.
+Returns a **[LinkFormat](linkformat-object-powerpoint.md)** object that contains the properties that are unique to linked OLE objects. Read-only.
 
 
 ## Syntax

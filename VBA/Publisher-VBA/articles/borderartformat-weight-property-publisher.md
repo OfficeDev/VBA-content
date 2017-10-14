@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # BorderArtFormat.Weight Property (Publisher)
 
-Returns or sets a  **Variant** indicating the thickness of the specified line or cell border.
+Returns or sets a **Variant** indicating the thickness of the specified line or cell border.
 
 
 ## Syntax
 
  _expression_. **Weight**
 
- _expression_A variable that represents a  **BorderArtFormat** object.
+ _expression_A variable that represents a **BorderArtFormat** object.
 
 
 ## Remarks

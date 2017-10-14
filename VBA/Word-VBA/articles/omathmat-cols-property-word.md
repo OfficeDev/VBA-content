@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMat.Cols Property (Word)
 
-Returns an  **[OMathMatCols](omathmatcols-object-word.md)** collection that represents the columns in a matrix. Read-only.
+Returns an **[OMathMatCols](omathmatcols-object-word.md)** collection that represents the columns in a matrix. Read-only.
 
 
 ## Syntax

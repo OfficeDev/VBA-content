@@ -44,7 +44,7 @@ Selects a resource field.
 
 ## Example
 
-The following example selects the  **Name** column and the next two columns of the third and fourth rows.
+The following example selects the **Name** column and the next two columns of the third and fourth rows.
 
 
 ```vb

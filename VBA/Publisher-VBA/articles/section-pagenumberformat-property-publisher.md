@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Section.PageNumberFormat Property (Publisher)
 
-Sets or returns a  **PbPageNumberFormat** constant that reperesents the formatting of the page numbering. Read/write.
+Sets or returns a **PbPageNumberFormat** constant that reperesents the formatting of the page numbering. Read/write.
 
 
 ## Syntax
 
  _expression_. **PageNumberFormat**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_A variable that represents a **Section** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ PbPageNumberFormat
 
 ## Remarks
 
-The  **PageNumberFormat** property value can be one of the **[PbPageNumberFormat](pbpagenumberformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **PageNumberFormat** property value can be one of the **[PbPageNumberFormat](pbpagenumberformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-Not all of the  **PbPageNumberFormat** constants are available, depending on the languages that are enabled or installed.
+Not all of the **PbPageNumberFormat** constants are available, depending on the languages that are enabled or installed.
 
 
 ## Example

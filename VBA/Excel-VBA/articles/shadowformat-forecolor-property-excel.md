@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.ForeColor Property (Excel)
 
-Returns or sets a  **[ColorFormat](colorformat-object-excel.md)** object that represents the specified foreground fill or solid color.
+Returns or sets a **[ColorFormat](colorformat-object-excel.md)** object that represents the specified foreground fill or solid color.
 
 
 ## Syntax

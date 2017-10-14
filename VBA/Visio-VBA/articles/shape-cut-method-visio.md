@@ -57,7 +57,7 @@ Setting  _Flags_ to **visCopyPasteNormal** is the equivalent of the behavior in 
 
 ## Example
 
-The following example shows how to use the  **Cut** method. It draws a rectangle and then cuts it from the page (and places it on the Clipboard).
+The following example shows how to use the **Cut** method. It draws a rectangle and then cuts it from the page (and places it on the Clipboard).
 
 
 ```vb

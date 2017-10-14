@@ -29,7 +29,7 @@ Selects the specified shape.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Replace_|Optional| **Variant**|If adding a shape,  **True** replaces the selection. **False** adds the new shape to the selection.|
+| _Replace_|Optional| **Variant**|If adding a shape, **True** replaces the selection. **False** adds the new shape to the selection.|
 
 ## See also
 

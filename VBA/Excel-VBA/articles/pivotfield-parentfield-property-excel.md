@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ParentField Property (Excel)
 
-Returns a  **[PivotField](pivotfield-object-excel.md)** object that represents the PivotTable field that's the group parent of the specified object. The field must be grouped and must have a parent field. Read-only.
+Returns a **[PivotField](pivotfield-object-excel.md)** object that represents the PivotTable field that's the group parent of the specified object. The field must be grouped and must have a parent field. Read-only.
 
 
 ## Syntax

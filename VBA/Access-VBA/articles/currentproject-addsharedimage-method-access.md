@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.AddSharedImage Method (Access)
 
-Imports the the specified image into the database and adds it to the  **[SharedResources](sharedresources-object-access.md)** collection.
+Imports the the specified image into the database and adds it to the **[SharedResources](sharedresources-object-access.md)** collection.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Imports the the specified image into the database and adds it to the  **[SharedR
 
 ## Remarks
 
-Use the  **AddSharedImage** method when you have an image that you want to use repeatedly, such as a companny logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group in the **Design** tab.
+Use the **AddSharedImage** method when you have an image that you want to use repeatedly, such as a companny logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group in the **Design** tab.
 
 
 ## See also

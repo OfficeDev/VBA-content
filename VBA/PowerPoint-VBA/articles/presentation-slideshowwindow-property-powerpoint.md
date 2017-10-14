@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.SlideShowWindow Property (PowerPoint)
 
-Returns a  **[SlideShowWindow](slideshowwindow-object-powerpoint.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
+Returns a **[SlideShowWindow](slideshowwindow-object-powerpoint.md)** object that represents the slide show window in which the specified presentation is running. Read-only.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ SlideShowWindow
 
 ## Remarks
 
-You can use this property in conjunction with the  **Me** keyword and the **Parent** property to return the slide show window in which an ActiveX control event was fired, as shown in the example.
+You can use this property in conjunction with the **Me** keyword and the **Parent** property to return the slide show window in which an ActiveX control event was fired, as shown in the example.
 
 
 ## Example
 
-The following example shows the Click event procedures for buttons named "cmdBack" and "cmdForward". If you add these buttons to the slide master and add these event procedures to them, all slides based on the master (and set to show master background graphics) will have these navigation buttons that will be active during a slide show. The  **Me** keyword returns the **Master** object that represents the slide master that contains the control. If the control were on an individual slide, the **Me** keyword in an event procedure for that control would return a **Slide** object.
+The following example shows the Click event procedures for buttons named "cmdBack" and "cmdForward". If you add these buttons to the slide master and add these event procedures to them, all slides based on the master (and set to show master background graphics) will have these navigation buttons that will be active during a slide show. The **Me** keyword returns the **Master** object that represents the slide master that contains the control. If the control were on an individual slide, the **Me** keyword in an event procedure for that control would return a **Slide** object.
 
 
 ```vb

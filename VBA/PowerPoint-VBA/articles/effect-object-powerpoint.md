@@ -63,7 +63,7 @@ Sub NewShapeAndEffect()
 End Sub
 ```
 
-To refer to an existing  **Effect** object, use **[MainSequence](http://msdn.microsoft.com/library/b71f83ad-6d92-cc10-9692-a7567ca0a077%28Office.15%29.aspx)** (index), where index is the number of the **Effect** object in the **[Sequence](http://msdn.microsoft.com/library/37a5224f-2461-b575-acb6-6905bbb5136d%28Office.15%29.aspx)** collection. This example changes the effect for the first sequence and specifies the behavior for that effect.
+To refer to an existing **Effect** object, use **[MainSequence](http://msdn.microsoft.com/library/b71f83ad-6d92-cc10-9692-a7567ca0a077%28Office.15%29.aspx)** (index), where index is the number of the **Effect** object in the **[Sequence](http://msdn.microsoft.com/library/37a5224f-2461-b575-acb6-6905bbb5136d%28Office.15%29.aspx)** collection. This example changes the effect for the first sequence and specifies the behavior for that effect.
 
 
 

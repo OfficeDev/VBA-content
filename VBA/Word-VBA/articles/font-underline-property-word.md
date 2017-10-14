@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Underline Property (Word)
 
-Returns or sets the type of underline applied to the font. Read/write  **[WdUnderline](wdunderline-enumeration-word.md)** .
+Returns or sets the type of underline applied to the font. Read/write **[WdUnderline](wdunderline-enumeration-word.md)** .
 
 
 ## Syntax

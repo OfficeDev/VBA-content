@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cells.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Cells** object.
+Returns an **Object** that represents the parent object of the specified **Cells** object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Width Property (Excel)
 
-Returns or sets a  **Single** value that represents the width, in points, of the object.
+Returns or sets a **Single** value that represents the width, in points, of the object.
 
 
 ## Syntax

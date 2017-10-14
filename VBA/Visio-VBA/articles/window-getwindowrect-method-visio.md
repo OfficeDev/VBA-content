@@ -41,12 +41,12 @@ Nothing
 
 ## Remarks
 
-The  **GetWindowRect** method gets the size and position of the client area of the window with respect to the window that owns the **Windows** collection to which it belongs. For the **Windows** collection of an **Application** object, the "with respect to" window is the MDICLIENT window of the Microsoft Visio main window. For the **Windows** collection of a **Window** object, the "with respect to" window is the client area of the drawing window.
+The **GetWindowRect** method gets the size and position of the client area of the window with respect to the window that owns the **Windows** collection to which it belongs. For the **Windows** collection of an **Application** object, the "with respect to" window is the MDICLIENT window of the Microsoft Visio main window. For the **Windows** collection of a **Window** object, the "with respect to" window is the client area of the drawing window.
 
 
 ## Example
 
-The following example shows how to use the  **GetWindowRect** method to get the size and position of a **Window** object. It opens the **Pan &; Zoom** window and prints the window's coordinates, width, and height in the Immediate window.
+The following example shows how to use the **GetWindowRect** method to get the size and position of a **Window** object. It opens the **Pan &; Zoom** window and prints the window's coordinates, width, and height in the Immediate window.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListColumns Object (Excel)
 
-A collection of all the  **[ListColumn](listcolumn-object-excel.md)** objects in the specified **[ListObject](listobject-object-excel.md)** object.
+A collection of all the **[ListColumn](listcolumn-object-excel.md)** objects in the specified **[ListObject](listobject-object-excel.md)** object.
 
 
 ## Remarks
@@ -26,7 +26,7 @@ A collection of all the  **[ListColumn](listcolumn-object-excel.md)** objects in
 
 ## Example
 
-Use the  **[ListColumns](listobject-listcolumns-property-excel.md)** property of the[ListObject](listobject-object-excel.md) object to return the **[ListColumns](listcolumns-object-excel.md)** collection. The following example adds a new column to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new rightmost column is added.
+Use the **[ListColumns](listobject-listcolumns-property-excel.md)** property of the[ListObject](listobject-object-excel.md) object to return the **[ListColumns](listcolumns-object-excel.md)** collection. The following example adds a new column to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new rightmost column is added.
 
 
 ```

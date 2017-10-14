@@ -19,11 +19,11 @@ Form regions give you more control over how Outlook handles your customized form
 
 ## Creating a message class when customizing form pages
 
-First, some preliminaries. In the  **Publish Form As** dialog box, when you type a name in the **Display name** field, note that the **Form name** field reflects the display name by default. You can leave the form name the same as the display name or you can change the form name. The display name becomes the caption at the top of your form. The display name is also used to construct the name under which your form is published. When you publish your form, the display name is listed in the **Choose Form** dialog box.
+First, some preliminaries. In the **Publish Form As** dialog box, when you type a name in the **Display name** field, note that the **Form name** field reflects the display name by default. You can leave the form name the same as the display name or you can change the form name. The display name becomes the caption at the top of your form. The display name is also used to construct the name under which your form is published. When you publish your form, the display name is listed in the **Choose Form** dialog box.
 
-Outlook automatically constructs a message class for the form that uses the name of the form, preceded by "IPM". For example, if you want to publish a mail message form named "MyForm", type "This is my Form" in the  **Display name** field, and type "MyForm" in the **Form name** field. At the bottom of the dialog box, Outlook displays the message class for your new form as: "IPM.Note.MyForm".
+Outlook automatically constructs a message class for the form that uses the name of the form, preceded by "IPM". For example, if you want to publish a mail message form named "MyForm", type "This is my Form" in the **Display name** field, and type "MyForm" in the **Form name** field. At the bottom of the dialog box, Outlook displays the message class for your new form as: "IPM.Note.MyForm".
 
-When you search in the  **Choose Form** dialog box, locate "This is my Form" displayed in the list. If you select it, the **Display name** field at the bottom of the dialog box displays, "This is my Form" and the **Form name** field displays, "MyForm".
+When you search in the **Choose Form** dialog box, locate "This is my Form" displayed in the list. If you select it, the **Display name** field at the bottom of the dialog box displays, "This is my Form" and the **Form name** field displays, "MyForm".
 
 Outlook automatically generates a message class from the form name and assigns it to the form. Then, when a form with that message class is selected, Outlook loads and displays an instance of that form. For example, Outlook uses the message class, "IPM.Note.MyForm" to locate the form with the display name, "This is my Form".
 

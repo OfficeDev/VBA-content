@@ -39,7 +39,7 @@ Double
 
 ## Remarks
 
-Depending on the sign of the number and significance arguments, the  **Floor_Precise** method rounds either away from or towards zero.
+Depending on the sign of the number and significance arguments, the **Floor_Precise** method rounds either away from or towards zero.
 
 
 
@@ -50,7 +50,7 @@ Depending on the sign of the number and significance arguments, the  **Floor_Pre
 |-/+|Rounds away from zero.|
 |+/-|Rounds toward zero.|
 
-- If either argument is nonnumeric, the  **Floor_Precise** method generates an error.
+- If either argument is nonnumeric, the **Floor_Precise** method generates an error.
     
 -  If number is an exact multiple of significance, no rounding occurs.
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.TextFrame2 Property (Excel)
 
-Returns a  **[TextFrame2](textframe2-object-excel.md)** object that contains text formatting for the specified shape range. Read-only.
+Returns a **[TextFrame2](textframe2-object-excel.md)** object that contains text formatting for the specified shape range. Read-only.
 
 
 ## Syntax

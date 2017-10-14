@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Styles.Merge Method (Excel)
 
-Merges the styles from another workbook into the  **[Styles](styles-object-excel.md)** collection.
+Merges the styles from another workbook into the **[Styles](styles-object-excel.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Merges the styles from another workbook into the  **[Styles](styles-object-excel
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Workbook_|Required| **Variant**|A  **[Workbook](workbook-object-excel.md)** object that represents the workbook containing styles to be merged.|
+| _Workbook_|Required| **Variant**|A **[Workbook](workbook-object-excel.md)** object that represents the workbook containing styles to be merged.|
 
 ### Return Value
 

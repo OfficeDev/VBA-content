@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-If you use the  **First** method to switch from one slide to another during a slide show, when you return to the original slide, its animation picks up where it left off.
+If you use the **First** method to switch from one slide to another during a slide show, when you return to the original slide, its animation picks up where it left off.
 
 
 ## Example

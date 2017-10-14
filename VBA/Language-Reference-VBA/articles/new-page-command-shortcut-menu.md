@@ -11,10 +11,10 @@ ms.date: 06/08/2017
 
 # New Page Command (Shortcut Menu)
 
-Adds a new tabbed page with the name, New Page. You can use the  **Rename** command on the shortcut menu to change it.
+Adds a new tabbed page with the name, New Page. You can use the **Rename** command on the shortcut menu to change it.
 
 You can have more than one page with the name, New Page.
 
-When you add a new page to the  **Toolbox**, the page automatically contains the Pointer tool.
+When you add a new page to the **Toolbox**, the page automatically contains the Pointer tool.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Created Property (Project)
 
-Gets the date an  **Assignment** was created. Read-only **Variant**.
+Gets the date an **Assignment** was created. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the date an  **Assignment** was created. Read-only **Variant**.
 
 ## Remarks
 
-To determine the creation date of a project, use the  **CreationDate** property.
+To determine the creation date of a project, use the **CreationDate** property.
 
 

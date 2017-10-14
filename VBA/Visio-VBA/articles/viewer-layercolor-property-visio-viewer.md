@@ -17,7 +17,7 @@ Gets or sets the color of the layer at the specified index position in the curre
 
  _expression_. **LayerColor**( **_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,11 +35,11 @@ Gets or sets the color of the layer at the specified index position in the curre
 
 ## Remarks
 
-Returns a value of data type  **OLE_COLOR** that represents the color of the specified layer in Visio Viewer. The **OLE_COLOR** data type is used for properties that return colors.
+Returns a value of data type **OLE_COLOR** that represents the color of the specified layer in Visio Viewer. The **OLE_COLOR** data type is used for properties that return colors.
 
-Valid hexadecimal values for an  **OLE_COLOR** data type in Visio Viewer are of the form _&;Hbbggrr_, where  _bb_ is the blue value, _gg_ the green value, and _rr_ the red value. All three color values range between 00 and FF hexadecimal (255 decimal).
+Valid hexadecimal values for an **OLE_COLOR** data type in Visio Viewer are of the form _&;Hbbggrr_, where  _bb_ is the blue value, _gg_ the green value, and _rr_ the red value. All three color values range between 00 and FF hexadecimal (255 decimal).
 
-The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if you pass the index of a nonexistent layer, the  **LayerColor** property returns 0.
+The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if you pass the index of a nonexistent layer, the **LayerColor** property returns 0.
 
 
 ## Example

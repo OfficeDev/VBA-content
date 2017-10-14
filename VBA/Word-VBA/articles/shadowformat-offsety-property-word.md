@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.OffsetY Property (Word)
 
-Returns or sets the vertical offset (in points) of the shadow from the specified shape. Read/write  **Single** .
+Returns or sets the vertical offset (in points) of the shadow from the specified shape. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the vertical offset (in points) of the shadow from the specified
 
 ## Remarks
 
-A positive value offsets the shadow below the shape; a negative value offsets it above the shape. If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the  **[IncrementOffsetX](shadowformat-incrementoffsetx-method-word.md)** or **[IncrementOffsetY](shadowformat-incrementoffsety-method-word.md)** method.
+A positive value offsets the shadow below the shape; a negative value offsets it above the shape. If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the **[IncrementOffsetX](shadowformat-incrementoffsetx-method-word.md)** or **[IncrementOffsetY](shadowformat-incrementoffsety-method-word.md)** method.
 
 
 ## Example

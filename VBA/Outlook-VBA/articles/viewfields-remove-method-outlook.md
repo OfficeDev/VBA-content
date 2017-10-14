@@ -29,7 +29,7 @@ Removes an object from the collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[ViewXMLSchemaName](viewfield-viewxmlschemaname-property-outlook.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the **[ViewXMLSchemaName](viewfield-viewxmlschemaname-property-outlook.md)** property value of an object in the collection.|
 
 ## See also
 

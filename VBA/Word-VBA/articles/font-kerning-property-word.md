@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Kerning Property (Word)
 
-Returns or sets the minimum font size for which Microsoft Word will adjust kerning automatically. Read/write  **Single** .
+Returns or sets the minimum font size for which Microsoft Word will adjust kerning automatically. Read/write **Single** .
 
 
 ## Syntax

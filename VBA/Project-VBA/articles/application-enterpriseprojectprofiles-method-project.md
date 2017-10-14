@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnterpriseProjectProfiles Method (Project)
 
-Displays the  **Project Server Accounts** dialog box. Available in Project Professional only.
+Displays the **Project Server Accounts** dialog box. Available in Project Professional only.
 
 
 ## Syntax

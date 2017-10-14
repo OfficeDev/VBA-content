@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BaseCalendars Method (Project)
 
-Displays the  **Change Working Time** dialog box, which prompts the user to change calendar properties.
+Displays the **Change Working Time** dialog box, which prompts the user to change calendar properties.
 
 
 ## Syntax
@@ -39,6 +39,6 @@ Displays the  **Change Working Time** dialog box, which prompts the user to chan
 
 ## Remarks
 
-The  **BaseCalendars** method has the same effect as the **Change Working Time** command on the **PROJECT** tab of the ribbon.
+The **BaseCalendars** method has the same effect as the **Change Working Time** command on the **PROJECT** tab of the ribbon.
 
 

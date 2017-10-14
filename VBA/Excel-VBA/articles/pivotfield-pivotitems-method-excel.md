@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.PivotItems Method (Excel)
 
-Returns an object that represents either a single PivotTable item (a  **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the visible and hidden items (a **[PivotItems](pivotitems-object-excel.md)** object) in the specified field. Read-only.
+Returns an object that represents either a single PivotTable item (a **[PivotItem](pivotitem-object-excel.md)** object) or a collection of all the visible and hidden items (a **[PivotItems](pivotitems-object-excel.md)** object) in the specified field. Read-only.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Variant
 
 ## Remarks
 
-For OLAP data sources, the collection is indexed by the unique name (the name returned by the  **[SourceName](pivotfield-sourcename-property-excel.md)** property), not by the display name.
+For OLAP data sources, the collection is indexed by the unique name (the name returned by the **[SourceName](pivotfield-sourcename-property-excel.md)** property), not by the display name.
 
 
 ## Example

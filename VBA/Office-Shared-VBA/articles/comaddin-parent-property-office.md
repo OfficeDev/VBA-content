@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # COMAddIn.Parent Property (Office)
 
-Gets the  **Parent** object for the **COMAddIn** object. Read-only.
+Gets the **Parent** object for the **COMAddIn** object. Read-only.
 
 
 ## Syntax

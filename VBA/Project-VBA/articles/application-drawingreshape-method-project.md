@@ -30,6 +30,6 @@ Toggles the drawing mode between resize and reshape.
 
 ## Remarks
 
-The  **DrawingReshape** method has the same effect as the **Edit Points** command in the **Drawing** drop-down menu on the **Format** tab in the Ribbon.
+The **DrawingReshape** method has the same effect as the **Edit Points** command in the **Drawing** drop-down menu on the **Format** tab in the Ribbon.
 
 

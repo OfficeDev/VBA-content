@@ -30,10 +30,10 @@ Integer
 
 ## Remarks
 
-If the  **Characters** object does not contain a field or contains non-field characters, the **FieldFormat** property returns an exception. Check the **IsField** property of the **Characters** object before getting its **FieldFormat** property.
+If the **Characters** object does not contain a field or contains non-field characters, the **FieldFormat** property returns an exception. Check the **IsField** property of the **Characters** object before getting its **FieldFormat** property.
 
-Field formats correspond to the formats in the  **Format** list in the **Field** dialog box (click **Field** on the **Insert** tab).
+Field formats correspond to the formats in the **Format** list in the **Field** dialog box (click **Field** on the **Insert** tab).
 
-Constants for field formats are declared by the Microsoft Visio type library in  **[VisFieldFormats](visfieldformats-enumeration-visio.md)** .
+Constants for field formats are declared by the Microsoft Visio type library in **[VisFieldFormats](visfieldformats-enumeration-visio.md)** .
 
 

@@ -16,6 +16,6 @@ Specifies whether the command bar combo box includes a label or not.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-|**msoComboLabel**|1|Combo box includes a label, specified by the  **Caption** property of the combo box.|
+|**msoComboLabel**|1|Combo box includes a label, specified by the **Caption** property of the combo box.|
 |**msoComboNormal**|0|Combo box does not include a label.|
 

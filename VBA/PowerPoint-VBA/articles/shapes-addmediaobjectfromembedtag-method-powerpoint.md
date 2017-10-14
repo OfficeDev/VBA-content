@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddMediaObjectFromEmbedTag Method (PowerPoint)
 
-Adds a media object from an embedded tag to a  **Shapes** object.
+Adds a media object from an embedded tag to a **Shapes** object.
 
 
 ## Syntax

@@ -18,12 +18,12 @@ Contains linked OLE object properties.
 
 ## Remarks
 
-If the  **[Shape](shape-object-excel.md)** object doesn't represent a linked object, the **[LinkFormat](shape-linkformat-property-excel.md)** property fails.
+If the **[Shape](shape-object-excel.md)** object doesn't represent a linked object, the **[LinkFormat](shape-linkformat-property-excel.md)** property fails.
 
 
 ## Example
 
-Use the  **LinkFormat** property to return the **LinkFormat** object. The following example updates an OLE object in the **[Shapes](shapes-object-excel.md)** collection.
+Use the **LinkFormat** property to return the **LinkFormat** object. The following example updates an OLE object in the **[Shapes](shapes-object-excel.md)** collection.
 
 
 ```vb

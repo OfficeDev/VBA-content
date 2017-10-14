@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # TabStop Property Example
 
-The following example uses the  **TabStop** property to control whether a user can press TAB to move the focus to a particular control. The user presses TAB to move the focus among the controls on the form, and then clicks the **ToggleButton** to change **TabStop** for CommandButton1. When **TabStop** is **False**, CommandButton1 will not receive the focus by using TAB.
+The following example uses the **TabStop** property to control whether a user can press TAB to move the focus to a particular control. The user presses TAB to move the focus among the controls on the form, and then clicks the **ToggleButton** to change **TabStop** for CommandButton1. When **TabStop** is **False**, CommandButton1 will not receive the focus by using TAB.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
-- One or two other controls, such as an  **OptionButton** or **ListBox**.
+- One or two other controls, such as an **OptionButton** or **ListBox**.
     
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.AskForCompletedWork Property (Project)
 
-Gets or sets the way completed work is reported in team status messages. Read/write  **PjTeamStatusCompletedWork**.
+Gets or sets the way completed work is reported in team status messages. Read/write **PjTeamStatusCompletedWork**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the way completed work is reported in team status messages. Read/wr
 
 ## Remarks
 
-The  **AskForCompletedWork** property can be one of the following **[PjTeamStatusCompletedWork](pjteamstatuscompletedwork-enumeration-project.md)** constants: **pjBrokenDownByDay**, **pjBrokenDownByWeek**, or **pjTotalForEntirePeriod**.
+The **AskForCompletedWork** property can be one of the following **[PjTeamStatusCompletedWork](pjteamstatuscompletedwork-enumeration-project.md)** constants: **pjBrokenDownByDay**, **pjBrokenDownByWeek**, or **pjTotalForEntirePeriod**.
 
 

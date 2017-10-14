@@ -33,7 +33,7 @@ Returns the parent item of the specified node in the conversation.
 
 ### Return Value
 
-An  **Object** that represents the parent conversation item of the node specified by the _Item_ parameter.
+An **Object** that represents the parent conversation item of the node specified by the _Item_ parameter.
 
 
 ## Remarks

@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-The  **MDIWindowMenu** property usually refers to the **Window** menu.
+The **MDIWindowMenu** property usually refers to the **Window** menu.
 
 

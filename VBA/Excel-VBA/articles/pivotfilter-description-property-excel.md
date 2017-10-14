@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.Description Property (Excel)
 
-Provides an optional description for the  **PivotFilter** object. Read-only **String** .
+Provides an optional description for the **PivotFilter** object. Read-only **String** .
 
 
 ## Syntax

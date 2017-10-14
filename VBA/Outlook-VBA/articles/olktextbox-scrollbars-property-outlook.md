@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.Scrollbars Property (Outlook)
 
-Returns or sets an  **[olScrollBars](olscrollbars-enumeration-outlook.md)** constant that specifies whether the control has a vertical scroll bar, horizontal scroll bar, or both. Read/write.
+Returns or sets an **[olScrollBars](olscrollbars-enumeration-outlook.md)** constant that specifies whether the control has a vertical scroll bar, horizontal scroll bar, or both. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[olScrollBars](olscrollbars-enumeration-outlook.md)** cons
 
 ## Remarks
 
-The default value is  **olScrollBarsNone** .
+The default value is **olScrollBarsNone** .
 
 
 ## See also

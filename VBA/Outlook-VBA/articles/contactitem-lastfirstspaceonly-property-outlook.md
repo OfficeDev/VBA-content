@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.LastFirstSpaceOnly Property (Outlook)
 
-Returns a  **String** representing the concatenated last name, first name, and middle name of the contact with spaces between them. Read-only.
+Returns a **String** representing the concatenated last name, first name, and middle name of the contact with spaces between them. Read-only.
 
 
 ## Syntax

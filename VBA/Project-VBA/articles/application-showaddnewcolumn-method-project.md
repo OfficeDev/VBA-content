@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowAddNewColumn Method (Project)
 
-Shows or hides the  **Add New Column** column at the right side of the active sheet view.
+Shows or hides the **Add New Column** column at the right side of the active sheet view.
 
 
 ## Syntax
@@ -38,17 +38,17 @@ Shows or hides the  **Add New Column** column at the right side of the active sh
 
 ## Remarks
 
-The  **ShowAddNewColumn** method does not apply to views that do not use tables, such as the following: Network Diagram (PERT chart), Task Entry, Resource Entry, Calendar, or Timeline.
+The **ShowAddNewColumn** method does not apply to views that do not use tables, such as the following: Network Diagram (PERT chart), Task Entry, Resource Entry, Calendar, or Timeline.
 
-If a view uses a table, you can set individual views to show the  **Add New Column** column. To open the **Table Definition** dialog box for a view, do the following on the **VIEW** ribbon:
+If a view uses a table, you can set individual views to show the **Add New Column** column. To open the **Table Definition** dialog box for a view, do the following on the **VIEW** ribbon:
 
 
-1. In the  **Other Views** drop-down list, open the **More Views** dialog box, and then edit the view to find the table that the view uses. For example, the Task Usage view uses the Usage table.
+1. In the **Other Views** drop-down list, open the **More Views** dialog box, and then edit the view to find the table that the view uses. For example, the Task Usage view uses the Usage table.
     
-2. Close the  **View Definition** dialog box and the **More Views** dialog boxes.
+2. Close the **View Definition** dialog box and the **More Views** dialog boxes.
     
-3. In the  **Tables** drop-down list, open the **More Tables** dialog box, select the table, and then click **Edit**.
+3. In the **Tables** drop-down list, open the **More Tables** dialog box, select the table, and then click **Edit**.
     
-4. Select or clear the  **Show 'Add New Column' interface** option in the **Table Definition** dialog box.
+4. Select or clear the **Show 'Add New Column' interface** option in the **Table Definition** dialog box.
     
 

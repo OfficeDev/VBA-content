@@ -20,7 +20,7 @@ Indicates the name of the specified Web navigation bar set. Read/write.
 
  _expression_. **Name**
 
- _expression_An expression that returns a  **WebNavigationBarSet** object.
+ _expression_An expression that returns a **WebNavigationBarSet** object.
 
 
 ### Return Value

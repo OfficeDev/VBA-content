@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.RevisionsBalloonPrintOrientation Property (Word)
 
-Returns or sets a  **WdRevisionsBalloonPrintOrientation** constant that represents the direction of revision and comment balloons when they are printed. Read/write.
+Returns or sets a **WdRevisionsBalloonPrintOrientation** constant that represents the direction of revision and comment balloons when they are printed. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlGridLineStyle Enumeration (Outlook)
 
-Indicates the line style used to display grid lines for  **[TableView](tableview-object-outlook.md)** objects.
+Indicates the line style used to display grid lines for **[TableView](tableview-object-outlook.md)** objects.
 
 
 

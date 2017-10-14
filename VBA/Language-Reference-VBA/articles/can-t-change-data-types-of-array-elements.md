@@ -19,7 +19,7 @@ ms.date: 06/08/2017
     
     Declare a new array of the type you want, and then use the conversion functions to assign each element of the old array to the corresponding element of the new array.
     
-    You can also place the array in a  **Variant** variable. This can be done with a simple assignment:
+    You can also place the array in a **Variant** variable. This can be done with a simple assignment:
     
 
 
@@ -30,7 +30,7 @@ MyVar = MyIntegerArray()
   ```
 
 
-    This creates a  **Variant** containing an array tagged as the type of the original array. You can then assign[variables](vbe-glossary.md) of any valid **VarType** to the elements of the array within a variant.
+    This creates a **Variant** containing an array tagged as the type of the original array. You can then assign[variables](vbe-glossary.md) of any valid **VarType** to the elements of the array within a variant.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

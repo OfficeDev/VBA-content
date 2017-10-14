@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.PivotCellType Property (Excel)
 
-Returns one of the  **[XlPivotCellType](xlpivotcelltype-enumeration-excel.md)** constants that identifies the PivotTable entity the cell corresponds to. Read-only.
+Returns one of the **[XlPivotCellType](xlpivotcelltype-enumeration-excel.md)** constants that identifies the PivotTable entity the cell corresponds to. Read-only.
 
 
 ## Syntax

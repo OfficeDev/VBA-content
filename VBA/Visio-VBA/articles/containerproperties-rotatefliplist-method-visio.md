@@ -40,7 +40,7 @@ Rotates or flips the list direction for a list of shapes.
 
 If the list contains container shapes only, and no other shapes, and if the ObjType ShapeSheet cell value of the list shape equals zero (0), nothing happens.
 
-If the list contains container shapes only, and no other shapes, and if the ObjType ShapeSheet cell value of the list shape does not equal zero (0), the  **RotateFlipList** method also rotates or flips the contents of the container shapes.
+If the list contains container shapes only, and no other shapes, and if the ObjType ShapeSheet cell value of the list shape does not equal zero (0), the **RotateFlipList** method also rotates or flips the contents of the container shapes.
 
 If the list contains a mix of container and non-container shapes, the method does not rotate or flip the contents of the containers but, rather, rotates or flips the entire list.
 

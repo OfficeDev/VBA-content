@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Additional Controls Command (Tools Menu)
 
-Displays the  **Additional** **Controls** dialog box where you can add controls or insertable objects (such as a Microsoft Word Document) to the **Toolbox**.
+Displays the **Additional** **Controls** dialog box where you can add controls or insertable objects (such as a Microsoft Word Document) to the **Toolbox**.
 
 

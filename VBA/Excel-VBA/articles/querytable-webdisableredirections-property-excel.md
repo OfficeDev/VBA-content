@@ -25,16 +25,16 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **WebDisableRedirections** property applies only to **QueryTable** objects.
+The **WebDisableRedirections** property applies only to **QueryTable** objects.
 
 
 ## Example
 
-In this example, Microsoft Excel determines the settings of Web query redirections for the first worksheet in the workbook. This example assumes a  **QueryTable** object exists on the first worksheet, otherwise a run-time error will occur.
+In this example, Microsoft Excel determines the settings of Web query redirections for the first worksheet in the workbook. This example assumes a **QueryTable** object exists on the first worksheet, otherwise a run-time error will occur.
 
 
 ```vb

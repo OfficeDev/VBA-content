@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.ChildFramesetItem Property (Word)
 
-Returns the  **Frameset** object that represents the child **Frameset** object specified by the Index argument. Read-only.
+Returns the **Frameset** object that represents the child **Frameset** object specified by the Index argument. Read-only.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns the  **Frameset** object that represents the child **Frameset** object s
 
 ## Remarks
 
-This property applies only to  **Frameset** objects of type **wdFramesetTypeFrameset** .
+This property applies only to **Frameset** objects of type **wdFramesetTypeFrameset** .
 
 For more information on creating frames pages, see [Creating Frames Pages](http://msdn.microsoft.com/library/0245564e-b2df-83cd-1e32-e63079970dc1%28Office.15%29.aspx).
 

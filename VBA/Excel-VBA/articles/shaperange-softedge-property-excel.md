@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.SoftEdge Property (Excel)
 
-Returns a  **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e56-b9ea-89c7ecce0370%28Office.15%29.aspx)** object for a specified shape range that contains soft edge formatting properties for the shape range. Read-only.
+Returns a **[SoftEdgeFormat](http://msdn.microsoft.com/library/9d9b34e1-03b5-9e56-b9ea-89c7ecce0370%28Office.15%29.aspx)** object for a specified shape range that contains soft edge formatting properties for the shape range. Read-only.
 
 
 ## Syntax

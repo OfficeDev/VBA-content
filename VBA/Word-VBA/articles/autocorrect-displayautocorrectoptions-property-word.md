@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example disables display of the  **AutoCorrect Options** button.
+This example disables display of the **AutoCorrect Options** button.
 
 
 ```vb

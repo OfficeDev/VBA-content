@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ResourceGroups2.Add Method (Project)
 
-Adds a  **[Group2](group2-object-project.md)** object to a **ResourceGroups2** collection.
+Adds a **[Group2](group2-object-project.md)** object to a **ResourceGroups2** collection.
 
 
 ## Syntax

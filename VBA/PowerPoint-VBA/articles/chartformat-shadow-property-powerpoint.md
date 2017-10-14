@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Shadow Property (PowerPoint)
 
-Returns shadow formatting properties for the chart element. Read-only  **[ShadowFormat](shadowformat-object-powerpoint.md)**.
+Returns shadow formatting properties for the chart element. Read-only **[ShadowFormat](shadowformat-object-powerpoint.md)**.
 
 
 ## Syntax

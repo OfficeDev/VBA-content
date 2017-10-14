@@ -29,7 +29,7 @@ Applies a predefined look to a table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Format_|Optional| **Variant**|The format to apply. This parameter can be a  **[WdTableFormat](wdtableformat-enumeration-word.md)** constant, a **[WdTableFormatApply](wdtableformatapply-enumeration-word.md)** constant, or a **TableStyle** object.|
+| _Format_|Optional| **Variant**|The format to apply. This parameter can be a **[WdTableFormat](wdtableformat-enumeration-word.md)** constant, a **[WdTableFormatApply](wdtableformatapply-enumeration-word.md)** constant, or a **TableStyle** object.|
 | _ApplyBorders_|Optional| **Variant**| **True** to apply the border properties of the specified format. The default value is **True** .|
 | _ApplyShading_|Optional| **Variant**| **True** to apply the shading properties of the specified format. The default value is **True** .|
 | _ApplyFont_|Optional| **Variant**| **True** to apply the font properties of the specified format. The default value is **True** .|
@@ -42,7 +42,7 @@ Applies a predefined look to a table.
 
 ## Remarks
 
-The arguments for this method correspond to the options in the  **Table AutoFormat** dialog box.
+The arguments for this method correspond to the options in the **Table AutoFormat** dialog box.
 
 
 ## Example

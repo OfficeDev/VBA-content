@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkComboBox.BorderStyle Property (Outlook)
 
-Returns or sets an  **[OlBorderStyle](olborderstyle-enumeration-outlook.md)** constant that defines the style of the border around the control. Read/write.
+Returns or sets an **[OlBorderStyle](olborderstyle-enumeration-outlook.md)** constant that defines the style of the border around the control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlBorderStyle](olborderstyle-enumeration-outlook.md)** co
 
 ## Remarks
 
-The default value is  **olBorderStyleSingle** .
+The default value is **olBorderStyleSingle** .
 
 
 ## See also

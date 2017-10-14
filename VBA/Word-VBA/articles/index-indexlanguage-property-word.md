@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Index.IndexLanguage Property (Word)
 
-Returns or sets a  **[WdLanguageID](wdlanguageid-enumeration-word.md)** constant that represents the sorting language to use for the specified index. Read/write .
+Returns or sets a **[WdLanguageID](wdlanguageid-enumeration-word.md)** constant that represents the sorting language to use for the specified index. Read/write .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[WdLanguageID](wdlanguageid-enumeration-word.md)** constant
 
 ## Remarks
 
-Some of the  **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

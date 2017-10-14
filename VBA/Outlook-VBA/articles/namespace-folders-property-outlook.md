@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.Folders Property (Outlook)
 
-Returns the  **[Folders](folders-object-outlook.md)** collection that represents all the folders contained in the specified **[NameSpace](namespace-object-outlook.md)** . Read-only.
+Returns the **[Folders](folders-object-outlook.md)** collection that represents all the folders contained in the specified **[NameSpace](namespace-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[Folders](folders-object-outlook.md)** collection that represents
 
 ## Remarks
 
-The  **NameSpace** object is the root of all the folders for the given name space.
+The **NameSpace** object is the root of all the folders for the given name space.
 
 
 ## See also

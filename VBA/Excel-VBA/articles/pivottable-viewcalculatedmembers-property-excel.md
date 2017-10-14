@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ViewCalculatedMembers Property (Excel)
 
-When set to  **True** (default), calculated members for Online Analytical Processing (OLAP) PivotTables can be viewed. Read/write **Boolean** .
+When set to **True** (default), calculated members for Online Analytical Processing (OLAP) PivotTables can be viewed. Read/write **Boolean** .
 
 
 ## Syntax

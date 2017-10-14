@@ -29,7 +29,7 @@ Sends data to an application.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](application-ddeinitiate-method-excel.md)** method.|
+| _Channel_|Required| **Long**|The channel number returned by the **[DDEInitiate](application-ddeinitiate-method-excel.md)** method.|
 | _Item_|Required| **Variant**|The item to which the data is to be sent.|
 | _Data_|Required| **Variant**|The data to be sent to the application.|
 

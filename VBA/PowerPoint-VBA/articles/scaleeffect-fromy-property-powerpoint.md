@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ScaleEffect.FromY Property (PowerPoint)
 
-Returns or sets a  **Single** that represents the starting height of a **[ScaleEffect](scaleeffect-object-powerpoint.md)** object, specified as a percentage of the screen width. Read/write.
+Returns or sets a **Single** that represents the starting height of a **[ScaleEffect](scaleeffect-object-powerpoint.md)** object, specified as a percentage of the screen width. Read/write.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ Single
 
 ## Remarks
 
-The default value of this property is  **Empty**, in which case the current position of the object is used.
+The default value of this property is **Empty**, in which case the current position of the object is used.
 
-Use this property in conjunction with the  **ToY** property to resize or jump from one position to another.
+Use this property in conjunction with the **ToY** property to resize or jump from one position to another.
 
-Do not confuse this property with the  **From** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set or change colors, rotations, or other properties of an animation behavior, respectively.
+Do not confuse this property with the **From** property of the **[ColorEffect](coloreffect-object-powerpoint.md)**, **[RotationEffect](rotationeffect-object-powerpoint.md)**, or **[PropertyEffect](propertyeffect-object-powerpoint.md)** objects, which is used to set or change colors, rotations, or other properties of an animation behavior, respectively.
 
 
 ## See also

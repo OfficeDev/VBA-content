@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Fill Property (Word)
 
-Returns a  **[FillFormat](fillformat-object-word.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
+Returns a **[FillFormat](fillformat-object-word.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
 
 
 ## Syntax

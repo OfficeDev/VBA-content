@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.GoToNext Method (Word)
 
-Returns a  **Range** object that refers to the start position of the next item or location specified by the What argument. .
+Returns a **Range** object that refers to the start position of the next item or location specified by the What argument. .
 
 
 ## Syntax
@@ -36,7 +36,7 @@ Returns a  **Range** object that refers to the start position of the next item o
 
 
 
- **Note**  When you use this method with the  **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** object that's returned includes any grammar error text or spelling error text.
+ **Note**  When you use this method with the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** object that's returned includes any grammar error text or spelling error text.
 
 
 ## See also

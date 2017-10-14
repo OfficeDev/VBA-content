@@ -25,19 +25,19 @@ Returns or sets text orientation. Read/write
 The value of the Orientation property can be one of these MsoTextOrientation constants.
 
 
--  **msoTextOrientationDownward**
+- **msoTextOrientationDownward**
     
--  **msoTextOrientationHorizontal**
+- **msoTextOrientationHorizontal**
     
--  **msoTextOrientationHorizontalRotatedFarEast**
+- **msoTextOrientationHorizontalRotatedFarEast**
     
--  **msoTextOrientationMixed**
+- **msoTextOrientationMixed**
     
--  **msoTextOrientationUpward**
+- **msoTextOrientationUpward**
     
--  **msoTextOrientationVertical**
+- **msoTextOrientationVertical**
     
--  **msoTextOrientationVerticalFarEast**
+- **msoTextOrientationVerticalFarEast**
     
 
 ## Example

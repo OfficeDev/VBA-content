@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.Designs Property (PowerPoint)
 
-Returns a  **[Designs](designs-object-powerpoint.md)** object that represents a collection of designs.
+Returns a **[Designs](designs-object-powerpoint.md)** object that represents a collection of designs.
 
 
 ## Syntax

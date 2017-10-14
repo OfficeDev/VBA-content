@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Windows Object (Project)
 
-Contains a collection of  **[Window](window-object-project.md)** objects. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Project** object contains only the windows in the specified project.
+Contains a collection of **[Window](window-object-project.md)** objects. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Project** object contains only the windows in the specified project.
  
 
 
 ## Remarks
 
 
- **Note**  The  **Windows** collection is maintained for backward compatibility. We recommend that you use the **[Windows2](windows2-object-project.md)** collection for all new development.
+ **Note**  The **Windows** collection is maintained for backward compatibility. We recommend that you use the **[Windows2](windows2-object-project.md)** collection for all new development.
  
 
 
@@ -28,7 +28,7 @@ Contains a collection of  **[Window](window-object-project.md)** objects. The **
  
 
  
-Use  **Windows** ( _Index_), where  _Index_ is the window index number or window caption, to return a single **Window** object. The following example maximizes the first window in the window list.
+Use **Windows** ( _Index_), where  _Index_ is the window index number or window caption, to return a single **Window** object. The following example maximizes the first window in the window list.
  
 
  
@@ -39,7 +39,7 @@ Use  **Windows** ( _Index_), where  _Index_ is the window index number or window
 Application.Windows(1).WindowState = pjMaximized
 ```
 
-The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the  **Windows** menu. Use the **[Caption](application-caption-property-project.md)** property to set or return the window caption. Changing the window caption does not change the name of the project. The following example hides the window that contains the caption "Project1".
+The window caption is the text shown in the title bar at the top of the window when the window is not maximized. The caption is also shown in the list of open files on the bottom of the **Windows** menu. Use the **[Caption](application-caption-property-project.md)** property to set or return the window caption. Changing the window caption does not change the name of the project. The following example hides the window that contains the caption "Project1".
  
 
  
@@ -56,7 +56,7 @@ End If
  
 
  
-Use the  **[Windows](application-windows-property-project.md)** property to return a **Windows** collection. The following example cascades all the windows that are currently displayed in Project .
+Use the **[Windows](application-windows-property-project.md)** property to return a **Windows** collection. The following example cascades all the windows that are currently displayed in Project .
  
 
  
@@ -73,7 +73,7 @@ With Application.Windows
 End With
 ```
 
-Use the  **[WindowNewWindow](application-windownewwindow-method-project.md)** method to create a new window and add it to the collection. The following example creates a new window for the active project.
+Use the **[WindowNewWindow](application-windownewwindow-method-project.md)** method to create a new window and add it to the collection. The following example creates a new window for the active project.
  
 
  

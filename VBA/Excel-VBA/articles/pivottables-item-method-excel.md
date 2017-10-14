@@ -33,12 +33,12 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[PivotTable](pivottable-object-excel.md)** object contained by the collection.
+A **[PivotTable](pivottable-object-excel.md)** object contained by the collection.
 
 
 ## Remarks
 
-The text name of the object is the value of the  **[Name](pivottable-name-property-excel.md)** and **[Value](pivottable-value-property-excel.md)** properties.
+The text name of the object is the value of the **[Name](pivottable-name-property-excel.md)** and **[Value](pivottable-value-property-excel.md)** properties.
 
 
 ## Example

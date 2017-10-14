@@ -18,11 +18,11 @@ Represents the user access for a protected range.
 
 ## Example
 
-Use the  **[Add](useraccesslist-add-method-excel.md)** method or the[Item](useraccesslist-item-property-excel.md) property of the[UserAccessList](useraccesslist-object-excel.md) collection to return a **UserAccess** object.
+Use the **[Add](useraccesslist-add-method-excel.md)** method or the[Item](useraccesslist-item-property-excel.md) property of the[UserAccessList](useraccesslist-object-excel.md) collection to return a **UserAccess** object.
 
 
 
-Once a  **UserAccess** object is returned, you can determine if access is allowed for a particular range in an worksheet, using the **[AllowEdit](useraccess-allowedit-property-excel.md)** property. The following example adds a range that can be edited on a protected worksheet and notifies the user the title of that range.
+Once a **UserAccess** object is returned, you can determine if access is allowed for a particular range in an worksheet, using the **[AllowEdit](useraccess-allowedit-property-excel.md)** property. The following example adds a range that can be edited on a protected worksheet and notifies the user the title of that range.
 
 
 

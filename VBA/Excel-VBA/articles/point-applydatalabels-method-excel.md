@@ -32,7 +32,7 @@ Applies data labels to a point.
 | _Type_|Optional| **[XlDataLabelsType](xldatalabelstype-enumeration-excel.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default value is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
-| _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](chart-object-excel.md)** and **[Series](series-object-excel.md)** objects, **True** if the series has leader lines.|
+| _HasLeaderLines_|Optional| **Variant**|For the **[Chart](chart-object-excel.md)** and **[Series](series-object-excel.md)** objects, **True** if the series has leader lines.|
 | _ShowSeriesName_|Optional| **Variant**|Pass a boolean value to enable or disable the series name for the data label.|
 | _ShowCategoryName_|Optional| **Variant**|Pass a boolean value to enable or disable the category name for the data label.|
 | _ShowValue_|Optional| **Variant**|Pass a boolean value to enable or disable the value for the data label.|

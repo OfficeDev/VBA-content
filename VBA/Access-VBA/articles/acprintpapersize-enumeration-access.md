@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintPaperSize Enumeration (Access)
 
-Used with the  **PaperSize** property to indicate the paper size to use when printing.
+Used with the **PaperSize** property to indicate the paper size to use when printing.
 
 
 

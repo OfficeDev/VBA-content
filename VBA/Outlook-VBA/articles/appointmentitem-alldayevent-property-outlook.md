@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.AllDayEvent Property (Outlook)
 
-Returns  **True** if the appointment is an all-day event (as opposed to a specified time). Read/write.
+Returns **True** if the appointment is an all-day event (as opposed to a specified time). Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Indexes.MarkAllEntries Method (Word)
 
-Inserts an XE (Index Entry) field after all instances of the text in  **Range** .
+Inserts an XE (Index Entry) field after all instances of the text in **Range** .
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Formatting and VBA Codes for Headers and Footers
 
-The following special formatting and Visual Basic for Applications (VBA) codes can be included as a part of the header and footer properties ( **[LeftHeader](page-leftheader-property-excel.md)**,  **[CenterHeader](page-centerheader-property-excel.md)**,  **[RightHeader](pagesetup-rightheader-property-excel.md)**,  **[LeftFooter](page-leftfooter-property-excel.md)**,  **[CenterFooter](page-centerfooter-property-excel.md)**, and  **[RightFooter](page-rightfooter-property-excel.md)**).
+The following special formatting and Visual Basic for Applications (VBA) codes can be included as a part of the header and footer properties ( **[LeftHeader](page-leftheader-property-excel.md)**, **[CenterHeader](page-centerheader-property-excel.md)**, **[RightHeader](pagesetup-rightheader-property-excel.md)**, **[LeftFooter](page-leftfooter-property-excel.md)**, **[CenterFooter](page-centerfooter-property-excel.md)**, and **[RightFooter](page-rightfooter-property-excel.md)**).
 
 
 
@@ -30,8 +30,8 @@ The following special formatting and Visual Basic for Applications (VBA) codes c
 |&;"fontname"|Prints the characters that follow in the specified font. Be sure to include the double quotation marks.|
 |&;nn|Prints the characters that follow in the specified font size. Use a two-digit number to specify a size in points.|
 |&;color|Prints the characters in the specified color. User supplies a hexadecimal color value.|
-|&;"+"|Prints the characters that follow in the  **Heading** font of the current theme. Be sure to include the double quotation marks.|
-|&;"-"|Prints the characters that follow in the  **Body** font of the current theme. Be sure to include the double quotation marks.|
+|&;"+"|Prints the characters that follow in the **Heading** font of the current theme. Be sure to include the double quotation marks.|
+|&;"-"|Prints the characters that follow in the **Body** font of the current theme. Be sure to include the double quotation marks.|
 |&;K _xx_. _S_ _yyy_|Prints the characters that follow in the specified color from the current theme.  _xx_ is a two-digit number from 1 to 12 that specifies the theme color to use. _S_ _nnn_ specifies the shade (tint) of that theme color. Specify _S_ as + to produce a lighter shade; specify _S_ as - to produce a darker shade. _nnn_ is a three-digit whole number that specifies a percentage from 0 to 100.
 If the values that specify the theme color or shade are not within the described limits, Excel will use the nearest valid value.|
 

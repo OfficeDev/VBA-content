@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.Location Property (Outlook)
 
-Returns or sets a  **String** representing the specific office location (for example, Building 1 Room 1 or Suite 123) for the appointment. Read/write.
+Returns or sets a **String** representing the specific office location (for example, Building 1 Room 1 or Suite 123) for the appointment. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **String** representing the specific office location (for exa
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagOfficeLocation** .
+This property corresponds to the MAPI property **PidTagOfficeLocation** .
 
 
 ## Example
 
-This Visual Basic for Applications example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications example uses **[CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
 
 
 ```vb

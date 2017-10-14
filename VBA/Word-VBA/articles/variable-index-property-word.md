@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Variable.Index Property (Word)
 
-Returns a  **Long** that represents the ordinal position of a variable with in the collection of variables. Read-only.
+Returns a **Long** that represents the ordinal position of a variable with in the collection of variables. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** that represents the ordinal position of a variable with in t
 
 ## Example
 
-This example adds a document variable to the active document and then returns the position of the specified variable in the  **Variables** collection.
+This example adds a document variable to the active document and then returns the position of the specified variable in the **Variables** collection.
 
 
 ```vb

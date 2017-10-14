@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.FirstLineIndent Property (Publisher)
 
-Returns or sets a  **Variant** that represents the amount of space (measured in points) to indent the first line in a paragraph. Read/write.
+Returns or sets a **Variant** that represents the amount of space (measured in points) to indent the first line in a paragraph. Read/write.
 
 
 ## Syntax
 
  _expression_. **FirstLineIndent**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value

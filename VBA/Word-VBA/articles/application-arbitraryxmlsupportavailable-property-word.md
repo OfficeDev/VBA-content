@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ArbitraryXMLSupportAvailable Property (Word)
 
-Returns a  **Boolean** that represents whether Microsoft Word accepts custom XML schemas. **True** indicates that Word accepts custom XML schemas.
+Returns a **Boolean** that represents whether Microsoft Word accepts custom XML schemas. **True** indicates that Word accepts custom XML schemas.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** that represents whether Microsoft Word accepts custom XML
 
 ## Remarks
 
-Microsoft Office Standard Edition 2003 includes XML support using the Word XML schema, but it does not provide support for custom XML schemas. Support for custom XML schemas is available only in the stand-alone release of Office Word 2003 or greater and in Office Professional Edition 2003 or greater. Use the  **ArbitraryXMLSupportAvailable** property to determine which release is installed.
+Microsoft Office Standard Edition 2003 includes XML support using the Word XML schema, but it does not provide support for custom XML schemas. Support for custom XML schemas is available only in the stand-alone release of Office Word 2003 or greater and in Office Professional Edition 2003 or greater. Use the **ArbitraryXMLSupportAvailable** property to determine which release is installed.
 
 
 ## Example

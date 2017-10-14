@@ -38,9 +38,9 @@ Nothing
 
 ## Remarks
 
-Using the  **RepeatAllLabels** method corresponds to the **Repeat All Item Labels** and **Do Not Repeat Item Labels** commands on the **Report Layout** drop-down list of the **PivotTable Tools Design** tab.
+Using the **RepeatAllLabels** method corresponds to the **Repeat All Item Labels** and **Do Not Repeat Item Labels** commands on the **Report Layout** drop-down list of the **PivotTable Tools Design** tab.
 
-To specify whether to repeat item labels for a single PivotField, use the  **[RepeatLabels](pivotfield-repeatlabels-property-excel.md)** property.
+To specify whether to repeat item labels for a single PivotField, use the **[RepeatLabels](pivotfield-repeatlabels-property-excel.md)** property.
 
 
 ## See also

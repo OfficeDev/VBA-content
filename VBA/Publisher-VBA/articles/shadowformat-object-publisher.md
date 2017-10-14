@@ -19,7 +19,7 @@ Represents shadow formatting for a shape.
 
 ## Example
 
-Use the  **Shadow** property to return a **ShadowFormat** object. The following example adds a shadowed rectangle to the active document. The pink shadow is offset 7 points to the right of the rectangle and 7 points above it.
+Use the **Shadow** property to return a **ShadowFormat** object. The following example adds a shadowed rectangle to the active document. The pink shadow is offset 7 points to the right of the rectangle and 7 points above it.
  
 
  

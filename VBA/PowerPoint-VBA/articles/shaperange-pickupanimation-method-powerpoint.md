@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.PickupAnimation Method (PowerPoint)
 
-Picks up all animation from the  **ShapeRange** object.
+Picks up all animation from the **ShapeRange** object.
 
 
 ## Syntax

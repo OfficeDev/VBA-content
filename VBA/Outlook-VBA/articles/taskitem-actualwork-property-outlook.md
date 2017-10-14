@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.ActualWork Property (Outlook)
 
-Returns or sets a  **Long** indicating the actual effort spent on the task. Read/write.
+Returns or sets a **Long** indicating the actual effort spent on the task. Read/write.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Font2.Application Property (Office)
 
-Gets an object that represents the application the  **Font2** object is used in. Read-only.
+Gets an object that represents the application the **Font2** object is used in. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarShortcuts.Add Method (Outlook)
 
-Adds a new shortcut to a group in the  **Shortcuts** pane.
+Adds a new shortcut to a group in the **Shortcuts** pane.
 
 
 ## Syntax
@@ -31,11 +31,11 @@ Adds a new shortcut to a group in the  **Shortcuts** pane.
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Variant**|The target of the shortcut being created.|
 | _Name_|Required| **String**|The name of the shortcut being created.|
-| _Index_|Optional| **Long**|The position at which the new shortcut will be inserted in the  **Shortcuts** pane group. Position one is at the top of the group.The **Target** type depends on the shortcut type. If the type is **Folder** , the shortcut represents a Microsoft Outlook folder. If the type is a **String** , the shortcut represents a file-system path or a URL.|
+| _Index_|Optional| **Long**|The position at which the new shortcut will be inserted in the **Shortcuts** pane group. Position one is at the top of the group.The **Target** type depends on the shortcut type. If the type is **Folder** , the shortcut represents a Microsoft Outlook folder. If the type is a **String** , the shortcut represents a file-system path or a URL.|
 
 ### Return Value
 
-An  **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)** object that represents the new shortcut.
+An **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)** object that represents the new shortcut.
 
 
 ## Example

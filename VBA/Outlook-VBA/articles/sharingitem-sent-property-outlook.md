@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Sent Property (Outlook)
 
-Returns a  **Boolean** value that indicates if the **[SharingItem](sharingitem-object-outlook.md)** has been sent. Read-only.
+Returns a **Boolean** value that indicates if the **[SharingItem](sharingitem-object-outlook.md)** has been sent. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **Boolean** value that indicates if the **[SharingItem](sharingitem-o
 
 In general, there are three different kinds of messages: sent, posted, and saved. Sent messages are items sent to a recipient or public folder. Posted messages are created in a public folder. Saved messages are created and saved without either sending or posting.
 
-If this property is set to  **True** , attempting to set the **[SendUsingAccount](sharingitem-sendusingaccount-property-outlook.md)** property raises an error.
+If this property is set to **True** , attempting to set the **[SendUsingAccount](sharingitem-sendusingaccount-property-outlook.md)** property raises an error.
 
 
 ## See also

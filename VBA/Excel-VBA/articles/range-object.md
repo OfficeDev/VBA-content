@@ -18,17 +18,17 @@ Represents a cell, a row, a column, or a selection of cells that contains one or
 
 ## Using the Range Object
 
-The following properties for returning a  **Range** object are described in this section:
+The following properties for returning a **Range** object are described in this section:
 
 
--  **Range** property
+- **Range** property
     
--  **Cells** property
+- **Cells** property
     
 
 ## Range Property
 
-Use  **Range**( _arg_), where  _arg_ is the name of the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
+Use **Range**( _arg_), where  _arg_ is the name of the range, to return a **Range** object that represents a single cell or a range of cells. The following example places the value of cell A1 in cell A5.
 
 
 ```
@@ -48,7 +48,7 @@ myChart.Application.DataSheet.Range("A1:H8").Value = 20
 
 ## Cells Property
 
-Use  **Cells**( _row_,  _column_), where  _row_ is the row's index number and _column_ is the column's index number, to return a single cell. The following example sets the value of cell A1 to 24 (column A is the second column on the datasheet, and row 1 is the second row on the datasheet).
+Use **Cells**( _row_,  _column_), where  _row_ is the row's index number and _column_ is the column's index number, to return a single cell. The following example sets the value of cell A1 to 24 (column A is the second column on the datasheet, and row 1 is the second row on the datasheet).
 
 
 ```

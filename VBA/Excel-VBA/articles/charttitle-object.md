@@ -18,7 +18,7 @@ Represents the title of the specified chart.
 
 ## Using the ChartTitle Object
 
-Use the  **ChartTitle** property to return the **ChartTitle** object. The following example adds a title to the chart.
+Use the **ChartTitle** property to return the **ChartTitle** object. The following example adds a title to the chart.
 
 
 ```vb
@@ -31,6 +31,6 @@ End With
 
 ## Remarks
 
-The  **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](hastitle-property.md)** property for the chart is  **True**.
+The **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](hastitle-property.md)** property for the chart is **True**.
 
 

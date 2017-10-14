@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # DependencyObjects Object (Access)
 
-Represents the collection of  **[AccessObject](accessobject-object-access.md)** objects that a **[DependencyInfo](dependencyinfo-object-access.md)** object contains.
+Represents the collection of **[AccessObject](accessobject-object-access.md)** objects that a **[DependencyInfo](dependencyinfo-object-access.md)** object contains.
 
 
 ## Remarks
 
-To return a  **DependencyObjects** collection, use the **[Dependants](dependencyinfo-dependants-property-access.md)** or **[Dependencies](dependencyinfo-dependencies-property-access.md)** property of the **DependencyInfo** object.
+To return a **DependencyObjects** collection, use the **[Dependants](dependencyinfo-dependants-property-access.md)** or **[Dependencies](dependencyinfo-dependencies-property-access.md)** property of the **DependencyInfo** object.
 
-To return a single  **AccessObject** object, use the **Item** method of the **DependencyObjects** collection.
+To return a single **AccessObject** object, use the **Item** method of the **DependencyObjects** collection.
 
 
 ## Properties

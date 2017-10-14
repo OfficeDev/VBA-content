@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within a line.
+Returns a **Range** object that represents the portion of a document that is contained within a line.
 
 
 ## Syntax

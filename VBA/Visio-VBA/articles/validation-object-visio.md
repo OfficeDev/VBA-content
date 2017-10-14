@@ -18,6 +18,6 @@ Stores information about diagram validation for the document.
 
 ## Remarks
 
-To get a  **Validation** object, use the **[Validation](document-validation-property-visio.md)** property of the **[Document](document-object-visio.md)** object.
+To get a **Validation** object, use the **[Validation](document-validation-property-visio.md)** property of the **[Document](document-object-visio.md)** object.
 
 

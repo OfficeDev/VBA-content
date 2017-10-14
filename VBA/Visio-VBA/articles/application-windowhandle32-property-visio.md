@@ -30,32 +30,32 @@ Long
 
 ## Remarks
 
-The  **WindowHandle32** property of an **Application** object returns one of the following:
+The **WindowHandle32** property of an **Application** object returns one of the following:
 
 
 
 
-- The  **HWND** for the main Visio (frame) window (most common).
+- The **HWND** for the main Visio (frame) window (most common).
     
-- The  **HWND** for the container application's main frame window if Visio is running in-place and active.
+- The **HWND** for the container application's main frame window if Visio is running in-place and active.
     
-- The  **HWND** for the window returned by the **GetActiveWindow** () function if either frame window is disabled (for example, if a modal dialog box is running). For details about the **GetActiveWindow** function, see the Microsoft Platform SDK on the Microsoft Developer Network (MSDN) Web site.
+- The **HWND** for the window returned by the **GetActiveWindow** () function if either frame window is disabled (for example, if a modal dialog box is running). For details about the **GetActiveWindow** function, see the Microsoft Platform SDK on the Microsoft Developer Network (MSDN) Web site.
     
 
 
-Use the  **WindowHandle32** property of the **Window** object to obtain the **HWND** for a window in the **Windows** collection of a Visio instance.
+Use the **WindowHandle32** property of the **Window** object to obtain the **HWND** for a window in the **Windows** collection of a Visio instance.
 
-You can use the obtained  **HWND** in Windows API calls.
-
-
- **Note**  Calls to the  **WindowHandle** property (now hidden) are directed to the **WindowHandle32** property.
-
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+You can use the obtained **HWND** in Windows API calls.
 
 
--  **Microsoft.Office.Interop.Visio.IVApplication.WindowHandle**
+ **Note**  Calls to the **WindowHandle** property (now hidden) are directed to the **WindowHandle32** property.
+
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+
+
+- **Microsoft.Office.Interop.Visio.IVApplication.WindowHandle**
     
--  **Microsoft.Office.Interop.Visio.IVApplication.WindowHandle32**
+- **Microsoft.Office.Interop.Visio.IVApplication.WindowHandle32**
     
 
 ## Example

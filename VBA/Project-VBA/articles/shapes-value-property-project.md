@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.Value Property (Project)
-Gets an individual  **Shape** object in the **Shapes** collection. Read-only **Shape**.
+Gets an individual **Shape** object in the **Shapes** collection. Read-only **Shape**.
 
 ## Syntax
 
@@ -22,7 +22,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
+| _Index_|Required|**Variant**|Can be a **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
 
 ## Remarks
 
@@ -33,7 +33,7 @@ Gets an individual  **Shape** object in the **Shapes** collection. Read-only **S
 ? ActiveProject.Reports("Table Tests").Shapes.Value(1).Name
 ```
 
-If you leave off the  **Shapes** property, the following statement is effectively the same as the previous statement.
+If you leave off the **Shapes** property, the following statement is effectively the same as the previous statement.
 
 
 
@@ -42,7 +42,7 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 ? ActiveProject.Reports("Table Tests").Shapes(1).Name
 ```
 
- **Shapes.Item** acts like **Shapes.Value**, except  **Item** is a method:
+ **Shapes.Item** acts like **Shapes.Value**, except **Item** is a method:
 
 
 

@@ -38,7 +38,7 @@ This event can be cancelled after it has started.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user before an item is copied. A message is displayed to the user verifying that the item should be copied. If the user clicks  **Yes**, the item is copied to the Clipboard. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user before an item is copied. A message is displayed to the user verifying that the item should be copied. If the user clicks **Yes**, the item is copied to the Clipboard. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

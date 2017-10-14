@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SearchFolders.Item Property (Office)
 
-Gets a  **ScopeFolder** object that represents a subfolder of the parent object. Read-only.
+Gets a **ScopeFolder** object that represents a subfolder of the parent object. Read-only.
 
 
 ## Syntax

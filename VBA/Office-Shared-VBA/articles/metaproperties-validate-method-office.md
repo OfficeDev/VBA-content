@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperties.Validate Method (Office)
 
-Validates all of the properties in a  **MetaProperties** collection object according to a schema.
+Validates all of the properties in a **MetaProperties** collection object according to a schema.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ If any of the properties is invalid, the test fails and an error message is retu
 
 ## Example
 
-In the following example, a  **MetaProperties** object is passed to a validation function. The function then validates all of the properties of the object and returns the result.
+In the following example, a **MetaProperties** object is passed to a validation function. The function then validates all of the properties of the object and returns the result.
 
 
 ```

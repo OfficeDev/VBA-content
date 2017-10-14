@@ -30,9 +30,9 @@ Saves a Visual Reports cube to the default directory or to a specified directory
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _strNamePath_|Optional|**String**|Name and full path of the location to which to save the cube file (.cub).|
-| _PjVisualReportsCubeType_|Optional|**Long**|Save cube type. Can be one of the  **[PjVisualReportsCubeType](pjvisualreportscubetype-enumeration-project.md)** consants. Default is **pjTaskTP**.|
-| _ReportAlLFields_|Optional|**Boolean**|If  **True**, all noncustom fields are included in the report. Default is **False**.|
-| _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the  **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. Default is **pjLevelAutomatic**.|
+| _PjVisualReportsCubeType_|Optional|**Long**|Save cube type. Can be one of the **[PjVisualReportsCubeType](pjvisualreportscubetype-enumeration-project.md)** consants. Default is **pjTaskTP**.|
+| _ReportAlLFields_|Optional|**Boolean**|If **True**, all noncustom fields are included in the report. Default is **False**.|
+| _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the **[PjVisualReportsDataLevel](pjvisualreportsdatalevel-enumeration-project.md)** constants. Default is **pjLevelAutomatic**.|
 
 ### Return Value
 
@@ -41,9 +41,9 @@ Saves a Visual Reports cube to the default directory or to a specified directory
 
 ## Remarks
 
-The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
+The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
-Setting the ReportAllFields parameter to  **True** can degrade performance.
+Setting the ReportAllFields parameter to **True** can degrade performance.
 
 
 ## Example

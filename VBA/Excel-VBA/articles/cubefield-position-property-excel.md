@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.Position Property (Excel)
 
-Returns or sets a  **Long** value that represents the position of the hierarchy field on the PivotTable report when it's dragged from the field well.
+Returns or sets a **Long** value that represents the position of the hierarchy field on the PivotTable report when it's dragged from the field well.
 
 
 ## Syntax

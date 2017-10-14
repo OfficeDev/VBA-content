@@ -18,19 +18,19 @@ Represents a Microsoft Excel workbook.
 
 ## Remarks
 
-The  **Workbook** object is a member of the [Workbooks](http://msdn.microsoft.com/library/f768da57-013a-e652-0f5d-60b03aa4240a%28Office.15%29.aspx) collection. The **Workbooks** collection contains all the **Workbook** objects currently open in Microsoft Excel.
+The **Workbook** object is a member of the [Workbooks](http://msdn.microsoft.com/library/f768da57-013a-e652-0f5d-60b03aa4240a%28Office.15%29.aspx) collection. The **Workbooks** collection contains all the **Workbook** objects currently open in Microsoft Excel.
 
 
 ### ThisWorkbook Property
 
 The  [ThisWorkbook](http://msdn.microsoft.com/library/04b713dd-fd93-3cbc-f10b-05b9c3d107b1%28Office.15%29.aspx) property returns the workbook where the Visual Basic code is running. In most cases, this is the same as the active workbook. However, if the Visual Basic code is part of an add-in, the **ThisWorkbook** property won't return the active workbook. In this case, the active workbook is the workbook calling the add-in, whereas the **ThisWorkbook** property returns the add-in workbook.
 
-If you'll be creating an add-in from your Visual Basic code, you should use the  **ThisWorkbook** property to qualify any statement that must be run on the workbook you compile into the add-in.
+If you'll be creating an add-in from your Visual Basic code, you should use the **ThisWorkbook** property to qualify any statement that must be run on the workbook you compile into the add-in.
 
 
 ## Example
 
-Use  **Workbooks** ( _index_ ), where _index_ is the workbook name or index number, to return a single [Workbook](workbook-object-excel.md) object. The following example activates workbook one.
+Use **Workbooks** ( _index_ ), where _index_ is the workbook name or index number, to return a single [Workbook](workbook-object-excel.md) object. The following example activates workbook one.
 
 
 ```
@@ -41,7 +41,7 @@ The index number denotes the order in which the workbooks were opened or created
 
 
 
-The  **[Name](http://msdn.microsoft.com/library/55526a99-da9c-7f14-55f7-dfe9bd8ff489%28Office.15%29.aspx)** property returns the workbook name. You cannot set the name by using this property; if you need to change the name, use the **[SaveAs](http://msdn.microsoft.com/library/fbc3ce55-27a3-aa07-3fdb-77b0d611e394%28Office.15%29.aspx)** method to save the workbook under a different name. The following example activates Sheet1 in the workbook named Cogs.xls (the workbook must already be open in Microsoft Excel).
+The **[Name](http://msdn.microsoft.com/library/55526a99-da9c-7f14-55f7-dfe9bd8ff489%28Office.15%29.aspx)** property returns the workbook name. You cannot set the name by using this property; if you need to change the name, use the **[SaveAs](http://msdn.microsoft.com/library/fbc3ce55-27a3-aa07-3fdb-77b0d611e394%28Office.15%29.aspx)** method to save the workbook under a different name. The following example activates Sheet1 in the workbook named Cogs.xls (the workbook must already be open in Microsoft Excel).
 
 
 
@@ -50,7 +50,7 @@ The  **[Name](http://msdn.microsoft.com/library/55526a99-da9c-7f14-55f7-dfe9bd8f
 Workbooks("Cogs.xls").Worksheets("Sheet1").Activate
 ```
 
-The  **[ActiveWorkbook](http://msdn.microsoft.com/library/637a2a30-f80c-08cd-e5c2-84716d0fff01%28Office.15%29.aspx)** property returns the workbook that's currently active. The following example sets the name of the author for the active workbook.
+The **[ActiveWorkbook](http://msdn.microsoft.com/library/637a2a30-f80c-08cd-e5c2-84716d0fff01%28Office.15%29.aspx)** property returns the workbook that's currently active. The following example sets the name of the author for the active workbook.
 
 
 

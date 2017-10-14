@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Resume <keyword>
 
-The  **Resume** keyword is used in these contexts:
+The **Resume** keyword is used in these contexts:
 
 [On Error Statement](on-error-statement.md)
 

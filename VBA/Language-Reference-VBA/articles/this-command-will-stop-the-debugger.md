@@ -15,7 +15,7 @@ Some commands and actions cause Visual Basic to stop analyzing code. This error 
 
 
 
-- Some edits, like declaring a  **Static**[variable](vbe-glossary.md), and some commands, like those for adding a new [module](vbe-glossary.md) or form, cause running or suspended code to stop.
+- Some edits, like declaring a **Static**[variable](vbe-glossary.md), and some commands, like those for adding a new [module](vbe-glossary.md) or form, cause running or suspended code to stop.
     
     If you don't want to stop running code, don't add or execute the command.
     

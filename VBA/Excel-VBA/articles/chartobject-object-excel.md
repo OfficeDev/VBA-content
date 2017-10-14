@@ -18,9 +18,9 @@ Represents an embedded chart on a worksheet.
 
 ## Remarks
 
-The  **ChartObject** object acts as a container for a **[Chart](chart-object-excel.md)** object. Properties and methods for the **ChartObject** object control the appearance and size of the embedded chart on the worksheet. The **ChartObject** object is a member of the **[ChartObjects](chartobjects-object-excel.md)** collection. The **ChartObjects** collection contains all the embedded charts on a single sheet.
+The **ChartObject** object acts as a container for a **[Chart](chart-object-excel.md)** object. Properties and methods for the **ChartObject** object control the appearance and size of the embedded chart on the worksheet. The **ChartObject** object is a member of the **[ChartObjects](chartobjects-object-excel.md)** collection. The **ChartObjects** collection contains all the embedded charts on a single sheet.
 
-Use  **ChartObjects** ( _index_ ), where _index_ is the embedded chart index number or name, to return a single **ChartObject** object.
+Use **ChartObjects** ( _index_ ), where _index_ is the embedded chart index number or name, to return a single **ChartObject** object.
 
 
 ## Example
@@ -33,7 +33,7 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
  ChartArea.Format.Fill.Pattern = msoPatternLightDownwardDiagonal
 ```
 
-The embedded chart name is shown in the Name box when the embedded chart is selected. Use the  **[Name](chartobject-name-property-excel.md)** property to set or return the name of the **ChartObject** object. The following example puts rounded corners on the embedded chart named "Chart 1" on the worksheet named "Sheet1."
+The embedded chart name is shown in the Name box when the embedded chart is selected. Use the **[Name](chartobject-name-property-excel.md)** property to set or return the name of the **ChartObject** object. The following example puts rounded corners on the embedded chart named "Chart 1" on the worksheet named "Sheet1."
 
 
 

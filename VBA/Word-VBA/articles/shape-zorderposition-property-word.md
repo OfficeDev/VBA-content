@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ZOrderPosition Property (Word)
 
-Returns a  **Long** that represents the position of the specified shape in the z-order. Read-only.
+Returns a **Long** that represents the position of the specified shape in the z-order. Read-only.
 
 
 ## Syntax

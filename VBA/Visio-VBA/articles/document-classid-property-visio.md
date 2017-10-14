@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-If the class ID of the container application in which the document is embedded cannot be retrieved, the  **ClassID** property raises an exception. If the document is not embedded in a container, the **ClassID** property returns an empty string.
+If the class ID of the container application in which the document is embedded cannot be retrieved, the **ClassID** property raises an exception. If the document is not embedded in a container, the **ClassID** property returns an empty string.
 
  **ClassID** returns a string of the form:
 

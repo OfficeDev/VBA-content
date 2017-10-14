@@ -20,12 +20,12 @@ Represents the high-low lines in a chart group.
 
  High-low lines connect the highest point with the lowest point in every category in the chart group. Only 2-D line groups can have high-low lines. This object isn't a collection. There's no object that represents a single high-low line; you either have high-low lines turned on for all points in a chart group or you have them turned off.
 
-If the  **[HasHiLoLines](chartgroup-hashilolines-property-excel.md)** property is **False** , most properties of the **HiLoLines** object are disabled.
+If the **[HasHiLoLines](chartgroup-hashilolines-property-excel.md)** property is **False** , most properties of the **HiLoLines** object are disabled.
 
 
 ## Example
 
-Use the  **[HiLoLines](chartgroup-hilolines-property-excel.md)** property to return the **HiLoLines** object. The following example uses the **HasHiLowLines** property to add HiLowLines to embedded chart one (the chart must be a line chart) on worksheet one. The example then makes the high-low lines blue.
+Use the **[HiLoLines](chartgroup-hilolines-property-excel.md)** property to return the **HiLoLines** object. The following example uses the **HasHiLowLines** property to add HiLowLines to embedded chart one (the chart must be a line chart) on worksheet one. The example then makes the high-low lines blue.
 
 
 ```vb

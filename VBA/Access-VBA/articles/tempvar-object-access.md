@@ -18,21 +18,21 @@ Represents a variable that be used in Visual Basic for Applications (VBA) code o
 
 ## Remarks
 
-A  **TempVar** objects provide a convenient way to exchange data between VBA procedures and macros.
+A **TempVar** objects provide a convenient way to exchange data between VBA procedures and macros.
 
-Although a  **TempVar** object can be used to store information for use in VBA procedures, it does not have the same funcitonality as a VBA variable.
+Although a **TempVar** object can be used to store information for use in VBA procedures, it does not have the same funcitonality as a VBA variable.
 
 
-- By default, a  **TempVar** object remains in memory until Access is closed. You can use the **[Remove](http://msdn.microsoft.com/library/a9ab9ff2-5bfc-d001-f5eb-9929907bc1b2%28Office.15%29.aspx)** method or the[RemoveTempVar](http://msdn.microsoft.com/library/7bcc5010-3e30-ecef-2c5d-a35e73c8e325%28Office.15%29.aspx) macro action to remove a **TempVar** object.
+- By default, a **TempVar** object remains in memory until Access is closed. You can use the **[Remove](http://msdn.microsoft.com/library/a9ab9ff2-5bfc-d001-f5eb-9929907bc1b2%28Office.15%29.aspx)** method or the[RemoveTempVar](http://msdn.microsoft.com/library/7bcc5010-3e30-ecef-2c5d-a35e73c8e325%28Office.15%29.aspx) macro action to remove a **TempVar** object.
     
-- In VBA, a  **TempVar** object is accessible only to the members of the Access **[Application](http://msdn.microsoft.com/library/aefb0713-97e6-e2c7-e530-8fd2e1316a55%28Office.15%29.aspx)** object, referenced databases, or add-ins.
+- In VBA, a **TempVar** object is accessible only to the members of the Access **[Application](http://msdn.microsoft.com/library/aefb0713-97e6-e2c7-e530-8fd2e1316a55%28Office.15%29.aspx)** object, referenced databases, or add-ins.
     
-- A  **TempVar** object can store only text or numeric data. **TempVar** objects cannot store objects.
+- A **TempVar** object can store only text or numeric data. **TempVar** objects cannot store objects.
     
-To refer to a  **TempVar** object in a collection by its ordinal number or by its **Name** property setting, use the following syntax form:
+To refer to a **TempVar** object in a collection by its ordinal number or by its **Name** property setting, use the following syntax form:
 
 
--  **TempVar** ![name]
+- **TempVar** ![name]
     
 
 |**Name**|

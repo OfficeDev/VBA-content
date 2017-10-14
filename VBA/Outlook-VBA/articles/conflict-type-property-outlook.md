@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflict.Type Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the type of item represented by the **[Conflict](conflict-object-outlook.md)** object. Read-only.
+Returns an **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the type of item represented by the **[Conflict](conflict-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

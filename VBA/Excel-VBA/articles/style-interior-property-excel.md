@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Interior Property (Excel)
 
-Returns an  **[Interior](interior-object-excel.md)** object that represents the interior of the specified object.
+Returns an **[Interior](interior-object-excel.md)** object that represents the interior of the specified object.
 
 
 ## Syntax

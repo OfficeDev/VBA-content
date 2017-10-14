@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.VerticalDatasheetGridlineStyle Property (Access)
 
-Returns or sets a  **Byte** indicating the line style to use for vertical gridlines on the specified datasheet. Read/write.
+Returns or sets a **Byte** indicating the line style to use for vertical gridlines on the specified datasheet. Read/write.
 
 
 ## Syntax

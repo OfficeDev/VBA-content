@@ -36,6 +36,6 @@ nothing
 
 ## Remarks
 
-The  **SaveStartingToServer** event cannot be cancelled.
+The **SaveStartingToServer** event cannot be cancelled.
 
 

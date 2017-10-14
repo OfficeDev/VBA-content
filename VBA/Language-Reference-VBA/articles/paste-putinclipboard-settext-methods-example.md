@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Paste, PutInClipboard, SetText Methods Example
 
-The following example demonstrates data movement from a  **TextBox** to a **DataObject**, from a **DataObject** to the Clipboard, and from the Clipboard to another **TextBox**. The **PutInClipboard** method transfers the data from a **DataObject** to the Clipboard. The **SetText** and **Paste** methods are also used.
+The following example demonstrates data movement from a **TextBox** to a **DataObject**, from a **DataObject** to the Clipboard, and from the Clipboard to another **TextBox**. The **PutInClipboard** method transfers the data from a **DataObject** to the Clipboard. The **SetText** and **Paste** methods are also used.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **TextBox** controls named TextBox1 and TextBox2.
+- Two **TextBox** controls named TextBox1 and TextBox2.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 
 

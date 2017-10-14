@@ -27,7 +27,7 @@ Adds a model measure to the model.
 
 |||||
 | _MeasureName_|Required|STRING|The name of the model measure.|
-| _AssociatedTable_|Required|MODELTABLE|The model table associated with the model measure. This is the table that contains the model measure, as seen in the  **Field List** task pane.|
+| _AssociatedTable_|Required|MODELTABLE|The model table associated with the model measure. This is the table that contains the model measure, as seen in the **Field List** task pane.|
 | _Formula_|Required|STRING|The Data Analysis Expressions (DAX) formula, inserted as a string.|
 | _FormatInformation_|Required|VARIANT|The formatting of the model measure. See Remarks. |
 | _Description_|Optional|VARIANT|The description associated with the model measure.|

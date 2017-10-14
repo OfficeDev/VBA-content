@@ -25,7 +25,7 @@ Sets spacing before the specified paragraphs to 12 points.
 
 ## Remarks
 
-You can also use the  **[SpaceBefore](paragraphs-spacebefore-property-word.md)** property to set the spacing before paragraphs. The following two statements are equivalent:
+You can also use the **[SpaceBefore](paragraphs-spacebefore-property-word.md)** property to set the spacing before paragraphs. The following two statements are equivalent:
 
 
 ```vb

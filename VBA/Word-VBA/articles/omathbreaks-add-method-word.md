@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBreaks.Add Method (Word)
 
-Inserts a break into an equation and returns an  **OMathBreak** object that represents the break.
+Inserts a break into an equation and returns an **OMathBreak** object that represents the break.
 
 
 ## Syntax

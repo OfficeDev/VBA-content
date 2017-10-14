@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextStyle.Font Property (Publisher)
 
-Sets or returns a  **[Font](font-object-publisher.md)** object that represents character formatting attributes applied to the specified object. Read/write.
+Sets or returns a **[Font](font-object-publisher.md)** object that represents character formatting attributes applied to the specified object. Read/write.
 
 
 ## Syntax
 
  _expression_. **Font**
 
- _expression_A variable that represents a  **TextStyle** object.
+ _expression_A variable that represents a **TextStyle** object.
 
 
 ## Example

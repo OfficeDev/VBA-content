@@ -32,7 +32,7 @@ PpFollowColors
 
 The specified object must be a chart created in either Microsoft Graph or Microsoft Organization Chart. 
 
-The value of the  **FollowColors** property can be one of these **PpFollowColors** constants.
+The value of the **FollowColors** property can be one of these **PpFollowColors** constants.
 
 
 

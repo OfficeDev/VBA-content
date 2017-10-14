@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Length Property (PowerPoint)
 
-When the  **[AutoLength](calloutformat-autolength-property-powerpoint.md)** property of the specified callout is set to **False**, the **Length** property returns the length (in points) of the first segment of the callout line (the segment attached to the text callout box). Read-only.
+When the **[AutoLength](calloutformat-autolength-property-powerpoint.md)** property of the specified callout is set to **False**, the **Length** property returns the length (in points) of the first segment of the callout line (the segment attached to the text callout box). Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ When the  **[AutoLength](calloutformat-autolength-property-powerpoint.md)** prop
 
 ## Remarks
 
-Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour** ). Use the **[CustomLength](calloutformat-customlength-method-powerpoint.md)** method to set the value of this property for the **CalloutFormat** object.
+Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour** ). Use the **[CustomLength](calloutformat-customlength-method-powerpoint.md)** method to set the value of this property for the **CalloutFormat** object.
 
 
 ## Example

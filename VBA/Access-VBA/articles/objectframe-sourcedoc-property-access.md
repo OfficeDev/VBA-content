@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.SourceDoc Property (Access)
 
-You can use the  **SourceDoc** property to specify the file to create a link to or to embed when you create a linked object or embedded object by using the **Action** property in Visual Basic. Read/write **String**.
+You can use the **SourceDoc** property to specify the file to create a link to or to embed when you create a linked object or embedded object by using the **Action** property in Visual Basic. Read/write **String**.
 
 
 ## Syntax
@@ -25,15 +25,15 @@ You can use the  **SourceDoc** property to specify the file to create a link to 
 
 ## Remarks
 
-For an embedded object, enter the full path and file name for the file you want to use as a template and set the  **Action** property to **acOLECreateEmbed**.
+For an embedded object, enter the full path and file name for the file you want to use as a template and set the **Action** property to **acOLECreateEmbed**.
 
-For a linked object, enter the full path and file name of the file to create a link to and set the  **Action** property to **acOLECreateLink**.
+For a linked object, enter the full path and file name of the file to create a link to and set the **Action** property to **acOLECreateLink**.
 
-While this property appears in the property sheet, it takes effect only after the  **Action** property is set in a macro or by using Visual Basic.
+While this property appears in the property sheet, it takes effect only after the **Action** property is set in a macro or by using Visual Basic.
 
-You can use the  **SourceDoc** property to specify the file to create a link to and the control's **SourceItem** property to specify the data within that file. If you want to create a link to the entire object, leave the **SourceItem** property blank.
+You can use the **SourceDoc** property to specify the file to create a link to and the control's **SourceItem** property to specify the data within that file. If you want to create a link to the entire object, leave the **SourceItem** property blank.
 
-When a linked unbound object is created, the control's  **SourceItem** property setting is concatenated with its **SourceItem** property setting. In Form view, Datasheet view, and Print Preview, the control's **SourceItem** property setting is a zero-length string (" "), and its **SourceDoc** property setting is the full path to the linked file, followed by an exclamation point (!) or a backslash ( **\** ) and the **SourceItem** property setting, as in the following example:
+When a linked unbound object is created, the control's **SourceItem** property setting is concatenated with its **SourceItem** property setting. In Form view, Datasheet view, and Print Preview, the control's **SourceItem** property setting is a zero-length string (" "), and its **SourceDoc** property setting is the full path to the linked file, followed by an exclamation point (!) or a backslash ( **\** ) and the **SourceItem** property setting, as in the following example:
 
 
 

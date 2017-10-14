@@ -27,8 +27,8 @@ Retrieve the [PivotValueCell Object (Excel)](pivotvaluecell-object-excel.md) obj
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _rowline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the row area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the row area that the **PivotValueCell** is aligned with. If missing, Empty, Null, or 0 specifies the grand total row.|
-| _columnline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the column area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the column area that the **PivotValueCell** is aligned with. If missing, Empty, Null or 0, specifies the grand total column.|
+| _rowline_|Optional|VARIANT|If of type **PivotLine** , specifies the **PivotLine** in the row area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the row area that the **PivotValueCell** is aligned with. If missing, Empty, Null, or 0 specifies the grand total row.|
+| _columnline_|Optional|VARIANT|If of type **PivotLine** , specifies the **PivotLine** in the column area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the column area that the **PivotValueCell** is aligned with. If missing, Empty, Null or 0, specifies the grand total column.|
 
 ### Return value
 
@@ -37,7 +37,7 @@ Retrieve the [PivotValueCell Object (Excel)](pivotvaluecell-object-excel.md) obj
 
 ### Example
 
-This code sample uses the  **PivotValueCell** property to test whether the value of one cell in a PivotTable is greater than the value of another cell.
+This code sample uses the **PivotValueCell** property to test whether the value of one cell in a PivotTable is greater than the value of another cell.
 
 
 ```vb

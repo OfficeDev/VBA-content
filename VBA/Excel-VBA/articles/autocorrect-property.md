@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect Property
 
-Returns an  **[AutoCorrect](autocorrect-object.md)** object that represents the Microsoft Graph AutoCorrect attributes. Read-only.
+Returns an **[AutoCorrect](autocorrect-object.md)** object that represents the Microsoft Graph AutoCorrect attributes. Read-only.
 
 
 ## Example

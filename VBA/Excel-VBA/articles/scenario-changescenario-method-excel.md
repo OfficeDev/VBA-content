@@ -29,7 +29,7 @@ Changes the scenario to have a new set of changing cells and (optionally) scenar
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ChangingCells_|Required| **Variant**|A  **Range** object that specifies the new set of changing cells for the scenario. The changing cells must be on the same sheet as the scenario.|
+| _ChangingCells_|Required| **Variant**|A **Range** object that specifies the new set of changing cells for the scenario. The changing cells must be on the same sheet as the scenario.|
 | _Values_|Optional| **Variant**|An array that contains the new scenario values for the changing cells. If this argument is omitted, the scenario values are assumed to be the current values in the changing cells.|
 
 ### Return Value

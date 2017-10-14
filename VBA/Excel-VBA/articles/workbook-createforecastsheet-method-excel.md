@@ -11,7 +11,7 @@ ms.prod: excel
 
 # Workbook.CreateForecastSheet Method (Excel)
 
-If you have historical time-based data, you can use  **CreateForecastSheet** to create a forecast. When you create a forecast, a new worksheet is created that contains a table of the historical and predicted values and a chart showing this. A forecast can help you predict things like future sales, inventory requirements, or consumer trends.
+If you have historical time-based data, you can use **CreateForecastSheet** to create a forecast. When you create a forecast, a new worksheet is created that contains a table of the historical and predicted values and a chart showing this. A forecast can help you predict things like future sales, inventory requirements, or consumer trends.
 
 
 ## Syntax

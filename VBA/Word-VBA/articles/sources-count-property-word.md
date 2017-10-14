@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Sources.Count Property (Word)
 
-Returns the number of items in the  **Sources** collection. Read-only **Long** .
+Returns the number of items in the **Sources** collection. Read-only **Long** .
 
 
 ## Syntax

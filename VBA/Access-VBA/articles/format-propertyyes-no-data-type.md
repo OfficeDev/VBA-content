@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 [Example](#sectionSection3)
 
 
-You can set the  **Format** property to the Yes/No, **True** / **False**, or On/Off predefined formats or to a custom format for the Yes/No data type.
+You can set the **Format** property to the Yes/No, **True** / **False**, or On/Off predefined formats or to a custom format for the Yes/No data type.
 
 ## Setting
 <a name="sectionSection0"> </a>
@@ -33,7 +33,7 @@ Microsoft Access uses a check box control as the default control for the Yes/No 
 ## Predefined Formats
 <a name="sectionSection1"> </a>
 
-Yes,  **True**, and On are equivalent, as are No, **False**, and Off. If you specify one predefined format and then enter an equivalent value, the predefined format of equivalent value will be displayed. For example, if you enter **True** or On in a text box control with its **Format** property set to Yes/No, the value is automatically converted to Yes.
+Yes, **True**, and On are equivalent, as are No, **False**, and Off. If you specify one predefined format and then enter an equivalent value, the predefined format of equivalent value will be displayed. For example, if you enter **True** or On in a text box control with its **Format** property set to Yes/No, the value is automatically converted to Yes.
 
 
 ## Custom Formats
@@ -46,13 +46,13 @@ The Yes/No data type can use custom formats containing up to three sections.
 |**Section**|**Description**|
 |:-----|:-----|
 |First|This section has no effect on the Yes/No data type. However, a semicolon (;) is required as a placeholder.|
-|Second|The text to display in place of Yes,  **True**, or On values.|
-|Third|The text to display in place of No,  **False**, or Off values.|
+|Second|The text to display in place of Yes, **True**, or On values.|
+|Third|The text to display in place of No, **False**, or Off values.|
 
 ## Example
 <a name="sectionSection3"> </a>
 
-The following example shows a custom yes/no format for a text box control. The control displays the word "Always" in blue text for Yes,  **True**, or On, and the word "Never" in red text for No, **False**, or Off.
+The following example shows a custom yes/no format for a text box control. The control displays the word "Always" in blue text for Yes, **True**, or On, and the word "Never" in red text for No, **False**, or Off.
 
 
 ```

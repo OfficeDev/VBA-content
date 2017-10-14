@@ -20,7 +20,7 @@ Represents the size of the characters in the text range in points. Read/write.
 
  _expression_. **Size**
 
- _expression_An expression that returns a  **Font** object.
+ _expression_An expression that returns a **Font** object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRetrievalMode.ViewType Property (Word)
 
-Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdViewType** .
+Returns or sets the view for the **TextRetrievalMode** object. Read/write **WdViewType** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdV
 
 ## Remarks
 
-Changing the view for the  **TextRetrievalMode** object doesn't change the display of a document on the screen. Instead, it determines which characters in the document will be included when a range is retrieved.
+Changing the view for the **TextRetrievalMode** object doesn't change the display of a document on the screen. Instead, it determines which characters in the document will be included when a range is retrieved.
 
 
 ## Example

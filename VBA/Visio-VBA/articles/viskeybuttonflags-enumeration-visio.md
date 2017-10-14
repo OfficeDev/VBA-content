@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisKeyButtonFlags Enumeration (Visio)
 
-Flags passed to the  **MouseDown** , **MouseMove** , and **MouseUp** events.
+Flags passed to the **MouseDown** , **MouseMove** , and **MouseUp** events.
 
 
 

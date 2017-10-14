@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ActualStartDrivers.Parent Property (Project)
 
-Gets the parent task of the  **ActualStartDrivers** object. Read-only **Task**.
+Gets the parent task of the **ActualStartDrivers** object. Read-only **Task**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the parent task of the  **ActualStartDrivers** object. Read-only **Task**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of an object's parent.
+Use the **Parent** property to access the properties or methods of an object's parent.
 
 
 ## See also

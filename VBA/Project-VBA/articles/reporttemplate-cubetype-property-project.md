@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReportTemplate.CubeType Property (Project)
 
-Gets the cube type that is used to build the template. Read-only  **PjVisualReportsCubeType**.
+Gets the cube type that is used to build the template. Read-only **PjVisualReportsCubeType**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the cube type that is used to build the template. Read-only  **PjVisualRepo
 
 ## Remarks
 
-Can be one of the  **[PjVisualReportsCubeType](pjvisualreportscubetype-enumeration-project.md)** constants.
+Can be one of the **[PjVisualReportsCubeType](pjvisualreportscubetype-enumeration-project.md)** constants.
 
 
 ## See also

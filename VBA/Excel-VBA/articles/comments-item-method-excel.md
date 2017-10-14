@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Comment](comment-object-excel.md)** object contained by the collection.
+A **[Comment](comment-object-excel.md)** object contained by the collection.
 
 
 ## Example

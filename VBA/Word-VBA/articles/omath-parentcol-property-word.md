@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.ParentCol Property (Word)
 
-Returns an  **[OMathMatCol](omathmatcol-object-word.md)** object that represents the parent column in a matrix. Read-only.
+Returns an **[OMathMatCol](omathmatcol-object-word.md)** object that represents the parent column in a matrix. Read-only.
 
 
 ## Syntax

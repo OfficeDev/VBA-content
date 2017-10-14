@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EncryptionProvider.CloneSession Method (Office)
 
-Creates a second, working copy of the  **EncryptionProvider** object's encryption session for a file that is about to be saved.
+Creates a second, working copy of the **EncryptionProvider** object's encryption session for a file that is about to be saved.
 
 
 ## Syntax

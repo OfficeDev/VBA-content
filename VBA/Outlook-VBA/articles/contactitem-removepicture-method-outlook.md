@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.RemovePicture Method (Outlook)
 
-Removes a picture from a  **Contacts** item.
+Removes a picture from a **Contacts** item.
 
 
 ## Syntax

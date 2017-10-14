@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting  **Has3DShading** to **False** removes the 3-D shading effect from the chart (rendering it as flat). Setting **Has3DShading** to **True** sets the chart content to the default.
+Setting **Has3DShading** to **False** removes the 3-D shading effect from the chart (rendering it as flat). Setting **Has3DShading** to **True** sets the chart content to the default.
 
 
 ## Example

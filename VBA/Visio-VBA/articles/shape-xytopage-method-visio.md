@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.XYToPage Method (Visio)
 
-Transforms a point expressed in the local coordinate system of a  **Shape** object to an equivalent point expressed in the local coordinate system of its **Page** or **Master** object.
+Transforms a point expressed in the local coordinate system of a **Shape** object to an equivalent point expressed in the local coordinate system of its **Page** or **Master** object.
 
 
 ## Syntax
@@ -43,6 +43,6 @@ Nothing
 
 The points  _x_,  _y_,  _xprime_, and  _yprime_ are all treated as internal drawing units.
 
-An exception is raised if object is not a  **Shape** object of a **Page** or **Master** object.
+An exception is raised if object is not a **Shape** object of a **Page** or **Master** object.
 
 

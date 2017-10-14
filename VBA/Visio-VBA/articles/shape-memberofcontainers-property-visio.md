@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.MemberOfContainers Property (Visio)
 
-Returns an array of  **Long** values that represent the identifiers of the container shapes that include the shape as a member. Read-only.
+Returns an array of **Long** values that represent the identifiers of the container shapes that include the shape as a member. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Returns an array of  **Long** values that represent the identifiers of the conta
 
 ## Remarks
 
-The  **MemberOfContainers** property returns **Nothing** if the shape is not a member of any container.
+The **MemberOfContainers** property returns **Nothing** if the shape is not a member of any container.
 
 

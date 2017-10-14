@@ -17,7 +17,7 @@ Gets a value that indicates whether a document is loaded in Microsoft Visio View
 
  _expression_. **DocumentLoaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,7 +27,7 @@ Gets a value that indicates whether a document is loaded in Microsoft Visio View
 
 ## Remarks
 
-The default setting for the  **DocumentLoaded** property value is **False**.
+The default setting for the **DocumentLoaded** property value is **False**.
 
 
 ## Example

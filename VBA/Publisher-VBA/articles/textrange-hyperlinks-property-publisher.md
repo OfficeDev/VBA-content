@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Hyperlinks Property (Publisher)
 
-Returns a  **[Hyperlinks](hyperlinks-object-publisher.md)** collection representing all the hyperlinks in the specified text range.
+Returns a **[Hyperlinks](hyperlinks-object-publisher.md)** collection representing all the hyperlinks in the specified text range.
 
 
 ## Syntax
 
  _expression_. **Hyperlinks**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

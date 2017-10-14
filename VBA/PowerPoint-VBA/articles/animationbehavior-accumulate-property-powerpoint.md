@@ -30,9 +30,9 @@ MsoAnimAccumulate
 
 ## Remarks
 
-Use this property in conjunction with the  **[Additive](animationbehavior-additive-property-powerpoint.md)** property to combine animation effects.
+Use this property in conjunction with the **[Additive](animationbehavior-additive-property-powerpoint.md)** property to combine animation effects.
 
-The value of the  **Accumulate** property can be one of these **MsoAnimAccumulate** constants.
+The value of the **Accumulate** property can be one of these **MsoAnimAccumulate** constants.
 
 
 

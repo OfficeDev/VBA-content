@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.Id Property (Office)
 
-Gets the ID of the  **MetaProperty** object. Read-only.
+Gets the ID of the **MetaProperty** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PrefixCharacter Property (Excel)
 
-Returns the prefix character for the cell. Read-only  **Variant** .
+Returns the prefix character for the cell. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the prefix character for the cell. Read-only  **Variant** .
 
 ## Remarks
 
-If the  **[TransitionNavigKeys](application-transitionnavigkeys-property-excel.md)** property is **False** , this prefix character will be ' for a text label, or blank. If the **TransitionNavigKeys** property is **True** , this character will be ' for a left-justified label, " for a right-justified label, ^ for a centered label, \ for a repeated label, or blank.
+If the **[TransitionNavigKeys](application-transitionnavigkeys-property-excel.md)** property is **False** , this prefix character will be ' for a text label, or blank. If the **TransitionNavigKeys** property is **True** , this character will be ' for a left-justified label, " for a right-justified label, ^ for a centered label, \ for a repeated label, or blank.
 
 
 ## Example

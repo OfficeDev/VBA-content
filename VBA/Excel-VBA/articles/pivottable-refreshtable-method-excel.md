@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.RefreshTable Method (Excel)
 
-Refreshes the PivotTable report from the source data. Returns  **True** if it's successful.
+Refreshes the PivotTable report from the source data. Returns **True** if it's successful.
 
 
 ## Syntax

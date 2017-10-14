@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllowEditRanges.Add Method (Excel)
 
-Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEditRange](alloweditrange-object-excel.md)** object.
+Adds a range that can be edited on a protected worksheet. Returns a **[AllowEditRange](alloweditrange-object-excel.md)** object.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEdi
 
 ### Return Value
 
-An  **AllowEditRange** object that represents the range.
+An **AllowEditRange** object that represents the range.
 
 
 ## Example

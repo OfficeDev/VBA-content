@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.Cells Property (Word)
 
-Returns a  **[Cells](cells-object-word.md)** collection that represents the table cells in a table column. Read-only.
+Returns a **[Cells](cells-object-word.md)** collection that represents the table cells in a table column. Read-only.
 
 
 ## Syntax

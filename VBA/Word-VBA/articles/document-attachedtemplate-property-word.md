@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.AttachedTemplate Property (Word)
 
-Returns a  **[Template](template-object-word.md)** object that represents the template attached to the specified document. Read/write **Variant** .
+Returns a **[Template](template-object-word.md)** object that represents the template attached to the specified document. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Template](template-object-word.md)** object that represents the te
 
 ## Remarks
 
-To set this property, specify either the name of the template or an expression that returns a  **Template** object.
+To set this property, specify either the name of the template or an expression that returns a **Template** object.
 
 
 ## Example

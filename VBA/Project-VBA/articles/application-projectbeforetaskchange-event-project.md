@@ -27,15 +27,15 @@ Occurs before the user changes the value of a task field.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _tsk_|Required|**Task**|The task whose field is being changed.|
-| _Field_|Required|**Long**|The field being changed. If more than one field is changed by the user, the event is fired for each field changed. Can be one of the  **[PjField](pjfield-enumeration-project.md)** constants.|
-| _NewVal_|Required|**Variant**|The new value for the field specified with  **Field**.|
+| _Field_|Required|**Long**|The field being changed. If more than one field is changed by the user, the event is fired for each field changed. Can be one of the **[PjField](pjfield-enumeration-project.md)** constants.|
+| _NewVal_|Required|**Variant**|The new value for the field specified with **Field**.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with **Field** is not changed.|
 
 ## Remarks
 
 Project events do not occur when the project is embedded in another document or application.
 
-The  **ProjectBeforeTaskChange** event doesn't occur when timescaled data changes, when constraint data in the Task Details Form changes, when a task is split by manipulating its task bar on the Gantt Chart, when changes are made to outline level or outline number, when a baseline is saved, when a baseline is cleared, when an entire task row is pasted, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form. For more information and sample code for creating and testing an event handler, see[Using Events with Application and Project Objects](using-events-with-application-and-project-objects.md).
+The **ProjectBeforeTaskChange** event doesn't occur when timescaled data changes, when constraint data in the Task Details Form changes, when a task is split by manipulating its task bar on the Gantt Chart, when changes are made to outline level or outline number, when a baseline is saved, when a baseline is cleared, when an entire task row is pasted, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form. For more information and sample code for creating and testing an event handler, see[Using Events with Application and Project Objects](using-events-with-application-and-project-objects.md).
 
 
 ## Example

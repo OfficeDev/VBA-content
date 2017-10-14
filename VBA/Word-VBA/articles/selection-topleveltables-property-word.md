@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.TopLevelTables Property (Word)
 
-Returns a  **[Tables](tables-object-word.md)** collection that represents the tables at the outermost nesting level in the current selection. Read-only.
+Returns a **[Tables](tables-object-word.md)** collection that represents the tables at the outermost nesting level in the current selection. Read-only.
 
 
 ## Syntax

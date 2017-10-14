@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotAxis.Parent Property (Excel)
 
-Returns the parent object for the specified  **PivotAxis** object. Read-only.
+Returns the parent object for the specified **PivotAxis** object. Read-only.
 
 
 ## Syntax

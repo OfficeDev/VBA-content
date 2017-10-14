@@ -25,7 +25,7 @@ Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so th
 
 ## Remarks
 
-To set the extrusion rotation around the x-axis and the y-axis to anything other than 0 (zero), use the  **RotationX** and **RotationY** properties of the **ThreeDFormat** object. To set the extrusion rotation around the z-axis, use the **Rotation** property of the **Shape** object that represents the extruded shape.
+To set the extrusion rotation around the x-axis and the y-axis to anything other than 0 (zero), use the **RotationX** and **RotationY** properties of the **ThreeDFormat** object. To set the extrusion rotation around the z-axis, use the **Rotation** property of the **Shape** object that represents the extruded shape.
 
 
  **Note**  This method does not reset the rotation around the z-axis.

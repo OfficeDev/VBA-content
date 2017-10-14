@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # BackstageGroupStyle Enumeration (Office)
 
-Specifies constants that define the styles of the groups on the  **File** tab.
+Specifies constants that define the styles of the groups on the **File** tab.
 
 
 

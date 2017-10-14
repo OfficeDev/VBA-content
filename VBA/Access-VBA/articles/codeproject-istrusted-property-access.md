@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeProject.IsTrusted Property (Access)
 
-Gets whether or not macros and Visual Basic for Applications (VBA) code have been enabled in the current project. Read-only  **Boolean**.
+Gets whether or not macros and Visual Basic for Applications (VBA) code have been enabled in the current project. Read-only **Boolean**.
 
 
 ## Syntax

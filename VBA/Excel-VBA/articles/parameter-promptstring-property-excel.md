@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Parameter.PromptString Property (Excel)
 
-Returns the phrase that prompts the user for a parameter value in a parameter query. Read-only  **String** .
+Returns the phrase that prompts the user for a parameter value in a parameter query. Read-only **String** .
 
 
 ## Syntax

@@ -30,7 +30,7 @@ Returns an object that specifies the border of a data bar. Read-only
 
 ## Example
 
-The following code example selects a range of cells, adds a data bar conditional formatting rule to that range, uses the  **BarBorder** property to retrieve the **DataBarBorder** object associated with that rule, and then sets the data bar's color, tint, and type.
+The following code example selects a range of cells, adds a data bar conditional formatting rule to that range, uses the **BarBorder** property to retrieve the **DataBarBorder** object associated with that rule, and then sets the data bar's color, tint, and type.
 
 
 ```vb

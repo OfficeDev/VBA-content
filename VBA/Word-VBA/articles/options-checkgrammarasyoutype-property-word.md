@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property marks grammatical errors, but to see them on screen, you must set the  **[ShowGrammaticalErrors](document-showgrammaticalerrors-property-word.md)** property to **True** .
+This property marks grammatical errors, but to see them on screen, you must set the **[ShowGrammaticalErrors](document-showgrammaticalerrors-property-word.md)** property to **True** .
 
 
 ## Example
@@ -38,7 +38,7 @@ Options.CheckGrammarAsYouType = True
 ActiveDocument.ShowGrammaticalErrors = True
 ```
 
-This example returns the status of the  **Check grammar as you type** option on the **Spelling &; Grammar** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the status of the **Check grammar as you type** option on the **Spelling &; Grammar** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

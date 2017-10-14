@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.SelectionMode Property (Excel)
 
-Returns or sets the PivotTable report structured selection mode. Read/write  **[XlPTSelectionMode](xlptselectionmode-enumeration-excel.md)** .
+Returns or sets the PivotTable report structured selection mode. Read/write **[XlPTSelectionMode](xlptselectionmode-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Returns or sets the PivotTable report structured selection mode. Read/write  **[
 | **xlFirstRow**|
 | **xlLabelOnly**|
 | **xlOrigin**|
-If the PivotTable field isn't in outline form, specifying the sum of any of the constants and  **xlFirstRow** is equivalent to specifying the constant alone.
+If the PivotTable field isn't in outline form, specifying the sum of any of the constants and **xlFirstRow** is equivalent to specifying the constant alone.
 
 
 ## Example

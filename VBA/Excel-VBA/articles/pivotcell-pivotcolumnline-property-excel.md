@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.PivotColumnLine Property (Excel)
 
-Returns the  **PivotLine** on a column for a specific **PivotCell** object. Read-only **PivotLine** .
+Returns the **PivotLine** on a column for a specific **PivotCell** object. Read-only **PivotLine** .
 
 
 ## Syntax
@@ -25,11 +25,11 @@ Returns the  **PivotLine** on a column for a specific **PivotCell** object. Read
 
 ## Remarks
 
-If the PivotCell is on rows, the  **PivotColumnLine** property returns a run-time error.
+If the PivotCell is on rows, the **PivotColumnLine** property returns a run-time error.
 
-If the PivotCell is on columns, the  **PivotColumnLine** property returns the column **PivotLine** object.
+If the PivotCell is on columns, the **PivotColumnLine** property returns the column **PivotLine** object.
 
-If the PivotCell is in the data area, the  **PivotColumnLine** property returns the corresponding column **PivotLine** object.
+If the PivotCell is in the data area, the **PivotColumnLine** property returns the corresponding column **PivotLine** object.
 
 
 ## See also

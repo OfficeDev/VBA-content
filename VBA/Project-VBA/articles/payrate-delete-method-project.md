@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PayRate.Delete Method (Project)
 
-Deletes the  **PayRate** object from a **PayRates** collection.
+Deletes the **PayRate** object from a **PayRates** collection.
 
 
 ## Syntax

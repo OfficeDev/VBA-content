@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.PlotArea Property (Word)
 
-Returns the plot area of a chart. Read-only  **[PlotArea](plotarea-object-word.md)** .
+Returns the plot area of a chart. Read-only **[PlotArea](plotarea-object-word.md)** .
 
 
 ## Syntax

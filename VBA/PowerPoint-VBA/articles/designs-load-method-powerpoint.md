@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Designs.Load Method (PowerPoint)
 
-Returns a  **Design** object that represents a design loaded into the master list of the specified presentation.
+Returns a **Design** object that represents a design loaded into the master list of the specified presentation.
 
 
 ## Syntax

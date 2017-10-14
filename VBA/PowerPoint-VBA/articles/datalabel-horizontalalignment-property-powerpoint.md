@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DataLabel.HorizontalAlignment Property (PowerPoint)
 
-Returns or sets the horizontal alignment for the specified object. Read/write  **Variant**.
+Returns or sets the horizontal alignment for the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,18 +22,18 @@ Returns or sets the horizontal alignment for the specified object. Read/write  *
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants:
+You can set the value of this property to one of the following **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants:
 
 
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlLeft**
+- **xlLeft**
     
--  **xlRight**
+- **xlRight**
     
 
 

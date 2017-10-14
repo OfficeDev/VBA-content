@@ -45,7 +45,7 @@ The Microsoft Access database engine selects the records that meet the condition
 
 WHERE is optional, but when included, follows FROM. For example, you can select all employees in the sales department ( `WHERE Dept = 'Sales'`) or all customers between the ages of 18 and 30 () or all customers between the ages of 18 and 30 ( `WHERE Age Between 18 And 30`).
 
-If you do not use a JOIN clause to perform SQL join operations on multiple tables, the resulting  **Recordset** object will not be updatable.
+If you do not use a JOIN clause to perform SQL join operations on multiple tables, the resulting **Recordset** object will not be updatable.
 
 WHERE is similar to [HAVING](having-clause-microsoft-access-sql.md). WHERE determines which records are selected. Similarly, once records are grouped with [GROUP BY](group-by-clause-microsoft-access-sql.md), HAVING determines which records are displayed.
 
@@ -62,7 +62,7 @@ FROM Employees
 WHERE Salary > 21000;
 ```
 
-A WHERE clause can contain up to 40 expressions linked by logical operators, such as  **And** and **Or**.
+A WHERE clause can contain up to 40 expressions linked by logical operators, such as **And** and **Or**.
 
 When you enter a field name that contains a space or punctuation, surround the name with brackets ([ ]). For example, a customer information table might include information about specific customers:
 
@@ -86,7 +86,7 @@ FROM Orders
 WHERE ShippedDate = #5/10/96#;
 ```
 
-You can also use the  **DateValue** function which is aware of the international settings established by Microsoft Windows®. For example, use this code for the United States:
+You can also use the **DateValue** function which is aware of the international settings established by Microsoft Windows®. For example, use this code for the United States:
 
 
 

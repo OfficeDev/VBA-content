@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.MasterPages Property (Publisher)
 
-Returns the  **[MasterPages](masterpages-object-publisher.md)** collection for the specified publication.
+Returns the **[MasterPages](masterpages-object-publisher.md)** collection for the specified publication.
 
 
 ## Syntax
 
  _expression_. **MasterPages**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

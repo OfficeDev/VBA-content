@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Version Property (Excel)
 
-Returns a  **String** value that represents the Microsoft Excel version number.
+Returns a **String** value that represents the Microsoft Excel version number.
 
 
 ## Syntax

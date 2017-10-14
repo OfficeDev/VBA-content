@@ -18,9 +18,9 @@ Represents a custom property of an Outlook item.
 
 ## Remarks
 
-Use  **[UserProperties](http://msdn.microsoft.com/library/702ae502-d427-eeaf-ddd0-ff9749e7148c%28Office.15%29.aspx)** ( _index_ ), where _index_ is a name or index number, to return a single **UserProperty** object.
+Use **[UserProperties](http://msdn.microsoft.com/library/702ae502-d427-eeaf-ddd0-ff9749e7148c%28Office.15%29.aspx)** ( _index_ ), where _index_ is a name or index number, to return a single **UserProperty** object.
 
-Use the  **[Add](http://msdn.microsoft.com/library/88b86622-2234-77be-41e7-b76b0b3a75ad%28Office.15%29.aspx)** method to create a new **UserProperty** for an item and add it to the **[UserProperties](userproperties-object-outlook.md)** object. The **Add** method allows you to specify a name and type for the new property.
+Use the **[Add](http://msdn.microsoft.com/library/88b86622-2234-77be-41e7-b76b0b3a75ad%28Office.15%29.aspx)** method to create a new **UserProperty** for an item and add it to the **[UserProperties](userproperties-object-outlook.md)** object. The **Add** method allows you to specify a name and type for the new property.
 
 
 

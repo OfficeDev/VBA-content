@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns the parent **Object** of the specified **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the parent  **Object** of the specified **[SharingItem](sharingitem-obje
 
 ## Remarks
 
-If the  **SharingItem** was just created, this property returns a **[Folder](folder-object-outlook.md)** object representing the **Inbox** folder. Otherwise, this property returns a **Folder** object representing the folder in which the **SharingItem** was saved.
+If the **SharingItem** was just created, this property returns a **[Folder](folder-object-outlook.md)** object representing the **Inbox** folder. Otherwise, this property returns a **Folder** object representing the folder in which the **SharingItem** was saved.
 
 
 ## See also

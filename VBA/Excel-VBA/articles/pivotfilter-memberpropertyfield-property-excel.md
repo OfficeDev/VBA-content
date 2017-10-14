@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.MemberPropertyField Property (Excel)
 
-This property specifies the member property PivotField on which the label filter is based. Read/write  **PivotField** .
+This property specifies the member property PivotField on which the label filter is based. Read/write **PivotField** .
 
 
 ## Syntax

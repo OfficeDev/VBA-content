@@ -17,6 +17,6 @@ A string that represents the unique name of the building block. Read/write.
 
  _expression_. **Name**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_A variable that represents a **BuildingBlock** object.
 
 

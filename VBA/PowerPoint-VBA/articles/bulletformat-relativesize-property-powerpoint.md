@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-The  **RelativeSize** property value can be a floating-point value from 0.25 through 4, indicating that the bullet size can be from 25 percent through 400 percent of the text-character size.
+The **RelativeSize** property value can be a floating-point value from 0.25 through 4, indicating that the bullet size can be from 25 percent through 400 percent of the text-character size.
 
 
 ## Example

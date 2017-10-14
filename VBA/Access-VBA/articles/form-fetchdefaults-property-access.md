@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.FetchDefaults Property (Access)
 
-Returns or sets a  **Boolean** indicating whether Microsoft Access shows default values for new rows on the specified form before the row is saved. **True** if Access shows the default values for new rows on the specified form. Read/write.
+Returns or sets a **Boolean** indicating whether Microsoft Access shows default values for new rows on the specified form before the row is saved. **True** if Access shows the default values for new rows on the specified form. Read/write.
 
 
 ## Syntax

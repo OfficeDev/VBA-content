@@ -30,16 +30,16 @@ Integer
 
 ## Remarks
 
-If the  **EventsEnabled** property is **False** , Visio does not fire events, run add-ons, or execute strings that contain arbitrary Visual Basic for Applications (VBA) code when evaluating RUNADDON operands in cell formulas.
+If the **EventsEnabled** property is **False** , Visio does not fire events, run add-ons, or execute strings that contain arbitrary Visual Basic for Applications (VBA) code when evaluating RUNADDON operands in cell formulas.
 
-By default, the  **EventsEnabled** property is **True** when an instance of Visio starts.
+By default, the **EventsEnabled** property is **True** when an instance of Visio starts.
 
-You may want to disable event firing if you have written code to handle events such as  **DocumentOpened** or **DocumentCreated** that does not work properly, or to prevent the incorporation of a virus into a document. Events will not fire until the **EventsEnabled** property is set to **True** .
+You may want to disable event firing if you have written code to handle events such as **DocumentOpened** or **DocumentCreated** that does not work properly, or to prevent the incorporation of a virus into a document. Events will not fire until the **EventsEnabled** property is set to **True** .
 
 
 ## Example
 
-These VBA macros show how to use the  **EventsEnabled** property to suspend and resume event processing.
+These VBA macros show how to use the **EventsEnabled** property to suspend and resume event processing.
 
 
 ```vb

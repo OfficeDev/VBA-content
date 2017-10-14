@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcCursorOnHover Enumeration (Access)
 
-Used with the  **CursorOnHover** property to specify the type of cursor displayed when a user rests the pointer on a button.
+Used with the **CursorOnHover** property to specify the type of cursor displayed when a user rests the pointer on a button.
 
 
 

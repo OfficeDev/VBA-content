@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SeriesCollection Object (Word)
 
-Represents a collection of all the  **[Series](series-object-word.md)** objects in the specified chart or chart group.
+Represents a collection of all the **[Series](series-object-word.md)** objects in the specified chart or chart group.
 
 
 ## Remarks
 
-Use the  **[SeriesCollection](chart-seriescollection-method-word.md)** method to return the **SeriesCollection** collection.
+Use the **[SeriesCollection](chart-seriescollection-method-word.md)** method to return the **SeriesCollection** collection.
 
 
 ## Example
@@ -34,7 +34,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-Use the  **[Add](seriescollection-add-method-word.md)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
+Use the **[Add](seriescollection-add-method-word.md)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
 
 
 
@@ -47,7 +47,7 @@ With ActiveDocument.InlineShapes(1)
 End With
 ```
 
-Use  **SeriesCollection** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
+Use **SeriesCollection** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one on Sheet1.
 
 
 

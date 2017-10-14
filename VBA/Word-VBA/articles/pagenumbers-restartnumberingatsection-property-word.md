@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If set to  **False** , the **RestartNumberingAtSection** property will override the **[StartingNumber](pagenumbers-startingnumber-property-word.md)** property so that page numbering can continue from the previous section.
+If set to **False** , the **RestartNumberingAtSection** property will override the **[StartingNumber](pagenumbers-startingnumber-property-word.md)** property so that page numbering can continue from the previous section.
 
 
 ## Example

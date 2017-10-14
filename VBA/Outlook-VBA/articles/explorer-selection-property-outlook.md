@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.Selection Property (Outlook)
 
-Returns a  **[Selection](selection-object-outlook.md)** object that contains the item or items that are selected in the explorer window. Read-only.
+Returns a **[Selection](selection-object-outlook.md)** object that contains the item or items that are selected in the explorer window. Read-only.
 
 
 ## Syntax
@@ -25,18 +25,18 @@ Returns a  **[Selection](selection-object-outlook.md)** object that contains the
 
 ## Remarks
 
-The location of a selection in the explorer can be in the view list, the appointment list or task list in the To-Do Bar, or the daily tasks list in a calendar view. For more information, see the  **[Location](selection-location-property-outlook.md)** property.
+The location of a selection in the explorer can be in the view list, the appointment list or task list in the To-Do Bar, or the daily tasks list in a calendar view. For more information, see the **[Location](selection-location-property-outlook.md)** property.
 
-The  **Selection** property does not include any conversation header objects. Call the **[Selection.GetSelection](selection-getselection-method-outlook.md)** method, providing **olConversationHeaders** as the argument, to obtain conversation header objects that are selected in the explorer.
+The **Selection** property does not include any conversation header objects. Call the **[Selection.GetSelection](selection-getselection-method-outlook.md)** method, providing **olConversationHeaders** as the argument, to obtain conversation header objects that are selected in the explorer.
 
-If the current folder displays a folder home page, this property returns an empty collection. Also, if a group header such as  **Today**, or a conversation group header is selected, the  **[Count](selection-count-property-outlook.md)** property on the returned **Selection** object is zero.
+If the current folder displays a folder home page, this property returns an empty collection. Also, if a group header such as **Today**, or a conversation group header is selected, the **[Count](selection-count-property-outlook.md)** property on the returned **Selection** object is zero.
 
 
 ## Example
 
 
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the  **Count** property and the **[Item](selection-item-method-outlook.md)** method of the **[Selection](selection-object-outlook.md)** object that is returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property to display the senders of all messages that are selected in the active explorer.
+The following Microsoft Visual Basic for Applications (VBA) example displays the sender of each selected item in the active explorer. It uses the **Count** property and the **[Item](selection-item-method-outlook.md)** method of the **[Selection](selection-object-outlook.md)** object that is returned by the **[Explorer.Selection](explorer-selection-property-outlook.md)** property to display the senders of all messages that are selected in the active explorer.
 
 
 

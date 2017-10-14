@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.IsCompiled Property (Access)
 
-The  **IsCompiled** property returns a **Boolean** value indicating whether the Visual Basic project is in a compiled state. Read-only **Boolean**.
+The **IsCompiled** property returns a **Boolean** value indicating whether the Visual Basic project is in a compiled state. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ The  **IsCompiled** property returns a **Boolean** value indicating whether the 
 
 ## Remarks
 
-The  **IsCompiled** property of the **[Application](application-object-access.md)** object is **False** when the project has never been fully compiled, if a module has been added, edited, or deleted after compilation, or if a module hasn't been saved in a compiled state.
+The **IsCompiled** property of the **[Application](application-object-access.md)** object is **False** when the project has never been fully compiled, if a module has been added, edited, or deleted after compilation, or if a module hasn't been saved in a compiled state.
 
 
 ## See also

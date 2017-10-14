@@ -19,7 +19,7 @@ Changes the current directory or folder.
 
 The required  _path_[argument](vbe-glossary.md) is a[string expression](vbe-glossary.md) that identifies which directory or folder becomes the new default directory or folder. The _path_ may include the drive. If no drive is specified, **ChDir** changes the default directory or folder on the current drive.
  **Remarks**
-The  **ChDir** statement changes the default directory but not the default drive. For example, if the default drive is C, the following statement changes the default directory on drive D, but C remains the default drive:
+The **ChDir** statement changes the default directory but not the default drive. For example, if the default drive is C, the following statement changes the default directory on drive D, but C remains the default drive:
 
 
 
@@ -49,7 +49,7 @@ ChDir "::" ' Moves up one directory on the Macintosh.
 
 ## Example
 
-This example uses the  **ChDir** statement to change the current directory or folder. On the Macintosh, the default drive name is "HD" and portions of the pathname are separated by colons instead of backslashes. Similarly, you would specify Macintosh folders instead of \Windows. Finally, wildcard characters have no special meaning on the Macintosh and are treated simply as characters.
+This example uses the **ChDir** statement to change the current directory or folder. On the Macintosh, the default drive name is "HD" and portions of the pathname are separated by colons instead of backslashes. Similarly, you would specify Macintosh folders instead of \Windows. Finally, wildcard characters have no special meaning on the Macintosh and are treated simply as characters.
 
 
 ```vb

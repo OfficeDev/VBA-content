@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ActiveWindow Property (Publisher)
 
-Returns a  **[Window](window-object-publisher.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
+Returns a **[Window](window-object-publisher.md)** object that represents the window with the focus. Because Microsoft Publisher only has one window, there is only one **Window** object to return.
 
 
 ## Syntax
 
  _expression_. **ActiveWindow**
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ## Example

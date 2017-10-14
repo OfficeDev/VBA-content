@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.LastPrintedDate Property (Project)
 
-Gets the date a project was last printed. Read-only  **Variant**.
+Gets the date a project was last printed. Read-only **Variant**.
 
 
 ## Syntax

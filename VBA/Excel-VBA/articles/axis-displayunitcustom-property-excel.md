@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.DisplayUnitCustom Property (Excel)
 
-If the value of the  **[DisplayUnit](axis-displayunit-property-excel.md)** property is **xlCustom** , the **DisplayUnitCustom** property returns or sets the value of the displayed units. The value must be from 0 through 10E307. Read/write **Double** .
+If the value of the **[DisplayUnit](axis-displayunit-property-excel.md)** property is **xlCustom** , the **DisplayUnitCustom** property returns or sets the value of the displayed units. The value must be from 0 through 10E307. Read/write **Double** .
 
 
 ## Syntax

@@ -19,15 +19,15 @@ ms.date: 06/08/2017
     
     -or-
     
-    Select the expression and choose  **Edit Watch** from the **Debug** menu.
+    Select the expression and choose **Edit Watch** from the **Debug** menu.
     
     -or-
     
-    Right-click the expression and choose  **Edit Watch** from the context menu.
+    Right-click the expression and choose **Edit Watch** from the context menu.
     
 2. Make any changes to the expression, the context, and the watch type.
     
-3. Click  **OK**.
+3. Click **OK**.
     
 
 

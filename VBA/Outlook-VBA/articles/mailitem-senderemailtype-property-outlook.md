@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.SenderEmailType Property (Outlook)
 
-Returns a  **String** that represents the type of entry for the e-mail address of the sender of the Outlook item, such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, etc. Read-only.
+Returns a **String** that represents the type of entry for the e-mail address of the sender of the Outlook item, such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, etc. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the type of entry for the e-mail address o
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example demonstrates how to use the  **SenderEmailType** property. To run this example without errors, an e-mail item should be open in the active inspector window.
+The following Microsoft Visual Basic for Applications (VBA) example demonstrates how to use the **SenderEmailType** property. To run this example without errors, an e-mail item should be open in the active inspector window.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.Height Property (Word)
 
-Returns a  **Long** that represents the height of a page, in pixels.
+Returns a **Long** that represents the height of a page, in pixels.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** that represents the height of a page, in pixels.
 
 ## Remarks
 
-The  **[Top](page-top-property-word.md)** and **[Left](page-left-property-word.md)** properties of the **Page** object always return 0 (zero) indicating the upper left corner of the page. The **Height** and **[Width](page-width-property-word.md)** properties return the height and width in points (72 points = 1 inch) of the paper size specified in the **Page Setup** dialog box or through the **[PageSetup](pagesetup-object-word.md)** object. For example, for an 8-1/2 by 11 inch page in portrait mode, the **Height** property returns 792 and the **Width** property returns 612. All four of these properties are read-only.
+The **[Top](page-top-property-word.md)** and **[Left](page-left-property-word.md)** properties of the **Page** object always return 0 (zero) indicating the upper left corner of the page. The **Height** and **[Width](page-width-property-word.md)** properties return the height and width in points (72 points = 1 inch) of the paper size specified in the **Page Setup** dialog box or through the **[PageSetup](pagesetup-object-word.md)** object. For example, for an 8-1/2 by 11 inch page in portrait mode, the **Height** property returns 792 and the **Width** property returns 612. All four of these properties are read-only.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultOpenFormat Property (Word)
 
-Returns or sets the default file converter used to open documents. Can be a number returned by the  **OpenFormat** property, or one of the following **WdOpenFormat** constants.
+Returns or sets the default file converter used to open documents. Can be a number returned by the **OpenFormat** property, or one of the following **WdOpenFormat** constants.
 
 
 ## Syntax

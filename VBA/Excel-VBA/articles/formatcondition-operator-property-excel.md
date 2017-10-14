@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Operator Property (Excel)
 
-Returns a  **Long** value that represents the operator for the conditional format.
+Returns a **Long** value that represents the operator for the conditional format.
 
 
 ## Syntax

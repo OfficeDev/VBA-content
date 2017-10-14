@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Comment.TimeZoneBias Property (PowerPoint)
 
-Returns a  **String** that specifies the local time zone adjustment for the contact. Read-only.
+Returns a **String** that specifies the local time zone adjustment for the contact. Read-only.
 
 
 ## Syntax

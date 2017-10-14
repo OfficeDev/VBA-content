@@ -18,9 +18,9 @@ Saves a range of one or more shapes as a picture file.
 
 ## Syntax
 
- _expression_. **SaveAsPicture**( **_Filename_**,  **_pbResolution_**)
+ _expression_. **SaveAsPicture**( **_Filename_**, **_pbResolution_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -34,12 +34,12 @@ Saves a range of one or more shapes as a picture file.
 
 ## Remarks
 
-Possible values for the pbResolution parameter are declared in the  **[PbPictureResolution](pbpictureresolution-enumeration-publisher.md)** enumeration in the Microsoft Publisher type library.
+Possible values for the pbResolution parameter are declared in the **[PbPictureResolution](pbpictureresolution-enumeration-publisher.md)** enumeration in the Microsoft Publisher type library.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **SaveAsPicture** method to save all the shapes on the first page of the active publication as a .jpg picture file.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **SaveAsPicture** method to save all the shapes on the first page of the active publication as a .jpg picture file.
 
 Before running this code, replace  _filename.jpg_ with a valid file name and the path to a folder on your computer where you have permission to save files.
 

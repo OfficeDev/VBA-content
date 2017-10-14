@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ChangeWorkingTimeEx Method (Project)
 
-Displays the  **Change Working Time** dialog box, which prompts the user to change a calendar.
+Displays the **Change Working Time** dialog box, which prompts the user to change a calendar.
 
 
 ## Syntax
@@ -41,6 +41,6 @@ Displays the  **Change Working Time** dialog box, which prompts the user to chan
 
 ## Remarks
 
-The  **ChangeWorkingTime** method has the same effect as the **Change Working Time** command on the **Project** tab in the Project Ribbon.
+The **ChangeWorkingTime** method has the same effect as the **Change Working Time** command on the **Project** tab in the Project Ribbon.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Redo Method (Project)
 
-Executes a redo action on items in the  **Redo** list.
+Executes a redo action on items in the **Redo** list.
 
 
 ## Syntax
@@ -38,6 +38,6 @@ Executes a redo action on items in the  **Redo** list.
 
 ## Remarks
 
-You can add items to the  **Redo** list by using the **[Undo](application-undo-method-project.md)** method or clicking **Undo** in the Quick Access Toolbar.
+You can add items to the **Redo** list by using the **[Undo](application-undo-method-project.md)** method or clicking **Undo** in the Quick Access Toolbar.
 
 

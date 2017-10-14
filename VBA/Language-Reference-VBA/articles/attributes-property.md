@@ -19,12 +19,12 @@ ms.date: 06/08/2017
 Sets or returns the attributes of files or folders. Read/write or read-only, depending on the attribute.
  **Syntax**
  _object_. **Attributes** [= _newattributes_ ]
-The  **Attributes** property has these parts:
+The **Attributes** property has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **File** or **Folder** object.|
+| _object_|Required. Always the name of a **File** or **Folder** object.|
 | _newattributes_|Optional. If provided,  _newattributes_ is the new value for the attributes of the specified _object_.|
  **Settings**
 The  _newattributes_ argument can have any of the following values or any logical combination of the following values:
@@ -42,7 +42,7 @@ The  _newattributes_ argument can have any of the following values or any logica
 |**Alias**|64|Link or shortcut. Attribute is read-only.|
 |**Compressed**|128|Compressed file. Attribute is read-only.|
  **Remarks**
-The following code illustrates the use of the  **Attributes** property with a file:
+The following code illustrates the use of the **Attributes** property with a file:
 
 
 

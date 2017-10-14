@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XPath.Value Property (Excel)
 
-Returns a  **String** that represents the XPath for the specified object.
+Returns a **String** that represents the XPath for the specified object.
 
 
 ## Syntax

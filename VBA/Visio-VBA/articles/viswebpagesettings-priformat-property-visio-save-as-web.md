@@ -17,7 +17,7 @@ Specifies the primary output format for the Web page. Read/write.
 
  _expression_. **PriFormat**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
 
 
 ### Return Value
@@ -27,11 +27,11 @@ Specifies the primary output format for the Web page. Read/write.
 
 ## Remarks
 
-If you select a primary output format that is not supported by all browsers, you should also select a secondary output format for older browsers. To do this, see the  **[SecFormat](viswebpagesettings-secformat-property-visio-save-as-web.md)** property.
+If you select a primary output format that is not supported by all browsers, you should also select a secondary output format for older browsers. To do this, see the **[SecFormat](viswebpagesettings-secformat-property-visio-save-as-web.md)** property.
 
-For information about which browsers are compatible with selected formats, see the  **[AltFormat](viswebpagesettings-altformat-property-visio-save-as-web.md)** property.
+For information about which browsers are compatible with selected formats, see the **[AltFormat](viswebpagesettings-altformat-property-visio-save-as-web.md)** property.
 
-Possible values for the  **PriFormat** property are as follows:
+Possible values for the **PriFormat** property are as follows:
 
 
 - XAML (Extensible Application Markup Language), the default
@@ -46,12 +46,12 @@ Possible values for the  **PriFormat** property are as follows:
     
 - VML (Vector Markup Language)
     
-This value corresponds to the value selected in the  **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As** , in the **Save as type** list, select **Web Page (*.htm;*.html)** , click **Publish** , and then click **Advanced** ).
+This value corresponds to the value selected in the **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As** , in the **Save as type** list, select **Web Page (*.htm;*.html)** , click **Publish** , and then click **Advanced** ).
 
 
 ## Example
 
-The following macro shows how use the  **PriFormat** property to set the primary output format for the Web page to JPG.
+The following macro shows how use the **PriFormat** property to set the primary output format for the Web page to JPG.
 
 Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the filename that you want to assign to your Web page.
 

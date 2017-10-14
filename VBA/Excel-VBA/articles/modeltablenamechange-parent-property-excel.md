@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableNameChange.Parent Property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTableNameChange Object (Excel)](modeltablenamechange-object-excel.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified[ModelTableNameChange Object (Excel)](modeltablenamechange-object-excel.md) object. Read-only.
 
 
 ## Syntax

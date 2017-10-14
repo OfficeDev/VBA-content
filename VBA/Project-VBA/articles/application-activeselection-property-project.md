@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveSelection Property (Project)
 
-Gets a  **[Selection](selection-object-project.md)** object that represents the active selection. Read-only **Selection**.
+Gets a **[Selection](selection-object-project.md)** object that represents the active selection. Read-only **Selection**.
 
 
 ## Syntax

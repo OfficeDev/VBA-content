@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Allows you add controls to your project's  **Toolbox**.
+Allows you add controls to your project's **Toolbox**.
 
 ## Dialog Box Options
 

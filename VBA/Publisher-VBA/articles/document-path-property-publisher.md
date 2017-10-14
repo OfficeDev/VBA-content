@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # Document.Path Property (Publisher)
 
-Returns a  **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
+Returns a **String** indicating the full path to the file of the saved active publication, not including the last separator or file name.
 
 
 ## Syntax
 
  _expression_. **Path**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Remarks
 
-The  **[FullName](document-fullname-property-publisher.md)** property can be used to return both the path and file name.
+The **[FullName](document-fullname-property-publisher.md)** property can be used to return both the path and file name.
 
 
 ## Example
 
-The following example demonstrates the differences between the  **Path**,  **Name**, and  **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
+The following example demonstrates the differences between the **Path**, **Name**, and **FullName** properties. This example is best illustrated if the publication is saved in a folder other than the default.
 
 
 ```vb

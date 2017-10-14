@@ -29,11 +29,11 @@ Occurs whenever the specified PivotTable view field, field set, or total is adde
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Reason_|Required|**Long**|A  **PivotTableReasonEnum** constant that indicates how the PivotTable list changed.|
+| _Reason_|Required|**Long**|A **PivotTableReasonEnum** constant that indicates how the PivotTable list changed.|
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **PivotTableChange** event.
+The following example demonstrates the syntax for a subroutine that traps the **PivotTableChange** event.
 
 
 ```vb

@@ -17,7 +17,7 @@ Determines whether the Web page opens in the browser after the drawing is export
 
  _expression_. **OpenBrowser**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
 
 
 ### Return Value
@@ -27,10 +27,10 @@ Determines whether the Web page opens in the browser after the drawing is export
 
 ## Remarks
 
- **OpenBrowser** returns non-zero ( **True**) if the Web page opens in the browser after the drawing is exported to a Web page; otherwise, it returns zero ( **False**). The default is  **True**.
+ **OpenBrowser** returns non-zero ( **True**) if the Web page opens in the browser after the drawing is exported to a Web page; otherwise, it returns zero ( **False**). The default is **True**.
 
-Set  **OpenBrowser** to a non-zero value ( **True**) to open a Web page in the browser after the drawing is exported to a Web page; otherwise, set it to zero ( **False**).
+Set **OpenBrowser** to a non-zero value ( **True**) to open a Web page in the browser after the drawing is exported to a Web page; otherwise, set it to zero ( **False**).
 
-The  **OpenBrowser** property corresponds to the **Automatically open Web page in browser** check box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+The **OpenBrowser** property corresponds to the **Automatically open Web page in browser** check box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the **Save as type** list, select **Web Page (*.htm;*.html)**, and then click **Publish**).
 
 

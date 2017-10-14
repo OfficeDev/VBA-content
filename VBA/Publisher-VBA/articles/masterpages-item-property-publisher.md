@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MasterPages.Item Property (Publisher)
 
-Returns the specified  **[Page](page-object-publisher.md)** object from a **Pages** or **MasterPages** collection. Read-only.
+Returns the specified **[Page](page-object-publisher.md)** object from a **Pages** or **MasterPages** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Item_**)
 
- _expression_A variable that represents a  **MasterPages** object.
+ _expression_A variable that represents a **MasterPages** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Returns the specified  **[Page](page-object-publisher.md)** object from a **Page
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Item|Required| **Long**|The number of the page to return. For  **MasterPages** collections, Item can either be 1 or 2 for the left and right master pages, respectively. For **Pages** collections, Item corresponds to a **Page** object's **[PageIndex](page-pageindex-property-publisher.md)** property.|
+|Item|Required| **Long**|The number of the page to return. For **MasterPages** collections, Item can either be 1 or 2 for the left and right master pages, respectively. For **Pages** collections, Item corresponds to a **Page** object's **[PageIndex](page-pageindex-property-publisher.md)** property.|
 
 ## Example
 

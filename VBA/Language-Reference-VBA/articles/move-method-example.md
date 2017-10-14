@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Move Method Example
 
-The following example demonstrates moving all the controls on a form by using the  **Move** method with the **Controls** collection. The user clicks on the **CommandButton** to move the controls.
+The following example demonstrates moving all the controls on a form by using the **Move** method with the **Controls** collection. The user clicks on the **CommandButton** to move the controls.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **CommandButton** named CommandButton1 and several other controls.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **CommandButton** named CommandButton1 and several other controls.
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Hyperlink Property (Project)
 
-Gets or sets a friendly name representing a hyperlink address. The name may also be a URL or UNC path. Read/write  **String**.
+Gets or sets a friendly name representing a hyperlink address. The name may also be a URL or UNC path. Read/write **String**.
 
 
 ## Syntax

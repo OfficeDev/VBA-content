@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Sheets.Add2 Method (Excel)
 
-This method is only implemented for the  **Charts** collection object and will produce a run time error if used on the **Sheets** and **Worksheets** objects.
+This method is only implemented for the **Charts** collection object and will produce a run time error if used on the **Sheets** and **Worksheets** objects.
 
 
 ## Syntax

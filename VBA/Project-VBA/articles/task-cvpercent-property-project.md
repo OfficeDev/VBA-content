@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.CVPercent Property (Project)
 
-Gets the cost variance percent of the task. Read-only  **Variant**.
+Gets the cost variance percent of the task. Read-only **Variant**.
 
 
 ## Syntax

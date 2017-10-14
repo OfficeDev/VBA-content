@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SelectedValidationIssue Property (Visio)
 
-Gets or sets the validation issue that is selected in the  **Issues** window. Read/write.
+Gets or sets the validation issue that is selected in the **Issues** window. Read/write.
 
 
 ## Syntax
@@ -30,16 +30,16 @@ Gets or sets the validation issue that is selected in the  **Issues** window. Re
 
 ## Remarks
 
-Attempting to get or set the  **SelectedValidationIssue** property on a window other than the **Issues** window, or when the **Issues** window is closed, returns an error.
+Attempting to get or set the **SelectedValidationIssue** property on a window other than the **Issues** window, or when the **Issues** window is closed, returns an error.
 
-If multiple issues are selected in the  **Issues** window, Visio returns the issue that has the focus.
+If multiple issues are selected in the **Issues** window, Visio returns the issue that has the focus.
 
-If no issue is selected, Visio returns  **Nothing** . By default, issues that you have specified to be ignored are not displayed. If you set the property to **Nothing** , Visio clears the selection in the **Issues** window.
+If no issue is selected, Visio returns **Nothing** . By default, issues that you have specified to be ignored are not displayed. If you set the property to **Nothing** , Visio clears the selection in the **Issues** window.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **SelectedValidationIssue** property to get the validation issue that is currently selected in the **Issues** window. If no issue is selected, the code displays a message box prompting the user to select an issue.
+The following Visual Basic for Applications (VBA) example shows how to use the **SelectedValidationIssue** property to get the validation issue that is currently selected in the **Issues** window. If no issue is selected, the code displays a message box prompting the user to select an issue.
 
 
 ```vb

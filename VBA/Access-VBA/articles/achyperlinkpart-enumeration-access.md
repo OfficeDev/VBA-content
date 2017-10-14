@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcHyperlinkPart Enumeration (Access)
 
-Specifies the the information you want returned by the  **HyperlinkPart** method.
+Specifies the the information you want returned by the **HyperlinkPart** method.
 
 
 

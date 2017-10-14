@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomProperties.Item Method (Word)
 
-Returns a  **CustomProperty** object in a collection.
+Returns a **CustomProperty** object in a collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **CustomProperty** object in a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The individual object to be returned. Can be a  **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
+| _Index_|Required| **Variant**|The individual object to be returned. Can be a **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
 
 ### Return Value
 

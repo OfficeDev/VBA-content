@@ -18,9 +18,9 @@ Represents a namespace that has been added to a workbook.
 
 ## Remarks
 
-Use the  **[Prefix](xmlnamespace-prefix-property-excel.md)** property to return the prefix of an **XmlNamespace** object.
+Use the **[Prefix](xmlnamespace-prefix-property-excel.md)** property to return the prefix of an **XmlNamespace** object.
 
-Use the  **[Uri](xmlnamespace-uri-property-excel.md)** property to return the Uniform Resource Identifier (URI) of an **XmlNamespace** object.
+Use the **[Uri](xmlnamespace-uri-property-excel.md)** property to return the Uniform Resource Identifier (URI) of an **XmlNamespace** object.
 
 
 ## See also

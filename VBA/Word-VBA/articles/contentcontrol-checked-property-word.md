@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.Checked Property (Word)
 
-Returns or sets a  **Boolean** that represents the current state (checked/unchecked) for a check box. Read/Write.
+Returns or sets a **Boolean** that represents the current state (checked/unchecked) for a check box. Read/Write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **Boolean** that represents the current state (checked/unchec
 
 ## Remarks
 
-Use the  **Checked** property to get/set the current state for a check box content control. If the control is not a check box, attempts to access the property will fail with the run-time error "This property is only available for check box content controls."
+Use the **Checked** property to get/set the current state for a check box content control. If the control is not a check box, attempts to access the property will fail with the run-time error "This property is only available for check box content controls."
 
 
 ## Example
 
-The following code example sets the specified check box content control  **Checked** property.
+The following code example sets the specified check box content control **Checked** property.
 
 
 ```vb

@@ -33,7 +33,7 @@ Returns or sets the mode for checking the spelling of European Portuguese. Read/
 
 
 
- **Note**  This property does not set the mode for checking the spelling of Brazilian Portuguese. To do that, use the  **[BrazilReform](spellingoptions-brazilreform-property-excel.md)** property.
+ **Note**  This property does not set the mode for checking the spelling of Brazilian Portuguese. To do that, use the **[BrazilReform](spellingoptions-brazilreform-property-excel.md)** property.
 
 
 ## See also

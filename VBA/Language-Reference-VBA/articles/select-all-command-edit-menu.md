@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Select All Command (Edit Menu)
 
-Selects all of the code in the active  **Code** window or all the controls on a form.
+Selects all of the code in the active **Code** window or all the controls on a form.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.FontItalic Property (Word)
 
-Italicizes WordArt text. Read/write  **MsoTriState** .
+Italicizes WordArt text. Read/write **MsoTriState** .
 
 
 ## Syntax

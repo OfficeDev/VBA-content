@@ -23,22 +23,22 @@ Represents a field in a PivotTable report.
 In some cases, it may be easier to use one of the properties that returns a subset of the PivotTable fields. The following properties are available:
 
 
--  **[ColumnFields](pivottable-columnfields-property-excel.md)** property
+- **[ColumnFields](pivottable-columnfields-property-excel.md)** property
     
--  **[DataFields](pivottable-datafields-property-excel.md)** property
+- **[DataFields](pivottable-datafields-property-excel.md)** property
     
--  **[HiddenFields](pivottable-hiddenfields-property-excel.md)** property
+- **[HiddenFields](pivottable-hiddenfields-property-excel.md)** property
     
--  **[PageFields](pivottable-pagefields-property-excel.md)** property
+- **[PageFields](pivottable-pagefields-property-excel.md)** property
     
--  **[RowFields](pivottable-rowfields-property-excel.md)** property
+- **[RowFields](pivottable-rowfields-property-excel.md)** property
     
--  **[VisibleFields](pivottable-visiblefields-property-excel.md)** property
+- **[VisibleFields](pivottable-visiblefields-property-excel.md)** property
     
 
 ## Example
 
-Use  **[PivotFields](pivottable-pivotfields-method-excel.md)** ( _index_ ), where _index_ is the field name or index number, to return a single **PivotField** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
+Use **[PivotFields](pivottable-pivotfields-method-excel.md)** ( _index_ ), where _index_ is the field name or index number, to return a single **PivotField** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 
 
 ```

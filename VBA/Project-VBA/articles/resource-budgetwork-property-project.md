@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.BudgetWork Property (Project)
 
-Gets or sets the budget work (in hours) for a  **Resource**. Read/write **Variant**.
+Gets or sets the budget work (in hours) for a **Resource**. Read/write **Variant**.
 
 
 ## Syntax

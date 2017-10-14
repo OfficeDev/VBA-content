@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.FieldIDList Property (Project)
 
-Gets a  **[List](list-object-project.md)** object representing all field identification numbers for the selected fields. Read-only **List**.
+Gets a **[List](list-object-project.md)** object representing all field identification numbers for the selected fields. Read-only **List**.
 
 
 ## Syntax

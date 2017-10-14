@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ThreeD Property (Excel)
 
-Returns a  **[ThreeDFormat](threedformat-object-excel.md)** object that contains 3-D - effect formatting properties for the specified shape. Read-only.
+Returns a **[ThreeDFormat](threedformat-object-excel.md)** object that contains 3-D - effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.LevelingDelay Property (Project)
 
-Gets or sets the amount of time the task is delayed due to leveling. Read/write  **Variant**.
+Gets or sets the amount of time the task is delayed due to leveling. Read/write **Variant**.
 
 
 ## Syntax

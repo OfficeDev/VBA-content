@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Parameter.Value Property (Excel)
 
-Returns a  **Variant** value that represents the parameter value.
+Returns a **Variant** value that represents the parameter value.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Variant** value that represents the parameter value.
 
 ## Remarks
 
-For more information, see the  **[Parameter](parameter-object-excel.md)** object.
+For more information, see the **[Parameter](parameter-object-excel.md)** object.
 
 
 ## See also

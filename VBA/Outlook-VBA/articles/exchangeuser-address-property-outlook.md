@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Address Property (Outlook)
 
-Returns or sets a  **String** representing the X400 e-mail address of the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns or sets a **String** representing the X400 e-mail address of the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **String** representing the X400 e-mail address of the **[Exc
 
 ## Remarks
 
-This property assumes the X400 address of the user. To determine the primary Internet address, use the  **[ExchangeUser.PrimarySmtpAddress](exchangeuser-primarysmtpaddress-property-outlook.md)** property.
+This property assumes the X400 address of the user. To determine the primary Internet address, use the **[ExchangeUser.PrimarySmtpAddress](exchangeuser-primarysmtpaddress-property-outlook.md)** property.
 
-The  **Address** property must be set before calling the **[ExchangeUser.Details](exchangeuser-details-method-outlook.md)** method.
+The **Address** property must be set before calling the **[ExchangeUser.Details](exchangeuser-details-method-outlook.md)** method.
 
 
 ## See also

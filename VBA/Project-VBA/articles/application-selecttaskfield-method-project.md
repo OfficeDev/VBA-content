@@ -44,7 +44,7 @@ Selects a task field.
 
 ## Example
 
-The following example selects the  **Name** column and the next two columns of the third and fourth rows on the Gantt Chart.
+The following example selects the **Name** column and the next two columns of the third and fourth rows on the Gantt Chart.
 
 
 ```vb

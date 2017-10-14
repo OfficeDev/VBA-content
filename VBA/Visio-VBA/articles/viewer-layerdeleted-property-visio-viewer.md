@@ -17,7 +17,7 @@ Gets a value that indicates whether the layer at the specified index in the draw
 
  _expression_. **LayerDeleted**( **_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Gets a value that indicates whether the layer at the specified index in the draw
 
 ## Remarks
 
-The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, the  **LayerDeleted** property returns **False**.
+The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, the **LayerDeleted** property returns **False**.
 
 
 ## Example

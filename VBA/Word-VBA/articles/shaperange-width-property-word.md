@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Width Property (Word)
 
-Returns or sets the width, in points, of the shapes within the range. Read/write  **Long** .
+Returns or sets the width, in points, of the shapes within the range. Read/write **Long** .
 
 
 ## Syntax

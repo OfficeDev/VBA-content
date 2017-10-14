@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WebServices Property (Access)
 
-Gets the collection of installed Data Service data connections. Read-only  **[WebServices](webservices-object-access.md)**.
+Gets the collection of installed Data Service data connections. Read-only **[WebServices](webservices-object-access.md)**.
 
 
 ## Syntax

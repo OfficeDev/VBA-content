@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageNumber.Alignment Property (Word)
 
-Returns or sets a  **WdPageNumberAlignment** constant that represents the alignment for the page number. Read/write.
+Returns or sets a **WdPageNumberAlignment** constant that represents the alignment for the page number. Read/write.
 
 
 ## Syntax

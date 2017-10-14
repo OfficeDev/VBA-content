@@ -25,7 +25,7 @@ Expands the drop-down portion of the combo box.
 
 ## Remarks
 
-Simulates the user clicking the drop button on the control. This method causes the  **[DropButtonClick](olkcombobox-dropbuttonclick-event-outlook.md)** event to fire.
+Simulates the user clicking the drop button on the control. This method causes the **[DropButtonClick](olkcombobox-dropbuttonclick-event-outlook.md)** event to fire.
 
 
 ## See also

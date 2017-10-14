@@ -31,8 +31,8 @@ Applies a set of list-formatting characteristics, optionally for a specified lev
 |:-----|:-----|:-----|:-----|
 | _ListTemplate_|Required| **[ListTemplate](listtemplate-object-word.md)**|The list template to be applied.|
 | _ContinuePreviousList_|Optional| **Variant**| **True** to continue the numbering from the previous list; **False** to start a new list.|
-| _ApplyTo_|Optional| **Variant**|One of the  **[WdListApplyTo](wdlistapplyto-enumeration-word.md)** constants that specifies the portion of the list that the list template will be applied to.|
-| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following  **[WdDefaultListBehavior](wddefaultlistbehavior-enumeration-word.md)** constants: **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior** , but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting for indenting and multiple-level lists.|
+| _ApplyTo_|Optional| **Variant**|One of the **[WdListApplyTo](wdlistapplyto-enumeration-word.md)** constants that specifies the portion of the list that the list template will be applied to.|
+| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following **[WdDefaultListBehavior](wddefaultlistbehavior-enumeration-word.md)** constants: **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior** , but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting for indenting and multiple-level lists.|
 | _ApplyLevel_|Optional| **Variant**|The level to which the list template is to be applied.|
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Hyperlinks Property (Word)
 
-Returns a  **Hyperlinks** collection that represents all the hyperlinks in the specified range. Read-only.
+Returns a **Hyperlinks** collection that represents all the hyperlinks in the specified range. Read-only.
 
 
 ## Syntax

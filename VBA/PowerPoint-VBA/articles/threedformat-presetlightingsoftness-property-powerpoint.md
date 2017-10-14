@@ -30,7 +30,7 @@ MsoPresetLightingSoftness
 
 ## Remarks
 
-The value of the  **PresetLightingSoftness** property can be one of these **MsoPresetLightingSoftness** constants.
+The value of the **PresetLightingSoftness** property can be one of these **MsoPresetLightingSoftness** constants.
 
 
 ||

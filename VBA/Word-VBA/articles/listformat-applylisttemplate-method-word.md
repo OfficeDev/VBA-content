@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ApplyListTemplate Method (Word)
 
-Applies a set of list-formatting characteristics to the specified  **ListFormat** object.
+Applies a set of list-formatting characteristics to the specified **ListFormat** object.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ Applies a set of list-formatting characteristics to the specified  **ListFormat*
 |:-----|:-----|:-----|:-----|
 | _ListTemplate_|Required| **[ListTemplate](listtemplate-object-word.md)**|The list template to be applied.|
 | _ContinuePreviousList_|Optional| **Variant**| **True** to continue the numbering from the previous list; **False** to start a new list.|
-| _ApplyTo_|Optional| **Variant**|The portion of the list that the list template is to be applied to. Can be one of the following  **[WdListApplyTo](wdlistapplyto-enumeration-word.md)** constants: **wdListSelection** , **wdListWholeList** , or **wdListThisPointForward** .|
-| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following  **[WdDefaultListBehavior](wddefaultlistbehavior-enumeration-word.md)** constants: **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior** , but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
+| _ApplyTo_|Optional| **Variant**|The portion of the list that the list template is to be applied to. Can be one of the following **[WdListApplyTo](wdlistapplyto-enumeration-word.md)** constants: **wdListSelection** , **wdListWholeList** , or **wdListThisPointForward** .|
+| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following **[WdDefaultListBehavior](wddefaultlistbehavior-enumeration-word.md)** constants: **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior** , but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
 
 ## Example
 

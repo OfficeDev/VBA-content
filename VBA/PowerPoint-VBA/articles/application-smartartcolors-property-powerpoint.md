@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SmartArtColors Property (PowerPoint)
 
-Returns the SmartArt colors of the current  **Application** object. Read-only.
+Returns the SmartArt colors of the current **Application** object. Read-only.
 
 
 ## Syntax

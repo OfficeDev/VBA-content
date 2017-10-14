@@ -25,12 +25,12 @@ Dismisses the current reminder.
 
 ## Remarks
 
-The  **Dismiss** method will fail if there is no visible reminder.
+The **Dismiss** method will fail if there is no visible reminder.
 
 
 ## Example
 
-The following example dismisses all active reminders. A reminder is active if its  **[IsVisible](reminder-isvisible-property-outlook.md)** property is set to **True** .
+The following example dismisses all active reminders. A reminder is active if its **[IsVisible](reminder-isvisible-property-outlook.md)** property is set to **True** .
 
 
 ```vb

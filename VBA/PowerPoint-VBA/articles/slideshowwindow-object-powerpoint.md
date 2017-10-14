@@ -18,7 +18,7 @@ Represents a window in which a slide show runs.
 
 ## Example
 
-Use  **SlideShowWindows** (index), where index is the slide show window index number, to return a single **SlideShowWindow** object. The following example activates slide show window two.
+Use **SlideShowWindows** (index), where index is the slide show window index number, to return a single **SlideShowWindow** object. The following example activates slide show window two.
 
 
 ```

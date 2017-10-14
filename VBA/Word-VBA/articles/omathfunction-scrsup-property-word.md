@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.ScrSup Property (Word)
 
-Returns an  **[OMathScrSup](omathscrsup-object-word.md)** object that represents the mathematical superscript function. Read-only.
+Returns an **[OMathScrSup](omathscrsup-object-word.md)** object that represents the mathematical superscript function. Read-only.
 
 
 ## Syntax

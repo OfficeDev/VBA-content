@@ -14,9 +14,9 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](pickerproperty-application-property-office.md)|Gets an  **Application** object that represents the container application for the **PickerProperty** object. Read-only|
-|[Creator](pickerproperty-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **PickerProperty** object was created. Read-only|
-|[Id](pickerproperty-id-property-office.md)|Retrieves the unique Id of the associated  **PickerProperty** object. Read-only|
+|[Application](pickerproperty-application-property-office.md)|Gets an **Application** object that represents the container application for the **PickerProperty** object. Read-only|
+|[Creator](pickerproperty-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **PickerProperty** object was created. Read-only|
+|[Id](pickerproperty-id-property-office.md)|Retrieves the unique Id of the associated **PickerProperty** object. Read-only|
 |[Type](pickerproperty-type-property-office.md)|Retrieves the type of the Picker property. Read-only|
 |[Value](pickerproperty-value-property-office.md)|Retrieves the value of a Picker property. Read-only|
 

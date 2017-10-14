@@ -11,17 +11,17 @@ ms.date: 06/08/2017
 
 # How to: Access a Tab in a TabStrip Control
 
-The following example accesses an individual tab of a  **[TabStrip](tabstrip-object-outlook-forms-script.md)** in several ways:
+The following example accesses an individual tab of a **[TabStrip](tabstrip-object-outlook-forms-script.md)** in several ways:
 
 
-- Using the  **[Tabs](tabs-object-outlook-forms-script.md)** collection with a numeric index.
+- Using the **[Tabs](tabs-object-outlook-forms-script.md)** collection with a numeric index.
     
-- Using the name of the individual  **[Tab](tab-object-outlook-forms-script.md)**.
+- Using the name of the individual **[Tab](tab-object-outlook-forms-script.md)**.
     
-- Using the  **[SelectedItem](tabstrip-selecteditem-property-outlook-forms-script.md)** property.
+- Using the **[SelectedItem](tabstrip-selecteditem-property-outlook-forms-script.md)** property.
     
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event of the item will activate. Make sure that the form contains a **TabStrip** named TabStrip1.
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event of the item will activate. Make sure that the form contains a **TabStrip** named TabStrip1.
 
 
 

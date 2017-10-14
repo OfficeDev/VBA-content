@@ -34,7 +34,7 @@ Sets font-mapping options.
 
 ## Remarks
 
-You can find font-mapping options in the  **Font Substitution** dialog box.
+You can find font-mapping options in the **Font Substitution** dialog box.
 
 
 ## Example

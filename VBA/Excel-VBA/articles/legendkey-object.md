@@ -18,7 +18,7 @@ Represents a legend key in the specified chart legend. Each legend key is a grap
 
 ## Using the LegendKey Object
 
-Use the  **LegendKey** property to return the **LegendKey** object. The following example changes the marker background color to blue for the legend entry at the top of the legend in the chart. This simultaneously changes the formatting of every point in the series associated with this legend entry (if, that is, the associated series supports data markers).
+Use the **LegendKey** property to return the **LegendKey** object. The following example changes the marker background color to blue for the legend entry at the top of the legend in the chart. This simultaneously changes the formatting of every point in the series associated with this legend entry (if, that is, the associated series supports data markers).
 
 
 ```

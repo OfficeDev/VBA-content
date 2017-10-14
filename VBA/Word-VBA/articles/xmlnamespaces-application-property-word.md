@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # XMLNamespaces.Application Property (Word)
 
-Returns an  **[Application](application-object-word.md)** object that represents the Microsoft Word application.
+Returns an **[Application](application-object-word.md)** object that represents the Microsoft Word application.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns an  **[Application](application-object-word.md)** object that represents
 
 ## Remarks
 
-Visual Basic's  **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications project.
+Visual Basic's **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications project.
 
 
 ## See also

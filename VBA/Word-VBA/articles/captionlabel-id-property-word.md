@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabel.ID Property (Word)
 
-Returns a  **WdCaptionLabelID** constant that represents the type for the specified caption label if the **BuiltIn** property of the **CaptionLabel** object is **True** . Read-only.
+Returns a **WdCaptionLabelID** constant that represents the type for the specified caption label if the **BuiltIn** property of the **CaptionLabel** object is **True** . Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Delete Method (Project)
 
-Deletes the  **Assignment** object from an **Assignments** collection.
+Deletes the **Assignment** object from an **Assignments** collection.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Clears the list of actions that can be undone for the specified document.
 
 ## Remarks
 
-This method corresponds to the list of items that appears when you click the arrow beside the  **Undo** button on the **Standard** toolbar. Include this method at the end of a macro to keep Visual Basic actions from appearing in the **Undo** box (for example, "VBA-Selection.InsertAfter").
+This method corresponds to the list of items that appears when you click the arrow beside the **Undo** button on the **Standard** toolbar. Include this method at the end of a macro to keep Visual Basic actions from appearing in the **Undo** box (for example, "VBA-Selection.InsertAfter").
 
 
 ## Example

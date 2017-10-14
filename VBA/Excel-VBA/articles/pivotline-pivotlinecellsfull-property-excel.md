@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PivotLine.PivotLineCellsFull Property (Excel)
 
-Retrieves all of the  **PivotLine** cells including those that are hidden in compact form. Read-only
+Retrieves all of the **PivotLine** cells including those that are hidden in compact form. Read-only
 
 
 ## Syntax

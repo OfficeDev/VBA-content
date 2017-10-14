@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.RemoveAll Method (Outlook)
 
-Removes all the columns from the  **[Columns](columns-object-outlook.md)** collection and resets the **[Table](table-object-outlook.md)** .
+Removes all the columns from the **[Columns](columns-object-outlook.md)** collection and resets the **[Table](table-object-outlook.md)** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Removes all the columns from the  **[Columns](columns-object-outlook.md)** colle
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table** , add specific columns, and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table** , add specific columns, and print the values of the corresponding properties of these items.
 
 
 ```vb

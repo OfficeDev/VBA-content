@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.Type Property (Office)
 
-Gets the data type of a  **MetaProperty** object. Read-only.
+Gets the data type of a **MetaProperty** object. Read-only.
 
 
 ## Syntax

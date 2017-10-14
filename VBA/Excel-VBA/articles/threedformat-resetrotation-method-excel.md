@@ -25,7 +25,7 @@ Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so th
 
 ## Remarks
 
-To set the extrusion rotation around the x-axis and the y-axis to anything other than 0 (zero), use the  **[RotationX](threedformat-rotationx-property-excel.md)** and **[RotationY](threedformat-rotationy-property-excel.md)** properties of the **[ThreeDFormat](threedformat-object-excel.md)** object. To set the extrusion rotation around the z-axis, use the **[Rotation](shape-rotation-property-excel.md)** property of the **[Shape](shape-object-excel.md)** object that represents the extruded shape.
+To set the extrusion rotation around the x-axis and the y-axis to anything other than 0 (zero), use the **[RotationX](threedformat-rotationx-property-excel.md)** and **[RotationY](threedformat-rotationy-property-excel.md)** properties of the **[ThreeDFormat](threedformat-object-excel.md)** object. To set the extrusion rotation around the z-axis, use the **[Rotation](shape-rotation-property-excel.md)** property of the **[Shape](shape-object-excel.md)** object that represents the extruded shape.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.ScriptText Property (Outlook)
 
-Returns a  **String** containing all the VBScript code in the form's Script Editor. Read-only.
+Returns a **String** containing all the VBScript code in the form's Script Editor. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** containing all the VBScript code in the form's Script Edit
 
 ## Example
 
-This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **[Open](mailitem-open-event-outlook.md)** event to access the **[HTMLBody](mailitem-htmlbody-property-outlook.md)** property of a **[MailItem](mailitem-object-outlook.md)** . This sets the **[EditorType](inspector-editortype-property-outlook.md)** property of the **MailItem** 's **[Inspector](inspector-object-outlook.md)** to **olEditorHTML** . When the **MailItem** 's **[Body](mailitem-body-property-outlook.md)** property is set, the **EditorType** property is changed to the default. For example, if the default e-mail editor is set to RTF, the **EditorType** is set to **olEditorRTF** . If this code is placed in the Script Editor of a form in design mode, the message boxes during run time will reflect the change in the **EditorType** as the body of the form changes. The final message box uses the **Script Text** property to display all the VBScript code in the Script Editor.
+This Microsoft Visual Basic Scripting Edition (VBScript) example uses the **[Open](mailitem-open-event-outlook.md)** event to access the **[HTMLBody](mailitem-htmlbody-property-outlook.md)** property of a **[MailItem](mailitem-object-outlook.md)** . This sets the **[EditorType](inspector-editortype-property-outlook.md)** property of the **MailItem** 's **[Inspector](inspector-object-outlook.md)** to **olEditorHTML** . When the **MailItem** 's **[Body](mailitem-body-property-outlook.md)** property is set, the **EditorType** property is changed to the default. For example, if the default e-mail editor is set to RTF, the **EditorType** is set to **olEditorRTF** . If this code is placed in the Script Editor of a form in design mode, the message boxes during run time will reflect the change in the **EditorType** as the body of the form changes. The final message box uses the **Script Text** property to display all the VBScript code in the Script Editor.
 
 
 ```vb

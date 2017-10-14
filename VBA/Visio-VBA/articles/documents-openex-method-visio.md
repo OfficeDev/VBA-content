@@ -39,7 +39,7 @@ Document
 
 ## Remarks
 
-The  **OpenEx** method is identical to the **Open** method, except that it provides an extra argument in which the caller can specify how the document opens.
+The **OpenEx** method is identical to the **Open** method, except that it provides an extra argument in which the caller can specify how the document opens.
 
 The Flags argument should be a combination of zero or more of the following values.
 
@@ -56,27 +56,27 @@ The Flags argument should be a combination of zero or more of the following valu
 | **visOpenHidden**| &;H40|
 | **visOpenMacrosDisabled**| &;H80|
 | **visOpenNoWorkspace**|&;H100|
-If  **visOpenDocked** is specified, the file appears in a docked rather than an MDI window, provided that the file is a stencil file and there is an active drawing window in which to put the docked stencil window.
+If **visOpenDocked** is specified, the file appears in a docked rather than an MDI window, provided that the file is a stencil file and there is an active drawing window in which to put the docked stencil window.
 
-If  **visOpenDontList** is specified, the name of the opened file does not appear in the list of recently opened documents in the **Recent Documents** list on the **Recent** tab (click the **File** tab, and then click **Recent**).
+If **visOpenDontList** is specified, the name of the opened file does not appear in the list of recently opened documents in the **Recent Documents** list on the **Recent** tab (click the **File** tab, and then click **Recent**).
 
-If  **visOpenMinimized** is specified, the file opens minimized?it is not active. This flag is not supported in versions of Visio earlier than 5.0b.
+If **visOpenMinimized** is specified, the file opens minimized?it is not active. This flag is not supported in versions of Visio earlier than 5.0b.
 
-If  **visOpenMacrosDisabled** is specified, the file opens with Visual Basic macros disabled. This flag is not supported in versions earlier than Visio 2002.
+If **visOpenMacrosDisabled** is specified, the file opens with Visual Basic macros disabled. This flag is not supported in versions earlier than Visio 2002.
 
-If  **visOpenHidden** is specified, the file opens in a hidden window.
+If **visOpenHidden** is specified, the file opens in a hidden window.
 
-If  **visOpenNoWorkspace** is specified, the file opens with no workspace information.
+If **visOpenNoWorkspace** is specified, the file opens with no workspace information.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVDocuments.OpenEx(string, short)**
+- **Microsoft.Office.Interop.Visio.IVDocuments.OpenEx(string, short)**
     
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **OpenEx** method to open a copy of a stencil file in Visio.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **OpenEx** method to open a copy of a stencil file in Visio.
 
 
 ```vb

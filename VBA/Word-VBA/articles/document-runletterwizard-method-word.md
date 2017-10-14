@@ -29,17 +29,17 @@ Runs the Letter Wizard on the specified document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _LetterContent_|Optional| **Variant**|A  **[LetterContent](lettercontent-object-word.md)** object. Any filled properties in the **LetterContent** object show up as prefilled elements in the Letter Wizard dialog boxes. If this argument is omitted, the **GetLetterContent** method is automatically used to get a **LetterContent** object from the specified document.|
-| _WizardMode_|Optional| **Variant**| **True** to display the **Letter Wizard** dialog box as a series of steps with a **Next**,  **Back**, and  **Finish** button. **False** to display the **Letter Wizard** dialog box as if it were opened from the **Tools** menu (a properties dialog box with an **OK** button and a **Cancel** button). The default value is **True** .|
+| _LetterContent_|Optional| **Variant**|A **[LetterContent](lettercontent-object-word.md)** object. Any filled properties in the **LetterContent** object show up as prefilled elements in the Letter Wizard dialog boxes. If this argument is omitted, the **GetLetterContent** method is automatically used to get a **LetterContent** object from the specified document.|
+| _WizardMode_|Optional| **Variant**| **True** to display the **Letter Wizard** dialog box as a series of steps with a **Next**, **Back**, and **Finish** button. **False** to display the **Letter Wizard** dialog box as if it were opened from the **Tools** menu (a properties dialog box with an **OK** button and a **Cancel** button). The default value is **True** .|
 
 ## Remarks
 
-Use the  **CreateLetterContent** method to return a **LetterContent** object, given various letter element properties. Use the **GetLetterContent** method to return a **LetterContent** object based on the contents of the specified document. You can use the resulting **LetterContent** object with the **RunLetterWizard** method to preset elements in the **Letter Wizard** dialog box.
+Use the **CreateLetterContent** method to return a **LetterContent** object, given various letter element properties. Use the **GetLetterContent** method to return a **LetterContent** object based on the contents of the specified document. You can use the resulting **LetterContent** object with the **RunLetterWizard** method to preset elements in the **Letter Wizard** dialog box.
 
 
 ## Example
 
-This example creates a new  **LetterContent** object, sets several properties for it, and then runs the Letter Wizard by using the **RunLetterWizard** method.
+This example creates a new **LetterContent** object, sets several properties for it, and then runs the Letter Wizard by using the **RunLetterWizard** method.
 
 
 ```vb
@@ -54,7 +54,7 @@ Documents.Add.RunLetterWizard _
  LetterContent:=myContent, WizardMode:=True
 ```
 
-The following example uses the  **CreateLetterContent** method to create a new **LetterContent** object in the active document, and then it uses this object with the **RunLetterWizard** method.
+The following example uses the **CreateLetterContent** method to create a new **LetterContent** object in the active document, and then it uses this object with the **RunLetterWizard** method.
 
 
 

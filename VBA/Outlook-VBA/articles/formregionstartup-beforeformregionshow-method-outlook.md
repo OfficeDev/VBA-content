@@ -29,15 +29,15 @@ Allows an add-in to update the user interface of a form region before it is disp
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FormRegion_|Required| **[FormRegion](formregion-object-outlook.md)**|The  **FormRegion** object representing the form region that is to be displayed.|
+| _FormRegion_|Required| **[FormRegion](formregion-object-outlook.md)**|The **FormRegion** object representing the form region that is to be displayed.|
 
 ## Remarks
 
-This method lets Outlook pass the  **FormRegion** object to the add-in, and allows an add-in to update the user interface of the form region before it is displayed so that, for instance, the text of labels can be changed or irrelevant content can be suppressed. It is called after the controls are instantiated and the layout is calculated, but before the form region is made visible.
+This method lets Outlook pass the **FormRegion** object to the add-in, and allows an add-in to update the user interface of the form region before it is displayed so that, for instance, the text of labels can be changed or irrelevant content can be suppressed. It is called after the controls are instantiated and the layout is calculated, but before the form region is made visible.
 
 When implementing this method, keep in mind that the item obtained from the  _FormRegion_ parameter (that is, the **[Item](formregion-item-property-outlook.md)** property of the **FormRegion** object) is read-only.
 
-For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup** , see code sample downloads on MSDN.
+For examples of add-ins in C# and Visual Basic .NET that implement **FormRegionStartup** , see code sample downloads on MSDN.
 
 
 ## See also

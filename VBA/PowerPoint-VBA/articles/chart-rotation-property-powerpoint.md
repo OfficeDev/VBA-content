@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Rotation Property (PowerPoint)
 
-Returns or sets the rotation, in degrees, of the 3-D chart view (the rotation of the plot area around the z-axis). Read/write  **Variant**.
+Returns or sets the rotation, in degrees, of the 3-D chart view (the rotation of the plot area around the z-axis). Read/write **Variant**.
 
 
 ## Syntax

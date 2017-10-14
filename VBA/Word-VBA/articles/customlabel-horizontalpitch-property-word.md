@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLabel.HorizontalPitch Property (Word)
 
-Returns or sets the horizontal distance (in points) between the left edge of one custom mailing label and the left edge of the next mailing label. Read/write  **Single** .
+Returns or sets the horizontal distance (in points) between the left edge of one custom mailing label and the left edge of the next mailing label. Read/write **Single** .
 
 
 ## Syntax

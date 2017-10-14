@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ShadowFormat** object.
+Returns an **Object** that represents the parent object of the specified **ShadowFormat** object.
 
 
 ## Syntax

@@ -26,7 +26,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Attachment_|Required| **[Attachment](attachment-object-outlook.md)**|The  **Attachment** that was opened.|
+| _Attachment_|Required| **[Attachment](attachment-object-outlook.md)**|The **Attachment** that was opened.|
 
 ## See also
 

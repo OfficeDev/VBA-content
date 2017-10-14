@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- You used an  **Exit For** statement outside a **For...Next** statement. Make sure a valid **For** statement precedes the **Exit For**.
+- You used an **Exit For** statement outside a **For...Next** statement. Make sure a valid **For** statement precedes the **Exit For**.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

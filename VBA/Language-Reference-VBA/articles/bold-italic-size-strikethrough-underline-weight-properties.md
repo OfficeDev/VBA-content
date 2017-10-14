@@ -21,7 +21,7 @@ Specifies the visual attributes of text on a displayed or printed form.
  _object_. **StrikeThrough** [= _Boolean_ ]
  _object_. **Underline** [= _Boolean_ ]
  _object_. **Weight** [= _Integer_ ]
-The  **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Weight** property syntaxes have these parts:
+The **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Weight** property syntaxes have these parts:
 
 
 |**Part**|**Description**|
@@ -37,10 +37,10 @@ The settings for  _Boolean_ are:
 |:-----|:-----|
 |**True**|The text has the specified attribute (that is bold, italic, size, strikethrough or underline marks, or weight).|
 |**False**|The text does not have the specified attribute (default).|
-The  **Weight** property accepts values from 0 to 1000. A value of zero allows the system to pick the most appropriate weight. A value from 1 to 1000 indicates a specific weight, where 1 represents the lightest type and 1000 represents the darkest type.
+The **Weight** property accepts values from 0 to 1000. A value of zero allows the system to pick the most appropriate weight. A value from 1 to 1000 indicates a specific weight, where 1 represents the lightest type and 1000 represents the darkest type.
  **Remarks**
-These properties define the visual characteristics of text. The  **Bold** property determines whether text is normal or bold. The **Italic** property determines whether text is normal or italic. The **Size** property determines the height, in[points](vbe-glossary.md), of displayed text. The  **Underline** property determines whether text is underlined. The **StrikeThrough** property determines whether the text appears with strikethrough marks. The **Weight** property determines the darkness of the type.
+These properties define the visual characteristics of text. The **Bold** property determines whether text is normal or bold. The **Italic** property determines whether text is normal or italic. The **Size** property determines the height, in[points](vbe-glossary.md), of displayed text. The **Underline** property determines whether text is underlined. The **StrikeThrough** property determines whether the text appears with strikethrough marks. The **Weight** property determines the darkness of the type.
 The font's appearance on screen and in print may differ, depending on your computer and printer. If you select a font that your system can't display with the specified attribute or that isn't installed, the operating system substitutes a similar font. The substitute font will be as similar as possible to the font originally requested.
-Changing the value of  **Bold** also changes the value of **Weight**. Setting **Bold** to **True** sets **Weight** to 700; setting **Bold** to **False** sets **Weight** to 400. Conversely, setting **Weight** to anything over 550 sets **Bold** to **True**; setting **Weight** to 550 or less sets **Bold** to **False**.
+Changing the value of **Bold** also changes the value of **Weight**. Setting **Bold** to **True** sets **Weight** to 700; setting **Bold** to **False** sets **Weight** to 400. Conversely, setting **Weight** to anything over 550 sets **Bold** to **True**; setting **Weight** to 550 or less sets **Bold** to **False**.
 The default point size is determined by the operating system.
 

@@ -28,7 +28,7 @@ Designates the location of the public copy of a shared document to which changes
 
 ## Remarks
 
-The Microsoft SharePoint Team Services user interface allows users to copy a public shared document from a document library to a separate document workspace for temporary collaboration purposes, then publish changes back to the original source location. The  **SourceURL** property indicates the original source location of a document copy stored in a temporary workspace.
+The Microsoft SharePoint Team Services user interface allows users to copy a public shared document from a document library to a separate document workspace for temporary collaboration purposes, then publish changes back to the original source location. The **SourceURL** property indicates the original source location of a document copy stored in a temporary workspace.
 
 
 ## See also

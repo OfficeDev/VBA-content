@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ToggleTPUnscheduled Method (Project)
 
-Shows or hides the  **Unscheduled Tasks** column in the Team Planner view.
+Shows or hides the **Unscheduled Tasks** column in the Team Planner view.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Shows or hides the  **Unscheduled Tasks** column in the Team Planner view.
 
 ## Remarks
 
-The  **ToggleTPUnscheduled** method corresponds to the **Unscheduled Tasks** check box on the **Format** tab under **Team Planner Tools** on the ribbon.
+The **ToggleTPUnscheduled** method corresponds to the **Unscheduled Tasks** check box on the **Format** tab under **Team Planner Tools** on the ribbon.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.KeyCode Property (Word)
 
-Returns a unique number for the first key in the specified key binding. Read-only  **Long** .
+Returns a unique number for the first key in the specified key binding. Read-only **Long** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a unique number for the first key in the specified key binding. Read-onl
 
 ## Remarks
 
-You create this number by using the  **[BuildKeyCode](application-buildkeycode-method-word.md)** method when you are adding key bindings by using the **[Add](keybindings-add-method-word.md)** method of the **[KeyBindings](keybindings-object-word.md)** object.
+You create this number by using the **[BuildKeyCode](application-buildkeycode-method-word.md)** method when you are adding key bindings by using the **[Add](keybindings-add-method-word.md)** method of the **[KeyBindings](keybindings-object-word.md)** object.
 
 
 ## Example
 
-This example displays a message if the  **KeyBindings** collection includes the ALT+CTRL+W key combination.
+This example displays a message if the **KeyBindings** collection includes the ALT+CTRL+W key combination.
 
 
 ```vb

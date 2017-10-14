@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Line Property (Word)
 
-Returns the line formatting properties for the specified chart element. Read-only  **[LineFormat](lineformat-object-word.md)** .
+Returns the line formatting properties for the specified chart element. Read-only **[LineFormat](lineformat-object-word.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the line formatting properties for the specified chart element. Read-onl
 
 ## Remarks
 
-For a line, the  **LineFormat** object represents the line itself; for a chart with a border, the **LineFormat** object represents the border.
+For a line, the **LineFormat** object represents the line itself; for a chart with a border, the **LineFormat** object represents the border.
 
 
 ## See also

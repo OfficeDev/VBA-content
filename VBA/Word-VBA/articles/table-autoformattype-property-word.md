@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.AutoFormatType Property (Word)
 
-Returns the type of automatic formatting that's been applied to the specified table. Read-only  **Long** .
+Returns the type of automatic formatting that's been applied to the specified table. Read-only **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the type of automatic formatting that's been applied to the specified ta
 
 ## Remarks
 
-This property can be one of the  **WdTableFormat** constants. Use the **AutoFormat** method to apply automatic formatting to a table.
+This property can be one of the **WdTableFormat** constants. Use the **AutoFormat** method to apply automatic formatting to a table.
 
 
 ## Example

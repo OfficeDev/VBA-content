@@ -17,11 +17,11 @@ ms.date: 06/08/2017
 Returns a string created by joining a number of substrings contained in an [array](vbe-glossary.md).
  **Syntax**
  **Join( _sourcearray_** [, **_delimiter_** ] **)**
-The  **Join** function syntax has these[named arguments](vbe-glossary.md):
+The **Join** function syntax has these[named arguments](vbe-glossary.md):
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_sourcearray_**|Required. One-dimensional array containing substrings to be joined.|
-|**_delimiter_**|Optional. String character used to separate the substrings in the returned string. If omitted, the space character (" ") is used. If  **_delimiter_** is a zero-length string (""), all items in the list are concatenated with no delimiters.|
+|**_delimiter_**|Optional. String character used to separate the substrings in the returned string. If omitted, the space character (" ") is used. If **_delimiter_** is a zero-length string (""), all items in the list are concatenated with no delimiters.|
 

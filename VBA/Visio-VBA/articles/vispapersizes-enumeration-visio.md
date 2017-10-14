@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisPaperSizes Enumeration (Visio)
 
-Flags passed to or returned by the  **Document.PaperSize** property.
+Flags passed to or returned by the **Document.PaperSize** property.
 
 
 

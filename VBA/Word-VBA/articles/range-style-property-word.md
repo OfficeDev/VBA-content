@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Style Property (Word)
 
-Returns or sets the style for the specified object. Read/write  **Variant** .
+Returns or sets the style for the specified object. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the style for the specified object. Read/write  **Variant** .
 
 ## Remarks
 
-To set this property, specify the local name of the style, an integer, a  **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or an object that represents the style. When you return the style for a range that includes more than one style, only the first character or paragraph style is returned.
+To set this property, specify the local name of the style, an integer, a **[WdBuiltinStyle](wdbuiltinstyle-enumeration-word.md)** constant, or an object that represents the style. When you return the style for a range that includes more than one style, only the first character or paragraph style is returned.
 
 
 ## Example
@@ -33,7 +33,7 @@ To set this property, specify the local name of the style, an integer, a  **[WdB
 This example displays the style for each character in the selection. 
 
 
- **Note**  Each element of the  **Characters** collection is a **Range** object.
+ **Note**  Each element of the **Characters** collection is a **Range** object.
 
 
 ```vb

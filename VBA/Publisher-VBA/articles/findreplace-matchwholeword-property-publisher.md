@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FindReplace.MatchWholeWord Property (Publisher)
 
-Sets or returns a  **Boolean** that represents whether the whole word will be matched in the search operation. Read/write. **Boolean**.
+Sets or returns a **Boolean** that represents whether the whole word will be matched in the search operation. Read/write. **Boolean**.
 
 
 ## Syntax
 
  _expression_. **MatchWholeWord**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-The default value for  **MatchWholeWord** is **False**.
+The default value for **MatchWholeWord** is **False**.
 
 
 ## Example

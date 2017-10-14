@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AccountSelector Object (Outlook)
 
-Provides the ability to obtain the account that is selected in the Microsoft Office Backstage view for the parent  **[Explorer](explorer-object-outlook.md)** object.
+Provides the ability to obtain the account that is selected in the Microsoft Office Backstage view for the parent **[Explorer](explorer-object-outlook.md)** object.
 
 
 ## Remarks
 
-The  **AccountSelector** object has the **Explorer** object as its parent object. You can obtain an instance of the **AccountSelector** object from the **[AccountSelector](explorer-accountselector-property-outlook.md)** property of the **Explorer** object.
+The **AccountSelector** object has the **Explorer** object as its parent object. You can obtain an instance of the **AccountSelector** object from the **[AccountSelector](explorer-accountselector-property-outlook.md)** property of the **Explorer** object.
 
-The  **AccountSelector** object provides a **[SelectedAccount](accountselector-selectedaccount-property-outlook.md)** property that returns the current account that has been selected in the Backstage view. The object also provides a **[SelectedAccountChange](accountselector-selectedaccountchange-event-outlook.md)** event that fires when the user has changed the account in the Backstage view.
+The **AccountSelector** object provides a **[SelectedAccount](accountselector-selectedaccount-property-outlook.md)** property that returns the current account that has been selected in the Backstage view. The object also provides a **[SelectedAccountChange](accountselector-selectedaccountchange-event-outlook.md)** event that fires when the user has changed the account in the Backstage view.
 
 
 ## Events

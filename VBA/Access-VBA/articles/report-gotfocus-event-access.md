@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.GotFocus Event (Access)
 
-The  **GotFocus** event occurs when the report receives the focus.
+The **GotFocus** event occurs when the report receives the focus.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ The  **GotFocus** event occurs when the report receives the focus.
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the  **OnGotFocus** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **OnGotFocus** property to the name of the macro or to [Event Procedure].
 
-These events occur when the focus moves in response to a user action, such as pressing the TAB key or clicking the object, or when you use the  **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
+These events occur when the focus moves in response to a user action, such as pressing the TAB key or clicking the object, or when you use the **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
 
 
 ## See also

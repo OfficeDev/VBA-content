@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplaySharedWorkspace Method (Project)
 
-Displays the  **Shared Workspace** pane. Available only in Project Professional.
+Displays the **Shared Workspace** pane. Available only in Project Professional.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlTimelineViewMode Enumeration (Outlook)
 
-Indicates the view mode when using a  **[TimelineView](timelineview-object-outlook.md)** object.
+Indicates the view mode when using a **[TimelineView](timelineview-object-outlook.md)** object.
 
 
 

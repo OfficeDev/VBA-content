@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Execute2007 Method (Word)
 
-Runs the specified find operation. Returns  **True** if the find operation is successful.
+Runs the specified find operation. Returns **True** if the find operation is successful.
 
 
 ## Syntax
@@ -52,18 +52,18 @@ Runs the specified find operation. Returns  **True** if the find operation is su
 
 ### Return Value
 
-A  **Boolean** value that indicates whether the find operation was successful.
+A **Boolean** value that indicates whether the find operation was successful.
 
 
 ## Remarks
 
-If MatchWildcards is  **True** , you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
+If MatchWildcards is **True** , you can specify wildcard characters and other advanced search criteria for the FindText argument. For example, "*(ing)" finds any word that ends in "ing".
 
 To search for a symbol character, type a caret (^), a zero (0), and then the symbol's character code. For example, "^0151" corresponds to an em dash (?).
 
 Unless otherwise specified, replacement text inherits the formatting of the text it replaces in the document. For example, if you replace the string "abc" with "xyz", occurrences of "abc" with bold formatting are replaced with the string "xyz" with bold formatting.
 
-Also, if MatchCase is  **False** , occurrences of the search text that are uppercase will be replaced with an uppercase version of the replacement text, regardless of the case of the replacement text. Using the previous example, occurrences of "ABC" are replaced with "XYZ".
+Also, if MatchCase is **False** , occurrences of the search text that are uppercase will be replaced with an uppercase version of the replacement text, regardless of the case of the replacement text. Using the previous example, occurrences of "ABC" are replaced with "XYZ".
 
 
 ## Example

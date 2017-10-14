@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.ShortcutText Property (Office)
 
-Gets or sets the shortcut key text displayed next to a  **CommandBarButton** control when the button appears on a menu, submenu, or shortcut menu. Read/write.
+Gets or sets the shortcut key text displayed next to a **CommandBarButton** control when the button appears on a menu, submenu, or shortcut menu. Read/write.
 
 
 ## 
@@ -31,12 +31,12 @@ Gets or sets the shortcut key text displayed next to a  **CommandBarButton** con
 
 ## Remarks
 
-You can set this property only for command bar buttons that contain an  **OnAction** macro.
+You can set this property only for command bar buttons that contain an **OnAction** macro.
 
 
 ## Example
 
-This example displays the shortcut text for the  **Open** command ( **File** menu) on the Microsoft Excel Worksheet menu bar in a message box.
+This example displays the shortcut text for the **Open** command ( **File** menu) on the Microsoft Excel Worksheet menu bar in a message box.
 
 
 ```

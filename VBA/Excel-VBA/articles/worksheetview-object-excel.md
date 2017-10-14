@@ -18,7 +18,7 @@ An object that defines the behavior of a single worksheet view.
 
 ## Remarks
 
-Controls the look and feel of the application or workbook-level view by providing properties such as  **DisplayFormulas**,  **DisplayGridlines**, and  **DisplayHeadings**.
+Controls the look and feel of the application or workbook-level view by providing properties such as **DisplayFormulas**, **DisplayGridlines**, and **DisplayHeadings**.
 
 
 ## See also

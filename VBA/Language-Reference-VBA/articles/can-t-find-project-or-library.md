@@ -17,21 +17,21 @@ You can't run your code until all missing references are resolved. This error ha
 
 - A [referenced project](vbe-glossary.md) could not be found, or a referenced[object library](vbe-glossary.md) corresponding to the language of the[project](vbe-glossary.md) could not be found.
     
-    Unresolved references are prefixed with MISSING in the  **References** dialog box. Select the missing reference to display the path and language of the missing project or library. Follow these steps to resolve the reference or references:
+    Unresolved references are prefixed with MISSING in the **References** dialog box. Select the missing reference to display the path and language of the missing project or library. Follow these steps to resolve the reference or references:
     
 
  **To resolve the references**
 
 
-1. Display the  **References** dialog box.
+1. Display the **References** dialog box.
     
 2. Select the missing reference.
     
 3. Start the [Object Browser](vbe-glossary.md).
     
-4. Use the  **Browse** dialog box to find the missing reference.
+4. Use the **Browse** dialog box to find the missing reference.
     
-5. Click  **OK**.
+5. Click **OK**.
     
 6. Repeat the preceding steps until all missing references are resolved.
     

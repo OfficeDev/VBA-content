@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **Background** property must always be true for markup pages.
+The **Background** property must always be true for markup pages.
 
 
 ## Example

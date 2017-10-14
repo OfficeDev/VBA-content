@@ -27,7 +27,7 @@ Single
 
 ## Remarks
 
-If a paragraph begins with a bullet, the bullet position is determined by the  **FirstMargin** property, and the position of the first text character in the paragraph is determined by the **LeftMargin** property.
+If a paragraph begins with a bullet, the bullet position is determined by the **FirstMargin** property, and the position of the first text character in the paragraph is determined by the **LeftMargin** property.
 
 
 ## See also

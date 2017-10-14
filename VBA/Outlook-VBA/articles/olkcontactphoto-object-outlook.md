@@ -18,7 +18,7 @@ A control that shows the contact picture for a contact item if a contact picture
 
 ## Remarks
 
-Before you use this control for the first time in the forms designer, add the Microsoft Outlook Contact Photo Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic  **UserForm** object in the Visual Basic Editor.
+Before you use this control for the first time in the forms designer, add the Microsoft Outlook Contact Photo Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic **UserForm** object in the Visual Basic Editor.
 
 The following is the contact picture button that is displayed at runtime if no contact picture has been defined. If a contact picture has been defined for a contact, the contact photo will be rescaled to fit into the control space. This control supports Microsoft Windows themes.
 

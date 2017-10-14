@@ -18,14 +18,14 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To retrieve a  **Masters** collection, use the **Masters** property of a **Document** object.
+To retrieve a **Masters** collection, use the **Masters** property of a **Document** object.
 
-The default property of a  **Masters** collection is **Item**.
+The default property of a **Masters** collection is **Item**.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this collection maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVMasters**
+- **Microsoft.Office.Interop.Visio.IVMasters**
     
 
 ## Events

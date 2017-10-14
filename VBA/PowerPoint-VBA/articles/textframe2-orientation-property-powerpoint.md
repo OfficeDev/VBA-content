@@ -30,7 +30,7 @@ MsoTextOrientation
 
 ## Remarks
 
-The value of the  **Orientation** property can be one of these **MsoTextOrientation** constants.
+The value of the **Orientation** property can be one of these **MsoTextOrientation** constants.
 
 
 ||

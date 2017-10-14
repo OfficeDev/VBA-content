@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkColor.Color Property (Excel)
 
-Returns a  **[FormatColor](formatcolor-object-excel.md)** object that you can use to set the color of the horizontal axis or the markers for points in a sparkline. Read-only
+Returns a **[FormatColor](formatcolor-object-excel.md)** object that you can use to set the color of the horizontal axis or the markers for points in a sparkline. Read-only
 
 
 ## Syntax

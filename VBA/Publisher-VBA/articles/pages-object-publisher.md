@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Pages Object (Publisher)
 
-Represents all the pages in a publication. The  **Pages** collection contains all the **[Page](page-object-publisher.md)** objects in a publication.
+Represents all the pages in a publication. The **Pages** collection contains all the **[Page](page-object-publisher.md)** objects in a publication.
  
 
 
 ## Example
 
-Use the  **[Add](pages-add-method-publisher.md)** method to add a new page to a publication. The following example adds a new page and a shape to the active publication.
+Use the **[Add](pages-add-method-publisher.md)** method to add a new page to a publication. The following example adds a new page and a shape to the active publication.
  
 
  

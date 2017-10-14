@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.TextEffect Property (Word)
 
-Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **TextEffectFormat** object that contains text-effect formatting prop
 
 ## Remarks
 
-Applies to  **ShapeRange** objects that represent WordArt.
+Applies to **ShapeRange** objects that represent WordArt.
 
 
 ## See also

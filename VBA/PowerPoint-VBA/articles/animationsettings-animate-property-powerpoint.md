@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-For a shape to be animated, the  **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone**, and either the **Animate** property must be set to **True**, or the **[EntryEffect](animationsettings-entryeffect-property-powerpoint.md)** property must be set to a constant other than **ppEffectNone**.
+For a shape to be animated, the **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone**, and either the **Animate** property must be set to **True**, or the **[EntryEffect](animationsettings-entryeffect-property-powerpoint.md)** property must be set to a constant other than **ppEffectNone**.
 
-The value of the  **Animate** property can be one of these **MsoTriState** constants.
+The value of the **Animate** property can be one of these **MsoTriState** constants.
 
 
 

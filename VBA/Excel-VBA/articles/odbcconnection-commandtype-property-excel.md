@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.CommandType Property (Excel)
 
-Returns or sets one of the  **XlCmdType** constants. Read/write **[XlCmdType](xlcmdtype-enumeration-excel.md)** .
+Returns or sets one of the **XlCmdType** constants. Read/write **[XlCmdType](xlcmdtype-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets one of the  **XlCmdType** constants. Read/write **[XlCmdType](xl
 
 ## Remarks
 
-The constant that is returned or set describes the value of the  **[CommandText](odbcconnection-commandtext-property-excel.md)** property. The default value is **xlCmdSQL** .
+The constant that is returned or set describes the value of the **[CommandText](odbcconnection-commandtext-property-excel.md)** property. The default value is **xlCmdSQL** .
 
 
 ## Example

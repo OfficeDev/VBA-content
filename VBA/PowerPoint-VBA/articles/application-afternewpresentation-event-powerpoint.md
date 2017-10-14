@@ -33,7 +33,7 @@ Occurs after a presentation is created.
 
 ## Example
 
-This example uses the  **RGB** function to set the slide master background color for the new presentation to salmon pink, and then applies the third color scheme to the new presentation.
+This example uses the **RGB** function to set the slide master background color for the new presentation to salmon pink, and then applies the third color scheme to the new presentation.
 
 
 ```vb

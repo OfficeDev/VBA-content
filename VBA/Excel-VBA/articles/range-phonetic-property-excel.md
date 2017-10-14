@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Phonetic Property (Excel)
 
-Returns the  **[Phonetic](phonetic-object-excel.md)** object, which contains information about a specific phonetic text string in a cell.
+Returns the **[Phonetic](phonetic-object-excel.md)** object, which contains information about a specific phonetic text string in a cell.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Phonetic
 
 ## Remarks
 
-This property provides compatibility with earlier versions of Microsoft Excel. You should use  **[Phonetics](phonetics-object-excel.md)** ( _index_), where  _index_ is the index number of the phonetic text, to return a single **Phonetic** object.
+This property provides compatibility with earlier versions of Microsoft Excel. You should use **[Phonetics](phonetics-object-excel.md)** ( _index_), where  _index_ is the index number of the phonetic text, to return a single **Phonetic** object.
 
 
 ## See also

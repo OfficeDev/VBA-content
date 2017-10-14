@@ -30,9 +30,9 @@ Shape
 
 ## Remarks
 
-Every page contains a tree of  **Shape** objects. Constants representing shape types are prefixed with **visType** and are declared by the Visio type library in **[VisShapeTypes](visshapetypes-enumeration-visio.md)** .
+Every page contains a tree of **Shape** objects. Constants representing shape types are prefixed with **visType** and are declared by the Visio type library in **[VisShapeTypes](visshapetypes-enumeration-visio.md)** .
 
-In the tree of shapes of a page, there is exactly one shape of type  **visTypePage** . This shape is always the root shape in the tree, and the **PageSheet** property returns this shape.
+In the tree of shapes of a page, there is exactly one shape of type **visTypePage** . This shape is always the root shape in the tree, and the **PageSheet** property returns this shape.
 
 The page sheet contains important settings for the page such as its size and scale. It also contains the Layers section that defines the layers for that page.
 

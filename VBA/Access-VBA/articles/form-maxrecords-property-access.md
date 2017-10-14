@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.MaxRecords Property (Access)
 
-Specifies the maximum number of records by a query or view. Read/write  **Long**.
+Specifies the maximum number of records by a query or view. Read/write **Long**.
 
 
 ## Syntax
@@ -25,23 +25,23 @@ Specifies the maximum number of records by a query or view. Read/write  **Long**
 
 ## Remarks
 
-When you set this property in Visual Basic you use the ADO  **MaxRecords** property.
+When you set this property in Visual Basic you use the ADO **MaxRecords** property.
 
 Records are returned in the order specified by the query's ORDER BY clause.
 
-You can use the  **MaxRecords** property in situations where limited system resources might prohibit a large number of returned records.
+You can use the **MaxRecords** property in situations where limited system resources might prohibit a large number of returned records.
 
 
 ## Example
 
-To return the  **MaxRecords** property for a form, you can use the following:
+To return the **MaxRecords** property for a form, you can use the following:
 
 
 ```vb
 Dim l As Longl = Forms(formname).MaxRecords
 ```
 
-To set the  **MaxRecords** property, you can use the following:
+To set the **MaxRecords** property, you can use the following:
 
 
 

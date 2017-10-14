@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilters.Add Method (Excel)
 
-Adds new filters to the  **PivotFilters** collection.
+Adds new filters to the **PivotFilters** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Adds new filters to the  **PivotFilters** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **XlPivotFilterType**|Requires an  **[XlPivotFilterType](xlpivotfiltertype-enumeration-excel.md)** type of filter.|
+| _Type_|Required| **XlPivotFilterType**|Requires an **[XlPivotFilterType](xlpivotfiltertype-enumeration-excel.md)** type of filter.|
 | _DataField_|Optional| **Variant**|The field to which the filter is attached.|
 | _Value1_|Optional| **Variant**|Filter value 1.|
 | _Value2_|Optional| **Variant**|Filter value 2.|
@@ -46,7 +46,7 @@ PivotFilter
 
 ## Example
 
-Following are some examples of how to use the  **Add** function correctly.
+Following are some examples of how to use the **Add** function correctly.
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Chart.CategoryLabelLevel Property (Excel)
 
-Returns a  **[XlCategoryLabelLevel Enumeration (Excel)](xlcategorylabellevel-enumeration-excel.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.
+Returns a **[XlCategoryLabelLevel Enumeration (Excel)](xlcategorylabellevel-enumeration-excel.md)** constant referring to the level of where the category labels are being sourced from. **Integer** Read/Write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ If there is a hierarchy, 0 refers to the most parent level, 1 refers to its chil
 
 ## Example
 
-The following sample code uses the  **CategoryNameLevel** property to set the chart categories names from previously created row.
+The following sample code uses the **CategoryNameLevel** property to set the chart categories names from previously created row.
 
 
 ```vb

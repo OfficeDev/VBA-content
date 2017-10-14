@@ -19,13 +19,13 @@ Occurs when a control detects an error and cannot return the error information t
  **Syntax**
 For MultiPage **Private Sub**_object_ _**Error(**_index_**As Long**, **ByVal**_Number_**As Integer**, **ByVal**_Description_**As MSForms.ReturnString**, **ByVal**_SCode_**As SCode**, **ByVal**_Source_**As String**, **ByVal**_HelpFile_**As String**, **ByVal**_HelpContext_**As Long**, **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
 For other controls **Private Sub**_object_ _**Error( ByVal**_Number_**As Integer**, **ByVal**_Description_**As MSForms.ReturnString**, **ByVal**_SCode_**As SCode**, **ByVal**_Source_**As String**, **ByVal**_HelpFile_**As String**, **ByVal**_HelpContext_**As Long**, **ByVal**_CancelDisplay_**As MSForms.ReturnBoolean)**
-The  **Error** event syntax has these parts:
+The **Error** event syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
+| _index_|Required. The index of the page in a **MultiPage** associated with this event.|
 | _Number_|Required. Specifies a unique value that the control uses to identify the error.|
 | _Description_|Required. A textual description of the error.|
 | _SCode_|Required. Specifies the [OLE status code](glossary-vba.md) for the error. The low-order 16 bits specify a value that is identical to the _Number_ argument.|

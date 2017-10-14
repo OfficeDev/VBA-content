@@ -28,7 +28,7 @@ End Sub
 
      Check the current procedure,[module](vbe-glossary.md), or [project](vbe-glossary.md) and remove any duplicate declarations.
     
-- A  **Const** statement uses the same name as an existing variable or procedure. Remove or rename the[constant](vbe-glossary.md) in question.
+- A **Const** statement uses the same name as an existing variable or procedure. Remove or rename the[constant](vbe-glossary.md) in question.
     
 - You declared a fixed [array](vbe-glossary.md) more than once.
     

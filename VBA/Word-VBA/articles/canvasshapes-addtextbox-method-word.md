@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.AddTextbox Method (Word)
 
-Adds a text box to a drawing canvas. Returns a  **Shape** object that represents the text box.
+Adds a text box to a drawing canvas. Returns a **Shape** object that represents the text box.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Adds a text box to a drawing canvas. Returns a  **Shape** object that represents
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of the  **MsoTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
+| _Orientation_|Required| **MsoTextOrientation**|The orientation of the text. Some of the **MsoTextOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the text box.|
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the text box.|
 | _Width_|Required| **Single**|The width, measured in points, of the text box.|

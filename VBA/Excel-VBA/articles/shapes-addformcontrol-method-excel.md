@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddFormControl Method (Excel)
 
-Creates a Microsoft Excel control. Returns a  **[Shape](shape-object-excel.md)** object that represents the new control.
+Creates a Microsoft Excel control. Returns a **[Shape](shape-object-excel.md)** object that represents the new control.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-Use the  **[AddOLEObject](shapes-addoleobject-method-excel.md)** method or the **[Add](oleobjects-add-method-excel.md)** method of the **[OLEObjects](oleobjects-object-excel.md)** collection to create an ActiveX control.
+Use the **[AddOLEObject](shapes-addoleobject-method-excel.md)** method or the **[Add](oleobjects-add-method-excel.md)** method of the **[OLEObjects](oleobjects-object-excel.md)** collection to create an ActiveX control.
 
 
 ## Example

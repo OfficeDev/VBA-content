@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # JournalItem.ConversationIndex Property (Outlook)
 
-Returns a  **String** that indicates the relative position of the item within the conversation thread. Read-only.
+Returns a **String** that indicates the relative position of the item within the conversation thread. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagConversationIndex** .
+This property corresponds to the MAPI property **PidTagConversationIndex** .
 
 
 ## See also

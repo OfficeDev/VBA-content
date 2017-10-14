@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.QuickStyle Property (Access)
 
-Gets or sets the Quick Style that is applied to the specified object. Read/write  **Long**.
+Gets or sets the Quick Style that is applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the Quick Style that is applied to the specified object. Read/write
 
 ## Remarks
 
-The  **QuickStyle** uses one of the values listed in the following table.
+The **QuickStyle** uses one of the values listed in the following table.
 
 
 
@@ -74,7 +74,7 @@ The  **QuickStyle** uses one of the values listed in the following table.
 |40|Intense Effect - Gold, Accent 4|
 |41|Intense Effect - Green, Accent 5|
 |42|Intense Effect - Gray-50%, Accent 6|
-To see the available Quick Styles and apply a Quick Style through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a shadow effect. Next, on the  **Format** tab, in the **Control Formatting** group, click **Quick Styles** and choose a Quick Style. Notice that the Quick Styles are indexed from left to right, and then top to bottom. So the first item, **Colored Outline - Black, Dark 1**, has the value 1. The first row contains Quick Styles with values from 1 to 7. The second row from 8 to 14, and so on.
+To see the available Quick Styles and apply a Quick Style through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a shadow effect. Next, on the **Format** tab, in the **Control Formatting** group, click **Quick Styles** and choose a Quick Style. Notice that the Quick Styles are indexed from left to right, and then top to bottom. So the first item, **Colored Outline - Black, Dark 1**, has the value 1. The first row contains Quick Styles with values from 1 to 7. The second row from 8 to 14, and so on.
 
 This property is not surfaced in the property sheet. 
 

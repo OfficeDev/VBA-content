@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.PivotTable Property (Access)
 
-Returns a  **PivotTable** object representing a PivotTable View on a form. Read-only.
+Returns a **PivotTable** object representing a PivotTable View on a form. Read-only.
 
 
 ## Syntax

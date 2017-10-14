@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.FetchedRowOverflow Property (Excel)
 
-Specifies if the number of rows returned by the last use of the Refresh method is greater than the number of rows available on the worksheet.  **Boolean** Read-only
+Specifies if the number of rows returned by the last use of the Refresh method is greater than the number of rows available on the worksheet. **Boolean** Read-only
 
 
 ## Syntax

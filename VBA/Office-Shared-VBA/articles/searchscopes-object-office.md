@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SearchScopes Object (Office)
 
-A collection of  **SearchScope** objects.
+A collection of **SearchScope** objects.
 
 
 ## Remarks
 
-You can't add or remove  **SearchScope** objects from the **SearchScopes** collection.
+You can't add or remove **SearchScope** objects from the **SearchScopes** collection.
 
 
 ## Properties

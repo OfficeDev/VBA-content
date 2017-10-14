@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.UserDict Property (Excel)
 
-Instructs Microsoft Excel to create a custom dictionary to which new words can be added to, when performing spelling checks on a worksheet. Read/write  **String** .
+Instructs Microsoft Excel to create a custom dictionary to which new words can be added to, when performing spelling checks on a worksheet. Read/write **String** .
 
 
 ## Syntax

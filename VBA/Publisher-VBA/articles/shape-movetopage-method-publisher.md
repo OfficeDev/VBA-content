@@ -18,9 +18,9 @@ Moves a shape to the specified page.
 
 ## Syntax
 
- _expression_. **MoveToPage**( **_Page_**,  **_Left_**,  **_Top_**)
+ _expression_. **MoveToPage**( **_Page_**, **_Left_**, **_Top_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Moves a shape to the specified page.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **MoveToPage** method to move the first shape in the **Shapes** collection on the first page of a publication to the same relative location on the second page of the publication.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **MoveToPage** method to move the first shape in the **Shapes** collection on the first page of a publication to the same relative location on the second page of the publication.
 
 This code assumes that the current publication contains at least two pages, and that there is at least one shape on the first page of the publication.
 

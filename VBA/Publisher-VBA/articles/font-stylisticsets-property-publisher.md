@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # Font.StylisticSets Property (Publisher)
 
-Returns or sets a  **Variant** that represents the state of the **StylisticSets** property on the characters in a text range. Read/write.
+Returns or sets a **Variant** that represents the state of the **StylisticSets** property on the characters in a text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **StylisticSets**
 
- _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+ _expression_A variable that represents a **[Font](font-object-publisher.md)** object.
 
 
 ## Remarks
 
-The  **StylisticSets** property applies from one to twenty increasingly complex sets of typography styles to the selected font.
+The **StylisticSets** property applies from one to twenty increasingly complex sets of typography styles to the selected font.
 
-Possible values for the  **StylisticSets** property and how they correspond to identifiers for stylistic sets in the user interface (UI) are shown in the following table. A value of zero (0) indicates that no stylistic set is applied.
+Possible values for the **StylisticSets** property and how they correspond to identifiers for stylistic sets in the user interface (UI) are shown in the following table. A value of zero (0) indicates that no stylistic set is applied.
 
 
 
@@ -41,6 +41,6 @@ Possible values for the  **StylisticSets** property and how they correspond to i
 The number of stylistic sets available varies, depending on the font.
 
 
- **Note**  The  **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
+ **Note**  The **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
 
 

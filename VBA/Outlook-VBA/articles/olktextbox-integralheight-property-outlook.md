@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.IntegralHeight Property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether this control displays full lines of text. Read/write.
+Returns or sets a **Boolean** that specifies whether this control displays full lines of text. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether this control displays full
 
 ## Remarks
 
-If this property is  **True** , the control displays fill lines of text; otherwise it displays partial lines. The default value is **True** .
+If this property is **True** , the control displays fill lines of text; otherwise it displays partial lines. The default value is **True** .
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.PickUp Method (PowerPoint)
 
-Copies the formatting of the specified shape. Use the  **Apply** method to apply the copied formatting to another shape.
+Copies the formatting of the specified shape. Use the **Apply** method to apply the copied formatting to another shape.
 
 
 ## Syntax

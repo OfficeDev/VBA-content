@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellFormat.NumberFormat Property (Excel)
 
-Returns or sets a  **Variant** value that represents the format code for the object.
+Returns or sets a **Variant** value that represents the format code for the object.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Variant** value that represents the format code for the obj
 
 ## Remarks
 
-This property returns  **Null** if all cells in the specified range don't have the same number format.
+This property returns **Null** if all cells in the specified range don't have the same number format.
 
-The format code is the same string as the  **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](cellformat-numberformatlocal-property-excel.md)** properties.
+The format code is the same string as the **Format Codes** option in the **Format Cells** dialog box. The **Format** function uses different format code strings than do the **NumberFormat** and **[NumberFormatLocal](cellformat-numberformatlocal-property-excel.md)** properties.
 
 
 ## See also

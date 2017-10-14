@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFilter.ApplyFilter Method (Excel)
 
-Applies the specified  **Autofilter** object.
+Applies the specified **Autofilter** object.
 
 
 ## Syntax

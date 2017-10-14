@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Endnotes.Add Method (Word)
 
-Returns an  **Endnote** object that represents an endnote added to a range.
+Returns an **Endnote** object that represents an endnote added to a range.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Returns an  **Endnote** object that represents an endnote added to a range.
 
 ## Remarks
 
-To specify a symbol for the Reference argument, use the syntax  `{FontName CharNum}`. FontName is the name of the font that contains the symbol. Names of decorative fonts appear in the  **Font** box in the **Symbol** dialog box ( **Insert** menu). CharNum is the sum of 31 and the number corresponding to the position of the symbol you want to insert, counting from left to right in the table of symbols. For example, to specify an omega symbol at position 56 in the table of symbols in the Symbol font, the argument would be "{Symbol 87}".
+To specify a symbol for the Reference argument, use the syntax  `{FontName CharNum}`. FontName is the name of the font that contains the symbol. Names of decorative fonts appear in the **Font** box in the **Symbol** dialog box ( **Insert** menu). CharNum is the sum of 31 and the number corresponding to the position of the symbol you want to insert, counting from left to right in the table of symbols. For example, to specify an omega symbol at position 56 in the table of symbols in the Symbol font, the argument would be "{Symbol 87}".
 
 
 ## Example

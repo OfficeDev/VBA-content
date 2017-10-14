@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.WritePassword Property (Word)
 
-Sets a password for saving changes to the specified document. Write-only  **String** .
+Sets a password for saving changes to the specified document. Write-only **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Names Property (Excel)
 
-Returns a  **[Names](names-object-excel.md)** collection that represents all the worksheet-specific names (names defined with the "WorksheetName!" prefix). Read-only **Names** object.
+Returns a **[Names](names-object-excel.md)** collection that represents all the worksheet-specific names (names defined with the "WorksheetName!" prefix). Read-only **Names** object.
 
 
 ## Syntax

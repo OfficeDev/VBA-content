@@ -30,12 +30,12 @@ Single
 
 ## Remarks
 
-An animation will stop at the end of its time sequence or the value of the  **RepeatDuration** property, whichever is shorter.
+An animation will stop at the end of its time sequence or the value of the **RepeatDuration** property, whichever is shorter.
 
 
 ## Example
 
-This examples adds a shape and an animation to it, then repeats the animation ten times. However, after five seconds, the animation will be cut off, even though the animation is dimensioned for a 20-second timeline (if the  **Duration** property is not specified, an animation defaults to two seconds).
+This examples adds a shape and an animation to it, then repeats the animation ten times. However, after five seconds, the animation will be cut off, even though the animation is dimensioned for a 20-second timeline (if the **Duration** property is not specified, an animation defaults to two seconds).
 
 
 ```vb

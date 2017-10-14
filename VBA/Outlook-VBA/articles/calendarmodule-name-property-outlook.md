@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarModule.Name Property (Outlook)
 
-Returns a  **String** value that represents the localized display name for the **[CalendarModule](calendarmodule-object-outlook.md)** object. Read-only.
+Returns a **String** value that represents the localized display name for the **[CalendarModule](calendarmodule-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

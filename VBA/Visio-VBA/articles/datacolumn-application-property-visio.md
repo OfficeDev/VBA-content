@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataColumn.Application Property (Visio)
 
-Returns the instance of Microsoft Visio that is associated with a  **DataColumn** object. Read-only.
+Returns the instance of Microsoft Visio that is associated with a **DataColumn** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

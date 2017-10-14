@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenarios.Merge Method (Excel)
 
-Merges the scenarios from another sheet into the  **[Scenarios](scenarios-object-excel.md)** collection.
+Merges the scenarios from another sheet into the **[Scenarios](scenarios-object-excel.md)** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Merges the scenarios from another sheet into the  **[Scenarios](scenarios-object
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Source_|Required| **Variant**|The name of the sheet that contains scenarios to be merged, or a  **[Worksheet](worksheet-object-excel.md)** object that represents that sheet.|
+| _Source_|Required| **Variant**|The name of the sheet that contains scenarios to be merged, or a **[Worksheet](worksheet-object-excel.md)** object that represents that sheet.|
 
 ### Return Value
 

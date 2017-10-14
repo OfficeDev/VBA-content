@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Id Property (Office)
 
-Gets the ID for a built-in  **CommandBarPopup** control. Read-only.
+Gets the ID for a built-in **CommandBarPopup** control. Read-only.
 
 
 ## 

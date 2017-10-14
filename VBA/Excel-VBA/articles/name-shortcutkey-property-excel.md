@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.ShortcutKey Property (Excel)
 
-Returns or sets the shortcut key for a name defined as a custom Microsoft Excel 4.0 macro command. Read/write  **String** .
+Returns or sets the shortcut key for a name defined as a custom Microsoft Excel 4.0 macro command. Read/write **String** .
 
 
 ## Syntax

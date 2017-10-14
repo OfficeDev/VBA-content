@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # FullSeriesCollection.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of[Series Object (Excel)](series-object-excel.md) objects in the[FullSeriesCollection Object (Excel)](fullseriescollection-object-excel.md) object. Read-only.
+Returns a **Long** value that represents the number of[Series Object (Excel)](series-object-excel.md) objects in the[FullSeriesCollection Object (Excel)](fullseriescollection-object-excel.md) object. Read-only.
 
 
 ## Syntax

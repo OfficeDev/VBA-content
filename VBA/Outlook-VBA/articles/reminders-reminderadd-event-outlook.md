@@ -29,7 +29,7 @@ Occurs after a reminder is added.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ReminderObject_|Required| **[_REMINDER]**|The  **[Reminder](reminder-object-outlook.md)** object added to the collection.|
+| _ReminderObject_|Required| **[_REMINDER]**|The **[Reminder](reminder-object-outlook.md)** object added to the collection.|
 
 ## Remarks
 

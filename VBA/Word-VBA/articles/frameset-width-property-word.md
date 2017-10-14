@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.Width Property (Word)
 
-Returns or sets the width (in points) of the specified  **Frameset** object. Read/write **Long** .
+Returns or sets the width (in points) of the specified **Frameset** object. Read/write **Long** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the width (in points) of the specified  **Frameset** object. Rea
 
 ## Remarks
 
-Use the  **[WidthType](frameset-widthtype-property-word.md)** property to specify the type of unit in which this value is expressed.
+Use the **[WidthType](frameset-widthtype-property-word.md)** property to specify the type of unit in which this value is expressed.
 
 
 ## Example
 
-This example sets the width of the specified  **Frameset** object to 25% of the window width.
+This example sets the width of the specified **Frameset** object to 25% of the window width.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.MouseWheel Property (Access)
 
-Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **MouseWheel** event occurs. Read/write.
+Returns or sets a **String** indicating which macro, event procedure, or user-defined function runs when the **MouseWheel** event occurs. Read/write.
 
 
 ## Syntax

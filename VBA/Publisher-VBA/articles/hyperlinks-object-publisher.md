@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Hyperlinks Object (Publisher)
 
-Represents the collection of  **[Hyperlink](hyperlink-object-publisher.md)** objects in a text range.
+Represents the collection of **[Hyperlink](hyperlink-object-publisher.md)** objects in a text range.
 
 
 ## Example
 
-Use the  **[Hyperlinks](http://msdn.microsoft.com/library/0cf1f043-532c-3ffc-67cf-389adc5ac02f%28Office.15%29.aspx)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
+Use the **[Hyperlinks](http://msdn.microsoft.com/library/0cf1f043-532c-3ffc-67cf-389adc5ac02f%28Office.15%29.aspx)** property to return the **Hyperlinks** collection. The following example deletes all text hyperlinks in the active publication that contain the word "Tailspin" in the address.
 
 
 ```
@@ -45,7 +45,7 @@ Sub DeleteMSHyperlinks()
 End Sub
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e43a21b1%28Office.15%29.aspx)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the specified Web site.
+Use the **[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e43a21b1%28Office.15%29.aspx)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink to the specified Web site.
 
 
 
@@ -57,7 +57,7 @@ Sub AddHyperlink()
 End Sub
 ```
 
-Use  **Hyperlinks** (index), where index is the index number, to return a single **Hyperlink** object in a publication, range, or selection. This example displays the address for the first hyperlink if the specified selection contains hyperlinks.
+Use **Hyperlinks** (index), where index is the index number, to return a single **Hyperlink** object in a publication, range, or selection. This example displays the address for the first hyperlink if the specified selection contains hyperlinks.
 
 
 
@@ -71,7 +71,7 @@ Sub DisplayHyperlinkAddress()
 End Sub
 ```
 
-The  **[Count](http://msdn.microsoft.com/library/36747f3e-b365-11ca-9cbe-f6148f7da235%28Office.15%29.aspx)** property for this collection returns the number of hyperlinks in the specified shape or selection only.
+The **[Count](http://msdn.microsoft.com/library/36747f3e-b365-11ca-9cbe-f6148f7da235%28Office.15%29.aspx)** property for this collection returns the number of hyperlinks in the specified shape or selection only.
 
 
 ## Methods

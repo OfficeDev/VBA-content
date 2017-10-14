@@ -11,22 +11,22 @@ ms.date: 06/08/2017
 
 # ListBox.IntegralHeight Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether a **[ListBox](listbox-object-outlook-forms-script.md)** displays full lines of text in a list or partial lines. Read/write.
+Returns or sets a **Boolean** that specifies whether a **[ListBox](listbox-object-outlook-forms-script.md)** displays full lines of text in a list or partial lines. Read/write.
 
 
 ## Syntax
 
  _expression_. **IntegralHeight**
 
- _expression_A variable that represents a  **ListBox** object.
+ _expression_A variable that represents a **ListBox** object.
 
 
 ## Remarks
 
  **True** indicates that the list resizes itself to display only complete items (default). **False** indicates that the list does not resize itself even if the item is too tall to display completely.
 
-The  **IntegralHeight** property relates to the height of the list, just as the **AutoSize** property relates to the width of the list.
+The **IntegralHeight** property relates to the height of the list, just as the **AutoSize** property relates to the width of the list.
 
-If  **IntegralHeight** is **True**, the list box automatically resizes when necessary to show full rows. If  **False**, the list remains a fixed size; if items are taller than the available space in the list, the entire item is not shown.
+If **IntegralHeight** is **True**, the list box automatically resizes when necessary to show full rows. If **False**, the list remains a fixed size; if items are taller than the available space in the list, the entire item is not shown.
 
 

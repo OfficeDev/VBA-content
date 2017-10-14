@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Cell Object (Word)
 
-Represents a single table cell. The  **Cell** object is a member of the **[Cells](cells-object-word.md)** collection. The **Cells** collection represents all the cells in the specified object.
+Represents a single table cell. The **Cell** object is a member of the **[Cells](cells-object-word.md)** collection. The **Cells** collection represents all the cells in the specified object.
 
 
 ## Remarks
 
-Use  **[Cell](table-cell-method-word.md)** (row, column), where row is the row number and column is the column number, or **Cells** (index), where index is the index number, to return a **Cell** object. The following example applies shading to the second cell in the first row.
+Use **[Cell](table-cell-method-word.md)** (row, column), where row is the row number and column is the column number, or **Cells** (index), where index is the index number, to return a **Cell** object. The following example applies shading to the second cell in the first row.
 
 
 ```vb
@@ -36,7 +36,7 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).Shading _
  .Texture = wdTexture20Percent
 ```
 
-Use the  **[Add](cells-add-method-word.md)** method to add a **Cell** object to the **[Cells](cells-object-word.md)** collection. You can also use the **[InsertCells](selection-insertcells-method-word.md)** method of the **[Selection](selection-object-word.md)** object to insert new cells. The following example adds a cell before the first cell in `myTable`.
+Use the **[Add](cells-add-method-word.md)** method to add a **Cell** object to the **[Cells](cells-object-word.md)** collection. You can also use the **[InsertCells](selection-insertcells-method-word.md)** method of the **[Selection](selection-object-word.md)** object to insert new cells. The following example adds a cell before the first cell in `myTable`.
 
 
 
@@ -60,9 +60,9 @@ myRange.Cells.Merge
 
 Remarks
 
-Use the  **[Add](addins-add-method-word.md)** method with the **[Rows](rows-object-word.md)** or **[Columns](columns-object-word.md)** collection to add a row or column of cells.
+Use the **[Add](addins-add-method-word.md)** method with the **[Rows](rows-object-word.md)** or **[Columns](columns-object-word.md)** collection to add a row or column of cells.
 
-Use the  **[Information](selection-information-property-word.md)** property with a **Selection** object to return the current row and column number. The following example changes the width of the first cell in the selection and then displays the cell's row number and column number.
+Use the **[Information](selection-information-property-word.md)** property with a **Selection** object to return the current row and column number. The following example changes the width of the first cell in the selection and then displays the cell's row number and column number.
 
 
 

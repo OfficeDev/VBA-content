@@ -31,7 +31,7 @@ Sets the formulas of one or more cells.
 |:-----|:-----|:-----|:-----|
 | _SID_SRCStream()_|Required| **Integer**|Stream identifying cells to be modified.|
 | _formulaArray()_|Required| **Variant**|Formulas to be assigned to identified cells.|
-| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetFormulas** .|
+| _Flags_|Required| **Integer**|Flags that influence the behavior of **SetFormulas** .|
 
 ### Return Value
 
@@ -40,11 +40,11 @@ Integer
 
 ## Remarks
 
-The  **SetFormulas** method behaves like the **Formula** property except that you can use it to set the formulas of many cells at once, rather than one cell at a time.
+The **SetFormulas** method behaves like the **Formula** property except that you can use it to set the formulas of many cells at once, rather than one cell at a time.
 
-For  **Shape** objects, you can use the **SetFormulas** method to set results of any set of cells. You tell the **SetFormulas** method which cells you want to set by passing an array of integers in _SID_SRCStream()_.  _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
+For **Shape** objects, you can use the **SetFormulas** method to set results of any set of cells. You tell the **SetFormulas** method which cells you want to set by passing an array of integers in _SID_SRCStream()_.  _SID_SRCStream()_ is a one-dimensional array of 2-byte integers.
 
-For  **Shape** objects, _SID_SRCStream()_ should be a one-dimensional array of 3 _n_ 2-byte integers for _n_ >= 1. The **SetFormulas** method interprets the stream as:
+For **Shape** objects, _SID_SRCStream()_ should be a one-dimensional array of 3 _n_ 2-byte integers for _n_ >= 1. The **SetFormulas** method interprets the stream as:
 
 
 
@@ -66,14 +66,14 @@ The  _Flags_ argument should be a bitmask of the following values.
 | **visSetBlastGuards**|&;H2|Override present cell values even if they're guarded.|
 | **visSetTestCircular**|&;H4|Test for establishment of circular cell references.|
 | **visSetUniversalSyntax**|&;H8|Formulas are in universal syntax.|
-The value returned by the  **SetFormulas** method is the number of entries in _SID_SRCStream()_ that were successfully processed. If _i_ < _n_ entries process correctly, but an error occurs on the _i_ + 1st entry, the **SetFormulas** method raises an exception and returns _i_ . Otherwise, _n_ is returned.
+The value returned by the **SetFormulas** method is the number of entries in _SID_SRCStream()_ that were successfully processed. If _i_ < _n_ entries process correctly, but an error occurs on the _i_ + 1st entry, the **SetFormulas** method raises an exception and returns _i_ . Otherwise, _n_ is returned.
 
 
 ## Example
 
-The following macro shows how to use the  **SetFormulas** method. It assumes that there is an active Microsoft Office Visio page that has at least three shapes on it. It uses the **GetFormulas** method to get the width of shape 1, the height of shape 2, and the angle of shape 3. It then uses **SetFormulas** to set the width of shape 1 to the height of shape 2 and the height of shape 2 to the width of shape 1. The angle of shape 3 is left unaltered.
+The following macro shows how to use the **SetFormulas** method. It assumes that there is an active Microsoft Office Visio page that has at least three shapes on it. It uses the **GetFormulas** method to get the width of shape 1, the height of shape 2, and the angle of shape 3. It then uses **SetFormulas** to set the width of shape 1 to the height of shape 2 and the height of shape 2 to the width of shape 1. The angle of shape 3 is left unaltered.
 
-This example uses the  **GetFormulas** method of the **Page** object to get three cell formulas and the **SetFormulas** method of the same object to set the formulas. The input array has four slots for each cell, as it also would for **Master** objects. For **Shape** or **Style** objects, only three slots are needed for each cell (section, row, and cell).
+This example uses the **GetFormulas** method of the **Page** object to get three cell formulas and the **SetFormulas** method of the same object to set the formulas. The input array has four slots for each cell, as it also would for **Master** objects. For **Shape** or **Style** objects, only three slots are needed for each cell (section, row, and cell).
 
 
 

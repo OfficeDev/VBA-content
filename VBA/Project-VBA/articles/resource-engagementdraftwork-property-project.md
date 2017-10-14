@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Resource.EngagementDraftWork Property (Project)
 
-Returns the draft work for the engagement. Read-only  **Double**. Introduced in Office 2016.
+Returns the draft work for the engagement. Read-only **Double**. Introduced in Office 2016.
 
 
 ## Syntax

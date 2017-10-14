@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SchemeColor Property
 
-Returns or sets the color of the specified  **ChartColorFormat** object as an index in the current color scheme. Read/write **Long**.
+Returns or sets the color of the specified **ChartColorFormat** object as an index in the current color scheme. Read/write **Long**.
 
 
 ## Example

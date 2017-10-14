@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Item Method (Office)
 
-Gets the range of text specified by the index number from the  **TextRange2** object.
+Gets the range of text specified by the index number from the **TextRange2** object.
 
 
 ## Syntax

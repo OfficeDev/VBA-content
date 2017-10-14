@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **Database** object specified is not the result of the **OpenDatabase** method, or it has been modified and is no longer valid.
+The **Database** object specified is not the result of the **OpenDatabase** method, or it has been modified and is no longer valid.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

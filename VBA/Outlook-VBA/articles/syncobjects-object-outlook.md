@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # SyncObjects Object (Outlook)
 
-Contains a set of  **[SyncObject](syncobject-object-outlook.md)** objects representing the **Send/Receive** groups for a user.
+Contains a set of **[SyncObject](syncobject-object-outlook.md)** objects representing the **Send/Receive** groups for a user.
 
 
 ## Remarks
 
-Use the  **[SyncObjects](namespace-syncobjects-property-outlook.md)** property to return the **SyncObjects** object from a **[NameSpace](namespace-object-outlook.md)** object.
+Use the **[SyncObjects](namespace-syncobjects-property-outlook.md)** property to return the **SyncObjects** object from a **[NameSpace](namespace-object-outlook.md)** object.
 
-The  **SyncObjects** object is read-only. You cannot add an item to the collection. However, note that you can add one **Send/Receive** group using the **AppFolders** property which will create a **Send/Receive** group called Application Folders.
+The **SyncObjects** object is read-only. You cannot add an item to the collection. However, note that you can add one **Send/Receive** group using the **AppFolders** property which will create a **Send/Receive** group called Application Folders.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example retrieves the  **SyncObjects** object for the MAPI **NameSpace** object.
+The following Microsoft Visual Basic for Applications (VBA) example retrieves the **SyncObjects** object for the MAPI **NameSpace** object.
 
 
 ```

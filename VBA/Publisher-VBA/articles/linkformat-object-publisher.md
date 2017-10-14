@@ -19,18 +19,18 @@ Represents the linking characteristics for an OLE object or picture.
 
 ## Remarks
 
-Not all types of shapes and fields can be linked to a source. Use the  **[Type](shape-type-property-publisher.md)** property for the **[Shape](shape-object-publisher.md)** object to determine whether a particular shape can be linked.
+Not all types of shapes and fields can be linked to a source. Use the **[Type](shape-type-property-publisher.md)** property for the **[Shape](shape-object-publisher.md)** object to determine whether a particular shape can be linked.
  
 
  
-Use the  **[Update](linkformat-update-method-publisher.md)** method to update links. To return or set the full path for a particular link's source file, use the **[SourceFullName](linkformat-sourcefullname-property-publisher.md)** property.
+Use the **[Update](linkformat-update-method-publisher.md)** method to update links. To return or set the full path for a particular link's source file, use the **[SourceFullName](linkformat-sourcefullname-property-publisher.md)** property.
  
 
  
 
 ## Example
 
-Use the  **[LinkFormat](shape-linkformat-property-publisher.md)** property for a shape or field to return a **LinkFormat** object. The following example updates the links to all linked OLE objects on the first page of the active publication.
+Use the **[LinkFormat](shape-linkformat-property-publisher.md)** property for a shape or field to return a **LinkFormat** object. The following example updates the links to all linked OLE objects on the first page of the active publication.
  
 
  

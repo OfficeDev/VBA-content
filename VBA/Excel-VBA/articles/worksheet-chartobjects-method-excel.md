@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.ChartObjects Method (Excel)
 
-Returns an object that represents either a single embedded chart (a  **[ChartObject](chartobject-object-excel.md)** object) or a collection of all the embedded charts (a **[ChartObjects](chartobjects-object-excel.md)** object) on the sheet.
+Returns an object that represents either a single embedded chart (a **[ChartObject](chartobject-object-excel.md)** object) or a collection of all the embedded charts (a **[ChartObjects](chartobjects-object-excel.md)** object) on the sheet.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Object
 
 ## Remarks
 
-This method isn't equivalent to the  **[Charts](workbook-charts-property-excel.md)** property. This method returns embedded charts; the **Charts** property returns chart sheets. Use the **[Chart](chartobject-chart-property-excel.md)** property to return the **Chart** object for an embedded chart.
+This method isn't equivalent to the **[Charts](workbook-charts-property-excel.md)** property. This method returns embedded charts; the **Charts** property returns chart sheets. Use the **[Chart](chartobject-chart-property-excel.md)** property to return the **Chart** object for an embedded chart.
 
 
 ## Example

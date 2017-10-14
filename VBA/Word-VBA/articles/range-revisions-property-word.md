@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Revisions Property (Word)
 
-Returns a  **Revisions** collection that represents the tracked changes in the range. Read-only.
+Returns a **Revisions** collection that represents the tracked changes in the range. Read-only.
 
 
 ## Syntax

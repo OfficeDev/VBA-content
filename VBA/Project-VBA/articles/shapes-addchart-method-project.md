@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddChart Method (Project)
-Creates a chart at the specified location on the active report. Returns a  **Shape** object that represents the chart.
+Creates a chart at the specified location on the active report. Returns a **Shape** object that represents the chart.
 
 ## Syntax
 
@@ -22,7 +22,7 @@ Creates a chart at the specified location on the active report. Returns a  **Sha
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Style_|Optional|**Integer**|Specifies the color style of the chart. The values correspond to the  **Change Colors** drop-down list on the **Chart Styles** group, on the **DESIGN** tab, under **CHART TOOLS** on the ribbon (but the values are not in the same order).|
+| _Style_|Optional|**Integer**|Specifies the color style of the chart. The values correspond to the **Change Colors** drop-down list on the **Chart Styles** group, on the **DESIGN** tab, under **CHART TOOLS** on the ribbon (but the values are not in the same order).|
 | _Type_|Optional|**XlChartType**|The type of chart to add, such as a column chart or pie chart.|
 | _Left_|Optional|**Single**|The position, measured in points, of the left edge of the chart.|
 | _Top_|Optional|**Single**|The position, measured in points, of the top edge of the chart.|

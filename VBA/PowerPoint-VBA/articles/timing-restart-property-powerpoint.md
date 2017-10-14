@@ -30,7 +30,7 @@ MsoAnimEffectRestart
 
 ## Remarks
 
-The value of the  **Restart** property can be one of these **MsoAnimEffectRestart** constants. The default is **msoAnimEffectRestartNever**.
+The value of the **Restart** property can be one of these **MsoAnimEffectRestart** constants. The default is **msoAnimEffectRestartNever**.
 
 
 ||

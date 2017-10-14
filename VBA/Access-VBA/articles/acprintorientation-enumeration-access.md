@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintOrientation Enumeration (Access)
 
-Used with the  **Orientation** property to specify a printer's print orientation.
+Used with the **Orientation** property to specify a printer's print orientation.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.FindRecord Method (Word)
 
-Searches the contents of the specified mail merge data source for text in a particular field. Returns  **True** if the search text is found. **Boolean** .
+Searches the contents of the specified mail merge data source for text in a particular field. Returns **True** if the search text is found. **Boolean** .
 
 
 ## Syntax
@@ -39,9 +39,9 @@ Boolean
 
 ## Remarks
 
-This method corresponds to the  **Find Record** button on the **Mail Merge** toolbar.
+This method corresponds to the **Find Record** button on the **Mail Merge** toolbar.
 
-The  **FindRecord** method does a forward search only. Therefore, if the active record is not the first record in the data source and the record for which you are searching is before the active record, the **FindRecord** method will return no results. To ensure that the entire data source is searched, set the **ActiveRecord** property to **wdFirstRecord** .
+The **FindRecord** method does a forward search only. Therefore, if the active record is not the first record in the data source and the record for which you are searching is before the active record, the **FindRecord** method will return no results. To ensure that the entire data source is searched, set the **ActiveRecord** property to **wdFirstRecord** .
 
 
 ## Example

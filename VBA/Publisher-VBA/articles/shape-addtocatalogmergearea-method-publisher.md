@@ -20,7 +20,7 @@ Adds the specified shape or shapes to the publication page's catalog merge area.
 
  _expression_. **AddToCatalogMergeArea**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Return Value
@@ -32,16 +32,16 @@ Nothing
 
 The catalog merge area is automatically resized to accommodate objects that are larger than the merge area, or that are positioned outside the catalog merge area when they are added.
 
-The  **AddToCatalogMergeArea** method does not apply to merge data fields:
+The **AddToCatalogMergeArea** method does not apply to merge data fields:
 
 
-- Use the  **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection to add a picture data field to a publication page's catalog merge area.
+- Use the **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection to add a picture data field to a publication page's catalog merge area.
     
-- Use the  **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box.
+- Use the **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box.
     
 
 
-Note that to add a text box that will contain text data fields to a catalog merge area, you use the  **AddToCatalogMergeArea** method.
+Note that to add a text box that will contain text data fields to a catalog merge area, you use the **AddToCatalogMergeArea** method.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.FormFields Property (Word)
 
-Returns a  **[FormFields](formfields-object-word.md)** collection that represents all the form fields in the selection. Read-only.
+Returns a **[FormFields](formfields-object-word.md)** collection that represents all the form fields in the selection. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarControl.Execute Method (Office)
 
-Runs the procedure or built-in command assigned to the specified  **CommandBarControl** control.
+Runs the procedure or built-in command assigned to the specified **CommandBarControl** control.
 
 
 ## 
@@ -28,7 +28,7 @@ Runs the procedure or built-in command assigned to the specified  **CommandBarCo
 
 ## Example
 
-This Microsoft Excel example creates a command bar and then adds a built-in command bar button control to it. The button executes the Excel  **AutoSum** function. This example uses the **Execute** method to total the selected range of cells when the command bar appears.
+This Microsoft Excel example creates a command bar and then adds a built-in command bar button control to it. The button executes the Excel **AutoSum** function. This example uses the **Execute** method to total the selected range of cells when the command bar appears.
 
 
 ```

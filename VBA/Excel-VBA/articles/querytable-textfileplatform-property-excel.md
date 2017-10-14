@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFilePlatform Property (Excel)
 
-Returns or sets the origin of the text file you're importing into the query table. This property determines which code page is used during the data import. Read/write  **[XlPlatform](xlplatform-enumeration-excel.md)** .
+Returns or sets the origin of the text file you're importing into the query table. This property determines which code page is used during the data import. Read/write **[XlPlatform](xlplatform-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the origin of the text file you're importing into the query tabl
 
 ## Remarks
 
-The default value is the current setting of the  **File Origin** option in the **Text File Import Wizard**.
+The default value is the current setting of the **File Origin** option in the **Text File Import Wizard**.
 
 
 
@@ -33,13 +33,13 @@ The default value is the current setting of the  **File Origin** option in the *
 | **xlMacintosh**|
 | **xlMSDOS**|
 | **xlWindows**|
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
+Use this property only when your query table is based on data from a text file (with the **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **TextFilePlatform** property applies only to **QueryTable** objects.
+The **TextFilePlatform** property applies only to **QueryTable** objects.
 
 
 ## Example

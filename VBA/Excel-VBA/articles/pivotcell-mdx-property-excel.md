@@ -30,7 +30,7 @@ Returns a tuple that provides the full MDX coordinates of the specified value ce
 
 ## Remarks
 
-The dimensions returned in the tuple by the  **MDX** property include row and column coordinates as well as report filter coordinates. For cells outside the values area of the PivotTable, and outside a PivotTable, accessing this property will generate a run-time error. For PivotTables with multi-item selection in a report filter field, accessing this property will also generate a run-time error.
+The dimensions returned in the tuple by the **MDX** property include row and column coordinates as well as report filter coordinates. For cells outside the values area of the PivotTable, and outside a PivotTable, accessing this property will generate a run-time error. For PivotTables with multi-item selection in a report filter field, accessing this property will also generate a run-time error.
 
 
 ## See also

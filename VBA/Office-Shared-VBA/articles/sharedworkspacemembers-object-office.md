@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceMembers Object (Office)
 
-A collection of the  **[SharedWorkspaceMember](sharedworkspacemember-object-office.md)** objects in the current shared workspace site.
+A collection of the **[SharedWorkspaceMember](sharedworkspacemember-object-office.md)** objects in the current shared workspace site.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -21,7 +21,7 @@ A collection of the  **[SharedWorkspaceMember](sharedworkspacemember-object-offi
 
 ## Example
 
-Use the  **[Members](sharedworkspace-members-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceMembers** collection.
+Use the **[Members](sharedworkspace-members-property-office.md)** property of the **[SharedWorkspace](sharedworkspace-object-office.md)** object to return a **SharedWorkspaceMembers** collection.
 
 
 ```

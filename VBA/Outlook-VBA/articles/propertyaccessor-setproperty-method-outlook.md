@@ -36,9 +36,9 @@ Sets the property specified by  _SchemaName_ to the value specified by _Value_ .
 
 If the property does not exist and the  _SchemaName_ contains a valid property specifier, then **SetProperty** creates the property and assigns the value specified by _Value_ . If the property does exist and _SchemaName_ is valid, then **SetProperty** assigns the property with the value specified by _Value_ .
 
-Note that a custom property created by using the  **[PropertyAccessor](propertyaccessor-object-outlook.md)** is not supported in a custom view. If you want to view a custom property on an item, create the property by using the **[Add](userproperties-add-method-outlook.md)** method of the **[UserProperties](userproperties-object-outlook.md)** object.
+Note that a custom property created by using the **[PropertyAccessor](propertyaccessor-object-outlook.md)** is not supported in a custom view. If you want to view a custom property on an item, create the property by using the **[Add](userproperties-add-method-outlook.md)** method of the **[UserProperties](userproperties-object-outlook.md)** object.
 
-If the parent object of the  **PropertyAccessor** supports an explicit **Save** operation, then the properties should be saved to the object with an explicit **Save** method call. If the object does not support an explicit **Save** operation, then the properties are saved to the object when **SetProperties** is called.
+If the parent object of the **PropertyAccessor** supports an explicit **Save** operation, then the properties should be saved to the object with an explicit **Save** method call. If the object does not support an explicit **Save** operation, then the properties are saved to the object when **SetProperties** is called.
 
 Use caution and ensure that all exceptions are handled correctly. Conditions where setting properties fails include:
 
@@ -55,16 +55,16 @@ Use caution and ensure that all exceptions are handled correctly. Conditions whe
     
 - Cannot open the property because the client is offline.
     
-- The property is created using the  **UserProperties.Add** method. When setting the property for the first time, you must use the **[UserProperty.Value](userproperty-value-property-outlook.md)** property instead of the **[SetProperties](propertyaccessor-setproperties-method-outlook.md)** or **SetProperty** method of the **PropertyAccessor** object.
+- The property is created using the **UserProperties.Add** method. When setting the property for the first time, you must use the **[UserProperty.Value](userproperty-value-property-outlook.md)** property instead of the **[SetProperties](propertyaccessor-setproperties-method-outlook.md)** or **SetProperty** method of the **PropertyAccessor** object.
     
 
 
-For more information on setting properties using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on setting properties using the **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
 
 
 ## Example
 
-The following code sample shows how to use the  **PropertyAccessor** to set a custom property on a **MailItem** object to a value. If the custom property does not exist, **PropertyAccessor.SetProperty** will create and then set the property. The property is saved with the **[MailItem.Save](mailitem-save-method-outlook.md)** method.
+The following code sample shows how to use the **PropertyAccessor** to set a custom property on a **MailItem** object to a value. If the custom property does not exist, **PropertyAccessor.SetProperty** will create and then set the property. The property is saved with the **[MailItem.Save](mailitem-save-method-outlook.md)** method.
 
 
 ```vb

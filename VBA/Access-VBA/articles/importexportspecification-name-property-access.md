@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecification.Name Property (Access)
 
-Gets or sets the name of the specified  **[ImportExportSpecification](importexportspecification-object-access.md)** object. Read/write **String**.
+Gets or sets the name of the specified **[ImportExportSpecification](importexportspecification-object-access.md)** object. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the name of the specified  **[ImportExportSpecification](importexpo
 
 ## Remarks
 
-The  **Name** property must be unique within the **[ImportExportSpecifications](importexportspecifications-object-access.md)** collection and cannot exceed 64 characters.
+The **Name** property must be unique within the **[ImportExportSpecifications](importexportspecifications-object-access.md)** collection and cannot exceed 64 characters.
 
 
 ## See also

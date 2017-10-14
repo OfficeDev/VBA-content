@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyEffect.To Property (PowerPoint)
 
-Sets or returns a  **Variant** that represents the ending value of an object's property. Read/write.
+Sets or returns a **Variant** that represents the ending value of an object's property. Read/write.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Variant
 
 ## Remarks
 
-The default value is  **Empty**, in which case the current position of the object is used.
+The default value is **Empty**, in which case the current position of the object is used.
 
-Do not confuse this property with the  **ToX** or **ToY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ToX** or **ToY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
 
 
 ## See also

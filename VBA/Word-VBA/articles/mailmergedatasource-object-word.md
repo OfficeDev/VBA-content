@@ -18,7 +18,7 @@ Represents the mail merge data source in a mail merge operation.
 
 ## Remarks
 
-Use the  **DataSource** property to return the **MailMergeDataSource** object. The following example displays the name of the data source associated with the active document.
+Use the **DataSource** property to return the **MailMergeDataSource** object. The following example displays the name of the data source associated with the active document.
 
 
 ```

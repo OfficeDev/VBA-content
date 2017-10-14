@@ -15,5 +15,5 @@ ms.date: 06/08/2017
 
 Returns the active window in the [development environment](vbe-glossary.md). Read-only.
  **Remarks**
-When more than one window is open in the development environment, the  **ActiveWindow** property setting is the window with the[focus](vbe-glossary.md). If the main window has the focus,  **ActiveWindow** returns **Nothing**.
+When more than one window is open in the development environment, the **ActiveWindow** property setting is the window with the[focus](vbe-glossary.md). If the main window has the focus, **ActiveWindow** returns **Nothing**.
 

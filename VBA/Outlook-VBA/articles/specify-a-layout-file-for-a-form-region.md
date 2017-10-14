@@ -18,17 +18,17 @@ To run the form region, you must register it in the Windows registry and specify
 ## To specify a file as the layout file for a form region
 
 
-- In the form region manifest XML file, specify the file name of the .OFS file as the value of the  **layoutFile** element.
+- In the form region manifest XML file, specify the file name of the .OFS file as the value of the **layoutFile** element.
     
-If you do not specify a full path name for the .OFS file, then Outlook will look for the file in the same folder as the form region manifest XML file that you have specified in the Windows registry for the form region. Otherwise, you can use environment variables in the  **layoutFile** element, such as the following:
+If you do not specify a full path name for the .OFS file, then Outlook will look for the file in the same folder as the form region manifest XML file that you have specified in the Windows registry for the form region. Otherwise, you can use environment variables in the **layoutFile** element, such as the following:
 
 
 ```
 <layoutFile>%ProgramFiles%\Addin\Addin.ofs</layoutFile>
 ```
 
-You cannot use file paths expressed in the Universal Naming Convention (UNC) for the  **layoutFile** element.
+You cannot use file paths expressed in the Universal Naming Convention (UNC) for the **layoutFile** element.
 
-If you use an add-in to design and deploy a form region, then you must specify the  **addin** element and must not specify the **layout** element.
+If you use an add-in to design and deploy a form region, then you must specify the **addin** element and must not specify the **layout** element.
 
 

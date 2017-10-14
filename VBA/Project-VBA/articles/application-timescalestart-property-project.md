@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.TimescaleStart Property (Project)
 
-Gets the date that the timescale in the current view starts. Read-only  **Variant**.
+Gets the date that the timescale in the current view starts. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,12 +22,12 @@ Gets the date that the timescale in the current view starts. Read-only  **Varian
 
 ## Remarks
 
-Project adjusts the start of the timescale to the beginning of a time period. To change the timescale duration, use any of the following methods:  **ZoomTimescale**,  **ZoomOut**,  **ZoomIn**, or  **Zoom**.
+Project adjusts the start of the timescale to the beginning of a time period. To change the timescale duration, use any of the following methods: **ZoomTimescale**, **ZoomOut**, **ZoomIn**, or **Zoom**.
 
 
 ## Example
 
-If the Gantt chart timescale starts on May 3, 2012, the following statement shows  **5/3/2012** in the **Immediate** pane of the VBE.
+If the Gantt chart timescale starts on May 3, 2012, the following statement shows **5/3/2012** in the **Immediate** pane of the VBE.
 
 
 ```vb

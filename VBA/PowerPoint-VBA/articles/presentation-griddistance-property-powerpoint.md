@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.GridDistance Property (PowerPoint)
 
-Sets or returns a  **Single** that represents the distance between gridlines. Read/write.
+Sets or returns a **Single** that represents the distance between gridlines. Read/write.
 
 
 ## Syntax

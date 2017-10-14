@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.Slides Property (PowerPoint)
 
-Returns a  **[Slides](slides-object-powerpoint.md)** collection that represents all slides in the specified presentation. Read-only.
+Returns a **[Slides](slides-object-powerpoint.md)** collection that represents all slides in the specified presentation. Read-only.
 
 
 ## Syntax

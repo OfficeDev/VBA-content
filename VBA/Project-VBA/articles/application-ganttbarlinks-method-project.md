@@ -29,7 +29,7 @@ Shows or hides task links on the Gantt Chart.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Display_|Optional|**Long**|Where links will be drawn from the ends of predecessor links. Can be one of the  **[PjGanttBarLink](pjganttbarlink-enumeration-project.md)** constants. The default value is **PjNoGanttBarLinks**.|
+| _Display_|Optional|**Long**|Where links will be drawn from the ends of predecessor links. Can be one of the **[PjGanttBarLink](pjganttbarlink-enumeration-project.md)** constants. The default value is **PjNoGanttBarLinks**.|
 
 ### Return Value
 

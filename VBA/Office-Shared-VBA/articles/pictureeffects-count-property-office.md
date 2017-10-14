@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PictureEffects.Count Property (Office)
 
-Retrieves the count of the number of  **PictureEffect** objects contained within the **PictureEffects** collection. Read-only
+Retrieves the count of the number of **PictureEffect** objects contained within the **PictureEffects** collection. Read-only
 
 
 ## Syntax

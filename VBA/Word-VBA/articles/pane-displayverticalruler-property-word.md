@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-A vertical ruler appears only in print layout view, and only if the  **DisplayRulers** property is set to **True** .
+A vertical ruler appears only in print layout view, and only if the **DisplayRulers** property is set to **True** .
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportanceRuleCondition.Importance Property (Outlook)
 
-Returns or sets an  **[OlImportance](olimportance-enumeration-outlook.md)** constant indicating the relative level of importance for the message. Read/write.
+Returns or sets an **[OlImportance](olimportance-enumeration-outlook.md)** constant indicating the relative level of importance for the message. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlImportance](olimportance-enumeration-outlook.md)** cons
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagImportance** .
+This property corresponds to the MAPI property **PidTagImportance** .
 
 
 ## See also

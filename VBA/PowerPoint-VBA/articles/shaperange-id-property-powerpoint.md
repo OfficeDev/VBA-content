@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Id Property (PowerPoint)
 
-Returns a  **Long** that identifies the shape or range of shapes. Read-only.
+Returns a **Long** that identifies the shape or range of shapes. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Long
 
 ## Example
 
-This example adds a new shape to the active presentation, then fills the shape according to the value of the  **Id** property.
+This example adds a new shape to the active presentation, then fills the shape according to the value of the **Id** property.
 
 
 ```vb

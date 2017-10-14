@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Legend Property (PowerPoint)
 
-Returns the legend for the chart. Read-only  **[Legend](legend-object-powerpoint.md)**.
+Returns the legend for the chart. Read-only **[Legend](legend-object-powerpoint.md)**.
 
 
 ## Syntax

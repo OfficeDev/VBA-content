@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # OlPermission Enumeration (Outlook)
 
-Indicates the permission restrictions on an  **Item**.
+Indicates the permission restrictions on an **Item**.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **olDoNotForward**|1| **Item** cannot be forwarded.|
-| **olPermissionTemplate**|2|Outlook will use an Information Rights Management (IRM) template to determine the access and usage permissions for the item. See  **[MailItem.PermissionService](mailitem-permissionservice-property-outlook.md)** and **[SharingItem.PermissionService](sharingitem-permissionservice-property-outlook.md)** properties.|
+| **olPermissionTemplate**|2|Outlook will use an Information Rights Management (IRM) template to determine the access and usage permissions for the item. See **[MailItem.PermissionService](mailitem-permissionservice-property-outlook.md)** and **[SharingItem.PermissionService](sharingitem-permissionservice-property-outlook.md)** properties.|
 | **olUnrestricted**|0| **Item** has no permission restrictions.|
 
 ## Remarks

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Shape.BlackWhiteMode Property (Publisher)
 
-Returns or sets an  **MsoBlackWhiteMode**constant indicating how the specified shape or shape range appears when the publication is viewed in black-and-white mode. Read/write.
+Returns or sets an **MsoBlackWhiteMode**constant indicating how the specified shape or shape range appears when the publication is viewed in black-and-white mode. Read/write.
 
 
 ## Syntax
 
  _expression_. **BlackWhiteMode**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
-The  **BlackWhiteMode** property value can be one of the ** [MsoBlackWhiteMode](http://msdn.microsoft.com/library/2b4d7e22-1277-9f5c-ba52-a37e113477c1%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **BlackWhiteMode** property value can be one of the ** [MsoBlackWhiteMode](http://msdn.microsoft.com/library/2b4d7e22-1277-9f5c-ba52-a37e113477c1%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

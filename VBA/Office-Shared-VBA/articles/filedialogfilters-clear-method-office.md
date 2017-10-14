@@ -25,7 +25,7 @@ Removes all filters currently applied in a file dialog box.
 
 ## Example
 
-The following example iterates through the default filters of the  **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
+The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
 
 
 ```

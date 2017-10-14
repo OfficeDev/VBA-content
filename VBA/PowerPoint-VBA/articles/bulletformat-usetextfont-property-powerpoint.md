@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-You cannot explicitly set this property to  **msoFalse**. Setting the bullet format font (by using the **[Name](font-name-property-powerpoint.md)** property of the **Font** object) sets this property to **msoFalse**. When **UseTextFont** is **msoFalse**, you can set it to **msoTrue** to reset the bullet format to the default font.
+You cannot explicitly set this property to **msoFalse**. Setting the bullet format font (by using the **[Name](font-name-property-powerpoint.md)** property of the **Font** object) sets this property to **msoFalse**. When **UseTextFont** is **msoFalse**, you can set it to **msoTrue** to reset the bullet format to the default font.
 
-The value of the  **UseTextFont** property can be one of these **MsoTriState** constants.
+The value of the **UseTextFont** property can be one of these **MsoTriState** constants.
 
 
 

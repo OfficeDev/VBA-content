@@ -20,9 +20,9 @@ Represents a conditional format.
 
  The **FormatCondition** object is a member of the **[FormatConditions](formatconditions-object-excel.md)** collection. The **FormatConditions** collection can now contain more than three conditional formats for a given range.
 
-Use the  **[Add](formatconditions-add-method-excel.md)** method to create a new conditional format. If a range has mulitple formats, you can use the **[Modify](formatcondition-modify-method-excel.md)** method to change one of the formats, or you can use the **[Delete](formatcondition-delete-method-excel.md)** method to delete a format and then use the **Add** method to create a new format.
+Use the **[Add](formatconditions-add-method-excel.md)** method to create a new conditional format. If a range has mulitple formats, you can use the **[Modify](formatcondition-modify-method-excel.md)** method to change one of the formats, or you can use the **[Delete](formatcondition-delete-method-excel.md)** method to delete a format and then use the **Add** method to create a new format.
 
-Use the  **[Font](formatcondition-font-property-excel.md)**, **[Borders](formatcondition-borders-property-excel.md)**, and **[Interior](formatcondition-interior-property-excel.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren?t supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
+Use the **[Font](formatcondition-font-property-excel.md)**, **[Borders](formatcondition-borders-property-excel.md)**, and **[Interior](formatcondition-interior-property-excel.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren?t supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
 
 
 
@@ -34,7 +34,7 @@ Use the  **[Font](formatcondition-font-property-excel.md)**, **[Borders](formatc
 
 ## Example
 
-Use  **[FormatConditions](range-formatconditions-property-excel.md)** ( _index_ ), where _index_ is the index number of the conditional format, to return a **FormatCondition** object. The following example sets format properties for an existing conditional format for cells E1:E10.
+Use **[FormatConditions](range-formatconditions-property-excel.md)** ( _index_ ), where _index_ is the index number of the conditional format, to return a **FormatCondition** object. The following example sets format properties for an existing conditional format for cells E1:E10.
 
 
 ```

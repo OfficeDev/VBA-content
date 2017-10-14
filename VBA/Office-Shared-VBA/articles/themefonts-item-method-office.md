@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThemeFonts.Item Method (Office)
 
-Gets one of the three language fonts contained in the  **ThemeFonts** collection.
+Gets one of the three language fonts contained in the **ThemeFonts** collection.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Gets one of the three language fonts contained in the  **ThemeFonts** collection
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**MsoFontLanguageIndex**|The index value of the  **ThemeFont** object.|
+| _Index_|Required|**MsoFontLanguageIndex**|The index value of the **ThemeFont** object.|
 
 ### Return Value
 

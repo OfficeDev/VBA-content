@@ -15,7 +15,7 @@ Represents the ruler for the text in the specified shape or for all text in the 
 
 ## Remarks
 
-Use the  **Ruler2** property of the **TextFrame2** object to return the **Ruler2** object that represents the ruler for the text in the specified shape. Use the **TabStops2** property to return the **TabStops2** object that contains the tab stops on the ruler. Use the **Levels** property to return the **RulerLevels2** object that contains the indentation settings for text outline levels.
+Use the **Ruler2** property of the **TextFrame2** object to return the **Ruler2** object that represents the ruler for the text in the specified shape. Use the **TabStops2** property to return the **TabStops2** object that contains the tab stops on the ruler. Use the **Levels** property to return the **RulerLevels2** object that contains the indentation settings for text outline levels.
 
 
 ## Example

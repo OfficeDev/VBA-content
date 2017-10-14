@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.MobileTelephoneNumber Property (Outlook)
 
-Returns or sets a  **String** representing the mobile telephone number for the contact. Read/write.
+Returns or sets a **String** representing the mobile telephone number for the contact. Read/write.
 
 
 ## Syntax

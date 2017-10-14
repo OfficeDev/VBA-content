@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationModule.NavigationModuleType Property (Outlook)
 
-Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an **[olNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax
@@ -25,20 +25,20 @@ Returns an  **[olNavigationModuleType](olnavigationmoduletype-enumeration-outloo
 
 ## Remarks
 
-This property is typically used when casting a  **[NavigationModule](navigationmodule-object-outlook.md)** object to one of the following objects in order to access the **NavigationGroups** property:
+This property is typically used when casting a **[NavigationModule](navigationmodule-object-outlook.md)** object to one of the following objects in order to access the **NavigationGroups** property:
 
 
--  **[CalendarModule](calendarmodule-object-outlook.md)**
+- **[CalendarModule](calendarmodule-object-outlook.md)**
     
--  **[ContactsModule](contactsmodule-object-outlook.md)**
+- **[ContactsModule](contactsmodule-object-outlook.md)**
     
--  **[JournalModule](journalmodule-object-outlook.md)**
+- **[JournalModule](journalmodule-object-outlook.md)**
     
--  **[MailModule](mailmodule-object-outlook.md)**
+- **[MailModule](mailmodule-object-outlook.md)**
     
--  **[NotesModule](notesmodule-object-outlook.md)**
+- **[NotesModule](notesmodule-object-outlook.md)**
     
--  **[TasksModule](tasksmodule-object-outlook.md)**
+- **[TasksModule](tasksmodule-object-outlook.md)**
     
 
 ## See also

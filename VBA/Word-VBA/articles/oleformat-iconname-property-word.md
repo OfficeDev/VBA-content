@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.IconName Property (Word)
 
-Returns or sets the program file in which the icon for an OLE object is stored. Read/write  **String** .
+Returns or sets the program file in which the icon for an OLE object is stored. Read/write **String** .
 
 
 ## Syntax

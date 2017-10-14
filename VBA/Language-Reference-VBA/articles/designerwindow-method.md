@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 
 
-Returns the  **Window** object that represents the component's[designer](vbe-glossary.md).
+Returns the **Window** object that represents the component's[designer](vbe-glossary.md).
  **Syntax**
  _object_**.DesignerWindow**
 The  _object_ placeholder is an[object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.
  **Remarks**
-If the component supports a designer but doesn't have an open designer, using the  **DesignerWindow** method creates the designer, but it isn't visible. To make the window visible, set the **Window** object's **Visible** property to **True**.
+If the component supports a designer but doesn't have an open designer, using the **DesignerWindow** method creates the designer, but it isn't visible. To make the window visible, set the **Window** object's **Visible** property to **True**.
 

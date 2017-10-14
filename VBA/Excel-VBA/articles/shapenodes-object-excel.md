@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNodes Object (Excel)
 
-A collection of all the  **[ShapeNode](shapenode-object-excel.md)** objects in the specified freeform.
+A collection of all the **[ShapeNode](shapenode-object-excel.md)** objects in the specified freeform.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[ShapeNode](shapenode-object-excel.md)** objects in t
 
 ## Example
 
-Use the  **[Nodes](shape-nodes-property-excel.md)** property to return the **[ShapeNodes](shapenodes-object-excel.md)** collection. The following example deletes node four in shape three on _myDocument_ . For this example to work, shape three must be a freeform with at least four nodes.
+Use the **[Nodes](shape-nodes-property-excel.md)** property to return the **[ShapeNodes](shapenodes-object-excel.md)** collection. The following example deletes node four in shape three on _myDocument_ . For this example to work, shape three must be a freeform with at least four nodes.
 
 
 ```vb
@@ -31,7 +31,7 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes(3).Nodes.Delete 4
 ```
 
-Use the  **[Insert](shapenodes-insert-method-excel.md)** method to create a new node and add it to the **ShapeNodes** collection. The following example adds a smooth node with a curved segment after node four in shape three on _myDocument_ . For this example to work, shape three must be a freeform with at least four nodes.
+Use the **[Insert](shapenodes-insert-method-excel.md)** method to create a new node and add it to the **ShapeNodes** collection. The following example adds a smooth node with a curved segment after node four in shape three on _myDocument_ . For this example to work, shape three must be a freeform with at least four nodes.
 
 
 
@@ -43,7 +43,7 @@ With myDocument.Shapes(3).Nodes
 End With
 ```
 
-Use  **Nodes** ( _index_ ), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on _myDocument_ is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
+Use **Nodes** ( _index_ ), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on _myDocument_ is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
 
 
 

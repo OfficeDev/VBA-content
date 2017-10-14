@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Model.Name Property (Excel)
 
-Returns a  **String** value representing the name of the **Model** object. Read-only
+Returns a **String** value representing the name of the **Model** object. Read-only
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Window.Index Property (Project)
 
-Gets the index of a  **Window** object in the containing object. Read-only **Long**.
+Gets the index of a **Window** object in the containing object. Read-only **Long**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the index of a  **Window** object in the containing object. Read-only **Lon
 
 ## Remarks
 
-A  **Window** object can be contained by a **Windows** or a **Windows2** collection object.
+A **Window** object can be contained by a **Windows** or a **Windows2** collection object.
 
-The  **Index** properties of different objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
+The **Index** properties of different objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
 
 

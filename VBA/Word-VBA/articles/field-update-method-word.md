@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.Update Method (Word)
 
-Updates the result of the field. Returns  **True** if the field is updated successfully.
+Updates the result of the field. Returns **True** if the field is updated successfully.
 
 
 ## Syntax

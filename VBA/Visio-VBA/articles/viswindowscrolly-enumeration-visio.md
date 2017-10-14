@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisWindowScrollY Enumeration (Visio)
 
-Y parameters to pass to the  **Window.Scroll** method.
+Y parameters to pass to the **Window.Scroll** method.
 
 
 

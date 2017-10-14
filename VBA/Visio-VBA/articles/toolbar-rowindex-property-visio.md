@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Toolbar.RowIndex Property (Visio)
 
-Gets or sets the docking order of a  **Toolbar** object in relation to other items in the same docking area. Read/write.
+Gets or sets the docking order of a **Toolbar** object in relation to other items in the same docking area. Read/write.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Integer
 
 Objects that have lower numbers are docked first. Several items can share the same row index. If two or more items share the same row index, the item most recently assigned is displayed first in its group.
 
-Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member  **[VisUIBarRow](visuibarrow-enumeration-visio.md)** .
+Constants that represent the first and last positions (see the following table) are declared by the Visio type library in member **[VisUIBarRow](visuibarrow-enumeration-visio.md)** .
 
 
 

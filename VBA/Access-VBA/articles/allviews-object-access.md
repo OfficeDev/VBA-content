@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # AllViews Object (Access)
 
-The  **AllViews** collection contains an **[AccessObject](accessobject-object-access.md)** for each view in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
+The **AllViews** collection contains an **[AccessObject](accessobject-object-access.md)** for each view in the **[CurrentData](currentdata-object-access.md)** or **[CodeData](codedata-object-access.md)** object.
 
 
 ## Remarks
 
-The  **CurrentData** or **CodeData** object has an **AllViews** collection containing **AccessObject** objects that describe instances of all views specified by **CurrentData** or **CodeData**. For example, you can enumerate the **AllViews** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
+The **CurrentData** or **CodeData** object has an **AllViews** collection containing **AccessObject** objects that describe instances of all views specified by **CurrentData** or **CodeData**. For example, you can enumerate the **AllViews** collection in Visual Basic to set or return the values of properties of individual **AccessObject** objects in the collection.
 
-You can refer to an individual  **AccessObject** object in the **AllViews** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllViews** collection, it's better to refer to the view by name because a view's collection index may change.
+You can refer to an individual **AccessObject** object in the **AllViews** collection either by referring to the object by name, or by referring to its index within the collection. If you want to refer to a specific object in the **AllViews** collection, it's better to refer to the view by name because a view's collection index may change.
 
-The  **AllViews** collection is indexed beginning with zero. If you refer to a view by its index, the first view is AllViews(0), the second table is AllViews(1), and so on.
+The **AllViews** collection is indexed beginning with zero. If you refer to a view by its index, the first view is AllViews(0), the second table is AllViews(1), and so on.
 
 
  **Note**  
@@ -30,7 +30,7 @@ The  **AllViews** collection is indexed beginning with zero. If you refer to a v
 
 ## Example
 
-The following example prints the name of each open  **AccessObject** object in the **AllViews** collection.
+The following example prints the name of each open **AccessObject** object in the **AllViews** collection.
 
 
 ```

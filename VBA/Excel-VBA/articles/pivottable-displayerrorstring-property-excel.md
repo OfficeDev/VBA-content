@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[ErrorString](pivottable-errorstring-property-excel.md)** property to set the custom error string.
+Use the **[ErrorString](pivottable-errorstring-property-excel.md)** property to set the custom error string.
 
 This property is particularly useful for suppressing divide-by-zero errors when calculated fields are pivoted.
 

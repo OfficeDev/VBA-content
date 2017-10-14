@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SheetViews Property (Excel)
 
-Returns the  **[SheetViews](sheetviews-object-excel.md)** object for the specified window. Read-only.
+Returns the **[SheetViews](sheetviews-object-excel.md)** object for the specified window. Read-only.
 
 
 ## Syntax

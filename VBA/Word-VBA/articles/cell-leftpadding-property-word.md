@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.LeftPadding Property (Word)
 
-Returns or sets the amount of space (in points) to add to the left of the contents of a single cell or all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the left of the contents of a single cell or all the cells in a table. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the amount of space (in points) to add to the left of the conten
 
 ## Remarks
 
-The setting of the  **LeftPadding** property for a single cell overrides the setting of the **LeftPadding** property for the entire table.
+The setting of the **LeftPadding** property for a single cell overrides the setting of the **LeftPadding** property for the entire table.
 
 
 ## Example

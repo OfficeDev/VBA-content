@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) consisting of the specified number of spaces.
+Returns a **Variant** ( **String** ) consisting of the specified number of spaces.
  **Syntax**
  **Space** ( _number_ )
 The required  _number_[argument](vbe-glossary.md) is the number of spaces you want in the string.
  **Remarks**
-The  **Space** function is useful for formatting output and clearing data in fixed-length strings.
+The **Space** function is useful for formatting output and clearing data in fixed-length strings.
 
 ## Example
 
-This example uses the  **Space** function to return a string consisting of a specified number of spaces.
+This example uses the **Space** function to return a string consisting of a specified number of spaces.
 
 
 ```vb

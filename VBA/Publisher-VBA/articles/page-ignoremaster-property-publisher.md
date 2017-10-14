@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **IgnoreMaster**
 
- _expression_A variable that represents an  **Page** object.
+ _expression_A variable that represents an **Page** object.
 
 
 ### Return Value

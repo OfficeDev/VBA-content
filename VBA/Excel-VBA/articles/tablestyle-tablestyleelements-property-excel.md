@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.TableStyleElements Property (Excel)
 
-Returns the  **[TableStyleElements](tablestyleelements-object-excel.md)** object. Read-only.
+Returns the **[TableStyleElements](tablestyleelements-object-excel.md)** object. Read-only.
 
 
 ## Syntax

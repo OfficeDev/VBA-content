@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.Title Property (Excel)
 
-Returns or sets the title of the Web page when the document is saved as a Web page. Read/write  **String** .
+Returns or sets the title of the Web page when the document is saved as a Web page. Read/write **String** .
 
 
 ## Syntax

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies the position of a control relative to its caption.
  **Syntax**
  _object_. **Alignment** [= _fmAlignment_ ]
-The  **Alignment** property syntax has these parts:
+The **Alignment** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -36,6 +36,6 @@ The settings for  _fmAlignment_ are:
  **Remarks**
 The caption text for a control is left-aligned.
 
- **Note**  Although the  **Alignment** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the **ToggleButton**.
+ **Note**  Although the **Alignment** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the **ToggleButton**.
 
 

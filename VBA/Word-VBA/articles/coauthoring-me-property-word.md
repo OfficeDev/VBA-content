@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.Me Property (Word)
 
-Returns a  **[CoAuthor](coauthor-object-word.md)** object that represents the current user. Read-only.
+Returns a **[CoAuthor](coauthor-object-word.md)** object that represents the current user. Read-only.
 
 
 ## Syntax

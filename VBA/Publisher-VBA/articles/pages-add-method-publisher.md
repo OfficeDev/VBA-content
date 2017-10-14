@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Pages.Add Method (Publisher)
 
-Adds a new  **Page** object to the specified **Pages** object and returns the new **Page** object.
+Adds a new **Page** object to the specified **Pages** object and returns the new **Page** object.
 
 
 ## Syntax
 
- _expression_. **Add**( **_Count_**,  **_After_**,  **_DuplicateObjectsOnPage_**,  **_AddHyperlinkToWebNavBar_**)
+ _expression_. **Add**( **_Count_**, **_After_**, **_DuplicateObjectsOnPage_**, **_AddHyperlinkToWebNavBar_**)
 
- _expression_A variable that represents a  **Pages** object.
+ _expression_A variable that represents a **Pages** object.
 
 
 ### Parameters
@@ -32,7 +32,7 @@ Adds a new  **Page** object to the specified **Pages** object and returns the ne
 |Count|Required| **Long**|The number of new pages to add.|
 |After|Required| **Long**|The page index of the page after which to add the new pages. A zero for this argument adds new pages at the beginning of the publication.|
 |DuplicateObjectsOnPage|Optional| **Long**|The page index of the page from which objects should be copied to the new pages. If this argument is omitted, the new pages will be blank. The default is -1: do not duplicate pages.|
-|AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether links to the new pages will be added to the automatic navigation bars of existing pages. If  **True**, links to the new pages will be added to the automatic navigation bars of existing pages only. If  **False**, links to the new pages will not be added to the automatic navigation bars of existing pages or new pages added in the future. Default is  **False**.|
+|AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether links to the new pages will be added to the automatic navigation bars of existing pages. If **True**, links to the new pages will be added to the automatic navigation bars of existing pages only. If **False**, links to the new pages will not be added to the automatic navigation bars of existing pages or new pages added in the future. Default is **False**.|
 
 ### Return Value
 
@@ -51,9 +51,9 @@ Set pgNew = ActiveDocument.Pages _
  .Add(Count:=4, After:=1, DuplicateObjectsOnPage:=1)
 ```
 
-The following example demonstrates adding two new pages to the publication and setting the  **AddHyperlinkToWebNavBar** parameter to **True** for these two pages. This specifies that links to these two new pages be added to the automatic navigation bars of existing pages and those added in the future.
+The following example demonstrates adding two new pages to the publication and setting the **AddHyperlinkToWebNavBar** parameter to **True** for these two pages. This specifies that links to these two new pages be added to the automatic navigation bars of existing pages and those added in the future.
 
-Another page is then added to the publication, and the  **AddHyperlinkToWebNavBar** is omitted. This means that the **IncludePageOnNewWebNavigationBars** property is **False** for the newly added page, and links to this page will not be included in the automatic navigation bars of existing pages.
+Another page is then added to the publication, and the **AddHyperlinkToWebNavBar** is omitted. This means that the **IncludePageOnNewWebNavigationBars** property is **False** for the newly added page, and links to this page will not be included in the automatic navigation bars of existing pages.
 
 
 

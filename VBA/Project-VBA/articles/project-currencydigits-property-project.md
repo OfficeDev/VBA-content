@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.CurrencyDigits Property (Project)
 
-Sets or returns the number of digits following the decimal separator character in currency values. Read/write  **Integer**.
+Sets or returns the number of digits following the decimal separator character in currency values. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Sets or returns the number of digits following the decimal separator character i
 
 ## Remarks
 
-Project sets the  **CurrencyDigits** property equal to the corresponding value in the **Customize Regional Options** dialog box of the Windows Control Panel.
+Project sets the **CurrencyDigits** property equal to the corresponding value in the **Customize Regional Options** dialog box of the Windows Control Panel.
 
 

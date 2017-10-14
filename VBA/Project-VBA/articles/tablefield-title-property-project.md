@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableField.Title Property (Project)
 
-Gets or sets the title of the field in a table. Read/write  **String**.
+Gets or sets the title of the field in a table. Read/write **String**.
 
 
 ## Syntax
@@ -28,12 +28,12 @@ Gets or sets the title of the field in a table. Read/write  **String**.
  **Title** is the default property of the **TableField** object.
 
 
- **Note**  Many of the fields in a table do not have a default title, so the  **Title** property is an empty string ("").
+ **Note**  Many of the fields in a table do not have a default title, so the **Title** property is an empty string ("").
 
 
 ## Example
 
-The following statement prints "Task Name" in the  **Immediate** pane.
+The following statement prints "Task Name" in the **Immediate** pane.
 
 
 ```vb

@@ -20,7 +20,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 
  _expression_. **SetExtrusionDirection**( **_PresetExtrusionDirection_**)
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
 
 ## Remarks
 
-The PresetExtrusionDirection parameter can be one of the  **MsoPresetExtrusionDirection** constants declared in the Microsoft Office type library and shown in the following table.
+The PresetExtrusionDirection parameter can be one of the **MsoPresetExtrusionDirection** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

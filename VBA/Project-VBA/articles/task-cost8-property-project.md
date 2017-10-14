@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Cost8 Property (Project)
 
-Gets or sets the  **Cost8** custom field for the task. Read/write **Variant**.
+Gets or sets the **Cost8** custom field for the task. Read/write **Variant**.
 
 
 ## Syntax

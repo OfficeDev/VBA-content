@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkSenderPhoto.MouseIcon Property (Outlook)
 
-Returns or sets a  **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
+Returns or sets a **StdPicture** that represents a custom picture to the mouse cursor for this control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **StdPicture** that represents a custom picture to the mouse 
 
 ## Remarks
 
-The custom picture is of the Microsoft Windows type  **StdPicture** . The default value is **Null** ( **Nothing** in Visual Basic).
+The custom picture is of the Microsoft Windows type **StdPicture** . The default value is **Null** ( **Nothing** in Visual Basic).
 
 
 ## See also

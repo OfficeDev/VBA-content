@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Else <keyword>
 
-The  **Else** keyword is used in these contexts:
+The **Else** keyword is used in these contexts:
 
 [If...Then...Else Statement](ifthenelse-statement.md)
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListBox.ItemsSelected Property (Access)
 
-You can use the  **ItemsSelected** property to return a read-only reference to the hidden **ItemsSelected** collection. This hidden collection can be used to access data in the selected rows of a multiselect list box control.
+You can use the **ItemsSelected** property to return a read-only reference to the hidden **ItemsSelected** collection. This hidden collection can be used to access data in the selected rows of a multiselect list box control.
 
 
 ## Syntax
@@ -25,20 +25,20 @@ You can use the  **ItemsSelected** property to return a read-only reference to t
 
 ## Remarks
 
-The  **ItemsSelected** collection is unlike other collections in that it is a collection of **Variants** rather than of objects. Each **Variant** is an integer index referring to a selected row in a list box or combo box.
+The **ItemsSelected** collection is unlike other collections in that it is a collection of **Variants** rather than of objects. Each **Variant** is an integer index referring to a selected row in a list box or combo box.
 
-Use the  **ItemsSelected** collection in conjunction with the **Column** property or the **ItemData** property to retrieve data from selected rows in a list box or combo box. You can list the **ItemsSelected** collection by using the **For Each...Next** statement.
+Use the **ItemsSelected** collection in conjunction with the **Column** property or the **ItemData** property to retrieve data from selected rows in a list box or combo box. You can list the **ItemsSelected** collection by using the **For Each...Next** statement.
 
-For example, if you have an Employees list box on a form, you can list the  **ItemsSelected** collection and use the control's **ItemData** property to return the value of the bound column for each selected row in the list box.
+For example, if you have an Employees list box on a form, you can list the **ItemsSelected** collection and use the control's **ItemData** property to return the value of the bound column for each selected row in the list box.
 
-To enable multiple selection of rows in a list box, set the control's  **MultiSelect** property to Simple or Extended.
+To enable multiple selection of rows in a list box, set the control's **MultiSelect** property to Simple or Extended.
 
-The  **ItemsSelected** collection has no methods and two properties, the **Count** and **Item** properties.
+The **ItemsSelected** collection has no methods and two properties, the **Count** and **Item** properties.
 
 
 ## Example
 
-The following example prints the value of the bound column for each selected row in a Names list box on a Contacts form. To try this example, create the list box and set its  **BoundColumn** property as desired and its **MultiSelect** property to Simple or Extended. Switch to Form view, select several rows in the list box, and run the following code:
+The following example prints the value of the bound column for each selected row in a Names list box on a Contacts form. To try this example, create the list box and set its **BoundColumn** property as desired and its **MultiSelect** property to Simple or Extended. Switch to Form view, select several rows in the list box, and run the following code:
 
 
 ```vb

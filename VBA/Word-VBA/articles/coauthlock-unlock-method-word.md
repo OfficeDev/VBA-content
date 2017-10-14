@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-The  **Unlock** method unlocks the specified lock even if it belongs to another user other than the current user.
+The **Unlock** method unlocks the specified lock even if it belongs to another user other than the current user.
 
 
 ## Example

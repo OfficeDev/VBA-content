@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.Alignment Property (Word)
 
-Returns or sets an  **MsoTextEffectAlignment** constant that represents the alignment for the specified text effect. Read/write.
+Returns or sets an **MsoTextEffectAlignment** constant that represents the alignment for the specified text effect. Read/write.
 
 
 ## Syntax

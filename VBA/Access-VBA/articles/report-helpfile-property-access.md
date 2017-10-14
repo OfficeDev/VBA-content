@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.HelpFile Property (Access)
 
-The name of a help file associated with a report. Read/write  **String**.
+The name of a help file associated with a report. Read/write **String**.
 
 
 ## Syntax

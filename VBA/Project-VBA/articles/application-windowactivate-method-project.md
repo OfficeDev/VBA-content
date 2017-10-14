@@ -30,7 +30,7 @@ Activates a window.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _WindowName_|Optional|**String**|The name of the window to activate. The name of a window is the exact text that appears in the title bar of the window. The default is the name of the active window.|
-| _DialogID_|Optional|**Long**|A constant specifying the dialog box to activate. Can be the following  **[PjDialog](pjdialog-enumeration-project.md)** constant: **pjResourceAssignment**.|
+| _DialogID_|Optional|**Long**|A constant specifying the dialog box to activate. Can be the following **[PjDialog](pjdialog-enumeration-project.md)** constant: **pjResourceAssignment**.|
 | _TopPane_|Optional|**Boolean**|**True** if Project should activate the upper pane. The default value is **True**.|
 
 ### Return Value
@@ -40,7 +40,7 @@ Activates a window.
 
 ## Example
 
-The following examples allow the user to specify and activate a "hot" window. If you assign the  **ActivateBookmarkedWindow** macro to a shortcut key, you can press that key to quickly activate the bookmarked window.
+The following examples allow the user to specify and activate a "hot" window. If you assign the **ActivateBookmarkedWindow** macro to a shortcut key, you can press that key to quickly activate the bookmarked window.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Delete Method (Office)
 
-Deletes  **CommandBarCombo** control object from its collection.
+Deletes **CommandBarCombo** control object from its collection.
 
 
 ## Syntax

@@ -30,10 +30,10 @@ Determines the visual appearance of the container. Read/write.
 
 ## Remarks
 
-The value of the  **ContainerStyle** property corresponds to the numerical identifier (ID) of the container style that is selected in the **Container Styles** gallery on the **Container Tools Format** tab.
+The value of the **ContainerStyle** property corresponds to the numerical identifier (ID) of the container style that is selected in the **Container Styles** gallery on the **Container Tools Format** tab.
 
-The value of the  **ContainerStyle** should always be greater than zero.
+The value of the **ContainerStyle** should always be greater than zero.
 
-If no value is assigned to the  **ContainerStyle** property or it is set to a null value, a runtime error ensues. A runtime error also ensues if you assign the property a value that is less than 1 or greater than the maximum ID number in the **Container Styles** gallery.
+If no value is assigned to the **ContainerStyle** property or it is set to a null value, a runtime error ensues. A runtime error also ensues if you assign the property a value that is less than 1 or greater than the maximum ID number in the **Container Styles** gallery.
 
 

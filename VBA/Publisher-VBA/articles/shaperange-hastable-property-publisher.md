@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.HasTable Property (Publisher)
 
-Returns  **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
+Returns **msoTrue** if the shape represents a **TableFrame** object or **msoFalse** if the shape represents any other object type. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasTable**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

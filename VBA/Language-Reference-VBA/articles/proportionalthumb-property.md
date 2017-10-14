@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies whether the size of the scroll box is proportional to the scrolling region or fixed.
  **Syntax**
  _object_. **ProportionalThumb** [= _Boolean_ ]
-The  **ProportionalThumb** property syntax has these parts:
+The **ProportionalThumb** property syntax has these parts:
 
 
 |**Part**|**Description**|

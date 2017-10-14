@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Parent Property (Office)
 
-Gets the  **Parent** object for the **CommandBarComboBox** object. Read-only.
+Gets the **Parent** object for the **CommandBarComboBox** object. Read-only.
 
 
 ## 

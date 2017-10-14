@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialogFilter.Extensions Property (Office)
 
-Gets a value containing the extensions that determine which files are displayed in a file dialog box for each  **Filter** object. Read-only.
+Gets a value containing the extensions that determine which files are displayed in a file dialog box for each **Filter** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ String
 
 ## Example
 
-The following example displays the extensions and descriptions for Microsoft Excel files by iterating through the filter in the  **SaveAs** dialog box.
+The following example displays the extensions and descriptions for Microsoft Excel files by iterating through the filter in the **SaveAs** dialog box.
 
 
 ```

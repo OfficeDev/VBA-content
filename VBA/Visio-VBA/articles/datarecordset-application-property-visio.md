@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordset.Application Property (Visio)
 
-Returns the instance of Microsoft Visio associated with a  **DataRecordset** object. Read-only.
+Returns the instance of Microsoft Visio associated with a **DataRecordset** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

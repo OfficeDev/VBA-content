@@ -18,7 +18,7 @@ Represents an e-mail message.
 
 ## Remarks
 
-Use the  **[Email](document-email-property-word.md)** property to return the **Email** object. The **Email** object and its properties are valid only if the active document is an unsent forward, reply, or new e-mail message.
+Use the **[Email](document-email-property-word.md)** property to return the **Email** object. The **Email** object and its properties are valid only if the active document is an unsent forward, reply, or new e-mail message.
 
 This example displays the name of the style associated with the current e-mail author.
 
@@ -30,7 +30,7 @@ MsgBox ActiveDocument.Email _
  .CurrentEmailAuthor.Style.NameLocal
 ```
 
-The author style name is the same as the value returned by the  **[UserName](application-username-property-word.md)** property.
+The author style name is the same as the value returned by the **[UserName](application-username-property-word.md)** property.
 
 
  **Note**   There is no Emails collection; each **Document** object contains only one **Email** object.

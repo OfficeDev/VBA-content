@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.InlineShape Property (Word)
 
-Returns an  **[InlineShape](inlineshape-object-word.md)** object that represents the picture, OLE object, or ActiveX control that is the result of an INCLUDEPICTURE or EMBED field.
+Returns an **[InlineShape](inlineshape-object-word.md)** object that represents the picture, OLE object, or ActiveX control that is the result of an INCLUDEPICTURE or EMBED field.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[InlineShape](inlineshape-object-word.md)** object that represents
 
 ## Remarks
 
-An  **InlineShape** object is treated like a character and is positioned as a character within a line of text.
+An **InlineShape** object is treated like a character and is positioned as a character within a line of text.
 
 
 ## Example

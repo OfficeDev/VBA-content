@@ -8,6 +8,6 @@ ms.date: 06/08/2017
 
 # Digital Signature Command (Tools Menu)
 
-Displays the  **Digital Signature** dialog box where you can set the digital signature certificate for your project.
+Displays the **Digital Signature** dialog box where you can set the digital signature certificate for your project.
 
 

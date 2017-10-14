@@ -18,9 +18,9 @@ Represents information for a time zone as supported by Microsoft Windows.
 
 ## Remarks
 
-The  **TimeZone** object is an Outlook wrapper for time zone data.
+The **TimeZone** object is an Outlook wrapper for time zone data.
 
-This data can be obtained from the Windows registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones. In this case, some properties of this object are parts of in the  **TZI** value for the time zone in the registry. A **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](http://msdn.microsoft.com/library/base.time_zone_information_str%28Office.15%29.aspx)** structure.
+This data can be obtained from the Windows registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones. In this case, some properties of this object are parts of in the **TZI** value for the time zone in the registry. A **TZI** value is mapped to the Windows **[TIME_ZONE_INFORMATION](http://msdn.microsoft.com/library/base.time_zone_information_str%28Office.15%29.aspx)** structure.
 
 
 ## Properties

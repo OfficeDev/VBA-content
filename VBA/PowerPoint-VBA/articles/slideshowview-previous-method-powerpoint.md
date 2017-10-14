@@ -25,7 +25,7 @@ Shows the slide immediately preceding the slide that's currently displayed.
 
 ## Remarks
 
-If you are currently on the first slide in a kiosk slide show, the  **Previous** method takes you to the last slide in a slide show; otherwise, it has no effect if the first slide in the presentation is currently displayed. Use the **[View](slideshowwindow-view-property-powerpoint.md)** property of the **SlideShowWindow** object to return the **SlideShowView** object.
+If you are currently on the first slide in a kiosk slide show, the **Previous** method takes you to the last slide in a slide show; otherwise, it has no effect if the first slide in the presentation is currently displayed. Use the **[View](slideshowwindow-view-property-powerpoint.md)** property of the **SlideShowWindow** object to return the **SlideShowView** object.
 
 
 ## Example

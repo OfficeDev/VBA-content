@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.NewWindow Method (Word)
 
-Opens a new window with the same document as the specified window. Returns a  **Window** object.
+Opens a new window with the same document as the specified window. Returns a **Window** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Window
 
 ## Remarks
 
-If the  **NewWindow** method is used with the **Application** object, a new window is opened for the active window. The following two instructions are functionally equivalent.
+If the **NewWindow** method is used with the **Application** object, a new window is opened for the active window. The following two instructions are functionally equivalent.
 
 
 ```vb

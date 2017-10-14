@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Next Property (Word)
 
-Returns a  **TextFrame** object that represents the next text frame in a collection of shapes. Read-only.
+Returns a **TextFrame** object that represents the next text frame in a collection of shapes. Read-only.
 
 
 ## Syntax

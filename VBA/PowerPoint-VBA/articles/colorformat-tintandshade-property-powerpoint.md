@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-You can enter a value from -1 (darkest) to 1 (lightest) for the  **TintAndShade** property, 0 (zero) being neutral.
+You can enter a value from -1 (darkest) to 1 (lightest) for the **TintAndShade** property, 0 (zero) being neutral.
 
 
 ## See also

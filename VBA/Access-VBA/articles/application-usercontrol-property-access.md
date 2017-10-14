@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UserControl Property (Access)
 
-You can use the  **UserControl** property to determine whether the current Microsoft Access application was started by the user or by another application with Automation, formerly called OLE Automation. Read/write **Boolean**.
+You can use the **UserControl** property to determine whether the current Microsoft Access application was started by the user or by another application with Automation, formerly called OLE Automation. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **UserControl** property to determine whether the current Micro
 
 ## Remarks
 
-The  **UserControl** property uses the following settings.
+The **UserControl** property uses the following settings.
 
 
 
@@ -33,11 +33,11 @@ The  **UserControl** property uses the following settings.
 |:-----|:-----|
 |**True**|The current application was started by the user.|
 |**False**|The current application was started by another application with Automation.|
-This property is read-only in all views when user starts the Access application. If Microsoft Access is started by OLE Automation, the  **UserControl** property can be set in Visual Basic.
+This property is read-only in all views when user starts the Access application. If Microsoft Access is started by OLE Automation, the **UserControl** property can be set in Visual Basic.
 
-When an application is launched by the user, the  **Visible** and **UserControl** properties of the **[Application](application-object-access.md)** object are both set to **True**. When the **UserControl** property is set to **True**, it isn't possible to set the **Visible** property of the object to **False**.
+When an application is launched by the user, the **Visible** and **UserControl** properties of the **[Application](application-object-access.md)** object are both set to **True**. When the **UserControl** property is set to **True**, it isn't possible to set the **Visible** property of the object to **False**.
 
-When an  **Application** object is created by using Automation, the **Visible** and **UserControl** properties of the object are both set to **False**.
+When an **Application** object is created by using Automation, the **Visible** and **UserControl** properties of the object are both set to **False**.
 
 
 ## Example

@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **[MinimumScale](minimumscale-property.md)** property sets this property to  **False**.
+Setting the **[MinimumScale](minimumscale-property.md)** property sets this property to **False**.
 
 
 ## Example

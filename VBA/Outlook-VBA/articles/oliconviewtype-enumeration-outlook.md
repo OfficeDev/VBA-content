@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlIconViewType Enumeration (Outlook)
 
-Indicates the view mode when using an  **[IconView](iconview-object-outlook.md)** object.
+Indicates the view mode when using an **[IconView](iconview-object-outlook.md)** object.
 
 
 
@@ -25,6 +25,6 @@ Indicates the view mode when using an  **[IconView](iconview-object-outlook.md)*
 
 ## Remarks
 
-For  **olIconViewLarge** and **olIconViewSmall**, the actual placement and orientation of icons displayed in the [IconView](iconview-object-outlook.md) object is determined by the[OlIconViewPlacement](oliconviewplacement-enumeration-outlook.md) constant specified in the[IconPlacement](iconview-iconplacement-property-outlook.md) property of the **IconView** object. The **IconPlacement** property value is ignored when **olIconViewList** is selected.
+For **olIconViewLarge** and **olIconViewSmall**, the actual placement and orientation of icons displayed in the [IconView](iconview-object-outlook.md) object is determined by the[OlIconViewPlacement](oliconviewplacement-enumeration-outlook.md) constant specified in the[IconPlacement](iconview-iconplacement-property-outlook.md) property of the **IconView** object. The **IconPlacement** property value is ignored when **olIconViewList** is selected.
 
 

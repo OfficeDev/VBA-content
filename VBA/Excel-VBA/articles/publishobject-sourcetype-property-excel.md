@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.SourceType Property (Excel)
 
-Returns a  **[XlSourceType](xlsourcetype-enumeration-excel.md)** value that represents the type of item being published.
+Returns a **[XlSourceType](xlsourcetype-enumeration-excel.md)** value that represents the type of item being published.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[XlSourceType](xlsourcetype-enumeration-excel.md)** value that repr
 
 ## Example
 
-This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the  **Boolean** variable `blnChartFound` to **True** . If no items in the document have been saved as Chart components, `blnChartFound` is **False** .
+This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the **Boolean** variable `blnChartFound` to **True** . If no items in the document have been saved as Chart components, `blnChartFound` is **False** .
 
 
 ```vb

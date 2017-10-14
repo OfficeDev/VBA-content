@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.LevelProposedBookings Property (Project)
 
-Gets or sets a value that indicates whether proposed assignment bookings will be leveled. Read/write  **Boolean**.
+Gets or sets a value that indicates whether proposed assignment bookings will be leveled. Read/write **Boolean**.
 
 
 ## Syntax
@@ -24,6 +24,6 @@ Gets or sets a value that indicates whether proposed assignment bookings will be
 
 When the booking type is proposed, the resource is not yet assigned to the project and the resource calendar remains unchanged by the proposed assignment.
 
-The  **[LevelingOptions](application-levelingoptions-method-project.md)** method includes a LevelProposedBookings parameter.
+The **[LevelingOptions](application-levelingoptions-method-project.md)** method includes a LevelProposedBookings parameter.
 
 

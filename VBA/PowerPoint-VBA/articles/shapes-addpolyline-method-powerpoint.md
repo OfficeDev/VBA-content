@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddPolyline Method (PowerPoint)
 
-Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new polyline or polygon.
+Creates an open polyline or a closed polygon drawing. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new polyline or polygon.
 
 
 ## Syntax

@@ -20,14 +20,14 @@ Sets the BorderArt on the specified shape back to its default color.
 
  _expression_. **RevertToOriginalColor**
 
- _expression_A variable that represents a  **BorderArtFormat** object.
+ _expression_A variable that represents a **BorderArtFormat** object.
 
 
 ## Remarks
 
-The  **RevertToOriginalColor** method has the same effect as the **Default** selection on the **Color** control on the **Format <Shape&gt;** dialog box.
+The **RevertToOriginalColor** method has the same effect as the **Default** selection on the **Color** control on the **Format <Shape&gt;** dialog box.
 
-Use the  **[Color](borderartformat-color-property-publisher.md)** property of the **[BorderArtFormat](borderartformat-object-publisher.md)** object to set the BorderArt to a color other than the original color.
+Use the **[Color](borderartformat-color-property-publisher.md)** property of the **[BorderArtFormat](borderartformat-object-publisher.md)** object to set the BorderArt to a color other than the original color.
 
 
 ## Example

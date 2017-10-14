@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # VbVarType (Object Browser)
 
-The  **VbVarType** enumeration contains constants used to identify the various types of data that can be contained in a **Variant**. These constants match the return values of the **VarType** function and can be used anywhere in your code.
+The **VbVarType** enumeration contains constants used to identify the various types of data that can be contained in a **Variant**. These constants match the return values of the **VarType** function and can be used anywhere in your code.
 
  **To get Help on a particular constant**
 
 
 
 
-1. Select the constant from the  **Members of 'VbVarType'** list.
+1. Select the constant from the **Members of 'VbVarType'** list.
     
 2. Click the 
 ![Help button](images/but_help_ZA01201583.gif) button.

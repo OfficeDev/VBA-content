@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.EmailSignature Property (Word)
 
-Returns an  **[EmailSignature](emailsignature-object-word.md)** object that represents the signatures Microsoft Word appends to outgoing e-mail messages. Read-only.
+Returns an **[EmailSignature](emailsignature-object-word.md)** object that represents the signatures Microsoft Word appends to outgoing e-mail messages. Read-only.
 
 
 ## Syntax

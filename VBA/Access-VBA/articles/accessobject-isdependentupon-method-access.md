@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccessObject.IsDependentUpon Method (Access)
 
-Returns a  **Boolean** value that indicates whether the specified object is dependent upon the database object specified in the _ObjectName_ argument.
+Returns a **Boolean** value that indicates whether the specified object is dependent upon the database object specified in the _ObjectName_ argument.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **Boolean** value that indicates whether the specified object is depe
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Required|**AcObjectType**|An  **[AcObjectType](acobjecttype-enumeration-access.md)** constant that represents the type of database object to check for dependency.|
+| _ObjectType_|Required|**AcObjectType**|An **[AcObjectType](acobjecttype-enumeration-access.md)** constant that represents the type of database object to check for dependency.|
 | _ObjectName_|Required|**String**|The name of the database object to check for dependency.|
 
 ### Return Value
@@ -42,9 +42,9 @@ Boolean
 This method will return a run-time error if any of the following conditions are true:
 
 
-- The  **Track name AutoCorrect info** setting ( **Tools** menu, **Options** dialog box, **General** tab) is disabled. You can use the following code to enable the **Track name AutoCorrect info** setting and update the dependency information for all of the objects in the database: `Application.SetOption "Track Name AutoCorrect Info", 1`
+- The **Track name AutoCorrect info** setting ( **Tools** menu, **Options** dialog box, **General** tab) is disabled. You can use the following code to enable the **Track name AutoCorrect info** setting and update the dependency information for all of the objects in the database: `Application.SetOption "Track Name AutoCorrect Info", 1`
     
-- You have insufficient permissions to check the dependency information for the specified  **AccessObject** object.
+- You have insufficient permissions to check the dependency information for the specified **AccessObject** object.
     
 - This method is being called from an Access project (.adp).
     

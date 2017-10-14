@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # RulerLevel2.Creator Property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **RulerLevel2** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **RulerLevel2** object was created. Read-only.
 
 
 ## Syntax

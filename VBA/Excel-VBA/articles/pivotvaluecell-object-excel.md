@@ -16,7 +16,7 @@ Provides a way to expose values of cells in the case that actual cells ( **Range
 
 ## Example
 
-This code sample uses the  **PivotValueCell** property to test whether the value of one cell in a PivotTable is greater than another cell.
+This code sample uses the **PivotValueCell** property to test whether the value of one cell in a PivotTable is greater than another cell.
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelMeasure.Description Property (Excel)
 
-The description of the model measure. Read/write  **String**.
+The description of the model measure. Read/write **String**.
 
 
 ## Syntax

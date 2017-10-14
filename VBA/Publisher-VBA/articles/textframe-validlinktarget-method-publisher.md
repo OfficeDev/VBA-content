@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.ValidLinkTarget Method (Publisher)
 
-Determines whether the text frame of one shape can be linked to the text frame of another shape. Returns  **True** if **_LinkTarget_** is a valid target, **False** if **_LinkTarget_** already contains text or is already linked, or if the shape does not support attached text.
+Determines whether the text frame of one shape can be linked to the text frame of another shape. Returns **True** if **_LinkTarget_** is a valid target, **False** if **_LinkTarget_** already contains text or is already linked, or if the shape does not support attached text.
 
 
 ## Syntax
 
  _expression_. **ValidLinkTarget**( **_LinkTarget_**)
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ### Parameters

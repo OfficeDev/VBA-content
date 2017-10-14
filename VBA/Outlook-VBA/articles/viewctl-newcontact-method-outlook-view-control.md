@@ -15,11 +15,11 @@ Creates and displays a new contact.
 
  _expression_. **NewContact**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
 
-When the new contact is saved, it is saved to the  **Contact**folder, if any, that is displayed in the control. If there is no  **Contact** folder displayed in the control, the contact is saved to the user's default **Contacts** folder.
+When the new contact is saved, it is saved to the **Contact**folder, if any, that is displayed in the control. If there is no **Contact** folder displayed in the control, the contact is saved to the user's default **Contacts** folder.
 
 

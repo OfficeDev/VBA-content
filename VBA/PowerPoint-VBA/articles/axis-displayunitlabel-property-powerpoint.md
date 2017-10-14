@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.DisplayUnitLabel Property (PowerPoint)
 
-Returns the  **[DisplayUnitLabel](displayunitlabel-object-powerpoint.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](axis-hasdisplayunitlabel-property-powerpoint.md)** property is set to **False**. Read-only.
+Returns the **[DisplayUnitLabel](displayunitlabel-object-powerpoint.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](axis-hasdisplayunitlabel-property-powerpoint.md)** property is set to **False**. Read-only.
 
 
 ## Syntax

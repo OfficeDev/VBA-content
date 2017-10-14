@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-Setting the  **ShowGuides** property is equivalent to selecting **Guides** in the **Show/Hide** group on the **View** tab.
+Setting the **ShowGuides** property is equivalent to selecting **Guides** in the **Show/Hide** group on the **View** tab.
 
 

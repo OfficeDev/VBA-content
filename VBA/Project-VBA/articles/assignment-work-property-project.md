@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Work Property (Project)
 
-Gets or sets the work (in minutes) for the assignment. Read/write  **Variant**.
+Gets or sets the work (in minutes) for the assignment. Read/write **Variant**.
 
 
 ## Syntax

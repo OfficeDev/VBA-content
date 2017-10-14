@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Hyperlink Object (Publisher)
 
-Represents a hyperlink. The  **Hyperlink** object is a member of the **[Hyperlinks](hyperlinks-object-publisher.md)** collection and the **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** and **[ShapeRange](shaperange-object-publisher.md)** objects.
+Represents a hyperlink. The **Hyperlink** object is a member of the **[Hyperlinks](hyperlinks-object-publisher.md)** collection and the **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** and **[ShapeRange](shaperange-object-publisher.md)** objects.
 
 
 ## Example
 
-Use the  **[Hyperlink](http://msdn.microsoft.com/library/0990ab32-b4a3-6c89-cb9f-8f8c64ef804f%28Office.15%29.aspx)** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example deletes the hyperlink associated with the first shape in the active document.
+Use the **[Hyperlink](http://msdn.microsoft.com/library/0990ab32-b4a3-6c89-cb9f-8f8c64ef804f%28Office.15%29.aspx)** property to return a **Hyperlink** object associated with a shape (a shape can have only one hyperlink). The following example deletes the hyperlink associated with the first shape in the active document.
 
 
 ```
@@ -27,7 +27,7 @@ Sub DeleteHyperlink()
 End Sub
 ```
 
-Use  **Hyperlinks** (index), where index is the index number, to return a single **Hyperlink** object from a document, range, or selection. The following example deletes the first hyperlink in the selection.
+Use **Hyperlinks** (index), where index is the index number, to return a single **Hyperlink** object from a document, range, or selection. The following example deletes the first hyperlink in the selection.
 
 
 
@@ -40,7 +40,7 @@ Sub DeleteSelectedHyperlink()
 End Sub
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e43a21b1%28Office.15%29.aspx)** method to add a hyperlink. The following example adds a hyperlink to the selected text.
+Use the **[Add](http://msdn.microsoft.com/library/f5a8cc01-a571-623d-bfab-fe48e43a21b1%28Office.15%29.aspx)** method to add a hyperlink. The following example adds a hyperlink to the selected text.
 
 
 
@@ -52,7 +52,7 @@ Sub AddHyperlinkToSelectedText()
 End Sub
 ```
 
-Use the  **[Address](http://msdn.microsoft.com/library/784a9213-38bc-c5fd-f215-abeb174ec628%28Office.15%29.aspx)** property to add or change the address to a hyperlink. The following example adds a shape to the active publication and then adds a hyperlink to the shape.
+Use the **[Address](http://msdn.microsoft.com/library/784a9213-38bc-c5fd-f215-abeb174ec628%28Office.15%29.aspx)** property to add or change the address to a hyperlink. The following example adds a shape to the active publication and then adds a hyperlink to the shape.
 
 
 

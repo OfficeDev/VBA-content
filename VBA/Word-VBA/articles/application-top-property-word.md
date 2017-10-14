@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Top Property (Word)
 
-Returns or sets the vertical position of the active document. Read/write  **Long** .
+Returns or sets the vertical position of the active document. Read/write **Long** .
 
 
 ## Syntax

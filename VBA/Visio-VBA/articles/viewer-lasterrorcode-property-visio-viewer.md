@@ -17,7 +17,7 @@ Gets the last error code returned by Microsoft Visio Viewer. Read-only.
 
  _expression_. **LastErrorCode**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,9 +27,9 @@ Gets the last error code returned by Microsoft Visio Viewer. Read-only.
 
 ## Remarks
 
-The default value of the  **LastErrorCode** property is 0.
+The default value of the **LastErrorCode** property is 0.
 
-To determine what the error code returned by the  **LastErrorCode** property means, you can pass the code to the **[GetErrorMessage](viewer-geterrormessage-method-visio-viewer.md)** method.
+To determine what the error code returned by the **LastErrorCode** property means, you can pass the code to the **[GetErrorMessage](viewer-geterrormessage-method-visio-viewer.md)** method.
 
 
 ## Example

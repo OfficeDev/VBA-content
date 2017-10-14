@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Ruler2.Levels Property (Office)
 
-Gets a  **RulerLevels2** object that represents outline text formatting. Read-only.
+Gets a **RulerLevels2** object that represents outline text formatting. Read-only.
 
 
 ## Syntax

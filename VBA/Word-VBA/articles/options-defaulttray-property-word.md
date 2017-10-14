@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultTray Property (Word)
 
-Returns or sets the default tray your printer uses to print documents. Read/write  **String** .
+Returns or sets the default tray your printer uses to print documents. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the default tray your printer uses to print documents. Read/writ
 
 ## Remarks
 
-When setting this property, you must specify a string found in the  **Default** tray box on the **Print** tab in the **Options** dialog box. You can use the **[DefaultTrayID](options-defaulttrayid-property-word.md)** property and specify a **WdPaperTray** constant to set this same option.
+When setting this property, you must specify a string found in the **Default** tray box on the **Print** tab in the **Options** dialog box. You can use the **[DefaultTrayID](options-defaulttrayid-property-word.md)** property and specify a **WdPaperTray** constant to set this same option.
 
 
 ## Example
@@ -37,7 +37,7 @@ This example sets Word up to use the lower print tray.
 Options.DefaultTray = "Lower tray"
 ```
 
-This example returns the string found in the  **Default tray** box on the **Print** tab in the **Options** dialog box.
+This example returns the string found in the **Default tray** box on the **Print** tab in the **Options** dialog box.
 
 
 

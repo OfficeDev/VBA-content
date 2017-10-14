@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelFormatDecimalNumber.DecimalPlaces Property (Excel)
 
-Specifies the number of decimal places after the dot. Read/write  **Long**.
+Specifies the number of decimal places after the dot. Read/write **Long**.
 
 
 ## Syntax

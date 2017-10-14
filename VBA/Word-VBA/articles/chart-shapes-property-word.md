@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Shapes Property (Word)
 
-Returns a collection that represents all the shapes on the chart sheet. Read-only  **[Shapes](shapes-object-word.md)** .
+Returns a collection that represents all the shapes on the chart sheet. Read-only **[Shapes](shapes-object-word.md)** .
 
 
 ## Syntax

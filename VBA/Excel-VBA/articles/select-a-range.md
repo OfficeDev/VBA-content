@@ -14,7 +14,7 @@ These examples show how to select the used range, which includes formatted cells
 
 ## Selecting the Used Range
 
-This example shows how to select the used range on the current sheet, which includes formatted cells that do not contain data, by using the  **[UsedRange](worksheet-usedrange-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object and the **[Select](range-select-method-excel.md)** method of the **[Range](range-object-excel.md)** object. Then it displays the address of the range to the user.
+This example shows how to select the used range on the current sheet, which includes formatted cells that do not contain data, by using the **[UsedRange](worksheet-usedrange-property-excel.md)** property of the **[Worksheet](worksheet-object-excel.md)** object and the **[Select](range-select-method-excel.md)** method of the **[Range](range-object-excel.md)** object. Then it displays the address of the range to the user.
 
 
 ```vb
@@ -27,7 +27,7 @@ End Sub
 
 ## Selecting a Data Range Starting at Cell A1
 
-This example shows how to select a data range on the current sheet, starting at cell A1, and display the address of the range to the user. The data range does not include cells that are formatted that do not contain data. To get the data range, this example finds the last row and the last column that contain actual data by using the  **[Find](range-find-method-excel.md)** method of the **[Range](range-object-excel.md)** object.
+This example shows how to select a data range on the current sheet, starting at cell A1, and display the address of the range to the user. The data range does not include cells that are formatted that do not contain data. To get the data range, this example finds the last row and the last column that contain actual data by using the **[Find](range-find-method-excel.md)** method of the **[Range](range-object-excel.md)** object.
 
 
 ```vb
@@ -43,7 +43,7 @@ End Sub
 
 ## Selecting a Data Range of Unknown Starting Location
 
-This example shows how to select a data range on the current sheet when you do not know the starting location, and display the address of the range to the user. The data range does not include cells that are formatted that do not contain data. To get the data range, this example finds the first and last row and column that contain actual data by using the  **[Find](range-find-method-excel.md)** method of the **[Range](range-object-excel.md)** object.
+This example shows how to select a data range on the current sheet when you do not know the starting location, and display the address of the range to the user. The data range does not include cells that are formatted that do not contain data. To get the data range, this example finds the first and last row and column that contain actual data by using the **[Find](range-find-method-excel.md)** method of the **[Range](range-object-excel.md)** object.
 
 
 ```vb

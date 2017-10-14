@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddLine Method (Publisher)
 
-Adds a new  **[Shape](shape-object-publisher.md)** object representing a line to the specified **[Shapes](shapes-object-publisher.md)** collection.
+Adds a new **[Shape](shape-object-publisher.md)** object representing a line to the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
 ## Syntax
 
- _expression_. **AddLine**( **_BeginX_**,  **_BeginY_**,  **_EndX_**,  **_EndY_**)
+ _expression_. **AddLine**( **_BeginX_**, **_BeginY_**, **_EndX_**, **_EndY_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -41,7 +41,7 @@ Shape
 
 ## Remarks
 
-For the  **_BeginX_**,  **_BeginY_**,  **_EndX_**, and  **_EndY_** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the **_BeginX_**, **_BeginY_**, **_EndX_**, and **_EndY_** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 
 ## Example

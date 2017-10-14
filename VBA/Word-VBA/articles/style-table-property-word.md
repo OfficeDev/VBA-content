@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Table Property (Word)
 
-Returns a  **[TableStyle](tablestyle-object-word.md)** object representing properties that can be applied to a table using a table style.
+Returns a **[TableStyle](tablestyle-object-word.md)** object representing properties that can be applied to a table using a table style.
 
 
 ## Syntax

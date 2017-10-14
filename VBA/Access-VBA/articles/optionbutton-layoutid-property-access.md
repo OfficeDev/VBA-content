@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OptionButton.LayoutID Property (Access)
 
-Returns the unique identifier for the layout that contains the specified option button. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified option button. Read-only **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the unique identifier for the layout that contains the specified option 
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
 
 ## See also

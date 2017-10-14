@@ -17,7 +17,7 @@ Indicates which document to save as a Web page.
 
  _expression_. **AttachToVisioDoc**( **_docObj_**)
 
- _expression_An expression that returns a  ** [VisSaveAsWeb](http://msdn.microsoft.com/library/c4675de8-0f63-179f-f687-8962d54d6b2f%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a ** [VisSaveAsWeb](http://msdn.microsoft.com/library/c4675de8-0f63-179f-f687-8962d54d6b2f%28Office.15%29.aspx)** object.
 
 
 ### Parameters
@@ -26,7 +26,7 @@ Indicates which document to save as a Web page.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|docObj |Required| **Document**|An Automation object that supports the  **IVDocument** interface.|
+|docObj |Required| **Document**|An Automation object that supports the **IVDocument** interface.|
 
 ### Return Value
 
@@ -35,14 +35,14 @@ Indicates which document to save as a Web page.
 
 ## Remarks
 
-Microsoft Visual Basic programs can pass a Visio  **Document** object to this method because objects created from the Visio **Document** class support the **IVDocument** interface.
+Microsoft Visual Basic programs can pass a Visio **Document** object to this method because objects created from the Visio **Document** class support the **IVDocument** interface.
 
-The  **AttachToVisioDoc** method queries the **IUnknown** interface for the presence of the **IVDocument** interface.
+The **AttachToVisioDoc** method queries the **IUnknown** interface for the presence of the **IVDocument** interface.
 
 
 ## Example
 
-The following example shows how to open an existing file and save it as a Web page by using the Save as Web Page feature's default settings and the  **AttachToVisioDoc** and **[CreatePages](vissaveasweb-createpages-method-visio-save-as-web.md)** methods. Before running this example, replace _path\filename_ with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace _targetpath\filename_ with a valid target path and a file name for the Web page project files.
+The following example shows how to open an existing file and save it as a Web page by using the Save as Web Page feature's default settings and the **AttachToVisioDoc** and **[CreatePages](vissaveasweb-createpages-method-visio-save-as-web.md)** methods. Before running this example, replace _path\filename_ with a valid path and file name for a Visio document to pass to the **Open** method. In addition, replace _targetpath\filename_ with a valid target path and a file name for the Web page project files.
 
 
 ```vb

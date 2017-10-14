@@ -18,7 +18,7 @@ Contains properties and methods that apply to line callouts.
 
 ## Remarks
 
-Use the  **[Callout](shape-callout-property-excel.md)** property to return a **CalloutFormat** object.
+Use the **[Callout](shape-callout-property-excel.md)** property to return a **CalloutFormat** object.
 
 
 ## Example

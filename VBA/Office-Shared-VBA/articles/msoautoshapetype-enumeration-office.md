@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoAutoShapeType Enumeration (Office)
 
-Specifies the shape type for an  **AutoShape** object.
+Specifies the shape type for an **AutoShape** object.
 
 
 

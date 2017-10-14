@@ -15,15 +15,15 @@ A macro is any public subroutine in a code module. A function or a private subro
 
  **To create a new macro**
 
-1. In Outlook, on the  **Developer** tab of the Microsoft Office Fluent ribbon, click **Visual Basic**.
+1. In Outlook, on the **Developer** tab of the Microsoft Office Fluent ribbon, click **Visual Basic**.
     
-2. In the  **Project** window, double-click the module you want to contain the macro.
+2. In the **Project** window, double-click the module you want to contain the macro.
     
-3. On the  **Insert** menu, click **Procedure**.
+3. On the **Insert** menu, click **Procedure**.
     
-4. In the  **Name** box, type a name for the macro. The name cannot contain spaces.
+4. In the **Name** box, type a name for the macro. The name cannot contain spaces.
     
-5. Click  **OK**. The template for the macro subroutine appears in the code module window.
+5. Click **OK**. The template for the macro subroutine appears in the code module window.
     
 6. Type the code you want to run in the body of the subroutine.
     

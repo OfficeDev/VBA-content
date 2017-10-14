@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeysBoundTo.Key Method (Word)
 
-Returns a  **KeyBinding** object that represents the specified custom key combination.
+Returns a **KeyBinding** object that represents the specified custom key combination.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Returns a  **KeyBinding** object that represents the specified custom key combin
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
-| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
+| _KeyCode_|Required| **Long**|A key you specify by using one of the **WdKey** constants.|
+| _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the **WdKey** constants.|
 
 ### Return Value
 
@@ -39,9 +39,9 @@ KeyBinding
 
 ## Remarks
 
-If the key combination doesn't exist, this method returns  **Nothing** .
+If the key combination doesn't exist, this method returns **Nothing** .
 
-You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
+You can use the **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBorderBox.StrikeV Property (Word)
 
-Returns or sets a  **Boolean** that represents a vertical strikethrough. Read/write.
+Returns or sets a **Boolean** that represents a vertical strikethrough. Read/write.
 
 
 ## Syntax

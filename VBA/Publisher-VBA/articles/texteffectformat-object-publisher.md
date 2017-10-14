@@ -19,7 +19,7 @@ Contains properties and methods that apply to WordArt objects.
 
 ## Example
 
-Use the  **TextEffect** property to return a **TextEffectFormat** object. The following example sets the font name and formatting for shape one on the first page of the active publication. For this example to work, shape one must be a WordArt object.
+Use the **TextEffect** property to return a **TextEffectFormat** object. The following example sets the font name and formatting for shape one on the first page of the active publication. For this example to work, shape one must be a WordArt object.
  
 
  

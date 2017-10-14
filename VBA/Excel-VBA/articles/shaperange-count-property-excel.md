@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Count Property (Excel)
 
-Returns a  **Long** value that represents the number of objects in the collection.
+Returns a **Long** value that represents the number of objects in the collection.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.InchesToPoints Method (Publisher)
 
-Converts a measurement from inches to points (1 inch = 72 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from inches to points (1 inch = 72 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
 
  _expression_. **InchesToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[PointsToInches](application-pointstoinches-method-publisher.md)** method to convert measurements in points to inches.
+Use the **[PointsToInches](application-pointstoinches-method-publisher.md)** method to convert measurements in points to inches.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CustomizationContext Property (Word)
 
-Returns or sets a  **[Template](template-object-word.md)** or **[Document](document-object-word.md)** object that represents the template or document in which changes to menu bars, toolbars, and key bindings are stored. Read/write.
+Returns or sets a **[Template](template-object-word.md)** or **[Document](document-object-word.md)** object that represents the template or document in which changes to menu bars, toolbars, and key bindings are stored. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[Template](template-object-word.md)** or **[Document](docum
 
 ## Remarks
 
-Corresponds to the value of the  **Save in** box on the **Commands** tab in the **Customize** dialog box ( **Tools** menu).
+Corresponds to the value of the **Save in** box on the **Commands** tab in the **Customize** dialog box ( **Tools** menu).
 
 
 ## Example

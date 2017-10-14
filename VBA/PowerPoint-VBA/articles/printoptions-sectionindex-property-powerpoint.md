@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PrintOptions.sectionIndex Property (PowerPoint)
 
-Returns the index of the selected section in the  **PrintOptions** object. Read/write.
+Returns the index of the selected section in the **PrintOptions** object. Read/write.
 
 
 ## Syntax

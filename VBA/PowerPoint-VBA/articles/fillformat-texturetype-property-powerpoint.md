@@ -30,9 +30,9 @@ MsoTextureType
 
 ## Remarks
 
-Use the  **[PresetTextured](fillformat-presettextured-method-powerpoint.md)** or **[UserTextured](fillformat-usertextured-method-powerpoint.md)** method to set the texture type for the fill.
+Use the **[PresetTextured](fillformat-presettextured-method-powerpoint.md)** or **[UserTextured](fillformat-usertextured-method-powerpoint.md)** method to set the texture type for the fill.
 
-The value of the  **TextureType** property can be one of these **MsoTextureType** constants.
+The value of the **TextureType** property can be one of these **MsoTextureType** constants.
 
 
 ||

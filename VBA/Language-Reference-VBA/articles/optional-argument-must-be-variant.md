@@ -15,9 +15,9 @@ Optional [arguments](vbe-glossary.md) can have any intrinsic[data type](vbe-glos
 
 
 
-- You tried to specify  **Optional** with a[parameter](vbe-glossary.md) that has no default value, for example, an[array](vbe-glossary.md).
+- You tried to specify **Optional** with a[parameter](vbe-glossary.md) that has no default value, for example, an[array](vbe-glossary.md).
     
-    Make sure any argument specified as  **Optional** has a default value.
+    Make sure any argument specified as **Optional** has a default value.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

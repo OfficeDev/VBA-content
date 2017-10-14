@@ -30,7 +30,7 @@ MsoBlackWhiteMode
 
 ## Remarks
 
-The value of the  **BlackWhiteMode** property can be one of these **MsoBlackWhiteMode** constants.
+The value of the **BlackWhiteMode** property can be one of these **MsoBlackWhiteMode** constants.
 
 
 ||

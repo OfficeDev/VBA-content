@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DialogSheetView Object (Excel)
 
-Represents the current  **Dialog** sheet view in a workbook.
+Represents the current **Dialog** sheet view in a workbook.
 
 
 ## Remarks

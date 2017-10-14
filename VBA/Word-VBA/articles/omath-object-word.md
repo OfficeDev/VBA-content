@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # OMath Object (Word)
 
-Represents an equation.  **OMath** objects are members of the **OMaths** collection.
+Represents an equation. **OMath** objects are members of the **OMaths** collection.
 
 
 ## Remarks
 
-Use the  **Add** method of the **OMaths** collection to create an equation and add it to a document, selection, or range. The following example creates an equation and uses the **BuildUp** method to convert the equation to professional format.
+Use the **Add** method of the **OMaths** collection to create an equation and add it to a document, selection, or range. The following example creates an equation and uses the **BuildUp** method to convert the equation to professional format.
 
 
 ```

@@ -30,9 +30,9 @@ MsoGradientStyle
 
 ## Remarks
 
-Use the [OneColorGradient](fillformat-onecolorgradient-method-powerpoint.md), [PresetGradient](fillformat-presetgradient-method-powerpoint.md), or  **[TwoColorGradient](fillformat-twocolorgradient-method-powerpoint.md)** method to set the gradient style for the fill. Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the **[Type](filtereffect-type-property-powerpoint.md)** property to determine whether the fill has a gradient.
+Use the [OneColorGradient](fillformat-onecolorgradient-method-powerpoint.md), [PresetGradient](fillformat-presetgradient-method-powerpoint.md), or **[TwoColorGradient](fillformat-twocolorgradient-method-powerpoint.md)** method to set the gradient style for the fill. Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the **[Type](filtereffect-type-property-powerpoint.md)** property to determine whether the fill has a gradient.
 
-The value returned by the  **GradientStyle** property can be one of these **MsoGradientStyle** constants.
+The value returned by the **GradientStyle** property can be one of these **MsoGradientStyle** constants.
 
 
 ||

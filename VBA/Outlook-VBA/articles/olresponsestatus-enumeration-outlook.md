@@ -23,7 +23,7 @@ Indicates the response to a meeting request.
 | **olResponseDeclined**|4|Meeting declined.|
 | **olResponseNone**|0|The appointment is a simple appointment and does not require a response.|
 | **olResponseNotResponded**|5|Recipient has not responded.|
-| **olResponseOrganized**|1|The  **AppointmentItem** is on the Organizer's calendar or the recipient is the **Organizer** of the meeting.|
+| **olResponseOrganized**|1|The **AppointmentItem** is on the Organizer's calendar or the recipient is the **Organizer** of the meeting.|
 | **olResponseTentative**|2|Meeting tentatively accepted.|
 
 ## Remarks

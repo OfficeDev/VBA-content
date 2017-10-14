@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Window.Left Property (Project)
 
-Gets or sets the distance of a project window from the left edge of the main window in points. Read/write  **Long**.
+Gets or sets the distance of a project window from the left edge of the main window in points. Read/write **Long**.
 
 
 ## Syntax

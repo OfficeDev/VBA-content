@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tags.Name Method (PowerPoint)
 
-Returns the name of the specified tag as a  **String**.
+Returns the name of the specified tag as a **String**.
 
 
 ## Syntax

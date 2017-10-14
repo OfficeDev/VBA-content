@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.DataBodyRange Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the range of values, excluding the header row, in a table. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the range of values, excluding the header row, in a table. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.OpenEncoding Property (Word)
 
-Returns the encoding used to open the specified document. Read-only  **MsoEncoding** .
+Returns the encoding used to open the specified document. Read-only **MsoEncoding** .
 
 
 ## Syntax

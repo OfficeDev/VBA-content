@@ -127,7 +127,7 @@ Debug.Print Application.FormatResult(1, "bz", "in", "#.00 u")
 
 ```
 
-The following macro shows how to use the  **FormatResult** method to convert a value from centimeters to inches and display the result in a message box.
+The following macro shows how to use the **FormatResult** method to convert a value from centimeters to inches and display the result in a message box.
 
 
 

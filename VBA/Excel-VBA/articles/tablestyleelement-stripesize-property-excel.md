@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyleElement.StripeSize Property (Excel)
 
-Returns or sets the size of banding. Read/write  **Long** .
+Returns or sets the size of banding. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the size of banding. Read/write  **Long** .
 
 ## Remarks
 
-This property does not apply to all  **[TableStyleElement](tablestyleelement-object-excel.md)** objects. It applies only to **xlColumnStripe1** , **xlColumnStripe2** , **xlRowStripe1** and **xlRowStripe2** types.
+This property does not apply to all **[TableStyleElement](tablestyleelement-object-excel.md)** objects. It applies only to **xlColumnStripe1** , **xlColumnStripe2** , **xlRowStripe1** and **xlRowStripe2** types.
 
 
 ## See also

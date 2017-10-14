@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorksheetFunction.FilterXML Method (Excel)
 
-Get specific data from the returned XML, typically from a  **WebService** function call.
+Get specific data from the returned XML, typically from a **WebService** function call.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Get specific data from the returned XML, typically from a  **WebService** functi
 
 The XPath parameter is limited to 1024 characters.
 
-The  **FILTERXML** function returns results that are parsed via the user specified data locale.
+The **FILTERXML** function returns results that are parsed via the user specified data locale.
 
 
 ### Return value

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MailItem.ReplyAll Event (Outlook)
 
-Occurs when the user selects the  **ReplyAll** action for an item, or when the **ReplyAll** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the **ReplyAll** action for an item, or when the **ReplyAll** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -31,12 +31,12 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 
 ## Remarks
 
-Returns the reply as a  **[MailItem](mailitem-object-outlook.md)** object.
+Returns the reply as a **[MailItem](mailitem-object-outlook.md)** object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **ReplyAll** event and reminds the user that proceeding will reply to all original recipients of an item and, depending on the user's response, either allows the action to continue or stops it. To use this example, open an existing mail item, run the `Initialize Handler()` procedure, then reply to the item.
+This Visual Basic for Applications (VBA) example uses the **ReplyAll** event and reminds the user that proceeding will reply to all original recipients of an item and, depending on the user's response, either allows the action to continue or stops it. To use this example, open an existing mail item, run the `Initialize Handler()` procedure, then reply to the item.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Selected Property (PowerPoint)
 
-Returns  **True** if the specified table cell is selected. Read-only.
+Returns **True** if the specified table cell is selected. Read-only.
 
 
 ## Syntax

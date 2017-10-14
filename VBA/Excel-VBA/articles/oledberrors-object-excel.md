@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBErrors Object (Excel)
 
-A collection of  **[OLEDBError](oledberror-object-excel.md)** objects.
+A collection of **[OLEDBError](oledberror-object-excel.md)** objects.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of  **[OLEDBError](oledberror-object-excel.md)** objects.
 
 ## Example
 
-Use the  **[OLEDBErrors](application-oledberrors-property-excel.md)** property to return the **OLEDBErrors** collection. The following example displays the error description and the **[SqlState](oledberror-sqlstate-property-excel.md)** property's value for each OLE DB error in the collection.
+Use the **[OLEDBErrors](application-oledberrors-property-excel.md)** property to return the **OLEDBErrors** collection. The following example displays the error description and the **[SqlState](oledberror-sqlstate-property-excel.md)** property's value for each OLE DB error in the collection.
 
 
 ```vb
@@ -33,7 +33,7 @@ For Each objEr in Application.OLEDBErrors
 Next objEr
 ```
 
-Use  **OLEDBErrors** ( _index_ ), where _index_ is the index number of the OLE DB error, to return a single **OLEDBError** object. The following example displays the error description and the **SqlState** property's value for the first error returned by the most recent OLE DB query.
+Use **OLEDBErrors** ( _index_ ), where _index_ is the index number of the OLE DB error, to return a single **OLEDBError** object. The following example displays the error description and the **SqlState** property's value for the first error returned by the most recent OLE DB query.
 
 
 

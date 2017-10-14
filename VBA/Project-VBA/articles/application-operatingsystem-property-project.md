@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.OperatingSystem Property (Project)
 
-Gets the name and version of the operating system. Read-only  **String**.
+Gets the name and version of the operating system. Read-only **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the name and version of the operating system. Read-only  **String**.
 
 ## Remarks
 
-For example, in a pre-release installation of 32-bit Microsoft Windows 7, the  **OperatingSystem** property is "Windows (32-bit) NT 6.1".
+For example, in a pre-release installation of 32-bit Microsoft Windows 7, the **OperatingSystem** property is "Windows (32-bit) NT 6.1".
 
 

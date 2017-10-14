@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Shadow Property (Word)
 
-Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape.
+Returns a **ShadowFormat** object that represents the shadow formatting for the specified shape.
 
 
 ## Syntax

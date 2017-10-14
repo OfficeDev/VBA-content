@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisSelectMode Enumeration (Visio)
 
-Constants passed to and returned by the  **Selection.IterationMode** property and the **CreateSelection** method.
+Constants passed to and returned by the **Selection.IterationMode** property and the **CreateSelection** method.
 
 
 

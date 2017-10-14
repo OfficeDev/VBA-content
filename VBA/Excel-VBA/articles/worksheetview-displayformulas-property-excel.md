@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorksheetView.DisplayFormulas Property (Excel)
 
-Returns or sets if formulas should be displayed or hidden in the current worksheet view. Read/write  **Boolean** .
+Returns or sets if formulas should be displayed or hidden in the current worksheet view. Read/write **Boolean** .
 
 
 ## Syntax

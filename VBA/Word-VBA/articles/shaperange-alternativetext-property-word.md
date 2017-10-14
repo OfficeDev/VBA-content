@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.AlternativeText Property (Word)
 
-Returns or sets the alternative text associated with a shape in a Web page. Read/write  **String** .
+Returns or sets the alternative text associated with a shape in a Web page. Read/write **String** .
 
 
 ## Syntax

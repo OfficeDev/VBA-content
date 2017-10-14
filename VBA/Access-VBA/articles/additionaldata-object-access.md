@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AdditionalData Object (Access)
 
-Represents the collection of tables and queries that will be included with the parent table that is exported by the  **[ExportXML](application-exportxml-method-access.md)** method.
+Represents the collection of tables and queries that will be included with the parent table that is exported by the **[ExportXML](application-exportxml-method-access.md)** method.
 
 
 ## Remarks
 
-To create an  **AdditionalData** object, use the **[CreateAdditionalData](application-createadditionaldata-method-access.md)** method of the **[Application](application-object-access.md)** object.
+To create an **AdditionalData** object, use the **[CreateAdditionalData](application-createadditionaldata-method-access.md)** method of the **[Application](application-object-access.md)** object.
 
-To add a table to an existing  **AdditionalData** object, use the **Add** method.
+To add a table to an existing **AdditionalData** object, use the **Add** method.
 
 
 ## Example

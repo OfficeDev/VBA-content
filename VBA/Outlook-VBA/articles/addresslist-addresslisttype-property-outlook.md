@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressList.AddressListType Property (Outlook)
 
-Returns a constant from the  **[OlAddressListType](oladdresslisttype-enumeration-outlook.md)** enumeration that represents the type of the **[AddressList](addresslist-object-outlook.md)** . Read-only.
+Returns a constant from the **[OlAddressListType](oladdresslisttype-enumeration-outlook.md)** enumeration that represents the type of the **[AddressList](addresslist-object-outlook.md)** . Read-only.
 
 
 ## Syntax

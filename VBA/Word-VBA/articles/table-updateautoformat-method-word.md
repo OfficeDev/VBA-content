@@ -25,7 +25,7 @@ Updates the table with the characteristics of a predefined table format.
 
 ## Remarks
 
-As an example of how this method functions, if you apply a table format with  **AutoFormat** and then insert rows and columns, the table may no longer match the predefined look. **UpdateAutoFormat** restores the format.
+As an example of how this method functions, if you apply a table format with **AutoFormat** and then insert rows and columns, the table may no longer match the predefined look. **UpdateAutoFormat** restores the format.
 
 
 ## Example

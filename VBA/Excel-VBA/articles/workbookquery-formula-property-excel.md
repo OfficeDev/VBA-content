@@ -11,7 +11,7 @@ ms.prod: excel
 
 # WorkbookQuery.Formula Property (Excel)
 
-The Power Query M formula for the object. Read-only  **String**.
+The Power Query M formula for the object. Read-only **String**.
 
 
 ## Syntax

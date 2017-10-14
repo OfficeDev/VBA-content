@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.Type Property (Visio)
 
-Returns the type of the  **Master** object. Read-only.
+Returns the type of the **Master** object. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ VisMasterTypes
 
 ## Remarks
 
-Type value constants for  **Master** objects (the possible values that the **Type** property of a **Master** object returns) are declared by the Visio type library in **[VisMasterTypes](vismastertypes-enumeration-visio.md)** .
+Type value constants for **Master** objects (the possible values that the **Type** property of a **Master** object returns) are declared by the Visio type library in **[VisMasterTypes](vismastertypes-enumeration-visio.md)** .
 
 

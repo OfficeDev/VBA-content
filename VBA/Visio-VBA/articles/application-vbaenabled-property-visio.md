@@ -33,7 +33,7 @@ Specifies whether Microsoft Visual Basic for Applications (VBA) is enabled in th
 If a document that contains a VBA project is opened with VBA enabled, and then VBA becomes disabled while the document is open:
 
 
-- Microsoft Visio no longer executes macros in that document, but the macro names still appear in the  **Macros** dialog box (press Alt+F8).
+- Microsoft Visio no longer executes macros in that document, but the macro names still appear in the **Macros** dialog box (press Alt+F8).
     
 - Visio continues firing events to the project.
     
@@ -44,12 +44,12 @@ If a document that contains a VBA project is opened with VBA disabled, and then 
     
 - Macros remain disabled.
     
-The  **VBAEnabled** property is set to **True** if the **Trust access to the VBA project object model** check box is selected under **Developer Macro Settings** on the **Macro Settings** page of the **Trust Center** (click the **File** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**). If it is not selected, the property reports  **False** .
+The **VBAEnabled** property is set to **True** if the **Trust access to the VBA project object model** check box is selected under **Developer Macro Settings** on the **Macro Settings** page of the **Trust Center** (click the **File** tab, click **Options**, click **Trust Center**, and then click **Trust Center Settings**). If it is not selected, the property reports **False** .
 
 
 ## Example
 
-You may have a document that requires VBA to be enabled to run properly, for example, code in a document's  **DocumentOpened** event handler. The following code can be run from an add-on to verify whether VBA is enabled in the application before a document that depends on VBA is opened.
+You may have a document that requires VBA to be enabled to run properly, for example, code in a document's **DocumentOpened** event handler. The following code can be run from an add-on to verify whether VBA is enabled in the application before a document that depends on VBA is opened.
 
 Before running this procedure, supply a valid document file name for the variable  _filename_ .
 

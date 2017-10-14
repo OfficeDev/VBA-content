@@ -30,9 +30,9 @@ Modifies the properties of the given chart. You can use this method to quickly f
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Source_|Optional| **Variant**|The range that contains the source data for the new chart. If this argument is omitted, Microsoft Excel edits the active chart sheet or the selected chart on the active worksheet.|
-| _Gallery_|Optional| **Variant**|One of the constants of  **[XlChartType](xlcharttype-enumeration-excel.md)** specifying the chart type.|
+| _Gallery_|Optional| **Variant**|One of the constants of **[XlChartType](xlcharttype-enumeration-excel.md)** specifying the chart type.|
 | _Format_|Optional| **Variant**|The option number for the built-in autoformats. Can be a number from 1 through 10, depending on the gallery type. If this argument is omitted, Microsoft Excel chooses a default value based on the gallery type and data source.|
-| _PlotBy_|Optional| **Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following  **[XlRowCol](xlrowcol-enumeration-excel.md)** constants: **xlRows** or **xlColumns** .|
+| _PlotBy_|Optional| **Variant**|Specifies whether the data for each series is in rows or columns. Can be one of the following **[XlRowCol](xlrowcol-enumeration-excel.md)** constants: **xlRows** or **xlColumns** .|
 | _CategoryLabels_|Optional| **Variant**|An integer specifying the number of rows or columns within the source range that contain category labels. Legal values are from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
 | _SeriesLabels_|Optional| **Variant**|An integer specifying the number of rows or columns within the source range that contain series labels. Legal values are from 0 (zero) through one less than the maximum number of the corresponding categories or series.|
 | _HasLegend_|Optional| **Variant**| **True** to include a legend.|

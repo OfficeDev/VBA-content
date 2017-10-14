@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.TextFrame Property (PowerPoint)
 
-Returns a  **[TextFrame](textframe-object-powerpoint.md)** object that contains the alignment and anchoring properties for the specified shape or master text style.
+Returns a **[TextFrame](textframe-object-powerpoint.md)** object that contains the alignment and anchoring properties for the specified shape or master text style.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ TextFrame
 
 ## Remarks
 
-Use the  **TextRange** property of the **TextFrame** object to return the text in the text frame.
+Use the **TextRange** property of the **TextFrame** object to return the text in the text frame.
 
-Use the  **HasTextFrame** property to determine whether a shape contains a text frame before you apply the **TextFrame** property.
+Use the **HasTextFrame** property to determine whether a shape contains a text frame before you apply the **TextFrame** property.
 
 
 ## Example

@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 # InsideWidth Property
 
-Returns the inside width of the plot area, in points. Read-only  **Double**.
+Returns the inside width of the plot area, in points. Read-only **Double**.
 
 
 ## Remarks
 
-The plot area used for this measurement doesn't include the axis labels. The  **Width** property for the plot area uses the bounding rectangle that includes the axis labels.
+The plot area used for this measurement doesn't include the axis labels. The **Width** property for the plot area uses the bounding rectangle that includes the axis labels.
 
 

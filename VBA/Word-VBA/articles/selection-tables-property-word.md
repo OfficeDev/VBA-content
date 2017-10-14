@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Tables Property (Word)
 
-Returns a  **[Tables](tables-object-word.md)** collection that represents all the tables in the specified selection. Read-only.
+Returns a **[Tables](tables-object-word.md)** collection that represents all the tables in the specified selection. Read-only.
 
 
 ## Syntax

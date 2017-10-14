@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnableLargeOperationAlert Property (Excel)
 
-Sets or returns a  **Boolean** that represents whether to display an alert message when a user attempts to perform an operation that affects a larger number of cells than is specified in the Office center UI. Read/write **Boolean** .
+Sets or returns a **Boolean** that represents whether to display an alert message when a user attempts to perform an operation that affects a larger number of cells than is specified in the Office center UI. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **Boolean** that represents whether to display an alert messa
 
 ## Remarks
 
-The default value of this property is  **True** .
+The default value of this property is **True** .
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.Period Property (PowerPoint)
 
-Returns or sets the period for the moving-average trendline. Read/write  **Long**.
+Returns or sets the period for the moving-average trendline. Read/write **Long**.
 
 
 ## Syntax

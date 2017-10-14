@@ -30,9 +30,9 @@ Returns the value last retrieved from the data source for edited cells in a Pivo
 
 ## Remarks
 
-Whenever a cell in the values area of a PivotTable report is edited, the  **DataSourceValue** property will hold the value that was last retrieved from the data source before editing took place. For PivotTable report value cells that have not been edited, or for which the data source value has not been explicitly retrieved, this property will return **NULL** . For PivotTable reports with OLAP data sources, the value of the **DataSourceValue** property is retrieved from a separate connection to ensure that it does not contain the value of any writeback operations that the user might have made.
+Whenever a cell in the values area of a PivotTable report is edited, the **DataSourceValue** property will hold the value that was last retrieved from the data source before editing took place. For PivotTable report value cells that have not been edited, or for which the data source value has not been explicitly retrieved, this property will return **NULL** . For PivotTable reports with OLAP data sources, the value of the **DataSourceValue** property is retrieved from a separate connection to ensure that it does not contain the value of any writeback operations that the user might have made.
 
-Reading the  **DataSourceValue** property for cells that are outside of the values area of a PivotTable report generates a run-time error.
+Reading the **DataSourceValue** property for cells that are outside of the values area of a PivotTable report generates a run-time error.
 
 
 ## See also

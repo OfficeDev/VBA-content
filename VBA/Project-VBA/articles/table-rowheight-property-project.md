@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.RowHeight Property (Project)
 
-Gets or sets the row height in a table, where the row height is the number of lines of text. Read/write  **Long**.
+Gets or sets the row height in a table, where the row height is the number of lines of text. Read/write **Long**.
 
 
 ## Syntax

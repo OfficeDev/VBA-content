@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.NestingLevel Property (Word)
 
-Returns the nesting level of the specified cell. Read-only  **Long** .
+Returns the nesting level of the specified cell. Read-only **Long** .
 
 
 ## Syntax

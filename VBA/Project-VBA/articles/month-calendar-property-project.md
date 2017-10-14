@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For an example that resets the project calendar, see the  **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
+For an example that resets the project calendar, see the **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
 
 

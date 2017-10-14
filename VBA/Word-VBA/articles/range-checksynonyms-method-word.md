@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CheckSynonyms Method (Word)
 
-Displays the  **Thesaurus** dialog box, which lists alternative word choices, or synonyms, for the text in the specified range.
+Displays the **Thesaurus** dialog box, which lists alternative word choices, or synonyms, for the text in the specified range.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Displays the  **Thesaurus** dialog box, which lists alternative word choices, or
 
 ## Example
 
-This example displays the  **Thesaurus** dialog box with synonyms for the selected text.
+This example displays the **Thesaurus** dialog box with synonyms for the selected text.
 
 
 ```

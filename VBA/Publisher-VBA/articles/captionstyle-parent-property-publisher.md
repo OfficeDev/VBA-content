@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 # CaptionStyle.Parent Property (Publisher)
 
-Returns the parent of the  **CaptionStyle** object. Read-only.
+Returns the parent of the **CaptionStyle** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  **CaptionStyle** object.
+ _expression_A variable that represents a **CaptionStyle** object.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriteria.Count Property (Project)
 
-Gets the number of items in the  **GroupCriteria** collection. Read-only **Long**.
+Gets the number of items in the **GroupCriteria** collection. Read-only **Long**.
 
 
 ## Syntax

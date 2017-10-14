@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.Active Property (Excel)
 
-Returns whether the specified PivotFilter is active. Read-only  **Boolean** .
+Returns whether the specified PivotFilter is active. Read-only **Boolean** .
 
 
 ## Syntax

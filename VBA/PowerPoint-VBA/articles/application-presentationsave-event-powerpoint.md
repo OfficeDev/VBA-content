@@ -33,7 +33,7 @@ Occurs before any open presentation is saved.
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Tables Property (Word)
 
-Returns a  **[Table](table-object-word.md)** collection that represents all the tables in the specified document. Read-only.
+Returns a **[Table](table-object-word.md)** collection that represents all the tables in the specified document. Read-only.
 
 
 ## Syntax

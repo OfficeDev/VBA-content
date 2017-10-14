@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.GoToEditableRange Method (Word)
 
-Returns a  **Range** object that represents an area of a document that can be modified by the specified user or group of users.
+Returns a **Range** object that represents an area of a document that can be modified by the specified user or group of users.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Range** object that represents an area of a document that can be mo
 
 ## Remarks
 
-You can also use the  **NextRange** property of the **Editor** object to return the next range for which the user has permission to modify.
+You can also use the **NextRange** property of the **Editor** object to return the next range for which the user has permission to modify.
 
 
 ## Example

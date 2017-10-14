@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionStyles Object (Publisher)
 
-Represents the collection of all 37 of the  **[CaptionStyle](captionstyle-object-publisher.md)** objects available in Publisher.
+Represents the collection of all 37 of the **[CaptionStyle](captionstyle-object-publisher.md)** objects available in Publisher.
  
 
 

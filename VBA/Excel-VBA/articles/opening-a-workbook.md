@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Opening a Workbook
 
-When you open a workbook using the  **[Open](workbooks-open-method-excel.md)** method, it becomes a member of the  **[Workbooks](workbooks-object-excel.md)** collection. The following procedure opens a workbook named MyBook.xls located in the folder named MyFolder on drive C.
+When you open a workbook using the **[Open](workbooks-open-method-excel.md)** method, it becomes a member of the **[Workbooks](workbooks-object-excel.md)** collection. The following procedure opens a workbook named MyBook.xls located in the folder named MyFolder on drive C.
 
 
 ```vb

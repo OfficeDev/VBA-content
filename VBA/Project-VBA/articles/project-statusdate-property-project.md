@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.StatusDate Property (Project)
 
-Gets or sets the current status date for the project. If there is no status date, returns "NA". Read/write  **Variant**.
+Gets or sets the current status date for the project. If there is no status date, returns "NA". Read/write **Variant**.
 
 
 ## Syntax

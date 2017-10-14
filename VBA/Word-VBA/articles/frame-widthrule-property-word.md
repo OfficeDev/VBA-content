@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.WidthRule Property (Word)
 
-Returns or sets the rule used to determine the width of a frame. Read/write  **WdFrameSizeRule** .
+Returns or sets the rule used to determine the width of a frame. Read/write **WdFrameSizeRule** .
 
 
 ## Syntax

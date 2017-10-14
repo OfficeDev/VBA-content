@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.SetPresetCamera Method (Excel)
 
-Sets the camera for the specified  **ThreeDFormat** object.
+Sets the camera for the specified **ThreeDFormat** object.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting this property to  **True** will not protect the embedded chart frame from being modified through the object model.
+Setting this property to **True** will not protect the embedded chart frame from being modified through the object model.
 
 
 ## Example

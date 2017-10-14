@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.DashStyle Property (Publisher)
 
-Returns or sets an  **MsoLineDashStyle** constant indicating the dash style for the specified line. Read/write.
+Returns or sets an **MsoLineDashStyle** constant indicating the dash style for the specified line. Read/write.
 
 
 ## Syntax
 
  _expression_. **DashStyle**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoLineDashStyle
 
 ## Remarks
 
-The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](http://msdn.microsoft.com/library/aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **DashStyle** property value can be one of the ** [MsoLineDashStyle](http://msdn.microsoft.com/library/aba7f9d7-1689-c4a8-3b1e-e8dfb4a81d44%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

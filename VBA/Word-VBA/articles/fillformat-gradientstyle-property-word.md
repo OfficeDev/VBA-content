@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientStyle Property (Word)
 
-Returns the gradient style for the specified fill. Read-only  **MsoGradientStyle** .
+Returns the gradient style for the specified fill. Read-only **MsoGradientStyle** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the gradient style for the specified fill. Read-only  **MsoGradientStyle
 
 ## Remarks
 
-This property is read-only. Use the  **[OneColorGradient](fillformat-onecolorgradient-method-word.md)** or **[TwoColorGradient](fillformat-twocolorgradient-method-word.md)** method to set the gradient style for the fill.
+This property is read-only. Use the **[OneColorGradient](fillformat-onecolorgradient-method-word.md)** or **[TwoColorGradient](fillformat-twocolorgradient-method-word.md)** method to set the gradient style for the fill.
 
-Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the  **[Type](fillformat-type-property-word.md)** property to determine whether the fill has a gradient.
+Attempting to return this property for a fill that doesn't have a gradient generates an error. Use the **[Type](fillformat-type-property-word.md)** property to determine whether the fill has a gradient.
 
 
 ## Example

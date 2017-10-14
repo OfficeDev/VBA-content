@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentItem.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[DocumentItem](documentitem-object-outlook.md)** object. Read-only.
+Returns a **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[DocumentItem](documentitem-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

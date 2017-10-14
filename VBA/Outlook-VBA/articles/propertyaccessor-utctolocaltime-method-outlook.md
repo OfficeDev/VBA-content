@@ -33,12 +33,12 @@ Converts the date-time value that is specified by  _Value_ and expressed in Coor
 
 ### Return Value
 
-A  **Date** value that represents _Value_ after being converted from UTC to local time.
+A **Date** value that represents _Value_ after being converted from UTC to local time.
 
 
 ## Remarks
 
-For more information on type conversion when using the  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on type conversion when using the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
 
 
 ## See also

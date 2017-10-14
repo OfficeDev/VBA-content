@@ -30,8 +30,8 @@ Inserts a blank row above the selected task row or cell in a Gantt chart.
 
 ## Remarks
 
-The  **InsertBlankRow** method corresponds to the **Blank Row** command in the **Task** drop-down list in the **Insert** group on the **TASK** tab on the ribbon. The blank row contains only a task ID number, where the empty **Task Name** cell is selected. Each task ID below the new row increases by one. Additional information for the new task can be added programmatically.
+The **InsertBlankRow** method corresponds to the **Blank Row** command in the **Task** drop-down list in the **Insert** group on the **TASK** tab on the ribbon. The blank row contains only a task ID number, where the empty **Task Name** cell is selected. Each task ID below the new row increases by one. Additional information for the new task can be added programmatically.
 
-By comparison, the  **[InsertTask](application-inserttask-method-project.md)** method creates a task of the default task type, where the **Task Name** cell is selected with **<Type Task Name Here>**.
+By comparison, the **[InsertTask](application-inserttask-method-project.md)** method creates a task of the default task type, where the **Task Name** cell is selected with **<Type Task Name Here>**.
 
 

@@ -25,9 +25,9 @@ Inserts the contents of the Clipboard at the specified range.
 
 ## Remarks
 
-If you don't want to replace the contents of the range, use the  **Collapse** method before using this method.
+If you don't want to replace the contents of the range, use the **Collapse** method before using this method.
 
-When you use this method with a  **Range** object, the range expands to include the contents of the Clipboard.
+When you use this method with a **Range** object, the range expands to include the contents of the Clipboard.
 
 
 ## Example

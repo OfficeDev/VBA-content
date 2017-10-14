@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You are trying to delete a  **Property** object defined by the Microsoft Access database engine.
+You are trying to delete a **Property** object defined by the Microsoft Access database engine.
 
 You can delete only user-defined (including application-defined) properties for which you have permission to modify the design, or ones for which this permission is not required.
  **ACCESS SUPPORT RESOURCES**<br>

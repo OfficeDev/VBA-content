@@ -15,15 +15,15 @@ ms.date: 06/08/2017
 
 
 
-1. In the  **Code** window, select the[variable](vbe-glossary.md) whose definition you want to see.
+1. In the **Code** window, select the[variable](vbe-glossary.md) whose definition you want to see.
     
-2. From the  **View** menu, choose **Definition** (SHIFT+F2).
+2. From the **View** menu, choose **Definition** (SHIFT+F2).
     
 
  **To return the mouse pointer to its previous position**
 
 
-- On the  **View** menu, click **Last Position** (CTRL+SHIFT+F2).
+- On the **View** menu, click **Last Position** (CTRL+SHIFT+F2).
     
 
 

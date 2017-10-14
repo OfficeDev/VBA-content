@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.Gradient Property (Excel)
 
-Returns or sets the  **Gradient** property of an **Interior** object of a selection. Read-only
+Returns or sets the **Gradient** property of an **Interior** object of a selection. Read-only
 
 
 ## Syntax

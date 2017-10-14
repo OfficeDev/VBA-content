@@ -25,7 +25,7 @@ Opens a message window for sending the specified document through Microsoft Exch
 
 ## Remarks
 
-Use the  **SendMailAttach** property to control whether the document is sent as text in the message window or as an attachment.
+Use the **SendMailAttach** property to control whether the document is sent as text in the message window or as an attachment.
 
 
 ## Example

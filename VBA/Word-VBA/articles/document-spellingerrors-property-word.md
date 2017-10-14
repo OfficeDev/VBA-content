@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SpellingErrors Property (Word)
 
-Returns a  **[ProofreadingErrors](proofreadingerrors-object-word.md)** collection that represents the words identified as spelling errors in the specified document or range. Read-only.
+Returns a **[ProofreadingErrors](proofreadingerrors-object-word.md)** collection that represents the words identified as spelling errors in the specified document or range. Read-only.
 
 
 ## Syntax

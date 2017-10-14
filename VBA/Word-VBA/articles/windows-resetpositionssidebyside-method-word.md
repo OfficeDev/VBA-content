@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.ResetPositionsSideBySide Method (Word)
 
-Resets two document windows that are in the  **Compare side by side with** view mode.
+Resets two document windows that are in the **Compare side by side with** view mode.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Resets two document windows that are in the  **Compare side by side with** view 
 
 ## Remarks
 
-This method corresponds to the  **Reset Window Position** button on the **Compare Side by Side** toolbar. Use the **ResetPositionsSideBySide** method to reset the display of two documents. For example, if a user minimizes or maximizes one of the two document windows being compared, the **ResetPositionsSideBySide** method resets the display so that the two windows are displayed side by side again.
+This method corresponds to the **Reset Window Position** button on the **Compare Side by Side** toolbar. Use the **ResetPositionsSideBySide** method to reset the display of two documents. For example, if a user minimizes or maximizes one of the two document windows being compared, the **ResetPositionsSideBySide** method resets the display so that the two windows are displayed side by side again.
 
 
 ## Example

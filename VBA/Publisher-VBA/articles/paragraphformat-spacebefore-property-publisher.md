@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.SpaceBefore Property (Publisher)
 
-Returns or sets a  **Variant** that represents the amount of spacing (in points) before one or more paragraphs. Read/write.
+Returns or sets a **Variant** that represents the amount of spacing (in points) before one or more paragraphs. Read/write.
 
 
 ## Syntax
 
  _expression_. **SpaceBefore**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value

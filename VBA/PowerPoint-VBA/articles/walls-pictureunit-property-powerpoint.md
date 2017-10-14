@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Walls.PictureUnit Property (PowerPoint)
 
-Returns or sets the unit for each picture on the chart if the  **[PictureType](series-picturetype-property-powerpoint.md)** property is set to **xlStackScale**; otherwise, this property is ignored. Read/write **Long**.
+Returns or sets the unit for each picture on the chart if the **[PictureType](series-picturetype-property-powerpoint.md)** property is set to **xlStackScale**; otherwise, this property is ignored. Read/write **Long**.
 
 
 ## Syntax

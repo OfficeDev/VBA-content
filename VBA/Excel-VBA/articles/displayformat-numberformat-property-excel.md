@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.NumberFormat Property (Excel)
 
-Returns a value that represents the format code of the associated  **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
+Returns a value that represents the format code of the associated **[Range](range-object-excel.md)** object as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-This property returns  **Null** if all cells in the specified range do not have the same number format.
+This property returns **Null** if all cells in the specified range do not have the same number format.
 
 
 ## See also

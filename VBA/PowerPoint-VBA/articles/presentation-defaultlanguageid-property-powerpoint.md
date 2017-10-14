@@ -30,9 +30,9 @@ MsoLanguageID
 
 ## Remarks
 
-When you set the  **DefaultLanguageID** property for a presentation, you set it for all subsequent new presentations as well.
+When you set the **DefaultLanguageID** property for a presentation, you set it for all subsequent new presentations as well.
 
-The value of the  **DefaultLanguageID** property can be one of these **MsoLanguageID** constants.
+The value of the **DefaultLanguageID** property can be one of these **MsoLanguageID** constants.
 
 
 ||

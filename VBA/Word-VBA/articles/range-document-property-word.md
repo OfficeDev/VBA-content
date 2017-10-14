@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Document Property (Word)
 
-Returns a  **[Document](document-object-word.md)** object associated with the specified range. Read-only.
+Returns a **[Document](document-object-word.md)** object associated with the specified range. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.PasswordEncryptionProvider Property (Word)
 
-Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents with passwords. Read-only.
+Returns a **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents with passwords. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** specifying the name of the algorithm encryption provider t
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify the name of the algorithm encryption provider Word uses when encrypting documents with passwords.
+Use the **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify the name of the algorithm encryption provider Word uses when encrypting documents with passwords.
 
 
 ## Example

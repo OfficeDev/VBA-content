@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MeasurementUnit Property (Excel)
 
-Specifies the measurement unit used in the application. Read/write  **xlMeasurementUnit** .
+Specifies the measurement unit used in the application. Read/write **xlMeasurementUnit** .
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ResourceName Property (Project)
 
-Gets or sets the name of the resource for the assignment. Read/write  **String**.
+Gets or sets the name of the resource for the assignment. Read/write **String**.
 
 
 ## Syntax

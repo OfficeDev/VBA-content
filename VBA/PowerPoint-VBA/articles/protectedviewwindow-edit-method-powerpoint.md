@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Edit Method (PowerPoint)
 
-Changes the password of the  **ProtectedViewWindow** object.
+Changes the password of the **ProtectedViewWindow** object.
 
 
 ## Syntax

@@ -32,11 +32,11 @@ If the specified range isn't in a PivotTable report, the following statements ar
 
 - The range must be in a single summary row or column.
     
-- This property returns  **False** if _any_ of the children of the row or column are hidden.
+- This property returns **False** if _any_ of the children of the row or column are hidden.
     
-- Setting this property to  **True** is equivalent to unhiding all the children of the summary row or column.
+- Setting this property to **True** is equivalent to unhiding all the children of the summary row or column.
     
-- Setting this property to  **False** is equivalent to hiding all the children of the summary row or column.
+- Setting this property to **False** is equivalent to hiding all the children of the summary row or column.
     
 If the specified range is in a PivotTable report, it's possible to set this property for more than one cell at a time if the range is contiguous. This property can be returned only if the range is a single cell.
 

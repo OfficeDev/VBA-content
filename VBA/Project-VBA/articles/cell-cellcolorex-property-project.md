@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.CellColorEx Property (Project)
 
-Gets or sets the color of the cell background. Read/write  **Long**.
+Gets or sets the color of the cell background. Read/write **Long**.
 
 
 ## Syntax

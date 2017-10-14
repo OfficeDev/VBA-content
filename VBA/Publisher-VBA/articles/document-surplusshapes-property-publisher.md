@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.SurplusShapes Property (Publisher)
 
-Returns a  **ShapeRange** object that represents the collection of surplus shapes that Microsoft Publisher places under **Extra Content**in the  **Format Publication** task pane after the document template (wizard) is changed by using the ** [Document.ChangeDocument](document-changedocument-method-publisher.md)** method or by using the **Change Template** command in the user interface. Read-only.
+Returns a **ShapeRange** object that represents the collection of surplus shapes that Microsoft Publisher places under **Extra Content**in the **Format Publication** task pane after the document template (wizard) is changed by using the ** [Document.ChangeDocument](document-changedocument-method-publisher.md)** method or by using the **Change Template** command in the user interface. Read-only.
 
 
 ## Syntax
 
  _expression_. **SurplusShapes**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

@@ -25,7 +25,7 @@ Allows a developer to interact with the list of published objects in the workboo
 
 ## Remarks
 
-This property returns a collection of the items that could be published to Excel Services. It can include  **Tables**,  **PivotTables**,  **Named Ranges**, and  **Charts**. It can also contain  **Sheets** as long as it is not a mixture of **Sheets** and the before mentioned list.
+This property returns a collection of the items that could be published to Excel Services. It can include **Tables**, **PivotTables**, **Named Ranges**, and **Charts**. It can also contain **Sheets** as long as it is not a mixture of **Sheets** and the before mentioned list.
 
 
 ## See also

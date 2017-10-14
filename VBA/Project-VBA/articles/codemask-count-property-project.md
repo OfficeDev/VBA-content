@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CodeMask.Count Property (Project)
 
-Gets the number of items in the  **CodeMask** object. Read-only **Long**.
+Gets the number of items in the **CodeMask** object. Read-only **Long**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the number of items in the  **CodeMask** object. Read-only **Long**.
 
 ## Remarks
 
-Use of the  **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
+Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
 
 

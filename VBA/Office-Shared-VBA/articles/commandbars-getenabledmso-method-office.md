@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.GetEnabledMso Method (Office)
 
-Returns True if the control identified by the  **idMso** parameter is enabled.
+Returns True if the control identified by the **idMso** parameter is enabled.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Boolean
 
 ## Example
 
-The following sample returns True if the  **Bold** button is enabled.
+The following sample returns True if the **Bold** button is enabled.
 
 
 ```

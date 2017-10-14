@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmarks.Exists Method (Word)
 
-Determines whether the specified bookmark exists. Returns  **True** if the bookmark exists.
+Determines whether the specified bookmark exists. Returns **True** if the bookmark exists.
 
 
 ## Syntax

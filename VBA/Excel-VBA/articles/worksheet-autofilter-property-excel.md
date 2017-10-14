@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.AutoFilter Property (Excel)
 
-Returns an  **AutoFilter** object if filtering is on. Read-only.
+Returns an **AutoFilter** object if filtering is on. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns an  **AutoFilter** object if filtering is on. Read-only.
 
 ## Remarks
 
-The property returns  **Nothing** if filtering is off.
+The property returns **Nothing** if filtering is off.
 
-To create an  **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or using the **AutoFilter** method of the **Range** object.
+To create an **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or using the **AutoFilter** method of the **Range** object.
 
 
 ## Example

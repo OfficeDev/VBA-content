@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2.Parent Property (Project)
 
-Gets the parent of the object. Read-only  **Group2**.
+Gets the parent of the object. Read-only **Group2**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the parent of the object. Read-only  **Group2**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of an object's parent.
+Use the **Parent** property to access the properties or methods of an object's parent.
 
 
 ## See also

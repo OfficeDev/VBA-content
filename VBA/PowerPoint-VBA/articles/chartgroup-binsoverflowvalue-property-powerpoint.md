@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # ChartGroup.BinsOverflowValue Property (PowerPoint)
 
-If an [ChartGroup.BinsOverflowEnabled Property (PowerPoint)](chartgroup-binsoverflowenabled-property-powerpoint.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
+If an [ChartGroup.BinsOverflowEnabled Property (PowerPoint)](chartgroup-binsoverflowenabled-property-powerpoint.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.
 
 
 ## Syntax

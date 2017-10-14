@@ -17,7 +17,7 @@ Gets the name of the specified page in the drawing that is open in Microsoft Vis
 
  _expression_. **PageName**( **_PageIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -37,7 +37,7 @@ String
 
 The collection of pages is one-based, so the index of the first page in the collection is 1.
 
-If the local name of the specified page is different from the universal name, the  **PageName** property returns the local name.
+If the local name of the specified page is different from the universal name, the **PageName** property returns the local name.
 
 
 ## Example

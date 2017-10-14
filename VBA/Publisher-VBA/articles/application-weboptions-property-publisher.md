@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.WebOptions Property (Publisher)
 
-Returns a  **[WebOptions](weboptions-object-publisher.md)** object, which represents the properties of Web publications. Read-only.
+Returns a **[WebOptions](weboptions-object-publisher.md)** object, which represents the properties of Web publications. Read-only.
 
 
 ## Syntax
 
  _expression_. **WebOptions**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

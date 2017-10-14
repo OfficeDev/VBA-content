@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SaveEncoding Property (Word)
 
-Returns or sets the encoding to use when saving a document. Read/write  **MsoEncoding** .
+Returns or sets the encoding to use when saving a document. Read/write **MsoEncoding** .
 
 
 ## Syntax

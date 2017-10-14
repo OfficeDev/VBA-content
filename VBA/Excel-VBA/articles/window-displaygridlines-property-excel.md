@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 This property applies only to worksheets and macro sheets.
 
-This property affects only displayed gridlines. Use the  **[PrintGridlines](pagesetup-printgridlines-property-excel.md)** property to control the printing of gridlines.
+This property affects only displayed gridlines. Use the **[PrintGridlines](pagesetup-printgridlines-property-excel.md)** property to control the printing of gridlines.
 
 
 ## Example

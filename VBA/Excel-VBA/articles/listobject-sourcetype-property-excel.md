@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.SourceType Property (Excel)
 
-Returns a  **[XlListObjectSourceType](xllistobjectsourcetype-enumeration-excel.md)** value that represents the current source of the list.
+Returns a **[XlListObjectSourceType](xllistobjectsourcetype-enumeration-excel.md)** value that represents the current source of the list.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[XlListObjectSourceType](xllistobjectsourcetype-enumeration-excel.m
 
 ## Example
 
-The following sample code returns a  **XlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
+The following sample code returns a **XlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
 
 
 ```vb

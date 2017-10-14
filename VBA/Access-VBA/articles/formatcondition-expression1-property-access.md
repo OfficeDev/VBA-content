@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Expression1 Property (Access)
 
-You can use the  **Expression1** property to return the values of a conditional format within a **[FormatCondition](formatcondition-object-access.md)** object. Read-only **String**.
+You can use the **Expression1** property to return the values of a conditional format within a **[FormatCondition](formatcondition-object-access.md)** object. Read-only **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Expression1** property to return the values of a conditional 
 
 ## Remarks
 
-The  **Expression1** property returns a **Variant** value or expression associated with the first part of the conditional format.
+The **Expression1** property returns a **Variant** value or expression associated with the first part of the conditional format.
 
 
 ## See also

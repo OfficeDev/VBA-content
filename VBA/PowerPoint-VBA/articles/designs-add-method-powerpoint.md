@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Designs.Add Method (PowerPoint)
 
-Returns a  **[Design](design-object-powerpoint.md)** object that represents a new slide design.
+Returns a **[Design](design-object-powerpoint.md)** object that represents a new slide design.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a  **[Design](design-object-powerpoint.md)** object that represents a ne
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _designName_|Required|**String**|The name of the design.|
-| _Index_|Optional|**Integer**|The index number of the design in the  **Designs** collection. The default value is -1, which means that if you omit the Index parameter, the new slide design is added at the end of existing slide designs.|
+| _Index_|Optional|**Integer**|The index number of the design in the **Designs** collection. The default value is -1, which means that if you omit the Index parameter, the new slide design is added at the end of existing slide designs.|
 
 ### Return Value
 

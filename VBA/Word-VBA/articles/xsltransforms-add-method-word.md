@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # XSLTransforms.Add Method (Word)
 
-Returns an  **XSLTransform** object that represents an Extensible Stylesheet Language Transformation (XSLT) added to the collection of XSLTs for a specified schema.
+Returns an **XSLTransform** object that represents an Extensible Stylesheet Language Transformation (XSLT) added to the collection of XSLTs for a specified schema.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.Properties Property (Access)
 
-Returns a reference to a  **[CurrentProject](currentproject-object-access.md)** object's **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection. Read-only.
+Returns a reference to a **[CurrentProject](currentproject-object-access.md)** object's **[AccessObjectProperties](accessobjectproperties-object-access.md)** collection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a reference to a  **[CurrentProject](currentproject-object-access.md)** 
 
 ## Remarks
 
-The  **AccessObjectProperties** collection object is the collection of all the properties related to a **CurrentProject** object. You can refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. The first member object in the collection has an index value of 0 and the total number of member objects in the collection is the value of the **AccessObjectProperties** collection's **Count** property minus 1
+The **AccessObjectProperties** collection object is the collection of all the properties related to a **CurrentProject** object. You can refer to individual members of the collection by using the member object's index or a string expression that is the name of the member object. The first member object in the collection has an index value of 0 and the total number of member objects in the collection is the value of the **AccessObjectProperties** collection's **Count** property minus 1
 
 
 ## See also

@@ -14,10 +14,10 @@ ms.date: 06/08/2017
 
 
  **Description**
-Returns a  **Variant (String)** containing an [expression](vbe-glossary.md) formatted according to instructions contained in a format expression.
+Returns a **Variant (String)** containing an [expression](vbe-glossary.md) formatted according to instructions contained in a format expression.
  **Syntax**
  **Format(**_expression_ [ **,**_format_ [ **,**_firstdayofweek_ [ **,**_firstweekofyear_ ]]] **)**
-The  **Format** function syntax has these parts:
+The **Format** function syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -61,7 +61,7 @@ The  _firstweekofyear_ argument has these settings:
 If you try to format a number without specifying  _format_, **Format** provides functionality similar to the **Str** function, although it is internationally aware. However, positive numbers formatted as strings using **Format** don't include a leading space reserved for the sign of the value; those converted using **Str** retain the leading space.
 If you are formatting a non-localized numeric string, you should use a user-defined numeric format to ensure that you get the look you want.
 
- **Note**  If the  **Calendar** property setting is `Gregorian` and _format_ specifies date formatting, the supplied _expression_ must be `Gregorian`. If the Visual Basic  **Calendar** property setting is `Hijri`, the supplied  _expression_ must be `Hijri`.
+ **Note**  If the **Calendar** property setting is `Gregorian` and _format_ specifies date formatting, the supplied _expression_ must be `Gregorian`. If the Visual Basic **Calendar** property setting is `Hijri`, the supplied  _expression_ must be `Hijri`.
 
 If the calendar is Gregorian, the meaning of  _format_ expression symbols is unchanged. If the calendar is Hijri, all date format symbols (for example, _dddd_, _mmmm_, _yyyy_ ) have the same meaning but apply to the Hijri calendar. Format symbols remain in English; symbols that result in text display (for example, AM and PM) display the string (English or Arabic) associated with that symbol. The range of certain symbols changes when the calendar is Hijri.
 
@@ -93,7 +93,7 @@ If the calendar is Gregorian, the meaning of  _format_ expression symbols is unc
 
  **Example**
  
-This example shows various uses of the  **Format** function to format values using both named formats and user-defined formats. For the date separator ( **/** ), time separator ( **:** ), and AM/ PM literal, the actual formatted output displayed by your system depends on the locale settings on which the code is running. When times and dates are displayed in the development environment, the short time format and short date format of the code locale are used. When displayed by running code, the short time format and short date format of the system locale are used, which may differ from the code locale. For this example, English/U.S. is assumed. `MyTime` and `MyDate` are displayed in the development environment using current system short time setting and short date setting.
+This example shows various uses of the **Format** function to format values using both named formats and user-defined formats. For the date separator ( **/** ), time separator ( **:** ), and AM/ PM literal, the actual formatted output displayed by your system depends on the locale settings on which the code is running. When times and dates are displayed in the development environment, the short time format and short date format of the code locale are used. When displayed by running code, the short time format and short date format of the system locale are used, which may differ from the code locale. For this example, English/U.S. is assumed. `MyTime` and `MyDate` are displayed in the development environment using current system short time setting and short date setting.
 
 
 
@@ -183,7 +183,7 @@ The following table identifies the predefined numeric format names:
 |**Percent**|Display number multiplied by 100 with a percent sign ( **%** ) appended to the right; always display two digits to the right of the decimal separator.|
 |**Scientific**|Use standard scientific notation.|
 |**Yes/No**|Display No if number is 0; otherwise, display Yes.|
-|**True/False**|Display  **False** if number is 0; otherwise, display **True**.|
+|**True/False**|Display **False** if number is 0; otherwise, display **True**.|
 |**On/Off**|Display Off if number is 0; otherwise, display On.|
  **User-Defined String Formats (Format Function)**
 You can use any of the following characters to create a format [expression](vbe-glossary.md) for strings:
@@ -252,5 +252,5 @@ The following table identifies characters you can use to create user-defined num
 |( **E- E+ e- e+** )|Scientific format. If the format expression contains at least one digit placeholder ( **0** or **#** ) to the right of E-, E+, e-, or e+, the number is displayed in scientific format and E or e is inserted between the number and its exponent. The number of digit placeholders to the right determines the number of digits in the exponent. Use E- or e- to place a minus sign next to negative exponents. Use E+ or e+ to place a minus sign next to negative exponents and a plus sign next to positive exponents.|
 |**- + $** ( )|Display a literal character. To display a character other than one of those listed, precede it with a backslash (\) or enclose it in double quotation marks (" ").|
 |( **\** )|Display the next character in the format string. To display a character that has special meaning as a literal character, precede it with a backslash (\). The backslash itself isn't displayed. Using a backslash is the same as enclosing the next character in double quotation marks. To display a backslash, use two backslashes (\\). Examples of characters that can't be displayed as literal characters are the date-formatting and time-formatting characters (a, c, d, h, m, n, p, q, s, t, w, y, / and :), the numeric-formatting characters (#, 0, %, E, e, comma, and period), and the string-formatting characters (@, &;, <, >, and !).|
-|("ABC")|Display the string inside the double quotation marks (" "). To include a string in  **_format_** from within code, you must use **Chr(** 34 **)** to enclose the text (34 is the[character code](vbe-glossary.md) for a quotation mark (")).|
+|("ABC")|Display the string inside the double quotation marks (" "). To include a string in **_format_** from within code, you must use **Chr(** 34 **)** to enclose the text (34 is the[character code](vbe-glossary.md) for a quotation mark (")).|
 

@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[Point](point-object-word.md)** object that the collection contains.
+A **[Point](point-object-word.md)** object that the collection contains.
 
 
 ## Example

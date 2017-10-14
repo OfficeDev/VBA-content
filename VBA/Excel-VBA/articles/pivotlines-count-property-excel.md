@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotLines.Count Property (Excel)
 
-Returns the number of items in the  **PivotLines** collection. Read-only.
+Returns the number of items in the **PivotLines** collection. Read-only.
 
 
 ## Syntax

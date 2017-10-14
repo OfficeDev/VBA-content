@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.TextEffect Property (Publisher)
 
-Returns a  **[TextEffectFormat](texteffectformat-object-publisher.md)** object that represents the text formatting properties of a WordArt object.
+Returns a **[TextEffectFormat](texteffectformat-object-publisher.md)** object that represents the text formatting properties of a WordArt object.
 
 
 ## Syntax
 
  _expression_. **TextEffect**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Layer.Delete Method (Visio)
 
-Deletes a  **Layer** object. Can also delete shapes assigned to the deleted layer.
+Deletes a **Layer** object. Can also delete shapes assigned to the deleted layer.
 
 
 ## Syntax

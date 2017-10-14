@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.MoveToSectionStart Method (PowerPoint)
 
-Moves the current position to the start of the specified section in the  **SlideRange** object.
+Moves the current position to the start of the specified section in the **SlideRange** object.
 
 
 ## Syntax

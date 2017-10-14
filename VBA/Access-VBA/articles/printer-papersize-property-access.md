@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.PaperSize Property (Access)
 
-Returns or sets an  **[AcPrintPaperSize](acprintpapersize-enumeration-access.md)** constant indicating the paper size to use when printing. Read/write.
+Returns or sets an **[AcPrintPaperSize](acprintpapersize-enumeration-access.md)** constant indicating the paper size to use when printing. Read/write.
 
 
 ## Syntax

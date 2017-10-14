@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOFilter.Conjunction Property (Office)
 
-Gets or sets an  **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **ODSOFilters** object. Read/write.
+Gets or sets an **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **ODSOFilters** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets an  **MsoFilterConjunction** constant that represents how a filter 
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a  **Region** field equal to "WA".
+The following example changes an existing filter to remove from the mail merge all records that do not have a **Region** field equal to "WA".
 
 
 ```

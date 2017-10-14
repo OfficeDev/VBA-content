@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOColumns.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **ODSOColumns** collection. Read-only.
+Gets a **Long** indicating the number of items in the **ODSOColumns** collection. Read-only.
 
 
 ## Syntax

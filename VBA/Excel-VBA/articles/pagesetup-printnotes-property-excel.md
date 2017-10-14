@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **PrintComments** property to print comments as text boxes or end notes.
+Use the **PrintComments** property to print comments as text boxes or end notes.
 
 
 ## Example

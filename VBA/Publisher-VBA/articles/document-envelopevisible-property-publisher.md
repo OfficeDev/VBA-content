@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.EnvelopeVisible Property (Publisher)
 
-Returns or sets a  **Boolean** indicating whether the e-mail message header is visible in the publication window. Read/write.
+Returns or sets a **Boolean** indicating whether the e-mail message header is visible in the publication window. Read/write.
 
 
 ## Syntax
 
  _expression_. **EnvelopeVisible**
 
- _expression_A variable that represents an  **Document** object.
+ _expression_A variable that represents an **Document** object.
 
 
 ### Return Value

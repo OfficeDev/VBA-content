@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Section.StartPageIndex Property (Publisher)
 
-Returns the page number of the page that the specified  **Section** object begins on. Read-only.
+Returns the page number of the page that the specified **Section** object begins on. Read-only.
 
 
 ## Syntax
 
  _expression_. **StartPageIndex**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_A variable that represents a **Section** object.
 
 
 ### Return Value

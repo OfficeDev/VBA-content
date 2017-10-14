@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The value of the  **AnimateAction** property can be one of these **MsoTriState** constants.
+The value of the **AnimateAction** property can be one of these **MsoTriState** constants.
 
 
 

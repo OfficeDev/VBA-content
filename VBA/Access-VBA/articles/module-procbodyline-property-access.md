@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.ProcBodyLine Property (Access)
 
-The  **ProcBodyLine** property returns the number of the line at which the body of a specified procedure begins in a standard module or a class module. Read-only **Long**.
+The **ProcBodyLine** property returns the number of the line at which the body of a specified procedure begins in a standard module or a class module. Read-only **Long**.
 
 
 ## Syntax
@@ -40,27 +40,27 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 
 |**Constant**|**Description**|
 |:-----|:-----|
-|**vbext_pk_Get**|A  **Property Get** procedure.|
-|**vbext_pk_Let**|A  **Property Let** procedure.|
-|**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
-|**vbext_pk_Set**|A  **Property Set** procedure.|
+|**vbext_pk_Get**|A **Property Get** procedure.|
+|**vbext_pk_Let**|A **Property Let** procedure.|
+|**vbext_pk_Proc**|A **Sub** or **Function** procedure.|
+|**vbext_pk_Set**|A **Property Set** procedure.|
 The body of a procedure begins with the procedure definition, denoted by one of the following:
 
 
-- A  **Sub** statement.
+- A **Sub** statement.
     
-- A  **Function** statement.
+- A **Function** statement.
     
-- A  **Property Get** statement.
+- A **Property Get** statement.
     
-- A  **Property Let** statement.
+- A **Property Let** statement.
     
-- A  **Property Set** statement.
+- A **Property Set** statement.
     
-The  **ProcBodyLine** property returns a number that identifies the line on which the procedure definition begins. In contrast, the **[ProcStartLine](module-procstartline-property-access.md)** property returns a number that identifies the line at which a procedure is separated from the preceding procedure in a module. Any comments or compilation constants that precede the procedure definition (the body of a procedure) are considered part of the procedure, but the **ProcBodyLine** property ignores them.
+The **ProcBodyLine** property returns a number that identifies the line on which the procedure definition begins. In contrast, the **[ProcStartLine](module-procstartline-property-access.md)** property returns a number that identifies the line at which a procedure is separated from the preceding procedure in a module. Any comments or compilation constants that precede the procedure definition (the body of a procedure) are considered part of the procedure, but the **ProcBodyLine** property ignores them.
 
 
- **Note**  The  **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
+ **Note**  The **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
 
 
 ## Example

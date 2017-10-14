@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PasteSpecial Method (Excel)
 
-Pastes a  **[Range](range-object-excel.md)** that has been copied into the specified range.
+Pastes a **[Range](range-object-excel.md)** that has been copied into the specified range.
 
 
 ## Syntax

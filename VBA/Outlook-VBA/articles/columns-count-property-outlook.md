@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.Count Property (Outlook)
 
-Returns a  **Long** representing the number of **[Column](column-object-outlook.md)** objects in the collection. Read-only.
+Returns a **Long** representing the number of **[Column](column-object-outlook.md)** objects in the collection. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoScaleFont Property
 
- **True** if the text in the object changes font size when the object size changes. The default value is **True**. Read/write  **Variant**.
+ **True** if the text in the object changes font size when the object size changes. The default value is **True**. Read/write **Variant**.
 
 
 ## Example

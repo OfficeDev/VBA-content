@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Background Property (Excel)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** which is set to one of the constants of **[XlBackground](xlbackground-enumeration-excel.md)** .
+Returns or sets the type of background for text used in charts. Read/write **Variant** which is set to one of the constants of **[XlBackground](xlbackground-enumeration-excel.md)** .
 
 
 ## Syntax

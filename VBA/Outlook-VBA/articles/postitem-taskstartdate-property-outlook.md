@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.TaskStartDate Property (Outlook)
 
-Returns or sets a  **Date** value that represents the start date of the task for this **[PostItem](postitem-object-outlook.md)** object. Read/write.
+Returns or sets a **Date** value that represents the start date of the task for this **[PostItem](postitem-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the start date of the task for
 
 ## Remarks
 
-This property returns  **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](postitem-ismarkedastask-property-outlook.md)** property is set to **False** .
+This property returns **Null** ( **Nothing** in Visual Basic) if the **[IsMarkedAsTask](postitem-ismarkedastask-property-outlook.md)** property is set to **False** .
 
 
 ## See also

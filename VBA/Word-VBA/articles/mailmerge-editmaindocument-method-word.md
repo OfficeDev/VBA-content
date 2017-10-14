@@ -25,12 +25,12 @@ Activates the mail merge main document associated with the specified header sour
 
 ## Remarks
 
-If the main document isn't open, an error occurs. Use the  **Open** method if the main document isn't currently open.
+If the main document isn't open, an error occurs. Use the **Open** method if the main document isn't currently open.
 
 
 ## Example
 
-This example attempts to activate the main document associated with the active data source document. If the main document isn't open, the  **Open** dialog box is displayed, with a message in the status bar.
+This example attempts to activate the main document associated with the active data source document. If the main document isn't open, the **Open** dialog box is displayed, with a message in the status bar.
 
 
 ```vb

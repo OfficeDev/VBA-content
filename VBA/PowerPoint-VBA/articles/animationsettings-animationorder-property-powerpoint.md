@@ -30,10 +30,10 @@ Long
 
 ## Remarks
 
-You won't see effects of setting this property unless the specified shape gets animated. For a shape to be animated, the  **TextLevelEffect** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone** and the **[Animate](animationsettings-animate-property-powerpoint.md)** property must be set to **True**.
+You won't see effects of setting this property unless the specified shape gets animated. For a shape to be animated, the **TextLevelEffect** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone** and the **[Animate](animationsettings-animate-property-powerpoint.md)** property must be set to **True**.
 
 
- **Note**  Setting the  **AnimationOrder** property to a value that is less than the greatest existing **AnimationOrder** property value can shift the animation order.
+ **Note**  Setting the **AnimationOrder** property to a value that is less than the greatest existing **AnimationOrder** property value can shift the animation order.
 
 
 ## Example

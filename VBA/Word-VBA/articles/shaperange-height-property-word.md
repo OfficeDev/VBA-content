@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Height Property (Word)
 
-Returns or sets the height of the specified shape range. Read/write  **Single** .
+Returns or sets the height of the specified shape range. Read/write **Single** .
 
 
 ## Syntax

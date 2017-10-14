@@ -29,7 +29,7 @@ Selects a cell containing task information.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Row_|Optional|**Long**|The row number (RowRelative is  **False** ) or the relative row position (RowRelative is **True** ) of the cell to select.|
+| _Row_|Optional|**Long**|The row number (RowRelative is **False** ) or the relative row position (RowRelative is **True** ) of the cell to select.|
 | _Column_|Optional|**String**|The field name of the cell to select.|
 | _RowRelative_|Optional|**Boolean**|**True** if the row number is relative to the active cell. The default value is **True**.|
 
@@ -40,6 +40,6 @@ Selects a cell containing task information.
 
 ## Remarks
 
-Using the  **SelectTaskCell** method without specifying any arguments retains the current cell as the active cell. The **SelectTaskCell** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
+Using the **SelectTaskCell** method without specifying any arguments retains the current cell as the active cell. The **SelectTaskCell** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
 
 

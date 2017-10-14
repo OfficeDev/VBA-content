@@ -18,9 +18,9 @@ Applies automatic built-in table formatting to a specified table.
 
 ## Syntax
 
- _expression_. **ApplyAutoFormat**( **_AutoFormat_**,  **_TextFormatting_**,  **_TextAlignment_**,  **_Fill_**,  **_Borders_**)
+ _expression_. **ApplyAutoFormat**( **_AutoFormat_**, **_TextFormatting_**, **_TextAlignment_**, **_Fill_**, **_Borders_**)
 
- _expression_A variable that represents a  **Table** object.
+ _expression_A variable that represents a **Table** object.
 
 
 ### Parameters
@@ -37,7 +37,7 @@ Applies automatic built-in table formatting to a specified table.
 
 ## Remarks
 
-The AutoFormat parameter can be one of the  **[PbTableAutoFormatType](pbtableautoformattype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The AutoFormat parameter can be one of the **[PbTableAutoFormatType](pbtableautoformattype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

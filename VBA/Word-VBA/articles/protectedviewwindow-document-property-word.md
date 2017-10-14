@@ -25,7 +25,7 @@ Returns a [Document](document-object-word.md) object associated with the protect
 
 ## Remarks
 
-A document displayed in a protected view window is not a member of the  **[Documents](application-documents-property-word.md)** collection. Instead, use the **Document** property to access a document that is displayed in a protected view window.
+A document displayed in a protected view window is not a member of the **[Documents](application-documents-property-word.md)** collection. Instead, use the **Document** property to access a document that is displayed in a protected view window.
 
 
 ## Example

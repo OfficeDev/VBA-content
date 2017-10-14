@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.IsWizardPage Property (Publisher)
 
-Returns  **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
+Returns **True** if the specified page is a Microsoft Publisher wizard page. Read-only **Boolean**.
 
 
 ## Syntax
 
  _expression_. **IsWizardPage**
 
- _expression_A variable that represents an  **Page** object.
+ _expression_A variable that represents an **Page** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Boolean
 
 Wizard pages are special page types for certain types of Publisher wizards (such as Newsletters, Catalogs, and Web Wizards) that can be inserted into a publication.
 
-Use the  **[Wizard](page-wizard-property-publisher.md)** property of the **[Page](page-object-publisher.md)** object to access the wizard for the specified page.
+Use the **[Wizard](page-wizard-property-publisher.md)** property of the **[Page](page-object-publisher.md)** object to access the wizard for the specified page.
 
 
 ## Example

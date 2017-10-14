@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.CreateRecipient Method (Outlook)
 
-Creates a  **[Recipient](recipient-object-outlook.md)** object.
+Creates a **[Recipient](recipient-object-outlook.md)** object.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Creates a  **[Recipient](recipient-object-outlook.md)** object.
 
 ### Return Value
 
-A  **Recipient** object that represents the new recipient.
+A **Recipient** object that represents the new recipient.
 
 
 ## Remarks
@@ -43,7 +43,7 @@ A  **Recipient** object that represents the new recipient.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** method to resolve the **[Recipient](recipient-object-outlook.md)** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder. To run this example, replace 'Dan Wilson' with a valid recipient name and make sure the calendar is shared and you have permissions to view the calendar.
+This Visual Basic for Applications (VBA) example uses the **[GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** method to resolve the **[Recipient](recipient-object-outlook.md)** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder. To run this example, replace 'Dan Wilson' with a valid recipient name and make sure the calendar is shared and you have permissions to view the calendar.
 
 
 ```vb

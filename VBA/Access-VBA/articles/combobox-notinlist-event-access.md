@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.NotInList Event (Access)
 
-The  **NotInList** event occurs when the user enters a value in the text box portion of a combo box that isn't in the combo box list.
+The **NotInList** event occurs when the user enters a value in the text box portion of a combo box that isn't in the combo box list.
 
 
 ## Syntax
@@ -30,30 +30,30 @@ The  **NotInList** event occurs when the user enters a value in the text box por
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _NewData_|Required|**String**|A string that Microsoft Access uses to pass the text the user entered in the text box portion of the combo box to the event procedure.|
-| _Response_|Required|**Integer**|The setting indicates how the  **NotInList** event was handled. The _Response_ argument can be one of the following intrinsic constants: <ul><li>**acDataErrDisplay** (Default) Displays the default message to the user. You can use this when you don't want to allow the user to add a new value to the combo box list.</li><li>**acDataErrContinue** Doesn't display the default message to the user. You can use this when you want to display a custom message to the user. For example, the event procedure could display a custom dialog box asking if the user wanted to save the new entry. If the response is Yes, the event procedure would add the new entry to the list and set the **Response** argument to **acDataErrAdded**. If the response is No, the event procedure would set the **Response** argument to **acDataErrContinue**.</li><li>**acDataErrAdded** Doesn't display a message to the user but enables you to add the entry to the combo box list in the **NotInList**  event procedure. After the entry is added, Microsoft Access updates the list by re-querying the combo box. Microsoft Access then rechecks the string against the combo box list, and saves the value in the **NewData** argument in the field the combo box is bound to. If the string is not in the list, then Microsoft Access displays an error message.</li></ul>|
+| _Response_|Required|**Integer**|The setting indicates how the **NotInList** event was handled. The _Response_ argument can be one of the following intrinsic constants: <ul><li>**acDataErrDisplay** (Default) Displays the default message to the user. You can use this when you don't want to allow the user to add a new value to the combo box list.</li><li>**acDataErrContinue** Doesn't display the default message to the user. You can use this when you want to display a custom message to the user. For example, the event procedure could display a custom dialog box asking if the user wanted to save the new entry. If the response is Yes, the event procedure would add the new entry to the list and set the **Response** argument to **acDataErrAdded**. If the response is No, the event procedure would set the **Response** argument to **acDataErrContinue**.</li><li>**acDataErrAdded** Doesn't display a message to the user but enables you to add the entry to the combo box list in the **NotInList**  event procedure. After the entry is added, Microsoft Access updates the list by re-querying the combo box. Microsoft Access then rechecks the string against the combo box list, and saves the value in the **NewData** argument in the field the combo box is bound to. If the string is not in the list, then Microsoft Access displays an error message.</li></ul>|
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the  **[OnNotInList](combobox-onnotinlist-property-access.md)** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **[OnNotInList](combobox-onnotinlist-property-access.md)** property to the name of the macro or to [Event Procedure].
 
 This event enables the user to add a new value to the combo box list.
 
-The  **[LimitToList](combobox-limittolist-property-access.md)** property must be set to Yes for the **NotInList** event to occur.
+The **[LimitToList](combobox-limittolist-property-access.md)** property must be set to Yes for the **NotInList** event to occur.
 
-The  **NotInList** event doesn't trigger the **Error** event.
+The **NotInList** event doesn't trigger the **Error** event.
 
-The  **NotInList** event occurs for combo boxes whose **LimitToList** property is set to Yes, after you enter a value that isn't in the list and attempt to move to another control or save the record. The event occurs after all the **Change** events for the combo box.
+The **NotInList** event occurs for combo boxes whose **LimitToList** property is set to Yes, after you enter a value that isn't in the list and attempt to move to another control or save the record. The event occurs after all the **Change** events for the combo box.
 
-When the  **[AutoExpand](combobox-autoexpand-property-access.md)** property is set to Yes, Microsoft Access selects matching values in the list as the user enters characters in the text box portion of the combo box. If the characters the user types match the first characters of a value in the list (for example, the user types "Smith" and "Smithson" is a value in the list), the **NotInList** event will not occur when the user moves to another control or saves the record. However, the characters that Microsoft Access adds to the characters the user types (in the example, "son") are selected in the text box portion of the combo box. If the user wants the **NotInList** event to fire in such cases (for example, the user wants to add the new name "Smith" to the combo box list), the user can enter a **SPACE**,  **BACKSPACE**, or  **DEL** character after the last character in the new value.
+When the **[AutoExpand](combobox-autoexpand-property-access.md)** property is set to Yes, Microsoft Access selects matching values in the list as the user enters characters in the text box portion of the combo box. If the characters the user types match the first characters of a value in the list (for example, the user types "Smith" and "Smithson" is a value in the list), the **NotInList** event will not occur when the user moves to another control or saves the record. However, the characters that Microsoft Access adds to the characters the user types (in the example, "son") are selected in the text box portion of the combo box. If the user wants the **NotInList** event to fire in such cases (for example, the user wants to add the new name "Smith" to the combo box list), the user can enter a **SPACE**, **BACKSPACE**, or **DEL** character after the last character in the new value.
 
-When the  **LimitToList** property is set to Yes and the combo box list is dropped down, Microsoft Access selects matching values in the list as the user enters characters in the text box portion of the combo box, even if the **AutoExpand** property is set to No. If the user presses **ENTER** or moves to another control or record, the selected value appears in the combo box. In this case, the **NotInList** event will not fire. To allow the **NotInList** event to fire, the user should not drop down the combo box list.
+When the **LimitToList** property is set to Yes and the combo box list is dropped down, Microsoft Access selects matching values in the list as the user enters characters in the text box portion of the combo box, even if the **AutoExpand** property is set to No. If the user presses **ENTER** or moves to another control or record, the selected value appears in the combo box. In this case, the **NotInList** event will not fire. To allow the **NotInList** event to fire, the user should not drop down the combo box list.
 
 
 ## Example
 
-The following example uses the  **NotInList** event to add an item to a combo box.
+The following example uses the **NotInList** event to add an item to a combo box.
 
-To try this example, create a combo box called Colors on a form. Set the combo box's  **LimitToList** property to Yes. To populate the combo box, set the combo box's **RowSourceType** property to Value List, and supply a list of values separated by semicolons as the setting for the **RowSource** property. For example, you might supply the following values as the setting for this property: Red; Green; Blue.
+To try this example, create a combo box called Colors on a form. Set the combo box's **LimitToList** property to Yes. To populate the combo box, set the combo box's **RowSourceType** property to Value List, and supply a list of values separated by semicolons as the setting for the **RowSource** property. For example, you might supply the following values as the setting for this property: Red; Green; Blue.
 
 Next add the following event procedure to the form. Switch to Form view and enter a new value in the text portion of the combo box. 
 
@@ -89,7 +89,7 @@ End Sub
 
 
 
-The following example shows how to use the  **NotInList** event to add an item to a bound combo box.
+The following example shows how to use the **NotInList** event to add an item to a bound combo box.
 
  **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
 

@@ -8,7 +8,7 @@ ms.prod: project-server
 
 # EngagementComment Object (Project)
 
-A collection of  **EngagementComment** objects. Introduced in Office 2016.
+A collection of **EngagementComment** objects. Introduced in Office 2016.
  
 
 

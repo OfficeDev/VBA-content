@@ -26,8 +26,8 @@ Adds a new SmartArtNode to the data model in the way specified by the SmartArtNo
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Position_|Optional|**MsoSmartArtNodePosition**|Specifies the location of the SmartArtNode in the data model. For example,  **msoSmartArtNodeAbove** or **msoSmartArtNodeAfter**.|
-| _Type_|Optional|**MsoSmartArtNodeType**|Specifies the type of the added SmartArtNode. For example,  **msoSmartArtNodeTypeAssistant** or **msoSmartArtNodeTypeDefault**.|
+| _Position_|Optional|**MsoSmartArtNodePosition**|Specifies the location of the SmartArtNode in the data model. For example, **msoSmartArtNodeAbove** or **msoSmartArtNodeAfter**.|
+| _Type_|Optional|**MsoSmartArtNodeType**|Specifies the type of the added SmartArtNode. For example, **msoSmartArtNodeTypeAssistant** or **msoSmartArtNodeTypeDefault**.|
 
 ### Return Value
 

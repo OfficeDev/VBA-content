@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PictureEffect.EffectParameters Property (Office)
 
-Returns an  **EffectParameter** object. Read-only
+Returns an **EffectParameter** object. Read-only
 
 
 ## Syntax

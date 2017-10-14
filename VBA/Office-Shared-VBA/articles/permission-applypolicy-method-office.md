@@ -33,7 +33,7 @@ Applies the specified permission policy to the active document.
 
 ## Remarks
 
-Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. The  **ApplyPolicy** method applies a permission policy to the active document.
+Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. The **ApplyPolicy** method applies a permission policy to the active document.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.LockAspectRatio Property (Project)
-Gets or sets a value that indicates whether the shape range retains its original proportions when you resize it; that is, the aspect ratio of the shape range is locked. Read-write  **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
+Gets or sets a value that indicates whether the shape range retains its original proportions when you resize it; that is, the aspect ratio of the shape range is locked. Read-write **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets or sets a value that indicates whether the shape range retains its original
 
 ## Remarks
 
-The  **LockAspectRatio** value is **msoTrue** if the shape range retains its original proportions when it is resized. If you can change the height and width of the shape range independently, the value is **msoFalse**.
+The **LockAspectRatio** value is **msoTrue** if the shape range retains its original proportions when it is resized. If you can change the height and width of the shape range independently, the value is **msoFalse**.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.GetWidth Method (Publisher)
 
-Returns the width of the shape or shape range as a  **Single** in the specified units. .
+Returns the width of the shape or shape range as a **Single** in the specified units. .
 
 
 ## Syntax
 
  _expression_. **GetWidth**( **_Unit_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -38,9 +38,9 @@ Single
 
 ## Remarks
 
-The Unit parameter can be one of the  **[PbUnitType](pbunittype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The Unit parameter can be one of the **[PbUnitType](pbunittype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-Use the  **[GetHeight](shape-getheight-method-publisher.md)** method to return the height of a shape or shape range.
+Use the **[GetHeight](shape-getheight-method-publisher.md)** method to return the height of a shape or shape range.
 
 
 ## Example

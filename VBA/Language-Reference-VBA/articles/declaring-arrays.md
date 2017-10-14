@@ -11,13 +11,13 @@ ms.date: 06/08/2017
 
 # Declaring Arrays
 
-[Arrays](vbe-glossary.md) are declared the same way as other [variables](vbe-glossary.md), using the  **Dim**, **Static**, **Private**, or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
+[Arrays](vbe-glossary.md) are declared the same way as other [variables](vbe-glossary.md), using the **Dim**, **Static**, **Private**, or **Public** statements. The difference between scalar variables (those that aren't arrays) and array variables is that you generally must specify the size of the array. An array whose size is specified is a fixed-size array. An array whose size can be changed while a program is running is a dynamic array.
 
-Whether an array is indexed from 0 or 1 depends on the setting of the  **Option** **Base** statement. If **Option** **Base** **1** is not specified, all array indexes begin at zero.
+Whether an array is indexed from 0 or 1 depends on the setting of the **Option** **Base** statement. If **Option** **Base** **1** is not specified, all array indexes begin at zero.
 
 ## Declaring a Fixed Array
 
-In the following line of code, a fixed-size array is declared as an  **Integer** array having 11 rows and 11 columns:
+In the following line of code, a fixed-size array is declared as an **Integer** array having 11 rows and 11 columns:
 
 
 ```vb
@@ -58,7 +58,7 @@ The maximum size of an array varies, based on your operating system and how much
 
 ## Declaring a Dynamic Array
 
-By declaring a dynamic array, you can size the array while the code is running. Use a  **Static**, **Dim**, **Private**, or **Public** statement to declare an array, leaving the parentheses empty, as shown in the following example.
+By declaring a dynamic array, you can size the array while the code is running. Use a **Static**, **Dim**, **Private**, or **Public** statement to declare an array, leaving the parentheses empty, as shown in the following example.
 
 
 ```vb
@@ -67,9 +67,9 @@ Dim sngArray() As Single
 ```
 
 
- **Note**  You can use the  **ReDim** statement to declare an array implicitly within a procedure. Be careful not to misspell the name of the array when you use the **ReDim** statement. Even if the **Option Explicit** statement is included in the module, a second array will be created.
+ **Note**  You can use the **ReDim** statement to declare an array implicitly within a procedure. Be careful not to misspell the name of the array when you use the **ReDim** statement. Even if the **Option Explicit** statement is included in the module, a second array will be created.
 
-In a procedure within the array's [scope](vbe-glossary.md), use the  **ReDim** statement to change the number of dimensions, to define the number of elements, and to define the upper and lower bounds for each dimension. You can use the **ReDim** statement to change the dynamic array as often as necessary. However, each time you do this, the existing values in the array are lost. Use **ReDim Preserve** to expand an array while preserving existing values in the array. For example, the following statement enlarges the array by 10 elements without losing the current values of the original elements.
+In a procedure within the array's [scope](vbe-glossary.md), use the **ReDim** statement to change the number of dimensions, to define the number of elements, and to define the upper and lower bounds for each dimension. You can use the **ReDim** statement to change the dynamic array as often as necessary. However, each time you do this, the existing values in the array are lost. Use **ReDim Preserve** to expand an array while preserving existing values in the array. For example, the following statement enlarges the array by 10 elements without losing the current values of the original elements.
 
 
 
@@ -80,6 +80,6 @@ ReDim Preserve varArray(UBound(varArray) + 10)
 ```
 
 
- **Note**  When you use the  **Preserve** [keyword](vbe-glossary.md) with a dynamic array, you can change only the upper bound of the last dimension, but you can't change the number of dimensions.
+ **Note**  When you use the **Preserve** [keyword](vbe-glossary.md) with a dynamic array, you can change only the upper bound of the last dimension, but you can't change the number of dimensions.
 
 

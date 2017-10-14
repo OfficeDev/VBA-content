@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Groups Method (Project)
 
-Displays the  **More Groups** dialog box, which prompts the user to apply a grouping.
+Displays the **More Groups** dialog box, which prompts the user to apply a grouping.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **More Groups** dialog box, which prompts the user to apply a grou
 
 ## Remarks
 
-The  **Groups** method corresponds to the following command on the Ribbon: In the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **More Groups**.
+The **Groups** method corresponds to the following command on the Ribbon: In the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **More Groups**.
 
 

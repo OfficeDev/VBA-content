@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.GetSelection Method (Outlook)
 
-Returns a  **[Selection](selection-object-outlook.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer.
+Returns a **[Selection](selection-object-outlook.md)** object that contains the kind of objects specified by the _SelectionContents_ parameter, and that are currently selected in the active explorer.
 
 
 ## Syntax
@@ -33,14 +33,14 @@ Returns a  **[Selection](selection-object-outlook.md)** object that contains the
 
 ### Return Value
 
-A  **Selection** object that contains the specified kind of objects that are selected in the active explorer.
+A **Selection** object that contains the specified kind of objects that are selected in the active explorer.
 
 
 ## Remarks
 
-Calling  **GetSelection** with **olConversationHeaders** as the argument returns a **Selection** object that has the **[Location](selection-location-property-outlook.md)** property equal to **OlSelectionLocation.olViewList** .
+Calling **GetSelection** with **olConversationHeaders** as the argument returns a **Selection** object that has the **[Location](selection-location-property-outlook.md)** property equal to **OlSelectionLocation.olViewList** .
 
-If the current view is not a conversation view, or, if  **Selection.Location** is not equal to **OlSelectionLocation.olViewList** , calling **GetSelection** with **olConversationHeaders** as the argument returns a **Selection** object with **[Selection.Count](selection-count-property-outlook.md)** equal to 0.
+If the current view is not a conversation view, or, if **Selection.Location** is not equal to **OlSelectionLocation.olViewList** , calling **GetSelection** with **olConversationHeaders** as the argument returns a **Selection** object with **[Selection.Count](selection-count-property-outlook.md)** equal to 0.
 
 
 ## See also

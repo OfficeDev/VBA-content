@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLPart.NamespaceURI Property (Office)
 
-Gets the unique address identifier for the namespace of the  **CustomXMLPart** object. Read-only.
+Gets the unique address identifier for the namespace of the **CustomXMLPart** object. Read-only.
 
 
 ## Syntax

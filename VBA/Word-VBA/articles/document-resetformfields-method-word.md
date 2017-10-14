@@ -25,7 +25,7 @@ Clears all form fields in a document, preparing the form to be filled in again.
 
 ## Remarks
 
-Use the  **ResetFormFields** method to clear fields when a document's fields are not locked. To clear fields when a document's fields are locked, use the **Protect** method.
+Use the **ResetFormFields** method to clear fields when a document's fields are not locked. To clear fields when a document's fields are locked, use the **Protect** method.
 
 
 ## Example

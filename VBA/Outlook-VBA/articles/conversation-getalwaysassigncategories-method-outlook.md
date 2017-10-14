@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conversation.GetAlwaysAssignCategories Method (Outlook)
 
-Returns a  **String** that indicates the category or categories that are assigned to all new items that arrive in the conversation.
+Returns a **String** that indicates the category or categories that are assigned to all new items that arrive in the conversation.
 
 
 ## Syntax
@@ -33,18 +33,18 @@ Returns a  **String** that indicates the category or categories that are assigne
 
 ### Return Value
 
-A  **String** that contains one or more categories that are assigned to items in the conversation.
+A **String** that contains one or more categories that are assigned to items in the conversation.
 
 
 ## Remarks
 
-Multiple categories are delimited by commas in the string of category names that this property returns. To convert the string of category names to an array of category names, use the Microsoft Visual Basic  **Split** function.
+Multiple categories are delimited by commas in the string of category names that this property returns. To convert the string of category names to an array of category names, use the Microsoft Visual Basic **Split** function.
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the method returns a string of categories that are applied to conversation items in the default delivery store.
 
-If the  **[SetAlwaysAssignCategories](conversation-setalwaysassigncategories-method-outlook.md)** method has not been applied to a conversation, **GetAlwaysAssignCategories** returns **Null** ( **Nothing** in Visual Basic).
+If the **[SetAlwaysAssignCategories](conversation-setalwaysassigncategories-method-outlook.md)** method has not been applied to a conversation, **GetAlwaysAssignCategories** returns **Null** ( **Nothing** in Visual Basic).
 
-To stop the action of always assigning categories, use the  **[ClearAlwaysAssignCategories](conversation-clearalwaysassigncategories-method-outlook.md)** method. After the **ClearAlwaysAssignCategories** method has been called, **GetAlwaysAssignCategories** returns an empty string.
+To stop the action of always assigning categories, use the **[ClearAlwaysAssignCategories](conversation-clearalwaysassigncategories-method-outlook.md)** method. After the **ClearAlwaysAssignCategories** method has been called, **GetAlwaysAssignCategories** returns an empty string.
 
 
 ## See also

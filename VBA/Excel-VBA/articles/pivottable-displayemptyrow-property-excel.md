@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.DisplayEmptyRow Property (Excel)
 
-Returns  **True** when the non-empty MDX keyword is included in the query to the OLAP provider for the category axis. The OLAP provider will not return empty rows in the result set. Returns **False** when the non-empty keyword is omitted. Read/write **Boolean** .
+Returns **True** when the non-empty MDX keyword is included in the query to the OLAP provider for the category axis. The OLAP provider will not return empty rows in the result set. Returns **False** when the non-empty keyword is omitted. Read/write **Boolean** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.HasVBProject Property (Excel)
 
-Returns a  **Boolean** that represents whether a workbook has an attached Microsoft Visual Basic for Applications project. Read-only **Boolean** .
+Returns a **Boolean** that represents whether a workbook has an attached Microsoft Visual Basic for Applications project. Read-only **Boolean** .
 
 
 ## Syntax

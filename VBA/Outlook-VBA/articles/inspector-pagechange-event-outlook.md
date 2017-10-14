@@ -33,7 +33,7 @@ Occurs when the active form page changes, either programmatically or by user act
 
 ## Remarks
 
-An error occurs if the event handler for this event calls either the  **[Close](inspector-close-method-outlook.md)** or **[SetCurrentFormPage](inspector-setcurrentformpage-method-outlook.md)** methods.
+An error occurs if the event handler for this event calls either the **[Close](inspector-close-method-outlook.md)** or **[SetCurrentFormPage](inspector-setcurrentformpage-method-outlook.md)** methods.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceMembers.ItemCountExceeded Property (Office)
 
-Gets a  **Boolean** value that indicates whether the number of **SharedWorkspaceMembers** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.
+Gets a **Boolean** value that indicates whether the number of **SharedWorkspaceMembers** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -33,9 +33,9 @@ Boolean
 
 ## Remarks
 
-The  **Shared Workspace** task pane can only display 99 shared workspace files and folders, links, members, or tasks. If more than 99 items are added to any of these collections: the corresponding tab of the **Shared Workspace** task pane stops displaying the list of items and displays a link to the shared workspace site Web page instead; the collection is no longer populated locally and its **Count** property returns 0 (zero).
+The **Shared Workspace** task pane can only display 99 shared workspace files and folders, links, members, or tasks. If more than 99 items are added to any of these collections: the corresponding tab of the **Shared Workspace** task pane stops displaying the list of items and displays a link to the shared workspace site Web page instead; the collection is no longer populated locally and its **Count** property returns 0 (zero).
 
-Furthermore, once the  **ItemCountExceeded** property returns **True** for one of the collections listed above, the developer can no longer remedy the situation programmatically by deleting items from the collection to reduce the count below 99, because the collection is no longer populated.
+Furthermore, once the **ItemCountExceeded** property returns **True** for one of the collections listed above, the developer can no longer remedy the situation programmatically by deleting items from the collection to reduce the count below 99, because the collection is no longer populated.
 
 
 ## See also

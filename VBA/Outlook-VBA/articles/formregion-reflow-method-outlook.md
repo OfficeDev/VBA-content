@@ -25,7 +25,7 @@ Causes Outlook to recalculate the height of an adjoining form region to display 
 
 ## Remarks
 
-The  **Reflow** method only applies to adjoining form regions. No action occurs for separate form regions.
+The **Reflow** method only applies to adjoining form regions. No action occurs for separate form regions.
 
 
 ## See also

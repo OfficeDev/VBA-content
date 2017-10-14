@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.OvertimeWork Property (Project)
 
-Gets the overtime work for a task. Read-only  **Variant**.
+Gets the overtime work for a task. Read-only **Variant**.
 
 
 ## Syntax

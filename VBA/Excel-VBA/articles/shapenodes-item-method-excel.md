@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[ShapeNode](shapenode-object-excel.md)** object contained by the collection.
+A **[ShapeNode](shapenode-object-excel.md)** object contained by the collection.
 
 
 ## See also

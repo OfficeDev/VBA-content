@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileExportConverter.FileFormat Property (Excel)
 
-Returns an integer that identifies the file format associated with the specified  **[FileExportConverter](fileexportconverter-object-excel.md)** object. Read-only.
+Returns an integer that identifies the file format associated with the specified **[FileExportConverter](fileexportconverter-object-excel.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an integer that identifies the file format associated with the specified
 
 ## Example
 
-The following example displays the file format identifier for the first file converter in the  **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
+The following example displays the file format identifier for the first file converter in the **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
 
 
 ```vb
@@ -35,7 +35,7 @@ Set fcTemp = FileExportConverters(1)
 MsgBox "The file format identifier for the file converter is: " &; fcTemp.FileFormat
 ```
 
-The following example shows how to use the file format identifier as a parameter in the  **[SaveAs](workbook-saveas-method-excel.md)** method of the **Workbook** object to save a file using the first file converter in the **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
+The following example shows how to use the file format identifier as a parameter in the **[SaveAs](workbook-saveas-method-excel.md)** method of the **Workbook** object to save a file using the first file converter in the **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
 
 
 

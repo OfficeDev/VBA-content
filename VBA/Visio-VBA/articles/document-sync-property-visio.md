@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Sync Property (Visio)
 
-Returns a Microsoft Office  **Sync** object that provides information about the status of the active document in a shared workspace and the ability to perform a set of actions. Read-only.
+Returns a Microsoft Office **Sync** object that provides information about the status of the active document in a shared workspace and the ability to perform a set of actions. Read-only.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Object
 
 ## Remarks
 
-If the  **Sync** object is unavailable because the synchronization engine fails to respond, the following error message is displayed: "The synchronization engine is not available."
+If the **Sync** object is unavailable because the synchronization engine fails to respond, the following error message is displayed: "The synchronization engine is not available."
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Sync** property to get a **Sync** object and get the status of the active document in a shared workspace.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Sync** property to get a **Sync** object and get the status of the active document in a shared workspace.
 
 
 ```vb

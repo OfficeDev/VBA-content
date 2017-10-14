@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.Organizer Property (Outlook)
 
-Returns a  **String** representing the name of the organizer of the appointment. Read-only.
+Returns a **String** representing the name of the organizer of the appointment. Read-only.
 
 
 ## Syntax

@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # Attachments Object (Outlook)
 
-Contains a set of  **[Attachment](http://msdn.microsoft.com/library/3e11582b-ac90-0948-bc37-506570bb287b%28Office.15%29.aspx)** objects that represent the attachments in an Outlook item.
+Contains a set of **[Attachment](http://msdn.microsoft.com/library/3e11582b-ac90-0948-bc37-506570bb287b%28Office.15%29.aspx)** objects that represent the attachments in an Outlook item.
 
 
 ## Remarks
 
-Use the  **[Attachments](http://msdn.microsoft.com/library/2843bef3-2ace-1cc0-1f15-c3fb776c3bf9%28Office.15%29.aspx)** property to return the **Attachments** collection for any Outlook item (except notes).
+Use the **[Attachments](http://msdn.microsoft.com/library/2843bef3-2ace-1cc0-1f15-c3fb776c3bf9%28Office.15%29.aspx)** property to return the **Attachments** collection for any Outlook item (except notes).
 
-Use the  **[Add](http://msdn.microsoft.com/library/e11980fd-e1fc-a0c3-cdd0-0e598988d3c2%28Office.15%29.aspx)** method to add an attachment to an item.
+Use the **[Add](http://msdn.microsoft.com/library/e11980fd-e1fc-a0c3-cdd0-0e598988d3c2%28Office.15%29.aspx)** method to add an attachment to an item.
 
-To ensure consistent results, always save an item before adding or removing objects in the  **Attachments** collection of the item.
+To ensure consistent results, always save an item before adding or removing objects in the **Attachments** collection of the item.
 
 
 ## Example

@@ -18,7 +18,7 @@ Represents a customizable view used to sort, group, and view data.
 
 ## Remarks
 
-The  **View** object allows you to create customizable views that allow you to better sort, group and ultimately view data of all different types. There are a variety of different view types that provide the flexibility needed to create and maintain your important data.
+The **View** object allows you to create customizable views that allow you to better sort, group and ultimately view data of all different types. There are a variety of different view types that provide the flexibility needed to create and maintain your important data.
 
 
 - The table view type ( **olTableView** ) allows you to view data in a simple field-based table.
@@ -31,18 +31,18 @@ The  **View** object allows you to create customizable views that allow you to b
     
 - The timeline view type ( **olTimelineView** ) allows you to view data as it is received in a customizable linear time line.
     
-Views are defined and customized using the  **View** object's **[XML](http://msdn.microsoft.com/library/a933daaa-370f-2ed3-0a59-86f766a1f2c8%28Office.15%29.aspx)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
+Views are defined and customized using the **View** object's **[XML](http://msdn.microsoft.com/library/a933daaa-370f-2ed3-0a59-86f766a1f2c8%28Office.15%29.aspx)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
 
-Use  **Views** ( _index_ ), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
+Use **Views** ( _index_ ), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
 
-Use the  **[Add](http://msdn.microsoft.com/library/8005ca2e-8b28-1286-74d1-448f2a168c65%28Office.15%29.aspx)** method of the **Views** collection to create a new view.
+Use the **[Add](http://msdn.microsoft.com/library/8005ca2e-8b28-1286-74d1-448f2a168c65%28Office.15%29.aspx)** method of the **Views** collection to create a new view.
 
-Always use  **[Save](http://msdn.microsoft.com/library/effc4046-2e9c-3898-e37f-c4de817ddde7%28Office.15%29.aspx)** to save a view after you change any property of the view.
+Always use **[Save](http://msdn.microsoft.com/library/effc4046-2e9c-3898-e37f-c4de817ddde7%28Office.15%29.aspx)** to save a view after you change any property of the view.
 
 
 ## Example
 
-The following example returns a view called Table View and stores it in a variable of type  **View** called objView. Before running this example, make sure a view by the name 'Table View' exists.
+The following example returns a view called Table View and stores it in a variable of type **View** called objView. Before running this example, make sure a view by the name 'Table View' exists.
 
 
 ```
@@ -69,7 +69,7 @@ Sub GetView()
 End Sub
 ```
 
-The following example creates a new view of type  **olTableView** called New Table.
+The following example creates a new view of type **olTableView** called New Table.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskPanes.Item Method (Word)
 
-Returns the specified task pane as a  **TaskPane** object.
+Returns the specified task pane as a **TaskPane** object.
 
 
 ## Syntax

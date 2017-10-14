@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.TargetBrowser Property (Word)
 
-Sets or returns an  **MsoTargetBrowser** constant representing the target browser for documents viewed in a Web browser. Read/write.
+Sets or returns an **MsoTargetBrowser** constant representing the target browser for documents viewed in a Web browser. Read/write.
 
 
 ## Syntax

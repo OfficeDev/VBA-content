@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlAccountType Enumeration (Outlook)
 
-Specifies the type of an  **[Account](account-object-outlook.md)** .
+Specifies the type of an **[Account](account-object-outlook.md)** .
 
 
 

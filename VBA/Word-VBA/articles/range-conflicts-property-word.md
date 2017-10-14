@@ -25,7 +25,7 @@ Returns a [Conflicts](conflicts-object-word.md) collection object that contains 
 
 ## Remarks
 
-Use the  **Conflicts** property to return the[Conflicts](conflicts-object-word.md) collection object for a document. Use Conflicts( _Index_ ), where _Index_ is the conflict index number, to return a single[Conflict](conflict-object-word.md) object.
+Use the **Conflicts** property to return the[Conflicts](conflicts-object-word.md) collection object for a document. Use Conflicts( _Index_ ), where _Index_ is the conflict index number, to return a single[Conflict](conflict-object-word.md) object.
 
 
  **Note**  This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.

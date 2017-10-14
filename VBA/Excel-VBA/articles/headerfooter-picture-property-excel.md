@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeaderFooter.Picture Property (Excel)
 
-Returns a  **Picture** object that represents a picture field included in the specified header or footer. Read-only.
+Returns a **Picture** object that represents a picture field included in the specified header or footer. Read-only.
 
 
 ## Syntax

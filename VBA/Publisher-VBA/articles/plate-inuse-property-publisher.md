@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Plate.InUse Property (Publisher)
 
-Returns  **True** if the specified ink (represented by the plate) is used in the publication. Read-only **Boolean**.
+Returns **True** if the specified ink (represented by the plate) is used in the publication. Read-only **Boolean**.
 
 
 ## Syntax
 
  _expression_. **InUse**
 
- _expression_A variable that represents an  **Plate** object.
+ _expression_A variable that represents an **Plate** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-This property corresponds to the  **In Use** or **Not In Use** notation listed by each ink on the **Ink** tab of the **Color Printing** dialog box.
+This property corresponds to the **In Use** or **Not In Use** notation listed by each ink on the **Ink** tab of the **Color Printing** dialog box.
 
 
 ## Example

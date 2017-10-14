@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.AlignPoint Property (Word)
 
-Returns or sets a  **Long** that represents the character position of the alignment point in the equation. Read/write.
+Returns or sets a **Long** that represents the character position of the alignment point in the equation. Read/write.
 
 
 ## Syntax

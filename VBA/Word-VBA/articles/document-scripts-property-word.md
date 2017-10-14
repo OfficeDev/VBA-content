@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Scripts Property (Word)
 
-Returns a  **Scripts** collection that represents the collection of HTML scripts in the specified object.
+Returns a **Scripts** collection that represents the collection of HTML scripts in the specified object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Scripts** collection that represents the collection of HTML scripts
 
 ## Example
 
-This example displays the text in the first  **Script** object of the active document.
+This example displays the text in the first **Script** object of the active document.
 
 
 ```vb

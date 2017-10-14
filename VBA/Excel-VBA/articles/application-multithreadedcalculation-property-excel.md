@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MultiThreadedCalculation Property (Excel)
 
-Returns a  **MultiThreadedCalculation** object that controls the multi-threaded recalculation settings. Read-only.
+Returns a **MultiThreadedCalculation** object that controls the multi-threaded recalculation settings. Read-only.
 
 
 ## Syntax

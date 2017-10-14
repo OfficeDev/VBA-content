@@ -8,7 +8,7 @@ ms.prod: excel
 
 # XlForecastDataCompletion Enumeration (Excel)
 
-Constants passed to various  **WorksheetFunction** and **Workbook** statistical forecasting methods.
+Constants passed to various **WorksheetFunction** and **Workbook** statistical forecasting methods.
 
 
 ## Members

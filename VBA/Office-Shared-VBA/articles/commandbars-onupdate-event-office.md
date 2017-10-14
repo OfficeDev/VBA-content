@@ -31,7 +31,7 @@ Occurs when any change is made to a command bar.
 
 ## Remarks
 
-The  **OnUpdate** event is recognized by the **CommandBar** object and all command bar controls. The event is triggered by any change to a command bar or command bar control or any change to the state of a command bar or command bar control. These changes can occur due to a text or cell selection, for example. Since a large number of **OnUpdate** events can occur during normal usage, developers should exercise caution when using this event. It is strongly recommended that this event be used primarily for checking that a custom command bar has been added or removed by a COM AddIn.
+The **OnUpdate** event is recognized by the **CommandBar** object and all command bar controls. The event is triggered by any change to a command bar or command bar control or any change to the state of a command bar or command bar control. These changes can occur due to a text or cell selection, for example. Since a large number of **OnUpdate** events can occur during normal usage, developers should exercise caution when using this event. It is strongly recommended that this event be used primarily for checking that a custom command bar has been added or removed by a COM AddIn.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLParts.PartAfterLoad Event (Office)
 
-Occurs just after a  **CustomXMLPart** object is loaded.
+Occurs just after a **CustomXMLPart** object is loaded.
 
 
 ## Syntax

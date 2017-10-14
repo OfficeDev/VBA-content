@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.ResourceInitials Property (Project)
 
-Gets the initials of the resources assigned to a task, separated by the list separator. Read-only  **String**.
+Gets the initials of the resources assigned to a task, separated by the list separator. Read-only **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.FilterOnLoad Property (Access)
 
-Gets or sets whether the filter specified by the  **[Filter](report-filter-property-access.md)** property is applied when the report is loaded. Read/write **Boolean**.
+Gets or sets whether the filter specified by the **[Filter](report-filter-property-access.md)** property is applied when the report is loaded. Read/write **Boolean**.
 
 
 ## Syntax

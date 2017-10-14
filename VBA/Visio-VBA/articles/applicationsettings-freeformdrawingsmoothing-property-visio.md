@@ -30,8 +30,8 @@ Long
 
 ## Remarks
 
-Setting the  **FreeformDrawingSmoothing** property is equivalent to setting the **Smoothing** option on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **FreeformDrawingSmoothing** property is equivalent to setting the **Smoothing** option on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-Possible values for the  **FreeformDrawingSmoothing** property range from 0 ( **Tight**) to 10 ( **Loose**). The default is 5.
+Possible values for the **FreeformDrawingSmoothing** property range from 0 ( **Tight**) to 10 ( **Loose**). The default is 5.
 
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The function you are referencing is either unknown (because the name is invalid or misspelled) or is a type of function not allowed by the  **ValidationRule** or **DefaultValue** property. Among the types of functions not allowed are user-defined, SQL aggregate functions.
+The function you are referencing is either unknown (because the name is invalid or misspelled) or is a type of function not allowed by the **ValidationRule** or **DefaultValue** property. Among the types of functions not allowed are user-defined, SQL aggregate functions.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

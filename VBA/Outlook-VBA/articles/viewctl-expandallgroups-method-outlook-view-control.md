@@ -15,7 +15,7 @@ Expands (opens) all groups that are displayed in the control.
 
  _expression_. **ExpandAllGroups**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

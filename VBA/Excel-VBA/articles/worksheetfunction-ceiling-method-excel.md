@@ -46,11 +46,11 @@ Double
  For example, if you want to avoid using pennies in your prices and your product is priced at $4.42, use the formula `Ceiling(4.42,0.05)` to round prices up to the nearest nickel.
 
 
-- If either argument is nonnumeric,  **Ceiling** generates an error.
+- If either argument is nonnumeric, **Ceiling** generates an error.
     
 - Regardless of the sign of number, a value is rounded up when adjusted away from zero. If number is an exact multiple of significance, no rounding occurs.
     
-- If number and significance have different signs,  **Ceiling** generates an error.
+- If number and significance have different signs, **Ceiling** generates an error.
     
 
 ## See also

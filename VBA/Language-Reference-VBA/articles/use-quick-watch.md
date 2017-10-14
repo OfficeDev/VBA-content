@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Use Quick Watch
 
-In [break mode](vbe-glossary.md), you may want to check the current value of a [variable](vbe-glossary.md) or[expression](vbe-glossary.md) for which you haven't defined a[watch expression](vbe-glossary.md). Do this using the  **Quick Watch** command.
+In [break mode](vbe-glossary.md), you may want to check the current value of a [variable](vbe-glossary.md) or[expression](vbe-glossary.md) for which you haven't defined a[watch expression](vbe-glossary.md). Do this using the **Quick Watch** command.
 
  **To display a Quick Watch**
 
@@ -20,9 +20,9 @@ In [break mode](vbe-glossary.md), you may want to check the current value of a [
 
 1. Select an expression in the [module](vbe-glossary.md) where it resides.
     
-2. From the  **Debug** menu, choose **Quick Watch** (SHIFT+F9). The **Quick Watch** dialog box displays the current value of the expression you selected. -or- Right-click and choose **Quick Info** from the context menu. The[data type](vbe-glossary.md) of the expression is displayed.
+2. From the **Debug** menu, choose **Quick Watch** (SHIFT+F9). The **Quick Watch** dialog box displays the current value of the expression you selected. -or- Right-click and choose **Quick Info** from the context menu. The[data type](vbe-glossary.md) of the expression is displayed.
     
-3. To add a watch expression based on the expression in the  **Quick Watch** dialog box, choose **Add**.
+3. To add a watch expression based on the expression in the **Quick Watch** dialog box, choose **Add**.
     
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.TwipsToPoints Method (Publisher)
 
-Converts a measurement from twips to points (20 twips = 1 point). Returns the converted measurement as a  **Single**.
+Converts a measurement from twips to points (20 twips = 1 point). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
 
  _expression_. **TwipsToPoints**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[PointsToTwips](application-pointstotwips-method-publisher.md)** method to convert measurements in points to twips.
+Use the **[PointsToTwips](application-pointstotwips-method-publisher.md)** method to convert measurements in points to twips.
 
 
 ## Example

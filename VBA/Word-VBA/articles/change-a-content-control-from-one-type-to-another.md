@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Change a Content Control from One Type to Another
 
-The content controls that you can create in documents in Word 2007 and later are extremely flexible. In most cases, you can easily switch a content control from one type to another. For example, if you have a date content control, you can change it to be a text content control, or if you have a text content control, you can change it to be a rich-text content control. To do this, you use the  **[Type](contentcontrol-type-property-word.md)** property and set it to a **[WdContentControlType](wdcontentcontroltype-enumeration-word.md)** constant.
+The content controls that you can create in documents in Word 2007 and later are extremely flexible. In most cases, you can easily switch a content control from one type to another. For example, if you have a date content control, you can change it to be a text content control, or if you have a text content control, you can change it to be a rich-text content control. To do this, you use the **[Type](contentcontrol-type-property-word.md)** property and set it to a **[WdContentControlType](wdcontentcontroltype-enumeration-word.md)** constant.
 
 
  **Note**  Depending on the contents of a content control, you may not be able to change the content control type. For example, if you have a rich-text content control that contains formatted text, you may not be able to change the control to be a plain-text content control. In this case, Word raises a run-time error. 

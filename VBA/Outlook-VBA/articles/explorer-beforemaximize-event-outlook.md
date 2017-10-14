@@ -38,7 +38,7 @@ This event can be cancelled after it has started.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a warning message before maximizing the current window. If the user clicks  **Yes**, the explorer will maximize. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a warning message before maximizing the current window. If the user clicks **Yes**, the explorer will maximize. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

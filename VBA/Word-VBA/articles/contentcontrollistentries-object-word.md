@@ -13,22 +13,22 @@ ms.date: 06/08/2017
 
 # ContentControlListEntries Object (Word)
 
-The  **ContentControlListEntries** collection contains **ContentControlListEntry** objects that represent the items in a drop-down list or combo box content control.
+The **ContentControlListEntries** collection contains **ContentControlListEntry** objects that represent the items in a drop-down list or combo box content control.
 
 
 ## Remarks
 
-Use the  **[Add](contentcontrollistentries-add-method-word.md)** method to add an item to a drop-down list or combo box. The following code example uses the **Add** method to add several list items to a new drop-down list content control.
+Use the **[Add](contentcontrollistentries-add-method-word.md)** method to add an item to a drop-down list or combo box. The following code example uses the **Add** method to add several list items to a new drop-down list content control.
 
 
 ```vb
 Dim objCC As ContentControl Dim objLE As ContentControlListEntry Dim objMap As XMLMapping  Set objCC = ActiveDocument.ContentControls.Add(wdContentControlDropdownList)  'List items objCC.DropdownListEntries.Add "Cat" objCC.DropdownListEntries.Add "Dog" objCC.DropdownListEntries.Add "Equine" objCC.DropdownListEntries.Add "Monkey" objCC.DropdownListEntries.Add "Snake" objCC.DropdownListEntries.Add "Other"
 ```
 
-Use the  **[Item](contentcontrollistentries-item-method-word.md)** method or the **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property of a **ContentControl** object to access an individual list item within a collection. The following code example uses the **Item** method to access the third item in a list and change the display text.
+Use the **[Item](contentcontrollistentries-item-method-word.md)** method or the **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property of a **ContentControl** object to access an individual list item within a collection. The following code example uses the **Item** method to access the third item in a list and change the display text.
 
 
- **Note**  The following code example assumes that the first  **ContentControl** object in the active document is a drop-down list or combo box.
+ **Note**  The following code example assumes that the first **ContentControl** object in the active document is a drop-down list or combo box.
 
 
 
@@ -37,7 +37,7 @@ Use the  **[Item](contentcontrollistentries-item-method-word.md)** method or the
 Dim objCC As ContentControl Dim objLE As ContentControlListEntry Dim objMap As XMLMapping  Set objCC = ActiveDocument.ContentControls(1) Set objLE = objCC.DropdownListEntries.Item(3) objLE.Text = "Horse"
 ```
 
-Use the  **Clear** method to remove all items from a drop-down list or combo box. The following code example clears all items from the first content control in the active document.
+Use the **Clear** method to remove all items from a drop-down list or combo box. The following code example clears all items from the first content control in the active document.
 
 
  **Note**  The following code example assumes that the first content control in the active document is a drop-down list or combo box.

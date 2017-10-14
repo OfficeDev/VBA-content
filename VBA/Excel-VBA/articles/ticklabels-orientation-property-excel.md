@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.Orientation Property (Excel)
 
-Returns or sets a  **Long** value that represents the text orientation.
+Returns or sets a **Long** value that represents the text orientation.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** value that represents the text orientation.
 
 ## Remarks
 
-The value of this property can be an integer value from - 90 to 90 degrees or one of the  **[XlTickLabelOrientation](xlticklabelorientation-enumeration-excel.md)** constants.
+The value of this property can be an integer value from - 90 to 90 degrees or one of the **[XlTickLabelOrientation](xlticklabelorientation-enumeration-excel.md)** constants.
 
 
 ## See also

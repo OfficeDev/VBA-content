@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Signature.SignatureLineShape Property (Office)
 
-Gets the  **Shape** object associated with a **Signature** object that is a signature line. Read-only.
+Gets the **Shape** object associated with a **Signature** object that is a signature line. Read-only.
 
 
 ## Syntax

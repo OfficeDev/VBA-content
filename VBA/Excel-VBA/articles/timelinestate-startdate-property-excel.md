@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TimelineState.StartDate Property (Excel)
 
-Returns the start of the filtering date range.  **Variant** Read-only
+Returns the start of the filtering date range. **Variant** Read-only
 
 
 ## Syntax

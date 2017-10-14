@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.DownBars Property (Word)
 
-Returns the down bars on a line chart. Read-only  **[DownBars](downbars-object-word.md)** .
+Returns the down bars on a line chart. Read-only **[DownBars](downbars-object-word.md)** .
 
 
 ## Syntax

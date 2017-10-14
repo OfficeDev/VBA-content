@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Reports Method (Project)
 
-The  **Reports** method is deprecated in Project.
+The **Reports** method is deprecated in Project.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ The  **Reports** method is deprecated in Project.
 
 ## Remarks
 
-The older style of reports that require connection with a printer are deprecated in Project. Running the  **Reports** method returns Run-time error 1100, "Application-defined or object-defined error".
+The older style of reports that require connection with a printer are deprecated in Project. Running the **Reports** method returns Run-time error 1100, "Application-defined or object-defined error".
 
-For newer types of reports, see the  **[ReportsDialog](application-reportsdialog-method-project.md)** method for the Office Art types of reports or the **[VisualReports](application-visualreports-method-project.md)** method for the reports that use Excel and Visio templates.
+For newer types of reports, see the **[ReportsDialog](application-reportsdialog-method-project.md)** method for the Office Art types of reports or the **[VisualReports](application-visualreports-method-project.md)** method for the reports that use Excel and Visio templates.
 
 

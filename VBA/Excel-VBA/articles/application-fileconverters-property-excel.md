@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileConverters Property (Excel)
 
-Returns information about installed file converters. Returns  **null** if there are no converters installed. Read-only **Variant** .
+Returns information about installed file converters. Returns **null** if there are no converters installed. Read-only **Variant** .
 
 
 ## Syntax

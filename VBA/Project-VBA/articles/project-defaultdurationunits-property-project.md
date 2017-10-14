@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.DefaultDurationUnits Property (Project)
 
-Gets or sets the default duration units. Read/write  **PjUnit**.
+Gets or sets the default duration units. Read/write **PjUnit**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the default duration units. Read/write  **PjUnit**.
 
 ## Remarks
 
-The  **DefaultDurationUnits** property can be one of the following **[PjUnit](pjunit-enumeration-project.md)** constants: **pjMinute**, **pjHour**, **pjDay**, **pjWeek**, or **pjMonthUnit**.
+The **DefaultDurationUnits** property can be one of the following **[PjUnit](pjunit-enumeration-project.md)** constants: **pjMinute**, **pjHour**, **pjDay**, **pjWeek**, or **pjMonthUnit**.
 
 

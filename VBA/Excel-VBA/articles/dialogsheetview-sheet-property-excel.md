@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DialogSheetView.Sheet Property (Excel)
 
-Returns the sheet name for the specified  **[DialogSheetView](dialogsheetview-object-excel.md)** object. Read-only.
+Returns the sheet name for the specified **[DialogSheetView](dialogsheetview-object-excel.md)** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Previous Property (Word)
 
-Returns a  **Cell** object that represents the previous table cell in the **[Cells](cells-object-word.md)** collection. Read-only.
+Returns a **Cell** object that represents the previous table cell in the **[Cells](cells-object-word.md)** collection. Read-only.
 
 
 ## Syntax

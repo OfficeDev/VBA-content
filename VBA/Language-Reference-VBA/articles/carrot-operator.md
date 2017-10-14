@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to raise a number to the power of an exponent.
  **Syntax**
  _result_**=**_number_**^**_exponent_
-The  **^** operator syntax has these parts:
+The **^** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,12 +25,12 @@ The  **^** operator syntax has these parts:
 | _number_|Required; any [numeric expression](vbe-glossary.md).|
 | _exponent_|Required; any numeric expression.|
  **Remarks**
-A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](vbe-glossary.md), the  **^** operator is evaluated as it is encountered from left to right.
+A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](vbe-glossary.md), the **^** operator is evaluated as it is encountered from left to right.
 Usually, the [data type](vbe-glossary.md) of _result_ is a[Double](vbe-glossary.md) or a[Variant](vbe-glossary.md) containing a **Double**. However, if either _number_ or _exponent_ is a[Null](vbe-glossary.md) expression, _result_ is **Null**.
 
 ## Example
 
-This example uses the  **^** operator to raise a number to the power of an exponent.
+This example uses the **^** operator to raise a number to the power of an exponent.
 
 
 ```vb

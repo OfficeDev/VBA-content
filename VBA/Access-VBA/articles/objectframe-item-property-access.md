@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.Item Property (Access)
 
-The  **Item** property returns or sets a specific member of a collection. Read/write **String**.
+The **Item** property returns or sets a specific member of a collection. Read/write **String**.
 
 
 ## Syntax

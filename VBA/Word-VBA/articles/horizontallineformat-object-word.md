@@ -18,7 +18,7 @@ Represents horizontal line formatting.
 
 ## Remarks
 
-Use the  **HorizontalLineFormat** property to return a **HorizontalLineFormat** object. This example sets the alignment for a new horizontal line.
+Use the **HorizontalLineFormat** property to return a **HorizontalLineFormat** object. This example sets the alignment for a new horizontal line.
 
 
 ```

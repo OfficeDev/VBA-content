@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.Expression2 Property (Access)
 
-You can use the  **Expression2** property to return the values of a conditional format within a **[FormatCondition](formatcondition-object-access.md)** object. Read-only **String**.
+You can use the **Expression2** property to return the values of a conditional format within a **[FormatCondition](formatcondition-object-access.md)** object. Read-only **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **Expression2** property to return the values of a conditional 
 
 ## Remarks
 
-The  **Expression2** property returns a **Variant** value or expression associated with the second part of the conditional format when the **Operator** property of the **FormatCondition** object is **acBetween** or **acNotBetween**, otherwise, the **Expression2** property is **null**.
+The **Expression2** property returns a **Variant** value or expression associated with the second part of the conditional format when the **Operator** property of the **FormatCondition** object is **acBetween** or **acNotBetween**, otherwise, the **Expression2** property is **null**.
 
 
 ## See also

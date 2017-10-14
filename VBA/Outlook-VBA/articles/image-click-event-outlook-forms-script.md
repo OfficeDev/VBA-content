@@ -15,12 +15,12 @@ Occurs when the user clicks inside the control.
 
  _expression_. **Click**
 
- _expression_A variable that represents an  **Image** object.
+ _expression_A variable that represents an **Image** object.
 
 
 ## Remarks
 
-The following are examples of actions that initiate the  **Click** event of the specified control:
+The following are examples of actions that initiate the **Click** event of the specified control:
 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
@@ -31,6 +31,6 @@ The following are examples of actions that initiate the  **Click** event of the 
     
 
 
-Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
+Left-clicking changes the value of a control, thus it initiates the **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
 

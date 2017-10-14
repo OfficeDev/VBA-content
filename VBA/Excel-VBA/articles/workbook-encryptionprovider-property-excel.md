@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.EncryptionProvider Property (Excel)
 
-Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Office Excel 2007 uses when encrypting documents. Read/write.
+Returns a **String** specifying the name of the algorithm encryption provider that Microsoft Office Excel 2007 uses when encrypting documents. Read/write.
 
 
 ## Syntax

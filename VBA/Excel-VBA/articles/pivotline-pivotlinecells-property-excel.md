@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotLine.PivotLineCells Property (Excel)
 
-Returns a collection of  **PivotCell** objects in a PivotLine. Read-only.
+Returns a collection of **PivotCell** objects in a PivotLine. Read-only.
 
 
 ## Syntax

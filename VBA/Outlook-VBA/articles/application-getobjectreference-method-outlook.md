@@ -34,7 +34,7 @@ Creates a strong or weak object reference for a specified Outlook object.
 
 ### Return Value
 
-An  **Object** that represents a strong or weak object reference for the specified object.
+An **Object** that represents a strong or weak object reference for the specified object.
 
 
 ## Remarks

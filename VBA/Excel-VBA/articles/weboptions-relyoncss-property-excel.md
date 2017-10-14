@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You should set this property to  **True** if your Web browser supports cascading style sheets, as this will give you more precise layout and formatting control on your Web page and make it look more like your document (as it appears in Microsoft Excel).
+You should set this property to **True** if your Web browser supports cascading style sheets, as this will give you more precise layout and formatting control on your Web page and make it look more like your document (as it appears in Microsoft Excel).
 
 
 ## Example

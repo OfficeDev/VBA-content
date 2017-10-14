@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationFolders.Add Method (Outlook)
 
-Adds the specified  **[Folder](folder-object-outlook.md)** , as a **[NavigationFolder](navigationfolder-object-outlook.md)** object, to the end of the **[NavigationFolders](navigationfolders-object-outlook.md)** collection.
+Adds the specified **[Folder](folder-object-outlook.md)** , as a **[NavigationFolder](navigationfolder-object-outlook.md)** object, to the end of the **[NavigationFolders](navigationfolders-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Adds the specified  **[Folder](folder-object-outlook.md)** , as a **[NavigationF
 
 ### Return Value
 
-A  **NavigationFolder** object that represents the new navigation folder.
+A **NavigationFolder** object that represents the new navigation folder.
 
 
 ## Remarks
 
-A folder can only appear in one navigation group. When adding a  **Folder** object to a new navigation group, any references to that **Folder** are removed from any other navigation group of which it was previously a member.
+A folder can only appear in one navigation group. When adding a **Folder** object to a new navigation group, any references to that **Folder** are removed from any other navigation group of which it was previously a member.
 
 
 ## See also

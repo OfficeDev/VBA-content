@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Hyperlinks Property (Excel)
 
-Returns a  **[Hyperlinks](hyperlinks-object-excel.md)** collection that represents the hyperlinks for the worksheet.
+Returns a **[Hyperlinks](hyperlinks-object-excel.md)** collection that represents the hyperlinks for the worksheet.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.Path Property (PowerPoint)
 
-Returns a  **String** that represents the path to the specified **[Presentation](presentation-object-powerpoint.md)** object. Read-only.
+Returns a **String** that represents the path to the specified **[Presentation](presentation-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ String
 
 If you use this property to return a path for a presentation that has not been saved, it returns an empty string.
 
-The path doesn't include the final backslash (\) or the name of the specified object. Use the  **Name** property of the **Presentation** object to return the file name without the path, and use the **FullName** property to return the file name and the path together.
+The path doesn't include the final backslash (\) or the name of the specified object. Use the **Name** property of the **Presentation** object to return the file name without the path, and use the **FullName** property to return the file name and the path together.
 
 
 ## Example

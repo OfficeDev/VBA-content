@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # References.AddFromFile Method (Access)
 
-The  **AddFromFile** method creates a reference to a type library in a specified file. .
+The **AddFromFile** method creates a reference to a type library in a specified file. .
 
 
 ## Syntax

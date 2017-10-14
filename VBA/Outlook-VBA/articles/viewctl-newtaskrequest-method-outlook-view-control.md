@@ -15,6 +15,6 @@ Creates and displays a new task request.
 
  _expression_. **NewTaskRequest**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

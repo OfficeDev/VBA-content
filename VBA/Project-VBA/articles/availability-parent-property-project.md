@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Availability.Parent Property (Project)
 
-Gets the parent of the  **Availability** object. Read-only **Resource**.
+Gets the parent of the **Availability** object. Read-only **Resource**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the parent of the  **Availability** object. Read-only **Resource**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.Format Property (PowerPoint)
 
-Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](chartformat-object-powerpoint.md)**.
+Returns the line, fill, and effect formatting for the object. Read-only **[ChartFormat](chartformat-object-powerpoint.md)**.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.Enabled Property (Office)
 
-Is  **True** if the **CommandBarPopup** is enabled. Read/write.
+Is **True** if the **CommandBarPopup** is enabled. Read/write.
 
 
 ## 

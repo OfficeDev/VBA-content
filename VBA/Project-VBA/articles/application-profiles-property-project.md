@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Profiles Property (Project)
 
-Gets a  **[Profiles](profile-object-project.md)** collection representing the log on profiles defined for the Project application. Read-only **Profiles**.
+Gets a **[Profiles](profile-object-project.md)** collection representing the log on profiles defined for the Project application. Read-only **Profiles**.
 
 
 ## Syntax

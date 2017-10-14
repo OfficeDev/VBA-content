@@ -25,6 +25,6 @@ Returns or sets the description associated with the alternative text string for 
 
 ## Remarks
 
-The value of the  **Summary** property corresponds to the value in the **Description** box on the **Alt Text** tab of the **PivotTable Options** dialog box.
+The value of the **Summary** property corresponds to the value in the **Description** box on the **Alt Text** tab of the **PivotTable Options** dialog box.
 
 

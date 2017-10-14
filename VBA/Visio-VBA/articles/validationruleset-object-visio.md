@@ -18,8 +18,8 @@ Represents one set of diagram validation rules.
 
 ## Remarks
 
-To get a particular  **[ValidationRuleSet](validationruleset-object-visio.md)** object, you can use the **[Item](validationrulesets-item-property-visio.md)** or the **[ItemFromID](validationrulesets-itemfromid-property-visio.md)** property of the **[ValidationRuleSets](validationrulesets-object-visio.md)** collection of a **[Document](document-object-visio.md)** object.
+To get a particular **[ValidationRuleSet](validationruleset-object-visio.md)** object, you can use the **[Item](validationrulesets-item-property-visio.md)** or the **[ItemFromID](validationrulesets-itemfromid-property-visio.md)** property of the **[ValidationRuleSets](validationrulesets-object-visio.md)** collection of a **[Document](document-object-visio.md)** object.
 
-The default property of the  **ValidationRuleSet** object is **[Name](validationruleset-name-property-visio.md)** .
+The default property of the **ValidationRuleSet** object is **[Name](validationruleset-name-property-visio.md)** .
 
 

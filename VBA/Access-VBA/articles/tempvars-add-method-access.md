@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TempVars.Add Method (Access)
 
-Adds a variable to the  **[TempVars](tempvars-object-access.md)** collection.
+Adds a variable to the **[TempVars](tempvars-object-access.md)** collection.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Adds a variable to the  **[TempVars](tempvars-object-access.md)** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required|**String**|The name to use for the  **TempVar**.|
-| _Value_|Required|**Variant**|The value to store as a  **TempVar**. This value must be a string expression or a numeric expression. Setting this argument to an object data type will result in a run-time error.|
+| _Name_|Required|**String**|The name to use for the **TempVar**.|
+| _Value_|Required|**Variant**|The value to store as a **TempVar**. This value must be a string expression or a numeric expression. Setting this argument to an object data type will result in a run-time error.|
 
 ## See also
 

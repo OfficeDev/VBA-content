@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoShadowType Enumeration (Office)
 
-Specifies the type of shadow displayed with a shape.The  **msoShadowType** constants are numbered according to their order (left to right, top to bottom) within the **Shadow Style** set shown in the **Drawing** toolbar.
+Specifies the type of shadow displayed with a shape.The **msoShadowType** constants are numbered according to their order (left to right, top to bottom) within the **Shadow Style** set shown in the **Drawing** toolbar.
 
 
 

@@ -30,8 +30,8 @@ Determines whether Microsoft Visio defers recalculating shape sizes and relation
 
 ## Remarks
 
-For example, if you resize a shape that is a member of a container in a structured diagram, Visio will not adjust the size of the container if  **DeferRelationshipRecalc** is **True** . When you set **DeferRelationshipRecalc** to **False** , Visio recalculates the container size and adjusts it accordingly. (In each case, the container's **[ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property must be set to **visContainerAutoResizeExpandContract** .)
+For example, if you resize a shape that is a member of a container in a structured diagram, Visio will not adjust the size of the container if **DeferRelationshipRecalc** is **True** . When you set **DeferRelationshipRecalc** to **False** , Visio recalculates the container size and adjusts it accordingly. (In each case, the container's **[ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property must be set to **visContainerAutoResizeExpandContract** .)
 
-Setting  **DeferRelationshipRecalc** to **False** causes Visio to immediately process all deferred actions.
+Setting **DeferRelationshipRecalc** to **False** causes Visio to immediately process all deferred actions.
 
 

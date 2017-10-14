@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.TextToDisplay Property (Word)
 
-Returns or sets the specified hyperlink's visible text in a document. Read/write  **String** .
+Returns or sets the specified hyperlink's visible text in a document. Read/write **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Permission.Item Property (Office)
 
-Gets a  **UserPermission** object that is a member of the **Permission** collection. The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. Read-only.
+Gets a **UserPermission** object that is a member of the **Permission** collection. The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. Read-only.
 
 
 ## Syntax

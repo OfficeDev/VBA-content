@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Confirmed Property (Project)
 
-Gets the results of task assignments in a Project mail message.  **True** if all resources assigned to the task have accepted their assignments. Read-only **Boolean**.
+Gets the results of task assignments in a Project mail message. **True** if all resources assigned to the task have accepted their assignments. Read-only **Boolean**.
 
 
 ## Syntax

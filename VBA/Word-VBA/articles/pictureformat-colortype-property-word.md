@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.ColorType Property (Word)
 
-Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write  **MsoPictureColorType** .
+Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write **MsoPictureColorType** .
 
 
 ## Syntax

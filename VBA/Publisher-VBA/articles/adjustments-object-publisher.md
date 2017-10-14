@@ -20,7 +20,7 @@ Contains a collection of adjustment values for the specified AutoShape or WordAr
 
 Each adjustment value represents one way an adjustment handle can be adjusted. Because some adjustment handles can be adjusted in two ways ? for instance, some handles can be adjusted both horizontally and vertically ? a shape can have more adjustment values than it has adjustment handles. A shape can have up to eight adjustments.
 
-Use the  **[Adjustments](http://msdn.microsoft.com/library/14794cba-c671-51e3-0aac-52e885a4ba7f%28Office.15%29.aspx)** property to return an **Adjustments** object. Use **Adjustments** (index), where index is the adjustment value's index number, to return a single adjustment value.
+Use the **[Adjustments](http://msdn.microsoft.com/library/14794cba-c671-51e3-0aac-52e885a4ba7f%28Office.15%29.aspx)** property to return an **Adjustments** object. Use **Adjustments** (index), where index is the adjustment value's index number, to return a single adjustment value.
 
 Different shapes have different numbers of adjustment values, different kinds of adjustments change the geometry of a shape in different ways, and different kinds of adjustments have different ranges of valid values.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.LinkFormat Property (Word)
 
-Returns a  **LinkFormat** object that represents the link options of a shape that is linked to a file. Read/only.
+Returns a **LinkFormat** object that represents the link options of a shape that is linked to a file. Read/only.
 
 
 ## Syntax

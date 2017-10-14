@@ -10,17 +10,17 @@ ms.date: 06/08/2017
 
 # Points Object (Word)
 
-A collection of all the  **[Point](point-object-word.md)** objects in the specified series in a chart.
+A collection of all the **[Point](point-object-word.md)** objects in the specified series in a chart.
 
 
 ## Remarks
 
-Use  **[Points](series-points-method-word.md)** ( _Index_ ), where _Index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
+Use **[Points](series-points-method-word.md)** ( _Index_ ), where _Index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
 
 
 ## Example
 
-Use the  **Points** method to return the **Points** collection. The following example adds a data label to the last point in series one for the first chart in the active document.
+Use the **Points** method to return the **Points** collection. The following example adds a data label to the last point in series one for the first chart in the active document.
 
 
 ```vb

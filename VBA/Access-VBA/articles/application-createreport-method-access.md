@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CreateReport Method (Access)
 
-The  **CreateReport** method creates a report and returns a **[Report](report-object-access.md)** object. For example, suppose you are building a custom wizard to create a sales report. You can use the **CreateReport** method in your wizard to create a new report based on a specified report template.
+The **CreateReport** method creates a report and returns a **[Report](report-object-access.md)** object. For example, suppose you are building a custom wizard to create a sales report. You can use the **CreateReport** method in your wizard to create a new report based on a specified report template.
 
 
 ## Syntax
@@ -39,16 +39,16 @@ Report
 
 ## Remarks
 
-You can use the  **CreateReport** method when designing a wizard that creates a new report.
+You can use the **CreateReport** method when designing a wizard that creates a new report.
 
-The  **CreateReport** method open a new, minimized report in report Design view.
+The **CreateReport** method open a new, minimized report in report Design view.
 
 If the name you use for the  _reporttemplate_ argument isn't valid, Visual Basic uses the report template specified by the **Report Template** setting on the **Forms/Reports** tab of the **Options** dialog box.
 
 
 ## Example
 
-The following example creates a report in the current database by using the template specified by the  **Report Template** setting on the **Forms/Reports** tab of the **Options** dialog box.
+The following example creates a report in the current database by using the template specified by the **Report Template** setting on the **Forms/Reports** tab of the **Options** dialog box.
 
 
 ```vb

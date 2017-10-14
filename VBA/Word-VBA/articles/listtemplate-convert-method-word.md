@@ -33,7 +33,7 @@ Converts a multiple-level list to a single-level list, or vice versa.
 
 ## Remarks
 
-You cannot use the  **Convert** method on a list template that is derived from the **ListGalleries** collection.
+You cannot use the **Convert** method on a list template that is derived from the **ListGalleries** collection.
 
 
 ## Example

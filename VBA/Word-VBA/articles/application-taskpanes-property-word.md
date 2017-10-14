@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TaskPanes Property (Word)
 
-Returns a  **[TaskPanes](taskpanes-object-word.md)** collection that represents the most commonly performed tasks in Microsoft Word.
+Returns a **[TaskPanes](taskpanes-object-word.md)** collection that represents the most commonly performed tasks in Microsoft Word.
 
 
 ## Syntax

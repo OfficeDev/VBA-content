@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.KeyBindings Property (Word)
 
-Returns a  **KeyBindings** collection that represents customized key assignments, which include a key code, a key category, and a command.
+Returns a **KeyBindings** collection that represents customized key assignments, which include a key code, a key category, and a command.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyControl, wdKeyAlt, _
  Command:="FileClose"
 ```
 
-This example inserts the command name and key combination string for each item in the  **KeyBindings** collection.
+This example inserts the command name and key combination string for each item in the **KeyBindings** collection.
 
 
 

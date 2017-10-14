@@ -30,12 +30,12 @@ String
 
 ## Remarks
 
-In the U.S. English version of Microsoft PowerPoint, this property is read-only and the default value is Times New Roman. Use the  **[Replace](fonts-replace-method-powerpoint.md)** method to change a font in a presentation. The **NameOther** property setting is the same as the **NameASCII** property setting except when the **NameASCII** property is set to "Use FE Font."
+In the U.S. English version of Microsoft PowerPoint, this property is read-only and the default value is Times New Roman. Use the **[Replace](fonts-replace-method-powerpoint.md)** method to change a font in a presentation. The **NameOther** property setting is the same as the **NameASCII** property setting except when the **NameASCII** property is set to "Use FE Font."
 
 
 ## Example
 
-This example sets the font used for characters whose character set numbers are greater than 127, for the first member of the  **Fonts** collection.
+This example sets the font used for characters whose character set numbers are greater than 127, for the first member of the **Fonts** collection.
 
 
 ```vb

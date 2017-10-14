@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Create a User-Defined Property
 
-The following example attempts to set the value of a user-defined property. If the property does not exist, it uses the  **[CreateProperty](http://msdn.microsoft.com/library/F2039BE9-5FD8-F673-DFBF-0A71540CDC98%28Office.15%29.aspx)** method to create and set the value of the new property.
+The following example attempts to set the value of a user-defined property. If the property does not exist, it uses the **[CreateProperty](http://msdn.microsoft.com/library/F2039BE9-5FD8-F673-DFBF-0A71540CDC98%28Office.15%29.aspx)** method to create and set the value of the new property.
 
 
 ```vb

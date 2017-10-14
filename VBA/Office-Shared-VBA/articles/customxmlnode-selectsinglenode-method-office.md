@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.SelectSingleNode Method (Office)
 
-Selects a single node from a collection matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectSingleNode** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
+Selects a single node from a collection matching an XPath expression. This method differs from the **CustomXMLPart**. **SelectSingleNode** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ CustomXMLNode
 
 ## Remarks
 
-The prefix mappings for the XPath expression are retrieved from the  **NamespaceManager** property.
+The prefix mappings for the XPath expression are retrieved from the **NamespaceManager** property.
 
 
 ## Example

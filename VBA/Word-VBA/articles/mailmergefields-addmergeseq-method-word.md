@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeFields.AddMergeSeq Method (Word)
 
-Adds a MERGESEQ field to a mail merge main document. Returns a  **MailMergeField** object.
+Adds a MERGESEQ field to a mail merge main document. Returns a **MailMergeField** object.
 
 
 ## Syntax

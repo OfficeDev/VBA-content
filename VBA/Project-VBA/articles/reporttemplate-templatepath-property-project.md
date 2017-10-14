@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ReportTemplate.TemplatePath Property (Project)
 
-Gets the path and file name of the Visual Report template. Read-only  **String**.
+Gets the path and file name of the Visual Report template. Read-only **String**.
 
 
 ## Syntax

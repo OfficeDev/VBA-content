@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.TextFrame Property (Project)
-Gets a  **TextFrame** object that contains the alignment and anchoring properties of the shape range. Read-only **[TextFrame](http://msdn.microsoft.com/en-us/library/office/ff197860%28v=office.15%29)**.
+Gets a **TextFrame** object that contains the alignment and anchoring properties of the shape range. Read-only **[TextFrame](http://msdn.microsoft.com/en-us/library/office/ff197860%28v=office.15%29)**.
 
 ## Syntax
 

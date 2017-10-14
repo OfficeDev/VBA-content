@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ServerViewableItems.Item Method (Excel)
 
-Returns a single object from the  **[ServerViewableItems](serverviewableitems-object-excel.md)** collection.
+Returns a single object from the **[ServerViewableItems](serverviewableitems-object-excel.md)** collection.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Layout Method (Project)
 
-Displays the  **Layout** dialog box, which allows the user to set layout options for the active view.
+Displays the **Layout** dialog box, which allows the user to set layout options for the active view.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Layout** dialog box, which allows the user to set layout options
 
 ## Remarks
 
-The  **Layout** method is only available when a Gantt, Network Diagram, or Calendar view is active.
+The **Layout** method is only available when a Gantt, Network Diagram, or Calendar view is active.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotLineCells.Parent Property (Excel)
 
-Returns the parent object for the specified  **PivotLineCells** object. Read-only.
+Returns the parent object for the specified **PivotLineCells** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.PlotBy Property (Word)
 
-Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long** .
+Returns or sets the way columns or rows are used as data series on the chart. Read/write **Long** .
 
 
 ## Syntax
@@ -25,16 +25,16 @@ Returns or sets the way columns or rows are used as data series on the chart. Re
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlRowCol](xlrowcol-enumeration-word.md)** constants:
+The value of this property can be one of the following **[XlRowCol](xlrowcol-enumeration-word.md)** constants:
 
 
--  **xlColumns**
+- **xlColumns**
     
--  **xlRows**
+- **xlRows**
     
 
 
-For PivotChart reports, this property is read-only and always returns  **xlColumns** .
+For PivotChart reports, this property is read-only and always returns **xlColumns** .
 
 
 ## Example

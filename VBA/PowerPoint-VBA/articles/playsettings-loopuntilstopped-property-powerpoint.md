@@ -25,7 +25,7 @@ Determines whether the specified movie or sound loops continuously until either 
 
 ## Remarks
 
-The value of the  **LoopUntilStopped** property can be one of these **MsoTriState** constants.
+The value of the **LoopUntilStopped** property can be one of these **MsoTriState** constants.
 
 
 

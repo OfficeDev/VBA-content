@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODSOFilter.CompareTo Property (Office)
 
-Gets or sets a  **String** that represents the text to compare in the query filter criterion. Read/write.
+Gets or sets a **String** that represents the text to compare in the query filter criterion. Read/write.
 
 
 ## Syntax

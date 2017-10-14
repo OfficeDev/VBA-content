@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.ObjectType Property (Visio)
 
-Returns  **visObjTypeComment**, the type of a  **Comment** object. Read-only.
+Returns **visObjTypeComment**, the type of a **Comment** object. Read-only.
 
 
 ## Syntax
@@ -20,7 +20,7 @@ Returns  **visObjTypeComment**, the type of a  **Comment** object. Read-only.
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
 
 
 ## Property value

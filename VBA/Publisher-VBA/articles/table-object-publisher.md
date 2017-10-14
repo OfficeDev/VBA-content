@@ -18,7 +18,7 @@ Represents a single table.
 
 ## Example
 
-Use the  **[Table](http://msdn.microsoft.com/library/a9b29d1f-2459-556c-56f8-f8f809b879c9%28Office.15%29.aspx)** property to return a **Table** object. The following example selects the specified table in the active publication.
+Use the **[Table](http://msdn.microsoft.com/library/a9b29d1f-2459-556c-56f8-f8f809b879c9%28Office.15%29.aspx)** property to return a **Table** object. The following example selects the specified table in the active publication.
 
 
 ```
@@ -30,7 +30,7 @@ Sub SelectTable()
 End Sub
 ```
 
-Use the  **[AddTable](http://msdn.microsoft.com/library/1aa00f40-de41-12ed-8d4f-5e9c91cbf5af%28Office.15%29.aspx)** method to add a **Shape** object representing a table at the specified range. The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
+Use the **[AddTable](http://msdn.microsoft.com/library/1aa00f40-de41-12ed-8d4f-5e9c91cbf5af%28Office.15%29.aspx)** method to add a **Shape** object representing a table at the specified range. The following example adds a 5x5 table on the first page of the active publication, and then selects the first column of the new table.
 
 
 

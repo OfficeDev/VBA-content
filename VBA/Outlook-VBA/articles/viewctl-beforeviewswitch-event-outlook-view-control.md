@@ -13,9 +13,9 @@ Occurs before Microsoft Outlook changes the view that is applied to the folder d
 
 ## Syntax
 
- _expression_. **BeforeViewSwitch**( **_newView_**,  **_Cancel_**)
+ _expression_. **BeforeViewSwitch**( **_newView_**, **_Cancel_**)
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ### Parameters

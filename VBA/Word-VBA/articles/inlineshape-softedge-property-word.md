@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.SoftEdge Property (Word)
 
-Returns a  **[SoftEdgeFormat](softedgeformat-object-word.md)** object that represents the soft edge formatting for a shape. Read-only.
+Returns a **[SoftEdgeFormat](softedgeformat-object-word.md)** object that represents the soft edge formatting for a shape. Read-only.
 
 
 ## Syntax

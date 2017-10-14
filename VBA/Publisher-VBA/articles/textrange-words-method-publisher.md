@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Words Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the specified subset of text words.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents the specified subset of text words.
 
 
 ## Syntax
 
- _expression_. **Words**( **_Start_**,  **_Length_**)
+ _expression_. **Words**( **_Start_**, **_Length_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -39,11 +39,11 @@ TextRange
 
 ## Remarks
 
-If  **_Length_** is omitted, the returned range contains one word.
+If **_Length_** is omitted, the returned range contains one word.
 
-If  **_Start_** is greater than the number of words in the specified text, the returned range starts with the last word in the specified range.
+If **_Start_** is greater than the number of words in the specified text, the returned range starts with the last word in the specified range.
 
-If  **_Length_** is greater than the number of words from the specified starting word to the end of the text, the returned range contains all those words.
+If **_Length_** is greater than the number of words from the specified starting word to the end of the text, the returned range contains all those words.
 
 
 ## Example

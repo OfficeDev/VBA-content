@@ -30,17 +30,17 @@ Single
 
 ## Remarks
 
-If a paragraph begins with a bullet, the bullet position is determined by the  **FirstMargin** property, and the position of the first text character in the paragraph is determined by the **LeftMargin** property.
+If a paragraph begins with a bullet, the bullet position is determined by the **FirstMargin** property, and the position of the first text character in the paragraph is determined by the **LeftMargin** property.
 
 
- **Note**  The  **[RulerLevels](rulerlevels-object-powerpoint.md)** collection contains five **RulerLevel** objects, each of which corresponds to one of the possible outline levels. The **FirstMargin** property value for the **RulerLevel** object that corresponds to the first outline level has a valid range of (-9.0 to 4095.875). The valid range for the **FirstMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels are determined as follows:
+ **Note**  The **[RulerLevels](rulerlevels-object-powerpoint.md)** collection contains five **RulerLevel** objects, each of which corresponds to one of the possible outline levels. The **FirstMargin** property value for the **RulerLevel** object that corresponds to the first outline level has a valid range of (-9.0 to 4095.875). The valid range for the **FirstMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels are determined as follows:
 
 
 - The maximum value is always 4095.875.
     
-- The minimum value is the maximum assigned value between the  **FirstMargin** property and **LeftMargin** property of the previous level plus 9.
+- The minimum value is the maximum assigned value between the **FirstMargin** property and **LeftMargin** property of the previous level plus 9.
     
-You can use the following equations to determine the minimum value for the  **FirstMargin** property. Index, the index number of the **RulerLevel** object, indicates the object's corresponding outline level. To determine the minimum **FirstMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels, substitute 2, 3, 4, or 5 for the index placeholder.
+You can use the following equations to determine the minimum value for the **FirstMargin** property. Index, the index number of the **RulerLevel** object, indicates the object's corresponding outline level. To determine the minimum **FirstMargin** property values for the **RulerLevel** objects that correspond to the second through the fifth outline levels, substitute 2, 3, 4, or 5 for the index placeholder.
 
 Minimum(RulerLevel(index). **FirstMargin** ) = Maximum(RulerLevel(index -1). **FirstMargin**, RulerLevel(index -1).LeftMargin) + 9
 

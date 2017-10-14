@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthLock.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **[CoAuthLock](coauthlock-object-word.md)** object.
+Returns an **Object** that represents the parent object of the specified **[CoAuthLock](coauthlock-object-word.md)** object.
 
 
 ## Syntax

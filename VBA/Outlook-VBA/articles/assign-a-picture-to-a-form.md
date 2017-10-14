@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 1. In the Forms Designer, click the tab for the page or the form region that you want to assign the picture to. 
     
-2. Right-click the page or form region, and then click  **Advanced Properties**. 
+2. Right-click the page or form region, and then click **Advanced Properties**. 
     
-3. In the  **Properties** dialog box, click the **Picture** property, and then click the **Load Property** button ( **[...]**) that is next to the  **Apply** box.
+3. In the **Properties** dialog box, click the **Picture** property, and then click the **Load Property** button ( **[...]**) that is next to the **Apply** box.
     
-4. Find the picture file that you want to use, and then click  **Apply**. 
+4. Find the picture file that you want to use, and then click **Apply**. 
     
-5. To set additional properties for the picture, choose one or more of the following, and then click  **Apply**. 
+5. To set additional properties for the picture, choose one or more of the following, and then click **Apply**. 
     
 
 |**Property**|**Value**|

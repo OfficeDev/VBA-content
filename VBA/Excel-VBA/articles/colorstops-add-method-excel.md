@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorStops.Add Method (Excel)
 
-Adds a  **[ColorStop](colorstop-object-excel.md)** object to the specified collection.
+Adds a **[ColorStop](colorstop-object-excel.md)** object to the specified collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Adds a  **[ColorStop](colorstop-object-excel.md)** object to the specified colle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Position_|Required| **Double**|Represents the position in which to apply the  **ColorStop** .|
+| _Position_|Required| **Double**|Represents the position in which to apply the **ColorStop** .|
 
 ### Return Value
 

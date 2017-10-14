@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # BulletFormat2.Font Property (Office)
 
-Gets a  **Font2** object that represents character formatting for a **BulletFormat2** object. Read-only.
+Gets a **Font2** object that represents character formatting for a **BulletFormat2** object. Read-only.
 
 
 ## Syntax

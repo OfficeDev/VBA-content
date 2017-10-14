@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Series.Name Property (PowerPoint)
 
-Returns or sets the name of the object. Read/write  **String**.
+Returns or sets the name of the object. Read/write **String**.
 
 
 ## Syntax

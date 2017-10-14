@@ -25,7 +25,7 @@ Pastes a cell or group of cells as a nested table into the selection.
 
 ## Remarks
 
-You can use  **PasteAsNestedTable** only if the Clipboard contains a cell or group of cells and the selected range is a cell or group of cells in the current document.
+You can use **PasteAsNestedTable** only if the Clipboard contains a cell or group of cells and the selected range is a cell or group of cells in the current document.
 
 
 ## Example

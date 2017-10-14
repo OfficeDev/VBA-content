@@ -18,12 +18,12 @@ Contains the font attributes (font name, font size, color, and so on) for an obj
 
 ## Remarks
 
-If you don't want to format all the text in a cell or graphic the same way, use the  **[Characters](range-characters-property-excel.md)** property to return a subset of the text.
+If you don't want to format all the text in a cell or graphic the same way, use the **[Characters](range-characters-property-excel.md)** property to return a subset of the text.
 
 
 ## Example
 
-Use the  **Font** property to return the **Font** object. The following example formats cells A1:C5 as bold.
+Use the **Font** property to return the **Font** object. The following example formats cells A1:C5 as bold.
 
 
 ```

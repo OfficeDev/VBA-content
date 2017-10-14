@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.Height Property (PowerPoint)
 
-Returns the height, in points, of the object. Read-only  **Double**.
+Returns the height, in points, of the object. Read-only **Double**.
 
 
 ## Syntax

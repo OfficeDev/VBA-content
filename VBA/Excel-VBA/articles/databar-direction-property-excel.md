@@ -25,6 +25,6 @@ Returns or sets the direction the databar is displayed. Read/write
 
 ## Remarks
 
-Can be one of the following [constants](constants-enumeration-excel.md):  **xlContext** , **xlLTR** (left-to-right), or **xlRTL** (right-to-left).
+Can be one of the following [constants](constants-enumeration-excel.md): **xlContext** , **xlLTR** (left-to-right), or **xlRTL** (right-to-left).
 
 

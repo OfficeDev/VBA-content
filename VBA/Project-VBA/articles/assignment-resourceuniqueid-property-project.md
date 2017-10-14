@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ResourceUniqueID Property (Project)
 
-Gets or sets a unique identification number of the resource for the assignment. Read/write  **Long**.
+Gets or sets a unique identification number of the resource for the assignment. Read/write **Long**.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoSegmentType Enumeration (Office)
 
-Specifies the type for a segment. Used with the  **Insert** and **AddNodes** methods of the **FreeformBuilder** object.
+Specifies the type for a segment. Used with the **Insert** and **AddNodes** methods of the **FreeformBuilder** object.
 
 
 

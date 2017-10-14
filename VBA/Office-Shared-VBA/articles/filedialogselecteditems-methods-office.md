@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](filedialogselecteditems-item-method-office.md)|Gets a  **String** that corresponds to the path of one of the files that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.|
+|[Item](filedialogselecteditems-item-method-office.md)|Gets a **String** that corresponds to the path of one of the files that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.|
 

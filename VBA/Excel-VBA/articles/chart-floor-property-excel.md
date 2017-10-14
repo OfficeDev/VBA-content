@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Floor Property (Excel)
 
-Returns a  **[Floor](floor-object-excel.md)** object that represents the floor of the 3-D chart. Read-only.
+Returns a **[Floor](floor-object-excel.md)** object that represents the floor of the 3-D chart. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Floor
 
 ## Example
 
-This example sets the floor color of Chart1 to blue. The example should be run on a 3-D chart (the  **Floor** property fails on 2-D charts).
+This example sets the floor color of Chart1 to blue. The example should be run on a 3-D chart (the **Floor** property fails on 2-D charts).
 
 
 ```vb

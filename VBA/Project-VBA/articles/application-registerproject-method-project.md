@@ -38,6 +38,6 @@ Registers the active project on Project Server.
 
 ## Remarks
 
-The  **RegisterProject** method is available only in Project Professional.
+The **RegisterProject** method is available only in Project Professional.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MasterPages.FindByPageID Method (Publisher)
 
-Returns a  **[Page](page-object-publisher.md)** object that represents the page with the specified page ID number. Each page is automatically assigned a unique ID number when it is created. Use the **[PageID](page-pageid-property-publisher.md)** property to return a page's ID number.
+Returns a **[Page](page-object-publisher.md)** object that represents the page with the specified page ID number. Each page is automatically assigned a unique ID number when it is created. Use the **[PageID](page-pageid-property-publisher.md)** property to return a page's ID number.
 
 
 ## Syntax
 
  _expression_. **FindByPageID**( **_PageID_**)
 
- _expression_A variable that represents a  **MasterPages** object.
+ _expression_A variable that represents a **MasterPages** object.
 
 
 ### Parameters
@@ -38,12 +38,12 @@ Page
 
 ## Remarks
 
-Unlike the  **[PageIndex](page-pageindex-property-publisher.md)** property, the  **PageID** property of a **Page** object won't change when you add pages to or rearrange pages in the publication. Therefore, using the **FindByPageID** method with the page ID number can be a more reliable way to return a specific **Page** object from a **[Pages](pages-object-publisher.md)** collection than using the **Item**method with the page's index number.
+Unlike the **[PageIndex](page-pageindex-property-publisher.md)** property, the **PageID** property of a **Page** object won't change when you add pages to or rearrange pages in the publication. Therefore, using the **FindByPageID** method with the page ID number can be a more reliable way to return a specific **Page** object from a **[Pages](pages-object-publisher.md)** collection than using the **Item**method with the page's index number.
 
 
 ## Example
 
-This example demonstrates how to retrieve the unique ID number for a  **Page** object and then use this number to return that **Page** object from the **Pages** collection and add a new shape to the page.
+This example demonstrates how to retrieve the unique ID number for a **Page** object and then use this number to return that **Page** object from the **Pages** collection and add a new shape to the page.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.ViewList Property (Project)
 
-Gets the  **[List](list-object-project.md)** object for the project. Read-only **List**.
+Gets the **[List](list-object-project.md)** object for the project. Read-only **List**.
 
 
 ## Syntax

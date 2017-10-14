@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.CreateContactCard Method (Outlook)
 
-Creates an instance of a  **[ContactCard](http://msdn.microsoft.com/library/148c7268-e12c-d9ae-d31f-b625067eb352%28Office.15%29.aspx)** object for the contact that is specified by the _AddressEntry_ parameter.
+Creates an instance of a **[ContactCard](http://msdn.microsoft.com/library/148c7268-e12c-d9ae-d31f-b625067eb352%28Office.15%29.aspx)** object for the contact that is specified by the _AddressEntry_ parameter.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Creates an instance of a  **[ContactCard](http://msdn.microsoft.com/library/148c
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _AddressEntry_|Required| **AddressEntry**|The  **[AddressEntry](addressentry-object-outlook.md)** object that represents the user for whom the contact card is to be created.|
+| _AddressEntry_|Required| **AddressEntry**|The **[AddressEntry](addressentry-object-outlook.md)** object that represents the user for whom the contact card is to be created.|
 
 ### Return Value
 
-The  **Office.ContactCard** object that is created for the specified user.
+The **Office.ContactCard** object that is created for the specified user.
 
 
 ## Remarks
@@ -55,7 +55,7 @@ The  _AddressEntry_ parameter is an **AddressEntry** object that represents one 
     
 
 
-Outlook raises the E_INVALIDARG error when you pass any of the following  **OlAddressEntryUserType** values as an argument to the **CreateContactCard** method:
+Outlook raises the E_INVALIDARG error when you pass any of the following **OlAddressEntryUserType** values as an argument to the **CreateContactCard** method:
 
 
 - olExchangeAgentAddressEntry
@@ -77,7 +77,7 @@ Outlook raises the E_INVALIDARG error when you pass any of the following  **OlAd
 
  The following code sample in Microsoft Visual Basic for Applications (VBA) displays a Contact Card for the current user defined by the **[CurrentUser](namespace-currentuser-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object.
 
-You cannot run this code directly from the VBA window. To run the code, click the  **Developer** tab, click the **Macros** menu, and then select **Project1.DisplayContactCardForCurrentUser**. For more information about the  **Developer** tab, see[Run in Developer Mode in Outlook](http://msdn.microsoft.com/library/8f81b1ce-333d-d9be-2af7-cfc65bf15e22%28Office.15%29.aspx).
+You cannot run this code directly from the VBA window. To run the code, click the **Developer** tab, click the **Macros** menu, and then select **Project1.DisplayContactCardForCurrentUser**. For more information about the **Developer** tab, see[Run in Developer Mode in Outlook](http://msdn.microsoft.com/library/8f81b1ce-333d-d9be-2af7-cfc65bf15e22%28Office.15%29.aspx).
 
 
 

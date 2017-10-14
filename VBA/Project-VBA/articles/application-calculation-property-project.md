@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Calculation Property (Project)
 
-Gets or sets the calculation mode. Read/write  **PjCalculation**.
+Gets or sets the calculation mode. Read/write **PjCalculation**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the calculation mode. Read/write  **PjCalculation**.
 
 ## Remarks
 
-The  **Calculation** value can be one of the following **[PjCalculation](pjcalculation-enumeration-project.md)** constants: **pjAutomatic** or **pjManual**.
+The **Calculation** value can be one of the following **[PjCalculation](pjcalculation-enumeration-project.md)** constants: **pjAutomatic** or **pjManual**.
 
 

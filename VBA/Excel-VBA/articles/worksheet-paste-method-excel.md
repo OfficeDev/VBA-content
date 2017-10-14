@@ -29,7 +29,7 @@ Pastes the contents of the Clipboard onto the sheet.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Destination_|Optional| **Variant**|A  **Range** object that specifies where the Clipboard contents should be pasted. If this argument is omitted, the current selection is used. This argument can be specified only if the contents of the Clipboard can be pasted into a range. If this argument is specified, the _Link_ argument cannot be used.|
+| _Destination_|Optional| **Variant**|A **Range** object that specifies where the Clipboard contents should be pasted. If this argument is omitted, the current selection is used. This argument can be specified only if the contents of the Clipboard can be pasted into a range. If this argument is specified, the _Link_ argument cannot be used.|
 | _Link_|Optional| **Variant**| **True** to establish a link to the source of the pasted data. If this argument is specified, the _Destination_ argument cannot be used. The default value is **False** .|
 
 ## Remarks

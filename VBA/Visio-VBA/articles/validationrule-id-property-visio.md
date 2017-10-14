@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRule.ID Property (Visio)
 
-Gets the unique identifier of the  **[ValidationRule](validationrule-object-visio.md)** object. Read-only.
+Gets the unique identifier of the **[ValidationRule](validationrule-object-visio.md)** object. Read-only.
 
 
 ## Syntax

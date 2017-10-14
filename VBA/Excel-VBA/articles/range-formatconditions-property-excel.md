@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.FormatConditions Property (Excel)
 
-Returns a  **[FormatConditions](formatconditions-object-excel.md)** collection that represents all the conditional formats for the specified range. Read-only.
+Returns a **[FormatConditions](formatconditions-object-excel.md)** collection that represents all the conditional formats for the specified range. Read-only.
 
 
 ## Syntax

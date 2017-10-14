@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies whether a control can be edited.
  **Syntax**
  _object_. **Locked** [= _Boolean_ ]
-The  **Locked** property syntax has these parts:
+The **Locked** property syntax has these parts:
 
 
 |**Part**|**Description**|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Flags Property (Word)
 
-Returns or sets properties of the selection. Read/write  **WdSelectionFlags** .
+Returns or sets properties of the selection. Read/write **WdSelectionFlags** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets properties of the selection. Read/write  **WdSelectionFlags** .
 
 ## Example
 
-This example selects the first word in the active document. The first message box displays "False" because the end of the selection is active. The  **Flags** property makes the beginning of the selection active, and the second message box displays "True."
+This example selects the first word in the active document. The first message box displays "False" because the end of the selection is active. The **Flags** property makes the beginning of the selection active, and the second message box displays "True."
 
 
 ```vb

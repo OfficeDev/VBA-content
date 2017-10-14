@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CalculationVersion Property (Excel)
 
-Returns the information about the version of Excel that the workbook was last fully recalculated by. Read-only  **Long** .
+Returns the information about the version of Excel that the workbook was last fully recalculated by. Read-only **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcPrintRange Enumeration (Access)
 
-Used with the  **PrintOut** method to specify the range to print.
+Used with the **PrintOut** method to specify the range to print.
 
 
 

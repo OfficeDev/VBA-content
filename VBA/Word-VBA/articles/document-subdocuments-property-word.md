@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Subdocuments Property (Word)
 
-Returns a  **[Subdocuments](subdocuments-object-word.md)** collection that represents all the subdocuments in the specified document. Read-only.
+Returns a **[Subdocuments](subdocuments-object-word.md)** collection that represents all the subdocuments in the specified document. Read-only.
 
 
 ## Syntax

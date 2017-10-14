@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ListOutdent Method (Word)
 
-Decreases the list level of the paragraphs in the range for the specified  **ListFormat** object, in increments of one level.
+Decreases the list level of the paragraphs in the range for the specified **ListFormat** object, in increments of one level.
 
 
 ## Syntax

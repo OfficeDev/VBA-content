@@ -33,12 +33,12 @@ Integer
 
 ## Remarks
 
-The position of the first command bar control is 1. Separators are not counted in the  **CommandBarControls** collection.
+The position of the first command bar control is 1. Separators are not counted in the **CommandBarControls** collection.
 
 
 ## Example
 
-This example searches the command bar named "Custom2" for a control with an  **Id** value of 23. If such a control is found and the index number of the control is greater than 5, the control will be positioned as the first control on the command bar.
+This example searches the command bar named "Custom2" for a control with an **Id** value of 23. If such a control is found and the index number of the control is greater than 5, the control will be positioned as the first control on the command bar.
 
 
 ```

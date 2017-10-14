@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlDayWeekTimeScale Enumeration (Outlook)
 
-Specifies the scale of time periods used to display Outlook items in a  **[CalendarView](calendarview-object-outlook.md)** object.
+Specifies the scale of time periods used to display Outlook items in a **[CalendarView](calendarview-object-outlook.md)** object.
 
 
 

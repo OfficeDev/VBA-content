@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-Each programming language creates instances of ADO events differently. All of the following examples create a  **ConnectComplete** event handler.
+Each programming language creates instances of ADO events differently. All of the following examples create a **ConnectComplete** event handler.
 
 
 - [Visual Basic](http://msdn.microsoft.com/library/9d153b6c-c860-7350-cb3c-b9bd08f75ba8%28Office.15%29.aspx)

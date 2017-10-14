@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-If the range isn't large enough, Microsoft Excel displays a message telling you that text will extend below the range. If you click the  **OK** button, justified text will replace the contents in cells that extend beyond the selected range. To prevent this message from appearing, set the **[DisplayAlerts](application-displayalerts-property-excel.md)** property to **False** . After you set this property, text will always replace the contents in cells below the range.
+If the range isn't large enough, Microsoft Excel displays a message telling you that text will extend below the range. If you click the **OK** button, justified text will replace the contents in cells that extend beyond the selected range. To prevent this message from appearing, set the **[DisplayAlerts](application-displayalerts-property-excel.md)** property to **False** . After you set this property, text will always replace the contents in cells below the range.
 
 
 ## Example

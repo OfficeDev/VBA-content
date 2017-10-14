@@ -18,7 +18,7 @@ Represents major or minor gridlines on the specified chart axis. Gridlines exten
 
 ## Using the Gridlines Object
 
-Use the  **MajorGridlines** property to return the **GridLines** object that represents the major gridlines for the axis. Use the **MinorGridlines** property to return the **GridLines** object that represents the minor gridlines for the axis. It's possible to return both major and minor gridlines at the same time.
+Use the **MajorGridlines** property to return the **GridLines** object that represents the major gridlines for the axis. Use the **MinorGridlines** property to return the **GridLines** object that represents the minor gridlines for the axis. It's possible to return both major and minor gridlines at the same time.
 
 The following example turns on major gridlines for the category axis on the chart and then formats the gridlines to be blue dashed lines.
 

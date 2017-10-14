@@ -20,16 +20,16 @@ Resets the extrusion rotation around the x-axis (horizontal) and the y-axis (ver
 
  _expression_. **ResetRotation**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ## Remarks
 
 This method doesn't reset the rotation around the z-axis (extends outward from the plane of the publication).
 
-To set the extrusion rotation around the x-axis and the y-axis to anything other than 0, use the  **[RotationX](threedformat-rotationx-property-publisher.md)** and  **[RotationY](threedformat-rotationy-property-publisher.md)** properties of the  **ThreeDFormat** object.
+To set the extrusion rotation around the x-axis and the y-axis to anything other than 0, use the **[RotationX](threedformat-rotationx-property-publisher.md)** and **[RotationY](threedformat-rotationy-property-publisher.md)** properties of the **ThreeDFormat** object.
 
-To set the extrusion rotation around the z-axis, use the  **[Rotation](shape-rotation-property-publisher.md)** property of the  **[Shape](shape-object-publisher.md)** object that represents the extruded shape.
+To set the extrusion rotation around the z-axis, use the **[Rotation](shape-rotation-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object that represents the extruded shape.
 
 
 ## Example

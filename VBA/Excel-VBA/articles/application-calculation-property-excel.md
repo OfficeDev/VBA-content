@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Calculation Property (Excel)
 
-Returns or sets a  **[XlCalculation](xlcalculation-enumeration-excel.md)** value that represents the calculation mode.
+Returns or sets a **[XlCalculation](xlcalculation-enumeration-excel.md)** value that represents the calculation mode.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[XlCalculation](xlcalculation-enumeration-excel.md)** value
 
 ## Remarks
 
-For OLAP data sources, this property can only return or be set to  **xlNormal** .
+For OLAP data sources, this property can only return or be set to **xlNormal** .
 
 
 ## Example

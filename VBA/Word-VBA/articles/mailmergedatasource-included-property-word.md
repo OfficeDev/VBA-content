@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[SetAllIncludedFlags](mailmergedatasource-setallincludedflags-method-word.md)** method to include or exclude all records in a mail merge data source.
+Use the **[SetAllIncludedFlags](mailmergedatasource-setallincludedflags-method-word.md)** method to include or exclude all records in a mail merge data source.
 
 
 ## Example

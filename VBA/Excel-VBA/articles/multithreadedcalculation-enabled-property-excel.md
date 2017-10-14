@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MultiThreadedCalculation.Enabled Property (Excel)
 
-The  **Enabled** property allows **MultiThreadedCalculation** objects to be enabled or disabled at run time. Read/write.
+The **Enabled** property allows **MultiThreadedCalculation** objects to be enabled or disabled at run time. Read/write.
 
 
 ## Syntax

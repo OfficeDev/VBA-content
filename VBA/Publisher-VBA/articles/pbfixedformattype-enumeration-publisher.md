@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbFixedFormatType Enumeration (Publisher)
 
-Constants passed to the  **[ExportAsFixedFormat](document-exportasfixedformat-method-publisher.md)** method that specify the different file formats in which you can save fixed-format publications, PDF or XPS.
+Constants passed to the **[ExportAsFixedFormat](document-exportasfixedformat-method-publisher.md)** method that specify the different file formats in which you can save fixed-format publications, PDF or XPS.
 
 
 

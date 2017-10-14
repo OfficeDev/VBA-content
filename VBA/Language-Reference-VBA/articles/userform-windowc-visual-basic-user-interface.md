@@ -22,11 +22,11 @@ While you are designing a form:
 
 
 
-- Each form window has a  **Maximize**, **Minimize**, and **Close** button.
+- Each form window has a **Maximize**, **Minimize**, and **Close** button.
     
-- You can view the form grid and determine the size of the gridlines from the  **General** tab of the **Options** dialog box.
+- You can view the form grid and determine the size of the gridlines from the **General** tab of the **Options** dialog box.
     
-- Use the buttons in the  **Toolbox** to draw controls on the form. You can set your controls to align with the grid of your form from the **General** tab of the **Options** dialog box.
+- Use the buttons in the **Toolbox** to draw controls on the form. You can set your controls to align with the grid of your form from the **General** tab of the **Options** dialog box.
     
 
 

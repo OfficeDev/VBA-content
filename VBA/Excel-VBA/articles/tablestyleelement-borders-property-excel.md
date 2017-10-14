@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyleElement.Borders Property (Excel)
 
-Returns a  **[Borders](borders-object-excel.md)** collection that represents the borders of a table style element. Read-only.
+Returns a **[Borders](borders-object-excel.md)** collection that represents the borders of a table style element. Read-only.
 
 
 ## Syntax

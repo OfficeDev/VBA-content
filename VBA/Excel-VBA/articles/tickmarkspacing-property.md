@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TickMarkSpacing Property
 
-Returns or sets the number of categories or series between tick marks. Applies only to category and series axes. Read/write  **Long**.
+Returns or sets the number of categories or series between tick marks. Applies only to category and series axes. Read/write **Long**.
 
 
 ## Remarks
 
-Use the  **[MajorUnit](majorunit-property.md)** and  **[MinorUnit](minorunit-property.md)** properties to set tick-mark spacing on the value axis.
+Use the **[MajorUnit](majorunit-property.md)** and **[MinorUnit](minorunit-property.md)** properties to set tick-mark spacing on the value axis.
 
 
 ## Example

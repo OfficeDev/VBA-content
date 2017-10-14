@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.DisplayFormat Property (Excel)
 
-Returns a  **[DisplayFormat](displayformat-object-excel.md)** object that represents the display settings for the specified range. Read-only
+Returns a **[DisplayFormat](displayformat-object-excel.md)** object that represents the display settings for the specified range. Read-only
 
 
 ## Syntax
@@ -30,9 +30,9 @@ DisplayFormat
 
 ## Remarks
 
-Note that the  **DisplayFormat** property does not work in user defined functions. For example, in a worksheet function that returns the interior color of a cell, you use a line similar to: `Range(n).DisplayFormat.Interior.ColorIndex`. When the worksheet function executes, it returns a  **#VALUE!** error.
+Note that the **DisplayFormat** property does not work in user defined functions. For example, in a worksheet function that returns the interior color of a cell, you use a line similar to: `Range(n).DisplayFormat.Interior.ColorIndex`. When the worksheet function executes, it returns a **#VALUE!** error.
 
-In another example, you cannot use the  **DisplayFormat** property in a worksheet function to return settings for a particular range. **DisplayFormat** will work in a function called from Visual Basic for Applications (VBA), however. For instance, in the following function:
+In another example, you cannot use the **DisplayFormat** property in a worksheet function to return settings for a particular range. **DisplayFormat** will work in a function called from Visual Basic for Applications (VBA), however. For instance, in the following function:
 
 
 
@@ -43,9 +43,9 @@ Function getColorIndex()
 End Function
 ```
 
-Calling the function from a worksheet as follows  **=getColorIndex()** returns the **#VALUE!** error.
+Calling the function from a worksheet as follows **=getColorIndex()** returns the **#VALUE!** error.
 
-However, when the function is called from the Immediate pane in the Visual Basic Editor, it returns the color index for the active cell. To work around this issue, remove  **DisplayFormat** from the code. The following function will work either from a worksheet or from VBA:
+However, when the function is called from the Immediate pane in the Visual Basic Editor, it returns the color index for the active cell. To work around this issue, remove **DisplayFormat** from the code. The following function will work either from a worksheet or from VBA:
 
 
 

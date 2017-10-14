@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AdvancedPrintOptions.IsPostscriptPrinter Property (Publisher)
 
-Returns  **True** if the active printer is a PostScript printer. Read-only **Boolean**.
+Returns **True** if the active printer is a PostScript printer. Read-only **Boolean**.
 
 
 ## Syntax
 
  _expression_. **IsPostscriptPrinter**
 
- _expression_A variable that represents an  **AdvancedPrintOptions** object.
+ _expression_A variable that represents an **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Boolean
 
 ## Remarks
 
-The following properties of the  **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object are only accessible if the active printer is a Postscript printer: **[HorizontalFlip](advancedprintoptions-horizontalflip-property-publisher.md)**,  **[VerticalFlip](advancedprintoptions-verticalflip-property-publisher.md)**, and  **[NegativeImage](advancedprintoptions-negativeimage-property-publisher.md)**.
+The following properties of the **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object are only accessible if the active printer is a Postscript printer: **[HorizontalFlip](advancedprintoptions-horizontalflip-property-publisher.md)**, **[VerticalFlip](advancedprintoptions-verticalflip-property-publisher.md)**, and **[NegativeImage](advancedprintoptions-negativeimage-property-publisher.md)**.
 
-Use the  **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** property to specify the active printer for a publication.
+Use the **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** property to specify the active printer for a publication.
 
 
 ## Example

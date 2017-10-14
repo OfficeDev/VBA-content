@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarView.DisplayedDates Property (Outlook)
 
-Returns a  **Variant** array containing strings that represent the days displayed in a **[CalendarView](calendarview-object-outlook.md)** object. Read-only.
+Returns a **Variant** array containing strings that represent the days displayed in a **[CalendarView](calendarview-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **Variant** array containing strings that represent the days displaye
 
 ## Remarks
 
-This property returns an array of date strings, in which each date string represents a day displayed in the  **CalendarView** object. The date strings are formatted using the short date format settings for the operating system.
+This property returns an array of date strings, in which each date string represents a day displayed in the **CalendarView** object. The date strings are formatted using the short date format settings for the operating system.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example obtains the value of the  **DisplayedDates** property from the current **CalendarView** object, then displays a dialog box with a summary of that property value.
+The following Visual Basic for Applications (VBA) example obtains the value of the **DisplayedDates** property from the current **CalendarView** object, then displays a dialog box with a summary of that property value.
 
 
 ```vb

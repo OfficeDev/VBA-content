@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextColumn2.Count Property (Office)
 
-Gets or sets a  **Long** indicating the number of items in the **TextColumn2** collection. Read/write.
+Gets or sets a **Long** indicating the number of items in the **TextColumn2** collection. Read/write.
 
 
 ## Syntax

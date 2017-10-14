@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.LeftIndent Property (Word)
 
-Returns or sets a  **Single** that represents the left indent value (in points) for the rows in the specified table style. Read/write.
+Returns or sets a **Single** that represents the left indent value (in points) for the rows in the specified table style. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that represents the left indent value (in points) 
 
 ## Example
 
-This example sets the left indent of the first paragraph in the active document to 1 inch. The  **InchesToPoints** method is used to convert inches to points.
+This example sets the left indent of the first paragraph in the active document to 1 inch. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

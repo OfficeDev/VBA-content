@@ -29,11 +29,11 @@ Saves an item or a collection of items in a document to a Web page.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Create_|Optional| **Variant**|If the HTML file exists, setting this argument to  **True** replaces the file, and setting this argument to **False** inserts the item or items at the end of the file. If the file does not exist, then the file is created regardless of the value of the _Create_ argument.|
+| _Create_|Optional| **Variant**|If the HTML file exists, setting this argument to **True** replaces the file, and setting this argument to **False** inserts the item or items at the end of the file. If the file does not exist, then the file is created regardless of the value of the _Create_ argument.|
 
 ## Remarks
 
-The  **[FileName](publishobject-filename-property-excel.md)** property returns or sets the location and name of the HTML file.
+The **[FileName](publishobject-filename-property-excel.md)** property returns or sets the location and name of the HTML file.
 
 
 ## Example

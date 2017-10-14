@@ -30,7 +30,7 @@ Occurs when a folder is about to be moved or deleted, either as a result of user
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _MoveTo_|Required| **[Folder](folder-object-outlook.md)**|Represents the folder to which the item is being moved. |
-| _Cancel_|Required| **Boolean**|Set this to  **True** to cancel the move or delete action.|
+| _Cancel_|Required| **Boolean**|Set this to **True** to cancel the move or delete action.|
 
 ## Remarks
 

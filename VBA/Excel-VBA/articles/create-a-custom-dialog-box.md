@@ -16,15 +16,15 @@ Use the following procedure to create a custom dialog box:
 
 1.  [Create a User Form](create-a-user-form.md)
     
-    On the  **Insert** menu in the Visual Basic Editor, click **UserForm**.
+    On the **Insert** menu in the Visual Basic Editor, click **UserForm**.
     
 2.  [Add Controls to a User Form](add-controls-to-a-user-form.md)
     
-    Find the control you want to add in the  **Toolbox** and drag the control onto the form.
+    Find the control you want to add in the **Toolbox** and drag the control onto the form.
     
 3.  [Setting Control Properties](setting-control-properties.md)
     
-    Right-click a control in design mode and click  **Properties** to display the **Properties** window.
+    Right-click a control in design mode and click **Properties** to display the **Properties** window.
     
 4.  [Initializing Control Properties](initializing-control-properties.md)
     
@@ -32,11 +32,11 @@ Use the following procedure to create a custom dialog box:
     
 5.  [Control and Dialog Box Events](control-and-dialog-box-events.md)
     
-    All controls have a predefined set of events. For example, a command button has a  **Click** event that occurs when the user clicks the command button. You can write event procedures that run when the events occur.
+    All controls have a predefined set of events. For example, a command button has a **Click** event that occurs when the user clicks the command button. You can write event procedures that run when the events occur.
     
 6.  [Displaying a Custom Dialog Box](displaying-a-custom-dialog-box.md)
     
-    Use the  **Show** method to display a UserForm.
+    Use the **Show** method to display a UserForm.
     
 7.  [Using Control Values While Code Is Running](using-control-values-while-code-is-running.md)
     

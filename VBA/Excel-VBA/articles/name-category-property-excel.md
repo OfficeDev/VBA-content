@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.Category Property (Excel)
 
-Returns or sets the category for the specified name in the language of the macro. The name must refer to a custom function or command. Read/write  **String** .
+Returns or sets the category for the specified name in the language of the macro. The name must refer to a custom function or command. Read/write **String** .
 
 
 ## Syntax

@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ReflectionFormat.Type Property (Publisher)
 
-Returns or sets an  **MsoReflectionType** constant that represents the type and distance from the shape of the reflection. Read/write.
+Returns or sets an **MsoReflectionType** constant that represents the type and distance from the shape of the reflection. Read/write.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **ReflectionFormat** object.
+ _expression_A variable that represents a **ReflectionFormat** object.
 
 
 ## Return value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.InconsistentTableFormula Property (Excel)
 
-Returns  **True** if the table formula is inconsistent. Read/write **Boolean** .
+Returns **True** if the table formula is inconsistent. Read/write **Boolean** .
 
 
 ## Syntax

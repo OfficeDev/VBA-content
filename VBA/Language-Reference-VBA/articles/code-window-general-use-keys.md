@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Code Window General Use Keys
 
-Use these key combinations in the  **Code** window:
+Use these key combinations in the **Code** window:
 
 
 
@@ -29,11 +29,11 @@ Use these key combinations in the  **Code** window:
 |END|Move the cursor to the end of text in a line.|
 |Double-click on the split bar|Delete the split bar.|
 |SHIFT+F10|View shortcut menu.|
-|ALT+F5|Runs the error handler code or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|
-|ALT+F8|Steps into the error handler or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|
-|CTRL+J|Turn on  **ListProperties/Methods**.|
-|CTRL+SHIFT+J|Turn on  **List Constants**.|
-|CTRL+I|Turn on  **Quick Info**.|
-|CTRL+SHIFT+I|Turn on  **Parameter Info**.|
-|CTRL+SPACEBAR|Turn on  **Complete Word**.|
+|ALT+F5|Runs the error handler code or returns the error to the calling procedure. Does not affect the setting for error trapping on the **General** tab of the **Options** dialog box.|
+|ALT+F8|Steps into the error handler or returns the error to the calling procedure. Does not affect the setting for error trapping on the **General** tab of the **Options** dialog box.|
+|CTRL+J|Turn on **ListProperties/Methods**.|
+|CTRL+SHIFT+J|Turn on **List Constants**.|
+|CTRL+I|Turn on **Quick Info**.|
+|CTRL+SHIFT+I|Turn on **Parameter Info**.|
+|CTRL+SPACEBAR|Turn on **Complete Word**.|
 

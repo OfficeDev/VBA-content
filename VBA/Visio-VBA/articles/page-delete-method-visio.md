@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.Delete Method (Visio)
 
-Deletes a  **Page** object. Can also renumber remaining pages.
+Deletes a **Page** object. Can also renumber remaining pages.
 
 
 ## Syntax

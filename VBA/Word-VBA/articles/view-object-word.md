@@ -18,7 +18,7 @@ Contains the view attributes (such as show all, field shading, and table gridlin
 
 ## Remarks
 
-Use the  **View** property to return the **View** object. The following example sets view options for the active window.
+Use the **View** property to return the **View** object. The following example sets view options for the active window.
 
 
 ```
@@ -29,7 +29,7 @@ With ActiveDocument.ActiveWindow.View
 End With
 ```
 
-Use the  **Type** property to change the view. The following example switches the active window to normal view.
+Use the **Type** property to change the view. The following example switches the active window to normal view.
 
 
 
@@ -38,7 +38,7 @@ Use the  **Type** property to change the view. The following example switches th
 ActiveDocument.ActiveWindow.View.Type = wdNormalView
 ```
 
-Use the  **Percentage** property to change the size of the text on-screen. The following example enlarges the on-screen text to 120 percent.
+Use the **Percentage** property to change the size of the text on-screen. The following example enlarges the on-screen text to 120 percent.
 
 
 
@@ -47,7 +47,7 @@ Use the  **Percentage** property to change the size of the text on-screen. The f
 ActiveDocument.ActiveWindow.View.Zoom.Percentage = 120
 ```
 
-Use the  **SeekView** property to view comments, endnotes, footnotes, or the document header or footer. The following example displays the current footer in the active window in print layout view.
+Use the **SeekView** property to view comments, endnotes, footnotes, or the document header or footer. The following example displays the current footer in the active window in print layout view.
 
 
 

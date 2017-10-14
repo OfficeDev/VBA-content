@@ -30,7 +30,7 @@ Returns or sets the description associated with the alternative text string for 
 
 ## Remarks
 
-The value of the  **Summary** property corresponds to the setting of the **Description** box in the **Alternative Text** dialog box, which is displayed by right-clicking a table, pointing to **Table**, and then clicking  **Alternative Text**.
+The value of the **Summary** property corresponds to the setting of the **Description** box in the **Alternative Text** dialog box, which is displayed by right-clicking a table, pointing to **Table**, and then clicking **Alternative Text**.
 
 
 ## See also

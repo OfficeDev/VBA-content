@@ -30,7 +30,7 @@ Sets the source data range for the chart.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Range**|The range that contains the source data.|
-| _PlotBy_|Optional| **Variant**|Specifies the way the data is to be plotted. Can be either of the following  **[XlRowCol](xlrowcol-enumeration-excel.md)** constants: **xlColumns** or **xlRows** .|
+| _PlotBy_|Optional| **Variant**|Specifies the way the data is to be plotted. Can be either of the following **[XlRowCol](xlrowcol-enumeration-excel.md)** constants: **xlColumns** or **xlRows** .|
 
 ## Example
 

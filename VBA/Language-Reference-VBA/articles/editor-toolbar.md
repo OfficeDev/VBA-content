@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 Contains buttons that are shortcuts to some commonly used menu items. Frequently used when editing code.
 
-You can click a toolbar button once to carry out the action represented by that button. You can select the Show ToolTips option in the  **General** tab of the **Options** dialog box if you want to display ToolTips for the toolbar buttons.
+You can click a toolbar button once to carry out the action represented by that button. You can select the Show ToolTips option in the **General** tab of the **Options** dialog box if you want to display ToolTips for the toolbar buttons.
 
 
 ## Toolbar Buttons
@@ -31,7 +31,7 @@ Opens a box in the code window that contains the properties and methods availabl
 
 ![List constants](images/tbr_selc_ZA01201740.gif) **List Constants**
 
-Opens a box in the  **Code** window that contains the constants that are valid choices for the property you typed and that precede the equals sign (=).
+Opens a box in the **Code** window that contains the constants that are valid choices for the property you typed and that precede the equals sign (=).
 
 
 ![Quick info](images/tbr_qtip_ZA01201732.gif) **Quick Info**
@@ -41,7 +41,7 @@ Provides the syntax for a variable, function, method, or procedure based on the 
 
 ![Parameter info](images/tbr_ptip_ZA01201731.gif) **Parameter Info**
 
-Shows a popup in the  **Code** window that contains information about the parameters of the function in which the pointer is located.
+Shows a popup in the **Code** window that contains information about the parameters of the function in which the pointer is located.
 
 
 ![Complete word](images/tbr_cwrd_ZA01201695.gif) **Complete Word**
@@ -76,7 +76,7 @@ Removes the comment character from each line of a selected block of text.
 
 ![Toggle bookmark](images/tbr_tbmk_ZA01201753.gif) **Toggle Bookmark**
 
-Toggles a bookmark on or off for the active line in the  **Code** window.
+Toggles a bookmark on or off for the active line in the **Code** window.
 
 
 ![Next bookmark](images/tbr_nxtb_ZA01201717.gif) **Next Bookmark**

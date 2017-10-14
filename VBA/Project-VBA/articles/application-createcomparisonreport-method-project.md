@@ -34,7 +34,7 @@ Creates a comparison report between two versions of a project.
 | _ResourceTable_|Optional|**String**|Name of the table to use for comparison in a resource view.|
 | _Items_|Optional|**[PjCompareVersionItems](pjcompareversionitems-enumeration-project.md)**|Specifies the type of items to compare.|
 | _Columns_|Optional|**[PjCompareVersionColumns](pjcompareversioncolumns-enumeration-project.md)**|Specifies whether to show only column data, only column differences, or both differences and data.|
-| _ShowLegend_|Optional|**Variant**|If  **True**, shows the legend in the comparison report.|
+| _ShowLegend_|Optional|**Variant**|If **True**, shows the legend in the comparison report.|
 
 ### Return Value
 
@@ -43,7 +43,7 @@ Creates a comparison report between two versions of a project.
 
 ## Remarks
 
-The  **CreateComparisonReport** method compares task or resource information, but not assignment information.
+The **CreateComparisonReport** method compares task or resource information, but not assignment information.
 
 
 ## Example

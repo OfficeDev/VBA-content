@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PlotArea.Top Property (PowerPoint)
 
-Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double**.
+Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write **Double**.
 
 
 ## Syntax

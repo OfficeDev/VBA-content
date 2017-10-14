@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Top10.Rank Property (Excel)
 
-Returns or sets a  **Long** value, specifying either the number or percentage of the rank value for the conditional format rule.
+Returns or sets a **Long** value, specifying either the number or percentage of the rank value for the conditional format rule.
 
 
 ## Syntax

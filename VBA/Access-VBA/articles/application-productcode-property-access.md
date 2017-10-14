@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProductCode Property (Access)
 
-You can use the  **ProductCode** property to determine the Access globally unique identifier (GUID). Read-only **String**.
+You can use the **ProductCode** property to determine the Access globally unique identifier (GUID). Read-only **String**.
 
 
 ## Syntax

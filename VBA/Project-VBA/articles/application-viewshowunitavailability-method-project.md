@@ -30,6 +30,6 @@ Displays unit availability information in the active Resource Graph view.
 
 ## Remarks
 
-The  **ViewShowUnitAvailability** method has no effect unless the active window contains the Resource Graph view. The **ViewShowUnitAvailability** method is not available for material resources and returns a trappable error (error code 1100) when applied to material resources.
+The **ViewShowUnitAvailability** method has no effect unless the active window contains the Resource Graph view. The **ViewShowUnitAvailability** method is not available for material resources and returns a trappable error (error code 1100) when applied to material resources.
 
 

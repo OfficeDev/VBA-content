@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PasteFormatWithinDocument Property (Word)
 
-Returns or sets a  **[WdPasteOptions](wdpasteoptions-enumeration-word.md)** constant that represents how text is pasted when text is copied or cut and then pasted in the same document. Read/write.
+Returns or sets a **[WdPasteOptions](wdpasteoptions-enumeration-word.md)** constant that represents how text is pasted when text is copied or cut and then pasted in the same document. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[WdPasteOptions](wdpasteoptions-enumeration-word.md)** cons
 
 ## Remarks
 
-Corresponds to the  **Pasting within the same document** option in the **Advanced** tab of the **Word Options** dialog box.
+Corresponds to the **Pasting within the same document** option in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

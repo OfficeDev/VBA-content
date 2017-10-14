@@ -20,7 +20,7 @@ Cancels the current selection.
 
  _expression_. **Unselect**
 
- _expression_A variable that represents a  **Selection** object.
+ _expression_A variable that represents a **Selection** object.
 
 
 ## Example

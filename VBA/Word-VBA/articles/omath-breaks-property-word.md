@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.Breaks Property (Word)
 
-Returns an  **[OMathBreaks](omathbreaks-object-word.md)** collection that represents the line breaks in an equation. Read-only.
+Returns an **[OMathBreaks](omathbreaks-object-word.md)** collection that represents the line breaks in an equation. Read-only.
 
 
 ## Syntax

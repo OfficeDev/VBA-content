@@ -30,7 +30,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
 ## Example
 
-The following Visual Basic for Applications (VBA) macro gets the  **Application** object associated with the **Validation** object for the active document and prints its process ID number in the **Immediate** window.
+The following Visual Basic for Applications (VBA) macro gets the **Application** object associated with the **Validation** object for the active document and prints its process ID number in the **Immediate** window.
 
 
 ```vb

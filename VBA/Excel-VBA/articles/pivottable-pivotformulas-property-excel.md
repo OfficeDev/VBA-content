@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PivotFormulas Property (Excel)
 
-Returns a  **[PivotFormulas](pivotformulas-object-excel.md)** object that represents the collection of formulas for the specified PivotTable report. Read-only.
+Returns a **[PivotFormulas](pivotformulas-object-excel.md)** object that represents the collection of formulas for the specified PivotTable report. Read-only.
 
 
 ## Syntax

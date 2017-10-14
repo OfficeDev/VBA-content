@@ -18,9 +18,9 @@ Sizes the Microsoft Publisher application window.
 
 ## Syntax
 
- _expression_. **Resize**( **_Width_**,  **_Height_**)
+ _expression_. **Resize**( **_Width_**, **_Height_**)
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ### Parameters
@@ -36,7 +36,7 @@ Sizes the Microsoft Publisher application window.
 
 If the window is maximized or minimized, an error occurs.
 
-Use the  **[Width](window-width-property-publisher.md)** and  **[Height](window-height-property-publisher.md)** properties to set the window width and height independently.
+Use the **[Width](window-width-property-publisher.md)** and **[Height](window-height-property-publisher.md)** properties to set the window width and height independently.
 
 
 ## Example

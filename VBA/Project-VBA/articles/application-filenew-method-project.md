@@ -30,7 +30,7 @@ Creates a new project.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _SummaryInfo_|Optional|**Boolean**|**True** if the ** Project Information** dialog box is displayed when creating the project. The default is equal to the corresponding setting on the **General** tab of the **Options** dialog box.|
-| _Template_|Optional|**String**|A path and file name for a template to use when creating the project. If  **Template** is omitted, a blank project is created|
+| _Template_|Optional|**String**|A path and file name for a template to use when creating the project. If **Template** is omitted, a blank project is created|
 | _FileNewDialog_|Optional|**Boolean**|**True** if the **Templates** dialog box is displayed when creating the project. If **Template** is specified, **FileNewDialog**is ignored|
 | _FileNewWorkpane_|Optional|**Boolean**|**True** if Project displays the ** New Project** workpane before creating a new file. The default value is **False**.|
 

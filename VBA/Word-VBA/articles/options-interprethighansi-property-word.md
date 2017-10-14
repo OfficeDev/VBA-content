@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.InterpretHighAnsi Property (Word)
 
-Returns or sets the high-ANSI text interpretation behavior. Read/write  **WdHighAnsiText** .
+Returns or sets the high-ANSI text interpretation behavior. Read/write **WdHighAnsiText** .
 
 
 ## Syntax

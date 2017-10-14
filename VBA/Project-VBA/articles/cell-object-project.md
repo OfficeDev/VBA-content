@@ -12,9 +12,9 @@ ms.date: 06/08/2017
 
 
 
-Represents the active cell. (There is no collection for  **Cell** objects.) The **Cell** object can be accessed only through the **[ActiveCell](http://msdn.microsoft.com/library/880931d8-fc23-7938-e4fe-bd800eeae318%28Office.15%29.aspx)** property of the **Application** object.
+Represents the active cell. (There is no collection for **Cell** objects.) The **Cell** object can be accessed only through the **[ActiveCell](http://msdn.microsoft.com/library/880931d8-fc23-7938-e4fe-bd800eeae318%28Office.15%29.aspx)** property of the **Application** object.
  **Using the Cell Object**
-Use the  **ActiveCell** property to return a **Cell** object.
+Use the **ActiveCell** property to return a **Cell** object.
 
 ## Properties
 

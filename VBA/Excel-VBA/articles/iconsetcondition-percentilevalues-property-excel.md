@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconSetCondition.PercentileValues Property (Excel)
 
-Returns or sets a  **Boolean** value indicating if the thresholds for an icon set conditional format are determined by using percentiles.
+Returns or sets a **Boolean** value indicating if the thresholds for an icon set conditional format are determined by using percentiles.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value indicating if the thresholds for an icon se
 
 ## Remarks
 
-This property will return  **False** if not every threshold is set to percentile. Setting this property to **True** will set every threshold type to percentile.
+This property will return **False** if not every threshold is set to percentile. Setting this property to **True** will set every threshold type to percentile.
 
 
 ## See also

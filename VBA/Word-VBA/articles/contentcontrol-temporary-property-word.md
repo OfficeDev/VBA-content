@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.Temporary Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to remove a content control from the active document when the user edits the contents of the control. Read/write.
+Returns or sets a **Boolean** that represents whether to remove a content control from the active document when the user edits the contents of the control. Read/write.
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Returns or sets a  **Boolean** that represents whether to remove a content contr
 
 ## Remarks
 
-The default value is  **False** . This property corresponds to the **Remove content control when contents are edited** check box in the **Content Control Properties** dialog box.
+The default value is **False** . This property corresponds to the **Remove content control when contents are edited** check box in the **Content Control Properties** dialog box.
 
 
- **Note**  You cannot set this property if the  **[LockContentControl](contentcontrol-lockcontentcontrol-property-word.md)** property is set to **True** .
+ **Note**  You cannot set this property if the **[LockContentControl](contentcontrol-lockcontentcontrol-property-word.md)** property is set to **True** .
 
 
 ## See also

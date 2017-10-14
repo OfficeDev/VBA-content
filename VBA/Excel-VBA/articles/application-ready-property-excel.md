@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Ready Property (Excel)
 
-Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean** .
+Returns **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **True** when the Microsoft Excel application is ready; **False** when 
 
 ## Example
 
-In this example, Microsoft Excel checks to see if the  **Ready** property is set to **True** , and if so, a message displays "Application is ready." Otherwise, Excel displays the message "Application is not ready."
+In this example, Microsoft Excel checks to see if the **Ready** property is set to **True** , and if so, a message displays "Application is ready." Otherwise, Excel displays the message "Application is not ready."
 
 
 ```vb

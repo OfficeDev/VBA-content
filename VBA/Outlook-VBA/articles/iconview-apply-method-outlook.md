@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IconView.Apply Method (Outlook)
 
-Applies the  **[IconView](iconview-object-outlook.md)** object to the current view.
+Applies the **[IconView](iconview-object-outlook.md)** object to the current view.
 
 
 ## Syntax

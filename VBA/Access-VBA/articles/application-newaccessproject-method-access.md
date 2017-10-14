@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.NewAccessProject Method (Access)
 
-You can use the  **NewAccessProject** method to create and open a new Microsoft Access project (.adp) as the current Access project in the Microsoft Access window.
+You can use the **NewAccessProject** method to create and open a new Microsoft Access project (.adp) as the current Access project in the Microsoft Access window.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ You can use the  **NewAccessProject** method to create and open a new Microsoft 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _filepath_|Required|**String**|the name of the new Access project, including the path name and the file name extension.|
-| _Connect_|Optional|**Variant**|The connection string for the Access project. See the ADO  **ConnectionString** property for details about this string.|
+| _Connect_|Optional|**Variant**|The connection string for the Access project. See the ADO **ConnectionString** property for details about this string.|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-The  **NewAccessProject** method enables you to create a new Access project from within Microsoft Access or another application through Automation, formally called OLE Automation. For example, you can use the **NewAccessProject** method from Microsoft Excel to create a new Access project in the Access window. Once you have created an instance of Microsoft Access from another application, you must also create a new Access project. This Access project opens in the Microsoft Access window.
+The **NewAccessProject** method enables you to create a new Access project from within Microsoft Access or another application through Automation, formally called OLE Automation. For example, you can use the **NewAccessProject** method from Microsoft Excel to create a new Access project in the Access window. Once you have created an instance of Microsoft Access from another application, you must also create a new Access project. This Access project opens in the Microsoft Access window.
 
 If the Access project identified by  _projname_ already exists, an error occurs.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrectEntries.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **AutoCorrectEntries** collection, which is usually an **[AutoCorrect](autocorrect-object-word.md)** object.
+Returns an **Object** that represents the parent object of the specified **AutoCorrectEntries** collection, which is usually an **[AutoCorrect](autocorrect-object-word.md)** object.
 
 
 ## Syntax

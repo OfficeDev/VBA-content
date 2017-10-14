@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **Type** property of the **[FormField](formfield-object-word.md)** object to determine the type of form field ( **wdFieldFormDropDown** ) before applying the **[DropDown](formfield-dropdown-property-word.md)** property. This precaution ensures that the **FormField** object is of the expected type.
+Use the **Type** property of the **[FormField](formfield-object-word.md)** object to determine the type of form field ( **wdFieldFormDropDown** ) before applying the **[DropDown](formfield-dropdown-property-word.md)** property. This precaution ensures that the **FormField** object is of the expected type.
 
 
 ## See also

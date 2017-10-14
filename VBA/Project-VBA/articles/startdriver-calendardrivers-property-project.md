@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # StartDriver.CalendarDrivers Property (Project)
 
-Gets the  **[CalendarDrivers](calendardrivers-object-project.md)** object for the task **StartDriver** object. Read-only **CalendarDrivers**.
+Gets the **[CalendarDrivers](calendardrivers-object-project.md)** object for the task **StartDriver** object. Read-only **CalendarDrivers**.
 
 
 ## Syntax

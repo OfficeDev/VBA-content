@@ -27,12 +27,12 @@ ms.date: 06/08/2017
 
 This property is used only for tables linked to a Microsoft SharePoint Foundation site.
 
-In Excel, you cannot set any of the properties associated with the  **[ListDataFormat](listdataformat-object-excel.md)** object. You can set these properties, however, by modifying the list on the SharePoint site.
+In Excel, you cannot set any of the properties associated with the **[ListDataFormat](listdataformat-object-excel.md)** object. You can set these properties, however, by modifying the list on the SharePoint site.
 
 
 ## Example
 
-The following example displays the setting of the  **DefaultValue** property for the third column of the table in Sheet1 of the active workbook. This code requires a list linked to a SharePoint site.
+The following example displays the setting of the **DefaultValue** property for the third column of the table in Sheet1 of the active workbook. This code requires a list linked to a SharePoint site.
 
 
 ```vb

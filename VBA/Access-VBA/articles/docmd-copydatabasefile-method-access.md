@@ -30,8 +30,8 @@ Copies the database connected to the current project to a Microsoft SQL Server d
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _DatabaseFileName_|Required|**Variant**|The name of the file (and path) to which the current database is copied. If no path is specified, the current directory is used.|
-| _OverwriteExistingFile_|Optional|**Variant**|Determines whether Microsoft Access overwrites the file specified by  _DatabaseFileName_.  **True** to overwrite the existing file. If the file doesn't already exist, this argument is ignored|
-| _DisconnectAllUsers_|Optional|**Variant**|Determines whether Access disconnects any users connected to the current database in order to make the copy.  **True** to disconnect other users before copying the database file.|
+| _OverwriteExistingFile_|Optional|**Variant**|Determines whether Microsoft Access overwrites the file specified by  _DatabaseFileName_. **True** to overwrite the existing file. If the file doesn't already exist, this argument is ignored|
+| _DisconnectAllUsers_|Optional|**Variant**|Determines whether Access disconnects any users connected to the current database in order to make the copy. **True** to disconnect other users before copying the database file.|
 
 ## Remarks
 

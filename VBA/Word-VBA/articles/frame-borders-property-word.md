@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.Borders Property (Word)
 
-Returns a  **[Borders](borders-object-word.md)** collection that represents all the borders for the specified frame.
+Returns a **[Borders](borders-object-word.md)** collection that represents all the borders for the specified frame.
 
 
 ## Syntax

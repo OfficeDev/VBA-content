@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.TextRange Property (Excel)
 
-Returns the  **[TextRange2](http://msdn.microsoft.com/library/a6a59c9b-9b64-c1e2-2e98-a1f99025c877%28Office.15%29.aspx)** object that represents the text in the object. Read-only.
+Returns the **[TextRange2](http://msdn.microsoft.com/library/a6a59c9b-9b64-c1e2-2e98-a1f99025c877%28Office.15%29.aspx)** object that represents the text in the object. Read-only.
 
 
 ## Syntax

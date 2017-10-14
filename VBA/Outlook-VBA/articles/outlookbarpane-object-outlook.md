@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # OutlookBarPane Object (Outlook)
 
-Represents the  **Shortcuts** pane in an explorer window.
+Represents the **Shortcuts** pane in an explorer window.
 
 
 ## Remarks
 
-Use the  **[Item](panes-item-method-outlook.md)** method to retrieve the **OutlookBarPane** object from a **[Panes](panes-object-outlook.md)** object. Because the **[Name](outlookbarpane-name-property-outlook.md)** property is the default property of the **OutlookBarPane** object, you can identify the **OutlookBarPane** object by name. For example:
+Use the **[Item](panes-item-method-outlook.md)** method to retrieve the **OutlookBarPane** object from a **[Panes](panes-object-outlook.md)** object. Because the **[Name](outlookbarpane-name-property-outlook.md)** property is the default property of the **OutlookBarPane** object, you can identify the **OutlookBarPane** object by name. For example:
 
 
 ## Example
 
-The following example retrieves an  **OutlookBarPane** object by name.
+The following example retrieves an **OutlookBarPane** object by name.
 
 
 ```

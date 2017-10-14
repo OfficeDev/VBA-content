@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 
 # Macro Actions and Methods of the DoCmd Object
 
-To carry out macro actions from code in Access, use the [DoCmd](docmd-object-access.md)object and its methods. This object replaces the  **DoCmd** statement that you used in versions 1. _x_ and 2.0 of Access to carry out a macro action.
+To carry out macro actions from code in Access, use the [DoCmd](docmd-object-access.md)object and its methods. This object replaces the **DoCmd** statement that you used in versions 1. _x_ and 2.0 of Access to carry out a macro action.
 
-When you convert a database, Access automatically converts any  **DoCmd** statements and the actions that they carried out in your Access Basic code to methods of the **DoCmd** object by replacing the space with the . (dot) operator.
+When you convert a database, Access automatically converts any **DoCmd** statements and the actions that they carried out in your Access Basic code to methods of the **DoCmd** object by replacing the space with the . (dot) operator.
 
 Some macro actions work differently in Access 9.0 and later than in version 1. _x_, 2.0, or 7.0; these differences are detailed below.
 
@@ -43,6 +43,6 @@ In Access, you can't use a SQL statement to specify data to export when you're u
 
  _Comparisons Involving Null Values_
 
-In Access versions 1.x and 2.0, if you compare two expressions within a macro condition by using a comparison operator and one of the expressions is  **Null**, Access Basic will return **True** or **False** for the comparison, depending on which comparison operator you use. In Access 2000 and later, Visual Basic returns **Null** for a comparison in which one expression is **Null**. To determine whether the comparison evaluates to **Null**, use the **IsNull** function to check the result of the comparison.
+In Access versions 1.x and 2.0, if you compare two expressions within a macro condition by using a comparison operator and one of the expressions is **Null**, Access Basic will return **True** or **False** for the comparison, depending on which comparison operator you use. In Access 2000 and later, Visual Basic returns **Null** for a comparison in which one expression is **Null**. To determine whether the comparison evaluates to **Null**, use the **IsNull** function to check the result of the comparison.
 
 

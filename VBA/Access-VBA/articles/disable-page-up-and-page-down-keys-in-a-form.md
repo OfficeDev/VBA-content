@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Disable PAGE UP and PAGE DOWN Keys in a Form
 
-By default, the PAGE UP and PAGE DOWN keys can be used to navigate between records in a form. The followng example illustrates how to use a form's  **[KeyDown](form-keydown-event-access.md)** event to disable the use of the PAGE UP and PAGE DOWN keys in the form.
+By default, the PAGE UP and PAGE DOWN keys can be used to navigate between records in a form. The followng example illustrates how to use a form's **[KeyDown](form-keydown-event-access.md)** event to disable the use of the PAGE UP and PAGE DOWN keys in the form.
 
 
 ```vb
@@ -28,6 +28,6 @@ End Sub
 ```
 
 
- **Note**  You must set the form's  **[KeyPreview](form-keypreview-property-access.md)** property to **True** in order for this procedure to work.
+ **Note**  You must set the form's **[KeyPreview](form-keypreview-property-access.md)** property to **True** in order for this procedure to work.
 
 

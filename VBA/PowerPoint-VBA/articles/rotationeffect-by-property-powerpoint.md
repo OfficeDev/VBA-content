@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RotationEffect.By Property (PowerPoint)
 
-Sets or returns a  **Single** that represents the rotation of an object by the specified number of degrees; for example, a value of 180 means to rotate the object by 180 degrees. Read/write.
+Sets or returns a **Single** that represents the rotation of an object by the specified number of degrees; for example, a value of 180 means to rotate the object by 180 degrees. Read/write.
 
 
 ## Syntax
@@ -27,11 +27,11 @@ Sets or returns a  **Single** that represents the rotation of an object by the s
 
 The specified object will be rotated with the center of the object remaining in the same position on the screen.
 
-If both the  **By** and **[To](rotationeffect-to-property-powerpoint.md)** properties are set for a rotation effect, then the value of the **By** property is ignored.
+If both the **By** and **[To](rotationeffect-to-property-powerpoint.md)** properties are set for a rotation effect, then the value of the **By** property is ignored.
 
 Floating point numbers (for example, 55.5) are valid, but negative numbers are not.
 
-Do not confuse this property with the  **ByX** or **ByY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ByX** or **ByY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

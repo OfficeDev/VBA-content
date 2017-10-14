@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CurrentProject Property (Access)
 
-You can use the  **CurrentProject** property to access the **[CurrentProject](currentproject-object-access.md)** object and its related collections, properties, and methods. Read-only **CurrentProject** object.
+You can use the **CurrentProject** property to access the **[CurrentProject](currentproject-object-access.md)** object and its related collections, properties, and methods. Read-only **CurrentProject** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **CurrentProject** property to access the **[CurrentProject](cu
 
 ## Remarks
 
-Use the  **CurrentProject** property to refer to one of the following current database collections together with one of its properties or methods.
+Use the **CurrentProject** property to refer to one of the following current database collections together with one of its properties or methods.
 
 
 |||

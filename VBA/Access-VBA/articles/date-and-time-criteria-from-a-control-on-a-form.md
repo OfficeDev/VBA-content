@@ -20,7 +20,7 @@ In addition to enclosing the entire string expression in double quotation marks 
 
  **Note**  The number signs indicate to Access that the  _criteria_ argument contains a date or time within a string.
 
-The following examples set a form's  **Filter** or **ServerFilter** property based on criteria that comes from a control named HireDate that's on the form. Note the placement of the number signs.
+The following examples set a form's **Filter** or **ServerFilter** property based on criteria that comes from a control named HireDate that's on the form. Note the placement of the number signs.
 
 
 
@@ -40,7 +40,7 @@ Forms!Employees.ServerFilter = "[HireDate] >= #" _
 Forms!Employees.FilterOn = True
 ```
 
-If the current value of the HireDate control is , the  **Filter** or **ServerFilter** property will have the following _criteria_ argument:
+If the current value of the HireDate control is , the **Filter** or **ServerFilter** property will have the following _criteria_ argument:
 
 
 

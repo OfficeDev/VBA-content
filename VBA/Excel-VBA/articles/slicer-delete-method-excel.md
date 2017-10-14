@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slicer.Delete Method (Excel)
 
-Deletes the slicer and removes it from the associated  **[Slicers](slicers-object-excel.md)** collection.
+Deletes the slicer and removes it from the associated **[Slicers](slicers-object-excel.md)** collection.
 
 
 ## Syntax

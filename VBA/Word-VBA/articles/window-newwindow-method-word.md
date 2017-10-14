@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.NewWindow Method (Word)
 
-Opens a new window with the same document as the specified window. Returns a  **Window** object.
+Opens a new window with the same document as the specified window. Returns a **Window** object.
 
 
 ## Syntax

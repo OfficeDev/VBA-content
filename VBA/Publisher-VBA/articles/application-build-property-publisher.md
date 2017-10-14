@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Build Property (Publisher)
 
-Returns a  **Long** that represents the Microsoft Publisher build number. Read-only.
+Returns a **Long** that represents the Microsoft Publisher build number. Read-only.
 
 
 ## Syntax
 
  _expression_. **Build**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

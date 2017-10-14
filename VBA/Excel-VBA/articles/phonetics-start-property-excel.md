@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Phonetics.Start Property (Excel)
 
-Returns the position that represents the first character of a phonetic text string in the specified cell. Read-only  **Long** .
+Returns the position that represents the first character of a phonetic text string in the specified cell. Read-only **Long** .
 
 
 ## Syntax

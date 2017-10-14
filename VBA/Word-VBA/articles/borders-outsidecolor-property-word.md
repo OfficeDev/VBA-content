@@ -25,9 +25,9 @@ Returns or sets the 24-bit color of the outside borders. .
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
-If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
+If the **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
 
 
 ## Example

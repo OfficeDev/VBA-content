@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparkHorizontalAxis.Axis Property (Excel)
 
-Returns a  **[SparkColor](sparkcolor-object-excel.md)** object that specifies the color of the horizontal axis of the sparkline. Read-only
+Returns a **[SparkColor](sparkcolor-object-excel.md)** object that specifies the color of the horizontal axis of the sparkline. Read-only
 
 
 ## Syntax

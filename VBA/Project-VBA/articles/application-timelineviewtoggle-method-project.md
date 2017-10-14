@@ -30,6 +30,6 @@ Shows or hides the Timeline view.
 
 ## Remarks
 
-If the Timeline view is visible, the  **TimelineViewToggle** method hides it. If the Timeline view is not visible, **TimelineViewToggle** shows it.
+If the Timeline view is visible, the **TimelineViewToggle** method hides it. If the Timeline view is not visible, **TimelineViewToggle** shows it.
 
 

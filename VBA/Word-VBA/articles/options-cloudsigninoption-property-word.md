@@ -23,7 +23,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The setting of  **CloudSignInOption** corresponds to that of the **Show additional places for saving, even if sign-in may be required** option on the **Save** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
+The setting of **CloudSignInOption** corresponds to that of the **Show additional places for saving, even if sign-in may be required** option on the **Save** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
 
 
 ## Property value

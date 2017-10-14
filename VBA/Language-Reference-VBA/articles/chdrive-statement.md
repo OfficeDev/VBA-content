@@ -18,11 +18,11 @@ Changes the current drive.
  **ChDrive**_drive_
 
 The required  _drive_[argument](vbe-glossary.md) is a[string expression](vbe-glossary.md) that specifies an existing drive. If you supply a zero-length string (""), the current drive doesn't change. If the _drive_ argument is a multiple-character string, **ChDrive** uses only the first letter.
-On the Macintosh,  **ChDrive** changes the current folder to the root folder of the specified drive.
+On the Macintosh, **ChDrive** changes the current folder to the root folder of the specified drive.
 
 ## Example
 
-This example uses the  **ChDrive** statement to change the current drive. On the Macintosh, "HD:" is the default drive name and **ChDrive** would change the current folder to the root folder of the specified drive. The following example assumes the machine actually has a drive named D.
+This example uses the **ChDrive** statement to change the current drive. On the Macintosh, "HD:" is the default drive name and **ChDrive** would change the current folder to the root folder of the specified drive. The following example assumes the machine actually has a drive named D.
 
 
 ```

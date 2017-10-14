@@ -29,7 +29,7 @@ Modifies how the longest bar or shortest bar is evaluated for a data bar conditi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _newtype_|Required| **[XlConditionValueTypes](xlconditionvaluetypes-enumeration-excel.md)**|Specifies how the shortest bar or longest bar is evaluated. The default value is  **xlConditionLowestValue** for the shortest bar and **xlConditionHighestValue** for the longest bar.|
+| _newtype_|Required| **[XlConditionValueTypes](xlconditionvaluetypes-enumeration-excel.md)**|Specifies how the shortest bar or longest bar is evaluated. The default value is **xlConditionLowestValue** for the shortest bar and **xlConditionHighestValue** for the longest bar.|
 | _newvalue_|Optional| **Variant**|The value assigned to the shortest or longest data bar. Depending on the  _newtype_ argument, this can be a number or a formula that evaluates to a number.|
 
 ## Remarks

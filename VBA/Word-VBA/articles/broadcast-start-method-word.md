@@ -37,7 +37,7 @@ Initiates the specified broadcast session.
 
 ## Remarks
 
-Calling the  **Start** method sets up the server, authenticates the user, and uploads the presentation.
+Calling the **Start** method sets up the server, authenticates the user, and uploads the presentation.
 
 If the value passed for  _serverUrl_ has invalid formatting, **Start** returns an ?Invalid Parameter? error. Additionally, the method returns an error if the document is DRM protected, is already being broadcast, or has conflicting edits (is in merge mode).
 

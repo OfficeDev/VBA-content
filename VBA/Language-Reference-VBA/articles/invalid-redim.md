@@ -17,7 +17,7 @@ Not every [array](vbe-glossary.md) can be redimensioned. This error has the foll
 
 - A [variable](vbe-glossary.md) was implicitly declared a **Variant**, and you attempted to use **ReDim** to change it to an array.
     
-    A  **Variant** can contain an array, but if it isn't explicitly declared, you can't use **ReDim** to make it into an array. Declare the **Variant** before using **ReDim** to specify the number of elements it can contain. For example, in the following code, `ReDim AVar(10)` causes an invalid **ReDim** error, but `ReDim BVar(10)` does not:
+    A **Variant** can contain an array, but if it isn't explicitly declared, you can't use **ReDim** to make it into an array. Declare the **Variant** before using **ReDim** to specify the number of elements it can contain. For example, in the following code, `ReDim AVar(10)` causes an invalid **ReDim** error, but `ReDim BVar(10)` does not:
     
 
 
@@ -34,9 +34,9 @@ ReDim BVar(10)    ' No error.
 
     
     
-- You tried to use  **ReDim** to change more than one dimension of an array contained within a **Variant**. You can only use **ReDim** to change the size of the last dimension of an array in a **Variant**. To create an array with multiple dimensions that can be redimensioned, the array can't be contained within a **Variant**, and you have to declare it the normal way.
+- You tried to use **ReDim** to change more than one dimension of an array contained within a **Variant**. You can only use **ReDim** to change the size of the last dimension of an array in a **Variant**. To create an array with multiple dimensions that can be redimensioned, the array can't be contained within a **Variant**, and you have to declare it the normal way.
     
-- You can use  **ReDim** only to change the number of elements in a normal array, not the type of those elements. If you want an array in which you can change the types of the elements, use an array contained within a **Variant**. If you declare the array first, changing the types and the number of its elements can be accomplished as follows:
+- You can use **ReDim** only to change the number of elements in a normal array, not the type of those elements. If you want an array in which you can change the types of the elements, use an array contained within a **Variant**. If you declare the array first, changing the types and the number of its elements can be accomplished as follows:
     
 ```vb
 Dim MyVar As Variant    ' Declare the variable. 
@@ -49,11 +49,11 @@ ReDim MyVar(5) As Variant    ' ReDim it as array of Variant subtypes.
 
     
     
-- You attempted to use  **ReDim** with an array that is a member of an Automation object.
+- You attempted to use **ReDim** with an array that is a member of an Automation object.
     
-    Remove the  **ReDim**.
+    Remove the **ReDim**.
     
-     **Note**  If you don't specify a type for a variable, the variable receives the default type,  **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a  **Variant**; the second, `AnotherVar`, is an  **Integer**.
+    **Note**  If you don't specify a type for a variable, the variable receives the default type, **Variant**. This isn't always obvious. For example, the following code declares two variables, the first, `MyVar`, is a **Variant**; the second, `AnotherVar`, is an **Integer**.
 
 
 

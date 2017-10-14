@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.UseNormalStyleForList Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word uses the Normal style for bullets and numbering. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word uses the Normal style for bullets and numbering. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word uses the N
 
 ## Remarks
 
-Corresponds to the  **Use Normal style for bulleted and numbered lists** check box in the **Advanced** tab of the **Word Options** dialog box.
+Corresponds to the **Use Normal style for bulleted and numbered lists** check box in the **Advanced** tab of the **Word Options** dialog box.
 
 
 ## See also

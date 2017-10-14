@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You should set this property to  **False** if the location where the document is saved is different from the final location on the Web server and the supporting files are not available at the first location.
+You should set this property to **False** if the location where the document is saved is different from the final location on the Web server and the supporting files are not available at the first location.
 
 
 ## Example

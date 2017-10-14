@@ -18,7 +18,7 @@ Represents an interface for a real-time data server.
 
 ## Remarks
 
-The  **IRTDServer** object can be instantiated or created only by implementing the **IRTDServer** interface using the **Implements** keyword.
+The **IRTDServer** object can be instantiated or created only by implementing the **IRTDServer** interface using the **Implements** keyword.
 
 
 ## See also

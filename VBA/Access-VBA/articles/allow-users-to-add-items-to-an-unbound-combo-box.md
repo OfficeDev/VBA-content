@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Allow Users to Add Items to an Unbound Combo Box
 
-The following example uses the  **NotInList** event to add an item to a combo box.
+The following example uses the **NotInList** event to add an item to a combo box.
 
-To try this example, create a combo box called  **Colors** on a form. Set the combo box's **[LimitToList](combobox-limittolist-property-access.md)** property to **Yes**. To populate the combo box, set the combo box's **[RowSourceType](combobox-rowsourcetype-property-access.md)** property to **Value List**, and supply a list of values separated by semicolons as the setting for the **[RowSource](combobox-rowsource-property-access.md)** property. For example, you might supply the following values as the setting for this property: Red; Green; Blue.
+To try this example, create a combo box called **Colors** on a form. Set the combo box's **[LimitToList](combobox-limittolist-property-access.md)** property to **Yes**. To populate the combo box, set the combo box's **[RowSourceType](combobox-rowsourcetype-property-access.md)** property to **Value List**, and supply a list of values separated by semicolons as the setting for the **[RowSource](combobox-rowsource-property-access.md)** property. For example, you might supply the following values as the setting for this property: Red; Green; Blue.
 
 Next, add the following event procedure to the form. Switch to Form view and enter a new value in the text portion of the combo box. 
 

@@ -39,7 +39,7 @@ MsoDocInspectorStatus members
 
 ## Example
 
-The following example inspects a document using  **Inspect** method of the **DocumentInspector** object and then displays the status and results of the inspection.
+The following example inspects a document using **Inspect** method of the **DocumentInspector** object and then displays the status and results of the inspection.
 
 
 ```

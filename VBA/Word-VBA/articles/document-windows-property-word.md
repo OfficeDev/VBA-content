@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Windows Property (Word)
 
-Returns a  **[Windows](windows-object-word.md)** collection that represents all windows for the specified document. Read-only.
+Returns a **[Windows](windows-object-word.md)** collection that represents all windows for the specified document. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example displays the number of windows for the active document, both before and after the  **NewWindow** method is run.
+This example displays the number of windows for the active document, both before and after the **NewWindow** method is run.
 
 
 ```vb

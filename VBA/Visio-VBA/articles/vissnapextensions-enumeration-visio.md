@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # VisSnapExtensions Enumeration (Visio)
 
-Flags passed to or returned by the  **Document.SnapExtensions** property.
+Flags passed to or returned by the **Document.SnapExtensions** property.
 
 
 ## Remarks
 
-The  **VisSnapExtensions** constants specify the snap extensions currently active in the document.
+The **VisSnapExtensions** constants specify the snap extensions currently active in the document.
 
 
 

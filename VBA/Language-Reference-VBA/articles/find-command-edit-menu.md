@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
  **Find**
 
-Searches for the specified text in a search range specified in the  **Find** dialog box.
+Searches for the specified text in a search range specified in the **Find** dialog box.
 
-If a search is successful, the  **Find** dialog box closes and Visual Basic selects the located text. If no match is found, Visual Basic displays a message stating that the text was not found.
+If a search is successful, the **Find** dialog box closes and Visual Basic selects the located text. If no match is found, Visual Basic displays a message stating that the text was not found.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_find_ZA01201703.gif). Keyboard shortcut: CTRL+F.
  **Find Next**
-Finds and selects the next occurrence of the text specified in the Find What box of the  **Find** dialog box.
+Finds and selects the next occurrence of the text specified in the Find What box of the **Find** dialog box.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_next_ZA01201716.gif). Keyboard shortcuts: SHIFT+F4 ( **Find** **Next** ) or SHIFT+F3 ( **Find** **Previous** ).
 
@@ -73,6 +73,6 @@ Closes the dialog box without performing the search.
 
  **Replace**
 
-Displays the  **Replace** dialog box, retaining the information typed in the **Find** **What** dialog box.
+Displays the **Replace** dialog box, retaining the information typed in the **Find** **What** dialog box.
 
 

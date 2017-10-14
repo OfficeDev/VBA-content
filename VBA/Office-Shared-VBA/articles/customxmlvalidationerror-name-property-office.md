@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationError.Name Property (Office)
 
-Gets the name of an error in a  **CustomXMLValidationError** object. If no errors exist, the property returns **Nothing**. Read-only.
+Gets the name of an error in a **CustomXMLValidationError** object. If no errors exist, the property returns **Nothing**. Read-only.
 
 
 ## Syntax

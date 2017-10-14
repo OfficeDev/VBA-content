@@ -30,7 +30,7 @@ Displays a Help topic.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _HelpFile_|Optional| **Variant**|The name of the online Help file you want to display. If this argument isn't specified, Microsoft Excel Help is used.|
-| _HelpContextID_|Optional| **Variant**|Specifies the context ID number for the Help topic. If this argument isn't specified, the  **Help Topics** dialog box is displayed.|
+| _HelpContextID_|Optional| **Variant**|Specifies the context ID number for the Help topic. If this argument isn't specified, the **Help Topics** dialog box is displayed.|
 
 ## See also
 

@@ -29,7 +29,7 @@ Specifies how the start date of a new task is set.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _StartOnDate_|Optional|**PjNewTasksStartOnDate**|Specifies whether new tasks start on the project date, the current date, or no date. Can be one of the  **[PjNewTasksStartOnDate](pjnewtasksstartondate-enumeration-project.md)** constants. The default is **pjProjectDate**.|
+| _StartOnDate_|Optional|**PjNewTasksStartOnDate**|Specifies whether new tasks start on the project date, the current date, or no date. Can be one of the **[PjNewTasksStartOnDate](pjnewtasksstartondate-enumeration-project.md)** constants. The default is **pjProjectDate**.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Specifies how the start date of a new task is set.
 
 ## Remarks
 
-The  **NewTasksStartOn** method corresponds to the **New tasks created** setting on the **Schedule** tab of the **Project Options** dialog box.
+The **NewTasksStartOn** method corresponds to the **New tasks created** setting on the **Schedule** tab of the **Project Options** dialog box.
 
 

@@ -30,7 +30,7 @@ Returns the number of comment pages that will be printed for the current chart. 
 
 ## Remarks
 
-Because charts and chart sheets do not support comments, the  **PrintedCommentPages** property of the **Chart** object will always return zero.
+Because charts and chart sheets do not support comments, the **PrintedCommentPages** property of the **Chart** object will always return zero.
 
 
 ## See also

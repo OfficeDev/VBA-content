@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.Saved Property (Publisher)
 
-Returns  **True** if no changes have been made to a publication since it was last saved. Read-only **Boolean**.
+Returns **True** if no changes have been made to a publication since it was last saved. Read-only **Boolean**.
 
 
 ## Syntax
 
  _expression_. **Saved**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-If the  **Saved** property of a modified publication returns **True**, the user won't be prompted to save changes when closing the publication, and all changes made to it since it was last saved will be lost.
+If the **Saved** property of a modified publication returns **True**, the user won't be prompted to save changes when closing the publication, and all changes made to it since it was last saved will be lost.
 
 
 ## Example

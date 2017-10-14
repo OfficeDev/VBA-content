@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.ParentRow Property (Word)
 
-Returns an  **[OMathMatRow](omathmatrow-object-word.md)** object that represents the parent row in a matrix. Read-only.
+Returns an **[OMathMatRow](omathmatrow-object-word.md)** object that represents the parent row in a matrix. Read-only.
 
 
 ## Syntax

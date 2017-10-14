@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.LinkedFields Property (Project)
 
-Indicates whether the  **Resource** object contains fields that are linked to other applications through OLE. Read-only **Boolean**.
+Indicates whether the **Resource** object contains fields that are linked to other applications through OLE. Read-only **Boolean**.
 
 
 ## Syntax

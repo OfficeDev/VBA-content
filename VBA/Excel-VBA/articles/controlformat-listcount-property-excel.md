@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.ListCount Property (Excel)
 
-Returns the number of entries in a list box or combo box. Returns 0 (zero) if there are no entries in the list. Read-only  **Long** .
+Returns the number of entries in a list box or combo box. Returns 0 (zero) if there are no entries in the list. Read-only **Long** .
 
 
 ## Syntax

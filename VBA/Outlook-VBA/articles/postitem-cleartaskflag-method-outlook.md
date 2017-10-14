@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.ClearTaskFlag Method (Outlook)
 
-Clears the  **[PostItem](postitem-object-outlook.md)** object as a task.
+Clears the **[PostItem](postitem-object-outlook.md)** object as a task.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Clears the  **[PostItem](postitem-object-outlook.md)** object as a task.
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](postitem-ismarkedastask-property-outlook.md)** property to **False** .
+Calling this method sets the **[IsMarkedAsTask](postitem-ismarkedastask-property-outlook.md)** property to **False** .
 
 
 ## See also

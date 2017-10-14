@@ -19,13 +19,13 @@ Occurs when the user moves the mouse.
  **Syntax**
 For MultiPage, TabStrip **Private Sub**_object_ _**MouseMove(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
 For other controls **Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
-The  **MouseMove** event syntax has these parts:
+The **MouseMove** event syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|
+| _index_|Required. The index of the page or tab in a **MultiPage** or **TabStrip** associated with this event.|
 | _Button_|Required. An integer value that identifies the state of the mouse buttons.|
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
 | _X, Y_|Required. The horizontal or vertical position, measured in points, from the left or top edge of the control.|

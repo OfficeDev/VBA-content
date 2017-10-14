@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[CanSave](fileconverter-cansave-property-powerpoint.md)** property returns **True** if the specified file converter can be used to save (export) files.
+The **[CanSave](fileconverter-cansave-property-powerpoint.md)** property returns **True** if the specified file converter can be used to save (export) files.
 
 
 ## Example

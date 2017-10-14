@@ -8,15 +8,15 @@ ms.date: 06/08/2017
 
 # Send a Sharing Invitation for a Calendar
 
-Sharing messages, including sharing invitations, sharing requests, and sharing responses, are represented in Microsoft Outlook by the  **[SharingItem](sharingitem-object-outlook.md)** object. The **[CreateSharingItem](sharingitem-recipients-property-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object is used to create **SharingItem** objects for sharing invitations and sharing requests.
+Sharing messages, including sharing invitations, sharing requests, and sharing responses, are represented in Microsoft Outlook by the **[SharingItem](sharingitem-object-outlook.md)** object. The **[CreateSharingItem](sharingitem-recipients-property-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object is used to create **SharingItem** objects for sharing invitations and sharing requests.
 
-This sample uses the  **OpenSharingItem** method to create a **SharingItem** that represents sharing invitation for your **Calendar** default folder. Once shared, the recipient can then use the **[OpenSharedFolder](namespace-opensharedfolder-method-outlook.md)** or **[GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** methods of the **NameSpace** object, or the **[OpenSharedFolder](sharingitem-opensharedfolder-method-outlook.md)** method of the **SharingItem** object to open the shared folder.
+This sample uses the **OpenSharingItem** method to create a **SharingItem** that represents sharing invitation for your **Calendar** default folder. Once shared, the recipient can then use the **[OpenSharedFolder](namespace-opensharedfolder-method-outlook.md)** or **[GetSharedDefaultFolder](namespace-getshareddefaultfolder-method-outlook.md)** methods of the **NameSpace** object, or the **[OpenSharedFolder](sharingitem-opensharedfolder-method-outlook.md)** method of the **SharingItem** object to open the shared folder.
 
-1. The sample obtains a  **[Folder](folder-object-outlook.md)** object reference for the **Calendar** default folder for the current user, by using the **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** method of the **NameSpace** object.
+1. The sample obtains a **[Folder](folder-object-outlook.md)** object reference for the **Calendar** default folder for the current user, by using the **[GetDefaultFolder](namespace-getdefaultfolder-method-outlook.md)** method of the **NameSpace** object.
     
-2. It uses the  **CreateSharingItem** method to create a new **SharingItem** object, using the **Folder** object to establish the sharing context used by the **SharingItem**.
+2. It uses the **CreateSharingItem** method to create a new **SharingItem** object, using the **Folder** object to establish the sharing context used by the **SharingItem**.
     
-3. Finally, the  **[Add](recipients-add-method-outlook.md)** method for the **[Recipients](mailitem-recipients-property-outlook.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](sharingitem-send-method-outlook.md)** method is used to send the **SharingItem**.
+3. Finally, the **[Add](recipients-add-method-outlook.md)** method for the **[Recipients](mailitem-recipients-property-outlook.md)** collection of the newly created **SharingItem** object is called to add the specified recipient and the **[Send](sharingitem-send-method-outlook.md)** method is used to send the **SharingItem**.
     
 
 

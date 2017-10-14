@@ -14,12 +14,12 @@ This topic describes how to programmatically attach one or more files to an outg
 
 ## Object Model Support for Attachments
 
-In Outlook, the  **Attachments** property of the **MailItem** object supports attaching one or more files to an email message. To attach one or more files to a mail item before sending the item, you call the **Add(Object, Object, Object, Object)** method of the **Attachments** object for each of the attachment files. The **Add** method allows you to specify the file name (theSource parameter) and the attachment type (theType parameter) by using the **OlAttachmentType** enumeration. For files in the file system, specify theType parameter as the **Outlook.olAttachmentType.olByValue** enumerated value.
+In Outlook, the **Attachments** property of the **MailItem** object supports attaching one or more files to an email message. To attach one or more files to a mail item before sending the item, you call the **Add(Object, Object, Object, Object)** method of the **Attachments** object for each of the attachment files. The **Add** method allows you to specify the file name (theSource parameter) and the attachment type (theType parameter) by using the **OlAttachmentType** enumeration. For files in the file system, specify theType parameter as the **Outlook.olAttachmentType.olByValue** enumerated value.
 
 
- **Note**  Since Microsoft Office Outlook 2007, you would always use this value to attach a copy of a file in the file system;  **Outlook.olAttachmentType.olByReference** is no longer supported.
+ **Note**  Since Microsoft Office Outlook 2007, you would always use this value to attach a copy of a file in the file system; **Outlook.olAttachmentType.olByReference** is no longer supported.
 
-In addition, when you send an email in Rich Text Format (RTF), you can also specify two other optional parameters—Position andDisplayName—when you call the  **Add** method. ThePosition parameter allows you to specify the position within the email where the attachment should appear. Use one of the following values for thePosition parameter:
+In addition, when you send an email in Rich Text Format (RTF), you can also specify two other optional parameters—Position andDisplayName—when you call the **Add** method. ThePosition parameter allows you to specify the position within the email where the attachment should appear. Use one of the following values for thePosition parameter:
 
 
 - The value 0 hides the attachment within the body of the email. 
@@ -36,7 +36,7 @@ For RTF email messages, you can also specify the DisplayName parameter, which pr
 The  `SendEmailWithAttachments` sample procedure in the code example later in this topic accepts the following:
 
 
-- A reference to the Outlook  **Application** object.
+- A reference to the Outlook **Application** object.
     
 - Strings that contain the subject and body of the message. 
     
@@ -46,13 +46,13 @@ The  `SendEmailWithAttachments` sample procedure in the code example later in th
     
 - A generic list of strings that contain the paths for the files to be attached. 
     
-After creating a new email item, the code adds each recipient to the  **Recipients** collection property of the mail item. Once the code calls the **ResolveAll()** method, it sets the **Subject** and **Body** properties of the mail item before looping through each item in the provided list of attachment paths, adding each to the **Attachments** property of the mail item.
+After creating a new email item, the code adds each recipient to the **Recipients** collection property of the mail item. Once the code calls the **ResolveAll()** method, it sets the **Subject** and **Body** properties of the mail item before looping through each item in the provided list of attachment paths, adding each to the **Attachments** property of the mail item.
 
 Before actually sending the email, you must specify the account from which to send the email message. One technique for finding this information is to use the SMTP address of the sender. The  `GetAccountForEmailAddress` function accepts a string that contains the sender's SMTP email address, and returns a reference for the corresponding **Account** object. This method compares the sender's SMTP address with the **SmtpAddress** property for each configured email account defined for the session's profile. `application.Session.Accounts` returns an **Accounts** collection for the current profile, tracking information for all accounts including Exchange, IMAP, and POP3 accounts, each of which can be associated with a different delivery store. The **Account** object that has an associated **SmtpAddress** property value that matches the sender's SMTP address is the account to use to send the email message.
 
-After identifying the appropriate account, the code completes by setting the  **SendUsingAccount** property of the mail item to that **Account** object, and then calling the **Send()** method.
+After identifying the appropriate account, the code completes by setting the **SendUsingAccount** property of the mail item to that **Account** object, and then calling the **Send()** method.
 
-The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code samples in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the  **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
+The following managed code samples are written in C# and Visual Basic. To run a .NET Framework managed code sample that needs to call into a Component Object Model (COM), you must use an interop assembly that defines and maps managed interfaces to the COM objects in the object model type library. For Outlook, you can use Visual Studio and the Outlook Primary Interop Assembly (PIA). Before you run managed code samples for Outlook 2013, ensure that you have installed the Outlook 2013 PIA and have added a reference to the Microsoft Outlook 15.0 Object Library component in Visual Studio. You should use the following code samples in the  `ThisAddIn` class of an Outlook add-in (using Office Developer Tools for Visual Studio). The **Application** object in the code must be a trusted Outlook **Application** object provided by `ThisAddIn.Globals`. For more information about using the Outlook PIA to develop managed Outlook solutions, see the **Welcome to the Outlook Primary Interop Assembly Reference** on MSDN.
 
 The following code shows how to programmatically attach files to an outgoing email message in Outlook. To demonstrate this functionality, in Visual Studio, create a new managed Outlook add-in named  `AttachFileAddIn`, and replace the contents of the ThisAddIn.vb or ThisAddIn.cs file with the example code shown here. Modify the  `ThisAddIn_Startup` procedure to include a reference to a file in your file system, and update the email addresses appropriately. The SMTP address included in the call to the `SendMailWithAttachments` procedure must correspond to the SMTP address of one of the outgoing email accounts you have previously configured in Outlook.
 

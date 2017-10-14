@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecurrencePattern.RecurrenceType Property (Outlook)
 
-Returns or sets an  **[OlRecurrenceType](olrecurrencetype-enumeration-outlook.md)** constant specifying the frequency of occurrences for the recurrence pattern. Read/write.
+Returns or sets an **[OlRecurrenceType](olrecurrencetype-enumeration-outlook.md)** constant specifying the frequency of occurrences for the recurrence pattern. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlRecurrenceType](olrecurrencetype-enumeration-outlook.md
 
 ## Remarks
 
-You must set the  **RecurrenceType** property before you set other properties for a **[RecurrencePattern](recurrencepattern-object-outlook.md)** object. The **RecurrencePattern** properties that you can set subsequently depends on the value of **RecurrenceType** , as shown in the following table:
+You must set the **RecurrenceType** property before you set other properties for a **[RecurrencePattern](recurrencepattern-object-outlook.md)** object. The **RecurrencePattern** properties that you can set subsequently depends on the value of **RecurrenceType** , as shown in the following table:
 
 
 
@@ -39,7 +39,7 @@ You must set the  **RecurrenceType** property before you set other properties fo
 
 ## Example
 
-This Visual Basic for Applications example uses  **[GetRecurrencePattern](appointmentitem-getrecurrencepattern-method-outlook.md)** to obtain the **[RecurrencePattern](recurrencepattern-object-outlook.md)** object for the newly-created **[AppointmentItem](appointmentitem-object-outlook.md)** . The properties, **RecurrenceType** , **DayOfWeekMask** , **[MonthOfYear](recurrencepattern-monthofyear-property-outlook.md)** , **Instance** , **Occurences** , **StartTime** , **EndTime** , and **[Subject](appointmentitem-subject-property-outlook.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs the first Monday of June effective 6/1/2007 until 6/6/2016 from 2:00 PM to 5:00 PM."
+This Visual Basic for Applications example uses **[GetRecurrencePattern](appointmentitem-getrecurrencepattern-method-outlook.md)** to obtain the **[RecurrencePattern](recurrencepattern-object-outlook.md)** object for the newly-created **[AppointmentItem](appointmentitem-object-outlook.md)** . The properties, **RecurrenceType** , **DayOfWeekMask** , **[MonthOfYear](recurrencepattern-monthofyear-property-outlook.md)** , **Instance** , **Occurences** , **StartTime** , **EndTime** , and **[Subject](appointmentitem-subject-property-outlook.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs the first Monday of June effective 6/1/2007 until 6/6/2016 from 2:00 PM to 5:00 PM."
 
 
 ```vb

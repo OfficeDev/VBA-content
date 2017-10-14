@@ -25,9 +25,9 @@ Designates a range to be recalculated when the next recalculation occurs.
 
 ## Remarks
 
-The  **[Calculate](range-calculate-method-excel.md)** method forces the specified range to be recalculated, for cells that Microsoft Excel understands as needing recalculation.
+The **[Calculate](range-calculate-method-excel.md)** method forces the specified range to be recalculated, for cells that Microsoft Excel understands as needing recalculation.
 
-If the application is in manual calculation mode, using the  **Dirty** method instructs Excel to identify the specified cell to be recalculated. If the application is in automatic calculation mode, using the **Dirty** method instructs Excel to perform a recalculation.
+If the application is in manual calculation mode, using the **Dirty** method instructs Excel to identify the specified cell to be recalculated. If the application is in automatic calculation mode, using the **Dirty** method instructs Excel to perform a recalculation.
 
 
 ## Example

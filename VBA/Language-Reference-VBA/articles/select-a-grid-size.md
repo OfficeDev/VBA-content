@@ -14,16 +14,16 @@ ms.date: 06/08/2017
 
 
 
-1. From the  **Tools** menu, choose **Options**.
+1. From the **Tools** menu, choose **Options**.
     
-2. In the  **Options** dialog box, choose the **General** page.
+2. In the **Options** dialog box, choose the **General** page.
     
-3. In the  **Form Grid Settings** group, specify the size you want for each[grid block](glossary-vba.md). Specifying smaller numbers results in smaller grid blocks.
+3. In the **Form Grid Settings** group, specify the size you want for each[grid block](glossary-vba.md). Specifying smaller numbers results in smaller grid blocks.
     
 
 
 
 
- **Tip**  If you use the  **Arrange Buttons** command to position command buttons in your application, try a small grid setting. This will allow you to position the buttons closer to the edge of the form.
+ **Tip**  If you use the **Arrange Buttons** command to position command buttons in your application, try a small grid setting. This will allow you to position the buttons closer to the edge of the form.
 
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.AssociatedObject Property (Visio)
 
-Returns the object associated with the specified comment. Read-only  **Object**.
+Returns the object associated with the specified comment. Read-only **Object**.
 
 
 ## Syntax

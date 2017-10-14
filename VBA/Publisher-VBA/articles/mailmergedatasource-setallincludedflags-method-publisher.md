@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **SetAllIncludedFlags**( **_Included_**)
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can set individual records in a data source to be included in or excluded from a mail merge using the  **[Included](mailmergedatasource-included-property-publisher.md)** property.
+You can set individual records in a data source to be included in or excluded from a mail merge using the **[Included](mailmergedatasource-included-property-publisher.md)** property.
 
 
 ## Example

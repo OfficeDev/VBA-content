@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HTMLDivision.HTMLDivisionParent Method (Word)
 
-Returns an  **HTMLDivision** object that represents a parent division of the current HTML division.
+Returns an **HTMLDivision** object that represents a parent division of the current HTML division.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataColumns.DataRecordset Property (Visio)
 
-Returns the  **[DataRecordset](datarecordset-object-visio.md)** object that contains the **DataColumns** collection. Read-only.
+Returns the **[DataRecordset](datarecordset-object-visio.md)** object that contains the **DataColumns** collection. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,6 +33,6 @@ DataRecordset
 
 ## Remarks
 
-Each  **DataRecordset** object contains one and only one **DataColumns** collection.
+Each **DataRecordset** object contains one and only one **DataColumns** collection.
 
 

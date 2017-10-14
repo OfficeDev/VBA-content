@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.PageNumber Property (Publisher)
 
-Returns a  **String** that represents the current page number. Read-only.
+Returns a **String** that represents the current page number. Read-only.
 
 
 ## Syntax
 
  _expression_. **PageNumber**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Previous Property (Word)
 
-Returns a  **TextFrame** object that represents the previous text frame in a collection of shapes. Read-only.
+Returns a **TextFrame** object that represents the previous text frame in a collection of shapes. Read-only.
 
 
 ## Syntax

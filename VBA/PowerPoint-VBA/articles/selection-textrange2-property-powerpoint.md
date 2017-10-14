@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.TextRange2 Property (PowerPoint)
 
-Returns the  **TextRange2** object of the current **Selection** object. Read-only.
+Returns the **TextRange2** object of the current **Selection** object. Read-only.
 
 
 ## Syntax

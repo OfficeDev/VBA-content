@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Transparency Property (Word)
 
-Returns or sets the degree of transparency of line. Read/write  **Single** .
+Returns or sets the degree of transparency of line. Read/write **Single** .
 
 
 ## Syntax

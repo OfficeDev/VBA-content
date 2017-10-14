@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Orientation Property (Excel)
 
-Returns or sets a  **Long** value that represents the text frame orientation.
+Returns or sets a **Long** value that represents the text frame orientation.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** value that represents the text frame orientation.
 
 ## Remarks
 
-The value of this property can be set to an integer value from - 90 to 90 degrees or one of the  **[MsoTextOrientation](http://msdn.microsoft.com/library/7e8d0e06-14dd-3ea1-a2e4-50375919517f%28Office.15%29.aspx)** constants.
+The value of this property can be set to an integer value from - 90 to 90 degrees or one of the **[MsoTextOrientation](http://msdn.microsoft.com/library/7e8d0e06-14dd-3ea1-a2e4-50375919517f%28Office.15%29.aspx)** constants.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.prod: outlook
 
 Displays content in a "single pane mode" by showing only the Preview Pane view. 
 
-Microsoft Outlook utilizes responsive design by enabling this auto-resizing feature using the  **PreviewPane** object. This happens when the user resizes the Outlook window so small that there is only room to display a single pane. Use the **PreviewPane** object when the user has a small device, such as a tablet or phone, and the device rotates the Outlook window to display in portrait mode. Introduced in Office 2016.
+Microsoft Outlook utilizes responsive design by enabling this auto-resizing feature using the **PreviewPane** object. This happens when the user resizes the Outlook window so small that there is only room to display a single pane. Use the **PreviewPane** object when the user has a small device, such as a tablet or phone, and the device rotates the Outlook window to display in portrait mode. Introduced in Office 2016.
 
 ## See also
 

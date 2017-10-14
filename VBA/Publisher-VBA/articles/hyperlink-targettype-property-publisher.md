@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Hyperlink.TargetType Property (Publisher)
 
-Returns a  **PbHlinkTargetType** constant that represents the type of hyperlink. Read-only.
+Returns a **PbHlinkTargetType** constant that represents the type of hyperlink. Read-only.
 
 
 ## Syntax
 
  _expression_. **TargetType**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_A variable that represents a **Hyperlink** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbHlinkTargetType
 
 ## Remarks
 
-The  **TargetType** property value can be one of the following **PbHlinkTargetType** constants.
+The **TargetType** property value can be one of the following **PbHlinkTargetType** constants.
 
 
 

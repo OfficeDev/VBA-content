@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.ChildNodes Property (Office)
 
-Gets a  **CustomXMLNodes** collection containing all of the child elements of the current node. Read-only.
+Gets a **CustomXMLNodes** collection containing all of the child elements of the current node. Read-only.
 
 
 ## Syntax

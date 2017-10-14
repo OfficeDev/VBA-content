@@ -19,7 +19,7 @@ Contains properties and methods that apply to connectors. A connector is a line 
 
 ## Example
 
-Use the  **ConnectorFormat** property of the **[Shape](shape-object-publisher.md)** object or the **[ShapeRange](shaperange-object-publisher.md)** collection to return a **ConnectorFormat** object. Use the **[BeginConnect](connectorformat-beginconnect-method-publisher.md)** and **[EndConnect](connectorformat-endconnect-method-publisher.md)** methods of the **ConnectorFormat** object to attach the ends of the connector to other shapes in the publication. Use the **[RerouteConnections](shape-rerouteconnections-method-publisher.md)** method of the **Shape** object and **ShapeRange** collection to automatically find the shortest path between the two shapes connected by the connector. Use the **[Connector](shape-connector-property-publisher.md)** property to see whether a shape is a connector.
+Use the **ConnectorFormat** property of the **[Shape](shape-object-publisher.md)** object or the **[ShapeRange](shaperange-object-publisher.md)** collection to return a **ConnectorFormat** object. Use the **[BeginConnect](connectorformat-beginconnect-method-publisher.md)** and **[EndConnect](connectorformat-endconnect-method-publisher.md)** methods of the **ConnectorFormat** object to attach the ends of the connector to other shapes in the publication. Use the **[RerouteConnections](shape-rerouteconnections-method-publisher.md)** method of the **Shape** object and **ShapeRange** collection to automatically find the shortest path between the two shapes connected by the connector. Use the **[Connector](shape-connector-property-publisher.md)** property to see whether a shape is a connector.
  
 
  
@@ -27,7 +27,7 @@ Use the  **ConnectorFormat** property of the **[Shape](shape-object-publisher.md
  
 
  
-Note that you assign a size and a position when you add a connector to the  **Shapes** collection, but the size and position are automatically adjusted when you attach the beginning and end of the connector to other shapes in the collection. Therefore, if you intend to attach a connector to other shapes, the initial size and position you specify are irrelevant. Likewise, you specify which connection sites on a shape to attach the connector to when you attach the connector, but using the **RerouteConnections** method after the connector is attached may change which connection sites the connector attaches to, making your original choice of connection sites irrelevant.
+Note that you assign a size and a position when you add a connector to the **Shapes** collection, but the size and position are automatically adjusted when you attach the beginning and end of the connector to other shapes in the collection. Therefore, if you intend to attach a connector to other shapes, the initial size and position you specify are irrelevant. Likewise, you specify which connection sites on a shape to attach the connector to when you attach the connector, but using the **RerouteConnections** method after the connector is attached may change which connection sites the connector attaches to, making your original choice of connection sites irrelevant.
  
 
  

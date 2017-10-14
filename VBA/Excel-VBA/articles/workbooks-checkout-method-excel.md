@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbooks.CheckOut Method (Excel)
 
-Returns a  **String** representing a specified workbook from a server to a local computer for editing.
+Returns a **String** representing a specified workbook from a server to a local computer for editing.
 
 
 ## Syntax

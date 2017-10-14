@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SyncObject.OnError Event (Outlook)
 
-Occurs when Microsoft Outlook encounters an error while synchronizing a user?s folders using the specified  **Send\Receive** group.
+Occurs when Microsoft Outlook encounters an error while synchronizing a user?s folders using the specified **Send\Receive** group.
 
 
 ## Syntax

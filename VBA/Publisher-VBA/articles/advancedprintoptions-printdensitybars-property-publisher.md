@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # AdvancedPrintOptions.PrintDensityBars Property (Publisher)
 
- **True** to print a density bar for the specified publication. The default is **True**. Read/write  **Boolean**.
+ **True** to print a density bar for the specified publication. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **PrintDensityBars**
 
- _expression_A variable that represents a  **AdvancedPrintOptions** object.
+ _expression_A variable that represents a **AdvancedPrintOptions** object.
 
 
 ### Return Value
@@ -34,7 +34,7 @@ Returns "Permission Denied" if any print mode other than separations is selected
 
 The density bar printed is graded from a 10 percent screen to a 100 percent fill. A commercial printer can use this bar to determine proper exposure time for plate burning, and to test dot gain in the printed pages.
 
-This property corresponds to the  **Density bars** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
+This property corresponds to the **Density bars** control on the **Page Settings** tab of the **Advanced Print Settings** dialog box.
 
 These printer's marks print outside the publication and can be printed only if the size of the paper being printed on is larger than the publication page size.
 

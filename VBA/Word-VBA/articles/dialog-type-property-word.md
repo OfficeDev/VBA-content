@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dialog.Type Property (Word)
 
-Returns the type of built-in Microsoft Word dialog box. Read-only  **[WdWordDialog](wdworddialog-enumeration-word.md)** .
+Returns the type of built-in Microsoft Word dialog box. Read-only **[WdWordDialog](wdworddialog-enumeration-word.md)** .
 
 
 ## Syntax

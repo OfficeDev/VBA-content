@@ -18,7 +18,7 @@ Represents the information used to set up a signature packet.
 
 ## Example
 
-The following example sets various properties of the  **SignatureSetup** object for a signature packet.
+The following example sets various properties of the **SignatureSetup** object for a signature packet.
 
 
 ```

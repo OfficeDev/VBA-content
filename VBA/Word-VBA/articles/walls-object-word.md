@@ -23,7 +23,7 @@ This object is not a collection. There is no object that represents a single wal
 
 ## Example
 
-Use the  **[Walls](chart-walls-property-word.md)** property to return the **Walls** object. The following example sets the pattern on the walls for the first chart in the active document. If the chart is not a 3-D chart, this example will fail.
+Use the **[Walls](chart-walls-property-word.md)** property to return the **Walls** object. The following example sets the pattern on the walls for the first chart in the active document. If the chart is not a 3-D chart, this example will fail.
 
 
 ```vb

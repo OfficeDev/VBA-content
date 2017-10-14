@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.DropType Property (Publisher)
 
-Returns an  **MsoCalloutDropType** constant indicating where the callout line attaches to the callout text box. Read-only.
+Returns an **MsoCalloutDropType** constant indicating where the callout line attaches to the callout text box. Read-only.
 
 
 ## Syntax
 
  _expression_. **DropType**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Return Value
@@ -30,11 +30,11 @@ MsoCalloutDropType
 
 ## Remarks
 
-The  **DropType** property value can be one of the ** [MsoCalloutDropType](http://msdn.microsoft.com/library/0923e0a7-beb6-224f-6a87-85111f58ae3b%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **DropType** property value can be one of the ** [MsoCalloutDropType](http://msdn.microsoft.com/library/0923e0a7-beb6-224f-6a87-85111f58ae3b%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-If the callout drop type is  **msoCalloutDropCustom**, the values of the  **[Drop](calloutformat-drop-property-publisher.md)** and  **[AutoAttach](calloutformat-autoattach-property-publisher.md)** properties and the relative positions of the callout text box and callout line origin (where the callout points) are used to determine where the callout line attaches to the text box.
+If the callout drop type is **msoCalloutDropCustom**, the values of the **[Drop](calloutformat-drop-property-publisher.md)** and **[AutoAttach](calloutformat-autoattach-property-publisher.md)** properties and the relative positions of the callout text box and callout line origin (where the callout points) are used to determine where the callout line attaches to the text box.
 
-Use the  **[PresetDrop](calloutformat-presetdrop-method-publisher.md)** method to set the value of this property.
+Use the **[PresetDrop](calloutformat-presetdrop-method-publisher.md)** method to set the value of this property.
 
 
 ## Example

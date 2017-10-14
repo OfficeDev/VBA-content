@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # Working with Range Objects
 
-A common task when using Visual Basic is to specify an area in a document and then do something with it, such as insert text or apply formatting. For example, you may want to write a macro that locates a word or phrase within a portion of a document. The portion of the document can be represented by a  **[Range](range-object-word.md)** object. After the  **Range** object is identified, methods and properties of the **Range** object can be applied to modify the contents of the range.
+A common task when using Visual Basic is to specify an area in a document and then do something with it, such as insert text or apply formatting. For example, you may want to write a macro that locates a word or phrase within a portion of a document. The portion of the document can be represented by a **[Range](range-object-word.md)** object. After the **Range** object is identified, methods and properties of the **Range** object can be applied to modify the contents of the range.
 
-A  **Range** object refers to a contiguous area in a document. Each **Range** object is defined by a starting and ending character position. Similar to the way bookmarks are used in a document, **Range** objects are used in Visual Basic procedures to identify specific portions of a document. A **Range** object can be as small as the insertion point or as large as the entire document. However, unlike a bookmark, a **Range** object exists only while the procedure that defined it is running.
+A **Range** object refers to a contiguous area in a document. Each **Range** object is defined by a starting and ending character position. Similar to the way bookmarks are used in a document, **Range** objects are used in Visual Basic procedures to identify specific portions of a document. A **Range** object can be as small as the insertion point or as large as the entire document. However, unlike a bookmark, a **Range** object exists only while the procedure that defined it is running.
 
-The  **[Start](range-start-property-word.md)**,  **[End](range-end-property-word.md)**, and  **[StoryType](range-storytype-property-word.md)** properties uniquely identify a  **Range** object. The **Start** and **End** properties return or set the starting and ending character positions of the **Range** object. The character position at the beginning of the document is zero, the position after the first character is one, and so on. There are 11 different story types represented by the **WdStoryType** constants of the **StoryType** property.
+The **[Start](range-start-property-word.md)**, **[End](range-end-property-word.md)**, and **[StoryType](range-storytype-property-word.md)** properties uniquely identify a **Range** object. The **Start** and **End** properties return or set the starting and ending character positions of the **Range** object. The character position at the beginning of the document is zero, the position after the first character is one, and so on. There are 11 different story types represented by the **WdStoryType** constants of the **StoryType** property.
 
 
- **Note**   **Range** objects are independent of the selection. That is, you can define and modify a range without changing the current selection. You can also define multiple ranges in a document, but there is only one selection per document pane.
+ **Note**  **Range** objects are independent of the selection. That is, you can define and modify a range without changing the current selection. You can also define multiple ranges in a document, but there is only one selection per document pane.
 
 
 ## Using the Range method
 
-Use the  **[Range](range-checksynonyms-method-word.md)** method of the  **[Document](document-object-word.md)** object to create a **Range** object that is located in the main story and has a given start and endpoint. The following example creates a **Range** object that starts at the beginning of the first character and extends through the tenth character.
+Use the **[Range](range-checksynonyms-method-word.md)** method of the **[Document](document-object-word.md)** object to create a **Range** object that is located in the main story and has a given start and endpoint. The following example creates a **Range** object that starts at the beginning of the first character and extends through the tenth character.
 
 
 ```vb
@@ -30,7 +30,7 @@ Sub SetNewRange()
 End Sub
 ```
 
-You can see that the  **Range** object is created when you apply a property or method to the **Range** object. For example, the following applies bold formatting to the first 10 characters in the active document.
+You can see that the **Range** object is created when you apply a property or method to the **Range** object. For example, the following applies bold formatting to the first 10 characters in the active document.
 
 
 
@@ -43,7 +43,7 @@ Sub SetBoldRange()
 End Sub
 ```
 
-When you need to refer to a  **Range** object multiple times, you can use the **Set** statement to set a variable equal to the **Range** object. However, if you only need to perform a single action on a **Range** object, you do not need to store the object in a variable. The same result can be achieved using just one instruction that identifies the range and changes the **[Bold](range-bold-property-word.md)** property.
+When you need to refer to a **Range** object multiple times, you can use the **Set** statement to set a variable equal to the **Range** object. However, if you only need to perform a single action on a **Range** object, you do not need to store the object in a variable. The same result can be achieved using just one instruction that identifies the range and changes the **[Bold](range-bold-property-word.md)** property.
 
 
 
@@ -54,7 +54,7 @@ Sub BoldRange()
 End Sub
 ```
 
-Like a bookmark, a range can span a group of characters or mark a location in a document. The  **Range** object in the following example has the same starting and ending points. The range does not include any text. The following example inserts text at the beginning of the active document.
+Like a bookmark, a range can span a group of characters or mark a location in a document. The **Range** object in the following example has the same starting and ending points. The range does not include any text. The following example inserts text at the beginning of the active document.
 
 
 
@@ -67,7 +67,7 @@ Sub InsertTextBeforeRange()
 End Sub
 ```
 
-You can define the beginning and endpoints of a range using the character position numbers, as shown above, or use the  **Start** and **End** properties with objects such as **[Selection](selection-object-word.md)**,  **[Bookmark](bookmark-object-word.md)**, or  **Range** objects. The following example creates a **Range** object beginning at the start of the second paragraph and ending after the third paragraph.
+You can define the beginning and endpoints of a range using the character position numbers, as shown above, or use the **Start** and **End** properties with objects such as **[Selection](selection-object-word.md)**, **[Bookmark](bookmark-object-word.md)**, or **Range** objects. The following example creates a **Range** object beginning at the start of the second paragraph and ending after the third paragraph.
 
 
 
@@ -83,12 +83,12 @@ Sub NewRange()
 End Sub
 ```
 
-For additional information and examples, see the  **[Range](range-checksynonyms-method-word.md)** method.
+For additional information and examples, see the **[Range](range-checksynonyms-method-word.md)** method.
 
 
 ## Using the Range property
 
-The  **Range** property appears on multiple objects—such as **[Paragraph](paragraph-object-word.md)**,  **[Bookmark](bookmark-object-word.md)**, and  ** [Cell](cell-object-word.md)**—and is used to return a  **Range** object. The following example returns a **Range** object that refers to the first paragraph in the active document.
+The **Range** property appears on multiple objects—such as **[Paragraph](paragraph-object-word.md)**, **[Bookmark](bookmark-object-word.md)**, and ** [Cell](cell-object-word.md)**—and is used to return a **Range** object. The following example returns a **Range** object that refers to the first paragraph in the active document.
 
 
 ```vb
@@ -98,7 +98,7 @@ Sub SetParagraphRange()
 End Sub
 ```
 
-After you have a  **Range** object, you can use any of its properties or methods to modify the **Range** object. The following example selects the second paragraph in the active document and then centers the selection.
+After you have a **Range** object, you can use any of its properties or methods to modify the **Range** object. The following example selects the second paragraph in the active document and then centers the selection.
 
 
 
@@ -110,7 +110,7 @@ Sub FormatRange()
 End Sub
 ```
 
-If you need to apply numerous properties or methods to the same  **Range** object, you can use the **With…End With** structure. The following example formats the text in the first paragraph of the active document.
+If you need to apply numerous properties or methods to the same **Range** object, you can use the **With…End With** structure. The following example formats the text in the first paragraph of the active document.
 
 
 
@@ -130,12 +130,12 @@ Sub FormatFirstParagraph()
 End Sub
 ```
 
-For additional information and examples, see the  **[Range](range-case-property-word.md)** property topic.
+For additional information and examples, see the **[Range](range-case-property-word.md)** property topic.
 
 
 ## Redefining a Range object
 
-Use the  **[SetRange](range-setrange-method-word.md)** method to redefine an existing  **Range** object. The following example defines a range as the current selection. The **SetRange** method then redefines the range so that it refers to the current selection plus the next 10 characters.
+Use the **[SetRange](range-setrange-method-word.md)** method to redefine an existing **Range** object. The following example defines a range as the current selection. The **SetRange** method then redefines the range so that it refers to the current selection plus the next 10 characters.
 
 
 ```vb
@@ -147,10 +147,10 @@ Sub ExpandRange()
 End Sub
 ```
 
-For additional information and examples, see the  **[Range](range-checksynonyms-method-word.md)** method for the  **[Document](document-object-word.md)**.
+For additional information and examples, see the **[Range](range-checksynonyms-method-word.md)** method for the **[Document](document-object-word.md)**.
 
 
- **Note**  When debugging your macros, you can use the  **Select**method to ensure that a  **Range** object is referring to the correct range of text. For example, the following selects a **Range** object that refers to the second and third paragraphs in the active document, and then formats the font of the selection.
+ **Note**  When debugging your macros, you can use the **Select**method to ensure that a **Range** object is referring to the correct range of text. For example, the following selects a **Range** object that refers to the second and third paragraphs in the active document, and then formats the font of the selection.
 
 
 

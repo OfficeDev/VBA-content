@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.PhoneticType Property (Project)
 
-Gets or sets the type of characters used to display phonetic information. Read/write  **PjPhoneticType**.
+Gets or sets the type of characters used to display phonetic information. Read/write **PjPhoneticType**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the type of characters used to display phonetic information. Read/w
 
 ## Remarks
 
-The  **PhoneticType** property can be one of the following **[PjPhoneticType](pjphonetictype-enumeration-project.md)** constants: **pjKatakanaHalf**, **pjKatakana**, or **pjHiragana**. The **PhoneticType** property produces tangible results only if the Japanese version of Projectis used.
+The **PhoneticType** property can be one of the following **[PjPhoneticType](pjphonetictype-enumeration-project.md)** constants: **pjKatakanaHalf**, **pjKatakana**, or **pjHiragana**. The **PhoneticType** property produces tangible results only if the Japanese version of Projectis used.
 
 

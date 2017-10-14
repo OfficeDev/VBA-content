@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.OutlineLevel Property (Project)
 
-Gets the level of the task in the outline hierarchy. Read/write  **Integer**.
+Gets the level of the task in the outline hierarchy. Read/write **Integer**.
 
 
 ## Syntax

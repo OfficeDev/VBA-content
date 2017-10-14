@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.ExchangeMailboxServerName Property (Outlook)
 
-Returns a  **String** value that represents the name of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
+Returns a **String** value that represents the name of the Microsoft Exchange Server that hosts the account mailbox. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** value that represents the name of the Microsoft Exchange S
 
 ## Remarks
 
-This property is similar to the  **[ExchangeMailboxServerName](namespace-exchangemailboxservername-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
+This property is similar to the **[ExchangeMailboxServerName](namespace-exchangemailboxservername-property-outlook.md)** property of the **[NameSpace](namespace-object-outlook.md)** object, except that this property applies to the Exchange Server that hosts the account mailbox, and not necessarily to the primary Exchange account.
 
 If an Exchange mailbox is not associated with this account, this property returns an empty string.
 

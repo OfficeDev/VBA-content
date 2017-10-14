@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property returns  **wdUndefined** if the **NoProofing** property is set to **True** for only some of the specified text.
+This property returns **wdUndefined** if the **NoProofing** property is set to **True** for only some of the specified text.
 
 
 ## Example

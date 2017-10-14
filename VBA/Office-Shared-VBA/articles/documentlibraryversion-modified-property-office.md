@@ -25,7 +25,7 @@ Gets the date and time at which the specified version of the shared document was
 
 ## Remarks
 
-A new version is created on the server each time a user opens the document and is updated when the user saves changes; additional versions are not created each time the user saves changes to the open document. The  **Modified** property of the active document version represents the last time the user saved changes to the open document.
+A new version is created on the server each time a user opens the document and is updated when the user saves changes; additional versions are not created each time the user saves changes to the open document. The **Modified** property of the active document version represents the last time the user saved changes to the open document.
 
 
 ## Example

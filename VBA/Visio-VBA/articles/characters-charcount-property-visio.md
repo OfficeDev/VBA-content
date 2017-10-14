@@ -30,8 +30,8 @@ Long
 
 ## Remarks
 
-For a  **Shape** object, the **CharCount** property returns the number of characters in the shape's text. For a **Characters** object, the **CharCount** property returns the number of characters in the text range represented by that object.
+For a **Shape** object, the **CharCount** property returns the number of characters in the shape's text. For a **Characters** object, the **CharCount** property returns the number of characters in the text range represented by that object.
 
-The value returned by the  **CharCount** property includes the expanded number of characters for any fields in the object's text. For example, if the text contains a field that displays the file name of a drawing, the **CharCount** property includes the number of characters in the file name, rather than the one-character escape sequence used to represent a field in the **Text** property of a **Shape** object.
+The value returned by the **CharCount** property includes the expanded number of characters for any fields in the object's text. For example, if the text contains a field that displays the file name of a drawing, the **CharCount** property includes the number of characters in the file name, rather than the one-character escape sequence used to represent a field in the **Text** property of a **Shape** object.
 
 

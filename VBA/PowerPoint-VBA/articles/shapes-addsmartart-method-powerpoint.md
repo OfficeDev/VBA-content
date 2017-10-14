@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddSmartArt Method (PowerPoint)
 
-Adds a SmartArt diagram to the  **Shapes** object.
+Adds a SmartArt diagram to the **Shapes** object.
 
 
 ## Syntax

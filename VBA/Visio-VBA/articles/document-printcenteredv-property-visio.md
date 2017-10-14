@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-The  **PrintCenteredV** property corresponds to the **Center vertically** check box in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group, and then click **Setup** on the **Print Setup** tab).
+The **PrintCenteredV** property corresponds to the **Center vertically** check box in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group, and then click **Setup** on the **Print Setup** tab).
 
 

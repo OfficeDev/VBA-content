@@ -38,6 +38,6 @@ Selects the first cell in the row containing the active cell.
 
 ## Remarks
 
-The  **SelectRowStart** method is only available when the Gantt Chart, Task Sheet, Task Usage view, Resource Sheet, or Resource Usage view is the active view.
+The **SelectRowStart** method is only available when the Gantt Chart, Task Sheet, Task Usage view, Resource Sheet, or Resource Usage view is the active view.
 
 

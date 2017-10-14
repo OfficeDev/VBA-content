@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddShape Method (Excel)
 
-Returns a  **[Shape](shape-object-excel.md)** object that represents the new AutoShape in a worksheet.
+Returns a **[Shape](shape-object-excel.md)** object that represents the new AutoShape in a worksheet.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-To change the type of an AutoShape that you?ve added, set the  **[AutoShapeType](shape-autoshapetype-property-excel.md)** property.
+To change the type of an AutoShape that you?ve added, set the **[AutoShapeType](shape-autoshapetype-property-excel.md)** property.
 
 
 ## Example

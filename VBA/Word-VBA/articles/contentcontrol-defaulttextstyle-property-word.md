@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.DefaultTextStyle Property (Word)
 
-Returns or sets a  **Variant** that represents the name of the character style to use to format text in a text content control. Read/write.
+Returns or sets a **Variant** that represents the name of the character style to use to format text in a text content control. Read/write.
 
 
 ## Syntax

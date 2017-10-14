@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Set <keyword>
 
-The  **Set** keyword is used in these contexts:
+The **Set** keyword is used in these contexts:
 
 [Set Statement](set-statement.md)
 

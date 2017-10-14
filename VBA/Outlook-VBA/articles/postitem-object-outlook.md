@@ -18,11 +18,11 @@ Represents a post in a public folder that others may browse.
 
 ## Remarks
 
-Unlike a  **[MailItem](mailitem-object-outlook.md)** object, a **PostItem** object is not sent to a recipient. You use the **[Post](postitem-post-method-outlook.md)** method, which is analogous to the **[Send](mailitem-send-method-outlook.md)** method for the **MailItem** object, to save the **PostItem** to the target public folder instead of mailing it.
+Unlike a **[MailItem](mailitem-object-outlook.md)** object, a **PostItem** object is not sent to a recipient. You use the **[Post](postitem-post-method-outlook.md)** method, which is analogous to the **[Send](mailitem-send-method-outlook.md)** method for the **MailItem** object, to save the **PostItem** to the target public folder instead of mailing it.
 
-Use the  **[CreateItem](application-createitem-method-outlook.md)** or **[CreateItemFromTemplate](application-createitemfromtemplate-method-outlook.md)** method to create a **PostItem** object that represents a new post.
+Use the **[CreateItem](application-createitem-method-outlook.md)** or **[CreateItemFromTemplate](application-createitemfromtemplate-method-outlook.md)** method to create a **PostItem** object that represents a new post.
 
-Use  **[Items](items-object-outlook.md)** ( _index_ ), where _index_ is the index number of a post or a value used to match the default property of a post, to return a single **PostItem** object from a public folder.
+Use **[Items](items-object-outlook.md)** ( _index_ ), where _index_ is the index number of a post or a value used to match the default property of a post, to return a single **PostItem** object from a public folder.
 
 
 ## Example

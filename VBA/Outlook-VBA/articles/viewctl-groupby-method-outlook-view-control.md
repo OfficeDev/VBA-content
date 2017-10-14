@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewCtl.GroupBy Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Group By** dialog box.
+Displays the Microsoft Outlook **Group By** dialog box.
 
 
 ## Version Information

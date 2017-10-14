@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Report.Name Property (Project)
-Gets or sets the name of the report. Read/write  **String**.
+Gets or sets the name of the report. Read/write **String**.
 
 ## Syntax
 

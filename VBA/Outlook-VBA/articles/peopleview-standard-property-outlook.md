@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.Standard Property (Outlook)
-Returns a  **Boolean** value that indicates whether the[PeopleView](peopleview-object-outlook.md) object is a built-in Outlook view. Read-only.
+Returns a **Boolean** value that indicates whether the[PeopleView](peopleview-object-outlook.md) object is a built-in Outlook view. Read-only.
 
 ## Version information
 

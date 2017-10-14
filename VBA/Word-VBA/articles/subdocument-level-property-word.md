@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocument.Level Property (Word)
 
-Returns the heading level used to create the subdocument. Read-only  **Long** .
+Returns the heading level used to create the subdocument. Read-only **Long** .
 
 
 ## Syntax

@@ -42,17 +42,17 @@ Integer
 
 If the ShapeSheet section does not already exist, it is created with a blank row. New cells in new rows are initialized with default formulas, if applicable. Otherwise, a program must include statements to set the formulas for the new cells. If the new row cannot be added, an error is generated.
 
-The Visio type library declares row constants prefixed with  **visRow** in **[VisRowIndices](visrowindices-enumeration-visio.md)** .
+The Visio type library declares row constants prefixed with **visRow** in **[VisRowIndices](visrowindices-enumeration-visio.md)** .
 
-Constants for rows in the Geometry, Connection Points, and Controls sections are prefixed with  **visTag** and declared by the type library in **[VisRowTags](visrowtags-enumeration-visio.md)** . To see a list of these constants, see the **RowType** property.
+Constants for rows in the Geometry, Connection Points, and Controls sections are prefixed with **visTag** and declared by the type library in **[VisRowTags](visrowtags-enumeration-visio.md)** . To see a list of these constants, see the **RowType** property.
 
-The row constants declared by the Visio type library serve as base positions at which a section's rows begin. Add offsets to these constants to specify the first row and beyond, for example,  **visRowFirst** +0, **visRowFirst** +1, and so on. To add rows at the end of a section, pass the constant **visRowLast** for the _Row_ argument. The value returned is the actual row index.
+The row constants declared by the Visio type library serve as base positions at which a section's rows begin. Add offsets to these constants to specify the first row and beyond, for example, **visRowFirst** +0, **visRowFirst** +1, and so on. To add rows at the end of a section, pass the constant **visRowLast** for the _Row_ argument. The value returned is the actual row index.
 
 The  _RowTag_ argument specifies the type of row to add. To generate a section's default row type, pass **visTagDefault** (0) as the _RowTag_ argument. Explicit tags are useful when adding rows to Geometry, Connection Points, and Controls sections. See the **RowType** property for descriptions of valid row types for these sections. Passing an invalid row type generates an error.
 
 If you try to add a row to a Character, Tabs, or Paragraph section, an error occurs.
 
-The  **AddRow** method cannot add named rows. To add named rows, use the **AddNamedRow** method.
+The **AddRow** method cannot add named rows. To add named rows, use the **AddNamedRow** method.
 
 If you add rows to a section that has nameable rows (for example, the Connection Points or Controls section), the  _Row_ argument is ignored. By default, named rows are named in the order added, for example, Row_1, Row_2, and so forth. Naming order is influenced, however, by any existing rows or previously deleted rows.
 

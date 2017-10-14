@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorFormat.CMYK Property (Publisher)
 
-Returns a  **ColorCMYK** object that represents CMYK color properties.
+Returns a **ColorCMYK** object that represents CMYK color properties.
 
 
 ## Syntax
 
  _expression_. **CMYK**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_A variable that represents a **ColorFormat** object.
 
 
 ### Return Value

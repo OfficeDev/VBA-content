@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # OLEFormat.Object Property (Publisher)
 
-Returns an  **Object** that represents the specified OLE object's top-level interface. This property allows you to access the properties and methods of an ActiveX control or the application in which an OLE object was created. The OLE object must support OLE Automation for this property to work. Read-only.
+Returns an **Object** that represents the specified OLE object's top-level interface. This property allows you to access the properties and methods of an ActiveX control or the application in which an OLE object was created. The OLE object must support OLE Automation for this property to work. Read-only.
 
 
 ## Syntax
 
  _expression_. **Object**
 
- _expression_A variable that represents an  **OLEFormat** object.
+ _expression_A variable that represents an **OLEFormat** object.
 
 
 ### Return Value

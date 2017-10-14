@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ODBCTimeout Property (Excel)
 
-Returns or sets the ODBC query time limit, in seconds. The default value is 45 seconds. Read/write  **Long** .
+Returns or sets the ODBC query time limit, in seconds. The default value is 45 seconds. Read/write **Long** .
 
 
 ## Syntax

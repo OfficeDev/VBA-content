@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.Connection Property (Excel)
 
-Returns or sets a string that contains Service Contract settings that enable Microsoft Excel to connect to a Data Feed data source.  **Variant** Read/Write
+Returns or sets a string that contains Service Contract settings that enable Microsoft Excel to connect to a Data Feed data source. **Variant** Read/Write
 
 
 ## Syntax

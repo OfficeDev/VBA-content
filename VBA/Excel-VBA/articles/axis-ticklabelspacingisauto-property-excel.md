@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickLabelSpacingIsAuto Property (Excel)
 
-Returns or sets whether or not the tick label spacing is automatic. Read/write  **Boolean** .
+Returns or sets whether or not the tick label spacing is automatic. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets whether or not the tick label spacing is automatic. Read/write  
 
 ## Remarks
 
-The  **[TickLabelSpacing](axis-ticklabelspacing-property-excel.md)** property returns the current tick label spacing, whether or not the setting is automatic.
+The **[TickLabelSpacing](axis-ticklabelspacing-property-excel.md)** property returns the current tick label spacing, whether or not the setting is automatic.
 
 
 ## See also

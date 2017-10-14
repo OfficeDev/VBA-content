@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoRecover.Path Property (Excel)
 
-Returns or sets a  **String** value that represents the complete path to where Microsoft Excel will store the AutoRecover temporary files.
+Returns or sets a **String** value that represents the complete path to where Microsoft Excel will store the AutoRecover temporary files.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisPrintOutRange Enumeration (Visio)
 
-Range constants to be used with the  **Document.PrintOut** method.
+Range constants to be used with the **Document.PrintOut** method.
 
 
 

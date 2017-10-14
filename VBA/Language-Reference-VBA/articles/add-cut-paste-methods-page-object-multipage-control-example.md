@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Add, Cut, Paste Methods, Page Object, MultiPage Control Example
 
-The following example uses the  **Add**, **Cut**, and **Paste** methods to cut and paste a control from a **Page** of a **MultiPage**. The control involved in the cut and paste operations is dynamically added to the form.
+The following example uses the **Add**, **Cut**, and **Paste** methods to cut and paste a control from a **Page** of a **MultiPage**. The control involved in the cut and paste operations is dynamically added to the form.
 
 This example assumes the user will add, then cut, then paste the new control.
 
@@ -19,9 +19,9 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- Three  **CommandButton** controls named CommandButton1 through CommandButton3.
+- Three **CommandButton** controls named CommandButton1 through CommandButton3.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
 
 

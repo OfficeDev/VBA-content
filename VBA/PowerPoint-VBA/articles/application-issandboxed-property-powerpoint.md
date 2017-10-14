@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.IsSandboxed Property (PowerPoint)
 
-Returns  **True** if the specified presentation is open in a **Protected View** window. Read-only.
+Returns **True** if the specified presentation is open in a **Protected View** window. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **True** if the specified presentation is open in a **Protected View** 
 
 ## Remarks
 
-Use the  **IsSandboxed** property to determine whether a presentation is open in a **Protected View** window.
+Use the **IsSandboxed** property to determine whether a presentation is open in a **Protected View** window.
 
 
 ## See also

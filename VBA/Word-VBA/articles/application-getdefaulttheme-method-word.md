@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GetDefaultTheme Method (Word)
 
-Returns a  **String** that represents the name of the default theme plus the theme formatting options Microsoft Word uses for new documents, e-mail messages, or Web pages.
+Returns a **String** that represents the name of the default theme plus the theme formatting options Microsoft Word uses for new documents, e-mail messages, or Web pages.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **String** that represents the name of the default theme plus the the
 
 ## Remarks
 
-You can also use the  **ThemeName** property to return and set the default theme for new e-mail messages.
+You can also use the **ThemeName** property to return and set the default theme for new e-mail messages.
 
 
 ## Example

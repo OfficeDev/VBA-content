@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # ShapeRange.HasTextFrame Property (Publisher)
 
-Indicates whether the specified shape has a  **TextFrame** object associated with it. Read-only.
+Indicates whether the specified shape has a **TextFrame** object associated with it. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasTextFrame**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-If the  **HasTextFrame** property is true, clients must check the value of the **HasText** property of the **TextFrame** object to determine if there is any text on the shape.
+If the **HasTextFrame** property is true, clients must check the value of the **HasText** property of the **TextFrame** object to determine if there is any text on the shape.
 
-The  **HasTextFrame** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **HasTextFrame** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

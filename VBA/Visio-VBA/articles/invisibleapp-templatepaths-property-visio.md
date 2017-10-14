@@ -30,13 +30,13 @@ Gets or sets the paths where Microsoft Visio looks for templates. Read/write.
 
 ## Remarks
 
-The  **TemplatePaths** property is set to an empty string ("") by default.
+The **TemplatePaths** property is set to an empty string ("") by default.
 
-The string passed to and received from the  **TemplatePaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click  **File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\TemplatePath** subkey.
+The string passed to and received from the **TemplatePaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click **Advanced**, and then, under **General**, click **File Locations**.) This string is stored in the **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\TemplatePath** subkey.
 
-When Visio looks for templates, it looks in all paths named in the  **TemplatePaths** property and all the subfolders of those paths. If you pass the **TemplatePaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
+When Visio looks for templates, it looks in all paths named in the **TemplatePaths** property and all the subfolders of those paths. If you pass the **TemplatePaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
 
-Setting the  **TemplatePaths** property replaces existing values for **Templates** in the **File Locations** dialog box. To retain existing values, get the existing string and then append the new file path to that string, as shown in the following code:
+Setting the **TemplatePaths** property replaces existing values for **Templates** in the **File Locations** dialog box. To retain existing values, get the existing string and then append the new file path to that string, as shown in the following code:
 
 
 
@@ -51,7 +51,7 @@ Application.TemplatePaths = Application.TemplatePaths &; ";" &; "newpath ".
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **TemplatePaths** property to add a path to the **Templates** paths box.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **TemplatePaths** property to add a path to the **Templates** paths box.
 
 
 ```vb

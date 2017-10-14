@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Actions.Item Method (Outlook)
 
-Returns an  **[Action](action-object-outlook.md)** object from the collection.
+Returns an **[Action](action-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns an  **[Action](action-object-outlook.md)** object from the collection.
 
 ### Return Value
 
-An  **Action** object that represents the specified object.
+An **Action** object that represents the specified object.
 
 
 ## See also

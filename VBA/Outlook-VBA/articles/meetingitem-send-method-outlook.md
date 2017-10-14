@@ -25,7 +25,7 @@ Sends the meeting item.
 
 ## Remarks
 
-When you create a meeting request programmatically, you first create an  **[AppointmentItem](appointmentitem-object-outlook.md)** object instead of a **[MeetingItem](meetingitem-object-outlook.md)** object. To indicate the appointment is a meeting, set the **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** property of the **AppointmentItem** object to **olMeeting** . To send the meeting request, apply the **[Send](appointmentitem-send-method-outlook.md)** method to that **AppointmentItem** object.
+When you create a meeting request programmatically, you first create an **[AppointmentItem](appointmentitem-object-outlook.md)** object instead of a **[MeetingItem](meetingitem-object-outlook.md)** object. To indicate the appointment is a meeting, set the **[MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** property of the **AppointmentItem** object to **olMeeting** . To send the meeting request, apply the **[Send](appointmentitem-send-method-outlook.md)** method to that **AppointmentItem** object.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoDistributeCmd Enumeration (Office)
 
-Specifies how to evenly distribute a collection of shapes. Used with the  **Distribute** method of the **ShapeRange** collection.
+Specifies how to evenly distribute a collection of shapes. Used with the **Distribute** method of the **ShapeRange** collection.
 
 
 

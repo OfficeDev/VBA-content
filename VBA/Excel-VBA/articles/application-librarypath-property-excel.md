@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.LibraryPath Property (Excel)
 
-Returns the path to the Library folder, but without the final separator. Read-only  **String** .
+Returns the path to the Library folder, but without the final separator. Read-only **String** .
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Calendar.BaseCalendar Property (Project)
 
-Gets a  **[Calendar](calendar-object-project.md)** object representing a base calendar. Read-only **Object**.
+Gets a **[Calendar](calendar-object-project.md)** object representing a base calendar. Read-only **Object**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets a  **[Calendar](calendar-object-project.md)** object representing a base ca
 
 ## Remarks
 
-The  **BaseCalendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
+The **BaseCalendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
 

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # MailMergeDataField.Index Property (Publisher)
 
-Returns a  **Long** that represents the position of a particular item in a specified collection. .
+Returns a **Long** that represents the position of a particular item in a specified collection. .
 
 
 ## Syntax
 
  _expression_. **Index**
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_A variable that represents a **MailMergeDataField** object.
 
 
 ## Example
 
-The following example loops through the  **MailMergeDataFields** collection and displays the **Index** and **Name** properties for each field.
+The following example loops through the **MailMergeDataFields** collection and displays the **Index** and **Name** properties for each field.
 
 
 ```vb
@@ -43,7 +43,7 @@ With ActiveDocument.MailMerge.DataSource
 End With
 ```
 
-The following example loops through the  **Plates** collection and displays the **Index** and **Name** properties for each plate.
+The following example loops through the **Plates** collection and displays the **Index** and **Name** properties for each plate.
 
 
 

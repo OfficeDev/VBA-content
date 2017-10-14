@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Property <keyword>
 
-The  **Property** keyword is used in these contexts:
+The **Property** keyword is used in these contexts:
 
 [Property Get Statement](property-get-statement.md)
 

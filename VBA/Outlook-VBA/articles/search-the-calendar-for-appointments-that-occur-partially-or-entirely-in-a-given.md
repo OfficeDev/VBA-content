@@ -32,7 +32,7 @@ Taking into consideration the appointments that overlap with the given time peri
 
 The  `FindApptsInTimeFrame` function in the code sample first defines the time period to query, assigning the start time, `myStart`, as 12:00am on the current system date, and the end time,  `myEnd`, as five days after the start time. It obtains all the items in the default calendar folder. 
 
-To include recurrent appointments in the query, it sets  ** [Items.IncludeRecurrences](items-includerecurrences-property-outlook.md)** to **True** and then sorts the items by the ** [AppointmentItem.Start](appointmentitem-start-property-outlook.md)** property. It then builds the query for all appointments that begin on or before `myEnd`, and end on or after  `myStart`. It then applies the query to items in the default calendar folder, using the  ** [Items.Restrict](items-restrict-method-outlook.md)** method, and then prints the start time of all the returned appointments.
+To include recurrent appointments in the query, it sets ** [Items.IncludeRecurrences](items-includerecurrences-property-outlook.md)** to **True** and then sorts the items by the ** [AppointmentItem.Start](appointmentitem-start-property-outlook.md)** property. It then builds the query for all appointments that begin on or before `myEnd`, and end on or after  `myStart`. It then applies the query to items in the default calendar folder, using the ** [Items.Restrict](items-restrict-method-outlook.md)** method, and then prints the start time of all the returned appointments.
 
 
 

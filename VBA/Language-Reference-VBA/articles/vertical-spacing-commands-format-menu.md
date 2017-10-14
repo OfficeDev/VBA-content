@@ -20,11 +20,11 @@ Moves the selected objects so that there is equal space between them using the t
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_veql_ZA01201765.gif).
  **Increase**
-Increases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units in the  **General** tab of the **Options** dialog box.
+Increases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units in the **General** tab of the **Options** dialog box.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_vinc_ZA01201766.gif).
  **Decrease**
-Decreases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units in the  **General** tab of the **Options** dialog box.
+Decreases the vertical spacing by one grid based on the object with focus. You can change the size of your grid units in the **General** tab of the **Options** dialog box.
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_vdec_ZA01201764.gif).
  **Remove**
@@ -35,6 +35,6 @@ Toolbar shortcut:
  **Note**  The object with focus does not move but the other objects move around it.
 
 
- **Note**  If using the  **Vertical** **Spacing** command does not produce the results you want, try to manually rearrange some of the objects and repeat the command. Also, try the using the **Horizontal** **Spacing** command.
+ **Note**  If using the **Vertical** **Spacing** command does not produce the results you want, try to manually rearrange some of the objects and repeat the command. Also, try the using the **Horizontal** **Spacing** command.
 
 

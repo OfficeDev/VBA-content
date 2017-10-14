@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Blur Property (Word)
 
-Returns or sets a  **Single** that represents the blur level for a shadow format. Read/write.
+Returns or sets a **Single** that represents the blur level for a shadow format. Read/write.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.NewDocument Method (Publisher)
 
-Returns a  **Document** object that represents a new publication.
+Returns a **Document** object that represents a new publication.
 
 
 ## Syntax
 
- _expression_. **NewDocument**( **_Wizard_**,  **_Design_**)
+ _expression_. **NewDocument**( **_Wizard_**, **_Design_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -39,7 +39,7 @@ Document
 
 ## Remarks
 
-The Wizard parameter can be one of the  **PbWizard** constants declared in the Microsoft Publisher type library and shown in the following table. The default is **pbWizardNone**.
+The Wizard parameter can be one of the **PbWizard** constants declared in the Microsoft Publisher type library and shown in the following table. The default is **pbWizardNone**.
 
 
 

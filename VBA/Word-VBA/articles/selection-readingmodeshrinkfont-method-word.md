@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Use the  **[ReadingModeGrowFont](selection-readingmodegrowfont-method-word.md)** method to increase the size of the text. This does not affect the size of the font in the document, only the size of the text while viewing the document in Reading mode.
+Use the **[ReadingModeGrowFont](selection-readingmodegrowfont-method-word.md)** method to increase the size of the text. This does not affect the size of the font in the document, only the size of the text while viewing the document in Reading mode.
 
 
  **Note**  Text does not need to be selected for this method to affect the text displayed in Reading mode. Text size for all text displayed in Reading mode is affected.

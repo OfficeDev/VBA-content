@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.ColorEffect Property (PowerPoint)
 
-Returns a  **[ColorEffect](coloreffect-object-powerpoint.md)** object that represents the color properties for a specified animation behavior.
+Returns a **[ColorEffect](coloreffect-object-powerpoint.md)** object that represents the color properties for a specified animation behavior.
 
 
 ## Syntax

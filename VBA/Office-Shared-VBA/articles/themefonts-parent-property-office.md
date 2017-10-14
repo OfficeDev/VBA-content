@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThemeFonts.Parent Property (Office)
 
-Gets the  **Parent** object for the **ThemeFonts** object. Read-only.
+Gets the **Parent** object for the **ThemeFonts** object. Read-only.
 
 
 ## Syntax

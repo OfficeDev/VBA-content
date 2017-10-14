@@ -17,5 +17,5 @@ ms.date: 06/08/2017
 
 Returns the collection of all linked windows contained in a linked window frame. Read-only.
  **Remarks**
-The  **LinkedWindows** property is an accessor property (that is, a property that returns an object of the same type as the property name).
+The **LinkedWindows** property is an accessor property (that is, a property that returns an object of the same type as the property name).
 

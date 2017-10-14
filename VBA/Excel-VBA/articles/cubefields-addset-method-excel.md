@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeFields.AddSet Method (Excel)
 
-Adds a new  **[CubeField](cubefield-object-excel.md)** object to the **[CubeFields](cubefields-object-excel.md)** collection. The **CubeField** object corresponds to a set defined on the Online Analytical Processing (OLAP) provider for the cube.
+Adds a new **[CubeField](cubefield-object-excel.md)** object to the **[CubeFields](cubefields-object-excel.md)** collection. The **CubeField** object corresponds to a set defined on the Online Analytical Processing (OLAP) provider for the cube.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ If a set with the name given in the argument  _Name_ does not exist, the **AddSe
 
 ## Example
 
-In this example, Microsoft Excel adds a set titled "My Set" to the  **CubeField** object. This example assumes an OLAP PivotTable report exists on the active worksheet. Also, this example assumes a field titled "Product" exists.
+In this example, Microsoft Excel adds a set titled "My Set" to the **CubeField** object. This example assumes an OLAP PivotTable report exists on the active worksheet. Also, this example assumes a field titled "Product" exists.
 
 
 ```vb

@@ -30,7 +30,7 @@ Returns or sets how Excel will validate the contents of the data caches for Pivo
 
 ## Remarks
 
-Files that contain data caches that do not validate will be opened in a  **Protected View** window. If you set the **FileValidationPivot** property, that setting will remain in effect for the entire session the application is open.
+Files that contain data caches that do not validate will be opened in a **Protected View** window. If you set the **FileValidationPivot** property, that setting will remain in effect for the entire session the application is open.
 
 
 ## See also

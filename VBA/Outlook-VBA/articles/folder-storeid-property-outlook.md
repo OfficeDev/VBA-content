@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.StoreID Property (Outlook)
 
-Returns a  **String** indicating the store ID for the folder. Read-only.
+Returns a **String** indicating the store ID for the folder. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** indicating the store ID for the folder. Read-only.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example obtains the  **[EntryID](folder-entryid-property-outlook.md)** and **StoreID** for the default Tasks folder and then calls the **[NameSpace.GetFolderFromID](namespace-getfolderfromid-method-outlook.md)** method using these values to obtain the same folder. The folder is then displayed.
+This Visual Basic for Applications (VBA) example obtains the **[EntryID](folder-entryid-property-outlook.md)** and **StoreID** for the default Tasks folder and then calls the **[NameSpace.GetFolderFromID](namespace-getfolderfromid-method-outlook.md)** method using these values to obtain the same folder. The folder is then displayed.
 
 
 ```vb

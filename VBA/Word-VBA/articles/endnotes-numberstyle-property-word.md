@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Endnotes.NumberStyle Property (Word)
 
-Returns or sets the number style. Read/write  **WdNoteNumberStyle** .
+Returns or sets the number style. Read/write **WdNoteNumberStyle** .
 
 
 ## Syntax

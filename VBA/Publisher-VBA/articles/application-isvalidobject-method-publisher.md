@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.IsValidObject Method (Publisher)
 
-Determines whether the specified object variable references a valid object and returns a  **Boolean** value: **True** if the specified variable that references an object is valid, **False** if the object referenced by the variable has been deleted.
+Determines whether the specified object variable references a valid object and returns a **Boolean** value: **True** if the specified variable that references an object is valid, **False** if the object referenced by the variable has been deleted.
 
 
 ## Syntax
 
  _expression_. **IsValidObject**( **_Object_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters

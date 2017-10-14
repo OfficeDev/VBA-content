@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelMeasure.Formula Property (Excel)
 
-The Data Analysis Expressions (DAX) formula of the model measure. Read/write  **String**.
+The Data Analysis Expressions (DAX) formula of the model measure. Read/write **String**.
 
 
 ## Syntax

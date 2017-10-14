@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Search.Results Property (Outlook)
 
-Returns a  **[Results](results-object-outlook.md)** collection that specifies the results of the search. Read-only.
+Returns a **[Results](results-object-outlook.md)** collection that specifies the results of the search. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Results](results-object-outlook.md)** collection that specifies th
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example searches the  **Inbox** for items with a subject that equals "Test" and displays the names of the senders of the e-mail items returned by the search. The `AdvanceSearchComplete` event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module, such as **ThisOutlookSession**, and the  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
+The following Visual Basic for Applications (VBA) example searches the **Inbox** for items with a subject that equals "Test" and displays the names of the senders of the e-mail items returned by the search. The `AdvanceSearchComplete` event procedure sets the boolean `blnSearchComp` to **True** when the search is complete. This boolean variable is used by the `TestAdvancedSearchComplete()` procedure to determine when the search is complete. The sample code must be placed in a class module, such as **ThisOutlookSession**, and the  `TestAdvancedSearchComplete()` procedure must be called before the event procedure can be called by Outlook.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.BookmarkID Property (Word)
 
-Returns the number of the bookmark that encloses the beginning of the specified range; returns 0 (zero) if there is no corresponding bookmark. Read-only  **Long** .
+Returns the number of the bookmark that encloses the beginning of the specified range; returns 0 (zero) if there is no corresponding bookmark. Read-only **Long** .
 
 
 ## Syntax

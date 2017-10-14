@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLSchema.NamespaceURI Property (Office)
 
-Gets the unique address identifier for the namespace of the  **CustomXMLSchema** object. Read-only.
+Gets the unique address identifier for the namespace of the **CustomXMLSchema** object. Read-only.
 
 
 ## Syntax

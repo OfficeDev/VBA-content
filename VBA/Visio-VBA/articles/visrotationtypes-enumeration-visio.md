@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisRotationTypes Enumeration (Visio)
 
-Rotation type constants to be passed to the  **Selection.Rotate** method.
+Rotation type constants to be passed to the **Selection.Rotate** method.
 
 
 

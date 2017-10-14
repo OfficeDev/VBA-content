@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCell.PivotRowLine Property (Excel)
 
-Returns the PivotLine on a row for a specific  **PivotCell** object. Read-only **PivotLine** .
+Returns the PivotLine on a row for a specific **PivotCell** object. Read-only **PivotLine** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the PivotLine on a row for a specific  **PivotCell** object. Read-only *
 
 ## Remarks
 
-If the PivotCell is on rows,  **PivotRowLine** returns the row's **PivotLine** object.
+If the PivotCell is on rows, **PivotRowLine** returns the row's **PivotLine** object.
 
-If the PivotCell is on columns,  **PivotRowLine** returns a run-time error.
+If the PivotCell is on columns, **PivotRowLine** returns a run-time error.
 
 If the PivotCell is in the data area, **PivotRowLine** returns the corresponding row's **PivotLine** object.
 

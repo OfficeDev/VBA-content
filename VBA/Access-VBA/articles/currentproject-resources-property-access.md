@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.Resources Property (Access)
 
-Gets the  **[SharedResources](sharedresources-object-access.md)** collection for the specified object. Read-only **SharedResources**.
+Gets the **[SharedResources](sharedresources-object-access.md)** collection for the specified object. Read-only **SharedResources**.
 
 
 ## Syntax

@@ -25,10 +25,10 @@ Removes all character formatting (formatting applied either through character st
 
 ## Remarks
 
-This method removes all character formatting. If you need to removed formatting applied through character styles, use the  **[ClearCharacterStyle](selection-clearcharacterstyle-method-word.md)** method. To remove character formatting that the user has manually applied using Microsoft Word character formatting features, use the **[ClearCharacterDirectFormatting](selection-clearcharacterdirectformatting-method-word.md)** method.
+This method removes all character formatting. If you need to removed formatting applied through character styles, use the **[ClearCharacterStyle](selection-clearcharacterstyle-method-word.md)** method. To remove character formatting that the user has manually applied using Microsoft Word character formatting features, use the **[ClearCharacterDirectFormatting](selection-clearcharacterdirectformatting-method-word.md)** method.
 
 
- **Note**  To remove paragraph formatting, see the  **[ClearParagraphAllFormatting](selection-clearparagraphallformatting-method-word.md)** , **[ClearParagraphDirectFormatting](selection-clearparagraphdirectformatting-method-word.md)** , or **[ClearParagraphStyle](selection-clearparagraphstyle-method-word.md)** method.
+ **Note**  To remove paragraph formatting, see the **[ClearParagraphAllFormatting](selection-clearparagraphallformatting-method-word.md)** , **[ClearParagraphDirectFormatting](selection-clearparagraphdirectformatting-method-word.md)** , or **[ClearParagraphStyle](selection-clearparagraphstyle-method-word.md)** method.
 
 
 ## See also

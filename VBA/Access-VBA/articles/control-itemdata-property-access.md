@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Control.ItemData Property (Access)
 
-The  **ItemData** property returns the data in the bound column for the specified row in a combo box or list box. Read-only **Variant**.
+The **ItemData** property returns the data in the bound column for the specified row in a combo box or list box. Read-only **Variant**.
 
 
 ## Syntax
@@ -33,9 +33,9 @@ The  **ItemData** property returns the data in the bound column for the specifie
 
 ## Remarks
 
-The  **ItemData** property enables you to iterate through the list of entries in a combo box or list box. For example, suppose you wanted to iterate through all of the items in a list box to search for a particular entry. You can use the ListCount property to determine the number of rows in the list box, and then use the **ItemData** property to return the data for the bound column in each row.
+The **ItemData** property enables you to iterate through the list of entries in a combo box or list box. For example, suppose you wanted to iterate through all of the items in a list box to search for a particular entry. You can use the ListCount property to determine the number of rows in the list box, and then use the **ItemData** property to return the data for the bound column in each row.
 
-You can also use the  **ItemData** property to return data only from selected rows in a list box. You can iterate through the ItemsSelected collection to determine which row or rows in the list box have been selected, and use the **ItemData** property to return the data in those rows. You must set the **MultiSelect** property of the list box to Simple or Extended to enable the user to select more than one row at a time.
+You can also use the **ItemData** property to return data only from selected rows in a list box. You can iterate through the ItemsSelected collection to determine which row or rows in the list box have been selected, and use the **ItemData** property to return the data in those rows. You must set the **MultiSelect** property of the list box to Simple or Extended to enable the user to select more than one row at a time.
 
 You can use the Column property to return data from a specified row and column, even if the specified column isn't the bound column.
 

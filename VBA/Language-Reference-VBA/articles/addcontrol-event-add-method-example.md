@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # AddControl Event, Add Method Example
 
-The following example uses the  **Add** method to add a control to a form at run time and uses the **AddControl** event as confirmation that the control was added.
+The following example uses the **Add** method to add a control to a form at run time and uses the **AddControl** event as confirmation that the control was added.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **Label** named Label1.
+- A **Label** named Label1.
     
 
 

@@ -33,14 +33,14 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of  **Left** must be greater than or equal to zero.
+The value of **Left** must be greater than or equal to zero.
 
 
 ## Example
 
-This example shows how to use the  **Left** property to set the position of a **UIObject** object. The example adds a custom toolbar to the cloned toolbars collection. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
+This example shows how to use the **Left** property to set the position of a **UIObject** object. The example adds a custom toolbar to the cloned toolbars collection. This toolbar appears in the Microsoft Visio user interface and is available while the document is active.
 
-To restore Visio's built-in toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore Visio's built-in toolbars after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

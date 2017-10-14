@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SelectedText Property (Visio)
 
-Returns the selected text in the Microsoft Visio drawing window as a  **Characters** object. Read/write.
+Returns the selected text in the Microsoft Visio drawing window as a **Characters** object. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Characters
 
 ## Remarks
 
-The  **SelectedText** property applies only to drawing windows. If you try to access the **SelectedText** property for other types of window, Visio may return an error.
+The **SelectedText** property applies only to drawing windows. If you try to access the **SelectedText** property for other types of window, Visio may return an error.
 
 

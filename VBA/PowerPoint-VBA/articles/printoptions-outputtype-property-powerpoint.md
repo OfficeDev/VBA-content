@@ -30,7 +30,7 @@ PpPrintOutputType
 
 ## Remarks
 
-The value of the  **OutputType** property can be one of these **PpPrintOutputType** constants.
+The value of the **OutputType** property can be one of these **PpPrintOutputType** constants.
 
 
 ||

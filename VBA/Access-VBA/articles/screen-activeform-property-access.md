@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Screen.ActiveForm Property (Access)
 
-You can use the  **ActiveForm** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the form that has the focus. Read-only **Form** object.
+You can use the **ActiveForm** property together with the **[Screen](screen-object-access.md)** object to identify or refer to the form that has the focus. Read-only **Form** object.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ You can use the  **ActiveForm** property together with the **[Screen](screen-obj
 
 ## Remarks
 
-This property setting contains a reference to the  **[Form](form-object-access.md)** object that has the focus at run time.
+This property setting contains a reference to the **[Form](form-object-access.md)** object that has the focus at run time.
 
-You can use the  **ActiveForm** property to refer to an active form together with one of its properties or methods. The following example displays the **Name** property setting of the active form.
+You can use the **ActiveForm** property to refer to an active form together with one of its properties or methods. The following example displays the **Name** property setting of the active form.
 
 
 
@@ -38,7 +38,7 @@ Set frmCurrentForm = Screen.ActiveForm
 MsgBox "Current form is " &; frmCurrentForm.Name
 ```
 
-If a subform has the focus,  **ActiveForm** refers to the main form. If no form or subform has the focus when you use the **ActiveForm** property, an error occurs.
+If a subform has the focus, **ActiveForm** refers to the main form. If no form or subform has the focus when you use the **ActiveForm** property, an error occurs.
 
 
 ## See also

@@ -29,7 +29,7 @@ Moves a folder to the specified destination folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestinationFolder_|Required| **Folder**|The destination  **Folder** for the **Folder** that is being moved.|
+| _DestinationFolder_|Required| **Folder**|The destination **Folder** for the **Folder** that is being moved.|
 
 ## Remarks
 
@@ -38,7 +38,7 @@ Setting the REG_MULTI_SZ value,  `DisableCrossAccountCopy`, in  `HKCU\Software\M
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **MoveTo** method to move the "My Test Contacts" folder in the default Contacts folder to the Inbox folder.
+This Visual Basic for Applications (VBA) example uses the **MoveTo** method to move the "My Test Contacts" folder in the default Contacts folder to the Inbox folder.
 
 
 ```vb

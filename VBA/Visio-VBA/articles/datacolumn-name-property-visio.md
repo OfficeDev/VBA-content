@@ -33,8 +33,8 @@ String
 
 ## Remarks
 
-The  **Name** property is the default property of the **DataColumn** object. The value of **Name** is unique within a particular data recordset and therefore uniquely identifies the column in the data recordset. The value that Visio assigns for the **Name** property is the same as, or derived from, the name of the column in the original data source.
+The **Name** property is the default property of the **DataColumn** object. The value of **Name** is unique within a particular data recordset and therefore uniquely identifies the column in the data recordset. The value that Visio assigns for the **Name** property is the same as, or derived from, the name of the column in the original data source.
 
-For a given column, the value of the  **Name** property is not necessarily the same as that of the **[DisplayName](datacolumn-displayname-property-visio.md)** property, which specifies the name of the column in the **External Data** window in the Visio user interface, and which is read/write.
+For a given column, the value of the **Name** property is not necessarily the same as that of the **[DisplayName](datacolumn-displayname-property-visio.md)** property, which specifies the name of the column in the **External Data** window in the Visio user interface, and which is read/write.
 
 

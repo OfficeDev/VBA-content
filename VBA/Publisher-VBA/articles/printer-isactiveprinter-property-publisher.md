@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.IsActivePrinter Property (Publisher)
 
-Gets or sets the printer represented by the parent  **[Printer](printer-object-publisher.md)** object as the active printer. Read/write.
+Gets or sets the printer represented by the parent **[Printer](printer-object-publisher.md)** object as the active printer. Read/write.
 
 
 ## Syntax
 
  _expression_. **IsActivePrinter**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value

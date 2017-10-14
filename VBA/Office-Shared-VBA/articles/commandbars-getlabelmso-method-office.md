@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.GetLabelMso Method (Office)
 
-Returns the label of the control identified by the  **idMso** parameter as a String.
+Returns the label of the control identified by the **idMso** parameter as a String.
 
 
 ## 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.FilterEffect Property (PowerPoint)
 
-Returns a  **FilterEffect** object that represents a filter effect for an animation behavior. Read-only.
+Returns a **FilterEffect** object that represents a filter effect for an animation behavior. Read-only.
 
 
 ## Syntax

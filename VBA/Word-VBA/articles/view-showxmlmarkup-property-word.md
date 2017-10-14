@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowXMLMarkup Property (Word)
 
-Returns a  **Long** that represents whether XML tags are visible in a document.
+Returns a **Long** that represents whether XML tags are visible in a document.
 
 
 ## Syntax

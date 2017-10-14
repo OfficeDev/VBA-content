@@ -30,15 +30,15 @@ Application
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVDocument.Application**
+- **Microsoft.Office.Interop.Visio.IVDocument.Application**
     
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro gets the  **Application** object associated with the active document and prints its process ID number in the Immediate window.
+The following Microsoft Visual Basic for Applications (VBA) macro gets the **Application** object associated with the active document and prints its process ID number in the Immediate window.
 
 
 ```vb

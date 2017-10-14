@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.ConnectorFormat Property (Project)
-Gets a  **ConnectorFormat** object that contains connector formatting properties. Applies to a **Shape** that represents a connector. Read-only **[ConnectorFormat](http://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)**.
+Gets a **ConnectorFormat** object that contains connector formatting properties. Applies to a **Shape** that represents a connector. Read-only **[ConnectorFormat](http://msdn.microsoft.com/en-us/library/office/ff820940%28v=office.15%29)**.
 
 ## Syntax
 
@@ -19,9 +19,9 @@ Gets a  **ConnectorFormat** object that contains connector formatting properties
 ## Remarks
 
 
- **Note**  In Project, the connect and disconnect methods do not work for a  **ConnectorFormat** object. So, the **RerouteConnections** method and the **BeginConnected**,  **BeginConnectedShape**,  **BeginConnectedSite**,  **EndConnected**,  **EndConnectedShape**, and  **EndConnectedSite** properties have no meaning.
+ **Note**  In Project, the connect and disconnect methods do not work for a **ConnectorFormat** object. So, the **RerouteConnections** method and the **BeginConnected**, **BeginConnectedShape**, **BeginConnectedSite**, **EndConnected**, **EndConnectedShape**, and **EndConnectedSite** properties have no meaning.
 
-For example, in the following code snippet, the  **BeginConnect** method gives a run-time error 13, 'Type mismatch'.
+For example, in the following code snippet, the **BeginConnect** method gives a run-time error 13, 'Type mismatch'.
 
 
 ```vb

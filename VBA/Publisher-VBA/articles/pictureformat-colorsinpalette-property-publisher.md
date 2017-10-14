@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **ColorsInPalette**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Long
 
 This property applies only to pictures that are not TrueColor (that is, pictures that contain color data of less than 24 bits per channel). Returns "Permission Denied" for shapes representing pictures that are TrueColor.
 
-Use the  **[IsTrueColor](pictureformat-istruecolor-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine whether a picture contains color data of 24 bits per channel or greater.
+Use the **[IsTrueColor](pictureformat-istruecolor-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine whether a picture contains color data of 24 bits per channel or greater.
 
 
 ## Example

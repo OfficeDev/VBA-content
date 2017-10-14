@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CalculatedMember.MeasureGroup Property (Excel)
 
-Returns the associated measure group.  **String** Read-only
+Returns the associated measure group. **String** Read-only
 
 
 ## Syntax

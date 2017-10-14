@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-This is a security problem. You tried to establish a user account using a name that already exists. Check the  **Users** collection to see if the user name already exists, or try again using a different user name.
+This is a security problem. You tried to establish a user account using a name that already exists. Check the **Users** collection to see if the user name already exists, or try again using a different user name.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.CalculatedMembers Property (Excel)
 
-Returns a  **[CalculatedMembers](calculatedmembers-object-excel.md)** collection representing all the calculated members and calculated measures for an OLAP PivotTable.
+Returns a **[CalculatedMembers](calculatedmembers-object-excel.md)** collection representing all the calculated members and calculated measures for an OLAP PivotTable.
 
 
 ## Syntax

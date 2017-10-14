@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.SourceData Property (Excel)
 
-Returns the data source for the ODBC connection, as shown in the table. Read/write  **Variant** .
+Returns the data source for the ODBC connection, as shown in the table. Read/write **Variant** .
 
 
 ## Syntax

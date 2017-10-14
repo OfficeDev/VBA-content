@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.OLEMenuGroup Property (Office)
 
-Gets or sets a  **MsoOLEMenuGroup** constant that represents the menu group that the specified command bar pop-up control belongs to when the menu groups of the OLE server are merged with the menu groups of an OLE client (that is, when an object of the container application type is embedded in another application). Read/write.
+Gets or sets a **MsoOLEMenuGroup** constant that represents the menu group that the specified command bar pop-up control belongs to when the menu groups of the OLE server are merged with the menu groups of an OLE client (that is, when an object of the container application type is embedded in another application). Read/write.
 
 
 ## 
@@ -36,12 +36,12 @@ Gets or sets a  **MsoOLEMenuGroup** constant that represents the menu group that
 
 This property is intended to allow add-in applications to specify how their command bar controls will be represented in the Office application. If either the container or the server does not implement command bars, normal OLE menu merging occurs: the menu bar is merged, and all the toolbars from the server, and none of the toolbars from the container. This property is relevant only for pop-up controls on the menu bar because menus are merged on the basis of their menu group category.
 
-If both of the merging applications implement command bars, command bar controls are merged according to the  **OLEUsage** property.
+If both of the merging applications implement command bars, command bar controls are merged according to the **OLEUsage** property.
 
 
 ## Example
 
-This example checks the  **OLEMenuGroup** property of a new custom pop-up control on the command bar named "Custom" and sets the property to **msoOLEMenuGroupNone**.
+This example checks the **OLEMenuGroup** property of a new custom pop-up control on the command bar named "Custom" and sets the property to **msoOLEMenuGroupNone**.
 
 
 ```

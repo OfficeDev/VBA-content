@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.View Property (Word)
 
-Returns a  **[View](view-object-word.md)** object that represents the view for the specified window or pane.
+Returns a **[View](view-object-word.md)** object that represents the view for the specified window or pane.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This example switches the active window to full-screen view.
 ActiveDocument.ActiveWindow.View.FullScreen = True
 ```
 
-This example sets view options for each window in the  **Windows** collection.
+This example sets view options for each window in the **Windows** collection.
 
 
 

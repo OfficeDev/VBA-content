@@ -18,7 +18,7 @@ Represents a level of a hierarchy in an OLAP data source being filtered by a sli
 
 ## Remarks
 
-When a slicer is used to filter an OLAP data source, the slicer cache it is associated with can contain multiple hierarchy levels from the data source. Use the  **[SlicerCacheLevels](slicercachelevels-object-excel.md)** collection of the parent **[SlicerCache](slicercache-object-excel.md)** object to access the **SlicerCacheLevel** objects that represent these hierarchy levels.
+When a slicer is used to filter an OLAP data source, the slicer cache it is associated with can contain multiple hierarchy levels from the data source. Use the **[SlicerCacheLevels](slicercachelevels-object-excel.md)** collection of the parent **[SlicerCache](slicercache-object-excel.md)** object to access the **SlicerCacheLevel** objects that represent these hierarchy levels.
 
 
 ## See also

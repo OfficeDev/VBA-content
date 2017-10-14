@@ -30,12 +30,12 @@ Boolean
 
 ## Remarks
 
-In addition to determining whether the schemas are valid, this method also traverses the  **include** statements for each schema in the collection and adds the referenced schemas to the source schema.
+In addition to determining whether the schemas are valid, this method also traverses the **include** statements for each schema in the collection and adds the referenced schemas to the source schema.
 
 
 ## Example
 
-The following example validates the schema collection and returns the  **Boolean** results to the calling procedure.
+The following example validates the schema collection and returns the **Boolean** results to the calling procedure.
 
 
 ```

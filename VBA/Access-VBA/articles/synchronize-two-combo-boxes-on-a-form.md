@@ -12,7 +12,7 @@ This topic illustrates how to synchronize two combo boxes so that when you selec
 
 In this example, the second combo box is filled with the results of an SQL statement. This SQL statement finds all the products that have a CategoryID that matches the category selected in the first combo box.
 
-Whenever a category is selected in the first combo box, its  **[AfterUpdate](combobox-afterupdate-event-access.md)** event procedure sets the second combo box's **[RowSourceType](combobox-rowsourcetype-property-access.md)** property. This refreshes the list of available products in the second combo box. Without this procedure, the contents of the second combo box would not change.
+Whenever a category is selected in the first combo box, its **[AfterUpdate](combobox-afterupdate-event-access.md)** event procedure sets the second combo box's **[RowSourceType](combobox-rowsourcetype-property-access.md)** property. This refreshes the list of available products in the second combo box. Without this procedure, the contents of the second combo box would not change.
 
 
 

@@ -30,7 +30,7 @@ Integer
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Count** property to iterate through a **Documents** collection. It displays the names of all the open Microsoft Visio documents in the **Immediate** window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Count** property to iterate through a **Documents** collection. It displays the names of all the open Microsoft Visio documents in the **Immediate** window.
 
 
 ```vb

@@ -22,7 +22,7 @@ Keep the following points in mind when you are working with controls on slides.
     
 - If you want a control to appear on all slides in a presentation, add it to the slide master.
     
-- The  **Me** keyword in an event procedure for a control on a slide refers to the slide, not the control.
+- The **Me** keyword in an event procedure for a control on a slide refers to the slide, not the control.
     
 Writing event code for controls on slides is very similar to writing event code for controls on forms. The following procedure sets the background for the slide the button named "cmdChangeColor" is on when the button is clicked.
 
@@ -52,7 +52,7 @@ Private Sub cmdForward_Click()
 End Sub
 ```
 
-To work with all the ActiveX controls on a slide without affecting the other shapes on the slide, you can construct a  **ShapeRange** collection that contains only controls. You can then apply properties and methods to the entire collection or iterate through the collection to work with each control individually. The following example aligns all the controls on slide one in the active presentation and distributes them vertically.
+To work with all the ActiveX controls on a slide without affecting the other shapes on the slide, you can construct a **ShapeRange** collection that contains only controls. You can then apply properties and methods to the entire collection or iterate through the collection to work with each control individually. The following example aligns all the controls on slide one in the active presentation and distributes them vertically.
 
 
 

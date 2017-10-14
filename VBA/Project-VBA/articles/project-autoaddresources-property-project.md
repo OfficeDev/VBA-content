@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-The following example prompts the user to set the  **AutoAddResources**, **AutoCalculate**, **AutoLinkTasks**, **AutoSplitTasks**, and **AutoTrack** properties.
+The following example prompts the user to set the **AutoAddResources**, **AutoCalculate**, **AutoLinkTasks**, **AutoSplitTasks**, and **AutoTrack** properties.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.RelativeVerticalSize Property (Word)
 
-Returns or sets a  **[WdRelativeVerticalSize](wdrelativeverticalsize-enumeration-word.md)** constant that represents the object to which a range of shapes is relative. Read/write.
+Returns or sets a **[WdRelativeVerticalSize](wdrelativeverticalsize-enumeration-word.md)** constant that represents the object to which a range of shapes is relative. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[WdRelativeVerticalSize](wdrelativeverticalsize-enumeration
 
 ## Remarks
 
-Use this property with the  **[HeightRelative](shaperange-heightrelative-property-word.md)** property.
+Use this property with the **[HeightRelative](shaperange-heightrelative-property-word.md)** property.
 
 
 ## See also

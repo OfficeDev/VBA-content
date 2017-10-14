@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Item](smartartlayouts-item-method-office.md)|Retrieves a  **SmartArtLayout** object at the specified index or with the specified unique Id.|
+|[Item](smartartlayouts-item-method-office.md)|Retrieves a **SmartArtLayout** object at the specified index or with the specified unique Id.|
 

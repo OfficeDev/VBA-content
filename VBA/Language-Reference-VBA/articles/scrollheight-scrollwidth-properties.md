@@ -17,7 +17,7 @@ Specify the height, in [points](vbe-glossary.md), of the total area that can be 
  **Syntax**
  _object_. **ScrollHeight** [= _Single_ ]
  _object_. **ScrollWidth** [= _Single_ ]
-The  **ScrollHeight** and **ScrollWidth** property syntaxes have these parts:
+The **ScrollHeight** and **ScrollWidth** property syntaxes have these parts:
 
 
 |**Part**|**Description**|

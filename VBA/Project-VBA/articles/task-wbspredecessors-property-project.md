@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.WBSPredecessors Property (Project)
 
-Gets the work breakdown structure (WBS) codes of the task predecessors, separated by the list separator. Read-only  **String**.
+Gets the work breakdown structure (WBS) codes of the task predecessors, separated by the list separator. Read-only **String**.
 
 
 ## Syntax

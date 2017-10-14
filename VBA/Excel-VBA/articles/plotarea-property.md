@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea Property
 
-Returns a  **[PlotArea](plotarea-object.md)** object that represents the plot area of a chart. Read-only.
+Returns a **[PlotArea](plotarea-object.md)** object that represents the plot area of a chart. Read-only.
 
 
 ## Example

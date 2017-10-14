@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SeriesCollection.Add Method (Excel)
 
-Adds one or more new series to the  **SeriesCollection** collection.
+Adds one or more new series to the **SeriesCollection** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Adds one or more new series to the  **SeriesCollection** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Source_|Required| **Variant**|The new data as a  **[Range](range-object-excel.md)** object.|
+| _Source_|Required| **Variant**|The new data as a **[Range](range-object-excel.md)** object.|
 | _Rowcol_|Optional| **[XlRowCol](xlrowcol-enumeration-excel.md)**|. Specifies whether the new values are in the rows or columns of the specified range.|
 | _SeriesLabels_|Optional| **Variant**| **True** if the first row or column contains the name of the data series. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Microsoft Excel attempts to determine the location of the series name from the contents of the first row or column.|
 | _CategoryLabels_|Optional| **Variant**| **True** if the first row or column contains the name of the category labels. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Microsoft Excel attempts to determine the location of the category label from the contents of the first row or column.|
@@ -37,12 +37,12 @@ Adds one or more new series to the  **SeriesCollection** collection.
 
 ### Return Value
 
-A  **[Series](series-object-excel.md)** object that represents the new series.
+A **[Series](series-object-excel.md)** object that represents the new series.
 
 
 ## Remarks
 
-This method does not actually return a  **Series** object as stated in the Object Browser. This method is not available for PivotChart reports.
+This method does not actually return a **Series** object as stated in the Object Browser. This method is not available for PivotChart reports.
 
 
 ## Example

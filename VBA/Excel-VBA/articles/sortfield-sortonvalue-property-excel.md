@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.SortOnValue Property (Excel)
 
-Retun the value on which the sort is performed for the specified  **SortField** object. Read-only.
+Retun the value on which the sort is performed for the specified **SortField** object. Read-only.
 
 
 ## Syntax

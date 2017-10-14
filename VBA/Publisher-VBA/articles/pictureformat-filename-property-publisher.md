@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.Filename Property (Publisher)
 
-Returns a  **String** that represents the file name of the specified picture or OLE object. Read-only.
+Returns a **String** that represents the file name of the specified picture or OLE object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Filename**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ String
 
 For linked pictures and OLE objects, the returned string represents the full path and file name of the picture. For embedded pictures and OLE objects, the returned string represents the file name only.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+To determine whether a shape represents a linked picture, use either the **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
 
 
 ## Example

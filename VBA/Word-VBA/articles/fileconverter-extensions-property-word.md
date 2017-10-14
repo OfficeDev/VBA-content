@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.Extensions Property (Word)
 
-Returns the file name extensions associated with the specified  **FileConverter** object. Read-only **String** .
+Returns the file name extensions associated with the specified **FileConverter** object. Read-only **String** .
 
 
 ## Syntax

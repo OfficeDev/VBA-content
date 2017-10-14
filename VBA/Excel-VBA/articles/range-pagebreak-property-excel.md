@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PageBreak Property (Excel)
 
-Returns or sets the location of a page break. Can be one of the following  **[XlPageBreak](xlpagebreak-enumeration-excel.md)** constants: **xlPageBreakAutomatic** , **xlPageBreakManual** , or **xlPageBreakNone** . Read/write **Long** .
+Returns or sets the location of a page break. Can be one of the following **[XlPageBreak](xlpagebreak-enumeration-excel.md)** constants: **xlPageBreakAutomatic** , **xlPageBreakManual** , or **xlPageBreakNone** . Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the location of a page break. Can be one of the following  **[Xl
 
 ## Remarks
 
-This property can return the location of either automatic or manual page breaks, but it can only set the location of manual breaks (it can only be set to  **xlPageBreakManual** or **xlPageBreakNone** ).
+This property can return the location of either automatic or manual page breaks, but it can only set the location of manual breaks (it can only be set to **xlPageBreakManual** or **xlPageBreakNone** ).
 
 To remove all manual page breaks on a worksheet, set  `Cells.PageBreak` to **xlPageBreakNone** .
 

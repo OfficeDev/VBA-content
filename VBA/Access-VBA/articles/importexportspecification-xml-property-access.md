@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecification.XML Property (Access)
 
-Gets or sets the Extensible Markup Language (XML) string that defines an  **[ImportExportSpecification](importexportspecification-object-access.md)** object. Read/write **String**.
+Gets or sets the Extensible Markup Language (XML) string that defines an **[ImportExportSpecification](importexportspecification-object-access.md)** object. Read/write **String**.
 
 
 ## Syntax

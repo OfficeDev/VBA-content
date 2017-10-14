@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.Connection Property (Excel)
 
-Returns or sets a string that contains ODBC settings that enable Microsoft Excel to connect to an ODBC data source. Read/write  **Variant** .
+Returns or sets a string that contains ODBC settings that enable Microsoft Excel to connect to an ODBC data source. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a string that contains ODBC settings that enable Microsoft Excel
 
 ## Remarks
 
-Setting the  **Connection** property does not immediately initiate the connection to the data source. You must use the **[Refresh](odbcconnection-refresh-method-excel.md)** method to make the connection and retrieve the data.
+Setting the **Connection** property does not immediately initiate the connection to the data source. You must use the **[Refresh](odbcconnection-refresh-method-excel.md)** method to make the connection and retrieve the data.
 
 
 ## See also

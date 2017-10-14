@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.SetFilter Method (Access)
 
-Use the  **SetFilter** method to apply a filter to the records in the active datasheet, form, report, or table.
+Use the **SetFilter** method to apply a filter to the records in the active datasheet, form, report, or table.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ When you run this method, the filter is applied to the table, form, report or da
 
  The **Filter** property of the active object is used to save the WhereCondition argument and apply it at a later time. Filters are saved with the objects in which they are created. They are automatically loaded when the object is opened, but they are not automatically applied.
 
-To automatically apply a filter when the object is opened, set the  **FilterOnLoad** property to True.
+To automatically apply a filter when the object is opened, set the **FilterOnLoad** property to True.
 
 
 ## Example

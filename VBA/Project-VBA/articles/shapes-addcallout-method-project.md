@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddCallout Method (Project)
-Creates a borderless line callout in a report. Returns a  **Shape** object that represents the new callout.
+Creates a borderless line callout in a report. Returns a **Shape** object that represents the new callout.
 
 ## Syntax
 
@@ -50,7 +50,7 @@ The  _Type_ parameter can be one of the following **MsoCalloutType** constants:
 |**msoCalloutMixed**: A return value that indicates a combination of the other states.|
 |**msoCalloutThree**: A two-segment line, where the segment ends can be dragged to different positions.|
 |**msoCalloutFour**: A three-segment line.|
-You can insert a greater variety of callouts, such as balloons and clouds, by using the  **[AddShape](shapes-addshape-method-project.md)** method.
+You can insert a greater variety of callouts, such as balloons and clouds, by using the **[AddShape](shapes-addshape-method-project.md)** method.
 
 
 ### Example

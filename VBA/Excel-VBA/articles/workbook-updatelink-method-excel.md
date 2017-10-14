@@ -29,12 +29,12 @@ Updates a Microsoft Excel, DDE, or OLE link (or links).
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional| **Variant**|The name of the Microsoft Excel or DDE/OLE link to be updated, as returned from the  **[LinkSources](workbook-linksources-method-excel.md)** method.|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLinkType](xllinktype-enumeration-excel.md)** specifying the type of link.|
+| _Name_|Optional| **Variant**|The name of the Microsoft Excel or DDE/OLE link to be updated, as returned from the **[LinkSources](workbook-linksources-method-excel.md)** method.|
+| _Type_|Optional| **Variant**|One of the constants of **[XlLinkType](xllinktype-enumeration-excel.md)** specifying the type of link.|
 
 ## Remarks
 
-When the  **UpdateLink** method is called without any parameters, Excel defaults to updating all worksheet links.
+When the **UpdateLink** method is called without any parameters, Excel defaults to updating all worksheet links.
 
 
 ## Example

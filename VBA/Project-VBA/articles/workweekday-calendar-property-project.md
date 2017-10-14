@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeekDay.Calendar Property (Project)
 
-Gets a  **[Calendar](calendar-object-project.md)** object representing the calendar that contains the **WorkWeekDay** object. Read-only **Calendar**.
+Gets a **[Calendar](calendar-object-project.md)** object representing the calendar that contains the **WorkWeekDay** object. Read-only **Calendar**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets a  **[Calendar](calendar-object-project.md)** object representing the calen
 
 ## Remarks
 
-For an example that resets the project calendar, see the  **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
+For an example that resets the project calendar, see the **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
 
 
 ## See also

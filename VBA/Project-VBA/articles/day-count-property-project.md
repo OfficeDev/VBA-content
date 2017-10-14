@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Day.Count Property (Project)
 
-Gets the number of days in the  **Day** object, which is the value 1. Read-only **Integer**.
+Gets the number of days in the **Day** object, which is the value 1. Read-only **Integer**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the number of days in the  **Day** object, which is the value 1. Read-only 
 
 ## Example
 
-The  **Count** property for the **Day** object is the value 1, as in the following example.
+The **Count** property for the **Day** object is the value 1, as in the following example.
 
 
 ```vb

@@ -18,15 +18,15 @@ This walkthrough explains how to build a new template document and how to create
     
 The programmatic objects that are used in this sample are as follows:
 
--  **[ContentControl](contentcontrol-object-word.md)**
+- **[ContentControl](contentcontrol-object-word.md)**
     
--  **[ContentControls](contentcontrols-object-word.md)**
+- **[ContentControls](contentcontrols-object-word.md)**
     
--  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** (in the Microsoft Office system core object model)
+- **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** (in the Microsoft Office system core object model)
     
--  **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-6304-8626-1e6705917da3%28Office.15%29.aspx)** (in the Microsoft Office system core object model)
+- **[CustomXMLParts](http://msdn.microsoft.com/library/98c1c58e-a08d-6304-8626-1e6705917da3%28Office.15%29.aspx)** (in the Microsoft Office system core object model)
     
--  **[XMLMapping](xmlmapping-object-word.md)**
+- **[XMLMapping](xmlmapping-object-word.md)**
     
 For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
 
@@ -55,9 +55,9 @@ Use the following general steps to create a Word document generator.
     
     Content controls are predefined pieces of content. Word offers several kinds of content controls. This includes text blocks, check boxes, drop-down menus, combo boxes, calendar controls, and pictures. You can map these content controls to an element in an XML file. By using  [XPath](http://www.w3.org/TR/xpath) expressions, you can programmatically map content in an XML file to a content control. This enables you to write a simple and short application to manipulate and modify data in a document.
     
-    To add a content control, on the  **Developer** tab, in the **Controls** group, click **Plain Text Content Control**.
+    To add a content control, on the **Developer** tab, in the **Controls** group, click **Plain Text Content Control**.
     
-    Add four plain-text content controls to the document. After you add each control, assign each one a title: Click the control; in the  **Controls** group, click **Properties**; in the  **Title** box, type a title for the control, as shown in the following list; and then click **OK**.
+    Add four plain-text content controls to the document. After you add each control, assign each one a title: Click the control; in the **Controls** group, click **Properties**; in the **Title** box, type a title for the control, as shown in the following list; and then click **OK**.
     
       - Company Name
     
@@ -108,7 +108,7 @@ End Sub
     
     XML mapping is a feature of Word that enables you to create a link between a document and an XML file. This creates true data/view separation between the document formatting and the custom XML data. 
     
-    To load a custom XML part, you must first add a new data store to a  **[Document](document-object-word.md)** object by using the ** [Add](http://msdn.microsoft.com/library/f2c1588b-c11b-49ca-5db6-4fa4c26d10c5%28Office.15%29.aspx)** method of the **CustomXMLParts** collection. This appends a new, empty data store to the document. Because it is empty, you cannot use it yet. Next, you must load a custom XML part from an XML file into the data store, by calling the ** [Load](http://msdn.microsoft.com/library/f4d50c05-15bd-ccce-6198-9d6be401b29b%28Office.15%29.aspx)** method of the **CustomXMLPart** object that uses a valid path to an XML file as the parameter.
+    To load a custom XML part, you must first add a new data store to a **[Document](document-object-word.md)** object by using the ** [Add](http://msdn.microsoft.com/library/f2c1588b-c11b-49ca-5db6-4fa4c26d10c5%28Office.15%29.aspx)** method of the **CustomXMLParts** collection. This appends a new, empty data store to the document. Because it is empty, you cannot use it yet. Next, you must load a custom XML part from an XML file into the data store, by calling the ** [Load](http://msdn.microsoft.com/library/f4d50c05-15bd-ccce-6198-9d6be401b29b%28Office.15%29.aspx)** method of the **CustomXMLPart** object that uses a valid path to an XML file as the parameter.
     
 4. Save the document, naming it CustomerLetterGenerator.docm.
     
@@ -153,10 +153,10 @@ End Sub
 
    	|**Note**|
 	|:-----|  
-	|There are at least three default custom XML parts that are always created with a document. These are 'Cover pages', 'Doc properties' and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the  **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It is on that part that the **Load** method is called, in the next line of code. To determine the index number of the part into which to load the XML file, it is necessary to pass the count of custom XML parts to the **Load** method. `ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load ("C:\CustomerData.xml")`| 
+	|There are at least three default custom XML parts that are always created with a document. These are 'Cover pages', 'Doc properties' and 'App properties'. In addition, various other custom XML parts may be created on a given computer, depending on several factors. These include which add-ons are installed, connections with SharePoint, and so on. Calling the **Add** method on the **CustomXMLParts** collection in the previous code adds an additional XML part, into which the XML file is loaded. It is on that part that the **Load** method is called, in the next line of code. To determine the index number of the part into which to load the XML file, it is necessary to pass the count of custom XML parts to the **Load** method. `ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load ("C:\CustomerData.xml")`| 
     
      
-5. Set an XML mapping on a content control that refers to a node in the added data store. To create an XML mapping, use an XPath expression that points to the node in the custom XML data part to which you want to map a content control. After you add a data store to your document (and the data store points to a valid XML file), you are ready to map one of its nodes to a content control. To do this, pass a  **String** that contains a valid **XPath** to a **ContentControl** object by using the **SetMapping** method of the **XMLMapping** object (by using the **XMLMapping** property of the **ContentControl** object). Open the Visual Basic editor and run the following VBA code to bind content controls to items in the data store.
+5. Set an XML mapping on a content control that refers to a node in the added data store. To create an XML mapping, use an XPath expression that points to the node in the custom XML data part to which you want to map a content control. After you add a data store to your document (and the data store points to a valid XML file), you are ready to map one of its nodes to a content control. To do this, pass a **String** that contains a valid **XPath** to a **ContentControl** object by using the **SetMapping** method of the **XMLMapping** object (by using the **XMLMapping** property of the **ContentControl** object). Open the Visual Basic editor and run the following VBA code to bind content controls to items in the data store.
     
 ```vb
   Public Sub MapXML()
@@ -210,9 +210,9 @@ To build this application, do the following:
 </connectionStrings>
 ```
 
-4. In your Visual Studio project, add the CustomerLetterGenerator.docm document to the  **App_Data** folder: Right-click **App_Data**, point to  **Add**, click  **Existing Item**, browse to the location where you saved the document, select it, and then click  **Add**.
+4. In your Visual Studio project, add the CustomerLetterGenerator.docm document to the **App_Data** folder: Right-click **App_Data**, point to **Add**, click **Existing Item**, browse to the location where you saved the document, select it, and then click **Add**.
     
-5. Add a reference to WindowsBase.dll to your project: Right-click  **References**, click  **Add Reference**, click the  **.NET** tab, select **WindowsBase**, and then click  **OK**.
+5. Add a reference to WindowsBase.dll to your project: Right-click **References**, click **Add Reference**, click the **.NET** tab, select **WindowsBase**, and then click **OK**.
     
 6. Download and install the  [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992&;displaylang=en)
     
@@ -226,13 +226,13 @@ To build this application, do the following:
  </compilation>
 ```
 
-8. Add a Web Form to your project: On the  **Project** menu, click **Add New Item**; under  **Installed Templates**, click  **Web**; select  **Web Form**, and then click  **Add**.
+8. Add a Web Form to your project: On the **Project** menu, click **Add New Item**; under **Installed Templates**, click **Web**; select **Web Form**, and then click **Add**.
     
-9. In the Solution Explorer, right-click  **Properties**, and then click  **Open**.
+9. In the Solution Explorer, right-click **Properties**, and then click **Open**.
     
-10. On the  **Web** tab, under **Start Action**, select  **Specific Page**, click the browse button, and navigate to the page  **WebForm1.aspx**.
+10. On the **Web** tab, under **Start Action**, select **Specific Page**, click the browse button, and navigate to the page **WebForm1.aspx**.
     
-11. Add the following code to the  **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing <html> tags.
+11. Add the following code to the **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing <html> tags.
     
 ```HTML
   <html xmlns="http://www.w3.org/1999/xhtml">
@@ -280,12 +280,12 @@ To build this application, do the following:
 
 ```
 
-12. Depending on the coding language you use, add the following Visual Basic .NET or C# code to the appropriate  **WebForm1.aspx** code-behind page in your project.
+12. Depending on the coding language you use, add the following Visual Basic .NET or C# code to the appropriate **WebForm1.aspx** code-behind page in your project.
     
 
 ## Sample Code: Visual Basic .NET
 
-The following Visual Basic .NET sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the  **WebForm1.aspx.vb** file, overwriting the existing code in the file.
+The following Visual Basic .NET sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the **WebForm1.aspx.vb** file, overwriting the existing code in the file.
 
 
 ```VB.net
@@ -389,7 +389,7 @@ End Class
 
 ## Sample Code: C#
 
-The following C# sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the  **WebForm1.Aspx.cs** file, copying over the existing code.
+The following C# sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the **WebForm1.Aspx.cs** file, copying over the existing code.
 
 
 ```C#

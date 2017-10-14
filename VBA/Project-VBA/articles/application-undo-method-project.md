@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Undo Method (Project)
 
-Executes an undo action on items in the  **Undo** list.
+Executes an undo action on items in the **Undo** list.
 
 
 ## Syntax
@@ -38,6 +38,6 @@ Executes an undo action on items in the  **Undo** list.
 
 ## Remarks
 
-Many actions you perform in Project, such as adding a task, add items to the  **Undo** list. To redo one or more actions after using the **Undo** method, you can use the **[Redo](application-redo-method-project.md)** method or click **Redo** in the Quick Access Toolbar.
+Many actions you perform in Project, such as adding a task, add items to the **Undo** list. To redo one or more actions after using the **Undo** method, you can use the **[Redo](application-redo-method-project.md)** method or click **Redo** in the Quick Access Toolbar.
 
 

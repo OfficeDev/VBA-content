@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Layer.CellsC Property (Visio)
 
-Returns a  **Cell** object that represents a ShapeSheet cell in a row in the Layers section. Read-only.
+Returns a **Cell** object that represents a ShapeSheet cell in a row in the Layers section. Read-only.
 
 
 ## Syntax

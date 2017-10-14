@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.PictureAlignment Property (Access)
 
-You can use the  **PictureAlignment** property to specify where a background picture will appear in the **Attachment** control. Read/write **Byte**.
+You can use the **PictureAlignment** property to specify where a background picture will appear in the **Attachment** control. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **PictureAlignment** property to specify where a background pic
 
 ## Remarks
 
-The  **PictureAlignment** property uses the following settings.
+The **PictureAlignment** property uses the following settings.
 
 
 
@@ -36,11 +36,11 @@ The  **PictureAlignment** property uses the following settings.
 |Center|2|(Default) The picture is centered in the control.|
 |Bottom Left|3|The picture is displayed in the bottom-left corner of the control.|
 |Bottom Right|4|The picture is displayed in the bottom-right corner of the control.|
-You can also set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can also set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
 This property can be set in any view.
 
-When you set the  **PictureTiling** property to Yes, tiling of the picture will begin from the **PictureAlignment** property setting.
+When you set the **PictureTiling** property to Yes, tiling of the picture will begin from the **PictureAlignment** property setting.
 
 
 ## See also

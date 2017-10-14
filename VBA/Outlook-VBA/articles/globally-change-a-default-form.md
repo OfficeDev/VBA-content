@@ -24,9 +24,9 @@ The Forms Administrator utility does not create the registry keys in the correct
     
 2. Run the Forms Administrator utility, and then change the settings as you would for Outlook 2000 or Outlook 2002.
     
-3. To save the registry settings on your computer, click  **Save**. This also makes the  **Export Saved Settings** button available.
+3. To save the registry settings on your computer, click **Save**. This also makes the **Export Saved Settings** button available.
     
-4. Click  **Export Saved Settings** to save a Windows registry (.reg) file.
+4. Click **Export Saved Settings** to save a Windows registry (.reg) file.
     
 5. Open the .reg file in a text editor, such as Notepad.
     

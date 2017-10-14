@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordset.Document Property (Visio)
 
-Gets the  **Document** object that contains the **DataRecordset** object. Read-only.
+Gets the **Document** object that contains the **DataRecordset** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

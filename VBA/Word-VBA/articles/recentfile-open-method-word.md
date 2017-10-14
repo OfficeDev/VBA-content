@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecentFile.Open Method (Word)
 
-Opens the specified object. Returns a  **Document** object representing the opened document.
+Opens the specified object. Returns a **Document** object representing the opened document.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Document
 
 ## Example
 
-This example opens each document in the  **RecentFiles** collection.
+This example opens each document in the **RecentFiles** collection.
 
 
 ```vb

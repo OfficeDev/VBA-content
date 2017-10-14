@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # AutoTextEntry Object (Word)
 
-Represents a single AutoText entry. The  **AutoTextEntry** object is a member of the **AutoTextEntries** collection. The **[AutoTextEntries](autotextentries-object-word.md)** collection contains all the AutoText entries in the specified template. The entries are listed on the **AutoText** tab in the **AutoCorrect** dialog box.
+Represents a single AutoText entry. The **AutoTextEntry** object is a member of the **AutoTextEntries** collection. The **[AutoTextEntries](autotextentries-object-word.md)** collection contains all the AutoText entries in the specified template. The entries are listed on the **AutoText** tab in the **AutoCorrect** dialog box.
 
 
 ## Remarks
 
-Use  **[AutoTextEntries](autotextentries-item-method-word.md)** (index), where index is the AutoText entry name or index number, to return a single **AutoTextEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown on the **AutoText** tab in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoText entry named "cName."
+Use **[AutoTextEntries](autotextentries-item-method-word.md)** (index), where index is the AutoText entry name or index number, to return a single **AutoTextEntry** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown on the **AutoText** tab in the **AutoCorrect** dialog box. The following example sets the value of an existing AutoText entry named "cName."
 
 
 ```
@@ -48,7 +48,7 @@ NormalTemplate.AutoTextEntries("TheWorld").Insert _
  Where:=Selection.Range
 ```
 
-Use the  **[Add](autotextentries-add-method-word.md)** method to add an **AutoTextEntry** object to the **AutoTextEntries** collection. The following example adds an AutoText entry named "Blue" based on the text of the selection.
+Use the **[Add](autotextentries-add-method-word.md)** method to add an **AutoTextEntry** object to the **AutoTextEntries** collection. The following example adds an AutoText entry named "Blue" based on the text of the selection.
 
 
 

@@ -18,17 +18,17 @@ Represents a spreadsheet error for a range.
 ## Remarks
 This object works for ranges containing only one cell.
 
-Use the  **[Item](errors-item-property-excel.md)** property of the **[Errors](errors-object-excel.md)** object to return an **Error** object.
+Use the **[Item](errors-item-property-excel.md)** property of the **[Errors](errors-object-excel.md)** object to return an **Error** object.
 
-Once an  **Error** object is returned, you can use the **[Value](error-value-property-excel.md)** property, in conjunction with the **[Errors](range-errors-property-excel.md)** property to check whether a particular error checking option is enabled.
+Once an **Error** object is returned, you can use the **[Value](error-value-property-excel.md)** property, in conjunction with the **[Errors](range-errors-property-excel.md)** property to check whether a particular error checking option is enabled.
 
 
- **Note**  Be careful not to confuse the  **Error** object with error handling features of Visual Basic.
+ **Note**  Be careful not to confuse the **Error** object with error handling features of Visual Basic.
 
 
 ## Example
 
-The following example creates a formula in cell A1 referencing empty cells, and then it uses  **Item** ( _index_ ), where _index_ identifies the error type, to display a message stating the situation.
+The following example creates a formula in cell A1 referencing empty cells, and then it uses **Item** ( _index_ ), where _index_ identifies the error type, to display a message stating the situation.
 
 
 ```

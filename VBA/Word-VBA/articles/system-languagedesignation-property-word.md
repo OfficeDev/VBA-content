@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.LanguageDesignation Property (Word)
 
-Returns the designated language of the system software. Read-only  **String** .
+Returns the designated language of the system software. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the designated language of the system software. Read-only  **String** .
 
 ## Example
 
-This example displays "U.S. English" if the  **LanguageDesignation** property returns "English (US)".
+This example displays "U.S. English" if the **LanguageDesignation** property returns "English (US)".
 
 
 ```vb

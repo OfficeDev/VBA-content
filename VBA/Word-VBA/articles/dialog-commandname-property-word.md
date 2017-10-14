@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dialog.CommandName Property (Word)
 
-Returns the name of the procedure that displays the specified built-in dialog box. Read-only  **String** .
+Returns the name of the procedure that displays the specified built-in dialog box. Read-only **String** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For more information about working with built-in Word dialog boxes, see [Display
 
 ## Example
 
-This example displays the name of the procedure that displays the  **Save As** dialog box ( **File** menu): **FileSaveAs** .
+This example displays the name of the procedure that displays the **Save As** dialog box ( **File** menu): **FileSaveAs** .
 
 
 ```vb

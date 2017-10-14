@@ -8,6 +8,6 @@ ms.date: 06/08/2017
 
 # Using the Add-In Manager
 
-Use the  **Add-In Manager** dialog box to load or unload an add-in. If you close only the visible portions of an add-in — by double-clicking its system menu or by clicking its close button, for example — its forms disappear from the screen, but the add-in is still present in memory. The add-in object itself will always stay resident in memory until the add-in is disconnected through the **Add-In Manager** dialog box.
+Use the **Add-In Manager** dialog box to load or unload an add-in. If you close only the visible portions of an add-in — by double-clicking its system menu or by clicking its close button, for example — its forms disappear from the screen, but the add-in is still present in memory. The add-in object itself will always stay resident in memory until the add-in is disconnected through the **Add-In Manager** dialog box.
 
 

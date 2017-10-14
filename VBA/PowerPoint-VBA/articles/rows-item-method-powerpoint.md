@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.Item Method (PowerPoint)
 
-Returns a single  **Row** object from the specified **Rows** collection.
+Returns a single **Row** object from the specified **Rows** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Row** object from the specified **Rows** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Row** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Row** object in the collection to be returned.|
 
 ### Return Value
 

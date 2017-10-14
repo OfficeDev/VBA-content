@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.IsReadOnly Property (Office)
 
-Gets a  **Boolean** value that specifies whether the meta property is read-only. Read-only.
+Gets a **Boolean** value that specifies whether the meta property is read-only. Read-only.
 
 
 ## Syntax

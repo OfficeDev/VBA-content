@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.CompareEntryIDs Method (Outlook)
 
-Returns a  **Boolean** value that indicates if two entry ID values refer to the same Outlook item.
+Returns a **Boolean** value that indicates if two entry ID values refer to the same Outlook item.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ Entry identifiers cannot be compared directly because one object can be represen
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example compares the entry identifier associated with the organizer of a specified  **[AppointmentItem](appointmentitem-object-outlook.md)** object with the entry identifier of a specified **[Recipient](recipient-object-outlook.md)** object, using the **CompareEntryIDs** method, and returns **True** if the organizer and the specified recipient represent the same user.
+The following Visual Basic for Applications (VBA) example compares the entry identifier associated with the organizer of a specified **[AppointmentItem](appointmentitem-object-outlook.md)** object with the entry identifier of a specified **[Recipient](recipient-object-outlook.md)** object, using the **CompareEntryIDs** method, and returns **True** if the organizer and the specified recipient represent the same user.
 
 
 ```vb

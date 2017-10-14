@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.EarnedValueBaseline Property (Project)
 
-Gets or sets the baseline for the earned values of tasks. Read/write  **PjBaselines**.
+Gets or sets the baseline for the earned values of tasks. Read/write **PjBaselines**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the baseline for the earned values of tasks. Read/write  **PjBaseli
 
 ## Remarks
 
-The  **EarnedValueBaseline** property is one of the **[PjBaseline](pjbaselines-enumeration-project.md)** constants, for example, **pjBaseline** or **pjBaseline1** through **pjBaseline10**.
+The **EarnedValueBaseline** property is one of the **[PjBaseline](pjbaselines-enumeration-project.md)** constants, for example, **pjBaseline** or **pjBaseline1** through **pjBaseline10**.
 
 

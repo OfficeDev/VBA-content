@@ -29,7 +29,7 @@ Determines whether the value of an expression is equal to any of several values 
 ## Remarks
 <a name="sectionSection1"> </a>
 
-The  **In** operator syntax has these parts:
+The **In** operator syntax has these parts:
 
 
 
@@ -39,7 +39,7 @@ The  **In** operator syntax has these parts:
 | _value1_, _value2_|Expression or list of expressions against which you want to evaluate  _expr_.|
 If  _expr_ is found in the list of values _,_ the **In** operator returns **True**; otherwise, it returns **False**. You can include the **Not** logical operator to evaluate the opposite condition (that is, whether _expr_ is not in the list of values).
 
-For example, you can use  **In** to determine which orders are shipped to a set of specified regions:
+For example, you can use **In** to determine which orders are shipped to a set of specified regions:
 
 
 

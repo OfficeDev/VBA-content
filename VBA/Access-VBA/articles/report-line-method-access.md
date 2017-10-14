@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Line Method (Access)
 
-The  **Line** method draws lines and rectangles on a **Report** object when the Print event occurs.
+The **Line** method draws lines and rectangles on a **Report** object when the Print event occurs.
 
 
 ## Syntax
@@ -38,18 +38,18 @@ The  **Line** method draws lines and rectangles on a **Report** object when the 
 
 ## Remarks
 
-You can use this method only in an event procedure or a macro specified by the  **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
+You can use this method only in an event procedure or a macro specified by the **OnPrint** or **OnFormat** event property for a report section, or the **OnPage** event property for a report.
 
 To connect two drawing lines, make sure that one line begins at the end point of the previous line.
 
-The width of the line drawn depends on the  **DrawWidth** property setting. The way a line or rectangle is drawn on the background depends on the settings of the **DrawMode** and **DrawStyle** properties.
+The width of the line drawn depends on the **DrawWidth** property setting. The way a line or rectangle is drawn on the background depends on the settings of the **DrawMode** and **DrawStyle** properties.
 
-When you apply the  **Line** method, the **CurrentX** and **CurrentY** properties are set to the end point specified by the _x2_ and _y2_ arguments.
+When you apply the **Line** method, the **CurrentX** and **CurrentY** properties are set to the end point specified by the _x2_ and _y2_ arguments.
 
 
 ## Example
 
-The following example uses the  **Line** method to draw a red rectangle five pixels inside the edge of a report named EmployeeReport. The **RGB** function is used to make the line red.
+The following example uses the **Line** method to draw a red rectangle five pixels inside the edge of a report named EmployeeReport. The **RGB** function is used to make the line red.
 
 To try this example in Microsoft Access, create a new report named EmployeeReport. Paste the following code in the declarations section of the report's module, then switch to Print Preview.
 

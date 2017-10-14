@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GoalAreaChange Method (Project)
 
-Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](application-windowgoalareachange-event-project.md)** event. Deprecated in Project.
+Changes Project Guide goal areas by triggering the **[WindowGoalAreaChange](application-windowgoalareachange-event-project.md)** event. Deprecated in Project.
 
 
 ## Syntax

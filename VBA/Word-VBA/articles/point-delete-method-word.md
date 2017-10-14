@@ -25,7 +25,7 @@ Deletes the object.
 
 ## Remarks
 
-Deleting a  **Point** object deletes the entire series.
+Deleting a **Point** object deletes the entire series.
 
 
 ## See also

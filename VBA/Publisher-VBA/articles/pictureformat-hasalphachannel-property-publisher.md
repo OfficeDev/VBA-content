@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.HasAlphaChannel Property (Publisher)
 
-Returns an  **MsoTriState** constant indicating whether the specified picture contains an alpha channel. Read-only.
+Returns an **MsoTriState** constant indicating whether the specified picture contains an alpha channel. Read-only.
 
 
 ## Syntax
 
  _expression_. **HasAlphaChannel**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -32,14 +32,14 @@ MsoTriState
 
 An alpha channel is a special 8-bit channel used by some image processing software to contain additional data, such as masking or transparency information.
 
-The  **HasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **HasAlphaChannel** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The specified picture does not contain an alpha channel.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The specified picture contains an alpha channel.|
 
 ## Example

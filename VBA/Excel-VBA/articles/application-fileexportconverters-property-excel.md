@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileExportConverters Property (Excel)
 
-Returns a  **[FileExportConverters](fileexportconverters-object-excel.md)** collection that represents all the file converters for saving files available to Microsoft Excel. Read-only.
+Returns a **[FileExportConverters](fileexportconverters-object-excel.md)** collection that represents all the file converters for saving files available to Microsoft Excel. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For more information about returning a single member of a collection, see [Retur
 
 ## Example
 
-The following example displays the description for the first file converter in the  **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
+The following example displays the description for the first file converter in the **[FileExportConverters](fileexportconverters-object-excel.md)** collection.
 
 
 ```vb

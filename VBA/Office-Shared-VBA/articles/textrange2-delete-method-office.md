@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Delete Method (Office)
 
-Deletes a  **TextRange2** object.
+Deletes a **TextRange2** object.
 
 
 ## Syntax

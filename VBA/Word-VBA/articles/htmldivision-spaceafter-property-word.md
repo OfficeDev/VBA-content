@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HTMLDivision.SpaceAfter Property (Word)
 
-Returns or sets the amount of spacing (in points) after the specified HTML DIV element. Read/write  **Single** .
+Returns or sets the amount of spacing (in points) after the specified HTML DIV element. Read/write **Single** .
 
 
 ## Syntax

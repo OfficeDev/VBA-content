@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.Tracking Property (Publisher)
 
-Returns or sets a  **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
+Returns or sets a **Variant** indicating the tracking value used to display space between the characters in the specified text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **Tracking**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ Valid range is 0.0 to 600.0 points. Setting the property to 0.0 disables trackin
 
 ## Example
 
-This example disables tracking in the second story by setting the  **Tracking** property to zero.
+This example disables tracking in the second story by setting the **Tracking** property to zero.
 
 
 ```vb

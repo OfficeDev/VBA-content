@@ -21,6 +21,6 @@ Specifies the method to use to allocate values when performing what-if analysis 
 
 ## Remarks
 
-If the  **[AllocationMethod](pivottable-allocationmethod-property-excel.md)** property is set to **xlWeightedAllocation** , you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](pivottable-allocationweightexpression-property-excel.md)** property.
+If the **[AllocationMethod](pivottable-allocationmethod-property-excel.md)** property is set to **xlWeightedAllocation** , you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](pivottable-allocationweightexpression-property-excel.md)** property.
 
 

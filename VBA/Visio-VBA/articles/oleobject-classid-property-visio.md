@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The  **ClassID** property raises an exception if the shape doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&;H8000) is set in the value returned by **Shape** . **ForeignType** .
+The **ClassID** property raises an exception if the shape doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&;H8000) is set in the value returned by **Shape** . **ForeignType** .
 
  **ClassID** returns a string of the form:
 
@@ -43,12 +43,12 @@ The  **ClassID** property raises an exception if the shape doesn't represent an 
 
 This identifies the application that services the object. It might, for example, identify an embedded object on a Microsoft Visio page as a Microsoft Excel object.
 
-After using a shape's  **Object** property to obtain an Automation interface on the object the shape represents, you might want to obtain the shape's **ClassID** or **ProgID** property to determine the methods and properties provided by the interface.
+After using a shape's **Object** property to obtain an Automation interface on the object the shape represents, you might want to obtain the shape's **ClassID** or **ProgID** property to determine the methods and properties provided by the interface.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the  **OLEObjects** collection of an active page and print the **ClassID** for each **OLEObject** object in the Immediate window. This example assumes that the active page has at least one OLE 2.0 embedded or linked object or an ActiveX control.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the **OLEObjects** collection of an active page and print the **ClassID** for each **OLEObject** object in the Immediate window. This example assumes that the active page has at least one OLE 2.0 embedded or linked object or an ActiveX control.
 
 
 ```vb

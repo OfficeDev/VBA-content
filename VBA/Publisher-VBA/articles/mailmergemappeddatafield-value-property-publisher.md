@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # MailMergeMappedDataField.Value Property (Publisher)
 
-Returns a  **String** that represents the value of a mail merge data field record or a mapped data field. Read-only.
+Returns a **String** that represents the value of a mail merge data field record or a mapped data field. Read-only.
 
 
 ## Syntax
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **MailMergeMappedDataField** object.
+ _expression_A variable that represents a **MailMergeMappedDataField** object.
 
 

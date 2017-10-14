@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the specified workbook isn't open as a shared list, this property fails. To determine whether a workbook is open as a shared list, use the  **MultiUserEditing** property.
+If the specified workbook isn't open as a shared list, this property fails. To determine whether a workbook is open as a shared list, use the **MultiUserEditing** property.
 
 
 ## Example

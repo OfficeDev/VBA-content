@@ -18,12 +18,12 @@ Provides an entry point into the undo stack.
 
 ## Remarks
 
-Use the  **UndoRecord** object to create and modify custom undo records in the Word undo stack.
+Use the **UndoRecord** object to create and modify custom undo records in the Word undo stack.
 
 
 ## Example
 
-The following code example instantiates an  **UndoRecord** object.
+The following code example instantiates an **UndoRecord** object.
 
 
 ```vb

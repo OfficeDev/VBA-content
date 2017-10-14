@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Deactivate Event (Access)
 
-The  **Deactivate** event occurs when a report loses the focus to a Table, Query, Form, Report, Macro, or Module window, or to the Database window.
+The **Deactivate** event occurs when a report loses the focus to a Table, Query, Form, Report, Macro, or Module window, or to the Database window.
 
 
 ## Syntax

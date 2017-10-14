@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Order Property (Excel)
 
-Returns or sets a  **[XlOrder](xlorder-enumeration-excel.md)** value that represents the order that Microsoft Excel uses to number pages when printing a large worksheet.
+Returns or sets a **[XlOrder](xlorder-enumeration-excel.md)** value that represents the order that Microsoft Excel uses to number pages when printing a large worksheet.
 
 
 ## Syntax

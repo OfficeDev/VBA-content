@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ShowCriticalSlack Property (Project)
 
-Gets or sets how much slack causes a task to be displayed as a critical task. Read/write  **Long**.
+Gets or sets how much slack causes a task to be displayed as a critical task. Read/write **Long**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets how much slack causes a task to be displayed as a critical task. Re
 
 ## Remarks
 
-If the slack time of a task does not exceed the number of days returned by the  **ShowCriticalSlack** property, Project displays the task as critical.
+If the slack time of a task does not exceed the number of days returned by the **ShowCriticalSlack** property, Project displays the task as critical.
 
 

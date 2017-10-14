@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.VerticalPercentScrolled Property (Word)
 
-Returns or sets the vertical scroll position as a percentage of the document length. Read/write  **Long** .
+Returns or sets the vertical scroll position as a percentage of the document length. Read/write **Long** .
 
 
 ## Syntax

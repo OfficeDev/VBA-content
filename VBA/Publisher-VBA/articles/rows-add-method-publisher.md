@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Rows.Add Method (Publisher)
 
-Adds a new  **Row** object to the specified **Rows** collection and returns the new **Row** object.
+Adds a new **Row** object to the specified **Rows** collection and returns the new **Row** object.
 
 
 ## Syntax
 
  _expression_. **Add**( **_BeforeRow_**)
 
- _expression_A variable that represents a  **Rows** object.
+ _expression_A variable that represents a **Rows** object.
 
 
 ### Parameters

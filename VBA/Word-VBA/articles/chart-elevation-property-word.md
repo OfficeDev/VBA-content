@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Elevation Property (Word)
 
-Returns or sets the elevation, in degrees, of the 3-D chart view. Read/write  **Long** .
+Returns or sets the elevation, in degrees, of the 3-D chart view. Read/write **Long** .
 
 
 ## Syntax

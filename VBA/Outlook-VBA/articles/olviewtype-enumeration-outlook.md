@@ -19,17 +19,17 @@ Indicates the view object type.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **olBusinessCardView**|5|Represents a  **[BusinessCardView](businesscardview-object-outlook.md)** object.|
-| **olCalendarView**|2|Represents a  **[CalendarView](calendarview-object-outlook.md)** object.|
-| **olCardView**|1|Represents a  **[CardView](cardview-object-outlook.md)** object.|
-| **olDailyTaskListView**|1|Represents the  **[TableView](tableview-object-outlook.md)** object that contains the daily task list in a calendar view.|
+| **olBusinessCardView**|5|Represents a **[BusinessCardView](businesscardview-object-outlook.md)** object.|
+| **olCalendarView**|2|Represents a **[CalendarView](calendarview-object-outlook.md)** object.|
+| **olCardView**|1|Represents a **[CardView](cardview-object-outlook.md)** object.|
+| **olDailyTaskListView**|1|Represents the **[TableView](tableview-object-outlook.md)** object that contains the daily task list in a calendar view.|
 | **olIconView**|3|Represents an **[IconView](iconview-object-outlook.md)** object.|
 | **olPeopleView**|7|Represents a [PeopleView](peopleview-object-outlook.md) object.|
-| **olTableView**|0|Represents a  **[TableView](tableview-object-outlook.md)** object.|
-| **olTimelineView**|4|Represents a  **[TimelineView](timelineview-object-outlook.md)** object.|
+| **olTableView**|0|Represents a **[TableView](tableview-object-outlook.md)** object.|
+| **olTimelineView**|4|Represents a **[TimelineView](timelineview-object-outlook.md)** object.|
 
 ## Remarks
 
-Used by the  **ViewType** property of **View** objects and as a parameter to the[Views.Add Method (Outlook)](views-add-method-outlook.md).
+Used by the **ViewType** property of **View** objects and as a parameter to the[Views.Add Method (Outlook)](views-add-method-outlook.md).
 
 

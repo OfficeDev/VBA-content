@@ -18,7 +18,7 @@ Contains Microsoft Graph AutoCorrect attributes (capitalization of names of days
 
 ## Using the AutoCorrect Object
 
-Use the  **[AutoCorrect](autocorrect-property.md)** property to return the  **AutoCorrect** object. The following example sets Microsoft Graph to correct words that begin with two initial capital letters.
+Use the **[AutoCorrect](autocorrect-property.md)** property to return the **AutoCorrect** object. The following example sets Microsoft Graph to correct words that begin with two initial capital letters.
 
 
 ```vb

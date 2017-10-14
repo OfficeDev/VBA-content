@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileTextQualifier Property (Excel)
 
-Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/write  **[XlTextQualifier](xltextqualifier-enumeration-excel.md)** .
+Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/write **[XlTextQualifier](xltextqualifier-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -31,13 +31,13 @@ Returns or sets the text qualifier when you import a text file into a query tabl
 | **xlTextQualifierNone**|
 | **xlTextQualifierDoubleQuote**_default_|
 | **xlTextQualifierSingleQuote**|
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
+Use this property only when your query table is based on data from a text file (with the **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **TextFileTextQualifier** property applies only to **QueryTable** objects.
+The **TextFileTextQualifier** property applies only to **QueryTable** objects.
 
 
 ## Example

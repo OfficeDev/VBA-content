@@ -24,7 +24,7 @@ Represents a button control on a command bar.
 
 ## Example
 
-Use  **Controls(index)**, where _index_ is the index number of the control, to return a **CommandBarButton** object. Note that the **Type** property of the control must be **msoControlButton**. Assuming that the second control on the command bar named "Custom" is a button, the following example changes the style of that button.
+Use **Controls(index)**, where _index_ is the index number of the control, to return a **CommandBarButton** object. Note that the **Type** property of the control must be **msoControlButton**. Assuming that the second control on the command bar named "Custom" is a button, the following example changes the style of that button.
 
 
 ```
@@ -44,7 +44,7 @@ End With
  **Note**  
 
 
- **Note**  You can also use the  **FindControl** method to return a **CommandBarButton** object.
+ **Note**  You can also use the **FindControl** method to return a **CommandBarButton** object.
 
 
 ## See also

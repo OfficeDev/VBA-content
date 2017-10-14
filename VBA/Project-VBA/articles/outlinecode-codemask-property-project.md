@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlineCode.CodeMask Property (Project)
 
-Gets a  **[CodeMask](codemask-object-project.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
+Gets a **[CodeMask](codemask-object-project.md)** collection representing the code mask for an outline code in Project. Read-only **CodeMask**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets a  **[CodeMask](codemask-object-project.md)** collection representing the c
 
 ## Remarks
 
-The  **CodeMask** property returns nothing if the code shares a lookup table from another code.
+The **CodeMask** property returns nothing if the code shares a lookup table from another code.
 
 

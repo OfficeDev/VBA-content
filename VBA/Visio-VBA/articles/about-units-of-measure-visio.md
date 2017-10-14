@@ -70,9 +70,9 @@ You can specify fractional units of measure in the DrawingScale cell to affect t
 
 
 
-- Eighths for  **visInchFrac** and **visMileFrac**
+- Eighths for **visInchFrac** and **visMileFrac**
     
-- Twelfths for  **visFeetAndInches**
+- Twelfths for **visFeetAndInches**
     
 
 
@@ -189,8 +189,8 @@ Following are the default units of measure along with their equivalent settings 
 |**Default unit of measure**|**User interface equivalent**|
 |:-----|:-----|
 | **visDrawingUnits**|The units in the DrawingScale cell of the page or master containing the cell. |
-| **visPageUnits**|The units selected in the  **Measurement units** box on the **Page Properties** tab of the **Page Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow).|
-| **visTypeUnits**|The units selected in the  **Text** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
+| **visPageUnits**|The units selected in the **Measurement units** box on the **Page Properties** tab of the **Page Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow).|
+| **visTypeUnits**|The units selected in the **Text** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
 | **visAngleUnits**| The units selected in the **Angle** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
 | **visDurationUnits**| The units selected in the **Duration** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
 

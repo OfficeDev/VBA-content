@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Type Property
 
-Type property as it applies to the  **Axis** object.
+Type property as it applies to the **Axis** object.
 
 Returns or sets the axis type. Read/write XlAxisType .
 
@@ -24,11 +24,11 @@ Returns or sets the axis type. Read/write XlAxisType .
 | **xlValue**|
  _expression_. **Type**
  _expression_ Required. An expression that returns an **Axis** object.
-Type property as it applies to the  **ChartColorFormat** object.
+Type property as it applies to the **ChartColorFormat** object.
 Returns the color type. Read-only Long.
  _expression_. **Type**
  _expression_ Required. An expression that returns a **ChartColorFormat** object.
-Type property as it applies to the  **ChartFillFormat** object.
+Type property as it applies to the **ChartFillFormat** object.
 Returns the fill type. Read-only MsoFillType .
 
 
@@ -42,15 +42,15 @@ Returns the fill type. Read-only MsoFillType .
 | **msoFillTextured**|
  _expression_. **Type**
  _expression_ Required. An expression that returns a **ChartFillFormat** object.
-Type property as it applies to the  **DataLabel** and **DataLabels** objects.
+Type property as it applies to the **DataLabel** and **DataLabels** objects.
 Returns or sets the data label type. Read/write Variant.
  _expression_. **Type**
  _expression_ Required. An expression that returns one of the above objects.
-Type property as it applies to the  **Series** object.
+Type property as it applies to the **Series** object.
 Returns or sets the series type. Read/write Long.
  _expression_. **Type**
  _expression_ Required. An expression that returns a **Series** object.
-Type property as it applies to the  **Trendline** object.
+Type property as it applies to the **Trendline** object.
 Returns or sets the trendline type. Read/write XlTrendlineType .
 
 
@@ -66,7 +66,7 @@ Returns or sets the trendline type. Read/write XlTrendlineType .
 
 ## Example
 
-As it applies to the  **Trendline** object.
+As it applies to the **Trendline** object.
 
 This example changes the trendline type for the first series in the chart. If the series has no trendline, this example fails.
 

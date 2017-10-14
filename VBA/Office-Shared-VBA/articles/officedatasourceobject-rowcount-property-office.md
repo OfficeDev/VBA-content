@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.RowCount Property (Office)
 
-Gets a  **Long** that represents the number of records in the specified data source. Read-only.
+Gets a **Long** that represents the number of records in the specified data source. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets a  **Long** that represents the number of records in the specified data sou
 
 ## Example
 
-This example adds a new filter that removes all records with a blank  **Region** field and then applies the filter to the active publication.
+This example adds a new filter that removes all records with a blank **Region** field and then applies the filter to the active publication.
 
 
 ```

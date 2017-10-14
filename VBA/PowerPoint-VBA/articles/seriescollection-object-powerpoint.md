@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SeriesCollection Object (PowerPoint)
 
-Represents a collection of all the  **[Series](series-object-powerpoint.md)** objects in the specified chart or chart group.
+Represents a collection of all the **[Series](series-object-powerpoint.md)** objects in the specified chart or chart group.
 
 
 ## Remarks
 
-Use the  **[SeriesCollection](http://msdn.microsoft.com/library/8adeb8b4-ba4f-6cdf-33bf-dceb1845dfb8%28Office.15%29.aspx)** method to return the **SeriesCollection** collection.
+Use the **[SeriesCollection](http://msdn.microsoft.com/library/8adeb8b4-ba4f-6cdf-33bf-dceb1845dfb8%28Office.15%29.aspx)** method to return the **SeriesCollection** collection.
 
 
 ## Example
@@ -50,7 +50,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Add](http://msdn.microsoft.com/library/29dd05a7-a707-78ff-fc06-1085e065eb3c%28Office.15%29.aspx)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
+Use the **[Add](http://msdn.microsoft.com/library/29dd05a7-a707-78ff-fc06-1085e065eb3c%28Office.15%29.aspx)** method to create a new series and add it to the chart. The following example adds the data from cells D1:D5 in the chart's worksheet as a new series to the chart.
 
 
 
@@ -72,7 +72,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **SeriesCollection** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one the active document.
+Use **SeriesCollection** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series in embedded chart one the active document.
 
 
 

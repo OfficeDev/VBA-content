@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathDelim.Grow Property (Word)
 
-Returns or sets a  **Boolean** that represents whether delimiter characters grow to the full height of the arguments that they contain. Read/write.
+Returns or sets a **Boolean** that represents whether delimiter characters grow to the full height of the arguments that they contain. Read/write.
 
 
 ## Syntax

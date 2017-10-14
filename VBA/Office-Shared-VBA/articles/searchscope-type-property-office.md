@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SearchScope.Type Property (Office)
 
-Gets a value that corresponds to the type of  **SearchScope** object. The type indicates the area in which to search for files. Read-only.
+Gets a value that corresponds to the type of **SearchScope** object. The type indicates the area in which to search for files. Read-only.
 
 
 ## Syntax

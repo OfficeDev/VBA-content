@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ByRef <keyword>
 
-The  **ByRef** keyword is used in these contexts:
+The **ByRef** keyword is used in these contexts:
 
 [Call Statement](call-statement.md)
 

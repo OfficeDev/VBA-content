@@ -20,7 +20,7 @@ Returns the type of an object. Read-only.
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
 
 
 ## Property value

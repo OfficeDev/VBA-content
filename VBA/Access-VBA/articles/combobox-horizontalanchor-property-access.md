@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ComboBox.HorizontalAnchor Property (Access)
 
-Gets or sets an  **[AcHorizontalAnchor](achorizontalanchor-enumeration-access.md)** constant that indicates how the combo box is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](achorizontalanchor-enumeration-access.md)** constant that indicates how the combo box is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets an  **[AcHorizontalAnchor](achorizontalanchor-enumeration-access.md
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
 
 ## See also

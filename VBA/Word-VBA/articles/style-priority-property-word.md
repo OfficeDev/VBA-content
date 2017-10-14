@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Priority Property (Word)
 
-Returns or sets a  **Long** that represents the priority for sorting styles in the **Styles** task pane. Read/write.
+Returns or sets a **Long** that represents the priority for sorting styles in the **Styles** task pane. Read/write.
 
 
 ## Syntax

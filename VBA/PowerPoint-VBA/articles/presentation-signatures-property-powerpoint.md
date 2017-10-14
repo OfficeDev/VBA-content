@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.Signatures Property (PowerPoint)
 
-Returns a  **SignatureSet** object that represents a collection of digital signatures. Read-only.
+Returns a **SignatureSet** object that represents a collection of digital signatures. Read-only.
 
 
 ## Syntax

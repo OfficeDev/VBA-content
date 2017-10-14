@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.DataSource Property (Office)
 
-Gets or sets a  **String** that represents the name of the attached data source. Read/write.
+Gets or sets a **String** that represents the name of the attached data source. Read/write.
 
 
 ## Syntax

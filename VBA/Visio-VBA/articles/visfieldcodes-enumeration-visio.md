@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisFieldCodes Enumeration (Visio)
 
-Text-field codes passed to the  **AddField** and **AddFieldEx** methods.
+Text-field codes passed to the **AddField** and **AddFieldEx** methods.
 
 
 

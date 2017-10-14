@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OverAllocatedAssignments.Item Property (Project)
 
-Gets a single  **Assignment** object from the **OverAllocatedAssignments** collection. Read-only **[Assignment](assignment-object-project.md)**.
+Gets a single **Assignment** object from the **OverAllocatedAssignments** collection. Read-only **[Assignment](assignment-object-project.md)**.
 
 
 ## Syntax
@@ -26,11 +26,11 @@ Gets a single  **Assignment** object from the **OverAllocatedAssignments** colle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the  **Assignment** to return.|
+| _Index_|Required|**Long**|The index number of the **Assignment** to return.|
 
 ## Example
 
-The following example finds assignments where the resource is overallocated. When the overPeak argument is  **False**, the overallocation is not greater than the maximum resource time available (100%). If you set overPeak to **True**, the example finds overallocated assignments that exceed maximum resource time available, such as 150%.
+The following example finds assignments where the resource is overallocated. When the overPeak argument is **False**, the overallocation is not greater than the maximum resource time available (100%). If you set overPeak to **True**, the example finds overallocated assignments that exceed maximum resource time available, such as 150%.
 
 
 ```vb

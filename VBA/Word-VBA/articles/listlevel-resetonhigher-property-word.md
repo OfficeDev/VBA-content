@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.ResetOnHigher Property (Word)
 
-Sets or returns the list level that must appear before the specified list level restarts numbering at 1. Read/write  **Long** .
+Sets or returns the list level that must appear before the specified list level restarts numbering at 1. Read/write **Long** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Sets or returns the list level that must appear before the specified list level 
 
 ## Remarks
 
-The  **ResetOnHigher** property returns **False** if the numbering continues sequentially each time the list level appears.
+The **ResetOnHigher** property returns **False** if the numbering continues sequentially each time the list level appears.
 
-This feature allows lists to be interleaved, maintaining numeric sequence. You cannot set the  **ResetOnHigher** property of a list level to a value greater than or equal to its index in the **[ListLevels](listlevels-object-word.md)** collection.
+This feature allows lists to be interleaved, maintaining numeric sequence. You cannot set the **ResetOnHigher** property of a list level to a value greater than or equal to its index in the **[ListLevels](listlevels-object-word.md)** collection.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Name Property (Project)
 
-Gets or sets the name of a  **Task** object. Read/write **String**.
+Gets or sets the name of a **Task** object. Read/write **String**.
 
 
 ## Syntax

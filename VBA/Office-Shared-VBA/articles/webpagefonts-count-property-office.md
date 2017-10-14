@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebPageFonts.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **WebPageFonts** object. Read-only.
+Gets a **Long** indicating the number of items in the **WebPageFonts** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Quit Method (PowerPoint)
 
-Quits Microsoft PowerPoint. This is equivalent to clicking the  **Office** button and then clicking **Exit PowerPoint**.
+Quits Microsoft PowerPoint. This is equivalent to clicking the **Office** button and then clicking **Exit PowerPoint**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Quits Microsoft PowerPoint. This is equivalent to clicking the  **Office** butto
 
 ## Remarks
 
-To avoid being prompted to save changes, use either the  **Save** or **SaveAs** method to save all open presentations before calling the **Quit** method.
+To avoid being prompted to save changes, use either the **Save** or **SaveAs** method to save all open presentations before calling the **Quit** method.
 
 
 ## Example

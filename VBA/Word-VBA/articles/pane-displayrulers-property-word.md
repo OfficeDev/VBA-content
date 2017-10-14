@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **DisplayRulers** property is equivalent to the **Ruler** command on the **View** menu. If **DisplayRulers** is **False** , the horizontal and vertical rulers won't be displayed, regardless of the state of the **DisplayVerticalRuler** property.
+The **DisplayRulers** property is equivalent to the **Ruler** command on the **View** menu. If **DisplayRulers** is **False** , the horizontal and vertical rulers won't be displayed, regardless of the state of the **DisplayVerticalRuler** property.
 
 
 ## Example

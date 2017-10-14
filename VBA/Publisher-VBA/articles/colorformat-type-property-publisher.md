@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ColorFormat.Type Property (Publisher)
 
-Returns or sets a  **PbColorType** constant that represents the shape color type. Read-only.
+Returns or sets a **PbColorType** constant that represents the shape color type. Read-only.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_A variable that represents a **ColorFormat** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **PbColorType** constants.
+The **Type** property value can be one of these **PbColorType** constants.
 
 
 

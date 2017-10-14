@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Weight Property (Word)
 
-Returns or sets the thickness of the specified line in points. Read/write  **Single** .
+Returns or sets the thickness of the specified line in points. Read/write **Single** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.DataLabel Property (Excel)
 
-Returns a  **[DataLabel](datalabel-object-excel.md)** object that represents the data label associated with the trendline. Read-only.
+Returns a **[DataLabel](datalabel-object-excel.md)** object that represents the data label associated with the trendline. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[DataLabel](datalabel-object-excel.md)** object that represents the
 
 ## Remarks
 
-To turn on data labels for a trendline you need to set the  **[DisplayEquation](trendline-displayequation-property-excel.md)** property or the **[DisplayRSquared](trendline-displayrsquared-property-excel.md)** property to **True** .
+To turn on data labels for a trendline you need to set the **[DisplayEquation](trendline-displayequation-property-excel.md)** property or the **[DisplayRSquared](trendline-displayrsquared-property-excel.md)** property to **True** .
 
 
 ## See also

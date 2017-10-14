@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.ReplyRecipients Property (Outlook)
 
-Returns a  **[Recipients](recipients-object-outlook.md)** collection that represents all the reply recipient objects for the Outlook item. Read-only.
+Returns a **[Recipients](recipients-object-outlook.md)** collection that represents all the reply recipient objects for the Outlook item. Read-only.
 
 
 ## Syntax

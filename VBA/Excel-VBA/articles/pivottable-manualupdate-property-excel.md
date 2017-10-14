@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property is set to  **False** immediately after your program terminates and after you execute the statement in the Immediate window of the Microsoft Visual Basic Editor.
+This property is set to **False** immediately after your program terminates and after you execute the statement in the Immediate window of the Microsoft Visual Basic Editor.
 
 
 ## Example

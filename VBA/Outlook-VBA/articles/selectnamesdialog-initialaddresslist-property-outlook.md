@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SelectNamesDialog.InitialAddressList Property (Outlook)
 
-Returns or sets an  **[AddressList](addresslist-object-outlook.md)** object that determines the initial address list to be displayed in the **Select Names** dialog box. Read/write.
+Returns or sets an **[AddressList](addresslist-object-outlook.md)** object that determines the initial address list to be displayed in the **Select Names** dialog box. Read/write.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns or sets an  **[AddressList](addresslist-object-outlook.md)** object that
 
 ## Remarks
 
-Setting the  **InitialAddressList** property is the programmatic equivalent to selecting an **AddressList** from the drop-down list for **Address Book** in the **Select Names** dialog box.
+Setting the **InitialAddressList** property is the programmatic equivalent to selecting an **AddressList** from the drop-down list for **Address Book** in the **Select Names** dialog box.
 
-In its default state,  **InitialAddressList** is the **AddressList** that has the property **[AddressList.IsInitialAddressList](addresslist-isinitialaddresslist-property-outlook.md)** set to **True** . **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box.
+In its default state, **InitialAddressList** is the **AddressList** that has the property **[AddressList.IsInitialAddressList](addresslist-isinitialaddresslist-property-outlook.md)** set to **True** . **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then **Options** in the **Address Book** dialog box.
 
 
 ## Example
 
-The following code sample shows how to use  **InitialAddressList** and **[SelectNamesDialog.ShowOnlyInitialAddressList](selectnamesdialog-showonlyinitialaddresslist-property-outlook.md)** to have the **Select Names** dialog box always display only the address list in the default Contacts folder, regardless of the user's setting for the initial address list.
+The following code sample shows how to use **InitialAddressList** and **[SelectNamesDialog.ShowOnlyInitialAddressList](selectnamesdialog-showonlyinitialaddresslist-property-outlook.md)** to have the **Select Names** dialog box always display only the address list in the default Contacts folder, regardless of the user's setting for the initial address list.
 
 
 ```vb

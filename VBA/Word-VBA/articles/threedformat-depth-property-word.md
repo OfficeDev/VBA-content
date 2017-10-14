@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.Depth Property (Word)
 
-Returns or sets the depth of the shape's extrusion. Read/write  **Single** .
+Returns or sets the depth of the shape's extrusion. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the depth of the shape's extrusion. Read/write  **Single** .
 
 ## Remarks
 
-The  **Depth** property can be a value from - 600 through 9600 (positive values produce an extrusion whose front face is the original shape; negative values produce an extrusion whose back face is the original shape).
+The **Depth** property can be a value from - 600 through 9600 (positive values produce an extrusion whose front face is the original shape; negative values produce an extrusion whose back face is the original shape).
 
 
 ## Example

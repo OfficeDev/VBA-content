@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisGlueSettings Enumeration (Visio)
 
-Flags passed to or returned by the  **Document.GlueSettings** property.
+Flags passed to or returned by the **Document.GlueSettings** property.
 
 
 

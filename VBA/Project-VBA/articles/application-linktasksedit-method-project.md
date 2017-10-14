@@ -34,8 +34,8 @@ Edits task dependencies (task links).
 | _Delete_|Optional|**Boolean**|**True** if Project deletes the referenced link. The default value is **False**.|
 | _Type_|Optional|**Long**|The relationship between tasks that become linked. Can be one of the [PjTaskLinkType](pjtasklinktype-enumeration-project.md) constants. The default value is **pjFinishToStart**.|
 | _Lag_|Optional|**Variant**|The duration between linked tasks in default units. To specify lead time between tasks, use a negative value.|
-| _PredecessorProjectName_|Optional|**String**|The name of the subproject in a consolidated project that contains the task identified with  **From**. If **PredecessorProjectName** is omitted, the current project is assumed.|
-| _SuccessorProjectName_|Optional|**String**|The name of the subproject in a consolidated project that contains the task identified with  **To**. If **SuccessorProjectName** is omitted, the current project is assumed.|
+| _PredecessorProjectName_|Optional|**String**|The name of the subproject in a consolidated project that contains the task identified with **From**. If **PredecessorProjectName** is omitted, the current project is assumed.|
+| _SuccessorProjectName_|Optional|**String**|The name of the subproject in a consolidated project that contains the task identified with **To**. If **SuccessorProjectName** is omitted, the current project is assumed.|
 
 ### Return Value
 

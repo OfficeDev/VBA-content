@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.TimelineState Property (Excel)
 
-The timeline-specific state of the  **SlicerCache** object. Read-only
+The timeline-specific state of the **SlicerCache** object. Read-only
 
 
 ## Syntax

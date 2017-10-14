@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NamedSlideShows.Add Method (PowerPoint)
 
-Creates a new named slide show and adds it to the collection of named slide shows in the specified presentation. Returns a  **[NamedSlideShow](namedslideshow-object-powerpoint.md)** object that represents the new named slide show.
+Creates a new named slide show and adds it to the collection of named slide shows in the specified presentation. Returns a **[NamedSlideShow](namedslideshow-object-powerpoint.md)** object that represents the new named slide show.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ NamedSlideShow
 
 ## Remarks
 
-The name you specify when you add a named slide show is the name you use as an argument to the  **[Run](application-run-method-powerpoint.md)** method to run the named slide show.
+The name you specify when you add a named slide show is the name you use as an argument to the **[Run](application-run-method-powerpoint.md)** method to run the named slide show.
 
 
 ## See also

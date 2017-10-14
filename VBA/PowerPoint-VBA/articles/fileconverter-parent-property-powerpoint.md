@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.Parent Property (PowerPoint)
 
-Returns an  **Object** that represents the parent object of the specified **[FileConverter](fileconverter-object-powerpoint.md)** object.
+Returns an **Object** that represents the parent object of the specified **[FileConverter](fileconverter-object-powerpoint.md)** object.
 
 
 ## Syntax

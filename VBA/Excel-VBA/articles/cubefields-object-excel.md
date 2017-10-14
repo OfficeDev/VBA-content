@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CubeFields Object (Excel)
 
-A collection of all  **[CubeField](cubefield-object-excel.md)** objects in a PivotTable report that is based on an OLAP cube. Each **CubeField** object represents a hierarchy or measure field from the cube.
+A collection of all **[CubeField](cubefield-object-excel.md)** objects in a PivotTable report that is based on an OLAP cube. Each **CubeField** object represents a hierarchy or measure field from the cube.
 
 
 ## Example
 
-Use the  **[CubeFields](pivottable-cubefields-property-excel.md)** property to return the **CubeFields** collection. The following example creates a list of cube field names of the data fields in the first OLAP-based PivotTable report on Sheet1.
+Use the **[CubeFields](pivottable-cubefields-property-excel.md)** property to return the **CubeFields** collection. The following example creates a list of cube field names of the data fields in the first OLAP-based PivotTable report on Sheet1.
 
 
 ```vb
@@ -33,7 +33,7 @@ For Each objCubeFld In _
 Next objCubeFld
 ```
 
-Use  **CubeFields** ( _index_ ), where _index_ is the cube field's index number, to return a single **CubeField** object. The following example determines the name of the second cube field in the first PivotTable report on the active worksheet.
+Use **CubeFields** ( _index_ ), where _index_ is the cube field's index number, to return a single **CubeField** object. The following example determines the name of the second cube field in the first PivotTable report on the active worksheet.
 
 
 

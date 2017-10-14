@@ -38,7 +38,7 @@ Double
 
 ## Remarks
 
-If the specified value is nonnumeric,  **ErfC_Precise** generates an error.
+If the specified value is nonnumeric, **ErfC_Precise** generates an error.
 
 
 ## See also

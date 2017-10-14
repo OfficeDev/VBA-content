@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **[MaximumScale](axis-maximumscale-property-excel.md)** property sets this property to **False** .
+Setting the **[MaximumScale](axis-maximumscale-property-excel.md)** property sets this property to **False** .
 
 
 ## Example

@@ -23,7 +23,7 @@ ms.prod: excel
 
 ## Remarks
 
-For silent refresh operations, use the  **FastCombine** property in conjunction with the[Application.DisplayAlerts](application-displayalerts-property-excel.md) property, set to **False**. 
+For silent refresh operations, use the **FastCombine** property in conjunction with the[Application.DisplayAlerts](application-displayalerts-property-excel.md) property, set to **False**. 
 
 
 ## See also

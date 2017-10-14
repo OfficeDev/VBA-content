@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # Shape.InkXML Property (PowerPoint)
 
-Returns a  **String** that contains the InkActionML associated with the specified shape. Read-only.
+Returns a **String** that contains the InkActionML associated with the specified shape. Read-only.
 
 If the specified shape does not contain a ink object more than one ink object occurs , an error is returned.
 
@@ -21,7 +21,7 @@ If the specified shape does not contain a ink object more than one ink object oc
 
 ### Return Value
 
-A  **String** that contains the InkActionML associated with the specified shape.
+A **String** that contains the InkActionML associated with the specified shape.
 
 
 ## See also

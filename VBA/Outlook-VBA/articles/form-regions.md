@@ -30,7 +30,7 @@ Form regions allow greater flexibility in customizing and extending a standard O
 
 - You can add new user interface as adjoining form regions to the default page of any standard Outlook form.
     
-- If you are using adjoining or separate form regions to add user interface to a standard form, you can choose to specify the message class of the form regions as the same message class of the standard form (for example,  **IPM.Contact**), or as a custom message class derived from the standard message class (for example,  **IPM.Contact.PersonalContacts**).
+- If you are using adjoining or separate form regions to add user interface to a standard form, you can choose to specify the message class of the form regions as the same message class of the standard form (for example, **IPM.Contact**), or as a custom message class derived from the standard message class (for example, **IPM.Contact.PersonalContacts**).
     
 - You can use a replacement form region to replace the default page of a standard form, or a replace-all form region to replace the entire standard form. In this case, you must specify a derived message class for the form region and register the form region for that message class.
     

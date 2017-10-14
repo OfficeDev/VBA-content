@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrectEntry Object (Word)
 
-Represents an individual entry in the  **[OMathAutoCorrectEntry](omathautocorrectentry-object-word.md)** collection.
+Represents an individual entry in the **[OMathAutoCorrectEntry](omathautocorrectentry-object-word.md)** collection.
 
 
 ## See also

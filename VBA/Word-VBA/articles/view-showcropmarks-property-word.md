@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowCropMarks Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to show crop marks in the corners of pages to indicate where margins are located. Read/write.
+Returns or sets a **Boolean** that represents whether to show crop marks in the corners of pages to indicate where margins are located. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether to show crop marks in the
 
 ## Remarks
 
-Displaying crop marks does not allow a user to change the margins by dragging the crop marks. Crop marks are only displayed to indicate where margins are located in the page. This property corresponds to the  **Crop marks** check box in the **Advanced** tab of the **Word Options** dialog box.
+Displaying crop marks does not allow a user to change the margins by dragging the crop marks. Crop marks are only displayed to indicate where margins are located in the page. This property corresponds to the **Crop marks** check box in the **Advanced** tab of the **Word Options** dialog box.
 
 
  **Note**  Crop marks are shown by default in East Asian languages and are off by default in all other langauges.

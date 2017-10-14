@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.BevelTopInset Property (Word)
 
-Returns or sets a  **Single** that represents the inset size for the top bevel. Read/write.
+Returns or sets a **Single** that represents the inset size for the top bevel. Read/write.
 
 
 ## Syntax

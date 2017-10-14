@@ -8,25 +8,25 @@ ms.date: 06/08/2017
 
 # Determine When a Shelled Process Ends
 
-When you run the  **[Shell](http://msdn.microsoft.com/library/033bffb0-540f-2c17-2aed-d25d10bedd8c%28Office.15%29.aspx)** function in a Visual Basic for Applications (VBA) procedure, it starts an executable program asynchronously and returns control to the procedure. This shelled program continues to run independently of your procedure until you close it.
+When you run the **[Shell](http://msdn.microsoft.com/library/033bffb0-540f-2c17-2aed-d25d10bedd8c%28Office.15%29.aspx)** function in a Visual Basic for Applications (VBA) procedure, it starts an executable program asynchronously and returns control to the procedure. This shelled program continues to run independently of your procedure until you close it.
 
 If your procedure needs to wait for the shelled process to end, you can use the Windows API to poll the status of the application, but this is not very efficient. This topic explains a more efficient method. 
 
-The Windows API has integrated functionality that enables your application to wait until a shelled process has completed. To use these functions, you need to have a handle to the shelled process. To accomplish this, use the  **CreateProcess** function instead of the **Shell** function to begin your shelled program.
+The Windows API has integrated functionality that enables your application to wait until a shelled process has completed. To use these functions, you need to have a handle to the shelled process. To accomplish this, use the **CreateProcess** function instead of the **Shell** function to begin your shelled program.
 
 
 ## Creating the Shelled Process
 
-To create an addressable process, use the  **CreateProcess** function to start your shelled application. The **CreateProcess** function gives your program the process handle of the shelled process via one of its passed parameters.
+To create an addressable process, use the **CreateProcess** function to start your shelled application. The **CreateProcess** function gives your program the process handle of the shelled process via one of its passed parameters.
 
 
 ## Waiting for the Shelled Process to End
 
-After you use the  **CreateProcess** function to get a process handle, you can pass that handle to the **WaitForSingleObject** function. This causes your VBA procedure to suspend execution until the shelled process ends.
+After you use the **CreateProcess** function to get a process handle, you can pass that handle to the **WaitForSingleObject** function. This causes your VBA procedure to suspend execution until the shelled process ends.
 
-The following steps are necessary to build a VBA procedure that uses the  **CreateProcess** function to run the Windows Notepad application. This code shows how to use the Windows API **CreateProcess** and **WaitForSingleObject** functions to wait until a shelled process ends before resuming execution.
+The following steps are necessary to build a VBA procedure that uses the **CreateProcess** function to run the Windows Notepad application. This code shows how to use the Windows API **CreateProcess** and **WaitForSingleObject** functions to wait until a shelled process ends before resuming execution.
 
-The syntax of the  **CreateProcess** function is complex, so in the example code, it is encapsulated into a function called **ExecCmd**. **ExecCmd** takes one parameter, the command line of the application to execute.
+The syntax of the **CreateProcess** function is complex, so in the example code, it is encapsulated into a function called **ExecCmd**. **ExecCmd** takes one parameter, the command line of the application to execute.
 
 Create a standard module and paste the following lines in the Declarations section: 
 
@@ -116,6 +116,6 @@ Sub Testing()
 End Sub
 ```
 
-Type  **Testing** in the **Immediate** window. Notepad will start. After you close Notepad, a message box will notify you that the process has completed.
+Type **Testing** in the **Immediate** window. Notepad will start. After you close Notepad, a message box will notify you that the process has completed.
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisCellIndices Enumeration (Visio)
 
-Specifies logical indices of cells in ShapeSheet rows of  **[Shape](shape-object-visio.md)** or **[Style](style-object-visio.md)** objects.
+Specifies logical indices of cells in ShapeSheet rows of **[Shape](shape-object-visio.md)** or **[Style](style-object-visio.md)** objects.
 
 
 

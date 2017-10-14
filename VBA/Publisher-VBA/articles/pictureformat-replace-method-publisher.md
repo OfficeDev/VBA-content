@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.Replace Method (Publisher)
 
-Replaces the specified picture. Returns  **Nothing**.
+Replaces the specified picture. Returns **Nothing**.
 
 
 ## Syntax
 
- _expression_. **Replace**( **_Pathname_**,  **_InsertAs_**)
+ _expression_. **Replace**( **_Pathname_**, **_InsertAs_**)
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Parameters
@@ -34,9 +34,9 @@ Replaces the specified picture. Returns  **Nothing**.
 
 ## Remarks
 
-Use the  **Replace** method to update linked picture files that have been modified since they were inserted into the document. Use the **[LinkedFileStatus](pictureformat-linkedfilestatus-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine if a linked picture has been modified.
+Use the **Replace** method to update linked picture files that have been modified since they were inserted into the document. Use the **[LinkedFileStatus](pictureformat-linkedfilestatus-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine if a linked picture has been modified.
 
-The InsertAs parameter can be one of the following  **PbPictureInsertAs** constants declared in the Microsoft Publisher type library. the default value is **pbPictureInsertAsOriginalState**.
+The InsertAs parameter can be one of the following **PbPictureInsertAs** constants declared in the Microsoft Publisher type library. the default value is **pbPictureInsertAsOriginalState**.
 
 
 

@@ -33,17 +33,17 @@ Creates and returns a new Microsoft Outlook item.
 
 ### Return Value
 
-An  **Object** value that represents the new Outlook item.
+An **Object** value that represents the new Outlook item.
 
 
 ## Remarks
 
-The  **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](items-add-method-outlook.md)** method on the **[Items](items-object-outlook.md)** collection.
+The **CreateItem** method can only create default Outlook items. To create new items using a custom form, use the **[Add](items-add-method-outlook.md)** method on the **[Items](items-object-outlook.md)** collection.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](mailitem-object-outlook.md)** object and sets the **BodyFormat** property to **olFormatHTML** . The Body text of the e-mail item will now appear in HTML format.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new **[MailItem](mailitem-object-outlook.md)** object and sets the **BodyFormat** property to **olFormatHTML** . The Body text of the e-mail item will now appear in HTML format.
 
 
 ```vb

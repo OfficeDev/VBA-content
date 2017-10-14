@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.LockQuickStyleSet Property (Word)
 
-Returns or sets a  **Boolean** that represents whether users can change which set of Quick Styles is being used. Read/write.
+Returns or sets a **Boolean** that represents whether users can change which set of Quick Styles is being used. Read/write.
 
 
 ## Syntax

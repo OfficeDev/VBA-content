@@ -30,6 +30,6 @@ Returns an enumerated value that represents the edition of the current instance 
 
 ## Remarks
 
-The  **CurrentEdition** property returns a constant from the **VisEdition** enumeration.
+The **CurrentEdition** property returns a constant from the **VisEdition** enumeration.
 
 

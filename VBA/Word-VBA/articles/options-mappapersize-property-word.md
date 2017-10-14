@@ -37,7 +37,7 @@ This example allows Microsoft Word to adjust paper size according to the country
 Options.MapPaperSize = True
 ```
 
-This example returns the status of the  **Allow A4/Letter paper resizing** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the status of the **Allow A4/Letter paper resizing** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SubForm.FilterOnEmptyMaster Property (Access)
 
-Gets or sets whether all records are displayed when the subform's master field is  **Null**. Read/write **Boolean**.
+Gets or sets whether all records are displayed when the subform's master field is **Null**. Read/write **Boolean**.
 
 
 ## Syntax

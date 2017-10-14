@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Cell.FontColor Property (Project)
 
-Gets or sets the color of the font. Read/write  **PjColor**.
+Gets or sets the color of the font. Read/write **PjColor**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the color of the font. Read/write  **PjColor**.
 
 ## Remarks
 
-The  **FontColor** property can be one of the following **[PjColor](pjcolor-enumeration-project.md)** constants:
+The **FontColor** property can be one of the following **[PjColor](pjcolor-enumeration-project.md)** constants:
 
 
 |||
@@ -36,6 +36,6 @@ The  **FontColor** property can be one of the following **[PjColor](pjcolor-enum
 |**pjGreen**|**pjYellow**|
 |**pjLime**|**pjWhite**|
 |**pjMaroon**||
-To use a hexadecimal RGB value, see the  **[FontColorEx](cell-fontcolorex-property-project.md)** property.
+To use a hexadecimal RGB value, see the **[FontColorEx](cell-fontcolorex-property-project.md)** property.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TabStop.Position Property (Publisher)
 
-Returns or sets a  **Variant** representing the font position relative to the baseline of the text in the specified range. Positive values move the text above the normal baseline, negative values move the text below the baseline. Indeterminate values are returned as -9999.0. Read/write.
+Returns or sets a **Variant** representing the font position relative to the baseline of the text in the specified range. Positive values move the text above the normal baseline, negative values move the text below the baseline. Indeterminate values are returned as -9999.0. Read/write.
 
 
 ## Syntax
 
  _expression_. **Position**
 
- _expression_A variable that represents a  **TabStop** object.
+ _expression_A variable that represents a **TabStop** object.
 
 
 ## Example

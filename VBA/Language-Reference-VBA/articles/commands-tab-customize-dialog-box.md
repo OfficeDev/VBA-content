@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 
 
-Allows you to add controls and modify existing controls on the  **Menu** bar or any toolbar. You can also modify the button image and text of your added commands.
+Allows you to add controls and modify existing controls on the **Menu** bar or any toolbar. You can also modify the button image and text of your added commands.
 
 ## Tab Options
 
@@ -45,13 +45,13 @@ Allows you to change the selected command.
     
 - Name — Changes the name of the control to the name you type into the box. By using the ampersand (&;), you can also set shortcut keys.
     
-- Copy Button Image — Copies the button image to the  **Clipboard**.
+- Copy Button Image — Copies the button image to the **Clipboard**.
     
-- Paste Button Image — Pastes the button image from the  **Clipboard**.
+- Paste Button Image — Pastes the button image from the **Clipboard**.
     
 - Reset Button Image — Resets the button image to its default setting.
     
-- Edit Button Image — Displays the  **Button** **Editor** dialog box.
+- Edit Button Image — Displays the **Button** **Editor** dialog box.
     
 - Change Button Image — Displays a list of button images from which you can select a different image for your button.
     

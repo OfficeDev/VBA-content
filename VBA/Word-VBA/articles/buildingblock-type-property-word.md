@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Type Property (Word)
 
-Returns a  **BuildingBlockType** object that represents the type for a building block. Read-only.
+Returns a **BuildingBlockType** object that represents the type for a building block. Read-only.
 
 
 ## Syntax

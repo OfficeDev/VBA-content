@@ -33,7 +33,7 @@ Sets the cell range to which this formatting rule applies.
 
 ## Remarks
 
-The range must be in the A1 reference style and be entirely contained within the sheet that is the parent of the  **[FormatConditions](formatconditions-object-excel.md)** collection. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). Dollar signs can also be used but they are ignored.
+The range must be in the A1 reference style and be entirely contained within the sheet that is the parent of the **[FormatConditions](formatconditions-object-excel.md)** collection. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). Dollar signs can also be used but they are ignored.
 
 You can also use a local defined name in any part of the range, but the name must be in the language of the macro.
 

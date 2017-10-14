@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.ParentFunction Property (Word)
 
-Returns an  **[OMathFunction](omathfunction-object-word.md)** object that represents the parent, or containing, function. Read-only.
+Returns an **[OMathFunction](omathfunction-object-word.md)** object that represents the parent, or containing, function. Read-only.
 
 
 ## Syntax

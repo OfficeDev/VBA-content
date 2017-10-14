@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 You can specify a cell or range of cells in one statement that identifies the range and also changes a property or applies a method.
 
-A  **Range** object in Visual Basic can be either a single cell or a range of cells. The following topics show the most common ways to identify and work with **Range** objects.
+A **Range** object in Visual Basic can be either a single cell or a range of cells. The following topics show the most common ways to identify and work with **Range** objects.
 
 ## Some ways to reference cells
 

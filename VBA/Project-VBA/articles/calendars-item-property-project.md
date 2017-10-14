@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Calendars.Item Property (Project)
 
-Gets a single  **Calendar** object from the **Calendars** collection. Read-only **Calendar**.
+Gets a single **Calendar** object from the **Calendars** collection. Read-only **Calendar**.
 
 
 ## Syntax

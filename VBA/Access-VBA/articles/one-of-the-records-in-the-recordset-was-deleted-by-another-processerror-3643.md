@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-One or more of the records in the  **Recordset** was deleted after the query was performed. You should refresh the **Recordset** and try the query again.
+One or more of the records in the **Recordset** was deleted after the query was performed. You should refresh the **Recordset** and try the query again.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

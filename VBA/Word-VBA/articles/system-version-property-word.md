@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.Version Property (Word)
 
-Returns the version number of the operating system. Read-only  **String** .
+Returns the version number of the operating system. Read-only **String** .
 
 
 ## Syntax

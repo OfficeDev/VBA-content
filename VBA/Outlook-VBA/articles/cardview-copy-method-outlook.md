@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.Copy Method (Outlook)
 
-Creates a new  **[View](view-object-outlook.md)** object based on the existing **[CardView](cardview-object-outlook.md)** object.
+Creates a new **[View](view-object-outlook.md)** object based on the existing **[CardView](cardview-object-outlook.md)** object.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Creates a new  **[View](view-object-outlook.md)** object based on the existing *
 
 ### Return Value
 
-A  **View** object that represents the new view.
+A **View** object that represents the new view.
 
 
 ## See also

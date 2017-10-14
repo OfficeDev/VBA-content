@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.ProjectNamePrefix Property (Project)
 
-Gets the prefix of the project name of the specified project. Read-only  **String**.
+Gets the prefix of the project name of the specified project. Read-only **String**.
 
 
 ## Syntax

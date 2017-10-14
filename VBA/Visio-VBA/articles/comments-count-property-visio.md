@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comments.Count Property (Visio)
 
-Returns the number of objects in a collection. Read-only  **Long**.
+Returns the number of objects in a collection. Read-only **Long**.
 
 
 ## Syntax

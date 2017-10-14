@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 Specifies how to display the background picture on a control, form, or page.
  **Syntax**
  _object_. **PictureSizeMode** [= _fmPictureSizeMode_ ]
-The  **PictureSizeMode** property syntax has these parts:
+The **PictureSizeMode** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -35,6 +35,6 @@ The settings for  _fmPictureSizeMode_ are:
 | _fmPictureSizeModeStretch_|1|Stretches the picture to fill the form or page. This setting distorts the picture in either the horizontal or vertical direction.|
 | _fmPictureSizeModeZoom_|3|Enlarges the picture, but does not distort the picture in either the horizontal or vertical direction.|
  **Remarks**
-The  **fmPictureSizeModeClip** setting indicates you want to show the picture in its original size and scale. If the form or page is smaller than the picture, this setting only shows the part of the picture that fits within the form or page.
-The  **fmPictureSizeModeStretch** and **fmPictureSizeModeZoom** settings both enlarge the image, but **fmPictureSizeModeStretch** causes distortion. The **fmPictureSizeModeStretch** setting enlarges the image horizontally and vertically until the image reaches the corresponding edges of the[container](vbe-glossary.md) or control. The **fmPictureSizeModeZoom** setting enlarges the image until it reaches either the horizontal or vertical edges of the container or control. If the image reaches the horizontal edges first, any remaining distance to the vertical edges remains blank. If it reaches the vertical edges first, any remaining distance to the horizontal edges remains blank.
+The **fmPictureSizeModeClip** setting indicates you want to show the picture in its original size and scale. If the form or page is smaller than the picture, this setting only shows the part of the picture that fits within the form or page.
+The **fmPictureSizeModeStretch** and **fmPictureSizeModeZoom** settings both enlarge the image, but **fmPictureSizeModeStretch** causes distortion. The **fmPictureSizeModeStretch** setting enlarges the image horizontally and vertically until the image reaches the corresponding edges of the[container](vbe-glossary.md) or control. The **fmPictureSizeModeZoom** setting enlarges the image until it reaches either the horizontal or vertical edges of the container or control. If the image reaches the horizontal edges first, any remaining distance to the vertical edges remains blank. If it reaches the vertical edges first, any remaining distance to the horizontal edges remains blank.
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.RefreshPeriod Property (Excel)
 
-Returns or sets the number of minutes between refreshes.  **Long** Read/Write
+Returns or sets the number of minutes between refreshes. **Long** Read/Write
 
 
 ## Syntax

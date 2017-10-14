@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Selection.ChildShapeRange Property (Publisher)
 
-Returns a  **[ShapeRange](shaperange-object-publisher.md)** object representing the child shapes of a selection.
+Returns a **[ShapeRange](shaperange-object-publisher.md)** object representing the child shapes of a selection.
 
 
 ## Syntax
 
  _expression_. **ChildShapeRange**
 
- _expression_A variable that represents a  **Selection** object.
+ _expression_A variable that represents a **Selection** object.
 
 
 ### Return Value

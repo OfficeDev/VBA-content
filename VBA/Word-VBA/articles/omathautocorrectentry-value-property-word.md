@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrectEntry.Value Property (Word)
 
-Returns or sets a  **String** that represents the contents of an equation auto correct entry. Read/write.
+Returns or sets a **String** that represents the contents of an equation auto correct entry. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.NewPresentation Property (PowerPoint)
 
-Returns a  **NewFile** object that represents a presentation listed on the **New Presentation** task pane. Read-only.
+Returns a **NewFile** object that represents a presentation listed on the **New Presentation** task pane. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ NewFile
 
 ## Example
 
-This example lists a presentation on the  **New Presentation** task pane at the bottom of the last section in the pane.
+This example lists a presentation on the **New Presentation** task pane at the bottom of the last section in the pane.
 
 
 ```vb

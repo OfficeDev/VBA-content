@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.VBE Property (Project)
 
-Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VBE**.
+Gets the **VBE** object that represents the Visual Basic Editor. Read-only **VBE**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VB
 
 ## Remarks
 
-To use the  **VBE** object, set a reference to the Microsoft Visual Basic for Applications Extensibility 5.3 (VBIDE) library.
+To use the **VBE** object, set a reference to the Microsoft Visual Basic for Applications Extensibility 5.3 (VBIDE) library.
 
 

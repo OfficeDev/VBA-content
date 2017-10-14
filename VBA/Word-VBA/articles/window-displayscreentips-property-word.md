@@ -37,7 +37,7 @@ This example enables Word to display comments, footnotes, and endnotes as tips. 
 Application.DisplayScreenTips = True
 ```
 
-This example returns the current status of the  **Show document tooltips on hover** checkbox in the **Page display options** section on the **Display** tab of the **Word Options** dialog box.
+This example returns the current status of the **Show document tooltips on hover** checkbox in the **Page display options** section on the **Display** tab of the **Word Options** dialog box.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkOptionButton.Enter Event (Outlook)
 
-Occurs when the control receives focus, immediately after the previous control's  **Exit** event.
+Occurs when the control receives focus, immediately after the previous control's **Exit** event.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Occurs when the control receives focus, immediately after the previous control's
 
 ## Remarks
 
-This is similar to the  **GotFocus** event exposed by managed-code controls or in Microsoft Visual Basic 6.
+This is similar to the **GotFocus** event exposed by managed-code controls or in Microsoft Visual Basic 6.
 
 
 ## See also

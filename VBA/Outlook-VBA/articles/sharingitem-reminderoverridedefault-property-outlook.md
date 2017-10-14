@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReminderOverrideDefault Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets a **Boolean** value that is **True** if the reminder overrides the default reminder behavior for the specified **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that is **True** if the reminder overrides 
 
 ## Remarks
 
-You must set the  **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](sharingitem-reminderplaysound-property-outlook.md)** and the **[ReminderSoundFile](sharingitem-remindersoundfile-property-outlook.md)** properties.
+You must set the **ReminderOverrideDefault** property to validate the **[ReminderPlaySound](sharingitem-reminderplaysound-property-outlook.md)** and the **[ReminderSoundFile](sharingitem-remindersoundfile-property-outlook.md)** properties.
 
 
 ## See also

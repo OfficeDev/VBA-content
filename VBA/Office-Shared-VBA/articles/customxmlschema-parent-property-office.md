@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLSchema.Parent Property (Office)
 
-Gets the  **Parent** object for the **CustomXMLSchema** object. Read-only.
+Gets the **Parent** object for the **CustomXMLSchema** object. Read-only.
 
 
 ## Syntax

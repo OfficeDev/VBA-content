@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.WorkbookConnection Property (Excel)
 
-Gets or sets the  **[WorkbookConnection](workbookconnection-object-excel.md)** object that represents the data connection used by the specified slicer. Read/Write.
+Gets or sets the **[WorkbookConnection](workbookconnection-object-excel.md)** object that represents the data connection used by the specified slicer. Read/Write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Gets or sets the  **[WorkbookConnection](workbookconnection-object-excel.md)** o
 
 ## Remarks
 
-The  **WorkbookConnection** property only applies to slicers that are based on external data sources ( **SlicerCache** . **SourceType** = **xlExternal** ). Attempting to access the **WorkbookConnection** property for slicers that are connected to PivotTables based on workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ) generates a run-time error.
+The **WorkbookConnection** property only applies to slicers that are based on external data sources ( **SlicerCache** . **SourceType** = **xlExternal** ). Attempting to access the **WorkbookConnection** property for slicers that are connected to PivotTables based on workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ) generates a run-time error.
 
 The workbook connection value must be unique. Setting the workbook connection to a value that already exists generates a run-time error. 
 

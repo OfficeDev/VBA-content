@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-To save and name a new document, use the  **SaveAs** method. Until a document has been saved, the **Save** method generates an error.
+To save and name a new document, use the **SaveAs** method. Until a document has been saved, the **Save** method generates an error.
 
 
 ## Example

@@ -29,13 +29,13 @@ Inserts the contents of the Clipboard. .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _IconIndex_|Optional| **Variant**|If DisplayAsIcon is  **True** , this argument is a number that corresponds to the icon you want to use in the program file specified by IconFilename. Icons appear in the **Change Icon** dialog box: 0 (zero) corresponds to the first icon, 1 corresponds to the second icon, and so on. If this argument is omitted, the first (default) icon is used.|
+| _IconIndex_|Optional| **Variant**|If DisplayAsIcon is **True** , this argument is a number that corresponds to the icon you want to use in the program file specified by IconFilename. Icons appear in the **Change Icon** dialog box: 0 (zero) corresponds to the first icon, 1 corresponds to the second icon, and so on. If this argument is omitted, the first (default) icon is used.|
 | _Link_|Optional| **Variant**| **True** to create a link to the source file of the Clipboard contents. The default value is **False** .|
-| _Placement_|Optional| **Variant**|Can be either of the following  **WdOLEPlacement** constants: **wdFloatOverText** or **wdInLine** . The default value is **wdInLine** .|
+| _Placement_|Optional| **Variant**|Can be either of the following **WdOLEPlacement** constants: **wdFloatOverText** or **wdInLine** . The default value is **wdInLine** .|
 | _DisplayAsIcon_|Optional| **Variant**| **True** to display the link as an icon. The default value is **False** .|
-| _DataType_|Optional| **Variant**|A format for the Clipboard contents when they're inserted into the document. Can be any  **WdPasteDataType** constant.|
-| _IconFileName_|Optional| **Variant**|If DisplayAsIcon is  **True** , this argument is the path and file name for the file in which the icon to be displayed is stored.|
-| _IconLabel_|Optional| **Variant**|If DisplayAsIcon is  **True** , this argument is the text that appears below the icon.|
+| _DataType_|Optional| **Variant**|A format for the Clipboard contents when they're inserted into the document. Can be any **WdPasteDataType** constant.|
+| _IconFileName_|Optional| **Variant**|If DisplayAsIcon is **True** , this argument is the path and file name for the file in which the icon to be displayed is stored.|
+| _IconLabel_|Optional| **Variant**|If DisplayAsIcon is **True** , this argument is the text that appears below the icon.|
 
 ## Example
 

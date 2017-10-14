@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationGroups.GetDefaultNavigationGroup Method (Outlook)
 
-Returns the  **[NavigationGroup](navigationgroup-object-outlook.md)** that corresponds to the selected default shared folder group.
+Returns the **[NavigationGroup](navigationgroup-object-outlook.md)** that corresponds to the selected default shared folder group.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns the  **[NavigationGroup](navigationgroup-object-outlook.md)** that corre
 
 ### Return Value
 
-A  **NavigationGroup** object that represents the selected default folder group.
+A **NavigationGroup** object that represents the selected default folder group.
 
 
 ## Remarks

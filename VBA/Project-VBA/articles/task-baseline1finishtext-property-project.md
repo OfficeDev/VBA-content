@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline1FinishText Property (Project)
 
-Gets or sets a string representation of the baseline finish date of a task. Read/write  **String**.
+Gets or sets a string representation of the baseline finish date of a task. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets a string representation of the baseline finish date of a task. Read
 
 ## Remarks
 
-The  **Baseline1FinishText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline1FinishText** has any value, you should convert the value to a date for the **Baseline1Finish** property.
+The **Baseline1FinishText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline1FinishText** has any value, you should convert the value to a date for the **Baseline1Finish** property.
 
 

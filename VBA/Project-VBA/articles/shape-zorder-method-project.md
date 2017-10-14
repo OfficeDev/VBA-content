@@ -32,7 +32,7 @@ Moves the shape in front of or behind other shapes (that is, changes the positio
 
 ## Remarks
 
-Use the  **ZOrderPosition** property to determine the current position of a shape in the z-order.
+Use the **ZOrderPosition** property to determine the current position of a shape in the z-order.
 
 
 ## See also

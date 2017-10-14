@@ -17,7 +17,7 @@ Assigns a Web page theme to the page you are creating. Read/write.
 
  _expression_. **ThemeName**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
 
 
 ### Return Value
@@ -36,12 +36,12 @@ You can use themes that are provided by Microsoft Visio or themes that you creat
     
 
 
-Your theme file will then appear in the  **Host in Web page** drop-down list in the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**).
+Your theme file will then appear in the **Host in Web page** drop-down list in the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the **Save as type** list, select **Web Page (*.htm;*.html)**, click **Publish**, and then click **Advanced**).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ThemeName** property to assign the "Basic" theme (supplied by Visio) to the Web page you are creating.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ThemeName** property to assign the "Basic" theme (supplied by Visio) to the Web page you are creating.
 
 Before running this macro, replace  _path\filename.htm_ with a valid target path on your computer and the file name that you want to assign to your Web page. Also, replace _your_Visio_path_ and _your_language_ID_ with the path to Microsoft Visio on your computer, for example:
 

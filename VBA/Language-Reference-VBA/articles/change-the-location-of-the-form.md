@@ -21,7 +21,7 @@ Through the user interface:
 At design time:
 
 
-- Set the form's  **Left** and **Top** properties to the appropriate values. You can set these properties through the **Properties** window or through code.
+- Set the form's **Left** and **Top** properties to the appropriate values. You can set these properties through the **Properties** window or through code.
     
 
 

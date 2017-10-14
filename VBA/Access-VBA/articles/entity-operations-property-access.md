@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Entity.Operations Property (Access)
 
-Gets the collection of operations defined for the specified  **[Entity](entity-object-access.md)**. Read-only **[Operations](operations-object-access.md)**.
+Gets the collection of operations defined for the specified **[Entity](entity-object-access.md)**. Read-only **[Operations](operations-object-access.md)**.
 
 
 ## Syntax

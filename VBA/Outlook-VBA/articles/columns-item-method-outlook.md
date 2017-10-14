@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.Item Method (Outlook)
 
-Obtains a  **[Column](column-object-outlook.md)** object specified by _Index_ .
+Obtains a **[Column](column-object-outlook.md)** object specified by _Index_ .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Obtains a  **[Column](column-object-outlook.md)** object specified by _Index_ .
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **Columns** collection or a **String** representing the **[Name](column-name-property-outlook.md)** of the **Column** .|
+| _Index_|Required| **Variant**|A 1-based index value that can be either a **Long** representing the column index for the **Columns** collection or a **String** representing the **[Name](column-name-property-outlook.md)** of the **Column** .|
 
 ### Return Value
 

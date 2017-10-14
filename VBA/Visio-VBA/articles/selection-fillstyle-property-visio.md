@@ -30,18 +30,18 @@ String
 
 ## Remarks
 
-Setting the  **FillStyle** property is equivalent to selecting a style from the **Style** list in the **Fill** dialog box (right-click the shape, point to **Format**, and then click  **Fill**).
+Setting the **FillStyle** property is equivalent to selecting a style from the **Style** list in the **Fill** dialog box (right-click the shape, point to **Format**, and then click **Fill**).
 
-Setting a style to a nonexistent style generates an error. Setting one type of style to another type (for example, setting the  **FillStyle** property to a line style) does nothing. Setting one type of style to another type that has more than one set of attributes changes only the appropriate attributes. For example, setting the **FillStyle** property to a style that has line, text, and fill attributes changes only the fill attributes.
+Setting a style to a nonexistent style generates an error. Setting one type of style to another type (for example, setting the **FillStyle** property to a line style) does nothing. Setting one type of style to another type that has more than one set of attributes changes only the appropriate attributes. For example, setting the **FillStyle** property to a style that has line, text, and fill attributes changes only the fill attributes.
 
-To preserve a shape's local formatting, use the  **FillStyleKeepFmt** property.
+To preserve a shape's local formatting, use the **FillStyleKeepFmt** property.
 
-Beginning with Microsoft Visio 2002, setting the  **FillStyle** property to a zero-length string ("") causes the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
+Beginning with Microsoft Visio 2002, setting the **FillStyle** property to a zero-length string ("") causes the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to draw an oval and set its  **FillStyle** property. To run this macro, open a drawing based on the **Basic Diagram** template.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to draw an oval and set its **FillStyle** property. To run this macro, open a drawing based on the **Basic Diagram** template.
 
 
 ```vb

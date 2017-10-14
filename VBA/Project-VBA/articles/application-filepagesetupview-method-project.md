@@ -45,6 +45,6 @@ Sets up view-specific options for printing.
 
 ## Remarks
 
-Using the  **FilePageSetupView** method without specifying any arguments displays the **Page Setup** dialog box with the **View** tab selected.The **FilePageSetupView** method is not available when the Calendar is the active view.
+Using the **FilePageSetupView** method without specifying any arguments displays the **Page Setup** dialog box with the **View** tab selected.The **FilePageSetupView** method is not available when the Calendar is the active view.
 
 

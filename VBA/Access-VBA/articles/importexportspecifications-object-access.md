@@ -20,7 +20,7 @@ Represents the collection of available [ImportExportSpecification](importexports
 
 Use the [Add](importexportspecifications-add-method-access.md) method to create a new **ImportExportSpecification** object.
 
-Use the  **ImportExportSpecification** property of the[CodeProject](codeproject-object-access.md) or[CurrentProject](currentproject-object-access.md) object to return the **ImportExportSpecifications** collection.
+Use the **ImportExportSpecification** property of the[CodeProject](codeproject-object-access.md) or[CurrentProject](currentproject-object-access.md) object to return the **ImportExportSpecifications** collection.
 
 
 ## Methods

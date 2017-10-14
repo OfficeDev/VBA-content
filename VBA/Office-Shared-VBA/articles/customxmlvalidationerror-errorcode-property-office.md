@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationError.ErrorCode Property (Office)
 
-Gets a number representing a validation error in a  **CustomXMLValidationError** object. Read-only.
+Gets a number representing a validation error in a **CustomXMLValidationError** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Line Property (Excel)
 
-Returns a  **[LineFormat](lineformat-object-excel.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border). Read-only.
+Returns a **[LineFormat](lineformat-object-excel.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border). Read-only.
 
 
 ## Syntax

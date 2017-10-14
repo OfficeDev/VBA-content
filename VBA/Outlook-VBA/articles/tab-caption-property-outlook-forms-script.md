@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Tab.Caption Property (Outlook Forms Script)
 
-Returns or sets a  **String** that specifies the text that appears on the tab. Read/write.
+Returns or sets a **String** that specifies the text that appears on the tab. Read/write.
 
 
 ## Syntax
 
  _expression_. **Caption**
 
- _expression_A variable that represents a  **Tab** object.
+ _expression_A variable that represents a **Tab** object.
 
 
 ## Remarks

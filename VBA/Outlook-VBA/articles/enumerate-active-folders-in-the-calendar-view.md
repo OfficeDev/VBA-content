@@ -8,20 +8,20 @@ ms.date: 06/08/2017
 
 # Enumerate Active Folders in the Calendar View
 
-In Microsoft Outlook, you can traverse the group and folder hierarchy of a module in the Navigation Pane by using the  **[NavigationGroups](navigationgroups-object-outlook.md)** and **[NavigationFolders](navigationfolders-object-outlook.md)** collections. The **NavigationGroups** collection of the **[NavigationModule](navigationmodule-object-outlook.md)** object contains each navigation group displayed in a navigation module, while the **NavigationFolders** collection of the **[NavigationGroup](navigationgroup-object-outlook.md)** object contains each navigation folder displayed in a navigation group.
+In Microsoft Outlook, you can traverse the group and folder hierarchy of a module in the Navigation Pane by using the **[NavigationGroups](navigationgroups-object-outlook.md)** and **[NavigationFolders](navigationfolders-object-outlook.md)** collections. The **NavigationGroups** collection of the **[NavigationModule](navigationmodule-object-outlook.md)** object contains each navigation group displayed in a navigation module, while the **NavigationFolders** collection of the **[NavigationGroup](navigationgroup-object-outlook.md)** object contains each navigation folder displayed in a navigation group.
 
 By using these collections in combination, you can enumerate each navigation folder for a navigation module displayed in the Navigation Pane. 
 
-The following sample counts the number of navigation folders selected for display in the  **Calendar** navigation module of the Navigation Pane. The sample performs the following actions:
+The following sample counts the number of navigation folders selected for display in the **Calendar** navigation module of the Navigation Pane. The sample performs the following actions:
 
 
-1. The sample first obtains a reference to the  **[NavigationPane](navigationpane-object-outlook.md)** object for the active explorer.
+1. The sample first obtains a reference to the **[NavigationPane](navigationpane-object-outlook.md)** object for the active explorer.
     
-2. It then uses the  **[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)** method of the **[NavigationModules](navigationmodules-object-outlook.md)** collection to obtain a reference to the **[CalendarModule](calendarmodule-object-outlook.md)** object from the **NavigationPane** object.
+2. It then uses the **[GetNavigationModule](navigationmodules-getnavigationmodule-method-outlook.md)** method of the **[NavigationModules](navigationmodules-object-outlook.md)** collection to obtain a reference to the **[CalendarModule](calendarmodule-object-outlook.md)** object from the **NavigationPane** object.
     
-3. The sample then enumerates through the  **[NavigationGroups](calendarmodule-navigationgroups-property-outlook.md)** collection of the **CalendarModule** object. For each **NavigationGroup** in the collection, the sample then enumerates the **[NavigationFolders](navigationgroup-navigationfolders-property-outlook.md)** collection.
+3. The sample then enumerates through the **[NavigationGroups](calendarmodule-navigationgroups-property-outlook.md)** collection of the **CalendarModule** object. For each **NavigationGroup** in the collection, the sample then enumerates the **[NavigationFolders](navigationgroup-navigationfolders-property-outlook.md)** collection.
     
-4. If the  **[IsSelected](navigationfolder-isselected-property-outlook.md)** property of a **NavigationFolder** object contained in the **NavigationFolders** collection is set to **True**, the variable  `intCounter` is incremented.
+4. If the **[IsSelected](navigationfolder-isselected-property-outlook.md)** property of a **NavigationFolder** object contained in the **NavigationFolders** collection is set to **True**, the variable  `intCounter` is incremented.
     
 5. Finally, the sample displays a dialog box containing the value of  `intCounter`.
     

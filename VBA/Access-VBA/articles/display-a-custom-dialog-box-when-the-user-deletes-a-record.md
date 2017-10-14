@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 When you select a record on a form and delete it, Access displays a dialog box asking the user to confirm the deletion of the record. If you want, you can prevent this dialog box from appearing in two ways. You can cancel the [BeforeDelConfirm](form-beforedelconfirm-event-access.md) event, in which case the deletion is canceled. Or you can set the _Response_ argument of the **BeforeDelConfirm** event procedure to **acDataErrContinue**, in which case the deletion is confirmed.
 
-You can use a  **BeforeDelConfirm** event procedure to display a custom dialog box and handle users' responses. The following example demonstrates how to use a custom dialog box to ask users whether they want to cancel or proceed with the record deletion.
+You can use a **BeforeDelConfirm** event procedure to display a custom dialog box and handle users' responses. The following example demonstrates how to use a custom dialog box to ask users whether they want to cancel or proceed with the record deletion.
 
 
 

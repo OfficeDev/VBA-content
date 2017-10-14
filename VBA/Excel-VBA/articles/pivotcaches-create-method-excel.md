@@ -40,16 +40,16 @@ PivotCache
 
 ## Remarks
 
-The following two  **xlPivotTableSourceType** constants are not supported when creating a PivotCache using this method: **xlPivotTable** and **xlScenario** . A run-time error is returned if one of these two constants is supplied.
+The following two **xlPivotTableSourceType** constants are not supported when creating a PivotCache using this method: **xlPivotTable** and **xlScenario** . A run-time error is returned if one of these two constants is supplied.
 
 The  _SourceData_ argument is required if _SourceType_ isn't **xlExternal** . It should be passed a Range (when _SourceType_ is either **xlConsolidation** or **xlDatabase** ) or an Excel Workbook Connection object (when _SourceType_ is **xlExternal** ). When passing a Range, it is recommended to either use a string to specify the workbook, worksheet, and cell range, or set up a named range and pass the name as a string. Passing a **Range** object may cause "type mismatch" errors unexpectedly.
 
-When not supplied, the version of the PivotTable will be  **xlPivotTableVersion12** . The use of the **xlPivotTableVersionCurrent** constant is not allowed and returns a run-time error if it is supplied.
+When not supplied, the version of the PivotTable will be **xlPivotTableVersion12** . The use of the **xlPivotTableVersionCurrent** constant is not allowed and returns a run-time error if it is supplied.
 
 
 ## Example
 
-The following code sample defines a connection and then creates a connection to a  **PivotCache** .
+The following code sample defines a connection and then creates a connection to a **PivotCache** .
 
 
 ```vb

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The specified region has been searched
 
-When you click the  **Find Next** and **Replace** buttons in the **Replace** dialog box, the total number of replacements isn't specified. This condition has the following cause and effect:
+When you click the **Find Next** and **Replace** buttons in the **Replace** dialog box, the total number of replacements isn't specified. This condition has the following cause and effect:
 
 
 

@@ -19,14 +19,14 @@ Represents a shape's three-dimensional formatting.
 
 ## Remarks
 
-You cannot apply three-dimensional formatting to some kinds of shapes, such as beveled shapes. Most of the properties and methods of the  **ThreeDFormat** object for such a shape will fail.
+You cannot apply three-dimensional formatting to some kinds of shapes, such as beveled shapes. Most of the properties and methods of the **ThreeDFormat** object for such a shape will fail.
  
 
  
 
 ## Example
 
-Use the  **[ThreeD](shape-threed-property-publisher.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one in the active publication.
+Use the **[ThreeD](shape-threed-property-publisher.md)** property to return a **ThreeDFormat** object. This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one in the active publication.
  
 
  

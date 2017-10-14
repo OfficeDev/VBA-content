@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.HyphenationZone Property (Word)
 
-Returns or sets the width of the hyphenation zone, in points. Read/write  **Long** .
+Returns or sets the width of the hyphenation zone, in points. Read/write **Long** .
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The hyphenation zone is the maximum amount of space that Microsoft Word leaves b
 ## Example
 
 
- **Note**  Unless Word is in compatibility mode,  **HyphenationZone** always returns 99999999.
+ **Note**  Unless Word is in compatibility mode, **HyphenationZone** always returns 99999999.
 
 This example enables automatic hyphenation for MyReport.doc. The hyphenation zone is set to 36 points (0.5 inch).
 

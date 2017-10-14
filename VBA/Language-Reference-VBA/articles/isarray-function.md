@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Boolean** value indicating whether a[variable](vbe-glossary.md) is an[array](vbe-glossary.md).
+Returns a **Boolean** value indicating whether a[variable](vbe-glossary.md) is an[array](vbe-glossary.md).
  **Syntax**
  **IsArray(**_varname_**)**
 The required  _varname_[argument](vbe-glossary.md) is an[identifier](vbe-glossary.md) specifying a variable.
@@ -22,7 +22,7 @@ The required  _varname_[argument](vbe-glossary.md) is an[identifier](vbe-glossar
 
 ## Example
 
-This example uses the  **IsArray** function to check if a variable is an array.
+This example uses the **IsArray** function to check if a variable is an array.
 
 
 ```vb

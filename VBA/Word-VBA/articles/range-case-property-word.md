@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Case Property (Word)
 
-Returns or sets a  **WdCharacterCase** constant that represents the case of the text in the specified range. Read/write.
+Returns or sets a **WdCharacterCase** constant that represents the case of the text in the specified range. Read/write.
 
 
 ## Syntax

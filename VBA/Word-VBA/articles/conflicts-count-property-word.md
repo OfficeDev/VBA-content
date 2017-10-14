@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflicts.Count Property (Word)
 
-Returns the number of items in the  **Conflicts** collection. Read-only.
+Returns the number of items in the **Conflicts** collection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the number of items in the  **Conflicts** collection. Read-only.
 
 ## Example
 
-The following code example gets the number of  **Conflict** objects in the active document.
+The following code example gets the number of **Conflict** objects in the active document.
 
 
 ```vb

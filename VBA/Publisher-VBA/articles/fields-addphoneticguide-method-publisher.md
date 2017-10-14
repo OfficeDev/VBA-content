@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Fields.AddPhoneticGuide Method (Publisher)
 
-Returns a  **[Field](field-object-publisher.md)** object that represents phonetic text added to the specified range.
+Returns a **[Field](field-object-publisher.md)** object that represents phonetic text added to the specified range.
 
 
 ## Syntax
 
- _expression_. **AddPhoneticGuide**( **_Range_**,  **_Text_**,  **_Alignment_**,  **_Raise_**,  **_FontName_**,  **_FontSize_**)
+ _expression_. **AddPhoneticGuide**( **_Range_**, **_Text_**, **_Alignment_**, **_Raise_**, **_FontName_**, **_FontSize_**)
 
- _expression_A variable that represents a  **Fields** object.
+ _expression_A variable that represents a **Fields** object.
 
 
 ### Parameters
@@ -43,7 +43,7 @@ Field
 
 ## Remarks
 
-The Alignment parameter can be one of the  **PbPhoneticGuideAlignmentType** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Alignment parameter can be one of the **PbPhoneticGuideAlignmentType** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

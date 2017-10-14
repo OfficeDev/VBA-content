@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomControl.GridlineWidthLeft Property (Access)
 
-Gets or sets the width of the left gridline for the specified text box. Read/write  **Byte**.
+Gets or sets the width of the left gridline for the specified text box. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the width of the left gridline for the specified text box. Read/wri
 
 ## Remarks
 
-The  **LeftGridlineWidth** property uses the following settings.
+The **LeftGridlineWidth** property uses the following settings.
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ChartArea.Shadow Property (PowerPoint)
 
-Returns or sets a value that determines whether the object has a shadow. Read/write  **Boolean**.
+Returns or sets a value that determines whether the object has a shadow. Read/write **Boolean**.
 
 
 ## Syntax

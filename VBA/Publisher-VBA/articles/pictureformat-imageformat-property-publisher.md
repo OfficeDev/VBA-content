@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.ImageFormat Property (Publisher)
 
-Returns a  **PbImageFormat** constant that represents the image format of a picture as determined by Microsoft Windows Graphics Device Interface (GDI+). Read-only.
+Returns a **PbImageFormat** constant that represents the image format of a picture as determined by Microsoft Windows Graphics Device Interface (GDI+). Read-only.
 
 
 ## Syntax
 
  _expression_. **ImageFormat**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -30,11 +30,11 @@ PbImageFormat
 
 ## Remarks
 
-The  **ImageFormat** property applies to the original picture, rather than the placeholder picture, if there is one.
+The **ImageFormat** property applies to the original picture, rather than the placeholder picture, if there is one.
 
-The  **ImageFormat** property value can be one of the **[PbImageFormat](pbimageformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **ImageFormat** property value can be one of the **[PbImageFormat](pbimageformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-The  **ImageFormat** property indicates the format of the picture after it has been imported into the Windows environment, rather than its original file format. If the picture's file format is not natively supported by the Windows operating system, the picture is converted to an analogous format that is natively supported. As a result, the **pbImageFormatCMYKJPEG**,  **pbImageFormatDIB**,  **pbImageFormatEMF**,  **pbImageFormatGIF**, and  **pbImageFormatPICT** constants will rarely, if ever, be returned. Consult the table below for specific file format conversions.
+The **ImageFormat** property indicates the format of the picture after it has been imported into the Windows environment, rather than its original file format. If the picture's file format is not natively supported by the Windows operating system, the picture is converted to an analogous format that is natively supported. As a result, the **pbImageFormatCMYKJPEG**, **pbImageFormatDIB**, **pbImageFormatEMF**, **pbImageFormatGIF**, and **pbImageFormatPICT** constants will rarely, if ever, be returned. Consult the table below for specific file format conversions.
 
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.HiddenFields Property (Publisher)
 
-Returns a  **WebHiddenFields** object that represents hidden Web fields attached to a Submit command button.
+Returns a **WebHiddenFields** object that represents hidden Web fields attached to a Submit command button.
 
 
 ## Syntax
 
  _expression_. **HiddenFields**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ### Return Value

@@ -29,7 +29,7 @@ Glues one shape to another from a cell in the first shape to an  _x_, _y_ positi
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _SheetObject_|Required| **[IVSHAPE]**|An expression that returns the  **Shape** object to be glued to.|
+| _SheetObject_|Required| **[IVSHAPE]**|An expression that returns the **Shape** object to be glued to.|
 | _xPercent_|Required| **Double**|The x-coordinate of the position to glue to.|
 | _yPercent_|Required| **Double**|The y-coordinate of the position to glue to.|
 
@@ -40,7 +40,7 @@ Nothing
 
 ## Remarks
 
-The  **GlueToPos** method creates a new connection point at the location determined by _xPercent_ and _yPercent_, which represent decimal fractions of the specified shape's width and height, respectively, rather than coordinates. For example, the following creates a connection point at the center of  _SheetObject_ and glues the part of the shape that _cellObject_ represents to that point:
+The **GlueToPos** method creates a new connection point at the location determined by _xPercent_ and _yPercent_, which represent decimal fractions of the specified shape's width and height, respectively, rather than coordinates. For example, the following creates a connection point at the center of  _SheetObject_ and glues the part of the shape that _cellObject_ represents to that point:
 
  _cellObject_. **GlueToPos**_SheetObject_, 0.5, 0.5
 
@@ -49,7 +49,7 @@ Gluing the X cell of a Controls section row or a BeginX or EndX cell automatical
 
 ## Example
 
-The following example shows how to use the  **GlueToPos** method to glue shapes together.
+The following example shows how to use the **GlueToPos** method to glue shapes together.
 
 
 ```vb

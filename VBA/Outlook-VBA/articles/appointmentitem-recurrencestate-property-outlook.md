@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.RecurrenceState Property (Outlook)
 
-Returns an  **[OlRecurrenceState](olrecurrencestate-enumeration-outlook.md)** constant indicating the recurrence property of the specified object. Read-only.
+Returns an **[OlRecurrenceState](olrecurrencestate-enumeration-outlook.md)** constant indicating the recurrence property of the specified object. Read-only.
 
 
 ## Syntax

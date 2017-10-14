@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.UpdateMethod Property (Access)
 
-This property has been deprecated. Use the  **[UpdateOptions](objectframe-updateoptions-property-access.md)** property to specify how a linkedOLE object is updated.
+This property has been deprecated. Use the **[UpdateOptions](objectframe-updateoptions-property-access.md)** property to specify how a linkedOLE object is updated.
 
 
 ## Syntax

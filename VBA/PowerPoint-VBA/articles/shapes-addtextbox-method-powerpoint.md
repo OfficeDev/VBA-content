@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddTextbox Method (PowerPoint)
 
-Creates a text box. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new text box.
+Creates a text box. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new text box.
 
 
 ## Syntax

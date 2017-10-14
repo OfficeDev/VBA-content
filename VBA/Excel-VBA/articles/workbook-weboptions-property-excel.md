@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.WebOptions Property (Excel)
 
-Returns the  **[WebOptions](weboptions-object-excel.md)** collection, which contains workbook-level attributes used by Microsoft Excel when you save a document as a Web page or open a Web page. Read-only.
+Returns the **[WebOptions](weboptions-object-excel.md)** collection, which contains workbook-level attributes used by Microsoft Excel when you save a document as a Web page or open a Web page. Read-only.
 
 
 ## Syntax

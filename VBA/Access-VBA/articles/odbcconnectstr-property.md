@@ -17,10 +17,10 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **ODBCConnectStr** property in an SQL pass-through query to specify the Open Database Connectivity (ODBC) connection string for the query.
+You can use the **ODBCConnectStr** property in an SQL pass-through query to specify the Open Database Connectivity (ODBC) connection string for the query.
 
 
- **Note**  The  **ODBCConnectStr** property applies only to pass-through queries.
+ **Note**  The **ODBCConnectStr** property applies only to pass-through queries.
 
 
 ## Setting
@@ -34,10 +34,10 @@ You can also use the ODBC Connection String Builder to create the ODBC connectio
 
 ## Remarks
 
-The default setting for this property is the string "ODBC;", which Microsoft Access restores if you delete an existing setting. When the  **ODBCConnectStr** property is set to "ODBC;", Microsoft Access will prompt you for a connection string whenever the query is used but won't store the connect string. You must enter a connection string in the **ODBCConnectStr** property box if you want Microsoft Access to store the connection string.
+The default setting for this property is the string "ODBC;", which Microsoft Access restores if you delete an existing setting. When the **ODBCConnectStr** property is set to "ODBC;", Microsoft Access will prompt you for a connection string whenever the query is used but won't store the connect string. You must enter a connection string in the **ODBCConnectStr** property box if you want Microsoft Access to store the connection string.
 
 
- **Tip**  If you know the full connection string for the SQL database, enter it in the  **ODBCConnectStr** property box. This way you will avoid the need to enter the connection string in the ODBC connection dialog box each time you use the query.
+ **Tip**  If you know the full connection string for the SQL database, enter it in the **ODBCConnectStr** property box. This way you will avoid the need to enter the connection string in the ODBC connection dialog box each time you use the query.
 
 The connection string is different for different types of ODBC data sources. For example, to connect to the Human Resources data source on the HRSRVR server (a Microsoft SQL Server) by using the logon identification (ID) Smith and the password Sesame, you can use the following connection string.
 

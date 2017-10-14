@@ -18,7 +18,7 @@ A control that displays the contents of a page.
 
 ## Remarks
 
-Before you use this control for the first time in the forms designer, add the Microsoft Outlook Page Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic  **UserForm** object in the Visual Basic Editor. This control supports Microsoft Windows themes.
+Before you use this control for the first time in the forms designer, add the Microsoft Outlook Page Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic **UserForm** object in the Visual Basic Editor. This control supports Microsoft Windows themes.
 
 Currently this control supports two Outlook pages: the free/busy scheduling page and the meeting request tracking page. The following is an example of the page control displaying a free/busy schedule at runtime. 
 

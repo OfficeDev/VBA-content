@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.LineType Property (Word)
 
-Returns a  **wdLineType** constant that indicates whether a line is a text line or a table row.
+Returns a **wdLineType** constant that indicates whether a line is a text line or a table row.
 
 
 ## Syntax

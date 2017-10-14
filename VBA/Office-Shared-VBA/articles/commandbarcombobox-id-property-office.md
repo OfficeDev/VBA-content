@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Id Property (Office)
 
-Gets the ID for a built-in  **CommandBarComboBox** control. Read-only.
+Gets the ID for a built-in **CommandBarComboBox** control. Read-only.
 
 
 ## Syntax
@@ -22,12 +22,12 @@ Gets the ID for a built-in  **CommandBarComboBox** control. Read-only.
 
 ## Remarks
 
-A control's ID determines the built-in action for that control. The value of the  **Id** property for all custom controls is 1.
+A control's ID determines the built-in action for that control. The value of the **Id** property for all custom controls is 1.
 
 
 ## Example
 
-This example changes the button face of the first control on the command bar named "Custom2" if the button's  **ID** value is less than 25.
+This example changes the button face of the first control on the command bar named "Custom2" if the button's **ID** value is less than 25.
 
 
 ```
@@ -40,7 +40,7 @@ With ctrl
 End With
 ```
 
-The following example changes the caption of every control on the toolbar named "Standard" to the current value of the  **Id** property for that control.
+The following example changes the caption of every control on the toolbar named "Standard" to the current value of the **Id** property for that control.
 
 
 

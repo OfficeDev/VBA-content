@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.ActionURL Property (Publisher)
 
-Returns or sets a  **String** that represents the URL of the server-side script to execute in response to a Submit button click. Read/write.
+Returns or sets a **String** that represents the URL of the server-side script to execute in response to a Submit button click. Read/write.
 
 
 ## Syntax
 
  _expression_. **ActionURL**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The default value for the  **ActionURL** property is "http://example.microsoft.com/~user/ispscript.cgi". This property is ignored for Reset command buttons.
+The default value for the **ActionURL** property is "http://example.microsoft.com/~user/ispscript.cgi". This property is ignored for Reset command buttons.
 
 
 ## Example

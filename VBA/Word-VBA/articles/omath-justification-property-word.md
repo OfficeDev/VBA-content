@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.Justification Property (Word)
 
-Returns or sets a  **[WdOMathJc](wdomathjc-enumeration-word.md)** that represents the justification for an equation. Read/write.
+Returns or sets a **[WdOMathJc](wdomathjc-enumeration-word.md)** that represents the justification for an equation. Read/write.
 
 
 ## Syntax

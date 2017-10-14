@@ -15,7 +15,7 @@ Returns an object that represents the container object for the control. Read-onl
 
  _expression_. **OutlookApplication**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

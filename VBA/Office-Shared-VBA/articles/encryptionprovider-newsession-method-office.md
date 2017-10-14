@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EncryptionProvider.NewSession Method (Office)
 
-Used by the  **EncryptionProvider** object to create a new encryption session. This session is used by the provider to cache document-specific information about the encryption, users, and rights while the document is in memory.
+Used by the **EncryptionProvider** object to create a new encryption session. This session is used by the provider to cache document-specific information about the encryption, users, and rights while the document is in memory.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ Sets up footers for printing.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the view or report for which to set up footers for printing.|
-| _Alignment_|Optional|**Long**|The alignment of the text in the footer. Can be one of the following  **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjCenter**.|
+| _Alignment_|Optional|**Long**|The alignment of the text in the footer. Can be one of the following **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**. The default value is **pjCenter**.|
 | _Text_|Optional|**String**|The text to display in the footer. The following special format codes may be included as part of the footer:
 
 |**Format Code**|**Description**|
@@ -70,7 +70,7 @@ Sets up footers for printing.
 
 ## Remarks
 
-Using the  **FilePageSetupFooter** method without specifying any arguments displays the **Page Setup** dialog box with the **Footer** tab selected.
+Using the **FilePageSetupFooter** method without specifying any arguments displays the **Page Setup** dialog box with the **Footer** tab selected.
 
 
 ## Example

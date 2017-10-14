@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Click Event (Office)
 
-Occurs when the user clicks a  **CommandBarButton** object.
+Occurs when the user clicks a **CommandBarButton** object.
 
 
 ## 
@@ -36,16 +36,16 @@ Occurs when the user clicks a  **CommandBarButton** object.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Ctrl_|Required|**CommandBarButton**|Represents a CommandBar button|
-| _CancelDefault_|Required|**Boolean**|Is  **False** if the default behavior associated with the CommandBarButton controls occurs, unless it's canceled by another process or add-in.|
+| _CancelDefault_|Required|**Boolean**|Is **False** if the default behavior associated with the CommandBarButton controls occurs, unless it's canceled by another process or add-in.|
 
 ## Remarks
 
-The  **Click** event is recognized by the **CommandBarButton** object. To return the **Click** event for a particular **CommandBarButton** control, use the **WithEvents** keyword to declare a variable, and then set the variable to the control.
+The **Click** event is recognized by the **CommandBarButton** object. To return the **Click** event for a particular **CommandBarButton** control, use the **WithEvents** keyword to declare a variable, and then set the variable to the control.
 
 
 ## Example
 
-The following example creates a command bar button on the  **File** menu of the host application that enables the user to save a workbook as a comma-separated value file. (This example works in all applications, but the context of saving as CSV is applicable to Microsoft Excel.)
+The following example creates a command bar button on the **File** menu of the host application that enables the user to save a workbook as a comma-separated value file. (This example works in all applications, but the context of saving as CSV is applicable to Microsoft Excel.)
 
 
 ```

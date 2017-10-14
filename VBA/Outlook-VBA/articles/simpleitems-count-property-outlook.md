@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SimpleItems.Count Property (Outlook)
 
-Returns a  **Long** that indicates the count of objects in the **[SimpleItems](simpleitems-object-outlook.md)** collection. Read-only.
+Returns a **Long** that indicates the count of objects in the **[SimpleItems](simpleitems-object-outlook.md)** collection. Read-only.
 
 
 ## Syntax

@@ -20,12 +20,12 @@ Represents an Outlook item that is in conflict with another Outlook item.
 
  Each Outlook item has a **[Conflicts](conflicts-object-outlook.md)** collection object associated with it that represents all the items that are in conflict with that item.
 
-Use the  **[Item](conflicts-item-method-outlook.md)** method to retrieve a particular **Conflict** object from the **Conflicts** collection object, for example:
+Use the **[Item](conflicts-item-method-outlook.md)** method to retrieve a particular **Conflict** object from the **Conflicts** collection object, for example:
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example retrieves a  **Conflict** object from the **Conflicts** collection object.
+The following Visual Basic for Applications (VBA) example retrieves a **Conflict** object from the **Conflicts** collection object.
 
 
 ```

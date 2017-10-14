@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureInfo.IsValid Property (Office)
 
-Gets a  **Boolean** value indicating whether the signature was successfully validated following signature verification. Read-only.
+Gets a **Boolean** value indicating whether the signature was successfully validated following signature verification. Read-only.
 
 
 ## Syntax

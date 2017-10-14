@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.ScreenTip Property (Excel)
 
-Returns or sets the ScreenTip text for the specified hyperlink. Read/write  **String** .
+Returns or sets the ScreenTip text for the specified hyperlink. Read/write **String** .
 
 
 ## Syntax

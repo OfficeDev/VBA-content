@@ -30,7 +30,7 @@ PpTransitionSpeed
 
 ## Remarks
 
-The value of the  **Speed** property can be one of these **PpTransitionSpeed** constants.
+The value of the **Speed** property can be one of these **PpTransitionSpeed** constants.
 
 
 ||

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Subproject.Index Property (Project)
 
-Gets the index of a  **Subproject** object in the **Subprojects** containing object. Read-only **Long**.
+Gets the index of a **Subproject** object in the **Subprojects** containing object. Read-only **Long**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the index of a  **Subproject** object in the **Subprojects** containing obj
 
 ## Remarks
 
-The  **Index** properties of different objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
+The **Index** properties of different objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
 
 

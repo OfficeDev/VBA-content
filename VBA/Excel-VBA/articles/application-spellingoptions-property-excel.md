@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SpellingOptions Property (Excel)
 
-Returns a  **[SpellingOptions](spellingoptions-object-excel.md)** object that represents the spelling options of the application.
+Returns a **[SpellingOptions](spellingoptions-object-excel.md)** object that represents the spelling options of the application.
 
 
 ## Syntax

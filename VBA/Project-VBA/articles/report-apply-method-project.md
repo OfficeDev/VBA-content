@@ -23,7 +23,7 @@ Changes the view to display the report.
 
 ## Example
 
-The following example determines whether a report named  **Report 1** exists, and if so, displays the report.
+The following example determines whether a report named **Report 1** exists, and if so, displays the report.
 
 
 ```vb

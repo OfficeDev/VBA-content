@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.FileDialog Property (Publisher)
 
-Returns a  **FileDialog** object that represents a single instance of a file dialog box.
+Returns a **FileDialog** object that represents a single instance of a file dialog box.
 
 
 ## Syntax
 
  _expression_. **FileDialog**( **_Type_**)
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Parameters
@@ -38,12 +38,12 @@ FileDialog
 
 ## Remarks
 
-The Type parmater can be one of the  ** [MsoFileDialogType](http://msdn.microsoft.com/library/ee445a67-1193-f446-4bd2-963c07fba5ae%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The Type parmater can be one of the ** [MsoFileDialogType](http://msdn.microsoft.com/library/ee445a67-1193-f446-4bd2-963c07fba5ae%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example
 
-This example displays the  **Save As** dialog box and stores the file name specified by the user.
+This example displays the **Save As** dialog box and stores the file name specified by the user.
 
 
 ```vb

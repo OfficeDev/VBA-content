@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationErrors Object (Office)
 
-Represents a collection of  **CustomXMLValidationError** objects.
+Represents a collection of **CustomXMLValidationError** objects.
 
 
 ## Example
 
-The following example adds a custom part and then adds a child node to that part. Any errors that occur are added to the  **CustomXMLValidationErrors** collection and then displayed in the Debug window.
+The following example adds a custom part and then adds a child node to that part. Any errors that occur are added to the **CustomXMLValidationErrors** collection and then displayed in the Debug window.
 
 
 ```

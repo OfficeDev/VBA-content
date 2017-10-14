@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.GraphicItems Property (Visio)
 
-Returns the  **GraphicItems** collection that the master contains. Read-only.
+Returns the **GraphicItems** collection that the master contains. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,6 +33,6 @@ GraphicItems
 
 ## Remarks
 
-The master must be of type  **visTypeDataGraphic** .
+The master must be of type **visTypeDataGraphic** .
 
 

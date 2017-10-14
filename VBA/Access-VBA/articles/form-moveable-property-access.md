@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.Moveable Property (Access)
 
-Returns or sets a  **Boolean** indicating whether the specified form can be moved by the user; **True** if it can be moved. Read/write.
+Returns or sets a **Boolean** indicating whether the specified form can be moved by the user; **True** if it can be moved. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** indicating whether the specified form can be move
 
 ## Remarks
 
-You can use the  **Move** method to programmatically move a form or report regardless of the value of the **Moveable** property.
+You can use the **Move** method to programmatically move a form or report regardless of the value of the **Moveable** property.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbPhoneticGuideAlignmentType Enumeration (Publisher)
 
-Constants passed to the  ** [Fields.AddPhoneticGuide](fields-addphoneticguide-method-publisher.md)** method that specify the alignment of the added phonetic text.
+Constants passed to the ** [Fields.AddPhoneticGuide](fields-addphoneticguide-method-publisher.md)** method that specify the alignment of the added phonetic text.
 
 
 

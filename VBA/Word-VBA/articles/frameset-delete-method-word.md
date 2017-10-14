@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.Delete Method (Word)
 
-Deletes the specified  **Frameset** object.
+Deletes the specified **Frameset** object.
 
 
 ## Syntax

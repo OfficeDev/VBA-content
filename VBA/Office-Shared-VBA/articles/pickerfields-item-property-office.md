@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PickerFields.Item Property (Office)
 
-Retrieves a  **PickerField** object at the specified index. Read-only
+Retrieves a **PickerField** object at the specified index. Read-only
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Retrieves a  **PickerField** object at the specified index. Read-only
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|Specifies an integer representing the index of the  **PickerField**.|
+| _Index_|Required|**Integer**|Specifies an integer representing the index of the **PickerField**.|
 
 ## See also
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.ContentTypeProperties Property (PowerPoint)
 
-Returns the Microsoft Office  **MetaProperties** collection that describes the metadata stored in the presentation. Read-only.
+Returns the Microsoft Office **MetaProperties** collection that describes the metadata stored in the presentation. Read-only.
 
 
 ## Syntax

@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # Pages Object (Word)
 
-A collection of pages in a document. Use the  **Pages** collection and the related objects and properties for programmatically defining page layout in a document.
+A collection of pages in a document. Use the **Pages** collection and the related objects and properties for programmatically defining page layout in a document.
 
 
 ## Remarks
 
-Use the  **Pages** property to return a **Pages** collection. The following example accesses all pages in the active document.
+Use the **Pages** property to return a **Pages** collection. The following example accesses all pages in the active document.
 
 
 ```vb
@@ -26,7 +26,7 @@ Set objPage = ActiveDocument. _
  ActiveWindow.Panes(1).Pages
 ```
 
-Use the  **Item** method to access an individual **Page** object that represents an individual page in a document. The following example accesses the first page in the active document.
+Use the **Item** method to access an individual **Page** object that represents an individual page in a document. The following example accesses the first page in the active document.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.CurrentItem Property (Outlook)
 
-Returns an  **Object** representing the current item being displayed in the inspector. Read-only.
+Returns an **Object** representing the current item being displayed in the inspector. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ If no item is currently open, an error message will be returned.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[CurrentItem](inspector-currentitem-property-outlook.md)** property to obtain the current item that the user is viewing and closes it. If no item is currently open, an error message will be returned.
+This Visual Basic for Applications (VBA) example uses the **[CurrentItem](inspector-currentitem-property-outlook.md)** property to obtain the current item that the user is viewing and closes it. If no item is currently open, an error message will be returned.
 
 
 ```vb

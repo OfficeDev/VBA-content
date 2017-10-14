@@ -18,11 +18,11 @@ Represents a connection between two shapes in a drawing, such as a line and a bo
 
 ## Remarks
 
-Retrieve a  **Connect** object from the **Connects** collection returned by the **Connects** and **FromConnects** properties of a **Shape** object, or the **Connects** collection of a **Page** or **Master** object.
+Retrieve a **Connect** object from the **Connects** collection returned by the **Connects** and **FromConnects** properties of a **Shape** object, or the **Connects** collection of a **Page** or **Master** object.
 
-The default property of a  **Connect** object is **FromSheet**.
+The default property of a **Connect** object is **FromSheet**.
 
-Use the  **GlueTo** or **GlueToPos** method of a **Cell** object to connect one shape to another in a drawing.
+Use the **GlueTo** or **GlueToPos** method of a **Cell** object to connect one shape to another in a drawing.
 
 
 ## Properties

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StopWebBrowserControlNavigation Method (Project)
 
-Stops a Web page from loading in the active window. The  **StopWebBrowserControlNavigation** method has the same effect as clicking **Stop** on the **Web** toolbar.
+Stops a Web page from loading in the active window. The **StopWebBrowserControlNavigation** method has the same effect as clicking **Stop** on the **Web** toolbar.
 
 
 ## Syntax

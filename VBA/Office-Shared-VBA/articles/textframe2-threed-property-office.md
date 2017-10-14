@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.ThreeD Property (Office)
 
-Returns a  **ThreeDFormat** object that represents the three-dimensional formatting of the parent shape. Read-only
+Returns a **ThreeDFormat** object that represents the three-dimensional formatting of the parent shape. Read-only
 
 
 ## Syntax

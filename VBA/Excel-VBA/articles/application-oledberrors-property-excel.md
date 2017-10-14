@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.OLEDBErrors Property (Excel)
 
-Returns the  **[OLEDBErrors](oledberrors-object-excel.md)** collection, which represents the error information returned by the most recent OLE DB query. Read-only.
+Returns the **[OLEDBErrors](oledberrors-object-excel.md)** collection, which represents the error information returned by the most recent OLE DB query. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **[OLEDBErrors](oledberrors-object-excel.md)** collection, which re
 
 ## Example
 
-This example displays the error description and  **SqlState** property value for an OLE DB error returned by the most recent OLE DB query.
+This example displays the error description and **SqlState** property value for an OLE DB error returned by the most recent OLE DB query.
 
 
 ```vb

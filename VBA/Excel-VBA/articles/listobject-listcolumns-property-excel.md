@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ListColumns Property (Excel)
 
-Returns a  **[ListColumns](listcolumns-object-excel.md)** collection that represents all the columns in a **[ListObject](listobject-object-excel.md)** object. Read-only.
+Returns a **[ListColumns](listcolumns-object-excel.md)** collection that represents all the columns in a **[ListObject](listobject-object-excel.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ListColumns](listcolumns-object-excel.md)** collection that repres
 
 ## Example
 
-The following example displays the name of the second column in the  **ListColumns** collection object as created by a call to the **ListColumns** property. For this code to run, the Sheet1 worksheet must contain a table.
+The following example displays the name of the second column in the **ListColumns** collection object as created by a call to the **ListColumns** property. For this code to run, the Sheet1 worksheet must contain a table.
 
 
 ```vb

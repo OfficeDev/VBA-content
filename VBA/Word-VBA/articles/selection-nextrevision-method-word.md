@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.NextRevision Method (Word)
 
-Locates and returns the next tracked change as a  **Revision** object.
+Locates and returns the next tracked change as a **Revision** object.
 
 
 ## Syntax
@@ -38,14 +38,14 @@ Revision
 
 ## Remarks
 
-The changed text becomes the current selection. Use the properties of the resulting  **Revision** object to see what type of change it is, who made it, and so forth. Use the methods of the **Revision** object to accept or reject the change.
+The changed text becomes the current selection. Use the properties of the resulting **Revision** object to see what type of change it is, who made it, and so forth. Use the methods of the **Revision** object to accept or reject the change.
 
 If there are no tracked changes to be found, the current selection remains unchanged.
 
 
 ## Example
 
-This example rejects the next tracked change found after the fifth paragraph in the active document. The  `revTemp`variable is set to  **Nothing** if a change is not found.
+This example rejects the next tracked change found after the fifth paragraph in the active document. The  `revTemp`variable is set to **Nothing** if a change is not found.
 
 
 ```vb

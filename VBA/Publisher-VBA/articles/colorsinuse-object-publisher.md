@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # ColorsInUse Object (Publisher)
 
-A collection of  **[ColorFormat](colorformat-object-publisher.md)** objects that represent the colors present in the specified publication.
+A collection of **[ColorFormat](colorformat-object-publisher.md)** objects that represent the colors present in the specified publication.
  
 
 
 ## Remarks
 
-The  **ColorsInUse** collection supports all the publication color models: RGB, process colors, and spot color.
+The **ColorsInUse** collection supports all the publication color models: RGB, process colors, and spot color.
  
 
  
-For process color and spot color publications, colors are based on inks. For a given ink, a publication may contain several colors that are different tints or shades of that ink. Use the  **[Plates](plates-object-publisher.md)** collection to access the plates that represent the inks defined for a publication.
+For process color and spot color publications, colors are based on inks. For a given ink, a publication may contain several colors that are different tints or shades of that ink. Use the **[Plates](plates-object-publisher.md)** collection to access the plates that represent the inks defined for a publication.
  
 
  
 
 ## Example
 
-Use the  **[ColorsInUse](http://msdn.microsoft.com/library/b018ffbc-b848-c0d0-19fa-df053e45260d%28Office.15%29.aspx)** property of the **[Document](document-object-publisher.md)** object to return the **ColorsInUse** collection.
+Use the **[ColorsInUse](http://msdn.microsoft.com/library/b018ffbc-b848-c0d0-19fa-df053e45260d%28Office.15%29.aspx)** property of the **[Document](document-object-publisher.md)** object to return the **ColorsInUse** collection.
  
 
  
@@ -61,7 +61,7 @@ Next cfLoop
 End Sub
 ```
 
-Use  **ColorsInUse** (index), where index is the color index number, to return a single **ColorFormat** object. The following example returns properties for the second color in the publication.
+Use **ColorsInUse** (index), where index is the color index number, to return a single **ColorFormat** object. The following example returns properties for the second color in the publication.
  
 
  

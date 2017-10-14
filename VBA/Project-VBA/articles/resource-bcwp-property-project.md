@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.BCWP Property (Project)
 
-Gets the budgeted cost of work performed for the resource. Read-only  **Variant**.
+Gets the budgeted cost of work performed for the resource. Read-only **Variant**.
 
 
 ## Syntax

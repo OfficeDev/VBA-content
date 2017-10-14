@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-The  **CommitChanges** method sends a **COMMIT TRANSACTION** statement to the OLAP server, and clears all cells that were edited by entering a value, but will not clear formulas in value cells. This method generates a run-time error if it is executed on a PivotTable report based on a non-OLAP data source.
+The **CommitChanges** method sends a **COMMIT TRANSACTION** statement to the OLAP server, and clears all cells that were edited by entering a value, but will not clear formulas in value cells. This method generates a run-time error if it is executed on a PivotTable report based on a non-OLAP data source.
 
 
 ## See also

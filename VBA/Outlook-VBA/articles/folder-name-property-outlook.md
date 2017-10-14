@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the object. Read/write.
+Returns or sets a **String** value that represents the display name for the object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Name** property to obtain the name of the folder displayed in the active explorer.
+This Visual Basic for Applications (VBA) example uses the **Name** property to obtain the name of the folder displayed in the active explorer.
 
 
 ```vb

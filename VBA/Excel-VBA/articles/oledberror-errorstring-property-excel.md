@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBError.ErrorString Property (Excel)
 
-Returns a  **String** value that represents the ODBC error string.
+Returns a **String** value that represents the ODBC error string.
 
 
 ## Syntax

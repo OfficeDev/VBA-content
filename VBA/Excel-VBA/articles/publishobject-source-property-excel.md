@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.Source Property (Excel)
 
-Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](publishobject-sourcetype-property-excel.md)** property value of **xlSourceRange** , **xlSourceChart** , **xlSourcePrintArea** , **xlSourceAutoFilter** , **xlSourcePivotTable** , or **xlSourceQuery** .
+Returns a **Variant** value that represents the unique name that identifies items that have a **[SourceType](publishobject-sourcetype-property-excel.md)** property value of **xlSourceRange** , **xlSourceChart** , **xlSourcePrintArea** , **xlSourceAutoFilter** , **xlSourcePivotTable** , or **xlSourceQuery** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **Variant** value that represents the unique name that identifies ite
 
 ## Remarks
 
-If the  **SourceType** property is set to **xlSourceRange** , this property returns a range, which can be a defined name. If the **SourceType** property is set to **xlSourceChart** , **xlSourcePivotTable** , or **xlSourceQuery** , this property returns the name of the object, such as a chart name, a PivotTable report name, or a query table name.
+If the **SourceType** property is set to **xlSourceRange** , this property returns a range, which can be a defined name. If the **SourceType** property is set to **xlSourceChart** , **xlSourcePivotTable** , or **xlSourceQuery** , this property returns the name of the object, such as a chart name, a PivotTable report name, or a query table name.
 
 
 ## Example
 
-This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the  **Boolean** variable `blnChartFound` to **True** . If no items in the document have been saved as Chart components, `blnChartFound` is **False** .
+This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the **Boolean** variable `blnChartFound` to **True** . If no items in the document have been saved as Chart components, `blnChartFound` is **False** .
 
 
 ```vb

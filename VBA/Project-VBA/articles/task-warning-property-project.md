@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Warning Property (Project)
 
-Gets the active warning for a task. Read-only  **Variant**.
+Gets the active warning for a task. Read-only **Variant**.
 
 
 ## Syntax

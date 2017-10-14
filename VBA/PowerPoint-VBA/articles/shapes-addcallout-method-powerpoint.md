@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddCallout Method (PowerPoint)
 
-Creates a borderless line callout. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new callout.
+Creates a borderless line callout. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new callout.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-You can insert a greater variety of callouts by using the  **[AddShape](shapes-addshape-method-powerpoint.md)** method.
+You can insert a greater variety of callouts by using the **[AddShape](shapes-addshape-method-powerpoint.md)** method.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ServerViewableItems.Application Property (Excel)
 
-Returns an  **Application** object. Read-only.
+Returns an **Application** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **Application** object. Read-only.
 
 ## Remarks
 
-When used without an object qualifier, this property returns an  **[Application](application-object-excel.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object.
+When used without an object qualifier, this property returns an **[Application](application-object-excel.md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object.
 
 
 ## See also

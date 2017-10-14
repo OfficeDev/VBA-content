@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayFormat.FormulaHidden Property (Excel)
 
-Returns a value that indicates if the formula of the associated  **[Range](range-object-excel.md)** object is hidden when the worksheet is protected as it is displayed in the current user interface. Read-only.
+Returns a value that indicates if the formula of the associated **[Range](range-object-excel.md)** object is hidden when the worksheet is protected as it is displayed in the current user interface. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Returns  **True** if the formula is hidden when the worksheet is protected, **Null** if the range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False** .
+Returns **True** if the formula is hidden when the worksheet is protected, **Null** if the range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False** .
 
 
 ## See also

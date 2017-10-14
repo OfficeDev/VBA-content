@@ -18,7 +18,7 @@ End Sub
 ```
 
 
-To avoid this error when accessing a member of a collection, ensure that the member exists prior to accessing the collection member. If you are accessing the member by index number, you can use the  **Count**property of the collection to determine if the member exists. The following example selects the first table, if there is at least one table in the active document.
+To avoid this error when accessing a member of a collection, ensure that the member exists prior to accessing the collection member. If you are accessing the member by index number, you can use the **Count**property of the collection to determine if the member exists. The following example selects the first table, if there is at least one table in the active document.
 
 
 
@@ -33,7 +33,7 @@ Sub SelectFirstTable()
 End Sub
 ```
 
-If you are accessing a collection member by name, you can loop on the elements in a collection using a  **For Each...Next** loop to determine if the named member is part of the collection. For example, the following deletes the AutoCorrect entry named "acheive" if it is part of the **[AutoCorrectEntries](autocorrectentries-object-word.md)** collection. For more information, see  [Looping Through a Collection](looping-through-a-collection.md).
+If you are accessing a collection member by name, you can loop on the elements in a collection using a **For Each...Next** loop to determine if the named member is part of the collection. For example, the following deletes the AutoCorrect entry named "acheive" if it is part of the **[AutoCorrectEntries](autocorrectentries-object-word.md)** collection. For more information, see  [Looping Through a Collection](looping-through-a-collection.md).
 
 
 

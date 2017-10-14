@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.CrossesAt Property (Excel)
 
-Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double** .
+Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write **Double** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the point on the value axis where the category axis crosses it. 
 
 ## Remarks
 
-Setting this property causes the  **[Crosses](axis-crosses-property-excel.md)** property to change to **xlAxisCrossesCustom** .
+Setting this property causes the **[Crosses](axis-crosses-property-excel.md)** property to change to **xlAxisCrossesCustom** .
 
 This property cannot be used on radar charts. For 3-D charts, this property indicates where the plane defined by the category axes crosses the value axis.
 

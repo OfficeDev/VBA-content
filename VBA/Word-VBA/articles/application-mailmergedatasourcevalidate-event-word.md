@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MailMergeDataSourceValidate Event (Word)
 
-Occurs when a user validates mail merge recipients by clicking  **Validate** in the **Mail Merge Recipients** dialog box.
+Occurs when a user validates mail merge recipients by clicking **Validate** in the **Mail Merge Recipients** dialog box.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ Private Sub  _expression_ _**MailMergeDataSourceValidate**( **_ByVal Doc As Docu
 
 ## Remarks
 
-If you do not have address verification software installed on your computer, the  **MailMergeDataSourceValidate** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
+If you do not have address verification software installed on your computer, the **MailMergeDataSourceValidate** event allows you to create simple filtering routines, such as looping through records to check the postal codes and removing any that are non-U.S.
 
 
- **Note**  The Handled parameter does not function correctly in this version of the event; use the  **[MailMergeDataSourceValidate2](application-mailmergedatasourcevalidate2-event-word.md)** event. In addition, you cannot raise this event from within a Microsoft Visual Basic for Applications (VBA) project. This event functions correctly only in COM add-ins. For managed add-ins and external applications, use the **MailMergeDataSourceValidate2** event.
+ **Note**  The Handled parameter does not function correctly in this version of the event; use the **[MailMergeDataSourceValidate2](application-mailmergedatasourcevalidate2-event-word.md)** event. In addition, you cannot raise this event from within a Microsoft Visual Basic for Applications (VBA) project. This event functions correctly only in COM add-ins. For managed add-ins and external applications, use the **MailMergeDataSourceValidate2** event.
 
-For information about using events with the  **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
+For information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 
 
 ## See also

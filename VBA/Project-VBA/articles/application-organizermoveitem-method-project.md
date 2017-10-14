@@ -29,10 +29,10 @@ Moves an item in the Organizer.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Long**|The type of item to move. Can be one of the  **[PjOrganizer](pjorganizer-enumeration-project.md)** constants. The default value is **pjViews**.|
+| _Type_|Optional|**Long**|The type of item to move. Can be one of the **[PjOrganizer](pjorganizer-enumeration-project.md)** constants. The default value is **pjViews**.|
 | _Filename_|Required|**String**|The name of the file containing the item to move.|
 | _ToFileName_|Required|**String**|The name of the file where the item should be placed.|
-| _Name_|Optional|**String**|The name of the item to move. The default is to move all items specified with  **Type**.|
+| _Name_|Optional|**String**|The name of the item to move. The default is to move all items specified with **Type**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
 ### Return Value

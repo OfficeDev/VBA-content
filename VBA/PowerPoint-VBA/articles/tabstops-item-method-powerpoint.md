@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStops.Item Method (PowerPoint)
 
-Returns a single tab stop from the specified  **TabStops** collection.
+Returns a single tab stop from the specified **TabStops** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single tab stop from the specified  **TabStops** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **TabStop** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **TabStop** object in the collection to be returned.|
 
 ### Return Value
 

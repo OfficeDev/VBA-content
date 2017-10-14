@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.EmailSubject Property (Publisher)
 
-Sets or returns a  **String** that represents the subject for e-mail messages generated to process Web form data. Read/write.
+Sets or returns a **String** that represents the subject for e-mail messages generated to process Web form data. Read/write.
 
 
 ## Syntax
 
  _expression_. **EmailSubject**
 
- _expression_A variable that represents a  **WebCommandButton** object.
+ _expression_A variable that represents a **WebCommandButton** object.
 
 
 ## Example

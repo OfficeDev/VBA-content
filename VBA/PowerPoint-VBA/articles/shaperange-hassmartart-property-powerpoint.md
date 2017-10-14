@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.HasSmartArt Property (PowerPoint)
 
-Returns  **True** if the current **ShapeRange** object has a SmartArt diagram. Read-only.
+Returns **True** if the current **ShapeRange** object has a SmartArt diagram. Read-only.
 
 
 ## Syntax

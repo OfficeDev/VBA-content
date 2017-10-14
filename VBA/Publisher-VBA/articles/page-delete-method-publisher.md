@@ -20,7 +20,7 @@ Deletes the specified object.
 
  _expression_. **Delete**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ## Remarks

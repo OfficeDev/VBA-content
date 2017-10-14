@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddEmptyPictureFrame Method (Publisher)
 
-Returns a  **Shape** object that represents an empty picture frame inserted at the specified coordinates.
+Returns a **Shape** object that represents an empty picture frame inserted at the specified coordinates.
 
 
 ## Syntax
 
- _expression_. **AddEmptyPictureFrame**( **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+ _expression_. **AddEmptyPictureFrame**( **_Left_**, **_Top_**, **_Width_**, **_Height_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -41,14 +41,14 @@ Shape
 
 ## Remarks
 
-For  **Left**,  **Top**,  **Width**, and  **Height** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "1.5 in").
+For **Left**, **Top**, **Width**, and **Height** arguments, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "1.5 in").
 
-The blank picture frame has the default ToolTip "Empty Picture Frame". This is changed to "Picture" when an image is selected for the  **Shape**.
+The blank picture frame has the default ToolTip "Empty Picture Frame". This is changed to "Picture" when an image is selected for the **Shape**.
 
 
 ## Example
 
-This example places an empty picture frame in the center of the first page of the publication and rotates it by 45 degrees. The  **AlternativeText** property is set to "Picture Placeholder 1" for the Web.
+This example places an empty picture frame in the center of the first page of the publication and rotates it by 45 degrees. The **AlternativeText** property is set to "Picture Placeholder 1" for the Web.
 
 
 ```vb

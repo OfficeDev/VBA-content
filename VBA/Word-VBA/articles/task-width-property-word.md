@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Width Property (Word)
 
-Returns or sets the width of the specified  **Task** object, in points. Read/write **Long** .
+Returns or sets the width of the specified **Task** object, in points. Read/write **Long** .
 
 
 ## Syntax

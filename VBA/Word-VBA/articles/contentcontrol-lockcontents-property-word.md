@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.LockContents Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the user can edit the contents of a content control. Read/write.
+Returns or sets a **Boolean** that represents whether the user can edit the contents of a content control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether the user can edit the con
 
 ## Remarks
 
-The default value of this property is  **False** . This property corresponds to the **Contents cannot be edited** check box in the **Content Control Properties** dialog box.
+The default value of this property is **False** . This property corresponds to the **Contents cannot be edited** check box in the **Content Control Properties** dialog box.
 
 
 ## Example

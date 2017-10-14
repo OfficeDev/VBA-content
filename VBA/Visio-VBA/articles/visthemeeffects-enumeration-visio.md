@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisThemeEffects Enumeration (Visio)
 
-Theme effects constants passed to and returned by the  **Page.ThemeEffects** property. Thumbnails of theme effects are displayed in the **Effects** gallery in the Microsoft Visio user interface. Pause your mouse over a thumbnail to see the name of the theme effect.
+Theme effects constants passed to and returned by the **Page.ThemeEffects** property. Thumbnails of theme effects are displayed in the **Effects** gallery in the Microsoft Visio user interface. Pause your mouse over a thumbnail to see the name of the theme effect.
 
 
 

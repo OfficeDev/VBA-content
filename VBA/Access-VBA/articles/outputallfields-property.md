@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You can use the  **OutputAllFields** property to show all fields in the query's underlying data source and in the field list of a form or report. Setting this property is an easy way to show all fields without having to click the Show box in the query design grid for each field in the query.
+You can use the **OutputAllFields** property to show all fields in the query's underlying data source and in the field list of a form or report. Setting this property is an easy way to show all fields without having to click the Show box in the query design grid for each field in the query.
 
 
  **Note**   The **OutputAllFields** property applies only to append, make-table, and select queries.
@@ -25,7 +25,7 @@ You can use the  **OutputAllFields** property to show all fields in the query's 
 
 ## Setting
 
-The  **OutputAllFields** property uses the following settings.
+The **OutputAllFields** property uses the following settings.
 
 
 
@@ -36,14 +36,14 @@ The  **OutputAllFields** property uses the following settings.
 You can set this property only by using the query's property sheet.
 
 
- **Note**  The use of an asterisk (*) in an SQL statement in place of a field name is the equivalent of setting the  **OutputAllFields** property to Yes.
+ **Note**  The use of an asterisk (*) in an SQL statement in place of a field name is the equivalent of setting the **OutputAllFields** property to Yes.
 
 
 ## Remarks
 
-When the  **OutputAllFields** property is set to Yes, the only fields you need to include in the query design grid are those that you want to sort on or specify criteria for.
+When the **OutputAllFields** property is set to Yes, the only fields you need to include in the query design grid are those that you want to sort on or specify criteria for.
 
-When you save a filter as a query, Microsoft Access sets the  **OutputAllFields** property to Yes.
+When you save a filter as a query, Microsoft Access sets the **OutputAllFields** property to Yes.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

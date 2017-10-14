@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.PathForPublications Property (Publisher)
 
-Returns a  **String** that represents the default folder for publications. Read.
+Returns a **String** that represents the default folder for publications. Read.
 
 
 ## Syntax
 
  _expression_. **PathForPublications**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ String
 
 ## Example
 
-This example returns the current default path for publications (corresponds to the default path setting on the  **General** tab in the **Options** dialog box, **Tools** menu).
+This example returns the current default path for publications (corresponds to the default path setting on the **General** tab in the **Options** dialog box, **Tools** menu).
 
 
 ```vb

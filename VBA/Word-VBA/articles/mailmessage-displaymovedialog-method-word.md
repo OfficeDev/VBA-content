@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMessage.DisplayMoveDialog Method (Word)
 
-Displays the  **Move** dialog box, in which the user can specify a new location for the active e-mail message in an available message store.
+Displays the **Move** dialog box, in which the user can specify a new location for the active e-mail message in an available message store.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This method is available only if you are using Word as your e-mail editor.
 
 ## Example
 
-This example displays the  **Move** dialog box for the active e-mail message.
+This example displays the **Move** dialog box for the active e-mail message.
 
 
 ```vb

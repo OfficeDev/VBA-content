@@ -38,7 +38,7 @@ Nothing
 
 ## Example
 
-This example displays a message stating that the PivotTable report's connection to its source has been opened. This example assumes you have declared an object of type  **Workbook** with events in a class module.
+This example displays a message stating that the PivotTable report's connection to its source has been opened. This example assumes you have declared an object of type **Workbook** with events in a class module.
 
 
 ```vb

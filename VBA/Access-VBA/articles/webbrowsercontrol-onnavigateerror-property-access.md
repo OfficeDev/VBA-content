@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebBrowserControl.OnNavigateError Property (Access)
 
-Gets or sets the value of the  **On Navigate Error** box in the property sheet os a Web Browser control. Read/write **String**.
+Gets or sets the value of the **On Navigate Error** box in the property sheet os a Web Browser control. Read/write **String**.
 
 
 ## Syntax

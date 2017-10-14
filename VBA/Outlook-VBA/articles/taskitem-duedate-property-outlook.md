@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.DueDate Property (Outlook)
 
-Returns or sets a  **Date** indicating the due date for the task. Read/write.
+Returns or sets a **Date** indicating the due date for the task. Read/write.
 
 
 ## Syntax

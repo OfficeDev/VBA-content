@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Value Property (Word)
 
-Returns or sets a  **String** that represents the contents of a building block. Read/write.
+Returns or sets a **String** that represents the contents of a building block. Read/write.
 
 
 ## Syntax

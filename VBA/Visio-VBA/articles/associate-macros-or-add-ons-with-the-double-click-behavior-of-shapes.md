@@ -15,11 +15,11 @@ ms.date: 06/08/2017
     
 2. On the  [Developer](run-visio-in-developer-mode.md) tab, click **Behavior**.
     
-3. In the  **Behavior** dialog box, click **Double-Click**, and then click  **Run macro**.
+3. In the **Behavior** dialog box, click **Double-Click**, and then click **Run macro**.
     
-4. From the  **Run macro** list, select the macro or add-on you want to run.
+4. From the **Run macro** list, select the macro or add-on you want to run.
     
-5. Click  **OK**.
+5. Click **OK**.
     
 6. Double-click the shape to run the macro or add-on.
     

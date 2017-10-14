@@ -17,7 +17,7 @@ Gets the name of the specified reviewer in the drawing that is open in Microsoft
 
  _expression_. **ReviewerName**( **_ReviewerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters

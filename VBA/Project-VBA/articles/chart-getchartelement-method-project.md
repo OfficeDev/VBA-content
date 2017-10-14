@@ -27,7 +27,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
 |:-----|:-----|:-----|:-----|
 | _x_|Required|**Long**|The X coordinate of the chart element.|
 | _y_|Required|**Long**|The Y coordinate of the chart element.|
-| _ElementID_|Required|**Long**|When the  **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see[Remarks](#pj15_VBAGetChartElement_Remarks).|
+| _ElementID_|Required|**Long**|When the **GetChartElement** method returns, _ElementID_ contains the **Office.XLChartItem** value of the chart element at the specified coordinates. For more information, see[Remarks](#pj15_VBAGetChartElement_Remarks).|
 | _Arg1_|Required|**Long**|When the method returns,  _Arg1_ contains information related to the chart element. For more information, see[Remarks](#pj15_VBAGetChartElement_Remarks).|
 | _Arg2_|Required|**Long**|When the method returns,  _Arg2_ contains information related to the chart element. For more information, see[Remarks](#pj15_VBAGetChartElement_Remarks).|
 | _x_|Required|INT32||
@@ -38,16 +38,16 @@ Returns information about the chart element at specified X and Y coordinates. Th
 
 ### Return value
 
-The  **GetChartElement** method returns **Nothing**. Returned values are in the  _ElementID_,  _Arg1_, and  _Arg2_ parameters.
+The **GetChartElement** method returns **Nothing**. Returned values are in the  _ElementID_,  _Arg1_, and  _Arg2_ parameters.
 
 
 ## Remarks
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
 
- **Note**  The  **GetChartElement** method will be removed in the released version of Project 2013. The **Chart** object in Project does not implement events; so, a chart in Project cannot be animated with the **GetChartElement** method by interacting with mouse events.
+ **Note**  The **GetChartElement** method will be removed in the released version of Project 2013. The **Chart** object in Project does not implement events; so, a chart in Project cannot be animated with the **GetChartElement** method by interacting with mouse events.
 
-The  **GetChartElement** method is unusual because you specify values for only the first two arguments. Project returns data in the other arguments, and your code should examine those values when the method returns.
+The **GetChartElement** method is unusual because you specify values for only the first two arguments. Project returns data in the other arguments, and your code should examine those values when the method returns.
 
 The value of  _ElementID_ after the method returns determines whether _Arg1_ and _Arg2_ contain any information (see Table 1).
 
@@ -99,20 +99,20 @@ Table 2 describes the meaning of  _Arg1_ and _Arg2_ after the method returns. Va
 
 |**Argument**|**Description**|
 |:-----|:-----|
-|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **Office.XlAxisGroup** constants: **xlPrimary** or **xlSecondary**.|
-|AxisType|Specifies the axis type. Can be one of the following  **Office.XlAxisType** constants: **xlCategory**,  **xlSeriesAxis**, or  **xlValue**.|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **Office.XlPivotFieldOrientation** constants: **xlColumnField**,  **xlDataField**,  **xlPageField**, or  **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
-|GroupIndex|Specifies the offset within the  **Office.IMsoChart.ChartGroups** collection for a specific chart group.|
-|PivotFieldIndex|Specifies the offset within the  **Excel.PivotFields** collection for a specific column (series), data, page, or row (category) field. The value is **-1** if the drop zone type is **xlDataField**.|
-|PointIndex|Specifies the offset within the  **Office.IMsoSeries.Points** collection for a specific point within a series. A value of **?1** indicates that all data points are selected.|
-|SeriesIndex|Specifies the offset within the  **Office.IMsoChart.SeriesCollection** for a specific series.|
+|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following **Office.XlAxisGroup** constants: **xlPrimary** or **xlSecondary**.|
+|AxisType|Specifies the axis type. Can be one of the following **Office.XlAxisType** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following **Office.XlPivotFieldOrientation** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
+|GroupIndex|Specifies the offset within the **Office.IMsoChart.ChartGroups** collection for a specific chart group.|
+|PivotFieldIndex|Specifies the offset within the **Excel.PivotFields** collection for a specific column (series), data, page, or row (category) field. The value is **-1** if the drop zone type is **xlDataField**.|
+|PointIndex|Specifies the offset within the **Office.IMsoSeries.Points** collection for a specific point within a series. A value of **?1** indicates that all data points are selected.|
+|SeriesIndex|Specifies the offset within the **Office.IMsoChart.SeriesCollection** for a specific series.|
 |ShapeIndex|Specifies the offset within the [Shapes](http://msdn.microsoft.com/library/23aed165-e817-48b9-a7b8-050b81834494%28Office.15%29.aspx) collection for a specific shape.|
-|TrendlineIndex|Specifies the offset within the  **Office.IMsoSeries.Trendlines** collection for a specific trendline within a series.|
+|TrendlineIndex|Specifies the offset within the **Office.IMsoSeries.Trendlines** collection for a specific trendline within a series.|
 
 ## Example
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
-The following example gets the chart element information for point (100, 100) in the chart. For example, if the point is within the plot area, output in the Immediate pane is  `idNum: 19, a: 0, b: 0`. From the information in Table 1,  **xlPlotArea** = 19.
+The following example gets the chart element information for point (100, 100) in the chart. For example, if the point is within the plot area, output in the Immediate pane is  `idNum: 19, a: 0, b: 0`. From the information in Table 1, **xlPlotArea** = 19.
 
 
 ```vb

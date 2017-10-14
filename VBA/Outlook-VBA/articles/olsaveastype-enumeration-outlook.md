@@ -33,6 +33,6 @@ Specifies the file format.
 
 ## Remarks
 
-Used as an optional parameter to the  **SaveAs** method for Outlook items.
+Used as an optional parameter to the **SaveAs** method for Outlook items.
 
 

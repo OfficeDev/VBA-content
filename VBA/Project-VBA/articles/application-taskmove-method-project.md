@@ -40,9 +40,9 @@ Moves the start date of one or more selected tasks the specified number of days.
 
 ## Remarks
 
-The  **TaskMove** method does not override a predecessor task constraint for automatically scheduled tasks.
+The **TaskMove** method does not override a predecessor task constraint for automatically scheduled tasks.
 
-The  **TaskMove** method corresponds to various commands in the **Move Task** drop-down menu on the **TASK** ribbon. To move incomplete or complete parts of a task to the status date, use the **[TaskMoveToStatusDate](application-taskmovetostatusdate-method-project.md)** method.
+The **TaskMove** method corresponds to various commands in the **Move Task** drop-down menu on the **TASK** ribbon. To move incomplete or complete parts of a task to the status date, use the **[TaskMoveToStatusDate](application-taskmovetostatusdate-method-project.md)** method.
 
 
 ## Example

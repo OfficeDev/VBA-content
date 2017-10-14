@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebTextBox.DefaultText Property (Publisher)
 
-Returns or sets a  **String** that represents the default text in a Web text box control. Read/write.
+Returns or sets a **String** that represents the default text in a Web text box control. Read/write.
 
 
 ## Syntax
 
  _expression_. **DefaultText**
 
- _expression_A variable that represents a  **WebTextBox** object.
+ _expression_A variable that represents a **WebTextBox** object.
 
 
 ### Return Value

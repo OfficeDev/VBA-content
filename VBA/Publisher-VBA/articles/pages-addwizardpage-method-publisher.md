@@ -18,9 +18,9 @@ Adds the specified new wizard page to a specified location in a publication.
 
 ## Syntax
 
- _expression_. **AddWizardPage**( **_After_**,  **_PageType_**,  **_AddHyperlinkToWebNavBar_**)
+ _expression_. **AddWizardPage**( **_After_**, **_PageType_**, **_AddHyperlinkToWebNavBar_**)
 
- _expression_A variable that represents a  **Pages** object.
+ _expression_A variable that represents a **Pages** object.
 
 
 ### Parameters
@@ -31,13 +31,13 @@ Adds the specified new wizard page to a specified location in a publication.
 |:-----|:-----|:-----|:-----|
 |After|Required| **Long**|The page after which to place the new wizard page.|
 |PageType|Optional| **PbWizardPageType**|The type of wizard page to add.|
-|AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether a link to the new page will be added to the automatic navigation bars of existing pages. Default is  **False**, which means that if this argument is omitted, links to this page will not be added to the automatic navigation bars of existing pages.|
+|AddHyperlinkToWebNavBar|Optional| **Boolean**|Specifies whether a link to the new page will be added to the automatic navigation bars of existing pages. Default is **False**, which means that if this argument is omitted, links to this page will not be added to the automatic navigation bars of existing pages.|
 
 ## Remarks
 
 You can add wizard pages only to similar wizard publications. For example, you can add a Catalog Calendar Wizard page to a catalog but not to a newsletter. An error occurs if you try to add a wizard page to a different type of publication.
 
-The PageType parameter can be one of the  **[PbWizardPageType](pbwizardpagetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The PageType parameter can be one of the **[PbWizardPageType](pbwizardpagetype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

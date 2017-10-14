@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Printers Property (Access)
 
-Returns the  **[Printers](printers-object-access.md)** collection representing all the available printers on the current system. Read-only **Printers** collection.
+Returns the **[Printers](printers-object-access.md)** collection representing all the available printers on the current system. Read-only **Printers** collection.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.OLAP Property (Excel)
 
-Returns  **True** if the OLE DB connection is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean** .
+Returns **True** if the OLE DB connection is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean** .
 
 
 ## Syntax

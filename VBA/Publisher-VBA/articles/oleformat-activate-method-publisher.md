@@ -20,12 +20,12 @@ Activates a window or OLE object.
 
  _expression_. **Activate**
 
- _expression_A variable that represents an  **OLEFormat** object.
+ _expression_A variable that represents an **OLEFormat** object.
 
 
 ## Remarks
 
-Because Microsoft Publisher runs in a single window, using the  **Activate** method with a **Window** object makes Publisher the active application.
+Because Microsoft Publisher runs in a single window, using the **Activate** method with a **Window** object makes Publisher the active application.
 
 
 ## Example

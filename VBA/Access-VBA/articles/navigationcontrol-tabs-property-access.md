@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationControl.Tabs Property (Access)
 
-Gets the collection of navigation buttons for the specified navigation control. Read-only  **Children**.
+Gets the collection of navigation buttons for the specified navigation control. Read-only **Children**.
 
 
 ## Syntax

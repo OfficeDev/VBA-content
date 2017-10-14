@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Child Property (Project)
-Gets a value that indicates whether all shapes in the shape range are child shapes of the same parent. Read-only  **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
+Gets a value that indicates whether all shapes in the shape range are child shapes of the same parent. Read-only **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 

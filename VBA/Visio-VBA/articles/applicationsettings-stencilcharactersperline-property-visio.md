@@ -30,16 +30,16 @@ Long
 
 ## Remarks
 
-Setting the  **StencilCharactersPerLine** property is equivalent to setting the **Characters per line** option under **Stencil spacing** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **StencilCharactersPerLine** property is equivalent to setting the **Characters per line** option under **Stencil spacing** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-The minimum value for  **StencilCharactersPerLine** is 5 characters per line and the maximum is 20. By default, Visio displays 12 characters per line.
+The minimum value for **StencilCharactersPerLine** is 5 characters per line and the maximum is 20. By default, Visio displays 12 characters per line.
 
 This property affects the overall spacing of shapes on a stencil, which affects how many shapes the user can see without scrolling.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **StencilCharactersPerLine** property to print the current number of stencil characters per line in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **StencilCharactersPerLine** property to print the current number of stencil characters per line in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object.
 
 
 ```vb

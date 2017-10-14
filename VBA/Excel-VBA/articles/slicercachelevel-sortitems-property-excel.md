@@ -30,7 +30,7 @@ Returns or sets the sort order of the items in the slicer. Read/write.
 
 ## Remarks
 
-The default setting of this property is  **xlDataSourceOrder** (1).
+The default setting of this property is **xlDataSourceOrder** (1).
 
 
 ## See also

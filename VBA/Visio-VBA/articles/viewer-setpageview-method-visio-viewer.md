@@ -15,9 +15,9 @@ Sets the position and zoom factor (size) of the drawing page in Microsoft Visio 
 
 ## Syntax
 
- _expression_. **SetPageView**( **_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
+ _expression_. **SetPageView**( **_PageXAtViewCenter_**, **_PageYAtViewCenter_**, **_ZoomFactor_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -39,9 +39,9 @@ Nothing
 
 The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower left corner of the page; and the zoom factor, expressed as a numerical percentage, with a range from 1% through 400%.
 
-You can use the  **[GetPageView](viewer-getpageview-method-visio-viewer.md)** method to get the current page-view values.
+You can use the **[GetPageView](viewer-getpageview-method-visio-viewer.md)** method to get the current page-view values.
 
-The  **SetPageView** method sets the coordinates of the point in the page coordinate system that is at the center of the Visio Viewer window. For example, passing 0 for both the x-coordinate and y-coordinate places the lower left corner of the page (the origin of the page's coordinate system) in the center of the Visio Viewer window. If the page is 8 page-units wide by 10 page-units high, passing 4 for PageXAtViewCenter and 5 for PageYAtViewCenter places the center of the page at the center of the Visio Viewer window.
+The **SetPageView** method sets the coordinates of the point in the page coordinate system that is at the center of the Visio Viewer window. For example, passing 0 for both the x-coordinate and y-coordinate places the lower left corner of the page (the origin of the page's coordinate system) in the center of the Visio Viewer window. If the page is 8 page-units wide by 10 page-units high, passing 4 for PageXAtViewCenter and 5 for PageYAtViewCenter places the center of the page at the center of the Visio Viewer window.
 
 The ZoomFactor parameter value is the factor by which to multiply both dimensions of the page. For example, passing .50 for ZoomFactor makes the page both half as high and half as wide as it was previously.
 

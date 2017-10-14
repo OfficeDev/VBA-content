@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ODSOColumns Object (Office)
 
-A collection of  **ODSOColumn** objects that represent the data fields in a mail merge data source.
+A collection of **ODSOColumn** objects that represent the data fields in a mail merge data source.
 
 
 ## Example
 
-Use the  **Columns** property to return the **ODSOColumns** collection. The following example displays the field names in the data source attached to the active publication.
+Use the **Columns** property to return the **ODSOColumns** collection. The following example displays the field names in the data source attached to the active publication.
 
 
 ```

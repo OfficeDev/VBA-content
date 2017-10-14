@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlCalendarViewMode Enumeration (Outlook)
 
-Indicates the view mode specified in the  **[CalendarViewMode](calendarview-calendarviewmode-property-outlook.md)** property of the **[CalendarView](calendarview-object-outlook.md)** object.
+Indicates the view mode specified in the **[CalendarViewMode](calendarview-calendarviewmode-property-outlook.md)** property of the **[CalendarView](calendarview-object-outlook.md)** object.
 
 
 
@@ -22,6 +22,6 @@ Indicates the view mode specified in the  **[CalendarViewMode](calendarview-cale
 | **olCalendarView5DayWeek**|4|Displays a 5-day week.|
 | **olCalendarViewDay**|0|Displays a single day.|
 | **olCalendarViewMonth**|2|Displays a month.|
-| **olCalendarViewMultiDay**|3|Displays a number of days equal to the  **[DaysInMultiDayMode](calendarview-daysinmultidaymode-property-outlook.md)** property value of the **CalendarView** object.|
+| **olCalendarViewMultiDay**|3|Displays a number of days equal to the **[DaysInMultiDayMode](calendarview-daysinmultidaymode-property-outlook.md)** property value of the **CalendarView** object.|
 | **olCalendarViewWeek**|1|Displays a 7-day week.|
 

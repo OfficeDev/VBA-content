@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.Result Property (Word)
 
-Returns a  **Range** object that represents a field's result. Read/write.
+Returns a **Range** object that represents a field's result. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Range** object that represents a field's result. Read/write.
 
 ## Remarks
 
-You can access a field result without changing the view from field codes. Use the  **Text** property to return text from a **Range** object.
+You can access a field result without changing the view from field codes. Use the **Text** property to return text from a **Range** object.
 
 
 ## Example

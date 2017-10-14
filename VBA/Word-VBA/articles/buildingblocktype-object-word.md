@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # BuildingBlockType Object (Word)
 
-Represents a type of building block. Each  **BuildingBlockType** object is a member of the **[BuildingBlockTypes](buildingblocktypes-object-word.md)** collection.
+Represents a type of building block. Each **BuildingBlockType** object is a member of the **[BuildingBlockTypes](buildingblocktypes-object-word.md)** collection.
 
 
 ## Remarks
 
-Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a  **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** constant. Use the **[Categories](buildingblocktype-categories-property-word.md)** property to access categories for a specific building block type. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
+Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** constant. Use the **[Categories](buildingblocktype-categories-property-word.md)** property to access categories for a specific building block type. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
 
 
 ```vb

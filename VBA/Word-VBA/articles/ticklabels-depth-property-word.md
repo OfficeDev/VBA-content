@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.Depth Property (Word)
 
-Returns the number of levels of category tick labels. Read-only  **Long** .
+Returns the number of levels of category tick labels. Read-only **Long** .
 
 
 ## Syntax

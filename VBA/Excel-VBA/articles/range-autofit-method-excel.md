@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-The  **Range** object must be a row or a range of rows, or a column or a range of columns. Otherwise, this method generates an error.
+The **Range** object must be a row or a range of rows, or a column or a range of columns. Otherwise, this method generates an error.
 
 One unit of column width is equal to the width of one character in the Normal style.
 

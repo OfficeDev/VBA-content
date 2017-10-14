@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Cell.MarginLeft Property (Publisher)
 
-Returns or sets a  **Variant** that represents the amount of space (in points) between the text and the left edge of a cell, text frame, or page. Read/write.
+Returns or sets a **Variant** that represents the amount of space (in points) between the text and the left edge of a cell, text frame, or page. Read/write.
 
 
 ## Syntax
 
  _expression_. **MarginLeft**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ## Example

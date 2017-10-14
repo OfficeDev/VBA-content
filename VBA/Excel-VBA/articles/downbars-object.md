@@ -18,7 +18,7 @@ Represents the down bars in the specified chart group. Down bars connect points 
 
 ## Using the DownBars Object
 
-Use the  **DownBars** property to return the **DownBars** object. The following example turns on up and down bars for chart group one in the chart. The example then sets the up-bar color to blue and the down-bar color to red.
+Use the **DownBars** property to return the **DownBars** object. The following example turns on up and down bars for chart group one in the chart. The example then sets the up-bar color to blue and the down-bar color to red.
 
 
 ```vb
@@ -32,6 +32,6 @@ End With
 
 ## Remarks
 
-If the  **[HasUpDownBars](hasupdownbars-property.md)** property is  **False**, most properties of the  **DownBars** object are disabled.
+If the **[HasUpDownBars](hasupdownbars-property.md)** property is **False**, most properties of the **DownBars** object are disabled.
 
 

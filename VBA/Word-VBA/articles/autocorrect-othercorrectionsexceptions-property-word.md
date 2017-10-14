@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.OtherCorrectionsExceptions Property (Word)
 
-Returns an  **[OtherCorrectionsExceptions](othercorrectionsexceptions-object-word.md)** collection that represents the list of words that Microsoft Word won't correct automatically.
+Returns an **[OtherCorrectionsExceptions](othercorrectionsexceptions-object-word.md)** collection that represents the list of words that Microsoft Word won't correct automatically.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Returns an  **[OtherCorrectionsExceptions](othercorrectionsexceptions-object-wor
 
 ## Remarks
 
-This list that this property returns corresponds to the list of AutoCorrect exceptions on the  **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
+This list that this property returns corresponds to the list of AutoCorrect exceptions on the **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example
 
-This example prompts the user to delete or keep each AutoCorrect exception on the  **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
+This example prompts the user to delete or keep each AutoCorrect exception on the **Other Corrections** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ```vb

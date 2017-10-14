@@ -25,7 +25,7 @@ Inserts an = (Formula) field that calculates and displays the sum of the values 
 
 ## Remarks
 
-For information about how Word determines which values to add, see the  **[Formula](cell-formula-method-word.md)** method.
+For information about how Word determines which values to add, see the **[Formula](cell-formula-method-word.md)** method.
 
 
 ## Example

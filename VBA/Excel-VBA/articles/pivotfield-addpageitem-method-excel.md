@@ -30,11 +30,11 @@ Adds an additional item to a multiple item page field.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **String**| Source name of a **PivotItem** object, corresponding to the specific Online Analytical Processing (OLAP) member unique name.|
-| _ClearList_|Optional| **Variant**|If  **False** (default), adds a page item to the existing list. If **True** , deletes all current items and adds _Item_.|
+| _ClearList_|Optional| **Variant**|If **False** (default), adds a page item to the existing list. If **True** , deletes all current items and adds _Item_.|
 
 ## Remarks
 
-To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the  **[EnableMultiplePageItems](pivotfield-enablemultiplepageitems-property-excel.md)** property must be set to **True** .
+To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the **[EnableMultiplePageItems](pivotfield-enablemultiplepageitems-property-excel.md)** property must be set to **True** .
 
 
 ## Example

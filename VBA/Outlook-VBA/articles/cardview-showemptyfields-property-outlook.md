@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.ShowEmptyFields Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines if empty fields are displayed for cards in the **[CardView](cardview-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines if empty fields are displayed for cards in the **[CardView](cardview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

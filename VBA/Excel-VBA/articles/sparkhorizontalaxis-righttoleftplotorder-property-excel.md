@@ -30,7 +30,7 @@ Returns or sets whether the points on the horizontal axis are plotted in right-t
 
 ## Remarks
 
-Set the  **RightToLeftPlotOrder** property to **True** to plot the values on the horizontal axis in right-to-left order.
+Set the **RightToLeftPlotOrder** property to **True** to plot the values on the horizontal axis in right-to-left order.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.Background Property (PowerPoint)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[XlBackground](xlbackground-enumeration-powerpoint.md)**.
+Returns or sets the type of background for text used in charts. Read/write **Variant** that is set to one of the constants of **[XlBackground](xlbackground-enumeration-powerpoint.md)**.
 
 
 ## Syntax

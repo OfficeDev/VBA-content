@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.PaperSize Property (Publisher)
 
-Returns the paper size setting found on the  **Publication and Paper Settings** tab in the **Print Setup** dialog box in the Microsoft Publisher user interface ( **File** menu). Read-only.
+Returns the paper size setting found on the **Publication and Paper Settings** tab in the **Print Setup** dialog box in the Microsoft Publisher user interface ( **File** menu). Read-only.
 
 
 ## Syntax
 
  _expression_. **PaperSize**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-If you change the value of either the  **PaperHeight** or **PaperWidth** property, the value of the **PaperSize** property changes to Current.
+If you change the value of either the **PaperHeight** or **PaperWidth** property, the value of the **PaperSize** property changes to Current.
 
 

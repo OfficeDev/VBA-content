@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.MultiSelect Property (Excel)
 
-Returns or sets the selection mode of the specified list box. Can be one of the following constants:  **xlNone** , **xlSimple** , or **xlExtended** . Read/write **Long** .
+Returns or sets the selection mode of the specified list box. Can be one of the following constants: **xlNone** , **xlSimple** , or **xlExtended** . Read/write **Long** .
 
 
 ## Syntax
@@ -31,9 +31,9 @@ Simple multiselect ( **xlSimple** ) toggles the selection on an item in the list
 
 Extended multiselect ( **xlExtended** ) usually acts like a single-selection list box, so when you click an item, you cancel all other selections. When you hold down SHIFT while clicking the mouse or pressing an arrow key, you select items sequentially from the current item. When you hold down CTRL while clicking the mouse, you add single items to the list. This mode is appropriate when multiple items are allowed but not often used.
 
-You can use the  **Value** or **ListIndex** property to return and set the selected item in a single-select list box.
+You can use the **Value** or **ListIndex** property to return and set the selected item in a single-select list box.
 
-You cannot link multiselect list boxes by using the  **LinkedCell** property.
+You cannot link multiselect list boxes by using the **LinkedCell** property.
 
 
 ## Example

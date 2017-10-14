@@ -25,7 +25,7 @@ Returns or sets the 24-bit color to be used for diacritics in a right-to-left la
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by the Microsoft Visual Basic **RGB** function. The value of the **UseDiffDiacColor** property must be **True** to use this property.
+This property can be any valid **WdColor** constant or a value returned by the Microsoft Visual Basic **RGB** function. The value of the **UseDiffDiacColor** property must be **True** to use this property.
 
 
 ## Example

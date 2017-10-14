@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.FieldNames Property (Word)
 
-Returns a  **[MailMergeFieldNames](mailmergefieldnames-object-word.md)** collection that represents the names of all the fields in the specified mail merge data source. Read-only.
+Returns a **[MailMergeFieldNames](mailmergefieldnames-object-word.md)** collection that represents the names of all the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax

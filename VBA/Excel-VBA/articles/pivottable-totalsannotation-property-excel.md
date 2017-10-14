@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When this property is set to  **True**, the asterisk indicates that hidden items are included in the total. The asterisk appears regardless of whether any items in the report have been hidden.
+When this property is set to **True**, the asterisk indicates that hidden items are included in the total. The asterisk appears regardless of whether any items in the report have been hidden.
 
-For non-OLAP data sources, the value of this property is always  **False**.
+For non-OLAP data sources, the value of this property is always **False**.
 
 
 ## Example

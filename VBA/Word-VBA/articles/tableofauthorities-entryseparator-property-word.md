@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.EntrySeparator Property (Word)
 
-Returns or sets the characters (up to five) that separate a table of authorities entry and its page number. Read/write  **String** .
+Returns or sets the characters (up to five) that separate a table of authorities entry and its page number. Read/write **String** .
 
 
 ## Syntax

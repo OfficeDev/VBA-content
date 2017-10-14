@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.MarginRight Property (Word)
 
-Returns or sets the distance (in points) between the right edge of the text frame and the right edge of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
+Returns or sets the distance (in points) between the right edge of the text frame and the right edge of the inscribed rectangle of the shape that contains the text. Read/write **Single** .
 
 
 ## Syntax

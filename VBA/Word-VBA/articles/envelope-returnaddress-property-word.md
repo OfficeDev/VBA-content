@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.ReturnAddress Property (Word)
 
-Returns a  **Range** object that represents the envelope return address.
+Returns a **Range** object that represents the envelope return address.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ Scrolls through the workbook tabs at the bottom of the window. Doesn't affect th
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Sheets_|Optional| **Variant**|The number of sheets to scroll by. Use a positive number to scroll forward, a negative number to scroll backward, or 0 (zero) to not scroll at all. You must specify  _Sheets_ if you don't specify _Position_.|
-| _Position_|Optional| **Variant**|Use  **xlFirst** to scroll to the first sheet, or use **xlLast** to scroll to the last sheet. You must specify _Position_ if you don't specify _Sheets_.|
+| _Position_|Optional| **Variant**|Use **xlFirst** to scroll to the first sheet, or use **xlLast** to scroll to the last sheet. You must specify _Position_ if you don't specify _Sheets_.|
 
 ### Return Value
 

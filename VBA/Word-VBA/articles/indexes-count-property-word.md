@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Indexes.Count Property (Word)
 
-Returns a  **Long** that represents the number of indexes in the collection. Read-only.
+Returns a **Long** that represents the number of indexes in the collection. Read-only.
 
 
 ## Syntax

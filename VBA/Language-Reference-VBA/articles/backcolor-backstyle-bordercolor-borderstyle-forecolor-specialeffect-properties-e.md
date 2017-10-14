@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # BackColor, BackStyle, BorderColor, BorderStyle, ForeColor, SpecialEffect Properties Example
 
-The following example demonstrates the  **BorderStyle** and **SpecialEffect** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **BackColor**, **BackStyle**, **BorderColor**, and **ForeColor** properties.
+The following example demonstrates the **BorderStyle** and **SpecialEffect** properties, showing each border available through these properties. The example also demonstrates how to control color settings by using the **BackColor**, **BackStyle**, **BorderColor**, and **ForeColor** properties.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Six  **TextBox** controls named TextBox1 through TextBox6.
+- Six **TextBox** controls named TextBox1 through TextBox6.
     
-- Two  **ToggleButton** controls named ToggleButton1 and ToggleButton2.
+- Two **ToggleButton** controls named ToggleButton1 and ToggleButton2.
     
 
 

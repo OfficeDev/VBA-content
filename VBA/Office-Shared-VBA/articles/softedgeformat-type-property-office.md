@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SoftEdgeFormat.Type Property (Office)
 
-Gets or sets the type of the  **SoftEdgeFormat** object. Read/write.
+Gets or sets the type of the **SoftEdgeFormat** object. Read/write.
 
 
 ## Syntax

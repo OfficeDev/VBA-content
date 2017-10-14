@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ReadingLayout Property (Word)
 
-Sets or returns a  **Boolean** that represents whether a document is being viewed in reading layout view. .
+Sets or returns a **Boolean** that represents whether a document is being viewed in reading layout view. .
 
 
 ## Syntax

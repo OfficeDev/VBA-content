@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTable.RecordCount Property (Excel)
 
-Returns the total row count for the model table.  **Integer** Read-only
+Returns the total row count for the model table. **Integer** Read-only
 
 
 ## Syntax

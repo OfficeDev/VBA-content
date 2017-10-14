@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersions Object (Office)
 
-The  **DocumentLibraryVersions** property of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in Microsoft PowerPoint returns a **DocumentLibraryVersions** object. The **DocumentLibraryVersions** object represents a collection of **DocumentLibraryVersion** objects.
+The **DocumentLibraryVersions** property of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in Microsoft PowerPoint returns a **DocumentLibraryVersions** object. The **DocumentLibraryVersions** object represents a collection of **DocumentLibraryVersion** objects.
 
 
 ## Remarks
 
-Use the  **DocumentLibraryVersions** object with documents stored in a SharePoint document library on the server to determine whether versioning is enabled for the active document and, if versioning is enabled, to manage the document's collection of **DocumentLibraryVersion** objects.
+Use the **DocumentLibraryVersions** object with documents stored in a SharePoint document library on the server to determine whether versioning is enabled for the active document and, if versioning is enabled, to manage the document's collection of **DocumentLibraryVersion** objects.
 
  Each **DocumentLibraryVersion** object represents one saved version of the active document. When versioning is enabled, a new version is created on the server when the actions listed below occur; additional versions are not created each time the user saves changes to the open document.
 
@@ -33,7 +33,7 @@ Use the  **DocumentLibraryVersions** object with documents stored in a SharePoin
     
 
 
-The  **DocumentLibraryVersions** object model is available whether versioning is enabled or disabled on the active document. The **DocumentLibraryVersions** property of the **Document**, **Workbook** and **Presentation** objects does not return **Nothing** when the active document is not stored in a document library or versioning is not enabled. Use the **IsVersioningEnabled** property to determine whether the document library is configured to save a backup copy, or version, each time the document is edited on the Web site.
+The **DocumentLibraryVersions** object model is available whether versioning is enabled or disabled on the active document. The **DocumentLibraryVersions** property of the **Document**, **Workbook** and **Presentation** objects does not return **Nothing** when the active document is not stored in a document library or versioning is not enabled. Use the **IsVersioningEnabled** property to determine whether the document library is configured to save a backup copy, or version, each time the document is edited on the Web site.
 
 
 ## Example

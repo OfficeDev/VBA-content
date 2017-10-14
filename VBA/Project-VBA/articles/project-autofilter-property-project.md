@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.AutoFilter Property (Project)
 
-Gets or sets whether the AutoFilter feature is turned on for a project. Read/write  **Boolean**.
+Gets or sets whether the AutoFilter feature is turned on for a project. Read/write **Boolean**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets whether the AutoFilter feature is turned on for a project. Read/wri
 
 ## Remarks
 
-The  **AutoFilter** setting is in the **Filter** drop-down list on the **View** tab of the Ribbon.
+The **AutoFilter** setting is in the **Filter** drop-down list on the **View** tab of the Ribbon.
 
 
 ## Example

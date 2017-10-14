@@ -22,5 +22,5 @@ Used with the [ComboBox.SeparatorCharacters Property (Access)](combobox-separato
 |**acSeparatorCharactersComma**|3|A comma (,) is used as the separator character.|
 |**acSeparatorCharactersNewLine**|1|Each value appears on its own line.|
 |**acSeparatorCharactersSemiColon**|2|A semicolon (;) is used as the separator character.|
-|**acSeparatorCharactersSystemSeparator**|0|The  **List separator** setting in the **Regional and Language Options** in Windows Control Panel is used as the separator character.|
+|**acSeparatorCharactersSystemSeparator**|0|The **List separator** setting in the **Regional and Language Options** in Windows Control Panel is used as the separator character.|
 

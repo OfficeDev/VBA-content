@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CommandBars Property (Word)
 
-Returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
+Returns a **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **CommandBars** collection that represents the menu bar and all the t
 
 ## Remarks
 
-Use the  **CustomizationContext** property to set the template or document context prior to accessing the **CommandBars** collection.
+Use the **CustomizationContext** property to set the template or document context prior to accessing the **CommandBars** collection.
 
 
 

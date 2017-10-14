@@ -38,7 +38,7 @@ Sets the fill color for the assignment segments of a selected task in the Team P
 
 ## Example
 
-In the following example, a task is assigned to two resources. After selecting either of the assignments, running the  **ChangeSegmentColor** macro shows all assignments for the task as light red with a blue border.
+In the following example, a task is assigned to two resources. After selecting either of the assignments, running the **ChangeSegmentColor** macro shows all assignments for the task as light red with a blue border.
 
 
 ```vb

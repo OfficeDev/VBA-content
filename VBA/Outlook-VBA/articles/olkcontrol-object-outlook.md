@@ -16,12 +16,12 @@ Defines a set of control properties common to some Microsoft Outlook controls.
 
 ## Remarks
 
-The members offered by  **OlkControl** can apply to most Outlook controls. **OlkControl** provides a class to which you can conveniently cast an Outlook control without resorting to reflection. Although **OlkControl** does not apply to Microsoft Forms 2.0 controls, similar properties are available to Forms 2.0 controls. For more information, see[KB 180972: Additional Control Properties Available for Programming](http://support.microsoft.com/kb/180972).
+The members offered by **OlkControl** can apply to most Outlook controls. **OlkControl** provides a class to which you can conveniently cast an Outlook control without resorting to reflection. Although **OlkControl** does not apply to Microsoft Forms 2.0 controls, similar properties are available to Forms 2.0 controls. For more information, see[KB 180972: Additional Control Properties Available for Programming](http://support.microsoft.com/kb/180972).
 
 
 ## Example
 
-The following code sample uses the  **[OlkControl](olkcontrol-object-outlook.md)** class to enable automatic resizing of a text box control with respect to any resizing of the form. It uses casting in Visual Basic to allow the text box control to use the properties of **OlkControl**.
+The following code sample uses the **[OlkControl](olkcontrol-object-outlook.md)** class to enable automatic resizing of a text box control with respect to any resizing of the form. It uses casting in Visual Basic to allow the text box control to use the properties of **OlkControl**.
 
 
 ```

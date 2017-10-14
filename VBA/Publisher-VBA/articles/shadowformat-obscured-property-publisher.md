@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Obscured Property (Publisher)
 
-Returns or sets an  **MsoTriState** value indicating whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
+Returns or sets an **MsoTriState** value indicating whether the shadow of the specified shape appears filled in and is obscured by the shape. Read/write.
 
 
 ## Syntax
 
  _expression_. **Obscured**
 
- _expression_A variable that represents an  **ShadowFormat** object.
+ _expression_A variable that represents an **ShadowFormat** object.
 
 
 ### Return Value
@@ -30,15 +30,15 @@ MsoTriState
 
 ## Remarks
 
-The  **Obscured** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **Obscured** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The shadow of the specified shape does not appear filled in and is not obscured by the shape if the shape has no fill.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|The shadow of the specified shape does not appear filled in and is not obscured by the shape if the shape has no fill.|
 
 ## Example

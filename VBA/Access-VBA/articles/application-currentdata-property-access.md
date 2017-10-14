@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CurrentData Property (Access)
 
-You can use the  **CurrentData** property to access the **[CurrentData](currentdata-object-access.md)** object and its related collections. Read-only **CurrentData** object.
+You can use the **CurrentData** property to access the **[CurrentData](currentdata-object-access.md)** object and its related collections. Read-only **CurrentData** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **CurrentData** property to access the **[CurrentData](currentd
 
 ## Remarks
 
-Use the  **CurrentData** property to refer to one of the following current database collections together with one of its properties or methods.
+Use the **CurrentData** property to refer to one of the following current database collections together with one of its properties or methods.
 
 
 |||

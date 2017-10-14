@@ -8,7 +8,7 @@ ms.prod: excel
 
 # XlParentDataLabelOptions Enumeration (Excel)
 
-Constants passed to and returned by the  **Series.ParentDataLabelOption** property.
+Constants passed to and returned by the **Series.ParentDataLabelOption** property.
 
 
 ## Members

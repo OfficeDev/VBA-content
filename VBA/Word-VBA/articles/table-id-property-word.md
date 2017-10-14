@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.ID Property (Word)
 
-Returns or sets the identifying label for the specified table when the document is saved as a Web page. Read/write  **String** .
+Returns or sets the identifying label for the specified table when the document is saved as a Web page. Read/write **String** .
 
 
 ## Syntax

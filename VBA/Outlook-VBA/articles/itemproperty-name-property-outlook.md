@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ItemProperty.Name Property (Outlook)
 
-Returns or sets a  **String** value that represents the display name for the object. Read-only.
+Returns or sets a **String** value that represents the display name for the object. Read-only.
 
 
 ## Syntax

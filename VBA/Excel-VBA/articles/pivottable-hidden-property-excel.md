@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PivotTable.Hidden Property (Excel)
 
-Checks whether the PivotTable exists at the worksheet level.  **Boolean** . Read-only
+Checks whether the PivotTable exists at the worksheet level. **Boolean** . Read-only
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Checks whether the PivotTable exists at the worksheet level.  **Boolean** . Read
 
 ## Remarks
 
-When the  **Hidden** property is set to **True** , the PivotTable object is hidden from the worksheet level. When the property is set to **False** , the PivotTable exists on a worksheet.
+When the **Hidden** property is set to **True** , the PivotTable object is hidden from the worksheet level. When the property is set to **False** , the PivotTable exists on a worksheet.
 
 
 ## Property value

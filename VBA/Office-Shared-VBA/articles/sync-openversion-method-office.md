@@ -36,11 +36,11 @@ Opens a different version of the shared document alongside the currently open lo
 
 ## Remarks
 
-Use the  **OpenVersion** method to open the last version viewed ( **msoSyncVersionLastViewed** ) or the server copy ( **msoSyncVersionServer** ) of the shared document alongside the currently open local version.
+Use the **OpenVersion** method to open the last version viewed ( **msoSyncVersionLastViewed** ) or the server copy ( **msoSyncVersionServer** ) of the shared document alongside the currently open local version.
 
  ** The msoSyncVersionLastViewed** option displays the copy of the document that is created whenever the user overwrites the local copy with the server copy. For example, if you call the **ResolveConflict** method with the **msoSyncConflictServerWins** option, then your local changes are saved and can be viewed by calling ** OpenVersion(msoSyncVersionLastViewed)**.
 
-Not all document synchronization problems raise trappable run-time errors. After performing an operation using the  **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
+Not all document synchronization problems raise trappable run-time errors. After performing an operation using the **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
 
 
 ## Example

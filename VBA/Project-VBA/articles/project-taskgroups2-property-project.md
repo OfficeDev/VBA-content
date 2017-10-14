@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.TaskGroups2 Property (Project)
 
-Gets a  **[TaskGroups2](taskgroups2-object-project.md)** collection that represents all the task-based **Group2** definitions in the specified project. Read-only **TaskGroups2**.
+Gets a **[TaskGroups2](taskgroups2-object-project.md)** collection that represents all the task-based **Group2** definitions in the specified project. Read-only **TaskGroups2**.
 
 
 ## Syntax

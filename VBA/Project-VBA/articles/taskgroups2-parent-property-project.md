@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskGroups2.Parent Property (Project)
 
-Gets the parent of the object. Read-only  **Project**.
+Gets the parent of the object. Read-only **Project**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Project
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of an object's parent.
+Use the **Parent** property to access the properties or methods of an object's parent.
 
 
 ## See also

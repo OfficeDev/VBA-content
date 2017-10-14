@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ResourceFilters Property (Project)
 
-Gets a  **[Filters](filters-object-project.md)** collection that contains the resource filters of the project. Read-only **Filters**.
+Gets a **[Filters](filters-object-project.md)** collection that contains the resource filters of the project. Read-only **Filters**.
 
 
 ## Syntax

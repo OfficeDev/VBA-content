@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat2.Creator Property (Office)
 
-Gets a value representing the application that created the  **ParagraphFormat2** object. Read-only.
+Gets a value representing the application that created the **ParagraphFormat2** object. Read-only.
 
 
 ## Syntax

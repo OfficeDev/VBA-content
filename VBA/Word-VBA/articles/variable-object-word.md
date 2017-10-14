@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Variable Object (Word)
 
-Represents a variable stored as part of a document. Document variables are used to preserve macro settings in between macro sessions. The  **Variable** object is a member of the **[Variables](variables-object-word.md)** collection. The **Variables** collection includes all the document variables in a document or template.
+Represents a variable stored as part of a document. Document variables are used to preserve macro settings in between macro sessions. The **Variable** object is a member of the **[Variables](variables-object-word.md)** collection. The **Variables** collection includes all the document variables in a document or template.
 
 
 ## Remarks
 
-Use  **Variables** (Index), where Index is the document variable name or the index number, to return a single **Variable** object. The following example displays the value of the Temp document variable in the active document.
+Use **Variables** (Index), where Index is the document variable name or the index number, to return a single **Variable** object. The following example displays the value of the Temp document variable in the active document.
 
 
 ```vb
 MsgBox ActiveDocument.Variables("Temp").Value
 ```
 
-The index number represents the position of the document variable in the  **Variables** collection. The last variable added to the **Variables** collection is index number 1; the second-to-last variable added to the collection is index number 2, and so on. The following example displays the name of the first document variable in the active document.
+The index number represents the position of the document variable in the **Variables** collection. The last variable added to the **Variables** collection is index number 1; the second-to-last variable added to the collection is index number 2, and so on. The following example displays the name of the first document variable in the active document.
 
 
 
@@ -34,7 +34,7 @@ The index number represents the position of the document variable in the  **Vari
 MsgBox ActiveDocument.Variables(1).Name
 ```
 
-Use the  **Add** method of the **Variables** collection to add a variable to a document. The following example adds a document variable named "Temp" with a value of 12 to the active document.
+Use the **Add** method of the **Variables** collection to add a variable to a document. The following example adds a document variable named "Temp" with a value of 12 to the active document.
 
 
 
@@ -43,7 +43,7 @@ Use the  **Add** method of the **Variables** collection to add a variable to a d
 ActiveDocument.Variables.Add Name:="Temp", Value:="12"
 ```
 
-If you try to add a document variable with a name that already exists in the  **Variables** collection, an error occurs. To avoid this error, you can enumerate the collection before adding any new variables. If the Blue document variable already exists in the active document, the following example sets its value to 6. If this variable does not already exist, this example adds it to the document and sets it to 6.
+If you try to add a document variable with a name that already exists in the **Variables** collection, an error occurs. To avoid this error, you can enumerate the collection before adding any new variables. If the Blue document variable already exists in the active document, the following example sets its value to 6. If this variable does not already exist, this example adds it to the document and sets it to 6.
 
 
 
@@ -73,7 +73,7 @@ End With
 ActiveDocument.ActiveWindow.View.ShowFieldCodes = False
 ```
 
-To add a document variable to a template, open the template as a document by using the  **OpenAsDocument** method. The following example stores the user name (from the **Options** dialog box) in the template attached to the active document.
+To add a document variable to a template, open the template as a document by using the **OpenAsDocument** method. The following example stores the user name (from the **Options** dialog box) in the template attached to the active document.
 
 
 

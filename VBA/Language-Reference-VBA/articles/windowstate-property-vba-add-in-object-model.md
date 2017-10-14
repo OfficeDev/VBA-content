@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets a numeric value specifying the visual state of the window. Read/write.
  **Settings**
-The  **WindowState** property returns or sets the following values:
+The **WindowState** property returns or sets the following values:
 
 
 |**Constant**|**Value**|**Description**|

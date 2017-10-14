@@ -34,7 +34,7 @@ Sets calculation options.
 | _SpreadPercentToStatusDate_|Optional|**Boolean**|**True** if edits to total task percent complete are spread to the status date.|
 | _SpreadCostsToStatusDate_|Optional|**Boolean**|**True** if edits to total actual cost are spread to the status date. The SpreadCostsToStatusDate argument is ignored if AutoCalcCosts is **True**.|
 | _AutoCalcCosts_|Optional|**Boolean**|**True** if actual costs are always calculated by Project.|
-| _FixedCostAccrual_|Optional|**Long**|The default method used to accrue fixed costs. Can be one of the following  **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants: **pjStart**, **pjEnd**, or **pjProrated**.|
+| _FixedCostAccrual_|Optional|**Long**|The default method used to accrue fixed costs. Can be one of the following **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants: **pjStart**, **pjEnd**, or **pjProrated**.|
 | _CalcMultipleCriticalPaths_|Optional|**Boolean**|**True** if Project calculates multiple critical paths for the project.|
 | _CriticalSlack_|Optional|**Integer**|The maximum amount of slack allowed for critical tasks.|
 | _SetDefaults_|Optional|**Boolean**|**True** if the values specified for all arguments except Automatic become the default for new projects.|
@@ -43,8 +43,8 @@ Sets calculation options.
 | _AndMoveRemaining_|Optional|**Boolean**|**True** if Project moves the start of remaining parts back to the status date.|
 | _MoveRemaining_|Optional|**Boolean**|**True** if Project moves the start of remaining parts before the status date forward to the status date.|
 | _AndMoveCompleted_|Optional|**Boolean**|**True** if Project moves the end of completed parts forward to the status date.|
-| _EVMethod_|Optional|**Long**|The default method for calculating earned value. Can be one of the following  **[PJEarnedValueMethod](pjearnedvaluemethod-enumeration-project.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.|
-| _EVBaseline_|Optional|**Long**|The baseline to use when calculating earned value. Can be one of the following  **[PjBaselines](pjbaselines-enumeration-project.md)** constants: **pjBaseline**, or **pjBaseline1**. . . **pjBaseline10**.|
+| _EVMethod_|Optional|**Long**|The default method for calculating earned value. Can be one of the following **[PJEarnedValueMethod](pjearnedvaluemethod-enumeration-project.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.|
+| _EVBaseline_|Optional|**Long**|The baseline to use when calculating earned value. Can be one of the following **[PjBaselines](pjbaselines-enumeration-project.md)** constants: **pjBaseline**, or **pjBaseline1**. . . **pjBaseline10**.|
 
 ### Return Value
 
@@ -53,9 +53,9 @@ Sets calculation options.
 
 ## Remarks
 
-If an argument is omitted, its default value is specified by the setting on the  **Schedule** tab of the **Project Options** dialog box.
+If an argument is omitted, its default value is specified by the setting on the **Schedule** tab of the **Project Options** dialog box.
 
-Using the  **OptionsCalculation** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
+Using the **OptionsCalculation** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
 
 

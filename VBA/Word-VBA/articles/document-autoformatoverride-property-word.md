@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.AutoFormatOverride Property (Word)
 
-Returns or sets a  **Boolean** that represents whether automatic formatting options override formatting restrictions in a document where formatting restrictions are in effect.
+Returns or sets a **Boolean** that represents whether automatic formatting options override formatting restrictions in a document where formatting restrictions are in effect.
 
 
 ## Syntax

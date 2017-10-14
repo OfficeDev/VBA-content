@@ -35,12 +35,12 @@ Shape()
 
 When you refresh data from a data source that has changed since the last time you refreshed data, conflicts can occur. Conflicts can result when a single shape is linked to more than one row in the same data source, or when a shape is linked to a row in the data source that has been deleted. 
 
-To determine which data-recordset rows produced the conflict, pass the shape(s) returned by  **GetAllRefreshConflicts** to the **[GetMatchingRowsForRefreshConflict](datarecordset-getmatchingrowsforrefreshconflict-method-visio.md)** method, which returns an array of rows that are in conflict.
+To determine which data-recordset rows produced the conflict, pass the shape(s) returned by **GetAllRefreshConflicts** to the **[GetMatchingRowsForRefreshConflict](datarecordset-getmatchingrowsforrefreshconflict-method-visio.md)** method, which returns an array of rows that are in conflict.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetAllRefreshConflicts** method to determine which shapes, if any, have conflicts after a data recordset is refreshed. It refreshes the data recordset most recently added and if it finds no resulting conflicts, prints "No conflicts" in the **Immediate** window. If it does find conflicts, it iterates through the returned shape array and prints the names of the shapes that have conflicts in the same window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GetAllRefreshConflicts** method to determine which shapes, if any, have conflicts after a data recordset is refreshed. It refreshes the data recordset most recently added and if it finds no resulting conflicts, prints "No conflicts" in the **Immediate** window. If it does find conflicts, it iterates through the returned shape array and prints the names of the shapes that have conflicts in the same window.
 
 Before running this macro, make sure that the most recently added data recordset is a connected (non-XML-based) data recordset and that the connection to the original data source is still available. Then delete a row from the data source or make another change that will cause a conflict.
 

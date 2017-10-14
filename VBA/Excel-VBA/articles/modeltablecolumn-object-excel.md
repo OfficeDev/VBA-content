@@ -16,7 +16,7 @@ Represent a single column inside a [ModelTable Object (Excel)](modeltable-object
 
 ## Remarks
 
-The  **ModelTableColumn** object will be read only. The purpose of this object is for use in creating relationships programmatically.
+The **ModelTableColumn** object will be read only. The purpose of this object is for use in creating relationships programmatically.
 
 
 ## See also

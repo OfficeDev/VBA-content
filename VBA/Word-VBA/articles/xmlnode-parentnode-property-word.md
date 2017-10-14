@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.ParentNode Property (Word)
 
-Returns an  **XMLNode** object that represents the parent element of the specified element.
+Returns an **XMLNode** object that represents the parent element of the specified element.
 
 
 ## Syntax

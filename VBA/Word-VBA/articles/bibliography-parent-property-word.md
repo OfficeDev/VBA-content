@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bibliography.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Bibliography** object.
+Returns an **Object** that represents the parent object of the specified **Bibliography** object.
 
 
 ## Syntax

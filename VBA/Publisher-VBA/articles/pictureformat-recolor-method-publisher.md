@@ -18,9 +18,9 @@ Changes the color of a picture in a publication.
 
 ## Syntax
 
- _expression_. **Recolor**( **_Color_**,  **_LeaveBlackPartsBlack_**)
+ _expression_. **Recolor**( **_Color_**, **_LeaveBlackPartsBlack_**)
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Parameters
@@ -34,12 +34,12 @@ Changes the color of a picture in a publication.
 
 ## Remarks
 
-The  **Recolor** method corresponds to the options available in the **Recolor Picture** dialog box. (On the **Format** menu, click **Picture**, and then click  **Recolor**)
+The **Recolor** method corresponds to the options available in the **Recolor Picture** dialog box. (On the **Format** menu, click **Picture**, and then click **Recolor**)
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Recolor** method to change the color of a picture. It recolors the first shape in the **Shapes** collection on the first page of the publication. After running the code, you can restore the original colors by using the **[RestoreOriginalColors](pictureformat-restoreoriginalcolors-method-publisher.md)** method.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Recolor** method to change the color of a picture. It recolors the first shape in the **Shapes** collection on the first page of the publication. After running the code, you can restore the original colors by using the **[RestoreOriginalColors](pictureformat-restoreoriginalcolors-method-publisher.md)** method.
 
 For this example to work, the shape to be recolored must be either a picture or an OLE object that represents a picture.
 

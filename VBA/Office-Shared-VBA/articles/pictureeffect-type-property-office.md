@@ -22,7 +22,7 @@ Specifies the type of Picture Effect. Read-only
 
 ## Remarks
 
-This property takes a  **MsoPictureEffectType** enumeration.
+This property takes a **MsoPictureEffectType** enumeration.
 
 
 ## See also

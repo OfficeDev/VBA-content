@@ -28,7 +28,7 @@ Displays the display name of the user who last saved changes to the server copy 
 
 ## Remarks
 
-If the active document is not configured for synchronization between the local copy and the server copy, the  **WorkspaceLastChangedBy** property raises a run-time error.
+If the active document is not configured for synchronization between the local copy and the server copy, the **WorkspaceLastChangedBy** property raises a run-time error.
 
 
 ## Example

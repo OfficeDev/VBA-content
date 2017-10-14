@@ -30,7 +30,7 @@ Returns or sets the custom maximum value for the vertical axis of a sparkline. R
 
 ## Remarks
 
-The  **CustomMaxScaleValue** property can be returned or set only when the **[MaxScaleType](sparkverticalaxis-maxscaletype-property-excel.md)** property of the specified **SparkVerticalAxis** object is set to **xlSparkScaleCustom** (3).
+The **CustomMaxScaleValue** property can be returned or set only when the **[MaxScaleType](sparkverticalaxis-maxscaletype-property-excel.md)** property of the specified **SparkVerticalAxis** object is set to **xlSparkScaleCustom** (3).
 
 
 ## See also

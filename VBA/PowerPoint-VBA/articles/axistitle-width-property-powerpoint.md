@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisTitle.Width Property (PowerPoint)
 
-Returns a  **Double** value that represents the width, in points, of the object. Read-only.
+Returns a **Double** value that represents the width, in points, of the object. Read-only.
 
 
 ## Syntax

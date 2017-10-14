@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # How to: Control the Selection Behavior and Drag Behavior When Entering a Text Box
 
-The following example uses the  **[DragBehavior](textbox-dragbehavior-property-outlook-forms-script.md)** and **[EnterFieldBehavior](olktextbox-enterfieldbehavior-property-outlook.md)** properties to demonstrate the different effects that you can provide when entering a control and when dragging information from one control to another.
+The following example uses the **[DragBehavior](textbox-dragbehavior-property-outlook-forms-script.md)** and **[EnterFieldBehavior](olktextbox-enterfieldbehavior-property-outlook.md)** properties to demonstrate the different effects that you can provide when entering a control and when dragging information from one control to another.
 
-The sample uses two  **[TextBox](textbox-object-outlook-forms-script.md)** controls. You can set **DragBehavior** and **EnterFieldBehavior** for each control and see the effects of dragging from one control to another.
+The sample uses two **[TextBox](textbox-object-outlook-forms-script.md)** controls. You can set **DragBehavior** and **EnterFieldBehavior** for each control and see the effects of dragging from one control to another.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Two  **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 and ToggleButton2. These controls are associated with TextBox1.
+- Two **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 and ToggleButton2. These controls are associated with TextBox1.
     
-- A  **TextBox** named TextBox2.
+- A **TextBox** named TextBox2.
     
-- Two  **ToggleButton** controls named ToggleButton3 and ToggleButton4. These controls are associated with TextBox2.
+- Two **ToggleButton** controls named ToggleButton3 and ToggleButton4. These controls are associated with TextBox2.
     
 
 

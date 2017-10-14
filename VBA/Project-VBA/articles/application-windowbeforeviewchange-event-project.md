@@ -27,10 +27,10 @@ Occurs when the top pane view is changed within a window in Project.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The window where the view change occurs.|
-| _prevView_|Required|**View**|The previous view (top pane) the user is in. If the user was not in a project view before applying the current view, this value will return  **Null**.|
+| _prevView_|Required|**View**|The previous view (top pane) the user is in. If the user was not in a project view before applying the current view, this value will return **Null**.|
 | _newView_|Required|**View**|The new view (top pane) to which the user is trying to change.|
-| _projectHasViewWindow_|Required|**Boolean**|True if the Project  **View Bar** is currently visible.|
-| _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with Field is not changed.|
+| _projectHasViewWindow_|Required|**Boolean**|True if the Project **View Bar** is currently visible.|
+| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with Field is not changed.|
 
 ### Return Value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.MiddleName Property (Outlook)
 
-Returns or sets a  **String** representing the middle name for the contact. Read/write.
+Returns or sets a **String** representing the middle name for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the middle name for the contact. Read
 
 ## Remarks
 
-This property is parsed from the  **[FullName](contactitem-fullname-property-outlook.md)** property, but may be changed or entered independently should it be parsed incorrectly. Note that any such changes or entries to this property will be overwritten by any subsequent changes of entries to **FullName** .
+This property is parsed from the **[FullName](contactitem-fullname-property-outlook.md)** property, but may be changed or entered independently should it be parsed incorrectly. Note that any such changes or entries to this property will be overwritten by any subsequent changes of entries to **FullName** .
 
 
 ## See also

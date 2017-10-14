@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlCategoryShortcutKey Enumeration (Outlook)
 
-Identifies the shortcut key specified for the  **[ShortcutKey](category-shortcutkey-property-outlook.md)** property of the **[Category](category-object-outlook.md)** object.
+Identifies the shortcut key specified for the **[ShortcutKey](category-shortcutkey-property-outlook.md)** property of the **[Category](category-object-outlook.md)** object.
 
 
 

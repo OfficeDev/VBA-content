@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[SaveAs](workbook-saveas-method-excel.md)** method to set this property.
+Use the **[SaveAs](workbook-saveas-method-excel.md)** method to set this property.
 
 
 ## Example

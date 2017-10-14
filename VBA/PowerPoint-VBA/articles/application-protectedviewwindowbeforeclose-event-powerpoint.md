@@ -40,7 +40,7 @@ nothing
 
 ## Remarks
 
-If the  **ProtectedViewWindowsBeforeClose** event is called as part of the[ProtectedViewWindow.Edit](protectedviewwindow-edit-method-powerpoint.md) method, setting _Cancel_ to **True** produces no action.
+If the **ProtectedViewWindowsBeforeClose** event is called as part of the[ProtectedViewWindow.Edit](protectedviewwindow-edit-method-powerpoint.md) method, setting _Cancel_ to **True** produces no action.
 
 
 ## See also

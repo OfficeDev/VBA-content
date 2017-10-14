@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities Object (Word)
 
-Represents a single table of authorities in a document (a TOA field). The  **TableOfAuthorities** object is a member of the **[TablesOfAuthorities](tablesofauthorities-object-word.md)** collection. The **TablesOfAuthorities** collection includes all the tables of authorities in a document.
+Represents a single table of authorities in a document (a TOA field). The **TableOfAuthorities** object is a member of the **[TablesOfAuthorities](tablesofauthorities-object-word.md)** collection. The **TablesOfAuthorities** collection includes all the tables of authorities in a document.
 
 
 ## Remarks
 
-Use  **TablesOfAuthorities** (Index), where Index is the index number, to return a single **TableOfAuthorities** object. The index number represents the position of the table of authorities in the document. The following example includes category headers in the first table of authorities in the active document and then updates the table.
+Use **TablesOfAuthorities** (Index), where Index is the index number, to return a single **TableOfAuthorities** object. The index number represents the position of the table of authorities in the document. The following example includes category headers in the first table of authorities in the active document and then updates the table.
 
 
 ```vb
@@ -28,7 +28,7 @@ With ActiveDocument.TablesOfAuthorities(1)
 End With
 ```
 
-Use the  **Add** method to add a table of authorities to a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
+Use the **Add** method to add a table of authorities to a document. The following example adds a table of authorities that includes all categories at the beginning of the active document.
 
 
 
@@ -40,7 +40,7 @@ ActiveDocument.TablesOfAuthorities.Add Range:=myRange, _
 ```
 
 
- **Note**  A table of authorities is built from TA (Table of Authorities Entry) fields in a document. Use the  **MarkCitation** method to mark citations to be included in a table of authorities.
+ **Note**  A table of authorities is built from TA (Table of Authorities Entry) fields in a document. Use the **MarkCitation** method to mark citations to be included in a table of authorities.
 
 
 ## See also

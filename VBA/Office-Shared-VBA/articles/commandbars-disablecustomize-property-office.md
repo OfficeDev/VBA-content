@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBars.DisableCustomize Property (Office)
 
-Is  **True** if toolbar customization is disabled. Read/write.
+Is **True** if toolbar customization is disabled. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Is  **True** if toolbar customization is disabled. Read/write.
 
 ## Example
 
-The following example switches the  **DisableCustomize** property on or off.
+The following example switches the **DisableCustomize** property on or off.
 
 
 ```

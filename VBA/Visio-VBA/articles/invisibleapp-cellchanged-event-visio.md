@@ -32,19 +32,19 @@ Private Sub  _expression_ _**CellChanged**( **_ByVal Cell As [IVCELL]_** )
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
+If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
 
 
 
 
- **Note**  You can use VBA  **WithEvents** variables to sink the **CellChanged** event.
+ **Note**  You can use VBA **WithEvents** variables to sink the **CellChanged** event.
 
-For performance considerations, the  **Document** object's event set does not include the **CellChanged** event. To sink the **CellChanged** event from a **Document** object (and the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
+For performance considerations, the **Document** object's event set does not include the **CellChanged** event. To sink the **CellChanged** event from a **Document** object (and the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
 
 
 ## Example
 
-This VBA module shows how to use the  **CellChanged** event to trap changes to a shape's cells.
+This VBA module shows how to use the **CellChanged** event to trap changes to a shape's cells.
 
 
 ```vb

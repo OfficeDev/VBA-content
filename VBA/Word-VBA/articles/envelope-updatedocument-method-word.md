@@ -54,7 +54,7 @@ errhandler:
 End Sub
 ```
 
-This example adds an envelope to the active document, using predefined addresses. The default envelope bar code and Facing Identification Mark (FIM-A) settings are set to  **True** , and the envelope in the active document is updated.
+This example adds an envelope to the active document, using predefined addresses. The default envelope bar code and Facing Identification Mark (FIM-A) settings are set to **True** , and the envelope in the active document is updated.
 
 
 

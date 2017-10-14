@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The maximum value of the  **SplitHorizontal** property is always less than 100% because the slide pane has a minimum width that depends on a 10% zoom level. The actual maximum value may vary depending on the size of the application window.
+The maximum value of the **SplitHorizontal** property is always less than 100% because the slide pane has a minimum width that depends on a 10% zoom level. The actual maximum value may vary depending on the size of the application window.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.EntryMacro Property (Word)
 
-Returns or sets an entry macro name for the specified form field (CheckBox, DropDown, or TextInput). Read/write  **String** .
+Returns or sets an entry macro name for the specified form field (CheckBox, DropDown, or TextInput). Read/write **String** .
 
 
 ## Syntax

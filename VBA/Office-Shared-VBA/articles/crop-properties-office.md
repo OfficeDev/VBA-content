@@ -14,8 +14,8 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Application](crop-application-property-office.md)|Gets the  **Application** object of the host application. Read-only.|
-|[Creator](crop-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the  **Crop** object was created. Read-only.|
+|[Application](crop-application-property-office.md)|Gets the **Application** object of the host application. Read-only.|
+|[Creator](crop-creator-property-office.md)|Gets a 32-bit integer that indicates the application in which the **Crop** object was created. Read-only.|
 |[PictureHeight](crop-pictureheight-property-office.md)|Gets or sets the height of the image that is to be cropped. Read/write.|
 |[PictureOffsetX](crop-pictureoffsetx-property-office.md)|Gets or sets the x-axis offset of the image that is to be cropped. Read/write.|
 |[PictureOffsetY](crop-pictureoffsety-property-office.md)|Gets or sets the y-axis offset of the image that is to be cropped. Read/write.|

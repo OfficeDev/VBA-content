@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellFormat.Borders Property (Excel)
 
-Returns or sets a  **[Borders](borders-object-excel.md)** collection that represents the search criteria based on the cell's border format.
+Returns or sets a **[Borders](borders-object-excel.md)** collection that represents the search criteria based on the cell's border format.
 
 
 ## Syntax

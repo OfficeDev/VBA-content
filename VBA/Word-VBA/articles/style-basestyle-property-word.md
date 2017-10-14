@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.BaseStyle Property (Word)
 
-Returns or sets an existing style on which you can base the formatting of another style. Read/write  **Variant** .
+Returns or sets an existing style on which you can base the formatting of another style. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an existing style on which you can base the formatting of anothe
 
 ## Remarks
 
-To set the  **BaseStyle** property, specify either the local name of the base style, an integer or a **wdBuiltinStyle** constant, or an object that represents the base style. For a list of the **wdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
+To set the **BaseStyle** property, specify either the local name of the base style, an integer or a **wdBuiltinStyle** constant, or an object that represents the base style. For a list of the **wdBuiltinStyle** constants, see the **Style** property for the object that you want to set.
 
 
 ## Example

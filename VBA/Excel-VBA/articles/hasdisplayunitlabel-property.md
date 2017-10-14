@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HasDisplayUnitLabel Property
 
- **True** if the label specified by the **[DisplayUnit](displayunit-property.md)** or  **[DisplayUnitCustom](displayunitcustom-property.md)** property is displayed on the value axis.  **False** if no units are displayed. The default value is **True**. Read/write  **Boolean**.
+ **True** if the label specified by the **[DisplayUnit](displayunit-property.md)** or **[DisplayUnitCustom](displayunitcustom-property.md)** property is displayed on the value axis. **False** if no units are displayed. The default value is **True**. Read/write **Boolean**.
 
 
 ## Example

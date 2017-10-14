@@ -21,15 +21,15 @@ Represents a URL link saved in a shared document workspace site.
 
 ## Remarks
 
-Use the  **SharedWorkspaceLink** object to manage links to additional documents and information of interest to the members who are collaborating on the documents in the shared workspace site.
+Use the **SharedWorkspaceLink** object to manage links to additional documents and information of interest to the members who are collaborating on the documents in the shared workspace site.
 
-Use the  **Item** ( _index_ ) property of the **SharedWorkspaceLinks** collection to return a specific **SharedWorkspaceLink** object.
+Use the **Item** ( _index_ ) property of the **SharedWorkspaceLinks** collection to return a specific **SharedWorkspaceLink** object.
 
-Use the  **Description** property to set the link description that appears on the **Links** tab of the **Shared Workspace** pane and on the workspace Web page. Use the **URL** property to set the destination address of the link. Use the **Notes** property to supply additional information about the link.
+Use the **Description** property to set the link description that appears on the **Links** tab of the **Shared Workspace** pane and on the workspace Web page. Use the **URL** property to set the destination address of the link. Use the **Notes** property to supply additional information about the link.
 
-Use the  **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceLink** object.
+Use the **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceLink** object.
 
-Use the  **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each link.
+Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each link.
 
 
 ## Example

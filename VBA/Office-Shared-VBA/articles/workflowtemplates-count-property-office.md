@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkflowTemplates.Count Property (Office)
 
-Gets a  **Long** indicating the number of items in the **WorkflowTemplates** collection. Read-only.
+Gets a **Long** indicating the number of items in the **WorkflowTemplates** collection. Read-only.
 
 
 ## Syntax

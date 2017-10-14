@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.LayoutInCell Property (Word)
 
-Returns a  **Long** that represents whether a shape in a table is displayed inside the table or outside the table. .
+Returns a **Long** that represents whether a shape in a table is displayed inside the table or outside the table. .
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Returns a  **Long** that represents whether a shape in a table is displayed insi
 
 ## Remarks
 
-The  **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting. **True** indicates that a specified picture is displayed within the table. **False** indicates that a specified picture is displayed outside the table.
+The **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting. **True** indicates that a specified picture is displayed within the table. **False** indicates that a specified picture is displayed outside the table.
 
 
- **Note**  Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone** .
+ **Note**  Setting the **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone** .
 
 
 ## See also

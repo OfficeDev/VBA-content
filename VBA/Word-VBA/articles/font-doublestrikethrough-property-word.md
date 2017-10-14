@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** , or **wdUndefined** (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** . Read/write **Long** .To set or return single-line strikethrough formatting, use the **[StrikeThrough](font-strikethrough-property-word.md)** property. Setting **DoubleStrikeThrough** to **True** sets **StrikeThrough** to **False** , and vice versa.
+Returns **True** , **False** , or **wdUndefined** (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** . Read/write **Long** .To set or return single-line strikethrough formatting, use the **[StrikeThrough](font-strikethrough-property-word.md)** property. Setting **DoubleStrikeThrough** to **True** sets **StrikeThrough** to **False** , and vice versa.
 
 
 ## Example

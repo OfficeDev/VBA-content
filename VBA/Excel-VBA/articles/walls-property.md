@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Walls Property
 
-Returns a  **[Walls](walls-object.md)** collection that represents the walls of the 3-D chart. Read-only.
+Returns a **[Walls](walls-object.md)** collection that represents the walls of the 3-D chart. Read-only.
 
 
 ## Remarks

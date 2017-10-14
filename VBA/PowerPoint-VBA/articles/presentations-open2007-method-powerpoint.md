@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentations.Open2007 Method (PowerPoint)
 
-Opens the specified presentation and provides the option to repair the presentation file. Returns a  **[Presentation](presentation-object-powerpoint.md)** object that represents the opened presentation.
+Opens the specified presentation and provides the option to repair the presentation file. Returns a **[Presentation](presentation-object-powerpoint.md)** object that represents the opened presentation.
 
 
 ## Syntax

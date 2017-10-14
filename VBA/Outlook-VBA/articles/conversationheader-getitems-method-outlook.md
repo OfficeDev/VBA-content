@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConversationHeader.GetItems Method (Outlook)
 
-Obtains a  **[SimpleItems](simpleitems-object-outlook.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
+Obtains a **[SimpleItems](simpleitems-object-outlook.md)** collection that contains all of the items in the conversation that reside in the same folder as the selected conversation header.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Obtains a  **[SimpleItems](simpleitems-object-outlook.md)** collection that cont
 
 ### Return Value
 
-A  **SimpleItems** collection of items that belong to the same conversation and reside in the same folder as the conversation header.
+A **SimpleItems** collection of items that belong to the same conversation and reside in the same folder as the conversation header.
 
 
 ## Remarks
 
-The  **SimpleItems** collection only contains conversation items in the folder that contains the conversation header. The **SimpleItems** collection does not return cross-folder conversation items. If you must access cross-folder content, use the **[Conversation](conversation-object-outlook.md)** object.
+The **SimpleItems** collection only contains conversation items in the folder that contains the conversation header. The **SimpleItems** collection does not return cross-folder conversation items. If you must access cross-folder content, use the **[Conversation](conversation-object-outlook.md)** object.
 
-If no conversation items exist in the same folder as the conversation header,  **GetItems** returns a **SimpleItems** collection with the **[SimpleItems.Count](simpleitems-count-property-outlook.md)** property equal to 0.
+If no conversation items exist in the same folder as the conversation header, **GetItems** returns a **SimpleItems** collection with the **[SimpleItems.Count](simpleitems-count-property-outlook.md)** property equal to 0.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues.Type Property (Excel)
 
-Returns one of the constants of the  **[XlFormatConditionType](xlformatconditiontype-enumeration-excel.md)** enumeration, which specifies the type of conditional format. Read-only.
+Returns one of the constants of the **[XlFormatConditionType](xlformatconditiontype-enumeration-excel.md)** enumeration, which specifies the type of conditional format. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns one of the constants of the  **[XlFormatConditionType](xlformatcondition
 
 ## Remarks
 
-This property will always return a  **Long** value of "8", which is equivalent to **xlUniqueValues** .
+This property will always return a **Long** value of "8", which is equivalent to **xlUniqueValues** .
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.DefaultEarnedValueMethod Property (Project)
 
-Gets or sets the default method for calculating earned value for a project. Read/write  **PjEarnedValueMethod**.
+Gets or sets the default method for calculating earned value for a project. Read/write **PjEarnedValueMethod**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the default method for calculating earned value for a project. Read
 
 ## Remarks
 
-The  **DefaultEarnedValueMethod** property can be one of the following **[PjEarnedValueMethod](pjearnedvaluemethod-enumeration-project.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**
+The **DefaultEarnedValueMethod** property can be one of the following **[PjEarnedValueMethod](pjearnedvaluemethod-enumeration-project.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**
 
 

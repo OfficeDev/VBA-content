@@ -23,7 +23,7 @@ Represents the list of recently used files.
 
 ## Example
 
-Use the  **[RecentFiles](application-recentfiles-property-excel.md)** property to return the **RecentFiles** collection. The following example sets the maximum number of files in the list of recently used files.
+Use the **[RecentFiles](application-recentfiles-property-excel.md)** property to return the **RecentFiles** collection. The following example sets the maximum number of files in the list of recently used files.
 
 
 ```vb

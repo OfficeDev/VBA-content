@@ -20,7 +20,7 @@ Activates a window or OLE object.
 
  _expression_. **Activate**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Because Publisher runs in a single window, using the  **Activate** method with a **Window** object makes Publisher the active application.
+Because Publisher runs in a single window, using the **Activate** method with a **Window** object makes Publisher the active application.
 
 
 ## Example

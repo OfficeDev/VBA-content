@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MotionEffect.Path Property (PowerPoint)
 
-Returns a  **String** that represents the path followed by a **[MotionEffect](motioneffect-object-powerpoint.md)** object. Read-only.
+Returns a **String** that represents the path followed by a **[MotionEffect](motioneffect-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The  **String** returned for a **MotionEffect** object is a specific path that the motion effect follows between From and To, using the same syntax as the VML path description.
+The **String** returned for a **MotionEffect** object is a specific path that the motion effect follows between From and To, using the same syntax as the VML path description.
 
 
 ## See also

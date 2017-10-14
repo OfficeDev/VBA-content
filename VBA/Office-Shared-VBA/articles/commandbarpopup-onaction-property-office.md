@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarPopup.OnAction Property (Office)
 
-Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a  **CommandBarPopup** control. Read/write.
+Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a **CommandBarPopup** control. Read/write.
 
 
 ## 

@@ -25,11 +25,11 @@ Cancels any selection in the active explorer.
 
 ## Remarks
 
-After the  **ClearSelection** method is called, the **[Count](selection-count-property-outlook.md)** property of the **[Selection](selection-object-outlook.md)** object that the **[Explorer.Selection](explorer-selection-property-outlook.md)** property returns is zero. Then, the **[SelectionChange](explorer-selectionchange-event-outlook.md)** event fires unless prior to calling of **ClearSelection** , the current view did not contain any items, the current folder was empty, or the **Count** property was already zero.
+After the **ClearSelection** method is called, the **[Count](selection-count-property-outlook.md)** property of the **[Selection](selection-object-outlook.md)** object that the **[Explorer.Selection](explorer-selection-property-outlook.md)** property returns is zero. Then, the **[SelectionChange](explorer-selectionchange-event-outlook.md)** event fires unless prior to calling of **ClearSelection** , the current view did not contain any items, the current folder was empty, or the **Count** property was already zero.
 
-If the Reading Pane is visible and the current view is a table view, calling  **ClearSelection** renders the Reading Pane blank.
+If the Reading Pane is visible and the current view is a table view, calling **ClearSelection** renders the Reading Pane blank.
 
-If the current view or current folder does not contain any items, calling  **ClearSelection** does not result in any change to the selection and does not fire the **SelectionChange** event.
+If the current view or current folder does not contain any items, calling **ClearSelection** does not result in any change to the selection and does not fire the **SelectionChange** event.
 
  **ClearSelection** returns an error if the item is being edited in the current view.
 

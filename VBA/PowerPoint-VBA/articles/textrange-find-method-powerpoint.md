@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.Find Method (PowerPoint)
 
-Finds the specified text in a text range, and returns a  **[TextRange](textrange-object-powerpoint.md)** object that represents the first text range where the text is found. Returns **Nothing** if no match is found.
+Finds the specified text in a text range, and returns a **[TextRange](textrange-object-powerpoint.md)** object that represents the first text range where the text is found. Returns **Nothing** if no match is found.
 
 
 ## Syntax

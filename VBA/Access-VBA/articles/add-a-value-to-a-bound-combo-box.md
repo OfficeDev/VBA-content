@@ -12,9 +12,9 @@ Combo boxes are commonly used to display a list of values in a table or query. B
 
 Often the value displayed in a combo box is looked up from a record in a related table. Because the list is derived from a table or query, you must provide a way for the user to enter a new record in the underlying table. Then you can use the [Requery](combobox-requery-method-access.md) method to requery the list, so it contains the new value.
 
-When a user types a value in a combo box that is not in the list, the  **NotInList** event of the combo box occurs as long as the combo box's [LimitToList](combobox-limittolist-property-access.md) property is set to **Yes**, or a column other than the combo box's bound column is displayed in the box. You can write an event procedure for the **NotInList** event that provides a way for the user to add a new record to the table that supplies the list's values. The **NotInList** event procedure includes a string argument named _NewData_ that Access uses to pass the text the user enters to the event procedure.
+When a user types a value in a combo box that is not in the list, the **NotInList** event of the combo box occurs as long as the combo box's [LimitToList](combobox-limittolist-property-access.md) property is set to **Yes**, or a column other than the combo box's bound column is displayed in the box. You can write an event procedure for the **NotInList** event that provides a way for the user to add a new record to the table that supplies the list's values. The **NotInList** event procedure includes a string argument named _NewData_ that Access uses to pass the text the user enters to the event procedure.
 
-The  **NotInList** event procedure also has a _Response_ argument, in which you tell Access what to do after the procedure runs. Depending on what action you take in the event procedure, you set the _Response_ argument to one of three predefined constant values:
+The **NotInList** event procedure also has a _Response_ argument, in which you tell Access what to do after the procedure runs. Depending on what action you take in the event procedure, you set the _Response_ argument to one of three predefined constant values:
 
 
 |**Constant**|**Description**|

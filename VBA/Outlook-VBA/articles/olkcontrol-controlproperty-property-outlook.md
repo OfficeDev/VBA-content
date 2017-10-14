@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkControl.ControlProperty Property (Outlook)
 
-Returns or sets a  **String** that represents the property on the control that the databind occurs with. Read/write.
+Returns or sets a **String** that represents the property on the control that the databind occurs with. Read/write.
 
 
 ## Syntax

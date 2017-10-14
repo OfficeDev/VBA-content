@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.Duplicate Method (Publisher)
 
-Creates a duplicate of the specified  **[Font](font-object-publisher.md)** object and then returns the new **Font** object.
+Creates a duplicate of the specified **[Font](font-object-publisher.md)** object and then returns the new **Font** object.
 
 
 ## Syntax
 
  _expression_. **Duplicate**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value

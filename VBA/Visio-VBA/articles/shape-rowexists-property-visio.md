@@ -44,6 +44,6 @@ If  _fExistsLocally_ is **False** (0), the **RowExists** property returns **True
 
 If  _fExistsLocally_ is **True** (non-zero), the **RowExists** property returns **True** only if the object contains the specified row locally; if the row is inherited, the **RowExists** property returns **False** .
 
-For a list of row index values, see the  **AddRow** method or view the Visio type library for the members of the **[VisRowIndices](visrowindices-enumeration-visio.md)** enumeration. For a list of section index values, see the **AddSection** method or view the Visio type library for the members of the **[VisSectionIndices](vissectionindices-enumeration-visio.md)** enumeration.
+For a list of row index values, see the **AddRow** method or view the Visio type library for the members of the **[VisRowIndices](visrowindices-enumeration-visio.md)** enumeration. For a list of section index values, see the **AddSection** method or view the Visio type library for the members of the **[VisSectionIndices](vissectionindices-enumeration-visio.md)** enumeration.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecentFile.Path Property (Excel)
 
-Returns a  **String** value that represents the complete path to the workbook/file that this RecentFile object respresents .
+Returns a **String** value that represents the complete path to the workbook/file that this RecentFile object respresents .
 
 
 ## Syntax

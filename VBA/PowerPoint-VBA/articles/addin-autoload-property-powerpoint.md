@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-Setting this property to  **msoTrue** automatically sets the **[Registered](addin-registered-property-powerpoint.md)** property to **msoTrue**.
+Setting this property to **msoTrue** automatically sets the **[Registered](addin-registered-property-powerpoint.md)** property to **msoTrue**.
 
-The value of the  **AutoLoad** property can be one of these **MsoTriState** constants.
+The value of the **AutoLoad** property can be one of these **MsoTriState** constants.
 
 
 

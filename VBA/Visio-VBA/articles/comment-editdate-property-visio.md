@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.EditDate Property (Visio)
 
-Returns the most recent date on which the specified comment was edited. Read-only  **Date**.
+Returns the most recent date on which the specified comment was edited. Read-only **Date**.
 
 
 ## Syntax

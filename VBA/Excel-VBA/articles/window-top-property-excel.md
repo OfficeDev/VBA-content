@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Top Property (Excel)
 
-Returns or sets a  **Double** value that represents the distance, in points, from the top edge of the window to the top edge of the usable area (below the menus, any toolbars docked at the top, and the formula bar).
+Returns or sets a **Double** value that represents the distance, in points, from the top edge of the window to the top edge of the usable area (below the menus, any toolbars docked at the top, and the formula bar).
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 ## Remarks
 
-You cannot set this property for a maximized window. Use the  **[WindowState](window-windowstate-property-excel.md)** property to return or set the state of the window.
+You cannot set this property for a maximized window. Use the **[WindowState](window-windowstate-property-excel.md)** property to return or set the state of the window.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.BasedOn Property (Visio)
 
-Gets or sets the style on which a  **Style** object is based. Read/write.
+Gets or sets the style on which a **Style** object is based. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-To base a style on no style, set the  **BasedOn** property to a zero-length string ("").
+To base a style on no style, set the **BasedOn** property to a zero-length string ("").
 
 

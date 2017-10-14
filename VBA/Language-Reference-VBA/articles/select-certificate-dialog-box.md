@@ -46,7 +46,7 @@ Displays the certificate's path.
 
  **OK**
 
-Adds the selected certificate to the  **Digital Signature** dialog box.
+Adds the selected certificate to the **Digital Signature** dialog box.
 
  **Cancel**
 

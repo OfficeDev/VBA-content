@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.Range Property (Word)
 
-Returns a  **[Range](range-object-word.md)** that represents the contents of the content control in the active document. Read-only.
+Returns a **[Range](range-object-word.md)** that represents the contents of the content control in the active document. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Range](range-object-word.md)** that represents the contents of the
 
 ## Remarks
 
-Use the  **Range** property to access the text, the formatting for the text, and other text properties. For more information, see[Working with Range Objects](http://msdn.microsoft.com/library/9e240aa7-8608-9d70-aee3-2e202687459e%28Office.15%29.aspx).
+Use the **Range** property to access the text, the formatting for the text, and other text properties. For more information, see[Working with Range Objects](http://msdn.microsoft.com/library/9e240aa7-8608-9d70-aee3-2e202687459e%28Office.15%29.aspx).
 
 
 ## Example

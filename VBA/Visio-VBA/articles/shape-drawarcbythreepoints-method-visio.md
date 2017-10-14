@@ -48,7 +48,7 @@ All points should be in internal drawing units with respect to the coordinate sp
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **DrawArcByThreePoints** method to draw an arc on the drawing page.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **DrawArcByThreePoints** method to draw an arc on the drawing page.
 
 
 ```vb

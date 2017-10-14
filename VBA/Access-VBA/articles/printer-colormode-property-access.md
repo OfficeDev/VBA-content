@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.ColorMode Property (Access)
 
-Returns or sets an  **[AcPrintColor](acprintcolor-enumeration-access.md)** constant representing whether the specified printer should print output in color or monochrome. Read/write.
+Returns or sets an **[AcPrintColor](acprintcolor-enumeration-access.md)** constant representing whether the specified printer should print output in color or monochrome. Read/write.
 
 
 ## Syntax

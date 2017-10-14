@@ -14,5 +14,5 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](sharedworkspacefiles-add-method-office.md)|Adds a file to the document library in a shared workspace. Returns a  **[SharedWorkspaceFile](sharedworkspacefile-object-office.md)** object.|
+|[Add](sharedworkspacefiles-add-method-office.md)|Adds a file to the document library in a shared workspace. Returns a **[SharedWorkspaceFile](sharedworkspacefile-object-office.md)** object.|
 

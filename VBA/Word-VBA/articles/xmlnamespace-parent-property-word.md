@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNamespace.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **XMLNamespace** object.
+Returns an **Object** that represents the parent object of the specified **XMLNamespace** object.
 
 
 ## Syntax

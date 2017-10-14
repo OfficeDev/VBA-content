@@ -32,7 +32,7 @@ Creates a Microsoft Word document that uses a table to store data for a mail mer
 | _Name_|Optional| **Variant**|The path and file name for the new data source.|
 | _PasswordDocument_|Optional| **Variant**|The password required to open the new data source.|
 | _WritePasswordDocument_|Optional| **Variant**|The password required to save changes to the data source.|
-| _HeaderRecord_|Optional| **Variant**|Field names for the header record. If this argument is omitted, the standard header record is used: "Title, FirstName, LastName, JobTitle, Company, Address1, Address2, City, State, PostalCode, Country, HomePhone, WorkPhone." To separate field names, use the list separator specified in  **Regional Settings** in **Control Panel**.|
+| _HeaderRecord_|Optional| **Variant**|Field names for the header record. If this argument is omitted, the standard header record is used: "Title, FirstName, LastName, JobTitle, Company, Address1, Address2, City, State, PostalCode, Country, HomePhone, WorkPhone." To separate field names, use the list separator specified in **Regional Settings** in **Control Panel**.|
 | _MSQuery_|Optional| **Variant**| **True** to launch Microsoft Query, if it is installed. The Name, PasswordDocument, and HeaderRecord arguments are ignored.|
 | _SQLStatement_|Optional| **Variant**|Defines query options for retrieving data.|
 | _SQLStatement1_|Optional| **Variant**|If the query string is longer than 255 characters, SQLStatement specifies the first portion of the string, and SQLStatement1 specifies the second portion.|
@@ -46,7 +46,7 @@ Avoid using hard-coded passwords in your applications. If a password is required
 
 ## Remarks
 
-When you use the  **CreateDataSource** method, Word attaches the new data source to the specified document, which becomes a main document, if it is not one already.
+When you use the **CreateDataSource** method, Word attaches the new data source to the specified document, which becomes a main document, if it is not one already.
 
 How you specify the range for the Connection argument depends on how data is retrieved. For example:
 

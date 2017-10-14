@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Application.ChartDataPointTrack Property (PowerPoint)
 
-Returns or sets a  **Boolean** that specifies whether charts use cell-reference data-point tracking. Read-write.
+Returns or sets a **Boolean** that specifies whether charts use cell-reference data-point tracking. Read-write.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ Returns or sets a  **Boolean** that specifies whether charts use cell-reference 
 
 ## Remarks
 
-In cell-reference data-point tracking, data labels track the cell reference that contains the value of the data point, rather than the index number of the data point. Doing so helps to preserve custom formatting applied by the user, even when a chart is sorted or filtered. Setting  **ChartDataPointTrack** to **True** specifies that charts use cell-reference data-point tracking.
+In cell-reference data-point tracking, data labels track the cell reference that contains the value of the data point, rather than the index number of the data point. Doing so helps to preserve custom formatting applied by the user, even when a chart is sorted or filtered. Setting **ChartDataPointTrack** to **True** specifies that charts use cell-reference data-point tracking.
 
 
 ## Property value

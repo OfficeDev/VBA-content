@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline3DeliverableStart Property (Project)
 
-Gets or sets the task baseline3 deliverables start date. Read/write  **Variant**.
+Gets or sets the task baseline3 deliverables start date. Read/write **Variant**.
 
 
 ## Syntax

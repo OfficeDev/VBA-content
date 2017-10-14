@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Names Object (Excel)
 
-A collection of all the  **[Name](name-object-excel.md)** objects in the application or workbook.
+A collection of all the **[Name](name-object-excel.md)** objects in the application or workbook.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ The  _RefersTo_ argument must be specified in A1-style notation, including dolla
 
 ## Example
 
-Use the  **[Names](workbook-names-property-excel.md)** property to return the **Names** collection. The following example creates a list of all the names in the active workbook, plus the addresses they refer to.
+Use the **[Names](workbook-names-property-excel.md)** property to return the **Names** collection. The following example creates a list of all the names in the active workbook, plus the addresses they refer to.
 
 
 ```vb
@@ -37,7 +37,7 @@ For r = 1 To nms.Count
 Next
 ```
 
-Use the  **[Add](names-add-method-excel.md)** method to create a name and add it to the collection.The following example creates a new name that refers to cells A1:C20 on the worksheet named "Sheet1."
+Use the **[Add](names-add-method-excel.md)** method to create a name and add it to the collection.The following example creates a new name that refers to cells A1:C20 on the worksheet named "Sheet1."
 
 
 
@@ -46,7 +46,7 @@ Use the  **[Add](names-add-method-excel.md)** method to create a name and add it
 Names.Add Name:="test", RefersTo:="=sheet1!$a$1:$c$20"
 ```
 
-Use  **Names** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object. The following example deletes the name "mySortRange" from the active workbook.
+Use **Names** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object. The following example deletes the name "mySortRange" from the active workbook.
 
 
 

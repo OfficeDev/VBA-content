@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.AlternateBackColor Property (Access)
 
-Gets or sets the background color to display on alternate rows of the specified section. Read/write  **Long**.
+Gets or sets the background color to display on alternate rows of the specified section. Read/write **Long**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Gets or sets the background color to display on alternate rows of the specified 
 
 ## Remarks
 
-The  **AlternateBackColor** property contains a numeric expression that corresponds to the color used to display on alternate rows of the specified section.
+The **AlternateBackColor** property contains a numeric expression that corresponds to the color used to display on alternate rows of the specified section.
 
-You can use the Color Builder to set this property by clicking the  **Build** button to the right of the property box in the property sheet. Using the Color Builder enables you to define custom back colors for controls or sections.
+You can use the Color Builder to set this property by clicking the **Build** button to the right of the property box in the property sheet. Using the Color Builder enables you to define custom back colors for controls or sections.
 
 
 ## See also

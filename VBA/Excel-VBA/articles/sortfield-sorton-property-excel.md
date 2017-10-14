@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.SortOn Property (Excel)
 
-Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn](xlsorton-enumeration-excel.md)** .
+Returns or sets what attribute of the cell to sort on . Read/write **[XlSortOn](xlsorton-enumeration-excel.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn]
 
 
 
-|XlSortOn can be one of these  **XlSortOn** constants.|
+|XlSortOn can be one of these **XlSortOn** constants.|
 | **SortOnCellColor**|
 | **SortOnFontColor**|
 | **SortOnIcon**|

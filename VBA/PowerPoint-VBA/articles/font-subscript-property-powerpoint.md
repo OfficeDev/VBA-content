@@ -30,13 +30,13 @@ MsoTriState
 
 ## Remarks
 
-Setting the  **BaselineOffset** property to a negative value automatically sets the **Subscript** property to **msoTrue** and the **Superscript** property to **msoFalse**.
+Setting the **BaselineOffset** property to a negative value automatically sets the **Subscript** property to **msoTrue** and the **Superscript** property to **msoFalse**.
 
-Setting the  **BaselineOffset** property to a positive value automatically sets the **Subscript** property to **msoFalse** and the **Superscript** property to **msoTrue**.
+Setting the **BaselineOffset** property to a positive value automatically sets the **Subscript** property to **msoFalse** and the **Superscript** property to **msoTrue**.
 
-Setting the  **Subscript** property to **msoTrue** automatically sets the **BaselineOffset** property to ? 0.25 ( ? 25 percent).
+Setting the **Subscript** property to **msoTrue** automatically sets the **BaselineOffset** property to ? 0.25 ( ? 25 percent).
 
-The value of the  **Subscript** property can be one of these **MsoTriState** constants.
+The value of the **Subscript** property can be one of these **MsoTriState** constants.
 
 
 

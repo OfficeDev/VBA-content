@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Series.PictureUnit2 Property (PowerPoint)
 
-Returns or sets the unit for each picture on the chart if the  **[PictureType](series-picturetype-property-powerpoint.md)** property is set to **xlStackScale**; otherwise, this property is ignored. Read/write **Double**.
+Returns or sets the unit for each picture on the chart if the **[PictureType](series-picturetype-property-powerpoint.md)** property is set to **xlStackScale**; otherwise, this property is ignored. Read/write **Double**.
 
 
 ## Syntax

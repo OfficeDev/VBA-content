@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WdBrowseTarget Enumeration (Word)
 
-Specifies the document item that the  **[Next](browser-next-method-word.md)** or **[Previous](browser-previous-method-word.md)** method locates, and places the insertion point before the next or previous instance of the item.
+Specifies the document item that the **[Next](browser-next-method-word.md)** or **[Previous](browser-previous-method-word.md)** method locates, and places the insertion point before the next or previous instance of the item.
 
 
 

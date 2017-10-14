@@ -18,11 +18,11 @@ Removes selected information from an object and transfers it to the Clipboard.
 
  _expression_. **Cut**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-The  **Cut** method removes currently selected text in the control to the Clipboard. This method does not require that the control have the focus.
+The **Cut** method removes currently selected text in the control to the Clipboard. This method does not require that the control have the focus.
 
 

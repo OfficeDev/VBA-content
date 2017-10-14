@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Windows2 Property (Project)
 
-Gets a  **[Windows2](windows2-object-project.md)** collection representing the open windows in the project. Read-only **Windows2**.
+Gets a **[Windows2](windows2-object-project.md)** collection representing the open windows in the project. Read-only **Windows2**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets a  **[Windows2](windows2-object-project.md)** collection representing the o
 
 ## Remarks
 
-The  **Windows2** property is recommended, in place of the **Windows** property, for all new development in VBA and external applications developed with the .NET Framework.
+The **Windows2** property is recommended, in place of the **Windows** property, for all new development in VBA and external applications developed with the .NET Framework.
 
 
 ## Example

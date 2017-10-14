@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.OfficeLocation Property (Outlook)
 
-Returns or sets a  **String** specifying the specific office location (for example, Building 1 Room 1 or Suite 123) for the contact. Read/write.
+Returns or sets a **String** specifying the specific office location (for example, Building 1 Room 1 or Suite 123) for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** specifying the specific office location (for examp
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagOfficeLocation** .
+This property corresponds to the MAPI property **PidTagOfficeLocation** .
 
 
 ## See also

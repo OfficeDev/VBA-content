@@ -34,7 +34,7 @@ Creates a new PivotTable formula.
 
 ### Return Value
 
-A  **[PivotFormula](pivotformula-object-excel.md)** object that represents the new PivotTable formula.
+A **[PivotFormula](pivotformula-object-excel.md)** object that represents the new PivotTable formula.
 
 
 ## Example

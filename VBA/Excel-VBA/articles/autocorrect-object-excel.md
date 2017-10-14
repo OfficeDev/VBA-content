@@ -18,7 +18,7 @@ Contains Microsoft Excel AutoCorrect attributes (capitalization of names of days
 
 ## Example
 
-Use the  **[AutoCorrect](application-autocorrect-property-excel.md)** property to return the **AutoCorrect** object. The following example sets Microsoft Excel to correct words that begin with two initial capital letters.
+Use the **[AutoCorrect](application-autocorrect-property-excel.md)** property to return the **AutoCorrect** object. The following example sets Microsoft Excel to correct words that begin with two initial capital letters.
 
 
 ```vb

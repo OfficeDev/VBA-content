@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Sub, Function, or Property not defined (Error 35)
 
-A  **Sub**, **Function**, or **Property** procedure must be defined to be called. This error has the following causes and solutions:
+A **Sub**, **Function**, or **Property** procedure must be defined to be called. This error has the following causes and solutions:
 
 
 
@@ -21,22 +21,22 @@ A  **Sub**, **Function**, or **Property** procedure must be defined to be called
     
 - You tried to call a procedure from another [project](vbe-glossary.md) without explicitly adding a reference to that project in the **References** dialog box.
     
-     **To add a reference**
+    **To add a reference**
     
     
     
-      1. Display the  **References** dialog box.
+      1. Display the **References** dialog box.
     
-  2. Find the name of the project containing the procedure you want to call. If the project name doesn't appear in the  **References** dialog box, click the **Browse** button to search for it.
+  2. Find the name of the project containing the procedure you want to call. If the project name doesn't appear in the **References** dialog box, click the **Browse** button to search for it.
     
   3. Click the check box to the left of the project name.
     
-  4. Click  **OK**.
+  4. Click **OK**.
     
 
     
     
-- The specified procedure isn't visible to the calling procedure. Procedures declared  **Private** in one[module](vbe-glossary.md) can't be called from procedures outside the module. If **Option Private Module** is in effect, procedures in the module aren't available to other projects. Search to locate the procedure.
+- The specified procedure isn't visible to the calling procedure. Procedures declared **Private** in one[module](vbe-glossary.md) can't be called from procedures outside the module. If **Option Private Module** is in effect, procedures in the module aren't available to other projects. Search to locate the procedure.
     
 - You declared a Windows [dynamic-link library (DLL)](vbe-glossary.md) routine or Macintosh code-resource routine, but the routine isn't in the specified library or code resource.
     

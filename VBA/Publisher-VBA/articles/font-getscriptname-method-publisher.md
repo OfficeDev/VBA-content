@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.GetScriptName Method (Publisher)
 
-Returns a  **String** that represents the name of the font script being used in a text range.
+Returns a **String** that represents the name of the font script being used in a text range.
 
 
 ## Syntax
 
  _expression_. **GetScriptName**( **_Script_**)
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ String
 
 ## Remarks
 
-The Script parameter can be one of the  **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The Script parameter can be one of the **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

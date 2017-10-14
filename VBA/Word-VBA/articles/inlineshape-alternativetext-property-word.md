@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.AlternativeText Property (Word)
 
-Returns or sets a  **String** that represents the alternative text associated with a shape in a Web page. Read/write.
+Returns or sets a **String** that represents the alternative text associated with a shape in a Web page. Read/write.
 
 
 ## Syntax

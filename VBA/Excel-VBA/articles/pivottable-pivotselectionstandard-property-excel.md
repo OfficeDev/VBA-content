@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PivotSelectionStandard Property (Excel)
 
-Returns or sets a  **String** indicating the PivotTable selection in standard PivotTable report format using English (United States) settings. Read/write.
+Returns or sets a **String** indicating the PivotTable selection in standard PivotTable report format using English (United States) settings. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the PivotTable selection in standard Pi
 
 ## Remarks
 
-The  **PivotSelectionStandard** property is "international-friendly" whereas the **PivotSelection** method is not.
+The **PivotSelectionStandard** property is "international-friendly" whereas the **PivotSelection** method is not.
 
 
 ## Example

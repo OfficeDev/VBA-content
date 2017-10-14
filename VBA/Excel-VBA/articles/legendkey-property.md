@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey Property
 
-Returns a  **[LegendKey](legendkey-object.md)** object that represents the legend key associated with the entry.
+Returns a **[LegendKey](legendkey-object.md)** object that represents the legend key associated with the entry.
 
 
 ## Example

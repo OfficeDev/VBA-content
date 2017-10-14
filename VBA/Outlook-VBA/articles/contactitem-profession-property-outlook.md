@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Profession Property (Outlook)
 
-Returns or sets a  **String** indicating the profession for the contact. Read/write.
+Returns or sets a **String** indicating the profession for the contact. Read/write.
 
 
 ## Syntax

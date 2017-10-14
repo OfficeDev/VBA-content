@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Expand Method (Word)
 
-Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long** .
+Expands the specified range or selection. Returns the number of characters added to the range or selection. **Long** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Expands the specified range or selection. Returns the number of characters added
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|A  **[WdUnits](wdunits-enumeration-word.md)** constant that represents the unit by which to expand the range. The default value is **wdWord** .|
+| _Unit_|Optional| **Variant**|A **[WdUnits](wdunits-enumeration-word.md)** constant that represents the unit by which to expand the range. The default value is **wdWord** .|
 
 ## Example
 

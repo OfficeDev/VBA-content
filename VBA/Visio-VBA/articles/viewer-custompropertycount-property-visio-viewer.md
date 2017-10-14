@@ -17,7 +17,7 @@ Gets the count of shape data items (custom properties) assigned to the specified
 
  _expression_. **CustomPropertyCount**( **_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters

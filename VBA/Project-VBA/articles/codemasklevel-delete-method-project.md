@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeMaskLevel.Delete Method (Project)
 
-Deletes the  **CodeMaskLevel** object from a **CodeMask** collection.
+Deletes the **CodeMaskLevel** object from a **CodeMask** collection.
 
 
 ## Syntax

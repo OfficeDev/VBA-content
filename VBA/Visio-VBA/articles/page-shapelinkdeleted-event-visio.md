@@ -38,9 +38,9 @@ Private Sub  _expression_ _**ShapeLinkDeleted**( **_ByVal Shape As [IVSHAPE]_** 
 
 ## Remarks
 
-The  **ShapeLinkDeleted** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
+The **ShapeLinkDeleted** event is one of a group of events for which the **EventInfo** property of the **Application** object contains extra information.
 
-When the  **ShapeLinkDeleted** event is fired, the **EventInfo** property returns the following string:
+When the **ShapeLinkDeleted** event is fired, the **EventInfo** property returns the following string:
 
  `/DataRecordsetID = n /DataRowID = m`
 
@@ -48,6 +48,6 @@ where  _n_ and _m_ represent the IDs of the data recordset and data row, respect
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
+If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
 
 

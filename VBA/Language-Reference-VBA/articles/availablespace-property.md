@@ -21,8 +21,8 @@ Returns the amount of space available to a user on the specified drive or networ
  _object_. **AvailableSpace**
 The  _object_ is always a **Drive** object.
  **Remarks**
-The value returned by the  **AvailableSpace** property is typically the same as that returned by the **FreeSpace** property. Differences may occur between the two values for computer systems that support quotas.
-The following code illustrates the use of the  **AvailableSpace** property:
+The value returned by the **AvailableSpace** property is typically the same as that returned by the **FreeSpace** property. Differences may occur between the two values for computer systems that support quotas.
+The following code illustrates the use of the **AvailableSpace** property:
 
 
 

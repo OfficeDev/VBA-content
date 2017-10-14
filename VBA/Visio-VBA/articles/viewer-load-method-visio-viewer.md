@@ -17,7 +17,7 @@ Loads a drawing file into Microsoft Visio Viewer.
 
  _expression_. **Load**( **_UrlOrFilename_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Boolean
 
 ## Remarks
 
-If the load succeeds, the  **Load** method returns **True**. The method returns  **False** if the load fails.
+If the load succeeds, the **Load** method returns **True**. The method returns **False** if the load fails.
 
 To produce a viable diagram in Visio Viewer, the source file loaded must be a Visio drawing file (.vsd or .vdx). The file path may be to a URL as well as to a local or networked file.
 

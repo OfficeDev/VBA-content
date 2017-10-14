@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Fill Property
 
-Returns a  **[ChartFillFormat](chartfillformat-object.md)** object that contains fill formatting properties for the specified chart. Read-only.
+Returns a **[ChartFillFormat](chartfillformat-object.md)** object that contains fill formatting properties for the specified chart. Read-only.
 
 
 ## Example

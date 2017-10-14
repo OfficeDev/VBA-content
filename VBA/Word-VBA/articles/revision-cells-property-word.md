@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.Cells Property (Word)
 
-Returns a  **Cells** collection that represents the table cells that have been marked with revision marks. Read-only.
+Returns a **Cells** collection that represents the table cells that have been marked with revision marks. Read-only.
 
 
 ## Syntax

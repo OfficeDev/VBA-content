@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MSGWrap.message Property (Visio)
 
-Gets or sets the  **message** member of the **MSG** structure being wrapped. Read/write.
+Gets or sets the **message** member of the **MSG** structure being wrapped. Read/write.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Long
 
 ## Remarks
 
-The  **message** property corresponds to the **message** member of the **MSG** structure defined as part of the Microsoft Windows operating system. If an event handler is handling the **OnKeystrokeMessageForAddon** event, Microsoft Visio passes a **MSGWrap** object as an argument when this event fires. A **MSGWrap** object is a wrapper around the Windows **MSG** structure.
+The **message** property corresponds to the **message** member of the **MSG** structure defined as part of the Microsoft Windows operating system. If an event handler is handling the **OnKeystrokeMessageForAddon** event, Microsoft Visio passes a **MSGWrap** object as an argument when this event fires. A **MSGWrap** object is a wrapper around the Windows **MSG** structure.
 
-The  **OnKeystrokeMessageForAddon** event fires for messages in the following range:
+The **OnKeystrokeMessageForAddon** event fires for messages in the following range:
 
 
 

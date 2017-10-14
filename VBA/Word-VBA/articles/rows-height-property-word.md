@@ -25,7 +25,7 @@ Returns or sets the height of the specified rows in a table. Read/write Single.
 
 ## Remarks
 
-If the  **HeightRule** property of the specified row is **wdRowHeightAuto** , **Height** returns **wdUndefined** ; setting the **Height** property sets **HeightRule** to **wdRowHeightAtLeast** .
+If the **HeightRule** property of the specified row is **wdRowHeightAuto** , **Height** returns **wdUndefined** ; setting the **Height** property sets **HeightRule** to **wdRowHeightAtLeast** .
 
 
 ## Example

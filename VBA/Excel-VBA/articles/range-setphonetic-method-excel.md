@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.SetPhonetic Method (Excel)
 
-Creates  **[Phonetic](phonetic-object-excel.md)** objects for all the cells in the specified range.
+Creates **[Phonetic](phonetic-object-excel.md)** objects for all the cells in the specified range.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Creates  **[Phonetic](phonetic-object-excel.md)** objects for all the cells in t
 
 ## Remarks
 
-Any existing  **Phonetic** objects in the specified range are automatically overwritten (deleted) by the new objects you add using this method.
+Any existing **Phonetic** objects in the specified range are automatically overwritten (deleted) by the new objects you add using this method.
 
 
 ## Example
 
-This example creates a  **Phonetic** object for each cell in the range A1:A10 on the active worksheet.
+This example creates a **Phonetic** object for each cell in the range A1:A10 on the active worksheet.
 
 
 ```vb

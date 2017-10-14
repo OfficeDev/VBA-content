@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathEqArray.E Property (Word)
 
-Returns an  **OMathArgs** object that represents the list of arguments for the specified equation object. Read-only.
+Returns an **OMathArgs** object that represents the list of arguments for the specified equation object. Read-only.
 
 
 ## Syntax

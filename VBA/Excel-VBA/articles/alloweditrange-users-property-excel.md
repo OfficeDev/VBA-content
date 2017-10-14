@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllowEditRange.Users Property (Excel)
 
-Returns a  **[UserAccessList](useraccesslist-object-excel.md)** object for the protected range on a worksheet.
+Returns a **[UserAccessList](useraccesslist-object-excel.md)** object for the protected range on a worksheet.
 
 
 ## Syntax

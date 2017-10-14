@@ -40,6 +40,6 @@ Resets a resource calendar.
 
 ## Remarks
 
-The  **ResourceCalendarReset** method has no effect for material resources.
+The **ResourceCalendarReset** method has no effect for material resources.
 
 

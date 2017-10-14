@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.PreviousRevision Method (Word)
 
-Locates and returns the previous tracked change as a  **Revision** object.
+Locates and returns the previous tracked change as a **Revision** object.
 
 
 ## Syntax

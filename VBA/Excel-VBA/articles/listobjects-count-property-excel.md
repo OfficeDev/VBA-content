@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObjects.Count Property (Excel)
 
-Returns an  **Integer** value that represents the number of objects in the collection.
+Returns an **Integer** value that represents the number of objects in the collection.
 
 
 ## Syntax

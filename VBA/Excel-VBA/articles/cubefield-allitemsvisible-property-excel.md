@@ -25,13 +25,13 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Default value is  **True** and is available for the **PivotField** and the **CubeField** objects.
+Default value is **True** and is available for the **PivotField** and the **CubeField** objects.
 
-For OLAP PivotTables, this property is only available for the  **CubeField** object. Trying to get or set it on the **PivotField** object in OLAP PivotTables will return a run-time error.
+For OLAP PivotTables, this property is only available for the **CubeField** object. Trying to get or set it on the **PivotField** object in OLAP PivotTables will return a run-time error.
 
-For PivotTables, this property is available for the  **PivotField** object.
+For PivotTables, this property is available for the **PivotField** object.
 
-This property is automatically set to  **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false).
+This property is automatically set to **True** when no manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false). It is automatically set to **False** when any manual filtering is applied (independent of whether the **IncludeNewItemsInFilter** property is true or false).
 
 
 ## See also

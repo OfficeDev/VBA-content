@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.DirectPrecedents Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the range containing all the direct precedents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one precedent. Read-only **Range** object.
+Returns a **[Range](range-object-excel.md)** object that represents the range containing all the direct precedents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one precedent. Read-only **Range** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Range](range-object-excel.md)** object that represents the range c
 
 ## Remarks
 
-The  **DirectPrecedents** property only works on the active sheet and can not trace remote references.
+The **DirectPrecedents** property only works on the active sheet and can not trace remote references.
 
 
 ## Example

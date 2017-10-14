@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AMText Property (Project)
 
-Gets the text that Project displays next to morning hours in the 12-hour time format. Read/write  **String**.
+Gets the text that Project displays next to morning hours in the 12-hour time format. Read/write **String**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Gets the text that Project displays next to morning hours in the 12-hour time fo
 
 ## Remarks
 
-Project sets the  **AMText** and **PMText** properties equal to the corresponding values in the **Regional and Language Options** dialog box opened from the Microsoft Windows Control Panel.
+Project sets the **AMText** and **PMText** properties equal to the corresponding values in the **Regional and Language Options** dialog box opened from the Microsoft Windows Control Panel.
 
 
- **Note**  Although the VBA Object Browser shows  **AMText** as read-write, you cannot set the value using the **PMText** property.
+ **Note**  Although the VBA Object Browser shows **AMText** as read-write, you cannot set the value using the **PMText** property.
 
 

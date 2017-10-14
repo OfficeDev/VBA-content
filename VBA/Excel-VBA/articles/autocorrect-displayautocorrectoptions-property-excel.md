@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.DisplayAutoCorrectOptions Property (Excel)
 
-Allows the user to display or hide the  **AutoCorrect Options** button. The default value is **True** . Read/write **Boolean** .
+Allows the user to display or hide the **AutoCorrect Options** button. The default value is **True** . Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,14 +25,14 @@ Allows the user to display or hide the  **AutoCorrect Options** button. The defa
 
 ## Remarks
 
-The  **DisplayAutoCorrectOptions** property is a Microsoft Office-wide setting. Changing this property in Microsoft Excel will affect the other Office applications also.
+The **DisplayAutoCorrectOptions** property is a Microsoft Office-wide setting. Changing this property in Microsoft Excel will affect the other Office applications also.
 
-In Excel the  **AutoCorrect Options** button only appears when a hyperlink is automatically created.
+In Excel the **AutoCorrect Options** button only appears when a hyperlink is automatically created.
 
 
 ## Example
 
-This example determines if the  **AutoCorrect Options** button can be displayed and notifies the user.
+This example determines if the **AutoCorrect Options** button can be displayed and notifies the user.
 
 
 ```vb

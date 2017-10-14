@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationButton.Caption Property (Access)
 
-Gets or sets the text that appears in the control. Read/write  **String**.
+Gets or sets the text that appears in the control. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the text that appears in the control. Read/write  **String**.
 
 ## Remarks
 
-The  **Caption** property is a string expression that can contain up to 2,048 characters.
+The **Caption** property is a string expression that can contain up to 2,048 characters.
 
 If you don't set a caption for a form, button, or label, Microsoft Access will assign the object a unique name based on the object, such as "Form1".
 

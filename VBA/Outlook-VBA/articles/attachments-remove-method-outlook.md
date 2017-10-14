@@ -33,7 +33,7 @@ Removes an object from the collection.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Remove** method to remove all attachments from a forwarded message before sending it on to Dan Wilson. Before running this example, replace 'Dan Wilson' with a valid recipient name.
+This Visual Basic for Applications (VBA) example uses the **Remove** method to remove all attachments from a forwarded message before sending it on to Dan Wilson. Before running this example, replace 'Dan Wilson' with a valid recipient name.
 
 
 ```vb

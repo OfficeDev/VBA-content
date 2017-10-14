@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Color.Index Property (Visio)
 
-Gets the ordinal position of a  **Color** object in the **Colors** collection. Read-only.
+Gets the ordinal position of a **Color** object in the **Colors** collection. Read-only.
 
 
 ## Syntax

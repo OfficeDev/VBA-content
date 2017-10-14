@@ -29,27 +29,27 @@ Sets the styles of bars on the Resource Graph view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TopLeftShowAs_|Optional|**Integer**|The bar type for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be one of the following **[PjResourceGraphStyle](pjresourcegraphstyle-enumeration-project.md)** constants: **pjBar**, **pjArea**, **pjStep**, **pjLine**, **pjStepLine**, or **pjDoNotShow**.|
-| _TopLeftColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
-| _TopLeftPattern_|Optional|**Integer**|The bar pattern for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be one of the **[PjResourceGraphPattern](pjresourcegraphpattern-enumeration-project.md)** constants.|
-| _BottomLeftShowAs_|Optional|**Integer**|The bar type for the allocated resources category (the middle left section) of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
-| _BottomLeftColor_|Optional|**Integer**|The bar color for the allocated resources category (the middle left section) of the  **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
-| _BottomLeftPattern_|Optional|**Integer**|The bar pattern for the allocated resources category (the middle left section) of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
-| _TopRightShowAs_|Optional|**Integer**|The bar type for the overallocated resources category in the upper-right corner of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
-| _TopRightColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-right corner of the  **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
-| _TopRightPattern_|Optional|**Integer**|The bar pattern for the overallocated resources category in the upper-right corner of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
-| _BottomRightShowAs_|Optional|**Integer**|The bar type for the allocated resources category (the middle right section) of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
-| _BottomRightColor_|Optional|**Integer**|The bar color for the allocated resources category (the middle right section) of the  **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
-| _BottomRightPattern_|Optional|**Integer**|The bar pattern for the allocated resources category (the middle right section) of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
+| _TopLeftShowAs_|Optional|**Integer**|The bar type for the overallocated resources category in the upper-left corner of the **Bar Styles** dialog box. Can be one of the following **[PjResourceGraphStyle](pjresourcegraphstyle-enumeration-project.md)** constants: **pjBar**, **pjArea**, **pjStep**, **pjLine**, **pjStepLine**, or **pjDoNotShow**.|
+| _TopLeftColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-left corner of the **Bar Styles** dialog box. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _TopLeftPattern_|Optional|**Integer**|The bar pattern for the overallocated resources category in the upper-left corner of the **Bar Styles** dialog box. Can be one of the **[PjResourceGraphPattern](pjresourcegraphpattern-enumeration-project.md)** constants.|
+| _BottomLeftShowAs_|Optional|**Integer**|The bar type for the allocated resources category (the middle left section) of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
+| _BottomLeftColor_|Optional|**Integer**|The bar color for the allocated resources category (the middle left section) of the **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
+| _BottomLeftPattern_|Optional|**Integer**|The bar pattern for the allocated resources category (the middle left section) of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
+| _TopRightShowAs_|Optional|**Integer**|The bar type for the overallocated resources category in the upper-right corner of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
+| _TopRightColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-right corner of the **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
+| _TopRightPattern_|Optional|**Integer**|The bar pattern for the overallocated resources category in the upper-right corner of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
+| _BottomRightShowAs_|Optional|**Integer**|The bar type for the allocated resources category (the middle right section) of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
+| _BottomRightColor_|Optional|**Integer**|The bar color for the allocated resources category (the middle right section) of the **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
+| _BottomRightPattern_|Optional|**Integer**|The bar pattern for the allocated resources category (the middle right section) of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
 | _ShowValues_|Optional|**Boolean**|**True** if the corresponding values appear below the bars.|
 | _ShowAvailabilityLine_|Optional|**Boolean**|**True** if a horizontal line appears where a resource reaches its maximum availability.|
 | _PercentBarOverlap_|Optional|**Integer**|A number from 0 to 100 that specifies the overlap percentage of displayed bars.|
-| _ProposedLeftShowAs_|Optional|**Integer**|The bar type for the proposed bookings category in the bottom left section of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
-| _ProposedLeftColor_|Optional|**Integer**|The bar color for the proposed bookings category in the bottom left section of the  **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
-| _ProposedLeftPattern_|Optional|**Integer**|The bar pattern for the proposed bookings category in the bottom left section of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
-| _ProposedRightShowAs_|Optional|**Integer**|The bar type for the proposed bookings category in the bottom right section of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
-| _ProposedRightColor_|Optional|**Integer**|The bar color for the proposed bookings category in the bottom right section of the  **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
-| _ProposedRightPattern_|Optional|**Integer**|The bar pattern for the proposed bookings category in the bottom right section of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
+| _ProposedLeftShowAs_|Optional|**Integer**|The bar type for the proposed bookings category in the bottom left section of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
+| _ProposedLeftColor_|Optional|**Integer**|The bar color for the proposed bookings category in the bottom left section of the **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
+| _ProposedLeftPattern_|Optional|**Integer**|The bar pattern for the proposed bookings category in the bottom left section of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
+| _ProposedRightShowAs_|Optional|**Integer**|The bar type for the proposed bookings category in the bottom right section of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
+| _ProposedRightColor_|Optional|**Integer**|The bar color for the proposed bookings category in the bottom right section of the **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
+| _ProposedRightPattern_|Optional|**Integer**|The bar pattern for the proposed bookings category in the bottom right section of the **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
 
 ### Return Value
 
@@ -58,9 +58,9 @@ Sets the styles of bars on the Resource Graph view.
 
 ## Remarks
 
-Using the  **ResourceGraphBarStyles** method without specifying any arguments displays the **Bar Styles** dialog box.
+Using the **ResourceGraphBarStyles** method without specifying any arguments displays the **Bar Styles** dialog box.
 
-To edit the resource graph styles where the colors can be specified as hexadecimal RGB values, use the  **[ResourceGraphBarStylesEx](application-resourcegraphbarstylesex-method-project.md)** method
+To edit the resource graph styles where the colors can be specified as hexadecimal RGB values, use the **[ResourceGraphBarStylesEx](application-resourcegraphbarstylesex-method-project.md)** method
 
 
 ## Example

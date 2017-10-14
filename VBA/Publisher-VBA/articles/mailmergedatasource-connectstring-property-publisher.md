@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.ConnectString Property (Publisher)
 
-Returns a  **String** that represents the connection to the specified mail merge data source. Read-only.
+Returns a **String** that represents the connection to the specified mail merge data source. Read-only.
 
 
 ## Syntax
 
  _expression_. **ConnectString**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Return Value

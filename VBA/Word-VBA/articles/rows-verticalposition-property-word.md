@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.VerticalPosition Property (Word)
 
-Returns or sets the vertical distance between the edge of the rows and the item specified by the  **RelativeVerticalPosition** property. Read/write **Single** .
+Returns or sets the vertical distance between the edge of the rows and the item specified by the **RelativeVerticalPosition** property. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the vertical distance between the edge of the rows and the item 
 
 ## Remarks
 
-This property can be a number that indicates a measurement in points, or can be any valid  **[WdTablePosition](wdtableposition-enumeration-word.md)** constant.
+This property can be a number that indicates a measurement in points, or can be any valid **[WdTablePosition](wdtableposition-enumeration-word.md)** constant.
 
 
 ## Example

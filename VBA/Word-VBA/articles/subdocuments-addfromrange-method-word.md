@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocuments.AddFromRange Method (Word)
 
-Creates one or more subdocuments from the text in the specified range and returns a  **SubDocument** object.
+Creates one or more subdocuments from the text in the specified range and returns a **SubDocument** object.
 
 
 ## Syntax

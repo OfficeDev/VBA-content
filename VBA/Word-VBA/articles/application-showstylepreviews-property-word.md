@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowStylePreviews Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word shows a preview of the formatting for styles in the **Styles** dialog box. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word shows a preview of the formatting for styles in the **Styles** dialog box. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word shows a pr
 
 ## Remarks
 
-This property corresponds to the  **Show Preview** check box in the **Styles** dialog box.
+This property corresponds to the **Show Preview** check box in the **Styles** dialog box.
 
 
 ## See also

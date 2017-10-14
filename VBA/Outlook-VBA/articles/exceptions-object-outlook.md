@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Exceptions Object (Outlook)
 
-Contains a group of  **[Exception](exception-object-outlook.md)** objects.
+Contains a group of **[Exception](exception-object-outlook.md)** objects.
 
 
 ## Remarks
 
-If you have a recurring  **[AppointmentItem](appointmentitem-object-outlook.md)**, the **[RecurrencePattern](recurrencepattern-object-outlook.md)** object defines the recurrence of these appointments. The **Exceptions** object contains the group of **Exception** objects that define the exceptions to that series of appointments.
+If you have a recurring **[AppointmentItem](appointmentitem-object-outlook.md)**, the **[RecurrencePattern](recurrencepattern-object-outlook.md)** object defines the recurrence of these appointments. The **Exceptions** object contains the group of **Exception** objects that define the exceptions to that series of appointments.
 
  **Exception** objects are added to the **Exceptions** object whenever a property in the corresponding **AppointmentItem** object is altered.
 
 
 ## Example
 
-The following example sets a reference to the  **Exceptions** object.
+The following example sets a reference to the **Exceptions** object.
 
 
 ```

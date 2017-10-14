@@ -19,7 +19,7 @@ Represents the data source in a mail merge or catalog merge operation.
 
 ## Example
 
-Use the  **[DataSource](mailmerge-datasource-property-publisher.md)** property to return the **MailMergeDataSource** object. The following example displays the name of the data source associated with the active publication.
+Use the **[DataSource](mailmerge-datasource-property-publisher.md)** property to return the **MailMergeDataSource** object. The following example displays the name of the data source associated with the active publication.
  
 
  

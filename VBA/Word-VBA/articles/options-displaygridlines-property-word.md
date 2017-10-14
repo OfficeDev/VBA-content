@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property affects only the document grid. For table gridlines, use the  **[TableGridlines](view-tablegridlines-property-word.md)** property.
+This property affects only the document grid. For table gridlines, use the **[TableGridlines](view-tablegridlines-property-word.md)** property.
 
 
 ## Example

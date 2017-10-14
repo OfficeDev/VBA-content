@@ -18,7 +18,7 @@ Represents a mailing label.
 
 ## Remarks
 
-Use the  **MailingLabel** property to return the **MailingLabel** object. The following example sets default mailing label options.
+Use the **MailingLabel** property to return the **MailingLabel** object. The following example sets default mailing label options.
 
 
 ```vb
@@ -28,7 +28,7 @@ With Application.MailingLabel
 End With
 ```
 
-Use the  **PrintOut** method to print a mailing label listed in the **Product Number** box in the **Label Options** dialog box. The following example prints a page of Avery 5162 standard address labels using the specified address.
+Use the **PrintOut** method to print a mailing label listed in the **Product Number** box in the **Label Options** dialog box. The following example prints a page of Avery 5162 standard address labels using the specified address.
 
 
 
@@ -39,7 +39,7 @@ addr = "Katie Jordan" &; vbCr &; "123 Skye St." _
 Application.MailingLabel.PrintOut Name:="5162", Address:=addr
 ```
 
-Use the  **CustomLabels** property to format or print a custom mailing label. The following example sets the number of labels across and down for the custom label named "MyLabel."
+Use the **CustomLabels** property to format or print a custom mailing label. The following example sets the number of labels across and down for the custom label named "MyLabel."
 
 
 

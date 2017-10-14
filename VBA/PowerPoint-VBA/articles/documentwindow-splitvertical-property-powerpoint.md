@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The minimum value of the  **SplitVertical** property is always greater than 0% because the slide pane has a minimum height that depends on a 10% zoom level. The actual minimum value may vary depending on the size of the application window.
+The minimum value of the **SplitVertical** property is always greater than 0% because the slide pane has a minimum height that depends on a 10% zoom level. The actual minimum value may vary depending on the size of the application window.
 
 
 ## Example

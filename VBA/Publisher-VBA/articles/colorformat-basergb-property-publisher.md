@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorFormat.BaseRGB Property (Publisher)
 
-Returns or sets an  **MsoRGBType** constant that represents the original RGB color format before color-changing properties, such as tinting and shading, are applied. Read/write.
+Returns or sets an **MsoRGBType** constant that represents the original RGB color format before color-changing properties, such as tinting and shading, are applied. Read/write.
 
 
 ## Syntax
 
  _expression_. **BaseRGB**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_A variable that represents a **ColorFormat** object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBreaks.Item Method (Word)
 
-Returns an  **OMathBreak** object that represents the specified item in the collection.
+Returns an **OMathBreak** object that represents the specified item in the collection.
 
 
 ## Syntax

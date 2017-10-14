@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Ranges.Item Property (Excel)
 
-Returns a  **Range** object that represents a range of items in a workbook. Read-only.
+Returns a **Range** object that represents a range of items in a workbook. Read-only.
 
 
 ## Syntax

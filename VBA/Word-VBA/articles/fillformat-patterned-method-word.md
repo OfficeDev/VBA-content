@@ -33,7 +33,7 @@ Sets the specified fill to a pattern.
 
 ## Remarks
 
-Use the  **BackColor** and **ForeColor** properties to set the colors used in the pattern.
+Use the **BackColor** and **ForeColor** properties to set the colors used in the pattern.
 
 
 ## Example

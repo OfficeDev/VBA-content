@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultDateFormat Property (Project)
 
-Gets or sets the default date format. Read/write  **PjDateFormat**.
+Gets or sets the default date format. Read/write **PjDateFormat**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the default date format. Read/write  **PjDateFormat**.
 
 ## Remarks
 
-See the  **[PjDateFormat](pjdateformat-enumeration-project.md)** enumeration.
+See the **[PjDateFormat](pjdateformat-enumeration-project.md)** enumeration.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.BaseCalendars Property (Project)
 
-Gets a  **[Calendars](calendar-object-project.md)** collection representing all base calendars in the active project. Read-only **Calendars**.
+Gets a **[Calendars](calendar-object-project.md)** collection representing all base calendars in the active project. Read-only **Calendars**.
 
 
 ## Syntax

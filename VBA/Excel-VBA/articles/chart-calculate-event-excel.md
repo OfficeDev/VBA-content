@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Calculate Event (Excel)
 
-Occurs after the chart plots new or changed data, for the  **Chart** object.
+Occurs after the chart plots new or changed data, for the **Chart** object.
 
 
 ## Syntax

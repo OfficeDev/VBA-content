@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReportItem.Parent Property (Outlook)
 
-Returns the parent  **Object** of the specified object. Read-only.
+Returns the parent **Object** of the specified object. Read-only.
 
 
 ## Syntax

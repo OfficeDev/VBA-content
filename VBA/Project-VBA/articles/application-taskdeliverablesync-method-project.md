@@ -30,8 +30,8 @@ Synchronizes selected task deliverables in the active project with changes made 
 
 ## Remarks
 
-If a deliverable is out of synchronization with Project Server, there is a red exclamation point to the left of the deliverable name in the  **Deliverables** pane.
+If a deliverable is out of synchronization with Project Server, there is a red exclamation point to the left of the deliverable name in the **Deliverables** pane.
 
-The  **TaskDeliverableSync** method is equivalent to the **Sync Deliverables** command in the **Deliverable** drop-down menu on the **TASK** ribbon.
+The **TaskDeliverableSync** method is equivalent to the **Sync Deliverables** command in the **Deliverable** drop-down menu on the **TASK** ribbon.
 
 

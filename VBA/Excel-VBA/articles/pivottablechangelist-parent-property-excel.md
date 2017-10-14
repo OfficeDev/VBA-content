@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTableChangeList.Parent Property (Excel)
 
-Returns the parent  **[PivotTable](pivottable-object-excel.md)** object for the specified **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection. Read-only.
+Returns the parent **[PivotTable](pivottable-object-excel.md)** object for the specified **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection. Read-only.
 
 
 ## Syntax

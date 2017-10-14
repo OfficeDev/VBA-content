@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSources.Parent Property (Publisher)
 
-Returns the parent of the  **[MailMergeDataSources](mailmergedatasources-object-publisher.md)** collection. Read-only.
+Returns the parent of the **[MailMergeDataSources](mailmergedatasources-object-publisher.md)** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  **MailMergeDataSources** collection.
+ _expression_A variable that represents a **MailMergeDataSources** collection.
 
 
 ### Return Value

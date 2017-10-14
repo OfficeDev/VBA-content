@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Next Property (Excel)
 
-Returns a  **[Worksheet](worksheet-object-excel.md)** object that represents the next sheet.
+Returns a **[Worksheet](worksheet-object-excel.md)** object that represents the next sheet.
 
 
 ## Syntax

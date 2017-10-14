@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.DrawOval Method (Visio)
 
-Adds an oval (ellipse) to the  **Shapes** collection of a master.
+Adds an oval (ellipse) to the **Shapes** collection of a master.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ Shape
 
 ## Remarks
 
-Using the  **DrawOval** method is equivalent to using the **Ellipse** tool in the application. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the ellipse is being placed.
+Using the **DrawOval** method is equivalent to using the **Ellipse** tool in the application. The arguments are in internal drawing units with respect to the coordinate space of the page, master, or group where the ellipse is being placed.
 
 
 ## Example

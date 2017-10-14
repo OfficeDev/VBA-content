@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Master.Guides Property (PowerPoint)
 
-Returns a  **[Guides](guides-object-powerpoint.md)** collection that represents all of the drawing guides associated with the slide master, title master, handout master, notes master, or design master.
+Returns a **[Guides](guides-object-powerpoint.md)** collection that represents all of the drawing guides associated with the slide master, title master, handout master, notes master, or design master.
 
 
 ## Syntax

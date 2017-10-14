@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.MoveStart Method (Publisher)
 
-Moves the start position of the specified range. This method returns a  **Long** that indicates the number of units by which the start position or the range or selection actually moved, or it returns 0 (zero) if the move was unsuccessful.
+Moves the start position of the specified range. This method returns a **Long** that indicates the number of units by which the start position or the range or selection actually moved, or it returns 0 (zero) if the move was unsuccessful.
 
 
 ## Syntax
 
- _expression_. **MoveStart**( **_Unit_**,  **_Size_**)
+ _expression_. **MoveStart**( **_Unit_**, **_Size_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -39,7 +39,7 @@ Long
 
 ## Remarks
 
-The Unit parameter can be one of the  **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Unit parameter can be one of the **PbTextUnit** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

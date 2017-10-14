@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Export Data, Schema, and Related Tables to XML
 
-The  **[ExportXML](application-exportxml-method-access.md)** method can be used to export the data and formatting contained in a table, along with any additonal data that you specify.
+The **[ExportXML](application-exportxml-method-access.md)** method can be used to export the data and formatting contained in a table, along with any additonal data that you specify.
 
-To specify the additional data to export, you must must use the  **[CreateAdditionalData](application-createadditionaldata-method-access.md)** method to create an **[AdditionalData](additionaldata-object-access.md)** object. Then, use the **[Add](additionaldata-add-method-access.md)** method to add additonal tables to export along with the main table.
+To specify the additional data to export, you must must use the **[CreateAdditionalData](application-createadditionaldata-method-access.md)** method to create an **[AdditionalData](additionaldata-object-access.md)** object. Then, use the **[Add](additionaldata-add-method-access.md)** method to add additonal tables to export along with the main table.
 
 The following procedure illustrates how to include additional data when exporting a table to XML. The Orders table is exported along with several other tables. The schema and the formatting are also exported as separate .xsd and .xsl files, respectively.
 

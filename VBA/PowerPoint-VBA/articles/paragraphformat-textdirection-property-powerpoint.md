@@ -32,7 +32,7 @@ PpDirection
 
 The default value depends on the language support you have selected or installed.
 
-The value of the  **TextDirection** property can be one of these **PpDirection** constants.
+The value of the **TextDirection** property can be one of these **PpDirection** constants.
 
 
 ||

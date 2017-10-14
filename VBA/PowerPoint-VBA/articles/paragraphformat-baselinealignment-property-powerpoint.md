@@ -30,7 +30,7 @@ PpBaselineAlignment
 
 ## Remarks
 
-The value of the  **BaseLineAlignment** property can be one of these **PpBaselineAlignment** constants
+The value of the **BaseLineAlignment** property can be one of these **PpBaselineAlignment** constants
 
 
 ||

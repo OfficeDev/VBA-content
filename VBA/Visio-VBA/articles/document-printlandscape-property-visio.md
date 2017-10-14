@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-The  **PrintLandscape** property corresponds to the **Portrait** and **Landscape** settings in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
+The **PrintLandscape** property corresponds to the **Portrait** and **Landscape** settings in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
 
 

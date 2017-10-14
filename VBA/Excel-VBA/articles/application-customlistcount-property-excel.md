@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CustomListCount Property (Excel)
 
-Returns the number of defined custom lists (including built-in lists). Read-only  **Long** .
+Returns the number of defined custom lists (including built-in lists). Read-only **Long** .
 
 
 ## Syntax

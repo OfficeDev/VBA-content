@@ -18,7 +18,7 @@ A control that displays the sender's contact picture for items that can be recei
 
 ## Remarks
 
-Before you use this control for the first time in the forms designer, add the Microsoft Outlook Sender Photo Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic  **UserForm** object in the Visual Basic Editor. This control supports Microsoft Windows themes.
+Before you use this control for the first time in the forms designer, add the Microsoft Outlook Sender Photo Control to the control toolbox. You can only add this control to a form region in an Outlook form using the forms designer; you cannot add this control to a Visual Basic **UserForm** object in the Visual Basic Editor. This control supports Microsoft Windows themes.
 
 If no contact item or contact picture exists for the sender, the control is blank. Right-clicking the control at runtime will display the sender's persona menu, an example of which is shown below.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.Position Property (Excel)
 
-Returns or sets a  **Long** value that represents the position of the item in its field, if the item is currently showing.
+Returns or sets a **Long** value that represents the position of the item in its field, if the item is currently showing.
 
 
 ## Syntax

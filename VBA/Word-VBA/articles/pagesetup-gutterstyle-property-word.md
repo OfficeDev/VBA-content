@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.GutterStyle Property (Word)
 
-Returns or sets whether Microsoft Word uses gutters for the current document based on a right-to-left language or a left-to-right language. Read/write  **WdGutterStyleOld** .
+Returns or sets whether Microsoft Word uses gutters for the current document based on a right-to-left language or a left-to-right language. Read/write **WdGutterStyleOld** .
 
 
 ## Syntax

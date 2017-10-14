@@ -18,9 +18,9 @@ Represents a chart axis title.
 
 ## Remarks
 
-Use the  **[AxisTitle](axis-axistitle-property-word.md)** property to return an **AxisTitle** object.
+Use the **[AxisTitle](axis-axistitle-property-word.md)** property to return an **AxisTitle** object.
 
-The  **AxisTitle** object does not exist and cannot be used unless the **[HasTitle](axis-hastitle-property-word.md)** property for the axis is **True** .
+The **AxisTitle** object does not exist and cannot be used unless the **[HasTitle](axis-hastitle-property-word.md)** property for the axis is **True** .
 
 
 ## Example

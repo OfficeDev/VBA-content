@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.Font Property (PowerPoint)
 
-Returns the font of the specified object. Read-only  **[ChartFont](chartfont-object-powerpoint.md)**.
+Returns the font of the specified object. Read-only **[ChartFont](chartfont-object-powerpoint.md)**.
 
 
 ## Syntax

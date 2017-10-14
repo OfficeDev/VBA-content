@@ -17,7 +17,7 @@ Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
 
  _expression_. **OnMarkupOverlaysVisibleChanged**( **_MarkupOverlaysVisible_** )
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -30,14 +30,14 @@ Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
 
 ## Remarks
 
-You can change the visibility of markup overlays in Visio Viewer by using the  **[MarkupOverlaysVisible](viewer-markupoverlaysvisible-property-visio-viewer.md)** property.
+You can change the visibility of markup overlays in Visio Viewer by using the **[MarkupOverlaysVisible](viewer-markupoverlaysvisible-property-visio-viewer.md)** property.
 
-The  **OnMarkupOverlaysVisibleChanged** event occurs when markup overlays for all reviewers in a drawing are set to be visible or not visible. The **[OnReviewerChanged](viewer-onreviewerchanged-event-visio-viewer.md)** event occurs when markup overlays of a specific reviewer are set to be visible or not visible.
+The **OnMarkupOverlaysVisibleChanged** event occurs when markup overlays for all reviewers in a drawing are set to be visible or not visible. The **[OnReviewerChanged](viewer-onreviewerchanged-event-visio-viewer.md)** event occurs when markup overlays of a specific reviewer are set to be visible or not visible.
 
 
 ## Example
 
-The following code shows how to use the  **OnMarkupOverlaysVisibleChanged** event to display the visibility status of markup overlays in the **Immediate** window.
+The following code shows how to use the **OnMarkupOverlaysVisibleChanged** event to display the visibility status of markup overlays in the **Immediate** window.
 
 
 ```vb

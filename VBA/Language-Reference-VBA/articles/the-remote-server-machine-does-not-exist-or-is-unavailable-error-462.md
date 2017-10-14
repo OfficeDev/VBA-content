@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The remote server machine does not exist or is unavailable (Error 462)
 
-The  **CreateObject** function requires a valid server. This error has the following cause and solution:
+The **CreateObject** function requires a valid server. This error has the following cause and solution:
 
 
 

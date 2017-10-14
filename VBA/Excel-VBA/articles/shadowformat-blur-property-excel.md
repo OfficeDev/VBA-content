@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Blur Property (Excel)
 
-Returns or sets the degree of blurriness of the specified shadow. Read/write  **Single** .
+Returns or sets the degree of blurriness of the specified shadow. Read/write **Single** .
 
 
 ## Syntax

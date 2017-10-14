@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.DropConnected Method (Visio)
 
-Creates a new  **[Shape](shape-object-visio.md)** object on the page, places the new shape relative to the specified existing target shape, and adds a connector from the existing shape to the new shape. Returns the newly created shape.
+Creates a new **[Shape](shape-object-visio.md)** object on the page, places the new shape relative to the specified existing target shape, and adds a connector from the existing shape to the new shape. Returns the newly created shape.
 
 
 ## Syntax
@@ -29,10 +29,10 @@ Creates a new  **[Shape](shape-object-visio.md)** object on the page, places the
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectToDrop_|Required| **[UNKNOWN]**|The shape to add to the page. Can be a  **[Master](master-object-visio.md)** , **[MasterShortcut](mastershortcut-object-visio.md)** , **Shape** , or an **IDataObject** object.|
+| _ObjectToDrop_|Required| **[UNKNOWN]**|The shape to add to the page. Can be a **[Master](master-object-visio.md)** , **[MasterShortcut](mastershortcut-object-visio.md)** , **Shape** , or an **IDataObject** object.|
 | _TargetShape_|Required| **Shape**|The existing shape from which to align, space, and connect.|
 | _PlacementDir_|Required| **[VisAutoConnectDir](visautoconnectdir-enumeration-visio.md)**|The direction from  _TargetShape_ in which to place _ObjectToDrop_.|
-| _Connector_|Optional| **[UNKNOWN]**|The connector to use. Can be a  **Master** , **MasterShortcut** , **Shape** , or an **IDataObject** object.|
+| _Connector_|Optional| **[UNKNOWN]**|The connector to use. Can be a **Master** , **MasterShortcut** , **Shape** , or an **IDataObject** object.|
 
 ### Return Value
 

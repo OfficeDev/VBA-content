@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # Count Property Example
 
-The following example displays the  **Count** property of the **Controls** collection for the form, and the **Count** property identifying the number of pages and tabs of each **MultiPage** and **TabStrip**.
+The following example displays the **Count** property of the **Controls** collection for the form, and the **Count** property identifying the number of pages and tabs of each **MultiPage** and **TabStrip**.
 
 To use this example, copy this sample code to the Declarations portion of a form. The form can contain any number of controls, with the following restrictions:
 
 
 
 
-- Names of  **MultiPage** controls must start with "MultiPage".
+- Names of **MultiPage** controls must start with "MultiPage".
     
-- Names of  **TabStrip** controls must start with "TabStrip".
+- Names of **TabStrip** controls must start with "TabStrip".
     
 
 
- **Note**  You can add pages to a  **MultiPage** or add tabs to a **TabStrip**. In Windows, double-click the control, then right-click in the tab area of the control and choose **New Page** from the shortcut menu.
+ **Note**  You can add pages to a **MultiPage** or add tabs to a **TabStrip**. In Windows, double-click the control, then right-click in the tab area of the control and choose **New Page** from the shortcut menu.
 
 
 

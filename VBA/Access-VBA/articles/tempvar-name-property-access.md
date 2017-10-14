@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TempVar.Name Property (Access)
 
-Gets the name of the specified  **[TempVar](tempvar-object-access.md)**. Read-only **String**.
+Gets the name of the specified **[TempVar](tempvar-object-access.md)**. Read-only **String**.
 
 
 ## Syntax

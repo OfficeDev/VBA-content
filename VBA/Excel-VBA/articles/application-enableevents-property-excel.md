@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example disables events before a file is saved so that the  **BeforeSave** event doesn't occur.
+This example disables events before a file is saved so that the **BeforeSave** event doesn't occur.
 
 
 ```vb

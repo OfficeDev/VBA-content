@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFormulas Object (Excel)
 
-Represents the collection of formulas for a PivotTable report. Each formula is represented by a  **[PivotFormula](pivotformula-object-excel.md)** object.
+Represents the collection of formulas for a PivotTable report. Each formula is represented by a **[PivotFormula](pivotformula-object-excel.md)** object.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ This object and its associated properties and methods aren't available for OLAP 
 
 ## Example
 
-Use the  **[PivotFormulas](pivottable-pivotformulas-property-excel.md)** property to return the **PivotFormulas** collection. The following example creates a list of PivotTable formulas for the first PivotTable report on the active worksheet.
+Use the **[PivotFormulas](pivottable-pivotformulas-property-excel.md)** property to return the **PivotFormulas** collection. The following example creates a list of PivotTable formulas for the first PivotTable report on the active worksheet.
 
 
 ```vb

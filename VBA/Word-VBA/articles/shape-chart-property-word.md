@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Chart Property (Word)
 
-Returns a  **Chart** object that represents a chart within the collection of shapes in a document. Read-only.
+Returns a **Chart** object that represents a chart within the collection of shapes in a document. Read-only.
 
 
 ## Syntax

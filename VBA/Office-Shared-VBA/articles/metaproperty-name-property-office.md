@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MetaProperty.Name Property (Office)
 
-Gets the name of the  **MetaProperty** object. Read-only.
+Gets the name of the **MetaProperty** object. Read-only.
 
 
 ## Syntax

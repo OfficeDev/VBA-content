@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Document.EditorCount Property (Visio)
 
-Returns a  **Long** that represents the number of editors of a co authored document. Read-only.
+Returns a **Long** that represents the number of editors of a co authored document. Read-only.
 
 
 ## Syntax

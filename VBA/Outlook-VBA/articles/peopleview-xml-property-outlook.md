@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.XML Property (Outlook)
-Returns or sets a  **String** value that specifies the XML definition of the view. Read/write.
+Returns or sets a **String** value that specifies the XML definition of the view. Read/write.
 
 ## Version information
 

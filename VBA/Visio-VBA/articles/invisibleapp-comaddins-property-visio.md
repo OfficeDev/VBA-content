@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.COMAddIns Property (Visio)
 
-Returns a reference to the  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently registered in Microsoft Visio. Read-only.
+Returns a reference to the **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently registered in Microsoft Visio. Read-only.
 
 
 ## Syntax
@@ -30,23 +30,23 @@ COMAddIns
 
 ## Remarks
 
-The COM add-ins that are currently registered are listed in the  **COM Add-Ins** dialog box (click the **File** tab, click **Options**, click  **Add-Ins**, and then click  **Go**).
+The COM add-ins that are currently registered are listed in the **COM Add-Ins** dialog box (click the **File** tab, click **Options**, click **Add-Ins**, and then click **Go**).
 
-To get information about the object returned by the  **COMAddIns** property:
+To get information about the object returned by the **COMAddIns** property:
 
 
-1. In the  **Code** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab, click **Visual Basic**.
+1. In the **Code** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab, click **Visual Basic**.
     
-2. On the  **View** menu, click **Object Browser**.
+2. On the **View** menu, click **Object Browser**.
     
-3. In the  **Project/Library** list, click **Office**.
+3. In the **Project/Library** list, click **Office**.
     
-4. Under  **Classes**, examine the class named  **COMAddIns** .
+4. Under **Classes**, examine the class named **COMAddIns** .
     
 
 ## Example
 
-This macro shows how to use the  **COMAddIns** property to list the COM add-ins registered with Visio.
+This macro shows how to use the **COMAddIns** property to list the COM add-ins registered with Visio.
 
 
 ```vb

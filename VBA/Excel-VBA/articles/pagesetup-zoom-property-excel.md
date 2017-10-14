@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Zoom Property (Excel)
 
-Returns or sets a  **Variant** value that represents a percentage (between 10 and 400 percent) by which Microsoft Excel will scale the worksheet for printing.
+Returns or sets a **Variant** value that represents a percentage (between 10 and 400 percent) by which Microsoft Excel will scale the worksheet for printing.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **Variant** value that represents a percentage (between 10 an
 
 This property applies only to worksheets.
 
-If this property is  **False** , the **[FitToPagesWide](pagesetup-fittopageswide-property-excel.md)** and **[FitToPagesTall](pagesetup-fittopagestall-property-excel.md)** properties control how the worksheet is scaled.
+If this property is **False** , the **[FitToPagesWide](pagesetup-fittopageswide-property-excel.md)** and **[FitToPagesTall](pagesetup-fittopagestall-property-excel.md)** properties control how the worksheet is scaled.
 
 All scaling retains the aspect ratio of the original document.
 

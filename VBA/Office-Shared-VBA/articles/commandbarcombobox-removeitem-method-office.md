@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.RemoveItem Method (Office)
 
-Removes an item from a  **CommandBarComboBox** control.
+Removes an item from a **CommandBarComboBox** control.
 
 
 ## 
@@ -39,7 +39,7 @@ Removes an item from a  **CommandBarComboBox** control.
 
 ## Example
 
-This example determines whether there are more than three items in the specified combo box. If there are more than three items, the example removes the second item, alters the style, and sets a new value. It also sets the  **Tag** property of the parent object (the CommandBarControl object) to show that the list has changed.
+This example determines whether there are more than three items in the specified combo box. If there are more than three items, the example removes the second item, alters the style, and sets a new value. It also sets the **Tag** property of the parent object (the CommandBarControl object) to show that the list has changed.
 
 
 ```

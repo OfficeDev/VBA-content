@@ -13,23 +13,23 @@ ms.date: 06/08/2017
 
 # Application Object (Word)
 
-Represents the Microsoft Word application. The  **Application** object includes properties and methods that return top-level objects. For example, the **[ActiveDocument](http://msdn.microsoft.com/library/c20a7c9f-f8a4-7913-f53f-10baa6807def%28Office.15%29.aspx)** property returns a **[Document](document-object-word.md)** object.
+Represents the Microsoft Word application. The **Application** object includes properties and methods that return top-level objects. For example, the **[ActiveDocument](http://msdn.microsoft.com/library/c20a7c9f-f8a4-7913-f53f-10baa6807def%28Office.15%29.aspx)** property returns a **[Document](document-object-word.md)** object.
 
 
 ## Remarks
 
-Use the  **Application** property to return the **Application** object. The following example displays the user name for Word.
+Use the **Application** property to return the **Application** object. The following example displays the user name for Word.
 
 
 ```
 MsgBox Application.UserName
 ```
 
-Many of the properties and methods that return the most common user-interface objects—such as the active document ( **ActiveDocument** property)—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveDocument.PrintOut`, you can write  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the **Object Browser**, click  **<globals>** at the top of the list in the **Classes** box. (Also see the **[Global](http://msdn.microsoft.com/library/b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c%28Office.15%29.aspx)** object.)
+Many of the properties and methods that return the most common user-interface objects—such as the active document ( **ActiveDocument** property)—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveDocument.PrintOut`, you can write  `ActiveDocument.PrintOut`. Properties and methods that can be used without the **Application** object qualifier are considered "global." To view the global properties and methods in the **Object Browser**, click **<globals>** at the top of the list in the **Classes** box. (Also see the **[Global](http://msdn.microsoft.com/library/b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c%28Office.15%29.aspx)** object.)
 
 Remarks
 
-To use Automation (formerly OLE Automation) to control Word from another application, use the Microsoft Visual Basic  **CreateObject** or **GetObject** function to return a Word **Application** object. The following Microsoft Excel example starts Word (if it is not already running) and opens an existing document.
+To use Automation (formerly OLE Automation) to control Word from another application, use the Microsoft Visual Basic **CreateObject** or **GetObject** function to return a Word **Application** object. The following Microsoft Excel example starts Word (if it is not already running) and opens an existing document.
 
 
 

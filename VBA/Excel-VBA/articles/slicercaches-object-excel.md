@@ -18,12 +18,12 @@ Represents the collection of slicer caches associated with the specified workboo
 
 ## Remarks
 
-Use the  **[Item](slicercaches-item-property-excel.md)** property of the **SlicerCaches** collection to return a **[SlicerCache](slicercache-object-excel.md)** object associated with the specified **[Workbook](workbook-object-excel.md)** object. A **SlicerCache** object can be retrieved by using either the value of the **[Index](slicercache-index-property-excel.md)** property or the **[Name](slicercache-name-property-excel.md)** property of the specified object.
+Use the **[Item](slicercaches-item-property-excel.md)** property of the **SlicerCaches** collection to return a **[SlicerCache](slicercache-object-excel.md)** object associated with the specified **[Workbook](workbook-object-excel.md)** object. A **SlicerCache** object can be retrieved by using either the value of the **[Index](slicercache-index-property-excel.md)** property or the **[Name](slicercache-name-property-excel.md)** property of the specified object.
 
 
 ## Example
 
-The following code example retrieves the  **SlicerCache** object that represents the slicer cache associated with the Country slicer.
+The following code example retrieves the **SlicerCache** object that represents the slicer cache associated with the Country slicer.
 
 
 ```

@@ -33,7 +33,7 @@ Reloads a workbook based on an HTML document, using the specified document encod
 
 ## Remarks
 
-Only  **msoEncoding** constants that are applicable to HTML work with the **ReloadAs** method.
+Only **msoEncoding** constants that are applicable to HTML work with the **ReloadAs** method.
 
 
 ## Example

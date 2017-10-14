@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowAssignmentUnitsAs Property (Project)
 
-Gets or sets the way assignment units display. Read/write  **PjAssignmentUnits**.
+Gets or sets the way assignment units display. Read/write **PjAssignmentUnits**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the way assignment units display. Read/write  **PjAssignmentUnits**
 
 ## Remarks
 
-The ShowAssignmentUnits property can be one of the following  **[PjAssignmentUnits](pjassignmentunits-enumeration-project.md)** constants: **pjDecimalAssignmentUnits** or **pjPercentageAssignmentUnits**.
+The ShowAssignmentUnits property can be one of the following **[PjAssignmentUnits](pjassignmentunits-enumeration-project.md)** constants: **pjDecimalAssignmentUnits** or **pjPercentageAssignmentUnits**.
 
 

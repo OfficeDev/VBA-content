@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLNode.Attributes Property (Office)
 
-Gets a  **CustomXMLNodes** collection representing the attributes of the current element in the current node. Read-only.
+Gets a **CustomXMLNodes** collection representing the attributes of the current element in the current node. Read-only.
 
 
 ## Syntax

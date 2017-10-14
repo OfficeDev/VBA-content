@@ -30,12 +30,12 @@ Boolean
 
 ## Remarks
 
-The  **CanUndoCheckOut** method is similar to the **[Document.CanCheckIn](document-cancheckin-method-visio.md)** method.
+The **CanUndoCheckOut** method is similar to the **[Document.CanCheckIn](document-cancheckin-method-visio.md)** method.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **CanUndoCheckOut** method to determine if the checkout of the active document from a SharePoint server site can be undone. Before running this macro, check out a Visio document from a SharePoint Server site.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **CanUndoCheckOut** method to determine if the checkout of the active document from a SharePoint server site can be undone. Before running this macro, check out a Visio document from a SharePoint Server site.
 
 
 ```vb

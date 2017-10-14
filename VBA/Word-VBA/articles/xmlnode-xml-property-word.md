@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.XML Property (Word)
 
-Returns a  **String** that represents the text, with or without XML markup, that is contained within an XML node. Read-only.
+Returns a **String** that represents the text, with or without XML markup, that is contained within an XML node. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **String** that represents the text, with or without XML markup, that
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DataOnly_|Optional| **Boolean**|Specifies whether to return the XML with or without markup.  **True** returns the text contained within the XML node without XML markup. **False** returns the text with XML markup.|
+| _DataOnly_|Optional| **Boolean**|Specifies whether to return the XML with or without markup. **True** returns the text contained within the XML node without XML markup. **False** returns the text with XML markup.|
 
 ## See also
 

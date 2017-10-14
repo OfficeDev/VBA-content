@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.CurrentRecord Property (Access)
 
-You can use the  **CurrentRecord** property to identify the current record in the recordset being viewed. Read/write **Long**.
+You can use the **CurrentRecord** property to identify the current record in the recordset being viewed. Read/write **Long**.
 
 
 ## Syntax

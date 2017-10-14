@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AllModules.Count Property (Access)
 
-You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
+You can use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.HasChildNodes Property (Word)
 
-Returns a  **Boolean** that represents whether an XML node has child nodes. Read-only.
+Returns a **Boolean** that represents whether an XML node has child nodes. Read-only.
 
 
 ## Syntax

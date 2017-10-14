@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentLibraryVersion.Open Method (Office)
 
-Opens the specified version of the shared document from the  **DocumentLibraryVersions** collection in read-only mode.
+Opens the specified version of the shared document from the **DocumentLibraryVersions** collection in read-only mode.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MouseEvent.Button Property (Visio)
 
-Returns the mouse button that was clicked to fire a  **MouseDown** or **MouseUp** event. Read-only.
+Returns the mouse button that was clicked to fire a **MouseDown** or **MouseUp** event. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-Possible values for the  **Button** property can be any of the constants shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library.
+Possible values for the **Button** property can be any of the constants shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library.
 
 
 
@@ -42,9 +42,9 @@ Possible values for the  **Button** property can be any of the constants shown i
 
 ## Example
 
-This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown** , **MouseMove** , and **MouseUp** events.
+This class module shows how to define a sink class called **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown** , **MouseMove** , and **MouseUp** events.
 
-To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it  **MouseListener** , and insert the following code in the module.
+To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it **MouseListener** , and insert the following code in the module.
 
 
 
@@ -96,7 +96,7 @@ Private Sub vsoWindow_MouseUp(ByVal Button As Long, ByVal KeyButtonState As Long
 End Sub
 ```
 
-Then, insert the following code in the  **ThisDocument** project.
+Then, insert the following code in the **ThisDocument** project.
 
 
 
@@ -117,6 +117,6 @@ Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument)
 End Sub
 ```
 
-Save the document to initialize the class, and then click anywhere in the active window to fire a  **MouseDown** event. In the Immediate window, the handler prints the value that represents the mouse button that was clicked to fire the event.
+Save the document to initialize the class, and then click anywhere in the active window to fire a **MouseDown** event. In the Immediate window, the handler prints the value that represents the mouse button that was clicked to fire the event.
 
 

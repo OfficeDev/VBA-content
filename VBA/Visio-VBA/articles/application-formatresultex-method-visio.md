@@ -34,7 +34,7 @@ Formats a string or number into a string according to a format picture, using sp
 | _UnitsOut_|Required| **Variant**|Measurement units to express the result in.|
 | _Format_|Required| **String**|Picture of what the result string should look like.|
 | _LangID_|Optional| **Long**|The language to use for the result string. |
-| _CalendarID_|Optional| **Long**|he calendar to use for the result string. The default value is the Western calendar,  **visCalWestern** .|
+| _CalendarID_|Optional| **Long**|he calendar to use for the result string. The default value is the Western calendar, **visCalWestern** .|
 
 ### Return Value
 
@@ -79,7 +79,7 @@ The  _UnitsOut_ argument specifies the units in which the returned string should
 
 \c : Output the character c.
 
-When  _UnitsIn_ is **visDate** , _Format_ should be one of the custom Microsoft Visio expanded-form date/time formats, which are of the form "{{ _date/time format picture_ }}". You can view these formats in the **Custom Format** box in the **Data Format** dialog box in Visio. (Select a shape, and then, on the **Insert** tab, click **Field**. In the  **Category** list, click **Date/Time**, and then click  **Data Format**.)
+When  _UnitsIn_ is **visDate** , _Format_ should be one of the custom Microsoft Visio expanded-form date/time formats, which are of the form "{{ _date/time format picture_ }}". You can view these formats in the **Custom Format** box in the **Data Format** dialog box in Visio. (Select a shape, and then, on the **Insert** tab, click **Field**. In the **Category** list, click **Date/Time**, and then click **Data Format**.)
 
 The  _LangID_ argument is optional. If you don't specify a value, Visio uses the current system language. If you pass a value, the _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, 1033 is the language ID for English (United States). To see a list of possible language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
 
@@ -102,7 +102,7 @@ The  _CalendarID_ argument should be one of the following values, which are decl
 
 ## Example
 
-The following example shows how to use the  **FormatResultEx** property to format a date in Greek and display it as shape text.
+The following example shows how to use the **FormatResultEx** property to format a date in Greek and display it as shape text.
 
 
 ```vb

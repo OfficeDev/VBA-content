@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.ActualStart Property (Project)
 
-Gets or sets the actual start date of the task. Read-only for summary tasks. Read/write  **Variant**.
+Gets or sets the actual start date of the task. Read-only for summary tasks. Read/write **Variant**.
 
 
 ## Syntax

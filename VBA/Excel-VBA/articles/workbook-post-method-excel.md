@@ -29,7 +29,7 @@ Posts the specified workbook to a public folder. This method works only with a M
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestName_|Optional| **Variant**|This argument is ignored. The  **Post** method prompts the user to specify the destination for the workbook.|
+| _DestName_|Optional| **Variant**|This argument is ignored. The **Post** method prompts the user to specify the destination for the workbook.|
 
 ## Example
 

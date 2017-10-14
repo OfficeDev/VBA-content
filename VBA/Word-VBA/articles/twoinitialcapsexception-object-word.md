@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # TwoInitialCapsException Object (Word)
 
-Represents a single initial-capital AutoCorrect exception. The  **TwoInitialCapsException** object is a member of the **[TwoInitialCapsExceptions](twoinitialcapsexceptions-object-word.md)** collection. The **TwoInitialCapsExceptions** collection includes all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
+Represents a single initial-capital AutoCorrect exception. The **TwoInitialCapsException** object is a member of the **[TwoInitialCapsExceptions](twoinitialcapsexceptions-object-word.md)** collection. The **TwoInitialCapsExceptions** collection includes all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## Remarks
 
-Use  **TwoInitialCapsExceptions** (Index), where Index is the initial capital exception name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital exception named "KMenu."
+Use **TwoInitialCapsExceptions** (Index), where Index is the initial capital exception name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital exception named "KMenu."
 
 
 ```
 AutoCorrect.TwoInitialCapsExceptions("KMenu").Delete
 ```
 
-The index number represents the position of the initial-capital exception in the  **TwoInitialCapsExceptions** collection. The following example displays the name of the first item in the **TwoInitialCapsExceptions** collection.
+The index number represents the position of the initial-capital exception in the **TwoInitialCapsExceptions** collection. The following example displays the name of the first item in the **TwoInitialCapsExceptions** collection.
 
 
 
@@ -34,7 +34,7 @@ The index number represents the position of the initial-capital exception in the
 MsgBox AutoCorrect.TwoInitialCapsExceptions(1).Name
 ```
 
-If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "INdustry" to the list of initial-capital exceptions.
+If the **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "INdustry" to the list of initial-capital exceptions.
 
 
 

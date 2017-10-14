@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Group Property (Project)
 
-Gets or sets the group to which a resource belongs. Read/write  **String**.
+Gets or sets the group to which a resource belongs. Read/write **String**.
 
 
 ## Syntax

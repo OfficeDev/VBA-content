@@ -25,12 +25,12 @@ Executes the action for the specified item.
 
 ### Return Value
 
-An  **Object** value that represents the Outlook item created by the action upon execution.
+An **Object** value that represents the Outlook item created by the action upon execution.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Execute** method to look through all the actions for the given e-mail message and executes the action called "Reply."
+This Visual Basic for Applications (VBA) example uses the **Execute** method to look through all the actions for the given e-mail message and executes the action called "Reply."
 
 
 ```vb

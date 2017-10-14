@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LinearGradient.ColorStops Property (Excel)
 
-Returns the  **[ColorStops](colorstops-object-excel.md)** for the **LinearGradient** object. Read-only
+Returns the **[ColorStops](colorstops-object-excel.md)** for the **LinearGradient** object. Read-only
 
 
 ## Syntax

@@ -18,8 +18,8 @@ You can use VBScript to add an event that happens to an item displayed in a cust
     
      [How](using-the-script-editor.md)?
     
-2. On the  **Script** menu, click **Event Handler**.
+2. On the **Script** menu, click **Event Handler**.
     
-3. In the  **Insert Events Handler** box, click the event that you want to use, and then click **Add**.
+3. In the **Insert Events Handler** box, click the event that you want to use, and then click **Add**.
     
 

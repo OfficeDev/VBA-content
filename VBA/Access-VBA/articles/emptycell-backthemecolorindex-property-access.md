@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmptyCell.BackThemeColorIndex Property (Access)
 
-Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long**.
+Gets or sets a value that represents a color in the applied color theme associated with the **BackColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
 ## Remarks
 
-The  **BackThemeColorIndex** property contains one of the index values listed in the following table.
+The **BackThemeColorIndex** property contains one of the index values listed in the following table.
 
 
 
@@ -43,14 +43,14 @@ The  **BackThemeColorIndex** property contains one of the index values listed in
 |9|Accent 6|
 |10|Hyperlink|
 |11|Followed Hyperlink|
-If no theme is applied, the  **BackThemeColorIndex** property contains -1.
+If no theme is applied, the **BackThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
 ## Example
 
-The following code example sets the Background Color to the Text 2 color by setting the  **BackThemeColorIndex** property.
+The following code example sets the Background Color to the Text 2 color by setting the **BackThemeColorIndex** property.
 
 
 ```vb

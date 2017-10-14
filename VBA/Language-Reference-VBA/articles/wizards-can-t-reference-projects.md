@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 A Wizard can reference another Wizard, but cannot reference a project. This error has the following causes and solutions:
 
 
-- During a  **Make** **Wizard** command, a reference to a project was found. Remove the reference to the project.
+- During a **Make** **Wizard** command, a reference to a project was found. Remove the reference to the project.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

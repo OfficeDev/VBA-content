@@ -19,7 +19,7 @@ For files, returns the size, in bytes, of the specified file. For folders, retur
  _object_. **Size**
 The  _object_ is always a **File** or **Folder** object.
  **Remarks**
-The following code illustrates the use of the  **Size** property with a **Folder** object:
+The following code illustrates the use of the **Size** property with a **Folder** object:
 
 
 

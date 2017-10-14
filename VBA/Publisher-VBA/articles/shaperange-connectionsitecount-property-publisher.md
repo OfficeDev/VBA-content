@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.ConnectionSiteCount Property (Publisher)
 
-Returns a  **Long** indicating the count of connection sites on the current **Shape** object. Read-only.
+Returns a **Long** indicating the count of connection sites on the current **Shape** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **ConnectionSiteCount**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks

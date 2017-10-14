@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.ParaProps Property (Visio)
 
-Sets the paragraph property of a  **Characters** object to a new value. Read/write.
+Sets the paragraph property of a **Characters** object to a new value. Read/write.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Integer
 
 ## Remarks
 
-The possible values of the CellIndex argument correspond to named cells in the Paragraph section of the ShapeSheet. Constants for CellIndex are declared by the Visio type library in  **VisCellIndices** .
+The possible values of the CellIndex argument correspond to named cells in the Paragraph section of the ShapeSheet. Constants for CellIndex are declared by the Visio type library in **VisCellIndices** .
 
 
 
@@ -52,13 +52,13 @@ The possible values of the CellIndex argument correspond to named cells in the P
 | **visSpaceAfter**| 5|
 | **visHorzAlign**| 6|
 | **visBulletIndex**| 7|
-Depending on the extent of the text range and the format, setting the  **ParaProps** property may cause rows to be added or removed from the Paragraph section of the ShapeSheet.
+Depending on the extent of the text range and the format, setting the **ParaProps** property may cause rows to be added or removed from the Paragraph section of the ShapeSheet.
 
-To retrieve information about an existing format, use the  **ParaPropsRow** property.
+To retrieve information about an existing format, use the **ParaPropsRow** property.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVCharacters.set_ParaProps**
+- **Microsoft.Office.Interop.Visio.IVCharacters.set_ParaProps**
     
 

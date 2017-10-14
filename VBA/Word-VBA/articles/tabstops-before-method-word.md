@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStops.Before Method (Word)
 
-Returns the next  **TabStop** object to the left of Position.
+Returns the next **TabStop** object to the left of Position.
 
 
 ## Syntax

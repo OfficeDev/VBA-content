@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.TextRange Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the text in the specified text frame.
+Returns a **[Range](range-object-word.md)** object that represents the text in the specified text frame.
 
 
 ## Syntax

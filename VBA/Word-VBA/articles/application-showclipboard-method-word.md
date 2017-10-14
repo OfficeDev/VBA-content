@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowClipboard Method (Word)
 
-Displays the  **Clipboard** task pane.
+Displays the **Clipboard** task pane.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Displays the  **Clipboard** task pane.
 
 ## Example
 
-The following example shows the  **Clipboard** task pane.
+The following example shows the **Clipboard** task pane.
 
 
 ```vb

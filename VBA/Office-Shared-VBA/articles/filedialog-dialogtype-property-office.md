@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileDialog.DialogType Property (Office)
 
-Gets an  **MsoFileDialogType** constant representing the type of file dialog box that the **FileDialog** object is set to display. Read-only.
+Gets an **MsoFileDialogType** constant representing the type of file dialog box that the **FileDialog** object is set to display. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets an  **MsoFileDialogType** constant representing the type of file dialog box
 
 ## Example
 
-The following example takes a  **FileDialog** object of an unknown type and runs the **Execute** method if it is a **SaveAs** dialog box or an **Open** dialog box.
+The following example takes a **FileDialog** object of an unknown type and runs the **Execute** method if it is a **SaveAs** dialog box or an **Open** dialog box.
 
 
 ```

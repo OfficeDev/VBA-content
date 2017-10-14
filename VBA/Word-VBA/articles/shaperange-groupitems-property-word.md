@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.GroupItems Property (Word)
 
-Returns a  **[GroupShapes](groupshapes-object-word.md)** object that represents the individual shapes in the specified group. Read-only.
+Returns a **[GroupShapes](groupshapes-object-word.md)** object that represents the individual shapes in the specified group. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.MultiLine Property (Word)
 
-Returns a  **Boolean** that represents whether a text content control allows multiple lines of text. Read/write.
+Returns a **Boolean** that represents whether a text content control allows multiple lines of text. Read/write.
 
 
 ## Syntax

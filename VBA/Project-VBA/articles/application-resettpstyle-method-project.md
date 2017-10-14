@@ -29,7 +29,7 @@ Resets the specified Team Planner style to the default values.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required|**PjTeamPlannerStyle**|Can be one of the  **[PjTeamPlannerStyle](pjteamplannerstyle-enumeration-project.md)** constants.|
+| _Style_|Required|**PjTeamPlannerStyle**|Can be one of the **[PjTeamPlannerStyle](pjteamplannerstyle-enumeration-project.md)** constants.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ Resets the specified Team Planner style to the default values.
 
 ## Remarks
 
-The  **PjTeamPlannerStyle** constants are equivalent to the five styles shown in the **Format** tab of the **Team Planner Tools** in the ribbon, as follows:
+The **PjTeamPlannerStyle** constants are equivalent to the five styles shown in the **Format** tab of the **Team Planner Tools** in the ribbon, as follows:
 
 
 |||

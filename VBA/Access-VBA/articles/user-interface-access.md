@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 - [Access User Interface How Do I...](access-user-interface-how-do-i.md)
     
--  **Ribbon**
+- **Ribbon**
     
 - [Miscellaneous Topics in Access User Interface](miscellaneous-topics-in-access-user-interface.md)
     

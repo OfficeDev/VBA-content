@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveWindow Method (Outlook)
 
-Returns an object representing the current Microsoft Outlook window on the desktop, either an  **[Explorer](explorer-object-outlook.md)** or an **[Inspector](inspector-object-outlook.md)** object.
+Returns an object representing the current Microsoft Outlook window on the desktop, either an **[Explorer](explorer-object-outlook.md)** or an **[Inspector](inspector-object-outlook.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an object representing the current Microsoft Outlook window on the deskt
 
 ### Return Value
 
-An  **Object** that represents the current Outlook window on the desktop. Returns **Nothing** if no Outlook explorer or inspector is open.
+An **Object** that represents the current Outlook window on the desktop. Returns **Nothing** if no Outlook explorer or inspector is open.
 
 
 ## Example

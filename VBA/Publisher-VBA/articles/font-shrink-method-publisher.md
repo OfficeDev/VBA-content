@@ -20,12 +20,12 @@ Decreases the font size to the next available size. If the selection or range co
 
  _expression_. **Shrink**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Remarks
 
-Applying the  **Shrink** method to text that is already the smallest size allowed by Microsoft Publisher (0.5 point) has no effect.
+Applying the **Shrink** method to text that is already the smallest size allowed by Microsoft Publisher (0.5 point) has no effect.
 
 
 ## Example

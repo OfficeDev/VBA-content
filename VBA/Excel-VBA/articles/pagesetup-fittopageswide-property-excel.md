@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.FitToPagesWide Property (Excel)
 
-Returns or sets the number of pages wide the worksheet will be scaled to when it's printed. Applies only to worksheets. Read/write  **Variant** .
+Returns or sets the number of pages wide the worksheet will be scaled to when it's printed. Applies only to worksheets. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the number of pages wide the worksheet will be scaled to when it
 
 ## Remarks
 
-If this property is  **False** , Microsoft Excel scales the worksheet according to the **[FitToPagesTall](pagesetup-fittopagestall-property-excel.md)** property.
+If this property is **False** , Microsoft Excel scales the worksheet according to the **[FitToPagesTall](pagesetup-fittopagestall-property-excel.md)** property.
 
-If the  **[Zoom](pagesetup-zoom-property-excel.md)** property is **True** , the **FitToPagesWide** property is ignored.
+If the **[Zoom](pagesetup-zoom-property-excel.md)** property is **True** , the **FitToPagesWide** property is ignored.
 
 
 ## Example

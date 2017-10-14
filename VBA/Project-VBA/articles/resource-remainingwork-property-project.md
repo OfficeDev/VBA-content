@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.RemainingWork Property (Project)
 
-Gets or sets the remaining work (in minutes) for the resource. Read-only  **Variant**.
+Gets or sets the remaining work (in minutes) for the resource. Read-only **Variant**.
 
 
 ## Syntax

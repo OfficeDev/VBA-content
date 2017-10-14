@@ -30,7 +30,7 @@ MsoAnimDirection
 
 ## Remarks
 
-The value of the  **Direction** property can be one of these **MsoAnimDirection** constants.
+The value of the **Direction** property can be one of these **MsoAnimDirection** constants.
 
 
 ||

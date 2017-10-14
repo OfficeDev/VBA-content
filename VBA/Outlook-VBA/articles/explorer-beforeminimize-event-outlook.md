@@ -38,7 +38,7 @@ This event can be cancelled after it has started.
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a message before the window is minimized. If the user clicks  **Yes**, the explorer is minimized. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
+The following Microsoft Visual Basic for Applications (VBA) example prompts the user with a message before the window is minimized. If the user clicks **Yes**, the explorer is minimized. The sample code must be placed in a class module such as  `ThisOutlookSession`, and the  `Initialize_Handler()` subroutine should be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

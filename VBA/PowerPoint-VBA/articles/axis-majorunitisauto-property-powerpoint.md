@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **[MajorUnit](axis-majorunit-property-powerpoint.md)** property sets this property to **False**.
+Setting the **[MajorUnit](axis-majorunit-property-powerpoint.md)** property sets this property to **False**.
 
 
 ## Example

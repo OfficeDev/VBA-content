@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bibliography.BibliographyStyle Property (Word)
 
-Returns or sets a  **String** that represents the name of the active style to use for a bibliography. Read/write.
+Returns or sets a **String** that represents the name of the active style to use for a bibliography. Read/write.
 
 
 ## Syntax

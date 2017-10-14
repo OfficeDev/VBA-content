@@ -39,10 +39,10 @@ Moves completed or incomplete parts of one or more selected tasks to the status 
 
 ## Remarks
 
-To set or change the status date, click  **Project Information** on the Project tab on the Ribbon. The Project Information dialog box includes the **Status date** field. If the status date value is "NA", no status date is set. In that case, the current date is the status date.
+To set or change the status date, click **Project Information** on the Project tab on the Ribbon. The Project Information dialog box includes the **Status date** field. If the status date value is "NA", no status date is set. In that case, the current date is the status date.
 
 If both the  _MoveCompleted_ and _MoveIncomplete_ arguments are **False**, **TaskMoveToStatusDate** takes no action but still returns **True**. If both arguments are **True**, **TaskMoveToStatusDate** moves only the incomplete parts to the status date.
 
-The  **TaskMoveToStatusDate** method corresponds to the **Incomplete Parts to Status Date** or **Completed Parts to Status Date** commands in the **Move Task** drop-down menu on the **TASK** ribbon. The **[TaskMove](application-taskmove-method-project.md)** method corresponds to other commands on the **Move Task** drop-down menu.
+The **TaskMoveToStatusDate** method corresponds to the **Incomplete Parts to Status Date** or **Completed Parts to Status Date** commands in the **Move Task** drop-down menu on the **TASK** ribbon. The **[TaskMove](application-taskmove-method-project.md)** method corresponds to other commands on the **Move Task** drop-down menu.
 
 

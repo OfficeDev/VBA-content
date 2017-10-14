@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # ColorScheme Object (Publisher)
 
-Represents a color scheme, which is a set of eight colors used for the different elements of a publication. Each color is represented by a  **[ColorFormat](colorformat-object-publisher.md)** object. The **ColorScheme** object is a member of the **[ColorSchemes](colorschemes-object-publisher.md)** collection. The **ColorSchemes** collection contains all the color schemes available to Microsoft Publisher.
+Represents a color scheme, which is a set of eight colors used for the different elements of a publication. Each color is represented by a **[ColorFormat](colorformat-object-publisher.md)** object. The **ColorScheme** object is a member of the **[ColorSchemes](colorschemes-object-publisher.md)** collection. The **ColorSchemes** collection contains all the color schemes available to Microsoft Publisher.
  
 
 
 ## Example
 
-Use the  **[ColorScheme](document-colorscheme-property-publisher.md)** property of a **[Document](document-object-publisher.md)** object to return the color scheme for the current publication. The following example sets the fill value of three shapes on the first page to the return value (in RGB format) of three of the eight **ColorScheme** colors.
+Use the **[ColorScheme](document-colorscheme-property-publisher.md)** property of a **[Document](document-object-publisher.md)** object to return the color scheme for the current publication. The following example sets the fill value of three shapes on the first page to the return value (in RGB format) of three of the eight **ColorScheme** colors.
  
 
  
@@ -46,7 +46,7 @@ Sub ReturnColorsAndApplyToShapes()
 End Sub
 ```
 
-Use the  **[Name](colorscheme-name-property-publisher.md)** property to return a color scheme name. The following example lists in a text box all the color schemes available to Publisher.
+Use the **[Name](colorscheme-name-property-publisher.md)** property to return a color scheme name. The following example lists in a text box all the color schemes available to Publisher.
  
 
  

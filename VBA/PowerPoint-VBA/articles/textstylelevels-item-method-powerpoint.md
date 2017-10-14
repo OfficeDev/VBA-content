@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextStyleLevels.Item Method (PowerPoint)
 
-Returns a single text style level from the specified  **TextStyleLevels** collection.
+Returns a single text style level from the specified **TextStyleLevels** collection.
 
 
 ## Syntax

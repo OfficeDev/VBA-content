@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ProductCode Property (Outlook)
 
-Returns a  **String** specifying the Microsoft Outlook globally unique identifier (GUID). Read-only.
+Returns a **String** specifying the Microsoft Outlook globally unique identifier (GUID). Read-only.
 
 
 ## Syntax

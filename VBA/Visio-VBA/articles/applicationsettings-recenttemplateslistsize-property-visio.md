@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ApplicationSettings.RecentTemplatesListSize Property (Visio)
 
-Determines the number of entries in the  **Recent Templates** list in the Microsoft Visio user interface. Read/write.
+Determines the number of entries in the **Recent Templates** list in the Microsoft Visio user interface. Read/write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Determines the number of entries in the  **Recent Templates** list in the Micros
 
 ## Remarks
 
-The value of the  **RecentTemplatesListSize** property corresponds to the setting of the **Show this number of Recent Templates** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box. To open the **Visio Options** dialog box, click the **File** tab, click **Options**, and then click  **Advanced**. The maximum number of recently used templates that can be displayed is 12.
+The value of the **RecentTemplatesListSize** property corresponds to the setting of the **Show this number of Recent Templates** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box. To open the **Visio Options** dialog box, click the **File** tab, click **Options**, and then click **Advanced**. The maximum number of recently used templates that can be displayed is 12.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) macro shows how to use the  **RecentTemplatesListSize** property to print the current size of the recently used template list in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **[Application](application-object-visio.md)** object.
+The following Visual Basic for Applications (VBA) macro shows how to use the **RecentTemplatesListSize** property to print the current size of the recently used template list in the Immediate window. It also shows how to get an **ApplicationSettings** object from the Visio **[Application](application-object-visio.md)** object.
 
 
 ```vb

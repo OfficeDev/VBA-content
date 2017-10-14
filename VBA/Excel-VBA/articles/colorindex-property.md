@@ -21,7 +21,7 @@ Returns or sets the color of the border, font or interior, as shown in the follo
 |:-----|:-----|
 | **Border**|The color of the border.|
 | **Font**|The color of the font.|
-| **Interior**|The color of the interior fill. Set  **ColorIndex** to **xlColorIndexNone** to specify that you don't want an interior fill. Set **ColorIndex** to **xlColorIndexAutomatic** to specify the automatic fill (for drawing objects).|
+| **Interior**|The color of the interior fill. Set **ColorIndex** to **xlColorIndexNone** to specify that you don't want an interior fill. Set **ColorIndex** to **xlColorIndexAutomatic** to specify the automatic fill (for drawing objects).|
 
  _expression_. **ColorIndex**
 

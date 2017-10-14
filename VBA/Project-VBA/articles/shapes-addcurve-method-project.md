@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddCurve Method (Project)
-Adds a B?zier curve to a report, and returns a  **Shape** object that represents the curve.
+Adds a B?zier curve to a report, and returns a **Shape** object that represents the curve.
 
 ## Syntax
 

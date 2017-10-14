@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Department Property (Outlook)
 
-Returns a  **String** representing the department for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
+Returns a **String** representing the department for the **[ExchangeUser](exchangeuser-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the department for the **[ExchangeUser](excha
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagDepartmentName** .
+This property corresponds to the MAPI property, **PidTagDepartmentName** .
 
  Returns an empty string if this property has not been implemented or does not exist for the **ExchangeUser** object.
 

@@ -15,7 +15,7 @@ You can't assign a value to a [property](vbe-glossary.md) unless it has exposed 
 
 
 
-- You tried to assign a value to a property that hasn't exposed a  **Property Let** method. You can't directly assign a value to this property. If you created the[class](vbe-glossary.md), you can modify the interface by exposing a  **Property Let** method. Otherwise, check the component's documentation to determine if there is an indirect method for assigning the value.
+- You tried to assign a value to a property that hasn't exposed a **Property Let** method. You can't directly assign a value to this property. If you created the[class](vbe-glossary.md), you can modify the interface by exposing a **Property Let** method. Otherwise, check the component's documentation to determine if there is an indirect method for assigning the value.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

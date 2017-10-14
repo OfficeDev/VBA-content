@@ -18,9 +18,9 @@ Sets the name of the font script to use in a text range.
 
 ## Syntax
 
- _expression_. **SetScriptName**( **_Script_**,  **_FontName_**)
+ _expression_. **SetScriptName**( **_Script_**, **_FontName_**)
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Sets the name of the font script to use in a text range.
 
 ## Remarks
 
-The Script parameter can be one of the  **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The Script parameter can be one of the **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

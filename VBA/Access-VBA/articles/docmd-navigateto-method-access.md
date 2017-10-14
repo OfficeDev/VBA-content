@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.NavigateTo Method (Access)
 
-You can use the  **NavigateTo** method to control the display of database objects in the Navigation Pane. .
+You can use the **NavigateTo** method to control the display of database objects in the Navigation Pane. .
 
 
 ## Syntax
@@ -52,7 +52,7 @@ The following table contains examples of valid  _Group_ arguments for each _Cate
 |Created Date|Today; Yesterday; Last Month; Older|
 |Custom Category|Names of groups you have created for the specified custom category|
 
- **Note**  To navigate to the top level of a category (for example,  **All Tables**,  **All Access Objects**, or  **All Dates**), you must leave the  _Group_ argument blank. For example, when the _Category_ argument is **Object Type**, entering **All Access Objects** as a _Group_ argument results in an error.
+ **Note**  To navigate to the top level of a category (for example, **All Tables**, **All Access Objects**, or **All Dates**), you must leave the  _Group_ argument blank. For example, when the _Category_ argument is **Object Type**, entering **All Access Objects** as a _Group_ argument results in an error.
 
 
 ## See also

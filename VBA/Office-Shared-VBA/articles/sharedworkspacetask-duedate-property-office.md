@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceTask.DueDate Property (Office)
 
-Gets or sets the optional due date and time of a  **SharedWorkspaceTask** object. Read/write.
+Gets or sets the optional due date and time of a **SharedWorkspaceTask** object. Read/write.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -28,7 +28,7 @@ Gets or sets the optional due date and time of a  **SharedWorkspaceTask** object
 
 ## Example
 
-The following example sets the DueDate of all tasks in a shared workspace to 12:00 noon on December 31, 2005 and uploads these changes to the server using the  **Save** method.
+The following example sets the DueDate of all tasks in a shared workspace to 12:00 noon on December 31, 2005 and uploads these changes to the server using the **Save** method.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormDescription.Icon Property (Outlook)
 
-Returns or sets a  **String** representing the file name of the icon to be displayed for the form. Read/write.
+Returns or sets a **String** representing the file name of the icon to be displayed for the form. Read/write.
 
 
 ## Syntax

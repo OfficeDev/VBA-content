@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.SlideRange Property (PowerPoint)
 
-Returns a  **[SlideRange](sliderange-object-powerpoint.md)** object that represents a range of selected slides. Read-only.
+Returns a **[SlideRange](sliderange-object-powerpoint.md)** object that represents a range of selected slides. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ SlideRange
 
 ## Remarks
 
-A slide range can be constructed in slide view, slide sorter view, normal view, notes page view, or outline view. In slide view,  **SlideRange** returns one slide — the current, displayed slide.
+A slide range can be constructed in slide view, slide sorter view, normal view, notes page view, or outline view. In slide view, **SlideRange** returns one slide — the current, displayed slide.
 
 
 ## Example

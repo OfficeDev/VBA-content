@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.Resolved Property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the recipient has been validated against the Address Book. Read-only.
+Returns a **Boolean** that indicates **True** if the recipient has been validated against the Address Book. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ If similar names exist for a recipient in an Address Book, you can resolve the r
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Resolve](recipient-resolve-method-outlook.md)** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **[Resolve](recipient-resolve-method-outlook.md)** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
 
 
 ```vb

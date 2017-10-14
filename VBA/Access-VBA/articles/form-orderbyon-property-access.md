@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.OrderByOn Property (Access)
 
-You can use the  **OrderByOn** property to specify whether an object's **OrderBy** property setting is applied. Read/write **Boolean**.
+You can use the **OrderByOn** property to specify whether an object's **OrderBy** property setting is applied. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,20 +25,20 @@ You can use the  **OrderByOn** property to specify whether an object's **OrderBy
 
 ## Remarks
 
-The  **OrderByOn** property uses the following settings.
+The **OrderByOn** property uses the following settings.
 
 
 
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
-|Yes|**True**|The  **OrderBy** property setting is applied when the object is opened.|
-|No|**False**|(Default) The  **OrderBy** property setting isn't applied when the object is opened.|
-When a new object is created, it inherits the  **RecordSource**, **Filter**, **OrderBy**, **OrderByOn**, and **FilterOn** properties of the table or query it was created from.
+|Yes|**True**|The **OrderBy** property setting is applied when the object is opened.|
+|No|**False**|(Default) The **OrderBy** property setting isn't applied when the object is opened.|
+When a new object is created, it inherits the **RecordSource**, **Filter**, **OrderBy**, **OrderByOn**, and **FilterOn** properties of the table or query it was created from.
 
 
 ## Example
 
-The following example displays a message indicating the state of the  **OrderByOn** property for the "Mailing List" form.
+The following example displays a message indicating the state of the **OrderByOn** property for the "Mailing List" form.
 
 
 ```vb

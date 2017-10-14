@@ -11,7 +11,7 @@ ms.prod: excel
 
 # Shapes.AddPicture2 Method (Excel)
 
-Creates a picture from an existing file. Returns a  **[Shape](shapes-object-excel.md)** object that represents the new picture.
+Creates a picture from an existing file. Returns a **[Shape](shapes-object-excel.md)** object that represents the new picture.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Creates a picture from an existing file. Returns a  **[Shape](shapes-object-exce
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file from which the OLE object is to be created.|
 | _LinkToFile_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the picture will be linked to the file from which it was created.|
-| _SaveWithDocument_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the linked picture will be saved with the document into which it is inserted. This argument must be  **msoTrue** if LinkToFile is **msoFalse** .|
+| _SaveWithDocument_|Required| **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)**|Determines whether the linked picture will be saved with the document into which it is inserted. This argument must be **msoTrue** if LinkToFile is **msoFalse** .|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the picture relative to the left edge of the worksheet.|
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the picture relative to the top edge of the worksheet.|
 | _Width_|Optional| **Single**|The width of the picture, measured in points.|

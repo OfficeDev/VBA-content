@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthor.Name Property (Word)
 
-Returns a  **String** that contains the display name of the specified co author. Read-only.
+Returns a **String** that contains the display name of the specified co author. Read-only.
 
 
 ## Syntax

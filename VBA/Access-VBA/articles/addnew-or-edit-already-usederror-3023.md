@@ -14,7 +14,7 @@ ms.date: 06/08/2017
  
 **Applies to:** Access 2013 | Access 2016
 
-You have not saved or rolled back the current changes and are trying to add or change another record. Use the  **Rollback** or **Update** method, and then use the **AddNew** or **Edit** method.
+You have not saved or rolled back the current changes and are trying to add or change another record. Use the **Rollback** or **Update** method, and then use the **AddNew** or **Edit** method.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Years.Item Property (Project)
 
-Gets a single  **Year** object from the **Years** collection. Read-only **Year**.
+Gets a single **Year** object from the **Years** collection. Read-only **Year**.
 
 
 ## Syntax

@@ -15,5 +15,5 @@ ms.date: 06/08/2017
 
 Represents the [properties](vbe-glossary.md) of an object.
  **Remarks**
-Use the  **Properties** collection to access the properties displayed in the[Properties window](vbe-glossary.md). For every property listed in the  **Properties** window, there is an object in the **Properties** collection.
+Use the **Properties** collection to access the properties displayed in the[Properties window](vbe-glossary.md). For every property listed in the **Properties** window, there is an object in the **Properties** collection.
 

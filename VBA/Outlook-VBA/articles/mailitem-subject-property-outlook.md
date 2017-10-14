@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Subject Property (Outlook)
 
-Returns or sets a  **String** indicating the subject for the Outlook item. Read/write.
+Returns or sets a **String** indicating the subject for the Outlook item. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSubject** . The **Subject** property is the default property for Outlook items.
+This property corresponds to the MAPI property **PidTagSubject** . The **Subject** property is the default property for Outlook items.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example creates a new e-mail message, uses the  **[Add](recipients-add-method-outlook.md)** method to add "Dan Wilson" as a **[To](mailitem-to-property-outlook.md)** recipient, sets the **Subject** property, and displays the message.
+This Microsoft Visual Basic for Applications (VBA) example creates a new e-mail message, uses the **[Add](recipients-add-method-outlook.md)** method to add "Dan Wilson" as a **[To](mailitem-to-property-outlook.md)** recipient, sets the **Subject** property, and displays the message.
 
 
 ```vb

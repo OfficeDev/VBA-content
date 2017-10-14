@@ -34,7 +34,7 @@ Scrolls through the specified pane or window page by page.
 
 ## Remarks
 
-The  **PageScroll** method is available only if you are in print layout view or Web layout view. This method does not affect the position of the insertion point.
+The **PageScroll** method is available only if you are in print layout view or Web layout view. This method does not affect the position of the insertion point.
 
 If Down and Up are both specified, the window is scrolled by the difference of the arguments. For example, if Down is 2 and Up is 4, the window is scrolled up two pages.
 

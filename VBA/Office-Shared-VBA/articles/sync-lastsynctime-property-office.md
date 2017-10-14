@@ -28,9 +28,9 @@ Gets the date and time when the local copy of the active document was last synch
 
 ## Remarks
 
-Use the  **LastSyncTime** property to determine how much time has elapsed since the local copy of the active document was last synchronized with the server copy. Check the **[Status](sync-status-property-office.md)** property to determine whether the local copy and the server copy are out of sync.
+Use the **LastSyncTime** property to determine how much time has elapsed since the local copy of the active document was last synchronized with the server copy. Check the **[Status](sync-status-property-office.md)** property to determine whether the local copy and the server copy are out of sync.
 
-If the active document is not configured for synchronization between the local copy and the server copy, the  **LastSyncTime** property raises a run-time error.
+If the active document is not configured for synchronization between the local copy and the server copy, the **LastSyncTime** property raises a run-time error.
 
 
 ## Example

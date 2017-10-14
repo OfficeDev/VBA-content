@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-When you evaluate a cell's formula, an error code is generated along with the result. The  **Error** property allows you to access this error code. Constants for valid error codes are declared by the Microsoft Visio type library and begin with **visError** .
+When you evaluate a cell's formula, an error code is generated along with the result. The **Error** property allows you to access this error code. Constants for valid error codes are declared by the Microsoft Visio type library and begin with **visError** .
 
 

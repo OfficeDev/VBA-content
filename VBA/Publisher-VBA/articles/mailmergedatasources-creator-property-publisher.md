@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSources.Creator Property (Publisher)
 
-Returns a 32-bit integer that indicates the application in which the  **MailMergeDataSources** object was created. Read-only.
+Returns a 32-bit integer that indicates the application in which the **MailMergeDataSources** object was created. Read-only.
 
 
 ## Syntax
 
  _expression_. **Creator**
 
- _expression_A variable that represents a  **MailMergeDataSources** object.
+ _expression_A variable that represents a **MailMergeDataSources** object.
 
 
 ### Return Value

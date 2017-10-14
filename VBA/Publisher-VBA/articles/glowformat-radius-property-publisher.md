@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # GlowFormat.Radius Property (Publisher)
 
-Returns or sets a  **Single** that represents the length of the radius for a glow effect. Read/write.
+Returns or sets a **Single** that represents the length of the radius for a glow effect. Read/write.
 
 
 ## Syntax
 
  _expression_. **Radius**
 
- _expression_A variable that represents a  **GlowFormat** object.
+ _expression_A variable that represents a **GlowFormat** object.
 
 
 ## Return value

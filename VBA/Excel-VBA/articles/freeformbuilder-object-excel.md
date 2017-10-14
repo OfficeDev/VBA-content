@@ -18,7 +18,7 @@ Represents the geometry of a freeform while it's being built.
 
 ## Remarks
 
-Use the  **[BuildFreeform](shapes-buildfreeform-method-excel.md)** method to return a **FreeformBuilder** object. Use the **[AddNodes](freeformbuilder-addnodes-method-excel.md)** method to add nodes to the freefrom. Use the **[ConvertToShape](freeformbuilder-converttoshape-method-excel.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **[Shapes](shapes-object-excel.md)** collection.
+Use the **[BuildFreeform](shapes-buildfreeform-method-excel.md)** method to return a **FreeformBuilder** object. Use the **[AddNodes](freeformbuilder-addnodes-method-excel.md)** method to add nodes to the freefrom. Use the **[ConvertToShape](freeformbuilder-converttoshape-method-excel.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **[Shapes](shapes-object-excel.md)** collection.
 
 
 ## Example

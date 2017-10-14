@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # WorkflowTemplates Object (Office)
 
-Represents a collection of  **WorkflowTemplate** objects.
+Represents a collection of **WorkflowTemplate** objects.
 
 
 ## Example
 
-The following example displays the name of each workflow template in the current document and then displays workflow specific configuration user interface for a specific template. It should be noted that calling the  **GetWorkflowTemplates** method involves a round-trip to the server.
+The following example displays the name of each workflow template in the current document and then displays workflow specific configuration user interface for a specific template. It should be noted that calling the **GetWorkflowTemplates** method involves a round-trip to the server.
 
 
 ```

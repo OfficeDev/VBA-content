@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.CommandText Property (Excel)
 
-Returns or sets the command string for the specified data source. Read/write  **Variant** .
+Returns or sets the command string for the specified data source. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,15 +25,15 @@ Returns or sets the command string for the specified data source. Read/write  **
 
 ## Remarks
 
-For OLE DB sources, the  **[CommandType](pivotcache-commandtype-property-excel.md)** property describes the value of the **CommandText** property.
+For OLE DB sources, the **[CommandType](pivotcache-commandtype-property-excel.md)** property describes the value of the **CommandText** property.
 
-For ODBC sources, setting the  **CommandText** causes the data to be refreshed.
+For ODBC sources, setting the **CommandText** causes the data to be refreshed.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-You can use the  **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **CommandText** property.
+You can use the **[QueryTable](listobject-querytable-property-excel.md)** property of the **ListObject** to access the **CommandText** property.
 
 The sheet that contains the query table must be active to access this property.
 

@@ -25,10 +25,10 @@ Removes paragraph formatting that has been applied manually (using the buttons o
 
 ## Remarks
 
-This method does not remove paragraph formatting that has been applied by using a paragraph style. To remove paragraph formatting that the user has applied by using paragraph styles, use the  **[ClearParagraphStyle](selection-clearparagraphstyle-method-word.md)** method. To remove all paragraph formatting, both style and manual formatting, use the **[ClearParagraphAllFormatting](selection-clearparagraphallformatting-method-word.md)** method.
+This method does not remove paragraph formatting that has been applied by using a paragraph style. To remove paragraph formatting that the user has applied by using paragraph styles, use the **[ClearParagraphStyle](selection-clearparagraphstyle-method-word.md)** method. To remove all paragraph formatting, both style and manual formatting, use the **[ClearParagraphAllFormatting](selection-clearparagraphallformatting-method-word.md)** method.
 
 
- **Note**  For more information about how to remove character formatting, see the  **[ClearCharacterAllFormatting](selection-clearcharacterallformatting-method-word.md)** , **[ClearCharacterDirectFormatting](selection-clearcharacterdirectformatting-method-word.md)** , or **[ClearCharacterStyle](selection-clearcharacterstyle-method-word.md)** method.
+ **Note**  For more information about how to remove character formatting, see the **[ClearCharacterAllFormatting](selection-clearcharacterallformatting-method-word.md)** , **[ClearCharacterDirectFormatting](selection-clearcharacterdirectformatting-method-word.md)** , or **[ClearCharacterStyle](selection-clearcharacterstyle-method-word.md)** method.
 
 
 ## See also

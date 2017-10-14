@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Toolbars Object (Visio)
 
-Includes a  **Toolbar** object for each toolbar in a window context.
+Includes a **Toolbar** object for each toolbar in a window context.
 
 
 ## Remarks
@@ -21,10 +21,10 @@ Includes a  **Toolbar** object for each toolbar in a window context.
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-To retrieve a  **Toolbars** collection, use the **Toolbars** property of a **ToolbarSet** object.
+To retrieve a **Toolbars** collection, use the **Toolbars** property of a **ToolbarSet** object.
 
-The default property of a  **Toolbars** collection is **Item** .
+The default property of a **Toolbars** collection is **Item** .
 
-Unlike other Microsoft Visio collections, the  **Toolbars** collection is indexed starting with zero (0) rather than 1.
+Unlike other Microsoft Visio collections, the **Toolbars** collection is indexed starting with zero (0) rather than 1.
 
 

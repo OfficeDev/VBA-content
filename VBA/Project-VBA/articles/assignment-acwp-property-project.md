@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ACWP Property (Project)
 
-Gets the actual cost of work performed for the assignment. Read-only  **Variant**.
+Gets the actual cost of work performed for the assignment. Read-only **Variant**.
 
 
 ## Syntax

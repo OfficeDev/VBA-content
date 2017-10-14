@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddLabel Method (Excel)
 
-Creates a label. Returns a  **[Shape](shape-object-excel.md)** object that represents the new label.
+Creates a label. Returns a **[Shape](shape-object-excel.md)** object that represents the new label.
 
 
 ## Syntax

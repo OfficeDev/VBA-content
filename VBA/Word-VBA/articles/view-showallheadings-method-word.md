@@ -30,7 +30,7 @@ This method generates an error if the view isn't outline view or master document
 
 ## Example
 
-This example uses the  **ShowHeading** method to show all headings (without any body text) and then switches the display to show all text (headings and body text) in outline view.
+This example uses the **ShowHeading** method to show all headings (without any body text) and then switches the display to show all text (headings and body text) in outline view.
 
 
 ```vb

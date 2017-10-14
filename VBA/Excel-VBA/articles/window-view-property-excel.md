@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.View Property (Excel)
 
-Returns or sets the view showing in the window. Read/write  **[XlWindowView](xlwindowview-enumeration-excel.md)** .
+Returns or sets the view showing in the window. Read/write **[XlWindowView](xlwindowview-enumeration-excel.md)** .
 
 
 ## Syntax

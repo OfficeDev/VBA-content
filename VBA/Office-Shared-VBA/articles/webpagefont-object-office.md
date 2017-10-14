@@ -18,12 +18,12 @@ Represents the default font used when documents are saved as Web pages for a par
 
 ## Remarks
 
-Use the  **WebPageFont** object to describe the proportional font, proportional font size, fixed-width font, and fixed-width font size for any available character set .
+Use the **WebPageFont** object to describe the proportional font, proportional font size, fixed-width font, and fixed-width font size for any available character set .
 
 
 ## Example
 
-The following example sets the proportional font and proportional font size for the  **WebPageFont** object's "myFont".
+The following example sets the proportional font and proportional font size for the **WebPageFont** object's "myFont".
 
 
 ```

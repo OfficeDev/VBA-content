@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[DisplayHeadings](window-displayheadings-property-excel.md)** property controls the on-screen display of headings.
+The **[DisplayHeadings](window-displayheadings-property-excel.md)** property controls the on-screen display of headings.
 
 
 ## Example

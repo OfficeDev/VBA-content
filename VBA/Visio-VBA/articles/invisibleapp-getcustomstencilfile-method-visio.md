@@ -44,9 +44,9 @@ The  _StencilType_ parameter value must be one of the following **VisBuiltInSten
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visBuiltInStencilBackgrounds**|0|The hidden stencil that contains the shapes displayed in the  **Backgrounds** gallery ( **Design** tab).|
-| **visBuiltInStencilBorders**|1|The hidden stencil that contains the shapes displayed in the  **Borders and Titles** gallery ( **Design** tab).|
-| **visBuiltInStencilContainers**|2|The hidden stencil that contains the shapes displayed in the  **Container** gallery ( **Insert** tab).|
-| **visBuiltInStencilCallouts**|3|The hidden stencil that contains the shapes displayed in the  **Callout** gallery ( **Insert** tab).|
-| **visBuiltInStencilLegends**|4|The hidden stencil that contains the shapes displayed in the  **Insert Legend** gallery ( **Data** tab).|
+| **visBuiltInStencilBackgrounds**|0|The hidden stencil that contains the shapes displayed in the **Backgrounds** gallery ( **Design** tab).|
+| **visBuiltInStencilBorders**|1|The hidden stencil that contains the shapes displayed in the **Borders and Titles** gallery ( **Design** tab).|
+| **visBuiltInStencilContainers**|2|The hidden stencil that contains the shapes displayed in the **Container** gallery ( **Insert** tab).|
+| **visBuiltInStencilCallouts**|3|The hidden stencil that contains the shapes displayed in the **Callout** gallery ( **Insert** tab).|
+| **visBuiltInStencilLegends**|4|The hidden stencil that contains the shapes displayed in the **Insert Legend** gallery ( **Data** tab).|
 

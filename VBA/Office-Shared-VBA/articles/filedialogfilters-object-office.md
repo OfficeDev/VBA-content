@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # FileDialogFilters Object (Office)
 
-A collection of  **FileDialogFilter** objects that represent the types of files that can be selected in a file dialog box that is displayed using the **FileDialog** object.
+A collection of **FileDialogFilter** objects that represent the types of files that can be selected in a file dialog box that is displayed using the **FileDialog** object.
 
 
 ## Example
 
-Use the  **Filters** property of the **FileDialog** object to return a **FileDialogFilters** collection. The following code returns the **FileDialogFilters** collection for the **File Open** dialog box.
+Use the **Filters** property of the **FileDialog** object to return a **FileDialogFilters** collection. The following code returns the **FileDialogFilters** collection for the **File Open** dialog box.
 
 
 ```
 Application.FileDialog(msoFileDialogOpen).Filters
 ```
 
-Use the  **Add** method to add **FileDialogFilter** objects to the **FileDialogFilters** collection. The following example uses the **Clear** method to clear the collection and then adds filters to the collection. The **Clear** method completely empties the collection; however, if you do not add any filters to the collection after you clear it, the "All files (*.*)" filter is added automatically.
+Use the **Add** method to add **FileDialogFilter** objects to the **FileDialogFilters** collection. The following example uses the **Clear** method to clear the collection and then adds filters to the collection. The **Clear** method completely empties the collection; however, if you do not add any filters to the collection after you clear it, the "All files (*.*)" filter is added automatically.
 
 
 
@@ -82,7 +82,7 @@ Sub Main()
 End Sub
 ```
 
-When changing the  **FileDialogFilters** collection, remember that each application can only create an instance of a single **FileDialog** object. This means that the **FileDialogFilters** collection resets to its default filters whenever you call the **FileDialog** method with a new dialog box type. The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
+When changing the **FileDialogFilters** collection, remember that each application can only create an instance of a single **FileDialog** object. This means that the **FileDialogFilters** collection resets to its default filters whenever you call the **FileDialog** method with a new dialog box type. The following example iterates through the default filters of the **SaveAs** dialog box and displays the description of each filter that includes a Microsoft Excel file.
 
 
 
@@ -115,7 +115,7 @@ End Sub
 ```
 
 
- **Note**  A run-time error will occur if the  **Filters** property is used in conjunction with the **Clear**, **Add**, or **Delete** methods when applied to a Save As **FileDiaog** object. For example, `Application.FileDialog(msoFileDialogSaveAs).Filters.Clear` will result in a run-time error.
+ **Note**  A run-time error will occur if the **Filters** property is used in conjunction with the **Clear**, **Add**, or **Delete** methods when applied to a Save As **FileDiaog** object. For example, `Application.FileDialog(msoFileDialogSaveAs).Filters.Clear` will result in a run-time error.
 
 
 ## Methods

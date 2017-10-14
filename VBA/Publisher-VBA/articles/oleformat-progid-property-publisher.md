@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # OLEFormat.ProgId Property (Publisher)
 
-Returns a  **String** that represents the programmatic identifier (ProgID) for the specified OLE object. Read-only.
+Returns a **String** that represents the programmatic identifier (ProgID) for the specified OLE object. Read-only.
 
 
 ## Syntax
 
  _expression_. **ProgId**
 
- _expression_A variable that represents an  **OLEFormat** object.
+ _expression_A variable that represents an **OLEFormat** object.
 
 
 ### Return Value

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LineFormat.Style Property (Publisher)
 
-Returns or sets an  **MsoLineStyle** constant that represents the style of line to apply to a shape or border. Read/write.
+Returns or sets an **MsoLineStyle** constant that represents the style of line to apply to a shape or border. Read/write.
 
 
 ## Syntax
 
  _expression_. **Style**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoLineStyle
 
 ## Remarks
 
-The  **Style** property value can be one of the **MsoLineStyle** constants declared in the Microsoft Office type library and shown in the following table.
+The **Style** property value can be one of the **MsoLineStyle** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

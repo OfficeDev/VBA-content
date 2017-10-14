@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # The specified object can't be used as an owner form for Show() (Error 371)
 
-You must use an appropriate object with the  **Show** method.
+You must use an appropriate object with the **Show** method.
 
 

@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # SpellingSuggestions Object (Word)
 
-A collection of  **SpellingSuggestion** objects that represent all the suggestions for a specified word or for the first word in the specified range.
+A collection of **SpellingSuggestion** objects that represent all the suggestions for a specified word or for the first word in the specified range.
 
 
 ## Remarks
 
-Use the  **GetSpellingSuggestions** method to return the **SpellingSuggestions** collection. The **SpellingSuggestions** method, when applied to the **Application** object, must specify the word to be checked. When the **GetSpellingSuggestions** method is applied to a range, the first word in the range is checked. The following example checks to see whether there are any spelling suggestions for any of the words in the active document. If there are, the suggestions are displayed in message boxes.
+Use the **GetSpellingSuggestions** method to return the **SpellingSuggestions** collection. The **SpellingSuggestions** method, when applied to the **Application** object, must specify the word to be checked. When the **GetSpellingSuggestions** method is applied to a range, the first word in the range is checked. The following example checks to see whether there are any spelling suggestions for any of the words in the active document. If there are, the suggestions are displayed in message boxes.
 
 
 ```vb

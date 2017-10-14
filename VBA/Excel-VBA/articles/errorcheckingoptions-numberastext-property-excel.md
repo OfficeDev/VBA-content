@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.NumberAsText Property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells that contain numbers written as text. **False** disables error checking for numbers written as text. Read/write **Boolean** .
+When set to **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells that contain numbers written as text. **False** disables error checking for numbers written as text. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorre
 
 ## Example
 
-In the following example, the  **AutoCorrect Options** button appears for cell A1, which contains a number stored as text.
+In the following example, the **AutoCorrect Options** button appears for cell A1, which contains a number stored as text.
 
 
 ```vb

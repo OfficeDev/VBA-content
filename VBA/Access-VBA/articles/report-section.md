@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 A report section is part of a report such as a header, footer, or detail section.
 
-You can set report section properties that are attributes of a report which affect the appearance or behavior of a specific section. For example, you can set the  **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in report Design view.
+You can set report section properties that are attributes of a report which affect the appearance or behavior of a specific section. For example, you can set the **CanGrow** property to specify whether the section will increase vertically to print all the data the section contains. Section properties are set in report Design view.
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

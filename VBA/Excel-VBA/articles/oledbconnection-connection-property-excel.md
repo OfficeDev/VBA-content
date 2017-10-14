@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.Connection Property (Excel)
 
-Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write  **Variant** .
+Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a string that contains OLE DB settings that enable Microsoft Exc
 
 ## Remarks
 
-Setting the  **Connection** property does not immediately initiate the connection to the data source. You must use the **[Refresh](oledbconnection-refresh-method-excel.md)** method to make the connection and retrieve the data. When using an offline cube file, set the **[UseLocalConnection](oledbconnection-uselocalconnection-property-excel.md)** property to **True** and use the **[LocalConnection](oledbconnection-localconnection-property-excel.md)** property instead of the **Connection** property.
+Setting the **Connection** property does not immediately initiate the connection to the data source. You must use the **[Refresh](oledbconnection-refresh-method-excel.md)** method to make the connection and retrieve the data. When using an offline cube file, set the **[UseLocalConnection](oledbconnection-uselocalconnection-property-excel.md)** property to **True** and use the **[LocalConnection](oledbconnection-localconnection-property-excel.md)** property instead of the **Connection** property.
 
 
 ## Example

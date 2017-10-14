@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowDeletingRows Property (Excel)
 
-Returns  **True** if the deletion of rows is allowed on a protected worksheet. Read-only **Boolean** .
+Returns **True** if the deletion of rows is allowed on a protected worksheet. Read-only **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns  **True** if the deletion of rows is allowed on a protected worksheet. R
 
 ## Remarks
 
-The  **AllowDeletingRows** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
+The **AllowDeletingRows** property can be set by using the **[Protect](worksheet-protect-method-excel.md)** method arguments.
 
 The rows containing the cells to be deleted must be unlocked when the sheet is protected.
 

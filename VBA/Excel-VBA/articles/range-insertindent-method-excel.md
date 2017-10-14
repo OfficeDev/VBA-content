@@ -35,7 +35,7 @@ Adds an indent to the specified range.
 
 Using this method to set the indent level to a number less than 0 (zero) or greater than 15 causes an error.
 
-Use the  **IndentLevel** property to return the indent level for a range.
+Use the **IndentLevel** property to return the indent level for a range.
 
 
 ## Example

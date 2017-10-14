@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Footnotes.Separator Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the footnote separator.
+Returns a **[Range](range-object-word.md)** object that represents the footnote separator.
 
 
 ## Syntax

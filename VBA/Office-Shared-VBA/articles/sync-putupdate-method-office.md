@@ -28,13 +28,13 @@ Updates the server copy of the shared document with the local copy.
 
 ## Remarks
 
-The  **PutUpdate** method can encounter a conflict condition if the client is unaware of recent changes to the server copy of the shared document. Call the **GetUpdate** method before calling **PutUpdate** to refresh the status of the server copy and to detect a possible conflict.
+The **PutUpdate** method can encounter a conflict condition if the client is unaware of recent changes to the server copy of the shared document. Call the **GetUpdate** method before calling **PutUpdate** to refresh the status of the server copy and to detect a possible conflict.
 
-The  **PutUpdate** method raises a run-time error if the local document has unsaved changes.
+The **PutUpdate** method raises a run-time error if the local document has unsaved changes.
 
-Not all document synchronization problems raise trappable run-time errors. After performing an operation using the  **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
+Not all document synchronization problems raise trappable run-time errors. After performing an operation using the **Sync** object, it's a good idea to check the **Status** property; if the **Status** property is **msoSyncStatusError**, check the **ErrorType** property for additional information on the type of error that has occurred.
 
-In many circumstances, the best way to resolve an error condition is to call the  **GetUpdate** method. For example, if a call to **PutUpdate** results in an error condition, then a call to **GetUpdate** will reset the status to **msoSyncStatusLocalChanges**.
+In many circumstances, the best way to resolve an error condition is to call the **GetUpdate** method. For example, if a call to **PutUpdate** results in an error condition, then a call to **GetUpdate** will reset the status to **msoSyncStatusLocalChanges**.
 
 
 ## Example

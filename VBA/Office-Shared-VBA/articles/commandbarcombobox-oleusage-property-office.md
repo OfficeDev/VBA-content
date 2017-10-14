@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.OLEUsage Property (Office)
 
-Gets or sets the OLE client and OLE server roles in which a  **CommandBarComboBox** control will be used when two Microsoft Office applications are merged. Read/write.
+Gets or sets the OLE client and OLE server roles in which a **CommandBarComboBox** control will be used when two Microsoft Office applications are merged. Read/write.
 
 
 ## 

@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The  **PrintedCommentPages** property will only return a number greater than zero if the **Comments** setting on the **Sheet** tab of the **Page Setup** dialog box is set to **At end of sheet**. This property will return zero if the sheet is a  **Chart** sheet or a **MS Excel 5.0 Dialog** sheet.
+The **PrintedCommentPages** property will only return a number greater than zero if the **Comments** setting on the **Sheet** tab of the **Page Setup** dialog box is set to **At end of sheet**. This property will return zero if the sheet is a **Chart** sheet or a **MS Excel 5.0 Dialog** sheet.
 
 
 ## See also

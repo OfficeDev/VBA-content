@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToolbarSets.ItemAtID Property (Visio)
 
-Returns the  **ToolbarSet** object for an ID within a collection. Read-only.
+Returns the **ToolbarSet** object for an ID within a collection. Read-only.
 
 
 ## Syntax
@@ -41,16 +41,16 @@ ToolbarSet
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The ID corresponds to a window or context menu. Constants for IDs are prefixed with  **visUIObjectSet** and are declared by the Visio type library in **[VisUIObjSets](visuiobjsets-enumeration-visio.md)** .
+The ID corresponds to a window or context menu. Constants for IDs are prefixed with **visUIObjectSet** and are declared by the Visio type library in **[VisUIObjSets](visuiobjsets-enumeration-visio.md)** .
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ItemAtID** property to get a particular object in a collection. It also shows how to get a copy of the built-in Visio toolbars, add a toolbar button, set the button icon, and replace the built-in toolbar set with the custom set.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ItemAtID** property to get a particular object in a collection. It also shows how to get a copy of the built-in Visio toolbars, add a toolbar button, set the button icon, and replace the built-in toolbar set with the custom set.
 
 Before running this code, replace  _path_ \ _filename_ with the full path to and name of a valid icon (.ico) file on your computer.
 
-To restore the built-in Visio toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in Visio toolbars after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

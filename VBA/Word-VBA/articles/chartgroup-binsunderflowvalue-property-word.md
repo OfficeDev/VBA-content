@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.BinsUnderflowValue Property (Word)
 
-If an [BinsUnderflowEnabled](chartgroup-binsunderflowenabled-property-word.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write  **Double**.
+If an [BinsUnderflowEnabled](chartgroup-binsunderflowenabled-property-word.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.
 
 
 ## Syntax

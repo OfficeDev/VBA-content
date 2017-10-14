@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.TrackingPreset Property (Publisher)
 
-Returns or sets a  **PbTrackingPresetType** constant representing the preset tracking type for characters in the specified font in a text range. Read/write.
+Returns or sets a **PbTrackingPresetType** constant representing the preset tracking type for characters in the specified font in a text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **TrackingPreset**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbTrackingPresetType
 
 ## Remarks
 
-The  **TrackingPreset** property value can be one of these **PbTrackingPresetType** constants.
+The **TrackingPreset** property value can be one of these **PbTrackingPresetType** constants.
 
 
 

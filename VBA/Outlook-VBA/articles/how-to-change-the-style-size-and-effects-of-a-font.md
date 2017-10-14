@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # How to: Change the Style, Size, and Effects of a Font
 
-The following example demonstrates a  **[Font](font-object-outlook-forms-script.md)** object and the **[Bold](font-bold-property-outlook-forms-script.md)**,  **[Italic](font-italic-property-outlook-forms-script.md)**,  **[Size](font-size-property-outlook-forms-script.md)**,  **[Strikethrough](font-strikethrough-property-outlook-forms-script.md)**,  **[Underline](font-underline-property-outlook-forms-script.md)**, and  **[Weight](font-weight-property-outlook-forms-script.md)** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
+The following example demonstrates a **[Font](font-object-outlook-forms-script.md)** object and the **[Bold](font-bold-property-outlook-forms-script.md)**, **[Italic](font-italic-property-outlook-forms-script.md)**, **[Size](font-size-property-outlook-forms-script.md)**, **[Strikethrough](font-strikethrough-property-outlook-forms-script.md)**, **[Underline](font-underline-property-outlook-forms-script.md)**, and **[Weight](font-weight-property-outlook-forms-script.md)** properties related to fonts. You can manipulate font properties of an object directly or by using an alias, as this example also shows.
 
-To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the  **Open** event will activate. Make sure that the form contains:
+To use this example, copy this sample code to the Script Editor of a form. To run the code you need to open the form so the **Open** event will activate. Make sure that the form contains:
 
-- A  **[Label](label-object-outlook-forms-script.md)** named Label1.
+- A **[Label](label-object-outlook-forms-script.md)** named Label1.
     
-- Four  **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 through ToggleButton4.
+- Four **[ToggleButton](togglebutton-object-outlook-forms-script.md)** controls named ToggleButton1 through ToggleButton4.
     
-- A second  **Label** and a **[TextBox](textbox-object-outlook-forms-script.md)** named Label2 and TextBox1.
+- A second **Label** and a **[TextBox](textbox-object-outlook-forms-script.md)** named Label2 and TextBox1.
     
 
 

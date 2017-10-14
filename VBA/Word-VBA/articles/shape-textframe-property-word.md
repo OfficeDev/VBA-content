@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.TextFrame Property (Word)
 
-Returns a  **TextFrame** object that contains the text for the specified shape.
+Returns a **TextFrame** object that contains the text for the specified shape.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.SectionDirection Property (Word)
 
-Returns or sets the reading order and alignment for the specified sections. Read/write  **WdSectionDirection** .
+Returns or sets the reading order and alignment for the specified sections. Read/write **WdSectionDirection** .
 
 
 ## Syntax

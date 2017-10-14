@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # References.AddFromGuid Method (Access)
 
-The  **AddFromGUID** method creates a **[Reference](reference-object-access.md)** object based on the GUID that identifies a type library. **Reference** object.
+The **AddFromGUID** method creates a **[Reference](reference-object-access.md)** object based on the GUID that identifies a type library. **Reference** object.
 
 
 ## Syntax
@@ -40,12 +40,12 @@ Reference
 
 ## Remarks
 
-The  **[GUID](reference-guid-property-access.md)** property returns the GUID for a specified **Reference** object. If you've stored the value of the **GUID** property, you can use it to re-create a reference that's been broken.
+The **[GUID](reference-guid-property-access.md)** property returns the GUID for a specified **Reference** object. If you've stored the value of the **GUID** property, you can use it to re-create a reference that's been broken.
 
 
 ## Example
 
-The following example re-creates a reference to the  **Microsoft Scripting Runtime** version 1.0, based on its GUID on the user's system.
+The following example re-creates a reference to the **Microsoft Scripting Runtime** version 1.0, based on its GUID on the user's system.
 
 
 ```vb

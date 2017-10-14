@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.FramesetBorderWidth Property (Word)
 
-Returns or sets the width (in points) of the borders surrounding the frames on the specified frames page. Read/write  **Single** .
+Returns or sets the width (in points) of the borders surrounding the frames on the specified frames page. Read/write **Single** .
 
 
 ## Syntax

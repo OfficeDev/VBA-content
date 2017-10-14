@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Inspectors Object (Outlook)
 
-Contains a set of  **[Inspector](inspector-object-outlook.md)** objects representing all inspectors.
+Contains a set of **[Inspector](inspector-object-outlook.md)** objects representing all inspectors.
 
 
 ## Remarks
 
  An inspector need not be visible to be included in the collection.
 
-Use the  **[Inspectors](application-inspectors-property-outlook.md)** property to return the **Inspectors** object from the **[Application](application-object-outlook.md)** object.
+Use the **[Inspectors](application-inspectors-property-outlook.md)** property to return the **Inspectors** object from the **[Application](application-object-outlook.md)** object.
 
 
 ## Example
 
-The following example shows how to retrieve the  **Inspectors** object in Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA).
+The following example shows how to retrieve the **Inspectors** object in Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA).
 
 
 ```

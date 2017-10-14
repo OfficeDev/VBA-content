@@ -20,13 +20,13 @@ Occurs when the scroll box is repositioned.
 For ScrollBar **Private Sub**_object_ _**Scroll( )**
 For MultiPage **Private Sub**_object_ _**Scroll(**_index_**As Long**, _ActionX_**As fmScrollAction**, _ActionY_**As fmScrollAction**, **ByVal**_RequestDx_**As Single**, **ByVal**_RequestDy_**As Single**, **ByVal**_ActualDx_**As MSForms.ReturnSingle**, **ByVal**_ActualDy_**As MSForms.ReturnSingle)**
 For Frame **Private Sub**_object_ _**Scroll(**_ActionX_**As fmScrollAction**, _ActionY_**As fmScrollAction**, **ByVal**_RequestDx_**As Single**, **ByVal**_RequestDy_**As Single**, **ByVal**_ActualDx_**As MSForms.ReturnSingle**, **ByVal**_ActualDy_**As MSForms.ReturnSingle)**
-The  **Scroll** event syntax has these parts:
+The **Scroll** event syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
+| _index_|Required. The index of the page in a **MultiPage** associated with this event.|
 | _ActionX_|Required. The action that occurred in the horizontal direction.|
 | _ActionY_|Required. The action that occurred in the vertical direction.|
 | _RequestDx_|Required. The distance, in points, you want the scroll bar to move in the horizontal direction.|
@@ -46,12 +46,12 @@ The settings for  _ActionX_ and _ActionY_ are:
 | _fmScrollActionPageDown_|4|One page down on a vertical scroll bar; one page to the right on a horizontal scroll bar. Movement is equivalent to pressing PAGE DOWN on the keyboard to move the scroll bar.|
 | _fmScrollActionBegin_|5|The top of a vertical scroll bar; the left end of a horizontal scroll bar.|
 | _fmScrollActionEnd_|6|The bottom of a vertical scroll bar; the right end of a horizontal scroll bar.|
-| _fmScrollActionPropertyChange_|8|The value of either the  **ScrollTop** or the **ScrollLeft** property changed. The direction and amount of movement depend on which property was changed and on the new property value.|
+| _fmScrollActionPropertyChange_|8|The value of either the **ScrollTop** or the **ScrollLeft** property changed. The direction and amount of movement depend on which property was changed and on the new property value.|
 | _fmScrollActionControlRequest_|9|A control asked its container to scroll. The amount of movement depends on the specific control and container involved.|
 | _fmScrollActionFocusRequest_|10|The user moved to a different control. The amount of movement depends on the placement of the selected control, and generally has the effect of moving the selected control so it is completely visible to the user.|
  **Remarks**
-The Scroll events associated with a form,  **Frame**, or **Page** return the following arguments: _ActionX_, _ActionY_, _ActualX_, and _ActualY_. _ActionX_ and _ActionY_ identify the action that occurred. _ActualX_ and _ActualY_ identify the distance that the scroll box traveled.
+The Scroll events associated with a form, **Frame**, or **Page** return the following arguments: _ActionX_, _ActionY_, _ActualX_, and _ActualY_. _ActionX_ and _ActionY_ identify the action that occurred. _ActualX_ and _ActualY_ identify the distance that the scroll box traveled.
 The default action is to calculate the new position of the scroll box and then scroll to that position.
-You can initiate a Scroll event by issuing a  **Scroll** method for a form, **Frame**, or **Page**. Users can generate Scroll events by moving the scroll box.
-The Scroll event associated with the stand-alone  **ScrollBar** indicates that the user moved the scroll box in either direction. This event is not initiated when the value of the **ScrollBar** changes by code or by the user clicking on parts of the **ScrollBar** other than the scroll box.
+You can initiate a Scroll event by issuing a **Scroll** method for a form, **Frame**, or **Page**. Users can generate Scroll events by moving the scroll box.
+The Scroll event associated with the stand-alone **ScrollBar** indicates that the user moved the scroll box in either direction. This event is not initiated when the value of the **ScrollBar** changes by code or by the user clicking on parts of the **ScrollBar** other than the scroll box.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Addon.Run Method (Visio)
 
-Runs the add-on represented by an  **Addon** object.
+Runs the add-on represented by an **Addon** object.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-If the add-on is implemented by an EXE file, the arguments are passed in the command line string. If the add-on is implemented by a VSL file, the arguments are passed in a member of the argument structure that accompanies the run message sent to the  **VisioLibMain** procedure of the VSL.
+If the add-on is implemented by an EXE file, the arguments are passed in the command line string. If the add-on is implemented by a VSL file, the arguments are passed in a member of the argument structure that accompanies the run message sent to the **VisioLibMain** procedure of the VSL.
 
 
  **Security Note**  

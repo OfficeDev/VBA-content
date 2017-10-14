@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ContactCard.Application Property (Office)
 
-Returns an  **Application** object that represents the parent Office application for the **ContactCard** object. Read-only.
+Returns an **Application** object that represents the parent Office application for the **ContactCard** object. Read-only.
 
 
 ## Syntax

@@ -30,11 +30,11 @@ Sets the sort order for mail merge data.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _SortField1_|Required|**String**|The first field on which to sort the mail merge data.|
-| _SortAscending1_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField1;  **False** to perform a descending sort.|
+| _SortAscending1_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField1; **False** to perform a descending sort.|
 | _SortField2_|Optional|**String**|The second field on which to sort the mail merge data. Default is an empty string.|
-| _SortAscending2_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField2;  **False** to perform a descending sort.|
+| _SortAscending2_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField2; **False** to perform a descending sort.|
 | _SortField3_|Optional|**String**|The third field on which to sort the mail merge data. Default is an empty string.|
-| _SortAscending3_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField3;  **False** to perform a descending sort.|
+| _SortAscending3_|Optional|**Boolean**|True (default) to perform an ascending sort on SortField3; **False** to perform a descending sort.|
 
 ## Example
 

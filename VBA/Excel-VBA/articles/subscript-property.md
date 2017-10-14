@@ -13,6 +13,6 @@ ms.date: 06/08/2017
 
 # Subscript Property
 
- **True** if the specified font is formatted as subscript. The default value is **False**. Read/write  **Variant**.
+ **True** if the specified font is formatted as subscript. The default value is **False**. Read/write **Variant**.
 
 

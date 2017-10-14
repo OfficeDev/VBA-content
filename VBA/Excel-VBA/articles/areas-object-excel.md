@@ -18,19 +18,19 @@ A collection of the areas, or contiguous blocks of cells, within a selection.
 
 ## Remarks
 
-There's no singular Area object; individual members of the  **Areas** collection are **[Range](range-object-excel.md)** objects. The **Areas** collection contains one **Range** object for each discrete, contiguous range of cells within the selection. If the selection contains only one area, the **Areas** collection contains a single **Range** object that corresponds to that selection.
+There's no singular Area object; individual members of the **Areas** collection are **[Range](range-object-excel.md)** objects. The **Areas** collection contains one **Range** object for each discrete, contiguous range of cells within the selection. If the selection contains only one area, the **Areas** collection contains a single **Range** object that corresponds to that selection.
 
 
 ## Example
 
-Use the  **Areas** property to return the **Areas** collection. The following example clears the current selection if it contains more than one area.
+Use the **Areas** property to return the **Areas** collection. The following example clears the current selection if it contains more than one area.
 
 
 ```
 If Selection.Areas.Count <> 1 Then Selection.Clear
 ```
 
-Use  **Areas** ( _index_ ), where _index_ is the area index number, to return a single **Range** object from the collection. The index numbers correspond to the order in which the areas were selected. The following example clears the first area in the current selection if the selection contains more than one area.
+Use **Areas** ( _index_ ), where _index_ is the area index number, to return a single **Range** object from the collection. The index numbers correspond to the order in which the areas were selected. The following example clears the first area in the current selection if the selection contains more than one area.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.DiacriticColor Property (Word)
 
-Returns or sets the 24-bit color to be used for diacritics for the specified  **Font** object. Read/write.
+Returns or sets the 24-bit color to be used for diacritics for the specified **Font** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the 24-bit color to be used for diacritics for the specified  **
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function. The value of the **UseDiffDiacColor** property must be **True** to use this property.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function. The value of the **UseDiffDiacColor** property must be **True** to use this property.
 
 
 ## Example

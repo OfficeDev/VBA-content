@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.PlotOrder Property (PowerPoint)
 
-Returns or sets the plot order for the selected series within the chart group. Read/write  **Long**.
+Returns or sets the plot order for the selected series within the chart group. Read/write **Long**.
 
 
 ## Syntax

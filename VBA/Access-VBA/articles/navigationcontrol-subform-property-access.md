@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationControl.SubForm Property (Access)
 
-Gets or sets the name of the  **[SubForm](subform-object-access.md)** object used to display forms. Read/write **String**.
+Gets or sets the name of the **[SubForm](subform-object-access.md)** object used to display forms. Read/write **String**.
 
 
 ## Syntax

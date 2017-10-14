@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.AxisGroup Property (Word)
 
-Returns the type of axis group. Read/write  **[XlAxisGroup](xlaxisgroup-enumeration-word.md)** .
+Returns the type of axis group. Read/write **[XlAxisGroup](xlaxisgroup-enumeration-word.md)** .
 
 
 ## Syntax

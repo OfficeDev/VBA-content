@@ -33,7 +33,7 @@ Indents a paragraphs by a specified number of characters.
 
 ## Remarks
 
-This method is equivalent to clicking the  **Increase Indent** button on the **Formatting** toolbar.
+This method is equivalent to clicking the **Increase Indent** button on the **Formatting** toolbar.
 
 
 ## Example

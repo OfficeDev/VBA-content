@@ -14,7 +14,7 @@ You cannot use the name of a base class by itself. This error has the following 
     
 - You used the base-class name in an expression but the member you were trying to access was ambiguously specified. Use a disambiguator ( for example, an exclamation point) between the base-class name and the member you are interested in.
     
-- You used the base-class name in a  **Set** statement as though it contained a reference to the class. Use the base-class name to retrieve a reference for example, using GetObject.
+- You used the base-class name in a **Set** statement as though it contained a reference to the class. Use the base-class name to retrieve a reference for example, using GetObject.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

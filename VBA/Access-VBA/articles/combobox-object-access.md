@@ -31,9 +31,9 @@ This object corresponds to a combo box control. The combo box control combines t
 |
 In Form view, Microsoft Access doesn't display the list until you click the combo box's arrow.
 
-If you have Control Wizards on before you select the combo box tool, you can create a combo box with a wizard. To turn Control Wizards on or off, click the  **Control Wizards** tool in the toolbox.
+If you have Control Wizards on before you select the combo box tool, you can create a combo box with a wizard. To turn Control Wizards on or off, click the **Control Wizards** tool in the toolbox.
 
-The setting of the  **LimitToList** property determines whether you can enter values that aren't in the list.
+The setting of the **LimitToList** property determines whether you can enter values that aren't in the list.
 
 The list can be single- or multiple-column, and the columns can appear with or without headings.
 
@@ -59,7 +59,7 @@ The list can be single- or multiple-column, and the columns can appear with or w
 
 ## Example
 
-The following example shows how to use multiple  **ComboBox** controls to supply criteria for a query.
+The following example shows how to use multiple **ComboBox** controls to supply criteria for a query.
 
  **Sample code provided by:**
 ![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
@@ -106,7 +106,7 @@ End Sub
 
 
 
-The following example shows how to set the  **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
+The following example shows how to set the **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
 
  **Sample code provided by:**
 ![MVP Contributor](/images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
@@ -128,9 +128,9 @@ End Sub
 
 
 
-The following example show how to create a combo box that is bound to one column while displaying another. Setting the  **ColumnCount** property to 2 specifies that the **cboDept** combo box will display the first two columns of the data source specified by the **RowSource** property. Setting the **BoundColumn** property to 1 specifies that the value stored in the first column will be returned when you inspect the value of the combo box.
+The following example show how to create a combo box that is bound to one column while displaying another. Setting the **ColumnCount** property to 2 specifies that the **cboDept** combo box will display the first two columns of the data source specified by the **RowSource** property. Setting the **BoundColumn** property to 1 specifies that the value stored in the first column will be returned when you inspect the value of the combo box.
 
-The  **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
+The **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
 
  **Sample code provided by:**
 ![MVP Contributor](/images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)

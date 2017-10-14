@@ -27,7 +27,7 @@ Event occurs when a secondary view pane changes within a project window.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Window_|Required|**Window**|The name of the Project file.|
-| _prevView_|Required|**View**|The name of the previous topic pane view before the view change occurred. If the user was not in a project view before applying the current view, the prevView argument returns  **null**.|
+| _prevView_|Required|**View**|The name of the previous topic pane view before the view change occurred. If the user was not in a project view before applying the current view, the prevView argument returns **null**.|
 | _newView_|Required|**View**|The name of the new top pane view that the user applied. |
 | _success_|Required|**Boolean**|**True** if the view change action succeeded.|
 

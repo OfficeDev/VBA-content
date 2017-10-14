@@ -22,9 +22,9 @@ Returns or sets the minor units on the axis. Read/write Double.
 
 ## Remarks
 
-Setting this property sets the  **[MinorUnitIsAuto](minorunitisauto-property.md)** property to  **False**.
+Setting this property sets the **[MinorUnitIsAuto](minorunitisauto-property.md)** property to **False**.
 
-Use the  **[TickMarkSpacing](tickmarkspacing-property.md)** property to set tick-mark spacing on the category axis.
+Use the **[TickMarkSpacing](tickmarkspacing-property.md)** property to set tick-mark spacing on the category axis.
 
 
 ## Example

@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 
 |**Name**|**Description**|
 |:-----|:-----|
-|[Add](odsofilters-add-method-office.md)|Adds a new filter to the  **ODSOFilters** collection.|
-|[Delete](odsofilters-delete-method-office.md)|Deletes a filter object from the  **ODSOFilters** collection.|
-|[Item](odsofilters-item-method-office.md)|Represents a  **ODSOFilter** object in the **ODSOFilters** collection.|
+|[Add](odsofilters-add-method-office.md)|Adds a new filter to the **ODSOFilters** collection.|
+|[Delete](odsofilters-delete-method-office.md)|Deletes a filter object from the **ODSOFilters** collection.|
+|[Item](odsofilters-item-method-office.md)|Represents a **ODSOFilter** object in the **ODSOFilters** collection.|
 

@@ -20,7 +20,7 @@ The line control displays a horizontal, vertical, or diagonal line on a form or 
 
 ## Remarks
 
-You can use  **Border Width** to change the line width. You can use **Border Color** to change the color of the border or make it transparent. You can change the line style (dots, dashes, and so on) of the border by using the **[BorderStyle](http://msdn.microsoft.com/library/1DDF622C-B1C4-009B-06DF-0A6BC819B367%28Office.15%29.aspx)** property.
+You can use **Border Width** to change the line width. You can use **Border Color** to change the color of the border or make it transparent. You can change the line style (dots, dashes, and so on) of the border by using the **[BorderStyle](http://msdn.microsoft.com/library/1DDF622C-B1C4-009B-06DF-0A6BC819B367%28Office.15%29.aspx)** property.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

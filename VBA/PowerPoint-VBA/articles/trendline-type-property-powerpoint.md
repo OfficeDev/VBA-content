@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Trendline.Type Property (PowerPoint)
 
-Returns or sets the trendline type. Read/write  **[XlTrendlineType](xltrendlinetype-enumeration-powerpoint.md)**.
+Returns or sets the trendline type. Read/write **[XlTrendlineType](xltrendlinetype-enumeration-powerpoint.md)**.
 
 
 ## Syntax

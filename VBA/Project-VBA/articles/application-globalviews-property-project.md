@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.GlobalViews Property (Project)
 
-Gets or sets a  **[Views](view-object-project.md)** collection representing the views in the Global.mpt file. Read/write **Views**.
+Gets or sets a **[Views](view-object-project.md)** collection representing the views in the Global.mpt file. Read/write **Views**.
 
 
 ## Syntax

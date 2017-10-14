@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to multiply two numbers.
  **Syntax**
  _result_**=**_number1_ * _number2_
-The  ***** operator syntax has these parts:
+The ***** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -30,10 +30,10 @@ The [data type](vbe-glossary.md) of _result_ is usually the same as that of the 
 
 |**If**|**Then  _result_ is**|
 |:-----|:-----|
-|Multiplication involves a  **Single** and a **Long**,|converted to a  **Double**.|
-|The data type of  _result_ is a **Long**, **Single**, or **Date** variant that overflows its legal range,|converted to a  **Variant** containing a **Double**.|
-|The data type of  _result_ is a **Byte** variant that overflows its legal range,|converted to an  **Integer** variant.|
-|the data type of  _result_ is an **Integer** variant that overflows its legal range,|converted to a  **Long** variant.|
+|Multiplication involves a **Single** and a **Long**,|converted to a **Double**.|
+|The data type of  _result_ is a **Long**, **Single**, or **Date** variant that overflows its legal range,|converted to a **Variant** containing a **Double**.|
+|The data type of  _result_ is a **Byte** variant that overflows its legal range,|converted to an **Integer** variant.|
+|the data type of  _result_ is an **Integer** variant that overflows its legal range,|converted to a **Long** variant.|
 If one or both expressions are [Null](vbe-glossary.md) expressions, _result_ is **Null**. If an expression is[Empty](vbe-glossary.md), it is treated as 0.
 
  **Note**  The order of precision used by multiplication is not the same as the order of precision used by addition and subtraction.
@@ -41,7 +41,7 @@ If one or both expressions are [Null](vbe-glossary.md) expressions, _result_ is 
 
 ## Example
 
-This example uses the  ***** operator to multiply two numbers.
+This example uses the ***** operator to multiply two numbers.
 
 
 ```vb

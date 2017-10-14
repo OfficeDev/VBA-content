@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CalendarDrivers.Count Property (Project)
 
-Gets the number of items in the  **CalendarDrivers** collection. Read-only **Long**.
+Gets the number of items in the **CalendarDrivers** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -22,9 +22,9 @@ Gets the number of items in the  **CalendarDrivers** collection. Read-only **Lon
 
 ## Remarks
 
-If  **TotalDetectedCount** is greater than 5, **Count** is 0.
+If **TotalDetectedCount** is greater than 5, **Count** is 0.
 
-Use of the  **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
+Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
 
 
 ## See also

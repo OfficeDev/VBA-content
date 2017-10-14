@@ -29,11 +29,11 @@ Copies the current folder in its entirety to the destination folder.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DestinationFolder_|Required| **[Folder](folder-object-outlook.md)**|Required  **Folder** object that represents the destination folder.|
+| _DestinationFolder_|Required| **[Folder](folder-object-outlook.md)**|Required **Folder** object that represents the destination folder.|
 
 ### Return Value
 
-A  **Folder** object that represents the new copy of the current folder.
+A **Folder** object that represents the new copy of the current folder.
 
 
 ## Remarks
@@ -43,7 +43,7 @@ Setting the REG_MULTI_SZ value,  `DisableCrossAccountCopy`, in  `HKCU\Software\M
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **CopyTo** method to copy the default Contacts folder to the default Inbox folder.
+This Visual Basic for Applications (VBA) example uses the **CopyTo** method to copy the default Contacts folder to the default Inbox folder.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GenerateTableRefs Property (Excel)
 
-The  **GenerateTableRefs** property determines whether the traditional notation method or the new structured referencing notation method is used for referencing tables in formulas. Read/write.
+The **GenerateTableRefs** property determines whether the traditional notation method or the new structured referencing notation method is used for referencing tables in formulas. Read/write.
 
 
 ## Syntax

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # OMaths Object (Word)
 
-A collection of equations. Use the  **OMath** object to access individual members of the collection.
+A collection of equations. Use the **OMath** object to access individual members of the collection.
 
 
 ## Remarks
 
-Use the  **Add** method to create an equation and add it to a document, selection, or range. The following example creates an equation and uses the **BuildUp** method of the **OMath** collection to convert the equation to professional format.
+Use the **Add** method to create an equation and add it to a document, selection, or range. The following example creates an equation and uses the **BuildUp** method of the **OMath** collection to convert the equation to professional format.
 
 
 ```vb

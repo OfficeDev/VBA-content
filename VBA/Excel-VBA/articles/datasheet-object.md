@@ -18,7 +18,7 @@ Represents the Microsoft Graph datasheet.
 
 ## Using the DataSheet Object
 
-After you've established a reference to a chart, you can use the  **Application** property of the chart to retrieve the datasheet. The following example applies the **DataSheet** property to the **Application** object, and then it applies the **Range** property to the datasheet to set the value of cell A1 to 32.
+After you've established a reference to a chart, you can use the **Application** property of the chart to retrieve the datasheet. The following example applies the **DataSheet** property to the **Application** object, and then it applies the **Range** property to the datasheet to set the value of cell A1 to 32.
 
 
 ```

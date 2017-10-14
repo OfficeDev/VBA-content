@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.ParagraphFormat Property (PowerPoint)
 
-Returns a  **[ParagraphFormat](paragraphformat-object-powerpoint.md)** object that represents paragraph formatting for the specified text. Read-only.
+Returns a **[ParagraphFormat](paragraphformat-object-powerpoint.md)** object that represents paragraph formatting for the specified text. Read-only.
 
 
 ## Syntax

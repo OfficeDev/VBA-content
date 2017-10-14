@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # XmlMaps Object (Excel)
 
-Represents the collection of  **[XmlMap](xmlmap-object-excel.md)** objects that have been added to a workbook.
+Represents the collection of **[XmlMap](xmlmap-object-excel.md)** objects that have been added to a workbook.
 
 
 ## Example
 
-Use the  **[Add](xmlmaps-add-method-excel.md)** method to add an XML map to a workbook.
+Use the **[Add](xmlmaps-add-method-excel.md)** method to add an XML map to a workbook.
 
 
 ```vb

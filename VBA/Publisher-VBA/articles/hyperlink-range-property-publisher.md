@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Hyperlink.Range Property (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object representing the base text to which the specified hyperlink has been applied.
+Returns a **[TextRange](textrange-object-publisher.md)** object representing the base text to which the specified hyperlink has been applied.
 
 
 ## Syntax
 
  _expression_. **Range**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_A variable that represents a **Hyperlink** object.
 
 
 ## Remarks
 
-If the  **Type** property of the specified **Hyperlink** object is a value other than **msoHyperlinkRange**, the  **Range** property returns nothing.
+If the **Type** property of the specified **Hyperlink** object is a value other than **msoHyperlinkRange**, the **Range** property returns nothing.
 
 
 ## Example

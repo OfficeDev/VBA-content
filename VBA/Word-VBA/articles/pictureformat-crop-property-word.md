@@ -25,7 +25,7 @@ Returns or sets a [Crop](http://msdn.microsoft.com/library/21ac150e-0a8f-c77b-71
 
 ## Remarks
 
-Use the  **Crop** property to work with an image cropping.
+Use the **Crop** property to work with an image cropping.
 
 
 ## Example

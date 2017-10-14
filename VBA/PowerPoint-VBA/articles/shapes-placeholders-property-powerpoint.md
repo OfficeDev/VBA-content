@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.Placeholders Property (PowerPoint)
 
-Returns a  **[Placeholders](placeholders-object-powerpoint.md)** collection that represents the collection of all the placeholders on a slide. Read-only.
+Returns a **[Placeholders](placeholders-object-powerpoint.md)** collection that represents the collection of all the placeholders on a slide. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Placeholders
 
 ## Remarks
 
-Each placeholder in the  **Placeholders** collection can contain text, a chart, a table, an organizational chart, or another object.
+Each placeholder in the **Placeholders** collection can contain text, a chart, a table, an organizational chart, or another object.
 
 
 ## Example

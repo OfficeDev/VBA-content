@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Endnotes Property (Word)
 
-Returns an  **[Endnotes](endnotes-object-word.md)** collection that represents all the endnotes conatined within a selection. Read-only.
+Returns an **[Endnotes](endnotes-object-word.md)** collection that represents all the endnotes conatined within a selection. Read-only.
 
 
 ## Syntax

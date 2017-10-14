@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.SalutationType Property (Word)
 
-Returns or sets the type of salutation for a letter created by the Letter Wizard. Read/write  **WdSalutationType** .
+Returns or sets the type of salutation for a letter created by the Letter Wizard. Read/write **WdSalutationType** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the type of salutation for a letter created by the Letter Wizard
 
 ## Example
 
-This example creates a new  **LetterContent** object, sets several properties (including the salutation text), and then runs the Letter Wizard by using the **RunLetterWizard** method.
+This example creates a new **LetterContent** object, sets several properties (including the salutation text), and then runs the Letter Wizard by using the **RunLetterWizard** method.
 
 
 ```vb

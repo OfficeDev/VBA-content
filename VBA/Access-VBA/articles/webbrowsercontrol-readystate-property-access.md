@@ -25,7 +25,7 @@ Gets the status of the specified Web Browser control. Read-only [AcWebBrowserSta
 
 ## Remarks
 
-When the Web Browser control does not contain a document, the value of this property is  **acUninitialized**. Other values indicate the control state when it navigates to a new document.
+When the Web Browser control does not contain a document, the value of this property is **acUninitialized**. Other values indicate the control state when it navigates to a new document.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ContentControls Property (Word)
 
-Returns a  **[ContentControls](contentcontrols-object-word.md)** collection that represents the content controls contained within a range. Read-only.
+Returns a **[ContentControls](contentcontrols-object-word.md)** collection that represents the content controls contained within a range. Read-only.
 
 
 ## Syntax

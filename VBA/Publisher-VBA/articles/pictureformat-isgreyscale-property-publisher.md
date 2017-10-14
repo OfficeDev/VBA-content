@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.IsGreyScale Property (Publisher)
 
-Returns a  **MsoTriState** constant that indicates whether the picture is a greyscale image. Read-only.
+Returns a **MsoTriState** constant that indicates whether the picture is a greyscale image. Read-only.
 
 
 ## Syntax
 
  _expression_. **IsGreyScale**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -30,14 +30,14 @@ MsoTriState
 
 ## Remarks
 
-The  **IsGreyScale** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **IsGreyScale** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The picture is not a greyscale image.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The specified picture is a greyscale image.|
 
 ## Example

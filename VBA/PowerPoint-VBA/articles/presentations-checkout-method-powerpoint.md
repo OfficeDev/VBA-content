@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentations.CheckOut Method (PowerPoint)
 
-Copies a specified presentation from a server to a local computer for editing. Returns a  **String** that represents the local path and file name of the presentation checked out.
+Copies a specified presentation from a server to a local computer for editing. Returns a **String** that represents the local path and file name of the presentation checked out.
 
 
 ## Syntax

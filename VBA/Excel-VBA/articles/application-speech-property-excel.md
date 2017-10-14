@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Speech Property (Excel)
 
-Returns a  **[Speech](speech-object-excel.md)** object.
+Returns a **[Speech](speech-object-excel.md)** object.
 
 
 ## Syntax

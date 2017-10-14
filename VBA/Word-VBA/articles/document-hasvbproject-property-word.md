@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.HasVBProject Property (Word)
 
-Returns a  **Boolean** that represents whether a document has an attached Microsoft Visual Basic for Applications project. Read-only.
+Returns a **Boolean** that represents whether a document has an attached Microsoft Visual Basic for Applications project. Read-only.
 
 
 ## Syntax

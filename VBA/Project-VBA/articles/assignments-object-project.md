@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Assignments Object (Project)
 
-Contains a collection of  **[Assignment](assignment-object-project.md)** objects for a task or resource.
+Contains a collection of **[Assignment](assignment-object-project.md)** objects for a task or resource.
 
 
 ## Example
 
  **Using the Assignment Object**
 
-Use  **Assignments(** _Index_ **)**, where _Index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
+Use **Assignments(** _Index_ **)**, where _Index_ is the assignment index number, to return a single **Assignment** object. The following example displays the name of the first resource assigned to the specified task.
 
 
 
@@ -26,7 +26,7 @@ MsgBox ActiveProject.Tasks(1).Assignments(1).ResourceName
 
  **Using the Assignments Collection**
 
-Use the  **[Assignments](http://msdn.microsoft.com/library/a481e813-8f02-c58b-2910-6995aaaafa09%28Office.15%29.aspx)** property to return an **Assignments** collection. The following example displays all the resources assigned to the specified task.
+Use the **[Assignments](http://msdn.microsoft.com/library/a481e813-8f02-c58b-2910-6995aaaafa09%28Office.15%29.aspx)** property to return an **Assignments** collection. The following example displays all the resources assigned to the specified task.
 
 
 
@@ -43,7 +43,7 @@ For Each A In ActiveProject.Tasks(1).Assignments
 Next A
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/c135a80e-1fb9-32e3-864e-f701c1947ca4%28Office.15%29.aspx)** method to add an **Assignment** object to the **Assignments** collection. The following example adds a resource identified by the number 212 as a new assignment for the specified task.
+Use the **[Add](http://msdn.microsoft.com/library/c135a80e-1fb9-32e3-864e-f701c1947ca4%28Office.15%29.aspx)** method to add an **Assignment** object to the **Assignments** collection. The following example adds a resource identified by the number 212 as a new assignment for the specified task.
 
 
 

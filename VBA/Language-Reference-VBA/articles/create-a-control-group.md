@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 
 1. In the form, select each control you want to include in the group.
     
-2. From the  **Format** menu, choose **Group**.
+2. From the **Format** menu, choose **Group**.
     
 
 

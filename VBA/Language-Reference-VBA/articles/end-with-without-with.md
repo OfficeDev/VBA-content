@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-- You used an  **End With** statement without a corresponding **With** statement. Check other control structures within the **With...End With** structure and verify that they are correctly matched. For example, an **If** without a matching **End If** inside the **With...End With** structure can cause this error.
+- You used an **End With** statement without a corresponding **With** statement. Check other control structures within the **With...End With** structure and verify that they are correctly matched. For example, an **If** without a matching **End If** inside the **With...End With** structure can cause this error.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

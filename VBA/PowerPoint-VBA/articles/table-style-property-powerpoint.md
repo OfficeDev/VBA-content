@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Style Property (PowerPoint)
 
-Returns a  **[TableStyle](tablestyle-object-powerpoint.md)** object that contains information about the specified table's current table style. Read-only.
+Returns a **[TableStyle](tablestyle-object-powerpoint.md)** object that contains information about the specified table's current table style. Read-only.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to perform a logical disjunction on two [expressions](vbe-glossary.md).
  **Syntax**
  _result_**=**_expression1_ **Or** _expression2_
-The  **Or** operator syntax has these parts:
+The **Or** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -25,7 +25,7 @@ The  **Or** operator syntax has these parts:
 | _expression1_|Required; any expression.|
 | _expression2_|Required; any expression.|
  **Remarks**
-If either or both expressions evaluate to  **True**, _result_ is **True**. The following table illustrates how _result_ is determined:
+If either or both expressions evaluate to **True**, _result_ is **True**. The following table illustrates how _result_ is determined:
 
 
 |**If  _expression1_ is**|**And  _expression2_ is**|**Then  _result_ is**|
@@ -39,7 +39,7 @@ If either or both expressions evaluate to  **True**, _result_ is **True**. The f
 |**Null**|**True**|**True**|
 |**Null**|**False**|**Null**|
 |**Null**|**Null**|**Null**|
-The  **Or** operator also performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
+The **Or** operator also performs a [bitwise comparison](vbe-glossary.md) of identically positioned bits in two [numeric expressions](vbe-glossary.md) and sets the corresponding bit in _result_ according to the following table:
 
 
 |**If bit in  _expression1_ is**|**And bit in  _expression2_ is**|**Then  _result_ is**|
@@ -51,7 +51,7 @@ The  **Or** operator also performs a [bitwise comparison](vbe-glossary.md) of id
 
 ## Example
 
-This example uses the  **Or** operator to perform logical disjunction on two expressions.
+This example uses the **Or** operator to perform logical disjunction on two expressions.
 
 
 ```vb

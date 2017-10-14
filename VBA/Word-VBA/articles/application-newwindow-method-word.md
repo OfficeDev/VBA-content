@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.NewWindow Method (Word)
 
-Opens a new window with the same document as the specified window. Returns a  **Window** object.
+Opens a new window with the same document as the specified window. Returns a **Window** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Window
 
 ## Remarks
 
-A colon (:) and a number appear in the window caption when more than one window is open for a document. If the  **NewWindow** method is used with the **Application** object, a new window is opened for the active window. The following two instructions are functionally equivalent.
+A colon (:) and a number appear in the window caption when more than one window is open for a document. If the **NewWindow** method is used with the **Application** object, a new window is opened for the active window. The following two instructions are functionally equivalent.
 
 
 ```vb

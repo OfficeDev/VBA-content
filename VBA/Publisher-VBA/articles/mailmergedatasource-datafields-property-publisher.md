@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.DataFields Property (Publisher)
 
-Returns a  **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection that represents the fields in the specified data source.
+Returns a **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection that represents the fields in the specified data source.
 
 
 ## Syntax
 
  _expression_. **DataFields**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Return Value

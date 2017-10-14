@@ -27,7 +27,7 @@ Nothing
 
 ## Remarks
 
-You can close a contact card either in the user interface or programmatically by calling the  **Close** method.
+You can close a contact card either in the user interface or programmatically by calling the **Close** method.
 
 
 ## See also

@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 
 
-Specifies the selection behavior when entering a  **TextBox** or **ComboBox**.
+Specifies the selection behavior when entering a **TextBox** or **ComboBox**.
  **Syntax**
  _object_. **EnterFieldBehavior** [= _fmEnterFieldBehavior_ ]
-The  **EnterFieldBehavior** property syntax has these parts:
+The **EnterFieldBehavior** property syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -34,5 +34,5 @@ The settings for  _fmEnterFieldBehavior_ are:
 | _fmEnterFieldBehaviorSelectAll_|0|Selects the entire contents of the edit region when entering the control (default).|
 | _fmEnterFieldBehaviorRecallSelection_|1|Leaves the selection unchanged. Visually, this uses the selection that was in effect the last time the control was active.|
  **Remarks**
-The  **EnterFieldBehavior** property controls the way text is selected when the user tabs to the control, not when the control receives[focus](vbe-glossary.md) as a result of the **SetFocus** method. Following **SetFocus**, the contents of the control are not selected and the insertion point appears after the last character in the control's edit region.
+The **EnterFieldBehavior** property controls the way text is selected when the user tabs to the control, not when the control receives[focus](vbe-glossary.md) as a result of the **SetFocus** method. Following **SetFocus**, the contents of the control are not selected and the insertion point appears after the last character in the control's edit region.
 

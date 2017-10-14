@@ -38,6 +38,6 @@ nothing
 
 Project events do not occur when the project is embedded in another document or application.
 
-The  **ProjectBeforeTaskNew** event doesn't occur when data is merged or appended into a project, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
+The **ProjectBeforeTaskNew** event doesn't occur when data is merged or appended into a project, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
 
 

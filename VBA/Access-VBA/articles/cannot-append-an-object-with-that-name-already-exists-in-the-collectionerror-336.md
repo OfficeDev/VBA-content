@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-You tried to append an object to a collection that already contains an object of the same name. Use the  **Refresh** method on the collection and check to see whether the object you want to append already exists, or try changing the object's **Name** property setting.
+You tried to append an object to a collection that already contains an object of the same name. Use the **Refresh** method on the collection and check to see whether the object you want to append already exists, or try changing the object's **Name** property setting.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

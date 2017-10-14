@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.ConvertToText Method (Word)
 
-Converts a table to text and returns a  **Range** object that represents the delimited text.
+Converts a table to text and returns a **Range** object that represents the delimited text.
 
 
 ## Syntax
@@ -29,12 +29,12 @@ Converts a table to text and returns a  **Range** object that represents the del
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Separator_|Optional| **Variant**|The character that delimits the converted columns (paragraph marks delimit the converted rows). Can be any  **WdTableFieldSeparator** constants.|
+| _Separator_|Optional| **Variant**|The character that delimits the converted columns (paragraph marks delimit the converted rows). Can be any **WdTableFieldSeparator** constants.|
 | _NestedTables_|Optional| **Variant**| **True** if nested tables are converted to text. This argument is ignored if Separator is not **wdSeparateByParagraphs** . The default value is **True** .|
 
 ## Remarks
 
-When you apply the  **ConvertToText** method to a **Table** object, the object is deleted. To maintain a reference to the converted contents of the table, you must assign the **Range** object returned by the **ConvertToText** method to a new object variable. In the following example, the first table in the active document is converted to text and then formatted as a bulleted list.
+When you apply the **ConvertToText** method to a **Table** object, the object is deleted. To maintain a reference to the converted contents of the table, you must assign the **Range** object returned by the **ConvertToText** method to a new object variable. In the following example, the first table in the active document is converted to text and then formatted as a bulleted list.
 
 
 ```vb

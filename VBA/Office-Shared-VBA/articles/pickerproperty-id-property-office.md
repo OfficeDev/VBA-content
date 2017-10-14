@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PickerProperty.Id Property (Office)
 
-Retrieves the unique Id of the associated  **PickerProperty** object. Read-only
+Retrieves the unique Id of the associated **PickerProperty** object. Read-only
 
 
 ## Syntax

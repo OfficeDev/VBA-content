@@ -30,7 +30,7 @@ MsoWarpFormat
 
 ## Remarks
 
-The value of the  **WarpFormat** property can be one of the **[MsoWarpFormat](http://msdn.microsoft.com/library/481cead3-900f-66b6-8200-21342b0ce21c%28Office.15%29.aspx)** constants.
+The value of the **WarpFormat** property can be one of the **[MsoWarpFormat](http://msdn.microsoft.com/library/481cead3-900f-66b6-8200-21342b0ce21c%28Office.15%29.aspx)** constants.
 
 
 ## Example

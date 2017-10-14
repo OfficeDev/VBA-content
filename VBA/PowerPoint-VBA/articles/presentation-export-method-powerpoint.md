@@ -36,7 +36,7 @@ Exports each slide in the presentation, using the specified graphics filter, and
 
 ## Remarks
 
-Exporting a presentation doesn't set the  **[Saved](presentation-saved-property-powerpoint.md)** property of a presentation to **True**.
+Exporting a presentation doesn't set the **[Saved](presentation-saved-property-powerpoint.md)** property of a presentation to **True**.
 
 PowerPoint uses the specified graphics filter to save each individual slide in the presentation. The names of the slides exported and saved to disk are determined by PowerPoint. They're typically saved by using names such as Slide1.wmf, Slide2.wmf. The path of the saved files is specified in the Path argument.
 

@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # Viewer.DisplayPropertyDialog Method (Visio Viewer)
 
-Displays the  **Properties and Settings** dialog box at the specified screen coordinates, in pixels, in Microsoft Visio Viewer.
+Displays the **Properties and Settings** dialog box at the specified screen coordinates, in pixels, in Microsoft Visio Viewer.
 
 
 ## Syntax
 
- _expression_. **DisplayPropertyDialog**( **_ScreenX_**,  **_ScreenY_**)
+ _expression_. **DisplayPropertyDialog**( **_ScreenX_**, **_ScreenY_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -41,7 +41,7 @@ Use the optional screenXand screenY parameters to specify the coordinates of the
 
 ## Example
 
-The following code displays the  **Properties and Settings** dialog box at screen coordinates (300, 300).
+The following code displays the **Properties and Settings** dialog box at screen coordinates (300, 300).
 
 
 ```vb

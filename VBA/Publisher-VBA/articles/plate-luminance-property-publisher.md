@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Plate.Luminance Property (Publisher)
 
-Returns or sets a  **Long** indicating a calculated luminance value for the specified plate; used for spot-color trapping. Valid values are from 0 to 100. Read/write.
+Returns or sets a **Long** indicating a calculated luminance value for the specified plate; used for spot-color trapping. Valid values are from 0 to 100. Read/write.
 
 
 ## Syntax
 
  _expression_. **Luminance**
 
- _expression_A variable that represents a  **Plate** object.
+ _expression_A variable that represents a **Plate** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-This property is valid only for publications with a  ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** property value of **pbColorModeSpot** or for spot plates in a publication with a **ColorMode** property value of **pbColorModeSpotAndProcess**.
+This property is valid only for publications with a ** [ColorMode](http://msdn.microsoft.com/library/58befa97-9d9b-9294-18b2-ae10dc87f51c%28Office.15%29.aspx)** property value of **pbColorModeSpot** or for spot plates in a publication with a **ColorMode** property value of **pbColorModeSpotAndProcess**.
 
 
 ## Example

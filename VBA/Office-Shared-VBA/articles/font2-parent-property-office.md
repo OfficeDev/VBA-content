@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Font2.Parent Property (Office)
 
-Gets the parent of the  **Font2** object. Read-only.
+Gets the parent of the **Font2** object. Read-only.
 
 
 ## Syntax

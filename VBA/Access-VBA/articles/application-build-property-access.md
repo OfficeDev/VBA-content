@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Build Property (Access)
 
-Returns as a  **Long** representing the build number of the currently installed copy of Microsoft Access. Read-only.
+Returns as a **Long** representing the build number of the currently installed copy of Microsoft Access. Read-only.
 
 
 ## Syntax

@@ -30,11 +30,11 @@ Changes the rotation of the specified shape around the z-axis by the specified n
 
 ## Remarks
 
-Use the  **RotationZ** property to set the absolute rotation of the shape around the z-axis.
+Use the **RotationZ** property to set the absolute rotation of the shape around the z-axis.
 
-To change the rotation of a shape around the z-axis, use the  **IncrementRotation** method.
+To change the rotation of a shape around the z-axis, use the **IncrementRotation** method.
 
-You cannot adjust the rotation around the z-axis of the specified shape past the upper or lower limit for the  **RotationZ** property (90 degrees to ? 90 degrees). For example, if the **RotationZ** property is initially set to 80 and you specify 40 for the _Increment_ argument, the resulting rotation will be 90 (the upper limit for the **RotationZ** property) instead of 120.
+You cannot adjust the rotation around the z-axis of the specified shape past the upper or lower limit for the **RotationZ** property (90 degrees to ? 90 degrees). For example, if the **RotationZ** property is initially set to 80 and you specify 40 for the _Increment_ argument, the resulting rotation will be 90 (the upper limit for the **RotationZ** property) instead of 120.
 
 
 ## See also

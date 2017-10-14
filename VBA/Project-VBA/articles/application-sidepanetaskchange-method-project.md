@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SidepaneTaskChange Method (Project)
 
-Changes the side pane that is displayed in  **Project Guide**.
+Changes the side pane that is displayed in **Project Guide**.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Changes the side pane that is displayed in  **Project Guide**.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ID_|Required|**Integer**|The ID number of the side pane in the  **Project Guide**.|
-| _IsGoalArea_|Optional|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**.  **False** if trying to change to a different **Project Guide** task.|
+| _ID_|Required|**Integer**|The ID number of the side pane in the **Project Guide**.|
+| _IsGoalArea_|Optional|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**. **False** if trying to change to a different **Project Guide** task.|
 
 ### Return Value
 
@@ -39,6 +39,6 @@ Changes the side pane that is displayed in  **Project Guide**.
 
 ## Remarks
 
-The  **SidepaneTaskChange** method only has an effect when the **Project Guide** is shown.
+The **SidepaneTaskChange** method only has an effect when the **Project Guide** is shown.
 
 

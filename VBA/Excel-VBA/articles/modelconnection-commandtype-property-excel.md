@@ -23,7 +23,7 @@ Returns or sets one of the [XlCmdType Enumeration (Excel)](xlcmdtype-enumeration
 
 ## Remarks
 
-For a  **ModelConnection** object, this type will be set to either **xlCmdTable** or **xlCmdDAX** . The isolated connection **ThisWorkbookDataModel** to the Data Model will be of type **xlCmdCube** .
+For a **ModelConnection** object, this type will be set to either **xlCmdTable** or **xlCmdDAX** . The isolated connection **ThisWorkbookDataModel** to the Data Model will be of type **xlCmdCube** .
 
 
 ## Property value

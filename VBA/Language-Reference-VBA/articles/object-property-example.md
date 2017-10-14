@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Object Property Example
 
-Assume a new control has a  **Top** property that is different from the standard **Top** property in Microsoft Forms. You can use either property, based on the syntax:
+Assume a new control has a **Top** property that is different from the standard **Top** property in Microsoft Forms. You can use either property, based on the syntax:
 
 
 

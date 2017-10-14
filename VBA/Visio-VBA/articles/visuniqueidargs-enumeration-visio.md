@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisUniqueIDArgs Enumeration (Visio)
 
-Action codes to be passed to the  **Shape.UniqueID** property.
+Action codes to be passed to the **Shape.UniqueID** property.
 
 
 

@@ -18,5 +18,5 @@ Specifies the type of number.
 |:-----|:-----|:-----|
 | **wdNumberAllNumbers**|3|Default value for all other cases.|
 | **wdNumberListNum**|2|Default value for LISTNUM fields.|
-| **wdNumberParagraph**|1|Preset numbers you can add to paragraphs by selecting a template in the  **Bullets and Numbering** dialog box.|
+| **wdNumberParagraph**|1|Preset numbers you can add to paragraphs by selecting a template in the **Bullets and Numbering** dialog box.|
 

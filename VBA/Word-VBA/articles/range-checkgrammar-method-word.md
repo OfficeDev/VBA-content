@@ -25,7 +25,7 @@ Begins a spelling and grammar check for the specified range.
 
 ## Remarks
 
-If the range contains errors, this method displays the  **Spelling and Grammar** dialog box, with the **Check grammar** check box selected.
+If the range contains errors, this method displays the **Spelling and Grammar** dialog box, with the **Check grammar** check box selected.
 
 
 ## Example

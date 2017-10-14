@@ -38,11 +38,11 @@ VisProtection
 
 ## Remarks
 
-Beginning with Microsoft Office Visio 2003, the  **Protection** property ignores the _bstrPassword_ argument both when you get and when you set the value of the property.
+Beginning with Microsoft Office Visio 2003, the **Protection** property ignores the _bstrPassword_ argument both when you get and when you set the value of the property.
 
-This property is the equivalent of checking the  **Styles**,  **Shapes**,  **Preview**,  **Backgrounds**, and  **Master shapes** boxes in the **Protect Document** dialog box (in the **Drawing Explorer**, right-click the drawing name, and then click  **Protect Document**). 
+This property is the equivalent of checking the **Styles**, **Shapes**, **Preview**, **Backgrounds**, and **Master shapes** boxes in the **Protect Document** dialog box (in the **Drawing Explorer**, right-click the drawing name, and then click **Protect Document**). 
 
-The value of the  **Protection** property can be a combination of the following **VisProtection** constants.
+The value of the **Protection** property can be a combination of the following **VisProtection** constants.
 
 
 

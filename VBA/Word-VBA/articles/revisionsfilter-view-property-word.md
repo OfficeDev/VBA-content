@@ -23,7 +23,7 @@ Sets or returns a [WdRevisionsView](wdrevisionsview-enumeration-word.md) constan
 
 ## Remarks
 
-The  **RevisionsFilter.View** property replaces the **View.RevisionsView** property that was in previous version of Word.
+The **RevisionsFilter.View** property replaces the **View.RevisionsView** property that was in previous version of Word.
 
 
 ## Example

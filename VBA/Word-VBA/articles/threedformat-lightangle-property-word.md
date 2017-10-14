@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.LightAngle Property (Word)
 
-Returns or sets a  **Single** that represents angle of the lighting. Read/write.
+Returns or sets a **Single** that represents angle of the lighting. Read/write.
 
 
 ## Syntax

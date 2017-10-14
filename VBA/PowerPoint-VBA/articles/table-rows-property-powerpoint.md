@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Rows Property (PowerPoint)
 
-Returns a  **[Rows](rows-object-powerpoint.md)** collection that represents all the rows in a table. Read-only.
+Returns a **[Rows](rows-object-powerpoint.md)** collection that represents all the rows in a table. Read-only.
 
 
 ## Syntax

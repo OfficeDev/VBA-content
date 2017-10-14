@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.BibliographyStyle Property (Word)
 
-Returns or sets a  **String** that represents the name of the style to use for formatting bibliographies. Read/write.
+Returns or sets a **String** that represents the name of the style to use for formatting bibliographies. Read/write.
 
 
 ## Syntax

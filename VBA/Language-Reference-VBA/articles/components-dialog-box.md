@@ -35,10 +35,10 @@ List components you can add by their category.
 
  **Apply**
 
-Adds the selected controls to the Toolbox or designer to the  **Insert** menu without closing the dialog box.
+Adds the selected controls to the Toolbox or designer to the **Insert** menu without closing the dialog box.
 
  **OK**
 
-Adds the selected controls to the Toolbox or designer to the  **Insert** menu and closes the **Components** dialog box.
+Adds the selected controls to the Toolbox or designer to the **Insert** menu and closes the **Components** dialog box.
 
 

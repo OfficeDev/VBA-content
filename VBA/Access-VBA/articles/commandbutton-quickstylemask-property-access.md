@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CommandButton.QuickStyleMask Property (Access)
 
-Gets or sets modifications to the Quick Style that is applied to the specified object. Read/write  **Long**.
+Gets or sets modifications to the Quick Style that is applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Gets or sets modifications to the Quick Style that is applied to the specified o
 
 ## Remarks
 
-Set the  **QuickStyleMask** property to -1 to remove modifications to the selected Quick Style.
+Set the **QuickStyleMask** property to -1 to remove modifications to the selected Quick Style.
 
 
 ## Property value

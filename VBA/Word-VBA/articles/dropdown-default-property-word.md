@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DropDown.Default Property (Word)
 
-Returns or sets a  **Long** that represents the default drop-down item. Read/write.
+Returns or sets a **Long** that represents the default drop-down item. Read/write.
 
 
 ## Syntax

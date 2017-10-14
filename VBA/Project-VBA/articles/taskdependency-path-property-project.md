@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskDependency.Path Property (Project)
 
-Gets or sets the path of the project that contains an external task. Read/write  **String**.
+Gets or sets the path of the project that contains an external task. Read/write **String**.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtNode.TextFrame2 Property (Office)
 
-Returns the text associated with the  **SmartArtNode** object. Read-only
+Returns the text associated with the **SmartArtNode** object. Read-only
 
 
 ## Syntax

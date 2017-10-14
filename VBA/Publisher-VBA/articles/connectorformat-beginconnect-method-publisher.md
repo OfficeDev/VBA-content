@@ -18,9 +18,9 @@ Attaches the beginning of the specified connector to a specified shape.
 
 ## Syntax
 
- _expression_. **BeginConnect**( **_ConnectedShape_**,  **_ConnectionSite_**)
+ _expression_. **BeginConnect**( **_ConnectedShape_**, **_ConnectionSite_**)
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_A variable that represents a **ConnectorFormat** object.
 
 
 ### Parameters
@@ -29,8 +29,8 @@ Attaches the beginning of the specified connector to a specified shape.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|ConnectedShape|Required| **Shape**|The shape to which Microsoft Publisher attaches the beginning of the connector. The specified  **Shape** object must be in the same **Shapes** collection as the connector.|
-|ConnectionSite|Required| **Long**|A connection site on the shape specified by ConnectedShape. Must be an integer between 1 and the integer returned by the  **[ConnectionSiteCount](shape-connectionsitecount-property-publisher.md)** property of the specified shape. Connection sites are numbered starting from the top of the specified shape and moving counterclockwise around the shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](shape-rerouteconnections-method-publisher.md)** method after the connector is attached to shapes at both ends.|
+|ConnectedShape|Required| **Shape**|The shape to which Microsoft Publisher attaches the beginning of the connector. The specified **Shape** object must be in the same **Shapes** collection as the connector.|
+|ConnectionSite|Required| **Long**|A connection site on the shape specified by ConnectedShape. Must be an integer between 1 and the integer returned by the **[ConnectionSiteCount](shape-connectionsitecount-property-publisher.md)** property of the specified shape. Connection sites are numbered starting from the top of the specified shape and moving counterclockwise around the shape. If you want the connector to automatically find the shortest path between the two shapes it connects, specify any valid integer for this argument and then use the **[RerouteConnections](shape-rerouteconnections-method-publisher.md)** method after the connector is attached to shapes at both ends.|
 
 ## Remarks
 
@@ -38,12 +38,12 @@ If there's already a connection between the beginning of the connector and anoth
 
 When you attach a connector to an object, the size and position of the connector are automatically adjusted if necessary.
 
-Use the  **[EndConnect](connectorformat-endconnect-method-publisher.md)** method to attach the end of the connector to a shape.
+Use the **[EndConnect](connectorformat-endconnect-method-publisher.md)** method to attach the end of the connector to a shape.
 
 
 ## Example
 
-This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the  **RerouteConnections** method overrides the values you supply for the **_ConnectionSite_** arguments used with the **BeginConnect** and **EndConnect** methods.
+This example adds two rectangles to the first page in the active publication and connects them with a curved connector. Note that the **RerouteConnections** method overrides the values you supply for the **_ConnectionSite_** arguments used with the **BeginConnect** and **EndConnect** methods.
 
 
 ```vb

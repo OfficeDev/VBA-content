@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # AutoSize, MultiLine, WordWrap, ScrollBars Properties, TextBox Control Example
 
-The following example demonstrates the  **MultiLine**, **WordWrap**, and **ScrollBars** properties on a **TextBox**.
+The following example demonstrates the **MultiLine**, **WordWrap**, and **ScrollBars** properties on a **TextBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- Four  **ToggleButton** controls named ToggleButton1 through ToggleButton4.
+- Four **ToggleButton** controls named ToggleButton1 through ToggleButton4.
     
 
-To see the entire text placed in the  **TextBox**, set **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
-When  **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
+To see the entire text placed in the **TextBox**, set **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
+When **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER.
  **ScrollBars** appears when you manually change the content of the **TextBox**.
 
 

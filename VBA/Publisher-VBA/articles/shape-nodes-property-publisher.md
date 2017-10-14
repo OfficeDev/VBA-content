@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.Nodes Property (Publisher)
 
-Returns a  **[ShapeNodes](shapenodes-object-publisher.md)** collection that represents the geometric description of the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent freeform drawings.
+Returns a **[ShapeNodes](shapenodes-object-publisher.md)** collection that represents the geometric description of the specified shape. Applies to **Shape** or **ShapeRange** objects that represent freeform drawings.
 
 
 ## Syntax
 
  _expression_. **Nodes**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Example

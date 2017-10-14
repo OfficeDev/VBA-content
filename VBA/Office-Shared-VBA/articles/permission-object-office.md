@@ -13,20 +13,20 @@ ms.date: 06/08/2017
 
 # Permission Object (Office)
 
-The  **Permission** property of the **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **Permission** object.
+The **Permission** property of the **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **Permission** object.
 
 
 ## Remarks
 
-Use the  **Permission** object to restrict permissions to the active document and to return or set specific permissions settings.
+Use the **Permission** object to restrict permissions to the active document and to return or set specific permissions settings.
 
-The  **Permission** object gives access to a collection of **UserPermission** objects. Use the **UserPermission** object to associate specific sets of rights with individual users. While some permissions granted through the user interface (such as **msoPermissionPrint** ) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
+The **Permission** object gives access to a collection of **UserPermission** objects. Use the **UserPermission** object to associate specific sets of rights with individual users. While some permissions granted through the user interface (such as **msoPermissionPrint** ) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
 
-Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. Use the  **ApplyPolicy** method to apply a permission policy, and the **PermissionFromPolicy**, **PolicyName**, and **PolicyDescription** properties to return policy information.
+Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. Use the **ApplyPolicy** method to apply a permission policy, and the **PermissionFromPolicy**, **PolicyName**, and **PolicyDescription** properties to return policy information.
 
-The  **Permission** object model is available whether permissions are restricted on the active document or not . The **Permission** property of the **Document**, **Workbook**, and **Presentation** objects does not return **Nothing** when the active document does not have restricted permissions. Use the **Enabled** property to determine whether a document has restricted permissions.
+The **Permission** object model is available whether permissions are restricted on the active document or not . The **Permission** property of the **Document**, **Workbook**, and **Presentation** objects does not return **Nothing** when the active document does not have restricted permissions. Use the **Enabled** property to determine whether a document has restricted permissions.
 
-Use of the  **Permission** object raises an error when the Windows Rights Management client is not installed.
+Use of the **Permission** object raises an error when the Windows Rights Management client is not installed.
 
 
 ## Example

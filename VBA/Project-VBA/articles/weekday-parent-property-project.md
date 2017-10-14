@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WeekDay.Parent Property (Project)
 
-Gets the parent of the  **WeekDay** object. Read-only **Calendar**.
+Gets the parent of the **WeekDay** object. Read-only **Calendar**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the parent of the  **WeekDay** object. Read-only **Calendar**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

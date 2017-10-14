@@ -38,7 +38,7 @@ Variant
 
 ## Remarks
 
-This method allows you to query the  **EncryptionProvider** object for information such as what is the download URL for users without your custom COM add-in installed, what algorithm are you implementing, and what cipher mode you are using.
+This method allows you to query the **EncryptionProvider** object for information such as what is the download URL for users without your custom COM add-in installed, what algorithm are you implementing, and what cipher mode you are using.
 
 
 ## See also

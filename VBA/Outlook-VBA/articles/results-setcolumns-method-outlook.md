@@ -25,7 +25,7 @@ Caches certain properties for extremely fast access to those particular properti
 
 ## Remarks
 
-The  **SetColumns** method is useful for iterating through the **[Results](results-object-outlook.md)** object. If you don't use this method, Microsoft Outlook must open each item to access the property. With the **SetColumns** method, Outlook only checks the properties that you have cached. Properties which are not cached are returned empty.
+The **SetColumns** method is useful for iterating through the **[Results](results-object-outlook.md)** object. If you don't use this method, Microsoft Outlook must open each item to access the property. With the **SetColumns** method, Outlook only checks the properties that you have cached. Properties which are not cached are returned empty.
 
 
 ## See also

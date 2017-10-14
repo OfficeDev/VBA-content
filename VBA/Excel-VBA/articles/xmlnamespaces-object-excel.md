@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # XmlNamespaces Object (Excel)
 
-Represents the collection of  **[XmlNamespace](xmlnamespace-object-excel.md)** objects in a workbook.
+Represents the collection of **[XmlNamespace](xmlnamespace-object-excel.md)** objects in a workbook.
 
 
 ## Remarks
 
-Use the  **[Item](xmlnamespaces-item-property-excel.md)** method to access a particular **XmlNamespace** object.
+Use the **[Item](xmlnamespaces-item-property-excel.md)** method to access a particular **XmlNamespace** object.
 
-Use the  **[Value](xmlnamespaces-value-property-excel.md)** property to return a **String** that lists the namespaces that have been added to a workbook.
+Use the **[Value](xmlnamespaces-value-property-excel.md)** property to return a **String** that lists the namespaces that have been added to a workbook.
 
 
 ## See also

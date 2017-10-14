@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.DataBinding Property (Excel)
 
-Returns an  **[XmlDataBinding](xmldatabinding-object-excel.md)** object that represents the binding associated with the specified schema map. Read-only.
+Returns an **[XmlDataBinding](xmldatabinding-object-excel.md)** object that represents the binding associated with the specified schema map. Read-only.
 
 
 ## Syntax

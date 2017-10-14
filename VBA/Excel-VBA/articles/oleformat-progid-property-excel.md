@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.progID Property (Excel)
 
-Returns the programmatic identifiers for the object. Read-only  **String** .
+Returns the programmatic identifiers for the object. Read-only **String** .
 
 
 ## Syntax

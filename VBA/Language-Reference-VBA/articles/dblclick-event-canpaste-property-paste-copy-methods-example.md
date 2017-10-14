@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 
 # DblClick Event, CanPaste Property, Paste, Copy Methods Example
 
-The following example uses the  **CanPaste** property and the **Paste** method to paste a **ComboBox** from the Clipboard to a **Page** of a **MultiPage**. This sample also uses the **SetFocus** and **Copy** methods to copy a control from the form to the Clipboard.
+The following example uses the **CanPaste** property and the **Paste** method to paste a **ComboBox** from the Clipboard to a **Page** of a **MultiPage**. This sample also uses the **SetFocus** and **Copy** methods to copy a control from the form to the Clipboard.
 
-The user clicks CommandButton1 to copy the  **ComboBox** to the Clipboard. The user double-clicks (using the DblClick event) CommandButton1 to paste the **ComboBox** to the **MultiPage**.
+The user clicks CommandButton1 to copy the **ComboBox** to the Clipboard. The user double-clicks (using the DblClick event) CommandButton1 to paste the **ComboBox** to the **MultiPage**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- A  **MultiPage** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 
 

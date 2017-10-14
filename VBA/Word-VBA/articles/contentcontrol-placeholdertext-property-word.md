@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.PlaceholderText Property (Word)
 
-Returns a  **BuildingBlock** object that represents the placeholder text for a content control. Read-only.
+Returns a **BuildingBlock** object that represents the placeholder text for a content control. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **BuildingBlock** object that represents the placeholder text for a c
 
 ## Remarks
 
-Use the  **[SetPlaceholderText](contentcontrol-setplaceholdertext-method-word.md)** method to set the placeholder text for a content control.
+Use the **[SetPlaceholderText](contentcontrol-setplaceholdertext-method-word.md)** method to set the placeholder text for a content control.
 
 
 ## See also

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.ConnectorFormat Property (Publisher)
 
-Returns a  **[ConnectorFormat](connectorformat-object-publisher.md)** object that contains connector formatting properties. Applies to  **Shape** or **ShapeRange** objects that represent connectors. Read-only.
+Returns a **[ConnectorFormat](connectorformat-object-publisher.md)** object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors. Read-only.
 
 
 ## Syntax
 
  _expression_. **ConnectorFormat**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Example

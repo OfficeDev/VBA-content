@@ -18,7 +18,7 @@ Represents the slide show setup for a presentation.
 
 ## Example
 
-Use the [SlideShowSettings](http://msdn.microsoft.com/library/90a5a5cb-1f78-bbb2-8e4c-eb35aae13c90%28Office.15%29.aspx)property to return the  **SlideShowSettings** object. The first section in the following example sets all the slides in the active presentation to advance automatically after five seconds. The second section sets the slide show to start on slide two, end on slide four, advance slides by using the timings set in the first section, and run in a continuous loop until the user presses ESC. Finally, the example runs the slide show.
+Use the [SlideShowSettings](http://msdn.microsoft.com/library/90a5a5cb-1f78-bbb2-8e4c-eb35aae13c90%28Office.15%29.aspx)property to return the **SlideShowSettings** object. The first section in the following example sets all the slides in the active presentation to advance automatically after five seconds. The second section sets the slide show to start on slide two, end on slide four, advance slides by using the timings set in the first section, and run in a continuous loop until the user presses ESC. Finally, the example runs the slide show.
 
 
 ```

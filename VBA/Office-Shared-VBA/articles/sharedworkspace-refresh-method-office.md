@@ -28,7 +28,7 @@ Refreshes the local cache of the [SharedWorkspace](sharedworkspace-object-office
 
 ## Remarks
 
-Use the  **Refresh** method to ensure that you are working with the most up-to-date list of objects and their properties from the shared workspace.
+Use the **Refresh** method to ensure that you are working with the most up-to-date list of objects and their properties from the shared workspace.
 
 
 ## Example

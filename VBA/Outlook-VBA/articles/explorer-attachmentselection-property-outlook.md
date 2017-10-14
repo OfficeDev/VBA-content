@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.AttachmentSelection Property (Outlook)
 
-Returns an  **[AttachmentSelection](attachmentselection-object-outlook.md)** object consisting of one or more attachments that are selected in the current view of the explorer. Read-only.
+Returns an **[AttachmentSelection](attachmentselection-object-outlook.md)** object consisting of one or more attachments that are selected in the current view of the explorer. Read-only.
 
 
 ## Syntax

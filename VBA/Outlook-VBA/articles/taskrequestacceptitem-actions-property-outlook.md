@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestAcceptItem.Actions Property (Outlook)
 
-Returns an  **[Actions](actions-object-outlook.md)** collection that represents all the available actions for the item. Read-only.
+Returns an **[Actions](actions-object-outlook.md)** collection that represents all the available actions for the item. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewFields.Insert Method (Outlook)
 
-Creates a new  **[ViewField](viewfield-object-outlook.md)** object and inserts it at the specified index within the **[ViewFields](viewfields-object-outlook.md)** collection.
+Creates a new **[ViewField](viewfield-object-outlook.md)** object and inserts it at the specified index within the **[ViewFields](viewfields-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -30,11 +30,11 @@ Creates a new  **[ViewField](viewfield-object-outlook.md)** object and inserts i
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _PropertyName_|Required| **String**|The name of the property to which the new object is associated.|
-| _Index_|Required| **Variant**|Either a one-based index number at which to insert the new object, or a value used to match the  **[ViewXMLSchemaName](viewfield-viewxmlschemaname-property-outlook.md)** property value of an object in the collection where the new object is to be inserted.|
+| _Index_|Required| **Variant**|Either a one-based index number at which to insert the new object, or a value used to match the **[ViewXMLSchemaName](viewfield-viewxmlschemaname-property-outlook.md)** property value of an object in the collection where the new object is to be inserted.|
 
 ### Return Value
 
-A  **ViewField** object that represents the new view field.
+A **ViewField** object that represents the new view field.
 
 
 ## See also

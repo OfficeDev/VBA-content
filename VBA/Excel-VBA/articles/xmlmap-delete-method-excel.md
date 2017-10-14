@@ -25,7 +25,7 @@ Removes the specified XML map from the workbook.
 
 ## Remarks
 
-Deleting the XML map will convert all of the XML Lists to generic Lists and remove all of the single-cell mappings (with the data still remaining). In addition, the  **[XmlMap](xmlmap-object-excel.md)** object will be removed from the **[XmlMaps](xmlmaps-object-excel.md)** collection. The map and schema information will be removed from the workbook (it will no longer be persisted in the XLS file and XMLSS). Any references to the deleted object become invalid.
+Deleting the XML map will convert all of the XML Lists to generic Lists and remove all of the single-cell mappings (with the data still remaining). In addition, the **[XmlMap](xmlmap-object-excel.md)** object will be removed from the **[XmlMaps](xmlmaps-object-excel.md)** collection. The map and schema information will be removed from the workbook (it will no longer be persisted in the XLS file and XMLSS). Any references to the deleted object become invalid.
 
 
 ## See also

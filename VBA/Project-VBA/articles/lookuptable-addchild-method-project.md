@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTable.AddChild Method (Project)
 
-Adds a lookup table entry to a  **[LookupTable](lookuptable-object-project.md)** collection. Returns a reference to the **[LookupTableEntry](lookuptableentry-object-project.md)**.
+Adds a lookup table entry to a **[LookupTable](lookuptable-object-project.md)** collection. Returns a reference to the **[LookupTableEntry](lookuptableentry-object-project.md)**.
 
 
 ## Syntax

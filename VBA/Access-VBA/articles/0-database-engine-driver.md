@@ -19,7 +19,7 @@ When you install the Microsoft® Access database engine database driver, the Set
 
 ## Microsoft Jet Engine Initialization Settings
 
-The  **Access Connectivity Engine\Engines** folder includes initialization settings for the msjet40.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
+The **Access Connectivity Engine\Engines** folder includes initialization settings for the msjet40.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
 
 
 ```
@@ -42,7 +42,7 @@ The Microsoft Access database engine uses the following entries.
  **Note**  This setting does not apply to compacting Microsoft Access database engine databases databases. Microsoft Access database engine databases databases will default to keep the compression settings with which they were created.
 
 |
-The  **Access Connectivity Engine\Engines\ACE** folder includes initialization settings for the Ace.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
+The **Access Connectivity Engine\Engines\ACE** folder includes initialization settings for the Ace.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
 
 
 

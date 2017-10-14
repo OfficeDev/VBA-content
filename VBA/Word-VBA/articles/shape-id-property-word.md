@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ID Property (Word)
 
-Returns the identification type for the specified shape. Read-only  **Long** .
+Returns the identification type for the specified shape. Read-only **Long** .
 
 
 ## Syntax

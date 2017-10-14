@@ -18,7 +18,7 @@ Represents shadow formatting for a shape.
 
 ## Example
 
-Use the  **Shadow** property to return a **ShadowFormat** object. The following example adds a shadowed rectangle to `myDocument`. The semitransparent, blue shadow is offset 5 points to the right of the rectangle and 3 points above it.
+Use the **Shadow** property to return a **ShadowFormat** object. The following example adds a shadowed rectangle to `myDocument`. The semitransparent, blue shadow is offset 5 points to the right of the rectangle and 3 points above it.
 
 
 ```vb

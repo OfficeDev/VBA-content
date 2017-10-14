@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataField.FieldType Property (Publisher)
 
-Returns a  **pbMailMergeDataFieldType** constant that represents the type of data contained in the data field.
+Returns a **pbMailMergeDataFieldType** constant that represents the type of data contained in the data field.
 
 
 ## Syntax
 
  _expression_. **FieldType**
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_A variable that represents a **MailMergeDataField** object.
 
 
 ### Return Value
@@ -32,11 +32,11 @@ Returns a  **pbMailMergeDataFieldType** constant that represents the type of dat
 
 ## Remarks
 
-Use the  **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataField](mailmergedatafield-object-publisher.md)** object to add a picture data field to a publication's catalog merge area.
+Use the **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataField](mailmergedatafield-object-publisher.md)** object to add a picture data field to a publication's catalog merge area.
 
-Use the  **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
+Use the **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
 
-The  **FieldType** property value can be one of the **[PbMailMergeDataFieldType](pbmailmergedatafieldtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **FieldType** property value can be one of the **[PbMailMergeDataFieldType](pbmailmergedatafieldtype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

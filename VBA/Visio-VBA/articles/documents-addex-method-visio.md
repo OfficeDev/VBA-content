@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.AddEx Method (Visio)
 
-Adds a new stencil or drawing to the  **Documents** collection, while permitting extra information to be passed in an argument.
+Adds a new stencil or drawing to the **Documents** collection, while permitting extra information to be passed in an argument.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ Document
 
 ## Remarks
 
-The  **AddEx** method is similar to the **Add** method as it applies to the **Documents** collection, except that **AddEx** provides several additional arguments in which the caller can specify how the document is created.
+The **AddEx** method is similar to the **Add** method as it applies to the **Documents** collection, except that **AddEx** provides several additional arguments in which the caller can specify how the document is created.
 
 The  _MeasurementSystem_ argument should be one of the following members of **VisMeasurementSystem** , which is declared in the Visio type library.
 
@@ -66,9 +66,9 @@ The  _Flags_ argument should be a combination of one or more of the following me
 | **visAddStencil**|512|Adds a new stencil file.|
 The  _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, the language ID is &;H0409 for the U.S. version of Visio. To see a list of language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
 
-To create a new drawing based on no template, pass a zero-length string ("") to the  **AddEx** method.
+To create a new drawing based on no template, pass a zero-length string ("") to the **AddEx** method.
 
-To create a new drawing based on a template, pass "templatename.vst" to the  **AddEx** method. Visio opens stencils that are part of the template's workspace and copies styles and other settings associated with the template to the new document. If the template file name is invalid, no document is returned and an error is generated.
+To create a new drawing based on a template, pass "templatename.vst" to the **AddEx** method. Visio opens stencils that are part of the template's workspace and copies styles and other settings associated with the template to the new document. If the template file name is invalid, no document is returned and an error is generated.
 
 To create a new stencil based on no stencil, pass ("vss").
 
@@ -79,12 +79,12 @@ To open a copy of a drawing, pass ("drawingname.vsd").
 
 
 
- **Note**  Opening a copy of a stencil or drawing is equivalent to selecting  **Open as Copy** in the **Open** list in the **Open** dialog box or using the **OpenEx** method with the **visOpenCopy** flag.
+ **Note**  Opening a copy of a stencil or drawing is equivalent to selecting **Open as Copy** in the **Open** list in the **Open** dialog box or using the **OpenEx** method with the **visOpenCopy** flag.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AddEx** method to create a document based on the "BASICD_U.VST" template that uses the default measurement system units.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AddEx** method to create a document based on the "BASICD_U.VST" template that uses the default measurement system units.
 
 
 ```vb

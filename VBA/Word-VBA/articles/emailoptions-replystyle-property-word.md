@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.ReplyStyle Property (Word)
 
-Returns a  **[Style](style-object-word.md)** object that represents the style used when replying to e-mail messages.
+Returns a **[Style](style-object-word.md)** object that represents the style used when replying to e-mail messages.
 
 
 ## Syntax

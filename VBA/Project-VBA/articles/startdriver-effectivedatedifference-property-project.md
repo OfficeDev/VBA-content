@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # StartDriver.EffectiveDateDifference Property (Project)
 
-Gets the duration between two dates in minutes, using the effective calendar for a manually scheduled task. Read-only  **Long**.
+Gets the duration between two dates in minutes, using the effective calendar for a manually scheduled task. Read-only **Long**.
 
 
 ## Syntax
@@ -31,11 +31,11 @@ Gets the duration between two dates in minutes, using the effective calendar for
 
 ## Remarks
 
-The  **EffectiveDateDifference** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The StartDate and FinishDate arguments can be arbitrary dates. The property and arguments do not affect the task dates.
+The **EffectiveDateDifference** property uses the effective calendar for manually scheduled tasks, which allows tasks to start and finish on non-working times. The StartDate and FinishDate arguments can be arbitrary dates. The property and arguments do not affect the task dates.
 
-You can use the  **[EffectiveDateSubtract](startdriver-effectivedatesubtract-property-project.md)**, **[EffectiveDateAdd](startdriver-effectivedateadd-property-project.md)**, and **EffectiveDateDifference** properties to calculate start and finish dates for manually scheduled tasks.
+You can use the **[EffectiveDateSubtract](startdriver-effectivedatesubtract-property-project.md)**, **[EffectiveDateAdd](startdriver-effectivedateadd-property-project.md)**, and **EffectiveDateDifference** properties to calculate start and finish dates for manually scheduled tasks.
 
-To calculate the date difference for an automatically scheduled task, where you can also specify the calendar, use the  **[DateDifference](application-datedifference-method-project.md)** method.
+To calculate the date difference for an automatically scheduled task, where you can also specify the calendar, use the **[DateDifference](application-datedifference-method-project.md)** method.
 
 
 ## Example

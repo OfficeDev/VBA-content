@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Ranges Object (Excel)
 
-A collection of  **[Range](range-object-excel.md)** objects.
+A collection of **[Range](range-object-excel.md)** objects.
 
 
 ## Properties

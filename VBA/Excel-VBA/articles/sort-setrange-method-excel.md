@@ -29,9 +29,9 @@ Sets the range over which the sort occurs.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Rng_|Required| **Range**|Specifies the range over which the sort represented by the  **Sort** object occurs.|
+| _Rng_|Required| **Range**|Specifies the range over which the sort represented by the **Sort** object occurs.|
 
- **Note**   **SetRange** can only be used when applying a sort to a sheet range, and cannot be used if the range is within a table.
+ **Note**  **SetRange** can only be used when applying a sort to a sheet range, and cannot be used if the range is within a table.
 
 
 ## See also

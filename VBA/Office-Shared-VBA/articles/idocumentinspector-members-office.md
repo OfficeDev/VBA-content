@@ -7,9 +7,9 @@ ms.date: 06/08/2017
 
 
 # IDocumentInspector Members (Office)
-Represents the interface through which the methods of a  **IDocumentInspector** object are accessed.
+Represents the interface through which the methods of a **IDocumentInspector** object are accessed.
 
-Represents the interface through which the methods of a  **IDocumentInspector** object are accessed.
+Represents the interface through which the methods of a **IDocumentInspector** object are accessed.
 
 
 ## Methods

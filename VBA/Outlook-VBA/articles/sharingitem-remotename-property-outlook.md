@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.RemoteName Property (Outlook)
 
-Returns a  **String** that represents the name of the sharing context for a **[SharingItem](sharingitem-object-outlook.md)** object. Read-only.
+Returns a **String** that represents the name of the sharing context for a **[SharingItem](sharingitem-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** that represents the name of the sharing context for a **[S
 
 ## Remarks
 
-This property contains the name used for the sharing context, such as the name of the folder or item, contained within the  **SharingItem** object.
+This property contains the name used for the sharing context, such as the name of the folder or item, contained within the **SharingItem** object.
 
-This property is set to an empty string if the  **[Type](sharingitem-type-property-outlook.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest** .
+This property is set to an empty string if the **[Type](sharingitem-type-property-outlook.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest** .
 
 
 ## See also

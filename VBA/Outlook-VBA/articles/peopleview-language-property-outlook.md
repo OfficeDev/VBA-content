@@ -10,7 +10,7 @@ ms.prod: outlook
 
 
 # PeopleView.Language Property (Outlook)
-Returns or sets a  **String** value that represents the language setting for the view. Read/write.
+Returns or sets a **String** value that represents the language setting for the view. Read/write.
 
 ## Version information
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.DeleteAfterSubmit Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if a copy of the item is not saved upon being sent, and **False** if a copy is saved. Read/write.
+Returns or sets a **Boolean** value that is **True** if a copy of the item is not saved upon being sent, and **False** if a copy is saved. Read/write.
 
 
 ## Syntax

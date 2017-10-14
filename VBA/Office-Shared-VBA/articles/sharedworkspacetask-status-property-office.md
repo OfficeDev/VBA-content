@@ -28,14 +28,14 @@ Gets or sets the status of the specified shared workspace task. Read/write .
 
 ## Remarks
 
-The shared workspace task schema on the server can be customized. Customization of the schema may affect the task status enumeration when the  **Add** or **Save** method is called. **Status** property values are mapped as follows:
+The shared workspace task schema on the server can be customized. Customization of the schema may affect the task status enumeration when the **Add** or **Save** method is called. **Status** property values are mapped as follows:
 
 
 
 
-- Downloaded values 1 through 5 are mapped to  **msoSharedWorkspaceTaskStatus** enumeration values 1 through 5. Schema values beyond 5 are mapped to enumeration value 1 ( **msoSharedWorkspaceTaskStatusInProgress** ).
+- Downloaded values 1 through 5 are mapped to **msoSharedWorkspaceTaskStatus** enumeration values 1 through 5. Schema values beyond 5 are mapped to enumeration value 1 ( **msoSharedWorkspaceTaskStatusInProgress** ).
     
-- Uploaded enumeration values 1 through 5 are mapped to schema values 1 through 5. If a user-specified value does not map to any value defined in the schema, the user-specified value is silently ignored and the  **Status** property is not updated on the server.
+- Uploaded enumeration values 1 through 5 are mapped to schema values 1 through 5. If a user-specified value does not map to any value defined in the schema, the user-specified value is silently ignored and the **Status** property is not updated on the server.
     
 
 

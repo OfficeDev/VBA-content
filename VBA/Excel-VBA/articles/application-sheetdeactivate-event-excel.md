@@ -29,7 +29,7 @@ Occurs when any sheet is deactivated.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Sh_|Required| **Object**|The sheet. Can be a  **[Chart](chart-object-excel.md)** or **[Worksheet](worksheet-object-excel.md)** object.|
+| _Sh_|Required| **Object**|The sheet. Can be a **[Chart](chart-object-excel.md)** or **[Worksheet](worksheet-object-excel.md)** object.|
 
 ## See also
 

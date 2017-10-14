@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Fonts Property (Visio)
 
-Returns the  **Fonts** collection of a **Document** object. Read-only.
+Returns the **Fonts** collection of a **Document** object. Read-only.
 
 
 ## Syntax

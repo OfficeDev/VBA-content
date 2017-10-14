@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.PeakUnits Property (Project)
 
-Gets the largest unit percentage of a resource used at one time. Read-only  **Variant**.
+Gets the largest unit percentage of a resource used at one time. Read-only **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.Kind Property (Word)
 
-Returns the type of link for a  **Field** object. Read-only **[WdFieldKind](wdfieldkind-enumeration-word.md)** .
+Returns the type of link for a **Field** object. Read-only **[WdFieldKind](wdfieldkind-enumeration-word.md)** .
 
 
 ## Syntax

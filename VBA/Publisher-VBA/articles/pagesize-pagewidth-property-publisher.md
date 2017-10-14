@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageSize.PageWidth Property (Publisher)
 
-Gets or sets the page width of the blank page size represented by the parent  **PageSize** object. Read/write.
+Gets or sets the page width of the blank page size represented by the parent **PageSize** object. Read/write.
 
 
 ## Syntax
 
  _expression_. **PageWidth**
 
- _expression_A variable that represents a  **PageSize** object.
+ _expression_A variable that represents a **PageSize** object.
 
 
 ### Return Value
@@ -30,6 +30,6 @@ Variant
 
 ## Remarks
 
-The blank page size represented by the parent  **PageSize** object corresponds to one of the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
+The blank page size represented by the parent **PageSize** object corresponds to one of the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
 
 

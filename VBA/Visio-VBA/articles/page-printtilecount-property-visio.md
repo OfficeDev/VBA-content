@@ -30,6 +30,6 @@ Long
 
 ## Remarks
 
-When drawings span multiple physical printer pages, you can use the  **PrintTileCount** property to determine the number of print tiles there are for a Microsoft Visio drawing page. You can use the **PrintTileCount** property with the **PrintTile** method to identify and print selected tiles of an active drawing page.
+When drawings span multiple physical printer pages, you can use the **PrintTileCount** property to determine the number of print tiles there are for a Microsoft Visio drawing page. You can use the **PrintTileCount** property with the **PrintTile** method to identify and print selected tiles of an active drawing page.
 
 

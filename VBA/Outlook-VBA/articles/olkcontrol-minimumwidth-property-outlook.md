@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkControl.MinimumWidth Property (Outlook)
 
-Returns or sets a  **Long** that specifies the minimum width the control can be automatically sized down to. Read/write.
+Returns or sets a **Long** that specifies the minimum width the control can be automatically sized down to. Read/write.
 
 
 ## Syntax

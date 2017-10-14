@@ -12,14 +12,14 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The  **DataCodePage** setting for the external data source you are attempting to use is not valid. This setting is in the corresponding **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines** _&lt;external data source ISAM>_ in the Microsoft Windows Registry.
+The **DataCodePage** setting for the external data source you are attempting to use is not valid. This setting is in the corresponding **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines** _&lt;external data source ISAM>_ in the Microsoft Windows Registry.
 
 Valid settings are:
 
 
--  **OEM** — Data is stored as OEM data; OemToAnsi and AnsiToOem conversions are done.
+- **OEM** — Data is stored as OEM data; OemToAnsi and AnsiToOem conversions are done.
     
--  **ANSI** — Data is stored as ANSI data; OemToAnsi and AnsiToOem conversions are not done.
+- **ANSI** — Data is stored as ANSI data; OemToAnsi and AnsiToOem conversions are not done.
     
 
  **ACCESS SUPPORT RESOURCES**<br>

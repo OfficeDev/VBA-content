@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LayoutGuides.VerticalBaseLineOffset Property (Publisher)
 
-Returns a  **Single** that represents the vertical baseline offset of the specified **LayoutGuides** object. Read/write.
+Returns a **Single** that represents the vertical baseline offset of the specified **LayoutGuides** object. Read/write.
 
 
 ## Syntax
 
  _expression_. **VerticalBaseLineOffset**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_A variable that represents a **LayoutGuides** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+When setting the layout guide properties of a **Page** object it must be returned from the **MasterPages** collection.
 
 
 ## Example

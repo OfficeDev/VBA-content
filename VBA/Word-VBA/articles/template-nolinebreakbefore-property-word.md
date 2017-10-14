@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.NoLineBreakBefore Property (Word)
 
-Returns or sets the kinsoku characters before which Microsoft Word will not break a line. Read/write  **String** .
+Returns or sets the kinsoku characters before which Microsoft Word will not break a line. Read/write **String** .
 
 
 ## Syntax

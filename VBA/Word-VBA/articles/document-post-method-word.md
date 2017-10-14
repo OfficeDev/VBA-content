@@ -25,12 +25,12 @@ Posts the specified document to a public folder in Microsoft Exchange. .
 
 ## Remarks
 
-This method displays the  **Send to Exchange Folder** dialog box so that a folder can be selected.
+This method displays the **Send to Exchange Folder** dialog box so that a folder can be selected.
 
 
 ## Example
 
-This example displays the  **Send to Exchange Folder** dialog box so that the active document can be posted to a public folder.
+This example displays the **Send to Exchange Folder** dialog box so that the active document can be posted to a public folder.
 
 
 ```vb

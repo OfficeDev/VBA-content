@@ -25,7 +25,7 @@ Controls whether or not filter buttons and PivotField captions for rows and colu
 
 ## Remarks
 
-The default value is  **True** .
+The default value is **True** .
 
 
 ## See also

@@ -58,7 +58,7 @@ GROUP BY CategoryID
 HAVING Sum(UnitsInStock) > 100 And Like "BOS*";
 ```
 
-A HAVING clause can contain up to 40 expressions linked by logical operators, such as  **And** and **Or**.
+A HAVING clause can contain up to 40 expressions linked by logical operators, such as **And** and **Or**.
 
 
 ## Example

@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 # InsideLeft Property
 
-Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-only  **Double**.
+Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-only **Double**.
 
 
 ## Remarks
 
-The plot area used for this measurement doesn't include the axis labels. The  **Left** property for the plot area uses the bounding rectangle that includes the axis labels.
+The plot area used for this measurement doesn't include the axis labels. The **Left** property for the plot area uses the bounding rectangle that includes the axis labels.
 
 

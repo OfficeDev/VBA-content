@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.PropertyAccessor Property (Outlook)
 
-Returns a  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[DistListItem](distlistitem-object-outlook.md)** object. Read-only.
+Returns a **[PropertyAccessor](propertyaccessor-object-outlook.md)** object that supports creating, getting, setting, and deleting properties of the parent **[DistListItem](distlistitem-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

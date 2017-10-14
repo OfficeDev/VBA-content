@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MasterShortcut.ShapeHelp Property (Visio)
 
-Gets or sets the help string used when the user clicks  **Help** on the shortcut menu of a master shortcut. Read/write.
+Gets or sets the help string used when the user clicks **Help** on the shortcut menu of a master shortcut. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-If the help string is blank, the  **Help** command uses the help string defined by the shortcut's target master, determined by the **Help** property of that master's top-level shape.
+If the help string is blank, the **Help** command uses the help string defined by the shortcut's target master, determined by the **Help** property of that master's top-level shape.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.Column Property (Office)
 
-Returns the  **Column** object that represents the columns of the specified text frame. Read-only
+Returns the **Column** object that represents the columns of the specified text frame. Read-only
 
 
 ## Syntax

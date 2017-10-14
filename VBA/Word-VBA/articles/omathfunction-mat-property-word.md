@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Mat Property (Word)
 
-Returns an  **[OMathMat](omathmat-object-word.md)** object that represents a mathematical matrix. Read-only.
+Returns an **[OMathMat](omathmat-object-word.md)** object that represents a mathematical matrix. Read-only.
 
 
 ## Syntax

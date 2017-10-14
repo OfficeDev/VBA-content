@@ -15,9 +15,9 @@ ms.date: 06/08/2017
 
 
 
-A  **Tabs** collection includes all **Tabs** of a **TabStrip**.
+A **Tabs** collection includes all **Tabs** of a **TabStrip**.
  **Remarks**
-Each  **Tabs** collection provides the features to manage the number of tabs in the[collection](vbe-glossary.md) and to identify the tab that is currently in use.
-The default value of the  **Tabs** collection identifies the current **Tab** of a collection.
-A  **Tab** object has a unique name and index value within a **Tabs** collection. You can reference a **Tab** either by its name or its index value. The index value reflects the ordinal position of the **Tab** within the collection. The index of the first **Tab** in a collection is 0; the index of the second **Tab** is 1; and so on.
+Each **Tabs** collection provides the features to manage the number of tabs in the[collection](vbe-glossary.md) and to identify the tab that is currently in use.
+The default value of the **Tabs** collection identifies the current **Tab** of a collection.
+A **Tab** object has a unique name and index value within a **Tabs** collection. You can reference a **Tab** either by its name or its index value. The index value reflects the ordinal position of the **Tab** within the collection. The index of the first **Tab** in a collection is 0; the index of the second **Tab** is 1; and so on.
 

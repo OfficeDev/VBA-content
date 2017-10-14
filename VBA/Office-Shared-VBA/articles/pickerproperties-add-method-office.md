@@ -40,7 +40,7 @@ PickerProperty
 
 ## Example
 
-The following code sets various properties of the  **PickerDialog** object.
+The following code sets various properties of the **PickerDialog** object.
 
 
 ```

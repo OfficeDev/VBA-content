@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Trendlines Object (PowerPoint)
 
-Represents a collection of all the  **[Trendline](trendline-object-powerpoint.md)** objects for the specified series.
+Represents a collection of all the **[Trendline](trendline-object-powerpoint.md)** objects for the specified series.
 
 
 ## Remarks
 
-Each  **Trendline** object represents a trendline in a chart. A trendline shows the trend, or direction, of data in a series.
+Each **Trendline** object represents a trendline in a chart. A trendline shows the trend, or direction, of data in a series.
 
 
 ## Example
@@ -28,7 +28,7 @@ Each  **Trendline** object represents a trendline in a chart. A trendline shows 
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Trendlines](series-trendlines-method-powerpoint.md)** method to return the **Trendlines** collection. The following example displays the number of trendlines for series one of the first chart in the active document.
+Use the **[Trendlines](series-trendlines-method-powerpoint.md)** method to return the **Trendlines** collection. The following example displays the number of trendlines for series one of the first chart in the active document.
 
 
 
@@ -50,7 +50,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Add](trendlines-add-method-powerpoint.md)** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series for the first chart in the active document.
+Use the **[Add](trendlines-add-method-powerpoint.md)** method to create a new trendline and add it to the series. The following example adds a linear trendline to the first series for the first chart in the active document.
 
 
 
@@ -69,7 +69,7 @@ End With
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[Trendlines](series-trendlines-method-powerpoint.md)** (Index), where Index is the trendline index number, to return a single **TrendLine** object. The following example changes the trendline type for the first series of the first chart in the active document. If the series has no trendline, this example will fail.
+Use **[Trendlines](series-trendlines-method-powerpoint.md)** (Index), where Index is the trendline index number, to return a single **TrendLine** object. The following example changes the trendline type for the first series of the first chart in the active document. If the series has no trendline, this example will fail.
 
 The index number denotes the order in which the trendlines were added to the series.  `Trendlines(1)` is the first trendline added to the series, and `Trendlines(Trendlines.Count)` is the last one added.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.CommandType Property (Excel)
 
-Returns or sets one of the  **[XlCmdType](xlcmdtype-enumeration-excel.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](pivotcache-commandtext-property-excel.md)** property. The default value is **xlCmdSQL** . Read/write **XlCmdType** .
+Returns or sets one of the **[XlCmdType](xlcmdtype-enumeration-excel.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](pivotcache-commandtext-property-excel.md)** property. The default value is **xlCmdSQL** . Read/write **XlCmdType** .
 
 
 ## Syntax
@@ -32,9 +32,9 @@ Returns or sets one of the  **[XlCmdType](xlcmdtype-enumeration-excel.md)** cons
 | **xlCmdDefault** . Contains command text that the OLE DB provider understands.|
 | **xlCmdSql** . Contains an SQL statement.|
 | **xlCmdTable** . Contains a table name for accessing OLE DB data sources.|
-You can set the  **CommandType** property only if the value of the **[QueryType](pivotcache-querytype-property-excel.md)** property for the query table or PivotTable cache is **xlOLEDBQuery** .
+You can set the **CommandType** property only if the value of the **[QueryType](pivotcache-querytype-property-excel.md)** property for the query table or PivotTable cache is **xlOLEDBQuery** .
 
-If the value of the  **CommandType** property is **xlCmdCube** , you cannot change this value if there is a PivotTable report associated with the query table.
+If the value of the **CommandType** property is **xlCmdCube** , you cannot change this value if there is a PivotTable report associated with the query table.
 
 
 ## Example

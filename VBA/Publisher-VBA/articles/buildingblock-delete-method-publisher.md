@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Delete Method (Publisher)
 
-Deletes the specified  **BuildingBlock** object from the **[BuildingBlocks](buildingblocks-object-publisher.md)** collection returned by the ** [Document.AvailableBuildingBlocks](document-availablebuildingblocks-property-publisher.md)** property for the current document.
+Deletes the specified **BuildingBlock** object from the **[BuildingBlocks](buildingblocks-object-publisher.md)** collection returned by the ** [Document.AvailableBuildingBlocks](document-availablebuildingblocks-property-publisher.md)** property for the current document.
 
 
 ## Syntax
 
  _expression_. **Delete**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_A variable that represents a **BuildingBlock** object.
 
 

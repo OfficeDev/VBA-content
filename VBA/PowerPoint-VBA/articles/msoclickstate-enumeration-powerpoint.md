@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoClickState Enumeration (PowerPoint)
 
-Constants that specify the point in a slide show to navigate to, relative to the animations included in the show, passed to the  **GotoClick** method of the **SlideShowView** object, and returned by the **GetClickIndex** method of that object.
+Constants that specify the point in a slide show to navigate to, relative to the animations included in the show, passed to the **GotoClick** method of the **SlideShowView** object, and returned by the **GetClickIndex** method of that object.
 
 
 

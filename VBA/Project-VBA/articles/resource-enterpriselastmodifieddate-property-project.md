@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Resource.EnterpriseLastModifiedDate Property (Project)
 
-Gets the date and time when the resource was last checked in to the enterprise resource pool. Read-only  **Variant**.
+Gets the date and time when the resource was last checked in to the enterprise resource pool. Read-only **Variant**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the date and time when the resource was last checked in to the enterprise r
 
 ## Remarks
 
-The  **EnterpriseLastModifiedDate** property is available only in Project Professional.
+The **EnterpriseLastModifiedDate** property is available only in Project Professional.
 
 

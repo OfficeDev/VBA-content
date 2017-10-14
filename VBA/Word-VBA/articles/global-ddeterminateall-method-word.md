@@ -25,7 +25,7 @@ Closes all dynamic data exchange (DDE) channels opened by Microsoft Word. .
 
 ## Remarks
 
-This method does not close channels opened to Word by client applications. Using this method is the same as using the  **DDETerminate** method for each open channel.
+This method does not close channels opened to Word by client applications. Using this method is the same as using the **DDETerminate** method for each open channel.
 
 
  **Security Note**  

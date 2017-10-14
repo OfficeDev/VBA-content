@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.End Property (Outlook)
 
-Returns or sets a  **Date** indicating the end date and time of an **[AppointmentItem](appointmentitem-object-outlook.md)** . Read/write.
+Returns or sets a **Date** indicating the end date and time of an **[AppointmentItem](appointmentitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Date** indicating the end date and time of an **[Appointmen
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](application-createitem-method-outlook.md)** to create an **AppointmentItem** object. The **[RecurrencePattern](recurrencepattern-object-outlook.md)** is obtained for this item using the **[AppointmentItem.GetRecurrencePattern](appointmentitem-getrecurrencepattern-method-outlook.md)** method. By setting the **RecurrencePattern** properties, **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** , **[PatternStartDate](recurrencepattern-patternstartdate-property-outlook.md)** , and **[PatternEndDate](recurrencepattern-patternenddate-property-outlook.md)** , the appointments are now a recurring series that occur on a daily basis for the period of one year.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](application-createitem-method-outlook.md)** to create an **AppointmentItem** object. The **[RecurrencePattern](recurrencepattern-object-outlook.md)** is obtained for this item using the **[AppointmentItem.GetRecurrencePattern](appointmentitem-getrecurrencepattern-method-outlook.md)** method. By setting the **RecurrencePattern** properties, **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** , **[PatternStartDate](recurrencepattern-patternstartdate-property-outlook.md)** , and **[PatternEndDate](recurrencepattern-patternenddate-property-outlook.md)** , the appointments are now a recurring series that occur on a daily basis for the period of one year.
 
-An  **[Exception](exception-object-outlook.md)** object is created when one instance of this recurring appointment is obtained using the **[GetOccurrence](recurrencepattern-getoccurrence-method-outlook.md)** method and properties for this instance are altered. This exception to the series of appointments is obtained using the **GetRecurrencePattern** method to access the **[Exceptions](exceptions-object-outlook.md)** collection associated with this series. Message boxes display the original **[AppointmentItem.Subject](appointmentitem-subject-property-outlook.md)** and **[Exception.OriginalDate](exception-originaldate-property-outlook.md)** for this exception to the series of appointments and the current date, time, and subject for this exception.
+An **[Exception](exception-object-outlook.md)** object is created when one instance of this recurring appointment is obtained using the **[GetOccurrence](recurrencepattern-getoccurrence-method-outlook.md)** method and properties for this instance are altered. This exception to the series of appointments is obtained using the **GetRecurrencePattern** method to access the **[Exceptions](exceptions-object-outlook.md)** collection associated with this series. Message boxes display the original **[AppointmentItem.Subject](appointmentitem-subject-property-outlook.md)** and **[Exception.OriginalDate](exception-originaldate-property-outlook.md)** for this exception to the series of appointments and the current date, time, and subject for this exception.
 
 
 

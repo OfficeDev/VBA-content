@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.ResponseState Property (Outlook)
 
-Returns an  **[OlTaskResponse](oltaskresponse-enumeration-outlook.md)** constant indicating the overall status of the response to the specified task request. Read-only.
+Returns an **[OlTaskResponse](oltaskresponse-enumeration-outlook.md)** constant indicating the overall status of the response to the specified task request. Read-only.
 
 
 ## Syntax

@@ -30,9 +30,9 @@ Returns or sets whether slicers connected to the specified slicer cache display 
 
 ## Remarks
 
-When the  **ShowAllItems** property is set to **True** (the default), items that have been deleted from the source data are displayed in the slicers connected to the specified slicer cache. The **ShowAllItems** property corresponds to the setting of the **Show items deleted from the data source** check box in the **Slicer Settings** dialog box.
+When the **ShowAllItems** property is set to **True** (the default), items that have been deleted from the source data are displayed in the slicers connected to the specified slicer cache. The **ShowAllItems** property corresponds to the setting of the **Show items deleted from the data source** check box in the **Slicer Settings** dialog box.
 
-The  **ShowAllItems** property applies only to slicers that are based on workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ), or to slicers that are based on relational data sources ( **SlicerCache** . **SourceType** = **xlExternal** and **SlicerCache** . **[OLAP](slicercache-olap-property-excel.md)** = **False** ). Attempting to set the **ShowAllItems** property for slicers that are connected to PivotTables based on external OLAP data sources ( **SlicerCache** . **OLAP** = **True** ) generates a run-time error.
+The **ShowAllItems** property applies only to slicers that are based on workbook ranges or lists ( **SlicerCache** . **SourceType** = **xlDatabase** ), or to slicers that are based on relational data sources ( **SlicerCache** . **SourceType** = **xlExternal** and **SlicerCache** . **[OLAP](slicercache-olap-property-excel.md)** = **False** ). Attempting to set the **ShowAllItems** property for slicers that are connected to PivotTables based on external OLAP data sources ( **SlicerCache** . **OLAP** = **True** ) generates a run-time error.
 
 
 ## See also

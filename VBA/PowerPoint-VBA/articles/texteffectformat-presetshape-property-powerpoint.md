@@ -30,9 +30,9 @@ MsoPresetTextEffectShape
 
 ## Remarks
 
-Setting the  **[PresetTextEffect](texteffectformat-presettexteffect-property-powerpoint.md)** property automatically sets the **PresetShape** property.
+Setting the **[PresetTextEffect](texteffectformat-presettexteffect-property-powerpoint.md)** property automatically sets the **PresetShape** property.
 
-The value of the  **PresetShape** property can be one of these **MsoPresetTextEffectShape** constants.
+The value of the **PresetShape** property can be one of these **MsoPresetTextEffectShape** constants.
 
 
 ||

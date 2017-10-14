@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ToggleFormsDesign Method (Excel)
 
-The  **ToggleFormsDesign** method is used to toggle Excel into Design Mode when using forms controls.
+The **ToggleFormsDesign** method is used to toggle Excel into Design Mode when using forms controls.
 
 
 ## Syntax

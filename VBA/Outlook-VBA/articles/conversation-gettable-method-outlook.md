@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conversation.GetTable Method (Outlook)
 
-Returns a  **[Table](table-object-outlook.md)** object that contains rows that represent all items in the conversation.
+Returns a **[Table](table-object-outlook.md)** object that contains rows that represent all items in the conversation.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **[Table](table-object-outlook.md)** object that contains rows that r
 
 ### Return Value
 
-A  **Table** object that contains rows that represent all items in the conversation.
+A **Table** object that contains rows that represent all items in the conversation.
 
 
 ## Remarks
 
-The  **GetTable** method returns a **Table** that has all items of the conversation as the rows. The default set of columns is shown in the following table.
+The **GetTable** method returns a **Table** that has all items of the conversation as the rows. The default set of columns is shown in the following table.
 
 
 
@@ -41,11 +41,11 @@ The  **GetTable** method returns a **Table** that has all items of the conversat
 |3| **CreationTime**|
 |4| **LastModificationTime**|
 |5| **MessageClass**|
-By default, the rows in the table are sorted by the  **ConversationIndex** property of the items.
+By default, the rows in the table are sorted by the **ConversationIndex** property of the items.
 
-To modify the default column set, use the  **[Add](columns-add-method-outlook.md)** , **[Remove](columns-remove-method-outlook.md)** , or **[RemoveAll](columns-removeall-method-outlook.md)** methods of the **[Columns](columns-object-outlook.md)** collection object.
+To modify the default column set, use the **[Add](columns-add-method-outlook.md)** , **[Remove](columns-remove-method-outlook.md)** , or **[RemoveAll](columns-removeall-method-outlook.md)** methods of the **[Columns](columns-object-outlook.md)** collection object.
 
-The  **Table** object returned by this **GetTable** method does not include items in the conversation that have been moved to the Deleted Items folder.
+The **Table** object returned by this **GetTable** method does not include items in the conversation that have been moved to the Deleted Items folder.
 
 
 ## Example

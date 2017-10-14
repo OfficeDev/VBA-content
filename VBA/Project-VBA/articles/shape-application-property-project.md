@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Application Property (Project)
-Gets the  **[Application Object (Project)](application-object-project.md)** object. Read-only **Application**.
+Gets the **[Application Object (Project)](application-object-project.md)** object. Read-only **Application**.
 
 ## Syntax
 

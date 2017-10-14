@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNamespace.Location Property (Word)
 
-Returns or sets a  **String** that represents the physical location of the namespace of an XML schema in the Schema Library. Read/write.
+Returns or sets a **String** that represents the physical location of the namespace of an XML schema in the Schema Library. Read/write.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets a  **String** that represents the physical location of the names
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _AllUsers_|Optional| **Boolean**|Specifies whether to return the location for all users.  **False** returns the location for only the current user, which may be different than the location for all users.|
+| _AllUsers_|Optional| **Boolean**|Specifies whether to return the location for all users. **False** returns the location for only the current user, which may be different than the location for all users.|
 
 ## See also
 

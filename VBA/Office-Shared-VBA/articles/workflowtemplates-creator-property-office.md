@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkflowTemplates.Creator Property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **WorkflowTemplates** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **WorkflowTemplates** object was created. Read-only.
 
 
 ## Syntax

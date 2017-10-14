@@ -12,12 +12,12 @@ The Project Object Model Reference section contains documentation for all of the
 
 You can use the table of contents to navigate through the documentation. For diagrams that show how all of the objects and collections relate to each other, and also show which objects are new, see the following: 
 
--  **[Application and Projects Object Map](application-and-projects-object-map-project.md)**
+- **[Application and Projects Object Map](application-and-projects-object-map-project.md)**
     
--  **[Calendars Object Map](calendars-object-map-project.md)**
+- **[Calendars Object Map](calendars-object-map-project.md)**
     
--  **[Resources Object Map](resources-object-map-project.md)**
+- **[Resources Object Map](resources-object-map-project.md)**
     
--  **[Tasks Object Map](tasks-object-map-project.md)**
+- **[Tasks Object Map](tasks-object-map-project.md)**
     
 

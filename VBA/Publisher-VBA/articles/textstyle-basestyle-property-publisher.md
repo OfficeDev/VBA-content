@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextStyle.BaseStyle Property (Publisher)
 
-Returns or sets a  **String** that represents the style upon which the formatting of another style is based. Read/write.
+Returns or sets a **String** that represents the style upon which the formatting of another style is based. Read/write.
 
 
 ## Syntax
 
  _expression_. **BaseStyle**
 
- _expression_A variable that represents a  **TextStyle** object.
+ _expression_A variable that represents a **TextStyle** object.
 
 
 ### Return Value

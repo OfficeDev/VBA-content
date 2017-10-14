@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.RowHeight Property (Excel)
 
-Returns or sets the height of the first row in the range specified, measured in points. Read/write  **Variant** .
+Returns or sets the height of the first row in the range specified, measured in points. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Returns or sets the height of the first row in the range specified, measured in 
 
 ## Remarks
 
-You can use the  **Height** property to return the total height of a range of cells.
+You can use the **Height** property to return the total height of a range of cells.
 
 
- **Note**  If a merged cell is in the range,  **RowHeight** returns **Null** for varied row heights.
+ **Note**  If a merged cell is in the range, **RowHeight** returns **Null** for varied row heights.
 
 
 ## Example

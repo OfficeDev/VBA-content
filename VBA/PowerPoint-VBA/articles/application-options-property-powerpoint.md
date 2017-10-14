@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Options Property (PowerPoint)
 
-Returns an  **[Options](options-object-powerpoint.md)** object that represents application options in Microsoft PowerPoint.
+Returns an **[Options](options-object-powerpoint.md)** object that represents application options in Microsoft PowerPoint.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Options
 
 ## Example
 
-Use the  **Options** property to return the **Options** object. The following example sets three application options for PowerPoint.
+Use the **Options** property to return the **Options** object. The following example sets three application options for PowerPoint.
 
 
 ```vb

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Section.PageNumberStart Property (Publisher)
 
-Sets or returns the page number that the specified section starts with. Read/write  **Long**.
+Sets or returns the page number that the specified section starts with. Read/write **Long**.
 
 
 ## Syntax
 
  _expression_. **PageNumberStart**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_A variable that represents a **Section** object.
 
 
 ### Return Value

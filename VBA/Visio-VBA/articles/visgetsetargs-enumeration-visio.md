@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisGetSetArgs Enumeration (Visio)
 
-Flags to be passed to the  **GetResults** , **SetFormulas** , and **SetResults** methods.
+Flags to be passed to the **GetResults** , **SetFormulas** , and **SetResults** methods.
 
 
 

@@ -25,9 +25,9 @@ Gets or sets the name in e-mail form of the author of the active document. Read/
 
 ## Remarks
 
-The  **DocumentAuthor** property returns or sets the author of the active document. The author always has non-expiring owner rights to the document, whether owner permission is granted explicitly (through a **[UserPermission](userpermission-object-office.md)** object) or not.
+The **DocumentAuthor** property returns or sets the author of the active document. The author always has non-expiring owner rights to the document, whether owner permission is granted explicitly (through a **[UserPermission](userpermission-object-office.md)** object) or not.
 
-The  **DocumentAuthor** property can only be changed to a different account that has been certified through the permissions user interface to open restricted content on the local computer. In most cases, users who have a single Windows account can only choose between their Windows and their Passport identities.
+The **DocumentAuthor** property can only be changed to a different account that has been certified through the permissions user interface to open restricted content on the local computer. In most cases, users who have a single Windows account can only choose between their Windows and their Passport identities.
 
 If the user's Microsoft Windows and Passport identities use the same e-mail address, then use the format  `passport:someone@example.com` to specify the Passport identity as the **DocumentAuthor** property.
 

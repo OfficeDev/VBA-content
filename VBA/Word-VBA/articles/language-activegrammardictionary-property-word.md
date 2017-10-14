@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Language.ActiveGrammarDictionary Property (Word)
 
-Returns a  **[Dictionary](dictionary-object-word.md)** object that represents the active grammar dictionary for the specified language. Read-only.
+Returns a **[Dictionary](dictionary-object-word.md)** object that represents the active grammar dictionary for the specified language. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Dictionary](dictionary-object-word.md)** object that represents th
 
 ## Remarks
 
-If there is no grammar dictionary installed for the specified language, this property returns  **Nothing** .
+If there is no grammar dictionary installed for the specified language, this property returns **Nothing** .
 
 
 ## Example

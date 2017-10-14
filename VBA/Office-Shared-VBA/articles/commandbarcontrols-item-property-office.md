@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CommandBarControls.Item Property (Office)
 
-Gets a  **CommandBarControl** object from the **CommandBarControls** collection. Read-only.
+Gets a **CommandBarControl** object from the **CommandBarControls** collection. Read-only.
 
 
 ## 

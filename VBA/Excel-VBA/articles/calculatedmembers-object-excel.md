@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalculatedMembers Object (Excel)
 
-A collection of all the  **[CalculatedMember](calculatedmembers-object-excel.md)** objects on the specified PivotTable.
+A collection of all the **[CalculatedMember](calculatedmembers-object-excel.md)** objects on the specified PivotTable.
 
 
 ## Remarks
 
  Each **CalculatedMember** object represents a calculated member or calculated measure.
 
-Use the  **[CalculatedMembers](pivottable-calculatedmembers-property-excel.md)** property of the **[PivotTable](pivottable-object-excel.md)** object to return a **CalculatedMembers** collection.
+Use the **[CalculatedMembers](pivottable-calculatedmembers-property-excel.md)** property of the **[PivotTable](pivottable-object-excel.md)** object to return a **CalculatedMembers** collection.
 
 There are three supported types of calculated members:  _Named Sets_ , _Calculated Measures_ , and _Calculated Members_ . Object model support has been available for all three of these types since Excel 2010. User interface support was made available for Named Sets in Excel 2010. In Excel 2013, the OLAP Calculated Members and Calculated Measures feature was created to build a user interface for the calculated members and measures object model.
 
@@ -66,7 +66,7 @@ End Sub
 ```
 
 
- **Note**  For the  **Add** method in the previous example, the **Formula** argument must have a valid MDX syntax statement. The **Name** argument has to be acceptable to the Online Analytical Processing (OLAP) provider and the **Type** argument has to be defined.
+ **Note**  For the **Add** method in the previous example, the **Formula** argument must have a valid MDX syntax statement. The **Name** argument has to be acceptable to the Online Analytical Processing (OLAP) provider and the **Type** argument has to be defined.
 
 
 ## See also

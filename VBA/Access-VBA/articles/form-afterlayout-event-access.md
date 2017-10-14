@@ -29,7 +29,7 @@ Occurs after all charts in the specfied PivotChart view have been laid out, but 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _drawObject_|Required|**Object**|A  **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
+| _drawObject_|Required|**Object**|A **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
 
 ### Return Value
 
@@ -38,12 +38,12 @@ nothing
 
 ## Remarks
 
-During this event, you can reposition the  **ChTitle**, **ChLegend**, **ChChart**, and **ChAxis** objects of each PivotChart view by changing their **Left** and **Top** properties. You can reposition the **ChPlotArea** object by changing its **Left**, **Top**, **Right**, and **Bottom** properties. These properties cannot be changed outside of this event.
+During this event, you can reposition the **ChTitle**, **ChLegend**, **ChChart**, and **ChAxis** objects of each PivotChart view by changing their **Left** and **Top** properties. You can reposition the **ChPlotArea** object by changing its **Left**, **Top**, **Right**, and **Bottom** properties. These properties cannot be changed outside of this event.
 
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **AfterLayout** event.
+The following example demonstrates the syntax for a subroutine that traps the **AfterLayout** event.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Display Method (Outlook)
 
-Displays a new  **[Explorer](explorer-object-outlook.md)** object for the folder.
+Displays a new **[Explorer](explorer-object-outlook.md)** object for the folder.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Displays a new  **[Explorer](explorer-object-outlook.md)** object for the folder
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **Display** method to display the default Inbox folder. This example will not return an error, even if there are no items in the Inbox, because you are not asking for the display of a specific item.
+This Visual Basic for Applications (VBA) example uses the **Display** method to display the default Inbox folder. This example will not return an error, even if there are no items in the Inbox, because you are not asking for the display of a specific item.
 
 
 ```vb
@@ -49,7 +49,7 @@ End Sub
 This Visual Basic for Applications example displays the first item in the Inbox folder. This example will return an error if the Inbox is empty, because you are trying to display a specific item. If there are no items in the folder, a message box will be displayed to inform the user.
 
 
- **Note**  The items in the  **Items** collection object are not guaranteed to be in any particular order.
+ **Note**  The items in the **Items** collection object are not guaranteed to be in any particular order.
 
 
 

@@ -25,7 +25,7 @@ Copies the specified object to the Clipboard.
 
 ## Remarks
 
-Use the  **[Paste](customlayouts-paste-method-powerpoint.md)** method of the **[CustomLayouts](customlayouts-object-powerpoint.md)** object to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
+Use the **[Paste](customlayouts-paste-method-powerpoint.md)** method of the **[CustomLayouts](customlayouts-object-powerpoint.md)** object to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
 
 
 ## See also

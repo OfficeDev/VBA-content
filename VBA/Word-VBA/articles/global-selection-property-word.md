@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Selection Property (Word)
 
-Returns a  **Selection** object that represents a selected range or the insertion point. Read-only.
+Returns a **Selection** object that represents a selected range or the insertion point. Read-only.
 
 
 ## Syntax

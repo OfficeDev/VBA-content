@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AboveAverage.NumStdDev Property (Excel)
 
-Returns or sets the numeric standard deviation for an  **AboveAverage** object. Read/write **Long** .
+Returns or sets the numeric standard deviation for an **AboveAverage** object. Read/write **Long** .
 
 
 ## Syntax

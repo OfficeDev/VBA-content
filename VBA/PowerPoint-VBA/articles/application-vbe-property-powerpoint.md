@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.VBE Property (PowerPoint)
 
-Returns a  **VBE** object that represents the Visual Basic Editor. Read-only.
+Returns a **VBE** object that represents the Visual Basic Editor. Read-only.
 
 
 ## Syntax

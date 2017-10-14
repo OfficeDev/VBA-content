@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.Alignment Property (Word)
 
-Returns or sets a  **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
+Returns or sets a **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **WdParagraphAlignment** constant that represents the alignme
 
 ## Remarks
 
-Some of the  **WdParagraphAlignment** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
+Some of the **WdParagraphAlignment** constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## See also

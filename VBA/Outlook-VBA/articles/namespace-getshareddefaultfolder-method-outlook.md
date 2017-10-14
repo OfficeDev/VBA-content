@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.GetSharedDefaultFolder Method (Outlook)
 
-Returns a  **[Folder](folder-object-outlook.md)** object that represents the specified default folder for the specified user.
+Returns a **[Folder](folder-object-outlook.md)** object that represents the specified default folder for the specified user.
 
 
 ## Syntax
@@ -29,24 +29,24 @@ Returns a  **[Folder](folder-object-outlook.md)** object that represents the spe
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Recipient_|Required| **[Recipient](recipient-object-outlook.md)**|The owner of the folder. Note that the  **Recipient** object must be resolved.|
+| _Recipient_|Required| **[Recipient](recipient-object-outlook.md)**|The owner of the folder. Note that the **Recipient** object must be resolved.|
 | _FolderType_|Required| **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)**|The type of folder.|
 
 ### Return Value
 
-A  **Folder** object that represents the specified default folder for the specified user.
+A **Folder** object that represents the specified default folder for the specified user.
 
 
 ## Remarks
 
-This method is used in a delegation scenario, where one user has delegated access to another user for one or more of their default folders (for example, their shared  **Calendar** folder).
+This method is used in a delegation scenario, where one user has delegated access to another user for one or more of their default folders (for example, their shared **Calendar** folder).
 
  _FolderType_ can be one of the following **OlDefaultFolders** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . (The constants **olFolderDeletedItems** , **olFolderOutbox** , **olFolderJunk** , **olFolderConflicts** , **olFolderLocalFailures** , **olFolderServerFailures** , **olFolderSyncIssues** , **olPublicFoldersAllPublicFolders** , **olFolderRssSubscriptions** , **olFolderToDo** , **olFolderManagedEmail** , and **olFolderSentMail** cannot be specified for this argument.)
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **GetSharedDefaultFolder** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
+This Visual Basic for Applications (VBA) example uses the **GetSharedDefaultFolder** method to resolve the **Recipient** object representing Dan Wilson, and then returns Dan's shared default **Calendar** folder.
 
 
 ```vb

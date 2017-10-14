@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReadReceiptRequested Property (Outlook)
 
-Returns a  **Boolean** value that indicates **true** if a read receipt has been requested by the sender.
+Returns a **Boolean** value that indicates **true** if a read receipt has been requested by the sender.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates **true** if a read receipt has been 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReadReceiptRequested** . This property is read/write for **[SharingItem](sharingitem-object-outlook.md)** objects that have been created but have not been sent or posted; it is read-only for sent **SharingItem** objects.
+This property corresponds to the MAPI property **PidTagReadReceiptRequested** . This property is read/write for **[SharingItem](sharingitem-object-outlook.md)** objects that have been created but have not been sent or posted; it is read-only for sent **SharingItem** objects.
 
 
 ## See also

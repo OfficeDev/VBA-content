@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Underline Property (Excel)
 
-Returns or sets the type of underline applied to the font. Can be one of the following  **[XlUnderlineStyle](xlunderlinestyle-enumeration-excel.md)** constants. Read/write **Variant** .
+Returns or sets the type of underline applied to the font. Can be one of the following **[XlUnderlineStyle](xlunderlinestyle-enumeration-excel.md)** constants. Read/write **Variant** .
 
 
 ## Syntax

@@ -34,14 +34,14 @@ Switches to the specified slide during a slide show. You can specify whether you
 
 ## Remarks
 
-The value of the ResetSlide parameter can be one of these  **MsoTriState** constants. The default is **msoTrue**.
+The value of the ResetSlide parameter can be one of these **MsoTriState** constants. The default is **msoTrue**.
 
 
 ||
 |:-----|
 |**msoFalse**|
 |**msoTrue**|
-If you switch from one slide to another during a slide show with ResetSlide set to  **msoFalse**, when you return to the first slide, its animation picks up where it left off. If you switch from one slide to another with ResetSlide set to **msoTrue**, when you return to the first slide, its entire animation starts over.
+If you switch from one slide to another during a slide show with ResetSlide set to **msoFalse**, when you return to the first slide, its animation picks up where it left off. If you switch from one slide to another with ResetSlide set to **msoTrue**, when you return to the first slide, its entire animation starts over.
 
 
 ## Example

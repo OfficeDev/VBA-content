@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.InsertDateTime Method (PowerPoint)
 
-Inserts the date and time in the specified text range. Returns a  **TextRange** object that represents the inserted text.
+Inserts the date and time in the specified text range. Returns a **TextRange** object that represents the inserted text.
 
 
 ## Syntax

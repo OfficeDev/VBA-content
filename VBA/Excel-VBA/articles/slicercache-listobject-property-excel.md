@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # SlicerCache.ListObject Property (Excel)
 
-Returns a  **ListObject** object for the[QueryTable Object (Excel)](querytable-object-excel.md) object. Read-only
+Returns a **ListObject** object for the[QueryTable Object (Excel)](querytable-object-excel.md) object. Read-only
 
 
 ## Syntax

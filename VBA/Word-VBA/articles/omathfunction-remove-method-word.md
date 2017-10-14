@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Remove Method (Word)
 
-Removes a function from the collection of functions contained within an equation and returns an  **OMathFunction** object.
+Removes a function from the collection of functions contained within an equation and returns an **OMathFunction** object.
 
 
 ## Syntax

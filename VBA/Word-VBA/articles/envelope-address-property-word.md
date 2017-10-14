@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.Address Property (Word)
 
-Returns the envelope delivery address as a  **Range** object. Read-only.
+Returns the envelope delivery address as a **Range** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.AddTriggerEffect Method (PowerPoint)
 
-Adds a trigger effect to the animation in a  **Sequence** object.
+Adds a trigger effect to the animation in a **Sequence** object.
 
 
 ## Syntax
@@ -29,10 +29,10 @@ Adds a trigger effect to the animation in a  **Sequence** object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _pShape_|Required|**Shape**|The  **Shape** object with animation.|
+| _pShape_|Required|**Shape**|The **Shape** object with animation.|
 | _effectId_|Required|**MsoAnimEffect**|The type of animation.|
 | _trigger_|Required|**MsoAnimTriggerType**|The type of trigger effect to add.|
-| _pTriggerShape_|Required|**Shape**|The  **Shape** object that represents the trigger.|
+| _pTriggerShape_|Required|**Shape**|The **Shape** object that represents the trigger.|
 | _bookmark_|Optional|**String**|The bookmark.|
 | _Level_|Optional|**MsoAnimateByLevel**|The level of animation.|
 

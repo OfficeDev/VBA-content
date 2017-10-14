@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.Type Property (Word)
 
-Returns the template type. Read-only  **[WdTemplateType](wdtemplatetype-enumeration-word.md)** .
+Returns the template type. Read-only **[WdTemplateType](wdtemplatetype-enumeration-word.md)** .
 
 
 ## Syntax

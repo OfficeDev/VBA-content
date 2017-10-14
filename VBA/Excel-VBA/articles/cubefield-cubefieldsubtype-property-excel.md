@@ -25,7 +25,7 @@ Specifies the type of a CubeField. Read-only.
 
 ## Remarks
 
-The  **CubeFieldSubType** can be any of the values in the following enumeration
+The **CubeFieldSubType** can be any of the values in the following enumeration
 
 
 - xlCubeAttribute

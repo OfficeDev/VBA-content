@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SynonymInfo.Word Property (Word)
 
-Returns the word or phrase that was looked up by the thesaurus. Read-only  **String** .
+Returns the word or phrase that was looked up by the thesaurus. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the word or phrase that was looked up by the thesaurus. Read-only  **Str
 
 ## Remarks
 
-The thesaurus will sometimes look up a shortened version of the string or range used to return the  **SynonymInfo** object. The **Word** property allows you to see the exact string that was used.
+The thesaurus will sometimes look up a shortened version of the string or range used to return the **SynonymInfo** object. The **Word** property allows you to see the exact string that was used.
 
 
 ## Example

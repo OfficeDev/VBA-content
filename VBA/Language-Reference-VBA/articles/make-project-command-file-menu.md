@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Make <Project> Command (File Menu)
 
-Opens the  **Make Project** dialog box so that you can build your project into a DLL.
+Opens the **Make Project** dialog box so that you can build your project into a DLL.
 
 
  **Note**  This feature is not available in all versions of the Visual Basic Editor.

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BusinessCardView.CardSize Property (Outlook)
 
-Returns or sets a  **Long** value that represents the size, as a percentage, of an Electronic Business Card (EBC) in the view. Read/write.
+Returns or sets a **Long** value that represents the size, as a percentage, of an Electronic Business Card (EBC) in the view. Read/write.
 
 
 ## Syntax

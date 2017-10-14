@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectFrame.InSelection Property (Access)
 
-You can use the  **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
+You can use the **InSelection** property to determine or specify whether a control on a form in Design view is selected. Read/write **Boolean**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ When a control is selected, its sizing handles are visible and it can be resized
 
 ## Example
 
-The following function uses the  **InSelection** property to determine whether the `strControlName` control on a form is selected.
+The following function uses the **InSelection** property to determine whether the `strControlName` control on a form is selected.
 
 To test this code, paste the IsControlSelected function code in the Declarations section of a code module in the Northwind sample database, open the Customers form in Design view, and select the CompanyName control. Then enter the following line in the Debug window:
 

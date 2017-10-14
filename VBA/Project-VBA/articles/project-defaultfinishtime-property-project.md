@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.DefaultFinishTime Property (Project)
 
-Gets or sets the default finish time of the project. Read/write  **Variant**.
+Gets or sets the default finish time of the project. Read/write **Variant**.
 
 
 ## Syntax

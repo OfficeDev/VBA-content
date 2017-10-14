@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthor Object (Word)
 
-Represents a single co author in the document. The  **CoAuthor** object is a member of the **[CoAuthors](coauthors-object-word.md)** collection. The **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
+Represents a single co author in the document. The **CoAuthor** object is a member of the **[CoAuthors](coauthors-object-word.md)** collection. The **CoAuthors** collection contains all the co authors in the document (authors that are actively editing the document).
 
 
  **Important**  Documents can only be co authored on a server that supports the File Synchronization via SOAP over HTTP protocol, such as Microsoft SharePoint Server 2010.
@@ -21,7 +21,7 @@ Represents a single co author in the document. The  **CoAuthor** object is a mem
 
 ## Remarks
 
-Use  **CoAuthors** ( _Index_ ), where _Index_ is the index number to return a single **CoAuthor** object.
+Use **CoAuthors** ( _Index_ ), where _Index_ is the index number to return a single **CoAuthor** object.
 
 
  **Note**  When a new co author begins to edit the document, it can take up to one minute or longer for the co author to appear in the document.

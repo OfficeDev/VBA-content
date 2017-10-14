@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.Name Property (Access)
 
-You can use the  **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
+You can use the **Name** property to specify or determine the string expression that identifies the name of an object. Read/write **String**.
 
 
 ## Syntax

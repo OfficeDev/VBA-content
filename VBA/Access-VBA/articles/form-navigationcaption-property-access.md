@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.NavigationCaption Property (Access)
 
-Gets or sets the text that appears to the left of the form's navigation buttons. Read/write  **String**.
+Gets or sets the text that appears to the left of the form's navigation buttons. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the text that appears to the left of the form's navigation buttons.
 
 ## Remarks
 
-Although  **Record:** appears to the left of the navigation buttons by default, the **NavigationCaption** property is blank until it's explicitly specified.
+Although **Record:** appears to the left of the navigation buttons by default, the **NavigationCaption** property is blank until it's explicitly specified.
 
 
 ## See also

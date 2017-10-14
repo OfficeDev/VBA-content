@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLParts.PartAfterAdd Event (Office)
 
-Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts** collection.
+Occurs just after a **CustomXMLPart** object is added to the **CustomXMLParts** collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts**
 
 ## Example
 
-The following example displays the XML contents of a part after it has been added to a  **CustomXMLParts** collection.
+The following example displays the XML contents of a part after it has been added to a **CustomXMLParts** collection.
 
 
 ```

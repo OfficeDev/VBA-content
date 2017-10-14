@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspace.Parent Property (Office)
 
-Gets the  **Parent** object for the **SharedWorkspace** object. Read-only.
+Gets the **Parent** object for the **SharedWorkspace** object. Read-only.
 
 
  **Note**  Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.

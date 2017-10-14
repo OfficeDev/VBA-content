@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextColumn.Width Property (Word)
 
-Returns or sets the width, in points, of the specified text columns. Read/write  **Long** .
+Returns or sets the width, in points, of the specified text columns. Read/write **Long** .
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Returns or sets the width, in points, of the specified text columns. Read/write 
 
 ## Example
 
-This example formats the section that includes the selection as three columns. The  **For Each** loop is used to display the width of each column in the **TextColumns** collection.
+This example formats the section that includes the selection as three columns. The **For Each** loop is used to display the width of each column in the **TextColumns** collection.
 
 
 ```vb

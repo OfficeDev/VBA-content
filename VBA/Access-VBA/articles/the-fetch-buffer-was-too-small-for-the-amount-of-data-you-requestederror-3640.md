@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-When performing a  **GetRows** or **GetRowsEx** method the fetch buffer was too small to contain the specified rows.
+When performing a **GetRows** or **GetRowsEx** method the fetch buffer was too small to contain the specified rows.
 
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

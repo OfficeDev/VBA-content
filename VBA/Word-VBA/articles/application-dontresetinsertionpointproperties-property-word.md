@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DontResetInsertionPointProperties Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word maintains the formatting properties of the text at that position of the Insertion Point after running other code. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word maintains the formatting properties of the text at that position of the Insertion Point after running other code. Read/write.
 
 
 ## Syntax

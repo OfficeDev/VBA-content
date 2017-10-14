@@ -15,7 +15,7 @@ The syntax for declaring [variables](vbe-glossary.md) outside a **Type...End Typ
 
 
 
-- You tried to declare a variable outside a  **Type...End Type** block or outside a statement. When declaring a variable with an **As** clause outside a **Type...End Type** block, use one of the declaration statements, **Dim**, **ReDim**, **Static**, **Public**, or **Private**. For example, the first declaration of `MyVar` in the following code generates this error; the second and third declarations of `MyVar` are valid:
+- You tried to declare a variable outside a **Type...End Type** block or outside a statement. When declaring a variable with an **As** clause outside a **Type...End Type** block, use one of the declaration statements, **Dim**, **ReDim**, **Static**, **Public**, or **Private**. For example, the first declaration of `MyVar` in the following code generates this error; the second and third declarations of `MyVar` are valid:
     
 ```vb
 MyVar As Double ' Invalid declaration syntax. 
@@ -31,7 +31,7 @@ End Type ' because it's inside a Type block.
 
     
     
-- You used an  **End Type** statement without a corresponding **Type** statement. Check for an unmatched **End Type**, and either precede its block with a **Type** statement, or delete the **End Type** statement if it isn't needed.
+- You used an **End Type** statement without a corresponding **Type** statement. Check for an unmatched **End Type**, and either precede its block with a **Type** statement, or delete the **End Type** statement if it isn't needed.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

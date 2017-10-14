@@ -25,7 +25,7 @@ Determines whether specified slide show loops continuously until the user presse
 
 ## Remarks
 
-The value of the  **LoopUntilStopped** property can be one of these **MsoTriState** constants.
+The value of the **LoopUntilStopped** property can be one of these **MsoTriState** constants.
 
 
 

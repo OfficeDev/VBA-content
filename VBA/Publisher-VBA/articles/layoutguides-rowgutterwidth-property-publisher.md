@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LayoutGuides.RowGutterWidth Property (Publisher)
 
-Returns or sets the width of the row gutters that are used by the  **LayoutGuides** object to aid in the process of laying out design elements. Read/write **Single**.
+Returns or sets the width of the row gutters that are used by the **LayoutGuides** object to aid in the process of laying out design elements. Read/write **Single**.
 
 
 ## Syntax
 
  _expression_. **RowGutterWidth**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_A variable that represents a **LayoutGuides** object.
 
 
 ### Return Value

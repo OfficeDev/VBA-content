@@ -41,9 +41,9 @@ Double
 
 
 
-- If x is nonnumeric, the  **GammaLn_Precise** method generates an error.
+- If x is nonnumeric, the **GammaLn_Precise** method generates an error.
     
-- If x ? 0, the  **GammaLn_Precise** method generates an error.
+- If x ? 0, the **GammaLn_Precise** method generates an error.
     
 - The number e raised to the GAMMALN(i) power, where i is an integer, returns the same result as (i - 1)!.
     

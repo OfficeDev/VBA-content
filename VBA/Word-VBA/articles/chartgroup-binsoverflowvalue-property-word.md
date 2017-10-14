@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.BinsOverflowValue Property (Word)
 
-If an [BinsOverflowEnabled](http://msdn.microsoft.com/library/3af8d552-94e1-6f15-df2b-38fb7d3a0be1%28Office.15%29.aspx) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
+If an [BinsOverflowEnabled](http://msdn.microsoft.com/library/3af8d552-94e1-6f15-df2b-38fb7d3a0be1%28Office.15%29.aspx) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.
 
 
 ## Syntax

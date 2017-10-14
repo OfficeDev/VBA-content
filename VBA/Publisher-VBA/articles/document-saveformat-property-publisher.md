@@ -20,7 +20,7 @@ Indicates the file format of the specified document. Read-only.
 
  _expression_. **SaveFormat**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbFileFormat
 
 ## Remarks
 
-The  **SaveFormat** property value can be one of the **[PbFileFormat](pbfileformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **SaveFormat** property value can be one of the **[PbFileFormat](pbfileformat-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

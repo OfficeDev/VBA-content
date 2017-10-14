@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DDEInitiate Method (Access)
 
-You can use the  **DDEInitiate** function to begin a dynamic data exchange (DDE) conversation with another application. The **DDEInitiate** function opens a DDE channel for transfer of data between a DDE server and client application.
+You can use the **DDEInitiate** function to begin a dynamic data exchange (DDE) conversation with another application. The **DDEInitiate** function opens a DDE channel for transfer of data between a DDE server and client application.
 
 
 ## Syntax
@@ -39,16 +39,16 @@ Variant
 
 ## Remarks
 
-For example, if you wish to transfer data from a Microsoft Excel spreadsheet to a Microsoft Access database, you can use the  **DDEInitiate** function to open a channel between the two applications. In this example, Microsoft Access acts as the client application and Microsoft Excel acts as the server application.
+For example, if you wish to transfer data from a Microsoft Excel spreadsheet to a Microsoft Access database, you can use the **DDEInitiate** function to open a channel between the two applications. In this example, Microsoft Access acts as the client application and Microsoft Excel acts as the server application.
 
-If successful, the  **DDEInitiate** function begins a DDE conversation with the application and topic specified by the _application_ and _topic_ arguments, and then returns a **Long** integer value. This return value represents a unique channel number identifying a channel through which data transfer can take place. This channel number is subsequently used with other DDE functions and statements.
+If successful, the **DDEInitiate** function begins a DDE conversation with the application and topic specified by the _application_ and _topic_ arguments, and then returns a **Long** integer value. This return value represents a unique channel number identifying a channel through which data transfer can take place. This channel number is subsequently used with other DDE functions and statements.
 
 If the application isn't already running or if it's running but doesn't recognize the  _topic_ argument or doesn't support DDE, the **DDEInitiate** function returns a run-time error.
 
 The value of the  _topic_ argument depends on the application specified by the _application_ argument. For applications that use documents or data files, valid topic names often include the names of those files.
 
 
- **Note**  The maximum number of channels that can be open simultaneously is determined by Microsoft Windows and your computer's memory and resources. If you aren't using a channel, you should conserve resources by terminating it with a  **DDETerminate** or **DDETerminateAll** statement.
+ **Note**  The maximum number of channels that can be open simultaneously is determined by Microsoft Windows and your computer's memory and resources. If you aren't using a channel, you should conserve resources by terminating it with a **DDETerminate** or **DDETerminateAll** statement.
 
 If you need to manipulate another application's objects from Microsoft Access, you may want to consider using Automation.
 

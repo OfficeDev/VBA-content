@@ -20,7 +20,7 @@ Increases the magnification of the specified view.
 
  _expression_. **ZoomIn**
 
- _expression_A variable that represents a  **View** object.
+ _expression_A variable that represents a **View** object.
 
 
 ## Example

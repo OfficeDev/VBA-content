@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.Walls Property (Project)
-Gets an  **Office.IMsoWalls** object that represents the walls of a 3-D chart. Read-only **IMsoWalls**.
+Gets an **Office.IMsoWalls** object that represents the walls of a 3-D chart. Read-only **IMsoWalls**.
 
 ## Syntax
 
@@ -22,7 +22,7 @@ Gets an  **Office.IMsoWalls** object that represents the walls of a 3-D chart. R
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _fBackWall_|Optional|**Boolean**|Default value =  **True**. The  _fBackWall_ parameter has no effect in Project.|
+| _fBackWall_|Optional|**Boolean**|Default value = **True**. The  _fBackWall_ parameter has no effect in Project.|
 
 ## Example
 

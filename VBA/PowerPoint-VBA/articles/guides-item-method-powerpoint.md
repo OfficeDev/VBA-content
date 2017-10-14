@@ -27,7 +27,7 @@ Returns a [Guide](guide-object-powerpoint.md) object from the collection.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **Guide** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **Guide** object in the collection to be returned.|
 | _Index_|Required|INT||
 
 ### Return value

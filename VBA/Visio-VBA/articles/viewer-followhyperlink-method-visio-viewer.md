@@ -15,9 +15,9 @@ Follows the hyperlink at the specified index in the specified shape in Microsoft
 
 ## Syntax
 
- _expression_. **FollowHyperlink**( **_ShapeIndex_**,  **_HyperlinkIndex_**)
+ _expression_. **FollowHyperlink**( **_ShapeIndex_**, **_HyperlinkIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -36,7 +36,7 @@ Nothing
 
 ## Remarks
 
-The collection of hyperlinks is one-based, so the first hyperlink in the collection is at index position 1. If you pass 0 for HyperlinkIndex, Visio Viewer navigates to the default hyperlink for the shape, as set in the  **Hyperlinks** dialog box ( **Insert** menu) in the current Visio document.
+The collection of hyperlinks is one-based, so the first hyperlink in the collection is at index position 1. If you pass 0 for HyperlinkIndex, Visio Viewer navigates to the default hyperlink for the shape, as set in the **Hyperlinks** dialog box ( **Insert** menu) in the current Visio document.
 
 
 ## Example

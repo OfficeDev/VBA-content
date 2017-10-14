@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 
  
 
-Represents an account profile in Project Professional. The  **Profile** object is a member of the **[Profiles](profiles-object-project.md)** collection.
+Represents an account profile in Project Professional. The **Profile** object is a member of the **[Profiles](profiles-object-project.md)** collection.
  
-If the second account profile is a Project Server account, the following statement returns the value 1, which is the value of the  **pjServerProfile** constant in the **[PjProfileType](pjprofiletype-enumeration-project.md)** enumeration.
+If the second account profile is a Project Server account, the following statement returns the value 1, which is the value of the **pjServerProfile** constant in the **[PjProfileType](pjprofiletype-enumeration-project.md)** enumeration.
  
 
 
@@ -27,7 +27,7 @@ Debug.Print Profiles(2).Type
 
 ## Remarks
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles defined in Project Professional.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles defined in Project Professional.
  
 
  

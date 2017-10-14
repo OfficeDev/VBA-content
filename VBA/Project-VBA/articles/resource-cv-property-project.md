@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.CV Property (Project)
 
-Gets the cost variance for a  **Resource**. Read-only **Variant**.
+Gets the cost variance for a **Resource**. Read-only **Variant**.
 
 
 ## Syntax

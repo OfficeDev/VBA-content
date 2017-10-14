@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlicerCacheLevels.Item Property (Excel)
 
-Returns the specified  **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object from the collection, or if no level is specified, returns the first **SlicerCacheLevel** object in the collection.
+Returns the specified **[SlicerCacheLevel](slicercachelevel-object-excel.md)** object from the collection, or if no level is specified, returns the first **SlicerCacheLevel** object in the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns the specified  **[SlicerCacheLevel](slicercachelevel-object-excel.md)** 
 
 ## Example
 
-The following example retrieves a  **SlicerCacheLevel** object that represents the Country level of the Customer Geography hierarchy from the **SlicerCacheLevel** collection of the Country slicer.
+The following example retrieves a **SlicerCacheLevel** object that represents the Country level of the Customer Geography hierarchy from the **SlicerCacheLevel** collection of the Country slicer.
 
 
 ```vb

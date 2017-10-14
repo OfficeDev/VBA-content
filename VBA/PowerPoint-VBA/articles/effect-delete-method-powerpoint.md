@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Effect.Delete Method (PowerPoint)
 
-Deletes the specified  **Effect** object.
+Deletes the specified **Effect** object.
 
 
 ## Syntax

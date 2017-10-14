@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLMapping.IsMapped Property (Word)
 
-Returns a  **Boolean** that represents whether the content control in the document is mapped to an XML node in the document's XML data store. Read-only.
+Returns a **Boolean** that represents whether the content control in the document is mapped to an XML node in the document's XML data store. Read-only.
 
 
 ## Syntax

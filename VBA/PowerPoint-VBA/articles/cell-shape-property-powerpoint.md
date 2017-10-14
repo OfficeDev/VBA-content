@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Shape Property (PowerPoint)
 
-Returns a  **[Shape](shape-object-powerpoint.md)** object that represents a shape in a table cell. Read-only.
+Returns a **[Shape](shape-object-powerpoint.md)** object that represents a shape in a table cell. Read-only.
 
 
 ## Syntax

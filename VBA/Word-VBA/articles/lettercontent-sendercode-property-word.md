@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.SenderCode Property (Word)
 
-Returns or sets the sender code. Not used in the U.S. English version of Microsoft Word. Read/write  **String** .
+Returns or sets the sender code. Not used in the U.S. English version of Microsoft Word. Read/write **String** .
 
 
 ## Syntax

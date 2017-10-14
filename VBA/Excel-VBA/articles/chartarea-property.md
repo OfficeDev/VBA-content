@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartArea Property
 
-Returns a  **[ChartArea](chartarea-object.md)** object that represents the complete chart area for the chart. Read-only.
+Returns a **[ChartArea](chartarea-object.md)** object that represents the complete chart area for the chart. Read-only.
 
 
 ## Example

@@ -20,6 +20,6 @@ Removes the specified search criteria in a find or replace operation.
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 

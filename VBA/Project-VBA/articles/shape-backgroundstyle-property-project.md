@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.BackgroundStyle Property (Project)
-Gets or sets the background style. Read/write  **MsoBackgroundStyleIndex**.
+Gets or sets the background style. Read/write **MsoBackgroundStyleIndex**.
 
 ## Syntax
 

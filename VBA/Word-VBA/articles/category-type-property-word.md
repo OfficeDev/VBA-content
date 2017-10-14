@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Category.Type Property (Word)
 
-Returns a  **[BuildingBlockType](buildingblocktype-object-word.md)** object that represents the type of building block for a building block category. Read-only.
+Returns a **[BuildingBlockType](buildingblocktype-object-word.md)** object that represents the type of building block for a building block category. Read-only.
 
 
 ## Syntax

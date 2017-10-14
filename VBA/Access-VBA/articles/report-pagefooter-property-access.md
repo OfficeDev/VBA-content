@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.PageFooter Property (Access)
 
-You can use the  **PageFooter** property to specify whether a report's page footer is printed on the same page as a report footer. Read/write **Byte**.
+You can use the **PageFooter** property to specify whether a report's page footer is printed on the same page as a report footer. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **PageFooter** property to specify whether a report's page foot
 
 ## Remarks
 
-The  **PageFooter** property use the following settings.
+The **PageFooter** property use the following settings.
 
 
 
@@ -35,7 +35,7 @@ The  **PageFooter** property use the following settings.
 |Not With Rpt Hdr|1|The page footer isn't printed on the same page as the report header.|
 |Not With Rpt Ftr|2|The page footer isn't printed on the same page as the report footer. Microsoft Access prints the report footer on a new page.|
 |Not With Rpt Hdr/Ftr|3|The page footer isn't printed on a page that has either a report header or a report footer. Microsoft Access prints the report footer on a new page.|
-You can set the  **PageFooter** property only in report Design view.
+You can set the **PageFooter** property only in report Design view.
 
 Microsoft Access normally prints report page footers on every page in a report, including the first and last.
 
@@ -45,7 +45,7 @@ Microsoft Access normally prints report page footers on every page in a report, 
 
 ## Example
 
-The following example sets the  **PageFooter** property for a report to Not With Rpt Hdr. To run this example, type the following line in the Debug window for a report named Report1.
+The following example sets the **PageFooter** property for a report to Not With Rpt Hdr. To run this example, type the following line in the Debug window for a report named Report1.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.HoverForeThemeColorIndex Property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **HoverForeColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **HoverForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
 ## Remarks
 
-The  **HoverForeThemeColorIndex** property uses one of the values listed in the following table.
+The **HoverForeThemeColorIndex** property uses one of the values listed in the following table.
 
 
 
@@ -43,7 +43,7 @@ The  **HoverForeThemeColorIndex** property uses one of the values listed in the 
 |9|Accent 6|
 |10|Hyperlink|
 |11|Followed Hyperlink|
-If no theme is applied, the  **HoverThemeColorIndex** property contains -1.
+If no theme is applied, the **HoverThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 

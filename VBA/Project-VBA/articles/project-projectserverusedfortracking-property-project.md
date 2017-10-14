@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-By default, the  **ProjectServerUsedForTracking** property is set to **True** for all new projects.
+By default, the **ProjectServerUsedForTracking** property is set to **True** for all new projects.
 
 

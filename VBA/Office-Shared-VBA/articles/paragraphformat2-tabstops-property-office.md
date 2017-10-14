@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat2.TabStops Property (Office)
 
-Gets a  **TabStops2** collection that represents all the custom tab stops for the specified paragraphs. Read-only.
+Gets a **TabStops2** collection that represents all the custom tab stops for the specified paragraphs. Read-only.
 
 
 ## Syntax

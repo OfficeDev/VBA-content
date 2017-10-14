@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.PresetGradientType Property (Publisher)
 
-Returns an  **MsoPresetGradientType** constant that represents the preset gradient type for the specified fill. Read-only.
+Returns an **MsoPresetGradientType** constant that represents the preset gradient type for the specified fill. Read-only.
 
 
 ## Syntax
 
  _expression_. **PresetGradientType**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoPresetGradientType
 
 ## Remarks
 
-The  **PresetGradientType** property value can be one of the ** [MsoPresetGradientType](http://msdn.microsoft.com/library/d0ee19e7-bdd3-3102-61b4-dbb17d5c0363%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **PresetGradientType** property value can be one of the ** [MsoPresetGradientType](http://msdn.microsoft.com/library/d0ee19e7-bdd3-3102-61b4-dbb17d5c0363%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
-Use the  **[PresetGradient](fillformat-presetgradient-method-publisher.md)** method to set the preset gradient type for the fill.
+Use the **[PresetGradient](fillformat-presetgradient-method-publisher.md)** method to set the preset gradient type for the fill.
 
 
 ## Example

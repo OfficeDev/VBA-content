@@ -25,14 +25,14 @@ Gets the latest date that a resource is available for work on the project, as sp
 
 ## Remarks
 
-You can set availability information on the  **General** tab of the **Resource Information** dialog box in the **Resource Availability** grid. The current row is the row in which the date range specified by the **Available From** and **Available To** columns includes the current date.
+You can set availability information on the **General** tab of the **Resource Information** dialog box in the **Resource Availability** grid. The current row is the row in which the date range specified by the **Available From** and **Available To** columns includes the current date.
 
-The  **AvailableTo** property does not return any meaningful information for material resources.
+The **AvailableTo** property does not return any meaningful information for material resources.
 
 
 ## Example
 
-The following line of code prints the latest date that the resource is available, as of the current date. If the availability period for the current date is not defined, the code prints the date before the next nearest  **Available From** date. If no subsequent availability dates are defined, the code prints "NA".
+The following line of code prints the latest date that the resource is available, as of the current date. If the availability period for the current date is not defined, the code prints the date before the next nearest **Available From** date. If no subsequent availability dates are defined, the code prints "NA".
 
 
 ```vb

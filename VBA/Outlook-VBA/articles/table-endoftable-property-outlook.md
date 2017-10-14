@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.EndOfTable Property (Outlook)
 
-Returns a  **Boolean** that indicates whether the current row is positioned after the last row in the **[Table](table-object-outlook.md)** object. Read-only.
+Returns a **Boolean** that indicates whether the current row is positioned after the last row in the **[Table](table-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,16 +25,16 @@ Returns a  **Boolean** that indicates whether the current row is positioned afte
 
 ## Remarks
 
-When you open a  **Table** using **[Folder.GetTable](folder-gettable-method-outlook.md)** , **[Search.GetTable](search-gettable-method-outlook.md)** , or **[Table.Restrict](table-restrict-method-outlook.md)** , the value of **EndOfTable** depends on the number of rows in the **Table** . If there are no rows, **EndOfTable** returns **True**. If there are rows,  **EndOfTable** returns **False** until the cursor moves beyond the last row in the **Table**. 
+When you open a **Table** using **[Folder.GetTable](folder-gettable-method-outlook.md)** , **[Search.GetTable](search-gettable-method-outlook.md)** , or **[Table.Restrict](table-restrict-method-outlook.md)** , the value of **EndOfTable** depends on the number of rows in the **Table** . If there are no rows, **EndOfTable** returns **True**. If there are rows, **EndOfTable** returns **False** until the cursor moves beyond the last row in the **Table**. 
 
-The  **Table** has two virtual **Null** rows, one before the first row and one after the last row in the **Table** . Each call to **[Table.GetNextRow](table-getnextrow-method-outlook.md)** moves the current row to the next row in the **Table** and returns a **[Row](row-object-outlook.md)** object that represents the current row.
+The **Table** has two virtual **Null** rows, one before the first row and one after the last row in the **Table** . Each call to **[Table.GetNextRow](table-getnextrow-method-outlook.md)** moves the current row to the next row in the **Table** and returns a **[Row](row-object-outlook.md)** object that represents the current row.
 
-The  **EndOfTable** property returns **True** if the current row is after the last row and **False** if the current row is on or before the last row.
+The **EndOfTable** property returns **True** if the current row is after the last row and **False** if the current row is on or before the last row.
 
 
 ## Example
 
-The following code sample applies a Jet filter on items in the Inbox to obtain a  **Table** of items that have a **LastModificationTime** greater than November 1, 2005. It then uses the **EndOfTable** property to enumerate the items in the **Table** and print the values of the default properties for each item in the **Table** .
+The following code sample applies a Jet filter on items in the Inbox to obtain a **Table** of items that have a **LastModificationTime** greater than November 1, 2005. It then uses the **EndOfTable** property to enumerate the items in the **Table** and print the values of the default properties for each item in the **Table** .
 
 
 ```vb

@@ -38,6 +38,6 @@ Deprecated in Project. Shows an on-screen preview of a printed report.
 
 ## Remarks
 
-In Project, the  **ReportPrintPreview** method returns error 1100, "The method is not available in this situation." In Project, if you execute the **ReportPrintPreview** method with no argument, it displays the **Custom Reports** dialog box.
+In Project, the **ReportPrintPreview** method returns error 1100, "The method is not available in this situation." In Project, if you execute the **ReportPrintPreview** method with no argument, it displays the **Custom Reports** dialog box.
 
 

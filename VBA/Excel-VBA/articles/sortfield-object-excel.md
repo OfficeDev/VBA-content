@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # SortField Object (Excel)
 
-The  **SortField** object contains all the sort information for the **Worksheet**, **ListObject**, and **AutoFilter** objects.
+The **SortField** object contains all the sort information for the **Worksheet**, **ListObject**, and **AutoFilter** objects.
 
 
 ## Remarks
 
-Developers can use the  **BeforeSort** event to override Excel's default behavior and put their own sort algorithm into the application.
+Developers can use the **BeforeSort** event to override Excel's default behavior and put their own sort algorithm into the application.
 
 
 ## Methods

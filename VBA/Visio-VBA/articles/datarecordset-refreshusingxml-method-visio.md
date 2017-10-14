@@ -43,20 +43,20 @@ Nothing
 
 For the XMLString parameter, pass an XML string that conforms to the ADO classic XML schema and that describes the data you want to import. A sample XML string is shown in the example later in this topic. 
 
-The data in the XML string you pass to the  **RefreshUsingXML** method should be structured in a manner similar to that of the data in the data recordset you want to update. At a minimum, the primary key columns should be the same in both sets of data. The _primary key_ identifies the name of the data column or columns that contain unique identifiers for each row. The value in the primary key column for each row uniquely identifies that row in the data recordset.
+The data in the XML string you pass to the **RefreshUsingXML** method should be structured in a manner similar to that of the data in the data recordset you want to update. At a minimum, the primary key columns should be the same in both sets of data. The _primary key_ identifies the name of the data column or columns that contain unique identifiers for each row. The value in the primary key column for each row uniquely identifies that row in the data recordset.
 
 When you create a data recordset, Microsoft Visio assigns row IDs to all the rows in the recordset based on the existing order of the rows in the data source. 
 
-If the XML string you pass to the  **RefreshUsingXML** method contains a column consisting of Visio row IDs (as it would, for example, if you exported it from Visio by getting the **[DataAsXML ](datarecordset-dataasxml-property-visio.md)** property value of the data recordset), the **RefreshUsingXML** method attempts to validate the row IDs in the string. If the method finds the row IDs to be valid, it reuses them in the updated data recordset. If it finds them to be invalid, it returns an error.
+If the XML string you pass to the **RefreshUsingXML** method contains a column consisting of Visio row IDs (as it would, for example, if you exported it from Visio by getting the **[DataAsXML ](datarecordset-dataasxml-property-visio.md)** property value of the data recordset), the **RefreshUsingXML** method attempts to validate the row IDs in the string. If the method finds the row IDs to be valid, it reuses them in the updated data recordset. If it finds them to be invalid, it returns an error.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **RefreshUsingXML** method to update an existing data recordset with data contained in an ADO classic XML string.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the **RefreshUsingXML** method to update an existing data recordset with data contained in an ADO classic XML string.
 
  A sample XML string is shown here. Before running this macro, open a new Visio drawing and run the macro in the **[DataRecordsets.AddFromXML](datarecordsets-addfromxml-method-visio.md)** method topic.
 
-When you pass it to the  **RefreshUsingXML** method, this string will update the data recordset that the **AddFromXML** method created, changing the city names.
+When you pass it to the **RefreshUsingXML** method, this string will update the data recordset that the **AddFromXML** method created, changing the city names.
 
 
 
@@ -82,7 +82,7 @@ rs:number='2' rs:nullable='true' rs:maydefer='true' rs:write='true'>
 </xml>
 ```
 
-In the following sample code, we pass the  **RefreshUsingXML** method the name of an XML string containing the updated data.
+In the following sample code, we pass the **RefreshUsingXML** method the name of an XML string containing the updated data.
 
 
 

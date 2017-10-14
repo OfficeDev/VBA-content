@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Hyperlink Property (Excel)
 
-Returns a  **[Hyperlink](hyperlink-object-excel.md)** object that represents the hyperlink for the shape.
+Returns a **[Hyperlink](hyperlink-object-excel.md)** object that represents the hyperlink for the shape.
 
 
 ## Syntax

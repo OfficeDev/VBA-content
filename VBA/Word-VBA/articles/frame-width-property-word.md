@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.Width Property (Word)
 
-Returns or sets the width (in points) of the frame, in points. Read/write  **Long** .
+Returns or sets the width (in points) of the frame, in points. Read/write **Long** .
 
 
 ## Syntax

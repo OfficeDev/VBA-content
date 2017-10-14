@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.MenuBar Property (Access)
 
-Specifies a custom menu to display for a form. Read/write  **String**.
+Specifies a custom menu to display for a form. Read/write **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Specifies a custom menu to display for a form. Read/write  **String**.
 
 ## Remarks
 
-When opening a form in Access that is part of a database that was created in an earlier version of Microsoft Access, the specified menu bar will be displayed differently depending on the curent settings of the  **AllowFullMenus** and **AllowBuiltInToolbars** properties. If the **AllowFullMenus** and **AllowBuiltInToolbars** properties are set to False, the specified menu bar will replace the ribbon as the default set of commands available to the user. If the **AllowFullMenus** or **AllowBuiltInToolbars** property is set to **True**, then the specified menu bar is displayed on the ribbon **Add-Ins** tab.
+When opening a form in Access that is part of a database that was created in an earlier version of Microsoft Access, the specified menu bar will be displayed differently depending on the curent settings of the **AllowFullMenus** and **AllowBuiltInToolbars** properties. If the **AllowFullMenus** and **AllowBuiltInToolbars** properties are set to False, the specified menu bar will replace the ribbon as the default set of commands available to the user. If the **AllowFullMenus** or **AllowBuiltInToolbars** property is set to **True**, then the specified menu bar is displayed on the ribbon **Add-Ins** tab.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.MarkerEvent Event (Visio)
 
-Caused by calling the  **QueueMarkerEvent** method.
+Caused by calling the **QueueMarkerEvent** method.
 
 
 ## Syntax
@@ -28,17 +28,17 @@ Private Sub  _expression_ _**MarkerEvent**( **_ByVal app As [IVAPPLICATION]_** ,
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The active instance of Microsoft Visio.|
 | _SequenceNum_|Required| **Long**|The ordinal position of this event with respect to past events.|
-| _ContextString_|Required| **String**|Context string passed by the  **QueueMarkerEvent** method.|
+| _ContextString_|Required| **String**|Context string passed by the **QueueMarkerEvent** method.|
 
 ## Remarks
 
-Unlike other events that Visio fires, the  **MarkerEvent** event is fired by a client program. A client program receives the **MarkerEvent** event only if the client program called the **QueueMarkerEvent** method.
+Unlike other events that Visio fires, the **MarkerEvent** event is fired by a client program. A client program receives the **MarkerEvent** event only if the client program called the **QueueMarkerEvent** method.
 
-By using the  **MarkerEvent** event in conjunction with the **QueueMarkerEvent** method, a client program can queue an event to itself. The client program receives the **MarkerEvent** event after Visio fires all the events present in its event queue at the time of the **QueueMarkerEvent** call.
+By using the **MarkerEvent** event in conjunction with the **QueueMarkerEvent** method, a client program can queue an event to itself. The client program receives the **MarkerEvent** event after Visio fires all the events present in its event queue at the time of the **QueueMarkerEvent** call.
 
-The  **MarkerEvent** event passes both the context string that was passed by the **QueueMarkerEvent** method and the sequence number of the **MarkerEvent** event to the **MarkerEvent** event handler. Either of these values can be used to correlate **QueueMarkerEvent** calls with **MarkerEvent** events. In this way, a client program can distinguish events it caused from those it did not cause.
+The **MarkerEvent** event passes both the context string that was passed by the **QueueMarkerEvent** method and the sequence number of the **MarkerEvent** event to the **MarkerEvent** event handler. Either of these values can be used to correlate **QueueMarkerEvent** calls with **MarkerEvent** events. In this way, a client program can distinguish events it caused from those it did not cause.
 
-For example, a client program that changes the values of Visio cells may only want to respond to the  **CellChanged** events that it did not cause. The client program can first call the **QueueMarkerEvent** method and pass a context string for later use to bracket the scope of its processing:
+For example, a client program that changes the values of Visio cells may only want to respond to the **CellChanged** events that it did not cause. The client program can first call the **QueueMarkerEvent** method and pass a context string for later use to bracket the scope of its processing:
 
 
 
@@ -51,7 +51,7 @@ vsoObject.QueueMarkerEvent "ScopeEnd"
 
 ```
 
-Then, in the  **MarkerEvent** event handler, the client program could use the context string passed to the **QueueMarkerEvent** method to identify the **CellChanged** events that it caused:
+Then, in the **MarkerEvent** event handler, the client program could use the context string passed to the **QueueMarkerEvent** method to identify the **CellChanged** events that it caused:
 
 
 
@@ -83,18 +83,18 @@ End Sub
 
 If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
-If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
+If you want to create your own **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see[Event codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
 
-If you are handling this event from a program that receives a notification, the  **MarkerEvent** event is one of one of a group of events that record extra information in the **EventInfo** property of the **Application** object.
+If you are handling this event from a program that receives a notification, the **MarkerEvent** event is one of one of a group of events that record extra information in the **EventInfo** property of the **Application** object.
 
-The  **EventInfo** property returns _ContextString_ as described above. The _varMoreInfo_ argument to **VisEventProc** will be empty.
+The **EventInfo** property returns _ContextString_ as described above. The _varMoreInfo_ argument to **VisEventProc** will be empty.
 
 
 ## Example
 
-This example shows how to use the  **MarkerEvent** event to mark an event in the event queue.
+This example shows how to use the **MarkerEvent** event to mark an event in the event queue.
 
-Paste this example code into the  **ThisDocument** code window and then run **UseMarker** . The output will be displayed in the Immediate window.
+Paste this example code into the **ThisDocument** code window and then run **UseMarker** . The output will be displayed in the Immediate window.
 
 
 

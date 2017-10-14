@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.SetTabOrder Method (Access)
 
-Resets the tab order of the controls in the specified  **Section** to their default values.
+Resets the tab order of the controls in the specified **Section** to their default values.
 
 
 ## Syntax

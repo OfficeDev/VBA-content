@@ -19,18 +19,18 @@ Represents the e-mail container (envelope) that holds the Microsoft Publisher do
 
 ## Remarks
 
-The properties of the  **EmailMergeEnvelope** object correspond to the combination of both required and optional settings in the **Merge to E-mail** dialog box in the Publisher user interface (on the **File** menu, point to **Send E-mail**, click  **Send E-mail Merge**, and then click  **Options**). 
+The properties of the **EmailMergeEnvelope** object correspond to the combination of both required and optional settings in the **Merge to E-mail** dialog box in the Publisher user interface (on the **File** menu, point to **Send E-mail**, click **Send E-mail Merge**, and then click **Options**). 
  
 
  
-Before you can use the  **Execute** method of the **[MailMerge](mailmerge-object-publisher.md)** object to send a merged e-mail, you must specify a value for the **To** property of the **EmailMergeEnvelope** object, or Publisher will return an error.
+Before you can use the **Execute** method of the **[MailMerge](mailmerge-object-publisher.md)** object to send a merged e-mail, you must specify a value for the **To** property of the **EmailMergeEnvelope** object, or Publisher will return an error.
  
 
  
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to assign some of the properties of an  **EmailMergeEnvelope** object that represents an e-mail merge and then send the resulting e-mail message, an invitation. The macro connects to a data source, assigns values to the **To** and **Subject** properties of the **EmailMergeEnvelope** object, and adds a text box containing merge fields and some additional text to the e-mail message. Then it uses the **Execute** method of the **MailMerge** object to execute the merge and send the e-mail.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to assign some of the properties of an **EmailMergeEnvelope** object that represents an e-mail merge and then send the resulting e-mail message, an invitation. The macro connects to a data source, assigns values to the **To** and **Subject** properties of the **EmailMergeEnvelope** object, and adds a text box containing merge fields and some additional text to the e-mail message. Then it uses the **Execute** method of the **MailMerge** object to execute the merge and send the e-mail.
  
 
  

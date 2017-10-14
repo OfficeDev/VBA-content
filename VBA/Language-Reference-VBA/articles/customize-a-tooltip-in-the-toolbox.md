@@ -18,7 +18,7 @@ ms.date: 06/08/2017
     
 2. Right-click.
     
-3. From the shortcut menu, choose  **Customize**. The Customize command will include the name of the control, such as "Customize Label."
+3. From the shortcut menu, choose **Customize**. The Customize command will include the name of the control, such as "Customize Label."
     
 4. Enter the new text for the ToolTip.
     

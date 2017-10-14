@@ -40,7 +40,7 @@ Selects a cell.
 
 ## Remarks
 
-Using the  **SelectCell** method without specifying any arguments retains the current cell as the active cell.
+Using the **SelectCell** method without specifying any arguments retains the current cell as the active cell.
 
 
 ## Example

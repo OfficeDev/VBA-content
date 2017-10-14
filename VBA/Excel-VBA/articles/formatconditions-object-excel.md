@@ -22,7 +22,7 @@ Represents the collection of conditional formats for a single range.
 
 For more information about conditional formats, see the [FormatCondition](formatcondition-object-excel.md) object.
 
-Use the  **FormatConditions** property to return a **FormatConditions** object. Use the **[Add](formatconditions-add-method-excel.md)** method to create a new conditional format, and use the **[Modify](formatcondition-modify-method-excel.md)** method to change an existing conditional format.
+Use the **FormatConditions** property to return a **FormatConditions** object. Use the **[Add](formatconditions-add-method-excel.md)** method to create a new conditional format, and use the **[Modify](formatcondition-modify-method-excel.md)** method to change an existing conditional format.
 
 
 ## Example

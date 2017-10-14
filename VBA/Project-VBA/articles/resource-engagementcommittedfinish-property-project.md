@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Resource.EngagementCommittedFinish Property (Project)
 
-Returns the committed finish date for the engagement. Read-only  **DateType**. Introduced in Office 2016.
+Returns the committed finish date for the engagement. Read-only **DateType**. Introduced in Office 2016.
 
 
 ## Syntax

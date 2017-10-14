@@ -25,7 +25,7 @@ Clears all nonspecific search options associated with Japanese text.
 
 ## Remarks
 
-This method sets the following properties to  **False** :
+This method sets the following properties to **False** :
 
 
 

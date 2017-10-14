@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.PathFormat Property (Word)
 
-Returns or sets the path type for the specified text frame. Read/write  **MsoPathType** .
+Returns or sets the path type for the specified text frame. Read/write **MsoPathType** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the path type for the specified text frame. Read/write  **MsoPat
 
 ## Remarks
 
-The value of the  **PathFormat** property can be one of the following **MsoPathType** constants:
+The value of the **PathFormat** property can be one of the following **MsoPathType** constants:
 
 
 - msoPathType1
@@ -42,7 +42,7 @@ The value of the  **PathFormat** property can be one of the following **MsoPathT
     
 
 
-The value  **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNone** removes any existing path.
+The value **msoPathTypeMixed** cannot be set. Setting the value **msoPathTypeNone** removes any existing path.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline3FixedCost Property (Project)
 
-Gets or sets the baseline3 fixed cost of any nonresource expense for a  **Task**. Read/write **Variant**.
+Gets or sets the baseline3 fixed cost of any nonresource expense for a **Task**. Read/write **Variant**.
 
 
 ## Syntax

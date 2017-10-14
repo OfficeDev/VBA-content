@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.Callout Property (Publisher)
 
-Returns a  **[CalloutFormat](calloutformat-object-publisher.md)** object representing the formatting of a line callout.
+Returns a **[CalloutFormat](calloutformat-object-publisher.md)** object representing the formatting of a line callout.
 
 
 ## Syntax
 
  _expression_. **Callout**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Example

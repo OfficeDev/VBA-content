@@ -18,7 +18,7 @@ Indicates the data type of a column.
 
 ## Settings and Return Values
 
-Sets or returns a  **Long** value that can be one of the[DataTypeEnum](http://msdn.microsoft.com/library/a8ab7616-552f-ed5f-ed55-95254cfb374a%28Office.15%29.aspx) constants. The default value is **adVarWChar**.
+Sets or returns a **Long** value that can be one of the[DataTypeEnum](http://msdn.microsoft.com/library/a8ab7616-552f-ed5f-ed55-95254cfb374a%28Office.15%29.aspx) constants. The default value is **adVarWChar**.
 
 
 ## Remarks

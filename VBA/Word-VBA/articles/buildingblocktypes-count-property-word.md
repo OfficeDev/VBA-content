@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlockTypes.Count Property (Word)
 
-Returns the number of items in the  **BuildingBlockTypes** collection. Read-only **Long** .
+Returns the number of items in the **BuildingBlockTypes** collection. Read-only **Long** .
 
 
 ## Syntax

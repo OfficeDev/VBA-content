@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WrapText Method (Project)
 
-Toggles the  **Wrap Text** setting in a column.
+Toggles the **Wrap Text** setting in a column.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Toggles the  **Wrap Text** setting in a column.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Column_|Optional|**Integer**|The target column identifier. If omitted, the  **WrapText** method is applied to the column containing the active cell.|
+| _Column_|Optional|**Integer**|The target column identifier. If omitted, the **WrapText** method is applied to the column containing the active cell.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Toggles the  **Wrap Text** setting in a column.
 
 ## Remarks
 
-The  **WrapText** method corresponds to the **Wrap Text** command in the option menu for a column.
+The **WrapText** method corresponds to the **Wrap Text** command in the option menu for a column.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Border Property (Excel)
 
-Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** value that represents the visibility options for the border of the object.
+Returns or sets a **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** value that represents the visibility options for the border of the object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be
 
 ## Remarks
 
-The value of this property can be set to one of the following  **MsoTriState** constants:
+The value of this property can be set to one of the following **MsoTriState** constants:
 
 
 

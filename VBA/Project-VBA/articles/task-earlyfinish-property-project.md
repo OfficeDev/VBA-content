@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.EarlyFinish Property (Project)
 
-Gets the earliest date on which a task can finish. Read-only  **Variant**.
+Gets the earliest date on which a task can finish. Read-only **Variant**.
 
 
 ## Syntax

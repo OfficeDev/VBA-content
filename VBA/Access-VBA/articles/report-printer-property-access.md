@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.Printer Property (Access)
 
-Returns or sets a  **[Printer](printer-object-access.md)** object representing the default printer on the current system. Read/write.
+Returns or sets a **[Printer](printer-object-access.md)** object representing the default printer on the current system. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[Printer](printer-object-access.md)** object representing t
 
 ## Example
 
-The following example makes the first printer in the  **[Printers](printers-object-access.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
+The following example makes the first printer in the **[Printers](printers-object-access.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
 
 
 ```vb

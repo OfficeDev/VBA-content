@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ExtrusionColor Property (PowerPoint)
 
-Returns a  **[ColorFormat](colorformat-object-powerpoint.md)** object that represents the color of the shape's extrusion. Read-only.
+Returns a **[ColorFormat](colorformat-object-powerpoint.md)** object that represents the color of the shape's extrusion. Read-only.
 
 
 ## Syntax

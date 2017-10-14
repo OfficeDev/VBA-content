@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoFormatRules.Item Method (Outlook)
 
-Returns an  **[AutoFormatRule](autoformatrule-object-outlook.md)** object from the collection.
+Returns an **[AutoFormatRule](autoformatrule-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns an  **[AutoFormatRule](autoformatrule-object-outlook.md)** object from t
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[Name](autoformatrule-name-property-outlook.md)** property value of an object in the collection.|
+| _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the **[Name](autoformatrule-name-property-outlook.md)** property value of an object in the collection.|
 
 ### Return Value
 
-An  **AutoFormatRule** object that represents the specified object.
+An **AutoFormatRule** object that represents the specified object.
 
 
 ## See also

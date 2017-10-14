@@ -32,7 +32,7 @@ This example turns on the automatic replacement of straight quotation marks with
 Options.AutoFormatAsYouTypeReplaceQuotes = True
 ```
 
-This example returns the status of the  **Straight quotes with smart quotes** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Straight quotes with smart quotes** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

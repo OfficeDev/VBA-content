@@ -29,7 +29,7 @@ Copies the preview picture from another document into the current document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _pSourceDoc_|Required| **[IVDOCUMENT]**|The  **Document** object whose preview picture you want to copy into this document.|
+| _pSourceDoc_|Required| **[IVDOCUMENT]**|The **Document** object whose preview picture you want to copy into this document.|
 
 ### Return Value
 

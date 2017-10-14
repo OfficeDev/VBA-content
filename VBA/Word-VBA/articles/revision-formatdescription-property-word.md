@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.FormatDescription Property (Word)
 
-Returns a  **String** representing a description of tracked formatting changes in a revision. Read-only.
+Returns a **String** representing a description of tracked formatting changes in a revision. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.Date Property (Word)
 
-The date and time that the tracked change was made. Read-only  **Date** .
+The date and time that the tracked change was made. Read-only **Date** .
 
 
 ## Syntax

@@ -22,7 +22,7 @@ True if the chart axes are at right angles, independent of chart rotation or ele
 
 ## Remarks
 
-If this property is  **True**, the  **[Perspective](perspective-property.md)** property is ignored.
+If this property is **True**, the **[Perspective](perspective-property.md)** property is ignored.
 
 
 ## Example

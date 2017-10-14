@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # True <keyword>
 
-The  **True**[keyword](vbe-glossary.md) has a value equal to -1.
+The **True**[keyword](vbe-glossary.md) has a value equal to -1.
 
 

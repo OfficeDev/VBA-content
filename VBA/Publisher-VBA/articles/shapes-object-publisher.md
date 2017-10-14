@@ -13,15 +13,15 @@ ms.date: 06/08/2017
 
 # Shapes Object (Publisher)
 
-A collection of  **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** objects that represent all the shapes on a page of a publication. Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
+A collection of **[Shape](http://msdn.microsoft.com/library/666cb7f0-62a8-f419-9838-007ef29506ee%28Office.15%29.aspx)** objects that represent all the shapes on a page of a publication. Each **Shape** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 
 
- **Note**  If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a  **[ShapeRange](shaperange-object-publisher.md)** collection that contains the shapes with which you want to work.
+ **Note**  If you want to work with a subset of the shapes on a document — for example, to do something to only the AutoShapes on the document or to only the selected shapes — you must construct a **[ShapeRange](shaperange-object-publisher.md)** collection that contains the shapes with which you want to work.
 
 
 ## Example
 
-Use the  **[Shapes](http://msdn.microsoft.com/library/4e48d4cf-d7b6-9099-ddee-46a79e7eb7bf%28Office.15%29.aspx)** property to return the **Shapes** collection. The following example selects all the shapes on the first page of the active publication.
+Use the **[Shapes](http://msdn.microsoft.com/library/4e48d4cf-d7b6-9099-ddee-46a79e7eb7bf%28Office.15%29.aspx)** property to return the **Shapes** collection. The following example selects all the shapes on the first page of the active publication.
 
 
 ```
@@ -31,11 +31,11 @@ End Sub
 ```
 
 
- **Note**  If you want to do something (like delete or set a property) to all the shapes in a publication at the same time, use the  **[Range](http://msdn.microsoft.com/library/f9ef5314-21f1-378f-1552-fcd4e46f841d%28Office.15%29.aspx)** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
+ **Note**  If you want to do something (like delete or set a property) to all the shapes in a publication at the same time, use the **[Range](http://msdn.microsoft.com/library/f9ef5314-21f1-378f-1552-fcd4e46f841d%28Office.15%29.aspx)** method to create a **ShapeRange** object that contains all the shapes in the **Shapes** collection, and then apply the appropriate property or method to the **ShapeRange** object.
 
 
 
-Use one of the following methods of the  **Shapes** collection: **[AddCallout](http://msdn.microsoft.com/library/bbf5f913-fcf0-b700-0c7e-9f0bdc7c6aea%28Office.15%29.aspx)**, **[AddConnector](http://msdn.microsoft.com/library/fd1ef969-7960-2555-e355-9804c86f6c01%28Office.15%29.aspx)**, **[AddCurve](http://msdn.microsoft.com/library/888a35cb-190d-4058-e0d7-a848d77ba920%28Office.15%29.aspx)**, **[AddLabel](http://msdn.microsoft.com/library/5a803aa2-d37f-6da1-7d8b-58ee2dcd8146%28Office.15%29.aspx)**, **[AddLine](http://msdn.microsoft.com/library/43df8878-5640-875f-06e0-37e1feb47b78%28Office.15%29.aspx)**, **[AddOLEObject](http://msdn.microsoft.com/library/c454f9cb-2005-5e55-80a7-6dfbe9c109e5%28Office.15%29.aspx)**, **[AddPolyline](http://msdn.microsoft.com/library/d49fb2bc-4df5-fff8-c741-2c0d35413fc5%28Office.15%29.aspx)**, **[AddShape](http://msdn.microsoft.com/library/500d8cb3-f066-fdb6-09ac-b03c7822e8bd%28Office.15%29.aspx)**, **[AddTextbox](http://msdn.microsoft.com/library/38494902-61d5-2017-819e-248b2b7bc0d1%28Office.15%29.aspx)**, or **[AddTextEffect](http://msdn.microsoft.com/library/21af82f1-d507-3c16-72df-bde1b5e00717%28Office.15%29.aspx)** to add a shape to a publication and return a **Shape** object that represents the newly created shape. The following example adds a new shape to the active publication.
+Use one of the following methods of the **Shapes** collection: **[AddCallout](http://msdn.microsoft.com/library/bbf5f913-fcf0-b700-0c7e-9f0bdc7c6aea%28Office.15%29.aspx)**, **[AddConnector](http://msdn.microsoft.com/library/fd1ef969-7960-2555-e355-9804c86f6c01%28Office.15%29.aspx)**, **[AddCurve](http://msdn.microsoft.com/library/888a35cb-190d-4058-e0d7-a848d77ba920%28Office.15%29.aspx)**, **[AddLabel](http://msdn.microsoft.com/library/5a803aa2-d37f-6da1-7d8b-58ee2dcd8146%28Office.15%29.aspx)**, **[AddLine](http://msdn.microsoft.com/library/43df8878-5640-875f-06e0-37e1feb47b78%28Office.15%29.aspx)**, **[AddOLEObject](http://msdn.microsoft.com/library/c454f9cb-2005-5e55-80a7-6dfbe9c109e5%28Office.15%29.aspx)**, **[AddPolyline](http://msdn.microsoft.com/library/d49fb2bc-4df5-fff8-c741-2c0d35413fc5%28Office.15%29.aspx)**, **[AddShape](http://msdn.microsoft.com/library/500d8cb3-f066-fdb6-09ac-b03c7822e8bd%28Office.15%29.aspx)**, **[AddTextbox](http://msdn.microsoft.com/library/38494902-61d5-2017-819e-248b2b7bc0d1%28Office.15%29.aspx)**, or **[AddTextEffect](http://msdn.microsoft.com/library/21af82f1-d507-3c16-72df-bde1b5e00717%28Office.15%29.aspx)** to add a shape to a publication and return a **Shape** object that represents the newly created shape. The following example adds a new shape to the active publication.
 
 
 
@@ -47,7 +47,7 @@ Sub AddNewShape()
 End Sub
 ```
 
-Use  **Shapes** (index), where index is the index number, to return a single **Shape** object. The following example horizontally flips shape one on the first page of the active publication.
+Use **Shapes** (index), where index is the index number, to return a single **Shape** object. The following example horizontally flips shape one on the first page of the active publication.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatCols.Add Method (Word)
 
-Creates an equation column and adds it to a matrix and returns an  **OMathMatCol** object.
+Creates an equation column and adds it to a matrix and returns an **OMathMatCol** object.
 
 
 ## Syntax

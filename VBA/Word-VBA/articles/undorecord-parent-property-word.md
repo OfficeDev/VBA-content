@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UndoRecord.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified[UndoRecord](undorecord-object-word.md) object.
+Returns an **Object** that represents the parent object of the specified[UndoRecord](undorecord-object-word.md) object.
 
 
 ## Syntax

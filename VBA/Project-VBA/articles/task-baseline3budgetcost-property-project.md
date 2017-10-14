@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline3BudgetCost Property (Project)
 
-Gets or sets the baseline3 budget cost for the rollup calculated value of all the cost resources within the project. Applies only to the project summary task. Read/write  **Variant**.
+Gets or sets the baseline3 budget cost for the rollup calculated value of all the cost resources within the project. Applies only to the project summary task. Read/write **Variant**.
 
 
 ## Syntax

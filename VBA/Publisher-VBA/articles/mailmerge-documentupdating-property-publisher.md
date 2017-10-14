@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMerge.DocumentUpdating Property (Publisher)
 
-Returns or sets a  **Boolean** indicating whether the screen is updated while mail merge code is running. Default is **True** (the screen is updated). Read/write.
+Returns or sets a **Boolean** indicating whether the screen is updated while mail merge code is running. Default is **True** (the screen is updated). Read/write.
 
 
 ## Syntax
 
  _expression_. **DocumentUpdating**
 
- _expression_A variable that represents a  **MailMerge** object.
+ _expression_A variable that represents a **MailMerge** object.
 
 
 ### Return Value

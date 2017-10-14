@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddWebControl Method (Publisher)
 
-Adds a new  **Shape** object representing a Web form control to the specified **Shapes** collection.
+Adds a new **Shape** object representing a Web form control to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddWebControl**( **_Type_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_LaunchPropertiesWindow_**)
+ _expression_. **AddWebControl**( **_Type_**, **_Left_**, **_Top_**, **_Width_**, **_Height_**, **_LaunchPropertiesWindow_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Adds a new  **Shape** object representing a Web form control to the specified **
 |Top|Required| **Variant**|The position of the top edge of the shape representing the Web form control.|
 |Width|Required| **Variant**|The width of the shape representing the Web form control. For command buttons, this parameter is ignored.|
 |Height|Required| **Variant**|The height of the shape representing the Web form control. For command buttons, this parameter is ignored.|
-|LaunchPropertiesWindow|Optional| **Boolean**|Not supported. Default is  **False**; an error occurs if this argument is set to  **True**.|
+|LaunchPropertiesWindow|Optional| **Boolean**|Not supported. Default is **False**; an error occurs if this argument is set to **True**.|
 
 ### Return Value
 
@@ -45,11 +45,11 @@ Shape
 
 For the Left, Top, Width, and Height parameters, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-When adding a hot spot to a Web control by using the  **pbWebControlHotSpot** constant, the URL is specified by the **[Hyperlink](textrange-hyperlinks-property-publisher.md)** property.
+When adding a hot spot to a Web control by using the **pbWebControlHotSpot** constant, the URL is specified by the **[Hyperlink](textrange-hyperlinks-property-publisher.md)** property.
 
  Note that the **Shape.Fill** property, which returns a **FillFormat** object, and the **Shape.Line** property, which returns a **LineFormat** object, cannot be accessed from a hot spot shape. A run-time error is returned if attempting to access these properties from a hot spot shape.
 
-The Type parameter can be one of the  **PbWebControlType** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Type parameter can be one of the **PbWebControlType** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 
@@ -80,7 +80,7 @@ Set shpCheckBox = ActiveDocument.Pages(1).Shapes.AddWebControl _
 
 ```
 
-The following example adds hot spots to a shape on page four of the active Web publication. First, a four-point star AutoShape is added to the page. Next, a hot spot is added to each arm of the star by using the  **AddWebControl** method with a Type of **pbWebControlHotSpot**. Finally, a hyperlink is added to each hot spot by using the  **Hyperlink** property of each hot spot shape.
+The following example adds hot spots to a shape on page four of the active Web publication. First, a four-point star AutoShape is added to the page. Next, a hot spot is added to each arm of the star by using the **AddWebControl** method with a Type of **pbWebControlHotSpot**. Finally, a hyperlink is added to each hot spot by using the **Hyperlink** property of each hot spot shape.
 
 
 

@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 
 # ComboBox.DropButtonStyle Property (Outlook Forms Script)
 
-Returns or sets a  **fmDropButtonStyle** value that represents the symbol displayed on the drop button in a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
+Returns or sets a **fmDropButtonStyle** value that represents the symbol displayed on the drop button in a **[ComboBox](combobox-object-outlook-forms-script.md)**. Read/write.
 
 
 ## Syntax
 
  _expression_. **DropButtonStyle**
 
- _expression_A variable that represents a  **ComboBox** object.
+ _expression_A variable that represents a **ComboBox** object.
 
 
 ## Remarks
 
-The possible values for  **DropButtonStyle** are:
+The possible values for **DropButtonStyle** are:
 
 
 

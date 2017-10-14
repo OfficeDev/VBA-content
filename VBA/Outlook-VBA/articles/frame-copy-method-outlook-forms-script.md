@@ -15,13 +15,13 @@ Copies the contents of an object to the Clipboard.
 
  _expression_. **Copy**
 
- _expression_A variable that represents a  **Frame** object.
+ _expression_A variable that represents a **Frame** object.
 
 
 ## Remarks
 
 The original content remains on the object.
 
-The actual content that is copied depends on the object. Using  **Copy** for a form, **[Frame](frame-object-outlook-forms-script.md)**, or  **[Page](page-object-outlook-forms-script.md)** copies the currently active control.
+The actual content that is copied depends on the object. Using **Copy** for a form, **[Frame](frame-object-outlook-forms-script.md)**, or **[Page](page-object-outlook-forms-script.md)** copies the currently active control.
 
 

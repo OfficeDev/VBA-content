@@ -33,7 +33,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[CustomView](customview-object-excel.md)** object contained by the collection.
+A **[CustomView](customview-object-excel.md)** object contained by the collection.
 
 
 ## Example

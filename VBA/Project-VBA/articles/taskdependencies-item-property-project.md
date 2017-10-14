@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskDependencies.Item Property (Project)
 
-Gets a single  **TaskDependency** object from the **TaskDependencies** collection. Read-only **TaskDependency**.
+Gets a single **TaskDependency** object from the **TaskDependencies** collection. Read-only **TaskDependency**.
 
 
 ## Syntax

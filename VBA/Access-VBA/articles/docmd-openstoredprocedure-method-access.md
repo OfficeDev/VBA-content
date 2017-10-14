@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.OpenStoredProcedure Method (Access)
 
-The  **OpenStoredProcedure** method carries out the OpenStoredProcedure action in Visual Basic.
+The **OpenStoredProcedure** method carries out the OpenStoredProcedure action in Visual Basic.
 
 
 ## Syntax
@@ -29,15 +29,15 @@ The  **OpenStoredProcedure** method carries out the OpenStoredProcedure action i
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ProcedureName_|Required|**Variant**|A string expression that's the valid name of a stored procedure in the current database. If you execute Visual Basic code containing the  **OpenStoredProcedure** method in a library database, Microsoft Access looks for the stored procedure with this name first in the library database, then in the current database.|
-| _View_|Optional|**AcView**|A  **[AcView](acview-enumeration-access.md)** constant that specifies the view in which the stored procedure will open. The default value is **acViewNormal**.|
-| _DataMode_|Optional|**AcOpenDataMode**|A  **[AcOpenDataMode](acopendatamode-enumeration-access.md)** constant that specifies the data entry mode for the stored procedure. The default value is **acEdit**.|
+| _ProcedureName_|Required|**Variant**|A string expression that's the valid name of a stored procedure in the current database. If you execute Visual Basic code containing the **OpenStoredProcedure** method in a library database, Microsoft Access looks for the stored procedure with this name first in the library database, then in the current database.|
+| _View_|Optional|**AcView**|A **[AcView](acview-enumeration-access.md)** constant that specifies the view in which the stored procedure will open. The default value is **acViewNormal**.|
+| _DataMode_|Optional|**AcOpenDataMode**|A **[AcOpenDataMode](acopendatamode-enumeration-access.md)** constant that specifies the data entry mode for the stored procedure. The default value is **acEdit**.|
 
 ## Remarks
 
-In a Microsoft Access project, you can use the  **OpenStoredProcedure** method to open a stored procedure in Datasheet view, stored procedure Design view, or Print Preview. This method runs the named stored procedure when opened in Datasheet view. You can select the data entry mode for the stored procedure and restrict the records that the stored procedure displays.
+In a Microsoft Access project, you can use the **OpenStoredProcedure** method to open a stored procedure in Datasheet view, stored procedure Design view, or Print Preview. This method runs the named stored procedure when opened in Datasheet view. You can select the data entry mode for the stored procedure and restrict the records that the stored procedure displays.
 
-If you don't want to display the system messages that normally appear when a stored procedure is run (indicating it's a stored procedure and showing how many records will be affected), you can use the  **SetWarnings** method to suppress the display of these messages.
+If you don't want to display the system messages that normally appear when a stored procedure is run (indicating it's a stored procedure and showing how many records will be affected), you can use the **SetWarnings** method to suppress the display of these messages.
 
 
 ## Example

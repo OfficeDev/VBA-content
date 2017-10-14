@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **UpdateProjOnSave** property returns **False** in Project and is not used. Saving a project does not update the schedule; publishing a project does update the schedule on Project Server.
+The **UpdateProjOnSave** property returns **False** in Project and is not used. Saving a project does not update the schedule; publishing a project does update the schedule on Project Server.
 
 

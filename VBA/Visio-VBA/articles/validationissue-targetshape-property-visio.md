@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationIssue.TargetShape Property (Visio)
 
-Returns the  **[Shape](shape-object-visio.md)** object that is associated with the validation issue. Read-only.
+Returns the **[Shape](shape-object-visio.md)** object that is associated with the validation issue. Read-only.
 
 
 ## Syntax

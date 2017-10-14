@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpSlideShowType Enumeration (PowerPoint)
 
-Constants that specify the type of slide show, passed to and returned by the  **ShowType** property of the **SlideShowSettings** object.
+Constants that specify the type of slide show, passed to and returned by the **ShowType** property of the **SlideShowSettings** object.
 
 
 

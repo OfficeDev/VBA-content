@@ -12,12 +12,12 @@ ms.date: 06/08/2017
 
 
 
-Represents a resource. The  **Resource** object is a member of the **[Resources](resources-object-project.md)** collection.
+Represents a resource. The **Resource** object is a member of the **[Resources](resources-object-project.md)** collection.
  **Using the Resource Object**
-Use  **Resources** ( _Index_ ), where _Index_ is the resource index number or resource name, to return a single **Resource** object. The following example lists the names of all resources in the active project.
+Use **Resources** ( _Index_ ), where _Index_ is the resource index number or resource name, to return a single **Resource** object. The following example lists the names of all resources in the active project.
  **Using the Resources Collection**
-Use the  **[Resources](http://msdn.microsoft.com/library/40744aba-2b61-2b45-133a-f1dd9c7d6add%28Office.15%29.aspx)** property to return a **Resources** collection. The following example generates the same list as the previous example, but does so by setting an object reference to `ActiveProject.Resources`and then by using  `R` where `ActiveProject.Resources` is used.
-Use the  **[Add](http://msdn.microsoft.com/library/4fb69f50-4ba6-89a4-f586-3df268ae7fd5%28Office.15%29.aspx)** method to add a **Resource** object to the **Resources** collection. The following example adds a new resource named Matilda to the active project.
+Use the **[Resources](http://msdn.microsoft.com/library/40744aba-2b61-2b45-133a-f1dd9c7d6add%28Office.15%29.aspx)** property to return a **Resources** collection. The following example generates the same list as the previous example, but does so by setting an object reference to `ActiveProject.Resources`and then by using  `R` where `ActiveProject.Resources` is used.
+Use the **[Add](http://msdn.microsoft.com/library/4fb69f50-4ba6-89a4-f586-3df268ae7fd5%28Office.15%29.aspx)** method to add a **Resource** object to the **Resources** collection. The following example adds a new resource named Matilda to the active project.
 
 ## Methods
 

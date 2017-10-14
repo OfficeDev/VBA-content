@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rectangle.RectangleType Property (Word)
 
-Returns a  **WdRectangleType** constant that represents the type for the specified rectangle.
+Returns a **WdRectangleType** constant that represents the type for the specified rectangle.
 
 
 ## Syntax

@@ -32,7 +32,7 @@ String
 
 An argument's string can be anything appropriate for the add-on. However, the arguments are packaged together with other information into a command string, which cannot exceed 127 characters. For best results, limit arguments to 50 characters.
 
-An object's  **AddOnName** property indicates the name of the add-on to which the arguments are sent.
+An object's **AddOnName** property indicates the name of the add-on to which the arguments are sent.
 
  Beginning with Visio 2002, the **AddOnName** property used in the following example cannot execute a string that contains arbitrary Microsoft Visual Basic code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move it to a procedure in a document's Visual Basic project that is called from the **AddOnName** property, as shown in the following example.
 

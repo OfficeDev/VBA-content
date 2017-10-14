@@ -18,13 +18,13 @@ Represents a note in a Notes folder.
 
 ## Remarks
 
-A  **NoteItem** is not customizable. If you open a new note, you will notice that it is not possible to place it in design time.
+A **NoteItem** is not customizable. If you open a new note, you will notice that it is not possible to place it in design time.
 
-The  **[Subject](noteitem-subject-property-outlook.md)** property of a **NoteItem** object is read-only because it is calculated from the body text of the note. Also, the **NoteItem** **[Body](noteitem-body-property-outlook.md)** can only be rich text, so the properties that correspond to HTML and Microsoft Word content do not apply. Although the **[GetInspector](noteitem-getinspector-property-outlook.md)** property will work on notes, because notes can't be customized, some of the **[Inspector](inspector-object-outlook.md)** properties, methods, and events will not apply to **NoteItem** objects.
+The **[Subject](noteitem-subject-property-outlook.md)** property of a **NoteItem** object is read-only because it is calculated from the body text of the note. Also, the **NoteItem** **[Body](noteitem-body-property-outlook.md)** can only be rich text, so the properties that correspond to HTML and Microsoft Word content do not apply. Although the **[GetInspector](noteitem-getinspector-property-outlook.md)** property will work on notes, because notes can't be customized, some of the **[Inspector](inspector-object-outlook.md)** properties, methods, and events will not apply to **NoteItem** objects.
 
-Use the  **[CreateItem](application-createitem-method-outlook.md)** method to create a **NoteItem** object that represents a new note.
+Use the **[CreateItem](application-createitem-method-outlook.md)** method to create a **NoteItem** object that represents a new note.
 
-Use  **[Items](items-item-method-outlook.md)** ( _index_ ), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
+Use **[Items](items-item-method-outlook.md)** ( _index_ ), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
 
 
 ## Example

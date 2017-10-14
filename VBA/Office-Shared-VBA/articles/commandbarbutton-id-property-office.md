@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarButton.Id Property (Office)
 
-Gets the ID for a built-in  **CommandBarButton** control. Read-only.
+Gets the ID for a built-in **CommandBarButton** control. Read-only.
 
 
 ## 
@@ -28,7 +28,7 @@ Gets the ID for a built-in  **CommandBarButton** control. Read-only.
 
 ## Remarks
 
-A control's ID determines the built-in action for that control. The value of the  **Id** property for all custom controls is 1.
+A control's ID determines the built-in action for that control. The value of the **Id** property for all custom controls is 1.
 
 
 ## Example
@@ -46,7 +46,7 @@ With ctrl
 End With
 ```
 
-The following example changes the caption of every control on the toolbar named "Standard" to the current value of the  **Id** property for that control.
+The following example changes the caption of every control on the toolbar named "Standard" to the current value of the **Id** property for that control.
 
 
 

@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-If automatic recovery is enabled (if the  **Application.AutoRecoverInterval** property is greater than 0), all documents that are open and have unsaved changes are copied into temporary files. If you do not want a document to be recovered, set its **AutoRecover** property to **False** . The **AutoRecover** property is not saved with a document and must be set each time the document opens.
+If automatic recovery is enabled (if the **Application.AutoRecoverInterval** property is greater than 0), all documents that are open and have unsaved changes are copied into temporary files. If you do not want a document to be recovered, set its **AutoRecover** property to **False** . The **AutoRecover** property is not saved with a document and must be set each time the document opens.
 
 When Microsoft Visio is launched after an abnormal termination and determines that automatic recovery was enabled, it attempts to open all files that were open at termination.
 
@@ -48,7 +48,7 @@ You must still save changes to recovered documents before Visio closes. If you d
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AutoRecover** property to disable automatic recovery for a particular document.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AutoRecover** property to disable automatic recovery for a particular document.
 
 
 ```vb

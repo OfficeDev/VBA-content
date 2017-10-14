@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MajorUnitScale Property (Excel)
 
-Returns or sets the major unit scale value for the category axis when the  **CategoryType** property is set to **xlTimeScale** . Read/write **[XlTimeUnit](xltimeunit-enumeration-excel.md)** .
+Returns or sets the major unit scale value for the category axis when the **CategoryType** property is set to **xlTimeScale** . Read/write **[XlTimeUnit](xltimeunit-enumeration-excel.md)** .
 
 
 ## Syntax

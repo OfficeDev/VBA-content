@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.ParentArg Property (Word)
 
-Returns an  **OMath** object that represents the parent, or containing, argument. Read-only.
+Returns an **OMath** object that represents the parent, or containing, argument. Read-only.
 
 
 ## Syntax

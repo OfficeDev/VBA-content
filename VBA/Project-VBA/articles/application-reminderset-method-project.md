@@ -30,7 +30,7 @@ Sets a reminder in Microsoft Outlook for the start time or finish time of the ac
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Start_|Optional|**Boolean**|**True** if the reminder is set for the start time of the active tasks. **False** if the reminder is set for the finish time. The default value is **True**.|
-| _LeadTime_|Optional|**String**|The amount of lead time for Microsoft Outlook reminders. The default value is "15m", which triggers reminders 15 minutes before the start time (Start is  **True** ) or after the finish time (Start is **False** ).|
+| _LeadTime_|Optional|**String**|The amount of lead time for Microsoft Outlook reminders. The default value is "15m", which triggers reminders 15 minutes before the start time (Start is **True** ) or after the finish time (Start is **False** ).|
 
 ### Return Value
 
@@ -39,6 +39,6 @@ Sets a reminder in Microsoft Outlook for the start time or finish time of the ac
 
 ## Remarks
 
-The  **ReminderSet** method is available only in Project Professional.
+The **ReminderSet** method is available only in Project Professional.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DrawingProperties Method (Project)
 
-Displays the  **Format Drawing** dialog box, which prompts the user to customize the active drawing object.
+Displays the **Format Drawing** dialog box, which prompts the user to customize the active drawing object.
 
 
 ## Syntax
@@ -38,8 +38,8 @@ Displays the  **Format Drawing** dialog box, which prompts the user to customize
 
 ## Remarks
 
-The  **DrawingProperties** method displays an error unless a drawing object is active.
+The **DrawingProperties** method displays an error unless a drawing object is active.
 
-The  **DrawingProperties** method has the same effect as the **Properties** command in the **Drawing** drop-down menu on the **Format** tab in the Ribbon.
+The **DrawingProperties** method has the same effect as the **Properties** command in the **Drawing** drop-down menu on the **Format** tab in the Ribbon.
 
 

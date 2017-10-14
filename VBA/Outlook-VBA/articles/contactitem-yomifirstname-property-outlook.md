@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.YomiFirstName Property (Outlook)
 
-Returns or sets a  **String** indicating the Japanese phonetic rendering (yomigana) of the first name for the contact. Read/write.
+Returns or sets a **String** indicating the Japanese phonetic rendering (yomigana) of the first name for the contact. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.Paste Method (PowerPoint)
 
-Pastes the text on the Clipboard into the specified text range, and returns a  **TextRange** object that represents the pasted text.
+Pastes the text on the Clipboard into the specified text range, and returns a **TextRange** object that represents the pasted text.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ TextRange
 
 ## Remarks
 
-Use the  **[ViewType](documentwindow-viewtype-property-powerpoint.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
+Use the **[ViewType](documentwindow-viewtype-property-powerpoint.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
 
 
 

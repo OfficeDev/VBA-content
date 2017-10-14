@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Floor Property
 
-Returns a  **[Floor](floor-object.md)** object that represents the floor of the 3-D chart. Read-only.
+Returns a **[Floor](floor-object.md)** object that represents the floor of the 3-D chart. Read-only.
 
 
 ## Example
 
-This example sets the floor color to blue. The example should be run on a 3-D chart (the  **Floor** property fails on 2-D charts).
+This example sets the floor color to blue. The example should be run on a 3-D chart (the **Floor** property fails on 2-D charts).
 
 
 ```

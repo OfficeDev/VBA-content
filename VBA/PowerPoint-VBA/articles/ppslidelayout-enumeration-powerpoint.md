@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpSlideLayout Enumeration (PowerPoint)
 
-Constants that specify the layout of the slide, passed to and returned by the  **Layout** property of the **Slide** and **SlideRange** objects.
+Constants that specify the layout of the slide, passed to and returned by the **Layout** property of the **Slide** and **SlideRange** objects.
 
 
 

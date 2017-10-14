@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # VisRuleSetFlags Enumeration (Visio)
 
-Specifies constants that define special rule-set behaviors; passed to and returned by the  **[ValidationRuleSet.RuleSetFlags](validationruleset-rulesetflags-property-visio.md)** property.
+Specifies constants that define special rule-set behaviors; passed to and returned by the **[ValidationRuleSet.RuleSetFlags](validationruleset-rulesetflags-property-visio.md)** property.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visRuleSetDefault**|0|The default rule-set property. The rule set appears in the  **Rules to Check** list (click the **Check Diagram** arrow on the **Process** tab).|
-| **visRuleSetHidden**|1|The rule set does not appear in the  **Rules to Check** list.|
+| **visRuleSetDefault**|0|The default rule-set property. The rule set appears in the **Rules to Check** list (click the **Check Diagram** arrow on the **Process** tab).|
+| **visRuleSetHidden**|1|The rule set does not appear in the **Rules to Check** list.|
 

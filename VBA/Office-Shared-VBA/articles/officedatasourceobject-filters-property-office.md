@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OfficeDataSourceObject.Filters Property (Office)
 
-Gets the filter status for a  **OfficeDataSourceObject** object. Read-only.
+Gets the filter status for a **OfficeDataSourceObject** object. Read-only.
 
 
 ## Syntax

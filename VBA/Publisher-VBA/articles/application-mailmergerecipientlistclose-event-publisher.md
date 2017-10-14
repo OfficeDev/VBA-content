@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.MailMergeRecipientListClose Event (Publisher)
 
-Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the **Mail Merge** or **E-mail Merge** task pane, click **Edit Recipient List**). Also fires when the user closes the  **Catalog Merge Product List** dialog box, which opens when the user clicks **Edit Product List** in the **Catalog Merge** task pane.
+Fires when the user closes the **Mail Merge Recipients** dialog box. (From the **Mail Merge** or **E-mail Merge** task pane, click **Edit Recipient List**). Also fires when the user closes the **Catalog Merge Product List** dialog box, which opens when the user clicks **Edit Product List** in the **Catalog Merge** task pane.
 
 
 ## Syntax
 
  _expression_. **MailMergeRecipientListClose**( **_Doc_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -33,12 +33,12 @@ Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the 
 
 ## Remarks
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+For more information about using events with the **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **MailMergeRecipientListClose** event. It displays a message notifying the user that the string described above was displayed.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the **MailMergeRecipientListClose** event. It displays a message notifying the user that the string described above was displayed.
 
 
 ```vb
@@ -47,7 +47,7 @@ Private Sub pubApplication_MailMergeRecipientListClose(ByVal Doc As Document)
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
+For this event to occur, you must place the following line of code in the **General Declarations** section of your module.
 
 
 

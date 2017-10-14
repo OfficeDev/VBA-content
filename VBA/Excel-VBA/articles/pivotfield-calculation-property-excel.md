@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.Calculation Property (Excel)
 
-Returns or sets a  **[XlPivotFieldCalculation](xlpivotfieldcalculation-enumeration-excel.md)** value that represents the type of calculation performed by the specified field. This property is valid only for data fields.
+Returns or sets a **[XlPivotFieldCalculation](xlpivotfieldcalculation-enumeration-excel.md)** value that represents the type of calculation performed by the specified field. This property is valid only for data fields.
 
 
 ## Syntax

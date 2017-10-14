@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.DefaultTabStop Property (Publisher)
 
-Returns or sets a  **Variant** corresponding to the default tab stop for all text in the active publication. Valid range is 1 to 1584 points (0.014" to 22"). Once set, numeric values are considered to be in points. **String** values may be in any unit supported by Microsoft Publisher. Point values are always returned. If values are outside the valid range, an error is returned. Read/write.
+Returns or sets a **Variant** corresponding to the default tab stop for all text in the active publication. Valid range is 1 to 1584 points (0.014" to 22"). Once set, numeric values are considered to be in points. **String** values may be in any unit supported by Microsoft Publisher. Point values are always returned. If values are outside the valid range, an error is returned. Read/write.
 
 
 ## Syntax
 
  _expression_. **DefaultTabStop**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,12 +30,12 @@ Variant
 
 ## Remarks
 
-Use the  **[InchesToPoints](application-inchestopoints-method-publisher.md)** method to convert inches to points.
+Use the **[InchesToPoints](application-inchestopoints-method-publisher.md)** method to convert inches to points.
 
 
 ## Example
 
-This example sets the  **DefaultTabStop** property to 72 points for all text in the active publication.
+This example sets the **DefaultTabStop** property to 72 points for all text in the active publication.
 
 
 ```vb

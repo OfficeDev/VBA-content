@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.WebListBox Property (Publisher)
 
-Returns the  **[WebListBox](weblistbox-object-publisher.md)** object associated with the specified shape.
+Returns the **[WebListBox](weblistbox-object-publisher.md)** object associated with the specified shape.
 
 
 ## Syntax
 
  _expression_. **WebListBox**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Return Value

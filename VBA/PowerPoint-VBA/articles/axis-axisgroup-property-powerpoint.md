@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.AxisGroup Property (PowerPoint)
 
-Returns the type of axis group. Read-only  **[XlAxisGroup](xlaxisgroup-enumeration-powerpoint.md)**.
+Returns the type of axis group. Read-only **[XlAxisGroup](xlaxisgroup-enumeration-powerpoint.md)**.
 
 
 ## Syntax

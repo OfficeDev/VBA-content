@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AboveAverage.AppliesTo Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object specifying the cell range to which the formatting rule is applied.
+Returns a **[Range](range-object-excel.md)** object specifying the cell range to which the formatting rule is applied.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFrac.Type Property (Word)
 
-Returns or sets a  **[WdOMathFracType](wdomathfractype-enumeration-word.md)** constant that represents the layout of a fraction, whether it is stacked, skewed, linear, or without a fraction bar. Read/write.
+Returns or sets a **[WdOMathFracType](wdomathfractype-enumeration-word.md)** constant that represents the layout of a fraction, whether it is stacked, skewed, linear, or without a fraction bar. Read/write.
 
 
 ## Syntax

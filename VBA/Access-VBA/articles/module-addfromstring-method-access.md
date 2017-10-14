@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Module.AddFromString Method (Access)
 
-The  **AddFromString** method adds a string to a **[Module](module-object-access.md)** object. The **Module** object may represent a standard module or a class module.
+The **AddFromString** method adds a string to a **[Module](module-object-access.md)** object. The **Module** object may represent a standard module or a class module.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The  **AddFromString** method places the contents of a string after the Declarations section and before the first existing procedure in the module if the module contains other procedures.
+The **AddFromString** method places the contents of a string after the Declarations section and before the first existing procedure in the module if the module contains other procedures.
 
 In order to add a string to a form or report module, the form or report must be open in form Design view or report Design view. In order to add a string to a standard module or class module, the module must be open.
 

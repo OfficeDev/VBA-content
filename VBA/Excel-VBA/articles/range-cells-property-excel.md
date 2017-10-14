@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Cells Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the cells in the specified range.
+Returns a **[Range](range-object-excel.md)** object that represents the cells in the specified range.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[Range](range-object-excel.md)** object that represents the cells i
 
 ## Remarks
 
-Because the  **[Item](range-item-property-excel.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
+Because the **[Item](range-item-property-excel.md)** property is the default property for the **Range** object, you can specify the row and column index immediately after the **Cells** keyword. For more information, see the **Item** property and the examples for this topic.
 
-Using this property without an object qualifier returns a  **Range** object that represents all the cells on the active worksheet.
+Using this property without an object qualifier returns a **Range** object that represents all the cells on the active worksheet.
 
 
 ## Example

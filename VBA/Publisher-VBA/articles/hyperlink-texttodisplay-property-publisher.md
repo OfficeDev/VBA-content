@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Hyperlink.TextToDisplay Property (Publisher)
 
-Returns or sets a  **String** that represents the text displayed for a hyperlink. Read/write.
+Returns or sets a **String** that represents the text displayed for a hyperlink. Read/write.
 
 
 ## Syntax
 
  _expression_. **TextToDisplay**
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_A variable that represents a **Hyperlink** object.
 
 
 ### Return Value

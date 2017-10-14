@@ -20,12 +20,12 @@ Represents the up bars in a chart group.
 
 Up bars connect points on series one with higher values on the last series in the chart group (the lines go up from series one). Only 2-D line groups that contain at least two series can have up bars. This object isn't a collection. There's no object that represents a single up bar; you either have up bars turned on for all points in a chart group or you have them turned off.
 
-If the  **[HasUpDownBars](chartgroup-hasupdownbars-property-excel.md)** property is **False** , most properties of the **UpBars** object are disabled.
+If the **[HasUpDownBars](chartgroup-hasupdownbars-property-excel.md)** property is **False** , most properties of the **UpBars** object are disabled.
 
 
 ## Example
 
-Use the  **[UpBars](chartgroup-upbars-property-excel.md)** property to return the **UpBars** object. The following example turns on up and down bars for chart group one in embedded chart one on Sheet5. The example then sets the up bar color to blue and sets the down bar color to red.
+Use the **[UpBars](chartgroup-upbars-property-excel.md)** property to return the **UpBars** object. The following example turns on up and down bars for chart group one in embedded chart one on Sheet5. The example then sets the up bar color to blue and sets the down bar color to red.
 
 
 ```vb

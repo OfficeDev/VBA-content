@@ -28,7 +28,7 @@ End Function
 
     Change the identifier that conflicts with the member identifier in your object module.
     
-     **Note**  The following names cannot be used as property or method names because they belong to the underlying  **IUnknown** and **IDispatch** interfaces: **QueryInterface**, **AddRef**, **Release**, **GetTypeInfoCount**, **GetTypeInfo**, **GetIDsOfNames**, **Invoke**. Using these names causes a compilation error.
+    **Note**  The following names cannot be used as property or method names because they belong to the underlying **IUnknown** and **IDispatch** interfaces: **QueryInterface**, **AddRef**, **Release**, **GetTypeInfoCount**, **GetTypeInfo**, **GetIDsOfNames**, **Invoke**. Using these names causes a compilation error.
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureTile Property (Excel)
 
-Returns the texture tile style for the specified fill. Read/write  **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
+Returns the texture tile style for the specified fill. Read/write **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** .
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Returns the texture tile style for the specified fill. Read/write  **[MsoTriStat
 
 
 
-|MsoTriState can be one of these  **MsoTriState** constants.|
+|MsoTriState can be one of these **MsoTriState** constants.|
 | **msoCTrue**|
 | **msoFalse**|
 | **msoTriStateMixed**|

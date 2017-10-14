@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StartupPath Property (Excel)
 
-Returns the complete path of the startup folder, excluding the final separator. Read-only  **String** .
+Returns the complete path of the startup folder, excluding the final separator. Read-only **String** .
 
 
 ## Syntax

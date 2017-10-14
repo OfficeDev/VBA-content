@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Label.WordWrap Property (Outlook Forms Script)
 
-Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.
+Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.
 
 
 ## Syntax
 
  _expression_. **WordWrap**
 
- _expression_A variable that represents a  **Label** object.
+ _expression_A variable that represents a **Label** object.
 
 
 ## Remarks

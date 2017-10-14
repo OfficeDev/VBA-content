@@ -35,7 +35,7 @@ Returns free/busy information for the recipient.
 
 ### Return Value
 
-A  **String** value that represents the free/busy information.
+A **String** value that represents the free/busy information.
 
 
 ## Remarks
@@ -49,7 +49,7 @@ If  _CompleteFormat_ is **True** , then the same length string is returned as de
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **FreeBusy** method to return a string of free/busy information with one character for each day. This example allows for the possibility that the free/busy information for this recipient is not accessible. To run this example, you need to replace 'Nate Sun' with a valid recipient name.
+This Visual Basic for Applications (VBA) example uses the **FreeBusy** method to return a string of free/busy information with one character for each day. This example allows for the possibility that the free/busy information for this recipient is not accessible. To run this example, you need to replace 'Nate Sun' with a valid recipient name.
 
 
 ```vb

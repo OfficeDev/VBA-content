@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Customize <item> Command (Shortcut Menu)
 
-Displays the  **Customize** **Control** dialog box where you can change the tool tip text, or the control icon for the selected item.
+Displays the **Customize** **Control** dialog box where you can change the tool tip text, or the control icon for the selected item.
 
 

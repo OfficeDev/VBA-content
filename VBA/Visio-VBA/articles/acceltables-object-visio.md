@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccelTables Object (Visio)
 
-Includes an  **AccelTable** object for each Microsoft Visio window context that has accelerators.
+Includes an **AccelTable** object for each Microsoft Visio window context that has accelerators.
 
 
 ## Remarks
@@ -21,12 +21,12 @@ Includes an  **AccelTable** object for each Microsoft Visio window context that 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-To retrieve an  **AccelTables** collection, use the **AccelTables** property of a **UIObject** object.
+To retrieve an **AccelTables** collection, use the **AccelTables** property of a **UIObject** object.
 
-The default property of  **AccelTables** is **Item** .
+The default property of **AccelTables** is **Item** .
 
-Unlike other Visio collections, the  **AccelTables** collection is indexed starting with zero (0) rather than 1.
+Unlike other Visio collections, the **AccelTables** collection is indexed starting with zero (0) rather than 1.
 
-An  **AccelTable** object is identified in the **AccelTables** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values that identify **AccelTable** objects, see the **SetID** property.
+An **AccelTable** object is identified in the **AccelTables** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values that identify **AccelTable** objects, see the **SetID** property.
 
 

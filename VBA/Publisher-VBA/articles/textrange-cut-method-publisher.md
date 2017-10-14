@@ -20,7 +20,7 @@ Deletes the specified object and places it on the Clipboard.
 
  _expression_. **Cut**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Nothing
 
 ## Remarks
 
-Use the  **[Paste](textrange-paste-method-publisher.md)** method to paste the contents of the Clipboard.
+Use the **[Paste](textrange-paste-method-publisher.md)** method to paste the contents of the Clipboard.
 
-The  **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
+The **Copy** method can be used on **Shape** objects, but the **Paste** method cannot.
 
 
 ## Example

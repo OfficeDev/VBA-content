@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion.GroupOn Property (Project)
 
-Gets or sets the type of grouping for a field used as a criterion in a group definition. Read/write  **PjGroupOn**.
+Gets or sets the type of grouping for a field used as a criterion in a group definition. Read/write **PjGroupOn**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the type of grouping for a field used as a criterion in a group def
 
 ## Remarks
 
-The  **GroupOn** property can be one of the **[PjGroupOn](pjgroupon-enumeration-project.md)** constants.
+The **GroupOn** property can be one of the **[PjGroupOn](pjgroupon-enumeration-project.md)** constants.
 
 
 ## Example

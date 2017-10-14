@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileColumnDataTypes Property (Excel)
 
-Returns or sets an ordered array of constants that specify the data types applied to the corresponding columns in the text file that you are importing into a query table. The default constant for each column is  **xlGeneral** . Read/write **Variant** .
+Returns or sets an ordered array of constants that specify the data types applied to the corresponding columns in the text file that you are importing into a query table. The default constant for each column is **xlGeneral** . Read/write **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an ordered array of constants that specify the data types applie
 
 ## Remarks
 
-Use the  **xlColumnDataType** constants listed in the following table to specify the column data types used or the actions taken during the data import.
+Use the **xlColumnDataType** constants listed in the following table to specify the column data types used or the actions taken during the data import.
 
 
 
@@ -41,17 +41,17 @@ Use the  **xlColumnDataType** constants listed in the following table to specify
 | **xlMYDFormat**|Month-Year-Day date format|
 | **xlYDMFormat**|Year-Day-Month date format|
 | **xlYMDFormat**|Year-Month-Day date format|
-Use this property only when your query table is based on data from a text file (with the  **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
+Use this property only when your query table is based on data from a text file (with the **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
 
 If you specify more elements in the array that there are columns, those values are ignored.
 
-Use  **xlEMDFormat** only if Chinese (Taiwan) language support is installed and selected. The **xlEMDFormat** constant specifies that Chinese (Taiwan) era dates are used.
+Use **xlEMDFormat** only if Chinese (Taiwan) language support is installed and selected. The **xlEMDFormat** constant specifies that Chinese (Taiwan) era dates are used.
 
-If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
+If you import data using the user interface, data from a Web query or a text query is imported as a **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
 
-The  **TextFileColumnDataTypes** property applies only to **QueryTable** objects.
+The **TextFileColumnDataTypes** property applies only to **QueryTable** objects.
 
 
 ## Example

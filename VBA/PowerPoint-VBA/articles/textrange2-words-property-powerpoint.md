@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Words Property (PowerPoint)
 
-Gets a  **TextRange2** object that represents the specified subset of text words. Read-only.
+Gets a **TextRange2** object that represents the specified subset of text words. Read-only.
 
 
 ## Syntax

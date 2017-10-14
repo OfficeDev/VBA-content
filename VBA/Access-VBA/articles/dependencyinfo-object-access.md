@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # DependencyInfo Object (Access)
 
-Represents the dependency information for an  **[AccessObject](accessobject-object-access.md)** object.
+Represents the dependency information for an **[AccessObject](accessobject-object-access.md)** object.
 
 
 ## Remarks
 
-To return the dependency information for an  **AccessObject** object, use the **[GetDependencyInfo](accessobject-getdependencyinfo-method-access.md)** method of the **AccessObject** object.
+To return the dependency information for an **AccessObject** object, use the **[GetDependencyInfo](accessobject-getdependencyinfo-method-access.md)** method of the **AccessObject** object.
 
 
 ## Properties

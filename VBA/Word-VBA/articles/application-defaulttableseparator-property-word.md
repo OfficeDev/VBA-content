@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultTableSeparator Property (Word)
 
-Returns or sets the single character used to separate text into cells when text is converted to a table. Read/write  **String** .
+Returns or sets the single character used to separate text into cells when text is converted to a table. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the single character used to separate text into cells when text 
 
 ## Remarks
 
-The value of the  **DefaultTableSeparator** property is used if the Separator argument is omitted from the **ConvertToTable** method or the **[Range](range-object-word.md)** or **[Selection](selection-object-word.md)** object.
+The value of the **DefaultTableSeparator** property is used if the Separator argument is omitted from the **ConvertToTable** method or the **[Range](range-object-word.md)** or **[Selection](selection-object-word.md)** object.
 
 
 ## Example

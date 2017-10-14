@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.Text Property (Publisher)
 
-Returns or sets a  **String** that represents the text in a text range or WordArt shape. Read/write.
+Returns or sets a **String** that represents the text in a text range or WordArt shape. Read/write.
 
 
 ## Syntax
 
  _expression_. **Text**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 
 ## Example

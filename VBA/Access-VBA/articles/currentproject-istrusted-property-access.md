@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.IsTrusted Property (Access)
 
-Gets whether or not macros and Visual Basic for Applications (VBA) code have been enabled in the current project. Read-only  **Boolean**.
+Gets whether or not macros and Visual Basic for Applications (VBA) code have been enabled in the current project. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets whether or not macros and Visual Basic for Applications (VBA) code have bee
 
 ## Example
 
-The following example shows how to use the  **IsTrusted** property in a macro to determine whether the database has been opened with trust enabled. If trust has been enabled, the Visual Basic for Applications (VBA) subroutine **Init** is called. Otherwise, the use is notified that the database has been opened in disabled mode.
+The following example shows how to use the **IsTrusted** property in a macro to determine whether the database has been opened with trust enabled. If trust has been enabled, the Visual Basic for Applications (VBA) subroutine **Init** is called. Otherwise, the use is notified that the database has been opened in disabled mode.
 
  **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
 

@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ViewCtl.ShowFields Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Show Fields** dialog box.
+Displays the Microsoft Outlook **Show Fields** dialog box.
 
 
 ## Syntax
 
  _expression_. **ShowFields**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomerData.Parent Property (PowerPoint)
 
-Returns the parent object of the specified  **[CustomerData](customerdata-object-powerpoint.md)** object. Read-only.
+Returns the parent object of the specified **[CustomerData](customerdata-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax

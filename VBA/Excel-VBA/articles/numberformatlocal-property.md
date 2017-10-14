@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # NumberFormatLocal Property
 
-Returns or sets the format code for the specified object as a string in the language of the user. Read/write  **Variant**.
+Returns or sets the format code for the specified object as a string in the language of the user. Read/write **Variant**.
 
 
 ## Remarks
 
-The  **Format** function uses different format code strings than do the **NumberFormat** and **NumberFormatLocal** properties.
+The **Format** function uses different format code strings than do the **NumberFormat** and **NumberFormatLocal** properties.
 
 
 ## Example

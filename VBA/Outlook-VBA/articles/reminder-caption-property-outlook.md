@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Reminder.Caption Property (Outlook)
 
-Returns a  **String** representing the title. Read-only.
+Returns a **String** representing the title. Read-only.
 
 
 ## Syntax

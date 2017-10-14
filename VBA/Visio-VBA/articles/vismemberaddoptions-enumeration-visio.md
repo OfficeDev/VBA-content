@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # VisMemberAddOptions Enumeration (Visio)
 
-Specifies whether to expand the container to accomodate the new member(s) or to resize it automatically according to the default settings; constants passed to the  **[ContainerProperties.AddMember](containerproperties-addmember-method-visio.md)** method.
+Specifies whether to expand the container to accomodate the new member(s) or to resize it automatically according to the default settings; constants passed to the **[ContainerProperties.AddMember](containerproperties-addmember-method-visio.md)** method.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visMemberAddUseResizeSetting**|0|Defer to the setting of the  **[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property.|
+| **visMemberAddUseResizeSetting**|0|Defer to the setting of the **[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property.|
 | **visMemberAddExpandContainer**|1|Expand the container to fit the incoming shape(s).|
 | **visMemberAddDoNotExpand**|2|Do not expand the container to fit the incoming shape(s).|
 

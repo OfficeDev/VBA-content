@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Paragraphs Property (PowerPoint)
 
-Gets a  **TextRange2** object that represents the specified subset of text paragraphs. Read-only.
+Gets a **TextRange2** object that represents the specified subset of text paragraphs. Read-only.
 
 
 ## Syntax
@@ -34,15 +34,15 @@ TextRange2
 
 ## Remarks
 
-If both  **Start** and **Length** are omitted, the returned range starts with the first paragraph and ends with the last paragraph in the specified range.
+If both **Start** and **Length** are omitted, the returned range starts with the first paragraph and ends with the last paragraph in the specified range.
 
-If  **Start** is specified but **Length** is omitted, the returned range contains one paragraph.
+If **Start** is specified but **Length** is omitted, the returned range contains one paragraph.
 
-If  **Length** is specified but **Start** is omitted, the returned range starts with the first paragraph in the specified range.
+If **Length** is specified but **Start** is omitted, the returned range starts with the first paragraph in the specified range.
 
-If  **Start** is greater than the number of paragraphs in the specified text, the returned range starts with the last paragraph in the specified range.
+If **Start** is greater than the number of paragraphs in the specified text, the returned range starts with the last paragraph in the specified range.
 
-If  **Length** is greater than the number of paragraphs from the specified starting paragraph to the end of the text, the returned range contains all those paragraphs.
+If **Length** is greater than the number of paragraphs from the specified starting paragraph to the end of the text, the returned range contains all those paragraphs.
 
 
 ## Example

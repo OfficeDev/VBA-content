@@ -21,10 +21,10 @@ Specifies the recurrence pattern type.
 |:-----|:-----|:-----|
 | **olRecursDaily**|0|Represents a daily recurrence pattern.|
 | **olRecursMonthly**|2|Represents a monthly recurrence pattern.|
-| **olRecursMonthNth**|3|Represents a MonthNth recurrence pattern. See  **[RecurrencePattern.Instance](recurrencepattern-instance-property-outlook.md)** property.|
+| **olRecursMonthNth**|3|Represents a MonthNth recurrence pattern. See **[RecurrencePattern.Instance](recurrencepattern-instance-property-outlook.md)** property.|
 | **olRecursWeekly**|1|Represents a weekly recurrence pattern.|
 | **olRecursYearly**|5|Represents a yearly recurrence pattern.|
-| **olRecursYearNth**|6|Represents a YearNth recurrence pattern. See  **[RecurrencePattern.Instance](recurrencepattern-instance-property-outlook.md)** property.|
+| **olRecursYearNth**|6|Represents a YearNth recurrence pattern. See **[RecurrencePattern.Instance](recurrencepattern-instance-property-outlook.md)** property.|
 
 ## Remarks
 

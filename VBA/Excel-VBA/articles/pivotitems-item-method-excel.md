@@ -38,7 +38,7 @@ An Object value that represents an object contained by the collection.
 
 ## Remarks
 
-The text name of the object is the value of the  **Name** and **Value** properties.
+The text name of the object is the value of the **Name** and **Value** properties.
 
 
 ## Example

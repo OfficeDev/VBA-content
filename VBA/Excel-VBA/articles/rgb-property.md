@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RGB Property
 
-Returns the red-green-blue value of the specified color. Read-only  **Long**.
+Returns the red-green-blue value of the specified color. Read-only **Long**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # References.Item Method (Access)
 
-The  **Item** method returns a specific member of a collection either by position or by key. **Reference** object.
+The **Item** method returns a specific member of a collection either by position or by key. **Reference** object.
 
 
 ## Syntax
@@ -40,7 +40,7 @@ Reference
 
 If the value provided for the  _var_ argument doesn't match any existing member of the collection, an error occurs.
 
-The  **Item** method is the default member of the **References** collection, so you don't have to specify it explicitly. For example, the following two lines of code are equivalent:
+The **Item** method is the default member of the **References** collection, so you don't have to specify it explicitly. For example, the following two lines of code are equivalent:
 
 
 

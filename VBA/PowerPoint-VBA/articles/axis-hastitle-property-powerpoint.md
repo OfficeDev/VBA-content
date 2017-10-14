@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-An axis title is represented by an  **[AxisTitle](axistitle-object-powerpoint.md)** object.
+An axis title is represented by an **[AxisTitle](axistitle-object-powerpoint.md)** object.
 
 
 ## Example

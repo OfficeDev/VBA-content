@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Tag.Value Property (Publisher)
 
-Returns or sets a  **Variant** that represents the value of a tag of a shape, page, or publication. Read/write.
+Returns or sets a **Variant** that represents the value of a tag of a shape, page, or publication. Read/write.
 
 
 ## Syntax
 
  _expression_. **Value**
 
- _expression_A variable that represents a  **Tag** object.
+ _expression_A variable that represents a **Tag** object.
 
 
 ## Example

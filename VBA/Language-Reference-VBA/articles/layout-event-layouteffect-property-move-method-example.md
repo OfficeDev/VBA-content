@@ -11,22 +11,22 @@ ms.date: 06/08/2017
 
 # Layout Event, LayoutEffect Property, Move Method Example
 
-The following example moves a selected control on a form with the  **Move** method, and uses the **Layout** event and **LayoutEffect** property to identify the control that moved (and changed the layout of the **UserForm** ). The user clicks a control to move and then clicks the **CommandButton**. A message box displays the name of the control that is moving.
+The following example moves a selected control on a form with the **Move** method, and uses the **Layout** event and **LayoutEffect** property to identify the control that moved (and changed the layout of the **UserForm** ). The user clicks a control to move and then clicks the **CommandButton**. A message box displays the name of the control that is moving.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **TextBox** named TextBox1.
+- A **TextBox** named TextBox1.
     
-- A  **ComboBox** named ComboBox1.
+- A **ComboBox** named ComboBox1.
     
-- An  **OptionButton** named OptionButton1.
+- An **OptionButton** named OptionButton1.
     
-- A  **CommandButton** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

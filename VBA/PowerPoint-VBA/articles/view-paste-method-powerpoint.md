@@ -27,7 +27,7 @@ Pastes the contents of the Clipboard into the active view. Attempting to paste a
 
 Attempting to paste an object into a view that won't accept it causes an error. 
 
-Use the  **[ViewType](documentwindow-viewtype-property-powerpoint.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
+Use the **[ViewType](documentwindow-viewtype-property-powerpoint.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
 
 
 

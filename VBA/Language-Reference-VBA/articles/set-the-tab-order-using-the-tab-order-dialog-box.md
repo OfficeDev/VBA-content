@@ -18,11 +18,11 @@ ms.date: 06/08/2017
     
 2. Right-click in the form, but not on a control.
     
-3. From the shortcut menu, choose  **Tab Order**.
+3. From the shortcut menu, choose **Tab Order**.
     
 4. Select the name of a control you want to reposition in the [tab order](vbe-glossary.md).
     
-5. Choose  **Move Up** or **Move Down** until the control name is in the appropriate position in the tab order.
+5. Choose **Move Up** or **Move Down** until the control name is in the appropriate position in the tab order.
     
 
 

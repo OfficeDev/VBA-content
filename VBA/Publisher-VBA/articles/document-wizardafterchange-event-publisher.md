@@ -20,16 +20,16 @@ Occurs after the user chooses an option in the wizard pane that changes any of t
 
  _expression_. **WizardAfterChange**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Remarks
 
 The WizardAfterChange event only occurs once regardless of the scope or number of individual modifications made to the publication.
 
-To access the  **Document** object events, declare a **Document** object variable in the General Declarations section of a class module, then set the variable equal to the **Document** object for which you want to access events.
+To access the **Document** object events, declare a **Document** object variable in the General Declarations section of a class module, then set the variable equal to the **Document** object for which you want to access events.
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+For more information about using events with the **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
 
 
 ## Example

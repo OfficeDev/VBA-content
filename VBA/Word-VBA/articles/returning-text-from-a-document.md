@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Returning Text from a Document
 
-Use the  **Text**property to return text from a  **[Range](range-object-word.md)** object or **[Selection](selection-object-word.md)** object. The following example selects the next paragraph formatted with the Heading 1 style. The contents of the **Text** property are displayed by the **MsgBox** function.
+Use the **Text**property to return text from a **[Range](range-object-word.md)** object or **[Selection](selection-object-word.md)** object. The following example selects the next paragraph formatted with the Heading 1 style. The contents of the **Text** property are displayed by the **MsgBox** function.
 
 
 ```vb
@@ -37,7 +37,7 @@ Sub ShowSelection()
 End Sub
 ```
 
-The following example returns the first word in the active document. Each item in the  **[Words](words-object-word.md)** collection is a  **Range**object that represents one word.
+The following example returns the first word in the active document. Each item in the **[Words](words-object-word.md)** collection is a **Range**object that represents one word.
 
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.BaseCalendar Property (Project)
 
-Gets or sets the name of the base calendar for a resource. Read/write  **String**.
+Gets or sets the name of the base calendar for a resource. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the name of the base calendar for a resource. Read/write  **String*
 
 ## Remarks
 
-The  **BaseCalendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
+The **BaseCalendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
 

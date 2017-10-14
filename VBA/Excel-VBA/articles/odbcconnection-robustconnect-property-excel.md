@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.RobustConnect Property (Excel)
 
-Returns or sets how ODBC connection connects to its data source. Read/write  **[XlRobustConnect](xlrobustconnect-enumeration-excel.md)** .
+Returns or sets how ODBC connection connects to its data source. Read/write **[XlRobustConnect](xlrobustconnect-enumeration-excel.md)** .
 
 
 ## Syntax

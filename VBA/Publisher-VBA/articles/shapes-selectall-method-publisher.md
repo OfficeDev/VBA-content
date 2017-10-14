@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.SelectAll Method (Publisher)
 
-Selects all the shapes in the specified  **[Shapes](shapes-object-publisher.md)** collection.
+Selects all the shapes in the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
 ## Syntax
 
  _expression_. **SelectAll**
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ## Example

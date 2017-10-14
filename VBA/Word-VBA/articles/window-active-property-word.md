@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example activates the first window in the  **Windows** collection, if the window isn't currently active.
+This example activates the first window in the **Windows** collection, if the window isn't currently active.
 
 
 ```vb

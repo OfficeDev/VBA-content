@@ -32,7 +32,7 @@ This example allows users to continue working in a document while Word is saving
 Options.BackgroundSave = True
 ```
 
-This example returns the current status of the  **Allow background saves** option on the **Save** tab in the **Options** dialog box.
+This example returns the current status of the **Allow background saves** option on the **Save** tab in the **Options** dialog box.
 
 
 

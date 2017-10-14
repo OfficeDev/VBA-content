@@ -30,12 +30,12 @@ Nothing
 
 ## Remarks
 
-After calling the  **PurgeUndo** method, no operation performed before the call can be reversed.
+After calling the **PurgeUndo** method, no operation performed before the call can be reversed.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **PurgeUndo** method to clear the undo list.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **PurgeUndo** method to clear the undo list.
 
 
 ```vb

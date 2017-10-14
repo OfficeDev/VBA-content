@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Signature.Parent Property (Office)
 
-Gets the  **Parent** object for the Signature object. Read-only.
+Gets the **Parent** object for the Signature object. Read-only.
 
 
 ## Syntax

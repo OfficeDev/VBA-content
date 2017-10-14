@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.ScrSubSup Property (Word)
 
-Returns an  **[OMathScrSubSup](omathscrsubsup-object-word.md)** object that represents a mathematical subscript-superscript object that consists of a base, a subscript, and a superscript. Read-only.
+Returns an **[OMathScrSubSup](omathscrsubsup-object-word.md)** object that represents a mathematical subscript-superscript object that consists of a base, a subscript, and a superscript. Read-only.
 
 
 ## Syntax

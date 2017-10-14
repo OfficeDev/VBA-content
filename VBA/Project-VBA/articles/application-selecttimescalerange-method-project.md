@@ -41,7 +41,7 @@ Selects one or more timescale data cells in a usage view.
 
 ## Example
 
-The following example selects a five-day range of timescale data cells for the specified row. It assumes the timescale has not been changed from the default setting. The  **SelectRow** method is not required for this example, but is included to make the result easier to read.
+The following example selects a five-day range of timescale data cells for the specified row. It assumes the timescale has not been changed from the default setting. The **SelectRow** method is not required for this example, but is included to make the result easier to read.
 
 
 ```vb

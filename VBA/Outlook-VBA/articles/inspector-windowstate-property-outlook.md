@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Inspector.WindowState Property (Outlook)
 
-Returns or sets the property with a constant in the  **[OlWindowState](olwindowstate-enumeration-outlook.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
+Returns or sets the property with a constant in the **[OlWindowState](olwindowstate-enumeration-outlook.md)** enumeration specifying the window state of an explorer or inspector window. Read/write.
 
 
 ## Syntax

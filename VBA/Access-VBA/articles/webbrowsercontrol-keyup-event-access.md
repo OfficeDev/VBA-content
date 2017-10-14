@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebBrowserControl.KeyUp Event (Access)
 
-The  **KeyUp** event occurs when the user releases a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
+The **KeyUp** event occurs when the user releases a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
 
 ## Syntax
@@ -39,15 +39,15 @@ nothing
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the  **OnKeyUp** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **OnKeyUp** property to the name of the macro or to [Event Procedure].
 
 For both events, the object with the focus receives all keystrokes. A form can have the focus only if it has no controls or all its visible controls are disabled.
 
-A form will also receive all keyboard events, even those that occur for controls, if you set the  **KeyPreview** property of the form to Yes. With this property setting, all keyboard events occur first for the form, and then for the control that has the focus. You can respond to specific keys pressed in the form, regardless of which control has the focus. For example, you may want the key combination CTRL+X to always perform the same action on a form.
+A form will also receive all keyboard events, even those that occur for controls, if you set the **KeyPreview** property of the form to Yes. With this property setting, all keyboard events occur first for the form, and then for the control that has the focus. You can respond to specific keys pressed in the form, regardless of which control has the focus. For example, you may want the key combination CTRL+X to always perform the same action on a form.
 
-If you press and hold down a key, the  **KeyDown** and **KeyPress** events alternate repeatedly ( **KeyDown**, **KeyPress**, **KeyDown**, **KeyPress**, and so on) until you release the key, then the **KeyUp** event occurs.
+If you press and hold down a key, the **KeyDown** and **KeyPress** events alternate repeatedly ( **KeyDown**, **KeyPress**, **KeyDown**, **KeyPress**, and so on) until you release the key, then the **KeyUp** event occurs.
 
-Although the  **KeyUp** event occurs when most keys are pressed, it is typically used to recognize or distinguish between:
+Although the **KeyUp** event occurs when most keys are pressed, it is typically used to recognize or distinguish between:
 
 
 - Extended character keys, such as function keys.
@@ -58,18 +58,18 @@ Although the  **KeyUp** event occurs when most keys are pressed, it is typically
     
 - The numeric keypad and keyboard number keys.
     
-The  **KeyUp** event does not occur when you press:
+The **KeyUp** event does not occur when you press:
 
 
-- The ENTER key if the form has a command button for which the  **Default** property is set to Yes.
+- The ENTER key if the form has a command button for which the **Default** property is set to Yes.
     
-- The ESC key if the form has a command button for which the  **Cancel** property is set to Yes.
+- The ESC key if the form has a command button for which the **Cancel** property is set to Yes.
     
-The  **KeyUp** event occurs after any event for a control caused by pressing or sending the key. If a keystroke causes the focus to move from one control to another control, the **KeyDown** event occurs for the first control, while the **KeyPress** and **KeyUp** events occur for the second control.
+The **KeyUp** event occurs after any event for a control caused by pressing or sending the key. If a keystroke causes the focus to move from one control to another control, the **KeyDown** event occurs for the first control, while the **KeyPress** and **KeyUp** events occur for the second control.
 
-To find out the ANSI character corresponding to the key pressed, use the  **KeyPress** event.
+To find out the ANSI character corresponding to the key pressed, use the **KeyPress** event.
 
-If a modal dialog box is displayed as a result of pressing or sending a key, the  **KeyDown** and **KeyPress** events occur, but the **KeyUp** event doesn't occur.
+If a modal dialog box is displayed as a result of pressing or sending a key, the **KeyDown** and **KeyPress** events occur, but the **KeyUp** event doesn't occur.
 
 
 ## See also

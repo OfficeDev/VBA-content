@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Start Property (Word)
 
-Returns or sets the starting character position of a selection. Read/write  **Long** .
+Returns or sets the starting character position of a selection. Read/write **Long** .
 
 
 ## Syntax

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomXMLNodes Object (Office)
 
-Contains a collection of  **CustomXMLNodes** objects representing the XML nodes in a document.
+Contains a collection of **CustomXMLNodes** objects representing the XML nodes in a document.
 
 
 ## Remarks
 
-The  **Attributes** and the **ChildNodes** properties return collections of nodes of this type.
+The **Attributes** and the **ChildNodes** properties return collections of nodes of this type.
 
 
 ## Example

@@ -25,7 +25,7 @@ Requests an update of real-time data from the real-time data server.
 
 ## Remarks
 
-Avoid using the  **RefreshData** method in user-defined functions because this method will fail if it is called during recalculation.
+Avoid using the **RefreshData** method in user-defined functions because this method will fail if it is called during recalculation.
 
 
 ## See also

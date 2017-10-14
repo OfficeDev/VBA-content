@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **IsHeader**
 
- _expression_A variable that represents an  **HeaderFooter** object.
+ _expression_A variable that represents an **HeaderFooter** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Example
 
-The following example creates a new collection and fills it with the headers and footer from each master page. The collection is then iterated and a test is made to determine whether the  **HeaderFooter** object is a header or a footer, then appropriate text is written to the header or footer.
+The following example creates a new collection and fills it with the headers and footer from each master page. The collection is then iterated and a test is made to determine whether the **HeaderFooter** object is a header or a footer, then appropriate text is written to the header or footer.
 
 
 ```vb

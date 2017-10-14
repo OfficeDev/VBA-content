@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SplitParts.Add Method (Project)
 
-Adds a  **SplitPart** object to a **SplitParts** collection.
+Adds a **SplitPart** object to a **SplitParts** collection.
 
 
 ## Syntax

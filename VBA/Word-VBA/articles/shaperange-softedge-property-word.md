@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.SoftEdge Property (Word)
 
-Returns a  **[SoftEdgeFormat](softedgeformat-object-word.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
+Returns a **[SoftEdgeFormat](softedgeformat-object-word.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
 
 
 ## Syntax

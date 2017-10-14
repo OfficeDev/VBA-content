@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Previous Method (Excel)
 
-Returns a  **[Comment](comment-object-excel.md)** object that represents the previous comment.
+Returns a **[Comment](comment-object-excel.md)** object that represents the previous comment.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Comment
 
 ## Remarks
 
-This method works only on one sheet. Using this method on the first comment on a sheet returns  **Null** (not the last comment on the previous sheet).
+This method works only on one sheet. Using this method on the first comment on a sheet returns **Null** (not the last comment on the previous sheet).
 
 
 ## Example
 
-This example deletes every second comment, navigating with the  **Previous** method.
+This example deletes every second comment, navigating with the **Previous** method.
 
 
  **Note**  Please test in a new workbook with no existing comments. To clear all comments from a workbook use  `Selection.SpecialCells(xlCellTypeComments).Delete` in the **Immediate Pane** .

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentInspector.Name Property (Office)
 
-Gets the name of the module represented by a  **DocumentInspector** object. Read-only.
+Gets the name of the module represented by a **DocumentInspector** object. Read-only.
 
 
 ## Syntax

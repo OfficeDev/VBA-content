@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMessage.Reply Method (Word)
 
-Opens a new e-mail message — with the sender's address on the  **To** line — for replying to the active message.
+Opens a new e-mail message — with the sender's address on the **To** line — for replying to the active message.
 
 
 ## Syntax

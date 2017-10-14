@@ -31,7 +31,7 @@ Occurs when an item is about to be moved or deleted from a folder, either as a r
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|Represents the Outlook item that is to be moved or deleted.|
 | _MoveTo_|Required| **[Folder](folder-object-outlook.md)**|Represents the folder to which the item is being moved. |
-| _Cancel_|Required| **Boolean**|Set this to  **True** to cancel the move or delete action.|
+| _Cancel_|Required| **Boolean**|Set this to **True** to cancel the move or delete action.|
 
 ## Remarks
 

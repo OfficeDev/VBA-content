@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientDegree Property (Excel)
 
-Returns the gradient degree of the specified one-color shaded fill as a floating-point value from 0.0 (dark) through 1.0 (light). Read-only  **Single** .
+Returns the gradient degree of the specified one-color shaded fill as a floating-point value from 0.0 (dark) through 1.0 (light). Read-only **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the gradient degree of the specified one-color shaded fill as a floating
 
 ## Remarks
 
-This property is read-only. Use the  **[OneColorGradient](fillformat-onecolorgradient-method-excel.md)** method to set the gradient degree for the fill.
+This property is read-only. Use the **[OneColorGradient](fillformat-onecolorgradient-method-excel.md)** method to set the gradient degree for the fill.
 
 
 ## Example

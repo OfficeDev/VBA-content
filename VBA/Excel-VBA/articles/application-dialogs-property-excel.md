@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Dialogs Property (Excel)
 
-Returns a  **[Dialogs](dialogs-object-excel.md)** collection that represents all built-in dialog boxes. Read-only.
+Returns a **[Dialogs](dialogs-object-excel.md)** collection that represents all built-in dialog boxes. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Dialogs](dialogs-object-excel.md)** collection that represents all
 
 ## Example
 
-This example displays the  **Open** dialog box ( **File** menu).
+This example displays the **Open** dialog box ( **File** menu).
 
 
 ```vb

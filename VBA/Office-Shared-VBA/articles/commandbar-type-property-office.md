@@ -31,7 +31,7 @@ Gets the type of command bar. Read-only.
 
 ## Example
 
-This example finds the first control on the command bar named "Custom." Using the  **Type** property, the example determines whether the control is a button. If the control is a button, the example copies the face of the **Copy** button (on the **Standard** toolbar) and then pastes it onto the control.
+This example finds the first control on the command bar named "Custom." Using the **Type** property, the example determines whether the control is a button. If the control is a button, the example copies the face of the **Copy** button (on the **Standard** toolbar) and then pastes it onto the control.
 
 
 ```

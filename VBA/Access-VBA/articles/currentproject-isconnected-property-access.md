@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.IsConnected Property (Access)
 
-You can use the  **IsConnected** property to determine if the **[CurrentProject](currentproject-object-access.md)** object is currently connected. Read-only **Boolean**.
+You can use the **IsConnected** property to determine if the **[CurrentProject](currentproject-object-access.md)** object is currently connected. Read-only **Boolean**.
 
 
 ## Syntax

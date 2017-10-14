@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIns.Add Method (PowerPoint)
 
-Returns an  **AddIn** object that represents an add-in file added to the list of add-ins.
+Returns an **AddIn** object that represents an add-in file added to the list of add-ins.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ AddIn
 
 ## Remarks
 
-This method doesn't load the new add-in. You must set the  **Loaded** property to load the add-in.
+This method doesn't load the new add-in. You must set the **Loaded** property to load the add-in.
 
 
 ## See also

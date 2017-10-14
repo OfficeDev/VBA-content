@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.IsDuplex Property (Publisher)
 
-Returns  **True** if the device represented by the parent **Printer** object is a duplex printer. Read-only.
+Returns **True** if the device represented by the parent **Printer** object is a duplex printer. Read-only.
 
 
 ## Syntax
 
  _expression_. **IsDuplex**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value

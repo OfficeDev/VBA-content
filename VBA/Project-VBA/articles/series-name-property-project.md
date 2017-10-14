@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Series.Name Property (Project)
-Gets the name of the data series on a chart. Read-only  **String**.
+Gets the name of the data series on a chart. Read-only **String**.
 
 ## Syntax
 
@@ -21,7 +21,7 @@ Gets the name of the data series on a chart. Read-only  **String**.
 
 ## Remarks
 
-For a code example that uses the  **Name** property, see the **[Series](series-object-project.md)** object.
+For a code example that uses the **Name** property, see the **[Series](series-object-project.md)** object.
 
 
 ## See also

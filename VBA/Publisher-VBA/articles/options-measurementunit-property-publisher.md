@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.MeasurementUnit Property (Publisher)
 
-Returns or sets a  **PbUnitType** constant representing the standard measurement unit for Microsoft Publisher. Read/write.
+Returns or sets a **PbUnitType** constant representing the standard measurement unit for Microsoft Publisher. Read/write.
 
 
 ## Syntax
 
  _expression_. **MeasurementUnit**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbUnitType
 
 ## Remarks
 
-The  **MeasurementUnit** property value can be one of the **PbUnitType** constants declared in the Publisher type library and shown in the following table.
+The **MeasurementUnit** property value can be one of the **PbUnitType** constants declared in the Publisher type library and shown in the following table.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.UserCustomUI Property (Visio)
 
-Gets or sets the Ribbon XML string that is passed to the document to customize the  **Quick Access** toolbar or the Ribbon. Read/write.
+Gets or sets the Ribbon XML string that is passed to the document to customize the **Quick Access** toolbar or the Ribbon. Read/write.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the Ribbon XML string that is passed to the document to customize t
 
 ## Remarks
 
-When you set the  **UserCustomUI** property value, Microsoft Visio does not validate the Ribbon XML. Instead, the XML is persisted in the document file and validated the next time that the document is loaded.
+When you set the **UserCustomUI** property value, Microsoft Visio does not validate the Ribbon XML. Instead, the XML is persisted in the document file and validated the next time that the document is loaded.
 
 

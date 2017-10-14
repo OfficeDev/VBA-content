@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.RangeFromPoint Method (PowerPoint)
 
-Returns the  **Shape** object that is located at the point specified by the screen position coordinate pair. If no shape is located at the coordinate pair specified, then the method returns **Nothing**.
+Returns the **Shape** object that is located at the point specified by the screen position coordinate pair. If no shape is located at the coordinate pair specified, then the method returns **Nothing**.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns the  **Shape** object that is located at the point specified by the scre
 
 ## Example
 
-This example adds a new five-point star to slide one using the coordinates (288, 100). It then converts those coordinates from points to pixels, uses the  **RangeFromPoint** method to return a reference to the new object, and changes the fill color of the star.
+This example adds a new five-point star to slide one using the coordinates (288, 100). It then converts those coordinates from points to pixels, uses the **RangeFromPoint** method to return a reference to the new object, and changes the fill color of the star.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewCombination.TopView Property (Project)
 
-Gets or sets a  **[ViewSingle](viewsingle-object-project.md)** object representing the top view of the combination view. Read/write **ViewSingle**.
+Gets or sets a **[ViewSingle](viewsingle-object-project.md)** object representing the top view of the combination view. Read/write **ViewSingle**.
 
 
 ## Syntax

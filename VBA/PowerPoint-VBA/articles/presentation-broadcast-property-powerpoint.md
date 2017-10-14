@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.Broadcast Property (PowerPoint)
 
-Returns the  **Broadcast** object of the current **Presentation** object. Read-only.
+Returns the **Broadcast** object of the current **Presentation** object. Read-only.
 
 
 ## Syntax

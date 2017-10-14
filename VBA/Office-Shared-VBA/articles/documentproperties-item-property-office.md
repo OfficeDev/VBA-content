@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentProperties.Item Property (Office)
 
-Gets a  **DocumentProperty** object from the **DocumentProperties** collection. Read-only.
+Gets a **DocumentProperty** object from the **DocumentProperties** collection. Read-only.
 
 
 ## Syntax

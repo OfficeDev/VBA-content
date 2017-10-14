@@ -34,7 +34,7 @@ Sizes the specified task window.
 
 ## Remarks
 
-If the window is maximized or minimized, using this method causes an error. Use the  **Width** or **Height** property to set the window width and height independently.
+If the window is maximized or minimized, using this method causes an error. Use the **Width** or **Height** property to set the window width and height independently.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ProjectSummaryTask Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object representing the project summary task for the active project. Read-only **Task**.
+Gets a **[Task](task-object-project.md)** object representing the project summary task for the active project. Read-only **Task**.
 
 
 ## Syntax
@@ -22,15 +22,15 @@ Gets a  **[Task](task-object-project.md)** object representing the project summa
 
 ## Remarks
 
-Local custom fields can be accessed directly from  **ProjectSummaryTask** as task custom fields.
+Local custom fields can be accessed directly from **ProjectSummaryTask** as task custom fields.
 
 
- **Note**  Enterprise project fields are available when a project is opened from Project Server. To access enterprise custom fields, it is necessary to use the  **SetField** and **GetField** methods along with the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method.
+ **Note**  Enterprise project fields are available when a project is opened from Project Server. To access enterprise custom fields, it is necessary to use the **SetField** and **GetField** methods along with the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method.
 
 
 ## Example
 
-The following example sets the local  **Cost1** task custom field and displays it in a message box.
+The following example sets the local **Cost1** task custom field and displays it in a message box.
 
 
 ```vb

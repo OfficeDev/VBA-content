@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.Object Property (Word)
 
-Returns an  **Object** that represents the specified OLE object's top-level interface. .
+Returns an **Object** that represents the specified OLE object's top-level interface. .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.TitleMaster Property (PowerPoint)
 
-Returns a  **[Master](master-object-powerpoint.md)** object that represents the title master for the specified presentation.
+Returns a **[Master](master-object-powerpoint.md)** object that represents the title master for the specified presentation.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ Master
 
 If the presentation doesn't have a title master, an error occurs.
 
-Use the  **AddTitleMaster** method to add a title master to a presentation.
+Use the **AddTitleMaster** method to add a title master to a presentation.
 
 
 ## Example

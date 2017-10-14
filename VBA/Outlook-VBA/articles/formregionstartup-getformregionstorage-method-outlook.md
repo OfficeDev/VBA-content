@@ -37,12 +37,12 @@ Obtains appropriate storage for a form region based on the specified information
 
 ### Return Value
 
-A  **Variant** object representing the storage that Outlook has allocated for the form region. The type of the return value can be: **String** representing that the return value is a local path to an Outlook Form Storage (.OFS) file; **Byte()** representing that the return value is an array of bytes that contains the contents of the .OFS file; **IStorage** representing that the return value is a COM storage object **IStorage** (for C++ only); **Nothing** or **Null** , representing that Outlook could not allocate storage for this form region and will not load the form region.
+A **Variant** object representing the storage that Outlook has allocated for the form region. The type of the return value can be: **String** representing that the return value is a local path to an Outlook Form Storage (.OFS) file; **Byte()** representing that the return value is an array of bytes that contains the contents of the .OFS file; **IStorage** representing that the return value is a COM storage object **IStorage** (for C++ only); **Nothing** or **Null** , representing that Outlook could not allocate storage for this form region and will not load the form region.
 
 
 ## Remarks
 
-The add-in must check for the return value of  **GetFormRegionStorage** . A form region will not load if any of the following is true of the returned storage:
+The add-in must check for the return value of **GetFormRegionStorage** . A form region will not load if any of the following is true of the returned storage:
 
 
 - The returned storage is a .OFS file specified with a non-local path.
@@ -51,7 +51,7 @@ The add-in must check for the return value of  **GetFormRegionStorage** . A form
     
 
 
-For examples of add-ins in C# and Visual Basic .NET that implement the  **[FormRegionStartup](formregionstartup-object-outlook.md)** interface, see code sample downloads on MSDN.
+For examples of add-ins in C# and Visual Basic .NET that implement the **[FormRegionStartup](formregionstartup-object-outlook.md)** interface, see code sample downloads on MSDN.
 
 
 ## See also

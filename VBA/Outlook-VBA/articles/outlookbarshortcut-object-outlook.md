@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # OutlookBarShortcut Object (Outlook)
 
-Represents a shortcut in a group in the  **Shortcuts** pane.
+Represents a shortcut in a group in the **Shortcuts** pane.
 
 
 ## Remarks
 
-Use the  **[Item](outlookbarshortcuts-item-method-outlook.md)** method to retrieve the **OutlookBarShortcut** object from an **[OutlookBarShortcuts](outlookbarshortcuts-object-outlook.md)** object. Because the **[Name](outlookbarshortcut-name-property-outlook.md)** property is the default property of the **OutlookBarShortcut** object, you can identify the shortcut by name.
+Use the **[Item](outlookbarshortcuts-item-method-outlook.md)** method to retrieve the **OutlookBarShortcut** object from an **[OutlookBarShortcuts](outlookbarshortcuts-object-outlook.md)** object. Because the **[Name](outlookbarshortcut-name-property-outlook.md)** property is the default property of the **OutlookBarShortcut** object, you can identify the shortcut by name.
 
 
 ## Example
 
-The following example retrieves an  **OutlookBarShortcut** object by name.
+The following example retrieves an **OutlookBarShortcut** object by name.
 
 
 ```

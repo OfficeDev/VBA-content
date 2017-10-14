@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.FeedSource Property (Word)
 
-Returns or sets the paper tray for the envelope. Read/write  **WdPaperTray** .
+Returns or sets the paper tray for the envelope. Read/write **WdPaperTray** .
 
 
 ## Syntax

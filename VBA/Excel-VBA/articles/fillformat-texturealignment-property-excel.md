@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureAlignment Property (Excel)
 
-Returns or sets the text alignment for the specified  **FillFormat** object. Read/write.
+Returns or sets the text alignment for the specified **FillFormat** object. Read/write.
 
 
 ## Syntax

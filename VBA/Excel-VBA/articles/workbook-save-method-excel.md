@@ -25,11 +25,11 @@ Saves changes to the specified workbook.
 
 ## Remarks
 
-To open a workbook file, use the  **[Open](workbooks-open-method-excel.md)** method.
+To open a workbook file, use the **[Open](workbooks-open-method-excel.md)** method.
 
-To mark a workbook as saved without writing it to a disk, set its  **[Saved](workbook-saved-property-excel.md)** property to **True** .
+To mark a workbook as saved without writing it to a disk, set its **[Saved](workbook-saved-property-excel.md)** property to **True** .
 
-The first time you save a workbook, use the  **[SaveAs](workbook-saveas-method-excel.md)** method to specify a name for the file.
+The first time you save a workbook, use the **[SaveAs](workbook-saveas-method-excel.md)** method to specify a name for the file.
 
 
 ## Example
@@ -55,7 +55,7 @@ Application.Quit
 
  **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
 
-This example uses the  **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
+This example uses the **BeforeSave** event to verify that certain cells contain data before the workbook can be saved. The workbook cannot be saved until there is data in each of the following cells: D5, D7, D9, D11, D13, and D15.
 
 
 

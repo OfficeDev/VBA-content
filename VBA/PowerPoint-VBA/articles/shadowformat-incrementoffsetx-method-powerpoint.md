@@ -33,7 +33,7 @@ Changes the horizontal offset of the shadow by the specified number of points.
 
 ## Remarks
 
-Use the  **[OffsetX](shadowformat-offsetx-property-powerpoint.md)** property to set the absolute horizontal shadow offset.
+Use the **[OffsetX](shadowformat-offsetx-property-powerpoint.md)** property to set the absolute horizontal shadow offset.
 
 
 ## Example

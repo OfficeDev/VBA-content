@@ -18,7 +18,7 @@ One way to test your code is to run it and work with it as a user would.
 
 
 
-- Choose  **Run Sub/UserForm** (F5) from the **Run** menu.
+- Choose **Run Sub/UserForm** (F5) from the **Run** menu.
     
 
 If your application doesn't run, it may be because:
@@ -29,5 +29,5 @@ If your application doesn't run, it may be because:
 - A [logic error](vbe-glossary.md) exists in your code, which may result in a[run-time error](vbe-glossary.md).
     
 
-To get Help, click the  **Help** button or press F1 while the error message is displayed. Consider the suggestions provided to correct the error before you run your code again.
+To get Help, click the **Help** button or press F1 while the error message is displayed. Consider the suggestions provided to correct the error before you run your code again.
 

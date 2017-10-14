@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextRange2.Find Method (Office)
 
-Searches a  **TextRange2** object for a subset of text.
+Searches a **TextRange2** object for a subset of text.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.HelpAbout Method (Project)
 
-Displays the  **About Microsoft Project** dialog box, which lists version, copyright, and license information.
+Displays the **About Microsoft Project** dialog box, which lists version, copyright, and license information.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **About Microsoft Project** dialog box, which lists version, copyr
 
 ## Remarks
 
-The  **HelpAbout** method has the same effect as the **[About](application-about-method-project.md)** method.
+The **HelpAbout** method has the same effect as the **[About](application-about-method-project.md)** method.
 
 

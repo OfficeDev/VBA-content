@@ -20,7 +20,7 @@ Changes the contrast of the picture by the specified amount.
 
  _expression_. **IncrementContrast**( **_Increment_**)
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Parameters
@@ -29,13 +29,13 @@ Changes the contrast of the picture by the specified amount.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Increment|Required| **Single**|Specifies how much to change the value of the  **[Contrast](pictureformat-contrast-property-publisher.md)** property for the picture. A positive value increases the contrast; a negative value decreases the contrast. Valid values are between - 1 and 1.|
+|Increment|Required| **Single**|Specifies how much to change the value of the **[Contrast](pictureformat-contrast-property-publisher.md)** property for the picture. A positive value increases the contrast; a negative value decreases the contrast. Valid values are between - 1 and 1.|
 
 ## Remarks
 
-You cannot adjust the contrast of a picture past the upper or lower limit for the  **Contrast** property. For example, if the **Contrast** property is initially set to 0.9 and you specify 0.3 for the **_Increment_** argument, the resulting contrast level will be 1.0, which is the upper limit for the **Contrast** property, instead of 1.2.
+You cannot adjust the contrast of a picture past the upper or lower limit for the **Contrast** property. For example, if the **Contrast** property is initially set to 0.9 and you specify 0.3 for the **_Increment_** argument, the resulting contrast level will be 1.0, which is the upper limit for the **Contrast** property, instead of 1.2.
 
-Use the  **Contrast** property to set the absolute contrast for the picture.
+Use the **Contrast** property to set the absolute contrast for the picture.
 
 
 ## Example

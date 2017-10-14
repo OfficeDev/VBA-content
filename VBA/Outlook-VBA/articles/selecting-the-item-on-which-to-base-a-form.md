@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Selecting the Item on Which to Base a Form
 
-Each Microsoft Outlook item is a collection of fields. These collections of fields are what define the various forms. Some of these forms might be more useful for some applications than for others. To see the complete list of fields for an item, click  **All** in the **Field Chooser**. For example, to see all the fields in a mail message, click  **All Mail Fields**. If the field that you want is not listed, you can create a custom field by clicking  **New** in the **Field Chooser**.
+Each Microsoft Outlook item is a collection of fields. These collections of fields are what define the various forms. Some of these forms might be more useful for some applications than for others. To see the complete list of fields for an item, click **All** in the **Field Chooser**. For example, to see all the fields in a mail message, click **All Mail Fields**. If the field that you want is not listed, you can create a custom field by clicking **New** in the **Field Chooser**.
 
 
 

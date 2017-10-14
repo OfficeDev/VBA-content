@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.Functions Property (Word)
 
-Returns an  **[OMathFunctions](omathfunctions-object-word.md)** collection that represents the functions contained within an equation. Read-only.
+Returns an **[OMathFunctions](omathfunctions-object-word.md)** collection that represents the functions contained within an equation. Read-only.
 
 
 ## Syntax

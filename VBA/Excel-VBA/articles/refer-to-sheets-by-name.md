@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Refer to Sheets by Name
 
-You can identify sheets by name using the  **[Worksheets](workbook-worksheets-property-excel.md)** and  **[Charts](workbook-charts-property-excel.md)** properties. The following statements activate various sheets in the active workbook.
+You can identify sheets by name using the **[Worksheets](workbook-worksheets-property-excel.md)** and **[Charts](workbook-charts-property-excel.md)** properties. The following statements activate various sheets in the active workbook.
 
 
 ```vb
@@ -24,7 +24,7 @@ Charts("Chart1").Activate
 DialogSheets("Dialog1").Activate
 ```
 
-You can use the  **[Sheets](workbook-sheets-property-excel.md)** property to return a worksheet, chart, module, or dialog sheet. The  **Sheets** collection contains all of these kinds of sheets. The following example activates the sheet named "Chart1" in the active workbook.
+You can use the **[Sheets](workbook-sheets-property-excel.md)** property to return a worksheet, chart, module, or dialog sheet. The **Sheets** collection contains all of these kinds of sheets. The following example activates the sheet named "Chart1" in the active workbook.
 
 
 
@@ -35,6 +35,6 @@ End Sub
 ```
 
 
- **Note**   Charts embedded in a worksheet are members of the **[ChartObjects](chartobjects-object-excel.md)** collection, whereas charts that exist on their own sheets belong to the  **[Charts](charts-object-excel.md)** collection.
+ **Note**   Charts embedded in a worksheet are members of the **[ChartObjects](chartobjects-object-excel.md)** collection, whereas charts that exist on their own sheets belong to the **[Charts](charts-object-excel.md)** collection.
 
 

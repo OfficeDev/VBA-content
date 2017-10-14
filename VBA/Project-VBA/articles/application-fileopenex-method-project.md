@@ -78,7 +78,7 @@ Using the **FileOpenEx** method without specifying any arguments displays the **
 
 If you use the **FileOpenEx** method to open a project that is published to Project Server, it opens the file from the Draft database. For example, to programmatically open a project named Project1 as read/write from Project Server, use the following command: `Application.FileOpenEx Name:="<>\Project1"`.
 
-If you do not want to modify a project, set the _ReadOnly_ parameter to **True**. For example, to open Project2 as read-only, use the following command: `Application.FileOpenEx Name:="<>\Project2", ReadOnly:=True`. To save the file in the Draft database, use the  **Application.FileSave** method. To publish the file from the Draft to the Published database, so that changes are shown to other users, use the **Application.Publish** method.
+If you do not want to modify a project, set the _ReadOnly_ parameter to **True**. For example, to open Project2 as read-only, use the following command: `Application.FileOpenEx Name:="<>\Project2", ReadOnly:=True`. To save the file in the Draft database, use the **Application.FileSave** method. To publish the file from the Draft to the Published database, so that changes are shown to other users, use the **Application.Publish** method.
 
 The _Name_ parameter can contain a file name string or an ODBC data source name (DSN) and project name string. The syntax for a data source is <DataSourceName>\Projectname. The less than (<) and greater than (>) symbols must be included, and a backslash ( \ ) must separate the data source name from the project name. _DataSourceName_ itself can either be one of the ODBC data source names installed on the computer or a path and file name for a file-based database.
 

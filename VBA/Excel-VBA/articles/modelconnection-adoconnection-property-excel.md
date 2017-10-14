@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelConnection.ADOConnection Property (Excel)
 
-The ADO Connection Object is used to create an open connection to a data source. Enables addins, such as Powerview, to create a direct connection to the engine and hence the data model.  **ADOConnection** object Read-only.
+The ADO Connection Object is used to create an open connection to a data source. Enables addins, such as Powerview, to create a direct connection to the engine and hence the data model. **ADOConnection** object Read-only.
 
 
 ## Syntax

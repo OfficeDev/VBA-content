@@ -25,7 +25,7 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 
 ## Remarks
 
-If a mail item is an inline reply, calling  **Save** on that mail item may fail and result in unexpected behavior.
+If a mail item is an inline reply, calling **Save** on that mail item may fail and result in unexpected behavior.
 
 
 ## See also

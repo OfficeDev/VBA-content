@@ -23,7 +23,7 @@ Represents the individual shapes within a grouped shape.
 
 ## Example
 
-Use the  **[GroupItems](shape-groupitems-property-excel.md)** property to return the **GroupShapes** collection. Use **[GroupItems](shape-groupitems-property-excel.md)** ( _index_ ), where _index_ is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to _myDocument_ , groups them, sets a color for the entire group, and then changes the color for the second triangle only.
+Use the **[GroupItems](shape-groupitems-property-excel.md)** property to return the **GroupShapes** collection. Use **[GroupItems](shape-groupitems-property-excel.md)** ( _index_ ), where _index_ is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to _myDocument_ , groups them, sets a color for the entire group, and then changes the color for the second triangle only.
 
 
 ```vb

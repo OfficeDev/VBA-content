@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCaptions.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **AutoCaptions** collection.
+Returns an **Object** that represents the parent object of the specified **AutoCaptions** collection.
 
 
 ## Syntax

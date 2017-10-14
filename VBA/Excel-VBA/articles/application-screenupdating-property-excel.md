@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 Turn screen updating off to speed up your macro code. You won't be able to see what the macro is doing, but it will run faster.
 
-Remember to set the  **ScreenUpdating** property back to **True** when your macro ends.
+Remember to set the **ScreenUpdating** property back to **True** when your macro ends.
 
 
 ## Example

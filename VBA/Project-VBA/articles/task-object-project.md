@@ -15,12 +15,12 @@ ms.date: 06/08/2017
 
 
 
-Represents a task. The  **Task** object is a member of the **[Tasks](tasks-object-project.md)** collection.
+Represents a task. The **Task** object is a member of the **[Tasks](tasks-object-project.md)** collection.
  **Using the Task Object**
-Use  **Tasks** ( _Index_ ), where _Index_ is the task index number or task name, to return a single **Task** object. The following example prints the name of every resource assigned to every task in the active project.
+Use **Tasks** ( _Index_ ), where _Index_ is the task index number or task name, to return a single **Task** object. The following example prints the name of every resource assigned to every task in the active project.
  **Using the Tasks Collection**
-Use the  **[Tasks](http://msdn.microsoft.com/library/8f58ea8e-a3a1-f5aa-ad5d-6447fe777453%28Office.15%29.aspx)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
-Use the  **[Add](http://msdn.microsoft.com/library/a6e2186b-610c-0888-a22a-8b7deba3f53f%28Office.15%29.aspx)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
+Use the **[Tasks](http://msdn.microsoft.com/library/8f58ea8e-a3a1-f5aa-ad5d-6447fe777453%28Office.15%29.aspx)** property to return a **Tasks** collection. The following example displays the name of every task in the selection.
+Use the **[Add](http://msdn.microsoft.com/library/a6e2186b-610c-0888-a22a-8b7deba3f53f%28Office.15%29.aspx)** method to add a **Task** object to the **Tasks** collection. The following example adds a new task to the end of the task list.
 
 ## Methods
 

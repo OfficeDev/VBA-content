@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AcControlType Enumeration (Access)
 
-Specifies the type of control created by the  **CreateControl** and **CreateReportControl** methods.
+Specifies the type of control created by the **CreateControl** and **CreateReportControl** methods.
 
 
 

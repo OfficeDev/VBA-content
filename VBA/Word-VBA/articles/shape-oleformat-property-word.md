@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.OLEFormat Property (Word)
 
-Returns an  **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified shape, inline shape, or field. Read-only.
+Returns an **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified shape, inline shape, or field. Read-only.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WrapFormat.DistanceAuto Property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether an appropriate distance between an inline shape and any surrounding text is automatically calculated. Read/write.
+Returns or sets an **MsoTriState** constant indicating whether an appropriate distance between an inline shape and any surrounding text is automatically calculated. Read/write.
 
 
 ## Syntax
 
  _expression_. **DistanceAuto**
 
- _expression_A variable that represents a  **WrapFormat** object.
+ _expression_A variable that represents a **WrapFormat** object.
 
 
 ### Return Value
@@ -30,14 +30,14 @@ MsoTriState
 
 ## Remarks
 
-The  **DistanceAuto** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **DistanceAuto** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The shape's edges are not adjusted depending on the margins of the text box it overlaps.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTriStateToggle**| Set value that switches the property value between **msoTrue** and **msoFalse**.|
 | **msoTrue**|The default. The shape's edges are automatically adjusted depending on the margins of the text box it overlaps. |
 

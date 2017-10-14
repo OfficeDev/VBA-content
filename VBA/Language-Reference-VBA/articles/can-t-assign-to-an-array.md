@@ -37,7 +37,7 @@ Arr1() = Arr2()    ' Invalid assignment.
 
     To assign one array to another, make sure the array on the left-hand side of the assignment is resizable and the types of the array match.
     
-     **Note**  You can place a whole array in a  **Variant**, resulting in a single variant variable containing the whole array:
+    **Note**  You can place a whole array in a **Variant**, resulting in a single variant variable containing the whole array:
 
 
 

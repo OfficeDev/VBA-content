@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.GetFreeBusy Method (Outlook)
 
-Obtains a  **String** representing the availability of the **[ExchangeUser](exchangeuser-object-outlook.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
+Obtains a **String** representing the availability of the **[ExchangeUser](exchangeuser-object-outlook.md)** for a period of 30 days from the start date, beginning at midnight of the date specified.
 
 
 ## Syntax
@@ -31,16 +31,16 @@ Obtains a  **String** representing the availability of the **[ExchangeUser](exch
 |:-----|:-----|:-----|:-----|
 | _Start_|Required| **Date**|The date of availability, starting at midnight.|
 | _MinPerChar_|Required| **Long**|Specifies the length of each time slot in minutes. Default is 30 minutes.|
-| _CompleteFormat_|Optional| **Variant**|A value of  **True** indicates that a finer granularity of busy time is returned in the free/busy string. A value of **False** indicates that a distinction between only the available and busy times is returned.|
+| _CompleteFormat_|Optional| **Variant**|A value of **True** indicates that a finer granularity of busy time is returned in the free/busy string. A value of **False** indicates that a distinction between only the available and busy times is returned.|
 
 ### Return Value
 
-A  **String** that represents the availability of the Exchange user for a period of 30 days from the start date, beginning at midnight of the date specified. Each character in the **String** is a value indicating if the user is available (0), and optionally, whether a busy time is marked tentative (1), out of office (3), or other (2).
+A **String** that represents the availability of the Exchange user for a period of 30 days from the start date, beginning at midnight of the date specified. Each character in the **String** is a value indicating if the user is available (0), and optionally, whether a busy time is marked tentative (1), out of office (3), or other (2).
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **GetFreeBusy** method to retrieve the free/busy information, with each time slot representing a 60 minute period, for the manager assigned to the current user. The example then uses that information to calculate the date and time on which the first free period occurs, and displays that information in the **Debug** window.
+The following Visual Basic for Applications (VBA) example uses the **GetFreeBusy** method to retrieve the free/busy information, with each time slot representing a 60 minute period, for the manager assigned to the current user. The example then uses that information to calculate the date and time on which the first free period occurs, and displays that information in the **Debug** window.
 
 
 ```vb

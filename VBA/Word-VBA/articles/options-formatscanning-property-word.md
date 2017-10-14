@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Enabling the  **FormatScanning** property allows you to identify all unique formatting in your document, so you can easily apply the same formatting to new text and quickly replace or modify all instances of a given formatting within a document.
+Enabling the **FormatScanning** property allows you to identify all unique formatting in your document, so you can easily apply the same formatting to new text and quickly replace or modify all instances of a given formatting within a document.
 
 
 ## Example

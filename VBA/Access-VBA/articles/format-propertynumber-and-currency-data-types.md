@@ -18,14 +18,14 @@ ms.date: 06/08/2017
 [Examples](#sectionSection2)
 
 
-You can set the  **Format** property to predefined number formats or custom number formats for the Number and Currency data types.
+You can set the **Format** property to predefined number formats or custom number formats for the Number and Currency data types.
 
 ## Setting
 <a name="sectionSection0"> </a>
 
  **Predefined Formats**
 
-The following table shows the predefined  **Format** property settings for numbers.
+The following table shows the predefined **Format** property settings for numbers.
 
 
 
@@ -50,7 +50,7 @@ Custom number formats can have one to four sections with semicolons (;) as the l
 |First|The format for positive numbers.|
 |Second|The format for negative numbers.|
 |Third|The format for zero values.|
-|Fourth|The format for  **Null** values.|
+|Fourth|The format for **Null** values.|
 For example, you could use the following custom Currency format:
 
 
@@ -82,7 +82,7 @@ You can create custom number formats by using the following symbols.
 ## Remarks
 <a name="sectionSection1"> </a>
 
-You can use the  **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
+You can use the **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
 
 The predefined currency and euro formats follow the settings in the regional settings of Windows. You can override these by entering your own currency format.
 
@@ -108,7 +108,7 @@ The following are examples of custom number formats.
 
 |**Setting**|**Description**|
 |:-----|:-----|
-|0;(0);;"Null"|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is  **Null**.|
+|0;(0);;"Null"|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is **Null**.|
 |+0.0;-0.0;0.0|Display a plus (+) or minus (-) sign with positive or negative numbers; display 0.0 if the value is zero.|
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.Name Property (Excel)
 
-Returns or sets the name of the workbook connection object. Read/write  **String** .
+Returns or sets the name of the workbook connection object. Read/write **String** .
 
 
 ## Syntax

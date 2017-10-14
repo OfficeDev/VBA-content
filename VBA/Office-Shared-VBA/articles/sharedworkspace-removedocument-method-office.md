@@ -28,9 +28,9 @@ Removes the active document from the shared workspace site.
 
 ## Remarks
 
-If the user does not have permission to remove the shared workspace document from the server, then the server copy remains intact, but the local copy of the document is disconnected from the shared workspace. In the case where the document was opened directly from the workspace, then removed from the workspace using  **RemoveDocument**, the document must be saved to another location before closing; otherwise, it remains in the workspace.
+If the user does not have permission to remove the shared workspace document from the server, then the server copy remains intact, but the local copy of the document is disconnected from the shared workspace. In the case where the document was opened directly from the workspace, then removed from the workspace using **RemoveDocument**, the document must be saved to another location before closing; otherwise, it remains in the workspace.
 
-Use the  **[Disconnect](sharedworkspace-disconnect-method-office.md)** method to detach the local copy of the document from the shared workspace without removing the shared copy.
+Use the **[Disconnect](sharedworkspace-disconnect-method-office.md)** method to detach the local copy of the document from the shared workspace without removing the shared copy.
 
 
 ## Example

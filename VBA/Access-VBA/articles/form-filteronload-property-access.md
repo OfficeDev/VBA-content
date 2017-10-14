@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.FilterOnLoad Property (Access)
 
-Gets or sets whether the filter specified by the  **[Filter](form-filter-property-access.md)** property is applied when the form is loaded. Read/write **Boolean**.
+Gets or sets whether the filter specified by the **[Filter](form-filter-property-access.md)** property is applied when the form is loaded. Read/write **Boolean**.
 
 
 ## Syntax

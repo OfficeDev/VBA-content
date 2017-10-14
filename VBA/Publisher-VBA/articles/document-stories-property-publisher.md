@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.Stories Property (Publisher)
 
-Returns a  **[Stories](stories-object-publisher.md)** collection containing all stories in the publication.
+Returns a **[Stories](stories-object-publisher.md)** collection containing all stories in the publication.
 
 
 ## Syntax
 
  _expression_. **Stories**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Stories
 
 ## Example
 
-This example assigns the first story in the  **Stories** collection to a variable.
+This example assigns the first story in the **Stories** collection to a variable.
 
 
 ```vb

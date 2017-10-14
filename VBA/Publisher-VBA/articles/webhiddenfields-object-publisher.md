@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # WebHiddenFields Object (Publisher)
 
-Represents hidden Web fields that allow a Web page to pass non-visible data to the Web server when a Web page is submitted. The  **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
+Represents hidden Web fields that allow a Web page to pass non-visible data to the Web server when a Web page is submitted. The **WebHiddenFields** object enables control of all the hidden fields attached to a Submit command button.
  
 
 
 ## Example
 
-Use the  **HiddenFields** property to access hidden Web fields. This example adds a new hidden Web field to a new Submit command button.
+Use the **HiddenFields** property to access hidden Web fields. This example adds a new hidden Web field to a new Submit command button.
  
 
  

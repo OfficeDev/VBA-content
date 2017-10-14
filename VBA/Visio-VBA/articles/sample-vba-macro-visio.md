@@ -14,9 +14,9 @@ ms.date: 06/08/2017
 For each drawing file that is open in the Visio instance, the sample Visual Basic for Applications (VBA) macro shown below does the following:
 
 
-- Logs the name and path of the drawing file in the  **Immediate** window
+- Logs the name and path of the drawing file in the **Immediate** window
     
-- Logs the name of each page in the  **Immediate** window
+- Logs the name of each page in the **Immediate** window
     
 
 ```vb
@@ -66,6 +66,6 @@ End Sub
 |```Page-2```|The name of page 2|
 |```Page-3```|The name of page 3|
 
-You can find more information about writing a program in the VBA environment and about the Visual Basic Editor in Visual Basic Help (in the Visual Basic Editor window, on the  **Help** menu, click **Microsoft Visual Basic Help**).
+You can find more information about writing a program in the VBA environment and about the Visual Basic Editor in Visual Basic Help (in the Visual Basic Editor window, on the **Help** menu, click **Microsoft Visual Basic Help**).
 You can find details about using a specific Visio object, property, method, enumeration, or event in this reference.
 

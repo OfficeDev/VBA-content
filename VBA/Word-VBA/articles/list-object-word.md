@@ -13,32 +13,32 @@ ms.date: 06/08/2017
 
 # List Object (Word)
 
-Represents a single list format that's been applied to specified paragraphs in a document. The  **List** object is a member of the **Lists** collection.
+Represents a single list format that's been applied to specified paragraphs in a document. The **List** object is a member of the **Lists** collection.
 
 
 ## Remarks
 
-Use  **Lists** (Index), where Index is the index number, to return a single **List** object. The following example returns the number of items in list one in the active document.
+Use **Lists** (Index), where Index is the index number, to return a single **List** object. The following example returns the number of items in list one in the active document.
 
 
 ```
 mycount = ActiveDocument.Lists(1).CountNumberedItems
 ```
 
-To return all the paragraphs that have list formatting, use the  **ListParagraphs** property. To return them as a range, use the **Range** property.
+To return all the paragraphs that have list formatting, use the **ListParagraphs** property. To return them as a range, use the **Range** property.
 
-To apply a different list format to an existing list, use the  **ApplyListTemplate** method with the **List** object. To add a new list to a document, use the **ApplyListTemplate** method with the **[ListFormat](listformat-object-word.md)** object for a specified range.
+To apply a different list format to an existing list, use the **ApplyListTemplate** method with the **List** object. To add a new list to a document, use the **ApplyListTemplate** method with the **[ListFormat](listformat-object-word.md)** object for a specified range.
 
-Use the  **CanContinuePreviousList** method to determine whether you can continue the list formatting from a list that was previously applied to the document.
+Use the **CanContinuePreviousList** method to determine whether you can continue the list formatting from a list that was previously applied to the document.
 
-Use the  **CountNumberedItems** method to return the number of items in a numbered or bulleted list, including LISTNUM fields.
+Use the **CountNumberedItems** method to return the number of items in a numbered or bulleted list, including LISTNUM fields.
 
-To determine whether a list contains more than one list template, use the  **SingleListTemplate** property.
+To determine whether a list contains more than one list template, use the **SingleListTemplate** property.
 
-You can manipulate the individual  **List** objects within a document, but for more precise control you should work with the **ListFormat** object.
+You can manipulate the individual **List** objects within a document, but for more precise control you should work with the **ListFormat** object.
 
 
- **Note**  Picture-bulleted lists are not included in the  **[Lists](lists-object-word.md)** collection and cannot be manipulated using the **List** object.
+ **Note**  Picture-bulleted lists are not included in the **[Lists](lists-object-word.md)** collection and cannot be manipulated using the **List** object.
 
 
 ## Methods

@@ -22,7 +22,7 @@ You must reconfigure the Replication Manager.
 
 1. Start Replication Manager.
     
-2. On the  **Tools** menu, click **Configure Microsoft Replication Manager**.
+2. On the **Tools** menu, click **Configure Microsoft Replication Manager**.
     
 3. Follow the instructions in the wizard.
     

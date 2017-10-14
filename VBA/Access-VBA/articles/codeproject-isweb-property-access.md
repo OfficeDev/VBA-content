@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CodeProject.IsWeb Property (Access)
 
-Gets whether the database is a Web database. Read-only  **Boolean**.
+Gets whether the database is a Web database. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets whether the database is a Web database. Read-only  **Boolean**.
 
 ## Remarks
 
-The  **IsWeb** property contains **True** if the database is a Web database.
+The **IsWeb** property contains **True** if the database is a Web database.
 
 
 ## See also

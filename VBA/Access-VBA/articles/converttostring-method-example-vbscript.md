@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The following example shows how to convert a  **Recordset** into a MIME-encoded string using the **RDSServer.DataFactory** **ConvertToString** method. It then shows how the string can be converted back into a **Recordset**. Cut and paste the following code to Notepad or another text editor and save it as **ConvertToString.htm**.
+The following example shows how to convert a **Recordset** into a MIME-encoded string using the **RDSServer.DataFactory** **ConvertToString** method. It then shows how the string can be converted back into a **Recordset**. Cut and paste the following code to Notepad or another text editor and save it as **ConvertToString.htm**.
 
 
 

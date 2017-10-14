@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.QueryTable Property (Excel)
 
-Returns a  **[QueryTable](querytable-object-excel.md)** object that represents the query table that intersects the specified **[Range](range-object-excel.md)** object.
+Returns a **[QueryTable](querytable-object-excel.md)** object that represents the query table that intersects the specified **[Range](range-object-excel.md)** object.
 
 
 ## Syntax

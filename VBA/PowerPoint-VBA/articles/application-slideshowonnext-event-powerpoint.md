@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SlideShowOnNext Event (PowerPoint)
 
-Occurs when the user clicks  **Next** to move within the current slide.
+Occurs when the user clicks **Next** to move within the current slide.
 
 
 ## Syntax
@@ -33,14 +33,14 @@ Occurs when the user clicks  **Next** to move within the current slide.
 
 ## Remarks
 
-To access  **Application** object events, declare a variable to represent the **Application** object in the **General Declarations** section of your code. Then set the variable equal to the **Application** object for which you want to access events. For more information about using events with the Microsoft PowerPoint **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+To access **Application** object events, declare a variable to represent the **Application** object in the **General Declarations** section of your code. Then set the variable equal to the **Application** object for which you want to access events. For more information about using events with the Microsoft PowerPoint **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
-The  **SlideShowOnNext** event does not fire when users click **Next** to move to the next slide, but rather only when they click **Next** to move within a given slide, for example to run the next animation on the slide.
+The **SlideShowOnNext** event does not fire when users click **Next** to move to the next slide, but rather only when they click **Next** to move within a given slide, for example to run the next animation on the slide.
 
 
 ## Example
 
-This example displays a message every time a user clicks  **Next** to move with the current slide. The example assumes that you have already declared an **Application** object named _App_ in the **General Declarations** section of your code, using the **WithEvents** keyword.
+This example displays a message every time a user clicks **Next** to move with the current slide. The example assumes that you have already declared an **Application** object named _App_ in the **General Declarations** section of your code, using the **WithEvents** keyword.
 
 
 ```vb

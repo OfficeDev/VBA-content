@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # MailMergeDataField Object (Word)
 
-Represents a single mail merge field in a data source. The  **MailMergeDataField** object is a member of the **[MailMergeDataFields](mailmergedatafields-object-word.md)** collection. The **MailMergeDataFields** collection includes all the data fields in a mail merge data source (for example, Name, Address, and City).
+Represents a single mail merge field in a data source. The **MailMergeDataField** object is a member of the **[MailMergeDataFields](mailmergedatafields-object-word.md)** collection. The **MailMergeDataFields** collection includes all the data fields in a mail merge data source (for example, Name, Address, and City).
 
 
 ## Remarks
 
-Use  **DataFields** (Index), where Index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. The following example retrieves the first value from the FName field in the data source attached to the active document.
+Use **DataFields** (Index), where Index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. The following example retrieves the first value from the FName field in the data source attached to the active document.
 
 
 ```
@@ -35,7 +35,7 @@ The following example displays the name of first field in the data source attach
 MsgBox ActiveDocument.MailMerge.DataSource.DataFields(1).Name
 ```
 
-You cannot add fields to the  **MailMergeDataFields** collection. All data fields in a data source are automatically included in the **MailMergeDataFields** collection.
+You cannot add fields to the **MailMergeDataFields** collection. All data fields in a data source are automatically included in the **MailMergeDataFields** collection.
 
 
 ## See also

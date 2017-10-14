@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Layers.Document Property (Visio)
 
-Gets the  **Document** object that is associated with an object. Read-only.
+Gets the **Document** object that is associated with an object. Read-only.
 
 
 ## Syntax

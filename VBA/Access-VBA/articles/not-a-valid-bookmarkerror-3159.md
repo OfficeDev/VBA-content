@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 You tried to set a bookmark to an invalid string.
 
-This error can occur if you set the  **Bookmark** property to a string that is invalid or was not saved from previously reading a **Bookmark** property. For example, the following code produces this error:
+This error can occur if you set the **Bookmark** property to a string that is invalid or was not saved from previously reading a **Bookmark** property. For example, the following code produces this error:
 
 
 

@@ -23,7 +23,7 @@ If  _time_ is a string, **Time** attempts to convert it to a time using the time
 
 ## Example
 
-This example uses the  **Time** statement to set the computer system time to a user-defined time.
+This example uses the **Time** statement to set the computer system time to a user-defined time.
 
 
 ```vb

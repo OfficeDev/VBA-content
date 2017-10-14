@@ -18,13 +18,13 @@ Represents a collection of sparkline groups.
 
 ## Remarks
 
-The  **SparklineGroups** object can contain multiple **[SparklineGroup](sparklinegroup-object-excel.md)** objects.
+The **SparklineGroups** object can contain multiple **[SparklineGroup](sparklinegroup-object-excel.md)** objects.
 
-Use the  **[SparklineGroups](range-sparklinegroups-property-excel.md)** property of the **[Range](range-object-excel.md)** object to return an existing **SparklineGroups** collection from its parent range.
+Use the **[SparklineGroups](range-sparklinegroups-property-excel.md)** property of the **[Range](range-object-excel.md)** object to return an existing **SparklineGroups** collection from its parent range.
 
-Use the  **[Add](sparklinegroups-add-method-excel.md)** method to create a group of new sparklines.
+Use the **[Add](sparklinegroups-add-method-excel.md)** method to create a group of new sparklines.
 
-Use the  **[Group](sparklinegroups-group-method-excel.md)** method to create a group of existing sparklines.
+Use the **[Group](sparklinegroups-group-method-excel.md)** method to create a group of existing sparklines.
 
 
 ## Example

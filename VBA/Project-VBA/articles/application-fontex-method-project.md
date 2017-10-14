@@ -34,10 +34,10 @@ Sets the font for the text in the active cells.
 | _Bold_|Optional|**Variant**|**True** if the font is bold.|
 | _Italic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _Color_|Optional|**Long**|The color of the font. Can be one of the  **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _Color_|Optional|**Long**|The color of the font. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
 | _Reset_|Optional|**Boolean**|**True** if the font is reset to its default characteristics. All other arguments are ignored. The default value is **False**.|
-| _CellColor_|Optional|**Variant**|The color of the cell. Can be one of the  **[PjColor](pjcolor-enumeration-project.md)** constants.|
-| _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _CellColor_|Optional|**Variant**|The color of the cell. Can be one of the **[PjColor](pjcolor-enumeration-project.md)** constants.|
+| _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 
 ### Return Value
 
@@ -46,7 +46,7 @@ Sets the font for the text in the active cells.
 
 ## Remarks
 
-To set the font with an RGB hexadecimal value for color or with a strikethrough format, use the  **[Font32Ex](application-font32ex-method-project.md)** method.
+To set the font with an RGB hexadecimal value for color or with a strikethrough format, use the **[Font32Ex](application-font32ex-method-project.md)** method.
 
 
 ## Example

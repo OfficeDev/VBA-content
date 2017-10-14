@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # Alignment Property Example
 
-The following example demonstrates the  **Alignment** property used with several **OptionButton** controls. In this example, the user can change the alignment by clicking a **ToggleButton**.
+The following example demonstrates the **Alignment** property used with several **OptionButton** controls. In this example, the user can change the alignment by clicking a **ToggleButton**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains the following controls:
 
 
 
 
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **ToggleButton** named ToggleButton1.
     
 
 

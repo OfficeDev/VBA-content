@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Replace Command (Edit Menu)
 
-Searches code in the project for the specified text and replaces it with the new text specified in the  **Replace** dialog box.
+Searches code in the project for the specified text and replaces it with the new text specified in the **Replace** dialog box.
 
 Toolbar shortcut: 
 ![Toolbar button](images/tbr_repl_ZA01201735.gif). Keyboard shortcut: CTRL+H.
@@ -24,7 +24,7 @@ Type or insert the information you want to find, or click the down arrow and sel
 
  **Replace With**
 
-Type the text you want to use as the replacement text or paste it from the  **Clipboard**. To delete the text in the Find What box from the document, leave the Replace With box empty.
+Type the text you want to use as the replacement text or paste it from the **Clipboard**. To delete the text in the Find What box from the document, leave the Replace With box empty.
 
  **Search**
 

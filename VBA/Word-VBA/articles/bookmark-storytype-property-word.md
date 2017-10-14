@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark.StoryType Property (Word)
 
-Returns the story type for the specified range, selection, or bookmark. Read-only  **WdStoryType** .
+Returns the story type for the specified range, selection, or bookmark. Read-only **WdStoryType** .
 
 
 ## Syntax

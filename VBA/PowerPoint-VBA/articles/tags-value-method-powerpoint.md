@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tags.Value Method (PowerPoint)
 
-Returns the value of the specified tag as a  **String**.
+Returns the value of the specified tag as a **String**.
 
 
 ## Syntax

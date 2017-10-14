@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.OLEDBConnection Property (Excel)
 
-Retuns the OLEDB Connection details for the specified  **WorkbookConnection** object. Read-only ** OLEDBConnection** .
+Retuns the OLEDB Connection details for the specified **WorkbookConnection** object. Read-only ** OLEDBConnection** .
 
 
 ## Syntax

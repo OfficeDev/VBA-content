@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.ConnectString Property (Word)
 
-Returns the connection string for the specified mail merge data source. Read-only  **String** .
+Returns the connection string for the specified mail merge data source. Read-only **String** .
 
 
 ## Syntax

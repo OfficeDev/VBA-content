@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Table.Columns Property (Publisher)
 
-Returns a  **[Columns](columns-object-publisher.md)** collection that represents all the columns of the specified table.
+Returns a **[Columns](columns-object-publisher.md)** collection that represents all the columns of the specified table.
 
 
 ## Syntax
 
  _expression_. **Columns**
 
- _expression_A variable that represents a  **Table** object.
+ _expression_A variable that represents a **Table** object.
 
 
 ## Example

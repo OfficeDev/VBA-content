@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Endnote Object (Word)
 
-Represents an endnote. The  **Endnote** object is a member of the **Endnotes** collection, which represents the endnotes in a selection, range, or document.
+Represents an endnote. The **Endnote** object is a member of the **Endnotes** collection, which represents the endnotes in a selection, range, or document.
 
 
 ## Remarks
 
-Use  **Endnotes** (Index), where Index is the index number, to return a single **Endnote** object. The index number represents the position of the endnote in the selection, range, or document. The following example applies red formatting to the first endnote in the selection.
+Use **Endnotes** (Index), where Index is the index number, to return a single **Endnote** object. The index number represents the position of the endnote in the selection, range, or document. The following example applies red formatting to the first endnote in the selection.
 
 
 ```vb
@@ -27,7 +27,7 @@ If Selection.Endnotes.Count >= 1 Then
 End If
 ```
 
-Use the  **Add** method to add an endnote to the **[Endnotes](endnotes-object-word.md)** collection. The following example adds an endnote immediately after the selection.
+Use the **Add** method to add an endnote to the **[Endnotes](endnotes-object-word.md)** collection. The following example adds an endnote immediately after the selection.
 
 
 

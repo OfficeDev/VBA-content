@@ -38,7 +38,7 @@ Options.SendMailAttach = True
 ActiveDocument.SendMail
 ```
 
-This example returns the state of the  **Mail as attachment** option on the **General** tab of the **Options** dialog box.
+This example returns the state of the **Mail as attachment** option on the **General** tab of the **Options** dialog box.
 
 
 

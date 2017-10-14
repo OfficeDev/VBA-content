@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtNodes.Count Property (Office)
 
-Retrieves the number of  **SmartArtNode** objects contained within the **SmartArtNodes** collection. Read-only
+Retrieves the number of **SmartArtNode** objects contained within the **SmartArtNodes** collection. Read-only
 
 
 ## Syntax

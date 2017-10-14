@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Display more load errors?
 
-Click  **OK** to see more errors, otherwise click **Cancel**.
+Click **OK** to see more errors, otherwise click **Cancel**.
 
 

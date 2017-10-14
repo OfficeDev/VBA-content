@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Nary Property (Word)
 
-Returns an  **[OMathNary](omathnary-object-word.md)** object that represents the n-ary operation. Read-only.
+Returns an **[OMathNary](omathnary-object-word.md)** object that represents the n-ary operation. Read-only.
 
 
 ## Syntax

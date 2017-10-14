@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Boolean** value indicating whether an[expression](vbe-glossary.md) can be evaluated as a number.
+Returns a **Boolean** value indicating whether an[expression](vbe-glossary.md) can be evaluated as a number.
  **Syntax**
  **IsNumeric(**_expression_**)**
 The required  _expression_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md) containing a[numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md).
@@ -23,7 +23,7 @@ The required  _expression_[argument](vbe-glossary.md) is a[Variant](vbe-glossary
 
 ## Example
 
-This example uses the  **IsNumeric** function to determine if a variable can be evaluated as a number.
+This example uses the **IsNumeric** function to determine if a variable can be evaluated as a number.
 
 
 ```vb

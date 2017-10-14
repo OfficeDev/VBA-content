@@ -29,12 +29,12 @@ ms.date: 06/08/2017
 
 This property is used only for lists that are linked to a SharePoint site.
 
-In Microsoft Excel, you cannot set any of the properties associated with the  **ListDataFormat** object. You can set these properties, however, by modifying the list on the SharePoint site.
+In Microsoft Excel, you cannot set any of the properties associated with the **ListDataFormat** object. You can set these properties, however, by modifying the list on the SharePoint site.
 
 
 ## Example
 
-The following example displays the setting of the  **MinNumber** property for the third column of a list in Sheet1 of the active workbook.
+The following example displays the setting of the **MinNumber** property for the third column of a list in Sheet1 of the active workbook.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CommandBarComboBox.Visible Property (Office)
 
-Gets or sets the  **Visible** property for the **CommandBarComboBox** control. **True** if the **CommandBarControl** is visible. Read/write.
+Gets or sets the **Visible** property for the **CommandBarComboBox** control. **True** if the **CommandBarControl** is visible. Read/write.
 
 
 ## 

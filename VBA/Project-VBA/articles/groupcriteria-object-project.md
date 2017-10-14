@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # GroupCriteria Object (Project)
 
-Contains a collection of  **[GroupCriterion](groupcriterion-object-project.md)** objects.
+Contains a collection of **[GroupCriterion](groupcriterion-object-project.md)** objects.
  
 
 
 ## Remarks
 
-For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[GroupCriteria2](groupcriteria2-object-project.md)** collection object.
+For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the **[GroupCriteria2](groupcriteria2-object-project.md)** collection object.
  
 
  
@@ -25,7 +25,7 @@ For groups where the group hierarchy can be maintained and cell color can be a h
  
 
  
-Use  **GroupCriteria(***Index* **)**, where*Index* is the criterion index, to return a single **GroupCriterion** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
+Use **GroupCriteria(***Index* **)**, where*Index* is the criterion index, to return a single **GroupCriterion** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
  
 
  
@@ -40,7 +40,7 @@ ActiveProject.ResourceGroups("Standard Rate").GroupCriteria(1).CellColor = pjBlu
  
 
  
-Use the  **[GroupCriteria](group-groupcriteria-property-project.md)** property to return a **GroupCriteria** collection. The following example displays a list of the fields used as criteria in the specified task group and whether they are sorted in ascending or descending order.
+Use the **[GroupCriteria](group-groupcriteria-property-project.md)** property to return a **GroupCriteria** collection. The following example displays a list of the fields used as criteria in the specified task group and whether they are sorted in ascending or descending order.
  
 
  
@@ -73,7 +73,7 @@ Next GC
 MsgBox Fields
 ```
 
-Use the  **[Add](groupcriteria-add-method-project.md)** method to add a **GroupCriterion** object to the **GroupCriteria** collection. The following example adds another criterion to the specified resource group, grouping resources in ascending order as determined by the percentage of their work (in 25-percent increments) that is complete.
+Use the **[Add](groupcriteria-add-method-project.md)** method to add a **GroupCriterion** object to the **GroupCriteria** collection. The following example adds another criterion to the specified resource group, grouping resources in ascending order as determined by the percentage of their work (in 25-percent increments) that is complete.
  
 
  

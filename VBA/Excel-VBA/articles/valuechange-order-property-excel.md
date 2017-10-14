@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValueChange.Order Property (Excel)
 
-Returns a value that indicates the order in which this change was performed relative to other changes in the  **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection. Read-only
+Returns a value that indicates the order in which this change was performed relative to other changes in the **[PivotTableChangeList](pivottablechangelist-object-excel.md)** collection. Read-only
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a value that indicates the order in which this change was performed rela
 
 ## Remarks
 
-The value of the  **Order** property is automatically assigned by Excel based on the order that the user applied the changes to value cells in the PivotTable report. If multiple changes were applied in one operation, Excel will arbitrarily assign the order within that set of changes.
+The value of the **Order** property is automatically assigned by Excel based on the order that the user applied the changes to value cells in the PivotTable report. If multiple changes were applied in one operation, Excel will arbitrarily assign the order within that set of changes.
 
 
 ## See also

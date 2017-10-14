@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.FileSize Property (Publisher)
 
-Returns a  **Long** that represents, in bytes, the size of the picture or OLE object as it appears in the specified publication. Read-only.
+Returns a **Long** that represents, in bytes, the size of the picture or OLE object as it appears in the specified publication. Read-only.
 
 
 ## Syntax
 
  _expression_. **FileSize**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Long
 
 ## Remarks
 
-If the picture or OLE object is linked, use the  **[OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)** property to determine the size of the linked file.
+If the picture or OLE object is linked, use the **[OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)** property to determine the size of the linked file.
 
-To determine whether a shape represents a linked picture, use either the  **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
+To determine whether a shape represents a linked picture, use either the **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object, or the **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object.
 
 
 ## Example

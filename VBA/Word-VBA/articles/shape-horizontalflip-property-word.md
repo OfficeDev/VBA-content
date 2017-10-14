@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.HorizontalFlip Property (Word)
 
-Indicates that a shape has been flipped horizontally. Read-only  **MsoTriState** .
+Indicates that a shape has been flipped horizontally. Read-only **MsoTriState** .
 
 
 ## Syntax

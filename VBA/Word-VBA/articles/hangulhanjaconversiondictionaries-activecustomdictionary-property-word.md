@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HangulHanjaConversionDictionaries.ActiveCustomDictionary Property (Word)
 
-Returns or sets a  **[Dictionary](dictionary-object-word.md)** object that represents the custom dictionary to which words will be added. Read/write.
+Returns or sets a **[Dictionary](dictionary-object-word.md)** object that represents the custom dictionary to which words will be added. Read/write.
 
 
 ## Syntax

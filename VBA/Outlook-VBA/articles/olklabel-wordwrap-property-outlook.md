@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkLabel.WordWrap Property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
+Returns or sets a **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 ## Remarks
 
-The default value is  **True** .
+The default value is **True** .
 
 
 ## See also

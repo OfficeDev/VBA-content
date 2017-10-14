@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.LeftMargin Property (Word)
 
-Returns or sets the distance (in points) between the left edge of the page and the left boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the left edge of the page and the left boundary of the body text. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the distance (in points) between the left edge of the page and t
 
 ## Remarks
 
-If the  **[MirrorMargins](pagesetup-mirrormargins-property-word.md)** property is set to **True** , the LeftMargin property controls the setting for inside margins and the **[RightMargin](pagesetup-rightmargin-property-word.md)** property controls the setting for outside margins.
+If the **[MirrorMargins](pagesetup-mirrormargins-property-word.md)** property is set to **True** , the LeftMargin property controls the setting for inside margins and the **[RightMargin](pagesetup-rightmargin-property-word.md)** property controls the setting for outside margins.
 
 
 ## Example

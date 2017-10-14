@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-The setting of the  **ApplyThemesOnShapeAdd** property corresponds to the setting of the **Apply Theme to New Shapes** checkbox in the **Themes** gallery on the **Design** tab in the Microsoft Visio user interface.
+The setting of the **ApplyThemesOnShapeAdd** property corresponds to the setting of the **Apply Theme to New Shapes** checkbox in the **Themes** gallery on the **Design** tab in the Microsoft Visio user interface.
 
 

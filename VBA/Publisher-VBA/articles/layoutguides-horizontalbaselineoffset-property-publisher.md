@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LayoutGuides.HorizontalBaseLineOffset Property (Publisher)
 
-Returns a  **Single** that represents the horizontal baseline offset of the specified **LayoutGuides** object. Read/Write.
+Returns a **Single** that represents the horizontal baseline offset of the specified **LayoutGuides** object. Read/Write.
 
 
 ## Syntax
 
  _expression_. **HorizontalBaseLineOffset**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_A variable that represents a **LayoutGuides** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-When setting the layout guide properties of a  **Page** object it must be returned from the **MasterPages** collection.
+When setting the layout guide properties of a **Page** object it must be returned from the **MasterPages** collection.
 
 
 ## Example

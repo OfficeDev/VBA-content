@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNodes.SetPosition Method (PowerPoint)
 
-Sets the location of the node specified by  **Index**. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
+Sets the location of the node specified by **Index**. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
 
 
 ## Syntax

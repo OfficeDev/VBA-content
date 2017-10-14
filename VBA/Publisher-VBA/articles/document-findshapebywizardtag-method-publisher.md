@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.FindShapeByWizardTag Method (Publisher)
 
-Returns a  **ShapeRange** object representing one or all of the shapes placed in a publication by a wizard and bearing the specified wizard tag.
+Returns a **ShapeRange** object representing one or all of the shapes placed in a publication by a wizard and bearing the specified wizard tag.
 
 
 ## Syntax
 
- _expression_. **FindShapeByWizardTag**( **_WizardTag_**,  **_Instance_**)
+ _expression_. **FindShapeByWizardTag**( **_WizardTag_**, **_Instance_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -39,12 +39,12 @@ ShapeRange
 
 ## Remarks
 
-The WizardTag parameter can be one of the  **[PbWizardTag](pbwizardtag-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The WizardTag parameter can be one of the **[PbWizardTag](pbwizardtag-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
-The following example finds the second instance of a shape with the wizard tag  **pbWizardDate** and assigns it to a variable.
+The following example finds the second instance of a shape with the wizard tag **pbWizardDate** and assigns it to a variable.
 
 
 ```vb

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Make a Cell Blink
 
-This example shows how to make cell B2 on sheet 1 blink by changing the color and the text back and forth from red to white in the  **StartBlinking** procedure. The **StopBlinking** procedure shows how to stop the blinking by clearing the value of the cell and setting the **[ColorIndex](interior-colorindex-property-excel.md)** property to white.
+This example shows how to make cell B2 on sheet 1 blink by changing the color and the text back and forth from red to white in the **StartBlinking** procedure. The **StopBlinking** procedure shows how to stop the blinking by clearing the value of the cell and setting the **[ColorIndex](interior-colorindex-property-excel.md)** property to white.
 
  **Sample code provided by:** Tom Urtis, [Atlas Programming Management](http://www.atlaspm.com/)
 

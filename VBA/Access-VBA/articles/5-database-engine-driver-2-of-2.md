@@ -19,7 +19,7 @@ When you install the Microsoft® Jet version 2.5 Engine database driver, the Set
 
 ## Microsoft Jet Engine Initialization Settings
 
-The  **Access Connectivity Engine\Engines\Jet 2.x** folder includes initialization settings for the Acer2x.dll driver, used for access to Microsoft Access 2.0 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
+The **Access Connectivity Engine\Engines\Jet 2.x** folder includes initialization settings for the Acer2x.dll driver, used for access to Microsoft Access 2.0 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
 
 
 ```
@@ -63,7 +63,7 @@ The following entries are used to configure the Microsoft Access database engine
 
 ## Microsoft Jet Engine ISAM Formats
 
-The  **Access Connectivity Engine\ISAM Formats\Jet 2.x** folder contains the following entries.
+The **Access Connectivity Engine\ISAM Formats\Jet 2.x** folder contains the following entries.
 
 
 

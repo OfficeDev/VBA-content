@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.Application Property (PowerPoint)
 
-Returns an  **[Application](application-object-powerpoint.md)** object that represents the Microsoft PowerPoint application.
+Returns an **[Application](application-object-powerpoint.md)** object that represents the Microsoft PowerPoint application.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Application](application-object-powerpoint.md)** object that repr
 
 ## Remarks
 
-Visual Basic's  **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications project.
+Visual Basic's **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications project.
 
 
 ## See also

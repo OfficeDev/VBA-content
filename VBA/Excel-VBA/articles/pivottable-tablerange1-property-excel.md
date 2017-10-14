@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.TableRange1 Property (Excel)
 
-Returns a  **[Range](range-object-excel.md)** object that represents the range containing the entire PivotTable report, but doesn't include page fields. Read-only.
+Returns a **[Range](range-object-excel.md)** object that represents the range containing the entire PivotTable report, but doesn't include page fields. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Range](range-object-excel.md)** object that represents the range c
 
 ## Remarks
 
-The  **[TableRange2](pivottable-tablerange2-property-excel.md)** property includes page fields.
+The **[TableRange2](pivottable-tablerange2-property-excel.md)** property includes page fields.
 
 
 ## Example

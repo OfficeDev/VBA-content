@@ -29,14 +29,14 @@ Sets the preset extrusion format.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _PresetThreeDFormat_|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
+| _PresetThreeDFormat_|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, top to bottom) displayed when you click the **3-D** button on the **Drawing** toolbar.|
 
 ## Remarks
 
-Each preset extrusion format contains a set of preset values for the various properties of the extrusion. This method sets the  **PresetThreeDFormat** property to the format specified by the PresetThreeDFormat argument.
+Each preset extrusion format contains a set of preset values for the various properties of the extrusion. This method sets the **PresetThreeDFormat** property to the format specified by the PresetThreeDFormat argument.
 
 
- **Note**  Specifying  **msoPresetThreeDFormatMixed** for the PresetThreeDFormat argument causes an error.
+ **Note**  Specifying **msoPresetThreeDFormatMixed** for the PresetThreeDFormat argument causes an error.
 
 
 ## Example

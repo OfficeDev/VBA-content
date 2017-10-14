@@ -12,18 +12,18 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-There is an invalid  **NetworkAccess** setting in the Microsoft Windows Registry.
+There is an invalid **NetworkAccess** setting in the Microsoft Windows Registry.
 
  To complete this operation
 
 
 1. Exit your application.
     
-2. Start the Registry Editor, and navigate to the  **NetworkAccess** value. Depending on which installable ISAM you are trying to use, the invalid entry is in the **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Xbase** key.
+2. Start the Registry Editor, and navigate to the **NetworkAccess** value. Depending on which installable ISAM you are trying to use, the invalid entry is in the **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Access Connectivity Engine\Engines\Xbase** key.
     
-3. On the  **Edit** menu, click **Modify**.
+3. On the **Edit** menu, click **Modify**.
     
-4. Specify either  **On** or **Off** in the **Value data** box.
+4. Specify either **On** or **Off** in the **Value data** box.
     
 5. Restart your application, and then try the operation again.
     

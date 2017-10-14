@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Report.WindowLeft Property (Access)
 
-Returns an  **Integer** indicating the screen position in twips of the left edge of a report relative to the left edge of the Microsoft Access window. Read-only.
+Returns an **Integer** indicating the screen position in twips of the left edge of a report relative to the left edge of the Microsoft Access window. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **Integer** indicating the screen position in twips of the left edge
 
 ## Remarks
 
-Use the  **Move** method to change the position of a report.
+Use the **Move** method to change the position of a report.
 
 
 ## See also

@@ -20,7 +20,7 @@ Occurs when switching the view from one page to another page in a publication.
 
  _expression_. **WindowPageChange**( **_Vw_**, )
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Occurs when switching the view from one page to another page in a publication.
 
 ## Example
 
-This example changes the view to display the whole page when switching to a new page in a publication. For this example to work, you must place the  **WithEvents** declaration in the General Declarations section of a class module and run the InitializeEvents routine.
+This example changes the view to display the whole page when switching to a new page in a publication. For this example to work, you must place the **WithEvents** declaration in the General Declarations section of a class module and run the InitializeEvents routine.
 
 
 ```vb

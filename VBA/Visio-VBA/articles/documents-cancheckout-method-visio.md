@@ -58,7 +58,7 @@ Sub CheckDocOut(strDocCheckOut As String)
 End Sub
 ```
 
-To call the preceding  **CheckDocOut** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
+To call the preceding **CheckDocOut** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
 
 
 

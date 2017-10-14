@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # XPath Object (Excel)
 
-Represents an XPath that has been mapped to a  **[Range](range-object-excel.md)** or **[ListColumn](listcolumn-object-excel.md)** object.
+Represents an XPath that has been mapped to a **[Range](range-object-excel.md)** or **[ListColumn](listcolumn-object-excel.md)** object.
 
 
 ## Example
 
-Use the  **[SetValue](xpath-setvalue-method-excel.md)** method to map an XPath to a range or list column. The **SetValue** method is also used to change the properties of an existing XPath.
+Use the **[SetValue](xpath-setvalue-method-excel.md)** method to map an XPath to a range or list column. The **SetValue** method is also used to change the properties of an existing XPath.
 
-The following example creates an XML list based on the "Contacts" schema map that is attached to the workbook, then uses the  **SetValue** method to bind each column to an XPath.
+The following example creates an XML list based on the "Contacts" schema map that is attached to the workbook, then uses the **SetValue** method to bind each column to an XPath.
 
-Use the  **[Clear](xpath-clear-method-excel.md)** method to remove an XPath that has been mapped to a range or list column.
+Use the **[Clear](xpath-clear-method-excel.md)** method to remove an XPath that has been mapped to a range or list column.
 
 
 

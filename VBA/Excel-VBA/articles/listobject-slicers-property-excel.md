@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ListObject.Slicers Property (Excel)
 
-Returns a list of the table slicers associated with a  **ListObject** . Read-only
+Returns a list of the table slicers associated with a **ListObject** . Read-only
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns a list of the table slicers associated with a  **ListObject** . Read-onl
 
 ## Remarks
 
-A  **ListObject** is essentially a table.
+A **ListObject** is essentially a table.
 
 
 ## Property value

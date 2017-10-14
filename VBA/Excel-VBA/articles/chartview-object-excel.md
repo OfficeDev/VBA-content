@@ -18,12 +18,12 @@ Represents a view of a chart.
 
 ## Remarks
 
-The  **ChartView** object is one of the objects that can be returned by the **[SheetViews](sheetviews-object-excel.md)** collection, similar to the **[Sheets](sheets-object-excel.md)** collection. The **ChartView** object applies only to chart sheets.
+The **ChartView** object is one of the objects that can be returned by the **[SheetViews](sheetviews-object-excel.md)** collection, similar to the **[Sheets](sheets-object-excel.md)** collection. The **ChartView** object applies only to chart sheets.
 
 
 ## Example
 
-The following example returns a  **ChartView** object.
+The following example returns a **ChartView** object.
 
 
 ```vb
@@ -31,7 +31,7 @@ ActiveWindow.SheetViews.Item(1)
 
 ```
 
-The following example returns a  **[Chart](chart-object-excel.md)** object.
+The following example returns a **[Chart](chart-object-excel.md)** object.
 
 
 

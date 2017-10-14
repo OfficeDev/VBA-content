@@ -27,12 +27,12 @@ Private Sub  _expression_ _**Private Sub Document_Open**
 
 If the event procedure is stored in a template, the procedure will run when a new document based on that template is opened and when the template itself is opened as a document.
 
-For information about using events with the  **Document** object, see[Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
+For information about using events with the **Document** object, see[Using Events with the Document Object](http://msdn.microsoft.com/library/2b043342-436a-5421-e8af-3c2c49684960%28Office.15%29.aspx).
 
 
 ## Example
 
-This example displays a message when a document is opened. (The procedure can be stored in the  **ThisDocument** class module of a document or its attached template.)
+This example displays a message when a document is opened. (The procedure can be stored in the **ThisDocument** class module of a document or its attached template.)
 
 
 ```vb

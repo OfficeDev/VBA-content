@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IRtdServer.Heartbeat Method (Excel)
 
-Determines if the real-time data server is still active. Returns a  **Long** value. Zero or a negative number indicates failure; a positive number indicates that the server is active.
+Determines if the real-time data server is still active. Returns a **Long** value. Zero or a negative number indicates failure; a positive number indicates that the server is active.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The  **Heartbeat** method is called by Microsoft Excel if the **[HeartbeatInterval](irtdupdateevent-heartbeatinterval-property-excel.md)** property has elapsed since the last time Excel was called with the **[UpdateNotify](irtdupdateevent-updatenotify-method-excel.md)** method.
+The **Heartbeat** method is called by Microsoft Excel if the **[HeartbeatInterval](irtdupdateevent-heartbeatinterval-property-excel.md)** property has elapsed since the last time Excel was called with the **[UpdateNotify](irtdupdateevent-updatenotify-method-excel.md)** method.
 
 
 ## See also

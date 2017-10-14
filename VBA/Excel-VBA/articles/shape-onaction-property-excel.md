@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.OnAction Property (Excel)
 
-Returns or sets the name of a macro that's run when the specified object is clicked. Read/write  **String** .
+Returns or sets the name of a macro that's run when the specified object is clicked. Read/write **String** .
 
 
 ## Syntax

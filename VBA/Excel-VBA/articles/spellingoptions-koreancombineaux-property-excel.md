@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.KoreanCombineAux Property (Excel)
 
-When set to  **True** , Microsoft Excel combines Korean auxiliary verbs and adjectives when spelling is checked. Read/write **Boolean** .
+When set to **True** , Microsoft Excel combines Korean auxiliary verbs and adjectives when spelling is checked. Read/write **Boolean** .
 
 
 ## Syntax

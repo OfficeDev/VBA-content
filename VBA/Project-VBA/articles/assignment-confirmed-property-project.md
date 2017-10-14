@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Confirmed Property (Project)
 
-Gets the results of task assignments in a Project mail message.  **True** if a resource of a project or task has accepted the assignment. Read/write **Variant**.
+Gets the results of task assignments in a Project mail message. **True** if a resource of a project or task has accepted the assignment. Read/write **Variant**.
 
 
 ## Syntax

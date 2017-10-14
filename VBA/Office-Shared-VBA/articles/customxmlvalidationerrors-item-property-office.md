@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomXMLValidationErrors.Item Property (Office)
 
-Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors** collection. Read-only.
+Gets a **CustomXMLValidationError** object from the **CustomXMLValidationErrors** collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The name or index number of the  **CustomXMLValidationError** object to be returned.|
+| _Index_|Required|**Long**|The name or index number of the **CustomXMLValidationError** object to be returned.|
 
 ### Return Value
 

@@ -31,7 +31,7 @@ Converts the specified Microsoft Access file from one version to another.
 |:-----|:-----|:-----|:-----|
 | _SourceFilename_|Required|**String**|The name of the Access file to convert. If a path isn't specified, Access looks for the file in the current directory.|
 | _DestinationFilename_|Required|**String**|e name of the file where Access saves the converted file. If a path isn't specified, Access saves the file in the current directory.|
-| _DestinationFileFormat_|Required|**AcFileFormat**|An  **[AcFileFormat](acfileformat-enumeration-access.md)** constant that specifies the format of the converted file.|
+| _DestinationFileFormat_|Required|**AcFileFormat**|An **[AcFileFormat](acfileformat-enumeration-access.md)** constant that specifies the format of the converted file.|
 
 ### Return Value
 

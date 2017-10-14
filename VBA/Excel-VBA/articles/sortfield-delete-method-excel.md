@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.Delete Method (Excel)
 
-Removes the specified  **[SortField](sortfield-object-excel.md)** object from the **[SortFields](sortfields-object-excel.md)** collection.
+Removes the specified **[SortField](sortfield-object-excel.md)** object from the **[SortFields](sortfields-object-excel.md)** collection.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.Document Property (Word)
 
-Returns a  **[Document](document-object-word.md)** object associated with the specified pane. Read-only.
+Returns a **[Document](document-object-word.md)** object associated with the specified pane. Read-only.
 
 
 ## Syntax

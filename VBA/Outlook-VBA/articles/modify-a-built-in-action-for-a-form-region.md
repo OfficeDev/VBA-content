@@ -28,15 +28,15 @@ If customizing a built-in action in the above ways does not suit your needs, the
 
 ## Identifying Actions for a Form Region
 
-Whether you choose to modify a built-in action or create a custom action, you define the action in the form region manifest XML file. Define these actions under the  **customActions** element, enclosing each action in its own **action** element and identifying it by the mandatory **name** attribute. The value of the **name** attribute is a string that represents the internal name of the action.
+Whether you choose to modify a built-in action or create a custom action, you define the action in the form region manifest XML file. Define these actions under the **customActions** element, enclosing each action in its own **action** element and identifying it by the mandatory **name** attribute. The value of the **name** attribute is a string that represents the internal name of the action.
 
 
 ### To specify the internal name of a built-in action
 
 
-1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
+1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
     
-2. Specify the internal name of the built-in action as the value of the  **name** attribute of the **action** element.
+2. Specify the internal name of the built-in action as the value of the **name** attribute of the **action** element.
     
 The following example identifies the two built-in actions,  `reply` and `replyAll`, before modifying them:
 
@@ -64,7 +64,7 @@ Note that by default, there are four built-in actions for each form region. You 
 
 ## Modifying a Built-in Action
 
-After you have identified a built-in action in an  **action** element, you can modify it by specifying optional child elements and attribute for the **action** element.
+After you have identified a built-in action in an **action** element, you can modify it by specifying optional child elements and attribute for the **action** element.
 
  [To specify the message class and the form for the resulting item](specify-the-message-class-and-form-for-an-item-resulting-from-an-action.md)
 
@@ -80,11 +80,11 @@ After you have identified a built-in action in an  **action** element, you can m
 
 
 
-1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
+1. In the form region manifest XML file, specify the action as a child **action** element of the **customActions** element for that form region.
     
-2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
+2. Specify the internal name of the action as the value of the **name** attribute of the **action** element.
     
-3. Specify  **true** as the value of the disabled attribute of the **action** element.
+3. Specify **true** as the value of the disabled attribute of the **action** element.
     
 The following example identifies the built-in action,  `replyToFolder`, and disables it:
 
@@ -99,6 +99,6 @@ The following example identifies the built-in action,  `replyToFolder`, and disa
 ```
 
 
- **Note**  You can assign  **disabled** either a string value or an integer value. The default value is **false** or **0**. To disable a built-in action for a form region, assign  **disabled** either **true** or **1**.
+ **Note**  You can assign **disabled** either a string value or an integer value. The default value is **false** or **0**. To disable a built-in action for a form region, assign **disabled** either **true** or **1**.
 
 

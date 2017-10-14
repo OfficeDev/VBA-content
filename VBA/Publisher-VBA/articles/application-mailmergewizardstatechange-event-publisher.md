@@ -18,9 +18,9 @@ Occurs when a user changes from a specified step to a specified step in the Mail
 
 ## Syntax
 
- _expression_. **MailMergeWizardStateChange**( **_Doc_**,  **_FromState_**)
+ _expression_. **MailMergeWizardStateChange**( **_Doc_**, **_FromState_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -34,7 +34,7 @@ Occurs when a user changes from a specified step to a specified step in the Mail
 
 ## Remarks
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events.
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events.
 
 
 ## Example

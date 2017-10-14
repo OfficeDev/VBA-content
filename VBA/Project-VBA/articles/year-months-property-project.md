@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Year.Months Property (Project)
 
-Gets a  **[Months](months-object-project.md)** collection representing the months in a year. Read-only **Months**.
+Gets a **[Months](months-object-project.md)** collection representing the months in a year. Read-only **Months**.
 
 
 ## Syntax

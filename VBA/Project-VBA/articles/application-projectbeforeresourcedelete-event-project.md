@@ -38,6 +38,6 @@ nothing
 
 Project events do not occur when the project is embedded in another document or application.
 
-The  **ProjectBeforeResourceDelete** event doesn't occur when changes have been made using a custom form.
+The **ProjectBeforeResourceDelete** event doesn't occur when changes have been made using a custom form.
 
 

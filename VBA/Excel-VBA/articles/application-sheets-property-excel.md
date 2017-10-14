@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Sheets Property (Excel)
 
-Returns a  **[Sheets](sheets-object-excel.md)** collection that represents all the sheets in the active workbook. Read-only **Sheets** object.
+Returns a **[Sheets](sheets-object-excel.md)** collection that represents all the sheets in the active workbook. Read-only **Sheets** object.
 
 
 ## Syntax

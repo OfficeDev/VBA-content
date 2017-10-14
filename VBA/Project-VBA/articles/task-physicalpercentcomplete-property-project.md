@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.PhysicalPercentComplete Property (Project)
 
-Gets or sets the physical percent complete of a task. Read/write  **Variant**.
+Gets or sets the physical percent complete of a task. Read/write **Variant**.
 
 
 ## Syntax

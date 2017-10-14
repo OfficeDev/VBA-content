@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeZone.DaylightDesignation Property (Outlook)
 
-Returns a  **String** that identifies the time zone in daylight time. Read-only.
+Returns a **String** that identifies the time zone in daylight time. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that identifies the time zone in daylight time. Read-only.
 
 ## Remarks
 
-This property is stored as the  **Dlt** value for the time zone in the registry.
+This property is stored as the **Dlt** value for the time zone in the registry.
 
 
 ## See also

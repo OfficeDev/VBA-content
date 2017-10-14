@@ -13,26 +13,26 @@ ms.date: 06/08/2017
 
 # ShapeRange.VerticalFlip Property (Publisher)
 
-Returns  **msoTrue** if the specified shape has been flipped around its vertical axis. Read-only.
+Returns **msoTrue** if the specified shape has been flipped around its vertical axis. Read-only.
 
 
 ## Syntax
 
  _expression_. **VerticalFlip**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-The  **VerticalFlip** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **VerticalFlip** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The shape has not been flipped around its vertical axis.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|The shape has been flipped around its vertical axis.|
 

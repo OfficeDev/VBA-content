@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # TextRange2 Object (Office)
 
-Represents the text frame in a  **Shape** or **ShapeRange** objects.
+Represents the text frame in a **Shape** or **ShapeRange** objects.
 
 
 ## Remarks
 
-This object contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame. Use the  **TextFrame2** property to return a **TextFrame2** object.
+This object contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame. Use the **TextFrame2** property to return a **TextFrame2** object.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IRtdServer.ConnectData Method (Excel)
 
-Adds new topics from a real-time data server. The  **ConnectData** method is called when a file is opened that contains real-time data functions or when a user types in a new formula which contains the RTD function.
+Adds new topics from a real-time data server. The **ConnectData** method is called when a file is opened that contains real-time data functions or when a user types in a new formula which contains the RTD function.
 
 
 ## Syntax

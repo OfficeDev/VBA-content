@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.FullName Property (Outlook)
 
-Returns or sets a  **String** specifying the whole, unparsed full name for the contact. Read/write.
+Returns or sets a **String** specifying the whole, unparsed full name for the contact. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **String** specifying the whole, unparsed full name for the c
 
 ## Remarks
 
-This property is parsed into the  **[FirstName](contactitem-firstname-property-outlook.md)** , **[MiddleName](contactitem-middlename-property-outlook.md)** , **[LastName](contactitem-lastname-property-outlook.md)** , and **[Suffix](contactitem-suffix-property-outlook.md)** properties, which may be changed or typed independently if they are parsed incorrectly. Any changes or entries to the **FirstName** , **LastName** , **MiddleName** , or **Suffix** properties will be overwritten by any subsequent changes or entries to **FullName** .
+This property is parsed into the **[FirstName](contactitem-firstname-property-outlook.md)** , **[MiddleName](contactitem-middlename-property-outlook.md)** , **[LastName](contactitem-lastname-property-outlook.md)** , and **[Suffix](contactitem-suffix-property-outlook.md)** properties, which may be changed or typed independently if they are parsed incorrectly. Any changes or entries to the **FirstName** , **LastName** , **MiddleName** , or **Suffix** properties will be overwritten by any subsequent changes or entries to **FullName** .
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Restrict](items-restrict-method-outlook.md)** method to apply a filter to the contact items based on the item's **[LastModificationTime](mailitem-lastmodificationtime-property-outlook.md)** property, and then it displays the full name of the contacts returned by the filter.
+This Visual Basic for Applications (VBA) example uses the **[Restrict](items-restrict-method-outlook.md)** method to apply a filter to the contact items based on the item's **[LastModificationTime](mailitem-lastmodificationtime-property-outlook.md)** property, and then it displays the full name of the contacts returned by the filter.
 
 
 ```vb

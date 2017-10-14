@@ -25,7 +25,7 @@ Removes a group content control from a document so that its child content contro
 
 ## Remarks
 
-This method fails if you run it on a control that is not of type  **wdContentControlGroup** .
+This method fails if you run it on a control that is not of type **wdContentControlGroup** .
 
 
 ## See also

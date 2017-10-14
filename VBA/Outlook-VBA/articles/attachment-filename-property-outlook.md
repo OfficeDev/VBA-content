@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.FileName Property (Outlook)
 
-Returns a  **String** representing the file name of the attachment. Read-only.
+Returns a **String** representing the file name of the attachment. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the file name of the attachment. Read-only.
 
 ## Remarks
 
-Use this property in conjunction with the  **[PathName](attachment-pathname-property-outlook.md)** property.
+Use this property in conjunction with the **[PathName](attachment-pathname-property-outlook.md)** property.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Height Property (Word)
 
-Returns or sets the height of the active document window in pixels. Read/write  **Long** .
+Returns or sets the height of the active document window in pixels. Read/write **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.Brightness Property (Word)
 
-Returns a  **Single** that represents the brightness of a specified shape color. Read/write.
+Returns a **Single** that represents the brightness of a specified shape color. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Single** that represents the brightness of a specified shape color.
 
 ## Remarks
 
-You can enter a number from -1 (darkest) to 1 (lightest) for the  **Brightness** property, 0 (zero) being neutral.
+You can enter a number from -1 (darkest) to 1 (lightest) for the **Brightness** property, 0 (zero) being neutral.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DefaultTableStyle Property (Word)
 
-Returns a  **Variant** that represents the table style that is applied to all newly created tables in a document. Read-only.
+Returns a **Variant** that represents the table style that is applied to all newly created tables in a document. Read-only.
 
 
 ## Syntax

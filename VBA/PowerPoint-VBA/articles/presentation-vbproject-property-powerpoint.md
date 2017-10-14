@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.VBProject Property (PowerPoint)
 
-Returns a  **VBProject** object that represents the individual Visual Basic project for the presentation. Read-only.
+Returns a **VBProject** object that represents the individual Visual Basic project for the presentation. Read-only.
 
 
 ## Syntax

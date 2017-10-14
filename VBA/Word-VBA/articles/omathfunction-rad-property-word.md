@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Rad Property (Word)
 
-Returns an  **[OMathRad](omathrad-object-word.md)** object that represents the mathematical radical function. Read-only.
+Returns an **[OMathRad](omathrad-object-word.md)** object that represents the mathematical radical function. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.PlainTextStyle Property (Word)
 
-Returns the  **[Style](style-object-word.md)** object that represents the text attributes for e-mail messages that are sent or received using plain text.
+Returns the **[Style](style-object-word.md)** object that represents the text attributes for e-mail messages that are sent or received using plain text.
 
 
 ## Syntax

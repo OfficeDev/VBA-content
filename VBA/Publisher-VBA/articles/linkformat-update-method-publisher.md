@@ -20,7 +20,7 @@ Updates the specified linked OLE object.
 
  _expression_. **Update**
 
- _expression_A variable that represents a  **LinkFormat** object.
+ _expression_A variable that represents a **LinkFormat** object.
 
 
 ## Example

@@ -34,17 +34,17 @@ Displays specific members of the Analysis Lens user interface.
 When [XlQuickAnalysisMode Enumeration (Excel)](xlquickanalysismode-enumeration-excel.md) is set to any one of the following options, the resulting user interface is displayed:
 
 
-- If missing or set to  **xlLensOnly** = Show the button but no fly-outs
+- If missing or set to **xlLensOnly** = Show the button but no fly-outs
     
--  **xlFormatConditions** = Conditional Formatting
+- **xlFormatConditions** = Conditional Formatting
     
--  **xlSparklines** = Sparklines
+- **xlSparklines** = Sparklines
     
--  **xlRecommendedCharts** = Charts
+- **xlRecommendedCharts** = Charts
     
--  **xlTables** = Tables
+- **xlTables** = Tables
     
--  **xlTotals** = Totals
+- **xlTotals** = Totals
     
 
 ### Return value

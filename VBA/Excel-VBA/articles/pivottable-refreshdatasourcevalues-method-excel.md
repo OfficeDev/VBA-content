@@ -30,9 +30,9 @@ Nothing
 
 ## Remarks
 
-To determine if a PivotTable report is in writeback mode, check the  **[EnableWriteback](pivottable-enablewriteback-property-excel.md)** or **[EnableDataValueEditing](pivottable-enabledatavalueediting-property-excel.md)** properties of the **PivotTable** object, either of which will return **True** . For PivotTable reports that are not in writeback mode, trying to execute this method generates a run-time error.
+To determine if a PivotTable report is in writeback mode, check the **[EnableWriteback](pivottable-enablewriteback-property-excel.md)** or **[EnableDataValueEditing](pivottable-enabledatavalueediting-property-excel.md)** properties of the **PivotTable** object, either of which will return **True** . For PivotTable reports that are not in writeback mode, trying to execute this method generates a run-time error.
 
-For PivotTable reports with OLAP data sources, executing the  **RefreshDataSourceValues** method creates a separate connection to the OLAP server and executes the full MDX query (the value of the **PivotTable** . **[MDX](pivottable-mdx-property-excel.md)** property) that is used to perform an update operation to populate the PivotTable report. Excel extracts the values returned for all cells that have been edited in the PivotTable view, and then stores them in the **[DataSourceValue](pivotcell-datasourcevalue-property-excel.md)** property for those cells.
+For PivotTable reports with OLAP data sources, executing the **RefreshDataSourceValues** method creates a separate connection to the OLAP server and executes the full MDX query (the value of the **PivotTable** . **[MDX](pivottable-mdx-property-excel.md)** property) that is used to perform an update operation to populate the PivotTable report. Excel extracts the values returned for all cells that have been edited in the PivotTable view, and then stores them in the **[DataSourceValue](pivotcell-datasourcevalue-property-excel.md)** property for those cells.
 
 This method applies only to PivotTable reports with OLAP data sources. Trying to execute this method or PivotTable reports with non-OLAP data sources generates a run-time error.
 

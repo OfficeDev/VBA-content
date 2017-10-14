@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Orientation Property (Word)
 
-Returns or sets the orientation of the page. Read/write  **[WdOrientation](wdorientation-enumeration-word.md)** .
+Returns or sets the orientation of the page. Read/write **[WdOrientation](wdorientation-enumeration-word.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the orientation of the page. Read/write  **[WdOrientation](wdori
 
 ## Remarks
 
-Some of the  **WdOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+Some of the **WdOrientation** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
 
 ## Example

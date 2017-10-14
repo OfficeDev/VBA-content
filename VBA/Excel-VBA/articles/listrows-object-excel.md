@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListRows Object (Excel)
 
-A collection of all the  **[ListRow](listrow-object-excel.md)** objects in the specified **[ListObject](listobject-object-excel.md)** object.
+A collection of all the **[ListRow](listrow-object-excel.md)** objects in the specified **[ListObject](listobject-object-excel.md)** object.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ A collection of all the  **[ListRow](listrow-object-excel.md)** objects in the s
 
 ## Example
 
-Use the  **[ListRows](listobject-listrows-property-excel.md)** property of the **[ListObject](listobject-object-excel.md)** object to return the **ListRows** collection. The following example adds a new row to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new row is added to the end of the table.
+Use the **[ListRows](listobject-listrows-property-excel.md)** property of the **[ListObject](listobject-object-excel.md)** object to return the **ListRows** collection. The following example adds a new row to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new row is added to the end of the table.
 
 
 ```

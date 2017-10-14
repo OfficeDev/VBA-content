@@ -17,14 +17,14 @@ ms.date: 06/08/2017
 
  _expression_. **Find**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Example
 
-As it applies to the  **Document** object.
+As it applies to the **Document** object.
 
-The following example sets an object variable to the  **FindReplace** object of the active document. A search operation is executed that applies bold formatting to every occurrence of the word "important".
+The following example sets an object variable to the **FindReplace** object of the active document. A search operation is executed that applies bold formatting to every occurrence of the word "important".
 
 
 
@@ -48,9 +48,9 @@ With objFind
 End With 
 ```
 
-As it applies to the  **TextRange** object.
+As it applies to the **TextRange** object.
 
-The following example sets an object variable to the  **FindReplace** object of the text range of the first shape in the active document. A search operation is executed that applies bold formatting to every occurrence of the word "urgent" in the text range.
+The following example sets an object variable to the **FindReplace** object of the text range of the first shape in the active document. A search operation is executed that applies bold formatting to every occurrence of the word "urgent" in the text range.
 
 
 

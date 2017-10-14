@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Characters Property (Excel)
 
-Returns a  **[Characters](characters-object-excel.md)** object that represents a range of characters within the object text. You can use the **Characters** object to format characters within a text string.
+Returns a **[Characters](characters-object-excel.md)** object that represents a range of characters within the object text. You can use the **Characters** object to format characters within a text string.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns a  **[Characters](characters-object-excel.md)** object that represents a
 
 ## Remarks
 
-The  **Characters** object isn't a collection.
+The **Characters** object isn't a collection.
 
 
 ## See also

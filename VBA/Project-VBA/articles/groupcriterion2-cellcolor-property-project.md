@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2.CellColor Property (Project)
 
-Gets or sets the color of the cell background for a field used as a criterion in a group definition. Read/write  **Long**. Can be one of the following **PjColor** constants:
+Gets or sets the color of the cell background for a field used as a criterion in a group definition. Read/write **Long**. Can be one of the following **PjColor** constants:
 
 
 ## Syntax

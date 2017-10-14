@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.SmartArt Property (PowerPoint)
 
-Returns the SmartArt diagram of the  **ShapeRange** object. Read-only.
+Returns the SmartArt diagram of the **ShapeRange** object. Read-only.
 
 
 ## Syntax

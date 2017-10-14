@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Intercept Property
 
-Returns or sets the point where the trendline crosses the value axis. Read/write  **Double**.
+Returns or sets the point where the trendline crosses the value axis. Read/write **Double**.
 
 
 ## Remarks
 
-Setting this property sets the  **[InterceptIsAuto](interceptisauto-property.md)** property to  **False**.
+Setting this property sets the **[InterceptIsAuto](interceptisauto-property.md)** property to **False**.
 
 
 ## Example

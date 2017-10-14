@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.RemainingOvertimeCost Property (Project)
 
-Gets the remaining overtime cost for the resource. Read-only  **Variant**.
+Gets the remaining overtime cost for the resource. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the remaining overtime cost for the resource. Read-only  **Variant**.
 
 ## Remarks
 
-The  **RemainingOvertimeCost** property does not return any meaningful information for material resources.
+The **RemainingOvertimeCost** property does not return any meaningful information for material resources.
 
-For a code example that uses a  **Task** object, see **[RemainingOvertimeCost](task-remainingovertimecost-property-project.md)**.
+For a code example that uses a **Task** object, see **[RemainingOvertimeCost](task-remainingovertimecost-property-project.md)**.
 
 

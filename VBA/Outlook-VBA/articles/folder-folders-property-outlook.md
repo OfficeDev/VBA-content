@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.Folders Property (Outlook)
 
-Returns the  **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-982d-a0097fcb35c2%28Office.15%29.aspx)** collection that represents all the folders contained in the specified **[Folder](folder-object-outlook.md)**. Read-only.
+Returns the **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-982d-a0097fcb35c2%28Office.15%29.aspx)** collection that represents all the folders contained in the specified **[Folder](folder-object-outlook.md)**. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the  **[Folders](http://msdn.microsoft.com/library/0c814c3c-74fc-414c-98
 
 ## Remarks
 
-The  **[NameSpace](namespace-object-outlook.md)** object is the root of all the folders for the given name space.
+The **[NameSpace](namespace-object-outlook.md)** object is the root of all the folders for the given name space.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **[Folders.Add](http://msdn.microsoft.com/library/20ced7ad-779c-a9b0-267e-6d729c0eb822%28Office.15%29.aspx)** method to add the new folder named "My Personal Contacts" to the default **Contacts** folder.
+This Visual Basic for Applications (VBA) example uses the **[Folders.Add](http://msdn.microsoft.com/library/20ced7ad-779c-a9b0-267e-6d729c0eb822%28Office.15%29.aspx)** method to add the new folder named "My Personal Contacts" to the default **Contacts** folder.
 
 
 ```
@@ -53,7 +53,7 @@ Sub CreatePersonalContacts()
 End Sub
 ```
 
-This VBA example uses the  **Folders.Add** method to add two new folders in the **Tasks** folder. The first folder, "My Notes Folder", will contain note items. The second folder, "My Contacts Folder", will contain contact items. If the folders already exist, a message box will inform the user.
+This VBA example uses the **Folders.Add** method to add two new folders in the **Tasks** folder. The first folder, "My Notes Folder", will contain note items. The second folder, "My Contacts Folder", will contain contact items. If the folders already exist, a message box will inform the user.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.OMathAutoCorrect Property (Word)
 
-Returns an  **OMathAutoCorrect** object that represents the auto correct entries for equations. Read-only.
+Returns an **OMathAutoCorrect** object that represents the auto correct entries for equations. Read-only.
 
 
 ## Syntax

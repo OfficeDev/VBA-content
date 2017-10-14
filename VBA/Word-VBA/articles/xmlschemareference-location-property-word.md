@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLSchemaReference.Location Property (Word)
 
-Returns a  **String** that represents the physical location of an XML schema. Read-only.
+Returns a **String** that represents the physical location of an XML schema. Read-only.
 
 
 ## Syntax

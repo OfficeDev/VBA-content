@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Callout Property (Project)
-Gets callout formatting properties for the shape, when the  **Shape** object represents a callout. Read-only **CalloutFormat**.
+Gets callout formatting properties for the shape, when the **Shape** object represents a callout. Read-only **CalloutFormat**.
 
 ## Syntax
 

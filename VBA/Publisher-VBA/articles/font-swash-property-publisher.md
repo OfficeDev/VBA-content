@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.Swash Property (Publisher)
 
-Returns or sets an  **MsoTriState** constant that represents the state of the **Swash** property on the characters in a text range. The **Swash** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
+Returns or sets an **MsoTriState** constant that represents the state of the **Swash** property on the characters in a text range. The **Swash** property enables embellishments to the characters, often in the form of bigger and more flamboyant serifs. Read/write.
 
 
 ## Syntax
 
  _expression_. **Swash**
 
- _expression_A variable that represents a  **[Font](font-object-publisher.md)** object.
+ _expression_A variable that represents a **[Font](font-object-publisher.md)** object.
 
 
 ## Return Value
@@ -31,9 +31,9 @@ Returns or sets an  **MsoTriState** constant that represents the state of the **
 ## Remarks
 
 
- **Note**  The  **Swash** property has an effect only for OpenType fonts that contain swashes.
+ **Note**  The **Swash** property has an effect only for OpenType fonts that contain swashes.
 
-The  **Swash** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
+The **Swash** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 
@@ -41,6 +41,6 @@ The  **Swash** property value can be one of the following **MsoTriState** consta
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as swash.|
 | **msoTriStateMixed**|Return value indicating that the range contains some text formatted as swash and some text not formatted as swash.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted as swash.|
 

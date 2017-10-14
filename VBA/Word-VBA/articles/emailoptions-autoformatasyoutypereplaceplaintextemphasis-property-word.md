@@ -32,7 +32,7 @@ This example turns on the replacement of manual emphasis characters with charact
 Options.AutoFormatAsYouTypeReplacePlainTextEmphasis = True
 ```
 
-This example returns the status of the  ***Bold* and _underline_ with real formatting** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the ***Bold* and _underline_ with real formatting** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

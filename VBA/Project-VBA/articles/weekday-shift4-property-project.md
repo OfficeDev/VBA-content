@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WeekDay.Shift4 Property (Project)
 
-Gets a  **[Shift](shift-object-project.md)** object representing the fourth work shift in a weekday. Read-only **Shift**.
+Gets a **[Shift](shift-object-project.md)** object representing the fourth work shift in a weekday. Read-only **Shift**.
 
 
 ## Syntax

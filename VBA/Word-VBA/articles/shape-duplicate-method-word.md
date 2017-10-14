@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Duplicate Method (Word)
 
-Creates a duplicate of the specified  **Shape** object, adds the new shape to the **Shapes** collection at a standard offset from the original shapes, and then returns the new **Shape** object.
+Creates a duplicate of the specified **Shape** object, adds the new shape to the **Shapes** collection at a standard offset from the original shapes, and then returns the new **Shape** object.
 
 
 ## Syntax

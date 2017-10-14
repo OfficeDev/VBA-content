@@ -23,7 +23,7 @@ Contains workbook-level attributes used by Microsoft Excel when you save a docum
 
 ## Example
 
-Use the  **[WebOptions](workbook-weboptions-property-excel.md)** property to return the **WebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and then sets the `strImageFileType` variable accordingly.
+Use the **[WebOptions](workbook-weboptions-property-excel.md)** property to return the **WebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and then sets the `strImageFileType` variable accordingly.
 
 
 ```vb

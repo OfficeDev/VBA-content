@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Set Next Statement can only apply to executable lines within current procedure.
 
-You can choose the  **Set Next Statement** command to indicate where a suspended program should begin when execution is continued. This error has the following causes and solutions:
+You can choose the **Set Next Statement** command to indicate where a suspended program should begin when execution is continued. This error has the following causes and solutions:
 
 
 

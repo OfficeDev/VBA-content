@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetCamera Property (Word)
 
-Returns an  **MsoPresetCamera** constant that represents the camera presets. Read-only.
+Returns an **MsoPresetCamera** constant that represents the camera presets. Read-only.
 
 
 ## Syntax

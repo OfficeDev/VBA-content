@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.Duration Property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[AppointmentItem](appointmentitem-object-outlook.md)** . Read/write.
+Returns or sets a **Long** indicating the duration (in minutes) of the **[AppointmentItem](appointmentitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** indicating the duration (in minutes) of the **[Appoi
 
 ## Example
 
-This Visual Basic for Applications example uses  **[Application.CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[AppointmentItem.MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
+This Visual Basic for Applications example uses **[Application.CreateItem](application-createitem-method-outlook.md)** to create an appointment and uses **[AppointmentItem.MeetingStatus](appointmentitem-meetingstatus-property-outlook.md)** to set the meeting status to "Meeting" to turn it into a meeting request with both a required and an optional attendee.
 
 
 ```vb

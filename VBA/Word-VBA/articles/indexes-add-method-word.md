@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Indexes.Add Method (Word)
 
-Returns an  **Index** object that represents a new index added to a document.
+Returns an **Index** object that represents a new index added to a document.
 
 
 ## Syntax
@@ -30,13 +30,13 @@ Returns an  **Index** object that represents a new index added to a document.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range where you want the index to appear. The index replaces the range, if the range is not collapsed.|
-| _HeadingSeparator_|Optional| **Variant**|The text between alphabetical groups (entries that start with the same letter) in the index. Can be one of the  **WdHeadingSeparator** constants.|
+| _HeadingSeparator_|Optional| **Variant**|The text between alphabetical groups (entries that start with the same letter) in the index. Can be one of the **WdHeadingSeparator** constants.|
 | _RightAlignPageNumbers_|Optional| **Variant**| **True** to align page numbers with the right margin.|
-| _Type_|Optional| **Variant**|Specifies whether subentries are on the same line (run-in) as the main entry or on a separate line (indented) from the main entry. Can be either of the following  **WdIndexType** constants: **wdIndexIndent** or **wdIndexRunin** .|
+| _Type_|Optional| **Variant**|Specifies whether subentries are on the same line (run-in) as the main entry or on a separate line (indented) from the main entry. Can be either of the following **WdIndexType** constants: **wdIndexIndent** or **wdIndexRunin** .|
 | _NumberOfColumns_|Optional| **Variant**|The number of columns for each page of the index. Specifying 0 (zero) sets the number of columns in the index to the same number as in the document.|
 | _AccentedLetters_|Optional| **Variant**| **True** to include separate headings for accented letters in the index (for example, words that begin with "?" and words that begin with "A" are listed under separate headings).|
-| _SortBy_|Optional| **Variant**|The sorting criteria to be used for the specified index. Can be either of the following  **WdIndexSortBy** constants: **wdIndexSortByStroke** or **wdIndexSortBySyllable** .|
-| _IndexLanguage_|Optional| **Variant**|The sorting language to be used for the specified index. Can be any of the  **WdLanguageID** constants. For the list of valid **WdLanguageID** constants, see the Object Browser in the Visual Basic Editor.|
+| _SortBy_|Optional| **Variant**|The sorting criteria to be used for the specified index. Can be either of the following **WdIndexSortBy** constants: **wdIndexSortByStroke** or **wdIndexSortBySyllable** .|
+| _IndexLanguage_|Optional| **Variant**|The sorting language to be used for the specified index. Can be any of the **WdLanguageID** constants. For the list of valid **WdLanguageID** constants, see the Object Browser in the Visual Basic Editor.|
 
 ### Return Value
 
@@ -45,7 +45,7 @@ Index
 
 ## Remarks
 
-An index is built from Index Entry (XE) fields in a document. Use the  **MarkEntry** method to mark index entries to be included in an index.
+An index is built from Index Entry (XE) fields in a document. Use the **MarkEntry** method to mark index entries to be included in an index.
 
 
 ## Example

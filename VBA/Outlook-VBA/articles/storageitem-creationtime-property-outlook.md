@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.CreationTime Property (Outlook)
 
-Returns a  **DateTime** value that indicates the creation time for the **[StorageItem](storageitem-object-outlook.md)** . Read-only.
+Returns a **DateTime** value that indicates the creation time for the **[StorageItem](storageitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax

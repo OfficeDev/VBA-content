@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.AddressEntryUserType Property (Outlook)
 
-Returns a constant from the  **[OlAddressEntryUserType](oladdressentryusertype-enumeration-outlook.md)** enumeration representing the user type of the **[AddressEntry](addressentry-object-outlook.md)** . Read-only.
+Returns a constant from the **[OlAddressEntryUserType](oladdressentryusertype-enumeration-outlook.md)** enumeration representing the user type of the **[AddressEntry](addressentry-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a constant from the  **[OlAddressEntryUserType](oladdressentryusertype-e
 
 ## Example
 
-The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses  **[AddressList.AddressListType](addresslist-addresslisttype-property-outlook.md)** to find the Global Address List. Since the Global Address List can contain multiple types of entries such as Exchange user, Exchange distribution list, and Exchange public folder, for each **AddressEntry** on that **[AddressList](addresslist-object-outlook.md)** , the code sample uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it obtains and prints the various pieces of data for the user.
+The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses **[AddressList.AddressListType](addresslist-addresslisttype-property-outlook.md)** to find the Global Address List. Since the Global Address List can contain multiple types of entries such as Exchange user, Exchange distribution list, and Exchange public folder, for each **AddressEntry** on that **[AddressList](addresslist-object-outlook.md)** , the code sample uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it obtains and prints the various pieces of data for the user.
 
 
 ```vb

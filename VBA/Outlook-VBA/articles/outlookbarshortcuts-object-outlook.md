@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 # OutlookBarShortcuts Object (Outlook)
 
-Contains a set of  **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)** objects representing all shortcuts in a group in the **Shortcuts** pane.
+Contains a set of **[OutlookBarShortcut](outlookbarshortcut-object-outlook.md)** objects representing all shortcuts in a group in the **Shortcuts** pane.
 
 
 ## Remarks
 
-Use the  **[Shortcuts](outlookbargroup-shortcuts-property-outlook.md)** property to return the **OutlookBarShortcuts** collection object from the **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object.
+Use the **[Shortcuts](outlookbargroup-shortcuts-property-outlook.md)** property to return the **OutlookBarShortcuts** collection object from the **[OutlookBarGroup](outlookbargroup-object-outlook.md)** object.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example shows how to retrieve the  **OutlookBarShortcuts** object.
+The following Microsoft Visual Basic for Applications (VBA) example shows how to retrieve the **OutlookBarShortcuts** object.
 
 
 ```

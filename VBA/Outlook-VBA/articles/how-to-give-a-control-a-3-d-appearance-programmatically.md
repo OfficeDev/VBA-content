@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # How to: Give a Control a 3-D Appearance Programmatically
 
-The following code example uses the  **[ModifiedFormPages](inspector-modifiedformpages-property-outlook.md)** property of the current **[Inspector](inspector-object-outlook.md)** object to set the **[SpecialEffect](checkbox-specialeffect-property-outlook-forms-script.md)** property of a **[CheckBox](checkbox-object-outlook-forms-script.md)** on a page named "Test." By setting the **SpecialEffect** property to 2, the **CheckBox** will have a sunken effect.
+The following code example uses the **[ModifiedFormPages](inspector-modifiedformpages-property-outlook.md)** property of the current **[Inspector](inspector-object-outlook.md)** object to set the **[SpecialEffect](checkbox-specialeffect-property-outlook-forms-script.md)** property of a **[CheckBox](checkbox-object-outlook-forms-script.md)** on a page named "Test." By setting the **SpecialEffect** property to 2, the **CheckBox** will have a sunken effect.
 
 
 ```

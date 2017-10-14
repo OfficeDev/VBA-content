@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Cost Property (Project)
 
-Gets the total cost of the assignment. Read/write  **Variant**.
+Gets the total cost of the assignment. Read/write **Variant**.
 
 
 ## Syntax

@@ -40,7 +40,7 @@ Avoid using hard-coded passwords in your applications. If a password is required
 
 ## Remarks
 
-Use the  **Dialogs** property with the **wdDialogConnect** constant to display the **Connect To Network Drive** dialog box. The following example displays the **Connect To Network Drive** dialog box, with a preset path shown.
+Use the **Dialogs** property with the **wdDialogConnect** constant to display the **Connect To Network Drive** dialog box. The following example displays the **Connect To Network Drive** dialog box, with a preset path shown.
 
 
 ```vb

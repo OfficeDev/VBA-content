@@ -18,9 +18,9 @@ Represents a document or link to a document contained in an Outlook item.
 
 ## Remarks
 
-Use  **[Attachments](attachments-item-method-outlook.md)** ( _index_ ), where _index_ is the index number, to return a single **Attachment** object.
+Use **[Attachments](attachments-item-method-outlook.md)** ( _index_ ), where _index_ is the index number, to return a single **Attachment** object.
 
-Use the  **[Add](attachments-add-method-outlook.md)** method to add an attachment to an item.
+Use the **[Add](attachments-add-method-outlook.md)** method to add an attachment to an item.
 
 
 ## Example

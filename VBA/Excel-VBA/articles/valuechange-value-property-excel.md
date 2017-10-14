@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValueChange.Value Property (Excel)
 
-Returns the value that the user entered in the cell or that the formula in the cell was evaluated to when  **UPDATE CUBE** statement was last run against the OLAP data source. Read-only
+Returns the value that the user entered in the cell or that the formula in the cell was evaluated to when **UPDATE CUBE** statement was last run against the OLAP data source. Read-only
 
 
 ## Syntax

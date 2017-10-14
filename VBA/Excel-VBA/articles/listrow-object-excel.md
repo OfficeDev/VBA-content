@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ListRow Object (Excel)
 
-Represents a row in a table. The  **ListRow** object is a member of the **[ListRows](listrows-object-excel.md)** collection.
+Represents a row in a table. The **ListRow** object is a member of the **[ListRows](listrows-object-excel.md)** collection.
 
 
 ## Remarks
 
-The  **ListRows** collection contains all the rows in a list object.
+The **ListRows** collection contains all the rows in a list object.
 
-Use the  **[ListRows](listobject-listrows-property-excel.md)** property of the **[ListObject](listobject-object-excel.md)** object to return a **ListRows** collection.
+Use the **[ListRows](listobject-listrows-property-excel.md)** property of the **[ListObject](listobject-object-excel.md)** object to return a **ListRows** collection.
 
 
 ## Example

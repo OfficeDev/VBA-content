@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # InstalledPrinters.Item Property (Publisher)
 
-Returns the  **[Printer](printer-object-publisher.md)** object with the specified name or at the specified index position in the **[InstalledPrinters](installedprinters-object-publisher.md)** collection. Read-only.
+Returns the **[Printer](printer-object-publisher.md)** object with the specified name or at the specified index position in the **[InstalledPrinters](installedprinters-object-publisher.md)** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents an  **InstalledPrinters** collection.
+ _expression_A variable that represents an **InstalledPrinters** collection.
 
 
 ### Parameters

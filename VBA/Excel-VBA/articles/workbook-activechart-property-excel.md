@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ActiveChart Property (Excel)
 
-Returns a  **[Chart](chart-object-excel.md)** object that represents the active chart (either an embedded chart or a chart sheet). An embedded chart is considered active when it's either selected or activated. When no chart is active, this property returns **Nothing** .
+Returns a **[Chart](chart-object-excel.md)** object that represents the active chart (either an embedded chart or a chart sheet). An embedded chart is considered active when it's either selected or activated. When no chart is active, this property returns **Nothing** .
 
 
 ## Syntax

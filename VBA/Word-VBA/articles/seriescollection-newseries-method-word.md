@@ -25,7 +25,7 @@ Creates a new series.
 
 ### Return Value
 
-A  **[Series](series-object-word.md)** object that represents the new series.
+A **[Series](series-object-word.md)** object that represents the new series.
 
 
 ## Remarks

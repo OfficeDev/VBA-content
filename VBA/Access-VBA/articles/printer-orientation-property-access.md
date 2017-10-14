@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Printer.Orientation Property (Access)
 
-Gets or sets an  **[AcPrintOrientation](acprintorientation-enumeration-access.md)** constant that represents the print orientation. Read/write.
+Gets or sets an **[AcPrintOrientation](acprintorientation-enumeration-access.md)** constant that represents the print orientation. Read/write.
 
 
 ## Syntax

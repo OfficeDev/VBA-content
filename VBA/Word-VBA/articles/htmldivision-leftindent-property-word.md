@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HTMLDivision.LeftIndent Property (Word)
 
-Returns or sets a  **Single** that represents the left indent value (in points) for the specified HTML division. Read/write.
+Returns or sets a **Single** that represents the left indent value (in points) for the specified HTML division. Read/write.
 
 
 ## Syntax

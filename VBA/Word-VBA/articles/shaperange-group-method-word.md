@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Group Method (Word)
 
-Groups the shapes in the specified range, and returns the grouped shapes as a single  **Shape** object.
+Groups the shapes in the specified range, and returns the grouped shapes as a single **Shape** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Groups the shapes in the specified range, and returns the grouped shapes as a si
 
 ## Remarks
 
-Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
+Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the **Shapes** collection and changes the index numbers of items that come after the affected items in the collection.
 
 
 ## Example

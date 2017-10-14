@@ -30,16 +30,16 @@ Integer
 
 ## Remarks
 
-If an object is a reference to an entity in a document, and if that document closes, the  **Stat** property returns a value in which the **visStatClosed** bit is set.
+If an object is a reference to an entity in a document, and if that document closes, the **Stat** property returns a value in which the **visStatClosed** bit is set.
 
-If an object is a reference to an entity that has been deleted, the  **Stat** property returns a value in which the **visStatDeleted** bit is set.
+If an object is a reference to an entity that has been deleted, the **Stat** property returns a value in which the **visStatDeleted** bit is set.
 
-A Component Object Model (COM) object, such as a Microsoft Visio  **Document** object, lives as long as it is held (pointed to) by a client, even if the object is logically in a deleted or closed state.
+A Component Object Model (COM) object, such as a Microsoft Visio **Document** object, lives as long as it is held (pointed to) by a client, even if the object is logically in a deleted or closed state.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Stat** property to check the status of a **Document** object. Executing the macro prints 0 ( **visStatNormal** ) and then 8 ( **visStatClosed** ) in the **Immediate** window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Stat** property to check the status of a **Document** object. Executing the macro prints 0 ( **visStatNormal** ) and then 8 ( **visStatClosed** ) in the **Immediate** window.
 
 
 ```vb

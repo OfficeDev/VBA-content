@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 
 1. In design mode, select the control on the form.
     
-2. In the  **Properties** window, select the **Accelerator** property.
+2. In the **Properties** window, select the **Accelerator** property.
     
-3. Enter a single character as the value for  **Accelerator**.
+3. Enter a single character as the value for **Accelerator**.
     
 
 

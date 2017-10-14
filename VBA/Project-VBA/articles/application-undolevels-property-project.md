@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UndoLevels Property (Project)
 
-Gets or sets the number of undo levels. The default is 20. Read/write  **Long**.
+Gets or sets the number of undo levels. The default is 20. Read/write **Long**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the number of undo levels. The default is 20. Read/write  **Long**.
 
 ## Remarks
 
-The minimum value of  **UndoLevels** is 1 (no multilevel undo) and the maximum is 99.
+The minimum value of **UndoLevels** is 1 (no multilevel undo) and the maximum is 99.
 
 

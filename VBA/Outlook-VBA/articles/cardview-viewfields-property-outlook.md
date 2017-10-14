@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CardView.ViewFields Property (Outlook)
 
-Returns a  **[ViewFields](viewfields-object-outlook.md)** object that represents the set of fields with which Outlook items are displayed in the **[CardView](cardview-object-outlook.md)** object. Read-only.
+Returns a **[ViewFields](viewfields-object-outlook.md)** object that represents the set of fields with which Outlook items are displayed in the **[CardView](cardview-object-outlook.md)** object. Read-only.
 
 
 ## Syntax

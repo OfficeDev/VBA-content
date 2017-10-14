@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Name Property (Word)
 
-Returns name of the specified object. Read-only  **String** .
+Returns name of the specified object. Read-only **String** .
 
 
 ## Syntax

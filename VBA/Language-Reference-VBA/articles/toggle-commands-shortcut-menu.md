@@ -17,5 +17,5 @@ Sets or removes a [breakpoint](vbe-glossary.md) at the current line.
 
  **Bookmark**
 
-Displays or removes a bookmark at the active line in the  **Code** window.
+Displays or removes a bookmark at the active line in the **Code** window.
 

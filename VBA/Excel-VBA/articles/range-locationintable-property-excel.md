@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.LocationInTable Property (Excel)
 
-Returns a constant that describes the part of the  **[PivotTable](pivottable-object-excel.md)** report that contains the upper-left corner of the specified range. Can be one of the following **[XlLocationInTable](xllocationintable-enumeration-excel.md)** . constants. Read-only **Long** .
+Returns a constant that describes the part of the **[PivotTable](pivottable-object-excel.md)** report that contains the upper-left corner of the specified range. Can be one of the following **[XlLocationInTable](xllocationintable-enumeration-excel.md)** . constants. Read-only **Long** .
 
 
 ## Syntax

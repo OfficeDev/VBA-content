@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CatalogMergeShapes.HorizontalRepeat Property (Publisher)
 
-Returns a  **Long** that represents the number of times the catalog merge area will repeat across the target publication page when the catalog merge is executed. Read-only.
+Returns a **Long** that represents the number of times the catalog merge area will repeat across the target publication page when the catalog merge is executed. Read-only.
 
 
 ## Syntax
 
  _expression_. **HorizontalRepeat**
 
- _expression_A variable that represents a  **CatalogMergeShapes** object.
+ _expression_A variable that represents a **CatalogMergeShapes** object.
 
 
 ### Return Value
@@ -32,9 +32,9 @@ Long
 
 When the catalog merge is executed, the catalog merge area repeats once for each selected record in the specified data source.
 
-The number of times the catalog merge area repeats across the page is determined by the width of the area. Use the  **[Width](shape-width-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object to return or set the horizontal size of the catalog merge area.
+The number of times the catalog merge area repeats across the page is determined by the width of the area. Use the **[Width](shape-width-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object to return or set the horizontal size of the catalog merge area.
 
-The  **[VerticalRepeat](catalogmergeshapes-verticalrepeat-property-publisher.md)** property of the **[CatalogMergeShapes](catalogmergeshapes-object-publisher.md)** object represents the number of times the catalog merge area repeats vertically down the target publication page.
+The **[VerticalRepeat](catalogmergeshapes-verticalrepeat-property-publisher.md)** property of the **[CatalogMergeShapes](catalogmergeshapes-object-publisher.md)** object represents the number of times the catalog merge area repeats vertically down the target publication page.
 
 
 ## Example

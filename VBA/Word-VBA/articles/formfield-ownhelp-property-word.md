@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.OwnHelp Property (Word)
 
-Specifies the source of the text that's displayed in a message box when a form field has the focus and the user presses F1. Read/write  **Boolean** .
+Specifies the source of the text that's displayed in a message box when a form field has the focus and the user presses F1. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Specifies the source of the text that's displayed in a message box when a form f
 
 ## Remarks
 
-If  **True** , the text specified by the **[HelpText](formfield-helptext-property-word.md)** property is displayed. If **False** , the text in the AutoText entry specified by the **HelpText** property is displayed.
+If **True** , the text specified by the **[HelpText](formfield-helptext-property-word.md)** property is displayed. If **False** , the text in the AutoText entry specified by the **HelpText** property is displayed.
 
 
 ## Example

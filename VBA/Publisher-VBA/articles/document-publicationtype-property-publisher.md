@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.PublicationType Property (Publisher)
 
-Returns a  **PbPublicationType** constant that represents the type of the specified publication. Read-only.
+Returns a **PbPublicationType** constant that represents the type of the specified publication. Read-only.
 
 
 ## Syntax
 
  _expression_. **PublicationType**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbPublicationType
 
 ## Remarks
 
-The  **PublicationType** property value can be one of these **PbPublicationType** constants.
+The **PublicationType** property value can be one of these **PbPublicationType** constants.
 
 
 

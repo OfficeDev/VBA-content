@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.WrapText Property (Excel)
 
-Returns or sets a  **Boolean** value that indicates if Microsoft Excel wraps the text in the object.
+Returns or sets a **Boolean** value that indicates if Microsoft Excel wraps the text in the object.
 
 
 ## Syntax

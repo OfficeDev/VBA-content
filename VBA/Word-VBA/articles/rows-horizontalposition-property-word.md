@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.HorizontalPosition Property (Word)
 
-Returns or sets the horizontal distance between the edge of the rows and the item specified by the  **RelativeHorizontalPosition** property. Read/write **Single** .
+Returns or sets the horizontal distance between the edge of the rows and the item specified by the **RelativeHorizontalPosition** property. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the horizontal distance between the edge of the rows and the ite
 
 ## Remarks
 
-This property can be a number that indicates a measurement in points, or can be one of the  **WdTablePosition** constants. This property doesn't have any effect if the **[WrapAroundText](rows-wraparoundtext-property-word.md)** property is **False** .
+This property can be a number that indicates a measurement in points, or can be one of the **WdTablePosition** constants. This property doesn't have any effect if the **[WrapAroundText](rows-wraparoundtext-property-word.md)** property is **False** .
 
 
 ## Example

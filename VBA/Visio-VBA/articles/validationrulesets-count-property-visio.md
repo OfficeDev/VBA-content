@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRuleSets.Count Property (Visio)
 
-Returns the number of  **[ValidationRuleSet](validationruleset-object-visio.md)** objects in the collection. Read-only.
+Returns the number of **[ValidationRuleSet](validationruleset-object-visio.md)** objects in the collection. Read-only.
 
 
 ## Syntax

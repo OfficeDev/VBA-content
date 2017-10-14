@@ -32,7 +32,7 @@ Saves a custom chart template to the list of available chart templates or to a f
 
 ## Remarks
 
-By default, the  **SaveChartTemplate** method saves the active chart to the user's chart template directory (for example `C:\Users\username.DOMAIN\AppData\Roaming\Microsoft\Templates\Charts`). If a UNC file path or URL is specified, the chart is saved to the specified location.
+By default, the **SaveChartTemplate** method saves the active chart to the user's chart template directory (for example `C:\Users\username.DOMAIN\AppData\Roaming\Microsoft\Templates\Charts`). If a UNC file path or URL is specified, the chart is saved to the specified location.
 
 
 ## Example

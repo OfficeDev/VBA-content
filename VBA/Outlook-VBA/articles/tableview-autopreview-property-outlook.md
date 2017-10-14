@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.AutoPreview Property (Outlook)
 
-Returns or sets an  **[OlAutoPreview](olautopreview-enumeration-outlook.md)** constant that determines how items are automatically previewed by the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlAutoPreview](olautopreview-enumeration-outlook.md)** constant that determines how items are automatically previewed by the **[TableView](tableview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlAutoPreview](olautopreview-enumeration-outlook.md)** co
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example sets the  **AutoPreview** property to **olAutoPreviewUnread** for every **TableView** object associated with the current **[Folder](folder-object-outlook.md)** object.
+The following Visual Basic for Applications (VBA) example sets the **AutoPreview** property to **olAutoPreviewUnread** for every **TableView** object associated with the current **[Folder](folder-object-outlook.md)** object.
 
 
 ```vb

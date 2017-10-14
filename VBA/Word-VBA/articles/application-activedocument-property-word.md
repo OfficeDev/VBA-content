@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveDocument Property (Word)
 
-Returns a  **[Document](document-object-word.md)** object that represents the active document (the document with the focus). If there are no documents open, an error occurs. Read-only.
+Returns a **[Document](document-object-word.md)** object that represents the active document (the document with the focus). If there are no documents open, an error occurs. Read-only.
 
 
  **Note**  The document in the active protected view window cannot be accessed using this property. Instead, use the [Document](document-object-word.md) property of the **[ActiveProtectedViewWindow](application-activeprotectedviewwindow-property-word.md)** object.

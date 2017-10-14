@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Endnote.Reference Property (Word)
 
-Returns a  **Range** object that represents an endnote reference mark.
+Returns a **Range** object that represents an endnote reference mark.
 
 
 ## Syntax

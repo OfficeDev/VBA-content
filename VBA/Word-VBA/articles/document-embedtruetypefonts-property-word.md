@@ -38,7 +38,7 @@ ActiveDocument.EmbedTrueTypeFonts = True
 ActiveDocument.Save
 ```
 
-This example returns the current status of the  **Embed TrueType** fonts check box in the **Save** options area on the **Save** tab in the **Options** dialog box.
+This example returns the current status of the **Embed TrueType** fonts check box in the **Save** options area on the **Save** tab in the **Options** dialog box.
 
 
 

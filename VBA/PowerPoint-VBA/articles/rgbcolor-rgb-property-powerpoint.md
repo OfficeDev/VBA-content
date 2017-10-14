@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RGBColor.RGB Property (PowerPoint)
 
-Returns or sets the red-green-blue (RGB) value of a specified color-scheme color or extra color when used with a  **PpColorSchemeIndex** constant. Read/write.
+Returns or sets the red-green-blue (RGB) value of a specified color-scheme color or extra color when used with a **PpColorSchemeIndex** constant. Read/write.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ MsoRGBType
 
 ## Remarks
 
-Use the  **Colors** method to return a **RGBColor** object.
+Use the **Colors** method to return a **RGBColor** object.
 
-The value of the  **RGB** property can be one of these **PpColorSchemeIndex** constants.
+The value of the **RGB** property can be one of these **PpColorSchemeIndex** constants.
 
 
 ||

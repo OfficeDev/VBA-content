@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserDefinedProperties.Find Method (Outlook)
 
-Locate a  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** contained in the collection.
+Locate a **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** contained in the collection.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Locate a  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** conta
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The  **[Name](userdefinedproperty-name-property-outlook.md)** property value of the **UserDefinedProperty** object to find in the collection.|
+| _Name_|Required| **String**|The **[Name](userdefinedproperty-name-property-outlook.md)** property value of the **UserDefinedProperty** object to find in the collection.|
 
 ### Return Value
 
-A  **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** ( **Nothing** in Visual Basic).
+A **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** ( **Nothing** in Visual Basic).
 
 
 ## See also

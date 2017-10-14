@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-Possible values for  **KeyButtonState** can be a combination of any of the values shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library. For example, if **KeyButtonState** returns 9, it indicates that the user clicked the left mouse button while pressing CTRL.
+Possible values for **KeyButtonState** can be a combination of any of the values shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library. For example, if **KeyButtonState** returns 9, it indicates that the user clicked the left mouse button while pressing CTRL.
 
 
 
@@ -44,9 +44,9 @@ Possible values for  **KeyButtonState** can be a combination of any of the value
 
 ## Example
 
-This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains an event handler for the **MouseDown** event that prints to the Immediate window the state of the mouse buttons and CTRL and SHIFT keys when the event fired.
+This class module shows how to define a sink class called **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains an event handler for the **MouseDown** event that prints to the Immediate window the state of the mouse buttons and CTRL and SHIFT keys when the event fired.
 
-To run this example, insert a new class module in your VBA project, name it  **MouseListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it **MouseListener** , and insert the following code in the module.
 
 
 
@@ -73,7 +73,7 @@ Private Sub vsoWindow_MouseDown(ByVal Button As Long, ByVal KeyButtonState As Lo
 End Sub
 ```
 
-Then, insert the following code in the  **ThisDocument** project.
+Then, insert the following code in the **ThisDocument** project.
 
 
 
@@ -94,6 +94,6 @@ Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument)
 End Sub
 ```
 
-Save the document to initialize the class, and then click anywhere in the active window (optionally, while pressing SHIFT and/or CTRL) to fire a  **MouseDown** event. In the Immediate window, the handler prints the name of the mouse button that was clicked to fire the event. If you pressed either or both of the keys, the name of the key or keys you pressed will print as well.
+Save the document to initialize the class, and then click anywhere in the active window (optionally, while pressing SHIFT and/or CTRL) to fire a **MouseDown** event. In the Immediate window, the handler prints the name of the mouse button that was clicked to fire the event. If you pressed either or both of the keys, the name of the key or keys you pressed will print as well.
 
 

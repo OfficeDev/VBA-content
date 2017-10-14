@@ -41,7 +41,7 @@ Inserts a hyperlink on the selected assignment, resource, or task.
 
 ## Remarks
 
-Using the  **InsertHyperlink** method without specifying any arguments displays the **Insert Hyperlink** dialog box.
+Using the **InsertHyperlink** method without specifying any arguments displays the **Insert Hyperlink** dialog box.
 
 
 ## Example

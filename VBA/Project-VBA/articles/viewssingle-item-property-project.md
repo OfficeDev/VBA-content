@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ViewsSingle.Item Property (Project)
 
-Gets a single  **View** object from the **ViewsSingle** collection. Read-only **View**.
+Gets a single **View** object from the **ViewsSingle** collection. Read-only **View**.
 
 
 ## Syntax

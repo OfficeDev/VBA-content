@@ -30,6 +30,6 @@ Displays work information in the active details pane.
 
 ## Remarks
 
-The  **ViewShowWork** method has no effect unless the active window contains one of the following views: Resource Graph, Resource Form, Resource Name Form, Task Details Form, or Task Name Form.
+The **ViewShowWork** method has no effect unless the active window contains one of the following views: Resource Graph, Resource Form, Resource Name Form, Task Details Form, or Task Name Form.
 
 

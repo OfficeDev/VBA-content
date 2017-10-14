@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Calendar.Years Property (Project)
 
-Gets a  **[Years](years-object-project.md)** collection representing the years in the calendar. Read-only **Years**.
+Gets a **[Years](years-object-project.md)** collection representing the years in the calendar. Read-only **Years**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisPublishDataRecordsets Enumeration (Visio)
 
-Specifies constants that define which data recordsets to publish; passed to the  **[ServerPublishOptions.SetRecordsetsToPublish](serverpublishoptions-setrecordsetstopublish-method-visio.md)** method and returned by the **[ServerPublishOptions.GetRecordsetsToPublish](serverpublishoptions-getrecordsetstopublish-method-visio.md)** method.
+Specifies constants that define which data recordsets to publish; passed to the **[ServerPublishOptions.SetRecordsetsToPublish](serverpublishoptions-setrecordsetstopublish-method-visio.md)** method and returned by the **[ServerPublishOptions.GetRecordsetsToPublish](serverpublishoptions-getrecordsetstopublish-method-visio.md)** method.
 
 
 

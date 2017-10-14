@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Top Property (Word)
 
-Returns or sets the vertical position, in points, of the specified window. Read/write  **Long** .
+Returns or sets the vertical position, in points, of the specified window. Read/write **Long** .
 
 
 ## Syntax

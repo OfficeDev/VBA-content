@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorsInUse.Application Property (Publisher)
 
-Used without an object qualifier, this property returns an  **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an  **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
+Used without an object qualifier, this property returns an **[Application](application-object-publisher.md)** object that represents the current instance of Publisher. Used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. When used with an OLE Automation object, it returns the object's application.
 
 
 ## Syntax
 
  _expression_. **Application**
 
- _expression_A variable that represents a  **ColorsInUse** object.
+ _expression_A variable that represents a **ColorsInUse** object.
 
 
 ## Example

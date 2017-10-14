@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BarBoxStyles Method (Project)
 
-Displays the  **Bar Styles**, **Box Styles**, or **Detail Styles** dialog box, which prompts the user to specify bar styles (in the Gantt Chart, Resource Graph, and Calendar views), box styles (in the Network Diagram view), or detail styles (in the Task Usage and Resource Usage views), respectively.
+Displays the **Bar Styles**, **Box Styles**, or **Detail Styles** dialog box, which prompts the user to specify bar styles (in the Gantt Chart, Resource Graph, and Calendar views), box styles (in the Network Diagram view), or detail styles (in the Task Usage and Resource Usage views), respectively.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Bar Styles**, **Box Styles**, or **Detail Styles** dialog box, w
 
 ## Remarks
 
-The  **BarBoxStyles** method has the same effect as the **Bar Styles** command (in the Gantt Chart, Resource Graph, and Calendar views), the **Box Styles** command (in the Network Diagram view), or the **Detail Styles** command (in the Task Usage and Resource Usage views) on the **Format** menu.
+The **BarBoxStyles** method has the same effect as the **Bar Styles** command (in the Gantt Chart, Resource Graph, and Calendar views), the **Box Styles** command (in the Network Diagram view), or the **Detail Styles** command (in the Task Usage and Resource Usage views) on the **Format** menu.
 
 

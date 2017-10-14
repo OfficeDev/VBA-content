@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.Object Property (Excel)
 
-Returns the OLE Automation object associated with this OLE object. Read-only  **Object** .
+Returns the OLE Automation object associated with this OLE object. Read-only **Object** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the OLE Automation object associated with this OLE object. Read-only  **
 
 ## Example
 
-This example inserts text at the beginning of an embedded Word document object on Sheet1. Note that the three statements in the  **With** control structure are WordBasic statements.
+This example inserts text at the beginning of an embedded Word document object on Sheet1. Note that the three statements in the **With** control structure are WordBasic statements.
 
 
 ```vb

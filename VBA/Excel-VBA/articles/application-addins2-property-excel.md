@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AddIns2 Property (Excel)
 
-Returns an  **[AddIns2](addins2-object-excel.md)** collection that represents all the add-ins that are currently available or open in Microsoft Excel, regardless of whether they are installed. Read-only
+Returns an **[AddIns2](addins2-object-excel.md)** collection that represents all the add-ins that are currently available or open in Microsoft Excel, regardless of whether they are installed. Read-only
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AddIns2](addins2-object-excel.md)** collection that represents al
 
 ## Example
 
-This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the  **AddIns** collection is the title of the add-in, not the add-in's file name.
+This example displays the status of the Analysis ToolPak add-in. Note that the string used as the index to the **AddIns** collection is the title of the add-in, not the add-in's file name.
 
 
 ```vb

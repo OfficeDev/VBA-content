@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.InsertSymbol Method (PowerPoint)
 
-Returns a  **[TextRange](textrange-object-powerpoint.md)** object that represents a symbol inserted into the specified text range.
+Returns a **[TextRange](textrange-object-powerpoint.md)** object that represents a symbol inserted into the specified text range.
 
 
 ## Syntax

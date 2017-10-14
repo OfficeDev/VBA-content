@@ -18,7 +18,7 @@ Returns a member of a collection, either by position or by name.
 
  _expression_. **Item**( **_varg_**)
 
- _expression_A variable that represents a  **Tabs** object.
+ _expression_A variable that represents a **Tabs** object.
 
 
 ### Parameters
@@ -36,7 +36,7 @@ An Object that corresponds to the specified member in the collection.
 
 ## Remarks
 
-The  _varg_ can be either a **String** or an **Integer**. If it is a  **String**, it must be a valid member name. If it is an  **Integer**, the minimum value is 0 and the maximum value is one less than the number of items in the collection.
+The  _varg_ can be either a **String** or an **Integer**. If it is a **String**, it must be a valid member name. If it is an **Integer**, the minimum value is 0 and the maximum value is one less than the number of items in the collection.
 
 If an invalid index or name is specified, an error occurs.
 

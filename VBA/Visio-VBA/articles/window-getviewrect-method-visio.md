@@ -41,8 +41,8 @@ Nothing
 
 ## Remarks
 
-The values that the  **GetViewRect** method returns are affected by whether page tabs and rulers are displayed on the Microsoft Visio drawing page.
+The values that the **GetViewRect** method returns are affected by whether page tabs and rulers are displayed on the Microsoft Visio drawing page.
 
-If the  **Window** object is not a **visDrawing** type, the **GetViewRect** method raises an exception.
+If the **Window** object is not a **visDrawing** type, the **GetViewRect** method raises an exception.
 
 

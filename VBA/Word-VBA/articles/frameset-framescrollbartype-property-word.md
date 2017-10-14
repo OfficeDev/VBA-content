@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.FrameScrollbarType Property (Word)
 
-Returns or sets when scroll bars are available for the specified frame when viewing its frames page in a Web browser. Read/write  **WdScrollbarType** .
+Returns or sets when scroll bars are available for the specified frame when viewing its frames page in a Web browser. Read/write **WdScrollbarType** .
 
 
 ## Syntax

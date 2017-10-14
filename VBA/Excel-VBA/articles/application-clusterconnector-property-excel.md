@@ -30,14 +30,14 @@ Returns or sets the name of the High Performance Computing (HPC) Cluster Connect
 
 ## Remarks
 
-The setting of the  **ClusterConnector** property corresponds to the **Cluster type** drop-down box under **Formulas** in the **Advanced** category of the **Excel Options** dialog box.
+The setting of the **ClusterConnector** property corresponds to the **Cluster type** drop-down box under **Formulas** in the **Advanced** category of the **Excel Options** dialog box.
 
 
 
 
- **Note**  To specify the  **ClusterConnector** property you must install a High Performance Computing (HPC) Cluster Connector. A Cluster Connector enables you to run cluster-safe XLL functions remotely on an HPC cluster for increased performance.
+ **Note**  To specify the **ClusterConnector** property you must install a High Performance Computing (HPC) Cluster Connector. A Cluster Connector enables you to run cluster-safe XLL functions remotely on an HPC cluster for increased performance.
 
-Before you can specify the  **ClusterConnector** property, you must use the **[UseClusterConnector](application-useclusterconnector-property-excel.md)** property to allow Excel to run user-defined functions in XLL add-ins.
+Before you can specify the **ClusterConnector** property, you must use the **[UseClusterConnector](application-useclusterconnector-property-excel.md)** property to allow Excel to run user-defined functions in XLL add-ins.
 
 
 ## See also

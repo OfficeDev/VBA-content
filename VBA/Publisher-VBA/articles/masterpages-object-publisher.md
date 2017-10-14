@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # MasterPages Object (Publisher)
 
-Represents the page master for a publication after which all pages in the publication will be designed. The  **MasterPages** object is a collection of **[Page](page-object-publisher.md)** objects.
+Represents the page master for a publication after which all pages in the publication will be designed. The **MasterPages** object is a collection of **[Page](page-object-publisher.md)** objects.
  
 
 
 ## Example
 
-Use the  **[MasterPages](document-masterpages-property-publisher.md)** property to return a **MasterPages** object. The following example adds two ruler guides to the master page so that each page in the active publication is divided into quarters.
+Use the **[MasterPages](document-masterpages-property-publisher.md)** property to return a **MasterPages** object. The following example adds two ruler guides to the master page so that each page in the active publication is divided into quarters.
  
 
  
@@ -44,7 +44,7 @@ Sub ChangeMasterPage()
 End Sub
 ```
 
-Use the  **[Shapes](page-shapes-property-publisher.md)** property to work with AutoShapes and text boxes on the master page. This example adds a small red heart shape to the upper left corner of the master page that will appear on each page in the active publication.
+Use the **[Shapes](page-shapes-property-publisher.md)** property to work with AutoShapes and text boxes on the master page. This example adds a small red heart shape to the upper left corner of the master page that will appear on each page in the active publication.
  
 
  

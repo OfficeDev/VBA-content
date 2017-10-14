@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CalculatedMember.ParentMember Property (Excel)
 
-Returns the name of the parent member for the parent hierarchy.  **String** Read-only
+Returns the name of the parent member for the parent hierarchy. **String** Read-only
 
 
 ## Syntax

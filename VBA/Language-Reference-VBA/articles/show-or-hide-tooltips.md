@@ -14,17 +14,17 @@ ms.date: 06/08/2017
 
 
 
-1. From the  **Tools** menu, choose **Options**.
+1. From the **Tools** menu, choose **Options**.
     
-2. Select the  **General** tab sheet.
+2. Select the **General** tab sheet.
     
 3. Do one of the following:
     
     
     
-      - To display ToolTips, check the  **Show ToolTips** box.
+      - To display ToolTips, check the **Show ToolTips** box.
     
-  - To hide ToolTips, clear the  **Show ToolTips** box.
+  - To hide ToolTips, clear the **Show ToolTips** box.
     
 
     

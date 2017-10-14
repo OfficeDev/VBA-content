@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # pbEmailMergePriority Enumeration (Publisher)
 
-Constants for merged e-mail message priority passed to and returned by the  ** [EmailMergeEnvelope.Priority](emailmergeenvelope-priority-property-publisher.md)** property.
+Constants for merged e-mail message priority passed to and returned by the ** [EmailMergeEnvelope.Priority](emailmergeenvelope-priority-property-publisher.md)** property.
 
 
 

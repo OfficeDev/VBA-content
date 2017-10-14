@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **String** that provides information about a[variable](vbe-glossary.md).
+Returns a **String** that provides information about a[variable](vbe-glossary.md).
  **Syntax**
  **TypeName(**_varname_**)**
 The required  _varname_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md) containing any variable except a variable of a[user-defined type](vbe-glossary.md).
  **Remarks**
-The string returned by  **TypeName** can be any one of the following:
+The string returned by **TypeName** can be any one of the following:
 
 
 |**String returned**|**Variable**|
@@ -40,11 +40,11 @@ The string returned by  **TypeName** can be any one of the following:
 |[Object](vbe-glossary.md)|An object|
 |Unknown|An object whose type is unknown|
 |**Nothing**|Object variable that doesn't refer to an object|
-If  _varname_ is an[array](vbe-glossary.md), the returned string can be any one of the possible returned strings (or  **Variant** ) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
+If  _varname_ is an[array](vbe-glossary.md), the returned string can be any one of the possible returned strings (or **Variant** ) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
 
 ## Example
 
-This example uses the  **TypeName** function to return information about a variable.
+This example uses the **TypeName** function to return information about a variable.
 
 
 ```vb

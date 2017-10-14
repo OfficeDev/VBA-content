@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 When you design a form, use the grid to align controls easily and precisely.
 
 
-- In the Forms Designer, on the  **Developer** tab, in the **Arrange** group, click **Align**, and then click  **Show Grid**.
+- In the Forms Designer, on the **Developer** tab, in the **Arrange** group, click **Align**, and then click **Show Grid**.
     
 
  **Note**  When you customize forms with form regions, the grid is not displayed by default.

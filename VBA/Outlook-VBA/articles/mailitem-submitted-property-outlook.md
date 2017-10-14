@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Submitted Property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the item has been submitted. Read-only.
+Returns a **Boolean** value that is **True** if the item has been submitted. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that is **True** if the item has been submitted. Re
 
 ## Remarks
 
-A message is always created and submitted in a folder, usually the  **Outbox**. 
+A message is always created and submitted in a folder, usually the **Outbox**. 
 
 
 ## See also

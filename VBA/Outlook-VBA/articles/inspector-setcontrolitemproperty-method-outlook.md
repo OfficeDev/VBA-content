@@ -34,7 +34,7 @@ Binds a built-in property or custom property to a control in an inspector.
 
 ## Remarks
 
-You can use this method to bind an explicit built-in property or a custom property to a control. You must reference the property by its string name, for example,  **Subject** , and not by namespace, for example, http://schemas.microsoft.com/mapi/proptag/0x0037001E.
+You can use this method to bind an explicit built-in property or a custom property to a control. You must reference the property by its string name, for example, **Subject** , and not by namespace, for example, http://schemas.microsoft.com/mapi/proptag/0x0037001E.
 
 The  _PropertyName_ parameter is not case-sensitive. For example, **SetControlItemProperty** interprets an argument, _CustomerId_, to be the same as  _CustomerID_ and binds the specified control to the built-in **[ContactItem.CustomerID](contactitem-customerid-property-outlook.md)** property.
 
@@ -43,7 +43,7 @@ You can also use the following line of code  `myPage.Controls("bar").ItemPropert
 
 ## Example
 
-The following Visual Basic for Applications (VBA) code adds a custom page to an appointment item, adds a custom textbox control, and binds that control to  **Subject** property.
+The following Visual Basic for Applications (VBA) code adds a custom page to an appointment item, adds a custom textbox control, and binds that control to **Subject** property.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.Forward Method (Access)
 
-Moves the focus to the next file in the specified  **Attachment** control.
+Moves the focus to the next file in the specified **Attachment** control.
 
 
 ## Syntax

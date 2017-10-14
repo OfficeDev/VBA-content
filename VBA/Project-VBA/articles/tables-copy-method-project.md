@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Tables.Copy Method (Project)
 
-Makes a copy of a group definition for the  **Tables** collection and returns a reference to the **[Table](table-object-project.md)** object.
+Makes a copy of a group definition for the **Tables** collection and returns a reference to the **[Table](table-object-project.md)** object.
 
 
 ## Syntax

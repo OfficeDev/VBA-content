@@ -20,7 +20,7 @@ Indicates whether the text frame contains more text than can fit into the text f
 
  _expression_. **Overflowing**
 
- _expression_A variable that represents an  **TextFrame** object.
+ _expression_A variable that represents an **TextFrame** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **Overflowing** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **Overflowing** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

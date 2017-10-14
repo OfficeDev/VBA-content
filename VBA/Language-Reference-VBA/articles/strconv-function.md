@@ -13,10 +13,10 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Variant** ( **String** ) converted as specified.
+Returns a **Variant** ( **String** ) converted as specified.
  **Syntax**
  **StrConv** ( **_string, conversion, LCID_** )
-The  **StrConv** function syntax has these[named arguments](vbe-glossary.md):
+The **StrConv** function syntax has these[named arguments](vbe-glossary.md):
 
 
 |**Part**|**Description**|
@@ -25,7 +25,7 @@ The  **StrConv** function syntax has these[named arguments](vbe-glossary.md):
 |**_conversion_**|Required. [Integer](vbe-glossary.md). The sum of values specifying the type of conversion to perform.|
 |**_LCID_**|Optional. The LocaleID, if different than the system LocaleID. (The system LocaleID is the default.)|
  **Settings**
-The  **_conversion_**[argument](vbe-glossary.md) settings are:
+The **_conversion_**[argument](vbe-glossary.md) settings are:
 
 
 |**Constant**|**Value**|**Description**|
@@ -46,11 +46,11 @@ The  **_conversion_**[argument](vbe-glossary.md) settings are:
 
 The following are valid word separators for proper casing: [Null](vbe-glossary.md) ( **Chr$(** 0 **)** ), horizontal tab ( **Chr$(** 9 **)** ), linefeed ( **Chr$(** 10 **)** ), vertical tab ( **Chr$(** 11 **)** ), form feed ( **Chr$(** 12 **)** ), carriage return ( **Chr$(** 13 **)** ), space (SBCS) ( **Chr$(** 32 **)** ). The actual value for a space varies by country/region for[DBCS](vbe-glossary.md).
  **Remarks**
-When converting from a  **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an assignment statement.
+When converting from a **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an assignment statement.
 
 ## Example
 
-This example uses the  **StrConv** function to convert a Unicode string to an ANSI string.
+This example uses the **StrConv** function to convert a Unicode string to an ANSI string.
 
 
 ```vb

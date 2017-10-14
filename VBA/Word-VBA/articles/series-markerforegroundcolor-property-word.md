@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.MarkerForegroundColor Property (Word)
 
-Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write  **Long** .
+Sets the marker foreground color as an RGB value or returns the corresponding color index value. Read/write **Long** .
 
 
 ## Syntax

@@ -17,7 +17,7 @@ Gets the number of layers in the current drawing open in Microsoft Visio Viewer.
 
  _expression_. **LayerCount**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,7 +27,7 @@ Gets the number of layers in the current drawing open in Microsoft Visio Viewer.
 
 ## Remarks
 
-If there are no layers in the drawing, the  **LayerCount** property returns 0.
+If there are no layers in the drawing, the **LayerCount** property returns 0.
 
 
 ## Example

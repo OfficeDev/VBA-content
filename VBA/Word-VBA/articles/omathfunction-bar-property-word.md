@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Bar Property (Word)
 
-Returns an  **[OMathBar](omathbar-object-word.md)** object that represents the mathematical overbar for an object. Read-only.
+Returns an **[OMathBar](omathbar-object-word.md)** object that represents the mathematical overbar for an object. Read-only.
 
 
 ## Syntax

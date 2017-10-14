@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Validation Property (Excel)
 
-Returns the  **[Validation](validation-object-excel.md)** object that represents data validation for the specified range. Read-only.
+Returns the **[Validation](validation-object-excel.md)** object that represents data validation for the specified range. Read-only.
 
 
 ## Syntax

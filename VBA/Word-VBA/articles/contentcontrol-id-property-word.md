@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.ID Property (Word)
 
-Returns a  **String** that represents the identification for a content control. Read-only.
+Returns a **String** that represents the identification for a content control. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** that represents the identification for a content control. 
 
 ## Remarks
 
-The  **ID** property is an internal number that you cannot change but that you can use to identify a content control in code. This number is unique for each content control and does not change.
+The **ID** property is an internal number that you cannot change but that you can use to identify a content control in code. This number is unique for each content control and does not change.
 
-When you get the  **ID** property value at runtime, it is returned as an unsigned value. However, when saved into the Office Open XML file format, it is saved as a signed value. If your solution attempts to map programmatically returned values to values saved in the file format, you must check for both the unsigned and signed version of the value obtained from this property.
+When you get the **ID** property value at runtime, it is returned as an unsigned value. However, when saved into the Office Open XML file format, it is saved as a signed value. If your solution attempts to map programmatically returned values to values saved in the file format, you must check for both the unsigned and signed version of the value obtained from this property.
 
 
 ## See also

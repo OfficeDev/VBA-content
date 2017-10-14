@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # EffectParameters.Item Property (Office)
 
-Retrieves a  **EffectParameter** object at the specified index or with the specified unique Id. Read-only
+Retrieves a **EffectParameter** object at the specified index or with the specified unique Id. Read-only
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Retrieves a  **EffectParameter** object at the specified index or with the speci
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the location of the  **EffectParameter**.|
+| _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the location of the **EffectParameter**.|
 
 ## See also
 

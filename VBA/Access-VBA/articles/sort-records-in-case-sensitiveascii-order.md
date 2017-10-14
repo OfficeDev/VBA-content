@@ -54,13 +54,13 @@ The preceding user-defined function, StrToHex, can be called from a query. When 
 
 1. Create a query from which you will call this function.
     
-2. In the  **Show Table** dialog box, click the table that you want to sort, and then click **Add**.
+2. In the **Show Table** dialog box, click the table that you want to sort, and then click **Add**.
     
 3. Drag the fields you want to the grid.
     
-4. In the first blank column, in the  **Field** row, type **Expr1: StrToHex([ _SortField_ ])**.StrToHex is the user-defined function you created earlier. SortField is the name of the field that contains the case-sensitive values.
+4. In the first blank column, in the **Field** row, type **Expr1: StrToHex([ _SortField_ ])**.StrToHex is the user-defined function you created earlier. SortField is the name of the field that contains the case-sensitive values.
     
-5. In the  **Sort** cell, click **Ascending** or **Descending**.If you choose ascending order, values beginning with uppercase letters will appear before those that begin with lowercase letters. Applying a descending-order sort does the opposite.
+5. In the **Sort** cell, click **Ascending** or **Descending**.If you choose ascending order, values beginning with uppercase letters will appear before those that begin with lowercase letters. Applying a descending-order sort does the opposite.
     
 6. Switch to Datasheet view.Access displays the records, sorted in case-sensitive order.
     

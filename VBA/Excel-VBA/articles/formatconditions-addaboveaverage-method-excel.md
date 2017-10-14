@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatConditions.AddAboveAverage Method (Excel)
 
-Returns a new  **[AboveAverage](aboveaverage-object-excel.md)** object representing a conditional formatting rule for the specified range.
+Returns a new **[AboveAverage](aboveaverage-object-excel.md)** object representing a conditional formatting rule for the specified range.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a new  **[AboveAverage](aboveaverage-object-excel.md)** object represent
 
 ## Remarks
 
-The  **AboveAverage** object is used to find values above or below an average or standard deviation in a range of cells. For example, you can find the above average performers in an annual performance review or you can locate manufactured materials that fall below two standard deviations in a quality rating.
+The **AboveAverage** object is used to find values above or below an average or standard deviation in a range of cells. For example, you can find the above average performers in an annual performance review or you can locate manufactured materials that fall below two standard deviations in a quality rating.
 
 
 ## See also

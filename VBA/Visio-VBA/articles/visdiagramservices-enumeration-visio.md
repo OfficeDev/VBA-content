@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisDiagramServices Enumeration (Visio)
 
-Specifies constants that represent diagram services. These constants are passed to and returned by the  **[Document.DiagramServicesEnabled](document-diagramservicesenabled-property-visio.md)** property.
+Specifies constants that represent diagram services. These constants are passed to and returned by the **[Document.DiagramServicesEnabled](document-diagramservicesenabled-property-visio.md)** property.
 
 Version Added: Visio 2010 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Split Method (Word)
 
-Inserts an empty paragraph immediately above the specified row in the table, and returns a  **Table** object that contains both the specified row and the rows that follow it.
+Inserts an empty paragraph immediately above the specified row in the table, and returns a **Table** object that contains both the specified row and the rows that follow it.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Inserts an empty paragraph immediately above the specified row in the table, and
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _BeforeRow_|Required| **Variant**|The row that the table is to be split before. Can be a row number or a  **Row** object.|
+| _BeforeRow_|Required| **Variant**|The row that the table is to be split before. Can be a row number or a **Row** object.|
 
 ### Return Value
 

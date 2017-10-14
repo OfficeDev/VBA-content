@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SetOption Method (Access)
 
-The  **SetOption** method sets the current value of an option in the **Access Options** dialog box.
+The **SetOption** method sets the current value of an option in the **Access Options** dialog box.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ The available option settings depend on the type of option being set. There are 
     
 - Predefined options that can be chosen from a list box, combo box, or option group.
     
-For options that the user sets by selecting or clearing a check box, using the  **SetOption** method, specify **True** or **False** for the setting argument, as in the following example:
+For options that the user sets by selecting or clearing a check box, using the **SetOption** method, specify **True** or **False** for the setting argument, as in the following example:
 
 
 
@@ -52,7 +52,7 @@ For options that the user sets by selecting or clearing a check box, using the  
 Application.SetOption "Show Status Bar", True
 ```
 
-To set a type of option using the  **SetOption** method, specify the string or numeric value that would be typed in the dialog box. The following example sets the default form template to OrderTemplate:
+To set a type of option using the **SetOption** method, specify the string or numeric value that would be typed in the dialog box. The following example sets the default form template to OrderTemplate:
 
 
 
@@ -61,7 +61,7 @@ To set a type of option using the  **SetOption** method, specify the string or n
 Application.SetOption "Form Template", "OrderTemplate"
 ```
 
-For options with settings that are choices in list boxes or combo boxes, specify the option's numeric position within the list as the setting argument for the  **SetOption** method. The following example sets the **Default Field Type** option to AutoNumber:
+For options with settings that are choices in list boxes or combo boxes, specify the option's numeric position within the list as the setting argument for the **SetOption** method. The following example sets the **Default Field Type** option to AutoNumber:
 
 
 
@@ -70,7 +70,7 @@ For options with settings that are choices in list boxes or combo boxes, specify
 Application.SetOption "Default Field Type", 5
 ```
 
-To set an option that's a member of an option group, specify the index number of the option within the group. The following example sets  **Selection Behavior** to Fully Enclosed:
+To set an option that's a member of an option group, specify the index number of the option within the group. The following example sets **Selection Behavior** to Fully Enclosed:
 
 
 
@@ -81,7 +81,7 @@ Application.SetOption "Selection Behavior", 1
 
 |**Note**|
 |:-----|
-|When you quit Microsoft Access, you can reset all options to their original settings by using the  **SetOption** method on all changed options. You may want to create public variables to store the values of the original settings. You might include code to reset options in the Close event procedure for a form, or in a custom exit procedure that the user must run to quit the application.|
+|When you quit Microsoft Access, you can reset all options to their original settings by using the **SetOption** method on all changed options. You may want to create public variables to store the values of the original settings. You might include code to reset options in the Close event procedure for a form, or in a custom exit procedure that the user must run to quit the application.|
   
 ## See also
 

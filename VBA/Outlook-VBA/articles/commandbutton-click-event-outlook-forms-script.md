@@ -15,30 +15,30 @@ Occurs when the user clicks inside the control.
 
  _expression_. **Click**
 
- _expression_A variable that represents a  **CommandButton** object.
+ _expression_A variable that represents a **CommandButton** object.
 
 
 ## Remarks
 
-The following are examples of actions that initiate the  **Click** event of the specified control:
+The following are examples of actions that initiate the **Click** event of the specified control:
 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
     
-- Clicking a  **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
+- Clicking a **[CommandButton](commandbutton-object-outlook-forms-script.md)**.
     
-- Pressing the  **SPACEBAR** when a **CommandButton** has the focus.
+- Pressing the **SPACEBAR** when a **CommandButton** has the focus.
     
 - Clicking a control with the left mouse button (left-clicking).
     
-- Pressing  **ENTER** on a form that has a command button whose **Default** property is set to **True**, as long as no other command button has the focus.
+- Pressing **ENTER** on a form that has a command button whose **Default** property is set to **True**, as long as no other command button has the focus.
     
-- Pressing  **ESC** on a form that has a command button whose **Cancel** property is set to **True**, as long as no other command button has the focus.
+- Pressing **ESC** on a form that has a command button whose **Cancel** property is set to **True**, as long as no other command button has the focus.
     
 - Pressing a control's accelerator key.
     
 
 
-Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
+Left-clicking changes the value of a control, thus it initiates the **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
 

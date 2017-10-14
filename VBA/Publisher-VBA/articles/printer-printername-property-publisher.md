@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.PrinterName Property (Publisher)
 
-Gets the name of the printer represented by the parent  **Printer** object. Read-only.
+Gets the name of the printer represented by the parent **Printer** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **PrinterName**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-You can also use the  **[InstalledPrinters](installedprinters-object-publisher.md)** property to get a list of the names of the printers installed on the computer.
+You can also use the **[InstalledPrinters](installedprinters-object-publisher.md)** property to get a list of the names of the printers installed on the computer.
 
 

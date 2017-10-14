@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.ZOrderPosition Property (Project)
-Gets the position of the shape range in the z-order. Read-only  **Long**.
+Gets the position of the shape range in the z-order. Read-only **Long**.
 
 ## Syntax
 
@@ -20,9 +20,9 @@ Gets the position of the shape range in the z-order. Read-only  **Long**.
 
 To set the shape position in the z-order, use the [ZOrder](shape-zorder-method-project.md) method.
 
-The position of a shape in the z-order corresponds to the index number of the shape in the  **Shapes** collection. For example, if there are four shapes in the `myReport` report object, the expression `myReport.Shapes(1)` returns the shape at the back of the z-order, and the expression `myReport.Shapes(4)` returns the shape at the front of the z-order.
+The position of a shape in the z-order corresponds to the index number of the shape in the **Shapes** collection. For example, if there are four shapes in the `myReport` report object, the expression `myReport.Shapes(1)` returns the shape at the back of the z-order, and the expression `myReport.Shapes(4)` returns the shape at the front of the z-order.
 
-When you add a shape to a  **Shapes** collection, the shape is added to the front of the z-order by default.
+When you add a shape to a **Shapes** collection, the shape is added to the front of the z-order by default.
 
 
 ## Property value

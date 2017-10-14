@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ActivePane Property (Project)
 
-Gets a  **[Pane](pane-object-project.md)** object that represents the active pane of a window. Read-only **Pane**.
+Gets a **[Pane](pane-object-project.md)** object that represents the active pane of a window. Read-only **Pane**.
 
 
 ## Syntax

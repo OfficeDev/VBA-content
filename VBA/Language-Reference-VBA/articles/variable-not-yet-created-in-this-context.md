@@ -15,7 +15,7 @@ A [variable](vbe-glossary.md) has to be created before it can be displayed in th
 
 
 
-- You tried to display the value of a local variable that you just entered in your code before executing at least a  **Single Step** command in[break mode](vbe-glossary.md).
+- You tried to display the value of a local variable that you just entered in your code before executing at least a **Single Step** command in[break mode](vbe-glossary.md).
     
     Step into the code to force compilation of the new statement.
     

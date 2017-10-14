@@ -11,6 +11,6 @@ ms.date: 06/08/2017
 
 # Start the Visual Basic Editor (Visio)
 
-In the  **Code** group on the [Developer](run-visio-in-developer-mode.md) tab, click **Visual Basic**. Or press ALT+F11.
+In the **Code** group on the [Developer](run-visio-in-developer-mode.md) tab, click **Visual Basic**. Or press ALT+F11.
 
 

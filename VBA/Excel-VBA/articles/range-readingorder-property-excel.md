@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ReadingOrder Property (Excel)
 
-Returns or sets the reading order for the specified object. Can be one of the following constants:  **xlRTL** (right-to-left), **xlLTR** (left-to-right), or **xlContext** . Read/write **Long** .
+Returns or sets the reading order for the specified object. Can be one of the following constants: **xlRTL** (right-to-left), **xlLTR** (left-to-right), or **xlContext** . Read/write **Long** .
 
 
 ## Syntax

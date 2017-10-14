@@ -30,6 +30,6 @@ Displays a MAPI-compliant address book from which the user can select resources 
 
 ## Remarks
 
-The  **ResourceAddressBook** method is available only in resource views. If no e-mail profile is available, Project displays a message that explains how to create a profile.
+The **ResourceAddressBook** method is available only in resource views. If no e-mail profile is available, Project displays a message that explains how to create a profile.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoAppLanguageID Enumeration (Office)
 
-Specifies a language setting in a Microsoft Office application. The  **msoAppLanguageID** enumeration is used with the **LanguageSettings** member of the **Application** object to determine the language used for the install language, the user interface language, or the Help language.
+Specifies a language setting in a Microsoft Office application. The **msoAppLanguageID** enumeration is used with the **LanguageSettings** member of the **Application** object to determine the language used for the install language, the user interface language, or the Help language.
 
 
 

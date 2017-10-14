@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NavigationControl.LineSpacing Property (Access)
 
-You can use the  **LineSpacing** property to specify or determine the location of information displayed within a label or text box control. Read/write **Integer**.
+You can use the **LineSpacing** property to specify or determine the location of information displayed within a label or text box control. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ You can use the  **LineSpacing** property to specify or determine the location o
 
 ## Remarks
 
-A control's displayed information location is the distance measured between each line of the displayed information. To use a unit of measurement different from the setting in the  **Regional Options** dialog box in **Windows Control Panel**, specify the unit, such as cm or in (for example, 3 cm or 2 in).
+A control's displayed information location is the distance measured between each line of the displayed information. To use a unit of measurement different from the setting in the **Regional Options** dialog box in **Windows Control Panel**, specify the unit, such as cm or in (for example, 3 cm or 2 in).
 
 In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in twips.
 

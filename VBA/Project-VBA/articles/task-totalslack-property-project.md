@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.TotalSlack Property (Project)
 
-Gets the total slack time for a task in minutes. Read-only  **Variant**.
+Gets the total slack time for a task in minutes. Read-only **Variant**.
 
 
 ## Syntax

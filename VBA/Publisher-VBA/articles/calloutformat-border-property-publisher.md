@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Border Property (Publisher)
 
-Returns or sets an  **MsoTriState**constant indicating whether the text in the specified callout is surrounded by a border. Read/write.
+Returns or sets an **MsoTriState**constant indicating whether the text in the specified callout is surrounded by a border. Read/write.
 
 
 ## Syntax
 
  _expression_. **Border**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **Border** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **Border** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

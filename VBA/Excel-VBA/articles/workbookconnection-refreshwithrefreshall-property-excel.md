@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.RefreshWithRefreshAll Property (Excel)
 
-Determines if the connection should be refreshed when refresh all is executed.  **Boolean** . Read/Write
+Determines if the connection should be refreshed when refresh all is executed. **Boolean** . Read/Write
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Determines if the connection should be refreshed when refresh all is executed.  
 
 ## Remarks
 
-If  **TRUE** is returned then the connection is refreshed. If **FALSE** is returned then the connection will not be refreshed. The default value is **TRUE** .
+If **TRUE** is returned then the connection is refreshed. If **FALSE** is returned then the connection will not be refreshed. The default value is **TRUE** .
 
 
 ## Property value

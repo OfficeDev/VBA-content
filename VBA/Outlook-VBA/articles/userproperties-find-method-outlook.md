@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperties.Find Method (Outlook)
 
-Locates and returns a  **[UserProperty](userproperty-object-outlook.md)** object for the requested property name, if it exists.
+Locates and returns a **[UserProperty](userproperty-object-outlook.md)** object for the requested property name, if it exists.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Locates and returns a  **[UserProperty](userproperty-object-outlook.md)** object
 
 ### Return Value
 
-If you use  **UserProperties.Find** to look for a custom property and the call succeeds, it will return a **UserProperty** object. If it fails, it will return **Null** ( **Nothing** in Visual Basic). If you use **UserProperties.Find** to look for a built-in property, specify **False** for the _Custom_ parameter. If the call succeeds, it will return the property as a **UserProperty** object. If the call fails, it will return **Null** ( **Nothing** in Visual Basic). If you specify **True** for _Custom_ , the call will not find the built-in property and will return **Null** ( **Nothing** in Visual Basic).
+If you use **UserProperties.Find** to look for a custom property and the call succeeds, it will return a **UserProperty** object. If it fails, it will return **Null** ( **Nothing** in Visual Basic). If you use **UserProperties.Find** to look for a built-in property, specify **False** for the _Custom_ parameter. If the call succeeds, it will return the property as a **UserProperty** object. If the call fails, it will return **Null** ( **Nothing** in Visual Basic). If you specify **True** for _Custom_ , the call will not find the built-in property and will return **Null** ( **Nothing** in Visual Basic).
 
 
 ## Remarks

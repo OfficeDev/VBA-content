@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SmartArtNodes.Add Method (Office)
 
-Adds a new  **SmartArtNode** object to the diagram with specified text.
+Adds a new **SmartArtNode** object to the diagram with specified text.
 
 
 ## Syntax

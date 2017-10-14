@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ShowPageMultipleItemLabel Property (Excel)
 
-When set to  **True** (default), "(Multiple Items)" will appear in the PivotTable cell on the worksheet whenever items are hidden and an aggregate of non-hidden items is shown in the PivotTable view. Read/write **Boolean** .
+When set to **True** (default), "(Multiple Items)" will appear in the PivotTable cell on the worksheet whenever items are hidden and an aggregate of non-hidden items is shown in the PivotTable view. Read/write **Boolean** .
 
 
 ## Syntax

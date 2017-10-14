@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.Restore Method (Access)
 
-The  **Restore** method carries out the Restore action in Visual Basic.
+The **Restore** method carries out the Restore action in Visual Basic.
 
 
 ## Syntax
@@ -25,10 +25,10 @@ The  **Restore** method carries out the Restore action in Visual Basic.
 
 ## Remarks
 
-You can use the  **Restore** method to restore a maximized or minimized window to its previous size.
+You can use the **Restore** method to restore a maximized or minimized window to its previous size.
 
 
- **Note**  This method cannot be applied to module windows in the Visual Basic Editor (VBE). For information about how to affect module windows see the  **WindowState** property topic.
+ **Note**  This method cannot be applied to module windows in the Visual Basic Editor (VBE). For information about how to affect module windows see the **WindowState** property topic.
 
 
 ## See also

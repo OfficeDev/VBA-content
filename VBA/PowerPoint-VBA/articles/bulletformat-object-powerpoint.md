@@ -18,7 +18,7 @@ Represents bullet formatting.
 
 ## Example
 
-Use the [Bullet](http://msdn.microsoft.com/library/2b997a78-7791-6f08-00af-7143f94457c1%28Office.15%29.aspx)property to return the  **BulletFormat** object. The following example sets the bullet size and color for the paragraphs in shape two on slide one in the active presentation.
+Use the [Bullet](http://msdn.microsoft.com/library/2b997a78-7791-6f08-00af-7143f94457c1%28Office.15%29.aspx)property to return the **BulletFormat** object. The following example sets the bullet size and color for the paragraphs in shape two on slide one in the active presentation.
 
 
 ```

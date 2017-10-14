@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleAction.Enabled Property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the **[RuleAction](ruleaction-object-outlook.md)** is enabled. Read/write.
+Returns or sets a **Boolean** that determines if the **[RuleAction](ruleaction-object-outlook.md)** is enabled. Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **Boolean** that determines if the **[RuleAction](ruleaction-
 
 ## Remarks
 
-After you enable a rule action, you must also save the rule by using  **[Rules.Save](rules-save-method-outlook.md)** so that the rule action and its enabled state will persist beyond the current session. A rule action is only enabled after it has been saved successfully.
+After you enable a rule action, you must also save the rule by using **[Rules.Save](rules-save-method-outlook.md)** so that the rule action and its enabled state will persist beyond the current session. A rule action is only enabled after it has been saved successfully.
 
-Returns an error if you attempt to enable a rule action that is supported only on a rule of type  **olRuleSend** for a rule of type **olRuleReceive** , or vice versa.
+Returns an error if you attempt to enable a rule action that is supported only on a rule of type **olRuleSend** for a rule of type **olRuleReceive** , or vice versa.
 
 
 ## See also
