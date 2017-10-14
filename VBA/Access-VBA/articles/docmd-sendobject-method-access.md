@@ -37,7 +37,7 @@ The  **SendObject** method carries out the **SendObject** action in Visual Basic
 | _Bcc_|Optional|**Variant**|A string expression that lists the recipients whose names you want to put on the  **Bcc** line in the mail message. If you leave this argument blank, the **Bcc** line in the mail message is blank.|
 | _Subject_|Optional|**Variant**|A string expression containing the text you want to put on the  **Subject** line in the mail message. If you leave this argument blank, the **Subject** line in the mail message is blank.|
 | _MessageText_|Optional|**Variant**|A string expression containing the text you want to include in the body of the mail message, after the object. If you leave this argument blank, the object is all that's included in the body of the mail message.|
-| _EditMessage_|Optional|**Variant**|Use  **True** (?1) to open the electronic mail application immediately with the message loaded, so the message can be edited. Use **False** (0) to send the message without editing it. If you leave this argument blank, the default ( **True** ) is assumed.|
+| _EditMessage_|Optional|**Variant**|Use  **True** (-1) to open the electronic mail application immediately with the message loaded, so the message can be edited. Use **False** (0) to send the message without editing it. If you leave this argument blank, the default ( **True** ) is assumed.|
 | _TemplateFile_|Optional|**Variant**|A string expression that's the full name, including the path, of the file you want to use as a template for an HTML file.|
 
 ## Remarks

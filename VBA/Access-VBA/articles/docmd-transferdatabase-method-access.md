@@ -35,7 +35,7 @@ The  **TransferDatabase** method carries out the TransferDatabase action in Visu
 | _ObjectType_|Optional|**[AcObjectType](acobjecttype-enumeration-access.md)**|The type of object to import or export.|
 | _Source_|Optional|**Variant**|A string expression that's the name of the object whose data you want to import, export, or link.|
 | _Destination_|Optional|**Variant**|A string expression that's the name of the imported, exported, or linked object in the destination database.|
-| _StructureOnly_|Optional|**Variant**|Use  **True** (?1) to import or export only the structure of a database table. Use **False** (0) to import or export the structure of the table and its data. If you leave this argument blank, the default ( **False** ) is assumed.|
+| _StructureOnly_|Optional|**Variant**|Use  **True** (-1) to import or export only the structure of a database table. Use **False** (0) to import or export the structure of the table and its data. If you leave this argument blank, the default ( **False** ) is assumed.|
 | _StoreLogin_|Optional|**Variant**|Use  **True** to store the login identification (ID) and password for an ODBC database in the connection string for a linked table from the database. If you do this, you don't have to log in each time you open the table. Use **False** if you don't want to store the login ID and password. If you leave this argument blank, the default ( **False** ) is assumed. This argument is available only in Visual Basic.|
 
 ## Remarks

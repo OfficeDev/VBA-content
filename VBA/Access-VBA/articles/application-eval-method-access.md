@@ -87,7 +87,7 @@ MsgBox ("The current value of " & ctl.Name & " is " & Eval(strCtl))
 
 You can use the  **Eval** function to access expression operators that aren't ordinarily available in Visual Basic. For example, you can't use the SQL operators **Between...And** or **In** directly in your code, but you can use them in an expression passed to the **Eval** function.
 
-The next example determines whether the value of a ShipRegion control on an Orders form is one of several specified state abbreviations. If the field contains one of the abbreviations,  `intState` will be **True** (?1). Note that you use single quotation marks (') to include a string within another string.
+The next example determines whether the value of a ShipRegion control on an Orders form is one of several specified state abbreviations. If the field contains one of the abbreviations,  `intState` will be **True** (-1). Note that you use single quotation marks (') to include a string within another string.
 
 
 

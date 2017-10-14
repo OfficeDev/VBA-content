@@ -29,7 +29,7 @@ The  **Dirty** event occurs when the content of the specified control changes.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **Dirty** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **Dirty** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **Dirty** event occurs. Setting the _Cancel_ argument to **True** (-1) cancels the **Dirty** event.|
 
 ## Remarks
 

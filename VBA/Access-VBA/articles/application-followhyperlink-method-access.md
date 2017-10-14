@@ -31,7 +31,7 @@ The  **FollowHyperlink** method opens the document or Web page specified by a hy
 |:-----|:-----|:-----|:-----|
 | _Address_|Required|**String**|A string expression that evaluates to a valid hyperlink address.|
 | _SubAddress_|Optional|**String**| A string expression that evaluates to a named location in the document specified by the _address_ argument. The default is a zero-length string (" ").|
-| _NewWindow_|Optional|**Boolean**|A  **Boolean** value where **True** (?1) opens the document in a new window and **False** (0) opens the document in the current window. The default is **False**.|
+| _NewWindow_|Optional|**Boolean**|A  **Boolean** value where **True** (-1) opens the document in a new window and **False** (0) opens the document in the current window. The default is **False**.|
 | _AddHistory_|Optional|**Boolean**|A  **Boolean** value where **True** adds the hyperlink to the History folder and **False** doesn't add the hyperlink to the History folder. The default is **True**.|
 | _ExtraInfo_|Optional|**Variant**|A string or an array of  **Byte** data that specifies additional information for navigating to a hyperlink. For example, this argument may be used to specify a search parameter for an .asp or .idc file. In your Web browser, the _extrainfo_ argument may appear after the hyperlink address, separated from the address by a question mark (?). You don't need to include the question mark when you specify the _extrainfo_ argument.|
 | _Method_|Optional|**MsoExtraInfoMethod**|A  **[MsoExtraInfoMethod](http://msdn.microsoft.com/library/eb8edb9c-2a9a-62b5-f592-e40a2325a555%28Office.15%29.aspx)** constant that specifies how the _extrainfo_ argument is attached.|

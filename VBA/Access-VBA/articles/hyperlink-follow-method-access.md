@@ -29,7 +29,7 @@ The  **Follow** method opens the document or Web page specified by a hyperlink a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _NewWindow_|Optional|**Boolean**|**True** (?1) opens the document in a new window and **False** (0) opens the document in the current window. The default is **False**.|
+| _NewWindow_|Optional|**Boolean**|**True** (-1) opens the document in a new window and **False** (0) opens the document in the current window. The default is **False**.|
 | _AddHistory_|Optional|**Boolean**|**True** adds the hyperlink to the History folder and **False** doesn't add the hyperlink to the History folder. The default is **True**.|
 | _ExtraInfo_|Optional|**Variant**|A string or an array of Byte data that specifies additional information for navigating to a hyperlink. For example, this argument may be used to specify a search parameter for an .ASP or .IDC file. In your Web browser, the  _extrainfo_ argument may appear after the hyperlink address, separated from the address by a question mark (?). You don't need to include the question mark when you specify the _extrainfo_ argument.|
 | _Method_|Optional|**MsoExtraInfoMethod**|A  **[MsoExtraInfoMethod](http://msdn.microsoft.com/library/eb8edb9c-2a9a-62b5-f592-e40a2325a555%28Office.15%29.aspx)** constant that specifies how the _extrainfo_ argument is attached. The default is **msoMethodGet**.|

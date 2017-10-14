@@ -29,7 +29,7 @@ Occurs when the user opens a filter window by clicking  **Advanced Filter/Sort**
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines whether to open the filter window. Setting the  _Cancel_ argument to **True** (?1) prevents the filter window from opening. You can also use the **CancelEvent** method of the **DoCmd** object to cancel opening the filter window.|
+| _Cancel_|Required|**Integer**|The setting determines whether to open the filter window. Setting the  _Cancel_ argument to **True** (-1) prevents the filter window from opening. You can also use the **CancelEvent** method of the **DoCmd** object to cancel opening the filter window.|
 | _FilterType_|Required|**Integer**|The filter window the user is trying to open. The  _FilterType_ argument can be **acFilterAdvanced**.|
 
 ## Remarks
@@ -43,7 +43,7 @@ You can use the  **Filter** event to:
     
 - Enter default settings for the new filter. To do this, set the  **Filter** property or **ServerFilter** property to include these criteria. For example, you may want all filters for a Products report to display only current products (products for which the Discontinued control in the Products report is not selected).
     
-- Use your own custom filter window instead of one of the Microsoft Access filter windows. When the  **Filter** event occurs, you can open your own custom form and use the entries on this report to set the **Filter** property or **ServerFilter** property and filter the original report. When the user closes this custom form, set the **FilterOn** property or **ServerFilterByForm** property of the original report to **True** (?1) to apply the filter. Canceling the **Filter** event prevents the Microsoft Access filter window from opening.
+- Use your own custom filter window instead of one of the Microsoft Access filter windows. When the  **Filter** event occurs, you can open your own custom form and use the entries on this report to set the **Filter** property or **ServerFilter** property and filter the original report. When the user closes this custom form, set the **FilterOn** property or **ServerFilterByForm** property of the original report to **True** (-1) to apply the filter. Canceling the **Filter** event prevents the Microsoft Access filter window from opening.
     
 
 ## See also

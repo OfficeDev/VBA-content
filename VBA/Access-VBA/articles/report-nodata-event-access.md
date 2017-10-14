@@ -29,7 +29,7 @@ The  **NoData** event occurs after Microsoft Access formats a report for printin
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines whether to print the report. Setting the  _Cancel_ argument to **True** (?1) prevents the report from printing. You can also use the **CancelEvent** method of the **DoCmd** object to cancel printing the report.|
+| _Cancel_|Required|**Integer**|The setting determines whether to print the report. Setting the  _Cancel_ argument to **True** (-1) prevents the report from printing. You can also use the **CancelEvent** method of the **DoCmd** object to cancel printing the report.|
 
 ## Remarks
 

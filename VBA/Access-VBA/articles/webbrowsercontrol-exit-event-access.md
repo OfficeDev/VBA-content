@@ -86,7 +86,7 @@ If the control you move to on the subform previously had the focus, neither its 
 
 ## Example
 
-In the following example, two event procedures are attached to the LastName text box. The  **Enter** event procedure displays a message specifying what type of data the user can enter in the text box. The **Exit** event procedure displays a dialog box asking the user if changes should be saved before the focus moves to another control. If the user clicks the Cancel button, the _Cancel_ argument is set to **True** (?1), which moves the focus to the text box without saving changes. If the user chooses the OK button, the changes are saved, and the focus moves to another control.
+In the following example, two event procedures are attached to the LastName text box. The  **Enter** event procedure displays a message specifying what type of data the user can enter in the text box. The **Exit** event procedure displays a dialog box asking the user if changes should be saved before the focus moves to another control. If the user clicks the Cancel button, the _Cancel_ argument is set to **True** (-1), which moves the focus to the text box without saving changes. If the user chooses the OK button, the changes are saved, and the focus moves to another control.
 
 To try the example, add the following event procedure to a form that contains a text box named LastName.
 

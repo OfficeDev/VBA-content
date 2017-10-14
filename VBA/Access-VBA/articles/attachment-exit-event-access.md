@@ -29,7 +29,7 @@ The  **Exit** event occurs just before a control loses the focus to another cont
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **Exit** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **Exit** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **Exit** event occurs. Setting the _Cancel_ argument to **True** (-1) cancels the **Exit** event.|
 
 ### Return Value
 

@@ -29,7 +29,7 @@ The  **DblClick** event occurs when the user presses and releases the left mouse
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **DblClick** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **DblClick** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **DblClick** event occurs. Setting the _Cancel_ argument to **True** (-1) cancels the **DblClick** event.|
 
 ## Remarks
 
