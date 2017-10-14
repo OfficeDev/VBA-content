@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # CategoryCollection.Count Property (PowerPoint)
 
-Returns a  **Long** that represents the number of categories in the collection. Read-only.
+Returns a **Long** that represents the number of categories in the collection. Read-only.
 
 
 ## Syntax

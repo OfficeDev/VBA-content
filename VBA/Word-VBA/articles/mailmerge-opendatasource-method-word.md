@@ -30,25 +30,25 @@ Attaches a data source to the specified document, which becomes a main document 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The data source file name. You can specify a Microsoft Query (.qry) file instead of specifying a data source, a connection string, and a query string.|
-| _Format_|Optional| **Variant**|The file converter used to open the document. Can be one of the  **WdOpenFormat** constants. To specify an external file format, use the **OpenFormat** property with the **FileConverter** object to determine the value to use with this argument.|
+| _Format_|Optional| **Variant**|The file converter used to open the document. Can be one of the **WdOpenFormat** constants. To specify an external file format, use the **OpenFormat** property with the **FileConverter** object to determine the value to use with this argument.|
 | _ConfirmConversions_|Optional| **Variant**| **True** to display the **Convert File** dialog box if the file is not in Microsoft Word format.|
 | _ReadOnly_|Optional| **Variant**| **True** to open the data source on a read-only basis.|
 | _LinkToSource_|Optional| **Variant**| **True** to perform the query specified by Connection and SQLStatement each time the main document is opened.|
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the **File** menu.|
 | _PasswordDocument_|Optional| **Variant**|The password used to open the data source. (See Remarks below.)|
 | _PasswordTemplate_|Optional| **Variant**|The password used to open the template. (See Remarks below.)|
-| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document.  **True** to discard any unsaved changes to the open document and reopen the file; **False** to activate the open document.|
+| _Revert_|Optional| **Variant**|Controls what happens if Name is the file name of an open document. **True** to discard any unsaved changes to the open document and reopen the file; **False** to activate the open document.|
 | _WritePasswordDocument_|Optional| **Variant**|The password used to save changes to the document. (See Remarks below.)|
 | _WritePasswordTemplate_|Optional| **Variant**|The password used to save changes to the template. (See Remarks below.)|
 | _Connection_|Optional| **Variant**|A range within which the query specified by SQLStatement is to be performed. (See Remarks below.) |
 | _SQLStatement_|Optional| **Variant**|Defines query options for retrieving data. (See Remarks below.)|
 | _SQLStatement1_|Optional| **Variant**|If the query string is longer than 255 characters, SQLStatement specifies the first portion of the string, and SQLStatement1 specifies the second portion. (See Remarks below.)|
 | _OpenExclusive_|Optional| **Variant**| **True** to open exclusively.|
-| _SubType_|Optional| **Variant**|Can be one of the  **WdMergeSubType** constants.|
+| _SubType_|Optional| **Variant**|Can be one of the **WdMergeSubType** constants.|
 
 ## Remarks
 
-To determine the ODBC connection and query strings, set query options manually and use the  **QueryString** property to return the connection string. The following table includes some commonly used SQL keywords.
+To determine the ODBC connection and query strings, set query options manually and use the **QueryString** property to return the connection string. The following table includes some commonly used SQL keywords.
 
 
 

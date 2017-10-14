@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkListBox.GetSelected Method (Outlook)
 
-Returns a  **Boolean** that indicates if the indexed item is currently selected.
+Returns a **Boolean** that indicates if the indexed item is currently selected.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **Boolean** that indicates if the indexed item is currently selected.
 
 ### Return Value
 
-A  **Boolean** value that is **True** if the specified item is currently selected, **False** otherwise.
+A **Boolean** value that is **True** if the specified item is currently selected, **False** otherwise.
 
 
 ## Remarks

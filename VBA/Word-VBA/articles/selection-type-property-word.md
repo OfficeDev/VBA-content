@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Type Property (Word)
 
-Returns the selection type. Read-only  **[WdSelectionType](wdselectiontype-enumeration-word.md)** .
+Returns the selection type. Read-only **[WdSelectionType](wdselectiontype-enumeration-word.md)** .
 
 
 ## Syntax

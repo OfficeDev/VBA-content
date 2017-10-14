@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Words Property (Word)
 
-Returns a  **[Words](words-object-word.md)** collection that represents all the words in a selection. Read-only.
+Returns a **[Words](words-object-word.md)** collection that represents all the words in a selection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Words](words-object-word.md)** collection that represents all the 
 
 ## Remarks
 
-Punctuation and paragraph marks in a document are included in the  **[Words](words-object-word.md)** collection. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+Punctuation and paragraph marks in a document are included in the **[Words](words-object-word.md)** collection. For information about returning a single member of a collection, see[Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.BookFoldPrintingSheets Property (Word)
 
-Returns or sets a  **Long** which represents the number of pages for each booklet. Read/write **Boolean** .
+Returns or sets a **Long** which represents the number of pages for each booklet. Read/write **Boolean** .
 
 
 ## Syntax

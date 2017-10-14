@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.CanCheckIn Method (PowerPoint)
 
-Returns  **True** if Microsoft PowerPoint can check in a specified presentation to a server.
+Returns **True** if Microsoft PowerPoint can check in a specified presentation to a server.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.StartDriver Property (Project)
 
-Gets the  **[StartDriver](startdriver-object-project.md)** object for the task. Read-only **StartDriver**.
+Gets the **[StartDriver](startdriver-object-project.md)** object for the task. Read-only **StartDriver**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.SourcePath Property (PowerPoint)
 
-Returns the source path of the current  **ProtectedViewWindow** object. Read-only.
+Returns the source path of the current **ProtectedViewWindow** object. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpFixedFormatType Enumeration (PowerPoint)
 
-Constants that specify the type of fixed-format file to export, passed to the  **ExportAsFixedFormat** method of the **Presentation** object.
+Constants that specify the type of fixed-format file to export, passed to the **ExportAsFixedFormat** method of the **Presentation** object.
 
 
 

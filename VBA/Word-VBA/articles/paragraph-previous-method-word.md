@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.Previous Method (Word)
 
-Returns the previous paragraph as a  **Paragraph** object.
+Returns the previous paragraph as a **Paragraph** object.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Setting the  **Company** property is equivalent to entering information in the **Company** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**).
+Setting the **Company** property is equivalent to entering information in the **Company** box in the **Properties** dialog box (click the **File** tab, click **Info**, click **Properties**, and then click **Advanced Properties**).
 
 
  **Security Note**  
@@ -40,9 +40,9 @@ Setting the  **Company** property is equivalent to entering information in the *
 
 ## Example
 
-This Microsoft Visual Basic macro shows how to use the  **Company** property to document the company for which the drawing is made. It adds a **Document** object to the **Documents** collection and sets the **Document** object's **Company** property as well as other properties.
+This Microsoft Visual Basic macro shows how to use the **Company** property to document the company for which the drawing is made. It adds a **Document** object to the **Documents** collection and sets the **Document** object's **Company** property as well as other properties.
 
-Before running this macro, substitute your own values for the items in italic in the following code. To verify that these properties have been set, open the  **Properties** dialog box.
+Before running this macro, substitute your own values for the items in italic in the following code. To verify that these properties have been set, open the **Properties** dialog box.
 
 
 

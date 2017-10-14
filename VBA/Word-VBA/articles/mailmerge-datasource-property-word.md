@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.DataSource Property (Word)
 
-Returns a  **[MailMergeDataSource](mailmergedatasource-object-word.md)** object that refers to the data source attached to a mail merge main document. Read-only.
+Returns a **[MailMergeDataSource](mailmergedatasource-object-word.md)** object that refers to the data source attached to a mail merge main document. Read-only.
 
 
 ## Syntax

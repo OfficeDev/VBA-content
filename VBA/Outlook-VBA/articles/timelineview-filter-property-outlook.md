@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.Filter Property (Outlook)
 
-Returns or sets a  **String** value that represents the filter for a view. Read/write.
+Returns or sets a **String** value that represents the filter for a view. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The value of this property is a string, in DAV Searching and Locating (DASL) syn
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example obtains a  **[View](view-object-outlook.md)** object by using the **[CurrentView](explorer-currentview-property-outlook.md)** property of the **[Explorer](explorer-object-outlook.md)** object, then sets the **[Filter](view-filter-property-outlook.md)** property of the **View** object to display only those Outlook items that were received last week.
+The following Visual Basic for Applications (VBA) example obtains a **[View](view-object-outlook.md)** object by using the **[CurrentView](explorer-currentview-property-outlook.md)** property of the **[Explorer](explorer-object-outlook.md)** object, then sets the **[Filter](view-filter-property-outlook.md)** property of the **View** object to display only those Outlook items that were received last week.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LegendEntries Object (Word)
 
-A collection of all the  **[LegendEntry](legendentry-object-word.md)** objects in the specified chart legend.
+A collection of all the **[LegendEntry](legendentry-object-word.md)** objects in the specified chart legend.
 
 
 ## Remarks
@@ -26,12 +26,12 @@ A collection of all the  **[LegendEntry](legendentry-object-word.md)** objects i
     
 
 
-The formatting properties for the entry marker and its associated series or trendline are contained in the  **[LegendKey](legendkey-object-word.md)** object.
+The formatting properties for the entry marker and its associated series or trendline are contained in the **[LegendKey](legendkey-object-word.md)** object.
 
 
 ## Example
 
-Use the  **[LegendEntries](legend-legendentries-method-word.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries for the first chart in the active document and changes their font color.
+Use the **[LegendEntries](legend-legendentries-method-word.md)** method to return the **LegendEntries** collection. The following example loops through the collection of legend entries for the first chart in the active document and changes their font color.
 
 
 ```vb
@@ -47,7 +47,7 @@ End With
 
 ```
 
-Use  **[LegendEntries](legend-legendentries-method-word.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use **[LegendEntries](legend-legendentries-method-word.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend; `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font style for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document to italic.
 

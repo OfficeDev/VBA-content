@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MovedSelectionEvent.SelectionTarget Property (Visio)
 
-Returns a  **[Selection](selection-object-visio.md)** object that represents the set of selected shapes after they are moved to a new sub-process page. Read-only.
+Returns a **[Selection](selection-object-visio.md)** object that represents the set of selected shapes after they are moved to a new sub-process page. Read-only.
 
 
 ## Syntax

@@ -33,7 +33,7 @@ Sets the specified fill to a preset texture.
 
 ## Remarks
 
-The value of the PresetTexturedargument can be one of these  **MsoPresetTexture** constants.
+The value of the PresetTexturedargument can be one of these **MsoPresetTexture** constants.
 
 
 ||

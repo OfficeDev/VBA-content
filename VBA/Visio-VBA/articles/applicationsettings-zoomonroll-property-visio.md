@@ -30,6 +30,6 @@ Determines whether zooming in to and out from a Microsoft Visio drawing by rolli
 
 ## Remarks
 
-Setting the  **ZoomOnRoll** property is equivalent to setting the **Zoom on roll with Intellimouse** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **ZoomOnRoll** property is equivalent to setting the **Zoom on roll with Intellimouse** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ViewSingle Object (Project)
 
-Represents a single-pane view in Project. The  **ViewSingle** object is a member of the **[ViewsSingle](http://msdn.microsoft.com/library/bd6f698b-780f-294a-037b-45c63b9a1c23%28Office.15%29.aspx)** collection.
+Represents a single-pane view in Project. The **ViewSingle** object is a member of the **[ViewsSingle](http://msdn.microsoft.com/library/bd6f698b-780f-294a-037b-45c63b9a1c23%28Office.15%29.aspx)** collection.
 
 
 ## Methods

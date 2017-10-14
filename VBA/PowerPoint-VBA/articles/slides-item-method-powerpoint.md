@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slides.Item Method (PowerPoint)
 
-Returns a single  **Slide** object from the specified **Slides** collection.
+Returns a single **Slide** object from the specified **Slides** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Slide** object from the specified **Slides** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Slide** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Slide** object in the collection to be returned.|
 
 ### Return Value
 

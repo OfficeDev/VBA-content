@@ -20,6 +20,6 @@ Gets or sets a string that represents the category for the building block. Read/
 
  _expression_. **Category**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_A variable that represents a **BuildingBlock** object.
 
 

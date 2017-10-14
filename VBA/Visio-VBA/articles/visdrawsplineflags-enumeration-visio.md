@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDrawSplineFlags Enumeration (Visio)
 
-Flags to pass to the  **DrawSpline** and **DrawPolyline** methods.
+Flags to pass to the **DrawSpline** and **DrawPolyline** methods.
 
 
 

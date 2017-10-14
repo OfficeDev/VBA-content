@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-If the specified view contains a custom show, the  **CurrentShowPosition** property returns the position of the current slide within the custom show, not the position of the current slide within the entire presentation.
+If the specified view contains a custom show, the **CurrentShowPosition** property returns the position of the current slide within the custom show, not the position of the current slide within the entire presentation.
 
 
 ## Example

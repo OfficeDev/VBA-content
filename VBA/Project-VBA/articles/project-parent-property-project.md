@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Parent Property (Project)
 
-Gets the parent of the  **Project** object. Read-only **Object**.
+Gets the parent of the **Project** object. Read-only **Object**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the parent of the  **Project** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of a  **Project** object can be the **Application** or a **Subproject**.
+The parent of a **Project** object can be the **Application** or a **Subproject**.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # PbLigaturePresetType Enumeration (Publisher)
 
-Constants passed to and returned by the  ** [Font.Ligature](font-ligature-property-publisher.md)** property, specifying the state of the **Ligature** property on the characters in a text range.
+Constants passed to and returned by the ** [Font.Ligature](font-ligature-property-publisher.md)** property, specifying the state of the **Ligature** property on the characters in a text range.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.BackWall Property (Word)
 
-Returns an object that allows the user to individually format the back wall of a 3-D chart. Read-only  **[Walls](walls-object-word.md)** .
+Returns an object that allows the user to individually format the back wall of a 3-D chart. Read-only **[Walls](walls-object-word.md)** .
 
 
 ## Syntax

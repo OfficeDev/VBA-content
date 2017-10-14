@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **InvalidAddress**
 
- _expression_A variable that represents an  **MailMergeDataSource** object.
+ _expression_A variable that represents an **MailMergeDataSource** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-Use the  **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** method to set both the **InvalidAddress** and **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** properties for all records in a data source.
+Use the **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** method to set both the **InvalidAddress** and **[InvalidComments](mailmergedatasource-invalidcomments-property-publisher.md)** properties for all records in a data source.
 
 
 ## Example

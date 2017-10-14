@@ -15,11 +15,11 @@ Creates and displays a new distribution list.
 
  _expression_. **NewDistributionList**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
 
-When the new distribution list is saved, it is saved to the  **Contacts**folder, if any, that is displayed in the control. If there is no  **Contacts** folder displayed in the control, the distribution list is saved to the user's default **Contacts** folder.
+When the new distribution list is saved, it is saved to the **Contacts**folder, if any, that is displayed in the control. If there is no **Contacts** folder displayed in the control, the distribution list is saved to the user's default **Contacts** folder.
 
 

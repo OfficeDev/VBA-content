@@ -25,9 +25,9 @@ Inserts the contents of the Clipboard at the specified selection.
 
 ## Remarks
 
-Using this method replaces the contents of the current selection. If you don't want to replace the contents of the selection, use the  **[Collapse](selection-collapse-method-word.md)** method before using this method.
+Using this method replaces the contents of the current selection. If you don't want to replace the contents of the selection, use the **[Collapse](selection-collapse-method-word.md)** method before using this method.
 
-When you use this method with a  **Range** object, the range expands to include the contents of the Clipboard. When you use this method with a **Selection** object, the selection does not expand to include the Clipboard contents; instead, the selection is positioned after the pasted Clipboard contents.
+When you use this method with a **Range** object, the range expands to include the contents of the Clipboard. When you use this method with a **Selection** object, the selection does not expand to include the Clipboard contents; instead, the selection is positioned after the pasted Clipboard contents.
 
 
 ## Example

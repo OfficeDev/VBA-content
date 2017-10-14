@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MenuItems.AddAt Method (Visio)
 
-Creates a new  **MenuItem** object at a specified index in the **MenuItems** collection.
+Creates a new **MenuItem** object at a specified index in the **MenuItems** collection.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ MenuItem
 
 If the index is zero (0), the object is added at the beginning of the collection.
 
-The beginning of a  **MenuItems** collection is the topmost menu item.
+The beginning of a **MenuItems** collection is the topmost menu item.
 
 
 ## Example

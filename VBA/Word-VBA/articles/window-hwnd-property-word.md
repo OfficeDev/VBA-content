@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Window.Hwnd Property (Word)
 
-Returns a  **Long** that indicates the window handle of the specified window. Read-only.
+Returns a **Long** that indicates the window handle of the specified window. Read-only.
 
 
 ## Syntax

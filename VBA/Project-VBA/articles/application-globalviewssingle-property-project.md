@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.GlobalViewsSingle Property (Project)
 
-Gets or sets a  **[ViewsSingle](viewsingle-object-project.md)** collection representing the single views of the Global.mpt file. Read/write **ViewsSingle**.
+Gets or sets a **[ViewsSingle](viewsingle-object-project.md)** collection representing the single views of the Global.mpt file. Read/write **ViewsSingle**.
 
 
 ## Syntax

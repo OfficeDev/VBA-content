@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.ItemEx Property (Visio)
 
-Returns a  **Window** object from a collection. Read-only.
+Returns a **Window** object from a collection. Read-only.
 
 
 ## Syntax
@@ -38,12 +38,12 @@ Window
 
 ## Remarks
 
-The  **ItemEx** property is similar to the **Item** property as it applies to the **Windows** collection, except that the first argument can be either the window caption or the index. Beginning with Microsoft Office Visio 2003, all built-in Multiple Document Interface (MDI) windows have unique captions, although there is no guarantee that subwindows have unique captions. If there are multiple subwindows that have the same caption, **ItemEx** returns the one that has the lowest index.
+The **ItemEx** property is similar to the **Item** property as it applies to the **Windows** collection, except that the first argument can be either the window caption or the index. Beginning with Microsoft Office Visio 2003, all built-in Multiple Document Interface (MDI) windows have unique captions, although there is no guarantee that subwindows have unique captions. If there are multiple subwindows that have the same caption, **ItemEx** returns the one that has the lowest index.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ItemEx** property to make a window active in Visio. It adds a document to the **Documents** collection, thereby creating a new window. Then it gets the index number of the new window (which is equal to the count of window items), uses that index number to get the new window's caption, and then passes the caption to the **ItemEx** property to activate the new window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ItemEx** property to make a window active in Visio. It adds a document to the **Documents** collection, thereby creating a new window. Then it gets the index number of the new window (which is equal to the count of window items), uses that index number to get the new window's caption, and then passes the caption to the **ItemEx** property to activate the new window.
 
 
 ```vb

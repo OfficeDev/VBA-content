@@ -57,7 +57,7 @@ The Help topic for each property indicates whether you can set that property (re
 
 ## What is a method?
 
-A method is an action that an object can perform. For example, just as a document can be printed, the  **[Document](document-object-word.md)** object has a **[PrintOut](document-printout-method-word.md)** method. Methods often have arguments that qualify how the action is performed. The following example prints the first three pages of the active document.
+A method is an action that an object can perform. For example, just as a document can be printed, the **[Document](document-object-word.md)** object has a **[PrintOut](document-printout-method-word.md)** method. Methods often have arguments that qualify how the action is performed. The following example prints the first three pages of the active document.
 
 
 ```vb
@@ -71,11 +71,11 @@ In most cases, methods are actions and properties are qualities. Using a method 
 
 ## Returning an object
 
-Most objects are returned by returning a single object from the collection. For example, the  **[Documents](document-object-word.md)** collection contains the open Word documents. You use the **[Documents](application-documents-property-word.md)** property of the **[Application](application-object-word.md)** object (the object at the top of the Word object hierarchy) to return the **Documents** collection.
+Most objects are returned by returning a single object from the collection. For example, the **[Documents](document-object-word.md)** collection contains the open Word documents. You use the **[Documents](application-documents-property-word.md)** property of the **[Application](application-object-word.md)** object (the object at the top of the Word object hierarchy) to return the **Documents** collection.
 
 After you access the collection, you can return a single object by using an index value in parentheses (this is similar to how you work with arrays). The index value is usually a number or a name. For more information, see  [Returning an Object from a Collection](returning-an-object-from-a-collection-word.md).
 
-The following example uses the  **Documents** property to access the **Documents** collection. The index number is used to return the first document in the **Documents** collection. The **[Close](document-close-method-word.md)** method is then applied to the **Document** object to close the first document in the **Documents** collection.
+The following example uses the **Documents** property to access the **Documents** collection. The index number is used to return the first document in the **Documents** collection. The **[Close](document-close-method-word.md)** method is then applied to the **Document** object to close the first document in the **Documents** collection.
 
 
 
@@ -86,7 +86,7 @@ Sub CloseDocument()
 End Sub
 ```
 
-The following example uses a name (specified as a string) to identify a  **Document** object within the **Documents** collection.
+The following example uses a name (specified as a string) to identify a **Document** object within the **Documents** collection.
 
 
 
@@ -97,7 +97,7 @@ Sub CloseSalesDoc()
 End Sub
 ```
 
-Collection objects often have methods and properties that you can use to modify the whole collection of objects. The  **Documents** object has a **[Save](documents-save-method-word.md)** method that saves all the documents in the collection. The following example saves the open documents by applying the **Save** method.
+Collection objects often have methods and properties that you can use to modify the whole collection of objects. The **Documents** object has a **[Save](documents-save-method-word.md)** method that saves all the documents in the collection. The following example saves the open documents by applying the **Save** method.
 
 
 
@@ -108,7 +108,7 @@ Sub SaveAllOpenDocuments()
 End Sub
 ```
 
-The  **Document** object also has a **Save** method that is available for saving a single document. The following example saves the document named Sales.doc.
+The **Document** object also has a **Save** method that is available for saving a single document. The following example saves the document named Sales.doc.
 
 
 
@@ -121,7 +121,7 @@ End Sub
 
 To return an object that is further down in the Word object hierarchy, you must "drill down" to it by using properties and methods to return objects.
 
-To see how this is done, open the Visual Basic Editor and click  **Object Browser** on the **View** menu. Click **Application** in the **Classes** list on the left. Then click **ActiveDocument** from the list of members on the right. The text at the bottom of the Object Browser indicates that **ActiveDocument** is a read-only property that returns a **Document** object. Click **Document** at the bottom of the Object Browser; the **Document** object is automatically selected in the **Classes** list, and the **Members** list displays the members of the **Document** object. Scroll through the list of members until you find **Close**. Click the  **Close** method. The text at the bottom of the Object Browser window shows the syntax for the method. For more information about the method, press F1 or click the **Help** button to jump to the **Close** method Help topic.
+To see how this is done, open the Visual Basic Editor and click **Object Browser** on the **View** menu. Click **Application** in the **Classes** list on the left. Then click **ActiveDocument** from the list of members on the right. The text at the bottom of the Object Browser indicates that **ActiveDocument** is a read-only property that returns a **Document** object. Click **Document** at the bottom of the Object Browser; the **Document** object is automatically selected in the **Classes** list, and the **Members** list displays the members of the **Document** object. Scroll through the list of members until you find **Close**. Click the **Close** method. The text at the bottom of the Object Browser window shows the syntax for the method. For more information about the method, press F1 or click the **Help** button to jump to the **Close** method Help topic.
 
 Given this information, you can write the following instruction to close the active document.
 
@@ -145,9 +145,9 @@ Sub MaximizeDocumentWindow()
 End Sub
 ```
 
-The  **ActiveWindow** property returns a **Window** object that represents the active window. The **WindowState** property is set to the maximize constant ( **wdWindowStateMaximize**).
+The **ActiveWindow** property returns a **Window** object that represents the active window. The **WindowState** property is set to the maximize constant ( **wdWindowStateMaximize**).
 
-The following example creates a document and displays the  **Save As** dialog box so that a name can be provided for the document.
+The following example creates a document and displays the **Save As** dialog box so that a name can be provided for the document.
 
 
 
@@ -158,7 +158,7 @@ Sub CreateSaveNewDocument()
 End Sub
 ```
 
-The  **Documents** property returns the **Documents** collection. The **[Add](documents-add-method-word.md)** method creates a new document and returns a **Document** object. The **Save** method is then applied to the **Document** object.
+The **Documents** property returns the **Documents** collection. The **[Add](documents-add-method-word.md)** method creates a new document and returns a **Document** object. The **Save** method is then applied to the **Document** object.
 
 As you can see, you use methods or properties to drill down to an object. That is, you return an object by applying a method or property to an object above it in the object hierarchy. After you return the object that you want, you can apply the methods and control the properties of that object.
 
@@ -168,10 +168,10 @@ As you can see, you use methods or properties to drill down to an object. That i
 Until you become familiar with the Word object model, there are tools that you can use to help you drill down through the hierarchy.
 
 
--  **Microsoft IntelliSense**. When you type a period (.) after an object in the Visual Basic Editor, a list of available properties and methods is displayed. For example, if you type  `Application.`, a drop-down list of methods and properties of the  **Application** object is displayed.
+- **Microsoft IntelliSense**. When you type a period (.) after an object in the Visual Basic Editor, a list of available properties and methods is displayed. For example, if you type  `Application.`, a drop-down list of methods and properties of the **Application** object is displayed.
     
--  **Help**. You can also use Help to find out which properties and methods can be used with an object. Each object topic in Help includes a See Also jump that displays a list of properties and methods for the object. Press  **F1** while in the Object Browser or in a module to jump to the appropriate Help topic.
+- **Help**. You can also use Help to find out which properties and methods can be used with an object. Each object topic in Help includes a See Also jump that displays a list of properties and methods for the object. Press **F1** while in the Object Browser or in a module to jump to the appropriate Help topic.
     
--  **Object Browser**. The Object Browser in the Visual Basic Editor displays the members (properties and methods) of the Word objects.
+- **Object Browser**. The Object Browser in the Visual Basic Editor displays the members (properties and methods) of the Word objects.
     
 

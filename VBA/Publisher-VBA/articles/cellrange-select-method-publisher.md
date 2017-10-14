@@ -20,7 +20,7 @@ Selects the specified object.
 
  _expression_. **Select**
 
- _expression_A variable that represents a  **CellRange** object.
+ _expression_A variable that represents a **CellRange** object.
 
 
 ## Example

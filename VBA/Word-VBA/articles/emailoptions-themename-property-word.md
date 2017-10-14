@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.ThemeName Property (Word)
 
-Returns or sets the name of the theme plus any theme formatting options to use for new e-mail messages. Read/write  **String** .
+Returns or sets the name of the theme plus any theme formatting options to use for new e-mail messages. Read/write **String** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the name of the theme plus any theme formatting options to use f
 
 ## Remarks
 
-For an explanation of the value returned by this property, see the Name argument of the  **[ApplyTheme](document-applytheme-method-word.md)** method. The value returned by this property may not correspond to the theme's display name as it appears in the Theme dialog box. To return a theme's display name, use the **[ActiveThemeDisplayName](document-activethemedisplayname-property-word.md)** property.
+For an explanation of the value returned by this property, see the Name argument of the **[ApplyTheme](document-applytheme-method-word.md)** method. The value returned by this property may not correspond to the theme's display name as it appears in the Theme dialog box. To return a theme's display name, use the **[ActiveThemeDisplayName](document-activethemedisplayname-property-word.md)** property.
 
-You can also use the  **[GetDefaultTheme](application-getdefaulttheme-method-word.md)** and **[SetDefaultTheme](application-setdefaulttheme-method-word.md)** methods to return and set the default theme for new e-mail messages.
+You can also use the **[GetDefaultTheme](application-getdefaulttheme-method-word.md)** and **[SetDefaultTheme](application-setdefaulttheme-method-word.md)** methods to return and set the default theme for new e-mail messages.
 
 
 ## Example

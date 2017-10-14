@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property can be  **True** , **False** or **wdUndefined** (only some of the specified text is allowed to split).
+This property can be **True** , **False** or **wdUndefined** (only some of the specified text is allowed to split).
 
 
 ## Example

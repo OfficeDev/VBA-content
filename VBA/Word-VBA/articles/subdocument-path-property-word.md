@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocument.Path Property (Word)
 
-Returns the disk or Web path to the specified subdocument. Read-only  **String** .
+Returns the disk or Web path to the specified subdocument. Read-only **String** .
 
 
 ## Syntax
@@ -25,10 +25,10 @@ Returns the disk or Web path to the specified subdocument. Read-only  **String**
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the  **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](subdocument-name-property-word.md)** property to return the file name without the path.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](subdocument-name-property-word.md)** property to return the file name without the path.
 
 
- **Note**  You can use the  **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+ **Note**  You can use the **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## See also

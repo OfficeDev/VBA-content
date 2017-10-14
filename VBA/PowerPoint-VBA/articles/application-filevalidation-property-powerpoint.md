@@ -30,7 +30,7 @@ Returns or sets a value that indicates how PowerPoint will validate files before
 
 ## Remarks
 
-Files that do not pass validation will be opened in a  **Protected View** window. If you set the **FileValidation** property, that setting will remain in effect for the entire session during which the application is open.
+Files that do not pass validation will be opened in a **Protected View** window. If you set the **FileValidation** property, that setting will remain in effect for the entire session during which the application is open.
 
 
 ## See also

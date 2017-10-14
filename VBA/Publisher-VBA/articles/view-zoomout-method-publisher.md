@@ -20,7 +20,7 @@ Decreases the magnification of the specified view.
 
  _expression_. **ZoomOut**
 
- _expression_A variable that represents a  **View** object.
+ _expression_A variable that represents a **View** object.
 
 
 ## Example

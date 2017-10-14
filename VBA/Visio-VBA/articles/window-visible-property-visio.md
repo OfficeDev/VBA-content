@@ -30,9 +30,9 @@ Boolean
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.Visible**
+- **Microsoft.Office.Interop.Visio.IVWindow.Visible**
     
 

@@ -40,7 +40,7 @@ Nothing
 
 To check out a file, it must be stored in a document library on a computer running Microsoft SharePoint Server or Microsoft SharePoint Foundation.
 
-Unlike the behavior in the user interface, the  **CheckOut** method does not open the document. Use the **Open** method to open the document in the drawing window after checking it out.
+Unlike the behavior in the user interface, the **CheckOut** method does not open the document. Use the **Open** method to open the document in the drawing window after checking it out.
 
 
 ## Example
@@ -60,7 +60,7 @@ Sub CheckDocOut(strDocCheckOut As String)
 End Sub
 ```
 
-To call the preceding  **CheckDocOut** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
+To call the preceding **CheckDocOut** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Shapes Property (Word)
 
-Returns a  **[Shapes](shapes-object-word.md)** collection that represents all the **Shape** objects in the specified document. Read-only.
+Returns a **[Shapes](shapes-object-word.md)** collection that represents all the **Shape** objects in the specified document. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[Shapes](shapes-object-word.md)** collection that represents all th
 
 This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts. For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 
-The  **Shapes** property, when applied to a document, returns all the **Shape** objects in the main story of the document, excluding the headers and footers.
+The **Shapes** property, when applied to a document, returns all the **Shape** objects in the main story of the document, excluding the headers and footers.
 
 
 ## Example

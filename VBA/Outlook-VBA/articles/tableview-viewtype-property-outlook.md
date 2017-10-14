@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.ViewType Property (Outlook)
 
-Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant that indicates the view type of the view. Read-only.
+Returns an **[OlViewType](olviewtype-enumeration-outlook.md)** constant that indicates the view type of the view. Read-only.
 
 
 ## Syntax

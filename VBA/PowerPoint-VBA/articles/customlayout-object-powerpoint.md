@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomLayout Object (PowerPoint)
 
-Represents a custom layout associated with a presentation design. The  **CustomLayout** object is a member of the **[CustomLayouts](customlayouts-object-powerpoint.md)** collection.
+Represents a custom layout associated with a presentation design. The **CustomLayout** object is a member of the **[CustomLayouts](customlayouts-object-powerpoint.md)** collection.
 
 
 ## Remarks
 
-Use the  **CustomLayout** property of the **[Slide](slide-object-powerpoint.md)** or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** objects to access a **CustomLayout** object, for example:
+Use the **CustomLayout** property of the **[Slide](slide-object-powerpoint.md)** or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** objects to access a **CustomLayout** object, for example:
 
 
 ```
@@ -30,7 +30,7 @@ ActiveWindow.Selection.SlideRange(1).CustomLayout
 ActivePresentation.Slides(1).CustomLayout
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/d22dc23a-cb03-ab32-fd27-e360377369a9%28Office.15%29.aspx)** method of the **CustomLayouts** collection to add a new custom layout to the presentation design's custom layouts. Use the **[Item](http://msdn.microsoft.com/library/d22dc23a-cb03-ab32-fd27-e360377369a9%28Office.15%29.aspx)** method to refer to a custom layout. Use the **[Paste](http://msdn.microsoft.com/library/d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04%28Office.15%29.aspx)** method to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
+Use the **[Add](http://msdn.microsoft.com/library/d22dc23a-cb03-ab32-fd27-e360377369a9%28Office.15%29.aspx)** method of the **CustomLayouts** collection to add a new custom layout to the presentation design's custom layouts. Use the **[Item](http://msdn.microsoft.com/library/d22dc23a-cb03-ab32-fd27-e360377369a9%28Office.15%29.aspx)** method to refer to a custom layout. Use the **[Paste](http://msdn.microsoft.com/library/d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04%28Office.15%29.aspx)** method to paste the slides on the Clipboard into a custom layout and add the custom layout to the **CustomLayouts** collection.
 
 
 ## Methods

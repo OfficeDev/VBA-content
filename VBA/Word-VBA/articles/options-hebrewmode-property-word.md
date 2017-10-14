@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.HebrewMode Property (Word)
 
-Returns or sets the mode for the Hebrew spelling checker. Read/write  **WdHebSpellStart** .
+Returns or sets the mode for the Hebrew spelling checker. Read/write **WdHebSpellStart** .
 
 
 ## Syntax

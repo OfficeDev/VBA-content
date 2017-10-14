@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ShowSelectionFloaties Property (Word)
 
-Returns or sets a  **Boolean** that represents whether mini toolbars display when a user selects text. Read/write.
+Returns or sets a **Boolean** that represents whether mini toolbars display when a user selects text. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether mini toolbars display whe
 
 ## Remarks
 
-Corresponds with the  **Show MiniBar on selection** check box in the **Word Options** dialog box.
+Corresponds with the **Show MiniBar on selection** check box in the **Word Options** dialog box.
 
 
 ## See also

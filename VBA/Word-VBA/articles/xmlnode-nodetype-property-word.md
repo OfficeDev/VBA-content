@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.NodeType Property (Word)
 
-Returns a  **[WdXMLNodeType](http://msdn.microsoft.com/library/2f8824c0-d08e-56d2-9ec8-6fa478452316%28Office.15%29.aspx)** constant that represents the type of node.
+Returns a **[WdXMLNodeType](http://msdn.microsoft.com/library/2f8824c0-d08e-56d2-9ec8-6fa478452316%28Office.15%29.aspx)** constant that represents the type of node.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[WdXMLNodeType](http://msdn.microsoft.com/library/2f8824c0-d08e-56d
 
 ## Remarks
 
-An  **XMLNode** object can be either an XML element or an attribute of an element. Use the **NodeType** property to determine which type of node you are working with, so that you do not attempt to perform invalid operations on the node. For example, the **[Attributes](xmlnode-attributes-property-word.md)** property applies only to element nodes, although it appears in the list of available properties for the **XMLNode** object.
+An **XMLNode** object can be either an XML element or an attribute of an element. Use the **NodeType** property to determine which type of node you are working with, so that you do not attempt to perform invalid operations on the node. For example, the **[Attributes](xmlnode-attributes-property-word.md)** property applies only to element nodes, although it appears in the list of available properties for the **XMLNode** object.
 
 
 ## Example

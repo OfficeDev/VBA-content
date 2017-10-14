@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Tasks.UniqueID Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object from its containing collection. Read-only **Task**.
+Gets a **[Task](task-object-project.md)** object from its containing collection. Read-only **Task**.
 
 
 ## Syntax

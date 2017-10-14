@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.ErrorMessage Property (Project)
 
-Gets errors reported by the  **Import Task Wizard** relating to custom fields and calendar validations. Read-only **String**.
+Gets errors reported by the **Import Task Wizard** relating to custom fields and calendar validations. Read-only **String**.
 
 
 ## Syntax

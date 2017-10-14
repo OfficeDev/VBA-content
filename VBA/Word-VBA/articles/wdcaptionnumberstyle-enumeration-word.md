@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WdCaptionNumberStyle Enumeration (Word)
 
-Specifies the number style to be used with the  **CaptionLabel** object.
+Specifies the number style to be used with the **CaptionLabel** object.
 
 
 

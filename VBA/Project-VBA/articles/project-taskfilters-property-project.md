@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.TaskFilters Property (Project)
 
-Gets a  **[Filters](filter-object-project.md)** collection of the task filters in the project. Read-only **Filters**.
+Gets a **[Filters](filter-object-project.md)** collection of the task filters in the project. Read-only **Filters**.
 
 
 ## Syntax

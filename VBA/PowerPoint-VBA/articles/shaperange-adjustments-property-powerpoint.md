@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Adjustments Property (PowerPoint)
 
-Returns an  **[Adjustments](adjustments-object-powerpoint.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **ShapeRange** object that represents an AutoShape, WordArt, or a connector. Read-only.
+Returns an **[Adjustments](adjustments-object-powerpoint.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **ShapeRange** object that represents an AutoShape, WordArt, or a connector. Read-only.
 
 
 ## Syntax

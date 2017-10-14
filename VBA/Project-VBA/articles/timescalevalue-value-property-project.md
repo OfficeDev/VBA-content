@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TimeScaleValue.Value Property (Project)
 
-Gets or sets the value of a timephased data item. Work values are in minutes. Read/write  **Variant**.
+Gets or sets the value of a timephased data item. Work values are in minutes. Read/write **Variant**.
 
 
 ## Syntax

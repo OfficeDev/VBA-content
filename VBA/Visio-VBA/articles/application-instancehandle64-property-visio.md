@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.InstanceHandle64 Property (Visio)
 
-Gets the instance handle of the  **[Application](application-object-visio.md)** object for a 64-bit version of Microsoft Visio. Read-only.
+Gets the instance handle of the **[Application](application-object-visio.md)** object for a 64-bit version of Microsoft Visio. Read-only.
 
 
 ## Syntax

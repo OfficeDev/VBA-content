@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShadowFormat.OffsetX Property (Publisher)
 
-Returns or sets a  **Variant** value indicating the vertical offset of the shadow from the specified shape. A positive value offsets the shadow below the shape; a negative value offsets it above the shape. Read/write.
+Returns or sets a **Variant** value indicating the vertical offset of the shadow from the specified shape. A positive value offsets the shadow below the shape; a negative value offsets it above the shape. Read/write.
 
 
 ## Syntax
 
  _expression_. **OffsetX**
 
- _expression_A variable that represents an  **ShadowFormat** object.
+ _expression_A variable that represents an **ShadowFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Variant
 
 Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the  **[IncrementOffsetX](shadowformat-incrementoffsetx-method-publisher.md)** method or the  **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** method.
+If you want to nudge a shadow horizontally or vertically from its current position without having to specify an absolute position, use the **[IncrementOffsetX](shadowformat-incrementoffsetx-method-publisher.md)** method or the **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** method.
 
 
 ## Example

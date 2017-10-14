@@ -30,12 +30,12 @@ String
 
 ## Remarks
 
-If the document is based on no template, the  **Template** property returns an empty string (''").
+If the document is based on no template, the **Template** property returns an empty string (''").
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Template** property to get the name of the template from which the document was created.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Template** property to get the name of the template from which the document was created.
 
 
 ```vb

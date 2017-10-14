@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleAction Object (Outlook)
 
-Represents an action that is run when a  **[Rule](rule-object-outlook.md)** object executes.
+Represents an action that is run when a **[Rule](rule-object-outlook.md)** object executes.
 
 
 ## Remarks
@@ -21,17 +21,17 @@ Represents an action that is run when a  **[Rule](rule-object-outlook.md)** obje
  **RuleAction** is the base class for rule actions that are supported in programmatic rule creation. The classes derived from **RuleAction** include:
 
 
--  **[AssignToCategoryRuleAction](assigntocategoryruleaction-object-outlook.md)**
+- **[AssignToCategoryRuleAction](assigntocategoryruleaction-object-outlook.md)**
     
--  **[MarkAsTaskRuleAction](markastaskruleaction-object-outlook.md)**
+- **[MarkAsTaskRuleAction](markastaskruleaction-object-outlook.md)**
     
--  **[MoveOrCopyRuleAction](moveorcopyruleaction-object-outlook.md)**
+- **[MoveOrCopyRuleAction](moveorcopyruleaction-object-outlook.md)**
     
--  **[NewItemAlertRuleAction](newitemalertruleaction-object-outlook.md)**
+- **[NewItemAlertRuleAction](newitemalertruleaction-object-outlook.md)**
     
--  **[PlaySoundRuleAction](playsoundruleaction-object-outlook.md)**
+- **[PlaySoundRuleAction](playsoundruleaction-object-outlook.md)**
     
--  **[SendRuleAction](sendruleaction-object-outlook.md)**
+- **[SendRuleAction](sendruleaction-object-outlook.md)**
     
 
 

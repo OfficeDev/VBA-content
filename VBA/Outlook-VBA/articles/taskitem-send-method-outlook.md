@@ -25,7 +25,7 @@ Sends the task.
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[CreateItem](application-createitem-method-outlook.md)** to create a simple task and delegate it as a task request to another user. Replace 'Dan Wilson' with a valid recipient name before running this example.
+This Visual Basic for Applications (VBA) example uses **[CreateItem](application-createitem-method-outlook.md)** to create a simple task and delegate it as a task request to another user. Replace 'Dan Wilson' with a valid recipient name before running this example.
 
 
 ```vb

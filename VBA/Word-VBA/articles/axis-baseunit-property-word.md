@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.BaseUnit Property (Word)
 
-Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](xltimeunit-enumeration-word.md)** .
+Returns or sets the base unit for the specified category axis. Read/write **[XlTimeUnit](xltimeunit-enumeration-word.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the base unit for the specified category axis. Read/write  **[Xl
 
 ## Remarks
 
-Setting this property has no visible effect if the  **[CategoryType](axis-categorytype-property-word.md)** property for the specified axis is set to **xlCategoryScale** . The set value is retained, however, and takes effect when the **CategoryType** property is set to **xlTimeScale** .
+Setting this property has no visible effect if the **[CategoryType](axis-categorytype-property-word.md)** property for the specified axis is set to **xlCategoryScale** . The set value is retained, however, and takes effect when the **CategoryType** property is set to **xlTimeScale** .
 
 You cannot set this property for a value axis.
 

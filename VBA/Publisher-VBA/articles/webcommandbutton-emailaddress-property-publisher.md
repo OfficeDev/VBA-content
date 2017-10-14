@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebCommandButton.EmailAddress Property (Publisher)
 
-Sets or returns a  **String** representing the e-mail address to use when processing Web form data. Read/write.
+Sets or returns a **String** representing the e-mail address to use when processing Web form data. Read/write.
 
 
 ## Syntax
 
  _expression_. **EmailAddress**
 
- _expression_A variable that represents an  **WebCommandButton** object.
+ _expression_A variable that represents an **WebCommandButton** object.
 
 
 ### Return Value

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.ProjectBeforePublish Event (Project)
 
-Occurs before a  **Publish** operation is placed on the server queue. The **ProjectBeforePublish** event can be cancelled. Project Professional only.
+Occurs before a **Publish** operation is placed on the server queue. The **ProjectBeforePublish** event can be cancelled. Project Professional only.
 
 
 ## Syntax
@@ -36,6 +36,6 @@ Nothing
 
 ## Remarks
 
-The  **ProjectBeforePublish** event is commonly used to determine whether certain conditions are satisfied and to cancel publishing if the conditions are not met.
+The **ProjectBeforePublish** event is commonly used to determine whether certain conditions are satisfied and to cancel publishing if the conditions are not met.
 
 

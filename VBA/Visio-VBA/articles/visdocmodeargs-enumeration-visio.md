@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDocModeArgs Enumeration (Visio)
 
-Flags passed to or returned by the  **Document.Mode** property and IDs returned by **Document.ID** .
+Flags passed to or returned by the **Document.Mode** property and IDs returned by **Document.ID** .
 
 
 

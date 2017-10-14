@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.ReadingOrder Property (Word)
 
-Returns or sets an  **[XlReadingOrder](xlreadingorder-enumeration-word.md)** constant that represents the reading order for the specified object. Read/write **Long** .
+Returns or sets an **[XlReadingOrder](xlreadingorder-enumeration-word.md)** constant that represents the reading order for the specified object. Read/write **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.LocalizedCookie Property (Project)
 
-Represents a token for the localized lookup table structure. Read-only  **String**.
+Represents a token for the localized lookup table structure. Read-only **String**.
 
 
 ## Syntax

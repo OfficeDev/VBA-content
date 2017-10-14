@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Resource.EMailAddress Property (Project)
 
-Gets or sets the e-mail address of the resource. Read/write  **String**.
+Gets or sets the e-mail address of the resource. Read/write **String**.
 
 
 ## Syntax

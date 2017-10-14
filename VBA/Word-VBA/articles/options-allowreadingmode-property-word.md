@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Corresponds to the  **Allow starting in Reading Layout** check box on the **General** tab of the **Options** dialog box.
+Corresponds to the **Allow starting in Reading Layout** check box on the **General** tab of the **Options** dialog box.
 
 
 ## Example

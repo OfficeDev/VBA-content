@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisListDirection Enumeration (Visio)
 
-Specifies constants that identify the list direction; passed to and returned by the  **[ContainerProperties.ListDirection](containerproperties-listdirection-property-visio.md)** property.
+Specifies constants that identify the list direction; passed to and returned by the **[ContainerProperties.ListDirection](containerproperties-listdirection-property-visio.md)** property.
 
 
 

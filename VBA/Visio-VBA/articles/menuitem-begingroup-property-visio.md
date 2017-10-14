@@ -33,9 +33,9 @@ Boolean
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If you set the  **BeginGroup** property of a **MenuItem** or **ToolbarItem** object to **True** , a separator is inserted into the menu or a spacer is inserted into the toolbar preceding this item.
+If you set the **BeginGroup** property of a **MenuItem** or **ToolbarItem** object to **True** , a separator is inserted into the menu or a spacer is inserted into the toolbar preceding this item.
 
 
- **Note**  In Microsoft Visio 2000, the only way to create a separator in a menu or a spacer in a toolbar was to add a dummy item with a  **CmdNum** property of zero, a **Caption** property that contained "", and an empty **MenuItems** or **ToolbarItems** collection. This technique continues to work in later versions .
+ **Note**  In Microsoft Visio 2000, the only way to create a separator in a menu or a spacer in a toolbar was to add a dummy item with a **CmdNum** property of zero, a **Caption** property that contained "", and an empty **MenuItems** or **ToolbarItems** collection. This technique continues to work in later versions .
 
 

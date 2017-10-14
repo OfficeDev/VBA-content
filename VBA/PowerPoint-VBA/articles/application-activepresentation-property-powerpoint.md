@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActivePresentation Property (PowerPoint)
 
-Returns a  **[Presentation](presentation-object-powerpoint.md)** object that represents the presentation open in the active window. Read-only.
+Returns a **[Presentation](presentation-object-powerpoint.md)** object that represents the presentation open in the active window. Read-only.
 
 
 ## Syntax

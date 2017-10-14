@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.Creator Property (PowerPoint)
 
-Returns a  **Long** that represents the four-character creator code for the application in which the specified object was created. Read-only.
+Returns a **Long** that represents the four-character creator code for the application in which the specified object was created. Read-only.
 
 
 ## Syntax
@@ -27,14 +27,14 @@ Long
 
 ## Remarks
 
-For example, if a  **TextFrame2** object was created in PowerPoint, this property returns the hexadecimal number 50575054.
+For example, if a **TextFrame2** object was created in PowerPoint, this property returns the hexadecimal number 50575054.
 
-The  **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
+The **Creator** property is designed to be used in Microsoft Office applications for the Macintosh.
 
 
 ## Example
 
-This example displays a message about the creator of the  **TextFrame2** object.
+This example displays a message about the creator of the **TextFrame2** object.
 
 
 ```vb

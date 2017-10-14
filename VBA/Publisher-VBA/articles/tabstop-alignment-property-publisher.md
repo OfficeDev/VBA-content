@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # TabStop.Alignment Property (Publisher)
 
-Returns or sets a  **PbTabAlignmentType** constant that represents the alignment for the specified tab stop. Read/write.
+Returns or sets a **PbTabAlignmentType** constant that represents the alignment for the specified tab stop. Read/write.
 
 
 ## Syntax
 
  _expression_. **Alignment**
 
- _expression_A variable that represents a  **TabStop** object.
+ _expression_A variable that represents a **TabStop** object.
 
 
 ## Remarks
 
-The  **Alignment** property value can be one of the **[PbTabAlignmentType](pbtabalignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Alignment** property value can be one of the **[PbTabAlignmentType](pbtabalignmenttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

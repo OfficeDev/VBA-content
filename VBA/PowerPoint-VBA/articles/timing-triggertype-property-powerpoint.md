@@ -30,7 +30,7 @@ MsoAnimTriggerType
 
 ## Remarks
 
-The value of the  **TriggerType** property can be one of these **MsoAnimTriggerType** constants. The default is **msoAnimTriggerOnPageClick**.
+The value of the **TriggerType** property can be one of these **MsoAnimTriggerType** constants. The default is **msoAnimTriggerOnPageClick**.
 
 
 ||

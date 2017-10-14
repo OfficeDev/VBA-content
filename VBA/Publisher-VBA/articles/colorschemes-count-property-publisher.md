@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorSchemes.Count Property (Publisher)
 
-Returns a  **Long** that represents the number of items in the specified collection.
+Returns a **Long** that represents the number of items in the specified collection.
 
 
 ## Syntax
 
  _expression_. **Count**
 
- _expression_A variable that represents a  **ColorSchemes** object.
+ _expression_A variable that represents a **ColorSchemes** object.
 
 
 ## Example

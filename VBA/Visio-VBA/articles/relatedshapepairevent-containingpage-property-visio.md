@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RelatedShapePairEvent.ContainingPage Property (Visio)
 
-Returns the  **[Page](page-object-visio.md)** object that is associated with the **RelatedShapePairEvent** object. Read-only.
+Returns the **[Page](page-object-visio.md)** object that is associated with the **RelatedShapePairEvent** object. Read-only.
 
 
 ## Syntax

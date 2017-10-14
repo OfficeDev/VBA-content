@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GroupNew Method (Project)
 
-Displays the  **Group Definition** dialog box.
+Displays the **Group Definition** dialog box.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Group Definition** dialog box.
 
 ## Remarks
 
-The  **GroupNew** method corresponds to the following command on the Ribbon: On the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **New Group By**.
+The **GroupNew** method corresponds to the following command on the Ribbon: On the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **New Group By**.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TableField.Parent Property (Project)
 
-Gets the parent of the  **TableField** object. Read-only **Table**.
+Gets the parent of the **TableField** object. Read-only **Table**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the parent of the  **TableField** object. Read-only **Table**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

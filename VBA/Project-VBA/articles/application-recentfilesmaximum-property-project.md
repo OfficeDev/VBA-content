@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RecentFilesMaximum Property (Project)
 
-Gets or sets the maximum number of recently used files to display in the  **Recent Projects** pane of the Backstage view. Read/write **Long**.
+Gets or sets the maximum number of recently used files to display in the **Recent Projects** pane of the Backstage view. Read/write **Long**.
 
 
 ## Syntax
@@ -25,8 +25,8 @@ Gets or sets the maximum number of recently used files to display in the  **Rece
 
 ## Remarks
 
-The value of the  **RecentFilesMaximum** property can be 0 to 50.
+The value of the **RecentFilesMaximum** property can be 0 to 50.
 
-Setting the  **RecentFilesMaximum** property to 0 also sets the **DisplayRecentFiles** property to **False**.
+Setting the **RecentFilesMaximum** property to 0 also sets the **DisplayRecentFiles** property to **False**.
 
 

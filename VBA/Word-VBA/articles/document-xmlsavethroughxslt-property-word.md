@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.XMLSaveThroughXSLT Property (Word)
 
-Sets or returns a  **String** that specifies the path and file name for the Extensible Stylesheet Language Transformation (XSLT) to apply when a user saves a document.
+Sets or returns a **String** that specifies the path and file name for the Extensible Stylesheet Language Transformation (XSLT) to apply when a user saves a document.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **String** that specifies the path and file name for the Exte
 
 ## Remarks
 
-The  **XMLSaveThroughXSLT** property is only applicable when the **[XMLUseXSLTWhenSaving](document-xmlusexsltwhensaving-property-word.md)** property is set to **True** . If the **XMLUseXSLTWhenSaving** property is set to **False** , Microsoft Word will ignore the **XMLSaveThroughXSLT** property.
+The **XMLSaveThroughXSLT** property is only applicable when the **[XMLUseXSLTWhenSaving](document-xmlusexsltwhensaving-property-word.md)** property is set to **True** . If the **XMLUseXSLTWhenSaving** property is set to **False** , Microsoft Word will ignore the **XMLSaveThroughXSLT** property.
 
 
 ## Example

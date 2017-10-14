@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Styles.Add Method (Visio)
 
-Adds a new  **Style** object to a **Styles** collection.
+Adds a new **Style** object to a **Styles** collection.
 
 
 ## Syntax
@@ -47,7 +47,7 @@ To base the new style on no style, pass a zero-length string ("") for the  _Base
 
 ## Example
 
-The following macro shows how to add  **Style** objects to the **Styles** collection. It shows how to add a new style based on an existing style, as well as how to add a new style created from scratch.
+The following macro shows how to add **Style** objects to the **Styles** collection. It shows how to add a new style based on an existing style, as well as how to add a new style created from scratch.
 
 
 ```vb

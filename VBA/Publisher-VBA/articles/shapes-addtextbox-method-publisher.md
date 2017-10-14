@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddTextbox Method (Publisher)
 
-Adds a new  **Shape** object representing a text box to the specified **Shapes** collection.
+Adds a new **Shape** object representing a text box to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddTextbox**( **_Orientation_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**)
+ _expression_. **AddTextbox**( **_Orientation_**, **_Left_**, **_Top_**, **_Width_**, **_Height_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -44,7 +44,7 @@ Shape
 
 For the Left, Top, Width, and Height parameters numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-The Orientation parameter can be one of the  **PbTextOrientation** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Orientation parameter can be one of the **PbTextOrientation** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

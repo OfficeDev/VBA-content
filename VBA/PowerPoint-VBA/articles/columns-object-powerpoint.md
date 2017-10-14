@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Columns Object (PowerPoint)
 
-A collection of  **[Column](column-object-powerpoint.md)** objects that represent the columns in a table.
+A collection of **[Column](column-object-powerpoint.md)** objects that represent the columns in a table.
 
 
 ## Example
 
-Use the  **Columns** property to return the **Columns** collection. This example finds the first table in the active presentation, counts the number of **Column** objects in the **Columns** collection, and displays information to the user.
+Use the **Columns** property to return the **Columns** collection. This example finds the first table in the active presentation, counts the number of **Column** objects in the **Columns** collection, and displays information to the user.
 
 
 ```vb
@@ -53,7 +53,7 @@ With ActivePresentation.Slides(2).Shapes(5).Table
 End With
 ```
 
-Use  **Columns** (index) to return a single **Column** object. Index represents the position of the column in the **Columns** collection (usually counting from left to right; although the[TableDirection](table-tabledirection-property-powerpoint.md)property can reverse this). This example selects the first column of the table in shape five on the second slide.
+Use **Columns** (index) to return a single **Column** object. Index represents the position of the column in the **Columns** collection (usually counting from left to right; although the[TableDirection](table-tabledirection-property-powerpoint.md)property can reverse this). This example selects the first column of the table in shape five on the second slide.
 
 
 

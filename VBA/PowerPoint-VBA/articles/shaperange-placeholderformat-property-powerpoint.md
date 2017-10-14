@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.PlaceholderFormat Property (PowerPoint)
 
-Returns a  **[PlaceholderFormat](placeholderformat-object-powerpoint.md)** object that contains the properties that are unique to placeholders. Read-only.
+Returns a **[PlaceholderFormat](placeholderformat-object-powerpoint.md)** object that contains the properties that are unique to placeholders. Read-only.
 
 
 ## Syntax

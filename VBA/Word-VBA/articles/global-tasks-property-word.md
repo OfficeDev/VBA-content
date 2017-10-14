@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Tasks Property (Word)
 
-Returns a  **Tasks** collection that represents all the applications that are running.
+Returns a **Tasks** collection that represents all the applications that are running.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ ms.prod: project-server
 
 # Resource.IsLocked Property (Project)
 
-Indicates whether the resource is or is not locked. If resource is locked, you need an engagement for a resource. Read-only Return  **Boolean**. Introduced in Office 2016.
+Indicates whether the resource is or is not locked. If resource is locked, you need an engagement for a resource. Read-only Return **Boolean**. Introduced in Office 2016.
 
 
 ## Syntax

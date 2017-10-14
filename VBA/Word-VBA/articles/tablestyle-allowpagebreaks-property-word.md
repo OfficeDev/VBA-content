@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.AllowPageBreaks Property (Word)
 
-Allows Microsoft Word to break the specified table across pages. Read/write  **Boolean** .
+Allows Microsoft Word to break the specified table across pages. Read/write **Boolean** .
 
 
 ## Syntax

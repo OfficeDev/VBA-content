@@ -21,7 +21,7 @@ When Outlook calls one of these methods, it passes an **IRibbonUI** object as a 
 | **[InvalidateControl(string controlID)](http://msdn.microsoft.com/library/33af7933-66f7-51e9-895e-07a6222973d2%28Office.15%29.aspx)**|Callback|Marks a specific control or menu item that is defined by a  _controlID_ in your add-in for update.|
 | **[ActivateTab](http://msdn.microsoft.com/library/32f5205c-6ab1-e3a6-6bae-5f36706c4d0d%28Office.15%29.aspx)**|Callback|Activates the specified custom tab on the Microsoft Office Fluent ribbon.|
 | **[ActivateTabQ](http://msdn.microsoft.com/library/bf664b52-2660-2ce7-a01b-83b459f66e09%28Office.15%29.aspx)**|Callback|Activates the specified custom tab on the ribbon by using the fully qualified name of the tab.|
-To minimize the impact on performance, use the  **InvalidateControl** method instead of the **Invalidate** method unless you actually need to invalidate all the custom controls or menu items that your add-in defines. Calling **Invalidate** invalidates all controls and menu items that your add-in defines, and callbacks occur on open explorers, inspectors, and menus.
+To minimize the impact on performance, use the **InvalidateControl** method instead of the **Invalidate** method unless you actually need to invalidate all the custom controls or menu items that your add-in defines. Calling **Invalidate** invalidates all controls and menu items that your add-in defines, and callbacks occur on open explorers, inspectors, and menus.
 
 ## See also
 

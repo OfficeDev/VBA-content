@@ -25,7 +25,7 @@ Removes the content control from the active document and moves the content contr
 
 ## Remarks
 
-Use the  **Paste** method of the **[Selection](selection-object-word.md)** object or the ** Paste** method of the **[Range](range-object-word.md)** object to insert the cut content control, or use the **Paste** function from within Microsoft Word.
+Use the **Paste** method of the **[Selection](selection-object-word.md)** object or the ** Paste** method of the **[Range](range-object-word.md)** object to insert the cut content control, or use the **Paste** function from within Microsoft Word.
 
 
 ## See also

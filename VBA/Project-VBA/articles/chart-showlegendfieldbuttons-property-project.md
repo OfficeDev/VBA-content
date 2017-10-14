@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.ShowLegendFieldButtons Property (Project)
-Gets or sets whether to display legend field buttons on a PivotChart. Read/write  **Boolean**.
+Gets or sets whether to display legend field buttons on a PivotChart. Read/write **Boolean**.
 
 ## Syntax
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.ActiveRecord Property (Publisher)
 
-Returns or sets a  **Long** that represents the active mail merge record. Read/write.
+Returns or sets a **Long** that represents the active mail merge record. Read/write.
 
 
 ## Syntax
 
  _expression_. **ActiveRecord**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Return Value

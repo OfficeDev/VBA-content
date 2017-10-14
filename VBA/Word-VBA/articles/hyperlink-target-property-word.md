@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Target Property (Word)
 
-Returns or sets the name of the frame or window in which to load the hyperlink. Read/write  **String** .
+Returns or sets the name of the frame or window in which to load the hyperlink. Read/write **String** .
 
 
 ## Syntax

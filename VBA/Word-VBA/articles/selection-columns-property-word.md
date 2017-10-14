@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Columns Property (Word)
 
-Returns a  **Columns** collection that represents all the table columns in a selection. Read-only.
+Returns a **Columns** collection that represents all the table columns in a selection. Read-only.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ColorSchemes Property (Publisher)
 
-Returns a  **[ColorSchemes](colorschemes-object-publisher.md)** collection that represents the color schemes available.
+Returns a **[ColorSchemes](colorschemes-object-publisher.md)** collection that represents the color schemes available.
 
 
 ## Syntax
 
  _expression_. **ColorSchemes**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ ColorSchemes
 
 ## Example
 
-The following example loops through the  **ColorSchemes** collection and displays the name of each color scheme and the RGB value of the color for followed hyperlinks in each scheme.
+The following example loops through the **ColorSchemes** collection and displays the name of each color scheme and the RGB value of the color for followed hyperlinks in each scheme.
 
 
 ```vb

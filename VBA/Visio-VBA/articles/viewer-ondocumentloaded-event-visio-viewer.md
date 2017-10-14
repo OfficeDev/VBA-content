@@ -17,7 +17,7 @@ Occurs after a document is loaded into Microsoft Visio Viewer.
 
  _expression_. **OnDocumentLoaded**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,14 +27,14 @@ Nothing
 
 ## Remarks
 
-You can load a document into Visio Viewer programmatically by using the  **[Load](viewer-load-method-visio-viewer.md)** method.
+You can load a document into Visio Viewer programmatically by using the **[Load](viewer-load-method-visio-viewer.md)** method.
 
-To capture the  **OnDocumentLoaded** event when you are coding in Visual Basic 6.0, load the document in the **Form_Paint()** procedure. The event may not occur in response to calling the **Load** method within the **Form_Load()** procedure.
+To capture the **OnDocumentLoaded** event when you are coding in Visual Basic 6.0, load the document in the **Form_Paint()** procedure. The event may not occur in response to calling the **Load** method within the **Form_Load()** procedure.
 
 
 ## Example
 
-The following code shows how to display a message in the  **Immediate** window when a document is loaded in Visio Viewer, showing the name of the document.
+The following code shows how to display a message in the **Immediate** window when a document is loaded in Visio Viewer, showing the name of the document.
 
 
 ```vb

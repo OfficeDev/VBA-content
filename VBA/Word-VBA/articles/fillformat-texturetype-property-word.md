@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureType Property (Word)
 
-Returns the texture type for the specified fill. Read-only  **MsoTextureType** .
+Returns the texture type for the specified fill. Read-only **MsoTextureType** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the texture type for the specified fill. Read-only  **MsoTextureType** .
 
 ## Remarks
 
-This property is read-only. Use the  **[PresetTextured](fillformat-presettextured-method-word.md)** , **[UserPicture](fillformat-userpicture-method-word.md)** , or **[UserTextured](fillformat-usertextured-method-word.md)** method to set the texture type for the fill.
+This property is read-only. Use the **[PresetTextured](fillformat-presettextured-method-word.md)** , **[UserPicture](fillformat-userpicture-method-word.md)** , or **[UserTextured](fillformat-usertextured-method-word.md)** method to set the texture type for the fill.
 
 
 ## Example

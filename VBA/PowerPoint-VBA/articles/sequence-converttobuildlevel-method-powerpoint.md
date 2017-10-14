@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.ConvertToBuildLevel Method (PowerPoint)
 
-Changes the build level information for a specified animation effect. Returns an  **[Effect](effect-object-powerpoint.md)** object that represents the build level information.
+Changes the build level information for a specified animation effect. Returns an **[Effect](effect-object-powerpoint.md)** object that represents the build level information.
 
 
 ## Syntax

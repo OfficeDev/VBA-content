@@ -16,7 +16,7 @@ Contains constants that specify the display format for date and time labels in a
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-|**pjDay_ddd**|19|Examples: Mon, Tue. Requires the time unit to be  **pjTimescaleDays**.|
+|**pjDay_ddd**|19|Examples: Mon, Tue. Requires the time unit to be **pjTimescaleDays**.|
 |**pjDay_ddd_dd**|105|Examples: Mon 30, Tue 1|
 |**pjDay_ddd_m_dd**|112|Examples: Mon S 30, Tue O 1|
 |**pjDay_ddd_mm_dd**|108|Examples: Mon 9/30, Tue 10/1|
@@ -49,7 +49,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjDayOfYear_dd**|118|Examples: 77, 78|
 |**pjDayOfYear_dd_yyy**|116|Examples: 77 '10, 78 '10|
 |**pjDayOfYear_dd_yyyy**|117|Examples: 77 2010, 78 2010|
-|**pjHalfYear_h**|128|Examples: 1, 2. Requires the time unit to be  **pjTimescaleHalfYears**.|
+|**pjHalfYear_h**|128|Examples: 1, 2. Requires the time unit to be **pjTimescaleHalfYears**.|
 |**pjHalfYear_Hh**|127|Examples: H1, H2|
 |**pjHalfYear_Hh_yyy**|126|Examples: H1 '10, H2 '10|
 |**pjHalfYear_hhh_Half**|123|Examples: 1st Half, 2nd Half|
@@ -62,7 +62,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjHalfYearFromStart_h**|132|Examples: -2, -1, 1, 2. Half years from the project start date.|
 |**pjHalfYearFromStart_Half_h**|130|Examples: Half -2, Half -1, Half 1, Half 2|
 |**pjHalfYearFromStart_Hh**|131|Examples: H-2, H-1, H1, H2|
-|**pjHour_ddd_mmm_dd_hhAM**|28|Examples: Wed Mar 18, 8 AM; Wed Mar 18, 9 AM. Requires the time unit to be  **pjTimescaleHours**.|
+|**pjHour_ddd_mmm_dd_hhAM**|28|Examples: Wed Mar 18, 8 AM; Wed Mar 18, 9 AM. Requires the time unit to be **pjTimescaleHours**.|
 |**pjHour_hh**|32|Examples: 8, 9, 10, 11|
 |**pjHour_hh_mmAM**|30|Examples: 8:00 AM, 9:00 AM|
 |**pjHour_hhAM**|31|Examples: 8AM, 9AM|
@@ -74,7 +74,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjHourFromStart_hh**|79|Examples: -2, -1, 1, 2, 3 hours from the project start.|
 |**pjHourFromStart_Hhh**|78|Examples: H-2, H-1, H1, H2, H3|
 |**pjHourFromStart_Hour_hh**|38|Examples: Hour -2, Hour -1, Hour 1, Hour 2, Hour 3|
-|**pjMinute_hh_mmAM**|33|Examples: 8:00 AM, 8:01 AM, 8:02 AM. Requires the time unit to be  **pjTimescaleMinutes**.|
+|**pjMinute_hh_mmAM**|33|Examples: 8:00 AM, 8:01 AM, 8:02 AM. Requires the time unit to be **pjTimescaleMinutes**.|
 |**pjMinute_mm**|34|Examples: 0, 1, 2, ..., 59 minutes|
 |**pjMinuteFromEnd_Minute_mm**|37|Examples: Minute 181, Minute 180, ..., Minute 1, Minute -1 from the project end.|
 |**pjMinuteFromEnd_mm**|81|Examples: 181, 180, ..., 1, -1|
@@ -82,7 +82,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjMinuteFromStart_Minute_mm**|36|Examples: Minute -2, Minute -1, Minute 1, ... Minute 180 from the project start.|
 |**pjMinuteFromStart_mm**|83|Examples: -2, -1, 1, ..., 180|
 |**pjMinuteFromStart_Mmm**|82|Examples: M-2, M-1, M1, ..., M180|
-|**pjMonth_m**|11|Examples: M, A, M, J, J. Requires the time unit to be  **pjTimescaleMonths**.|
+|**pjMonth_m**|11|Examples: M, A, M, J, J. Requires the time unit to be **pjTimescaleMonths**.|
 |**pjMonth_mm**|57|Examples: 11, 12, 1, 2|
 |**pjMonth_mm_yy**|86|Examples: 3/10, 4/10, 5/10|
 |**pjMonth_mm_yyy**|85|Examples: 3 '10, 4 '10, 5 '10|
@@ -96,7 +96,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjMonthFromStart_mm**|61|Examples: -2, -2, 1, 2 months from the project start.|
 |**pjMonthFromStart_Mmm**|60|Examples: M-2, M-1, M1, M2|
 |**pjMonthFromStart_Month_mm**|44|Examples: Month -2, Month -1, Month 1, Month 2|
-|**pjQuarter_q**|62|Examples: 3, 4, 1. Requires the time unit to be  **pjTimescaleQuarters**.|
+|**pjQuarter_q**|62|Examples: 3, 4, 1. Requires the time unit to be **pjTimescaleQuarters**.|
 |**pjQuarter_Qq**|6|Examples: Q3, Q4, Q1|
 |**pjQuarter_Qq_yyy**|4|Examples: Q3 '10, Q4 '10, Q1 '11|
 |**pjQuarter_qqq_Quarter**|2|Examples: 3rd Quarter, 4th Quarter, 1st Quarter|
@@ -109,7 +109,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjQuarterFromStart_q**|66|Examples: -5, -4, -3, -2, -1, 1 quarters from the project start.|
 |**pjQuarterFromStart_Qq**|65|Examples: Q-5, Q-4, Q-3, Q-2, Q-1, Q1|
 |**pjQuarterFromStart_Quarter_q**|46|Examples: Quarter -5, Quarter -4, Quarter -3, Quarter -2, Quarter -1, Quarter 1|
-|**pjThirdsOfMonths_dd**|136|Examples: 1, 11, 21, 1. Requires the time unit to be  **pjTimescaleThirdsOfMonths**.|
+|**pjThirdsOfMonths_dd**|136|Examples: 1, 11, 21, 1. Requires the time unit to be **pjTimescaleThirdsOfMonths**.|
 |**pjThirdsOfMonths_ddd**|137|Examples: B, M, E, B|
 |**pjThirdsOfMonths_dddd**|138|Examples: Beginning, Middle, End, Beginning|
 |**pjThirdsOfMonths_mm_dd**|139|Examples: 3/1, 3/11, 3/21, 4/1|
@@ -124,7 +124,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjThirdsOfMonths_mmmm_dd_yyyy**|149|Examples: March 1, 2010; March 11, 2010; March 21, 2010; April 1, 2010|
 |**pjThirdsOfMonths_mmmm_dddd**|141|Examples: March Beginning, March Middle, March End, April Beginning|
 |**pjThirdsOfMonths_mmmm_dddd_yyyy**|150|Examples: March Beginning, 2010; March Middle, 2010; March End, 2010; April Beginning, 2010|
-|**pjWeek_ddd_dd**|88|Examples: Sun 21, Sun 28, Sun 4. Requires the time unit to be  **pjTimescaleWeeks**.|
+|**pjWeek_ddd_dd**|88|Examples: Sun 21, Sun 28, Sun 4. Requires the time unit to be **pjTimescaleWeeks**.|
 |**pjWeek_ddd_m_dd**|97|Examples: Sun M 21, Sun M 28, Sun A 4|
 |**pjWeek_ddd_mm_dd**|90|Examples: Sun 3/21, Sun 3/28, Sun 4/4|
 |**pjWeek_ddd_mm_dd_yy**|100|Examples: Sun 3/21/10, Sun 3/28/10, Sun 4/4/10|
@@ -155,7 +155,7 @@ Contains constants that specify the display format for date and time labels in a
 |**pjWeekFromStart_Www**|69|Examples: W-1, W1, W2|
 |**pjWeekNumber_dd_ww**|104|Examples: 1 12, 1 13, 1 14 (day 1 of week 12, day 1 of week 13, and so forth)|
 |**pjWeekNumber_ww**|50|Examples: 12, 13, 14|
-|**pjYear_yy**|75|Examples: 10, 11, 12. Requires the time unit to be  **pjTimescaleYears**.|
+|**pjYear_yy**|75|Examples: 10, 11, 12. Requires the time unit to be **pjTimescaleYears**.|
 |**pjYear_yyy**|1|Examples: '10, '11, '12|
 |**pjYear_yyyy**|0|Examples: 2010, 2011, 2012|
 |**pjYearFromEnd_Year_yy**|49|Examples: Year 2, Year 1, Year -1 from the project end.|

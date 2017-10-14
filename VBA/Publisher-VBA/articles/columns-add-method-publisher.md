@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Columns.Add Method (Publisher)
 
-Adds a new  **Column** object to the specified **Columns** collection and returns the new **Column** object.
+Adds a new **Column** object to the specified **Columns** collection and returns the new **Column** object.
 
 
 ## Syntax
 
  _expression_. **Add**( **_BeforeColumn_**)
 
- _expression_A variable that represents a  **Columns** object.
+ _expression_A variable that represents a **Columns** object.
 
 
 ### Parameters

@@ -18,12 +18,12 @@ Contains first-line indent and hanging indent information for an outline level.
 
 ## Remarks
 
-The  **RulerLevel** object is a member of the **[RulerLevels](rulerlevels-object-powerpoint.md)** collection. The **RulerLevels** collection contains a **RulerLevel** object for each of the five available outline levels.
+The **RulerLevel** object is a member of the **[RulerLevels](rulerlevels-object-powerpoint.md)** collection. The **RulerLevels** collection contains a **RulerLevel** object for each of the five available outline levels.
 
 
 ## Example
 
-Use  **RulerLevels** (index), where index is the outline level, to return a single **RulerLevel** object. The following example sets the first-line indent and hanging indent for outline level one in body text on the slide master for the active presentation.
+Use **RulerLevels** (index), where index is the outline level, to return a single **RulerLevel** object. The following example sets the first-line indent and hanging indent for outline level one in body text on the slide master for the active presentation.
 
 
 ```vb

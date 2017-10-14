@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Version.SavedBy Property (Word)
 
-Returns the name of the user who saved the specified version of the document. Read-only  **String** .
+Returns the name of the user who saved the specified version of the document. Read-only **String** .
 
 
 ## Syntax

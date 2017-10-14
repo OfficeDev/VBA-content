@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CustomToolbarsFile Property (Visio)
 
-Returns or sets the name of the file that defines custom toolbars and status bars for a  **Document** object. Read/write.
+Returns or sets the name of the file that defines custom toolbars and status bars for a **Document** object. Read/write.
 
 
 ## Syntax
@@ -33,6 +33,6 @@ String
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If the object is not using custom toolbars, the  **CustomToolbarsFile** property returns **Nothing** .
+If the object is not using custom toolbars, the **CustomToolbarsFile** property returns **Nothing** .
 
 

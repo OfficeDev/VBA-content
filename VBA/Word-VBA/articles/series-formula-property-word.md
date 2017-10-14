@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Formula Property (Word)
 
-Returns or sets the object's formula in A1-style notation and in the language of the macro. Read/write  **String** .
+Returns or sets the object's formula in A1-style notation and in the language of the macro. Read/write **String** .
 
 
 ## Syntax

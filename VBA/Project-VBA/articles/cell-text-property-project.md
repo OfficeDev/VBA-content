@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Cell.Text Property (Project)
 
-Gets the text contents of the cell. Read-only  **String**.
+Gets the text contents of the cell. Read-only **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Successors Property (Project)
 
-Gets or sets a list of the identification numbers of a task's successors. Read/write  **String**.
+Gets or sets a list of the identification numbers of a task's successors. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets a list of the identification numbers of a task's successors. Read/w
 
 ## Remarks
 
-If the successors of the specified task have identification numbers of 2 and 10, and the list separator character is the comma, the  **Successors** property returns "2,10"
+If the successors of the specified task have identification numbers of 2 and 10, and the list separator character is the comma, the **Successors** property returns "2,10"
 
 

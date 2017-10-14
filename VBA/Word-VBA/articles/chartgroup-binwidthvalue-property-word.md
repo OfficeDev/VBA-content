@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.BinWidthValue Property (Word)
 
-Specifies the number of points in each range. Read/write  **Double**.
+Specifies the number of points in each range. Read/write **Double**.
 
 
 ## Syntax

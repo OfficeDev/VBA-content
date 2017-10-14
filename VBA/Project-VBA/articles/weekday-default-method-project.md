@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WeekDay.Default Method (Project)
 
-Resets the  **WeekDay** item of a resource calendar to the value in the corresponding base calendar.
+Resets the **WeekDay** item of a resource calendar to the value in the corresponding base calendar.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Resets the  **WeekDay** item of a resource calendar to the value in the correspo
 
 ## Remarks
 
-Applying the  **Default** method to a base calendar resets the properties to their default values.
+Applying the **Default** method to a base calendar resets the properties to their default values.
 
 

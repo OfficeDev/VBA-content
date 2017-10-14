@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.Add Method (Word)
 
-Returns a  **Window** object that represents a new window of a document.
+Returns a **Window** object that represents a new window of a document.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **Window** object that represents a new window of a document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Window_|Optional| **Variant**|The  **Window** object you want to open another window for. If this argument is omitted, a new window is opened for the active document.|
+| _Window_|Optional| **Variant**|The **Window** object you want to open another window for. If this argument is omitted, a new window is opened for the active document.|
 
 ### Return Value
 

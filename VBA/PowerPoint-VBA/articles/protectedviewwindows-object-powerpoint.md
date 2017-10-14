@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindows Object (PowerPoint)
 
-Represents a collection of  **ProtectedViewWindow** objects.
+Represents a collection of **ProtectedViewWindow** objects.
 
 
 ## See also

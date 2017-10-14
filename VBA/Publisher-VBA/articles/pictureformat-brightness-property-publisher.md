@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.Brightness Property (Publisher)
 
-Returns or sets a  **Single** indicating the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write.
+Returns or sets a **Single** indicating the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write.
 
 
 ## Syntax
 
  _expression_. **Brightness**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-Use the  **[IncrementBrightness](pictureformat-incrementbrightness-method-publisher.md)** method to incrementally adjust the brightness from its current level.
+Use the **[IncrementBrightness](pictureformat-incrementbrightness-method-publisher.md)** method to incrementally adjust the brightness from its current level.
 
 
 ## Example

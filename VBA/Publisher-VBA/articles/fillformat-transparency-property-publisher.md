@@ -18,7 +18,7 @@ Returns or sets the degree of transparency of the specified fill for a shape as 
 
  _expression_. **Transparency**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Return value
@@ -28,7 +28,7 @@ Returns or sets the degree of transparency of the specified fill for a shape as 
 
 ## Remarks
 
-The setting of the  **Transparency** property corresponds to the setting of the **Transparency** control in the Publisher user interface.
+The setting of the **Transparency** property corresponds to the setting of the **Transparency** control in the Publisher user interface.
 
 The value of this property affects the appearance of solid-colored fills only. It has no effect on the appearance of patterned, gradient, picture, or textured fills.
 

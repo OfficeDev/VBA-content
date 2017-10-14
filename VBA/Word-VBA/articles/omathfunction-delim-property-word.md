@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Delim Property (Word)
 
-Returns an  **[OMathDelim](omathdelim-object-word.md)** object that represents the delimiter function. Read-only.
+Returns an **[OMathDelim](omathdelim-object-word.md)** object that represents the delimiter function. Read-only.
 
 
 ## Syntax

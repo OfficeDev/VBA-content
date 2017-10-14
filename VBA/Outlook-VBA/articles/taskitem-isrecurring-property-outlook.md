@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.IsRecurring Property (Outlook)
 
-Returns a  **Boolean** value that is **True** if the task is a recurring task. Read-only.
+Returns a **Boolean** value that is **True** if the task is a recurring task. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** value that is **True** if the task is a recurring task. R
 
 ## Remarks
 
-When the  **[GetRecurrencePattern](taskitem-getrecurrencepattern-method-outlook.md)** method is used with a **[TaskItem](taskitem-object-outlook.md)** object, this property is set to **True** .
+When the **[GetRecurrencePattern](taskitem-getrecurrencepattern-method-outlook.md)** method is used with a **[TaskItem](taskitem-object-outlook.md)** object, this property is set to **True** .
 
 
 ## See also

@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # MailMergeFields Object (Word)
 
-A collection of  **[MailMergeField](mailmergefield-object-word.md)** objects that represent the mail merge related fields in a document.
+A collection of **[MailMergeField](mailmergefield-object-word.md)** objects that represent the mail merge related fields in a document.
 
 
 ## Remarks
 
-Use the  **Fields** property to return the **MailMergeFields** collection. The following example adds an ASK field after the last mail merge field in the active document.
+Use the **Fields** property to return the **MailMergeFields** collection. The following example adds an ASK field after the last mail merge field in the active document.
 
 
 ```
@@ -24,7 +24,7 @@ ActiveDocument.MailMerge.Fields.AddAsk Range:=Selection.Range, _
  Name:="Name", Prompt:="Type your name", AskOnce:=True
 ```
 
-Use the  **Add** method to add a merge field to the **MailMergeFields** collection. The following example replaces the selection with a **MiddleInitial** merge field.
+Use the **Add** method to add a merge field to the **MailMergeFields** collection. The following example replaces the selection with a **MiddleInitial** merge field.
 
 
 
@@ -34,7 +34,7 @@ ActiveDocument.MailMerge.Fields.Add Range:=Selection.Range, _
  Name:="MiddleInitial"
 ```
 
-Use  **Fields** (Index), where Index is the index number, to return a single **MailMergeField** object. The following example displays the field code of the first mail merge field in the active document.
+Use **Fields** (Index), where Index is the index number, to return a single **MailMergeField** object. The following example displays the field code of the first mail merge field in the active document.
 
 
 
@@ -43,7 +43,7 @@ Use  **Fields** (Index), where Index is the index number, to return a single **M
 MsgBox ActiveDocument.MailMerge.Fields(1).Code
 ```
 
-The  **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
+The **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
 
 
 ## Methods

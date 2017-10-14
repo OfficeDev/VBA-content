@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.AddBlogDocument Method (Word)
 
-Returns a  **Document** object that represents a new blog document that Microsoft Word publishes to the account described by the first three parameters.
+Returns a **Document** object that represents a new blog document that Microsoft Word publishes to the account described by the first three parameters.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ Returns a  **Document** object that represents a new blog document that Microsof
 | _ProviderID_|Required| **String**|A GUID that is the unique value a provider uses when they register themselves with Word.|
 | _PostURL_|Required| **String**|The URL that is used to add posts to the blog.|
 | _BlogName_|Required| **String**|A display name for the blog that will be used in Word.|
-| _PostID_|Optional| **String**|The ID for an existing post with which to populate the document created by using the  **AddBlogDocument** method.|
+| _PostID_|Optional| **String**|The ID for an existing post with which to populate the document created by using the **AddBlogDocument** method.|
 
 ## Remarks
 

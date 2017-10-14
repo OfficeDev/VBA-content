@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ReplaceShapesEvent.ObjectType Property (Visio)
 
-Returns  **visObjTypeReplaceShapesEvent**, the type of the specified  **ReplaceShapesEvent** object. Read-only.
+Returns **visObjTypeReplaceShapesEvent**, the type of the specified **ReplaceShapesEvent** object. Read-only.
 
 
 ## Syntax
@@ -20,7 +20,7 @@ Returns  **visObjTypeReplaceShapesEvent**, the type of the specified  **ReplaceS
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
 
 
 ## Property value

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Projects.Item Property (Project)
 
-Gets a single  **Project** object from the **Projects** collection. Read-only **Project**.
+Gets a single **Project** object from the **Projects** collection. Read-only **Project**.
 
 
 ## Syntax

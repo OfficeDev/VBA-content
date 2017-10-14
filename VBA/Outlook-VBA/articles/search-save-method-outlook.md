@@ -33,7 +33,7 @@ Saves the search results to a Search Folder.
 
 ## Remarks
 
-The  **Save** method displays an error if a Search Folder with the same name already exists.
+The **Save** method displays an error if a Search Folder with the same name already exists.
 
 
 ## Example

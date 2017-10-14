@@ -20,21 +20,21 @@ Occurs when reversing the last action that was undone.
 
  _expression_. **Redo**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Remarks
 
-The  **Redo** event occurs immediately after the action is redone.
+The **Redo** event occurs immediately after the action is redone.
 
-If multiple actions are redone, the  **Redo** event occurs only once, after all the actions are complete.
+If multiple actions are redone, the **Redo** event occurs only once, after all the actions are complete.
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+For more information about using events with the **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
 
 
 ## Example
 
-This example displays a message when a user clicks  **Undo** on the **Standard** toolbar or selects **Redo** from the **Edit** menu. For this routine to work with the current publication, you must put it in the ThisDocument module.
+This example displays a message when a user clicks **Undo** on the **Standard** toolbar or selects **Redo** from the **Edit** menu. For this routine to work with the current publication, you must put it in the ThisDocument module.
 
 
 ```vb

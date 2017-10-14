@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-For the  **StopAfterSlides** property setting to take effect, the **[PauseAnimation](playsettings-pauseanimation-property-powerpoint.md)** property of the specified slide must be set to **False**, and the **[PlayOnEntry](playsettings-playonentry-property-powerpoint.md)** property must be set to **True**.
+For the **StopAfterSlides** property setting to take effect, the **[PauseAnimation](playsettings-pauseanimation-property-powerpoint.md)** property of the specified slide must be set to **False**, and the **[PlayOnEntry](playsettings-playonentry-property-powerpoint.md)** property must be set to **True**.
 
 The media clip will stop playing when the specified number of slides have been displayed or when the clip comes to an end — whichever comes first. A value of 0 (zero) specifies that the clip will stop playing after the current slide.
 

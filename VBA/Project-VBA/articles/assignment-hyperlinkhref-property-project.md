@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.HyperlinkHREF Property (Project)
 
-Gets or sets a combination of the hyperlink address and subaddress, separated by a "#". Read/write  **String**.
+Gets or sets a combination of the hyperlink address and subaddress, separated by a "#". Read/write **String**.
 
 
 ## Syntax

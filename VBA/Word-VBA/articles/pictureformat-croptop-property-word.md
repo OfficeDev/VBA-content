@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.CropTop Property (Word)
 
-Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write  **Single** .
+Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the number of points that are cropped off the top of the specifi
 
 ## Remarks
 
-Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points high, rescale it so that it is 200 points high, and then set the  **CropTop** property to 50, 100 points (not 50) will be cropped off the top of your picture.
+Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points high, rescale it so that it is 200 points high, and then set the **CropTop** property to 50, 100 points (not 50) will be cropped off the top of your picture.
 
 
 ## Example

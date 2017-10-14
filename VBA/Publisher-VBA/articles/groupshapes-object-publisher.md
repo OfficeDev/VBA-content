@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # GroupShapes Object (Publisher)
 
-Represents the individual shapes within a grouped shape. Each shape is represented by a  **[Shape](shape-object-publisher.md)** object. Using the **[Item](groupshapes-item-method-publisher.md)** method with this object, you can work with single shapes within a group without having to ungroup them.
+Represents the individual shapes within a grouped shape. Each shape is represented by a **[Shape](shape-object-publisher.md)** object. Using the **[Item](groupshapes-item-method-publisher.md)** method with this object, you can work with single shapes within a group without having to ungroup them.
  
 
 
 ## Example
 
-Use the  **[GroupItems](shape-groupitems-property-publisher.md)** property to return a **GroupShapes** collection. Use **GroupItems** (index), where index is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to the active document, groups them, sets a color for the entire group, and then changes the color for the third triangle only.
+Use the **[GroupItems](shape-groupitems-property-publisher.md)** property to return a **GroupShapes** collection. Use **GroupItems** (index), where index is the number of the individual shape within the grouped shape, to return a single shape from the **GroupShapes** collection. The following example adds three triangles to the active document, groups them, sets a color for the entire group, and then changes the color for the third triangle only.
  
 
  

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.WebNavigationBarSets Property (Publisher)
 
-Returns a  **WebNavigationBarSets** object representing a collection of all **WebNavigationBarSet** objects in the specified document. Read-only.
+Returns a **WebNavigationBarSets** object representing a collection of all **WebNavigationBarSet** objects in the specified document. Read-only.
 
 
 ## Syntax
 
  _expression_. **WebNavigationBarSets**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

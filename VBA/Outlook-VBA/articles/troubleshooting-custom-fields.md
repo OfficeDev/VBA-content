@@ -18,15 +18,15 @@ Use the following troubleshooting tips to help troubleshoot problems with custom
 
 - Custom fields are stored in the folder in which you create them. Open the folder in which you created the custom field to see if it is visible. You must recreate a custom field for each folder in which you want to use it.
     
-- Custom fields are stored in the field set called  **User-defined** fields in the **Field Chooser** and in the **Show Fields** dialog box. To see all the custom fields in a folder, do the following:
+- Custom fields are stored in the field set called **User-defined** fields in the **Field Chooser** and in the **Show Fields** dialog box. To see all the custom fields in a folder, do the following:
     
       1. Open the folder.
     
-  2. On the  **View** menu, select **Current View**, and then click  **Customize Current View**.
+  2. On the **View** menu, select **Current View**, and then click **Customize Current View**.
     
-  3. In the  **Customize View** dialog box, click **Fields**.
+  3. In the **Customize View** dialog box, click **Fields**.
     
-  4. In the  **Select available fields from** box, click **User-defined fields in folder**.
+  4. In the **Select available fields from** box, click **User-defined fields in folder**.
     
  **Forms customized with form regions**
 

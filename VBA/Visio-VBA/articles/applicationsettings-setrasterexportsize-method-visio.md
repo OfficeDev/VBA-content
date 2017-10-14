@@ -67,6 +67,6 @@ The  _sizeUnits_ parameter must be one of the following **VisRasterExportSizeUni
 | **visRasterPixel**|0|Pixels|
 | **visRasterCm**|1|Centimeters|
 | **visRasterInch**|2|Inches|
-When the  **SetRasterExportSize** method runs successfully, the resulting settings will remain in effect until you either run the method again or change the settings in the user interface.
+When the **SetRasterExportSize** method runs successfully, the resulting settings will remain in effect until you either run the method again or change the settings in the user interface.
 
 

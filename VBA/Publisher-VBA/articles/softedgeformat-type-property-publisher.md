@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # SoftEdgeFormat.Type Property (Publisher)
 
-Returns or sets a  **Single** that represents the length of the radius for a soft edge effect. Read/write.
+Returns or sets a **Single** that represents the length of the radius for a soft edge effect. Read/write.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **SoftEdgeFormat** object.
+ _expression_A variable that represents a **SoftEdgeFormat** object.
 
 
 ## Return value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.Attributes Property (Word)
 
-Returns an  **XMLNodes** collection that represents the attributes for the specified element.
+Returns an **XMLNodes** collection that represents the attributes for the specified element.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **XMLNodes** collection that represents the attributes for the speci
 
 ## Remarks
 
-All  **XMLNode** objects in the **XMLNodes** collection returned by using the **Attributes** property have a **NodeType** property value of **wdXMLNodeAttribute** .
+All **XMLNode** objects in the **XMLNodes** collection returned by using the **Attributes** property have a **NodeType** property value of **wdXMLNodeAttribute** .
 
 
 ## Example

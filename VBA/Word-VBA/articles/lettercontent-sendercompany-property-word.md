@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.SenderCompany Property (Word)
 
-Returns or sets the company name of the person creating a letter with the Letter Wizard. Read/write  **String** .
+Returns or sets the company name of the person creating a letter with the Letter Wizard. Read/write **String** .
 
 
 ## Syntax

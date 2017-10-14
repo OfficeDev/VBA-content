@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Project internally sets the  **TimeLeadingZero** property equal to the corresponding value of the **Time format** drop-down list in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel.
+Project internally sets the **TimeLeadingZero** property equal to the corresponding value of the **Time format** drop-down list in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel.
 
 

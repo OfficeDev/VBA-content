@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientColorType Property (Publisher)
 
-Returns an  **MsoGradientColorType** constant indicating the gradient color type for the specified fill. Read-only.
+Returns an **MsoGradientColorType** constant indicating the gradient color type for the specified fill. Read-only.
 
 
 ## Syntax
 
  _expression_. **GradientColorType**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoGradientColorType
 
 ## Remarks
 
-Use the  [OneColorGradient](fillformat-onecolorgradient-method-publisher.md),  [PresetGradient](fillformat-presetgradient-method-publisher.md), or  **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient type for the fill.
+Use the  [OneColorGradient](fillformat-onecolorgradient-method-publisher.md),  [PresetGradient](fillformat-presetgradient-method-publisher.md), or **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient type for the fill.
 
-The  **GradientColorType** property value can be one of the ** [MsoGradientColorType](http://msdn.microsoft.com/library/0940fc83-d089-8b1d-dcf1-73773d0e21c5%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **GradientColorType** property value can be one of the ** [MsoGradientColorType](http://msdn.microsoft.com/library/0940fc83-d089-8b1d-dcf1-73773d0e21c5%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

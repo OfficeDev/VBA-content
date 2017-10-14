@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.Forward Method (Outlook)
 
-Executes the  **Forward** action for an item and returns the resulting copy as a **[MailItem](mailitem-object-outlook.md)** object.
+Executes the **Forward** action for an item and returns the resulting copy as a **[MailItem](mailitem-object-outlook.md)** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Executes the  **Forward** action for an item and returns the resulting copy as a
 
 ### Return Value
 
-A  **MailItem** object that represents the new mail item.
+A **MailItem** object that represents the new mail item.
 
 
 ## See also

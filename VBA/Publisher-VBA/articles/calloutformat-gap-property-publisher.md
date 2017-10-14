@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Gap Property (Publisher)
 
-Returns or sets a  **Variant** indicating the horizontal distance between the end of the callout line and the text bounding box. Read/write.
+Returns or sets a **Variant** indicating the horizontal distance between the end of the callout line and the text bounding box. Read/write.
 
 
 ## Syntax
 
  _expression_. **Gap**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Return Value

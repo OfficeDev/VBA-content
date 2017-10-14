@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisGeomFlags Enumeration (Visio)
 
-Flags to pass to methods of the  **Row** object that get and put vertex arrays, such as **GetPolylineData** .
+Flags to pass to methods of the **Row** object that get and put vertex arrays, such as **GetPolylineData** .
 
 
 

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **AttachedToText**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Example

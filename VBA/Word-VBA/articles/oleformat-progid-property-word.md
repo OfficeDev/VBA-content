@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.ProgID Property (Word)
 
-Returns the programmatic identifier (ProgID) for the specified OLE object. Read-only  **String** .
+Returns the programmatic identifier (ProgID) for the specified OLE object. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the programmatic identifier (ProgID) for the specified OLE object. Read-
 
 ## Remarks
 
-The  **ProgID** and **ClassType** properties will (by default) return the same string. However, you can change the **ClassType** property for DDE links.
+The **ProgID** and **ClassType** properties will (by default) return the same string. However, you can change the **ClassType** property for DDE links.
 
 
  **Security Note**  

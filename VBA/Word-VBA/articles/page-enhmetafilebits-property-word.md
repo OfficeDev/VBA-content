@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.EnhMetaFileBits Property (Word)
 
-Returns a  **Variant** that represents a picture representation of how a page of text appears. Read-only.
+Returns a **Variant** that represents a picture representation of how a page of text appears. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Variant** that represents a picture representation of how a page of
 
 ## Remarks
 
-The  **EnhMetaFileBits** property returns an array of bytes, which can be used with the Microsoft Windows 32 Application Programming Interface from within the Microsoft Visual Basic or Microsoft C++ development environment.
+The **EnhMetaFileBits** property returns an array of bytes, which can be used with the Microsoft Windows 32 Application Programming Interface from within the Microsoft Visual Basic or Microsoft C++ development environment.
 
 
 ## See also

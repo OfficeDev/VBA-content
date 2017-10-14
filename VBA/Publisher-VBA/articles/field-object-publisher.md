@@ -13,20 +13,20 @@ ms.date: 06/08/2017
 
 # Field Object (Publisher)
 
-Represents a field. The  **Field** object is a member of the **[Fields](fields-object-publisher.md)** collection. The **Fields** collection represents the fields in a selection, range, or publication.
+Represents a field. The **Field** object is a member of the **[Fields](fields-object-publisher.md)** collection. The **Fields** collection represents the fields in a selection, range, or publication.
  
 
 
 ## Remarks
 
-The  **pbFieldPageNumber** constant is a member of the **PbFieldType** group of constants, which includes all the various field types.
+The **pbFieldPageNumber** constant is a member of the **PbFieldType** group of constants, which includes all the various field types.
  
 
  
 
 ## Example
 
-Use  **[Fields](textrange-fields-property-publisher.md)** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following counts the number of fields in the active publication and displays the count in a message.
+Use **[Fields](textrange-fields-property-publisher.md)** (index), where index is the index number, to return a single **Field** object. The index number represents the position of the field in the selection, range, or publication. The following counts the number of fields in the active publication and displays the count in a message.
  
 
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.SubAddress Property (Word)
 
-Returns or sets a named location in the destination of the specified hyperlink. Read/write  **String** .
+Returns or sets a named location in the destination of the specified hyperlink. Read/write **String** .
 
 
 ## Syntax

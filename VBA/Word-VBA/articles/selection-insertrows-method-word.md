@@ -33,7 +33,7 @@ Inserts the specified number of new rows above the row that contains the selecti
 
 ## Remarks
 
-You can also insert rows by using the  **[Add](rows-add-method-word.md)** method of the **Rows** object.
+You can also insert rows by using the **[Add](rows-add-method-word.md)** method of the **Rows** object.
 
 
 ## Example

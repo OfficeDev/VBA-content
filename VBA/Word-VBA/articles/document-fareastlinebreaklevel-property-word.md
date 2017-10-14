@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FarEastLineBreakLevel Property (Word)
 
-Returns or sets a  **WdFarEastLineBreakLevel** that represents the line break control level for the specified document. Read/write.
+Returns or sets a **WdFarEastLineBreakLevel** that represents the line break control level for the specified document. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **WdFarEastLineBreakLevel** that represents the line break co
 
 ## Remarks
 
-This property is ignored if the  **FarEastLineBreakControl** property is set to **False** .
+This property is ignored if the **FarEastLineBreakControl** property is set to **False** .
 
 For more information on using Microsoft Word with East Asian languages, see Word features for East Asian languages .
 

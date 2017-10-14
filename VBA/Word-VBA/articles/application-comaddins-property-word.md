@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.COMAddIns Property (Word)
 
-Returns a reference to the  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently loaded in Microsoft Word.
+Returns a reference to the **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently loaded in Microsoft Word.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a reference to the  **COMAddIns** collection that represents all the Com
 
 ## Remarks
 
-COM add-ins are listed in the  **COM Add-Ins** dialog box.
+COM add-ins are listed in the **COM Add-Ins** dialog box.
 
 
 ## See also

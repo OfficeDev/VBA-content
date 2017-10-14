@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Baseline4BudgetWork Property (Project)
 
-Gets or sets the baseline4 budget work (in hours) for a  **Resource**. Read/write **Variant**.
+Gets or sets the baseline4 budget work (in hours) for a **Resource**. Read/write **Variant**.
 
 
 ## Syntax

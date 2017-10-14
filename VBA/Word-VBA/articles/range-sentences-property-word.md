@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Sentences Property (Word)
 
-Returns a  **Sentences** collection that represents all the sentences in the range. Read-only.
+Returns a **Sentences** collection that represents all the sentences in the range. Read-only.
 
 
 ## Syntax

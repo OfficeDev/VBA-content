@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **wdUndefined** if the **DisableCharacterSpaceGrid** property is set to **True** for only some of the specified font or range.
+Returns **wdUndefined** if the **DisableCharacterSpaceGrid** property is set to **True** for only some of the specified font or range.
 
 
 ## See also

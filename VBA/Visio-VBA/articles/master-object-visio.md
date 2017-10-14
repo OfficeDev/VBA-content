@@ -18,11 +18,11 @@ Represents a master in a stencil.
 
 ## Remarks
 
-You retrieve a particular  **Master** object from the **Masters** collection of a **Document** object whose stencil contains that master.
+You retrieve a particular **Master** object from the **Masters** collection of a **Document** object whose stencil contains that master.
 
-The default property of a  **Master** object is **Name**.
+The default property of a **Master** object is **Name**.
 
-To create an instance of a master in a drawing, use the  **Drop** method of a **Page** object that represents a drawing page.
+To create an instance of a master in a drawing, use the **Drop** method of a **Page** object that represents a drawing page.
 
 
 ## Events

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.FilePath Property (Outlook)
 
-Returns a  **String** representing the full file path for a Personal Folders File (.pst) or an Offline Folder File (.ost) store. Read-only.
+Returns a **String** representing the full file path for a Personal Folders File (.pst) or an Offline Folder File (.ost) store. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the full file path for a Personal Folders Fil
 
 ## Remarks
 
-This property supports both Exchange and non-Exchange stores. If the store is not a .pst or .ost store,  **FilePath** returns an empty string.
+This property supports both Exchange and non-Exchange stores. If the store is not a .pst or .ost store, **FilePath** returns an empty string.
 
 
 ## See also

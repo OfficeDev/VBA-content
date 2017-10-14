@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Initials Property (Project)
 
-Gets or sets the initials of a resource. Read/write  **String**.
+Gets or sets the initials of a resource. Read/write **String**.
 
 
 ## Syntax

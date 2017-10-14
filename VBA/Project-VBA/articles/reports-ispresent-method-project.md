@@ -33,7 +33,7 @@ Indicates whether the specified custom report exists in the project.
 
 ## Example
 
-The following example uses the  **IsPresent** method to determine whether a report exists and can be displayed.
+The following example uses the **IsPresent** method to determine whether a report exists and can be displayed.
 
 
 ```vb

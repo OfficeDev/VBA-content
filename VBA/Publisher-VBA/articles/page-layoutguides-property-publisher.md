@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.LayoutGuides Property (Publisher)
 
-Returns a  **[LayoutGuides](layoutguides-object-publisher.md)** object consisting of the margin and grid layout guides for all pages including master pages in the publication.
+Returns a **[LayoutGuides](layoutguides-object-publisher.md)** object consisting of the margin and grid layout guides for all pages including master pages in the publication.
 
 
 ## Syntax
 
  _expression_. **LayoutGuides**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ## Example

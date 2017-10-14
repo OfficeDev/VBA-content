@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.SentOn Property (Outlook)
 
-Returns a  **Date** indicating the date and time on which the Outlook item was sent. Read-only.
+Returns a **Date** indicating the date and time on which the Outlook item was sent. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Date** indicating the date and time on which the Outlook item was s
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagClientSubmitTime** .
+This property corresponds to the MAPI property **PidTagClientSubmitTime** .
 
 
 ## See also

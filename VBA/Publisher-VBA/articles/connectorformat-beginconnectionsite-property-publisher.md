@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.BeginConnectionSite Property (Publisher)
 
-Returns a  **Long** indicating the connection site to which the beginning of a connector is connected. Read-only.
+Returns a **Long** indicating the connection site to which the beginning of a connector is connected. Read-only.
 
 
 ## Syntax
 
  _expression_. **BeginConnectionSite**
 
- _expression_A variable that represents a  **ConnectorFormat** object.
+ _expression_A variable that represents a **ConnectorFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Long
 
 If the beginning of the specified connector isn't attached to a shape, this property generates an error.
 
-Use the  **[EndConnectionSite](connectorformat-endconnectionsite-property-publisher.md)** property to return the site to which the end of a connector is connected.
+Use the **[EndConnectionSite](connectorformat-endconnectionsite-property-publisher.md)** property to return the site to which the end of a connector is connected.
 
 
 ## Example

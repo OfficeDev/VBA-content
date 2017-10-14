@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.BorderArt Property (Publisher)
 
-Returns a  **[BorderArtFormat](borderartformat-object-publisher.md)** object that represents the BorderArt type applied to the specified shape. Returns "Permission Denied" if BorderArt has not been applied to the shape. Read-only.
+Returns a **[BorderArtFormat](borderartformat-object-publisher.md)** object that represents the BorderArt type applied to the specified shape. Returns "Permission Denied" if BorderArt has not been applied to the shape. Read-only.
 
 
 ## Syntax
 
  _expression_. **BorderArt**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ BorderArtFormat
 
 BorderArt are picture borders that can be applied to text boxes, picture frames, or rectangles. 
 
-Use the  **BorderArt** property to apply, change, and remove BorderArt from shapes in publications.
+Use the **BorderArt** property to apply, change, and remove BorderArt from shapes in publications.
 
 
 ## Example

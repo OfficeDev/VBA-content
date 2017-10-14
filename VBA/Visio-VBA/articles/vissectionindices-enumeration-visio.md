@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisSectionIndices Enumeration (Visio)
 
-Logical indices of ShapeSheet sections for  **Shape** or **Style** objects.
+Logical indices of ShapeSheet sections for **Shape** or **Style** objects.
 
 
 

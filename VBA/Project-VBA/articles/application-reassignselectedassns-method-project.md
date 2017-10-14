@@ -38,9 +38,9 @@ Reassigns the selected assignments in the Team Planner view.
 
 ## Remarks
 
-The  **ReassignSelectedAssns** method works only with the Team Planner view.
+The **ReassignSelectedAssns** method works only with the Team Planner view.
 
-If you use the Team Planner to drag an assignment from one resource to another while you are recording a macro, the macro does not show the results of the drag action. To record a macro that shows the  **ReassignSelectedAssns** method, you must right-click an assignment in the Team Planner, and then click **Reassign To** in the option menu.
+If you use the Team Planner to drag an assignment from one resource to another while you are recording a macro, the macro does not show the results of the drag action. To record a macro that shows the **ReassignSelectedAssns** method, you must right-click an assignment in the Team Planner, and then click **Reassign To** in the option menu.
 
 
 ## Example

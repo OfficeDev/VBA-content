@@ -18,7 +18,7 @@ Contains properties that apply specifically to placeholders, such as placeholder
 
 ## Example
 
-Use the [PlaceholderFormat](shape-placeholderformat-property-powerpoint.md)property to return a  **PlaceholderFormat** object. The following example adds text to placeholder one on slide one in the active presentation if that placeholder exists and is a horizontal title placeholder.
+Use the [PlaceholderFormat](shape-placeholderformat-property-powerpoint.md)property to return a **PlaceholderFormat** object. The following example adds text to placeholder one on slide one in the active presentation if that placeholder exists and is a horizontal title placeholder.
 
 
 ```vb

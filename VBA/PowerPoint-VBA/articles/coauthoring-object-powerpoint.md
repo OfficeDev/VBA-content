@@ -18,7 +18,7 @@ Contains properties and methods for manipulating co authoring in a presentation.
 
 ## Remarks
 
-The  **Presentation.Coauthoring** property returns a **Coauthoring** object.
+The **Presentation.Coauthoring** property returns a **Coauthoring** object.
 
 
 ## See also

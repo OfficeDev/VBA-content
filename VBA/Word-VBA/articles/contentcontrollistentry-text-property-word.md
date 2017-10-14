@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControlListEntry.Text Property (Word)
 
-Returns or sets a  **String** that represents the display text of a list item for a drop-down list or combo box content control. Read/write.
+Returns or sets a **String** that represents the display text of a list item for a drop-down list or combo box content control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the display text of a list item fo
 
 ## Remarks
 
-List entries must have unique display names. Attempting to change the  **Text** property to a string that already exists in the list of entries raises a run-time error.
+List entries must have unique display names. Attempting to change the **Text** property to a string that already exists in the list of entries raises a run-time error.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Windows Property (Project)
 
-Gets a  **[Windows](windows-object-project.md)** collection representing the open windows in the application. Read-only **Object**.
+Gets a **[Windows](windows-object-project.md)** collection representing the open windows in the application. Read-only **Object**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets a  **[Windows](windows-object-project.md)** collection representing the ope
 
 ## Remarks
 
-The  **Windows** property duplicates the **Windows2** property, except that it returns a **Windows** collection rather than a **Windows2** collection. The **[Windows2](application-windows2-property-project.md)** property and **[Windows2](windows2-object-project.md)** collection object are recommended for all new development both in VBA and for external applications developed with the .NET Framework. The **Windows** property and **Windows** collection are maintained for backward compatibility with existing applications.
+The **Windows** property duplicates the **Windows2** property, except that it returns a **Windows** collection rather than a **Windows2** collection. The **[Windows2](application-windows2-property-project.md)** property and **[Windows2](windows2-object-project.md)** collection object are recommended for all new development both in VBA and for external applications developed with the .NET Framework. The **Windows** property and **Windows** collection are maintained for backward compatibility with existing applications.
 
 
 ## Example

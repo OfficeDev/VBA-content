@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisTitle.VerticalAlignment Property (PowerPoint)
 
-Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
+Returns or sets the vertical alignment of the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,18 +25,18 @@ Returns or sets the vertical alignment of the specified object. Read/write  **Va
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants:
+The value of this property can be set to one of the following **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants:
 
 
--  **xlBottom**
+- **xlBottom**
     
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlTop**
+- **xlTop**
     
 
 ## See also

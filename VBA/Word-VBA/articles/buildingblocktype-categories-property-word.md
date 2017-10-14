@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlockType.Categories Property (Word)
 
-Returns a  **Categories** collection that represents the categories for a building block type. Read-only.
+Returns a **Categories** collection that represents the categories for a building block type. Read-only.
 
 
 ## Syntax

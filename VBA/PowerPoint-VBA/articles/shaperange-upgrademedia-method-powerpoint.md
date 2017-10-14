@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.UpgradeMedia Method (PowerPoint)
 
-Upgrades media within the specified  **ShapeRange** object.
+Upgrades media within the specified **ShapeRange** object.
 
 
 ## Syntax

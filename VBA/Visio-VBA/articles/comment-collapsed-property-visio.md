@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.Collapsed Property (Visio)
 
-Returns or sets whether the specified comment is collapsed. Read-write  **Boolean**.
+Returns or sets whether the specified comment is collapsed. Read-write **Boolean**.
 
 
 ## Syntax

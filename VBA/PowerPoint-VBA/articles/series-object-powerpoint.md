@@ -28,7 +28,7 @@ Represents a series in a chart.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use  **[SeriesCollection](http://msdn.microsoft.com/library/8adeb8b4-ba4f-6cdf-33bf-dceb1845dfb8%28Office.15%29.aspx)** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series of the first chart in the active document.
+Use **[SeriesCollection](http://msdn.microsoft.com/library/8adeb8b4-ba4f-6cdf-33bf-dceb1845dfb8%28Office.15%29.aspx)** ( _Index_ ), where _Index_ is the series index number or name, to return a single **Series** object. The following example sets the color of the interior for the first series of the first chart in the active document.
 
 The series index number indicates the order in which the series were added to the chart.  `SeriesCollection(1)` is the first series added to the chart, and `SeriesCollection(SeriesCollection.Count)` is the last one added.
 

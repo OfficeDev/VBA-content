@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.Comments Property (PowerPoint)
 
-Returns a  **[Comments](comments-object-powerpoint.md)** object that represents a collection of comments. Read-only.
+Returns a **[Comments](comments-object-powerpoint.md)** object that represents a collection of comments. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DefaultTabStop Property (Word)
 
-Returns or sets the interval (in points) between the default tab stops in the specified document. Read/write  **Single** .
+Returns or sets the interval (in points) between the default tab stops in the specified document. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the interval (in points) between the default tab stops in the sp
 
 ## Example
 
-This example sets the default tab stops in the active document to 1 inch. The  **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
+This example sets the default tab stops in the active document to 1 inch. The **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
 
 
 ```vb

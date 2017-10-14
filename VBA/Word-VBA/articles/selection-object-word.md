@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Selection Object (Word)
 
-Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the document, or it represents the insertion point if nothing in the document is selected. There can be only one  **Selection** object per document window pane, and only one **Selection** object in the entire application can be active.
+Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the document, or it represents the insertion point if nothing in the document is selected. There can be only one **Selection** object per document window pane, and only one **Selection** object in the entire application can be active.
 
 
 ## Remarks
 
-Use the  **Selection** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Word returns the selection from the active pane of the active document window. The following example copies the current selection from the active document.
+Use the **Selection** property to return the **Selection** object. If no object qualifier is used with the **Selection** property, Microsoft Word returns the selection from the active pane of the active document window. The following example copies the current selection from the active document.
 
 
 ```
 Selection.Copy
 ```
 
-The following example deletes the selection from the third document in the  **Documents** collection. The document does not have to be active to access its current selection.
+The following example deletes the selection from the third document in the **Documents** collection. The document does not have to be active to access its current selection.
 
 
 
@@ -44,7 +44,7 @@ ActiveDocument.ActiveWindow.Panes(1).Selection.Copy
 ActiveDocument.ActiveWindow.Panes(2).Selection.Paste
 ```
 
-The  **Text** property is the default property of the **Selection** object. Use this property to set or return the text in the current selection. The following example assigns the text in the current selection to the variable `strTemp`, removing the last character if it is a paragraph mark.
+The **Text** property is the default property of the **Selection** object. Use this property to set or return the text in the current selection. The following example assigns the text in the current selection to the variable `strTemp`, removing the last character if it is a paragraph mark.
 
 
 
@@ -57,7 +57,7 @@ If Right(strTemp, 1) = vbCr Then _
  strTemp = Left(strTemp, Len(strTemp) - 1)
 ```
 
-The  **Selection** object has various methods and properties with which you can collapse, expand, or otherwise change the current selection. The following example moves the insertion point to the end of the document and selects the last three lines.
+The **Selection** object has various methods and properties with which you can collapse, expand, or otherwise change the current selection. The following example moves the insertion point to the end of the document and selects the last three lines.
 
 
 
@@ -68,7 +68,7 @@ Selection.HomeKey Unit:=wdLine, Extend:=wdExtend
 Selection.MoveUp Unit:=wdLine, Count:=2, Extend:=wdExtend
 ```
 
-The  **Selection** object has various methods and properties with which you can edit selected text in a document. The following example selects the first sentence in the active document and replaces it with a new paragraph.
+The **Selection** object has various methods and properties with which you can edit selected text in a document. The following example selects the first sentence in the active document and replaces it with a new paragraph.
 
 
 
@@ -80,7 +80,7 @@ Selection.TypeText "Material below is confidential."
 Selection.TypeParagraph
 ```
 
-The following example deletes the last paragraph of the first document in the  **Documents** collection and pastes it at the beginning of the second document.
+The following example deletes the last paragraph of the first document in the **Documents** collection and pastes it at the beginning of the second document.
 
 
 
@@ -97,7 +97,7 @@ With Documents(2).ActiveWindow.Selection
 End With
 ```
 
-The  **Selection** object has various methods and properties with which you can change the formatting of the current selection. The following example changes the font of the current selection from Times New Roman to Tahoma.
+The **Selection** object has various methods and properties with which you can change the formatting of the current selection. The following example changes the font of the current selection from Times New Roman to Tahoma.
 
 
 
@@ -107,7 +107,7 @@ If Selection.Font.Name = "Times New Roman" Then _
  Selection.Font.Name = "Tahoma"
 ```
 
-Use properties like  **Flags**, **Information**, and **Type** to return information about the current selection. You can use the following example in a procedure to determine whether there is anything selected in the active document; if there is not, the rest of the procedure is skipped.
+Use properties like **Flags**, **Information**, and **Type** to return information about the current selection. You can use the following example in a procedure to determine whether there is anything selected in the active document; if there is not, the rest of the procedure is skipped.
 
 
 
@@ -119,9 +119,9 @@ If Selection.Type = wdSelectionIP Then
 End If
 ```
 
-Even when a selection is collapsed to an insertion point, it is not necessarily empty. For example, the  **Text** property will still return the character to the right of the insertion point; this character also appears in the **Characters** collection of the **Selection** object. However, calling methods like **Cut** or **Copy** from a collapsed selection causes an error.
+Even when a selection is collapsed to an insertion point, it is not necessarily empty. For example, the **Text** property will still return the character to the right of the insertion point; this character also appears in the **Characters** collection of the **Selection** object. However, calling methods like **Cut** or **Copy** from a collapsed selection causes an error.
 
-It is possible for the user to select a region in a document that does not represent contiguous text (for example, when using the ALT key with the mouse). Because the behavior of such a selection can be unpredictable, you may want to include a step in your code that checks the  **Type** property of a selection before performing any operations on it ( `Selection.Type = wdSelectionBlock`). Similarly, selections that include table cells can also lead to unpredictable behavior. The  **Information** property will tell you if a selection is inside a table ( `Selection.Information(wdWithinTable) = True`). The following example determines if a selection is normal (for example, it is not a row or column in a table, it is not a vertical block of text); you could use it to test the current selection before performing any operations on it.
+It is possible for the user to select a region in a document that does not represent contiguous text (for example, when using the ALT key with the mouse). Because the behavior of such a selection can be unpredictable, you may want to include a step in your code that checks the **Type** property of a selection before performing any operations on it ( `Selection.Type = wdSelectionBlock`). Similarly, selections that include table cells can also lead to unpredictable behavior. The **Information** property will tell you if a selection is inside a table ( `Selection.Information(wdWithinTable) = True`). The following example determines if a selection is normal (for example, it is not a row or column in a table, it is not a vertical block of text); you could use it to test the current selection before performing any operations on it.
 
 
 
@@ -133,7 +133,7 @@ If Selection.Type <> wdSelectionNormal Then
 End If
 ```
 
-Because  **Range** objects share many of the same methods and properties as **Selection** objects, using **Range** objects is preferable for manipulating a document when there is not a reason to physically change the current selection. For more information about **Selection** and **Range** objects, see [Working with the Selection object](http://msdn.microsoft.com/library/a1ef7e48-5a0f-d278-4b67-7b96f4e24052%28Office.15%29.aspx) and [Working with Range objects](http://msdn.microsoft.com/library/9e240aa7-8608-9d70-aee3-2e202687459e%28Office.15%29.aspx).
+Because **Range** objects share many of the same methods and properties as **Selection** objects, using **Range** objects is preferable for manipulating a document when there is not a reason to physically change the current selection. For more information about **Selection** and **Range** objects, see [Working with the Selection object](http://msdn.microsoft.com/library/a1ef7e48-5a0f-d278-4b67-7b96f4e24052%28Office.15%29.aspx) and [Working with Range objects](http://msdn.microsoft.com/library/9e240aa7-8608-9d70-aee3-2e202687459e%28Office.15%29.aspx).
 
 
 ## Methods

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.TimeSeparator Property (Project)
 
-Gets the time separator character. Read-only  **String**.
+Gets the time separator character. Read-only **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the time separator character. Read-only  **String**.
 
 ## Remarks
 
-Project internally sets the  **TimeSeparator** property equal to the value shown in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel. The value for U.S. English is a colon (":").
+Project internally sets the **TimeSeparator** property equal to the value shown in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel. The value for U.S. English is a colon (":").
 
 

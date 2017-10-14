@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Width Property (Project)
-Gets or sets the width, in points, of the shapes within the range. Read/write  **Long**.
+Gets or sets the width, in points, of the shapes within the range. Read/write **Long**.
 
 ## Syntax
 

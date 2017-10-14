@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.Zooms Property (Word)
 
-Returns a  **[Zooms](zooms-object-word.md)** collection that represents the magnification options for each view (such as normal view, outline view or print layout view).
+Returns a **[Zooms](zooms-object-word.md)** collection that represents the magnification options for each view (such as normal view, outline view or print layout view).
 
 
 ## Syntax

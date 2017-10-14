@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbFixedFormatIntent Enumeration (Publisher)
 
-Constants passed to the  **[ExportAsFixedFormat](document-exportasfixedformat-method-publisher.md)** method that specify how the user intends to share the resulting file.
+Constants passed to the **[ExportAsFixedFormat](document-exportasfixedformat-method-publisher.md)** method that specify how the user intends to share the resulting file.
 
 
 

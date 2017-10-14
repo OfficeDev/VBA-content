@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.TransferSize Property (Outlook)
 
-Returns a  **Long** specifying the transfer size (in bytes) for the remote item. Read-only.
+Returns a **Long** specifying the transfer size (in bytes) for the remote item. Read-only.
 
 
 ## Syntax

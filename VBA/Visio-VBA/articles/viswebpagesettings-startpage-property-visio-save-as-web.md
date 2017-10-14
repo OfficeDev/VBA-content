@@ -17,7 +17,7 @@ Specifies the page number of the first page in the range when you save a range o
 
  _expression_. **StartPage**
 
- _expression_An expression that returns a  ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
+ _expression_An expression that returns a ** [VisWebPageSettings](http://msdn.microsoft.com/library/14280ea7-e8b1-d4b2-941b-121f2c17f787%28Office.15%29.aspx)** object.
 
 
 ### Return Value
@@ -27,14 +27,14 @@ Specifies the page number of the first page in the range when you save a range o
 
 ## Remarks
 
-The end page number is specified in the  **[EndPage](viswebpagesettings-endpage-property-visio-save-as-web.md)** property.
+The end page number is specified in the **[EndPage](viswebpagesettings-endpage-property-visio-save-as-web.md)** property.
 
-The  **StartPage** property value corresponds to the value in the **From** box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Publish**).
+The **StartPage** property value corresponds to the value in the **From** box on the **General** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the **Save as type** list, select **Web Page (*.htm;*.html)**, and then click **Publish**).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **StartPage** property to save a range of pages in a drawing (in this case, from page 2 to page 3) as a Web page instead of the complete drawing.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **StartPage** property to save a range of pages in a drawing (in this case, from page 2 to page 3) as a Web page instead of the complete drawing.
 
 This macro assumes that the current Microsoft Visio drawing contains at least three pages.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserDefinedProperty.Formula Property (Outlook)
 
-Returns a  **String** value that represents the formula for the **UserDefinedProperty** object. Read-only.
+Returns a **String** value that represents the formula for the **UserDefinedProperty** object. Read-only.
 
 
 ## Syntax

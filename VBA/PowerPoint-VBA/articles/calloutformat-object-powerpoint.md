@@ -18,7 +18,7 @@ Contains properties and methods that apply to line callouts.
 
 ## Example
 
-Use the  **Callout** property to return a **CalloutFormat** object. The following example specify the following attributes of shape three (a line callout) on `myDocument`:
+Use the **Callout** property to return a **CalloutFormat** object. The following example specify the following attributes of shape three (a line callout) on `myDocument`:
 
 
 - The callout will have a vertical accent bar that separates the text from the callout line.

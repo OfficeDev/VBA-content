@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Window.WindowState Property (Publisher)
 
-Returns or sets a  **PbWindowState** constant indicating the state of the Microsoft Publisher window. Read/write.
+Returns or sets a **PbWindowState** constant indicating the state of the Microsoft Publisher window. Read/write.
 
 
 ## Syntax
 
  _expression_. **WindowState**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ### Return Value
@@ -30,14 +30,14 @@ PbWindowState
 
 ## Remarks
 
-The  **WindowState** property value can be one of these **PbWindowState** constants.
+The **WindowState** property value can be one of these **PbWindowState** constants.
 
 
 
 | **pbWindowStateMaximize**|
 | **pbWindowStateMinimize**|
 | **pbWindowStateNormal**|
-When the state of the window is  **pbWindowStateNormal**, the window is neither maximized nor minimized.
+When the state of the window is **pbWindowStateNormal**, the window is neither maximized nor minimized.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.MainDocumentType Property (Word)
 
-Returns or sets the mail merge main document type. Read/write  **WdMailMergeMainDocType** .
+Returns or sets the mail merge main document type. Read/write **WdMailMergeMainDocType** .
 
 
 ## Syntax

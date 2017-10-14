@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Series.IsFiltered Property (PowerPoint)
 
-Returns or sets a  **Boolean** that determines whether the specified chart series is filtered out from the chart. Read-write.
+Returns or sets a **Boolean** that determines whether the specified chart series is filtered out from the chart. Read-write.
 
 
 ## Syntax

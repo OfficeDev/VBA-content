@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddCurve Method (PowerPoint)
 
-Creates a B?zier curve. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new curve.
+Creates a B?zier curve. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new curve.
 
 
 ## Syntax

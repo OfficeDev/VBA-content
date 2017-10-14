@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **MatchWildcards** property corresponds to the **Use wildcards** check box in the **Find and Replace** dialog box ( **Edit** menu).
+The **MatchWildcards** property corresponds to the **Use wildcards** check box in the **Find and Replace** dialog box ( **Edit** menu).
 
-Use the  **[Text](find-text-property-word.md)** property of the **Find** object or use the FindText argument with the **[Execute](find-execute-method-word.md)** method to specify the text to be located in a document.
+Use the **[Text](find-text-property-word.md)** property of the **Find** object or use the FindText argument with the **[Execute](find-execute-method-word.md)** method to specify the text to be located in a document.
 
 
 ## Example

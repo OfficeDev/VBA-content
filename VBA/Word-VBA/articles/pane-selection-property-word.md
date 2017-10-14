@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.Selection Property (Word)
 
-Returns the  **Selection** object that represents a selection or the insertion point within a document pane. Read-only.
+Returns the **Selection** object that represents a selection or the insertion point within a document pane. Read-only.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CostRateTables.Item Property (Project)
 
-Gets a single  **CostRateTable** object from the **CostRateTables** collection. Read-only **CostRateTable**.
+Gets a single **CostRateTable** object from the **CostRateTables** collection. Read-only **CostRateTable**.
 
 
 ## Syntax

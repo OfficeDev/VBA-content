@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.UpperHeadingLevel Property (Word)
 
-Returns or sets the starting heading level for a table of figures. Read/write  **Long** .
+Returns or sets the starting heading level for a table of figures. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the starting heading level for a table of figures. Read/write  *
 
 ## Remarks
 
-This property corresponds to the starting value used with the \o switch for a Table of Contents (TOC) field. Use the  **[LowerHeadingLevel](tableoffigures-lowerheadinglevel-property-word.md)** property to set the ending heading level. For example, to set the TOC field syntax {TOC \o "1-3"}, set the **LowerHeadingLevel** property to 3 and the **UpperHeadingLevel** property to 1.
+This property corresponds to the starting value used with the \o switch for a Table of Contents (TOC) field. Use the **[LowerHeadingLevel](tableoffigures-lowerheadinglevel-property-word.md)** property to set the ending heading level. For example, to set the TOC field syntax {TOC \o "1-3"}, set the **LowerHeadingLevel** property to 3 and the **UpperHeadingLevel** property to 1.
 
 
 ## Example

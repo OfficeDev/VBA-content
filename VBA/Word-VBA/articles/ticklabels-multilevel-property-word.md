@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.MultiLevel Property (Word)
 
-Returns or sets a value that indicates whether an axis is multilevel. Read/write  **Boolean** .
+Returns or sets a value that indicates whether an axis is multilevel. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a value that indicates whether an axis is multilevel. Read/write
 
 ## Remarks
 
-The default value for this property is  **True** .
+The default value for this property is **True** .
 
 
 ## See also

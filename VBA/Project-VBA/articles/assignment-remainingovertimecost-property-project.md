@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.RemainingOvertimeCost Property (Project)
 
-Gets the remaining overtime cost for the assignment. Read-only  **Variant**.
+Gets the remaining overtime cost for the assignment. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the remaining overtime cost for the assignment. Read-only  **Variant**.
 
 ## Remarks
 
-For a code example that uses a  **Task** object, see **[RemainingOvertimeCost](task-remainingovertimecost-property-project.md)**.
+For a code example that uses a **Task** object, see **[RemainingOvertimeCost](task-remainingovertimecost-property-project.md)**.
 
 

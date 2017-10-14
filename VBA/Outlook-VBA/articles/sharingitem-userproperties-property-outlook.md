@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.UserProperties Property (Outlook)
 
-Returns the  **[UserProperties](userproperties-object-outlook.md)** collection that represents all the user properties for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns the **[UserProperties](userproperties-object-outlook.md)** collection that represents all the user properties for the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax

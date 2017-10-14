@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **Zoom** property value can be from 10 to 400 percent.
+The **Zoom** property value can be from 10 to 400 percent.
 
 
 ## See also

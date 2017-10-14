@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ProtectionType Property (Word)
 
-Returns the protection type for the specified document. Can be one of the following  **WdProtectionType** constants: **wdAllowOnlyComments** , **wdAllowOnlyFormFields** , **wdAllowOnlyReading** , **wdAllowOnlyRevisions** , or **wdNoProtection** .
+Returns the protection type for the specified document. Can be one of the following **WdProtectionType** constants: **wdAllowOnlyComments** , **wdAllowOnlyFormFields** , **wdAllowOnlyReading** , **wdAllowOnlyRevisions** , or **wdNoProtection** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LinkFormat.SourceName Property (Word)
 
-Returns the name of the source file for the specified linked OLE object, picture, or field. Read-only  **String** .
+Returns the name of the source file for the specified linked OLE object, picture, or field. Read-only **String** .
 
 
 ## Syntax

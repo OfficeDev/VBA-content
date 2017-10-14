@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorUnitScale Property (Word)
 
-Returns or sets the minor unit scale value for the category axis when the  **[CategoryType](axis-categorytype-property-word.md)** property is set to **xlTimeScale** . Read/write **[XlTimeUnit](xltimeunit-enumeration-word.md)** .
+Returns or sets the minor unit scale value for the category axis when the **[CategoryType](axis-categorytype-property-word.md)** property is set to **xlTimeScale** . Read/write **[XlTimeUnit](xltimeunit-enumeration-word.md)** .
 
 
 ## Syntax
@@ -28,11 +28,11 @@ Returns or sets the minor unit scale value for the category axis when the  **[Ca
  **MinorUnitScale** can be one of the following **XlTimeUnit** constants:
 
 
--  **xlMonths**
+- **xlMonths**
     
--  **xlDays**
+- **xlDays**
     
--  **xlYears**
+- **xlYears**
     
 
 ## Example

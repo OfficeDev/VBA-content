@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathScrSubSup.RemoveSub Method (Word)
 
-Removes the subscript for an equation and returns an  **OMathFunction** object that represents the updated equation without the subscript.
+Removes the subscript for an equation and returns an **OMathFunction** object that represents the updated equation without the subscript.
 
 
 ## Syntax

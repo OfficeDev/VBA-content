@@ -20,7 +20,7 @@ Occurs after each record in the data source successfully merges in a mail merge.
 
  _expression_. **MailMergeAfterRecordMerge**( **_Doc_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -33,9 +33,9 @@ Occurs after each record in the data source successfully merges in a mail merge.
 
 ## Remarks
 
-If you maintain a customer management database, you can use the  **MailMergeAfterRecordMerge** event to update the database for each merged record.
+If you maintain a customer management database, you can use the **MailMergeAfterRecordMerge** event to update the database for each merged record.
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.OMathJc Property (Word)
 
-Returns or sets a  **[WdOMathJc](wdomathjc-enumeration-word.md)** constant that represents the default justification—left, right, centered, or centered as a group—of a group of equations. Read/write.
+Returns or sets a **[WdOMathJc](wdomathjc-enumeration-word.md)** constant that represents the default justification—left, right, centered, or centered as a group—of a group of equations. Read/write.
 
 
 ## Syntax

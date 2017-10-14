@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.IsGroupMember Property (Publisher)
 
-Returns  **True** if the specified shape is a member of a group, **False** otherwise. Read-only **Boolean**.
+Returns **True** if the specified shape is a member of a group, **False** otherwise. Read-only **Boolean**.
 
 
 ## Syntax
 
  _expression_. **IsGroupMember**
 
- _expression_A variable that represents an  **Shape** object.
+ _expression_A variable that represents an **Shape** object.
 
 
 ### Return Value
@@ -30,12 +30,12 @@ Boolean
 
 ## Remarks
 
-The object returned by the  **ParentGroupShape** property can be used to determine the parent shape for the group.
+The object returned by the **ParentGroupShape** property can be used to determine the parent shape for the group.
 
 
 ## Example
 
-The following statement can be used to return a  **True** value if the first shape of the active publication is a group member.
+The following statement can be used to return a **True** value if the first shape of the active publication is a group member.
 
 
 ```

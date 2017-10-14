@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **DisableFeaturesByDefault** property sets a global option for the application. If you want to disable features introduced after Word 97 for Windows for the document only, use the **[DisableFeatures](document-disablefeatures-property-word.md)** property.
+The **DisableFeaturesByDefault** property sets a global option for the application. If you want to disable features introduced after Word 97 for Windows for the document only, use the **[DisableFeatures](document-disablefeatures-property-word.md)** property.
 
 
 ## Example

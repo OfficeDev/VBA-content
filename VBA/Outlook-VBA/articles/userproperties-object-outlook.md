@@ -13,20 +13,20 @@ ms.date: 06/08/2017
 
 # UserProperties Object (Outlook)
 
-Contains  **[UserProperty](userproperty-object-outlook.md)** objects that represent the custom properties of an Outlook item.
+Contains **[UserProperty](userproperty-object-outlook.md)** objects that represent the custom properties of an Outlook item.
 
 
 ## Remarks
 
-Use the  **UserProperties** property to return the **UserProperties** object for an Outlook item. This applies to all Outlook items except for the **[NoteItem](http://msdn.microsoft.com/library/ddf5baaa-6e13-a6fb-96e8-311e7761fa98%28Office.15%29.aspx)**.
+Use the **UserProperties** property to return the **UserProperties** object for an Outlook item. This applies to all Outlook items except for the **[NoteItem](http://msdn.microsoft.com/library/ddf5baaa-6e13-a6fb-96e8-311e7761fa98%28Office.15%29.aspx)**.
 
-Use the  **[Add](http://msdn.microsoft.com/library/88b86622-2234-77be-41e7-b76b0b3a75ad%28Office.15%29.aspx)** method to create a new **UserProperty** for an item and add it to the **UserProperties** object. The **Add** method allows you to specify a name and type for the new property. When you create a new property, it can also be added as a custom field to the folder that contains the item (using the same name as the property) by setting the _AddToFolderFields_ parameter to **True** when calling the **Add** method. That field can then be used as a column in folder views.
+Use the **[Add](http://msdn.microsoft.com/library/88b86622-2234-77be-41e7-b76b0b3a75ad%28Office.15%29.aspx)** method to create a new **UserProperty** for an item and add it to the **UserProperties** object. The **Add** method allows you to specify a name and type for the new property. When you create a new property, it can also be added as a custom field to the folder that contains the item (using the same name as the property) by setting the _AddToFolderFields_ parameter to **True** when calling the **Add** method. That field can then be used as a column in folder views.
 
-Use  **UserProperties** ( _index_ ), where _index_ is a name or one-based index number, to return a single **[UserProperty](userproperty-object-outlook.md)** object.
+Use **UserProperties** ( _index_ ), where _index_ is a name or one-based index number, to return a single **[UserProperty](userproperty-object-outlook.md)** object.
 
-You can use the  **[UserDefinedProperties](http://msdn.microsoft.com/library/4293bcb8-855e-4c6d-9718-ba8c5862b3bd%28Office.15%29.aspx)** property of the **[Folder](folder-object-outlook.md)** object to retrieve and examine the definitions of custom item-level properties that a folder can display in a view.
+You can use the **[UserDefinedProperties](http://msdn.microsoft.com/library/4293bcb8-855e-4c6d-9718-ba8c5862b3bd%28Office.15%29.aspx)** property of the **[Folder](folder-object-outlook.md)** object to retrieve and examine the definitions of custom item-level properties that a folder can display in a view.
 
-To get or set multiple custom properties, use the  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object instead of the **UserProperties** object for better performance.
+To get or set multiple custom properties, use the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object instead of the **UserProperties** object for better performance.
 
 
 ## Example

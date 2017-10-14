@@ -25,7 +25,7 @@ Removes one level of indent for one or more paragraphs.
 
 ## Remarks
 
-This method is equivalent to clicking the  **Decrease Indent** button on the **Formatting** toolbar.
+This method is equivalent to clicking the **Decrease Indent** button on the **Formatting** toolbar.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Year.Calendar Property (Project)
 
-Gets a  **[Calendar](calendar-object-project.md)** object representing the calendar containing the **Year** object. Read-only **Calendar**.
+Gets a **[Calendar](calendar-object-project.md)** object representing the calendar containing the **Year** object. Read-only **Calendar**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets a  **[Calendar](calendar-object-project.md)** object representing the calen
 
 ## Remarks
 
-For an example that resets the project calendar, see the  **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
+For an example that resets the project calendar, see the **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
 
 

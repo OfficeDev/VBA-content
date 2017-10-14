@@ -20,7 +20,7 @@ Sets the target type for the specified hyperlink.
 
  _expression_. **SetPageRelative**( **_RelativePage_**)
 
- _expression_A variable that represents a  **Hyperlink** object.
+ _expression_A variable that represents a **Hyperlink** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the target type for the specified hyperlink.
 
 ## Remarks
 
-The RelativePage parameter can be one of the following  **PbHlinkTargetType** constants declared in the Microsoft Publisher type library.
+The RelativePage parameter can be one of the following **PbHlinkTargetType** constants declared in the Microsoft Publisher type library.
 
 
 

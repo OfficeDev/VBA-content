@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataFields.Item Method (Publisher)
 
-Returns a  **[MailMergeDataField](mailmergedatafield-object-publisher.md)** object from the specified **MailMergeDataFields** object.
+Returns a **[MailMergeDataField](mailmergedatafield-object-publisher.md)** object from the specified **MailMergeDataFields** object.
 
 
 ## Syntax
 
  _expression_. **Item**( **_varIndex_**)
 
- _expression_A variable that represents a  **MailMergeDataFields** object.
+ _expression_A variable that represents a **MailMergeDataFields** object.
 
 
 ### Parameters

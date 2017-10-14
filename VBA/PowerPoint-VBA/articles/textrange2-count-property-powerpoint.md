@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Count Property (PowerPoint)
 
-Gets a  **Long** indicating the number of items in the **TextRange2** collection. Read-only.
+Gets a **Long** indicating the number of items in the **TextRange2** collection. Read-only.
 
 
 ## Syntax

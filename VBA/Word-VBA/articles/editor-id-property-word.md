@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Editor.ID Property (Word)
 
-Returns or sets the identifying label for the specified object when the parent document is saved as a Web page. Read-only  **String** .
+Returns or sets the identifying label for the specified object when the parent document is saved as a Web page. Read-only **String** .
 
 
 ## Syntax

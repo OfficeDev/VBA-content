@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeekDay.Name Property (Project)
 
-Gets the name of a  **WorkWeekDay** object representing a day in a work week. Read/write **String**.
+Gets the name of a **WorkWeekDay** object representing a day in a work week. Read/write **String**.
 
 
 ## Syntax
@@ -24,7 +24,7 @@ Gets the name of a  **WorkWeekDay** object representing a day in a work week. Re
 
  **Name** is the default property of the **WorkWeekDay** object.
 
-For a code example that uses the  **Task** object, see **[Name](task-name-property-project.md)**.
+For a code example that uses the **Task** object, see **[Name](task-name-property-project.md)**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Text Property (Word)
 
-Returns or sets the text in the specified range or selection. Read/write  **String** . Read/write **String** .
+Returns or sets the text in the specified range or selection. Read/write **String** . Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the text in the specified range or selection. Read/write  **Stri
 
 ## Remarks
 
-The  **Text** property returns the plain, unformatted text of the range. When you set this property, the existing text in the range is replaced.
+The **Text** property returns the plain, unformatted text of the range. When you set this property, the existing text in the range is replaced.
 
 
 ## Example

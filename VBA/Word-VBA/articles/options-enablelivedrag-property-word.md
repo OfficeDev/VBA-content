@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Options.EnableLiveDrag Property (Word)
 
-Returns or sets a  **Boolean** that is **True** if live drag is enabled. Read-write.
+Returns or sets a **Boolean** that is **True** if live drag is enabled. Read-write.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** that is **True** if live drag is enabled. Read-wr
 
 ## Remarks
 
-Setting  **EnableLiveDrag** to True is the equivalent of selecting **Update document content while dragging** under **User Interface options** on the **General** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
+Setting **EnableLiveDrag** to True is the equivalent of selecting **Update document content while dragging** under **User Interface options** on the **General** tab of the **Word Options** dialog box. (Choose **Options** on the **File** tab.)
 
 
 ## Property value

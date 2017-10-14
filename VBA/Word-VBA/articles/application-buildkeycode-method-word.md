@@ -29,8 +29,8 @@ Returns a unique number for the specified key combination.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **[WdKey](wdkey-enumeration-word.md)**|A key you specify by using one of the  **WdKey** constants.|
-| _Arg2 - Arg4_|Optional| **[WdKey](wdkey-enumeration-word.md)**|A key you specify by using one of the  **WdKey** constants.|
+| _Arg1_|Required| **[WdKey](wdkey-enumeration-word.md)**|A key you specify by using one of the **WdKey** constants.|
+| _Arg2 - Arg4_|Optional| **[WdKey](wdkey-enumeration-word.md)**|A key you specify by using one of the **WdKey** constants.|
 
 ## Example
 

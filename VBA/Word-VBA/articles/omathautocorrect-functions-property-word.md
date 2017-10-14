@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrect.Functions Property (Word)
 
-Returns an  **[OMathRecognizedFunctions](omathrecognizedfunctions-object-word.md)** collection that represents the recognized functions that are automatically corrected using the equation autocorrect feature. Read-only.
+Returns an **[OMathRecognizedFunctions](omathrecognizedfunctions-object-word.md)** collection that represents the recognized functions that are automatically corrected using the equation autocorrect feature. Read-only.
 
 
 ## Syntax

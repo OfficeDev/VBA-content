@@ -30,8 +30,8 @@ Resets the current view back to the global view definition.
 
 ## Remarks
 
-The  **ViewReset** method displays a dialog box that asks if you are sure you want to continue. Custom formatting, filters, and grouping updates are removed if they are not in the global copy of the view, but the project data is not affected. The **ViewReset** action cannot be undone.
+The **ViewReset** method displays a dialog box that asks if you are sure you want to continue. Custom formatting, filters, and grouping updates are removed if they are not in the global copy of the view, but the project data is not affected. The **ViewReset** action cannot be undone.
 
-The  **ViewReset** method has the same effect as the **Reset to Default** command in the drop-down list of views on the ribbon.
+The **ViewReset** method has the same effect as the **Reset to Default** command in the drop-down list of views on the ribbon.
 
 

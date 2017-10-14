@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.PayRates Property (Project)
 
-Gets a  **[PayRates](payrate-object-project.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
+Gets a **[PayRates](payrate-object-project.md)** collection that represents the various pay rates on the cost rate table for a resource. Read-only **PayRates**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets a  **[PayRates](payrate-object-project.md)** collection that represents the
 
 ## Remarks
 
-For the  **Resource** object, the **PayRates** property returns pay rates for cost rate table A, the default table.
+For the **Resource** object, the **PayRates** property returns pay rates for cost rate table A, the default table.
 
 
 ## Example

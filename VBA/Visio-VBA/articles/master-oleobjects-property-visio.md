@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Master.OLEObjects Property (Visio)
 
-Returns the  **OLEObjects** collection of a master. Read-only.
+Returns the **OLEObjects** collection of a master. Read-only.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ OLEObjects
 
 ## Remarks
 
-The  **OLEObjects** property returns an **OLEObjects** collection that includes any OLE 2.0 linked or embedded objects or ActiveX controls contained in a document, master, or page.
+The **OLEObjects** property returns an **OLEObjects** collection that includes any OLE 2.0 linked or embedded objects or ActiveX controls contained in a document, master, or page.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to get the  **OLEObjects** collection of an active page and print the **ClassID** and **ProgID** for each **OLEObject** object in the Immediate window. This example assumes that the active page contains at least one OLE 2.0 embedded or linked object or an ActiveX control.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to get the **OLEObjects** collection of an active page and print the **ClassID** and **ProgID** for each **OLEObject** object in the Immediate window. This example assumes that the active page contains at least one OLE 2.0 embedded or linked object or an ActiveX control.
 
 
 ```vb

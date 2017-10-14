@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataColumn.Visible Property (Visio)
 
-Specifies whether the data column appears on the tab for its parent data recordset in the  **External Data** window in the Microsoft Visio user interface. Read/write.
+Specifies whether the data column appears on the tab for its parent data recordset in the **External Data** window in the Microsoft Visio user interface. Read/write.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,10 +33,10 @@ Boolean
 
 ## Remarks
 
-If when a shape is linked to data,  **Visible** is set to **True** , and if Visio adds a row to the Shape Data section of the ShapeSheet spreadsheet of the linked shape for the data column, subsequently setting the **Visible** property to **False** causes Visio to remove the ShapeSheet row it added.
+If when a shape is linked to data, **Visible** is set to **True** , and if Visio adds a row to the Shape Data section of the ShapeSheet spreadsheet of the linked shape for the data column, subsequently setting the **Visible** property to **False** causes Visio to remove the ShapeSheet row it added.
 
-If the row in the Shape Data section existed prior to linking, setting the  **Visible** property to **False** does not result in Visio removing the ShapeSheet row; however, the shape data item the row represents no longer is subject to change when data in the data recordset is refreshed.
+If the row in the Shape Data section existed prior to linking, setting the **Visible** property to **False** does not result in Visio removing the ShapeSheet row; however, the shape data item the row represents no longer is subject to change when data in the data recordset is refreshed.
 
-When the  **Visible** property is set to **False** , Visio does not create a ShapeSheet row for the data column when it links shapes to data.
+When the **Visible** property is set to **False** , Visio does not create a ShapeSheet row for the data column when it links shapes to data.
 
 

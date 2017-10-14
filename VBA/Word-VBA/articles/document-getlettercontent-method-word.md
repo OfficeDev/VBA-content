@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.GetLetterContent Method (Word)
 
-Retrieves letter elements from the specified document and returns a  **[LetterContent](lettercontent-object-word.md)** object.
+Retrieves letter elements from the specified document and returns a **[LetterContent](lettercontent-object-word.md)** object.
 
 
 ## Syntax

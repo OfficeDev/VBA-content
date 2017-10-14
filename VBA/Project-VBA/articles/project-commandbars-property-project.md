@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.CommandBars Property (Project)
 
-Gets a  **CommandBars** collection that represents all the command bars in the project. Read-only **CommandBars**.
+Gets a **CommandBars** collection that represents all the command bars in the project. Read-only **CommandBars**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets a  **CommandBars** collection that represents all the command bars in the p
 
 ## Remarks
 
-For more information, see the  **CommandBars** object in the Office Developer Reference.
+For more information, see the **CommandBars** object in the Office Developer Reference.
 
 
 ## Example

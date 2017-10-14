@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # ViewCtl.AddToPFFavorites Method (Outlook View Control)
 
-Adds the current public folder to the user's Microsoft Exchange Server  **Favorites** public folder.
+Adds the current public folder to the user's Microsoft Exchange Server **Favorites** public folder.
 
 
 ## Syntax
 
  _expression_. **AddToPFFavorites**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddCurve Method (Publisher)
 
-Adds a new  **[Shape](shape-object-publisher.md)** object representing a Bézier curve to the specified **[Shapes](shapes-object-publisher.md)** collection.
+Adds a new **[Shape](shape-object-publisher.md)** object representing a Bézier curve to the specified **[Shapes](shapes-object-publisher.md)** collection.
 
 
 ## Syntax
 
  _expression_. **AddCurve**( **_SafeArrayOfPoints_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Shape
 
 ## Remarks
 
-For the array elements in  **_SafeArrayOfPoints_**, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
+For the array elements in **_SafeArrayOfPoints_**, numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
 
 ## Example

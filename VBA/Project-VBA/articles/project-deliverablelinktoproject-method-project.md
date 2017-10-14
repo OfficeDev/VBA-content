@@ -35,6 +35,6 @@ Links a deliverable or a dependency to a project.
 
 ## Remarks
 
-The  **DeliverableLinkToProject** method unlinks the deliverable or dependency from a task.
+The **DeliverableLinkToProject** method unlinks the deliverable or dependency from a task.
 
 

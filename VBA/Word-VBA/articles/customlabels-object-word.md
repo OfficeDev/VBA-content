@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # CustomLabels Object (Word)
 
-A collection of  **CustomLabel** objects available in the **Label Options** dialog box. This collection includes custom labels of all printer types (dot-matrix, laser, and ink-jet printers).
+A collection of **CustomLabel** objects available in the **Label Options** dialog box. This collection includes custom labels of all printer types (dot-matrix, laser, and ink-jet printers).
 
 
 ## Remarks
 
-Use the  **CustomLabels** property to return the **CustomLabels** collection. The following example displays the number of available custom labels.
+Use the **CustomLabels** property to return the **CustomLabels** collection. The following example displays the number of available custom labels.
 
 
 ```vb
 MsgBox Application.MailingLabel.CustomLabels.Count
 ```
 
-Use the  **[Add](customlabels-add-method-word.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
+Use the **[Add](customlabels-add-method-word.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
 
 
 
@@ -32,7 +32,7 @@ Set ML = _
 ML.PageSize = wdCustomLabelA4
 ```
 
-Use  **[CustomLabels](mailinglabel-customlabels-property-word.md)** (Index), where Index is the custom label name or index number, to return a single **[CustomLabel](customlabel-object-word.md)** object. The following example creates a new document with an existing custom label layout named "My Labels."
+Use **[CustomLabels](mailinglabel-customlabels-property-word.md)** (Index), where Index is the custom label name or index number, to return a single **[CustomLabel](customlabel-object-word.md)** object. The following example creates a new document with an existing custom label layout named "My Labels."
 
 
 
@@ -46,7 +46,7 @@ Else
 End If
 ```
 
-The index number represents the position of the custom mailing label in the  **CustomLabels** collection. The following example displays the name of the first custom mailing label.
+The index number represents the position of the custom mailing label in the **CustomLabels** collection. The following example displays the name of the first custom mailing label.
 
 
 

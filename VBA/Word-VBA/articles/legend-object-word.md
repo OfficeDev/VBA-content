@@ -20,12 +20,12 @@ Represents the legend in a chart. Each chart can have only one legend.
 
  The **Legend** object contains one or more **[LegendEntry](legendentry-object-word.md)** objects; each **LegendEntry** object contains a **[LegendKey](legendkey-object-word.md)** object.
 
-The chart legend is not visible unless the  **[HasLegend](chart-haslegend-property-word.md)** property is **True** . If this property is **False** , properties and methods of the **Legend** object will fail.
+The chart legend is not visible unless the **[HasLegend](chart-haslegend-property-word.md)** property is **True** . If this property is **False** , properties and methods of the **Legend** object will fail.
 
 
 ## Example
 
-Use the  **[Legend](chart-legend-property-word.md)** property to return the **Legend** object. The following example sets the font style for the legend of the first chart in the active document to bold.
+Use the **[Legend](chart-legend-property-word.md)** property to return the **Legend** object. The following example sets the font style for the legend of the first chart in the active document to bold.
 
 
 ```vb

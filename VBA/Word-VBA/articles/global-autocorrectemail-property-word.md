@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.AutoCorrectEmail Property (Word)
 
-Returns an  **[AutoCorrect](autocorrect-object-word.md)** object that represents automatic corrections made to e-mail messages.
+Returns an **[AutoCorrect](autocorrect-object-word.md)** object that represents automatic corrections made to e-mail messages.
 
 
 ## Syntax

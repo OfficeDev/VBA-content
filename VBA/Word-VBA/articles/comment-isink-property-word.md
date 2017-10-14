@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.IsInk Property (Word)
 
-Returns a  **Boolean** that represents whether a comment is a handwritten comment.
+Returns a **Boolean** that represents whether a comment is a handwritten comment.
 
 
 ## Syntax

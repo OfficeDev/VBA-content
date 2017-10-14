@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ColumnEdit Method (Project)
 
-Displays the  **Column Definition** dialog box for the specified column.
+Displays the **Column Definition** dialog box for the specified column.
 
 
 ## Syntax

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TextRetrievalMode Object (Word)
 
-Represents options that control how text is retrieved from a  **Range** object.
+Represents options that control how text is retrieved from a **Range** object.
 
 
 ## Remarks
 
-Use the  **TextRetrievalMode** property to return a **TextRetrievalMode** object. The following example displays the text of the first sentence in the active document, excluding field codes and hidden text.
+Use the **TextRetrievalMode** property to return a **TextRetrievalMode** object. The following example displays the text of the first sentence in the active document, excluding field codes and hidden text.
 
 
 ```vb
@@ -29,7 +29,7 @@ With ActiveDocument.Sentences(1).TextRetrievalMode
 End With
 ```
 
-Changing the  **ViewType** , **IncludeHiddentText** , or **IncludeFieldCodes** property of the **TextRetrievalMode** object doesn't change the screen display. Instead, changing one of these properties determines what text is retrieved from a **Range** object when the **Text** property is used.
+Changing the **ViewType** , **IncludeHiddentText** , or **IncludeFieldCodes** property of the **TextRetrievalMode** object doesn't change the screen display. Instead, changing one of these properties determines what text is retrieved from a **Range** object when the **Text** property is used.
 
 
 ## See also

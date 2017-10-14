@@ -20,7 +20,7 @@ Closes the specified mail merge data source, cancels the mail merge, and convert
 
  _expression_. **Close**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ## Remarks

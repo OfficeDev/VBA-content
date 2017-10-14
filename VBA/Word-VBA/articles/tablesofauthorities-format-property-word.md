@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TablesOfAuthorities.Format Property (Word)
 
-Returns or sets the formatting for the tables of authorities in the specified document. Read/write  **WdToaFormat** .
+Returns or sets the formatting for the tables of authorities in the specified document. Read/write **WdToaFormat** .
 
 
 ## Syntax

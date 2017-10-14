@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.IsLinked Property (Publisher)
 
-Returns a  **MsoTriState** constant indicating whether the specified picture is a linked picture or OLE object. Read-only.
+Returns a **MsoTriState** constant indicating whether the specified picture is a linked picture or OLE object. Read-only.
 
 
 ## Syntax
 
  _expression_. **IsLinked**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -30,18 +30,18 @@ MsoTriState
 
 ## Remarks
 
-Returns  **msoFalse** for pasted or embedded pictures and OLE objects.
+Returns **msoFalse** for pasted or embedded pictures and OLE objects.
 
-If a picture or OLE object is linked, several additional properties of the  **[PictureFormat](pictureformat-object-publisher.md)** object dealing with the original picture (such as ** [OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)**) are accessible.
+If a picture or OLE object is linked, several additional properties of the **[PictureFormat](pictureformat-object-publisher.md)** object dealing with the original picture (such as ** [OriginalFileSize](pictureformat-originalfilesize-property-publisher.md)**) are accessible.
 
-The  **IsLinked** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **IsLinked** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|The specified picture is not a linked picture.|
-| **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateMixed**|Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|
 | **msoTrue**|The specified picture is a linked picture.|
 
 ## Example

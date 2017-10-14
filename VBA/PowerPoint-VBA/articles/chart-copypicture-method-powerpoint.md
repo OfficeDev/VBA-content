@@ -29,9 +29,9 @@ Copies the selected object to the Clipboard as a picture.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional|**[XlPictureAppearance](xlpictureappearance-enumeration-powerpoint.md)**|One of the enumeration values that specifies how the picture should be copied. The default is  **xlScreen**.|
-| _Format_|Optional|**[XlCopyPictureFormat](xlcopypictureformat-enumeration-powerpoint.md)**|One of the enumeration values that specifies the format of the picture. The default is  **xlPicture**.|
-| _Size_|Optional|**XlPictureAppearance**|One of the enumeration values that specifies the size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default is  **xlPrinter**.|
+| _Appearance_|Optional|**[XlPictureAppearance](xlpictureappearance-enumeration-powerpoint.md)**|One of the enumeration values that specifies how the picture should be copied. The default is **xlScreen**.|
+| _Format_|Optional|**[XlCopyPictureFormat](xlcopypictureformat-enumeration-powerpoint.md)**|One of the enumeration values that specifies the format of the picture. The default is **xlPicture**.|
+| _Size_|Optional|**XlPictureAppearance**|One of the enumeration values that specifies the size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default is **xlPrinter**.|
 
 ## See also
 

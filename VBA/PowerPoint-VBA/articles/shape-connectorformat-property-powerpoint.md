@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ConnectorFormat Property (PowerPoint)
 
-Returns a  **[ConnectorFormat](connectorformat-object-powerpoint.md)** object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors. Read-only.
+Returns a **[ConnectorFormat](connectorformat-object-powerpoint.md)** object that contains connector formatting properties. Applies to **Shape** or **ShapeRange** objects that represent connectors. Read-only.
 
 
 ## Syntax

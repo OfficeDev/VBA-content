@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.Bold Property (Publisher)
 
-Returns or sets an  **MsoTriState**constant that represents the state of the  **Bold** property on the characters in a text range. Read/write.
+Returns or sets an **MsoTriState**constant that represents the state of the **Bold** property on the characters in a text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **Bold**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **Bold** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
+The **Bold** property value can be one of the following **MsoTriState** constants declared in the Microsoft Office type library.
 
 
 
@@ -38,7 +38,7 @@ The  **Bold** property value can be one of the following **MsoTriState** constan
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as bold.|
 | **msoTriStateMixed**|Return value indicating that the range contains some text formatted as bold and some text not formatted as bold.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted as bold.|
 
 ## Example

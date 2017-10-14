@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.SizeBi Property (Word)
 
-Returns or sets the font size in points. Read/write  **Single** .
+Returns or sets the font size in points. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the font size in points. Read/write  **Single** .
 
 ## Remarks
 
-The  **SizeBi** property applies to text in a right-to-left language.
+The **SizeBi** property applies to text in a right-to-left language.
 
 
 ## Example

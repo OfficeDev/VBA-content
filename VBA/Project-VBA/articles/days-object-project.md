@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Days Object (Project)
 
-Contains a collection of  **[Day](day-object-project.md)** objects.
+Contains a collection of **[Day](day-object-project.md)** objects.
  
 
 
@@ -18,7 +18,7 @@ Contains a collection of  **[Day](day-object-project.md)** objects.
  
 
  
-Use  **Days(***Index* **)**, where*Index* is the day index number or **[PjWeekday](pjweekday-enumeration-project.md)** constant, to return a single **Day** object. The following example counts the number of working days in the month of September 2002 for each selected resource.
+Use **Days(***Index* **)**, where*Index* is the day index number or **[PjWeekday](pjweekday-enumeration-project.md)** constant, to return a single **Day** object. The following example counts the number of working days in the month of September 2002 for each selected resource.
  
 
  
@@ -59,7 +59,7 @@ Next R
  
 
  
-Use the  **[Days](month-days-property-project.md)** property to return a **Days** collection. The following example counts the number of days in the month of September 2002.
+Use the **[Days](month-days-property-project.md)** property to return a **Days** collection. The following example counts the number of days in the month of September 2002.
  
 
  

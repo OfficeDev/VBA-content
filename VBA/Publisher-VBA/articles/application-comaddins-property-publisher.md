@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.COMAddIns Property (Publisher)
 
-Returns a  **COMAddIns** collection that represents a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft Publisher.
+Returns a **COMAddIns** collection that represents a reference to the Component Object Model (COM) add-ins currently loaded in Microsoft Publisher.
 
 
 ## Syntax
 
  _expression_. **COMAddIns**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ COMAddIns
 
 ## Remarks
 
-These are listed in the  **COM Add-Ins** dialog box. You can add the **Add-Ins** command to your **Tools** menu by using the **Customize** dialog box.
+These are listed in the **COM Add-Ins** dialog box. You can add the **Add-Ins** command to your **Tools** menu by using the **Customize** dialog box.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EmailTemplate Property (Word)
 
-Returns or sets a  **String** that represents the document template to use when sending e-mail messages. Read/write.
+Returns or sets a **String** that represents the document template to use when sending e-mail messages. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the document template to use when 
 
 ## Remarks
 
-Use the  **EmailTemplate** property when Microsoft Word is specified as your e-mail editor, which you must do inside Microsoft Outlook.
+Use the **EmailTemplate** property when Microsoft Word is specified as your e-mail editor, which you must do inside Microsoft Outlook.
 
 
 ## Example

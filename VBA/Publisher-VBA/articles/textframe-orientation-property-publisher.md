@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.Orientation Property (Publisher)
 
-Returns or sets a  **PbTextOrientation**constant that represents how text flows in a text box. Read/write.
+Returns or sets a **PbTextOrientation**constant that represents how text flows in a text box. Read/write.
 
 
 ## Syntax
 
  _expression_. **Orientation**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbTextOrientation
 
 ## Remarks
 
-The  **Orientation** property value can be one of the **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Orientation** property value can be one of the **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

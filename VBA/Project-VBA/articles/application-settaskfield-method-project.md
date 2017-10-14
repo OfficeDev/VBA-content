@@ -43,7 +43,7 @@ Sets the value of a task field specified by the name of the field.
 
 ## Remarks
 
-To set a task field by ID, use the  **[SetTaskFieldByID](application-settaskfieldbyid-method-project.md)** method.
+To set a task field by ID, use the **[SetTaskFieldByID](application-settaskfieldbyid-method-project.md)** method.
 
 
 ## Example

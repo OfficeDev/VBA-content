@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisGuideTypes Enumeration (Visio)
 
-Guide type codes to be passed to the  **Page.AddGuide** method.
+Guide type codes to be passed to the **Page.AddGuide** method.
 
 
 

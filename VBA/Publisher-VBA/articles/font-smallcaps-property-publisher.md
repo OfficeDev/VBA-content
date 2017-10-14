@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.SmallCaps Property (Publisher)
 
-Returns or sets an  **MsoTriState** constant indicating whether the specified text is formatted as small caps. Read/write.
+Returns or sets an **MsoTriState** constant indicating whether the specified text is formatted as small caps. Read/write.
 
 
 ## Syntax
 
  _expression_. **SmallCaps**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value
@@ -30,17 +30,17 @@ MsoTriState
 
 ## Remarks
 
-The  **SmallCaps** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **SmallCaps** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
 |**Constant**|**Description**|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as small caps.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|Return value indicating a combination of **msoTrue** and **msoFalse** for the specified shape range.|
+| **msoTriStateToggle**|Set value that switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**| All of the characters in the range are formatted as small caps.|
-Setting the  **SmallCaps** property to **msoTrue** removes all caps formatting from the text range.
+Setting the **SmallCaps** property to **msoTrue** removes all caps formatting from the text range.
 
 
 ## Example

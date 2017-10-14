@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.MeetingResponseStatus Property (Outlook)
 
-Returns an  **[OlResponseStatus](olresponsestatus-enumeration-outlook.md)** constant indicating the overall status of the response to the meeting request for the recipient. Read-only.
+Returns an **[OlResponseStatus](olresponsestatus-enumeration-outlook.md)** constant indicating the overall status of the response to the meeting request for the recipient. Read-only.
 
 
 ## Syntax

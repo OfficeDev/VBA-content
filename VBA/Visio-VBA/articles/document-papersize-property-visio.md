@@ -30,7 +30,7 @@ VisPaperSizes
 
 ## Remarks
 
-Setting the  **PaperSize** property is the equivalent of choosing a printer paper size on the **Print Setup** tab of the **Page Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow). The value of **PaperSize** can be one of the following **VisPaperSizes** constants.
+Setting the **PaperSize** property is the equivalent of choosing a printer paper size on the **Print Setup** tab of the **Page Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow). The value of **PaperSize** can be one of the following **VisPaperSizes** constants.
 
 
 
@@ -49,9 +49,9 @@ Setting the  **PaperSize** property is the equivalent of choosing a printer pape
 | **visPaperSizeSizeC**| 24| C size sheet 17 x 22 in.|
 | **visPaperSizeSizeD**| 25| D size sheet 22 x 34 in.|
 | **visPaperSizeSizeE**| 26| E size sheet 34 x 44 in.|
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVDocument.PaperSize**
+- **Microsoft.Office.Interop.Visio.IVDocument.PaperSize**
     
 

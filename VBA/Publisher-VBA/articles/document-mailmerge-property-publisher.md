@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.MailMerge Property (Publisher)
 
-Returns a  **[MailMerge](mailmerge-object-publisher.md)** object that represents the mail merge functionality for the specified publication.
+Returns a **[MailMerge](mailmerge-object-publisher.md)** object that represents the mail merge functionality for the specified publication.
 
 
 ## Syntax
 
  _expression_. **MailMerge**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -39,7 +39,7 @@ Sub ViewMergeData()
 End Sub
 ```
 
-This example displays the  **Mail Merge Recipients** dialog box, which contains the records from the data source.
+This example displays the **Mail Merge Recipients** dialog box, which contains the records from the data source.
 
 
 

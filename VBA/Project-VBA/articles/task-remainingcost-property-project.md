@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.RemainingCost Property (Project)
 
-Gets the remaining cost for the task. Read-only  **Variant**.
+Gets the remaining cost for the task. Read-only **Variant**.
 
 
 ## Syntax

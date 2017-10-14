@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrect.Entries Property (Word)
 
-Returns an  **[OMathAutoCorrectEntries](omathautocorrectentries-object-word.md)** collection that represents the collection of equation autocorrect entries within the equation autocorrect feature. Read-only.
+Returns an **[OMathAutoCorrectEntries](omathautocorrectentries-object-word.md)** collection that represents the collection of equation autocorrect entries within the equation autocorrect feature. Read-only.
 
 
 ## Syntax

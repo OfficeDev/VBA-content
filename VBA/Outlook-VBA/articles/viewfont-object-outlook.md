@@ -18,23 +18,23 @@ Represents the font used when formatting text in various portions of a view.
 
 ## Remarks
 
-The  **ViewFont** object is used by the following objects to represent font formatting information applied to the text in various portions of a view:
+The **ViewFont** object is used by the following objects to represent font formatting information applied to the text in various portions of a view:
 
 
-- The  **[HeadingsFont](businesscardview-headingsfont-property-outlook.md)** property of the **[BusinessCardView](businesscardview-object-outlook.md)** object.
+- The **[HeadingsFont](businesscardview-headingsfont-property-outlook.md)** property of the **[BusinessCardView](businesscardview-object-outlook.md)** object.
     
-- The  **[DayWeekFont](http://msdn.microsoft.com/library/ddb6f65d-72e2-d3f2-b10f-b3d8bc4d21b3%28Office.15%29.aspx)**, **[DayWeekTimeFont](http://msdn.microsoft.com/library/37ea6e1f-4148-3ab4-e0aa-48c49321ac91%28Office.15%29.aspx)**, and **[MonthFont](http://msdn.microsoft.com/library/b69d1690-d1a8-dbc0-3de4-86a8eb98a471%28Office.15%29.aspx)** properties of the **[CalendarView](calendarview-object-outlook.md)** object.
+- The **[DayWeekFont](http://msdn.microsoft.com/library/ddb6f65d-72e2-d3f2-b10f-b3d8bc4d21b3%28Office.15%29.aspx)**, **[DayWeekTimeFont](http://msdn.microsoft.com/library/37ea6e1f-4148-3ab4-e0aa-48c49321ac91%28Office.15%29.aspx)**, and **[MonthFont](http://msdn.microsoft.com/library/b69d1690-d1a8-dbc0-3de4-86a8eb98a471%28Office.15%29.aspx)** properties of the **[CalendarView](calendarview-object-outlook.md)** object.
     
-- The  **[BodyFont](cardview-bodyfont-property-outlook.md)** and **[HeadingsFont](cardview-headingsfont-property-outlook.md)** properties of the **[CardView](cardview-object-outlook.md)** object.
+- The **[BodyFont](cardview-bodyfont-property-outlook.md)** and **[HeadingsFont](cardview-headingsfont-property-outlook.md)** properties of the **[CardView](cardview-object-outlook.md)** object.
     
-- The  **[AutoPreviewFont](tableview-autopreviewfont-property-outlook.md)**, **[ColumnFont](tableview-columnfont-property-outlook.md)**, and **[RowFont](tableview-rowfont-property-outlook.md)** properties of the **[TableView](tableview-object-outlook.md)** object.
+- The **[AutoPreviewFont](tableview-autopreviewfont-property-outlook.md)**, **[ColumnFont](tableview-columnfont-property-outlook.md)**, and **[RowFont](tableview-rowfont-property-outlook.md)** properties of the **[TableView](tableview-object-outlook.md)** object.
     
-- The  **[ItemFont](timelineview-itemfont-property-outlook.md)**, **[LowerScaleFont](timelineview-lowerscalefont-property-outlook.md)**, and **[UpperScaleFont](timelineview-upperscalefont-property-outlook.md)** properties of the **[TimelineView](timelineview-object-outlook.md)** object.
+- The **[ItemFont](timelineview-itemfont-property-outlook.md)**, **[LowerScaleFont](timelineview-lowerscalefont-property-outlook.md)**, and **[UpperScaleFont](timelineview-upperscalefont-property-outlook.md)** properties of the **[TimelineView](timelineview-object-outlook.md)** object.
     
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample increments the value of the  **[Size](viewfont-size-property-outlook.md)** property for the **ViewFont** object returned from the **ItemFont** property for the current **TimelineView** object.
+The following Visual Basic for Applications (VBA) sample increments the value of the **[Size](viewfont-size-property-outlook.md)** property for the **ViewFont** object returned from the **ItemFont** property for the current **TimelineView** object.
 
 
 ```

@@ -30,13 +30,13 @@ Occurs after the data in the control has been changed through the user interface
 
 1. User focuses on the control
     
-2.  **BeforeUpdate** occurs
+2. **BeforeUpdate** occurs
     
 3. Control data is updated
     
-4.  **AfterUpdate** occurs
+4. **AfterUpdate** occurs
     
-5.  **[Exit](olktimezonecontrol-exit-event-outlook.md)** occurs: User moves focus away from control
+5. **[Exit](olktimezonecontrol-exit-event-outlook.md)** occurs: User moves focus away from control
     
 
 

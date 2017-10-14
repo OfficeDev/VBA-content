@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.MakeServerURLTrusted Method (Project)
 
-Adds the URL specified in the  **[ServerURL](http://msdn.microsoft.com/library/a204c795-73a3-4ce2-a582-3afd951914c7%28Office.15%29.aspx)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
+Adds the URL specified in the **[ServerURL](http://msdn.microsoft.com/library/a204c795-73a3-4ce2-a582-3afd951914c7%28Office.15%29.aspx)** property to the **Trusted sites** zone in the **Security** tab of the **Internet Options** dialog box in Internet Explorer.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ If no Project Server URL is specified for the project, Project Professional disp
 
 ## Example
 
-The following sample adds the URL specified in  **Collaboration Options** ( **Collaborate** menu) to the list of trusted sites in Internet Explorer. Upon confirmation, Project switches to a **Resource Sheet** view and displays the displays the **Build Team for <Project Name>** dialog box when connected to Project Server .
+The following sample adds the URL specified in **Collaboration Options** ( **Collaborate** menu) to the list of trusted sites in Internet Explorer. Upon confirmation, Project switches to a **Resource Sheet** view and displays the displays the **Build Team for <Project Name>** dialog box when connected to Project Server .
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Sentences Property (Word)
 
-Returns a  **[Sentences](sentences-object-word.md)** collection that represents all the sentences in the selection. Read-only.
+Returns a **[Sentences](sentences-object-word.md)** collection that represents all the sentences in the selection. Read-only.
 
 
 ## Syntax

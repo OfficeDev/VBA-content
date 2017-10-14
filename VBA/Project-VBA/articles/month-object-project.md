@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Month Object (Project)
 
-Represents a month in a year. The  **Month** object is a member of the **[Months](months-object-project.md)** collection.
+Represents a month in a year. The **Month** object is a member of the **[Months](months-object-project.md)** collection.
  
 
 
@@ -20,7 +20,7 @@ Represents a month in a year. The  **Month** object is a member of the **[Months
  
 
  
-Use  **Months** (*Index* ), where*Index* is the month index number, month name, or **PjMonth** constant, to return a single **Month** object. The following example counts the number of working days in each month of 2012 for each selected resource.
+Use **Months** (*Index* ), where*Index* is the month index number, month name, or **PjMonth** constant, to return a single **Month** object. The following example counts the number of working days in each month of 2012 for each selected resource.
  
 
  
@@ -54,7 +54,7 @@ Next R
  
 
  
-Use the  **[Months](year-months-property-project.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
+Use the **[Months](year-months-property-project.md)** property to return a **Months** collection. The following example counts the number of months in 2012.
  
 
  

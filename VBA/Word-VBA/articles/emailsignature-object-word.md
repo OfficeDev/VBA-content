@@ -18,7 +18,7 @@ Contains information about the e-mail signatures used by Microsoft Word when you
 
 ## Remarks
 
-Use the  **EmailSignature** property to return the **EmailSignature** object.
+Use the **EmailSignature** property to return the **EmailSignature** object.
 
 This example changes the signatures Word appends to new outgoing e-mail messages and e-mail message replies.
 
@@ -33,7 +33,7 @@ End With
 ```
 
 
- **Note**  There is no EmailSignatures collection; each  **[EmailOptions](emailoptions-object-word.md)** object contains only one **EmailSignature** object.
+ **Note**  There is no EmailSignatures collection; each **[EmailOptions](emailoptions-object-word.md)** object contains only one **EmailSignature** object.
 
 
 ## See also

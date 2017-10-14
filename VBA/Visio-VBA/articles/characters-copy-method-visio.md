@@ -30,6 +30,6 @@ Nothing
 
 ## Remarks
 
-To make a copy without using the Clipboard, use the  **Duplicate** method.
+To make a copy without using the Clipboard, use the **Duplicate** method.
 
 

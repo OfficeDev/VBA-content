@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ListFormat Property (Word)
 
-Returns a  **[ListFormat](listformat-object-word.md)** object that represents all the list formatting characteristics of a range. Read-only.
+Returns a **[ListFormat](listformat-object-word.md)** object that represents all the list formatting characteristics of a range. Read-only.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ Set myRange = _
 myRange.ListFormat.ApplyOutlineNumberDefault
 ```
 
-This example applies the second list template on the  **Numbered** tab in the **Bullets and Numbering** dialog box to all the paragraphs in the selection.
+This example applies the second list template on the **Numbered** tab in the **Bullets and Numbering** dialog box to all the paragraphs in the selection.
 
 
 

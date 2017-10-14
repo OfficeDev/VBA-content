@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Shape** object.
+Returns an **Object** that represents the parent object of the specified **Shape** object.
 
 
 ## Syntax

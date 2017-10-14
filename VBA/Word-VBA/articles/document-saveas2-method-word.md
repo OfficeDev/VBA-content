@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SaveAs2 Method (Word)
 
-Saves the specified document with a new name or format. Some of the arguments for this method correspond to the options in the  **Save As** dialog box ( **File** tab).
+Saves the specified document with a new name or format. Some of the arguments for this method correspond to the options in the **Save As** dialog box ( **File** tab).
 
 
 ## Syntax
@@ -30,22 +30,22 @@ Saves the specified document with a new name or format. Some of the arguments fo
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Optional| **Variant**|The name for the document. The default is the current folder and file name. If the document has never been saved, the default name is used (for example, Doc1.doc). If a document with the specified file name already exists, the document is overwritten without prompting the user.|
-| _FileFormat_|Optional| **Variant**|The format in which the document is saved. Can be any  **[WdSaveFormat](wdsaveformat-enumeration-word.md)** constant. To save a document in another format, specify the appropriate value for the **[SaveFormat](fileconverter-saveformat-property-word.md)** property of the **[FileConverter](fileconverter-object-word.md)** object.|
+| _FileFormat_|Optional| **Variant**|The format in which the document is saved. Can be any **[WdSaveFormat](wdsaveformat-enumeration-word.md)** constant. To save a document in another format, specify the appropriate value for the **[SaveFormat](fileconverter-saveformat-property-word.md)** property of the **[FileConverter](fileconverter-object-word.md)** object.|
 | _LockComments_|Optional| **Variant**| **True** to lock the document for comments. The default is **False** .|
 | _Password_|Optional| **Variant**|A password string for opening the document. (See Remarks below.)|
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the document to the list of recently used files on the **File** menu. The default is **True** .|
 | _WritePassword_|Optional| **Variant**|A password string for saving changes to the document. (See Remarks below.)|
 | _ReadOnlyRecommended_|Optional| **Variant**| **True** to have Microsoft Word suggest read-only status whenever the document is opened. The default is **False** .|
 | _EmbedTrueTypeFonts_|Optional| **Variant**| **True** to save TrueType fonts with the document. If omitted, the EmbedTrueTypeFonts argument assumes the value of the **[EmbedTrueTypeFonts](document-embedtruetypefonts-property-word.md)** property.|
-| _SaveNativePictureFormat_|Optional| **Variant**|If graphics were imported from another platform (for example, Macintosh),  **True** to save only the Microsoft Windows version of the imported graphics.|
+| _SaveNativePictureFormat_|Optional| **Variant**|If graphics were imported from another platform (for example, Macintosh), **True** to save only the Microsoft Windows version of the imported graphics.|
 | _SaveFormsData_|Optional| **Variant**| **True** to save the data entered by a user in a form as a record.|
-| _SaveAsAOCELetter_|Optional| **Variant**|If the document has an attached mailer,  **True** to save the document as an AOCE letter (the mailer is saved).|
-| _Encoding_|Optional| **Variant**|The code page, or character set, to use for documents saved as encoded text files. The default is the system code page. You cannot use all  **[MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** constants with this parameter.|
-| _InsertLineBreaks_|Optional| **Variant**|If the document is saved as a text file,  **True** to insert line breaks at the end of each line of text.|
-| _AllowSubstitutions_|Optional| **Variant**|If the document is saved as a text file,  **True** allows Word to replace some symbols with text that looks similar. For example, displaying the copyright symbol as (c). The default is **False** .|
-| _LineEnding_|Optional| **Variant**|The way Word marks the line and paragraph breaks in documents saved as text files. Can be one of the following  **[WdLineEndingType](wdlineendingtype-enumeration-word.md)** constants: **wdCRLF** (default) or **wdCROnly** .|
+| _SaveAsAOCELetter_|Optional| **Variant**|If the document has an attached mailer, **True** to save the document as an AOCE letter (the mailer is saved).|
+| _Encoding_|Optional| **Variant**|The code page, or character set, to use for documents saved as encoded text files. The default is the system code page. You cannot use all **[MsoEncoding](http://msdn.microsoft.com/library/286bed6e-6028-a252-5e4f-b505234d9d34%28Office.15%29.aspx)** constants with this parameter.|
+| _InsertLineBreaks_|Optional| **Variant**|If the document is saved as a text file, **True** to insert line breaks at the end of each line of text.|
+| _AllowSubstitutions_|Optional| **Variant**|If the document is saved as a text file, **True** allows Word to replace some symbols with text that looks similar. For example, displaying the copyright symbol as (c). The default is **False** .|
+| _LineEnding_|Optional| **Variant**|The way Word marks the line and paragraph breaks in documents saved as text files. Can be one of the following **[WdLineEndingType](wdlineendingtype-enumeration-word.md)** constants: **wdCRLF** (default) or **wdCROnly** .|
 | _AddBiDiMarks_|Optional| **Variant**| **True** adds control characters to the output file to preserve bi-directional layout of the text in the original document.|
-| _CompatibilityMode_|Optional| **Variant**|The compatibility mode that Word uses when opening the document.  **[WdCompatibilityMode](wdcompatibilitymode-enumeration-word.md)** constant.<table><tr><th>**Important**</th></tr><tr><td>By default, if no value is specified for this parameter, Word enters a value of 0, which specifies that the current compatibility mode of the document should be retained.</td></tr></table>|
+| _CompatibilityMode_|Optional| **Variant**|The compatibility mode that Word uses when opening the document. **[WdCompatibilityMode](wdcompatibilitymode-enumeration-word.md)** constant.<table><tr><th>**Important**</th></tr><tr><td>By default, if no value is specified for this parameter, Word enters a value of 0, which specifies that the current compatibility mode of the document should be retained.</td></tr></table>|
 
 ### Return Value
 

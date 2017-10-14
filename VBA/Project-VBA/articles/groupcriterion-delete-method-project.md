@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion.Delete Method (Project)
 
-Deletes the  **GroupCriterion** object from a **GroupCriteria** collection.
+Deletes the **GroupCriterion** object from a **GroupCriteria** collection.
 
 
 ## Syntax

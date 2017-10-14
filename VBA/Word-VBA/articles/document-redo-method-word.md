@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Redo Method (Word)
 
-Redoes the last action that was undone (reverses the  **Undo** method). Returns **True** if the actions were redone successfully.
+Redoes the last action that was undone (reverses the **Undo** method). Returns **True** if the actions were redone successfully.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ Represents a legend key in a chart legend.
 
 ## Example
 
-Use the  **[LegendKey](legendentry-legendkey-property-word.md)** property to return the **LegendKey** object. The following example changes the marker background color for the legend entry at the top of the legend for the first chart in the active document. This simultaneously changes the format of every point in the series associated with this legend entry. The associated series must support data markers.
+Use the **[LegendKey](legendentry-legendkey-property-word.md)** property to return the **LegendKey** object. The following example changes the marker background color for the legend entry at the top of the legend for the first chart in the active document. This simultaneously changes the format of every point in the series associated with this legend entry. The associated series must support data markers.
 
 
 ```vb

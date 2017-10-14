@@ -20,7 +20,7 @@ Creates a shortcut to the file that contains the list of recipients or products 
 
  _expression_. **CreateShortcut**( **_Filename_**)
 
- _expression_A variable that represents a  **MailMerge** object.
+ _expression_A variable that represents a **MailMerge** object.
 
 
 ### Parameters
@@ -33,14 +33,14 @@ Creates a shortcut to the file that contains the list of recipients or products 
 
 ## Remarks
 
-The  **CreateShortcut** method corresponds to the **Save a shortcut to recipient list** command in the **Mail Merge** and **E-mail Merge** task panes, and the **Save a shortcut to product list** command in the **Catalog Merge** task pane in the Microsoft Publisher user interface.
+The **CreateShortcut** method corresponds to the **Save a shortcut to recipient list** command in the **Mail Merge** and **E-mail Merge** task panes, and the **Save a shortcut to product list** command in the **Catalog Merge** task pane in the Microsoft Publisher user interface.
 
 Mailing list recipient files have the .ols extension (for Microsoft Office List Shortcut).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **CreateShortcut** method to create a shortcut to a mail-merge recipient list. Before running this macro, ensure that the active document is connected to a data source. If the active document is not already connected to a data source, you can use the ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** method to make the connection.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **CreateShortcut** method to create a shortcut to a mail-merge recipient list. Before running this macro, ensure that the active document is connected to a data source. If the active document is not already connected to a data source, you can use the ** [MailMerge.OpenDataSource](mailmerge-opendatasource-method-publisher.md)** method to make the connection.
 
 Also, before running the code, replace  _username_ in the folder path to the saved file with the name of a valid user on your computer, or replace the folder path and file name with a path and file name of your choice.
 

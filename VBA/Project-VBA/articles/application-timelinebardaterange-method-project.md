@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Application.TimelineBarDateRange Method (Project)
 
-Modifies the start and finish dates for a  **Timeline** bar. Introduced in Office 2016.
+Modifies the start and finish dates for a **Timeline** bar. Introduced in Office 2016.
 
 
 ## Syntax

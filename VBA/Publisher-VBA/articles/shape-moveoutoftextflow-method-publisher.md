@@ -13,21 +13,21 @@ ms.date: 06/08/2017
 
 # Shape.MoveOutOfTextFlow Method (Publisher)
 
-Moves a given inline shape out of its containing text range, defined by  ** [TextRange Object](textrange-object-publisher.md)**, and makes the shape fixed.
+Moves a given inline shape out of its containing text range, defined by ** [TextRange Object](textrange-object-publisher.md)**, and makes the shape fixed.
 
 
 ## Syntax
 
  _expression_. **MoveOutOfTextFlow**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
 
 An automation error is returned if the shape to be moved is not already inline.
 
-After the  **MoveOutOfTextFlow** method is called on an inline shape, the shape will maintain its position on the page, but it will no longer be inline.
+After the **MoveOutOfTextFlow** method is called on an inline shape, the shape will maintain its position on the page, but it will no longer be inline.
 
 
 ## Example

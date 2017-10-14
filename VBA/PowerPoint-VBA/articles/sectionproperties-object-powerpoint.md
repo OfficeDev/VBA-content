@@ -18,7 +18,7 @@ Contains properties and methods for manipulating sections in a presentation.
 
 ## Remarks
 
-You can use the  **SectionProperties** property of the Presentation object to get a **SectionProperties** object.
+You can use the **SectionProperties** property of the Presentation object to get a **SectionProperties** object.
 
 
 ## See also

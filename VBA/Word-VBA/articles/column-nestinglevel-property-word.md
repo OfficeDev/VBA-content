@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.NestingLevel Property (Word)
 
-Returns the nesting level of the specified column. Read-only  **Long** .
+Returns the nesting level of the specified column. Read-only **Long** .
 
 
 ## Syntax

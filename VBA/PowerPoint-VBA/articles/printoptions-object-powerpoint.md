@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Contains print options for a presentation.
 
 
- **Note**  Specifying the optional arguments From, To, Copies, and Collate for the  **[PrintOut](presentation-printout-method-powerpoint.md)** method sets the corresponding properties of the **PrintOptions** object.
+ **Note**  Specifying the optional arguments From, To, Copies, and Collate for the **[PrintOut](presentation-printout-method-powerpoint.md)** method sets the corresponding properties of the **PrintOptions** object.
 
 
 ## Example

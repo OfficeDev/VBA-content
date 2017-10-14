@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-A document's  **DefaultStyle** property returns the same value as its **DefaultFillStyle** property. Setting the **DefaultStyle** property is equivalent to setting the **DefaultFillStyle** , **DefaultLineStyle** , and **DefaultTextStyle** properties individually to the same multiple-attribute style. The fill, line, and text attributes of the document's default style are applied to new shapes created with the Microsoft Visio drawing tools or with the **Draw** methods by Automation.
+A document's **DefaultStyle** property returns the same value as its **DefaultFillStyle** property. Setting the **DefaultStyle** property is equivalent to setting the **DefaultFillStyle** , **DefaultLineStyle** , and **DefaultTextStyle** properties individually to the same multiple-attribute style. The fill, line, and text attributes of the document's default style are applied to new shapes created with the Microsoft Visio drawing tools or with the **Draw** methods by Automation.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.SaveAutoRecoverInfoInterval Property (Publisher)
 
-Returns or sets a  **Long** that represents the time interval in minutes for automatically saving a publication for recovery if the application is unexpectedly shut down. Read/write.
+Returns or sets a **Long** that represents the time interval in minutes for automatically saving a publication for recovery if the application is unexpectedly shut down. Read/write.
 
 
 ## Syntax
 
  _expression_. **SaveAutoRecoverInfoInterval**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value

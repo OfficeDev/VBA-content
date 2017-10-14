@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.HTMLDivisions Property (Word)
 
-Returns an  **[HTMLDivisions](htmldivisions-object-word.md)** collection that represents the HTML DIV elements in a Web document.
+Returns an **[HTMLDivisions](htmldivisions-object-word.md)** collection that represents the HTML DIV elements in a Web document.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Date6 Property (Project)
 
-Gets or sets the value of the  **Date6** custom field for the assignment. Read/write **Variant**.
+Gets or sets the value of the **Date6** custom field for the assignment. Read/write **Variant**.
 
 
 ## Syntax

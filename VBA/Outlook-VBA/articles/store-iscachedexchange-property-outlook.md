@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.IsCachedExchange Property (Outlook)
 
-Returns a  **Boolean** that indicates if the **[Store](store-object-outlook.md)** is a cached Exchange store. Read-only.
+Returns a **Boolean** that indicates if the **[Store](store-object-outlook.md)** is a cached Exchange store. Read-only.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns a [CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-d
 
 ## Remarks
 
-Use the  **Updates** property to return the[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx) collection.
+Use the **Updates** property to return the[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx) collection.
 
 
  **Note**  This property is only available for co authoring enabled documents. If you attempt to access this property on a document that is not enabled for co authoring, you will receive a run-time error.

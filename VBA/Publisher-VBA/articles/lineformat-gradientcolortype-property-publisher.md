@@ -18,7 +18,7 @@ Returns the gradient color type for the specified line. Read-only.
 
  _expression_. **GradientColorType**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ## Return value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.GroupChar Property (Word)
 
-Returns an  **[OMathGroupChar](omathgroupchar-object-word.md)** object that represents a horizontal character placed above or below text in an equation, often with the purpose of grouping the text visually. Read-only.
+Returns an **[OMathGroupChar](omathgroupchar-object-word.md)** object that represents a horizontal character placed above or below text in an equation, often with the purpose of grouping the text visually. Read-only.
 
 
 ## Syntax

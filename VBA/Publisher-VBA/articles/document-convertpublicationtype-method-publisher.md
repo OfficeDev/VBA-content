@@ -20,7 +20,7 @@ Converts the specified publication to the specified publication type.
 
  _expression_. **ConvertPublicationType**( **_Value_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -35,9 +35,9 @@ Converts the specified publication to the specified publication type.
 
 When a publication is converted, any settings that apply to its previous type remain, but are ignored. For example, converting a print publication to a Web publication results in any advanced print settings being ignored. If the publication is converted back to a print publication, the settings take effect again.
 
-Use the  **[PublicationType](document-publicationtype-property-publisher.md)** property of the **[Document](document-object-publisher.md)** object to determine the publication type of a publication.
+Use the **[PublicationType](document-publicationtype-property-publisher.md)** property of the **[Document](document-object-publisher.md)** object to determine the publication type of a publication.
 
-The Value parameter can be one of the following  **PbPublicationType** constants declared in the Microsoft Publisher type library.
+The Value parameter can be one of the following **PbPublicationType** constants declared in the Microsoft Publisher type library.
 
 
 

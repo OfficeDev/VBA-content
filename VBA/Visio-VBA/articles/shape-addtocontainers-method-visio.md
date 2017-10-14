@@ -30,10 +30,10 @@ Adds the shape to all underlying containers that allow it as a member.
 
 ## Remarks
 
-When you call the  **AddToContainers** method, Microsoft Visio uses the setting of the **[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property for each container to determine how the container resizes.
+When you call the **AddToContainers** method, Microsoft Visio uses the setting of the **[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property for each container to determine how the container resizes.
 
 If the underlying container is a list, the shape is added as a normal container member, and not as a list member.
 
-The  **AddToContainers** method works only if the shape sits at least partially on top of a container that does not already contain it.
+The **AddToContainers** method works only if the shape sits at least partially on top of a container that does not already contain it.
 
 

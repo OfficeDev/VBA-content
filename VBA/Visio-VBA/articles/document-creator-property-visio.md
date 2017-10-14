@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Setting the  **Creator** property is equivalent to entering information in the **Author** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**).
+Setting the **Creator** property is equivalent to entering information in the **Author** box in the **Properties** dialog box (click the **File** tab, click **Info**, click **Properties**, and then click **Advanced Properties**).
 
 
  **Security Note**  
@@ -40,7 +40,7 @@ Setting the  **Creator** property is equivalent to entering information in the *
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Creator** property to document the author of a drawing. It adds a **Document** object to the **Documents** collection and sets the **Document** object's **Creator** property as well as other document properties.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Creator** property to document the author of a drawing. It adds a **Document** object to the **Documents** collection and sets the **Document** object's **Creator** property as well as other document properties.
 
  Before running this macro, substitute your own values for the items in italic in the following code. To verify that these properties have been set, open the **Properties** dialog box.
 

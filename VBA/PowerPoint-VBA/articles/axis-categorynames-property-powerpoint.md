@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.CategoryNames Property (PowerPoint)
 
-Returns or sets all the category names as a text array for the specified axis. Read/write  **Variant**.
+Returns or sets all the category names as a text array for the specified axis. Read/write **Variant**.
 
 
 ## Syntax

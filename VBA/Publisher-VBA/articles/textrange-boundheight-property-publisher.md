@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.BoundHeight Property (Publisher)
 
-Returns a  **Single** indicating the height, in points, of the bounding box for the specified text range. Read-only.
+Returns a **Single** indicating the height, in points, of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax
 
  _expression_. **BoundHeight**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

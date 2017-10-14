@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStop.Position Property (Word)
 
-Returns or sets the position of a tab stop relative to the left margin. Read/write  **Single** .
+Returns or sets the position of a tab stop relative to the left margin. Read/write **Single** .
 
 
 ## Syntax

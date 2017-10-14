@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group2.Name Property (Project)
 
-Gets or sets the name of a  **Group2** object. Read/write **String**.
+Gets or sets the name of a **Group2** object. Read/write **String**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the name of a  **Group2** object. Read/write **String**.
 
 ## Example
 
-The following example displays the name of each  **Group2** object in the **TaskGroups2** collection in the **Immediate** window.
+The following example displays the name of each **Group2** object in the **TaskGroups2** collection in the **Immediate** window.
 
 
 ```vb

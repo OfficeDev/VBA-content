@@ -28,7 +28,7 @@ Adds a chart to the document. Returns a [Shape](shape-object-word.md) object tha
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |||||
-| _Style_|Optional|INT32|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|
+| _Style_|Optional|INT32|The chart style. Use "-1" to get the default style for the chart type specified in **Type**.|
 | _Type_|Optional|[XLCHARTTYPE](http://msdn.microsoft.com/library/bba4ee89-ee91-f55a-d2e0-59a73e5bfabe%28Office.15%29.aspx)|The type of chart.|
 | _Left_|Optional|VARIANT|The position, in points, of the left edge of the chart, relative to the anchor.|
 | _Top_|Optional|VARIANT|The position, in points, of the top edge of the chart, relative to the anchor.|

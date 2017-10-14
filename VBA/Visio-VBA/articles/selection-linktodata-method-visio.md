@@ -43,18 +43,18 @@ Nothing
 
 ## Remarks
 
-The  **Selection.LinkToData** method functions much like the same method of the **Shape** object, **[Shape.LinkToData](shape-linktodata-method-visio.md)** , except that it links a selection of shapes, instead of a single shape, to a single data row.
+The **Selection.LinkToData** method functions much like the same method of the **Shape** object, **[Shape.LinkToData](shape-linktodata-method-visio.md)** , except that it links a selection of shapes, instead of a single shape, to a single data row.
 
-If Visio cannot establish a link between a shape and the data row, Visio skips that shape and goes on to the next shape in the selection. After you run the method, to determine if all shapes in the selection are actually linked to the data row, call the  **[Shape.GetLinkedDataRow](shape-getlinkeddatarow-method-visio.md)** method on each shape in the selection. If that method fails for any shape, it indicates that the shape is not linked to the data row. Visio will usually succeed in linking a row to a shape unless the shape is already linked to data and the link-replacement-behavior setting for the data recordset specifies that the link should not be replaced.
+If Visio cannot establish a link between a shape and the data row, Visio skips that shape and goes on to the next shape in the selection. After you run the method, to determine if all shapes in the selection are actually linked to the data row, call the **[Shape.GetLinkedDataRow](shape-getlinkeddatarow-method-visio.md)** method on each shape in the selection. If that method fails for any shape, it indicates that the shape is not linked to the data row. Visio will usually succeed in linking a row to a shape unless the shape is already linked to data and the link-replacement-behavior setting for the data recordset specifies that the link should not be replaced.
 
-If you pass  **True** for the AutoApplyDataGraphics parameter, Visio re-applies the existing data graphic to shapes that already had data graphics applied before you called the method. For shapes that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
+If you pass **True** for the AutoApplyDataGraphics parameter, Visio re-applies the existing data graphic to shapes that already had data graphics applied before you called the method. For shapes that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **LinkToData** method to link the shapes in a selection to a data row.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **LinkToData** method to link the shapes in a selection to a data row.
 
-Before running this macro, place several shapes on the page and add at least one data recordset to the  **[DataRecordsets](datarecordsets-object-visio.md)** collection of the document. The macro uses the ID of the data recordset most recently added to the collection. It links selected shapes to the data in the first row of the data recordset.
+Before running this macro, place several shapes on the page and add at least one data recordset to the **[DataRecordsets](datarecordsets-object-visio.md)** collection of the document. The macro uses the ID of the data recordset most recently added to the collection. It links selected shapes to the data in the first row of the data recordset.
 
 
 

@@ -38,7 +38,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-This example uses the  **[Start](appointmentitem-start-property-outlook.md)** property of the **[AppointmentItem](appointmentitem-object-outlook.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](appointmentitem-sensitivity-property-outlook.md)** property of the **AppointmentItem** object is not already set to **olPrivate** , the example offers to mark the appointment as private.
+This example uses the **[Start](appointmentitem-start-property-outlook.md)** property of the **[AppointmentItem](appointmentitem-object-outlook.md)** object to determine if the appointment starts after normal business hours. If it does, and if the **[Sensitivity](appointmentitem-sensitivity-property-outlook.md)** property of the **AppointmentItem** object is not already set to **olPrivate** , the example offers to mark the appointment as private.
 
 
 ```vb

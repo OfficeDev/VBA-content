@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.ItemFont Property (Outlook)
 
-Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the font used when displaying Outlook items in the **[TimelineView](timelineview-object-outlook.md)** object. Read-only.
+Returns a **[ViewFont](viewfont-object-outlook.md)** object that represents the font used when displaying Outlook items in the **[TimelineView](timelineview-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ViewFont](viewfont-object-outlook.md)** object that represents the
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample increments the value of the  **[Size](viewfont-size-property-outlook.md)** property for the **ViewFont** object returned from the **ItemFont** property for the current **TimelineView** object.
+The following Visual Basic for Applications (VBA) sample increments the value of the **[Size](viewfont-size-property-outlook.md)** property for the **ViewFont** object returned from the **ItemFont** property for the current **TimelineView** object.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within the form field.
+Returns a **Range** object that represents the portion of a document that is contained within the form field.
 
 
 ## Syntax

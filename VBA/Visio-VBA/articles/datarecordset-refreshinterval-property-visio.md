@@ -33,10 +33,10 @@ Long
 
 ## Remarks
 
-When you create a  **DataRecordset** object, its **RefreshInterval** property is set to the default, 0. This setting indicates that data is not refreshed automatically.
+When you create a **DataRecordset** object, its **RefreshInterval** property is set to the default, 0. This setting indicates that data is not refreshed automatically.
 
-By setting  **RefreshInterval** to a positive **Long** value, you can specify the time in minutes between automatic refreshes. The minimum interval you can specify is one minute.
+By setting **RefreshInterval** to a positive **Long** value, you can specify the time in minutes between automatic refreshes. The minimum interval you can specify is one minute.
 
-This setting corresponds to the value a user can set in the  **Configure Refresh** dialog box.
+This setting corresponds to the value a user can set in the **Configure Refresh** dialog box.
 
 

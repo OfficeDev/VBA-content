@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Rows Property (Word)
 
-Returns a  **[Rows](rows-object-word.md)** collection that represents all the table rows in a range, selection, or table. Read-only.
+Returns a **[Rows](rows-object-word.md)** collection that represents all the table rows in a range, selection, or table. Read-only.
 
 
 ## Syntax

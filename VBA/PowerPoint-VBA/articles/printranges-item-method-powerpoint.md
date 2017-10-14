@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PrintRanges.Item Method (PowerPoint)
 
-Returns a single  **PrintRange** object from the specified **PrintRanges** collection.
+Returns a single **PrintRange** object from the specified **PrintRanges** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **PrintRange** object from the specified **PrintRanges** colle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **PrintRange** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **PrintRange** object in the collection to be returned.|
 
 ### Return Value
 

@@ -18,12 +18,12 @@ Represents a custom slide show, which is a named subset of slides in a presentat
 
 ## Remarks
 
-The  **NamedSlideShow** object is a member of the **[NamedSlideShows](namedslideshows-object-powerpoint.md)** collection. The **NamedSlideShows** collection contains all the named slide shows in the presentation.
+The **NamedSlideShow** object is a member of the **[NamedSlideShows](namedslideshows-object-powerpoint.md)** collection. The **NamedSlideShows** collection contains all the named slide shows in the presentation.
 
 
 ## Example
 
-Use  **NamedSlideShows** (index), where index is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
+Use **NamedSlideShows** (index), where index is the custom slide show name or index number, to return a single **NamedSlideShow** object. The following example deletes the custom slide show named "Quick Show."
 
 
 ```vb

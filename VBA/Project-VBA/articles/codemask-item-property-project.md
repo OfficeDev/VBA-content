@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CodeMask.Item Property (Project)
 
-Gets a single  **CodeMaskLevel** object from the **CodeMask** collection. Read-only **CodeMaskLevel**.
+Gets a single **CodeMaskLevel** object from the **CodeMask** collection. Read-only **CodeMaskLevel**.
 
 
 ## Syntax

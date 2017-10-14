@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.LockToBaseLine Property (Publisher)
 
-Returns an  **MsoTristate** that represents whether or not text will be positioned along baseline guides. Read/write.
+Returns an **MsoTristate** that represents whether or not text will be positioned along baseline guides. Read/write.
 
 
 ## Syntax
 
  _expression_. **LockToBaseLine**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTristate
 
 ## Remarks
 
-The  **LockToBaseLine** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **LockToBaseLine** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 
@@ -42,7 +42,7 @@ The  **LockToBaseLine** property value can be one of the **MsoTriState** constan
 
 ## Example
 
-The following example sets the  **LockToBaseLine** property to **True**.
+The following example sets the **LockToBaseLine** property to **True**.
 
 
 ```vb

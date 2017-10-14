@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Exception Object (Project)
 
-Represents a single calendar exception. The  **Exception** object is a member of the **[Exceptions](http://msdn.microsoft.com/library/7248983d-071a-5421-7378-0d98b3c6792e%28Office.15%29.aspx)** collection.
+Represents a single calendar exception. The **Exception** object is a member of the **[Exceptions](http://msdn.microsoft.com/library/7248983d-071a-5421-7378-0d98b3c6792e%28Office.15%29.aspx)** collection.
 
 
 ## Remarks
 
-Use the  **Exceptions** collections **[Item](http://msdn.microsoft.com/library/3e579cad-5061-933e-3096-3638c9dc04ca%28Office.15%29.aspx)** property to return a single **Exception** object.
+Use the **Exceptions** collections **[Item](http://msdn.microsoft.com/library/3e579cad-5061-933e-3096-3638c9dc04ca%28Office.15%29.aspx)** property to return a single **Exception** object.
 
-Use the  **Exceptions** collections **[Add](http://msdn.microsoft.com/library/a20cbcdf-d764-de46-d57f-0cc283665129%28Office.15%29.aspx)** method to add an **Exception** object to the **Exceptions** collection.
+Use the **Exceptions** collections **[Add](http://msdn.microsoft.com/library/a20cbcdf-d764-de46-d57f-0cc283665129%28Office.15%29.aspx)** method to add an **Exception** object to the **Exceptions** collection.
 
 
 ## Methods

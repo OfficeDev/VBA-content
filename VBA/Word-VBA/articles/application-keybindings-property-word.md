@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.KeyBindings Property (Word)
 
-Returns a  **[KeyBindings](keybindings-object-word.md)** collection that represents customized key assignments, which include a key code, a key category, and a command.
+Returns a **[KeyBindings](keybindings-object-word.md)** collection that represents customized key assignments, which include a key code, a key category, and a command.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[KeyBindings](keybindings-object-word.md)** collection that represe
 
 ## Example
 
-This example assigns the CTRL+ALT+W key combination to the  **FileClose** command. This keyboard customization is saved in the Normal template.
+This example assigns the CTRL+ALT+W key combination to the **FileClose** command. This keyboard customization is saved in the Normal template.
 
 
 ```

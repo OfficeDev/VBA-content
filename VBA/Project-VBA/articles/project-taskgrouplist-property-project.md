@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.TaskGroupList Property (Project)
 
-Gets a  **[List](list-object-project.md)** object representing the task groups in the active project. Read-only **List**.
+Gets a **[List](list-object-project.md)** object representing the task groups in the active project. Read-only **List**.
 
 
 ## Syntax

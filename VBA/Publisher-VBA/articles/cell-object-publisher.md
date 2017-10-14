@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Cell Object (Publisher)
 
-Represents a single table cell. The  **Cell** object is a member of the **[CellRange](http://msdn.microsoft.com/library/86e164f3-2a04-013f-3da8-d45c013eae7b%28Office.15%29.aspx)** collection. The **CellRange** collection represents all the cells in the specified object.
+Represents a single table cell. The **Cell** object is a member of the **[CellRange](http://msdn.microsoft.com/library/86e164f3-2a04-013f-3da8-d45c013eae7b%28Office.15%29.aspx)** collection. The **CellRange** collection represents all the cells in the specified object.
 
 
 ## Example
 
-Use  **Cells** (index), where index is the cell number, to return a **Cell** object. This example merges the first two cells of the first column of the specified table.
+Use **Cells** (index), where index is the cell number, to return a **Cell** object. This example merges the first two cells of the first column of the specified table.
 
 
 ```

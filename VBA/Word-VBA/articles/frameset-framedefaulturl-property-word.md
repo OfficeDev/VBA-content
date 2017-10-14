@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.FrameDefaultURL Property (Word)
 
-Returns or sets the Web page or other document to be displayed in the specified frame when the frames page is opened. Read/write  **String** .
+Returns or sets the Web page or other document to be displayed in the specified frame when the frames page is opened. Read/write **String** .
 
 
 ## Syntax

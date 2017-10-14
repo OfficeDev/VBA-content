@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.TableID Property (Word)
 
-Returns or sets a one-letter identifier that's used to build a table of contents from TOC fields. Read/write  **String** .
+Returns or sets a one-letter identifier that's used to build a table of contents from TOC fields. Read/write **String** .
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Cell.Selected Property (Publisher)
 
-Returns  **True** if a cell is selected. Read-only **Boolean**.
+Returns **True** if a cell is selected. Read-only **Boolean**.
 
 
 ## Syntax
 
  _expression_. **Selected**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ## Example

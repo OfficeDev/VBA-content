@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # TextStyle Object (Publisher)
 
-Represents a single built-in or user-defined style. The  **TextStyle** object includes style attributes (font, font style, paragraph spacing, and so on) as properties of the **TextStyle** object. The **TextStyle** object is a member of the **[TextStyles](textstyles-object-publisher.md)** collection. The **TextStyles** collection includes all the styles in the specified document.
+Represents a single built-in or user-defined style. The **TextStyle** object includes style attributes (font, font style, paragraph spacing, and so on) as properties of the **TextStyle** object. The **TextStyle** object is a member of the **[TextStyles](textstyles-object-publisher.md)** collection. The **TextStyles** collection includes all the styles in the specified document.
  
 
 
 ## Example
 
-Use  **TextStyles** (index), where index is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
+Use **TextStyles** (index), where index is the text style number or name, to return a single **TextStyle** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization.
  
 
  
@@ -27,7 +27,7 @@ Use  **TextStyles** (index), where index is the text style number or name, to re
  
 
  
-The following example displays the style name and base style of the first style in the  **TextStyles** collection.
+The following example displays the style name and base style of the first style in the **TextStyles** collection.
  
 
  
@@ -43,7 +43,7 @@ Sub BaseStyleName()
 End Sub
 ```
 
-Use the  **[Add](textstyles-add-method-publisher.md)** method to create a new style. To apply a style to a range, paragraph, or multiple paragraphs, set the **[TextStyle](paragraphformat-textstyle-property-publisher.md)** property to a user-defined or built-in style name. The following example creates a new style and applies it to the paragraph at the cursor position.
+Use the **[Add](textstyles-add-method-publisher.md)** method to create a new style. To apply a style to a range, paragraph, or multiple paragraphs, set the **[TextStyle](paragraphformat-textstyle-property-publisher.md)** property to a user-defined or built-in style name. The following example creates a new style and applies it to the paragraph at the cursor position.
  
 
  

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Window.Caption Property (Publisher)
 
-Returns or sets a  **String** indicating the caption at the top of the Microsoft Publisher application window. Read/write.
+Returns or sets a **String** indicating the caption at the top of the Microsoft Publisher application window. Read/write.
 
 
 ## Syntax
 
  _expression_. **Caption**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ### Return Value

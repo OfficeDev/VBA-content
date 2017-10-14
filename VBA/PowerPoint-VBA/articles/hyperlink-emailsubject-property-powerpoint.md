@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-This property is commonly used with e-mail hyperlinks. The value of this property takes precedence over any e-mail subject specified in the  **[Address](hyperlink-address-property-powerpoint.md)** property of the same **Hyperlink** object.
+This property is commonly used with e-mail hyperlinks. The value of this property takes precedence over any e-mail subject specified in the **[Address](hyperlink-address-property-powerpoint.md)** property of the same **Hyperlink** object.
 
 
 ## Example

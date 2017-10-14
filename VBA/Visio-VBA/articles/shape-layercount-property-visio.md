@@ -35,7 +35,7 @@ A shape is assigned to zero or more layers.
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **LayerCount** property to determine the number of layers to which a shape is assigned. It also uses the **Layers** property to add a layer to a drawing and the **Name** property to get the name of the current layer.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **LayerCount** property to determine the number of layers to which a shape is assigned. It also uses the **Layers** property to add a layer to a drawing and the **Name** property to get the name of the current layer.
 
 
 ```vb

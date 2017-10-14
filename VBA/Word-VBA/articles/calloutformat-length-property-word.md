@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Length Property (Word)
 
-Returns the length (in points) of the first segment of the callout line (the segment attached to the text callout box). Read-only  **Single** .
+Returns the length (in points) of the first segment of the callout line (the segment attached to the text callout box). Read-only **Single** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns the length (in points) of the first segment of the callout line (the seg
 
 ## Remarks
 
-The  **Length** property returns a value only when the **[AutoLength](calloutformat-autolength-property-word.md)** property of the specified callout is set to **False** and applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour** ).
+The **Length** property returns a value only when the **[AutoLength](calloutformat-autolength-property-word.md)** property of the specified callout is set to **False** and applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour** ).
 
-This property is read-only. Use the  **[CustomLength](calloutformat-customlength-method-word.md)** method to set the value of this property for the **[CalloutFormat](calloutformat-object-word.md)** object.
+This property is read-only. Use the **[CustomLength](calloutformat-customlength-method-word.md)** method to set the value of this property for the **[CalloutFormat](calloutformat-object-word.md)** object.
 
 
 ## Example

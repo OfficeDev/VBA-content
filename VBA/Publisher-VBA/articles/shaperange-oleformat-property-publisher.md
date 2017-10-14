@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.OLEFormat Property (Publisher)
 
-Returns an  **[OLEFormat](oleformat-object-publisher.md)** object that contains OLE formatting properties for the specified shape. Applies to  **Shape** or **ShapeRange** objects that represent OLE objects.
+Returns an **[OLEFormat](oleformat-object-publisher.md)** object that contains OLE formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent OLE objects.
 
 
 ## Syntax
 
  _expression_. **OLEFormat**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

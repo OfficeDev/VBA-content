@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.HorizontalInVertical Property (Word)
 
-Returns or sets the formatting for horizontal text set within vertical text. Read/write  **WdHorizontalInVerticalType** .
+Returns or sets the formatting for horizontal text set within vertical text. Read/write **WdHorizontalInVerticalType** .
 
 
 ## Syntax

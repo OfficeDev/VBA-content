@@ -15,7 +15,7 @@ Creates and displays a new Microsoft Outlook item.
 
  _expression_. **NewDefaultItem**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordsets.AddFromXML Method (Visio)
 
-Adds a  **[DataRecordset](datarecordset-object-visio.md)** object to the **[DataRecordsets](datarecordsets-object-visio.md)** collection, and fills the resulting data recordset with data supplied in the form of an XML string.
+Adds a **[DataRecordset](datarecordset-object-visio.md)** object to the **[DataRecordsets](datarecordsets-object-visio.md)** collection, and fills the resulting data recordset with data supplied in the form of an XML string.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,8 +33,8 @@ Adds a  **[DataRecordset](datarecordset-object-visio.md)** object to the **[Data
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _XMLString_|Required| **String**|An XML string that conforms to the Microsoft ActiveX? Data Objects (ADO) classic XML schema and that describes the data you want to import.|
-| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](visdatarecordsetaddoptions-enumeration-visio.md)** . For more information, see Remarks.|
-| _Name_|Optional| **String**|Assigns a display name to the  **DataRecordset** object being added.|
+| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from **[VisDataRecordsetAddOptions](visdatarecordsetaddoptions-enumeration-visio.md)** . For more information, see Remarks.|
+| _Name_|Optional| **String**|Assigns a display name to the **DataRecordset** object being added.|
 
 ### Return Value
 
@@ -45,27 +45,27 @@ DataRecordset
 
 For the XMLString parameter, pass an XML string that conforms to the ADO classic XML schema and that describes the data you want to import. A simple XML string is shown in the example later in this topic.
 
-The AddOptions parameter can be a combination of one or more of the following values from the  **VisDataRecordsetAddOptions** enumeration, which is declared in the Microsoft Visio type library. The default is zero (0), which specifies that none of the options be set.
+The AddOptions parameter can be a combination of one or more of the following values from the **VisDataRecordsetAddOptions** enumeration, which is declared in the Microsoft Visio type library. The default is zero (0), which specifies that none of the options be set.
 
 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the  **External Data** window.|
-| **visDataRecordsetNoAdvConfig**|4|Prevents the data recordset from being displayed in the  **Configure Refresh** dialog box.|
+| **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the **External Data** window.|
+| **visDataRecordsetNoAdvConfig**|4|Prevents the data recordset from being displayed in the **Configure Refresh** dialog box.|
 | **visDataRecordsetDontCopyLinks**|16|Adds a data recordset, but shape-data links are not cut or copied.|
  Once you assign these values, you cannot change them for the life of the **DataRecordset** object.
 
-The Name argument is an optional string that lets you assign the data recordset a display name. If you specify that the  **External Data** window display in the Visio UI, the name you pass for this argument appears on the tab of the **External Data** window that corresponds to the data recordset added.
+The Name argument is an optional string that lets you assign the data recordset a display name. If you specify that the **External Data** window display in the Visio UI, the name you pass for this argument appears on the tab of the **External Data** window that corresponds to the data recordset added.
 
-In contrast with data recordsets created by using the  **Add** or **AddFromConnectionFile** methods, data recordsets created by using the **AddFromXML** method are not associated with a **[DataConnection](dataconnection-object-visio.md)** object.
+In contrast with data recordsets created by using the **Add** or **AddFromConnectionFile** methods, data recordsets created by using the **AddFromXML** method are not associated with a **[DataConnection](dataconnection-object-visio.md)** object.
 
-What's more, Visio never refreshes a data recordset you created by using the  **AddFromXML** method automatically, regardless of the setting of the **[DataRecordset.RefreshInterval](datarecordset-refreshinterval-property-visio.md)** property. To refresh the data in such a data recordset, you must call the **[DataRecordset.RefreshUsingXML](datarecordset-refreshusingxml-method-visio.md)** method.
+What's more, Visio never refreshes a data recordset you created by using the **AddFromXML** method automatically, regardless of the setting of the **[DataRecordset.RefreshInterval](datarecordset-refreshinterval-property-visio.md)** property. To refresh the data in such a data recordset, you must call the **[DataRecordset.RefreshUsingXML](datarecordset-refreshusingxml-method-visio.md)** method.
 
-If the  **AddFromXML** method succeeds, it performs the following actions:
+If the **AddFromXML** method succeeds, it performs the following actions:
 
 
-- Creates an  **DataRecordset** object and assigns it the name you specify in the Name parameter. If you do not specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
+- Creates an **DataRecordset** object and assigns it the name you specify in the Name parameter. If you do not specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
     
 - Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. 
     
@@ -74,9 +74,9 @@ If the  **AddFromXML** method succeeds, it performs the following actions:
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **AddFromXML** method to connect a Visio drawing to data contained in an ADO XML string.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the **AddFromXML** method to connect a Visio drawing to data contained in an ADO XML string.
 
-A sample XML string is shown here. When it is passed to the  **AddFromXML** method, this string creates a data recordset that contains one column, named "Cities", and two data rows with entries in that column consisting of city names.
+A sample XML string is shown here. When it is passed to the **AddFromXML** method, this string creates a data recordset that contains one column, named "Cities", and two data rows with entries in that column consisting of city names.
 
 
 
@@ -102,7 +102,7 @@ rs:number='2' rs:nullable='true' rs:maydefer='true' rs:write='true'>
 </xml>
 ```
 
-In the following sample code, we pass the  **AddFromXML** method the name of an XML string containing data and the name of a string containing the display name we want to assign to the new data recordset being created.
+In the following sample code, we pass the **AddFromXML** method the name of an XML string containing data and the name of a string containing the display name we want to assign to the new data recordset being created.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SupportsMultipleWindows Property (Project)
 
-Always  **True** for Project and any other application that can have more than one window open at a time. Read-only **Boolean**.
+Always **True** for Project and any other application that can have more than one window open at a time. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Always  **True** for Project and any other application that can have more than o
 
 ## Remarks
 
-The  **SupportsMultipleWindows** property is useful with Automation. For example, suppose you want to open a second window in the application referred to by a variable. If the variable refers to one of several possible applications, you may want to use the **SupportsMultipleWindows** property to confirm that the application currently referenced by the variable can have more than one window open at a time.
+The **SupportsMultipleWindows** property is useful with Automation. For example, suppose you want to open a second window in the application referred to by a variable. If the variable refers to one of several possible applications, you may want to use the **SupportsMultipleWindows** property to confirm that the application currently referenced by the variable can have more than one window open at a time.
 
 

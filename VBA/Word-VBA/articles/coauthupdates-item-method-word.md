@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthUpdates.Item Method (Word)
 
-Returns an individual  **CoAuthUpdates** object in a collection.
+Returns an individual **CoAuthUpdates** object in a collection.
 
 
 ## Syntax

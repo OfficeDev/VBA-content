@@ -36,7 +36,7 @@ Sets the starting and ending character positions for the selection.
 
 Character position values start at the beginning of the story, with the first value being 0 (zero). All characters are counted, including nonprinting characters. Hidden characters are counted even if they're not displayed.
 
-The  **SetRange** method redefines the starting and ending positions of an existing **Selection** object. This method differs from the **Range** method, which is used to create a **Range** object, given a starting and ending position.
+The **SetRange** method redefines the starting and ending positions of an existing **Selection** object. This method differs from the **Range** method, which is used to create a **Range** object, given a starting and ending position.
 
 
 ## Example

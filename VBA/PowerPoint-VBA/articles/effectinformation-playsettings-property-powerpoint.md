@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EffectInformation.PlaySettings Property (PowerPoint)
 
-Returns a  **[PlaySettings](playsettings-object-powerpoint.md)** object that contains information about how the specified media clip plays during a slide show. Read-only.
+Returns a **[PlaySettings](playsettings-object-powerpoint.md)** object that contains information about how the specified media clip plays during a slide show. Read-only.
 
 
 ## Syntax

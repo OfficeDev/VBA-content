@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrectEntries.Item Method (Word)
 
-Returns an  **OMathAutoCorrectEntry** object that represents the specified item in the collection.
+Returns an **OMathAutoCorrectEntry** object that represents the specified item in the collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns an  **OMathAutoCorrectEntry** object that represents the specified item 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Specifies a  **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
+| _Index_|Required| **Variant**|Specifies a **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
 
 ### Return Value
 

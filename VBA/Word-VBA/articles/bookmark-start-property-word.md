@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark.Start Property (Word)
 
-Returns or sets the starting character position of a bookmark. Read/write  **Long** .
+Returns or sets the starting character position of a bookmark. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the starting character position of a bookmark. Read/write  **Lon
 
 ## Remarks
 
-If this property is set to a value larger than that of the  **[End](bookmark-end-property-word.md)** property, the **End** property is set to the same value as that of **Start** property.
+If this property is set to a value larger than that of the **[End](bookmark-end-property-word.md)** property, the **End** property is set to the same value as that of **Start** property.
 
  Bookmark objects have starting and ending character positions. The starting position refers to the character position closest to the beginning of the story.
 

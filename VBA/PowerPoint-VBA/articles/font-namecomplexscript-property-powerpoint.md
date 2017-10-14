@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-When you have a right-to-left language setting specified, this property is equivalent to the  **Complex scripts font** list in the **Font** dialog box ( **Font** tab). When you have an Asian language setting specified, this property is equivalent to the **Asian text font** list in the **Font** dialog box ( **Font** tab).
+When you have a right-to-left language setting specified, this property is equivalent to the **Complex scripts font** list in the **Font** dialog box ( **Font** tab). When you have an Asian language setting specified, this property is equivalent to the **Asian text font** list in the **Font** dialog box ( **Font** tab).
 
 
 ## Example

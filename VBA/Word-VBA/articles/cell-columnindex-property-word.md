@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.ColumnIndex Property (Word)
 
-Returns the number of the table column that contains the specified cell. Read-only  **Long** .
+Returns the number of the table column that contains the specified cell. Read-only **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.Alignment Property (PowerPoint)
 
-Returns or sets the alignment for the specified phonetic text or tick label. Read/write  **Long**.
+Returns or sets the alignment for the specified phonetic text or tick label. Read/write **Long**.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Units Property (Project)
 
-Gets or sets the number of units completed for the assignment. Read-write  **Variant**.
+Gets or sets the number of units completed for the assignment. Read-write **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the number of units completed for the assignment. Read-write  **Var
 
 ## Remarks
 
-If a resource has completed 80% of the assignment, for example, the  **Units** value is 0.8.
+If a resource has completed 80% of the assignment, for example, the **Units** value is 0.8.
 
 

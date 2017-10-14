@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.OutlineNumber Property (Project)
 
-Gets a value that indicates the position of the task in the outline hierarchy. Read-only  **String**.
+Gets a value that indicates the position of the task in the outline hierarchy. Read-only **String**.
 
 
 ## Syntax

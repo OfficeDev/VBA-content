@@ -10,21 +10,21 @@ ms.date: 06/08/2017
 
 The client can listen for and respond to changes on a node or on a node and on all of its children. An add-in can respond to the following events.
 
-On the  **CustomXMLParts** collection:
+On the **CustomXMLParts** collection:
 
--  **StreamAfterAdd.** Allows a client to respond after a new store is added to the document.
+- **StreamAfterAdd.** Allows a client to respond after a new store is added to the document.
     
--  **StreamBeforeDelete.** Allows a client to respond before a store is removed from the document.
+- **StreamBeforeDelete.** Allows a client to respond before a store is removed from the document.
     
--  **StreamAfterLoad.** Allows a client to respond after a store item is loaded with XML.
+- **StreamAfterLoad.** Allows a client to respond after a store item is loaded with XML.
     
-On the  **CustomXMLPart** object:
+On the **CustomXMLPart** object:
 
--  **NodeAfterInsert.** Allows a client to respond after a new node is added to a store. If the added node contains a subtree, the event fires only once , for the top-most node.
+- **NodeAfterInsert.** Allows a client to respond after a new node is added to a store. If the added node contains a subtree, the event fires only once , for the top-most node.
     
--  **NodeAfterDelete.** Allows a client to respond after a node is deleted. If the deleted node contains a subtree, the event fires only once, for the top-most node.
+- **NodeAfterDelete.** Allows a client to respond after a node is deleted. If the deleted node contains a subtree, the event fires only once, for the top-most node.
     
--  **NodeAfterReplace.** Allows a client to respond after an XML node is replaced in the store.
+- **NodeAfterReplace.** Allows a client to respond after an XML node is replaced in the store.
     
 
 ## Sample

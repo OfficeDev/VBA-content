@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMat.Rows Property (Word)
 
-Returns an  **[OMathMatRows](omathmatrows-object-word.md)** object that represents the rows in a matrix. Read-only.
+Returns an **[OMathMatRows](omathmatrows-object-word.md)** object that represents the rows in a matrix. Read-only.
 
 
 ## Syntax

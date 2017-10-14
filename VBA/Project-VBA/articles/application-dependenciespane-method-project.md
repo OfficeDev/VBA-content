@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DependenciesPane Method (Project)
 
-Displays the project  **Dependency** pane when connected to Project Server. Available in Project Professional only.
+Displays the project **Dependency** pane when connected to Project Server. Available in Project Professional only.
 
 
 ## Syntax

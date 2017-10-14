@@ -18,7 +18,7 @@ Contains properties and methods that apply to pictures.
 
 ## Example
 
-Use the  **[PictureFormat](http://msdn.microsoft.com/library/2a812ba3-18e4-fc42-6d07-535511a79650%28Office.15%29.aspx)** property to return a **PictureFormat** object. The following example sets the brightness, contrast, and color transformation for shape one on the active document and crops 18 points off the bottom of the shape. For this example to work, shape one must be either a picture or an OLE object.
+Use the **[PictureFormat](http://msdn.microsoft.com/library/2a812ba3-18e4-fc42-6d07-535511a79650%28Office.15%29.aspx)** property to return a **PictureFormat** object. The following example sets the brightness, contrast, and color transformation for shape one on the active document and crops 18 points off the bottom of the shape. For this example to work, shape one must be either a picture or an OLE object.
 
 
 ```

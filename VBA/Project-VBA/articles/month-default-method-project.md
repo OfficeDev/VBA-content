@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Month.Default Method (Project)
 
-Resets the  **Month** item of a resource calendar to the value in the corresponding base calendar.
+Resets the **Month** item of a resource calendar to the value in the corresponding base calendar.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Resets the  **Month** item of a resource calendar to the value in the correspond
 
 ## Remarks
 
-Applying the  **Default** method to a base calendar resets the properties to their default values.
+Applying the **Default** method to a base calendar resets the properties to their default values.
 
 

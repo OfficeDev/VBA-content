@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Calendar.Exceptions Property (Project)
 
-Gets the  **[Exceptions](exceptions-object-project.md)** collection object. Read-only **Exceptions**.
+Gets the **[Exceptions](exceptions-object-project.md)** collection object. Read-only **Exceptions**.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ResourceFilterList Property (Project)
 
-Gets a  **[List](list-object-project.md)** object representing all resource filters in the project. Read-only **List**.
+Gets a **[List](list-object-project.md)** object representing all resource filters in the project. Read-only **List**.
 
 
 ## Syntax

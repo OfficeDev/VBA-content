@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LookupTable.Item Property (Project)
 
-Gets a single  **LookupTableEntry** object from the **LookupTable** collection object. Read-only **LookupTableEntry**.
+Gets a single **LookupTableEntry** object from the **LookupTable** collection object. Read-only **LookupTableEntry**.
 
 
 ## Syntax

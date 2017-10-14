@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Footnotes Property (Word)
 
-Returns a  **[Footnotes](footnotes-object-word.md)** collection that represents all the footnotes in a range, selection, or document. Read-only.
+Returns a **[Footnotes](footnotes-object-word.md)** collection that represents all the footnotes in a range, selection, or document. Read-only.
 
 
 ## Syntax

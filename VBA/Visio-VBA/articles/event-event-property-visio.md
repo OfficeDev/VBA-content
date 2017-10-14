@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Event.Event Property (Visio)
 
-Gets or sets the event code of an  **Event** object—an event-action pair. When the event occurs, the action is performed. Read/write.
+Gets or sets the event code of an **Event** object—an event-action pair. When the event occurs, the action is performed. Read/write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Integer
 
 ## Remarks
 
-If the action code of the  **Event** object is **visActCodeRunAddon** , the event also specifies the target of the action and the arguments to send to the target. This information is stored in the **Target** and **TargetArgs** properties, respectively.
+If the action code of the **Event** object is **visActCodeRunAddon** , the event also specifies the target of the action and the arguments to send to the target. This information is stored in the **Target** and **TargetArgs** properties, respectively.
 
-If the action code of the  **Event** object is **visActCodeAdvise** , the event also specifies the object to receive event notifications (sometimes called the sink object) and arguments to send to the sink object along with the notification.
+If the action code of the **Event** object is **visActCodeAdvise** , the event also specifies the object to receive event notifications (sometimes called the sink object) and arguments to send to the sink object along with the notification.
 
-Event codes are declared by the Microsoft Visio type library in  **[VisEventCodes](viseventcodes-enumeration-visio.md)** . They are prefixed with " **visEvt** ". For a list of event codes, see[Event Codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
+Event codes are declared by the Microsoft Visio type library in **[VisEventCodes](viseventcodes-enumeration-visio.md)** . They are prefixed with " **visEvt** ". For a list of event codes, see[Event Codes](http://msdn.microsoft.com/library/de8f5c7a-421d-ebcf-22b6-4310a202ef64%28Office.15%29.aspx).
 
-A program can use the  **Trigger** method to cause an **Event** object's action to be performed without waiting for the event to occur.
+A program can use the **Trigger** method to cause an **Event** object's action to be performed without waiting for the event to occur.
 
 

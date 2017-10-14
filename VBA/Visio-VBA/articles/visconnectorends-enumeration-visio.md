@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisConnectorEnds Enumeration (Visio)
 
-Specifies constants that define the end points of a connector; passed to the  **[Shape.Disconnect](shape-disconnect-method-visio.md)** method.
+Specifies constants that define the end points of a connector; passed to the **[Shape.Disconnect](shape-disconnect-method-visio.md)** method.
 
 
 

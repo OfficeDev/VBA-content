@@ -20,7 +20,7 @@ Incrementally changes the horizontal offset of the shadow by the specified dista
 
  _expression_. **IncrementOffsetX**( **_Increment_**)
 
- _expression_A variable that represents a  **ShadowFormat** object.
+ _expression_A variable that represents a **ShadowFormat** object.
 
 
 ### Parameters
@@ -33,9 +33,9 @@ Incrementally changes the horizontal offset of the shadow by the specified dista
 
 ## Remarks
 
-Use the  **[OffsetX](shadowformat-offsetx-property-publisher.md)** property to set the absolute horizontal shadow offset.
+Use the **[OffsetX](shadowformat-offsetx-property-publisher.md)** property to set the absolute horizontal shadow offset.
 
-Use the  **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** method to change a shadow's vertical offset.
+Use the **[IncrementOffsetY](shadowformat-incrementoffsety-method-publisher.md)** method to change a shadow's vertical offset.
 
 
 ## Example

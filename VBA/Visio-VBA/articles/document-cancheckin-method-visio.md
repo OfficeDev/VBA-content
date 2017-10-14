@@ -52,7 +52,7 @@ Sub CheckDocIn (varDocCheckIn As Variant)
 End Sub
 ```
 
-To call the preceding  **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
+To call the preceding **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
 
 
 

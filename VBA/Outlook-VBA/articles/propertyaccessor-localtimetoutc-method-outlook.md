@@ -33,12 +33,12 @@ Converts a date-time value specified by  _Value_ from the local time format to C
 
 ### Return Value
 
-A  **Date** value that represents _Value_ after being converted from local time to UTC.
+A **Date** value that represents _Value_ after being converted from local time to UTC.
 
 
 ## Remarks
 
-For more information on type conversion when using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on type conversion when using the **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
 
 
 ## See also

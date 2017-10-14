@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Zooms.Item Method (Word)
 
-Returns the specified  **Zoom** object.
+Returns the specified **Zoom** object.
 
 
 ## Syntax

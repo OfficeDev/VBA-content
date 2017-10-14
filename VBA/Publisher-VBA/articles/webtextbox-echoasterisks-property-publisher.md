@@ -20,7 +20,7 @@ Specifies whether asterisks should be displayed in place of text that is entered
 
  _expression_. **EchoAsterisks**
 
- _expression_A variable that represents an  **WebTextBox** object.
+ _expression_A variable that represents an **WebTextBox** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTrue
 
 ## Remarks
 
-The  **EchoAsterisks** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **EchoAsterisks** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

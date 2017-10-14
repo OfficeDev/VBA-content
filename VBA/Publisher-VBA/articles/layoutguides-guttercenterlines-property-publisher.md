@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LayoutGuides.GutterCenterlines Property (Publisher)
 
-Returns or sets a value that specifies whether to add a center line between the columns and rows of the gutter guides in a master page. Read/write  **Boolean**.
+Returns or sets a value that specifies whether to add a center line between the columns and rows of the gutter guides in a master page. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **GutterCenterlines**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_A variable that represents a **LayoutGuides** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Boolean
 
 ## Remarks
 
-The  **GutterCenterlines** property can only be used if the ** [LayoutGuides.Rows](layoutguides-rows-property-publisher.md)** property or the ** [LayoutGuides.Columns](layoutguides-columns-property-publisher.md)** property is greater than 1.
+The **GutterCenterlines** property can only be used if the ** [LayoutGuides.Rows](layoutguides-rows-property-publisher.md)** property or the ** [LayoutGuides.Columns](layoutguides-columns-property-publisher.md)** property is greater than 1.
 
-If  **True**, a red line appears in the center of the gutter guides. If  **False**, no line appears in the center of the gutter guides. The default value is  **False**.
+If **True**, a red line appears in the center of the gutter guides. If **False**, no line appears in the center of the gutter guides. The default value is **False**.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Range Object (Word)
 
-Represents a contiguous area in a document. Each  **Range** object is defined by a starting and ending character position.
+Represents a contiguous area in a document. Each **Range** object is defined by a starting and ending character position.
 
 
 ## Remarks
 
-Similar to the way bookmarks are used in a document,  **Range** objects are used in Visual Basic procedures to identify specific portions of a document. However, unlike a bookmark, a **Range** object only exists while the procedure that defined it is running. **Range** objects are independent of the selection. That is, you can define and manipulate a range without changing the selection. You can also define multiple ranges in a document, while there can be only one selection per pane.
+Similar to the way bookmarks are used in a document, **Range** objects are used in Visual Basic procedures to identify specific portions of a document. However, unlike a bookmark, a **Range** object only exists while the procedure that defined it is running. **Range** objects are independent of the selection. That is, you can define and manipulate a range without changing the selection. You can also define multiple ranges in a document, while there can be only one selection per pane.
 
-Use the  **Range** method to return a **Range** object defined by the given starting and ending character positions. The following example returns a **Range** object that refers to the first 10 characters in the active document.
+Use the **Range** method to return a **Range** object defined by the given starting and ending character positions. The following example returns a **Range** object that refers to the first 10 characters in the active document.
 
 
 
@@ -29,7 +29,7 @@ Use the  **Range** method to return a **Range** object defined by the given star
 Set myRange = ActiveDocument.Range(Start:=0, End:=10)
 ```
 
-Use the  **Range** property to return a **Range** object defined by the beginning and end of another object. The **Range** property applies to many objects (for example, **Paragraph**, **Bookmark**, and **Cell** ). The following example returns a **Range** object that refers to the first paragraph in the active document.
+Use the **Range** property to return a **Range** object defined by the beginning and end of another object. The **Range** property applies to many objects (for example, **Paragraph**, **Bookmark**, and **Cell** ). The following example returns a **Range** object that refers to the first paragraph in the active document.
 
 
 
@@ -38,7 +38,7 @@ Use the  **Range** property to return a **Range** object defined by the beginnin
 Set aRange = ActiveDocument.Paragraphs(1).Range
 ```
 
-The following example returns a  **Range** object that refers to the second through fourth paragraphs in the active document
+The following example returns a **Range** object that refers to the second through fourth paragraphs in the active document
 
 
 
@@ -49,7 +49,7 @@ Set aRange = ActiveDocument.Range( _
  End:=ActiveDocument.Paragraphs(4).Range.End)
 ```
 
-For more information about working with  **Range** objects, see [Working with Range Objects](http://msdn.microsoft.com/library/9e240aa7-8608-9d70-aee3-2e202687459e%28Office.15%29.aspx).
+For more information about working with **Range** objects, see [Working with Range Objects](http://msdn.microsoft.com/library/9e240aa7-8608-9d70-aee3-2e202687459e%28Office.15%29.aspx).
 
 
 ## Methods

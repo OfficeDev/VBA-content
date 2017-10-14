@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Field.Result Property (Publisher)
 
-Returns a  **String** that represents the result of the specified field. Read-only.
+Returns a **String** that represents the result of the specified field. Read-only.
 
 
 ## Syntax
 
  _expression_. **Result**
 
- _expression_A variable that represents a  **Field** object.
+ _expression_A variable that represents a **Field** object.
 
 
 ### Return Value

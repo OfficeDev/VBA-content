@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.DocumentLibraryVersions Property (Project)
 
-Gets a  **DocumentLibraryVersions** collection for the specified project. Read-only **DocumentLibraryVersions**.
+Gets a **DocumentLibraryVersions** collection for the specified project. Read-only **DocumentLibraryVersions**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets a  **DocumentLibraryVersions** collection for the specified project. Read-o
 
 ## Remarks
 
-For more information, see the  **DocumentLibraryVersions** object in the Office Developer Reference.
+For more information, see the **DocumentLibraryVersions** object in the Office Developer Reference.
 
 

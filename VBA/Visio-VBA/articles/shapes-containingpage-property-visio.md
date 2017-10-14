@@ -30,6 +30,6 @@ Page
 
 ## Remarks
 
-If the object isn't in a  **Page** object, the **ContainingPage** property returns **Nothing** . For example, if a **Shape** object belongs to a **Masters** collection, the **ContainingPage** property returns **Nothing** .
+If the object isn't in a **Page** object, the **ContainingPage** property returns **Nothing** . For example, if a **Shape** object belongs to a **Masters** collection, the **ContainingPage** property returns **Nothing** .
 
 

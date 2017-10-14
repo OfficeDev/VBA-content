@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.MoveToStart Method (Outlook)
 
-Moves the current row of the  **[Table](table-object-outlook.md)** to just before the first row of the **Table** .
+Moves the current row of the **[Table](table-object-outlook.md)** to just before the first row of the **Table** .
 
 
 ## Syntax

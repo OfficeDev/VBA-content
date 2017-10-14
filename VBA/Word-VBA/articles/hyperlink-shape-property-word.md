@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Shape Property (Word)
 
-Returns a  **Shape** object for the specified hyperlink or diagram node.
+Returns a **Shape** object for the specified hyperlink or diagram node.
 
 
 ## Syntax

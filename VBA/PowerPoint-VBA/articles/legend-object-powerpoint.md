@@ -20,7 +20,7 @@ Represents the legend in a chart. Each chart can have only one legend.
 
  The **Legend** object contains one or more **[LegendEntry](legendentry-object-powerpoint.md)** objects; each **LegendEntry** object contains a **[LegendKey](legendkey-object-powerpoint.md)** object.
 
-The chart legend is not visible unless the  **[HasLegend](chart-haslegend-property-powerpoint.md)** property is **True**. If this property is **False**, properties and methods of the **Legend** object will fail.
+The chart legend is not visible unless the **[HasLegend](chart-haslegend-property-powerpoint.md)** property is **True**. If this property is **False**, properties and methods of the **Legend** object will fail.
 
 
 ## Example
@@ -30,7 +30,7 @@ The chart legend is not visible unless the  **[HasLegend](chart-haslegend-proper
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[Legend](chart-legend-property-powerpoint.md)** property to return the **Legend** object. The following example sets the font style for the legend of the first chart in the active document to bold.
+Use the **[Legend](chart-legend-property-powerpoint.md)** property to return the **Legend** object. The following example sets the font style for the legend of the first chart in the active document to bold.
 
 
 

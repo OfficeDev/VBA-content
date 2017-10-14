@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeZoneControl.AppointmentTimeField Property (Outlook)
 
-Returns or sets an  **[OlAppointmentTimeField](olappointmenttimefield-enumeration-outlook.md)** constant that specifies the time field on the appointment that the control binds against. Read/write.
+Returns or sets an **[OlAppointmentTimeField](olappointmenttimefield-enumeration-outlook.md)** constant that specifies the time field on the appointment that the control binds against. Read/write.
 
 
 ## Syntax

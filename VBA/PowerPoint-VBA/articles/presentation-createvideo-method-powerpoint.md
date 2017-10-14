@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.CreateVideo Method (PowerPoint)
 
-Creates a video in a  **Presentation** object.
+Creates a video in a **Presentation** object.
 
 
 ## Syntax

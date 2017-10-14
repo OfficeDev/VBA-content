@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **Overallocated** property does not return any meaningful information for material resources.
+The **Overallocated** property does not return any meaningful information for material resources.
 
 
 ## Example

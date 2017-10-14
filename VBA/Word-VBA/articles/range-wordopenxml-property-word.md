@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.WordOpenXML Property (Word)
 
-Returns a  **String** that represents the XML contained within the range in the Microsoft Word Open XML format. Read-only.
+Returns a **String** that represents the XML contained within the range in the Microsoft Word Open XML format. Read-only.
 
 
 ## Syntax

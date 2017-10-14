@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisContainerTypes Enumeration (Visio)
 
-Specifies whether member shapes are arranged in a list; value returned by the  **[ContainerProperties.ContainerType](containerproperties-containertype-property-visio.md)** property.
+Specifies whether member shapes are arranged in a list; value returned by the **[ContainerProperties.ContainerType](containerproperties-containertype-property-visio.md)** property.
 
 
 

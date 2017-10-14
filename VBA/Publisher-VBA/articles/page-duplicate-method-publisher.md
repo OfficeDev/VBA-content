@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.Duplicate Method (Publisher)
 
-Creates a duplicate of the specified  **Page** object and then returns the new **Page** object.
+Creates a duplicate of the specified **Page** object and then returns the new **Page** object.
 
 
 ## Syntax
 
  _expression_. **Duplicate**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Return Value

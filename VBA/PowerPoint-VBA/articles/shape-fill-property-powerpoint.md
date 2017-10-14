@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Fill Property (PowerPoint)
 
-Returns a  **[FillFormat](fillformat-object-powerpoint.md)** object that contains fill formatting properties for the specified shape. Read-only.
+Returns a **[FillFormat](fillformat-object-powerpoint.md)** object that contains fill formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

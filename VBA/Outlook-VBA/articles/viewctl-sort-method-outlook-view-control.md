@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ViewCtl.Sort Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Sort** dialog box.
+Displays the Microsoft Outlook **Sort** dialog box.
 
 
 ## Syntax
 
  _expression_. **Sort**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

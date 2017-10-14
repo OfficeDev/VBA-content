@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Views Method (Project)
 
-Displays the  **More Views** dialog box with the current view selected, which prompts the user to manage views.
+Displays the **More Views** dialog box with the current view selected, which prompts the user to manage views.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Displays the  **More Views** dialog box with the current view selected, which pr
 
 ## Remarks
 
-The  **Views** method has the same effect as the **More Views** command in the **Other Views** drop-down list on the **View** tab of the Ribbon.
+The **Views** method has the same effect as the **More Views** command in the **Other Views** drop-down list on the **View** tab of the Ribbon.
 
-To specify the pane to select in a split view, use the  **[ViewsEx](application-viewsex-method-project.md)** method.
+To specify the pane to select in a split view, use the **[ViewsEx](application-viewsex-method-project.md)** method.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.VBE Property (Word)
 
-Returns a  **VBE** object that represents the Visual Basic Editor.
+Returns a **VBE** object that represents the Visual Basic Editor.
 
 
 ## Syntax

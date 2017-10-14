@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisRuleTargets Enumeration (Visio)
 
-Specifies contants that define the target of the validation rule; passed to and returned by the  **[ValidationRule.TargetType](validationrule-targettype-property-visio.md)** property.
+Specifies contants that define the target of the validation rule; passed to and returned by the **[ValidationRule.TargetType](validationrule-targettype-property-visio.md)** property.
 
 
 

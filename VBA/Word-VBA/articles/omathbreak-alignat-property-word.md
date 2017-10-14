@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBreak.AlignAt Property (Word)
 
-Returns or sets a  **Long** that represents the operator in one line, to which Microsoft Word aligns consecutive lines in an equation. Read/write.
+Returns or sets a **Long** that represents the operator in one line, to which Microsoft Word aligns consecutive lines in an equation. Read/write.
 
 
 ## Syntax

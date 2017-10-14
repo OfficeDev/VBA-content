@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpTextStyleType Enumeration (PowerPoint)
 
-Constants that specify the text style type, passed to the  **Item** method of the **TextStyles** collection.
+Constants that specify the text style type, passed to the **Item** method of the **TextStyles** collection.
 
 
 

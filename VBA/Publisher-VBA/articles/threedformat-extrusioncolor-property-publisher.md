@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ExtrusionColor Property (Publisher)
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing the color of the shape's extrusion.
+Returns a **[ColorFormat](colorformat-object-publisher.md)** object representing the color of the shape's extrusion.
 
 
 ## Syntax
 
  _expression_. **ExtrusionColor**
 
- _expression_A variable that represents an  **ThreeDFormat** object.
+ _expression_A variable that represents an **ThreeDFormat** object.
 
 
 ### Return Value

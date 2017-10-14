@@ -30,6 +30,6 @@ Displays remaining availability information in the active Resource Graph view.
 
 ## Remarks
 
-The  **ViewShowRemainingAvailability** method has no effect unless the active window contains the Resource Graph view.
+The **ViewShowRemainingAvailability** method has no effect unless the active window contains the Resource Graph view.
 
 

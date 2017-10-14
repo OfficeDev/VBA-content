@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisResizeDirection Enumeration (Visio)
 
-Specifies the resize directions that correspond to the shape handles to move; passed to the  **[Shape.Resize](shape-resize-method-visio.md)** and **[Selection.Resize](selection-resize-method-visio.md)** methods.
+Specifies the resize directions that correspond to the shape handles to move; passed to the **[Shape.Resize](shape-resize-method-visio.md)** and **[Selection.Resize](selection-resize-method-visio.md)** methods.
 
 
 

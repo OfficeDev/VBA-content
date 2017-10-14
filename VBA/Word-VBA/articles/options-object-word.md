@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Options Object (Word)
 
-Represents application and document options in Word. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box.
+Represents application and document options in Word. Many of the properties for the **Options** object correspond to items in the **Options** dialog box.
 
 
 ## Remarks
 
-Use the  **Options** property to return the **Options** object. The following example sets three application options for Word.
+Use the **Options** property to return the **Options** object. The following example sets three application options for Word.
 
 
 ```

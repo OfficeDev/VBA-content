@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIns.Add Method (Word)
 
-Returns an  **[AddIn](addin-object-word.md)** object that represents an add-in added to the list of available add-ins.
+Returns an **[AddIn](addin-object-word.md)** object that represents an add-in added to the list of available add-ins.
 
 
 ## Syntax
@@ -34,12 +34,12 @@ Returns an  **[AddIn](addin-object-word.md)** object that represents an add-in a
 
 ## Remarks
 
-Use the  **[Installed](addin-installed-property-word.md)** property of an add-in to see whether it is already installed.
+Use the **[Installed](addin-installed-property-word.md)** property of an add-in to see whether it is already installed.
 
 
 ## Example
 
-This example installs a template named MyFax.dot and adds it to the list of add-ins in the  **Templates and Add-ins** dialog box.
+This example installs a template named MyFax.dot and adds it to the list of add-ins in the **Templates and Add-ins** dialog box.
 
 
 ```vb

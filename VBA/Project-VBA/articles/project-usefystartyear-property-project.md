@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **UseFYStartYear** property can also be set with the **[OptionsCalendar](application-optionscalendar-method-project.md)** method or on the **Schedule** tab of the **Project Options** dialog box.
+The **UseFYStartYear** property can also be set with the **[OptionsCalendar](application-optionscalendar-method-project.md)** method or on the **Schedule** tab of the **Project Options** dialog box.
 
 

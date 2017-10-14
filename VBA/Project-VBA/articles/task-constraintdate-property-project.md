@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.ConstraintDate Property (Project)
 
-Gets or sets a constraint date for a task. Read/write  **Variant**.
+Gets or sets a constraint date for a task. Read/write **Variant**.
 
 
 ## Syntax

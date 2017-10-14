@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion2.Delete Method (Project)
 
-Deletes a  **GroupCriterion2** object from its containing **GroupCriteria2** collection.
+Deletes a **GroupCriterion2** object from its containing **GroupCriteria2** collection.
 
 
 ## Syntax

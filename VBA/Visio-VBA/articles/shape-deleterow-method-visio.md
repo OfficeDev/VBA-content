@@ -39,14 +39,14 @@ Nothing
 
 ## Remarks
 
-To remove one row at a time from a ShapeSheet section, use the  **DeleteRow** method. If the section has indexed rows, the rows following the deleted row shift position. If the row does not exist, nothing is deleted.
+To remove one row at a time from a ShapeSheet section, use the **DeleteRow** method. If the section has indexed rows, the rows following the deleted row shift position. If the row does not exist, nothing is deleted.
 
 You should not delete rows that define fundamental characteristics of a shape, such as the 1-D Endpoints row ( **visRowXForm1D** ) or the component row ( **visRowComponent** ) or the MoveTo row ( **visRowVertex** + 0) in a Geometry section. You cannot delete rows from sections represented by **visSectionCharacter** , **visSectionParagraph** , and **visSectionTab** .
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **DeleteRow** method to delete a ShapeSheet row.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **DeleteRow** method to delete a ShapeSheet row.
 
 
 ```vb

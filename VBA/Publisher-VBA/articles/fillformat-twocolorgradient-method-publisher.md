@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.TwoColorGradient Method (Publisher)
 
-Sets the specified fill to a two-color gradient. The two fill colors are specified by the  **[ForeColor](fillformat-forecolor-property-publisher.md)** and **[BackColor](fillformat-backcolor-property-publisher.md)** properties.
+Sets the specified fill to a two-color gradient. The two fill colors are specified by the **[ForeColor](fillformat-forecolor-property-publisher.md)** and **[BackColor](fillformat-backcolor-property-publisher.md)** properties.
 
 
 ## Syntax
 
- _expression_. **TwoColorGradient**( **_Style_**,  **_Variant_**)
+ _expression_. **TwoColorGradient**( **_Style_**, **_Variant_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Parameters
@@ -30,11 +30,11 @@ Sets the specified fill to a two-color gradient. The two fill colors are specifi
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Style|Required| **MsoGradientStyle**|The gradient style.|
-|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+|Variant|Required| **Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** tab in the **Fill Effects** dialog box. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 
 ## Remarks
 
-The Style parameter can be one of the  **MsoGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
+The Style parameter can be one of the **MsoGradientStyle** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

@@ -30,6 +30,6 @@ Checks the spelling in the active project.
 
 ## Remarks
 
-The  **SpellingCheck** method is equivalent to the **Spelling** command on the **Project** tab of the Ribbon.
+The **SpellingCheck** method is equivalent to the **Spelling** command on the **Project** tab of the Ribbon.
 
 

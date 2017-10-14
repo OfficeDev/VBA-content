@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cells.HeightRule Property (Word)
 
-Returns or sets a  **WdRowHeightRule** constant that represents the rule for determining the height of the specified cells. Read/write .
+Returns or sets a **WdRowHeightRule** constant that represents the rule for determining the height of the specified cells. Read/write .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **WdRowHeightRule** constant that represents the rule for det
 
 ## Remarks
 
-Setting the  **HeightRule** property of a **Cells** collection automatically sets the height for the entire row.
+Setting the **HeightRule** property of a **Cells** collection automatically sets the height for the entire row.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailSignature.ReplyMessageSignature Property (Word)
 
-Returns or sets the signature that Microsoft Word appends to e-mail message replies. Read/write  **String** .
+Returns or sets the signature that Microsoft Word appends to e-mail message replies. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the signature that Microsoft Word appends to e-mail message repl
 
 ## Remarks
 
-When setting this property, you must use the name of an e-mail signature that you have created in the  **E-mail Options** dialog box, available from the **General** tab of the **Options** dialog box ( **Tools** menu).
+When setting this property, you must use the name of an e-mail signature that you have created in the **E-mail Options** dialog box, available from the **General** tab of the **Options** dialog box ( **Tools** menu).
 
 
 ## Example

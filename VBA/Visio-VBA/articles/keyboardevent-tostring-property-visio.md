@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyboardEvent.ToString Property (Visio)
 
-Returns a string that represents the properties of a  **KeyboardEvent** or **MouseEvent** object. Read-only.
+Returns a string that represents the properties of a **KeyboardEvent** or **MouseEvent** object. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ String
 
  **ToString** is the default property of both **KeyboardEvent** and **MouseEvent** objects.
 
-When a  **KeyDown** , **KeyPress** , or **KeyUp** event fires, the **ToString** property returns a string that represents the properties of the **KeyboardEvent** object that gets passed to **VisEventProc** . The string has the following form:
+When a **KeyDown** , **KeyPress** , or **KeyUp** event fires, the **ToString** property returns a string that represents the properties of the **KeyboardEvent** object that gets passed to **VisEventProc** . The string has the following form:
 
  _event code_ ; **KeyCode** property value; **KeyButtonState** property value; **KeyAscii** property value; **Window.Caption**
 
@@ -40,7 +40,7 @@ where  _event code_ returns the code of the event that fired and **Window.Captio
 
 713;0;4;76;Drawing1
 
-When a  **MouseDown** , **MouseMove** , or **MouseUp** event fires, the **ToString** property returns a string that represents the properties of the **MouseEvent** object that gets passed to **VisEventProc** . The string has the following form:
+When a **MouseDown** , **MouseMove** , or **MouseUp** event fires, the **ToString** property returns a string that represents the properties of the **MouseEvent** object that gets passed to **VisEventProc** . The string has the following form:
 
  _event code_ ; **Button** property value; **KeyButtonState** property value; **x** property value; **y** property value; **Window.Caption**
 
@@ -48,29 +48,29 @@ where  _event code_ returns the code of the event that fired and **Window.Captio
 
 709;1;5;4.3750003+000;4.265000+000;Drawing1
 
-For more information about the possible values returned by each of the individual properties represented by the string returned by  **ToString** , see the respective property topics in this Automation Reference.
+For more information about the possible values returned by each of the individual properties represented by the string returned by **ToString** , see the respective property topics in this Automation Reference.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example shows how to use the  **AddAdvise** method to create a **Event** object that will sink a **MouseDown** event. It uses the **ToString** property of the **MouseEvent** object to report the details of the event that fired.
+The following Microsoft Visual Basic for Applications (VBA) example shows how to use the **AddAdvise** method to create a **Event** object that will sink a **MouseDown** event. It uses the **ToString** property of the **MouseEvent** object to report the details of the event that fired.
 
-The example contains a class module and two public procedures that are inserted into the  **ThisDocument** project of the active Visio document:
-
-
+The example contains a class module and two public procedures that are inserted into the **ThisDocument** project of the active Visio document:
 
 
-- The  **CreateEventObject** procedure creates an instance of a sink-object (event-handling) class named **clsEventSink** that gets passed to the **AddAdvise** method, and that receives notifications of events. In addition, the procedure creates an **Event** object to send notifications of firings of the **MouseDown** event sourced by the **Application** object to the sink object.
+
+
+- The **CreateEventObject** procedure creates an instance of a sink-object (event-handling) class named **clsEventSink** that gets passed to the **AddAdvise** method, and that receives notifications of events. In addition, the procedure creates an **Event** object to send notifications of firings of the **MouseDown** event sourced by the **Application** object to the sink object.
     
-- The  **DeleteEventObject** procedure deletes this **Event** object when your program is finished using it.
+- The **DeleteEventObject** procedure deletes this **Event** object when your program is finished using it.
     
 
 
-The  **clsEventSink** class implements the **IVisEventProc** interface. The class module creates a class to handle events fired by the Visio **Application** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for the **MouseDown** event. When a **MouseDown** event fires, Visio passes a **MouseEvent** object to **VisEventProc** as _pSubjectObj_. The function then constructs a message that displays the string returned by the  **ToString** property of the **MouseEvent** object passed to the function.
+The **clsEventSink** class implements the **IVisEventProc** interface. The class module creates a class to handle events fired by the Visio **Application** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to check for the **MouseDown** event. When a **MouseDown** event fires, Visio passes a **MouseEvent** object to **VisEventProc** as _pSubjectObj_. The function then constructs a message that displays the string returned by the **ToString** property of the **MouseEvent** object passed to the function.
 
 Other events fall under the default case ( **Case Else** ). The **Case Else** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired. Finally, the function displays the string in the Immediate window.
 
-The example assumes that there is an active document in the Visio application window. Copy the following code into the  **ThisDocument** project in the Visual Basic Editor:
+The example assumes that there is an active document in the Visio application window. Copy the following code into the **ThisDocument** project in the Visual Basic Editor:
 
 
 
@@ -112,7 +112,7 @@ Public Sub DeleteMouseDownEventObject()
 End Sub
 ```
 
-Copy the following code into a new class module in VBA, naming the module  **clsEventSink**. 
+Copy the following code into a new class module in VBA, naming the module **clsEventSink**. 
 
 
 

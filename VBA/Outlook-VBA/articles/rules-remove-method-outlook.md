@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rules.Remove Method (Outlook)
 
-Removes from the  **Rules** collection a **Rule** object specified by _Index_ , which is either a numerical index into the **[Rules](rules-object-outlook.md)** collection or the rule name.
+Removes from the **Rules** collection a **Rule** object specified by _Index_ , which is either a numerical index into the **[Rules](rules-object-outlook.md)** collection or the rule name.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Removes from the  **Rules** collection a **Rule** object specified by _Index_ , 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either a  **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](rule-name-property-outlook.md)** .|
+| _Index_|Required| **Variant**|Either a **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](rule-name-property-outlook.md)** .|
 
 ## Remarks
 

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CaptionLabel Object (Word)
 
-Represents a single caption label. The  **CaptionLabel** object is a member of the **[CaptionLabels](captionlabels-object-word.md)** collection. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
+Represents a single caption label. The **CaptionLabel** object is a member of the **[CaptionLabels](captionlabels-object-word.md)** collection. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
 
 
 ## Remarks
 
-Use  **[CaptionLabels](application-captionlabels-property-word.md)** (index), where index is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
+Use **[CaptionLabels](application-captionlabels-property-word.md)** (index), where index is the caption label name or index number, to return a single **CaptionLabel** object. The following example sets the numbering style for the Figure caption label.
 
 
 ```
@@ -26,7 +26,7 @@ CaptionLabels("Figure").NumberStyle = _
  wdCaptionNumberStyleLowercaseLetter
 ```
 
-The index number represents the position of the caption label in the  **CaptionLabels** collection. The following example displays the first caption label.
+The index number represents the position of the caption label in the **CaptionLabels** collection. The following example displays the first caption label.
 
 
 
@@ -35,7 +35,7 @@ The index number represents the position of the caption label in the  **CaptionL
 MsgBox CaptionLabels(1).Name
 ```
 
-Use the  **[Add](captionlabels-add-method-word.md)** method to add a custom caption label. The following example adds a caption label named "Photo."
+Use the **[Add](captionlabels-add-method-word.md)** method to add a custom caption label. The following example adds a caption label named "Photo."
 
 
 

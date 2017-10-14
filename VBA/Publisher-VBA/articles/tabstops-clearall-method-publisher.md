@@ -20,12 +20,12 @@ Clears all the custom tab stops from the specified paragraphs.
 
  _expression_. **ClearAll**
 
- _expression_A variable that represents a  **TabStops** object.
+ _expression_A variable that represents a **TabStops** object.
 
 
 ## Remarks
 
-To clear an individual tab stop, use the  **[Clear](tabstop-clear-method-publisher.md)** method of the  **[TabStop](tabstop-object-publisher.md)** object. The  **ClearAll** method doesn't clear the default tab stops. To manipulate the default tab stops, use the **[DefaultTabStop](document-defaulttabstop-property-publisher.md)** property for the document.
+To clear an individual tab stop, use the **[Clear](tabstop-clear-method-publisher.md)** method of the **[TabStop](tabstop-object-publisher.md)** object. The **ClearAll** method doesn't clear the default tab stops. To manipulate the default tab stops, use the **[DefaultTabStop](document-defaulttabstop-property-publisher.md)** property for the document.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.DownloadState Property (Outlook)
 
-Returns a constant that belongs to the  **[OlDownloadState](oldownloadstate-enumeration-outlook.md)** enumeration indicating the download state of the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a constant that belongs to the **[OlDownloadState](oldownloadstate-enumeration-outlook.md)** enumeration indicating the download state of the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax

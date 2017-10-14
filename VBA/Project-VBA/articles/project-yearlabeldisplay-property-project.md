@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.YearLabelDisplay Property (Project)
 
-Gets or sets how the year label displays in rates. Read/write  **Integer**.
+Gets or sets how the year label displays in rates. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,8 +25,8 @@ Gets or sets how the year label displays in rates. Read/write  **Integer**.
 
 ## Remarks
 
-The  **YearLabelDisplay** property corresponds to the **Years** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **YearLabelDisplay** property to 1 sets the **Years** list to the second value in the list ("yr").
+The **YearLabelDisplay** property corresponds to the **Years** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **YearLabelDisplay** property to 1 sets the **Years** list to the second value in the list ("yr").
 
-Values of the  **YearLabelDisplay** property can be 0 to 2.
+Values of the **YearLabelDisplay** property can be 0 to 2.
 
 

@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-When the value of the  **InPlace** property is **True** for a **Document** object, it means that the document is open in an in-place editing window in an OLE container application.
+When the value of the **InPlace** property is **True** for a **Document** object, it means that the document is open in an in-place editing window in an OLE container application.
 
 

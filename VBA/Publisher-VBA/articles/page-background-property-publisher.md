@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.Background Property (Publisher)
 
-Sets or returns a  **PageBackground** object representing the background of the specified page.
+Sets or returns a **PageBackground** object representing the background of the specified page.
 
 
 ## Syntax
 
  _expression_. **Background**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Return Value
@@ -35,7 +35,7 @@ This property is for publication pages only. Any attempt to create a background 
 
 ## Example
 
-The following example creates a  **PageBackground** object and sets it to the background of the first page of the active document.
+The following example creates a **PageBackground** object and sets it to the background of the first page of the active document.
 
 
 ```vb

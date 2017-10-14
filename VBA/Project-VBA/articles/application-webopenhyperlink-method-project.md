@@ -29,7 +29,7 @@ Opens the document specified by a hyperlink address.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Address_|Optional|**String**|The address of the target document. If  **Address** is omitted, the text of the selected field is used.|
+| _Address_|Optional|**String**|The address of the target document. If **Address** is omitted, the text of the selected field is used.|
 | _SubAddress_|Optional|**String**|A location within the target document.|
 | _AddHistory_|Optional|**Boolean**|**True** if the target document is added to the History folder. The default value is **True**.|
 | _NewWindow_|Optional|**Boolean**|**True** if the target document displays in a new window. The default value is **False**.|
@@ -41,7 +41,7 @@ Opens the document specified by a hyperlink address.
 
 ## Remarks
 
-The  **WebOpenHyperlink** method is only available when the selected assignment, resource, or task field contains a hyperlink.
+The **WebOpenHyperlink** method is only available when the selected assignment, resource, or task field contains a hyperlink.
 
 
 ## Example

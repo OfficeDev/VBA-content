@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.ScrPre Property (Word)
 
-Returns an  **[OMathScrPre](omathscrpre-object-word.md)** object that represents a superscript and subscript to the left of the base. Read-only.
+Returns an **[OMathScrPre](omathscrpre-object-word.md)** object that represents a superscript and subscript to the left of the base. Read-only.
 
 
 ## Syntax

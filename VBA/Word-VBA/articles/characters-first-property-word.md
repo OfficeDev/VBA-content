@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.First Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the first character in the collection.
+Returns a **[Range](range-object-word.md)** object that represents the first character in the collection.
 
 
 ## Syntax

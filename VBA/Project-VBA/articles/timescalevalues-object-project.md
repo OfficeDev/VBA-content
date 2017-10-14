@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # TimeScaleValues Object (Project)
 
-Contains a collection of  **[TimeScaleValue](timescalevalue-object-project.md)** objects.
+Contains a collection of **[TimeScaleValue](timescalevalue-object-project.md)** objects.
 
 
 ## Examples
 
  **Using the TimeScaleValue Object**
 
-Use  **TimeScaleValues** ( _Index_ ), where _Index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
+Use **TimeScaleValues** ( _Index_ ), where _Index_ is the index number of the timescaled data item, to return a single **TimeScaleValue** object. The following example displays the number of hours of work per day for a resource during the first full week in October 2012.
 
 
 
@@ -36,7 +36,7 @@ MsgBox HoursPerDay
 
  **Using the TimeScaleValues Collection**
 
-Use the  **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-dc9b-af37a1cc4d8b%28Office.15%29.aspx)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
+Use the **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-dc9b-af37a1cc4d8b%28Office.15%29.aspx)** method to return a **TimeScaleValues** collection. The following example returns a **TimeScaleValues** collection for the amount of work done by the resource in the active cell between the specified dates, split into week-long portions.
 
 
 
@@ -45,7 +45,7 @@ Use the  **[TimeScaleData](http://msdn.microsoft.com/library/51649bc3-8224-15cd-
 ActiveCell.Resource.TimeScaleData("10/1/2012", "10/31/2012")
 ```
 
-Use the  **[Add](http://msdn.microsoft.com/library/083ef154-31ce-55ec-793a-0627c1eff211%28Office.15%29.aspx)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
+Use the **[Add](http://msdn.microsoft.com/library/083ef154-31ce-55ec-793a-0627c1eff211%28Office.15%29.aspx)** method to add a **TimeScaleValue** object to the **TimeScaleValues** collection. The following example adds 8 hours of work to Tuesday of that week.
 
 
 

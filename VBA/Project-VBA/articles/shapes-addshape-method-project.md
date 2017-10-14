@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddShape Method (Project)
-Adds a shape of the specified AutoShape type to a report, and returns a  **Shape** object that represents the new shape.
+Adds a shape of the specified AutoShape type to a report, and returns a **Shape** object that represents the new shape.
 
 ## Syntax
 
@@ -41,7 +41,7 @@ Adds a shape of the specified AutoShape type to a report, and returns a  **Shape
 
 ## Remarks
 
-To change the type of an AutoShape, set the  **AutoShapeType** property.
+To change the type of an AutoShape, set the **AutoShapeType** property.
 
 
 ## Example

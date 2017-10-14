@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Delay Property (Project)
 
-Gets or sets the amount of time an assignment is delayed in minutes. Read/write  **Variant**.
+Gets or sets the amount of time an assignment is delayed in minutes. Read/write **Variant**.
 
 
 ## Syntax

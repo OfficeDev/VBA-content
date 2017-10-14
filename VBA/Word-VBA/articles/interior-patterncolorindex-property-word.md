@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.PatternColorIndex Property (Word)
 
-Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](xlcolorindex-enumeration-word.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
+Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following **[XlColorIndex](xlcolorindex-enumeration-word.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the color of the interior pattern as an index into the current c
 
 ## Remarks
 
-Set this property to  **xlColorIndexAutomatic** to specify the automatic fill style for drawing objects. Set this property to **xlColorIndexNone** to specify that you do not want a pattern (this is the same as setting the **Pattern** property of the **Interior** object to **xlPatternNone** ).
+Set this property to **xlColorIndexAutomatic** to specify the automatic fill style for drawing objects. Set this property to **xlColorIndexNone** to specify that you do not want a pattern (this is the same as setting the **Pattern** property of the **Interior** object to **xlPatternNone** ).
 
 
 ## Example

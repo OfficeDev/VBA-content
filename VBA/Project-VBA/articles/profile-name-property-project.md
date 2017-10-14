@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Profile.Name Property (Project)
 
-Gets the name of an account profile in Project Professional. Read/write  **String**.
+Gets the name of an account profile in Project Professional. Read/write **String**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the name of an account profile in Project Professional. Read/write  **Strin
 
 ## Remarks
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
 
 
 ## Example

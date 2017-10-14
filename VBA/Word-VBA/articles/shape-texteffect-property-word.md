@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.TextEffect Property (Word)
 
-Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
+Returns a **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **TextEffectFormat** object that contains text-effect formatting prop
 
 ## Remarks
 
-This property applies to  **Shape** objects that represent WordArt.
+This property applies to **Shape** objects that represent WordArt.
 
 
 ## Example

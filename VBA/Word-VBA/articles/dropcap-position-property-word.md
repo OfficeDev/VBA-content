@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DropCap.Position Property (Word)
 
-Returns or sets the position of a dropped capital letter. Read/write  **WdDropPosition** .
+Returns or sets the position of a dropped capital letter. Read/write **WdDropPosition** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the position of a dropped capital letter. Read/write  **WdDropPo
 
 ## Example
 
-This example sets the first paragraph in the active document to begin with a dropped capital letter. The position of the  **DropCap** object is set to **wdDropNormal** .
+This example sets the first paragraph in the active document to begin with a dropped capital letter. The position of the **DropCap** object is set to **wdDropNormal** .
 
 
 ```vb

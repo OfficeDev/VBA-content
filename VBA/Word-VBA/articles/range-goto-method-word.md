@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.GoTo Method (Word)
 
-Returns a  **Range** object that represents the start position of the specified item, such as a page, bookmark, or field.
+Returns a **Range** object that represents the start position of the specified item, such as a page, bookmark, or field.
 
 
 ## Syntax
@@ -29,10 +29,10 @@ Returns a  **Range** object that represents the start position of the specified 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _What_|Optional| **Variant**|The kind of item to which the range is moved. Can be one of the  **WdGoToItem** constants.|
-| _Which_|Optional| **Variant**|The item to which the range is moved. Can be one of the  **WdGoToDirection** constants.|
-| _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range, use  **wdGoToPrevious** as the Which argument and specify a Count value.|
-| _Name_|Optional| **Variant**|If the What argument is  **wdGoToBookmark** , **wdGoToComment** , **wdGoToField** , or **wdGoToObject** , this argument specifies a name. Only positive values are valid. To specify an item that precedes the range, use **wdGoToPrevious** as the Which argument and specify a Count value.|
+| _What_|Optional| **Variant**|The kind of item to which the range is moved. Can be one of the **WdGoToItem** constants.|
+| _Which_|Optional| **Variant**|The item to which the range is moved. Can be one of the **WdGoToDirection** constants.|
+| _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range, use **wdGoToPrevious** as the Which argument and specify a Count value.|
+| _Name_|Optional| **Variant**|If the What argument is **wdGoToBookmark** , **wdGoToComment** , **wdGoToField** , or **wdGoToObject** , this argument specifies a name. Only positive values are valid. To specify an item that precedes the range, use **wdGoToPrevious** as the Which argument and specify a Count value.|
 
 ## Remarks
 
@@ -71,7 +71,7 @@ ActiveDocument.Range.GoTo What:=wdGoToHeading, Which:=wdGoToFirst
 ActiveDocument.Range.GoTo What:=wdGoToHeading, Which:=wdGoToAbsolute, Count:=1
 ```
 
-When you use the  **GoTo** method with the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** that is returned includes any grammar error text or spelling error text.
+When you use the **GoTo** method with the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** that is returned includes any grammar error text or spelling error text.
 
 
 ## Example

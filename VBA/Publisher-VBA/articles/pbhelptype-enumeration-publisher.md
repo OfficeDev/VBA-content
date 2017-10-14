@@ -19,7 +19,7 @@ The type of help to display.
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **pbHelp**|1|Displays the  **Help Topics** dialog box.|
+| **pbHelp**|1|Displays the **Help Topics** dialog box.|
 | **pbHelpActiveWindow**|2|Displays Help describing the command associated with the active view or pane.|
 | **pbHelpPSSHelp**|3|Displays product support information.|
 

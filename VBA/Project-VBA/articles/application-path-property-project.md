@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Path Property (Project)
 
-Gets the path of the WINPROJ.EXE application file. Read-only  **String**.
+Gets the path of the WINPROJ.EXE application file. Read-only **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the path of the WINPROJ.EXE application file. Read-only  **String**.
 
 ## Remarks
 
-The default value of  **Path** for Project is "C:\Program Files\Microsoft Office\Office15".
+The default value of **Path** for Project is "C:\Program Files\Microsoft Office\Office15".
 
 

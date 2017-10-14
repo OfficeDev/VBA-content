@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.FixedCostAccrual Property (Project)
 
-Gets or sets the way the task accrues fixed costs. Read/write  **PjAccrueAt**.
+Gets or sets the way the task accrues fixed costs. Read/write **PjAccrueAt**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the way the task accrues fixed costs. Read/write  **PjAccrueAt**.
 
 ## Remarks
 
-The  **FixedCostAccrual** property can be one of the following **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants: **pjEnd**, **pjProrated**, or **pjStart**.
+The **FixedCostAccrual** property can be one of the following **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants: **pjEnd**, **pjProrated**, or **pjStart**.
 
 

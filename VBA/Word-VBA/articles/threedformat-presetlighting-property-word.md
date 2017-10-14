@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetLighting Property (Word)
 
-Returns or sets an  **MsoBevelType** constant that represents the lighting preset. Read/write.
+Returns or sets an **MsoBevelType** constant that represents the lighting preset. Read/write.
 
 
 ## Syntax

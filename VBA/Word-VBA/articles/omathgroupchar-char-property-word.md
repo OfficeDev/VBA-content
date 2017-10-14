@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathGroupChar.Char Property (Word)
 
-Returns or sets an  **Integer** that represents the character placed above or below text in a group character object. Read/write.
+Returns or sets an **Integer** that represents the character placed above or below text in a group character object. Read/write.
 
 
 ## Syntax

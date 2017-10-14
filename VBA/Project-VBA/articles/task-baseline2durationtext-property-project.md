@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline2DurationText Property (Project)
 
-Gets or sets a string representation of the baseline duration of a task. Read/write  **String**.
+Gets or sets a string representation of the baseline duration of a task. Read/write **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets a string representation of the baseline duration of a task. Read/wr
 
 ## Remarks
 
-The  **Baseline2DurationText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline2DurationText** has any value, you should convert the value to a date for the **Baseline2Duration** property.
+The **Baseline2DurationText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **Baseline2DurationText** has any value, you should convert the value to a date for the **Baseline2Duration** property.
 
 

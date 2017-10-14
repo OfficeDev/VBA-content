@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.TextColumns Property (Word)
 
-Returns a  **[TextColumns](textcolumns-objectword.md)** collection that represents the set of text columns for the specified **PageSetup** object.
+Returns a **[TextColumns](textcolumns-objectword.md)** collection that represents the set of text columns for the specified **PageSetup** object.
 
 
 ## Syntax

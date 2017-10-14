@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.ListTemplate Property (Word)
 
-Returns a  **ListTemplate** object that represents the list formatting for the specified **Style** object.
+Returns a **ListTemplate** object that represents the list formatting for the specified **Style** object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **ListTemplate** object that represents the list formatting for the s
 
 ## Remarks
 
-A list template includes all the formatting that defines a particular list. Each of the seven formats (excluding  **None**) found on each of the tabs in the  **Bullets and Numbering** dialog box ( **Format** menu) corresponds to a list template. Documents and templates can also contain collections of list templates.
+A list template includes all the formatting that defines a particular list. Each of the seven formats (excluding **None**) found on each of the tabs in the **Bullets and Numbering** dialog box ( **Format** menu) corresponds to a list template. Documents and templates can also contain collections of list templates.
 
 
 ## See also

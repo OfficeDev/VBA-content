@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Tables.Add Method (Project)
 
-Adds a  **Table** object to a **Tables** collection.
+Adds a **Table** object to a **Tables** collection.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Adds a  **Table** object to a **Tables** collection.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the table.|
-| _Field_|Required|**Long**|The name of the field. Can be one of the  **[PjField](pjfield-enumeration-project.md)** constants.|
+| _Field_|Required|**Long**|The name of the field. Can be one of the **[PjField](pjfield-enumeration-project.md)** constants.|
 | _Task_|Optional|**Boolean**|**True** if the table being added is a task table. The default value is **True**.|
 
 ### Return Value

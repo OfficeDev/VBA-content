@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpWindowState Enumeration (PowerPoint)
 
-Constants that specify the window state, passed to and returned by the  **WindowState** property of the **DocumentWindow** object.
+Constants that specify the window state, passed to and returned by the **WindowState** property of the **DocumentWindow** object.
 
 
 

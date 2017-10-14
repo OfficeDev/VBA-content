@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame.TextRange Property (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the text that is attached to a shape, and properties and methods for manipulating the text.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents the text that is attached to a shape, and properties and methods for manipulating the text.
 
 
 ## Syntax
 
  _expression_. **TextRange**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ## Example

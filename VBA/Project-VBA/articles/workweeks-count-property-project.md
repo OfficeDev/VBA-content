@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeeks.Count Property (Project)
 
-Gets the number of items in the  **WorkWeeks** collection. Read-only **Long**.
+Gets the number of items in the **WorkWeeks** collection. Read-only **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Delete Method (Project)
 
-Deletes the  **Table** object from a **Tables** collection.
+Deletes the **Table** object from a **Tables** collection.
 
 
 ## Syntax

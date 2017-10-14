@@ -29,7 +29,7 @@ Applies the specified Quick Style set to the document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required| **Variant**|Can be either a  **String** that specifies the name of the set to use (corresponds to the name listed in the **Style Set** list) or a constant from the[WdApplyQuickStyleSets](wdapplyquickstylesets-enumeration-word.md) enumeration.|
+| _Style_|Required| **Variant**|Can be either a **String** that specifies the name of the set to use (corresponds to the name listed in the **Style Set** list) or a constant from the[WdApplyQuickStyleSets](wdapplyquickstylesets-enumeration-word.md) enumeration.|
 
 ## See also
 

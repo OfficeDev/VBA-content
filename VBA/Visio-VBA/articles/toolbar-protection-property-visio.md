@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Toolbar.Protection Property (Visio)
 
-Determines how a  **Toolbar** object is protected from user customization. Read/write.
+Determines how a **Toolbar** object is protected from user customization. Read/write.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of the  **Protection** property can be one or a combination of the following constants declared by the Visio type library in **VisUIBarProtection** .
+The value of the **Protection** property can be one or a combination of the following constants declared by the Visio type library in **VisUIBarProtection** .
 
 
 
@@ -49,9 +49,9 @@ The value of the  **Protection** property can be one or a combination of the fol
 
 ## Example
 
-This example shows how to use the  **Protection** property to prevent users from docking a custom toolbar. The example adds a custom toolbar to the **Toolbars** collection and then adds a button to the toolbar. The toolbar appears in the Microsoft Visio user interface and is available while the document is active.
+This example shows how to use the **Protection** property to prevent users from docking a custom toolbar. The example adds a custom toolbar to the **Toolbars** collection and then adds a button to the toolbar. The toolbar appears in the Microsoft Visio user interface and is available while the document is active.
 
-To restore Visio's built-in toolbars after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore Visio's built-in toolbars after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

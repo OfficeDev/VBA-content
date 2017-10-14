@@ -25,7 +25,7 @@ Clears all the custom tab stops from the specified paragraphs.
 
 ## Remarks
 
-To clear an individual tab stop, use the  **Clear** method of the **TabStop** object. The **ClearAll** method doesn't clear the default tab stops. To manipulate the default tab stops, use the **DefaultTabStop** property for the document.
+To clear an individual tab stop, use the **Clear** method of the **TabStop** object. The **ClearAll** method doesn't clear the default tab stops. To manipulate the default tab stops, use the **DefaultTabStop** property for the document.
 
 
 

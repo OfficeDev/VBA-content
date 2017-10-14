@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.RGB Property (Word)
 
-Returns or sets the red-green-blue (RGB) value of the specified color. Read/write  **Long** .
+Returns or sets the red-green-blue (RGB) value of the specified color. Read/write **Long** .
 
 
 ## Syntax

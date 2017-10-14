@@ -27,7 +27,7 @@ Contains the text that is attached to a shape, in addition to properties and met
 
 ## Example
 
-Use the  **[TextRange](http://msdn.microsoft.com/library/44a8395e-81dc-7d06-f068-89f77a889f5e%28Office.15%29.aspx)** property of the **[TextFrame](textframe-object-publisher.md)** object to return a **TextRange** object for any shape you specify. Use the **[Text](http://msdn.microsoft.com/library/13584812-307a-c32b-ca8f-27869728b64e%28Office.15%29.aspx)** property to return the string of text in the **TextRange** object. The following example adds a rectangle to the active publication and sets the text it contains.
+Use the **[TextRange](http://msdn.microsoft.com/library/44a8395e-81dc-7d06-f068-89f77a889f5e%28Office.15%29.aspx)** property of the **[TextFrame](textframe-object-publisher.md)** object to return a **TextRange** object for any shape you specify. Use the **[Text](http://msdn.microsoft.com/library/13584812-307a-c32b-ca8f-27869728b64e%28Office.15%29.aspx)** property to return the string of text in the **TextRange** object. The following example adds a rectangle to the active publication and sets the text it contains.
 
 
 ```
@@ -39,7 +39,7 @@ Sub AddTextToShape()
 End Sub
 ```
 
-Because the  **Text** property is the default property of the **TextRange** object, the following two statements are equivalent.
+Because the **Text** property is the default property of the **TextRange** object, the following two statements are equivalent.
 
 
 
@@ -51,9 +51,9 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame _
     .TextRange = "Here is some test text"
 ```
 
-Use the  **[HasTextFrame](http://msdn.microsoft.com/library/8a3b4f3b-3282-686b-f4fe-abf2d7677b3e%28Office.15%29.aspx)** property to determine whether a shape has a text frame, and use the **[HasText](http://msdn.microsoft.com/library/f8d1c660-c3f1-e835-adc3-114e6611de98%28Office.15%29.aspx)** property to determine whether the text frame contains text.
+Use the **[HasTextFrame](http://msdn.microsoft.com/library/8a3b4f3b-3282-686b-f4fe-abf2d7677b3e%28Office.15%29.aspx)** property to determine whether a shape has a text frame, and use the **[HasText](http://msdn.microsoft.com/library/f8d1c660-c3f1-e835-adc3-114e6611de98%28Office.15%29.aspx)** property to determine whether the text frame contains text.
 
-Use the  **TextRange** property of the **Selection** object to return the currently selected text. The following example copies the selection to the Clipboard.
+Use the **TextRange** property of the **Selection** object to return the currently selected text. The following example copies the selection to the Clipboard.
 
 
 
@@ -67,7 +67,7 @@ Sub CopyAndPasteText()
 End Sub
 ```
 
-Use one of the following methods to return a portion of the text of a  **TextRange** object: **[Characters](http://msdn.microsoft.com/library/e851767e-12b2-ad77-071b-9d27bbf0d637%28Office.15%29.aspx)**, **[Lines](http://msdn.microsoft.com/library/56862090-b2ff-403b-d016-e37108d5ccc1%28Office.15%29.aspx)**, **[Paragraphs](http://msdn.microsoft.com/library/895c32cf-cdbe-74b0-ab47-6ae63d1bdea0%28Office.15%29.aspx)**, or **[Words](http://msdn.microsoft.com/library/df812db2-98ca-848b-7922-6905cb71124c%28Office.15%29.aspx)**. The following example formats the second word in the first shape on the first page of the active publication. For this example to work, the specified shape must contain text.
+Use one of the following methods to return a portion of the text of a **TextRange** object: **[Characters](http://msdn.microsoft.com/library/e851767e-12b2-ad77-071b-9d27bbf0d637%28Office.15%29.aspx)**, **[Lines](http://msdn.microsoft.com/library/56862090-b2ff-403b-d016-e37108d5ccc1%28Office.15%29.aspx)**, **[Paragraphs](http://msdn.microsoft.com/library/895c32cf-cdbe-74b0-ab47-6ae63d1bdea0%28Office.15%29.aspx)**, or **[Words](http://msdn.microsoft.com/library/df812db2-98ca-848b-7922-6905cb71124c%28Office.15%29.aspx)**. The following example formats the second word in the first shape on the first page of the active publication. For this example to work, the specified shape must contain text.
 
 
 
@@ -83,7 +83,7 @@ Sub FormatWords()
 End Sub
 ```
 
-Use one of the following methods to insert characters into a  **TextRange** object: **[InsertAfter](http://msdn.microsoft.com/library/f647be29-68c7-b221-adf1-fa233583e74e%28Office.15%29.aspx)**, **[InsertBefore](http://msdn.microsoft.com/library/b0e4355b-b1bc-ae78-08ad-000d577fd7db%28Office.15%29.aspx)**, **[InsertDateTime](http://msdn.microsoft.com/library/1d02471a-f22b-7dad-bcbb-40af3a04d198%28Office.15%29.aspx)**, **[InsertPageNumber](http://msdn.microsoft.com/library/f71d3b40-0263-93fa-d7e3-d815b90f71f7%28Office.15%29.aspx)**, or **[InsertSymbol](http://msdn.microsoft.com/library/607d12da-5a2d-4e0e-b45e-92275ce97bab%28Office.15%29.aspx)**. This example inserts a new line with text after any existing text in the first shape on the first page of the active publication.
+Use one of the following methods to insert characters into a **TextRange** object: **[InsertAfter](http://msdn.microsoft.com/library/f647be29-68c7-b221-adf1-fa233583e74e%28Office.15%29.aspx)**, **[InsertBefore](http://msdn.microsoft.com/library/b0e4355b-b1bc-ae78-08ad-000d577fd7db%28Office.15%29.aspx)**, **[InsertDateTime](http://msdn.microsoft.com/library/1d02471a-f22b-7dad-bcbb-40af3a04d198%28Office.15%29.aspx)**, **[InsertPageNumber](http://msdn.microsoft.com/library/f71d3b40-0263-93fa-d7e3-d815b90f71f7%28Office.15%29.aspx)**, or **[InsertSymbol](http://msdn.microsoft.com/library/607d12da-5a2d-4e0e-b45e-92275ce97bab%28Office.15%29.aspx)**. This example inserts a new line with text after any existing text in the first shape on the first page of the active publication.
 
 
 

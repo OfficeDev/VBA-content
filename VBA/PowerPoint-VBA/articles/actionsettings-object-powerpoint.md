@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ActionSettings Object (PowerPoint)
 
-A collection that contains the two  **[ActionSetting](actionsetting-object-powerpoint.md)** objects for a shape or text range. One **ActionSetting** object represents how the specified object reacts when the user clicks it during a slide show, and the other **ActionSetting** object represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
+A collection that contains the two **[ActionSetting](actionsetting-object-powerpoint.md)** objects for a shape or text range. One **ActionSetting** object represents how the specified object reacts when the user clicks it during a slide show, and the other **ActionSetting** object represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
 
 
 ## Example
 
-Use the [ActionSettings](shape-actionsettings-property-powerpoint.md)property to return the  **ActionSettings** collection. Use **ActionSettings** (index), where index is either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example specifies that the CalculateTotal macro be run whenever the mouse pointer passes over the shape during a slide show.
+Use the [ActionSettings](shape-actionsettings-property-powerpoint.md)property to return the **ActionSettings** collection. Use **ActionSettings** (index), where index is either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example specifies that the CalculateTotal macro be run whenever the mouse pointer passes over the shape during a slide show.
 
 
 ```vb

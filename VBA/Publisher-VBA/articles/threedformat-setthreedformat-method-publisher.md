@@ -20,7 +20,7 @@ Sets the preset extrusion format. Each preset extrusion format contains a set of
 
  _expression_. **SetThreeDFormat**( **_PresetThreeDFormat_**)
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ### Parameters
@@ -29,13 +29,13 @@ Sets the preset extrusion format. Each preset extrusion format contains a set of
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|PresetThreeDFormat|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
+|PresetThreeDFormat|Required| **MsoPresetThreeDFormat**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the **3-D** button on the **Drawing** toolbar.|
 
 ## Remarks
 
-This method sets the  **[PresetThreeDFormat](threedformat-presetthreedformat-property-publisher.md)** property to the format specified by the PresetThreeDFormat argument.
+This method sets the **[PresetThreeDFormat](threedformat-presetthreedformat-property-publisher.md)** property to the format specified by the PresetThreeDFormat argument.
 
-The PresetThreeDFormat parameter can be one of the  **MsoPresetThreeDFormat** constants declared in the Microsoft Office type library and shown in the following table.
+The PresetThreeDFormat parameter can be one of the **MsoPresetThreeDFormat** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

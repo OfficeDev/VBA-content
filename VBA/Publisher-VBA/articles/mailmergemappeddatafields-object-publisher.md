@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # MailMergeMappedDataFields Object (Publisher)
 
-A collection of  **[MailMergeMappedDataField](mailmergemappeddatafield-object-publisher.md)** objects that represents the mapped data fields available in Microsoft Publisher.
+A collection of **[MailMergeMappedDataField](mailmergemappeddatafield-object-publisher.md)** objects that represents the mapped data fields available in Microsoft Publisher.
  
 
 
 ## Example
 
-Use the  **[MappedDataFields](mailmergedatasource-mappeddatafields-property-publisher.md)** property of the **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object to return the **MailMergeMappedDataFields** collection. This example creates a table on a new page of the current publication and lists the mapped data fields available in Publisher and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
+Use the **[MappedDataFields](mailmergedatasource-mappeddatafields-property-publisher.md)** property of the **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object to return the **MailMergeMappedDataFields** collection. This example creates a table on a new page of the current publication and lists the mapped data fields available in Publisher and the fields in the data source to which they are mapped. This example assumes that the current publication is a mail merge publication and that the data source fields have corresponding mapped data fields.
  
 
  

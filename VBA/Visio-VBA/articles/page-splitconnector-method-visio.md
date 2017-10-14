@@ -39,6 +39,6 @@ Splits the specified connector with the specified shape. Returns the new duplica
 
 ## Remarks
 
-When you call  **SplitConnector** , Microsoft Visio duplicates the connector (except for text), positions the shape automatically, and glues the shape to the two resulting connectors.
+When you call **SplitConnector** , Microsoft Visio duplicates the connector (except for text), positions the shape automatically, and glues the shape to the two resulting connectors.
 
 

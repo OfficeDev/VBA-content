@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Layers.Add Method (Visio)
 
-Adds a new  **Layer** object to a **Layers** collection.
+Adds a new **Layer** object to a **Layers** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Layer
 
 ## Example
 
-The following macro shows how to add a  **Layer** object to the **Layers** collection.
+The following macro shows how to add a **Layer** object to the **Layers** collection.
 
 
 ```vb

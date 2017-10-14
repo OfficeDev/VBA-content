@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProofreadingErrors.Count Property (Word)
 
-Returns a  **Long** that represents the number of proofreading errors in the collection. Read-only.
+Returns a **Long** that represents the number of proofreading errors in the collection. Read-only.
 
 
 ## Syntax

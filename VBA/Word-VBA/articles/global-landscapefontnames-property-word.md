@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.LandscapeFontNames Property (Word)
 
-Returns a  **FontNames** object that includes the names of all the available landscape fonts.
+Returns a **FontNames** object that includes the names of all the available landscape fonts.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **FontNames** object that includes the names of all the available lan
 
 ## Example
 
-This example creates a sorted list in a new document of the landscape font names in the  **FontNames** object.
+This example creates a sorted list in a new document of the landscape font names in the **FontNames** object.
 
 
 ```vb

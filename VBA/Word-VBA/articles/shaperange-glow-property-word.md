@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Glow Property (Word)
 
-Returns a  **[GlowFormat](glowformat-object-word.md)** object that represents the glow formatting for a range of shapes. Read-only.
+Returns a **[GlowFormat](glowformat-object-word.md)** object that represents the glow formatting for a range of shapes. Read-only.
 
 
 ## Syntax

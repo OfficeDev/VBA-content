@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.ParentOMath Property (Word)
 
-Returns an  **OMath** object that represents the parent element. Read-only.
+Returns an **OMath** object that represents the parent element. Read-only.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.InvalidComments Property (Publisher)
 
-If the  **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** property is **True**, this property returns or sets a  **String** that describes invalid data in a mail merge record. Read/write.
+If the **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** property is **True**, this property returns or sets a **String** that describes invalid data in a mail merge record. Read/write.
 
 
 ## Syntax
 
  _expression_. **InvalidComments**
 
- _expression_A variable that represents an  **MailMergeDataSource** object.
+ _expression_A variable that represents an **MailMergeDataSource** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Use the  **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** method to set both the **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** and  **InvalidComments** properties for all records in a data source.
+Use the **[SetAllErrorFlags](mailmergedatasource-setallerrorflags-method-publisher.md)** method to set both the **[InvalidAddress](mailmergedatasource-invalidaddress-property-publisher.md)** and **InvalidComments** properties for all records in a data source.
 
 
 ## Example

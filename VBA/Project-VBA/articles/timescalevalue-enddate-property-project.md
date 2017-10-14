@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeScaleValue.EndDate Property (Project)
 
-The end date for a period of time that defines the timescale value. Read-only  **Variant**.
+The end date for a period of time that defines the timescale value. Read-only **Variant**.
 
 
 ## Syntax

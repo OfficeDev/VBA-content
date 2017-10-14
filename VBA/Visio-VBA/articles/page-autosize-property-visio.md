@@ -28,8 +28,8 @@ Determines whether Microsoft Visio automatically resizes the drawing page by add
 
 ## Remarks
 
-Set  **AutoSize** to **True** to enable automatic resizing of the page. Set **AutoSize** to **False** (the default) to disable automatic resizing.
+Set **AutoSize** to **True** to enable automatic resizing of the page. Set **AutoSize** to **False** (the default) to disable automatic resizing.
 
-The  **AutoSize** property setting corresponds to the state of the **AutoSize** button in the **Page Setup** group on the **Design** tab.
+The **AutoSize** property setting corresponds to the state of the **AutoSize** button in the **Page Setup** group on the **Design** tab.
 
 

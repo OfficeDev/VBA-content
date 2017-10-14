@@ -30,7 +30,7 @@ Nothing
 
 ## Example
 
-The following example draws a rectangle shape, adds a  **Hyperlink** object to the shape, sets its **Address** and **NewWindow** properties, and then uses the **Follow** method to navigate the hyperlink.
+The following example draws a rectangle shape, adds a **Hyperlink** object to the shape, sets its **Address** and **NewWindow** properties, and then uses the **Follow** method to navigate the hyperlink.
 
 Before running this code, replace  _address_ with a valid Internet or intranet address.
 

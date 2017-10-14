@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.SaveCompletedToServer Event (Project)
 
-Occurs when Project Professional successfully puts the  **Project Save** job in the Project Server Queue.
+Occurs when Project Professional successfully puts the **Project Save** job in the Project Server Queue.
 
 
 ## Syntax

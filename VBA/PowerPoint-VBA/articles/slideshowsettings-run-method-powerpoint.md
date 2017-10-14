@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowSettings.Run Method (PowerPoint)
 
-Runs a slide show of the specified presentation. Returns a  **[SlideShowWindow](slideshowwindow-object-powerpoint.md)** object.
+Runs a slide show of the specified presentation. Returns a **[SlideShowWindow](slideshowwindow-object-powerpoint.md)** object.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ SlideShowWindow
 
 ## Remarks
 
-To run a custom slide show, set the  **RangeType** property to **ppShowNamedSlideShow**, and set the **SlideShowName** property to the name of the custom show you want to run.
+To run a custom slide show, set the **RangeType** property to **ppShowNamedSlideShow**, and set the **SlideShowName** property to the name of the custom show you want to run.
 
 
 ## Example

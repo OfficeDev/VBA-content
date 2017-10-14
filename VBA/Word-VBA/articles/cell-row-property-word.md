@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Row Property (Word)
 
-Returns a  **[Row](row-object-word.md)** object that represents the row containing the specified cell.
+Returns a **[Row](row-object-word.md)** object that represents the row containing the specified cell.
 
 
 ## Syntax

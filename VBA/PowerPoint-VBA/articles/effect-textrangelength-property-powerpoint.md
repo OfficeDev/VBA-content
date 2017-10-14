@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Effect.TextRangeLength Property (PowerPoint)
 
-Returns or sets a  **Long** that represents the length of a text range. Read-only.
+Returns or sets a **Long** that represents the length of a text range. Read-only.
 
 
 ## Syntax

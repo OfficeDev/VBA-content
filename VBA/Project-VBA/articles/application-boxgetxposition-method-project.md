@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BoxGetXPosition Method (Project)
 
-Returns the horizontal position of the upper-left corner of a box in the active Network Diagram. At a zoom setting of 100%, the number of nonscaleable units returned by  **BoxGetXPosition** is equivalent to an equal number of pixels.
+Returns the horizontal position of the upper-left corner of a box in the active Network Diagram. At a zoom setting of 100%, the number of nonscaleable units returned by **BoxGetXPosition** is equivalent to an equal number of pixels.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns the horizontal position of the upper-left corner of a box in the active 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Required|**Long**|The identification number of the task.|
-| _ProjectName_|Optional|**String**|If the active project is a consolidated project, specifies the name of the project for the identification number specified by  **TaskID**. The default value is the name of the active project.|
+| _ProjectName_|Optional|**String**|If the active project is a consolidated project, specifies the name of the project for the identification number specified by **TaskID**. The default value is the name of the active project.|
 
 ### Return Value
 

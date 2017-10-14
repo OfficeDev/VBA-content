@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatRows.Add Method (Word)
 
-Creates an equation row and adds it to a matrix and returns an  **OMathMatRow** object.
+Creates an equation row and adds it to a matrix and returns an **OMathMatRow** object.
 
 
 ## Syntax

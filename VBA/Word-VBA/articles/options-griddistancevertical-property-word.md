@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.GridDistanceVertical Property (Word)
 
-Returns or sets the amount of vertical space between the invisible gridlines that Word uses when you draw, move, and resize AutoShapes or East Asian characters in new documents. Read/write  **Single** .
+Returns or sets the amount of vertical space between the invisible gridlines that Word uses when you draw, move, and resize AutoShapes or East Asian characters in new documents. Read/write **Single** .
 
 
 ## Syntax

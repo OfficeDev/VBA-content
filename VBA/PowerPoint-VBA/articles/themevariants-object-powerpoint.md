@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # ThemeVariants Object (PowerPoint)
 
-A collection of  **[ThemeVariant](themevariant-object-powerpoint.md)** objects that represent variations in the theme.
+A collection of **[ThemeVariant](themevariant-object-powerpoint.md)** objects that represent variations in the theme.
 
 
 ## Example

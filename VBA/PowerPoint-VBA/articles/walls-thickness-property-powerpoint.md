@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Walls.Thickness Property (PowerPoint)
 
-Returns or sets the thickness of the wall. Read/write  **Long**.
+Returns or sets the thickness of the wall. Read/write **Long**.
 
 
 ## Syntax

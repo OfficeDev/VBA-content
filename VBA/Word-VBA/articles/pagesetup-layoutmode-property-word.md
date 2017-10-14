@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.LayoutMode Property (Word)
 
-Returns or sets the layout mode for the current document. Read/write  **WdLayoutMode** .
+Returns or sets the layout mode for the current document. Read/write **WdLayoutMode** .
 
 
 ## Syntax

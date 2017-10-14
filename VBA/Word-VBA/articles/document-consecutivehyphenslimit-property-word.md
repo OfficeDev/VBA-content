@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ConsecutiveHyphensLimit Property (Word)
 
-Returns or sets the maximum number of consecutive lines that can end with hyphens. Read/write.  **Long** .
+Returns or sets the maximum number of consecutive lines that can end with hyphens. Read/write. **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the maximum number of consecutive lines that can end with hyphen
 
 ## Remarks
 
-If the  **ConsecutiveHyphensLimit** property is set to 0 (zero), any number of consecutive lines can end with hyphens.
+If the **ConsecutiveHyphensLimit** property is set to 0 (zero), any number of consecutive lines can end with hyphens.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Windows Property (Word)
 
-Returns a  **Windows** collection that represents all open document windows. Read-only.
+Returns a **Windows** collection that represents all open document windows. Read-only.
 
 
 ## Syntax

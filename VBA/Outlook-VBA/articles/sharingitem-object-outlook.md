@@ -18,9 +18,9 @@ Represents a sharing message in an Inbox folder.
 
 ## Remarks
 
-Use the  **[CreateSharingItem](namespace-createsharingitem-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object to create a **SharingItem** object that represents a new sharing request or sharing invitation.
+Use the **[CreateSharingItem](namespace-createsharingitem-method-outlook.md)** method of the **[NameSpace](namespace-object-outlook.md)** object to create a **SharingItem** object that represents a new sharing request or sharing invitation.
 
-Use  **[Item](folders-item-method-outlook.md)** ( _index_ ), where _index_ is the index number of a sharing message or a value used to match the default property of a message, to return a single **SharingItem** object from an Inbox folder.
+Use **[Item](folders-item-method-outlook.md)** ( _index_ ), where _index_ is the index number of a sharing message or a value used to match the default property of a message, to return a single **SharingItem** object from an Inbox folder.
 
 
 ## Example

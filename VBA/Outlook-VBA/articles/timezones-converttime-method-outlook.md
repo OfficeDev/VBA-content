@@ -35,7 +35,7 @@ Converts a date/time value from one time zone to another time zone.
 
 ### Return Value
 
-A  **Date** value that represents the date and time expressed in the _DestinationTimeZone_ .
+A **Date** value that represents the date and time expressed in the _DestinationTimeZone_ .
 
 
 ## See also

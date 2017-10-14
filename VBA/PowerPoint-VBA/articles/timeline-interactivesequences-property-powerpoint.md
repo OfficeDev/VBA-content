@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeLine.InteractiveSequences Property (PowerPoint)
 
-Returns a  **[Sequences](sequences-object-powerpoint.md)** object that represents animations that are triggered by click a specified shape.
+Returns a **[Sequences](sequences-object-powerpoint.md)** object that represents animations that are triggered by click a specified shape.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Sequences
 
 ## Remarks
 
-The default value of the  **InteractiveSequences** property is an empty **[Sequences](sequences-object-powerpoint.md)** collection.
+The default value of the **InteractiveSequences** property is an empty **[Sequences](sequences-object-powerpoint.md)** collection.
 
 
 ## Example

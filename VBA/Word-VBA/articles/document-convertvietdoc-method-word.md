@@ -33,7 +33,7 @@ Reconverts a Vietnamese document to Unicode using a code page other than the def
 
 ## Remarks
 
-Use the  **ConvertVietDoc** method if you want a document to be viewable on another computer or platform.
+Use the **ConvertVietDoc** method if you want a document to be viewable on another computer or platform.
 
 
 ## Example

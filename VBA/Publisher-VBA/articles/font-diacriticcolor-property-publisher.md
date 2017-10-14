@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.DiacriticColor Property (Publisher)
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing the 24-bit color used for diacritics in a right-to-left language publication.
+Returns a **[ColorFormat](colorformat-object-publisher.md)** object representing the 24-bit color used for diacritics in a right-to-left language publication.
 
 
 ## Syntax
 
  _expression_. **DiacriticColor**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value

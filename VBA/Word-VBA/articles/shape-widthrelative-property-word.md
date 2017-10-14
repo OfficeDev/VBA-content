@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.WidthRelative Property (Word)
 
-Returns or sets a  **Single** that represents the relative width of a shape. Read/write.
+Returns or sets a **Single** that represents the relative width of a shape. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that represents the relative width of a shape. Rea
 
 ## Remarks
 
-Use this property with the  **[RelativeVerticalSize](shape-relativeverticalsize-property-word.md)** property. When set to **wdShapeSizeRelativeNone** (-999999) (see the **[WdShapeSizeRelative](wdshapesizerelative-enumeration-word.md)** enumeration), this property should be ignored because the shape does not use percent sizing. The width is solely determined by the **[Width](shape-width-property-word.md)** property.
+Use this property with the **[RelativeVerticalSize](shape-relativeverticalsize-property-word.md)** property. When set to **wdShapeSizeRelativeNone** (-999999) (see the **[WdShapeSizeRelative](wdshapesizerelative-enumeration-word.md)** enumeration), this property should be ignored because the shape does not use percent sizing. The width is solely determined by the **[Width](shape-width-property-word.md)** property.
 
 
 ## See also

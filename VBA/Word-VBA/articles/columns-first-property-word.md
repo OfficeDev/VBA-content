@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.First Property (Word)
 
-Returns a  **[Column](column-object-word.md)** object that represents the first item in the **Columns** collection.
+Returns a **[Column](column-object-word.md)** object that represents the first item in the **Columns** collection.
 
 
 ## Syntax

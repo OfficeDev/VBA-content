@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmarks.DefaultSorting Property (Word)
 
-Returns or sets the sorting option for bookmark names displayed in the  **Bookmark** dialog box ( **Insert** menu). Read/write **WdBookmarkSortBy** .
+Returns or sets the sorting option for bookmark names displayed in the **Bookmark** dialog box ( **Insert** menu). Read/write **WdBookmarkSortBy** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the sorting option for bookmark names displayed in the  **Bookma
 
 ## Remarks
 
-This property doesn't affect the order of  **Bookmark** objects in the **Bookmarks** collection.
+This property doesn't affect the order of **Bookmark** objects in the **Bookmarks** collection.
 
 
 ## Example

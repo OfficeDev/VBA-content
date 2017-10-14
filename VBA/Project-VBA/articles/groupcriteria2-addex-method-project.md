@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GroupCriteria2.AddEx Method (Project)
 
-Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value.
+Adds a **GroupCriterion2** object to the **GroupCriteria2** collection, where **CellColor** can be a hexadecimal value.
 
 
 ## Syntax
@@ -38,8 +38,8 @@ Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection, where *
 | _FontUnderLine_|Optional|**Boolean**|**True** if the font in a group definition is underlined. The default value is **False**.|
 | _FontColor_|Optional|**Long**| The color of the font in a group definition, where color can be a hexadecimal value. See remarks. The default value is &;H0.|
 | _CellColor_|Optional|**Long**|The color of the cell background specified by a hexadecimal value. See remarks. The default value is &;HFFFFFF.|
-| _Pattern_|Optional|**PjBackgroundPattern**|The pattern for the cells in a group definition. Can be one of the  **[PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md)** constants.|
-| _GroupOn_|Optional|**PjGroupOn**|The type of grouping in a group definition. Can be one of the  **[PjGroupOn](pjgroupon-enumeration-project.md)** constants. The default value is **pjGroupOnEachValue**.|
+| _Pattern_|Optional|**PjBackgroundPattern**|The pattern for the cells in a group definition. Can be one of the **[PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md)** constants.|
+| _GroupOn_|Optional|**PjGroupOn**|The type of grouping in a group definition. Can be one of the **[PjGroupOn](pjgroupon-enumeration-project.md)** constants. The default value is **pjGroupOnEachValue**.|
 | _StartAt_|Optional|**Variant**|The start of the intervals in a group definition. The default value is 0 for all fields except date fields, where it is the string "Project Start Date".|
 | _GroupInterval_|Optional|**Variant**|The interval in a group definition. The default value is 1.|
 

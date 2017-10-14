@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ViewsCombination.Count Property (Project)
 
-Gets the number of items in the  **ViewsCombination** collection. Read-only **Long**.
+Gets the number of items in the **ViewsCombination** collection. Read-only **Long**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the number of items in the  **ViewsCombination** collection. Read-only **Lo
 
 ## Remarks
 
-Use of the  **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
+Use of the **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](assignments-count-property-project.md)** property.
 
 
 ## See also

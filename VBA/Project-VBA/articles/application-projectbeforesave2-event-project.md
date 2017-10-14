@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.ProjectBeforeSave2 Event (Project)
 
-Occurs before a project is saved. Uses the  **EventInfo** object parameter.
+Occurs before a project is saved. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ Occurs before a project is saved. Uses the  **EventInfo** object parameter.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project to be saved.|
 | _SaveAsUi_|Required|**Boolean**|**True** if the **Save As** dialog box is displayed.|
-| _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be saved when the procedure is finished.|
+| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be saved when the procedure is finished.|
 
 ### Return Value
 

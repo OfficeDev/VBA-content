@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineNumbering.RestartMode Property (Word)
 
-Returns or sets the way line numbering runs — that is, whether it starts over at the beginning of a new page or section or runs continuously. Read/write  **WdNumberingRule** .
+Returns or sets the way line numbering runs — that is, whether it starts over at the beginning of a new page or section or runs continuously. Read/write **WdNumberingRule** .
 
 
 ## Syntax

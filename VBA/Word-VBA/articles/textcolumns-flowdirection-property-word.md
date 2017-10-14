@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextColumns.FlowDirection Property (Word)
 
-Returns or sets the direction in which text flows from one text column to the next. Read/write  **WdFlowDirection** .
+Returns or sets the direction in which text flows from one text column to the next. Read/write **WdFlowDirection** .
 
 
 ## Syntax

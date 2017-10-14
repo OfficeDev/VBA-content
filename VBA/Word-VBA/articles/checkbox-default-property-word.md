@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CheckBox.Default Property (Word)
 
-Returns or sets the default check box value.  **True** if the default value is checked. Read/write **Boolean** .
+Returns or sets the default check box value. **True** if the default value is checked. Read/write **Boolean** .
 
 
 ## Syntax

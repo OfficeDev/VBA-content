@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisTitle.Position Property (Word)
 
-Returns or sets the position of the axis title on the chart. Read/write  **[XlChartElementPosition](xlchartelementposition-enumeration-word.md)** .
+Returns or sets the position of the axis title on the chart. Read/write **[XlChartElementPosition](xlchartelementposition-enumeration-word.md)** .
 
 
 ## Syntax

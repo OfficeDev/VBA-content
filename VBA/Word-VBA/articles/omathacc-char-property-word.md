@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAcc.Char Property (Word)
 
-Returns or sets an  **Integer** that represents the accent character for the accent object. Read/write.
+Returns or sets an **Integer** that represents the accent character for the accent object. Read/write.
 
 
 ## Syntax

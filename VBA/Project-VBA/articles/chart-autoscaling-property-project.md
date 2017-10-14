@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For auto-scaling to work, the  **[RightAngleAxes](chart-rightangleaxes-property-project.md)** property must also be **True**. 
+For auto-scaling to work, the **[RightAngleAxes](chart-rightangleaxes-property-project.md)** property must also be **True**. 
 
 
 ## Example

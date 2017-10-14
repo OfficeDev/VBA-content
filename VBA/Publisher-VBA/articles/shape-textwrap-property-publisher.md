@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.TextWrap Property (Publisher)
 
-Returns a  **[WrapFormat](wrapformat-object-publisher.md)** object that represents the properties for wrapping text around a shape or shape range.
+Returns a **[WrapFormat](wrapformat-object-publisher.md)** object that represents the properties for wrapping text around a shape or shape range.
 
 
 ## Syntax
 
  _expression_. **TextWrap**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Example

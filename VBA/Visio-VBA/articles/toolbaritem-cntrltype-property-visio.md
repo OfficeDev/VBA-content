@@ -33,7 +33,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If you are adding a custom toolbar button, set the  **CntrlType** property to **visCtrlTypeBUTTON** . The following table describes the control types declared by the Visio type library in **VisUICtrlTypes** .
+If you are adding a custom toolbar button, set the **CntrlType** property to **visCtrlTypeBUTTON** . The following table describes the control types declared by the Visio type library in **VisUICtrlTypes** .
 
 
 
@@ -51,9 +51,9 @@ If you are adding a custom toolbar button, set the  **CntrlType** property to **
 
 ## Example
 
-The following two examples demonstrate different ways to use the  **CntrlType** property in your programs.
+The following two examples demonstrate different ways to use the **CntrlType** property in your programs.
 
-This first example shows how to use the  **CntrlType** property to set the type of a new toolbar item. The example adds a custom toolbar to the **Toolbars** collection, and then adds a button to the toolbar. The toolbar appears in the Visio user interface and is available while the document is active.
+This first example shows how to use the **CntrlType** property to set the type of a new toolbar item. The example adds a custom toolbar to the **Toolbars** collection, and then adds a button to the toolbar. The toolbar appears in the Visio user interface and is available while the document is active.
 
 
 
@@ -124,7 +124,7 @@ Sub CntrlType_Example1()
 End Sub
 ```
 
-This second example shows another way to use the  **CntrlType** property to add a toolbar button and set the button icon.
+This second example shows another way to use the **CntrlType** property to add a toolbar button and set the button icon.
 
 Before running this macro, replace  _fullpath\filename_ in the code below with the full path to and file name of an icon file (.ico) on your computer. To restore the built-in toolbars in Visio after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 

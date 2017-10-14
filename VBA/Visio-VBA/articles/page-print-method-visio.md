@@ -30,11 +30,11 @@ Nothing
 
 ## Remarks
 
-For a  **Document** object, this method prints all of the document's pages. Background pages are printed on the same sheet of paper as the foreground pages to which they are assigned.
+For a **Document** object, this method prints all of the document's pages. Background pages are printed on the same sheet of paper as the foreground pages to which they are assigned.
 
-For a  **Page** object, this method prints the page and its background page (if any) on the same sheet of paper.
+For a **Page** object, this method prints the page and its background page (if any) on the same sheet of paper.
 
-If you're using Microsoft Visual Basic for Applications (VBA) or Visual Basic, you must assign the method result to a dummy variable and you must apply the method to a variable of type  **Object** , not type **Visio.Document** or **Visio.Page** . For example, to print a document, use the following code.
+If you're using Microsoft Visual Basic for Applications (VBA) or Visual Basic, you must assign the method result to a dummy variable and you must apply the method to a variable of type **Object** , not type **Visio.Document** or **Visio.Page** . For example, to print a document, use the following code.
 
 
 

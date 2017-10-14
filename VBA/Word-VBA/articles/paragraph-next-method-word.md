@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.Next Method (Word)
 
-Returns a  **Paragraph** object that represents the next paragraph.
+Returns a **Paragraph** object that represents the next paragraph.
 
 
 ## Syntax

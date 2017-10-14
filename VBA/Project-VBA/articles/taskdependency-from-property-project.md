@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskDependency.From Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object that is the predecessor in a task dependency. Read-only **Task**.
+Gets a **[Task](task-object-project.md)** object that is the predecessor in a task dependency. Read-only **Task**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets a  **[Task](task-object-project.md)** object that is the predecessor in a t
 
 ## Example
 
-In the following example, the  **From** property appears to get both a **Task** object and a **Long** value. However, because **UniqueID** is the default property of a **Task** object, the second assignment using the **From** property is equivalent to the statement, `taskId = ActiveProject.Tasks(2).TaskDependencies(i).From.UniqueID`.
+In the following example, the **From** property appears to get both a **Task** object and a **Long** value. However, because **UniqueID** is the default property of a **Task** object, the second assignment using the **From** property is equivalent to the statement, `taskId = ActiveProject.Tasks(2).TaskDependencies(i).From.UniqueID`.
 
 
 ```vb

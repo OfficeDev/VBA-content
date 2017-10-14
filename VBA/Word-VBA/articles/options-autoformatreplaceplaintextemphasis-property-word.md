@@ -33,7 +33,7 @@ Options.AutoFormatReplacePlainTextEmphasis = True
 Selection.Range.AutoFormat
 ```
 
-This example returns the status of the *Bold* and _underline_ with real formatting option on the  **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the *Bold* and _underline_ with real formatting option on the **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

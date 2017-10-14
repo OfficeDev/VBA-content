@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Row.Parent Property (Publisher)
 
-Returns an object that represents the parent object of the specified object. For example, for a  **[TextFrame](textframe-object-publisher.md)** object, returns a **[Shape](shape-object-publisher.md)** object representing the parent shape of the text frame. Read-only.
+Returns an object that represents the parent object of the specified object. For example, for a **[TextFrame](textframe-object-publisher.md)** object, returns a **[Shape](shape-object-publisher.md)** object representing the parent shape of the text frame. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents a  **Row** object.
+ _expression_A variable that represents a **Row** object.
 
 
 ## Example

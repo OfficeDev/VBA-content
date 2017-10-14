@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.XValues Property (PowerPoint)
 
-Returns or sets an array of x values for a chart series. Read/write  **Variant**.
+Returns or sets an array of x values for a chart series. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an array of x values for a chart series. Read/write  **Variant**
 
 ## Remarks
 
-You can set the  **XValues** property to a range on a worksheet or to an array of values, but not to a combination of both.
+You can set the **XValues** property to a range on a worksheet or to an array of values, but not to a combination of both.
 
 For PivotChart reports, this property is read-only.
 

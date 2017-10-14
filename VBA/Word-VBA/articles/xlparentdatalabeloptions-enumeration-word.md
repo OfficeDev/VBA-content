@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # XlParentDataLabelOptions Enumeration (Word)
 
-Constants passed to and returned by the  **Series.ParentDataLabelOption** property.
+Constants passed to and returned by the **Series.ParentDataLabelOption** property.
 
 
 ## Members

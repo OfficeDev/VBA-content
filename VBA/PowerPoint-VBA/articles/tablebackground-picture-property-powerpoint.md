@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableBackground.Picture Property (PowerPoint)
 
-Returns a  **[PictureFormat](pictureformat-object-powerpoint.md)** object that represents the formatting of the picture associated with the table background. Read-only.
+Returns a **[PictureFormat](pictureformat-object-powerpoint.md)** object that represents the formatting of the picture associated with the table background. Read-only.
 
 
 ## Syntax

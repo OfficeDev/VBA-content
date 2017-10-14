@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.MaxLabelWidth Property (Outlook)
 
-Returns or sets a  **Long** value that represents the maximum length (in characters) for the label of an Outlook item in the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
+Returns or sets a **Long** value that represents the maximum length (in characters) for the label of an Outlook item in the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ If this property is set to 0, labels for Outlook items are not displayed in the 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
+The following Visual Basic for Applications (VBA) example configures the current **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
 
 
 ```vb

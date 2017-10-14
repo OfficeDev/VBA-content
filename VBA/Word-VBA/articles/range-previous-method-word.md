@@ -29,7 +29,7 @@ Returns the previous range a relative to the specified range.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **WdUnits** constant.|
+| _Unit_|Optional| **Variant**|The type of units by which to count. Can be any **WdUnits** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move back. The default value is 1.|
 
 ### Return Value
@@ -39,7 +39,7 @@ Range
 
 ## Remarks
 
-If the  **Range** object is just after the specified Unit, the **Range** object is moved to the previous unit. For example, if the **Range** object is just after a word (before the trailing space), the following instruction moves the **Range** object backward to the previous word.
+If the **Range** object is just after the specified Unit, the **Range** object is moved to the previous unit. For example, if the **Range** object is just after a word (before the trailing space), the following instruction moves the **Range** object backward to the previous word.
 
 
 ```vb

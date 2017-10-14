@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRule.Delete Method (Visio)
 
-Deletes the  **[ValidationRule](validationrule-object-visio.md)** object from the document.
+Deletes the **[ValidationRule](validationrule-object-visio.md)** object from the document.
 
 
 ## Syntax
@@ -30,14 +30,14 @@ Deletes the  **[ValidationRule](validationrule-object-visio.md)** object from th
 
 ## Remarks
 
-Calling the  **Delete** method also deletes all **[ValidationIssue](validationissue-object-visio.md)** objects that are associated with the validation rule.
+Calling the **Delete** method also deletes all **[ValidationIssue](validationissue-object-visio.md)** objects that are associated with the validation rule.
 
 
 ## Example
 
 The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Delete** method to delete a validation rule named "Unglued Connector" from the validation rule set named "Fault Tree Analysis" in the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Delete** method to delete a validation rule named "Unglued Connector" from the validation rule set named "Fault Tree Analysis" in the active document.
 
 
 

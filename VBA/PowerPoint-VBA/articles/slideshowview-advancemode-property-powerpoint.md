@@ -25,7 +25,7 @@ Returns a value that indicates how the slide show in the specified view advances
 
 ## Remarks
 
-The value returned by the  **AdvanceMode** property can be one of these **PpSlideShowAdvanceMode** constants.
+The value returned by the **AdvanceMode** property can be one of these **PpSlideShowAdvanceMode** constants.
 
 
 ||

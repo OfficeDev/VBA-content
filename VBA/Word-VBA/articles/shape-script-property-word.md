@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Script Property (Word)
 
-Returns a  **Script** object, which represents a block of script or code for an image on a Web page.
+Returns a **Script** object, which represents a block of script or code for an image on a Web page.
 
 
 ## Syntax

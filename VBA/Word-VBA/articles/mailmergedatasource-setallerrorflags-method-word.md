@@ -34,7 +34,7 @@ Marks all records in a mail merge data source as containing invalid data in an a
 
 ## Remarks
 
-You can individually mark data source records that contain invalid data in an address field by using the  **InvalidAddress** and **InvalidComments** properties.
+You can individually mark data source records that contain invalid data in an address field by using the **InvalidAddress** and **InvalidComments** properties.
 
 
 ## Example

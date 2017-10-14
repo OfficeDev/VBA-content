@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ComputeStatistics Method (Word)
 
-Returns a statistic based on the contents of the specified document.  **Long** .
+Returns a statistic based on the contents of the specified document. **Long** .
 
 
 ## Syntax

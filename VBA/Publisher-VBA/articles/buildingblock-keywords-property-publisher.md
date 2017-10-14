@@ -18,6 +18,6 @@ A string that represents the search keywords associated with the building block.
 
  _expression_. **Keywords**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_A variable that represents a **BuildingBlock** object.
 
 

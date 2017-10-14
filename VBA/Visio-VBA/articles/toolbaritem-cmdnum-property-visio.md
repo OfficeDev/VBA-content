@@ -33,22 +33,22 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-When the  **AddOnName** property of a **ToolbarItem** object indicates an add-on to run, Microsoft Visio automatically assigns a **CmdNum** property.
+When the **AddOnName** property of a **ToolbarItem** object indicates an add-on to run, Microsoft Visio automatically assigns a **CmdNum** property.
 
-To insert a separator in a spacer in a toolbar preceding a  **ToolbarItem** object, use the **BeginGroup** property.
+To insert a separator in a spacer in a toolbar preceding a **ToolbarItem** object, use the **BeginGroup** property.
 
-Valid command IDs are declared by the Visio type library in  **[VisUICmds](visuicmds-enumeration-visio.md)** . They have the prefix **visCmd** .
+Valid command IDs are declared by the Visio type library in **[VisUICmds](visuicmds-enumeration-visio.md)** . They have the prefix **visCmd** .
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how use the  **CmdNum** property to get a particular built-in Visio toolbar button, and then it shows how to change the button's icon. The new icon persists as long as the document is active.
+This Microsoft Visual Basic for Applications (VBA) macro shows how use the **CmdNum** property to get a particular built-in Visio toolbar button, and then it shows how to change the button's icon. The new icon persists as long as the document is active.
 
 This macro assumes you are not using a custom user interface (UI).
 
 Before running this macro, replace  _fullpath\filename_ in the following code with the full path to and file name of an icon file (.ico) on your computer.
 
-To restore the built-in toolbars in Visio after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in toolbars in Visio after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

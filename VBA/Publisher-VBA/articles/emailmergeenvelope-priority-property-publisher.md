@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope.Priority Property (Publisher)
 
-Gets or sets the priority of the merged e-mail message represented by the parent  **EmailMergeEnvelope** object. Read/write.
+Gets or sets the priority of the merged e-mail message represented by the parent **EmailMergeEnvelope** object. Read/write.
 
 
 ## Syntax
 
  _expression_. **Priority**
 
- _expression_A variable that represents an  **EmailMergeEnvelope** object.
+ _expression_A variable that represents an **EmailMergeEnvelope** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ pbEmailMergePriority
 
 ## Remarks
 
-Possible values for the  **Priority** property are declared in the **pbEmailMergePriority** enumeration and shown in the following table.
+Possible values for the **Priority** property are declared in the **pbEmailMergePriority** enumeration and shown in the following table.
 
 
 

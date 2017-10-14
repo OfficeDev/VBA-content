@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # Styles Object (Word)
 
-A collection of  **Style** objects that represent both the built-in and user-defined styles in a document.
+A collection of **Style** objects that represent both the built-in and user-defined styles in a document.
 
 
 ## Remarks
 
-Use the  **Styles** property to return the **Styles** collection. The following example deletes all user-defined styles in the active document.
+Use the **Styles** property to return the **Styles** collection. The following example deletes all user-defined styles in the active document.
 
 
 ```
@@ -25,7 +25,7 @@ For Each sty In ActiveDocument.Styles
 Next sty
 ```
 
-Use the  **Add** method to create a new user-defined style and add it to the **Styles** collection. The following example adds a new character style named "Introduction" and makes it 12-point Arial, with bold and italic formatting. The example then applies this new character style to the selection.
+Use the **Add** method to create a new user-defined style and add it to the **Styles** collection. The following example adds a new character style named "Introduction" and makes it 12-point Arial, with bold and italic formatting. The example then applies this new character style to the selection.
 
 
 
@@ -42,7 +42,7 @@ End With
 Selection.Range.Style = "Introduction"
 ```
 
-Use  **Styles** (Index), where Index is the style name, a **WdBuiltinStyle** constant or index number, to return a single **[Style](style-object-word.md)** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization. The following example modifies the font of the user-defined style named "Color" in the active document.
+Use **Styles** (Index), where Index is the style name, a **WdBuiltinStyle** constant or index number, to return a single **[Style](style-object-word.md)** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization. The following example modifies the font of the user-defined style named "Color" in the active document.
 
 
 
@@ -71,7 +71,7 @@ MsgBox "Base style= " _
  &amp; "Style name= " &amp; ActiveDocument.Styles(1).NameLocal
 ```
 
-The  **Styles** object is not available from the **Template** object. However, you can use the **OpenAsDocument** method to open a template as a document so that you can modify styles in the template. The following example changes the formatting of the Heading 1 style in the template attached to the active document.
+The **Styles** object is not available from the **Template** object. However, you can use the **OpenAsDocument** method to open a template as a document so that you can modify styles in the template. The following example changes the formatting of the Heading 1 style in the template attached to the active document.
 
 
 
@@ -84,7 +84,7 @@ With aDoc
 End With
 ```
 
-Use the  **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template.
+Use the **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template.
 
 
 ## Methods

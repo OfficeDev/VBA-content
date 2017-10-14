@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Reviewer Object (Word)
 
-Represents a single reviewer of a document in which changes have been tracked. The  **Reviewer** object is a member of the **[Reviewers](reviewers-object-word.md)** collection.
+Represents a single reviewer of a document in which changes have been tracked. The **Reviewer** object is a member of the **[Reviewers](reviewers-object-word.md)** collection.
 
 
 ## Remarks
 
-Use  **Reviewers** ( _Index_ ), where _Index_ is the name or number of the reviewer, to return a **Reviewer** object. Use the **Visible** property to display or hide individual reviewers in a document. The following code example hides the reviewer named "Jeff Smith" and displays the reviewer named "Judy Lew." This assumes that "Jeff Smith" and "Judy Lew" are members of the **Reviewers** collection. If they are not, you will receive an error.
+Use **Reviewers** ( _Index_ ), where _Index_ is the name or number of the reviewer, to return a **Reviewer** object. Use the **Visible** property to display or hide individual reviewers in a document. The following code example hides the reviewer named "Jeff Smith" and displays the reviewer named "Judy Lew." This assumes that "Jeff Smith" and "Judy Lew" are members of the **Reviewers** collection. If they are not, you will receive an error.
 
 
 ```vb

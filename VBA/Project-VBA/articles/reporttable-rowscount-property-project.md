@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ReportTable.RowsCount Property (Project)
-Gets the number of rows in the table. Read-only  **Long**.
+Gets the number of rows in the table. Read-only **Long**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the number of rows in the table. Read-only  **Long**.
 
 ## Remarks
 
-For an example that uses the  **RowsCount** property, see the **ReportTable** object.
+For an example that uses the **RowsCount** property, see the **ReportTable** object.
 
 
 ## Property value

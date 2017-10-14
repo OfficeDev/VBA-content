@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.StoryRanges Property (Word)
 
-Returns a  **[StoryRanges](storyranges-object-word.md)** collection that represents all the stories in the specified document. Read-only.
+Returns a **[StoryRanges](storyranges-object-word.md)** collection that represents all the stories in the specified document. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example steps through the  **StoryRanges** collection to determine whether **wdPrimaryFooterStory** is part of the **StoryRanges** collection.
+This example steps through the **StoryRanges** collection to determine whether **wdPrimaryFooterStory** is part of the **StoryRanges** collection.
 
 
 ```vb

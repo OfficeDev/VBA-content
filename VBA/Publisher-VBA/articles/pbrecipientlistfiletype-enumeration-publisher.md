@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PbRecipientListFileType Enumeration (Publisher)
 
-Constants passed to the  ** [MailMerge.ExportRecipientList](mailmerge-exportrecipientlist-method-publisher.md)** method that specify the type of file in which to save an exported mail-merge recipient list.
+Constants passed to the ** [MailMerge.ExportRecipientList](mailmerge-exportrecipientlist-method-publisher.md)** method that specify the type of file in which to save an exported mail-merge recipient list.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.ItemFromUniqueID Property (Visio)
 
-Returns the  **[Shape](shape-object-visio.md)** object that matches the specified **[UniqueID](shape-uniqueid-property-visio.md)** property value. Read-only.
+Returns the **[Shape](shape-object-visio.md)** object that matches the specified **[UniqueID](shape-uniqueid-property-visio.md)** property value. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns the  **[Shape](shape-object-visio.md)** object that matches the specifie
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _UniqueID_|Required| **String**|The unique ID of a  **Shape** object.|
+| _UniqueID_|Required| **String**|The unique ID of a **Shape** object.|
 
 ### Return Value
 
@@ -42,10 +42,10 @@ Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs
 
 Unique IDs are GUIDs. They are unique within the scope of the document.
 
-To convert between shape IDs and unique IDs, you can use two methods of the  **[Page](page-object-visio.md)** object, **[ShapeIDsToUniqueIDs](page-shapeidstouniqueids-method-visio.md)** and **[UniqueIDsToShapeIDs](page-uniqueidstoshapeids-method-visio.md)** .
+To convert between shape IDs and unique IDs, you can use two methods of the **[Page](page-object-visio.md)** object, **[ShapeIDsToUniqueIDs](page-shapeidstouniqueids-method-visio.md)** and **[UniqueIDsToShapeIDs](page-uniqueidstoshapeids-method-visio.md)** .
 
-By default, a shape does not have a unique ID. A shape acquires a unique ID only if you get its read-only  **UniqueID** property value by calling the property on the shape, passing it the **visGetOrMake** constant from the **[VisUniqueIDArgs](visuniqueidargs-enumeration-visio.md)** enumeration.
+By default, a shape does not have a unique ID. A shape acquires a unique ID only if you get its read-only **UniqueID** property value by calling the property on the shape, passing it the **visGetOrMake** constant from the **[VisUniqueIDArgs](visuniqueidargs-enumeration-visio.md)** enumeration.
 
-If a  **Shape** object has a unique ID, no other shape in the same document will have the same ID.
+If a **Shape** object has a unique ID, no other shape in the same document will have the same ID.
 
 

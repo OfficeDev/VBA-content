@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.SectionProperties Property (PowerPoint)
 
-Returns a  **SectionProperties** object. Read-only.
+Returns a **SectionProperties** object. Read-only.
 
 
 ## Syntax

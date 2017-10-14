@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **FixedMaterialAssignment** property returns **True** if the assignment is for a work (non-material) resource.
+The **FixedMaterialAssignment** property returns **True** if the assignment is for a work (non-material) resource.
 
 

@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # TextStyles Object (Publisher)
 
-A collection of  **[TextStyle](textstyle-object-publisher.md)** objects that represent both the built-in and user-defined styles in a document.
+A collection of **[TextStyle](textstyle-object-publisher.md)** objects that represent both the built-in and user-defined styles in a document.
  
 
 
 ## Example
 
-Use the  **TextStyles** property to return the **TextStyles** collection. The following example creates a table and lists all the styles in the active publication.
+Use the **TextStyles** property to return the **TextStyles** collection. The following example creates a table and lists all the styles in the active publication.
  
 
  
@@ -44,7 +44,7 @@ Sub ListTextStyles()
 End Sub
 ```
 
-Use the  **[Add](textstyles-add-method-publisher.md)** method to create a new user-defined style and add it to the **TextStyles** collection. The following example creates a new style and applies it to the paragraph at the cursor position.
+Use the **[Add](textstyles-add-method-publisher.md)** method to create a new user-defined style and add it to the **TextStyles** collection. The following example creates a new style and applies it to the paragraph at the cursor position.
  
 
  

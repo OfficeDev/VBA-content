@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathPhantom.ZeroWid Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the width of a phantom object is ignored in the spacing of the layout. Read/write.
+Returns or sets a **Boolean** that represents whether the width of a phantom object is ignored in the spacing of the layout. Read/write.
 
 
 ## Syntax

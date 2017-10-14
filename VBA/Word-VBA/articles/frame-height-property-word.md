@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.Height Property (Word)
 
-Returns or sets a  **Single** that represents the height (in points) of the specified frame. Read/write .
+Returns or sets a **Single** that represents the height (in points) of the specified frame. Read/write .
 
 
 ## Syntax

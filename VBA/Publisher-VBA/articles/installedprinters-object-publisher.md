@@ -13,24 +13,24 @@ ms.date: 06/08/2017
 
 # InstalledPrinters Object (Publisher)
 
-Represents the collection of all  **Printer** objects, each of which represents one of the printers installed on the computer.
+Represents the collection of all **Printer** objects, each of which represents one of the printers installed on the computer.
  
 
 
 ## Remarks
 
-To provide the user a choice of printers to print a publication, you can iterate through the  **InstalledPrinters** collection to get a list of the names of all the printers installed on the computer, as shown in the following example.
+To provide the user a choice of printers to print a publication, you can iterate through the **InstalledPrinters** collection to get a list of the names of all the printers installed on the computer, as shown in the following example.
  
 
  
-The default property of the  **InstalledPrinters** collection is **Item**.
+The default property of the **InstalledPrinters** collection is **Item**.
  
 
  
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **[PrinterName](printer-printername-property-publisher.md)** and **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** properties of the **Printer** object to get a list of all the installed printers on the computer and to determine which of them is currently the active printer.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how you can use the **[PrinterName](printer-printername-property-publisher.md)** and **[IsActivePrinter](printer-isactiveprinter-property-publisher.md)** properties of the **Printer** object to get a list of all the installed printers on the computer and to determine which of them is currently the active printer.
  
 
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserDefinedProperties.Add Method (Outlook)
 
-Creates a new  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** object and appends it to the collection.
+Creates a new **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** object and appends it to the collection.
 
 
 ## Syntax
@@ -31,22 +31,22 @@ Creates a new  **[UserDefinedProperty](userdefinedproperty-object-outlook.md)** 
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new user-defined property.|
 | _Type_|Required| **[OlUserPropertyType](oluserpropertytype-enumeration-outlook.md)**|The type of the new user-defined property.|
-| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the  **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see[DisplayFormat Property](userdefinedproperty-displayformat-property-outlook.md).|
+| _DisplayFormat_|Optional| **Variant**|The display format of the new user-defined property. This parameter can be set to a value from one of several different enumerations, determined by the **OlUserPropertyType** constant specified in the _Type_ parameter. For more information on how _Type_ and _DisplayFormat_ interact, see[DisplayFormat Property](userdefinedproperty-displayformat-property-outlook.md).|
 | _Formula_|Optional| **Variant**|The formula used to calculate values for the new user-defined property. This parameter is ignored if the  _Type_ parameter is set to any value other than **olCombination** or **olFormula** .|
 
 ### Return Value
 
-A  **UserDefinedProperty** object that represents the new user-defined property.
+A **UserDefinedProperty** object that represents the new user-defined property.
 
 
 ## Remarks
 
-You can create a property of a type that is defined by the  **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**,  **olOutlookInternal**, and  **olSmartFrom**.
+You can create a property of a type that is defined by the **OlUserPropertyType** enumeration, except for the following types: **olEnumeration**, **olOutlookInternal**, and **olSmartFrom**.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example uses the  **Add** method to create and add several **UserDefinedProperty** objects to the **Inbox** default folder.
+The following Visual Basic for Applications (VBA) example uses the **Add** method to create and add several **UserDefinedProperty** objects to the **Inbox** default folder.
 
 
 ```vb

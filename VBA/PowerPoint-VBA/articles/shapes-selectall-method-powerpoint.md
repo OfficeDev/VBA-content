@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.SelectAll Method (PowerPoint)
 
-Selects all the shapes in a  **[Shapes](shapes-object-powerpoint.md)** collection.
+Selects all the shapes in a **[Shapes](shapes-object-powerpoint.md)** collection.
 
 
 ## Syntax

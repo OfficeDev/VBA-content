@@ -20,7 +20,7 @@ Represents a presentation window that is in protected view.
 
 Documents displayed in a protected view window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and data connections.
 
-Use  **[ProtectedViewWindows](protectedviewwindows-object-powerpoint.md)** ( _Index_ ), where _Index_ is the index number to return a single **ProtectedViewWindow** object. The index number represents the position of the protected view window in the **ProtectedViewWindows** collection.
+Use **[ProtectedViewWindows](protectedviewwindows-object-powerpoint.md)** ( _Index_ ), where _Index_ is the index number to return a single **ProtectedViewWindow** object. The index number represents the position of the protected view window in the **ProtectedViewWindows** collection.
 
 
 ## See also

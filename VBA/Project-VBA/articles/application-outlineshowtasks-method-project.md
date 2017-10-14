@@ -29,7 +29,7 @@ Expands an outline to show all tasks up to the specified level and collapses any
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _OutlineNumber_|Optional|**Long**|The outline level to display. Higher outline levels are expanded to show this level. The level specified with  **OutlineNumber** and lower (if any) are collapsed. Can be one of the **[PjTaskOutlineShowLevel](pjtaskoutlineshowlevel-enumeration-project.md)** constants.|
+| _OutlineNumber_|Optional|**Long**|The outline level to display. Higher outline levels are expanded to show this level. The level specified with **OutlineNumber** and lower (if any) are collapsed. Can be one of the **[PjTaskOutlineShowLevel](pjtaskoutlineshowlevel-enumeration-project.md)** constants.|
 | _ExpandInsertedProjects_|Optional|**Boolean**|**True** if tasks from subprojects are affected by the value specified with **OutlineNumber**. The default value is **False**.|
 
 ### Return Value

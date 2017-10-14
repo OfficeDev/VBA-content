@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Assistance Property (Word)
 
-Returns an  **Assistance** object that represents the Microsoft Office Help Viewer. Read-only.
+Returns an **Assistance** object that represents the Microsoft Office Help Viewer. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **Assistance** object that represents the Microsoft Office Help View
 
 ## Remarks
 
-The  **Assistance** object allows developers to show custom help and help that is installed with Office in the Office Help Viewer.
+The **Assistance** object allows developers to show custom help and help that is installed with Office in the Office Help Viewer.
 
 
 ## See also

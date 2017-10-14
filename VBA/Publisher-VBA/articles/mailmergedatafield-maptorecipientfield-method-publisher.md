@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataField.MapToRecipientField Method (Publisher)
 
-Maps a field (column) in a particular data source represented by the parent  **MailMergeDataField** object to a recipient field (column) in the master data source (combined mail-merge recipient list).
+Maps a field (column) in a particular data source represented by the parent **MailMergeDataField** object to a recipient field (column) in the master data source (combined mail-merge recipient list).
 
 
 ## Syntax
 
  _expression_. **MapToRecipientField**( **_bstrValue_**)
 
- _expression_A variable that represents a  **MailMergeDataField** object.
+ _expression_A variable that represents a **MailMergeDataField** object.
 
 
 ### Parameters
@@ -33,23 +33,23 @@ Maps a field (column) in a particular data source represented by the parent  **M
 
 ## Remarks
 
-This method works only if the parent  **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** property of the **MailMergeDataField** object to determine if the object has already been mapped.
+This method works only if the parent **MailMergeDataField** object has not already been mapped to a recipient field. You can use the **[IsMapped](mailmergedatafield-ismapped-property-publisher.md)** property of the **MailMergeDataField** object to determine if the object has already been mapped.
 
 If you do not pass a value for the optional bstrValue parameter, Microsoft Publisher assumes that the field to be mapped has the same name as the recipient field in the master data source to which it is mapped.
 
 If you pass the name of a field that does not exist, Publisher returns an error. 
 
 
- **Note**  To add a field, use the  **[AddToRecipientFields](mailmergedatafield-addtorecipientfields-method-publisher.md)** method.
+ **Note**  To add a field, use the **[AddToRecipientFields](mailmergedatafield-addtorecipientfields-method-publisher.md)** method.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **MapToRecipientField** method to map a data field (column) in a particular data source to a field in the master data source (combined recipient list) for the publication.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **MapToRecipientField** method to map a data field (column) in a particular data source to a field in the master data source (combined recipient list) for the publication.
 
 Before running this macro, replace  _datasourceindex_ with the index number of a valid data source in the data source collection of the active document, replace _fieldname_ with the name of the field in the data source that you want to map to a recipient field, and replace _recipientfieldname_ with the name of the recipient field.
 
-See the  **[Item](mailmergedatasources-item-method-publisher.md)** method topic for an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source you want.
+See the **[Item](mailmergedatasources-item-method-publisher.md)** method topic for an example of how you can use the **Name** property of the **DataSource** object to determine the index number of the data source you want.
 
 
 

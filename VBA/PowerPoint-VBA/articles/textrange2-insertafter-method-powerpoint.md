@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.InsertAfter Method (PowerPoint)
 
-Inserts text to the right of the existing text in the  **TextRange2** object.
+Inserts text to the right of the existing text in the **TextRange2** object.
 
 
 ## Syntax

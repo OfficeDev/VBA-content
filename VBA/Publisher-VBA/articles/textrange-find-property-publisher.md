@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # TextRange.Find Property (Publisher)
 
-Returns a  **FindReplace** object from the specified **TextRange** object. The **FindReplace** object is used to perform a text search and replace in the specified text range.
+Returns a **FindReplace** object from the specified **TextRange** object. The **FindReplace** object is used to perform a text search and replace in the specified text range.
 
 
 ## Syntax
 
  _expression_. **Find**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 

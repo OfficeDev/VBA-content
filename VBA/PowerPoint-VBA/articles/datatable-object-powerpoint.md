@@ -23,7 +23,7 @@ Represents a chart data table.
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **[DataTable](chart-datatable-property-powerpoint.md)** property to return a **DataTable** object. The following example adds a data table with an outline border to embedded chart one.
+Use the **[DataTable](chart-datatable-property-powerpoint.md)** property to return a **DataTable** object. The following example adds a data table with an outline border to embedded chart one.
 
 
 

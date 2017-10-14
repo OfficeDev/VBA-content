@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Container Property (Visio)
 
-Returns an  **IDispatch** interface on the ActiveX container in which the document is contained or **Nothing** if the document is not in a container. Read-only.
+Returns an **IDispatch** interface on the ActiveX container in which the document is contained or **Nothing** if the document is not in a container. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Object
 
 ## Remarks
 
-The interface returned is the result of querying the  **IOleContainer** interface provided by the containing object for **IDispatch** .
+The interface returned is the result of querying the **IOleContainer** interface provided by the containing object for **IDispatch** .
 
 

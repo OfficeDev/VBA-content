@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Parent Property (Project)
 
-Gets the parent of the  **Assignment** object. Read-only **Object**.
+Gets the parent of the **Assignment** object. Read-only **Object**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the parent of the  **Assignment** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of an  **Assignment** object can be a **Task** or a **Resource**.
+The parent of an **Assignment** object can be a **Task** or a **Resource**.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

@@ -26,7 +26,7 @@ Hides the project checkout message bar.
 
 ## Remarks
 
-The checkout message bar is the yellow information bar near the top of the Project window that shows  **READ-ONLY This project was opened in read-only mode**, and contains a  **Check Out** button. If the checkout message bar is not visible, the **HideCheckoutMsgBar** method displays run-time error 1004, "An unexpected error occurred with the method."
+The checkout message bar is the yellow information bar near the top of the Project window that shows **READ-ONLY This project was opened in read-only mode**, and contains a **Check Out** button. If the checkout message bar is not visible, the **HideCheckoutMsgBar** method displays run-time error 1004, "An unexpected error occurred with the method."
 
 
 ## Example

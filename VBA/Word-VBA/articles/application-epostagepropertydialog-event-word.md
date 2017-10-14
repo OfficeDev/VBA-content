@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EPostagePropertyDialog Event (Word)
 
-Occurs when a user clicks the  **E-postage Properties** ( **Labels and Envelopes** dialog box) button or **Print Electronic Postage** button.
+Occurs when a user clicks the **E-postage Properties** ( **Labels and Envelopes** dialog box) button or **Print Electronic Postage** button.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ This event allows a third-party software application to intercept and show their
 
 ## Example
 
-This example displays a message when a user clicks either the  **Add Electronic Postage** button or the **Print Electronic Postage** button.
+This example displays a message when a user clicks either the **Add Electronic Postage** button or the **Print Electronic Postage** button.
 
 
 ```vb

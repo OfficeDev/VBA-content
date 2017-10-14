@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Groups.Copy Method (Project)
 
-Makes a copy of a group definition for the  **Groups** collection and returns a reference to the **[Group](group-object-project.md)** object.
+Makes a copy of a group definition for the **Groups** collection and returns a reference to the **[Group](group-object-project.md)** object.
 
 
 ## Syntax

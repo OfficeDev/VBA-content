@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Shape.SaveAsBuildingBlock Method (Publisher)
 
-Saves a single shape as a building block. Returns the resulting  **[BuildingBlock](buildingblock-object-publisher.md)** object.
+Saves a single shape as a building block. Returns the resulting **[BuildingBlock](buildingblock-object-publisher.md)** object.
 
 
 ## Syntax
 
  _expression_. **SaveAsBuildingBlock**( **_Name_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Parameters

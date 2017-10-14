@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisProtection Enumeration (Visio)
 
-Flags to be passed to or returned by the  **Document.Protection** property.
+Flags to be passed to or returned by the **Document.Protection** property.
 
 
 

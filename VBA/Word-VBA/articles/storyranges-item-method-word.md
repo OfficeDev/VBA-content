@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StoryRanges.Item Method (Word)
 
-Returns a single story of a range or selection as a  **Range** object.
+Returns a single story of a range or selection as a **Range** object.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ Determines whether the container is a normal container or a list container. Read
 
 ## Remarks
 
-The value of the  **ContainerType** property can be one of the following **VisContainerTypes** constants.
+The value of the **ContainerType** property can be one of the following **VisContainerTypes** constants.
 
 
 

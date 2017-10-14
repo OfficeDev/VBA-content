@@ -32,7 +32,7 @@ This example sets Word to automatically apply the Heading1 through Heading 9 sty
 Options.AutoFormatAsYouTypeApplyHeadings = True
 ```
 
-This example returns the status of the  **Headings** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Headings** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

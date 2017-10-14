@@ -30,7 +30,7 @@ MsoArrowheadLength
 
 ## Remarks
 
-The  **EndArrowheadLength** property value can be one of these **MsoArrowheadLength** constants.
+The **EndArrowheadLength** property value can be one of these **MsoArrowheadLength** constants.
 
 
 ||

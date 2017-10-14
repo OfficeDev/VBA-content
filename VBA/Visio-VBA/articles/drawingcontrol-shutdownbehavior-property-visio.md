@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # DrawingControl.ShutdownBehavior Property (Visio)
 
-Determines how the Visio Drawing Control unloads the Visio application when the  **DrawingControl** object is released. Read/write **Integer**.
+Determines how the Visio Drawing Control unloads the Visio application when the **DrawingControl** object is released. Read/write **Integer**.
 
 
 ## Syntax

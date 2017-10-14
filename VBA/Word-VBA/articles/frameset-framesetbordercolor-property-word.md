@@ -25,7 +25,7 @@ Returns or sets the color of the frame borders on the specified frames page. Rea
 
 ## Remarks
 
-This property can be any of the  **WdColor** constants or a value returned by Visual Basic's **RGB** function. For more information on creating frames pages, see[Creating frames pages](http://msdn.microsoft.com/library/0245564e-b2df-83cd-1e32-e63079970dc1%28Office.15%29.aspx).
+This property can be any of the **WdColor** constants or a value returned by Visual Basic's **RGB** function. For more information on creating frames pages, see[Creating frames pages](http://msdn.microsoft.com/library/0245564e-b2df-83cd-1e32-e63079970dc1%28Office.15%29.aspx).
 
 
 ## Example

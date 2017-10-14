@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.BorderArts Property (Publisher)
 
-Returns a  **[BorderArts](borderarts-object-publisher.md)** collection that represents the BorderArt types available for use in the specified publication. Read-only.
+Returns a **[BorderArts](borderarts-object-publisher.md)** collection that represents the BorderArt types available for use in the specified publication. Read-only.
 
 
 ## Syntax
 
  _expression_. **BorderArts**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ BorderArts
 
 BorderArt are picture borders that can be applied to text boxes, picture frames, or rectangles. 
 
-The  **BorderArts** collection includes any custom BorderArt types created by the user for the specified publication.
+The **BorderArts** collection includes any custom BorderArt types created by the user for the specified publication.
 
 
 ## Example

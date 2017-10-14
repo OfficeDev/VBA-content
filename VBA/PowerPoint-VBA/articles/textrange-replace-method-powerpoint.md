@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.Replace Method (PowerPoint)
 
-Finds specific text in a text range, replaces the found text with a specified string, and returns a  **TextRange** object that represents the first occurrence of the found text. Returns **Nothing** if no match is found.
+Finds specific text in a text range, replaces the found text with a specified string, and returns a **TextRange** object that represents the first occurrence of the found text. Returns **Nothing** if no match is found.
 
 
 ## Syntax

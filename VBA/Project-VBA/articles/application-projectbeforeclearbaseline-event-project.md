@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.ProjectBeforeClearBaseline Event (Project)
 
-Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
+Occurs before a baseline is cleared. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
@@ -28,10 +28,10 @@ Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**| The project displayed in the deactivated window.|
 | _Interim_|Required|**Boolean**|**True** if clearing an interim baseline plan. **False** if clearing a full baseline plan.|
-| _bl_|Required|**PjBaselines**|The baseline you are clearing. Can be one of the following  **PjBaselines** constants: **pjBaseline**, **pjBaseline1**, **pjBaseline2**, **pjBaseline3**, **pjBaseline4**, **pjBaseline5**, **pjBaseline6**, **pjBaseline7**, **pjBaseline8**, **pjBaseline9**, or **pjBaseline10**.|
-| _InterimFrom_|Required|**PjSaveBaselineTo**|The interim baseline plan being cleared. Can be one of the following  **PjSaveBaselineTo** constants: **pjIntoBaseline**, **pjIntoBaseline1**, **pjIntoBaseline2**, **pjIntoBaseline3**, **pjIntoBaseline4**, **pjIntoBaseline5**, **pjIntoBaseline6**, **pjIntoBaseline7**, **pjIntoBaseline8**, **pjIntoBaseline9**, **pjIntoBaseline10**, **pjIntoStart_Finish1**, **pjIntoStart_Finish2**, **pjIntoStart_Finish3**, **pjIntoStart_Finish4**, **pjIntoStart_Finish5**, **pjIntoStart_Finish6**, **pjIntoStart_Finish7**, **pjIntoStart_Finish8**, **pjIntoStart_Finish9**, or **pjIntoStart_Finish10**.|
+| _bl_|Required|**PjBaselines**|The baseline you are clearing. Can be one of the following **PjBaselines** constants: **pjBaseline**, **pjBaseline1**, **pjBaseline2**, **pjBaseline3**, **pjBaseline4**, **pjBaseline5**, **pjBaseline6**, **pjBaseline7**, **pjBaseline8**, **pjBaseline9**, or **pjBaseline10**.|
+| _InterimFrom_|Required|**PjSaveBaselineTo**|The interim baseline plan being cleared. Can be one of the following **PjSaveBaselineTo** constants: **pjIntoBaseline**, **pjIntoBaseline1**, **pjIntoBaseline2**, **pjIntoBaseline3**, **pjIntoBaseline4**, **pjIntoBaseline5**, **pjIntoBaseline6**, **pjIntoBaseline7**, **pjIntoBaseline8**, **pjIntoBaseline9**, **pjIntoBaseline10**, **pjIntoStart_Finish1**, **pjIntoStart_Finish2**, **pjIntoStart_Finish3**, **pjIntoStart_Finish4**, **pjIntoStart_Finish5**, **pjIntoStart_Finish6**, **pjIntoStart_Finish7**, **pjIntoStart_Finish8**, **pjIntoStart_Finish9**, or **pjIntoStart_Finish10**.|
 | _AllTasks_|Required|**Boolean**|**True** if clearing the entire project.|
-| _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the baseline is not cleared.|
+| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the baseline is not cleared.|
 
 ### Return Value
 
@@ -83,7 +83,7 @@ End Sub
     
 3. Run the RunMacros procedure to start listening to the events.
     
-4. On the  **Tools** menu, point to **Tracking** and click **Clear Baseline**.The event causes a message box to pop up every time a baseline is cleared.
+4. On the **Tools** menu, point to **Tracking** and click **Clear Baseline**.The event causes a message box to pop up every time a baseline is cleared.
     
 
 

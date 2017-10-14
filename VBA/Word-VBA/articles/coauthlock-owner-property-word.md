@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthLock.Owner Property (Word)
 
-Returns the  **[CoAuthor](coauthor-object-word.md)** that owns the specified lock. Read-only.
+Returns the **[CoAuthor](coauthor-object-word.md)** that owns the specified lock. Read-only.
 
 
 ## Syntax

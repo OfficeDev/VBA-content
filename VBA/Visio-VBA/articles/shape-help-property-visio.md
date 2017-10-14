@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-Using the  **Help** property is equivalent to entering a value in the **Help** box for a shape in the **Special** dialog box (in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx)tab, click  **Shape Name** ).
+Using the **Help** property is equivalent to entering a value in the **Help** box for a shape in the **Special** dialog box (in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx)tab, click **Shape Name** ).
 
 

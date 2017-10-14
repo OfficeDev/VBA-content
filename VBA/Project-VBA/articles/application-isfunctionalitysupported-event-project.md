@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.IsFunctionalitySupported Event (Project)
 
-Occurs after the  **LoadWebBrowserControl** method is called with the third parameter ( _FunctionalityName_) set.
+Occurs after the **LoadWebBrowserControl** method is called with the third parameter ( _FunctionalityName_) set.
 
 
 ## Syntax

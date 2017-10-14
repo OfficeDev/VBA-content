@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Rows Property (Word)
 
-Returns a  **Rows** collection that represents all the table rows in a range. Read-only.
+Returns a **Rows** collection that represents all the table rows in a range. Read-only.
 
 
 ## Syntax

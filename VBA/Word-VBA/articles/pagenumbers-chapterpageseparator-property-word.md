@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageNumbers.ChapterPageSeparator Property (Word)
 
-Returns or sets the separator character used between the chapter number and the page number. Read/write  **[WdSeparatorType](wdseparatortype-enumeration-word.md)** .
+Returns or sets the separator character used between the chapter number and the page number. Read/write **[WdSeparatorType](wdseparatortype-enumeration-word.md)** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the separator character used between the chapter number and the 
 
 ## Remarks
 
-Before you can create page numbers that include chapter numbers, the document headings must have a numbered outline format applied that uses styles from the  **Bullets and Numbering** dialog box. To do this in Visual Basic, use the **ApplyListTemplate** method.
+Before you can create page numbers that include chapter numbers, the document headings must have a numbered outline format applied that uses styles from the **Bullets and Numbering** dialog box. To do this in Visual Basic, use the **ApplyListTemplate** method.
 
 
 ## Example
 
-The first part of this example creates a new document, adds chapter titles and page breaks, and then formats the document by using the last numbered outline format listed in the  **Bullets and Numbering** dialog box. The second part of the example adds centered page numbers — including the chapter number — to the header; an en dash separates the chapter number and the page number.
+The first part of this example creates a new document, adds chapter titles and page breaks, and then formats the document by using the last numbered outline format listed in the **Bullets and Numbering** dialog box. The second part of the example adds centered page numbers — including the chapter number — to the header; an en dash separates the chapter number and the page number.
 
 
 ```vb

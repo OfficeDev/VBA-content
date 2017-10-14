@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeadingStyles.Count Property (Word)
 
-Returns a  **Long** that represents the number of heading styles in the collection. Read-only.
+Returns a **Long** that represents the number of heading styles in the collection. Read-only.
 
 
 ## Syntax

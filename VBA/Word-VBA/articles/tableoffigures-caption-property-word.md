@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.Caption Property (Word)
 
-Returns or sets the label that identifies the items to be included in a table of figures. Read/write  **String** .
+Returns or sets the label that identifies the items to be included in a table of figures. Read/write **String** .
 
 
 ## Syntax

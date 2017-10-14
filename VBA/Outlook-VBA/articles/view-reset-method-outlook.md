@@ -27,7 +27,7 @@ Resets a built-in Microsoft Outlook view to its original settings.
 
 This method works only on built-in Outlook views.
 
-To properly reset the current view, you must do a  **View.Reset** and then a **[View.Apply](view-apply-method-outlook.md)** . The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a **View.Reset** and then a **[View.Apply](view-apply-method-outlook.md)** . The code sample below illustrates the order of the calls:
 
 
 
@@ -53,7 +53,7 @@ End Sub
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example resets all built-in views in the user's  **Inbox** to their original settings. The **[Standard](view-standard-property-outlook.md)** property is returned to determine if the view is a built-in Outlook view.
+The following Microsoft Visual Basic for Applications (VBA) example resets all built-in views in the user's **Inbox** to their original settings. The **[Standard](view-standard-property-outlook.md)** property is returned to determine if the view is a built-in Outlook view.
 
 
 ```vb

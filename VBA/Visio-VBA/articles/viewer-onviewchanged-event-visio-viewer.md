@@ -15,9 +15,9 @@ Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 
 ## Syntax
 
- _expression_. **OnViewChanged**( **_PageXAtViewCenter_**,  **_PageYAtViewCenter_**,  **_ZoomFactor_**)
+ _expression_. **OnViewChanged**( **_PageXAtViewCenter_**, **_PageYAtViewCenter_**, **_ZoomFactor_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -39,12 +39,12 @@ Nothing
 
 The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower left corner of the page; and the zoom factor, expressed as a numerical percentage, ranging from 1% to 400%.
 
-You can get the current page view in Visio Viewer by using the  **[GetPageView](viewer-getpageview-method-visio-viewer.md)** method, and you can set the page view programmatically by using the **[SetPageView](viewer-setpageview-method-visio-viewer.md)** method.
+You can get the current page view in Visio Viewer by using the **[GetPageView](viewer-getpageview-method-visio-viewer.md)** method, and you can set the page view programmatically by using the **[SetPageView](viewer-setpageview-method-visio-viewer.md)** method.
 
 
 ## Example
 
-The following code shows how to use the  **OnViewChanged** event to display the new page-view data in the **Immediate** window.
+The following code shows how to use the **OnViewChanged** event to display the new page-view data in the **Immediate** window.
 
 
 ```vb

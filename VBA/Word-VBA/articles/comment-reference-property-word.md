@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Reference Property (Word)
 
-Returns a  **Range** object that represents a reference mark for a comment.
+Returns a **Range** object that represents a reference mark for a comment.
 
 
 ## Syntax

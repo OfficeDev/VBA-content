@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.Description Property (Project)
 
-Gets or sets the description of the individual entry. Read/write  **String**.
+Gets or sets the description of the individual entry. Read/write **String**.
 
 
 ## Syntax

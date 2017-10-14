@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction.Frac Property (Word)
 
-Returns an  **[OMathFrac](omathfrac-object-word.md)** object that represents a fraction. Read-only.
+Returns an **[OMathFrac](omathfrac-object-word.md)** object that represents a fraction. Read-only.
 
 
 ## Syntax

@@ -35,7 +35,7 @@ If the **Layers** collection is in a master rather than in a page, the **Page** 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Page** property to return a **Page** object from various other objects.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Page** property to return a **Page** object from various other objects.
 
 
 ```vb

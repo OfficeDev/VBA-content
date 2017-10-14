@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Repeat Method (Word)
 
-Repeats the most recent editing action one or more times. Returns  **True** if the commands were repeated successfully.
+Repeats the most recent editing action one or more times. Returns **True** if the commands were repeated successfully.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-Using this method is the equivalent to using the  **Repeat** command on the **Edit** menu.
+Using this method is the equivalent to using the **Repeat** command on the **Edit** menu.
 
 
 ## Example

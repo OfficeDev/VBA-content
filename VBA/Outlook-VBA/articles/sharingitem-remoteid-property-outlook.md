@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.RemoteID Property (Outlook)
 
-Returns a  **String** that represents the unique identifier of the sharing context for a **[SharingItem](sharingitem-object-outlook.md)** object. Read-only.
+Returns a **String** that represents the unique identifier of the sharing context for a **[SharingItem](sharingitem-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** that represents the unique identifier of the sharing conte
 
 ## Remarks
 
-This property contains either a GUID or EntryID for the sharing context contained within the  **SharingItem** object.
+This property contains either a GUID or EntryID for the sharing context contained within the **SharingItem** object.
 
-This property is set to an empty string if the  **[Type](sharingitem-type-property-outlook.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest** .
+This property is set to an empty string if the **[Type](sharingitem-type-property-outlook.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest** .
 
 
 ## See also

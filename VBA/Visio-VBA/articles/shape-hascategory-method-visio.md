@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.HasCategory Method (Visio)
 
-Returns  **True** if the specified category is in the shape categories list.
+Returns **True** if the specified category is in the shape categories list.
 
 
 ## Syntax

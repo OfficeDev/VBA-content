@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.BaselineBudgetCost Property (Project)
 
-Gets or sets the baseline budget cost for a  **Resource**. Read/write **Variant**.
+Gets or sets the baseline budget cost for a **Resource**. Read/write **Variant**.
 
 
 ## Syntax

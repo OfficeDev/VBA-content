@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ResourceRequestType Property (Project)
 
-Gets or sets the type of resource request for the assignment. Read/write  **PjResourceRequestType**.
+Gets or sets the type of resource request for the assignment. Read/write **PjResourceRequestType**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the type of resource request for the assignment. Read/write  **PjRe
 
 ## Remarks
 
-The  **ResourceRequestType** property can be one of the following **[PjResourceRequestType](pjresourcerequesttype-enumeration-project.md)** constants: **pjResourceRequestTypeDemand**, **pjResourceRequestTypeNone**, or **pjResourceRequestTypeRequest**.
+The **ResourceRequestType** property can be one of the following **[PjResourceRequestType](pjresourcerequesttype-enumeration-project.md)** constants: **pjResourceRequestTypeDemand**, **pjResourceRequestTypeNone**, or **pjResourceRequestTypeRequest**.
 
 

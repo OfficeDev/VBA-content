@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.VisualReportTemplateList Property (Project)
 
-Gets the  **[ReportTemplates](reporttemplates-object-project.md)** collection that represents report templates that are listed in the **Visual Reports** dialog box. Read/write **ReportTemplates**.
+Gets the **[ReportTemplates](reporttemplates-object-project.md)** collection that represents report templates that are listed in the **Visual Reports** dialog box. Read/write **ReportTemplates**.
 
 
 ## Syntax

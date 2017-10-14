@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.UndoActionsAvailable Property (Publisher)
 
-Returns the number of actions available on the undo stack. Read-only  **Long**.
+Returns the number of actions available on the undo stack. Read-only **Long**.
 
 
 ## Syntax
 
  _expression_. **UndoActionsAvailable**
 
- _expression_A variable that represents an  **Document** object.
+ _expression_A variable that represents an **Document** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Long
 
 ## Example
 
-The following example adds a rectangle that contains a text frame to the fourth page of the active publication. Some font properties and the text of the text frame are set. A test is then run to determine whether the font in the text frame is Courier. If so, the  **[Undo](document-undo-method-publisher.md)** method is used with the value of the **UndoActionsAvailable** property passed as a parameter to specify that all previous actions be undone.
+The following example adds a rectangle that contains a text frame to the fourth page of the active publication. Some font properties and the text of the text frame are set. A test is then run to determine whether the font in the text frame is Courier. If so, the **[Undo](document-undo-method-publisher.md)** method is used with the value of the **UndoActionsAvailable** property passed as a parameter to specify that all previous actions be undone.
 
-The  **[Redo](document-redo-method-publisher.md)** method is then used with the value of the **[RedoActionsAvailable](document-redoactionsavailable-property-publisher.md)** property minus 2 passed as a parameter to redo all actions except for the last two. A new font is specified for the text in the text frame, in addition to new text.
+The **[Redo](document-redo-method-publisher.md)** method is then used with the value of the **[RedoActionsAvailable](document-redoactionsavailable-property-publisher.md)** property minus 2 passed as a parameter to redo all actions except for the last two. A new font is specified for the text in the text frame, in addition to new text.
 
 This example assumes the active document contains at least four pages.
 

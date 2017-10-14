@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Calendar Property (Project)
 
-Gets a  **[Calendar](calendar-object-project.md)** object representing a calendar for the project. Read-only **Calendar**.
+Gets a **[Calendar](calendar-object-project.md)** object representing a calendar for the project. Read-only **Calendar**.
 
 
 ## Syntax

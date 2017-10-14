@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Drop Property (Publisher)
 
-For callouts with an explicitly set drop value, this property returns the vertical distance from the edge of the text bounding box to the place where the callout line attaches to the text box. This distance is measured from the top of the text box unless the  **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (where the callout points). In this case, the drop distance is measured from the bottom of the text box. Read-only **Variant**.
+For callouts with an explicitly set drop value, this property returns the vertical distance from the edge of the text bounding box to the place where the callout line attaches to the text box. This distance is measured from the top of the text box unless the **AutoAttach** property is set to **True** and the text box is to the left of the origin of the callout line (where the callout points). In this case, the drop distance is measured from the bottom of the text box. Read-only **Variant**.
 
 
 ## Syntax
 
  _expression_. **Drop**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Return Value
@@ -32,9 +32,9 @@ Variant
 
 Numeric values are evaluated in points; strings can be in any units supported by Microsoft Publisher (for example, "2.5 in").
 
-Use the  **[CustomDrop](calloutformat-customdrop-method-publisher.md)** method to set the value of this property.
+Use the **[CustomDrop](calloutformat-customdrop-method-publisher.md)** method to set the value of this property.
 
-The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the  **[DropType](calloutformat-droptype-property-publisher.md)** property is  **msoCalloutDropCustom**.
+The value of this property accurately reflects the position of the callout line attachment to the text box only if the callout has an explicitly set drop value — that is, if the value of the **[DropType](calloutformat-droptype-property-publisher.md)** property is **msoCalloutDropCustom**.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Container Property (Project)
 
-Gets the object that contains the embedded project. Read-only  **Object**.
+Gets the object that contains the embedded project. Read-only **Object**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the object that contains the embedded project. Read-only  **Object**.
 
 ## Remarks
 
-Use the  **Container** property to access the properties or methods of the object that contains the project. If the container doesn't support automation or the project is not embedded, the **Container** property fails with run-time error 1004.
+Use the **Container** property to access the properties or methods of the object that contains the project. If the container doesn't support automation or the project is not embedded, the **Container** property fails with run-time error 1004.
 
 

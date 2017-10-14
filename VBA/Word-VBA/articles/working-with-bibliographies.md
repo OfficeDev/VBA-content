@@ -20,7 +20,7 @@ The Word object model includes several objects designed for automating the creat
 |**Object**|**Description**|
 |:-----|:-----|
 | **[Source](source-object-word.md)**|An individual source, such as a book, journal article, or interview.|
-| **[Sources](sources-object-word.md)**|A collection of  **Source** objects.|
+| **[Sources](sources-object-word.md)**|A collection of **Source** objects.|
 | **[Bibliography](bibliography-object-word.md)**|The list of sources cited in the document (the current list) or the list of sources available in the application (in the master list).|
 
 ## Understanding the source XML
@@ -28,11 +28,11 @@ The Word object model includes several objects designed for automating the creat
 Sources are added to the source lists programmatically by using XML strings. Depending on the type of source you want to add, the required XML structure changes. To determine the XML structure for a source type, you can add the same source type manually, and then view the XML returned. The following steps describe how to do this.
 
 
-1. On the  **References** ribbon, click **Manage Sources**.
+1. On the **References** ribbon, click **Manage Sources**.
     
-2. In the  **Source Manager** dialog box, click **New**.
+2. In the **Source Manager** dialog box, click **New**.
     
-3. In the  **Create Source** dialog box, select the type of source to create. For this example, select **Book**.
+3. In the **Create Source** dialog box, select the type of source to create. For this example, select **Book**.
     
 4. Fill out the source fields, as shown in the following table:
     
@@ -45,15 +45,15 @@ Sources are added to the source lists programmatically by using XML strings. Dep
 |City|Chicago|
 |Publisher|Adventure Works Press|
 |Tag name|And01|
-5. You can view and add information to additional fields by checking  **Show All Bibliography Fields**.
+5. You can view and add information to additional fields by checking **Show All Bibliography Fields**.
     
-6. Click  **OK**.
+6. Click **OK**.
     
-7. Close the  **Source Manager** dialog box.
+7. Close the **Source Manager** dialog box.
     
 8. Start the Visual Basic Editor (Alt+F11).
     
-9. Display the  **Immediate Window** (Ctrl+G).
+9. Display the **Immediate Window** (Ctrl+G).
     
 10. Paste and run the following code. `Sub GetBibliographyXML() Dim strXml As String Dim objSource As Source Set objSource = Application.Bibliography.Sources( _ Application.Bibliography.Sources.Count) Debug.Print objSource.XML End Sub`
     
@@ -89,7 +89,7 @@ The Guid and LCID elements are optional, but you can provide values for them if 
 
 The LCID specifies the language for the source. (See MSDN for valid language identification values.) Word uses the LCID to know how to display a cited source in a document's bibliography. For example, one source may be written in French, one in English, and one in Japanese. From the LCID, Word determines how to display names (for example, Last, First for English), what punctuation to use (for example, using comma in one language and a semicolon in another), and what strings to use (for example, whether to use "et al" or another localized form).
 
-After removing optional elements, you may have a structure similar to the following XML structure. (You can determine which elements are required because they do not have a corresponding editable field in the  **Create Source** dialog box. Omitting one or more required element raises a run-time error.)
+After removing optional elements, you may have a structure similar to the following XML structure. (You can determine which elements are required because they do not have a corresponding editable field in the **Create Source** dialog box. Omitting one or more required element raises a run-time error.)
 
 
 
@@ -115,7 +115,7 @@ After removing optional elements, you may have a structure similar to the follow
 </b:Source>
 ```
 
-Now that you have the basic structure of the source XML for a book, you can add additional book sources to the master source list and the current source list. You can locate additional elements by checking the  **Show All Bibliography Fields** check box.
+Now that you have the basic structure of the source XML for a book, you can add additional book sources to the master source list and the current source list. You can locate additional elements by checking the **Show All Bibliography Fields** check box.
 
 
  **Note**  Alternatively, you can obtain the XML from the bibliography source file named "sources.xml" located at  `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography`. This file stores the master source list for a user.
@@ -123,7 +123,7 @@ Now that you have the basic structure of the source XML for a book, you can add 
 
 ## Adding sources to the master source list and the current source list
 
-Adding sources to the master source list is similar to adding sources to the current source list, with the exception that you access the  **Sources** collection from different main objects. To add a source to the master source list, you access the **Sources** collection from the **[Bibliography](bibliography-object-word.md)** property of the **[Application](application-object-word.md)** object. To add a source to the current source list, access the **Sources** collection from the **Bibliography** property of the **[Document](document-object-word.md)** object.
+Adding sources to the master source list is similar to adding sources to the current source list, with the exception that you access the **Sources** collection from different main objects. To add a source to the master source list, you access the **Sources** collection from the **[Bibliography](bibliography-object-word.md)** property of the **[Application](application-object-word.md)** object. To add a source to the current source list, access the **Sources** collection from the **Bibliography** property of the **[Document](document-object-word.md)** object.
 
 The following example uses the basic structure determined previously to add another book source to the master source list.
 
@@ -152,7 +152,7 @@ End Sub
 
 You can change the line  `Application.Bibliography.Sources.Add strXml` to `ActiveDocument.Bibliography.Sources.Add strXml`
 
-Inserting a source programmatically into the master source list does not automatically add it to the current source list. However, to add a citation to a document, the source must be listed in the current source list. You can manually copy one or more sources from the master list to the current list by using the  **Source Manager** dialog box, or you can programmatically copy one or more sources from the master list to the current list. The following example copies all sources in the master source to the current source. After the sources are added to your current list, you can insert citations for those sources into a document.
+Inserting a source programmatically into the master source list does not automatically add it to the current source list. However, to add a citation to a document, the source must be listed in the current source list. You can manually copy one or more sources from the master list to the current list by using the **Source Manager** dialog box, or you can programmatically copy one or more sources from the master list to the current list. The following example copies all sources in the master source to the current source. After the sources are added to your current list, you can insert citations for those sources into a document.
 
 
 
@@ -172,15 +172,15 @@ End Sub
 ```
 
 
- **Note**  The value of the  **Tag** property must be unique across sources in the current list. Thus the `On Error Resume Next` line is needed to allow the code to skip over any sources in the master list that have conflicting tag values in the current list. You can modify this code to capture instances when Word cannot copy a source from the master list to the current list.
+ **Note**  The value of the **Tag** property must be unique across sources in the current list. Thus the `On Error Resume Next` line is needed to allow the code to skip over any sources in the master list that have conflicting tag values in the current list. You can modify this code to capture instances when Word cannot copy a source from the master list to the current list.
 
 
 ## Sharing your source list
 
-There may be times when you want to share a source list with others in an organization. When you add sources to the master list, Word adds them to a file names "sources.xml" located at  `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\sources.xml`. You can share this file with others by giving them the file, which users can then load manually from the  **Source Manager** dialog box or programmatically through code.
+There may be times when you want to share a source list with others in an organization. When you add sources to the master list, Word adds them to a file names "sources.xml" located at  `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\sources.xml`. You can share this file with others by giving them the file, which users can then load manually from the **Source Manager** dialog box or programmatically through code.
 
 
- **Note**  When a user loads a source file, this is a one-time-only occurence and does not change either the existing master list or their current list. They can manually add the items in the shared source file to the current list by using the  **Source Manager** dialog box.
+ **Note**  When a user loads a source file, this is a one-time-only occurence and does not change either the existing master list or their current list. They can manually add the items in the shared source file to the current list by using the **Source Manager** dialog box.
 
 You can programmatically load a shared source. The following example shows how to load a shared source file that is located on a share on a local computer.
 
@@ -199,7 +199,7 @@ End Sub
 
 ## Sorting the master source list
 
-You can set the sort order in the  **Source Manager** dialog box by using the **[BibliographySort](options-bibliographysort-property-word.md)** property. The **BibliographySort** property can be a **String** value of "Author", "Tag", "Title", or "Year". This object does not alter the sorting of sources in the document's bibliography. The following example sorts the sources by title.
+You can set the sort order in the **Source Manager** dialog box by using the **[BibliographySort](options-bibliographysort-property-word.md)** property. The **BibliographySort** property can be a **String** value of "Author", "Tag", "Title", or "Year". This object does not alter the sorting of sources in the document's bibliography. The following example sorts the sources by title.
 
 
 ```vb
@@ -211,7 +211,7 @@ End Sub
 
 ## Inserting citations
 
-You can insert a bibliography citation by using the Add method for the Fields collection. The following example inserts a citation at the cursor for the source that you added previously. The text for the field equals the tag value, or the value of the Tag element, which in this case is "Mor01". (See the XML code in the AddBibSource subroutine shown previously for the XML string "<b:Tag>Mor01</b:Tag>".) The value of the Tag element also corresponds to the  **[Tag](source-tag-property-word.md)** property for a **Source** object.
+You can insert a bibliography citation by using the Add method for the Fields collection. The following example inserts a citation at the cursor for the source that you added previously. The text for the field equals the tag value, or the value of the Tag element, which in this case is "Mor01". (See the XML code in the AddBibSource subroutine shown previously for the XML string "<b:Tag>Mor01</b:Tag>".) The value of the Tag element also corresponds to the **[Tag](source-tag-property-word.md)** property for a **Source** object.
 
 
 ```vb
@@ -224,7 +224,7 @@ End Sub
 
 ## Applying a bibliography style
 
-After you insert a bibliography into a document, you can set the bibliography style. Word formats several different styles of bibliographies. You can set the bibliography style by using the  **[BibliographyStyle](bibliography-bibliographystyle-property-word.md)** property. This property can be one of the following **String** values:
+After you insert a bibliography into a document, you can set the bibliography style. Word formats several different styles of bibliographies. You can set the bibliography style by using the **[BibliographyStyle](bibliography-bibliographystyle-property-word.md)** property. This property can be one of the following **String** values:
 
 
 - APA
@@ -267,7 +267,7 @@ End Sub
 
 ## Inserting a bibliography
 
-As with citations, bibliographies use fields. To insert a bibliography, you need to insert a field with a  **wdFieldBibliography** constant specified for the field type. The following code inserts a bibliography into the active document at the cursor. This example assumes that the cursor is located at the end of the document or on a new page.
+As with citations, bibliographies use fields. To insert a bibliography, you need to insert a field with a **wdFieldBibliography** constant specified for the field type. The following code inserts a bibliography into the active document at the cursor. This example assumes that the cursor is located at the end of the document or on a new page.
 
 
 ```vb

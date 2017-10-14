@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToolbarItem.Index Property (Visio)
 
-Gets the ordinal position of a  **ToolbarItem** object in the **ToolbarItems** collection. Read-only.
+Gets the ordinal position of a **ToolbarItem** object in the **ToolbarItems** collection. Read-only.
 
 
 ## Syntax
@@ -33,6 +33,6 @@ Long
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-These collections are indexed starting with 0:  **AccelItems** , **AccelTables** , **MenuSets** , **MenuItems** , **Menus** , **ToolbarItems** , **Toolbars** , and **ToolbarSets** .
+These collections are indexed starting with 0: **AccelItems** , **AccelTables** , **MenuSets** , **MenuItems** , **Menus** , **ToolbarItems** , **Toolbars** , and **ToolbarSets** .
 
 

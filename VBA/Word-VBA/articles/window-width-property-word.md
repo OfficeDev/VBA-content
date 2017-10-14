@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Width Property (Word)
 
-Returns or sets the width of the specified document window, in points. Read/write  **Long** .
+Returns or sets the width of the specified document window, in points. Read/write **Long** .
 
 
 ## Syntax

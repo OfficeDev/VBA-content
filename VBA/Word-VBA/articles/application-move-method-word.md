@@ -34,7 +34,7 @@ Positions a task window or the active document window.
 
 ## Example
 
-This example starts the Calculator application (Calc.exe) and uses the  **Move** method to reposition the application window.
+This example starts the Calculator application (Calc.exe) and uses the **Move** method to reposition the application window.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathDelim.Shape Property (Word)
 
-Returns or sets a  **[WdOMathShapeType](wdomathshapetype-enumeration-word.md)** constant that represents the appearance of delimiters (for example, parentheses, braces, and brackets) in relationship to the content that they surround. Read/write.
+Returns or sets a **[WdOMathShapeType](wdomathshapetype-enumeration-word.md)** constant that represents the appearance of delimiters (for example, parentheses, braces, and brackets) in relationship to the content that they surround. Read/write.
 
 
 ## Syntax

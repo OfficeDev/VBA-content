@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dialog.CommandBarId Property (Word)
 
-Returns a  **Long** that represents the toolbar control id for a built-in Microsoft Word dialog box. Read-only.
+Returns a **Long** that represents the toolbar control id for a built-in Microsoft Word dialog box. Read-only.
 
 
 ## Syntax

@@ -20,12 +20,12 @@ Resets tippages so that a user can view them when using features that have been 
 
  _expression_. **ResetTips**
 
- _expression_A variable that represents an  **Options** object.
+ _expression_A variable that represents an **Options** object.
 
 
 ## Remarks
 
-The  **ResetTips** method is equivalent to clicking **Reset Tips** on the **User Assistance** tab of the **Options** dialog box ( **Tools** menu).
+The **ResetTips** method is equivalent to clicking **Reset Tips** on the **User Assistance** tab of the **Options** dialog box ( **Tools** menu).
 
 
 ## Example

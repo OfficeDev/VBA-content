@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the ManualDuplexPrint argument of the  **[PrintOut](application-printout-method-word.md)** method is **False** , this property is ignored.
+If the ManualDuplexPrint argument of the **[PrintOut](application-printout-method-word.md)** method is **False** , this property is ignored.
 
 
 ## Example

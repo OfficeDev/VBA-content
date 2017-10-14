@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.FieldID Property (Project)
 
-Gets the identification number of the task or resource field in the active cell. Read-only  **Long**.
+Gets the identification number of the task or resource field in the active cell. Read-only **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets the identification number of the task or resource field in the active cell.
 
 ## Remarks
 
-If the active cell contains a task, can be one of the following  **[PjField](pjfield-enumeration-project.md)** constants:
+If the active cell contains a task, can be one of the following **[PjField](pjfield-enumeration-project.md)** constants:
 
 
 |||
@@ -114,7 +114,7 @@ If the active cell contains a task, can be one of the following  **[PjField](pjf
 |**pjTaskHyperlinkAddress**|**pjTaskWorkContour**|
 |**pjTaskHyperlinkHref**|**pjTaskWorkVariance**|
 |**pjTaskHyperlinkScreenTip**||
-If the active cell contains a resource, can be one of the following  **PjField** constants:
+If the active cell contains a resource, can be one of the following **PjField** constants:
 
 
 |||

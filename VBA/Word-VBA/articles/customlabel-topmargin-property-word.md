@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLabel.TopMargin Property (Word)
 
-Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write **Single** .
 
 
 ## Syntax

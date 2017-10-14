@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **EmailAsImg**
 
- _expression_A variable that represents an  **WebOptions** object.
+ _expression_A variable that represents an **WebOptions** object.
 
 
 ### Return Value
@@ -34,9 +34,9 @@ This property can increase your message's compatibility with older e-mail client
 
 This property is accessible for print publications in addition to Web publications.
 
-The properties of the  **[WebOptions](weboptions-object-publisher.md)** object are used to specify the behavior of Web publications. This means that when any of these properties are modified, newly created Web publications will inherit the modified properties.
+The properties of the **[WebOptions](weboptions-object-publisher.md)** object are used to specify the behavior of Web publications. This means that when any of these properties are modified, newly created Web publications will inherit the modified properties.
 
-This property corresponds to the check box in the  **E-Mail Options** section of the **Web** tab of the **Options** dialog box.
+This property corresponds to the check box in the **E-Mail Options** section of the **Web** tab of the **Options** dialog box.
 
 
 ## Example

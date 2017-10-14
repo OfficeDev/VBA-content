@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.FinishVariance Property (Project)
 
-Gets the variance (in minutes) between the baseline finish date and the finish date of an  **Assignment**. Read-only **Variant**.
+Gets the variance (in minutes) between the baseline finish date and the finish date of an **Assignment**. Read-only **Variant**.
 
 
 ## Syntax

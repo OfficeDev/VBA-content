@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.Creator Property (Outlook)
 
-Returns and sets the solution that created the  **[StorageItem](storageitem-object-outlook.md)** object. Read/write.
+Returns and sets the solution that created the **[StorageItem](storageitem-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns and sets the solution that created the  **[StorageItem](storageitem-obje
 
 ## Remarks
 
-Outlook does not set the  **Creator** property. Use the **Creator** property to identify the **StorageItem** objects you have created for your add-in. One recomended value for this property is the programmatic identifier (ProgID) of the add-in.
+Outlook does not set the **Creator** property. Use the **Creator** property to identify the **StorageItem** objects you have created for your add-in. One recomended value for this property is the programmatic identifier (ProgID) of the add-in.
 
 
 ## See also

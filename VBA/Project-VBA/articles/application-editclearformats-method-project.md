@@ -30,6 +30,6 @@ Clears the format of the active cells.
 
 ## Remarks
 
-The  **EditClearFormats** method has the same effect as the **Formats** command on the **Clear** submenu, which is found on the **Edit** menu.
+The **EditClearFormats** method has the same effect as the **Formats** command on the **Clear** submenu, which is found on the **Edit** menu.
 
 

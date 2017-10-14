@@ -38,7 +38,7 @@ nothing
 
 ## Remarks
 
-The  **Deactivate** event does not occur when you close a project or when you switch between two windows showing the same project.
+The **Deactivate** event does not occur when you close a project or when you switch between two windows showing the same project.
 
 Project events do not occur when the project is embedded in another document or application. 
 

@@ -25,7 +25,7 @@ Inserts columns to the left of the column that contains the selection.
 
 ## Remarks
 
-The number of columns inserted is equal to the number of columns selected. You can also insert columns by using the  **[Add](columns-add-method-word.md)** method of the **Columns** object.
+The number of columns inserted is equal to the number of columns selected. You can also insert columns by using the **[Add](columns-add-method-word.md)** method of the **Columns** object.
 
 If the selection isn't in a table, an error occurs.
 

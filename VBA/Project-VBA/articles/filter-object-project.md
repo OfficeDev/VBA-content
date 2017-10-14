@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Represents a filter in Project. The  **Filter** object is a member of the **[Filters](http://msdn.microsoft.com/library/13b58540-decc-17c5-6de6-bbb8e05eb6d2%28Office.15%29.aspx)** collection.
+Represents a filter in Project. The **Filter** object is a member of the **[Filters](http://msdn.microsoft.com/library/13b58540-decc-17c5-6de6-bbb8e05eb6d2%28Office.15%29.aspx)** collection.
  **Using the Filter Object**
 The following example applies a critical task filter to the active project.
  `ActiveProject.TaskFilters("Critical").Apply`

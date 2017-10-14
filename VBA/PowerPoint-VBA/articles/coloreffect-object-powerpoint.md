@@ -18,7 +18,7 @@ Represents a color effect for an animation behavior.
 
 ## Example
 
-Use the [ColorEffect](animationbehavior-coloreffect-property-powerpoint.md)property of the  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object to return a **ColorEffect** object. Color effects can be changed using the **ColorEffect** object's[From](coloreffect-from-property-powerpoint.md)and [To](coloreffect-to-property-powerpoint.md)properties, as shown below. Color effects are initially set using the  **To** property, and then can be changed by a specific number using the[By](coloreffect-by-property-powerpoint.md)property. The following example adds a shape to the first slide of the active presentation and sets a color effect animation behavior to change the fill color of the new shape.
+Use the [ColorEffect](animationbehavior-coloreffect-property-powerpoint.md)property of the **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object to return a **ColorEffect** object. Color effects can be changed using the **ColorEffect** object's[From](coloreffect-from-property-powerpoint.md)and [To](coloreffect-to-property-powerpoint.md)properties, as shown below. Color effects are initially set using the **To** property, and then can be changed by a specific number using the[By](coloreffect-by-property-powerpoint.md)property. The following example adds a shape to the first slide of the active presentation and sets a color effect animation behavior to change the fill color of the new shape.
 
 
 ```vb

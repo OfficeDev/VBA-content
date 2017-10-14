@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecurrencePattern.PatternStartDate Property (Outlook)
 
-Returns or sets a  **Date** indicating the start date for the recurrence pattern. Read/write.
+Returns or sets a **Date** indicating the start date for the recurrence pattern. Read/write.
 
 
 ## Syntax

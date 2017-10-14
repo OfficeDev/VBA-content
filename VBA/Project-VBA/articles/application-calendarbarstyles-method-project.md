@@ -38,6 +38,6 @@ Turns bar rounding on or off in the Calendar.
 
 ## Remarks
 
-The default start and default end times can be set with the  **OptionsCalendar** method.
+The default start and default end times can be set with the **OptionsCalendar** method.
 
 

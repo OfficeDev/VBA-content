@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.CheckBox Property (Word)
 
-Returns a  **[CheckBox](checkbox-object-word.md)** object that represents a check box form field. Read-only.
+Returns a **[CheckBox](checkbox-object-word.md)** object that represents a check box form field. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[CheckBox](checkbox-object-word.md)** object that represents a chec
 
 ## Remarks
 
-If the  **CheckBox** property is applied to a **FormField** object that isn't a check box form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
+If the **CheckBox** property is applied to a **FormField** object that isn't a check box form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
 
 
 ## Example

@@ -30,6 +30,6 @@ Removes the shape from all lists and containers of which it is a member.
 
 ## Remarks
 
-When you call the  **RemoveFromContainers** method, Microsoft Visio uses the **[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property setting for each container to determine how to resize the container.
+When you call the **RemoveFromContainers** method, Microsoft Visio uses the **[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property setting for each container to determine how to resize the container.
 
 

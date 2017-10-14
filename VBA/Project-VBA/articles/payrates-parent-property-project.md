@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PayRates.Parent Property (Project)
 
-Gets the parent of the  **PayRates** object. Read-only **Resource**.
+Gets the parent of the **PayRates** object. Read-only **Resource**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the parent of the  **PayRates** object. Read-only **Resource**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

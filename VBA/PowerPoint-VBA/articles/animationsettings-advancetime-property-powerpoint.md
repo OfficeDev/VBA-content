@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-The specified slide animation won't start automatically after the amount of time you've specified unless the  **[AdvanceMode](slideshowsettings-advancemode-property-powerpoint.md)** property of the animation is set to **ppAdvanceOnTime**.
+The specified slide animation won't start automatically after the amount of time you've specified unless the **[AdvanceMode](slideshowsettings-advancemode-property-powerpoint.md)** property of the animation is set to **ppAdvanceOnTime**.
 
 
 ## Example

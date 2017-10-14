@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Duplicate Property (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents a duplicate of the specified text range.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents a duplicate of the specified text range.
 
 
 ## Syntax
 
  _expression_. **Duplicate**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

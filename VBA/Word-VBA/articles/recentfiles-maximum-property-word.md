@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecentFiles.Maximum Property (Word)
 
-Returns or sets the maximum number of recently used files that can appear on the  **File** menu. Can be a number from 0 (zero) through 9. Read/write **Long** .
+Returns or sets the maximum number of recently used files that can appear on the **File** menu. Can be a number from 0 (zero) through 9. Read/write **Long** .
 
 
 ## Syntax

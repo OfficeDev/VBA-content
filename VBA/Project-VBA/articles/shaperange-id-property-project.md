@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.ID Property (Project)
-Gets the identification type for the shape range. Read-only  **Long**.
+Gets the identification type for the shape range. Read-only **Long**.
 
 ## Syntax
 

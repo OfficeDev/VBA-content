@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Paragraph** object.
+Returns an **Object** that represents the parent object of the specified **Paragraph** object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ConvertNumbersToText Method (Word)
 
-Changes the list numbers and LISTNUM fields in the specified  **ListFormat** object to text.
+Changes the list numbers and LISTNUM fields in the specified **ListFormat** object to text.
 
 
 ## Syntax

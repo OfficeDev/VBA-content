@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.WordOpenXML Property (Word)
 
-Returns a  **String** that represents the XML for the node in the Microsoft Word Open XML format. Read-only.
+Returns a **String** that represents the XML for the node in the Microsoft Word Open XML format. Read-only.
 
 
 ## Syntax

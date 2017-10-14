@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.LoadWebPage Event (Project)
 
-Occurs after the  **LoadWebBrowserControl** method is called. The method loads the Web browser control inside Project, and then the event is fired.
+Occurs after the **LoadWebBrowserControl** method is called. The method loads the Web browser control inside Project, and then the event is fired.
 
 
 ## Syntax

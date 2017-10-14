@@ -30,7 +30,7 @@ Sets the specified fill to a preset gradient.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**MsoGradientStyle**|The gradient style.|
-| _Variant_|Required|**Integer**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** subtab on the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+| _Variant_|Required|**Integer**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** subtab on the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 | _PresetGradientType_|Required|**MsoPresetGradientType**|The gradient type.|
 
 ## Remarks

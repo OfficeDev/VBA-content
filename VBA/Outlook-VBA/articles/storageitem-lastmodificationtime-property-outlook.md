@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.LastModificationTime Property (Outlook)
 
-Returns a  **DateTime** value specifying the date and time that the Outlook item was last modified. Read-only.
+Returns a **DateTime** value specifying the date and time that the Outlook item was last modified. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **DateTime** value specifying the date and time that the Outlook item
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property **PidTagLastModificationTime** .
 
 
 ## See also

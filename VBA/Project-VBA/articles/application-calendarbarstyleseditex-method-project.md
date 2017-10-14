@@ -29,11 +29,11 @@ Changes the style of the specified type of bar in the Calendar view, where  _Col
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Long**|The type of calendar bar style to edit. Can be one of the following  **[PjBarItem](pjbaritem-enumeration-project.md)** constants: **pjBarNonCritical**, **pjBarCritical**, **pjBarSummary**, **pjBarMilestone**, **pjBarMarked**, **pjBarHighlighted**, **pjBarProjectSummary**, or **pjBarExternalTask**.|
-| _Bar_|Optional|**Long**|The bar type. Can be one of the following  **[PjCalendarBarType](pjcalendarbartype-enumeration-project.md)** constants: **pjNormalBar**, **pjLineBar**, or **pjNoBar**.|
-| _Pattern_|Optional|**Long**|The bar pattern. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _Item_|Required|**Long**|The type of calendar bar style to edit. Can be one of the following **[PjBarItem](pjbaritem-enumeration-project.md)** constants: **pjBarNonCritical**, **pjBarCritical**, **pjBarSummary**, **pjBarMilestone**, **pjBarMarked**, **pjBarHighlighted**, **pjBarProjectSummary**, or **pjBarExternalTask**.|
+| _Bar_|Optional|**Long**|The bar type. Can be one of the following **[PjCalendarBarType](pjcalendarbartype-enumeration-project.md)** constants: **pjNormalBar**, **pjLineBar**, or **pjNoBar**.|
+| _Pattern_|Optional|**Long**|The bar pattern. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 | _Color_|Optional|**Long**|The bar color. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
-| _Align_|Optional|**Long**|The justification of text in the bar. Can be one of the following  **[PjAlignment](pjalignment-enumeration-project.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
+| _Align_|Optional|**Long**|The justification of text in the bar. Can be one of the following **[PjAlignment](pjalignment-enumeration-project.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
 | _Wrap_|Optional|**Boolean**|**True** if Project wraps text in the bar; otherwise, **False**.|
 | _Shadow_|Optional|**Boolean**|**True** if the bar has a shadow; otherwise, **False**.|
 | _Field1_|Optional|**String**|The first field to display in the bar.|
@@ -41,7 +41,7 @@ Changes the style of the specified type of bar in the Calendar view, where  _Col
 | _Field3_|Optional|**String**|The third field to display in the bar.|
 | _Field4_|Optional|**String**|The fourth field to display in the bar.|
 | _Field5_|Optional|**String**|The fifth field to display in the bar.|
-| _SplitPattern_|Optional|**Long**|The line pattern used to display split tasks. Can be one of the following  **[PjLineType](pjlinetype-enumeration-project.md)** constants: **pjNoLines**, **pjDash**, **pjCloseDot**, **pjContinuous**, or **pjDot**.|
+| _SplitPattern_|Optional|**Long**|The line pattern used to display split tasks. Can be one of the following **[PjLineType](pjlinetype-enumeration-project.md)** constants: **pjNoLines**, **pjDash**, **pjCloseDot**, **pjContinuous**, or **pjDot**.|
 
 ### Return Value
 
@@ -75,6 +75,6 @@ End Sub
 ```
 
 
- **Note**  If you use any of the  **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarBarStylesEditEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarBarStylesEdit](application-calendarbarstylesedit-method-project.md)** method.
+ **Note**  If you use any of the **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarBarStylesEditEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarBarStylesEdit](application-calendarbarstylesedit-method-project.md)** method.
 
 

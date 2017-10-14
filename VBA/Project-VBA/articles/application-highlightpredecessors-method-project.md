@@ -36,12 +36,12 @@ Sets or clears task predecessor highlighting for the task path feature.
 
 ## Remarks
 
-The  **HighlightPredecessors** method corresponds to the ** Predecessors** item in the **Task Path** drop-down list, on the **FORMAT** tab, under **GANTT CHART TOOLS** on the ribbon.
+The **HighlightPredecessors** method corresponds to the ** Predecessors** item in the **Task Path** drop-down list, on the **FORMAT** tab, under **GANTT CHART TOOLS** on the ribbon.
 
 
 ## Example
 
-Create a project where task 2 is a predecessor of task 3, and then run the following statements in the  **Immediate** window of the VBE. The **PathPredecessor** statement prints **True**.
+Create a project where task 2 is a predecessor of task 3, and then run the following statements in the **Immediate** window of the VBE. The **PathPredecessor** statement prints **True**.
 
 
 ```vb

@@ -26,7 +26,7 @@ Returns the value of the specified resource custom field.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**Long**|For a local custom field, can be one of the  **[PjField](pjfield-enumeration-project.md)** constants for resource custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method to get the FieldID.|
+| _FieldID_|Required|**Long**|For a local custom field, can be one of the **[PjField](pjfield-enumeration-project.md)** constants for resource custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method to get the FieldID.|
 
 ### Return Value
 
@@ -61,6 +61,6 @@ Sub DisplayField()
 End Sub
 ```
 
-For an example that uses an enterprise resource custom field, see the  **[SetField](resource-setfield-method-project.md)** method.
+For an example that uses an enterprise resource custom field, see the **[SetField](resource-setfield-method-project.md)** method.
 
 

@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # ThemeVariant.Parent Property (PowerPoint)
 
-Returns the parent for the specified object. Read-only  **Object**.
+Returns the parent for the specified object. Read-only **Object**.
 
 
 ## Syntax

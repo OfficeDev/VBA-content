@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Application.GlobalReports Property (Project)
-Gets the collection of global (built-in) reports. Read-only  **Reports**.
+Gets the collection of global (built-in) reports. Read-only **Reports**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the collection of global (built-in) reports. Read-only  **Reports**.
 
 ## Example
 
-The following example prints a list of built-in reports in the  **Immediate** window of the VBE.
+The following example prints a list of built-in reports in the **Immediate** window of the VBE.
 
 
 ```vb

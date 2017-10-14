@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddTextbox Method (Project)
-Adds a text box to the report, and returns a  **Shape** object that represents the new text box.
+Adds a text box to the report, and returns a **Shape** object that represents the new text box.
 
 ## Syntax
 
@@ -41,7 +41,7 @@ Adds a text box to the report, and returns a  **Shape** object that represents t
 
 ## Example
 
-The following example adds a text box with a light yellow background and a visible border. The text string is formatted and manipulated by using members of the  **TextFrame2** object.
+The following example adds a text box with a light yellow background and a visible border. The text string is formatted and manipulated by using members of the **TextFrame2** object.
 
 
 ```vb

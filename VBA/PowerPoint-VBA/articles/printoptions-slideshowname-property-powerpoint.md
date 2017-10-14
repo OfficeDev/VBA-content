@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-To print a custom slide show, you must first set the  **[RangeType](printoptions-rangetype-property-powerpoint.md)** property to **ppPrintNamedSlideShow**.
+To print a custom slide show, you must first set the **[RangeType](printoptions-rangetype-property-powerpoint.md)** property to **ppPrintNamedSlideShow**.
 
 
 ## Example

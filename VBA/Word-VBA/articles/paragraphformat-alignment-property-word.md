@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.Alignment Property (Word)
 
-Returns or sets a  **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
+Returns or sets a **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
 
 
 ## Syntax

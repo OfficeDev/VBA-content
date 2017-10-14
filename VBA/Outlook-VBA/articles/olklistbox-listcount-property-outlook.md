@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkListBox.ListCount Property (Outlook)
 
-Returns a  **Long** that specifies the number of elements in the drop-down list of the list box control. Read-only.
+Returns a **Long** that specifies the number of elements in the drop-down list of the list box control. Read-only.
 
 
 ## Syntax

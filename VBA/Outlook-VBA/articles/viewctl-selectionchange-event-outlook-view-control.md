@@ -15,14 +15,14 @@ Occurs when the selection of the current view changes.
 
  _expression_. **SelectionChange**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks
 
 Other selection changes (such as the selected folder) do not cause this event to occur. 
 
-This event does not occur if the current folder is a file system folder or if  **Outlook Today** or any folder with a current Web view is displayed.
+This event does not occur if the current folder is a file system folder or if **Outlook Today** or any folder with a current Web view is displayed.
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 

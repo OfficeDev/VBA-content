@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UseOMIDs Property (Project)
 
-Gets or sets the corresponding  **Use internal IDs** option on the **Advanced** tab of the **Project Options** dialog box. Read/write **Boolean**.
+Gets or sets the corresponding **Use internal IDs** option on the **Advanced** tab of the **Project Options** dialog box. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the corresponding  **Use internal IDs** option on the **Advanced** 
 
 ## Remarks
 
-Object Matching Identifier (OMID) fields are added to objects that can be shared across multilanguage versions. OMIDs are supported for  **Calendar**, **Filter**, **Group**, **Table**, and **View** objects. OMIDs are not supported for **Form** and **Report** objects. Project uses OMIDs to match similar elements in a multilanguage installation and avoid multiple language elements in the UI.
+Object Matching Identifier (OMID) fields are added to objects that can be shared across multilanguage versions. OMIDs are supported for **Calendar**, **Filter**, **Group**, **Table**, and **View** objects. OMIDs are not supported for **Form** and **Report** objects. Project uses OMIDs to match similar elements in a multilanguage installation and avoid multiple language elements in the UI.
 
 

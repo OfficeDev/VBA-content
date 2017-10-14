@@ -30,19 +30,19 @@ Long
 
 ## Remarks
 
-The  **ReviewerID** property is valid only for markup overlays. To determine if a page is a markup overlay, check to see whether **Page.Type** = **visTypeMarkup** (3). If you attempt to get the **ReviewerID** value for foreground pages and for background pages that are not markup overlays, Microsoft Visio returns an error.
+The **ReviewerID** property is valid only for markup overlays. To determine if a page is a markup overlay, check to see whether **Page.Type** = **visTypeMarkup** (3). If you attempt to get the **ReviewerID** value for foreground pages and for background pages that are not markup overlays, Microsoft Visio returns an error.
 
-The reviewer ID returned by the  **ReviewerID** property corresponds to one of the rows in the Reviewer section of the document's ShapeSheet. The ShapeSheet cell that contains the reviewer ID is hidden in the document ShapeSheet user interface, but you can determine the user name and initials associated with each reviewer ID by using the **Document.DocumentSheet.CellsSRC** property of the page. See the example that follows.
-
-
+The reviewer ID returned by the **ReviewerID** property corresponds to one of the rows in the Reviewer section of the document's ShapeSheet. The ShapeSheet cell that contains the reviewer ID is hidden in the document ShapeSheet user interface, but you can determine the user name and initials associated with each reviewer ID by using the **Document.DocumentSheet.CellsSRC** property of the page. See the example that follows.
 
 
- **Note**  To view a document's ShapeSheet, on the  **Developer** tab, select **Drawing Explorer**, right-click the document's name, and then click  **Show ShapeSheet**.
+
+
+ **Note**  To view a document's ShapeSheet, on the **Developer** tab, select **Drawing Explorer**, right-click the document's name, and then click **Show ShapeSheet**.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro uses the  **ReviewerID** property to get the ID of the reviewer associated with a markup overlay and then prints the reviewer's name in the Immediate window. It first determines if the active page is a markup overlay, and if so, gets the reviewer ID. Before running this macro, make sure there is an active drawing page in the Visio drawing window.
+This Microsoft Visual Basic for Applications (VBA) macro uses the **ReviewerID** property to get the ID of the reviewer associated with a markup overlay and then prints the reviewer's name in the Immediate window. It first determines if the active page is a markup overlay, and if so, gets the reviewer ID. Before running this macro, make sure there is an active drawing page in the Visio drawing window.
 
 
 ```vb

@@ -38,7 +38,7 @@ Adds shared meeting notes for the specified broadcast that are accessible to att
 
 ## Remarks
 
-If you fail to pass a string for either of the two parameters, the  **AddMeetingNotes** method returns an Invalid Parameter error. If for any reason the method call fails, Word returns a generic broadcast error.
+If you fail to pass a string for either of the two parameters, the **AddMeetingNotes** method returns an Invalid Parameter error. If for any reason the method call fails, Word returns a generic broadcast error.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationIssue.TargetPage Property (Visio)
 
-Returns the  **[Page](page-object-visio.md)** object that is associated with the validation issue. Read-only.
+Returns the **[Page](page-object-visio.md)** object that is associated with the validation issue. Read-only.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Returns the  **[Page](page-object-visio.md)** object that is associated with the
 
 ## Remarks
 
-If the issue is not associated with a specific page, the  **TargetPage** property returns **Nothing** .
+If the issue is not associated with a specific page, the **TargetPage** property returns **Nothing** .
 
-If the target page is not valid (for example, if it has been deleted), the  **TargetPage** property returns an error.
+If the target page is not valid (for example, if it has been deleted), the **TargetPage** property returns an error.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.BackColor Property (Word)
 
-Returns or sets a  **[ColorFormat](colorformat-object-word.md)** object that represents the background color for the fill Read/write.
+Returns or sets a **[ColorFormat](colorformat-object-word.md)** object that represents the background color for the fill Read/write.
 
 
 ## Syntax

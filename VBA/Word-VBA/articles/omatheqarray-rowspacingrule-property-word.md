@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathEqArray.RowSpacingRule Property (Word)
 
-Returns or sets a  **[WdOMathSpacingRule](wdomathspacingrule-enumeration-word.md)** that represents the rule that defines spacing in an equation array. Read/write.
+Returns or sets a **[WdOMathSpacingRule](wdomathspacingrule-enumeration-word.md)** that represents the rule that defines spacing in an equation array. Read/write.
 
 
 ## Syntax

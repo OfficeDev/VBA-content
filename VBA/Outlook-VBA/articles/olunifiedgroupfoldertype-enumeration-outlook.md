@@ -11,7 +11,7 @@ ms.prod: outlook
 
 # OlUnifiedGroupFolderType Enumeration (Outlook)
 
-Specifies the folder to be obtained for unified groups. Because groups have both a mail and a calendar folder, you can specify either the  **olGroupMailFolder** or **olGroupCalendarFolder** .
+Specifies the folder to be obtained for unified groups. Because groups have both a mail and a calendar folder, you can specify either the **olGroupMailFolder** or **olGroupCalendarFolder** .
 
 
 ## Members

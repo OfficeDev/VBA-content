@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PayRate.CostPerUse Property (Project)
 
-Gets or sets the cost per use for the pay rate. Read/write  **Variant**.
+Gets or sets the cost per use for the pay rate. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the cost per use for the pay rate. Read/write  **Variant**.
 
 ## Remarks
 
-If the specified pay rate does not exist, the  **CostPerUse** property results in a run-time error 1101.
+If the specified pay rate does not exist, the **CostPerUse** property results in a run-time error 1101.
 
 
 ## Example

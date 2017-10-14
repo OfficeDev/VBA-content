@@ -25,12 +25,12 @@ Removes the link between the data for a chart and a Microsoft Excel workbook.
 
 ## Remarks
 
-Calling this method sets the  **[IsLinked](chartdata-islinked-property-word.md)** property of the **ChartData** object to **False** .
+Calling this method sets the **[IsLinked](chartdata-islinked-property-word.md)** property of the **ChartData** object to **False** .
 
 
 ## Example
 
-The following example removes the link between the  **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
+The following example removes the link between the **ChartData** object for the first chart in the active document and the Excel workbook that provided the data for the chart.
 
 
 ```vb

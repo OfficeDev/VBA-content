@@ -32,7 +32,7 @@ VisZoomBehavior
 
  To set zoom behavior for an existing document, or for a particular window, use the **ZoomBehavior** property of the document and window, respectively.
 
-The following constants declared by the Visio type library in  **VisZoomBehavior** are valid values for the **DefaultZoomBehavior** property.
+The following constants declared by the Visio type library in **VisZoomBehavior** are valid values for the **DefaultZoomBehavior** property.
 
 
 
@@ -47,6 +47,6 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 
  **Note**  The default behavior ( **visZoomInPlaceContainer** ) is different from the behavior used in Microsoft Visio 2002, but is the same as that in earlier versions of Visio. To replicate the behavior seen in Microsoft Visio 2002, set this value to **visZoomVisio** .
 
-If this value is set to the default,  **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
+If this value is set to the default, **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
 
 

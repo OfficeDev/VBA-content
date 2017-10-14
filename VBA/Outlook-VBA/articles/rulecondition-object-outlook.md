@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleCondition Object (Outlook)
 
-The  **RuleCondition** object represents either a condition that must be met before a rule executes, or an exception condition that must not be met before a rule executes.
+The **RuleCondition** object represents either a condition that must be met before a rule executes, or an exception condition that must not be met before a rule executes.
 
 
 ## Remarks
@@ -21,23 +21,23 @@ The  **RuleCondition** object represents either a condition that must be met bef
  **RuleCondition** is the base class for rule conditions that are supported in programmatic rule creation. The classes derived from **RuleCondition** include:
 
 
--  **[AccountRuleCondition](accountrulecondition-object-outlook.md)**
+- **[AccountRuleCondition](accountrulecondition-object-outlook.md)**
     
--  **[AddressRuleCondition](addressrulecondition-object-outlook.md)**
+- **[AddressRuleCondition](addressrulecondition-object-outlook.md)**
     
--  **[CategoryRuleCondition](categoryrulecondition-object-outlook.md)**
+- **[CategoryRuleCondition](categoryrulecondition-object-outlook.md)**
     
--  **[FromRssFeedRuleCondition](fromrssfeedrulecondition-object-outlook.md)**
+- **[FromRssFeedRuleCondition](fromrssfeedrulecondition-object-outlook.md)**
     
--  **[FormNameRuleCondition](formnamerulecondition-object-outlook.md)**
+- **[FormNameRuleCondition](formnamerulecondition-object-outlook.md)**
     
--  **[ImportanceRuleCondition](importancerulecondition-object-outlook.md)**
+- **[ImportanceRuleCondition](importancerulecondition-object-outlook.md)**
     
--  **[SenderInAddressListRuleCondition](senderinaddresslistrulecondition-object-outlook.md)**
+- **[SenderInAddressListRuleCondition](senderinaddresslistrulecondition-object-outlook.md)**
     
--  **[TextRuleCondition](textrulecondition-object-outlook.md)**
+- **[TextRuleCondition](textrulecondition-object-outlook.md)**
     
--  **[ToOrFromRuleCondition](toorfromrulecondition-object-outlook.md)**
+- **[ToOrFromRuleCondition](toorfromrulecondition-object-outlook.md)**
     
 
 

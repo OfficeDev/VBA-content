@@ -33,7 +33,7 @@ Adds cells to an existing table.
 
 ## Remarks
 
-The number of cells inserted is equal to the number of cells in the selection. You can also insert cells by using the  **[Add](cells-add-method-word.md)** method of the **Cells** object.
+The number of cells inserted is equal to the number of cells in the selection. You can also insert cells by using the **[Add](cells-add-method-word.md)** method of the **Cells** object.
 
 
 ## Example

@@ -33,7 +33,7 @@ Sets the folder in which Word searches for documents.
 
 ## Remarks
 
-The specified folder's contents are listed the next time the  **Open** dialog box ( **File** tab) is displayed. Word searches the specified folder for documents until the user changes the folder in the **Open** dialog box or the current Word session ends. Use the **[DefaultFilePath](options-defaultfilepath-property-word.md)** property to change the default folder for documents in every Word session.
+The specified folder's contents are listed the next time the **Open** dialog box ( **File** tab) is displayed. Word searches the specified folder for documents until the user changes the folder in the **Open** dialog box or the current Word session ends. Use the **[DefaultFilePath](options-defaultfilepath-property-word.md)** property to change the default folder for documents in every Word session.
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Application.Inspector Method (Project)
 
-Indicates the  **Task Inspector** for use with engagement data. Introduced in Office 2016.
+Indicates the **Task Inspector** for use with engagement data. Introduced in Office 2016.
 
 
 ## Syntax

@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # DropCap Object (Word)
 
-Represents a dropped capital letter at the beginning of a paragraph. There is no  **DropCaps** collection; each **[Paragraph](paragraph-object-word.md)** object contains only one **DropCap** object.
+Represents a dropped capital letter at the beginning of a paragraph. There is no **DropCaps** collection; each **[Paragraph](paragraph-object-word.md)** object contains only one **DropCap** object.
 
 
 ## Remarks
 
-Use the  **DropCap** property to return a **DropCap** object. The following example sets a dropped capital letter for the first letter in the first paragraph in the active document.
+Use the **DropCap** property to return a **DropCap** object. The following example sets a dropped capital letter for the first letter in the first paragraph in the active document.
 
 
 ```vb

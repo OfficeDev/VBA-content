@@ -20,7 +20,7 @@ Removes manual paragraph or text formatting from the specified object and leaves
 
  _expression_. **Reset**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value

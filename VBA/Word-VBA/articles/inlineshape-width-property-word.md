@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Width Property (Word)
 
-Returns or sets the width, in points, of the specified inline shape. Read/write  **Long** .
+Returns or sets the width, in points, of the specified inline shape. Read/write **Long** .
 
 
 ## Syntax

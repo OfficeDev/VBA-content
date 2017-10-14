@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exceptions.Item Property (Project)
 
-Gets a single  **Exception** object from the **Exceptions** collection. Read-only **Exception**.
+Gets a single **Exception** object from the **Exceptions** collection. Read-only **Exception**.
 
 
 ## Syntax

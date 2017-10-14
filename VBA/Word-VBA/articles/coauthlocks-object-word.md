@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # CoAuthLocks Object (Word)
 
-A collection of  **[CoAuthLock](coauthlock-object-word.md)** objects.
+A collection of **[CoAuthLock](coauthlock-object-word.md)** objects.
 
 
 ## Remarks
 
-Use the  **[Locks](coauthlock-object-word.md)** property to return the **CoAuthLocks** collection.
+Use the **[Locks](coauthlock-object-word.md)** property to return the **CoAuthLocks** collection.
 
 
 ## Example

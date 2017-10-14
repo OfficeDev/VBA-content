@@ -32,7 +32,7 @@ Gets an array of the IDs of all the rows in the data recordset.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _CriteriaString_|Required| **String**|A string that conforms to the guidelines specified in the Microsoft ActiveX Data Object (ADO) API for setting the  **ADO.Filter** property|
+| _CriteriaString_|Required| **String**|A string that conforms to the guidelines specified in the Microsoft ActiveX Data Object (ADO) API for setting the **ADO.Filter** property|
 
 ### Return Value
 
@@ -41,18 +41,18 @@ Long()
 
 ## Remarks
 
-You can use the  **GetDataRowIDs** method to get an array of the IDs of all the rows in a data recordset, where each row represents a single data record. The **GetDataRowIDs** method takes as its parameter a criteria string, which is a string that conforms to the guidelines specified in the ADO API for setting the **ADO.Filter** property. By specifying appropriate criteria and using AND and OR operators to separate clauses, you can filter the information in the data recordset to return only certain data recordset rows selectively. To apply no filter (that is, to get all the rows), pass an empty string ("").
+You can use the **GetDataRowIDs** method to get an array of the IDs of all the rows in a data recordset, where each row represents a single data record. The **GetDataRowIDs** method takes as its parameter a criteria string, which is a string that conforms to the guidelines specified in the ADO API for setting the **ADO.Filter** property. By specifying appropriate criteria and using AND and OR operators to separate clauses, you can filter the information in the data recordset to return only certain data recordset rows selectively. To apply no filter (that is, to get all the rows), pass an empty string ("").
 
 For more information about criteria strings, see [Filter Property](http://msdn.microsoft.com/en-us/library/ms676691%28VS.85%29.aspx) in the ADO 2.8 API Reference.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the  **GetDataRowIDs** and **[GetRowData](datarecordset-getrowdata-method-visio.md)** methods to return the row ID of each row and then get the data stored in each column in every row of the specified data recordset. The macro gets the count of all data recordsets associated with the current document and gets row data for the one most recently added. It iterates through all the rows in the data recordset and then, for each row, iterates through all the columns in that row. The code displays the information returned in the **Immediate** window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how you can use the **GetDataRowIDs** and **[GetRowData](datarecordset-getrowdata-method-visio.md)** methods to return the row ID of each row and then get the data stored in each column in every row of the specified data recordset. The macro gets the count of all data recordsets associated with the current document and gets row data for the one most recently added. It iterates through all the rows in the data recordset and then, for each row, iterates through all the columns in that row. The code displays the information returned in the **Immediate** window.
 
 Before running this macro, create at least one data recordset in the current document.
 
-Note that the macro passes an empty string to the  **GetDataRowIDs** method to bypass filtering and get all the rows in the recordset. After you run the macro, note that the first set of data shown (corresponding to the first data row) contains the headings for all the data columns in the data recordset.
+Note that the macro passes an empty string to the **GetDataRowIDs** method to bypass filtering and get all the rows in the recordset. After you run the macro, note that the first set of data shown (corresponding to the first data row) contains the headings for all the data columns in the data recordset.
 
 
 

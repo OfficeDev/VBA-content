@@ -18,14 +18,14 @@ Represents the active e-mail message if you are using Microsoft Word as your e-m
 
 ## Remarks
 
-Use the  **MailMessage** property to return the **MailMessage** object. The following example validates the e-mail addresses that appear in the active e-mail message.
+Use the **MailMessage** property to return the **MailMessage** object. The following example validates the e-mail addresses that appear in the active e-mail message.
 
 
 ```vb
 Application.MailMessage.CheckName
 ```
 
-The methods of the  **MailMessage** object require that you are using Word as your e-mail editor and that an e-mail message is active. If either of these conditions is not true, an error occurs.
+The methods of the **MailMessage** object require that you are using Word as your e-mail editor and that an e-mail message is active. If either of these conditions is not true, an error occurs.
 
 
 ## See also

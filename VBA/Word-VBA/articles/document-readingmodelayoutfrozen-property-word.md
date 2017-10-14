@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ReadingModeLayoutFrozen Property (Word)
 
-Sets or returns a  **Boolean** that represents whether pages displayed in reading layout view are frozen to a specified size for inserting handwritten markup into a document.
+Sets or returns a **Boolean** that represents whether pages displayed in reading layout view are frozen to a specified size for inserting handwritten markup into a document.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **Boolean** that represents whether pages displayed in readin
 
 ## Remarks
 
-Use the  **[ReadingLayoutSizeX](document-readinglayoutsizex-property-word.md)** and **[ReadingLayoutSizeY](document-readinglayoutsizey-property-word.md)** properties to specify the size of the pages displayed when the reading layout size is frozen for inserting handwritten markup into a document.
+Use the **[ReadingLayoutSizeX](document-readinglayoutsizex-property-word.md)** and **[ReadingLayoutSizeY](document-readinglayoutsizey-property-word.md)** properties to specify the size of the pages displayed when the reading layout size is frozen for inserting handwritten markup into a document.
 
 
 ## Example

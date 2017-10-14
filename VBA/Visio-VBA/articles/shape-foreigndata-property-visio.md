@@ -30,6 +30,6 @@ Byte()
 
 ## Remarks
 
-To determine whether a shape represents a foreign object, use the  **ForeignType** property.
+To determine whether a shape represents a foreign object, use the **ForeignType** property.
 
 

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When  **PreserveFormattingOnUpdate** is set to **True** , formatting changes made to the object in Word is preserved when the object is updated. Word updates only the content in the linked object.
+When **PreserveFormattingOnUpdate** is set to **True** , formatting changes made to the object in Word is preserved when the object is updated. Word updates only the content in the linked object.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListEntries.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **ListEntries** object.
+Returns an **Object** that represents the parent object of the specified **ListEntries** object.
 
 
 ## Syntax

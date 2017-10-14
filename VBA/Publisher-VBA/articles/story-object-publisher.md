@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Story Object (Publisher)
 
-Represents the text in an unlinked text frame, text flowing between linked text frames, or text in a table cell. The  **Story** object is a member of the **TextFrame** and **TextRange** objects and the **Stories** collection.
+Represents the text in an unlinked text frame, text flowing between linked text frames, or text in a table cell. The **Story** object is a member of the **TextFrame** and **TextRange** objects and the **Stories** collection.
 
 
 ## Example
 
-Use the  **Story** property to return the **Story** object in a text range or text frame. This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
+Use the **Story** property to return the **Story** object in a text range or text frame. This example returns the story in the selected text range and, if it is in a text frame, inserts text into the text range.
 
 
 ```
@@ -30,7 +30,7 @@ Sub AddTextToStory()
 End Sub
 ```
 
-Use  **Stories** (index), where index is the number of the story, to return an individual **Story** object. This example determines if the first story in the active publication has a text frame and, if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
+Use **Stories** (index), where index is the number of the story, to return an individual **Story** object. This example determines if the first story in the active publication has a text frame and, if it does, formats the paragraphs in the story with a half inch first line indent and a six-point spacing before each paragraph.
 
 
 

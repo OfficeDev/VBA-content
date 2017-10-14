@@ -18,11 +18,11 @@ Represents a set of custom layouts associated with a presentation design.
 
 ## Remarks
 
-Use the  **[CustomLayouts](http://msdn.microsoft.com/library/8364388f-71be-c6b7-5ab0-4150e6f62feb%28Office.15%29.aspx)** property of the slide **[Master](master-object-powerpoint.md)** object to return a **CustomLayouts** collection. Use **CustomLayouts** ( _index_ ), where index is the color scheme index number, to return a single **[CustomLayout](customlayout-object-powerpoint.md)** object.
+Use the **[CustomLayouts](http://msdn.microsoft.com/library/8364388f-71be-c6b7-5ab0-4150e6f62feb%28Office.15%29.aspx)** property of the slide **[Master](master-object-powerpoint.md)** object to return a **CustomLayouts** collection. Use **CustomLayouts** ( _index_ ), where index is the color scheme index number, to return a single **[CustomLayout](customlayout-object-powerpoint.md)** object.
 
-Use the  **[Add](http://msdn.microsoft.com/library/d22dc23a-cb03-ab32-fd27-e360377369a9%28Office.15%29.aspx)** method to create a new custom layout and add it to the **CustomLayouts** collection. Use the **[Paste](http://msdn.microsoft.com/library/d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04%28Office.15%29.aspx)** method to past slides from the Clipboard as a **CustomLayout** object into the **CustomLayouts** collection.
+Use the **[Add](http://msdn.microsoft.com/library/d22dc23a-cb03-ab32-fd27-e360377369a9%28Office.15%29.aspx)** method to create a new custom layout and add it to the **CustomLayouts** collection. Use the **[Paste](http://msdn.microsoft.com/library/d4fcd2db-3d6b-0c59-6ea3-f9aadf90ed04%28Office.15%29.aspx)** method to past slides from the Clipboard as a **CustomLayout** object into the **CustomLayouts** collection.
 
-Use the  **CustomLayout** property of a **[Slide](slide-object-powerpoint.md)** or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** object to return a custom layout for a slide or set of slides.
+Use the **CustomLayout** property of a **[Slide](slide-object-powerpoint.md)** or **[SlideRange](http://msdn.microsoft.com/library/440ab59d-744a-209f-bf28-d0acd3a21e1a%28Office.15%29.aspx)** object to return a custom layout for a slide or set of slides.
 
 
 ## Example

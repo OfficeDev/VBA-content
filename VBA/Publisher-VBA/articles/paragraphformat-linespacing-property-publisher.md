@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.LineSpacing Property (Publisher)
 
-Returns or sets a  **Variant** that represents the line spacing (in number of lines) for the specified paragraphs. Read/write.
+Returns or sets a **Variant** that represents the line spacing (in number of lines) for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
  _expression_. **LineSpacing**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-You can use the  **[LineSpacingRule](paragraphformat-linespacingrule-property-publisher.md)** property to set the line spacing to a preset value.
+You can use the **[LineSpacingRule](paragraphformat-linespacingrule-property-publisher.md)** property to set the line spacing to a preset value.
 
 
 ## Example

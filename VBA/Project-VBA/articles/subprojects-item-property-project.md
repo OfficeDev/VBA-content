@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Subprojects.Item Property (Project)
 
-Gets a single  **Subproject** object from the **Subprojects** collection. Read-only **Subproject**.
+Gets a single **Subproject** object from the **Subprojects** collection. Read-only **Subproject**.
 
 
 ## Syntax

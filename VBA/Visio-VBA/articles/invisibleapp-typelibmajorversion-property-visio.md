@@ -30,8 +30,8 @@ Integer
 
 ## Remarks
 
-The major and/or minor version number of the Visio type library will increase whenever the Visio type library is extended. A program can use the  **TypelibMajorVersion** and **TypelibMinorVersion** properties to guarantee that the Visio version it is working with provides support for the features it is using.
+The major and/or minor version number of the Visio type library will increase whenever the Visio type library is extended. A program can use the **TypelibMajorVersion** and **TypelibMinorVersion** properties to guarantee that the Visio version it is working with provides support for the features it is using.
 
-Small changes to the Visio type library do not affect the  **Application** object's **Version** property.
+Small changes to the Visio type library do not affect the **Application** object's **Version** property.
 
 

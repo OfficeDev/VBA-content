@@ -33,7 +33,7 @@ Options.AutoFormatReplaceQuotes = True
 Selection.Range.AutoFormat
 ```
 
-This example returns the status of the  **Straight quotes with smart quotes** option on the **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Straight quotes with smart quotes** option on the **AutoFormat** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

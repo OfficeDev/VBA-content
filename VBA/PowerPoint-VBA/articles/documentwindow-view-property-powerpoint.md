@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.View Property (PowerPoint)
 
-Returns a  **[View](view-object-powerpoint.md)** object that represents the view in the specified document window. Read-only.
+Returns a **[View](view-object-powerpoint.md)** object that represents the view in the specified document window. Read-only.
 
 
 ## Syntax

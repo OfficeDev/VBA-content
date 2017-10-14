@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-Setting the  **ShowSmartTags** property is equivalent to setting the **Smart Tags** option under **Show** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
+Setting the **ShowSmartTags** property is equivalent to setting the **Smart Tags** option under **Show** on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
 

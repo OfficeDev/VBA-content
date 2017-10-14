@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.QueryString Property (Word)
 
-Returns or sets the query string (SQL statement) used to retrieve a subset of the data in a mail merge data source. Read/write  **String** .
+Returns or sets the query string (SQL statement) used to retrieve a subset of the data in a mail merge data source. Read/write **String** .
 
 
 ## Syntax

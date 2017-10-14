@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListGallery.ListTemplates Property (Word)
 
-Returns a  **ListTemplates** collection that represents all the list formats for the specified list gallery. Read-only.
+Returns a **ListTemplates** collection that represents all the list formats for the specified list gallery. Read-only.
 
 
 ## Syntax

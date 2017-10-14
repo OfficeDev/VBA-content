@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Lines Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the specified lines.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents the specified lines.
 
 
 ## Syntax
 
- _expression_. **Lines**( **_Start_**,  **_Length_**)
+ _expression_. **Lines**( **_Start_**, **_Length_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -39,9 +39,9 @@ TextRange
 
 ## Remarks
 
-If  **_Start_** is greater than the number of lines in the specified text, the returned range starts with the last line in the specified range.
+If **_Start_** is greater than the number of lines in the specified text, the returned range starts with the last line in the specified range.
 
-If  **_Length_** is greater than the number of lines from the specified starting line to the end of the text, the returned range contains all those lines.
+If **_Length_** is greater than the number of lines from the specified starting line to the end of the text, the returned range contains all those lines.
 
 
 ## Example

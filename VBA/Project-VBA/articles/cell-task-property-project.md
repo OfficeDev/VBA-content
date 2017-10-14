@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Cell.Task Property (Project)
 
-Gets a  **[Task](task-object-project.md)** object representing the task in the active cell. Read-only **Task**.
+Gets a **[Task](task-object-project.md)** object representing the task in the active cell. Read-only **Task**.
 
 
 ## Syntax

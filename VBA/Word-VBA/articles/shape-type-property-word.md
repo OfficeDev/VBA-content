@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Type Property (Word)
 
-Returns the type of inline shape. Read-only  **MsoShapeType** .
+Returns the type of inline shape. Read-only **MsoShapeType** .
 
 
 ## Syntax

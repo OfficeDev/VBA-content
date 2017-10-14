@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CalendarDrivers.Item Property (Project)
 
-Gets a single  **Resource** object from the **CalendarDrivers** collection. Read-only **Resource**.
+Gets a single **Resource** object from the **CalendarDrivers** collection. Read-only **Resource**.
 
 
 ## Syntax

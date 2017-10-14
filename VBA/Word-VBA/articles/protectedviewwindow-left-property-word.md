@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Left Property (Word)
 
-Returns or sets a  **Long** , in points, that represents the horizontal position of the specified protected view window. Read/write.
+Returns or sets a **Long** , in points, that represents the horizontal position of the specified protected view window. Read/write.
 
 
 ## Syntax

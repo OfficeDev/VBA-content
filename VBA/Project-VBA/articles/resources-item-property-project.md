@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resources.Item Property (Project)
 
-Gets a single  **Resource** object from the **Resources** collection. Read-only **Resource**.
+Gets a single **Resource** object from the **Resources** collection. Read-only **Resource**.
 
 
 ## Syntax

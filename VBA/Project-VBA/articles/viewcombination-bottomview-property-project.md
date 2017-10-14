@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ViewCombination.BottomView Property (Project)
 
-Gets or sets a  **[ViewSingle](viewsingle-object-project.md)** object representing the lower view of the combination view of the project. Read/write **ViewSingle**.
+Gets or sets a **[ViewSingle](viewsingle-object-project.md)** object representing the lower view of the combination view of the project. Read/write **ViewSingle**.
 
 
 ## Syntax

@@ -38,16 +38,16 @@ nothing
 
 ## Remarks
 
-Constants for Microsoft Visio command IDs are declared by the Visio type library in  **[VisUICmds](visuicmds-enumeration-visio.md)** and are prefixed with **visCmd** .
+Constants for Microsoft Visio command IDs are declared by the Visio type library in **[VisUICmds](visuicmds-enumeration-visio.md)** and are prefixed with **visCmd** .
 
-The  **DoCmd** method works best with commands that display dialog boxes.
+The **DoCmd** method works best with commands that display dialog boxes.
 
-For a list of commands that can be used with the  **DoCmd** method, see the topic[DoCmd/DOCMD Commands ](http://msdn.microsoft.com/library/b8390f44-607c-c32a-5200-e1559c51b2a8%28Office.15%29.aspx) in this Automation Reference.
+For a list of commands that can be used with the **DoCmd** method, see the topic[DoCmd/DOCMD Commands ](http://msdn.microsoft.com/library/b8390f44-607c-c32a-5200-e1559c51b2a8%28Office.15%29.aspx) in this Automation Reference.
 
 
 ## Example
 
-The following macro shows how to use constants with the  **DoCmd** method. It opens a new document and displays the document stencil.
+The following macro shows how to use constants with the **DoCmd** method. It opens a new document and displays the document stencil.
 
 
 ```vb

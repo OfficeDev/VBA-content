@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PhoneticGuide.BaseText Property (Publisher)
 
-Returns a  **String** that represents the text to which the specified phonetic text applies. Read-only.
+Returns a **String** that represents the text to which the specified phonetic text applies. Read-only.
 
 
 ## Syntax
 
  _expression_. **BaseText**
 
- _expression_A variable that represents a  **PhoneticGuide** object.
+ _expression_A variable that represents a **PhoneticGuide** object.
 
 
 ### Return Value

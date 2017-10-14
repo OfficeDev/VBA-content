@@ -40,11 +40,11 @@ Long
 
 In a ShapeSheet window, each row in the Character and Paragraph sections represents a run of the corresponding format in a shape's text. Certain words may be bold or italic, or one paragraph may be centered and another left-aligned. Each change of format represents a run of that format. Similarly, delimiters such as spaces and paragraph marks represent the beginning and end of words, paragraphs, and fields.
 
-In addition, you can retrieve rows that represent runs of character, paragraph, and tab formats by specifying a row index as an argument to the  **CellsSRC** property of a shape.
+In addition, you can retrieve rows that represent runs of character, paragraph, and tab formats by specifying a row index as an argument to the **CellsSRC** property of a shape.
 
-Use the  **RunBegin** property to determine the beginning of a sequence of identically formatted characters or the beginning of a word, paragraph, or field. You can get the **IsField** property to determine whether a run is a field.
+Use the **RunBegin** property to determine the beginning of a sequence of identically formatted characters or the beginning of a word, paragraph, or field. You can get the **IsField** property to determine whether a run is a field.
 
-The index that the  **RunBegin** property returns is less than or equal to the beginning index of a **Characters** object. If the **Begin** property of the **Characters** object is already at the start of a run, the value of the **RunBegin** property is equal to the value of **Begin** .
+The index that the **RunBegin** property returns is less than or equal to the beginning index of a **Characters** object. If the **Begin** property of the **Characters** object is already at the start of a run, the value of the **RunBegin** property is equal to the value of **Begin** .
 
 Use the  _RunType_ argument to specify the type of run you want. You can use any of the following constants declared by the Visio type library in member **VisRunTypes** .
 

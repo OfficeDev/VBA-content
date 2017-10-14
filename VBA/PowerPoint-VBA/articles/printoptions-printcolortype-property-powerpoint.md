@@ -30,7 +30,7 @@ PpPrintColorType
 
 ## Remarks
 
-The value of the  **PrintColorType** property can be one of these **PpPrintColorType** constants. The default value is set by the printer.
+The value of the **PrintColorType** property can be one of these **PpPrintColorType** constants. The default value is set by the printer.
 
 
 ||

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.RemainingOvertimeWork Property (Project)
 
-Gets the remaining overtime work (in minutes) for the assignment. Read/write  **Variant**.
+Gets the remaining overtime work (in minutes) for the assignment. Read/write **Variant**.
 
 
 ## Syntax

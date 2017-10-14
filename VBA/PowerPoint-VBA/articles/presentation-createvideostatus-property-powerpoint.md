@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.CreateVideoStatus Property (PowerPoint)
 
-Returns the status of creating a video in the current  **Presentation**. Read-only.
+Returns the status of creating a video in the current **Presentation**. Read-only.
 
 
 ## Syntax

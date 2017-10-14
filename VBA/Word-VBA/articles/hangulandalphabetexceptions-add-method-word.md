@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HangulAndAlphabetExceptions.Add Method (Word)
 
-Returns a  **HangulAndAlphabetException** object that represents a new exception to the list of AutoCorrect exceptions.
+Returns a **HangulAndAlphabetException** object that represents a new exception to the list of AutoCorrect exceptions.
 
 
 ## Syntax
@@ -38,14 +38,14 @@ HangulAndAlphabetException
 
 ## Remarks
 
-If the  **HangulAndAlphabetAutoAdd** property is set to **True** , words are automatically added to the list of hangul and alphabet AutoCorrect exceptions.
+If the **HangulAndAlphabetAutoAdd** property is set to **True** , words are automatically added to the list of hangul and alphabet AutoCorrect exceptions.
 
 For more information on using Word with East Asian languages, see Word features for East Asian languages .
 
 
 ## Example
 
-This example adds test to the list of hangul and alphabet AutoCorrect exceptions on the  **Korean** tab in the **AutoCorrect Exceptions** dialog box.
+This example adds test to the list of hangul and alphabet AutoCorrect exceptions on the **Korean** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ```

@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.GroupItems Property (Project)
-Gets a  **GroupShapes** object that represents the individual shapes in a group, if the **ShapeRange** object represents a group of shapes. Read-only[GroupShapes](http://msdn.microsoft.com/en-us/library/office/ff195331%28v=office.15%29).
+Gets a **GroupShapes** object that represents the individual shapes in a group, if the **ShapeRange** object represents a group of shapes. Read-only[GroupShapes](http://msdn.microsoft.com/en-us/library/office/ff195331%28v=office.15%29).
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets a  **GroupShapes** object that represents the individual shapes in a group,
 
 ## Remarks
 
-Use the  **GroupShapes.Item** method to return a single shape from the group.
+Use the **GroupShapes.Item** method to return a single shape from the group.
 
 
 ## Property value

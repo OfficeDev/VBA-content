@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WdBookmarkSortBy Enumeration (Word)
 
-Specifies the sorting option for bookmark names displayed in the  **Bookmark** dialog box.
+Specifies the sorting option for bookmark names displayed in the **Bookmark** dialog box.
 
 
 

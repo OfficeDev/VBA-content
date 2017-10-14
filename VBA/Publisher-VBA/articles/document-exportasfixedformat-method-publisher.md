@@ -18,9 +18,9 @@ Saves a Microsoft Publisher publication in PDF or XPS format. The conversion rea
 
 ## Syntax
 
- _expression_. **ExportAsFixedFormat**( **_Format_**,  **_Filename_**,  **_Intent_**,  **_IncludeDocumentProperties_**,  **_ColorDownsampleTarget_**,  **_ColorDownsampleThreshold_**,  **_OneBitDownsampleTarget_**,  **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
+ _expression_. **ExportAsFixedFormat**( **_Format_**, **_Filename_**, **_Intent_**, **_IncludeDocumentProperties_**, **_ColorDownsampleTarget_**, **_ColorDownsampleThreshold_**, **_OneBitDownsampleTarget_**, **_OneBitDownsampleThreshold_**, **_From_**, **_To_**, **_Copies_**, **_Collate_**, **_PrintStyle_**, **_DocStructureTags_**, **_BitmapMissingFonts_**, **_UseISO19005_1_**, **_ExternalExporter_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters
@@ -42,16 +42,16 @@ Saves a Microsoft Publisher publication in PDF or XPS format. The conversion rea
 |Copies|Optional| **Long**|The number of copies.|
 |Collate|Optional| **Boolean**|Whether to collate the copies.|
 |PrintStyle|Optional| **PbPrintStyle**|The style in which to print the exported file. See Remarks for possible values.|
-|DocStructureTags|Optional| **Boolean**|Whether to include document structure tags to improve document accessibility. The default is  **True**.|
-|BitmapMissingFonts|Optional| **Boolean**|Whether to include a bitmap of the text. Pass  **True** for this parameter when font licenses do not permit a font to be embedded in the PDF file. If you pass **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available. Default value is  **True**. |
-|UseISO19005_1|Optional| **Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is  **False**.|
-|ExternalExporter|Optional| **Variant**|A pointer to an add-in that allows calls to an alternate implementation of code. You can add support for additional fixed formats by writing a Microsoft Office add-in that implements the  **IMsoDocExporter** COM interface. For more information, see "Extending the Office (2007) Fixed-Format Export Feature" on MSDN.|
+|DocStructureTags|Optional| **Boolean**|Whether to include document structure tags to improve document accessibility. The default is **True**.|
+|BitmapMissingFonts|Optional| **Boolean**|Whether to include a bitmap of the text. Pass **True** for this parameter when font licenses do not permit a font to be embedded in the PDF file. If you pass **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available. Default value is **True**. |
+|UseISO19005_1|Optional| **Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
+|ExternalExporter|Optional| **Variant**|A pointer to an add-in that allows calls to an alternate implementation of code. You can add support for additional fixed formats by writing a Microsoft Office add-in that implements the **IMsoDocExporter** COM interface. For more information, see "Extending the Office (2007) Fixed-Format Export Feature" on MSDN.|
 
 ## Remarks
 
-The  **ExportAsFixedFormat** method is the equivalent of the **Publish As PDF or XPS** command on the **File** menu in the Publisher user interface.
+The **ExportAsFixedFormat** method is the equivalent of the **Publish As PDF or XPS** command on the **File** menu in the Publisher user interface.
 
-Possible values for the Format parameter are shown in the following table and declared in  **PbFixedFormatType** in the Publisher type library.
+Possible values for the Format parameter are shown in the following table and declared in **PbFixedFormatType** in the Publisher type library.
 
 
 
@@ -59,7 +59,7 @@ Possible values for the Format parameter are shown in the following table and de
 |:-----|:-----|:-----|
 | **pbFixedFormatTypePDF**|2|PDF format|
 | **pbFixedFormatTypeXPS**|1|XPS format|
-Possible values for the Intent parameter are shown in the following table and declared in  **PbFixedFormatIntent** in the Publisher type library.
+Possible values for the Intent parameter are shown in the following table and declared in **PbFixedFormatIntent** in the Publisher type library.
 
 
 
@@ -69,12 +69,12 @@ Possible values for the Intent parameter are shown in the following table and de
 | **pbIntentStandard**|2 |Distribute the publication as an e-mail message or from a Web site. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|
 | **pbIntentPrinting**|3|Print the publication on a desktop printer or at a copy store.|
 | **pbIntentCommercial **|4|Submit the publication to a commercial press.|
-Possible values for the PrintStyle parameter are declared in the  **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** enumeration in the Publisher type library. The default value depends on the value of the Intent parameter.
+Possible values for the PrintStyle parameter are declared in the **[PbPrintStyle](pbprintstyle-enumeration-publisher.md)** enumeration in the Publisher type library. The default value depends on the value of the Intent parameter.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportAsFixedFormat** method to save the the active publication as a .pdf file.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ExportAsFixedFormat** method to save the the active publication as a .pdf file.
 
 Before running this code, replace  _pathandfilename.pdf_ with a valid file name and the path to a folder on your computer where you have permission to save files.
 

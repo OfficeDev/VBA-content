@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.BottomMargin Property (Word)
 
-Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the distance (in points) between the bottom edge of the page and
 
 ## Example
 
-This example sets the bottom margin to 72 points (1 inch) and the top margin to 2 inches for the active document. The  **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
+This example sets the bottom margin to 72 points (1 inch) and the top margin to 2 inches for the active document. The **[InchesToPoints](application-inchestopoints-method-word.md)** method is used to convert inches to points.
 
 
 ```vb
@@ -44,7 +44,7 @@ This example sets the bottom margin to 2.5 inches for all the sections in the cu
 Selection.PageSetup.BottomMargin = InchesToPoints(2.5)
 ```
 
-This example returns the bottom margin for section 1 in the selection. The  **[PointsToInches](global-pointstoinches-method-word.md)** method is used to convert the result to inches.
+This example returns the bottom margin for section 1 in the selection. The **[PointsToInches](global-pointstoinches-method-word.md)** method is used to convert the result to inches.
 
 
 

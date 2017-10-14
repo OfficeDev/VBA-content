@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.TrackingStatusTime Property (Outlook)
 
-Returns or sets a  **Date** indicating the tracking status date and time for the recipient. Read/write.
+Returns or sets a **Date** indicating the tracking status date and time for the recipient. Read/write.
 
 
 ## Syntax

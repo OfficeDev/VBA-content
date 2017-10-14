@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Hyperlinks.Add Method (Publisher)
 
-Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and returns the new **Hyperlink** object.
+Adds a new **Hyperlink** object to the specified **Hyperlinks** collection and returns the new **Hyperlink** object.
 
 
 ## Syntax
 
- _expression_. **Add**( **_Text_**,  **_Address_**,  **_RelativePage_**,  **_PageID_**,  **_TextToDisplay_**)
+ _expression_. **Add**( **_Text_**, **_Address_**, **_RelativePage_**, **_PageID_**, **_TextToDisplay_**)
 
- _expression_A variable that represents a  **Hyperlinks** object.
+ _expression_A variable that represents a **Hyperlinks** object.
 
 
 ### Parameters
@@ -30,10 +30,10 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 |Text|Required| **TextRange**| **TextRange** object. The text range to be converted into a hyperlink.|
-|Address|Optional| **String**|The address of the new hyperlink. If RelativePage is  **pbHlinkTargetTypeURL** (default) or **pbHlinkTargetTypeEmail**, Address must be specified or an error occurs.|
+|Address|Optional| **String**|The address of the new hyperlink. If RelativePage is **pbHlinkTargetTypeURL** (default) or **pbHlinkTargetTypeEmail**, Address must be specified or an error occurs.|
 |RelativePage|Optional| **PbHlinkTargetType**| The type of hyperlink to add.|
-|PageID|Optional| **Long**|The page ID of the destination page for the new hyperlink. If RelativePage is  **pbHlinkTargetTypePageID**, PageID must be specified or an error occurs. The page ID corresponds to the  **[PageID](hyperlink-pageid-property-publisher.md)** property of the destination page.|
-|TextToDisplay|Optional| **String**|The display text of the new hyperlink. If specified,  **TextToDisplay** replaces the text range specified by the **Text** argument.|
+|PageID|Optional| **Long**|The page ID of the destination page for the new hyperlink. If RelativePage is **pbHlinkTargetTypePageID**, PageID must be specified or an error occurs. The page ID corresponds to the **[PageID](hyperlink-pageid-property-publisher.md)** property of the destination page.|
+|TextToDisplay|Optional| **String**|The display text of the new hyperlink. If specified, **TextToDisplay** replaces the text range specified by the **Text** argument.|
 
 ### Return Value
 
@@ -42,7 +42,7 @@ Hyperlink
 
 ## Remarks
 
-RelativePage can be one of these  **PbHlinkTargetType** constants. The default is **pbHlinkTargetTypeURL**.
+RelativePage can be one of these **PbHlinkTargetType** constants. The default is **pbHlinkTargetTypeURL**.
 
 
 

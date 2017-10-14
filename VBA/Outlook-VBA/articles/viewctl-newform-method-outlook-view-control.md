@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ViewCtl.NewForm Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Choose Form** dialog box.
+Displays the Microsoft Outlook **Choose Form** dialog box.
 
 
 ## Syntax
 
  _expression_. **NewForm**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

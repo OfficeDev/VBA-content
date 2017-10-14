@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slide.SlideShowTransition Property (PowerPoint)
 
-Returns a  **[SlideShowTransition](slideshowtransition-object-powerpoint.md)** object that represents the special effects for the specified slide transition. Read-only.
+Returns a **[SlideShowTransition](slideshowtransition-object-powerpoint.md)** object that represents the special effects for the specified slide transition. Read-only.
 
 
 ## Syntax

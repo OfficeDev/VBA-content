@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TablesOfFigures Property (Word)
 
-Returns a  **[TablesOfFigures](document-tablesoffigures-property-word.md)** collection that represents the tables of figures in the specified document. Read-only.
+Returns a **[TablesOfFigures](document-tablesoffigures-property-word.md)** collection that represents the tables of figures in the specified document. Read-only.
 
 
 ## Syntax

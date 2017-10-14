@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.DropDown Property (Word)
 
-Returns a  **[DropDown](dropdown-object-word.md)** object that represents a drop-down form field. Read-only.
+Returns a **[DropDown](dropdown-object-word.md)** object that represents a drop-down form field. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[DropDown](dropdown-object-word.md)** object that represents a drop
 
 ## Remarks
 
-If the  **DropDown** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
+If the **DropDown** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
 
 
 ## Example

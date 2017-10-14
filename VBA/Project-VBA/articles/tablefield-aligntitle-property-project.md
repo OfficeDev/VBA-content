@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableField.AlignTitle Property (Project)
 
-Gets or sets the alignment of the title in a table field. Read/write  **PjAlignment**.
+Gets or sets the alignment of the title in a table field. Read/write **PjAlignment**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets the alignment of the title in a table field. Read/write  **PjAlignm
 
 ## Remarks
 
-Can be one of the following  **[PjAlignment](pjalignment-enumeration-project.md)** constants: **pjCenter**, **pjLeft**, or **pjRight**.
+Can be one of the following **[PjAlignment](pjalignment-enumeration-project.md)** constants: **pjCenter**, **pjLeft**, or **pjRight**.
 
 

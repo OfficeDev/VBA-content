@@ -30,14 +30,14 @@ Gets or sets the target shape that is associated with the callout shape by a cal
 
 ## Remarks
 
-If you attempt to get or set the  **CalloutTarget** property value on a shape that is not a callout, Microsoft Visio will return an **Inappropriate Source Object** error.
+If you attempt to get or set the **CalloutTarget** property value on a shape that is not a callout, Microsoft Visio will return an **Inappropriate Source Object** error.
 
-If no target shape is associated with the callout shape, the  **CalloutTarget** property returns **Nothing** . Setting the property value to **Nothing** removes any target shapes that are associated with the callout shape.
+If no target shape is associated with the callout shape, the **CalloutTarget** property returns **Nothing** . Setting the property value to **Nothing** removes any target shapes that are associated with the callout shape.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **CalloutTarget** property to set the target shape of a callout.
+The following Visual Basic for Applications (VBA) example shows how to use the **CalloutTarget** property to set the target shape of a callout.
 
 
 ```vb

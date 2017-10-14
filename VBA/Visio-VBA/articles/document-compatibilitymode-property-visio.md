@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Document.CompatibilityMode Property (Visio)
 
-Returns a  **Boolean** that indicates whether the specified document is in compatibility mode. Read-only.
+Returns a **Boolean** that indicates whether the specified document is in compatibility mode. Read-only.
 
 
 ## Syntax

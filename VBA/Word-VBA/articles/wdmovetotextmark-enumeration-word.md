@@ -17,7 +17,7 @@ Marks the moved-to text when text in a document with tracked changes is moved fr
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 | **wdMoveToTextMarkBold**|1|Marks moved text with bold formatting.|
-| **wdMoveToTextMarkColorOnly**|5|Marks moved text with color only. Use the  **[MoveToTextColor](options-movetotextcolor-property-word.md)** property to set the color of moved text.|
+| **wdMoveToTextMarkColorOnly**|5|Marks moved text with color only. Use the **[MoveToTextColor](options-movetotextcolor-property-word.md)** property to set the color of moved text.|
 | **wdMoveToTextMarkDoubleStrikeThrough**|7|Moved text is marked with a double strikethrough.|
 | **wdMoveToTextMarkDoubleUnderline**|4|Moved text is marked with a double underline.|
 | **wdMoveToTextMarkItalic**|2|Marks moved text with italic formatting.|

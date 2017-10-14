@@ -20,7 +20,7 @@ Breaks the forward link for the specified text frame, if such a link exists.
 
  _expression_. **BreakForwardLink**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ## Remarks

@@ -29,7 +29,7 @@ Inserts a new resource in a resource view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**PjResourceTypes**|Specifies whether the type is a cost, material, or work resource. Can be one of the  **[PjResourceTypes](pjresourcetypes-enumeration-project.md)** constants. The default is **pjResourceTypeWork**.|
+| _Type_|Optional|**PjResourceTypes**|Specifies whether the type is a cost, material, or work resource. Can be one of the **[PjResourceTypes](pjresourcetypes-enumeration-project.md)** constants. The default is **pjResourceTypeWork**.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Inserts a new resource in a resource view.
 
 ## Remarks
 
-The  **InsertResource** method corresponds to the **Insert Resource** command on the right-click option menu in the Resource Sheet view or Resource Usage view. The **Resource Name** cell is selected with **<Type Resource Name Here>**. In the Team Planner view,  **InsertResource** creates a row below the last resource, with the name **New Resource**. 
+The **InsertResource** method corresponds to the **Insert Resource** command on the right-click option menu in the Resource Sheet view or Resource Usage view. The **Resource Name** cell is selected with **<Type Resource Name Here>**. In the Team Planner view, **InsertResource** creates a row below the last resource, with the name **New Resource**. 
 
 

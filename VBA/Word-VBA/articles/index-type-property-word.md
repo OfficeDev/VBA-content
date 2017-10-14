@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Index.Type Property (Word)
 
-Returns or sets the index type. Read/write  **[WdIndexType](wdindextype-enumeration-word.md)** .
+Returns or sets the index type. Read/write **[WdIndexType](wdindextype-enumeration-word.md)** .
 
 
 ## Syntax

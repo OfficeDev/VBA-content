@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.IconPath Property (Word)
 
-Returns the path of the file in which the icon for an OLE object is stored. Read-only  **String** .
+Returns the path of the file in which the icon for an OLE object is stored. Read-only **String** .
 
 
 ## Syntax

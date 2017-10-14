@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ResourceCalendars Method (Project)
 
-Displays the  **Change Working Time** dialog box, which prompts the user to manage calendars.
+Displays the **Change Working Time** dialog box, which prompts the user to manage calendars.
 
 
 ## Syntax
@@ -39,6 +39,6 @@ Displays the  **Change Working Time** dialog box, which prompts the user to mana
 
 ## Remarks
 
-The  **ResourceCalendars** method returns a trappable error (error code 1101) when applied to material resources.
+The **ResourceCalendars** method returns a trappable error (error code 1101) when applied to material resources.
 
 

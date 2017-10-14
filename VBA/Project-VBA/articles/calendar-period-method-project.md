@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Calendar.Period Method (Project)
 
-Gets a  **[Period](period-object-project.md)** object representing a period of time in a calendar. Read-only **Period**.
+Gets a **[Period](period-object-project.md)** object representing a period of time in a calendar. Read-only **Period**.
 
 
 ## Syntax

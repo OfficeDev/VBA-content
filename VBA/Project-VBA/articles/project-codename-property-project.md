@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.CodeName Property (Project)
 
-Gets the code name for the project. Read-only  **String**.
+Gets the code name for the project. Read-only **String**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the code name for the project. Read-only  **String**.
 
 ## Remarks
 
-The code name is the name of the module that stores event macros (and other macros you may have defined) for a project. The default name for the module is "ThisProject"; you can view it in the  **Project** window in the Visual Basic Editor.
+The code name is the name of the module that stores event macros (and other macros you may have defined) for a project. The default name for the module is "ThisProject"; you can view it in the **Project** window in the Visual Basic Editor.
 
-Changing the project name doesn't change the code name, and changing the code name (using the  **Properties** window in the Visual Basic Editor) doesn't change the project name.
+Changing the project name doesn't change the code name, and changing the code name (using the **Properties** window in the Visual Basic Editor) doesn't change the project name.
 
 

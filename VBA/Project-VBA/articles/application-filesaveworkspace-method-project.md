@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileSaveWorkspace Method (Project)
 
-Saves a list of open files and the current settings in the  **Options** dialog box.
+Saves a list of open files and the current settings in the **Options** dialog box.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Saves a list of open files and the current settings in the  **Options** dialog b
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Name_|Optional|**String**|The name of the file to create. If  **Name** is omitted, Project prompts for the file name.|
+| _Name_|Optional|**String**|The name of the file to create. If **Name** is omitted, Project prompts for the file name.|
 
 ### Return Value
 

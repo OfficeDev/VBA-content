@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.ActionSettings Property (PowerPoint)
 
-Returns an  **[ActionSettings](actionsettings-object-powerpoint.md)** object that contains information about what action occurs when the user clicks or moves the mouse over the specified shape or text range during a slide show. Read-only.
+Returns an **[ActionSettings](actionsettings-object-powerpoint.md)** object that contains information about what action occurs when the user clicks or moves the mouse over the specified shape or text range during a slide show. Read-only.
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Represents the geometry of a freeform while it is being built.
 
 ## Example
 
-Use the  **[BuildFreeform](shapes-buildfreeform-method-publisher.md)** method of the **[Shapes](shapes-object-publisher.md)** collection to return a **FreeformBuilder** object. Use the **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to add nodes to the freeform. Use the **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **Shapes** collection. The following example adds a freeform with four segments to the active document.
+Use the **[BuildFreeform](shapes-buildfreeform-method-publisher.md)** method of the **[Shapes](shapes-object-publisher.md)** collection to return a **FreeformBuilder** object. Use the **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to add nodes to the freeform. Use the **[ConvertToShape](freeformbuilder-converttoshape-method-publisher.md)** method to create the shape defined in the **FreeformBuilder** object and add it to the **Shapes** collection. The following example adds a freeform with four segments to the active document.
  
 
  

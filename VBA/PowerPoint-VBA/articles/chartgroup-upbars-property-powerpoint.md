@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.UpBars Property (PowerPoint)
 
-Returns the up bars on a line chart. Read-only  **[UpBars](upbars-object-powerpoint.md)**.
+Returns the up bars on a line chart. Read-only **[UpBars](upbars-object-powerpoint.md)**.
 
 
 ## Syntax

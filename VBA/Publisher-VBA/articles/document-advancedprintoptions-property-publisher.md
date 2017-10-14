@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.AdvancedPrintOptions Property (Publisher)
 
-Returns an  **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object that represents the advanced print settings for a publication. Read-only.
+Returns an **[AdvancedPrintOptions](advancedprintoptions-object-publisher.md)** object that represents the advanced print settings for a publication. Read-only.
 
 
 ## Syntax
 
  _expression_. **AdvancedPrintOptions**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ AdvancedPrintOptions
 
 ## Remarks
 
-The properties of the  **AdvancedPrintOptions** object correspond to the options in the **Advanced Print Settings** dialog box.
+The properties of the **AdvancedPrintOptions** object correspond to the options in the **Advanced Print Settings** dialog box.
 
 
 ## Example

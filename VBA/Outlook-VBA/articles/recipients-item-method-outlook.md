@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipients.Item Method (Outlook)
 
-Returns a  **[Recipient](recipient-object-outlook.md)** object from the collection.
+Returns a **[Recipient](recipient-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **[Recipient](recipient-object-outlook.md)** object from the collecti
 
 ### Return Value
 
-A  **Recipient** object that represents the specified object.
+A **Recipient** object that represents the specified object.
 
 
 ## See also

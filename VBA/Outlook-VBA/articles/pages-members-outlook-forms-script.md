@@ -30,7 +30,7 @@ Represents all the pages of a  [MultiPage](multipage-object-outlook-forms-script
 
 |**Name**|**Description**|
 |:-----|:-----|
-| [Count](pages-count-property-outlook-forms-script.md)|Returns a  **Long** that represents the number of objects in a collection. Read-only.|
+| [Count](pages-count-property-outlook-forms-script.md)|Returns a **Long** that represents the number of objects in a collection. Read-only.|
 
 
 

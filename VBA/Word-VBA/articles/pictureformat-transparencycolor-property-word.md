@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PictureFormat.TransparencyColor Property (Word)
 
-Returns or sets the transparent color for the specified picture as a red-green-blue (RGB) value. Read/write  **Long** .
+Returns or sets the transparent color for the specified picture as a red-green-blue (RGB) value. Read/write **Long** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets the transparent color for the specified picture as a red-green-b
 
 ## Remarks
 
-For this property to take effect, the  **[TransparentBackground](pictureformat-transparentbackground-property-word.md)** property must be set to **True** . Applies to bitmaps only.
+For this property to take effect, the **[TransparentBackground](pictureformat-transparentbackground-property-word.md)** property must be set to **True** . Applies to bitmaps only.
 
-If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **[Visible](fillformat-visible-property-word.md)** property of the picture's **[FillFormat](fillformat-object-word.md)** object to **False** . If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True** , the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
+If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the **[Visible](fillformat-visible-property-word.md)** property of the picture's **[FillFormat](fillformat-object-word.md)** object to **False** . If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True** , the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
 
 
 ## Example

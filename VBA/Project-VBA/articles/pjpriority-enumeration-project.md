@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PjPriority Enumeration (Project)
 
-The  **PjPriority** enumeration is obsolete and should not be used. Actual task priority values range from 0 to 1000.
+The **PjPriority** enumeration is obsolete and should not be used. Actual task priority values range from 0 to 1000.
 
 
 

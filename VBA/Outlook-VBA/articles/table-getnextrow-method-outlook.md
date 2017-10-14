@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.GetNextRow Method (Outlook)
 
-Moves the current row to the next row in the  **[Table](table-object-outlook.md)** and obtains that row in the **Table** .
+Moves the current row to the next row in the **[Table](table-object-outlook.md)** and obtains that row in the **Table** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Moves the current row to the next row in the  **[Table](table-object-outlook.md)
 
 ### Return Value
 
-A  **[Row](row-object-outlook.md)** object that represents the next valid row in the **Table** if there are additional rows available. If there are no additional rows available (where **[Table.EndOfTable](table-endoftable-property-outlook.md)** is **True** ), **GetNextRow** will return **Null** ( **Nothing** in Visual Basic).
+A **[Row](row-object-outlook.md)** object that represents the next valid row in the **Table** if there are additional rows available. If there are no additional rows available (where **[Table.EndOfTable](table-endoftable-property-outlook.md)** is **True** ), **GetNextRow** will return **Null** ( **Nothing** in Visual Basic).
 
 
 ## See also

@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Document.Pages Property (Publisher)
 
-Returns a  **[Pages](pages-object-publisher.md)** collection representing all the pages in the specified publication.
+Returns a **[Pages](pages-object-publisher.md)** collection representing all the pages in the specified publication.
 
 
 ## Syntax
 
  _expression_. **Pages**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Example
 
-The following example returns the  **Pages** collection of the active publication and reports how many pages there are.
+The following example returns the **Pages** collection of the active publication and reports how many pages there are.
 
 
 ```vb

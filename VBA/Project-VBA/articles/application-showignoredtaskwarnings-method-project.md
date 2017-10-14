@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowIgnoredTaskWarnings Method (Project)
 
-Shows any ignored warnings for tasks; turns on the warning symbol in the  **Indicators** column.
+Shows any ignored warnings for tasks; turns on the warning symbol in the **Indicators** column.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Shows any ignored warnings for tasks; turns on the warning symbol in the  **Indi
 
 ## Remarks
 
-The  **Show Ignored Problems** command is in the **Inspect Task** drop-down menu on the **TASK** ribbon. The **ShowIgnoredTaskWarnings** method sets the **Show warning and suggestion indicators for this task** check box in the **Task Inspector** pane for all tasks.
+The **Show Ignored Problems** command is in the **Inspect Task** drop-down menu on the **TASK** ribbon. The **ShowIgnoredTaskWarnings** method sets the **Show warning and suggestion indicators for this task** check box in the **Task Inspector** pane for all tasks.
 
 

@@ -25,7 +25,7 @@ Returns all the series in the chart.
 
 ### Return Value
 
-A  **[SeriesCollection](seriescollection-object-powerpoint.md)** object that represents all the series in the chart.
+A **[SeriesCollection](seriescollection-object-powerpoint.md)** object that represents all the series in the chart.
 
 
 ## Example

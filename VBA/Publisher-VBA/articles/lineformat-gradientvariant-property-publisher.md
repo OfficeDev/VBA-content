@@ -18,7 +18,7 @@ Returns the gradient variant for the specified line as an integer value, usually
 
  _expression_. **GradientVariant**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ## Return value
@@ -28,7 +28,7 @@ Returns the gradient variant for the specified line as an integer value, usually
 
 ## Remarks
 
-If the gradient style is  **msoGradientFromCenter**, this property returns either 1 or 2. 
+If the gradient style is **msoGradientFromCenter**, this property returns either 1 or 2. 
 
 
 ## See also

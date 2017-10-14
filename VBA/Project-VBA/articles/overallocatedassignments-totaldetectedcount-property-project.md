@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OverAllocatedAssignments.TotalDetectedCount Property (Project)
 
-Gets the total number of overallocated assignments, including those that exceed maximum resource time available. Read-only  **Long**.
+Gets the total number of overallocated assignments, including those that exceed maximum resource time available. Read-only **Long**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the total number of overallocated assignments, including those that exceed 
 
 ## Remarks
 
-For an example that uses the  **TotalDetectedCount** property, see the **[Item](overallocatedassignments-item-property-project.md)** property.
+For an example that uses the **TotalDetectedCount** property, see the **[Item](overallocatedassignments-item-property-project.md)** property.
 
 
 ## See also

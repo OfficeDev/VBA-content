@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **Included**
 
- _expression_A variable that represents an  **MailMergeDataSource** object.
+ _expression_A variable that represents an **MailMergeDataSource** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-Use the  **[SetAllIncludedFlags](mailmergedatasource-setallincludedflags-method-publisher.md)** method to set the included status for all mail merge records.
+Use the **[SetAllIncludedFlags](mailmergedatasource-setallincludedflags-method-publisher.md)** method to set the included status for all mail merge records.
 
 
 ## Example

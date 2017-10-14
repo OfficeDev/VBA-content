@@ -33,9 +33,9 @@ Plays an animation associated with a specified mouse click and any animations th
 
 ## Remarks
 
-Use the  **[GetClickIndex](slideshowview-getclickindex-method-powerpoint.md)** method to return the index number of the current mouse click for an animation that is actively playing on a slide or has just finished.
+Use the **[GetClickIndex](slideshowview-getclickindex-method-powerpoint.md)** method to return the index number of the current mouse click for an animation that is actively playing on a slide or has just finished.
 
-Specifying a value of 0 for Index plays animations beginning at the point just before any animations that run automatically. Specifying a value of  **msoClickStateBeforeAutomaticAnimations** for Index moves to the point just before any animations that run automatically, and then pauses. Specifying an value of **msoClickStateAfterAllAnimations** for Index moves to the point after all animations.
+Specifying a value of 0 for Index plays animations beginning at the point just before any animations that run automatically. Specifying a value of **msoClickStateBeforeAutomaticAnimations** for Index moves to the point just before any animations that run automatically, and then pauses. Specifying an value of **msoClickStateAfterAllAnimations** for Index moves to the point after all animations.
 
 
 ## See also

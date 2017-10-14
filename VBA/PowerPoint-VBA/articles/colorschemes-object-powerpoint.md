@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ColorSchemes Object (PowerPoint)
 
-A collection of all the  **[ColorScheme](colorscheme-object-powerpoint.md)** objects in the specified presentation. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used together on a slide.
+A collection of all the **[ColorScheme](colorscheme-object-powerpoint.md)** objects in the specified presentation. Each **ColorScheme** object represents a color scheme, which is a set of colors that are used together on a slide.
 
 
 ## Example
 
-Use the [ColorSchemes](presentation-colorschemes-property-powerpoint.md)property to return the  **ColorSchemes** collection. Use **ColorSchemes** (index), where index is the color scheme index number, to return a single **ColorScheme** object. The following example deletes color scheme two from the active presentation.
+Use the [ColorSchemes](presentation-colorschemes-property-powerpoint.md)property to return the **ColorSchemes** collection. Use **ColorSchemes** (index), where index is the color scheme index number, to return a single **ColorScheme** object. The following example deletes color scheme two from the active presentation.
 
 
 ```vb
 ActivePresentation.ColorSchemes(2).Delete
 ```
 
-Use the [Add](colorschemes-add-method-powerpoint.md)method to create a new color scheme and add it to the  **ColorSchemes** collection. The following example adds a color scheme to the active presentation and sets the title color and background color for the color scheme (because no argument was used with the **Add** method, the added color scheme is initially identical to the first standard color scheme in the presentation).
+Use the [Add](colorschemes-add-method-powerpoint.md)method to create a new color scheme and add it to the **ColorSchemes** collection. The following example adds a color scheme to the active presentation and sets the title color and background color for the color scheme (because no argument was used with the **Add** method, the added color scheme is initially identical to the first standard color scheme in the presentation).
 
 
 
@@ -40,7 +40,7 @@ With ActivePresentation.ColorSchemes.Add
 End With
 ```
 
-Set the [ColorScheme](slide-colorscheme-property-powerpoint.md)property of a  **Slide**, **SlideRange**, or **Master** object to return the color scheme for one slide, a set of slides, or a master, respectively. The following example sets the color scheme for all the slides in the active presentation to the third color scheme in the presentation.
+Set the [ColorScheme](slide-colorscheme-property-powerpoint.md)property of a **Slide**, **SlideRange**, or **Master** object to return the color scheme for one slide, a set of slides, or a master, respectively. The following example sets the color scheme for all the slides in the active presentation to the third color scheme in the presentation.
 
 
 

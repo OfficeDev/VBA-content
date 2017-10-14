@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Left Property (Word)
 
-Returns or sets a  **Single** that represents the horizontal position, measured in points, of the specified shape or shape range. Can also be any valid **[WdShapePosition](wdshapeposition-enumeration-word.md)** constant. Read/write.
+Returns or sets a **Single** that represents the horizontal position, measured in points, of the specified shape or shape range. Can also be any valid **[WdShapePosition](wdshapeposition-enumeration-word.md)** constant. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that represents the horizontal position, measured 
 
 ## Remarks
 
-The position of a shape is measured from the upper-left corner of the shape's bounding box to the shape's anchor. The  **RelativeHorizontalPosition** property controls whether the anchor is positioned alongside a character, column, margin, or the edge of the page.
+The position of a shape is measured from the upper-left corner of the shape's bounding box to the shape's anchor. The **RelativeHorizontalPosition** property controls whether the anchor is positioned alongside a character, column, margin, or the edge of the page.
 
 
 ## Example

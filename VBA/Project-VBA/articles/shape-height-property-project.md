@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Height Property (Project)
-Gets or sets the height of the shape, in points. Read-write  **Single**.
+Gets or sets the height of the shape, in points. Read-write **Single**.
 
 ## Syntax
 

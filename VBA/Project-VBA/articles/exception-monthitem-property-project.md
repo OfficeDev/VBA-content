@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.MonthItem Property (Project)
 
-Gets or sets the day of the week value for a monthly type of exception. Read/write  **PjExceptionItem**.
+Gets or sets the day of the week value for a monthly type of exception. Read/write **PjExceptionItem**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the day of the week value for a monthly type of exception. Read/wri
 
 ## Remarks
 
-The  **MonthItem** property can be one of the following **[PjExceptionItem](pjexceptionitem-enumeration-project.md)** contants: **pjSunday**, **pjMonday**, **pjTuesday**, **pjWednesday**, **pjThursday**, **pjFriday**, and **pjSaturday**.
+The **MonthItem** property can be one of the following **[PjExceptionItem](pjexceptionitem-enumeration-project.md)** contants: **pjSunday**, **pjMonday**, **pjTuesday**, **pjWednesday**, **pjThursday**, **pjFriday**, and **pjSaturday**.
 
 
 ## See also

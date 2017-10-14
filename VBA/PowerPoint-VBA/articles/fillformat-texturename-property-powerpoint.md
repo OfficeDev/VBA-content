@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-This property is read-only. Use the  **[UserTextured](fillformat-usertextured-method-powerpoint.md)** method to set the texture file for the fill.
+This property is read-only. Use the **[UserTextured](fillformat-usertextured-method-powerpoint.md)** method to set the texture file for the fill.
 
 
 ## Example

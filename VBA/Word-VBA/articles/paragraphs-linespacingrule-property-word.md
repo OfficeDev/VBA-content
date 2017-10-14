@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.LineSpacingRule Property (Word)
 
-Returns or sets the line spacing for the specified paragraphs. Read/write  **WdLineSpacing** .
+Returns or sets the line spacing for the specified paragraphs. Read/write **WdLineSpacing** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the line spacing for the specified paragraphs. Read/write  **WdL
 
 ## Remarks
 
-Use  **wdLineSpaceSingle** , **wdLineSpace1pt5** , or **wdLineSpaceDouble** to set the line spacing to one of these values. To set the line spacing to an exact number of points or to a multiple number of lines, you must also set the **[LineSpacing](paragraphs-linespacing-property-word.md)** property.
+Use **wdLineSpaceSingle** , **wdLineSpace1pt5** , or **wdLineSpaceDouble** to set the line spacing to one of these values. To set the line spacing to an exact number of points or to a multiple number of lines, you must also set the **[LineSpacing](paragraphs-linespacing-property-word.md)** property.
 
 
 ## Example

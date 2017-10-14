@@ -46,12 +46,12 @@ The  _NestedOptions_ parameter must be one of the following **VisContainerNested
 |:-----|:-----|:-----|
 | **visContainerIncludeNested**|0|Include shapes that are in nested containers.|
 | **visContainerExcludeNested**|1|Exclude shapes that are in nested containers.|
-You can use the  **[Shapes.ItemFromID](shapes-itemfromid-property-visio.md)** property to get the actual shapes from the IDs returned by **GetContainers** .
+You can use the **[Shapes.ItemFromID](shapes-itemfromid-property-visio.md)** property to get the actual shapes from the IDs returned by **GetContainers** .
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **GetContainers** method to get the IDs of all the containers on a page, loop through those containers, and print each container name in the **Immediate** window. The example includes nested containers.
+The following Visual Basic for Applications (VBA) example shows how to use the **GetContainers** method to get the IDs of all the containers on a page, loop through those containers, and print each container name in the **Immediate** window. The example includes nested containers.
 
 
 ```vb

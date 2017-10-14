@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **UpdateLinksOnSave** property ensures that the links are up-to-date at the time the document is saved. The default value for the **UpdateLinksOnSave** property is **True** .
+The **UpdateLinksOnSave** property ensures that the links are up-to-date at the time the document is saved. The default value for the **UpdateLinksOnSave** property is **True** .
 
-A value of  **False** indicates that the links are not updated. You should set this property to **False** if the location where the document is saved is different from the final location on the Web server and the supporting files are not available at the first location.
+A value of **False** indicates that the links are not updated. You should set this property to **False** if the location where the document is saved is different from the final location on the Web server and the supporting files are not available at the first location.
 
 
 ## Example

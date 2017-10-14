@@ -18,7 +18,7 @@ Returns or sets the amount of separation, in points, of the reflected image from
 
  _expression_. **Offset**
 
- _expression_A variable that represents a  **ReflectionFormat** object.
+ _expression_A variable that represents a **ReflectionFormat** object.
 
 
 ## Return value

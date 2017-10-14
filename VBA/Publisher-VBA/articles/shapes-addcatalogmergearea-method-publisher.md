@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddCatalogMergeArea Method (Publisher)
 
-Adds a  **Shape** object that represents the specified publication's catalog merge area.
+Adds a **Shape** object that represents the specified publication's catalog merge area.
 
 
 ## Syntax
 
  _expression_. **AddCatalogMergeArea**
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Return Value
@@ -37,15 +37,15 @@ Although you can add one catalog merge area per publication page, you can only c
 
  **Note**  You must add a catalog merge area to the publication page before you connect to a data source.
 
-Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area.
+Use the **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area.
 
-Use the  **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection to add a picture data field to a publication's catalog merge area.
+Use the **[Insert](mailmergedatafield-insert-method-publisher.md)** method of the **[MailMergeDataFields](mailmergedatafields-object-publisher.md)** collection to add a picture data field to a publication's catalog merge area.
 
-Use the  **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
+Use the **[InsertMailMergeField](textrange-insertmailmergefield-method-publisher.md)** method of the **[TextRange](textrange-object-publisher.md)** object to add a text data field to a text box in the publication's catalog merge area.
 
-Use the  **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** object to remove a catalog merge area from a publication.
+Use the **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** object to remove a catalog merge area from a publication.
 
-This method corresponds to selecting a catalog merge in  **Step 1: Select a merge type** of the **Mail and Catalog Merge Wizard**.
+This method corresponds to selecting a catalog merge in **Step 1: Select a merge type** of the **Mail and Catalog Merge Wizard**.
 
 
 ## Example

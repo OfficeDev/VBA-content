@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.HeadersFooters Property (PowerPoint)
 
-Returns a  **[HeadersFooters](headersfooters-object-powerpoint.md)** collection that represents the header, footer, date and time, and slide number associated with the specified custom layout.
+Returns a **[HeadersFooters](headersfooters-object-powerpoint.md)** collection that represents the header, footer, date and time, and slide number associated with the specified custom layout.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.DistanceFromRight Property (Word)
 
-Returns or sets the space (in points) between the right edge of the text and the right border. Read/write  **Long** .
+Returns or sets the space (in points) between the right edge of the text and the right border. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the space (in points) between the right edge of the text and the
 
 ## Remarks
 
-Using this property with a page border, you can set either the space between the text and the right border or the space between the right edge of the page and the right border. Where the distance is measured from depends on the value of the  **[DistanceFrom](borders-distancefrom-property-word.md)** property.
+Using this property with a page border, you can set either the space between the text and the right border or the space between the right edge of the page and the right border. Where the distance is measured from depends on the value of the **[DistanceFrom](borders-distancefrom-property-word.md)** property.
 
 
 ## Example

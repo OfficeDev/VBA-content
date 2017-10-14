@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRuleCondition.Text Property (Outlook)
 
-Returns or sets an array of  **String** elements that represents the text to be evaluated by the rule condition. Read/write.
+Returns or sets an array of **String** elements that represents the text to be evaluated by the rule condition. Read/write.
 
 
 ## Syntax

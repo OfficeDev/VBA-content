@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TextLineEnding Property (Word)
 
-Returns or sets a  **WdLineEndingType** constant indicating how Microsoft Word marks the line and paragraph breaks in documents saved as text files. Read/write.
+Returns or sets a **WdLineEndingType** constant indicating how Microsoft Word marks the line and paragraph breaks in documents saved as text files. Read/write.
 
 
 ## Syntax

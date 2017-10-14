@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.SenderName Property (Outlook)
 
-Returns a  **String** indicating the display name of the sender for the Outlook item. Read-only.
+Returns a **String** indicating the display name of the sender for the Outlook item. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **String** indicating the display name of the sender for the Outlook 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderName** .
+This property corresponds to the MAPI property **PidTagSenderName** .
 
-If you wish to retrieve the fully qualified e-mail address of the sender, use the  **[SenderEmailAddress](postitem-senderemailaddress-property-outlook.md)** property.
+If you wish to retrieve the fully qualified e-mail address of the sender, use the **[SenderEmailAddress](postitem-senderemailaddress-property-outlook.md)** property.
 
 
 ## See also

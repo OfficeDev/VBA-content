@@ -30,6 +30,6 @@ Returns the ID of the page that is associated with the validation issue. Read-on
 
 ## Remarks
 
-If the issue is not associated with a specific page, the  **TargetPageID** property returns -1.
+If the issue is not associated with a specific page, the **TargetPageID** property returns -1.
 
 

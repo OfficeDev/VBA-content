@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Assignments Property (Project)
 
-Gets an  **[Assignments](assignment-object-project.md)** collection representing the assignments for the task. Read-only **Assignments**.
+Gets an **[Assignments](assignment-object-project.md)** collection representing the assignments for the task. Read-only **Assignments**.
 
 
 ## Syntax

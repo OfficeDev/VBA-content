@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ActualFinish Property (Project)
 
-Gets or sets the actual finish date of an assignment. Read/write  **Variant**.
+Gets or sets the actual finish date of an assignment. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the actual finish date of an assignment. Read/write  **Variant**.
 
 ## Remarks
 
-For an example that sets the actual finish date of a task, see the  **[ActualFinish](task-actualfinish-property-project.md)** property for the **Task** object.
+For an example that sets the actual finish date of a task, see the **[ActualFinish](task-actualfinish-property-project.md)** property for the **Task** object.
 
 

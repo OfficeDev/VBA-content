@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocument.Open Method (Word)
 
-Opens the specified subdocument. Returns a  **Document** object that represents the opened subdocument.
+Opens the specified subdocument. Returns a **Document** object that represents the opened subdocument.
 
 
 ## Syntax

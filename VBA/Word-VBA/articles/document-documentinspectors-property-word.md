@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DocumentInspectors Property (Word)
 
-Returns a  **DocumentInspectors** collection that enables you to locate hidden personal information, such as author name, company name, and revision date. Read-only.
+Returns a **DocumentInspectors** collection that enables you to locate hidden personal information, such as author name, company name, and revision date. Read-only.
 
 
 ## Syntax

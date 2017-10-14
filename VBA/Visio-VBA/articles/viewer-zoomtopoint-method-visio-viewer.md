@@ -15,9 +15,9 @@ Resizes the drawing that is open in Microsoft Visio Viewer to the specified perc
 
 ## Syntax
 
- _expression_. **ZoomToPoint**( **_X_**,  **_Y_**,  **_Percentage_**)
+ _expression_. **ZoomToPoint**( **_X_**, **_Y_**, **_Percentage_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters

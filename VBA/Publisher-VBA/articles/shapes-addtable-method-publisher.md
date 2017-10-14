@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddTable Method (Publisher)
 
-Adds a new  **Shape** object representing a table to the specified **Shapes** collection.
+Adds a new **Shape** object representing a table to the specified **Shapes** collection.
 
 
 ## Syntax
 
- _expression_. **AddTable**( **_NumRows_**,  **_NumColumns_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_FixedSize_**,  **_Direction_**)
+ _expression_. **AddTable**( **_NumRows_**, **_NumColumns_**, **_Left_**, **_Top_**, **_Width_**, **_Height_**, **_FixedSize_**, **_Direction_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -47,7 +47,7 @@ Shape
 
 For the Left, Top, Width, and Height arguments, numeric values are evaluated in points; strings can be in any units supported by Publisher (for example, "2.5 in").
 
-The Direction parameter can be one of the  **PbTableDirectionType** constants declared in the Microsoft Publisher type library and shown in the following table.
+The Direction parameter can be one of the **PbTableDirectionType** constants declared in the Microsoft Publisher type library and shown in the following table.
 
 
 

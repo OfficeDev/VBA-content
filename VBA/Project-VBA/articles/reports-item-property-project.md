@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Reports.Item Property (Project)
-Gets a single  **Report** object from the **Reports** collection. Read-only **Report**.
+Gets a single **Report** object from the **Reports** collection. Read-only **Report**.
 
 ## Syntax
 
@@ -26,7 +26,7 @@ Gets a single  **Report** object from the **Reports** collection. Read-only **Re
 
 ## Remarks
 
-To get the index number of a report, you can use the [Report.Index](report-index-property-project.md) property. For example, create a report namedReport 1, and then run the following statement in the  **Immediate** window of the VBE:
+To get the index number of a report, you can use the [Report.Index](report-index-property-project.md) property. For example, create a report namedReport 1, and then run the following statement in the **Immediate** window of the VBE:
 
 
 ```vb

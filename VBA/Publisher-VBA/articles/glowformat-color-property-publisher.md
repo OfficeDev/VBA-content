@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # GlowFormat.Color Property (Publisher)
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object that represents the color for a glow effect. Read-only.
+Returns a **[ColorFormat](colorformat-object-publisher.md)** object that represents the color for a glow effect. Read-only.
 
 
 ## Syntax
 
  _expression_. **Color**
 
- _expression_A variable that represents a  **GlowFormat** object.
+ _expression_A variable that represents a **GlowFormat** object.
 
 
 ## Return value

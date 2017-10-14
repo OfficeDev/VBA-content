@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # Documents Object (Word)
 
-A collection of all the  **[Document](document-object-word.md)** objects that are currently open in Word.
+A collection of all the **[Document](document-object-word.md)** objects that are currently open in Word.
 
 
 ## Remarks
 
-Use the  **Documents** property to return the **Documents** collection. The following example displays the names of the open documents.
+Use the **Documents** property to return the **Documents** collection. The following example displays the names of the open documents.
 
 
 ```vb
@@ -23,7 +23,7 @@ Next aDoc
 MsgBox aName
 ```
 
-Use the  **[Add](documents-add-method-word.md)** method to create a new empty document and add it to the **Documents** collection. The following example creates a new document based on the Normal template.
+Use the **[Add](documents-add-method-word.md)** method to create a new empty document and add it to the **Documents** collection. The following example creates a new document based on the Normal template.
 
 
 
@@ -32,7 +32,7 @@ Use the  **[Add](documents-add-method-word.md)** method to create a new empty do
 Documents.Add
 ```
 
-Use the  **[Open](documents-open-method-word.md)** method to open a file. The following example opens the document named "Sales.doc."
+Use the **[Open](documents-open-method-word.md)** method to open a file. The following example opens the document named "Sales.doc."
 
 
 
@@ -41,7 +41,7 @@ Use the  **[Open](documents-open-method-word.md)** method to open a file. The fo
 Documents.Open FileName:="C:\My Documents\Sales.doc"
 ```
 
-Use  **[Documents](application-documents-property-word.md)** (Index), where Index is the document name or index number to return a single **Document** object. The following instruction closes the document named "Report.doc" without saving changes.
+Use **[Documents](application-documents-property-word.md)** (Index), where Index is the document name or index number to return a single **Document** object. The following instruction closes the document named "Report.doc" without saving changes.
 
 
 
@@ -50,7 +50,7 @@ Use  **[Documents](application-documents-property-word.md)** (Index), where Inde
 Documents("Report.doc").Close SaveChanges:=wdDoNotSaveChanges
 ```
 
-The index number represents the position of the document in the  **Documents** collection. The following example activates the first document in the **Documents** collection.
+The index number represents the position of the document in the **Documents** collection. The following example activates the first document in the **Documents** collection.
 
 
 
@@ -59,7 +59,7 @@ The index number represents the position of the document in the  **Documents** c
 Documents(1).Activate
 ```
 
-The following example enumerates the  **Documents** collection to determine whether the document named "Report.doc" is open. If this document is contained in the **Documents** collection, the document is activated; otherwise, it is opened.
+The following example enumerates the **Documents** collection to determine whether the document named "Report.doc" is open. If this document is contained in the **Documents** collection, the document is activated; otherwise, it is opened.
 
 
 

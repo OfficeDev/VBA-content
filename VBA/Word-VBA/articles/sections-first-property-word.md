@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sections.First Property (Word)
 
-Returns a  **[Section](section-object-word.md)** object that represents the first item in the **Sections** collection.
+Returns a **[Section](section-object-word.md)** object that represents the first item in the **Sections** collection.
 
 
 ## Syntax

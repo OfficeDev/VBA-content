@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.ProjectBeforePrint2 Event (Project)
 
-Occurs before a project is printed. Uses the  **EventInfo** object parameter.
+Occurs before a project is printed. Uses the **EventInfo** object parameter.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Occurs before a project is printed. Uses the  **EventInfo** object parameter.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project to be printed.|
-| _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be printed.|
+| _Info_|Required|**EventInfo**|EventInfo.Cancel is **False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be printed.|
 
 ### Return Value
 

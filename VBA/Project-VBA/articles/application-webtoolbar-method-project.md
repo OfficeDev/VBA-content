@@ -38,8 +38,8 @@ Shows or hides the Web toolbar. Obsolete in Project.
 
 ## Remarks
 
-Project does not use toolbars; the  **WebToolbar** method has no effect.
+Project does not use toolbars; the **WebToolbar** method has no effect.
 
-You can create a custom group on a tab in the ribbon that includes commands for web pages. For example, open the  **Project Options** dialog box, choose **Customize Ribbon**, and then create a new group in a tab. Add commands such as  **Back**,  **Forward**,  **Stop**,  **Refresh**,  **Start Page**,  **Search the Web**, and  **Open Hyperlink**.
+You can create a custom group on a tab in the ribbon that includes commands for web pages. For example, open the **Project Options** dialog box, choose **Customize Ribbon**, and then create a new group in a tab. Add commands such as **Back**, **Forward**, **Stop**, **Refresh**, **Start Page**, **Search the Web**, and **Open Hyperlink**.
 
 

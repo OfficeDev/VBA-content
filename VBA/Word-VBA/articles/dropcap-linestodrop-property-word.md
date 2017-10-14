@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DropCap.LinesToDrop Property (Word)
 
-Returns or sets the height (in lines) of the specified dropped capital letter. Read/write  **Long** .
+Returns or sets the height (in lines) of the specified dropped capital letter. Read/write **Long** .
 
 
 ## Syntax

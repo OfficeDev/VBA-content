@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.SplitSpecial Property (Word)
 
-Returns or sets the active window pane. Read/write  **WdSpecialPane** .
+Returns or sets the active window pane. Read/write **WdSpecialPane** .
 
 
 ## Syntax

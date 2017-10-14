@@ -30,6 +30,6 @@ Paints the formatting of the selected object onto another object.
 
 ## Remarks
 
-The  **FormatPainter** method requires user interaction before additional code can be executed.
+The **FormatPainter** method requires user interaction before additional code can be executed.
 
 

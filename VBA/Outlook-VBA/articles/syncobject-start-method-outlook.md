@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SyncObject.Start Method (Outlook)
 
-Begins synchronizing a user's folders using the specified  **Send\Receive** group.
+Begins synchronizing a user's folders using the specified **Send\Receive** group.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Begins synchronizing a user's folders using the specified  **Send\Receive** grou
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example displays all the  **Send\Receive** groups set up for the user and starts the synchronization based on user's response.
+This Microsoft Visual Basic for Applications (VBA) example displays all the **Send\Receive** groups set up for the user and starts the synchronization based on user's response.
 
 
 ```vb

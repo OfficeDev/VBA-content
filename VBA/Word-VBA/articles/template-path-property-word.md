@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.Path Property (Word)
 
-Returns the path to the specified document template. Read-only  **String** .
+Returns the path to the specified document template. Read-only **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the path to the specified document template. Read-only  **String** .
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the  **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](template-name-property-word.md)** property to return the file name without the path and use the **[FullName](template-fullname-property-word.md)** property to return the file name and the path together.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](template-name-property-word.md)** property to return the file name without the path and use the **[FullName](template-fullname-property-word.md)** property to return the file name and the path together.
 
 
 ## See also

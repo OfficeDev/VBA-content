@@ -25,7 +25,7 @@ Returns a collection of legend entries for the legend.
 
 ### Return Value
 
-A  **[LegendEntries](legendentries-object-word.md)** object that represents the legend entries for the legend.
+A **[LegendEntries](legendentries-object-word.md)** object that represents the legend entries for the legend.
 
 
 ## Example

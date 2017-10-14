@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 
 # TabStops Object (Word)
 
-A collection of  **[TabStop](tabstop-object-word.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
+A collection of **[TabStop](tabstop-object-word.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
 
 
 ## Remarks
 
-Use the  **TabStops** property to return the **TabStops** collection. The following example clears all the custom tab stops from the first paragraph in the active document.
+Use the **TabStops** property to return the **TabStops** collection. The following example clears all the custom tab stops from the first paragraph in the active document.
 
 
 ```vb
 ActiveDocument.Paragraphs(1).TabStops.ClearAll
 ```
 
-The following example adds a tab stop positioned at 2.5 inches to the selected paragraphs and then displays the position of each item in the  **TabStops** collection.
+The following example adds a tab stop positioned at 2.5 inches to the selected paragraphs and then displays the position of each item in the **TabStops** collection.
 
 
 
@@ -36,7 +36,7 @@ For Each aTab In Selection.Paragraphs.TabStops
 Next aTab
 ```
 
-Use the  **Add** method to add a tab stop. The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
+Use the **Add** method to add a tab stop. The following example adds two tab stops to the selected paragraphs. The first tab stop is a left-aligned tab with a dotted tab leader positioned at 1 inch (72 points). The second tab stop is centered and is positioned at 2 inches.
 
 
 
@@ -49,7 +49,7 @@ With Selection.Paragraphs.TabStops
 End With
 ```
 
-You can also add a tab stop by specifying a location with the  **TabStops** property. The following example adds a right-aligned tab stop positioned at 2 inches to the selected paragraphs.
+You can also add a tab stop by specifying a location with the **TabStops** property. The following example adds a right-aligned tab stop positioned at 2 inches to the selected paragraphs.
 
 
 
@@ -59,7 +59,7 @@ Selection.Paragraphs.TabStops(InchesToPoints(2)) _
  .Alignment = wdAlignTabRight
 ```
 
-Use  **TabStops** (Index), where Index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active document.
+Use **TabStops** (Index), where Index is the location of the tab stop (in points) or the index number, to return a single **TabStop** object. Tab stops are indexed numerically from left to right along the ruler. The following example removes the first custom tab stop from the first paragraph in the active document.
 
 
 
@@ -78,7 +78,7 @@ Selection.Paragraphs.TabStops(InchesToPoints(2)) _
  .Alignment = wdAlignTabRight
 ```
 
-When working with the  **Paragraphs** collection (or a range with several paragraphs), you must modify each paragraph in the collection individually if the tab stops aren't identical in all the paragraphs. The following example removes the tab positioned at 1 inch from every paragraph in the active document.
+When working with the **Paragraphs** collection (or a range with several paragraphs), you must modify each paragraph in the collection individually if the tab stops aren't identical in all the paragraphs. The following example removes the tab positioned at 1 inch from every paragraph in the active document.
 
 
 

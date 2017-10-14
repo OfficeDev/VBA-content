@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Footnote.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that's contained within the footnote.
+Returns a **Range** object that represents the portion of a document that's contained within the footnote.
 
 
 ## Syntax

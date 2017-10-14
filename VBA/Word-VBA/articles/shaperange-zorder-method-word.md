@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-Use the  **[ZOrderPosition](shaperange-zorderposition-property-word.md)** property to determine a shape range's current position in the z-order.
+Use the **[ZOrderPosition](shaperange-zorderposition-property-word.md)** property to determine a shape range's current position in the z-order.
 
 
 ## See also

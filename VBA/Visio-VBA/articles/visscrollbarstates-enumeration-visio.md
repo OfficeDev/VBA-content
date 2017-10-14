@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisScrollbarStates Enumeration (Visio)
 
-Constants passed to and returned by the  **Window.ShowScrollBars** property.
+Constants passed to and returned by the **Window.ShowScrollBars** property.
 
 
 

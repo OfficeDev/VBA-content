@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathScrPre.Sup Property (Word)
 
-Returns an  **[OMath](omath-object-word.md)** object that represents the superscript for a pre-sub-superscript object. Read-only.
+Returns an **[OMath](omath-object-word.md)** object that represents the superscript for a pre-sub-superscript object. Read-only.
 
 
 ## Syntax

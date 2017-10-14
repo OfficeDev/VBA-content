@@ -31,17 +31,17 @@ Permission
 
 ## Remarks
 
-Use the  **Permission** object to restrict permissions to the active document and to return or set specific permissions settings.
+Use the **Permission** object to restrict permissions to the active document and to return or set specific permissions settings.
 
-Use the  **Enabled** property to determine whether permissions are restricted on the active document. Use the **Count** property to return the number of users with permissions, and the **RemoveAll** method to reset all existing permissions.
+Use the **Enabled** property to determine whether permissions are restricted on the active document. Use the **Count** property to return the number of users with permissions, and the **RemoveAll** method to reset all existing permissions.
 
-The  **DocumentAuthor**, **EnableTrustedBrowser**, **RequestPermissionURL**, and **StoreLicenses** properties provide additional information about permission settings.
+The **DocumentAuthor**, **EnableTrustedBrowser**, **RequestPermissionURL**, and **StoreLicenses** properties provide additional information about permission settings.
 
-The  **Permission** object gives access to a collection of **UserPermission** objects. Use the **UserPermission** object to associate specific sets of rights with individual users. While some permissions granted in the user interface (such as **msoPermissionPrint** ) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
+The **Permission** object gives access to a collection of **UserPermission** objects. Use the **UserPermission** object to associate specific sets of rights with individual users. While some permissions granted in the user interface (such as **msoPermissionPrint** ) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
 
-Information Rights Management supports the use of administrative permission policies, which list users and groups and their document permissions. Use the  **ApplyPolicy** method to apply a permission policy, and the **PermissionFromPolicy**, **PolicyName**, and **PolicyDescription** properties to return policy information.
+Information Rights Management supports the use of administrative permission policies, which list users and groups and their document permissions. Use the **ApplyPolicy** method to apply a permission policy, and the **PermissionFromPolicy**, **PolicyName**, and **PolicyDescription** properties to return policy information.
 
-The  **Permission** object model is available whether permissions are restricted on the active document or not. The **Permission** property of the **Presentation** object does not return **Nothing** when the active document does not have restricted permissions. Use the **Enabled** property to determine whether a document has restricted permissions.
+The **Permission** object model is available whether permissions are restricted on the active document or not. The **Permission** property of the **Presentation** object does not return **Nothing** when the active document does not have restricted permissions. Use the **Enabled** property to determine whether a document has restricted permissions.
 
 
 ## Example

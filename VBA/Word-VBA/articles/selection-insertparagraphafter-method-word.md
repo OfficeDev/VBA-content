@@ -41,7 +41,7 @@ With Selection
 End With
 ```
 
-This example inserts a paragraph at the end of the active document. The  **Content** property returns a **Range** object.
+This example inserts a paragraph at the end of the active document. The **Content** property returns a **Range** object.
 
 
 

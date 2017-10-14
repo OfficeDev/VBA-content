@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey.PictureUnit2 Property (Word)
 
-Returns or sets the unit for each picture on the chart if the  **[PictureType](legendkey-picturetype-property-word.md)** property is set to **xlStackScale** ; otherwise, this property is ignored. Read/write **Double** .
+Returns or sets the unit for each picture on the chart if the **[PictureType](legendkey-picturetype-property-word.md)** property is set to **xlStackScale** ; otherwise, this property is ignored. Read/write **Double** .
 
 
 ## Syntax

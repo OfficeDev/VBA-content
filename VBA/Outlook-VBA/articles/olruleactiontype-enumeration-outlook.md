@@ -37,7 +37,7 @@ Specifies the type of rule action for a rule.
 | **olRuleActionMarkAsTask**|41|Rule action is to mark the message as a task.|
 | **olRuleActionMarkRead**|19|Rule action is to mark the message as read.|
 | **olRuleActionMoveToFolder**|1|Rule action is to move the message to the specified folder.|
-| **olRuleActionNewItemAlert**|23|Rule action is to display the specified text in the  **New Item Alert** dialog box.|
+| **olRuleActionNewItemAlert**|23|Rule action is to display the specified text in the **New Item Alert** dialog box.|
 | **olRuleActionNotifyDelivery**|26|Rule action is to request delivery notification for the message being sent.|
 | **olRuleActionNotifyRead**|25|Rule action is to request read notification for the message being sent.|
 | **olRuleActionPlaySound**|17|Rule action is to play a sound file.|

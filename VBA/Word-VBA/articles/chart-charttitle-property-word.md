@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartTitle Property (Word)
 
-Returns the title of the specified chart. Read-only  **[ChartTitle](charttitle-object-word.md)** .
+Returns the title of the specified chart. Read-only **[ChartTitle](charttitle-object-word.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the title of the specified chart. Read-only  **[ChartTitle](charttitle-o
 
 ## Remarks
 
-The  **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](chart-hastitle-property-word.md)** property for the chart is **True** .
+The **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](chart-hastitle-property-word.md)** property for the chart is **True** .
 
 
 ## Example

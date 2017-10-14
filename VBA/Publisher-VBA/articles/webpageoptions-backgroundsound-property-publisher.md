@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebPageOptions.BackgroundSound Property (Publisher)
 
-Returns or sets a  **String** that specifies the path to a sound file that is played when the Web page is loaded in a Web browser. Read/write.
+Returns or sets a **String** that specifies the path to a sound file that is played when the Web page is loaded in a Web browser. Read/write.
 
 
 ## Syntax
 
  _expression_. **BackgroundSound**
 
- _expression_A variable that represents a  **WebPageOptions** object.
+ _expression_A variable that represents a **WebPageOptions** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ String
 
 The path to the background sound file must be a network path or a local path; an http:// address will not work.
 
-If  **BackgroundSound** is specified, the background sound will play once by default. The **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** method can be used to specify whether the background sound should be played infinitely, and if it should not, to specify the number of times the background sound file should be played.
+If **BackgroundSound** is specified, the background sound will play once by default. The **[SetBackgroundSoundRepeat](webpageoptions-setbackgroundsoundrepeat-method-publisher.md)** method can be used to specify whether the background sound should be played infinitely, and if it should not, to specify the number of times the background sound file should be played.
 
 The background sound can be any of the following file types:
 

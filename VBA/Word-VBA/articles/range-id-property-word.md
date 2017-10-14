@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ID Property (Word)
 
-Returns or sets the identification name for the specified range. Read/write  **String** .
+Returns or sets the identification name for the specified range. Read/write **String** .
 
 
 ## Syntax

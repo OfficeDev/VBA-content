@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FontNames.Count Property (Word)
 
-Returns a  **Long** that represents the number of font names in the collection. Read-only **Long** .
+Returns a **Long** that represents the number of font names in the collection. Read-only **Long** .
 
 
 ## Syntax

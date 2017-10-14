@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.LockUserChanges Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
+Returns or sets a **Boolean** value that indicates whether a user can modify the settings of the view. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether a user can modify th
 
 ## Remarks
 
-If  **True** , the user can modify the settings of the specified view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
+If **True** , the user can modify the settings of the specified view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
 
 
 ## Example

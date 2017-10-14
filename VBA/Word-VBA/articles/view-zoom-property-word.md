@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.Zoom Property (Word)
 
-Returns a  **[Zoom](zoom-object-word.md)** object that represents the magnification for the specified view.
+Returns a **[Zoom](zoom-object-word.md)** object that represents the magnification for the specified view.
 
 
 ## Syntax

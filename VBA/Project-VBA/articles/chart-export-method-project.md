@@ -24,7 +24,7 @@ Exports a chart in a graphic file format.
 |:-----|:-----|:-----|:-----|
 | _bstr_|Required|**String**|The path and name of the exported file.|
 | _varFilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry ( `HKLM\\SOFTWARE\Wow6432Node\Microsoft\Shared Tools\Graphics Filters`).|
-| _varInteractive_|Optional|**Variant**|**True** to display the dialog box that contains the filter-specific options, if any. If _varInteractive_ is **False**, Project uses the default values for the filter. The default value is  **False**.|
+| _varInteractive_|Optional|**Variant**|**True** to display the dialog box that contains the filter-specific options, if any. If _varInteractive_ is **False**, Project uses the default values for the filter. The default value is **False**.|
 | _bstr_|Required|STRING||
 | _varFilterName_|Optional|VARIANT||
 | _varInteractive_|Optional|VARIANT||
@@ -36,7 +36,7 @@ Exports a chart in a graphic file format.
 
 ## Remarks
 
-The  **Export** method overwrites an existing read/write file of the same name.
+The **Export** method overwrites an existing read/write file of the same name.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.AutoForwarded Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the item was automatically forwarded. Read/write.
+Returns or sets a **Boolean** value that is **True** if the item was automatically forwarded. Read/write.
 
 
 ## Syntax

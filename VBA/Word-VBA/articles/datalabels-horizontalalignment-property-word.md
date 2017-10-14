@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.HorizontalAlignment Property (Word)
 
-Returns or sets the horizontal alignment for the specified object. Read/write  **Variant** .
+Returns or sets the horizontal alignment for the specified object. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,18 +25,18 @@ Returns or sets the horizontal alignment for the specified object. Read/write  *
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[XlConstants](xlconstants-enumeration-word.md)** constants:
+You can set the value of this property to one of the following **[XlConstants](xlconstants-enumeration-word.md)** constants:
 
 
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlLeft**
+- **xlLeft**
     
--  **xlRight**
+- **xlRight**
     
 
 

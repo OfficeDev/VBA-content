@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SyncObject.SyncEnd Event (Outlook)
 
-Occurs immediately after Microsoft Outlook finishes synchronizing a user's folders using the specified  **Send/Receive** group.
+Occurs immediately after Microsoft Outlook finishes synchronizing a user's folders using the specified **Send/Receive** group.
 
 
 ## Syntax

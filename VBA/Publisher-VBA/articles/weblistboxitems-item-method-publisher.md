@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebListBoxItems.Item Method (Publisher)
 
-Returns a  **String** corresponding to the value of a hidden field in a Web form or a list item in a Web list box control.
+Returns a **String** corresponding to the value of a hidden field in a Web form or a list item in a Web list box control.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **WebListBoxItems** object.
+ _expression_A variable that represents a **WebListBoxItems** object.
 
 
 ### Parameters

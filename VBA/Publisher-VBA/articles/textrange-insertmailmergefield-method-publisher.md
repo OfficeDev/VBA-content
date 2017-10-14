@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.InsertMailMergeField Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents a text data field for a mail merge or catalog merge.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents a text data field for a mail merge or catalog merge.
 
 
 ## Syntax
 
  _expression_. **InsertMailMergeField**( **_varIndex_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -43,7 +43,7 @@ For a publication's catalog merge area to contain text data fields, it must firs
 
 ## Example
 
-This example inserts a  **LastName** field at the cursor position. This example assumes that the active publication is a mail merge publication and that the cursor position is somewhere inside a text box.
+This example inserts a **LastName** field at the cursor position. This example assumes that the active publication is a mail merge publication and that the cursor position is somewhere inside a text box.
 
 
 ```vb

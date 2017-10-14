@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Paste Method (Publisher)
 
-Pastes the text on the Clipboard into the specified text range, and returns a  **[TextRange](textrange-object-publisher.md)** object that represents the pasted text.
+Pastes the text on the Clipboard into the specified text range, and returns a **[TextRange](textrange-object-publisher.md)** object that represents the pasted text.
 
 
 ## Syntax
 
  _expression_. **Paste**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

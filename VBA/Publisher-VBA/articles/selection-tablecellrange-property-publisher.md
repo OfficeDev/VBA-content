@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Selection.TableCellRange Property (Publisher)
 
-Returns a  **CellRange** object that represents the cells in a table selection.
+Returns a **CellRange** object that represents the cells in a table selection.
 
 
 ## Syntax
 
  _expression_. **TableCellRange**
 
- _expression_A variable that represents a  **Selection** object.
+ _expression_A variable that represents a **Selection** object.
 
 
 ### Return Value

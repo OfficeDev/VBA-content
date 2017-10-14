@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowView.FirstAnimationIsAutomatic Method (PowerPoint)
 
-Returns  **True** if the current slide has an initial animation that runs automatically.
+Returns **True** if the current slide has an initial animation that runs automatically.
 
 
 ## Syntax

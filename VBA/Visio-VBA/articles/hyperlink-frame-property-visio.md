@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Frame Property (Visio)
 
-Gets or sets the name of an HTML frame in the shape's  **Hyperlink** object. Read/write.
+Gets or sets the name of an HTML frame in the shape's **Hyperlink** object. Read/write.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ String
 
 ## Remarks
 
-Setting the  **Frame** property of a shape's **Hyperlink** object is optional and only applies when a Microsoft Visio instance is open in a browser, for example, Microsoft Internet Explorer 3.0 or later.
+Setting the **Frame** property of a shape's **Hyperlink** object is optional and only applies when a Microsoft Visio instance is open in a browser, for example, Microsoft Internet Explorer 3.0 or later.
 
-Setting the  **Frame** property is equivalent to setting the result of the Frame cell in the shape's Hyperlink. _name_ row.
+Setting the **Frame** property is equivalent to setting the result of the Frame cell in the shape's Hyperlink. _name_ row.
 
 

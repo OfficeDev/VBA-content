@@ -39,7 +39,7 @@ Opens a dynamic data exchange (DDE) channel to another application, and returns 
 
 
 
-If it is successful, the  **DDEInitiate** method returns the number of the open channel. All subsequent DDE functions use this number to specify the channel.
+If it is successful, the **DDEInitiate** method returns the number of the open channel. All subsequent DDE functions use this number to specify the channel.
 
 
 ## Example

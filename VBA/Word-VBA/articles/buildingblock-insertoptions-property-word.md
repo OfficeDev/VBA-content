@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.InsertOptions Property (Word)
 
-Returns or sets a  **Long** that represents how to insert the contents of a building block into a document. Read/write.
+Returns or sets a **Long** that represents how to insert the contents of a building block into a document. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** that represents how to insert the contents of a buil
 
 ## Remarks
 
-The value of the  **InsertOptions** property can be any **[WdDocPartInsertOptions](wddocpartinsertoptions-enumeration-word.md)** constant.
+The value of the **InsertOptions** property can be any **[WdDocPartInsertOptions](wddocpartinsertoptions-enumeration-word.md)** constant.
 
 
 ## See also

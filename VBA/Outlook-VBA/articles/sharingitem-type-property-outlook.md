@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Type Property (Outlook)
 
-Returns or sets an  **[OlSharingMsgType](olsharingmsgtype-enumeration-outlook.md)** constant that indicates the type of sharing message represented by the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
+Returns or sets an **[OlSharingMsgType](olsharingmsgtype-enumeration-outlook.md)** constant that indicates the type of sharing message represented by the **[SharingItem](sharingitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlSharingMsgType](olsharingmsgtype-enumeration-outlook.md
 
 ## Remarks
 
-An error occurs if you attempt to set this property after the sharing message has been sent or received, or if you attempt to set this property to  **olSharingMsgTypeResponseAllow** or **olSharingMsgTypeResponseDeny** .
+An error occurs if you attempt to set this property after the sharing message has been sent or received, or if you attempt to set this property to **olSharingMsgTypeResponseAllow** or **olSharingMsgTypeResponseDeny** .
 
 
 ## See also

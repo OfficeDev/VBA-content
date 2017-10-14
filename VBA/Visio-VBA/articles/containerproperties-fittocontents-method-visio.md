@@ -30,8 +30,8 @@ Forces the container to resize so as to tightly include all member shapes, inclu
 
 ## Remarks
 
-Calling the  **FitToContents** method has no effect on the **[ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property setting for the current session of Microsoft Visio.
+Calling the **FitToContents** method has no effect on the **[ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property setting for the current session of Microsoft Visio.
 
-The  **FitToContents** method does not work for list shapes.
+The **FitToContents** method does not work for list shapes.
 
 

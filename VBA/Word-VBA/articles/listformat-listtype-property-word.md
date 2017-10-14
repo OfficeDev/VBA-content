@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ListType Property (Word)
 
-Returns the type of lists that are contained in the range for the specified  **ListFormat** object. Read-only **WdListType** .
+Returns the type of lists that are contained in the range for the specified **ListFormat** object. Read-only **WdListType** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the type of lists that are contained in the range for the specified  **L
 
 ## Remarks
 
-The constant  **wdListListNumOnly** refers to LISTNUM fields, which are fields that can be added within the text of a paragraph.
+The constant **wdListListNumOnly** refers to LISTNUM fields, which are fields that can be added within the text of a paragraph.
 
 
 ## Example
 
-This example checks to see if the first list in the active document is a simple numbered list. If it is, the fourth list template on the  **Numbered** tab of the **Bullets and Numbering** dialog box ( **Format** menu) is applied.
+This example checks to see if the first list in the active document is a simple numbered list. If it is, the fourth list template on the **Numbered** tab of the **Bullets and Numbering** dialog box ( **Format** menu) is applied.
 
 
 ```vb

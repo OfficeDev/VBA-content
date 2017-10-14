@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.ThreeD Property (Word)
 
-Returns the 3-D-effect formatting properties for the specified chart. Read-only  **[ThreeDFormat](threedformat-object-word.md)** .
+Returns the 3-D-effect formatting properties for the specified chart. Read-only **[ThreeDFormat](threedformat-object-word.md)** .
 
 
 ## Syntax

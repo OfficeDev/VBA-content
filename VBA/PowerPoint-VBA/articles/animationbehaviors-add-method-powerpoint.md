@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehaviors.Add Method (PowerPoint)
 
-Returns an  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object that represents a new animation behavior.
+Returns an **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object that represents a new animation behavior.
 
 
 ## Syntax

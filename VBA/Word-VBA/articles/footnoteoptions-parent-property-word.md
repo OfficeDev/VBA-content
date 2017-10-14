@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FootnoteOptions.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **FootnoteOptions** object.
+Returns an **Object** that represents the parent object of the specified **FootnoteOptions** object.
 
 
 ## Syntax

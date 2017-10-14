@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.LineSpacing Property (Word)
 
-Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the line spacing (in points) for the specified paragraphs. Read/write **Single** .
 
 
 ## Syntax
@@ -25,16 +25,16 @@ Returns or sets the line spacing (in points) for the specified paragraphs. Read/
 
 ## Remarks
 
-Use the  **[LinesToPoints](global-linestopoints-method-word.md)** method to convert a number of lines to the corresponding value in points. For example, `LinesToPoints(2)` returns the value 24.
+Use the **[LinesToPoints](global-linestopoints-method-word.md)** method to convert a number of lines to the corresponding value in points. For example, `LinesToPoints(2)` returns the value 24.
 
-The  **LineSpacing** property can be set after the **[LineSpacingRule](paragraph-linespacingrule-property-word.md)** property has been set to:
+The **LineSpacing** property can be set after the **[LineSpacingRule](paragraph-linespacingrule-property-word.md)** property has been set to:
 
 
--  **wdLineSpaceAtLeast** the line spacing can be greater than or equal to, but never less than, the specified **LineSpacing** value.
+- **wdLineSpaceAtLeast** the line spacing can be greater than or equal to, but never less than, the specified **LineSpacing** value.
     
--  **wdLineSpaceExactly** the line spacing never changes from the specified **LineSpacing** value, even if a larger font is used within the paragraph.
+- **wdLineSpaceExactly** the line spacing never changes from the specified **LineSpacing** value, even if a larger font is used within the paragraph.
     
--  **wdLineSpaceMultiple** a **LineSpacing** property value must be specified, in points.
+- **wdLineSpaceMultiple** a **LineSpacing** property value must be specified, in points.
     
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataRecordset.ID Property (Visio)
 
-Gets the unique identifier of the  **DataRecordset** object assigned by Visio. Read-only.
+Gets the unique identifier of the **DataRecordset** object assigned by Visio. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

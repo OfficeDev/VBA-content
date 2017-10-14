@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabel.NumberStyle Property (Word)
 
-Returns or sets the number style for the  **CaptionLabel** object. Read/write **WdCaptionNumberStyle** .
+Returns or sets the number style for the **CaptionLabel** object. Read/write **WdCaptionNumberStyle** .
 
 
 ## Syntax

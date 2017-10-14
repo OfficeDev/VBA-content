@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Effect.EffectInformation Property (PowerPoint)
 
-Returns an  **[EffectInformation](effectinformation-object-powerpoint.md)** object that represents information for a specified animation effect.
+Returns an **[EffectInformation](effectinformation-object-powerpoint.md)** object that represents information for a specified animation effect.
 
 
 ## Syntax

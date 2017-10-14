@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineNumbering.DistanceFromText Property (Word)
 
-Returns or sets the distance (in points) between the right edge of line numbers and the left edge of the document text. Read/write  **Single** .
+Returns or sets the distance (in points) between the right edge of line numbers and the left edge of the document text. Read/write **Single** .
 
 
 ## Syntax

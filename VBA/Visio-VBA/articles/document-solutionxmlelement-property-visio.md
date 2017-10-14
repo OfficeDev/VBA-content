@@ -49,9 +49,9 @@ The value of  _ElementName_ must match the value of the SolutionXML element's Na
     
 
 
-Because your XML data is validated when you write it, you will typically perform this operation during a  **DocumentSaved** event for performance reasons.
+Because your XML data is validated when you write it, you will typically perform this operation during a **DocumentSaved** event for performance reasons.
 
-At the document level, if the XML data you pass to the  **SolutionXMLElement** property is well formed and contains a valid schema and namespace declaration, it is saved as nested XML within the Microsoft Visio VDX file format. If you pass invalid XML data, Visio converts this data to an XML comment so that the data is not lost. However, if you subsequently load the saved VDX file containing the comment into Visio, the XML comment will be ignored, and consequently the data will be lost.
+At the document level, if the XML data you pass to the **SolutionXMLElement** property is well formed and contains a valid schema and namespace declaration, it is saved as nested XML within the Microsoft Visio VDX file format. If you pass invalid XML data, Visio converts this data to an XML comment so that the data is not lost. However, if you subsequently load the saved VDX file containing the comment into Visio, the XML comment will be ignored, and consequently the data will be lost.
 
 If you put invalid or non-well-formed XML data into a cell, Visio saves it as a string in the cell so that it is not lost and can perhaps later be fixed.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.TimelineViewMode Property (Outlook)
 
-Returns or sets an  **[OlTimelineViewMode](oltimelineviewmode-enumeration-outlook.md)** constant that indicates the view mode for the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlTimelineViewMode](oltimelineviewmode-enumeration-outlook.md)** constant that indicates the view mode for the **[TimelineView](timelineview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlTimelineViewMode](oltimelineviewmode-enumeration-outloo
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example configures the current  **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
+The following Visual Basic for Applications (VBA) example configures the current **TimelineView** object to display Outlook items by month, with week number labels on the lower portion of the timeline scale, with labels no longer than 40 characters.
 
 
 ```vb

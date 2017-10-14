@@ -42,7 +42,7 @@ Nothing
 
 To check in a file, it must be stored in a document library on a computer running Microsoft SharePoint Server or Microsoft SharePoint Foundation.
 
-After the document has been checked in using the  **CheckIn** method, the document is closed. This behavior is different from the user interface; when you check in a document in the user interface, the document is closed and re-opened as read-only.
+After the document has been checked in using the **CheckIn** method, the document is closed. This behavior is different from the user interface; when you check in a document in the user interface, the document is closed and re-opened as read-only.
 
 
 ## Example
@@ -64,7 +64,7 @@ Sub CheckDocIn(varDocCheckIn As Variant)
 End Sub
 ```
 
-To call the preceding  **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
+To call the preceding **CheckDocIn** subroutine, use the following subroutine and replace _servername/workspace/drawing.vdx_ with the path to and name of an actual file located on a Microsoft SharePoint Server computer.
 
 
 

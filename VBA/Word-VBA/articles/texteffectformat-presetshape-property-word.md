@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.PresetShape Property (Word)
 
-Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape** .
+Returns or sets the shape of the specified WordArt. Read/write **MsoPresetTextEffectShape** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextE
 
 ## Remarks
 
-Setting the  **PresetTextEffect** property automatically sets the **PresetShape** property.
+Setting the **PresetTextEffect** property automatically sets the **PresetShape** property.
 
 
 ## Example

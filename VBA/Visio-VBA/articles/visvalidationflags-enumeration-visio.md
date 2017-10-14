@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # VisValidationFlags Enumeration (Visio)
 
-Specifies constants that define special validation behaviors; passed to the  **[Validation.Validate](validation-validate-method-visio.md)** method.
+Specifies constants that define special validation behaviors; passed to the **[Validation.Validate](validation-validate-method-visio.md)** method.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visValidationDefault**|0|Validate document, and if validation issues are found, open the  **Issues** window.|
-| **visValidationNoOpenWindow**|1|Validate document, but do not open the  **Issues** window.|
+| **visValidationDefault**|0|Validate document, and if validation issues are found, open the **Issues** window.|
+| **visValidationNoOpenWindow**|1|Validate document, but do not open the **Issues** window.|
 

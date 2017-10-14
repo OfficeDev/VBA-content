@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Presentation.ChartDataPointTrack Property (PowerPoint)
 
-Returns or sets a  **Boolean** that specifies whether charts use cell-reference data-point tracking. Read-write.
+Returns or sets a **Boolean** that specifies whether charts use cell-reference data-point tracking. Read-write.
 
 
 ## Syntax

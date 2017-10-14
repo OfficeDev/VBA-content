@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailingLabel.CustomLabels Property (Word)
 
-Returns a  **[CustomLabels](customlabels-object-word.md)** collection that represents the available custom mailing labels. Read-only.
+Returns a **[CustomLabels](customlabels-object-word.md)** collection that represents the available custom mailing labels. Read-only.
 
 
 ## Syntax

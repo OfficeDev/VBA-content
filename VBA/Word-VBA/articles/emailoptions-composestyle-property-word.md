@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.ComposeStyle Property (Word)
 
-Returns a  **[Style](style-object-word.md)** object that represents the style used to compose new e-mail messages. Read-only.
+Returns a **[Style](style-object-word.md)** object that represents the style used to compose new e-mail messages. Read-only.
 
 
 ## Syntax

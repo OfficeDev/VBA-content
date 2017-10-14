@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindows.Open Method (PowerPoint)
 
-Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindows** collection.
+Open and return a **ProtectedViewWindow** object from the **ProtectedViewWindows** collection.
 
 
 ## Syntax

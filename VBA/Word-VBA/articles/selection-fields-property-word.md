@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Fields Property (Word)
 
-Returns a read-only  **[Fields](fields-object-word.md)** collection that represents all the fields in the selection.
+Returns a read-only **[Fields](fields-object-word.md)** collection that represents all the fields in the selection.
 
 
 ## Syntax

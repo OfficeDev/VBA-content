@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ResourceGuid Property (Project)
 
-Gets the GUID of the resource for the assignment. Read-only  **String**.
+Gets the GUID of the resource for the assignment. Read-only **String**.
 
 
 ## Syntax

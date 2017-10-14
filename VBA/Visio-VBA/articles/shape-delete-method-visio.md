@@ -30,15 +30,15 @@ Nothing
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVShape.Delete()**
+- **Microsoft.Office.Interop.Visio.IVShape.Delete()**
     
 
 ## Example
 
-This example shows how to delete  **Shape** objects.
+This example shows how to delete **Shape** objects.
 
 
 ```vb

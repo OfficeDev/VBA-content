@@ -15,9 +15,9 @@ Gets the value of the shape data item (custom property) at the specified index p
 
 ## Syntax
 
- _expression_. **CustomPropertyValue**( **_ShapeIndex_**,  **_PropertyIndex_**)
+ _expression_. **CustomPropertyValue**( **_ShapeIndex_**, **_PropertyIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -41,7 +41,7 @@ In versions of Visio prior to Microsoft Office Visio 2007, shape data items were
 
 ## Example
 
-The following code gets the value of the first shape data item assigned to the first shape in the collection of shapes on the current page in Visio Viewer. If the value of the specified custom property is "Hello", Visio Viewer displays a message box and the  **Properties and Settings** dialog box.
+The following code gets the value of the first shape data item assigned to the first shape in the collection of shapes on the current page in Visio Viewer. If the value of the specified custom property is "Hello", Visio Viewer displays a message box and the **Properties and Settings** dialog box.
 
 
 ```vb

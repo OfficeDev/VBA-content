@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # Viewer.DisplayAbout Method (Visio Viewer)
 
-Displays the  **About Microsoft Visio Viewer** dialog box in the Microsoft Visio Viewer.
+Displays the **About Microsoft Visio Viewer** dialog box in the Microsoft Visio Viewer.
 
 
 ## Syntax
 
  _expression_. **DisplayAbout**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -27,12 +27,12 @@ Nothing
 
 ## Remarks
 
-Calling this method is equivalent to clicking the  **About Microsoft Visio Viewer** button on the toolbar in the Viewer.
+Calling this method is equivalent to clicking the **About Microsoft Visio Viewer** button on the toolbar in the Viewer.
 
 
 ## Example
 
-The following code displays the  **About Microsoft Visio Viewer** dialog box.
+The following code displays the **About Microsoft Visio Viewer** dialog box.
 
 
 ```

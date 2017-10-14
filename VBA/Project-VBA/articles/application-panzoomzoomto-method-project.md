@@ -36,9 +36,9 @@ Nothing
 
 ## Remarks
 
-The  **PanZoomZoomTo** method has no effect on the Calendar view or the Network Diagram (PERT chart) view.
+The **PanZoomZoomTo** method has no effect on the Calendar view or the Network Diagram (PERT chart) view.
 
-To pan the Gantt chart to a different starting date and maintain the same timescale, use the  **[PanZoomPanTo](application-panzoompanto-method-project.md)** method. To change the timescale format and labels, use the **[TimescaleEdit](application-timescaleedit-method-project.md)** method.
+To pan the Gantt chart to a different starting date and maintain the same timescale, use the **[PanZoomPanTo](application-panzoompanto-method-project.md)** method. To change the timescale format and labels, use the **[TimescaleEdit](application-timescaleedit-method-project.md)** method.
 
 
 ## Example

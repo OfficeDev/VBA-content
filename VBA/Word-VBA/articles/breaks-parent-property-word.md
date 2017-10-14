@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Breaks.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **Breaks** collection.
+Returns an **Object** that represents the parent object of the specified **Breaks** collection.
 
 
 ## Syntax

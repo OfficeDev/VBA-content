@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.Apply Method (Publisher)
 
-Applies formatting copied from another shape or shape range using the  **[PickUp](shape-pickup-method-publisher.md)** method.
+Applies formatting copied from another shape or shape range using the **[PickUp](shape-pickup-method-publisher.md)** method.
 
 
 ## Syntax
 
  _expression_. **Apply**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-If you do not first use the  **PickUp** method to copy the formatting from another shape, an error occurs.
+If you do not first use the **PickUp** method to copy the formatting from another shape, an error occurs.
 
 
 ## Example

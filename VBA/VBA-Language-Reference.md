@@ -12,31 +12,31 @@ Welcome to the Visual Basic for Applications (VBA) language reference for Office
 
 The documentation provided in this reference includes the following:
 
--  **Microsoft Forms reference**
+- **Microsoft Forms reference**
     
-    Provides information about  **Userforms** and controls, and how to program with them by using Visual Basic.
+    Provides information about **Userforms** and controls, and how to program with them by using Visual Basic.
     
--  **Visual Basic conceptual topics**
+- **Visual Basic conceptual topics**
     
     Provides information to help you understand Visual Basic programming. 
     
--  **Visual Basic definitions**
+- **Visual Basic definitions**
     
     Provides a glossary of definitions to help you understand concepts presented in this documentation.
     
--  **Visual Basic how-to topics**
+- **Visual Basic how-to topics**
     
-    Describes useful common procedures (for example, how to use the  **Object Browser** or how to set Visual Basic Environment options).
+    Describes useful common procedures (for example, how to use the **Object Browser** or how to set Visual Basic Environment options).
     
--  **Visual Basic language reference**
+- **Visual Basic language reference**
     
     Provides documentation about Visual Basic the language: all its methods, properties, statements, functions, operators, and objects.
     
--  **Visual Basic add-in model**
+- **Visual Basic add-in model**
     
     Describes how to customize the Visual Basic editor, and provides documentation for the object model that enables you to extend the environment.
     
--  **Visual Basic user interface Help**
+- **Visual Basic user interface Help**
     
     Describes user interface elements of the Visual Basic Editor, such as commands, dialog boxes, windows, and toolbars.
     

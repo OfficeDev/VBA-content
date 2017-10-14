@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.International Property (Word)
 
-Returns information about the current country/region and international settings. Read-only  **Variant** .
+Returns information about the current country/region and international settings. Read-only **Variant** .
 
 
 ## Syntax

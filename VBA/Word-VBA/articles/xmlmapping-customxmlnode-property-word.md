@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLMapping.CustomXMLNode Property (Word)
 
-Returns a  **CustomXMLNode** object that represents the custom XML node in the data store to which the content control in the document maps.
+Returns a **CustomXMLNode** object that represents the custom XML node in the data store to which the content control in the document maps.
 
 
 ## Syntax

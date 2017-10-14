@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Remove Data from the Data Store When Deleting a Content Control
 
-You can delete a content control by calling the  **Delete** method of the **ContentControl** object. For example, the following code deletes the content control with the title "MyTitle".
+You can delete a content control by calling the **Delete** method of the **ContentControl** object. For example, the following code deletes the content control with the title "MyTitle".
 
 
 ```vb
@@ -16,20 +16,20 @@ ActiveDocument.ContentControls.Item("MyTitle").Delete
 ```
 
 
-You can also delete a single node by calling the  **Delete** method of the **CustomDataXMLNode** object that you want to remove. You can delete an entire custom XML part by calling the **Delete** method of the **CustomXMLPart** object that you want to remove.
+You can also delete a single node by calling the **Delete** method of the **CustomDataXMLNode** object that you want to remove. You can delete an entire custom XML part by calling the **Delete** method of the **CustomXMLPart** object that you want to remove.
 
 For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
 The objects used in these samples are:
 
--  **[ContentControl](contentcontrol-object-word.md)**
+- **[ContentControl](contentcontrol-object-word.md)**
     
--  **[ContentControls](contentcontrols-object-word.md)**
+- **[ContentControls](contentcontrols-object-word.md)**
     
--  **CustomXMLPart** (Microsoft Office system core object model)
+- **CustomXMLPart** (Microsoft Office system core object model)
     
--  **CustomXMLParts** (Microsoft Office system core object model)
+- **CustomXMLParts** (Microsoft Office system core object model)
     
--  **[XMLMapping](xmlmapping-object-word.md)**
+- **[XMLMapping](xmlmapping-object-word.md)**
     
 
 ## Sample 1
@@ -82,7 +82,7 @@ End Sub
 
 ## Sample 2
 
-The second code sample removes the entire  **CustomXMLPart** object when the content control is deleted.
+The second code sample removes the entire **CustomXMLPart** object when the content control is deleted.
 
 
 ```vb

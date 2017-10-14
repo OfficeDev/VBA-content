@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathNary.SubSupLim Property (Word)
 
-Returns or sets a  **Boolean** that represents the positioning of n-ary limits in the subscript-superscript or upper limit-lower limit position. Read/write.
+Returns or sets a **Boolean** that represents the positioning of n-ary limits in the subscript-superscript or upper limit-lower limit position. Read/write.
 
 
 ## Syntax

@@ -40,11 +40,11 @@ Nothing
 
 ## Remarks
 
-The  **AutoConnect** method lets you automatically draw connections between shapes on the drawing page while specifying the direction of the connection and, optionally, the connector.
+The **AutoConnect** method lets you automatically draw connections between shapes on the drawing page while specifying the direction of the connection and, optionally, the connector.
 
-For the ToShape parameter, pass the  **Shape** object to which you want to draw the connection.
+For the ToShape parameter, pass the **Shape** object to which you want to draw the connection.
 
-For the PlacementDir parameter, pass a value from the  **VisAutoConnectDir** enumeration to specify the connection direction?that is, where to locate the connected shape with respect to the primary shape. Possible values for PlacementDir are as follows.
+For the PlacementDir parameter, pass a value from the **VisAutoConnectDir** enumeration to specify the connection direction?that is, where to locate the connected shape with respect to the primary shape. Possible values for PlacementDir are as follows.
 
 
 
@@ -55,17 +55,17 @@ For the PlacementDir parameter, pass a value from the  **VisAutoConnectDir** enu
 |visAutoConnectDirNone|0|Connect without relocating the shapes.|
 |visAutoConnectDirRight|4|Connect to the right|
 |visAutoConnectDirUp|1|Connect up.|
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVShape.AutoConnect(Microsoft.Office.Interop.Visio.Shape, Microsoft.Office.Interop.Visio.VisAutoConnectDir, object)**
+- **Microsoft.Office.Interop.Visio.IVShape.AutoConnect(Microsoft.Office.Interop.Visio.Shape, Microsoft.Office.Interop.Visio.VisAutoConnectDir, object)**
     
 
 ## Example
 
  The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AutoConnect** method to draw a connection between two flowchart shapes, a decision shape and a process shape, by using a third shape, a dynamic connector, all of which were added to an empty drawing page from the Basic Flowchart Shapes (US Units) stencil.
 
-Because the example calls the method on the decision shape, Visio draws the connector from the decision shape to the process shape. Because we pass the method the enumerated value  **visAutoConnectDirRight** for the PlacementDir parameter, Visio places the process shape automatically to the right of the decision shape on the drawing page, regardless of its previous location.
+Because the example calls the method on the decision shape, Visio draws the connector from the decision shape to the process shape. Because we pass the method the enumerated value **visAutoConnectDirRight** for the PlacementDir parameter, Visio places the process shape automatically to the right of the decision shape on the drawing page, regardless of its previous location.
 
 
 

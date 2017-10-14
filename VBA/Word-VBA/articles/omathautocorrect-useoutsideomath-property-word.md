@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrect.UseOutsideOMath Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word uses math autocorrect rules outside equations in a document. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word uses math autocorrect rules outside equations in a document. Read/write.
 
 
 ## Syntax

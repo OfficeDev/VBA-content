@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.Offset Property (Word)
 
-Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write  **Long** .
+Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write **Long** .
 
 
 ## Syntax

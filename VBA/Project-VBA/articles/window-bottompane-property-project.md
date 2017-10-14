@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Window.BottomPane Property (Project)
 
-Gets a  **[Pane](pane-object-project.md)** object representing the bottom pane of a window. Read-only **Pane**.
+Gets a **[Pane](pane-object-project.md)** object representing the bottom pane of a window. Read-only **Pane**.
 
 
 ## Syntax

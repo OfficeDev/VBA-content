@@ -20,7 +20,7 @@ Represents one or more series plotted in a chart with the same format.
 
 A chart contains one or more chart groups, each chart group contains one or more **[Series](series-object-powerpoint.md)** objects, and each series contains one or more **[Points](points-object-powerpoint.md)** objects. For example, a single chart might contain both a line chart group, which contains all the series plotted with the line chart format, and a bar chart group, which contains all the series plotted with the bar chart format. The **ChartGroup** object is a member of the **[ChartGroups](chartgroups-object-powerpoint.md)** collection.
 
-Use  **ChartGroups** ( _Index_ ), where _index_ is the chart group index number, to return a single **ChartGroup** object.
+Use **ChartGroups** ( _Index_ ), where _index_ is the chart group index number, to return a single **ChartGroup** object.
 
 
 ## Example

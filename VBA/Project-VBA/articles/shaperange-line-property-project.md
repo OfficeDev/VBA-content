@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Line Property (Project)
-Gets the line formatting properties for the shape range. Read-only  **[LineFormat](http://msdn.microsoft.com/en-us/library/office/ff194214%28v=office.15%29)**.
+Gets the line formatting properties for the shape range. Read-only **[LineFormat](http://msdn.microsoft.com/en-us/library/office/ff194214%28v=office.15%29)**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the line formatting properties for the shape range. Read-only  **[LineForma
 
 ## Remarks
 
-For a line, the  **LineFormat** object represents the line itself; for a shape range with a border, the **LineFormat** object represents the border.
+For a line, the **LineFormat** object represents the line itself; for a shape range with a border, the **LineFormat** object represents the border.
 
 
 ## Property value

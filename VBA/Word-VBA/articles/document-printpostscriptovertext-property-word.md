@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **PrintPostScriptOverText** property controls whether postscript code is printed in a converted Microsoft Word for Macintosh document. If the document contains no PRINT fields, this property has no effect.
+The **PrintPostScriptOverText** property controls whether postscript code is printed in a converted Microsoft Word for Macintosh document. If the document contains no PRINT fields, this property has no effect.
 
 
 ## Example

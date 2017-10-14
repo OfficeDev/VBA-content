@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.RepeatWord Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to mark words that are repeated when spelling is checked. **True** flags repeated words. Read/write.
+Returns or sets a **Boolean** that represents whether to mark words that are repeated when spelling is checked. **True** flags repeated words. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether to mark words that are re
 
 ## Remarks
 
-This property corresponds to the  **Flag repeated words** check box on the **Proofing** tab of the **Word Options** dialog box.
+This property corresponds to the **Flag repeated words** check box on the **Proofing** tab of the **Word Options** dialog box.
 
 
 ## See also

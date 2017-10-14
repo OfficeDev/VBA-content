@@ -18,7 +18,7 @@ Represents a chart data table.
 
 ## Example
 
-Use the  **[DataTable](chart-datatable-property-word.md)** property to return a **DataTable** object. The following example adds a data table with an outline border to embedded chart one.
+Use the **[DataTable](chart-datatable-property-word.md)** property to return a **DataTable** object. The following example adds a data table with an outline border to embedded chart one.
 
 
 ```vb

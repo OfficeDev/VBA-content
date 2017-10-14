@@ -18,14 +18,14 @@ Represents the storage for objects in the Outlook Bar.
 
 ## Remarks
 
-Use the  **[Contents](outlookbarpane-contents-property-outlook.md)** property of an **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to retrieve the **OutlookBarStorage** object for the Outlook Bar.
+Use the **[Contents](outlookbarpane-contents-property-outlook.md)** property of an **[OutlookBarPane](outlookbarpane-object-outlook.md)** object to retrieve the **OutlookBarStorage** object for the Outlook Bar.
 
-Use the  **[Groups](outlookbarstorage-groups-property-outlook.md)** property to retrieve the **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object for the Outlook Bar.
+Use the **[Groups](outlookbarstorage-groups-property-outlook.md)** property to retrieve the **[OutlookBarGroups](outlookbargroups-object-outlook.md)** object for the Outlook Bar.
 
 
 ## Example
 
-The following example retrieves an  **OutlookBarStorage** object by name.
+The following example retrieves an **OutlookBarStorage** object by name.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sections.Last Property (Word)
 
-Returns the last item in the  **Sections** collection as a **Section** object.
+Returns the last item in the **Sections** collection as a **Section** object.
 
 
 ## Syntax

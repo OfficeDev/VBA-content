@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveProject Property (Project)
 
-Gets a  **[Project](project-object-project.md)** object that represents the active project. Read-only **Project**.
+Gets a **[Project](project-object-project.md)** object that represents the active project. Read-only **Project**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets a  **[Project](project-object-project.md)** object that represents the acti
 
 ## Example
 
-The following example adds the date and time to the  **Comments** field in the project **Properties** dialog box and then saves the project.
+The following example adds the date and time to the **Comments** field in the project **Properties** dialog box and then saves the project.
 
 
 ```vb

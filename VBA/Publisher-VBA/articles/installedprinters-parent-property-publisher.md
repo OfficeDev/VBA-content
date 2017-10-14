@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # InstalledPrinters.Parent Property (Publisher)
 
-Returns the parent of the  **[InstalledPrinters](installedprinters-object-publisher.md)** object. Read-only.
+Returns the parent of the **[InstalledPrinters](installedprinters-object-publisher.md)** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents an  **InstalledPrinters** object.
+ _expression_A variable that represents an **InstalledPrinters** object.
 
 
 ### Return Value

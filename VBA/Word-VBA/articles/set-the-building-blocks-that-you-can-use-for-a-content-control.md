@@ -12,7 +12,7 @@ A document building block is a predesigned piece of content, such as a cover pag
 
 A  [ContentControl Object (Word)](contentcontrol-object-word.md) object with a [ContentControl.Type Property (Word)](contentcontrol-type-property-word.md) property value of **wdContentControlBuildingBlockGallery** specifies a content control that can contain document building blocks.
 
-The  **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** enumeration contains each building block type. You can only use the following building block types within a building block gallery content control:
+The **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** enumeration contains each building block type. You can only use the following building block types within a building block gallery content control:
 
 
 - AutoText
@@ -36,9 +36,9 @@ The  **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** enumer
 For more information about content controls, see  [Working with Content Controls](working-with-content-controls.md).
 The objects used in this sample are:
 
--  **[ContentControl](contentcontrol-object-word.md)**
+- **[ContentControl](contentcontrol-object-word.md)**
     
--  **[ContentControls](contentcontrols-object-word.md)**
+- **[ContentControls](contentcontrols-object-word.md)**
     
 
 ## Sample

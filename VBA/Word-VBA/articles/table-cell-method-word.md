@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Cell Method (Word)
 
-Returns a  **Cell** object that represents a cell in a table.
+Returns a **Cell** object that represents a cell in a table.
 
 
 ## Syntax

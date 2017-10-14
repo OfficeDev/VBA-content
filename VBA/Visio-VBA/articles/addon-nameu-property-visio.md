@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Addon.NameU Property (Visio)
 
-Specifies the universal name of an  **Addon** object. Read-only.
+Specifies the universal name of an **Addon** object. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-You can get, but not set, the  **NameU** property of an **Addon** object.
+You can get, but not set, the **NameU** property of an **Addon** object.
 
 

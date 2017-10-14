@@ -37,5 +37,5 @@ Contains constants that specify the date format. The following table shows vario
 |**pjDate_mmmm_dd_yyyy_hh_mmAM**|2| September 30, 2002 12:33 PM|
 |**pjDate_Www_dd**|18|W41/2|
 |**pjDate_Www_dd_yy_hh_mmAM**|19|W41/2/02 12:33 PM|
-|**pjDateDefault**|255|The default format, as specified on the  **View** tab of the **Options** dialog box. (To open the **Options** dialog box, click **Options** on the **Tools** menu.)|
+|**pjDateDefault**|255|The default format, as specified on the **View** tab of the **Options** dialog box. (To open the **Options** dialog box, click **Options** on the **Tools** menu.)|
 

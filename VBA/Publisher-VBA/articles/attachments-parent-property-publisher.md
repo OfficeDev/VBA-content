@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Attachments.Parent Property (Publisher)
 
-Returns the parent of the  **[Attachments](attachments-object-publisher.md)** collection. Read-only.
+Returns the parent of the **[Attachments](attachments-object-publisher.md)** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Parent**
 
- _expression_A variable that represents an  **Attachments** object.
+ _expression_A variable that represents an **Attachments** object.
 
 
 ### Return Value

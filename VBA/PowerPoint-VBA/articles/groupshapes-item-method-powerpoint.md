@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GroupShapes.Item Method (PowerPoint)
 
-Returns a single  **Shape** object from the specified **GroupShapes** collection.
+Returns a single **Shape** object from the specified **GroupShapes** collection.
 
 
 ## Syntax

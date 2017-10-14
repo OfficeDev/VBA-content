@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.TrackingMethod Property (Project)
 
-Gets or sets the tracking method used by Project Server for the project. Read/write  **PjProjectServerTrackingMethod**.
+Gets or sets the tracking method used by Project Server for the project. Read/write **PjProjectServerTrackingMethod**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the tracking method used by Project Server for the project. Read/wr
 
 ## Remarks
 
-The  **TrackingMethod** property is available only in Project Professional, when the project is opened from Project Server. It can be one of the following **[PjProjectServerTrackingMethod](pjprojectservertrackingmethod-enumeration-project.md)** constants: **pjTrackingMethodDefault**, **pjTrackingMethodPercentComplete**, **pjTrackingMethodSpecifyHours**, or **pjTrackingMethodTotalAndRemaining**.
+The **TrackingMethod** property is available only in Project Professional, when the project is opened from Project Server. It can be one of the following **[PjProjectServerTrackingMethod](pjprojectservertrackingmethod-enumeration-project.md)** constants: **pjTrackingMethodDefault**, **pjTrackingMethodPercentComplete**, **pjTrackingMethodSpecifyHours**, or **pjTrackingMethodTotalAndRemaining**.
 
 

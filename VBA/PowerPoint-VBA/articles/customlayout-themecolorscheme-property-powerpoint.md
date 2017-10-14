@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.ThemeColorScheme Property (PowerPoint)
 
-Returns a  **ThemeColorScheme** object that represents the color scheme of the theme associated with the specified custom layout. Read-only.
+Returns a **ThemeColorScheme** object that represents the color scheme of the theme associated with the specified custom layout. Read-only.
 
 
 ## Syntax

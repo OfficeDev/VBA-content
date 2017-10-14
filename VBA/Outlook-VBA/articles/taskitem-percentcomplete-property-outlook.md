@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.PercentComplete Property (Outlook)
 
-Returns or sets a  **Long** indicating the percentage of the task completed at the current date and time. Read/write.
+Returns or sets a **Long** indicating the percentage of the task completed at the current date and time. Read/write.
 
 
 ## Syntax

@@ -16,7 +16,7 @@ A collection of spelling and grammatical errors for the specified document or ra
 
 ## Remarks
 
-Use the  **SpellingErrors** or **GrammaticalErrors** property to return the **ProofreadingErrors** collection. The following example counts the spelling and grammatical errors in the selection and displays the results in a message box.
+Use the **SpellingErrors** or **GrammaticalErrors** property to return the **ProofreadingErrors** collection. The following example counts the spelling and grammatical errors in the selection and displays the results in a message box.
 
 
 ```vb
@@ -28,7 +28,7 @@ Msgbox "Spelling errors: " &; sc &; vbCr _
  &; "Grammatical errors: " &; gc
 ```
 
-Use  **SpellingErrors** (Index), where Index is the index number, to return a single spelling error (represented by a **Range** object). The following example finds the second spelling error in the selection and then selects it.
+Use **SpellingErrors** (Index), where Index is the index number, to return a single spelling error (represented by a **Range** object). The following example finds the second spelling error in the selection and then selects it.
 
 
 
@@ -38,7 +38,7 @@ Set myRange = Selection.Range.SpellingErrors(2)
 myRange.Select
 ```
 
-Use  **GrammarErrors** (Index), where Index is the index number, to return a single grammatical error (represented by a **Range** object). The following example returns the sentence that contains the first grammatical error in the selection.
+Use **GrammarErrors** (Index), where Index is the index number, to return a single grammatical error (represented by a **Range** object). The following example returns the sentence that contains the first grammatical error in the selection.
 
 
 
@@ -48,10 +48,10 @@ Set myRange = Selection.Range.GrammaticalErrors(1)
 Msgbox myRange.Text
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object. If all the words in the document or range are spelled correctly and are grammatically correct, the **Count** property for the **ProofreadingErrors** object returns 0 (zero) and the **SpellingChecked** and **GrammarChecked** properties return **True** .
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object. If all the words in the document or range are spelled correctly and are grammatically correct, the **Count** property for the **ProofreadingErrors** object returns 0 (zero) and the **SpellingChecked** and **GrammarChecked** properties return **True** .
 
 
- **Note**  There is no ProofreadingError object; instead, each item in the  **ProofreadingErrors** collection is a **Range** object that represents one spelling or grammatical error.
+ **Note**  There is no ProofreadingError object; instead, each item in the **ProofreadingErrors** collection is a **Range** object that represents one spelling or grammatical error.
 
 
 ## See also

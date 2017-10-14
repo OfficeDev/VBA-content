@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ChildDrivers.TotalDetectedCount Property (Project)
 
-Gets the total number of child task drivers that affect the dates of a task. Read-only  **Long**.
+Gets the total number of child task drivers that affect the dates of a task. Read-only **Long**.
 
 
 ## Syntax

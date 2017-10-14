@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDrawRegionFlags Enumeration (Visio)
 
-Flags to pass to the  **Selection.DrawRegion** method.
+Flags to pass to the **Selection.DrawRegion** method.
 
 
 

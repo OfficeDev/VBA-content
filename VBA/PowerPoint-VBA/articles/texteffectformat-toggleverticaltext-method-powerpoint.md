@@ -25,14 +25,14 @@ Switches the text flow in the specified WordArt from horizontal to vertical, or 
 
 ## Remarks
 
-Using the  **ToggleVerticalText** method swaps the values of the **Width** and **Height** properties of the **Shape** object that represents the WordArt and leaves the **Left** and **Top** properties unchanged.
+Using the **ToggleVerticalText** method swaps the values of the **Width** and **Height** properties of the **Shape** object that represents the WordArt and leaves the **Left** and **Top** properties unchanged.
 
-The  **[Flip](shape-flip-method-powerpoint.md)** method and **[Rotation](shape-rotation-property-powerpoint.md)** property of the **[Shape](shape-object-powerpoint.md)** object and the **[RotatedChars](texteffectformat-rotatedchars-property-powerpoint.md)** property and **ToggleVerticalText** method of the **TextEffectFormat** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
+The **[Flip](shape-flip-method-powerpoint.md)** method and **[Rotation](shape-rotation-property-powerpoint.md)** property of the **[Shape](shape-object-powerpoint.md)** object and the **[RotatedChars](texteffectformat-rotatedchars-property-powerpoint.md)** property and **ToggleVerticalText** method of the **TextEffectFormat** object all affect the character orientation and the direction of text flow in a **Shape** object that represents WordArt. You may have to experiment to find out how to combine the effects of these properties and methods to get the result you want.
 
 
 ## Example
 
-This example adds WordArt that contains the text "Test" to  `myDocument`, and switches from horizontal text flow (the default for the specified WordArt style,  **msoTextEffect1** ) to vertical text flow.
+This example adds WordArt that contains the text "Test" to  `myDocument`, and switches from horizontal text flow (the default for the specified WordArt style, **msoTextEffect1** ) to vertical text flow.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.DateOrder Property (Project)
 
-Gets the order of display of the day, month, and year in date values. Read-only  **PjDateOrder**.
+Gets the order of display of the day, month, and year in date values. Read-only **PjDateOrder**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the order of display of the day, month, and year in date values. Read-only 
 
 ## Remarks
 
-The  **DateOrder** property can be one of the following **[PjDateOrder](pjdateorder-enumeration-project.md)** constants: **pjDayMonthYear**, **pjMonthDayYear**, or **pjYearMonthDay**.
+The **DateOrder** property can be one of the following **[PjDateOrder](pjdateorder-enumeration-project.md)** constants: **pjDayMonthYear**, **pjMonthDayYear**, or **pjYearMonthDay**.
 
-Project sets the  **DateOrder** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the  **DateOrder** property value is 0 ( **pjDayMonthYear** ).
+Project sets the **DateOrder** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the **DateOrder** property value is 0 ( **pjDayMonthYear** ).
 
 

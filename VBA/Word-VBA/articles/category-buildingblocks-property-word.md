@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Category.BuildingBlocks Property (Word)
 
-Returns a  **[BuildingBlocks](buildingblocks-object-word.md)** collection that represents the building blocks for a category. Read-only.
+Returns a **[BuildingBlocks](buildingblocks-object-word.md)** collection that represents the building blocks for a category. Read-only.
 
 
 ## Syntax

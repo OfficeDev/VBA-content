@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Index.Filter Property (Word)
 
-Returns or sets a value that specifies how Microsoft Word classifies the first character of entries in the specified index.read/write  **Long** . Can be one of the following **wdIndexFilter** constants.
+Returns or sets a value that specifies how Microsoft Word classifies the first character of entries in the specified index.read/write **Long** . Can be one of the following **wdIndexFilter** constants.
 
 
 ## Syntax

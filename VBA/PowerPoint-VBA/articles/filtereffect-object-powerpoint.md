@@ -18,7 +18,7 @@ Represents a filter effect for an animation behavior.
 
 ## Remarks
 
-Use the  **FilterEffect** property of the **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object to return a **FilterEffect** object. Filter effects can be changed using the **FilterEffect** object's **Reveal**, **SubType**, and **Type** properties.
+Use the **FilterEffect** property of the **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object to return a **FilterEffect** object. Filter effects can be changed using the **FilterEffect** object's **Reveal**, **SubType**, and **Type** properties.
 
 
 ## Example

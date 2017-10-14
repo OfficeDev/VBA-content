@@ -33,6 +33,6 @@ Long
 
 ## Remarks
 
-The default setting for the  **Timeout** property is 15 seconds.
+The default setting for the **Timeout** property is 15 seconds.
 
 

@@ -18,7 +18,7 @@ Represents a single color in a color scheme.
 
 ## Example
 
-Use the [Colors](colorscheme-colors-method-powerpoint.md)method to return an  **RGBColor** object. You can set an **RGBColor** object to another **RGBColor** object. You can use the[RGB](rgbcolor-rgb-property-powerpoint.md)property to set or return the explicit red-green-blue value for an  **RGBColor** object, with the exception of the **RGBColor** objects defined by the **ppNotSchemeColor** and **ppSchemeColorMixed** constants. The **RGB** property can be returned, but not set, for these two objects. The following example sets the background color in color scheme one in the active presentation to red and sets the title color to the title color that's defined for color scheme two.
+Use the [Colors](colorscheme-colors-method-powerpoint.md)method to return an **RGBColor** object. You can set an **RGBColor** object to another **RGBColor** object. You can use the[RGB](rgbcolor-rgb-property-powerpoint.md)property to set or return the explicit red-green-blue value for an **RGBColor** object, with the exception of the **RGBColor** objects defined by the **ppNotSchemeColor** and **ppSchemeColorMixed** constants. The **RGB** property can be returned, but not set, for these two objects. The following example sets the background color in color scheme one in the active presentation to red and sets the title color to the title color that's defined for color scheme two.
 
 
 ```vb

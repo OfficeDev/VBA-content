@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Password Property (Word)
 
-Sets a password that must be supplied to open the specified document. Write-only  **String** .
+Sets a password that must be supplied to open the specified document. Write-only **String** .
 
 
 ## Syntax

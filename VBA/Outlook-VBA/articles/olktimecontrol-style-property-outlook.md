@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTimeControl.Style Property (Outlook)
 
-Returns or sets an  **[OlTimeStyle](oltimestyle-enumeration-outlook.md)** constant that specifies the style of the time control. Read/write.
+Returns or sets an **[OlTimeStyle](oltimestyle-enumeration-outlook.md)** constant that specifies the style of the time control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlTimeStyle](oltimestyle-enumeration-outlook.md)** consta
 
 ## Remarks
 
-The default value is  **olTimeStyleTimeOnly** .
+The default value is **olTimeStyleTimeOnly** .
 
 
 ## See also

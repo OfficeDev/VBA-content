@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sources.Add Method (Word)
 
-Add a new source to the sources listed in the  **Source Manager** dialog box.
+Add a new source to the sources listed in the **Source Manager** dialog box.
 
 
 ## Syntax

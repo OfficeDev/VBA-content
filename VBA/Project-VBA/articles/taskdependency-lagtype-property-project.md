@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TaskDependency.LagType Property (Project)
 
-Gets the unit of lag time between linked tasks. Read-only  **[PjFormatUnit](pjformatunit-enumeration-project.md)**.
+Gets the unit of lag time between linked tasks. Read-only **[PjFormatUnit](pjformatunit-enumeration-project.md)**.
 
 
 ## Syntax
@@ -22,12 +22,12 @@ Gets the unit of lag time between linked tasks. Read-only  **[PjFormatUnit](pjfo
 
 ## Remarks
 
-In the  **Lag** property, string values default to days unless otherwise specified. Non-string values are interpreted as minutes. To specify lead time between tasks, use a negative value for the **Lag** property.
+In the **Lag** property, string values default to days unless otherwise specified. Non-string values are interpreted as minutes. To specify lead time between tasks, use a negative value for the **Lag** property.
 
 
 ## Example
 
-To use the  **SetLagWeeks** macro, create two tasks, where Task 2 is linked to Task 1. When you run the macro, the **Immediate** window shows 4800 and 9, where the lag time is 4800 minutes and the type of lag is 9 ( **pjWeeks** ).
+To use the **SetLagWeeks** macro, create two tasks, where Task 2 is linked to Task 1. When you run the macro, the **Immediate** window shows 4800 and 9, where the lag time is 4800 minutes and the type of lag is 9 ( **pjWeeks** ).
 
 
 ```vb

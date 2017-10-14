@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Table.TableDirection Property (Publisher)
 
-Returns or sets a  **PbTableDirectionType** constant that represents whether text in a table is read from left to right or from right to left. Read/write.
+Returns or sets a **PbTableDirectionType** constant that represents whether text in a table is read from left to right or from right to left. Read/write.
 
 
 ## Syntax
 
  _expression_. **TableDirection**
 
- _expression_A variable that represents a  **Table** object.
+ _expression_A variable that represents a **Table** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbTableDirectionType
 
 ## Remarks
 
-The  **TableDirection** property value can be one of the **PbTableDirectionType** constants declared in the Microsoft Publisher type library.
+The **TableDirection** property value can be one of the **PbTableDirectionType** constants declared in the Microsoft Publisher type library.
 
 
 

@@ -17,7 +17,7 @@ Returns a string that describes the specified error message code in Microsoft Vi
 
  _expression_. **GetErrorMessage**( **_ErrorCode_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,14 +35,14 @@ String
 
 ## Remarks
 
-If you pass an error code that Visio Viewer does not recognize, the  **GetErrorMessage** method will return either a string saying so, or nothing.
+If you pass an error code that Visio Viewer does not recognize, the **GetErrorMessage** method will return either a string saying so, or nothing.
 
-If you pass the value that the  **[LastErrorCode](viewer-lasterrorcode-property-visio-viewer.md)** property returns, the **GetErrorMessage** method returns the last error code that Visio Viewer returned.
+If you pass the value that the **[LastErrorCode](viewer-lasterrorcode-property-visio-viewer.md)** property returns, the **GetErrorMessage** method returns the last error code that Visio Viewer returned.
 
 
 ## Example
 
-The following code shows how to use the  **GetErrorMessage** method to get a description of the last error code that Visio Viewer returned.
+The following code shows how to use the **GetErrorMessage** method to get a description of the last error code that Visio Viewer returned.
 
 
 ```vb

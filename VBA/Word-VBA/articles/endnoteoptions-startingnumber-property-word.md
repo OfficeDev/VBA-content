@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EndnoteOptions.StartingNumber Property (Word)
 
-Returns or sets the starting endnote number. Read/write  **Long** .
+Returns or sets the starting endnote number. Read/write **Long** .
 
 
 ## Syntax

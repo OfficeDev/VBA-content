@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.LanguageIDFarEast Property (Word)
 
-Returns or sets an East Asian language for the specified object. Read/write  **WdLanguageID** .
+Returns or sets an East Asian language for the specified object. Read/write **WdLanguageID** .
 
 
 ## Syntax

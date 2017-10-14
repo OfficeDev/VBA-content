@@ -29,7 +29,7 @@ Appends items to the lookup table of a custom outline code definition.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**Long**|Specifies the custom outline code to edit. Can be one of the  **[PjCustomField](pjcustomfield-enumeration-project.md)** constants.|
+| _FieldID_|Required|**Long**|Specifies the custom outline code to edit. Can be one of the **[PjCustomField](pjcustomfield-enumeration-project.md)** constants.|
 | _Level_|Optional|**Long**|Specifies the level of the new code. The default value is the level of the last item in the lookup table.|
 | _Code_|Optional|**String**|The code to be added to the lookup table.|
 | _Description_|Optional|**String**|A description for the field specified in the Code argument.|
@@ -42,7 +42,7 @@ Appends items to the lookup table of a custom outline code definition.
 
 ## Remarks
 
-If only the FieldID argument is specified, the  **LookUpTableAddEx** method displays the **Lookup Table** dialog box for the specified custom outline code.
+If only the FieldID argument is specified, the **LookUpTableAddEx** method displays the **Lookup Table** dialog box for the specified custom outline code.
 
 
 ## Example

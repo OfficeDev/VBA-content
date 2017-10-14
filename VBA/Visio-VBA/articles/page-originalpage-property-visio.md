@@ -30,14 +30,14 @@ Page
 
 ## Remarks
 
-If the  **Page** parent object is not a markup overlay, **OriginalPage** returns an error. To determine if a page is a markup overlay, check to see whether **Page.Type** = **visTypeMarkup** (3).
+If the **Page** parent object is not a markup overlay, **OriginalPage** returns an error. To determine if a page is a markup overlay, check to see whether **Page.Type** = **visTypeMarkup** (3).
 
-When a user clicks  **Track Markup**, Visio creates a new page of type  **visTypeMarkup** . The original page has type **visTypeForeground** or **visTypeBackground** . Each markup overlay is associated with a unique original drawing page.
+When a user clicks **Track Markup**, Visio creates a new page of type **visTypeMarkup** . The original page has type **visTypeForeground** or **visTypeBackground** . Each markup overlay is associated with a unique original drawing page.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro uses the  **OriginalPage** property to get the name of the original page that was marked up on a markup overlay and display it in the Immediate window. Before running this macro, make sure that a drawing page is displayed in the active window.
+This Microsoft Visual Basic for Applications (VBA) macro uses the **OriginalPage** property to get the name of the original page that was marked up on a markup overlay and display it in the Immediate window. Before running this macro, make sure that a drawing page is displayed in the active window.
 
 
 ```vb

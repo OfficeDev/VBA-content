@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Report.Index Property (Project)
-Gets the index of a custom report in the  **Reports** collection. Read-only **Long**.
+Gets the index of a custom report in the **Reports** collection. Read-only **Long**.
 
 ## Syntax
 

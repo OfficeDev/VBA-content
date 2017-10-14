@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ArabicNumeral Property (Word)
 
-Returns or sets the numeral style for an Arabic language document. Read/write  **WdArabicNumeral** .
+Returns or sets the numeral style for an Arabic language document. Read/write **WdArabicNumeral** .
 
 
 ## Syntax

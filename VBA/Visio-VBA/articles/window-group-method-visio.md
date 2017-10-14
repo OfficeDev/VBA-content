@@ -27,11 +27,11 @@ Version Added: Visio 2.0
 
 ## Remarks
 
-The  **Window** object's **Group** method is now obsolete. Use the **Group** method of the[Selection](selection-group-method-visio.md) or[Shape](shape-object-visio.md) object.
+The **Window** object's **Group** method is now obsolete. Use the **Group** method of the[Selection](selection-group-method-visio.md) or[Shape](shape-object-visio.md) object.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.Group()**
+- **Microsoft.Office.Interop.Visio.IVWindow.Group()**
     
 

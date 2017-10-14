@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FreeformBuilder.ConvertToShape Method (Publisher)
 
-Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](freeformbuilder-object-publisher.md)** object. Returns a **[Shape](shape-object-publisher.md)** object that represents the new shape.
+Creates a shape that has the geometric characteristics of the specified **[FreeformBuilder](freeformbuilder-object-publisher.md)** object. Returns a **[Shape](shape-object-publisher.md)** object that represents the new shape.
 
 
 ## Syntax
 
  _expression_. **ConvertToShape**
 
- _expression_A variable that represents a  **FreeformBuilder** object.
+ _expression_A variable that represents a **FreeformBuilder** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Shape
 
 ## Remarks
 
-You must apply the  **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to a  **FreeformBuilder** object at least once before you use the **ConvertToShape** method or an error occurs.
+You must apply the **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method or an error occurs.
 
 
 ## Example

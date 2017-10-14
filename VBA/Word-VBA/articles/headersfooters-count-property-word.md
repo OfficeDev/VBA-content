@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeadersFooters.Count Property (Word)
 
-Returns a  **Long** that represents the number of headers and/or footers in the collection. Read-only.
+Returns a **Long** that represents the number of headers and/or footers in the collection. Read-only.
 
 
 ## Syntax

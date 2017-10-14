@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.PathSeparator Property (Project)
 
-Gets the separator character for the file system path. Read/write  **String**.
+Gets the separator character for the file system path. Read/write **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the separator character for the file system path. Read/write  **String**.
 
 ## Remarks
 
-The default value of  **PathSeparator** is "\", for example, in the path "C:\Projects". Project sets the value of **PathSeparator** internally.
+The default value of **PathSeparator** is "\", for example, in the path "C:\Projects". Project sets the value of **PathSeparator** internally.
 
 

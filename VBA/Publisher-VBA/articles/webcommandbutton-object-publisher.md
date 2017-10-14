@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # WebCommandButton Object (Publisher)
 
-Represents a Web command button control. The  **WebCommandButton** object is a member of the **Shape** object.
+Represents a Web command button control. The **WebCommandButton** object is a member of the **Shape** object.
  
 
 
 ## Example
 
-Use the  **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** method to create new Web command button. Use the **[WebCommandButton](shape-webcommandbutton-property-publisher.md)** property to access a Web command button control shape. This example creates a Web form Submit command button and sets the script path and file name to run when a user clicks the button.
+Use the **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** method to create new Web command button. Use the **[WebCommandButton](shape-webcommandbutton-property-publisher.md)** property to access a Web command button control shape. This example creates a Web form Submit command button and sets the script path and file name to run when a user clicks the button.
  
 
  

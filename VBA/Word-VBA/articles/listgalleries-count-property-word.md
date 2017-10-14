@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListGalleries.Count Property (Word)
 
-Returns a  **Long** that represents the number of list galleries in the collection. Read-only.
+Returns a **Long** that represents the number of list galleries in the collection. Read-only.
 
 
 ## Syntax

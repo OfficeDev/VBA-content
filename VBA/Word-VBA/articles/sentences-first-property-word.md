@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sentences.First Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the first sentence in a collection of sentences within a document, range, or selection.
+Returns a **[Range](range-object-word.md)** object that represents the first sentence in a collection of sentences within a document, range, or selection.
 
 
 ## Syntax

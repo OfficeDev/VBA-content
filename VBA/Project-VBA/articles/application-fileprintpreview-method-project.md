@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FilePrintPreview Method (Project)
 
-Provides a print preview of the active project. Acts the same as the  **FilePrint** method with no arguments.
+Provides a print preview of the active project. Acts the same as the **FilePrint** method with no arguments.
 
 
 ## Syntax

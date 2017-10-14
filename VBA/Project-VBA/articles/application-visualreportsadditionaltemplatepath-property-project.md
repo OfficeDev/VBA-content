@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.VisualReportsAdditionalTemplatePath Property (Project)
 
-Gets or sets the additional path for Visual Reports templates. Read/write  **String**.
+Gets or sets the additional path for Visual Reports templates. Read/write **String**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Gets or sets the additional path for Visual Reports templates. Read/write  **Str
 
 ## Remarks
 
-The  **Include report templates from** text box in the **Visual Reports - Create Report** dialog box shows the value of the **VisualReportsAdditionalTemplatePath** property.
+The **Include report templates from** text box in the **Visual Reports - Create Report** dialog box shows the value of the **VisualReportsAdditionalTemplatePath** property.
 
 To clear the additional path and template name name, use an empty string ("").
 
 
- **Note**  When you set a path value with the  **VisualReportsAdditionalTemplatePath** property, Project does not check whether the path exists.
+ **Note**  When you set a path value with the **VisualReportsAdditionalTemplatePath** property, Project does not check whether the path exists.
 
 
 ## Example

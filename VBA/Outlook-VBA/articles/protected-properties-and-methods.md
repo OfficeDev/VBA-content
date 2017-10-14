@@ -66,6 +66,6 @@ For more information on security warnings, see  [Outlook Object Model Security P
 | [UserProperty](userproperty-object-outlook.md)|Formula||
 
 
- **Note**   **[UserProperties.Find](userproperties-find-method-outlook.md)** is protected if the property being requested is one of the built-in properties that contains address information. If you ask for a custom property or a property like **Subject** that doesn't contain address information, a prompt will not be displayed.
+ **Note**  **[UserProperties.Find](userproperties-find-method-outlook.md)** is protected if the property being requested is one of the built-in properties that contains address information. If you ask for a custom property or a property like **Subject** that doesn't contain address information, a prompt will not be displayed.
 
 

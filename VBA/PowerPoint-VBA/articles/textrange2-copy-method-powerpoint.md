@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Copy Method (PowerPoint)
 
-Copies a  **TextRange2** object.
+Copies a **TextRange2** object.
 
 
 ## Syntax

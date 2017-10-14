@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.UseHyperlinks Property (Word)
 
-Returns or sets whether entries in a a table of figures should be formatted as hyperlinks when publishing to the Web. Read/write  **Boolean** .
+Returns or sets whether entries in a a table of figures should be formatted as hyperlinks when publishing to the Web. Read/write **Boolean** .
 
 
 ## Syntax

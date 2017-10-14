@@ -20,7 +20,7 @@ Generates a Web page preview of the specified publication in Internet Explorer.
 
  _expression_. **WebPagePreview**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Remarks
@@ -29,9 +29,9 @@ A Web preview can be generated for print publications. However, the appearance o
 
 The Web preview opens with the active page displayed. Preview Web pages are generated for each page in the publication. However, if the publication is a print publication or otherwise lacks a navigation bar, there may be no way to navigate to those pages.
 
-Use the  **[PublicationType](document-publicationtype-property-publisher.md)** property to determine if a publication is a print publication or a Web publication.
+Use the **[PublicationType](document-publicationtype-property-publisher.md)** property to determine if a publication is a print publication or a Web publication.
 
-This method corresponds to the  **Web Page Preview** command on the **File** menu.
+This method corresponds to the **Web Page Preview** command on the **File** menu.
 
 
 ## Example

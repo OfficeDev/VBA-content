@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DocumentSheet Property (Visio)
 
-Returns a  **Shape** object whose cells represent properties of the document. Read-only.
+Returns a **Shape** object whose cells represent properties of the document. Read-only.
 
 
 ## Syntax

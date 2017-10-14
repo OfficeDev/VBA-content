@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HorizontalLineFormat.Alignment Property (Word)
 
-Returns or sets a  **WdHorizontalLineAlignment** constant that represents the alignment for the specified horizontal line. Read/write.
+Returns or sets a **WdHorizontalLineAlignment** constant that represents the alignment for the specified horizontal line. Read/write.
 
 
 ## Syntax

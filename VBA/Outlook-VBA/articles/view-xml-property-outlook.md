@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.XML Property (Outlook)
 
-Returns or sets a  **String** value that specifies the XML definition of the current view. Read/write.
+Returns or sets a **String** value that specifies the XML definition of the current view. Read/write.
 
 
 ## Syntax
@@ -29,12 +29,12 @@ The XML definition describes the view type by using a series of tags and keyword
 
 To determine how the XML should be structured when creating views, you can create a view by using the Outlook user interface and then you can retrieve the XML property for that view.
 
-To programmatically add a custom field to a view, use the  **[Add](viewfields-add-method-outlook.md)** method of the **[ViewFields](viewfields-object-outlook.md)** object. This is the recommended way to dynamically change the view over setting the **[XML](view-xml-property-outlook.md)** property of the **[View](view-object-outlook.md)** object.
+To programmatically add a custom field to a view, use the **[Add](viewfields-add-method-outlook.md)** method of the **[ViewFields](viewfields-object-outlook.md)** object. This is the recommended way to dynamically change the view over setting the **[XML](view-xml-property-outlook.md)** property of the **[View](view-object-outlook.md)** object.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the  **[Views](views-object-outlook.md)** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
+The following Microsoft Visual Basic for Applications (VBA) example creates an instance of the **[Views](views-object-outlook.md)** collection and displays the XML definition of a view called "Table View". If the view does not exist, it creates one.
 
 
 ```vb

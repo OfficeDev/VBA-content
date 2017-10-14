@@ -20,7 +20,7 @@ Sets the specified fill to a pattern.
 
  _expression_. **Patterned**( **_Pattern_**)
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the specified fill to a pattern.
 
 ## Remarks
 
-The Pattern parameter can be one of the  **MsoPatternType** constants declared in the Microsoft Office type library and shown in the following table.
+The Pattern parameter can be one of the **MsoPatternType** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

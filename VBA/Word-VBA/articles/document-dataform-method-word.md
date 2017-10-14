@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DataForm Method (Word)
 
-Displays the  **Data Form** dialog box, in which you can add, delete, or modify records.
+Displays the **Data Form** dialog box, in which you can add, delete, or modify records.
 
 
 ## Syntax

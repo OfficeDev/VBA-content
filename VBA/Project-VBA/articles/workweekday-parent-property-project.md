@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeekDay.Parent Property (Project)
 
-Gets the parent of the  **WorkWeekDay** object. Read-only **WorkWeek**.
+Gets the parent of the **WorkWeekDay** object. Read-only **WorkWeek**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the parent of the  **WorkWeekDay** object. Read-only **WorkWeek**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 
 ## See also

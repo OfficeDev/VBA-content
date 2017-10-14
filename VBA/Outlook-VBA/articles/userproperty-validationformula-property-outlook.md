@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperty.ValidationFormula Property (Outlook)
 
-Returns or sets a  **String** indicating the validation formula for the user property. Read/write.
+Returns or sets a **String** indicating the validation formula for the user property. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **String** indicating the validation formula for the user pro
 
 ## Remarks
 
-The validation formula is used by Outlook to validate the  **[Value](userproperty-value-property-outlook.md)** property when an item is saved.
+The validation formula is used by Outlook to validate the **[Value](userproperty-value-property-outlook.md)** property when an item is saved.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example demonstrates the use of  **ValidationText** and **ValidationFormula** properties.
+The following Visual Basic for Applications (VBA) example demonstrates the use of **ValidationText** and **ValidationFormula** properties.
 
 
 ```vb

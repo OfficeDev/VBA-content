@@ -11,7 +11,7 @@ ms.prod: project-server
 
 # Application.AddTimelineBar Method (Project)
 
-Adds a  **timeline** bar to the view. Introduced in Office 2016.
+Adds a **timeline** bar to the view. Introduced in Office 2016.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.AllCaps Property (Publisher)
 
-Returns or sets  **msoTrue** if the font is formatted as all capital letters, or returns one of the other **MsoTriState** constants if it is not. Read/write.
+Returns or sets **msoTrue** if the font is formatted as all capital letters, or returns one of the other **MsoTriState** constants if it is not. Read/write.
 
 
 ## Syntax
 
  _expression_. **AllCaps**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-Setting the  **AllCaps** property to **msoTrue** sets the **SmallCaps** property to **msoFalse**, and vice versa.
+Setting the **AllCaps** property to **msoTrue** sets the **SmallCaps** property to **msoFalse**, and vice versa.
 
-The  **AllCaps** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **AllCaps** property value can be one of the ** [MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

@@ -18,7 +18,7 @@ Contains shading attributes for an object.
 
 ## Remarks
 
-Use the  **Shading** property to return the **Shading** object. The following example applies fine gray shading to the first paragraph in the active document.
+Use the **Shading** property to return the **Shading** object. The following example applies fine gray shading to the first paragraph in the active document.
 
 
 ```

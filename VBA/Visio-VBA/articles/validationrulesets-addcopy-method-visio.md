@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRuleSets.AddCopy Method (Visio)
 
-Adds a copy of an existing  **[ValidationRuleSet](validationruleset-object-visio.md)** object to the **[ValidationRuleSets](validationrulesets-object-visio.md)** collection of the document.
+Adds a copy of an existing **[ValidationRuleSet](validationruleset-object-visio.md)** object to the **[ValidationRuleSets](validationrulesets-object-visio.md)** collection of the document.
 
 
 ## Syntax

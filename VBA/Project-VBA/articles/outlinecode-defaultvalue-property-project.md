@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutlineCode.DefaultValue Property (Project)
 
-Gets or sets the default value of the  **[OutlineCode](outlinecode-object-project.md)** object. Read/write **String**.
+Gets or sets the default value of the **[OutlineCode](outlinecode-object-project.md)** object. Read/write **String**.
 
 
 ## Syntax

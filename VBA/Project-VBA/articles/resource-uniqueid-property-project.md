@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.UniqueID Property (Project)
 
-Gets the unique identification number of the resource. Read-only  **Long**.
+Gets the unique identification number of the resource. Read-only **Long**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the unique identification number of the resource. Read-only  **Long**.
 
 
 
- **Note**   **UniqueID** values remain constant within a project and do not necessarily match the resource **ID** values that can change as resources are deleted and added.
+ **Note**  **UniqueID** values remain constant within a project and do not necessarily match the resource **ID** values that can change as resources are deleted and added.
 
 

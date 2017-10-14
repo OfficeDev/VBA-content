@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Month.Shift5 Property (Project)
 
-Gets a  **[Shift](shift-object-project.md)** object representing the fifth work shift in a month. Read-only **Shift**.
+Gets a **[Shift](shift-object-project.md)** object representing the fifth work shift in a month. Read-only **Shift**.
 
 
 ## Syntax

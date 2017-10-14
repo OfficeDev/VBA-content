@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PostItem.ExpiryTime Property (Outlook)
 
-Returns or sets a  **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
+Returns or sets a **Date** indicating the date and time at which the item becomes invalid and can be deleted. Read/write.
 
 
 ## Syntax

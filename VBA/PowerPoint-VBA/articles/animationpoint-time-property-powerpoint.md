@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-The value of the  **Time** property can be any floating-point value between 0 and 1, representing a percentage of the entire timeline from 0% to 100%. For example, a value of 0.2 would correspond to a point in time at 20% of the entire timeline duration from left to right.
+The value of the **Time** property can be any floating-point value between 0 and 1, representing a percentage of the entire timeline from 0% to 100%. For example, a value of 0.2 would correspond to a point in time at 20% of the entire timeline duration from left to right.
 
 
 ## Example

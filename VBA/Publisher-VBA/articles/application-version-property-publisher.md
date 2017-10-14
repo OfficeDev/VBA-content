@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Version Property (Publisher)
 
-Returns a  **String** indicating the version number of the currently-installed copy of Microsoft Publisher. Read-only.
+Returns a **String** indicating the version number of the currently-installed copy of Microsoft Publisher. Read-only.
 
 
 ## Syntax
 
  _expression_. **Version**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

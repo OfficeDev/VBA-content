@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SelectionForDragCopy Property (Visio)
 
-Returns the  **[Selection](selection-object-visio.md)** object that represents the collection of shapes that will participate in drag or copy operations, based on the current selection. Read-only.
+Returns the **[Selection](selection-object-visio.md)** object that represents the collection of shapes that will participate in drag or copy operations, based on the current selection. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Returns the  **[Selection](selection-object-visio.md)** object that represents t
 
 ## Remarks
 
-The  **Selection** object that **SelectionForDragCopy** returns includes any unselected members of selected containers and lists, and unselected callouts associated with selected target shapes; all of these will also participate in the drag or copy operation.
+The **Selection** object that **SelectionForDragCopy** returns includes any unselected members of selected containers and lists, and unselected callouts associated with selected target shapes; all of these will also participate in the drag or copy operation.
 
 

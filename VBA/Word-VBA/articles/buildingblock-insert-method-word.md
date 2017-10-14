@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock.Insert Method (Word)
 
-Inserts the value of a building block into a document and returns a  **[Range](range-object-word.md)** object that represents the contents of the building block within the document.
+Inserts the value of a building block into a document and returns a **[Range](range-object-word.md)** object that represents the contents of the building block within the document.
 
 
 ## Syntax

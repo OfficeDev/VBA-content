@@ -29,11 +29,11 @@ Occurs before the reminder is executed.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ReminderObject_|Required| **[Reminder](reminder-object-outlook.md)**|The  **Reminder** object that has been executed.|
+| _ReminderObject_|Required| **[Reminder](reminder-object-outlook.md)**|The **Reminder** object that has been executed.|
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example displays the item that fired the  **Reminder** event every time a reminder is executed.
+The following Microsoft Visual Basic for Applications (VBA) example displays the item that fired the **Reminder** event every time a reminder is executed.
 
 
 ```vb

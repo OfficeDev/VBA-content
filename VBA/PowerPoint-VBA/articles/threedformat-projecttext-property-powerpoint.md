@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ProjectText Property (PowerPoint)
 
-Specifies whether text on the specified  **ThreeDFormat** object rotates with the object. Read/write.
+Specifies whether text on the specified **ThreeDFormat** object rotates with the object. Read/write.
 
 
 ## Syntax

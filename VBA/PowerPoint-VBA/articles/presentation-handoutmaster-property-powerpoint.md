@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.HandoutMaster Property (PowerPoint)
 
-Returns a  **[Master](master-object-powerpoint.md)** object that represents the handout master. Read-only.
+Returns a **[Master](master-object-powerpoint.md)** object that represents the handout master. Read-only.
 
 
 ## Syntax

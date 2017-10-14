@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Documents Object (Publisher)
 
-Represents all open publications. The  **Documents** collection contains all **Document** objects that are open in Microsoft Publisher.
+Represents all open publications. The **Documents** collection contains all **Document** objects that are open in Microsoft Publisher.
 
 
 ## Example
 
-Use the  **Documents** property to return the **Documents** collection. The following example lists all of the open publications.
+Use the **Documents** property to return the **Documents** collection. The following example lists all of the open publications.
 
 
 ```
@@ -30,7 +30,7 @@ Next objDocument
 MsgBox Prompt:=strMsg, Title:="Current Documents Open", Buttons:=vbOKOnly
 ```
 
-Use the  **Add** method to add a new document to the collection. A new and visible instance of Publisher is created when the **Add** method is called. The following example adds a new document to the **Documents** collection.
+Use the **Add** method to add a new document to the collection. A new and visible instance of Publisher is created when the **Add** method is called. The following example adds a new document to the **Documents** collection.
 
 
 
@@ -45,7 +45,7 @@ With objDocument
 End With
 ```
 
-Use the  **Item** (index) property, where index is the index number or document name as a **String**, to return a specific document object. The following example displays the name of the first open publication.
+Use the **Item** (index) property, where index is the index number or document name as a **String**, to return a specific document object. The following example displays the name of the first open publication.
 
 
 
@@ -57,7 +57,7 @@ End If
 
 ```
 
-The following example checks the name of each document in the  **Documents** collection. If the name of a document is "sales.doc", an object variable objSalesDoc is set to that document in the **Documents** collection.
+The following example checks the name of each document in the **Documents** collection. If the name of a document is "sales.doc", an object variable objSalesDoc is set to that document in the **Documents** collection.
 
 
 

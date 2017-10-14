@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Cost2 Property (Project)
 
-Gets or sets the value of the  **Cost2** custom field for the resource. Read/write **Variant**.
+Gets or sets the value of the **Cost2** custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax

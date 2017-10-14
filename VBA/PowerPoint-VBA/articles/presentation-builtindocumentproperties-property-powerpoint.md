@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.BuiltInDocumentProperties Property (PowerPoint)
 
-Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified presentation. Read-only.
+Returns a **DocumentProperties** collection that represents all the built-in document properties for the specified presentation. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ DocumentProperties
 
 ## Remarks
 
-Use the  **[CustomDocumentProperties](presentation-customdocumentproperties-property-powerpoint.md)** property to return the collection of custom document properties.
+Use the **[CustomDocumentProperties](presentation-customdocumentproperties-property-powerpoint.md)** property to return the collection of custom document properties.
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](return-objects-from-collections.md).
 

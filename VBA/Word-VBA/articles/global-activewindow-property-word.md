@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.ActiveWindow Property (Word)
 
-Returns a  **[Window](window-object-word.md)** object that represents the active window (the window with the focus). Read-only.
+Returns a **[Window](window-object-word.md)** object that represents the active window (the window with the focus). Read-only.
 
 
 ## Syntax

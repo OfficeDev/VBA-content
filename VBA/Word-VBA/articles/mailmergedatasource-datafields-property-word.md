@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.DataFields Property (Word)
 
-Returns a  **[MailMergeDataFields](mailmergedatafields-object-word.md)** collection that represents the fields in the specified mail merge data source. Read-only.
+Returns a **[MailMergeDataFields](mailmergedatafields-object-word.md)** collection that represents the fields in the specified mail merge data source. Read-only.
 
 
 ## Syntax

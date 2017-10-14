@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MailingLabel Property (Word)
 
-Returns a  **[MailingLabel](mailinglabel-object-word.md)** object that represents a mailing label.
+Returns a **[MailingLabel](mailinglabel-object-word.md)** object that represents a mailing label.
 
 
 ## Syntax

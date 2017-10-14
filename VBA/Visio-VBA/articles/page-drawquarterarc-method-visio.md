@@ -57,7 +57,7 @@ If  _SweepFlag_ is **visArcSweepFlagConcave** , the line joining the center of t
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **DrawQuarterArc** method to draw a concave arc on the drawing page.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **DrawQuarterArc** method to draw a concave arc on the drawing page.
 
 
 ```vb

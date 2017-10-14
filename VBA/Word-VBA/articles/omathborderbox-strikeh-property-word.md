@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBorderBox.StrikeH Property (Word)
 
-Returns or sets a  **Boolean** that represents a horizontal strikethrough. Read/write.
+Returns or sets a **Boolean** that represents a horizontal strikethrough. Read/write.
 
 
 ## Syntax

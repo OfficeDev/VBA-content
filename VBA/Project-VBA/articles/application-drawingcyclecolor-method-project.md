@@ -30,6 +30,6 @@ Changes the color of the active drawing object.
 
 ## Remarks
 
-The  **DrawingCycleColor** method has the same effect as the **Cycle Fill Color** button on the **Drawing** toolbar.
+The **DrawingCycleColor** method has the same effect as the **Cycle Fill Color** button on the **Drawing** toolbar.
 
 

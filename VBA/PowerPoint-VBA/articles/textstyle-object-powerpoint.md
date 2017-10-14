@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # TextStyle Object (PowerPoint)
 
-Represents one of three text styles: title text, body text, or default text. Each text style contains a  **[TextFrame](textframe-object-powerpoint.md)** object that describes how text is placed within the text bounding box, a **[Ruler](ruler-object-powerpoint.md)** object that contains tab stops and outline indent formatting information, and a **[TextStyleLevels](textstylelevels-object-powerpoint.md)** collection that contains outline text formatting information. The **TextStyle** object is a member of the **[TextStyles](textstyles-object-powerpoint.md)** collection.
+Represents one of three text styles: title text, body text, or default text. Each text style contains a **[TextFrame](textframe-object-powerpoint.md)** object that describes how text is placed within the text bounding box, a **[Ruler](ruler-object-powerpoint.md)** object that contains tab stops and outline indent formatting information, and a **[TextStyleLevels](textstylelevels-object-powerpoint.md)** collection that contains outline text formatting information. The **TextStyle** object is a member of the **[TextStyles](textstyles-object-powerpoint.md)** collection.
 
 
 ## Example
 
-Use  **TextStyles** (index), where index is either **ppBodyStyle**, **ppDefaultStyle**, or **ppTitleStyle**, to return a single **TextStyle** object. The following example sets the font name and font size for level-one body text on all the slides in the active presentation.
+Use **TextStyles** (index), where index is either **ppBodyStyle**, **ppDefaultStyle**, or **ppTitleStyle**, to return a single **TextStyle** object. The following example sets the font name and font size for level-one body text on all the slides in the active presentation.
 
 
 ```vb

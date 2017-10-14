@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Layers.Master Property (Visio)
 
-Returns the master that contains the  **Layers** collection. Read-only.
+Returns the master that contains the **Layers** collection. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Master
 
 ## Remarks
 
-If the  **Layers** collection is from a page rather than a master, its **Master** property returns **Nothing** .
+If the **Layers** collection is from a page rather than a master, its **Master** property returns **Nothing** .
 
 

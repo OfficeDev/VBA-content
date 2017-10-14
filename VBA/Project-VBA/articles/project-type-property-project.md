@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Type Property (Project)
 
-Gets the type of a project. Read-only  **PjProjectType**.
+Gets the type of a project. Read-only **PjProjectType**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the type of a project. Read-only  **PjProjectType**.
 
 ## Remarks
 
-The  **Type** property can be one of the **[PjProjectType](pjprojecttype-enumeration-project.md)** constants.
+The **Type** property can be one of the **[PjProjectType](pjprojecttype-enumeration-project.md)** constants.
 
 
 ## Example

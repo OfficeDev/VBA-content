@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.OpenRecipientsDialog Method (Publisher)
 
-Displays the  **Recipients** dialog box for a mail merge publication.
+Displays the **Recipients** dialog box for a mail merge publication.
 
 
 ## Syntax
 
  _expression_. **OpenRecipientsDialog**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ## Example
 
-This example displays the  **Mail Merge Recipients** dialog box.
+This example displays the **Mail Merge Recipients** dialog box.
 
 
 ```vb

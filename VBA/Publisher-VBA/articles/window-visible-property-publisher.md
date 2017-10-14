@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **Visible**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ## Example

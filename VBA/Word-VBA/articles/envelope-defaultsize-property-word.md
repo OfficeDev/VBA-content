@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.DefaultSize Property (Word)
 
-Returns or sets the default envelope size. Read/write  **String** .
+Returns or sets the default envelope size. Read/write **String** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the default envelope size. Read/write  **String** .
 
 ## Remarks
 
-The string that is returned corresponds to the right side of the string that appears in the  **Envelope Size** box in the **Envelope Options** dialog box. If you set either the **[DefaultHeight](envelope-defaultheight-property-word.md)** or **[DefaultWidth](envelope-defaultwidth-property-word.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box ( **Tools** menu) and this property returns "Custom size."
+The string that is returned corresponds to the right side of the string that appears in the **Envelope Size** box in the **Envelope Options** dialog box. If you set either the **[DefaultHeight](envelope-defaultheight-property-word.md)** or **[DefaultWidth](envelope-defaultwidth-property-word.md)** property, the envelope size is automatically changed to **Custom Size** in the **Envelope Options** dialog box ( **Tools** menu) and this property returns "Custom size."
 
 
 ## Example

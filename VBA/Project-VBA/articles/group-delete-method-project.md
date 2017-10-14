@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group.Delete Method (Project)
 
-Deletes the  **Group** object from a **ResourceGroups** or **TaskGroups** collection.
+Deletes the **Group** object from a **ResourceGroups** or **TaskGroups** collection.
 
 
 ## Syntax

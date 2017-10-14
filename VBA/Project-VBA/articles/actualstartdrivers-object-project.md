@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ActualStartDrivers Object (Project)
 
-The  **ActualStartDrivers** object is a collection of **[Assignment](assignment-object-project.md)** objects that affect the task start date.
+The **ActualStartDrivers** object is a collection of **[Assignment](assignment-object-project.md)** objects that affect the task start date.
 
 
 ## Remarks
 
  **ActualStartDrivers** supports the Task Drivers feature.
 
-Use the  **[Item](http://msdn.microsoft.com/library/609846d6-7f73-f6f0-fe4e-067df0802108%28Office.15%29.aspx)** property to get a single assignment from the **ActualStartDrivers** collection.
+Use the **[Item](http://msdn.microsoft.com/library/609846d6-7f73-f6f0-fe4e-067df0802108%28Office.15%29.aspx)** property to get a single assignment from the **ActualStartDrivers** collection.
 
 
 ## Properties

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SharingItem.BeforeAutoSave Event (Outlook)
 
-Occurs before the  **[SharingItem](sharingitem-object-outlook.md)** is automatically saved by Outlook.
+Occurs before the **[SharingItem](sharingitem-object-outlook.md)** is automatically saved by Outlook.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Occurs before the  **[SharingItem](sharingitem-object-outlook.md)** is automatic
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **SharingItem** to be saved.|
+| _Cancel_|Required| **Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **SharingItem** to be saved.|
 
 ## See also
 

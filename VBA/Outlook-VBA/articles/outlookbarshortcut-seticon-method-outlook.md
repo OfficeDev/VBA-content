@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarShortcut.SetIcon Method (Outlook)
 
-Sets the icon for the specified shortcut on the  **Shortcuts** pane.
+Sets the icon for the specified shortcut on the **Shortcuts** pane.
 
 
 ## Syntax

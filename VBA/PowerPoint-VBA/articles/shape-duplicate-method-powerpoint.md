@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Duplicate Method (PowerPoint)
 
-Creates a duplicate of the specified  **Shape** object, adds the new shape to the **Shapes** collection, and then returns a new **ShapeRange** object. The duplicated objects are placed at the end of the **Shapes** collection.
+Creates a duplicate of the specified **Shape** object, adds the new shape to the **Shapes** collection, and then returns a new **ShapeRange** object. The duplicated objects are placed at the end of the **Shapes** collection.
 
 
 ## Syntax

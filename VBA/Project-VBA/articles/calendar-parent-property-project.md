@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Calendar.Parent Property (Project)
 
-Gets the parent of the  **Calendar** object. Read-only **Object**.
+Gets the parent of the **Calendar** object. Read-only **Object**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the parent of the  **Calendar** object. Read-only **Object**.
 
 ## Remarks
 
-The parent of a  **Calendar** object can be a **Project**, **Resource**, **Task**, or another **Calendar** object such as a base calendar.
+The parent of a **Calendar** object can be a **Project**, **Resource**, **Task**, or another **Calendar** object such as a base calendar.
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

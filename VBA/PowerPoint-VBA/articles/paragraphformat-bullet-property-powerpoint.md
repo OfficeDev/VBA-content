@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.Bullet Property (PowerPoint)
 
-Returns a  **[BulletFormat](bulletformat-object-powerpoint.md)** object that represents bullet formatting for the specified paragraph format. Read-only.
+Returns a **[BulletFormat](bulletformat-object-powerpoint.md)** object that represents bullet formatting for the specified paragraph format. Read-only.
 
 
 ## Syntax

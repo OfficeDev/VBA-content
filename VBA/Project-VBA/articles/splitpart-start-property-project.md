@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SplitPart.Start Property (Project)
 
-Gets or sets the start date of the task split part. Read/write  **Variant**.
+Gets or sets the start date of the task split part. Read/write **Variant**.
 
 
 ## Syntax

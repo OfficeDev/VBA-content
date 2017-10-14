@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveWindow Property (PowerPoint)
 
-Returns a  **[DocumentWindow](documentwindow-object-powerpoint.md)** object that represents the active document window. Read-only.
+Returns a **[DocumentWindow](documentwindow-object-powerpoint.md)** object that represents the active document window. Read-only.
 
 
 ## Syntax

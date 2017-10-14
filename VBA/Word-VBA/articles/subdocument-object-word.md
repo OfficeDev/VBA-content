@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Subdocument Object (Word)
 
-Represents a subdocument within a document or range. The  **Subdocument** object is a member of the **[Subdocuments](subdocuments-object-word.md)** collection. The **Subdocuments** collection includes all the subdocuments in the a range or document.
+Represents a subdocument within a document or range. The **Subdocument** object is a member of the **[Subdocuments](subdocuments-object-word.md)** collection. The **Subdocuments** collection includes all the subdocuments in the a range or document.
 
 
 ## Remarks
 
-Use  **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
+Use **Subdocuments** (Index), where Index is the index number, to return a single **Subdocument** object. The following example displays the path and file name of the first subdocument in the active document.
 
 
 ```vb
@@ -29,7 +29,7 @@ If ActiveDocument.Subdocuments(1).HasFile = True Then
 End If
 ```
 
-Use the  **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
+Use the **AddFromFile** or **AddFromRange** method to add a subdocument to a document. The following example adds a subdocument named "Setup.doc" at the end of the active document.
 
 
 

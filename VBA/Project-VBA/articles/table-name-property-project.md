@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Name Property (Project)
 
-Gets the name of a  **Table** object. Read/write **String**.
+Gets the name of a **Table** object. Read/write **String**.
 
 
 ## Syntax
@@ -27,6 +27,6 @@ Gets the name of a  **Table** object. Read/write **String**.
 
  **Name** is the default property of the **Table** object.
 
-For a code example that uses the  **Task** object, see **[Name](task-name-property-project.md)**.
+For a code example that uses the **Task** object, see **[Name](task-name-property-project.md)**.
 
 

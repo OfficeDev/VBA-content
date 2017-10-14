@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.Slide Property (PowerPoint)
 
-Returns or sets a  **[Slide](slide-object-powerpoint.md)** object that represents the slide that's currently displayed in the specified document window view. Read/write.
+Returns or sets a **[Slide](slide-object-powerpoint.md)** object that represents the slide that's currently displayed in the specified document window view. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[Slide](slide-object-powerpoint.md)** object that represent
 
 ## Remarks
 
-If the currently displayed slide is from an embedded presentation, you can use the  **[Parent](slide-parent-property-powerpoint.md)** property of the **Slide** object returned by the **Slide** property to return the embedded presentation that contains the slide. (The **[Presentation](slideshowwindow-presentation-property-powerpoint.md)** property of the **SlideShowWindow** object or **DocumentWindow** object returns the presentation from which the window was created, not the embedded presentation.)
+If the currently displayed slide is from an embedded presentation, you can use the **[Parent](slide-parent-property-powerpoint.md)** property of the **Slide** object returned by the **Slide** property to return the embedded presentation that contains the slide. (The **[Presentation](slideshowwindow-presentation-property-powerpoint.md)** property of the **SlideShowWindow** object or **DocumentWindow** object returns the presentation from which the window was created, not the embedded presentation.)
 
 
 ## Example

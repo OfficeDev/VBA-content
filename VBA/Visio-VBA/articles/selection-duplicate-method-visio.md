@@ -30,16 +30,16 @@ Selection
 
 ## Remarks
 
-The  **Duplicate** method duplicates the specified object or selection and adds a copy to the same page as the original. Using the **Duplicate** method is equivalent to clicking **Duplicate** on the **Paste** menu on the **Home** tab.
+The **Duplicate** method duplicates the specified object or selection and adds a copy to the same page as the original. Using the **Duplicate** method is equivalent to clicking **Duplicate** on the **Paste** menu on the **Home** tab.
 
-When used with a  **Shape** object, the **Duplicate** method duplicates the shape.
+When used with a **Shape** object, the **Duplicate** method duplicates the shape.
 
-When used with a  **Selection** object, the **Duplicate** method duplicates the selection.
+When used with a **Selection** object, the **Duplicate** method duplicates the selection.
 
 
 ## Example
 
-The following example shows how to duplicate  **Shape** objects. The code also works for **Selection** objects.
+The following example shows how to duplicate **Shape** objects. The code also works for **Selection** objects.
 
 Before running this macro, make sure a drawing page is active in the Microsoft Visio window.
 

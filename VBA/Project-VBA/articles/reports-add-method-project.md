@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Reports.Add Method (Project)
-Adds a custom report to the  **Reports** collection.
+Adds a custom report to the **Reports** collection.
 
 ## Syntax
 
@@ -34,12 +34,12 @@ The custom report object that is added.
 
 ## Remarks
 
-The new report is empty; it does not contain any shapes such as tables or charts. To add shapes to the report, you can use methods in the  **[Shapes](shapes-object-project.md)** object such as **AddChart** and **AddTable**.
+The new report is empty; it does not contain any shapes such as tables or charts. To add shapes to the report, you can use methods in the **[Shapes](shapes-object-project.md)** object such as **AddChart** and **AddTable**.
 
 
 ## Examples
 
-The following example adds an empty report named  **Report 1**, and displays the report.
+The following example adds an empty report named **Report 1**, and displays the report.
 
 
 ```vb

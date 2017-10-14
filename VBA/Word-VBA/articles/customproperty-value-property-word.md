@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomProperty.Value Property (Word)
 
-Returns or sets the value of a custom property. Read/write  **String** .
+Returns or sets the value of a custom property. Read/write **String** .
 
 
 ## Syntax

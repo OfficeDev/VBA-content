@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewSingle.Group Property (Project)
 
-Gets or sets a  **[Group](group-object-project.md)** object for a single view. Read/write **Group**.
+Gets or sets a **[Group](group-object-project.md)** object for a single view. Read/write **Group**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets or sets a  **[Group](group-object-project.md)** object for a single view. R
 
 ## Remarks
 
-For an example using a resource group, see the  **[Group](resource-group-property-project.md)** property of the **Resource** object.
+For an example using a resource group, see the **[Group](resource-group-property-project.md)** property of the **Resource** object.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStop.Clear Method (PowerPoint)
 
-Clears the specified tab stop from the ruler and deletes it from the  **TabStops** collection.
+Clears the specified tab stop from the ruler and deletes it from the **TabStops** collection.
 
 
 ## Syntax

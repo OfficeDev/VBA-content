@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.CanMerge Property (Word)
 
-Returns a  **Boolean** that specifies whether the document can be auto-merged. Read-only.
+Returns a **Boolean** that specifies whether the document can be auto-merged. Read-only.
 
 
 ## Syntax

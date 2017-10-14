@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionStyle Object (Publisher)
 
-Represents a single caption style. The  **CaptionStyle** object is a member of the **[CaptionStyles](captionstyles-object-publisher.md)** collection. The **CaptionStyles** collection represents all the 37 caption styles available in Publisher, although not necessarily in the current document.
+Represents a single caption style. The **CaptionStyle** object is a member of the **[CaptionStyles](captionstyles-object-publisher.md)** collection. The **CaptionStyles** collection represents all the 37 caption styles available in Publisher, although not necessarily in the current document.
  
 
 

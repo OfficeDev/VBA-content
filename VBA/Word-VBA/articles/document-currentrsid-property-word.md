@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CurrentRsid Property (Word)
 
-Returns a  **Long** that represents a random number that Word assigns to changes in a document. Read-only.
+Returns a **Long** that represents a random number that Word assigns to changes in a document. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Long** that represents a random number that Word assigns to changes
 
 ## Remarks
 
-If the  **[StoreRSIDOnSave](options-storersidonsave-property-word.md)** property is **True** , each time a document is saved, Word generates a random number that the application uses to facilitate comparing and merging documents. Word stores the random numbers in a table and updates the table after each save. The **CurrentRsid** property returns the last number that Word has assigned to a document.
+If the **[StoreRSIDOnSave](options-storersidonsave-property-word.md)** property is **True** , each time a document is saved, Word generates a random number that the application uses to facilitate comparing and merging documents. Word stores the random numbers in a table and updates the table after each save. The **CurrentRsid** property returns the last number that Word has assigned to a document.
 
 
 ## See also

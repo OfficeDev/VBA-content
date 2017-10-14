@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShapes.AddPicture Method (Word)
 
-Adds a picture to a document. Returns an  **[InlineShape](inlineshape-object-word.md)** object that represents the picture.
+Adds a picture to a document. Returns an **[InlineShape](inlineshape-object-word.md)** object that represents the picture.
 
 
 ## Syntax

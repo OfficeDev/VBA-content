@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # BuildingBlockTypes Object (Word)
 
-Represents a collection of  **[BuildingBlockType](buildingblocktype-object-word.md)** objects.
+Represents a collection of **[BuildingBlockType](buildingblocktype-object-word.md)** objects.
 
 
 ## Remarks
 
-Building block types are represented by  **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** constants. Use the **[Item](buildingblocktypes-item-method-word.md)** method to access a specific type in the **BuildingBlockTypes** collection.
+Building block types are represented by **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** constants. Use the **[Item](buildingblocktypes-item-method-word.md)** method to access a specific type in the **BuildingBlockTypes** collection.
 
-To loop through the different building block types, use a  **For** loop with the **[Count](buildingblocktypes-count-property-word.md)** property. The following example loops through the building block types and prints the name in the **Immediate Window**. (This example assumes that the  **Immediate Window** is visible.)
+To loop through the different building block types, use a **For** loop with the **[Count](buildingblocktypes-count-property-word.md)** property. The following example loops through the building block types and prints the name in the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
 
 
 

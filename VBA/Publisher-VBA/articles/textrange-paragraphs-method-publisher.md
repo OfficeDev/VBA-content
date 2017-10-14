@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Paragraphs Method (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that represents the specified paragraphs.
+Returns a **[TextRange](textrange-object-publisher.md)** object that represents the specified paragraphs.
 
 
 ## Syntax
 
- _expression_. **Paragraphs**( **_Start_**,  **_Length_**)
+ _expression_. **Paragraphs**( **_Start_**, **_Length_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -39,11 +39,11 @@ TextRange
 
 ## Example
 
-If  **_Length_** is omitted, the returned range contains one paragraph.
+If **_Length_** is omitted, the returned range contains one paragraph.
 
 
 
-If  **_Length_** is greater than the number of paragraphs from the specified starting paragraph to the end of the text, the returned range contains all those paragraphs.
+If **_Length_** is greater than the number of paragraphs from the specified starting paragraph to the end of the text, the returned range contains all those paragraphs.
 
 This example formats as indents the first line of the selected paragraph.
 

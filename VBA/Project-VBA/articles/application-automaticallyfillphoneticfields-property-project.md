@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **AutomaticallyFillPhoneticFields** property produces tangible results only if the Japanese version of Project is used.
+The **AutomaticallyFillPhoneticFields** property produces tangible results only if the Japanese version of Project is used.
 
 

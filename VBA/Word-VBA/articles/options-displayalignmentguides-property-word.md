@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Options.DisplayAlignmentGuides Property (Word)
 
-Returns or sets a  **Boolean** that specifies whether alignment guides are enabled in the user interface. Read-write.
+Returns or sets a **Boolean** that specifies whether alignment guides are enabled in the user interface. Read-write.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** that specifies whether alignment guides are enabl
 
 ## Remarks
 
-If  **DisplayAlignmentGuides** is **True**, alignment guides are enabled. Setting  **DisplayAlignmentGuides** to **True** corresponds to selecting **Use Alignment Guides** on the **Align** drop-down menu in the **Arrange** group on the **Format** contextual ribbon tab in the user interface.
+If **DisplayAlignmentGuides** is **True**, alignment guides are enabled. Setting **DisplayAlignmentGuides** to **True** corresponds to selecting **Use Alignment Guides** on the **Align** drop-down menu in the **Arrange** group on the **Format** contextual ribbon tab in the user interface.
 
 
 ## Property value

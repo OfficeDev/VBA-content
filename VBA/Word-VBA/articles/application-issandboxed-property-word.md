@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **IsSandboxed** property to determine if a document is open within a protected view window.
+Use the **IsSandboxed** property to determine if a document is open within a protected view window.
 
 
 ## Example

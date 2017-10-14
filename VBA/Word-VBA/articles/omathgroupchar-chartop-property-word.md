@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathGroupChar.CharTop Property (Word)
 
-Returns or sets a  **Boolean** that represents whether the grouping character is placed above the base text of the group character object. **False** displays the group character under the base text. Read/write.
+Returns or sets a **Boolean** that represents whether the grouping character is placed above the base text of the group character object. **False** displays the group character under the base text. Read/write.
 
 
 ## Syntax

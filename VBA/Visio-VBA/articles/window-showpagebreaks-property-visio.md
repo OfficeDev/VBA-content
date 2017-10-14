@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-Setting the  **ShowPageBreaks** property is equivalent to selecting **Page Breaks** in the **Show/Hide** group on the **View** tab.
+Setting the **ShowPageBreaks** property is equivalent to selecting **Page Breaks** in the **Show/Hide** group on the **View** tab.
 
 

@@ -38,7 +38,7 @@ Selects the first cell in the active table or view.
 
 ## Remarks
 
-In the Resource Graph,  **SelectBeginning** selects the resource with the lowest identification number. In the Network Diagram, **SelectBeginning** selects the box closest to the upper-left corner of the view.
+In the Resource Graph, **SelectBeginning** selects the resource with the lowest identification number. In the Network Diagram, **SelectBeginning** selects the box closest to the upper-left corner of the view.
 
 
 ## Example

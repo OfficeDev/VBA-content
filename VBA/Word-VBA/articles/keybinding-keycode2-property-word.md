@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.KeyCode2 Property (Word)
 
-Returns a unique number for the second key in the specified key binding. Read-only  **Long** .
+Returns a unique number for the second key in the specified key binding. Read-only **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a unique number for the second key in the specified key binding. Read-on
 
 ## Example
 
-This example displays the key codes of each key in the  **KeyBindings** collection (the collection of all the customized keys in the active document).
+This example displays the key codes of each key in the **KeyBindings** collection (the collection of all the customized keys in the active document).
 
 
 ```vb

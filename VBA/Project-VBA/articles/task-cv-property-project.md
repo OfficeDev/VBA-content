@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.CV Property (Project)
 
-Gets the cost variance for a  **Task**. Read-only **Variant**.
+Gets the cost variance for a **Task**. Read-only **Variant**.
 
 
 ## Syntax

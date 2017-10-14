@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrectEntries.AddRichText Method (Word)
 
-Creates a formatted AutoCorrect entry, preserving all text attributes of the specified range. Returns an  **AutoCorrectEntry** object.
+Creates a formatted AutoCorrect entry, preserving all text attributes of the specified range. Returns an **AutoCorrectEntry** object.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ AutoCorrectEntry
 
 ## Remarks
 
-The  **RichText** property for entries added by using this method returns **True** . If **AddRichText** isn't used, inserted **AutoCorrect** entries conform to the current style.
+The **RichText** property for entries added by using this method returns **True** . If **AddRichText** isn't used, inserted **AutoCorrect** entries conform to the current style.
 
 
 ## Example

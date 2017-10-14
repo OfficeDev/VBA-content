@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.LeaderLines Property (PowerPoint)
 
-Returns the leader lines for the series. Read-only  **[LeaderLines](leaderlines-object-powerpoint.md)**.
+Returns the leader lines for the series. Read-only **[LeaderLines](leaderlines-object-powerpoint.md)**.
 
 
 ## Syntax

@@ -16,11 +16,11 @@ The interface on an undo unit in Microsoft Visio. An undo unit encapsulates the 
 
 ## Remarks
 
-The default property of  **IVBUndoUnit** is **Description** .
+The default property of **IVBUndoUnit** is **Description** .
 
-You can use the  **IVBUndoUnit** interface in Microsoft Visual Basic for Applications (VBA) or Microsoft Visual Basic to create your own undo units for the Visio undo manager. To create an undo unit, you must implement this interface, along with all of its public procedures, in a class module that you insert into your project.
+You can use the **IVBUndoUnit** interface in Microsoft Visual Basic for Applications (VBA) or Microsoft Visual Basic to create your own undo units for the Visio undo manager. To create an undo unit, you must implement this interface, along with all of its public procedures, in a class module that you insert into your project.
 
-For more information about using the  **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN, the Microsoft Developer Network.
+For more information about using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN, the Microsoft Developer Network.
 
 
 ### IVBUndoUnit methods and properties in VTable order

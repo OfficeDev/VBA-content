@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.Version Property (Project)
 
-Gets the version number of the Project application. Read-only  **String**.
+Gets the version number of the Project application. Read-only **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the version number of the Project application. Read-only  **String**.
 
 ## Remarks
 
-The  **Version** property returns "15.0" for Project.
+The **Version** property returns "15.0" for Project.
 
 

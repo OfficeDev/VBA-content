@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Group.GroupCriteria Property (Project)
 
-Gets or sets a  **[GroupCriteria](groupcriterion-object-project.md)** collection representing the fields in a group definition. Read/write **GroupCriteria**.
+Gets or sets a **[GroupCriteria](groupcriterion-object-project.md)** collection representing the fields in a group definition. Read/write **GroupCriteria**.
 
 
 ## Syntax

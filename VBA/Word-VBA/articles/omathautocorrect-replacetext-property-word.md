@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrect.ReplaceText Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word automatically replaces strings in equations with the corresponding math AutoCorrect definitions. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word automatically replaces strings in equations with the corresponding math AutoCorrect definitions. Read/write.
 
 
 ## Syntax

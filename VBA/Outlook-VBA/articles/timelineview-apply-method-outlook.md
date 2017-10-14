@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimelineView.Apply Method (Outlook)
 
-Applies the  **[TimelineView](timelineview-object-outlook.md)** object to the current view.
+Applies the **[TimelineView](timelineview-object-outlook.md)** object to the current view.
 
 
 ## Syntax

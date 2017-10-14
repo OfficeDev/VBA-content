@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ViewCombination Object (Project)
 
-Represents a combination view in Project. The  **ViewCombination** object is a member of the **[ViewsCombination](viewscombination-object-project.md)** collection.
+Represents a combination view in Project. The **ViewCombination** object is a member of the **[ViewsCombination](viewscombination-object-project.md)** collection.
  
 
 

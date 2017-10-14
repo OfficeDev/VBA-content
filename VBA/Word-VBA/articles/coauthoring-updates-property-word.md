@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.Updates Property (Word)
 
-Returns a  **[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx)** collection that represents the most recent updates that were merged into the document. Read-only.
+Returns a **[CoAuthUpdates](http://msdn.microsoft.com/library/4a164415-0c6c-213b-da94-744e2394d1ef%28Office.15%29.aspx)** collection that represents the most recent updates that were merged into the document. Read-only.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Font.AutomaticPairKerningThreshold Property (Publisher)
 
-Returns or sets a  **Variant** value that represents the point size above which kerning is automatically adjusted for characters in the specified text range. Read/write.
+Returns or sets a **Variant** value that represents the point size above which kerning is automatically adjusted for characters in the specified text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **AutomaticPairKerningThreshold**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ### Return Value

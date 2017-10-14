@@ -38,6 +38,6 @@ Double
 
 ## Remarks
 
-The  **PaperHeight** property value can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in **[VisUnitCodes](visunitcodes-enumeration-visio.md)** .
+The **PaperHeight** property value can be a string such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the unit constants declared by the Visio type library in **[VisUnitCodes](visunitcodes-enumeration-visio.md)** .
 
 

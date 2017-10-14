@@ -33,7 +33,7 @@ Options.PrintFieldCodes = True
 ActiveDocument.PrintOut
 ```
 
-This example returns the current status of the  **Field codes** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the current status of the **Field codes** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

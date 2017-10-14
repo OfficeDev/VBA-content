@@ -32,7 +32,7 @@ This example turns on the automatic replacement of ordinals with superscript let
 Options.AutoFormatAsYouTypeReplaceOrdinals = True
 ```
 
-This example returns the status of the  **Ordinals (1st) with superscript** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Ordinals (1st) with superscript** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

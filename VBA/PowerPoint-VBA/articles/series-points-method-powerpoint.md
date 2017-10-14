@@ -33,7 +33,7 @@ Returns a collection of all the points in the series.
 
 ### Return Value
 
-A  **[Points](points-object-powerpoint.md)** object that represents all the points in the series.
+A **[Points](points-object-powerpoint.md)** object that represents all the points in the series.
 
 
 ## Example

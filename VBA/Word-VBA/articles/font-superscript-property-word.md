@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** , or **wdUndefined** (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** .
+Returns **True** , **False** , or **wdUndefined** (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** .
 
-Setting the  **Superscript** property to **True** sets the **[Subscript](font-subscript-property-word.md)** property to **False** , and vice versa.
+Setting the **Superscript** property to **True** sets the **[Subscript](font-subscript-property-word.md)** property to **False** , and vice versa.
 
 
 ## Example

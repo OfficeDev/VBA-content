@@ -37,13 +37,13 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
 | _PrintRange_|Optional|**PrintRange**|The slide range.|
 | _RangeType_|Optional|**PpPrintRangeType**|The type of slide range.|
 | _SlideShowName_|Optional|**String**|The name of the slide show.|
-| _IncludeDocProperties_|Optional|**Boolean**|Whether the document properties should also be exported. The default is  **False**.|
-| _KeepIRMSettings_|Optional|**Boolean**|Whether the IRM settings should also be exported. The default is  **True**.|
-| _DocStructureTags_|Optional|**Boolean**|Whether to include document structure tags to improve document accessibility. The default is  **True**.|
-| _BitmapMissingFonts_|Optional|**Boolean**|Whether to include a bitmap of the text. The default is  **True**.|
-| _UseISO19005_1_|Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is  **False**.|
+| _IncludeDocProperties_|Optional|**Boolean**|Whether the document properties should also be exported. The default is **False**.|
+| _KeepIRMSettings_|Optional|**Boolean**|Whether the IRM settings should also be exported. The default is **True**.|
+| _DocStructureTags_|Optional|**Boolean**|Whether to include document structure tags to improve document accessibility. The default is **True**.|
+| _BitmapMissingFonts_|Optional|**Boolean**|Whether to include a bitmap of the text. The default is **True**.|
+| _UseISO19005_1_|Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
 | _IncludeMarkup_|Optional|**Boolean**|Whether the resulting document should include associated pen marks.|
-| _ExternalExporter_|Optional|**Variant**|A pointer to an Office add-in that implements the  **IMsoDocExporter** COM interface and allows calls to an alternate implementation of code. The default is a null pointer.|
+| _ExternalExporter_|Optional|**Variant**|A pointer to an Office add-in that implements the **IMsoDocExporter** COM interface and allows calls to an alternate implementation of code. The default is a null pointer.|
 | _Path_|Required|STRING||
 | _FixedFormatType_|Required|PPFIXEDFORMATTYPE||
 | _Intent_|Optional|PPFIXEDFORMATINTENT||

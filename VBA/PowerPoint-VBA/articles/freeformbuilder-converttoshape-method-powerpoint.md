@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FreeformBuilder.ConvertToShape Method (PowerPoint)
 
-Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](freeformbuilder-object-powerpoint.md)** object. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new shape.
+Creates a shape that has the geometric characteristics of the specified **[FreeformBuilder](freeformbuilder-object-powerpoint.md)** object. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new shape.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Shape
 
 ## Remarks
 
-You must apply the [AddNodes](freeformbuilder-addnodes-method-powerpoint.md)method to a  **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
+You must apply the [AddNodes](freeformbuilder-addnodes-method-powerpoint.md)method to a **FreeformBuilder** object at least once before you use the **ConvertToShape** method.
 
 
 ## Example

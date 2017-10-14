@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextStyles.Add Method (Publisher)
 
-Adds a new  **TextStyle** object to the specified **TextStyles** object and returns the new **TextStyle** object.
+Adds a new **TextStyle** object to the specified **TextStyles** object and returns the new **TextStyle** object.
 
 
 ## Syntax
 
- _expression_. **Add**( **_Font_**,  **_ParagraphFormat_**,  **_StyleName_**,  **_BasedOn_**)
+ _expression_. **Add**( **_Font_**, **_ParagraphFormat_**, **_StyleName_**, **_BasedOn_**)
 
- _expression_A variable that represents a  **TextStyles** object.
+ _expression_A variable that represents a **TextStyles** object.
 
 
 ### Parameters

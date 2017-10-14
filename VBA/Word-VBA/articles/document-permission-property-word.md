@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Permission Property (Word)
 
-Returns a  **Permission** object that represents the permission settings in the specified document.
+Returns a **Permission** object that represents the permission settings in the specified document.
 
 
 ## Syntax

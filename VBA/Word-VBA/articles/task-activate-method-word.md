@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Activate Method (Word)
 
-Activates the  **Task** object.
+Activates the **Task** object.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Activates the  **Task** object.
 
 ## Example
 
-This example activates the Notepad application if Notepad is in the  **Tasks** collection.
+This example activates the Notepad application if Notepad is in the **Tasks** collection.
 
 
 ```vb

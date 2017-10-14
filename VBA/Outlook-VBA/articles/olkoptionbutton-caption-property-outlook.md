@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkOptionButton.Caption Property (Outlook)
 
-Returns or sets a  **String** that appears on an object to identify or describe it. Read/write.
+Returns or sets a **String** that appears on an object to identify or describe it. Read/write.
 
 
 ## Syntax

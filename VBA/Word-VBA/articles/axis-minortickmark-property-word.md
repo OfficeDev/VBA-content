@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorTickMark Property (Word)
 
-Returns or sets the type of minor tick mark for the specified axis. Read/write  **[XlTickMark](xltickmark-enumeration-word.md)** .
+Returns or sets the type of minor tick mark for the specified axis. Read/write **[XlTickMark](xltickmark-enumeration-word.md)** .
 
 
 ## Syntax
@@ -28,13 +28,13 @@ Returns or sets the type of minor tick mark for the specified axis. Read/write  
  **MinorTickMark** can be one of the following **XlTickMark** constants:
 
 
--  **xlTickMarkInside**
+- **xlTickMarkInside**
     
--  **xlTickMarkOutside**
+- **xlTickMarkOutside**
     
--  **xlTickMarkCross**
+- **xlTickMarkCross**
     
--  **xlTickMarkNone**
+- **xlTickMarkNone**
     
 
 ## Example

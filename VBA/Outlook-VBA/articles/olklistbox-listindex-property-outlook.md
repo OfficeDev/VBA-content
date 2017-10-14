@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkListBox.ListIndex Property (Outlook)
 
-Returns or sets a  **Long** that indicates the location of the currently selected element in the list of the combo box control. Read/write.
+Returns or sets a **Long** that indicates the location of the currently selected element in the list of the combo box control. Read/write.
 
 
 ## Syntax

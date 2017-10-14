@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ToolbarItem.IsHierarchical Property (Visio)
 
-Indicates whether a toolbar item is hierarchical; that is, whether it contains a drop-down menu that contains more items, which can in turn be accessed by iterating through the  **ToolbarItems** collection of the toolbar. Read-only.
+Indicates whether a toolbar item is hierarchical; that is, whether it contains a drop-down menu that contains more items, which can in turn be accessed by iterating through the **ToolbarItems** collection of the toolbar. Read-only.
 
 
 ## Syntax

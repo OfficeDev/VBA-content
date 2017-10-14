@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ShowMarkupOpenSave Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word displays hidden markup when opening or saving a file.
+Returns or sets a **Boolean** that represents whether Microsoft Word displays hidden markup when opening or saving a file.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word displays h
 
 ## Remarks
 
-The  **ShowMarkupOpenSave** property corresponds to the **Make hidden markup visible when opening or saving** option in the **Security** tab of the **Options** dialog box.
+The **ShowMarkupOpenSave** property corresponds to the **Make hidden markup visible when opening or saving** option in the **Security** tab of the **Options** dialog box.
 
 
 ## Example

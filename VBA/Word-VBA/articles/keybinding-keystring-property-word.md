@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.KeyString Property (Word)
 
-Returns the key combination string for the specified keys (for example, CTRL+SHIFT+A). Read-only  **String** .
+Returns the key combination string for the specified keys (for example, CTRL+SHIFT+A). Read-only **String** .
 
 
 ## Syntax
@@ -35,7 +35,7 @@ If KeyBindings.Count >= 1 Then
 End If
 ```
 
-This example displays a message if the  **KeyBindings** collection includes the ALT+CTRL+W key combination.
+This example displays a message if the **KeyBindings** collection includes the ALT+CTRL+W key combination.
 
 
 

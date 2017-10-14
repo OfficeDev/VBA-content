@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.Open Method (Word)
 
-Opens the specified document and adds it to the  **Documents** collection. Returns a **Document** object.
+Opens the specified document and adds it to the **Documents** collection. Returns a **Document** object.
 
 
 ## Syntax
@@ -35,15 +35,15 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
 | _AddToRecentFiles_|Optional| **Variant**| **True** to add the file name to the list of recently used files at the bottom of the **File** menu.|
 | _PasswordDocument_|Optional| **Variant**|The password for opening the document.|
 | _PasswordTemplate_|Optional| **Variant**|The password for opening the template.|
-| _Revert_|Optional| **Variant**|Controls what happens if FileName is the name of an open document.  **True** to discard any unsaved changes to the open document and reopen the file. **False** to activate the open document.|
+| _Revert_|Optional| **Variant**|Controls what happens if FileName is the name of an open document. **True** to discard any unsaved changes to the open document and reopen the file. **False** to activate the open document.|
 | _WritePasswordDocument_|Optional| **Variant**|The password for saving changes to the document.|
 | _WritePasswordTemplate_|Optional| **Variant**|The password for saving changes to the template.|
-| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the  **WdOpenFormat** constants. The default value is **wdOpenFormatAuto** . To specify an external file format, apply the **OpenFormat** property to a **FileConverter** object to determine the value to use with this argument.|
-| _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Microsoft Word when you view the saved document. Can be any valid  **MsoEncoding** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default value is the system code page.|
+| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the **WdOpenFormat** constants. The default value is **wdOpenFormatAuto** . To specify an external file format, apply the **OpenFormat** property to a **FileConverter** object to determine the value to use with this argument.|
+| _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Microsoft Word when you view the saved document. Can be any valid **MsoEncoding** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default value is the system code page.|
 | _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default value is **True** .|
 | _OpenConflictDocument_|Optional| **Variant**|Specifies whether to open the conflict file for a document with an offline conflict.|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
-| _DocumentDirection_|Optional| **WdDocumentDirection**|Indicates the horizontal flow of text in a document. The default value is  **wdLeftToRight** .|
+| _DocumentDirection_|Optional| **WdDocumentDirection**|Indicates the horizontal flow of text in a document. The default value is **wdLeftToRight** .|
 | _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the Encoding dialog box that Word displays if the text encoding cannot be recognized. The default value is **False** .|
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.LanguageIDOther Property (Word)
 
-Returns or sets the language for the specified object. Read/write  **WdLanguageID** .
+Returns or sets the language for the specified object. Read/write **WdLanguageID** .
 
 
 ## Syntax

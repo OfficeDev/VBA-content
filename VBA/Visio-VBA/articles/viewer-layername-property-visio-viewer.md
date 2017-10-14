@@ -17,7 +17,7 @@ Gets the name of the layer at the specified index in the drawing open in Microso
 
  _expression_. **LayerName**( **_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Gets the name of the layer at the specified index in the drawing open in Microso
 
 ## Remarks
 
-The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if there is no layer at index position LayerIndex, the  **LayerName** property returns nothing.
+The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, or if there is no layer at index position LayerIndex, the **LayerName** property returns nothing.
 
 
 ## Example

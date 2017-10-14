@@ -38,7 +38,7 @@ Options.SaveNormalPrompt = False
 Application.Quit
 ```
 
-This example returns the current status of the  **Prompt to save Normal template** option on the **Save** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the current status of the **Prompt to save Normal template** option on the **Save** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

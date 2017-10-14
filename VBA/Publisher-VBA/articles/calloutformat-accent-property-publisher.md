@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Accent Property (Publisher)
 
-Returns or sets an  **MsoTriState**constant indicating whether a vertical accent bar separates the callout text from the callout line. Read/write.
+Returns or sets an **MsoTriState**constant indicating whether a vertical accent bar separates the callout text from the callout line. Read/write.
 
 
 ## Syntax
 
  _expression_. **Accent**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **Accent** property value can be one of these **MsoTriState** constants.
+The **Accent** property value can be one of these **MsoTriState** constants.
 
 
 
@@ -38,8 +38,8 @@ The  **Accent** property value can be one of these **MsoTriState** constants.
 |:-----|:-----|
 | **msoCTrue**|Not used with this property.|
 | **msoFalse**|A vertical accent bar does not separate the callout text from the callout line.|
-| **msoTriStateMixed**|Return value only; indicates a combination of  **msoTrue** and **msoFalse** in the specified shape range.|
-| **msoTriStateToggle**|Set value only; switches between  **msoTrue** and **msoFalse**.|
+| **msoTriStateMixed**|Return value only; indicates a combination of **msoTrue** and **msoFalse** in the specified shape range.|
+| **msoTriStateToggle**|Set value only; switches between **msoTrue** and **msoFalse**.|
 | **msoTrue**|A vertical accent bar separates the callout text from the callout line.|
 
 ## Example

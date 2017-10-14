@@ -25,7 +25,7 @@ Returns a [SmartArt](http://msdn.microsoft.com/library/24332c9b-87c9-7678-9d9f-9
 
 ## Remarks
 
-The  **SmartArt** property provides an entry point for interacting with a SmartArt graphic associated with the shape.
+The **SmartArt** property provides an entry point for interacting with a SmartArt graphic associated with the shape.
 
 
 ## Example

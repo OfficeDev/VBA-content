@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisContainerNested Enumeration (Visio)
 
-Specifies whether to include or exclude shapes from nested containers; constants passed to the  **[Page.GetContainers](page-getcontainers-method-visio.md)** and **[Selection.GetContainers](selection-getcontainers-method-visio.md)** methods.
+Specifies whether to include or exclude shapes from nested containers; constants passed to the **[Page.GetContainers](page-getcontainers-method-visio.md)** and **[Selection.GetContainers](selection-getcontainers-method-visio.md)** methods.
 
 
 

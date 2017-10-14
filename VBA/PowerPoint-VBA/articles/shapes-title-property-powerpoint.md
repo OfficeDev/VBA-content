@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.Title Property (PowerPoint)
 
-Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the slide title. Read-only.
+Returns a **[Shape](shape-object-powerpoint.md)** object that represents the slide title. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Shape
 
 ## Remarks
 
-You can also use the  **[Item](placeholders-item-method-powerpoint.md)** method of the **[Shapes](shapes-object-powerpoint.md)** or **[Placeholders](placeholders-object-powerpoint.md)** collection to return the slide title.
+You can also use the **[Item](placeholders-item-method-powerpoint.md)** method of the **[Shapes](shapes-object-powerpoint.md)** or **[Placeholders](placeholders-object-powerpoint.md)** collection to return the slide title.
 
 
 ## Example

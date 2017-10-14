@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlock Object (Publisher)
 
-Represents a single building block. The  **BuildingBlock** object is a member of the **[BuildingBlocks](buildingblocks-object-publisher.md)** collection.
+Represents a single building block. The **BuildingBlock** object is a member of the **[BuildingBlocks](buildingblocks-object-publisher.md)** collection.
  
 
 

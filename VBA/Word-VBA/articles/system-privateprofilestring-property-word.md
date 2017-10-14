@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.PrivateProfileString Property (Word)
 
-Returns or sets a string in a settings file or the Microsoft Windows registry. Read/write  **String** .
+Returns or sets a string in a settings file or the Microsoft Windows registry. Read/write **String** .
 
 
 ## Syntax

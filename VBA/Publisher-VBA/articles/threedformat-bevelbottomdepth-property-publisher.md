@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.BevelBottomDepth Property (Publisher)
 
-Returns or sets a  **Single** that represents the depth of the bottom bevel. Read/write.
+Returns or sets a **Single** that represents the depth of the bottom bevel. Read/write.
 
 
 ## Syntax
 
  _expression_. **BevelBottomDepth**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ## Return value

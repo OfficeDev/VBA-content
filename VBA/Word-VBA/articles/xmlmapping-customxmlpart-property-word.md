@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLMapping.CustomXMLPart Property (Word)
 
-Returns a  **CustomXMLPart** object that represents the custom XML part to which the content control in the document maps.
+Returns a **CustomXMLPart** object that represents the custom XML part to which the content control in the document maps.
 
 
 ## Syntax

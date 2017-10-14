@@ -17,7 +17,7 @@ Unloads the drawing file that is open in Microsoft Visio Viewer.
 
  _expression_. **Unload**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value

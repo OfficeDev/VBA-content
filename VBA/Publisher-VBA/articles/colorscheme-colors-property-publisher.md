@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorScheme.Colors Property (Publisher)
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing a color from the specified color scheme.
+Returns a **[ColorFormat](colorformat-object-publisher.md)** object representing a color from the specified color scheme.
 
 
 ## Syntax
 
  _expression_. **Colors**( **_ColorIndex_**)
 
- _expression_A variable that represents a  **ColorScheme** object.
+ _expression_A variable that represents a **ColorScheme** object.
 
 
 ### Parameters
@@ -38,12 +38,12 @@ ColorFormat
 
 ## Remarks
 
-The ColorIndex parameter can be one of the  **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The ColorIndex parameter can be one of the **[PbSchemeColorIndex](pbschemecolorindex-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example
 
-The following example loops through the  **ColorSchemes** collection and looks for color schemes where the followed hyperlink color matches the color with the RGB value of 128.
+The following example loops through the **ColorSchemes** collection and looks for color schemes where the followed hyperlink color matches the color with the RGB value of 128.
 
 
 ```vb

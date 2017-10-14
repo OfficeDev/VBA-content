@@ -30,6 +30,6 @@ Long
 
 ## Remarks
 
-If the section is not in a  **Page** object, the **ContainingPageID** property returns -1.
+If the section is not in a **Page** object, the **ContainingPageID** property returns -1.
 
 

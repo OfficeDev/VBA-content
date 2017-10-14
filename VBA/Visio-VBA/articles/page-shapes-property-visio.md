@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Page.Shapes Property (Visio)
 
-Returns the  **Shapes** collection for a page, master, or group. Read-only.
+Returns the **Shapes** collection for a page, master, or group. Read-only.
 
 
 ## Syntax
@@ -30,15 +30,15 @@ Shapes
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVPage.Shapes**
+- **Microsoft.Office.Interop.Visio.IVPage.Shapes**
     
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Shapes** property to get the **Shapes** collection. It prints the names of all shapes on Page1 in the Immediate window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Shapes** property to get the **Shapes** collection. It prints the names of all shapes on Page1 in the Immediate window.
 
 To run this macro, make sure the active document has shapes on Page1.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeZone.Name Property (Outlook)
 
-Returns a  **String** that represents the identifier of the time zone. Read-only.
+Returns a **String** that represents the identifier of the time zone. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** that represents the identifier of the time zone. Read-only
 
 ## Remarks
 
-The  **Name** usually includes the offset value from Coordinated Universal Time (UTC), the official time zone name, and regions where the time zone is used. It is stored as the Display value in the registry key for a time zone.
+The **Name** usually includes the offset value from Coordinated Universal Time (UTC), the official time zone name, and regions where the time zone is used. It is stored as the Display value in the registry key for a time zone.
 
 
 ## See also

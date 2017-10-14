@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DocumentWindows.Item Method (PowerPoint)
 
-Returns a single  **DocumentWindow** object from the specified **DocumentWindows** collection.
+Returns a single **DocumentWindow** object from the specified **DocumentWindows** collection.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Returns a single  **DocumentWindow** object from the specified **DocumentWindows
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **DocumentWindow** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **DocumentWindow** object in the collection to be returned.|
 
 ### Return Value
 

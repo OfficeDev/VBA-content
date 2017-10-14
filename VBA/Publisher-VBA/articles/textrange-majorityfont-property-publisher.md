@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.MajorityFont Property (Publisher)
 
-Returns a  **[Font](font-object-publisher.md)** object that represents the font name most in use in a text range.
+Returns a **[Font](font-object-publisher.md)** object that represents the font name most in use in a text range.
 
 
 ## Syntax
 
  _expression_. **MajorityFont**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

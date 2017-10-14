@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey.MarkerSize Property (Word)
 
-Returns or sets the data-marker size, in points. Read/write  **Long** .
+Returns or sets the data-marker size, in points. Read/write **Long** .
 
 
 ## Syntax

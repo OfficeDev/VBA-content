@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.EncryptionProvider Property (PowerPoint)
 
-Returns a  **String** that specifies the name of the algorithm encryption provider that PowerPoint uses when encrypting documents. Read/write.
+Returns a **String** that specifies the name of the algorithm encryption provider that PowerPoint uses when encrypting documents. Read/write.
 
 
 ## Syntax

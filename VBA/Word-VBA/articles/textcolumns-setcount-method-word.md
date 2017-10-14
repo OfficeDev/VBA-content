@@ -33,7 +33,7 @@ Arranges text into the specified number of text columns.
 
 ## Remarks
 
-You can also use the  **[Add](textcolumns-add-method-word.md)** method to add a single column to the **TextColumns** collection.
+You can also use the **[Add](textcolumns-add-method-word.md)** method to add a single column to the **TextColumns** collection.
 
 
 ## Example

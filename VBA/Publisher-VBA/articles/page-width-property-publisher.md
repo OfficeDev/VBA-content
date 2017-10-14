@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Page.Width Property (Publisher)
 
-Returns a  **Long** that represent the width (in points) of a cell, range of cells, or page. Read-only.
+Returns a **Long** that represent the width (in points) of a cell, range of cells, or page. Read-only.
 
 
 ## Syntax
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 

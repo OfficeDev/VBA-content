@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.LevelToDate Property (Project)
 
-Gets or sets the ending date of a range in which overallocated resources are leveled. The default is the project finish date or the last entered date value. Read/write  **Variant**.
+Gets or sets the ending date of a range in which overallocated resources are leveled. The default is the project finish date or the last entered date value. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the ending date of a range in which overallocated resources are lev
 
 ## Remarks
 
-You can also set the  **LevelToDate** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click the **Level** option and set the **To** date.
+You can also set the **LevelToDate** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click the **Level** option and set the **To** date.
 
 
 ## Example

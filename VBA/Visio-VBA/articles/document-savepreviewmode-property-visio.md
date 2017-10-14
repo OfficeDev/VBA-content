@@ -30,7 +30,7 @@ VisSavePreviewMode
 
 ## Remarks
 
-The value of the  **SavePreviewMode** property corresponds to the **Save preview picture** setting on the **Summary** tab of the **Properties** dialog box. (Click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**.) A preview of the first page appears in the  **Open** dialog box. The value of **SavePreviewMode** can be one of the following **VisSavePreviewMode** constants. Selecting the **Save preview mode** checkbox is equivalent to setting the **SavePreviewMode** property to **visSavePreviewDraft1st** , which is the default.
+The value of the **SavePreviewMode** property corresponds to the **Save preview picture** setting on the **Summary** tab of the **Properties** dialog box. (Click the **File** tab, click **Info**, click **Properties**, and then click **Advanced Properties**.) A preview of the first page appears in the **Open** dialog box. The value of **SavePreviewMode** can be one of the following **VisSavePreviewMode** constants. Selecting the **Save preview mode** checkbox is equivalent to setting the **SavePreviewMode** property to **visSavePreviewDraft1st** , which is the default.
 
 
 

@@ -32,7 +32,7 @@ This example causes Word to prompt for document property information when saving
 Options.SavePropertiesPrompt = True
 ```
 
-This example returns the current status of the  **Prompt for document properties** option on the **Save** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the current status of the **Prompt for document properties** option on the **Save** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

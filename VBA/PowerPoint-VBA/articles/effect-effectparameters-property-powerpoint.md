@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Effect.EffectParameters Property (PowerPoint)
 
-Returns an  **[EffectParameters](effectparameters-object-powerpoint.md)** object that represents animation effect properties.
+Returns an **[EffectParameters](effectparameters-object-powerpoint.md)** object that represents animation effect properties.
 
 
 ## Syntax

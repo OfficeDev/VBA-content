@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # CaptionStyles.Item Method (Publisher)
 
-Returns the specified  **[CaptionStyle](captionstyle-object-publisher.md)** object from a **CaptionStyles** collection. Read-only.
+Returns the specified **[CaptionStyle](captionstyle-object-publisher.md)** object from a **CaptionStyles** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Index_**)
 
- _expression_A variable that represents a  **CaptionStyles** object.
+ _expression_A variable that represents a **CaptionStyles** object.
 
 
 ### Parameters

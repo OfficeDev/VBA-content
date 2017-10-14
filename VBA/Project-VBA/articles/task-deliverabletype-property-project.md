@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.DeliverableType Property (Project)
 
-Gets or sets the type of deliverable for the task. Read/write  **Integer**.
+Gets or sets the type of deliverable for the task. Read/write **Integer**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the type of deliverable for the task. Read/write  **Integer**.
 
 ## Remarks
 
-The  **DeliverableType** property can have the following values:
+The **DeliverableType** property can have the following values:
 
 
 

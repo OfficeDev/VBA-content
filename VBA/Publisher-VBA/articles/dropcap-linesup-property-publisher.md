@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # DropCap.LinesUp Property (Publisher)
 
-Returns or sets a  **Long** that represents the number of lines an initial dropped capital letter is raised above the line of text on which it exists. Read/write.
+Returns or sets a **Long** that represents the number of lines an initial dropped capital letter is raised above the line of text on which it exists. Read/write.
 
 
 ## Syntax
 
  _expression_. **LinesUp**
 
- _expression_A variable that represents a  **DropCap** object.
+ _expression_A variable that represents a **DropCap** object.
 
 
 ### Return Value

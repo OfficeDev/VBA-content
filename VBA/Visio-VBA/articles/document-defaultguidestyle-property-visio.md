@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-The  **DefaultGuideStyle** property specifies what style is applied to new guides created in the document.
+The **DefaultGuideStyle** property specifies what style is applied to new guides created in the document.
 
 

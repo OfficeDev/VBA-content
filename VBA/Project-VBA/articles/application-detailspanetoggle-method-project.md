@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DetailsPaneToggle Method (Project)
 
-Shows or hides the task or resource  **Details** pane for the selected item.
+Shows or hides the task or resource **Details** pane for the selected item.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Shows or hides the task or resource  **Details** pane for the selected item.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Timeline_|Optional|**Variant**|If the value is  **True** or 1, the method shows or hides the project Timeline pane. The default value is **False**.|
+| _Timeline_|Optional|**Variant**|If the value is **True** or 1, the method shows or hides the project Timeline pane. The default value is **False**.|
 
 ### Return Value
 
@@ -38,12 +38,12 @@ Shows or hides the task or resource  **Details** pane for the selected item.
 
 ## Remarks
 
-If more than one task or resource is selected, the  **Details** pane shows the first item. If an empty item is selected, the project displays the Details pane with no data.
+If more than one task or resource is selected, the **Details** pane shows the first item. If an empty item is selected, the project displays the Details pane with no data.
 
 
 ## Example
 
-If the current view is a Calendar view where one task is selected, the following example first shows the  **Details** pane for that task, and then hides the **Details** pane and shows the **Timeline** pane.
+If the current view is a Calendar view where one task is selected, the following example first shows the **Details** pane for that task, and then hides the **Details** pane and shows the **Timeline** pane.
 
 
 ```

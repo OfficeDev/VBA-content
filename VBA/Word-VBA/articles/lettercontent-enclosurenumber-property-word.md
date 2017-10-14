@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.EnclosureNumber Property (Word)
 
-Returns or sets the number of enclosures for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the number of enclosures for a letter created by the Letter Wizard. Read/write **String** .
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This example displays the number of enclosures specified in the active document.
 MsgBox ActiveDocument.GetLetterContent.EnclosureNumber
 ```
 
-This example retrieves letter elements from the active document, changes the number of enclosures by setting the  **[EnclosureNumber](lettercontent-enclosurenumber-property-word.md)** property, and then uses the **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the active document to reflect the changes.
+This example retrieves letter elements from the active document, changes the number of enclosures by setting the **[EnclosureNumber](lettercontent-enclosurenumber-property-word.md)** property, and then uses the **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the active document to reflect the changes.
 
 
 

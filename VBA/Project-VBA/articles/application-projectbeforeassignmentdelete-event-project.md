@@ -36,10 +36,10 @@ nothing
 
 ## Remarks
 
-The  **ProjectBeforeAssignmentDelete** event also fires when assigning a resource to a task with no resource assignments, because an "Unassigned Resource" assignment is removed before the new assignment is created.
+The **ProjectBeforeAssignmentDelete** event also fires when assigning a resource to a task with no resource assignments, because an "Unassigned Resource" assignment is removed before the new assignment is created.
 
 Project events do not occur when the project is embedded in another document or application. 
 
-The  **ProjectBeforeAssignmentDelete** event doesn't occur when an assignment is deleted as the result of a drag-and-drop operation in the **Resource Usage** view, or when changes have been made using a custom form.
+The **ProjectBeforeAssignmentDelete** event doesn't occur when an assignment is deleted as the result of a drag-and-drop operation in the **Resource Usage** view, or when changes have been made using a custom form.
 
 

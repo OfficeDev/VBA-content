@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Delete Method (PowerPoint)
 
-Deletes the specified  **Hyperlink** object.
+Deletes the specified **Hyperlink** object.
 
 
 ## Syntax

@@ -37,7 +37,7 @@ This example enables Word to automatically replace any Internet or network paths
 Options.AutoFormatAsYouTypeReplaceHyperlinks = True
 ```
 
-This example returns the status of the  **Internet and network paths with hyperlinks** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Internet and network paths with hyperlinks** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

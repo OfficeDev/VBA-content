@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.Encoding Property (Word)
 
-Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. Read/write  **MsoEncoding** .
+Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. Read/write **MsoEncoding** .
 
 
 ## Syntax

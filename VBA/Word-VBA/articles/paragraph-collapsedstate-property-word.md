@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Paragraph.CollapsedState Property (Word)
 
-Returns or sets whether the specified paragraph is currently in a collapsed state. Read-write  **Boolean**.
+Returns or sets whether the specified paragraph is currently in a collapsed state. Read-write **Boolean**.
 
 
 ## Syntax

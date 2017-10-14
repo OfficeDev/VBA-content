@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.Style Property (Visio)
 
-Gets the style that contains a  **Section** object. Read-only.
+Gets the style that contains a **Section** object. Read-only.
 
 
 ## Syntax
@@ -30,10 +30,10 @@ Style
 
 ## Remarks
 
-If a style consists of different text, line, and fill styles, the  **Style** property returns the fill style.
+If a style consists of different text, line, and fill styles, the **Style** property returns the fill style.
 
-If a  **Section** object is in a style, its **Style** property returns the style that contains the cell, and its **Shape** property returns **Nothing** .
+If a **Section** object is in a style, its **Style** property returns the style that contains the cell, and its **Shape** property returns **Nothing** .
 
-If a  **Section** object is in a shape, its **Shape** property returns the shape that contains the cell, and its **Style** property returns **Nothing** .
+If a **Section** object is in a shape, its **Shape** property returns the shape that contains the cell, and its **Style** property returns **Nothing** .
 
 

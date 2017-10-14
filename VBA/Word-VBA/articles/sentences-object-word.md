@@ -8,19 +8,19 @@ ms.date: 06/08/2017
 
 # Sentences Object (Word)
 
-A collection of  **[Range](range-object-word.md)** objects that represent all the sentences in a selection, range, or document. There is no Sentence object.
+A collection of **[Range](range-object-word.md)** objects that represent all the sentences in a selection, range, or document. There is no Sentence object.
 
 
 ## Remarks
 
-Use the  **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
+Use the **Sentences** property to return the **Sentences** collection. The following example displays the number of sentences selected.
 
 
 ```
 MsgBox Selection.Sentences.Count &amp; " sentences are selected"
 ```
 
-Use  **Sentences** (Index), where Index is the index number, to return a **Range** object that represents a sentence. The index number represents the position of a sentence in the **Sentences** collection. The following example formats the first sentence in the active document.
+Use **Sentences** (Index), where Index is the index number, to return a **Range** object that represents a sentence. The index number represents the position of a sentence in the **Sentences** collection. The following example formats the first sentence in the active document.
 
 
 
@@ -32,9 +32,9 @@ With ActiveDocument.Sentences(1)
 End With
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
+The **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object.
 
-The  **Add** method isn't available for the **Sentences** collection. Instead, use the **InsertAfter** or **InsertBefore** method to add a sentence to a **Range** object. The following example inserts a sentence after the first paragraph in the active document.
+The **Add** method isn't available for the **Sentences** collection. Instead, use the **InsertAfter** or **InsertBefore** method to add a sentence to a **Range** object. The following example inserts a sentence after the first paragraph in the active document.
 
 
 

@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Column Object (Publisher)
 
-Represents a single table column. The  **Column** object is a member of the **[Columns](columns-object-publisher.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
+Represents a single table column. The **Column** object is a member of the **[Columns](columns-object-publisher.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
  
 
 
 ## Example
 
-Use  **Columns** (index), where index is the column number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). This example selects column three in the first shape in the active publication. This example assumes the first shape is a table and not another type of shape.
+Use **Columns** (index), where index is the column number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). This example selects column three in the first shape in the active publication. This example assumes the first shape is a table and not another type of shape.
  
 
  
@@ -30,7 +30,7 @@ Sub SelectColumn()
 End Sub
 ```
 
-Use the  **[Item](columns-item-method-publisher.md)** method of a **[Columns](columns-object-publisher.md)** collection to return a **Column** object. This example enters text into the first cell of the third column of the specified table and formats the text with a bold, 15-point font. This example assumes the first shape is a table and not another type of shape.
+Use the **[Item](columns-item-method-publisher.md)** method of a **[Columns](columns-object-publisher.md)** collection to return a **Column** object. This example enters text into the first cell of the third column of the specified table and formats the text with a bold, 15-point font. This example assumes the first shape is a table and not another type of shape.
  
 
  
@@ -48,7 +48,7 @@ Sub ColumnHeading()
 End Sub
 ```
 
-Use the  **[Delete](column-delete-method-publisher.md)** method to delete a column from a table. This example deletes the column added in the above example.
+Use the **[Delete](column-delete-method-publisher.md)** method to delete a column from a table. This example deletes the column added in the above example.
  
 
  

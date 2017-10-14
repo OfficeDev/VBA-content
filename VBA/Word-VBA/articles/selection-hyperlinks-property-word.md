@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Hyperlinks Property (Word)
 
-Returns a  **[Hyperlinks](hyperlinks-object-word.md)** collection that represents all the hyperlinks in the specified selection. Read-only.
+Returns a **[Hyperlinks](hyperlinks-object-word.md)** collection that represents all the hyperlinks in the specified selection. Read-only.
 
 
 ## Syntax

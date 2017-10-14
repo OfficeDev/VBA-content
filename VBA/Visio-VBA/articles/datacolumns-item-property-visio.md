@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataColumns.Item Property (Visio)
 
-Returns the  **DataColumn** object at the specified index position, or of the specified name, in the **DataColumns** collection. Read-only.
+Returns the **DataColumn** object at the specified index position, or of the specified name, in the **DataColumns** collection. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -32,7 +32,7 @@ Returns the  **DataColumn** object at the specified index position, or of the sp
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _IndexOrName_|Required| **Variant**|The index (as a  **Long** ) or the name (as a **String** ) of the data column to retrieve.|
+| _IndexOrName_|Required| **Variant**|The index (as a **Long** ) or the name (as a **String** ) of the data column to retrieve.|
 
 ### Return Value
 
@@ -43,7 +43,7 @@ DataColumn
 
  **Item** is the default property of the **DataColumns** collection.
 
-When you retrieve objects from a collection, you can omit  **Item** from the expression because it is the default property of all collections. The following statements are equivalent to the syntax example given above:
+When you retrieve objects from a collection, you can omit **Item** from the expression because it is the default property of all collections. The following statements are equivalent to the syntax example given above:
 
 
 

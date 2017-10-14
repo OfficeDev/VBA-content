@@ -42,7 +42,7 @@ Adds a borderless line callout to a drawing canvas. .
 
 ## Remarks
 
-You can insert a greater variety of callouts, such as balloons and clouds, using the  **AddShape** method.
+You can insert a greater variety of callouts, such as balloons and clouds, using the **AddShape** method.
 
 
 ## Example

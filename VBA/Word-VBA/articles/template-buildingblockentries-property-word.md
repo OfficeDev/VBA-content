@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.BuildingBlockEntries Property (Word)
 
-Returns a  **[BuildingBlockEntries](buildingblockentries-object-word.md)** collection that represents the collection of building block entries in a template. Read-only.
+Returns a **[BuildingBlockEntries](buildingblockentries-object-word.md)** collection that represents the collection of building block entries in a template. Read-only.
 
 
 ## Syntax

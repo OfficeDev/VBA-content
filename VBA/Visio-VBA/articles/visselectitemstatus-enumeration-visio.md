@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisSelectItemStatus Enumeration (Visio)
 
-Values returned by the  **Selection.ItemStatus** property.
+Values returned by the **Selection.ItemStatus** property.
 
 
 

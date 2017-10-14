@@ -39,9 +39,9 @@ Nothing
 
 ## Remarks
 
-If the row's type is not  **visTagPolylineTo** , an exception is raised.
+If the row's type is not **visTagPolylineTo** , an exception is raised.
 
-If the  **GetPolylineData** method succeeds, _xyArray()_ returns a one-dimensional array of _n_ doubles (VT_R8) indexed from 0 to _n_ - 1. The parameter _xyArray()_ is an out parameter that is allocated by the **GetPolylineData** method, which passes ownership back to the caller. The caller should eventually perform **SafeArrayDestroy** on the returned array. (Microsoft Visual Basic and Visual Basic for Applications manage this for you.)
+If the **GetPolylineData** method succeeds, _xyArray()_ returns a one-dimensional array of _n_ doubles (VT_R8) indexed from 0 to _n_ - 1. The parameter _xyArray()_ is an out parameter that is allocated by the **GetPolylineData** method, which passes ownership back to the caller. The caller should eventually perform **SafeArrayDestroy** on the returned array. (Microsoft Visual Basic and Visual Basic for Applications manage this for you.)
 
 The  _Flags_ parameter is a bitmask that specifies options for returning points. Its value should be **visGeomWHPct** , **visGeomXYLocal** , or a combination of either of those values with **visGeomExcludeLastPoint** . If neither **visGeomWHPct** nor **visGeomXYLocal** is passed as part of the _Flags_ parameter, an error will be generated.
 

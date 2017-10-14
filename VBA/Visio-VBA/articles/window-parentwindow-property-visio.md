@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ParentWindow Property (Visio)
 
-Returns the  **Window** object that is the parent of another **Window** object. Read-only.
+Returns the **Window** object that is the parent of another **Window** object. Read-only.
 
 
 ## Syntax
@@ -32,6 +32,6 @@ Window
 
  **ParentWindow** returns nothing and raises no exception if the window is a top-level window. A top-level window is a member of the **Windows** collection of an **Application** object.
 
-Use the  **Parent** property of a **Window** object to get the **Windows** collection to which a **Window** object belongs.
+Use the **Parent** property of a **Window** object to get the **Windows** collection to which a **Window** object belongs.
 
 

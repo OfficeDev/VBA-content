@@ -13,22 +13,22 @@ ms.date: 06/08/2017
 
 # KeyBinding Object (Word)
 
-Represents a custom key assignment in the current context. The  **KeyBinding** object is a member of the **KeyBindings** collection.
+Represents a custom key assignment in the current context. The **KeyBinding** object is a member of the **KeyBindings** collection.
 
 
 ## Remarks
 
-Use  **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **[KeyBindings](keybindings-object-word.md)** collection.
+Use **KeyBindings** (Index), where Index is the index number, to return a single **KeyBinding** object. The following example displays the command associated with the first **KeyBinding** object in the **[KeyBindings](keybindings-object-word.md)** collection.
 
 
 ```vb
 MsgBox KeyBindings(1).Command
 ```
 
-You can also use the  **FindKey** property and the **Key** method to return a **KeyBinding** object.
+You can also use the **FindKey** property and the **Key** method to return a **KeyBinding** object.
 
 
- **Note**  Custom key assignments are made in the  **Customize Keyboard** dialog box.
+ **Note**  Custom key assignments are made in the **Customize Keyboard** dialog box.
 
 
 ## See also

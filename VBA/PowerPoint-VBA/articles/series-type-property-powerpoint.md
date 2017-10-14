@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Series.Type Property (PowerPoint)
 
-Returns or sets the series type. Read/write  **Long**.
+Returns or sets the series type. Read/write **Long**.
 
 
 ## Syntax
@@ -22,34 +22,34 @@ Returns or sets the series type. Read/write  **Long**.
 
 ## Remarks
 
-You can use the following  **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants for this property:
+You can use the following **[XlConstants](xlconstants-enumeration-powerpoint.md)** constants for this property:
 
 
--  **xlColumn**
+- **xlColumn**
     
--  **xlBar**
+- **xlBar**
     
--  **xl3DBar**
+- **xl3DBar**
     
--  **xlLine**
+- **xlLine**
     
--  **xlPie**
+- **xlPie**
     
--  **xlXYScatter**
+- **xlXYScatter**
     
--  **xlArea**
+- **xlArea**
     
--  **xl3DArea**
+- **xl3DArea**
     
--  **xlDoughnut**
+- **xlDoughnut**
     
--  **xlRadar**
+- **xlRadar**
     
--  **xl3DSurface**
+- **xl3DSurface**
     
--  **xl3DColumn**
+- **xl3DColumn**
     
--  **xl3DBar**
+- **xl3DBar**
     
 
 

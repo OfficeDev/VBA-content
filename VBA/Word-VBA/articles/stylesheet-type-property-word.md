@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StyleSheet.Type Property (Word)
 
-Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](wdstylesheetlinktype-enumeration-word.md)** .
+Returns or sets the style sheet type. Read/write **[WdStyleSheetLinkType](wdstylesheetlinktype-enumeration-word.md)** .
 
 
 ## Syntax

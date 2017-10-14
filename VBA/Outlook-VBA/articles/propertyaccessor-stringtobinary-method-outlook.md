@@ -33,12 +33,12 @@ Converts a string specified by  _Value_ to an array of bytes.
 
 ### Return Value
 
-A  **Variant** value that represents an array of bytes returned from the conversion.
+A **Variant** value that represents an array of bytes returned from the conversion.
 
 
 ## Remarks
 
-For more information on type conversion when using the  **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
+For more information on type conversion when using the **PropertyAccessor** object, see[Best Practices for Getting and Setting Properties](http://msdn.microsoft.com/library/ec087bf8-cfac-9b20-3cb2-3bd308c5c63d%28Office.15%29.aspx).
 
 
 ## See also

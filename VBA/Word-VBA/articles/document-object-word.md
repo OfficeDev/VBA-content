@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Document Object (Word)
 
-Represents a document. The  **Document** object is a member of the **[Documents](http://msdn.microsoft.com/library/fc4ac973-19c1-703a-5538-f4426b8b7564%28Office.15%29.aspx)** collection. The **Documents** collection contains all the **Document** objects that are currently open in Word.
+Represents a document. The **Document** object is a member of the **[Documents](http://msdn.microsoft.com/library/fc4ac973-19c1-703a-5538-f4426b8b7564%28Office.15%29.aspx)** collection. The **Documents** collection contains all the **Document** objects that are currently open in Word.
 
 
 ## Remarks
 
-Use  **[Documents](http://msdn.microsoft.com/library/7e477cb3-ae65-685a-0083-1826efe86703%28Office.15%29.aspx)** (Index), where Index is the document name or index number to return a single **Document** object. The following example closes the document named "Report.doc" without saving changes.
+Use **[Documents](http://msdn.microsoft.com/library/7e477cb3-ae65-685a-0083-1826efe86703%28Office.15%29.aspx)** (Index), where Index is the document name or index number to return a single **Document** object. The following example closes the document named "Report.doc" without saving changes.
 
 
 ```
 Documents("Report.doc").Close SaveChanges:=wdDoNotSaveChanges
 ```
 
-The index number represents the position of the document in the  **Documents** collection. The following example activates the first document in the **Documents** collection.
+The index number represents the position of the document in the **Documents** collection. The following example activates the first document in the **Documents** collection.
 
 
 
@@ -36,7 +36,7 @@ Documents(1).Activate
 
 Using ActiveDocument
 
-You can use the  **[ActiveDocument](http://msdn.microsoft.com/library/c20a7c9f-f8a4-7913-f53f-10baa6807def%28Office.15%29.aspx)** property to refer to the document with the focus. The following example uses the **[Activate](http://msdn.microsoft.com/library/83cc5935-020b-470a-f7aa-7fea057ec08b%28Office.15%29.aspx)** method to activate the document named "Document 1." The example also sets the page orientation to landscape mode and then prints the document.
+You can use the **[ActiveDocument](http://msdn.microsoft.com/library/c20a7c9f-f8a4-7913-f53f-10baa6807def%28Office.15%29.aspx)** property to refer to the document with the focus. The following example uses the **[Activate](http://msdn.microsoft.com/library/83cc5935-020b-470a-f7aa-7fea057ec08b%28Office.15%29.aspx)** method to activate the document named "Document 1." The example also sets the page orientation to landscape mode and then prints the document.
 
 
 

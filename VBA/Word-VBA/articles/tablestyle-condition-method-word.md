@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.Condition Method (Word)
 
-Returns a  **[ConditionalStyle](conditionalstyle-object-word.md)** object that represents special style formatting for a portion of a table.
+Returns a **[ConditionalStyle](conditionalstyle-object-word.md)** object that represents special style formatting for a portion of a table.
 
 
 ## Syntax

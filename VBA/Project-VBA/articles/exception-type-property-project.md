@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.Type Property (Project)
 
-Gets or sets the type of calendar exception. Read/write  **PjExceptionType**.
+Gets or sets the type of calendar exception. Read/write **PjExceptionType**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the type of calendar exception. Read/write  **PjExceptionType**.
 
 ## Remarks
 
-The  **Type** property can be one of the **[PjExceptionType](pjexceptiontype-enumeration-project.md)** constants.
+The **Type** property can be one of the **[PjExceptionType](pjexceptiontype-enumeration-project.md)** constants.
 
 
 ## See also

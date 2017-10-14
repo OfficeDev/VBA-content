@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Chart.SideWall Property (Project)
-Gets an  **Office.IMsoWalls** object that allows the user to individually format the side wall of a 3-D chart. Read-only **IMsoWalls**.
+Gets an **Office.IMsoWalls** object that allows the user to individually format the side wall of a 3-D chart. Read-only **IMsoWalls**.
 
 ## Syntax
 

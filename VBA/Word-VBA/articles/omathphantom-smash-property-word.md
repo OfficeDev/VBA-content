@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathPhantom.Smash Property (Word)
 
-Returns or sets a  **Boolean** that represents that the contents of the phantom are visible but that the height is not taken into account in the spacing of the layout. Read/write.
+Returns or sets a **Boolean** that represents that the contents of the phantom are visible but that the height is not taken into account in the spacing of the layout. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents that the contents of the phantom 
 
 ## Remarks
 
-If this property is  **True** , the **[ZeroAsc](omathphantom-zeroasc-property-word.md)** , **[ZeroDesc](omathphantom-zerodesc-property-word.md)** , and **[Show](omathphantom-show-property-word.md)** properties are all set to **True** .
+If this property is **True** , the **[ZeroAsc](omathphantom-zeroasc-property-word.md)** , **[ZeroDesc](omathphantom-zerodesc-property-word.md)** , and **[Show](omathphantom-show-property-word.md)** properties are all set to **True** .
 
 
 ## See also

@@ -40,7 +40,7 @@ Returns the duration between two dates in minutes, for an automatically schedule
 
 ## Remarks
 
-To get a difference between two dates for a manually scheduled task, which uses an effective calendar that can include non-working time, use the  **[EffectiveDateDifference](startdriver-effectivedatedifference-property-project.md)** property.
+To get a difference between two dates for a manually scheduled task, which uses an effective calendar that can include non-working time, use the **[EffectiveDateDifference](startdriver-effectivedatedifference-property-project.md)** property.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.EmphasisMark Property (Word)
 
-Returns or sets a  **WdEmphasisMark** constant that represents the emphasis mark for a character or designated character string. Read/write.
+Returns or sets a **WdEmphasisMark** constant that represents the emphasis mark for a character or designated character string. Read/write.
 
 
 ## Syntax

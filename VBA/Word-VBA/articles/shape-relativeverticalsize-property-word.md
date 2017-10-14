@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.RelativeVerticalSize Property (Word)
 
-Returns or sets a  **[WdRelativeVerticalSize](wdrelativeverticalsize-enumeration-word.md)** constant that represents the relative vertical size of a shape. Read/write.
+Returns or sets a **[WdRelativeVerticalSize](wdrelativeverticalsize-enumeration-word.md)** constant that represents the relative vertical size of a shape. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[WdRelativeVerticalSize](wdrelativeverticalsize-enumeration
 
 ## Remarks
 
-Use this property with the  **[HeightRelative](shape-heightrelative-property-word.md)** property.
+Use this property with the **[HeightRelative](shape-heightrelative-property-word.md)** property.
 
 
 ## See also

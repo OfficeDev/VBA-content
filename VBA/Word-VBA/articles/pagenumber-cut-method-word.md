@@ -25,7 +25,7 @@ Removes the specified object from the document and places it on the Clipboard.
 
 ## Remarks
 
-If expression returns a  **Range** or **Selection** object, the contents of the object are moved to the Clipboard but the collapsed object remains in the document.
+If expression returns a **Range** or **Selection** object, the contents of the object are moved to the Clipboard but the collapsed object remains in the document.
 
 
 ## Example

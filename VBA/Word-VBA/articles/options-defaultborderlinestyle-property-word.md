@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultBorderLineStyle Property (Word)
 
-Returns or sets the default border line style. Read/write  **WdLineStyle** .
+Returns or sets the default border line style. Read/write **WdLineStyle** .
 
 
 ## Syntax

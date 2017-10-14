@@ -30,7 +30,7 @@ Sets the specified fill to a one-color gradient.
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**MsoGradientStyle**|The gradient style.|
-| _Variant_|Required|**Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the  **Gradient** tab in the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
+| _Variant_|Required|**Long**|The gradient variant. Can be a value from 1 to 4, corresponding to the four variants on the **Gradient** tab in the **Shape Fill** tab. If Style is **msoGradientFromTitle** or **msoGradientFromCenter**, this argument can be either 1 or 2.|
 | _Degree_|Required|**Single**|The gradient degree. Can be a value from 0.0 (dark) to 1.0 (light).|
 
 ## Remarks

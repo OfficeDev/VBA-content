@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathBox.OpEmu Property (Word)
 
-Returns or sets a  **Boolean** that represents that the box and its contents behave as a single operator and inherit the properties of an operator. Read/write.
+Returns or sets a **Boolean** that represents that the box and its contents behave as a single operator and inherit the properties of an operator. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents that the box and its contents beh
 
 ## Remarks
 
-When the OpEmu property is  **True** , the character can serve as a point for a line break and can be aligned to other operators. Operator emulators are often used when one or more glyphs combine to form an operator, such as ==.
+When the OpEmu property is **True** , the character can serve as a point for a line break and can be aligned to other operators. Operator emulators are often used when one or more glyphs combine to form an operator, such as ==.
 
 
 ## See also

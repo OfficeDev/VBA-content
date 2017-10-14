@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentations.Item Method (PowerPoint)
 
-Returns a single  **Presentation** object from the specified **Presentations** collection.
+Returns a single **Presentation** object from the specified **Presentations** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Presentation** object from the specified **Presentations** c
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Presentation** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Presentation** object in the collection to be returned.|
 
 ### Return Value
 

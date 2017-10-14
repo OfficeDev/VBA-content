@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarPane.BeforeNavigate Event (Outlook)
 
-Occurs when the user clicks a shortcut in the  **Shortcuts** pane to navigate to a different folder.
+Occurs when the user clicks a shortcut in the **Shortcuts** pane to navigate to a different folder.
 
 
 ## Syntax
@@ -39,7 +39,7 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example prevents the user from using the  **Shortcuts** pane to open the **Notes** folder. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook. If you do not have a shortcut to the **Notes** folder already, you need to create one to run this example.
+This Microsoft Visual Basic for Applications (VBA) example prevents the user from using the **Shortcuts** pane to open the **Notes** folder. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook. If you do not have a shortcut to the **Notes** folder already, you need to create one to run this example.
 
 
 ```vb

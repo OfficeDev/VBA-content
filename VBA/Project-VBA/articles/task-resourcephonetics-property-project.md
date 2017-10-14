@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.ResourcePhonetics Property (Project)
 
-Gets the phonetic representation of a resource name. Read-only  **String**.
+Gets the phonetic representation of a resource name. Read-only **String**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the phonetic representation of a resource name. Read-only  **String**.
 
 ## Remarks
 
-The  **ResourcePhonetics** property only produces tangible results if the Japanese version of Project is used.
+The **ResourcePhonetics** property only produces tangible results if the Japanese version of Project is used.
 
 

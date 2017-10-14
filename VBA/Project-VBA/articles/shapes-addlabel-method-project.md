@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddLabel Method (Project)
-Creates a label in a report, and returns a  **Shape** object that represents the new label.
+Creates a label in a report, and returns a **Shape** object that represents the new label.
 
 ## Syntax
 

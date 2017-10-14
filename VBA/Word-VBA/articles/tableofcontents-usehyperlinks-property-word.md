@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.UseHyperlinks Property (Word)
 
-Returns or sets whether entries in a table of contents should be formatted as hyperlinks when publishing to the Web. Read/write  **Boolean** .
+Returns or sets whether entries in a table of contents should be formatted as hyperlinks when publishing to the Web. Read/write **Boolean** .
 
 
 ## Syntax

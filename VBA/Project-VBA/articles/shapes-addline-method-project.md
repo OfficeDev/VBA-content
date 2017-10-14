@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.AddLine Method (Project)
-Adds a line to a report, and returns a  **Shape** object that represents the line.
+Adds a line to a report, and returns a **Shape** object that represents the line.
 
 ## Syntax
 
@@ -39,7 +39,7 @@ Adds a line to a report, and returns a  **Shape** object that represents the lin
 
 ## Remarks
 
-To format the line, use the  **Shape.Line** property.
+To format the line, use the **Shape.Line** property.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.Item Method (PowerPoint)
 
-Returns a  **[LineFormat](lineformat-object-powerpoint.md)** object for the specified border from the **Borders** collection.
+Returns a **[LineFormat](lineformat-object-powerpoint.md)** object for the specified border from the **Borders** collection.
 
 
 ## Syntax

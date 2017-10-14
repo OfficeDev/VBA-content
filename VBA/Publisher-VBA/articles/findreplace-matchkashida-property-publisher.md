@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FindReplace.MatchKashida Property (Publisher)
 
-Sets or returns a  **Boolean** representing whether or not a search operation will match kashidas. Read/write.
+Sets or returns a **Boolean** representing whether or not a search operation will match kashidas. Read/write.
 
 
 ## Syntax
 
  _expression_. **MatchKashida**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-This property may not be available depending on the language enabled on your operating system. The default value is  **False**.
+This property may not be available depending on the language enabled on your operating system. The default value is **False**.
 
 Returns ** Access denied** if Arabic is not enabled.
 

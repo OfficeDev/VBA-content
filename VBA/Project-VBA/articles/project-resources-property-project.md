@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Resources Property (Project)
 
-Gets a  **[Resources](resources-object-project.md)** collection representing the resources in a **Project**. Read-only **Object**.
+Gets a **[Resources](resources-object-project.md)** collection representing the resources in a **Project**. Read-only **Object**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets a  **[Resources](resources-object-project.md)** collection representing the
 
 ## Remarks
 
-For a code example that uses the  **Task** object, see the **[Resources](task-resources-property-project.md)** property.
+For a code example that uses the **Task** object, see the **[Resources](task-resources-property-project.md)** property.
 
 

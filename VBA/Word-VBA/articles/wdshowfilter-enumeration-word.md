@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WdShowFilter Enumeration (Word)
 
-Specifies the styles and formatting to display in the  **Styles and Formatting** task pane.
+Specifies the styles and formatting to display in the **Styles and Formatting** task pane.
 
 
 

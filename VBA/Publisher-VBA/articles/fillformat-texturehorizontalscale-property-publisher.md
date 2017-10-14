@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureHorizontalScale Property (Publisher)
 
-Returns or sets a  **Single** that specifies the horizontal scaling factor for the texture fill. Read/write.
+Returns or sets a **Single** that specifies the horizontal scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
 
  _expression_. **TextureHorizontalScale**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Property value
@@ -28,7 +28,7 @@ Returns or sets a  **Single** that specifies the horizontal scaling factor for t
 
 ## Remarks
 
-The setting of the  **TextureHorizontalScale** property corresponds to the setting of the **Scale X** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface.
+The setting of the **TextureHorizontalScale** property corresponds to the setting of the **Scale X** box on the **Fill** pane of the **Format Shape** dialog box in the Publisher user interface.
 
 
 ## See also

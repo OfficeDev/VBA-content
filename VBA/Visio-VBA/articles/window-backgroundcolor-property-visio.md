@@ -30,7 +30,7 @@ OLE_COLOR
 
 ## Remarks
 
-Valid values for an  **OLE_COLOR** property within Visio can be one of the following:
+Valid values for an **OLE_COLOR** property within Visio can be one of the following:
 
 
 
@@ -41,11 +41,11 @@ Valid values for an  **OLE_COLOR** property within Visio can be one of the follo
     
 
 
-For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
+For details about the **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window in the Visual Basic Editor displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window in the Visual Basic Editor displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR** .
+In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for **OLE_COLOR** .
 
 
 
@@ -59,14 +59,14 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbMagenta**|0xFF00FF |Magenta|
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
-For a drawing window, print preview window, or full-screen view window, setting the  **BackgroundColor** property of the window to a value other than the default (-1) overrides the **ApplicationSettings.DrawingBackgroundColor** , **ApplicationSettings.PrintPreviewBackgroundColor** , and **ApplicationSettings.FullScreenBackgroundColor** settings for that set of windows. To be able to reset these properties for the same set of windows, you must reset **BackgroundColor** to its default value, -1. If multiple drawings are open, setting **BackgroundColor** for one set of windows has no effect on the setting for other open window sets.
+For a drawing window, print preview window, or full-screen view window, setting the **BackgroundColor** property of the window to a value other than the default (-1) overrides the **ApplicationSettings.DrawingBackgroundColor** , **ApplicationSettings.PrintPreviewBackgroundColor** , and **ApplicationSettings.FullScreenBackgroundColor** settings for that set of windows. To be able to reset these properties for the same set of windows, you must reset **BackgroundColor** to its default value, -1. If multiple drawings are open, setting **BackgroundColor** for one set of windows has no effect on the setting for other open window sets.
 
-However, for a ShapeSheet window, setting the  **BackgroundColor** property of the window to a value other than the default changes the background color of the ShapeSheet window, but has no effect on any of the other window settings.
+However, for a ShapeSheet window, setting the **BackgroundColor** property of the window to a value other than the default changes the background color of the ShapeSheet window, but has no effect on any of the other window settings.
 
 
 ## Example
 
-The following VBA macro shows how to use the  **BackgroundColor** property to get and set the current drawing window background color. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object, and it demonstrates the relationship between the **BackgroundColor** property and the **ApplicationSettings.DrawingBackgroundColor** property. This example assumes there is an active drawing window open in Visio and that initially all background color properties are set to their default values.
+The following VBA macro shows how to use the **BackgroundColor** property to get and set the current drawing window background color. It also shows how to get an **ApplicationSettings** object from the Visio **Application** object, and it demonstrates the relationship between the **BackgroundColor** property and the **ApplicationSettings.DrawingBackgroundColor** property. This example assumes there is an active drawing window open in Visio and that initially all background color properties are set to their default values.
 
 
 

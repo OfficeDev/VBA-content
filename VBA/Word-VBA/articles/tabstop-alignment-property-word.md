@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStop.Alignment Property (Word)
 
-Returns or sets a  **WdTabAlignment** constant that represents the alignment for the specified tab stop. Read/write.
+Returns or sets a **WdTabAlignment** constant that represents the alignment for the specified tab stop. Read/write.
 
 
 ## Syntax

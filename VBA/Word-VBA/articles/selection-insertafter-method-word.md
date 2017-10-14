@@ -35,7 +35,7 @@ Inserts the specified text at the end of a range or selection.
 
 After using this method, the selection expands to include the new text.
 
-You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic  **Chr** function with the **InsertAfter** method. You can also use the following Visual Basic constants: **vbCr** , **vbLf** , **vbCrLf** and **vbTab** .
+You can insert characters such as quotation marks, tab characters, and nonbreaking hyphens by using the Visual Basic **Chr** function with the **InsertAfter** method. You can also use the following Visual Basic constants: **vbCr** , **vbLf** , **vbCrLf** and **vbTab** .
 
 If you use this method with a selection that refers to an entire paragraph, the text is inserted after the ending paragraph mark (the text will appear at the beginning of the next paragraph). To insert text at the end of a paragraph, determine the ending point and subtract 1 from this location (the paragraph mark is one character), as shown in the following example.
 

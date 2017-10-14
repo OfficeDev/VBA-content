@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # WebListBox Object (Publisher)
 
-Represents a Web list box control. The  **WebListBox** object is a member of the **Shape** object.
+Represents a Web list box control. The **WebListBox** object is a member of the **Shape** object.
  
 
 
 ## Example
 
-Use the  **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** method to create a new Web list box. Use the **[WebListBox](shape-weblistbox-property-publisher.md)** property to access a Web list box control shape. Use the **[AddItem](weblistboxitems-additem-method-publisher.md)** method of the **[WebListBoxItems](weblistboxitems-object-publisher.md)** object to add items to a Web list box. This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
+Use the **[AddWebControl](shapes-addwebcontrol-method-publisher.md)** method to create a new Web list box. Use the **[WebListBox](shape-weblistbox-property-publisher.md)** property to access a Web list box control shape. Use the **[AddItem](weblistboxitems-additem-method-publisher.md)** method of the **[WebListBoxItems](weblistboxitems-object-publisher.md)** object to add items to a Web list box. This example creates a new Web list box and adds several items to it. Note that when initially created, a Web list box control contains three default items. This example includes a routine that deletes the default list box items before adding new items.
  
 
  

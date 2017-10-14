@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Day.Index Property (Project)
 
-Gets the index of a  **Day** object in the containing **Days** collection. Read-only **Integer**.
+Gets the index of a **Day** object in the containing **Days** collection. Read-only **Integer**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the index of a  **Day** object in the containing **Days** collection. Read-
 
 ## Remarks
 
-The  **Index** properties of other objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
+The **Index** properties of other objects are used in similar ways. For an example, see the **[Index](project-index-property-project.md)** property of the **Project** object.
 
 

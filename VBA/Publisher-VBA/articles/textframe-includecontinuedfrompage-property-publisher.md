@@ -20,7 +20,7 @@ Determines whether the text "Continued from page  _pagenumber_" appears in a tex
 
  _expression_. **IncludeContinuedFromPage**
 
- _expression_A variable that represents a  **TextFrame** object.
+ _expression_A variable that represents a **TextFrame** object.
 
 
 ### Return Value
@@ -30,6 +30,6 @@ MsoTriState
 
 ## Remarks
 
-The  **IncludeContinuedFromPage** property corresponds to the **Include "Continued from page..."** check box in the Publisher user interface. (With the text box selected, on the **Format** menu, click **Text Box**, and then click the  **Text Box** tab.)
+The **IncludeContinuedFromPage** property corresponds to the **Include "Continued from page..."** check box in the Publisher user interface. (With the text box selected, on the **Format** menu, click **Text Box**, and then click the **Text Box** tab.)
 
 

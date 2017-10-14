@@ -40,7 +40,7 @@ Applies a view to the active window.
 
 ## Remarks
 
-To apply a view where the change can be one of the built-in views and can be applied to a specified pane in a split view, use the  **[ViewApplyEx](application-viewapplyex-method-project.md)** method.
+To apply a view where the change can be one of the built-in views and can be applied to a specified pane in a split view, use the **[ViewApplyEx](application-viewapplyex-method-project.md)** method.
 
 
 ## Example

@@ -20,12 +20,12 @@ Represents series lines in a chart group.
 
  Series lines connect the data values from each series. Only 2-D stacked bar, 2-D stacked column, pie-of-pie, or bar-of-pie charts can have series lines. This object is not a collection. There is no object that represents a single series line; you either enable series lines for all points in a chart group or you disable them.
 
-If the  **[HasSeriesLines](chartgroup-hasserieslines-property-word.md)** property is **False** , most properties of the **SeriesLines** object are disabled.
+If the **[HasSeriesLines](chartgroup-hasserieslines-property-word.md)** property is **False** , most properties of the **SeriesLines** object are disabled.
 
 
 ## Example
 
-Use the  **[SeriesLines](chartgroup-serieslines-property-word.md)** property to return a **SeriesLines** object. The following example adds series lines to chart group one in embedded chart one on worksheet one (the chart must be a 2-D stacked bar or column chart).
+Use the **[SeriesLines](chartgroup-serieslines-property-word.md)** property to return a **SeriesLines** object. The following example adds series lines to chart group one in embedded chart one on worksheet one (the chart must be a 2-D stacked bar or column chart).
 
 
 ```vb

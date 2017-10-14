@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.CurrentFilter Property (Project)
 
-Gets the name of the active filter for a project. Read-only  **String**.
+Gets the name of the active filter for a project. Read-only **String**.
 
 
 ## Syntax

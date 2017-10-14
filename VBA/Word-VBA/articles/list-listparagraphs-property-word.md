@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # List.ListParagraphs Property (Word)
 
-Returns a  **[ListParagraphs](listparagraphs-object-word.md)** collection that represents all the numbered paragraphs in the list, document, or range. Read-only.
+Returns a **[ListParagraphs](listparagraphs-object-word.md)** collection that represents all the numbered paragraphs in the list, document, or range. Read-only.
 
 
 ## Syntax

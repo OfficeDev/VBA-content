@@ -28,6 +28,6 @@ Removes task path highlighting on the Gantt chart.
 
 ## Remarks
 
-The  **RemoveHighlight** method corresponds to the **Remove Highlighting** command in the **Task Path** drop-down list, which is on the **FORMAT** tab under **GANTT CHART TOOLS** on the ribbon.
+The **RemoveHighlight** method corresponds to the **Remove Highlighting** command in the **Task Path** drop-down list, which is on the **FORMAT** tab under **GANTT CHART TOOLS** on the ribbon.
 
 

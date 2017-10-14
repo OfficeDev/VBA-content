@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.TaskTables Property (Project)
 
-Gets a  **[Tables](table-object-project.md)** collection representing the task tables in the project. Read-only **Tables**.
+Gets a **[Tables](table-object-project.md)** collection representing the task tables in the project. Read-only **Tables**.
 
 
 ## Syntax

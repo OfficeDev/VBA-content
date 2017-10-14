@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To see whether the team member for the assignment has responded to an Update Progress request, add the  **TeamStatusPending** field to the **Task Usage** or **Resource Usage** view.
+To see whether the team member for the assignment has responded to an Update Progress request, add the **TeamStatusPending** field to the **Task Usage** or **Resource Usage** view.
 
 

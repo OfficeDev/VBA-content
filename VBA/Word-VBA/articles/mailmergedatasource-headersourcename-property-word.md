@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.HeaderSourceName Property (Word)
 
-Returns the path and file name of the header source attached to the specified mail merge main document. Read-only  **String** .
+Returns the path and file name of the header source attached to the specified mail merge main document. Read-only **String** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.StatusUpdateRecipients Property (Outlook)
 
-Returns a semicolon-delimited  **String** of display names for recipients who receive status updates for the task. Read/write.
+Returns a semicolon-delimited **String** of display names for recipients who receive status updates for the task. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a semicolon-delimited  **String** of display names for recipients who re
 
 ## Remarks
 
-This property is calculated from the  **[Recipients](taskitem-recipients-property-outlook.md)** property. Recipients returned by the **StatusUpdateRecipients** property correspond to CC recipients in the **[Recipients](recipients-object-outlook.md)** collection.
+This property is calculated from the **[Recipients](taskitem-recipients-property-outlook.md)** property. Recipients returned by the **StatusUpdateRecipients** property correspond to CC recipients in the **[Recipients](recipients-object-outlook.md)** collection.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ActiveWritingStyle Property (Word)
 
-Returns or sets the writing style for a specified language in the specified document. Read/write  **String** .
+Returns or sets the writing style for a specified language in the specified document. Read/write **String** .
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns or sets the writing style for a specified language in the specified docu
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _LanguageID_|Required| **Variant**|The language to set the writing style for in the specified document. Can be either a string or one of the following  **WdLanguageID** constants. Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
+| _LanguageID_|Required| **Variant**|The language to set the writing style for in the specified document. Can be either a string or one of the following **WdLanguageID** constants. Some of the **WdLanguageID** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.|
 
 ## Remarks
 
-The  **WritingStyleList** property returns an array of the names of the available writing styles.
+The **WritingStyleList** property returns an array of the names of the available writing styles.
 
 
 ## Example

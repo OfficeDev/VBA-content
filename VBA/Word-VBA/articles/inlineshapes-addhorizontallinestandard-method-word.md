@@ -33,7 +33,7 @@ Adds a horizontal line to the current document.
 
 ## Remarks
 
-To add a horizontal line based on an existing image file, use the  **[AddHorizontalLine](inlineshapes-addhorizontalline-method-word.md)** method.
+To add a horizontal line based on an existing image file, use the **[AddHorizontalLine](inlineshapes-addhorizontalline-method-word.md)** method.
 
 
 ## Example

@@ -18,9 +18,9 @@ Occurs when a merge is executed before any records in a mail merge have merged.
 
 ## Syntax
 
- _expression_. **MailMergeBeforeMerge**( **_Doc_**,  **_StartRecord_**,  **_EndRecord_**,  **_Cancel_**)
+ _expression_. **MailMergeBeforeMerge**( **_Doc_**, **_StartRecord_**, **_EndRecord_**, **_Cancel_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -36,7 +36,7 @@ Occurs when a merge is executed before any records in a mail merge have merged.
 
 ## Remarks
 
-To access the  **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+To access the **Application** object events, declare an **Application** object variable in the General Declarations section of a code module. Then set the variable equal to the **Application** object for which you want to access events. For information about using events with the Microsoft Publisher **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
 ## Example

@@ -20,7 +20,7 @@ Gets or sets the blank page size for the current publication. Read/write.
 
  _expression_. **PageSize**
 
- _expression_A variable that represents a  **PageSetup** object.
+ _expression_A variable that represents a **PageSetup** object.
 
 
 ### Return Value
@@ -30,12 +30,12 @@ PageSize
 
 ## Remarks
 
-The blank page size represented by the  **PageSize** object returned or set by the **PageSize** property corresponds to one of the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
+The blank page size represented by the **PageSize** object returned or set by the **PageSize** property corresponds to one of the icons displayed under **Blank Page Sizes** in the **Page Setup** dialog box in the Microsoft Publisher user interface.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to set the blank page size for the current publication. The example sets the blank page size to "Index Card," which is the blank page size at index number 130 in the  **AvailablePageSizes** collection. See the **[AvailablePageSizes](pagesetup-availablepagesizes-property-publisher.md)** property topic for an example of how to create a text file that contains the list of all page sizes available in the current publication and their corresponding index numbers.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to set the blank page size for the current publication. The example sets the blank page size to "Index Card," which is the blank page size at index number 130 in the **AvailablePageSizes** collection. See the **[AvailablePageSizes](pagesetup-availablepagesizes-property-publisher.md)** property topic for an example of how to create a text file that contains the list of all page sizes available in the current publication and their corresponding index numbers.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Flag14 Property (Project)
 
-Gets or sets the value of a task flag custom field. Read/write  **Variant**.
+Gets or sets the value of a task flag custom field. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets or sets the value of a task flag custom field. Read/write  **Variant**.
 
 ## Example
 
-The following example deletes all the tasks that have the  **Flag1** set to **True**.
+The following example deletes all the tasks that have the **Flag1** set to **True**.
 
 
 ```vb

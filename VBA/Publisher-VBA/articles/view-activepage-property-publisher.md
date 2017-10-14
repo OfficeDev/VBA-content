@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # View.ActivePage Property (Publisher)
 
-Returns a  **[Page](page-object-publisher.md)** object that represents the page currently displayed in the Microsoft Publisher window.
+Returns a **[Page](page-object-publisher.md)** object that represents the page currently displayed in the Microsoft Publisher window.
 
 
 ## Syntax
 
  _expression_. **ActivePage**
 
- _expression_A variable that represents a  **View** object.
+ _expression_A variable that represents a **View** object.
 
 
 ### Return Value

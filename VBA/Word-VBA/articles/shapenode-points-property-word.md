@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.Points Property (Word)
 
-Returns the position of the specified node as a coordinate pair. Read-only  **Variant** .
+Returns the position of the specified node as a coordinate pair. Read-only **Variant** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the position of the specified node as a coordinate pair. Read-only  **Va
 
 ## Remarks
 
-Each coordinate is expressed in points. Use the  **[SetPosition](shapenodes-setposition-method-word.md)** method to set the location of the node.
+Each coordinate is expressed in points. Use the **[SetPosition](shapenodes-setposition-method-word.md)** method to set the location of the node.
 
 
 ## Example

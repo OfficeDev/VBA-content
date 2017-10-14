@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.LookupNameProperties Method (Word)
 
-Looks up a name in the global address book list and displays the  **Properties** dialog box, which includes information about the specified name.
+Looks up a name in the global address book list and displays the **Properties** dialog box, which includes information about the specified name.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Looks up a name in the global address book list and displays the  **Properties**
 
 ## Remarks
 
-If this method finds more than one match, it displays the  **Check Names** dialog box.
+If this method finds more than one match, it displays the **Check Names** dialog box.
 
 
 ## Example
 
-This example looks up the name Don Funk in the address book and displays the  **Properties** dialog box for Don Funk.
+This example looks up the name Don Funk in the address book and displays the **Properties** dialog box for Don Funk.
 
 
 ```vb

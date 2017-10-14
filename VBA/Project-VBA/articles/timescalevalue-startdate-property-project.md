@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TimeScaleValue.StartDate Property (Project)
 
-The start date for a period of time that defines a timescale data unit. Read-only  **Variant**.
+The start date for a period of time that defines a timescale data unit. Read-only **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.FindFirstAnimationFor Method (PowerPoint)
 
-Returns an  **[Effect](effect-object-powerpoint.md)** object that represents the first animation for a given shape.
+Returns an **[Effect](effect-object-powerpoint.md)** object that represents the first animation for a given shape.
 
 
 ## Syntax

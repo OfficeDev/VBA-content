@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GlobalViewsCombination Property (Project)
 
-Gets or sets a  **[ViewsCombination](viewcombination-object-project.md)** collection representing the combination views of the Global.mpt file. Read/write **ViewsCombination**.
+Gets or sets a **[ViewsCombination](viewcombination-object-project.md)** collection representing the combination views of the Global.mpt file. Read/write **ViewsCombination**.
 
 
 ## Syntax

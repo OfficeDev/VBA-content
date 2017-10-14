@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.UsableWidth Property (Word)
 
-Returns the width (in points) of the active working area in the specified document window. Read-only  **Long** .
+Returns the width (in points) of the active working area in the specified document window. Read-only **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the width (in points) of the active working area in the specified docume
 
 ## Remarks
 
-If none of the working area is visible in the document window,  **UsableWidth** returns 1. To determine the actual available height, subtract 1 from the **UsableWidth** value.
+If none of the working area is visible in the document window, **UsableWidth** returns 1. To determine the actual available height, subtract 1 from the **UsableWidth** value.
 
 
 ## Example

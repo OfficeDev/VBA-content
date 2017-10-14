@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.ViewVerticalBaseLineGuides Property (Publisher)
 
-Sets or returns a  **Boolean** that represents whether or not the vertical baseline guides are visible in the specified **Document** object. **True** if they are visible. **False** if they are not visible. Read/write.
+Sets or returns a **Boolean** that represents whether or not the vertical baseline guides are visible in the specified **Document** object. **True** if they are visible. **False** if they are not visible. Read/write.
 
 
 ## Syntax
 
  _expression_. **ViewVerticalBaseLineGuides**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-The default setting for this property is  **False**.
+The default setting for this property is **False**.
 
 
 ## Example

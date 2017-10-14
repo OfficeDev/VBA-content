@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PayRate.OvertimeRate Property (Project)
 
-Gets or sets the overtime rate for a  **PayRate** object. Read/write **Variant**.
+Gets or sets the overtime rate for a **PayRate** object. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the overtime rate for a  **PayRate** object. Read/write **Variant**
 
 ## Remarks
 
-For a code example that sets overtime rates for a resources, see  **[OvertimeRate](resource-overtimerate-property-project.md)** for the **Resource** object.
+For a code example that sets overtime rates for a resources, see **[OvertimeRate](resource-overtimerate-property-project.md)** for the **Resource** object.
 
 

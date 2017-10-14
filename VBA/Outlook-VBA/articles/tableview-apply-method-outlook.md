@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.Apply Method (Outlook)
 
-Applies the  **[TableView](tableview-object-outlook.md)** object to the current view.
+Applies the **[TableView](tableview-object-outlook.md)** object to the current view.
 
 
 ## Syntax

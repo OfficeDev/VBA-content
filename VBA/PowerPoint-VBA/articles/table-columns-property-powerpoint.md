@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Columns Property (PowerPoint)
 
-Returns a  **[Columns](columns-object-powerpoint.md)** collection that represents all the columns in a table. Read-only.
+Returns a **[Columns](columns-object-powerpoint.md)** collection that represents all the columns in a table. Read-only.
 
 
 ## Syntax

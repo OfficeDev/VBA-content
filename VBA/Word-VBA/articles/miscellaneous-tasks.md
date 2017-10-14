@@ -26,7 +26,7 @@ This topic includes Visual Basic examples for the following tasks:
 
 ## Changing the view
 
-The  **[View](view-object-word.md)** object includes properties and methods related to view attributes (such as show all, field shading, and table gridlines) for a window or pane. The following example changes the view to print view.
+The **[View](view-object-word.md)** object includes properties and methods related to view attributes (such as show all, field shading, and table gridlines) for a window or pane. The following example changes the view to print view.
 
 
 ```vb
@@ -38,7 +38,7 @@ End Sub
 
 ## Setting text in a header or footer
 
-The  **[HeaderFooter](headerfooter-object-word.md)** object is returned by the **Headers**,  **Footers**, and  **HeaderFooter** properties. The following example changes the text of the current page header.
+The **[HeaderFooter](headerfooter-object-word.md)** object is returned by the **Headers**, **Footers**, and **HeaderFooter** properties. The following example changes the text of the current page header.
 
 
 ```vb
@@ -51,7 +51,7 @@ Sub AddHeaderText()
 End Sub
 ```
 
-This example creates a  **Range** object, `rngFooter`, that references the primary footer for the first section in the active document. After the  **Range** object is set, the existing footer text is deleted. The FILENAME field is added to the footer along with two tabs and the AUTHOR field.
+This example creates a **Range** object, `rngFooter`, that references the primary footer for the first section in the active document. After the **Range** object is set, the existing footer text is deleted. The FILENAME field is added to the footer along with two tabs and the AUTHOR field.
 
 
 
@@ -74,7 +74,7 @@ End Sub
 
 ## Setting options
 
-The  **[Options](options-object-word.md)** object includes properties that correspond to optional settings that are available in various menus and dialogs throughout Word. The following example sets three application settings for Word.
+The **[Options](options-object-word.md)** object includes properties that correspond to optional settings that are available in various menus and dialogs throughout Word. The following example sets three application settings for Word.
 
 
 ```vb
@@ -90,7 +90,7 @@ End Sub
 
 ## Changing the document layout
 
-The  **[PageSetup](pagesetup-object-word.md)** contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties. The following example sets the margin values for the active document.
+The **[PageSetup](pagesetup-object-word.md)** contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties. The following example sets the margin values for the active document.
 
 
 ```vb
@@ -124,7 +124,7 @@ For more information, see  [Looping through a collection](looping-through-a-coll
 
 ## Customizing menus and toolbars
 
-The  **CommandBar** object represents both menus and toolbars (in versions of Word that do not use the ribbon). Use the **[CommandBars](application-commandbars-property-word.md)** property with a menu or toolbar name to return a single **CommandBar** object. The **Controls** property returns a **CommandBarControls** object that refers to the items on the specified command bar. The following example adds the **Word Count** command to the **Standard** menu.
+The **CommandBar** object represents both menus and toolbars (in versions of Word that do not use the ribbon). Use the **[CommandBars](application-commandbars-property-word.md)** property with a menu or toolbar name to return a single **CommandBar** object. The **Controls** property returns a **CommandBarControls** object that refers to the items on the specified command bar. The following example adds the **Word Count** command to the **Standard** menu.
 
 
 ```vb
@@ -141,7 +141,7 @@ Sub AddToolbarItem()
 End Sub
 ```
 
-The following example adds the  **Double Underline** command to the **Formatting** toolbar.
+The following example adds the **Double Underline** command to the **Formatting** toolbar.
 
 
 
@@ -154,6 +154,6 @@ Sub AddDoubleUnderlineButton()
 End Sub
 ```
 
-Turn on the macro recorder and customize a menu or toolbar to determine the  **ID** value for a particular command (for example, ID 60 is the **Double Underline** command).
+Turn on the macro recorder and customize a menu or toolbar to determine the **ID** value for a particular command (for example, ID 60 is the **Double Underline** command).
 
 

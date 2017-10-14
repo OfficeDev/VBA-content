@@ -8,18 +8,18 @@ ms.date: 06/08/2017
 
 # Tabs.Clear Method (Outlook Forms Script)
 
-Removes all tabs from a  **[Tabs](tabs-object-outlook-forms-script.md)** collection.
+Removes all tabs from a **[Tabs](tabs-object-outlook-forms-script.md)** collection.
 
 
 ## Syntax
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **Tabs** object.
+ _expression_A variable that represents a **Tabs** object.
 
 
 ## Remarks
 
-If the control is bound to data, the  **Clear** method fails.
+If the control is bound to data, the **Clear** method fails.
 
 

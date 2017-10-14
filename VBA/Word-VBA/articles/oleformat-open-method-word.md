@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.Open Method (Word)
 
-Opens the specified  **OLEFormat** object.
+Opens the specified **OLEFormat** object.
 
 
 ## Syntax

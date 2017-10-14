@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # ViewCtl.Categories Method (Outlook View Control)
 
-Displays the Microsoft Outlook  **Categories** dialog box for the currently selected item or items in the control.
+Displays the Microsoft Outlook **Categories** dialog box for the currently selected item or items in the control.
 
 
 ## Syntax
 
  _expression_. **Categories**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 
 ## Remarks

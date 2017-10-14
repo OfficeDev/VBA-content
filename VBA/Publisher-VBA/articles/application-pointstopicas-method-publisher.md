@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.PointsToPicas Method (Publisher)
 
-Converts a measurement from points to picas (1 pica = 12 points). Returns the converted measurement as a  **Single**.
+Converts a measurement from points to picas (1 pica = 12 points). Returns the converted measurement as a **Single**.
 
 
 ## Syntax
 
  _expression_. **PointsToPicas**( **_Value_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[PicasToPoints](application-picastopoints-method-publisher.md)** method to convert measurements in picas to points.
+Use the **[PicasToPoints](application-picastopoints-method-publisher.md)** method to convert measurements in picas to points.
 
 
 ## Example

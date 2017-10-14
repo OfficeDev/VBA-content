@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.OpenAttachmentsInFullScreen Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word opens e-mail attachments in Reading mode. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word opens e-mail attachments in Reading mode. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word opens e-ma
 
 ## Remarks
 
-This property corresponds to the  **Open e-mail attachments in Reading mode** check box in the **Word Options** dialog box.
+This property corresponds to the **Open e-mail attachments in Reading mode** check box in the **Word Options** dialog box.
 
 
 ## See also

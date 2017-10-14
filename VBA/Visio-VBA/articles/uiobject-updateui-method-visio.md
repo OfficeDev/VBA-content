@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UIObject.UpdateUI Method (Visio)
 
-Causes Microsoft Visio to display changes to the user interface represented by a  **UIObject** object.
+Causes Microsoft Visio to display changes to the user interface represented by a **UIObject** object.
 
 
 ## Syntax
@@ -33,6 +33,6 @@ Nothing
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The  **UpdateUI** method updates the Visio user interface with changes made to a **UIObject** object during a session. Use the **CustomMenus** or **CustomToolbars** property of an **Application** object or **Document** object to obtain the **UIObject** object.
+The **UpdateUI** method updates the Visio user interface with changes made to a **UIObject** object during a session. Use the **CustomMenus** or **CustomToolbars** property of an **Application** object or **Document** object to obtain the **UIObject** object.
 
 

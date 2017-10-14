@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.FieldNameList Property (Project)
 
-Gets a  **[List](list-object-project.md)** object representing the field names (or column titles, if available) for all selected fields. Read-only **List**.
+Gets a **[List](list-object-project.md)** object representing the field names (or column titles, if available) for all selected fields. Read-only **List**.
 
 
 ## Syntax

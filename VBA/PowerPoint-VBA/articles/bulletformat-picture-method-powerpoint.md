@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BulletFormat.Picture Method (PowerPoint)
 
-Sets the graphics file to be used for bullets in a bulleted list when the  **[Type](bulletformat-type-property-powerpoint.md)** property of the **BulletFormat** object is set to **ppBulletPicture**.
+Sets the graphics file to be used for bullets in a bulleted list when the **[Type](bulletformat-type-property-powerpoint.md)** property of the **BulletFormat** object is set to **ppBulletPicture**.
 
 
 ## Syntax

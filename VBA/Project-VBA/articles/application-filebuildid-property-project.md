@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.FileBuildID Property (Project)
 
-Gets the file build identification number (ID) of the specified project. The build ID consists of the version and build of the Project application that created the file. Read-only  **String**.
+Gets the file build identification number (ID) of the specified project. The build ID consists of the version and build of the Project application that created the file. Read-only **String**.
 
 
 ## Syntax
@@ -32,12 +32,12 @@ Gets the file build identification number (ID) of the specified project. The bui
 
 ## Remarks
 
-The  **FileBuildID** property can get the file build ID of a project file without actually opening it.
+The **FileBuildID** property can get the file build ID of a project file without actually opening it.
 
 
 ## Example
 
-The following example gets the build ID for the Test.mpp project. If the Project build that created the file is 15.0.4027.1000, the  **FileBuildID** value is "15,0,4027,1000".
+The following example gets the build ID for the Test.mpp project. If the Project build that created the file is 15.0.4027.1000, the **FileBuildID** value is "15,0,4027,1000".
 
 
 ```vb

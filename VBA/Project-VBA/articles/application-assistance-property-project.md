@@ -20,12 +20,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For more information, see the  **IAssistance** object in the Microsoft Office Visual Basic Reference.
+For more information, see the **IAssistance** object in the Microsoft Office Visual Basic Reference.
 
 
 ## Example
 
-The following example displays the top-level page of the  **Project Help** window.
+The following example displays the top-level page of the **Project Help** window.
 
 
 ```vb

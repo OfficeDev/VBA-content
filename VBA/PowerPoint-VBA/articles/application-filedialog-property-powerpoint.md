@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FileDialog Property (PowerPoint)
 
-Returns a  **FileDialog** object that represents a single instance of a file dialog box. Read-only.
+Returns a **FileDialog** object that represents a single instance of a file dialog box. Read-only.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ FileDialog
 
 ## Remarks
 
-The value of the Type parameter can be one of these  **MsoFileDialogType** constants.
+The value of the Type parameter can be one of these **MsoFileDialogType** constants.
 
 
 ||
@@ -50,7 +50,7 @@ The value of the Type parameter can be one of these  **MsoFileDialogType** const
 
 ## Example
 
-This example displays the  **Save As** dialog box.
+This example displays the **Save As** dialog box.
 
 
 ```vb
@@ -66,7 +66,7 @@ Sub ShowSaveAsDialog()
 End Sub
 ```
 
-This example displays the  **Open** dialog box and allows a user to select multiple files to open.
+This example displays the **Open** dialog box and allows a user to select multiple files to open.
 
 
 

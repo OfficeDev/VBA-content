@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.LinkFormat Property (Word)
 
-Returns a  **LinkFormat** object that represents the link options of the specified field. Read/only.
+Returns a **LinkFormat** object that represents the link options of the specified field. Read/only.
 
 
 ## Syntax

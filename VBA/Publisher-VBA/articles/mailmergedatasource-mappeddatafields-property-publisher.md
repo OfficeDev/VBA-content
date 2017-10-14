@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.MappedDataFields Property (Publisher)
 
-Returns a  **[MailMergeMappedDataFields](mailmergemappeddatafields-object-publisher.md)** object that represents the mapped data fields available in Microsoft Publisher.
+Returns a **[MailMergeMappedDataFields](mailmergemappeddatafields-object-publisher.md)** object that represents the mapped data fields available in Microsoft Publisher.
 
 
 ## Syntax
 
  _expression_. **MappedDataFields**
 
- _expression_A variable that represents a  **MailMergeDataSource** object.
+ _expression_A variable that represents a **MailMergeDataSource** object.
 
 
 ### Return Value

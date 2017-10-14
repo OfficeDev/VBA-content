@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XSLTransform.ID Property (Word)
 
-Returns a  **String** containing the GUID assigned to the current[XSLTransform](xsltransform-object-word.md) object. Read-only.
+Returns a **String** containing the GUID assigned to the current[XSLTransform](xsltransform-object-word.md) object. Read-only.
 
 
 ## Syntax

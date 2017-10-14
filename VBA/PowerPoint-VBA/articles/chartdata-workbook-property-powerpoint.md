@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartData.Workbook Property (PowerPoint)
 
-Returns the workbook that contains the chart data associated with the chart. Read-only  **Object**.
+Returns the workbook that contains the chart data associated with the chart. Read-only **Object**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ Returns the workbook that contains the chart data associated with the chart. Rea
 
 
 
- **Note**  You must call the  **[Activate](chartdata-activate-method-powerpoint.md)** method before referencing this property; otherwise, an error occurs.
+ **Note**  You must call the **[Activate](chartdata-activate-method-powerpoint.md)** method before referencing this property; otherwise, an error occurs.
 
 
 ## Example

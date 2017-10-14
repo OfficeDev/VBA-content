@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.Points Property (PowerPoint)
 
-Returns a  **Variant** that represents the position of the specified node as a coordinate pair. Read-only.
+Returns a **Variant** that represents the position of the specified node as a coordinate pair. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Each coordinate is expressed in points. Use the  **[SetPosition](shapenodes-setposition-method-powerpoint.md)** method to set the value of this property.
+Each coordinate is expressed in points. Use the **[SetPosition](shapenodes-setposition-method-powerpoint.md)** method to set the value of this property.
 
 
 ## Example

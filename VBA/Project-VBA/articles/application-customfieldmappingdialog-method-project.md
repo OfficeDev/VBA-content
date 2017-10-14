@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CustomFieldMappingDialog Method (Project)
 
-Returns  **True** if custom task fields can be imported by using a mapping dialog.
+Returns **True** if custom task fields can be imported by using a mapping dialog.
 
 
 ## Syntax

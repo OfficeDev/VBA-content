@@ -17,7 +17,7 @@ Occurs when the active page is changed in Microsoft Visio Viewer.
 
  _expression_. **OnPageChanged**( **_PageIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -37,12 +37,12 @@ Nothing
 
 The collection of pages in the Viewer is one-based, so the index of the first page in the collection is 1. 
 
-You can change the page programmatically in Visio Viewer by setting the value of the  **[CurrentPageIndex](viewer-currentpageindex-property-visio-viewer.md)** property.
+You can change the page programmatically in Visio Viewer by setting the value of the **[CurrentPageIndex](viewer-currentpageindex-property-visio-viewer.md)** property.
 
 
 ## Example
 
-The following code shows how to use the  **OnPageChanged** event to print a message in the **Immediate** window stating that the page has changed and identifying the new page.
+The following code shows how to use the **OnPageChanged** event to print a message in the **Immediate** window stating that the page has changed and identifying the new page.
 
 
 ```vb

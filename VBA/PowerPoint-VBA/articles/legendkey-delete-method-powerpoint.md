@@ -22,7 +22,7 @@ Deletes the object.
 
 ## Remarks
 
-Deleting a  **LegendKey** object deletes the entire series.
+Deleting a **LegendKey** object deletes the entire series.
 
 
 ## See also

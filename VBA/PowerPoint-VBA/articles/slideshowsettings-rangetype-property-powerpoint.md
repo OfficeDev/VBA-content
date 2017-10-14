@@ -25,7 +25,7 @@ Returns or sets the type of slide show to run. Read/write.
 
 ## Remarks
 
-The value of the  **RangeType** property can be one of these **PpSlideShowRangeType** constants.
+The value of the **RangeType** property can be one of these **PpSlideShowRangeType** constants.
 
 
 ||

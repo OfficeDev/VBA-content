@@ -25,7 +25,7 @@ Returns or sets the alignment for each paragraph in the specified paragraph form
 
 ## Remarks
 
-The value of the  **Alignment** property can be one of these **PpParagraphAlignment** constants.
+The value of the **Alignment** property can be one of these **PpParagraphAlignment** constants.
 
 
 ||

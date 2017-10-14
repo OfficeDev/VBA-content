@@ -30,7 +30,7 @@ Returns a single object from a collection.
 
 ### Return Value
 
-A  **[ChartGroup](chartgroup-object-powerpoint.md)** object contained by the collection.
+A **[ChartGroup](chartgroup-object-powerpoint.md)** object contained by the collection.
 
 
 ## Example

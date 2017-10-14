@@ -25,12 +25,12 @@ Switches form design mode on or off.
 
 ## Remarks
 
-When Microsoft Word is in form design mode, the  **Control Toolbox** toolbar is displayed. You can use this toolbar to insert Microsoft ActiveX controls such as command buttons, scroll bars, and option buttons. In form design mode, event procedures do not run, and when you click an embedded control, the control's sizing handles appear.
+When Microsoft Word is in form design mode, the **Control Toolbox** toolbar is displayed. You can use this toolbar to insert Microsoft ActiveX controls such as command buttons, scroll bars, and option buttons. In form design mode, event procedures do not run, and when you click an embedded control, the control's sizing handles appear.
 
 
 ## Example
 
-This example switches to form design mode if the  **Control Toolbox** toolbar is not currently displayed.
+This example switches to form design mode if the **Control Toolbox** toolbar is not currently displayed.
 
 
 ```vb

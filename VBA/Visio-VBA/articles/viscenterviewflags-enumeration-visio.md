@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisCenterViewFlags Enumeration (Visio)
 
-Specifies constants that define the different ways to center the view; passed to the  **[Windows.CenterViewOnShape](window-centerviewonshape-method-visio.md)** method.
+Specifies constants that define the different ways to center the view; passed to the **[Windows.CenterViewOnShape](window-centerviewonshape-method-visio.md)** method.
 
 
 

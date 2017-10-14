@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisSelectArgs Enumeration (Visio)
 
-Selection-type constants to be passed to the  **Selection.Select** and **Window.Select** methods.
+Selection-type constants to be passed to the **Selection.Select** and **Window.Select** methods.
 
 
 

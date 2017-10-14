@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.ScaleHeight Property (Word)
 
-Scales the height of the specified inline shape relative to its original size. Read/write  **Single** .
+Scales the height of the specified inline shape relative to its original size. Read/write **Single** .
 
 
 ## Syntax

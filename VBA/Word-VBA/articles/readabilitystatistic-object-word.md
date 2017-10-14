@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # ReadabilityStatistic Object (Word)
 
-Represents one of the readability statistics for a document or range. The  **ReadabilityStatistic** object is a member of the **ReadabilityStatistics** collection.
+Represents one of the readability statistics for a document or range. The **ReadabilityStatistic** object is a member of the **ReadabilityStatistics** collection.
 
 
 ## Remarks
 
-Use  **ReadabilityStatistics** (Index), where Index is the index number, to return a single **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the character count for the active document.
+Use **ReadabilityStatistics** (Index), where Index is the index number, to return a single **ReadabilityStatistic** object. The statistics are ordered as follows: Words, Characters, Paragraphs, Sentences, Sentences per Paragraph, Words per Sentence, Characters per Word, Passive Sentences, Flesch Reading Ease, and Flesch-Kincaid Grade Level. The following example returns the character count for the active document.
 
 
 ```

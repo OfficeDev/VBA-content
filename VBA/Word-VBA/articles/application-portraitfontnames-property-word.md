@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PortraitFontNames Property (Word)
 
-Returns a  **[FontNames](fontnames-object-word.md)** object that includes the names of all the available portrait fonts.
+Returns a **[FontNames](fontnames-object-word.md)** object that includes the names of all the available portrait fonts.
 
 
 ## Syntax

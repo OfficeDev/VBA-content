@@ -30,6 +30,6 @@ Converts all Hangul characters to Hanja and all Hanja characters to Hangul in th
 
 ## Remarks
 
-The  **ConvertHangulToHanja** method produces tangible results only if an East Asian version of Project is used.
+The **ConvertHangulToHanja** method produces tangible results only if an East Asian version of Project is used.
 
 

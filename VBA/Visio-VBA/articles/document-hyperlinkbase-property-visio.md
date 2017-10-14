@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.HyperlinkBase Property (Visio)
 
-Gets or sets the value of the  **Hyperlink base** box in a document's **Properties** dialog box (click the **File** tab, click **Info**, click  **Properties**, and then click  **Advanced Properties**). Read/write.
+Gets or sets the value of the **Hyperlink base** box in a document's **Properties** dialog box (click the **File** tab, click **Info**, click **Properties**, and then click **Advanced Properties**). Read/write.
 
 
 ## Syntax

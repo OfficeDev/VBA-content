@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.OperatingSystem Property (Word)
 
-Returns the name of the current operating system (for example, "Windows" or "Windows NT"). Read-only  **String** .
+Returns the name of the current operating system (for example, "Windows" or "Windows NT"). Read-only **String** .
 
 
 ## Syntax

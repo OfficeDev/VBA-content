@@ -30,7 +30,7 @@ VisRegionalUIOptions
 
 ## Remarks
 
-The following  **VisRegionalUIOptions** constants, which are declared in the Visio type libary, show the possible values for the **AsianTextUI** property.
+The following **VisRegionalUIOptions** constants, which are declared in the Visio type libary, show the possible values for the **AsianTextUI** property.
 
 
 
@@ -38,6 +38,6 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 |:-----|:-----|:-----|
 | **visRegionalUIOptionsHide**|0|Always hides regional UI.|
 | **visRegionalUIOptionsShow**|1|Always shows regional UI.|
-You can change language settings in the  **Microsoft Office Language Preferences** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office Language Preferences**.
+You can change language settings in the **Microsoft Office Language Preferences** dialog box. (Click **Start**, point to **All Programs**, point to **Microsoft Office**, point to **Microsoft Office Tools**, and then click **Microsoft Office Language Preferences**.
 
 

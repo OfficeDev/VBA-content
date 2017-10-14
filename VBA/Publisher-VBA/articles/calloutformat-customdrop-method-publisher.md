@@ -20,7 +20,7 @@ Sets the vertical distance from the edge of the text bounding box to the place w
 
  _expression_. **CustomDrop**( **_Drop_**)
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the vertical distance from the edge of the text bounding box to the place w
 
 ## Remarks
 
-The drop distance is normally measured from the top of the text box. However, if the  **[AutoAttach](calloutformat-autoattach-property-publisher.md)** property is set to **True** and the text box is to the left of the origin of the callout line (the place to which the callout points), the drop distance is measured from the bottom of the text box.
+The drop distance is normally measured from the top of the text box. However, if the **[AutoAttach](calloutformat-autoattach-property-publisher.md)** property is set to **True** and the text box is to the left of the origin of the callout line (the place to which the callout points), the drop distance is measured from the bottom of the text box.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.LastSaveDate Property (Project)
 
-Gets the date a project was last saved. Read-only  **Variant**.
+Gets the date a project was last saved. Read-only **Variant**.
 
 
 ## Syntax

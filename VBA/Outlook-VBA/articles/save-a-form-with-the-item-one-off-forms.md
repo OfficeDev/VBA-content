@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Save a Form with the Item (One-off Forms)
 
- **Note**  This Help topic describes how to save a form that is customized with form pages; it does not apply to forms that are customized with form regions. With form regions, you save the layout of the form region by clicking  **Form Region**, and then  **Save Form Region** to save the form region layout file with an .ofs extension. After that, you must create a form region manifest XML file and register the form region in the Windows registry. For more information, see [How to: Create a Form Region](create-a-form-region.md).
+ **Note**  This Help topic describes how to save a form that is customized with form pages; it does not apply to forms that are customized with form regions. With form regions, you save the layout of the form region by clicking **Form Region**, and then **Save Form Region** to save the form region layout file with an .ofs extension. After that, you must create a form region manifest XML file and register the form region in the Windows registry. For more information, see [How to: Create a Form Region](create-a-form-region.md).
 
 
 ## Forms customized with form pages
@@ -22,18 +22,18 @@ For example, when you create a custom contact form to replace the default Outloo
     
 2. Modify the form to meet your needs.
     
-3. Publish the form to the  **Contacts** folder.
+3. Publish the form to the **Contacts** folder.
     
-4. Set the form as the default form for the  **Contacts** folder by changing the folder properties.
+4. Set the form as the default form for the **Contacts** folder by changing the folder properties.
     
-In this typical scenario, information about the form (the form definition) is not saved with each item. Instead, the form is stored in the location where it was published and is referenced by using the  **Message Class** field. This way, each item only stores the data associated with it, and its size is relatively small.
+In this typical scenario, information about the form (the form definition) is not saved with each item. Instead, the form is stored in the location where it was published and is referenced by using the **Message Class** field. This way, each item only stores the data associated with it, and its size is relatively small.
 
 However, it is possible to have Outlook store the form definition within individual items in a folder. These items are called one-off items and always use the form definition that is stored within the item instead of the published form.
 
-In most situations, the form definition should not be stored within the item. The most common exception to this is a custom e-mail message form. If you use Microsoft Exchange Server, you can publish a custom e-mail message form to the Organizational Forms Library so that it is always available to everyone in the organization. This way, you do not have to store the form definition in the item. If you do not use Exchange Server, or if you are sending the form to another organization where the form is not available, select the  **Send form definition with item** check box on the **Properties** page of the form when in design mode. Depending on security restrictions, this might enable the recipient to view the e-mail message with the custom form.
+In most situations, the form definition should not be stored within the item. The most common exception to this is a custom e-mail message form. If you use Microsoft Exchange Server, you can publish a custom e-mail message form to the Organizational Forms Library so that it is always available to everyone in the organization. This way, you do not have to store the form definition in the item. If you do not use Exchange Server, or if you are sending the form to another organization where the form is not available, select the **Send form definition with item** check box on the **Properties** page of the form when in design mode. Depending on security restrictions, this might enable the recipient to view the e-mail message with the custom form.
 
 
- **Note**  If the recipient still cannot view your custom form, make sure that you customized or disabled the  **Read** page of the custom e-mail form.
+ **Note**  If the recipient still cannot view your custom form, make sure that you customized or disabled the **Read** page of the custom e-mail form.
 
 If the custom form contains Microsoft Visual Basic Scripting Edition (VBScript), Outlook displays the macro virus warning unless the form is published in the Exchange Server Organizational Forms Library.
 
@@ -59,13 +59,13 @@ The following scenarios commonly result in items becoming one-off items.
     
     If VBScript code within an item programmatically changes the form, in many cases the result is that the form definition is saved with the item. The following Outlook object model methods most commonly cause this behavior:
     
-      -  **UserProperties.Add** method.
+      - **UserProperties.Add** method.
     
-  - Methods and properties of the  **[FormDescription](formdescription-object-outlook.md)** object.
+  - Methods and properties of the **[FormDescription](formdescription-object-outlook.md)** object.
     
-  - Some methods or properties of controls, such as  **Enabled**.
+  - Some methods or properties of controls, such as **Enabled**.
     
-  - Methods and properties of the  **[Actions](actions-object-outlook.md)** collection object.
+  - Methods and properties of the **[Actions](actions-object-outlook.md)** collection object.
     
 Although solutions and situations vary greatly, the following might indicate that an item has become a one-off item.
 

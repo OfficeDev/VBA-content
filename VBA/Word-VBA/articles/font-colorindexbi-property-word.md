@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.ColorIndexBi Property (Word)
 
-Returns or sets the color for the specified  **Font** object in a right-to-left language document. Read/write **WdColorIndex** .
+Returns or sets the color for the specified **Font** object in a right-to-left language document. Read/write **WdColorIndex** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the color for the specified  **Font** object in a right-to-left 
 
 ## Remarks
 
-The  **wdByAuthor** constant is not valid for **Font** objects.
+The **wdByAuthor** constant is not valid for **Font** objects.
 
 
 ## Example
 
-This example sets the color of the  **Font** object to teal.
+This example sets the color of the **Font** object to teal.
 
 
 ```

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Bookmarks Property (Word)
 
-Returns a  **[Bookmarks](bookmarks-object-word.md)** collection that represents all the bookmarks in a document, range, or selection. Read-only.
+Returns a **[Bookmarks](bookmarks-object-word.md)** collection that represents all the bookmarks in a document, range, or selection. Read-only.
 
 
 ## Syntax

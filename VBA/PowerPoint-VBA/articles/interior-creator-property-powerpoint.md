@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Interior.Creator Property (PowerPoint)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only **Long**.
 
 
 ## Syntax

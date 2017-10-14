@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomProperties.Add Method (Word)
 
-Returns a  **CustomProperty** object that represents s custom property added to a smart tag.
+Returns a **CustomProperty** object that represents s custom property added to a smart tag.
 
 
 ## Syntax

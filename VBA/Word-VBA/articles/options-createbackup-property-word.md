@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **CreateBackup** and **AllowFastSave** properties cannot be set to **True** concurrently.
+The **CreateBackup** and **AllowFastSave** properties cannot be set to **True** concurrently.
 
 
 ## Example
@@ -38,7 +38,7 @@ Options.CreateBackup = True
 ActiveDocument.Save
 ```
 
-This example returns the current status of the  **Always create backup copy** option on the **Save** tab in the **Options** dialog box.
+This example returns the current status of the **Always create backup copy** option on the **Save** tab in the **Options** dialog box.
 
 
 

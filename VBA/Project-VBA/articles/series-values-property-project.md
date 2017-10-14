@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Series.Values Property (Project)
-Gets the vertical (Y) axis values for the data series on a chart. Read-only  **Variant**.
+Gets the vertical (Y) axis values for the data series on a chart. Read-only **Variant**.
 
 ## Syntax
 
@@ -21,7 +21,7 @@ Gets the vertical (Y) axis values for the data series on a chart. Read-only  **V
 
 ## Remarks
 
-For a code example that uses the  **Values** property, see the **[Series](series-object-project.md)** object.
+For a code example that uses the **Values** property, see the **[Series](series-object-project.md)** object.
 
 
 ## See also

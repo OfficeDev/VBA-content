@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.MarkAsTask Method (Outlook)
 
-Marks a  **[SharingItem](sharingitem-object-outlook.md)** object as a task and assigns a task interval for the object.
+Marks a **[SharingItem](sharingitem-object-outlook.md)** object as a task and assigns a task interval for the object.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Marks a  **[SharingItem](sharingitem-object-outlook.md)** object as a task and a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)**|The task interval for the  **SharingItem** .|
+| _MarkInterval_|Required| **[OlMarkInterval](olmarkinterval-enumeration-outlook.md)**|The task interval for the **SharingItem** .|
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](sharingitem-ismarkedastask-property-outlook.md)** property to **True** and updates the **[TaskStartDate](sharingitem-taskstartdate-property-outlook.md)** , **[TaskDueDate](sharingitem-taskduedate-property-outlook.md)** , and **[TaskOrdinal](sharingitem-todotaskordinal-property-outlook.md)** properties depending on the value provided in _MarkInterval_.
+Calling this method sets the **[IsMarkedAsTask](sharingitem-ismarkedastask-property-outlook.md)** property to **True** and updates the **[TaskStartDate](sharingitem-taskstartdate-property-outlook.md)** , **[TaskDueDate](sharingitem-taskduedate-property-outlook.md)** , and **[TaskOrdinal](sharingitem-todotaskordinal-property-outlook.md)** properties depending on the value provided in _MarkInterval_.
 
 
 ## See also

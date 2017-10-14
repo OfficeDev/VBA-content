@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.AddEffect Method (PowerPoint)
 
-Returns an  **[Effect](effect-object-powerpoint.md)** object that represents a new animation effect added to a sequence of animation effects.
+Returns an **[Effect](effect-object-powerpoint.md)** object that represents a new animation effect added to a sequence of animation effects.
 
 
 ## Syntax
@@ -31,8 +31,8 @@ Returns an  **[Effect](effect-object-powerpoint.md)** object that represents a n
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required|**[Shape](shape-object-powerpoint.md)**|The shape to which the animation effect is added.|
 | _effectId_|Required|**[MsoAnimEffect](msoanimeffect-enumeration-powerpoint.md)**|The animation effect to be applied.|
-| _Level_|Optional|**[MsoAnimateByLevel](msoanimatebylevel-enumeration-powerpoint.md)**|For charts, diagrams, or text, the level to which the animation effect will be applied. The default value is  **msoAnimationLevelNone**.|
-| _trigger_|Optional|**[MsoAnimTriggerType](msoanimatebylevel-enumeration-powerpoint.md)**|The action that triggers the animation effect. The default value is  **msoAnimTriggerOnPageClick**.|
+| _Level_|Optional|**[MsoAnimateByLevel](msoanimatebylevel-enumeration-powerpoint.md)**|For charts, diagrams, or text, the level to which the animation effect will be applied. The default value is **msoAnimationLevelNone**.|
+| _trigger_|Optional|**[MsoAnimTriggerType](msoanimatebylevel-enumeration-powerpoint.md)**|The action that triggers the animation effect. The default value is **msoAnimTriggerOnPageClick**.|
 | _Index_|Optional|**Long**|The position at which the effect will be placed in the collection of animation effects. The default value is -1 (added to the end). |
 
 ### Return Value

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ResourceGroups2.Item Property (Project)
 
-Gets a single item from a collection. Read-only  **Object**.
+Gets a single item from a collection. Read-only **Object**.
 
 
 ## Syntax

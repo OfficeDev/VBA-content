@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.Sections Property (Publisher)
 
-Returns a  **Sections** object representing a collection of **Section** objects in the specified document. Read-only **Sections**.
+Returns a **Sections** object representing a collection of **Section** objects in the specified document. Read-only **Sections**.
 
 
 ## Syntax
 
  _expression_. **Sections**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Sections
 
 ## Example
 
-This example sets an object variable to the  **Sections** object of the active document and adds a new section starting at the second page of the publication. This example assumes that there are at least two pages in the publication.
+This example sets an object variable to the **Sections** object of the active document and adds a new section starting at the second page of the publication. This example assumes that there are at least two pages in the publication.
 
 
 ```vb

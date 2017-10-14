@@ -15,9 +15,9 @@ Gets the address of the specified hyperlink associated with the specified shape 
 
 ## Syntax
 
- _expression_. **HyperlinkAddress**( **_ShapeIndex_**,  **_HyperlinkIndex_**)
+ _expression_. **HyperlinkAddress**( **_ShapeIndex_**, **_HyperlinkIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -38,7 +38,7 @@ Gets the address of the specified hyperlink associated with the specified shape 
 
 The collections of shapes and hyperlinks are one-based, so the indexes of the first shape in the collection of shapes and the first hyperlink in the collection of hyperlinks are both 1.
 
-The address returned may be a URL or a local file address, depending on the target of the hyperlink. To follow the hyperlink address returned, use the  **[FollowHyperlink](viewer-followhyperlink-method-visio-viewer.md)** method or another link-navigation method exposed in your browser's application programming interface (API).
+The address returned may be a URL or a local file address, depending on the target of the hyperlink. To follow the hyperlink address returned, use the **[FollowHyperlink](viewer-followhyperlink-method-visio-viewer.md)** method or another link-navigation method exposed in your browser's application programming interface (API).
 
 
 ## Example

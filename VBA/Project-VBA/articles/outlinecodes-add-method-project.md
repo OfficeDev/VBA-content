@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # OutlineCodes.Add Method (Project)
 
-Adds an  **OutlineCode** object to an **OutlineCodes** collection.
+Adds an **OutlineCode** object to an **OutlineCodes** collection.
 
 
 ## Syntax

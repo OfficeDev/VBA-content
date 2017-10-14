@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.FreeDiskSpace Property (Word)
 
-Returns the available disk space for the current drive, in bytes. Use the ChDrive statement to change the current drive. Read-only  **Long** .
+Returns the available disk space for the current drive, in bytes. Use the ChDrive statement to change the current drive. Read-only **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the available disk space for the current drive, in bytes. Use the ChDriv
 
 ## Remarks
 
-There are 1024 bytes in a kilobyte and 1,048,576 bytes in a megabyte. The maximum return value for the  **FreeDiskSpace** property is 2,147,483,647. Therefore, even if you have four gigabytes of free disk space, it returns 2,147,483,647.
+There are 1024 bytes in a kilobyte and 1,048,576 bytes in a megabyte. The maximum return value for the **FreeDiskSpace** property is 2,147,483,647. Therefore, even if you have four gigabytes of free disk space, it returns 2,147,483,647.
 
 
 ## Example

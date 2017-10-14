@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Guid Property (Project)
 
-Gets the GUID of the resource. Read-only  **String**.
+Gets the GUID of the resource. Read-only **String**.
 
 
 ## Syntax

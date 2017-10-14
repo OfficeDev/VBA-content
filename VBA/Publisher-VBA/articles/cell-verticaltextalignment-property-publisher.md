@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Cell.VerticalTextAlignment Property (Publisher)
 
-Returns or sets a  **PbVerticalTextAlignmentType**constant that represents the vertical alignment of text in a text box. Read/write.
+Returns or sets a **PbVerticalTextAlignmentType**constant that represents the vertical alignment of text in a text box. Read/write.
 
 
 ## Syntax
 
  _expression_. **VerticalTextAlignment**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ## Remarks
 
-The  **VerticalTextAlignment** property value can be one of these **PbVerticalTextAlignmentType** constants.
+The **VerticalTextAlignment** property value can be one of these **PbVerticalTextAlignmentType** constants.
 
 
 

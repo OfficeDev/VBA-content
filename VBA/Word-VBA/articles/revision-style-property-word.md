@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.Style Property (Word)
 
-Returns a  **Style** object that represents the style associated with a revision mark.
+Returns a **Style** object that represents the style associated with a revision mark.
 
 
 ## Syntax

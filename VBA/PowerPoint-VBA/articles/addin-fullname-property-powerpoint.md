@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-This property is equivalent to the  **Path** property, followed by the current file system separator, followed by the **Name** property.
+This property is equivalent to the **Path** property, followed by the current file system separator, followed by the **Name** property.
 
 
 ## Example

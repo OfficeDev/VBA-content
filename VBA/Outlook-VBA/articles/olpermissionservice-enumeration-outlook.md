@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlPermissionService Enumeration (Outlook)
 
-Specifies the permission service used when sending an Information Rights Management (IRM) protected  **MailItem** object.
+Specifies the permission service used when sending an Information Rights Management (IRM) protected **MailItem** object.
 
 
 

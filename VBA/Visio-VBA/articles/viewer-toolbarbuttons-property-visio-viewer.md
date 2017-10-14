@@ -17,7 +17,7 @@ Gets or sets the buttons that are available in the toolbar in Microsoft Visio Vi
 
  _expression_. **ToolbarButtons**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -56,7 +56,7 @@ The default list is "About,Sep,ZoomIn,ZoomOut,ZoomWidth,ZoomPage,Zoom100,Zoom,Se
 
 ## Example
 
-The following code shows how to display the names of the current toolbar buttons in Visio Viewer in the  **Immediate** window.
+The following code shows how to display the names of the current toolbar buttons in Visio Viewer in the **Immediate** window.
 
 
 ```vb

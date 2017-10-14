@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StyleSheet.Title Property (Word)
 
-Returns or sets a  **String** representing the title of a Web style sheet. Read/write.
+Returns or sets a **String** representing the title of a Web style sheet. Read/write.
 
 
 ## Syntax

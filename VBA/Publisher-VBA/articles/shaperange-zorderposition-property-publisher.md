@@ -13,23 +13,23 @@ ms.date: 06/08/2017
 
 # ShapeRange.ZOrderPosition Property (Publisher)
 
-Returns a  **Long** indicating the position of the specified shape or shape range in the z-order. Read-only.
+Returns a **Long** indicating the position of the specified shape or shape range in the z-order. Read-only.
 
 
 ## Syntax
 
  _expression_. **ZOrderPosition**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks
 
-A shape's position in the z-order corresponds to the shape's index number in the  **Shapes** collection. For example, if there are four shapes on the page, the expression `ActiveDocument.Pages(1).Shapes(1)` returns the shape at the back of the z-order, and the expression `ActiveDocument.Pages(1).Shapes(4)` returns the shape at the front of the z-order.
+A shape's position in the z-order corresponds to the shape's index number in the **Shapes** collection. For example, if there are four shapes on the page, the expression `ActiveDocument.Pages(1).Shapes(1)` returns the shape at the back of the z-order, and the expression `ActiveDocument.Pages(1).Shapes(4)` returns the shape at the front of the z-order.
 
 Whenever you add a new shape to a collection, it is added to the front of the z-order by default.
 
-To set the shape's position in the z-order, use the  **[ZOrder](shape-zorder-method-publisher.md)** method.
+To set the shape's position in the z-order, use the **[ZOrder](shape-zorder-method-publisher.md)** method.
 
 
 ## Example

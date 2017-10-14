@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.Item Method (Project)
-Returns an individual  **Shape** object in the **Shapes** collection.
+Returns an individual **Shape** object in the **Shapes** collection.
 
 ## Syntax
 
@@ -22,7 +22,7 @@ Returns an individual  **Shape** object in the **Shapes** collection.
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|Can be a  **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
+| _Index_|Required|**Variant**|Can be a **String** value for the name of the shape or a **Long** value for the ordinal index number of the shape.|
 | _Index_|Required|VARIANT||
 
 ### Return value
@@ -34,14 +34,14 @@ The shape that is specified by the  _Index_ parameter.
 
 ## Remarks
 
-The  **Item** method acts like the default **[Shapes.Value](shapes-value-property-project.md)** property. For example, create a report namedTable Tests that contains a table. The following statement in the **Immediate** window of the VBE prints the name of the table.
+The **Item** method acts like the default **[Shapes.Value](shapes-value-property-project.md)** property. For example, create a report namedTable Tests that contains a table. The following statement in the **Immediate** window of the VBE prints the name of the table.
 
 
 ```vb
 ? ActiveProject.Reports("Table Tests").Shapes.Item(1).Name
 ```
 
-If you leave off the  **Item** method, the following statement has the same output, but uses the default **Value** property to get the **Shape** object.
+If you leave off the **Item** method, the following statement has the same output, but uses the default **Value** property to get the **Shape** object.
 
 
 

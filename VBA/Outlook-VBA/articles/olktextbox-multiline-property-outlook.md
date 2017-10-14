@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.MultiLine Property (Outlook)
 
-Returns or sets a  **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
+Returns or sets a **Boolean** that specifies whether a control can accept and display multiple lines of text. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether a control can accept and d
 
 ## Remarks
 
-The default value is  **False** .
+The default value is **False** .
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.AddressStyle Property (Word)
 
-Returns a  **[Style](style-object-word.md)** object that represents the delivery address style for the envelope. Read-only.
+Returns a **[Style](style-object-word.md)** object that represents the delivery address style for the envelope. Read-only.
 
 
 ## Syntax

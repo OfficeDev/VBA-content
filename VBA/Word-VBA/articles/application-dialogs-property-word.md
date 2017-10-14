@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Dialogs Property (Word)
 
-Returns a  **[Dialogs](dialogs-object-word.md)** collection that represents all the built-in dialog boxes in Word.Read-only.
+Returns a **[Dialogs](dialogs-object-word.md)** collection that represents all the built-in dialog boxes in Word.Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example displays the built-in  **Find** dialog box, with "Hello" in the **Find What** box.
+This example displays the built-in **Find** dialog box, with "Hello" in the **Find What** box.
 
 
 ```vb
@@ -44,7 +44,7 @@ With dlgFind
 End With
 ```
 
-This example displays the built-in  **Open** dialog box showing all file types.
+This example displays the built-in **Open** dialog box showing all file types.
 
 
 
@@ -56,7 +56,7 @@ With Dialogs(wdDialogFileOpen)
 End With
 ```
 
-This example prints the active document, using the settings from the  **Print** dialog box.
+This example prints the active document, using the settings from the **Print** dialog box.
 
 
 

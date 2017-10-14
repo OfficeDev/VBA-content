@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Caption Property (Word)
 
-Returns or sets the caption text for the window that is displayed in the title bar of the document or application window. Read/write  **String** .
+Returns or sets the caption text for the window that is displayed in the title bar of the document or application window. Read/write **String** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ To change the caption of the application window to the default text, set this pr
 
 ## Example
 
-This example displays the caption of each window in the  **Windows** collection.
+This example displays the caption of each window in the **Windows** collection.
 
 
 ```vb

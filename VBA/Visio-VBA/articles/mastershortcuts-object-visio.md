@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # MasterShortcuts Object (Visio)
 
-Includes  **MasterShortcut** objects.
+Includes **MasterShortcut** objects.
 
 
 ## Remarks
 
-To retrieve a  **MasterShortcuts** collection, use the **MasterShortcuts** property of a **Document** object.
+To retrieve a **MasterShortcuts** collection, use the **MasterShortcuts** property of a **Document** object.
 
-The default property of a  **MasterShortcuts** collection is **Item** .
+The default property of a **MasterShortcuts** collection is **Item** .
 
 

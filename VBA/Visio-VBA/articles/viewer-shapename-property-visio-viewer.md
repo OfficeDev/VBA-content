@@ -17,7 +17,7 @@ Gets the name of the shape at the specified index in the collection of shapes in
 
  _expression_. **ShapeName**( **_ShapeIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,9 +35,9 @@ String
 
 ## Remarks
 
-The collection of shapes is one-based, so the index of the first shape in the collection is 1. If there are no shapes in the drawing, or if you pass the index of a nonexistent shape, the  **ShapeName** property returns nothing.
+The collection of shapes is one-based, so the index of the first shape in the collection is 1. If there are no shapes in the drawing, or if you pass the index of a nonexistent shape, the **ShapeName** property returns nothing.
 
-The  **ShapeName** property returns the local name of the shape, not its universal name.
+The **ShapeName** property returns the local name of the shape, not its universal name.
 
 
 ## Example

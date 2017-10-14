@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.ThreeD Property (PowerPoint)
 
-Returns a  **[ThreeDFormat](threedformat-object-powerpoint.md)** object that represents the three-dimensional formatting of the parent shape. Read-only.
+Returns a **[ThreeDFormat](threedformat-object-powerpoint.md)** object that represents the three-dimensional formatting of the parent shape. Read-only.
 
 
 ## Syntax

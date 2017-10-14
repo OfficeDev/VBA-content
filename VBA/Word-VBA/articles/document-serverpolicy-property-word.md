@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ServerPolicy Property (Word)
 
-Returns a  **ServerPolicy** object that represents a policy specified for a document stored on a server running Microsoft Office SharePoint Server 2007. Read-only.
+Returns a **ServerPolicy** object that represents a policy specified for a document stored on a server running Microsoft Office SharePoint Server 2007. Read-only.
 
 
 ## Syntax

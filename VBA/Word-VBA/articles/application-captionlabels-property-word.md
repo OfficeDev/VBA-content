@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CaptionLabels Property (Word)
 
-Returns a  **[CaptionLabels](captionlabels-object-word.md)** collection that represents all the available caption labels. Read-only.
+Returns a **[CaptionLabels](captionlabels-object-word.md)** collection that represents all the available caption labels. Read-only.
 
 
 ## Syntax

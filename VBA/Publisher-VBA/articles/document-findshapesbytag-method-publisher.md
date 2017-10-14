@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.FindShapesByTag Method (Publisher)
 
-Returns a  **[ShapeRange](shaperange-object-publisher.md)** object that represents the shapes with the specified tag.
+Returns a **[ShapeRange](shaperange-object-publisher.md)** object that represents the shapes with the specified tag.
 
 
 ## Syntax
 
  _expression_. **FindShapesByTag**( **_TagName_**)
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Parameters

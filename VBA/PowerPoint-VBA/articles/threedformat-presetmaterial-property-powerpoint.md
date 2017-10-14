@@ -30,7 +30,7 @@ MsoPresetMaterial
 
 ## Remarks
 
-The value of the  **PresetMaterial** property can be one of these **MsoPresetMaterial** constants.
+The value of the **PresetMaterial** property can be one of these **MsoPresetMaterial** constants.
 
 
 ||

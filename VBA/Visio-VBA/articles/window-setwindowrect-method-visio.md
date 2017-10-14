@@ -41,14 +41,14 @@ Nothing
 
 ## Remarks
 
-The  **SetWindowRect** method sets the size and position of the client area of the window with respect to the window that owns the **Windows** collection to which it belongs. For the **Windows** collection of an **Application** object, the "with respect to" window is the MDICLIENT window of the Visio main window. For the **Windows** collection of a **Window** object, the "with respect to" window is the client area of the drawing window.
+The **SetWindowRect** method sets the size and position of the client area of the window with respect to the window that owns the **Windows** collection to which it belongs. For the **Windows** collection of an **Application** object, the "with respect to" window is the MDICLIENT window of the Visio main window. For the **Windows** collection of a **Window** object, the "with respect to" window is the client area of the drawing window.
 
  **SetWindowRect** has no effect when the window is docked.
 
 
 ## Example
 
-The following example shows how to use the  **SetWindowRect** method to set the size and position of a **Window** object. It opens the **Pan &; Zoom** window and prints the window's coordinates, width, and height in the **Immediate** window. Then it uses **SetWindowRect** to change the height of the window, and prints the new values.
+The following example shows how to use the **SetWindowRect** method to set the size and position of a **Window** object. It opens the **Pan &; Zoom** window and prints the window's coordinates, width, and height in the **Immediate** window. Then it uses **SetWindowRect** to change the height of the window, and prints the new values.
 
 
 ```vb

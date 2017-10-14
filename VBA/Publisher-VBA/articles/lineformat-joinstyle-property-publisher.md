@@ -18,7 +18,7 @@ Returns of sets the join style for the specified line. Read-write.
 
  _expression_. **JoinStyle**
 
- _expression_A variable that represents a  **LineFormat** object.
+ _expression_A variable that represents a **LineFormat** object.
 
 
 ## Return value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.NotesPage Property (PowerPoint)
 
-Returns a  **[SlideRange](sliderange-object-powerpoint.md)** object that represents the notes pages for the specified slide or range of slides. Read-only.
+Returns a **[SlideRange](sliderange-object-powerpoint.md)** object that represents the notes pages for the specified slide or range of slides. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ SlideRange
 
 ## Remarks
 
-The  **NotesPage** property returns the notes page for either a single slide or a range of slides and allows you to make changes only to those notes pages. If you want to make changes that affect all notes pages, use the **[NotesMaster](presentation-notesmaster-property-powerpoint.md)** property to return the **Slide** object that represents the notes master.
+The **NotesPage** property returns the notes page for either a single slide or a range of slides and allows you to make changes only to those notes pages. If you want to make changes that affect all notes pages, use the **[NotesMaster](presentation-notesmaster-property-powerpoint.md)** property to return the **Slide** object that represents the notes master.
 
 
 ## Example
@@ -47,7 +47,7 @@ End With
 ```
 
 
- **Note**  The following properties and methods will fail if applied to a  **SlideRange** object that represents a notes page: **Copy** method, **Cut** method, **Delete** method, **Duplicate** method, **HeadersFooters** property, **Hyperlinks** property, **Layout** property, **PrintSteps** property, **SlideShowTransition** property.
+ **Note**  The following properties and methods will fail if applied to a **SlideRange** object that represents a notes page: **Copy** method, **Cut** method, **Delete** method, **Duplicate** method, **HeadersFooters** property, **Hyperlinks** property, **Layout** property, **PrintSteps** property, **SlideShowTransition** property.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.TintAndShade Property (Word)
 
-Returns a  **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
+Returns a **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
 
 
 ## Syntax

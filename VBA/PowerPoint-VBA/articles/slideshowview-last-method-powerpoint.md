@@ -25,7 +25,7 @@ Sets the specified slide show view to display the last slide in the presentation
 
 ## Remarks
 
-If you use the  **Last** method to switch from one slide to another during a slide show, when you return to the original slide, its animation picks up where it left off.
+If you use the **Last** method to switch from one slide to another during a slide show, when you return to the original slide, its animation picks up where it left off.
 
 
 ## Example

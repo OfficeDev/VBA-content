@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SynonymInfo.MeaningList Property (Word)
 
-Returns the list of meanings for the word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
+Returns the list of meanings for the word or phrase. The list is returned as an array of strings. Read-only **Variant** .
 
 
 ## Syntax

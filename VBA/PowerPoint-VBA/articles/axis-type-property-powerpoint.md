@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.Type Property (PowerPoint)
 
-Returns the axis type. Read-only  **[XlAxisType](xlaxistype-enumeration-powerpoint.md)**.
+Returns the axis type. Read-only **[XlAxisType](xlaxistype-enumeration-powerpoint.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the axis type. Read-only  **[XlAxisType](xlaxistype-enumeration-powerpoi
 
 ## Remarks
 
-When you use this property for the horizontal axis of scatter charts,  **xlCategory** will be returned as the axis type.
+When you use this property for the horizontal axis of scatter charts, **xlCategory** will be returned as the axis type.
 
 
 ## See also

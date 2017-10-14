@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailSignatureEntry.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **EmailSignatureEntry** object.
+Returns an **Object** that represents the parent object of the specified **EmailSignatureEntry** object.
 
 
 ## Syntax

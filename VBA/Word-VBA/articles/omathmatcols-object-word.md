@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMatCols Object (Word)
 
-Represents a collection of matrix columns. Use the  **OMathMatCol** object to access individual members of the collection.
+Represents a collection of matrix columns. Use the **OMathMatCol** object to access individual members of the collection.
 
 
 ## See also

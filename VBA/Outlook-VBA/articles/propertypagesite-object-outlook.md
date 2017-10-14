@@ -18,14 +18,14 @@ Represents the container of a custom property page.
 
 ## Remarks
 
-Use the  **Parent** property of the ActiveX control that implements the **[PropertyPage](propertypage-object-outlook.md)** object associated with the **PropertyPageSite** object to return the **PropertyPageSite** object. The Declarations section of the module implementing the **PropertyPage** object must contain a declaration similar to the following.
+Use the **Parent** property of the ActiveX control that implements the **[PropertyPage](propertypage-object-outlook.md)** object associated with the **PropertyPageSite** object to return the **PropertyPageSite** object. The Declarations section of the module implementing the **PropertyPage** object must contain a declaration similar to the following.
 
 
 ```
 Private myPropertyPageSite As Outlook.PropertyPageSite
 ```
 
-The object is then returned from the  **Parent** property.
+The object is then returned from the **Parent** property.
 
 
 
@@ -34,7 +34,7 @@ The object is then returned from the  **Parent** property.
 Set myPropertyPageSite = Parent
 ```
 
-Use the  **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)** method to notify Microsoft Outlook that the property page has changed.
+Use the **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)** method to notify Microsoft Outlook that the property page has changed.
 
 
 ## Methods

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.SV Property (Project)
 
-Gets the earned value scheduled variance (SV) of the resource. Read-only  **Variant**.
+Gets the earned value scheduled variance (SV) of the resource. Read-only **Variant**.
 
 
 ## Syntax

@@ -29,7 +29,7 @@ Returns a locale-specific array of names of themes contained in the document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _eType_|Required| **VisThemeTypes**|The type of the theme, an enumerated value from the  **VisThemeTypes** enumeration. See Remarks for possible values.|
+| _eType_|Required| **VisThemeTypes**|The type of the theme, an enumerated value from the **VisThemeTypes** enumeration. See Remarks for possible values.|
 | _NameArray()_|Required| **String**|Out parameter. An array of locale-specific theme names returned by the method.|
 
 ### Return Value
@@ -49,7 +49,7 @@ For the  _eType_ parameter, pass a value from the **VisThemeTypes** enumeration,
 | **visThemeTypeEffect**|2|Effect themes.|
 For the  _NameArray()_ out parameter, pass an empty, dimensionless array of type **String** . Visio returns the array filled with locale-specific names of themes contained in the document.
 
-To get locale-independent themes in the document, use the  **[Document.GetThemeNamesU](document-getthemenamesu-method-visio.md)** method.
+To get locale-independent themes in the document, use the **[Document.GetThemeNamesU](document-getthemenamesu-method-visio.md)** method.
 
 
 
@@ -59,7 +59,7 @@ To get locale-independent themes in the document, use the  **[Document.GetThemeN
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **GetThemeNames** method to get the list of locale-specific theme color and theme effect names in the active document. It prints the list in the **Immediate** window.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **GetThemeNames** method to get the list of locale-specific theme color and theme effect names in the active document. It prints the list in the **Immediate** window.
 
 
 ```vb

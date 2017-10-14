@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SenderEmailType Property (Outlook)
 
-Returns a  **String** that represents the type of entry for the e-mail address of the sender of the **[SharingItem](sharingitem-object-outlook.md)** , such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, and so on. Read-only.
+Returns a **String** that represents the type of entry for the e-mail address of the sender of the **[SharingItem](sharingitem-object-outlook.md)** , such as 'SMTP' for Internet address, 'EX' for a Microsoft Exchange server address, and so on. Read-only.
 
 
 ## Syntax

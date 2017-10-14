@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.AddressFromLeft Property (Word)
 
-Returns or sets the distance (in points) between the left edge of the envelope and the delivery address. Read/write  **Single** .
+Returns or sets the distance (in points) between the left edge of the envelope and the delivery address. Read/write **Single** .
 
 
 ## Syntax

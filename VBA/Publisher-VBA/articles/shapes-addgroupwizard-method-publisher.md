@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddGroupWizard Method (Publisher)
 
-Adds a  **Shape** object representing a Design Gallery object to the publication.
+Adds a **Shape** object representing a Design Gallery object to the publication.
 
 
 ## Syntax
 
- _expression_. **AddGroupWizard**( **_Wizard_**,  **_Left_**,  **_Top_**,  **_Width_**,  **_Height_**,  **_Design_**)
+ _expression_. **AddGroupWizard**( **_Wizard_**, **_Left_**, **_Top_**, **_Width_**, **_Height_**, **_Design_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters
@@ -43,7 +43,7 @@ Shape
 
 ## Remarks
 
-The Wizard parameter can be one of the  **[PbWizardGroup](pbwizardgroup-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The Wizard parameter can be one of the **[PbWizardGroup](pbwizardgroup-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

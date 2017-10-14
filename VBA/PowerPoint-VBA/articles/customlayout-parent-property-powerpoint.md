@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.Parent Property (PowerPoint)
 
-Returns a reference to the slide master object that is the parent of the specified  **[CustomLayout](customlayout-object-powerpoint.md)** object. Read-only.
+Returns a reference to the slide master object that is the parent of the specified **[CustomLayout](customlayout-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax

@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Shapes.AddBuildingBlock Method (Publisher)
 
-Adds a  **[BuildingBlock](buildingblock-object-publisher.md)** object and returns a **[Shape](shape-object-publisher.md)** object on the page that represents the building block.
+Adds a **[BuildingBlock](buildingblock-object-publisher.md)** object and returns a **[Shape](shape-object-publisher.md)** object on the page that represents the building block.
 
 
 ## Syntax
 
- _expression_. **AddBuildingBlock**( **_BBlockIn_**,  **_Left_**,  **_Top_**)
+ _expression_. **AddBuildingBlock**( **_BBlockIn_**, **_Left_**, **_Top_**)
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Parameters

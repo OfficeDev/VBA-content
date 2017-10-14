@@ -30,6 +30,6 @@ Shows or hides assignments for one or more selected task or resources in usage v
 
 ## Remarks
 
-The  **ToggleAssignments** method has the same effect as clicking the box next to a task or resource, to expand or hide assignments.
+The **ToggleAssignments** method has the same effect as clicking the box next to a task or resource, to expand or hide assignments.
 
 

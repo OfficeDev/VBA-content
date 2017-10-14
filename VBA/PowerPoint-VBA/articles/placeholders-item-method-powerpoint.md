@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Placeholders.Item Method (PowerPoint)
 
-Returns a single  **Shape** object from the specified **Placeholders** collection.
+Returns a single **Shape** object from the specified **Placeholders** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Shape** object from the specified **Placeholders** collectio
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Shape** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Shape** object in the collection to be returned.|
 
 ### Return Value
 

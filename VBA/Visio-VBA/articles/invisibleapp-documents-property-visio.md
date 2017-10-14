@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.Documents Property (Visio)
 
-Returns the  **Documents** collection for a Microsoft Visio instance. Read-only.
+Returns the **Documents** collection for a Microsoft Visio instance. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Documents
 
 ## Remarks
 
-You can iterate through a  **Documents** collection by using the **Count** property to retrieve the number of documents in the collection. You can use the **Item** property to retrieve individual elements from a collection.
+You can iterate through a **Documents** collection by using the **Count** property to retrieve the number of documents in the collection. You can use the **Item** property to retrieve individual elements from a collection.
 
 

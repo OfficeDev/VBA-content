@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.BeginConnectedShape Property (PowerPoint)
 
-Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the shape that the beginning of the specified connector is attached to. Read-only.
+Returns a **[Shape](shape-object-powerpoint.md)** object that represents the shape that the beginning of the specified connector is attached to. Read-only.
 
 
 ## Syntax

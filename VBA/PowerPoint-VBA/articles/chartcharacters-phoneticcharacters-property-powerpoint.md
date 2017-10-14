@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartCharacters.PhoneticCharacters Property (PowerPoint)
 
-Returns or sets the phonetic text for the object. Read/write  **String**.
+Returns or sets the phonetic text for the object. Read/write **String**.
 
 
 ## Syntax

@@ -29,7 +29,7 @@ Applies the filter to the current view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Highlight_|Optional|**Boolean**|If  **True**, highlights the filtered items within the list of all items. If **False**, shows only the filtered items in the view. The default is **False**.|
+| _Highlight_|Optional|**Boolean**|If **True**, highlights the filtered items within the list of all items. If **False**, shows only the filtered items in the view. The default is **False**.|
 
 ### Return Value
 

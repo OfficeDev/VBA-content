@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ContainerProperties.Document Property (Visio)
 
-Gets the  **[Document](document-object-visio.md)** object that is associated with the **[ContainerProperties](containerproperties-object-visio.md)** object. Read-only.
+Gets the **[Document](document-object-visio.md)** object that is associated with the **[ContainerProperties](containerproperties-object-visio.md)** object. Read-only.
 
 
 ## Syntax

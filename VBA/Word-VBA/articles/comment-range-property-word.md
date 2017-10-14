@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comment.Range Property (Word)
 
-Returns a  **Range** object that represents the contents of a comment.
+Returns a **Range** object that represents the contents of a comment.
 
 
 ## Syntax

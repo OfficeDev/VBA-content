@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.WeekLabelDisplay Property (Project)
 
-Gets or sets the abbreviation for "week" that is displayed for values such as durations, delays, slack, and work. Read/write  **Integer**.
+Gets or sets the abbreviation for "week" that is displayed for values such as durations, delays, slack, and work. Read/write **Integer**.
 
 
 ## Syntax
@@ -25,8 +25,8 @@ Gets or sets the abbreviation for "week" that is displayed for values such as du
 
 ## Remarks
 
-The  **WeekLabelDisplay** property corresponds to the **Weeks** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **WeekLabelDisplay** property to 1 sets the **Weeks** list to the second value in the list ("wk").
+The **WeekLabelDisplay** property corresponds to the **Weeks** list on the **Advanced** tab of the **Project Options** dialog box. For example, setting the **WeekLabelDisplay** property to 1 sets the **Weeks** list to the second value in the list ("wk").
 
-Values of the  **WeekLabelDisplay** property can be 0 to 2.
+Values of the **WeekLabelDisplay** property can be 0 to 2.
 
 

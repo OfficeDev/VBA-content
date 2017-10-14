@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TasksModule.NavigationModuleType Property (Outlook)
 
-Returns an  **[OlNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
+Returns an **[OlNavigationModuleType](olnavigationmoduletype-enumeration-outlook.md)** constant that represents the navigation module type for the object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlNavigationModuleType](olnavigationmoduletype-enumeration-outloo
 
 ## Remarks
 
-This property returns  **olModuleTasks** for the **[TasksModule](tasksmodule-object-outlook.md)** object.
+This property returns **olModuleTasks** for the **[TasksModule](tasksmodule-object-outlook.md)** object.
 
 
 ## See also

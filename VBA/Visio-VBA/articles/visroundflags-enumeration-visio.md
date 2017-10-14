@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisRoundFlags Enumeration (Visio)
 
-Constants to pass to the  **Cell.ResultInt** property.
+Constants to pass to the **Cell.ResultInt** property.
 
 
 

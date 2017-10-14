@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbPictureResolution Enumeration (Publisher)
 
-Constants passed to the  **SaveAsPicture** method and specifying the resolution in which the picture is to be saved.
+Constants passed to the **SaveAsPicture** method and specifying the resolution in which the picture is to be saved.
 
 
 

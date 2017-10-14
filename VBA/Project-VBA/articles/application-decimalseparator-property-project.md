@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.DecimalSeparator Property (Project)
 
-Gets the character that separates the whole and fractional parts of a number. Read-only  **String**.
+Gets the character that separates the whole and fractional parts of a number. Read-only **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the character that separates the whole and fractional parts of a number. Re
 
 ## Remarks
 
-Project sets the  **DecimalSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
+Project sets the **DecimalSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
 
 

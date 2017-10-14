@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # RulerGuide.Type Property (Publisher)
 
-Returns or sets a  **PbRulerGuideType** constant that represents the ruler guide type. Read/write.
+Returns or sets a **PbRulerGuideType** constant that represents the ruler guide type. Read/write.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **RulerGuide** object.
+ _expression_A variable that represents a **RulerGuide** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **PbRulerGuideType** constants.
+The **Type** property value can be one of these **PbRulerGuideType** constants.
 
 
 

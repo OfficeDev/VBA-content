@@ -20,7 +20,7 @@ Updates linked and embedded OLE objects.
 
  _expression_. **UpdateOLEObjects**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Example

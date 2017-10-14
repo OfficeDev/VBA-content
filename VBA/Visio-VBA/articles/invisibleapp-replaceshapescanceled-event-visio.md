@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # InvisibleApp.ReplaceShapesCanceled Event (Visio)
 
-Occurs after an event handler has returned  **True** (cancel) to a **QueryCancelReplaceShapes** event.
+Occurs after an event handler has returned **True** (cancel) to a **QueryCancelReplaceShapes** event.
 
 
 ## Syntax

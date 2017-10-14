@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BackgroundPrintingStatus Property (Word)
 
-Returns the number of print jobs in the background printing queue. Read-only  **Long** .
+Returns the number of print jobs in the background printing queue. Read-only **Long** .
 
 
 ## Syntax

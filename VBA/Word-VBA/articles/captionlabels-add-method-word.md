@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabels.Add Method (Word)
 
-Returns a  **CaptionLabel** object that represents a custom caption label.
+Returns a **CaptionLabel** object that represents a custom caption label.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ CaptionLabel
 
 ## Example
 
-This example adds a custom caption label named Demo Slide. To verify that the custom label is added, view the  **Label** combo box in the **Caption** dialog box, accessed from the **Reference** command on the **Insert** menu.
+This example adds a custom caption label named Demo Slide. To verify that the custom label is added, view the **Label** combo box in the **Caption** dialog box, accessed from the **Reference** command on the **Insert** menu.
 
 
 ```vb

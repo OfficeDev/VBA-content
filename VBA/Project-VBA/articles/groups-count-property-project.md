@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Groups.Count Property (Project)
 
-Gets the number of items in the  **Groups** collection. Read-only **Long**. .
+Gets the number of items in the **Groups** collection. Read-only **Long**. .
 
 
 ## Syntax

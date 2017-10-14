@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.Clone Method (PowerPoint)
 
-Creates a copy of an  **[Effect](effect-object-powerpoint.md)** object, and adds it to the **[Sequences](sequences-object-powerpoint.md)** collection at the specified index position.
+Creates a copy of an **[Effect](effect-object-powerpoint.md)** object, and adds it to the **[Sequences](sequences-object-powerpoint.md)** collection at the specified index position.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Creates a copy of an  **[Effect](effect-object-powerpoint.md)** object, and adds
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Effect_|Required|**Effect**|**Effect** object. The animation effect to be cloned.|
-| _Index_|Optional|**Long**|The position at which the cloned animation effect will be added to the  **Sequences** collection. The default value is -1 (added to the end).|
+| _Index_|Optional|**Long**|The position at which the cloned animation effect will be added to the **Sequences** collection. The default value is -1 (added to the end).|
 
 ### Return Value
 

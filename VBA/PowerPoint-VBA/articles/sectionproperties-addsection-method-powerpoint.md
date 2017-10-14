@@ -39,7 +39,7 @@ Integer
 
 ## Remarks
 
-If a section already exists at the specified index position, calling  **AddSection** is equivalent to adding an empty section immediately before that section.
+If a section already exists at the specified index position, calling **AddSection** is equivalent to adding an empty section immediately before that section.
 
 The indices of sections after the newly inserted section are automatically incremented by one.
 

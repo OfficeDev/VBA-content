@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Groups2.Item Property (Project)
 
-Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Group2](group2-object-project.md)**.
+Gets a single **Group2** object from a **Groups2** collection. Read-only **[Group2](group2-object-project.md)**.
 
 
 ## Syntax

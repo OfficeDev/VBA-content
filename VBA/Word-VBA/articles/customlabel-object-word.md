@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # CustomLabel Object (Word)
 
-Represents a custom mailing label. The  **CustomLabel** object is a member of the **[CustomLabels](customlabels-object-word.md)** collection. The **CustomLabels** collection contains all the custom mailing labels listed in the **Label Options** dialog box.
+Represents a custom mailing label. The **CustomLabel** object is a member of the **[CustomLabels](customlabels-object-word.md)** collection. The **CustomLabels** collection contains all the custom mailing labels listed in the **Label Options** dialog box.
 
 
 ## Remarks
 
-Use  **[CustomLabels](mailinglabel-customlabels-property-word.md)** (Index), where Index is the custom label name or index number, to return a single **CustomLabel** object. The following example creates a new document with an existing custom label layout named "My Labels."
+Use **[CustomLabels](mailinglabel-customlabels-property-word.md)** (Index), where Index is the custom label name or index number, to return a single **CustomLabel** object. The following example creates a new document with an existing custom label layout named "My Labels."
 
 
 ```vb
@@ -30,7 +30,7 @@ Else
 End If
 ```
 
-The index number represents the position of the custom mailing label in the  **[CustomLabels](customlabels-object-word.md)** collection. The following example displays the name of the first custom mailing label.
+The index number represents the position of the custom mailing label in the **[CustomLabels](customlabels-object-word.md)** collection. The following example displays the name of the first custom mailing label.
 
 
 
@@ -42,9 +42,9 @@ End If
 ```
 
 
- **Note**   **CustomLabel** objects are sorted alphabetically in the **[CustomLabels](customlabels-object-word.md)** collection and their index numbers are dynamically reassigned as the contents of the collection change. For that reason, it is safer to refer to a specific **CustomLabel** object by name rather than by index number.
+ **Note**  **CustomLabel** objects are sorted alphabetically in the **[CustomLabels](customlabels-object-word.md)** collection and their index numbers are dynamically reassigned as the contents of the collection change. For that reason, it is safer to refer to a specific **CustomLabel** object by name rather than by index number.
 
-Use the  **[Add](customlabels-add-method-word.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
+Use the **[Add](customlabels-add-method-word.md)** method to create a custom label. The following example adds a custom mailing label named "My Label" and sets the page size.
 
 
 

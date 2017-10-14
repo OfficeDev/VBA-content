@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Bibliography Property (Word)
 
-Returns a  **[Bibliography](bibliography-object-word.md)** object that represents the bibliography references contained within a document. Read-only.
+Returns a **[Bibliography](bibliography-object-word.md)** object that represents the bibliography references contained within a document. Read-only.
 
 
 ## Syntax

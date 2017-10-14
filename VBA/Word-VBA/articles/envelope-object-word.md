@@ -18,7 +18,7 @@ Represents an envelope attached to a document.
 
 ## Remarks
 
-Use the  **[Envelope](document-envelope-property-word.md)** property to return the **Envelope** object. The following example adds an envelope to a new document and sets the distance between the top of the envelope and the address to 2.25 inches.
+Use the **[Envelope](document-envelope-property-word.md)** property to return the **Envelope** object. The following example adds an envelope to a new document and sets the distance between the top of the envelope and the address to 2.25 inches.
 
 
 ```vb
@@ -35,9 +35,9 @@ End With
 
 Remarks
 
-The  **Envelope** object is available regardless of whether an envelope has been added to the specified document. However, an error occurs if you use one of the following properties when an envelope has not been added to the document: **[Address](envelope-address-property-word.md)** , **[AddressFromLeft](envelope-addressfromleft-property-word.md)** , **[AddressFromTop](envelope-addressfromtop-property-word.md)** , **[FeedSource](envelope-feedsource-property-word.md)** , **[ReturnAddress](envelope-returnaddress-property-word.md)** , **[ReturnAddressFromLeft](envelope-returnaddressfromleft-property-word.md)** , **[ReturnAddressFromTop](envelope-returnaddressfromtop-property-word.md)** , and **[UpdateDocument](envelope-updatedocument-method-word.md)** .
+The **Envelope** object is available regardless of whether an envelope has been added to the specified document. However, an error occurs if you use one of the following properties when an envelope has not been added to the document: **[Address](envelope-address-property-word.md)** , **[AddressFromLeft](envelope-addressfromleft-property-word.md)** , **[AddressFromTop](envelope-addressfromtop-property-word.md)** , **[FeedSource](envelope-feedsource-property-word.md)** , **[ReturnAddress](envelope-returnaddress-property-word.md)** , **[ReturnAddressFromLeft](envelope-returnaddressfromleft-property-word.md)** , **[ReturnAddressFromTop](envelope-returnaddressfromtop-property-word.md)** , and **[UpdateDocument](envelope-updatedocument-method-word.md)** .
 
-The following example demonstrates how to use the  **On Error GoTo** statement to trap the error that occurs if an envelope has not been added to the active document. If, however, an envelope has been added to the document, the recipient address is displayed.
+The following example demonstrates how to use the **On Error GoTo** statement to trap the error that occurs if an envelope has not been added to the active document. If, however, an envelope has been added to the document, the recipient address is displayed.
 
 
 
@@ -50,10 +50,10 @@ If Err = 5852 Then MsgBox _
  "Envelope is not in the specified document"
 ```
 
-Use the  **Insert** method to add an envelope to the specified document. Use the **PrintOut** method to set the properties of an envelope and print it without adding it to the document.
+Use the **Insert** method to add an envelope to the specified document. Use the **PrintOut** method to set the properties of an envelope and print it without adding it to the document.
 
 
- **Note**  There is no Envelopes collection; each  **Document** object contains only one **Envelope** object.
+ **Note**  There is no Envelopes collection; each **Document** object contains only one **Envelope** object.
 
 
 ## See also

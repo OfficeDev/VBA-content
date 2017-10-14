@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflict Object (Word)
 
-Represents a conflicting edit in a co authored document. The type of a  **Conflict** object is specified by the[WdRevisionType](wdrevisiontype-enumeration-word.md) enumeration.
+Represents a conflicting edit in a co authored document. The type of a **Conflict** object is specified by the[WdRevisionType](wdrevisiontype-enumeration-word.md) enumeration.
 
 
 ## Remarks

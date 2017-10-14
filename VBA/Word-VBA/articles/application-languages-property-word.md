@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Languages Property (Word)
 
-Returns a  **[Languages](languages-object-word.md)** collection that represents the proofing languages listed in the **Language** dialog box.
+Returns a **[Languages](languages-object-word.md)** collection that represents the proofing languages listed in the **Language** dialog box.
 
 
 ## Syntax

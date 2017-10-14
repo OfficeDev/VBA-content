@@ -30,14 +30,14 @@ Integer
 
 ## Remarks
 
-Type value constants for  **Window** objects (the possible values that the **Type** property of a **Window** object returns) are declared by the Visio type library in **[VisWinTypes](viswintypes-enumeration-visio.md)** .
+Type value constants for **Window** objects (the possible values that the **Type** property of a **Window** object returns) are declared by the Visio type library in **[VisWinTypes](viswintypes-enumeration-visio.md)** .
 
-If a  **Window** object is type **visDrawing** , use the **SubType** property to determine the type of drawing window represented by the object.
+If a **Window** object is type **visDrawing** , use the **SubType** property to determine the type of drawing window represented by the object.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Type** property to determine the type of a window.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Type** property to determine the type of a window.
 
 
 ```vb

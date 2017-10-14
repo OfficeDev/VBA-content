@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # BuildingBlocks.Item Method (Word)
 
-Returns a  **BuildingBlock** object that represents the specified item in the collection.
+Returns a **BuildingBlock** object that represents the specified item in the collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **BuildingBlock** object that represents the specified item in the co
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Specifies a  **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
+| _Index_|Required| **Variant**|Specifies a **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
 
 ### Return Value
 

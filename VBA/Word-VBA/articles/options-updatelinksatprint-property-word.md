@@ -33,7 +33,7 @@ Options.UpdateLinksAtPrint = True
 ActiveDocument.PrintOut
 ```
 
-This example returns the current status of the  **Update links** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the current status of the **Update links** option on the **Print** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

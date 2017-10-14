@@ -18,14 +18,14 @@ Represents a change to the recipient's Tasks list initiated by another party or 
 
 ## Remarks
 
-Unlike other Microsoft Outlook objects, you cannot create this object. When the sender applies the  **[Assign](taskitem-assign-method-outlook.md)** and **[Send](taskitem-send-method-outlook.md)** methods to a **[TaskItem](taskitem-object-outlook.md)** object to assign (delegate) the associated task to another user, the **TaskRequestItem** object is created when the item is received in the recipient's Inbox.
+Unlike other Microsoft Outlook objects, you cannot create this object. When the sender applies the **[Assign](taskitem-assign-method-outlook.md)** and **[Send](taskitem-send-method-outlook.md)** methods to a **[TaskItem](taskitem-object-outlook.md)** object to assign (delegate) the associated task to another user, the **TaskRequestItem** object is created when the item is received in the recipient's Inbox.
 
-Use the  **[GetAssociatedTask](taskrequestitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object, and work directly with the **TaskItem** object to respond to the request.
+Use the **[GetAssociatedTask](taskrequestitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object, and work directly with the **TaskItem** object to respond to the request.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example creates a simple task, assigns it to another user, and sends it. When the task request arrives in the recipient's Inbox, it is received as a  **TaskRequestItem**.
+The following Visual Basic for Applications (VBA) example creates a simple task, assigns it to another user, and sends it. When the task request arrives in the recipient's Inbox, it is received as a **TaskRequestItem**.
 
 
 

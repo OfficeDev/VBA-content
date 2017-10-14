@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Point.PictureType Property (PowerPoint)
 
-Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[XlChartPictureType](xlchartpicturetype-enumeration-powerpoint.md)**.
+Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write **[XlChartPictureType](xlchartpicturetype-enumeration-powerpoint.md)**.
 
 
 ## Syntax

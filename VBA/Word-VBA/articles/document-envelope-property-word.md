@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Envelope Property (Word)
 
-Returns an  **[Envelope](envelope-object-word.md)** object that represents an envelope and envelope features in a document. Read-only.
+Returns an **[Envelope](envelope-object-word.md)** object that represents an envelope and envelope features in a document. Read-only.
 
 
 ## Syntax

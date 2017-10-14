@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WeekDay.Count Property (Project)
 
-Gets the value 1 for the number of days in the  **WeekDay** object. Read-only **Integer**.
+Gets the value 1 for the number of days in the **WeekDay** object. Read-only **Integer**.
 
 
 ## Syntax

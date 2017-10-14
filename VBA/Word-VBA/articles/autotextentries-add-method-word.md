@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoTextEntries.Add Method (Word)
 
-Returns an  **AutoTextEntry** object that represents an AutoText entry added to the list of available AutoText entries.
+Returns an **AutoTextEntry** object that represents an AutoText entry added to the list of available AutoText entries.
 
 
 ## Syntax

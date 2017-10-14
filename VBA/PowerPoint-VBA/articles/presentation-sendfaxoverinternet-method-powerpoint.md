@@ -29,13 +29,13 @@ Sends a presentation as a fax to the specified recipients.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Recipients_|Optional|**Variant**|A  **String** that represents the fax numbers and e-mail addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
-| _Subject_|Optional|**Variant**|A  **String** that represents the subject line for the faxed presentation.|
-| _ShowMessage_|Optional|**Variant**|Whether to display the fax message before sending it.  **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
+| _Recipients_|Optional|**Variant**|A **String** that represents the fax numbers and e-mail addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
+| _Subject_|Optional|**Variant**|A **String** that represents the subject line for the faxed presentation.|
+| _ShowMessage_|Optional|**Variant**|Whether to display the fax message before sending it. **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 
 ## Remarks
 
-Using the  **SendFaxOverInternet** method requires that the fax service be enabled on a user's computer.
+Using the **SendFaxOverInternet** method requires that the fax service be enabled on a user's computer.
 
 The format used for specifying fax numbers in the Recipients parameter is either  _recipientsfaxnumber_ @ _usersfaxprovider_ or _recipientsname_ @ _recipientsfaxnumber_. You can access the user's fax provider information by using the following registry path:
 

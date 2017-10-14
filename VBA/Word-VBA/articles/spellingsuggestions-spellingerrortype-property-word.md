@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingSuggestions.SpellingErrorType Property (Word)
 
-Returns the spelling error type. Read-only  **WdSpellingErrorType** .
+Returns the spelling error type. Read-only **WdSpellingErrorType** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the spelling error type. Read-only  **WdSpellingErrorType** .
 
 ## Remarks
 
-Use the  **GetSpellingSuggestions** method to return a collection of words suggested as spelling replacements. If a word is misspelled, the **CheckSpelling** method returns **True** .
+Use the **GetSpellingSuggestions** method to return a collection of words suggested as spelling replacements. If a word is misspelled, the **CheckSpelling** method returns **True** .
 
 
 ## Example

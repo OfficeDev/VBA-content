@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.AllowInCellEditing Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether in-cell editing is allowed in the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that determines whether in-cell editing is allowed in the **[TableView](tableview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines whether in-cell editing is 
 
 ## Remarks
 
-If this property is set to  **True** , then the **[Multiline](tableview-multiline-property-outlook.md)** property of the **TableView** object is automatically set to **olAlwaysSingleLine** .
+If this property is set to **True** , then the **[Multiline](tableview-multiline-property-outlook.md)** property of the **TableView** object is automatically set to **olAlwaysSingleLine** .
 
 
 ## See also

@@ -23,10 +23,10 @@ Returns a [Reviewers](reviewers-object-word.md) object that represents the colle
 
 ## Remarks
 
-The  **Reviewers** collection returned by **Reviewers** contains the names of all reviewers who have reviewed documents opened or edited on a computer.
+The **Reviewers** collection returned by **Reviewers** contains the names of all reviewers who have reviewed documents opened or edited on a computer.
 
 
- **Note**  The  **Reviewers** property replaces the **View.Reviewers** property found in previous versions of Word, which is now deprecated.
+ **Note**  The **Reviewers** property replaces the **View.Reviewers** property found in previous versions of Word, which is now deprecated.
 
 
 ## Example

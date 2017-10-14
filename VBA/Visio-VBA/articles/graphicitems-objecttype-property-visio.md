@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GraphicItems.ObjectType Property (Visio)
 
-Returns  **visObjTypeGraphicItems** , the type of a **GraphicItems** object. Read-only.
+Returns **visObjTypeGraphicItems** , the type of a **GraphicItems** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -33,6 +33,6 @@ VisObjectTypes
 
 ## Remarks
 
-Constants representing object types are prefixed with  **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
+Constants representing object types are prefixed with **visObjType** and are declared by the Visio type library in **[VisObjectTypes](visobjecttypes-enumeration-visio.md)** .
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Guid Property (Project)
 
-Gets the GUID of the task. Read-only  **String**.
+Gets the GUID of the task. Read-only **String**.
 
 
 ## Syntax

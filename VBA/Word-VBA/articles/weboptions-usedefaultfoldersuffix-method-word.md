@@ -25,9 +25,9 @@ Sets the folder suffix for the specified document to the default suffix for the 
 
 ## Remarks
 
-Microsoft Word uses the folder suffix when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **UseLongFileNames** and **OrganizeInFolder** properties are set to **True** ).
+Microsoft Word uses the folder suffix when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the **UseLongFileNames** and **OrganizeInFolder** properties are set to **True** ).
 
-The suffix appears in the folder name after the document name. For example, if the document is called "Doc1" and the language is English, the folder name is Doc1_files. The available folder suffixes are listed in the  **FolderSuffix** property topic.
+The suffix appears in the folder name after the document name. For example, if the document is called "Doc1" and the language is English, the folder name is Doc1_files. The available folder suffixes are listed in the **FolderSuffix** property topic.
 
 
 ## Example

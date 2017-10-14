@@ -33,7 +33,7 @@ Returns or sets the adjustment value specified by the  _Index_ argument. Read/wr
 
 ## Remarks
 
-For linear adjustments, an adjustment value of 0.0 generally corresponds to the left or top edge of the shape, and a value of 1.0 generally corresponds to the right or bottom edge of the shape. However, adjustments can pass beyond shape boundaries for some shapes. For radial adjustments, an adjustment value of 1.0 corresponds to the width of the shape. For angular adjustments, the adjustment value is specified in degrees. The  **Item** property applies only to shapes that have adjustments. AutoShapes and WordArt have up to eight adjustments.
+For linear adjustments, an adjustment value of 0.0 generally corresponds to the left or top edge of the shape, and a value of 1.0 generally corresponds to the right or bottom edge of the shape. However, adjustments can pass beyond shape boundaries for some shapes. For radial adjustments, an adjustment value of 1.0 corresponds to the width of the shape. For angular adjustments, the adjustment value is specified in degrees. The **Item** property applies only to shapes that have adjustments. AutoShapes and WordArt have up to eight adjustments.
 
 
 ## Example
@@ -53,7 +53,7 @@ With docActive.Shapes
 End With
 ```
 
-This example has the same result as the previous example even though it doesn't explicitly use the  **Item** property.
+This example has the same result as the previous example even though it doesn't explicitly use the **Item** property.
 
 
 

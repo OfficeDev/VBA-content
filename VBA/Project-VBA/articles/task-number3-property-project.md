@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Number3 Property (Project)
 
-Gets or sets a Number local custom field for a task. Read/write  **Double**.
+Gets or sets a Number local custom field for a task. Read/write **Double**.
 
 
 ## Syntax

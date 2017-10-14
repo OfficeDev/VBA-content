@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Filters Method (Project)
 
-Displays the  **More Filters** dialog box, which prompts the user to use a filter.
+Displays the **More Filters** dialog box, which prompts the user to use a filter.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **More Filters** dialog box, which prompts the user to use a filte
 
 ## Remarks
 
-The  **Filters** method is equivalent to the **More Filters** command in the **Filter** drop-down list, available on the **VIEW** tab of the ribbon in Project.
+The **Filters** method is equivalent to the **More Filters** command in the **Filter** drop-down list, available on the **VIEW** tab of the ribbon in Project.
 
 

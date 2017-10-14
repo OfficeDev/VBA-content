@@ -13,15 +13,15 @@ ms.date: 06/08/2017
 
 # OlStorageIdentifierType Enumeration (Outlook)
 
-Specifies the type of identifier for a  **[StorageItem](storageitem-object-outlook.md)** object.
+Specifies the type of identifier for a **[StorageItem](storageitem-object-outlook.md)** object.
 
 
 
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **olIdentifyByEntryID**|1|Identifies a  **StorageItem** by **[EntryID](storageitem-entryid-property-outlook.md)** .|
-| **olIdentifyByMessageClass**|2|Identifies a  **StorageItem** by message class.|
-| **olIdentifyBySubject**|0|Identifies a  **StorageItem** by **[Subject](storageitem-subject-property-outlook.md)** .|
+| **olIdentifyByEntryID**|1|Identifies a **StorageItem** by **[EntryID](storageitem-entryid-property-outlook.md)** .|
+| **olIdentifyByMessageClass**|2|Identifies a **StorageItem** by message class.|
+| **olIdentifyBySubject**|0|Identifies a **StorageItem** by **[Subject](storageitem-subject-property-outlook.md)** .|
 
 ## Remarks
 

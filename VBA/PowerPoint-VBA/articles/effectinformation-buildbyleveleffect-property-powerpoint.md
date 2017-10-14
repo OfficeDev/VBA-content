@@ -30,7 +30,7 @@ MsoAnimateByLevel
 
 ## Remarks
 
-The value returned by the  **BuildByLevelEffect** property can be one of these **MsoAnimateByLevel** constants.
+The value returned by the **BuildByLevelEffect** property can be one of these **MsoAnimateByLevel** constants.
 
 
 ||

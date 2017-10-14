@@ -30,7 +30,7 @@ Sets or returns a value that represents the pattern applied to the specified fil
 
 ## Remarks
 
-Use the  **[BackColor](fillformat-backcolor-property-powerpoint.md)** and **[ForeColor](fillformat-forecolor-property-powerpoint.md)** properties to set the colors used in the pattern.
+Use the **[BackColor](fillformat-backcolor-property-powerpoint.md)** and **[ForeColor](fillformat-forecolor-property-powerpoint.md)** properties to set the colors used in the pattern.
 
 
 ## Example

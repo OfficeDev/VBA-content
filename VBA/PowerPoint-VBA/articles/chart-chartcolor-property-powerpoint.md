@@ -23,7 +23,7 @@ Returns or sets an integer that represents the color scheme for the chart. Read-
 
 ## Remarks
 
-Chart color schemes are numbered from 1 to 17; the setting of this property corresponds to the color schemes shown on the  **Change Colors** gallery on the **Chart Tools Design** ribbon tab.
+Chart color schemes are numbered from 1 to 17; the setting of this property corresponds to the color schemes shown on the **Change Colors** gallery on the **Chart Tools Design** ribbon tab.
 
 
 ## Property value

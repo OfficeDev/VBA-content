@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Field Property (Word)
 
-Returns a  **Field** object that represents the field associated with the specified inline shape. Read-only.
+Returns a **Field** object that represents the field associated with the specified inline shape. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Field** object that represents the field associated with the specif
 
 ## Remarks
 
-Use the  **Fields** property to return the **Fields** collection.
+Use the **Fields** property to return the **Fields** collection.
 
 
 ## Example

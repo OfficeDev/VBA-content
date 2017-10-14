@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.IsColor Property (Publisher)
 
-Returns  **True** if the device represented by the parent **Printer** object is a color printer. Read-only.
+Returns **True** if the device represented by the parent **Printer** object is a color printer. Read-only.
 
 
 ## Syntax
 
  _expression_. **IsColor**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value

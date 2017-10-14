@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoTextEntries.Count Property (Word)
 
-Returns the number of items in the  **[AutoTextEntries](autotextentries-object-word.md)** collection. Read-only **Long** .
+Returns the number of items in the **[AutoTextEntries](autotextentries-object-word.md)** collection. Read-only **Long** .
 
 
 ## Syntax

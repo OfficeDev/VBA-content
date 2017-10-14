@@ -29,7 +29,7 @@ Cancels the last user-interface action.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _fUndo_|Optional|**Integer**|Specifies the number of actions to undo. If the total number of actions is less than fUndo,  **EditUndo** undoes all actions.|
+| _fUndo_|Optional|**Integer**|Specifies the number of actions to undo. If the total number of actions is less than fUndo, **EditUndo** undoes all actions.|
 
 ### Return Value
 

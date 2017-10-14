@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Availability.AvailableUnit Property (Project)
 
-Gets or sets the percentage of time the resource is available during the availability period. Read/write  **Double**.
+Gets or sets the percentage of time the resource is available during the availability period. Read/write **Double**.
 
 
 ## Syntax
@@ -22,9 +22,9 @@ Gets or sets the percentage of time the resource is available during the availab
 
 ## Remarks
 
-If the  **AvailableUnit** value is 100, the resource is available 100% of the time.
+If the **AvailableUnit** value is 100, the resource is available 100% of the time.
 
-You can set availability information on the  **General** tab of the **Resource Information** dialog box, in the **Resource Availability** grid.
+You can set availability information on the **General** tab of the **Resource Information** dialog box, in the **Resource Availability** grid.
 
 
 ## Example

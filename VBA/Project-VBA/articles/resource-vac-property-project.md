@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.VAC Property (Project)
 
-Gets the VAC (Variance At Completion) cost for the resource. Read-only  **Variant**.
+Gets the VAC (Variance At Completion) cost for the resource. Read-only **Variant**.
 
 
 ## Syntax

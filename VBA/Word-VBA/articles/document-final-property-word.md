@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Final Property (Word)
 
-Returns or sets a  **Boolean** that indicates whether a document is final. Read/write.
+Returns or sets a **Boolean** that indicates whether a document is final. Read/write.
 
 
 ## Syntax

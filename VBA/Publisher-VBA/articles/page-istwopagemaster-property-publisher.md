@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **IsTwoPageMaster**
 
- _expression_A variable that represents an  **Page** object.
+ _expression_A variable that represents an **Page** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-This method works for master pages only. Returns a  **This feature is only for master pages** error when attempting to access this property from a publication page object.
+This method works for master pages only. Returns a **This feature is only for master pages** error when attempting to access this property from a publication page object.
 
 
 ## Example

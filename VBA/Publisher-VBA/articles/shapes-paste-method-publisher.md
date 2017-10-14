@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shapes.Paste Method (Publisher)
 
-Pastes the shapes or text on the Clipboard into the specified  **[Shapes](shapes-object-publisher.md)** collection, at the top of the z-order. Each pasted object becomes a member of the specified **Shapes** collection. If the Clipboard contains a text range, the text will be pasted into a newly created **TextFrame** shape. Returns a **[ShapeRange](shaperange-object-publisher.md)** object that represents the pasted objects.
+Pastes the shapes or text on the Clipboard into the specified **[Shapes](shapes-object-publisher.md)** collection, at the top of the z-order. Each pasted object becomes a member of the specified **Shapes** collection. If the Clipboard contains a text range, the text will be pasted into a newly created **TextFrame** shape. Returns a **[ShapeRange](shaperange-object-publisher.md)** object that represents the pasted objects.
 
 
 ## Syntax
 
  _expression_. **Paste**
 
- _expression_A variable that represents a  **Shapes** object.
+ _expression_A variable that represents a **Shapes** object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SelectLinkedControls Method (Word)
 
-Returns a  **[ContentControls](contentcontrols-object-word.md)** collection that represents all content controls in a document that are linked to the specific custom XML node in the document's XML data store as specified by the Node parameter. Read-only.
+Returns a **[ContentControls](contentcontrols-object-word.md)** collection that represents all content controls in a document that are linked to the specific custom XML node in the document's XML data store as specified by the Node parameter. Read-only.
 
 
 ## Syntax

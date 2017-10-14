@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # Comments Object (Word)
 
-A collection of  **[Comment](comment-object-word.md)** objects that represent the comments in a selection, range, or document.
+A collection of **[Comment](comment-object-word.md)** objects that represent the comments in a selection, range, or document.
 
 
 ## Remarks
 
-Use the  **Comments** property to return the **Comments** collection. The following example displays comments made by Don Funk in the active document.
+Use the **Comments** property to return the **Comments** collection. The following example displays comments made by Don Funk in the active document.
 
 
 ```
@@ -21,7 +21,7 @@ ActiveDocument.ActiveWindow.View.SplitSpecial = wdPaneComments
 ActiveDocument.Comments.ShowBy = "Don Funk"
 ```
 
-Use the  **[Add](comments-add-method-word.md)** method to add a comment at the specified range. The following example adds a comment immediately after the selection.
+Use the **[Add](comments-add-method-word.md)** method to add a comment at the specified range. The following example adds a comment immediately after the selection.
 
 
 
@@ -32,7 +32,7 @@ ActiveDocument.Comments.Add Range:=Selection.Range, _
  Text:="review this"
 ```
 
-Use  **Comments** (Index), where Index is the index number, to return a single **Comment** object. The index number represents the position of the comment in the specified selection, range, or document. The following example displays the author of the first comment in the active document.
+Use **Comments** (Index), where Index is the index number, to return a single **Comment** object. The index number represents the position of the comment in the specified selection, range, or document. The following example displays the author of the first comment in the active document.
 
 
 

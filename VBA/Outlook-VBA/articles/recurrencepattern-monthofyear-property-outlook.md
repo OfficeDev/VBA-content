@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecurrencePattern.MonthOfYear Property (Outlook)
 
-Returns or sets a  **Long** indicating which month of the year is valid for the specified recurrence pattern. Read/write.
+Returns or sets a **Long** indicating which month of the year is valid for the specified recurrence pattern. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** indicating which month of the year is valid for the 
 
 ## Remarks
 
-The value can be a number from 1 through 12. For example, setting this property to 5 and the  **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** property to **olRecursYearly** would cause this recurrence pattern to occur every May. This property is only valid for recurrence patterns whose **RecurrenceType** property is set to **olRecursYearly** or **olRecursYearNth** .
+The value can be a number from 1 through 12. For example, setting this property to 5 and the **[RecurrenceType](recurrencepattern-recurrencetype-property-outlook.md)** property to **olRecursYearly** would cause this recurrence pattern to occur every May. This property is only valid for recurrence patterns whose **RecurrenceType** property is set to **olRecursYearly** or **olRecursYearNth** .
 
 
 ## See also

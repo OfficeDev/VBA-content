@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Player.CurrentPosition Property (PowerPoint)
 
-Gets or sets a  **Long** that represents the current position of the player in the media. Read/write.
+Gets or sets a **Long** that represents the current position of the player in the media. Read/write.
 
 
 ## Syntax

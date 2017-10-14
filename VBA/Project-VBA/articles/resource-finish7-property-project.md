@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Finish7 Property (Project)
 
-Gets or sets the local Finish custom field of the resource. Read/write  **Variant**.
+Gets or sets the local Finish custom field of the resource. Read/write **Variant**.
 
 
 ## Syntax

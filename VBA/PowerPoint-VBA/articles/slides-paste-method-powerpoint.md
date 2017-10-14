@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slides.Paste Method (PowerPoint)
 
-Pastes the slides on the Clipboard into the  **Slides** collection for the presentation. Specify where you want to insert the slides with the **Index** argument. Returns a **[SlideRange](sliderange-object-powerpoint.md)** object that represents the pasted objects. Each pasted slide becomes a member of the specified **Slides** collection.
+Pastes the slides on the Clipboard into the **Slides** collection for the presentation. Specify where you want to insert the slides with the **Index** argument. Returns a **[SlideRange](sliderange-object-powerpoint.md)** object that represents the pasted objects. Each pasted slide becomes a member of the specified **Slides** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ SlideRange
 
 ## Remarks
 
-Use the  **[ViewType](documentwindow-viewtype-property-powerpoint.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
+Use the **[ViewType](documentwindow-viewtype-property-powerpoint.md)** property to set the view for a window before pasting the Clipboard contents into it. The following table shows what you can paste into each view.
 
 
 

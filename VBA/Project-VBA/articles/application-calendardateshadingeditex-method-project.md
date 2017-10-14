@@ -29,9 +29,9 @@ Changes the background color and pattern of date boxes in the Calendar view.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the  **[PjCalendarShading](pjcalendarshading-enumeration-project.md)** constants.|
-| _Pattern_|Optional|**Long**|The pattern for the type of date box specified by  **Item**. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
-| _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
+| _Item_|Required|**Long**|The type of calendar day to change. Can be one of the **[PjCalendarShading](pjcalendarshading-enumeration-project.md)** constants.|
+| _Pattern_|Optional|**Long**|The pattern for the type of date box specified by **Item**. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
+| _Color_|Optional|**Long**|The color for the type of date box specified by **Item**. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
 
 ### Return Value
 
@@ -64,6 +64,6 @@ End Sub
 ```
 
 
- **Note**  If you use any of the  **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarDateBoxesEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarDateShadingEdit](application-calendardateshadingedit-method-project.md)** method.
+ **Note**  If you use any of the **PjColor** enumeration constants for the _Color_ parameter, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **CalendarDateBoxesEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[CalendarDateShadingEdit](application-calendardateshadingedit-method-project.md)** method.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.CentimetersToPoints Method (Word)
 
-Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns the converted measurement as a  **Single** .
+Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns the converted measurement as a **Single** .
 
 
 ## Syntax

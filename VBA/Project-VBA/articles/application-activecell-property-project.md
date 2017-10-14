@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActiveCell Property (Project)
 
-Gets a  **[Cell](cell-object-project.md)** object that represents the active cell. Read-only **Cell**.
+Gets a **[Cell](cell-object-project.md)** object that represents the active cell. Read-only **Cell**.
 
 
 ## Syntax

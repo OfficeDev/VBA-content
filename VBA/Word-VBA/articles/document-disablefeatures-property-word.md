@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **DisableFeatures** property only affects the document for which you set the property. Use this property if you plan on sharing a document between users with earlier versions of Microsoft Word so that you don't end up introducing into a document features that are not available in their versions.
+The **DisableFeatures** property only affects the document for which you set the property. Use this property if you plan on sharing a document between users with earlier versions of Microsoft Word so that you don't end up introducing into a document features that are not available in their versions.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideRange.HasNotesPage Property (PowerPoint)
 
-Indicates whether the selected  **SlideRange** has media that resides on a notes page. Read-only.
+Indicates whether the selected **SlideRange** has media that resides on a notes page. Read-only.
 
 
 ## Syntax

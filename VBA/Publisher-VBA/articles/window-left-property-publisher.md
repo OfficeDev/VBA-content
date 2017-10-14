@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Window.Left Property (Publisher)
 
-Returns or sets a  **Long** indicating the position (in points) of the left edge of the application window relative to the left edge of the screen. Read/write.
+Returns or sets a **Long** indicating the position (in points) of the left edge of the application window relative to the left edge of the screen. Read/write.
 
 
 ## Syntax
 
  _expression_. **Left**
 
- _expression_A variable that represents a  **Window** object.
+ _expression_A variable that represents a **Window** object.
 
 
 ## Example

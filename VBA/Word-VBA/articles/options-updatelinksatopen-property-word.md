@@ -32,7 +32,7 @@ This example sets Word to update embedded OLE links when it opens files.
 Options.UpdateLinksAtOpen = True
 ```
 
-This example returns the current status of the  **Update automatic links at Open** option on the **General** tab in the **Options** dialog box.
+This example returns the current status of the **Update automatic links at Open** option on the **General** tab in the **Options** dialog box.
 
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisDocVersions Enumeration (Visio)
 
-Return values for the  **Document.Version** property.
+Return values for the **Document.Version** property.
 
 
 

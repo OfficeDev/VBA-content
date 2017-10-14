@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.Stop Property (Outlook)
 
-Returns a  **[RuleAction](ruleaction-object-outlook.md)** object with **[RuleAction.ActionType](ruleaction-actiontype-property-outlook.md)** being **olRuleActionStop** . Read-only.
+Returns a **[RuleAction](ruleaction-object-outlook.md)** object with **[RuleAction.ActionType](ruleaction-actiontype-property-outlook.md)** being **olRuleActionStop** . Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[RuleAction](ruleaction-object-outlook.md)** object with **[RuleAct
 
 ## Remarks
 
-Use the returned  **RuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies stopping the processing of more rules as an action.
+Use the returned **RuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies stopping the processing of more rules as an action.
 
-This property of the  **[RuleActions](ruleactions-object-outlook.md)** collection always returns a **RuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[RuleAction.Enabled](moveorcopyruleaction-enabled-property-outlook.md)** will be **True** .
+This property of the **[RuleActions](ruleactions-object-outlook.md)** collection always returns a **RuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[RuleAction.Enabled](moveorcopyruleaction-enabled-property-outlook.md)** will be **True** .
 
 
 ## See also

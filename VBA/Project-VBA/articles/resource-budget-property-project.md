@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Budget Property (Project)
 
-Flag indicating whether the  **Resource** object is a budget resource. Read/write **Variant**.
+Flag indicating whether the **Resource** object is a budget resource. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Flag indicating whether the  **Resource** object is a budget resource. Read/writ
 
 ## Remarks
 
-The  **Budget** property can be set when creating a resource, but cannot be changed after the resource is created.
+The **Budget** property can be set when creating a resource, but cannot be changed after the resource is created.
 
 

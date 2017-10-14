@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FindReplace.MatchDiacritics Property (Publisher)
 
-Sets or returns a  **Boolean** representing whether or not a search operation will match diacritics. Read/write.
+Sets or returns a **Boolean** representing whether or not a search operation will match diacritics. Read/write.
 
 
 ## Syntax
 
  _expression_. **MatchDiacritics**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Boolean
 
 ## Remarks
 
-This property may not be available depending on the languages enabled on your operating system. The default value is  **False**.
+This property may not be available depending on the languages enabled on your operating system. The default value is **False**.
 
-Returns  **Access denied** if a proper language, such as Arabic, is not enabled.
+Returns **Access denied** if a proper language, such as Arabic, is not enabled.
 
 
 ## Example

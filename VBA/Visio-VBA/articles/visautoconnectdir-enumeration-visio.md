@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisAutoConnectDir Enumeration (Visio)
 
-Auto-connect direction constants passed to the  **Shape.AutoConnect** method.
+Auto-connect direction constants passed to the **Shape.AutoConnect** method.
 
 
 

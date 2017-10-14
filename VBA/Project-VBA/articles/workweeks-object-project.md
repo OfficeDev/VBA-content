@@ -17,11 +17,11 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[Item](workweeks-item-property-project.md)** property return a single **WorkWeek** object.
+Use the **[Item](workweeks-item-property-project.md)** property return a single **WorkWeek** object.
  
 
  
-Use the  **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
+Use the **[Add](workweeks-add-method-project.md)** method of the **WorkWeeks** collection to add a **WorkWeek** object to the **WorkWeeks** collection.
  
 
  

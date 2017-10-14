@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunc.FName Property (Word)
 
-Returns an  **[OMath](omath-object-word.md)** object that represents the name of a mathematical function, such as sin or cos. Read-only.
+Returns an **[OMath](omath-object-word.md)** object that represents the name of a mathematical function, such as sin or cos. Read-only.
 
 
 ## Syntax

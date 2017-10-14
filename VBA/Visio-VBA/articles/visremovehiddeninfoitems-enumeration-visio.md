@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisRemoveHiddenInfoItems Enumeration (Visio)
 
-Document information constants passed to the  **Document.RemoveHiddenInformation** method.
+Document information constants passed to the **Document.RemoveHiddenInformation** method.
 
 
 

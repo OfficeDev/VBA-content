@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.SpellingErrors Property (Word)
 
-Returns a  **ProofreadingErrors** collection that represents the words identified as spelling errors in the specified range. Read-only.
+Returns a **ProofreadingErrors** collection that represents the words identified as spelling errors in the specified range. Read-only.
 
 
 ## Syntax

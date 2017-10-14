@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SectionProperties.Name Method (PowerPoint)
 
-Returns the name of the specified section as a  **String**.
+Returns the name of the specified section as a **String**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns the name of the specified section as a  **String**.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _sectionIndex_|Required|**Integer**|The index of the section in the  **SectionProperties** colleciton.|
+| _sectionIndex_|Required|**Integer**|The index of the section in the **SectionProperties** colleciton.|
 
 ### Return Value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Section Property (Visio)
 
-Returns the requested  **Section** object belonging to a style. Read-only.
+Returns the requested **Section** object belonging to a style. Read-only.
 
 
 ## Syntax
@@ -38,6 +38,6 @@ Section
 
 ## Remarks
 
-Constants that represent sections are prefixed with  **visSection** and are declared by the Microsoft Visio type library in **[VisSectionIndices](vissectionindices-enumeration-visio.md)** .
+Constants that represent sections are prefixed with **visSection** and are declared by the Microsoft Visio type library in **[VisSectionIndices](vissectionindices-enumeration-visio.md)** .
 
 

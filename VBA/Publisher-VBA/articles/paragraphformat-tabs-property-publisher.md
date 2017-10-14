@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.Tabs Property (Publisher)
 
-Returns a  **[TabStops](tabstops-object-publisher.md)** object representing the custom and default tabs for a paragraph or group of paragraphs.
+Returns a **[TabStops](tabstops-object-publisher.md)** object representing the custom and default tabs for a paragraph or group of paragraphs.
 
 
 ## Syntax
 
  _expression_. **Tabs**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value

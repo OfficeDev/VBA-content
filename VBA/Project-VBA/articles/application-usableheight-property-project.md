@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.UsableHeight Property (Project)
 
-Gets the maximum height available for a project window in points. Read-only  **Double**.
+Gets the maximum height available for a project window in points. Read-only **Double**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the maximum height available for a project window in points. Read-only  **D
 
 ## Remarks
 
-The  **UsableHeight** property equals the total amount of vertical space inside the main window minus the space taken up by the Ribbon, status bars, scroll bars, and the title bar.
+The **UsableHeight** property equals the total amount of vertical space inside the main window minus the space taken up by the Ribbon, status bars, scroll bars, and the title bar.
 
 
 ## Example

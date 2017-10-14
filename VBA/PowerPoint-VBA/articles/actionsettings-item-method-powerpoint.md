@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ActionSettings.Item Method (PowerPoint)
 
-Returns a single action setting from the specified  **ActionSettings** collection.
+Returns a single action setting from the specified **ActionSettings** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single action setting from the specified  **ActionSettings** collectio
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**PpMouseActivation**|The action setting for a  **MouseClick** or **MouseOver** event.|
+| _Index_|Required|**PpMouseActivation**|The action setting for a **MouseClick** or **MouseOver** event.|
 
 ### Return Value
 
@@ -46,7 +46,7 @@ The  _Index_ parameter value can be one of these **PpMouseActivation** constants
 |:-----|:-----|
 |**ppMouseClick**|The action setting for when the user clicks the shape.|
 |**ppMouseOver**|The action setting for when the mouse pointer is positioned over the specified shape.|
-The  **Item** method is the default member for a collection. For example, the following two lines of code are equivalent:
+The **Item** method is the default member for a collection. For example, the following two lines of code are equivalent:
 
 
 
@@ -67,7 +67,7 @@ For more information about returning a single member of a collection, see [Retur
 
 ## Example
 
-This example sets shape three on slide one to play the sound of applause and uses the  **[AnimateAction](actionsetting-animateaction-property-powerpoint.md)** property to specify that the shape's color is to be momentarily inverted when the shape is clicked during a slide show.
+This example sets shape three on slide one to play the sound of applause and uses the **[AnimateAction](actionsetting-animateaction-property-powerpoint.md)** property to specify that the shape's color is to be momentarily inverted when the shape is clicked during a slide show.
 
 
 ```vb

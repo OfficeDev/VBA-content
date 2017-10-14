@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyPage.Dirty Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the contents of a custom property page have been altered. Read-only.
+Returns a **Boolean** value that indicates whether the contents of a custom property page have been altered. Read-only.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Returns a  **Boolean** value that indicates whether the contents of a custom pro
 
 ## Remarks
 
-The ActiveX control that implements the  **[PropertyPage](propertypage-object-outlook.md)** object sets the value of this property, and Microsoft Outlook queries this in response to the **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)** method of a **[PropertyPageSite](propertypagesite-object-outlook.md)** object.
+The ActiveX control that implements the **[PropertyPage](propertypage-object-outlook.md)** object sets the value of this property, and Microsoft Outlook queries this in response to the **[OnStatusChange](propertypagesite-onstatuschange-method-outlook.md)** method of a **[PropertyPageSite](propertypagesite-object-outlook.md)** object.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example returns the value of the  **[Dirty](propertypage-dirty-property-outlook.md)** property as the value of a global variable.
+This Visual Basic for Applications (VBA) example returns the value of the **[Dirty](propertypage-dirty-property-outlook.md)** property as the value of a global variable.
 
 
 ```vb

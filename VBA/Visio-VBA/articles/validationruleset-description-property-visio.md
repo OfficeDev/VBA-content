@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRuleSet.Description Property (Visio)
 
-Specifies the description of the  **[ValidationRuleSet](validationruleset-object-visio.md)** object that appears in the user interface. Read/write.
+Specifies the description of the **[ValidationRuleSet](validationruleset-object-visio.md)** object that appears in the user interface. Read/write.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Specifies the description of the  **[ValidationRuleSet](validationruleset-object
 
 ## Remarks
 
-You cannot set the  **Description** property to a value that exceeds 255 characters.
+You cannot set the **Description** property to a value that exceeds 255 characters.
 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Description** property to set the description of a validation rule set named "Connectivity" in the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Description** property to set the description of a validation rule set named "Connectivity" in the active document.
 
 
 ```vb

@@ -22,9 +22,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When you apply a  **Group by** command to a resource view, the group summary rows show the group definition in the **Resource Name** column. If a selected cell is in a group summary row, the **GroupBySummary** property is **True**.
+When you apply a **Group by** command to a resource view, the group summary rows show the group definition in the **Resource Name** column. If a selected cell is in a group summary row, the **GroupBySummary** property is **True**.
 
-The  **GroupBySummary** property is accessible through the `ActiveCell.Resource` property, not through `ActiveProject.Resources(x)`.
+The **GroupBySummary** property is accessible through the `ActiveCell.Resource` property, not through `ActiveProject.Resources(x)`.
 
 
 ## Example

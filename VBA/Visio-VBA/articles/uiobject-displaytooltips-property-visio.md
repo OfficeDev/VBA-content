@@ -30,8 +30,8 @@ Boolean
 
 ## Remarks
 
-It does not matter which  **UIObject** object you use when getting or setting this property. The property affects the entire application.
+It does not matter which **UIObject** object you use when getting or setting this property. The property affects the entire application.
 
-This property setting corresponds to the  **ScreenTip style** setting on the **General** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**), and is shared between Visio and all Microsoft Office applications.
+This property setting corresponds to the **ScreenTip style** setting on the **General** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**), and is shared between Visio and all Microsoft Office applications.
 
 

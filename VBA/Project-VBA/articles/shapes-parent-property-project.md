@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shapes.Parent Property (Project)
-Gets an object that represents the parent of the  **Shapes** object. Read-only **Object**.
+Gets an object that represents the parent of the **Shapes** object. Read-only **Object**.
 
 ## Syntax
 

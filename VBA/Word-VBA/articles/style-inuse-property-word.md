@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **InUse** property doesn't necessarily indicate whether the style is currently applied to any text in the document. For instance, if text that's been formatted with a style is deleted, the **InUse** property of the style remains **True** . For built-in styles that have never been used in the document, this property returns **False** .
+The **InUse** property doesn't necessarily indicate whether the style is currently applied to any text in the document. For instance, if text that's been formatted with a style is deleted, the **InUse** property of the style remains **True** . For built-in styles that have never been used in the document, this property returns **False** .
 
 
 ## Example

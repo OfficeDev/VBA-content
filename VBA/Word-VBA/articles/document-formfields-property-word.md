@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FormFields Property (Word)
 
-Returns a  **[FormFields](formfields-object-word.md)** collection that represents all the form fields in the document. Read-only.
+Returns a **[FormFields](formfields-object-word.md)** collection that represents all the form fields in the document. Read-only.
 
 
 ## Syntax

@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Columns Object (Publisher)
 
-A collection of  **[Column](column-object-publisher.md)** objects that represent the columns in a table.
+A collection of **[Column](column-object-publisher.md)** objects that represent the columns in a table.
  
 
 
 ## Example
 
-Use the  **[Columns](table-columns-property-publisher.md)** property of the **[Table](table-object-publisher.md)** object to return the **Columns** collection. The following example displays the number of **[Column](column-object-publisher.md)** objects in the **Columns** collection for the first table in the active document.
+Use the **[Columns](table-columns-property-publisher.md)** property of the **[Table](table-object-publisher.md)** object to return the **Columns** collection. The following example displays the number of **[Column](column-object-publisher.md)** objects in the **Columns** collection for the first table in the active document.
  
 
  
@@ -63,7 +63,7 @@ Sub CountCellsByColumn()
 End Sub
 ```
 
-Use  **Columns** (index), where index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the third column in the specified table.
+Use **Columns** (index), where index is the index number, to return a single **Column** object. The index number represents the position of the column in the **Columns** collection (counting from left to right). The following example selects the third column in the specified table.
  
 
  
@@ -76,7 +76,7 @@ Sub SelectColumns()
 End Sub
 ```
 
-Use the  **[Add](columns-add-method-publisher.md)** method to add a column to a table. This example adds a column to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
+Use the **[Add](columns-add-method-publisher.md)** method to add a column to a table. This example adds a column to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
  
 
  

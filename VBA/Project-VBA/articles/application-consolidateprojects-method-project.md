@@ -34,7 +34,7 @@ Displays the data from one or more projects in a single window.
 | _AttachToSources_|Optional|**Boolean**|**True** if changes in the consolidated project affect source projects. The default value is **True**.|
 | _PoolResources_|Optional|**Variant**|The  _PoolResources_ argument is ignored in Project. It is retained so that existing macros that use this argument do not cause errors.|
 | _HideSubtasks_|Optional|**Boolean**|**True** if the subtasks of the projects specified with Filenames are hidden. The default value is **True**.|
-| _openPool_|Optional|**Long**|The action to take when opening a resource pool or sharer file. When opening a master project, the value for this argument is also applied to the subprojects. Can be one of the following  **[PjPoolOpen](pjpoolopen-enumeration-project.md)** constants. The default value is **pjPromptPool**.|
+| _openPool_|Optional|**Long**|The action to take when opening a resource pool or sharer file. When opening a master project, the value for this argument is also applied to the subprojects. Can be one of the following **[PjPoolOpen](pjpoolopen-enumeration-project.md)** constants. The default value is **pjPromptPool**.|
 | _UserID_|Optional|**Variant**| A user ID to use when accessing a project in a database. If Filenames does not refer to a database, **UserID** is ignored.|
 | _Password_|Optional|**String**|A password to use when opening password-protected project files. If Password is incorrect or omitted and a file requires a password, the user is prompted for the password.|
 

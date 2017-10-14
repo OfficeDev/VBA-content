@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RelatedShapePairEvent.Document Property (Visio)
 
-Gets the  **[Document](document-object-visio.md)** object that is associated with an object. Read-only.
+Gets the **[Document](document-object-visio.md)** object that is associated with an object. Read-only.
 
 
 ## Syntax

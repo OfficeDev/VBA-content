@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.AutoCorrect Property (Word)
 
-Returns an  **[AutoCorrect](autocorrect-object-word.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
+Returns an **[AutoCorrect](autocorrect-object-word.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
 
 
 ## Syntax

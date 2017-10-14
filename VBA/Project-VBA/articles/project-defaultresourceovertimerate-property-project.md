@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.DefaultResourceOvertimeRate Property (Project)
 
-Gets or sets the default overtime rate of pay for resources. Read/write  **Variant**.
+Gets or sets the default overtime rate of pay for resources. Read/write **Variant**.
 
 
 ## Syntax

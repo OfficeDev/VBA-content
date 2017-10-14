@@ -29,7 +29,7 @@ Applies a theme or design template to the specified presentation.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _themeName_|Required|**String**|The path and name of the theme file (.thmx) or design template file (.pot) to apply to the  **Presentation** object.|
+| _themeName_|Required|**String**|The path and name of the theme file (.thmx) or design template file (.pot) to apply to the **Presentation** object.|
 
 ## Example
 

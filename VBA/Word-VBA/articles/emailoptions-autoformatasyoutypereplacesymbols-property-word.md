@@ -37,7 +37,7 @@ This example turns on the replacement of hyphens with symbols as you type.
 EmailOptions.AutoFormatAsYouTypeReplaceSymbols = True
 ```
 
-This example returns the status of the  **Symbol characters (--) with symbols (—)** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Symbol characters (--) with symbols (—)** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

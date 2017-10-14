@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BrowseExtraFileTypes Property (Word)
 
-Set this property to "text/html" to allow hyperlinked HTML files to be opened in Microsoft Word (instead of the default Internet browser). Read/write  **String** .
+Set this property to "text/html" to allow hyperlinked HTML files to be opened in Microsoft Word (instead of the default Internet browser). Read/write **String** .
 
 
 ## Syntax

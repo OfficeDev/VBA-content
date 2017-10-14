@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DropDown.ListEntries Property (Word)
 
-Returns a  **[ListEntries](listentries-object-word.md)** collection that represents all the items in a **DropDown** object.
+Returns a **[ListEntries](listentries-object-word.md)** collection that represents all the items in a **DropDown** object.
 
 
 ## Syntax

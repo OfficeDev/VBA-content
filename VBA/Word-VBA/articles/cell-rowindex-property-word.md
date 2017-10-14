@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.RowIndex Property (Word)
 
-Returns the number of the row that contains the specified cell. Read-only  **Long** .
+Returns the number of the row that contains the specified cell. Read-only **Long** .
 
 
 ## Syntax

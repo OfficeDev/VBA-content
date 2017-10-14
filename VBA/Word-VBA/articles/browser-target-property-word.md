@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Browser.Target Property (Word)
 
-Returns or sets the document item that the  **Previous** and **Next** methods locate. Read/write **WdBrowseTarget** .
+Returns or sets the document item that the **Previous** and **Next** methods locate. Read/write **WdBrowseTarget** .
 
 
 ## Syntax

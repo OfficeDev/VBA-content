@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.DefaultTextFlowDirection Property (Publisher)
 
-Returns or sets a  **PbDirectionType** constant that represents a global Microsoft Publisher option, indicating whether text flows from left to right or from right to left in a publication. Read/write.
+Returns or sets a **PbDirectionType** constant that represents a global Microsoft Publisher option, indicating whether text flows from left to right or from right to left in a publication. Read/write.
 
 
 ## Syntax
 
  _expression_. **DefaultTextFlowDirection**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbDirectionType
 
 ## Remarks
 
-The  **DefaultTextFlowDirection** property value can be one of the **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** constants declared in the Publisher type library.
+The **DefaultTextFlowDirection** property value can be one of the **[PbDirectionType](pbdirectiontype-enumeration-publisher.md)** constants declared in the Publisher type library.
 
 This property generates an error if you are not running a bi-directional-enabled version of Publisher (for example, Arabic).
 

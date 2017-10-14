@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisGluedShapesFlags Enumeration (Visio)
 
-Specifies constants that identify which shapes to return, based on the dimensionality and directionality of the connection points that are glued to a particular shape; passed to the  **[Shapes.GluedShapes](shape-gluedshapes-method-visio.md)** method.
+Specifies constants that identify which shapes to return, based on the dimensionality and directionality of the connection points that are glued to a particular shape; passed to the **[Shapes.GluedShapes](shape-gluedshapes-method-visio.md)** method.
 
 
 

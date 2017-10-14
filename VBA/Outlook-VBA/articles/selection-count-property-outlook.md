@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Count Property (Outlook)
 
-Returns a  **Long** that indicates the number of items or conversation headers in the selection. Read-only.
+Returns a **Long** that indicates the number of items or conversation headers in the selection. Read-only.
 
 
 ## Syntax

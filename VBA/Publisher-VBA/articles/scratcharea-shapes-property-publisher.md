@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # ScratchArea.Shapes Property (Publisher)
 
-Returns a  **[Shapes](shapes-object-publisher.md)** collection that represents all the  **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
+Returns a **[Shapes](shapes-object-publisher.md)** collection that represents all the **Shape** objects in the specified publication. This collection can contain drawings, shapes, pictures, OLE objects, ActiveX controls, text objects, and callouts.
 
 
 ## Syntax
 
  _expression_. **Shapes**
 
- _expression_A variable that represents a  **ScratchArea** object.
+ _expression_A variable that represents a **ScratchArea** object.
 
 
 ## Remarks
 
-For information about returning a single member of a collection, see  **Returning an Object from a Collection**.
+For information about returning a single member of a collection, see **Returning an Object from a Collection**.
 
 
 ## Example

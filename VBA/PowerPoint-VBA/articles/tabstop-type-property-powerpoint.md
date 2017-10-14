@@ -30,7 +30,7 @@ PpTabStopType
 
 ## Remarks
 
-The value of the  **Type** property can be one of these **PpTabStopType** constants.
+The value of the **Type** property can be one of these **PpTabStopType** constants.
 
 
 ||

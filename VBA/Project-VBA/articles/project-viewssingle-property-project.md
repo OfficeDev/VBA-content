@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.ViewsSingle Property (Project)
 
-Gets a  **[ViewsSingle](viewsingle-object-project.md)** collection representing the single views of the project. Read-only **ViewsSingle**.
+Gets a **[ViewsSingle](viewsingle-object-project.md)** collection representing the single views of the project. Read-only **ViewsSingle**.
 
 
 ## Syntax

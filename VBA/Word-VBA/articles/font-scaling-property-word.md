@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Scaling Property (Word)
 
-Returns or sets the scaling percentage applied to the font. Read/write  **Long** .
+Returns or sets the scaling percentage applied to the font. Read/write **Long** .
 
 
 ## Syntax

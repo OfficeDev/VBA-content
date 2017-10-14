@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.FieldShading Property (Word)
 
-Returns or sets on-screen shading for fields. Read/write  **WdFieldShading** .
+Returns or sets on-screen shading for fields. Read/write **WdFieldShading** .
 
 
 ## Syntax

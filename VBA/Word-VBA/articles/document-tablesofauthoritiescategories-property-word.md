@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TablesOfAuthoritiesCategories Property (Word)
 
-Returns a  **[TablesOfAuthoritiesCategories](tablesofauthoritiescategories-object-word.md)** collection that represents the available table of authorities categories for the specified document. Read-only.
+Returns a **[TablesOfAuthoritiesCategories](tablesofauthoritiescategories-object-word.md)** collection that represents the available table of authorities categories for the specified document. Read-only.
 
 
 ## Syntax

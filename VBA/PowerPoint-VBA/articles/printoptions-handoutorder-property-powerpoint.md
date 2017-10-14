@@ -30,7 +30,7 @@ PpPrintHandoutOrder
 
 ## Remarks
 
-The value of the  **HandoutOrder** property can be one of these **PpPrintHandoutOrder** constants.
+The value of the **HandoutOrder** property can be one of these **PpPrintHandoutOrder** constants.
 
 
 

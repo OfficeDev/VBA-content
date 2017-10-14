@@ -8,13 +8,13 @@ ms.date: 06/08/2017
 
 # Groups Object (Project)
 
-Represents a collection of  **[Group](group-object-project.md)** objects.
+Represents a collection of **[Group](group-object-project.md)** objects.
  
 
 
 ## Remarks
 
-For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the  **[Groups2](groups2-object-project.md)** collection object.
+For groups where the group hierarchy can be maintained and cell color can be a hexadecimal value, use the **[Groups2](groups2-object-project.md)** collection object.
  
 
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rectangle.Lines Property (Word)
 
-Returns a  **[Lines](lines-object-word.md)** collection that represents the lines in a specified portion of text in a page.
+Returns a **[Lines](lines-object-word.md)** collection that represents the lines in a specified portion of text in a page.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Lines](lines-object-word.md)** collection that represents the line
 
 ## Remarks
 
-Use the  **Lines** collection and related objects and properties to programmatically define page layout in a document.
+Use the **Lines** collection and related objects and properties to programmatically define page layout in a document.
 
 
 ## Example

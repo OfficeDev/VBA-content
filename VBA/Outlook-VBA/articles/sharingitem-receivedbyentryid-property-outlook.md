@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReceivedByEntryID Property (Outlook)
 
-Returns a  **String** representing the **[EntryID](recipient-entryid-property-outlook.md)** for the true recipient as set by the transport provider delivering the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a **String** representing the **[EntryID](recipient-entryid-property-outlook.md)** for the true recipient as set by the transport provider delivering the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the **[EntryID](recipient-entryid-property-ou
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReceivedByEntryId** .
+This property corresponds to the MAPI property **PidTagReceivedByEntryId** .
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CustomMenus Property (Visio)
 
-Gets a  **UIObject** object that represents the current custom menus and accelerators of an **Application** object. Read-only.
+Gets a **UIObject** object that represents the current custom menus and accelerators of an **Application** object. Read-only.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ UIObject
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-If Microsoft Visio menus and accelerators have not been customized, either programmatically, by a Visio solution, or in the user interface, the  **CustomMenus** property returns **Nothing** .
+If Microsoft Visio menus and accelerators have not been customized, either programmatically, by a Visio solution, or in the user interface, the **CustomMenus** property returns **Nothing** .
 
 
 ## Example

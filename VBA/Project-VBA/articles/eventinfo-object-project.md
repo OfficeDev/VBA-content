@@ -19,7 +19,7 @@ Represents cancellation information for an event.
 
 ## Remarks
 
-The  **EventInfo** object has one **Boolean** property, named **Cancel**. Project uses the **EventInfo** object instead of the _Cancel_ parameter that is used for events in some previous versions of Project.
+The **EventInfo** object has one **Boolean** property, named **Cancel**. Project uses the **EventInfo** object instead of the _Cancel_ parameter that is used for events in some previous versions of Project.
  
 
  

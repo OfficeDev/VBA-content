@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.GoTo Method (Word)
 
-Moves the insertion point to the character position immediately preceding the specified item, and returns a  **Range** object (except for the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant).
+Moves the insertion point to the character position immediately preceding the specified item, and returns a **Range** object (except for the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant).
 
 
 ## Syntax
@@ -29,10 +29,10 @@ Moves the insertion point to the character position immediately preceding the sp
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _What_|Optional| **Variant**|The kind of item to which the range or selection is moved. Can be one of the  **WdGoToItem** constants.|
-| _Which_|Optional| **Variant**|The item to which the range or selection is moved. Can be one of the  **WdGoToDirection** constants.|
-| _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range or selection, use  **wdGoToPrevious** as the Which argument and specify a Count value.|
-| _Name_|Optional| **Variant**|If the What argument is  **wdGoToBookmark** , **wdGoToComment** , **wdGoToField** , or **wdGoToObject** , this argument specifies a name.|
+| _What_|Optional| **Variant**|The kind of item to which the range or selection is moved. Can be one of the **WdGoToItem** constants.|
+| _Which_|Optional| **Variant**|The item to which the range or selection is moved. Can be one of the **WdGoToDirection** constants.|
+| _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range or selection, use **wdGoToPrevious** as the Which argument and specify a Count value.|
+| _Name_|Optional| **Variant**|If the What argument is **wdGoToBookmark** , **wdGoToComment** , **wdGoToField** , or **wdGoToObject** , this argument specifies a name.|
 
 ### Return Value
 
@@ -41,7 +41,7 @@ Range
 
 ## Remarks
 
-When you use the  **GoTo** method with the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** object that is returned includes any grammar error text or spelling error text.
+When you use the **GoTo** method with the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** object that is returned includes any grammar error text or spelling error text.
 
 The following examples are functionally equivalent; they both move the selection to the first heading in the document.
 

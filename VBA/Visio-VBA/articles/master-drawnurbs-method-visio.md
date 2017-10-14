@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-The  **DrawNURBS** method creates a new shape whose path consists of a single NURBS segment as specified by the arguments.
+The **DrawNURBS** method creates a new shape whose path consists of a single NURBS segment as specified by the arguments.
 
 The control points should be in internal drawing units (inches) with respect to the coordinate space of the page, master, or group in which the new shape is being created. The  _xyArray_,  _knots_, and  _weights_ arrays should be of type SAFEARRAY of 8-byte floating point values passed by reference (VT_R8|VT_ARRAY|VT_BYREF). This is how Microsoft Visual Basic passes arrays to Automation objects.
 

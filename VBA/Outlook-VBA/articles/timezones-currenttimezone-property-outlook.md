@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeZones.CurrentTimeZone Property (Outlook)
 
-Returns a  **[TimeZone](timezone-object-outlook.md)** value that represents the current Windows system local time zone. Read-only.
+Returns a **[TimeZone](timezone-object-outlook.md)** value that represents the current Windows system local time zone. Read-only.
 
 
 ## Syntax

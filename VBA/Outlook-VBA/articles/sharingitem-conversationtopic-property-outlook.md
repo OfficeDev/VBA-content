@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ConversationTopic Property (Outlook)
 
-Returns a  **String** representing the topic of the conversation thread of the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
+Returns a **String** representing the topic of the conversation thread of the **[SharingItem](sharingitem-object-outlook.md)** . Read-only.
 
 
 ## Syntax

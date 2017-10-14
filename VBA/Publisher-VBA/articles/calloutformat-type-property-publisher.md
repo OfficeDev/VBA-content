@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Type Property (Publisher)
 
-Returns or sets an  **MsoCalloutType** constant that represents the callout type. Read/write.
+Returns or sets an **MsoCalloutType** constant that represents the callout type. Read/write.
 
 
 ## Syntax
 
  _expression_. **Type**
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ## Remarks
 
-The  **Type** property value can be one of these **MsoCalloutType** constants.
+The **Type** property value can be one of these **MsoCalloutType** constants.
 
 
 

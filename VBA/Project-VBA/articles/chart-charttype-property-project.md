@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.ChartType Property (Project)
-Gets or sets the chart type. Read/write  **Office.XlChartType**.
+Gets or sets the chart type. Read/write **Office.XlChartType**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets or sets the chart type. Read/write  **Office.XlChartType**.
 
 ## Remarks
 
-The  **ChartType** property corresponds to an action in the **Change Chart Type** dialog box. The command is on the ribbon under **CHART TOOLS**, on the  **DESIGN** tab.
+The **ChartType** property corresponds to an action in the **Change Chart Type** dialog box. The command is on the ribbon under **CHART TOOLS**, on the **DESIGN** tab.
 
 
 ## Example

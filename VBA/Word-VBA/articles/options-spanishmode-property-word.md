@@ -25,7 +25,7 @@ Returns or sets the mode for the Spanish speller. Read/write [WdSpanishSpeller](
 
 ## Remarks
 
-Setting this property has the same effect as selecting an option under  **Spanish modes:** in the **Word Options** dialog ( **Proofing**,  **When correcting spelling in Microsoft Office programs**).
+Setting this property has the same effect as selecting an option under **Spanish modes:** in the **Word Options** dialog ( **Proofing**, **When correcting spelling in Microsoft Office programs**).
 
 
 ## See also

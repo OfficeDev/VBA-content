@@ -15,6 +15,6 @@ Synchronizes the online and offline folders that are displayed in the control.
 
  _expression_. **SynchFolder**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

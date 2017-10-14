@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebNavigationBarSets.AddSet Method (Publisher)
 
-Adds a new  **WebNavigationBarSet** object representing a Web navigation bar set to the specified **WebNavigationBarSets** collection. .
+Adds a new **WebNavigationBarSet** object representing a Web navigation bar set to the specified **WebNavigationBarSets** collection. .
 
 
 ## Syntax
 
- _expression_. **AddSet**( **_Name_**,  **_Design_**,  **_AutoUpdate_**)
+ _expression_. **AddSet**( **_Name_**, **_Design_**, **_AutoUpdate_**)
 
- _expression_A variable that represents a  **WebNavigationBarSets** object.
+ _expression_A variable that represents a **WebNavigationBarSets** object.
 
 
 ### Parameters
@@ -40,12 +40,12 @@ WebNavigationBarSet
 
 ## Remarks
 
-The  **Name** parameter must be unique to avoid a run time error.
+The **Name** parameter must be unique to avoid a run time error.
 
 
 ## Example
 
-The following example adds a  **WebNavigationBarSet** object to the **WebNavigationBarSets** collection of the active document then sets some properties.
+The following example adds a **WebNavigationBarSet** object to the **WebNavigationBarSets** collection of the active document then sets some properties.
 
 
 ```vb

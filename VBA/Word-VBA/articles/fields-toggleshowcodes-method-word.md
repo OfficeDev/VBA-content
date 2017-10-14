@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Fields.ToggleShowCodes Method (Word)
 
-Switches the display of the fields between field codes and field results. Use the  **ShowCodes** property to control the display of an individual field.
+Switches the display of the fields between field codes and field results. Use the **ShowCodes** property to control the display of an individual field.
 
 
 ## Syntax

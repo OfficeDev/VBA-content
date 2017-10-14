@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.About Method (Project)
 
-Displays the  **About Microsoft Project** dialog box, which lists version, copyright, and license information about Project.
+Displays the **About Microsoft Project** dialog box, which lists version, copyright, and license information about Project.
 
 
 ## Syntax

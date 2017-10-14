@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMath.NestingLevel Property (Word)
 
-Returns a  **Long** that represents the nesting level for an **OMath** object. Read-only.
+Returns a **Long** that represents the nesting level for an **OMath** object. Read-only.
 
 
 ## Syntax

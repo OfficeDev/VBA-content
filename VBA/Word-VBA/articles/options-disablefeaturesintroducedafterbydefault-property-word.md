@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DisableFeaturesIntroducedAfterbyDefault Property (Word)
 
-Disables all features introduced after a the specified version for all documents. Read/write  **WdDisableFeaturesIntroducedAfter** .
+Disables all features introduced after a the specified version for all documents. Read/write **WdDisableFeaturesIntroducedAfter** .
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Disables all features introduced after a the specified version for all documents
 
 ## Remarks
 
-The  **DisableFeaturesByDefault** property must be set to **True** prior to setting the **DisableFeaturesIntroducedAfterByDefault** property. Otherwise, the setting will not take effect and will remain at its default setting of Word 97 for Windows.
+The **DisableFeaturesByDefault** property must be set to **True** prior to setting the **DisableFeaturesIntroducedAfterByDefault** property. Otherwise, the setting will not take effect and will remain at its default setting of Word 97 for Windows.
 
-The  **DisableFeaturesIntroducedAfterByDefault** property sets a global option for the application and affects all documents. If you want to disable features introduced after a specified version for a document only, use the **DisableFeaturesIntroducedAfter** property.
+The **DisableFeaturesIntroducedAfterByDefault** property sets a global option for the application and affects all documents. If you want to disable features introduced after a specified version for a document only, use the **DisableFeaturesIntroducedAfter** property.
 
 
 ## Example

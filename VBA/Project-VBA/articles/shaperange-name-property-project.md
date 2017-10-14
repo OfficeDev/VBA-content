@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Name Property (Project)
-Gets or sets the name of the shape range. Read-write  **String**.
+Gets or sets the name of the shape range. Read-write **String**.
 
 ## Syntax
 

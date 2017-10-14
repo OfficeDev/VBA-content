@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.CostCenter Property (Project)
 
-Sets or gets the identifier for the unit or organization that tracks costs for the resource. Read/write  **String**.
+Sets or gets the identifier for the unit or organization that tracks costs for the resource. Read/write **String**.
 
 
 ## Syntax

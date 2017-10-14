@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.ReturnAddressStyle Property (Word)
 
-Returns a  **[Style](style-object-word.md)** object that represents the return address style for the envelope.
+Returns a **[Style](style-object-word.md)** object that represents the return address style for the envelope.
 
 
 ## Syntax

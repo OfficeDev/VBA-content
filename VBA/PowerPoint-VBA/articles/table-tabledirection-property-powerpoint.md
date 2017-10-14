@@ -30,9 +30,9 @@ PpDirection
 
 ## Remarks
 
-The default value of the  **TableDirection** property is **ppDirectionLefttToRight**, unless the **[LanguageSettings](application-languagesettings-property-powerpoint.md)** property or the **[DefaultLanguageID](presentation-defaultlanguageid-property-powerpoint.md)** property is set to a right-to-left language, in which case the default value is **ppDirectionRightToLeft**.
+The default value of the **TableDirection** property is **ppDirectionLefttToRight**, unless the **[LanguageSettings](application-languagesettings-property-powerpoint.md)** property or the **[DefaultLanguageID](presentation-defaultlanguageid-property-powerpoint.md)** property is set to a right-to-left language, in which case the default value is **ppDirectionRightToLeft**.
 
-The value of the  **TableDirection** property can be one of these **PpDirection** constants.
+The value of the **TableDirection** property can be one of these **PpDirection** constants.
 
 
 ||
@@ -40,7 +40,7 @@ The value of the  **TableDirection** property can be one of these **PpDirection*
 |**ppDirectionLeftToRight**|
 |**ppDirectionMixed**|
 |**ppDirectionRightToLeft**|
-When you are using the  **TextDirection** property, The **ppDirectionMixed** constant may be returned.
+When you are using the **TextDirection** property, The **ppDirectionMixed** constant may be returned.
 
 
 ## Example

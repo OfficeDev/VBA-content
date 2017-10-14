@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Chart.PlotArea Property (Project)
-Gets an  **Office.IMsoPlotArea** object that represents the plot area of a chart. Read-only **IMsoPlotArea**.
+Gets an **Office.IMsoPlotArea** object that represents the plot area of a chart. Read-only **IMsoPlotArea**.
 
 ## Syntax
 

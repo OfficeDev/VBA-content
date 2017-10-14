@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Length Property (Publisher)
 
-Returns a  **Long** value indicating the length of the specified text range, in characters. Read-only.
+Returns a **Long** value indicating the length of the specified text range, in characters. Read-only.
 
 
 ## Syntax
 
  _expression_. **Length**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ## Example

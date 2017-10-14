@@ -20,21 +20,21 @@ Fires when the catalog of publication wizards is displayed in the Microsoft Publ
 
  _expression_. **ShowCatalogUI**
 
- _expression_An expression that returns a  **Application** object.
+ _expression_An expression that returns a **Application** object.
 
 
 ## Remarks
 
-You can use the  ** [Application.ShowWizardCatalog](application-showwizardcatalog-method-publisher.md)** method to display the wizard catalog in the user interface.
+You can use the ** [Application.ShowWizardCatalog](application-showwizardcatalog-method-publisher.md)** method to display the wizard catalog in the user interface.
 
-The  **ShowCatalogUI** event does not fire when the publication catalog is displayed when Publisher first starts. To determine if the catalog is displayed at that time, you can use the **[WizardCatalogVisible](application-wizardcatalogvisible-property-publisher.md)** property.
+The **ShowCatalogUI** event does not fire when the publication catalog is displayed when Publisher first starts. To determine if the catalog is displayed at that time, you can use the **[WizardCatalogVisible](application-wizardcatalogvisible-property-publisher.md)** property.
 
-For more information about using events with the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
+For more information about using events with the **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md).
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the  **ShowCatalogUI** event. It displays a message notifying the user that the catalog UI was displayed.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to handle the **ShowCatalogUI** event. It displays a message notifying the user that the catalog UI was displayed.
 
 
 ```vb
@@ -43,7 +43,7 @@ Private Sub pubApplication_ShowCatalogUI()
 End Sub
 ```
 
-For this event to occur, you must place the following line of code in the  **General Declarations** section of your module.
+For this event to occur, you must place the following line of code in the **General Declarations** section of your module.
 
 
 

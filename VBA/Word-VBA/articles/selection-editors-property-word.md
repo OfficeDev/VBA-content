@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Editors Property (Word)
 
-Returns an  **[Editors](editors-object-word.md)** object that represents all the users authorized to modify a selection within a document.
+Returns an **[Editors](editors-object-word.md)** object that represents all the users authorized to modify a selection within a document.
 
 
 ## Syntax

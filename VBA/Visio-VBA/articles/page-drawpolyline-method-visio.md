@@ -39,7 +39,7 @@ Shape
 
 ## Remarks
 
-The  **DrawPolyline** method creates a new shape whose path consists of a sequence of line segments and whose endpoints match the points specified in _xyArray_ . Calling the **DrawPolyline** method is equivalent to calling the **DrawSpline** method with a tolerance of zero (0) and a flag of **visSplineAbrupt** .
+The **DrawPolyline** method creates a new shape whose path consists of a sequence of line segments and whose endpoints match the points specified in _xyArray_ . Calling the **DrawPolyline** method is equivalent to calling the **DrawSpline** method with a tolerance of zero (0) and a flag of **visSplineAbrupt** .
 
 The control points should be in internal drawing units (inches) with respect to the coordinate space of the page, master, or group in which the new shape is being created. The passed array should be a type SAFEARRAY of 8-byte floating point values passed by reference (VT_R8|VT_ARRAY|VT_BYREF). This is how Microsoft Visual Basic passes arrays to Automation objects.
 
@@ -48,9 +48,9 @@ The  _Flags_ argument is a bitmask that specifies options for drawing the new sh
 
 
 
--  **visPolyline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawPolyline** method produces a shape with one-dimensional (1-D) behavior; otherwise, it produces a shape with two-dimensional (2-D) behavior.
+- **visPolyline1D** and if the first and last points in _xyArray_ don't coincide, the **DrawPolyline** method produces a shape with one-dimensional (1-D) behavior; otherwise, it produces a shape with two-dimensional (2-D) behavior.
     
--  **visPolyarcs** , Microsoft Visio will produce a sequence of arcs rather than a sequence of line segments; _xyArray_ should specify the initial _x,y_ point of the sequence followed by _x,y_ bow triples. Visio will produce a shape with EllipticalArcTo rows where the bow of the arc matches the specified value.
+- **visPolyarcs** , Microsoft Visio will produce a sequence of arcs rather than a sequence of line segments; _xyArray_ should specify the initial _x,y_ point of the sequence followed by _x,y_ bow triples. Visio will produce a shape with EllipticalArcTo rows where the bow of the arc matches the specified value.
     
 
 

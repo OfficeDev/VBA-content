@@ -38,8 +38,8 @@ Removes the effects of leveling.
 
 ## Remarks
 
-Using the  **LevelingClear** method without specifying any arguments displays the **Clear Leveling** dialog box.
+Using the **LevelingClear** method without specifying any arguments displays the **Clear Leveling** dialog box.
 
-The  **LevelingClear** method has no effect if a task has a priority of 1000 (do not level).
+The **LevelingClear** method has no effect if a task has a priority of 1000 (do not level).
 
 

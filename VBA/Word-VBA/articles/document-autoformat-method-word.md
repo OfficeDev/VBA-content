@@ -25,7 +25,7 @@ Automatically formats a document.
 
 ## Remarks
 
-Use the  **Kind** property to specify a document type.
+Use the **Kind** property to specify a document type.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListEntries.Add Method (Word)
 
-Returns a  **ListEntry** object that represents an item added to a drop-down form field.
+Returns a **ListEntry** object that represents an item added to a drop-down form field.
 
 
 ## Syntax

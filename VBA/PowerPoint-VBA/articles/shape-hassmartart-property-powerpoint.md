@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.HasSmartArt Property (PowerPoint)
 
-Returns  **True** if the current **Shape** object contains a SmartArt diagram. Read-only.
+Returns **True** if the current **Shape** object contains a SmartArt diagram. Read-only.
 
 
 ## Syntax

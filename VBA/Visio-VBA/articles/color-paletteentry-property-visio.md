@@ -30,9 +30,9 @@ Long
 
 ## Remarks
 
-A color is represented by 1-byte red, green, and blue components. It also has a 1-byte flags field that indicates how you use the color. These correspond to members of the Windows  **PALETTEENTRY** data structure. For details, search for "PALETTEENTRY" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
+A color is represented by 1-byte red, green, and blue components. It also has a 1-byte flags field that indicates how you use the color. These correspond to members of the Windows **PALETTEENTRY** data structure. For details, search for "PALETTEENTRY" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-The value passed is four tightly packed BYTE fields. The correspondence between the  **PaletteEntry** property and red, green, blue, and flags values is:
+The value passed is four tightly packed BYTE fields. The correspondence between the **PaletteEntry** property and red, green, blue, and flags values is:
 
 
 

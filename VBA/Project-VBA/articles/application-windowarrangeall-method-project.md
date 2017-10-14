@@ -30,6 +30,6 @@ Arranges all of the open windows in Project.
 
 ### Remarks
 
-The  **WindowArrangeAll** method is equivalent to the **Arrange All** command on the **VIEW** ribbon.
+The **WindowArrangeAll** method is equivalent to the **Arrange All** command on the **VIEW** ribbon.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DocumentWindow.Panes Property (PowerPoint)
 
-Returns a  **[Panes](panes-object-powerpoint.md)** collection that represents the panes in the document window. Read-only.
+Returns a **[Panes](panes-object-powerpoint.md)** collection that represents the panes in the document window. Read-only.
 
 
 ## Syntax

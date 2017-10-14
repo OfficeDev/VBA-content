@@ -25,7 +25,7 @@ Saves the view, or saves the changes to a view.
 
 ## Remarks
 
-Always use  **Save** to save a view after you change any property of the view.
+Always use **Save** to save a view after you change any property of the view.
 
 
 ## Example

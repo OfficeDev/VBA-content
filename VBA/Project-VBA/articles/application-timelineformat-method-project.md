@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TimelineFormat Method (Project)
 
-Formats the  **Timeline** view to specify the number of text lines in timeline tasks and whether to show or hide details.
+Formats the **Timeline** view to specify the number of text lines in timeline tasks and whether to show or hide details.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Formats the  **Timeline** view to specify the number of text lines in timeline t
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _NumLines_|Optional|**Variant**|Number of text lines to show in tasks on the timeline. Values can be 1 through 10; other values are ignored.|
-| _Minimized_|Optional|**Boolean**|If  **true**, minimizes the timeline so that tasks do not show details. If **false**, vertically expands the timeline so that tasks show detail text lines.|
+| _Minimized_|Optional|**Boolean**|If **true**, minimizes the timeline so that tasks do not show details. If **false**, vertically expands the timeline so that tasks show detail text lines.|
 
 ### Return Value
 
@@ -39,7 +39,7 @@ Formats the  **Timeline** view to specify the number of text lines in timeline t
 
 ## Remarks
 
-The  **TimelineFormat** method parameters correspond to the **Text Lines** command and the **Detailed Timeline** command on the **Format** tab for **Timeline Tools** in the ribbon.
+The **TimelineFormat** method parameters correspond to the **Text Lines** command and the **Detailed Timeline** command on the **Format** tab for **Timeline Tools** in the ribbon.
 
 If the timeline does not show tasks, the  _Minimized_ parameter has no effect. If the **Timeline** view is not active, the **TimelineFormat** method results in run-time error 1100, "Application-defined or object-defined error."
 

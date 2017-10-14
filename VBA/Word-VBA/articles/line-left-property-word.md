@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.Left Property (Word)
 
-Returns a  **Long** that represents the number of pixels from the left edge of the page to the left edge of a line.
+Returns a **Long** that represents the number of pixels from the left edge of the page to the left edge of a line.
 
 
 ## Syntax

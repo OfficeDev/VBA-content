@@ -29,8 +29,8 @@ Returns an integer that represents the spatial relationship of one shape to anot
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _OtherShape_|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
-| _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space defined by the  **Shape** object's parent.|
+| _OtherShape_|Required| **[IVSHAPE]**|The other **Shape** object involved in the comparison.|
+| _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space defined by the **Shape** object's parent.|
 | _Flags_|Required| **Integer**|Flags that influence the result. See Remarks for the values of this argument.|
 
 ### Return Value
@@ -41,9 +41,9 @@ Integer
 ## Remarks
 
 
-- The integer returned can be any combination of the values defined in  **[VisSpatialRelationCodes](visspatialrelationcodes-enumeration-visio.md)** in the Visio type library. The **SpatialRelation** property returns zero (0) if the two shapes being compared are not in any of the relationships discussed in the table in the **[VisSpatialRelationCodes](visspatialrelationcodes-enumeration-visio.md)** topic.
+- The integer returned can be any combination of the values defined in **[VisSpatialRelationCodes](visspatialrelationcodes-enumeration-visio.md)** in the Visio type library. The **SpatialRelation** property returns zero (0) if the two shapes being compared are not in any of the relationships discussed in the table in the **[VisSpatialRelationCodes](visspatialrelationcodes-enumeration-visio.md)** topic.
     
-- The Flags argument can be any combination of the values of the constants defined in the following table. These constants are declared in  **VisSpatialRelationFlags** in the Visio type library. Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
+- The Flags argument can be any combination of the values of the constants defined in the following table. These constants are declared in **VisSpatialRelationFlags** in the Visio type library. Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
     
 
 |** Constant**|** Value**|** Description**|
@@ -59,7 +59,7 @@ Integer
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example shows how to use the  **SpatialRelation** property in an event handler for the **ShapeAdded** event to determine the spatial relationship between shapes.
+This Microsoft Visual Basic for Applications (VBA) example shows how to use the **SpatialRelation** property in an event handler for the **ShapeAdded** event to determine the spatial relationship between shapes.
 
 Before adding the following code to your VBA project, make sure there is at least one shape on the drawing page. Then, after adding the code, add another shape to your drawing.
 

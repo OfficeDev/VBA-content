@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Calendar.Delete Method (Project)
 
-Deletes the  **Calendar** object from a **Calendars** collection.
+Deletes the **Calendar** object from a **Calendars** collection.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Deletes the  **Calendar** object from a **Calendars** collection.
 
 ## Remarks
 
-The  **Delete** method does not apply to resource calendars.
+The **Delete** method does not apply to resource calendars.
 
 

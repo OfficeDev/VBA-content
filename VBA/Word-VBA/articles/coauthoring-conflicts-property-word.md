@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.Conflicts Property (Word)
 
-Returns a  **[Conflicts](conflicts-object-word.md)** collection that represents all the conflicts in a document. Read-only.
+Returns a **[Conflicts](conflicts-object-word.md)** collection that represents all the conflicts in a document. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Conflicts](conflicts-object-word.md)** collection that represents 
 
 ## Example
 
-The following code example gets the type of each conflict in the active document. The  **[Type](conflict-type-property-word.md)** property uses the **[WdRevisionType](wdrevisiontype-enumeration-word.md)** enumeration to specify the conflict type.
+The following code example gets the type of each conflict in the active document. The **[Type](conflict-type-property-word.md)** property uses the **[WdRevisionType](wdrevisiontype-enumeration-word.md)** enumeration to specify the conflict type.
 
 
 ```vb

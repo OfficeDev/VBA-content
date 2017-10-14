@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkTextBox.AutoSize Property (Outlook)
 
-Returns or sets a  **Boolean** that automatically sizes the control to display the entire contents. Read/write.
+Returns or sets a **Boolean** that automatically sizes the control to display the entire contents. Read/write.
 
 
 ## Syntax
@@ -27,9 +27,9 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
  The default value for this property is **False** .
 
-For a single-line text box, setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
+For a single-line text box, setting **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
 
-For a multiline text box that contains no text, setting  **AutoSize** to **True** automatically displays the text as a column. The width of the text column is set to accommodate the widest letter of that font size. The height of the text column is set to display the entire text of the text box. For a multiline text box that contains text, setting **AutoSize** to **True** automatically extends the text box vertically to display the entire text. The width of the text box does not change.
+For a multiline text box that contains no text, setting **AutoSize** to **True** automatically displays the text as a column. The width of the text column is set to accommodate the widest letter of that font size. The height of the text column is set to display the entire text of the text box. For a multiline text box that contains text, setting **AutoSize** to **True** automatically extends the text box vertically to display the entire text. The width of the text box does not change.
 
 
 ## See also

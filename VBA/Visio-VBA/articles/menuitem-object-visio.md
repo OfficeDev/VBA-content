@@ -26,12 +26,12 @@ Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces th
 
  **Note**  
 
-The default property of  **MenuItem** is **Caption** .
+The default property of **MenuItem** is **Caption** .
 
-A  **MenuItem** object contains all the information it needs to display the menu item and launch the appropriate Visio command or add-on. It also contains text for the **Undo**,  **Redo**, and  **Repeat** menu items and error messages.
+A **MenuItem** object contains all the information it needs to display the menu item and launch the appropriate Visio command or add-on. It also contains text for the **Undo**, **Redo**, and **Repeat** menu items and error messages.
 
-The index of a  **MenuItem** object within the **MenuItems** collection corresponds to the menu item's position from top to bottom on the menu or submenu, starting with zero (0).
+The index of a **MenuItem** object within the **MenuItems** collection corresponds to the menu item's position from top to bottom on the menu or submenu, starting with zero (0).
 
-If the menu item displays a submenu, the  **MenuItem** object has a **MenuItems** collection that represents items on the submenu. The **MenuItem** object's **Caption** property contains the submenu title. Most of the other properties of the **MenuItem** object are ignored, because this object serves much the same role as a **Menu** object.
+If the menu item displays a submenu, the **MenuItem** object has a **MenuItems** collection that represents items on the submenu. The **MenuItem** object's **Caption** property contains the submenu title. Most of the other properties of the **MenuItem** object are ignored, because this object serves much the same role as a **Menu** object.
 
 

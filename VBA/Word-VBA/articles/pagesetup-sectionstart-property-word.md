@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.SectionStart Property (Word)
 
-Returns or sets the type of section break for the specified object. Read/write  **WdSectionStart** .
+Returns or sets the type of section break for the specified object. Read/write **WdSectionStart** .
 
 
 ## Syntax

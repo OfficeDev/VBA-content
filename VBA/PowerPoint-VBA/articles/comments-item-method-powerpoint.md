@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Comments.Item Method (PowerPoint)
 
-Returns a single  **Comment** object from the specified **Comments** collection.
+Returns a single **Comment** object from the specified **Comments** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Comment** object from the specified **Comments** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Comment** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Comment** object in the collection to be returned.|
 
 ### Return Value
 

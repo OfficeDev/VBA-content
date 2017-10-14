@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AccelItem.Shift Property (Visio)
 
-Determines whether the SHIFT key is a modifier for an  **AccelItem** object. Read/write.
+Determines whether the SHIFT key is a modifier for an **AccelItem** object. Read/write.
 
 
 ## Syntax

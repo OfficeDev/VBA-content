@@ -18,14 +18,14 @@ Contains information about how the specified shape or text range reacts to mouse
 
 ## Remarks
 
-The  **ActionSetting** object is a member of the **[ActionSettings](http://msdn.microsoft.com/library/8914c203-6b8d-fa80-16ad-7015595657b7%28Office.15%29.aspx)** collection. The **ActionSettings** collection contains one **ActionSetting** object that represents how the specified object reacts when the user clicks it during a slide show and one **ActionSetting** object that represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
+The **ActionSetting** object is a member of the **[ActionSettings](http://msdn.microsoft.com/library/8914c203-6b8d-fa80-16ad-7015595657b7%28Office.15%29.aspx)** collection. The **ActionSettings** collection contains one **ActionSetting** object that represents how the specified object reacts when the user clicks it during a slide show and one **ActionSetting** object that represents how the specified object reacts when the user moves the mouse pointer over it during a slide show.
 
-If you've set properties of the  **ActionSetting** object that don't seem to be taking effect, make sure that you've set the[Action](http://msdn.microsoft.com/library/32ed5574-5ac0-abb7-d300-6644fc894ec1%28Office.15%29.aspx) property to the appropriate value.
+If you've set properties of the **ActionSetting** object that don't seem to be taking effect, make sure that you've set the[Action](http://msdn.microsoft.com/library/32ed5574-5ac0-abb7-d300-6644fc894ec1%28Office.15%29.aspx) property to the appropriate value.
 
 
 ## Example
 
-Use  **ActionSettings** (index), where index is the either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example sets the mouse-click action for the text in the third shape on slide one in the active presentation to an Internet link.
+Use **ActionSettings** (index), where index is the either **ppMouseClick** or **ppMouseOver**, to return a single **ActionSetting** object. The following example sets the mouse-click action for the text in the third shape on slide one in the active presentation to an Internet link.
 
 
 ```

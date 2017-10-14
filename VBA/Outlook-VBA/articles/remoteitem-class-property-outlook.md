@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RemoteItem.Class Property (Outlook)
 
-Returns an  **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
+Returns an **[OlObjectClass](olobjectclass-enumeration-outlook.md)** constant indicating the object's class. Read-only.
 
 
 ## Syntax

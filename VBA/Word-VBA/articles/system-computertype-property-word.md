@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.ComputerType Property (Word)
 
-You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **ComputerType** property of the **System** object, consult the language reference Help included with Microsoft Office Macintosh Edition. Read-only.
+You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the **ComputerType** property of the **System** object, consult the language reference Help included with Microsoft Office Macintosh Edition. Read-only.
 
 
 ## See also

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PpSlideShowRangeType Enumeration (PowerPoint)
 
-Constants that specify the type of the slideshow range, passed to and returned by the  **RangeType** property of the **SlideShowSettings** object.
+Constants that specify the type of the slideshow range, passed to and returned by the **RangeType** property of the **SlideShowSettings** object.
 
 
 

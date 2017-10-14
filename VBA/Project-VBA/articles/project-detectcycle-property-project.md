@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.DetectCycle Property (Project)
 
-Gets a  **Tasks** collection that contains a set of circular task dependencies, if circular task references exist. Read-only **Tasks**.
+Gets a **Tasks** collection that contains a set of circular task dependencies, if circular task references exist. Read-only **Tasks**.
 
 
 ## Syntax

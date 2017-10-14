@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeFilterCriterion.Column Property (Publisher)
 
-Returns a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
+Returns a **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
 
 
 ## Syntax
 
  _expression_. **Column**
 
- _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+ _expression_A variable that represents a **MailMergeFilterCriterion** object.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ReflectionFormat.Type Property (Word)
 
-Returns or sets an  **MsoLightRigType** constant that represents the type and direction of the lighting for a shape reflection. Read/write.
+Returns or sets an **MsoLightRigType** constant that represents the type and direction of the lighting for a shape reflection. Read/write.
 
 
 ## Syntax

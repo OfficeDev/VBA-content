@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientVariant Property (Publisher)
 
-Returns a  **Long** indicating the gradient variant for the specified fill. Generally, values are integers from 1 to 4 for most gradient fills. If the gradient style is **msoGradientFromTitle** or **msoGradientFromCenter**, this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the  **Gradient** tab in the **Fill Effects** dialog box. Read-only.
+Returns a **Long** indicating the gradient variant for the specified fill. Generally, values are integers from 1 to 4 for most gradient fills. If the gradient style is **msoGradientFromTitle** or **msoGradientFromCenter**, this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the **Gradient** tab in the **Fill Effects** dialog box. Read-only.
 
 
 ## Syntax
 
  _expression_. **GradientVariant**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-Use the  **[OneColorGradient](fillformat-onecolorgradient-method-publisher.md)**,  **[PresetGradient](fillformat-presetgradient-method-publisher.md)**, or  **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient variant for the fill.
+Use the **[OneColorGradient](fillformat-onecolorgradient-method-publisher.md)**, **[PresetGradient](fillformat-presetgradient-method-publisher.md)**, or **[TwoColorGradient](fillformat-twocolorgradient-method-publisher.md)** method to set the gradient variant for the fill.
 
 
 ## Example

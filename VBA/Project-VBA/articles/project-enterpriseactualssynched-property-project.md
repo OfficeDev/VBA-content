@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **EnterpriseActualsSynched** property is available only in Project Professional.
+The **EnterpriseActualsSynched** property is available only in Project Professional.
 
 

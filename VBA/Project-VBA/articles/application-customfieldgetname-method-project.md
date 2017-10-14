@@ -26,7 +26,7 @@ Returns the friendly name for a custom field.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**Long**|The custom field. Can be one of the  **[PjCustomField](pjcustomfield-enumeration-project.md)** constants.|
+| _FieldID_|Required|**Long**|The custom field. Can be one of the **[PjCustomField](pjcustomfield-enumeration-project.md)** constants.|
 
 ### Return Value
 

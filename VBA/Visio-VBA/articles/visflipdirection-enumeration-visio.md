@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisFlipDirection Enumeration (Visio)
 
-Direction constants to pass to the  **Selection.Flip** method.
+Direction constants to pass to the **Selection.Flip** method.
 
 
 

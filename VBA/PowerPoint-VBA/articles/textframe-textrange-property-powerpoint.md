@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.TextRange Property (PowerPoint)
 
-Returns a  **[TextRange](textrange-object-powerpoint.md)** object that represents the text in the specified text frame. Read-only.
+Returns a **[TextRange](textrange-object-powerpoint.md)** object that represents the text in the specified text frame. Read-only.
 
 
 ## Syntax

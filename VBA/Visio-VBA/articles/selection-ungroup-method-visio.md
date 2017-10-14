@@ -30,7 +30,7 @@ Nothing
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Ungroup** method.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Ungroup** method.
 
 
 ```vb

@@ -40,7 +40,7 @@ Builds a freeform object.
 
 ## Remarks
 
-Use the  **AddNodes** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **ConvertToShape** method to convert the **[FreeformBuilder](freeformbuilder-object-word.md)** object into a **Shape** object that has the geometric description you've defined in the **[FreeformBuilder](freeformbuilder-object-word.md)** object.
+Use the **AddNodes** method to add segments to the freeform. After you have added at least one segment to the freeform, you can use the **ConvertToShape** method to convert the **[FreeformBuilder](freeformbuilder-object-word.md)** object into a **Shape** object that has the geometric description you've defined in the **[FreeformBuilder](freeformbuilder-object-word.md)** object.
 
 
 ## Example

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example sets Word to automatically adjust the spacing between words and punctuation when cutting and pasting occurs, and then it deletes and pastes some text in a newly created document. If the  **SmartCutPaste** property were set to **False** , the second and third words would run together.
+This example sets Word to automatically adjust the spacing between words and punctuation when cutting and pasting occurs, and then it deletes and pastes some text in a newly created document. If the **SmartCutPaste** property were set to **False** , the second and third words would run together.
 
 
 ```vb
@@ -38,7 +38,7 @@ With myDoc
 End With
 ```
 
-This example returns the status of the  **Smart cut and paste** option on the **Edit** tab in the **Options** dialog box ( **Tools** menu).
+This example returns the status of the **Smart cut and paste** option on the **Edit** tab in the **Options** dialog box ( **Tools** menu).
 
 
 

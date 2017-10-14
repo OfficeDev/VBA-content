@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.HyperlinkColorEx Property (Project)
 
-Gets or sets a hexadecimal representation of the color used to denote unfollowed hyperlinks. Read/write  **Long**.
+Gets or sets a hexadecimal representation of the color used to denote unfollowed hyperlinks. Read/write **Long**.
 
 
 ## Syntax

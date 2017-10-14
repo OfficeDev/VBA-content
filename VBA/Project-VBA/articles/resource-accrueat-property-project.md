@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Resource.AccrueAt Property (Project)
 
-Gets or sets the way a task accrues the cost of a resource assigned to it. Read/write  **Variant**.
+Gets or sets the way a task accrues the cost of a resource assigned to it. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Gets or sets the way a task accrues the cost of a resource assigned to it. Read/
 
 ## Remarks
 
-The  **AccrueAt** property can be one of the **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants.
+The **AccrueAt** property can be one of the **[PjAccrueAt](pjaccrueat-enumeration-project.md)** constants.
 
 
 ## Example
 
-The following example sets the  **AccrueAt** property to **pjProrated** for each resource in the active project.
+The following example sets the **AccrueAt** property to **pjProrated** for each resource in the active project.
 
 
 ```vb

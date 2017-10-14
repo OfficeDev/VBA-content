@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.AddCurve Method (Word)
 
-Returns a  **[Shape](shape-object-word.md)** object that represents a B?zier curve in a drawing canvas.
+Returns a **[Shape](shape-object-word.md)** object that represents a B?zier curve in a drawing canvas.
 
 
 ## Syntax

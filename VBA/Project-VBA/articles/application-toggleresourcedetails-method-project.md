@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ToggleResourceDetails Method (Project)
 
-Shows or hides the  **Resource Form** in the bottom pane of a split view.
+Shows or hides the **Resource Form** in the bottom pane of a split view.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Shows or hides the  **Resource Form** in the bottom pane of a split view.
 
 ## Remarks
 
-The  **ToggleResourceDetails** method corresponds to selecting or clearing the **Details** check box in the **Split View** group on the **View** tab under **Resource Tools** on the ribbon, where **Resource Form** iis selected in the **Details** drop-down list.
+The **ToggleResourceDetails** method corresponds to selecting or clearing the **Details** check box in the **Split View** group on the **View** tab under **Resource Tools** on the ribbon, where **Resource Form** iis selected in the **Details** drop-down list.
 
-You can use  **ToggleResourceDetails** to add a **Resource Form** split view to other views except an empty Timeline view.
+You can use **ToggleResourceDetails** to add a **Resource Form** split view to other views except an empty Timeline view.
 
 

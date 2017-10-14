@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Validation Property (Visio)
 
-Returns the  **[Validation](validation-object-visio.md)** object that is associated with the document. Read-only.
+Returns the **[Validation](validation-object-visio.md)** object that is associated with the document. Read-only.
 
 
 ## Syntax

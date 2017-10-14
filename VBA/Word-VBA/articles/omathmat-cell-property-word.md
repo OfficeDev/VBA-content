@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathMat.Cell Property (Word)
 
-Returns an  **[OMath](omath-object-word.md)** object that represents a cell in a matrix. Read-only.
+Returns an **[OMath](omath-object-word.md)** object that represents a cell in a matrix. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.RightIndent Property (Word)
 
-Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the right indent (in points) for the specified paragraphs. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the right indent (in points) for the specified paragraphs. Read/
 
 ## Example
 
-This example sets the right indent for all paragraphs in the active document to 1 inch from the right margin. The  **InchesToPoints** method is used to convert inches to points.
+This example sets the right indent for all paragraphs in the active document to 1 inch from the right margin. The **InchesToPoints** method is used to convert inches to points.
 
 
 ```vb

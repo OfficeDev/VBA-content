@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocument.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that's contained within the subdocument.
+Returns a **Range** object that represents the portion of a document that's contained within the subdocument.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Range** object that represents the portion of a document that's con
 
 ## Remarks
 
-For information about returning a range from a document, see the  **[Range](document-range-method-word.md)** method.
+For information about returning a range from a document, see the **[Range](document-range-method-word.md)** method.
 
 
 ## See also

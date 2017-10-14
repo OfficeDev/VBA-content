@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Adjustments Property (Word)
 
-Returns an  **[Adjustments](adjustments-object-word.md)** object that contains adjustment values for all the adjustments in the specified **Shape** object that represents an AutoShape or WordArt. Read-only.
+Returns an **[Adjustments](adjustments-object-word.md)** object that contains adjustment values for all the adjustments in the specified **Shape** object that represents an AutoShape or WordArt. Read-only.
 
 
 ## Syntax

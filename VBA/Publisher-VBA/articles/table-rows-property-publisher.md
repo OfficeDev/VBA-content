@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Table.Rows Property (Publisher)
 
-Returns a  **[Rows](rows-object-publisher.md)** collection that represents all the table rows in a range, selection, or table.
+Returns a **[Rows](rows-object-publisher.md)** collection that represents all the table rows in a range, selection, or table.
 
 
 ## Syntax
 
  _expression_. **Rows**
 
- _expression_A variable that represents a  **Table** object.
+ _expression_A variable that represents a **Table** object.
 
 
 ## Remarks

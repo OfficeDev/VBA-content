@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableView.ShowReadingPane Property (Outlook)
 
-Returns or sets a  **Boolean** value that indicates whether the Reading Pane is displayed in the **[TableView](tableview-object-outlook.md)** object. Read/write.
+Returns or sets a **Boolean** value that indicates whether the Reading Pane is displayed in the **[TableView](tableview-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.InlineTextRange Property (Publisher)
 
-Returns a  **[TextRange](textrange-object-publisher.md)** object that reflects the position of the inline shape in its containing text range. Read-only.
+Returns a **[TextRange](textrange-object-publisher.md)** object that reflects the position of the inline shape in its containing text range. Read-only.
 
 
 ## Syntax
 
  _expression_. **InlineTextRange**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ The returned text range will contain a single object representing the inline sha
 
 ## Example
 
-The following example finds the first shape (a text box) on the first page of the publication, and determines if the text range within the text box contains inline shapes. If inline shapes are found, the  **InlineTextRange** property is used to represent the inline shape after a block of text is inserted.
+The following example finds the first shape (a text box) on the first page of the publication, and determines if the text range within the text box contains inline shapes. If inline shapes are found, the **InlineTextRange** property is used to represent the inline shape after a block of text is inserted.
 
 
 ```vb

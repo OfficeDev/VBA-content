@@ -18,25 +18,25 @@ Represents anything you can select in a drawing window: a basic shape, a group, 
 
 ## Remarks
 
-The default property of a  **Shape** object is **Name**.
+The default property of a **Shape** object is **Name**.
 
-You can retrieve a particular  **Shape** object from the **Shapes** collection of the following objects:
-
-
+You can retrieve a particular **Shape** object from the **Shapes** collection of the following objects:
 
 
--  **Page** object
+
+
+- **Page** object
     
--  **Master** object
+- **Master** object
     
--  **Shape** object that represents a group
+- **Shape** object that represents a group
     
 
 
-To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **Connects** properties of a **Shape** object, respectively.
+To retrieve **Cell** objects and **Connect** objects, use the **Cells** and **Connects** properties of a **Shape** object, respectively.
 
 
- **Note**  The **PageSheet** property of a **Page** object and **Master** object returns a **Shape** object whose **Type** property returns **visTypePage**. It has cells that specify properties such as drawing size and drawing scale. The **DocumentSheet** property of a **Document** object also returns a **Shape** object whose **Type** property returns **visTypeDoc**. It has cells that specify properties of the document.If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this object maps to the following types:
+ **Note**  The **PageSheet** property of a **Page** object and **Master** object returns a **Shape** object whose **Type** property returns **visTypePage**. It has cells that specify properties such as drawing size and drawing scale. The **DocumentSheet** property of a **Document** object also returns a **Shape** object whose **Type** property returns **visTypeDoc**. It has cells that specify properties of the document.If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this object maps to the following types:
 
 
 ## Events

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GraphicItems.Count Property (Visio)
 
-Returns the number of  **GraphicItem** objects in the **GraphicItems** collection. Read-only.
+Returns the number of **GraphicItem** objects in the **GraphicItems** collection. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

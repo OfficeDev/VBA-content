@@ -38,17 +38,17 @@ Shape
 
 ## Remarks
 
-The ID of a  **Shape** object uniquely identifies the shape within its page or master. You can determine the ID of a shape by displaying the **Special** dialog box (select the shape, and then click **Shape Name** on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab.)
+The ID of a **Shape** object uniquely identifies the shape within its page or master. You can determine the ID of a shape by displaying the **Special** dialog box (select the shape, and then click **Shape Name** on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab.)
 
-The ID of a  **Style** object uniquely identifies the style within its document.
+The ID of a **Style** object uniquely identifies the style within its document.
 
-The ID of a  **Font** object corresponds to the number stored in the Font cell of a row in a shape's Character Properties section. The ID associated with a particular font varies between systems or as fonts are installed on and removed from a given system.
+The ID of a **Font** object corresponds to the number stored in the Font cell of a row in a shape's Character Properties section. The ID associated with a particular font varies between systems or as fonts are installed on and removed from a given system.
 
-The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
+The ID of an **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVShapes.get_ItemFromID**
+- **Microsoft.Office.Interop.Visio.IVShapes.get_ItemFromID**
     
 

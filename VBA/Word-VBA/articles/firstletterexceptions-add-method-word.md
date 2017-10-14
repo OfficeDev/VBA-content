@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FirstLetterExceptions.Add Method (Word)
 
-Returns a  **FirstLetterException** object that represents a new exception added to the list of AutoCorrect exceptions.
+Returns a **FirstLetterException** object that represents a new exception added to the list of AutoCorrect exceptions.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ FirstLetterException
 
 ## Remarks
 
-If the  **FirstLetterAutoAdd** property is **True** , abbreviations are automatically added to the list of first-letter exceptions.
+If the **FirstLetterAutoAdd** property is **True** , abbreviations are automatically added to the list of first-letter exceptions.
 
 
 ## Example

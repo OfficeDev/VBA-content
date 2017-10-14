@@ -25,7 +25,7 @@ Selects all the shapes in a canvas.
 
 ## Remarks
 
-This method doesn't select  **InlineShape** objects.
+This method doesn't select **InlineShape** objects.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ActualStartDrivers.Application Property (Project)
 
-Gets the  **[Application](application-object-project.md)** object. Read-only **Application**.
+Gets the **[Application](application-object-project.md)** object. Read-only **Application**.
 
 
 ## Syntax

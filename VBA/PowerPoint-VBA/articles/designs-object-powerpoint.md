@@ -18,16 +18,16 @@ Represents a collection of slide design templates.
 
 ## Remarks
 
-Use the [Designs](slide-design-property-powerpoint.md)property of the  **[Presentation](presentation-object-powerpoint.md)** object to reference a design template.
+Use the [Designs](slide-design-property-powerpoint.md)property of the **[Presentation](presentation-object-powerpoint.md)** object to reference a design template.
 
-To add or clone an individual design template, use the  **Designs** collection's[Add](designs-add-method-powerpoint.md)or [Clone](designs-clone-method-powerpoint.md)methods, respectively. To refer to an individual design template, use the [Item](designs-item-method-powerpoint.md)method.
+To add or clone an individual design template, use the **Designs** collection's[Add](designs-add-method-powerpoint.md)or [Clone](designs-clone-method-powerpoint.md)methods, respectively. To refer to an individual design template, use the [Item](designs-item-method-powerpoint.md)method.
 
 To load a design template, use the [Load](designs-load-method-powerpoint.md)method.
 
 
 ## Example
 
-The following example adds a new design template to the  **Designs** collection and confirms it was added correctly.
+The following example adds a new design template to the **Designs** collection and confirms it was added correctly.
 
 
 ```vb

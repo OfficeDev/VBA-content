@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabel.Separator Property (Word)
 
-Returns or sets the character between the chapter number and the sequence number. Read/write  **WdSeparatorType** .
+Returns or sets the character between the chapter number and the sequence number. Read/write **WdSeparatorType** .
 
 
 ## Syntax

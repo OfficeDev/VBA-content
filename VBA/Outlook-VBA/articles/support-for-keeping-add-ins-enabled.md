@@ -21,7 +21,7 @@ Below are some suggestions for improving add-in performance:
     
 - If you have long-running tasks such as making an expensive connection to a database, defer those tasks to occur after startup.
     
-- If possible, cache data locally rather than making expensive network calls during the  **FolderSwitch** and **BeforeFolderSwitch** events of an explorer, or **Open** events of an item.
+- If possible, cache data locally rather than making expensive network calls during the **FolderSwitch** and **BeforeFolderSwitch** events of an explorer, or **Open** events of an item.
     
 - Be aware that all calls to the Outlook object model execute on Outlook's main foreground thread. Avoid making long-running Outlook object model calls if possible. 
 
@@ -39,7 +39,7 @@ The registry keys and settings are described in the following tables:
 |**Name**|**Description**|
 |:-----|:-----|
 |Key|HKCU\Software\Policies\Microsoft\Office\15.0\Outlook\Resiliency\AddinList|
-|Description|This policy setting allows you to specify the list of managed add-ins are always enabled, always disabled (blocked), or configurable by the user.  **Note:** Here, the term "managed" refers to add-ins that are handled by the group policy, and does not relate to add-ins being developed in managed programming languages.|
+|Description|This policy setting allows you to specify the list of managed add-ins are always enabled, always disabled (blocked), or configurable by the user. **Note:** Here, the term "managed" refers to add-ins that are handled by the group policy, and does not relate to add-ins being developed in managed programming languages.|
 |DWORD|ProgID of the add-in|
 |Values|Specify the value as follows:0 = always disabled (blocked)1 = always enabled2 = configurable by the user and not blocked by the "Block all unmanaged add-ins" policy setting when enabled|
 

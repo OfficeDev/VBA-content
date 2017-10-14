@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultBorderLineWidth Property (Word)
 
-Returns or sets the default line width of borders. Read/write  **WdLineWidth** .
+Returns or sets the default line width of borders. Read/write **WdLineWidth** .
 
 
 ## Syntax

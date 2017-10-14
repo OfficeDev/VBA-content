@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.StartOf Method (Word)
 
-Moves or extends the start position of the specified range or selection to the beginning of the nearest specified text unit. This method returns a  **Long** that indicates the number of characters by which the range or selection was moved or extended. The method returns a negative number if the movement is backward through the document.
+Moves or extends the start position of the specified range or selection to the beginning of the nearest specified text unit. This method returns a **Long** that indicates the number of characters by which the range or selection was moved or extended. The method returns a negative number if the movement is backward through the document.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Moves or extends the start position of the specified range or selection to the b
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. If a value is omitted, the default value is  **wdWord** .|
-| _Extend_|Optional| **WdMovement**|If you use  **wdMove** , both ends of the range or selection are moved to the beginning of the specified unit. If you use **wdExtend** , the beginning of the range or selection is extended to the beginning of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. If a value is omitted, the default value is **wdWord** .|
+| _Extend_|Optional| **WdMovement**|If you use **wdMove** , both ends of the range or selection are moved to the beginning of the specified unit. If you use **wdExtend** , the beginning of the range or selection is extended to the beginning of the specified unit. The default value is **wdMove** .|
 
 ## Remarks
 

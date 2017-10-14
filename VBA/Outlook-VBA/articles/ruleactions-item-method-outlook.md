@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.Item Method (Outlook)
 
-Obtains a  **[RuleAction](ruleaction-object-outlook.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](ruleactions-object-outlook.md)** collection.
+Obtains a **[RuleAction](ruleaction-object-outlook.md)** object specified by _Index_ which is a numerical index into the **[RuleActions](ruleactions-object-outlook.md)** collection.
 
 
 ## Syntax
@@ -29,16 +29,16 @@ Obtains a  **[RuleAction](ruleaction-object-outlook.md)** object specified by _I
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|A 1-based numerical value that reflects the ordinal position of a rule action within the  **RuleActions** collection. For example, the index value of the first rule action in the collection is 1, and the index value of the second rule action is 2.|
+| _Index_|Required| **Long**|A 1-based numerical value that reflects the ordinal position of a rule action within the **RuleActions** collection. For example, the index value of the first rule action in the collection is 1, and the index value of the second rule action is 2.|
 
 ### Return Value
 
-A  **RuleAction** object that matches the rule action specified by _Index_ .
+A **RuleAction** object that matches the rule action specified by _Index_ .
 
 
 ## Remarks
 
-The  **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction** . You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](ruleaction-enabled-property-outlook.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](ruleactions-count-property-outlook.md)** .
+The **RuleActions** collection object is a fixed collection. It contains **RuleAction** objects or objects derived from **RuleAction** . You cannot add or remove items from this collection, but you can use **Item** to enumerate the rule action items, and set the **[Enabled](ruleaction-enabled-property-outlook.md)** property of the rule action. When using **Item** to enumerate the collection, you can enumerate _Index_ from 1 to **[Count](ruleactions-count-property-outlook.md)** .
 
 
 ## See also

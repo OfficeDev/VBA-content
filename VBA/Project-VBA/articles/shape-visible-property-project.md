@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Visible Property (Project)
-Gets or sets a value that determines whether the shape is visible. Read/write  **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
+Gets or sets a value that determines whether the shape is visible. Read/write **[MsoTriState](http://msdn.microsoft.com/en-us/library/office/ff860737%28v=office.15%29)**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets or sets a value that determines whether the shape is visible. Read/write  *
 
 ## Remarks
 
-The value of the  **Visible** property can be **msoTrue** or **msoFalse**.
+The value of the **Visible** property can be **msoTrue** or **msoFalse**.
 
 
 ## Property value

@@ -15,9 +15,9 @@ Displays the shortcut menu for Microsoft Visio Viewer at the specified screen co
 
 ## Syntax
 
- _expression_. **DisplayContextMenu**( **_ScreenX_**,  **_ScreenY_**)
+ _expression_. **DisplayContextMenu**( **_ScreenX_**, **_ScreenY_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters

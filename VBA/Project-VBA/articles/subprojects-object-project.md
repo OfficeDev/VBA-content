@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 
 # Subprojects Object (Project)
 
-Contains a collection of  **[Subproject](subproject-object-project.md)** objects
+Contains a collection of **[Subproject](subproject-object-project.md)** objects
 
 
 ## Example
 
  **Using the Subprojects Collection Object**
 
-Use  **Subprojects** ( _Index_ ), where _Index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
+Use **Subprojects** ( _Index_ ), where _Index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
 
 
 
@@ -26,7 +26,7 @@ ActiveProject.Subprojects("Arcadia Bay Online Catalog Plan").LinkToSource = Fals
 
  **Getting the Subprojects Collection object**
 
-Use the  **[Subprojects](http://msdn.microsoft.com/library/e4b143fb-3da7-69bd-6535-5604c2cc2dc0%28Office.15%29.aspx)** property to return a **Subprojects** collection. The following example cautions the user if any of the subprojects in the active project are not on the hard disk.
+Use the **[Subprojects](http://msdn.microsoft.com/library/e4b143fb-3da7-69bd-6535-5604c2cc2dc0%28Office.15%29.aspx)** property to return a **Subprojects** collection. The following example cautions the user if any of the subprojects in the active project are not on the hard disk.
 
 
 

@@ -39,6 +39,6 @@ Selects cells to the right of the current selection.
 
 ## Remarks
 
-The  **SelectCellRight** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
+The **SelectCellRight** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
 

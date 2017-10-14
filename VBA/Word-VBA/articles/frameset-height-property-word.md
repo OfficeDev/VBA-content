@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.Height Property (Word)
 
-Returns or sets a  **Float** that represents the height (in points) of the specified **Frameset** object. Read/write.
+Returns or sets a **Float** that represents the height (in points) of the specified **Frameset** object. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **Float** that represents the height (in points) of the speci
 
 ## Remarks
 
-The  **HeightType** property determines the type of unit in which this value is expressed.
+The **HeightType** property determines the type of unit in which this value is expressed.
 
 
 ## Example
 
-This example sets the height of the specified  **Frameset** object to 25% of the window height.
+This example sets the height of the specified **Frameset** object to 25% of the window height.
 
 
 ```vb

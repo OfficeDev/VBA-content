@@ -25,7 +25,7 @@ Accepts all the tracked changes in a document or range, removes all revision mar
 
 ## Remarks
 
-Use the  **AcceptAllRevisions** method to accept all revisions in a document.
+Use the **AcceptAllRevisions** method to accept all revisions in a document.
 
 
 ## Example

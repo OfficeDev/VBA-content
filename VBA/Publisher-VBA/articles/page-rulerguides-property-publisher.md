@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Page.RulerGuides Property (Publisher)
 
-Returns a  **[RulerGuides](rulerguides-object-publisher.md)** collection that represents gridlines used to align objects on a page.
+Returns a **[RulerGuides](rulerguides-object-publisher.md)** collection that represents gridlines used to align objects on a page.
 
 
 ## Syntax
 
  _expression_. **RulerGuides**
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Return Value

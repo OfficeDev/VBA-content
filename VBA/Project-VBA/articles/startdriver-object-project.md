@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # StartDriver Object (Project)
 
-Represents the  **StartDriver** of the **Task**.
+Represents the **StartDriver** of the **Task**.
 
 
 ## Remarks
 
-Use the  **[Index](http://msdn.microsoft.com/library/2720e56a-95eb-f119-445d-3052198c46b0%28Office.15%29.aspx)** method of the **[Task](task-object-project.md)** object to access the **StartDriver** object. For example:
+Use the **[Index](http://msdn.microsoft.com/library/2720e56a-95eb-f119-445d-3052198c46b0%28Office.15%29.aspx)** method of the **[Task](task-object-project.md)** object to access the **StartDriver** object. For example:
 
 
 ## Properties

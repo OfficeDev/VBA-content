@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.TrailingCharacter Property (Word)
 
-Returns or sets the character inserted after the number for the specified list level. Read/write  **WdTrailingCharacter** .
+Returns or sets the character inserted after the number for the specified list level. Read/write **WdTrailingCharacter** .
 
 
 ## Syntax

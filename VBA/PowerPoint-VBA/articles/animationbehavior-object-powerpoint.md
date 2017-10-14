@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # AnimationBehavior Object (PowerPoint)
 
-Represents the behavior of an animation effect, the main animation sequence, or an interactive animation sequence. The  **AnimationBehavior** object is a member of the **[AnimationBehaviors](animationbehaviors-object-powerpoint.md)** collection.
+Represents the behavior of an animation effect, the main animation sequence, or an interactive animation sequence. The **AnimationBehavior** object is a member of the **[AnimationBehaviors](animationbehaviors-object-powerpoint.md)** collection.
 
 
 ## Example
 
-Use [Behaviors](effect-behaviors-property-powerpoint.md)(index), where index is the number of the behavior in the sequence of behaviors, to return a single  **AnimationBehavior** object. The following example sets the positions of the a rotation's starting and ending points. This example assumes that the first behavior for the main animation sequence is a **[RotationEffect](rotationeffect-object-powerpoint.md)** object.
+Use [Behaviors](effect-behaviors-property-powerpoint.md)(index), where index is the number of the behavior in the sequence of behaviors, to return a single **AnimationBehavior** object. The following example sets the positions of the a rotation's starting and ending points. This example assumes that the first behavior for the main animation sequence is a **[RotationEffect](rotationeffect-object-powerpoint.md)** object.
 
 
 ```vb

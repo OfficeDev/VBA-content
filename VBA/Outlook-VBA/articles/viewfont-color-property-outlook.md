@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ViewFont.Color Property (Outlook)
 
-Returns or sets an  **[OlColor](olcolor-enumeration-outlook.md)** constant that indicates the color of the font in the **[ViewFont](viewfont-object-outlook.md)** object. Read/write.
+Returns or sets an **[OlColor](olcolor-enumeration-outlook.md)** constant that indicates the color of the font in the **[ViewFont](viewfont-object-outlook.md)** object. Read/write.
 
 
 ## Syntax

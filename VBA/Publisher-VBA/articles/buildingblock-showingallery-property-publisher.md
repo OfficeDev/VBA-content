@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # BuildingBlock.ShowInGallery Property (Publisher)
 
-A  **Boolean** value that specifies whether the building block should be displayed in the ribbon gallery it belongs to. Read/write.
+A **Boolean** value that specifies whether the building block should be displayed in the ribbon gallery it belongs to. Read/write.
 
 
 ## Syntax
 
  _expression_. **ShowInGallery**
 
- _expression_A variable that represents a  **BuildingBlock** object.
+ _expression_A variable that represents a **BuildingBlock** object.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartData Property (PowerPoint)
 
-Returns information about the linked or embedded data associated with a chart. Read-only  **[ChartData](chartdata-object-powerpoint.md)**.
+Returns information about the linked or embedded data associated with a chart. Read-only **[ChartData](chartdata-object-powerpoint.md)**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns information about the linked or embedded data associated with a chart. R
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-The following example uses the  **[Activate](chartdata-activate-method-powerpoint.md)** method to display the data associated with the first chart in the active document.
+The following example uses the **[Activate](chartdata-activate-method-powerpoint.md)** method to display the data associated with the first chart in the active document.
 
 
 

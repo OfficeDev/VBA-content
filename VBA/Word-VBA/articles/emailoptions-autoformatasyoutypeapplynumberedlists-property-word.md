@@ -37,7 +37,7 @@ This example causes lists to be automatically numbered as you type.
 Options.AutoFormatAsYouTypeApplyNumberedLists = True
 ```
 
-This example returns the status of the  **Automatic numbered lists** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
+This example returns the status of the **Automatic numbered lists** option on the **AutoFormat As You Type** tab in the **AutoCorrect** dialog box ( **Tools** menu).
 
 
 

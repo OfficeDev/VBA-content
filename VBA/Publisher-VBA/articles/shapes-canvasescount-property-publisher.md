@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Shapes.CanvasesCount Property (Publisher)
 
-A  **Long** that specifies the number of canvases in the **Shapes** collection. Read-only.
+A **Long** that specifies the number of canvases in the **Shapes** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **CanvasesCount**
 
- _expression_A variable that represents a  **[Shapes](shapes-object-publisher.md)** object.
+ _expression_A variable that represents a **[Shapes](shapes-object-publisher.md)** object.
 
 

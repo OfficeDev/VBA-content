@@ -25,7 +25,7 @@ Returns or sets the type of the view contained in the specified document window.
 
 ## Remarks
 
-The value of the  **ViewType** property can be one of these **PpViewType** constants.
+The value of the **ViewType** property can be one of these **PpViewType** constants.
 
 
 ||

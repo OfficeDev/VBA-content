@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SetShowTaskWarnings Method (Project)
 
-Sets the global  **Show Warnings** option for tasks.
+Sets the global **Show Warnings** option for tasks.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Sets the global  **Show Warnings** option for tasks.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Set_|Optional|**Variant**|If  **True**, turns on the **Show Warnings** option. The default value is **False**.|
+| _Set_|Optional|**Variant**|If **True**, turns on the **Show Warnings** option. The default value is **False**.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Sets the global  **Show Warnings** option for tasks.
 
 ## Remarks
 
-The  **Show Warnings** option is in the drop-down **Inspect Task** menu on the **TASK** ribbon. You can override the global setting for a specific task by selecting or clearing the **Show warning and suggestion indicators for this task** check box in the **Task Inspector** pane.
+The **Show Warnings** option is in the drop-down **Inspect Task** menu on the **TASK** ribbon. You can override the global setting for a specific task by selecting or clearing the **Show warning and suggestion indicators for this task** check box in the **Task Inspector** pane.
 
 

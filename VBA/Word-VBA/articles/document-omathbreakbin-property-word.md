@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.OMathBreakBin Property (Word)
 
-Returns or sets a  **[WdOMathBreakBin](wdomathbreakbin-enumeration-word.md)** constant that represents where Microsoft Word places binary operators when equations span two or more lines. Read/write.
+Returns or sets a **[WdOMathBreakBin](wdomathbreakbin-enumeration-word.md)** constant that represents where Microsoft Word places binary operators when equations span two or more lines. Read/write.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets a  **[WdOMathBreakBin](wdomathbreakbin-enumeration-word.md)** co
 
 When the equation breaks on a binary operator—for example, an addition, subtraction, or multiplication operator—there are three different placements of the operator: before the break, after the break, and repeated both before and after the break.
 
-When this property is set to  **wdOMathBreakBinRepeat** , use the **[OMathBreakSub](document-omathbreaksub-property-word.md)** property to specify how Word treats subtraction operators that appear before a line break.
+When this property is set to **wdOMathBreakBinRepeat** , use the **[OMathBreakSub](document-omathbreaksub-property-word.md)** property to specify how Word treats subtraction operators that appear before a line break.
 
 
 ## See also

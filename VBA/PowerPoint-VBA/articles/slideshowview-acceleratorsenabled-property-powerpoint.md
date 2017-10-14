@@ -32,7 +32,7 @@ MsoTriState
 
 If shortcut keys are disabled during a slide show, you can neither use the keyboard to navigate in the slide show nor press F1 to get a list of shortcut keys. You can still use the ESC key to exit the slide show.
 
-The value of the  **AcceleratorsEnabled** property can be one of these **MsoTriState** constants.
+The value of the **AcceleratorsEnabled** property can be one of these **MsoTriState** constants.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.Fonts Property (Word)
 
-Returns the  **WebPageFonts** collection representing the set of fonts that Microsoft Word uses when you open a Web page in Word.
+Returns the **WebPageFonts** collection representing the set of fonts that Microsoft Word uses when you open a Web page in Word.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the  **WebPageFonts** collection representing the set of fonts that Micr
 
 ## Remarks
 
-Word uses the fonts in the  **WebPageFonts** collection to display Web pages in Word when either there is no font information specified in the Web page or Word is unable to display the character set.
+Word uses the fonts in the **WebPageFonts** collection to display Web pages in Word when either there is no font information specified in the Web page or Word is unable to display the character set.
 
 
 ## Example

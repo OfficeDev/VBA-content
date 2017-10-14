@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-To change equations to professional format, use the  **[BuildUp](omaths-buildup-method-word.md)** method.
+To change equations to professional format, use the **[BuildUp](omaths-buildup-method-word.md)** method.
 
 
 ## See also

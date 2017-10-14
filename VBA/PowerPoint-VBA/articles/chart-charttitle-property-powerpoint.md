@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartTitle Property (PowerPoint)
 
-Returns the title of the specified chart. Read-only  **[ChartTitle](charttitle-object-powerpoint.md)**.
+Returns the title of the specified chart. Read-only **[ChartTitle](charttitle-object-powerpoint.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the title of the specified chart. Read-only  **[ChartTitle](charttitle-o
 
 ## Remarks
 
-The  **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](chart-hastitle-property-powerpoint.md)** property for the chart is **True**.
+The **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](chart-hastitle-property-powerpoint.md)** property for the chart is **True**.
 
 
 ## Example

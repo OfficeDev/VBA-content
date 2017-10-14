@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.BoundWidth Property (Publisher)
 
-Returns a  **Single** indicating the width, in points, of the bounding box for the specified text range. Read-only.
+Returns a **Single** indicating the width, in points, of the bounding box for the specified text range. Read-only.
 
 
 ## Syntax
 
  _expression_. **BoundWidth**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

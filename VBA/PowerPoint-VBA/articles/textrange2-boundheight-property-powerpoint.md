@@ -25,7 +25,7 @@ Single
 
 ## Remarks
 
-The text bounding box is not the same as the  **TextFrame** object. The **TextFrame** object represents the container in which the text can reside. The text bounding box represents the perimeter immediately surrounding the text.
+The text bounding box is not the same as the **TextFrame** object. The **TextFrame** object represents the container in which the text can reside. The text bounding box represents the perimeter immediately surrounding the text.
 
 
 ## Example

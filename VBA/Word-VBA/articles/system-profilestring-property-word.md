@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.ProfileString Property (Word)
 
-Returns or sets a value for an entry in the Windows registry under the following subkey: `HKEY_CURRENT_USER\Software\Microsoft\Office\version\Word`. Read/write  **String** .
+Returns or sets a value for an entry in the Windows registry under the following subkey: `HKEY_CURRENT_USER\Software\Microsoft\Office\version\Word`. Read/write **String** .
 
 
 ## Syntax

@@ -30,6 +30,6 @@ Inserts a new milestone task above the selected task row or cell in a Gantt char
 
 ## Remarks
 
-The milestone task has a duration of 0 days and is of the default mode (automatically or manually scheduled). The  **InsertMilestoneTask** method corresponds to the **Milestone** command in the **Insert** group of the **Task** tab on the Ribbon.
+The milestone task has a duration of 0 days and is of the default mode (automatically or manually scheduled). The **InsertMilestoneTask** method corresponds to the **Milestone** command in the **Insert** group of the **Task** tab on the Ribbon.
 
 

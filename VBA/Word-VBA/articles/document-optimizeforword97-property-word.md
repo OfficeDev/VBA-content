@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To optimize all new documents for Word 97 by default, use the  **[OptimizeForWord97byDefault](options-optimizeforword97bydefault-property-word.md)** property.
+To optimize all new documents for Word 97 by default, use the **[OptimizeForWord97byDefault](options-optimizeforword97bydefault-property-word.md)** property.
 
 
 ## Example

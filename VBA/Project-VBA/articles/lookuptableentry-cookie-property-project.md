@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LookupTableEntry.Cookie Property (Project)
 
-Represents a token for the lookup table structure. Read-only  **String**.
+Represents a token for the lookup table structure. Read-only **String**.
 
 
 ## Syntax

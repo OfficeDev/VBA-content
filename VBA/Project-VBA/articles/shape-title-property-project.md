@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Title Property (Project)
-Gets or sets the title of the shape. Read/write  **String**.
+Gets or sets the title of the shape. Read/write **String**.
 
 ## Syntax
 

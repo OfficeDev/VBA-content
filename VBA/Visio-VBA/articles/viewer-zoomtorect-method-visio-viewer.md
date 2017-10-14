@@ -15,9 +15,9 @@ Zooms to display a rectanglular section, specified by the parameters, of the dra
 
 ## Syntax
 
- _expression_. **ZoomToRect**( **_Left_**,  **_Top_**,  **_Right_**,  **_Bottom_**)
+ _expression_. **ZoomToRect**( **_Left_**, **_Top_**, **_Right_**, **_Bottom_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -38,9 +38,9 @@ Nothing
 
 ## Remarks
 
-The coordinate system for the  **ZoomToRect** method has its origin at the top left corner of the Visio Viewer window. Positive directions are to the right (x) and down (y). The units of measurement are pixels.
+The coordinate system for the **ZoomToRect** method has its origin at the top left corner of the Visio Viewer window. Positive directions are to the right (x) and down (y). The units of measurement are pixels.
 
-The  **ZoomToRect** method, in effect, crops a rectangular section of the drawing, specified by the parameters, and then displays that section in the entire Visio Viewer window. The parameters are a set of two pairs of coordinates, the first pair specifying the upper left corner of the section, and the second pair the lower right corner.
+The **ZoomToRect** method, in effect, crops a rectangular section of the drawing, specified by the parameters, and then displays that section in the entire Visio Viewer window. The parameters are a set of two pairs of coordinates, the first pair specifying the upper left corner of the section, and the second pair the lower right corner.
 
 
 ## Example

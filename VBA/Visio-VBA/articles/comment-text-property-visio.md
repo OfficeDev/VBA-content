@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.Text Property (Visio)
 
-Returns or sets the text of the specified comment. Read/write  **String**.
+Returns or sets the text of the specified comment. Read/write **String**.
 
 
 ## Syntax

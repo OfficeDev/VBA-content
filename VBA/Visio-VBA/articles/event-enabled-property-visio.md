@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Event.Enabled Property (Visio)
 
-Determines whether or not an  **Event** object is currently enabled. Read/write.
+Determines whether or not an **Event** object is currently enabled. Read/write.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-You can get and set the  **Enabled** property of an **Event** object. An **Event** object that is disabled does not perform its action when its event occurs.
+You can get and set the **Enabled** property of an **Event** object. An **Event** object that is disabled does not perform its action when its event occurs.
 
 

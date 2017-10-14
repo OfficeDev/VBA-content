@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.ActualCost Property (Project)
 
-Gets the current actual cost for the resource on the project. Read-only  **Variant**.
+Gets the current actual cost for the resource on the project. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets the current actual cost for the resource on the project. Read-only  **Varia
 
 ## Remarks
 
-The current actual cost for the resource is calculated from the resource cost rate tables and the actual work the resource has completed on assignments in the project. For programmatic access to the resource cost rate tables, use the  **[CostRateTables](resource-costratetables-property-project.md)** collection.
+The current actual cost for the resource is calculated from the resource cost rate tables and the actual work the resource has completed on assignments in the project. For programmatic access to the resource cost rate tables, use the **[CostRateTables](resource-costratetables-property-project.md)** collection.
 
-Actual costs are also available for tasks and assignments. For an example the uses the actual cost for tasks, see the  **[ActualCost](task-actualcost-property-project.md)** property for the **Task** object.
+Actual costs are also available for tasks and assignments. For an example the uses the actual cost for tasks, see the **[ActualCost](task-actualcost-property-project.md)** property for the **Task** object.
 
 

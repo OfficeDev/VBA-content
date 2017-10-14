@@ -25,14 +25,14 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To recheck the spelling in a range or document, set the  **SpellingChecked** property to **False** .
+To recheck the spelling in a range or document, set the **SpellingChecked** property to **False** .
 
-To see whether the range or document contains spelling errors, use the  **SpellingErrors** property.
+To see whether the range or document contains spelling errors, use the **SpellingErrors** property.
 
 
 ## Example
 
-This example sets the  **SpellingChecked** property to **False** for MyDocument.doc, and then it runs another spelling check on the document.
+This example sets the **SpellingChecked** property to **False** for MyDocument.doc, and then it runs another spelling check on the document.
 
 
 ```vb

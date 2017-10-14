@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisContainerFormatType Enumeration (Visio)
 
-Specifies constants that determine the container format to change; passed to the  **[Selection.SetContainerFormat](selection-setcontainerformat-method-visio.md)** method.
+Specifies constants that determine the container format to change; passed to the **[Selection.SetContainerFormat](selection-setcontainerformat-method-visio.md)** method.
 
 Version Added: Visio 2010 
 

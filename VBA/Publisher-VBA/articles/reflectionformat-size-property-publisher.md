@@ -18,7 +18,7 @@ Returns or sets the size of the reflection as a percentage of the reflected shap
 
  _expression_. **Size**
 
- _expression_A variable that represents a  **ReflectionFormat** object.
+ _expression_A variable that represents a **ReflectionFormat** object.
 
 
 ## Return value

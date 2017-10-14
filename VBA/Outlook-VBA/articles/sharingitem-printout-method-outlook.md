@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.PrintOut Method (Outlook)
 
-Prints the  **[SharingItem](sharingitem-object-outlook.md)** using all default settings.
+Prints the **[SharingItem](sharingitem-object-outlook.md)** using all default settings.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Prints the  **[SharingItem](sharingitem-object-outlook.md)** using all default s
 
 ## Remarks
 
-The  **PrintOut** method is the only Outlook method that can be used for printing.
+The **PrintOut** method is the only Outlook method that can be used for printing.
 
 
 ## See also

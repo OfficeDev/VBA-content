@@ -18,9 +18,9 @@ Represents a single axis in a chart.
 
 ## Remarks
 
-The  **Axis** object is a member of the **[Axes](http://msdn.microsoft.com/library/71f1e1fc-7086-a84e-1e05-6fa50597b49b%28Office.15%29.aspx)** collection.
+The **Axis** object is a member of the **[Axes](http://msdn.microsoft.com/library/71f1e1fc-7086-a84e-1e05-6fa50597b49b%28Office.15%29.aspx)** collection.
 
-Use  **Axes** ( _Type_, _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](http://msdn.microsoft.com/library/6eb891d5-3b69-e0a4-90e5-0b21afb1eeaa%28Office.15%29.aspx)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](http://msdn.microsoft.com/library/775041e9-c965-a9b6-b5fb-cdebe4fb71c0%28Office.15%29.aspx)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](http://msdn.microsoft.com/library/6f740a9e-2baa-5a84-ea51-6a39452e227e%28Office.15%29.aspx)** method.
+Use **Axes** ( _Type_, _AxisGroup_ ) where _Type_ is the axis type and _AxisGroup_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](http://msdn.microsoft.com/library/6eb891d5-3b69-e0a4-90e5-0b21afb1eeaa%28Office.15%29.aspx)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _AxisGroup_ can be one of the following **[XlAxisGroup](http://msdn.microsoft.com/library/775041e9-c965-a9b6-b5fb-cdebe4fb71c0%28Office.15%29.aspx)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](http://msdn.microsoft.com/library/6f740a9e-2baa-5a84-ea51-6a39452e227e%28Office.15%29.aspx)** method.
 
 
 ## Example

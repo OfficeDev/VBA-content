@@ -33,6 +33,6 @@ String
 
 
 
- **Note**  The  **DefaultSavePath** property is run-time only, and the property setting persists for the life of the current document, but not beyond.
+ **Note**  The **DefaultSavePath** property is run-time only, and the property setting persists for the life of the current document, but not beyond.
 
 

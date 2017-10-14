@@ -25,7 +25,7 @@ You can embed the Visio Drawing Control in Visual Basic 6.0, Visual C++ 6.0, Vis
 
 ## Security considerations
 
-The Visio Drawing Control is targeted for use in an intranet environment. The Visio Drawing Control does not support the  **IObjectSafety** interface. Before it is run in any version of Internet Explorer, the control warns the user that it is an unsafe file (unless the end user's browser security level is set to **Medium**,  **Medium-Low**, or  **Low**). 
+The Visio Drawing Control is targeted for use in an intranet environment. The Visio Drawing Control does not support the **IObjectSafety** interface. Before it is run in any version of Internet Explorer, the control warns the user that it is an unsafe file (unless the end user's browser security level is set to **Medium**, **Medium-Low**, or **Low**). 
 
 
 ## Run-time requirements and distribution of your application

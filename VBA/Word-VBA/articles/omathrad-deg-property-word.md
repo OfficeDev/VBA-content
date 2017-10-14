@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathRad.Deg Property (Word)
 
-Returns an  **[OMath](omath-object-word.md)** object that represents the degree for a radical. Read-only.
+Returns an **[OMath](omath-object-word.md)** object that represents the degree for a radical. Read-only.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # ChartGroup.BinWidthValue Property (PowerPoint)
 
-Specifies the number of points in each range. Read/write  **Double**.
+Specifies the number of points in each range. Read/write **Double**.
 
 
 ## Syntax

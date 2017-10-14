@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartBorder.Color Property (PowerPoint)
 
-Returns or sets the primary color of the object. Read/write  **Variant**.
+Returns or sets the primary color of the object. Read/write **Variant**.
 
 
 ## Syntax

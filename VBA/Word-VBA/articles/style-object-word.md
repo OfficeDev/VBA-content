@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Style Object (Word)
 
-Represents a single built-in or user-defined style. The  **Style** object includes style attributes (such as font, font style, and paragraph spacing) as properties of the **Style** object. The **Style** object is a member of the **Styles** collection. The **[Styles](styles-object-word.md)** collection includes all the styles in the specified document.
+Represents a single built-in or user-defined style. The **Style** object includes style attributes (such as font, font style, and paragraph spacing) as properties of the **Style** object. The **Style** object is a member of the **Styles** collection. The **[Styles](styles-object-word.md)** collection includes all the styles in the specified document.
 
 
 ## Remarks
 
-Use  **Styles** (Index), where Index is the style name, a **WdBuiltinStyle** constant or index number, to return a single **Style** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization. The following example modifies the font name of the user-defined style named "Color" in the active document.
+Use **Styles** (Index), where Index is the style name, a **WdBuiltinStyle** constant or index number, to return a single **Style** object. You must exactly match the spelling and spacing of the style name, but not necessarily its capitalization. The following example modifies the font name of the user-defined style named "Color" in the active document.
 
 
 ```vb
@@ -45,7 +45,7 @@ MsgBox "Base style= " _
  &; "Style name= " &; ActiveDocument.Styles(1).NameLocal
 ```
 
-To apply a style to a range, paragraph, or multiple paragraphs, set the  **Style** property to a user-defined or built-in style name. The following example applies the Normal style to the first four paragraphs in the active document.
+To apply a style to a range, paragraph, or multiple paragraphs, set the **Style** property to a user-defined or built-in style name. The following example applies the Normal style to the first four paragraphs in the active document.
 
 
 
@@ -78,7 +78,7 @@ myStyle.Font.Bold = True
 Selection.Range.Style = "Bolded"
 ```
 
-Use the  **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template. Use the **OpenAsDocument** method to open a template as a document so that you can modify the template styles.
+Use the **OrganizerCopy** method to copy styles between documents and templates. Use the **UpdateStyles** method to update the styles in the active document to match the style definitions in the attached template. Use the **OpenAsDocument** method to open a template as a document so that you can modify the template styles.
 
 
 ## See also

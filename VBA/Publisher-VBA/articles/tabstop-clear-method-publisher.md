@@ -20,6 +20,6 @@ Removes the specified custom tab stop.
 
  _expression_. **Clear**
 
- _expression_A variable that represents a  **TabStop** object.
+ _expression_A variable that represents a **TabStop** object.
 
 

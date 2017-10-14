@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.JustificationMode Property (Word)
 
-Returns or sets the character spacing adjustment for the specified template. Read/write  **[WdJustificationMode](wdjustificationmode-enumeration-word.md)** .
+Returns or sets the character spacing adjustment for the specified template. Read/write **[WdJustificationMode](wdjustificationmode-enumeration-word.md)** .
 
 
 ## Syntax

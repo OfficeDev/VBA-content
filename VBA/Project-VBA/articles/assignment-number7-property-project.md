@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Number7 Property (Project)
 
-Gets or sets a Number local custom field for an assignment. Read/write  **Double**.
+Gets or sets a Number local custom field for an assignment. Read/write **Double**.
 
 
 ## Syntax

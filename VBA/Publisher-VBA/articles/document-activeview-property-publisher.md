@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Document.ActiveView Property (Publisher)
 
-Returns a  **[View](view-object-publisher.md)** object representing the view attributes for the specified document. Read-only.
+Returns a **[View](view-object-publisher.md)** object representing the view attributes for the specified document. Read-only.
 
 
 ## Syntax
 
  _expression_. **ActiveView**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

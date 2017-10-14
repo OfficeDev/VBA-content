@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # VisWinTypes Enumeration (Visio)
 
-Type and ID codes returned by  **Window.Type** , **Window.SubType** , and **Window.ID** .
+Type and ID codes returned by **Window.Type** , **Window.SubType** , and **Window.ID** .
 
 
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |visAnchorBarAddon|10|Window created by an add-on that has tabs at the bottom when merged (floating, anchored, or docked window)|
-|visAnchorBarBuiltIn|6|Visio built-in window that has tabs at the bottom when merged?presently, the  **Custom Properties, Size &; Position, Drawing Explorer, Master Explorer, Pan &; Zoom and Validation Issues** windows (floating, anchored, or docked windows).|
+|visAnchorBarBuiltIn|6|Visio built-in window that has tabs at the bottom when merged?presently, the **Custom Properties, Size &; Position, Drawing Explorer, Master Explorer, Pan &; Zoom and Validation Issues** windows (floating, anchored, or docked windows).|
 |visApplication|5|Microsoft Visio application window.|
 |visDockedStencilAddon|11|An add-on window that has docked stencil behavior.|
 |visDockedStencilBuiltIn|7|Stencil window docked in a drawing window.|
@@ -33,15 +33,15 @@ Type and ID codes returned by  **Window.Type** , **Window.SubType** , and **Wind
 |visSheet|3|ShapeSheet window (MDI frame window).|
 ||2|Stencil window (MDI frame window).|
 |visStencil|9|Add-on window that has stencil window behavior.|
-|visStencilAddon|1658|When  **Window.Type** is **visAnchorBarBuiltIn** , **Custom Properties window** .|
-|visWinIDCustProp|1721|When  **Window.Type** is **visAnchorBarBuiltIn** , **Drawing Explorer** window.|
-|visWinIDDrawingExplorer|2044|When  **Window.Type** is **visAnchorBarBuiltIn** , **External Data window** .|
-|visWinIDExternalData|1781|When  **Window.Type** is **visAnchorBarBuiltIn** , ShapeSheet **Formula Tracing** window.|
-|visWinIDFormulaTracing|1916|When  **Window.Type** is **visAnchorBarBuiltIn** , **Master Explorer** window in master editing window.|
-|visWinIDMasterExplorer|1653|When  **Window.Type** is **visAnchorBarBuiltIn** , **Pan &; Zoom** window.|
-|visWinIDPanZoom|1669|When  **Window.Type** is **visAnchorBarBuiltIn** , **Shapes** window.|
-|visWinIDSizePos|1670|When  **Window.Type** is **visAnchorBarBuiltIn** , **Size &; Position** window.|
-|visWinIDStencilExplorer|1796|When  **Window.Type** is **visAnchorBarBuiltIn** , **Drawing Explorer** window in MDI stencil window.|
-|visWinIDValidationIssues|2263|When  **Window.Type** is **visAnchorBarBuiltIn** , **Validation Issues** window.|
+|visStencilAddon|1658|When **Window.Type** is **visAnchorBarBuiltIn** , **Custom Properties window** .|
+|visWinIDCustProp|1721|When **Window.Type** is **visAnchorBarBuiltIn** , **Drawing Explorer** window.|
+|visWinIDDrawingExplorer|2044|When **Window.Type** is **visAnchorBarBuiltIn** , **External Data window** .|
+|visWinIDExternalData|1781|When **Window.Type** is **visAnchorBarBuiltIn** , ShapeSheet **Formula Tracing** window.|
+|visWinIDFormulaTracing|1916|When **Window.Type** is **visAnchorBarBuiltIn** , **Master Explorer** window in master editing window.|
+|visWinIDMasterExplorer|1653|When **Window.Type** is **visAnchorBarBuiltIn** , **Pan &; Zoom** window.|
+|visWinIDPanZoom|1669|When **Window.Type** is **visAnchorBarBuiltIn** , **Shapes** window.|
+|visWinIDSizePos|1670|When **Window.Type** is **visAnchorBarBuiltIn** , **Size &; Position** window.|
+|visWinIDStencilExplorer|1796|When **Window.Type** is **visAnchorBarBuiltIn** , **Drawing Explorer** window in MDI stencil window.|
+|visWinIDValidationIssues|2263|When **Window.Type** is **visAnchorBarBuiltIn** , **Validation Issues** window.|
 |visWinOther|0|Unknown window type.|
 

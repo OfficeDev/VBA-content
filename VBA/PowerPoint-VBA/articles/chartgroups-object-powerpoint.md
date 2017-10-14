@@ -36,7 +36,7 @@ MsgBox ActiveDocument.InlineShapes(1).Chart._
     ChartGroups.Count
 ```
 
-The following example adds drop lines to chart group 1 on chart sheet 1. Use  **ChartGroups** ( _index_ ), where _Index_ is the chart group index number, to return a single **ChartGroup** object.
+The following example adds drop lines to chart group 1 on chart sheet 1. Use **ChartGroups** ( _index_ ), where _Index_ is the chart group index number, to return a single **ChartGroup** object.
 
 
 

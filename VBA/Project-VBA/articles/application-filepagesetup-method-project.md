@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FilePageSetup Method (Project)
 
-Displays the  **Page Setup** dialog box. Equivalent to clicking **Page Setup** on the **File** menu.
+Displays the **Page Setup** dialog box. Equivalent to clicking **Page Setup** on the **File** menu.
 
 
 ## Syntax

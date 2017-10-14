@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestDeclineItem.OutlookInternalVersion Property (Outlook)
 
-Returns a  **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
+Returns a **Long** representing the build number of the Outlook application for an Outlook item. Read-only.
 
 
 ## Syntax

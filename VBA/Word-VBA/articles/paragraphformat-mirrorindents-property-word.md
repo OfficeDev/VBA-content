@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.MirrorIndents Property (Word)
 
-Returns or sets a  **Long** that represents whether left and right indents are the same width. Can be **True** , **False** , or **wdUndefined** . Read/write.
+Returns or sets a **Long** that represents whether left and right indents are the same width. Can be **True** , **False** , or **wdUndefined** . Read/write.
 
 
 ## Syntax

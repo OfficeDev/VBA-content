@@ -29,7 +29,7 @@ Shows or hides the critical tasks style on the active Gantt chart.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Show_|Optional|**Boolean**|If  **False**, hides the critical path style. If **True**, shows the critical task style.|
+| _Show_|Optional|**Boolean**|If **False**, hides the critical path style. If **True**, shows the critical task style.|
 
 ### Return Value
 
@@ -38,6 +38,6 @@ Shows or hides the critical tasks style on the active Gantt chart.
 
 ## Remarks
 
-On the Ribbon, the  **GanttBarStyleCritical** method corresponds to the **Critical Tasks** check box in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
+On the Ribbon, the **GanttBarStyleCritical** method corresponds to the **Critical Tasks** check box in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Send Event (Outlook)
 
-Occurs when the user selects the  **Send** action for an item, or when the **[Send](sharingitem-send-method-outlook.md)** method is called for the item, which is an instance of the parent object.
+Occurs when the user selects the **Send** action for an item, or when the **[Send](sharingitem-send-method-outlook.md)** method is called for the item, which is an instance of the parent object.
 
 
 ## Syntax
@@ -26,11 +26,11 @@ Occurs when the user selects the  **Send** action for an item, or when the **[Se
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|(Not used in VBScript).  **False** when the event occurs. If the event procedure sets this argument to **True** , the send operation is not completed and the inspector is left open.|
+| _Cancel_|Required| **Boolean**|(Not used in VBScript). **False** when the event occurs. If the event procedure sets this argument to **True** , the send operation is not completed and the inspector is left open.|
 
 ## Remarks
 
-In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to  **False** , the item is not sent.
+In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return value of this function to **False** , the item is not sent.
 
 
 ## See also

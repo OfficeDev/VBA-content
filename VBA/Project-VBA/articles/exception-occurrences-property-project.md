@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Exception.Occurrences Property (Project)
 
-Gets the number of occurrences of the calendar exception. Read/write  **Long**.
+Gets the number of occurrences of the calendar exception. Read/write **Long**.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ MsoAnimAdditive
 
 ## Remarks
 
-The value of the  **Additive** property can be one of these **MsoAnimAdditive** constants.
+The value of the **Additive** property can be one of these **MsoAnimAdditive** constants.
 
 
 
@@ -38,7 +38,7 @@ The value of the  **Additive** property can be one of these **MsoAnimAdditive** 
 |:-----|:-----|
 |**msoAnimAdditiveAddBase**|Does not combine current animation with other animations. The default.|
 |**msoAnimAdditiveAddSum**| Combines the current animation with other running animations.|
-Combining animation behaviors is particularly useful for rotation effects. For example, if the current animation changes rotation and another animation is also changing rotation, if this property is set to  **msoAnimAdditiveAddSum**, Microsoft PowerPoint adds together the rotations from both the animations.
+Combining animation behaviors is particularly useful for rotation effects. For example, if the current animation changes rotation and another animation is also changing rotation, if this property is set to **msoAnimAdditiveAddSum**, Microsoft PowerPoint adds together the rotations from both the animations.
 
 
 ## Example

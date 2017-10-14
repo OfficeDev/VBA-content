@@ -45,14 +45,14 @@ Nothing
 
 ## Remarks
 
-Use the  **PointAndDerivatives** method of the **Curve** object to obtain the coordinates of a point within the curve's parameter domain and its first and second derivatives.
+Use the **PointAndDerivatives** method of the **Curve** object to obtain the coordinates of a point within the curve's parameter domain and its first and second derivatives.
 
-A  **Curve** object is described in terms of its parameter domain, which is the range [Start(),End()]. The **PointAndDerivatives** method can be used to extrapolate the curve's path outside [Start(),End()].
+A **Curve** object is described in terms of its parameter domain, which is the range [Start(),End()]. The **PointAndDerivatives** method can be used to extrapolate the curve's path outside [Start(),End()].
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro draws an oval on the document's active page and then retrieves it and iterates through its  **Paths** collection and each **Path** object to display the coordinates of various points along the curve. Because the shape drawn is an oval, it contains only one path and only one **Curve** object.
+This Microsoft Visual Basic for Applications (VBA) macro draws an oval on the document's active page and then retrieves it and iterates through its **Paths** collection and each **Path** object to display the coordinates of various points along the curve. Because the shape drawn is an oval, it contains only one path and only one **Curve** object.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.TeamTask Property (Outlook)
 
-Returns a  **Boolean** that indicates **True** if the task is a team task. Read/write.
+Returns a **Boolean** that indicates **True** if the task is a team task. Read/write.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.ShowIgnoredIssues Property (Visio)
 
-Determines whether ignored validation issues appear in the  **Issues** window. Read/write.
+Determines whether ignored validation issues appear in the **Issues** window. Read/write.
 
 
 ## Syntax

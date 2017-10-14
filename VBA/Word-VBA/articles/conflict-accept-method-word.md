@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-In a conflict, a user can choose either to keep or to reject the changes they have made to the content where the conflict exists. The  **Accept** method keeps the changes that the user has made.
+In a conflict, a user can choose either to keep or to reject the changes they have made to the content where the conflict exists. The **Accept** method keeps the changes that the user has made.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SyncObject.SyncStart Event (Outlook)
 
-Occurs when Microsoft Outlook begins synchronizing a user's folders using the specified  **Send\Receive** group.
+Occurs when Microsoft Outlook begins synchronizing a user's folders using the specified **Send\Receive** group.
 
 
 ## Syntax

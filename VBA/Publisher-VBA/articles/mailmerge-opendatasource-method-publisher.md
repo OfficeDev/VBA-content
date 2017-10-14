@@ -18,9 +18,9 @@ Attaches a data source to the specified publication, which becomes a main public
 
 ## Syntax
 
- _expression_. **OpenDataSource**( **_bstrDataSource_**,  **_bstrConnect_**,  **_bstrTable_**,  **_fOpenExclusive_**,  **_fNeverPrompt_**)
+ _expression_. **OpenDataSource**( **_bstrDataSource_**, **_bstrConnect_**, **_bstrTable_**, **_fOpenExclusive_**, **_fNeverPrompt_**)
 
- _expression_A variable that represents a  **MailMerge** object.
+ _expression_A variable that represents a **MailMerge** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Attaches a data source to the specified publication, which becomes a main public
 |bstrConnect|Optional| **String**|A connection string.|
 |bstrTable|Optional| **String**|The name of the table in the data source.|
 |fOpenExclusive|Optional| **Long**| **True** to deny others access to the database. **False** allows others read/write permission to the database. The default value is **False**.|
-|fNeverPrompt|Optional| **Long**| **Long**.  **True** never prompts when opening the data source. **False** displays the Data Link Properties dialog box. The default value is **False**.|
+|fNeverPrompt|Optional| **Long**| **Long**. **True** never prompts when opening the data source. **False** displays the Data Link Properties dialog box. The default value is **False**.|
 
 ## Remarks
 

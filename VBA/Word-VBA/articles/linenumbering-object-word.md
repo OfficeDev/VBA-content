@@ -18,7 +18,7 @@ Represents line numbers in the left margin or to the left of each newspaper-styl
 
 ## Remarks
 
-Use the  **LineNumbering** property to return the **LineNumbering** object. The following example applies line numbering to the text in the first section of the active document.
+Use the **LineNumbering** property to return the **LineNumbering** object. The following example applies line numbering to the text in the first section of the active document.
 
 
 ```vb

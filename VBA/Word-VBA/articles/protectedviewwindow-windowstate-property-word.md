@@ -25,7 +25,7 @@ Returns or sets the state of the specified protected view window. Read/write [Wd
 
 ## Remarks
 
-The  **wdWindowStateNormal** constant indicates a window that is not maximized or minimized. The state of an inactive window cannot be set. Use the[Activate](protectedviewwindow-activate-method-word.md) method to activate a window prior to setting the window state.
+The **wdWindowStateNormal** constant indicates a window that is not maximized or minimized. The state of an inactive window cannot be set. Use the[Activate](protectedviewwindow-activate-method-word.md) method to activate a window prior to setting the window state.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.RequestedFolder Property (Outlook)
 
-Returns an  **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** constant that represents the type of default folder to which access is requested by a sharing request. Read-only.
+Returns an **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** constant that represents the type of default folder to which access is requested by a sharing request. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[OlDefaultFolders](oldefaultfolders-enumeration-outlook.md)** cons
 
 ## Remarks
 
-A  **[SharingItem](sharingitem-object-outlook.md)** object that represents a sharing request can only request access to a default folder.
+A **[SharingItem](sharingitem-object-outlook.md)** object that represents a sharing request can only request access to a default folder.
 
 
 ## See also

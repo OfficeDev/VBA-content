@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Documents Property (Word)
 
-Returns a  **[Documents](documents-object-word.md)** collection that represents all the open documents. Read-only.
+Returns a **[Documents](documents-object-word.md)** collection that represents all the open documents. Read-only.
 
 
 ## Syntax

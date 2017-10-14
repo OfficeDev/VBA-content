@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.MajorityParagraphFormat Property (Publisher)
 
-Returns a  **[ParagraphFormat](paragraphformat-object-publisher.md)** object that represents the paragraph formatting applied to most of the paragraphs in a text range.
+Returns a **[ParagraphFormat](paragraphformat-object-publisher.md)** object that represents the paragraph formatting applied to most of the paragraphs in a text range.
 
 
 ## Syntax
 
  _expression_. **MajorityParagraphFormat**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value

@@ -33,7 +33,7 @@ Changes the vertical offset of the shadow by the specified number of points.
 
 ## Remarks
 
-Use the  **[OffsetY](shadowformat-offsety-property-powerpoint.md)** property to set the absolute vertical shadow offset.
+Use the **[OffsetY](shadowformat-offsety-property-powerpoint.md)** property to set the absolute vertical shadow offset.
 
 
 ## Example

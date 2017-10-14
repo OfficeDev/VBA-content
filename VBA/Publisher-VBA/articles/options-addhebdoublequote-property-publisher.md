@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.AddHebDoubleQuote Property (Publisher)
 
- **True** for Microsoft Publisher to display double quotes for Hebrew alphabet numbering. Default is **False**. Read/write  **Boolean**.
+ **True** for Microsoft Publisher to display double quotes for Hebrew alphabet numbering. Default is **False**. Read/write **Boolean**.
 
 
 ## Syntax
 
  _expression_. **AddHebDoubleQuote**
 
- _expression_A variable that represents an  **Options** object.
+ _expression_A variable that represents an **Options** object.
 
 
 ### Return Value
@@ -34,9 +34,9 @@ This property is accessible only if Hebrew is enabled for Microsoft Office on yo
 
 This property applies only to Hebrew alphabet numbering.
 
-As with all the properties of the  **[Options](options-object-publisher.md)** object, the current value of the **AddHebDoubleQuote** property becomes the default setting applied to all new publications.
+As with all the properties of the **[Options](options-object-publisher.md)** object, the current value of the **AddHebDoubleQuote** property becomes the default setting applied to all new publications.
 
-This property corresponds to the  **Add double quotes for Hebrew alphabet numbering** check box on the **Bullets and Numbering** dialog box.
+This property corresponds to the **Add double quotes for Hebrew alphabet numbering** check box on the **Bullets and Numbering** dialog box.
 
 
 ## Example

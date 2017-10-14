@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # ReportTable.GetCellText Method (Project)
-Returns the text value of the specified cell in a  **ReportTable** object.
+Returns the text value of the specified cell in a **ReportTable** object.
 
 ## Syntax
 
@@ -39,23 +39,23 @@ The text value of the specified table cell.
 
 ## Remarks
 
-The returned string ends with a newline character ( `chr(10)`, which is equivalent to the  **vbCrLf** character).
+The returned string ends with a newline character ( `chr(10)`, which is equivalent to the **vbCrLf** character).
 
 
 ## Example
 
-The  **GetTableText** example finds all of the tables on the active report, gets the value of each cell in a table, removes the last character of each value (the newline character), and then prints the table cell values to the Immediate window in the VBE. To use the **GetTableText** macro, create a project with values such as the example that is specified in the[Chart Object](chart-object-project.md) topic, and then do the following steps (see Figure 1):
+The **GetTableText** example finds all of the tables on the active report, gets the value of each cell in a table, removes the last character of each value (the newline character), and then prints the table cell values to the Immediate window in the VBE. To use the **GetTableText** macro, create a project with values such as the example that is specified in the[Chart Object](chart-object-project.md) topic, and then do the following steps (see Figure 1):
 
 
-1. Manually create a report. For example, on the  **PROJECT** tab of the ribbon, in the **Reports** drop-down list, choose **More Reports**. In the  **Reports** dialog box, choose **New** in the left pane, choose **Blank** in the right pane, and then choose **Select**. In the  **Report Name** dialog box, typeReport 1.
+1. Manually create a report. For example, on the **PROJECT** tab of the ribbon, in the **Reports** drop-down list, choose **More Reports**. In the **Reports** dialog box, choose **New** in the left pane, choose **Blank** in the right pane, and then choose **Select**. In the **Report Name** dialog box, typeReport 1.
     
-2. Add two tables to the report. Under  **REPORT TOOLS** on the **DESIGN** tab of the ribbon, use the **Table** command in the **Insert** group.
+2. Add two tables to the report. Under **REPORT TOOLS** on the **DESIGN** tab of the ribbon, use the **Table** command in the **Insert** group.
     
-3. Keep the default values in the first table, which includes the  **Name**,  **Start**,  **Finish**, and  **% Complete** fields of the project summary task. Select the first table to display the **Field List** task pane, and then select **Actual Cost** and **Remaining Cost**.
+3. Keep the default values in the first table, which includes the **Name**, **Start**, **Finish**, and **% Complete** fields of the project summary task. Select the first table to display the **Field List** task pane, and then select **Actual Cost** and **Remaining Cost**.
     
-4. Select the second table. In the  **Field List** task pane, change the **Filter** to **All Tasks**, and then select  **Actual Cost** and **Remaining Cost**. In the table, select and delete the  **Start** column and the **Finish** column.
+4. Select the second table. In the **Field List** task pane, change the **Filter** to **All Tasks**, and then select **Actual Cost** and **Remaining Cost**. In the table, select and delete the **Start** column and the **Finish** column.
     
-5. Add two text boxes to the report, by using the  **Text Box** control in the **Insert** group on the ribbon. For example, edit the first text box to showProject summary task, and edit the second text box to show Task information.
+5. Add two text boxes to the report, by using the **Text Box** control in the **Insert** group on the ribbon. For example, edit the first text box to showProject summary task, and edit the second text box to show Task information.
     
 
 **Figure 1. The sample report contains two tables and three text boxes**
@@ -100,7 +100,7 @@ Sub GetTableText()
 End Sub
 ```
 
-When you run the  **GetTableText** macro, the Immediate window in the VBE shows the following text. The top five lines show how shape objects are named by default and how ID values are created.
+When you run the **GetTableText** macro, the Immediate window in the VBE shows the following text. The top five lines show how shape objects are named by default and how ID values are created.
 
 
 

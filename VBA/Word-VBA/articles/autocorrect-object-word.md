@@ -18,7 +18,7 @@ Represents the AutoCorrect functionality in Word.
 
 ## Remarks
 
-Use the  **[AutoCorrect](application-autocorrect-property-word.md)** property to return the **AutoCorrect** object. The following example enables the AutoCorrect options and creates an AutoCorrect entry.
+Use the **[AutoCorrect](application-autocorrect-property-word.md)** property to return the **AutoCorrect** object. The following example enables the AutoCorrect options and creates an AutoCorrect entry.
 
 
 ```vb
@@ -29,7 +29,7 @@ With AutoCorrect
 End With
 ```
 
-The  **[Entries](autocorrect-entries-property-word.md)** property returns the **[Entries](autocorrect-entries-property-word.md)** object that represents the AutoCorrect entries in the **AutoCorrect** dialog box.
+The **[Entries](autocorrect-entries-property-word.md)** property returns the **[Entries](autocorrect-entries-property-word.md)** object that represents the AutoCorrect entries in the **AutoCorrect** dialog box.
 
 
 ## See also

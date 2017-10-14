@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Baseline2FixedCost Property (Project)
 
-Gets or sets the baseline2 fixed cost of any nonresource expense for a  **Task**. Read/write **Variant**.
+Gets or sets the baseline2 fixed cost of any nonresource expense for a **Task**. Read/write **Variant**.
 
 
 ## Syntax

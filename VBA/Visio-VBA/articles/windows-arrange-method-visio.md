@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.Arrange Method (Visio)
 
-Arranges the windows in a  **Windows** collection.
+Arranges the windows in a **Windows** collection.
 
 
 ## Syntax
@@ -38,11 +38,11 @@ Nothing
 
 ## Remarks
 
-Using the  **Arrange** method is equivalent to clicking **Arrange All** in the **Window** group on the **View** tab. The active window remains active.
+Using the **Arrange** method is equivalent to clicking **Arrange All** in the **Window** group on the **View** tab. The active window remains active.
 
 Visio considers windows from top to bottom and then from left to right. You can influence which windows will end up topmost when tiling horizontally (or leftmost when tiling vertically) by prearranging windows.
 
-The following constants declared by the Visio type library are valid values for  _nArrangeFlags_. These constants are also declared by the Visio type library in  **VisWindowArrange** .
+The following constants declared by the Visio type library are valid values for  _nArrangeFlags_. These constants are also declared by the Visio type library in **VisWindowArrange** .
 
 
 

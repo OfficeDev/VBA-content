@@ -35,7 +35,7 @@ nothing
 
 ## Remarks
 
-The  **Change** event does not occur for actions such as switching views, applying filters, changing formatting, and so on.
+The **Change** event does not occur for actions such as switching views, applying filters, changing formatting, and so on.
 
 Project events do not occur when the project is embedded in another document or application. 
 
@@ -45,7 +45,7 @@ Project events do not occur when the project is embedded in another document or 
  The following example shows how the **ProjectTaskNew** event can trap project-level events. In this case, the **App_ProjectTaskNew** event handler sets the global **ProjTaskNew** variable that the **Change** event handler uses. You can use similar code with the **[ProjectResourceNew](application-projectresourcenew-event-project.md)** and **[ProjectAssignmentNew](application-projectassignmentnew-event-project.md)** events.
 
 
-1. Create a new class module named  **EventClassModule**, and then insert the following code:
+1. Create a new class module named **EventClassModule**, and then insert the following code:
     
   ```
   Option Explicit 
@@ -107,7 +107,7 @@ End Sub
 
     
     
-3. Run the  **Initialize_App** procedure to start listening to the events.
+3. Run the **Initialize_App** procedure to start listening to the events.
     
 4. Create a new task. The event handler shows a message box every time a new task is added.
     

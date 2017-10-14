@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark.Range Property (Word)
 
-Returns a  **[Range](range-object-word.md)** object that represents the portion of a document that's contained in the specified object.
+Returns a **[Range](range-object-word.md)** object that represents the portion of a document that's contained in the specified object.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Range](range-object-word.md)** object that represents the portion 
 
 ## Remarks
 
-For information about returning a range from a document or returning a shape range from a collection of shapes, see the  **Range** method.
+For information about returning a range from a document or returning a shape range from a collection of shapes, see the **Range** method.
 
 
 ## See also

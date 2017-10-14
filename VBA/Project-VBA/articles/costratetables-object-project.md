@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  
 
  
-Use the  **[CostRateTables](resource-costratetables-property-project.md)** property to return a **CostRateTables** collection. The following example lists the standard pay rates for all the cost rate tables of the resource in the active cell.
+Use the **[CostRateTables](resource-costratetables-property-project.md)** property to return a **CostRateTables** collection. The following example lists the standard pay rates for all the cost rate tables of the resource in the active cell.
  
 
  

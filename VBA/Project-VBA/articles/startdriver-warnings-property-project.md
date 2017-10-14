@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # StartDriver.Warnings Property (Project)
 
-Gets a combination of  **[PjTaskWarnings](pjtaskwarnings-enumeration-project.md)** values that indicate whether there are problems for a specified task. Read-only **Long**.
+Gets a combination of **[PjTaskWarnings](pjtaskwarnings-enumeration-project.md)** values that indicate whether there are problems for a specified task. Read-only **Long**.
 
 
 ## Syntax
@@ -22,20 +22,20 @@ Gets a combination of  **[PjTaskWarnings](pjtaskwarnings-enumeration-project.md)
 
 ## Remarks
 
-If there are no warnings for a task, the value of  **Warnings** is 0. Because the value of **pjTaskWarningResourceBeyondMaxUnit** is 64 and the value of **pjTaskWarningResourceOverallocated** is 128, if **Warnings** is 192, the task has both of the problems.
+If there are no warnings for a task, the value of **Warnings** is 0. Because the value of **pjTaskWarningResourceBeyondMaxUnit** is 64 and the value of **pjTaskWarningResourceOverallocated** is 128, if **Warnings** is 192, the task has both of the problems.
 
 
- **Note**  The  **PjTaskWarnings** enumeration can be used with both the **[Suggestions](startdriver-suggestions-property-project.md)** property and the **Warnings** property.
+ **Note**  The **PjTaskWarnings** enumeration can be used with both the **[Suggestions](startdriver-suggestions-property-project.md)** property and the **Warnings** property.
 
 
 ## Example
 
-In the following example, if the value of the  **Warnings** property for task 5 is 128, the message box shows **The resource is overallocated.**. If the value is 68, the message box shows:
+In the following example, if the value of the **Warnings** property for task 5 is 128, the message box shows **The resource is overallocated.**. If the value is 68, the message box shows:
 
 
--  **The assignment is more than the maximum resource units available.**
+- **The assignment is more than the maximum resource units available.**
     
--  **The shadow task finishes earlier because of a predecessor link.**
+- **The shadow task finishes earlier because of a predecessor link.**
     
 
 

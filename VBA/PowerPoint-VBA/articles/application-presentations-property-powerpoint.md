@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Presentations Property (PowerPoint)
 
-Returns a  **[Presentations](presentations-object-powerpoint.md)** collection that represents all open presentations. Read-only.
+Returns a **[Presentations](presentations-object-powerpoint.md)** collection that represents all open presentations. Read-only.
 
 
 ## Syntax
@@ -32,10 +32,10 @@ Presentations
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](return-objects-from-collections.md).
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.PowerPoint** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.PowerPoint._Application.Presentations**
+- **Microsoft.Office.Interop.PowerPoint._Application.Presentations**
     
 
 ## Example

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting this property to  **True** automatically adds page numbers to a section.
+Setting this property to **True** automatically adds page numbers to a section.
 
 
 ## Example

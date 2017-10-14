@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.HighlightColorIndex Property (Word)
 
-Returns or sets the highlight color for the specified range. Read/write  **WdColorIndex** .
+Returns or sets the highlight color for the specified range. Read/write **WdColorIndex** .
 
 
 ## Syntax

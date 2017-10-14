@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.TableFields Property (Project)
 
-Gets a  **[TableFields](tablefield-object-project.md)** collection representing the fields in the table. Read-only **TableFields**.
+Gets a **[TableFields](tablefield-object-project.md)** collection representing the fields in the table. Read-only **TableFields**.
 
 
 ## Syntax

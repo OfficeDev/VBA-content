@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Top Property (PowerPoint)
 
-Returns or sets a  **Single** that represents the distance from the top edge of the topmost shape in the shape range to the top edge of the document. Read/write.
+Returns or sets a **Single** that represents the distance from the top edge of the topmost shape in the shape range to the top edge of the document. Read/write.
 
 
 ## Syntax

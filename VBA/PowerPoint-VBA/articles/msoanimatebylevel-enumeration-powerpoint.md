@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # MsoAnimateByLevel Enumeration (PowerPoint)
 
-Specifies for charts, diagrams, or text, the level to which the animation effect will be applied. The default value is  **msoAnimationLevelNone**.
+Specifies for charts, diagrams, or text, the level to which the animation effect will be applied. The default value is **msoAnimationLevelNone**.
 
 
 

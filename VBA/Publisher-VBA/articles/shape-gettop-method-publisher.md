@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.GetTop Method (Publisher)
 
-Returns the distance of the shape's or shape range's top edge from the top edge of the leftmost page in the current view as a  **Single** in the specified units.
+Returns the distance of the shape's or shape range's top edge from the top edge of the leftmost page in the current view as a **Single** in the specified units.
 
 
 ## Syntax
 
  _expression_. **GetTop**( **_Unit_**)
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Parameters
@@ -38,9 +38,9 @@ Single
 
 ## Remarks
 
-The Unit parameter can be one of the  **[PbUnitType](pbunittype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The Unit parameter can be one of the **[PbUnitType](pbunittype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-Use the  **[GetLeft](shape-getleft-method-publisher.md)** method to return the distance of a shape's or shape range's left edge from the left edge of the leftmost page in the current view.
+Use the **[GetLeft](shape-getleft-method-publisher.md)** method to return the distance of a shape's or shape range's left edge from the left edge of the leftmost page in the current view.
 
 
 ## Example

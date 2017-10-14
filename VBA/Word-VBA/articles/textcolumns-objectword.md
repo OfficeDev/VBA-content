@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # TextColumns Object (Word)
 
-A collection of  **TextColumn** objects that represent all the columns of text in a document or a section of a document.
+A collection of **TextColumn** objects that represent all the columns of text in a document or a section of a document.
 
 
 ## Remarks
 
-Use the  **TextColumns** property to return the **TextColumns** collection. The following example formats the columns in the first section in the active document to be evenly spaced, with a line between the columns.
+Use the **TextColumns** property to return the **TextColumns** collection. The following example formats the columns in the first section in the active document to be evenly spaced, with a line between the columns.
 
 
 ```vb
@@ -26,7 +26,7 @@ With ActiveDocument.Sections(1).PageSetup.TextColumns
 End With
 ```
 
-Use the  **Add** method to add a column to the collection of columns. By default, there is one text column in the **TextColumns** collection. The following example adds a 2.5-inch-wide column to the active document.
+Use the **Add** method to add a column to the collection of columns. By default, there is one text column in the **TextColumns** collection. The following example adds a 2.5-inch-wide column to the active document.
 
 
 
@@ -37,7 +37,7 @@ ActiveDocument.PageSetup.TextColumns.Add _
  Spacing:=InchesToPoints(0.5), EvenlySpaced:=False
 ```
 
-Use the  **SetCount** method to arrange text into columns. The following example arranges the text in the active document into three columns.
+Use the **SetCount** method to arrange text into columns. The following example arranges the text in the active document into three columns.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.GlobalResourceFilters Property (Project)
 
-Gets or sets a  **[Filters](filter-object-project.md)** collection representing the resource filters of the Global.mpt file. Read/write **Filters**.
+Gets or sets a **[Filters](filter-object-project.md)** collection representing the resource filters of the Global.mpt file. Read/write **Filters**.
 
 
 ## Syntax

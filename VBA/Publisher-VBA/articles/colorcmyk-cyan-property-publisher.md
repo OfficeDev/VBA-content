@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorCMYK.Cyan Property (Publisher)
 
-Sets or returns a  **Long** that represents the cyan component of a CMYK color. Value can be any number between 0 and 255. Read/write.
+Sets or returns a **Long** that represents the cyan component of a CMYK color. Value can be any number between 0 and 255. Read/write.
 
 
 ## Syntax
 
  _expression_. **Cyan**
 
- _expression_A variable that represents a  **ColorCMYK** object.
+ _expression_A variable that represents a **ColorCMYK** object.
 
 
 ### Return Value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.OMathAutoBuildUp Property (Word)
 
-Returns or sets a  **Boolean** that represents whether Microsoft Word automatically converts equations to professional format. **True** indicates that Word automatically converts equations to professional format. Read/write.
+Returns or sets a **Boolean** that represents whether Microsoft Word automatically converts equations to professional format. **True** indicates that Word automatically converts equations to professional format. Read/write.
 
 
 ## Syntax

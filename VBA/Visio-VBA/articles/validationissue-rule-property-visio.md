@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationIssue.Rule Property (Visio)
 
-Returns the  **[ValidationRule](validationrule-object-visio.md)** object that generated the validation issue. Read-only.
+Returns the **[ValidationRule](validationrule-object-visio.md)** object that generated the validation issue. Read-only.
 
 
 ## Syntax

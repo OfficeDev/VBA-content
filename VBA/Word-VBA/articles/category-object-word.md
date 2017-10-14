@@ -18,9 +18,9 @@ Represents an individual category of a building block type.
 
 ## Remarks
 
-Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a  **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** constant. Each category is a unique string that a user defines. Word comes with two categories already defined: "General" and "Custom"; you can create additional categories as you need.
+Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a **[WdBuildingBlockTypes](wdbuildingblocktypes-enumeration-word.md)** constant. Each category is a unique string that a user defines. Word comes with two categories already defined: "General" and "Custom"; you can create additional categories as you need.
 
-Use the  **[Type](category-type-property-word.md)** property to access the building block type associated with a specific category. Use the **[BuildingBlocks](category-buildingblocks-property-word.md)** property to access the collection of building blocks for a category. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
+Use the **[Type](category-type-property-word.md)** property to access the building block type associated with a specific category. Use the **[BuildingBlocks](category-buildingblocks-property-word.md)** property to access the collection of building blocks for a category. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
 
 
 
@@ -46,7 +46,7 @@ For intCount = 1 To objTemplate.BuildingBlockTypes.Count
 Next
 ```
 
-Use the  **Item** method of the **Categories** collection to access an exising category; to create a new category, use the **Add** method of the **BuildingBlockEntries** collection. Set the value of the Category parameter.
+Use the **Item** method of the **Categories** collection to access an exising category; to create a new category, use the **Add** method of the **BuildingBlockEntries** collection. Set the value of the Category parameter.
 
 For more information about building blocks, see [Working with Building Blocks](http://msdn.microsoft.com/library/c32a8972-a6fc-bb66-b62a-039b88580b37%28Office.15%29.aspx).
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Index Property (Project)
 
-Gets the index of a  **Project** object in the containing **Projects** collection. Read-only **Variant**.
+Gets the index of a **Project** object in the containing **Projects** collection. Read-only **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the index of a  **Project** object in the containing **Projects** collectio
 
 ## Example
 
-If you put a Gantt chart in the same index of the  **Windows** collection for every open project, you can display a Gantt chart in one project and then use the **ActivateSameWindowInNextProject** macro to easily switch to the Gantt charts of the other open projects.
+If you put a Gantt chart in the same index of the **Windows** collection for every open project, you can display a Gantt chart in one project and then use the **ActivateSameWindowInNextProject** macro to easily switch to the Gantt charts of the other open projects.
 
 
 ```vb

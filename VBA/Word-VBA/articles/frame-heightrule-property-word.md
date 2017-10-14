@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.HeightRule Property (Word)
 
-Returns or sets a  **WdFrameSizeRule** that represents the rule for determining the height of the specified frame. Read/write.
+Returns or sets a **WdFrameSizeRule** that represents the rule for determining the height of the specified frame. Read/write.
 
 
 ## Syntax

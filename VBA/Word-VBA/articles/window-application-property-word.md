@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Application Property (Word)
 
-Returns an  **[Application](application-object-word.md)** object that represents the Microsoft OfficeWord application.
+Returns an **[Application](application-object-word.md)** object that represents the Microsoft OfficeWord application.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Application](application-object-word.md)** object that represents
 
 ## Remarks
 
-The Microsoft Visual Basic  **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications (VBA) project.
+The Microsoft Visual Basic **CreateObject** and **GetObject** functions give you access to an OLE Automation object from a Visual Basic for Applications (VBA) project.
 
 
 ## See also

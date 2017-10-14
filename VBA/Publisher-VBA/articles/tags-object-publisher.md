@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Tags Object (Publisher)
 
-A collection of  **Tag** objects that represents tags or custom properties applied to a shape, shape range, page, or publication.
+A collection of **Tag** objects that represents tags or custom properties applied to a shape, shape range, page, or publication.
  
 
 
 ## Example
 
-Use the  **[Tags](shape-tags-property-publisher.md)** property to access the **Tags** collection. Use the **[Add](tags-add-method-publisher.md)** method of the **Tags** collection to add a **Tag** object to a shape, shape range, page, or publication. This example adds a tag to each oval shape on the first page of the active publication.
+Use the **[Tags](shape-tags-property-publisher.md)** property to access the **Tags** collection. Use the **[Add](tags-add-method-publisher.md)** method of the **Tags** collection to add a **Tag** object to a shape, shape range, page, or publication. This example adds a tag to each oval shape on the first page of the active publication.
  
 
  
@@ -37,7 +37,7 @@ Sub AddNewTag()
 End Sub
 ```
 
-Use the  **[Count](tags-count-property-publisher.md)** property to determine if a shape, shape range, page, or publication contains one or more **Tag** objects. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
+Use the **[Count](tags-count-property-publisher.md)** property to determine if a shape, shape range, page, or publication contains one or more **Tag** objects. This example fills all shapes on the first page of the active publication if the shape's first tag has a value of Oval.
  
 
  

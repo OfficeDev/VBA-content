@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.Delete Method (PowerPoint)
 
-Deletes the specified  **AnimationBehavior** object.
+Deletes the specified **AnimationBehavior** object.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.Tag Property (Word)
 
-Returns or sets a  **String** that represents a value to identify a content control. Read/write.
+Returns or sets a **String** that represents a value to identify a content control. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents a value to identify a content cont
 
 ## Remarks
 
-The  **Tag** property is different from the **Title** property in that a tag is never displayed while a user edits a document. Instead, developers can use it to store a value for programmatic manipulation while the document is opened.
+The **Tag** property is different from the **Title** property in that a tag is never displayed while a user edits a document. Instead, developers can use it to store a value for programmatic manipulation while the document is opened.
 
 
 ## See also

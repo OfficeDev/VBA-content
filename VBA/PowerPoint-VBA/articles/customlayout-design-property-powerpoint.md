@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLayout.Design Property (PowerPoint)
 
-Returns a  **[Design](design-object-powerpoint.md)** object that represents the design template associated with the specified custom layout.
+Returns a **[Design](design-object-powerpoint.md)** object that represents the design template associated with the specified custom layout.
 
 
 ## Syntax

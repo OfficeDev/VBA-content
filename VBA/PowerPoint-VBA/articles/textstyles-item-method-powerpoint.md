@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextStyles.Item Method (PowerPoint)
 
-Returns a single text style from the specified  **[TextStyles](textstyles-object-powerpoint.md)** collection.
+Returns a single text style from the specified **[TextStyles](textstyles-object-powerpoint.md)** collection.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ TextStyle
 
 ## Remarks
 
-The  **Item** method is the default member for a collection. For example, the following two lines of code are equivalent:
+The **Item** method is the default member for a collection. For example, the following two lines of code are equivalent:
 
  `ActivePresentation.Slides.Item(1)`
 

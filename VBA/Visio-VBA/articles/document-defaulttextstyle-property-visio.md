@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-The  **DefaultTextStyle** property corresponds to the value shown in the **Style** box on the **Font** tab of the **Text** dialog box (click the **Font** arrow on the **Home** tab) when nothing is selected on the drawing page. The document's default text style is applied to new shapes created with the Microsoft Visio drawing tools or with the **Draw** methods by Automation.
+The **DefaultTextStyle** property corresponds to the value shown in the **Style** box on the **Font** tab of the **Text** dialog box (click the **Font** arrow on the **Home** tab) when nothing is selected on the drawing page. The document's default text style is applied to new shapes created with the Microsoft Visio drawing tools or with the **Draw** methods by Automation.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlRecurrenceState Enumeration (Outlook)
 
-Indicates the recurrence state of an  **AppointmentItem** .
+Indicates the recurrence state of an **AppointmentItem** .
 
 
 

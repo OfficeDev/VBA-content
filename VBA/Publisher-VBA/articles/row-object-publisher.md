@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # Row Object (Publisher)
 
-Represents a row in a table. The  **Row** object is a member of the **[Rows](rows-object-publisher.md)** collection. The **Rows** collection includes all the rows in a specified table.
+Represents a row in a table. The **Row** object is a member of the **[Rows](rows-object-publisher.md)** collection. The **Rows** collection includes all the rows in a specified table.
  
 
 
 ## Example
 
-Use  **Rows** (index), where index is the row number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). This example selects the first row in the first shape on the second of the active publication. This example assumes the specified shape is a table and not another type of shape.
+Use **Rows** (index), where index is the row number, to return a single **Row** object. The index number represents the position of the row in the **Rows** collection (counting from left to right). This example selects the first row in the first shape on the second of the active publication. This example assumes the specified shape is a table and not another type of shape.
  
 
  
@@ -30,7 +30,7 @@ Sub SelectRow()
 End Sub
 ```
 
-Use the  **[Item](rows-item-method-publisher.md)** method of a **[Rows](rows-object-publisher.md)** collection to return a **Row** object. This example sets the fill for all even numbered rows and clears the fill for all odd numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
+Use the **[Item](rows-item-method-publisher.md)** method of a **[Rows](rows-object-publisher.md)** collection to return a **Row** object. This example sets the fill for all even numbered rows and clears the fill for all odd numbered rows in the specified table. This example assumes the specified shape is a table and not another type of shape.
  
 
  
@@ -59,7 +59,7 @@ Sub FillCellsByRow()
 End Sub
 ```
 
-Use the  **[Add](rows-add-method-publisher.md)** method to add a row to a table. This example adds a row to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
+Use the **[Add](rows-add-method-publisher.md)** method to add a row to a table. This example adds a row to the specified table on the second page of the active publication, and then adjusts the width, merges the cells, and sets the fill color. This example assumes the first shape is a table and not another type of shape.
  
 
  
@@ -80,7 +80,7 @@ Sub NewRow()
 End Sub
 ```
 
-Use the  **[Delete](row-delete-method-publisher.md)** method to delete a row from a table. This example deletes the row added in the above example.
+Use the **[Delete](row-delete-method-publisher.md)** method to delete a row from a table. This example deletes the row added in the above example.
  
 
  

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStops.After Method (Word)
 
-Returns the next  **TabStop** object to the right of Position.
+Returns the next **TabStop** object to the right of Position.
 
 
 ## Syntax

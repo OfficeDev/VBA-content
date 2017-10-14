@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabel.ChapterStyleLevel Property (Word)
 
-Returns or sets the heading style that marks a new chapter when chapter numbers are included with the specified caption label. Read/write  **Long** .
+Returns or sets the heading style that marks a new chapter when chapter numbers are included with the specified caption label. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the heading style that marks a new chapter when chapter numbers 
 
 ## Remarks
 
-The number 1 corresponds to Heading 1, 2 corresponds to Heading 2, and so on. The  **[IncludeChapterNumber](captionlabel-includechapternumber-property-word.md)** property must be set to **True** for chapter numbers to be included with caption labels.
+The number 1 corresponds to Heading 1, 2 corresponds to Heading 2, and so on. The **[IncludeChapterNumber](captionlabel-includechapternumber-property-word.md)** property must be set to **True** for chapter numbers to be included with caption labels.
 
 
 ## Example

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property corresponds to the  **Match suffix** check box in the **Find and Replace** dialog box.
+This property corresponds to the **Match suffix** check box in the **Find and Replace** dialog box.
 
 
 ## See also

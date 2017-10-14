@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorEffect.By Property (PowerPoint)
 
-Returns a  **ColorFormat** object that represents a change to the color of the object by the specified number, expressed in RGB format. Read-only.
+Returns a **ColorFormat** object that represents a change to the color of the object by the specified number, expressed in RGB format. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **ColorFormat** object that represents a change to the color of the o
 
 ## Remarks
 
-Do not confuse this property with the  **ByX** or **ByY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
+Do not confuse this property with the **ByX** or **ByY** properties of the **[ScaleEffect](scaleeffect-object-powerpoint.md)** and **[MotionEffect](motioneffect-object-powerpoint.md)** objects, which are only used for scaling or motion effects.
 
 
 ## Example

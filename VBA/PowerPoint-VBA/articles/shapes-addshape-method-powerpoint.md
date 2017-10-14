@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddShape Method (PowerPoint)
 
-Creates an AutoShape. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new AutoShape.
+Creates an AutoShape. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new AutoShape.
 
 
 ## Syntax
@@ -42,7 +42,7 @@ Shape
 
 ## Remarks
 
-To change the type of an AutoShape that you've added, set the  **AutoShapeType** property.
+To change the type of an AutoShape that you've added, set the **AutoShapeType** property.
 
 
 ## Example

@@ -21,7 +21,7 @@ ms.date: 06/08/2017
 ![Symbol](images/fe208_ZA06051694.gif)", and between "
 ![Symbol](images/fe282_ZA06051761.gif)
 ![Symbol](images/fe280_ZA06051759.gif)" and "
-![Symbol](images/fe275_ZA06051754.gif)" during a search. Read/write  **Boolean** .
+![Symbol](images/fe275_ZA06051754.gif)" during a search. Read/write **Boolean** .
 
 
 ## Syntax

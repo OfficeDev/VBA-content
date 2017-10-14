@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.PictureFormat Property (Word)
 
-Returns a  **PictureFormat** object that contains picture formatting properties for the specified object. Read-only.
+Returns a **PictureFormat** object that contains picture formatting properties for the specified object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **PictureFormat** object that contains picture formatting properties 
 
 ## Remarks
 
-This property applies to  **Shape** objects that represent pictures or OLE objects.
+This property applies to **Shape** objects that represent pictures or OLE objects.
 
 
 ## Example

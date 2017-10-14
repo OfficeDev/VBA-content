@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.ShowingPlaceholderText Property (Word)
 
-Returns a  **Boolean** that indicates whether the placeholder text for the content control is displayed. Read-only.
+Returns a **Boolean** that indicates whether the placeholder text for the content control is displayed. Read-only.
 
 
 ## Syntax

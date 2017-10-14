@@ -25,9 +25,9 @@ Saves the specified presentation.
 
 ## Remarks
 
-Use the  **[SaveAs](presentation-saveas-method-powerpoint.md)** method to save a presentation that has not been previously saved. To determine whether a presentation has been saved, test for a nonempty value for the **[FullName](presentation-fullname-property-powerpoint.md)** or **[Path](presentation-path-property-powerpoint.md)** property. If a document that has the same name as the specified presentation already exists on disk, that document will be overwritten. No warning message is displayed.
+Use the **[SaveAs](presentation-saveas-method-powerpoint.md)** method to save a presentation that has not been previously saved. To determine whether a presentation has been saved, test for a nonempty value for the **[FullName](presentation-fullname-property-powerpoint.md)** or **[Path](presentation-path-property-powerpoint.md)** property. If a document that has the same name as the specified presentation already exists on disk, that document will be overwritten. No warning message is displayed.
 
-To mark the presentation as saved without writing it to disk, set the  **Saved** property to **True**.
+To mark the presentation as saved without writing it to disk, set the **Saved** property to **True**.
 
 
 ## Example

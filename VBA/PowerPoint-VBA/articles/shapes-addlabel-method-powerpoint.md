@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddLabel Method (PowerPoint)
 
-Creates a label. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new label.
+Creates a label. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new label.
 
 
 ## Syntax

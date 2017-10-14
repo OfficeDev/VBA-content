@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Cell.Row Property (Publisher)
 
-Returns a  **Long** that represents the row number containing the specified cell. Read-only.
+Returns a **Long** that represents the row number containing the specified cell. Read-only.
 
 
 ## Syntax
 
  _expression_. **Row**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ## Example

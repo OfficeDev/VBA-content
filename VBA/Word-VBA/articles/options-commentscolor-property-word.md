@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CommentsColor Property (Word)
 
-Returns or sets a  **WdColorIndex** constant that represents the color of comments in a document. Read/write.
+Returns or sets a **WdColorIndex** constant that represents the color of comments in a document. Read/write.
 
 
 ## Syntax

@@ -53,7 +53,7 @@ The following possible values for  _RotationType_ are declared in **VisRotationT
 | **visRotateSelectionWithPin**|1|Rotates the selection around a pin.|
 | **visRotateSelection**|0|Rotates the selection relative to the center of the selection.|
 | **visRotateShapes**|2|Rotates the selected shapes around their pins relative to their current angle.|
-Passing  **True** for the optional _BlastGuards_ argument overrides formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied.
+Passing **True** for the optional _BlastGuards_ argument overrides formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied.
 
 The default value for  _RotationType_ is **visRotateSelection** .
 
@@ -64,7 +64,7 @@ For a complete list of valid unit strings along with corresponding Automation co
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Rotate** method to rotate a selection 45 degrees relative to the center of the selection.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Rotate** method to rotate a selection 45 degrees relative to the center of the selection.
 
 
 ```vb

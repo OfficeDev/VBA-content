@@ -20,7 +20,7 @@ Returns a  [LinkFormat](linkformat-object-publisher.md)object that contains the 
 
  _expression_. **LinkFormat**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

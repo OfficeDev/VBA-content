@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Start Property (Publisher)
 
-Returns or sets a  **Long** that represents the starting character position of a text range. Read/write.
+Returns or sets a **Long** that represents the starting character position of a text range. Read/write.
 
 
 ## Syntax
 
  _expression_. **Start**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-If this property is set to a value larger than that of the  **End** property, the **End** property is set to the same value as that of the **Start** property.
+If this property is set to a value larger than that of the **End** property, the **End** property is set to the same value as that of the **Start** property.
 
 
 ## Example

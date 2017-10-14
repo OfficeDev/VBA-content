@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.Contrast Property (Publisher)
 
-Returns or sets a  **Single** indicating the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write.
+Returns or sets a **Single** indicating the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write.
 
 
 ## Syntax
 
  _expression_. **Contrast**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Single
 
 ## Remarks
 
-Use the  **[IncrementContrast](pictureformat-incrementcontrast-method-publisher.md)** method to incrementally adjust the contrast from its current level.
+Use the **[IncrementContrast](pictureformat-incrementcontrast-method-publisher.md)** method to incrementally adjust the contrast from its current level.
 
 
 ## Example

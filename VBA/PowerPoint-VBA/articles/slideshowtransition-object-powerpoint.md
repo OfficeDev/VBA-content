@@ -18,7 +18,7 @@ Contains information about how the specified slide advances during a slide show.
 
 ## Example
 
-Use the [SlideShowTransition](http://msdn.microsoft.com/library/bb931628-0ad1-e58b-9ddb-5680cb6ce9ec%28Office.15%29.aspx)property to return the  **SlideShowTransition** object. The following example specifies a Fast Strips Down-Left transition accompanied by the Bass.wav sound for slide one in the active presentation and specifies that the slide advance automatically five seconds after the previous animation or slide transition.
+Use the [SlideShowTransition](http://msdn.microsoft.com/library/bb931628-0ad1-e58b-9ddb-5680cb6ce9ec%28Office.15%29.aspx)property to return the **SlideShowTransition** object. The following example specifies a Fast Strips Down-Left transition accompanied by the Bass.wav sound for slide one in the active presentation and specifies that the slide advance automatically five seconds after the previous animation or slide transition.
 
 
 ```

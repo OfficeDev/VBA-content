@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # RuleConditions Object (Outlook)
 
-Contains a set of  **[RuleCondition](http://msdn.microsoft.com/library/e03f91c2-2c08-b036-104a-d6246f28bc2d%28Office.15%29.aspx)** objects or objects derived from **RuleCondition**, representing the conditions or exception conditions that must be satisfied in order for the **[Rule](rule-object-outlook.md)** to execute.
+Contains a set of **[RuleCondition](http://msdn.microsoft.com/library/e03f91c2-2c08-b036-104a-d6246f28bc2d%28Office.15%29.aspx)** objects or objects derived from **RuleCondition**, representing the conditions or exception conditions that must be satisfied in order for the **[Rule](rule-object-outlook.md)** to execute.
 
 
 ## Remarks
 
-The  **RuleConditions** object include both rule conditions and rule exceptions. The type of rule condition that can be added to a **RuleConditions** collection depends upon the **[Rule.RuleType](http://msdn.microsoft.com/library/6ae3ca3c-860e-9cbd-d0d0-c36039b54c39%28Office.15%29.aspx)**.
+The **RuleConditions** object include both rule conditions and rule exceptions. The type of rule condition that can be added to a **RuleConditions** collection depends upon the **[Rule.RuleType](http://msdn.microsoft.com/library/6ae3ca3c-860e-9cbd-d0d0-c36039b54c39%28Office.15%29.aspx)**.
 
-The  **RuleConditions** object is a fixed collection. A **RuleCondition** object or a type that is derived from the **RuleCondition** object cannot be added or removed from the **RuleConditions** object.
+The **RuleConditions** object is a fixed collection. A **RuleCondition** object or a type that is derived from the **RuleCondition** object cannot be added or removed from the **RuleConditions** object.
 
 The Rules object model provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. It supports the most commonly used rule actions and conditions. Although it does not support creating rules with any rule action or rule condition that the Wizard supports, you can still enumerate and enable these rule actions and conditions in existing rules. 
 

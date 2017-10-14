@@ -25,7 +25,7 @@ Selects the specified object.
 
 ## Remarks
 
-After using this method, use the  **[Selection](selection-object-word.md)** object to work with the selected items. For more information, see[Working with the Selection object](http://msdn.microsoft.com/library/a1ef7e48-5a0f-d278-4b67-7b96f4e24052%28Office.15%29.aspx).
+After using this method, use the **[Selection](selection-object-word.md)** object to work with the selected items. For more information, see[Working with the Selection object](http://msdn.microsoft.com/library/a1ef7e48-5a0f-d278-4b67-7b96f4e24052%28Office.15%29.aspx).
 
 
 ## See also

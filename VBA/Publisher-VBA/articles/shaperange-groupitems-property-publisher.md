@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.GroupItems Property (Publisher)
 
-Returns a  **[GroupShapes](groupshapes-object-publisher.md)** collection if the specified shape is a group.
+Returns a **[GroupShapes](groupshapes-object-publisher.md)** collection if the specified shape is a group.
 
 
 ## Syntax
 
  _expression_. **GroupItems**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Remarks

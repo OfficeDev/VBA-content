@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CanvasShapes.AddCallout Method (Word)
 
-Adds a borderless line callout to a drawing canvas. Returns a  **[Shape](shape-object-word.md)** object that represents the callout.
+Adds a borderless line callout to a drawing canvas. Returns a **[Shape](shape-object-word.md)** object that represents the callout.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ Adds a borderless line callout to a drawing canvas. Returns a  **[Shape](shape-o
 
 ## Remarks
 
-You can insert a greater variety of callouts, such as balloons and clouds, using the  **AddShape** method.
+You can insert a greater variety of callouts, such as balloons and clouds, using the **AddShape** method.
 
 
 ## Example

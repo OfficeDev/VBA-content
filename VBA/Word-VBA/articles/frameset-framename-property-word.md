@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.FrameName Property (Word)
 
-Returns or sets the name of the specified frame on a frames page. Read/write  **String** .
+Returns or sets the name of the specified frame on a frames page. Read/write **String** .
 
 
 ## Syntax

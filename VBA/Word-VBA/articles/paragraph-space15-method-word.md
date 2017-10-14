@@ -27,7 +27,7 @@ Formats the specified paragraphs with 1.5-line spacing.
 
 The exact spacing is determined by adding 6 points to the font size of the largest character in each paragraph.
 
-You can also use the  **[LineSpacingRule](paragraph-linespacingrule-property-word.md)** property to set the line spacing for a paragraph. The following two statements are equivalent:
+You can also use the **[LineSpacingRule](paragraph-linespacingrule-property-word.md)** property to set the line spacing for a paragraph. The following two statements are equivalent:
 
 
 

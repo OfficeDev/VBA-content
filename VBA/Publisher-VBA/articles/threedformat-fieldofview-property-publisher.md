@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.FieldOfView Property (Publisher)
 
-Returns or sets a  **Single** that represents the amount of perspective for a shape. Read/write.
+Returns or sets a **Single** that represents the amount of perspective for a shape. Read/write.
 
 
 ## Syntax
 
  _expression_. **FieldOfView**
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ## Return value

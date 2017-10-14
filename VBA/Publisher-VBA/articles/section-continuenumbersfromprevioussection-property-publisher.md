@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **ContinueNumbersFromPreviousSection**
 
- _expression_A variable that represents a  **Section** object.
+ _expression_A variable that represents a **Section** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Boolean
 
 ## Example
 
-The following example adds three pages to the publication, adds a new section after the first page, and then sets the  **ContinueNumbersFromPreviousSection** to **False** for the new section.
+The following example adds three pages to the publication, adds a new section after the first page, and then sets the **ContinueNumbersFromPreviousSection** to **False** for the new section.
 
 
 ```vb

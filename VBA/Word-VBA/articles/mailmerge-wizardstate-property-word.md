@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.WizardState Property (Word)
 
-Returns or sets a  **Long** indicating the current Mail Merge Wizard step for a document. The WizardState method returns a number that equates to the current Mail Merge Wizard step; a zero (0) means the Mail Merge Wizard is closed. Read/write.
+Returns or sets a **Long** indicating the current Mail Merge Wizard step for a document. The WizardState method returns a number that equates to the current Mail Merge Wizard step; a zero (0) means the Mail Merge Wizard is closed. Read/write.
 
 
 ## Syntax

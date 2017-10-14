@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # PrintableRect.Width Property (Publisher)
 
-Returns a  **Single** that represents the printable rectangle. Read-only.
+Returns a **Single** that represents the printable rectangle. Read-only.
 
 
 ## Syntax
 
  _expression_. **Width**
 
- _expression_A variable that represents a  **PrintableRect** object.
+ _expression_A variable that represents a **PrintableRect** object.
 
 

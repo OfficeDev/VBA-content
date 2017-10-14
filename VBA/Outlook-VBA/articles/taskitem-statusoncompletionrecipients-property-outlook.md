@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.StatusOnCompletionRecipients Property (Outlook)
 
-Returns or sets a semicolon-delimited  **String** of display names for recipients who will receive status upon completion of the task. Read/write.
+Returns or sets a semicolon-delimited **String** of display names for recipients who will receive status upon completion of the task. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a semicolon-delimited  **String** of display names for recipient
 
 ## Remarks
 
-This property is calculated from the  **[Recipients](taskitem-recipients-property-outlook.md)** property. Recipients returned by the **StatusOnCompletionRecipients** property correspond to BCC recipients in the **[Recipients](recipients-object-outlook.md)** collection.
+This property is calculated from the **[Recipients](taskitem-recipients-property-outlook.md)** property. Recipients returned by the **StatusOnCompletionRecipients** property correspond to BCC recipients in the **[Recipients](recipients-object-outlook.md)** collection.
 
 
 ## See also

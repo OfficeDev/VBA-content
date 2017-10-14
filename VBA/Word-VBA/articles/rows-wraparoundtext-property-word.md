@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.WrapAroundText Property (Word)
 
-Returns or sets whether text should wrap around the specified rows. Read/write  **Long** .
+Returns or sets whether text should wrap around the specified rows. Read/write **Long** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets whether text should wrap around the specified rows. Read/write  
 
 ## Remarks
 
-Returns  **wdUndefined** if only some of the specified rows have wrapping enabled. Can be set to **True** or **False** . Setting the **WrapAroundText** property to **False** also sets the **[AllowOverlap](rows-allowoverlap-property-word.md)** property to **False** . Setting the **AllowOverlap** property to **True** also sets the **WrapAroundText** property to **True** .
+Returns **wdUndefined** if only some of the specified rows have wrapping enabled. Can be set to **True** or **False** . Setting the **WrapAroundText** property to **False** also sets the **[AllowOverlap](rows-allowoverlap-property-word.md)** property to **False** . Setting the **AllowOverlap** property to **True** also sets the **WrapAroundText** property to **True** .
 
 
 ## Example

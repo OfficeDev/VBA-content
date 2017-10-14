@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SlideShowWindows Property (PowerPoint)
 
-Returns a  **[SlideShowWindows](slideshowwindows-object-powerpoint.md)** collection that represents all open slide show windows. Read-only.
+Returns a **[SlideShowWindows](slideshowwindows-object-powerpoint.md)** collection that represents all open slide show windows. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.OLEFormat Property (PowerPoint)
 
-Returns an  **[OLEFormat](oleformat-object-powerpoint.md)** object that contains OLE formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent OLE objects. Read-only.
+Returns an **[OLEFormat](oleformat-object-powerpoint.md)** object that contains OLE formatting properties for the specified shape. Applies to **Shape** or **ShapeRange** objects that represent OLE objects. Read-only.
 
 
 ## Syntax

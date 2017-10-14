@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.WrapFormat Property (Word)
 
-Returns a  **WrapFormat** object that contains the properties for wrapping text around the specified shape. Read-only.
+Returns a **WrapFormat** object that contains the properties for wrapping text around the specified shape. Read-only.
 
 
 ## Syntax

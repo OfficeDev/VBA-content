@@ -17,7 +17,7 @@ Gets or sets a value that indicates whether the specified layer is visible in th
 
  _expression_. **LayerVisible**( **_LayerIndex_**)
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Parameters
@@ -35,7 +35,7 @@ Gets or sets a value that indicates whether the specified layer is visible in th
 
 ## Remarks
 
-The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, the  **LayerVisible** property returns **False**.
+The collection of layers is one-based, so the index of the first layer in the collection is 1. If there are no layers in the drawing, the **LayerVisible** property returns **False**.
 
 
 ## Example

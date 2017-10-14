@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Separator Property (PowerPoint)
 
-Returns or sets the separator used for the data labels on a chart. Read/write  **Variant**.
+Returns or sets the separator used for the data labels on a chart. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Returns or sets the separator used for the data labels on a chart. Read/write  *
 
 ## Remarks
 
-If you use a string, you will get a string as the separator. If you use  **xlDataLabelSeparatorDefault** (= 1), you will get the default data label separator, which is either a comma or a newline character, depending on the data label.
+If you use a string, you will get a string as the separator. If you use **xlDataLabelSeparatorDefault** (= 1), you will get the default data label separator, which is either a comma or a newline character, depending on the data label.
 
 
 ## Example

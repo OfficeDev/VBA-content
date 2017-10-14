@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.EffectiveResolution Property (Publisher)
 
-Returns a  **Long** that represents, in dots per inch (dpi), the effective resolution of the picture. Read-only.
+Returns a **Long** that represents, in dots per inch (dpi), the effective resolution of the picture. Read-only.
 
 
 ## Syntax
 
  _expression_. **EffectiveResolution**
 
- _expression_A variable that represents an  **PictureFormat** object.
+ _expression_A variable that represents an **PictureFormat** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ Long
 
 The effective resolution of a picture is inversely proportional to the scaling at which the picture is printed. The larger the scaling, the lower the effective resolution. For example, suppose a picture measuring 4 inches by 4 inches was originally scanned at 300 dpi. If that picture is scaled to 2 inches by 2 inches, its effective resolution is 600 dpi.
 
-Use the  **[OriginalResolution](pictureformat-originalresolution-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine the resolution of linked pictures or OLE objects. Use the **[HorizontalScale](pictureformat-horizontalscale-property-publisher.md)** and **[VerticalScale](pictureformat-verticalscale-property-publisher.md)** properties to determine the scaling of a picture.
+Use the **[OriginalResolution](pictureformat-originalresolution-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object to determine the resolution of linked pictures or OLE objects. Use the **[HorizontalScale](pictureformat-horizontalscale-property-publisher.md)** and **[VerticalScale](pictureformat-verticalscale-property-publisher.md)** properties to determine the scaling of a picture.
 
 
 ## Example

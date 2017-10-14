@@ -32,8 +32,8 @@ String
 
 If the target document is moved, deleted, or renamed, or if the property is set to the path of a nonexistent file, the application will not be able to access the shortcut's target master. As a result, the end user will not be able to use the shortcut to drop shapes onto their drawing.
 
-If the  **TargetDocumentName** property contains a file name but no path, the application looks for the target document in the file path set in the **File Locations** dialog box (click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click  **File Locations**). The name may refer either to the document's file name or to one of its alternate file names. To set an alternate name for a document, use the  **AlternateNames** property.
+If the **TargetDocumentName** property contains a file name but no path, the application looks for the target document in the file path set in the **File Locations** dialog box (click the **File** tab, click **Options**, click **Advanced**, and then, under **General**, click **File Locations**). The name may refer either to the document's file name or to one of its alternate file names. To set an alternate name for a document, use the **AlternateNames** property.
 
-The  **TargetDocumentName** property does not support file names that have relative paths.
+The **TargetDocumentName** property does not support file names that have relative paths.
 
 

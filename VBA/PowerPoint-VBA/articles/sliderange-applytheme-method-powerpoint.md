@@ -29,7 +29,7 @@ Applies a theme or design template to the specified range of slides.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _themeName_|Required|**String**|The path and name of the theme file (.thmx) or design template file (.pot) to apply to the  **SlideRange** object.|
+| _themeName_|Required|**String**|The path and name of the theme file (.thmx) or design template file (.pot) to apply to the **SlideRange** object.|
 
 ## Example
 

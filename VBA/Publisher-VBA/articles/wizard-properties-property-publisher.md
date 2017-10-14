@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Wizard.Properties Property (Publisher)
 
-Returns a  **[WizardProperties](wizardproperties-object-publisher.md)** collection representing all the settings that are part of the specified publication design or Design Gallery object's wizard.
+Returns a **[WizardProperties](wizardproperties-object-publisher.md)** collection representing all the settings that are part of the specified publication design or Design Gallery object's wizard.
 
 
 ## Syntax
 
  _expression_. **Properties**
 
- _expression_A variable that represents a  **Wizard** object.
+ _expression_A variable that represents a **Wizard** object.
 
 
 ### Return Value

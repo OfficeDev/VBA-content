@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # TextRange2.Find Method (PowerPoint)
 
-Searches a  **TextRange2** object for a subset of text.
+Searches a **TextRange2** object for a subset of text.
 
 
 ## Syntax

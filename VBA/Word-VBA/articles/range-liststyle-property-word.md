@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.ListStyle Property (Word)
 
-Returns a  **Variant** that represents the style used to format a bulleted list or numbered list. Read-only.
+Returns a **Variant** that represents the style used to format a bulleted list or numbered list. Read-only.
 
 
 ## Syntax

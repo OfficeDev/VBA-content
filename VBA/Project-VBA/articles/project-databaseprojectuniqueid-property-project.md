@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.DatabaseProjectUniqueID Property (Project)
 
-Gets the project unique ID for a project stored in a database. Read/write  **Variant**.
+Gets the project unique ID for a project stored in a database. Read/write **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.TwoLinesInOne Property (Word)
 
-Returns or sets whether Microsoft Word sets two lines of text in one and specifies the characters that enclose the text, if any. Read/write  **WdTwoLinesInOneType** .
+Returns or sets whether Microsoft Word sets two lines of text in one and specifies the characters that enclose the text, if any. Read/write **WdTwoLinesInOneType** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets whether Microsoft Word sets two lines of text in one and specifi
 
 ## Remarks
 
-Setting the  **TwoLinesInOne** property to **wdTwoLinesInOneNoBrackets** sets two lines of text in one without enclosing the text in any characters. Setting the **TwoLinesInOne** property to **wdTwoLinesInOneNone** restores a line of combined text to two separate lines.
+Setting the **TwoLinesInOne** property to **wdTwoLinesInOneNoBrackets** sets two lines of text in one without enclosing the text in any characters. Setting the **TwoLinesInOne** property to **wdTwoLinesInOneNone** restores a line of combined text to two separate lines.
 
 
 ## Example

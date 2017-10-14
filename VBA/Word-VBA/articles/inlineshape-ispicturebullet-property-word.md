@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Although picture bullets are considered inline shapes, searching a document's  **InlineShapes** collection will not return picture bullets.
+Although picture bullets are considered inline shapes, searching a document's **InlineShapes** collection will not return picture bullets.
 
 
 ## Example

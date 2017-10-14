@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathFunction Object (Word)
 
-Represents a mathematical function or structure that Microsoft Word supports, such as fractions, integrals, sums, and radicals. The  **OMathFunction** object is a member of the **OMathFunctions** collection.
+Represents a mathematical function or structure that Microsoft Word supports, such as fractions, integrals, sums, and radicals. The **OMathFunction** object is a member of the **OMathFunctions** collection.
 
 
 ## See also

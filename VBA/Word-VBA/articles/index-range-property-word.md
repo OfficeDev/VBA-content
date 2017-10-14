@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Index.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within an index.
+Returns a **Range** object that represents the portion of a document that is contained within an index.
 
 
 ## Syntax

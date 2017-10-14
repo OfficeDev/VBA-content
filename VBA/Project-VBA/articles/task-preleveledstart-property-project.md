@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.PreleveledStart Property (Project)
 
-Gets the start date of a task before leveling occurred. Read-only  **Variant**.
+Gets the start date of a task before leveling occurred. Read-only **Variant**.
 
 
 ## Syntax

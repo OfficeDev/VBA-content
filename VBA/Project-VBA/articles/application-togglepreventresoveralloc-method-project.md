@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TogglePreventResOveralloc Method (Project)
 
-Toggles the  **Prevent Overallocations** command for the Team Planner view.
+Toggles the **Prevent Overallocations** command for the Team Planner view.
 
 
 ## Syntax
@@ -30,8 +30,8 @@ Toggles the  **Prevent Overallocations** command for the Team Planner view.
 
 ## Remarks
 
-When the  **Prevent Overallocations** command is active, Project automatically moves tasks so that resources do not become overallocated because of changes made in the Team Planner view. Overallocations that exist when the **Prevent Overallocations** command is made active are also resolved.
+When the **Prevent Overallocations** command is active, Project automatically moves tasks so that resources do not become overallocated because of changes made in the Team Planner view. Overallocations that exist when the **Prevent Overallocations** command is made active are also resolved.
 
-The  **TogglePreventResOveralloc** method corresponds to the **Prevent Overallocations** command on the **Format** tab under **Team Planner Tools** on the ribbon.
+The **TogglePreventResOveralloc** method corresponds to the **Prevent Overallocations** command on the **Format** tab under **Team Planner Tools** on the ribbon.
 
 

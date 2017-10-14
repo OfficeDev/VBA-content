@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cells.Add Method (Word)
 
-Returns a  **Cell** object that represents a cell added to a table.
+Returns a **Cell** object that represents a cell added to a table.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **Cell** object that represents a cell added to a table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _BeforeCell_|Optional| **Variant**|A  **Cell** object that represents the cell that will appear immediately to the right of the new cell or cells.|
+| _BeforeCell_|Optional| **Variant**|A **Cell** object that represents the cell that will appear immediately to the right of the new cell or cells.|
 
 ### Return Value
 

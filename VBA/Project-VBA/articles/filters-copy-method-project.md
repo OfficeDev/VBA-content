@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filters.Copy Method (Project)
 
-Makes a copy of a group definition for the  **Filters** collection and returns a reference to the **[Filter](filter-object-project.md)** object.
+Makes a copy of a group definition for the **Filters** collection and returns a reference to the **[Filter](filter-object-project.md)** object.
 
 
 ## Syntax

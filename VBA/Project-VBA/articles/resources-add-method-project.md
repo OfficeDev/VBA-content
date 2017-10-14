@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resources.Add Method (Project)
 
-Adds a  **Resource** object to a **Resources** collection.
+Adds a **Resource** object to a **Resources** collection.
 
 
 ## Syntax

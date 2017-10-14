@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.BaselineDurationEstimated Property (Project)
 
-Gets or sets the baseline duration (in minutes) of a task. Read/write  **Variant**.
+Gets or sets the baseline duration (in minutes) of a task. Read/write **Variant**.
 
 
 ## Syntax

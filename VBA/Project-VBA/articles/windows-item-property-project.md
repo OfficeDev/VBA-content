@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Windows.Item Property (Project)
 
-Gets a single  **Window** object from the **Windows** collection. Read-only **Window**.
+Gets a single **Window** object from the **Windows** collection. Read-only **Window**.
 
 
 ## Syntax

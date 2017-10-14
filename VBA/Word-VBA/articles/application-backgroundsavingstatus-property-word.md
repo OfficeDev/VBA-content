@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BackgroundSavingStatus Property (Word)
 
-Returns the number of files queued up to be saved in the background. Read-only  **Long** .
+Returns the number of files queued up to be saved in the background. Read-only **Long** .
 
 
 ## Syntax

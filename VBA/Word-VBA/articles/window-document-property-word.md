@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Document Property (Word)
 
-Returns a  **[Document](document-object-word.md)** object associated with the specified pane, window, or selection. Read-only.
+Returns a **[Document](document-object-word.md)** object associated with the specified pane, window, or selection. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Document](document-object-word.md)** object associated with the sp
 
 ## Example
 
-This example sets myDoc to the document associated with the active window. The focus is changed to the next window, and the window is split. The  **Activate** method is used to switch back to the original document.
+This example sets myDoc to the document associated with the active window. The focus is changed to the next window, and the window is split. The **Activate** method is used to switch back to the original document.
 
 
 ```vb

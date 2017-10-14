@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Application.RenameReport Method (Project)
-Displays the  **Rename** dialog box, which includes the current name of the active report.
+Displays the **Rename** dialog box, which includes the current name of the active report.
 
 ## Syntax
 
@@ -26,7 +26,7 @@ Displays the  **Rename** dialog box, which includes the current name of the acti
 
 ## Remarks
 
-If a report is not active, the  **RenameReport** method displays run-time error 1100, "The method is not available in this situation."
+If a report is not active, the **RenameReport** method displays run-time error 1100, "The method is not available in this situation."
 
 If you rename a built-in report, the report is copied to a new custom report.
 

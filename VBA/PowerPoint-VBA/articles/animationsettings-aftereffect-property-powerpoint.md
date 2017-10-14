@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationSettings.AfterEffect Property (PowerPoint)
 
-Returns or sets a  **PpAfterEffect** constant that indicates whether the specified shape appears dimmed, hidden, or unchanged after it is built. Read/write.
+Returns or sets a **PpAfterEffect** constant that indicates whether the specified shape appears dimmed, hidden, or unchanged after it is built. Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets a  **PpAfterEffect** constant that indicates whether the specifi
 
 ## Remarks
 
-You won't see the aftereffect you set for a shape unless the shape gets animated and at least one other shape on the slide gets animated after it. For a shape to be animated, the  **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone**, or the **[EntryEffect](animationsettings-entryeffect-property-powerpoint.md)** property must be set to a constant other than **ppEffectNone**. In addition, the **[Animate](animationsettings-animate-property-powerpoint.md)** property must be set to **True**. To change the build order of the shapes on a slide, use the **[AnimationOrder](animationsettings-animationorder-property-powerpoint.md)** property.
+You won't see the aftereffect you set for a shape unless the shape gets animated and at least one other shape on the slide gets animated after it. For a shape to be animated, the **[TextLevelEffect](animationsettings-textleveleffect-property-powerpoint.md)** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone**, or the **[EntryEffect](animationsettings-entryeffect-property-powerpoint.md)** property must be set to a constant other than **ppEffectNone**. In addition, the **[Animate](animationsettings-animate-property-powerpoint.md)** property must be set to **True**. To change the build order of the shapes on a slide, use the **[AnimationOrder](animationsettings-animationorder-property-powerpoint.md)** property.
 
-The value of the  **AfterEffect** property can be one of these **PpAfterEffect** constants.
+The value of the **AfterEffect** property can be one of these **PpAfterEffect** constants.
 
 
 ||

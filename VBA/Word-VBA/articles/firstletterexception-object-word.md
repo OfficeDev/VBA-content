@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # FirstLetterException Object (Word)
 
-Represents an abbreviation excluded from automatic correction. The  **[FirstLetterExceptions](firstletterexceptions-object-word.md)** object is a member of the **FirstLetterExceptions** collection.
+Represents an abbreviation excluded from automatic correction. The **[FirstLetterExceptions](firstletterexceptions-object-word.md)** object is a member of the **FirstLetterExceptions** collection.
 
 
 ## Remarks
 
-The  **FirstLetterExceptions** collection includes all the excluded abbreviations.The first character following a period is automatically capitalized when the **CorrectSentenceCaps** property is set to **True** . The character you type following an item in the **FirstLetterExceptions** collection isn't capitalized.
+The **FirstLetterExceptions** collection includes all the excluded abbreviations.The first character following a period is automatically capitalized when the **CorrectSentenceCaps** property is set to **True** . The character you type following an item in the **FirstLetterExceptions** collection isn't capitalized.
 
-Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **FirstLetterException** object. The following example deletes the abbreviation "appt." from the **[FirstLetterExceptions](firstletterexceptions-object-word.md)** collection.
+Use **FirstLetterExceptions** (Index), where Index is the abbreviation or the index number, to return a single **FirstLetterException** object. The following example deletes the abbreviation "appt." from the **[FirstLetterExceptions](firstletterexceptions-object-word.md)** collection.
 
 
 
@@ -29,7 +29,7 @@ Use  **FirstLetterExceptions** (Index), where Index is the abbreviation or the i
 AutoCorrect.FirstLetterExceptions("appt.").Delete
 ```
 
-The following example displays the name of the first item in the  **[FirstLetterExceptions](firstletterexceptions-object-word.md)** collection.
+The following example displays the name of the first item in the **[FirstLetterExceptions](firstletterexceptions-object-word.md)** collection.
 
 
 
@@ -38,7 +38,7 @@ The following example displays the name of the first item in the  **[FirstLetter
 MsgBox AutoCorrect.FirstLetterExceptions(1).Name
 ```
 
-Use the  **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
+Use the **Add** method to add an abbreviation to the list of first-letter exceptions. The following example adds the abbreviation "addr." to this list.
 
 
 

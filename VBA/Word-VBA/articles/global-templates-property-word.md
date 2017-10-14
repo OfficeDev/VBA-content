@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Templates Property (Word)
 
-Returns a  **Templates** collection that represents all the available templates—global templates and those attached to open documents.
+Returns a **Templates** collection that represents all the available templates—global templates and those attached to open documents.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ For information about returning a single member of a collection, see [Returning 
 
 ## Example
 
-This example displays the name of each template in the  **Templates** collection.
+This example displays the name of each template in the **Templates** collection.
 
 
 ```vb

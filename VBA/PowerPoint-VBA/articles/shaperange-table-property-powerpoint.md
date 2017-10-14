@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Table Property (PowerPoint)
 
-Returns a  **[Table](table-object-powerpoint.md)** object that represents a table in a shape or in a shape range. Read-only.
+Returns a **[Table](table-object-powerpoint.md)** object that represents a table in a shape or in a shape range. Read-only.
 
 
 ## Syntax

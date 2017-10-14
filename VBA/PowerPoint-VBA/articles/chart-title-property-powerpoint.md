@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Title Property (PowerPoint)
 
-Gets or sets a  **String** that represents the title of the chart. Read/write.
+Gets or sets a **String** that represents the title of the chart. Read/write.
 
 
 ## Syntax

@@ -30,10 +30,10 @@ String
 
 ## Remarks
 
-The  **NameID** property returns a unique identifier for each shape on a page or master. The identifier has the following form: sheet. _N_ , where _N_ is the shape's **ID** property. The value of the **NameID** property is unique within a page or master, but not across pages or masters. At any moment, no other shape on the same page or master has the same **NameID** property. However, shapes on other pages or masters may have the same **NameID** property.
+The **NameID** property returns a unique identifier for each shape on a page or master. The identifier has the following form: sheet. _N_ , where _N_ is the shape's **ID** property. The value of the **NameID** property is unique within a page or master, but not across pages or masters. At any moment, no other shape on the same page or master has the same **NameID** property. However, shapes on other pages or masters may have the same **NameID** property.
 
-The value of a shape's  **UniqueID** property is unique across pages and masters.
+The value of a shape's **UniqueID** property is unique across pages and masters.
 
-Also,  **NameID** properties are reused. If a shape whose **NameID** property is sheet. _N_ is deleted, a shape subsequently added to the same context may be assigned sheet.N as its **NameID** property. Therefore, persisting **NameID** properties in separate data stores is generally not as sound as persisting **UniqueID** properties.
+Also, **NameID** properties are reused. If a shape whose **NameID** property is sheet. _N_ is deleted, a shape subsequently added to the same context may be assigned sheet.N as its **NameID** property. Therefore, persisting **NameID** properties in separate data stores is generally not as sound as persisting **UniqueID** properties.
 
 

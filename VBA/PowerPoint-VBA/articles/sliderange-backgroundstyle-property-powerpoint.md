@@ -25,7 +25,7 @@ Sets or returns the background style of the specified object. Read/write.
 
 ## Remarks
 
-The value of the  **BackgroundStyle** property can be one of the **[MsoBackgroundStyleIndex](http://msdn.microsoft.com/library/76a4589b-404b-0e8e-3b75-d72d65ba2987%28Office.15%29.aspx)** constants.
+The value of the **BackgroundStyle** property can be one of the **[MsoBackgroundStyleIndex](http://msdn.microsoft.com/library/76a4589b-404b-0e8e-3b75-d72d65ba2987%28Office.15%29.aspx)** constants.
 
 
 ## See also

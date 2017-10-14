@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.Path Property (Project)
 
-Gets the path of the open project. Read-only  **String**.
+Gets the path of the open project. Read-only **String**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the path of the open project. Read-only  **String**.
 
 ## Remarks
 
-The  **Path** property returns an empty string ("") for an unsaved project.
+The **Path** property returns an empty string ("") for an unsaved project.
 
 

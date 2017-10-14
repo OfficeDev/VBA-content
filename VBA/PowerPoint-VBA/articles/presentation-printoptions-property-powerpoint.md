@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.PrintOptions Property (PowerPoint)
 
-Returns a  **[PrintOptions](printoptions-object-powerpoint.md)** object that represents print options that are saved with the specified presentation. Read-only.
+Returns a **[PrintOptions](printoptions-object-powerpoint.md)** object that represents print options that are saved with the specified presentation. Read-only.
 
 
 ## Syntax

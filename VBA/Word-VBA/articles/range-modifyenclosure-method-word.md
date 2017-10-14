@@ -29,8 +29,8 @@ Adds, modifies, or removes an enclosure around the specified character or charac
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required| **Variant**|The style of the enclosure. Can be any  **WdEncloseStyle** constant.|
-| _Symbol_|Optional| **Variant**|The symbol in which to enclose the specified range. Can be any  **WdEnclosureType** constant.|
+| _Style_|Required| **Variant**|The style of the enclosure. Can be any **WdEncloseStyle** constant.|
+| _Symbol_|Optional| **Variant**|The symbol in which to enclose the specified range. Can be any **WdEnclosureType** constant.|
 | _EnclosedText_|Optional| **Variant**|The characters that you want to enclose. If you include this argument, Microsoft Word replaces the specified range with the enclosed characters. If you don't specify text to enclose, Microsoft Word encloses all text in the specified range.|
 
 ## Example

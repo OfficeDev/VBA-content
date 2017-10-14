@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Baseline3Start Property (Project)
 
-Gets or sets the baseline start date of a task  **Assignment**. Read/write **Variant**.Read/write.
+Gets or sets the baseline start date of a task **Assignment**. Read/write **Variant**.Read/write.
 
 
 ## Syntax

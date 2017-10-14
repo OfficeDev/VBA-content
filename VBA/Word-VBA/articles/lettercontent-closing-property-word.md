@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.Closing Property (Word)
 
-Returns or sets the closing text for a letter created by the Letter Wizard (for example, "Sincerely yours"). Read/write  **String** .
+Returns or sets the closing text for a letter created by the Letter Wizard (for example, "Sincerely yours"). Read/write **String** .
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This example displays the closing text from the active document.
 MsgBox ActiveDocument.GetLetterContent.Closing
 ```
 
-This example retrieves letter elements from the active document, changes the closing text by setting the  **Closing** property, and then uses the **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the document to reflect the changes.
+This example retrieves letter elements from the active document, changes the closing text by setting the **Closing** property, and then uses the **[SetLetterContent](document-setlettercontent-method-word.md)** method to update the document to reflect the changes.
 
 
 

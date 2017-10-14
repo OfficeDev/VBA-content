@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeek.WeekDays Property (Project)
 
-Gets a  **[WorkWeekDays](year-object-project.md)** collection representing the days in the work week. Read-only **WorkWeekDays**.
+Gets a **[WorkWeekDays](year-object-project.md)** collection representing the days in the work week. Read-only **WorkWeekDays**.
 
 
 ## Syntax

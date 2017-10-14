@@ -33,7 +33,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-Constants that represent possible  **Position** property values are listed below. They are also declared by the Visio type library in **VisUIBarPosition** .
+Constants that represent possible **Position** property values are listed below. They are also declared by the Visio type library in **VisUIBarPosition** .
 
 
 
@@ -49,9 +49,9 @@ Constants that represent possible  **Position** property values are listed below
 
 ## Example
 
-This example shows how to use the  **Position** property to set the position of a custom toolbar. The example adds a custom toolbar to the **Toolbars** collection. The toolbar appears in the Visio user interface and is available while the document is active.
+This example shows how to use the **Position** property to set the position of a custom toolbar. The example adds a custom toolbar to the **Toolbars** collection. The toolbar appears in the Visio user interface and is available while the document is active.
 
-To restore the built-in toolbars in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomToolbars** method.
+To restore the built-in toolbars in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomToolbars** method.
 
 
 

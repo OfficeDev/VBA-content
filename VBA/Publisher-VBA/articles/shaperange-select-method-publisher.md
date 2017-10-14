@@ -20,7 +20,7 @@ Selects the specified object.
 
  _expression_. **Select**( **_Replace_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -29,7 +29,7 @@ Selects the specified object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-|Replace|Optional| **Variant**|Specifies whether the selection replaces any previous selection.  **True** to replace the previous selection with the new selection; **False** to add the new selection to the previous selection. Default is **True**.|
+|Replace|Optional| **Variant**|Specifies whether the selection replaces any previous selection. **True** to replace the previous selection with the new selection; **False** to add the new selection to the previous selection. Default is **True**.|
 
 ## Example
 

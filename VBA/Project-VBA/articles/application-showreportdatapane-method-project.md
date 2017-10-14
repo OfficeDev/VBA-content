@@ -36,9 +36,9 @@ Shows or hides the report data pane, when a chart shape or table shape is select
 
 ## Remarks
 
-When a chart shape or table shape is selected in a report, the  **ShowReportDataPane** method can show or hide the **Field List** data pane for the chart or table. The method corresponds to the **Show Field List** command or **Hide Field List** command in the option menu when you right-click a chart or a table.
+When a chart shape or table shape is selected in a report, the **ShowReportDataPane** method can show or hide the **Field List** data pane for the chart or table. The method corresponds to the **Show Field List** command or **Hide Field List** command in the option menu when you right-click a chart or a table.
 
-If a chart or table is not selected, the  **ShowReportDataPane** method displays a dialog box with run-time error 1100, "The method is not available in this situation." For other views, such as the Gantt chart, the **ShowReportDataPane** method has no effect, but returns **True**.
+If a chart or table is not selected, the **ShowReportDataPane** method displays a dialog box with run-time error 1100, "The method is not available in this situation." For other views, such as the Gantt chart, the **ShowReportDataPane** method has no effect, but returns **True**.
 
 
 ## See also

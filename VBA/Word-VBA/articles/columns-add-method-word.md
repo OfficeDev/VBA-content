@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.Add Method (Word)
 
-Returns a  **Column** object that represents a column added to a table.
+Returns a **Column** object that represents a column added to a table.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **Column** object that represents a column added to a table.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _BeforeColumn_|Optional| **Variant**|A  **Column** object that represents the column that will appear immediately to the right of the new column.|
+| _BeforeColumn_|Optional| **Variant**|A **Column** object that represents the column that will appear immediately to the right of the new column.|
 
 ### Return Value
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.PathForPictures Property (Publisher)
 
-Returns a  **String** that represents the default path for picture files. Read.
+Returns a **String** that represents the default path for picture files. Read.
 
 
 ## Syntax
 
  _expression_. **PathForPictures**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value

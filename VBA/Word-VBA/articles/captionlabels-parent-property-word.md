@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabels.Parent Property (Word)
 
-Returns an  **Object** that represents the parent object of the specified **CaptionLabels** object.
+Returns an **Object** that represents the parent object of the specified **CaptionLabels** object.
 
 
 ## Syntax

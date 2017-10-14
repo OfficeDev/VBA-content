@@ -35,9 +35,9 @@ The property name is passed to the procedure so that you can determine which cus
 
 ## Example
 
-This Microsoft Visual Basic Scripting Edition (VBScript) example uses the  **CustomPropertyChange** event to enable a control when a **Boolean** field is set to **True** .
+This Microsoft Visual Basic Scripting Edition (VBScript) example uses the **CustomPropertyChange** event to enable a control when a **Boolean** field is set to **True** .
 
-For this example, create two custom fields on the second page of a form. The first, a  **Boolean** field, is named "RespondBy". The second field is named "DateToRespond".
+For this example, create two custom fields on the second page of a form. The first, a **Boolean** field, is named "RespondBy". The second field is named "DateToRespond".
 
 
 

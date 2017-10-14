@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Styles.Add Method (Word)
 
-Returns a  **HeadingStyle** object that represents a new heading style added to a document.
+Returns a **HeadingStyle** object that represents a new heading style added to a document.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a  **HeadingStyle** object that represents a new heading style added to 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Style_|Required| **Variant**|The style you want to add. You can specify this argument by using either the string name for the style or a  **Style** object.|
+| _Style_|Required| **Variant**|The style you want to add. You can specify this argument by using either the string name for the style or a **Style** object.|
 | _Level_|Required| **Integer**|A number that represents the level of the heading.|
 
 ### Return Value

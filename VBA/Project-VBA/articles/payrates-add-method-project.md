@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PayRates.Add Method (Project)
 
-Adds a  **PayRate** object to a **PayRates** collection.
+Adds a **PayRate** object to a **PayRates** collection.
 
 
 ## Syntax

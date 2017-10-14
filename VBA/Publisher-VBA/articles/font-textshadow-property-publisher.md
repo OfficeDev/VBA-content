@@ -18,7 +18,7 @@ Returns a  [ShadowFormat](shadowformat-object-publisher.md) object that specifie
 
  _expression_. **TextShadow**
 
- _expression_A variable that represents a  **Font** object.
+ _expression_A variable that represents a **Font** object.
 
 
 ## Return value

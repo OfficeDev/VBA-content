@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Chart.BackWall Property (Project)
-Gets an  **Office.IMsoWalls** object that enables the user to individually format the back wall of a 3-D chart. Read-only **IMsoWalls**.
+Gets an **Office.IMsoWalls** object that enables the user to individually format the back wall of a 3-D chart. Read-only **IMsoWalls**.
 
 ## Syntax
 
@@ -21,7 +21,7 @@ Gets an  **Office.IMsoWalls** object that enables the user to individually forma
 
 ## Remarks
 
-To show the  **Office.IMsoWalls** object in the Object Browser, select the **Office** library, and then select **Show Hidden Members** in the option menu.
+To show the **Office.IMsoWalls** object in the Object Browser, select the **Office** library, and then select **Show Hidden Members** in the option menu.
 
 
 ## Property value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ResourceActiveDirectory Method (Project)
 
-Displays the  **Select Users or Groups** dialog box, where users can select resources for the project.
+Displays the **Select Users or Groups** dialog box, where users can select resources for the project.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Select Users or Groups** dialog box, where users can select reso
 
 ## Remarks
 
-The  **ResourceActiveDirectory** method is only available in resource views.
+The **ResourceActiveDirectory** method is only available in resource views.
 
 

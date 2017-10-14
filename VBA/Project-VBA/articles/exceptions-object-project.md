@@ -17,11 +17,11 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[Item](exceptions-item-property-project.md)** property to return a single **Exception** object.
+Use the **[Item](exceptions-item-property-project.md)** property to return a single **Exception** object.
  
 
  
-Use the  **[Add](exceptions-add-method-project.md)** method to add an **Exception** object to the **Exceptions** collection.
+Use the **[Add](exceptions-add-method-project.md)** method to add an **Exception** object to the **Exceptions** collection.
  
 
  

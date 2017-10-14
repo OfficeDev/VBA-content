@@ -34,7 +34,7 @@ Sizes the Word application window or the specified task window.
 
 ## Remarks
 
-If the window is maximized or minimized, an error occurs. Use the  **Width** or **Height** property to set the window width and height independently.
+If the window is maximized or minimized, an error occurs. Use the **Width** or **Height** property to set the window width and height independently.
 
 
 ## Example

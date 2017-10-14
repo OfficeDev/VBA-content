@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserDefinedProperties.Count Property (Outlook)
 
-Returns a  **Long** value that indicates the count of objects in the specified collection. Read-only.
+Returns a **Long** value that indicates the count of objects in the specified collection. Read-only.
 
 
 ## Syntax

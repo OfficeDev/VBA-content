@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.Language Property (Publisher)
 
-Returns a  **Long** that represents the language selected for the Microsoft Publisher user interface. Read-only.
+Returns a **Long** that represents the language selected for the Microsoft Publisher user interface. Read-only.
 
 
 ## Syntax
 
  _expression_. **Language**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The  **LanguageID** property value can be one of the ** [MsoLanguageID](http://msdn.microsoft.com/library/65ea40f0-9a09-3d76-1519-4acddcc5f367%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **LanguageID** property value can be one of the ** [MsoLanguageID](http://msdn.microsoft.com/library/65ea40f0-9a09-3d76-1519-4acddcc5f367%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

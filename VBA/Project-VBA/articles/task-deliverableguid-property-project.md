@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.DeliverableGuid Property (Project)
 
-Gets or sets the GUID of the task deliverable. Read/write  **String**.
+Gets or sets the GUID of the task deliverable. Read/write **String**.
 
 
 ## Syntax

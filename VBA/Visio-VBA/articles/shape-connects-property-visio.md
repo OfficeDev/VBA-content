@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Connects Property (Visio)
 
-Returns a  **Connects** collection for a shape, page, or master. Read-only.
+Returns a **Connects** collection for a shape, page, or master. Read-only.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ Connects
 
 ## Remarks
 
-The  **Connects** collection of a shape contains every **Connect** object for which the shape is returned by the **FromSheet** property. This tells you all the shapes to which the shape is connected.
+The **Connects** collection of a shape contains every **Connect** object for which the shape is returned by the **FromSheet** property. This tells you all the shapes to which the shape is connected.
 
-To obtain a  **Connects** collection that contains every **Connect** object for which the shape is the **ToSheet** property, use the shape's **FromConnects** property. This tells you all the shapes that are connected to this shape.
+To obtain a **Connects** collection that contains every **Connect** object for which the shape is the **ToSheet** property, use the shape's **FromConnects** property. This tells you all the shapes that are connected to this shape.
 
-The  **Connects** collection of a page contains a **Connect** object for every connection on the page.
+The **Connects** collection of a page contains a **Connect** object for every connection on the page.
 
-The  **Connects** collection of a master contains a **Connect** object for every connection in the master.
+The **Connects** collection of a master contains a **Connect** object for every connection in the master.
 
 

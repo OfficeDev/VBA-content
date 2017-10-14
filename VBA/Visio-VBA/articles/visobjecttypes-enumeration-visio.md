@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisObjectTypes Enumeration (Visio)
 
-Specifies codes returned by the  **ObjectType** property.
+Specifies codes returned by the **ObjectType** property.
 
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeFilterCriterion.CompareTo Property (Publisher)
 
-Returns or sets a  **String** that represents the text to compare in the query filter criterion. Read/write.
+Returns or sets a **String** that represents the text to compare in the query filter criterion. Read/write.
 
 
 ## Syntax
 
  _expression_. **CompareTo**
 
- _expression_A variable that represents a  **MailMergeFilterCriterion** object.
+ _expression_A variable that represents a **MailMergeFilterCriterion** object.
 
 
 ### Return Value

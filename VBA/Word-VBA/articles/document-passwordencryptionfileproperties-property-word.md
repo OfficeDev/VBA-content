@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify whether Word encrypts file properties for password-protected documents.
+Use the **[SetPasswordEncryptionOptions](document-setpasswordencryptionoptions-method-word.md)** method to specify whether Word encrypts file properties for password-protected documents.
 
 
 ## Example

@@ -13,30 +13,30 @@ ms.date: 06/08/2017
 
 # TableBackground Object (PowerPoint)
 
-Represents the background associated with a  **Table** object.
+Represents the background associated with a **Table** object.
 
 
 ## Remarks
 
-Use the  **[Background](table-background-property-powerpoint.md)** property of a **[Table](table-object-powerpoint.md)** object to return the **TableBackground** object associated with the table.
+Use the **[Background](table-background-property-powerpoint.md)** property of a **[Table](table-object-powerpoint.md)** object to return the **TableBackground** object associated with the table.
 
  To get a **Table** object from an existing shape, use the **Table** property of the **[Shape](shape-object-powerpoint.md)** or **[ShapeRange](shaperange-object-powerpoint.md)** object that contains the table. You can create a shape that contains a table by using the **[AddTable](shapes-addtable-method-powerpoint.md)** method of the **[Shapes](shapes-object-powerpoint.md)** collection.
 
-The properties of the  **TableBackground** object return objects that represent various aspects of the formatting associated with a table.
+The properties of the **TableBackground** object return objects that represent various aspects of the formatting associated with a table.
 
 
-- Use the  **[Fill](tablebackground-fill-property-powerpoint.md)** property to return a **[FillFormat](fillformat-object-powerpoint.md)** object.
+- Use the **[Fill](tablebackground-fill-property-powerpoint.md)** property to return a **[FillFormat](fillformat-object-powerpoint.md)** object.
     
-- Use the  **[Picture](tablebackground-picture-property-powerpoint.md)** property to return a **[PictureFormat](pictureformat-object-powerpoint.md)** object.
+- Use the **[Picture](tablebackground-picture-property-powerpoint.md)** property to return a **[PictureFormat](pictureformat-object-powerpoint.md)** object.
     
-- Use the  **[Reflection](tablebackground-reflection-property-powerpoint.md)** property to return an **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99-113b-9808-1173fdd719a9%28Office.15%29.aspx)** object.
+- Use the **[Reflection](tablebackground-reflection-property-powerpoint.md)** property to return an **[ReflectionFormat](http://msdn.microsoft.com/library/9684dbb3-5b99-113b-9808-1173fdd719a9%28Office.15%29.aspx)** object.
     
-- Use the  **[Shadow](tablebackground-shadow-property-powerpoint.md)** property to return a **[ShadowFormat](shadowformat-object-powerpoint.md)** object.
+- Use the **[Shadow](tablebackground-shadow-property-powerpoint.md)** property to return a **[ShadowFormat](shadowformat-object-powerpoint.md)** object.
     
 
 ## Example
 
-The following example shows how to get a  **TableBackground** object and set two of its properties.
+The following example shows how to get a **TableBackground** object and set two of its properties.
 
 
 ```vb

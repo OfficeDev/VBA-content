@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Date7 Property (Project)
 
-Gets or sets the value of the  **Date7** custom field for the resource. Read/write **Variant**.
+Gets or sets the value of the **Date7** custom field for the resource. Read/write **Variant**.
 
 
 ## Syntax

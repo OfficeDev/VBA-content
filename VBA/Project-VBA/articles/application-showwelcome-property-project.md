@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Due to changes in the Project object model, the  **ShowWelcome** property no longer has an effect. It has been retained for backward compatibility.
+Due to changes in the Project object model, the **ShowWelcome** property no longer has an effect. It has been retained for backward compatibility.
 
 

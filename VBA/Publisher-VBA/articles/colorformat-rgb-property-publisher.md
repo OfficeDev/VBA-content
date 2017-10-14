@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ColorFormat.RGB Property (Publisher)
 
-Returns or sets an  **MsoRGBType** that represents the red-green-blue (RGB) value of the specified color. Read/write.
+Returns or sets an **MsoRGBType** that represents the red-green-blue (RGB) value of the specified color. Read/write.
 
 
 ## Syntax
 
  _expression_. **RGB**
 
- _expression_A variable that represents a  **ColorFormat** object.
+ _expression_A variable that represents a **ColorFormat** object.
 
 
 ### Return Value

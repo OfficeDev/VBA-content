@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ResourceGroups2 Object (Project)
 
-Represents all of the resource-based group definitions, where group hierarchy can be maintained.  **ResourceGroups2** is a collection of **[Group2](group2-object-project.md)** objects.
+Represents all of the resource-based group definitions, where group hierarchy can be maintained. **ResourceGroups2** is a collection of **[Group2](group2-object-project.md)** objects.
  
 
 
@@ -18,7 +18,7 @@ Represents all of the resource-based group definitions, where group hierarchy ca
  
 
  
-Use the  **[ResourceGroups2](project-resourcegroups2-property-project.md)** property to return a **ResourceGroups2** collection. The following example lists the names of all the resource groups in the active project.
+Use the **[ResourceGroups2](project-resourcegroups2-property-project.md)** property to return a **ResourceGroups2** collection. The following example lists the names of all the resource groups in the active project.
  
 
  
@@ -36,7 +36,7 @@ Next rg2
 MsgBox rGroups2
 ```
 
-Use the  **[Add](resourcegroups2-add-method-project.md)** method to add a **Group2** object to the **ResourceGroups2** collection. The following example creates a new group that groups resources by their standard rate and then modifies the criterion so that the resources are sorted in descending order.
+Use the **[Add](resourcegroups2-add-method-project.md)** method to add a **Group2** object to the **ResourceGroups2** collection. The following example creates a new group that groups resources by their standard rate and then modifies the criterion so that the resources are sorted in descending order.
  
 
  

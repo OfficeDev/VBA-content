@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ViewType Property (Outlook)
 
-Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant representing the view type of a **[View](view-object-outlook.md)** object. Read-only.
+Returns an **[OlViewType](olviewtype-enumeration-outlook.md)** constant representing the view type of a **[View](view-object-outlook.md)** object. Read-only.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns an  **[OlViewType](olviewtype-enumeration-outlook.md)** constant represe
 
 ## Remarks
 
-This property does not have any effect on the icons displayed in the Shortcuts pane. Large icons have been removed and if this property is set to  **olLargeIcon** , it will not have any effect.
+This property does not have any effect on the icons displayed in the Shortcuts pane. Large icons have been removed and if this property is set to **olLargeIcon** , it will not have any effect.
 
 
 ## Example
 
-The following Visual Basic for Applicatons (VBA) example displays the name and type of all views in the user's  **Inbox**.
+The following Visual Basic for Applicatons (VBA) example displays the name and type of all views in the user's **Inbox**.
 
 
 ```vb

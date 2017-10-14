@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Slide.HeadersFooters Property (PowerPoint)
 
-Returns a  **[HeadersFooters](headersfooters-object-powerpoint.md)** collection that represents the header, footer, date and time, and slide number associated with the slide, slide master, or range of slides. Read-only.
+Returns a **[HeadersFooters](headersfooters-object-powerpoint.md)** collection that represents the header, footer, date and time, and slide number associated with the slide, slide master, or range of slides. Read-only.
 
 
 ## Syntax

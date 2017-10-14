@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProofreadingErrors.Type Property (Word)
 
-Returns the type of proofreading error. Read-only  **[WdProofreadingErrorType](wdproofreadingerrortype-enumeration-word.md)** .
+Returns the type of proofreading error. Read-only **[WdProofreadingErrorType](wdproofreadingerrortype-enumeration-word.md)** .
 
 
 ## Syntax

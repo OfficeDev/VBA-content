@@ -25,7 +25,7 @@ Returns a [SmartArtLayouts](http://msdn.microsoft.com/library/25e33439-fb5e-01d7
 
 ## Remarks
 
-The set of layouts represented by the  **SmartArtLayouts** property correspond to the available layouts in the **Layouts** group on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
+The set of layouts represented by the **SmartArtLayouts** property correspond to the available layouts in the **Layouts** group on the **Design tab** on the **SmartArt Tools** contextual tab in Word.
 
 
 ## Example

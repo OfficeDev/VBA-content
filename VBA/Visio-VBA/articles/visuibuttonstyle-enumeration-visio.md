@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisUIButtonStyle Enumeration (Visio)
 
-Constants describing the style of command bar buttons to be passed to and returned by the  **ToolbarItem.Style** property.
+Constants describing the style of command bar buttons to be passed to and returned by the **ToolbarItem.Style** property.
 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.

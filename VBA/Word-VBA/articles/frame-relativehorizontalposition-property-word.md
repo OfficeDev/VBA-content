@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.RelativeHorizontalPosition Property (Word)
 
-Specifies the relative horizontal position of a frame. Read/write  **[WdRelativeHorizontalPosition](wdrelativehorizontalposition-enumeration-word.md)** .
+Specifies the relative horizontal position of a frame. Read/write **[WdRelativeHorizontalPosition](wdrelativehorizontalposition-enumeration-word.md)** .
 
 
 ## Syntax

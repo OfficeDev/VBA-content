@@ -30,7 +30,7 @@ PpHTMLVersion
 
 ## Remarks
 
-The value returned by the  **HTMLVersion** property can be one of these **PpHTMLVersion** constants. The default is **ppHTMLv4**.
+The value returned by the **HTMLVersion** property can be one of these **PpHTMLVersion** constants. The default is **ppHTMLv4**.
 
 
 ||

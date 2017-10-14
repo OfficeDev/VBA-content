@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ContourWidth Property (Word)
 
-Returns or sets a  **Single** that represents the width of the contour of a shape. Read/write.
+Returns or sets a **Single** that represents the width of the contour of a shape. Read/write.
 
 
 ## Syntax

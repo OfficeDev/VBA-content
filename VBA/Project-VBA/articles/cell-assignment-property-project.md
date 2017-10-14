@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Cell.Assignment Property (Project)
 
-Gets the  **[Assignment](assignment-object-project.md)** associated with the **[Cell](cell-object-project.md)**. Read-only **Assignment**.
+Gets the **[Assignment](assignment-object-project.md)** associated with the **[Cell](cell-object-project.md)**. Read-only **Assignment**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.AxisTitle Property (Word)
 
-Returns the title of the specified axis. Read-only  **[AxisTitle](axistitle-object-word.md)** .
+Returns the title of the specified axis. Read-only **[AxisTitle](axistitle-object-word.md)** .
 
 
 ## Syntax

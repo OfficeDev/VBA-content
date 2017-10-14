@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion.GroupInterval Property (Project)
 
-Gets or sets the interval for a field used as a criterion in a group definition. Read/write  **Variant**.
+Gets or sets the interval for a field used as a criterion in a group definition. Read/write **Variant**.
 
 
 ## Syntax

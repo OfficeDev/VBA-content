@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.Duplicate Method (Publisher)
 
-Creates a duplicate of the specified  **[ParagraphFormat](paragraphformat-object-publisher.md)** object and then returns the new **ParagraphFormat** object.
+Creates a duplicate of the specified **[ParagraphFormat](paragraphformat-object-publisher.md)** object and then returns the new **ParagraphFormat** object.
 
 
 ## Syntax
 
  _expression_. **Duplicate**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value

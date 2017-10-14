@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.ReturnAddressShortForm Property (Word)
 
-Returns or sets the short form address. Read/write  **String** .
+Returns or sets the short form address. Read/write **String** .
 
 
 ## Syntax

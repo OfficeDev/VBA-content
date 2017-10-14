@@ -18,7 +18,7 @@ Contains properties and methods that apply to linked OLE objects, linked picture
 
 ## Example
 
-Use the  **LinkFormat** property to return a **LinkFormat** object. The following example loops through all the shapes on all the slides in the active presentation and sets all linked Microsoft Excel worksheets to be updated manually.
+Use the **LinkFormat** property to return a **LinkFormat** object. The following example loops through all the shapes on all the slides in the active presentation and sets all linked Microsoft Excel worksheets to be updated manually.
 
 
 ```

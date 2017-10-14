@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.AddFieldEx Method (Visio)
 
-Replaces the text represented by a  **Characters** object with a new field of the category, code, format, language ID, and calendar ID you specify.
+Replaces the text represented by a **Characters** object with a new field of the category, code, format, language ID, and calendar ID you specify.
 
 
 ## Syntax
@@ -62,7 +62,7 @@ The  _CalendarID_ argument should be one of the following values, which are decl
 | **visCalSakaEra**|7|Saka Era|
 | **visCalTranslitEnglish**|8| English transliterated|
 | **visCalTranslitFrench**|9| French transliterated|
-Using the  **AddFieldEx** method is similar to clicking **Field** on the **Insert** tab and inserting any of the following categories of fields into the text:
+Using the **AddFieldEx** method is similar to clicking **Field** on the **Insert** tab and inserting any of the following categories of fields into the text:
 
 
 - Date/Time
@@ -77,12 +77,12 @@ Using the  **AddFieldEx** method is similar to clicking **Field** on the **Inser
     
 
 
-To add a custom formula field, use the  **AddCustomField** or **AddCustomFieldU** method. When you do not pass values (or pass default values) for the optional _LangID_ and _CalendarID_ arguments, **AddFieldEx** acts exactly like **AddField** .
+To add a custom formula field, use the **AddCustomField** or **AddCustomFieldU** method. When you do not pass values (or pass default values) for the optional _LangID_ and _CalendarID_ arguments, **AddFieldEx** acts exactly like **AddField** .
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AddFieldEx** property to format a date field in a shape. It draws a rectangle on the drawing page and then inserts a field that displays the current date in Greek, using the Western calendar.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AddFieldEx** property to format a date field in a shape. It draws a rectangle on the drawing page and then inserts a field that displays the current date in Greek, using the Western calendar.
 
 
 ```vb

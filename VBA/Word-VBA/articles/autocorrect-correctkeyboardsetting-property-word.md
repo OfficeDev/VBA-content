@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[CheckLanguage](application-checklanguage-property-word.md)** property must be set to **True** to use the **CorrectKeyboardSetting** property.
+The **[CheckLanguage](application-checklanguage-property-word.md)** property must be set to **True** to use the **CorrectKeyboardSetting** property.
 
 
 ## Example

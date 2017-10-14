@@ -20,7 +20,7 @@ Specifies the type of driver supported by the printer. Read-only.
 
  _expression_. **DriverType**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Specifies the type of driver supported by the printer. Read-only.
 
 ## Remarks
 
-Possible values for the  **DriverType** property are declared in the **PbDriverType** enumeration and shown in the following table.
+Possible values for the **DriverType** property are declared in the **PbDriverType** enumeration and shown in the following table.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellRange.Borders Property (PowerPoint)
 
-Returns a  **[Borders](borders-object-powerpoint.md)** collection that represents the borders and diagonal lines for the specified **Cell** object or **CellRange** collection. Read-only.
+Returns a **[Borders](borders-object-powerpoint.md)** collection that represents the borders and diagonal lines for the specified **Cell** object or **CellRange** collection. Read-only.
 
 
 ## Syntax

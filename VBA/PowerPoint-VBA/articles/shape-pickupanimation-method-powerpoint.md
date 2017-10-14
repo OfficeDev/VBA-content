@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.PickupAnimation Method (PowerPoint)
 
-Picks up all animation from the  **Shape** object.
+Picks up all animation from the **Shape** object.
 
 
 ## Syntax

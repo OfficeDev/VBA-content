@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.Languages Property (Word)
 
-Returns a  **Languages** collection that represents the proofing languages listed in the **Language** dialog box.
+Returns a **Languages** collection that represents the proofing languages listed in the **Language** dialog box.
 
 
 ## Syntax

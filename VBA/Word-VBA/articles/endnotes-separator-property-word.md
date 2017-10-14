@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Endnotes.Separator Property (Word)
 
-Returns a  **Range** object that represents the endnote separator.
+Returns a **Range** object that represents the endnote separator.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureVerticalScale Property (Word)
 
-Returns or sets a  **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
+Returns or sets a **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Single** that specifies the vertical scaling factor for the
 
 ## Remarks
 
-The setting of the  **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the  **Format** tab, expand the **Shape Styles** group.)
+The setting of the **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the **Format** tab, expand the **Shape Styles** group.)
 
 
 ## See also

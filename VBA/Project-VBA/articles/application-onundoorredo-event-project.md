@@ -40,6 +40,6 @@ nothing
 
 ## Remarks
 
-You can use the  **OnUndoOrRedo** event to manage undo or redo actions that are specified by the global **OpenUndoTransaction** and **CloseUndoTransaction** methods.
+You can use the **OnUndoOrRedo** event to manage undo or redo actions that are specified by the global **OpenUndoTransaction** and **CloseUndoTransaction** methods.
 
 

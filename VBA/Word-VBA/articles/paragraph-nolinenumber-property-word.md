@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** . Use the **[LineNumbering](pagesetup-linenumbering-property-word.md)** property of the **[PageSetup](pagesetup-object-word.md)** object to set line numbers.
+This property can be **True** , **False** , or **wdUndefined** . Use the **[LineNumbering](pagesetup-linenumbering-property-word.md)** property of the **[PageSetup](pagesetup-object-word.md)** object to set line numbers.
 
 
 ## Example

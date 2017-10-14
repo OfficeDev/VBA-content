@@ -16,9 +16,9 @@ Represents a repeating section item in a content control.
 
 ## Remarks
 
-To get a  **RepeatingSectionItem** object, use the **Item** method of the[RepeatingSectionItemColl](repeatingsectionitemcoll-object-word.md) collection.
+To get a **RepeatingSectionItem** object, use the **Item** method of the[RepeatingSectionItemColl](repeatingsectionitemcoll-object-word.md) collection.
 
-You can insert additional repeating section items before or after the specified repeating section item by using the  **InsertItemBefore** or **InsertItemAfter** methods. To delete the specified repeating section item, use the **Delete** method. To get the range of the specified repeating section item, use the **Range** property.
+You can insert additional repeating section items before or after the specified repeating section item by using the **InsertItemBefore** or **InsertItemAfter** methods. To delete the specified repeating section item, use the **Delete** method. To get the range of the specified repeating section item, use the **Range** property.
 
 
 ## See also

@@ -20,21 +20,21 @@ Occurs when a user undoes the last action performed.
 
  _expression_. **Undo**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ## Remarks
 
-The  **Undo** event occurs immediately after the action is undone.
+The **Undo** event occurs immediately after the action is undone.
 
-If multiple actions are undone, the  **Undo** event occurs only once, after all the actions are undone.
+If multiple actions are undone, the **Undo** event occurs only once, after all the actions are undone.
 
-For more information about using events with the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
+For more information about using events with the **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
 
 
 ## Example
 
-This example displays a message when the user clicks  **Undo** on the **Standard** toolbar or selects **Undo** from the **Edit** menu. For this routine to work with the current publication, you must put it in the ThisDocument module.
+This example displays a message when the user clicks **Undo** on the **Standard** toolbar or selects **Undo** from the **Edit** menu. For this routine to work with the current publication, you must put it in the ThisDocument module.
 
 
 ```vb

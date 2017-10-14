@@ -19,7 +19,7 @@ Represents the background of a page.
 
 ## Example
 
-Use the  **Background** property of a **Page** object to return a **PageBackground** object. The following example creates a **PageBackground** object and sets it to the background of the first page of the active document.
+Use the **Background** property of a **Page** object to return a **PageBackground** object. The following example creates a **PageBackground** object and sets it to the background of the first page of the active document.
  
 
  
@@ -30,7 +30,7 @@ Set objPageBackground = ActiveDocument.Pages(1).Background
  
 ```
 
-Use  **PageBackground.Exists** to determine if a background already exists for the specified **Page** object. The following example builds upon the previous example. First a **PageBackground** object is created and set to the background of the first page of the active document. Then a test is made to check if a background exists for the page already. If not then one is created by calling the **Create** method of the **PageBackground** object.
+Use **PageBackground.Exists** to determine if a background already exists for the specified **Page** object. The following example builds upon the previous example. First a **PageBackground** object is created and set to the background of the first page of the active document. Then a test is made to check if a background exists for the page already. If not then one is created by calling the **Create** method of the **PageBackground** object.
  
 
  
@@ -46,7 +46,7 @@ End If
  
 ```
 
-Use  **PageBackground.Fill** to return a **FillFormat** object. The following example builds upon the previous example. First a **PageBackground** object is created and set to the background of the first page of the active document. Then a test is made to check if a background exists for the page already. If not then one is created by calling the **Create** method of the **PageBackground** object. A **FillFormat** object is returned by using the **Fill** property of the **PageBackground** object. A few of the available properties of the **FillFormat** object are then set.
+Use **PageBackground.Fill** to return a **FillFormat** object. The following example builds upon the previous example. First a **PageBackground** object is created and set to the background of the first page of the active document. Then a test is made to check if a background exists for the page already. If not then one is created by calling the **Create** method of the **PageBackground** object. A **FillFormat** object is returned by using the **Fill** property of the **PageBackground** object. A few of the available properties of the **FillFormat** object are then set.
  
 
  
@@ -71,7 +71,7 @@ End With
  
 ```
 
-Use  **PageBackground.Delete** to delete a background for the specified page. The following example deletes the background of the first page in the active document. (The following example assumes the specified page has an existing background. A run-time error occurs if the page does not contain a background.)
+Use **PageBackground.Delete** to delete a background for the specified page. The following example deletes the background of the first page in the active document. (The following example assumes the specified page has an existing background. A run-time error occurs if the page does not contain a background.)
  
 
  

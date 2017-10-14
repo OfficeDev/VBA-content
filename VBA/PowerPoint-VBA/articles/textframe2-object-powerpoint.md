@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextFrame2 Object (PowerPoint)
 
-Represents the text frame in a  **[Shape](shape-object-powerpoint.md)** or **[ShapeRange](shaperange-object-powerpoint.md)** object. Contains the text in the text frame and exposes properties and methods that control the alignment and anchoring of the text frame.
+Represents the text frame in a **[Shape](shape-object-powerpoint.md)** or **[ShapeRange](shaperange-object-powerpoint.md)** object. Contains the text in the text frame and exposes properties and methods that control the alignment and anchoring of the text frame.
 
 
 ## Remarks
 
-Use the  **TextFrame2** property of the **Shape** and **ShapeRange** objects to return a **TextFrame2** object.
+Use the **TextFrame2** property of the **Shape** and **ShapeRange** objects to return a **TextFrame2** object.
 
-Use the  **HasTextFrame** property to determine whether a shape or shape range has a text frame, and use the **HasText** property to determine whether the text frame contains text.
+Use the **HasTextFrame** property to determine whether a shape or shape range has a text frame, and use the **HasText** property to determine whether the text frame contains text.
 
 
 ## Example
@@ -54,7 +54,7 @@ Public Sub TextFrame2_Example()
 End Sub
 ```
 
-The following example shows how to use the  **HasTextFrame** property to determine whether a shape has a text frame, and then how to use the **HasText** property to determine whether the text frame contains text.
+The following example shows how to use the **HasTextFrame** property to determine whether a shape has a text frame, and then how to use the **HasText** property to determine whether the text frame contains text.
 
 
 

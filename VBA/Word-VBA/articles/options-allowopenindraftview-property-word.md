@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AllowOpenInDraftView Property (Word)
 
-Returns or sets a  **Boolean** that represents whether to allow users to open documents in draft view. Read/write.
+Returns or sets a **Boolean** that represents whether to allow users to open documents in draft view. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents whether to allow users to open do
 
 ## Remarks
 
-This property corresponds to the  **Allow opening a document in draft view** check box in the **Word Options** dialog box.
+This property corresponds to the **Allow opening a document in draft view** check box in the **Word Options** dialog box.
 
 
 ## See also

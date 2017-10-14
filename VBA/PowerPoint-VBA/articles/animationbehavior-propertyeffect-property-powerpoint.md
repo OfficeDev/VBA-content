@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AnimationBehavior.PropertyEffect Property (PowerPoint)
 
-Returns a  **[PropertyEffect](propertyeffect-object-powerpoint.md)** object for a given animation behavior. Read-only.
+Returns a **[PropertyEffect](propertyeffect-object-powerpoint.md)** object for a given animation behavior. Read-only.
 
 
 ## Syntax

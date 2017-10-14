@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BarBoxFormat Method (Project)
 
-Displays the  **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or Calendar is the active view) or **Format Box** dialog box (if the Network Diagram is the active view).
+Displays the **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or Calendar is the active view) or **Format Box** dialog box (if the Network Diagram is the active view).
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Displays the  **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or 
 
 ## Remarks
 
-The  **BarBoxFormat** method has the same effect as selecting **Bar** (Gantt Chart, Resource Graph, and Calendar views) or **Box** (Network Diagram) on the **Format** menu.
+The **BarBoxFormat** method has the same effect as selecting **Bar** (Gantt Chart, Resource Graph, and Calendar views) or **Box** (Network Diagram) on the **Format** menu.
 
 

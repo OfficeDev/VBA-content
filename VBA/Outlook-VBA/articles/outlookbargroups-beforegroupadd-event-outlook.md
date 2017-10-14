@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutlookBarGroups.BeforeGroupAdd Event (Outlook)
 
-Occurs before a new group is added to the  **Shortcuts** pane, either as a result of user action or through program code.
+Occurs before a new group is added to the **Shortcuts** pane, either as a result of user action or through program code.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Occurs before a new group is added to the  **Shortcuts** pane, either as a resul
 
 ## Example
 
-This Visual Basic for Applications (VBA) example prevents the user from adding a group to the  **Shortcuts** pane. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
+This Visual Basic for Applications (VBA) example prevents the user from adding a group to the **Shortcuts** pane. The sample code must be placed in a class module such as `ThisOutlookSession`, and the  `Initialize_handler` routine must be called before the event procedure can be called by Outlook.
 
 
 ```vb

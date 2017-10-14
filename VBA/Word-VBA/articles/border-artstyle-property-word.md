@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Border.ArtStyle Property (Word)
 
-Returns or sets the graphical page-border design for a document. Read/write  **WdPageBorderArt** .
+Returns or sets the graphical page-border design for a document. Read/write **WdPageBorderArt** .
 
 
 ## Syntax

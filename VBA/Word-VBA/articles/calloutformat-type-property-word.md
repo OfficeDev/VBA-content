@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Type Property (Word)
 
-Returns or sets the callout type. Read/write  **MsoCalloutType** .
+Returns or sets the callout type. Read/write **MsoCalloutType** .
 
 
 ## Syntax

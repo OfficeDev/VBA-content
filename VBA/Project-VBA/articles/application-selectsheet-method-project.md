@@ -30,6 +30,6 @@ Selects all cells in the active table.
 
 ## Remarks
 
-The  **SelectSheet** method is only available when the Gantt Chart, Task Sheet, Task Usage view, Resource Sheet, or Resource Usage view is the active view.
+The **SelectSheet** method is only available when the Gantt Chart, Task Sheet, Task Usage view, Resource Sheet, or Resource Usage view is the active view.
 
 

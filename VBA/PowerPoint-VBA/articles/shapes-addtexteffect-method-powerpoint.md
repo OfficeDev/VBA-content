@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddTextEffect Method (PowerPoint)
 
-Creates a WordArt object. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new WordArt object.
+Creates a WordArt object. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new WordArt object.
 
 
 ## Syntax

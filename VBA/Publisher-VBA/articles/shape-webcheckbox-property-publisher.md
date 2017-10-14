@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Shape.WebCheckBox Property (Publisher)
 
-Returns the  **[WebCheckBox](webcheckbox-object-publisher.md)** object associated with the specified shape.
+Returns the **[WebCheckBox](webcheckbox-object-publisher.md)** object associated with the specified shape.
 
 
 ## Syntax
 
  _expression_. **WebCheckBox**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Return Value

@@ -41,7 +41,7 @@ Sets the quick style of the specified shape.
 
 ## Remarks
 
-Calling the  **SetQuickStyle** method corresponds to setting a quick style in the **Shape Styles** gallery on the **Home** tab of the ribbon.
+Calling the **SetQuickStyle** method corresponds to setting a quick style in the **Shape Styles** gallery on the **Home** tab of the ribbon.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationRules.Add Method (Visio)
 
-Adds a new, empty  **[ValidationRule](validationrule-object-visio.md)** object to the **[ValidationRules](validationrules-object-visio.md)** collection of the document.
+Adds a new, empty **[ValidationRule](validationrule-object-visio.md)** object to the **[ValidationRules](validationrules-object-visio.md)** collection of the document.
 
 
 ## Syntax
@@ -40,14 +40,14 @@ Adds a new, empty  **[ValidationRule](validationrule-object-visio.md)** object t
 
 If the  _NameU_ parameter is not a valid string, Visio returns an Invalid Parameter error.
 
-The default property values of the new validation rule are as follows:  **[Category](validationrule-category-property-visio.md)** = [empty]; **[Description](validationrule-description-property-visio.md)** = "Unknown"; **[FilterExpression](validationrule-filterexpression-property-visio.md)** = [empty]; **[Ignored](validationrule-ignored-property-visio.md)** = **False** ; **[TargetType](validationrule-targettype-property-visio.md)** = **visRuleTargetShape** ; **[TestExpression](validationrule-testexpression-property-visio.md)** = [empty].
+The default property values of the new validation rule are as follows: **[Category](validationrule-category-property-visio.md)** = [empty]; **[Description](validationrule-description-property-visio.md)** = "Unknown"; **[FilterExpression](validationrule-filterexpression-property-visio.md)** = [empty]; **[Ignored](validationrule-ignored-property-visio.md)** = **False** ; **[TargetType](validationrule-targettype-property-visio.md)** = **visRuleTargetShape** ; **[TestExpression](validationrule-testexpression-property-visio.md)** = [empty].
 
 
 ## Example
 
 The following sample code is based on code provided by: [David Parker](http://www.bvisual.net)
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **Add** method to add a new validation rule named "UngluedConnector" to an existing validation rule set named "Fault Tree Analysis" in the active document.
+The following Visual Basic for Applications (VBA) example shows how to use the **Add** method to add a new validation rule named "UngluedConnector" to an existing validation rule set named "Fault Tree Analysis" in the active document.
 
 
 

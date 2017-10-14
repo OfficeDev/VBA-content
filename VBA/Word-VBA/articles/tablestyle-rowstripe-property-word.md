@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.RowStripe Property (Word)
 
-Returns or sets a  **Long** that represents the number of rows to include in the banding when a style specifies odd- or even-row banding. Read/write.
+Returns or sets a **Long** that represents the number of rows to include in the banding when a style specifies odd- or even-row banding. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Long** that represents the number of rows to include in the
 
 ## Remarks
 
-Use the  **[Condition](tablestyle-condition-method-word.md)** method to set odd- or even-column banding for a table style.
+Use the **[Condition](tablestyle-condition-method-word.md)** method to set odd- or even-column banding for a table style.
 
 
 ## Example

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisZoomBehavior Enumeration (Visio)
 
-Flags used in conjunction with the  **Application.DefaultZoomBehavior** , **Document.ZoomBehavior** , and **Window.ZoomBehavior** properties.
+Flags used in conjunction with the **Application.DefaultZoomBehavior** , **Document.ZoomBehavior** , and **Window.ZoomBehavior** properties.
 
 
 ****

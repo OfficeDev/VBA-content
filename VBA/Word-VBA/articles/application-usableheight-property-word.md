@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UsableHeight Property (Word)
 
-Returns the maximum height (in points) to which you can set the height of a Microsoft Word document window. Read-only  **Long** .
+Returns the maximum height (in points) to which you can set the height of a Microsoft Word document window. Read-only **Long** .
 
 
 ## Syntax

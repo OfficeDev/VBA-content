@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.DefaultWorkUnits Property (Project)
 
-Gets or sets the default work units for the project. Read/write  **PjUnit**.
+Gets or sets the default work units for the project. Read/write **PjUnit**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the default work units for the project. Read/write  **PjUnit**.
 
 ## Remarks
 
-The  **DefaultWorkUnits** property can be one of the following **[PjUnit](pjunit-enumeration-project.md)** constants: **pjMinute**, **pjHour**, **pjDay, pjWeek**, or **pjMonthUnit**.
+The **DefaultWorkUnits** property can be one of the following **[PjUnit](pjunit-enumeration-project.md)** constants: **pjMinute**, **pjHour**, **pjDay, pjWeek**, or **pjMonthUnit**.
 
 

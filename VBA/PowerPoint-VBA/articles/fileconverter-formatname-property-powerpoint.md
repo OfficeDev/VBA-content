@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.FormatName Property (PowerPoint)
 
-Returns the name of the specified file converter. Read-only  **String**.
+Returns the name of the specified file converter. Read-only **String**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the name of the specified file converter. Read-only  **String**.
 
 ## Remarks
 
-The format names appear in the  **Save as type** box in the **Save As** dialog box.
+The format names appear in the **Save as type** box in the **Save As** dialog box.
 
 
 ## Example

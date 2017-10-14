@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # LayoutGuides.Rows Property (Publisher)
 
-Sets or returns a  **Long** that represents the number of rows in a layout guide. Read/write.
+Sets or returns a **Long** that represents the number of rows in a layout guide. Read/write.
 
 
 ## Syntax
 
  _expression_. **Rows**
 
- _expression_A variable that represents a  **LayoutGuides** object.
+ _expression_A variable that represents a **LayoutGuides** object.
 
 
 ## Example

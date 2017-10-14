@@ -15,6 +15,6 @@ Executes the Reply action for the item or items selected in the control.
 
  _expression_. **Reply**
 
- _expression_A variable that represents a  **ViewCtl** object.
+ _expression_A variable that represents a **ViewCtl** object.
 
 

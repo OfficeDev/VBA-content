@@ -15,14 +15,14 @@ Represents a list of the names of all the available fonts.
 
 ## Remarks
 
-Use the  **FontNames** , **LandscapeFontNames** , or **PortraitFontNames** property to return the **FontNames** object. The following example displays the number of portrait fonts available.
+Use the **FontNames** , **LandscapeFontNames** , or **PortraitFontNames** property to return the **FontNames** object. The following example displays the number of portrait fonts available.
 
 
 ```vb
 MsgBox PortraitFontNames.Count &; " fonts available"
 ```
 
-This example lists all the font names in the  **FontNames** object at the end of the active document.
+This example lists all the font names in the **FontNames** object at the end of the active document.
 
 
 
@@ -33,7 +33,7 @@ For Each aFont In FontNames
 Next aFont
 ```
 
-Use  **FontNames** (Index), where Index is the index number, to return the name of a font. The following example displays the first font name in the **FontNames** object.
+Use **FontNames** (Index), where Index is the index number, to return the name of a font. The following example displays the first font name in the **FontNames** object.
 
 
 

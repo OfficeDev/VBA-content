@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.RightIndent Property (Publisher)
 
-Returns or sets a  **Variant** that represents the right indent (in points) for the specified paragraphs. Read/write.
+Returns or sets a **Variant** that represents the right indent (in points) for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
  _expression_. **RightIndent**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ Variant
 
 ## Example
 
-This example sets the right indent for all paragraphs in the active document to one inch from the right margin. The  **[InchesToPoints](application-inchestopoints-method-publisher.md)** method is used to convert inches to points. This example assumes that there is at least one shape on the first page of the active publication.
+This example sets the right indent for all paragraphs in the active document to one inch from the right margin. The **[InchesToPoints](application-inchestopoints-method-publisher.md)** method is used to convert inches to points. This example assumes that there is at least one shape on the first page of the active publication.
 
 
 ```vb

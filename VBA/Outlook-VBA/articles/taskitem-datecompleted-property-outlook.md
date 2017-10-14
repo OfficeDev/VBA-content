@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.DateCompleted Property (Outlook)
 
-Returns or sets a  **Date** indicating the completion date of the task. Read/write.
+Returns or sets a **Date** indicating the completion date of the task. Read/write.
 
 
 ## Syntax

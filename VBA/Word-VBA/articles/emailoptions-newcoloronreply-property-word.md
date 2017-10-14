@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **NewColorOnReply** property if you want the reply text of e-mail messages sent from Microsoft Word to be a different color than the original message.
+Use the **NewColorOnReply** property if you want the reply text of e-mail messages sent from Microsoft Word to be a different color than the original message.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.FinishVariance Property (Project)
 
-Gets the variance (in minutes) between the baseline finish date and the finish date of a task. Read-only  **Variant**.
+Gets the variance (in minutes) between the baseline finish date and the finish date of a task. Read-only **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.MailSubject Property (Word)
 
-Returns or sets the subject line used when the mail merge destination is electronic mail. Read/write  **String** .
+Returns or sets the subject line used when the mail merge destination is electronic mail. Read/write **String** .
 
 
 ## Syntax

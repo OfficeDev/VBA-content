@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **Import** property is used by the wizard for local resources only.
+The **Import** property is used by the wizard for local resources only.
 
 

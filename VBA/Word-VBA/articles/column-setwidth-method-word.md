@@ -34,7 +34,7 @@ Sets the width of a column in a table.
 
 ## Remarks
 
-The  **[WdRulerStyle](wdrulerstyle-enumeration-word.md)** behavior described above applies to left-aligned tables. The **WdRulerStyle** behavior for center- and right-aligned tables can be unexpected; in these cases, the **SetWidth** method should be used with care.
+The **[WdRulerStyle](wdrulerstyle-enumeration-word.md)** behavior described above applies to left-aligned tables. The **WdRulerStyle** behavior for center- and right-aligned tables can be unexpected; in these cases, the **SetWidth** method should be used with care.
 
 
 ## See also

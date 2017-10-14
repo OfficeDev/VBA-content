@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Reply Method (Outlook)
 
-Creates a reply, pre-addressed to the original sender, from the original  **[SharingItem](sharingitem-object-outlook.md)** .
+Creates a reply, pre-addressed to the original sender, from the original **[SharingItem](sharingitem-object-outlook.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Creates a reply, pre-addressed to the original sender, from the original  **[Sha
 
 ### Return Value
 
-A  **[MailItem](mailitem-object-outlook.md)** object that represents the reply.
+A **[MailItem](mailitem-object-outlook.md)** object that represents the reply.
 
 
 ## See also

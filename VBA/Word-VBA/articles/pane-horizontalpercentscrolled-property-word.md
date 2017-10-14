@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.HorizontalPercentScrolled Property (Word)
 
-Returns or sets the horizontal scroll position as a percentage of the document width. Read/write  **Long** .
+Returns or sets the horizontal scroll position as a percentage of the document width. Read/write **Long** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.CreateSelection Method (Visio)
 
-Creates various types of  **Selection** objects.
+Creates various types of **Selection** objects.
 
 
 ## Syntax
@@ -40,9 +40,9 @@ Selection
 
 ## Remarks
 
-The  **CreateSelection** method makes it possible to create complex selections programmatically. So instead of having to select all shapes on a page, for example, you can select only those on a given layer, or only those based on a certain master.
+The **CreateSelection** method makes it possible to create complex selections programmatically. So instead of having to select all shapes on a page, for example, you can select only those on a given layer, or only those based on a certain master.
 
-Calling the  **CreateSelection** method with _SelType_ equal to **visSelTypeByType** or **visSelTypeByLayer** is equivalent to selecting options in the **Select byType** dialog box (click **Select** in the **Editing** group on the **Home** tab, and then click **Select by Type**).
+Calling the **CreateSelection** method with _SelType_ equal to **visSelTypeByType** or **visSelTypeByLayer** is equivalent to selecting options in the **Select byType** dialog box (click **Select** in the **Editing** group on the **Home** tab, and then click **Select by Type**).
 
 The  _SelType_ argument should be one of the following values, which are declared in **VisSelectionTypes** in the Visio type library.
 

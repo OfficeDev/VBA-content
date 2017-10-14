@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisPageSizingBehaviors Enumeration (Visio)
 
-Values for the  **DrawingControl.PageSizingBehavior** property.
+Values for the **DrawingControl.PageSizingBehavior** property.
 
 
 

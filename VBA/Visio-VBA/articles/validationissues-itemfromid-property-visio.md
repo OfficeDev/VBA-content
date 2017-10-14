@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ValidationIssues.ItemFromID Property (Visio)
 
-Returns the  **[ValidationIssue](validationissue-object-visio.md)** object that matches the specified ID. Read-only.
+Returns the **[ValidationIssue](validationissue-object-visio.md)** object that matches the specified ID. Read-only.
 
 
 ## Syntax

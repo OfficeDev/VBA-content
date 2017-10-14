@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** , or wdUndefined (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** (reverses the current setting).
+Returns **True** , **False** , or wdUndefined (a mixture of **True** and **False** ). Can be set to **True** , **False** , or **wdToggle** (reverses the current setting).
 
-Setting  **AllCaps** to **True** sets **[SmallCaps](font-smallcaps-property-word.md)** to **False** , and vice versa.
+Setting **AllCaps** to **True** sets **[SmallCaps](font-smallcaps-property-word.md)** to **False** , and vice versa.
 
 
 ## Example

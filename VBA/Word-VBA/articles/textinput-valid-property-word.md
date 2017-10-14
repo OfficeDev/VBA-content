@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example determines whether the first form field in the active document is a text form field. If the  **Valid** property is **True** , the contents of the text form field are changed to "Hello."
+This example determines whether the first form field in the active document is a text form field. If the **Valid** property is **True** , the contents of the text form field are changed to "Hello."
 
 
 ```vb

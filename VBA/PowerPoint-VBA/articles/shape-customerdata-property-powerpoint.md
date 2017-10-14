@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.CustomerData Property (PowerPoint)
 
-Returns a  **[CustomerData](customerdata-object-powerpoint.md)** object. Read-only.
+Returns a **[CustomerData](customerdata-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax

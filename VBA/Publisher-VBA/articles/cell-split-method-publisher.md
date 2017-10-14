@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Cell.Split Method (Publisher)
 
-Splits a merged table cell back into its constituent cells. Returns a  **[CellRange](cellrange-object-publisher.md)** object representing the constituent cells.
+Splits a merged table cell back into its constituent cells. Returns a **[CellRange](cellrange-object-publisher.md)** object representing the constituent cells.
 
 
 ## Syntax
 
  _expression_. **Split**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ CellRange
 
 ## Remarks
 
-If the specified cell is not a merged cell resulting from using the  **[Merge](cell-merge-method-publisher.md)** method, an error occurs.
+If the specified cell is not a merged cell resulting from using the **[Merge](cell-merge-method-publisher.md)** method, an error occurs.
 
 
 ## Example

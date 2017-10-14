@@ -33,7 +33,7 @@ ActiveDocument.PrintFormsData = True
 ActiveDocument.PrintOut
 ```
 
-This example returns the current status of the  **Print data only for forms** check box in the **Options for current document only** area on the **Print** tab in the **Options** dialog box.
+This example returns the current status of the **Print data only for forms** check box in the **Options for current document only** area on the **Print** tab in the **Options** dialog box.
 
 
 

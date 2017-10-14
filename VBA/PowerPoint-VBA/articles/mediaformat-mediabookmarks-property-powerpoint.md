@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MediaFormat.MediaBookmarks Property (PowerPoint)
 
-Returns a  **MediaBookmarks** collection that represents the media bookmarks associated with the specified object. Read-only.
+Returns a **MediaBookmarks** collection that represents the media bookmarks associated with the specified object. Read-only.
 
 
 ## Syntax

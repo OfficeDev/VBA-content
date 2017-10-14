@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLabels.Add Method (Word)
 
-Adds a custom mailing label to the  **CustomLabels** collection. Returns a **CustomLabel** object that represents the custom mailing label.
+Adds a custom mailing label to the **CustomLabels** collection. Returns a **CustomLabel** object that represents the custom mailing label.
 
 
 ## Syntax

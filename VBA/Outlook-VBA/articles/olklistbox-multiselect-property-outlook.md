@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkListBox.MultiSelect Property (Outlook)
 
-Returns or sets an  **[OlMultiSelect](olmultiselect-enumeration-outlook.md)** constant that specifies the range of items that can be selected in the list box control. Read/write.
+Returns or sets an **[OlMultiSelect](olmultiselect-enumeration-outlook.md)** constant that specifies the range of items that can be selected in the list box control. Read/write.
 
 
 ## Syntax

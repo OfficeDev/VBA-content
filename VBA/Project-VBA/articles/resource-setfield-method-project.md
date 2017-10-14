@@ -26,27 +26,27 @@ Sets the value of the specified resource custom field.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**Long**|For a local custom field, can be one of the  **[PjField](pjfield-enumeration-project.md)** constants for resource custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method to get the FieldID.|
+| _FieldID_|Required|**Long**|For a local custom field, can be one of the **[PjField](pjfield-enumeration-project.md)** constants for resource custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](application-fieldnametofieldconstant-method-project.md)** method to get the FieldID.|
 | _Value_|Required|**String**|The value of the field.|
 
 ## Example
 
-The following example shows how to access an enterprise resource custom field by using the  **SetField** method and the **GetField** method for the **Resource** object together with the **FieldNameToFieldConstant** and **FieldConstantToFieldName** methods.
+The following example shows how to access an enterprise resource custom field by using the **SetField** method and the **GetField** method for the **Resource** object together with the **FieldNameToFieldConstant** and **FieldConstantToFieldName** methods.
 
 
-1. To use the example, use Project Web App to create an enterprise resource text custom field named, for example,  **TestEntResText**. 
+1. To use the example, use Project Web App to create an enterprise resource text custom field named, for example, **TestEntResText**. 
     
 2. Restart Project Professional with a Project Server profile, so that it includes the new custom field.
     
 3. Create a project, build the team from enterprise resources, and then assign a resource to the first task.
     
-4. The  **TestEnterpriseResourceCF** macro uses the **FieldNameToFieldConstant** method to find the resourceField number, for example, 205553667.
+4. The **TestEnterpriseResourceCF** macro uses the **FieldNameToFieldConstant** method to find the resourceField number, for example, 205553667.
     
-5. The macro shows the number and text value in a message box, by using the  **GetField** method.
+5. The macro shows the number and text value in a message box, by using the **GetField** method.
     
-6. The macro sets a new value for the custom field, by using the  **SetField** method.
+6. The macro sets a new value for the custom field, by using the **SetField** method.
     
-7. The macro gets the field name by using the  **FieldConstantToFieldName** method, and then shows the field name and new value in another message box.
+7. The macro gets the field name by using the **FieldConstantToFieldName** method, and then shows the field name and new value in another message box.
     
 
 
@@ -88,6 +88,6 @@ Sub TestEnterpriseResourceCF()
 End Sub
 ```
 
-For an example that uses a local resource custom field, see the  **[GetField](resource-getfield-method-project.md)** method.
+For an example that uses a local resource custom field, see the **[GetField](resource-getfield-method-project.md)** method.
 
 

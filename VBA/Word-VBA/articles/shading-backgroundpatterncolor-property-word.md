@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shading.BackgroundPatternColor Property (Word)
 
-Returns or sets the 24-bit color that's applied to the background of the  **Shading** object. Read/write.
+Returns or sets the 24-bit color that's applied to the background of the **Shading** object. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the 24-bit color that's applied to the background of the  **Shad
 
 ## Remarks
 
-This property can be any valid  **WdColor** constant or a value returned by Visual Basic's **RGB** function.
+This property can be any valid **WdColor** constant or a value returned by Visual Basic's **RGB** function.
 
 
 ## Example

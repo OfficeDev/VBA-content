@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Left Property (Project)
-Gets or sets the horizontal distance, in points, from the left side of the report to the left edge of the shape range. Read-write  **Single**.
+Gets or sets the horizontal distance, in points, from the left side of the report to the left edge of the shape range. Read-write **Single**.
 
 ## Syntax
 

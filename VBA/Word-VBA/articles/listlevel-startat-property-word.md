@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.StartAt Property (Word)
 
-Returns or sets the starting number for the specified  **ListLevel** object. Read/write **Long** .
+Returns or sets the starting number for the specified **ListLevel** object. Read/write **Long** .
 
 
 ## Syntax

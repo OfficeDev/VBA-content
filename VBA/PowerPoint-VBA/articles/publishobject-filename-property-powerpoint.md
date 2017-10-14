@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The  **FileName** property generates an error if a folder in the specified path does not exist.
+The **FileName** property generates an error if a folder in the specified path does not exist.
 
 
 ## Example

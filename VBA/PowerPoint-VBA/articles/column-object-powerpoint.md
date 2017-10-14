@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Column Object (PowerPoint)
 
-Represents a table column. The  **Column** object is a member of the **[Columns](columns-object-powerpoint.md)** collection. The **Columns** collection includes all the columns in a table.
+Represents a table column. The **Column** object is a member of the **[Columns](columns-object-powerpoint.md)** collection. The **Columns** collection includes all the columns in a table.
 
 
 ## Example
 
-Use  **Columns** (index) to return a single **Column** object. Index represents the position of the column in the **Columns** collection (usually counting from left to right; although the **[TableDirection](table-tabledirection-property-powerpoint.md)** property can reverse this). This example selects the first column of the table in shape five on the second slide.
+Use **Columns** (index) to return a single **Column** object. Index represents the position of the column in the **Columns** collection (usually counting from left to right; although the **[TableDirection](table-tabledirection-property-powerpoint.md)** property can reverse this). This example selects the first column of the table in shape five on the second slide.
 
 
 ```vb
 ActivePresentation.Slides(2).Shapes(5).Table.Columns(1).Select
 ```
 
-Use the  **Cell** object to indirectly reference the **Column** object. This example deletes the text in the first cell (row 1, column 1), inserts new text, and then sets the width of the entire column to 110 points.
+Use the **Cell** object to indirectly reference the **Column** object. This example deletes the text in the first cell (row 1, column 1), inserts new text, and then sets the width of the entire column to 110 points.
 
 
 
@@ -42,7 +42,7 @@ With ActivePresentation.Slides(2).Shapes(5).Table.Cell(1, 1)
 End With
 ```
 
-Use the  **[Add](columns-add-method-powerpoint.md)** method to add a column to a table. This example creates a column in an existing table and sets the column width to 72 points (one inch).
+Use the **[Add](columns-add-method-powerpoint.md)** method to add a column to a table. This example creates a column in an existing table and sets the column width to 72 points (one inch).
 
 
 
@@ -55,7 +55,7 @@ With ActivePresentation.Slides(2).Shapes(5).Table
 End With
 ```
 
-Use the  **[Cells](column-cells-property-powerpoint.md)** property to modify the individual cells in a **Column** object. This example selects the first column in the table and applies a dashed line style to the bottom border.
+Use the **[Cells](column-cells-property-powerpoint.md)** property to modify the individual cells in a **Column** object. This example selects the first column in the table and applies a dashed line style to the bottom border.
 
 
 

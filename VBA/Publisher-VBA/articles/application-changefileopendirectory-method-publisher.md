@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.ChangeFileOpenDirectory Method (Publisher)
 
-Sets the folder in which Microsoft Publisher searches for documents. The specified folder's contents are listed the next time the  **Open Publication** dialog box ( **File** menu) is displayed.
+Sets the folder in which Microsoft Publisher searches for documents. The specified folder's contents are listed the next time the **Open Publication** dialog box ( **File** menu) is displayed.
 
 
 ## Syntax
 
  _expression_. **ChangeFileOpenDirectory**( **_Dir_**)
 
- _expression_A variable that represents an  **Application** object.
+ _expression_A variable that represents an **Application** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets the folder in which Microsoft Publisher searches for documents. The specifi
 
 ## Remarks
 
-Publisher searches the specified folder for documents until the user changes the folder in the  **Open Publication** dialog box or the current Publisher session ends. Use the **[PathForPublications](options-pathforpublications-property-publisher.md)** property of the  **Options** object to change the default folder for documents in every Publisher session.
+Publisher searches the specified folder for documents until the user changes the folder in the **Open Publication** dialog box or the current Publisher session ends. Use the **[PathForPublications](options-pathforpublications-property-publisher.md)** property of the **Options** object to change the default folder for documents in every Publisher session.
 
 
 ## Example

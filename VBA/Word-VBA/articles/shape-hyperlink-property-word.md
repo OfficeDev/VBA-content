@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Hyperlink Property (Word)
 
-Returns a  **Hyperlink** object that represents the hyperlink associated with a **Shape** object. Read-only.
+Returns a **Hyperlink** object that represents the hyperlink associated with a **Shape** object. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Hyperlink** object that represents the hyperlink associated with a 
 
 ## Remarks
 
-If there is no hyperlink associated with the specified shape, an error occurs. In this case, use the  **[Add](hyperlinks-add-method-word.md)** method for the **[Hyperlinks](hyperlinks-object-word.md)** collection to add a hyperlink to the specified shape. The following example shows how to do this.
+If there is no hyperlink associated with the specified shape, an error occurs. In this case, use the **[Add](hyperlinks-add-method-word.md)** method for the **[Hyperlinks](hyperlinks-object-word.md)** collection to add a hyperlink to the specified shape. The following example shows how to do this.
 
 
 ```vb

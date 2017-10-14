@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Broadcast.Capabilities Property (Word)
 
-Returns a  **Long** that represents the capabilities of the specified broadcast. Read-only.
+Returns a **Long** that represents the capabilities of the specified broadcast. Read-only.
 
 
 ## Syntax
@@ -23,7 +23,7 @@ Returns a  **Long** that represents the capabilities of the specified broadcast.
 
 ## Remarks
 
-The  **Capabilities** property can return the following[MSOBroadcastCapabilities](http://msdn.microsoft.com/library/445ff0f7-fcb1-d65a-b055-189c268e2076%28Office.15%29.aspx) values:
+The **Capabilities** property can return the following[MSOBroadcastCapabilities](http://msdn.microsoft.com/library/445ff0f7-fcb1-d65a-b055-189c268e2076%28Office.15%29.aspx) values:
 
 
 

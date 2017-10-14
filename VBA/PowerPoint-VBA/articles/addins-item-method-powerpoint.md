@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIns.Item Method (PowerPoint)
 
-Returns a single  **Addin** object from the specified **Addins** collection.
+Returns a single **Addin** object from the specified **Addins** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Addin** object from the specified **Addins** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the single  **Addin** object in the collection to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the single **Addin** object in the collection to be returned.|
 
 ### Return Value
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Application.WizardCatalogVisible Property (Publisher)
 
-Returns or sets a  **Boolean** indicating whether the Wizard Catalog is visible. Read/write.
+Returns or sets a **Boolean** indicating whether the Wizard Catalog is visible. Read/write.
 
 
 ## Syntax
 
  _expression_. **WizardCatalogVisible**
 
- _expression_A variable that represents a  **Application** object.
+ _expression_A variable that represents a **Application** object.
 
 
 ### Return Value

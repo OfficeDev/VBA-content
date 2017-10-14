@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Range Property (Word)
 
-Returns a  **Range** object that represents the portion of a document that is contained within a hyperlink.
+Returns a **Range** object that represents the portion of a document that is contained within a hyperlink.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Changes the rotation of the specified shape around the z-axis (extends outward f
 
  _expression_. **IncrementRotation**( **_Increment_**)
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ### Parameters
@@ -33,9 +33,9 @@ Changes the rotation of the specified shape around the z-axis (extends outward f
 
 ## Remarks
 
-Use the  **[Rotation](shaperange-rotation-property-publisher.md)** property to set the absolute rotation of the shape.
+Use the **[Rotation](shaperange-rotation-property-publisher.md)** property to set the absolute rotation of the shape.
 
-To rotate a three-dimensional shape around the x-axis (horizontal) or the y-axis (vertical), use the  **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** method or the  **[IncrementRotationY](threedformat-incrementrotationy-method-publisher.md)** method, respectively.
+To rotate a three-dimensional shape around the x-axis (horizontal) or the y-axis (vertical), use the **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** method or the **[IncrementRotationY](threedformat-incrementrotationy-method-publisher.md)** method, respectively.
 
 
 ## Example

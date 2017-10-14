@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-The  **ToPart** property identifies the part of a shape to which another shape is glued, such as its begin point or endpoint, one of its edges, or a connection point. The following constants declared by the Visio type library in member **VisToParts** show possible return values for the **ToPart** property.
+The **ToPart** property identifies the part of a shape to which another shape is glued, such as its begin point or endpoint, one of its edges, or a connection point. The following constants declared by the Visio type library in member **VisToParts** show possible return values for the **ToPart** property.
 
 
 

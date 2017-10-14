@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Categories.Count Property (Word)
 
-Returns the number of items in the  **Categories** collection. Read-only **Long** .
+Returns the number of items in the **Categories** collection. Read-only **Long** .
 
 
 ## Syntax

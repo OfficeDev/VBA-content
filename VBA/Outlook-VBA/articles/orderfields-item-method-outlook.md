@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OrderFields.Item Method (Outlook)
 
-Returns an  **[OrderField](orderfield-object-outlook.md)** object from the collection.
+Returns an **[OrderField](orderfield-object-outlook.md)** object from the collection.
 
 
 ## Syntax
@@ -29,11 +29,11 @@ Returns an  **[OrderField](orderfield-object-outlook.md)** object from the colle
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The value can be a one-based integer that indexes an  **OrderField** object in the **[OrderFields](orderfields-object-outlook.md)** collection, a string that matches the **[ViewXMLSchemaName](orderfield-viewxmlschemaname-property-outlook.md)** property value of an **OrderField** object in the collection, or a field name as displayed in the Field Chooser.|
+| _Index_|Required| **Variant**|The value can be a one-based integer that indexes an **OrderField** object in the **[OrderFields](orderfields-object-outlook.md)** collection, a string that matches the **[ViewXMLSchemaName](orderfield-viewxmlschemaname-property-outlook.md)** property value of an **OrderField** object in the collection, or a field name as displayed in the Field Chooser.|
 
 ### Return Value
 
-An  **OrderField** object that represents the specified object.
+An **OrderField** object that represents the specified object.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathAutoCorrectEntries Object (Word)
 
-Represents a collection of math AutoCorrect entries. Use the  **[OMathAutoCorrectEntry](omathautocorrectentry-object-word.md)** object to access individual AutoCorrect entries.
+Represents a collection of math AutoCorrect entries. Use the **[OMathAutoCorrectEntry](omathautocorrectentry-object-word.md)** object to access individual AutoCorrect entries.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SlideShowWindow.View Property (PowerPoint)
 
-Returns a  **[SlideShowView](slideshowview-object-powerpoint.md)** object. Read-only.
+Returns a **[SlideShowView](slideshowview-object-powerpoint.md)** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ SlideShowView
 
 ## Example
 
-This example uses the  **View** property to exit the current slide show, sets the view in the active window to slide view, and then displays slide three.
+This example uses the **View** property to exit the current slide show, sets the view in the active window to slide view, and then displays slide three.
 
 
 ```vb

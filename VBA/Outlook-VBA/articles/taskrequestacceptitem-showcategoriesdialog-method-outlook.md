@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskRequestAcceptItem.ShowCategoriesDialog Method (Outlook)
 
-Displays the  **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
+Displays the **Show Categories** dialog box, which allows you to select categories that correspond to the subject of the item.
 
 
 ## Syntax

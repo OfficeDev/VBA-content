@@ -20,7 +20,7 @@ Exports the active page of the publication as an HTML file.
 
  _expression_. **ExportEmailHTML**( **_Filename_**)
 
- _expression_A variable that represents a  **Page** object.
+ _expression_A variable that represents a **Page** object.
 
 
 ### Parameters

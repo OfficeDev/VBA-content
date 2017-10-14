@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Assignment.ResourceType Property (Project)
 
-Gets the type of resource for the assignment. Read-only  **PjResourceTypes**.
+Gets the type of resource for the assignment. Read-only **PjResourceTypes**.
 
 
 ## Syntax
@@ -25,6 +25,6 @@ Gets the type of resource for the assignment. Read-only  **PjResourceTypes**.
 
 ## Remarks
 
-The  **ResourceType** property can be one of the following **[PjResourceTypes](pjresourcetypes-enumeration-project.md)** constants: **pjResourceTypeWork** or **pjResourceTypeMaterial**.
+The **ResourceType** property can be one of the following **[PjResourceTypes](pjresourcetypes-enumeration-project.md)** constants: **pjResourceTypeWork** or **pjResourceTypeMaterial**.
 
 

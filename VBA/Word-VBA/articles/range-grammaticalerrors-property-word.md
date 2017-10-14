@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.GrammaticalErrors Property (Word)
 
-Returns a  **[ProofreadingErrors](proofreadingerrors-object-word.md)** collection that represents the sentences that failed the grammar check on the specified document or range. Read-only.
+Returns a **[ProofreadingErrors](proofreadingerrors-object-word.md)** collection that represents the sentences that failed the grammar check on the specified document or range. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[ProofreadingErrors](proofreadingerrors-object-word.md)** collectio
 
 ## Remarks
 
-There can be more than one error per sentence. If there are no grammatical errors, the  **Count** property for the **ProofreadingErrors** object returned by the **GrammaticalErrors** property returns 0 (zero).
+There can be more than one error per sentence. If there are no grammatical errors, the **Count** property for the **ProofreadingErrors** object returned by the **GrammaticalErrors** property returns 0 (zero).
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
 

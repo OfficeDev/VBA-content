@@ -8,12 +8,12 @@ ms.date: 06/08/2017
 
 # Borders Object (Word)
 
-A collection of  **[Border](border-object-word.md)** objects that represent the borders of an object.
+A collection of **[Border](border-object-word.md)** objects that represent the borders of an object.
 
 
 ## Remarks
 
-Use the  **Borders** property to return the **Borders** collection. The following example applies the default border around the first paragraph in the active document.
+Use the **Borders** property to return the **Borders** collection. The following example applies the default border around the first paragraph in the active document.
 
 
 ```
@@ -22,9 +22,9 @@ ActiveDocument.Paragraphs(1).Borders.Enable = True
 
  **[Border](border-object-word.md)** objects cannot be added to the **Borders** collection. The number of members in the **Borders** collection is finite and varies depending on the type of object. For example, a table has six elements in the **Borders** collection, whereas a paragraph has four.
 
-Use  **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](wdbordertype-enumeration-word.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
+Use **Borders** (index), where index identifies the border, to return a single **Border** object. Index can be one of the **[WdBorderType](wdbordertype-enumeration-word.md)** constants. Some of the **WdBorderType** constants may not be available to you, depending on the language support (U.S. English, for example) that you have selected or installed.
 
-Use the  **[LineStyle](border-linestyle-property-word.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
+Use the **[LineStyle](border-linestyle-property-word.md)** property to apply a border line to a **Border** object. The following example applies a double-line border below the first paragraph in the active document.
 
 
 

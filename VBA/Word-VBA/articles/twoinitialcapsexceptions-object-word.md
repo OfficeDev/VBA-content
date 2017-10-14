@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # TwoInitialCapsExceptions Object (Word)
 
-A collection of  **[TwoInitialCapsException](twoinitialcapsexception-object-word.md)** objects that represent all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
+A collection of **[TwoInitialCapsException](twoinitialcapsexception-object-word.md)** objects that represent all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
 
 
 ## Remarks
 
-Use the  **TwoInitialCapsExceptions** property to return the **TwoInitialCapsExceptions** collection. The following example displays the items in this collection.
+Use the **TwoInitialCapsExceptions** property to return the **TwoInitialCapsExceptions** collection. The following example displays the items in this collection.
 
 
 ```vb
@@ -25,7 +25,7 @@ For Each aCap In AutoCorrect.TwoInitialCapsExceptions
 Next aCap
 ```
 
-If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
+If the **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
 
 
 
@@ -34,7 +34,7 @@ If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically
 AutoCorrect.TwoInitialCapsExceptions.Add Name:="INdustry"
 ```
 
-Use  **TwoInitialCapsExceptions** (Index), where Index is the initial cap name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital item named "KMenu."
+Use **TwoInitialCapsExceptions** (Index), where Index is the initial cap name or the index number, to return a single **TwoInitialCapsException** object. The following example deletes the initial-capital item named "KMenu."
 
 
 
@@ -43,7 +43,7 @@ Use  **TwoInitialCapsExceptions** (Index), where Index is the initial cap name o
 AutoCorrect.TwoInitialCapsExceptions("KMenu").Delete
 ```
 
-The index number represents the position of the initial-capital exception in the  **TwoInitialCapsExceptions** collection. The following example displays the name of the first item in the **TwoInitialCapsExceptions** collection.
+The index number represents the position of the initial-capital exception in the **TwoInitialCapsExceptions** collection. The following example displays the name of the first item in the **TwoInitialCapsExceptions** collection.
 
 
 

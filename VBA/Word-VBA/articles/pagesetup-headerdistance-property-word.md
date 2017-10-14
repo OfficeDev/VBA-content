@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.HeaderDistance Property (Word)
 
-Returns or sets the distance (in points) between the header and the top of the page. Read/write  **Single** .
+Returns or sets the distance (in points) between the header and the top of the page. Read/write **Single** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the distance (in points) between the header and the top of the p
 
 ## Example
 
-This example displays the distance between the header and the top of the page. The  **[PointsToInches](global-pointstoinches-method-word.md)** method is used to convert points to inches.
+This example displays the distance between the header and the top of the page. The **[PointsToInches](global-pointstoinches-method-word.md)** method is used to convert points to inches.
 
 
 ```vb

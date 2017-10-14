@@ -20,7 +20,7 @@ Specifies how many scope replacements are to be made: one, all, or none. Read/wr
 
  _expression_. **ReplaceScope**
 
- _expression_A variable that represents a  **FindReplace** object.
+ _expression_A variable that represents a **FindReplace** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ PbReplaceScope
 
 ## Remarks
 
-The  **ReplaceScope** property value can be one of the **[PbReplaceScope](pbreplacescope-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **ReplaceScope** property value can be one of the **[PbReplaceScope](pbreplacescope-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
-The default setting of the  **ReplaceScope** property is **pbReplaceScopeNone**.
+The default setting of the **ReplaceScope** property is **pbReplaceScopeNone**.
 
 
 ## Example

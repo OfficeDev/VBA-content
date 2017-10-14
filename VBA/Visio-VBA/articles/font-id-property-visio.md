@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-For  **Font** objects, the **ID** property corresponds to the number stored in the Font cell of the row in a shape's Character Properties section. For example, to apply the font named "Arial" to a shape's text, create a **Font** object that represents "Arial," get the ID of that font, and then set the **CharProps** property of the **Shape** object to that ID.
+For **Font** objects, the **ID** property corresponds to the number stored in the Font cell of the row in a shape's Character Properties section. For example, to apply the font named "Arial" to a shape's text, create a **Font** object that represents "Arial," get the ID of that font, and then set the **CharProps** property of the **Shape** object to that ID.
 
 The ID associated with a particular font varies from system to system or as fonts are installed and removed on a given system.
 

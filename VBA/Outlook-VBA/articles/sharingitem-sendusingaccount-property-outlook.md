@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SendUsingAccount Property (Outlook)
 
-Returns or sets an  **[Account](account-object-outlook.md)** object that represents the account under which the **[SharingItem](sharingitem-object-outlook.md)** is to be sent. Read/write.
+Returns or sets an **[Account](account-object-outlook.md)** object that represents the account under which the **[SharingItem](sharingitem-object-outlook.md)** is to be sent. Read/write.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns or sets an  **[Account](account-object-outlook.md)** object that represe
 
 ## Remarks
 
-The  **SendUsingAccount** property can be used to specify the account that should be used to send the **SharingItem** when the **[Send](sharingitem-send-method-outlook.md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the **SharingItem** is a received item, or if the account specified for the **SharingItem** no longer exists.
+The **SendUsingAccount** property can be used to specify the account that should be used to send the **SharingItem** when the **[Send](sharingitem-send-method-outlook.md)** method is called. This property returns **Null** ( **Nothing** in Visual Basic) if the **SharingItem** is a received item, or if the account specified for the **SharingItem** no longer exists.
 
-This property is read-only if the  **SharingItem** is a received item, or if the **SharingItem** has already been sent (the **[Sent](sharingitem-sent-property-outlook.md)** property of the object is set to **True** .)
+This property is read-only if the **SharingItem** is a received item, or if the **SharingItem** has already been sent (the **[Sent](sharingitem-sent-property-outlook.md)** property of the object is set to **True** .)
 
 
 ## See also

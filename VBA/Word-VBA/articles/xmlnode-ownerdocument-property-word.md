@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XMLNode.OwnerDocument Property (Word)
 
-Returns a  **Document** object that represents the parent document of the specified XML element.
+Returns a **Document** object that represents the parent document of the specified XML element.
 
 
 ## Syntax

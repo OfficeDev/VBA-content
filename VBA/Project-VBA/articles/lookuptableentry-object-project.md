@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  
 
-Represents an entry in a lookup table in Project. The  **LookupTableEntry** object is a member of the **[LookupTable](lookuptable-object-project.md)** collection.
+Represents an entry in a lookup table in Project. The **LookupTableEntry** object is a member of the **[LookupTable](lookuptable-object-project.md)** collection.
  
  **Using the LookupTableEntry Object**
  

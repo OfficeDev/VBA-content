@@ -30,12 +30,12 @@ Integer
 
 ## Remarks
 
-Setting the  **ShowRulers** property is the same as selecting **Ruler** in the **Show/Hide** group on the **View** tab.
+Setting the **ShowRulers** property is the same as selecting **Ruler** in the **Show/Hide** group on the **View** tab.
 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ShowRulers** property to switch display of the rulers on and off.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **ShowRulers** property to switch display of the rulers on and off.
 
 
 ```vb

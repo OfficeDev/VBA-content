@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMergeDataSources.Item Method (Publisher)
 
-Returns the  **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object at the specified index position in the **MailMergeDataSources** collection.
+Returns the **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object at the specified index position in the **MailMergeDataSources** collection.
 
 
 ## Syntax
 
  _expression_. **Item**( **_varIndex_**)
 
- _expression_A variable that represents a  **MailMergeDataSources** collection.
+ _expression_A variable that represents a **MailMergeDataSources** collection.
 
 
 ### Parameters
@@ -38,18 +38,18 @@ MailMergeDataSource
 
 ## Remarks
 
-The  **Item** method is the default member of the **MailMergeDataSources** collection
+The **Item** method is the default member of the **MailMergeDataSources** collection
 
-If there is only a single  **MailMergeDataSource** object in the active document, the **MailMergeDataSources** collection is empty. In that case, if you try to use the **DataSources** property of the **MailMergeDataSource** object to get the data sources collection, Microsoft Publisher returns an error.
+If there is only a single **MailMergeDataSource** object in the active document, the **MailMergeDataSources** collection is empty. In that case, if you try to use the **DataSources** property of the **MailMergeDataSource** object to get the data sources collection, Microsoft Publisher returns an error.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the names of all the connected data sources in the  **MailMergeDataSources** collection in the active document. It uses the **IsDataSourceConnected** property of the active document to determine if a data source is connected.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to get the names of all the connected data sources in the **MailMergeDataSources** collection in the active document. It uses the **IsDataSourceConnected** property of the active document to determine if a data source is connected.
 
-If one or more data sources is connected, the macro uses the  **Count** property of the **MailMergeDataSources** collection to determine how many data sources are connected.
+If one or more data sources is connected, the macro uses the **Count** property of the **MailMergeDataSources** collection to determine how many data sources are connected.
 
-If just one data source is connected, the macro prints the name of that data source in the  **Immediate** window; if more than one data source is connected, the macro uses the **Item** method of the **MailMergeDataSources** collection to iterate through the collection and the **Name** property of the **MailMergeDataSource** object to print the name of each connected data source in the **Immediate** window.
+If just one data source is connected, the macro prints the name of that data source in the **Immediate** window; if more than one data source is connected, the macro uses the **Item** method of the **MailMergeDataSources** collection to iterate through the collection and the **Name** property of the **MailMergeDataSource** object to print the name of each connected data source in the **Immediate** window.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CheckGrammar Method (Word)
 
-Checks a string for grammatical errors. Returns a  **Boolean** to indicate whether the string contains grammatical errors. **True** if the string contains no errors.
+Checks a string for grammatical errors. Returns a **Boolean** to indicate whether the string contains grammatical errors. **True** if the string contains no errors.
 
 
 ## Syntax

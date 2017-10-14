@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Comments Property (Word)
 
-Returns a  **[Comments](comments-object-word.md)** collection that represents all the comments in the specified document, selection, or range. Read-only.
+Returns a **[Comments](comments-object-word.md)** collection that represents all the comments in the specified document, selection, or range. Read-only.
 
 
 ## Syntax

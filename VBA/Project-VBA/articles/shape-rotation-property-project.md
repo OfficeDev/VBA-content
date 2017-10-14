@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Rotation Property (Project)
-Gets or sets the rotation of the shape, in degrees. Read/write  **Single**.
+Gets or sets the rotation of the shape, in degrees. Read/write **Single**.
 
 ## Syntax
 

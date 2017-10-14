@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Rows Property (Word)
 
-Returns a  **Rows** collection that represents all the table rows within a table. Read-only.
+Returns a **Rows** collection that represents all the table rows within a table. Read-only.
 
 
 ## Syntax

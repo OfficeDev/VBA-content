@@ -25,7 +25,7 @@ Returns or sets the height of the window (in points). Read/write Long.
 
 ## Remarks
 
-You cannot set this property if the window is maximized or minimized. Use the  **UsableHeight** property of the **Application** object to determine the maximum size for the window. Use the **WindowState** property to determine the window state.
+You cannot set this property if the window is maximized or minimized. Use the **UsableHeight** property of the **Application** object to determine the maximum size for the window. Use the **WindowState** property to determine the window state.
 
 
 ## Example

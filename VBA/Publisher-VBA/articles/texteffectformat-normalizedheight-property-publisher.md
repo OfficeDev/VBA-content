@@ -20,7 +20,7 @@ Specifies whether all characters (both uppercase and lowercase) in the specified
 
  _expression_. **NormalizedHeight**
 
- _expression_A variable that represents a  **TextEffectFormat** object.
+ _expression_A variable that represents a **TextEffectFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **NormalizedHeight** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **NormalizedHeight** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

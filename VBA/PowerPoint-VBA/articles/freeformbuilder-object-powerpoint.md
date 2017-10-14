@@ -18,7 +18,7 @@ Represents the geometry of a freeform while it is being built.
 
 ## Example
 
-Use the [BuildFreeform](shapes-buildfreeform-method-powerpoint.md)method to return a  **FreeformBuilder** object. Use the[AddNodes](freeformbuilder-addnodes-method-powerpoint.md)method to add nodes to the freefrom. Use the [ConvertToShape](freeformbuilder-converttoshape-method-powerpoint.md)method to create the shape defined in the  **FreeformBuilder** object and add it to the **[Shapes](shapes-object-powerpoint.md)** collection. The following example adds a freeform with four segments to `myDocument`.
+Use the [BuildFreeform](shapes-buildfreeform-method-powerpoint.md)method to return a **FreeformBuilder** object. Use the[AddNodes](freeformbuilder-addnodes-method-powerpoint.md)method to add nodes to the freefrom. Use the [ConvertToShape](freeformbuilder-converttoshape-method-powerpoint.md)method to create the shape defined in the **FreeformBuilder** object and add it to the **[Shapes](shapes-object-powerpoint.md)** collection. The following example adds a freeform with four segments to `myDocument`.
 
 
 ```vb

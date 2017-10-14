@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Left Property (PowerPoint)
 
-Returns or sets a  **Single** that represents the distance in points from the left edge of the leftmost shape in the shape range to the left edge of the slide. Read/write.
+Returns or sets a **Single** that represents the distance in points from the left edge of the leftmost shape in the shape range to the left edge of the slide. Read/write.
 
 
 ## Syntax

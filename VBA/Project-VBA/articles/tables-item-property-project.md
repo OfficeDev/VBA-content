@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Tables.Item Property (Project)
 
-Gets a single  **Table** object from the **Tables** collection. Read-only **Table**.
+Gets a single **Table** object from the **Tables** collection. Read-only **Table**.
 
 
 ## Syntax

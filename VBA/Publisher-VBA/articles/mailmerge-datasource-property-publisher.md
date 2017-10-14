@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # MailMerge.DataSource Property (Publisher)
 
-Returns a  **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object that refers to the data source attached to a mail merge or catalog merge main publication.
+Returns a **[MailMergeDataSource](mailmergedatasource-object-publisher.md)** object that refers to the data source attached to a mail merge or catalog merge main publication.
 
 
 ## Syntax
 
  _expression_. **DataSource**
 
- _expression_A variable that represents a  **MailMerge** object.
+ _expression_A variable that represents a **MailMerge** object.
 
 
 ### Return Value

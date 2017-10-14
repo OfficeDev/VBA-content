@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomerData.Delete Method (PowerPoint)
 
-Deletes the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection of a **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, or **[Slide](slide-object-powerpoint.md)** object.
+Deletes the specified **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection of a **[CustomLayout](customlayout-object-powerpoint.md)**, **[Master](master-object-powerpoint.md)**, **[Presentation](presentation-object-powerpoint.md)**, **[Shape](shape-object-powerpoint.md)**, or **[Slide](slide-object-powerpoint.md)** object.
 
 
 ## Syntax
@@ -29,16 +29,16 @@ Deletes the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Id_|Required|**String**|The ID of the  **CustomXMLPart** object to be deleted.|
+| _Id_|Required|**String**|The ID of the **CustomXMLPart** object to be deleted.|
 
 ## Remarks
 
-Individual  **CustomXMLPart** objects in the **CustomerData** collection are represented by GUIDs (globally unique identifiers). Pass the GUID that represents the custom XML part that you want to delete to the Id parameter of the **Delete** method as a **String**. You can get the ID of a particular custom XML part by iterating through the collection, using the **Id** property of the **CustomerData** collection.
+Individual **CustomXMLPart** objects in the **CustomerData** collection are represented by GUIDs (globally unique identifiers). Pass the GUID that represents the custom XML part that you want to delete to the Id parameter of the **Delete** method as a **String**. You can get the ID of a particular custom XML part by iterating through the collection, using the **Id** property of the **CustomerData** collection.
 
 
 ## Example
 
-The following example shows how to use the Delete method to delete a custom XML part from the  **CustomerData** collection. It adds a new custom XML part to the **CustomerData** collection of the first shape on the first slide of the active presentaion. Then it gets the ID of the new part and passes it to the **Delete** method.
+The following example shows how to use the Delete method to delete a custom XML part from the **CustomerData** collection. It adds a new custom XML part to the **CustomerData** collection of the first shape on the first slide of the active presentaion. Then it gets the ID of the new part and passes it to the **Delete** method.
 
 
 ```vb

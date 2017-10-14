@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ContainerProperties Property (Visio)
 
-Returns the  **[ContainerProperties](containerproperties-object-visio.md)** object associated with the shape. Read-only.
+Returns the **[ContainerProperties](containerproperties-object-visio.md)** object associated with the shape. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Returns the  **[ContainerProperties](containerproperties-object-visio.md)** obje
 
 ## Remarks
 
-If the shape is not a container, the  **ContainerProperties** property returns **Nothing** .
+If the shape is not a container, the **ContainerProperties** property returns **Nothing** .
 
 

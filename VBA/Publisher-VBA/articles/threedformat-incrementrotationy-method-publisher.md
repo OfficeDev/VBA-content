@@ -20,7 +20,7 @@ Changes the rotation of the specified shape around the y-axis (vertical) by the 
 
  _expression_. **IncrementRotationY**( **_Increment_**)
 
- _expression_A variable that represents a  **ThreeDFormat** object.
+ _expression_A variable that represents a **ThreeDFormat** object.
 
 
 ### Parameters
@@ -33,11 +33,11 @@ Changes the rotation of the specified shape around the y-axis (vertical) by the 
 
 ## Remarks
 
-Use the  **[RotationY](threedformat-rotationy-property-publisher.md)** property to set the absolute rotation of the shape around the y-axis.
+Use the **[RotationY](threedformat-rotationy-property-publisher.md)** property to set the absolute rotation of the shape around the y-axis.
 
-You cannot adjust the rotation around the y-axis of the specified shape past the upper or lower limit for the  **RotationY** property (90 degrees to - 90 degrees). For example, if the **RotationY** property is initially set to 80 and you specify 40 for the **_Increment_** argument, the resulting rotation will be 90 (the upper limit for the **RotationY** property) instead of 120.
+You cannot adjust the rotation around the y-axis of the specified shape past the upper or lower limit for the **RotationY** property (90 degrees to - 90 degrees). For example, if the **RotationY** property is initially set to 80 and you specify 40 for the **_Increment_** argument, the resulting rotation will be 90 (the upper limit for the **RotationY** property) instead of 120.
 
-To change the rotation of a shape around the x-axis (horizontal), use the  **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** method. To change the rotation around the z-axis (extends outward from the plane of the publication), use the  **[IncrementRotation](shape-incrementrotation-method-publisher.md)** method.
+To change the rotation of a shape around the x-axis (horizontal), use the **[IncrementRotationX](threedformat-incrementrotationx-method-publisher.md)** method. To change the rotation around the z-axis (extends outward from the plane of the publication), use the **[IncrementRotation](shape-incrementrotation-method-publisher.md)** method.
 
 
 ## Example

@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-When a shape has a locked anchor, you cannot move the shape's anchor by dragging it. The anchor does not move as the shape is moved. A  **Shape** object is anchored to a range of text, but you can position it anywhere on the page. The shape is anchored to the beginning of the first paragraph that contains the anchoring range. A shape will always remain on the same page as its anchor.
+When a shape has a locked anchor, you cannot move the shape's anchor by dragging it. The anchor does not move as the shape is moved. A **Shape** object is anchored to a range of text, but you can position it anywhere on the page. The shape is anchored to the beginning of the first paragraph that contains the anchoring range. A shape will always remain on the same page as its anchor.
 
 
 ## Example

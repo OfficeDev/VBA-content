@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.VerticalAlignment Property (Word)
 
-Returns or sets the vertical alignment of the specified object. Read/write  **Variant** .
+Returns or sets the vertical alignment of the specified object. Read/write **Variant** .
 
 
 ## Syntax
@@ -25,18 +25,18 @@ Returns or sets the vertical alignment of the specified object. Read/write  **Va
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[XlConstants](xlconstants-enumeration-word.md)** constants:
+You can set the value of this property to one of the following **[XlConstants](xlconstants-enumeration-word.md)** constants:
 
 
--  **xlBottom**
+- **xlBottom**
     
--  **xlCenter**
+- **xlCenter**
     
--  **xlDistributed**
+- **xlDistributed**
     
--  **xlJustify**
+- **xlJustify**
     
--  **xlTop**
+- **xlTop**
     
 
 

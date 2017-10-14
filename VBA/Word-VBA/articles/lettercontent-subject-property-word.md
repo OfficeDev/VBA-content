@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.Subject Property (Word)
 
-Returns or sets the subject text of a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the subject text of a letter created by the Letter Wizard. Read/write **String** .
 
 
 ## Syntax

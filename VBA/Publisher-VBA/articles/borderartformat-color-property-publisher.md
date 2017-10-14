@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # BorderArtFormat.Color Property (Publisher)
 
-Returns a  **[ColorFormat](colorformat-object-publisher.md)** object representing the color information for the specified object.
+Returns a **[ColorFormat](colorformat-object-publisher.md)** object representing the color information for the specified object.
 
 
 ## Syntax
 
  _expression_. **Color**
 
- _expression_A variable that represents a  **BorderArtFormat** object.
+ _expression_A variable that represents a **BorderArtFormat** object.
 
 
 ## Example

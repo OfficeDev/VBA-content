@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Fonts.Replace Method (PowerPoint)
 
-Replaces a font in the  **Fonts** collection.
+Replaces a font in the **Fonts** collection.
 
 
 ## Syntax

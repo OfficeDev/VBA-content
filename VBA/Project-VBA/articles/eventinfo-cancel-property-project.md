@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EventInfo.Cancel Property (Project)
 
-In an event handler, the  **Cancel** property gets or sets a value that specifies whether the operation that triggered the event should continue. If **True**, the operation is canceled. Read/write **Boolean**.
+In an event handler, the **Cancel** property gets or sets a value that specifies whether the operation that triggered the event should continue. If **True**, the operation is canceled. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ In an event handler, the  **Cancel** property gets or sets a value that specifie
 
 ## Remarks
 
-The default value of the  **Cancel** property is **False** when an event occurs. Set **Cancel** to **True** to cancel an operation.
+The default value of the **Cancel** property is **False** when an event occurs. Set **Cancel** to **True** to cancel an operation.
 
 
 ## Example

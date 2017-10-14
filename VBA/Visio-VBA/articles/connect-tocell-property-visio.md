@@ -30,26 +30,26 @@ Cell
 
 ## Remarks
 
-A connection is defined by a reference in a cell in the shape from which the connection originates to a cell in the shape to which the connection is made. The  **ToCell** property returns the **Cell** object to which the connection is made.
+A connection is defined by a reference in a cell in the shape from which the connection originates to a cell in the shape to which the connection is made. The **ToCell** property returns the **Cell** object to which the connection is made.
 
-Following is a list of possible connections and their related  **ToCell** property values.
+Following is a list of possible connections and their related **ToCell** property values.
 
  **From the begin or end cell of a 1-D shape to...**
 
 
 
 
--  **A connection point cell:** The **ToCell** property returns the Connection.X _i_ cell.
+- **A connection point cell:** The **ToCell** property returns the Connection.X _i_ cell.
     
--  **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and the other from the endpoint's Y cell to the guide's Angle cell. The **ToCell** property of both **Connect** objects returns the Angle cell.
+- **A cell of a guide or guide point:** When the begin or end cell of a 1-D shape is glued to a cell of a guide or guide point, two connections are created—one from the endpoint's X cell to the guide's Angle cell, and the other from the endpoint's Y cell to the guide's Angle cell. The **ToCell** property of both **Connect** objects returns the Angle cell.
     
--  **The pin of a 2-D shape (creates dynamic glue):** The **ToCell** property returns the PinX cell.
+- **The pin of a 2-D shape (creates dynamic glue):** The **ToCell** property returns the PinX cell.
     
--  **Any cell of a vertex row in a Geometry section:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
+- **Any cell of a vertex row in a Geometry section:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
--  **The begin or end cell of a 1-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
+- **The begin or end cell of a 1-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
+- **The edge (a cell in the Alignment section) of a 2-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
 
 
@@ -64,15 +64,15 @@ Following is a list of possible connections and their related  **ToCell** proper
 
 
 
--  **A connection point cell:** The **ToCell** property returns the Connections.Xi cell.
+- **A connection point cell:** The **ToCell** property returns the Connections.Xi cell.
     
--  **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point, two connections are created—one from the control point's X cell to the guide's PinX and the other from the control point's Y cell to the guide's PinY cell. The **ToCell** property of the first **Connect** object returns the guide's PinX cell and, for the second **Connect** object, the guide's PinY cell.
+- **A cell of a guide or guide point:** When a control point is glued to a cell of a guide or guide point, two connections are created—one from the control point's X cell to the guide's PinX and the other from the control point's Y cell to the guide's PinY cell. The **ToCell** property of the first **Connect** object returns the guide's PinX cell and, for the second **Connect** object, the guide's PinY cell.
     
--  **Any cell of a vertex row in a Geometry section:** A new connection point is created and the **ToCell** property returns the Connections.Xi cell.
+- **Any cell of a vertex row in a Geometry section:** A new connection point is created and the **ToCell** property returns the Connections.Xi cell.
     
--  **The begin or end cell of a 1-D shape:** A new connection point is created and the **ToCell** property returns the Connections.Xi cell.
+- **The begin or end cell of a 1-D shape:** A new connection point is created and the **ToCell** property returns the Connections.Xi cell.
     
--  **The edge (a cell in the Alignment section) of a 2-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
+- **The edge (a cell in the Alignment section) of a 2-D shape:** A new connection point is created and the **ToCell** property returns the Connections.X _i_ cell.
     
 
 

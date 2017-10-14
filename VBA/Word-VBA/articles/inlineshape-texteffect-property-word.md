@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.TextEffect Property (Word)
 
-Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified inline shape. Read-only.
+Returns a **TextEffectFormat** object that contains text-effect formatting properties for the specified inline shape. Read-only.
 
 
 ## Syntax

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ShapeRange.Table Property (Publisher)
 
-Returns a  **Table** object that represents a table in Microsoft Publisher.
+Returns a **Table** object that represents a table in Microsoft Publisher.
 
 
 ## Syntax
 
  _expression_. **Table**
 
- _expression_A variable that represents a  **ShapeRange** object.
+ _expression_A variable that represents a **ShapeRange** object.
 
 
 ## Example

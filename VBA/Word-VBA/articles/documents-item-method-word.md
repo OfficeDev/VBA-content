@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.Item Method (Word)
 
-Returns an individual  **Document** object in a collection.
+Returns an individual **Document** object in a collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns an individual  **Document** object in a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
+| _Index_|Required| **Long**|The individual object to be returned. Can be a **Long** indicating the ordinal position of the individual object.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ Document
 
 ## Example
 
-This example displays the name of the first document in the  **Documents** collection.
+This example displays the name of the first document in the **Documents** collection.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ActiveWindow Property (Word)
 
-Returns a  **[Window](window-object-word.md)** object that represents the active window (the window with the focus). Read-only.
+Returns a **[Window](window-object-word.md)** object that represents the active window (the window with the focus). Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Window](window-object-word.md)** object that represents the active
 
 ## Remarks
 
-If there are no windows open, using the  **ActiveWindow** property generates an error occurs.
+If there are no windows open, using the **ActiveWindow** property generates an error occurs.
 
 
 ## Example

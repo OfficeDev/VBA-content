@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Nodes Property (PowerPoint)
 
-Returns a  **[ShapeNodes](shapenodes-object-powerpoint.md)** collection that represents the geometric description of the specified shape. Applies to **Shape** objects that represent freeform drawings.
+Returns a **[ShapeNodes](shapenodes-object-powerpoint.md)** collection that represents the geometric description of the specified shape. Applies to **Shape** objects that represent freeform drawings.
 
 
 ## Syntax

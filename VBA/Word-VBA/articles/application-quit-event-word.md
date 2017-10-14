@@ -25,12 +25,12 @@ Private Sub Application_**Quit**()
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
+For information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 
 
 ## Example
 
-This example ensures that the  **Standard** and **Formatting** toolbars are visible before the user exits Word. As a result, when Word is started again, the **Standard** and **Formatting** toolbars are visible.
+This example ensures that the **Standard** and **Formatting** toolbars are visible before the user exits Word. As a result, when Word is started again, the **Standard** and **Formatting** toolbars are visible.
 
 This code must be placed in a class module, and an instance of the class must be correctly initialized to see this example work; see [Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx)for directions on how to accomplish this.
 

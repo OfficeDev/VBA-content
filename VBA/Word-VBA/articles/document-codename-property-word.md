@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CodeName Property (Word)
 
-Returns the code name for the specified document. Read-only  **String** .
+Returns the code name for the specified document. Read-only **String** .
 
 
 ## Syntax

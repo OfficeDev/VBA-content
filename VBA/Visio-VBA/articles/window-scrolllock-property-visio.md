@@ -32,6 +32,6 @@ Boolean
 
 Scrolling ( **False** ) is the default Visio behavior. You can set the **ScrollLock** property to **True** to prevent scrolling in any Visio window, including docked stencil windows, but not including anchored windows.
 
-The  **ScrollLock** property setting is valid only for a given window at run time, and is not persisted (saved) in either the Visio document or the registry.
+The **ScrollLock** property setting is valid only for a given window at run time, and is not persisted (saved) in either the Visio document or the registry.
 
 

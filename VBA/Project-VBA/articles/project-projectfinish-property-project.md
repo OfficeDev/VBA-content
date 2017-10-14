@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.ProjectFinish Property (Project)
 
-Gets or sets the finish date for a project. Read/write  **Variant**.
+Gets or sets the finish date for a project. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets or sets the finish date for a project. Read/write  **Variant**.
 
 ## Remarks
 
-Setting  **ProjectFinish** also causes the project to be scheduled from its finish date. This has the same effect as setting the **ScheduleFromStart** property to **False**.
+Setting **ProjectFinish** also causes the project to be scheduled from its finish date. This has the same effect as setting the **ScheduleFromStart** property to **False**.
 
 

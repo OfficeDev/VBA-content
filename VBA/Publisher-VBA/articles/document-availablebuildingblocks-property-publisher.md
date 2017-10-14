@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # Document.AvailableBuildingBlocks Property (Publisher)
 
-Returns the available members of the  **[BuildingBlocks](buildingblocks-object-publisher.md)** collection of the current document. Read-only.
+Returns the available members of the **[BuildingBlocks](buildingblocks-object-publisher.md)** collection of the current document. Read-only.
 
 
 ## Syntax
 
  _expression_. **AvailableBuildingBlocks**
 
- _expression_A variable that represents a  **Document** object.
+ _expression_A variable that represents a **Document** object.
 
 
 ### Return Value

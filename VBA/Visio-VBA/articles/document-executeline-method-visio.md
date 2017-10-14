@@ -38,12 +38,12 @@ Nothing
 
 ## Remarks
 
-The VBA project of the  **Document** object is told to execute the supplied string. VBA treats the string as it would treat the same string typed into its Immediate window.
+The VBA project of the **Document** object is told to execute the supplied string. VBA treats the string as it would treat the same string typed into its Immediate window.
 
 
 ## Example
 
-The following are some possible uses of the  **ExecuteLine** method:
+The following are some possible uses of the **ExecuteLine** method:
 
 
 ```vb

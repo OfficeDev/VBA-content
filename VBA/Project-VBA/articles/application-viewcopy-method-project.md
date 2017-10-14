@@ -50,14 +50,14 @@ Copies the current view.
 
 
 
- **Note**  In a combination view, the primary pane is the view that remains when a details or secondary pane is closed. Usually the primary pane is at the top; however, the Timeline is a secondary pane, but it displays at the top. For example, with the Resource Sheet view, clicking  **Details** on the **View** tab on the Ribbon shows the secondary Resource Form pane on the bottom. Clicking **Timeline** closes the Resource Form at the bottom and opens the Timeline pane at the top.
+ **Note**  In a combination view, the primary pane is the view that remains when a details or secondary pane is closed. Usually the primary pane is at the top; however, the Timeline is a secondary pane, but it displays at the top. For example, with the Resource Sheet view, clicking **Details** on the **View** tab on the Ribbon shows the secondary Resource Form pane on the bottom. Clicking **Timeline** closes the Resource Form at the bottom and opens the Timeline pane at the top.
 
-Using the  **ViewCopy** method with no arguments displays the **Save View** dialog box, which enables the user to name the copy of the view.
+Using the **ViewCopy** method with no arguments displays the **Save View** dialog box, which enables the user to name the copy of the view.
 
 
 ## Example
 
-If the current view includes the Timeline in the top pane and the Gantt Chart in the bottom pane, where the Gantt Chart is the active pane, the following statement copies the Timeline view. After you execute the statement, the drop-down list of views includes  **Copy of Timeline** in the **Custom** section.
+If the current view includes the Timeline in the top pane and the Gantt Chart in the bottom pane, where the Gantt Chart is the active pane, the following statement copies the Timeline view. After you execute the statement, the drop-down list of views includes **Copy of Timeline** in the **Custom** section.
 
 
 ```

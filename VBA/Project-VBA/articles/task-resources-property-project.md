@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.Resources Property (Project)
 
-Gets a  **[Resources](resource-object-project.md)** collection that contains the resources assigned to the task. Read-only **Resources**.
+Gets a **[Resources](resource-object-project.md)** collection that contains the resources assigned to the task. Read-only **Resources**.
 
 
 ## Syntax

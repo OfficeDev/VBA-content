@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.EndArrowheadLength Property (Word)
 
-Returns or sets the length of the arrowhead at the end of the specified line. Read/write  **MsoArrowheadLength** .
+Returns or sets the length of the arrowhead at the end of the specified line. Read/write **MsoArrowheadLength** .
 
 
 ## Syntax

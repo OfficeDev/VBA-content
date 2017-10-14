@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.Add Method (Word)
 
-Returns a  **Document** object that represents a new, empty document added to the collection of open documents.
+Returns a **Document** object that represents a new, empty document added to the collection of open documents.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Returns a  **Document** object that represents a new, empty document added to th
 |:-----|:-----|:-----|:-----|
 | _Template_|Optional| **Variant**|The name of the template to be used for the new document. If this argument is omitted, the Normal template is used.|
 | _NewTemplate_|Optional| **Variant**| **True** to open the document as a template. The default value is **False** .|
-| _DocumentType_|Optional| **Variant**|Can be one of the following  **WdNewDocumentType** constants: **wdNewBlankDocument** , **wdNewEmailMessage** , **wdNewFrameset** , or **wdNewWebPage** . The default constant is **wdNewBlankDocument** .|
+| _DocumentType_|Optional| **Variant**|Can be one of the following **WdNewDocumentType** constants: **wdNewBlankDocument** , **wdNewEmailMessage** , **wdNewFrameset** , or **wdNewWebPage** . The default constant is **wdNewBlankDocument** .|
 | _Visible_|Optional| **Variant**| **True** to open the document in a visible window. If this value is **False** , Microsoft Word opens the document but sets the **Visible** property of the document window to **False** . The default value is **True** .|
 
 ### Return Value

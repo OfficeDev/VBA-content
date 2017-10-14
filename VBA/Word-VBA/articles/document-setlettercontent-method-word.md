@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SetLetterContent Method (Word)
 
-Inserts the contents of the specified  **LetterContent** object into a document.
+Inserts the contents of the specified **LetterContent** object into a document.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Inserts the contents of the specified  **LetterContent** object into a document.
 
 ## Remarks
 
-This method is similar to the  **RunLetterWizard** method except that it doesn't display the Letter Wizard dialog box. The method adds, deletes, or restyles letter elements in the specified document based on the contents of the **LetterContent** object.
+This method is similar to the **RunLetterWizard** method except that it doesn't display the Letter Wizard dialog box. The method adds, deletes, or restyles letter elements in the specified document based on the contents of the **LetterContent** object.
 
 
 ## Example
 
-This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the  **SetLetterContent** method to update the active document to reflect the changes.
+This example retrieves the Letter Wizard elements from the active document, changes the attention line text, and then uses the **SetLetterContent** method to update the active document to reflect the changes.
 
 
 ```vb

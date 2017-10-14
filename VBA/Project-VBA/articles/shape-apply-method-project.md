@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Shape.Apply Method (Project)
-Applies formatting to a shape, where the formatting information has been copied by using the  **[PickUp](shape-pickup-method-project.md)** method.
+Applies formatting to a shape, where the formatting information has been copied by using the **[PickUp](shape-pickup-method-project.md)** method.
 
 ## Syntax
 

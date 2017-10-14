@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # FillFormat.TextureVerticalScale Property (Publisher)
 
-Returns or sets a  **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
+Returns or sets a **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
 
 
 ## Syntax
 
  _expression_. **TextureVerticalScale**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Property value
@@ -28,7 +28,7 @@ Returns or sets a  **Single** that specifies the vertical scaling factor for the
 
 ## Remarks
 
-The setting of the  **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box on the **Fill** tab of the **Format Shape** dialog box in the Publisher user interface. (Under **Drawing Tools**, on the  **Format** tab, click **Shape Fill**, point to  **Texture**, and then click  **More Textures**.)
+The setting of the **TextureVerticalScale** property corresponds to the setting of the **Scale Y** box on the **Fill** tab of the **Format Shape** dialog box in the Publisher user interface. (Under **Drawing Tools**, on the **Format** tab, click **Shape Fill**, point to **Texture**, and then click **More Textures**.)
 
 
 ## See also

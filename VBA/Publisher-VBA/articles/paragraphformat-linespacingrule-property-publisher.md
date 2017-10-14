@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.LineSpacingRule Property (Publisher)
 
-Returns or sets a  **PbLineSpacingRule** that represents the line spacing for the specified paragraphs. Read/write.
+Returns or sets a **PbLineSpacingRule** that represents the line spacing for the specified paragraphs. Read/write.
 
 
 ## Syntax
 
  _expression_. **LineSpacingRule**
 
- _expression_A variable that represents a  **ParagraphFormat** object.
+ _expression_A variable that represents a **ParagraphFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbLineSpacingRule
 
 ## Remarks
 
-The  **LineSpacingRule** property value can be one of the **[PbLineSpacingRule](pblinespacingrule-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **LineSpacingRule** property value can be one of the **[PbLineSpacingRule](pblinespacingrule-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.CropRight Property (Publisher)
 
-Returns or sets a  **Variant** indicating the amount by which the right edge of a picture or OLE object is cropped. Read/write.
+Returns or sets a **Variant** indicating the amount by which the right edge of a picture or OLE object is cropped. Read/write.
 
 
 ## Syntax
 
  _expression_. **CropRight**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -36,9 +36,9 @@ Negative values crop the bottom edge away from the center of the frame and posit
 
 The valid range of crop values depends on the frame's position and size. For an unrotated frame, the lowest negative value allowed is the distance between the right edge of frame and the right edge of the scratch area. The highest positive value allowed is the current frame width.
 
-Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points wide, rescale it so that it is 200 points wide, and then set the  **CropRight** property to 50, 100 points (not 50) will be cropped off the right of your picture.
+Cropping is calculated relative to the original size of the picture. For example, if you insert a picture that is originally 100 points wide, rescale it so that it is 200 points wide, and then set the **CropRight** property to 50, 100 points (not 50) will be cropped off the right of your picture.
 
-Use the  **[CropLeft](pictureformat-cropleft-property-publisher.md)**,  **[CropTop](pictureformat-croptop-property-publisher.md)**, and  **[CropBottom](pictureformat-cropbottom-property-publisher.md)** properties to crop other edges of a picture or OLE object.
+Use the **[CropLeft](pictureformat-cropleft-property-publisher.md)**, **[CropTop](pictureformat-croptop-property-publisher.md)**, and **[CropBottom](pictureformat-cropbottom-property-publisher.md)** properties to crop other edges of a picture or OLE object.
 
 
 ## Example

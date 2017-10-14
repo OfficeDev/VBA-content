@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.ActualCost Property (Project)
 
-Gets or sets the actual cost for the assignment. Read/write  **Variant**.
+Gets or sets the actual cost for the assignment. Read/write **Variant**.
 
 
 ## Syntax
@@ -22,14 +22,14 @@ Gets or sets the actual cost for the assignment. Read/write  **Variant**.
 
 ## Remarks
 
-The  **ActualCost** property can be set for **Assignment** and **Task** objects (but not for summary tasks) if the **Actual costs are always calculated by Project** check box is cleared on the **Schedule** tab of the **Project Options** dialog box.
+The **ActualCost** property can be set for **Assignment** and **Task** objects (but not for summary tasks) if the **Actual costs are always calculated by Project** check box is cleared on the **Schedule** tab of the **Project Options** dialog box.
 
-Actual costs are also available for tasks and resources. If the  **Actual costs are always calculated by Project** check box is checked, Project calculates the current actual cost for the assignment from resource cost rate tables and actual work that the assigned resource has completed. For programmatic access to the resource cost rate tables, use the **[CostRateTables](resource-costratetables-property-project.md)** collection.
+Actual costs are also available for tasks and resources. If the **Actual costs are always calculated by Project** check box is checked, Project calculates the current actual cost for the assignment from resource cost rate tables and actual work that the assigned resource has completed. For programmatic access to the resource cost rate tables, use the **[CostRateTables](resource-costratetables-property-project.md)** collection.
 
 
 ## Example
 
-The following example prompts the user for actual costs of tasks with no resources in the active project. It assumes that the  **Actual costs are always calculated by Project** check box is cleared.
+The following example prompts the user for actual costs of tasks with no resources in the active project. It assumes that the **Actual costs are always calculated by Project** check box is cleared.
 
 
 ```vb

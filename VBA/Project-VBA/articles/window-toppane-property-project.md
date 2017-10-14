@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.TopPane Property (Project)
 
-Gets a  **[Pane](pane-object-project.md)** object representing the top pane of the window. Read-only **Pane**.
+Gets a **[Pane](pane-object-project.md)** object representing the top pane of the window. Read-only **Pane**.
 
 
 ## Syntax

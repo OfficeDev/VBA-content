@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.Status Property (Outlook)
 
-Returns or sets an  **[OlTaskStatus](oltaskstatus-enumeration-outlook.md)** constant specifying the status for the task. Corresponds to the **Status** field of a **[TaskItem](taskitem-object-outlook.md)** . Read/write.
+Returns or sets an **[OlTaskStatus](oltaskstatus-enumeration-outlook.md)** constant specifying the status for the task. Corresponds to the **Status** field of a **[TaskItem](taskitem-object-outlook.md)** . Read/write.
 
 
 ## Syntax

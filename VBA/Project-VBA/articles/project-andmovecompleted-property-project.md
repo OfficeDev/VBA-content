@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **AndMoveCompleted** and **AndMoveRemaining** properties can also be set with the **[OptionsCalculation](application-optionscalculation-method-project.md)** method.
+The **AndMoveCompleted** and **AndMoveRemaining** properties can also be set with the **[OptionsCalculation](application-optionscalculation-method-project.md)** method.
 
 

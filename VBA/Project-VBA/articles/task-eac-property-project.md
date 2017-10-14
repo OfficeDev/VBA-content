@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.EAC Property (Project)
 
-Gets the estimate at completion (EAC) for the task. Read-only  **Variant**.
+Gets the estimate at completion (EAC) for the task. Read-only **Variant**.
 
 
 ## Syntax

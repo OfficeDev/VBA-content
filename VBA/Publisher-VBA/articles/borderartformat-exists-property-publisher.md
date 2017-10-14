@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **Exists**
 
- _expression_A variable that represents a  **BorderArtFormat** object.
+ _expression_A variable that represents a **BorderArtFormat** object.
 
 
 ## See also

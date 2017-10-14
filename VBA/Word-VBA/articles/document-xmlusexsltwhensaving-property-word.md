@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.XMLUseXSLTWhenSaving Property (Word)
 
-Returns a  **Boolean** that represents whether to save a document through an Extensible Stylesheet Language Transformation (XSLT). **True** saves a document through an XSLT.
+Returns a **Boolean** that represents whether to save a document through an Extensible Stylesheet Language Transformation (XSLT). **True** saves a document through an XSLT.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **Boolean** that represents whether to save a document through an Ext
 
 ## Remarks
 
-When setting the XMLUseXSLTWhenSaving property to  **True** , use the **[XMLSaveThroughXSLT](document-xmlsavethroughxslt-property-word.md)** property to specify the path and file name of the XSLT to use.
+When setting the XMLUseXSLTWhenSaving property to **True** , use the **[XMLSaveThroughXSLT](document-xmlsavethroughxslt-property-word.md)** property to specify the path and file name of the XSLT to use.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Calendar Property (Project)
 
-Gets a  **[Calendar](calendar-object-project.md)** object representing a calendar for the resource. Read-only **Calendar**.
+Gets a **[Calendar](calendar-object-project.md)** object representing a calendar for the resource. Read-only **Calendar**.
 
 
 ## Syntax
@@ -22,8 +22,8 @@ Gets a  **[Calendar](calendar-object-project.md)** object representing a calenda
 
 ## Remarks
 
-The  **Calendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
+The **Calendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
-For an example that resets the project calendar, see the  **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
+For an example that resets the project calendar, see the **[Calendar](project-calendar-property-project.md)** property of the **Project** object.
 
 

@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebHiddenFields.Name Method (Publisher)
 
-Returns a  **String** that represents the name of a hidden Web field for a Web command button.
+Returns a **String** that represents the name of a hidden Web field for a Web command button.
 
 
 ## Syntax
 
  _expression_. **Name**( **_Index_**)
 
- _expression_A variable that represents a  **WebHiddenFields** object.
+ _expression_A variable that represents a **WebHiddenFields** object.
 
 
 ### Parameters

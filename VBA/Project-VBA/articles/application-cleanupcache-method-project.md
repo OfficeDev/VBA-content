@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CleanupCache Method (Project)
 
-Displays the  **Cleanup Cache** dialog box. Available only in Project Professional.
+Displays the **Cleanup Cache** dialog box. Available only in Project Professional.
 
 
 ## Syntax

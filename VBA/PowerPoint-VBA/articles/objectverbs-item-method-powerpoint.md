@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ObjectVerbs.Item Method (PowerPoint)
 
-Returns a single object from the specified  **ObjectVerbs** collection.
+Returns a single object from the specified **ObjectVerbs** collection.
 
 
 ## Syntax

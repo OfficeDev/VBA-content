@@ -30,11 +30,11 @@ MsoTriState
 
 ## Remarks
 
-Use the  **[TransparencyColor](pictureformat-transparencycolor-property-powerpoint.md)** property to set the transparent color.
+Use the **[TransparencyColor](pictureformat-transparencycolor-property-powerpoint.md)** property to set the transparent color.
 
-If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **Visible** property of the picture's **FillFormat** object to **msoFalse**. If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **msoTrue**, the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
+If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the **Visible** property of the picture's **FillFormat** object to **msoFalse**. If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **msoTrue**, the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
 
-The value of the  **TransparentBackground** property can be one of these **MsoTriState** constants.
+The value of the **TransparentBackground** property can be one of these **MsoTriState** constants.
 
 
 

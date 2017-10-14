@@ -10,12 +10,12 @@ ms.date: 06/08/2017
 
 # Rectangles Object (Word)
 
-A collection of  **Rectangle** objects in a page that represent portions of text and graphics. Use the **Rectangles** collection and related objects and properties for programmatically defining page layout in a document.
+A collection of **Rectangle** objects in a page that represent portions of text and graphics. Use the **Rectangles** collection and related objects and properties for programmatically defining page layout in a document.
 
 
 ## Remarks
 
-Use the  **Rectangles** property to return a **Rectangles** collection. The following example returns the **Rectangles** collection for the first page in the active document.
+Use the **Rectangles** property to return a **Rectangles** collection. The following example returns the **Rectangles** collection for the first page in the active document.
 
 
 ```vb

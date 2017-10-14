@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ActivePage Property (Visio)
 
-Returns the active  **Page** object. Read-only.
+Returns the active **Page** object. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Page
 
 ## Remarks
 
-The  **ActivePage** property returns a **Page** object only when the active window displays a drawing page; otherwise, it returns **Nothing** . To verify that a page is active, use the **Is** operator to compare the **ActivePage** property with **Nothing** .
+The **ActivePage** property returns a **Page** object only when the active window displays a drawing page; otherwise, it returns **Nothing** . To verify that a page is active, use the **Is** operator to compare the **ActivePage** property with **Nothing** .
 
 It is possible to get the active window without qualification from the Microsoft Visio global object, which is automatically available to VBA code that is part of the VBA project of a Visio document. For example, you can use this code: 
 
@@ -41,10 +41,10 @@ It is possible to get the active window without qualification from the Microsoft
 Set vsoPage = ActivePage
 ```
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  ****Microsoft.Office.Interop.Visio.IVApplication.ActivePage
+- ****Microsoft.Office.Interop.Visio.IVApplication.ActivePage
     
 
 ## Example

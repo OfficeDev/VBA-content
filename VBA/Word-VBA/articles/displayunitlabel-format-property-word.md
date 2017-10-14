@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayUnitLabel.Format Property (Word)
 
-Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](chartformat-object-word.md)** .
+Returns the line, fill, and effect formatting for the object. Read-only **[ChartFormat](chartformat-object-word.md)** .
 
 
 ## Syntax

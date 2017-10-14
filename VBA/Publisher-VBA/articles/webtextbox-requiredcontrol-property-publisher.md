@@ -20,7 +20,7 @@ Specifies whether an entry into a Web text box control is required. Read/write.
 
  _expression_. **RequiredControl**
 
- _expression_A variable that represents a  **WebTextBox** object.
+ _expression_A variable that represents a **WebTextBox** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **RequiredControl** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
+The **RequiredControl** property value can be one of the **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
 

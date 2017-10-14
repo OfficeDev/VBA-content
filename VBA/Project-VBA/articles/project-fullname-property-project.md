@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.FullName Property (Project)
 
-Gets the path and file name of a project. Read-only  **String**.
+Gets the path and file name of a project. Read-only **String**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the path and file name of a project. Read-only  **String**.
 
 ## Remarks
 
-The  **FullName** property returns the project name (as seen in the title bar) for an unsaved project.
+The **FullName** property returns the project name (as seen in the title bar) for an unsaved project.
 
 
 ## Example

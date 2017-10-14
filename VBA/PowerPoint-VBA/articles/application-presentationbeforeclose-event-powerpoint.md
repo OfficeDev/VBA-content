@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PresentationBeforeClose Event (PowerPoint)
 
-Represents a  **Presentation** object before it closes.
+Represents a **Presentation** object before it closes.
 
 
 ## Syntax
@@ -29,8 +29,8 @@ Represents a  **Presentation** object before it closes.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Pres_|Required|**Presentation**|The  **Presentation** object.|
-| _Cancel_|Required|**Boolean**|If set to  **True**, the presentation will not close.|
+| _Pres_|Required|**Presentation**|The **Presentation** object.|
+| _Cancel_|Required|**Boolean**|If set to **True**, the presentation will not close.|
 
 ### Return Value
 

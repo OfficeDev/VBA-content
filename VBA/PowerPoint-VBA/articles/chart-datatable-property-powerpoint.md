@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.DataTable Property (PowerPoint)
 
-Returns the chart data table. Read-only  **[DataTable](datatable-object-powerpoint.md)**.
+Returns the chart data table. Read-only **[DataTable](datatable-object-powerpoint.md)**.
 
 
 ## Syntax

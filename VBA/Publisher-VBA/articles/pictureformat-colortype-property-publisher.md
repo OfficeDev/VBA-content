@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.ColorType Property (Publisher)
 
-Returns or sets an  **MsoPictureColorType** constant indicating the type of color transformation applied to the specified picture or OLE object. Read/write.
+Returns or sets an **MsoPictureColorType** constant indicating the type of color transformation applied to the specified picture or OLE object. Read/write.
 
 
 ## Syntax
 
  _expression_. **ColorType**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ MsoPictureColorType
 
 ## Remarks
 
-The  **ColorType** property value can be one of the ** [MsoPictureColorType](http://msdn.microsoft.com/library/d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **ColorType** property value can be one of the ** [MsoPictureColorType](http://msdn.microsoft.com/library/d11f2d08-2ac9-6cf4-34b8-7ffaabb5d4ae%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

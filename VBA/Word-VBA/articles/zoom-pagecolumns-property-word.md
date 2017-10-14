@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Zoom.PageColumns Property (Word)
 
-Returns or sets the number of pages to be displayed side by side on-screen at the same time in print layout view or print preview. Read/write  **Long** .
+Returns or sets the number of pages to be displayed side by side on-screen at the same time in print layout view or print preview. Read/write **Long** .
 
 
 ## Syntax

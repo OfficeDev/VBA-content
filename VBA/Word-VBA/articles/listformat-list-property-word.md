@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.List Property (Word)
 
-Returns a  **[List](list-object-word.md)** object that represents the first formatted list contained in the specified **ListFormat** object.
+Returns a **[List](list-object-word.md)** object that represents the first formatted list contained in the specified **ListFormat** object.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns a  **[List](list-object-word.md)** object that represents the first form
 
 ## Remarks
 
-If the first paragraph in the range for the  **ListFormat** object is not formatted as a list, the **List** property returns nothing.
+If the first paragraph in the range for the **ListFormat** object is not formatted as a list, the **List** property returns nothing.
 
 
 ## Example
 
-This example returns the first list in the selection, and then it applies the first list template (excluding None) on the  **Numbered** tab in the **Bullets and Numbering** dialog box ( **Format** menu). The selection can only contain one list.
+This example returns the first list in the selection, and then it applies the first list template (excluding None) on the **Numbered** tab in the **Bullets and Numbering** dialog box ( **Format** menu). The selection can only contain one list.
 
 
 ```vb

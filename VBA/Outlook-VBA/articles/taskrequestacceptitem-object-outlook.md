@@ -13,16 +13,16 @@ ms.date: 06/08/2017
 
 # TaskRequestAcceptItem Object (Outlook)
 
-Represents a response to a  **[TaskRequestItem](taskrequestitem-object-outlook.md)** sent by the initiating user.
+Represents a response to a **[TaskRequestItem](taskrequestitem-object-outlook.md)** sent by the initiating user.
 
 
 ## Remarks
 
-If the delegated user accepts the task, the  **[ResponseState](taskitem-responsestate-property-outlook.md)** property is set to **olTaskAccept**. The associated **[TaskItem](taskitem-object-outlook.md)** is received by the delegator as a **TaskRequestAcceptItem** object.
+If the delegated user accepts the task, the **[ResponseState](taskitem-responsestate-property-outlook.md)** property is set to **olTaskAccept**. The associated **[TaskItem](taskitem-object-outlook.md)** is received by the delegator as a **TaskRequestAcceptItem** object.
 
 Unlike other Microsoft Outlook objects, you cannot create this object.
 
-Use the  **[GetAssociatedTask](taskrequestacceptitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object that is associated with this **TaskRequestAcceptItem**. Work directly with the **TaskItem** object.
+Use the **[GetAssociatedTask](taskrequestacceptitem-getassociatedtask-method-outlook.md)** method to return the **TaskItem** object that is associated with this **TaskRequestAcceptItem**. Work directly with the **TaskItem** object.
 
 
 ## Events

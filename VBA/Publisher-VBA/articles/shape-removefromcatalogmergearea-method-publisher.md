@@ -20,7 +20,7 @@ Removes a shape from the specified page's catalog merge area. Removed shapes are
 
  _expression_. **RemoveFromCatalogMergeArea**
 
- _expression_A variable that represents a  **Shape** object.
+ _expression_A variable that represents a **Shape** object.
 
 
 ### Return Value
@@ -30,9 +30,9 @@ Nothing
 
 ## Remarks
 
-Use the  **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area.
+Use the **[AddToCatalogMergeArea](shape-addtocatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** or **[ShapeRange](shaperange-object-publisher.md)** objects to add shapes to a catalog merge area.
 
-Use the  **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** object to remove the catalog merge area from a publication page, but leave the shapes it contains.
+Use the **[RemoveCatalogMergeArea](shape-removecatalogmergearea-method-publisher.md)** method of the **[Shape](shape-object-publisher.md)** object to remove the catalog merge area from a publication page, but leave the shapes it contains.
 
 
 ## Example

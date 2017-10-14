@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VisListAlignment Enumeration (Visio)
 
-Specifies constants that define different ways to align shapes; passed to and returned by the  **[ContainerProperties.ListAlignment](containerproperties-listalignment-property-visio.md)** property.
+Specifies constants that define different ways to align shapes; passed to and returned by the **[ContainerProperties.ListAlignment](containerproperties-listalignment-property-visio.md)** property.
 
 
 

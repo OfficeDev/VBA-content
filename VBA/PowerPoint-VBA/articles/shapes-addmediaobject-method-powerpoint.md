@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddMediaObject Method (PowerPoint)
 
-Deprecated in PowerPoint 2013. See [Shapes.AddMediaObject2 Method (PowerPoint)](shapes-addmediaobject2-method-powerpoint.md). Creates a media object. Returns a  **[Shape](shape-object-powerpoint.md)** object that represents the new media object.
+Deprecated in PowerPoint 2013. See [Shapes.AddMediaObject2 Method (PowerPoint)](shapes-addmediaobject2-method-powerpoint.md). Creates a media object. Returns a **[Shape](shape-object-powerpoint.md)** object that represents the new media object.
 
 
 ## Syntax

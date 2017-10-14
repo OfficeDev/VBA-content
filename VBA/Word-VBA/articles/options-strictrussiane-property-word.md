@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting this property has the same effect as checking or unchecking the  **Russian: Enforce strict ë** checkbox in the **Word Options** dialog ( **Proofing**,  **When correcting spelling in Microsoft Office programs**).
+Setting this property has the same effect as checking or unchecking the **Russian: Enforce strict ë** checkbox in the **Word Options** dialog ( **Proofing**, **When correcting spelling in Microsoft Office programs**).
 
 
 ## See also

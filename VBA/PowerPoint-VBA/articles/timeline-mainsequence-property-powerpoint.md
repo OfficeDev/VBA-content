@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TimeLine.MainSequence Property (PowerPoint)
 
-Returns a  **[Sequence](sequence-object-powerpoint.md)** object that represents the collection of **[Effect](effect-object-powerpoint.md)** objects in the main animation sequence of a slide.
+Returns a **[Sequence](sequence-object-powerpoint.md)** object that represents the collection of **[Effect](effect-object-powerpoint.md)** objects in the main animation sequence of a slide.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Sequence
 
 ## Remarks
 
-The default value of the  **MainSequence** property is an empty **Sequence** collection. Any attempt to return a value from this property without adding one or more **Effect** objects to the main animation sequence will result in a run-time error.
+The default value of the **MainSequence** property is an empty **Sequence** collection. Any attempt to return a value from this property without adding one or more **Effect** objects to the main animation sequence will result in a run-time error.
 
 
 ## Example

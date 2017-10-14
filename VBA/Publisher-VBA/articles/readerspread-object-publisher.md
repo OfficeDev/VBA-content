@@ -13,13 +13,13 @@ ms.date: 06/08/2017
 
 # ReaderSpread Object (Publisher)
 
-Represents the reader spread (not the printer spread) for the page. A reader spread generally contains one or two pages. The  **ReaderSpread** object properties provide information about whether pages are facing and how those pages are laid out. For example, in facing page view, pages two and three can be side-by-side or one on top of the other.
+Represents the reader spread (not the printer spread) for the page. A reader spread generally contains one or two pages. The **ReaderSpread** object properties provide information about whether pages are facing and how those pages are laid out. For example, in facing page view, pages two and three can be side-by-side or one on top of the other.
  
 
 
 ## Example
 
-Use the  **[ReaderSpread](page-readerspread-property-publisher.md)** property to access the **ReaderSpread** object for a page. Use the **[PageCount](readerspread-pagecount-property-publisher.md)** property to determine if the reader spread includes one page or two facing pages. This example checks to see if the reader spread includes less than two pages. If it does, it changes the reader spread to include two pages.
+Use the **[ReaderSpread](page-readerspread-property-publisher.md)** property to access the **ReaderSpread** object for a page. Use the **[PageCount](readerspread-pagecount-property-publisher.md)** property to determine if the reader spread includes one page or two facing pages. This example checks to see if the reader spread includes less than two pages. If it does, it changes the reader spread to include two pages.
  
 
  

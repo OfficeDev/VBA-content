@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The  **ParseLine** method tells the Microsoft Visual Basic for Applications (VBA) project of the **Document** object to parse the string passed to it as an argument.
+The **ParseLine** method tells the Microsoft Visual Basic for Applications (VBA) project of the **Document** object to parse the string passed to it as an argument.
 
  The **ParseLine** method raises an exception if the string fails to parse.
 

@@ -30,7 +30,7 @@ MsoArrowheadStyle
 
 ## Remarks
 
-The value of the  **BeginArrowheadStyle** property can be one of these **MsoArrowheadStyle** constants
+The value of the **BeginArrowheadStyle** property can be one of these **MsoArrowheadStyle** constants
 
 
 ||

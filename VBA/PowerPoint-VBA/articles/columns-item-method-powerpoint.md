@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.Item Method (PowerPoint)
 
-Returns a single  **Column** object from the specified **Columns** collection.
+Returns a single **Column** object from the specified **Columns** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **Column** object from the specified **Columns** collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The index number of the single  **Column** object in the collection to be returned.|
+| _Index_|Required|**Long**|The index number of the single **Column** object in the collection to be returned.|
 
 ### Return Value
 

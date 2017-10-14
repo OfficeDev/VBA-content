@@ -25,7 +25,7 @@ Copies the character formatting of the first character in the selected text.
 
 ## Remarks
 
-If a paragraph mark is selected, Word copies paragraph formatting in addition to character formatting. You can apply the copied formatting to another selection by using the  **[PasteFormat](selection-pasteformat-method-word.md)** method.
+If a paragraph mark is selected, Word copies paragraph formatting in addition to character formatting. You can apply the copied formatting to another selection by using the **[PasteFormat](selection-pasteformat-method-word.md)** method.
 
 
 ## Example

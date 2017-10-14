@@ -28,9 +28,9 @@ Makes a copy of the active report to the clipboard.
 
 ## Remarks
 
-You can paste the copied report into another application, such as Word, Excel, or PowerPoint. The  **CopyReport** method corresponds to the **Copy Report** command on the **DESIGN** tab of the **REPORT TOOLS** ribbon.
+You can paste the copied report into another application, such as Word, Excel, or PowerPoint. The **CopyReport** method corresponds to the **Copy Report** command on the **DESIGN** tab of the **REPORT TOOLS** ribbon.
 
-The  **CopyReport** method does not apply to views, such as the following:
+The **CopyReport** method does not apply to views, such as the following:
 
 
 - Calendar
@@ -55,7 +55,7 @@ The  **CopyReport** method does not apply to views, such as the following:
     
 - Timeline
     
-If you use the  **CopyReport** method on a view that is not supported, Project shows run-time error 1100, **Application-defined or object-defined error**.
+If you use the **CopyReport** method on a view that is not supported, Project shows run-time error 1100, **Application-defined or object-defined error**.
 
 
 ## See also

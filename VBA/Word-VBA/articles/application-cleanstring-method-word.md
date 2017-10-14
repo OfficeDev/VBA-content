@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CleanString Method (Word)
 
-Removes nonprinting characters (character codes 1 ? 29) and special Word characters from the specified string or changes them to spaces (character code 32). Returns the result as a  **String** .
+Removes nonprinting characters (character codes 1 ? 29) and special Word characters from the specified string or changes them to spaces (character code 32). Returns the result as a **String** .
 
 
 ## Syntax

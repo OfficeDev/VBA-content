@@ -22,7 +22,7 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 ## Remarks
 
-The  **Read** event differs from the **[Open](taskrequestdeclineitem-open-event-outlook.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an **[Inspector](inspector-object-outlook.md)** .
+The **Read** event differs from the **[Open](taskrequestdeclineitem-open-event-outlook.md)** event in that **Read** occurs whenever the user selects the item in a view that supports in-cell editing as well as when the item is being opened in an **[Inspector](inspector-object-outlook.md)** .
 
 
 ## See also

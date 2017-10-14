@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PayRate.EffectiveDate Property (Project)
 
-Gets the date a pay rate for a resource goes into effect. Read-only  **Variant**.
+Gets the date a pay rate for a resource goes into effect. Read-only **Variant**.
 
 
 ## Syntax

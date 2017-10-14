@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Path Property (Word)
 
-Returns the location of an installed add-in. Read-only  **String** .
+Returns the location of an installed add-in. Read-only **String** .
 
 
 ## Syntax
@@ -25,15 +25,15 @@ Returns the location of an installed add-in. Read-only  **String** .
 
 ## Remarks
 
-The path doesn't include a trailing character— for example, "C:\MSOffice" or "http://MyServer". Use the  **PathSeparator** property to add the character that separates folders and drive letters. Use the **Name** property to return the file name without the path and use the **FullName** property to return the file name and the path together.
+The path doesn't include a trailing character— for example, "C:\MSOffice" or "http://MyServer". Use the **PathSeparator** property to add the character that separates folders and drive letters. Use the **Name** property to return the file name without the path and use the **FullName** property to return the file name and the path together.
 
 
- **Note**  You can use the  **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
+ **Note**  You can use the **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).
 
 
 ## Example
 
-This example displays the path of the first add-in in the  **AddIns** collection.
+This example displays the path of the first add-in in the **AddIns** collection.
 
 
 ```vb

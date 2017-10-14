@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 This object or member has been deprecated. You should not use it in new applications.
 
-This property will always return  **false** .
+This property will always return **false** .
 
 ## See also
 

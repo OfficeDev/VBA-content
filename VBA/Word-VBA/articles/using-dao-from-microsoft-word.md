@@ -18,9 +18,9 @@ Before you can use DAO, you must establish a reference to the DAO object library
 
 1. Switch to the Visual Basic Editor.
     
-2. On the  **Tools** menu, click **References**.
+2. On the **Tools** menu, click **References**.
     
-3. In the  **Available References** box, select **Microsoft DAO 3.6 Object Library**.
+3. In the **Available References** box, select **Microsoft DAO 3.6 Object Library**.
     
 The following example opens the Northwind database and inserts the items from the Shippers table into the active document.
 
@@ -49,7 +49,7 @@ Sub UsingDAOWithWord()
 End Sub
 ```
 
-Use the  **OpenDatabase** method to connect to a database and open it. After opening the database, use the **OpenRecordset** method to access a table or query for results. To navigate through the recordset, use the **Move** method. To find a specific record, use the **Seek** method. If you need only a subset of records instead of the entire recordset, use the **CreateQueryDef** method to design a customized query to select records that meet your criteria. When you finish working with a database, it is a good idea to close it using the **Close** method, to save memory.
+Use the **OpenDatabase** method to connect to a database and open it. After opening the database, use the **OpenRecordset** method to access a table or query for results. To navigate through the recordset, use the **Move** method. To find a specific record, use the **Seek** method. If you need only a subset of records instead of the entire recordset, use the **CreateQueryDef** method to design a customized query to select records that meet your criteria. When you finish working with a database, it is a good idea to close it using the **Close** method, to save memory.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shapes.AddCanvas Method (Word)
 
-Adds a drawing canvas to a document. Returns a  **[Shape](shape-object-word.md)** object that represents the drawing canvas and adds it to the **Shapes** collection.
+Adds a drawing canvas to a document. Returns a **[Shape](shape-object-word.md)** object that represents the drawing canvas and adds it to the **Shapes** collection.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Adds a drawing canvas to a document. Returns a  **[Shape](shape-object-word.md)*
 | _Top_|Required| **Single**|The position, in points, of the top edge of the drawing canvas, relative to the anchor.|
 | _Width_|Required| **Single**|The width, in points, of the drawing canvas.|
 | _Height_|Required| **Single**|The height, in points, of the drawing canvas.|
-| _Anchor_|Optional| **Variant**|A  **[Range](range-object-word.md)** object that represents the text to which the canvas is bound. If Anchor is specified, the anchor is positioned at the beginning of the first paragraph in the anchoring range. If this argument is omitted, the anchoring range is selected automatically and the canvas is positioned relative to the top and left edges of the page.|
+| _Anchor_|Optional| **Variant**|A **[Range](range-object-word.md)** object that represents the text to which the canvas is bound. If Anchor is specified, the anchor is positioned at the beginning of the first paragraph in the anchoring range. If this argument is omitted, the anchoring range is selected automatically and the canvas is positioned relative to the top and left edges of the page.|
 
 ### Return Value
 

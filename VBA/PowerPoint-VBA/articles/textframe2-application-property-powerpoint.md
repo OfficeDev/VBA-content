@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.Application Property (PowerPoint)
 
-Returns an  **[Application](application-object-powerpoint.md)** object that represents the creator of the specified **TextFrame2** object. Read-only.
+Returns an **[Application](application-object-powerpoint.md)** object that represents the creator of the specified **TextFrame2** object. Read-only.
 
 
 ## Syntax

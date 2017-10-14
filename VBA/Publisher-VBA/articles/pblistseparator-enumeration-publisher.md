@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PbListSeparator Enumeration (Publisher)
 
-Constants that represent the list separator of the specified paragraphs, passed to and returned by the  **ParagraphFormat.ListNumberSeparator** property.
+Constants that represent the list separator of the specified paragraphs, passed to and returned by the **ParagraphFormat.ListNumberSeparator** property.
 
 
 

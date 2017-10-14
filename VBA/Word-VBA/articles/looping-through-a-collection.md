@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Looping Through a Collection
 
-There are several different ways you can loop on the elements of a collection. However, the recommended method for looping on a collection is to use the  **For Each...Next** loop. In this structure, Visual Basic repeats a block of statements for each object in a collection. The following example displays the name of each document in the **[Documents](documents-object-word.md)** collection.
+There are several different ways you can loop on the elements of a collection. However, the recommended method for looping on a collection is to use the **For Each...Next** loop. In this structure, Visual Basic repeats a block of statements for each object in a collection. The following example displays the name of each document in the **[Documents](documents-object-word.md)** collection.
 
 
 ```vb
@@ -58,7 +58,7 @@ Sub UpdateDateFields()
 End Sub
 ```
 
-You can loop through a collection to determine if an element exists. For example, the following code displays a message if an AutoText entry named "Filename" is part of the  **[AutoTextEntries](autotextentries-object-word.md)** collection.
+You can loop through a collection to determine if an element exists. For example, the following code displays a message if an AutoText entry named "Filename" is part of the **[AutoTextEntries](autotextentries-object-word.md)** collection.
 
 
 

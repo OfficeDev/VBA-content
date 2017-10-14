@@ -33,10 +33,10 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-When the  **AddOnName** property of a **MenuItem** object indicates an add-on to run, Microsoft Visio automatically assigns a **CmdNum** property.
+When the **AddOnName** property of a **MenuItem** object indicates an add-on to run, Microsoft Visio automatically assigns a **CmdNum** property.
 
-To insert a separator in a menu preceding a  **MenuItem** object, use the **BeginGroup** property.
+To insert a separator in a menu preceding a **MenuItem** object, use the **BeginGroup** property.
 
-Valid command IDs are declared by the Visio type library in  **[VisUICmds](visuicmds-enumeration-visio.md)** . They have the prefix **visCmd** .
+Valid command IDs are declared by the Visio type library in **[VisUICmds](visuicmds-enumeration-visio.md)** . They have the prefix **visCmd** .
 
 

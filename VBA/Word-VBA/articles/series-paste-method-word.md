@@ -25,7 +25,7 @@ Pastes a picture from the Clipboard as the marker on the selected series.
 
 ## Remarks
 
-You can use this method on column, bar, line, or radar charts, and it sets the  **[MarkerStyle](series-markerstyle-property-word.md)** property to **xlMarkerStylePicture** .
+You can use this method on column, bar, line, or radar charts, and it sets the **[MarkerStyle](series-markerstyle-property-word.md)** property to **xlMarkerStylePicture** .
 
 
 ## Example

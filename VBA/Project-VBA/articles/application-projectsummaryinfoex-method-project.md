@@ -36,8 +36,8 @@ Returns information about project summary, including the Project Utilization typ
 | _Keywords_|Optional|**String**|The keywords associated with the project.|
 | _Comments_|Optional|**String**|The comments associated with the project.|
 | _Start_|Optional|**Variant**|The start date of the project. If ScheduleFrom is pjProjectFinish, Start is ignored|
-| _Finish_|Optional|**Variant**|The start date of the project. If  **ScheduleFrom** is **pjProjectFinish**,  _Start_ is ignored|
-| _ScheduleFrom_|Optional|**Integer**|Can be one of the following  **PjScheduleProjectFrom** constants: **pjProjectStart** or **pjProjectFinish**.|
+| _Finish_|Optional|**Variant**|The start date of the project. If **ScheduleFrom** is **pjProjectFinish**,  _Start_ is ignored|
+| _ScheduleFrom_|Optional|**Integer**|Can be one of the following **PjScheduleProjectFrom** constants: **pjProjectStart** or **pjProjectFinish**.|
 | _CurrentDate_|Optional|**Variant**|The current date for the project.|
 | _Calendar_|Optional|**String**|The name of the base calendar for the project.|
 | _StatusDate_|Optional|**Variant**|The current status date for the project.|
@@ -53,6 +53,6 @@ Returns information about project summary, including the Project Utilization typ
 
 ### Remarks
 
-Using the  **ProjectSummaryInfoEx** method with no arguments displays the **Project Information** dialog box
+Using the **ProjectSummaryInfoEx** method with no arguments displays the **Project Information** dialog box
 
 

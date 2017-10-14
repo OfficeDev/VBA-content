@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # GroupCriterion.Parent Property (Project)
 
-Gets the parent of the  **GroupCriterion** object. Read-only **Group**.
+Gets the parent of the **GroupCriterion** object. Read-only **Group**.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Gets the parent of the  **GroupCriterion** object. Read-only **Group**.
 
 ## Remarks
 
-Use the  **Parent** property to access the properties or methods of the parent of an object.
+Use the **Parent** property to access the properties or methods of the parent of an object.
 
 

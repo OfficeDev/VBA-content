@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PageBackground.Create Method (Publisher)
 
-Creates a new  **PageBackground** object for the specified **Page** object.
+Creates a new **PageBackground** object for the specified **Page** object.
 
 
 ## Syntax
 
  _expression_. **Create**
 
- _expression_A variable that represents a  **PageBackground** object.
+ _expression_A variable that represents a **PageBackground** object.
 
 
 ## Remarks

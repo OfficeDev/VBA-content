@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Resource.Assignments Property (Project)
 
-Gets an  **[Assignments](assignment-object-project.md)** collection representing the assignments for the resource. Read-only **Assignments**.
+Gets an **[Assignments](assignment-object-project.md)** collection representing the assignments for the resource. Read-only **Assignments**.
 
 
 ## Syntax

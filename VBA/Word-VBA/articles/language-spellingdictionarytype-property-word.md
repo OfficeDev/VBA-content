@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Language.SpellingDictionaryType Property (Word)
 
-Returns or sets the proofing tool type. Read/write  **WdDictionaryType** .
+Returns or sets the proofing tool type. Read/write **WdDictionaryType** .
 
 
 ## Syntax

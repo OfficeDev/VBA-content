@@ -22,6 +22,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For an example that uses the  **Month** object, see **[Working](month-working-property-project.md)**.
+For an example that uses the **Month** object, see **[Working](month-working-property-project.md)**.
 
 

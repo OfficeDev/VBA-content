@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.Width Property (Word)
 
-Returns or sets the width of a table cell, in points. Read/write  **Long** .
+Returns or sets the width of a table cell, in points. Read/write **Long** .
 
 
 ## Syntax

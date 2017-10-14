@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindows.Item Method (PowerPoint)
 
-Returns a single  **ProtectedViewWindow** object from the specified **ProtectedViewWindows** collection.
+Returns a single **ProtectedViewWindow** object from the specified **ProtectedViewWindows** collection.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns a single  **ProtectedViewWindow** object from the specified **ProtectedV
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|The index number of the single  **ProtectedViewWindow** object in the collection to be returned.|
+| _Index_|Required|**Integer**|The index number of the single **ProtectedViewWindow** object in the collection to be returned.|
 
 ### Return Value
 

@@ -30,9 +30,9 @@ Nothing
 
 ## Remarks
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVWindow.DeselectAll()**
+- **Microsoft.Office.Interop.Visio.IVWindow.DeselectAll()**
     
 

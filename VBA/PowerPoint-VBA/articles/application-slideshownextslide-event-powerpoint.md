@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SlideShowNextSlide Event (PowerPoint)
 
-Occurs immediately before the transition to the next slide. For the first slide, occurs immediately after the  **[SlideShowBegin](application-slideshowbegin-event-powerpoint.md)** event.
+Occurs immediately before the transition to the next slide. For the first slide, occurs immediately after the **[SlideShowBegin](application-slideshowbegin-event-powerpoint.md)** event.
 
 
 ## Syntax
@@ -33,12 +33,12 @@ Occurs immediately before the transition to the next slide. For the first slide,
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
 
 ## Example
 
-This example determines the slide position for the slide following the  **SlideShowNextSlide** event. If the next slide is slide three, the example changes the type of pointer to a pen and the pen color to red.
+This example determines the slide position for the slide following the **SlideShowNextSlide** event. If the next slide is slide three, the example changes the type of pointer to a pen and the pen color to red.
 
 
 ```vb
@@ -80,7 +80,7 @@ End Sub
 This example sets a global counter variable to zero. Then it calculates the number of shapes on the slide following this event, determines which shapes have animation, and fills a global array with the animation order and the number of each shape.
 
 
- **Note**  The array created in this example is also used in the  **SlideShowNextBuild** event example.
+ **Note**  The array created in this example is also used in the **SlideShowNextBuild** event example.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IVBUndoUnit.UnitTypeLong Property (Visio)
 
-Identifies an undo unit by a  **Long** . Read-only.
+Identifies an undo unit by a **Long** . Read-only.
 
 
 ## Syntax
@@ -30,10 +30,10 @@ Long
 
 ## Remarks
 
-If you are creating an undo unit for your solution, the  **UnitTypeLong** property is one of the members of **IVBUndoUnit** that you must implement. You can use the **UnitTypeLong** value to identify your undo units.
+If you are creating an undo unit for your solution, the **UnitTypeLong** property is one of the members of **IVBUndoUnit** that you must implement. You can use the **UnitTypeLong** value to identify your undo units.
 
  The **UnitTypeLong** value is optional, and you can and set the value to zero (0) when you implement the property.
 
-For more information about the  **UnitTypeLong** property and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN, the Microsoft Developer Network.
+For more information about the **UnitTypeLong** property and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN, the Microsoft Developer Network.
 
 

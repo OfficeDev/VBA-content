@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisVerticalAlignTypes Enumeration (Visio)
 
-Vertical alignment type values to pass to the  **Selection.Align** method.
+Vertical alignment type values to pass to the **Selection.Align** method.
 
 
 

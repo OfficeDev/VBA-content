@@ -30,6 +30,6 @@ For the selected assignment in the Team Planner view, selects from the beginning
 
 ## Remarks
 
-The  **SelectToEnd** method has the same effect as the **Select to End** command in the right-click menu for an assignment in the Team Planner view.
+The **SelectToEnd** method has the same effect as the **Select to End** command in the right-click menu for an assignment in the Team Planner view.
 
 

@@ -29,7 +29,7 @@ Specifies whether the callout line attaches to the top, bottom, or center of the
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _DropType_|Required| **MsoCalloutDropType**|The starting position of the callout line relative to the text bounding box. If you specify  **msoCalloutDropCustom** , the values of the **Drop** and **AutoAttach** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.|
+| _DropType_|Required| **MsoCalloutDropType**|The starting position of the callout line relative to the text bounding box. If you specify **msoCalloutDropCustom** , the values of the **Drop** and **AutoAttach** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.|
 
 ## Example
 

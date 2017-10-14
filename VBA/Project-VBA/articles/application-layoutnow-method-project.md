@@ -30,8 +30,8 @@ Lays out the active view according to its layout options.
 
 ## Remarks
 
-Layout options can be set with the  **Layout** method.
+Layout options can be set with the **Layout** method.
 
-The  **LayoutNow** method is only available when a Network Diagram or Calendar view is active.
+The **LayoutNow** method is only available when a Network Diagram or Calendar view is active.
 
 

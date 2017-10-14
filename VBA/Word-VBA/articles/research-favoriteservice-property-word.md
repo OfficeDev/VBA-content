@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Research.FavoriteService Property (Word)
 
-Returns or sets a  **String** that specifies the favorite research service.
+Returns or sets a **String** that specifies the favorite research service.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** that specifies the favorite research service.
 
 ## Remarks
 
-The  **String** that is set or returned for this property specifies the GUID of the favorite research service.
+The **String** that is set or returned for this property specifies the GUID of the favorite research service.
 
 Setting this property has the same effect as choosing a favorite research service through the Research Options dialog in Word. 
 

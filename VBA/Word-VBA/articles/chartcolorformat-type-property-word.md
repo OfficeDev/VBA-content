@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartColorFormat.Type Property (Word)
 
-Returns the color format type. Read-only  **Long** .
+Returns the color format type. Read-only **Long** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns the color format type. Read-only  **Long** .
 
 ## Remarks
 
-This property returns one of the following  **[MsoColorType](http://msdn.microsoft.com/library/d7dfbd4b-d3ac-6e08-b703-aaa1f69516dc%28Office.15%29.aspx)** constants:
+This property returns one of the following **[MsoColorType](http://msdn.microsoft.com/library/d7dfbd4b-d3ac-6e08-b703-aaa1f69516dc%28Office.15%29.aspx)** constants:
 
 
--  **msoColorTypeRGB**
+- **msoColorTypeRGB**
     
--  **msoColorTypeScheme**
+- **msoColorTypeScheme**
     
 
 ## See also

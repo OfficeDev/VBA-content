@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ActionSetting.Hyperlink Property (PowerPoint)
 
-Returns a  **[Hyperlink](hyperlink-object-powerpoint.md)** object that represents the hyperlink for the specified shape. Read-only.
+Returns a **[Hyperlink](hyperlink-object-powerpoint.md)** object that represents the hyperlink for the specified shape. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Hyperlink
 
 ## Remarks
 
-For the hyperlink to be active during a slide show, the  **[Action](actionsetting-action-property-powerpoint.md)** property must be set to **ppActionHyperlink**.
+For the hyperlink to be active during a slide show, the **[Action](actionsetting-action-property-powerpoint.md)** property must be set to **ppActionHyperlink**.
 
 
 ## Example

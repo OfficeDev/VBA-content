@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Comment.CreateDate Property (Visio)
 
-Returns the date the specified comment was created. Read-only  **Date**.
+Returns the date the specified comment was created. Read-only **Date**.
 
 
 ## Syntax

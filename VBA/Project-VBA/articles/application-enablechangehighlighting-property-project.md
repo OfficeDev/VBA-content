@@ -25,6 +25,6 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The default value of  **EnableChangeHighlighting** is **False**. See also the **[ToggleChangeHighlighting](application-togglechangehighlighting-method-project.md)** method.
+The default value of **EnableChangeHighlighting** is **False**. See also the **[ToggleChangeHighlighting](application-togglechangehighlighting-method-project.md)** method.
 
 

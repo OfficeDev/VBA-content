@@ -30,6 +30,6 @@ Boolean
 
 ## Remarks
 
-The setting of the  **ShowMoreShapeHandlesOnHover** property corresponds to the setting of the **Show more shape handles on hover** checkbox on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**) in the Microsoft Visio user interface.
+The setting of the **ShowMoreShapeHandlesOnHover** property corresponds to the setting of the **Show more shape handles on hover** checkbox on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**) in the Microsoft Visio user interface.
 
 

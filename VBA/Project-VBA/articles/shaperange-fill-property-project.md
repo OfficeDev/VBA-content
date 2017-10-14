@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # ShapeRange.Fill Property (Project)
-Gets a  **FillFormat** object for the shape range, if the shape range contains fill formatting properties. Read-only **[FillFormat](http://msdn.microsoft.com/en-us/library/office/ff838198%28v=office.15%29)**.
+Gets a **FillFormat** object for the shape range, if the shape range contains fill formatting properties. Read-only **[FillFormat](http://msdn.microsoft.com/en-us/library/office/ff838198%28v=office.15%29)**.
 
 ## Syntax
 

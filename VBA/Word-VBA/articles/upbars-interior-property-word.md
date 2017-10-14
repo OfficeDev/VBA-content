@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UpBars.Interior Property (Word)
 
-Returns the interior of the object. Read-only  **[Interior](interior-object-word.md)** .
+Returns the interior of the object. Read-only **[Interior](interior-object-word.md)** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SendRuleAction.Recipients Property (Outlook)
 
-Returns a  **[Recipients](recipients-object-outlook.md)** collection that represents the recipient list for the send action. Read-only.
+Returns a **[Recipients](recipients-object-outlook.md)** collection that represents the recipient list for the send action. Read-only.
 
 
 ## Syntax

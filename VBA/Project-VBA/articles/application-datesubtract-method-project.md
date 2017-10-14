@@ -37,7 +37,7 @@ Returns the date and time that precedes another date by a specified duration, fo
 
 ## Remarks
 
-To subtract a duration from a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the  **[EffectiveDateSubtract](startdriver-effectivedatesubtract-property-project.md)** property.
+To subtract a duration from a date for a manually scheduled task, which uses an effective calendar that can include non-working time, use the **[EffectiveDateSubtract](startdriver-effectivedatesubtract-property-project.md)** property.
 
 
 ## Example

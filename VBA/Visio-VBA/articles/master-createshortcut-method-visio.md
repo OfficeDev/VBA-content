@@ -30,21 +30,21 @@ MasterShortcut
 
 ## Remarks
 
-The new master shortcut is created in the same document as the target master and is added to the document's  **MasterShortcuts** collection. If you are trying to create a shortcut in a stencil, the stencil must therefore be editable for this method to succeed.
+The new master shortcut is created in the same document as the target master and is added to the document's **MasterShortcuts** collection. If you are trying to create a shortcut in a stencil, the stencil must therefore be editable for this method to succeed.
 
 
 
 
  **Note**  Starting with Microsoft Office Visio 2003, only user-created stencils are editable. By default, Visio stencils are not editable. 
 
-The new shortcut's name is "Shortcut to X", where "X" is the name of the target master. The shortcut's  **TargetDocumentName** and **TargetMasterName** properties identify the target master. So once a shortcut has been created, it can be moved or copied into other documents.
+The new shortcut's name is "Shortcut to X", where "X" is the name of the target master. The shortcut's **TargetDocumentName** and **TargetMasterName** properties identify the target master. So once a shortcut has been created, it can be moved or copied into other documents.
 
-You cannot create a shortcut to a master in an unsaved stencil. If you try to do so, the  **CreateShortcut** method returns an error.
+You cannot create a shortcut to a master in an unsaved stencil. If you try to do so, the **CreateShortcut** method returns an error.
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **CreateShortcut** method to create a shortcut to a master. This example assumes that you have created a stencil named "SampleStencil.vss" containing a master named "SampleMaster" and saved it to the C drive on your computer.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **CreateShortcut** method to create a shortcut to a master. This example assumes that you have created a stencil named "SampleStencil.vss" containing a master named "SampleMaster" and saved it to the C drive on your computer.
 
 
 ```vb

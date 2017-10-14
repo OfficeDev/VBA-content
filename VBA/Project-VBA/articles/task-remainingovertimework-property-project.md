@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.RemainingOvertimeWork Property (Project)
 
-Gets the remaining overtime work (in minutes) for the task. Read-only  **Variant**.
+Gets the remaining overtime work (in minutes) for the task. Read-only **Variant**.
 
 
 ## Syntax

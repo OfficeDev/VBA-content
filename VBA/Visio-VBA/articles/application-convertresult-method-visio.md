@@ -40,7 +40,7 @@ Double
 
 ## Remarks
 
-If passed as a string,  _StringOrNumber_ might be the formula or prospective formula of a cell or the result or prospective result of a cell expressed as a string. The **ConvertResult** method evaluates the string and converts the result into the units designated by _UnitsOut_. The  **ConvertResult** method returns an error if the string contains any cell references.
+If passed as a string,  _StringOrNumber_ might be the formula or prospective formula of a cell or the result or prospective result of a cell expressed as a string. The **ConvertResult** method evaluates the string and converts the result into the units designated by _UnitsOut_. The **ConvertResult** method returns an error if the string contains any cell references.
 
 Possible values for  _StringOrNumber_ include:
 
@@ -96,7 +96,7 @@ Debug.Print vsoApplication.ConvertResult(1, "bz", "in") >>> exception: Bad measu
 
 ## Example
 
-The following macro shows how to use the  **ConvertResult** method to report the distance between two shapes in centimeters, feet, yards, and miles. To run this macro, you must have two shapes selected on your page.
+The following macro shows how to use the **ConvertResult** method to report the distance between two shapes in centimeters, feet, yards, and miles. To run this macro, you must have two shapes selected on your page.
 
 
 ```vb

@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. **MajorVersionNumber**
 
- _expression_An expression that returns a  **Viewer** object.
+ _expression_An expression that returns a **Viewer** object.
 
 
 ### Return Value
@@ -32,7 +32,7 @@ The major version number of Visio Viewer corresponds to the major version number
 
 ## Example
 
-The following code displays the major version number in the  **Immediate** window.
+The following code displays the major version number in the **Immediate** window.
 
 
 ```vb

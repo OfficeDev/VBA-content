@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 
 # Application.ReportsDialog Method (Project)
-Displays the  **Reports** dialog box, which enables you to select the Office Art style of custom and built-in reports.
+Displays the **Reports** dialog box, which enables you to select the Office Art style of custom and built-in reports.
 
 ## Syntax
 
@@ -26,12 +26,12 @@ Displays the  **Reports** dialog box, which enables you to select the Office Art
 
 ## Remarks
 
-The  **ReportsDialog** method corresponds to the **More Reports** item in the drop-down lists in the **View Reports** group on the **REPORT** tab of the ribbon. For example, choose **More Reports** in the **Custom** drop-down list.
+The **ReportsDialog** method corresponds to the **More Reports** item in the drop-down lists in the **View Reports** group on the **REPORT** tab of the ribbon. For example, choose **More Reports** in the **Custom** drop-down list.
 
-To access the reports that use Excel and Visio templates, use the  **[Visual Reports](application-visualreports-method-project.md)** method.
+To access the reports that use Excel and Visio templates, use the **[Visual Reports](application-visualreports-method-project.md)** method.
 
 
- **Note**  The  **[Reports](application-reports-method-project.md)** method, for the older style of reports that require connection with a printer, is deprecated in Project.
+ **Note**  The **[Reports](application-reports-method-project.md)** method, for the older style of reports that require connection with a printer, is deprecated in Project.
 
 
 ## See also

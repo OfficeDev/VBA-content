@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Paragraphs Property (Word)
 
-Returns a  **Paragraphs** collection that represents all the paragraphs in the specified range. Read-only.
+Returns a **Paragraphs** collection that represents all the paragraphs in the specified range. Read-only.
 
 
 ## Syntax

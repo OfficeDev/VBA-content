@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Shadow Property (PowerPoint)
 
-Returns a  **[ShadowFormat](shadowformat-object-powerpoint.md)** object that contains shadow formatting properties for the specified shape. Read-only.
+Returns a **[ShadowFormat](shadowformat-object-powerpoint.md)** object that contains shadow formatting properties for the specified shape. Read-only.
 
 
 ## Syntax

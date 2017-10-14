@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UserProperty.Value Property (Outlook)
 
-Returns or sets a  **Variant** indicating the value for the specified custom property. Read/write.
+Returns or sets a **Variant** indicating the value for the specified custom property. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Variant** indicating the value for the specified custom pro
 
 ## Remarks
 
-To set for the first time a property created by the  **[UserProperties.Add](userproperties-add-method-outlook.md)** method, use the **UserProperty.Value** property instead of the **[SetProperties](propertyaccessor-setproperties-method-outlook.md)** or **[SetProperty](propertyaccessor-setproperty-method-outlook.md)** method of the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object.
+To set for the first time a property created by the **[UserProperties.Add](userproperties-add-method-outlook.md)** method, use the **UserProperty.Value** property instead of the **[SetProperties](propertyaccessor-setproperties-method-outlook.md)** or **[SetProperty](propertyaccessor-setproperty-method-outlook.md)** method of the **[PropertyAccessor](propertyaccessor-object-outlook.md)** object.
 
 For more information on accessing properties in Outlook, see [Properties Overview](http://msdn.microsoft.com/library/242c9e89-a0c5-ff89-0d2a-410bd42a3461%28Office.15%29.aspx).
 

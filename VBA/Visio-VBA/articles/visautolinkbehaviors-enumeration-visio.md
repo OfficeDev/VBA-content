@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # VisAutoLinkBehaviors Enumeration (Visio)
 
-Linking behavior constants passed to the  **[Selection.AutomaticLink](selection-automaticlink-method-visio.md)** method.
+Linking behavior constants passed to the **[Selection.AutomaticLink](selection-automaticlink-method-visio.md)** method.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

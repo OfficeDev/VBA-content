@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.ScaleType Property (PowerPoint)
 
-Returns or sets the value axis scale type. Read/write  **[XlScaleType](xlscaletype-enumeration-powerpoint.md)**.
+Returns or sets the value axis scale type. Read/write **[XlScaleType](xlscaletype-enumeration-powerpoint.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.TabLeader Property (Word)
 
-Returns or sets the character between entries and their page numbers in an index, table of authorities, table of contents, or table of figures. Read/write  **[WdTabLeader](wdtableader-enumeration-word.md)** .
+Returns or sets the character between entries and their page numbers in an index, table of authorities, table of contents, or table of figures. Read/write **[WdTabLeader](wdtableader-enumeration-word.md)** .
 
 
 ## Syntax

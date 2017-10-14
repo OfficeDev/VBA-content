@@ -30,6 +30,6 @@ String
 
 ## Remarks
 
-You can get, but not set, the  **Name** property of an **Addon** object or a **Font** object.
+You can get, but not set, the **Name** property of an **Addon** object or a **Font** object.
 
 

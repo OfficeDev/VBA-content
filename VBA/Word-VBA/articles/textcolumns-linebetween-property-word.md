@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **LineBetween** property can be **True** , **False** , or **wdUndefined** .
+The **LineBetween** property can be **True** , **False** , or **wdUndefined** .
 
 
 ## Example

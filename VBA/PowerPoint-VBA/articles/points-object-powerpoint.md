@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Points Object (PowerPoint)
 
-A collection of all the  **[Point](point-object-powerpoint.md)** objects in the specified series in a chart.
+A collection of all the **[Point](point-object-powerpoint.md)** objects in the specified series in a chart.
 
 
 ## Remarks
 
-Use  **[Points](series-points-method-powerpoint.md)** ( _Index_ ), where _Index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
+Use **[Points](series-points-method-powerpoint.md)** ( _Index_ ), where _Index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
 
 
 ## Example
@@ -28,7 +28,7 @@ Use  **[Points](series-points-method-powerpoint.md)** ( _Index_ ), where _Index_
 
  **Note**  Although the following code applies to Microsoft Word, you can readily modify it to apply to PowerPoint.
 
-Use the  **Points** method to return the **Points** collection. The following example adds a data label to the last point in series one for the first chart in the active document.
+Use the **Points** method to return the **Points** collection. The following example adds a data label to the last point in series one for the first chart in the active document.
 
 
 

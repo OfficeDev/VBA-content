@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Name Property (Word)
 
-Returns the name of an add-in. Read-only  **String** .
+Returns the name of an add-in. Read-only **String** .
 
 
 ## Syntax

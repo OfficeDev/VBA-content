@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.EnterpriseTeamMember Method (Project)
 
-Indicates whether the specified assignment belongs to the project.  **True** if the assignment belongs to the specified project; otherwise **False**. Available in Project Professional only.
+Indicates whether the specified assignment belongs to the project. **True** if the assignment belongs to the specified project; otherwise **False**. Available in Project Professional only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ Indicates whether the specified assignment belongs to the project.  **True** if 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Project_|Required|**Object**|The  **Project** object against which the expression is checked. For example, **ActiveProject**.|
+| _Project_|Required|**Object**|The **Project** object against which the expression is checked. For example, **ActiveProject**.|
 
 ### Return Value
 
@@ -35,8 +35,8 @@ Indicates whether the specified assignment belongs to the project.  **True** if 
 
 ## Remarks
 
-The  **EnterpriseTeamMember** method returns **False** for summary resource assignments, because the assignment or resource is from another project.
+The **EnterpriseTeamMember** method returns **False** for summary resource assignments, because the assignment or resource is from another project.
 
-The  **EnterpriseTeamMember** method returns a trappable error (error code 1004) if the active view is not a Resource or Assignment view.
+The **EnterpriseTeamMember** method returns a trappable error (error code 1004) if the active view is not a Resource or Assignment view.
 
 

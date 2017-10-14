@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Profile.Delete Method (Project)
 
-Deletes an account profile from the  **[Profiles](profiles-object-project.md)** collection in Project.
+Deletes an account profile from the **[Profiles](profiles-object-project.md)** collection in Project.
 
 
 ## Syntax
@@ -22,6 +22,6 @@ Deletes an account profile from the  **[Profiles](profiles-object-project.md)** 
 
 ## Remarks
 
-The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
+The **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
 
 

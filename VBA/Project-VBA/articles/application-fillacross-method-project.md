@@ -38,6 +38,6 @@ Fills the selected cells or columns with the values in the specified cell or col
 
 ## Remarks
 
-The  **FillAcross** method is only available in timephased cells of usage views.
+The **FillAcross** method is only available in timephased cells of usage views.
 
 

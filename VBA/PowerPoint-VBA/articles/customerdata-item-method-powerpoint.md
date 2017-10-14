@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomerData.Item Method (PowerPoint)
 
-Returns the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection. Read-only.
+Returns the specified **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90bac-01d6-bba4-f64b-a64e2b122cfd%28Office.15%29.aspx)** object from the **[CustomerData](customerdata-object-powerpoint.md)** collection. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns the specified  **[CustomXMLPart](http://msdn.microsoft.com/library/a4f90
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Id_|Required|**String**|The ID of the  **CustomXMLPart** object.|
+| _Id_|Required|**String**|The ID of the **CustomXMLPart** object.|
 
 ### Return Value
 
@@ -38,7 +38,7 @@ CustomXMLPart
 
 ## Remarks
 
-Individual  **CustomXMLPart** objects in the **CustomerData** collection are represented by GUIDs (globally unique identifiers). Pass the GUID that represents the custom XML part that you want to get to the Id parameter of the **Item** method as a **String**. You can get the ID of a particular custom XML part by getting the value of the **Id** property of the **CustomXMLPart** object.
+Individual **CustomXMLPart** objects in the **CustomerData** collection are represented by GUIDs (globally unique identifiers). Pass the GUID that represents the custom XML part that you want to get to the Id parameter of the **Item** method as a **String**. You can get the ID of a particular custom XML part by getting the value of the **Id** property of the **CustomXMLPart** object.
 
 
 ## Example

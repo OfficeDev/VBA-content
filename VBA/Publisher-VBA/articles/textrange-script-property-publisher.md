@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Script Property (Publisher)
 
-Returns a  **PbFontScriptType** constant that represents the font script for a text range. Read-only.
+Returns a **PbFontScriptType** constant that represents the font script for a text range. Read-only.
 
 
 ## Syntax
 
  _expression_. **Script**
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbFontScriptType
 
 ## Remarks
 
-The  **Script** property value can be one of the **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **Script** property value can be one of the **[PbFontScriptType](pbfontscripttype-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

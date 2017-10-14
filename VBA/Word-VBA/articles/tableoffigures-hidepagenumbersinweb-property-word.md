@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.HidePageNumbersInWeb Property (Word)
 
-Returns or sets whether page numbers in a table of contents or a table of figures should be hidden when publishing to the Web. Read/write  **Boolean** .
+Returns or sets whether page numbers in a table of contents or a table of figures should be hidden when publishing to the Web. Read/write **Boolean** .
 
 
 ## Syntax

@@ -19,7 +19,7 @@ Represents base text with supplementary text appearing above it as a guide to pr
 
 ## Example
 
-Use the  **PhoneticGuide** property of a **Field** object to return an existing **PhoneticGuide** object. Use the **AddPhoneticGuide** method of a **Fields** collection to create a new **PhoneticGuide** object.
+Use the **PhoneticGuide** property of a **Field** object to return an existing **PhoneticGuide** object. Use the **AddPhoneticGuide** method of a **Fields** collection to create a new **PhoneticGuide** object.
  
 
  
@@ -27,7 +27,7 @@ Use the  **PhoneticGuide** property of a **Field** object to return an existing 
  
 
  
-The following example adds a new  **PhoneticGuide** object to the active publication.
+The following example adds a new **PhoneticGuide** object to the active publication.
  
 
  

@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # BuildingBlocks.Item Property (Publisher)
 
-Returns the specified  **[BuildingBlock](buildingblock-object-publisher.md)** object from a **BuildingBlocks** collection. Read-only.
+Returns the specified **[BuildingBlock](buildingblock-object-publisher.md)** object from a **BuildingBlocks** collection. Read-only.
 
 
 ## Syntax
 
  _expression_. **Item**( **_Item_**)
 
- _expression_A variable that represents a  **BuildingBlocks** object.
+ _expression_A variable that represents a **BuildingBlocks** object.
 
 
 ### Parameters

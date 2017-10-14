@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Sequence.ConvertToAfterEffect Method (PowerPoint)
 
-Specifies what an effect should do after it is finished. Returns an  **[Effect](effect-object-powerpoint.md)** object that represents an after effect.
+Specifies what an effect should do after it is finished. Returns an **[Effect](effect-object-powerpoint.md)** object that represents an after effect.
 
 
 ## Syntax

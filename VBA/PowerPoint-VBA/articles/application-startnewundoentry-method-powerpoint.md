@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StartNewUndoEntry Method (PowerPoint)
 
-Starts a new undo entry in the  **Application** object.
+Starts a new undo entry in the **Application** object.
 
 
 ## Syntax

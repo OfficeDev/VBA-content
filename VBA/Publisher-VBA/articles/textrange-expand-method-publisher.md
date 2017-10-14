@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextRange.Expand Method (Publisher)
 
-Expands the specified range or selection. Returns or sets a  **Long** that represents the number of specified units added to the range or selection.
+Expands the specified range or selection. Returns or sets a **Long** that represents the number of specified units added to the range or selection.
 
 
 ## Syntax
 
  _expression_. **Expand**( **_Unit_**)
 
- _expression_A variable that represents a  **TextRange** object.
+ _expression_A variable that represents a **TextRange** object.
 
 
 ### Parameters
@@ -38,9 +38,9 @@ Long
 
 ## Remarks
 
-The  **Expand** method moves both endpoints of a range if necessary; to move only one endpoint of a range, use the **[MoveStart](textrange-movestart-method-publisher.md)** or **[MoveEnd](textrange-moveend-method-publisher.md)** method.
+The **Expand** method moves both endpoints of a range if necessary; to move only one endpoint of a range, use the **[MoveStart](textrange-movestart-method-publisher.md)** or **[MoveEnd](textrange-moveend-method-publisher.md)** method.
 
-The Unit parameter can be one of the  **[PbTextUnit](pbtextunit-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The Unit parameter can be one of the **[PbTextUnit](pbtextunit-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WdRelativeVerticalSize Enumeration (Word)
 
-Specifies the relative height of a shape using the value specified in the  **HeightRelative** property for a **[Shape](shape-object-word.md)** or **[ShapeRange](shaperange-object-word.md)** object.
+Specifies the relative height of a shape using the value specified in the **HeightRelative** property for a **[Shape](shape-object-word.md)** or **[ShapeRange](shaperange-object-word.md)** object.
 
 
 

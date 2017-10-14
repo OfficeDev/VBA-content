@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Cell.CellTextOrientation Property (Publisher)
 
-Returns or sets a  **PbTextOrientation** that represents the flow of text in a specified table cell. Read/write.
+Returns or sets a **PbTextOrientation** that represents the flow of text in a specified table cell. Read/write.
 
 
 ## Syntax
 
  _expression_. **CellTextOrientation**
 
- _expression_A variable that represents a  **Cell** object.
+ _expression_A variable that represents a **Cell** object.
 
 
 ### Return Value
@@ -30,7 +30,7 @@ PbTextOrientation
 
 ## Remarks
 
-The  **CellTextOrientation** property value can be one of the **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
+The **CellTextOrientation** property value can be one of the **[PbTextOrientation](pbtextorientation-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
 
 
 ## Example

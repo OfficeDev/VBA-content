@@ -11,7 +11,7 @@ ms.prod: powerpoint
 
 # Theme.ThemeVariants Property (PowerPoint)
 
-Returns a  **[ThemeVariants](themevariant-object-powerpoint.md)** collection that represents the variations in the theme.
+Returns a **[ThemeVariants](themevariant-object-powerpoint.md)** collection that represents the variations in the theme.
 
 
 ## Syntax

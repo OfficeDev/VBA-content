@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-To change equations to linear format, use the  **[Linearize](omaths-linearize-method-word.md)** method.
+To change equations to linear format, use the **[Linearize](omaths-linearize-method-word.md)** method.
 
 
 ## See also

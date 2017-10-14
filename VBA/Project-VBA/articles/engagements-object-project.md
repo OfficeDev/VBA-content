@@ -8,7 +8,7 @@ ms.prod: project-server
 
 # Engagements Object (Project)
 
-A collection of  **Engagement** objects. Introduced in Office 2016.
+A collection of **Engagement** objects. Introduced in Office 2016.
  
 
 

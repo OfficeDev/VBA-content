@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SoftEdgeFormat.Radius Property (Word)
 
-Returns or sets a  **Single** that represents the length of the radius for a soft edge effect. Read/write.
+Returns or sets a **Single** that represents the length of the radius for a soft edge effect. Read/write.
 
 
 ## Syntax

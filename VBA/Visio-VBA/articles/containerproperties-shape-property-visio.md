@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContainerProperties.Shape Property (Visio)
 
-Returns the Microsoft Visio  **[Shape](shape-object-visio.md)** object that is associated with the container. Read-only.
+Returns the Microsoft Visio **[Shape](shape-object-visio.md)** object that is associated with the container. Read-only.
 
 
 ## Syntax

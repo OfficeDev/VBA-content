@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # TextStyle.Description Property (Publisher)
 
-Returns a  **String** that represents the description of the specified style. For example, a typical description for the Normal style might be "(Default) Times New Roman, (Asian) MS Mincho, 10 pt, Main (Black), Kerning 14 pt, Left, Line spacing 1 sp." Read-only.
+Returns a **String** that represents the description of the specified style. For example, a typical description for the Normal style might be "(Default) Times New Roman, (Asian) MS Mincho, 10 pt, Main (Black), Kerning 14 pt, Left, Line spacing 1 sp." Read-only.
 
 
 ## Syntax
 
  _expression_. **Description**
 
- _expression_A variable that represents a  **TextStyle** object.
+ _expression_A variable that represents a **TextStyle** object.
 
 
 ## Example

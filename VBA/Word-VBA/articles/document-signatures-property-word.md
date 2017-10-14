@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Signatures Property (Word)
 
-Returns a  **SignatureSet** collection that represents the digital signatures for a document.
+Returns a **SignatureSet** collection that represents the digital signatures for a document.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ To digitally sign Microsoft Word documents and verify other signatures in them, 
 
 ## Example
 
-This example displays the  **Signatures** dialog box with which you can add a digital signature to a document.
+This example displays the **Signatures** dialog box with which you can add a digital signature to a document.
 
 
 ```vb

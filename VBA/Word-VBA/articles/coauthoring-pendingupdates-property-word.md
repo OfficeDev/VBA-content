@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CoAuthoring.PendingUpdates Property (Word)
 
-Returns  **true** if the document has pending updates that have not been accepted. Read-only.
+Returns **true** if the document has pending updates that have not been accepted. Read-only.
 
 
 ## Syntax

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. **AllowBackgroundSave**
 
- _expression_A variable that represents an  **Options** object.
+ _expression_A variable that represents an **Options** object.
 
 
 ### Return Value

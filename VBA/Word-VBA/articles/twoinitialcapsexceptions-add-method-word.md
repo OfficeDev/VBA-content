@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TwoInitialCapsExceptions.Add Method (Word)
 
-Returns a  **TwoInitialCapsException** object that represents a new exception added to the list of AutoCorrect exceptions.
+Returns a **TwoInitialCapsException** object that represents a new exception added to the list of AutoCorrect exceptions.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ TwoInitialCapsException
 
 ## Remarks
 
-If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions.
+If the **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions.
 
 
 ## Example

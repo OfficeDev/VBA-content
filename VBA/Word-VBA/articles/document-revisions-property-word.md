@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Revisions Property (Word)
 
-Returns a  **Revisions** collection that represents the tracked changes in the document or range. Read-only.
+Returns a **Revisions** collection that represents the tracked changes in the document or range. Read-only.
 
 
 ## Syntax

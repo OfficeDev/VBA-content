@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Assignment.Owner Property (Project)
 
-Gets or sets the name of the assignment owner. Read/write  **String**.
+Gets or sets the name of the assignment owner. Read/write **String**.
 
 
 ## Syntax

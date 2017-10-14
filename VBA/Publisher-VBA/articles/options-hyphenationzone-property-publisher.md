@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Options.HyphenationZone Property (Publisher)
 
-Returns or sets a  **Variant** that represents the maximum amount of space that Microsoft Publisher leaves between the end of the last word in a line and the right margin. Read/write.
+Returns or sets a **Variant** that represents the maximum amount of space that Microsoft Publisher leaves between the end of the last word in a line and the right margin. Read/write.
 
 
 ## Syntax
 
  _expression_. **HyphenationZone**
 
- _expression_A variable that represents a  **Options** object.
+ _expression_A variable that represents a **Options** object.
 
 
 ### Return Value

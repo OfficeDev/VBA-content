@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.PictureFormat Property (PowerPoint)
 
-Returns a  **[PictureFormat](pictureformat-object-powerpoint.md)** object that contains picture formatting properties for the specified shape. Read-only.
+Returns a **[PictureFormat](pictureformat-object-powerpoint.md)** object that contains picture formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ PictureFormat
 
 ## Remarks
 
-This property applies to  **Shape** or **ShapeRange** objects that represent pictures or OLE objects.
+This property applies to **Shape** or **ShapeRange** objects that represent pictures or OLE objects.
 
 
 ## Example

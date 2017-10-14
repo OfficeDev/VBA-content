@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CalendarDrivers.TotalDetectedCount Property (Project)
 
-Gets the total number of calendar drivers that affect the dates of a task. Read-only  **Long**.
+Gets the total number of calendar drivers that affect the dates of a task. Read-only **Long**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Gets the total number of calendar drivers that affect the dates of a task. Read-
 
 ## Remarks
 
-For an example that uses actual start drivers, see  **[TotalDetectedCount](actualstartdrivers-totaldetectedcount-property-project.md)** for the **ActualStartDrivers** object.
+For an example that uses actual start drivers, see **[TotalDetectedCount](actualstartdrivers-totaldetectedcount-property-project.md)** for the **ActualStartDrivers** object.
 
 
 ## See also

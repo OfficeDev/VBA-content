@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Task.BaselineBudgetWork Property (Project)
 
-Gets or sets the baseline budget work hours for all non-cost resources assigned to the project summary task. Read/write  **Variant**.
+Gets or sets the baseline budget work hours for all non-cost resources assigned to the project summary task. Read/write **Variant**.
 
 
 ## Syntax

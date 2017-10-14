@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Printer.Index Property (Publisher)
 
-Returns a  **Long** that represents the position of a particular printer in a specified printer collection.
+Returns a **Long** that represents the position of a particular printer in a specified printer collection.
 
 
 ## Syntax
 
  _expression_. **Index**
 
- _expression_A variable that represents a  **Printer** object.
+ _expression_A variable that represents a **Printer** object.
 
 
 ### Return Value

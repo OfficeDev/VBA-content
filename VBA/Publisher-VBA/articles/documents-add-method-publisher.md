@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Documents.Add Method (Publisher)
 
-Adds a new  **Document** object that represents a new publication to the **Documents** collection.
+Adds a new **Document** object that represents a new publication to the **Documents** collection.
 
 
 ## Syntax
 
- _expression_. **Add**( **_PbWizard_**,  **_desid_**)
+ _expression_. **Add**( **_PbWizard_**, **_desid_**)
 
- _expression_An expression that returns a  **Documents** object.
+ _expression_An expression that returns a **Documents** object.
 
 
 ### Parameters
@@ -39,7 +39,7 @@ Document
 
 ## Remarks
 
-The PbWizard parameter value should be a constant from the  **[PbWizard](pbwizard-enumeration-publisher.md)** enumeration, declared in the Microsoft Publisher 2007 type library.
+The PbWizard parameter value should be a constant from the **[PbWizard](pbwizard-enumeration-publisher.md)** enumeration, declared in the Microsoft Publisher 2007 type library.
 
 The desid parameter value should be the ID of the design to apply. You can determine the design ID by creating a new publication that uses the wizard and design you want in the Publisher user interface and then running the following Visual Basic for Applications (VBA) macro.
 

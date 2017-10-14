@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContentControl.XMLMapping Property (Word)
 
-Returns an  **[XMLMapping](xmlmapping-object-word.md)** object that represents the mapping of a content control to XML data in the data store of a document. Read-only.
+Returns an **[XMLMapping](xmlmapping-object-word.md)** object that represents the mapping of a content control to XML data in the data store of a document. Read-only.
 
 
 ## Syntax

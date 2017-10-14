@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Effect.Behaviors Property (PowerPoint)
 
-Returns a specified slide animation behavior as an  **[AnimationBehaviors](animationbehaviors-object-powerpoint.md)** collection.
+Returns a specified slide animation behavior as an **[AnimationBehaviors](animationbehaviors-object-powerpoint.md)** collection.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ AnimationBehaviors
 
 ## Remarks
 
-To return a single  **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object in the **AnimationBehaviors** collection, use the **[Item](animationbehaviors-item-method-powerpoint.md)** method or **Behaviors** (index), where index is the index number of the **AnimationBehavior** object in the **AnimationBehaviors** collection.
+To return a single **[AnimationBehavior](animationbehavior-object-powerpoint.md)** object in the **AnimationBehaviors** collection, use the **[Item](animationbehaviors-item-method-powerpoint.md)** method or **Behaviors** (index), where index is the index number of the **AnimationBehavior** object in the **AnimationBehaviors** collection.
 
 
 ## Example

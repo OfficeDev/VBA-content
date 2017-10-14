@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.MailSession Method (Project)
 
-Returns the MAPI mail session number as a hexadecimal string if there is an active session, or returns  **Null** if there is no session.
+Returns the MAPI mail session number as a hexadecimal string if there is an active session, or returns **Null** if there is no session.
 
 
 ## Syntax

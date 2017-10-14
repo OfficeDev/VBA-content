@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.Top Property (Word)
 
-Returns a  **Long** that represents the number of pixels from the top of the page to the top of a line.
+Returns a **Long** that represents the number of pixels from the top of the page to the top of a line.
 
 
 ## Syntax

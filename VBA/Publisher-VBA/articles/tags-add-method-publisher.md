@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Tags.Add Method (Publisher)
 
-Adds a new  **Tag** object to the specified **Tags** object and returns the new **Tag** object.
+Adds a new **Tag** object to the specified **Tags** object and returns the new **Tag** object.
 
 
 ## Syntax
 
- _expression_. **Add**( **_Name_**,  **_Value_**)
+ _expression_. **Add**( **_Name_**, **_Value_**)
 
- _expression_A variable that represents a  **Tags** object.
+ _expression_A variable that represents a **Tags** object.
 
 
 ### Parameters

@@ -25,7 +25,7 @@ Copies the formatting of the specified shape.
 
 ## Remarks
 
-Use the  **[Apply](shaperange-apply-method-word.md)** method to apply the copied formatting to another shape.
+Use the **[Apply](shaperange-apply-method-word.md)** method to apply the copied formatting to another shape.
 
 
 ## Example

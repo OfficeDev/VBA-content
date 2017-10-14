@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # FillFormat.Pattern Property (Publisher)
 
-Returns an  **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
+Returns an **MsoPatternType** constant that represents the pattern applied to the specified fill or line.
 
 
 ## Syntax
 
  _expression_. **Pattern**
 
- _expression_A variable that represents a  **FillFormat** object.
+ _expression_A variable that represents a **FillFormat** object.
 
 
 ## Remarks
 
-The  **Pattern** property value can be one of the ** [MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
+The **Pattern** property value can be one of the ** [MsoPatternType](http://msdn.microsoft.com/library/b95a7e43-329f-b93b-3664-04d8f570c747%28Office.15%29.aspx)** constants declared in the Microsoft Office type library.
 
 
 ## Example

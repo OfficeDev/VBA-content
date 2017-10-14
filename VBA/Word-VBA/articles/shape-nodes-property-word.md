@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Nodes Property (Word)
 
-Returns a  **[ShapeNodes](shapenodes-object-word.md)** collection that represents the geometric description of the specified shape.
+Returns a **[ShapeNodes](shapenodes-object-word.md)** collection that represents the geometric description of the specified shape.
 
 
 ## Syntax

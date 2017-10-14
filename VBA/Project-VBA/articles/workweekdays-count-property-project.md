@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # WorkWeekDays.Count Property (Project)
 
-Gets the number of items in the  **WorkWeekDays** collection. Read-only **Integer**.
+Gets the number of items in the **WorkWeekDays** collection. Read-only **Integer**.
 
 
 ## Syntax

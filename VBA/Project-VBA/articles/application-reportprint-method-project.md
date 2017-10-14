@@ -47,7 +47,7 @@ Deprecated in Project. Prints a report.
 
 ## Remarks
 
-In Project, the  **ReportPrint** method returns error 1100, "The method is not available in this situation." In Project, using the **ReportPrint** method no arguments displays the **Custom Reports** dialog box.
+In Project, the **ReportPrint** method returns error 1100, "The method is not available in this situation." In Project, using the **ReportPrint** method no arguments displays the **Custom Reports** dialog box.
 
 
 ## Example

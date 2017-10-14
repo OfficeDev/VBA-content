@@ -30,8 +30,8 @@ Integer
 
 ## Remarks
 
-You must set the value of the  **PrintFitOnPages** property to **True** to use the **PrintPagesDown** property. If the value of the **PrintFitOnPages** property is **False** , Microsoft Visio ignores the **PrintPagesDown** property.
+You must set the value of the **PrintFitOnPages** property to **True** to use the **PrintPagesDown** property. If the value of the **PrintFitOnPages** property is **False** , Microsoft Visio ignores the **PrintPagesDown** property.
 
-The  **PrintPagesDown** property corresponds to the **Fit by sheet(s) down** setting in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
+The **PrintPagesDown** property corresponds to the **Fit by sheet(s) down** setting in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
 
 

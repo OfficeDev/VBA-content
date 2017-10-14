@@ -30,7 +30,7 @@ String()
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **AvailablePrinters** property to get a list of available printers.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **AvailablePrinters** property to get a list of available printers.
 
 
 ```vb

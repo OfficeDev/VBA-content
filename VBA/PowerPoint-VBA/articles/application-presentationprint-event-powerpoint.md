@@ -33,12 +33,12 @@ Occurs before a presentation is printed.
 
 ## Remarks
 
-For information about using events with the  **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
+For information about using events with the **Application** object, see[How to: Use Events with the Application Object](use-events-with-the-application-object.md).
 
 
 ## Example
 
-This example sets the  **PrintHiddenSlides** property to **True** so that every time the active presentation is printed, the hidden slides are printed as well.
+This example sets the **PrintHiddenSlides** property to **True** so that every time the active presentation is printed, the hidden slides are printed as well.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.LandscapeFontNames Property (Word)
 
-Returns a  **[FontNames](fontnames-object-word.md)** object that includes the names of all the available landscape fonts.
+Returns a **[FontNames](fontnames-object-word.md)** object that includes the names of all the available landscape fonts.
 
 
 ## Syntax

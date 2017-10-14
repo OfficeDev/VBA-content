@@ -13,20 +13,20 @@ ms.date: 06/08/2017
 
 # MailMergeDataFields Object (Publisher)
 
-A collection of  **[MailMergeDataField](mailmergedatafield-object-publisher.md)** objects that represent the data fields in a mail merge or catalog merge data source.
+A collection of **[MailMergeDataField](mailmergedatafield-object-publisher.md)** objects that represent the data fields in a mail merge or catalog merge data source.
  
 
 
 ## Remarks
 
-You cannot add fields to the  **MailMergeDataFields** collection. When a data field is added to a data source, the field is automatically included in the **MailMergeDataFields** collection.
+You cannot add fields to the **MailMergeDataFields** collection. When a data field is added to a data source, the field is automatically included in the **MailMergeDataFields** collection.
  
 
  
 
 ## Example
 
-Use the  **[DataFields](mailmergedatasource-datafields-property-publisher.md)** property to return the **MailMergeDataFields** collection.
+Use the **[DataFields](mailmergedatasource-datafields-property-publisher.md)** property to return the **MailMergeDataFields** collection.
  
 
  
@@ -52,7 +52,7 @@ Sub ShowFieldNames()
 End Sub
 ```
 
-Use  **DataFields** (index), where index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
+Use **DataFields** (index), where index is the data field name or the index number, to return a single **MailMergeDataField** object. The index number represents the position of the data field in the mail merge data source. This example retrieves the name of the first field and value of the first record of the FirstName field in the data source attached to the active publication.
  
 
  

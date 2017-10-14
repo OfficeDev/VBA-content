@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.FormulaU Property (Visio)
 
-Gets or sets the universal syntax formula for a  **Cell** object. Read/write.
+Gets or sets the universal syntax formula for a **Cell** object. Read/write.
 
 
 ## Syntax
@@ -30,24 +30,24 @@ String
 
 ## Remarks
 
-If a cell's formula is protected with the GUARD function, you must use the  **FormulaForceU** property to change the cell's formula.
+If a cell's formula is protected with the GUARD function, you must use the **FormulaForceU** property to change the cell's formula.
 
 
 
 
  **Note**  Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to Visio shapes, masters, documents, pages, rows, add-ons, cells, hyperlinks, styles, fonts, master shortcuts, UI objects, and layers. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
 
-As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **Formula** property to get a cell's formula string in local syntax or to use a mix of local and universal syntax to set it. Use the **FormulaU** property to get or parse a formula in universal syntax. When you use **FormulaU** , the decimal point is always ".", the delimiter is always ",", and you must use universal unit strings (for details on universal strings, see[About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx)).
+As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the **Formula** property to get a cell's formula string in local syntax or to use a mix of local and universal syntax to set it. Use the **FormulaU** property to get or parse a formula in universal syntax. When you use **FormulaU** , the decimal point is always ".", the delimiter is always ",", and you must use universal unit strings (for details on universal strings, see[About Units of Measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx)).
 
-If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
+If your Visual Studio solution includes the **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
--  **Microsoft.Office.Interop.Visio.IVCell.FormulaU**
+- **Microsoft.Office.Interop.Visio.IVCell.FormulaU**
     
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **FormulaU** property to set the formula for a ShapeSheet cell. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. Then it draws an inner rectangle within the bowed lines of the first rectangle.
+This Microsoft Visual Basic for Applications (VBA) macro shows how to use the **FormulaU** property to set the formula for a ShapeSheet cell. It draws a rectangle on a page and bows, or curves the lines of the rectangle by changing the shape's lines to arcs. Then it draws an inner rectangle within the bowed lines of the first rectangle.
 
 
 ```vb

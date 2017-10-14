@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Project.ProjectNotes Property (Project)
 
-Gets or sets the notes for the project. Read/write  **String**.
+Gets or sets the notes for the project. Read/write **String**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Gets or sets the notes for the project. Read/write  **String**.
 
 ## Remarks
 
-To see the project  **Properties** dialog box in Project, choose the **FILE** tab on the ribbon to show the **Backstage** view, choose the **Info** tab, and then choose **Advanced Properties** in the **Project Information** drop-down menu.
+To see the project **Properties** dialog box in Project, choose the **FILE** tab on the ribbon to show the **Backstage** view, choose the **Info** tab, and then choose **Advanced Properties** in the **Project Information** drop-down menu.
 
 
 ## Example
 
-The following example adds the date and time to the  **Comments** field in the project **Properties** dialog box, and then saves the project.
+The following example adds the date and time to the **Comments** field in the project **Properties** dialog box, and then saves the project.
 
 
 ```vb

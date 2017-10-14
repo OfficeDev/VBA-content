@@ -27,7 +27,7 @@ Single-spaces the specified paragraphs.
 
 The exact spacing is determined by the font size of the largest characters in each paragraph.
 
-You can also use the  **[LineSpacingRule](paragraph-linespacingrule-property-word.md)** property to set the line spacing for a paragraph. The following two statements are equivalent:
+You can also use the **[LineSpacingRule](paragraph-linespacingrule-property-word.md)** property to set the line spacing for a paragraph. The following two statements are equivalent:
 
 
 

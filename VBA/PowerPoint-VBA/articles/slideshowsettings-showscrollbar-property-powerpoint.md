@@ -30,9 +30,9 @@ MsoTriState
 
 ## Remarks
 
-Use the  **[ShowType](slideshowsettings-showtype-property-powerpoint.md)** property prior to setting the **ShowScrollbar** property.
+Use the **[ShowType](slideshowsettings-showtype-property-powerpoint.md)** property prior to setting the **ShowScrollbar** property.
 
-The value of the  **ShowScrollbar** property can be one of these **MsoTriState** constants.
+The value of the **ShowScrollbar** property can be one of these **MsoTriState** constants.
 
 
 ||

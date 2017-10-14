@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Conflicts.Item Method (Word)
 
-Returns an individual  **Conflicts** object in a collection.
+Returns an individual **Conflicts** object in a collection.
 
 
 ## Syntax

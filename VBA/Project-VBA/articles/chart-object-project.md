@@ -7,28 +7,28 @@ ms.date: 06/08/2017
 
 
 # Chart Object (Project)
-The  **Chart** object represents a chart on a report in Project.
+The **Chart** object represents a chart on a report in Project.
 
 
 
 
 ## Remarks
 
-The  **Chart** object in Project includes the standard members that other Office applications implement for Office Art. For example, see the **Chart** object in the VBA object model for Word, Excel, and PowerPoint.
+The **Chart** object in Project includes the standard members that other Office applications implement for Office Art. For example, see the **Chart** object in the VBA object model for Word, Excel, and PowerPoint.
 
-In Project, a chart is represented by a  **Chart** object, which is contained by a **[Shape](http://msdn.microsoft.com/library/d2b32bcd-5595-a4a7-9772-feb25fd0103a%28Office.15%29.aspx)** object or a **[ShapeRange](http://msdn.microsoft.com/library/315031aa-4b8c-424b-26e7-ce15897beb05%28Office.15%29.aspx)** collection in a **[Report](http://msdn.microsoft.com/library/38ef993e-e5cd-b451-06aa-41eb0e93450e%28Office.15%29.aspx)** object. For a diagram that shows the **Chart** object in the Project object model hierarchy, see[Application and Projects object map](http://msdn.microsoft.com/library/608f1291-ce25-8a5f-f0ba-7c1e823a12f4%28Office.15%29.aspx).
+In Project, a chart is represented by a **Chart** object, which is contained by a **[Shape](http://msdn.microsoft.com/library/d2b32bcd-5595-a4a7-9772-feb25fd0103a%28Office.15%29.aspx)** object or a **[ShapeRange](http://msdn.microsoft.com/library/315031aa-4b8c-424b-26e7-ce15897beb05%28Office.15%29.aspx)** collection in a **[Report](http://msdn.microsoft.com/library/38ef993e-e5cd-b451-06aa-41eb0e93450e%28Office.15%29.aspx)** object. For a diagram that shows the **Chart** object in the Project object model hierarchy, see[Application and Projects object map](http://msdn.microsoft.com/library/608f1291-ce25-8a5f-f0ba-7c1e823a12f4%28Office.15%29.aspx).
 
 
- **Note**  Macro recording for the  **Chart** object is not implemented. That is, when you record a macro in Project and manually add a chart, add chart elements, or manually format a chart in a report, the steps for adding and manipulating the chart are not recorded.
+ **Note**  Macro recording for the **Chart** object is not implemented. That is, when you record a macro in Project and manually add a chart, add chart elements, or manually format a chart in a report, the steps for adding and manipulating the chart are not recorded.
 
-You can use the  **[Shapes.AddChart](http://msdn.microsoft.com/library/d404a9de-c1aa-c2a0-bf85-dc1f1735cf3c%28Office.15%29.aspx)** method to add a chart to a report. To determine whether a **Shape** or a **ShapeRange** contains a chart, use the **HasChart** method.
+You can use the **[Shapes.AddChart](http://msdn.microsoft.com/library/d404a9de-c1aa-c2a0-bf85-dc1f1735cf3c%28Office.15%29.aspx)** method to add a chart to a report. To determine whether a **Shape** or a **ShapeRange** contains a chart, use the **HasChart** method.
 
-The  **Chart** object in Project does not implement events. So, a chart in Project cannot be animated to interact with mouse events or respond to events such as **Select** or **Calculate**, as it can in Excel.
+The **Chart** object in Project does not implement events. So, a chart in Project cannot be animated to interact with mouse events or respond to events such as **Select** or **Calculate**, as it can in Excel.
 
 
 ## Example
 
-The following example creates a simple scalar chart for tasks in the active project. The chart shows the  **Actual Work**,  **Remaining Work**, and  **Work** default fields.
+The following example creates a simple scalar chart for tasks in the active project. The chart shows the **Actual Work**, **Remaining Work**, and **Work** default fields.
 
 To create some sample data, add four tasks to a new project, assign local resources to those tasks, and set various values of duration and actual work. For example, try the values in Table 1.
 
@@ -65,12 +65,12 @@ Sub AddSimpleScalarChart()
 End Sub
 ```
 
-When you run the  **AddSimpleScalarChart** macro, Project creates the report and adds a chart. The chart has default features, except the title is specified by the **SetElement** property to be overlaid on the chart, instead of the default position above the chart.
+When you run the **AddSimpleScalarChart** macro, Project creates the report and adds a chart. The chart has default features, except the title is specified by the **SetElement** property to be overlaid on the chart, instead of the default position above the chart.
 
 
 **Figure 1. The chart shows the data in Table 1**
 
-![Simple scalar chart in a report](images/pj15_VBA_ChartObject.gif)To delete the chart, you can delete the shape that contains the chart. The following macro deletes the chart on the report that is created by the  **AddSimpleScalarChart** macro, and leaves the empty report as the active view.
+![Simple scalar chart in a report](images/pj15_VBA_ChartObject.gif)To delete the chart, you can delete the shape that contains the chart. The following macro deletes the chart on the report that is created by the **AddSimpleScalarChart** macro, and leaves the empty report as the active view.
 
 
 
@@ -92,7 +92,7 @@ Sub DeleteTheShape()
 End Sub
 ```
 
-To delete the report, go to a different view, and then open the  **Organizer** dialog box. You cannot delete a report while the report is active. The **Organizer** is available on the **DEVELOPER** tab of the ribbon, and also on the **DESIGN** tab, in the **Report** group, on the **Manage** menu. On the **Reports** tab of the **Organizer** dialog box, select **Simple scalar chart** in the project pane, and then choose **Delete**. Alternately, run the following macro to delete the report.
+To delete the report, go to a different view, and then open the **Organizer** dialog box. You cannot delete a report while the report is active. The **Organizer** is available on the **DEVELOPER** tab of the ribbon, and also on the **DESIGN** tab, in the **Report** group, on the **Manage** menu. On the **Reports** tab of the **Organizer** dialog box, select **Simple scalar chart** in the project pane, and then choose **Delete**. Alternately, run the following macro to delete the report.
 
 
 

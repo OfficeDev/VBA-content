@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UndoClear Method (Project)
 
-Clears the  **Undo** list.
+Clears the **Undo** list.
 
 
 ## Syntax

@@ -29,5 +29,5 @@ Activates a Microsoft application if the application is running or starts a new 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|Specifies the Microsoft application to activate. Can be one of the  **[PjMSApplication](pjmsapplication-enumeration-project.md)** constants.|
+| _Index_|Required|**Long**|Specifies the Microsoft application to activate. Can be one of the **[PjMSApplication](pjmsapplication-enumeration-project.md)** constants.|
 

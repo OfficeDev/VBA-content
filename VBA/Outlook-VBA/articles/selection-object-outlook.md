@@ -18,12 +18,12 @@ Contains the set of Outlook items currently selected in an explorer.
 
 ## Remarks
 
-Use the  **[Selection](http://msdn.microsoft.com/library/11002043-9dab-a5ad-b36e-52ddb04c1859%28Office.15%29.aspx)** property to return the **Selection** collection from the **[Explorer](explorer-object-outlook.md)** object.
+Use the **[Selection](http://msdn.microsoft.com/library/11002043-9dab-a5ad-b36e-52ddb04c1859%28Office.15%29.aspx)** property to return the **Selection** collection from the **[Explorer](explorer-object-outlook.md)** object.
 
 
 ## Example
 
-The following example returns a  **Selection** object from an **Explorer** object.
+The following example returns a **Selection** object from an **Explorer** object.
 
 
 ```

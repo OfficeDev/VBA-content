@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.Index Property (PowerPoint)
 
-Returns the index number of the object within the collection of similar objects. Read-only  **Long**.
+Returns the index number of the object within the collection of similar objects. Read-only **Long**.
 
 
 ## Syntax

@@ -29,8 +29,8 @@ Creates a new validation issue that is based on the validation rule, and adds it
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TargetPage_|Optional| **[Page](page-object-visio.md)**|The page that has the issue. May be  **Nothing** .|
-| _TargetShape_|Optional| **[Shape](shape-object-visio.md)**|The shape that has the issue. May be  **Nothing** .|
+| _TargetPage_|Optional| **[Page](page-object-visio.md)**|The page that has the issue. May be **Nothing** .|
+| _TargetShape_|Optional| **[Shape](shape-object-visio.md)**|The shape that has the issue. May be **Nothing** .|
 
 ### Return Value
 
@@ -48,7 +48,7 @@ If you do not pass values for either of the optional parameters, the validation 
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example shows how to use the  **AddIssue** method to add a custom validation issue to a validation rule and associate it with a particular shape on a particular page.
+The following Visual Basic for Applications (VBA) example shows how to use the **AddIssue** method to add a custom validation issue to a validation rule and associate it with a particular shape on a particular page.
 
 
 ```vb

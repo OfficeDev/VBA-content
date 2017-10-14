@@ -20,7 +20,7 @@ Read/write
 
  _expression_. **PrintMode**
 
- _expression_An expression that returns a  **[Printer](printer-object-publisher.md)** object.
+ _expression_An expression that returns a **[Printer](printer-object-publisher.md)** object.
 
 
 ### Return Value

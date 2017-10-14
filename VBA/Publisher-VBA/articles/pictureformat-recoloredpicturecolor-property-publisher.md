@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PictureFormat.RecoloredPictureColor Property (Publisher)
 
-Returns the color that has been applied to the image represented by the parent  **PictureFormat** object. Read-only.
+Returns the color that has been applied to the image represented by the parent **PictureFormat** object. Read-only.
 
 
 ## Syntax
 
  _expression_. **RecoloredPictureColor**
 
- _expression_A variable that represents a  **PictureFormat** object.
+ _expression_A variable that represents a **PictureFormat** object.
 
 
 ### Return Value

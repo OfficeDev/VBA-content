@@ -7,7 +7,7 @@ ms.date: 06/08/2017
 
 
 # Series.XValues Property (Project)
-Gets the horizontal (X) axis values for the data series on a chart. Read-only  **Variant**.
+Gets the horizontal (X) axis values for the data series on a chart. Read-only **Variant**.
 
 ## Syntax
 
@@ -18,7 +18,7 @@ Gets the horizontal (X) axis values for the data series on a chart. Read-only  *
 
 ## Remarks
 
-For a code example that uses the  **XValues** property, see the **[Series](series-object-project.md)** object.
+For a code example that uses the **XValues** property, see the **[Series](series-object-project.md)** object.
 
 
 ## See also

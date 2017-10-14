@@ -30,7 +30,7 @@ MsoAnimTextUnitEffect
 
 ## Remarks
 
-The value of the  **TextUnitEffect** property can be one of these **MsoAnimTextUnitEffect** constants.
+The value of the **TextUnitEffect** property can be one of these **MsoAnimTextUnitEffect** constants.
 
 
 ||

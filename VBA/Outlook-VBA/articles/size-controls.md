@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 1. Select the controls that you want to size to the dominant control. For more information, see  [How to: Select Multiple Controls and the Dominant Control](select-multiple-controls-and-the-dominant-control.md). 
     
-2. On the  **Developer** tab, in the **Arrange** group, click **Size**, click  **Make Same Size**, and then click one of the following. 
+2. On the **Developer** tab, in the **Arrange** group, click **Size**, click **Make Same Size**, and then click one of the following. 
     
 
 |**Click**|**To**|
@@ -19,6 +19,6 @@ ms.date: 06/08/2017
 | **Height**|Make all selected controls the same height as the dominant control.|
 | **Both**|Make all selected controls the same height and width as the dominant control.|
 
- **Note**  To size a control to fit its contents (both its picture and any text assigned to the  **Caption** or **Text** property), select the control, click **Size** in the **Arrange** group, then click **Size to Fit**.
+ **Note**  To size a control to fit its contents (both its picture and any text assigned to the **Caption** or **Text** property), select the control, click **Size** in the **Arrange** group, then click **Size to Fit**.
 
 

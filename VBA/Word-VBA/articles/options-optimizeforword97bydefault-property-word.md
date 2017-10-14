@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To optimize a single document for Word 97, use the  **[OptimizeForWord97](document-optimizeforword97-property-word.md)** property.
+To optimize a single document for Word 97, use the **[OptimizeForWord97](document-optimizeforword97-property-word.md)** property.
 
 
 ## Example
 
-This example sets Word to disable all formatting in new documents that's incompatible with Word 97, and then it creates a new document whose  **OptimizeForWord97** property is automatically set to True.
+This example sets Word to disable all formatting in new documents that's incompatible with Word 97, and then it creates a new document whose **OptimizeForWord97** property is automatically set to True.
 
 
 ```vb

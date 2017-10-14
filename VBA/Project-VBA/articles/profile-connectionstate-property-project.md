@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Profile.ConnectionState Property (Project)
 
-Gets the connection state of Project Professional, which allows you to determine whether the online mode is for a local profile or for Project Server. Read-only  **PjProfileConnectionState**.
+Gets the connection state of Project Professional, which allows you to determine whether the online mode is for a local profile or for Project Server. Read-only **PjProfileConnectionState**.
 
 
 ## Syntax
@@ -25,8 +25,8 @@ Gets the connection state of Project Professional, which allows you to determine
 
 ## Remarks
 
-The  **ConnectionState** property can be one of the following **[PjProfileConnectionState](pjprofileconnectionstate-enumeration-project.md)** constants: **pjProfileOffline** or **pjProfileOnline**.
+The **ConnectionState** property can be one of the following **[PjProfileConnectionState](pjprofileconnectionstate-enumeration-project.md)** constants: **pjProfileOffline** or **pjProfileOnline**.
 
-You can use this property in conjunction with the  **Profile**. **[Type](profile-type-property-project.md)** property to determine whether the online mode is for a local profile or for Project Server. This property is available only in Project Professional.
+You can use this property in conjunction with the **Profile**. **[Type](profile-type-property-project.md)** property to determine whether the online mode is for a local profile or for Project Server. This property is available only in Project Professional.
 
 

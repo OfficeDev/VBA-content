@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Font Property (Word)
 
-Returns or sets a  **[Font](font-object-word.md)** object that represents the character formatting of the specified object. Read/write **Font** .
+Returns or sets a **[Font](font-object-word.md)** object that represents the character formatting of the specified object. Read/write **Font** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **[Font](font-object-word.md)** object that represents the ch
 
 ## Remarks
 
-To set this property, specify an expression that returns a  **[Font](font-object-word.md)** object.
+To set this property, specify an expression that returns a **[Font](font-object-word.md)** object.
 
 
 ## Example

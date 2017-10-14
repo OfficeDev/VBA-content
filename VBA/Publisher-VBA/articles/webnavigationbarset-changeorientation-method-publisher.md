@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # WebNavigationBarSet.ChangeOrientation Method (Publisher)
 
-Sets a  **PbNavBarOrientation** constant that represents the alignment of the navigation bar; vertical or horizontal.
+Sets a **PbNavBarOrientation** constant that represents the alignment of the navigation bar; vertical or horizontal.
 
 
 ## Syntax
 
  _expression_. **ChangeOrientation**( **_Orientation_**)
 
- _expression_A variable that represents a  **WebNavigationBarSet** object.
+ _expression_A variable that represents a **WebNavigationBarSet** object.
 
 
 ### Parameters
@@ -33,7 +33,7 @@ Sets a  **PbNavBarOrientation** constant that represents the alignment of the na
 
 ## Remarks
 
-The Orientation parameter can be one of the following  **PbNavBarOrientation** constants declared in the Microsoft Publisher type library.
+The Orientation parameter can be one of the following **PbNavBarOrientation** constants declared in the Microsoft Publisher type library.
 
 
 

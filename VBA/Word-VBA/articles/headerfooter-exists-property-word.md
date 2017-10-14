@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The primary header and footer exist in all new documents by default. Use this method to determine whether a first-page or odd-page header or footer exists. You can also use the  **[DifferentFirstPageHeaderFooter](pagesetup-differentfirstpageheaderfooter-property-word.md)** or **[OddAndEvenPagesHeaderFooter](pagesetup-oddandevenpagesheaderfooter-property-word.md)** property to return or set the number of headers and footers in the specified document or section.
+The primary header and footer exist in all new documents by default. Use this method to determine whether a first-page or odd-page header or footer exists. You can also use the **[DifferentFirstPageHeaderFooter](pagesetup-differentfirstpageheaderfooter-property-word.md)** or **[OddAndEvenPagesHeaderFooter](pagesetup-oddandevenpagesheaderfooter-property-word.md)** property to return or set the number of headers and footers in the specified document or section.
 
 
 ## Example

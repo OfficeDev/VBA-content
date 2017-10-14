@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.ListTemplates Property (Word)
 
-Returns a  **[ListTemplates](listtemplates-object-word.md)** collection that represents all the list formats for the specified template. Read-only.
+Returns a **[ListTemplates](listtemplates-object-word.md)** collection that represents all the list formats for the specified template. Read-only.
 
 
 ## Syntax

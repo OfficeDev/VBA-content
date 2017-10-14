@@ -20,7 +20,7 @@ Specifies that the first segment of the callout line (the segment attached to th
 
  _expression_. **CustomLength**( **_Length_**)
 
- _expression_A variable that represents a  **CalloutFormat** object.
+ _expression_A variable that represents a **CalloutFormat** object.
 
 
 ### Parameters
@@ -33,9 +33,9 @@ Specifies that the first segment of the callout line (the segment attached to th
 
 ## Remarks
 
-Applying this method sets the  **[AutoLength](calloutformat-autolength-property-publisher.md)** property to  **False** and sets the **[Length](calloutformat-length-property-publisher.md)** property to the value specified for the  **_Length_** argument.
+Applying this method sets the **[AutoLength](calloutformat-autolength-property-publisher.md)** property to **False** and sets the **[Length](calloutformat-length-property-publisher.md)** property to the value specified for the **_Length_** argument.
 
-Use the  **[AutomaticLength](calloutformat-automaticlength-method-publisher.md)** method to specify that the first segment of the callout line be scaled automatically whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**).
+Use the **[AutomaticLength](calloutformat-automaticlength-method-publisher.md)** method to specify that the first segment of the callout line be scaled automatically whenever the callout is moved. Applies only to callouts whose lines consist of more than one segment (types **msoCalloutThree** and **msoCalloutFour**).
 
 
 ## Example

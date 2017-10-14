@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.MediaFormat Property (PowerPoint)
 
-Returns the current  **MediaFormat** object. Read-only.
+Returns the current **MediaFormat** object. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMathRecognizedFunction.Name Property (Word)
 
-Returns a  **String** that represents the name of an equation recognized function. Read-only.
+Returns a **String** that represents the name of an equation recognized function. Read-only.
 
 
 ## Syntax

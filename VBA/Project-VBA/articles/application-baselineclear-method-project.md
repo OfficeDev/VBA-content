@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.BaselineClear Method (Project)
 
-Clears the baseline data from the baseline fields or clears the data from a  **Start _n_** / **Finish _n_** pair of dates.
+Clears the baseline data from the baseline fields or clears the data from a **Start _n_** / **Finish _n_** pair of dates.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Clears the baseline data from the baseline fields or clears the data from a  **S
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if all tasks in the active project should be cleared. **False** if only the selected tasks should be cleared. The default value is **True**.|
-| _From_|Optional|**Long**|The fields to be cleared. The default value is  **pjIntoBaseline**. Can be one of the[PjSaveBaselineTo](pjsavebaselineto-enumeration-project.md) constants.|
+| _From_|Optional|**Long**|The fields to be cleared. The default value is **pjIntoBaseline**. Can be one of the[PjSaveBaselineTo](pjsavebaselineto-enumeration-project.md) constants.|
 
 ### Return Value
 

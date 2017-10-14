@@ -38,7 +38,7 @@ Changes the format of text to display as a callout or within the Timeline bar, f
 
 ## Remarks
 
-The  **TimelineTextOnBar** method is equivalent to the **Display as Bar** and **Display as Callout** commands in the **Current Selection** group on the **Format** tab on the ribbon.
+The **TimelineTextOnBar** method is equivalent to the **Display as Bar** and **Display as Callout** commands in the **Current Selection** group on the **Format** tab on the ribbon.
 
 
 ## Example

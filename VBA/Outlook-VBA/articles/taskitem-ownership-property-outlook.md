@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TaskItem.Ownership Property (Outlook)
 
-Returns an  **[OlTaskOwnership](oltaskownership-enumeration-outlook.md)** specifying the ownership state of the task. Read-only.
+Returns an **[OlTaskOwnership](oltaskownership-enumeration-outlook.md)** specifying the ownership state of the task. Read-only.
 
 
 ## Syntax

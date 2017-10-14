@@ -23,7 +23,7 @@ Enables a unified group to be created.
 
 ### Parameters
 
-The  **CreateUnifiedGroup** method takes the following parameters:
+The **CreateUnifiedGroup** method takes the following parameters:
 
 
 
@@ -34,7 +34,7 @@ The  **CreateUnifiedGroup** method takes the following parameters:
 | **FAutoSubscribeMembers**|Boolean|Subscribed members of the group.|
 | **GroupType**|OLUNIFIEDGROUPTYPE|Type of group: private or public.|
 | **GroupSmtpAddress**|String|Smtp address for the group.|
-A call to the  **CreateUnifiedGroup** method fails when: 1) the system is not online, 2) the alias already provided by the user, or 3) a server error occurs.
+A call to the **CreateUnifiedGroup** method fails when: 1) the system is not online, 2) the alias already provided by the user, or 3) a server error occurs.
 
 
 ### Return Value
