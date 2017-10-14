@@ -42,7 +42,7 @@ You can use an AfterInsert event procedure or macro to requery a recordset whene
 
 The BeforeInsert and AfterInsert events are similar to the  **BeforeUpdate** and **AfterUpdate** events. These events occur in the following order:
 
- **BeforeInsert** ? **BeforeUpdate** ? **AfterUpdate** ? **AfterInsert**.
+ **BeforeInsert** → **BeforeUpdate** → **AfterUpdate** → **AfterInsert**.
 
 The following table summarizes the interaction between these events.
 

@@ -47,13 +47,13 @@ The Open event occurs before the  **Load** event, which is triggered when a form
 
 When you first open a form, the following events occur in this order:
 
- **Open** ? **Load** ? Resize ? **Activate** ? **Current**
+ **Open** → **Load** ? Resize ? **Activate** → **Current**
 
 The Close event occurs after the  **Unload** event, which is triggered after the form is closed but before it is removed from the screen.
 
 When you close a form, the following events occur in this order:
 
- **Unload** ? **Deactivate** ? **Close**
+ **Unload** → **Deactivate** → **Close**
 
 When the Close event occurs, you can open another window or request the user's name to make a log entry indicating who used the form or report.
 
