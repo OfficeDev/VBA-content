@@ -90,7 +90,7 @@ Set myCell = Application.InputBox( _
 
 **Sample code provided by:** *Holy Macro! Books*, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
 
-This example uses an InputBox for the user to select a range to pass to the user-defined function `MyFunction`, which multiplies three values in a range together and returns the result.
+This example uses an input box for the user to select a range to pass to the user-defined function `MyFunction`, which multiplies three values in a range together and returns the result.
 
 ```vb
 Sub Cbm_Value_Select()
