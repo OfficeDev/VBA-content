@@ -34,8 +34,8 @@ Dim mmfLoop As MailMergeDataField
 With ActiveDocument.MailMerge.DataSource 
  If .DataFields.Count > 0 Then 
  For Each mmfLoop In .DataFields 
- Debug.Print "Field " &; mmfLoop.Name _ 
- &; " / Index " &; mmfLoop.Index 
+ Debug.Print "Field " & mmfLoop.Name _ 
+ & " / Index " & mmfLoop.Index 
  Next mmfLoop 
  Else 
  Debug.Print "No fields to report." 
@@ -53,8 +53,8 @@ Dim plaLoop As Plate
  
 If ActiveDocument.Plates.Count > 0 Then 
  For Each plaLoop In ActiveDocument.Plates 
- Debug.Print "Plate " &; plaLoop.Name _ 
- &; " / Index " &; plaLoop.Index 
+ Debug.Print "Plate " & plaLoop.Name _ 
+ & " / Index " & plaLoop.Index 
  Next plaLoop 
 Else 
  Debug.Print "No plates to report." 

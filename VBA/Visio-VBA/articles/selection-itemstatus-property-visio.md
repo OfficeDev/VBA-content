@@ -44,7 +44,7 @@ The  **ItemStatus** property reports a combination of the following values.
 
 |**Constant **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visSelIsPrimaryItem**|&;H1 |The item is the primary item. |
-| **visSelIsSubItem**|&;H2 |The item is a subselected item. |
-| **visSelIsSuperItem**|&;H4 |The item is a superselected item. |
+| **visSelIsPrimaryItem**|&H1 |The item is the primary item. |
+| **visSelIsSubItem**|&H2 |The item is a subselected item. |
+| **visSelIsSuperItem**|&H4 |The item is a superselected item. |
 

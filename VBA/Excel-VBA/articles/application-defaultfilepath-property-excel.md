@@ -29,7 +29,7 @@ This example displays the current default file path.
 
 
 ```vb
-MsgBox "The current default file path is " &; _ 
+MsgBox "The current default file path is " & _ 
  Application.DefaultFilePath
 ```
 

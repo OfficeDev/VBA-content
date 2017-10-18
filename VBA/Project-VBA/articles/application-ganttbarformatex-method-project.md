@@ -33,13 +33,13 @@ Changes the formatting of Gantt bars from their default styles, where colors can
 | _GanttStyle_|Optional|**Integer**|The style applied to the Gantt bar to be formatted. The value for GanttStyle is based on the position of the bar style in the  **Bar Styles** dialog box. For example, the value 3 returns the third bar style in the list.|
 | _StartShape_|Optional|**Integer**|The start shape of the Gantt bar. Can be one of the  **[PjBarEndShape](pjbarendshape-enumeration-project.md)** constants.|
 | _StartType_|Optional|**Integer**|The start type of the Gantt bar. Can be one of the  **[PjBarType](pjbartype-enumeration-project.md)** constants.|
-| _StartColor_|Optional|**Long**|The color of the start shape of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &;H00FFFF is yellow. |
+| _StartColor_|Optional|**Long**|The color of the start shape of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &H00FFFF is yellow. |
 | _MiddleShape_|Optional|**Integer**|The middle shape of the Gantt bar. Can be one of the  **[PjBarShape](pjbarshape-enumeration-project.md)** constants.|
 | _MiddlePattern_|Optional|**Integer**|The middle pattern of the Gantt bar. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
-| _MiddleColor_|Optional|**Long**|The color of the middle section Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFF00FF is purple. |
+| _MiddleColor_|Optional|**Long**|The color of the middle section Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFF00FF is purple. |
 | _EndShape_|Optional|**Integer**|The end shape of the Gantt bar. Can be one of the  **PjBarEndShape** constants.|
 | _EndType_|Optional|**Integer**|The end type of the Gantt bar. Can be one of the following  **PjBarType** constants: **pjDashed**, **pjFramed**, or **pjSolid**.|
-| _EndColor_|Optional|**Long**|The color of the end shape of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFFFF00 is blue-green. |
+| _EndColor_|Optional|**Long**|The color of the end shape of the Gantt bar. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFFFF00 is blue-green. |
 | _LeftText_|Optional|**String**|The task field to display to the left of the Gantt bar.|
 | _RightText_|Optional|**String**|The task field to display to the right of the Gantt bar.|
 | _TopText_|Optional|**String**|The task field to display above the Gantt bar.|
@@ -69,8 +69,8 @@ The following example displays a medium red diamond shape for the start of the t
 Sub GanttBar_Format() 
  
     'Activate Gantt Chart view 
-    ViewApply Name:="&;Gantt Chart" 
-    GanttBarFormatEx TaskID:=3, StartShape:=pjDiamond, StartType:=pjSolid, StartColor:=&;H8888FF
+    ViewApply Name:="&Gantt Chart" 
+    GanttBarFormatEx TaskID:=3, StartShape:=pjDiamond, StartType:=pjSolid, StartColor:=&H8888FF
 End Sub
 ```
 

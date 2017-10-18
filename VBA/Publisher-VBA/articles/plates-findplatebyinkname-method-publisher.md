@@ -55,12 +55,12 @@ Dim pplPlate As Plate
  Set pplPlate = ActiveDocument.Plates.FindPlateByInkName(pbInkNameSpot3) 
  
  With pplPlate 
- Debug.Print "Plate Name: " &; .Name 
- Debug.Print "Index: " &; .Index 
- Debug.Print "Ink Name: " &; .InkName 
- Debug.Print "Color: " &; .Color 
- Debug.Print "Luminance: " &; .Luminance 
- Debug.Print "In Use?: " &; .InUse 
+ Debug.Print "Plate Name: " & .Name 
+ Debug.Print "Index: " & .Index 
+ Debug.Print "Ink Name: " & .InkName 
+ Debug.Print "Color: " & .Color 
+ Debug.Print "Luminance: " & .Luminance 
+ Debug.Print "In Use?: " & .InUse 
  End With 
 End Sub
 ```

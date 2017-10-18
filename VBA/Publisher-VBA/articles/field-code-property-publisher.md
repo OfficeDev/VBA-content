@@ -47,7 +47,7 @@ Sub FindWWWHyperlinks()
  End With 
  
  If intField > 0 Then 
- MsgBox "You have " &; intField &; " World Wide Web " &; _ 
+ MsgBox "You have " & intField & " World Wide Web " & _ 
  "hyperlinks in your publication." 
  Else 
  MsgBox "You have no hyperlink fields in your publication." 

@@ -74,11 +74,11 @@ Dim strObjectName As String
 Dim strMsg As String 
  
 strMsg = "Enter object type (e.g., Forms, Scripts, " _ 
- &; "Modules, Reports, Tables)." 
+ & "Modules, Reports, Tables)." 
 ' Get object type. 
 strObjectType = InputBox(strMsg) 
 strMsg = "Enter the name of a form, macro, module, " _ 
- &; "query, report, or table." 
+ & "query, report, or table." 
 ' Get object name from user. 
 strObjectName = InputBox(strMsg) 
 ' Pass object type and object name to 
@@ -103,7 +103,7 @@ doc.Properties.Refresh
 Debug.Print doc.Name 
 ' Print each Object property to Debug window. 
 For Each prp in doc.Properties 
- Debug.Print strTabChar &; prp.Name &; " = " &; prp.Value 
+ Debug.Print strTabChar & prp.Name & " = " & prp.Value 
 Next 
 End Sub
 ```
@@ -111,7 +111,7 @@ End Sub
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

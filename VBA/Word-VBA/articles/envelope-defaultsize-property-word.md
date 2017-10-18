@@ -49,7 +49,7 @@ Sub exDefaultSize()
  
  On Error GoTo errhandler 
  intResponse = MsgBox("Do you want to set the " _ 
- &; "default envelope to Size 10?", 4) 
+ & "default envelope to Size 10?", 4) 
  If intResponse = vbYes Then 
  With ActiveDocument.Envelope 
  .DefaultSize = "Size 10" 

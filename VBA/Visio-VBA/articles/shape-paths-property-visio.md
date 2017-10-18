@@ -49,7 +49,7 @@ Public Sub Paths_Example()
  
  vsoShape.Paths(intOuterLoopCounter).Points 1#, adblXYPoints 
  For intInnerLoopCounter = LBound(adblXYPoints) To UBound(adblXYPoints) 
- strPointsList = strPointsList &; adblXYPoints(intInnerLoopCounter) &; Chr(10) 
+ strPointsList = strPointsList & adblXYPoints(intInnerLoopCounter) & Chr(10) 
  Next intInnerLoopCounter 
  
  Next intOuterLoopCounter 

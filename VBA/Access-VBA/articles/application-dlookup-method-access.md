@@ -67,7 +67,7 @@ You can also use the  **DLookup** function in an expression in a calculated cont
 
 ```
 =DLookup("[ProductName]", "Products", "[ProductID] =" _ 
-     &; Forms![Order Details]!ProductID)
+     & Forms![Order Details]!ProductID)
 ```
 
  **Tips**
@@ -104,7 +104,7 @@ The next example from the Shippers table uses the form control ShipperID to prov
 ```vb
 Dim varX As Variant 
 varX = DLookup("[CompanyName]", "Shippers", "[ShipperID] = " _ 
-    &; Forms!Shippers!ShipperID)
+    & Forms!Shippers!ShipperID)
 ```
 
 The next example uses a variable,  `intSearch`, to get the value.
@@ -118,7 +118,7 @@ Dim varX As Variant
  
 intSearch = 1 
 varX = DLookup("[CompanyName]", "Shippers", _ 
-    "[ShipperID] = " &; intSearch)
+    "[ShipperID] = " & intSearch)
 ```
 
 
@@ -148,24 +148,24 @@ The following examples show how to use various types of criteria with the  **DLo
     ' ***************************
     ' Referring to a control on a form
     ' Numerical values
-    variable = DLookup("[FieldName]", "TableName", "[Criteria] = " &; Forms!FormName!ControlName)
+    variable = DLookup("[FieldName]", "TableName", "[Criteria] = " & Forms!FormName!ControlName)
 
     ' Strings
-    variable = DLookup("[FieldName]", "TableName", "[Criteria] = '" &; Forms!FormName!ControlName &; "'")
+    variable = DLookup("[FieldName]", "TableName", "[Criteria] = '" & Forms!FormName!ControlName & "'")
 
     ' Dates
-    variable = DLookup("[FieldName]", "TableName", "[Criteria] = #" &; Forms!FormName!ControlName &; "#")
+    variable = DLookup("[FieldName]", "TableName", "[Criteria] = #" & Forms!FormName!ControlName & "#")
     ' ***************************
 
     ' ***************************
     ' Combinations
     ' Multiple types of criteria
-    variable = DLookup("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
-             &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
-            &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
+    variable = DLookup("[FieldName]", "TableName", "[Criteria1] = " & Forms![FormName]![Control1] _
+             & " AND [Criteria2] = '" & Forms![FormName]![Control2] & "'" _
+            & " AND [Criteria3] =#" & Forms![FormName]![Control3] & "#")
     
     ' Use two fields from a single record.
-    variable = DLookup("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
+    variable = DLookup("[LastName] & ', ' & [FirstName]", "tblPeople", "[PrimaryKey] = 7")
             
     ' Expressions
     variable = DLookup("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")

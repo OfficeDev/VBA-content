@@ -54,8 +54,8 @@ Sub AnimateTextBox()
             (Type:=msoShapeRectangle, Left:=50, Top:=200, _
             Width:=200, Height:=200)
 
-        .TextFrame.TextRange = "Reason 1" &; Chr(13) &; _
-        "Reason 2" &; Chr(13) &; "Reason 3"
+        .TextFrame.TextRange = "Reason 1" & Chr(13) & _
+        "Reason 2" & Chr(13) & "Reason 3"
 
         With .AnimationSettings
             .EntryEffect = ppEffectFlyFromBottomRight

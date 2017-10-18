@@ -60,7 +60,7 @@ This example displays the  **Save As** dialog box, with the file filter set to t
 fileSaveName = Application.GetSaveAsFilename( _ 
  fileFilter:="Text Files (*.txt), *.txt") 
 If fileSaveName <> False Then 
- MsgBox "Save as " &; fileSaveName 
+ MsgBox "Save as " & fileSaveName 
 End If
 ```
 

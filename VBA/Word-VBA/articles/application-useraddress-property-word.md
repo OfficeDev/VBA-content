@@ -34,8 +34,8 @@ This example sets the user's return address. The Chr function is used to return 
 
 
 ```vb
-Application.UserAddress = "4200 Third Street NE" &; Chr(10) _ 
- &; "Anytown, WA 98999"
+Application.UserAddress = "4200 Third Street NE" & Chr(10) _ 
+ & "Anytown, WA 98999"
 ```
 
 This example returns the address found in the  **Mailing address** box on the **User Information** tab in the **Options** dialog box ( **Tools** menu).

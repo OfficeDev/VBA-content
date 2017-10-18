@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Worksheet.LensGalleryRenderComplete Event (Excel)
 
-Occurs when a callout gallery's icons (dynamic &; static) have completed rendering.
+Occurs when a callout gallery's icons (dynamic & static) have completed rendering.
 
 
 ## Syntax

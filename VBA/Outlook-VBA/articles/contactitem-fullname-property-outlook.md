@@ -56,7 +56,7 @@ Public Sub ContactDateCheck()
  
  If (myItem.Class = olContact) Then 
  
- MsgBox myItem.FullName &; ": " &; myItem.LastModificationTime 
+ MsgBox myItem.FullName & ": " & myItem.LastModificationTime 
  
  End If 
  

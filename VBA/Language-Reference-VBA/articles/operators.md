@@ -17,7 +17,7 @@ ms.date: 06/08/2017
     
 - [- Operator](operator.md)
     
-- [&; Operator](operator.md)
+- [& Operator](operator.md)
     
 - [* Operator](operator.md)
     

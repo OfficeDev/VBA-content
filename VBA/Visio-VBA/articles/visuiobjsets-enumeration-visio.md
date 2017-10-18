@@ -25,7 +25,7 @@ UI object-set identifiers, used with the  **SetID** and **ItemAtID** properties 
 | **visUIObjSetCntx_AnchorBar_Base**|61|Shortcut menu: anchored windows.||X||
 | **visUIObjSetCntx_AnchorBar_CustProp**|62|Shortcut menu:  **Shape Data** anchored window.||X||
 | **visUIObjSetCntx_AnchorBar_Shapes**|69|Shortcut menu:  **Shapes** window.||||
-| **visUIObjSetCntx_AnchorBar_SizePos**|63|Shortcut menu:  **Size &; Position** anchored window.||X||
+| **visUIObjSetCntx_AnchorBar_SizePos**|63|Shortcut menu:  **Size & Position** anchored window.||X||
 | **visUIObjSetCntx_BuiltInMenus**|1010|Built-in menus available in the  **Customize** dialog box.||X||
 | **visUIObjSetCntx_CommentMarker**|68|Shortcut menu:  **Comment Marker**.||X||
 | **visUIObjSetCntx_ConnectPtType**|44|Shortcut menu:  **Connection Point**.||X||

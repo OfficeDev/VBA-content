@@ -31,8 +31,8 @@ You can use the  **CreateGroupLevel** method to specify a field or expression on
 |:-----|:-----|:-----|:-----|
 | _ReportName_|Required|**String**| the name of the report that will contain the new group level.|
 | _Expression_|Required|**String**|The field or expression to sort or group on.|
-| _Header_|Required|**Integer**|Indicates a field or expression will have an associated group header. If the  _header_ argument is **True** (?1), the field or expression will have a group header. If the _header_ argument is **False** (0), the field or expression won't. You can create a header by setting the argument to **True**.|
-| _Footer_|Required|**Integer**|Indicates a field or expression will have an associated group footer. If the  _footer_ argument is **True** (?1), the field or expression will have a group footer. If the _footer_ argument is **False** (0), the field or expression won't. You can create a footer by setting the argument to **True**.|
+| _Header_|Required|**Integer**|Indicates a field or expression will have an associated group header. If the  _header_ argument is **True** (-1), the field or expression will have a group header. If the _header_ argument is **False** (0), the field or expression won't. You can create a header by setting the argument to **True**.|
+| _Footer_|Required|**Integer**|Indicates a field or expression will have an associated group footer. If the  _footer_ argument is **True** (-1), the field or expression will have a group footer. If the _footer_ argument is **False** (0), the field or expression won't. You can create a footer by setting the argument to **True**.|
 
 ### Return Value
 
@@ -59,7 +59,7 @@ Once a header or footer is created, you can set other GroupLevel properties:  **
 
 ## Example
 
-The following example creates a group level on an OrderDate field on a report called OrderReport. The report on which the group level is to be created must be open in Design view. Since the  _header_ and _footer_ arguments are set to **True** (?1), the method creates both the header and footer for the group level. The header and footer are then sized.
+The following example creates a group level on an OrderDate field on a report called OrderReport. The report on which the group level is to be created must be open in Design view. Since the  _header_ and _footer_ arguments are set to **True** (-1), the method creates both the header and footer for the group level. The header and footer are then sized.
 
 
 ```vb

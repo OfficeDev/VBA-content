@@ -38,9 +38,9 @@ This example displays the page number, page index, and page ID of the first page
 
 ```vb
 With ActiveDocument.Pages.Item(1) 
- Debug.Print "Page number = " &; .PageNumber 
- Debug.Print "Page index = " &; .PageIndex 
- Debug.Print "Page ID = " &; .PageID 
+ Debug.Print "Page number = " & .PageNumber 
+ Debug.Print "Page index = " & .PageIndex 
+ Debug.Print "Page ID = " & .PageID 
 End With
 ```
 

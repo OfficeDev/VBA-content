@@ -98,7 +98,7 @@ Public Sub ToPart_Example()
  ElseIf intToData = visWholeShape Then 
  strTo = "dynamic glue" 
  ElseIf intToData >= visConnectionPoint Then 
- strTo = "connection point " &; _ 
+ strTo = "connection point " & _ 
  CStr(intToData - visConnectionPoint + 1) 
  Else 
  strTo = "???" 
@@ -106,7 +106,7 @@ Public Sub ToPart_Example()
  
  'Print the name and part of the shape the 
  'Connect object connects to. 
- Debug.Print "To "; vsoConnectTo.Name &; " " &; strTo &; "." 
+ Debug.Print "To "; vsoConnectTo.Name & " " & strTo & "." 
  
  Next intCounter 
  

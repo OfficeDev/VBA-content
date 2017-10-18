@@ -38,7 +38,7 @@ If Selection.Type = wdSelectionNormal Then
  mySel = Selection.Font.Italic 
  If mySel = wdUndefined or mySel = True Then 
  MsgBox "there is italic text in selection. " _ 
- &; "Click OK to remove." 
+ & "Click OK to remove." 
  Selection.Font.Italic = False 
  Else 
  MsgBox "No italic text in the selection." 

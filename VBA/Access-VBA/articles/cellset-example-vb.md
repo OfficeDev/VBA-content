@@ -42,13 +42,13 @@ Sub cmdCellSettoDebugWindow_Click()
  '*----------------------------------------------------------------------- 
  '* Set MDX query string Source 
  '*----------------------------------------------------------------------- 
- strSource = "SELECT {[Measures].members} ON COLUMNS," &; _ 
+ strSource = "SELECT {[Measures].members} ON COLUMNS," & _ 
  "NON EMPTY [Store].[Store City].members ON ROWS FROM Sales" 
  
  '*----------------------------------------------------------------------- 
  '* Set Active Connection 
  '*----------------------------------------------------------------------- 
- cat.ActiveConnection = "Data Source=" &; strServer &; ";Provider=msolap;" 
+ cat.ActiveConnection = "Data Source=" & strServer & ";Provider=msolap;" 
  
  '*----------------------------------------------------------------------- 
  '* Set Cell Set source to MDX query string 
@@ -68,31 +68,31 @@ Sub cmdCellSettoDebugWindow_Click()
  '*----------------------------------------------------------------------- 
  '* Allow space for Row Header Text 
  '*----------------------------------------------------------------------- 
- strColumnHeader = vbTab &; vbTab &; vbTab &; vbTab &; vbTab &; vbTab 
+ strColumnHeader = vbTab & vbTab & vbTab & vbTab & vbTab & vbTab 
  
  '*----------------------------------------------------------------------- 
  '* Loop through Column Headers 
  '*----------------------------------------------------------------------- 
  For i = 0 To cst.Axes(0).Positions.Count - 1 
- strColumnHeader = strColumnHeader &; _ 
- cst.Axes(0).Positions(i).Members(0).Caption &; vbTab &; _ 
- vbTab &; vbTab &; vbTab 
+ strColumnHeader = strColumnHeader & _ 
+ cst.Axes(0).Positions(i).Members(0).Caption & vbTab & _ 
+ vbTab & vbTab & vbTab 
  Next 
- Debug.Print vbTab &; strColumnHeader &; vbCrLf 
+ Debug.Print vbTab & strColumnHeader & vbCrLf 
  
  '*----------------------------------------------------------------------- 
  '* Loop through Row Headers and Provide data for each row 
  '*----------------------------------------------------------------------- 
  strRowText = "" 
  For j = 0 To cst.Axes(1).Positions.Count - 1 
- strRowText = strRowText &; _ 
- cst.Axes(1).Positions(j).Members(0).Caption &; vbTab &; _ 
- vbTab &; vbTab &; vbTab 
+ strRowText = strRowText & _ 
+ cst.Axes(1).Positions(j).Members(0).Caption & vbTab & _ 
+ vbTab & vbTab & vbTab 
  For k = 0 To cst.Axes(0).Positions.Count - 1 
- strRowText = strRowText &; cst(k, j).FormattedValue &; _ 
- vbTab &; vbTab &; vbTab &; vbTab 
+ strRowText = strRowText & cst(k, j).FormattedValue & _ 
+ vbTab & vbTab & vbTab & vbTab 
  Next 
- Debug.Print strRowText &; vbCrLf 
+ Debug.Print strRowText & vbCrLf 
  strRowText = "" 
  Next 
  
@@ -105,7 +105,7 @@ Error_cmdCellSettoDebugWindow_Click:
  Screen.MousePointer = vbDefault 
  Set cat = Nothing 
  Set cst = Nothing 
- MsgBox "The Following Error has occurred:" &; vbCrLf &; _ 
+ MsgBox "The Following Error has occurred:" & vbCrLf & _ 
  Err.Description, vbCritical, " Error!" 
  Exit Sub 
 End Sub 
@@ -115,7 +115,7 @@ End Sub
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

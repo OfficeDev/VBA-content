@@ -61,13 +61,13 @@ MyError = Err. Number - vbObjectError
 ' in the range 0-65,535, it is an object-defined error code.
 If MyError > 0 And MyError < 65535 Then
     Msg = "The object you accessed assigned this number to the error: " _
-             &; MyError &; ". The originator of the error was: " _
-            &; Err.Source &; ". Press F1 to see originator's Help topic."
+             & MyError & ". The originator of the error was: " _
+            & Err.Source & ". Press F1 to see originator's Help topic."
 ' Otherwise it is a Visual Basic error number.
 Else
-    Msg = "This error (# " &; Err. Number &; ") is a Visual Basic error" &; _
+    Msg = "This error (# " & Err. Number & ") is a Visual Basic error" & _
             " number. Press Help button or F1 for the Visual Basic Help" _
-            &; " topic for this error."
+            & " topic for this error."
 End If
     MsgBox Msg, , "Object Error", Err.HelpFile, Err.HelpContext
 

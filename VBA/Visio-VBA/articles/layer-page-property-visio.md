@@ -57,7 +57,7 @@ Public Sub Page_Example()
  Set vsoPage1 = ActiveWindow.Page 
  
  'Verify that the expected page was received. 
- Debug.Print "The active window contains: " &; vsoPage1.Name 
+ Debug.Print "The active window contains: " & vsoPage1.Name 
  
  'Add a second page named MyPage2. 
  Set vsoPage2 = ActiveDocument.Pages.Add 
@@ -76,14 +76,14 @@ Public Sub Page_Example()
  Set vsoTempPage = vsoLayers1.Page 
  
  'Verify that the expected page was received. 
- Debug.Print " vsoLayers1 is from: " &; vsoTempPage.Name 
+ Debug.Print " vsoLayers1 is from: " & vsoTempPage.Name 
  
  'Use the Page property to return the Page object 
  'from a Layer object. 
  Set vsoTempPage = vsoLayer2.Page 
  
  'Verify that the expected page was received. 
- Debug.Print " vsoLayer2 is from: " &; vsoTempPage.Name 
+ Debug.Print " vsoLayer2 is from: " & vsoTempPage.Name 
  
  'Set the active window's page to "MyPage1." 
  ActiveWindow.Page = "MyPage1" 

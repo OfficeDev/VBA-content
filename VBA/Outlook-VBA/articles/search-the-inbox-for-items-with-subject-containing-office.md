@@ -28,8 +28,8 @@ Sub RestrictTableForInbox()
      
     'Construct filter for Subject containing 'Office' 
     Const PropTag  As String = "http://schemas.microsoft.com/mapi/proptag/" 
-    strFilter = "@SQL=" &; Chr(34) &; PropTag  _ 
-        &; "0x0037001E" &; Chr(34) &; " ci_phrasematch 'Office'" 
+    strFilter = "@SQL=" & Chr(34) & PropTag  _ 
+        & "0x0037001E" & Chr(34) & " ci_phrasematch 'Office'" 
      
     'Do search and obtain Table on Inbox 
     Set oT = Application.Session.GetDefaultFolder(olFolderInbox).GetTable(strFilter) 
@@ -63,7 +63,7 @@ Sub TestSearchWithTable()
      
     'Construct filter. 0x0037001E represents Subject 
     strQuery = _ 
-        "http://schemas.microsoft.com/mapi/proptag/0x0037001E" &; _ 
+        "http://schemas.microsoft.com/mapi/proptag/0x0037001E" & _ 
         " ci_phrasematch 'Office'" 
      
     'Do search 

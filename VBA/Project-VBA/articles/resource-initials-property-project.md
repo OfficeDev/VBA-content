@@ -42,7 +42,7 @@ Sub SetInitialsBasedOnName()
  ' If not first character, and space is found, then add initial. 
  If I > 1 And Mid(R.Name, I, 1) = Chr(32) Then 
  If I + 1 <= Len(R.Name) Then 
- NewInits = NewInits &; Mid(R.Name, I + 1, 1) 
+ NewInits = NewInits & Mid(R.Name, I + 1, 1) 
  End If 
  End If 
  Next I 

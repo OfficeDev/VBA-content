@@ -40,11 +40,11 @@ Sub CreateSplit()
     Dim SplitFrom As Variant, SplitTo As Variant 
  
     WhichTask = InputBox("Enter the ID of the task you would like to split:") 
-    SplitFrom = InputBox("Enter the date and time for the start of the" &; _
-        " split: " &; vbCrLf &; vbCrLf &; "(The default time is the end" &; _
+    SplitFrom = InputBox("Enter the date and time for the start of the" & _
+        " split: " & vbCrLf & vbCrLf & "(The default time is the end" & _
     " time of the preceding working period.)") 
-    SplitTo = InputBox("Enter the date and time for the end of the split:" &; _
-        vbCrLf &; vbCrLf &; "(The default time is the start time of the next" &; _
+    SplitTo = InputBox("Enter the date and time for the end of the split:" & _
+        vbCrLf & vbCrLf & "(The default time is the start time of the next" & _
         " working period.)") 
  
     ActiveProject.Tasks(WhichTask).Split SplitFrom, SplitTo 

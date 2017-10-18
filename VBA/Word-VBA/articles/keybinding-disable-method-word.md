@@ -49,7 +49,7 @@ KeyBindings.Add KeyCode:=BuildKeyCode(wdKeyO, _
  wdKeyControl, wdKeyShift), _ 
  KeyCategory:=wdKeyCategoryCommand, Command:="Organizer" 
 With FindKey(BuildKeyCode(wdKeyO, wdKeyControl, wdKeyShift)) 
- MsgBox .Command &; " is assigned to CTRL+Shift+O" 
+ MsgBox .Command & " is assigned to CTRL+Shift+O" 
  .Disable 
  If .Command = "" Then MsgBox _ 
  "Nothing is assigned to CTRL+Shift+O" 

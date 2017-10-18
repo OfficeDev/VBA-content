@@ -32,11 +32,11 @@ Adds fields to the  **Details** pane and option menu for the Task Usage or Resou
 | _CurIndex_|Optional|**Integer**|Current zero-based index of fields in the  **Show these fields** list in the **Detail Styles** dialog box. Values greater than the number of fields currently shown are reduced to the next highest value in the actual list. For example, if there are two fields showing and _CurIndex_ = 8, the value of _CurIndex_ is reduced to 2. The default value is 0.|
 | _Order_|Optional|**Integer**|Order of the field in an internal array of fields. For valid values, see the table of field names in the Remarks section.|
 | _FontWord_|Optional|**Long**|Deprecated in Project. In some versions of Project,  _FontWord_ set the font color by using the **PjColor** enumeration.|
-| _CellBackground_|Optional|**Long**|Color of the cells for entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFFFF00 is blue-green.|
+| _CellBackground_|Optional|**Long**|Color of the cells for entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFFFF00 is blue-green.|
 | _Pattern_|Optional|**Integer**|Background pattern of the cells for entry. Can be one of the  **[PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md)** constants.|
 | _Shortcut_|Optional|**Boolean**|**True** if the field is shown on the option menu of the **Details** pane; otherwise, **False**. Shortcut is **True** if DisplayField is **True**.|
 | _DisplayField_|Optional|**Boolean**|**True** if the field is displayed in the **Details** pane; otherwise, **False**. The DisplayField parameter has no effect on fields that are already displayed.|
-| _FontColor_|Optional|**Long**|Color of text in the  **Details** column for usage entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFF00FF is purple.|
+| _FontColor_|Optional|**Long**|Color of text in the  **Details** column for usage entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFF00FF is purple.|
 
 ### Return Value
 
@@ -139,8 +139,8 @@ In the Resource Usage view, the following statement colors the cells for data en
 
 
 ```vb
-Application.UsageViewEntryEx CellBackground:=&;H01ffff, Pattern:=pjBackgroundDiagonalLeft, _ 
- FontColor:=&;Hff00ff
+Application.UsageViewEntryEx CellBackground:=&H01ffff, Pattern:=pjBackgroundDiagonalLeft, _ 
+ FontColor:=&Hff00ff
 ```
 
 In the Task Usage view, the default field is  **Work**. The following statement adds the  **Actual Cost** field in green, after the **Work** field.
@@ -149,7 +149,7 @@ In the Task Usage view, the default field is  **Work**. The following statement 
 
 
 ```vb
-Application.UsageViewEntryEx Order:=11, CurIndex:=1, DisplayField:=True, FontColor:=&;H10FF10
+Application.UsageViewEntryEx Order:=11, CurIndex:=1, DisplayField:=True, FontColor:=&H10FF10
 ```
 
 

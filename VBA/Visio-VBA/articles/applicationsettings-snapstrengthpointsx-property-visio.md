@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-Setting the  **SnapStrengthPointsX** property is equivalent to setting the **Points** option under **Snap strength** on the **Advanced** tab in the **Snap &; Glue** dialog box (click the **Visual Aids** arrow on the **View** tab). Setting snap strength in the UI sets both _x_ and _y_ values to the same value.
+Setting the  **SnapStrengthPointsX** property is equivalent to setting the **Points** option under **Snap strength** on the **Advanced** tab in the **Snap & Glue** dialog box (click the **Visual Aids** arrow on the **View** tab). Setting snap strength in the UI sets both _x_ and _y_ values to the same value.
 
 The minimum allowable value for the  **SnapStrengthPointsX** property is 0 (zero), and the maximum is 999. Attempting to set a value outside that range returns an error. The default value is 10.
 

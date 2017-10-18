@@ -18,7 +18,7 @@ Assignment statements assign a value or [expression](vbe-glossary.md) to a[varia
 Sub Question() 
  Dim yourName As String 
  yourName = InputBox("What is your name?") 
- MsgBox "Your name is " &; yourName 
+ MsgBox "Your name is " & yourName 
 End Sub
 ```
 

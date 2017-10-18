@@ -48,7 +48,7 @@ Sub ProgressMeter()
        
      'Print the contact name and number of orders in the Immediate window. 
       Debug.Print MyTable![ContactName]; _ 
-                  DCount("[OrderID]", "Orders", "[CustomerID]='" &; MyTable![CustomerID] &; "'") 
+                  DCount("[OrderID]", "Orders", "[CustomerID]='" & MyTable![CustomerID] & "'") 
                    
      ' Go to the next record. 
       MyTable.MoveNext 

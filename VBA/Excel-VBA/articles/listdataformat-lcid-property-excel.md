@@ -45,7 +45,7 @@ Sub DisplayLCID()
  Set wrksht = ActiveWorkbook.Worksheets("Sheet1") 
  Set objListCol = wrksht.ListObjects(1).ListColumns(3) 
  
- MsgBox "List LCID: " &; objListCol.ListDataFormat.lcid 
+ MsgBox "List LCID: " & objListCol.ListDataFormat.lcid 
 End Sub
 ```
 

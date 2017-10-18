@@ -41,7 +41,7 @@ When the argument is set to any one of the following options, the resulting user
 
 - If missing or set to  **0** = Hide all buttons
     
--  **1** = If showing, hide the **Conditional Formatting** &; **Sparklines** buttons
+-  **1** = If showing, hide the **Conditional Formatting** & **Sparklines** buttons
     
 -  **2** = If showing, hide the **Charts** button
     

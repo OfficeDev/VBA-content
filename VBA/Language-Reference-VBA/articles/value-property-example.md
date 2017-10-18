@@ -52,13 +52,13 @@ To use this example, copy this sample code to the Declarations portion of a form
 Dim i As Integer 
  
 Private Sub CommandButton1_Click() 
- TextBox1.Text = "Value of " &; ActiveControl.Name _ 
- &; " is " &; ActiveControl.Value 
+ TextBox1.Text = "Value of " & ActiveControl.Name _ 
+ & " is " & ActiveControl.Value 
 End Sub 
  
 Private Sub UserForm_Initialize() 
  CommandButton1.Caption = "Get value of " _ 
- &; "current control" 
+ & "current control" 
  CommandButton1.AutoSize = True 
  CommandButton1.TakeFocusOnClick = False 
  CommandButton1.TabStop = False 
@@ -66,8 +66,8 @@ Private Sub UserForm_Initialize()
  TextBox1.AutoSize = True 
  
  For i = 0 To 10 
- ComboBox1.AddItem "Choice " &; (i + 1) 
- ListBox1.AddItem "Selection " &; (100 - i) 
+ ComboBox1.AddItem "Choice " & (i + 1) 
+ ListBox1.AddItem "Selection " & (100 - i) 
  Next i 
  
  CheckBox1.TripleState = True 

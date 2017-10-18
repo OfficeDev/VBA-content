@@ -35,7 +35,7 @@ This example displays a message if the active workbook has a protection password
 
 ```vb
 If ActiveWorkbook.HasPassword = True Then 
- MsgBox "Remember to obtain the workbook password" &; Chr(13) &; _ 
+ MsgBox "Remember to obtain the workbook password" & Chr(13) & _ 
  " from the Network Administrator." 
 End If
 ```

@@ -82,7 +82,7 @@ public Outlook.AddressList GetGlobalAddressList(Outlook.Store store)
         // Return the address list associated with the store 
         // if the address list UID matches the store UID and 
         // type is olExchangeGlobalAddressList. 
-        if (addrListUID == storeUID &;&; addrList.AddressListType == 
+        if (addrListUID == storeUID && addrList.AddressListType == 
             Outlook.OlAddressListType.olExchangeGlobalAddressList) 
         { 
             return addrList; 

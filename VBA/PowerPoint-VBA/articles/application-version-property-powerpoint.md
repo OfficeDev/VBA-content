@@ -35,8 +35,8 @@ This example displays a message box that contains the PowerPoint version number 
 
 ```vb
 With Application
-    MsgBox "Welcome to PowerPoint version " &; .Version &; _
-        ", build " &; .Build &; ", running on " &; .OperatingSystem &; "!"
+    MsgBox "Welcome to PowerPoint version " & .Version & _
+        ", build " & .Build & ", running on " & .OperatingSystem & "!"
 End With
 ```
 

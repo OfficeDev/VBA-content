@@ -50,8 +50,8 @@ In the following example, the first call to  **EditTPStyle** sets late tasks to 
 
 ```vb
 Sub ChangeTeamPlannerStyles() 
-    EditTPStyle Style:=pjTPLateTask, fillColor:=&;H4444FF, bordercolor:=&;H0 
-    EditTPStyle Style:=pjTPManualTask, fillColor:=&;H8888FF, bordercolor:=&;H888888 
+    EditTPStyle Style:=pjTPLateTask, fillColor:=&H4444FF, bordercolor:=&H0 
+    EditTPStyle Style:=pjTPManualTask, fillColor:=&H8888FF, bordercolor:=&H888888 
 End Sub
 ```
 

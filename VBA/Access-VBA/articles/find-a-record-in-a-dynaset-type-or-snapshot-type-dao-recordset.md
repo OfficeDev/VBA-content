@@ -57,7 +57,7 @@ On Error GoTo ErrorHandler
    ' in OrderDetails. If no match, redimension the array of order IDs and 
    ' add the order ID to the array. 
    intIndex = 1 
-   rstOrderDetails.FindFirst "OrderID = " &; rstOrders![OrderID] 
+   rstOrderDetails.FindFirst "OrderID = " & rstOrders![OrderID] 
    If rstOrderDetails.NoMatch Then 
       ReDim Preserve aryOrders (1 To intIndex) 
       aryOrders (intIndex) = rstOrders![OrderID] 
@@ -67,7 +67,7 @@ On Error GoTo ErrorHandler
    ' The first match has already been found, so use the FindNext method to 
    ' find the next record that satisfies the criteria. 
    Do Until rstOrders.EOF 
-      rstOrderDetails.FindNext "OrderID = " &; rstOrders![OrderID] 
+      rstOrderDetails.FindNext "OrderID = " & rstOrders![OrderID] 
       If rstOrderDetails.NoMatch Then 
          intIndex = intIndex + 1 
          ReDim Preserve aryOrders (1 To intIndex) 
@@ -89,7 +89,7 @@ On Error GoTo ErrorHandler
 Exit Function 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Function
 ```
 

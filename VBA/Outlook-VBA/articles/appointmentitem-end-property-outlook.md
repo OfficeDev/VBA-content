@@ -147,7 +147,7 @@ Public Sub cmdExample()
  
  'for this exception. 
  
- MsgBox myException.OriginalDate &; ": " &; saveSubject 
+ MsgBox myException.OriginalDate & ": " & saveSubject 
  
  
  
@@ -155,7 +155,7 @@ Public Sub cmdExample()
  
  'for this exception. 
  
- MsgBox myException.AppointmentItem.Start &; ": " &; _ 
+ MsgBox myException.AppointmentItem.Start & ": " & _ 
  
  myException.AppointmentItem.Subject 
  

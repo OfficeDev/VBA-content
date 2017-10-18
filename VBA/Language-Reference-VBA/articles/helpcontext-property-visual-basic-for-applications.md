@@ -31,9 +31,9 @@ Err.Clear
 On Error Resume Next
 Err.Raise 6 ' Generate "Overflow" error.
 If Err.Number <> 0 Then
-    Msg = "Press F1 or HELP to see " &; Err.HelpFile &; " topic for" &; _
-    " the following HelpContext: " &; Err. HelpContext
-    MsgBox Msg, , "Error: " &; Err.Description, Err.HelpFile, _
+    Msg = "Press F1 or HELP to see " & Err.HelpFile & " topic for" & _
+    " the following HelpContext: " & Err. HelpContext
+    MsgBox Msg, , "Error: " & Err.Description, Err.HelpFile, _
 Err.HelpContext
 End If
 ```

@@ -64,7 +64,7 @@ The  _Flags_ argument should be a combination of one or more of the following me
 | **visAddMinimized**|16|Adds a document in a minimized window.|
 | **visAddNoWorkspace**|256|Adds a document with no workspace information.|
 | **visAddStencil**|512|Adds a new stencil file.|
-The  _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, the language ID is &;H0409 for the U.S. version of Visio. To see a list of language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
+The  _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, the language ID is &H0409 for the U.S. version of Visio. To see a list of language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
 
 To create a new drawing based on no template, pass a zero-length string ("") to the  **AddEx** method.
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This example imports the contacts from the default Outlook contacts folder to Sheet 1 of the active workbook.
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](http://xldennis.wordpress.com/)
 
 
 
@@ -88,7 +88,7 @@ Sub Import_Contacts()
                     Cells(lnContactCount, 6) = .Email1Address
                 End If
                 wsSheet.Hyperlinks.Add Anchor:=Cells(lnContactCount, 6), _
-                                       Address:="mailto:" &; Cells(lnContactCount, 6).Value, _
+                                       Address:="mailto:" & Cells(lnContactCount, 6).Value, _
                                        TextToDisplay:=Cells(lnContactCount, 6).Value
             End With
             lnContactCount = lnContactCount + 1
@@ -120,6 +120,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 

@@ -33,12 +33,12 @@ Dim temp As InlineShape
 Set temp = _ 
  ActiveDocument.InlineShapes.AddHorizontalLineStandard 
 MsgBox "AddHorizontalLineStandard - WidthType = " _ 
- &; temp.HorizontalLineFormat.WidthType 
+ & temp.HorizontalLineFormat.WidthType 
 Set temp = _ 
  ActiveDocument.InlineShapes.AddHorizontalLine _ 
  ("C:\My Documents\ArtsyRule.gif") 
 MsgBox "AddHorizontalLine - WidthType = " _ 
- &; temp.HorizontalLineFormat.WidthType
+ & temp.HorizontalLineFormat.WidthType
 ```
 
 

@@ -28,8 +28,8 @@ Use  **[OLEDBErrors](application-odbcerrors-property-excel.md)** ( _index_ ), wh
 
 ```vb
 Set objEr = Application.OLEDBErrors(1) 
-MsgBox "The following error occurred:" &; _ 
- objEr.ErrorString &; " : " &; objEr.SqlState
+MsgBox "The following error occurred:" & _ 
+ objEr.ErrorString & " : " & objEr.SqlState
 ```
 
 

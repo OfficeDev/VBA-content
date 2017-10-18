@@ -47,9 +47,9 @@ The  _SaveFlags_ argument should be a combination of the following values.
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visSaveAsRO**|&;H1|The document is saved as read-only.|
-| **visSaveAsWS**|&;H2|The current workspace is saved with the file.|
-| **visSaveAsListInMRU**|&;H4|The document is included in the Most Recently Used (MRU) list. By default,  **Save** and **SaveAs** do not place the document into the MRU list.|
+| **visSaveAsRO**|&H1|The document is saved as read-only.|
+| **visSaveAsWS**|&H2|The current workspace is saved with the file.|
+| **visSaveAsListInMRU**|&H4|The document is included in the Most Recently Used (MRU) list. By default,  **Save** and **SaveAs** do not place the document into the MRU list.|
 
 ## Example
 

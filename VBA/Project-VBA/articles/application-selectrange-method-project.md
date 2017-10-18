@@ -50,7 +50,7 @@ The following example selects columns 3 through 6 and rows 4 through 6 on the Ga
 ```vb
 Sub Select_Range() 
  
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  SelectRange Row:=4, Column:=3, RowRelative:=False, Width:=3, Height:=2 
  
 End Sub

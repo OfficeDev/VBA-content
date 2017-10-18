@@ -48,7 +48,7 @@ To use this example, copy this sample code to the Script Editor of a form. To ru
 Sub CommandButton1_Click() 
  Set TextBox1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("TextBox1") 
  Set Form = Item.GetInspector.ModifiedFormPages("P.2") 
- TextBox1.Text = "Value of " &; Form.ActiveControl.Name &; " is " &; Form.ActiveControl.Value 
+ TextBox1.Text = "Value of " & Form.ActiveControl.Name & " is " & Form.ActiveControl.Value 
 End Sub 
  
 Sub Item_Open() 
@@ -68,8 +68,8 @@ Sub Item_Open()
  TextBox1.AutoSize = True 
  
  For i = 0 To 10 
- ComboBox1.AddItem "Choice " &; (i + 1) 
- ListBox1.AddItem "Selection " &; (100 - i) 
+ ComboBox1.AddItem "Choice " & (i + 1) 
+ ListBox1.AddItem "Selection " & (100 - i) 
  Next 
  
  CheckBox1.TripleState = True 

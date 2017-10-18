@@ -66,15 +66,15 @@ Sub DisplayOriginalDateReport()
  
  'Add info to string 
  
- strReport = strReport &; objRem.Caption &; vbTab &; vbTab &; _ 
+ strReport = strReport & objRem.Caption & vbTab & vbTab & _ 
  
- objRem.OriginalReminderDate &; vbCr 
+ objRem.OriginalReminderDate & vbCr 
  
  Next objRem 
  
  'Display report in dialog 
  
- MsgBox strTitle &; vbCr &; vbCr &; strReport 
+ MsgBox strTitle & vbCr & vbCr & strReport 
  
  End If 
  

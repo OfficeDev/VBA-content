@@ -29,7 +29,7 @@ This example calculates the selected mathematical expression and displays the re
 
 
 ```vb
-MsgBox "And the answer is... " &; Selection.Calculate
+MsgBox "And the answer is... " & Selection.Calculate
 ```
 
 

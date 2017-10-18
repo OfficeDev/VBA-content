@@ -41,19 +41,19 @@ Function Item_Open()
  
  'MsgBox shows EditorType is 2. 
  
- MsgBox "HTMLBody EditorType is " &; Item.GetInspector.EditorType 
+ MsgBox "HTMLBody EditorType is " & Item.GetInspector.EditorType 
  
  'Access the Body and show 
  
  'the text of the Body. 
  
- MsgBox "This is the Body: " &; Item.Body 
+ MsgBox "This is the Body: " & Item.Body 
  
  'After accessing, EditorType 
  
  'is still 2. 
  
- MsgBox "After accessing, the EditorType is " &; Item.GetInspector.EditorType 
+ MsgBox "After accessing, the EditorType is " & Item.GetInspector.EditorType 
  
  'Set the item's Body property. 
  
@@ -63,7 +63,7 @@ Function Item_Open()
  
  'now back to the default. 
  
- MsgBox "After setting, the EditorType is " &; Item.GetInspector.EditorType 
+ MsgBox "After setting, the EditorType is " & Item.GetInspector.EditorType 
  
  'Access the items's 
  

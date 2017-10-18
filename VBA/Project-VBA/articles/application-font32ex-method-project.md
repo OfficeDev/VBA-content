@@ -34,9 +34,9 @@ Sets the font for the text in the active cells, where the text color can be a he
 | _Bold_|Optional|**Variant**|**True** if the font is bold.|
 | _Italic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _Color_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, &;H0000FF is red.|
+| _Color_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, &H0000FF is red.|
 | _Reset_|Optional|**Boolean**|**True** if the font is reset to its default characteristics. All other arguments are ignored. The default value is **False**.|
-| _CellColor_|Optional|**Variant**|The color of the cell. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFFFF99 is cyan.|
+| _CellColor_|Optional|**Variant**|The color of the cell. Can be a hexadecimal RGB value, where red is the last byte. For example, &HFFFF99 is cyan.|
 | _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
 | _Strikethrough_|Optional|**Variant**|**True** if the font is the strikethrough format.|
 
@@ -57,7 +57,7 @@ The following example formats text in the selected cells using 16-point Tahoma i
 
 ```vb
 Sub FormatTahoma16() 
-    Font32Ex Name:="Tahoma", Size:=16, Color:=&;HFF88FF, CellColor:=&;H99FFFF 
+    Font32Ex Name:="Tahoma", Size:=16, Color:=&HFF88FF, CellColor:=&H99FFFF 
 End Sub
 ```
 

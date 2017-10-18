@@ -77,8 +77,8 @@ Sub GroupByX1()
     ' For each title, count the number of employees  
     ' with that title.  
     Set rst = dbs.OpenRecordset("SELECT Title, " _ 
-        &; "Count([Title]) AS Tally " _ 
-        &; "FROM Employees GROUP BY Title;") 
+        & "Count([Title]) AS Tally " _ 
+        & "FROM Employees GROUP BY Title;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -112,9 +112,9 @@ Sub GroupByX2()
     ' with that title. Only include employees in the  
     ' Washington region. 
     Set rst = dbs.OpenRecordset("SELECT Title, " _ 
-        &; "Count(Title) AS Tally " _ 
-        &; "FROM Employees WHERE Region = 'WA' " _ 
-        &; "GROUP BY Title;") 
+        & "Count(Title) AS Tally " _ 
+        & "FROM Employees WHERE Region = 'WA' " _ 
+        & "GROUP BY Title;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -133,7 +133,7 @@ End Sub
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

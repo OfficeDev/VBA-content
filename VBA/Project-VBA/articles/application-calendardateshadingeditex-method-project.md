@@ -31,7 +31,7 @@ Changes the background color and pattern of date boxes in the Calendar view.
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**Long**|The type of calendar day to change. Can be one of the  **[PjCalendarShading](pjcalendarshading-enumeration-project.md)** constants.|
 | _Pattern_|Optional|**Long**|The pattern for the type of date box specified by  **Item**. Can be one of the **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
-| _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
+| _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 
 ### Return Value
 
@@ -44,7 +44,7 @@ Besides  _Item_, **CalendarDateShadingEditEx** requires either the _Pattern_ or 
 
 
 ```vb
-? CalendarDateShadingEditEx (PjCalendarShading.pjBaseWorking, , &;H01dddd)
+? CalendarDateShadingEditEx (PjCalendarShading.pjBaseWorking, , &H01dddd)
 ```
 
 
@@ -58,8 +58,8 @@ Sub CalendarDate_ShadingEdit()
     ' Activate the Caldender view. 
     ViewApply Name:="Calendar" 
  
-    CalendarDateShadingEditEx Item:=pjBaseWorking, Pattern:=pjLightFillPattern, Color:=&;H900090 
-    CalendarDateShadingEditEx Item:=pjBaseNonworking, Color:=&;HDDDDDD 
+    CalendarDateShadingEditEx Item:=pjBaseWorking, Pattern:=pjLightFillPattern, Color:=&H900090 
+    CalendarDateShadingEditEx Item:=pjBaseNonworking, Color:=&HDDDDDD 
 End Sub
 ```
 

@@ -46,7 +46,7 @@ Sub AddDesignMaster()
 
         For Each desName In .Designs
 
-            MsgBox "The design name is " &; .Designs.Item(desName.Index).Name
+            MsgBox "The design name is " & .Designs.Item(desName.Index).Name
 
         Next
 

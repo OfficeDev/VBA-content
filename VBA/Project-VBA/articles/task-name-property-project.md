@@ -36,12 +36,12 @@ Sub NameExample()
     If Not x = "" Then 
         For Each t In ActiveProject.Tasks 
             If InStr(1, t.Name, x, 1) Then 
-                y = y &; vbCrLf &; t.ID &; ": " &; t.Name 
+                y = y & vbCrLf & t.ID & ": " & t.Name 
             End If 
         Next t 
  
         If Len(y) = 0 Then 
-            MsgBox "No tasks with the text " &; x &; " found in the project", vbExclamation 
+            MsgBox "No tasks with the text " & x & " found in the project", vbExclamation 
         Else 
             MsgBox y 
         End If 

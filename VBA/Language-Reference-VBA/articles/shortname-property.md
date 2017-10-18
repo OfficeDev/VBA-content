@@ -30,9 +30,9 @@ Sub ShowShortName(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
-    s = "The short name for " &; "" &; UCase(f.Name)
-    s = s &; "" &; vbCrLf
-    s = s &; "is: " &; "" &; f.ShortName &; ""
+    s = "The short name for " & "" & UCase(f.Name)
+    s = s & "" & vbCrLf
+    s = s & "is: " & "" & f.ShortName & ""
     MsgBox s, 0, "Short Name Info"
 End Sub
 ```

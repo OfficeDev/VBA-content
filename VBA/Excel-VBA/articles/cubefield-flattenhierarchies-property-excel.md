@@ -32,7 +32,7 @@ Returns or sets whether items from all levels of hierarchies in a named set cube
 
  **True** if all hierarchies of the specified named set are displayed in the same field; otherwise **False** .
 
-The value of this property corresponds to the setting of the  **Display items from different levels in separate fields** check box on the **Layout &; Print** tab of the **Field Settings** dialog box for a named set in a PivotTable report that is based on an OLAP cube.
+The value of this property corresponds to the setting of the  **Display items from different levels in separate fields** check box on the **Layout & Print** tab of the **Field Settings** dialog box for a named set in a PivotTable report that is based on an OLAP cube.
 
 This property returns an error if the  **[CubeFieldType](cubefield-cubefieldtype-property-excel.md)** property of the specified **CubeField** object is not **xlSet** .
 
@@ -43,7 +43,7 @@ The following code example flattens the hierarchies of the specified cube field,
 
 
 ```vb
-ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&;L]"). _ 
+ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&L]"). _ 
  FlattenHierarchies = True
 ```
 

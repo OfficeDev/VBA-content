@@ -60,7 +60,7 @@ You can define an input mask by using the following characters.
 |?|Letter (A to Z, entry optional).|
 |A|Letter or digit (entry required).|
 |a|Letter or digit (entry optional).|
-|&;|Any character or a space (entry required).|
+|&|Any character or a space (entry required).|
 |C|Any character or a space (entry optional).|
 |. , : ; - /|Decimal placeholder and thousand, date, and time separators. (The actual character used depends on the settings in the  **Regional Settings Properties** dialog box in Windows Control Panel).|
 |<|Causes all characters to be converted to lowercase.|

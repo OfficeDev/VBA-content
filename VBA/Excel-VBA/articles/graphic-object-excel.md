@@ -23,7 +23,7 @@ There are several properties of the  **[PageSetup](pagesetup-object-excel.md)** 
 Use the  **[CenterFooterPicture](pagesetup-centerfooterpicture-property-excel.md)** , **[CenterHeaderPicture](pagesetup-centerheaderpicture-property-excel.md)** , **[LeftFooterPicture](pagesetup-leftfooterpicture-property-excel.md)** , **[LeftHeaderPicture](pagesetup-leftheaderpicture-property-excel.md)** , **[RightFooterPicture](pagesetup-rightfooterpicture-property-excel.md)** , or **[RightHeaderPicture](pagesetup-rightheaderpicture-property-excel.md)** properties to return a **Graphic** object.
 
 
- **Note**  It is required that "&;G" is a part of the  **LeftFooter** string in order for the image to show up in the left footer.
+ **Note**  It is required that "&G" is a part of the  **LeftFooter** string in order for the image to show up in the left footer.
 
 
 ## Example
@@ -48,7 +48,7 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the left footer. 
- ActiveSheet.PageSetup.LeftFooter = "&;G" 
+ ActiveSheet.PageSetup.LeftFooter = "&G" 
  
 End Sub
 ```

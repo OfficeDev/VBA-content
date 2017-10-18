@@ -30,10 +30,10 @@ Sets the styles of bars on the Resource Graph view, where colors can be hexadeci
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _TopLeftShowAs_|Optional|**Integer**|The bar type for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be one of the following **[PjResourceGraphStyle](pjresourcegraphstyle-enumeration-project.md)** constants: **pjBar**, **pjArea**, **pjStep**, **pjLine**, **pjStepLine**, or **pjDoNotShow**.|
-| _TopLeftColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be a hexadecimal value, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
+| _TopLeftColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be a hexadecimal value, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 | _TopLeftPattern_|Optional|**Integer**|The bar pattern for the overallocated resources category in the upper-left corner of the  **Bar Styles** dialog box. Can be one of the **[PjResourceGraphPattern](pjresourcegraphpattern-enumeration-project.md)** constants.|
 | _BottomLeftShowAs_|Optional|**Integer**|The bar type for the allocated resources category (the middle left section) of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
-| _BottomLeftColor_|Optional|**Integer**|The bar color for the allocated resources category (the middle left section) of the  **Bar Styles** dialog box. Can be a hexadecimal value, where red is the last byte. For example, the value &;HFF00 is green.|
+| _BottomLeftColor_|Optional|**Integer**|The bar color for the allocated resources category (the middle left section) of the  **Bar Styles** dialog box. Can be a hexadecimal value, where red is the last byte. For example, the value &HFF00 is green.|
 | _BottomLeftPattern_|Optional|**Integer**|The bar pattern for the allocated resources category (the middle left section) of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
 | _TopRightShowAs_|Optional|**Integer**|The bar type for the overallocated resources category in the upper-right corner of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphStyle** constants.|
 | _TopRightColor_|Optional|**Integer**|The bar color for the overallocated resources category in the upper-right corner of the  **Bar Styles** dialog box. Can be a hexadecimal value, where red is the last byte.|
@@ -72,7 +72,7 @@ The following line of code sets proposed resources in the Resource Graph view as
 
 
 ```vb
-Application.ResourceGraphBarStylesEx ProposedRightShowAs:=pjStepLine, ProposedRightColor:=&;HD0FF00 
+Application.ResourceGraphBarStylesEx ProposedRightShowAs:=pjStepLine, ProposedRightColor:=&HD0FF00 
 
 ```
 

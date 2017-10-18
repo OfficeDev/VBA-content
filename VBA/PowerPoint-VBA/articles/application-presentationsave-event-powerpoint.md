@@ -50,10 +50,10 @@ Private Sub App_PresentationSave(ByVal Pres As Presentation)
         .FileName = "C:\HTMLPres\mallard.htm"
         .HTMLVersion = ppHTMLVersion4
 
-        MsgBox ("Saving presentation " &; "'" _
-            &; PresName &; "'" &; " in PowerPoint" _
-            &; Chr(10) &; Chr(13) _
-            &; " format and HTML version 4.0 format")
+        MsgBox ("Saving presentation " & "'" _
+            & PresName & "'" & " in PowerPoint" _
+            & Chr(10) & Chr(13) _
+            & " format and HTML version 4.0 format")
 			
         .Publish
     End With

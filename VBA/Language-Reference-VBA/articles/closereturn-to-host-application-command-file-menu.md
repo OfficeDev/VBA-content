@@ -1,5 +1,5 @@
 ---
-title: Close &; Return to <host application> Command (File Menu)
+title: Close & Return to <host application> Command (File Menu)
 keywords: vbui6.chm2057568
 f1_keywords:
 - vbui6.chm2057568
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Close &; Return to <host application> Command (File Menu)
+# Close & Return to <host application> Command (File Menu)
 
 Closes the development environment and returns you to the host application. Visual Basic is hidden but remains in memory.
 

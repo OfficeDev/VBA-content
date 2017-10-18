@@ -23,7 +23,7 @@ The following examples set a form's  **[Filter](form-filter-event-access.md)** o
 
 ```vb
 Forms!Employees.Filter = "[HireDate] >= #" _ 
- &;     Forms!Employees!HireDate &; "#" 
+ &     Forms!Employees!HireDate & "#" 
 Forms!Employees.FilterOn = True
 ```
 
@@ -33,7 +33,7 @@ Forms!Employees.FilterOn = True
 
 ```vb
 Forms!Employees.ServerFilter = "[HireDate] >= #" _ 
- &;     Forms!Employees!HireDate &; "#" 
+ &     Forms!Employees!HireDate & "#" 
 Forms!Employees.FilterOn = True
 ```
 
@@ -55,7 +55,7 @@ The following example shows how to construct a  _criteria_ argument that include
 Dim datHireDate As Date 
 datHireDate = #5-1-92# 
 Forms!Employees.Filter = "[HireDate] >= #" _ 
- &;     datHireDate &; "#"
+ &     datHireDate & "#"
 ```
 
 

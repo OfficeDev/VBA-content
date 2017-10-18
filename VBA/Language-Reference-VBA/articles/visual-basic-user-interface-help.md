@@ -51,7 +51,7 @@ ms.date: 06/08/2017
     
 - [Clearand Delete Commands (Edit Menu)](clearand-delete-commands-edit-menu.md)
     
-- [Close &; Return to <host application> Command (File Menu)](closereturn-to-host-application-command-file-menu.md)
+- [Close & Return to <host application> Command (File Menu)](closereturn-to-host-application-command-file-menu.md)
     
 - [Close Command (Shortcut Menu)](close-command-shortcut-menu.md)
     

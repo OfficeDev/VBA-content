@@ -32,9 +32,9 @@ Dim Msg
 Err.Clear
 On Error Resume Next    ' Suppress errors for demonstration purposes.
 Err.Raise 6    ' Generate "Overflow" error.
-Msg = "Press F1 or HELP to see " &; Err. HelpFile &; _
+Msg = "Press F1 or HELP to see " & Err. HelpFile & _
 " topic for this error"
-MsgBox Msg, , "Error: " &; Err.Description,Err. HelpFile
+MsgBox Msg, , "Error: " & Err.Description,Err. HelpFile
 ```
 
 

@@ -47,7 +47,7 @@ Options.CheckSpellingAsYouType = True
 ActiveDocument.ShowSpellingErrors = True
 ```
 
-This example returns the current status of the Hide spelling errors in this document checkbox in the Spelling area on the Spelling &; Grammar tab in the Options dialog box.
+This example returns the current status of the Hide spelling errors in this document checkbox in the Spelling area on the Spelling & Grammar tab in the Options dialog box.
 
 
 

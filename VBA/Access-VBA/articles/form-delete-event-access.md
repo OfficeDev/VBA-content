@@ -29,7 +29,7 @@ Occurs when the user performs some action, such as pressing the DEL key, to dele
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **Delete** event occurs. Setting the Cancel argument to **True** (?1) cancels the **Delete** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **Delete** event occurs. Setting the Cancel argument to **True** (-1) cancels the **Delete** event.|
 
 ## Remarks
 

@@ -34,7 +34,7 @@ Set myTable = newDoc.Tables.Add(Range:=Selection.Range, _
  NumRows:=3, NumColumns:=3) 
 For Each aCell In myTable.Columns(1).Cells 
  aCell.Select 
- MsgBox "This is row " &; aCell.RowIndex 
+ MsgBox "This is row " & aCell.RowIndex 
 Next aCell
 ```
 

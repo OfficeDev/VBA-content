@@ -29,7 +29,7 @@ The  **BeforeUpdate** event occurs before changed data in a control or record is
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **BeforeUpdate** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **BeforeUpdate** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **BeforeUpdate** event occurs. Setting the _Cancel_ argument to **True** (-1) cancels the **BeforeUpdate** event.|
 
 ## Remarks
 
@@ -79,7 +79,7 @@ To try the example, add the following event procedure to a form named Products t
 Private Sub ProductName_BeforeUpdate(Cancel As Integer) 
  If(Not IsNull(DLookup("[ProductName]", _ 
  "Products", "[ProductName] ='" _ 
- &; Me!ProductName &; "'"))) Then 
+ & Me!ProductName & "'"))) Then 
  MsgBox "Product has already been entered in the database." 
  Cancel = True 
  Me!ProductName.Undo 

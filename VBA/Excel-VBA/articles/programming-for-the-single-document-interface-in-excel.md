@@ -252,7 +252,7 @@ Sub ToolBarsAdd()
 End Sub
 
 Sub SayHello()
-    MsgBox "Hello from '" &; ActiveWorkbook.Name &; "'"
+    MsgBox "Hello from '" & ActiveWorkbook.Name & "'"
 End Sub
 ```
 

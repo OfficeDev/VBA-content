@@ -45,8 +45,8 @@ Sub GetAuthorName()
         .Comments.Add Left:=100, Top:=100, Author:="Jeff Smith", _
             AuthorInitials:="JS", _
             Text:="This is a new comment added to the first slide."
-        MsgBox "This comment was created by " &; _
-            .Comments(1).Author &; " (" &; .Comments(1).AuthorInitials &; ")."
+        MsgBox "This comment was created by " & _
+            .Comments(1).Author & " (" & .Comments(1).AuthorInitials & ")."
     End With
 	
 End Sub

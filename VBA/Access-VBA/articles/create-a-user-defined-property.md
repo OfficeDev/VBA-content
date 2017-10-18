@@ -23,13 +23,13 @@ Sub CreatePropertyX()
    SetProperty dbsNorthwind, "Archive", True 
     
    With dbsNorthwind 
-      Debug.Print "Properties of " &; .Name 
+      Debug.Print "Properties of " & .Name 
        
       ' Enumerate Properties collection of the Northwind  
       ' database. 
       For Each prpLoop In .Properties 
-         If prpLoop <> "" Then Debug.Print "  " &; _ 
-            prpLoop.Name &; " = " &; prpLoop 
+         If prpLoop <> "" Then Debug.Print "  " & _ 
+            prpLoop.Name & " = " & prpLoop 
       Next prpLoop 
  
       ' Delete the new property because this is a  
@@ -67,7 +67,7 @@ Err_Property:
    Else 
       ' If different error has occurred, display message. 
       For Each errLoop In DBEngine.Errors 
-         MsgBox "Error number: " &; errLoop.Number &; vbCr &; _ 
+         MsgBox "Error number: " & errLoop.Number & vbCr & _ 
             errLoop.Description 
       Next errLoop 
       End 

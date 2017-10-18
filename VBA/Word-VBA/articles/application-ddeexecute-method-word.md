@@ -62,8 +62,8 @@ This example runs the Microsoft Excel macro named "Macro1" in Personal.xls.
 Dim lngChannel As Long 
  
 lngChannel = DDEInitiate(App:="Excel", Topic:="System") 
-DDEExecute Channel:=lngChannel, Command:="[Run(" &; Chr(34) &; _ 
- "Personal.xls!Macro1" &; Chr(34) &; ")]" 
+DDEExecute Channel:=lngChannel, Command:="[Run(" & Chr(34) & _ 
+ "Personal.xls!Macro1" & Chr(34) & ")]" 
 DDETerminate Channel:=lngChannel
 ```
 

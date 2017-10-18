@@ -29,7 +29,7 @@ This example displays the percentage that the active window is scrolled vertical
 
 
 ```vb
-MsgBox ActiveDocument.ActiveWindow.VerticalPercentScrolled &; "%"
+MsgBox ActiveDocument.ActiveWindow.VerticalPercentScrolled & "%"
 ```
 
 This example scrolls the active window vertically by 10 percent.

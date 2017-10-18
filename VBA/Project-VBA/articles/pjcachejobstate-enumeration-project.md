@@ -19,7 +19,7 @@ Contains constants that specify the cache status of a job that Project Professio
 |**pjCacheJobStateCorrelationBlocked**|8|The queue job correlation is blocked; the job is not processing.|
 |**pjCacheJobStateFailed**|5|The queue job failed.|
 |**pjCacheJobStateFailedNotBlocking**|6|The queue job failed but is not blocking continued processing.|
-|**pjCacheJobStateInvalid**|-1|The queue job is not valid. (The hexadecimal value is &;HFFFFFFFF.)|
+|**pjCacheJobStateInvalid**|-1|The queue job is not valid. (The hexadecimal value is &HFFFFFFFF.)|
 |**pjCacheJobStateLastState**|13|The queue job state is the same as the previous state.|
 |**pjCacheJobStateOnHold**|10|The queue job is on hold.|
 |**pjCacheJobStateProcessing**|3|The queue job is processing.|

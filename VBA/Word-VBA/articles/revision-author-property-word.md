@@ -32,7 +32,7 @@ This example displays the author name for the first tracked change in the first 
 Dim rngSection as Range 
  
 Set rngSection = Selection.Sections(1).Range 
-MsgBox "Revisions made by " &; rngSection.Revisions(1).Author
+MsgBox "Revisions made by " & rngSection.Revisions(1).Author
 ```
 
 

@@ -55,18 +55,18 @@ Set cst = Server.CreateObject("ADOMD.CellSet")
 '*** present on network 
 '************************************************************************ 
    OLAPServerName = "Please set to present OLAP Server" 
-   cat.ActiveConnection = "Data Source='" &; OLAPServerName &; _ 
+   cat.ActiveConnection = "Data Source='" & OLAPServerName & _ 
       "';Initial Catalog='FoodMart';Provider='msolap';" 
  
 '************************************************************************ 
 '*** Use default MDX Query string of a known query that works 
 '*** with default server Set MDXQuery Session Object to default value 
 '************************************************************************ 
-   strSource = strSource &; "SELECT " 
-   strSource = strSource &; "{[Measures].members} ON COLUMNS," 
-   strSource = strSource &; _ 
+   strSource = strSource & "SELECT " 
+   strSource = strSource & "{[Measures].members} ON COLUMNS," 
+   strSource = strSource & _ 
       "NON EMPTY [Store].[Store City].members ON ROWS" 
-   strSource = strSource &; " FROM Sales" 
+   strSource = strSource & " FROM Sales" 
  
 '************************************************************************ 
 '*** Set Cell Set Source property to strSource to be passed on cell set '*** open method 
@@ -162,7 +162,7 @@ intPC1 = cst.Axes(1).Positions.Count - 1
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

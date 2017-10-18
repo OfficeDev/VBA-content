@@ -32,10 +32,10 @@ The following example lists all the reports in the current database and when the
 Dim acobjLoop As AccessObject 
  
 For Each acobjLoop In CurrentProject.AllReports 
- With acobjLoop 
- Debug.Print .Name &; " - Created " &; .DateCreated _ 
- &; " - Modified " &; .DateModified 
- End With 
+  With acobjLoop 
+    Debug.Print .Name & " - Created " & .DateCreated _ 
+    & " - Modified " & .DateModified 
+  End With 
 Next acobjLoop
 ```
 

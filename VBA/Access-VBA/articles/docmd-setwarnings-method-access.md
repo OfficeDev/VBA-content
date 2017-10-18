@@ -29,7 +29,7 @@ The  **SetWarnings** method carries out the SetWarnings action in Visual Basic.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _WarningsOn_|Required|**Variant**|Use  **True** (?1) to turn on the display of system messages and **False** (0) to turn it off.|
+| _WarningsOn_|Required|**Variant**|Use  **True** (-1) to turn on the display of system messages and **False** (0) to turn it off.|
 
 ## Remarks
 

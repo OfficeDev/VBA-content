@@ -72,8 +72,8 @@ This example displays a count of all shapes on the first page of the active publ
 
 ```vb
 Sub CountShapesOnFirstPage() 
- MsgBox "You have " &; ActiveDocument.Pages(1) _ 
- .Shapes.Count &; " shapes on the first page." 
+ MsgBox "You have " & ActiveDocument.Pages(1) _ 
+ .Shapes.Count & " shapes on the first page." 
 End Sub
 ```
 

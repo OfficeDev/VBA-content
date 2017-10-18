@@ -35,7 +35,7 @@ Displays a cached document, if it has already been downloaded. Otherwise, this m
 | _AddHistory_|Optional|**Boolean**|**True** to add the link to the current day's history folder.|
 | _ExtraInfo_|Optional|**String**|String or byte array that specifies information for HTTP. This argument can be used, for example, to specify the coordinates of an image map or the contents of a form. It can also indicate a FAT file name. The Method argument determines how this extra information is handled.|
 | _Method_|Optional|**MsoExtraInfoMethod**|Specifies how ExtraInfo is posted or appended.|
-| _HeaderInfo_|Optional|**String**| A string that specifies header information for the HTTP request. The default value is an empty string. You can combine several header lines into a single string by using the following syntax: "string1" &; vbCr &; "string2". The specified string is automatically converted into ANSI characters. Note that the HeaderInfo argument may overwrite default HTTP header fields.|
+| _HeaderInfo_|Optional|**String**| A string that specifies header information for the HTTP request. The default value is an empty string. You can combine several header lines into a single string by using the following syntax: "string1" & vbCr & "string2". The specified string is automatically converted into ANSI characters. Note that the HeaderInfo argument may overwrite default HTTP header fields.|
 
 ### Return Value
 

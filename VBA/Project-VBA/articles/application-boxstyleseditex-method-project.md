@@ -34,7 +34,7 @@ Sets the style of boxes in the Network Diagram view, where colors can be hexadec
 | _HorizontalGridlines_|Optional|**Boolean**|**True** if horizontal gridlines separate each row in the box; otherwise, **False**.|
 | _VerticalGridlines_|Optional|**Boolean**|**True** if vertical gridlines separate each row in the box; otherwise, **False**.|
 | _BorderShape_|Optional|**Long**|The shape of the box border. Can be one of the  **[PjBoxShape](pjboxshape-enumeration-project.md)** constants.|
-| _BorderColor_|Optional|**Long**|The color of the box border. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow. |
+| _BorderColor_|Optional|**Long**|The color of the box border. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow. |
 | _BorderWidth_|Optional|**Long**|A value from 1 through 4 that specifies the width of the box border, in pixels.|
 | _BackgroundColor_|Optional|**Long**|The color of the box background. Can be a hexadecimal value for the RGB color.|
 | _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the [PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md) constants.|
@@ -60,8 +60,8 @@ Sub BoxStyles_EditCritical()
  ViewApply Name:="Network Diagram" 
  
  BoxStylesEditEx Style:=pjBoxCritical, BorderShape:=pjBoxRoundedRectangle, VerticalGridlines:=True, _ 
- BorderColor:=&;HB0, BorderWidth:=3, _ 
- BackgroundColor:=&;HE0E0E0, BackgroundPattern:=pjBackgroundLightDither 
+ BorderColor:=&HB0, BorderWidth:=3, _ 
+ BackgroundColor:=&HE0E0E0, BackgroundPattern:=pjBackgroundLightDither 
 End Sub
 ```
 

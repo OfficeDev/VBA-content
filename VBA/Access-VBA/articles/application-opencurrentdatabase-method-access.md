@@ -76,9 +76,9 @@ Sub DisplayForm()
  
  ' Initialize string to database path. 
  Const strConPathToSamples = "C:\Program " _ 
- &; "Files\Microsoft Office\Office11\Samples\" 
+ & "Files\Microsoft Office\Office11\Samples\" 
  
- strDB = strConPathToSamples &; "Northwind.mdb" 
+ strDB = strConPathToSamples & "Northwind.mdb" 
  ' Create new instance of Microsoft Access. 
  Set appAccess = _ 
  CreateObject("Access.Application") 

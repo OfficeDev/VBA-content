@@ -34,7 +34,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
  _bstr_t Password , long Options ); 
  
 _RecordsetPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenschema_HV10294568.xml( enum SchemaEnum Schema , const 
- _variant_t &; Restrictions  = vtMissing, const _variant_t &; 
+ _variant_t & Restrictions  = vtMissing, const _variant_t & 
  SchemaID  =vtMissing); 
 
 ```
@@ -104,7 +104,7 @@ __declspec(property(get=GetState)) long Invalid DDUE based on source, error:link
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

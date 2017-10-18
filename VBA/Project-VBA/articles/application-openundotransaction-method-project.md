@@ -47,7 +47,7 @@ Sub CreateTasksWithUndoTransaction()
     Application.OpenUndoTransaction "Create 6 tasks" 
     Dim i As Integer 
     For i = 1 To 6 
-        ActiveProject.Tasks.Add "UndoMe " &; i 
+        ActiveProject.Tasks.Add "UndoMe " & i 
     Next 
     Application.CloseUndoTransaction  
 End Sub

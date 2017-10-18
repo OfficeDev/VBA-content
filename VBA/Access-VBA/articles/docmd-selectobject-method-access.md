@@ -30,7 +30,7 @@ The  **SelectObject** method carries out the SelectObject action in Visual Basic
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcObjectType**|A  **[AcObjectType](acobjecttype-enumeration-access.md)** constant that specifies the type of object you want to select.|
-| _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument. This is a required argument, unless you specify **True** (?1) for the _InNavigationPane_ argument.|
+| _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument. This is a required argument, unless you specify **True** (-1) for the _InNavigationPane_ argument.|
 | _InNavigationPane_|Optional|**Variant**|Use  **True** to select the object in the Database window. Use **False** (0) to select an object that's already open. If you leave this argument blank, the default ( **False** ) is assumed.|
 
 ## Remarks

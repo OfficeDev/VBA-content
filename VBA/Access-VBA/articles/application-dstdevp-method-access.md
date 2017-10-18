@@ -85,10 +85,10 @@ Dim dblY As Double
 strCountry = "UK" 
  
 dblX = DStDev("[Freight]", "Orders", _ 
-    "[ShipCountry] = '" &; strCountry &; "'") 
+    "[ShipCountry] = '" & strCountry & "'") 
  
 dblY = DStDevP("[Freight]", "Orders", _ 
-    "[ShipCountry] = '" &; strCountry &; "'")
+    "[ShipCountry] = '" & strCountry & "'")
 ```
 
 
@@ -118,24 +118,24 @@ The following examples show how to use various types of criteria with the  **DSt
     ' ***************************
     ' Referring to a control on a form
     ' Numerical values
-    variable = DStDevP("[FieldName]", "TableName", "[Criteria] = " &; Forms!FormName!ControlName)
+    variable = DStDevP("[FieldName]", "TableName", "[Criteria] = " & Forms!FormName!ControlName)
 
     ' Strings
-    variable = DStDevP("[FieldName]", "TableName", "[Criteria] = '" &; Forms!FormName!ControlName &; "'")
+    variable = DStDevP("[FieldName]", "TableName", "[Criteria] = '" & Forms!FormName!ControlName & "'")
 
     ' Dates
-    variable = DStDevP("[FieldName]", "TableName", "[Criteria] = #" &; Forms!FormName!ControlName &; "#")
+    variable = DStDevP("[FieldName]", "TableName", "[Criteria] = #" & Forms!FormName!ControlName & "#")
     ' ***************************
 
     ' ***************************
     ' Combinations
     ' Multiple types of criteria
-    variable = DStDevP("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
-             &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
-            &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
+    variable = DStDevP("[FieldName]", "TableName", "[Criteria1] = " & Forms![FormName]![Control1] _
+             & " AND [Criteria2] = '" & Forms![FormName]![Control2] & "'" _
+            & " AND [Criteria3] =#" & Forms![FormName]![Control3] & "#")
     
     ' Use two fields from a single record.
-    variable = DStDevP("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
+    variable = DStDevP("[LastName] & ', ' & [FirstName]", "tblPeople", "[PrimaryKey] = 7")
             
     ' Expressions
     variable = DStDevP("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")

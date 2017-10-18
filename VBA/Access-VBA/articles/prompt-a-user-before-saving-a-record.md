@@ -17,8 +17,8 @@ Private Sub Form_BeforeUpdate(Cancel As Integer)
    Dim iResponse As Integer 
  
    ' Specify the message to display. 
-   strMsg = "Do you wish to save the changes?" &; Chr(10) 
-   strMsg = strMsg &; "Click Yes to Save or No to Discard changes." 
+   strMsg = "Do you wish to save the changes?" & Chr(10) 
+   strMsg = strMsg & "Click Yes to Save or No to Discard changes." 
  
    ' Display the message box. 
    iResponse = MsgBox(strMsg, vbQuestion + vbYesNo, "Save Record?") 

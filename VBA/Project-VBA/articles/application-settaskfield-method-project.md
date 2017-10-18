@@ -59,7 +59,7 @@ Sub Set_TaskField()
     ' Save the task name 
     OldName = T.GetField(pjTaskName) 
  
-    ViewApply Name:="&;Gantt Chart" 
+    ViewApply Name:="&Gantt Chart" 
     SetTaskField Field:="Name", Value:="New Task's Name", TaskID:=3 
     SetTaskField Field:="Name", Value:=OldName, TaskID:=3 
 End Sub

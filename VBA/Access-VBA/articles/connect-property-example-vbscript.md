@@ -63,8 +63,8 @@ CONNECT: <INPUT Name="txtConnect" Size="100"><BR>SQL: <INPUT Name="txtSQL" Size=
 <Script Language="VBScript">' Set parameters of RDS.DataControl at Run Time
 Sub Run_OnClickDim Cnxn
 ' build connection stringCnxn = "Provider='sqloledb';"
-Cnxn = Cnxn &; "Data Source="Cnxn = Cnxn &; document.frmInput.txtDataSource.value &; ";"
-Cnxn = Cnxn &; "Initial Catalog='Northwind';"Cnxn = Cnxn &; "Integrated Security='SSPI';"
+Cnxn = Cnxn & "Data Source="Cnxn = Cnxn & document.frmInput.txtDataSource.value & ";"
+Cnxn = Cnxn & "Initial Catalog='Northwind';"Cnxn = Cnxn & "Integrated Security='SSPI';"
 ' assign the valuedocument.frmInput.txtConnect.value = Cnxn
 MsgBox "Here we go!"' set RDS properties
 RDS.Server = document.frmInput.txtServer.valueRDS.SQL = document.frmInput.txtSQL.value
@@ -77,7 +77,7 @@ End Sub</Script>
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

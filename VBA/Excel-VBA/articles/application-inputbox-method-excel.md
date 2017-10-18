@@ -98,7 +98,7 @@ Set myCell = Application.InputBox( _
     prompt:="Select a cell", Type:=8)
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It?s 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It?s 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example uses an InputBox for the user to select a range to pass to the user-defined function ?MyFunction?, which multiplies three values in a range together and returns the result.
 
@@ -113,8 +113,8 @@ Sub Cbm_Value_Select()
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
-     MsgBox "Length, width and height are needed -" &; _
-         vbLf &; "please select three cells!"
+     MsgBox "Length, width and height are needed -" & _
+         vbLf & "please select three cells!"
       Exit Sub
    End If
    

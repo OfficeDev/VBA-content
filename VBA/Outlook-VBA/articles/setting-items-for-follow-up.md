@@ -57,9 +57,9 @@ Private Sub TableForIsMarkedAsTask()
  
  ' Define a DASL filter string that filters only those items 
  ' with an IsMarkedAsTask property value set to True. 
- strFilter = "@SQL=" &; Chr(34) &; _ 
- "http://schemas.microsoft.com/mapi/proptag/0x0E2B0003" &; _ 
- Chr(34) &; " = 1" 
+ strFilter = "@SQL=" & Chr(34) & _ 
+ "http://schemas.microsoft.com/mapi/proptag/0x0E2B0003" & _ 
+ Chr(34) & " = 1" 
  
  ' Use the filter to construct a table of Outlook items 
  ' retrieved from the Inbox default folder. 
@@ -94,7 +94,7 @@ EndRoutine:
  Exit Sub 
  
 ErrRoutine: 
- MsgBox Err.Number &; " - " &; Err.Description, _ 
+ MsgBox Err.Number & " - " & Err.Description, _ 
  vbOKOnly Or vbCritical, _ 
  "TableForIsMarkedAsTask" 
  

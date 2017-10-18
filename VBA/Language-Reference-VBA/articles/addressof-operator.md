@@ -98,23 +98,23 @@ Type NEWTEXTMETRIC
 End Type
 
 ' ntmFlags field flags
-Public Const NTM_REGULAR = &;H40&;
-Public Const NTM_BOLD = &;H20&;
-Public Const NTM_ITALIC = &;H1&;
+Public Const NTM_REGULAR = &H40&
+Public Const NTM_BOLD = &H20&
+Public Const NTM_ITALIC = &H1&
 
 '  tmPitchAndFamily flags
-Public Const TMPF_FIXED_PITCH = &;H1
-Public Const TMPF_VECTOR = &;H2
-Public Const TMPF_DEVICE = &;H8
-Public Const TMPF_TRUETYPE = &;H4
+Public Const TMPF_FIXED_PITCH = &H1
+Public Const TMPF_VECTOR = &H2
+Public Const TMPF_DEVICE = &H8
+Public Const TMPF_TRUETYPE = &H4
 
 Public Const ELF_VERSION = 0
 Public Const ELF_CULTURE_LATIN = 0
 
 '  EnumFonts Masks
-Public Const RASTER_FONTTYPE = &;H1
-Public Const DEVICE_FONTTYPE = &;H2
-Public Const TRUETYPE_FONTTYPE = &;H4
+Public Const RASTER_FONTTYPE = &H1
+Public Const DEVICE_FONTTYPE = &H2
+Public Const TRUETYPE_FONTTYPE = &H4
 
 Declare Function EnumFontFamilies Lib "gdi32" Alias _
      "EnumFontFamiliesA" _

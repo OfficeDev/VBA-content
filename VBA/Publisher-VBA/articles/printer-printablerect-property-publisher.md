@@ -54,11 +54,11 @@ Public Sub PrintableRect_Example()
  For Each pubPrinter In pubInstalledPrinters 
  If pubPrinter.IsActivePrinter Then 
  With pubPrinter.PrintableRect 
- Debug.Print "Printable area is " &; PointsToInches(.Width) &; " by " &; PointsToInches(.Height) &; " inches." 
- Debug.Print "Left Boundary: " &; PointsToInches(.Left) &; " inches (from left)." 
- Debug.Print "Right Boundary: " &; PointsToInches(.Left + .Width) &; " inches (from left)." 
- Debug.Print "Top Boundary: " &; PointsToInches(.Top) &; " inches(from top)." 
- Debug.Print "Bottom Boundary: " &; PointsToInches(.Top + .Height) &; " inches (from top)." 
+ Debug.Print "Printable area is " & PointsToInches(.Width) & " by " & PointsToInches(.Height) & " inches." 
+ Debug.Print "Left Boundary: " & PointsToInches(.Left) & " inches (from left)." 
+ Debug.Print "Right Boundary: " & PointsToInches(.Left + .Width) & " inches (from left)." 
+ Debug.Print "Top Boundary: " & PointsToInches(.Top) & " inches(from top)." 
+ Debug.Print "Bottom Boundary: " & PointsToInches(.Top + .Height) & " inches (from top)." 
  End With 
  End If 
  Next 

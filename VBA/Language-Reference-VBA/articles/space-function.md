@@ -31,7 +31,7 @@ Dim MyString
 MyString = Space(10)
 
 ' Insert 10 spaces between two strings.
-MyString = "Hello" &; Space(10) &; "World"
+MyString = "Hello" & Space(10) & "World"
 
 
 ```

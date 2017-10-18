@@ -32,7 +32,7 @@ This example displays the name of the active workbook.
 
 
 ```vb
-MsgBox "The name of the active workbook is " &; ActiveWorkbook.Name
+MsgBox "The name of the active workbook is " & ActiveWorkbook.Name
 ```
 
 

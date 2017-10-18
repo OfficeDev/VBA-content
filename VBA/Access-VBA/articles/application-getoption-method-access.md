@@ -50,7 +50,7 @@ The available option settings depend on the type of option being set. There are 
     
 - Predefined options that can be chosen from a list box, combo box, or option group.
     
-For options that the user sets by selecting or clearing a check box, the  **GetOption** method returns **True** (?1) if the option setting is Yes (the check box is selected) or **False** (0) if the option setting is No (the check box is cleared). To set an option of this kind by using the **SetOption** method, specify **True** or **False** for the setting argument, as in the following example:
+For options that the user sets by selecting or clearing a check box, the  **GetOption** method returns **True** (-1) if the option setting is Yes (the check box is selected) or **False** (0) if the option setting is No (the check box is cleared). To set an option of this kind by using the **SetOption** method, specify **True** or **False** for the setting argument, as in the following example:
 
 
 

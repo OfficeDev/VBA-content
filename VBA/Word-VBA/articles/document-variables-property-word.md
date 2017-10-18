@@ -45,7 +45,7 @@ This example displays the name and value of each document variable in the active
 
 ```vb
 For Each myVar In ActiveDocument.Variables 
- MsgBox "Name =" &; myVar.Name &; vbCr &; "Value = " &; myVar.Value 
+ MsgBox "Name =" & myVar.Name & vbCr & "Value = " & myVar.Value 
 Next myVar
 ```
 

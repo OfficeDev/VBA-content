@@ -30,7 +30,7 @@ This example displays the position number of the PivotTable item that contains t
 
 ```vb
 Worksheets("Sheet1").Activate 
-MsgBox "The active item is in position number " &; _ 
+MsgBox "The active item is in position number " & _ 
  ActiveCell.PivotItem.Position
 ```
 

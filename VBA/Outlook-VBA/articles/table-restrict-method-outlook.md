@@ -48,8 +48,8 @@ Since the filter is applied to the rows in the  **Table** object, this is equiva
 
 
 ```
-criteria = "[LastModificationTime] < '" &; Format$("6/12/2005 3:30PM","General Date") &; "'"criteria = "@SQL=" &; Chr(34) &; "DAV:getlastmodified" &; Chr(34) 
- &; " < '" &; Format$("6/12/2005 3:30PM","General Date") &; "'" 
+criteria = "[LastModificationTime] < '" & Format$("6/12/2005 3:30PM","General Date") & "'"criteria = "@SQL=" & Chr(34) & "DAV:getlastmodified" & Chr(34) 
+ & " < '" & Format$("6/12/2005 3:30PM","General Date") & "'" 
 
 ```
 

@@ -31,7 +31,7 @@ Sub ChkFirstWhile()
         myNum = myNum - 1 
         counter = counter + 1 
     Loop 
-    MsgBox "The loop made " &; counter &; " repetitions." 
+    MsgBox "The loop made " & counter & " repetitions." 
 End Sub 
  
 Sub ChkLastWhile() 
@@ -41,7 +41,7 @@ Sub ChkLastWhile()
         myNum = myNum - 1 
         counter = counter + 1 
     Loop While myNum > 10 
-    MsgBox "The loop made " &; counter &; " repetitions." 
+    MsgBox "The loop made " & counter & " repetitions." 
 End Sub
 ```
 
@@ -59,7 +59,7 @@ Sub ChkFirstUntil()
         myNum = myNum - 1 
         counter = counter + 1 
     Loop 
-    MsgBox "The loop made " &; counter &; " repetitions." 
+    MsgBox "The loop made " & counter & " repetitions." 
 End Sub 
  
 Sub ChkLastUntil() 
@@ -69,7 +69,7 @@ Sub ChkLastUntil()
         myNum = myNum + 1 
         counter = counter + 1 
     Loop Until myNum = 10 
-    MsgBox "The loop made " &; counter &; " repetitions." 
+    MsgBox "The loop made " & counter & " repetitions." 
 End Sub
 ```
 
@@ -92,7 +92,7 @@ Sub ExitExample()
         counter = counter + 1 
         If myNum < 10 Then Exit Do 
     Loop 
-    MsgBox "The loop made " &; counter &; " repetitions." 
+    MsgBox "The loop made " & counter & " repetitions." 
 End Sub
 ```
 

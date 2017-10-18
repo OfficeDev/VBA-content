@@ -48,13 +48,13 @@ strTripleState = Forms.Item("frmOperations").Controls.Item("Check1").TripleState
  
 Select Case strTripleState 
  Case True 
- MsgBox "For Check1, TripleState = " &; strTripleState &; _ 
- ". The control will cycle through states for Yes, No, " &; _ 
- "and Null values. The control appears dimmed (grayed) " &; _ 
+ MsgBox "For Check1, TripleState = " & strTripleState & _ 
+ ". The control will cycle through states for Yes, No, " & _ 
+ "and Null values. The control appears dimmed (grayed) " & _ 
  "when its Value property is set to Null." 
  Case False 
- MsgBox "For Check1, TripleState = " &; strTripleState &; _ 
- ". The control will cycle through states for Yes and No " &; _ 
+ MsgBox "For Check1, TripleState = " & strTripleState & _ 
+ ". The control will cycle through states for Yes and No " & _ 
  "values. Null values display as if they were No values." 
  Case Else 
  MsgBox "Can't determine the TripleState property for Check1." 

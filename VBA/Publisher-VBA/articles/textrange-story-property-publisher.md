@@ -32,7 +32,7 @@ This example returns the story in the selected text range and, if it is in a tex
 Sub AddTextToStory() 
  With Selection.TextRange.Story 
  If .HasTextFrame Then 
- .TextRange.InsertAfter NewText:=vbLf &; "This is a test." 
+ .TextRange.InsertAfter NewText:=vbLf & "This is a test." 
  End If 
  End With 
 End Sub

@@ -48,7 +48,7 @@ This example adds a hyperlink to the selection in the active document, sets the 
 Set SCut = ActiveDocument.Hyperlinks.Add( _ 
  Anchor:= Selection.Range, _ 
  Address:="C:\My Documents\Other.doc", SubAddress:= "temp") 
-MsgBox "The hyperlink goes to " &; SCut.SubAddress
+MsgBox "The hyperlink goes to " & SCut.SubAddress
 ```
 
 

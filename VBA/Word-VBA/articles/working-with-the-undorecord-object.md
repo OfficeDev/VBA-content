@@ -27,7 +27,7 @@ Dim rngFooter As Range
     With rngFooter 
         .Delete 
         .Fields.Add Range:=rngFooter, Type:=wdFieldFileName, Text:="\p" 
-        .InsertAfter Text:=vbTab &; vbTab 
+        .InsertAfter Text:=vbTab & vbTab 
         .Collapse Direction:=wdCollapseStart 
         .Fields.Add Range:=rngFooter, Type:=wdFieldAuthor 
     End With     
@@ -65,7 +65,7 @@ objUndo.StartCustomRecord ("Add Doc Metadata")
  With rngFooter 
         .Delete 
         .Fields.Add Range:=rngFooter, Type:=wdFieldFileName, Text:="\p" 
-        .InsertAfter Text:=vbTab &; vbTab 
+        .InsertAfter Text:=vbTab & vbTab 
         .Collapse Direction:=wdCollapseStart 
         .Fields.Add Range:=rngFooter, Type:=wdFieldAuthor 
  End With 

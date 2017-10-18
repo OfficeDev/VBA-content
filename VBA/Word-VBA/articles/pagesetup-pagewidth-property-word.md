@@ -36,7 +36,7 @@ This example returns the page width for Document1. The  **[PointsToInches](globa
 ```vb
 Set doc1set = Documents("Document1").PageSetup 
 Msgbox "The page width is " _ 
- &; PointsToInches(doc1set.PageWidth) &; " inches."
+ & PointsToInches(doc1set.PageWidth) & " inches."
 ```
 
 

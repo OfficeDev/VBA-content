@@ -53,7 +53,7 @@ On Error GoTo ErrorHandler
          .Edit 
          ![ReportsTo] = 5 
          ![Title] = "Temporary" 
-         ![Notes] = rstEmployees![Notes] &; "Temp #" &; intI 
+         ![Notes] = rstEmployees![Notes] & "Temp #" & intI 
          .Update 
          .MoveNext 
          intI = intI + 1 
@@ -69,7 +69,7 @@ On Error GoTo ErrorHandler
    Exit Sub 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Sub
 ```
 

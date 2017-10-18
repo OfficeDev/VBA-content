@@ -35,7 +35,7 @@ Private Sub ShipperID_NotInList(NewData As String, Response As Integer)
 
 On Error GoTo ErrorHandler
 
-   intAnswer = MsgBox("Add " &; NewData &; " to the list of shippers?", _
+   intAnswer = MsgBox("Add " & NewData & " to the list of shippers?", _
       vbQuestion + vbYesNo)
 
    If intAnswer = vbYes Then
@@ -62,7 +62,7 @@ On Error GoTo ErrorHandler
    Exit Sub
 
 ErrorHandler:
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description
 End Sub
 ```
 

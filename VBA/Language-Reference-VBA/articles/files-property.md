@@ -32,8 +32,8 @@ Sub ShowFileList(folderspec)
     Set f = fs.GetFolder(folderspec)
     Set fc = f.Files
     For Each f1 in fc
-        s = s &; f1.name 
-        s = s &;  vbCrLf
+        s = s & f1.name 
+        s = s &  vbCrLf
     Next
     MsgBox s
 End Sub

@@ -144,9 +144,9 @@ In your Visual Studio project, in the Form1.cs file, add the following code to i
     {
         private AxVisioViewer.AxViewer viewer;
 
-        /// &;lt;summary&;gt;
+        /// &lt;summary&gt;
         /// The Visio Viewer OM
-        /// &;lt;/summary&;gt;
+        /// &lt;/summary&gt;
         public AxVisioViewer.AxViewer Viewer
         {
             get

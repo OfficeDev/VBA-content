@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The  **ClassID** property raises an exception if the shape doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&;H8000) is set in the value returned by **Shape** . **ForeignType** .
+The  **ClassID** property raises an exception if the shape doesn't represent an ActiveX control or an OLE 2.0 embedded or linked object. A shape represents an ActiveX control or an OLE 2.0 embedded or linked object if the **visTypeIsOLE2** bit (&H8000) is set in the value returned by **Shape** . **ForeignType** .
 
  **ClassID** returns a string of the form:
 

@@ -47,7 +47,7 @@ Private Sub Form_Current()
  
  intCurTop = Me.CurrentSectionTop 
  intCurLeft = Me.CurrentSectionLeft 
- Me!lblStatus.Caption = intCurLeft &; " , " &; intCurTop 
+ Me!lblStatus.Caption = intCurLeft & " , " & intCurTop 
  
 End Sub
 ```

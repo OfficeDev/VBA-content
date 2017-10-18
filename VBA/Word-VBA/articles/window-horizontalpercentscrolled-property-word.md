@@ -30,7 +30,7 @@ This example displays the percentage that the active window is scrolled horizont
 
 ```vb
 MsgBox _ 
- ActiveDocument.ActiveWindow.HorizontalPercentScrolled &; "%"
+ ActiveDocument.ActiveWindow.HorizontalPercentScrolled & "%"
 ```
 
 

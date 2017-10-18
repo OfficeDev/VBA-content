@@ -50,8 +50,8 @@ If ActiveDocument.ColorMode <> pbColorModeSpot And _
 Else 
  For Each plaLoop In plaTemp 
  With plaLoop 
- Debug.Print "Plate " &; .Name _ 
- &; " has a luminance of " &; .Luminance 
+ Debug.Print "Plate " & .Name _ 
+ & " has a luminance of " & .Luminance 
  End With 
  Next plaLoop 
 End If

@@ -46,7 +46,7 @@ Values(1) = 22000 : Values(2) = 25000
 Values(3) = 28000 : Values(4) = 31000
 RetRate = MIRR(Values(), LoanAPR, InvAPR)    ' Calculate internal rate.
 Msg = "The modified internal rate of return for these five cash flows is"
-Msg = Msg &; Format(Abs(RetRate) * 100, Fmt) &; "%."
+Msg = Msg & Format(Abs(RetRate) * 100, Fmt) & "%."
 MsgBox Msg    ' Display internal return 
         ' rate.
 ```

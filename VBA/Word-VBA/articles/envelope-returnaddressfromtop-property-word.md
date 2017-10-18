@@ -34,10 +34,10 @@ This example creates a new document and adds an envelope with a predefined deliv
 
 
 ```vb
-addr = "Eric Lang" &; vbCr &; "123 Main" _ 
- &; vbCr &; "Seattle, WA 98040" 
-retaddr = "Nate Sun" &; vbCr &; "123 Main" _ 
- &; vbCr &; "Bellevue, WA 98004" 
+addr = "Eric Lang" & vbCr & "123 Main" _ 
+ & vbCr & "Seattle, WA 98040" 
+retaddr = "Nate Sun" & vbCr & "123 Main" _ 
+ & vbCr & "Bellevue, WA 98004" 
 With Documents.Add.Envelope 
  .Insert Address:=addr, ReturnAddress:=retaddr 
  .ReturnAddressFromTop = InchesToPoints(0.5) 

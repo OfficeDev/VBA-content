@@ -36,7 +36,7 @@ In Visual Basic , the  **ColumnWidth** property setting is an **Integer** value 
 
  **Note**  The  **ColumnWidth** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-Setting this property to 0, or resizing the field to a zero width in Datasheet view, sets the field's  **ColumnHidden** property to **True** (?1) and hides the field in Datasheet view.
+Setting this property to 0, or resizing the field to a zero width in Datasheet view, sets the field's  **ColumnHidden** property to **True** (-1) and hides the field in Datasheet view.
 
 Setting a field's  **ColumnHidden** property to **False** (0) restores the field's **ColumnWidth** property to the value it had before the field was hidden. For example, if the **ColumnWidth** property was ?1 prior to the field being hidden by setting the property to 0, changing the field's **ColumnHidden** property to **False** resets the **ColumnWidth** to ?1.
 

@@ -26,7 +26,7 @@ The following example
 
 
 ```
-m_sConnStr = "Provider='SQLOLEDB';Data Source='MySqlServer';" &; _ 
+m_sConnStr = "Provider='SQLOLEDB';Data Source='MySqlServer';" & _ 
  "Initial Catalog='Northwind';Integrated Security='SSPI';"
 ```
 

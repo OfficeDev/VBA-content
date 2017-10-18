@@ -63,11 +63,11 @@ For Each pgLoop In ActiveDocument.Pages
  
  If .IsTrueColor = msoFalse Then 
  Debug.Print .Filename 
- Debug.Print "This picture has " &; .ColorsInPalette &; " colors." 
+ Debug.Print "This picture has " & .ColorsInPalette & " colors." 
  If .IsLinked = msoTrue Then 
  If .OriginalIsTrueColor = msoFalse Then 
- Debug.Print "The linked picture has " &; _ 
- .OriginalColorsInPalette &; " colors." 
+ Debug.Print "The linked picture has " & _ 
+ .OriginalColorsInPalette & " colors." 
  End If 
  End If 
  End If 

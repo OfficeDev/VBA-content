@@ -68,8 +68,8 @@ Sub FirstLastX1()
     ' Return the values from the LastName field of the  
     ' first and last records returned from the table. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "First(LastName) as First, " _ 
-        &; "Last(LastName) as Last FROM Employees;") 
+        & "First(LastName) as First, " _ 
+        & "Last(LastName) as Last FROM Employees;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -102,8 +102,8 @@ Sub FirstLastX2()
     ' Find the earliest and latest birth dates of 
     ' Employees. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "First(BirthDate) as FirstBD, " _ 
-        &; "Last(BirthDate) as LastBD FROM Employees;") 
+        & "First(BirthDate) as FirstBD, " _ 
+        & "Last(BirthDate) as LastBD FROM Employees;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -118,8 +118,8 @@ Sub FirstLastX2()
     ' Find the earliest and latest birth dates of 
     ' Employees. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "Min(BirthDate) as MinBD," _ 
-        &; "Max(BirthDate) as MaxBD FROM Employees;") 
+        & "Min(BirthDate) as MinBD," _ 
+        & "Max(BirthDate) as MaxBD FROM Employees;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -144,7 +144,7 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

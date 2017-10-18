@@ -106,8 +106,8 @@ Sub OrderByX()
     ' the Employees table, and sort them in descending  
     ' order. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
-        &; "FirstName FROM Employees " _ 
-        &; "ORDER BY LastName DESC;") 
+        & "FirstName FROM Employees " _ 
+        & "ORDER BY LastName DESC;") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -129,7 +129,7 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

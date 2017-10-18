@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following code example verifies that a value entered in the range A1:B20 exists within that range on any of the worksheets in the current workbook and prevents duplicate entries if the value exists.
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 
 
@@ -31,7 +31,7 @@ Private Sub Workbook_SheetChange(ByVal Sh As Object, ByVal Target As Range)
     'If the value entered already exists in the defined range on the current worksheet, throw an
     'error message and undo the entry.
     If WorksheetFunction.CountIf(EvalRange, Target.Value) > 1 Then
-        MsgBox Target.Value &; " already exists on this sheet."
+        MsgBox Target.Value & " already exists on this sheet."
         Application.EnableEvents = False
         Application.Undo
         Application.EnableEvents = True
@@ -44,8 +44,8 @@ Private Sub Workbook_SheetChange(ByVal Sh As Object, ByVal Target As Range)
                 'If the value entered already exists in the defined range on the current worksheet, throw an
                 'error message and undo the entry.
                 If WorksheetFunction.CountIf(Sheets(.Name).Range("A1:B20"), Target.Value) > 0 Then
-                    MsgBox Target.Value &; " already exists on the sheet named " &; .Name &; ".", _
-                    16, "No duplicates allowed in " &; EvalRange.Address(0, 0) &; "."
+                    MsgBox Target.Value & " already exists on the sheet named " & .Name & ".", _
+                    16, "No duplicates allowed in " & EvalRange.Address(0, 0) & "."
                     Application.EnableEvents = False
                     Application.Undo
                     Application.EnableEvents = True

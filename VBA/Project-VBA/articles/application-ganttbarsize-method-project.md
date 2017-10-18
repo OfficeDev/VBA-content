@@ -45,7 +45,7 @@ The following example set the bar size to pjBarSize24.
 Sub GanttBar_Size() 
  
  'Activate Gantt Chart view 
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  GanttBarSize Size:= 
 pjBarSize24
 ```

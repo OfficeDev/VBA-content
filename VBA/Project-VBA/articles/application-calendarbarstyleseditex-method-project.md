@@ -32,7 +32,7 @@ Changes the style of the specified type of bar in the Calendar view, where  _Col
 | _Item_|Required|**Long**|The type of calendar bar style to edit. Can be one of the following  **[PjBarItem](pjbaritem-enumeration-project.md)** constants: **pjBarNonCritical**, **pjBarCritical**, **pjBarSummary**, **pjBarMilestone**, **pjBarMarked**, **pjBarHighlighted**, **pjBarProjectSummary**, or **pjBarExternalTask**.|
 | _Bar_|Optional|**Long**|The bar type. Can be one of the following  **[PjCalendarBarType](pjcalendarbartype-enumeration-project.md)** constants: **pjNormalBar**, **pjLineBar**, or **pjNoBar**.|
 | _Pattern_|Optional|**Long**|The bar pattern. Can be one of the  **[PjFillPattern](pjfillpattern-enumeration-project.md)** constants.|
-| _Color_|Optional|**Long**|The bar color. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
+| _Color_|Optional|**Long**|The bar color. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 | _Align_|Optional|**Long**|The justification of text in the bar. Can be one of the following  **[PjAlignment](pjalignment-enumeration-project.md)** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
 | _Wrap_|Optional|**Boolean**|**True** if Project wraps text in the bar; otherwise, **False**.|
 | _Shadow_|Optional|**Boolean**|**True** if the bar has a shadow; otherwise, **False**.|
@@ -67,10 +67,10 @@ Sub CalendarBar_StyleEdit()
     ViewApply Name:="Calendar" 
  
     CalendarBarStylesEditEx Item:=pjBarCritical, Bar:=PjCalendarBarType.pjNormalBar, _
-          Color:=&;HAA00AA, Pattern:=PjFillPattern.pjDiagonalRightPattern, _
+          Color:=&HAA00AA, Pattern:=PjFillPattern.pjDiagonalRightPattern, _
           Field1:="Name", Field2:="Resource Names" 
     CalendarBarStylesEditEx Item:=pjBarSummary, Bar:=PjCalendarBarType.pjLineBar, _
-    Color:=&;H1AA01 
+    Color:=&H1AA01 
 End Sub
 ```
 

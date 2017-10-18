@@ -48,14 +48,14 @@ SELECT Count(*)
 AS TotalOrders FROM Orders;
 ```
 
-If  _expr_ identifies multiple fields, the **Count** function counts a record only if at least one of the fields is not **Null**. If all of the specified fields are **Null**, the record is not counted. Separate the field names with an ampersand (&;). The following example shows how you can limit the count to records in which either ShippedDate or Freight is not **Null**:
+If  _expr_ identifies multiple fields, the **Count** function counts a record only if at least one of the fields is not **Null**. If all of the specified fields are **Null**, the record is not counted. Separate the field names with an ampersand (&). The following example shows how you can limit the count to records in which either ShippedDate or Freight is not **Null**:
 
 
 
 
 ```sql
 SELECT 
-Count('ShippedDate &; Freight') 
+Count('ShippedDate & Freight') 
 AS [Not Null] FROM Orders;
 ```
 
@@ -84,9 +84,9 @@ Sub CountX()
     ' Calculate the number of orders shipped  
     ' to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT" _ 
-        &; " Count (ShipCountry)" _ 
-        &; " AS [UK Orders] FROM Orders" _ 
-        &; " WHERE ShipCountry = 'UK';") 
+        & " Count (ShipCountry)" _ 
+        & " AS [UK Orders] FROM Orders" _ 
+        & " WHERE ShipCountry = 'UK';") 
      
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -105,7 +105,7 @@ End Sub
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

@@ -78,19 +78,19 @@ Sub GetTableText()
     
     For i = 1 To ActiveProject.Reports(reportName).Shapes.Count
         Set shp = ActiveProject.Reports(reportName).Shapes(i)
-        Debug.Print shp.Name &; "; ID = " &; shp.ID
+        Debug.Print shp.Name & "; ID = " & shp.ID
     Next i
     
     For Each shp In ActiveProject.Reports(reportName).Shapes
         If shp.HasTable Then
-            Debug.Print vbCrLf &; "Table name: " &; shp.Name
+            Debug.Print vbCrLf & "Table name: " & shp.Name
             
             For row = 1 To shp.Table.RowsCount
                 output = vbTab
                 
                 For col = 1 To shp.Table.ColumnsCount
-                    output = output &; shp.Table.GetCellText(row, col)
-                    output = left(output, Len(output) - 1) &; vbTab
+                    output = output & shp.Table.GetCellText(row, col)
+                    output = left(output, Len(output) - 1) & vbTab
                 Next col
                 
                 Debug.Print output

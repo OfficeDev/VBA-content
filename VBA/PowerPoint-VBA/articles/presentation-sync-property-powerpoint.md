@@ -71,8 +71,8 @@ eStatus = ActivePresentation.Sync.Status
 
 If eStatus = msoSyncStatusLatest Then
     strLastUser = ActivePresentation.Sync.WorkspaceLastChangedBy
-    MsgBox "You have the most up-to-date copy." &; _
-        "This file was last modified by " &; strLastUser
+    MsgBox "You have the most up-to-date copy." & _
+        "This file was last modified by " & strLastUser
 End If
 ```
 

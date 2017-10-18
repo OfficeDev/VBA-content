@@ -56,7 +56,7 @@ This example displays the current left-margin setting for Sheet1.
 ```
 marginInches = Worksheets("Sheet1").PageSetup.LeftMargin / _ 
  Application.InchesToPoints(1) 
-MsgBox "The current left margin is " &; marginInches &; " inches"
+MsgBox "The current left margin is " & marginInches & " inches"
 ```
 
 

@@ -60,7 +60,7 @@ Private Sub objReminders_ReminderAdd(ByVal ReminderObject As Reminder)
  
  
  
- MsgBox "A new reminder is added that will fire at: " &; _ 
+ MsgBox "A new reminder is added that will fire at: " & _ 
  
  ReminderObject.NextReminderDate 
  

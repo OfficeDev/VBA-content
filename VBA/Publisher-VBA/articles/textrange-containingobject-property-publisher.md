@@ -37,7 +37,7 @@ This example returns the name of the object containing the specified text range.
 Sub NameOfContainingObject() 
  With ActiveDocument.Pages(1).Shapes(1).TextFrame _ 
  .TextRange.ContainingObject 
- MsgBox The name of the object containing the text is " &; .Name 
+ MsgBox The name of the object containing the text is " & .Name 
  End With 
 End Sub
 ```

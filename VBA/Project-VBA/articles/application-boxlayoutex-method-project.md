@@ -40,7 +40,7 @@ Specifies the layout of boxes in the active Network Diagram view (PERT chart), w
 | _ColumnWidth_|Optional|**Long**|The width of each column of boxes. Can be one of the  **[PjRowColSize](pjrowcolsize-enumeration-project.md)** constants.|
 | _AdjustForPageBreaks_|Optional|**Boolean**|If  **True**, a new task is placed on the next page if it does not fit on the current page. If **False**, a new task can fall on a break between pages.|
 | _ShowSummaryTasks_|Optional|**Boolean**|If  **True**, summary tasks are shown. If **False**, summary tasks are hidden.|
-| _ViewBackgroundColor_|Optional|**Long**|The background color of the view. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow.|
+| _ViewBackgroundColor_|Optional|**Long**|The background color of the view. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &HFF0000 is blue and &H00FFFF is yellow.|
 | _ViewBackgroundPattern_|Optional|**Long**|The pattern used for the background. Can be one of the  **[PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md)** constants.|
 | _ShowProgressMarks_|Optional|**Boolean**|**True** if tasks in progress are marked with a diagonal line from the upper-left corner of the box to the lower-right corner and completed tasks are marked with an additional diagonal line from the upper-right corner of the box to the lower-left corner. **False** if the progress of tasks is not marked.|
 | _ShowPageBreaks_|Optional|**Boolean**|**True** if page breaks show in the Network Diagram; otherwise, **False**.|
@@ -66,7 +66,7 @@ Sub ReturnToDefault()
     Application.BoxLayoutEx LayoutMode:=pjLayoutManual, LayoutScheme:=pjLayoutTopDownFromLeft, _
         SummaryPrecedence:=True, RowAlignment:=pjCenter, ColumnAlignment:=pjMiddle, RowSpacing:=45, _
         ColumnSpacing:=60, RowHeight:=pjSizeBestFit, ColumnWidth:=pjSizeBestFit, AdjustForPageBreaks:=True, _
-        ShowSummaryTasks:=True, ViewBackgroundColor:=&;HFFFFFF, ViewBackgroundPattern:=pjBackgroundSolidFill, _
+        ShowSummaryTasks:=True, ViewBackgroundColor:=&HFFFFFF, ViewBackgroundPattern:=pjBackgroundSolidFill, _
         ShowProgressMarks:=False, ShowPageBreaks:=True, ShowIDOnly:=False
 End Sub
 ```

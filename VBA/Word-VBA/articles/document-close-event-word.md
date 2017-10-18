@@ -42,7 +42,7 @@ This example makes a backup copy of the document on a file server when the docum
 ```vb
 Private Sub Document_Close() 
  ActiveDocument.Save 
- ActiveDocument.SaveAs "\\network\backup\" &; ThisDocument.Name 
+ ActiveDocument.SaveAs "\\network\backup\" & ThisDocument.Name 
 End Sub
 ```
 

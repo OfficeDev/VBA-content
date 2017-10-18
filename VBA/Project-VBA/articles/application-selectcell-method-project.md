@@ -51,7 +51,7 @@ The following example selects the third field in the fourth row of the Gantt Cha
 ```vb
 Sub Select_Cell() 
  
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  SelectCell Row:=4, Column:=3, RowRelative:=False 
 End Sub
 ```

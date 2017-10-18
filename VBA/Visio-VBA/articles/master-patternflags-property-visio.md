@@ -40,20 +40,20 @@ If you can use the  **PatternFlags** property as a pattern (non-zero), the prope
 
 |**Constant **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visMasIsLinePat**|&;H1 |Line pattern |
-| **visMasIsLineEnd**|&;H2 |Line end pattern |
-| **visMasIsFillPat**|&;H4 |Fill pattern |
+| **visMasIsLinePat**|&H1 |Line pattern |
+| **visMasIsLineEnd**|&H2 |Line end pattern |
+| **visMasIsFillPat**|&H4 |Fill pattern |
 If  **visMasIsLinePat** is selected, the pattern mode should be one of the following values.
 
 
 
 |**Constant **|**Value **|
 |:-----|:-----|
-| **visMasLPTileDeform**|&;H0 |
-| **visMasLPTile**|&;H10 |
-| **visMasLPStretch**|&;H20 |
-| **visMasLPAnnotate**|&;H30 |
-In addition,  **visMasLPScale** (&;H40) can optionally be included in the **PatternFlags** property value.
+| **visMasLPTileDeform**|&H0 |
+| **visMasLPTile**|&H10 |
+| **visMasLPStretch**|&H20 |
+| **visMasLPAnnotate**|&H30 |
+In addition,  **visMasLPScale** (&H40) can optionally be included in the **PatternFlags** property value.
 
 If  **visMasIsLineEnd** is selected, the pattern mode should be one of the following values.
 
@@ -61,9 +61,9 @@ If  **visMasIsLineEnd** is selected, the pattern mode should be one of the follo
 
 |**Constant **|**Value **|
 |:-----|:-----|
-| **visMasLEDefault**|&;H0 |
-| **visMasLEUpright**|&;H100 |
-In addition,  **visMasLEScale** (&;H400) can optionally be included in the **PatternFlags** property value.
+| **visMasLEDefault**|&H0 |
+| **visMasLEUpright**|&H100 |
+In addition,  **visMasLEScale** (&H400) can optionally be included in the **PatternFlags** property value.
 
 If  **visMasIsFillPat** is selected, the pattern mode should be one of the following values.
 
@@ -71,9 +71,9 @@ If  **visMasIsFillPat** is selected, the pattern mode should be one of the follo
 
 |**Constant **|**Value **|
 |:-----|:-----|
-| **visMasFPTile**|&;H0 |
-| **visMasFPCenter**|&;H1000 |
-| **visMasFPStretch**|&;H2000 |
-In addition,  **visMasFPScale** (&;H4000) can optionally be included in the **PatternFlags** property value.
+| **visMasFPTile**|&H0 |
+| **visMasFPCenter**|&H1000 |
+| **visMasFPStretch**|&H2000 |
+In addition,  **visMasFPScale** (&H4000) can optionally be included in the **PatternFlags** property value.
 
 

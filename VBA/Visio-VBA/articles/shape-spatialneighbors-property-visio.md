@@ -49,13 +49,13 @@ The  _Flags_ argument can be any combination of the values of the constants defi
 
 |** Constant**|** Value**|** Description**|
 |:-----|:-----|:-----|
-| **visSpatialIncludeContainerShapes**|&;H80|Include containers. By default, containers are not included.|
-| **visSpatialIncludeDataGraphics**|&;H40|Includes data graphic callout shapes and their sub-shapes. By default, data graphic callout shapes and their subshapes are not included. If the parent shape is itself a data graphic callout, searches are made between the parent shape's geometry and non-callout shapes, unless this flag is set.|
-| **visSpatialIncludeGuides**| &;H2| Considers a guide's Geometry section. By default, guides do not influence the result.|
-| **visSpatialFrontToBack**| &;H4| Orders items front to back.|
-| **visSpatialBackToFront**| &;H8| Orders items back to front.|
-| **visSpatialIncludeHidden**| &;H10| Considers hidden Geometry sections. By default, hidden Geometry sections do not influence the result.|
-| **visSpatialIgnoreVisible**| &;H20| Does not consider visible Geometry sections. By default, visible Geometry sections influence the result.|
+| **visSpatialIncludeContainerShapes**|&H80|Include containers. By default, containers are not included.|
+| **visSpatialIncludeDataGraphics**|&H40|Includes data graphic callout shapes and their sub-shapes. By default, data graphic callout shapes and their subshapes are not included. If the parent shape is itself a data graphic callout, searches are made between the parent shape's geometry and non-callout shapes, unless this flag is set.|
+| **visSpatialIncludeGuides**| &H2| Considers a guide's Geometry section. By default, guides do not influence the result.|
+| **visSpatialFrontToBack**| &H4| Orders items front to back.|
+| **visSpatialBackToFront**| &H8| Orders items back to front.|
+| **visSpatialIncludeHidden**| &H10| Considers hidden Geometry sections. By default, hidden Geometry sections do not influence the result.|
+| **visSpatialIgnoreVisible**| &H20| Does not consider visible Geometry sections. By default, visible Geometry sections influence the result.|
 Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
 
 If  _Relation_ is not specified, the **SpatialNeighbors** property uses all the possible relationships as criteria.
@@ -109,15 +109,15 @@ Public Sub Document_ShapeAdded(ByVal Shape As IVShape)
  
  'No shapes met the criteria set by 
  'the arguments of the method. 
- strSpatialRelation = Shape.Name &; " is not contained." 
+ strSpatialRelation = Shape.Name & " is not contained." 
  
  Else 
  
  'Build the positive result string. 
  For Each vsoShapeOnPage In vsoReturnedSelection 
- strSpatialRelation = strSpatialRelation &; _ 
- Shape.Name &; " is contained by " &; _ 
- vsoShapeOnPage.Name &; Chr$(10) 
+ strSpatialRelation = strSpatialRelation & _ 
+ Shape.Name & " is contained by " & _ 
+ vsoShapeOnPage.Name & Chr$(10) 
  
  Next 
  

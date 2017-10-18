@@ -7,9 +7,9 @@ ms.date: 06/08/2017
 
 # Exporting a Table to a Word Document
 
-This example takes the table named &;quot;Table1&;quot; on Sheet 1 and copies it into an existing Word document named &;quot;Quarter Report&;quot; at the bookmarked location named &;quot;Report&;quot;.
+This example takes the table named 'Table1' on Sheet 1 and copies it into an existing Word document named 'Quarter Report' at the bookmarked location named 'Report'.
 
- **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin,[VSTO & .NET & Excel](http://xldennis.wordpress.com/)
 
 
 
@@ -36,7 +36,7 @@ Sub Export_Table_Word()
     
     'Initialize the Word objets.
     Set wdApp = New Word.Application
-    Set wdDoc = wdApp.Documents.Open(wbBook.Path &; "\" &; stWordReport)
+    Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordReport)
     Set wdbmRange = wdDoc.Bookmarks("Report").Range
     
     'If the macro has been run before, clean up any artifacts before trying to paste the table in again.
@@ -82,8 +82,8 @@ Sub Export_Table_Word()
         .ScreenUpdating = True
     End With
     
-    MsgBox "The report has successfully been " &; vbNewLine &; _
-           "transferred to " &; stWordReport, vbInformation
+    MsgBox "The report has successfully been " & vbNewLine & _
+           "transferred to " & stWordReport, vbInformation
 
 End Sub
 ```
@@ -92,6 +92,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 

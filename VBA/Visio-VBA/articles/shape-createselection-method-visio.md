@@ -64,10 +64,10 @@ The optional  _IterationMode_ argument should be one of the following values, wh
 
 |**Constant **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visSelModeOnlySub**|&;H0800|Selection only reports subselected shapes.|
-| **visSelModeOnlySuper**|&;H0200|Selection only reports superselected shapes.|
-| **visSelModeSkipSub**|&;H0400|Selection does not report subselected shapes.|
-| **visSelModeSkipSuper**|&;H0100|Selection does not report superselected shapes.|
+| **visSelModeOnlySub**|&H0800|Selection only reports subselected shapes.|
+| **visSelModeOnlySuper**|&H0200|Selection only reports superselected shapes.|
+| **visSelModeSkipSub**|&H0400|Selection does not report subselected shapes.|
+| **visSelModeSkipSuper**|&H0100|Selection does not report superselected shapes.|
 The optional  _Data_ argument should be an object that corresponds to the object type specified by _SelType_. For example, if you want to select all the masters of a certain type,  _Data_ should be of type **Master** . And if you want to select all the shapes on a certain layer, _Data_ should be of type **Layer** .
 
 When  _SelType_ is **visSelTypeByRole** , _Data_ should be a member of the **[VisRoleSelectionTypes](visroleselectiontypes-enumeration-visio.md)** enumeration.

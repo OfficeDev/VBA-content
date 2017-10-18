@@ -27,8 +27,8 @@ Dim strTitle As String
 datHireDate = #1/1/93# 
 strTitle = "Sales Representative" 
  
-Forms!Employees.Filter = "[HireDate] >= #" &; _ 
- datHireDate &; "# AND [Title] = '" &; strTitle &; "'" 
+Forms!Employees.Filter = "[HireDate] >= #" & _ 
+ datHireDate & "# AND [Title] = '" & strTitle & "'" 
 Forms!Employees.FilterOn = True
 ```
 

@@ -45,7 +45,7 @@ Sub MergePresentations()
     Dim userName As String
     Dim otherPres As String
 
-    ActivePresentation.Merge("C:\Users\? &; username &; ?\Desktop\" &; otherPres)
+    ActivePresentation.Merge("C:\Users\? & username & ?\Desktop\" & otherPres)
 End Sub
 ```
 

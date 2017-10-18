@@ -30,8 +30,8 @@ This example displays the description for the Normal style.
 
 ```vb
 Sub ShowStyleDescription() 
- MsgBox "The Normal style has the following formatting attributes: " &; _ 
- vbLf &; ActiveDocument.TextStyles("Normal").Description 
+ MsgBox "The Normal style has the following formatting attributes: " & _ 
+ vbLf & ActiveDocument.TextStyles("Normal").Description 
 End Sub
 ```
 

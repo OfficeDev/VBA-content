@@ -29,7 +29,7 @@ The BeforeInsert event occurs when the user types the first character in a new r
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **BeforeInsert** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **BeforeInsert** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **BeforeInsert** event occurs. Setting the _Cancel_ argument to **True** (-1) cancels the **BeforeInsert** event.|
 
 ## Remarks
 
@@ -42,7 +42,7 @@ You can use an AfterInsert event procedure or macro to requery a recordset whene
 
 The BeforeInsert and AfterInsert events are similar to the  **BeforeUpdate** and **AfterUpdate** events. These events occur in the following order:
 
- **BeforeInsert** ? **BeforeUpdate** ? **AfterUpdate** ? **AfterInsert**.
+ **BeforeInsert** → **BeforeUpdate** → **AfterUpdate** → **AfterInsert**.
 
 The following table summarizes the interaction between these events.
 

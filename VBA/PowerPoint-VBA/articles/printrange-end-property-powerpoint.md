@@ -38,8 +38,8 @@ With ActivePresentation.PrintOptions.Ranges
 
     If .Count > 0 Then
         With .Item(1)
-            MsgBox "Print range 1 starts on slide " &; .Start &; _
-                " and ends on slide " &; .End
+            MsgBox "Print range 1 starts on slide " & .Start & _
+                " and ends on slide " & .End
         End With
     End If
 

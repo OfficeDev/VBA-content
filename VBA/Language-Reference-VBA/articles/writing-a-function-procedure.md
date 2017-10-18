@@ -21,7 +21,7 @@ In the following example, the  **Celsius** function calculates degrees Celsius f
 Sub Main() 
  temp = Application.InputBox(Prompt:= _ 
  "Please enter the temperature in degrees F.", Type:=1) 
- MsgBox "The temperature is " &; Celsius(temp) &; " degrees C." 
+ MsgBox "The temperature is " & Celsius(temp) & " degrees C." 
 End Sub 
  
 Function Celsius(fDegrees) 

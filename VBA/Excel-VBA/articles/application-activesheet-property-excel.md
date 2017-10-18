@@ -36,10 +36,10 @@ This example displays the name of the active sheet.
 
 
 ```vb
-MsgBox "The name of the active sheet is " &; ActiveSheet.Name
+MsgBox "The name of the active sheet is " & ActiveSheet.Name
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example creates a print preview of the active sheet that has the page number at the top of column B on each page.
 
@@ -55,7 +55,7 @@ Sub PrintSheets()
    iRowL = Cells(Rows.Count, 1).End(xlUp).Row
    
    'Define the print area as the range containing all the data in the first two columns of the current worksheet.
-   ActiveSheet.PageSetup.PrintArea = Range("A1:B" &; iRowL).Address
+   ActiveSheet.PageSetup.PrintArea = Range("A1:B" & iRowL).Address
    
    'Select all the rows containing data.
    Rows(iRowL).Select
@@ -67,7 +67,7 @@ Sub PrintSheets()
    'After each page break, go to the next cell in column B and write out the page number.
    For iPage = 1 To ActiveSheet.HPageBreaks.Count
       ActiveSheet.HPageBreaks(iPage) _
-         .Location.Offset(0, 1).Value = "Page " &; iPage + 1
+         .Location.Offset(0, 1).Value = "Page " & iPage + 1
    Next iPage
    
    'Show the print preview, and afterwards remove the page numbers from column B.

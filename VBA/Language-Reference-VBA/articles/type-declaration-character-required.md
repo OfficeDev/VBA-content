@@ -20,7 +20,7 @@ The necessity of using [type-declaration characters](vbe-glossary.md) depends on
   ```
   MyStr$ = "Implicit declaration" 
 MyStr = "Trying to refer to MyStr$, but error results" _ 
- &; "from calling it MyStr." 
+ & "from calling it MyStr." 
 
   ```
 

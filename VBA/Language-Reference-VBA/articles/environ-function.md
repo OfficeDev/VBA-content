@@ -40,7 +40,7 @@ Do
                 ' variable.
     If Left(EnvString, 5) = "PATH=" Then    ' Check PATH entry.
         PathLen = Len(Environ("PATH"))    ' Get length.
-        Msg = "PATH entry = " &; Indx &; " and length = " &; PathLen
+        Msg = "PATH entry = " & Indx & " and length = " & PathLen
         Exit Do
     Else
         Indx = Indx + 1    ' Not PATH entry,

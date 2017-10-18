@@ -71,15 +71,15 @@ Sub KillProjects()
  
  Continue = vbYes ' Set to Yes so that loop runs 
  
- PathAndDB = InputBox$("Enter the path and file name of the Project" &; _ 
+ PathAndDB = InputBox$("Enter the path and file name of the Project" & _ 
  " database to open, including extension: ") 
  
  Do Until Continue = vbNo 
  ProjectName = InputBox$("Enter the name of the project to delete: ") 
- DeleteFromDatabase "<" &; PathAndDB &; ">\" &; ProjectName, _ 
+ DeleteFromDatabase "<" & PathAndDB & ">\" & ProjectName, _ 
  FormatID:="MSProject.mpd" 
- Continue = MsgBox("Project " &; ProjectName &; " deleted from database." &; _ 
- vbCrLf &; vbCrLf &; "Delete another?", vbYesNo) 
+ Continue = MsgBox("Project " & ProjectName & " deleted from database." & _ 
+ vbCrLf & vbCrLf & "Delete another?", vbYesNo) 
  Loop 
  
 End Sub

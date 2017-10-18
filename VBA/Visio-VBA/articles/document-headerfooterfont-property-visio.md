@@ -45,7 +45,7 @@ To get information about the  **StdFont** object that supports the **IFontDisp**
     
 For details about the  **IFontDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-Setting the  **HeaderFooterFont** property is the equivalent of setting values in the **Font** box in the **Choose Font** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, in the  **Preview** group, click **Header &; Footer**, and then click  **Choose Font**).
+Setting the  **HeaderFooterFont** property is the equivalent of setting values in the **Font** box in the **Choose Font** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, in the  **Preview** group, click **Header & Footer**, and then click  **Choose Font**).
 
 
 ## Example

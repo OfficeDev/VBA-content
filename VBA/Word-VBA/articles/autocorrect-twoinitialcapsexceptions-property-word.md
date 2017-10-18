@@ -36,7 +36,7 @@ This example prompts the user to delete or keep each AutoCorrect Initial Caps ex
 ```vb
 For Each anEntry In AutoCorrect.TwoInitialCapsExceptions 
  response = MsgBox ("Delete entry: " _ 
- &; anEntry.Name, vbYesNoCancel) 
+ & anEntry.Name, vbYesNoCancel) 
  If response = vbYes Then 
  anEntry.Delete 
  Else 

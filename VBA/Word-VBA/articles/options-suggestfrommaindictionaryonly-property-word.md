@@ -38,7 +38,7 @@ Options.SuggestFromMainDictionaryOnly = True
 ActiveDocument.CheckSpelling
 ```
 
-This example returns the current status of the Suggest from main dictionary only option on the Spelling &; Grammar tab in the Options dialog box (Tools menu).
+This example returns the current status of the Suggest from main dictionary only option on the Spelling & Grammar tab in the Options dialog box (Tools menu).
 
 
 

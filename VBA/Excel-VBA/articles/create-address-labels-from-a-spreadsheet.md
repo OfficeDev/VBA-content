@@ -48,7 +48,7 @@ Sub CreateLabels()
          
             ' Put the Name in row 1 
             ThisRow = NextRow 
-            LabelSheet.Cells(ThisRow, NextCol).Value = AddressSheet.Cells(i, 1) &; "   " &; AddressSheet.Cells(i, 7) 
+            LabelSheet.Cells(ThisRow, NextCol).Value = AddressSheet.Cells(i, 1) & "   " & AddressSheet.Cells(i, 7) 
              
             ' Put the Address Line 1 in row 2 
             If AddressSheet.Cells(i, 2).Value > "" Then 

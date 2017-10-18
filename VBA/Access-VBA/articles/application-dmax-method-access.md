@@ -92,7 +92,7 @@ In the next example, the  _criteria_ argument includes the current value of a te
 ```vb
 Dim curX As Currency 
 curX = DMax("[Freight]", "Orders", "[OrderDate] = #" _ 
-    &; Forms!Orders!OrderDate &; "#")
+    & Forms!Orders!OrderDate & "#")
 ```
 
 
@@ -122,24 +122,24 @@ The following examples show how to use various types of criteria with the  **DMa
     ' ***************************
     ' Referring to a control on a form
     ' Numerical values
-    variable = DMax("[FieldName]", "TableName", "[Criteria] = " &; Forms!FormName!ControlName)
+    variable = DMax("[FieldName]", "TableName", "[Criteria] = " & Forms!FormName!ControlName)
 
     ' Strings
-    variable = DMax("[FieldName]", "TableName", "[Criteria] = '" &; Forms!FormName!ControlName &; "'")
+    variable = DMax("[FieldName]", "TableName", "[Criteria] = '" & Forms!FormName!ControlName & "'")
 
     ' Dates
-    variable = DMax("[FieldName]", "TableName", "[Criteria] = #" &; Forms!FormName!ControlName &; "#")
+    variable = DMax("[FieldName]", "TableName", "[Criteria] = #" & Forms!FormName!ControlName & "#")
     ' ***************************
 
     ' ***************************
     ' Combinations
     ' Multiple types of criteria
-    variable = DMax("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
-             &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
-            &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
+    variable = DMax("[FieldName]", "TableName", "[Criteria1] = " & Forms![FormName]![Control1] _
+             & " AND [Criteria2] = '" & Forms![FormName]![Control2] & "'" _
+            & " AND [Criteria3] =#" & Forms![FormName]![Control3] & "#")
     
     ' Use two fields from a single record.
-    variable = DMax("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
+    variable = DMax("[LastName] & ', ' & [FirstName]", "tblPeople", "[PrimaryKey] = 7")
             
     ' Expressions
     variable = DMax("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")

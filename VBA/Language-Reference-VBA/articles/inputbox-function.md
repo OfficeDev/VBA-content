@@ -21,7 +21,7 @@ The  **InputBox** function syntax has these[named arguments](vbe-glossary.md):
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_prompt_**|Required. [String expression](vbe-glossary.md) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character ( **Chr(** 13 **)** ), a linefeed character ( **Chr(** 10 **)** ), or carriage return-linefeed character combination ( **Chr(** 13 **)** &; **Chr(** 10 **)** ) between each line.|
+|**_prompt_**|Required. [String expression](vbe-glossary.md) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character ( **Chr(** 13 **)** ), a linefeed character ( **Chr(** 10 **)** ), or carriage return-linefeed character combination ( **Chr(** 13 **)** & **Chr(** 10 **)** ) between each line.|
 |**_title_**|Optional. String expression displayed in the title bar of the dialog box. If you omit  **_title_**, the application name is placed in the title bar.|
 |**_default_**|Optional. String expression displayed in the text box as the default response if no other input is provided. If you omit  **_default_**, the text box is displayed empty.|
 |**_xpos_**|Optional. [Numeric expression](vbe-glossary.md) that specifies, in twips, the horizontal distance of the left edge of the dialog box from the left edge of the screen. If **_xpos_** is omitted, the dialog box is horizontally centered.|

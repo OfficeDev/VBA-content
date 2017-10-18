@@ -40,7 +40,7 @@ Set myAddIn = Application.AddIns.Add(FileName:="c:\myaddin.ppa")
 
 myAddIn.Loaded = True
 
-MsgBox myAddIn.Name &; " has been added to the list"
+MsgBox myAddIn.Name & " has been added to the list"
 
 
 ```

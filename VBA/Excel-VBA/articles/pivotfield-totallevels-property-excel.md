@@ -35,8 +35,8 @@ This example displays the total number of fields in the group that contains the 
 
 ```vb
 Worksheets("Sheet1").Activate 
-MsgBox "This group has " &; _ 
- ActiveCell.PivotField.TotalLevels &; " levels
+MsgBox "This group has " & _ 
+ ActiveCell.PivotField.TotalLevels & " levels
 ```
 
 

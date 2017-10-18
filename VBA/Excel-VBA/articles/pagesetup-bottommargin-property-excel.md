@@ -48,7 +48,7 @@ This example displays the current setting for the bottom margin on Sheet1.
 ```
 marginInches = Worksheets("Sheet1").PageSetup.BottomMargin / _ 
  Application.InchesToPoints(1) 
-MsgBox "The current bottom margin is " &; marginInches &; " inches"
+MsgBox "The current bottom margin is " & marginInches & " inches"
 ```
 
 
