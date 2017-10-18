@@ -228,9 +228,9 @@ For more information, see [Excel performance: Performance and limit improvements
 
 Paging to a virtual-memory paging file is slow. You must have enough physical RAM for the operating system, Excel, and your workbooks. If you have more than occasional hard disk activity during calculation, and you are not running user-defined functions that trigger disk activity, you need more RAM.
 
-As mentioned, recent versions of Excel can make effective use of large amounts of memory, and the 32-bit version of Excel 2007 and Excel 2010 can handle a single workbook or a combination of workbooks using up to 2 GB of workbook memory. 
+As mentioned, recent versions of Excel can make effective use of large amounts of memory, and the 32-bit version of Excel 2007 and Excel 2010 can handle a single workbook or a combination of workbooks using up to 2 GB of memory. 
 
-The 32-bit versions of Excel 2013 and Excel 2016 that use the Large Address Aware (LAA) feature can handle 3 or 4 GB of workbook data, depending on the version of Windows installed. The 64-bit version of Excel can handle larger workbooks. For more information, see the "Large data sets, LAA, and 64-bit Excel" section in [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
+The 32-bit versions of Excel 2013 and Excel 2016 that use the Large Address Aware (LAA) feature can use upto 3 or 4 GB of  memory, depending on the version of Windows installed. The 64-bit version of Excel can handle larger workbooks. For more information, see the "Large data sets, LAA, and 64-bit Excel" section in [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
 
 A rough guideline for efficient calculation is to have enough RAM to hold the largest set of workbooks that you need to have open at the same time, plus 1 to 2 GB for Excel and the operating system, plus additional RAM for any other running applications. 
 
