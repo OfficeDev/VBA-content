@@ -34,8 +34,8 @@ Dim subLoop As Subdocument
 For Each subLoop In ActiveDocument.Subdocuments 
  subLoop.Range.Select 
  If subLoop.HasFile = True Then 
- MsgBox subLoop.Path &; Application.PathSeparator _ 
- &; subLoop.Name 
+ MsgBox subLoop.Path & Application.PathSeparator _ 
+ & subLoop.Name 
  Else 
  MsgBox "This subdocument has not been saved." 
  End If 

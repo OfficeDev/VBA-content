@@ -54,7 +54,7 @@ Use the  **[Name](dictionary-name-property-word.md)** and **[Path](dictionary-pa
 
 ```vb
 For Each d in CustomDictionaries 
- Msgbox d.Path &; Application.PathSeparator &; d.Name 
+ Msgbox d.Path & Application.PathSeparator & d.Name 
 Next d
 ```
 
@@ -67,7 +67,7 @@ For each language for which proofing tools are installed, you can use the  **Act
 
 ```vb
 Set myspell = Languages(wdEnglishUS).ActiveSpellingDictionary 
-MsgBox mySpell.Path &; Application.PathSeparator &; mySpell.Name
+MsgBox mySpell.Path & Application.PathSeparator & mySpell.Name
 ```
 
 The  **[ReadOnly](dictionary-readonly-property-word.md)** property returns **True** for .lex files (built-in proofing dictionaries) and **False** for .dic files (custom spelling dictionaries).

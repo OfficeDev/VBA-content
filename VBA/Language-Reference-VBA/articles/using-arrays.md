@@ -92,7 +92,7 @@ You identify the elements in an array of  **Variant** values by index, no matter
 
 
 ```vb
-MsgBox "Data for " &; varData(0) &; " has been recorded." 
+MsgBox "Data for " & varData(0) & " has been recorded." 
 
 ```
 

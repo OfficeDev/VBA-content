@@ -30,8 +30,8 @@ This example displays a message if the order of the sheets in the active workboo
 
 ```vb
 If ActiveWorkbook.ProtectStructure = True Then 
- MsgBox "Remember, you cannot delete, add, or change " &; _ 
- Chr(13) &; _ 
+ MsgBox "Remember, you cannot delete, add, or change " & _ 
+ Chr(13) & _ 
  "the location of any sheets in this workbook." 
 End If
 ```

@@ -48,7 +48,7 @@ Dim bdaLoop As BorderArt
 Set bdaTemp = ActiveDocument.BorderArts 
  
 For Each bdaLoop In bdaTemp 
- Debug.Print "The name of this BorderArt is " &; bdaLoop.Name 
+ Debug.Print "The name of this BorderArt is " & bdaLoop.Name 
 Next bdaLoop 
 End Sub
 ```

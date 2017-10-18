@@ -32,7 +32,7 @@ _expression_ An expression that returns an **Application** object.
 | _Bold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _Italic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _Color_|Optional|**Long**|The color of the font. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value `&;HFF0000` is blue and `&;H00FFFF` is yellow.|
+| _Color_|Optional|**Long**|The color of the font. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value `&HFF0000` is blue and `&H00FFFF` is yellow.|
 | _CellColor_|Optional|**Long**|The background color of the cell. Can be a hexadecimal value for the RGB color.|
 | _Pattern_|Optional|**Integer**|The background pattern of the cell. Can be one of the **[PjBackgroundPattern](pjbackgroundpattern-enumeration-project.md)** constants.|
 

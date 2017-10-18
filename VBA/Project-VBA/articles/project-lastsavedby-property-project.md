@@ -27,7 +27,7 @@ The following example adds the date the active project was last saved and the na
 
 ```vb
 Sub AddSaveInfoToNotes() 
- ActiveProject.ProjectNotes = ActiveProject.ProjectNotes &; vbCrLf &; "This project was last saved on " &; CStr(ActiveProject.LastSaveDate) &; " by " &; ActiveProject.LastSavedBy &; "." 
+ ActiveProject.ProjectNotes = ActiveProject.ProjectNotes & vbCrLf & "This project was last saved on " & CStr(ActiveProject.LastSaveDate) & " by " & ActiveProject.LastSavedBy & "." 
 End Sub
 ```
 

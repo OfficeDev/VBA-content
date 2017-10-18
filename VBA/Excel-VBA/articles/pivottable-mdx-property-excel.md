@@ -40,7 +40,7 @@ Sub CheckMDX()
  
  Set pvtTable = ActiveSheet.PivotTables(1) 
  
- MsgBox "The MDX string for the PivotTable is: " &; _ 
+ MsgBox "The MDX string for the PivotTable is: " & _ 
  pvtTable.MDX 
  
 End Sub

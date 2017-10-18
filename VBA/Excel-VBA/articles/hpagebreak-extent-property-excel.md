@@ -36,7 +36,7 @@ For Each pb in Worksheets(1).HPageBreaks
  cPartial = cPartial + 1 
  End If 
 Next 
-MsgBox cFull &; " full-screen page breaks, " &; cPartial &; _ 
+MsgBox cFull & " full-screen page breaks, " & cPartial & _ 
  " print-area page breaks"
 ```
 

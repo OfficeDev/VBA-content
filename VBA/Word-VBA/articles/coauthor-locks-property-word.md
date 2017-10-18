@@ -35,9 +35,9 @@ Dim coAuth As CoAuthor
 Set coAuth = ActiveDocument.CoAuthoring.Authors(1) 
 lockCount = coAuth.Locks.Count 
  
-MsgBox "There are " &; lockCount &; _ 
- " locks in the active document for " &; _ 
- coAuth.Name &; "."
+MsgBox "There are " & lockCount & _ 
+ " locks in the active document for " & _ 
+ coAuth.Name & "."
 ```
 
 

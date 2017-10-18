@@ -66,15 +66,15 @@ Sub DisplayNextDateReport()
  
  'Add information to string. 
  
- strReport = strReport &; objRem.Caption &; vbTab &; _ 
+ strReport = strReport & objRem.Caption & vbTab & _ 
  
- objRem.NextReminderDate &; vbCr 
+ objRem.NextReminderDate & vbCr 
  
  Next objRem 
  
  'Display report in dialog box 
  
- MsgBox strTitle &; vbCr &; vbCr &; strReport 
+ MsgBox strTitle & vbCr & vbCr & strReport 
  
  End If 
  

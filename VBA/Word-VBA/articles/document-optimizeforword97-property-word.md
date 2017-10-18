@@ -36,7 +36,7 @@ This example checks the current document to see if it is optimized for Word 97; 
 ```vb
 If ActiveDocument.OptimizeForWord97 = False Then 
  x = MsgBox("Is this document targeted at " _ 
- &; "Word 97 users?", vbYesNo) 
+ & "Word 97 users?", vbYesNo) 
  If x = vbYes Then _ 
  ActiveDocument.OptimizeForWord97 = True 
 End If

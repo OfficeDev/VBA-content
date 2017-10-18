@@ -37,7 +37,7 @@ This example displays the path and file name of the active document.
 
 
 ```vb
-MsgBox ActiveDocument.Path &; Application.PathSeparator &; _ 
+MsgBox ActiveDocument.Path & Application.PathSeparator & _ 
  ActiveDocument.Name
 ```
 
@@ -50,8 +50,8 @@ If the first add-in is a template, this example unloads the template and opens i
 If Addins(1).Compiled = False Then 
  Addins(1).Installed = False 
  Documents.Open FileName:=AddIns(1).Path _ 
- &; Application.PathSeparator _ 
- &; AddIns(1).Name 
+ & Application.PathSeparator _ 
+ & AddIns(1).Name 
 End If
 ```
 

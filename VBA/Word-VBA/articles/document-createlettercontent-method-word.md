@@ -79,8 +79,8 @@ Set myLetter = ActiveDocument _
  LetterheadLocation:=wdLetterTop, _ 
  LetterheadSize:=InchesToPoints(1.5), _ 
  RecipientName:="Dave Edson", _ 
- RecipientAddress:="436 SE Main St." &; vbCr _ 
- &; "Bellevue, WA 98004", _ 
+ RecipientAddress:="436 SE Main St." & vbCr _ 
+ & "Bellevue, WA 98004", _ 
  Salutation:="Dear Dave,", _ 
  SalutationType:=wdSalutationInformal, _ 
  RecipientReference:="", MailingInstructions:="", _ 

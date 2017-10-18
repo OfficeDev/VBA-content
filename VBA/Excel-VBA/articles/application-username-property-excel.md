@@ -29,7 +29,7 @@ This example displays the name of the current user.
 
 
 ```vb
-MsgBox "Current user is " &; Application.UserName
+MsgBox "Current user is " & Application.UserName
 ```
 
 

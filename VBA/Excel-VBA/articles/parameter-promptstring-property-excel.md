@@ -30,7 +30,7 @@ This example modifies the parameter prompt string for query table one.
 
 ```vb
 With Worksheets(1).QueryTables(1).Parameters(1) 
- .SetParam xlPrompt, "Please " &; .PromptString 
+ .SetParam xlPrompt, "Please " & .PromptString 
 End With
 ```
 

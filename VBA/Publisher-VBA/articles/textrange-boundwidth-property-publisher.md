@@ -41,13 +41,13 @@ Set rngText = ActiveDocument.Pages(1) _
  .Shapes(1).TextFrame.TextRange 
  
 With rngText 
- strMessage = "Text frame information" &; vbCrLf _ 
- &; " Distance from left edge of page: " _ 
- &; .BoundLeft &; " points" &; vbCrLf _ 
- &; " Distance from top edge of page: " _ 
- &; .BoundTop &; " points" &; vbCrLf _ 
- &; " Width: " &; .BoundWidth &; " points" &; vbCrLf _ 
- &; " Height: " &; .BoundHeight &; " points" 
+ strMessage = "Text frame information" & vbCrLf _ 
+ & " Distance from left edge of page: " _ 
+ & .BoundLeft & " points" & vbCrLf _ 
+ & " Distance from top edge of page: " _ 
+ & .BoundTop & " points" & vbCrLf _ 
+ & " Width: " & .BoundWidth & " points" & vbCrLf _ 
+ & " Height: " & .BoundHeight & " points" 
 End With 
  
 MsgBox strMessage

@@ -52,10 +52,10 @@ For Each pgLoop In ActiveDocument.Pages
  
  If .IsEmpty = msoFalse Then 
  
- Debug.Print "File Name: " &; .Filename 
- Debug.Print "Horizontal Scaling: " &; .HorizontalScale &; "%" 
- Debug.Print "Vertical Scaling: " &; .VerticalScale &; "%" 
- Debug.Print "File size in publication: " &; .FileSize &; " bytes" 
+ Debug.Print "File Name: " & .Filename 
+ Debug.Print "Horizontal Scaling: " & .HorizontalScale & "%" 
+ Debug.Print "Vertical Scaling: " & .VerticalScale & "%" 
+ Debug.Print "File size in publication: " & .FileSize & " bytes" 
  
  End If 
  

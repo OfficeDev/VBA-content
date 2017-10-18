@@ -34,8 +34,8 @@ Sub SetActualFinishForTasks()
  For Each T In ActiveProject.Tasks 
  ' Loop until user enters a date or clicks Cancel. 
  Do While 1 
- Entry = InputBox$("Enter the actual finish date for " &; _ 
- T.Name &; ":") 
+ Entry = InputBox$("Enter the actual finish date for " & _ 
+ T.Name & ":") 
  
  If IsDate(Entry) Or Entry = Empty Then 
  Exit Do 

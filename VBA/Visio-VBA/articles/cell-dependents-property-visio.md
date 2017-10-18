@@ -56,7 +56,7 @@ Public Sub Dependents_Example()
  For intCounter = LBound(acellDependentCells) To UBound(acellDependentCells) 
  
  Set vsoCell = acellDependentCells(intCounter) 
- Debug.Print vsoCell.Name &; " has this formula: " &; vsoCell.Formula 
+ Debug.Print vsoCell.Name & " has this formula: " & vsoCell.Formula 
  
  Next 
  

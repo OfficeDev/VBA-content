@@ -43,8 +43,8 @@ In the following example, a task is assigned to two resources. After selecting e
 
 ```vb
 Sub ChangeSegmentColor() 
-    Application.SegmentFillColor(&;H8080FF) 
-    Application.SegmentBorderColor(&;HFF1010) 
+    Application.SegmentFillColor(&H8080FF) 
+    Application.SegmentBorderColor(&HFF1010) 
 End Sub
 ```
 

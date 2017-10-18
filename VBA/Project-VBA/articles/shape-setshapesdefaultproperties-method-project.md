@@ -23,7 +23,7 @@ Applies the formatting of a default shape to the shape.
 
 ## Remarks
 
-For example, the default foreground fill color of shapes is a medium-dark blue:  `&;HD59B5B`, which is  `RGB(Red:=91, Green:=155, Blue:=213)`.
+For example, the default foreground fill color of shapes is a medium-dark blue:  `&HD59B5B`, which is  `RGB(Red:=91, Green:=155, Blue:=213)`.
 
 
 ## See also

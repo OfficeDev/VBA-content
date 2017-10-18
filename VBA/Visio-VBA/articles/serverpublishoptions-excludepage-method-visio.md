@@ -50,6 +50,6 @@ The  _Flags_ parameter must be one of the following **VisLangFlags** constants.
 
  **Note**  Excluding a page does not remove that page from the document?it merely prevents that page from appearing in the browser when the file is published as a VDW file. Because excluded pages remain in the document, they increase the size of the document and, hence, may negatively affect performance. For this reason, it is a good idea to use the  **[Page.Delete](page-delete-method-visio.md)** method to permanently delete unwanted pages from the document.
 
-Calling the  **ExcludePage** method corresponds to clearing the check box for a page in the **Pages** list in the **Publish Settings** dialog box (click the **File** tab, click **Save &; Send**, click  **Save to SharePoint**, click  **Web Drawing (*.vdw)**, click  **Save As**, and then click  **Options**).
+Calling the  **ExcludePage** method corresponds to clearing the check box for a page in the **Pages** list in the **Publish Settings** dialog box (click the **File** tab, click **Save & Send**, click  **Save to SharePoint**, click  **Web Drawing (*.vdw)**, click  **Save As**, and then click  **Options**).
 
 

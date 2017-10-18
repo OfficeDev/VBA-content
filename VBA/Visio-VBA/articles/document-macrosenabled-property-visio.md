@@ -79,7 +79,7 @@ Public Sub MacrosEnabled_Example()
  
     If Not blsStatus Then 
  
-         MsgBox "Macro execution has been disabled for this document." &; _  
+         MsgBox "Macro execution has been disabled for this document." & _  
             "Functionality may be limited." 
  
     End if 

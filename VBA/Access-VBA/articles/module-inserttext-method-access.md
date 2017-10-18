@@ -65,9 +65,9 @@ Function InsertProc(strModuleName) As Boolean
  ' Return reference to Module object. 
  Set mdl = Modules(strModuleName) 
  ' Initialize string variable. 
- strText = "Sub DisplayMessage()" &; vbCrLf _ 
- &; vbTab &; "MsgBox ""Wild!""" &; vbCrLf _ 
- &; "End Sub" 
+ strText = "Sub DisplayMessage()" & vbCrLf _ 
+ & vbTab & "MsgBox ""Wild!""" & vbCrLf _ 
+ & "End Sub" 
  ' Insert text into module. 
  mdl.InsertText strText 
  InsertProc = True 
@@ -76,7 +76,7 @@ Exit_InsertProc:
  Exit Function 
  
 Error_InsertProc: 
- MsgBox Err &; ": " &; Err.Description 
+ MsgBox Err & ": " & Err.Description 
  InsertProc = False 
  Resume Exit_InsertProc 
 End Function

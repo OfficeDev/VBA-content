@@ -34,8 +34,8 @@ Dim pgsTemp As Pages
 Set pgsTemp = ActiveDocument.Pages 
  
 With pgsTemp 
- MsgBox "There are " &; .Count _ 
- &; " page(s) in the active publication." 
+ MsgBox "There are " & .Count _ 
+ & " page(s) in the active publication." 
 End With
 ```
 

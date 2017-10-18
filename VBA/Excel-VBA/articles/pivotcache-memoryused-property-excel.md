@@ -36,8 +36,8 @@ This example displays a message box showing the number of bytes that Microsoft E
 
 
 ```vb
-MsgBox "Microsoft Excel is currently using " &; _ 
- Application.MemoryUsed &; " bytes"
+MsgBox "Microsoft Excel is currently using " & _ 
+ Application.MemoryUsed & " bytes"
 ```
 
 

@@ -52,8 +52,8 @@ For Period = 1 To TotPmts    ' Total all interest.
     IntPmt = IPmt(APR / 12, Period, TotPmts, -PVal, FVal, PayType)
     TotInt = TotInt + IntPmt
 Next Period
-Msg = "You'll pay a total of " &; Format(TotInt, Fmt) 
-Msg = Msg &; " in interest for this loan."
+Msg = "You'll pay a total of " & Format(TotInt, Fmt) 
+Msg = Msg & " in interest for this loan."
 MsgBox Msg    ' Display results.
 
 ```

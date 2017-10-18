@@ -68,10 +68,10 @@ Function DateOutput(strTemp As String, _
    ' Print DateCreated and LastUpdated information about  
    ' specified TableDef object. 
    Debug.Print strTemp 
-   Debug.Print "  TableDef: " &; tdfTemp.Name 
-   Debug.Print "    DateCreated = " &; _ 
+   Debug.Print "  TableDef: " & tdfTemp.Name 
+   Debug.Print "    DateCreated = " & _ 
       tdfTemp.DateCreated 
-   Debug.Print "    LastUpdated = " &; _ 
+   Debug.Print "    LastUpdated = " & _ 
       tdfTemp.LastUpdated 
    Debug.Print 
  

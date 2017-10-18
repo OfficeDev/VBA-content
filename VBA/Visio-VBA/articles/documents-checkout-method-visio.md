@@ -55,7 +55,7 @@ Sub CheckDocOut(strDocCheckOut As String)
         Documents.CheckOut strDocCheckOut  
     Else  
         MsgBox "You are unable to check out this document " _  
-            &; "at this time."  
+            & "at this time."  
     End If    
 End Sub
 ```

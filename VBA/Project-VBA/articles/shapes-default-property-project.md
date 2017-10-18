@@ -18,7 +18,7 @@ The  **Shapes.Default** property is not implemented for Office Art in the Office
 
 ## Remarks
 
-If you try to use the  **Default** property, Project shows a run-time error &;H80004005, _Method 'Default' of object 'Shapes' failed_.
+If you try to use the  **Default** property, Project shows a run-time error &H80004005, _Method 'Default' of object 'Shapes' failed_.
 
 
 ## Property value

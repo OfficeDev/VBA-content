@@ -31,13 +31,13 @@ Sub Item_Open()
  Set Label1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("Label1") 
  
  For i = 1 To 20 
- ComboBox1.AddItem "Choice " &; (ComboBox1.ListCount + 1) 
+ ComboBox1.AddItem "Choice " & (ComboBox1.ListCount + 1) 
  Next 
  
  SpinButton1.Min = 0 
  SpinButton1.Max = 12 
  SpinButton1.Value = ComboBox1.ListRows 
- Label1.Caption = "ListRows = " &; SpinButton1.Value 
+ Label1.Caption = "ListRows = " & SpinButton1.Value 
 End Sub 
  
 Sub Item_CustomPropertyChange(byval pname) 
@@ -47,7 +47,7 @@ Sub Item_CustomPropertyChange(byval pname)
  Set Label1 = Item.GetInspector.ModifiedFormPages("P.2").Controls("Label1") 
  
  ComboBox1.ListRows = SpinButton1.Value 
- Label1.Caption = "ListRows = " &; SpinButton1.Value 
+ Label1.Caption = "ListRows = " & SpinButton1.Value 
  End If 
 End Sub
 ```

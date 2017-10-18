@@ -76,7 +76,7 @@ Public Sub Precedents_Example()
  
  vsoShape.RowType(visSectionFirstComponent, visRowVertex + intCounter) = visTagArcTo 
  Set vsoCell = vsoShape.CellsSRC(visSectionFirstComponent, visRowVertex + intCounter, 2) 
- vsoCell.Formula = "-" &; strBowCell 
+ vsoCell.Formula = "-" & strBowCell 
  
  Next intCounter 
  
@@ -86,7 +86,7 @@ Public Sub Precedents_Example()
  'List the cell names and their associated formula 
  For intCounter = LBound(acellPrecedentCells) To UBound(acellPrecedentCells) 
  Set vsoCell = acellPrecedentCells(intCounter) 
- Debug.Print vsoCell.Name &; " has this formula: " &; vsoCell.Formula 
+ Debug.Print vsoCell.Name & " has this formula: " & vsoCell.Formula 
  Next 
  
 End Sub

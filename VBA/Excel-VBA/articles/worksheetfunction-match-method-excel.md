@@ -68,7 +68,7 @@ Double
 
 ## Example
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It?s 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It?s 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 For each value in the first column of the first worksheet, this example searches through the entire workbook for a matching value. If the macro finds a matching value, it sets the original value on the first worksheet to be bold.
 

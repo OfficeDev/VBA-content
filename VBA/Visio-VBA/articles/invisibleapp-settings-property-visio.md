@@ -30,7 +30,7 @@ ApplicationSettings
 
 ## Remarks
 
-Use the  **Settings** property of the **Application** object to get an **ApplicationSettings** object that you can then use to set various application properties corresponding to those in the **Options** dialog box (click the **File** tab, and then click **Options**) and the  **Snap &; Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
+Use the  **Settings** property of the **Application** object to get an **ApplicationSettings** object that you can then use to set various application properties corresponding to those in the **Options** dialog box (click the **File** tab, and then click **Options**) and the  **Snap & Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
 
 
 ## Example

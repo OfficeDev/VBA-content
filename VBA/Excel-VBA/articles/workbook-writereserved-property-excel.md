@@ -36,7 +36,7 @@ If the active workbook is write-reserved, this example displays a message that c
 ```vb
 With ActiveWorkbook 
  If .WriteReserved = True Then 
- MsgBox "Please contact " &; .WriteReservedBy &; Chr(13) &; _ 
+ MsgBox "Please contact " & .WriteReservedBy & Chr(13) & _ 
  " if you need to insert data in this workbook." 
  End If 
 End With

@@ -48,7 +48,7 @@ PayType = MsgBox("Do you make payments at the end of month?", vbYesNo)
 If PayType = vbNo Then PayType = BEGINPERIOD Else PayType = ENDPERIOD
 PVal = InputBox("How much is in this savings account now?")
 FVal = FV(APR / 12, TotPmts, -Payment, -PVal, PayType)
-MsgBox "Your savings will be worth " &; Format(FVal, Fmt) &; "."
+MsgBox "Your savings will be worth " & Format(FVal, Fmt) & "."
 ```
 
 

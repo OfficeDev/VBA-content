@@ -35,7 +35,7 @@ This example displays the Publisher build number.
 
 ```vb
 Sub BuildNumber() 
- MsgBox Prompt:="The current Microsoft Publisher build number is " &; _ 
+ MsgBox Prompt:="The current Microsoft Publisher build number is " & _ 
  Application.Build, Title:="Microsoft Publisher Build" 
 End Sub
 ```

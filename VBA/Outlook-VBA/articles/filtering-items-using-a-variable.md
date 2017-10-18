@@ -14,11 +14,11 @@ You can use values from variables as part of a filter in Microsoft Jet syntax or
 ```
 fullname = "Dan Wilson" 
 ' This approach uses Chr(34) to delimit the value.  
-criteria = "[FullName] = " &; Chr(34) &; fullname _ &; Chr(34) 
+criteria = "[FullName] = " & Chr(34) & fullname _ & Chr(34) 
 ' This approach uses the double quotation mark to delimit the value.  
-criteria = "[FullName] = """ &; fullname &; """" 
+criteria = "[FullName] = """ & fullname & """" 
 ' This approach uses the escaped hexadecimal value of the double quotation mark to delimit the value.  
-criteria = "[FullName] = "%22" &; fullname &; "%22"" 
+criteria = "[FullName] = "%22" & fullname & "%22"" 
 
 ```
 

@@ -54,7 +54,7 @@ Private Sub PPTApp_PresentationBeforeSave(ByVal Pres As Presentation, _
 
     If Pres.HasRevisionInfo Then
 
-        intResponse = MsgBox(Prompt:="The presentation contains revisions. " &; _
+        intResponse = MsgBox(Prompt:="The presentation contains revisions. " & _
             "Do you want to accept the revisions before saving?", Buttons:=vbYesNo)
 
         If intResponse = vbYes Then

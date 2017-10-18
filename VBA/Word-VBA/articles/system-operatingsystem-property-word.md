@@ -29,7 +29,7 @@ This example displays a message that includes the name of the current operating 
 
 
 ```vb
-MsgBox "This computer is running " &; System.OperatingSystem
+MsgBox "This computer is running " & System.OperatingSystem
 ```
 
 

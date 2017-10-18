@@ -29,7 +29,7 @@ The following example displays a message indicating the number of tabbed pages o
 
 
 ```vb
-MsgBox "Number of pages in TabCtl1:" &; TabCtl1.Pages.Count
+MsgBox "Number of pages in TabCtl1:" & TabCtl1.Pages.Count
 ```
 
 

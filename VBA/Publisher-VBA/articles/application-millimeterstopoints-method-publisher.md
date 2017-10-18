@@ -60,10 +60,10 @@ Do While True
  If Val(strInput) = 0 Then Exit Do 
  
  ' Evaluate and display result. 
- strOutput = Trim(strInput) &; " mm = " _ 
- &; Format(Application _ 
+ strOutput = Trim(strInput) & " mm = " _ 
+ & Format(Application _ 
  .Mill imetersToPoints(Value:=Val(strInput)), _ 
- "0.00") &; " points" 
+ "0.00") & " points" 
  
  MsgBox strOutput 
 Loop

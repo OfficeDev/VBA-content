@@ -47,7 +47,7 @@ Values(1) = 22000 : Values(2) = 25000
 Values(3) = 28000 : Values(4) = 31000
 NetPVal = NPV(RetRate, Values())    ' Calculate net present value.
 Msg = "The net present value of these cash flows is "
-Msg = Msg &; Format(NetPVal, Fmt) &; "."
+Msg = Msg & Format(NetPVal, Fmt) & "."
 MsgBox Msg    ' Display net present value.
 ```
 

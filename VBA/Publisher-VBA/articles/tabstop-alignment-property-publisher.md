@@ -37,14 +37,14 @@ This example enters a tabbed list and sets the alignment for two custom tab stop
 Sub CustomDecimalTabStop() 
  
  With ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange 
- .InsertAfter Newtext:="Pencils" &; vbTab &; _ 
- "Each" &; vbTab &; "1.50" &; vbLf 
- .InsertAfter Newtext:="Pens" &; vbTab &; _ 
- "Each" &; vbTab &; "4.95" &; vbLf 
- .InsertAfter Newtext:="Folders" &; vbTab &; _ 
- "Box" &; vbTab &; "35.28" &; vbLf 
- .InsertAfter Newtext:="Envelopes" &; vbTab &; _ 
- "Case" &; vbTab &; "150.69" &; vbLf 
+ .InsertAfter Newtext:="Pencils" & vbTab & _ 
+ "Each" & vbTab & "1.50" & vbLf 
+ .InsertAfter Newtext:="Pens" & vbTab & _ 
+ "Each" & vbTab & "4.95" & vbLf 
+ .InsertAfter Newtext:="Folders" & vbTab & _ 
+ "Box" & vbTab & "35.28" & vbLf 
+ .InsertAfter Newtext:="Envelopes" & vbTab & _ 
+ "Case" & vbTab & "150.69" & vbLf 
  With .Paragraphs(Start:=1).ParagraphFormat 
  .Tabs(1).Alignment = pbTabAlignmentCenter 
  .Tabs(2).Alignment = pbTabAlignmentDecimal 

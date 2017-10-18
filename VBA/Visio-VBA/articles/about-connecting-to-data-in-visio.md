@@ -76,11 +76,11 @@ Public Sub AddDataRecordset()
     Dim vsoDataRecordset As Visio.DataRecordset
     strOfficePath = Visio.Application.Path    
     strConnection = "Provider=Microsoft.ACE.OLEDB.12.0;" _
-                       &; "User ID=Admin;" _
-                       &; "Data Source=" + strOfficePath + "SAMPLES\1033\ORGDATA.XLS;" _
-                       &; "Mode=Read;" _
-                       &; "Extended Properties=""HDR=YES;IMEX=1;MaxScanRows=0;Excel 12.0;"";" _
-                       &; "Jet OLEDB:Engine Type=34;"
+                       & "User ID=Admin;" _
+                       & "Data Source=" + strOfficePath + "SAMPLES\1033\ORGDATA.XLS;" _
+                       & "Mode=Read;" _
+                       & "Extended Properties=""HDR=YES;IMEX=1;MaxScanRows=0;Excel 12.0;"";" _
+                       & "Jet OLEDB:Engine Type=34;"
     strCommand = "SELECT * FROM [Sheet1$]"
     Set vsoDataRecordset = ActiveDocument.DataRecordsets.Add(strConnection, strCommand, 0, "Data")
 

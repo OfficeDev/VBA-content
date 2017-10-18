@@ -38,11 +38,11 @@ Dim r As Reference
 Dim strInfo As String 
  
 For Each r In Application.References 
- strInfo = strInfo &; r.Name &; " " &; r.Major &; "." &; r.Minor &; vbCrLf 
+ strInfo = strInfo & r.Name & " " & r.Major & "." & r.Minor & vbCrLf 
 Next 
  
  
-MsgBox "Current References: " &; vbCrLf &; strInfo
+MsgBox "Current References: " & vbCrLf & strInfo
 ```
 
 

@@ -44,7 +44,7 @@ The following example positions the selected boxes in a top-down layout.
 Sub Layout_SelectionNow() 
  
  'Activate Network Diagram view 
- ViewApply Name:="Network &;Diagram" 
+ ViewApply Name:="Network &Diagram" 
  
  BoxSet Action:=pjBoxAddToSelection, TaskID:=2 
  BoxLayout LayoutMode:=pjLayoutManual, LayoutScheme:=pjLayoutTopDownByDay 

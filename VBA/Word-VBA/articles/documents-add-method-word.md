@@ -55,7 +55,7 @@ This example creates a new document based on the Professional Memo template.
 
 ```
 Documents.Add Template:="C:\Program Files\Microsoft Office" _ 
- &; "\Templates\Memos\Professional Memo.dot"
+ & "\Templates\Memos\Professional Memo.dot"
 ```
 
 This example creates and opens a new template, using the template attached to the active document as a model.

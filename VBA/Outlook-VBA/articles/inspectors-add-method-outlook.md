@@ -71,7 +71,7 @@ Sub DisplayMyContacts()
  
  .GetDefaultFolder(olFolderContacts) 
  
- filter = "[MessageClass] = 'IPM.Contact' AND [CompanyName] = '" &; answer &; "'" 
+ filter = "[MessageClass] = 'IPM.Contact' AND [CompanyName] = '" & answer & "'" 
  
  
  

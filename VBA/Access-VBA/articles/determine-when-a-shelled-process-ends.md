@@ -78,8 +78,8 @@ Private Declare Function CreateProcessA Lib "kernel32" (ByVal _
 Private Declare Function CloseHandle Lib "kernel32" (ByVal _ 
  hObject As Long) As Long 
  
-Private Const NORMAL_PRIORITY_CLASS = &;H20&; 
-Private Const INFINITE = -1&; 
+Private Const NORMAL_PRIORITY_CLASS = &H20& 
+Private Const INFINITE = -1&
 
 ```
 
@@ -98,8 +98,8 @@ Public Sub ExecCmd(cmdline As String)
  start.cb = Len(start) 
  
  ' Start the shelled application: 
- ReturnValue = CreateProcessA(0&;, cmdline$, 0&;, 0&;, 1&;, _ 
- NORMAL_PRIORITY_CLASS, 0&;, 0&;, start, proc) 
+ ReturnValue = CreateProcessA(0&, cmdline$, 0&, 0&, 1&, _ 
+ NORMAL_PRIORITY_CLASS, 0&, 0&, start, proc) 
  
  ' Wait for the shelled application to finish: 
  Do 

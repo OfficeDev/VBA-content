@@ -32,7 +32,7 @@ This example displays the distance between the header and the top of the page. T
 Dim sngDistance As Single 
  
 sngDistance = ActiveDocument.PageSetup.HeaderDistance 
-Msgbox PointsToInches(sngDistance) &; " inches"
+Msgbox PointsToInches(sngDistance) & " inches"
 ```
 
 

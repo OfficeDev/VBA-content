@@ -36,8 +36,8 @@ This example formats the selection as a numbered list. The example then displays
 ```
 Selection.Range.ListFormat.ApplyListTemplate _ 
  ListTemplate:=ListGalleries(wdNumberGallery).ListTemplates(2) 
-MsgBox "This document has " &; ActiveDocument.Lists.Count _ 
- &; " lists."
+MsgBox "This document has " & ActiveDocument.Lists.Count _ 
+ & " lists."
 ```
 
 This example formats the third list in the active document with the default bulleted list format. If the list is already formatted with a bulleted list format, the example removes the formatting.
@@ -60,8 +60,8 @@ This example displays a message box that reports the number of items in each lis
 Set myDoc = Documents("MyLetter.doc") 
 i = myDoc.Lists.Count 
 For each li in myDoc.Lists 
- Msgbox "List " &; i &; " has " &; li.CountNumberedItems _ 
- &; " items." 
+ Msgbox "List " & i & " has " & li.CountNumberedItems _ 
+ & " items." 
  i = i - 1 
 Next li
 ```

@@ -34,7 +34,7 @@ The following example displays the handle to the Publisher application window.
 
 
 ```vb
-MsgBox "The handle to the Publisher application window is " &; _ 
+MsgBox "The handle to the Publisher application window is " & _ 
  Application.ActiveWindow.Hwnd
 ```
 

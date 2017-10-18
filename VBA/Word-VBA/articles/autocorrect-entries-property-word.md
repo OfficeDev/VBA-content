@@ -56,7 +56,7 @@ For Each acEntry in AutoCorrect.Entries
  blnMatch = True 
  intResponse = _ 
  MsgBox("Are you sure you want to delete " _ 
- &; acEntry.Name, 4) 
+ & acEntry.Name, 4) 
  If intResponse = vbYes Then 
  acEntry.Delete 
  End If 
@@ -64,7 +64,7 @@ For Each acEntry in AutoCorrect.Entries
 Next acEntry 
  
 If blnMatch <> True Then 
- MsgBox "There was no AutoCorrect entry: " &; strEntry 
+ MsgBox "There was no AutoCorrect entry: " & strEntry 
 End If
 ```
 

@@ -53,11 +53,11 @@ Sub CheckInPresentation(strPresentation As String)
 
         Presentations(strPresentation).CheckIn
 
-        MsgBox strPresentation &; " has been checked in."
+        MsgBox strPresentation & " has been checked in."
 
     Else
 
-        MsgBox strPresentation &; " cannot be checked in at this time.  Please try again later."
+        MsgBox strPresentation & " cannot be checked in at this time.  Please try again later."
 
     End If
 

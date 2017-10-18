@@ -36,8 +36,8 @@ This example returns the path and name of the source file for any shapes on the 
 ```vb
 For Each s In ActiveDocument.Shapes 
  If s.Type = msoLinkedOLEObject Then 
- Msgbox s.LinkFormat.SourcePath &; "\" _ 
- &; s.LinkFormat.SourceName 
+ Msgbox s.LinkFormat.SourcePath & "\" _ 
+ & s.LinkFormat.SourceName 
  End If 
 Next s
 ```

@@ -59,7 +59,7 @@ Private Sub myOlApp_ItemSend(ByVal Item As Object, Cancel As Boolean)
  
  Dim prompt As String 
  
- prompt = "Are you sure you want to send " &; Item.Subject &; "?" 
+ prompt = "Are you sure you want to send " & Item.Subject & "?" 
  
  If MsgBox(prompt, vbYesNo + vbQuestion, "Sample") = vbNo Then 
  

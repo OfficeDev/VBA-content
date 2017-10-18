@@ -61,7 +61,7 @@ Private Sub myOlExp_BeforeViewSwitch(ByVal NewView As Variant, Cancel As Boolean
  
  
  
- Prompt = "Are you sure you want to switch to the " &; NewView &; " view?" 
+ Prompt = "Are you sure you want to switch to the " & NewView & " view?" 
  
  If MsgBox(Prompt, vbYesNo + vbQuestion) = vbNo Then Cancel = True 
  

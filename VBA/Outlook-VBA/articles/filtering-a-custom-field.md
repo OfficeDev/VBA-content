@@ -47,9 +47,9 @@ For example, if you want to use  **[Items.Restrict](items-restrict-method-outloo
 
 
 ```
-criteria = "@SQL=" &; Chr$(34) &; "http://schemas.microsoft.com/mapi/string/" _ 
-&; "{00020329-0000-0000-C000-000000000046}/MyProperty"_ 
-&; "/0000001f" &; Chr(34) &; " = '12-74440'" 
+criteria = "@SQL=" & Chr$(34) & "http://schemas.microsoft.com/mapi/string/" _ 
+& "{00020329-0000-0000-C000-000000000046}/MyProperty"_ 
+& "/0000001f" & Chr(34) & " = '12-74440'" 
 
 ```
 

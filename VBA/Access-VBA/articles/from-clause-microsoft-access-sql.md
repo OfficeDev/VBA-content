@@ -77,7 +77,7 @@ Sub SelectX1()
     ' Select the last name and first name values of all  
     ' records in the Employees table. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
-        &; "FirstName FROM Employees;") 
+        & "FirstName FROM Employees;") 
  
     ' Populate the recordset. 
     rst.MoveLast 
@@ -108,7 +108,7 @@ Sub SelectX2()
     ' Count the number of records with a PostalCode  
     ' value and return the total in the Tally field. 
     Set rst = dbs.OpenRecordset("SELECT Count " _ 
-        &; "(PostalCode) AS Tally FROM Customers;") 
+        & "(PostalCode) AS Tally FROM Customers;") 
  
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -139,9 +139,9 @@ Sub SelectX3()
     ' Count the number of employees, calculate the  
     ' average salary, and return the highest salary. 
     Set rst = dbs.OpenRecordset("SELECT Count (*) " _ 
-        &; "AS TotalEmployees, Avg(Salary) " _ 
-        &; "AS AverageSalary, Max(Salary) " _ 
-        &; "AS MaximumSalary FROM Employees;") 
+        & "AS TotalEmployees, Avg(Salary) " _ 
+        & "AS AverageSalary, Max(Salary) " _ 
+        & "AS MaximumSalary FROM Employees;") 
  
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -176,17 +176,17 @@ Sub EnumFields(rst As Recordset, intFldLen As Integer)
     ' fields in the Recordset. 
     lngFields = rst.Fields.Count 
  
-    Debug.Print "There are " &; lngRecords _ 
-        &; " records containing " &; lngFields _ 
-        &; " fields in the recordset." 
+    Debug.Print "There are " & lngRecords _ 
+        & " records containing " & lngFields _ 
+        & " fields in the recordset." 
     Debug.Print 
  
     ' Form a string to print the column heading. 
     strTitle = "Record  " 
     For lngFldCount = 0 To lngFields - 1 
         strTitle = strTitle _ 
-        &; Left(rst.Fields(lngFldCount).Name _ 
-        &; Space(intFldLen), intFldLen) 
+        & Left(rst.Fields(lngFldCount).Name _ 
+        & Space(intFldLen), intFldLen) 
     Next lngFldCount     
  
     ' Print the column heading. 
@@ -198,8 +198,8 @@ Sub EnumFields(rst As Recordset, intFldLen As Integer)
     rst.MoveFirst 
  
     For lngRecCount = 0 To lngRecords - 1 
-        Debug.Print Right(Space(6) &; _ 
-            Str(lngRecCount), 6) &; "  "; 
+        Debug.Print Right(Space(6) & _ 
+            Str(lngRecCount), 6) & "  "; 
  
         For lngFldCount = 0 To lngFields - 1 
             ' Check for Null values. 
@@ -221,7 +221,7 @@ Sub EnumFields(rst As Recordset, intFldLen As Integer)
             End If 
  
             Debug.Print Left(strTemp _  
-                &; Space(intFldLen), intFldLen); 
+                & Space(intFldLen), intFldLen); 
         Next lngFldCount 
  
         Debug.Print 
@@ -236,7 +236,7 @@ End Sub
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

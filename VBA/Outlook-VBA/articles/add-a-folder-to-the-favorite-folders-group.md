@@ -80,7 +80,7 @@ EndRoutine:
     Exit Sub 
  
 ErrRoutine: 
-    MsgBox Err.Number &; " - " &; Err.Description, _ 
+    MsgBox Err.Number & " - " & Err.Description, _ 
         vbOKOnly Or vbCritical, _ 
         "CreateImportantFavoritesFolder" 
 End Sub

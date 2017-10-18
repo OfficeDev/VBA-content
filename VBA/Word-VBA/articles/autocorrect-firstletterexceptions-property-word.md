@@ -56,7 +56,7 @@ For Each fleLoop in AutoCorrect.FirstLetterExceptions
  If fleLoop.Name = strException Then 
  blnMatch = True 
  intConfirm = MsgBox("Are you sure you want to delete " _ 
- &; fleLoop.Name, 4) 
+ & fleLoop.Name, 4) 
  If intConfirm = vbYes Then 
  fleLoop.Delete 
  End If 
@@ -65,7 +65,7 @@ Next fleLoop
  
 If blnMatch <> True Then 
  MsgBox "There was no First Letter exception: " _ 
- &; strException 
+ & strException 
 End If
 ```
 

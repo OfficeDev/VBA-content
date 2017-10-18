@@ -59,8 +59,8 @@ Public Sub DoSQL()
  
     Dim SQL As String 
      
-    SQL = "UPDATE Employees " &; _ 
-          "SET Employees.Title = 'Regional Sales Manager' " &; _ 
+    SQL = "UPDATE Employees " & _ 
+          "SET Employees.Title = 'Regional Sales Manager' " & _ 
           "WHERE Employees.Title = 'Sales Manager'" 
  
     DoCmd.RunSQL SQL 

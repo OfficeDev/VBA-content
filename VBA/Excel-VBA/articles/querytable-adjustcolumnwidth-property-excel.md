@@ -43,7 +43,7 @@ This example turns off automatic column-width adjustment for the newly added que
 With Workbooks(1).Worksheets(1).QueryTables _ 
  .Add(Connection:= varDBConnStr, _ 
  Destination:=Range("B1"), _ 
- Sql:="Select Price From CurrentStocks " &; _ 
+ Sql:="Select Price From CurrentStocks " & _ 
  "Where Symbol = 'MSFT'") 
  .AdjustColumnWidth = False 
  .Refresh 

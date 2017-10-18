@@ -81,7 +81,7 @@ Sub GetUnitOfMeasurement()
  strUnit = "points" 
  End Select 
  
- MsgBox "The current unit of measurement is " &; strUnit 
+ MsgBox "The current unit of measurement is " & strUnit 
  
 End Sub
 ```

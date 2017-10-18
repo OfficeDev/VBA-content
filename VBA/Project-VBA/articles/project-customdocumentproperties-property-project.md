@@ -43,13 +43,13 @@ Sub TestDocProps()
     Set docProps = ActiveProject.CustomDocumentProperties
     
     numProps = docProps.Count
-    Debug.Print "Number of custom document properties: " &; numProps
+    Debug.Print "Number of custom document properties: " & numProps
     
     For Each docProp In docProps
         If (docProp.Name = "Date completed") Then
             Debug.Print "Date completed: (none) "
         Else
-            Debug.Print docProp.Name &; vbTab &; ": " &; docProp.Value
+            Debug.Print docProp.Name & vbTab & ": " & docProp.Value
         End If
     Next docProp
 End Sub

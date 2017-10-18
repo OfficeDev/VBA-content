@@ -35,7 +35,7 @@ Sub AddAndSave(pptPres As Presentation)
 
     pptPres.Slides.Add 1, 1
 
-    pptPres.SaveAs pptPres.Application.Path &; "\Added Slide"
+    pptPres.SaveAs pptPres.Application.Path & "\Added Slide"
 
 End Sub
 ```

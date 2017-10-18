@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Concatenation Operators
 
-[&; Operator](operator.md)
+[& Operator](operator.md)
 
 [+ Operator](plus-operator.md)
 

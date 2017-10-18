@@ -36,7 +36,7 @@ Sub ShowVolumeInfo(drvpath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(fs.GetAbsolutePathName(drvpath)))
-    s = "Drive " &; d.DriveLetter &; ": - " &; d.VolumeName
+    s = "Drive " & d.DriveLetter & ": - " & d.VolumeName
     MsgBox s
 End Sub
 ```

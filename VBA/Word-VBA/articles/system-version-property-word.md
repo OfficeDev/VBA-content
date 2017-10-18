@@ -29,7 +29,7 @@ This example displays the version number of the operating system in a message bo
 
 
 ```
-Msgbox "The system version is " &; System.Version
+Msgbox "The system version is " & System.Version
 ```
 
 

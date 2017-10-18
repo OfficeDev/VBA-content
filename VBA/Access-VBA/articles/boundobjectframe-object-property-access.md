@@ -48,7 +48,7 @@ Sub PrintFormLetter_Click()
  ' Assign customer address to variables. 
  strCustomer = Me!CompanyName 
  strAddress = Me!Address 
- strCity = Me!City &; ", " 
+ strCity = Me!City & ", " 
  If Not IsNull(Me!Region) Then 
  strRegion = Me!Region 
  Else 
@@ -77,7 +77,7 @@ Sub PrintFormLetter_Click()
  ' Highlight placeholder text. 
  .EndOfLine 1 
  ' Insert City and Region. 
- .Insert strCity &; strRegion 
+ .Insert strCity & strRegion 
  .FilePrint 
  .FileClose 
  End With 

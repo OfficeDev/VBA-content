@@ -29,7 +29,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthloadfromfile_HV10294485.xml( _bstr_t FileName ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenstream_HV10294567.xml( const _variant_t &; Source , enum 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthopenstream_HV10294567.xml( const _variant_t & Source , enum 
  ConnectModeEnum Mode , enum StreamOpenOptionsEnum Options , _bstr_t 
  UserName , _bstr_t Password ); 
  
@@ -43,7 +43,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthskipline_HV10294780.xml( ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthwrite_HV10294958.xml( const _variant_t &; Buffer ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthwrite_HV10294958.xml( const _variant_t & Buffer ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthwritetext_HV10294959.xml( _bstr_t Data , enum StreamWriteEnumOptions ); 
 
@@ -90,7 +90,7 @@ __declspec(property(get=GetType,put=PutType)) enum StreamTypeEnum Invalid DDUE b
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

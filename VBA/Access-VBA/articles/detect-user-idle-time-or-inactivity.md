@@ -91,7 +91,7 @@ Then, create the following procedure in the form module:
 Sub IdleTimeDetected(ExpiredMinutes) 
          Dim Msg As String 
          Msg = "No user activity detected in the last " 
-         Msg = Msg &; ExpiredMinutes &; " minute(s)!" 
+         Msg = Msg & ExpiredMinutes & " minute(s)!" 
          MsgBox Msg, 48 
       End Sub
 ```

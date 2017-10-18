@@ -63,8 +63,8 @@ Sub AvgX()
     ' Calculate the average freight charges for orders 
     ' with freight charges over $100.   
     Set rst = dbs.OpenRecordset("SELECT Avg(Freight)" _ 
-        &; " AS [Average Freight]" _ 
-        &; " FROM Orders WHERE Freight > 100;") 
+        & " AS [Average Freight]" _ 
+        & " FROM Orders WHERE Freight > 100;") 
     
     ' Populate the Recordset. 
     rst.MoveLast 
@@ -82,7 +82,7 @@ End Sub
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

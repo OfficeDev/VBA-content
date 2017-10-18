@@ -27,7 +27,7 @@ You can also set a property of a form or report from within the object's module 
 
 ```vb
 Me.RecordSource = "SELECT * FROM Customers " _ 
-    &; "WHERE CompanyName Like 'A*'"
+    & "WHERE CompanyName Like 'A*'"
 ```
 
 

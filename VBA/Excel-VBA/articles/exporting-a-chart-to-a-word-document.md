@@ -8,9 +8,9 @@ ms.date: 06/08/2017
 
 # Exporting a Chart to a Word Document
 
-This example takes a chart named &;quot;Chart 1&;quot; from Sheet 1 and exports it as a .gif file. Then it inserts the .gif file into an existing Word document named &;quot;Chart Report&;quot; at the bookmarked location named &;quot;ChartReport&;quot;.
+This example takes a chart named 'Chart 1' from Sheet 1 and exports it as a .gif file. Then it inserts the .gif file into an existing Word document named 'Chart Report' at the bookmarked location named 'ChartReport'.
 
- **Sample code provided by:** Dennis Wallentin,[VSTO &; .NET &; Excel](http://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin,[VSTO & .NET & Excel](http://xldennis.wordpress.com/)
 
 
 
@@ -41,12 +41,12 @@ Sub Export_Chart_Word()
     
     'Export the chart to the current directory, using the specified name, and save the chart as a .gif
     ChartObj.Chart.Export _
-                   Filename:=wbBook.Path &; "\" &; stChartName, _
+                   Filename:=wbBook.Path & "\" & stChartName, _
                    FilterName:="GIF"
     
     'Initialize the Word objets to the existing Word document and bookmark.
     Set wdApp = New Word.Application
-    Set wdDoc = wdApp.Documents.Open(wbBook.Path &; "\" &; stWordDocument)
+    Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordDocument)
     Set wdbmRange = wdDoc.Bookmarks("ChartReport").Range
     
     'If there is already an inline shape, that means the macro has been run before - clean up any artifacts.
@@ -62,7 +62,7 @@ Sub Export_Chart_Word()
     With wdbmRange
         .Select
         .InlineShapes.AddPicture _
-        Filename:=wbBook.Path &; "\" &; stChartName, _
+        Filename:=wbBook.Path & "\" & stChartName, _
         LinkToFile:=False, _
         savewithdocument:=True
     End With
@@ -83,10 +83,10 @@ Sub Export_Chart_Word()
     
     'Delete the temporary .gif file.
     On Error Resume Next
-    Kill wbBook.Path &; "\" &; stChartName
+    Kill wbBook.Path & "\" & stChartName
     On Error GoTo 0
     
-    MsgBox "Chart exported successfully to " &; stWordDocument
+    MsgBox "Chart exported successfully to " & stWordDocument
 
 End Sub
 ```
@@ -95,6 +95,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 

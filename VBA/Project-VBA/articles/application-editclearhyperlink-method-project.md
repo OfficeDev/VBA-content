@@ -37,7 +37,7 @@ The following example first creates a hyperlink in the Gantt Chart view and then
 Sub EditClear_Hyperlink() 
  
  'Activate Gantt Chart view 
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  SelectRow Row:=2, RowRelative:=False 
  InsertHyperlink Name:="http://MSDN", Address:="http://msdn.microsoft.com/", SubAddress:="", ScreenTip:="" 
  

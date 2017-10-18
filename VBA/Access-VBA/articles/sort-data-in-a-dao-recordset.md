@@ -23,8 +23,8 @@ Dim dbsNorthwind As DAO.Database
 Dim rstManagers As DAO.Recordset 
  
 Set dbsNorthwind = CurrentDb 
-Set rstManagers = dbsNorthwind.OpenRecordset("SELECT FirstName, " &; _ 
-                  "LastName FROM Employees WHERE Title = " &; _ 
+Set rstManagers = dbsNorthwind.OpenRecordset("SELECT FirstName, " & _ 
+                  "LastName FROM Employees WHERE Title = " & _ 
                   "'Sales Manager' ORDER BY LastName") 
 
 ```
@@ -41,7 +41,7 @@ Dim qdfSalesReps As DAO.QueryDef
 Set dbsNorthwind = CurrentDb 
  
 Set qdfSalesReps = dbsNorthwind.CreateQueryDef("SalesRepQuery") 
-qdfSalesReps.SQL = "SELECT * FROM Employees WHERE Title = " &; _ 
+qdfSalesReps.SQL = "SELECT * FROM Employees WHERE Title = " & _ 
                    "'Sales Representative'" 
  
 Set rstSalesReps = dbsNorthwind.OpenRecordset("SalesRepQuery") 

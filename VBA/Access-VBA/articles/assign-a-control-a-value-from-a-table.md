@@ -18,7 +18,7 @@ The following example populates the UnitPrice text box with the price of the pro
 Private Sub ProductID_AfterUpdate() 
  
  ' Evaluate filter before it is passed to DLookup function. 
- strFilter = "ProductID = " &; Me!ProductID 
+ strFilter = "ProductID = " & Me!ProductID 
  
  ' Look up product's unit price and assign it to the UnitPrice control. 
  Me!UnitPrice = DLookup("UnitPrice", "Products", strFilter) 

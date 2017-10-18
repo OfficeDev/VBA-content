@@ -42,7 +42,7 @@ This example converts 72 points to the corresponding number of millimeters.
 
 
 ```vb
-MsgBox PointsToMillimeters(72) &; " millimeters"
+MsgBox PointsToMillimeters(72) & " millimeters"
 ```
 
 This example converts the value of the variable  _sngData_ (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable _intUnit_ (a value from 1 through 5 that indicates the resulting unit of measurement).

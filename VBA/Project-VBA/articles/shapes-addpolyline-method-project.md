@@ -33,7 +33,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
 
 ## Remarks
 
-To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing. For a closed polygon, the default shape fill color is a medium blue: &;HD59B5B, or  `RGB(Red:=91, Green:=155, Blue:=213)`.
+To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing. For a closed polygon, the default shape fill color is a medium blue: &HD59B5B, or  `RGB(Red:=91, Green:=155, Blue:=213)`.
 
 
 ## Example
@@ -75,10 +75,10 @@ Sub AddOctagon()
     
     With polylineShape.Line
         .Weight = 2
-        .ForeColor.RGB = &;HFF0090    ' Violet color.
+        .ForeColor.RGB = &HFF0090    ' Violet color.
     End With
     
-    polylineShape.Fill.ForeColor.RGB = &;H10D0D0    ' Gold color.
+    polylineShape.Fill.ForeColor.RGB = &H10D0D0    ' Gold color.
 End Sub
 ```
 

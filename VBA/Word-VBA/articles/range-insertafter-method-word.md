@@ -73,7 +73,7 @@ This example inserts text from an input box as the second paragraph in the activ
 ```vb
 response = InputBox("Type some text") 
 With ActiveDocument.Paragraphs(1).Range 
- .InsertAfter "1." &; Chr(9) &; response 
+ .InsertAfter "1." & Chr(9) & response 
  .InsertParagraphAfter 
 End With
 ```

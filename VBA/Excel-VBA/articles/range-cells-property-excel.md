@@ -49,12 +49,12 @@ This example scans a column of data named "myRange." If a cell has the same valu
 Set r = Range("myRange") 
 For n = 1 To r.Rows.Count 
     If r.Cells(n, 1) = r.Cells(n + 1, 1) Then 
-        MsgBox "Duplicate data in " &; r.Cells(n + 1, 1).Address 
+        MsgBox "Duplicate data in " & r.Cells(n + 1, 1).Address 
     End If 
 Next n
 ```
 
- **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books,[Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example looks through column C, and for every cell that has a comment, it puts the comment text into column D and deletes the comment from column C.
 

@@ -45,7 +45,7 @@ This example inserts a number and a tab before the first nine paragraphs in the 
 For n = 0 To 8 
  Set myRange = ActiveDocument.Paragraphs(1).Next(Count:=n).Range 
  myRange.Collapse Direction:=wdCollapseStart 
- myRange.InsertAfter n + 1 &; vbTab 
+ myRange.InsertAfter n + 1 & vbTab 
 Next n
 ```
 

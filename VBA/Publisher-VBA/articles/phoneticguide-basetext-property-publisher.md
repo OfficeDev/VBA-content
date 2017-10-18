@@ -37,7 +37,7 @@ This example adds phonetic text to the selection and displays the text to which 
 Sub AddPhoneticText() 
  With Selection.TextRange.Fields.AddPhoneticGuide _ 
  (Range:=Selection.TextRange, Text:="tray sheek") 
- MsgBox "The base text is " &; .PhoneticGuide.BaseText 
+ MsgBox "The base text is " & .PhoneticGuide.BaseText 
  End With 
 End Sub
 ```

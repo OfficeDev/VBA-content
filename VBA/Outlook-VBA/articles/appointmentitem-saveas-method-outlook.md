@@ -53,12 +53,12 @@ Sub SaveAsTXT()
  strname = objItem.Subject 
  'Prompt the user for confirmation 
  Dim strPrompt As String 
- strPrompt = "Are you sure you want to save the first attachment " &; _ 
- "in the current item to the Documents folder? If a file with the " &; _ 
- "same name already exists in the destination folder, " &; _ 
+ strPrompt = "Are you sure you want to save the first attachment " & _ 
+ "in the current item to the Documents folder? If a file with the " & _ 
+ "same name already exists in the destination folder, " & _ 
  "it will be overwritten with this copy of the file." 
  If MsgBox(strPrompt, vbYesNo + vbQuestion) = vbYes Then 
- objItem.SaveAs Environ("HOMEPATH") &; "\My Documents\" &; strname &; ".txt", olTXT 
+ objItem.SaveAs Environ("HOMEPATH") & "\My Documents\" & strname & ".txt", olTXT 
  End If 
  Else 
  MsgBox "There is no current active inspector." 
@@ -78,7 +78,7 @@ Sub CreateTemplate()
  Set MyItem = Application.CreateItem(olAppointmentItem) 
  MyItem.Subject = "Status Report" 
  MyItem.Display 
- MyItem.SaveAs Environ("HOMEPATH") &; "\My Documents\statusrep.oft", OlSaveAsType.olTemplate 
+ MyItem.SaveAs Environ("HOMEPATH") & "\My Documents\statusrep.oft", OlSaveAsType.olTemplate 
 End Sub
 ```
 

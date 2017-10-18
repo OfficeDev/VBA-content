@@ -16,7 +16,7 @@ Object that enables single-click access to data analysis features such as formul
 
 ## Example
 
-This sample illustrates using the [QuickAnalysis.Hide Method (Excel)](quickanalysis-hide-method-excel.md) method of the **QuickAnalysis** object. In this example, the _1_ argument specifies that, if displayed, the Conditional Formatting &; Sparklines callouts are hidden.
+This sample illustrates using the [QuickAnalysis.Hide Method (Excel)](quickanalysis-hide-method-excel.md) method of the **QuickAnalysis** object. In this example, the _1_ argument specifies that, if displayed, the Conditional Formatting & Sparklines callouts are hidden.
 
 
 ```vb

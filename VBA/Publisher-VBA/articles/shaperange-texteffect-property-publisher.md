@@ -37,7 +37,7 @@ Sub AddFormatNewWordArt()
  .Rotation = 90 
  With .TextEffect 
  .RotatedChars = msoTrue 
- .Text = "This is a " &; .Text 
+ .Text = "This is a " & .Text 
  End With 
  .Width = 250 
  End With 

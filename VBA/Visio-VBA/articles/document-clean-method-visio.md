@@ -56,36 +56,36 @@ The  _nTargets_ argument can be any combination of the values of the constants d
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visDocCleanTargAll**|&;HFF|Examine all objects (default for  _nTargets_ ).|
-| **visDocCleanTargFPages**|&;H1|Examine foreground pages.|
-| **visDocCleanTargBPages**|&;H2|Examine background pages.|
-| **visDocCleanTargMasters**|&;H4|Examine masters.|
-| **visDocCleanTargStyles**|&;H8|Examine styles. |
-| **visDocCleanTargDoc**|&;H10 |Examine document sheet.|
-| **visDocCleanTargPageSheet**|&;H100|Examine page sheet(s). |
+| **visDocCleanTargAll**|&HFF|Examine all objects (default for  _nTargets_ ).|
+| **visDocCleanTargFPages**|&H1|Examine foreground pages.|
+| **visDocCleanTargBPages**|&H2|Examine background pages.|
+| **visDocCleanTargMasters**|&H4|Examine masters.|
+| **visDocCleanTargStyles**|&H8|Examine styles. |
+| **visDocCleanTargDoc**|&H10 |Examine document sheet.|
+| **visDocCleanTargPageSheet**|&H100|Examine page sheet(s). |
 The nActions, nAlerts, and nFixes arguments can be any combination of the values of the constants defined in  **VisDocCleanActions** in the Visio type library, and described in the following table.
 
 
 
 |** Constant**|** Value**|** Description**|
 |:-----|:-----|:-----|
-| **visDocCleanActLocalFormulas**| &;H1| Detect unnecessary local overrides.|
-| **visDocCleanActEmptyRowsAndSects**| &;H2| Detect empty local rows and sections.|
-| **visDocCleanActNonDefaultFonts**| &;H4| Detect non-default font settings.|
-| **visDocCleanActStaleResults**| &;H8| Detect results that don't match formulas.|
-| **visDocCleanActMissingSubs**| &;H10| Detect missing subscriptions (cell dependencies).|
-| **visDocCleanActConstantFormulas**| &;H20| Detect formulas that can be generated from the result.|
-| **visDocCleanActNearZero**| &;H40| Detect results that are almost zero and change them to zero.|
-| **visDocCleanActDuplicateSubs**| &;H80| Detect duplicate subscriptions (cell dependencies).|
-| **visDocCleanActBadDisplayLists**| &;H100| Detect invalid display list linkages.|
-| **visDocCleanActDeletedFields**| &;H400| Detect deleted fields.|
-| **visDocCleanActBadFieldFormulas**| &;H800| Detect fields with missing or nonstandard formulas.|
-| **visDocCleanActBadFieldMarks**| &;H1000| Detect fields with out-of-sync count and marker values. Change the position of escape characters to match character counts.|
-| **visDocCleanActBadReferences**| &;H2000| Detect formulas with #Ref() errors.|
-| **visDocCleanActAll**| &;H3FFF| Perform all actions.|
-| **visDocCleanActDefault**| &;H1FD8| Default conditions to detect (default value of _nActions_ ).|
-| **visDocCleanAlertDefault**| &;H0| Default conditions to report (default value of _nAlerts_ ).|
-| **visDocCleanFixDefault**| &;H3D8| Default conditions to fix (default value for _nFixes_ ).|
+| **visDocCleanActLocalFormulas**| &H1| Detect unnecessary local overrides.|
+| **visDocCleanActEmptyRowsAndSects**| &H2| Detect empty local rows and sections.|
+| **visDocCleanActNonDefaultFonts**| &H4| Detect non-default font settings.|
+| **visDocCleanActStaleResults**| &H8| Detect results that don't match formulas.|
+| **visDocCleanActMissingSubs**| &H10| Detect missing subscriptions (cell dependencies).|
+| **visDocCleanActConstantFormulas**| &H20| Detect formulas that can be generated from the result.|
+| **visDocCleanActNearZero**| &H40| Detect results that are almost zero and change them to zero.|
+| **visDocCleanActDuplicateSubs**| &H80| Detect duplicate subscriptions (cell dependencies).|
+| **visDocCleanActBadDisplayLists**| &H100| Detect invalid display list linkages.|
+| **visDocCleanActDeletedFields**| &H400| Detect deleted fields.|
+| **visDocCleanActBadFieldFormulas**| &H800| Detect fields with missing or nonstandard formulas.|
+| **visDocCleanActBadFieldMarks**| &H1000| Detect fields with out-of-sync count and marker values. Change the position of escape characters to match character counts.|
+| **visDocCleanActBadReferences**| &H2000| Detect formulas with #Ref() errors.|
+| **visDocCleanActAll**| &H3FFF| Perform all actions.|
+| **visDocCleanActDefault**| &H1FD8| Default conditions to detect (default value of _nActions_ ).|
+| **visDocCleanAlertDefault**| &H0| Default conditions to report (default value of _nAlerts_ ).|
+| **visDocCleanFixDefault**| &H3D8| Default conditions to fix (default value for _nFixes_ ).|
 
 ## Example
 

@@ -49,7 +49,7 @@ The  _Flags_ argument is a bitmask that specifies options for optimizing the pat
 
 |**Constant **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visSplinePeriodic**|&;H1|Produce periodic splines if appropriate.|
-| **visSplineDoCircles**|&;H2|Recognize circular segments in the shape(s) and generate circular arcs instead of spline rows for those segments.|
-| **visSplineAbrupt**|&;H4|Break the resulting splines whenever an abrupt change of direction or curvature in a path is detected.|
+| **visSplinePeriodic**|&H1|Produce periodic splines if appropriate.|
+| **visSplineDoCircles**|&H2|Recognize circular segments in the shape(s) and generate circular arcs instead of spline rows for those segments.|
+| **visSplineAbrupt**|&H4|Break the resulting splines whenever an abrupt change of direction or curvature in a path is detected.|
 

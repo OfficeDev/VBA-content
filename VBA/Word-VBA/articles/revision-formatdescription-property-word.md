@@ -34,7 +34,7 @@ Sub FmtChanges()
  
  For Each revFmtRev In ActiveDocument.Revisions 
  If revFmtRev.FormatDescription <> "" Then 
- MsgBox "Format changes made : " &; revFmtRev.FormatDescription 
+ MsgBox "Format changes made : " & revFmtRev.FormatDescription 
  End If 
  Next 
 End Sub

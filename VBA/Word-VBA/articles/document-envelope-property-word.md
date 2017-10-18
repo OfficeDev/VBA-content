@@ -51,10 +51,10 @@ This example creates a new document and adds an envelope with a predefined deliv
 
 
 ```
-addr = "Don Funk" &; vbCr &; "123 Skye St." _ 
- &; vbCr &; "Our Town, WA 98040" 
-retaddr = "Karin Gallagher" &; vbCr &; "123 Main" _ 
- &; vbCr &; "Other Town, WA 98004" 
+addr = "Don Funk" & vbCr & "123 Skye St." _ 
+ & vbCr & "Our Town, WA 98040" 
+retaddr = "Karin Gallagher" & vbCr & "123 Main" _ 
+ & vbCr & "Other Town, WA 98004" 
 Documents.Add.Envelope.Insert Address:=addr, ReturnAddress:=retaddr 
 ActiveDocument.ActiveWindow.View.Type = wdPrintView
 ```

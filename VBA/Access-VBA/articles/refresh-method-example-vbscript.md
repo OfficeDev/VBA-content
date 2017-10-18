@@ -54,7 +54,7 @@ Choose if you want the Recordset brought back Synchronously on thecurrent callin
 <TR><TD>Synchronously: <BR>
 <Input Type="Radio" Name="optExecuteOptions" Checked OnClick="SetExO('adcExecSync')"></TD>
 <TD>Asynchronously: <BR><Input Type="Radio" Name="optExecuteOptions" OnClick="SetExO('adcExecAsync')">
-</TD><TD>&;nbsp;</TD>
+</TD><TD>&nbsp;</TD>
 </TR><TR>
 <TD COLSPAN=3 BGCOLOR=silver>Fetch Up Front, Background Fetch with Blocking or Background Fetch
 without Blocking</TD>
@@ -93,7 +93,7 @@ RDC.RefreshEnd Sub
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

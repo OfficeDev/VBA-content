@@ -64,7 +64,7 @@ Private Sub Form_Filter(Cancel As Integer, FilterType As Integer)
         Forms!Orders!TotalDue.Enabled = False 
     ElseIf FilterType = acFilterAdvanced Then 
         MsgBox "The best way to filter this form is to use the " _ 
-            &; "Filter By Form command or toolbar button.", vbOKOnly + vbInformation 
+            & "Filter By Form command or toolbar button.", vbOKOnly + vbInformation 
         Cancel = True 
     End If 
 End Sub

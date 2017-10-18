@@ -43,7 +43,7 @@ Allows you to change the selected command.
     
 - Delete — Deletes the command.
     
-- Name — Changes the name of the control to the name you type into the box. By using the ampersand (&;), you can also set shortcut keys.
+- Name — Changes the name of the control to the name you type into the box. By using the ampersand (&), you can also set shortcut keys.
     
 - Copy Button Image — Copies the button image to the  **Clipboard**.
     

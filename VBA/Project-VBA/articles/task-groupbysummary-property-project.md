@@ -65,7 +65,7 @@ Sub ShowGroupByItems()
  rowType = "' is a task row." 
  End If 
  
- msg = msg &; "Task name: '" &; tsk.Name &; rowType &; vbCrLf 
+ msg = msg & "Task name: '" & tsk.Name & rowType & vbCrLf 
  SelectCellDown 
  End If 
  Wend 

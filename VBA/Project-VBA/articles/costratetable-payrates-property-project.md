@@ -37,9 +37,9 @@ Sub ListPayRates()
  
  For Each CRT In ActiveCell.Resource.CostRateTables 
  For Each PR In CRT.PayRates 
- Rates = Rates &; "CostRateTable " &; CRT.Name &; ": " &; _ 
- PR.StandardRate &; " (Effective " &; PR.EffectiveDate &; _ 
- ")" &; vbCrLf 
+ Rates = Rates & "CostRateTable " & CRT.Name & ": " & _ 
+ PR.StandardRate & " (Effective " & PR.EffectiveDate & _ 
+ ")" & vbCrLf 
  Next PR 
  Next CRT 
  

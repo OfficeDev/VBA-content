@@ -27,11 +27,11 @@ Sub MappedFieldName()
  With ActiveDocument.MailMerge.DataSource 
  If .MappedDataFields.Item(wdFirstName).DataFieldName <> "" Then 
  MsgBox "The mapped data field 'FirstName' is mapped to " _ 
- &; .MappedDataFields(Index:=wdFirstName) _ 
- .DataFieldName &; "." 
+ & .MappedDataFields(Index:=wdFirstName) _ 
+ .DataFieldName & "." 
  Else 
- MsgBox "The mapped data field 'FirstName' is not " &; _ 
- "mapped to any of the data fields in your " &; _ 
+ MsgBox "The mapped data field 'FirstName' is not " & _ 
+ "mapped to any of the data fields in your " & _ 
  "data source." 
  End If 
  

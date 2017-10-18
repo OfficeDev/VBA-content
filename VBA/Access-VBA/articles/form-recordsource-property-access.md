@@ -59,8 +59,8 @@ The next example changes a form's record source to a single record in the Custom
 Sub cmboCompanyName_AfterUpdate() 
  Dim strNewRecord As String 
  strNewRecord = "SELECT * FROM Customers " _ 
- &; " WHERE CustomerID = '" _ 
- &; Me!cmboCompanyName.Value &; "'" 
+ & " WHERE CustomerID = '" _ 
+ & Me!cmboCompanyName.Value & "'" 
  Me.RecordSource = strNewRecord 
 End Sub
 ```

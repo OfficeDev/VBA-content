@@ -37,7 +37,7 @@ This example displays the name of the child field for the field named "REGION2."
 
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
-MsgBox "The name of the child field is " &; _ 
+MsgBox "The name of the child field is " & _ 
  pvtTable.PivotFields("REGION2").ChildField.Name
 ```
 

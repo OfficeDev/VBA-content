@@ -26,7 +26,7 @@ To make sure that the date-time comparison string is formatted as Microsoft Outl
 
 ```
 criteria = "[LastModificationTime] < '" _ 
-         &; Format$("6/12/2005 3:30PM","General Date") &; "'"
+         & Format$("6/12/2005 3:30PM","General Date") & "'"
 ```
 
 
@@ -40,8 +40,8 @@ When a property is referenced in a DASL query by namespace, the comparison evalu
 
 
 ```
-criteria = "@SQL=" &; Chr(34) &; "DAV:getlastmodified" &; Chr(34) _ 
-         &; " < '" &; Format$("6/12/2005 3:30PM","General Date") &; "'"
+criteria = "@SQL=" & Chr(34) & "DAV:getlastmodified" & Chr(34) _ 
+         & " < '" & Format$("6/12/2005 3:30PM","General Date") & "'"
 ```
 
 
@@ -120,25 +120,25 @@ Sub TestDASLDateComparison()
     'All three filters shown below will return the same results 
     'This filter uses DASL date macro for today 
     strFilter = "%today(" _ 
-    &; AddQuotes("urn:schemas:httpmail:datereceived") &; ")%" 
+    & AddQuotes("urn:schemas:httpmail:datereceived") & ")%" 
      
     'This filter uses urn:schemas:httpmail namespace 
     strFilter = AddQuotes("urn:schemas:httpmail:datereceived") _ 
-    &; " > '" &; datStartUTC &; "' AND " _ 
-    &; AddQuotes("urn:schemas:httpmail:datereceived") _ 
-    &; " < '" &; datEndUTC &; "'" 
+    & " > '" & datStartUTC & "' AND " _ 
+    & AddQuotes("urn:schemas:httpmail:datereceived") _ 
+    & " < '" & datEndUTC & "'" 
  
     'This filter uses http://schemas.microsoft.com/mapi/proptag 
-    strFilter = AddQuotes(SchemaPropTag &; "0x0E060040") _ 
-    &; " > '" &; datStartUTC &; "' AND " _ 
-    &; AddQuotes(SchemaPropTag &; "0x0E060040") _ 
-    &; " < '" &; datEndUTC &; "'" 
+    strFilter = AddQuotes(SchemaPropTag & "0x0E060040") _ 
+    & " > '" & datStartUTC & "' AND " _ 
+    & AddQuotes(SchemaPropTag & "0x0E060040") _ 
+    & " < '" & datEndUTC & "'" 
  
     'Count of items in Inbox 
     Debug.Print (colItems.Count) 
  
     'This call succeeds with @SQL prefix 
-    Set colRestrict = colItems.Restrict("@SQL=" &; strFilter) 
+    Set colRestrict = colItems.Restrict("@SQL=" & strFilter) 
     'Get count of restricted items 
     Debug.Print (colRestrict.Count) 
  
@@ -154,7 +154,7 @@ End Sub
  
 Public Function AddQuotes(ByVal SchemaName As String) As String 
     On Error Resume Next 
-    AddQuotes = Chr(34) &; SchemaName &; Chr(34) 
+    AddQuotes = Chr(34) & SchemaName & Chr(34) 
 End Function 
  
  

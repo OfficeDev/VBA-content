@@ -38,7 +38,7 @@ Sub ShowDriveType(drvpath)
         Case 4: t = "CD-ROM"
         Case 5: t = "RAM Disk"
     End Select
-    s = "Drive " &; d.DriveLetter &; ": - " &; t
+    s = "Drive " & d.DriveLetter & ": - " & t
     MsgBox s
 End Sub
 ```

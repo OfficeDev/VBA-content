@@ -49,7 +49,7 @@ The following example adds row numbers 3 through 5 to the current selection.
 Sub Select_Row() 
  
  'Activate Gantt Chart 
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  SelectRow Row:=3, RowRelative:=False, Height:=2, Add:=True 
 End Sub
 ```

@@ -42,7 +42,7 @@ This example converts a measurement of 30 points to the corresponding number of 
 
 
 ```vb
-MsgBox PointsToCentimeters(30) &; " centimeters"
+MsgBox PointsToCentimeters(30) & " centimeters"
 ```
 
 This example converts the value of the variable  `sngData` (a measurement in points) to centimeters, inches, lines, millimeters, or picas, depending on the value of the variable `intUnit` (a value from 1 through 5 that indicates the resulting unit of measurement).

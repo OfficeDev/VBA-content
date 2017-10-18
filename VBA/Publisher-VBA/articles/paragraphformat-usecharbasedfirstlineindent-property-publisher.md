@@ -56,7 +56,7 @@ With theTextBox
  .TextFrame.TextRange.Font.Name = "Verdana" 
  .TextFrame.TextRange.Font.Size = 12 
  .TextFrame.TextRange.Text = "This is a test sentence." _ 
- &; Chr(13) &; "This is another test sentence." 
+ & Chr(13) & "This is another test sentence." 
 End With
 ```
 

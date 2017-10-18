@@ -49,9 +49,9 @@ For intLoop = 1 To 9
  .NumberStyle = wdListNumberStyleArabic 
  .NumberPosition = InchesToPoints(0.25 * (intLoop - 1)) 
  .TextPosition = InchesToPoints(0.25 * intLoop) 
- .NumberFormat = "%" &; intLoop &; "." 
+ .NumberFormat = "%" & intLoop & "." 
  End With 
- With ActiveDocument.Styles("Heading " &; intLoop) 
+ With ActiveDocument.Styles("Heading " & intLoop) 
  .LinkToListTemplate ListTemplate:=ltTemp 
  End With 
 Next intLoop 

@@ -45,7 +45,7 @@ Sub CreateActionWebButton()
  Top:=150, Width:=75, Height:=36).WebCommandButton 
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 
- .ActionURL = "http://www.tailspintoys.com/" &; _ 
+ .ActionURL = "http://www.tailspintoys.com/" & _ 
  "scripts/ispscript.cgi" 
  End With 
 End Sub

@@ -23,7 +23,7 @@ Use the  **[KeysBoundTo](application-keysboundto-property-word.md)** property to
 CustomizationContext = NormalTemplate 
 For Each myKey In KeysBoundTo(KeyCategory:=wdKeyCategoryCommand, _ 
  Command:="FileNew") 
- myStr = myStr &; myKey.KeyString &; vbCr 
+ myStr = myStr & myKey.KeyString & vbCr 
 Next myKey 
 MsgBox myStr
 ```

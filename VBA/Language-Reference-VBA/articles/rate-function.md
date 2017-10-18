@@ -50,7 +50,7 @@ PayType = MsgBox("Do you make payments at the end of the month?", _
 vbYesNo)
 If PayType = vbNo Then PayType = BEGINPERIOD Else PayType = ENDPERIOD
 APR = (Rate(TotPmts, -Payment, PVal, FVal, PayType, Guess) * 12) * 100
-MsgBox "Your interest rate is " &; Format(CInt(APR), Fmt) &; " percent."
+MsgBox "Your interest rate is " & Format(CInt(APR), Fmt) & " percent."
 
 ```
 

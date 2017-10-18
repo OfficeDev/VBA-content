@@ -50,11 +50,11 @@ If LifeTime <> Int(MonthLife / YEARMONTHS) Then
 End If 
 DepYear = CInt(InputBox("For which year do you want depreciation?"))
 Do While DepYear < 1 Or DepYear > LifeTime
-    MsgBox "You must enter at least 1 but not more than " &; LifeTime
+    MsgBox "You must enter at least 1 but not more than " & LifeTime
     DepYear = CInt(InputBox("For what year do you want depreciation?"))
 Loop
 PDepr = SYD(InitCost, SalvageVal, LifeTime, DepYear)
-MsgBox "The depreciation for year " &; DepYear &; " is " &; Format(PDepr, Fmt) &; "."
+MsgBox "The depreciation for year " & DepYear & " is " & Format(PDepr, Fmt) & "."
 ```
 
 

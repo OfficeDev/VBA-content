@@ -88,7 +88,7 @@ Public Sub AddAt_Example()
  Set vsoMenuItem = vsoMenuItems.Add 
  
  'Set the properties for the new menu item. 
- vsoMenuItem.Caption = "Run &;MyMacro" 
+ vsoMenuItem.Caption = "Run &MyMacro" 
  vsoMenuItem.AddOnName = "ThisDocument.MyMacro" 
  vsoMenuItem.ActionText = "Run MyMacro" 
  

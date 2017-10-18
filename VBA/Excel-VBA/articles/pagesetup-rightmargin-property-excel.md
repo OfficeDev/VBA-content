@@ -56,7 +56,7 @@ This example displays the current right-margin setting for Sheet1.
 ```
 marginInches = Worksheets("Sheet1").PageSetup.RightMargin / _ 
  Application.InchesToPoints(1) 
-MsgBox "The current right margin is " &; marginInches &; " inches"
+MsgBox "The current right margin is " & marginInches & " inches"
 ```
 
 

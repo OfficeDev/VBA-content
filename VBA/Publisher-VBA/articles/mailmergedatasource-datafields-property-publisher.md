@@ -41,9 +41,9 @@ Sub ShowNameForActiveRecord()
  With ActiveDocument.MailMerge.DataSource 
  Set mdfFirst = .DataFields.Item("FirstName") 
  Set mdfLast = .DataFields.Item("LastName") 
- MsgBox "The active record in the attached " &; _ 
- vbLf &; "data source is : " &; _ 
- mdfFirst.Value &; " " &; _ 
+ MsgBox "The active record in the attached " & _ 
+ vbLf & "data source is : " & _ 
+ mdfFirst.Value & " " & _ 
  mdfLast.Value 
  End With 
 End Sub

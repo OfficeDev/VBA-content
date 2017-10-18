@@ -36,7 +36,7 @@ This example displays the name of each template in the Templates collection.
 ```vb
 Count = 1 
 For Each aTemplate In Templates 
- MsgBox aTemplate.Name &; " is template number " &; Count 
+ MsgBox aTemplate.Name & " is template number " & Count 
  Count = Count + 1 
 Next aTemplate
 ```

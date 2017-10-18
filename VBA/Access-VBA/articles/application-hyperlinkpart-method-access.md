@@ -84,17 +84,17 @@ Public Sub DisplayHyperlinkParts(ByVal strTable As String, _
  ' For each record in table. 
  Do Until rst.EOF 
  strMsg = "DisplayValue = " _ 
- &; HyperlinkPart(rst(strField), acDisplayedValue) _ 
- &; vbCrLf &; "DisplayText = " _ 
- &; HyperlinkPart(rst(strField), acDisplayText) _ 
- &; vbCrLf &; "Address = " _ 
- &; HyperlinkPart(rst(strField), acAddress) _ 
- &; vbCrLf &; "SubAddress = " _ 
- &; HyperlinkPart(rst(strField), acSubAddress) _ 
- &; vbCrLf &; "ScreenTip = " _ 
- &; HyperlinkPart(rst(strField), acScreenTip) _ 
- &; vbCrLf &; "Full Address = " _ 
- &; HyperlinkPart(rst(strField), acFullAddress) 
+ & HyperlinkPart(rst(strField), acDisplayedValue) _ 
+ & vbCrLf & "DisplayText = " _ 
+ & HyperlinkPart(rst(strField), acDisplayText) _ 
+ & vbCrLf & "Address = " _ 
+ & HyperlinkPart(rst(strField), acAddress) _ 
+ & vbCrLf & "SubAddress = " _ 
+ & HyperlinkPart(rst(strField), acSubAddress) _ 
+ & vbCrLf & "ScreenTip = " _ 
+ & HyperlinkPart(rst(strField), acScreenTip) _ 
+ & vbCrLf & "Full Address = " _ 
+ & HyperlinkPart(rst(strField), acFullAddress) 
  
  ' Show parts returned by HyperlinkPart function. 
  MsgBox strMsg 

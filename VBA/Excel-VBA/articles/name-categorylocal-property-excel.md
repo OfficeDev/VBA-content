@@ -31,9 +31,9 @@ This example displays, in the language of the user, the function category of eit
 ```vb
 With ActiveWorkbook.Names(1) 
  If .MacroType <> xlNone Then 
- MsgBox "The category for this name is " &; .CategoryLocal 
+ MsgBox "The category for this name is " & .CategoryLocal 
  Else 
- MsgBox "This name does not refer to" &; _ 
+ MsgBox "This name does not refer to" & _ 
  " a custom function or command." 
  End If 
 End With

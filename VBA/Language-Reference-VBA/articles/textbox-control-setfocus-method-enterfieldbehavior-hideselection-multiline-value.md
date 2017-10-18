@@ -67,17 +67,17 @@ Private Sub UserForm_Initialize()
  
 'Fill the TextBox 
  TextBox1.Text = "SelText indicates the starting " _ 
- &; "point of selected text, or the insertion " _ 
- &; point if no text is selected." &; Chr$(10) _ 
- &; Chr$(13) &; "The SelStart property is " _ 
- &; "always valid, even when the control does " _ 
- &; "not have focus. Setting SelStart to a " _ 
- &; "value less than zero creates an error. " _ 
- &; Chr$(10) &; Chr$(13) &; "Changing the value " _ 
- &; "of SelStart cancels any existing " _ 
- &; "selection in the control, places " _ 
- &; "an insertion point in the text, and sets " _ 
- &; "the SelLength property to zero." 
+ & "point of selected text, or the insertion " _ 
+ & point if no text is selected." & Chr$(10) _ 
+ & Chr$(13) & "The SelStart property is " _ 
+ & "always valid, even when the control does " _ 
+ & "not have focus. Setting SelStart to a " _ 
+ & "value less than zero creates an error. " _ 
+ & Chr$(10) & Chr$(13) & "Changing the value " _ 
+ & "of SelStart cancels any existing " _ 
+ & "selection in the control, places " _ 
+ & "an insertion point in the text, and sets " _ 
+ & "the SelLength property to zero." 
  
  TextBox1.HideSelection = True 
  ToggleButton1.Caption = "Selection Hidden" 

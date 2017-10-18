@@ -81,7 +81,7 @@ Exit_Procedure:
     Exit Sub
 
 Error_Handler:
-    MsgBox Err.Number &; ": " &; Err.Description
+    MsgBox Err.Number & ": " & Err.Description
     Resume Exit_Procedure
     Resume
 

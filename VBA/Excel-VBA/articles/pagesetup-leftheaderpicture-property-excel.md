@@ -28,7 +28,7 @@ Returns a  **[Graphic](graphic-object-excel.md)** object that represents the pic
 The  **LeftHeaderPicture** property is read-only, but not all of its properties are read-only.
 
 
- **Note**  It is required that "&;G" be a part of the  **LeftHeader** property string in order for the image to show up in the left header.
+ **Note**  It is required that "&G" be a part of the  **LeftHeader** property string in order for the image to show up in the left header.
 
 
 ## Example
@@ -53,7 +53,7 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the left header. 
- ActiveSheet.PageSetup.LeftHeader = "&;G" 
+ ActiveSheet.PageSetup.LeftHeader = "&G" 
  
 End Sub
 ```

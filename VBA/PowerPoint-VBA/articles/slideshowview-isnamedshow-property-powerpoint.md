@@ -48,7 +48,7 @@ If the slide show running in slide show window one is a custom slide show, this 
 With SlideShowWindows(1).View
     If .IsNamedShow Then
         MsgBox "Now showing in slide show window 1: " _
-           &; .SlideShowName
+           & .SlideShowName
     End If
 End With
 ```

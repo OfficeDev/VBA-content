@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 You can use most Microsoft Excel worksheet functions in your Visual Basic statements. For a list of the worksheet functions you can use, see  [List of Worksheet Functions Available to Visual Basic](list-of-worksheet-functions-available-to-visual-basic.md).
 
 
- **Note**  Some worksheet functions are not useful in Visual Basic. For example, the  **Concatenate** function is not needed because in Visual Basic you can use the **&;** operator to join multiple text values.
+ **Note**  Some worksheet functions are not useful in Visual Basic. For example, the  **Concatenate** function is not needed because in Visual Basic you can use the **&** operator to join multiple text values.
 
 
 ## Calling a Worksheet Function from Visual Basic
@@ -84,7 +84,7 @@ loanTerm = Application.InputBox _
  Default:=loanTerm, Type:=1) 
 payment = Application.WorksheetFunction _ 
  .Pmt(loanInt / 1200, loanTerm * 12, loanAmt) 
-MsgBox "Monthly payment is " &; Format(payment, "Currency")
+MsgBox "Monthly payment is " & Format(payment, "Currency")
 ```
 
 

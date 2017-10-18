@@ -34,7 +34,7 @@ Sub DisplayTabNumber()
  
  strSheetName = InputBox("Type a sheet name, such as Sheet4.") 
  
- MsgBox "This sheet is tab number " &; Sheets(strSheetName).Index 
+ MsgBox "This sheet is tab number " & Sheets(strSheetName).Index 
 End Sub
 ```
 

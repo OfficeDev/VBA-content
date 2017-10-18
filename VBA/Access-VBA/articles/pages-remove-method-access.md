@@ -58,7 +58,7 @@ Exit_RemovePage:
  Exit Function 
  
 Error_RemovePage: 
- MsgBox Err &; ": " &; Err.Description 
+ MsgBox Err & ": " & Err.Description 
  RemovePage = False 
  Resume Exit_RemovePage 
 End Function

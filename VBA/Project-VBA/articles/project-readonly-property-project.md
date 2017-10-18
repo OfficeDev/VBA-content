@@ -39,9 +39,9 @@ Sub CopyReadOnlyFiles()
  OldName = P.Name ' Store its name. 
  Path = P.Path ' Store its path. 
  ' Create a new name for the file and save it. 
- NewName = "New " &; Left(OldName, Len(OldName) - 4) &; ".MPP" 
+ NewName = "New " & Left(OldName, Len(OldName) - 4) & ".MPP" 
  P.Activate 
- FileSaveAs Path &; PathSeparator &; NewName 
+ FileSaveAs Path & PathSeparator & NewName 
  End If 
  Next P 
  

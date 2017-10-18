@@ -18,7 +18,7 @@ Function MakeUSDate(DateIn As Variant) As String
  If Not IsDate(DateIn) Then Exit Function 
  
  ' Convert the date to a U.S. Date format. 
- MakeUSDate = "#" &; Month(DateIn) &; "/" &; Day(DateIn) &; "/" &; Year(DateIn) &; "#" 
+ MakeUSDate = "#" & Month(DateIn) & "/" & Day(DateIn) & "/" & Year(DateIn) & "#" 
 End Function
 ```
 

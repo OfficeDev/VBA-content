@@ -91,8 +91,8 @@ Public Function AvgFreightCost(ByVal strCountry As String, _
                                ByVal dteShipDate As Date) As Double 
  
     AvgFreightCost = DAvg("[Freight]", "Orders", _ 
-                     "[ShipCountry] = '" &; strCountry &; _ 
-                     "'AND [ShippedDate] >= #" &; dteShipDate &; "#") 
+                     "[ShipCountry] = '" & strCountry & _ 
+                     "'AND [ShippedDate] >= #" & dteShipDate & "#") 
  
 End Function
 ```
@@ -124,24 +124,24 @@ The following examples show how to use various types of criteria with the  **DAv
     ' ***************************
     ' Referring to a control on a form
     ' Numerical values
-    variable = DAvg("[FieldName]", "TableName", "[Criteria] = " &; Forms!FormName!ControlName)
+    variable = DAvg("[FieldName]", "TableName", "[Criteria] = " & Forms!FormName!ControlName)
 
     ' Strings
-    variable = DAvg("[FieldName]", "TableName", "[Criteria] = '" &; Forms!FormName!ControlName &; "'")
+    variable = DAvg("[FieldName]", "TableName", "[Criteria] = '" & Forms!FormName!ControlName & "'")
 
     ' Dates
-    variable = DAvg("[FieldName]", "TableName", "[Criteria] = #" &; Forms!FormName!ControlName &; "#")
+    variable = DAvg("[FieldName]", "TableName", "[Criteria] = #" & Forms!FormName!ControlName & "#")
     ' ***************************
 
     ' ***************************
     ' Combinations
     ' Multiple types of criteria
-    variable = DAvg("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
-             &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
-            &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
+    variable = DAvg("[FieldName]", "TableName", "[Criteria1] = " & Forms![FormName]![Control1] _
+             & " AND [Criteria2] = '" & Forms![FormName]![Control2] & "'" _
+            & " AND [Criteria3] =#" & Forms![FormName]![Control3] & "#")
     
     ' Use two fields from a single record.
-    variable = DAvg("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
+    variable = DAvg("[LastName] & ', ' & [FirstName]", "tblPeople", "[PrimaryKey] = 7")
             
     ' Expressions
     variable = DAvg("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")

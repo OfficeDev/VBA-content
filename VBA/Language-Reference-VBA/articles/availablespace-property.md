@@ -31,10 +31,10 @@ Sub ShowAvailableSpace(drvPath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(drvPath))
-    s = "Drive " &; UCase(drvPath) &; " - " 
-    s = s &; d.VolumeName  &; vbCrLf
-    s = s &; "Available Space: " &; FormatNumber(d.AvailableSpace/1024, 0) 
-    s = s &; " Kbytes"
+    s = "Drive " & UCase(drvPath) & " - " 
+    s = s & d.VolumeName  & vbCrLf
+    s = s & "Available Space: " & FormatNumber(d.AvailableSpace/1024, 0) 
+    s = s & " Kbytes"
     MsgBox s
 End Sub
 ```

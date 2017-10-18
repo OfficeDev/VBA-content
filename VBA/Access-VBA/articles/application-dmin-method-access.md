@@ -80,7 +80,7 @@ Dim curX As Currency
  
 dteOrderDate = #03/30/2000# 
 curX = DMin("[Freight]", "Orders", _ 
-    "[OrderDate] = #" &; dteOrderDate &; "#")
+    "[OrderDate] = #" & dteOrderDate & "#")
 ```
 
 
@@ -110,24 +110,24 @@ The following examples show how to use various types of criteria with the  **DMi
     ' ***************************
     ' Referring to a control on a form
     ' Numerical values
-    variable = DMin("[FieldName]", "TableName", "[Criteria] = " &; Forms!FormName!ControlName)
+    variable = DMin("[FieldName]", "TableName", "[Criteria] = " & Forms!FormName!ControlName)
 
     ' Strings
-    variable = DMin("[FieldName]", "TableName", "[Criteria] = '" &; Forms!FormName!ControlName &; "'")
+    variable = DMin("[FieldName]", "TableName", "[Criteria] = '" & Forms!FormName!ControlName & "'")
 
     ' Dates
-    variable = DMin("[FieldName]", "TableName", "[Criteria] = #" &; Forms!FormName!ControlName &; "#")
+    variable = DMin("[FieldName]", "TableName", "[Criteria] = #" & Forms!FormName!ControlName & "#")
     ' ***************************
 
     ' ***************************
     ' Combinations
     ' Multiple types of criteria
-    variable = DMin("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
-             &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
-            &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
+    variable = DMin("[FieldName]", "TableName", "[Criteria1] = " & Forms![FormName]![Control1] _
+             & " AND [Criteria2] = '" & Forms![FormName]![Control2] & "'" _
+            & " AND [Criteria3] =#" & Forms![FormName]![Control3] & "#")
     
     ' Use two fields from a single record.
-    variable = DMin("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
+    variable = DMin("[LastName] & ', ' & [FirstName]", "tblPeople", "[PrimaryKey] = 7")
             
     ' Expressions
     variable = DMin("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")

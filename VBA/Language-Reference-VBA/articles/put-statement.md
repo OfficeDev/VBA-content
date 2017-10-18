@@ -103,7 +103,7 @@ Dim MyRecord As Record, RecordNumber ' Declare variables.
 Open "TESTFILE" For Random As #1 Len = Len(MyRecord) 
 For RecordNumber = 1 To 5 ' Loop 5 times. 
  MyRecord.ID = RecordNumber ' Define ID. 
- MyRecord.Name = "My Name" &; RecordNumber ' Create a string. 
+ MyRecord.Name = "My Name" & RecordNumber ' Create a string. 
  Put #1, RecordNumber, MyRecord ' Write record to file. 
 Next RecordNumber 
 Close #1 ' Close file. 

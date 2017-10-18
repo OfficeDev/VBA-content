@@ -48,7 +48,7 @@ TotPmts = InputBox("How many monthly payments will you make?")
 PayType = MsgBox("Do you make payments at the end of month?", vbYesNo)
 If PayType = vbNo Then PayType = BEGINPERIOD Else PayType = ENDPERIOD
 Payment = Pmt(APR / 12, TotPmts, -PVal, FVal, PayType)
-MsgBox "Your payment will be " &; Format(Payment, Fmt) &; " per month."
+MsgBox "Your payment will be " & Format(Payment, Fmt) & " per month."
 
 ```
 

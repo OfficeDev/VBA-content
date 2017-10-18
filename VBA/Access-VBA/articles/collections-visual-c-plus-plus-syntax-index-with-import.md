@@ -44,7 +44,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 
 ```
@@ -74,7 +74,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 
 ```
@@ -90,7 +90,7 @@ __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, erro
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml( IDispatch * Object ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldelete_HV10294294.xml( const _variant_t &; Index ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldelete_HV10294294.xml( const _variant_t & Index ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 
@@ -106,7 +106,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 
 ```
@@ -121,10 +121,10 @@ __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, erro
 ```c#
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml( _bstr_t Name , enum DataTypeEnum Type , long DefinedSize , 
- enum FieldAttributeEnum Attrib , const _variant_t &; FieldValue  = 
+ enum FieldAttributeEnum Attrib , const _variant_t & FieldValue  = 
  vtMissing ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldeletefield_HV10294293.xml( const _variant_t &; Index ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldeletefield_HV10294293.xml( const _variant_t & Index ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
  
@@ -142,7 +142,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 
 ```
@@ -150,7 +150,7 @@ __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, erro
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

@@ -55,7 +55,7 @@ Sub ReplaceLines()
  Set rngText = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange.Lines(Start:=1, Length:=3) 
  
- rngText.Text = "This is replacement text." &; vbCrLf 
+ rngText.Text = "This is replacement text." & vbCrLf 
  
 End Sub
 ```

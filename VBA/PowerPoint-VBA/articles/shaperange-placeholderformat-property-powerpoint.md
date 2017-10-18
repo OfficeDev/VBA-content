@@ -47,7 +47,7 @@ With ActivePresentation.Slides(1).Shapes.Placeholders
                     .TextFrame.TextRange = "Centered Title Text"
 
                 Case Else
-                    MsgBox "There's no horizontal" &; _
+                    MsgBox "There's no horizontal" & _
                         "title on this slide"
 
             End Select

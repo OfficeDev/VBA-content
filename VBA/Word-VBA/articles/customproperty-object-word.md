@@ -28,8 +28,8 @@ Use the  **[Name](customproperty-name-property-word.md)** and **[Value](custompr
 ```vb
 Sub SmartTagsProps() 
  With ActiveDocument.SmartTags(Index:=1).Properties.Item(Index:=1) 
- MsgBox "Smart Tag Name: " &; .Name &; vbLf &; _ 
- "Smart Tag Value: " &; .Value 
+ MsgBox "Smart Tag Name: " & .Name & vbLf & _ 
+ "Smart Tag Value: " & .Value 
  End With 
 End Sub
 ```

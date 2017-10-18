@@ -36,9 +36,9 @@ Private Sub CommandButton1_Click()
  'count 
  TextBox1.SetFocus 
  Label1.Caption = "LineCount = " _ 
- &; TextBox1.LineCount 
+ & TextBox1.LineCount 
  Label2.Caption = "TextLength = " _ 
- &; TextBox1.TextLength 
+ & TextBox1.TextLength 
 End Sub 
  
 Private Sub UserForm_Initialize() 

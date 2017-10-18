@@ -24,7 +24,7 @@ When a Visual Basic class implements an interface, the Visual Basic class provid
 
  **Note**  Visual Basic does not implement derived classes or interfaces.
 
-When you implement an interface or class, you must include all the  **Public** procedures involved. A missing member in an implementation of an interface or class causes an error. If you don't place code in one of the procedures in a class you are implementing, you can raise the appropriate error ( **Const** E_NOTIMPL = &;H80004001) so a user of the implementation understands that a member is not implemented.
+When you implement an interface or class, you must include all the  **Public** procedures involved. A missing member in an implementation of an interface or class causes an error. If you don't place code in one of the procedures in a class you are implementing, you can raise the appropriate error ( **Const** E_NOTIMPL = &H80004001) so a user of the implementation understands that a member is not implemented.
 The  **Implements** statement can't appear in a [standard module](vbe-glossary.md).
 
 ## Example

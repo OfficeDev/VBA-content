@@ -35,7 +35,7 @@ The following code displays a message if the installed version of Word does not 
 
 ```
 If Application.ArbitraryXMLSupportAvailable = False Then 
- MsgBox "Custom XML schemas are not " &; _ 
+ MsgBox "Custom XML schemas are not " & _ 
  "supported in this version of Microsoft Word."
 ```
 

@@ -61,10 +61,10 @@ The  _Flags_ argument can be one or a combination of the following constants dec
 
 |**Name **|**Value **|**Description **|
 |:-----|:-----|:-----|
-| **visDrawRegionDeleteInput**|&;H4 |Delete items in selection. |
-| **visDrawRegionIgnoreVisible**|&;H20 |Exclude visible geometry. |
-| **visDrawRegionIncludeDataGraphics**|&;H40|Include data graphic callout shapes and their sub-shapes. |
-| **visDrawRegionIncludeHidden**|&;H10 |Include hidden geometry. |
+| **visDrawRegionDeleteInput**|&H4 |Delete items in selection. |
+| **visDrawRegionIgnoreVisible**|&H20 |Exclude visible geometry. |
+| **visDrawRegionIncludeDataGraphics**|&H40|Include data graphic callout shapes and their sub-shapes. |
+| **visDrawRegionIncludeHidden**|&H10 |Include hidden geometry. |
 If the  **DrawRegion** method is passed a _ResultsMaster_ of type VT_EMPTY or VT_ERROR (which is how VBA passes an unspecified optional argument), the new shape is not an instance of a master and the fill, line, and text styles of the new region are set to the document's default styles.
 
 If the  **DrawRegion** method is passed a reference to a **Master** object in _ResultsMaster_ (type VT_UNKNOWN or VT_DISPATCH), the **DrawRegion** method instances that **Master** object and adds geometry computed given the **Selection** object.

@@ -134,7 +134,7 @@ Public Sub Cells_Example()
  For intCounter = 1 To 4 
  vsoShape.RowType(visSectionFirstComponent, visRowVertex + intCounter) = visTagArcTo 
  Set vsoCell = vsoShape.CellsSRC(visSectionFirstComponent, visRowVertex + intCounter, 2) 
- vsoCell.Formula = "-" &; strBowCell 
+ vsoCell.Formula = "-" & strBowCell 
  Next intCounter 
  
 End Sub

@@ -19,7 +19,7 @@ ms.date: 06/08/2017
 
 ```
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t &; Data ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t & Data ); 
  
 _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthgetchunk_HV10294391.xml( long Length ); 
 
@@ -72,7 +72,7 @@ _variant_t GetUnderlyingValue( );
 __declspec(property(get=GetUnderlyingValue)) _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprounderlyingvalue_HV10294879.xml; 
  
 _variant_t GetValue( ); 
-void PutValue( const _variant_t &; pvar ); 
+void PutValue( const _variant_t & pvar ); 
 __declspec(property(get=GetValue,put=PutValue)) _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprovalue_HV10294920.xml; 
 
 ```
@@ -80,7 +80,7 @@ __declspec(property(get=GetValue,put=PutValue)) _variant_t Invalid DDUE based on
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&tab=question&status=all&auth=1)<br>
 [Search for specific Access error codes on Bing](http://www.bing.com/)<br>
 [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>

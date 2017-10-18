@@ -45,7 +45,7 @@ For a control, this event occurs when the user:
     
 - Presses the ESC key on a form that has a command button whose  **Cancel** property is set to Yes.
     
-- Presses a control's access key. For example, if a command button's  **Caption** property is set to &;Go, pressing ALT+G triggers the event.
+- Presses a control's access key. For example, if a command button's  **Caption** property is set to &Go, pressing ALT+G triggers the event.
     
 On a form, this event occurs when the user clicks a blank area or record selector on the form.
 

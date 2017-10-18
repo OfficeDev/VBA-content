@@ -52,8 +52,8 @@ This example opens the Microsoft Excel workbook Sales.xls and inserts "1996 Sale
 Dim lngChannel As Long 
  
 lngChannel = DDEInitiate(App:="Excel", Topic:="System") 
-DDEExecute Channel:=lngChannel, Command:="[OPEN(" &; Chr(34) _ 
- &; "C:\Sales.xls" &; Chr(34) &; ")] 
+DDEExecute Channel:=lngChannel, Command:="[OPEN(" & Chr(34) _ 
+ & "C:\Sales.xls" & Chr(34) & ")] 
 DDETerminate Channel:=lngChannel 
 lngChannel = DDEInitiate(App:="Excel", Topic:="Sales.xls") 
 DDEPoke Channel:=lngChannel, Item:="R1C1", Data:="1996 Sales" 

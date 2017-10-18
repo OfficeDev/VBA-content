@@ -48,8 +48,8 @@ Private Sub appWord_WindowBeforeRightClick _
  (ByVal Sel As Selection, Cancel As Boolean) 
  Dim intResponse As Integer 
  
- intResponse = MsgBox("Selection = " &; Sel &; vbLf &; vbLf _ 
- &; "Continue with operation on this selection?", _ 
+ intResponse = MsgBox("Selection = " & Sel & vbLf & vbLf _ 
+ & "Continue with operation on this selection?", _ 
  vbYesNo) 
  If intResponse = vbNo Then Cancel = True 
 End Sub

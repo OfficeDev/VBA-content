@@ -33,7 +33,7 @@ Options.IgnoreUppercase = True
 ActiveDocument.CheckSpelling
 ```
 
-This example returns the current status of the Ignore words in UPPERCASE option on the Spelling &; Grammar tab in the Options dialog box.
+This example returns the current status of the Ignore words in UPPERCASE option on the Spelling & Grammar tab in the Options dialog box.
 
 
 

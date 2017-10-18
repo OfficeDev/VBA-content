@@ -72,15 +72,15 @@ Private Sub Document_XMLBeforeDelete(ByVal DeletedRange As Range, _
  If InUndoRedo = False Then 
  If Not DeletedRange Is Nothing Then 
  intResponse = MsgBox("Are you sure you want to delete the text " _ 
- &; vbCrLf &; DeletedRange.Text, vbYesNo) 
+ & vbCrLf & DeletedRange.Text, vbYesNo) 
  
  If intResponse = vbNo Then 
  
  DeletedRange.Copy 
  
- MsgBox "The text has been copied to the Clipboard." &; vbCrLf &; _ 
- "Position your cursor where you want to insert it, " &; _ 
- vbCrLf &; " and click Paste on the Edit menu." 
+ MsgBox "The text has been copied to the Clipboard." & vbCrLf & _ 
+ "Position your cursor where you want to insert it, " & _ 
+ vbCrLf & " and click Paste on the Edit menu." 
  
  End If 
  End If 

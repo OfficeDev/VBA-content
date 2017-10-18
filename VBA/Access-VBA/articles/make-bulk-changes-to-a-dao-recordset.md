@@ -21,8 +21,8 @@ Dim qdfChangeTitles As DAO.QueryDef
    Set dbsNorthwind = CurrentDb 
    Set qdfChangeTitles = dbsNorthwind.CreateQueryDef("") 
  
-   qdfChangeTitles.SQL = "UPDATE Employees SET Title = " &; _ 
-                         "'Account Executive' WHERE Title = " &; _ 
+   qdfChangeTitles.SQL = "UPDATE Employees SET Title = " & _ 
+                         "'Account Executive' WHERE Title = " & _ 
                          "'Sales Representative'" 
  
    ' Invoke query. 
@@ -43,8 +43,8 @@ Dim strNew As String
  
    Set dbsNorthwind = CurrentDb 
  
-   strSQLUpdate = "PARAMETERS [Old Title] Text, [New Title] Text; " &; _ 
-                  "UPDATE Employees SET Title = [New Title] WHERE " &; _ 
+   strSQLUpdate = "PARAMETERS [Old Title] Text, [New Title] Text; " & _ 
+                  "UPDATE Employees SET Title = [New Title] WHERE " & _ 
                   "Title = [Old Title]" 
  
    ' Create the unstored QueryDef object. 

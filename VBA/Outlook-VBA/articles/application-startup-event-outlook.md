@@ -38,7 +38,7 @@ This Microsoft Visual Basic for Applications (VBA) example displays a welcome me
 ```vb
 Private Sub Application_Startup() 
  
- MsgBox "Welcome, " &; Application.GetNamespace("MAPI").CurrentUser 
+ MsgBox "Welcome, " & Application.GetNamespace("MAPI").CurrentUser 
  
  Application.ActiveExplorer.WindowState = olMaximized 
  

@@ -206,7 +206,7 @@
 ### [Center in Form Commands (Format Menu)](center-in-form-commands-format-menu.md)
 ### [Clear All Breakpoints Command (Debug Menu)](clear-all-breakpoints-command-debug-menu.md)
 ### [Clearand Delete Commands (Edit Menu)](clearand-delete-commands-edit-menu.md)
-### [Close &; Return to <host application> Command (File Menu)](closereturn-to-host-application-command-file-menu.md)
+### [Close & Return to <host application> Command (File Menu)](closereturn-to-host-application-command-file-menu.md)
 ### [Close Command (Shortcut Menu)](close-command-shortcut-menu.md)
 ### [Close Project Command (File Menu)](close-project-command-file-menu.md)
 ### [Code Command (View Menu)](code-command-view-menu.md)
