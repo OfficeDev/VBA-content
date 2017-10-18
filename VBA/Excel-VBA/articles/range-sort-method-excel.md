@@ -18,7 +18,7 @@ Sorts a range of values.
 
 ## Syntax
 
- _expression_ . **Sort** (**_Key1_**, **_Order1_**, **_Key2_**, **_Type_**, **_Order2_**, **_Key3_**, **_Order3_**, **_Header_**, **_OrderCustom_**, **_MatchCase_**, **_Orientation_**, **_SortMethod_**, **_DataOption1_**, **_DataOption2_**, **_DataOption3_**)
+ _expression_. **Sort** (**_Key1_**, **_Order1_**, **_Key2_**, **_Type_**, **_Order2_**, **_Key3_**, **_Order3_**, **_Header_**, **_OrderCustom_**, **_MatchCase_**, **_Orientation_**, **_SortMethod_**, **_DataOption1_**, **_DataOption2_**, **_DataOption3_**)
 
  _expression_ A variable that represents a **Range** object.
 
