@@ -100,6 +100,10 @@
 ### [Animate a Sparkline](animate-a-sparkline.md)
 ### [Change the Color of the Horizontal Axis of a Sparkline](change-the-color-of-the-horizontal-axis-of-a-sparkline.md)
 ### [Find All the Sparklines on a Sheet](find-all-the-sparklines-on-a-sheet.md)
+## Excel Performance
+### [Improving Calculation Performance](excel-improving-calcuation-performance.md)
+### [Performance and Limit Improvements](excel-performance-and-limit-improvements.md)
+### [Tips for Optimizing Performance Obstructions](excel-tips-for-optimizing-performance-obstructions.md)
 # [Object model](object-model-excel-vba-reference.md)
 ## [AboveAverage Object](aboveaverage-object-excel.md)
 ### [AboveBelow Property](aboveaverage-abovebelow-property-excel.md)

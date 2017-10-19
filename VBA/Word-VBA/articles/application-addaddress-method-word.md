@@ -15,25 +15,27 @@ ms.date: 06/08/2017
 
 Adds an entry to the address book. Each entry has values for one or more tag IDs.
 
-
 ## Syntax
 
- _expression_ . **AddAddress**( **_TagID_** , **_Value_** )
+_expression_. **AddAddress** (**_TagID_**, **_Value_**)
 
- _expression_ Required. A variable that represents an **[Application](application-object-word.md)** object.
+_expression_ Required. A variable that represents an **[Application](application-object-word.md)** object.
 
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _TagID_|Required| **String array**|The tag ID values for the new address entry. Each element in the array can contain one of the strings listed in the following table. Only the display name is required; the remaining entries are optional.
+| _TagID_|Required|**String array**|The tag ID values for the new address entry. Each element in the array can contain one of the strings listed in the [following table](#tag-ids). Only the display name is required; the remaining entries are optional.|
+| _Value_|Required|**String array**|The values for the new address entry. Each element corresponds to an element in the TagID array. For more information, see the [example](#example).|
+
+<br/>
+
+#### Tag IDs
 
 |**Tag ID**|**Description**|
 |:-----|:-----|
-|PR_DISPLAY_NAME|Name displayed in the  **Address Book** dialog box|
+|PR_DISPLAY_NAME|Name displayed in the **Address Book** dialog box|
 |PR_DISPLAY_NAME_PREFIX|Title (for example, "Ms." or "Dr.")|
 |PR_GIVEN_NAME|First name|
 |PR_SURNAME|Last name|
@@ -53,7 +55,7 @@ Adds an entry to the address book. Each entry has values for one or more tag IDs
 |PR_HOME_TELEPHONE_NUMBER|Home telephone number|
 |PR_CELLULAR_TELEPHONE_NUMBER|Cellular telephone number|
 |PR_BEEPER_TELEPHONE_NUMBER|Beeper telephone number|
-|PR_COMMENT|Text included on the  **Notes** tab for the address entry|
+|PR_COMMENT|Text included on the **Notes** tab for the address entry|
 |PR_EMAIL_ADDRESS|Electronic mail address|
 |PR_ADDRTYPE|Electronic mail address type|
 |PR_OTHER_TELEPHONE_NUMBER|Alternate telephone number (other than home or office)|
@@ -63,13 +65,12 @@ Adds an entry to the address book. Each entry has values for one or more tag IDs
 |PR_INITIALS|Initials|
 |PR_LOCATION|Location, in the format buildingnumber/roomnumber (for example, 7/3007 represents room 3007 in building 7)|
 |PR_CAR_TELEPHONE_NUMBER|Car telephone number|
-|
-| _Value_|Required| **String array**|The values for the new address entry. Each element corresponds to an element in the TagID array. For more information, see the example.|
+
+<br/>
 
 ## Example
 
 This example adds an entry to the address book.
-
 
 ```vb
 Dim tagIDArray(0 To 3) As String 
@@ -90,9 +91,7 @@ Application.AddAddress TagID:=tagIDArray(), Value:=valueArray()
 
 ## See also
 
-
 #### Concepts
 
-
-[Application Object](application-object-word.md)
+- [Application Object](application-object-word.md)
 

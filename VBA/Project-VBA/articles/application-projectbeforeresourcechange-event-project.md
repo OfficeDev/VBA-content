@@ -12,22 +12,26 @@ ms.date: 06/08/2017
 
 Occurs before the user changes the value of a resource field.
 
-
 ## Syntax
 
- _expression_. **ProjectBeforeResourceChange**( ** _res_**, ** _Field_**, ** _NewVal_**, ** _Cancel_** )
+_expression_. **ProjectBeforeResourceChange** (**_res_**, **_Field_**, **_NewVal_**, **_Cancel_**)
 
- _expression_ A variable that represents an **Application** object.
+_expression_ A variable that represents an **Application** object.
 
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _res_|Required|**Resource**|The resource whose field is being changed.|
-| _Field_|Required|**Long**|The field being changed. If more than one field is changed by the user, the event is fired for each field changed. Can be one of the following  **PjField** constants:
+| _Field_|Required|**Long**|The field being changed. If more than one field is changed by the user, the event is fired for each field changed. Can be one of the **[PjField constants](#pjfield-constants)**.|
+| _NewVal_|Required|**Variant**|The new value for the field specified with _Field_.|
+| _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with _Field_ is not changed.|
+
+<br/>
+
+#### PjField constants
+
 |||
 |:-----|:-----|
 |**pjResourceAccrueAt**|**pjResourceEnterpriseUniqueID**|
@@ -87,19 +91,15 @@ Occurs before the user changes the value of a resource field.
 |**pjResourceEnterpriseRequiredValues**|**pjResourceWorkgroup**|
 |**pjResourceEnterpriseTeamMember**|**pjResourceWorkVariance**|
 |**pjResourceEnterpriseText1-40**||
-|
-| _NewVal_|Required|**Variant**|The new value for the field specified with Field.|
-| _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the value for the field specified with Field is not changed.|
 
-### Return Value
+<br/>
 
-nothing
+### Return value
 
+Nothing
 
 ## Remarks
 
 Project events do not occur when the project is embedded in another document or application.
 
-The  **ProjectBeforeResourceChange** event doesn't occur when timescaled data changes, when a baseline is cleared, when an entire resource row is pasted, during resource pool operations, when inserting or removing a subproject, or when changes have been made using a custom form.
-
-
+The **ProjectBeforeResourceChange** event doesn't occur when timescaled data changes, when a baseline is cleared, when an entire resource row is pasted, during resource pool operations, when inserting or removing a subproject, or when changes have been made by using a custom form.
