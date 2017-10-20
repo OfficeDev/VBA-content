@@ -18,7 +18,7 @@ Displays a dialog box for user input. Returns the information entered in the dia
 
 ## Syntax
 
- _expression_ . **InputBox** (**_Prompt_**, **_Title_**, **_Default_**, **_Left_**, **_Top_**, **_HelpFile_**, **_HelpContextID_**, **_Type_**)
+ _expression_. **InputBox** (**_Prompt_**, **_Title_**, **_Default_**, **_Left_**, **_Top_**, **_HelpFile_**, **_HelpContextID_**, **_Type_**)
 
  _expression_ A variable that represents an **Application** object.
 
@@ -88,7 +88,7 @@ Set myCell = Application.InputBox( _
     prompt:="Select a cell", Type:=8)
 ```
 
-**Sample code provided by:** *Holy Macro! Books*, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+**Sample code provided by:** _Holy Macro! Books_, [Holy Macro! It's 2,500 Excel VBA Examples](http://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
 
 This example uses an input box for the user to select a range to pass to the user-defined function `MyFunction`, which multiplies three values in a range together and returns the result.
 
