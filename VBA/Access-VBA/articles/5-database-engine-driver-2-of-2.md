@@ -67,7 +67,7 @@ The  **Access Connectivity Engine\ISAM Formats\Jet 2.x** folder contains the fol
 
 
 
-|** Entry name**|** Type**|** Value**|
+|**Entry name**|**Type**|**Value**|
 |:-----|:-----|:-----|
 |Engine|REG_SZ|Jet 2.x|
 |OneTablePerFile|REG_BINARY|00|
