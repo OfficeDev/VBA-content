@@ -73,7 +73,7 @@ Modules can be sent only in MS-DOS Text format, so if you specify  **acSendModul
 - [Features and Limits of Using the SendObject Method to Send Emails](http://www.fmsinc.com/microsoftaccess/email/sendobject.mdl)
     
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Email from Access](http://www.utteraccess.com/forum/Email-Access-t130485.mdl)
@@ -92,7 +92,7 @@ DoCmd.SendObject acSendTable, "Employees", acFormatXLS, _
 
 The following example shows how to create an email message with Microsoft Outlook and display it to the user.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+ **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 
