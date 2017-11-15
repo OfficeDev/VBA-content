@@ -48,7 +48,7 @@ Reports!OrderReport.Controls!NewData
 
 The following example shows how to use the  **NoData** event of a report to prevent the report form opening when there is no data to be displayed.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 

@@ -22,13 +22,7 @@ This object corresponds to a combo box control. The combo box control combines t
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|
-![Combo box control](/images/t-combox_ZA06053980.gif)
-
-|
-![Combo box tool](/images/a_combobox_ZA06047114.gif)
-
-|
+|![Combo box control](/images/t-combox_ZA06053980.gif)|![Combo box tool](/images/a_combobox_ZA06047114.gif)|
 In Form view, Microsoft Access doesn't display the list until you click the combo box's arrow.
 
 If you have Control Wizards on before you select the combo box tool, you can create a combo box with a wizard. To turn Control Wizards on or off, click the  **Control Wizards** tool in the toolbox.
@@ -151,7 +145,7 @@ End Sub
 
 The following example shows how to add an item to a bound combo box.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 

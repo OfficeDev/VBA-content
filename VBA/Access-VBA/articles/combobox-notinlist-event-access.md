@@ -18,7 +18,7 @@ The  **NotInList** event occurs when the user enters a value in the text box por
 
 ## Syntax
 
- _expression_. **NotInList**( ** _NewData_**, ** _Response_** )
+ _expression_. **NotInList**( **_NewData_**, **_Response_** )
 
  _expression_ A variable that represents a **ComboBox** object.
 
@@ -122,7 +122,7 @@ End Sub
 
 The following example shows how to add an item to a bound combo box.
 
- **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 

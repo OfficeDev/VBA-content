@@ -18,7 +18,7 @@ The  **Open** occurs before a report is previewed or printed.
 
 ## Syntax
 
- _expression_. **Open**( ** _Cancel_**, )
+ _expression_. **Open**( **_Cancel_**, )
 
  _expression_ A variable that represents a **Report** object.
 
@@ -53,7 +53,7 @@ If you're trying to decide whether to use the  **Open** or **Load** event for yo
 
 The following example shows how to use a Structured Query Language (SQL) statement to establish the data source of a report as it is opened.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 

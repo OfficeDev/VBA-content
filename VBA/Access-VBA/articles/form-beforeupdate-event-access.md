@@ -18,7 +18,7 @@ The  **BeforeUpdate** event occurs before changed data in a control or record is
 
 ## Syntax
 
- _expression_. **BeforeUpdate**( ** _Cancel_** )
+ _expression_. **BeforeUpdate**( **_Cancel_** )
 
  _expression_ A variable that represents a **Form** object.
 
@@ -111,7 +111,7 @@ End Sub
 
 The following example shows how to use the  **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 
