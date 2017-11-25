@@ -15,13 +15,11 @@ ms.date: 11/24/2017
 
 The **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a form or control has the focus. This event also occurs if you send an ANSI keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
-
 ## Syntax
 
  _expression_ **KeyPress**(**_KeyAscii_**)
 
  _expression_ A variable that represents a **Form** object.
-
 
 ### Parameters
 
@@ -41,7 +39,7 @@ If you press and hold down an ANSI key, the **KeyDown** and **KeyPress** events 
 
 A **KeyPress** event can involve any printable keyboard character, the Ctrl key combined with a character from the standard alphabet or a special character, and the Enter or Backspace key. You can use the **KeyDown** and **KeyUp** event procedures to handle any keystroke not recognized by the **KeyPress** event, such as function keys, navigation keys, and any combinations of these with keyboard modifiers (Alt, Shift, or Ctrl keys). Unlike the **KeyDown** and **KeyUp** events, the **KeyPress** event doesn't indicate the physical state of the keyboard; instead, it indicates the ANSI character that corresponds to the pressed key or key combinations.
 
- **KeyPress** interprets the uppercase and lowercase of each character as separate key codes and therefore, as two separate characters.
+**KeyPress** interprets the uppercase and lowercase of each character as separate key codes and therefore, as two separate characters.
 
 > [!NOTE]
 > The Backspace key is part of the ANSI character set, but the Delete key isn't. If you delete a character in a control by using the Backspace key, you cause a **KeyPress** event; if you use the Delete key, you don't.
@@ -50,35 +48,35 @@ The **KeyDown** and **KeyPress** events occur when you press or send an ANSI key
 
 For example, if you go to a new record and type a character in the first control in the record, the following events occur:
 
- **Current** (for the new record)
+**Current** (for the new record)
 
 ?
 
- **Enter** (for the first control in the new record)
+**Enter** (for the first control in the new record)
 
 ?
 
- **GotFocus** (for the control)
+**GotFocus** (for the control)
 
 ?
 
- **KeyDown** (for the control)
+**KeyDown** (for the control)
 
 ?
 
- **KeyPress** (for the control)
+**KeyPress** (for the control)
 
 ?
 
- **BeforeInsert** (for the new record in the form)
+**BeforeInsert** (for the new record in the form)
 
 ?
 
- **Change** (for the control if it's a text box or combo box)
+**Change** (for the control if it's a text box or combo box)
 
 ?
 
- **KeyUp** (for the control)
+**KeyUp** (for the control)
 
 
 ## Example
