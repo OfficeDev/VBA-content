@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.PasteSpecial
 ms.assetid: 6a1e5b6d-da09-fae8-7165-0c9bf71d525c
-ms.date: 06/08/2017
+ms.date: 11/24/2017
 ---
 
 
@@ -47,7 +47,6 @@ Adds the shape to the collection of shapes in the specified format. If the speci
 
 The _DataType_ parameter value can be one of these **PpPasteDataType** constants.
 
-
 ||
 |:-----|
 |**ppPasteBitmap**|
@@ -60,6 +59,7 @@ The _DataType_ parameter value can be one of these **PpPasteDataType** constants
 |**ppPastePNG**|
 |**ppPasteShape**|
 
+<br/>
 
 The _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constants.
 
