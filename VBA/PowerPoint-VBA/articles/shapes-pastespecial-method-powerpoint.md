@@ -45,19 +45,17 @@ ShapeRange
 
 Adds the shape to the collection of shapes in the specified format. If the specified data type is a text data type, a new text box is created with the text. If the paste succeeds, the **PasteSpecial** method returns a **[ShapeRange](shaperange-object-powerpoint.md)** object representing the shape range that was pasted.
 
-The _DataType_ parameter value can be one of these **PpPasteDataType** constants.
+The _DataType_ parameter value can be one of these **PpPasteDataType** constants:
 
-||
-|:-----|
-|**ppPasteBitmap**|
-|**ppPasteDefault**|
-|**ppPasteEnhancedMetafile**|
-|**ppPasteHTML**|
-|**ppPasteGIF**|
-|**ppPasteJPG**|
-|**ppPasteMetafilePicture**|
-|**ppPastePNG**|
-|**ppPasteShape**|
+- **ppPasteBitmap**
+- **ppPasteDefault**
+- **ppPasteEnhancedMetafile**
+- **ppPasteHTML**
+- **ppPasteGIF**
+- **ppPasteJPG**
+- **ppPasteMetafilePicture**
+- **ppPastePNG**
+- **ppPasteShape**
 
 <br/>
 
