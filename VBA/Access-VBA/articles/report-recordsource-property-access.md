@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Report.RecordSource
 ms.assetid: aa3b31cc-21a6-5d56-8361-9fc232ffae97
-ms.date: 06/08/2017
+ms.date: 11/30/2017
 ---
 
 
