@@ -7,18 +7,18 @@ ms.prod: access
 api_name:
 - Access.Report
 ms.assetid: 6f77c1b4-a9ce-7caa-204c-fe0755c6f9df
-ms.date: 06/08/2017
+ms.date: 11/30/2017
 ---
 
 
 # Report Object (Access)
 
-A  **Report** object refers to a particular Microsoft Access report.
+A **Report** object refers to a particular Microsoft Access report.
 
 
 ## Remarks
 
-A  **Report** object is a member of the **Reports** collection, which is a collection of all currently open reports. Within the **Reports** collection, individual reports are indexed beginning with zero. You can refer to an individual **Report** object in the **Reports** collection either by referring to the report by name, or by referring to its index within the collection. If the report name includes a space, the name must be surrounded by brackets ([ ]).
+A **Report** object is a member of the **Reports** collection, which is a collection of all currently open reports. Within the **Reports** collection, individual reports are indexed beginning with zero. You can refer to an individual **Report** object in the **Reports** collection either by referring to the report by name, or by referring to its index within the collection. If the report name includes a space, the name must be surrounded by brackets ([ ]).
 
 
 
@@ -29,7 +29,8 @@ A  **Report** object is a member of the **Reports** collection, which is a colle
 |**Reports** (" _reportname_")|Reports("OrderReport")|
 |**Reports** ( _index_)|Reports(0)|
 
- **Note**  Each  **Report** object has a **Controls** collection, which contains all controls on the report. You can refer to a control on a report either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on a report called **OrderReport**. 
+> [!NOTE]
+> Each **Report** object has a **Controls** collection, which contains all controls on the report. You can refer to a control on a report either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on a report called **OrderReport**. 
 
 
 ```
@@ -37,6 +38,7 @@ A  **Report** object is a member of the **Reports** collection, which is a colle
 Reports!OrderReport!NewData
 ```
 
+<br/>
 
 ```
 ' Explicit reference. 
@@ -46,12 +48,9 @@ Reports!OrderReport.Controls!NewData
 
 ## Example
 
-The following example shows how to use the  **NoData** event of a report to prevent the report form opening when there is no data to be displayed.
+The following example shows how to use the **NoData** event of a report to prevent the report form opening when there is no data to be displayed.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
-
-
-
+**Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 ```
 Private Sub Report_NoData(Cancel As Integer)
@@ -65,10 +64,9 @@ Private Sub Report_NoData(Cancel As Integer)
 End Sub
 ```
 
-The following example shows how to use the  **Page** event to add a watermark to a report before it is printed.
+<br/>
 
-
-
+The following example shows how to use the **Page** event to add a watermark to a report before it is printed.
 
 ```
 Private Sub Report_Page()
@@ -105,10 +103,9 @@ Private Sub Report_Page()
 End Sub
 ```
 
-The following example shows how to set the  **BackColor** property of a control based on its value.
+<br/>
 
-
-
+The following example shows how to set the **BackColor** property of a control based on its value.
 
 ```
 Private Sub SetControlFormatting()
@@ -137,10 +134,9 @@ Private Sub Detail_Paint()
 End Sub
 ```
 
-The following example shows how to format a report to show progress bars. The example uses a pair of rectangle controls,  **boxInside** and **boxOutside**, to create a progress bar based on the value of  **AvgOfRating**. The progress bars are visible only when the report is opened in  **Print Preview** mode or it is printed.
+<br/>
 
-
-
+The following example shows how to format a report to show progress bars. The example uses a pair of rectangle controls, **boxInside** and **boxOutside**, to create a progress bar based on the value of **AvgOfRating**. The progress bars are visible only when the report is opened in **Print Preview** mode or it is printed.
 
 ```
 Private Sub Report_Load()
@@ -166,8 +162,6 @@ End Sub
 
 
 ## Events
-
-
 
 |**Name**|
 |:-----|
@@ -199,8 +193,6 @@ End Sub
 
 ## Methods
 
-
-
 |**Name**|
 |:-----|
 |[Circle](http://msdn.microsoft.com/library/4f5d24e2-75bf-3586-7e0d-0902adee61a6%28Office.15%29.aspx)|
@@ -214,8 +206,6 @@ End Sub
 |[TextWidth](http://msdn.microsoft.com/library/98827373-8610-5e48-ab46-2c89f8e2d2a7%28Office.15%29.aspx)|
 
 ## Properties
-
-
 
 |**Name**|
 |:-----|
@@ -363,18 +353,13 @@ End Sub
 |[WindowTop](http://msdn.microsoft.com/library/99d1bec5-f6ac-bf5b-39d0-869a565e0572%28Office.15%29.aspx)|
 |[WindowWidth](http://msdn.microsoft.com/library/55d2354d-1a7a-2432-f9ab-bef3f1920aa4%28Office.15%29.aspx)|
 
-## About the Contributors
+## About the contributors
 <a name="AboutContributors"> </a>
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Other resources
-
 
 [Report Object Members](http://msdn.microsoft.com/library/73370a33-1ca0-da4d-9e36-88011bc2b93e%28Office.15%29.aspx)
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
