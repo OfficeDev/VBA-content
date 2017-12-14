@@ -48,13 +48,13 @@ If you don't have room on your form to display a list box, or if you want to be 
 
 
 
-- [Create a Query that uses a Multi-select Listbox as Criteria](http://www.utteraccess.com/forum/Creating-Query-Multi-t414388.mdl)
+- [Create a Query that uses a Multi-select Listbox as Criteria](http://www.utteraccess.com/forum/Creating-Query-Multi-t414388.html)
     
-- [ListBox Picker](http://www.utteraccess.com/forum/ListBox-Picker-t426483.mdl)
+- [ListBox Picker](http://www.utteraccess.com/forum/ListBox-Picker-t426483.html)
     
 - [Move/Change Order of List Box Items with Up/Down Buttons](http://www.utteraccess.com/wiki/index.php/List_Box:_Reorder_Items)
     
-- [Populate a Listbox with Files from a Directory](http://www.utteraccess.com/forum/Populate-Listbox-Files-t1209291.mdl)
+- [Populate a Listbox with Files from a Directory](http://www.utteraccess.com/forum/Populate-Listbox-Files-t1209291.html)
     
 
 ## Example
