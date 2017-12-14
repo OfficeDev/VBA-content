@@ -33,7 +33,7 @@ If you set the  **Sender** property to an **AddressEntry** that does not have pe
 ## Example
 
 Michael Bauer provided the following code example. Michael is a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-us/default.aspx
-) with expertise in developing Outlook solutions in Visual Basic and Visual Basic for Applications (VBA). Michael maintains a professional site at[VBOffice.net](http://www.vboffice.net/index.mdl?lang=en).
+) with expertise in developing Outlook solutions in Visual Basic and Visual Basic for Applications (VBA). Michael maintains a professional site at[VBOffice.net](http://www.vboffice.net/index.html?lang=en).
 
 The following VBA code example shows how to display the details of the sender of an e-mail. If the sender corresponds to a contact in the user's Outlook Contacts Address Book (CAB), the code example displays information about that contact in an inspector. If the sender is not a contact in the user's CAB, the code example displays details from the user's address entry (taken from the transport provider's address book container) in a dialog box. 
 
