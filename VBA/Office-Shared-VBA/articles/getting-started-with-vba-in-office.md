@@ -378,7 +378,7 @@ Sub Macro1()
     If Worksheets(1).Range("A1").Value = "Yes!" Then
         Dim i As Integer
         For i = 2 To 10
-            Worksheets(1).Range("A" &amp; i).Value = "OK! " &amp; i
+            Worksheets(1).Range("A" & i).Value = "OK! " & i
         Next i
     Else
         MsgBox "Put Yes! in cell A1"
