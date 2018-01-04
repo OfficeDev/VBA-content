@@ -23,9 +23,14 @@ The notation used to refer to an element of an array consists of the [variable](
 
 
 ```vb
-Dim A As Variant
-A = Array(10,20,30)
-B = A(2)
+Dim A As Variant, B As Long, i As Long
+A = Array(10, 20, 30)  ' A is a three element list by defeault indexed 0 to 2
+B = A(2)               ' B is now 30
+ReDim Preserve A(3)    ' Extend A's length to five elements
+A(4) = 40              ' Set the fifth element's value
+For i = LBound(A) To UBound(A)
+    Debug.Print "A(" & i & ") = " & A(i)
+Next i
 
 ```
 
