@@ -7,20 +7,20 @@ ms.prod: access
 api_name:
 - Access.DoCmd.TransferText
 ms.assetid: e59f26dc-2df8-8d87-b73d-f3004eed0719
-ms.date: 06/08/2017
+ms.date: 11/30/2017
 ---
 
 
 # DoCmd.TransferText Method (Access)
 
-The  **TransferText** method carries out the **TransferText** action in Visual Basic.
+The **TransferText** method carries out the **TransferText** action in Visual Basic.
 
 
 ## Syntax
 
- _expression_. **TransferText** ( **_TransferType_**, **_SpecificationName_**, **_TableName_**, **_FileName_**, **_HasFieldNames_**, **_HTMLTableName_**, **_CodePage_** )
+_expression_. **TransferText** (**_TransferType_**, **_SpecificationName_**, **_TableName_**, **_FileName_**, **_HasFieldNames_**, **_HTMLTableName_**, **_CodePage_**)
 
- _expression_ A variable that represents a **DoCmd** object.
+_expression_ A variable that represents a **DoCmd** object.
 
 
 ### Parameters
@@ -46,7 +46,6 @@ You can export the data in Access select queries to text files. Access exports t
 
 The following example exports the data from the Microsoft Access table External Report to the delimited text file April.doc by using the specification Standard Output:
 
-
 ```vb
 DoCmd.TransferText acExportDelim, "Standard Output", _ 
     "External Report", "C:\Txtfiles\April.doc"
@@ -54,10 +53,7 @@ DoCmd.TransferText acExportDelim, "Standard Output", _
 
 The following code shows how to create a new Microsoft Word document and perform a mail merge with the data stored in the Customers table.
 
- **Sample code provided by:** The [Microsoft Access 2010 Programmer?s Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
-
-
-
+**Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 ```vb
 Public Sub DoMailMerge(strFileSavePath As String)
@@ -122,18 +118,13 @@ End Sub
 ```
 
 
-## About the Contributors
+## About the contributors
 <a name="AboutContributors"> </a>
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
 ## See also
-<a name="AboutContributors"> </a>
-
-
-#### Concepts
-
 
 [DoCmd Object](docmd-object-access.md)
 
