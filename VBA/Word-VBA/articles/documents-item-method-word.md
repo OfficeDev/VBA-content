@@ -29,7 +29,7 @@ Returns an individual  **Document** object in a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
+| _Index_|Required| **Long** or **String**|The position within the collection of the pbject to be returned (**Long**), or the name of the object (**String**).|
 
 ### Return Value
 
@@ -49,6 +49,11 @@ Sub DocumentItem()
 End Sub
 ```
 
+This example saves the document named `Reports.doc`.
+
+```vb
+Documents.Item("Reports.docx").Save
+```
 
 ## See also
 
