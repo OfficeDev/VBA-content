@@ -1,4 +1,4 @@
----
+ ---
 title: SparklineGroup Object (Excel)
 keywords: vbaxl10.chm870072
 f1_keywords:
@@ -22,6 +22,7 @@ The  **SparklineGroup** object can contain multiple sparklines and contains the 
 
 Use the  **[Modify](sparklinegroup-modify-method-excel.md)** method to add or remove sparklines from the sparkline group. Use the **[ModifyLocation](sparklinegroup-modifylocation-method-excel.md)** method to change the location of the sparkline and use the **[ModifySourceData](sparklinegroup-modifysourcedata-method-excel.md)** method to change the range of the source data.
 
+Note : Application.ReferenceStyle must be set to xlA1 to execute SparklineGroups.Add
 
 ## Example
 
