@@ -29,7 +29,7 @@ Returns an individual  **Document** object in a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Long** or **String**|The position within the collection of the pbject to be returned (**Long**), or the name of the object (**String**).|
+| _Index_|Required| **Long** or **String**|The position within the collection of the object to be returned (**Long**), or the name of the object (**String**).|
 
 ### Return Value
 
