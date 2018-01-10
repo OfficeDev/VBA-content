@@ -26,7 +26,7 @@ ms.date: 06/08/2017
 |IPM|Items for which the specified form cannot be found|
 |IPM.Note|E-mail messages|
 |IPM.Note.IMC.Notification|Reports from the Internet Mail Connect (the Exchange Server gateway to the Internet)|
-|IPM.Note.Rules.Oof.Template.Microsoft|Out-of-office templates|
+|IPM.Note.Rules.OofTemplate.Microsoft|Out-of-office templates|
 |IPM.Post|Posting notes in a folder|
 |IPM.StickyNote|Creating notes|
 |IPM.Recall.Report| Message recall reports|
