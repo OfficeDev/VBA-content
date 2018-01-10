@@ -23,7 +23,7 @@ This object corresponds to a toggle button. A toggle button on a form is a stand
 |:-----|:-----|
 |**Control**:|**Tool**:|
 |
-![](/images/t-togbtn_ZA06054009.gif)
+![Toggle button with the label 'Discontinued'.](/images/t-togbtn_ZA06054009.gif)
 
 |
 ![Toggle button](/images/togglbtn_ZA06044638.gif)
