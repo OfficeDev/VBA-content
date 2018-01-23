@@ -46,8 +46,8 @@ Double
 - If array is empty, Z_TEST returns the #N/A error value.
     
 - Z_TEST is calculated as follows when sigma is not omitted:
-![](images/Z_TEST_SIGMA_ZA10391001.jpg)or when sigma is omitted: 
-![](images/Z_TEST_ZA10391000.jpg)where x is the sample mean AVERAGE(array); s is the sample standard deviation STDEV_S(array); and n is the number of observations in the sample COUNT(array). 
+![The Z_TEST calculation when sigma is not omitted](images/Z_TEST_SIGMA_ZA10391001.jpg)or when sigma is omitted: 
+![The Z_TEST calculation when sigma is omitted](images/Z_TEST_ZA10391000.jpg)where x is the sample mean AVERAGE(array); s is the sample standard deviation STDEV_S(array); and n is the number of observations in the sample COUNT(array). 
     
 - Z_TEST represents the probability that the sample mean would be greater than the observed value AVERAGE(array), when the underlying population mean is ? 0 . From the symmetry of the Normal distribution, if AVERAGE(array) < ?0 , Z_TEST will return a value greater than 0.5.
     

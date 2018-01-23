@@ -14,8 +14,11 @@ ms.date: 06/08/2017
 
 
 Used to compare two strings.
- **Syntax**
- _result_**=**_string_**Like**_pattern_
+
+**Syntax**
+
+_result_ **=** _string_ **Like** _pattern_
+
 The  **Like** operator syntax has these parts:
 
 
@@ -24,13 +27,18 @@ The  **Like** operator syntax has these parts:
 | _result_|Required; any numeric [variable](vbe-glossary.md).|
 | _string_|Required; any [string expression](vbe-glossary.md).|
 | _pattern_|Required; any string expression conforming to the pattern-matching conventions described in Remarks.|
- **Remarks**
-If  _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is[Null](vbe-glossary.md),  _result_ is **Null**.
-The behavior of the  **Like** operator depends on the **Option Compare** statement. The default[string-comparison](vbe-glossary.md) method for each[module](vbe-glossary.md) is **Option Compare** **Binary**.
- **Option Compare Binary** results in string comparisons based on a[sort order](vbe-glossary.md) derived from the internal binary representations of the characters. Sort order is determined by the code page. In the following example, a typical binary sort order is shown:
+
+**Remarks**
+
+If  _string_ matches _pattern_, _result_ is **True**; if there is no match, _result_ is **False**. If either _string_ or _pattern_ is[Null](vbe-glossary.md),  _result_ is **Null**.  
+The behavior of the  **Like** operator depends on the **Option Compare** statement. The default[string-comparison](vbe-glossary.md) method for each[module](vbe-glossary.md) is **Option Compare** **Binary**.  
+
+**Option Compare Binary** results in string comparisons based on a[sort order](vbe-glossary.md) derived from the internal binary representations of the characters. Sort order is determined by the code page. In the following example, a typical binary sort order is shown:  
 A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø
- **Option Compare Text** results in string comparisons based on a case-insensitive, textual sort order determined by your system's[locale](vbe-glossary.md). When you sort the same characters using  **Option Compare Text**, the following text sort order is produced:
+ 
+**Option Compare Text** results in string comparisons based on a case-insensitive, textual sort order determined by your system's[locale](vbe-glossary.md). When you sort the same characters using  **Option Compare Text**, the following text sort order is produced:  
 (A=a) < (À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø)
+
 Built-in pattern matching provides a versatile tool for string comparisons. The pattern-matching features allow you to use wildcard characters, character lists, or character ranges, in any combination, to match strings. The following table shows the characters allowed in  _pattern_ and what they match:
 
 
@@ -41,6 +49,7 @@ Built-in pattern matching provides a versatile tool for string comparisons. The 
 |**#**|Any single digit (0-9).|
 |[ _charlist_ ]|Any single character in  _charlist_.|
 |[ **!**_charlist_ ]|Any single character not in  _charlist_.|
+
 A group of one or more characters ( _charlist_ ) enclosed in brackets ( **[ ]** ) can be used to match any single character in _string_ and can include almost any[character code](vbe-glossary.md), including digits.
 
  **Note**  To match the special characters left bracket ( **[** ), question mark ( **?** ), number sign ( **#** ), and asterisk ( ***** ), enclose them in brackets. The right bracket ( **]** ) can't be used within a group to match itself, but it can be used outside a group as an individual character.

@@ -15,16 +15,15 @@ Conditionally compiles selected blocks of Visual Basic code.
 
  **Syntax**
 
- **#If**_expression_**Then**
-
- _statements_
-[ **#ElseIf**_expression-n_**Then**
-[ _elseifstatements_ ]]
-[ **#Else**
-[ _elsestatements_ ]]
+ **#If** _expression_ **Then**  
+ _statements_  
+[ **#ElseIf** _expression-n_ **Then**  
+[ _elseifstatements_ ]]  
+[ **#Else**  
+[ _elsestatements_ ]]  
  **#End If**
-The  **#If...Then...#Else** directive syntax has these parts:
 
+The  **#If...Then...#Else** directive syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|

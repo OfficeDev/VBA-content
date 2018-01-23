@@ -15,24 +15,22 @@ Occurs before the item is automatically saved by Outlook.
 
 ## Syntax
 
- _expression_ . **BeforeAutoSave**( **_Cancel_** )
+ _expression_. **BeforeAutoSave** (**_Cancel_**)
 
  _expression_ A variable that represents a **DistListItem** object.
 
 
 ### Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**|Set to  **True** to cancel the operation; otherwise, set to **False** to allow the **[DistListItem](distlistitem-object-outlook.md)** to be saved.||
+| _Cancel_|Required|**Boolean**|Set to **True** to cancel the operation; otherwise, set to **False** to allow the **[DistListItem](distlistitem-object-outlook.md)** to be saved.|
+
+<br/>
 
 ## See also
 
-
 #### Concepts
 
-
-[DistListItem Object](distlistitem-object-outlook.md)
+- [DistListItem Object](distlistitem-object-outlook.md)
 

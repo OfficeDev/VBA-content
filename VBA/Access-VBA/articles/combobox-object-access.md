@@ -64,7 +64,7 @@ The following example shows how to use multiple  **ComboBox** controls to supply
  **Sample code provided by:**
 ![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
-UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.mdl).
+UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
 
 
@@ -151,7 +151,7 @@ End Sub
 
 The following example shows how to add an item to a bound combo box.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.mdl)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 

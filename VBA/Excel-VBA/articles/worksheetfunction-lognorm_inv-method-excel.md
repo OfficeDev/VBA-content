@@ -50,7 +50,7 @@ Double
 - If standard_dev <= 0, LOGNORM_INV returns the #NUM! error value.
     
 - The inverse of the lognormal distribution function is:
-![](images/LOGNORM_INV_ZA10390997.jpg)
+![Inverse of the lognormal distribution function.](images/LOGNORM_INV_ZA10390997.jpg)
 
 
     

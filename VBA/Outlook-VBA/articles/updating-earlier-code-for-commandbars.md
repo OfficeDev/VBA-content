@@ -20,7 +20,10 @@ ms.date: 06/08/2017
 
 
 
-Command bars have been deprecated since Outlook. Explorer and inspector windows no longer use menu bars and toolbars. Instead, they use the Microsoft Office Fluent ribbon. Programmatically, although your add-in or VBScript code that customized command bars in an explorer or inspector might still work in Outlook, those who use your solution might not easily find the customizations that appear on the  **Add-ins** tab of the customized ribbon in the explorer or inspector.
+Command bars have been deprecated since Outlook 2010. Explorer and inspector windows no longer use menu bars and toolbars. Instead, they use the Microsoft Office Fluent ribbon. Programmatically, although your add-in or VBScript code that customized command bars in an explorer or inspector might still work in Outlook, those who use your solution might not easily find the customizations that appear on the  **Add-ins** tab of the customized ribbon in the explorer or inspector.
+
+
+**Note** To find out more about issues to consider before you upgrade existing solutions, read [Developer Issues When Upgrading Solutions to Outlook 2010](https://msdn.microsoft.com/en-us/library/office/ff864759(v=office.14).aspx).
 
 Instead of using the  **CommandBars** property of the [Explorer](explorer-object-outlook.md) and [Inspector](inspector-object-outlook.md) objects, use ribbon extensibility to customize the ribbon and to customize any menus and submenus off the ribbon. Ribbon extensibility requires an add-in that implements the [IRibbonExtensibility](http://msdn.microsoft.com/library/b27a7576-b6f5-031e-e307-78ef5f8507e0%28Office.15%29.aspx) interface. 
 

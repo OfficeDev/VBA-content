@@ -32,7 +32,7 @@ Adds data validation to the specified range.
 | _Type_|Required| **XlDVType**|The validation type.|
 | _AlertStyle_|Optional| **Variant**|The validation alert style. Can be one of the following  **[XlDVAlertStyle](xldvalertstyle-enumeration-excel.md)** constants: **xlValidAlertInformation** , **xlValidAlertStop** , or **xlValidAlertWarning** .|
 | _Operator_|Optional| **Variant**|The data validation operator. Can be one of the following  **[XlFormatConditionOperator](xlformatconditionoperator-enumeration-excel.md)** constants: **xlBetween** , **xlEqual** , **xlGreater** , **xlGreaterEqual** , **xlLess** , **xlLessEqual** , **xlNotBetween** , or **xlNotEqual** .|
-| _Formula1_|Optional| **Variant**|The first part of the data validation equation.|
+| _Formula1_|Optional| **Variant**|The first part of the data validation equation. Value must not exceed 255 characters.|
 | _Formula2_|Optional| **Variant**|The second part of the data validation when  _Operator_ is **xlBetween** or **xlNotBetween** (otherwise, this argument is ignored).|
 
 ## Remarks

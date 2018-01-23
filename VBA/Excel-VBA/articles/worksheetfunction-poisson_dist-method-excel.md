@@ -52,8 +52,8 @@ Double
 - If mean ? 0, POISSON_DIST returns the #NUM! error value.
     
 - POISSON_DIST is calculated as follows. For cumulative = FALSE: 
-![](images/POISSON_DIST_FALSE_ZA10390998.jpg)For cumulative = TRUE: 
-![](images/POISSON_DIST_TRUE_ZA10390999.jpg)
+![POISSON_DIST equation for cumulative= FALSE](images/POISSON_DIST_FALSE_ZA10390998.jpg)For cumulative = TRUE: 
+![POISSON_DIST equation for cumulative= TRUE](images/POISSON_DIST_TRUE_ZA10390999.jpg)
 
 
     
