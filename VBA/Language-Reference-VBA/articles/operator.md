@@ -16,7 +16,7 @@ ms.date: 06/08/2017
 Used to multiply two numbers.
  **Syntax**
  _result_**=**_number1_ * _number2_
-The  ***** operator syntax has these parts:
+The  **\*** operator syntax has these parts:
 
 
 |**Part**|**Description**|
@@ -41,7 +41,7 @@ If one or both expressions are [Null](vbe-glossary.md) expressions, _result_ is 
 
 ## Example
 
-This example uses the  ***** operator to multiply two numbers.
+This example uses the  **\*** operator to multiply two numbers.
 
 
 ```vb

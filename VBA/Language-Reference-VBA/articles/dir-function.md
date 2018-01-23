@@ -40,7 +40,7 @@ The  _attributes_[argument](vbe-glossary.md) settings are:
  **Note**  These constants are specified by Visual Basic for Applications and can be used anywhere in your code in place of the actual values.
 
  **Remarks**
-In Microsoft Windows,  **Dir** supports the use of multiple character ( ***** ) and single character ( **?** ) wildcards to specify multiple files. On the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
+In Microsoft Windows,  **Dir** supports the use of multiple character ( **\*** ) and single character ( **?** ) wildcards to specify multiple files. On the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
 Since the Macintosh doesn't support the wildcards, use the file type to identify groups of files. You can use the  **MacID** function to specify file type instead of using the file names. For example, the following statement returns the name of the first TEXT file in the current folder:
 
 
