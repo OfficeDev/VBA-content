@@ -50,7 +50,7 @@ By running a macro or an event procedure when a report's  **Unload** event occur
 
 When you close a report, the following events occur in this order:
 
-Unload ? Deactivate ? Close
+**Unload** → **Deactivate** → **Close**
 
 The  **Unload** event occurs before the **Close** event. The **Unload** event can be canceled, but the **Close** event cannot.
 
