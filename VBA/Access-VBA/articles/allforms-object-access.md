@@ -54,8 +54,6 @@ The following example shows how to prevent a user form opening a particular form
  **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
-
-
 ```
 'Don't let this form be opened from the Navigator
 If Not CurrentProject.AllForms(cFormUsage).IsLoaded Then

@@ -27,7 +27,7 @@ _expression_ A variable that represents a **DoCmd** object.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Optional|**AcSendObjectType**|A  **[AcSendObjectType](acsendobjecttype-enumeration-access.md)** constant that specifies the type of object to send.|
+| _ObjectType_|Optional|**AcSendObjectType**|A **[AcSendObjectType](acsendobjecttype-enumeration-access.md)** constant that specifies the type of object to send.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _ObjectType_ argument. If you want to include the active object in the mail message, specify the object's type with the _ObjectType_ argument and leave this argument blank. If you leave both the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acSendNoObject**, is assumed for the _ObjectType_ argument), Microsoft Access sends a message to the electronic mail application without an included database object. If you run Visual Basic code containing the **SendObject** method in a library database, Microsoft Access looks for the object with this name first in the library database, then in the current database.|
 | _OutputFormat_|Optional|**Variant**|A constant that specifies the format in which to send the object. Possible values include  **acFormatHTML**, **acFormatRTF**, **acFormatSNP**, **acFormatTXT**, **acFormatXLS**, **acFormatXLSB**, **acFormatXLSX**, **acFormatXPS**, and **acFormatPDF**.|
 | _To_|Optional|**Variant**|A string expression that lists the recipients whose names you want to put on the To line in the mail message. Separate the recipient names you specify in this argument and in the  _cc_ and _bcc_ arguments with a semicolon (;) or with the list separator set on the **Number** tab of the **Regional Settings Properties** dialog box in Windows Control Panel. If the recipient names aren't recognized by the mail application, the message isn't sent and an error occurs. If you leave this argument blank, Microsoft Access prompts you for the recipients.|
@@ -68,6 +68,7 @@ Modules can be sent only in MS-DOS Text format, so if you specify **acSendModule
 
 - [Features and Limits of Using the SendObject Method to Send Emails](http://www.fmsinc.com/microsoftaccess/email/sendobject.html)
     
+
 **Link provided by:**  ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 - [Email from Access](http://www.utteraccess.com/forum/Email-Access-t130485.html)
@@ -87,6 +88,7 @@ DoCmd.SendObject acSendTable, "Employees", acFormatXLS, _
 The following example shows how to create an email message with Microsoft Outlook and display it to the user.
 
 **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+
 
 ```vb
 Public Function CreateEmailWithOutlook( _

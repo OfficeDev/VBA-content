@@ -32,6 +32,7 @@ The following example shows how to set the  **BackColor** property of a control 
 
 
 
+
 ```vb
 Private Sub SetControlFormatting()
     If (Me.AvgOfRating >= 8) Then

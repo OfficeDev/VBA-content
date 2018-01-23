@@ -71,7 +71,7 @@ On Error GoTo ErrorHandler
  
    Set dbsNorthwind = CurrentDb 
    strSQL = "SELECT FirstName, LastName, Title FROM Employees" 
-   Set rstEmployees = dbsNorthwind.OpenRecordset(SQL, dbOpenSnapshot) 
+   Set rstEmployees = dbsNorthwind.OpenRecordset(strSQL, dbOpenSnapshot) 
  
    varRecords = rstEmployees.GetRows(3) 
    intNumReturned = UBound(varRecords, 2) + 1 
