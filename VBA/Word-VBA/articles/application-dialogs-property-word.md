@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Dialogs Property (Word)
 
-Returns a  **[Dialogs](dialogs-object-word.md)** collection that represents all the built-in dialog boxes in Word.Read-only.
+Returns a  **[Dialogs](dialogs-object-word.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,9 @@ Returns a  **[Dialogs](dialogs-object-word.md)** collection that represents all 
 
 ## Remarks
 
-For information about returning a single member of a collection, see [Returning an Object from a Collection](http://msdn.microsoft.com/library/28f76384-f495-9640-a7c8-10ada3fac727%28Office.15%29.aspx).
+For information about returning a single member of a collection, see [Returning an Object from a Collection](returning-an-object-from-a-collection-word.md). 
+
+For a list of built-in dialog boxes, see the **[WdWordDialog](wdworddialog-enumeration-word.md)** enumeration.
 
 
 ## Example
