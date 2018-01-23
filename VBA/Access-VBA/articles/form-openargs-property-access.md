@@ -61,9 +61,6 @@ The following example shows how to use the  **OpenArgs** property to prevent a f
 
  **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
-
-
-
 ```vb
 Private Sub Form_Open(Cancel As Integer)
 

@@ -22,13 +22,7 @@ This object corresponds to a combo box control. The combo box control combines t
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|
-![Combo box control](/images/t-combox_ZA06053980.gif)
-
-|
-![Combo box tool](/images/a_combobox_ZA06047114.gif)
-
-|
+|![Combo box control](/images/t-combox_ZA06053980.gif)|![Combo box tool](/images/a_combobox_ZA06047114.gif)|
 In Form view, Microsoft Access doesn't display the list until you click the combo box's arrow.
 
 If you have Control Wizards on before you select the combo box tool, you can create a combo box with a wizard. To turn Control Wizards on or off, click the  **Control Wizards** tool in the toolbox.
@@ -37,13 +31,13 @@ The setting of the  **LimitToList** property determines whether you can enter va
 
 The list can be single- or multiple-column, and the columns can appear with or without headings.
 
- **Link provided by:** Luke Chung,[FMS, Inc.](http://www.fmsinc.com/)
+ **Link provided by:** Luke Chung, [FMS, Inc.](http://www.fmsinc.com/)
 
 
 - [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
     
  **Links provided by:**
-![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Combo Box](http://www.utteraccess.com/wiki/index.php/Combo_Box)
@@ -62,7 +56,7 @@ The list can be single- or multiple-column, and the columns can appear with or w
 The following example shows how to use multiple  **ComboBox** controls to supply criteria for a query.
 
  **Sample code provided by:**
-![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
@@ -151,9 +145,7 @@ End Sub
 
 The following example shows how to add an item to a bound combo box.
 
- **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
-
-
+ **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 ```
@@ -190,10 +182,7 @@ Private Sub cboMainCategory_NotInList(NewData As String, Response As Integer)
 End Sub
 ```
 
-
 ## Events
-
-
 
 |**Name**|
 |:-----|
