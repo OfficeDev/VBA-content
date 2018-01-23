@@ -44,6 +44,8 @@ Variant
 
 If you omit all the arguments, this method simply toggles the display of the AutoFilter drop-down arrows in the specified range.
 
+Excel for Mac does not support this method. Similar methods on Selection and ListObject are supported.
+
 
 ## Example
 

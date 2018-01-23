@@ -56,11 +56,11 @@ Double-clicking a control causes both  **Click** and **DblClick** events to occu
 
 For objects that receive mouse events, the events occur in this order:
 
- **MouseDown** ? **MouseUp** ? **Click** ? **DblClick**
+ **MouseDown** → **MouseUp** → **Click** → **DblClick**
 
 When you double-click a command button, the following events occur in this order:
 
- **MouseDown** ? **MouseUp** ? **Click** ? **DblClick** ? **MouseUp** ? **Click**
+ **MouseDown** → **MouseUp** → **Click** → **DblClick** → **MouseUp** → **Click**
 
 The second click may have no effect (for example, if the  **Click** macro or event procedure opens a modal dialog box in response to the first **Click** event). To prevent the second **Click** macro or event procedure from running, put a **CancelEvent** action in the **DblClick** macro or use the _Cancel_ argument in the **DblClick** event procedure. Note that, generally speaking, double-clicking a command button should be discouraged.
 
