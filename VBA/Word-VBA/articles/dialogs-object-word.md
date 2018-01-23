@@ -20,7 +20,7 @@ Use the  **[Dialogs](application-dialogs-property-word.md)** property to return 
 MsgBox Dialogs.Count
 ```
 
-You cannot create a new built-in dialog box or add one to the  **Dialogs** collection. Use **Dialogs** (Index), where Index is the **WdWordDialog** constant that identifies the dialog box, to return a single **Dialog** object. The following example displays the built-in **Open** dialog box.
+You cannot create a new built-in dialog box or add one to the  **Dialogs** collection. Use **Dialogs** (Index), where Index is the **[WdWordDialog](wdworddialog-enumeration-word.md)** constant that identifies the dialog box, to return a single **Dialog** object. The following example displays the built-in **Open** dialog box.
 
 
 
@@ -29,7 +29,7 @@ You cannot create a new built-in dialog box or add one to the  **Dialogs** colle
 dlgAnswer = Dialogs(wdDialogFileOpen).Show
 ```
 
-For more information, see [Displaying built-in Word dialog boxes](http://msdn.microsoft.com/library/abe465f9-09a1-72ea-2e2d-9de14fc02434%28Office.15%29.aspx).
+For more information, see [Displaying built-in Word dialog boxes](displaying-built-in-word-dialog-boxes.md).
 
 
 ## See also
