@@ -74,11 +74,11 @@ This example takes a date and, using the  **DateAdd** function, displays a corre
 Dim FirstDate As Date    ' Declare variables.
 Dim IntervalType As String
 Dim Number As Integer
-Dim Msg
+Dim Msg As String
 IntervalType = "m"    ' "m" specifies months as interval.
 FirstDate = InputBox("Enter a date")
 Number = InputBox("Enter number of months to add")
-Msg = "New date: " &; DateAdd(IntervalType, Number, FirstDate)
+Msg = "New date: " & DateAdd(IntervalType, Number, FirstDate)
 MsgBox Msg
 
 
