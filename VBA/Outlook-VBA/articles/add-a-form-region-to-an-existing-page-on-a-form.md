@@ -37,42 +37,42 @@ To create and design a form region, you will use the Forms Designer in much the 
     **Figure 2. Choose a standard form to start your customization.**
 
 
-    ![](./images/olDesignFormDialog_ZA10107628.gif)
+    ![Design form dialog box](./images/olDesignFormDialog_ZA10107628.gif)
 
 3. In the Forms Designer, click  **Form Region** and then **New Form Region**, as in Figure 3. 
     
     **Figure 3. Create a form region.**
 
 
-    ![](./images/olNewFormRegionMenuItem_ZA10107630.gif)
+    ![Screenshot of the Forms Designer dialog, showing the New Form Region option highlighted.](./images/olNewFormRegionMenuItem_ZA10107630.gif)
 
 4. Next, you will create three custom fields: Frequent Flyer Number, Vegetarian, and Seat Preference. If the Field Chooser has not been automatically displayed, click  **Field Chooser** to display it as in Figure 4.
     
     **Figure 4. Use the Field chooser to create custom fields.**
 
 
-    ![](./images/olFieldChooserDialog_ZA10107631.gif)
+    ![Field chooser dialog box, showing the New button selected.](./images/olFieldChooserDialog_ZA10107631.gif)
 
 5. Click  **New**. Type  **Frequent Flyer Number** as the **Name** (see Figure 5), and click **OK** to create the Frequent Flyer Number field as a custom text field.
     
     **Figure 5. Create the custom field Frequent Flyer Number.**
 
 
-    ![](./images/olNewFieldDialogFFN_ZA10107632.gif)
+    ![The New Field dialog box, showing the Name, Type, and Format fields populated.](./images/olNewFieldDialogFFN_ZA10107632.gif)
 
 6. Click  **New**. Type  **Vegetarian** as the **Name**, select  **Yes/No** as the **Type**, and select  **Yes/No** as the **Format** (see Figure 6), and click **OK** to create the Vegetarian field as a Yes/No field.
     
     **Figure 6. Create the custom field Vegetarian.**
 
 
-    ![](./images/olNewFieldDialogSmoker_ZA10107633.gif)
+    ![The New Field dialog box, showing the Name, Type, and Format fields populated.](./images/olNewFieldDialogSmoker_ZA10107633.gif)
 
 7. Click  **New**. Type  **Seat Preference** as the **Name**, select  **Text** as the **Type** (see Figure 7), and click **OK** to create the Seat Preference field as a custom text field.
     
     **Figure 7. Create the custom field Seat Preference.**
 
 
-    ![](./images/olNewFieldDialogSP_ZA10107634.gif)
+    ![The New Field dialog box, showing the Name, Type, and Format fields populated.](./images/olNewFieldDialogSP_ZA10107634.gif)
 
 8. In steps 9 through 12, you will insert six Outlook controls in the form region.
     
@@ -84,7 +84,7 @@ To create and design a form region, you will use the Forms Designer in much the 
     **Figure 8. The desired form region in the Forms Designer.**
 
 
-    ![](./images/olCompletedFormRegion_ZA10107636.gif)
+    ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](./images/olCompletedFormRegion_ZA10107636.gif)
 
 9. Add a label control for the title of the form region,  **Contoso Airlines**.
     
@@ -114,7 +114,7 @@ To create and design a form region, you will use the Forms Designer in much the 
     **Figure 9. Bind the Frequent Flyer Number field to the text box control.**
 
 
-    ![](./images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
+    ![Screenshot of the Properties dialog box of the Form Region, showing the Frequent Flyer field highlighted.](./images/olPropertiesDialogFFNValueTab_ZA10107787.gif)
 
 11. Add a check box control and bind the Vegetarian field to the check box control.
     
@@ -125,14 +125,14 @@ To create and design a form region, you will use the Forms Designer in much the 
     **Figure 10. Specify a caption for the check box control.**
 
 
-    ![](./images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
+    ![Screenshot of the Display tab on the Properties dialog box, adding  the check box control.](./images/olPropertiesDialogSmokerDisplayTab_ZA10107790.gif)
 
   3. Click the  **Value** tab, click **Choose Field**. Point to  **User-defined field in folder** in the drop-down list, and click **Vegetarian**, as in Figure 11. Then click  **OK**. 
     
     **Figure 11. Bind the Vegetarian field to the check box control.**
 
 
-    ![](./images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
+    ![Screenshot of the Display tab on the Properties dialog box with the check box control labeled as Vegetarian.](./images/olPropertiesDialogSmokerValueTab_ZA10107789.gif)
 
 12. Add a label control and a combo box control, and bind the Seat Preference field to the combo box control.
     
@@ -147,7 +147,7 @@ To create and design a form region, you will use the Forms Designer in much the 
     **Figure 12. Bind the Seat Preference field to the combo box control.**
 
 
-    ![](./images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
+    ![Screenshot of the Value tab on the Properties dialog box binding the seat preference field to the combo box control.](./images/olPropertiesDialogSPValueTabProperty_ZA10107791.gif)
 
   5. To define values for the drop-down list, type  **Aisle,Center,Window** as the **Possible Values**. 
     

@@ -26,7 +26,7 @@ The  **Name** statement syntax has these parts:
 | _newpathname_|Required. String expression that specifies the new file name and location — may include directory or folder, and drive. The file name specified by  _newpathname_ can't already exist.|
  **Remarks**
 The Name statement renames a file and moves it to a different directory or folder, if necessary. Name can move a file across drives, but it can only rename an existing directory or folder when both newpathname and oldpathname are located on the same drive. Name cannot create a new file, directory, or folder.
-Using  **Name** on an open file produces an error. You must close an open file before renaming it. **Name**[arguments](vbe-glossary.md) cannot include multiple-character ( ***** ) and single-character ( **?** ) wildcards.
+Using  **Name** on an open file produces an error. You must close an open file before renaming it. **Name**[arguments](vbe-glossary.md) cannot include multiple-character ( **\*** ) and single-character ( **?** ) wildcards.
 
 ## Example
 

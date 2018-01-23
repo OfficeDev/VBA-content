@@ -104,45 +104,43 @@ The following table lists other important members of the [UndoRecord](http://msd
     
 - Call the [Document](http://msdn.microsoft.com/library/8d83487a-2345-a036-a916-971c9db5b7fb%28Office.15%29.aspx) object's [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method in the right order when calling from within a custom undo record. Calling the [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method in the wrong order within a custom undo record can have undesired effects on your code execution. The following code example shows the [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method being called from inside a custom undo record.
     
-  ```
-  Sub UndoInUndoRecord() 
+```
+Sub UndoInUndoRecord() 
+   
+  Set objUndo = Application.UndoRecord 
+  
+  objUndo.StartCustomRecord ("New Paragraph") 
+  
+  ActiveDocument.Content.InsertAfter Text:=" The end." 
+  ActiveDocument.Undo 
+  ActiveDocument.Content.InsertAfter Text:=" The end, again." 
+  ActiveDocument.Content.InsertAfter Text:=" The last end." 
  
-Set objUndo = Application.UndoRecord 
- 
-objUndo.StartCustomRecord ("New Paragraph") 
- 
-ActiveDocument.Content.InsertAfter Text:=" The end." 
-ActiveDocument.Undo 
-ActiveDocument.Content.InsertAfter Text:=" The end, again." 
-ActiveDocument.Content.InsertAfter Text:=" The last end." 
- 
-objUndo.EndCustomRecord 
+  objUndo.EndCustomRecord 
  
 End Sub
-  ```
+```
 
+When this code is run, each action in the custom undo record prior to the  **Undo** method call is undone. Each action in the custom undo record after the **Undo** method call is placed the undo stack.
 
-    When this code is run, each action in the custom undo record prior to the  **Undo** method call is undone. Each action in the custom undo record after the **Undo** method call is placed the undo stack.
-    
 - Avoid switching documents inside a custom undo record. The following code example switches from one document to another inside a custom undo record.
-    
-  ```
-  Dim objUndo As UndoRecord 
+
+```
+Dim objUndo As UndoRecord 
 
 Sub SwitchDocsInsideUndo() 
-Set objUndo = Application.UndoRecord objUndo.StartCustomRecord ("New Paragraph") 
-
-'Insert some text into the first document Documents(1).Content.InsertAfter "A new paragraph in doc1." 
-
-'Switch documents to the second document 
-'The custom undo record will terminate here Documents(2).Content.InsertAfter "A new paragraph in doc2." 
-
-objUndo.EndCustomRecord 
+  Set objUndo = Application.UndoRecord objUndo.StartCustomRecord ("New Paragraph") 
+  
+  'Insert some text into the first document Documents(1).Content.InsertAfter "A new paragraph in doc1." 
+  
+  'Switch documents to the second document 
+  'The custom undo record will terminate here Documents(2).Content.InsertAfter "A new paragraph in doc2." 
+  
+  objUndo.EndCustomRecord 
 End Sub
-  ```
+```
 
-
-    When this code is run, Word terminates the custom undo record when the code begins to write to the second document. When the procedure is finished, only the first document will have a custom undo record with the name "New Paragraph."
+When this code is run, Word terminates the custom undo record when the code begins to write to the second document. When the procedure is finished, only the first document will have a custom undo record with the name "New Paragraph."
     
 - Avoid using Breaks when running code that contains custom undo records in Debug mode. When code that contains undo records is run in Debug mode in the Visual Basic editor and the code encounters a breakpoint, Word automatically ends all custom records that are currently in progress.
     

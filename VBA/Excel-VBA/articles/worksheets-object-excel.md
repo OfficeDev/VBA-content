@@ -15,20 +15,13 @@ ms.date: 06/08/2017
 
 A collection of all the  **[Worksheet](worksheet-object-excel.md)** objects in the specified or active workbook. Each **Worksheet** object represents a worksheet.
 
-
 ## Remarks
 
-The  **Worksheet** object is also a member of the[Sheets](sheets-object-excel.md) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
-
+The  **Worksheet** object is also a member of the [Sheets](sheets-object-excel.md) collection. The **Sheets** collection contains all the sheets in the workbook (both chart sheets and worksheets).
 
 ## Example
 
 Use the  **[Worksheets](workbook-worksheets-property-excel.md)** property to return the **Worksheets** collection.The following example moves all the worksheets to the end of the workbook.
-
-
-
-
-
 
 ```
 Worksheets.Move After:=Sheets(Sheets.Count)
@@ -36,26 +29,16 @@ Worksheets.Move After:=Sheets(Sheets.Count)
 
 Use the  **[Add](worksheets-add-method-excel.md)** method to create a new worksheet and add it to the collection. The following example adds two new worksheets before sheet one of the active workbook.
 
-
-
-
 ```
 Worksheets.Add Count:=2, Before:=Sheets(1)
 ```
 
 Use  **Worksheets** ( _index_ ), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 
-
-
-
 ```
 Worksheets(1).Visible = False
 ```
-
-
 ## Methods
-
-
 
 |**Name**|
 |:-----|
@@ -71,8 +54,6 @@ Worksheets(1).Visible = False
 
 ## Properties
 
-
-
 |**Name**|
 |:-----|
 |[Application](worksheets-application-property-excel.md)|
@@ -86,8 +67,6 @@ Worksheets(1).Visible = False
 
 ## See also
 
-
 #### Other resources
-
 
 [Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)

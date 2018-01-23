@@ -29,11 +29,11 @@ Returns a  **Long** that represents a statistic based on the contents of the spe
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Statistic_|Required| **WdStatistic**|The type of statistic to compute.|
+| _Statistic_|Required| **[WdStatistic](wdstatistic-enumeration-word.md)**|The type of statistic to compute.|
 
 ## Remarks
 
-Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.
+Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 
 ## Example

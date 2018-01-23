@@ -37,7 +37,7 @@ When a new  **Recordset** object is opened, its first record is the current reco
 ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
-- [Transfer data from Access to Excel](http://www.utteraccess.com/forum/Transfer-data-Access-Ex-t1672619.mdl)
+- [Transfer data from Access to Excel](http://www.utteraccess.com/forum/Transfer-data-Access-Ex-t1672619.html)
     
 
 ## Example

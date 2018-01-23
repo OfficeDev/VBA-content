@@ -35,6 +35,27 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:= temp3
 To see whether the specified list template contains the formatting built into Word, use the  **Modified** property for the **ListGallery** object. To reset formatting to the original list format, use the **Reset** method for the **ListGallery** object.
 
 
+## Methods
+
+
+
+|**Name**|
+|:-----|
+|[Reset](listgallery-reset-method-word.md)|
+
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[Application](listgallery-application-property-word.md)|
+|[Creator](listgallery-creator-property-word.md)|
+|[ListTemplates](listgallery-listtemplates-property-word.md)|
+|[Modified](listgallery-modified-property-word.md)|
+|[Parent](listgallery-parent-property-word.md)|
+
+
 ## See also
 
 

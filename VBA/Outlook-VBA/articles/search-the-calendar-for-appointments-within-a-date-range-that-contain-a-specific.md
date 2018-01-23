@@ -52,10 +52,10 @@ Sub FindAppts()
     Debug.Print "End:", myEnd
           
     'Construct filter for the next 30-day date range
-    strRestriction = "[Start] >= '" &; _
+    strRestriction = "[Start] >= '" & _
     Format$(myStart, "mm/dd/yyyy hh:mm AMPM") _
-    &; "' AND [End] <= '" &; _
-    Format$(myEnd, "mm/dd/yyyy hh:mm AMPM") &; "'"
+    & "' AND [End] <= '" & _
+    Format$(myEnd, "mm/dd/yyyy hh:mm AMPM") & "'"
     'Check the restriction string
     Debug.Print strRestriction
     Set oCalendar = Application.session.GetDefaultFolder(olFolderCalendar)
@@ -66,8 +66,8 @@ Sub FindAppts()
     Set oItemsInDateRange = oItems.Restrict(strRestriction)
     'Construct filter for Subject containing 'team'
     Const PropTag  As String = "http://schemas.microsoft.com/mapi/proptag/"
-    strRestriction = "@SQL=" &; Chr(34) &; PropTag _
-        &; "0x0037001E" &; Chr(34) &; " like '%team%'"
+    strRestriction = "@SQL=" & Chr(34) & PropTag _
+        & "0x0037001E" & Chr(34) & " like '%team%'"
     'Restrict the last set of filtered items for the subject
     Set oFinalItems = oItemsInDateRange.Restrict(strRestriction)
     'Sort and Debug.Print final results
