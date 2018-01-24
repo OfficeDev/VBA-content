@@ -47,7 +47,7 @@ Opens a workbook.
 
 ### Return Value
 
-A  **[Workbook](workbook-object-excel.md)** object that represents the opened workbook.
+A  **[Workbook](workbook-object-excel.md)** object that represents the opened workbook, unless that workbook was already open, in which case this returns the Workbook object representing the most recently opened workbook, which is still open.
 
 
 ## Remarks
