@@ -32,6 +32,7 @@ Labels have certain characteristics:
 |:-----|:-----|
 |**Control**:|**Tool**:|
 |![Label control](images/t-label_ZA06053967.gif)|![Label tool](images/label_ZA06044394.gif)|
+
 A label can be attached to another control. When you create a text box, for example, it has an attached label that displays a caption for that text box. This label appears as a column heading in the Datasheet view of a form.
 
 When you create a label by using the  **Label** tool, the label stands on its own — it isn't attached to any other control. You use stand-alone labels for information such as the title of a form or report, or for other descriptive text. Stand-alone labels don't appear in Datasheet view.
@@ -153,5 +154,5 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 #### Other resources
 
 
-[Label Object Members](http://msdn.microsoft.com/library/a47442ed-c770-49a4-3bd1-76e3e05bddca%28Office.15%29.aspx)
+[Label Object Members](http://msdn.microsoft.com/library/a47442ed-c770-49a4-3bd1-76e3e05bddca%28Office.15%29.aspx)<br/>
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

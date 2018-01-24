@@ -30,6 +30,7 @@ The  **AllowSpecialKeys** property uses the following settings.
 |:-----|:-----|
 |**True** (-1)|Enable the special key sequences.|
 |**False** (0)|Disable the special key sequences.|
+
 The easiest way to set this property is by using the  **Use Access Special Keys** option in the **Current Database** section of the **Access Options** dialog box. To view the **Access Options** dialog box, click the **Microsoft Office button**
 ![File menu button](images/O12FileMenuButton_ZA10077102.gif) and then click **Access Options**. In a Microsoft Access database , you can also set this property by using a macro or Visual Basic .
 
@@ -55,6 +56,7 @@ The  **AllowSpecialKeys** property affects the following key sequences.
 |CTRL+G|Display the Immediate window.|
 |CTRL+F11|Toggle between the custom menu bar and the built-in menu bar.|
 |CTRL+BREAK|Enter break mode and display the current module in the Code window.|
+
 This property's setting doesn't take effect until the next time the application database opens.
 
  **ACCESS SUPPORT RESOURCES**<br>
