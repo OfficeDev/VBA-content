@@ -22,13 +22,7 @@ This object corresponds to a toggle button. A toggle button on a form is a stand
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|
-![Toggle button with the label 'Discontinued'.](/images/t-togbtn_ZA06054009.gif)
-
-|
-![Toggle button](/images/togglbtn_ZA06044638.gif)
-
-|
+|![Toggle button with the label 'Discontinued'.](images/t-togbtn_ZA06054009.gif)|![Toggle button](images/togglbtn_ZA06044638.gif)|
 
  **Note**  When you click a toggle button that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's  **Format** property (Yes/No, **True** / **False**, or On/Off).
 
@@ -211,5 +205,5 @@ You can also use a toggle button in a custom dialog box to accept user input.
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [ToggleButton Object Members](http://msdn.microsoft.com/library/487101e7-c090-eb79-3671-5c9ce86cb6b0%28Office.15%29.aspx)

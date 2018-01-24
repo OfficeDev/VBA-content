@@ -14,12 +14,12 @@ ms.date: 06/08/2017
 # Application.GetOption Method (Access)
 
 The  **GetOption** method returns the current value of an option in the **Access Options** dialog box, available by clicking the Microsoft Office Button
-![File menu button](/images/O12FileMenuButton_ZA10077102.gif) and then clicking **Access Options**.  **Variant**.
+![File menu button](images/O12FileMenuButton_ZA10077102.gif) and then clicking **Access Options**.  **Variant**.
 
 
 ## Syntax
 
- _expression_. **GetOption**( ** _OptionName_** )
+ _expression_. **GetOption**( **_OptionName_** )
 
  _expression_ A variable that represents an **Application** object.
 

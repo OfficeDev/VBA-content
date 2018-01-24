@@ -22,7 +22,8 @@ This object corresponds to a combo box control. The combo box control combines t
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|![Combo box control](/images/t-combox_ZA06053980.gif)|![Combo box tool](/images/a_combobox_ZA06047114.gif)|
+|![Combo box control](images/t-combox_ZA06053980.gif)|![Combo box tool](images/a_combobox_ZA06047114.gif)|
+
 In Form view, Microsoft Access doesn't display the list until you click the combo box's arrow.
 
 If you have Control Wizards on before you select the combo box tool, you can create a combo box with a wizard. To turn Control Wizards on or off, click the  **Control Wizards** tool in the toolbox.
@@ -37,7 +38,7 @@ The list can be single- or multiple-column, and the columns can appear with or w
 - [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
     
  **Links provided by:**
-![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Combo Box](http://www.utteraccess.com/wiki/index.php/Combo_Box)
@@ -56,7 +57,7 @@ The list can be single- or multiple-column, and the columns can appear with or w
 The following example shows how to use multiple  **ComboBox** controls to supply criteria for a query.
 
  **Sample code provided by:**
-![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 UtterAccess members can download a database that contains this example from [here](http://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
@@ -103,7 +104,7 @@ End Sub
 The following example shows how to set the  **RowSource** property of a combo box when a form is loaded. When the form is displayed, the items stored in the **Departments** field of the **tblDepartment** combo box are displayed in the **cboDept** combo box.
 
  **Sample code provided by:**
-![MVP Contributor](/images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+![MVP Contributor](images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
 
 
 
@@ -127,7 +128,7 @@ The following example show how to create a combo box that is bound to one column
 The  **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
 
  **Sample code provided by:**
-![MVP Contributor](/images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
+![MVP Contributor](images/odc_OfficeTA_33px_MVPContrib.jpg) Bill Jelen,[MrExcel.com](http://www.mrexcel.com/)
 
 
 
@@ -397,5 +398,5 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [ComboBox Object Members](http://msdn.microsoft.com/library/d0d83ca3-3698-295e-5335-7d0816557d6b%28Office.15%29.aspx)
