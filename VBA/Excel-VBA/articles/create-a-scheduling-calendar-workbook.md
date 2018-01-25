@@ -15,7 +15,7 @@ The following code example shows how to use information in one workbook to creat
 To run this code, your workbook must have a worksheet named "Cover" that contains the following:
 
 
-- A spin control that contains a list of years name "SpinControl1"
+- A spin control that contains a list of years name "SpinButton1"
     
 - An option button for the "with weekends" option named "OptionButton1"
     
