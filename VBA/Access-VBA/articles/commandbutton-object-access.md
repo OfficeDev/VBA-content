@@ -22,13 +22,8 @@ This object corresponds to a command button. A command button on a form can star
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|
-![Command button](/images/t-cmdbtn_ZA06053979.gif)
+|![Command button](images/t-cmdbtn_ZA06053979.gif)|![Command button](images/command_ZA06047243.gif)|
 
-|
-![Command button](/images/command_ZA06047243.gif)
-
-|
 You can display text on a command button by setting its  **Caption** property, or you can display a picture by setting its **Picture** property.
 
 
@@ -204,5 +199,5 @@ You can display text on a command button by setting its  **Caption** property, o
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [CommandButton Object Members](http://msdn.microsoft.com/library/9e1c10e6-0d03-78fd-ac9d-3f086ce1e0f5%28Office.15%29.aspx)

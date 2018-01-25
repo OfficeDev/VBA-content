@@ -33,12 +33,12 @@ The following table shows the predefined  **Format** property settings for numbe
 |:-----|:-----|
 |General Number|(Default) Display the number as entered.|
 |Currency|Use the thousand separator; follow the settings specified in the regional settings of Windows for negative amounts, decimal and currency symbols, and decimal places.|
-|Euro|Use the euro symbol (
-![Euro symbol](/images/euro_ZA06048440.gif)), regardless of the currency symbol specified in the regional settings of Windows.|
+|Euro|Use the euro symbol (![Euro symbol](images/euro_ZA06048440.gif)), regardless of the currency symbol specified in the regional settings of Windows.|
 |Fixed|Display at least one digit; follow the settings specified in the regional settings of Windows for negative amounts, decimal and currency symbols, and decimal places.|
 |Standard|Use the thousand separator; follow the settings specified in the regional settings of Windows for negative amounts, decimal symbols, and decimal places.|
 |Percent|Multiply the value by 100 and append a percent sign (%); follow the settings specified in the regional settings of Windows for negative amounts, decimal symbols, and decimal places.|
 |Scientific|Use standard scientific notation.|
+
  **Custom Formats**
 
 Custom number formats can have one to four sections with semicolons (;) as the list separator. Each section contains the format specification for a different type of number.
@@ -102,6 +102,7 @@ The following are examples of the predefined number formats.
 |Standard|3456.789|3,456.79|
 |Percent|3 0.45|300% 45%|
 |Scientific|3456.789 -3456.789|3.46E+03 -3.46E+03|
+
 The following are examples of custom number formats.
 
 
@@ -110,6 +111,7 @@ The following are examples of custom number formats.
 |:-----|:-----|
 |0;(0);;"Null"|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is  **Null**.|
 |+0.0;-0.0;0.0|Display a plus (+) or minus (-) sign with positive or negative numbers; display 0.0 if the value is zero.|
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
