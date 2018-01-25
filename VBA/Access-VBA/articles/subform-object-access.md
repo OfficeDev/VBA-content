@@ -22,14 +22,14 @@ This object corresponds to a subform control. The subform control embeds a form 
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|![Subform control](/images/t-subfrm_ZA06054004.gif)|![Subform tool](/images/subfrmrp_ZA06044634.gif)|
+|![Subform control](images/t-subfrm_ZA06054004.gif)|![Subform tool](images/subfrmrp_ZA06044634.gif)|
 
  **Note**   For example, you can use a form with a subform to present one-to-many relationships, such as one product category with the items that fall into that category. In this case, the main form can display the category ID, name, and description; the subform can display the available products in that category.
 
 Instead of creating the main form, and then adding the subform control to it, you can simultaneously create the main form and subform with a wizard . You can also create a subform by dragging an existing form or report from the Database window to the main form.
 
  **Links provided by:**
-![Community Member Icon](/images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Create a Subform with Alternating Color Rows](http://www.utteraccess.com/wiki/index.php/Create_a_Subform_with_Alternating_Color_Rows)
@@ -142,5 +142,5 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [SubForm Object Members](http://msdn.microsoft.com/library/328e74d8-0418-968f-faca-3e1b34139f48%28Office.15%29.aspx)

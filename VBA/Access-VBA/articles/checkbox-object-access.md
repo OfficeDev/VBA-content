@@ -22,13 +22,8 @@ This object corresponds to a check box on a form or report. This check box is a 
 |||
 |:-----|:-----|
 |**Control**:|**Tool**:|
-|
-![Check box](/images/t-chkbox_ZA06053977.gif)
+|![Check box](images/t-chkbox_ZA06053977.gif)|![Check box](images/chkbox_ZA06047229.gif)|
 
-|
-![Check box](/images/chkbox_ZA06047229.gif)
-
-|
 When you select or clear a check box that's bound to a Yes/No field, Microsoft Access displays the value in the underlying table according to the field's  **Format** property (Yes/No, **True** / **False**, or On/Off).
 
 You can also use check boxes in an option group to display values to choose from.
@@ -165,5 +160,5 @@ You can also use check boxes in an option group to display values to choose from
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [CheckBox Object Members](http://msdn.microsoft.com/library/aeefeae7-4053-ec23-80ef-1da1099f54f0%28Office.15%29.aspx)
