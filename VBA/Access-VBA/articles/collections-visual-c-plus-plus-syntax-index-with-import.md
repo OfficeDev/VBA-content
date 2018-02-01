@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Properties Collection](#sectionSection0)
-[Errors Collection](#sectionSection1)
-[Parameters Collection](#sectionSection2)
+[Properties Collection](#sectionSection0)<br/>
+[Errors Collection](#sectionSection1)<br/>
+[Parameters Collection](#sectionSection2)<br/>
 [Fields Collection](#sectionSection3)
 
 

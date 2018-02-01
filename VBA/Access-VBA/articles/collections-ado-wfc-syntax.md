@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Parameters](#sectionSection0)
-[Fields](#sectionSection1)
+[Parameters](#sectionSection0)<br/>
+[Fields](#sectionSection1)<br/>
 [Errors](#sectionSection2)
 
 

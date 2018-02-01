@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Syntax](#sectionSection1)
-[Return Value](#sectionSection2)
-[Parameters](#sectionSection3)
+[Syntax](#sectionSection1)<br/>
+[Return Value](#sectionSection2)<br/>
+[Parameters](#sectionSection3)<br/>
 [Remarks](#sectionSection4)
 
 

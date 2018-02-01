@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
+[Syntax](#sectionSection0)<br/>
+[Remarks](#sectionSection1)<br/>
+[ Example](#sectionSection2)<br/>
 [About the Contributors](#AboutContributors)
 
 

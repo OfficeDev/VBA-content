@@ -18,10 +18,10 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Setting](#sectionSection0)
-[Remarks](#sectionSection1)
-[Example](#sectionSection2)
-[Customers table](#sectionSection3)
+[Setting](#sectionSection0)<br/>
+[Remarks](#sectionSection1)<br/>
+[Example](#sectionSection2)<br/>
+[Customers table](#sectionSection3)<br/>
 [Orders table](#sectionSection4)
 
 

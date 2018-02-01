@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[IDataFactoryHandler Interface](#sectionSection0)
-[GetRecordset Method](#sectionSection1)
-[Arguments](#sectionSection2)
-[Reconnect Method](#sectionSection3)
-[Arguments](#sectionSection4)
+[IDataFactoryHandler Interface](#sectionSection0)<br/>
+[GetRecordset Method](#sectionSection1)<br/>
+[Arguments](#sectionSection2)<br/>
+[Reconnect Method](#sectionSection3)<br/>
+[Arguments](#sectionSection4)<br/>
 [msdfhdl.idl](#sectionSection5)
 
 

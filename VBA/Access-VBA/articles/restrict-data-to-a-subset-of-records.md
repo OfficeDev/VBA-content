@@ -33,11 +33,11 @@ When you supply a  _criteria_ argument, Access first evaluates any expressions i
 You can specify numeric, textual, or date/time criteria. No matter what type of criteria you specify, the  _criteria_ argument is always converted to a string before being passed to the domain aggregate function. Therefore, you must make certain that after any expressions have been evaluated, all parts of the argument are concatenated into a single string, the whole of which is enclosed in double quotation marks (").
 Use caution when constructing criteria to ensure that the string will be properly concatenated.
 The following list of topics outlines the different ways in which you can specify criteria:
-[Numeric Criteria Expressions](numeric-criteria-expressions.md)
-[Textual Criteria Expressions](textual-criteria-expressions.md)
-[Date and Time Criteria Expressions](date-and-time-criteria-expressions.md)
-[Change Numeric Criteria from a Control on a Form](numeric-criteria-from-a-control-on-a-form.md)
-[Change Textual Criteria from a Control on a Form](textual-criteria-from-a-control-on-a-form.md)
-[Change Date and Time Criteria from a Control on a Form](date-and-time-criteria-from-a-control-on-a-form.md)
+[Numeric Criteria Expressions](numeric-criteria-expressions.md)<br/>
+[Textual Criteria Expressions](textual-criteria-expressions.md)<br/>
+[Date and Time Criteria Expressions](date-and-time-criteria-expressions.md)<br/>
+[Change Numeric Criteria from a Control on a Form](numeric-criteria-from-a-control-on-a-form.md)<br/>
+[Change Textual Criteria from a Control on a Form](textual-criteria-from-a-control-on-a-form.md)<br/>
+[Change Date and Time Criteria from a Control on a Form](date-and-time-criteria-from-a-control-on-a-form.md)<br/>
 [Multiple Fields in Criteria Expressions](multiple-fields-in-criteria-expressions.md)
 

@@ -15,9 +15,9 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[What Is a Primary Key?](#sectionSection0)
-[What Is an Index?](#sectionSection1)
-[Solution](#sectionSection2)
+[What Is a Primary Key?](#sectionSection0)<br/>
+[What Is an Index?](#sectionSection1)<br/>
+[Solution](#sectionSection2)<br/>
 [To remove the primary key](#sectionSection3)
 
 

@@ -13,9 +13,9 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Methods](#sectionSection0)
-[Syntax](#sectionSection1)
-[Returns](#sectionSection2)
+[Methods](#sectionSection0)<br/>
+[Syntax](#sectionSection1)<br/>
+[Returns](#sectionSection2)<br/>
 [Parameters](#sectionSection3)
 
 

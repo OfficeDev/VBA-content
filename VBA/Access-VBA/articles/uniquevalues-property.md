@@ -18,8 +18,8 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Setting](#sectionSection0)
-[Remarks](#sectionSection1)
+[Setting](#sectionSection0)<br/>
+[Remarks](#sectionSection1)<br/>
 [Example](#sectionSection2)
 
 

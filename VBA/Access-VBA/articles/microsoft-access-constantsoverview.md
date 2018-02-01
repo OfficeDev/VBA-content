@@ -16,13 +16,13 @@ ms.date: 06/08/2017
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[General](#sectionSection0)
-[Symbolic Constants](#sectionSection1)
-[Intrinsic Constants](#sectionSection2)
-[System-Defined Constants](#sectionSection3)
-[General](#sectionSection4)
-[Symbolic Constants](#sectionSection5)
-[Intrinsic Constants](#sectionSection6)
+[General](#sectionSection0)<br/>
+[Symbolic Constants](#sectionSection1)<br/>
+[Intrinsic Constants](#sectionSection2)<br/>
+[System-Defined Constants](#sectionSection3)<br/>
+[General](#sectionSection4)<br/>
+[Symbolic Constants](#sectionSection5)<br/>
+[Intrinsic Constants](#sectionSection6)<br/>
 [System-Defined Constants](#sectionSection7)
 
 

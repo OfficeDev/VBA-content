@@ -46,5 +46,5 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [TempVar Object Members](http://msdn.microsoft.com/library/1d8ac3a8-3116-6ce5-90c0-83265d7b79c4%28Office.15%29.aspx)
