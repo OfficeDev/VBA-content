@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
+ **In this article**<br/>
 [To set a property of a form or report](#sectionSection0)<br/>
 [To set a property of a control](#sectionSection1)<br/>
 [To set a property of a form or report section](#sectionSection2)

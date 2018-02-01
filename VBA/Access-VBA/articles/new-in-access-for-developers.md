@@ -13,7 +13,7 @@ Learn about the features in Access 2013 that make it easy to create, deploy, and
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
+ **In this article**<br/>
 [Introduction](#ac15_WhatsNew_Introduction)<br/>
 [New application model](#ac15_WhatsNew_NewAppModel)<br/>
 [Views](#ac15_WhatsNew_Views)<br/>
