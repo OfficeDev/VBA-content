@@ -21,7 +21,7 @@ ms.date: 06/08/2017
 [ Example](#sectionSection2)
 
 
-Specifies which records from the tables listed in the [FROM](from-clause-microsoft-access-sql.md) clause are affected by a[SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx), [UPDATE](http://msdn.microsoft.com/library/08f9c3d6-c020-ecf1-5748-43b93a76dfbb%28Office.15%29.aspx), or [DELETE](http://msdn.microsoft.com/library/64c235bc-5b1a-0a33-714a-9933ba7a81e5%28Office.15%29.aspx) statement.
+Specifies which records from the tables listed in the [FROM](from-clause-microsoft-access-sql.md) clause are affected by a [SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx), [UPDATE](http://msdn.microsoft.com/library/08f9c3d6-c020-ecf1-5748-43b93a76dfbb%28Office.15%29.aspx), or [DELETE](http://msdn.microsoft.com/library/64c235bc-5b1a-0a33-714a-9933ba7a81e5%28Office.15%29.aspx) statement.
 
 ## Syntax
 <a name="sectionSection0"> </a>

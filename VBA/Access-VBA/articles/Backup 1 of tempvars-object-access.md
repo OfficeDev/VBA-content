@@ -22,7 +22,7 @@ Use the  **[Add](http://msdn.microsoft.com/library/836e449c-35ff-4089-857a-403c9
 
 Use the  **[Remove](http://msdn.microsoft.com/library/a9ab9ff2-5bfc-d001-f5eb-9929907bc1b2%28Office.15%29.aspx)** method or the [RemoveTempVar](http://msdn.microsoft.com/library/409fd836-4a53-cefd-4264-8cee0fa8ac52%28Office.15%29.aspx) macro action to delete a **TempVar** object from the **TempVars** collection.
 
-Use the  **[RemoveAll](http://msdn.microsoft.com/library/1b278bda-9f28-8fd7-0408-3a2a4d3e1a74%28Office.15%29.aspx)** method or [RemoveAllTempVars](http://msdn.microsoft.com/library/409fd836-4a53-cefd-4264-8cee0fa8ac52%28Office.15%29.aspx) macro action to delete all **TempVar** objects from the **TempVars** collection.
+Use the  **[RemoveAll](http://msdn.microsoft.com/library/1b278bda-9f28-8fd7-0408-3a2a4d3e1a74%28Office.15%29.aspx)** method or[RemoveAllTempVars](http://msdn.microsoft.com/library/409fd836-4a53-cefd-4264-8cee0fa8ac52%28Office.15%29.aspx) macro action to delete all **TempVar** objects from the **TempVars** collection.
 
 The  **TempVars** collection can store up to 255 **TempVar** objects. If you do not remove a **TempVar** object, it will remain in memory until you close the database. It is a good practice to remove **TempVar** object variables when you are finished using them.
 

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-This example demonstrates the [Type](http://msdn.microsoft.com/library/14d99172-2145-05ae-620b-459ba097f05c%28Office.15%29.aspx) property by displaying the name of the constant that corresponds to the value of the **Type** property of all the[Field](http://msdn.microsoft.com/library/1dbd535e-48ad-a5c8-a1b2-6776c1e3e19d%28Office.15%29.aspx) objects in the ** _Employees_** table. The FieldType function is required for this procedure to run.
+This example demonstrates the [Type](http://msdn.microsoft.com/library/14d99172-2145-05ae-620b-459ba097f05c%28Office.15%29.aspx) property by displaying the name of the constant that corresponds to the value of the **Type** property of all the [Field](http://msdn.microsoft.com/library/1dbd535e-48ad-a5c8-a1b2-6776c1e3e19d%28Office.15%29.aspx) objects in the ** _Employees_** table. The FieldType function is required for this procedure to run.
 
 
 

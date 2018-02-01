@@ -42,7 +42,7 @@ You can use  **Min** and **Max** to determine the smallest and largest values in
 You can use  **Min** and **Max** in a query expression and in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
 
 
 - [Record Order](http://www.utteraccess.com/wiki/index.php/Record_Order)

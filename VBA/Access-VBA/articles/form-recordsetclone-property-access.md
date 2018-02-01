@@ -34,7 +34,7 @@ You use the  **RecordsetClone** property to navigate or operate on a form's reco
 When a new  **Recordset** object is opened, its first record is the current record. If you one of the **Find** method or one of the **Move** methods to make any other record in the **Recordset** object current, you must synchronize the current record in the **Recordset** object with the form's current record by assigning the value of the DAO **Bookmark** property to the form's **[Bookmark](form-bookmark-property-access.md)** property.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Transfer data from Access to Excel](http://www.utteraccess.com/forum/Transfer-data-Access-Ex-t1672619.html)

@@ -27,7 +27,7 @@ You can use the  **ScaleHeight** property to specify the number of units for the
 
 The default setting is the internal height of a report page in twips.
 
-You can set the  **ScaleHeight** property by using a macro or a[Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
+You can set the  **ScaleHeight** property by using a macro or a [Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
 
 You can use the  **ScaleHeight** property to create a custom coordinate scale for drawing or printing. For example, the statement `ScaleHeight = 100` defines the internal height of the section as 100 units, or one vertical unit as one one-hundredth of the height.
 

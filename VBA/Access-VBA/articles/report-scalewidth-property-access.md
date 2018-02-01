@@ -27,7 +27,7 @@ You can use the  **ScaleWidth** property to specify the number of units for the 
 
 The default setting is the internal width of a report page in twips.
 
-You can set the  **ScaleWidth** property by using a macro or a[Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
+You can set the  **ScaleWidth** property by using a macro or a [Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
 
 You can use the  **ScaleWidth** property to create a custom coordinate scale for drawing or printing. For example, the statement `ScaleWidth = 100` defines the internal width of the section as 100 units, or one horizontal unit as one one-hundredth of the width.
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 Indicates the query string used to retrieve the [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx).
-You can set the  **SQL** property at design time in the[RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) object's OBJECT tags, or at run time in scripting code.
+You can set the  **SQL** property at design time in the [RDS.DataControl](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) object's OBJECT tags, or at run time in scripting code.
 
 ## Parameters
 

@@ -50,7 +50,7 @@ Returns a [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-
     
 -  _Options_
     
-- Optional. A  **Long** value that indicates how the provider should evaluate the _CommandText_ argument. Can be a bitmask of one or more[CommandTypeEnum](http://msdn.microsoft.com/library/9ad8f155-88a0-00eb-2855-1e1a2a677437%28Office.15%29.aspx) or [ExecuteOptionEnum](http://msdn.microsoft.com/library/bd6d44a3-e471-7aa0-3e65-6775334de2ff%28Office.15%29.aspx) values.
+- Optional. A  **Long** value that indicates how the provider should evaluate the _CommandText_ argument. Can be a bitmask of one or more[CommandTypeEnum](http://msdn.microsoft.com/library/9ad8f155-88a0-00eb-2855-1e1a2a677437%28Office.15%29.aspx) or[ExecuteOptionEnum](http://msdn.microsoft.com/library/bd6d44a3-e471-7aa0-3e65-6775334de2ff%28Office.15%29.aspx) values.
     
 
  **Note**  Use the  **ExecuteOptionEnum** value **adExecuteNoRecords** to improve performance by minimizing internal processing.
@@ -61,7 +61,7 @@ Do not use the  **CommandTypeEnum** values of **adCmdFile** or **adCmdTableDirec
 ## Remarks
 <a name="sectionSection4"> </a>
 
-Using the  **Execute** method on a [Connection](http://msdn.microsoft.com/library/c16023aa-0321-2513-ee71-255d6ffba03d%28Office.15%29.aspx) object executes whatever query you pass to the method in the _CommandText_ argument on the specified connection. If the _CommandText_ argument specifies a row-returning query, any results that the execution generates are stored in a new **Recordset** object. If the command is not intended to return results (for example, an SQL UPDATE query) the provider returns **Nothing** as long as the option **adExecuteNoRecords** is specified; otherwise Execute returns a closed **Recordset**.
+Using the  **Execute** method on a[Connection](http://msdn.microsoft.com/library/c16023aa-0321-2513-ee71-255d6ffba03d%28Office.15%29.aspx) object executes whatever query you pass to the method in the _CommandText_ argument on the specified connection. If the _CommandText_ argument specifies a row-returning query, any results that the execution generates are stored in a new **Recordset** object. If the command is not intended to return results (for example, an SQL UPDATE query) the provider returns **Nothing** as long as the option **adExecuteNoRecords** is specified; otherwise Execute returns a closed **Recordset**.
 
 The returned  **Recordset** object is always a read-only, forward-only cursor. If you need a **Recordset** object with more functionality, first create a **Recordset** object with the desired property settings, then use the **Recordset** object's[Open](http://msdn.microsoft.com/library/87ef19a4-28e1-dec7-ed33-4ae500b9c460%28Office.15%29.aspx) method to execute the query and return the desired cursor type.
 

@@ -19,7 +19,7 @@ If you've implemented no error handling, then Visual Basic halts execution and d
 
 When adding error handling to a procedure, you should consider how the procedure will route execution when an error occurs. The first step in routing execution to an error handler is to enable an error handler by including some form of the  **On Error** statement within the procedure. The **On Error** statement directs execution in event of an error. If there's no **On Error** statement, Visual Basic simply halts execution and displays an error message when an error occurs.
 
-When an error occurs in a procedure with an enabled error handler, Visual Basic doesn't display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred, the ADO  **Error** object, the Visual Basic[Err Object](http://msdn.microsoft.com/library/23c9697a-9c6b-18f8-2b86-a0735f082c67%28Office.15%29.aspx) **Err** object, and the DAO **Error** object.
+When an error occurs in a procedure with an enabled error handler, Visual Basic doesn't display the normal error message. Instead it routes execution to an error handler, if one exists. When execution passes to an enabled error handler, that error handler becomes active. Within the active error handler, you can determine the type of error that occurred and address it in the manner that you choose. Access provides three objects that contain information about errors that have occurred, the ADO  **Error** object, the Visual Basic [Err Object](http://msdn.microsoft.com/library/23c9697a-9c6b-18f8-2b86-a0735f082c67%28Office.15%29.aspx) **Err** object, and the DAO **Error** object.
 
 
 ## Routing Execution When an Error Occurs
@@ -195,7 +195,7 @@ The Error event procedure takes an integer argument, DataErr. When an Error even
 
  **Note**  The  **Error** statement and **Error** function are provided for backward compatibility only. When writing new code, use the **Err** and **Error** objects, the **AccessError** function, and the Error event for getting information about an error.
 
- **Link provided by:** The[UtterAccess](http://www.utteraccess.com) community
+ **Link provided by:** The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Handling Access Errors with VBA](http://www.utteraccess.com/wiki/index.php/Error_Handling)

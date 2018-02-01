@@ -27,7 +27,7 @@ The MSDFMAP.Handler implements the  **IDataFactoryHandler** interface.
 ## IDataFactoryHandler Interface
 <a name="sectionSection0"> </a>
 
-This interface has two methods,  **GetRecordset** and **Reconnect**. Both methods require that the[CursorLocation](http://msdn.microsoft.com/library/8A048BD4-AE25-A555-1C07-14364B7E6560%28Office.15%29.aspx) property be set to **adUseClient**.
+This interface has two methods,  **GetRecordset** and **Reconnect**. Both methods require that the [CursorLocation](http://msdn.microsoft.com/library/8A048BD4-AE25-A555-1C07-14364B7E6560%28Office.15%29.aspx) property be set to **adUseClient**.
 
 Both methods take arguments that appear after the first comma in the " **Handler=** " keyword. For example, `"Handler=progid,arg1,arg2;"` will pass an argument string of `"arg1,arg2"`, and will pass an argument string of  `"arg1,arg2"`, and  `"Handler=progid"` will pass a null argument.
 
