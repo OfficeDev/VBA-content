@@ -56,7 +56,7 @@ You can use the following symbols in custom formats for any data type.
 |"ABC"|Display anything inside quotation marks as literal characters.|
 |!|Force left alignment instead of right alignment.|
 |*|Fill available space with the next character.|
-|\|Display the next character as a literal character. You can also display literal characters by placing quotation marks around them.|
+|\\ |Display the next character as a literal character. You can also display literal characters by placing quotation marks around them.|
 |[ _color_ ]|Display the formatted data in the color specified between the brackets. Available colors: Black, Blue, Green, Cyan, Red, Magenta, Yellow, White.|
 You can't mix custom formatting symbols for the Number and Currency data types with Date/Time, Yes/No, or Text and Memo formatting symbols.
 
