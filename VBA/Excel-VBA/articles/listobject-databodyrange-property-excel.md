@@ -30,7 +30,7 @@ This example selects the active data range in the list.
 
 ```vb
 Worksheets("Sheet1").Activate 
-ActiveWorksheet.ListObjects.Item(1).DataBodyRange.Select
+ActiveSheet.ListObjects.Item(1).DataBodyRange.Select
 ```
 
 
