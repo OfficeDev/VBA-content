@@ -21,7 +21,16 @@ Saves the specified document.
  _expression_ . **Save**
 
  _expression_ Required. A variable that represents a **[Document](document-object-word.md)** object.
+ 
+**Parameters:**
 
+_NoPrompt_ (Optional)
+
+True to have Microsoft Word automatically save all documents; False to have Word prompt the user to save each document that has changed since it was last saved.
+
+_OriginalFormat_ (Optional)
+
+Specifies the way the documents are saved. Can be one of the WdOriginalFormat constants.
 
 ## Remarks
 
