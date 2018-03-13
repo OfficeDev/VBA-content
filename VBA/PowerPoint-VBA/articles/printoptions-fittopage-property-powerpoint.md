@@ -52,8 +52,6 @@ With ActivePresentation
     .PrintOut
 
 End With
-
-
 ```
 
 

@@ -22,10 +22,11 @@ Returns  **True** if the specified drive exists; **False** if it does not.
 The  **DriveExists** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _drivespec_|Required. A drive letter or a path specification for the root of the drive.|
+| <strong>Part</strong> | <strong>Description</strong>                                                |
+|:----------------------|:----------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.          |
+| <em>drivespec</em>    | Required. A drive letter or a path specification for the root of the drive. |
+
  **Remarks**
 For drives with removable media, the  **DriveExists** method returns **True** even if there are no media present. Use the **IsReady** property of the **Drive** object to determine if a drive is ready.
 

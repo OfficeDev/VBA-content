@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Cellset Example (VB)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -18,10 +18,10 @@ This Visual Basic project demonstrates the basics of using ADO MD to access cube
 
 
 ```vb
- 
+
 Sub cmdCellSettoDebugWindow_Click() 
  On Error GoTo Error_cmdCellSettoDebugWindow_Click 
- 
+
  Dim cat As New ADOMD.Catalog 
  Dim cst As New ADOMD.CellSet 
  Dim strServer As String 
@@ -31,45 +31,45 @@ Sub cmdCellSettoDebugWindow_Click()
  Dim i As Integer 
  Dim j As Integer 
  Dim k As Integer 
- 
+
  Screen.MousePointer = vbHourglass 
- 
+
  '*----------------------------------------------------------------------- 
  '* Set Server to Local Host 
  '*----------------------------------------------------------------------- 
  strServer = "localhost" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Set MDX query string Source 
  '*----------------------------------------------------------------------- 
  strSource = "SELECT {[Measures].members} ON COLUMNS," &; _ 
  "NON EMPTY [Store].[Store City].members ON ROWS FROM Sales" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Set Active Connection 
  '*----------------------------------------------------------------------- 
  cat.ActiveConnection = "Data Source=" &; strServer &; ";Provider=msolap;" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Set Cell Set source to MDX query string 
  '*----------------------------------------------------------------------- 
  cst.Source = strSource 
- 
+
  '*----------------------------------------------------------------------- 
  '* Set Cell Sets active connection to current connection 
  '*----------------------------------------------------------------------- 
  Set cst.ActiveConnection = cat.ActiveConnection 
- 
+
  '*----------------------------------------------------------------------- 
  '* Open Cell Set 
  '*----------------------------------------------------------------------- 
  cst.Open 
- 
+
  '*----------------------------------------------------------------------- 
  '* Allow space for Row Header Text 
  '*----------------------------------------------------------------------- 
  strColumnHeader = vbTab &; vbTab &; vbTab &; vbTab &; vbTab &; vbTab 
- 
+
  '*----------------------------------------------------------------------- 
  '* Loop through Column Headers 
  '*----------------------------------------------------------------------- 
@@ -79,7 +79,7 @@ Sub cmdCellSettoDebugWindow_Click()
  vbTab &; vbTab &; vbTab 
  Next 
  Debug.Print vbTab &; strColumnHeader &; vbCrLf 
- 
+
  '*----------------------------------------------------------------------- 
  '* Loop through Row Headers and Provide data for each row 
  '*----------------------------------------------------------------------- 
@@ -95,11 +95,11 @@ Sub cmdCellSettoDebugWindow_Click()
  Debug.Print strRowText &; vbCrLf 
  strRowText = "" 
  Next 
- 
+
  Screen.MousePointer = vbDefault 
- 
+
  Exit Sub 
- 
+
 Error_cmdCellSettoDebugWindow_Click: 
  Beep 
  Screen.MousePointer = vbDefault 
@@ -109,7 +109,6 @@ Error_cmdCellSettoDebugWindow_Click:
  Err.Description, vbCritical, " Error!" 
  Exit Sub 
 End Sub 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

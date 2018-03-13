@@ -36,11 +36,12 @@ The value of the  **RasterExportColorReduction** property can be one of the foll
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRasterAdaptive**|0|Adaptive color reduction; the default for GIF files|
-| **visRasterDiffusion**|1|Diffusion color reduction|
-| **visRasterHalftone**|2|Halftone color reduction|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>                        |
+|:------------------------------------|:-----------------------|:----------------------------------------------------|
+| <strong>visRasterAdaptive</strong>  | 0                      | Adaptive color reduction; the default for GIF files |
+| <strong>visRasterDiffusion</strong> | 1                      | Diffusion color reduction                           |
+| <strong>visRasterHalftone</strong>  | 2                      | Halftone color reduction                            |
+
 For BMP, PNG, and TIFF files, the default is no color reduction. 
 
 For any given session of Microsoft Visio, when the  **RasterExportColorReduction** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.

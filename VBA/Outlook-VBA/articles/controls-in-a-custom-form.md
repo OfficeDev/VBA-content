@@ -22,33 +22,33 @@ The following Forms 2.0 controls exist in the control toolbox by default:
 
 
 - Microsoft Forms 2.0 CheckBox control
-    
+
 -  Microsoft Forms 2.0 ComboBox control
-    
+
 - Microsoft Forms 2.0 CommandButton control
-    
+
 - Microsoft Forms 2.0 Frame control
-    
+
 - Microsoft Forms 2.0 Image control
-    
+
 - Microsoft Forms 2.0 Label control
-    
+
 - Microsoft Forms 2.0 ListBox control
-    
+
 - Microsoft Forms 2.0 MultiPage control
-    
+
 - Microsoft Forms 2.0 OptionButton control
-    
+
 - Microsoft Forms 2.0 ScrollBar control
-    
+
 - Microsoft Forms 2.0 SpinButton control
-    
+
 - Microsoft Forms 2.0 TabStrip control
-    
+
 - Microsoft Forms 2.0 TextBox control
-    
+
 - Microsoft Forms 2.0 ToggleButton control
-    
+
 
 ## Microsoft Outlook Controls
 
@@ -88,22 +88,23 @@ On custom form pages, Forms 2.0 controls are always displayed with a classic loo
 
 
 
-| **Forms 2.0 Control**| **Outlook Control**|
-|:-----|:-----|
-|Microsoft Forms 2.0 CheckBox control|Microsoft Outlook Check Box Control|
-|Microsoft Forms 2.0 ComboBox control|Microsoft Outlook Combo Box Control|
-|Microsoft Forms 2.0 CommandButton control|Microsoft Outlook Command Button Control|
-|Microsoft Forms 2.0 Frame control|Microsoft Outlook Frame Header Control|
-|Microsoft Forms 2.0 Image control| _(No parity)_|
-|Microsoft Forms 2.0 Label control|Microsoft Outlook Label Control|
-|Microsoft Forms 2.0 ListBox control|Microsoft Outlook List Box Control|
-|Microsoft Forms 2.0 MultiPage control| _(No parity)_|
-|Microsoft Forms 2.0 OptionButton control|Microsoft Outlook Option Button Control|
-|Microsoft Forms 2.0 ScrollBar control| _(No parity)_|
-|Microsoft Forms 2.0 SpinButton control| _(No parity)_|
-|Microsoft Forms 2.0 TabStrip control| _(No parity)_|
-|Microsoft Forms 2.0 TextBox control|Microsoft Outlook Text Box Control|
-|Microsoft Forms 2.0 ToggleButton control| _(No parity)_|
+| <strong>Forms 2.0 Control</strong>        | <strong>Outlook Control</strong>         |
+|:------------------------------------------|:-----------------------------------------|
+| Microsoft Forms 2.0 CheckBox control      | Microsoft Outlook Check Box Control      |
+| Microsoft Forms 2.0 ComboBox control      | Microsoft Outlook Combo Box Control      |
+| Microsoft Forms 2.0 CommandButton control | Microsoft Outlook Command Button Control |
+| Microsoft Forms 2.0 Frame control         | Microsoft Outlook Frame Header Control   |
+| Microsoft Forms 2.0 Image control         | <em>(No parity)</em>                     |
+| Microsoft Forms 2.0 Label control         | Microsoft Outlook Label Control          |
+| Microsoft Forms 2.0 ListBox control       | Microsoft Outlook List Box Control       |
+| Microsoft Forms 2.0 MultiPage control     | <em>(No parity)</em>                     |
+| Microsoft Forms 2.0 OptionButton control  | Microsoft Outlook Option Button Control  |
+| Microsoft Forms 2.0 ScrollBar control     | <em>(No parity)</em>                     |
+| Microsoft Forms 2.0 SpinButton control    | <em>(No parity)</em>                     |
+| Microsoft Forms 2.0 TabStrip control      | <em>(No parity)</em>                     |
+| Microsoft Forms 2.0 TextBox control       | Microsoft Outlook Text Box Control       |
+| Microsoft Forms 2.0 ToggleButton control  | <em>(No parity)</em>                     |
+
 Because Outlook controls are installed on computers running Office Outlook 2007 or later, a form that contains these controls will not be displayed properly in any earlier version of Outlook.
 
 

@@ -22,11 +22,12 @@ Sets a  _key_ in a **Dictionary** object.
 The  **Key** property has the following parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **Dictionary** object.|
-| _key_|Required.  _Key_ value being changed.|
-| _newkey_|Required. New value that replaces the specified  _key_.|
+| <strong>Part</strong> | <strong>Description</strong>                                        |
+|:----------------------|:--------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>Dictionary</strong> object. |
+| <em>key</em>          | Required.  <em>Key</em> value being changed.                        |
+| <em>newkey</em>       | Required. New value that replaces the specified  <em>key</em>.      |
+
  **Remarks**
 If  _key_ is not found when changing a _key_, a[run-time error](vbe-glossary.md) will occur.
 

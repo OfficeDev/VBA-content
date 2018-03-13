@@ -21,18 +21,20 @@ Specifies the position of a control relative to its caption.
 The  **Alignment** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmAlignment_|Optional. Caption position.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+| <em>fmAlignment</em>  | Optional. Caption position.  |
+
  **Settings**
 The settings for  _fmAlignment_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmAlignmentLeft_|0|Places the caption to the left of the control.|
-| _fmAlignmentRight_|1|Places the caption to the right of the control (default).|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong>                              |
+|:--------------------------|:-----------------------|:----------------------------------------------------------|
+| <em>fmAlignmentLeft</em>  | 0                      | Places the caption to the left of the control.            |
+| <em>fmAlignmentRight</em> | 1                      | Places the caption to the right of the control (default). |
+
  **Remarks**
 The caption text for a control is left-aligned.
 

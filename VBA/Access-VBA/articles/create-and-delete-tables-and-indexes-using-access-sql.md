@@ -20,16 +20,15 @@ CREATE TABLE tblCustomers
     [First Name] TEXT(50), 
     Phone TEXT(10), 
     Email TEXT(50)) 
-
 ```
 
 Be aware of the following issues when creating and deleting tables:
 
 
 - If a field name includes a space or some other nonalphanumeric character, you must enclose that field name within square brackets ([ ]). 
-    
+
 - If you do not declare a length for text fields, they will default to 255 characters. For consistency and code readability, you should always define your field lengths. 
-    
+
 You can declare a field to be  **NOT NULL**, which means that null values cannot be inserted into that particular field; a value is always required. A null value should not be confused with an empty string or a value of 0; it is simply the database representation of an unknown value.
 
 
@@ -42,7 +41,6 @@ CREATE TABLE tblCustomers
     [First Name] TEXT(50) NOT NULL, 
     Phone TEXT(10), 
     Email TEXT(50)) 
-
 ```
 
 To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)** statement.
@@ -52,7 +50,6 @@ To remove a table from the database, use the  **[DROP TABLE](http://msdn.microso
 
 ```sql
 DROP TABLE tblCustomers 
-
 ```
 
 
@@ -68,7 +65,6 @@ To build an index on a table, you must name the index, name the table to build t
 ```sql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
-
 ```
 
 Indexed fields can be sorted in one of two ways: ascending ( **ASC** ) or descending ( **DESC** ). The default order is ascending, and it does not have to be declared. If you use ascending order, the data will be sorted from 1 to 100. If you specify descending order, the data will be sorted from 100 to 1. You should declare the sort order with each field in the index.
@@ -79,7 +75,6 @@ Indexed fields can be sorted in one of two ways: ascending ( **ASC** ) or descen
 ```sql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID DESC) 
-
 ```
 
 There are four main options that you can use with an index:  **PRIMARY**, **DISALLOW NULL**, **IGNORE NULL**, and **UNIQUE**. The **PRIMARY** option designates the index as the primary key for the table. You can have only one primary key index per table, although the primary key index can be declared with more than one field. Use the WITH keyword to declare the index options.
@@ -91,7 +86,6 @@ There are four main options that you can use with an index:  **PRIMARY**, **DISA
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
     WITH PRIMARY 
-
 ```
 
 To create a primary key index on more than one field, include all of the field names in the field list.
@@ -103,7 +97,6 @@ To create a primary key index on more than one field, include all of the field n
 CREATE INDEX idxCustomerName  
     ON tblCustomers ([Last Name], [First Name]) 
     WITH PRIMARY 
-
 ```
 
 The  **DISALLOW NULL** option prevents insertion of null data in the field. (This is similar to the **NOT NULL** declaration used in the **CREATE TABLE** statement.)
@@ -115,7 +108,6 @@ The  **DISALLOW NULL** option prevents insertion of null data in the field. (Thi
 CREATE INDEX idxCustomerEmail  
     ON tblCustomers (Email) 
     WITH DISALLOW NULL 
-
 ```
 
 The  **IGNORE NULL** option causes null data in the table to be ignored for the index. That means that any record that has a null value in the declared field will not be used (or counted) in the index.
@@ -127,7 +119,6 @@ The  **IGNORE NULL** option causes null data in the table to be ignored for the 
 CREATE INDEX idxCustomerLastName  
     ON tblCustomers ([Last Name]) 
     WITH IGNORE NULL 
-
 ```
 
 In addition to the  **PRIMARY**, **DISALLOW NULL**, and **IGNORE NULL** options, you can also declare the index as **UNIQUE**, which means that only unique, non-repeating values can be inserted in the indexed field.
@@ -138,7 +129,6 @@ In addition to the  **PRIMARY**, **DISALLOW NULL**, and **IGNORE NULL** options,
 ```sql
 CREATE UNIQUE INDEX idxCustomerPhone  
     ON tblCustomers (Phone) 
-
 ```
 
 To remove an index from a table, use the  **DROP INDEX** statement.
@@ -149,7 +139,6 @@ To remove an index from a table, use the  **DROP INDEX** statement.
 ```sql
 DROP INDEX idxName 
     ON tblCustomers 
-
 ```
 
 
@@ -165,16 +154,15 @@ CREATE TABLE tblCustomers
     [First Name] TEXT(50), 
     Phone TEXT(10), 
     Email TEXT(50)) 
-
 ```
 
 Be aware of the following issues when creating and deleting tables:
 
 
 - If a field name includes a space or some other nonalphanumeric character, you must enclose that field name within square brackets ([ ]). 
-    
+
 - If you do not declare a length for text fields, they will default to 255 characters. For consistency and code readability, you should always define your field lengths. 
-    
+
 You can declare a field to be  **NOT NULL**, which means that null values cannot be inserted into that particular field; a value is always required. A null value should not be confused with an empty string or a value of 0; it is simply the database representation of an unknown value.
 
 
@@ -187,7 +175,6 @@ CREATE TABLE tblCustomers
     [First Name] TEXT(50) NOT NULL, 
     Phone TEXT(10), 
     Email TEXT(50)) 
-
 ```
 
 To remove a table from the database, use the  **[DROP TABLE](http://msdn.microsoft.com/library/a8c79c35-22da-2e6d-88b5-620eb481bb61%28Office.15%29.aspx)** statement.
@@ -197,7 +184,6 @@ To remove a table from the database, use the  **[DROP TABLE](http://msdn.microso
 
 ```sql
 DROP TABLE tblCustomers 
-
 ```
 
 
@@ -213,7 +199,6 @@ To build an index on a table, you must name the index, name the table to build t
 ```sql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
-
 ```
 
 Indexed fields can be sorted in one of two ways: ascending ( **ASC** ) or descending ( **DESC** ). The default order is ascending, and it does not have to be declared. If you use ascending order, the data will be sorted from 1 to 100. If you specify descending order, the data will be sorted from 100 to 1. You should declare the sort order with each field in the index.
@@ -224,7 +209,6 @@ Indexed fields can be sorted in one of two ways: ascending ( **ASC** ) or descen
 ```sql
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID DESC) 
-
 ```
 
 There are four main options that you can use with an index:  **PRIMARY**, **DISALLOW NULL**, **IGNORE NULL**, and **UNIQUE**. The **PRIMARY** option designates the index as the primary key for the table. You can have only one primary key index per table, although the primary key index can be declared with more than one field. Use the WITH keyword to declare the index options.
@@ -236,7 +220,6 @@ There are four main options that you can use with an index:  **PRIMARY**, **DISA
 CREATE INDEX idxCustomerID  
     ON tblCustomers (CustomerID) 
     WITH PRIMARY 
-
 ```
 
 To create a primary key index on more than one field, include all of the field names in the field list.
@@ -248,7 +231,6 @@ To create a primary key index on more than one field, include all of the field n
 CREATE INDEX idxCustomerName  
     ON tblCustomers ([Last Name], [First Name]) 
     WITH PRIMARY 
-
 ```
 
 The  **DISALLOW NULL** option prevents insertion of null data in the field. (This is similar to the **NOT NULL** declaration used in the **CREATE TABLE** statement.)
@@ -260,7 +242,6 @@ The  **DISALLOW NULL** option prevents insertion of null data in the field. (Thi
 CREATE INDEX idxCustomerEmail  
     ON tblCustomers (Email) 
     WITH DISALLOW NULL 
-
 ```
 
 The  **IGNORE NULL** option causes null data in the table to be ignored for the index. That means that any record that has a null value in the declared field will not be used (or counted) in the index.
@@ -272,7 +253,6 @@ The  **IGNORE NULL** option causes null data in the table to be ignored for the 
 CREATE INDEX idxCustomerLastName  
     ON tblCustomers ([Last Name]) 
     WITH IGNORE NULL 
-
 ```
 
 In addition to the  **PRIMARY**, **DISALLOW NULL**, and **IGNORE NULL** options, you can also declare the index as **UNIQUE**, which means that only unique, non-repeating values can be inserted in the indexed field.
@@ -283,7 +263,6 @@ In addition to the  **PRIMARY**, **DISALLOW NULL**, and **IGNORE NULL** options,
 ```sql
 CREATE UNIQUE INDEX idxCustomerPhone  
     ON tblCustomers (Phone) 
-
 ```
 
 To remove an index from a table, use the  **DROP INDEX** statement.
@@ -294,7 +273,6 @@ To remove an index from a table, use the  **DROP INDEX** statement.
 ```sql
 DROP INDEX idxName 
     ON tblCustomers 
-
 ```
 
 

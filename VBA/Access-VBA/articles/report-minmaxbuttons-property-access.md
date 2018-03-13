@@ -29,12 +29,13 @@ The  **MinMaxButtons** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|None|0|The  **Maximize** and **Minimize** buttons aren't visible.|
-|Min Enabled|1|Only the  **Minimize** button is visible.|
-|Max Enabled|2|Only the  **Maximize** button is visible.|
-|Both Enabled|3|(Default) Both the  **Minimize** and **Maximize** buttons are visible.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                     |
+|:-------------------------|:------------------------------|:-------------------------------------------------------------------------------------------------|
+| None                     | 0                             | The  <strong>Maximize</strong> and <strong>Minimize</strong> buttons aren't visible.             |
+| Min Enabled              | 1                             | Only the  <strong>Minimize</strong> button is visible.                                           |
+| Max Enabled              | 2                             | Only the  <strong>Maximize</strong> button is visible.                                           |
+| Both Enabled             | 3                             | (Default) Both the  <strong>Minimize</strong> and <strong>Maximize</strong> buttons are visible. |
+
 You can set the  **MinMaxButtons** property only in form Design view.
 
 

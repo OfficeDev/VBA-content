@@ -20,10 +20,11 @@ Returns a [Boolean](vbe-glossary.md) value that determines whether the **What's 
 The settings for the  **WhatsThisButton** property are:
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|Turns on display of the  **What's This Help** button.|
-|**False**|(Default) Turns off display of the  **What's This Help** button.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                  |
+|:-------------------------|:------------------------------------------------------------------------------|
+| <strong>True</strong>    | Turns on display of the  <strong>What's This Help</strong> button.            |
+| <strong>False</strong>   | (Default) Turns off display of the  <strong>What's This Help</strong> button. |
+
  **Remarks**
 The  **WhatsThisHelp** property must be **True** for the **WhatsThisButton** property to be **True**.
 

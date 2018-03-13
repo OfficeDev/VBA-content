@@ -35,10 +35,13 @@ The value of the  **TextUnitEffect** property can be one of these **MsoAnimTextU
 
 ||
 |:-----|
-|**msoAnimTextUnitEffectByCharacter**|
-|**msoAnimTextUnitEffectByParagraph**|
-|**msoAnimTextUnitEffectByWord**|
-|**msoAnimTextUnitEffectMixed**|
+|<strong>msoAnimTextUnitEffectByCharacter</strong>|
+|
+<strong>msoAnimTextUnitEffectByParagraph</strong>|
+|
+<strong>msoAnimTextUnitEffectByWord</strong>|
+|
+<strong>msoAnimTextUnitEffectMixed</strong>|
 
 ## See also
 

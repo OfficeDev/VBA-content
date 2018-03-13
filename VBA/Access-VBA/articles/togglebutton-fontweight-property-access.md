@@ -29,17 +29,18 @@ The  **FontWeight** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|
-|:-----|:-----|
-|Thin|100|
-|Extra Light|200|
-|Light|300|
-|Normal|400|
-|Medium|500|
-|Semi-bold|600|
-|Bold|700|
-|Extra Bold|800|
-|Heavy|900|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> |
+|:-------------------------|:------------------------------|
+| Thin                     | 100                           |
+| Extra Light              | 200                           |
+| Light                    | 300                           |
+| Normal                   | 400                           |
+| Medium                   | 500                           |
+| Semi-bold                | 600                           |
+| Bold                     | 700                           |
+| Extra Bold               | 800                           |
+| Heavy                    | 900                           |
+
 You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 A font's appearance on screen and in print may differ, depending on your computer and printer. For example, a  **FontWeight** property setting of Thin may look identical to Normal on screen but appear lighter when printed.

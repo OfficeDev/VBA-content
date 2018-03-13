@@ -33,8 +33,6 @@ TrimString = RTrim(MyString)    ' TrimString = "  <-Trim->".
 TrimString = LTrim(RTrim(MyString))    ' TrimString = "<-Trim->".
 ' Using the Trim function alone achieves the same result.
 TrimString = Trim(MyString)    ' TrimString = "<-Trim->".
-
-
 ```
 
 

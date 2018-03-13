@@ -42,14 +42,15 @@ For the  _VisRemoveHiddenInfoItems_ parameter, pass a combination of one or more
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRHIPersonalInfo**|1|Removes personal information.|
-| **visRHIDataRecordsets**|16|Removes data recordsets.|
-| **visRHIPreview**|2|Removes document preview thumbnail images.|
-| **visRHIMasters**|4|Removes unused masters.|
-| **visRHIStyles**|8|Removes unused styles, themes, and other display formats.|
-| **visRHIValidationRules**|32|Removes data rows not linked to shapes in the drawing.|
+| <strong>Constant</strong>              | <strong>Value</strong> | <strong>Description</strong>                              |
+|:---------------------------------------|:-----------------------|:----------------------------------------------------------|
+| <strong>visRHIPersonalInfo</strong>    | 1                      | Removes personal information.                             |
+| <strong>visRHIDataRecordsets</strong>  | 16                     | Removes data recordsets.                                  |
+| <strong>visRHIPreview</strong>         | 2                      | Removes document preview thumbnail images.                |
+| <strong>visRHIMasters</strong>         | 4                      | Removes unused masters.                                   |
+| <strong>visRHIStyles</strong>          | 8                      | Removes unused styles, themes, and other display formats. |
+| <strong>visRHIValidationRules</strong> | 32                     | Removes data rows not linked to shapes in the drawing.    |
+
 Calling the  **RemoveHiddenInformation** method is the equivalent of the selecting the options available in the **Remove Hidden Information** dialog box (click the **File** tab, click **Info**, and then click  **Remove Personal Information**).
 
 
@@ -60,9 +61,9 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 ```vb
 Public Sub RemoveHiddenInformation_Example() 
- 
+
     ActiveDocument.RemoveHiddenInformation visRHIPersonalInfo + visRHIPreview 
- 
+
 End Sub
 ```
 

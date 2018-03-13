@@ -49,16 +49,16 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
     If Target.Row = 1 Then Exit Sub
     If Target.Row > ActiveSheet.UsedRange.Rows.Count Then Exit Sub
     If Target.Column > ActiveSheet.UsedRange.Columns.Count Then Exit Sub
-    
+
     'Override the default double-click behavior with this function.
     Cancel = True
-    
+
     'Declare your variables.
     Dim wks As Worksheet, xRow As Long
-    
+
     'If an error occurs, use inline error handling.
     On Error Resume Next
-    
+
     'Set the target worksheet as the worksheet whose name is listed in the first cell of the current row.
     Set wks = Worksheets(CStr(Cells(Target.Row, 1).Value))
     'If there is an error, exit the macro.
@@ -85,23 +85,23 @@ This example deletes the empty rows from a selected range.
 Sub Delete_Empty_Rows()
     'The range from which to delete the rows.
     Dim rnSelection As Range
-    
+
     'Row and count variables used in the deletion process.
     Dim lnLastRow As Long
     Dim lnRowCount As Long
     Dim lnDeletedRows As Long
-    
+
     'Initialize the number of deleted rows.
     lnDeletedRows = 0
-    
+
     'Confirm that a range is selected, and that the range is contiguous.
     If TypeName(Selection) = "Range" Then
         If Selection.Areas.Count = 1 Then
-            
+
             'Initialize the range to what the user has selected, and initialize the count for the upcoming FOR loop.
             Set rnSelection = Application.Selection
             lnLastRow = rnSelection.Rows.Count
-        
+
             'Start at the bottom row and work up: if the row is empty then
             'delete the row and increment the deleted row count.
             For lnRowCount = lnLastRow To 1 Step -1
@@ -110,7 +110,7 @@ Sub Delete_Empty_Rows()
                     lnDeletedRows = lnDeletedRows + 1
                 End If
             Next lnRowCount
-        
+
             rnSelection.Resize(lnLastRow - lnDeletedRows).Select
          Else
             MsgBox "Please select only one area.", vbInformation
@@ -118,7 +118,7 @@ Sub Delete_Empty_Rows()
     Else
         MsgBox "Please select a range.", vbInformation
     End If
-    
+
     'Turn screen updating back on.
     Application.ScreenUpdating = True
 
@@ -129,6 +129,7 @@ End Sub
 ## About the Contributors
 <a name="AboutContributor"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
@@ -136,6 +137,7 @@ Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Concepts

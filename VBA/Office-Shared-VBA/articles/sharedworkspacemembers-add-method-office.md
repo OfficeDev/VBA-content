@@ -53,7 +53,6 @@ The following example adds a new member to the members collection of the shared 
         vbInformation + vbOKOnly, _ 
         "New Member in Shared Workspace)" 
     Set swsMember = Nothing 
-
 ```
 
 

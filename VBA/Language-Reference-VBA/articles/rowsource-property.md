@@ -21,10 +21,11 @@ Specifies the source providing a list for a  **ComboBox** or **ListBox**.
 The  **RowSource** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. The source of the list for the  **ComboBox** or **ListBox**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                     |
+|:----------------------|:-------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                        |
+| <em>String</em>       | Optional. The source of the list for the  <strong>ComboBox</strong> or <strong>ListBox</strong>. |
+
  **Remarks**
 The  **RowSource** property accepts worksheet ranges from Microsoft Excel.
 

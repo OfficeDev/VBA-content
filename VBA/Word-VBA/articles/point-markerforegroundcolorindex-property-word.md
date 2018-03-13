@@ -39,13 +39,12 @@ With ActiveDocument.InlineShapes(1)
  With .Chart.SeriesCollection(1).Points(2) 
  ' Set the background color to green. 
  .MarkerBackgroundColorIndex = 4 
- 
+
  ' Set the foreground color to red. 
  .MarkerForegroundColorIndex = 3 
  End With 
  End If 
 End With 
-
 ```
 
 

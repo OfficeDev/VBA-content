@@ -29,9 +29,11 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 
 
 
-| **XlSpeakDirection** can be one of these **XlSpeakDirection** constants.|
-| **xlSpeakByColumns**|
-| **xlSpeakByRows**|
+| <strong>XlSpeakDirection</strong> can be one of these <strong>XlSpeakDirection</strong> constants.|
+| 
+<strong>xlSpeakByColumns</strong>|
+| 
+<strong>xlSpeakByRows</strong>|
 
 ## Example
 
@@ -40,14 +42,14 @@ In this example, Microsoft Excel determines the speech direction and notifies th
 
 ```vb
 Sub CheckSpeechDirection() 
- 
+
  ' Notify user of speech direction. 
  If Application.Speech.Direction = xlSpeakByColumns Then 
  MsgBox "The speech direction is set to speak by columns." 
  Else 
  MsgBox "The speech direction is set to speak by rows." 
  End If 
- 
+
 End Sub
 ```
 

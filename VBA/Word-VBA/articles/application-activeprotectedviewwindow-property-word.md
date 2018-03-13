@@ -30,7 +30,6 @@ The following code example displays the caption text for the active protected vi
 
 ```vb
 MsgBox ActiveProtectedViewWindow.Caption 
-
 ```
 
 

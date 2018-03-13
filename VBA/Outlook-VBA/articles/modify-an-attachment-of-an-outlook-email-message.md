@@ -32,7 +32,7 @@ The following code shows how to programmatically modify an Outlook email attachm
 
 ```C#
 using Outlook = Microsoft.Office.Interop.Outlook;
- 
+
 namespace ModifyAttachmentAddIn
 {
     public partial class ThisAddIn
@@ -41,16 +41,16 @@ namespace ModifyAttachmentAddIn
         {
             Application.ItemSend += new Outlook.ApplicationEvents_11_ItemSendEventHandler(Application_ItemSend);
         }
- 
+
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)
         {
         }
- 
- 
+
+
         void Application_ItemSend(object Item, ref bool Cancel)
         {
             Outlook.MailItem mailItem = Item as Outlook.MailItem;
- 
+
             if (mailItem != null)
             {
                 var attachments = mailItem.Attachments;
@@ -62,39 +62,39 @@ namespace ModifyAttachmentAddIn
                 }
             }
         }
- 
+
         private void ConvertAttachmentToUpperCase(Outlook.Attachment attachment, Outlook.MailItem mailItem)
         {
             const string PR_ATTACH_DATA_BIN =
                 "http://schemas.microsoft.com/mapi/proptag/0x37010102";
- 
+
             // Confirm that the attachment is a text file.
             if (System.IO.Path.GetExtension(attachment.FileName) == ".txt")
             {
                 // There are other heuristics you could use to determine whether the 
                 // the attachment is a text file. For now, keep it simple: Only
                 // run this code for *.txt.
- 
+
                 // Retrieve the attachment as an array of bytes.
                 var attachmentData =
                     attachment.PropertyAccessor.GetProperty(
                     PR_ATTACH_DATA_BIN);
- 
+
                 // Convert the byte array into a Unicode string.
                 string data = System.Text.Encoding.Unicode.GetString(attachmentData);
                 // Convert to upper case.
                 data = data.ToUpper();
                 // Convert the data back to an array of bytes.
                 attachmentData = System.Text.Encoding.Unicode.GetBytes(data);
- 
+
                 //Set PR_ATTACH_DATA_BIN to attachmentData.
                 attachment.PropertyAccessor.SetProperty(PR_ATTACH_DATA_BIN,
                     attachmentData);
             }
         }
- 
+
         #region VSTO generated code
- 
+
         /// <summary>
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
@@ -104,7 +104,7 @@ namespace ModifyAttachmentAddIn
             this.Startup += new System.EventHandler(ThisAddIn_Startup);
             this.Shutdown += new System.EventHandler(ThisAddIn_Shutdown);
         }
- 
+
         #endregion
     }
 }
@@ -115,21 +115,21 @@ namespace ModifyAttachmentAddIn
 
 ```VB.net
 Public Class ThisAddIn
- 
- 
+
+
     Private Sub ThisAddIn_Startup() Handles Me.Startup
- 
+
     End Sub
- 
+
     Private Sub ThisAddIn_Shutdown() Handles Me.Shutdown
- 
+
     End Sub
- 
+
     Private Sub Application_ItemSend(ByVal Item As Object, _
         ByRef Cancel As Boolean) Handles Application.ItemSend
- 
+
         Dim mailItem As Outlook.MailItem = TryCast(Item, Outlook.MailItem)
- 
+
         If mailItem IsNot Nothing Then
             Dim attachments = mailItem.Attachments
             For Each attachment As Outlook.Attachment In attachments
@@ -138,33 +138,33 @@ Public Class ThisAddIn
             Next attachment
         End If
     End Sub
- 
+
     Private Sub ConvertAttachmentToUpperCase(ByVal attachment As Outlook.Attachment, _
         ByVal mailItem As Outlook.MailItem)
         Const PR_ATTACH_DATA_BIN As String = "http://schemas.microsoft.com/mapi/proptag/0x37010102"
- 
+
         ' Confirm that the attachment is a text file.
         If System.IO.Path.GetExtension(attachment.FileName) = ".txt" Then
- 
+
             ' There are other heuristics you could use to determine whether the 
             ' the attachment is a text file. For now, keep it simple: Only
             ' run this code for *.txt.
- 
+
             ' Retrieve the attachment as an array of bytes.
             Dim attachmentData = attachment.PropertyAccessor.GetProperty(PR_ATTACH_DATA_BIN)
- 
+
             ' Convert the byte array into a Unicode string.
             Dim data As String = System.Text.Encoding.Unicode.GetString(attachmentData)
             ' Convert to upper case.
             data = data.ToUpper()
             ' Convert the data back to an array of bytes.
             attachmentData = System.Text.Encoding.Unicode.GetBytes(data)
- 
+
             'Set PR_ATTACH_DATA_BIN to attachmentData.
             attachment.PropertyAccessor.SetProperty(PR_ATTACH_DATA_BIN, attachmentData)
          End If
     End Sub
- 
+
 End Class
 ```
 
@@ -176,6 +176,9 @@ End Class
 
 
  [Attach a File to a Mail Item](attach-a-file-to-a-mail-item.md)<br>
- [Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)<br>
- [Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)<br>
+ 
+[Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)<br>
+ 
+[Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)<br>
+
 

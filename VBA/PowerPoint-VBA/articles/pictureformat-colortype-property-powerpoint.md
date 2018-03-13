@@ -35,11 +35,15 @@ The value of the  **ColorType** property can be one of these **MsoPictureColorTy
 
 ||
 |:-----|
-|**msoPictureAutomatic**|
-|**msoPictureBlackAndWhite**|
-|**msoPictureGrayscale**|
-|**msoPictureMixed**|
-|**msoPictureWatermark**|
+|<strong>msoPictureAutomatic</strong>|
+|
+<strong>msoPictureBlackAndWhite</strong>|
+|
+<strong>msoPictureGrayscale</strong>|
+|
+<strong>msoPictureMixed</strong>|
+|
+<strong>msoPictureWatermark</strong>|
 
 ## Example
 

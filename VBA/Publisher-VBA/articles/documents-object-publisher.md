@@ -54,7 +54,6 @@ Use the  **Item** (index) property, where index is the index number or document 
 If Documents.Count >= 1 Then 
  MsgBox Documents.Item(1).Name 
 End If 
-
 ```
 
 The following example checks the name of each document in the  **Documents** collection. If the name of a document is "sales.doc", an object variable objSalesDoc is set to that document in the **Documents** collection.

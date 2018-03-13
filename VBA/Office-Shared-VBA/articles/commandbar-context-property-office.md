@@ -48,7 +48,6 @@ With myBar
     .Visible = True  
 End With 
 MsgBox (myBar.Context) 
-
 ```
 
 

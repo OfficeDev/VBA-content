@@ -46,10 +46,11 @@ The RelativeTo parameter can be one of the  **MsoTriState** constants declared i
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**| Distribute the shapes within the horizontal or vertical space that the range of shapes originally occupies.|
-| **msoTrue**|Distribute the shapes evenly over the entire horizontal or vertical space on the page.|
+| <strong>Constant</strong> | <strong>Description</strong>                                                                                |
+|:--------------------------|:------------------------------------------------------------------------------------------------------------|
+| <strong>msoFalse</strong> | Distribute the shapes within the horizontal or vertical space that the range of shapes originally occupies. |
+| <strong>msoTrue</strong>  | Distribute the shapes evenly over the entire horizontal or vertical space on the page.                      |
+
 When RelativeTo is  **msoTrue**, shapes are distributed so that the distance between the two outer shapes and the edges of the page is the same as the distance between one shape and the next. If the shapes must overlap, the two outer shapes are moved to the edges of the page.
 
 When RelativeTo is  **msoFalse**, the two outer shapes are not moved; only the positions of the inner shapes are adjusted.
@@ -73,16 +74,16 @@ Dim arrAutoShapes() As String
 Dim shpLoop As Shape 
 ' A placeholder variable for the range containing AutoShapes. 
 Dim shpRange As ShapeRange 
- 
+
 With ActiveDocument.Pages(1).Shapes 
  ' Count all the shapes on the page. 
  intShapes = .Count 
- 
+
  ' Proceed only if there's at least one shape. 
  If intShapes > 1 Then 
  intAutoShapes = 0 
  ReDim arrAutoShapes(1 To intShapes) 
- 
+
  ' Loop through the shapes on the page and add the names 
  ' of any AutoShapes to an array. 
  For Each shpLoop In ActiveDocument.Pages(1).Shapes 
@@ -91,14 +92,14 @@ With ActiveDocument.Pages(1).Shapes
  arrAutoShapes(intAutoShapes) = shpLoop.Name 
  End If 
  Next shpLoop 
- 
+
  ' Proceed only if there's at least one AutoShape. 
  If intAutoShapes > 1 Then 
  ReDim Preserve arrAutoShapes(1 To intAutoShapes) 
- 
+
  ' Create a shape range containing all the AutoShapes. 
  Set shpRange = .Range(Index:=arrAutoShapes) 
- 
+
  ' Distribute the AutoShapes horizontally 
  ' in the space they already occupy. 
  shpRange.Distribute _ 
@@ -106,7 +107,6 @@ With ActiveDocument.Pages(1).Shapes
  End If 
  End If 
 End With 
-
 ```
 
 

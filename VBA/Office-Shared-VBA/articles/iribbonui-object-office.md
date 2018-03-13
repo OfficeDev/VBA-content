@@ -33,11 +33,11 @@ In the following example, starting the host application triggers the  **onLoad**
 
 ```
 Dim MyRibbon As IRibbonUI 
- 
+
 Sub MyAddInInitialize(Ribbon As IRibbonUI) 
  Set MyRibbon = Ribbon 
 End Sub 
- 
+
 Sub myFunction() 
  MyRibbon.Invalidate() ' Invalidates the caches of all of this add-in's controls 
 End Sub

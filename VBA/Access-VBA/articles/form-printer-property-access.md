@@ -30,17 +30,16 @@ The following example makes the first printer in the  **[Printers](printers-obje
 
 ```vb
 Dim prtDefault As Printer 
- 
+
 Set Application.Printer = Application.Printers(0) 
- 
+
 Set prtDefault = Application.Printer 
- 
+
 With prtDefault 
  MsgBox "Device name: " &; .DeviceName &; vbCr _ 
  &; "Driver name: " &; .DriverName &; vbCr _ 
  &; "Port: " &; .Port 
 End With 
-
 ```
 
 

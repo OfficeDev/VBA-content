@@ -45,14 +45,15 @@ Possible values returned by the  **DragState** property are shown in the followi
 
 
 
-|**Constant**|**Value **|**Description**|
-|:-----|:-----|:-----|
-| **visMouseMoveDragStatesBegin**|1|User is beginning to drag an object with the mouse.|
-| **visMouseMoveDragStatesDrop**|5|User has dropped the dragged object in the drop-target window.|
-| **visMouseMoveDragStatesEnter**|2|User is dragging an object into the drop-target window with the mouse.|
-| **visMouseMoveDragStatesLeave**|4|User is moving the mouse out of the drop-target window.|
-| **visMouseMoveDragStatesNone**|0|Either not a mouse movement or a mouse movement that is not a drag action.|
-| **visMouseMoveDragStatesOver**|3|User is moving the dragged object within the drop-target window with the mouse.|
+| <strong>Constant</strong>                    | **Value ** | <strong>Description</strong>                                                    |
+|:---------------------------------------------|:-----------|:--------------------------------------------------------------------------------|
+| <strong>visMouseMoveDragStatesBegin</strong> | 1          | User is beginning to drag an object with the mouse.                             |
+| <strong>visMouseMoveDragStatesDrop</strong>  | 5          | User has dropped the dragged object in the drop-target window.                  |
+| <strong>visMouseMoveDragStatesEnter</strong> | 2          | User is dragging an object into the drop-target window with the mouse.          |
+| <strong>visMouseMoveDragStatesLeave</strong> | 4          | User is moving the mouse out of the drop-target window.                         |
+| <strong>visMouseMoveDragStatesNone</strong>  | 0          | Either not a mouse movement or a mouse movement that is not a drag action.      |
+| <strong>visMouseMoveDragStatesOver</strong>  | 3          | User is moving the dragged object within the drop-target window with the mouse. |
+
 When the  **DragState** property returns **visMouseMoveDragStatesBegin** a drag and drop action is beginning. The **DragState** property returns **visMouseMoveDragStatesBegin** just once for each drag and drop action. At this point, you can cancel the drag and drop action entirely; if you do so, Visio fires no additional **MouseMove** events for any target windows.
 
 When the  **DragState** property returns **visMouseMoveDragStatesEnter** , an end-user is dragging an object into a drop-target window. This event is fired once per drop-target window. At this point, you can cancel the drag and drop action for that specific drop-target window.
@@ -77,11 +78,11 @@ Events other than  **MouseMove** fall under the default case ( **Case Else** ). 
 
 ```vb
 Implements Visio.IVisEventProc 
- 
+
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
 Private Const visEvtAdd% = &;H8000 
- 
+
 Private Function IVisEventProc_VisEventProc( _ 
     ByVal nEventCode As Integer, _ 
     ByVal pSourceObj As Object, _ 
@@ -89,9 +90,9 @@ Private Function IVisEventProc_VisEventProc( _
     ByVal nEventSeqNum As Long, _ 
     ByVal pSubjectObj As Object, _ 
     ByVal vMoreInfo As Variant) As Variant 
- 
+
     Dim strMessage As String 
-     
+
     'Find out which event and event extension fired 
     Select Case nEventCode 
         Case visEvtCodeMouseMove 
@@ -113,12 +114,12 @@ Private Function IVisEventProc_VisEventProc( _
         Case Else 
             strMessage = "Other (" &; nEventCode &; ")" 
     End Select 
-     
+
     'Display the event name and the event code 
     If (Len(strMessage)) Then 
         Debug.Print strMessage 
     End If        
- 
+
 End Function
 ```
 
@@ -135,34 +136,34 @@ The  **clsEventSink** class implements the **IVisEventProc** interface.
 
 ```vb
 Public Sub Initialize()     
- 
+
     CreateEventObjects     
- 
+
 End Sub 
- 
+
 Option Explicit  
- 
+
 Private mEventSink As clsEventSink  
- 
+
 Dim vsoApplicationEvents As Visio.EventList  
 Dim vsoMouseMoveEvent As Visio.Event    
- 
+
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
 Private Const visEvtAdd% = &;H8000  
- 
+
 Public Sub CreateEventObjects()  
- 
+
     'Create an instance of the clsEventSink class 
     'to pass to the AddAdvise method. 
     Set mEventSink = New clsEventSink  
- 
+
     'Get the EventList collection of the current instance of the Visio Application object 
     Set vsoApplicationEvents = Application.EventList  
- 
+
    'Add an Event object that sends notifications of the MouseMove event. 
     Set vsoMouseMoveEvent = vsoApplicationEvents.AddAdvise(visEvtCodeMouseMove, mEventSink, "", "Mouse moved...")      
- 
+
 End Sub
 ```
 

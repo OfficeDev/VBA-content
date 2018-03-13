@@ -22,11 +22,12 @@ Use  **Panes** (index), where index is the index number for a pane, to return a 
 
 
 
-|**Pane**|**Index number**|
-|:-----|:-----|
-|Outline|1|
-|Slide|2|
-|Notes|3|
+| <strong>Pane</strong> | <strong>Index number</strong> |
+|:----------------------|:------------------------------|
+| Outline               | 1                             |
+| Slide                 | 2                             |
+| Notes                 | 3                             |
+
 When using a document window view other than normal view, use  **Panes** (1) to reference the single **Pane** object.
 
 Use the [Activate](pane-activate-method-powerpoint.md)method to make the specified pane active.

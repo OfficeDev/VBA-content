@@ -40,7 +40,6 @@ With ActiveDocument.ActiveWindow
  &; "Working area width = " _ 
  &; .UsableWidth 
 End With 
-
 ```
 
 

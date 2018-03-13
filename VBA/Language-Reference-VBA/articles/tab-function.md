@@ -40,7 +40,6 @@ Print #1, "Hello"; Tab(20); "World."
 ' If the argument is omitted, cursor is moved to the next print zone.
 Print #1, "Hello"; Tab; "World"
 Close #1    ' Close file.
-
 ```
 
 The  **Tab** function can also be used with the **Print** method. The following statement prints text starting at column 10.
@@ -50,8 +49,6 @@ The  **Tab** function can also be used with the **Print** method. The following 
 
 ```vb
 Debug.Print Tab(10); "10 columns from start."
-
-
 ```
 
 

@@ -29,11 +29,12 @@ The  **KeepTogether** property for a group uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|No|0|(Default) Prints the group without keeping the group header, detail section, and group footer on the same page.|
-|Whole Group|1|Prints the group header, detail section, and group footer on the same page.|
-|With First Detail|2|Prints the group header on a page only if it can also print the first detail record.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                    |
+|:-------------------------|:------------------------------|:----------------------------------------------------------------------------------------------------------------|
+| No                       | 0                             | (Default) Prints the group without keeping the group header, detail section, and group footer on the same page. |
+| Whole Group              | 1                             | Prints the group header, detail section, and group footer on the same page.                                     |
+| With First Detail        | 2                             | Prints the group header on a page only if it can also print the first detail record.                            |
+
 In Visual Basic, you set the  **KeepTogether** property for a group in report Design view or the **Open** event procedure of a report by using the **GroupLevel** property.
 
 To set the  **KeepTogether** property for a group to a value other than No, you must set the **GroupHeader** or **GroupFooter** property or both to Yes for the selected field or expression.

@@ -37,10 +37,13 @@ The value of the  **EditingType** property can be one of these **MsoEditingType*
 
 ||
 |:-----|
-|**msoEditingAuto**|
-|**msoEditingCorner**|
-|**msoEditingSmooth**|
-|**msoEditingSymmetric**|
+|<strong>msoEditingAuto</strong>|
+|
+<strong>msoEditingCorner</strong>|
+|
+<strong>msoEditingSmooth</strong>|
+|
+<strong>msoEditingSymmetric</strong>|
 
 ## Example
 

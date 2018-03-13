@@ -51,11 +51,11 @@ To display the dialog box with names from an address list:
     
       - This method returns  **True** if **SelectNamesDialog.ForceResolution** is set, all selected names are resolved, and the user clicks **OK**.
     
-  - It returns  **False** if **SelectNamesDialog.ForceResolution** is set, but not all the recipients are resolved.
+   - It returns  **False** if **SelectNamesDialog.ForceResolution** is set, but not all the recipients are resolved.
     
-  - It returns  **False** if **SelectNamesDialog.ForceResolution** is not set and the user clicks **OK**.
+   - It returns  **False** if **SelectNamesDialog.ForceResolution** is not set and the user clicks **OK**.
     
-  - It returns  **False** if the user clicks **Cancel** or the **Close** icon.
+   - It returns  **False** if the user clicks **Cancel** or the **Close** icon.
     
 5. If  **[SelectNamesDialog.Display](selectnamesdialog-display-method-outlook.md)** returns **True**, obtain the selected address entries using  **[SelectNamesDialog.Recipients](selectnamesdialog-recipients-property-outlook.md)**.
     

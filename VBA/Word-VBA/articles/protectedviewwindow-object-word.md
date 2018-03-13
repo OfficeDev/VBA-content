@@ -30,9 +30,8 @@ The index number represents the position of the protected view window in the  **
 
 ```vb
 Dim pvWindow As ProtectedViewWindow 
- 
-Set pvWindow = ProtectedViewWindows(1) 
 
+Set pvWindow = ProtectedViewWindows(1) 
 ```
 
 

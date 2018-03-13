@@ -47,7 +47,6 @@ Sub CropImage()
  ActivePresentation.Slides(1).Shapes(1).PictureFormat.Crop.ShapeLeft = 330 
  ActivePresentation.Slides(1).Shapes(1).PictureFormat.Crop.ShapeTop = 170 
 End Sub 
-
 ```
 
 

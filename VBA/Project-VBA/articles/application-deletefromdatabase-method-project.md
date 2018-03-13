@@ -50,11 +50,11 @@ Deletes a project stored in a database.
 
 The Name argument must contain a file name string, or an ODBC data source name (DSN), and the project name string. The syntax for a data source is < _DataSourceName_ >\ _Projectname_. The less than (<) and greater than (>) symbols must be included, and a backslash ( \ ) must separate the data source name from the project name. The _DataSourceName_ itself can either be one of the ODBC data source names installed on the computer, a file DSN, or a path and file name for a file-based database.
 
-In the following examples, _ [My Documents]_ is the full path of your My Documents folder, and _[Program Files]_ is the full path of your Program Files folder:
+In the following examples, <em> [My Documents]</em> is the full path of your My Documents folder, and <em>[Program Files]</em> is the full path of your Program Files folder:
 
 "<Corporate SQL Database>\Factory Construction" 
 
-"<  _[My Documents]\_ PROJECT1.MDB>\System Roll-out Plan"
+"<  <em>[My Documents]\</em> PROJECT1.MDB>\System Roll-out Plan"
 
 "<  _[Program Files]_ \Common Files\ODBC\Data Sources\Projects Database.dsn>\Project X"
 

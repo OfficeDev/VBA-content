@@ -29,12 +29,17 @@ ms.date: 06/08/2017
 
 
 
-| **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue**|
-| **msoFalse**|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** . The beginning of the specified connector is connected to a shape.|
+| <strong>MsoTriState</strong> can be one of these <strong>MsoTriState</strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong>|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong> . The beginning of the specified connector is connected to a shape.|
 
 ## Example
 

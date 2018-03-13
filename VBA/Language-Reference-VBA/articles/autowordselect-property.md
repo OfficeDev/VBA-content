@@ -21,18 +21,20 @@ Specifies whether a word or a character is the basic unit used to extend a selec
 The  **AutoWordSelect** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Specifies the basic unit used to extend a selection.|
+| <strong>Part</strong> | <strong>Description</strong>                                   |
+|:----------------------|:---------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                      |
+| <em>Boolean</em>      | Optional. Specifies the basic unit used to extend a selection. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Uses a word as the basic unit (default).|
-|**False**|Uses a character as the basic unit.|
+| <strong>Value</strong> | <strong>Description</strong>             |
+|:-----------------------|:-----------------------------------------|
+| <strong>True</strong>  | Uses a word as the basic unit (default). |
+| <strong>False</strong> | Uses a character as the basic unit.      |
+
  **Remarks**
 The  **AutoWordSelect** property specifies how the selection extends or contracts in the edit region of a **TextBox** or **ComboBox**.
 If the user places the insertion point in the middle of a word and then extends the selection while  **AutoWordSelect** is **True**, the selection includes the entire word.

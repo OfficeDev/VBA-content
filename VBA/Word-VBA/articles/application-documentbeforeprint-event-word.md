@@ -18,7 +18,7 @@ Occurs before any open document is printed.
 
 ## Syntax
 
-Private Sub  _expression_ _**DocumentBeforePrint**( **_ByVal Doc As Document_** , **_Cancel As Boolean_** )
+Private Sub  <em>expression</em> <em><strong>DocumentBeforePrint</strong>( **_ByVal Doc As Document</em>** , <strong><em>Cancel As Boolean</em></strong> )
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object declared with events in a class module.
 

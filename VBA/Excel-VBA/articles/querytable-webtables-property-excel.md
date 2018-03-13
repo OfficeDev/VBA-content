@@ -50,7 +50,6 @@ With qtQtrResults
  .WebTables = "1,2" 
  .Refresh 
 End With 
-
 ```
 
 

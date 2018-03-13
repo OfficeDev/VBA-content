@@ -39,7 +39,6 @@ With ActiveDocument.Pages(1)
  .Shapes(2).TextFrame.TextRange. _ 
  Words(1).Paste 
 End With 
-
 ```
 
 

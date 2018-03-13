@@ -33,7 +33,6 @@ With Worksheets("Sheet1").Range("A1:D10")
  .Value = "Test" 
  .Font.Size = 12 
 End With 
-
 ```
 
 

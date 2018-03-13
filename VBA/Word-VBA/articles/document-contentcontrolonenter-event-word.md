@@ -18,7 +18,7 @@ Occurs when a user enters a content control.
 
 ## Syntax
 
-Private Sub  _expression_ _**ContentControlOnEnter**( **_ContentControl_** , )
+Private Sub  <em>expression</em> <em><strong>ContentControlOnEnter</strong>( **_ContentControl</em>** , )
 
  _expression_ An expression that returns a **[Document](document-object-word.md)** object.
 

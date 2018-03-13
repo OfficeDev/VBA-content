@@ -38,7 +38,6 @@ This example selects the next unlocked cell on Sheet1. If Sheet1 is unprotected,
 ```vb
 Worksheets("Sheet1").Activate 
 ActiveCell.Next.Select 
-
 ```
 
 

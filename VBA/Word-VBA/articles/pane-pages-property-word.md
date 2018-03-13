@@ -30,16 +30,15 @@ The following example creates a line 0.5 inch from the upper-left corner of the 
 
 ```vb
 Dim objPage As Page 
- 
+
 Set objPage = ActiveDocument.ActiveWindow.Panes(1).Pages(1) 
- 
+
 'Add new line to document 
 ActiveDocument.Shapes.AddLine _ 
  InchesToPoints(0.5), _ 
  InchesToPoints(0.5), _ 
  objPage.Width - InchesToPoints(0.5), _ 
  objPage.Height - InchesToPoints(0.5) 
-
 ```
 
 

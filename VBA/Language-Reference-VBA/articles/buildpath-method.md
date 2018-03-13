@@ -22,11 +22,12 @@ Appends a name to an existing path.
 The  **BuildPath** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _path_|Required. Existing path to which  _name_ is appended. Path can be absolute or relative and need not specify an existing folder.|
-| _name_|Required. Name being appended to the existing  _path_.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                           |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                                                                     |
+| <em>path</em>         | Required. Existing path to which  <em>name</em> is appended. Path can be absolute or relative and need not specify an existing folder. |
+| <em>name</em>         | Required. Name being appended to the existing  <em>path</em>.                                                                          |
+
  **Remarks**
 The  **BuildPath** method inserts an additional path separator between the existing path and the name, only if necessary.
 

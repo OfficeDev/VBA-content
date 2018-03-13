@@ -56,7 +56,6 @@ With Application.ActivePresentation.Slides(1).Shapes(2)
  Set charRange = .TextFrame.TextRange2.InsertBefore("H2O") 
  charRange.Characters(2).Font.BaselineOffset = -0.2 
 End With 
-
 ```
 
 

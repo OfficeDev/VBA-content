@@ -31,11 +31,12 @@ The  **HasData** property uses the following settings.
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|?1|The object has data.|
-|0|The object doesn't have data.|
-|1|The object is unbound.|
+| <strong>Value</strong> | <strong>Description</strong>  |
+|:-----------------------|:------------------------------|
+| ?1                     | The object has data.          |
+| 0                      | The object doesn't have data. |
+| 1                      | The object is unbound.        |
+
 You can use this property to determine whether to hide a subreport that has no data. For example, the following expression hides the subreport control when its report has no data.
 
 

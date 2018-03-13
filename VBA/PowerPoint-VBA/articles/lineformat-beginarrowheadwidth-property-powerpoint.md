@@ -35,10 +35,13 @@ The value of the  **BeginArrowheadWidth** property can be one of these **MsoArro
 
 ||
 |:-----|
-|**msoArrowheadNarrow**|
-|**msoArrowheadWide**|
-|**msoArrowheadWidthMedium**|
-|**msoArrowheadWidthMixed**|
+|<strong>msoArrowheadNarrow</strong>|
+|
+<strong>msoArrowheadWide</strong>|
+|
+<strong>msoArrowheadWidthMedium</strong>|
+|
+<strong>msoArrowheadWidthMixed</strong>|
 
 ## Example
 

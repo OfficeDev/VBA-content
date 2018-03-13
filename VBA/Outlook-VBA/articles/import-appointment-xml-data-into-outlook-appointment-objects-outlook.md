@@ -25,19 +25,19 @@ The following code samples contain the  `CreateAppointmentsFromXml` method of th
 The  `CreateAppointmentsFromXml` method accepts two input parameters, _application_ and _xml_:
 
 -  _application_ is a trusted Outlook **[Application](application-object-outlook.md)** object.
-    
--  _xml_ is either an XML string, or a string that represents a path to a valid XML file. For the purpose of the following code samples, the XML delimits appointment data by using the following XML tags:
-    
 
-|**Appointment data**|**Delimiting XML tag**|
-|:-----|:-----|
-|Entire set of appointment data|<appointments>|
-|Each appointment in the set|<appointment>|
-|Start time of an appointment|<starttime>|
-|End time of an appointment|<endtime>|
-|Title of an appointment|<subject>|
-|Location of an appointment|<location>|
-|Details of an appointment|<body>|
+-  _xml_ is either an XML string, or a string that represents a path to a valid XML file. For the purpose of the following code samples, the XML delimits appointment data by using the following XML tags:
+
+
+| <strong>Appointment data</strong> | <strong>Delimiting XML tag</strong> |
+|:----------------------------------|:------------------------------------|
+| Entire set of appointment data    | <appointments>                      |
+| Each appointment in the set       | <appointment>                       |
+| Start time of an appointment      | <starttime>                         |
+| End time of an appointment        | <endtime>                           |
+| Title of an appointment           | <subject>                           |
+| Location of an appointment        | <location>                          |
+| Details of an appointment         | <body>                              |
 
 The following example shows input data for the  _xml_ parameter.
 
@@ -68,7 +68,6 @@ The following example shows input data for the  _xml_ parameter.
         <body>Here is the Bodytext</body> 
     </appointment> 
 </appointments> 
-
 ```
 
  The `CreateAppointmentsFromXml` method uses the Microsoft COM implementation of the XML Document Object Model (DOM) to load and process the XML data that _xml_ provides. `CreateAppointmentsFromXml` first checks whether _xml_ specifies a valid source of XML data. If so, it loads the data into an XML document, **DOMDocument**. Otherwise,  `CreateAppointmentsFromXml` throws an exception. For more information about the XML DOM, see [DOM](http://msdn.microsoft.com/library/e9da2722-7879-4e48-869c-7f16714e2824%28Office.15%29.aspx).
@@ -85,7 +84,7 @@ using System.IO;
 using System.Text; 
 using System.Xml; 
 using Outlook = Microsoft.Office.Interop.Outlook; 
- 
+
 namespace OutlookAddIn1 
 { 
     class Sample 
@@ -97,7 +96,7 @@ namespace OutlookAddIn1
             List<Outlook.AppointmentItem> appointments = new  
                 List<Microsoft.Office.Interop.Outlook.AppointmentItem>(); 
             XmlDocument xmlDoc = new XmlDocument(); 
- 
+
             // If xml is an XML string, create the document directly.  
             if (xml.StartsWith("<?xml")) 
             { 
@@ -112,55 +111,55 @@ namespace OutlookAddIn1
                 throw new Exception( 
                     "The input string is not valid XML data or the specified file doesn't exist."); 
             } 
- 
+
             // Select all appointment nodes under the root appointements node. 
             XmlNodeList appointmentNodes = xmlDoc.SelectNodes("appointments/appointment"); 
             foreach (XmlNode appointmentNode in appointmentNodes) 
             { 
- 
+
                 // Create a new AppointmentItem object. 
                 Outlook.AppointmentItem newAppointment =  
                     (Outlook.AppointmentItem)application.CreateItem(Outlook.OlItemType.olAppointmentItem); 
- 
+
                 // Loop over all child nodes, check the node name, and import the data into the  
                 // appointment fields. 
                 foreach (XmlNode node in appointmentNode.ChildNodes) 
                 { 
                     switch (node.Name) 
                     { 
- 
+
                         case "starttime": 
                             newAppointment.Start = DateTime.Parse(node.InnerText); 
                             break; 
- 
+
                         case "endtime": 
                             newAppointment.End = DateTime.Parse(node.InnerText); 
                             break; 
- 
+
                         case "subject": 
                             newAppointment.Subject = node.InnerText; 
                             break; 
- 
+
                         case "location": 
                             newAppointment.Location = node.InnerText; 
                             break; 
- 
+
                         case "body": 
                             newAppointment.Body = node.InnerText; 
                             break; 
- 
+
                     } 
                 } 
- 
+
                 // Save the item in the default calendar. 
                 newAppointment.Save(); 
                 appointments.Add(newAppointment); 
             } 
- 
+
             // Return an array of new appointments. 
             return appointments.ToArray(); 
         } 
- 
+
     } 
 }
 ```
@@ -173,15 +172,15 @@ The following is the Visual Basic code sample.
 Imports System.IO 
 Imports System.Xml 
 Imports Outlook = Microsoft.Office.Interop.Outlook 
- 
+
 Namespace OutlookAddIn2 
     Class Sample 
         Function CreateAppointmentsFromXml(ByVal application As Outlook.Application, _ 
             ByVal xml As String) As Outlook.AppointmentItem() 
- 
+
             Dim appointments As New List(Of Outlook.AppointmentItem) 
             Dim xmlDoc As New XmlDocument() 
- 
+
             If xml is an XML string, create the XML document directly. 
             If xml.StartsWith("<?xml") Then 
                 xmlDoc.LoadXml(xml) 
@@ -190,56 +189,56 @@ Namespace OutlookAddIn2
             Else 
                 Throw New Exception("The input string is not valid XML data or the specified file doesn't exist.") 
             End If 
- 
- 
+
+
             ' Select all appointment nodes under the root appointements node. 
             Dim appointmentNodes As XmlNodeList = xmlDoc.SelectNodes("appointments/appointment") 
- 
+
             For Each appointmentNode As XmlNode In appointmentNodes 
- 
+
                 ' Create a new AppointmentItem object. 
                 Dim newAppointment As Outlook.AppointmentItem = _ 
                     DirectCast(application.CreateItem(Outlook.OlItemType.olAppointmentItem), _ 
                     Outlook.AppointmentItem) 
- 
+
                 ' Loop over all child nodes, check the node name, and import the data into the appointment fields. 
- 
+
                 For Each node As XmlNode In appointmentNode.ChildNodes 
                     Select Case (node.Name) 
- 
+
                         Case "starttime" 
                             newAppointment.Start = DateTime.Parse(node.InnerText) 
- 
- 
+
+
                         Case "endtime" 
                             newAppointment.End = DateTime.Parse(node.InnerText) 
- 
- 
+
+
                         Case "subject" 
                             newAppointment.Subject = node.InnerText 
- 
- 
+
+
                         Case "location" 
                             newAppointment.Location = node.InnerText 
- 
- 
+
+
                         Case "body" 
                             newAppointment.Body = node.InnerText 
- 
- 
+
+
                     End Select 
                 Next 
- 
+
                 ' Save the item in the default calendar. 
                 newAppointment.Save() 
                 appointments.Add(newAppointment) 
             Next 
- 
+
             ' Return an array of new appointments. 
             Return appointments.ToArray() 
         End Function 
- 
- 
+
+
     End Class 
 End Namespace
 ```

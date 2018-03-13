@@ -35,7 +35,6 @@ With ActiveDocument.InlineShapes(1)
  ColorIndex = 3 
  End If 
 End With 
-
 ```
 
 

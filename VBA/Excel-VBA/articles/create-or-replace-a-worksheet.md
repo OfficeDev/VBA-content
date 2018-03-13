@@ -21,7 +21,7 @@ This example shows how to determine if a worksheet named "Sheet4" exists by usin
 Sub TestSheetYesNo()
     Dim mySheetName As String, mySheetNameTest As String
     mySheetName = "Sheet4"
-    
+
     On Error Resume Next
     mySheetNameTest = Worksheets(mySheetName).Name
     If Err.Number = 0 Then
@@ -43,7 +43,7 @@ This example shows how to determine if a worksheet named "Sheet4" exists. The na
 Sub TestSheetCreate()
     Dim mySheetName As String, mySheetNameTest As String
     mySheetName = "Sheet4"
-    
+
     On Error Resume Next
     mySheetNameTest = Worksheets(mySheetName).Name
     If Err.Number = 0 Then
@@ -69,7 +69,7 @@ This example shows how to determine if a worksheet named "Sheet4" exists. The na
 Sub TestSheetReplace()
     Dim mySheetName As String
     mySheetName = "Sheet4"
-    
+
     Application.DisplayAlerts = False
     On Error Resume Next
     Worksheets(mySheetName).Delete
@@ -83,6 +83,7 @@ End Sub
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
 

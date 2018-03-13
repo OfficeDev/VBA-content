@@ -35,11 +35,15 @@ The value of the  **PointerType** property can be one of these **PpSlideShowPoin
 
 ||
 |:-----|
-|**ppSlideShowPointerAlwaysHidden**|
-|**ppSlideShowPointerArrow**|
-|**ppSlideShowPointerAutoArrow**|
-|**ppSlideShowPointerNone**|
-|**ppSlideShowPointerPen**|
+|<strong>ppSlideShowPointerAlwaysHidden</strong>|
+|
+<strong>ppSlideShowPointerArrow</strong>|
+|
+<strong>ppSlideShowPointerAutoArrow</strong>|
+|
+<strong>ppSlideShowPointerNone</strong>|
+|
+<strong>ppSlideShowPointerPen</strong>|
 
 ## Example
 

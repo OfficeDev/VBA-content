@@ -21,7 +21,7 @@ Occurs after the link between a shape and a data row is deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeLinkDeleted**( **_ByVal Shape As [IVSHAPE]_** , **_ByVal DataRecordsetID As Long_** , **_ByVal DataRowID As Long_** )
+Private Sub  <em>expression</em> <em><strong>ShapeLinkDeleted</strong>( **_ByVal Shape As [IVSHAPE]</em>** , <strong><em>ByVal DataRecordsetID As Long</em></strong> , <strong><em>ByVal DataRowID As Long</em></strong> )
 
  _expression_ An expression that returns a **Shape** object.
 

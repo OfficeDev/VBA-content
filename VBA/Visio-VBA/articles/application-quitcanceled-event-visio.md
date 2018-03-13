@@ -15,7 +15,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _**QuitCanceled**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>QuitCanceled</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -42,8 +42,9 @@ The FlipCmd parameter can be one of the following  **MsoFlipCmd** constants decl
 
 
 
-| **msoFlipHorizontal**|
-| **msoFlipVertical**|
+| <strong>msoFlipHorizontal</strong>|
+| 
+<strong>msoFlipVertical</strong>|
 
 ## Example
 
@@ -58,7 +59,6 @@ With ActiveDocument.Pages(1).Shapes _
  .Fill.ForeColor.RGB = RGB(255, 0, 0) 
  .Flip msoFlipVertical 
 End With 
-
 ```
 
 

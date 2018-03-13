@@ -46,7 +46,6 @@ With ActiveDocument.Pages(1).Shapes(3).Callout
  .CustomDrop Drop:=14 
  .AutoAttach = False 
 End With 
-
 ```
 
 

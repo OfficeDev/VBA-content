@@ -42,7 +42,7 @@ If you turn the display of system messages off in Visual Basic, you must turn it
 
 
 - [Calling Action Queries](http://www.utteraccess.com/wiki/index.php/Calling_Action_Queries)
-    
+
 
 ## Example
 
@@ -57,11 +57,13 @@ DoCmd.SetWarnings False
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

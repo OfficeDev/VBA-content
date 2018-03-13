@@ -29,10 +29,11 @@ The  **UserControl** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|The current application was started by the user.|
-|**False**|The current application was started by another application with Automation.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                |
+|:-------------------------|:----------------------------------------------------------------------------|
+| <strong>True</strong>    | The current application was started by the user.                            |
+| <strong>False</strong>   | The current application was started by another application with Automation. |
+
 This property is read-only in all views when user starts the Access application. If Microsoft Access is started by OLE Automation, the  **UserControl** property can be set in Visual Basic.
 
 When an application is launched by the user, the  **Visible** and **UserControl** properties of the **[Application](application-object-access.md)** object are both set to **True**. When the **UserControl** property is set to **True**, it isn't possible to set the **Visible** property of the object to **False**.

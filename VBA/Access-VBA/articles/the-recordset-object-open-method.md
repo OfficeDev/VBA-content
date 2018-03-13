@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # The Recordset Object Open Method
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -33,6 +33,7 @@ All arguments are optional because the information they pass can be communicated
 ## Source and Options Arguments
 <a name="sectionSection0"> </a>
 
+
 The  _Source_ and _Options_ arguments appear in the same topic because they are closely related.
 
 
@@ -40,15 +41,15 @@ The  _Source_ and _Options_ arguments appear in the same topic because they are 
 recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 ```
 
-The  _Source_ argument is a **Variant** that evaluates to a valid **Command** object, a text command (e.g., a SQL statement), a table name, a stored procedure call, a URL, or the name of a file or **Stream** object containing a persistently stored **Recordset**. If _Source_ is a file path name, it can be a full path ("C:\dir\file.rst"), a relative path ("..\file.rst"), or a URL ("http://files/file.rst"). You can also specify this information in the **Recordset** object **Source** property and leave the _Source_ argument blank.
+The  <em>Source</em> argument is a <strong>Variant</strong> that evaluates to a valid <strong>Command</strong> object, a text command (e.g., a SQL statement), a table name, a stored procedure call, a URL, or the name of a file or <strong>Stream</strong> object containing a persistently stored <strong>Recordset</strong>. If <em>Source</em> is a file path name, it can be a full path ("C:\dir\file.rst"), a relative path ("..\file.rst"), or a URL ("<http://files/file.rst>"). You can also specify this information in the <strong>Recordset</strong> object <strong>Source</strong> property and leave the <em>Source</em> argument blank.
 
 The  _Options_ argument is a **Long** value that indicates either or both of the following:
 
 
 - How the provider should evaluate the  _Source_ argument if it represents something other than a **Command** object.
-    
+
 - That the  **Recordset** should be restored from a file where it was previously saved.
-    
+
 This argument can contain a bitmask of  **CommandTypeEnum** or **ExecuteOptionEnum** values. A **CommandTypeEnum** passed in the _Options_ argument sets the **CommandType** property of the **Recordset**.
 
 
@@ -61,6 +62,7 @@ For more information about using these enumerated constants for  _Options_ and w
 
 ## ActiveConnection Argument
 <a name="sectionSection1"> </a>
+
 
 You can pass in either a  **Connection** object or a connection string as the _ActiveConnection_ argument.
 
@@ -78,6 +80,7 @@ If you pass a  **Command** object in the _Source_ argument and also pass an _Act
 <a name="sectionSection2"> </a>
 
 
+
 ```
 recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 ```
@@ -89,6 +92,7 @@ The  _CursorType_ argument can accept any of the **CursorTypeEnum** values.
 
 ## LockType Argument
 <a name="sectionSection3"> </a>
+
 
 
 ```
@@ -103,17 +107,17 @@ The  _LockType_ argument can accept any of the **LockTypeEnum** values.
 ## Retrieving Multiple Recordsets
 <a name="sectionSection4"> </a>
 
+
 You might occasionally need to execute a command that will return more than one result set. A common example is a stored procedure that runs against a SQL Server database, as in the following example. The stored procedure contains a COMPUTE clause to return the average price of all products in the table. The definition of the stored procedure is as follows:
 
 
 ```sql
- 
+
 CREATE PROCEDURE ProductsWithAvgPrice  
 AS 
 SELECT ProductID, ProductName, UnitPrice  
   FROM PRODUCTS  
   COMPUTE AVG(UnitPrice) 
-
 ```
 
 The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO when the command contains a COMPUTE clause. Therefore, the ADO code must use the  **NextRecordset** method to access the data in the second result set, as shown here:
@@ -122,32 +126,32 @@ The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO
 
 
 ```vb
- 
+
 'BeginNextRs 
     On Error GoTo ErrHandler: 
-     
+
     Dim objConn As New ADODB.Connection 
     Dim objCmd As New ADODB.Command 
     Dim objRs As New ADODB.Recordset 
- 
+
     Set objConn = GetNewConnection 
     objCmd.ActiveConnection = objConn 
-     
+
     objCmd.CommandText = "ProductsWithAvgPrice" 
     objCmd.CommandType = adCmdStoredProc 
-     
+
     Set objRs = objCmd.Execute 
-     
+
     Do While Not objRs.EOF 
         Debug.Print objRs(0) &; vbTab &; objRs(1) &; vbTab &; _ 
                     objRs(2) 
         objRs.MoveNext 
     Loop 
-     
+
     Set objRs = objRs.NextRecordset 
-     
+
     Debug.Print "AVG. PRICE = $ " &; objRs(0) 
- 
+
     'clean up 
     objRs.Close 
     objConn.Close 
@@ -155,26 +159,25 @@ The Microsoft OLE DB Provider for SQL Server returns multiple result sets to ADO
     Set objConn = Nothing 
     Set objCmd = Nothing 
     Exit Sub 
-     
+
 ErrHandler: 
     'clean up 
     If objRs.State = adStateOpen Then 
         objRs.Close 
     End If 
-     
+
     If objConn.State = adStateOpen Then 
         objConn.Close 
     End If 
-     
+
     Set objRs = Nothing 
     Set objConn = Nothing 
     Set objCmd = Nothing 
-     
+
     If Err <> 0 Then 
         MsgBox Err.Source &; "-->" &; Err.Description, , "Error" 
     End If 
 'EndNextRs 
-
 ```
 
 For more information, see NextRecordset.

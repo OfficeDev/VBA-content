@@ -26,7 +26,6 @@ With ActivePresentation.Slides(1).Shapes(2)
  .Reflection.Type = msoReflectionType6 
  End With 
 End With 
-
 ```
 
 

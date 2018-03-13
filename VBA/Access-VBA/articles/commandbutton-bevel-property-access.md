@@ -31,21 +31,22 @@ The Bevel effects include values that are listed in the following table.
 
 
 
-|**Value**|**Effect**|
-|:-----|:-----|
-|0|None|
-|1|Circle|
-|2|Relaxed Inset|
-|3|Cross|
-|4|Cool Slant|
-|5|Angle|
-|6|Soft Round|
-|7|Convex|
-|8|Slope|
-|9|Divot|
-|10|Riblet|
-|11|Hard Edge|
-|12|Art Deco|
+| <strong>Value</strong> | <strong>Effect</strong> |
+|:-----------------------|:------------------------|
+| 0                      | None                    |
+| 1                      | Circle                  |
+| 2                      | Relaxed Inset           |
+| 3                      | Cross                   |
+| 4                      | Cool Slant              |
+| 5                      | Angle                   |
+| 6                      | Soft Round              |
+| 7                      | Convex                  |
+| 8                      | Slope                   |
+| 9                      | Divot                   |
+| 10                     | Riblet                  |
+| 11                     | Hard Edge               |
+| 12                     | Art Deco                |
+
 To see the available bevel effects and apply a bevel through the user interface, first open the form or report in  **Layout** view or **Design** view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a bevel effect. Next, on the **Format** tab, in the **Control Formatting** group, click **Shape Effects**, then click  **Bevel** and choose a bevel effect. Notice that the bevel effects are indexed from left to right, and then top to bottom. So the first item, under **No Bevel**, has the value 0. Then, under Bevel, the first row contains bevel effects with values from 1 to 4. The second row from 5 to 8, and the third row from 9 to 12.
 
 This property is not surfaced in the property sheet.

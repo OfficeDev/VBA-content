@@ -29,10 +29,11 @@ The  **Default** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The command button is the default button.|
-|No|**False**|(Default) The command button isn't the default button.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                           |
+|:-------------------------|:------------------------------|:-------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The command button is the default button.              |
+| No                       | <strong>False</strong>        | (Default) The command button isn't the default button. |
+
 When the command button's  **Default** property setting is Yes and the Form window is active, the user can choose the command button by pressing ENTER (if no other command button has the focus) as well as by clicking the command button.
 
 Only one command button on a form can be the default button. When the  **Default** property is set to Yes for one command button, it is automatically set to No for all other command buttons on the form.

@@ -52,27 +52,28 @@ To determine the ODBC connection and query strings, set query options manually a
 
 
 
-|**Keyword**|**Description**|
-|:-----|:-----|
-|DSN|The name of the ODBC data source|
-|UID|The user logon ID|
-|PWD|The user-specified password|
-|DBQ|The database file name|
-|FIL|The file type|
+| <strong>Keyword</strong> | <strong>Description</strong>     |
+|:-------------------------|:---------------------------------|
+| DSN                      | The name of the ODBC data source |
+| UID                      | The user logon ID                |
+| PWD                      | The user-specified password      |
+| DBQ                      | The database file name           |
+| FIL                      | The file type                    |
+
 To instruct Word to use the same connection method as in earlier versions of Word (Dynamic Data Exchange (DDE) for Microsoft Office Access and Microsoft Office Excel data sources) use  `SubType:=wdMergeSubTypeWord2000`.
 
 How you specify the range depends on how data is retrieved. For example:
 
 
 - When retrieving data through Open Database Connectivity (ODBC), you specify a connection string.
-    
+
 - When retrieving data from Excel using dynamic data exchange (DDE), you specify a named range.
  **Security Note**  
 
 
-    
+
 - When retrieving data from Access, you specify the word "Table" or "Query" followed by the name of a table or query.
-    
+
 
  **Security Note**  
 
@@ -93,9 +94,9 @@ This example creates a new main document and attaches the Orders table from an A
 
 ```vb
 Dim docNew As Document 
- 
+
 Set docNew = Documents.Add 
- 
+
 With docNew.MailMerge 
  .MainDocumentType = wdFormLetters 
  .OpenDataSource _ 
@@ -113,9 +114,9 @@ This example creates a new main document and attaches the Excel worksheet named 
 
 ```vb
 Dim docNew As Document 
- 
+
 Set docNew = Documents.Add 
- 
+
 With docNew.MailMerge 
  .MainDocumentType = wdCatalog 
  .OpenDataSource Name:="C:\Documents\Names.xls", _ 
@@ -131,7 +132,7 @@ This example uses ODBC to attach the Access database named "Northwind.mdb" to th
 
 ```vb
 Dim strConnection As String 
- 
+
 With ActiveDocument.MailMerge 
  .MainDocumentType = wdFormLetters 
  strConnection = "DSN=MS Access Databases;" _ 

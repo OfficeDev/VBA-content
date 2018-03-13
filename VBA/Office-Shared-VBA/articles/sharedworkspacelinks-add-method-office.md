@@ -56,7 +56,6 @@ The following example adds a new link to the links collection of the shared work
         vbInformation + vbOKOnly, _ 
         "New Link in Shared Workspace" 
     Set swsLink = Nothing 
-
 ```
 
 

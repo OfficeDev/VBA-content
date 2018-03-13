@@ -31,31 +31,34 @@ Use these key combinations when the settings box for a property has the focus in
 
 
 
-|**Press**|**To**|
-|:-----|:-----|
-|CTRL+Z|Undo the last editing action in the current line.|
-|CTRL+C|Copy the selected text to the  **Clipboard**.|
-|CTRL+X|Cut the selected text to the  **Clipboard**.|
-|DEL or DELETE|Delete the selected text without placing it on the  **Clipboard**.|
-|CTRL+V|Paste the  **Clipboard** contents at the insertion point.|
-|SHIFT+TAB|Switch focus between the Object box and the active  **Properties** tab.|
-|TAB|Move the focus among the Object box, the active  **Properties** tab, a property, and the property value.|
-|ESC|Cancel the property change.|
-|CTRL +SHIFT+ALPHA|Move to the next property that begins with the alpha character, in the list.|
+| <strong>Press</strong> | <strong>To</strong>                                                                                                   |
+|:-----------------------|:----------------------------------------------------------------------------------------------------------------------|
+| CTRL+Z                 | Undo the last editing action in the current line.                                                                     |
+| CTRL+C                 | Copy the selected text to the  <strong>Clipboard</strong>.                                                            |
+| CTRL+X                 | Cut the selected text to the  <strong>Clipboard</strong>.                                                             |
+| DEL or DELETE          | Delete the selected text without placing it on the  <strong>Clipboard</strong>.                                       |
+| CTRL+V                 | Paste the  <strong>Clipboard</strong> contents at the insertion point.                                                |
+| SHIFT+TAB              | Switch focus between the Object box and the active  <strong>Properties</strong> tab.                                  |
+| TAB                    | Move the focus among the Object box, the active  <strong>Properties</strong> tab, a property, and the property value. |
+| ESC                    | Cancel the property change.                                                                                           |
+| CTRL +SHIFT+ALPHA      | Move to the next property that begins with the alpha character, in the list.                                          |
+
 Use these key combinations when a property has enumerated values and its settings box has the focus in the  **Properties** window:
 
 
-|**Press**|**To**|
-|:-----|:-----|
-|ALT+DOWN ARROW|Open the settings box list.|
-|ALT+UP ARROW|Close the settings box list.|
+| <strong>Press</strong> | <strong>To</strong>          |
+|:-----------------------|:-----------------------------|
+| ALT+DOWN ARROW         | Open the settings box list.  |
+| ALT+UP ARROW           | Close the settings box list. |
+
 Use these key combinations when you set the  **BackColor**, **ForeColor**, **FillColor**, or **BorderColor** properties, and the settings box has the focus in the **Properties** window:
 
 
-|**Press**|**To**|
-|:-----|:-----|
-|ALT+DOWN ARROW|Display the  **Color** palette.|
-|ALT+UP ARROW|Close the  **Color** palette.|
+| <strong>Press</strong> | <strong>To</strong>                          |
+|:-----------------------|:---------------------------------------------|
+| ALT+DOWN ARROW         | Display the  <strong>Color</strong> palette. |
+| ALT+UP ARROW           | Close the  <strong>Color</strong> palette.   |
+
 Use these key combinations when you set the  **Icon** or **Picture** properties, and the settings box has the focus in the **Properties** window:
 
 

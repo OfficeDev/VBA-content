@@ -21,18 +21,20 @@ Specifies whether the size of the scroll box is proportional to the scrolling re
 The  **ProportionalThumb** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the scroll box is proportional or fixed.|
+| <strong>Part</strong> | <strong>Description</strong>                               |
+|:----------------------|:-----------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                  |
+| <em>Boolean</em>      | Optional. Whether the scroll box is proportional or fixed. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The scroll box is proportional in size to the scrolling region (default).|
-|**False**|The scroll box is a fixed size.|
+| <strong>Value</strong> | <strong>Description</strong>                                              |
+|:-----------------------|:--------------------------------------------------------------------------|
+| <strong>True</strong>  | The scroll box is proportional in size to the scrolling region (default). |
+| <strong>False</strong> | The scroll box is a fixed size.                                           |
+
  **Remarks**
 The size of a proportional scroll box graphically represents the percentage of the object that is visible in the window. For example, if 75 percent of an object is visible, the scroll box covers three-fourths of the scrolling region in the scroll bar.
 If the scroll box is a fixed size, the system determines its size based on the height and width of the scroll bar.

@@ -34,7 +34,6 @@ The following code shows how to set the word art format for shape one on slide o
 Dim pptSlide As Slide 
 Set pptSlide = ActivePresentation.Slides(1) 
 pptSlide.Shapes(1).TextFrame2.WordArtFormat = msoTextEffect20 
-
 ```
 
 

@@ -14,10 +14,9 @@ You can create a  **[Recordset](http://msdn.microsoft.com/library/9774232C-E6DA-
 ```vb
 Dim dbsNorthwind As DAO.Database 
 Dim rstProducts As DAO.Recordset 
- 
+
 Set dbsNorthwind = CurrentDb 
 Set rstProducts = dbsNorthwind.OpenRecordset("Current Product List") 
-
 ```
 
 
@@ -30,12 +29,11 @@ If a stored select query does not already exist, the  **[OpenRecordset](http://m
 Dim dbsNorthwind As DAO.Database 
 Dim rstProducts As DAO.Recordset 
 Dim strSQL As String 
- 
+
 Set dbsNorthwind = CurrentDb 
 strSQL = "SELECT * FROM Products WHERE Discontinued = No " &; _ 
          "ORDER BY ProductName" 
 Set rstProducts = dbsNorthwind.OpenRecordset(strSQL) 
-
 ```
 
 The disadvantage of this approach is that the query string must be compiled each time it runs, whereas the stored query is compiled the first time it is saved, which usually results in slightly better performance.

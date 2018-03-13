@@ -45,7 +45,6 @@ With ActiveWindow
  .Height = Application.UsableHeight 
  .Width = Application.UsableWidth 
 End With 
-
 ```
 
 

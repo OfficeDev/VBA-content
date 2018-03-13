@@ -28,7 +28,6 @@ The following example returns a  **ChartView** object.
 
 ```vb
 ActiveWindow.SheetViews.Item(1) 
-
 ```
 
 The following example returns a  **[Chart](chart-object-excel.md)** object.
@@ -38,7 +37,6 @@ The following example returns a  **[Chart](chart-object-excel.md)** object.
 
 ```vb
 ActiveWindow.SheetViews.Item(1).Sheet 
-
 ```
 
 

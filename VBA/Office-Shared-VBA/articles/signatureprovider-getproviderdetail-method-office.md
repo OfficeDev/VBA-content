@@ -42,11 +42,11 @@ The  **SignatureProvider** object is used exclusively in custom signature provid
 
 
 - What hash algorithm does the add-in support?
-    
+
 - Is the add-in only a user interface (UI) or does it support hashing and verification? If  **TRUE** is returned, Microsoft Office does not call the add-in to hash or verify, only to display the UI.
-    
+
 - What URL should the add-in provide for users if they are missing the signature add-in?
-    
+
 
 
 
@@ -62,18 +62,17 @@ The following example, written in C#, shows the implementation of the  **GetProv
  { 
  case Microsoft.Office.Core.SignatureProviderDetail.sigprovdetHashAlgorithm: 
  return this.HashAlgorithmIdentifier; 
- 
+
  case Microsoft.Office.Core.SignatureProviderDetail.sigprovdetUIOnly: 
  return false; 
- 
+
  case Microsoft.Office.Core.SignatureProviderDetail.sigprovdetUrl: 
  return this.ProviderUrl; 
- 
+
  default: 
  return null; 
  } 
  } 
-
 ```
 
 

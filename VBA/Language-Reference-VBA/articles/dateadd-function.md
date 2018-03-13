@@ -19,27 +19,29 @@ Returns a  **Variant** ( **Date** ) containing a date to which a specified time 
 The  **DateAdd** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_interval_**|Required. [String expression](vbe-glossary.md) that is the interval of time you want to add.|
-|**_number_**|Required. [Numeric expression](vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|
-|**_date_**|Required.  **Variant** ( **Date** ) or literal representing date to which the interval is added.|
+| <strong>Part</strong>              | <strong>Description</strong>                                                                                                                                                             |
+|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>interval</em></strong> | Required. [String expression](vbe-glossary.md) that is the interval of time you want to add.                                                                                             |
+| <strong><em>number</em></strong>   | Required. [Numeric expression](vbe-glossary.md) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past). |
+| <strong><em>date</em></strong>     | Required.  <strong>Variant</strong> ( <strong>Date</strong> ) or literal representing date to which the interval is added.                                                               |
+
  **Settings**
 The  **_interval_**[argument](vbe-glossary.md) has these settings:
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|yyyy|Year|
-|q|Quarter|
-|m|Month|
-|y|Day of year|
-|d|Day|
-|w|Weekday|
-|ww|Week|
-|h|Hour|
-|n|Minute|
-|s|Second|
+| <strong>Setting</strong> | <strong>Description</strong> |
+|:-------------------------|:-----------------------------|
+| yyyy                     | Year                         |
+| q                        | Quarter                      |
+| m                        | Month                        |
+| y                        | Day of year                  |
+| d                        | Day                          |
+| w                        | Weekday                      |
+| ww                       | Week                         |
+| h                        | Hour                         |
+| n                        | Minute                       |
+| s                        | Second                       |
+
  **Remarks**
 You can use the  **DateAdd** function to add or subtract a specified time interval from a date. For example, you can use **DateAdd** to calculate a date 30 days from today or a time 45 minutes from now.
 To add days to  **_date_**, you can use Day of Year ("y"), Day ("d"), or Weekday ("w").
@@ -52,7 +54,6 @@ The  **DateAdd** function won't return an invalid date. The following example ad
 
 ```
 DateAdd("m", 1, "31-Jan-95")
-
 ```
 
 In this case,  **DateAdd** returns 28-Feb-95, not 31-Feb-95. If **_date_** is 31-Jan-96, it returns 29-Feb-96 because 1996 is a leap year.
@@ -80,8 +81,6 @@ FirstDate = InputBox("Enter a date")
 Number = InputBox("Enter number of months to add")
 Msg = "New date: " & DateAdd(IntervalType, Number, FirstDate)
 MsgBox Msg
-
-
 ```
 
 

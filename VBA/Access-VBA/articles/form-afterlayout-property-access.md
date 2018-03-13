@@ -35,7 +35,6 @@ The following example specifies that when the  **AfterLayout** event occurs on t
 
 ```vb
 Forms(0).AfterLayout = "[Event Procedure]" 
-
 ```
 
 

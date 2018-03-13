@@ -36,11 +36,10 @@ Private Function FilenameFromURL(FileURL As String) As String
     intLastSeparator = InStrRev(FileURL, "/") 
     FilenameFromURL = Right(FileURL, Len(FileURL) - intLastSeparator) 
 End Function 
- 
+
 Private Function URLDecode(URLtoDecode As String) As String 
     URLDecode = Replace(URLtoDecode, "%20", " ") 
 End Function 
-
 ```
 
 Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collection to return a specific **SharedWorkspaceFile** object. Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each file. The following example returns the number of files in the shared workspace and information about each file, using the supporting functions shown above.
@@ -64,7 +63,6 @@ Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collectio
     MsgBox strFileInfo, vbInformation + vbOKOnly, _ 
         "Files in Shared Workspace" 
     Set swsFile = Nothing 
-
 ```
 
 

@@ -22,7 +22,6 @@ This example applies glow to the text in the second shape on the second slide in
 With ActivePresentation.Slides(2).Shapes(2) 
  .Text.Font.Glowformat = msoGlowType2 
 End With 
-
 ```
 
 

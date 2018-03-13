@@ -31,7 +31,7 @@ This example uses the  **Option Base** statement to override the default base ar
 
 ```vb
 Option Base 1 ' Set default array subscripts to 1. 
- 
+
 Dim Lower 
 Dim MyArray(20), TwoDArray(3, 4) ' Declare array variables. 
 Dim ZeroArray(0 To 5) ' Override default base subscript. 
@@ -39,7 +39,6 @@ Dim ZeroArray(0 To 5) ' Override default base subscript.
 Lower = LBound(MyArray) ' Returns 1. 
 Lower = LBound(TwoDArray, 2) ' Returns 1. 
 Lower = LBound(ZeroArray) ' Returns 0. 
-
 ```
 
 

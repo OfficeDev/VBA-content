@@ -49,8 +49,6 @@ With myDocument.Shapes(1).TextFrame.TextRange
     End If
 
 End With
-
-
 ```
 
 

@@ -51,7 +51,6 @@ This example sets the marker style for series one in Chart1. The example should 
 ```vb
 Charts("Chart1").SeriesCollection(1) _ 
  .MarkerStyle = xlMarkerStyleCircle 
-
 ```
 
 

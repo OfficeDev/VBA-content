@@ -20,12 +20,13 @@ Used at [procedure level](vbe-glossary.md) to declare [variables](vbe-glossary.m
 The  **Static** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _varname_|Required. Name of the variable; follows standard variable naming conventions.|
-| _subscripts_|Optional. Dimensions of an [array](vbe-glossary.md) variable; up to 60 multiple dimensions may be declared. The _subscripts_ [argument](vbe-glossary.md) uses the following syntax: [ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .** When not explicitly stated in _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
-|**New**|Optional. [Keyword](vbe-glossary.md) that enables implicit creation of an object. If you use **New** when declaring the [object variable](vbe-glossary.md), a new instance of the object is created on first reference to it, so you don't have to use the  **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic [data type](vbe-glossary.md) and can't be used to declare instances of dependent objects.|
-| _type_|Optional. Data type of the variable; may be [Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported), [Date](vbe-glossary.md), [String](vbe-glossary.md), (for variable-length strings),  **String** * _length_ (for fixed-length strings), [Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an [object type](vbe-glossary.md). Use a separate  **As** _type_ clause for each variable being defined.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>varname</em>      | Required. Name of the variable; follows standard variable naming conventions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| <em>subscripts</em>   | Optional. Dimensions of an [array](vbe-glossary.md) variable; up to 60 multiple dimensions may be declared. The <em>subscripts</em> [argument](vbe-glossary.md) uses the following syntax: [ <em>lower</em><strong>To</strong> ] <em>upper</em> [ <strong>,</strong> [ <em>lower</em><strong>To</strong> ] <em>upper</em> ] <strong>. . .</strong> When not explicitly stated in <em>lower</em>, the lower bound of an array is controlled by the <strong>Option</strong> <strong>Base</strong> statement. The lower bound is zero if no <strong>Option</strong> <strong>Base</strong> statement is present.                                                                            |
+| <strong>New</strong>  | Optional. [Keyword](vbe-glossary.md) that enables implicit creation of an object. If you use <strong>New</strong> when declaring the [object variable](vbe-glossary.md), a new instance of the object is created on first reference to it, so you don't have to use the  <strong>Set</strong> statement to assign the object reference. The <strong>New</strong> keyword can't be used to declare variables of any intrinsic [data type](vbe-glossary.md) and can't be used to declare instances of dependent objects.                                                                                                                                                                  |
+| <em>type</em>         | Optional. Data type of the variable; may be [Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported), [Date](vbe-glossary.md), [String](vbe-glossary.md), (for variable-length strings),  <strong>String</strong> * <em>length</em> (for fixed-length strings), [Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an [object type](vbe-glossary.md). Use a separate  <strong>As</strong> <em>type</em> clause for each variable being defined. |
+
  **Remarks**
 Once [module](vbe-glossary.md) code is running, variables declared with the **Static** [statement](vbe-glossary.md) retain their value until the module is reset or restarted. In [class modules](vbe-glossary.md), variables declared with the  **Static** statement retain their value in each class instance until that instance is destroyed. In [form modules](vbe-glossary.md), static variables retain their value until the form is closed. Use the  **Static** statement in nonstatic [procedure](vbe-glossary.md)s to explicitly declare variables that are visible only within the procedure, but whose lifetime is the same as the module in which the procedure is defined.
 Use a  **Static** statement within a procedure to declare the data type of a variable that retains its value between procedure calls. For example, the following statement declares a fixed-size array of integers:
@@ -34,7 +35,6 @@ Use a  **Static** statement within a procedure to declare the data type of a var
 
 ```
 Static EmployeeNumber(200) As Integer 
-
 ```
 
 The following statement declares a variable for a new instance of a worksheet:
@@ -43,7 +43,6 @@ The following statement declares a variable for a new instance of a worksheet:
 
 ```
 Static X As New Worksheet 
-
 ```
 
 If the  **New** keyword isn't used when declaring an object variable, the variable that refers to the object must be assigned an existing object using the **Set** statement before it can be used. Until it is assigned an object, the declared object variable has the special value **Nothing**, which indicates that it doesn't refer to any particular instance of an object. When you use the **New** keyword in the [declaration](vbe-glossary.md), an instance of the object is created on the first reference to the object.
@@ -69,7 +68,7 @@ Function KeepTotal(Number)
     Accumulate = Accumulate + Number 
     KeepTotal = Accumulate 
 End Function 
- 
+
 ' Static function definition. 
 Static Function MyFunction(Arg1, Arg2, Arg3) 
     ' All local variables preserve value between function calls. 

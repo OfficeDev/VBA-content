@@ -86,7 +86,7 @@ Sub Populate_Combobox_Worksheet_Collection()
         ncData.Add vaData(lnCount, 1), CStr(vaData(lnCount, 1))
     Next lnCount
     On Error GoTo 0
-    
+
     'Clear the combo box (in case you ran the macro before),
     'and then add each unique variant item from ncData to the combo box.
     With wsSheet.OLEObjects("ComboBox1").Object
@@ -102,6 +102,7 @@ End Sub
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 

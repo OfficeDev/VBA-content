@@ -18,7 +18,7 @@ Occurs when the parent XML node of the current selection changes.
 
 ## Syntax
 
-Private Sub  _expression_ _**XMLSelectionChange**( **_Sel_** , **_OldXMLNode_** , **_NewXMLNode_** , **_Reason_** )
+Private Sub  <em>expression</em> <em><strong>XMLSelectionChange</strong>( **_Sel</em>** , <strong><em>OldXMLNode</em></strong> , <strong><em>NewXMLNode</em></strong> , <strong><em>Reason</em></strong> )
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object that has been declared in a class module by using the **WithEvents** keyword. For more information about using events with the **Application** object, see[Using Events with the Application Object](http://msdn.microsoft.com/library/784c4c61-7e47-3dbf-46f6-da655f786ca1%28Office.15%29.aspx).
 

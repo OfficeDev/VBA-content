@@ -38,9 +38,6 @@ Dim objSection As Section
 ActiveDocument.Pages.Add Count:=3, After:=1 
 Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2) 
 objSection.ContinueNumbersFromPreviousSection = False 
- 
- 
-
 ```
 
 

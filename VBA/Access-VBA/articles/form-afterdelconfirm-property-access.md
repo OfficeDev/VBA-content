@@ -35,7 +35,6 @@ The following example specifies that when the  **AfterDelConfirm** event occurs 
 
 ```vb
 Forms(0).After DelConfirm = "[Event Procedure]" 
-
 ```
 
 

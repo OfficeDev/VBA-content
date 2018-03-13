@@ -36,10 +36,11 @@ The  **WidowControl** property value can be one of the **MsoTriState** constants
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**|The first or last line may appear by itself in a text box.|
-| **msoTrue**|The first or last line will not appear by itself in a text box.|
+| <strong>Constant</strong> | <strong>Description</strong>                                    |
+|:--------------------------|:----------------------------------------------------------------|
+| <strong>msoFalse</strong> | The first or last line may appear by itself in a text box.      |
+| <strong>msoTrue</strong>  | The first or last line will not appear by itself in a text box. |
+
 The default setting for this property is  **msoFalse**.
 
 
@@ -53,7 +54,6 @@ Dim objParaForm As ParagraphFormat
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange.Paragraphs(1).ParagraphFormat 
 objParaForm.WidowControl = msoTrue 
-
 ```
 
 

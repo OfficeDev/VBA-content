@@ -22,11 +22,11 @@ Use the  **[Add](autoformatrules-add-method-outlook.md)** method or the **[Inser
 
 
 -  **[CalendarView](calendarview-object-outlook.md)**
-    
+
 -  **[CardView](cardview-object-outlook.md)**
-    
+
 -  **[TableView](tableview-object-outlook.md)**
-    
+
 
 ### Built-In and Custom Formatting Rules
 
@@ -45,54 +45,52 @@ The following Visual Basic for Applications (VBA) example enumerates the  **[Aut
 
 ```
 Private Sub DisableCustomAutoFormatRules() 
- 
- Dim objTableView As TableView 
- 
- Dim objRule As AutoFormatRule 
- 
- 
- 
- ' Check if the current view is a table view. 
- 
- If Application.ActiveExplorer.CurrentView.ViewType = olTableView Then 
- 
- 
- 
- ' Obtain a TableView object reference to the current view. 
- 
- Set objView = Application.ActiveExplorer.CurrentView 
- 
- 
- 
- ' Enumerate the AutoFormatRules collection for 
- 
- ' the table view, disabling any custom formatting 
- 
- ' rule defined for the view. 
- 
- For Each objRule In objView.AutoFormatRules 
- 
- If Not objRule.Standard Then 
- 
- objRule.Enabled = False 
- 
- End If 
- 
- Next 
- 
- 
- 
- ' Save and apply the table view. 
- 
- objView.Save 
- 
- objView.Apply 
- 
- End If 
- 
-End Sub 
- 
 
+ Dim objTableView As TableView 
+
+ Dim objRule As AutoFormatRule 
+
+
+
+ ' Check if the current view is a table view. 
+
+ If Application.ActiveExplorer.CurrentView.ViewType = olTableView Then 
+
+
+
+ ' Obtain a TableView object reference to the current view. 
+
+ Set objView = Application.ActiveExplorer.CurrentView 
+
+
+
+ ' Enumerate the AutoFormatRules collection for 
+
+ ' the table view, disabling any custom formatting 
+
+ ' rule defined for the view. 
+
+ For Each objRule In objView.AutoFormatRules 
+
+ If Not objRule.Standard Then 
+
+ objRule.Enabled = False 
+
+ End If 
+
+ Next 
+
+
+
+ ' Save and apply the table view. 
+
+ objView.Save 
+
+ objView.Apply 
+
+ End If 
+
+End Sub 
 ```
 
 

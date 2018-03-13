@@ -18,7 +18,7 @@ Occurs when a new container relationship is added to the document.
 
 ## Syntax
 
-Private Sub  _expression_ _**ContainerRelationshipAdded**( **_By Val ShapePair As RelatedShapePairEvent_** )
+Private Sub  <em>expression</em> <em><strong>ContainerRelationshipAdded</strong>( **_By Val ShapePair As RelatedShapePairEvent</em>** )
 
  _expression_ A variable that represents a **[Documents](documents-object-visio.md)** object.
 

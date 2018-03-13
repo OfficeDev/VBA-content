@@ -29,10 +29,11 @@ The  **Vertical** property uses the following settings:
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|Displays, edits, and prints vertical text.|
-|No|**False**|(Default) Does not display, edit, or print vertical text. |
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                              |
+|:-------------------------|:------------------------------|:----------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | Displays, edits, and prints vertical text.                |
+| No                       | <strong>False</strong>        | (Default) Does not display, edit, or print vertical text. |
+
 You can specify how vertical text will be displayed, edited, or printed in the control by setting the  **Vertical** property. If set to Yes, the starting point for inputting text is the upper right corner of the control (the ending point is the lower left corner of the control). If using full pitch characters, the display and print directions are the same as the control for horizontal text. If using half pitch characters, it shifts 90 degrees to the right. The cursor is also rotated 90 degrees to the right in a vertical text control.
 
 

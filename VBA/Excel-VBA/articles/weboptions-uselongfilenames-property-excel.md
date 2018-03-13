@@ -35,7 +35,6 @@ This example disallows the use of long file names as the global default for the 
 
 ```vb
 Application.DefaultWebOptions.UseLongFileNames = False 
-
 ```
 
 

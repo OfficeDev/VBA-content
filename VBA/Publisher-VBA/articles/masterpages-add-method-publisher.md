@@ -48,7 +48,6 @@ ActiveDocument.MasterPages.Add _
  IsTwoPageMaster:=False, _ 
  Abbreviation:="X", _ 
  Description:="Master Page X" 
-
 ```
 
 

@@ -35,14 +35,13 @@ The following example returns the screen position of the top and left edges of t
 
 ```vb
 With Forms(0) 
- 
+
  MsgBox "The form is " &; .WindowLeft _ 
  &; " twips from the left edge of the Access window and " _ 
  &; .WindowTop _ 
  &; " twips from the top edge of the Access window." 
- 
-End With 
 
+End With 
 ```
 
 

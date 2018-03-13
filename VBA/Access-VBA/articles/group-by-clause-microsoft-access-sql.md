@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # GROUP BY Clause (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -25,6 +25,7 @@ Combines records with identical values in the specified field list into a single
 
 ## Syntax
 <a name="sectionSection0"> </a>
+
 
 SELECT  _fieldlist_ FROM _table_ WHERE _criteria_ [GROUP BY _groupfieldlist_ ]
 
@@ -42,6 +43,7 @@ A SELECT statement containing a GROUP BY clause has these parts:
 ## Remarks
 <a name="sectionSection1"> </a>
 
+
 GROUP BY is optional.
 
 Summary values are omitted if there is no SQL aggregate function in the SELECT statement.
@@ -58,6 +60,7 @@ All fields in the SELECT field list must either be included in the GROUP BY clau
 ## Example
 <a name="sectionSection2"> </a>
 
+
 This example creates a list of unique job titles and the number of employees with each title.
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
@@ -67,31 +70,30 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub GroupByX1() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' For each title, count the number of employees  
     ' with that title.  
     Set rst = dbs.OpenRecordset("SELECT Title, " _ 
         &; "Count([Title]) AS Tally " _ 
         &; "FROM Employees GROUP BY Title;") 
-     
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 25 
- 
-    dbs.Close 
- 
-End Sub 
 
+    dbs.Close 
+
+End Sub 
 ```
 
 For each unique job title, this example calculates the number of employees in Washington who have that title.
@@ -101,13 +103,13 @@ For each unique job title, this example calculates the number of employees in Wa
 
 ```vb
 Sub GroupByX2() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
-     
+
     ' For each title, count the number of employees  
     ' with that title. Only include employees in the  
     ' Washington region. 
@@ -115,19 +117,18 @@ Sub GroupByX2()
         &; "Count(Title) AS Tally " _ 
         &; "FROM Employees WHERE Region = 'WA' " _ 
         &; "GROUP BY Title;") 
-     
+
     ' Populate the Recordset. 
     rst.MoveLast 
- 
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 25 
- 
-    dbs.Close 
- 
-End Sub 
 
+    dbs.Close 
+
+End Sub 
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

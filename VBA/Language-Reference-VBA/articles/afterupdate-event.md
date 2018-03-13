@@ -21,9 +21,10 @@ Occurs after data in a control is changed through the user interface.
 The  **AfterUpdate** event syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
 The AfterUpdate event occurs regardless of whether the control is [bound](glossary-vba.md) (that is, when the **RowSource** property specifies a[data source](glossary-vba.md) for the control). This event cannot be canceled. If you want to cancel the update (to restore the previous value of the control), use the BeforeUpdate event and set the _Cancel_ argument to **True**.
 The AfterUpdate event occurs after the BeforeUpdate event and before the Exit event for the current control and before the Enter event for the next control in the [tab order](vbe-glossary.md).

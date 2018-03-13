@@ -40,11 +40,11 @@ This example adds an oval to the active publication. If shape one on the active 
 
 ```vb
 Dim ffNew As FillFormat 
- 
+
 With ActiveDocument.Pages(1).Shapes 
  Set ffNew = .AddShape(Type:=msoShapeOval, _ 
  Left:=0, Top:=0, Width:=200, Height:=90).Fill 
- 
+
  With .Item(1).Fill 
  If .Type = msoFillTextured And _ 
  .TextureType = msoTextureUserDefined Then 
@@ -56,7 +56,6 @@ With ActiveDocument.Pages(1).Shapes
  End If 
  End With 
 End With 
-
 ```
 
 

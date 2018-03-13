@@ -18,7 +18,7 @@ Occurs before removing a content control from a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**ContentControlBeforeDelete**( **_OldContentControl_** , **_InUndoRedo_** )
+Private Sub  <em>expression</em> <em><strong>ContentControlBeforeDelete</strong>( **_OldContentControl</em>** , <strong><em>InUndoRedo</em></strong> )
 
  _expression_ An expression that returns a **[Document](document-object-word.md)** object.
 

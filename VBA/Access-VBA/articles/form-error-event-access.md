@@ -45,7 +45,7 @@ By running an event procedure or a macro when an Error event occurs, you can int
 
 
 - [Handling Access Errors with VBA](http://www.utteraccess.com/wiki/index.php/Error_Handling)
-    
+
 
 ## Example
 
@@ -60,7 +60,7 @@ To try the example, add the following event procedure to a form that is based on
 Private Sub Form_Error(DataErr As Integer, Response As Integer) 
     Const conDuplicateKey = 3022 
     Dim strMsg As String 
- 
+
     If DataErr = conDuplicateKey Then 
         Response = acDataErrContinue 
         strMsg = "Each employee record must have a unique " _ 
@@ -107,6 +107,7 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. 
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
@@ -114,6 +115,7 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

@@ -29,8 +29,11 @@ The  **Type** property value can be one of these **PbStoryType** constants
 
 
 
-| **pbStoryContinuedFrom**|
-| **pbStoryContinuedOn**|
-| **pbStoryTable**|
-| **pbStoryTextFrame**|
+| <strong>pbStoryContinuedFrom</strong>|
+| 
+<strong>pbStoryContinuedOn</strong>|
+| 
+<strong>pbStoryTable</strong>|
+| 
+<strong>pbStoryTextFrame</strong>|
 

@@ -21,18 +21,20 @@ Specifies when to show the drop-down button for a  **ComboBox** or **TextBox**.
 The  **ShowDropButtonWhen** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmShowDropButtonWhen_|Optional. The circumstances under which the drop-down button will be visible.|
+| <strong>Part</strong>         | <strong>Description</strong>                                                  |
+|:------------------------------|:------------------------------------------------------------------------------|
+| <em>object</em>               | Required. A valid object.                                                     |
+| <em>fmShowDropButtonWhen</em> | Optional. The circumstances under which the drop-down button will be visible. |
+
  **Settings**
 The settings for  _fmShowDropButtonWhen_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmShowDropButtonWhenNever_|0|Do not show the drop-down button under any circumstances.|
-| _fmShowDropButtonWhenFocus_|1|Show the drop-down button when the control has the focus.|
-| _fmShowDropButtonWhenAlways_|2|Always show the drop-down button.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>                              |
+|:------------------------------------|:-----------------------|:----------------------------------------------------------|
+| <em>fmShowDropButtonWhenNever</em>  | 0                      | Do not show the drop-down button under any circumstances. |
+| <em>fmShowDropButtonWhenFocus</em>  | 1                      | Show the drop-down button when the control has the focus. |
+| <em>fmShowDropButtonWhenAlways</em> | 2                      | Always show the drop-down button.                         |
+
 For a  **ComboBox**, the default value is _fmShowDropButtonWhenAlways_; for a **TextBox**, the default value is _fmShowDropButtonWhenNever_.
 

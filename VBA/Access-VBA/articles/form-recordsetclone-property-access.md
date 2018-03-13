@@ -38,7 +38,7 @@ When a new  **Recordset** object is opened, its first record is the current reco
 
 
 - [Transfer data from Access to Excel](http://www.utteraccess.com/forum/Transfer-data-Access-Ex-t1672619.html)
-    
+
 
 ## Example
 
@@ -49,7 +49,7 @@ The following example uses the  **RecordsetClone** property to create a new clon
 Sub Print_Field_Names() 
     Dim rst As Recordset, intI As Integer 
     Dim fld As Field 
- 
+
     Set rst = Me.RecordsetClone 
     For Each fld in rst.Fields 
         ' Print field names. 
@@ -67,7 +67,7 @@ The next example uses the  **RecordsetClone** property and the **Recordset** obj
 Sub SupplierID_AfterUpdate() 
     Dim rst As Recordset 
     Dim strSearchName As String 
- 
+
     Set rst = Me.RecordsetClone 
     strSearchName = Str(Me!SupplierID) 
     rst.FindFirst "SupplierID = " &; strSearchName 
@@ -96,11 +96,13 @@ MsgBox "My form contains " _
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

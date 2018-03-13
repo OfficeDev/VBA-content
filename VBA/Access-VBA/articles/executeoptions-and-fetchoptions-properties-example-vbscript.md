@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ExecuteOptions and FetchOptions Properties Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -49,6 +49,7 @@ font-size: x-small;}
 <TD><SPAN DATAFLD="LastName"></SPAN></TD></TR>
 </TBODY></TABLE> 
 </body></html>
+
 <!-- EndExecuteOptionsDesignVBS -->
 ```
 
@@ -93,7 +94,6 @@ RDS1.ExecuteOptions = adcExecSyncRDS1.FetchOptions = adcFetchAsynch
 RDS.RefreshEnd Sub
 </Script></body>
 </html><!-- EndExecuteOptionsRuntimeVBS -->
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

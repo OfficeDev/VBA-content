@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Handler Property Example (VB)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,13 +19,12 @@ Assume that the following sections in the parameter file, Msdfmap.ini, are locat
 
 
 ```sql
- 
+
 [connect AuthorDataBase] 
 Access=ReadWrite 
 Connect="DSN=Pubs" 
 [sql AuthorById] 
 SQL="SELECT * FROM Authors WHERE au_id = ?" 
-
 ```
 
 Your code looks like the following. The command assigned to the [SQL](sql-property-ado.md) property will match the ** _AuthorById_** identifier and will retrieve a row for author Michael O'Leary. The **DataControl** object **Recordset** property is assigned to a disconnected[Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) object purely as a coding convenience.

@@ -30,14 +30,13 @@ This example converts all fills on the first page of the active publication to u
 
 ```vb
 Dim shpLoop As Shape 
- 
+
 For Each shpLoop In ActiveDocument.Pages(1).Shapes 
  With shpLoop.Fill 
  .Solid 
  .ForeColor.RGB = RGB(255, 0, 0) 
  End With 
 Next shpLoop 
-
 ```
 
 

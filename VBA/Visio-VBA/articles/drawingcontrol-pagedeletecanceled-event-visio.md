@@ -15,7 +15,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _**PageDeleteCanceled**( **_ByVal page As [IVPAGE]_** )
+Private Sub  <em>expression</em> <em><strong>PageDeleteCanceled</strong>( **_ByVal page As [IVPAGE]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

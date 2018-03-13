@@ -22,10 +22,11 @@ Skips a specified number of characters when reading a  **TextStream** file.
 The  **Skip** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **TextStream** object.|
-| _characters_|Required. Number of characters to skip when reading a file.|
+| <strong>Part</strong> | <strong>Description</strong>                                        |
+|:----------------------|:--------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>TextStream</strong> object. |
+| <em>characters</em>   | Required. Number of characters to skip when reading a file.         |
+
  **Remarks**
 Skipped characters are discarded.
 

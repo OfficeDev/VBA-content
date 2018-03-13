@@ -22,10 +22,11 @@ Define the dimensions and location of the display area of a  **TabStrip**.
 The  **ClientHeight**, **ClientLeft**, **ClientTop**, and **ClientWidth** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Single_|Optional. For  **ClientHeight** and **ClientWidth**, specifies the height or width, in points, of the display area. For **ClientLeft** and **ClientTop**, specifies the distance, in points, from the top or left edge of the **TabStrip's** container.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                             |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                                                                                                                                                                                                                                                |
+| <em>Single</em>       | Optional. For  <strong>ClientHeight</strong> and <strong>ClientWidth</strong>, specifies the height or width, in points, of the display area. For <strong>ClientLeft</strong> and <strong>ClientTop</strong>, specifies the distance, in points, from the top or left edge of the <strong>TabStrip's</strong> container. |
+
  **Remarks**
 At [run time](vbe-glossary.md),  **ClientLeft**, **ClientTop**, **ClientHeight**, and **ClientWidth** automatically store the coordinates and dimensions of the **TabStrip's** internal area, which is shared by objects in the **TabStrip**.
 

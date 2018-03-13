@@ -35,11 +35,15 @@ The value of the  **Type** property can be one of these **PpTabStopType** consta
 
 ||
 |:-----|
-|**ppTabStopCenter**|
-|**ppTabStopDecimal**|
-|**ppTabStopLeft**|
-|**ppTabStopMixed**|
-|**ppTabStopRight**|
+|<strong>ppTabStopCenter</strong>|
+|
+<strong>ppTabStopDecimal</strong>|
+|
+<strong>ppTabStopLeft</strong>|
+|
+<strong>ppTabStopMixed</strong>|
+|
+<strong>ppTabStopRight</strong>|
 
 ## See also
 

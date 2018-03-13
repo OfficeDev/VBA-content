@@ -24,11 +24,12 @@ To return a reference to a particular  **Page** object in the **Pages** collecti
 
 
 
-|**Syntax**|**Description**|
-|:-----|:-----|
-|**Pages** ! _pagename_|The  _pagename_ argument is the name of the **Page** object.|
-|**Pages** (" _pagename_")|The  _pagename_ argument is the name of the **Page** object.|
-|**Pages** ( _index_)|The  _index_ argument is the numeric position of the object within the collection.|
+| <strong>Syntax</strong>                       | <strong>Description</strong>                                                              |
+|:----------------------------------------------|:------------------------------------------------------------------------------------------|
+| <strong>Pages</strong> ! <em>pagename</em>    | The  <em>pagename</em> argument is the name of the <strong>Page</strong> object.          |
+| <strong>Pages</strong> (" <em>pagename</em>") | The  <em>pagename</em> argument is the name of the <strong>Page</strong> object.          |
+| <strong>Pages</strong> ( <em>index</em>)      | The  <em>index</em> argument is the numeric position of the object within the collection. |
+
 You can create, move, or delete  **Page** objects and set their properties either in Visual Basic or in form Design view. To create a new **Page** object in Visual Basic, use the **Add** method of the **Pages** collection. To delete a **Page** object, use the **Remove** method of the **Pages** collection.
 
 To create a new  **Page** object in form Design view, right-click the tab control and then click **Insert Page** on the shortcut menu. You can also copy an existing page and paste it. You can set the properties of the new **Page** object in form Design view by using the property sheet.

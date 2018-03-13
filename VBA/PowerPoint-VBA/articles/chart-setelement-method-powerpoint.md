@@ -37,13 +37,13 @@ For charts, the following commands in the  **Layout** tab correspond to the **Se
 
 
 - Everything in the  **Labels** group.
-    
+
 - Everything in the  **Axes** group.
-    
+
 - Everything in the  **Analysis** group.
-    
+
 -  **PlotArea**,  **Chart Wall**, and  **Chart Floor** buttons.
-    
+
 
 
  **MsoChartElementType** is an enumeration of constants that refer to all of the above commands.
@@ -87,8 +87,6 @@ With ActiveDocument.InlineShapes(1)
     End If
 
 End With
-
-
 ```
 
 

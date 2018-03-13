@@ -43,10 +43,13 @@ The value of the Type parameter can be one of these  **MsoFileDialogType** const
 
 ||
 |:-----|
-|**msoFileDialogFilePicker**|
-|**msoFileDialogFolderPicker**|
-|**msoFileDialogOpen**|
-|**msoFileDialogSaveAs**|
+|<strong>msoFileDialogFilePicker</strong>|
+|
+<strong>msoFileDialogFolderPicker</strong>|
+|
+<strong>msoFileDialogOpen</strong>|
+|
+<strong>msoFileDialogSaveAs</strong>|
 
 ## Example
 

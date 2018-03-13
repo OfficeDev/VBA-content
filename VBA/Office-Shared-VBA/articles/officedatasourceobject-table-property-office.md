@@ -30,19 +30,18 @@ This example sets the name of the table if the table name is currently blank.
 
 ```
 Sub OfficeTest() 
- 
+
  Dim appOffice As OfficeDataSourceObject 
- 
+
  Set appOffice = Application.OfficeDataSourceObject 
  appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" &amp; _ 
  "UID=user;PWD=;DATABASE=Northwind", bstrTable:="Employees" 
- 
+
  If appOffice.Table = "" Then 
  appOffice.Table = "Employees" 
  End If 
- 
-End Sub 
 
+End Sub 
 ```
 
 

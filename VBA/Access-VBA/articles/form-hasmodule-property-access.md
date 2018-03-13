@@ -29,10 +29,11 @@ The  **HasModule** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The form or report has a class module.|
-|No|**False**|(Default) The form or report doesn't have a class module.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                              |
+|:-------------------------|:------------------------------|:----------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The form or report has a class module.                    |
+| No                       | <strong>False</strong>        | (Default) The form or report doesn't have a class module. |
+
 Setting this property to  **False** can improve the performance and decrease the size of your database.
 
 The  **HasModule** property can be set only in form or report Design view but can be read in any view.

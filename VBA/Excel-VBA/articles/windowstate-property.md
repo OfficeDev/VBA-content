@@ -18,9 +18,11 @@ Returns or sets the state of the window. Read/write XlWindowState .
 
 
 |XlWindowState can be one of these XlWindowState constants.|
-| **xlMaximized**|
-| **xlNormal**|
-| **xlMinimized**|
+| <strong>xlMaximized</strong>|
+| 
+<strong>xlNormal</strong>|
+| 
+<strong>xlMinimized</strong>|
 
  _expression_. **WindowState**
 

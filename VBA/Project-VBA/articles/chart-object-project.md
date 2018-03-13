@@ -36,12 +36,13 @@ To create some sample data, add four tasks to a new project, assign local resour
 **Table 1. Sample data for a simple chart**
 
 
-|**Task name**|**Duration**|**Actual work**|
-|:-----|:-----|:-----|
-|T1|2d|16|
-|T2|5d|19|
-|T3|4d|7|
-|T4|2d|0|
+| <strong>Task name</strong> | <strong>Duration</strong> | <strong>Actual work</strong> |
+|:---------------------------|:--------------------------|:-----------------------------|
+| T1                         | 2d                        | 16                           |
+| T2                         | 5d                        | 19                           |
+| T3                         | 4d                        | 7                            |
+| T4                         | 2d                        | 0                            |
+
 ?
 
 
@@ -51,7 +52,7 @@ To create some sample data, add four tasks to a new project, assign local resour
 Sub AddSimpleScalarChart()
     Dim chartReport As Report
     Dim reportName As String
-    
+
     ' Add a report.
     reportName = "Simple scalar chart"
     Set chartReport = ActiveProject.Reports.Add(reportName)
@@ -59,7 +60,7 @@ Sub AddSimpleScalarChart()
     ' Add a chart.
     Dim chartShape As Shape
     Set chartShape = ActiveProject.Reports(reportName).Shapes.AddChart()
-    
+
     chartShape.Chart.SetElement (msoElementChartTitleCenteredOverlay)
     chartShape.Chart.ChartTitle.Text = "Sample Chart for the Test1 project"
 End Sub
@@ -80,9 +81,9 @@ Sub DeleteTheShape()
     Dim i As Integer
     Dim reportName As String
     Dim theShape As MSProject.Shape
-    
+
     reportName = "Simple scalar chart"
-        
+
     For i = 1 To ActiveProject.Reports.Count
         If ActiveProject.Reports(i).Name = reportName Then
             Set theShape = ActiveProject.Reports(i).Shapes(1)
@@ -101,12 +102,12 @@ To delete the report, go to a different view, and then open the  **Organizer** d
 Sub DeleteTheReport()
     Dim i As Integer
     Dim reportName As String
-    
+
     reportName = "Simple scalar chart"
 
     ' To delete the active report, change to another view.
     ViewApplyEx Name:="&amp;Gantt Chart"
-    
+
     ActiveProject.Reports(reportName).Delete
 End Sub
 ```

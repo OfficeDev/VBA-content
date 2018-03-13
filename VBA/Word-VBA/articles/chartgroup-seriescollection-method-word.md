@@ -40,7 +40,6 @@ With ActiveDocument.InlineShapes(1)
  SeriesCollection(1).HasDataLabels = True 
  End If 
 End With 
-
 ```
 
 

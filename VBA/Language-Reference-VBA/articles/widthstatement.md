@@ -38,7 +38,6 @@ For I = 0 To 9 ' Loop 10 times.
  Print #1, Chr(48 + I); ' Prints five characters per line. 
 Next I 
 Close #1 ' Close file. 
-
 ```
 
 

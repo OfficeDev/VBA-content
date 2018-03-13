@@ -35,7 +35,6 @@ The following example specifies that when the  **PivotTableChange** event occurs
 
 ```vb
 Forms(0).PivotTableChange = "[Event Procedure]" 
-
 ```
 
 

@@ -19,39 +19,41 @@ Displays a message in a dialog box, waits for the user to click a button, and re
 The  **MsgBox** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_prompt_**|Required. [String expression](vbe-glossary.md) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character ( **Chr(** 13 **)** ), a linefeed character ( **Chr(** 10 **)** ), or carriage return - linefeed character combination ( **Chr(** 13 **)** &; **Chr(** 10 **)** ) between each line.|
-|**_buttons_**|Optional. [Numeric expression](vbe-glossary.md) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for **_buttons_** is 0.|
-|**_title_**|Optional. String expression displayed in the title bar of the dialog box. If you omit  **_title_**, the application name is placed in the title bar.|
-|**_helpfile_**|Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If  **_helpfile_** is provided, **_context_** must also be provided.|
-|**_context_**|Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If  **_context_** is provided, **_helpfile_** must also be provided.|
+| <strong>Part</strong>              | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>prompt</em></strong>   | Required. [String expression](vbe-glossary.md) displayed as the message in the dialog box. The maximum length of <strong><em>prompt</em></strong> is approximately 1024 characters, depending on the width of the characters used. If <strong><em>prompt</em></strong> consists of more than one line, you can separate the lines using a carriage return character ( <strong>Chr(</strong> 13 <strong>)</strong> ), a linefeed character ( <strong>Chr(</strong> 10 <strong>)</strong> ), or carriage return - linefeed character combination ( <strong>Chr(</strong> 13 <strong>)</strong> &; <strong>Chr(</strong> 10 <strong>)</strong> ) between each line. |
+| <strong><em>buttons</em></strong>  | Optional. [Numeric expression](vbe-glossary.md) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for <strong><em>buttons</em></strong> is 0.                                                                                                                                                                                                                                                                                                                                                        |
+| <strong><em>title</em></strong>    | Optional. String expression displayed in the title bar of the dialog box. If you omit  <strong><em>title</em></strong>, the application name is placed in the title bar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <strong><em>helpfile</em></strong> | Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If  <strong><em>helpfile</em></strong> is provided, <strong><em>context</em></strong> must also be provided.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| <strong><em>context</em></strong>  | Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If  <strong><em>context</em></strong> is provided, <strong><em>helpfile</em></strong> must also be provided.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
  **Settings**
 The  **_buttons_**[argument](vbe-glossary.md) settings are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbOKOnly**|0|Display  **OK** button only.|
-|**vbOKCancel**|1|Display  **OK** and **Cancel** buttons.|
-|**vbAbortRetryIgnore**|2|Display  **Abort**, **Retry**, and **Ignore** buttons.|
-|**vbYesNoCancel**|3|Display  **Yes**, **No**, and **Cancel** buttons.|
-|**vbYesNo**|4|Display  **Yes** and **No** buttons.|
-|**vbRetryCancel**|5|Display  **Retry** and **Cancel** buttons.|
-|**vbCritical**|16|Display  **Critical Message** icon.|
-|**vbQuestion**|32|Display  **Warning Query** icon.|
-|**vbExclamation**|48|Display  **Warning Message** icon.|
-|**vbInformation**|64|Display  **Information Message** icon.|
-|**vbDefaultButton1**|0|First button is default.|
-|**vbDefaultButton2**|256|Second button is default.|
-|**vbDefaultButton3**|512|Third button is default.|
-|**vbDefaultButton4**|768|Fourth button is default.|
-|**vbApplicationModal**|0|Application modal; the user must respond to the message box before continuing work in the current application.|
-|**vbSystemModal**|4096|System modal; all applications are suspended until the user responds to the message box.|
-|**vbMsgBoxHelpButton**|16384|Adds Help button to the message box.|
-|**VbMsgBoxSetForeground**|65536|Specifies the message box window as the foreground window.|
-|**vbMsgBoxRight**|524288|Text is right aligned.|
-|**vbMsgBoxRtlReading**|1048576|Specifies text should appear as right-to-left reading on Hebrew and Arabic systems.|
+| <strong>Constant</strong>              | <strong>Value</strong> | <strong>Description</strong>                                                                                   |
+|:---------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------|
+| <strong>vbOKOnly</strong>              | 0                      | Display  <strong>OK</strong> button only.                                                                      |
+| <strong>vbOKCancel</strong>            | 1                      | Display  <strong>OK</strong> and <strong>Cancel</strong> buttons.                                              |
+| <strong>vbAbortRetryIgnore</strong>    | 2                      | Display  <strong>Abort</strong>, <strong>Retry</strong>, and <strong>Ignore</strong> buttons.                  |
+| <strong>vbYesNoCancel</strong>         | 3                      | Display  <strong>Yes</strong>, <strong>No</strong>, and <strong>Cancel</strong> buttons.                       |
+| <strong>vbYesNo</strong>               | 4                      | Display  <strong>Yes</strong> and <strong>No</strong> buttons.                                                 |
+| <strong>vbRetryCancel</strong>         | 5                      | Display  <strong>Retry</strong> and <strong>Cancel</strong> buttons.                                           |
+| <strong>vbCritical</strong>            | 16                     | Display  <strong>Critical Message</strong> icon.                                                               |
+| <strong>vbQuestion</strong>            | 32                     | Display  <strong>Warning Query</strong> icon.                                                                  |
+| <strong>vbExclamation</strong>         | 48                     | Display  <strong>Warning Message</strong> icon.                                                                |
+| <strong>vbInformation</strong>         | 64                     | Display  <strong>Information Message</strong> icon.                                                            |
+| <strong>vbDefaultButton1</strong>      | 0                      | First button is default.                                                                                       |
+| <strong>vbDefaultButton2</strong>      | 256                    | Second button is default.                                                                                      |
+| <strong>vbDefaultButton3</strong>      | 512                    | Third button is default.                                                                                       |
+| <strong>vbDefaultButton4</strong>      | 768                    | Fourth button is default.                                                                                      |
+| <strong>vbApplicationModal</strong>    | 0                      | Application modal; the user must respond to the message box before continuing work in the current application. |
+| <strong>vbSystemModal</strong>         | 4096                   | System modal; all applications are suspended until the user responds to the message box.                       |
+| <strong>vbMsgBoxHelpButton</strong>    | 16384                  | Adds Help button to the message box.                                                                           |
+| <strong>VbMsgBoxSetForeground</strong> | 65536                  | Specifies the message box window as the foreground window.                                                     |
+| <strong>vbMsgBoxRight</strong>         | 524288                 | Text is right aligned.                                                                                         |
+| <strong>vbMsgBoxRtlReading</strong>    | 1048576                | Specifies text should appear as right-to-left reading on Hebrew and Arabic systems.                            |
+
 The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When adding numbers to create a final value for the  **_buttons_** argument, use only one number from each group.
 
  **Note**  These [constants](vbe-glossary.md) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
@@ -59,15 +61,16 @@ The first group of values (0-5) describes the number and type of buttons display
  **Return Values**
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbOK**|1|**OK**|
-|**vbCancel**|2|**Cancel**|
-|**vbAbort**|3|**Abort**|
-|**vbRetry**|4|**Retry**|
-|**vbIgnore**|5|**Ignore**|
-|**vbYes**|6|**Yes**|
-|**vbNo**|7|**No**|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------|:-----------------------|:-----------------------------|
+| <strong>vbOK</strong>     | 1                      | <strong>OK</strong>          |
+| <strong>vbCancel</strong> | 2                      | <strong>Cancel</strong>      |
+| <strong>vbAbort</strong>  | 3                      | <strong>Abort</strong>       |
+| <strong>vbRetry</strong>  | 4                      | <strong>Retry</strong>       |
+| <strong>vbIgnore</strong> | 5                      | <strong>Ignore</strong>      |
+| <strong>vbYes</strong>    | 6                      | <strong>Yes</strong>         |
+| <strong>vbNo</strong>     | 7                      | <strong>No</strong>          |
+
  **Remarks**
 When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](vbe-glossary.md), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
 If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.
@@ -95,7 +98,6 @@ If Response = vbYes Then    ' User chose Yes.
 Else    ' User chose No.
     MyString = "No"    ' Perform some action.
 End If
-
 ```
 
 

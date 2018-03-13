@@ -23,7 +23,6 @@ For example, to change the value of a custom field called Fax, you use the follo
 
 ```
 Item.UserProperties.Find("Fax").Value = "555-1234"
-
 ```
 
 Note that since this is a field, you do not need to specify the page or the control the field is bound to. In the following code example, a control called txtFax is made invisible. When you work with a control, you must specify the page and the control name.

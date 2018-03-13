@@ -37,8 +37,9 @@ The Orientation parameter can be one of the following  **PbNavBarOrientation** c
 
 
 
-| **pbNavBarOrientHorizontal**|
-| **pbNavBarOrientVertical**|
+| <strong>pbNavBarOrientHorizontal</strong>|
+| 
+<strong>pbNavBarOrientVertical</strong>|
 
 ## Example
 

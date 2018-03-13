@@ -21,12 +21,11 @@ The following code example opens a dynaset-type  **Recordset** object, and uses 
 ```vb
 Dim dbsNorthwind As DAO.Database 
 Dim rstManagers As DAO.Recordset 
- 
+
 Set dbsNorthwind = CurrentDb 
 Set rstManagers = dbsNorthwind.OpenRecordset("SELECT FirstName, " &; _ 
                   "LastName FROM Employees WHERE Title = " &; _ 
                   "'Sales Manager' ORDER BY LastName") 
-
 ```
 
 One limitation of running an SQL query in an  **OpenRecordset** method is that it has to be recompiled every time you run it. If this query is used frequently, you can improve performance by first creating a stored query using the same SQL statement, and then opening a **Recordset** object against the query, as shown in the following code example.
@@ -37,15 +36,14 @@ One limitation of running an SQL query in an  **OpenRecordset** method is that i
 Dim dbsNorthwind As DAO.Database 
 Dim rstSalesReps As DAO.Recordset 
 Dim qdfSalesReps As DAO.QueryDef 
- 
+
 Set dbsNorthwind = CurrentDb 
- 
+
 Set qdfSalesReps = dbsNorthwind.CreateQueryDef("SalesRepQuery") 
 qdfSalesReps.SQL = "SELECT * FROM Employees WHERE Title = " &; _ 
                    "'Sales Representative'" 
- 
-Set rstSalesReps = dbsNorthwind.OpenRecordset("SalesRepQuery") 
 
+Set rstSalesReps = dbsNorthwind.OpenRecordset("SalesRepQuery") 
 ```
 
 

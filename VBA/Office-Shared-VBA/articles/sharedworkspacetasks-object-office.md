@@ -32,7 +32,6 @@ Use the  **[Tasks](sharedworkspace-tasks-property-office.md)** property of the *
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsTasks = Nothing 
-
 ```
 
 

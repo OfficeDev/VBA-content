@@ -31,17 +31,16 @@ Sub ListPolicyItems()
 Dim objSrvPolicy As ServerPolicy 
 Dim objPolicyItem As PolicyItem 
 Dim strPolicyItemList As String 
- 
+
 Set objSrvPolicy = ActiveDocument.ServerPolicy 
- 
+
 For Each objPolicyItem In objSrvPolicy 
  strPolicyItemList = "Policy Item " &amp; objPolicyItem.Name &amp; " - " &amp; _ 
  objPolicyItem.Description &amp; vbCrLf 
 Next 
 MsgBox (strPolicyItemList) 
- 
-End Sub 
 
+End Sub 
 ```
 
 

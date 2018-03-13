@@ -34,10 +34,11 @@ The property value can be one of the  **MsoTriState** constants declared in the 
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**|The control uses the Visual Basic  **Get** method to submit form data.|
-| **msoTrue**|The control uses the Visual Basic  **Post** method to submit form data. The default value.|
+| <strong>Constant</strong> | <strong>Description</strong>                                                                            |
+|:--------------------------|:--------------------------------------------------------------------------------------------------------|
+| <strong>msoFalse</strong> | The control uses the Visual Basic  <strong>Get</strong> method to submit form data.                     |
+| <strong>msoTrue</strong>  | The control uses the Visual Basic  <strong>Post</strong> method to submit form data. The default value. |
+
 This property is ignored for  **Reset** command buttons.
 
 
@@ -48,11 +49,11 @@ This example creates a Web form Submit command button and sets the script path a
 
 ```vb
 Dim shpNew As Shape 
- 
+
 Set shpNew = ActiveDocument.Pages(1).Shapes.AddWebControl _ 
  (Type:=pbWebControlCommandButton, Left:=150, _ 
  Top:=150, Width:=75, Height:=36) 
- 
+
 With shpNew.WebCommandButton 
  .ButtonText = "Submit" 
  .ButtonType = pbCommandButtonSubmit 

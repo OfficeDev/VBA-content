@@ -19,10 +19,11 @@ Returns or sets a value specifying the type of calendar to use with your [projec
 You can use one of two settings for  **Calendar**:
 
 
-|**Setting**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbCalGreg**|0|Use Gregorian calendar (default).|
-|**vbCalHijri**|1|Use Hijri calendar.|
+| <strong>Setting</strong>    | <strong>Value</strong> | <strong>Description</strong>      |
+|:----------------------------|:-----------------------|:----------------------------------|
+| <strong>vbCalGreg</strong>  | 0                      | Use Gregorian calendar (default). |
+| <strong>vbCalHijri</strong> | 1                      | Use Hijri calendar.               |
+
  **Remarks**
 You can only set the  **Calendar** property programmatically. For example, to use the Hijri calendar, use:
 
@@ -30,8 +31,6 @@ You can only set the  **Calendar** property programmatically. For example, to us
 
 ```
 Calendar = vbCalHijri
-
-
 ```
 
 

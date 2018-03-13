@@ -29,10 +29,11 @@ The  **PictureTiling** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The picture is tiled.|
-|No|**False**|(Default) The picture isn't tiled.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>       |
+|:-------------------------|:------------------------------|:-----------------------------------|
+| Yes                      | <strong>True</strong>         | The picture is tiled.              |
+| No                       | <strong>False</strong>        | (Default) The picture isn't tiled. |
+
 You can also set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 

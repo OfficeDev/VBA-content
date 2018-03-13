@@ -35,7 +35,6 @@ Do While Not EOF(1)    ' Check for end of file.
     Debug.Print InputData    ' Print to the Immediate window.
 Loop
 Close #1    ' Close file.
-
 ```
 
 

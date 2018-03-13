@@ -41,21 +41,22 @@ Toggles the display of a timescale data field in a usage view.
 If the active view is the  **Resource Usage** view, can be one of the following **PjTimescaledData** constants:
 
 
-|||
-|:-----|:-----|
-|**pjActualCost**|**pjCumulativeCost**|
-|**pjActualOvertimeWork**|**pjCumulativeWork**|
-|**pjActualWork**|**pjCV**|
-|**pjACWP**|**pjOverallocation**|
-|**pjAllAssignmentRows**|**pjOvertimeWork**|
-|**pjAllResourceRows**|**pjPeakUnits**|
-|**pjBaselineCost**|**pjPercentAllocation**|
-|**pjBaselineWork**|**pjRegularWork**|
-|**pjBaseline1-10Cost**|**pjRemainingAvailability**|
-|**pjBaseline1-10Work**|**pjSV**|
-|**pjBCWP**|**pjWork**|
-|**pjBCWS**|**pjWorkAvailability**|
-|**pjCost**||
+|                                       |                                          |
+|:--------------------------------------|:-----------------------------------------|
+| <strong>pjActualCost</strong>         | <strong>pjCumulativeCost</strong>        |
+| <strong>pjActualOvertimeWork</strong> | <strong>pjCumulativeWork</strong>        |
+| <strong>pjActualWork</strong>         | <strong>pjCV</strong>                    |
+| <strong>pjACWP</strong>               | <strong>pjOverallocation</strong>        |
+| <strong>pjAllAssignmentRows</strong>  | <strong>pjOvertimeWork</strong>          |
+| <strong>pjAllResourceRows</strong>    | <strong>pjPeakUnits</strong>             |
+| <strong>pjBaselineCost</strong>       | <strong>pjPercentAllocation</strong>     |
+| <strong>pjBaselineWork</strong>       | <strong>pjRegularWork</strong>           |
+| <strong>pjBaseline1-10Cost</strong>   | <strong>pjRemainingAvailability</strong> |
+| <strong>pjBaseline1-10Work</strong>   | <strong>pjSV</strong>                    |
+| <strong>pjBCWP</strong>               | <strong>pjWork</strong>                  |
+| <strong>pjBCWS</strong>               | <strong>pjWorkAvailability</strong>      |
+| <strong>pjCost</strong>               |                                          |
+
 If the active view is the  **Task Usage** view, can be one of the following **PjTimescaledData** constants:
 
 

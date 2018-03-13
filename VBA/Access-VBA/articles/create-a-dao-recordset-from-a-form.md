@@ -16,9 +16,8 @@ The following example shows how to assign a  **Recordset** object to the records
 
 ```vb
 Dim rstOrders As DAO.Recordset 
- 
-Set rstOrders = Forms!Orders.RecordsetClone 
 
+Set rstOrders = Forms!Orders.RecordsetClone 
 ```
 
 This code always creates the type of  **Recordset** being cloned (the type of **Recordset** on which the form is based); no other types are available. Note that the **Recordset** object is declared with the object library qualification. Because Access can use both DAO and ADO, it is better to fully qualify the data access variables by including the object library reference name.

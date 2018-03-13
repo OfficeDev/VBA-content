@@ -27,7 +27,6 @@ This example clears the first custom tab in the first paragraph of the active Mi
 
 ```
 ActiveDocument.Paragraphs(1).TabStops2(1).Clear 
-
 ```
 
 

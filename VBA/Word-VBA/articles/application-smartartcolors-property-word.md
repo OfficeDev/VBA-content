@@ -36,12 +36,11 @@ The following code example adds a SmartArt graphic to the active document and th
 ```vb
 Dim myShape As Shape 
 Dim mySmartArt As SmartArt 
- 
+
 Set myShape = ActiveDocument.Shapes.AddSmartArt(Application.SmartArtLayouts(1), 50, 50, 200, 200) 
 Set mySmartArt = myShape.SmartArt 
- 
-mySmartArt.Color = Application.SmartArtColors(2) 
 
+mySmartArt.Color = Application.SmartArtColors(2) 
 ```
 
 

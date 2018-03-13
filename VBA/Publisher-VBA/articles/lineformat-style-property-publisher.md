@@ -34,12 +34,17 @@ The  **Style** property value can be one of the **MsoLineStyle** constants decla
 
 
 
-| **msoLineSingle**|
-| **msoLineStyleMixed**|
-| **msoLineThickBetweenThin**|
-| **msoLineThickThin**|
-| **msoLineThinThick**|
-| **msoLineThinThin**|
+| <strong>msoLineSingle</strong>|
+| 
+<strong>msoLineStyleMixed</strong>|
+| 
+<strong>msoLineThickBetweenThin</strong>|
+| 
+<strong>msoLineThickThin</strong>|
+| 
+<strong>msoLineThinThick</strong>|
+| 
+<strong>msoLineThinThin</strong>|
 
 ## Example
 

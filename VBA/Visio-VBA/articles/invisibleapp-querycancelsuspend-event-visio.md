@@ -15,7 +15,7 @@ Occurs before the operating system enters a suspended state. If any event handle
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelSuspend**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelSuspend</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

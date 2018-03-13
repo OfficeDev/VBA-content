@@ -22,13 +22,13 @@ Use the  **[Add](viewfields-add-method-outlook.md)** method of the **[OrderField
 
 
 -  **[BusinessCardView](businesscardview-object-outlook.md)**
-    
+
 -  **[CardView](cardview-object-outlook.md)**
-    
+
 -  **[IconView](iconview-object-outlook.md)**
-    
+
 -  **[TableView](tableview-object-outlook.md)**
-    
+
 Use the  **[ViewXMLSchemaName](orderfield-viewxmlschemaname-property-outlook.md)** property to obtain the name of the order field as referenced in the XML definition of the view.
 
  **OrderField** objects contained in an **OrderFields** collection are applied to Outlook items displayed in the view in the order in which the objects are contained in the collection. For each **OrderField** object, use the **[IsDescending](orderfield-isdescending-property-outlook.md)** property to determine whether to sort the contents of the order field in ascending or descending order.
@@ -41,64 +41,62 @@ The following Visual Basic for Applications (VBA) example iterates through the  
 
 ```
 Private Sub DisplayTableViewSortFields() 
- 
- Dim objTableView As TableView 
- 
- Dim objOrderField As OrderField 
- 
- Dim strOutput As String 
- 
- 
- 
- If Application.ActiveExplorer.CurrentView.ViewType = _ 
- 
- olTableView Then 
- 
- 
- 
- ' Obtain a TableView object reference for the 
- 
- ' current table view. 
- 
- Set objTableView = _ 
- 
- Application.ActiveExplorer.CurrentView 
- 
- 
- 
- ' Iterate through the OrderFields collection for 
- 
- ' the table view, obtaining the label and the 
- 
- ' XML schema name for each field used to sort 
- 
- ' the items in the view. 
- 
- For Each objOrderField In objTableView.SortFields 
- 
- With objOrderField 
- 
- strOutput = strOutput &amp; .ColumnFormat.Label &amp; _ 
- 
- " (" &amp; .ViewXMLSchemaName &amp; ")" &amp; vbCrLf 
- 
- End With 
- 
- Next 
- 
- 
- 
- ' Display a dialog box containing the concatenated 
- 
- ' sort field information. 
- 
- MsgBox strOutput 
- 
- End If 
- 
-End Sub 
- 
 
+ Dim objTableView As TableView 
+
+ Dim objOrderField As OrderField 
+
+ Dim strOutput As String 
+
+
+
+ If Application.ActiveExplorer.CurrentView.ViewType = _ 
+
+ olTableView Then 
+
+
+
+ ' Obtain a TableView object reference for the 
+
+ ' current table view. 
+
+ Set objTableView = _ 
+
+ Application.ActiveExplorer.CurrentView 
+
+
+
+ ' Iterate through the OrderFields collection for 
+
+ ' the table view, obtaining the label and the 
+
+ ' XML schema name for each field used to sort 
+
+ ' the items in the view. 
+
+ For Each objOrderField In objTableView.SortFields 
+
+ With objOrderField 
+
+ strOutput = strOutput &amp; .ColumnFormat.Label &amp; _ 
+
+ " (" &amp; .ViewXMLSchemaName &amp; ")" &amp; vbCrLf 
+
+ End With 
+
+ Next 
+
+
+
+ ' Display a dialog box containing the concatenated 
+
+ ' sort field information. 
+
+ MsgBox strOutput 
+
+ End If 
+
+End Sub 
 ```
 
 

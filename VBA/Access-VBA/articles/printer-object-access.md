@@ -24,11 +24,12 @@ To return a reference to a particular  **Printer** object in the **Printers** co
 
 
 
-|**Syntax**|**Description**|
-|:-----|:-----|
-|**Printers** ! _devicename_|The  _devicename_ argument is the name of the **Printer** object as returned by the **DeviceName** property.|
-|**Printers** (" _devicename_")|The  _devicename_ argument is the name of the **Printer** object as returned by the **DeviceName** property.|
-|**Printers** ( _index_)|The  _index_ argument is the numeric position of the object within the collection. The valid range is from 0 to `Printers.Count-1`.|
+| <strong>Syntax</strong>                            | <strong>Description</strong>                                                                                                                  |
+|:---------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Printers</strong> ! <em>devicename</em>    | The  <em>devicename</em> argument is the name of the <strong>Printer</strong> object as returned by the <strong>DeviceName</strong> property. |
+| <strong>Printers</strong> (" <em>devicename</em>") | The  <em>devicename</em> argument is the name of the <strong>Printer</strong> object as returned by the <strong>DeviceName</strong> property. |
+| <strong>Printers</strong> ( <em>index</em>)        | The  <em>index</em> argument is the numeric position of the object within the collection. The valid range is from 0 to `Printers.Count-1`.    |
+
 You can use the properties of the  **Printer** object to set the printing characteristics for any of the printers available on your system.
 
 Use the  **ColorMode**, **Copies**, **Duplex**, **Orientation**, **PaperBin**, **PaperSize**, and **PrintQuality** properties to specify print settings for a particular printer.
@@ -45,9 +46,9 @@ The following example displays system information about the first printer in the
 
 ```
 Dim prtFirst As Printer 
- 
+
 Set prtFirst = Application.Printers(0) 
- 
+
 With prtFirst 
  MsgBox "Device name: " &amp; .DeviceName &amp; vbCr _ 
  &amp; "Driver name: " &amp; .DriverName &amp; vbCr _ 

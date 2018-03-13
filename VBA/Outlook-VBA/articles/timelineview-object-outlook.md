@@ -42,88 +42,86 @@ The following Visual Basic for Applications (VBA) example configures the current
 
 ```
 Private Sub ConfigureMonthTimelineView() 
- 
- Dim objTimelineView As TimelineView 
- 
- 
- 
- If Application.ActiveExplorer.CurrentView.ViewType = _ 
- 
- olTimelineView Then 
- 
- 
- 
- ' Obtain a TimelineView object reference for the 
- 
- ' current timeline view. 
- 
- Set objTimelineView = _ 
- 
- Application.ActiveExplorer.CurrentView 
- 
- 
- 
- ' Configure the TimelineView object so that it displays 
- 
- ' Outlook items by month and week, displaying labels 
- 
- ' no larger than 40 characters for Outlook items 
- 
- ' displayed in the view. 
- 
- With objTimelineView 
- 
- ' Display items by month. 
- 
- .TimelineViewMode = olTimelineViewMonth 
- 
- 
- 
- ' Display week numbers. If this value is 
- 
- ' set to False when TimelineViewMode is 
- 
- ' set to olTimelineViewMonth, the day 
- 
- ' numbers are displayed instead. 
- 
- .ShowWeekNumbers = True 
- 
- 
- 
- ' Display labels for Outlook items 
- 
- ' while TimelineViewMode is set to 
- 
- ' olTimelineViewMonth. 
- 
- .ShowLabelWhenViewingByMonth = True 
- 
- 
- 
- ' Show no more than the first 40 characters 
- 
- ' for each Outlook item in the view. 
- 
- .MaxLabelWidth = 40 
- 
- 
- 
- ' Save and apply the view. 
- 
- .Save 
- 
- .Apply 
- 
- End With 
- 
- End If 
- 
- 
- 
-End Sub 
- 
 
+ Dim objTimelineView As TimelineView 
+
+
+
+ If Application.ActiveExplorer.CurrentView.ViewType = _ 
+
+ olTimelineView Then 
+
+
+
+ ' Obtain a TimelineView object reference for the 
+
+ ' current timeline view. 
+
+ Set objTimelineView = _ 
+
+ Application.ActiveExplorer.CurrentView 
+
+
+
+ ' Configure the TimelineView object so that it displays 
+
+ ' Outlook items by month and week, displaying labels 
+
+ ' no larger than 40 characters for Outlook items 
+
+ ' displayed in the view. 
+
+ With objTimelineView 
+
+ ' Display items by month. 
+
+ .TimelineViewMode = olTimelineViewMonth 
+
+
+
+ ' Display week numbers. If this value is 
+
+ ' set to False when TimelineViewMode is 
+
+ ' set to olTimelineViewMonth, the day 
+
+ ' numbers are displayed instead. 
+
+ .ShowWeekNumbers = True 
+
+
+
+ ' Display labels for Outlook items 
+
+ ' while TimelineViewMode is set to 
+
+ ' olTimelineViewMonth. 
+
+ .ShowLabelWhenViewingByMonth = True 
+
+
+
+ ' Show no more than the first 40 characters 
+
+ ' for each Outlook item in the view. 
+
+ .MaxLabelWidth = 40 
+
+
+
+ ' Save and apply the view. 
+
+ .Save 
+
+ .Apply 
+
+ End With 
+
+ End If 
+
+
+
+End Sub 
 ```
 
 

@@ -32,7 +32,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.SeriesCollection(1).Points(3).MarkerStyle = xlDiamond 
  End If 
 End With 
-
 ```
 
 

@@ -48,11 +48,11 @@ The number of elements in the array is a multiple of 7:
 
 
 - The first three elements describe the section, row, and cell of the beginning cell of the range.
-    
+
 - The next three elements describe the section, row, and cell of the end cell of the range.
-    
+
 - The last element contains a  **True** or **False** value indicating how to filter events for the cell range ( **True** to listen to events for a range of cells; **False** to exclude events for a range of cells).
-    
+
 
 
 For an event to successfully pass through a cell range filter, it must satisfy the following criteria:
@@ -61,13 +61,13 @@ For an event to successfully pass through a cell range filter, it must satisfy t
 
 
 - It must be a valid section, row, cell reference.
-    
+
 - If all filters are  **True** , the event must match at least one filter.
-    
+
 - If all filters are  **False** , the event must not match any filter.
-    
+
 - If the filters are a mixture of  **True** and **False** , the event must match at least one **True** filter and not match any **False** filters.
-    
+
 
 
 If there are no  **True** ranges defined in the array, events are considered **True** .
@@ -78,7 +78,7 @@ For example, if you want to listen for any changes in the Value cell of the seco
 
 
 ```vb
- 
+
  Dim aFilterSRC(1 To (1 * 7)) As Integer 
  aFilterSRC(1) = visSectionProp 
  aFilterSRC(2) = visRowProp + 1 
@@ -87,7 +87,6 @@ For example, if you want to listen for any changes in the Value cell of the seco
  aFilterSRC(5) = visRowProp + 1 
  aFilterSRC(6) = visCustPropsValue 
  aFilterSRC(7) = True 
-
 ```
 
 

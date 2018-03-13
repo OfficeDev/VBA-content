@@ -55,18 +55,20 @@ Possible values for the  _FixedFormat_ parameter are shown in the following tabl
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visFixedFormatPDF**|1|PDF fixed format|
-| **visFixedFormatXPS**|2|XPS fixed format|
+| <strong>Constant</strong>          | <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------------------|:-----------------------|:-----------------------------|
+| <strong>visFixedFormatPDF</strong> | 1                      | PDF fixed format             |
+| <strong>visFixedFormatXPS</strong> | 2                      | XPS fixed format             |
+
 Possible values for the  _Intent_ parameter are shown in the following table and declared in **VisDocExIntent** in the Visio type library.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visDocExIntentPrint**|1|Intended to be published online and printed|
-| **visDocExIntentScreen**|0|Intended to be published only online|
+| <strong>Constant</strong>             | <strong>Value</strong> | <strong>Description</strong>                |
+|:--------------------------------------|:-----------------------|:--------------------------------------------|
+| <strong>visDocExIntentPrint</strong>  | 1                      | Intended to be published online and printed |
+| <strong>visDocExIntentScreen</strong> | 0                      | Intended to be published only online        |
+
 Possible values for the  _PrintRange_ parameter are shown in the following table and declared in **VisPrintOutRange** in the Visio type library.
 
 
@@ -86,9 +88,9 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 ```vb
 Public Sub ExportAsFixedFormat_Example() 
- 
+
     ActiveDocument.ExportAsFixedFormat visFixedFormatPDF, "C:\ExportedVisioDocument .pdf", visDocExIntentPrint, visPrintAll 
- 
+
 End Sub
 ```
 

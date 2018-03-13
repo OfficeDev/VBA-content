@@ -19,10 +19,11 @@ Returns a  **Variant** ( **String** ) containing a repeating character string of
 The  **String** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_number_**|Required; [Long](vbe-glossary.md). Length of the returned string. If  **_number_** contains[Null](vbe-glossary.md),  **Null** is returned.|
-|**_character_**|Required; [Variant](vbe-glossary.md). [Character code](vbe-glossary.md) specifying the character or[string expression](vbe-glossary.md) whose first character is used to build the return string. If **_character_** contains **Null**, **Null** is returned.|
+| <strong>Part</strong>               | <strong>Description</strong>                                                                                                                                                                                                                                                                                |
+|:------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>number</em></strong>    | Required; [Long](vbe-glossary.md). Length of the returned string. If  <strong><em>number</em></strong> contains[Null](vbe-glossary.md),  <strong>Null</strong> is returned.                                                                                                                                 |
+| <strong><em>character</em></strong> | Required; [Variant](vbe-glossary.md). [Character code](vbe-glossary.md) specifying the character or[string expression](vbe-glossary.md) whose first character is used to build the return string. If <strong><em>character</em></strong> contains <strong>Null</strong>, <strong>Null</strong> is returned. |
+
  **Remarks**
 If you specify a number for  **_character_** greater than 255, **String** converts the number to a valid character code using the formula:
  **_character_** **Mod** 256
@@ -37,8 +38,6 @@ Dim MyString
 MyString = String(5, "*")    ' Returns "*****".
 MyString = String(5, 42)    ' Returns "*****".
 MyString = String(10, "ABC")    ' Returns "AAAAAAAAAA".
-
-
 ```
 
 

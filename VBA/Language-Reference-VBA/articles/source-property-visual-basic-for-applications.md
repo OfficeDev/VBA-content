@@ -33,7 +33,6 @@ MyObjectID = App.Title &; "." &; MyClass.Name
 Err. Raise    Number := vbObjectError + 894, Source := MyObjectID, _
                 Description := "Was not able to complete your task", _
                 HelpFile := MyHelpFile, HelpContext := MyHelpContext 
-
 ```
 
 

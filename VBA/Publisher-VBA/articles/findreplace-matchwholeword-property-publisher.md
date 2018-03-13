@@ -48,7 +48,6 @@ With ActiveDocument.Find
  .FoundTextRange.Font.Bold = msoTrue 
  Loop 
 End With 
-
 ```
 
 This example follows the previous example except that whole words will not be matched. Therefore the word "fact" within the word "factory" or "factoid" will also have bold formatting applied.
@@ -66,7 +65,6 @@ With ActiveDocument.Find
  .FoundTextRange.Font.Bold = msoTrue 
  Loop 
 End With 
-
 ```
 
 

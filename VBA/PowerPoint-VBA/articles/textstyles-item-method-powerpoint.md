@@ -49,9 +49,11 @@ The  _Type_ parameter value can be one of these **PpTextStyleType** constants.
 
 ||
 |:-----|
-|**ppBodyStyle**|
-|**ppDefaultStyle**|
-|**ppTitleStyle**|
+|<strong>ppBodyStyle</strong>|
+|
+<strong>ppDefaultStyle</strong>|
+|
+<strong>ppTitleStyle</strong>|
 
 ## See also
 

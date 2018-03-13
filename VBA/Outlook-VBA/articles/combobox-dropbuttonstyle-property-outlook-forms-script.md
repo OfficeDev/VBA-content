@@ -27,12 +27,13 @@ The possible values for  **DropButtonStyle** are:
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|0|Displays a plain button, with no symbol.|
-|1|Displays a down arrow (default).|
-|2|Displays an ellipsis (...).|
-|3|Displays a horizontal line like an underscore character.|
+| <strong>Value</strong> | <strong>Description</strong>                             |
+|:-----------------------|:---------------------------------------------------------|
+| 0                      | Displays a plain button, with no symbol.                 |
+| 1                      | Displays a down arrow (default).                         |
+| 2                      | Displays an ellipsis (...).                              |
+| 3                      | Displays a horizontal line like an underscore character. |
+
 The recommended setting for showing items in a list is 1.
 
 

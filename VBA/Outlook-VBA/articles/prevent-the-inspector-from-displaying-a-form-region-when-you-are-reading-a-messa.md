@@ -15,7 +15,7 @@ When you create a form region in a custom form for mail or post items, by defaul
 
 
 - In the form region manifest XML file, specify  **false** as the value of the **showInspectorRead** element.
-    
+
 The following example disables the inspector from displaying a form region when in read mode:
 
 

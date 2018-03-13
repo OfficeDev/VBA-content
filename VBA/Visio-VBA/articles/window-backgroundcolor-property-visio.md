@@ -36,9 +36,9 @@ Valid values for an  **OLE_COLOR** property within Visio can be one of the follo
 
 
 - &;H00 _bbggrr,_ where _bb_ is the blue value between 0 and 0xFF (255), _gg_ the green value, and _rr_ the red value.
-    
+
 - &;H800000 _xx_ , where _xx_ is a valid **GetSysColor** index.
-    
+
 
 
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
@@ -49,16 +49,17 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **vbBlack**|0x0|Black|
-| **vbRed**|0xFF|Red|
-| ** vbGreen**|0xFF00|Green|
-| **vbYellow**|0xFFFF|Yellow|
-| **vbBlue**|0xFF0000 |Blue|
-| ** vbMagenta**|0xFF00FF |Magenta|
-| ** vbCyan**|0xFFFF00|Cyan|
-| ** vbWhite**|0xFFFFFF|White|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------|:-----------------------|:-----------------------------|
+| <strong>vbBlack</strong>  | 0x0                    | Black                        |
+| <strong>vbRed</strong>    | 0xFF                   | Red                          |
+| ** vbGreen**              | 0xFF00                 | Green                        |
+| <strong>vbYellow</strong> | 0xFFFF                 | Yellow                       |
+| <strong>vbBlue</strong>   | 0xFF0000               | Blue                         |
+| ** vbMagenta**            | 0xFF00FF               | Magenta                      |
+| ** vbCyan**               | 0xFFFF00               | Cyan                         |
+| ** vbWhite**              | 0xFFFFFF               | White                        |
+
 For a drawing window, print preview window, or full-screen view window, setting the  **BackgroundColor** property of the window to a value other than the default (-1) overrides the **ApplicationSettings.DrawingBackgroundColor** , **ApplicationSettings.PrintPreviewBackgroundColor** , and **ApplicationSettings.FullScreenBackgroundColor** settings for that set of windows. To be able to reset these properties for the same set of windows, you must reset **BackgroundColor** to its default value, -1. If multiple drawings are open, setting **BackgroundColor** for one set of windows has no effect on the setting for other open window sets.
 
 However, for a ShapeSheet window, setting the  **BackgroundColor** property of the window to a value other than the default changes the background color of the ShapeSheet window, but has no effect on any of the other window settings.
@@ -75,37 +76,37 @@ The following VBA macro shows how to use the  **BackgroundColor** property to ge
 
 ```vb
 Public Sub BackgroundColor_Example() 
- 
+
  Dim vsoApplicationSettings As Visio.ApplicationSettings 
  Set vsoApplicationSettings = Visio.Application.Settings 
- 
+
  'Get the current application background color. 
  Debug.Print vsoApplicationSettings.DrawingBackgroundColor 
- 
+
  'Get the active window background color. 
  Debug.Print ActiveWindow.BackgroundColor 
- 
+
  'Change the application background color. 
  'This also changes the active window color as 
  'well as the setting in the Color Settings dialog box. 
  vsoApplicationSettings.DrawingBackgroundColor = vbRed 
- 
+
  'Change the active window background color. 
  ActiveWindow.BackgroundColor = vbMagenta 
- 
+
  'Change the application background color again. 
  'This time, there is no change in the current 
  'window color, but the dialog box setting changes. 
  vsoApplicationSettings.DrawingBackgroundColor = vbYellow 
- 
+
  'Reset Window.BackgroundColor to its default value. 
  ActiveWindow.BackgroundColor = -1 
- 
+
  'Change the application background color again. 
  'Now both the active window color 
  'and the dialog box setting change. 
  vsoApplicationSettings.DrawingBackgroundColor = vbBlue 
- 
+
 End Sub
 ```
 

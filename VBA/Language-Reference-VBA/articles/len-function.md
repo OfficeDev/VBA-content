@@ -19,10 +19,11 @@ Returns a [Long](vbe-glossary.md) containing the number of characters in a strin
 The  **Len** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _string_|Any valid [string expression](vbe-glossary.md). If  _string_ contains[Null](vbe-glossary.md), Null is returned.|
-| _Varname_|Any valid [variable](vbe-glossary.md) name. If _varname_ contains **Null**, **Null** is returned. If _varname_ is a[Variant](vbe-glossary.md),  **Len** treats it the same as a **String** and always returns the number of characters it contains.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                          |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>string</em>       | Any valid [string expression](vbe-glossary.md). If  <em>string</em> contains[Null](vbe-glossary.md), Null is returned.                                                                                                                                                                                                |
+| <em>Varname</em>      | Any valid [variable](vbe-glossary.md) name. If <em>varname</em> contains <strong>Null</strong>, <strong>Null</strong> is returned. If <em>varname</em> is a[Variant](vbe-glossary.md),  <strong>Len</strong> treats it the same as a <strong>String</strong> and always returns the number of characters it contains. |
+
  **Remarks**
 One (and only one) of the two possible [arguments](vbe-glossary.md) must be specified. With[user-defined types](vbe-glossary.md),  **Len** returns the size as it will be written to the file.
 
@@ -52,7 +53,6 @@ MyLen = Len(MyInt)    ' Returns 2.
 MyLen = Len(Customer)    ' Returns 42.
 MyLen = Len(MyString)    ' Returns 11.
 MyLen = Len(MyCur)    ' Returns 8.
-
 ```
 
 The second example uses  **LenB** and a user-defined function ( **LenMbcs** ) to return the number of byte characters in a string if ANSI is used to represent the string.
@@ -74,8 +74,6 @@ MyLen = LenB(MyString)
 ' Returns 6 - 6 bytes used for Unicode.
 MyLen = LenMbcs(MyString)
 ' Returns 5 - 5 bytes used for ANSI.
-
-
 ```
 
 

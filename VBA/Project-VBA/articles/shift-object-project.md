@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
  
 
-Represents a work shift for a day, month, period, weekday, or year. There is no collection for  **Shift** objects. The **Shift** object can be accessed through the **Shift*n*** properties of appropriate objects, such as the **Day**. **[Shift1](day-shift1-property-project.md)** property.
+Represents a work shift for a day, month, period, weekday, or year. There is no collection for  <strong>Shift</strong> objects. The <strong>Shift</strong> object can be accessed through the <strong>Shift*n</strong>* properties of appropriate objects, such as the <strong>Day</strong>. <strong><a href="day-shift1-property-project.md" data-raw-source="[Shift1](day-shift1-property-project.md)">Shift1</a></strong> property.
  
  **Using the Shift Object**
  
-Use the  **Shift*n*** property to return a **Shift** object. The following example sets every Friday as a half-day by setting the start and finish times for the first shift and clearing the values of the second and third shifts.
+Use the  <strong>Shift*n</strong>* property to return a <strong>Shift</strong> object. The following example sets every Friday as a half-day by setting the start and finish times for the first shift and clearing the values of the second and third shifts.
  
 
 ## Methods

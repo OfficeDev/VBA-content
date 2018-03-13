@@ -46,13 +46,19 @@ RelativePage can be one of these  **PbHlinkTargetType** constants. The default i
 
 
 
-| **pbHlinkTargetTypeEmail**|
-| **pbHlinkTargetTypeFirstPage**|
-| **pbHlinkTargetTypeLastPage**|
-| **pbHlinkTargetTypeNextPage**|
-| **pbHlinkTargetTypePageID**|
-| **pbHlinkTargetTypePreviousPage**|
-| **pbHlinkTargetTypeURL**|
+| <strong>pbHlinkTargetTypeEmail</strong>|
+| 
+<strong>pbHlinkTargetTypeFirstPage</strong>|
+| 
+<strong>pbHlinkTargetTypeLastPage</strong>|
+| 
+<strong>pbHlinkTargetTypeNextPage</strong>|
+| 
+<strong>pbHlinkTargetTypePageID</strong>|
+| 
+<strong>pbHlinkTargetTypePreviousPage</strong>|
+| 
+<strong>pbHlinkTargetTypeURL</strong>|
 
 ## Example
 
@@ -63,17 +69,17 @@ The following example adds hyperlinks to shape one and shape two on page one of 
 Dim hypNew As Hyperlink 
 Dim lngPageID As Long 
 Dim strPage As String 
- 
+
 With ActiveDocument.Pages(1).Shapes(1).TextFrame 
  Set hypNew = .TextRange.Hyperlinks.Add(Text:=.TextRange, _ 
  Address:="http://www.tailspintoys.com/", _ 
  TextToDisplay:="Tailspin") 
 End With 
- 
+
 lngPageID = ActiveDocument.Pages(4).PageID 
 strPage = "Go to page " _ 
  &; Str(ActiveDocument.Pages(4).PageNumber) 
- 
+
 With ActiveDocument.Pages(1).Shapes(2).TextFrame 
  Set hypNew = .TextRange.Hyperlinks.Add(Text:=.TextRange, _ 
  RelativePage:=pbHlinkTargetTypePageID, _ 

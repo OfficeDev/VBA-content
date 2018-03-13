@@ -24,19 +24,21 @@ Specifies the visual attributes of text on a displayed or printed form.
 The  **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Weight** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object name.|
-| _Boolean_|Optional. Specifies the font style.|
-| _Currency_|Optional. A number indicating the font size.|
-| _Integer_|Optional. Specifies the font style.|
+| <strong>Part</strong> | <strong>Description</strong>                 |
+|:----------------------|:---------------------------------------------|
+| <em>object</em>       | Required. A valid object name.               |
+| <em>Boolean</em>      | Optional. Specifies the font style.          |
+| <em>Currency</em>     | Optional. A number indicating the font size. |
+| <em>Integer</em>      | Optional. Specifies the font style.          |
+
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The text has the specified attribute (that is bold, italic, size, strikethrough or underline marks, or weight).|
-|**False**|The text does not have the specified attribute (default).|
+| <strong>Value</strong> | <strong>Description</strong>                                                                                    |
+|:-----------------------|:----------------------------------------------------------------------------------------------------------------|
+| <strong>True</strong>  | The text has the specified attribute (that is bold, italic, size, strikethrough or underline marks, or weight). |
+| <strong>False</strong> | The text does not have the specified attribute (default).                                                       |
+
 The  **Weight** property accepts values from 0 to 1000. A value of zero allows the system to pick the most appropriate weight. A value from 1 to 1000 indicates a specific weight, where 1 represents the lightest type and 1000 represents the darkest type.
  **Remarks**
 These properties define the visual characteristics of text. The  **Bold** property determines whether text is normal or bold. The **Italic** property determines whether text is normal or italic. The **Size** property determines the height, in[points](vbe-glossary.md), of displayed text. The  **Underline** property determines whether text is underlined. The **StrikeThrough** property determines whether the text appears with strikethrough marks. The **Weight** property determines the darkness of the type.

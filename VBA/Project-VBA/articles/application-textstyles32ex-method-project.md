@@ -38,6 +38,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
+
 #### If the Gantt Chart is active
 
 |||
@@ -54,6 +55,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
+
 #### If the Task Usage view is active
 
 |||
@@ -67,6 +69,7 @@ _expression_ An expression that returns an **Application** object.
 |**pjSummary**||
 
 <br/>
+
 
 #### If the Task Sheet is active
 
@@ -101,6 +104,7 @@ _expression_ An expression that returns an **Application** object.
 |**pjNoncritical**|**pjTaskRowColumnTitles**|
 
 <br/>
+
 
 ### Return value
 

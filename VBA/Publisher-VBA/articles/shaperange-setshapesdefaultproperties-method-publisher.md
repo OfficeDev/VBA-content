@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-The  **SetShapesDefaultProperties** method stores two different sets of default properties, one for a **Shape** object's ** [AutoShapeType Property](shape-autoshapetype-property-publisher.md)**, and another for a  **TextFrame** object. In other words, if this method is called on an AutoShape, the default formatting of that object will apply only to new AutoShapes, and will not apply to new text boxes. If this method is called on a text box, the default formatting of that object will apply only to new text boxes, and will not apply to new AutoShapes.
+The  <strong>SetShapesDefaultProperties</strong> method stores two different sets of default properties, one for a <strong>Shape</strong> object's ** [AutoShapeType Property](shape-autoshapetype-property-publisher.md)<strong>, and another for a  **TextFrame</strong> object. In other words, if this method is called on an AutoShape, the default formatting of that object will apply only to new AutoShapes, and will not apply to new text boxes. If this method is called on a text box, the default formatting of that object will apply only to new text boxes, and will not apply to new AutoShapes.
 
 
 ## Example
@@ -40,7 +40,7 @@ This example adds a rectangle to the active publication, formats the rectangle's
 
 ```vb
 With ActiveDocument.Pages(1).Shapes 
- 
+
  With .AddShape(Type:=msoShapeRectangle, _ 
  Left:=5, Top:=5, Width:=80, Height:=60) 
  With .Fill 
@@ -50,12 +50,11 @@ With ActiveDocument.Pages(1).Shapes
  End With 
  .SetShapesDefaultProperties 
  End With 
- 
+
  .AddShape Type:=msoShapeRectangle, _ 
  Left:=90, Top:=90, Width:=40, Height:=30 
- 
-End With 
 
+End With 
 ```
 
 

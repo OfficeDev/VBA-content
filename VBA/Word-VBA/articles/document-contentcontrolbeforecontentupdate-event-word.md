@@ -18,7 +18,7 @@ Occurs before updating the content in a content control, but only when the conte
 
 ## Syntax
 
-Private Sub  _expression_ _**ContentControlBeforeContentUpdate**( **_ContentControl_** , **_Content_** )
+Private Sub  <em>expression</em> <em><strong>ContentControlBeforeContentUpdate</strong>( **_ContentControl</em>** , <strong><em>Content</em></strong> )
 
  _expression_ An expression that returns a **[Document](document-object-word.md)** object.
 

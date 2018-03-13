@@ -52,8 +52,6 @@ The following example, written in C#, shows the implementation of the  **ShowSig
  } 
  } 
  } 
- 
-
 ```
 
 

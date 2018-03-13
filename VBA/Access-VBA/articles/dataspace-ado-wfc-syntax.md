@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # DataSpace (ADO/WFC Syntax)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -20,9 +20,8 @@ The  **createObject** method of the **DataSpace** class specifies both a busines
 
 
 ```
- 
-public DataSpace() 
 
+public DataSpace() 
 ```
 
  **Methods**
@@ -30,10 +29,9 @@ public DataSpace()
 
 
 ```
- 
+
 public static ObjectProxyDataSpace. Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcreateobj_HV10294242.xml(String 
  progid , String connection ) 
-
 ```
 
  **Properties**
@@ -41,10 +39,9 @@ public static ObjectProxyDataSpace. Invalid DDUE based on source, error:link not
 
 
 ```
- 
+
 public static int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprointernettimeout_HV10294450.xml() 
 public static void setInternetTimeout(int plInetTimeout ) 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

@@ -32,7 +32,6 @@ The following example displays the version and build number of the currently-ins
 MsgBox "You are currently running Microsoft Access, " _ 
  &; " version " &; Application.Version &; ", build " _ 
  &; Application.Build &; "." 
-
 ```
 
 

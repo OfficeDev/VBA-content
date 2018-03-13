@@ -15,12 +15,13 @@ When Outlook calls one of these methods, it passes an **IRibbonUI** object as a 
  **IRibbonUI** exposes the following methods to customize the user interface in Outlook:
 
 
-| **Method**| **Action**| **Description**|
-|:-----|:-----|:-----|
-| **[Invalidate()](http://msdn.microsoft.com/library/068cd459-76c2-b1d3-ed7d-50fa88c4db73%28Office.15%29.aspx)**|Callback|Marks all of the custom controls or menu items in your add-in for update.|
-| **[InvalidateControl(string controlID)](http://msdn.microsoft.com/library/33af7933-66f7-51e9-895e-07a6222973d2%28Office.15%29.aspx)**|Callback|Marks a specific control or menu item that is defined by a  _controlID_ in your add-in for update.|
-| **[ActivateTab](http://msdn.microsoft.com/library/32f5205c-6ab1-e3a6-6bae-5f36706c4d0d%28Office.15%29.aspx)**|Callback|Activates the specified custom tab on the Microsoft Office Fluent ribbon.|
-| **[ActivateTabQ](http://msdn.microsoft.com/library/bf664b52-2660-2ce7-a01b-83b459f66e09%28Office.15%29.aspx)**|Callback|Activates the specified custom tab on the ribbon by using the fully qualified name of the tab.|
+| <strong>Method</strong>                                                                                                                                                                                                                                                                                           | <strong>Action</strong> | <strong>Description</strong>                                                                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------|:----------------------------------------------------------------------------------------------------------|
+| <strong><a href="http://msdn.microsoft.com/library/068cd459-76c2-b1d3-ed7d-50fa88c4db73%28Office.15%29.aspx" data-raw-source="[Invalidate()](http://msdn.microsoft.com/library/068cd459-76c2-b1d3-ed7d-50fa88c4db73%28Office.15%29.aspx)">Invalidate()</a></strong>                                               | Callback                | Marks all of the custom controls or menu items in your add-in for update.                                 |
+| <strong><a href="http://msdn.microsoft.com/library/33af7933-66f7-51e9-895e-07a6222973d2%28Office.15%29.aspx" data-raw-source="[InvalidateControl(string controlID)](http://msdn.microsoft.com/library/33af7933-66f7-51e9-895e-07a6222973d2%28Office.15%29.aspx)">InvalidateControl(string controlID)</a></strong> | Callback                | Marks a specific control or menu item that is defined by a  <em>controlID</em> in your add-in for update. |
+| <strong><a href="http://msdn.microsoft.com/library/32f5205c-6ab1-e3a6-6bae-5f36706c4d0d%28Office.15%29.aspx" data-raw-source="[ActivateTab](http://msdn.microsoft.com/library/32f5205c-6ab1-e3a6-6bae-5f36706c4d0d%28Office.15%29.aspx)">ActivateTab</a></strong>                                                 | Callback                | Activates the specified custom tab on the Microsoft Office Fluent ribbon.                                 |
+| <strong><a href="http://msdn.microsoft.com/library/bf664b52-2660-2ce7-a01b-83b459f66e09%28Office.15%29.aspx" data-raw-source="[ActivateTabQ](http://msdn.microsoft.com/library/bf664b52-2660-2ce7-a01b-83b459f66e09%28Office.15%29.aspx)">ActivateTabQ</a></strong>                                               | Callback                | Activates the specified custom tab on the ribbon by using the fully qualified name of the tab.            |
+
 To minimize the impact on performance, use the  **InvalidateControl** method instead of the **Invalidate** method unless you actually need to invalidate all the custom controls or menu items that your add-in defines. Calling **Invalidate** invalidates all controls and menu items that your add-in defines, and callbacks occur on open explorers, inspectors, and menus.
 
 ## See also
@@ -30,5 +31,7 @@ To minimize the impact on performance, use the  **InvalidateControl** method ins
 
 
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
- [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
+ 
+[Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
+
 

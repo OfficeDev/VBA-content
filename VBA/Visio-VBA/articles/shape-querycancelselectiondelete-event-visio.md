@@ -18,7 +18,7 @@ Occurs before the application deletes a selection of shapes in response to a use
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelSelectionDelete**( **_ByVal Selection As [IVSELECTION]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelSelectionDelete</strong>( **_ByVal Selection As [IVSELECTION]</em>** )
 
  _expression_ A variable that represents a **Shape** object.
 

@@ -44,10 +44,11 @@ Double
 
 
 
-|**Return_type**|**Week Begins**|
-|:-----|:-----|
-|1|Week begins on Sunday. Weekdays are numbered 1 through 7.|
-|2|Week begins on Monday. Weekdays are numbered 1 through 7.|
+| <strong>Return_type</strong> | <strong>Week Begins</strong>                              |
+|:-----------------------------|:----------------------------------------------------------|
+| 1                            | Week begins on Sunday. Weekdays are numbered 1 through 7. |
+| 2                            | Week begins on Monday. Weekdays are numbered 1 through 7. |
+
 Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default.
 
 

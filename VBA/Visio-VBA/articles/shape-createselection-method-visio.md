@@ -48,26 +48,28 @@ The  _SelType_ argument should be one of the following values, which are declare
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visSelTypeAll**|1|A selection that initially contains all shapes. |
-| **visSelTypeByDataGraphic**|6|A selection that initially contains all shapes that have a given type of data graphic appled.|
-| **visSelTypeByLayer**|3|A selection that initially contains all the shapes of a given layer. |
-| **visSelTypeByMaster**|5|A selection that initially contains all the instantiated shapes of a given master. |
-| **visSelTypeByRole**|7|A selection that initially contains all the shapes of a given role.|
-| **visSelTypeByType**|4|A selection that initially contains all the shapes of a given type. |
-| **visSelTypeEmpty**|0|A selection that initially contains no shapes. |
-| **visSelTypeSingle**|2|A selection that initially contains one shape. |
+| <strong>Constant</strong>                | <strong>Value</strong> | <strong>Description</strong>                                                                  |
+|:-----------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------|
+| <strong>visSelTypeAll</strong>           | 1                      | A selection that initially contains all shapes.                                               |
+| <strong>visSelTypeByDataGraphic</strong> | 6                      | A selection that initially contains all shapes that have a given type of data graphic appled. |
+| <strong>visSelTypeByLayer</strong>       | 3                      | A selection that initially contains all the shapes of a given layer.                          |
+| <strong>visSelTypeByMaster</strong>      | 5                      | A selection that initially contains all the instantiated shapes of a given master.            |
+| <strong>visSelTypeByRole</strong>        | 7                      | A selection that initially contains all the shapes of a given role.                           |
+| <strong>visSelTypeByType</strong>        | 4                      | A selection that initially contains all the shapes of a given type.                           |
+| <strong>visSelTypeEmpty</strong>         | 0                      | A selection that initially contains no shapes.                                                |
+| <strong>visSelTypeSingle</strong>        | 2                      | A selection that initially contains one shape.                                                |
+
 The optional  _IterationMode_ argument should be one of the following values, which are declared in **VisSelectMode** in the Visio type library. The default is **visSelModeSkipSuper** .
 
 
 
-|**Constant **|**Value **|**Description **|
-|:-----|:-----|:-----|
-| **visSelModeOnlySub**|&;H0800|Selection only reports subselected shapes.|
-| **visSelModeOnlySuper**|&;H0200|Selection only reports superselected shapes.|
-| **visSelModeSkipSub**|&;H0400|Selection does not report subselected shapes.|
-| **visSelModeSkipSuper**|&;H0100|Selection does not report superselected shapes.|
+| **Constant **                        | **Value ** | **Description **                                |
+|:-------------------------------------|:-----------|:------------------------------------------------|
+| <strong>visSelModeOnlySub</strong>   | &;H0800    | Selection only reports subselected shapes.      |
+| <strong>visSelModeOnlySuper</strong> | &;H0200    | Selection only reports superselected shapes.    |
+| <strong>visSelModeSkipSub</strong>   | &;H0400    | Selection does not report subselected shapes.   |
+| <strong>visSelModeSkipSuper</strong> | &;H0100    | Selection does not report superselected shapes. |
+
 The optional  _Data_ argument should be an object that corresponds to the object type specified by _SelType_. For example, if you want to select all the masters of a certain type,  _Data_ should be of type **Master** . And if you want to select all the shapes on a certain layer, _Data_ should be of type **Layer** .
 
 When  _SelType_ is **visSelTypeByRole** , _Data_ should be a member of the **[VisRoleSelectionTypes](visroleselectiontypes-enumeration-visio.md)** enumeration.

@@ -32,7 +32,6 @@ d.Add "a", "Athens"     'Add some keys and items
 d.Add "b", "Belgrade"
 d.Add "c", "Cairo"
 ...
-
 ```
 
 

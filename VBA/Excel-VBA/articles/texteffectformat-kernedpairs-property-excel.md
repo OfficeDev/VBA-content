@@ -29,12 +29,17 @@ ms.date: 06/08/2017
 
 
 
-| **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue**|
-| **msoFalse**|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** Character pairs in the specified WordArt are kerned.|
+| <strong>MsoTriState</strong> can be one of these <strong>MsoTriState</strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong>|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong> Character pairs in the specified WordArt are kerned.|
 
 ## Example
 

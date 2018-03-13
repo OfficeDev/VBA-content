@@ -39,7 +39,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.ChartGroups(1).Has3DShading = True 
  End If 
 End With 
-
 ```
 
 

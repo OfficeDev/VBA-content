@@ -19,12 +19,13 @@ Executes a method of an object, or sets or returns a property of an [object](vbe
 The  **CallByName** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_object_**|Required;  **Variant** ( **Object** ). The name of the object on which the function will be executed.|
-|**_procname_**|Required;  **Variant** ( **String** ). A string expression containing the name of a property or method of the object.|
-|**_calltype_**|Required;  **Constant**. A constant of type **vbCallType** representing the type of procedure being called.|
-| _args()_|Optional:  **Variant** ( **Array** ).|
+| <strong>Part</strong>              | <strong>Description</strong>                                                                                                                    |
+|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>object</em></strong>   | Required;  <strong>Variant</strong> ( <strong>Object</strong> ). The name of the object on which the function will be executed.                 |
+| <strong><em>procname</em></strong> | Required;  <strong>Variant</strong> ( <strong>String</strong> ). A string expression containing the name of a property or method of the object. |
+| <strong><em>calltype</em></strong> | Required;  <strong>Constant</strong>. A constant of type <strong>vbCallType</strong> representing the type of procedure being called.           |
+| <em>args()</em>                    | Optional:  <strong>Variant</strong> ( <strong>Array</strong> ).                                                                                 |
+
  **Remarks**
 The  **CallByName** function is used to get or set a property, or invoke a method at run time using a string name.
 In the following example, the first line uses  **CallByName** to set the **MousePointer** property of a text box, the second line gets the value of the **MousePointer** property, and the third line invokes the **Move** method to move the text box:

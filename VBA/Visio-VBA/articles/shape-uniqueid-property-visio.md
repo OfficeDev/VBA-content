@@ -52,13 +52,14 @@ The  _fUniqueID_ parameter controls the behavior of the **UniqueID** property. I
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visGetGUID**|0|Returns the unique ID string only if the shape already has a unique ID. Otherwise it returns a zero-length string ("").|
-| **visGetOrMakeGUID**|1| Returns the unique ID string of the shape. If the shape does not yet have a unique ID, it assigns one to the shape and returns the new ID.|
-| **visDeleteGUID**|2|Deletes the unique ID of a shape and returns a zero-length string ("").|
-| **visGetOrMakeGUIDWithUndo**|3|Returns the unique ID string of the shape. If the shape does not already have a unique ID, assigns one to the shape and returns the new ID. Undoable.|
-| **visDeleteGUIDWithUndo**|4|Clears the unique ID of a shape and returns a zero-length string (""). Undoable.|
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong>                                                                                                                          |
+|:------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>visGetGUID</strong>               | 0                      | Returns the unique ID string only if the shape already has a unique ID. Otherwise it returns a zero-length string ("").                               |
+| <strong>visGetOrMakeGUID</strong>         | 1                      | Returns the unique ID string of the shape. If the shape does not yet have a unique ID, it assigns one to the shape and returns the new ID.            |
+| <strong>visDeleteGUID</strong>            | 2                      | Deletes the unique ID of a shape and returns a zero-length string ("").                                                                               |
+| <strong>visGetOrMakeGUIDWithUndo</strong> | 3                      | Returns the unique ID string of the shape. If the shape does not already have a unique ID, assigns one to the shape and returns the new ID. Undoable. |
+| <strong>visDeleteGUIDWithUndo</strong>    | 4                      | Clears the unique ID of a shape and returns a zero-length string (""). Undoable.                                                                      |
+
 To get a shape if you know its unique ID, use  **Shapes.Item** ( _UniqueIDString_).
 
 For example, you can use the following code:
@@ -69,7 +70,6 @@ For example, you can use the following code:
 ```vb
 Dim vsoShape As Visio.Shape 
 Set vsoShape = Visio.ActivePage.Shapes.Item("{2287DC42-B167-11CE-88E9-0020AFDDD917}") 
-
 ```
 
 Alternatively, you can use the following code, which adds the letter "U" before the string to identify it as a unique ID:
@@ -80,7 +80,6 @@ Alternatively, you can use the following code, which adds the letter "U" before 
 ```vb
 Dim vsoShape As Visio.Shape 
 Set vsoShape = Visio.ActivePage.Shapes.Item("U{2287DC42-B167-11CE-88E9-0020AFDDD917}") 
-
 ```
 
 

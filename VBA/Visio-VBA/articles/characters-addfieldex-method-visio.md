@@ -50,31 +50,32 @@ The  _CalendarID_ argument should be one of the following values, which are decl
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visCalWestern**|0|Western|
-| **visCalArabicHijri**|1|Arabic Hijiri|
-| **visCalHebrewLunar**|2|Hebrew Lunar|
-| **visCalChineseTaiwan**|3|Taiwan Calendar|
-| **visCalJapaneseEmperor**|4|Japanese Emperor Reign|
-| **visCalThaiBuddhism**|5|Thai Buddhist|
-| **visCalKoreanDanki**|6|Korean Danki|
-| **visCalSakaEra**|7|Saka Era|
-| **visCalTranslitEnglish**|8| English transliterated|
-| **visCalTranslitFrench**|9| French transliterated|
+| <strong>Constant</strong>              | <strong>Value</strong> | <strong>Description</strong> |
+|:---------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visCalWestern</strong>         | 0                      | Western                      |
+| <strong>visCalArabicHijri</strong>     | 1                      | Arabic Hijiri                |
+| <strong>visCalHebrewLunar</strong>     | 2                      | Hebrew Lunar                 |
+| <strong>visCalChineseTaiwan</strong>   | 3                      | Taiwan Calendar              |
+| <strong>visCalJapaneseEmperor</strong> | 4                      | Japanese Emperor Reign       |
+| <strong>visCalThaiBuddhism</strong>    | 5                      | Thai Buddhist                |
+| <strong>visCalKoreanDanki</strong>     | 6                      | Korean Danki                 |
+| <strong>visCalSakaEra</strong>         | 7                      | Saka Era                     |
+| <strong>visCalTranslitEnglish</strong> | 8                      | English transliterated       |
+| <strong>visCalTranslitFrench</strong>  | 9                      | French transliterated        |
+
 Using the  **AddFieldEx** method is similar to clicking **Field** on the **Insert** tab and inserting any of the following categories of fields into the text:
 
 
 - Date/Time
-    
+
 - Document Info
-    
+
 - Geometry
-    
+
 - Object Info
-    
+
 - Page Info
-    
+
 
 
 To add a custom formula field, use the  **AddCustomField** or **AddCustomFieldU** method. When you do not pass values (or pass default values) for the optional _LangID_ and _CalendarID_ arguments, **AddFieldEx** acts exactly like **AddField** .
@@ -87,25 +88,25 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 ```vb
 Public Sub AddFieldEx_Example() 
- 
+
  Dim vsoCharacters As Visio.Characters 
  Dim vsoShape As Visio.Shape 
- 
+
  ActiveWindow.DeselectAll 
- 
+
  Set vsoShape = Application.ActivePage.DrawRectangle(3, 5, 5, 3) 
  vsoShape.Text = "Date: " 
- 
+
  Set vsoCharacters = vsoShape.Characters 
- 
+
  'Set Begin property equal to End property to 
  'append new text to existing text. 
  vsoCharacters.Begin = vsoCharacters.End 
- 
+
  'Add a field for the current date, in Greek, 
  'using the Western calendar and the long date format. 
  vsoCharacters.AddFieldEx visFCatDateTime, visFCodeCurrentDate, visFmtMsoDateLong, 1032, visCalWestern 
- 
+
 End Sub
 ```
 

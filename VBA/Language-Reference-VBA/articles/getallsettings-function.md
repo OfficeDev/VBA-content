@@ -19,10 +19,11 @@ Returns a list of key settings and their respective values (originally created w
 The  **GetAllSettings** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_appname_**|Required. [String expression](vbe-glossary.md) containing the name of the application or[project](vbe-glossary.md) whose key settings are requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
-|**_section_**|Required. String e **xpression** containing the name of the section whose key settings are requested. **GetAllSettings** returns a[Variant](vbe-glossary.md) whose contents is a two-dimensional[array](vbe-glossary.md) of strings containing all the key settings in the specified section and their corresponding values.|
+| <strong>Part</strong>             | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                           |
+|:----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>appname</em></strong> | Required. [String expression](vbe-glossary.md) containing the name of the application or[project](vbe-glossary.md) whose key settings are requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.                                                                                 |
+| <strong><em>section</em></strong> | Required. String e <strong>xpression</strong> containing the name of the section whose key settings are requested. <strong>GetAllSettings</strong> returns a[Variant](vbe-glossary.md) whose contents is a two-dimensional[array](vbe-glossary.md) of strings containing all the key settings in the specified section and their corresponding values. |
+
  **Remarks**
  **GetAllSettings** returns an uninitialized **Variant** if either **_appname_** or **_section_** does not exist.
 
@@ -45,8 +46,6 @@ MySettings = GetAllSettings(appname := "MyApp", section := "Startup")
         Debug.Print MySettings(intSettings, 0), MySettings(intSettings, 1)
     Next intSettings
 DeleteSetting "MyApp", "Startup"
-
-
 ```
 
 

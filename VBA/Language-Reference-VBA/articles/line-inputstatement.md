@@ -20,10 +20,11 @@ Reads a single line from an open sequential file and assigns it to a [String](vb
 The  **Line Input #** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
-| _varname_|Required. Valid [Variant](vbe-glossary.md) or **String** variable name.|
+| <strong>Part</strong> | <strong>Description</strong>                                                         |
+|:----------------------|:-------------------------------------------------------------------------------------|
+| <em>filenumber</em>   | Required. Any valid [file number](vbe-glossary.md).                                  |
+| <em>varname</em>      | Required. Valid [Variant](vbe-glossary.md) or <strong>String</strong> variable name. |
+
  **Remarks**
 Data read with  **Line Input #** is usually written from a file with **Print #**.
 The  **Line Input #** statement reads from a file one character at a time until it encounters a carriage return ( **Chr(** 13 **)** ) or carriage return-linefeed ( **Chr(** 13 **)** + **Chr(** 10 **)** ) sequence. Carriage return-linefeed sequences are skipped rather than appended to the character string.
@@ -41,7 +42,6 @@ Do While Not EOF(1) ' Loop until end of file.
  Debug.Print TextLine ' Print to the Immediate window. 
 Loop 
 Close #1 ' Close file. 
-
 ```
 
 

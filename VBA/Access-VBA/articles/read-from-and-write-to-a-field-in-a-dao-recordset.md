@@ -15,7 +15,6 @@ When you read or write data to a field, you are actually reading or setting the 
 rstEmployees!LastName.Value = strName 
 rstEmployees!LastName = strName 
 rstEmployees![LastName] = strName 
-
 ```
 
 
@@ -27,19 +26,19 @@ Individual fields within an updatable  **Recordset** object may not be updatable
 
 ```vb
 Function RecordsetUpdatable(strSQL As String) As Boolean 
- 
+
 Dim dbsNorthwind As DAO.Database 
 Dim rstDynaset As DAO.Recordset 
 Dim intPosition As Integer 
- 
+
 On Error GoTo ErrorHandler 
- 
+
    ' Initialize the function's return value to True. 
    RecordsetUpdatable = True 
- 
+
    Set dbsNorthwind = CurrentDb 
    Set rstDynaset = dbsNorthwind.OpenRecordset(strSQL, dbOpenDynaset) 
- 
+
    ' If the entire dynaset isn't updatable, return False. 
    If rstDynaset.Updatable = False Then 
       RecordsetUpdatable = False 
@@ -54,15 +53,15 @@ On Error GoTo ErrorHandler
          End If 
       Next intPosition 
    End If 
- 
+
    rstDynaset.Close 
    dbsNorthwind.Close 
- 
+
    Set rstDynaset = Nothing 
    Set dbsNorthwind = Nothing 
- 
+
 Exit Sub 
- 
+
 ErrorHandler: 
    MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
 End Function

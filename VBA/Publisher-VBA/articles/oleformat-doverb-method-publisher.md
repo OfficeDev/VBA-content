@@ -58,19 +58,19 @@ This example performs the verb "Open" for the third shape on the first page of t
 ```vb
 Dim strVerb As String 
 Dim intVerb As Integer 
- 
+
 With ActiveDocument.Pages(1).Shapes(3) 
- 
+
  ' Verify that the shape is an OLE object. 
  If .Type = pbEmbeddedOLEObject Or _ 
  .Type = pbLinkedOLEObject Then 
- 
+
  ' Loop through the ObjectVerbs collection 
  ' until the "Open" verb is found. 
  For Each strVerb In .OLEFormat.ObjectVerbs 
  intVerb = intVerb + 1 
  If strVerb = "Open" Then 
- 
+
  ' Perform the "Open" verb. 
  .OLEFormat.DoVerb iVerb:=intVerb 
  Exit For 
@@ -78,7 +78,6 @@ With ActiveDocument.Pages(1).Shapes(3)
  Next strVerb 
  End If 
 End With 
-
 ```
 
 

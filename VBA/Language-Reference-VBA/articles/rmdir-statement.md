@@ -29,7 +29,6 @@ This example uses the  **RmDir** statement to remove an existing directory or fo
 ```vb
 ' Assume that MYDIR is an empty directory or folder. 
 RmDir "MYDIR" ' Remove MYDIR. 
-
 ```
 
 

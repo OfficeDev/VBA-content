@@ -33,9 +33,8 @@ The following example reads the shape command of the specified report and stores
 
 ```vb
 Dim strShape As String 
- 
-strShape = Reports(0).Shape
 
+strShape = Reports(0).Shape
 ```
 
 

@@ -35,16 +35,25 @@ The value of the  **PresetLightingDirection** property can be one of these **Mso
 
 ||
 |:-----|
-|**msoLightingBottom**|
-|**msoLightingBottomLeft**|
-|**msoLightingBottomRight**|
-|**msoLightingLeft**|
-|**msoLightingNone**|
-|**msoLightingRight**|
-|**msoLightingTop**|
-|**msoLightingTopLeft**|
-|**msoLightingTopRight**|
-|**msoPresetLightingDirectionMixed**|
+|<strong>msoLightingBottom</strong>|
+|
+<strong>msoLightingBottomLeft</strong>|
+|
+<strong>msoLightingBottomRight</strong>|
+|
+<strong>msoLightingLeft</strong>|
+|
+<strong>msoLightingNone</strong>|
+|
+<strong>msoLightingRight</strong>|
+|
+<strong>msoLightingTop</strong>|
+|
+<strong>msoLightingTopLeft</strong>|
+|
+<strong>msoLightingTopRight</strong>|
+|
+<strong>msoPresetLightingDirectionMixed</strong>|
 
 ## Example
 

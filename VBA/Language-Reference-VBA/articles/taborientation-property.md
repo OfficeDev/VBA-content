@@ -21,20 +21,22 @@ Specifies the location of the tabs on a  **MultiPage** or **TabStrip**.
 The  **TabOrientation** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmTabOrientation_|Optional. Where the tabs will appear.|
+| <strong>Part</strong>     | <strong>Description</strong>          |
+|:--------------------------|:--------------------------------------|
+| <em>object</em>           | Required. A valid object.             |
+| <em>fmTabOrientation</em> | Optional. Where the tabs will appear. |
+
  **Settings**
 The settings for  _fmTabOrientation_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmTabOrientationTop_|0|The tabs appear at the top of the control (default).|
-| _fmTabOrientationBottom_|1|The tabs appear at the bottom of the control.|
-| _fmTabOrientationLeft_|2|The tabs appear at the left side of the control.|
-| _fmTabOrientationRight_|3|The tabs appear at the right side of the control.|
+| <strong>Constant</strong>       | <strong>Value</strong> | <strong>Description</strong>                         |
+|:--------------------------------|:-----------------------|:-----------------------------------------------------|
+| <em>fmTabOrientationTop</em>    | 0                      | The tabs appear at the top of the control (default). |
+| <em>fmTabOrientationBottom</em> | 1                      | The tabs appear at the bottom of the control.        |
+| <em>fmTabOrientationLeft</em>   | 2                      | The tabs appear at the left side of the control.     |
+| <em>fmTabOrientationRight</em>  | 3                      | The tabs appear at the right side of the control.    |
+
  **Remarks**
 If you use TrueType fonts, the text rotates when the  **TabOrientation** property is set to **fmTabOrientationLeft** or **fmTabOrientationRight**. If you use bitmapped fonts, the text does not rotate.
 

@@ -95,9 +95,11 @@ The Microsoft Access database engine uses the following entries.
 
 
 
->[!NOTE] This setting should be used carefully. If a database is needed for multi-user access, then locking a whole table could cause locking conflicts for other users. This would be especially severe if a small number was used for this setting. Even when a larger number was used, such as 25 or 50, the operation for other users might become unpredictable.
-
->[!NOTE] When you change Windows Registry settings, you must exit and then restart the database engine for the new settings to take effect.
+> [!NOTE]
+> This setting should be used carefully. If a database is needed for multi-user access, then locking a whole table could cause locking conflicts for other users. This would be especially severe if a small number was used for this setting. Even when a larger number was used, such as 25 or 50, the operation for other users might become unpredictable.
+> 
+> [!NOTE]
+> When you change Windows Registry settings, you must exit and then restart the database engine for the new settings to take effect.
 
 ## Additional resources
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>

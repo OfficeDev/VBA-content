@@ -31,12 +31,11 @@ Public Sub FixDocument()
 Dim docStatus As MsoDocInspectorStatus 
 Dim results As String 
  ActiveDocument.DocumentInspectors(3).Fix docStatus, results 
- 
+
  MsgBox docStatus 
  MsgBox("The following items were removed " &amp; results) 
- 
-End Sub 
 
+End Sub 
 ```
 
 

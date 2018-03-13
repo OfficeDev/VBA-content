@@ -65,30 +65,31 @@ The value of the Style argument can be the sum of any combination of the followi
 
 
 
-|**Value**|**Meaning**|
-|:-----|:-----|
-|0 (zero)|None|
-|1|Borders|
-|2|Shading|
-|4|Font|
-|8|Color|
-|16|Auto Fit|
-|32|Heading Rows|
-|64|Last Row|
-|128|First Column|
-|256|Last Column|
+| <strong>Value</strong> | <strong>Meaning</strong> |
+|:-----------------------|:-------------------------|
+| 0 (zero)               | None                     |
+| 1                      | Borders                  |
+| 2                      | Shading                  |
+| 4                      | Font                     |
+| 8                      | Color                    |
+| 16                     | Auto Fit                 |
+| 32                     | Heading Rows             |
+| 64                     | Last Row                 |
+| 128                    | First Column             |
+| 256                    | Last Column              |
+
 How you specify the Connection argument depends on how data is retrieved. For example:
 
 
 - When retrieving data through Open Database Connectivity (ODBC), you specify a connection string.
-    
+
 - When retrieving data from Excel by using dynamic data exchange (DDE), you specify a named range or "Entire Spreadsheet."
  **Security Note**  
 
 
-    
+
 - When retrieving data from Access, you specify the word "Table" or "Query" followed by the name of a table or query.
-    
+
 
 ## Example
 

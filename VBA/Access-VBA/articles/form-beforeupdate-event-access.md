@@ -52,13 +52,13 @@ If the user enters a new value in the control, the  **OldValue** property settin
 You often use the **BeforeUpdate** event to validate data, especially when you perform complex validations, such as those that:
 
 - Involve conditions for more than one value on a form.
-    
+
 - Display different error messages for different data entered.
-    
+
 - Can be overridden by the user.
-    
+
 - Contain references to controls on other forms or contain user-defined functions. 
-    
+
 > [!NOTE]
 > To perform simple validations, or more complex validations such as requiring a value in a field or validating more than one control on a form, you can use the  **ValidationRule** property for controls and the **ValidationRule** and **Required** properties for fields and records in tables.
 
@@ -125,6 +125,7 @@ End Sub
 
 ## About the contributors
 <a name="AboutContributors"> </a>
+
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 

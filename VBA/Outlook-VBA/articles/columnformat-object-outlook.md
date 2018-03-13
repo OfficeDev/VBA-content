@@ -32,64 +32,62 @@ The following Visual Basic for Applications (VBA) example iterates through the  
 
 ```
 Private Sub DisplayTableViewFields() 
- 
- Dim objTableView As TableView 
- 
- Dim objViewField As ViewField 
- 
- Dim strOutput As String 
- 
- 
- 
- If Application.ActiveExplorer.CurrentView.ViewType = _ 
- 
- olTableView Then 
- 
- 
- 
- ' Obtain a TableView object reference for the 
- 
- ' current table view. 
- 
- Set objTableView = _ 
- 
- Application.ActiveExplorer.CurrentView 
- 
- 
- 
- ' Iterate through the ViewFields collection for 
- 
- ' the table view, obtaining the label and the 
- 
- ' XML schema name for each field included in 
- 
- ' the view. 
- 
- For Each objViewField In objTableView.ViewFields 
- 
- With objViewField 
- 
- strOutput = strOutput &amp; .ColumnFormat.Label &amp; _ 
- 
- " (" &amp; .ViewXMLSchemaName &amp; ")" &amp; vbCrLf 
- 
- End With 
- 
- Next 
- 
- 
- 
- ' Display a dialog box containing the concatenated 
- 
- ' view field information. 
- 
- MsgBox strOutput 
- 
- End If 
- 
-End Sub 
- 
 
+ Dim objTableView As TableView 
+
+ Dim objViewField As ViewField 
+
+ Dim strOutput As String 
+
+
+
+ If Application.ActiveExplorer.CurrentView.ViewType = _ 
+
+ olTableView Then 
+
+
+
+ ' Obtain a TableView object reference for the 
+
+ ' current table view. 
+
+ Set objTableView = _ 
+
+ Application.ActiveExplorer.CurrentView 
+
+
+
+ ' Iterate through the ViewFields collection for 
+
+ ' the table view, obtaining the label and the 
+
+ ' XML schema name for each field included in 
+
+ ' the view. 
+
+ For Each objViewField In objTableView.ViewFields 
+
+ With objViewField 
+
+ strOutput = strOutput &amp; .ColumnFormat.Label &amp; _ 
+
+ " (" &amp; .ViewXMLSchemaName &amp; ")" &amp; vbCrLf 
+
+ End With 
+
+ Next 
+
+
+
+ ' Display a dialog box containing the concatenated 
+
+ ' view field information. 
+
+ MsgBox strOutput 
+
+ End If 
+
+End Sub 
 ```
 
 

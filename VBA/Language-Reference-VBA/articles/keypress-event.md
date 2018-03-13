@@ -16,42 +16,45 @@ ms.date: 06/08/2017
 
 
 Occurs when the user presses an ANSI key.
- **Syntax**
- **Private Sub**_object_ _**KeyPress( ByVal**_KeyANSI_**As MSForms.ReturnInteger)**
-The  **KeyPress** event syntax has these parts:
+ <strong>Syntax</strong>
+ 
+<strong>Private Sub</strong><em>object</em> <em><strong>KeyPress( ByVal</strong>_KeyANSI</em><strong>As MSForms.ReturnInteger)</strong>
+The  
+<strong>KeyPress</strong> event syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _KeyANSI_|Required. An integer value that represents a standard numeric ANSI key code.|
+| <strong>Part</strong> | <strong>Description</strong>                                                 |
+|:----------------------|:-----------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                    |
+| <em>KeyANSI</em>      | Required. An integer value that represents a standard numeric ANSI key code. |
+
  **Remarks**
 The KeyPress event occurs when the user presses a key that produces a typeable character (an ANSI key) on a running form while the form or a control on it has the [focus](vbe-glossary.md). The event can occur either before or after the key is released. This event also occurs if you send an ANSI keystroke to a form or control using either the SendKeys action in a macro or the [SendKeys Statement](vbe-glossary.md) in Visual Basic.
 A KeyPress event can occur when any of the following keys are pressed:
 
 
 - Any printable keyboard character.
-    
+
 - CTRL combined with a character from the standard alphabet.
-    
+
 - CTRL combined with any special character.
-    
+
 - BACKSPACE.
-    
+
 - ESC.
-    
+
 
 A KeyPress event does not occur under the following conditions:
 
 
 - Pressing TAB.
-    
+
 - Pressing ENTER.
-    
+
 - Pressing an arrow key.
-    
+
 - When a keystroke causes the focus to move from one control to another.
-    
+
 
 
  **Note**  BACKSPACE is part of the [ANSI character set](vbe-glossary.md), but DELETE is not. Deleting a character in a control using BACKSPACE causes a KeyPress event; deleting a character using DELETE doesn't.
@@ -63,10 +66,10 @@ The sequence of keyboard-related events is:
 
 
 1. KeyDown
-    
+
 2. KeyPress
-    
+
 3. KeyUp
-    
+
 
 

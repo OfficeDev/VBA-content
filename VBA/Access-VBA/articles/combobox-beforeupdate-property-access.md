@@ -32,7 +32,7 @@ Valid values for this property are " _macroname_" where  _macroname_ is the name
 
 
 - [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
-    
+
 
 ## Example
 
@@ -41,18 +41,19 @@ The following example specifies that when the BeforeUpdate event occurs on the f
 
 ```vb
 Forms(0).BeforeUpdate = "[Event Procedure]" 
-
 ```
 
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

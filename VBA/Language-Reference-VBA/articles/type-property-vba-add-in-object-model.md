@@ -42,20 +42,22 @@ The  **Type** property settings for the **Window** object are described in the f
 The  **Type** property settings for the **VBComponent** object are described in the following table:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbext_ct_StdModule**|1|[Standard module](vbe-glossary.md)|
-|**vbext_ct_ClassModule**|2|[Class module](vbe-glossary.md)|
-|**vbext_ct_MSForm**|3|Microsoft Form|
-|**vbext_ct_ActiveXDesigner**|11|ActiveX Designer|
-|**vbext_ct_Document**|100|Document Module|
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong>       |
+|:------------------------------------------|:-----------------------|:-----------------------------------|
+| <strong>vbext_ct_StdModule</strong>       | 1                      | [Standard module](vbe-glossary.md) |
+| <strong>vbext_ct_ClassModule</strong>     | 2                      | [Class module](vbe-glossary.md)    |
+| <strong>vbext_ct_MSForm</strong>          | 3                      | Microsoft Form                     |
+| <strong>vbext_ct_ActiveXDesigner</strong> | 11                     | ActiveX Designer                   |
+| <strong>vbext_ct_Document</strong>        | 100                    | Document Module                    |
+
 The  **Type** property settings for the **Reference** object are described in the following table:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbext_rk_TypeLib**|0|[Type library](vbe-glossary.md)|
-|**vbext_rk_Project**|1|[Project](vbe-glossary.md)|
+| <strong>Constant</strong>         | <strong>Value</strong> | <strong>Description</strong>    |
+|:----------------------------------|:-----------------------|:--------------------------------|
+| <strong>vbext_rk_TypeLib</strong> | 0                      | [Type library](vbe-glossary.md) |
+| <strong>vbext_rk_Project</strong> | 1                      | [Project](vbe-glossary.md)      |
+
 The  **Type** property settings for the **VBProject** object are described in the following table:
 
 

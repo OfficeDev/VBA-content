@@ -47,7 +47,6 @@ The following example places the contents of the file "ShippingRoutines.bas" int
 
 ```vb
 Modules("CalculateShipping").AddFromFile "C:\Shipping\ShippingRoutines.bas" 
-
 ```
 
 

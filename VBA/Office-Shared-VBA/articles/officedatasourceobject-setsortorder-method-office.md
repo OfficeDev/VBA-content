@@ -44,17 +44,16 @@ The following example sorts the data source first according to Postal Code in de
 ```
 Sub SetDataSortOrder() 
  Dim appOffice As OfficeDataSourceObject 
- 
+
  Set appOffice = Application.OfficeDataSourceObject 
- 
+
  appOffice.Open bstrConnect:="DRIVER=SQL Server;SERVER=ServerName;" &amp; _ 
  "UID=user;PWD=;DATABASE=Northwind", bstrTable:="Employees" 
- 
+
  appOffice.SetSortOrder SortField1:="ZipCode", _ 
  SortAscending1:=False, SortField2:="LastName", _ 
  SortField3:="FirstName" 
 End Sub 
-
 ```
 
 

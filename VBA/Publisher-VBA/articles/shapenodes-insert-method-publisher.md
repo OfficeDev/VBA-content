@@ -68,7 +68,6 @@ With ActiveDocument.Pages(1).Shapes(3).Nodes
  EditingType:=msoEditingAuto, _ 
  X1:=210, Y1:=100 
 End With 
-
 ```
 
 

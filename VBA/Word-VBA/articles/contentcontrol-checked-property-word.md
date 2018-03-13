@@ -35,11 +35,10 @@ The following code example sets the specified check box content control  **Check
 
 ```vb
 Dim objCC As ContentControl 
- 
+
 Set objCC = ActiveDocument.ContentControls.Add (wdContentControlCheckbox) 
 objCC.Title = "Send Reminder" 
 objCC.Checked = true 
-
 ```
 
 

@@ -62,8 +62,6 @@ The following example checks the  **SolutionID** property to determine whether t
  MsgBox "The user clicked Cancel." 
  End If 
  Set objSmartDoc = Nothing 
- 
-
 ```
 
 

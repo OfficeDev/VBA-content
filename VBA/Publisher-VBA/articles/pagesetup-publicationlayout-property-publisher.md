@@ -40,7 +40,6 @@ The following example sets the layout of the active publication to  **pbLayoutBu
 With ActiveDocument.PageSetup
     .PublicationLayout = pbLayoutBusinessCardUS
 End With
-
 ```
 
 

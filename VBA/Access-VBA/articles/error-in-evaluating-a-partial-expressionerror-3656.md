@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Error in evaluating a partial expression. (Error 3656)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -16,11 +16,12 @@ You have entered an invalid expression in a Boolean filter used to determine whi
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|A string|A criteria that a record must satisfy in order to appear in the replicated table. The string is similar to an SQL WHERE clause, but you cannot specify subqueries, aggregate functions (such as Count), or user defined functions within the criteria.|
-|True|Replicate all records.|
-|False|(Default) Do not replicate any records.|
+| <strong>Value</strong> | <strong>Description</strong>                                                                                                                                                                                                                           |
+|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| A string               | A criteria that a record must satisfy in order to appear in the replicated table. The string is similar to an SQL WHERE clause, but you cannot specify subqueries, aggregate functions (such as Count), or user defined functions within the criteria. |
+| True                   | Replicate all records.                                                                                                                                                                                                                                 |
+| False                  | (Default) Do not replicate any records.                                                                                                                                                                                                                |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

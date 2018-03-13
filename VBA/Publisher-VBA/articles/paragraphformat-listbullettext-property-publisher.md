@@ -39,15 +39,15 @@ Returns an "Access Denied" message if the list is not a bulleted list.
 
 ## Example
 
-This example tests to see if the list type is a bulleted list. If it is, a test is made to see that the list bullet text is set to "*". If it is not, the  **SetListType** method is called and passed **pbListTypeBullet** as the pbListType parameter and "*" as the BulletText parameter.
+This example tests to see if the list type is a bulleted list. If it is, a test is made to see that the list bullet text is set to "<em>". If it is not, the  **SetListType</em>* method is called and passed <strong>pbListTypeBullet</strong> as the pbListType parameter and "*" as the BulletText parameter.
 
 
 ```vb
 Dim objParaForm As ParagraphFormat 
- 
+
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
 .TextFrame.TextRange.ParagraphFormat 
- 
+
 With objParaForm 
  If .ListType = pbListTypeBullet Then 
  If Not .ListBulletText = "*" Then 
@@ -55,8 +55,6 @@ With objParaForm
  End If 
  End If 
 End With 
- 
-
 ```
 
 

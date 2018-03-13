@@ -47,7 +47,6 @@ This example sets the vertical gridline style on the first open form to dashes. 
 
 ```vb
 Forms(0).VerticalDatasheetGridlineStyle = 2 
-
 ```
 
 

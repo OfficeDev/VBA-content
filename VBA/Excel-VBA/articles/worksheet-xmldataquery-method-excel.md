@@ -45,7 +45,7 @@ If the XPath exists within a column in an XML list, the  **Range** object return
 This method returns  **Nothing** if the XPath location path is not mapped into the grid. Thus, a return of **Nothing** doesn't necessarily mean that the map doesn't exist. It could mean that there is currently no data range available at the specified XPath location. You can use the **[XmlMapQuery](worksheet-xmlmapquery-method-excel.md)** method to check for the existence of a mapped XPath.
 
 
- **Note**  The  **XmlDataQuery** method allows you to query for the existence of particular map data. It can not be used to query for a piece of data in a map. For example, it is valid for a mapped range to exist in which the XPath for that range is "/root/People[@Age="23"]/FirstName". An XmlDataQuery query for this XPath location path will returnreturns the correct range. However, a query for "/root/People[FirstName="Joe"]" hoping to find "Joe" within the above mapped range will fail because the XPath definitions for the mapped ranges are different.
+ <strong>Note</strong>  The  <strong>XmlDataQuery</strong> method allows you to query for the existence of particular map data. It can not be used to query for a piece of data in a map. For example, it is valid for a mapped range to exist in which the XPath for that range is "/root/People[@Age="23"]/FirstName". An XmlDataQuery query for this XPath location path will returnreturns the correct range. However, a query for "/root/People[FirstName="Joe"]" hoping to find "Joe" within the above mapped range will fail because the XPath definitions for the mapped ranges are different.
 
 
 ## See also

@@ -32,9 +32,9 @@ The following code example uses the  **Add** method to add several list items to
 Dim objCC As ContentControl 
 Dim objLE As ContentControlListEntry 
 Dim objMap As XMLMapping 
- 
+
 Set objCC = ActiveDocument.ContentControls.Add(wdContentControlDropdownList) 
- 
+
 'List items 
 objCC.DropdownListEntries.Add "Cat" 
 objCC.DropdownListEntries.Add "Dog" 
@@ -42,9 +42,8 @@ objCC.DropdownListEntries.Add "Equine"
 objCC.DropdownListEntries.Add "Monkey" 
 objCC.DropdownListEntries.Add "Snake" 
 objCC.DropdownListEntries.Add "Other" 
- 
-Set objLE = objCC.DropdownListEntries.Item(3) objLE.Text = "Horse" 
 
+Set objLE = objCC.DropdownListEntries.Item(3) objLE.Text = "Horse" 
 ```
 
 Use the  **[MoveUp](contentcontrollistentry-moveup-method-word.md)** and **[MoveDown](contentcontrollistentry-movedown-method-word.md)** methods to reposition items in a drop-down list. The following code example moves the first item down, so that it becomes the last item in the list, and moves the last item up, so that it becomes the first item in the list.
@@ -57,26 +56,26 @@ Dim objcc As ContentControl
 Dim objLE1 As ContentControlListEntry 
 Dim objLE2 As ContentControlListEntry 
 Dim intCount As Integer 
- 
+
 Set objcc = ActiveDocument.ContentControls.Item(3) 
- 
+
 If objcc.Type = wdContentControlComboBox Or _ 
  objcc.Type = wdContentControlDropdownList Then 
- 
+
  'First item in the list. 
  Set objLE1 = objcc.DropdownListEntries.Item(1) 
- 
+
  'Last item in the list. 
  Set objLE2 = objcc.DropdownListEntries.Item(objcc.DropdownListEntries.Count) 
- 
+
  For intCount = 1 To objcc.DropdownListEntries.Count 
  'Move the first item down one. 
  objLE1.MoveDown 
- 
+
  'Move the last item up one. 
  objLE2.MoveUp 
  Next 
- 
+
 End If
 ```
 
@@ -89,19 +88,19 @@ Use the  **[Select](contentcontrollistentry-select-method-word.md)** method to p
 Dim objCC As ContentControl 
 Dim objCE As ContentControlListEntry 
 Dim objMap As XMLMapping 
- 
+
 Set objCC = ActiveDocument.ContentControls.Add(wdContentControlDropdownList) 
 objCC.Title = "My Favorite Animal" 
 If objCC.ShowingPlaceholderText Then _ 
  objCC.SetPlaceholderText , , "Select your favorite animal " 
- 
+
 'List entries 
 objCC.DropdownListEntries.Add "Cat" 
 objCC.DropdownListEntries.Add "Dog" 
 objCC.DropdownListEntries.Add "Horse" 
 objCC.DropdownListEntries.Add "Monkey" 
 objCC.DropdownListEntries.Add "Snake" 
- 
+
 Set objCE = objCC.DropdownListEntries.Add("Other") 
 objCE.Select
 ```
@@ -118,9 +117,9 @@ Dim objCc As ContentControl
 Dim objLe As ContentControlListEntry 
 Dim strText As String 
 Dim strChar As String 
- 
+
 Set objCc = ActiveDocument.ContentControls(3) 
- 
+
 For Each objLE In objCC.DropdownListEntries 
  If objLE.Text <> "Other" Then 
  strText = objLE.Text 
@@ -137,7 +136,7 @@ Use the  **[Delete](contentcontrollistentry-delete-method-word.md)** method to r
 ```
 Dim objCC As ContentControl 
 Dim objCL As ContentControlListEntry 
- 
+
 For Each objCC In ActiveDocument.ContentControls 
  If objCC.Type = wdContentControlComboBox Or _ 
  objCC.Type = wdContentControlDropdownList Then 
@@ -146,7 +145,6 @@ For Each objCC In ActiveDocument.ContentControls
  Next 
  End If 
 Next 
- 
 ```
 
 

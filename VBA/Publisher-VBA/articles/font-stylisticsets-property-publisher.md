@@ -31,13 +31,14 @@ Possible values for the  **StylisticSets** property and how they correspond to i
 
 
 
-|**StylisticSets property value**|**Stylistic set identifier in UI**|
-|:-----|:-----|
-|0|0|
-|1|1|
-|2|2|
-|4|3|
-|8|4|
+| <strong>StylisticSets property value</strong> | <strong>Stylistic set identifier in UI</strong> |
+|:----------------------------------------------|:------------------------------------------------|
+| 0                                             | 0                                               |
+| 1                                             | 1                                               |
+| 2                                             | 2                                               |
+| 4                                             | 3                                               |
+| 8                                             | 4                                               |
+
 The number of stylistic sets available varies, depending on the font.
 
 

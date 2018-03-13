@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Required Property (Access)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -29,10 +29,11 @@ The  **Required** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True** (-1)|The field requires a value.|
-|No|**False** (0)|(Default) The field doesn't require a value.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                 |
+|:-------------------------|:------------------------------|:---------------------------------------------|
+| Yes                      | <strong>True</strong> (-1)    | The field requires a value.                  |
+| No                       | <strong>False</strong> (0)    | (Default) The field doesn't require a value. |
+
 You can set this property for all table fields (except AutoNumber data type fields) by using the table's property sheet or Visual Basic .
 
 
@@ -52,12 +53,13 @@ The following table shows the results you can expect when you combine the settin
 
 
 
-|**Required**|**AllowZeroLength**|**User's action**|**Value stored**|
-|:-----|:-----|:-----|:-----|
-|No|No|Presses ENTER Presses SPACEBAR Enters a zero-length string|**Null** **Null** (not allowed)|
-|No|Yes|Presses ENTER Presses SPACEBAR Enters a zero-length string|**Null** **Null** Zero-length string|
-|Yes|No|Presses ENTER Presses SPACEBAR Enters a zero-length string|(not allowed) (not allowed) (not allowed)|
-|Yes|Yes|Presses ENTER Presses SPACEBAR Enters a zero-length string|(not allowed) Zero-length string Zero-length string|
+| <strong>Required</strong> | <strong>AllowZeroLength</strong> | <strong>User's action</strong>                             | <strong>Value stored</strong>                                  |
+|:--------------------------|:---------------------------------|:-----------------------------------------------------------|:---------------------------------------------------------------|
+| No                        | No                               | Presses ENTER Presses SPACEBAR Enters a zero-length string | <strong>Null</strong> <strong>Null</strong> (not allowed)      |
+| No                        | Yes                              | Presses ENTER Presses SPACEBAR Enters a zero-length string | <strong>Null</strong> <strong>Null</strong> Zero-length string |
+| Yes                       | No                               | Presses ENTER Presses SPACEBAR Enters a zero-length string | (not allowed) (not allowed) (not allowed)                      |
+| Yes                       | Yes                              | Presses ENTER Presses SPACEBAR Enters a zero-length string | (not allowed) Zero-length string Zero-length string            |
+
 If you set the  **Required** property to Yes for a field in a table that already contains data, Microsoft Access gives you the option of checking whether the field has a value in all existing records. However, you can require that a value be entered in this field in all new records even if there are existing records with **Null** values in the field.
 
 

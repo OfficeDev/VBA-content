@@ -15,7 +15,7 @@ Occurs after properties of a master are changed and propagated to its instances.
 
 ## Syntax
 
-Private Sub  _expression_ _**MasterChanged**( **_ByVal master As [IVMASTER]_** )
+Private Sub  <em>expression</em> <em><strong>MasterChanged</strong>( **_ByVal master As [IVMASTER]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

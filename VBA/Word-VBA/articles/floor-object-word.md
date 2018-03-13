@@ -27,7 +27,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.Floor.Interior.Color = RGB(0, 255, 255) 
  End If 
 End With 
-
 ```
 
 

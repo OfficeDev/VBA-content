@@ -30,8 +30,6 @@ This example uses the  **Tan** function to return the tangent of an angle.
 Dim MyAngle, MyCotangent
 MyAngle = 1.3    ' Define angle in radians.
 MyCotangent = 1 / Tan(MyAngle)    ' Calculate cotangent.
-
-
 ```
 
 

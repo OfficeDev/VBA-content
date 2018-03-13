@@ -18,7 +18,7 @@ Occurs when a user validates mail merge recipients by clicking  **Validate** in 
 
 ## Syntax
 
-Private Sub  _expression_ _**MailMergeDataSourceValidate**( **_ByVal Doc As Document_** , **_Handled As Boolean_** )
+Private Sub  <em>expression</em> <em><strong>MailMergeDataSourceValidate</strong>( **_ByVal Doc As Document</em>** , <strong><em>Handled As Boolean</em></strong> )
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object that has been declared with events in a class module.
 

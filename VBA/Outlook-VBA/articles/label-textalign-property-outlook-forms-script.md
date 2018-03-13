@@ -24,11 +24,12 @@ The settings for  **TextAlign** are:
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|1|Aligns the first character of displayed text with the left edge of the control's display or edit area (default).|
-|2|Centers the text in the control's display or edit area.|
-|3|Aligns the last character of displayed text with the right edge of the control's display or edit area.|
+| <strong>Value</strong> | <strong>Description</strong>                                                                                     |
+|:-----------------------|:-----------------------------------------------------------------------------------------------------------------|
+| 1                      | Aligns the first character of displayed text with the left edge of the control's display or edit area (default). |
+| 2                      | Centers the text in the control's display or edit area.                                                          |
+| 3                      | Aligns the last character of displayed text with the right edge of the control's display or edit area.           |
+
 For stand-alone labels,  **TextAlign** determines the alignment of the label's caption.
 
 

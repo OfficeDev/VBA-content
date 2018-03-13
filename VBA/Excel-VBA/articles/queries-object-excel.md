@@ -18,8 +18,10 @@ The collection of [WorkbookQuery](workbookquery-object-excel.md) objects Introdu
 <a name="methods"> </a>
 
 
+
 |
 |
+
 |**Name**|
 |:-----|
 |[Add](queries-add-method-excel.md)|
@@ -27,6 +29,7 @@ The collection of [WorkbookQuery](workbookquery-object-excel.md) objects Introdu
 
 ## Properties
 <a name="properties"> </a>
+
 
 
 
@@ -40,6 +43,7 @@ The collection of [WorkbookQuery](workbookquery-object-excel.md) objects Introdu
 
 ## See also
 <a name="properties"> </a>
+
 
 
 #### Other resources

@@ -36,7 +36,6 @@ With ActivePresentation.SlideMaster.TextStyles(ppBodyStyle).Ruler2
  .Levels(5).FirstMargin = 240 
  .Levels(5).LeftMargin = 280 
 End With 
-
 ```
 
 

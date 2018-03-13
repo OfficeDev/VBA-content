@@ -47,19 +47,21 @@ The following possible values for  _FlipDirection_ are declared in **VisFlipDire
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visFlipHorizontal**|1|Flip the selection horizontally.|
-| **visFlipVertical**|2|Flip the selection vertically.|
+| <strong>Constant</strong>          | <strong>Value</strong> | <strong>Description</strong>     |
+|:-----------------------------------|:-----------------------|:---------------------------------|
+| <strong>visFlipHorizontal</strong> | 1                      | Flip the selection horizontally. |
+| <strong>visFlipVertical</strong>   | 2                      | Flip the selection vertically.   |
+
 The following possible values for  _FlipType_ are declared in **VisFlipTypes** in the Visio type library.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visFlipSelectionWithPin**|1|Flip the selection about a pin.|
-| **visFlipSelection**|0|Flip the selection about its center.|
-| **visFlipShapes**|2|Flip the selected shapes about their pins.|
+| <strong>Constant</strong>                | <strong>Value</strong> | <strong>Description</strong>               |
+|:-----------------------------------------|:-----------------------|:-------------------------------------------|
+| <strong>visFlipSelectionWithPin</strong> | 1                      | Flip the selection about a pin.            |
+| <strong>visFlipSelection</strong>        | 0                      | Flip the selection about its center.       |
+| <strong>visFlipShapes</strong>           | 2                      | Flip the selected shapes about their pins. |
+
 You can specify  _PinUnitsNameOrCode_ as an integer (a member of **[VisUnitCodes](visunitcodes-enumeration-visio.md)** ) or a string value such as "inches". If the string is invalid or the unit code is inappropriate (nontextual), an error is generated.
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About units of measure](http://msdn.microsoft.com/library/b6140312-b8e6-0cf2-9fe0-b14e800216bf%28Office.15%29.aspx).
@@ -72,22 +74,22 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 ```vb
 Public Sub Flip_Example() 
- 
+
  Dim vsoShape1 As Visio.Shape 
  Dim vsoShape2 As Visio.Shape 
- 
- 
+
+
  Set vsoShape1 = Application.ActiveWindow.Page.DrawRectangle(1, 9, 3, 7) 
  Set vsoShape2 = Application.ActiveWindow.Page.DrawRectangle(3, 6, 5, 5) 
- 
+
  ActiveWindow.DeselectAll 
- 
+
  ActiveWindow.Select vsoShape1, visSelect 
  ActiveWindow.Select vsoShape2, visSelect 
- 
- 
+
+
  Application.ActiveWindow.Selection.Flip visFlipHorizontal, visFlipSelection, False 
- 
+
 End Sub
 ```
 

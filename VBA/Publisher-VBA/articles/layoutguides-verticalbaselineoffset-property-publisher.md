@@ -42,7 +42,6 @@ This example sets the vertical baseline offset of the layout guides object to 12
 Dim objLayout As LayoutGuides 
 Set objLayout = ActiveDocument.MasterPages(2).LayoutGuides 
 objLayout.VerticalBaseLineOffset = 12 
-
 ```
 
 

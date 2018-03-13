@@ -32,13 +32,12 @@ The following code shows how to set the warp format for shape one on slide one o
 
 ```
 Public Sub WarpFormat_Example() 
- 
+
  Dim pptSlide As Slide 
  Set pptSlide = ActivePresentation.Slides(1) 
  pptSlide.Shapes(1).TextFrame2.WarpFormat = msoWarpFormat15 
- 
-End Sub 
 
+End Sub 
 ```
 
 

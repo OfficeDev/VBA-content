@@ -16,8 +16,9 @@ Constants passed to various  **WorksheetFunction** and **Workbook** statistical 
 
 
 |xlForecastDataCompletionInterpolatexlForecastDataCompletionZeros|10|Data completion by interpolationData completion by zeroes|
-| **xlForecastDataCompletionInterpolate**| **1**||
-| **xlForecastDataCompletionZeros**| **0**||
+| <strong>xlForecastDataCompletionInterpolate</strong>| <strong>1</strong>||
+| 
+<strong>xlForecastDataCompletionZeros</strong>| <strong>0</strong>||
 
 ## See also
 

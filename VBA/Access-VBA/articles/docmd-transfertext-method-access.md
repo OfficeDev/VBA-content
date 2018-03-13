@@ -71,12 +71,12 @@ Public Sub DoMailMerge(strFileSavePath As String)
         LinkToSource:=True, _
         Connection:="TABLE Customers", _
         SQLStatement:="SELECT Customers.* FROM Customers;"
-              
+
     ' Add fields to the mail merge document
     Dim oSel As Object
     Set oSel = wdApp.Selection
     With wdApp.ActiveDocument.MailMerge.Fields
-    
+
         oSel.TypeText vbNewLine &; vbNewLine
         .Add oSel.range, "First_Name"
         oSel.TypeText " "
@@ -103,13 +103,13 @@ Public Sub DoMailMerge(strFileSavePath As String)
         oSel.TypeText vbNewLine
         oSel.TypeText "Sincerely," &; vbNewLine &; "John Q. Public"
         oSel.TypeText vbFormFeed
-        
+
     End With
-    
+
     ' Execute the mail merge and save the document
     wdApp.ActiveDocument.MailMerge.Execute
     wdApp.ActiveDocument.SaveAs strFileSavePath
-        
+
     ' Close everything and Cleanup Variables
     Set oSel = Nothing
     wdApp.ActiveDocument.Close False
@@ -121,6 +121,7 @@ End Sub
 
 ## About the contributors
 <a name="AboutContributors"> </a>
+
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 

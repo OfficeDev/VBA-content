@@ -37,10 +37,13 @@ The DropType parameter can be one of the  **MsoCalloutDropType** constants decla
 
 
 
-| **msoCalloutDropBottom**|
-| **msoCalloutDropCenter**|
-| **msoCalloutDropCustom**|
-| **msoCalloutDropTop**|
+| <strong>msoCalloutDropBottom</strong>|
+| 
+<strong>msoCalloutDropCenter</strong>|
+| 
+<strong>msoCalloutDropCustom</strong>|
+| 
+<strong>msoCalloutDropTop</strong>|
 
 ## Example
 
@@ -65,7 +68,6 @@ With ActiveDocument.Pages(1).Shapes(1).Callout
  .PresetDrop DropType:=msoCalloutDropTop 
  End Select 
 End With 
-
 ```
 
 

@@ -65,8 +65,6 @@ Debug.Print MyAttr And (vbHidden + vbReadOnly)
 
 ' Assume MYDIR is a directory or folder.
 MyAttr = GetAttr("MYDIR")    ' Returns 16.
-
-
 ```
 
 

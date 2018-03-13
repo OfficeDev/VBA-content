@@ -25,18 +25,18 @@ The following example creates a shortcut menu named  **SimpleShortcutMenu** that
 ```vb
 Sub CreateSimpleShortcutMenu() 
     Dim cmbShortcutMenu As Office.CommandBar 
-     
+
     ' Create a shortcut menu named "SimpleShortcutMenu. 
     Set cmbShortcutMenu = CommandBars.Add("SimpleShortcutMenu", msoBarPopup, False, True) 
-     
+
     ' Add the Remove Filter/Sort command. 
     cmbShortcutMenu.Controls.Add Type:=msoControlButton, Id:=605 
- 
+
     ' Add the Filter By Selection command. 
     cmbShortcutMenu.Controls.Add Type:=msoControlButton, Id:=640 
-     
+
     Set cmbShortcutMenu = Nothing 
-     
+
 End Sub
 ```
 
@@ -49,33 +49,33 @@ The following example creates a shortcut menu named  **cmdFormFiltering** that c
 ```vb
 Sub CreateShortcutMenuWithGroups() 
     Dim cmbRightClick As Office.CommandBar 
- 
+
  ' Create the shortcut menu. 
     Set cmbRightClick = CommandBars.Add("cmdFormFiltering", msoBarPopup, False, True) 
-     
+
     With cmbRightClick 
         ' Add the Find command. 
         .Controls.Add msoControlButton, 141, , , True 
-         
+
         ' Start a new grouping and add the Sort Ascending command. 
         .Controls.Add(msoControlButton, 210, , , True).BeginGroup = True 
-         
+
         ' Add the Sort Descending command. 
         .Controls.Add msoControlButton, 211, , , True 
-         
+
         ' Start a new grouping and add the Remove Filer/Sort command. 
         .Controls.Add(msoControlButton, 605, , , True).BeginGroup = True 
-         
+
         ' Add the Filter by Selection command. 
         .Controls.Add msoControlButton, 640, , , True 
-         
+
         ' Add the Filter Excluding Selection command. 
         .Controls.Add msoControlButton, 3017, , , True 
-         
+
         ' Add the Between... command. 
         .Controls.Add msoControlButton, 10062, , , True 
     End With 
- 
+
 Set cmbRightClick = Nothing 
 End Sub
 ```
@@ -88,39 +88,39 @@ The following example creates a shortcut menu named  **cmdReportRightClick** tha
 Sub CreateReportShortcutMenu() 
     Dim cmbRightClick As Office.CommandBar 
     Dim cmbControl As Office.CommandBarControl 
- 
+
    ' Create the shortcut menu. 
     Set cmbRightClick = CommandBars.Add("cmdReportRightClick", msoBarPopup, False, True) 
- 
+
     With cmbRightClick 
-         
+
         ' Add the Print command. 
         Set cmbControl = .Controls.Add(msoControlButton, 2521, , , True) 
         ' Change the caption displayed for the control. 
         cmbControl.Caption = "Quick Print" 
-         
+
         ' Add the Print command. 
         Set cmbControl = .Controls.Add(msoControlButton, 15948, , , True) 
         ' Change the caption displayed for the control. 
         cmbControl.Caption = "Select Pages" 
-         
+
         ' Add the Page Setup... command. 
         Set cmbControl = .Controls.Add(msoControlButton, 247, , , True) 
         ' Change the caption displayed for the control. 
         cmbControl.Caption = "Page Setup" 
-         
+
         ' Add the Mail Recipient (as Attachment)... command. 
         Set cmbControl = .Controls.Add(msoControlButton, 2188, , , True) 
         ' Start a new group. 
         cmbControl.BeginGroup = True 
         ' Change the caption displayed for the control. 
         cmbControl.Caption = "Email Report as an Attachment" 
-         
+
         ' Add the PDF or XPS command. 
         Set cmbControl = .Controls.Add(msoControlButton, 12499, , , True) 
         ' Change the caption displayed for the control. 
         cmbControl.Caption = "Save as PDF/XPS" 
-         
+
         ' Add the Close command. 
         Set cmbControl = .Controls.Add(msoControlButton, 923, , , True) 
         ' Start a new group. 
@@ -128,7 +128,7 @@ Sub CreateReportShortcutMenu()
         ' Change the caption displayed for the control. 
         cmbControl.Caption = "Close Report" 
     End With 
-     
+
     Set cmbControl = Nothing 
     Set cmbRightClick = Nothing 
 End Sub
@@ -137,6 +137,7 @@ End Sub
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
+
 
 Edwin Blancovitch is president of [Advanced Developers.net](http://advdev.net/), creators of [Easy Payroll](http://www.easypayroll.net/), a software package to manage your human resources, payroll, scheduling, time and attendance needs.
 

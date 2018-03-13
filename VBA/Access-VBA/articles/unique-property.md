@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Unique Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -27,10 +27,11 @@ The  **Unique** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True** (-1)|The index is a key (unique) index.|
-|No|**False** (0)|The index is a non-key index.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>       |
+|:-------------------------|:------------------------------|:-----------------------------------|
+| Yes                      | <strong>True</strong> (-1)    | The index is a key (unique) index. |
+| No                       | <strong>False</strong> (0)    | The index is a non-key index.      |
+
 You can set this property in the Indexes window of table Design view or by using Visual Basic.
 
 

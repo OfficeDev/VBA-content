@@ -45,9 +45,9 @@ The maximum length of the  _sqlstatement_ argument is 32,768 characters (unlike 
 
 
 - [Calling Action Queries](http://www.utteraccess.com/wiki/index.php/Calling_Action_Queries)
-    
+
 - [Queries/SQL: Use Statements Stored in Table](http://www.utteraccess.com/wiki/index.php/Queries/SQL:_Use_Statements_Stored_in_Table)
-    
+
 
 ## Example
 
@@ -56,15 +56,15 @@ The following example updates the Employees table, changing each sales manager's
 
 ```vb
 Public Sub DoSQL() 
- 
+
     Dim SQL As String 
-     
+
     SQL = "UPDATE Employees " &; _ 
           "SET Employees.Title = 'Regional Sales Manager' " &; _ 
           "WHERE Employees.Title = 'Sales Manager'" 
- 
+
     DoCmd.RunSQL SQL 
-     
+
 End Sub
 ```
 
@@ -72,11 +72,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

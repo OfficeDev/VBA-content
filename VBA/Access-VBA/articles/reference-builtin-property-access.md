@@ -29,10 +29,11 @@ The  **BuiltIn** property is available only by using Visual Basic and is read-on
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True** (?1)|The  **Reference** object refers to a default reference that can't be removed.|
-|**False** (0)|The  **Reference** object refers to a nondefault reference that isn't necessary for Microsoft Access to function properly.|
+| <strong>Value</strong>     | <strong>Description</strong>                                                                                                            |
+|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>True</strong> (?1) | The  <strong>Reference</strong> object refers to a default reference that can't be removed.                                             |
+| <strong>False</strong> (0) | The  <strong>Reference</strong> object refers to a nondefault reference that isn't necessary for Microsoft Access to function properly. |
+
 The default references in Microsoft Access include the Microsoft Access 12.0 object library, Microsoft Office 12.0 Access Connectivity Engine, the Visual Basic For Applications library, OLE Automation library, and Microsoft ActiveX Data Objects 2.5 library.
 
 
@@ -44,7 +45,7 @@ The following example prints the default references in the  **References** colle
 ```vb
 Sub ReferenceBuiltInOnly() 
  Dim ref As Reference 
- 
+
  ' Enumerate through References collection. 
  For Each ref In References 
  ' Check BuiltIn property. 

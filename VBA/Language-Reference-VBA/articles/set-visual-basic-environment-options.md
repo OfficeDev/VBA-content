@@ -16,62 +16,65 @@ You can set the behavior and look of the Visual Basic development environment th
 
 
 -  **Editor** tab to specify Code window and Project window settings.
-    
+
 -  **Editor Format** tab to specify the appearance of your code.
-    
+
 -  **Genera** l tab to specify form, error handling, and compile settings for your project.
-    
+
 -  **Docking** tab to specify whether a window is attached or "anchored" to one edge of other dockable or application windows.
-    
+
 
  **To set Environment options**
 
 
 - On the  **Tools** menu of the Visual Basic editor, click **Options**. Each option is described in the following tables.
-    
+
 
  **Editor**
 
 
-|**Option**|**Description**|
-|:-----|:-----|
-|**Auto Syntax Check**|Visual Basic automatically verifies correct syntax after you enter a line of code.|
-|**Require Variable Declaration**|Explicit variable declarations are required in [modules](vbe-glossary.md).|
-|**Auto Indent**|After tabbing the first line of code, all subsequent lines start at that tab location.|
-|**Tab Width**|The tab width, which can range from 1 - 32 spaces. (Default is 4 spaces.)|
-|**Default to Full Module View**|[Procedures](vbe-glossary.md) for new modules are displayed in the **Code** window as a single, scrollable list or one procedure at a time.|
-|**Procedure Separator**|Display separator bars at the end of each procedure in the  **Code** window.|
-|**Auto List Members**|At the insertion point, Visual Basic displays information that logically completes a statement.|
-|**Auto Quick Info**|Information about functions and their [arguments](vbe-glossary.md) is displayed as you type.|
-|**Auto Data Tips**|Automatically display the value of any [variable](vbe-glossary.md) on which you place the mouse pointer. Available only in[break mode](vbe-glossary.md).|
-|**Drag-Drop in Text Editing**|Code elements can be dragged from the  **Code** window into the **Immediate** or **Watch** windows.|
+| <strong>Option</strong>                       | <strong>Description</strong>                                                                                                                             |
+|:----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Auto Syntax Check</strong>            | Visual Basic automatically verifies correct syntax after you enter a line of code.                                                                       |
+| <strong>Require Variable Declaration</strong> | Explicit variable declarations are required in [modules](vbe-glossary.md).                                                                               |
+| <strong>Auto Indent</strong>                  | After tabbing the first line of code, all subsequent lines start at that tab location.                                                                   |
+| <strong>Tab Width</strong>                    | The tab width, which can range from 1 - 32 spaces. (Default is 4 spaces.)                                                                                |
+| <strong>Default to Full Module View</strong>  | [Procedures](vbe-glossary.md) for new modules are displayed in the <strong>Code</strong> window as a single, scrollable list or one procedure at a time. |
+| <strong>Procedure Separator</strong>          | Display separator bars at the end of each procedure in the  <strong>Code</strong> window.                                                                |
+| <strong>Auto List Members</strong>            | At the insertion point, Visual Basic displays information that logically completes a statement.                                                          |
+| <strong>Auto Quick Info</strong>              | Information about functions and their [arguments](vbe-glossary.md) is displayed as you type.                                                             |
+| <strong>Auto Data Tips</strong>               | Automatically display the value of any [variable](vbe-glossary.md) on which you place the mouse pointer. Available only in[break mode](vbe-glossary.md). |
+| <strong>Drag-Drop in Text Editing</strong>    | Code elements can be dragged from the  <strong>Code</strong> window into the <strong>Immediate</strong> or <strong>Watch</strong> windows.               |
+
  **Editor Format**
 
 
-|**Option**|**Description**|
-|:-----|:-----|
-|**Foreground**, **Background**, and **Indicator**|The color of different categories of text listed in the  **Code Colors** list.|
-|**Font**|The font used for displaying code.|
-|**Size**|The size of the font used for code.|
-|**Margin Indicator Bar**|Display the  **Margin Indicator Bar**.|
+| <strong>Option</strong>                                                                  | <strong>Description</strong>                                                                |
+|:-----------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
+| <strong>Foreground</strong>, <strong>Background</strong>, and <strong>Indicator</strong> | The color of different categories of text listed in the  <strong>Code Colors</strong> list. |
+| <strong>Font</strong>                                                                    | The font used for displaying code.                                                          |
+| <strong>Size</strong>                                                                    | The size of the font used for code.                                                         |
+| <strong>Margin Indicator Bar</strong>                                                    | Display the  <strong>Margin Indicator Bar</strong>.                                         |
+
  **General**
 
 
-|**Option**|**Description**|
-|:-----|:-----|
-|**Show Grid**|Display a grid on a form.|
-|**Grid Units**|Lists the unit of measurement for units in the grid.|
-|**Width**|The width of the grid cells on a form.|
-|**Height**|The height of the grid cells on a form.|
-|**Align Controls to Grid**|Automatically position the outer edge of controls on the closest grid lines.|
-|**Show ToolTips**|Display ToolTips for toolbar buttons.|
-|**Collapse Proj. Hides Windows**|Automatically close the project,  **UserForm**, object, or module windows when a[project](vbe-glossary.md) is collapsed in the **Project Explorer**.|
-|**Notify Before State Loss**|Display a message that a requested action will cause all module-level variables to be reset for a running project.|
-|**Break on All Errors**|Any error causes the project to enter break mode, whether or not an error handler is active, and whether or not the code is in a [class module](vbe-glossary.md).|
-|**Break in Class Module**|Any unhandled error produced in a class module causes the project to enter break mode at the line of code which produced the error.|
-|**Break on Unhandled Errors**|Any other unhandled error causes the project to enter break mode.|
-|**Compile On Demand**|A project is fully compiled before it starts, or code is compiled as needed.|
-|**Background Compile**|Use idle time during run time to finish compiling the project in the background. (Available only if  **Compile On Demand** is set.)|
+| <strong>Option</strong>                       | <strong>Description</strong>                                                                                                                                                   |
+|:----------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Show Grid</strong>                    | Display a grid on a form.                                                                                                                                                      |
+| <strong>Grid Units</strong>                   | Lists the unit of measurement for units in the grid.                                                                                                                           |
+| <strong>Width</strong>                        | The width of the grid cells on a form.                                                                                                                                         |
+| <strong>Height</strong>                       | The height of the grid cells on a form.                                                                                                                                        |
+| <strong>Align Controls to Grid</strong>       | Automatically position the outer edge of controls on the closest grid lines.                                                                                                   |
+| <strong>Show ToolTips</strong>                | Display ToolTips for toolbar buttons.                                                                                                                                          |
+| <strong>Collapse Proj. Hides Windows</strong> | Automatically close the project,  <strong>UserForm</strong>, object, or module windows when a[project](vbe-glossary.md) is collapsed in the <strong>Project Explorer</strong>. |
+| <strong>Notify Before State Loss</strong>     | Display a message that a requested action will cause all module-level variables to be reset for a running project.                                                             |
+| <strong>Break on All Errors</strong>          | Any error causes the project to enter break mode, whether or not an error handler is active, and whether or not the code is in a [class module](vbe-glossary.md).              |
+| <strong>Break in Class Module</strong>        | Any unhandled error produced in a class module causes the project to enter break mode at the line of code which produced the error.                                            |
+| <strong>Break on Unhandled Errors</strong>    | Any other unhandled error causes the project to enter break mode.                                                                                                              |
+| <strong>Compile On Demand</strong>            | A project is fully compiled before it starts, or code is compiled as needed.                                                                                                   |
+| <strong>Background Compile</strong>           | Use idle time during run time to finish compiling the project in the background. (Available only if  <strong>Compile On Demand</strong> is set.)                               |
+
  **Docking**
 
 

@@ -59,8 +59,6 @@ With Application.ActivePresentation
     .PrintOut From:=2, To:=5, Copies:=2, Collate:=msoFalse
 
 End With
-
-
 ```
 
 This example prints a single copy of all slides in the active presentation to the file Testprnt.prn.

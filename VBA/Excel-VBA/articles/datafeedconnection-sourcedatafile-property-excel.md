@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.SourceDataFile Property (Excel)
 
-A path to the original file used to create the connection. In the case of an OData connection, this is the location of the *.atom or *.atomsvc file used to create the connection.  **String** Read/Write
+A path to the original file used to create the connection. In the case of an OData connection, this is the location of the <em>.atom or *.atomsvc file used to create the connection.  **String</em>* Read/Write
 
 
 ## Syntax

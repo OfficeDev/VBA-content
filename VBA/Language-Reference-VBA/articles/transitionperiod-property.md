@@ -21,10 +21,11 @@ Specifies the duration, in milliseconds, of a transition effect.
 The  **TransitionPeriod** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. How long it takes to complete the transition from one page to another.|
+| <strong>Part</strong> | <strong>Description</strong>                                                     |
+|:----------------------|:---------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                        |
+| <em>Long</em>         | Optional. How long it takes to complete the transition from one page to another. |
+
  **Remarks**
 Any integer from zero to 10000 is a valid setting for this property. Setting the  **TransitionPeriod** property to zero disables the transition effect; setting **TransitionPeriod** to 10000 creates a 10-second transition.
 

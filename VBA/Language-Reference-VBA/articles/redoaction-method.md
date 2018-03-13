@@ -21,9 +21,10 @@ Reverses the effect of the most recent Undo action.
 The  **RedoAction** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
 Redo reverses the last Undo, which is not necessarily the last action taken. Not all actions can be undone.
 For example, after pasting text into a  **TextBox** and then choosing the Undo command to remove the text, you can choose the Redo command to put the text back in.

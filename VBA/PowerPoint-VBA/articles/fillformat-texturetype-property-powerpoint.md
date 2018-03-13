@@ -37,9 +37,11 @@ The value of the  **TextureType** property can be one of these **MsoTextureType*
 
 ||
 |:-----|
-|**msoTexturePreset**|
-|**msoTextureTypeMixed**|
-|**msoTextureUserDefined**|
+|<strong>msoTexturePreset</strong>|
+|
+<strong>msoTextureTypeMixed</strong>|
+|
+<strong>msoTextureUserDefined</strong>|
 
 ## Example
 
@@ -62,8 +64,6 @@ For Each s In myDocument.Shapes
     End With
 
 Next
-
-	
 ```
 
 

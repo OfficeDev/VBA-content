@@ -36,7 +36,6 @@ This example causes the PivotTable cache for the first PivotTable report on work
 ```vb
 Worksheets(1).PivotTables("Pivot1") _ 
  .PivotCache.OptimizeCache = True 
-
 ```
 
 

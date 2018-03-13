@@ -56,22 +56,22 @@ This example deletes the empty columns from a selected range.
 Sub Delete_Empty_Columns()
     'The range from which to delete the columns.
     Dim rnSelection As Range
-    
+
     'Column and count variables used in the deletion process.
     Dim lnLastColumn As Long
     Dim lnColumnCount As Long
     Dim lnDeletedColumns As Long
-    
+
     lnDeletedColumns = 0
-    
+
     'Confirm that a range is selected, and that the range is contiguous.
     If TypeName(Selection) = "Range" Then
         If Selection.Areas.Count = 1 Then
-            
+
             'Initialize the range to what the user has selected, and initialize the count for the upcoming FOR loop.
             Set rnSelection = Application.Selection
             lnLastColumn = rnSelection.Columns.Count
-        
+
             'Start at the far-right column and work left: if the column is empty then
             'delete the column and increment the deleted column count.
             For lnColumnCount = lnLastColumn To 1 Step -1
@@ -80,7 +80,7 @@ Sub Delete_Empty_Columns()
                     lnDeletedColumns = lnDeletedColumns + 1
                 End If
             Next lnColumnCount
-    
+
             rnSelection.Resize(lnLastColumn - lnDeletedColumns).Select
         Else
             MsgBox "Please select only one area.", vbInformation
@@ -88,7 +88,7 @@ Sub Delete_Empty_Columns()
     Else
         MsgBox "Please select a range.", vbInformation
     End If
-    
+
     'Turn screen updating back on.
     Application.ScreenUpdating = True
 
@@ -99,11 +99,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Concepts

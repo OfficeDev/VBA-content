@@ -19,11 +19,12 @@ Used to compare two object reference [variables](vbe-glossary.md).
 The  **Is** operator syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _result_|Required; any numeric variable.|
-| _object1_|Required; any object name.|
-| _object2_|Required; any object name.|
+| <strong>Part</strong> | <strong>Description</strong>    |
+|:----------------------|:--------------------------------|
+| <em>result</em>       | Required; any numeric variable. |
+| <em>object1</em>      | Required; any object name.      |
+| <em>object2</em>      | Required; any object name.      |
+
  **Remarks**
 If  _object1_ and _object2_ both refer to the same object, _result_ is **True**; if they do not, _result_ is **False**. Two variables can be made to refer to the same object in several ways.
 In the following example, A has been set to refer to the same object as B:
@@ -32,7 +33,6 @@ In the following example, A has been set to refer to the same object as B:
 
 ```vb
 Set A = B
-
 ```
 
 The following example makes A and B refer to the same object as C:
@@ -42,8 +42,6 @@ The following example makes A and B refer to the same object as C:
 ```vb
 Set A = C
 Set B = C
-
-
 ```
 
 
@@ -61,7 +59,6 @@ MyCheck = YourObject Is ThisObject    ' Returns True.
 MyCheck = ThatObject Is ThisObject    ' Returns False.
 ' Assume MyObject <> OtherObject
 MyCheck = MyObject Is ThatObject    ' Returns False.
-
 ```
 
 

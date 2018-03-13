@@ -36,9 +36,9 @@ Use either of the following properties to determine whether a shape represents a
 
 
 -  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
-    
+
 - The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
-    
+
 
 
 An alpha channel is a special 8-bit channel used by some image processing software to contain additional data, such as masking information or transparency information.
@@ -63,7 +63,7 @@ With ActiveDocument.Pages(1).Shapes(1).PictureFormat
  If .HasAlphaChannel = msoTrue Then 
  Debug.Print .Filename 
  Debug.Print "This picture contains an alpha channel." 
- 
+
  If .IsLinked = msoTrue Then 
  If .OriginalHasAlphaChannel = msoTrue Then 
  Debug.Print "The linked picture " &; _ 
@@ -72,7 +72,6 @@ With ActiveDocument.Pages(1).Shapes(1).PictureFormat
  End If 
  End If 
 End With 
-
 ```
 
 

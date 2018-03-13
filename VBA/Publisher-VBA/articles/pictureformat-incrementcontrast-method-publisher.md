@@ -45,13 +45,12 @@ This example increases the contrast for all pictures on the first page of the ac
 
 ```vb
 Dim shpLoop As Shape 
- 
+
 For Each shpLoop In ActiveDocument.Pages(1).Shapes 
  If shpLoop.Type = msoPicture Then 
  shpLoop.PictureFormat.IncrementContrast Increment:=0.1 
  End If 
 Next shpLoop 
-
 ```
 
 

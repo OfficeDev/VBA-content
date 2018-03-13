@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # SQL Property Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -46,6 +46,7 @@ font-size: x-small;}
 <TD> <SPAN DATAFLD="FirstName"></SPAN> </TD><TD> <SPAN DATAFLD="LastName"></SPAN> </TD>
 </TR></TABLE> 
 </body></html>
+
 <!-- EndSQLDesignVBS -->
 ```
 
@@ -94,8 +95,8 @@ RDC.Connect = txtConnect.ValueRDC.Refresh
 End Sub-->
 </Script> 
 </body></html>
-<!-- EndServerRuntimeVBS -->
 
+<!-- EndServerRuntimeVBS -->
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

@@ -43,7 +43,6 @@ With objPage
  .Fill.ForeColor.SchemeColor = pbSchemeColorAccent3 
  End With 
 End With 
-
 ```
 
 

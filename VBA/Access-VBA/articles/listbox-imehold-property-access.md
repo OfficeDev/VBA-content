@@ -29,10 +29,11 @@ The  **IMEHold/Hold KanjiConversionMode** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|True|Maintains the Kanji Conversion Mode set in the last control.|
-|False|Does not maintain the Kanji Conversion Mode set in the last control (default).|
+| <strong>Setting</strong> | <strong>Description</strong>                                                   |
+|:-------------------------|:-------------------------------------------------------------------------------|
+| True                     | Maintains the Kanji Conversion Mode set in the last control.                   |
+| False                    | Does not maintain the Kanji Conversion Mode set in the last control (default). |
+
 By setting the  **IMEMode/KanjiConversionMode** property, you can designate whether or not the Kanji Conversion Mode is maintained when the control loses the focus. If this property is set to Yes, the Kanji Conversion Mode setting is maintained when the control loses the focus and once that control regains the focus, the Kanji Conversion Mode setting for that control is restored. If this property is set to No (default setting), the Kanji Conversion Mode will be set by the **IMEMode/KanjiConversionMode** property for that control.
 
 

@@ -38,7 +38,6 @@ This example toggles the display of gridlines in the active window in Book1.xls.
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.DisplayGridlines = Not(ActiveWindow.DisplayGridlines) 
-
 ```
 
 

@@ -20,7 +20,6 @@ To add one record to a table, you must use the field list to define which fields
 ```sql
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     VALUES (1, 'Kelly', 'Jill') 
-
 ```
 
 You can omit the field list, but only if you supply all the values that record can contain.
@@ -31,7 +30,6 @@ You can omit the field list, but only if you supply all the values that record c
 ```sql
 INSERT INTO tblCustomers 
     VALUES (1, Kelly, 'Jill', '555-1040', 'someone@microsoft.com') 
-
 ```
 
 To add many records to a table at one time, use the  **INSERT INTO** statement along with a **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. When you are inserting records from another table, each value being inserted must be compatible with the type of field that will be receiving the data.
@@ -45,7 +43,6 @@ The following  **INSERT INTO** statement inserts all the values in the CustomerI
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     SELECT CustomerID, [Last Name], [First Name] 
     FROM tblOldCustomers 
-
 ```
 
 If the tables are defined exactly alike, you can leave out the field lists.
@@ -56,7 +53,6 @@ If the tables are defined exactly alike, you can leave out the field lists.
 ```sql
 INSERT INTO tblCustomers 
     SELECT * FROM tblOldCustomers 
-
 ```
 
 
@@ -78,7 +74,6 @@ To update all the records in a table, specify the table name, and then use the  
 ```sql
 UPDATE tblCustomers 
     SET Phone = 'None' 
-
 ```
 
 In most cases, you will want to qualify the  **UPDATE** statement with a **[WHERE](where-clause-microsoft-access-sql.md)** clause to limit the number of records changed.
@@ -90,7 +85,6 @@ In most cases, you will want to qualify the  **UPDATE** statement with a **[WHER
 UPDATE tblCustomers 
     SET Email = 'None' 
     WHERE [Last Name] = 'Smith' 
-
 ```
 
 
@@ -110,7 +104,6 @@ The  **DELETE** statement does not remove the table structure—only the data th
 
 ```sql
 DELETE FROM tblInvoices 
-
 ```
 
 In most cases, you will want to qualify the  **DELETE** statement with a **WHERE** clause to limit the number of records to be removed.
@@ -121,7 +114,6 @@ In most cases, you will want to qualify the  **DELETE** statement with a **WHERE
 ```sql
 DELETE FROM tblInvoices 
     WHERE InvoiceID = 3 
-
 ```
 
 If you want to remove data only from certain fields in a table, use the  **UPDATE** statement and set those fields equal to **NULL**, but only if they are nullable fields.
@@ -132,7 +124,6 @@ If you want to remove data only from certain fields in a table, use the  **UPDAT
 ```sql
 UPDATE tblCustomers  
     SET Email = Null 
-
 ```
 
 
@@ -148,7 +139,6 @@ To add one record to a table, you must use the field list to define which fields
 ```sql
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     VALUES (1, 'Kelly', 'Jill') 
-
 ```
 
 You can omit the field list, but only if you supply all the values that record can contain.
@@ -159,7 +149,6 @@ You can omit the field list, but only if you supply all the values that record c
 ```sql
 INSERT INTO tblCustomers 
     VALUES (1, Kelly, 'Jill', '555-1040', 'someone@microsoft.com') 
-
 ```
 
 To add many records to a table at one time, use the  **INSERT INTO** statement along with a **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statement. When you are inserting records from another table, each value being inserted must be compatible with the type of field that will be receiving the data.
@@ -173,7 +162,6 @@ The following  **INSERT INTO** statement inserts all the values in the CustomerI
 INSERT INTO tblCustomers (CustomerID, [Last Name], [First Name]) 
     SELECT CustomerID, [Last Name], [First Name] 
     FROM tblOldCustomers 
-
 ```
 
 If the tables are defined exactly alike, you can leave out the field lists.
@@ -184,7 +172,6 @@ If the tables are defined exactly alike, you can leave out the field lists.
 ```sql
 INSERT INTO tblCustomers 
     SELECT * FROM tblOldCustomers 
-
 ```
 
 
@@ -206,7 +193,6 @@ To update all the records in a table, specify the table name, and then use the  
 ```sql
 UPDATE tblCustomers 
     SET Phone = 'None' 
-
 ```
 
 In most cases, you will want to qualify the  **UPDATE** statement with a **[WHERE](where-clause-microsoft-access-sql.md)** clause to limit the number of records changed.
@@ -218,7 +204,6 @@ In most cases, you will want to qualify the  **UPDATE** statement with a **[WHER
 UPDATE tblCustomers 
     SET Email = 'None' 
     WHERE [Last Name] = 'Smith' 
-
 ```
 
 
@@ -238,7 +223,6 @@ The  **DELETE** statement does not remove the table structure—only the data th
 
 ```sql
 DELETE FROM tblInvoices 
-
 ```
 
 In most cases, you will want to qualify the  **DELETE** statement with a **WHERE** clause to limit the number of records to be removed.
@@ -249,7 +233,6 @@ In most cases, you will want to qualify the  **DELETE** statement with a **WHERE
 ```sql
 DELETE FROM tblInvoices 
     WHERE InvoiceID = 3 
-
 ```
 
 If you want to remove data only from certain fields in a table, use the  **UPDATE** statement and set those fields equal to **NULL**, but only if they are nullable fields.
@@ -260,7 +243,6 @@ If you want to remove data only from certain fields in a table, use the  **UPDAT
 ```sql
 UPDATE tblCustomers  
     SET Email = Null 
-
 ```
 
 

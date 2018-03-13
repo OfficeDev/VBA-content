@@ -15,7 +15,7 @@ Occurs before a window is about to show a different page.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeWindowPageTurn**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeWindowPageTurn</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

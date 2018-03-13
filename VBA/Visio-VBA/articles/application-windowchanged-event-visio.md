@@ -15,7 +15,7 @@ Occurs when the size or position of a window changes.
 
 ## Syntax
 
-Private Sub  _expression_ _**WindowChanged**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>WindowChanged</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -18,8 +18,9 @@ Returns or sets the type of underline applied to the font. Required  **XlUnderli
 
 
 |XlUnderlineStyle can be one of these XlUnderlineStyle constants.|
-| **xlUnderlineStyleNone**|
-| **xlUnderlineStyleSingle** **xlUnderlineStyleDouble** **xlUnderlineStyleSingleAccounting** **xlUnderlineStyleDoubleAccounting**|
+| <strong>xlUnderlineStyleNone</strong>|
+| 
+<strong>xlUnderlineStyleSingle</strong> <strong>xlUnderlineStyleDouble</strong> <strong>xlUnderlineStyleSingleAccounting</strong> <strong>xlUnderlineStyleDoubleAccounting</strong>|
 
  _expression_. **Underline**
 

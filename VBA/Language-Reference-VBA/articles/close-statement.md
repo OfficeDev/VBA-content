@@ -37,7 +37,6 @@ For I = 1 To 3 ' Loop 3 times.
  Print #I, "This is a test." ' Write string to file. 
 Next I 
 Close ' Close all 3 open files. 
-
 ```
 
 

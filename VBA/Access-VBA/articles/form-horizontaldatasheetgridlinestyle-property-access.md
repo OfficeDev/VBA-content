@@ -47,7 +47,6 @@ This example sets the horizontal gridline style on the first open form to dash-d
 
 ```vb
 Forms(0).HorizontalDatasheetGridlineStyle = 6 
-
 ```
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -31,14 +31,16 @@ You can use the  **UniqueValues** property when you want to omit records that co
 ## Setting
 <a name="sectionSection0"> </a>
 
+
 The  **UniqueValues** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|Yes|Displays only the records in which the values of all fields displayed in Datasheet view are unique.|
-|No|(Default) Displays all records.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                        |
+|:-------------------------|:----------------------------------------------------------------------------------------------------|
+| Yes                      | Displays only the records in which the values of all fields displayed in Datasheet view are unique. |
+| No                       | (Default) Displays all records.                                                                     |
+
 You can set the  **UniqueValues** property in the query's property sheet or in SQL view of the Query window.
 
 
@@ -47,6 +49,7 @@ You can set the  **UniqueValues** property in the query's property sheet or in S
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 When you set the  **UniqueValues** property to Yes, the results of the query aren't updatable and won't reflect subsequent changes made by other users.
 
@@ -58,21 +61,23 @@ If you want to count the number of instances of a value in a field, create a tot
 ## Example
 <a name="sectionSection2"> </a>
 
+
 The SELECT statement in this example returns a list of the countries/regions in which there are customers. Because there may be many customers in each country/region, many records could have the same country/region in the Customers table. However, each country/region is represented only once in the query results.
 
 This example uses the Customers table, which contains the following data.
 
 
 
-|**Country/Region**|**Company name**|
-|:-----|:-----|
-|Brazil|Familia Arquibaldo|
-|Brazil|Gourmet Lanchonetes|
-|Brazil|Hanari Carnes|
-|France|Du monde entier|
-|France|Folies gourmandes|
-|Germany|Frankenversand|
-|Ireland|Hungry Owl All-Night Grocers|
+| <strong>Country/Region</strong> | <strong>Company name</strong> |
+|:--------------------------------|:------------------------------|
+| Brazil                          | Familia Arquibaldo            |
+| Brazil                          | Gourmet Lanchonetes           |
+| Brazil                          | Hanari Carnes                 |
+| France                          | Du monde entier               |
+| France                          | Folies gourmandes             |
+| Germany                         | Frankenversand                |
+| Ireland                         | Hungry Owl All-Night Grocers  |
+
 This SQL statement returns the countries/regions in the following table:
 
 
@@ -81,17 +86,17 @@ This SQL statement returns the countries/regions in the following table:
 ```sql
 SELECT DISTINCT Customers.Country 
 FROM Customers; 
-
 ```
 
 
 
-|**Countries/Regions returned**|
-|:-----|
-|Brazil|
-|France|
-|Germany|
-|Ireland|
+| <strong>Countries/Regions returned</strong> |
+|:--------------------------------------------|
+| Brazil                                      |
+| France                                      |
+| Germany                                     |
+| Ireland                                     |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

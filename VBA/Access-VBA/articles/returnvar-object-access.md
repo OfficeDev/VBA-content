@@ -24,11 +24,11 @@ Although a  **ReturnVar** object can be used to store information for use in VBA
 
 
 - By default, a  **ReturnVar** object remains in memory until the next time that the **[RunDataMacro](docmd-rundatamacro-method-access.md)** method is used.
-    
+
     Use the Value poperty of the ReturnVar
-    
+
 - A  **ReturnVar** object can store only text or numeric data. **ReturnVar** objects cannot store objects.
-    
+
 To refer to a TempVar object in a collection by its ordinal number or by its Name property setting, use the following syntax form:
 
 
@@ -36,7 +36,6 @@ To refer to a TempVar object in a collection by its ordinal number or by its Nam
 
 ```
 ReturnVars![name] 
-
 ```
 
 

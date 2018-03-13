@@ -22,22 +22,24 @@ For other controls _object_. **SpecialEffect** [= _fmSpecialEffect_ ]
 The  **SpecialEffect** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmButtonEffect_|Optional. The desired visual appearance for a  **CheckBox**, **OptionButton**, or **ToggleButton**.|
-| _fmSpecialEffect_|Optional. The desired visual appearance of an object other than a  **CheckBox**, **OptionButton**, or **ToggleButton**.|
+| <strong>Part</strong>    | <strong>Description</strong>                                                                                                                                   |
+|:-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>          | Required. A valid object.                                                                                                                                      |
+| <em>fmButtonEffect</em>  | Optional. The desired visual appearance for a  <strong>CheckBox</strong>, <strong>OptionButton</strong>, or <strong>ToggleButton</strong>.                     |
+| <em>fmSpecialEffect</em> | Optional. The desired visual appearance of an object other than a  <strong>CheckBox</strong>, <strong>OptionButton</strong>, or <strong>ToggleButton</strong>. |
+
  **Settings**
 The settings for  _fmSpecialEffect_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmSpecialEffectFlat_|0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both. Default for  **Image** and **Label**, valid for all controls.|
-| _fmSpecialEffectRaised_|1|Object has a highlight on the top and left and a shadow on the bottom and right. Not valid for check boxes or option buttons.|
-| _fmSpecialEffectSunken_|2|Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  **CheckBox** and **OptionButton**, valid for all controls (default).|
-| _fmSpecialEffectEtched_|3|Border appears to be carved around the edge of the control. Not valid for check boxes or option buttons.|
-| _fmSpecialEffectBump_|6|Object has a ridge on the bottom and right and appears flat on the top and left. Not valid for check boxes or option buttons.|
+| <strong>Constant</strong>      | <strong>Value</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                  |
+|:-------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>fmSpecialEffectFlat</em>   | 0                      | Object appears flat, distinguished from the surrounding form by a border, a change of color, or both. Default for  <strong>Image</strong> and <strong>Label</strong>, valid for all controls.                                                                                 |
+| <em>fmSpecialEffectRaised</em> | 1                      | Object has a highlight on the top and left and a shadow on the bottom and right. Not valid for check boxes or option buttons.                                                                                                                                                 |
+| <em>fmSpecialEffectSunken</em> | 2                      | Object has a shadow on the top and left and a highlight on the bottom and right. The control and its border appear to be carved into the form that contains them. Default for  <strong>CheckBox</strong> and <strong>OptionButton</strong>, valid for all controls (default). |
+| <em>fmSpecialEffectEtched</em> | 3                      | Border appears to be carved around the edge of the control. Not valid for check boxes or option buttons.                                                                                                                                                                      |
+| <em>fmSpecialEffectBump</em>   | 6                      | Object has a ridge on the bottom and right and appears flat on the top and left. Not valid for check boxes or option buttons.                                                                                                                                                 |
+
 For a  **Frame**, the default value is _Sunken_.
 Note that only  _Flat_ and _Sunken_ (0 and 2) are acceptable values for **CheckBox**, **OptionButton**, and **ToggleButton**. All values listed are acceptable for other controls.
  **Remarks**

@@ -27,11 +27,12 @@ The settings for  **MatchEntry** are:
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter.|
-|1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|
-|2|No matching.|
+| <strong>Value</strong> | <strong>Description</strong>                                                                                                                                                             |
+|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0                      | Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter. |
+| 1                      | Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).                                                              |
+| 2                      | No matching.                                                                                                                                                                             |
+
 The  **MatchEntry** property searches entries from the **[TextColumn](combobox-textcolumn-property-outlook-forms-script.md)** property of a **ListBox** or **ComboBox**.
 
 The control searches the column identified by  **TextColumn** for an entry that matches the user's typed entry. Upon finding a match, the row containing the match is selected, the contents of the column are displayed, and the contents of its **[BoundColumn](combobox-boundcolumn-property-outlook-forms-script.md)** property become the value of the control. If the match is unambiguous, finding the match initiates the **[Click](combobox-click-event-outlook-forms-script.md)** event.

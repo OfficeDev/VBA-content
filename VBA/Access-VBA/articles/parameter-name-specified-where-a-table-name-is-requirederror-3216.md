@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Parameter <name> specified where a table name is required. (Error 3216)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,7 +26,6 @@ PARAMETERS Param1 Text;
 INSERT INTO Param1 
 SELECT * 
 FROM Customers; 
-
 ```
 
  `Param1` is a text parameter, but the INSERT INTO statement expects a table name.

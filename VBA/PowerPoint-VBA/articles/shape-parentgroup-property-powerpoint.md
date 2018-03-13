@@ -46,7 +46,7 @@ Sub ParentGroup()
 
     With sldNewSlide.Shapes
 
-    	.AddShape Type:=msoShapeBalloon, Left:=72, _
+        .AddShape Type:=msoShapeBalloon, Left:=72, _
             Top:=72, Width:=100, Height:=100
 
         .AddShape Type:=msoShapeOval, Left:=110, _

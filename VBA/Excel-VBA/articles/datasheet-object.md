@@ -42,7 +42,6 @@ And the following example inserts the text "District 1" in the leftmost cell in 
 
 ```
 myChart.Application.DataSheet.Range("02").Value = "District 1" 
-
 ```
 
 

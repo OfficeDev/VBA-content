@@ -29,10 +29,13 @@ Returns or sets the major unit scale value for the category axis when the  **Cat
 
 
 
-| **XlTimeUnit** can be one of these **XlTimeUnit** constants.|
-| **xlMonths**|
-| **xlDays**|
-| **xlYears**|
+| <strong>XlTimeUnit</strong> can be one of these <strong>XlTimeUnit</strong> constants.|
+| 
+<strong>xlMonths</strong>|
+| 
+<strong>xlDays</strong>|
+| 
+<strong>xlYears</strong>|
 
 ## Example
 

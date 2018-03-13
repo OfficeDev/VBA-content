@@ -36,7 +36,6 @@ You can access the collection of [controls](vbe-glossary.md) on a **UserForm** u
 For Each Control in UserForm1.Controls
     Control.Visible = False
 Next Control
-
 ```
 
 

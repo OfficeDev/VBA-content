@@ -22,13 +22,13 @@ To increase clarity and avoid errors, design your formulas so that they do not r
 ### Minimize use of circular references with iteration
 
 Calculating circular references with iterations is slow because multiple calculations are needed, and these calculations are single-threaded. Frequently you can "unroll" the circular references by using algebra so that iterative calculation is no longer needed. For example, in cash flow and interest calculations, try to calculate the cash flow before interest, calculate the interest, and then calculate the cash flow including the interest.
- 
+
 Excel calculates circular references sheet-by-sheet without considering dependencies. Therefore, you usually get slow calculation if your circular references span more than one worksheet. Try to move the circular calculations onto a single worksheet or optimize the worksheet calculation sequence to avoid unnecessary calculations.
-  
+
 Before the iterative calculations start, Excel must recalculate the workbook to identify all the circular references and their dependents. This process is equal to two or three iterations of the calculation. 
-  
+
 After the circular references and their dependents are identified, each iteration requires Excel to calculate not only all the cells in the circular reference, but also any cells that depend on the cells in the circular reference chain, together with volatile cells and their dependents. If you have a complex calculation that depends on cells in the circular reference, it can be faster to isolate this into a separate closed workbook and open it for recalculation after the circular calculation has converged.
-  
+
 It is important to reduce the number of cells in the circular calculation and the calculation time that is taken by these cells.
 
 ### Avoid links between workbooks
@@ -38,7 +38,7 @@ Avoid inter-workbook links when it is possible; they can be slow, easily broken,
 Using fewer larger workbooks is usually, but not always, better than using many smaller workbooks. Some exceptions to this might be when you have many front-end calculations that are so rarely recalculated that it makes sense to put them in a separate workbook, or when you have insufficient RAM.
 
 Try to use simple direct cell references that work on closed workbooks. By doing this, you can avoid recalculating *all* your linked workbooks when you recalculate *any* workbook. Also, you can see the values Excel has read from the closed workbook, which is frequently important for debugging and auditing the workbook.
- 
+
 If you cannot avoid using linked workbooks, try to have them all open instead of closed, and open the workbooks that are linked to before you open the workbooks that are linked from.
 
 ### Minimize links between worksheets
@@ -48,13 +48,13 @@ Using many worksheets can make your workbook easier to use, but generally it is 
 ## Minimize the used range
 
 To save memory and reduce file size, Excel tries to store information about only the area on a worksheet that was used. This is called the *used range*. Sometimes various editing and formatting operations extend the used range significantly beyond the range that you would currently consider used. This can cause performance obstructions and file-size obstructions.
- 
+
 You can check the visible used range on a worksheet by using Ctrl+End. Where this is excessive, you should consider deleting all the rows and columns below and to the right of your real last used cell, and then saving the workbook. Create a backup copy first. If you have formulas with ranges that extend into or refer to the deleted area, these ranges will be reduced in size or changed to **#N/A**.
 
 ## Allow for extra data
 
 When you frequently add rows or columns of data to your worksheets, you need to find a way of having your Excel formulas automatically refer to the new data area, instead of trying to find and change your formulas every time.
-  
+
 You can do this by using a large range in your formulas that extends well beyond your current data boundaries. However, this can cause inefficient calculation under certain circumstances, and it is difficult to maintain because deleting rows and columns can decrease the range without you noticing.
 
 ### Use structured table references (recommended)
@@ -93,7 +93,7 @@ By using the **OFFSET** or **INDEX** and **COUNTA** functions in the definition 
 ```
 
 When you use the dynamic range name in a formula, it automatically expands to include new entries.
- 
+
 Using the **INDEX** formula for a dynamic range is generally preferable to the **OFFSET** formula because **OFFSET** has the disadvantage of being a volatile function that will be calculated at every recalculation.
 
 Performance decreases because the **COUNTA** function inside the dynamic range formula must examine many rows. You can minimize this performance decrease by storing the **COUNTA** part of the formula in a separate cell or defined name, and then referring to the cell or name in the dynamic range:
@@ -135,7 +135,7 @@ The following code example shows the syntax for the **MATCH** function. For more
 - **Matchtype=0** requests an exact match and assumes that the data is not sorted.
 
 - **Matchtype=-1** returns the smallest match greater than or equal to the lookup value if the lookup array is sorted descending (approximate match).
-    
+
 The following code example shows the syntax for the **VLOOKUP** and **HLOOKUP** functions. For more information, see the [VLOOKUP](http://msdn.microsoft.com/library/1b84b1f5-b557-3a5c-0787-7c19a9800580%28Office.14%29.aspx) and [HLOOKUP](http://msdn.microsoft.com/library/6e7b5ad0-3f70-d7a8-b161-ce418107d2a1%28Office.14%29.aspx) methods of the [WorksheetFunction](http://msdn.microsoft.com/library/7b1d5639-363d-632c-2cf0-2232562646b6%28Office.14%29.aspx) object.
 
 ```
@@ -144,9 +144,9 @@ The following code example shows the syntax for the **VLOOKUP** and **HLOOKUP** 
 ```
 
 - **Range-lookup=TRUE** returns the largest match less than or equal to the lookup value (approximate match). This is the default option. Table array must be sorted ascending.
-     
+
 - **Range-lookup=FALSE** requests an exact match and assumes the data is not sorted.
-    
+
 Avoid performing lookups on unsorted data where possible because it is slow. If your data is sorted, but you want an exact match, see [Use two lookups for sorted data with missing values](#use-two-lookups-for-sorted-data-with-missing-values).
 
 ### Use INDEX and MATCH or OFFSET instead of VLOOKUP 
@@ -168,9 +168,9 @@ It is easy to convert **VLOOKUP** to **INDEX** and **MATCH**. The following two 
 Because exact match lookups can be slow, consider the following options for improving performance: 
 
 - Use one worksheet. It is faster to keep lookups and data on the same sheet.    
-  
+
 - When you can, **SORT** the data first (**SORT** is fast), and use approximate match.  
-  
+
 - When you must use an exact match lookup, restrict the range of cells to be scanned to a minimum. Use tables and structured references or dynamic range names rather than referring to a large number of rows or columns. Sometimes you can pre-calculate a lower-range limit and upper-range limit for the lookup.  
 
 ### Use two lookups for sorted data with missing values
@@ -203,7 +203,7 @@ If this formula returns True, you have found an exact match, so you can do the a
 ```
 
 If the answer from the lookup column did not match the lookup value, you have a missing value, and the formula returns "notexist".   
-    
+
 Be aware that if you look up a value smaller than the smallest value in the list, you receive an error. You can handle this error by using **IFERROR**, or by adding a small test value to the list.
 
 ### Use IFERROR function for unsorted data with missing values
@@ -238,7 +238,7 @@ If you cannot use two cells, use **COUNTIF**. It is generally faster than an exa
 ### Use MATCH and INDEX for exact match lookups on multiple columns
 
 You can often reuse a stored exact **MATCH** many times. For example, if you are doing exact lookups on multiple result columns, you can save time by using one **MATCH** and many **INDEX** statements rather than many **VLOOKUP** statements.
- 
+
 Add an extra column for the **MATCH** to store the result (`stored_row`), and for each result column use the following: 
 
 ```
@@ -293,7 +293,7 @@ If each table that you want to look up (the third dimension) is stored as a set 
   ```
 
 - The following example uses the **INDIRECT** function and `TableLookup_Value` to dynamically create the sheet name to use for the lookup table. This method has the advantage of being simple and able to handle a large number of tables. Because **INDIRECT** is a volatile single-threaded function, the lookup is single-thread calculated at every calculation even if no data has changed. Using this method is slow.
-  
+
   ```
     INDEX(INDIRECT("Sheet" &amp; TableLookup_Value &amp; "!$B$2:$Z$1000"), _
     MATCH(RowLookup_Value,$A$2:$A$1000),MATCH(colLookup_value,$B$1:$Z$1))
@@ -309,35 +309,35 @@ Another technique is to aggregate all your tables into one giant table that has 
 
 ### Use wildcard lookup
 
-The **MATCH**, **VLOOKUP**, and **HLOOKUP** functions allow you to use the wildcard characters **?** (any single character) and **\*** (no character or any number of characters) on alphabetical exact matches. Sometimes you can use this method to avoid multiple matches.
+The <strong>MATCH</strong>, <strong>VLOOKUP</strong>, and <strong>HLOOKUP</strong> functions allow you to use the wildcard characters <strong>?</strong> (any single character) and <strong>\</strong>* (no character or any number of characters) on alphabetical exact matches. Sometimes you can use this method to avoid multiple matches.
 
 ## Optimize array formulas and SUMPRODUCT
 
 Array formulas and the **SUMPRODUCT** function are powerful, but you must handle them carefully. A single array formula might require many calculations. 
-    
+
 The key to optimizing the calculation speed of array formulas is to ensure that the number of cells and expressions that are evaluated in the array formula is as small as possible. Remember that an array formula is a bit like a volatile formula: if any one of the cells that it references has changed, is volatile, or has been recalculated, the array formula calculates all the cells in the formula and evaluates all the virtual cells it needs to do the calculation.
- 
+
 To optimize the calculation speed of array formulas:
 
 - Take expressions and range references out of the array formulas into separate helper columns and rows. This makes much better use of the smart recalculation process in Excel.    
-  
+
 - Do not reference complete rows, or more rows and columns than you need. Array formulas are forced to calculate all the cell references in the formula even if the cells are empty or unused. With 1 million rows available starting in Excel 2007, an array formula that references a whole column is extremely slow to calculate.
-     
+
 - Starting in Excel 2007, use structured references where you can to keep the number of cells that are evaluated by the array formula to a minimum.
-     
+
 - In versions earlier than Excel 2007, use dynamic range names where possible. Although they are volatile, it is worthwhile because they minimize the size of the ranges.
-    
+
 - Be careful with array formulas that reference both a row and a column: this forces the calculation of a rectangular range.
-    
+
 - Use **SUMPRODUCT** if possible; it is slightly faster than the equivalent array formula.
-    
+
 
 ### Consider options for using SUM for multiple-condition array formulas
 
 You should always use the **SUMIFS**, **COUNTIFS**, and **AVERAGEIFS** functions instead of array formulas where you can because they are much faster to calculate. Excel 2016 introduces fast **MAXIFS** and **MINIFS** functions.  
-      
+
 In versions earlier than Excel 2007, array formulas are often used to calculate a sum with multiple conditions. This is relatively easy to do, especially if you use the **Conditional Sum Wizard** in Excel, but it is often slow. Usually there are much faster ways of getting the same result. If you have only a few multiple-condition SUMs, you may be able to use the **DSUM** function, which is much faster than the equivalent array formula.
- 
+
 If you must use array formulas, some good methods of speeding them up are as follows:
 
 - Use dynamic range names or structured table references to minimize the number of cells.
@@ -347,9 +347,9 @@ If you must use array formulas, some good methods of speeding them up are as fol
 - Consider concatenating together all the conditions into a single condition, and then using **SUMIF**.
 
 - If the data can be sorted, count groups of rows and limit the array formulas to looking at the subset groups.
-    
+
 ### Prioritize multiple-condition SUMIFS, COUNTIFS, and other IFS family functions
-  
+
 These functions evaluate each of the conditions from left to right in turn. Therefore, it is more efficient to put the most restrictive condition first, so that subsequent conditions only need to look at the smallest number of rows.
 
 ### Consider options for using SUMPRODUCT for multiple-condition array formulas
@@ -369,9 +369,9 @@ You can use **SUMPRODUCT** for multiple-condition array formulas as follows:
 ```
 
 In this example, `Condition1` and `Condition2` are conditional expressions such as `$A$1:$A$10000<=$Z4`. Because conditional expressions return **True** or **False** instead of numbers, they must be coerced to numbers inside the **SUMPRODUCT** function. You can do this by using two minus signs (**--**), or by adding 0 (**+0**), or by multiplying by 1 (**x1**). Using **--** is slightly faster than **+0** or **x1**. 
- 
+
 Note that the size and shape of the ranges or arrays that are used in the conditional expressions and range to sum must be the same, and they cannot contain entire columns.
-  
+
 You can also directly multiply the terms inside **SUMPRODUCT** rather than separate them by commas:
 
 ```
@@ -409,7 +409,7 @@ If you find a calculation obstruction that involves array formulas and range fun
 ## Use functions efficiently
 
 Functions significantly extend the power of Excel, but the way in which you use them can often affect calculation time.
-    
+
 ### Avoid single-threaded functions
 Most native Excel functions work well with multi-threaded calculation. However, where possible, avoid using the following single-threaded functions:
 
@@ -432,6 +432,7 @@ Most native Excel functions work well with multi-threaded calculation. However, 
 
 <br/>
 
+
 ### Use tables for functions that handle ranges
 
 For functions like **SUM**, **SUMIF**, and **SUMIFS** that handle ranges, the calculation time is proportional to the number of used cells you are summing or counting. Unused cells are not examined, so whole column references are relatively efficient, but it is better to ensure that you do not include more used cells than you need. Use tables, or calculate subset ranges or dynamic ranges.
@@ -451,11 +452,11 @@ The performance of VBA user-defined functions is sensitive to how you program an
 ### Use faster VBA user-defined functions
 
 It is usually faster to use the Excel formula calculations and worksheet functions than to use VBA user-defined functions. This is because there is a small overhead for each user-defined function call and significant overhead transferring information from Excel to the user-defined function. But well-designed and called user-defined functions can be much faster than complex array formulas.
-  
+
 Ensure that you have put all the references to worksheet cells in the user-defined function input parameters instead of in the body of the user-defined function, so that you can avoid adding **Application.Volatile** unnecessarily.
-  
+
 If you must have many formulas that use user-defined functions, ensure that you are in manual calculation mode, and that the calculation is initiated from VBA. VBA user-defined functions calculate much more slowly if the calculation is *not* called from VBA (for example, in automatic mode or when you press F9 in manual mode). This is particularly true when the Visual Basic Editor (Alt+F11) is open or has been opened in the current Excel session.
- 
+
 You can trap F9 and redirect it to a VBA calculation subroutine as follows. Add this subroutine to the *Thisworkbook* module.
 
 ```
@@ -465,7 +466,7 @@ You can trap F9 and redirect it to a VBA calculation subroutine as follows. Add 
 ```
 
 Add this subroutine to a standard module.  
-   
+
 ```
   Sub Recalc()
       Application.Calculate
@@ -521,7 +522,7 @@ The Excel **SUM** and **SUMIF** functions are frequently used over a large numbe
 
 ### Use wildcard SUMIF, COUNTIF, SUMIFS, COUNTIFS, and other IFS functions
 
-You can use the wildcard characters **?** (any single character) and **\*** (no character or any number of characters) in the criteria for alphabetical ranges as part of the **SUMIF**, **COUNTIF**, **SUMIFS**, **COUNTIFS**, and other **IFS** functions.
+You can use the wildcard characters <strong>?</strong> (any single character) and <strong>\</strong>* (no character or any number of characters) in the criteria for alphabetical ranges as part of the <strong>SUMIF</strong>, <strong>COUNTIF</strong>, <strong>SUMIFS</strong>, <strong>COUNTIFS</strong>, and other <strong>IFS</strong> functions.
 
 ### Choose method for period-to-date and cumulative SUMs
 
@@ -540,9 +541,9 @@ When you have multiple sorted indexes to a table (for example, Site within Area)
 **To calculate the address of a subset range of row or columns:**
 
 1. Count the number of rows for each subset block.
-  
+
 2. Add the counts cumulatively for each block to determine its start row.
-  
+
 3. Use **OFFSET** with the start row and count to return a subset range to the **SUM** or **SUMIF** that covers only the subset block of rows.
 
 ### Use SUBTOTAL for filtered lists
@@ -552,7 +553,7 @@ Use the **SUBTOTAL** function to **SUM** filtered lists. The **SUBTOTAL** functi
 - Hidden rows that result from filtering a list. Starting in Excel 2003, you can also make **SUBTOTAL** ignore all hidden rows, not just filtered rows.
 
 - Other **SUBTOTAL** functions.
-    
+
 ### Use the AGGREGATE function
 
 The AGGREGATE function is a powerful and efficient way of calculating 19 different methods of aggregating data (such as **SUM**, **MEDIAN**, **PERCENTILE** and **LARGE**). **AGGREGATE** has options for ignoring hidden or filtered rows, error values, and nested **SUBTOTAL** and **AGGREGATE** functions.
@@ -572,13 +573,13 @@ To improve performance for VBA macros, explicitly turn off the functionality tha
 The following functionality can usually be turned off while your VBA macro executes:
 
 - **Application.ScreenUpdating** Turn off screen updating. If **Application.ScreenUpdating** is set to **False**, Excel does not redraw the screen. While your code runs, the screen updates quickly, and it is usually not necessary for the user to see each update. Updating the screen once, after the code executes, improves performance.   
-  
+
 - **Application.DisplayStatusBar** Turn off the status bar. If **Application.DisplayStatusBar** is set to **False**, Excel does not display the status bar. The status bar setting is separate from the screen updating setting so that you can still display the status of the current operation even while the screen is not updating. However, if you do not need to display the status of every operation, turning off the status bar while your code runs also improves performance.  
-  
+
 - **Application.Calculation** Switch to manual calculation. If **Application.Calculation** is set to **xlCalculationManual**, Excel only calculates the workbook when the user explicitly initiates the calculation. In automatic calculation mode, Excel determines when to calculate. For example, every time a cell value that is related to a formula changes, Excel recalculates the formula. If you switch the calculation mode to manual, you can wait until all the cells associated with the formula are updated before recalculating the workbook. By only recalculating the workbook when necessary while your code runs, you can improve performance. 
-  
+
 - **Application.EnableEvents** Turn off events. If **Application.EnableEvents** is set to **False**, Excel does not raise events. If there are add-ins listening for Excel events, those add-ins consume resources on the computer as they record the events. If it is not necessary for the add-in to record the events that occur while your code runs, turning off events improves performance.
-  
+
 - **ActiveSheet.DisplayPageBreaks** Turn off page breaks. If **ActiveSheet.DisplayPageBreaks** is set to **False**, Excel does not display page breaks. It is not necessary to recalculate page breaks while your code runs, and calculating the page breaks after the code executes improves performance.
 
 > [!IMPORTANT]
@@ -615,6 +616,7 @@ The following example shows the functionality that you can turn off while your V
 ```
 
 <br/>
+
 
 ### Read and write large blocks of data in a single operation
 
@@ -669,6 +671,7 @@ The following code example shows optimized code that uses an array to get and se
 
 <br/>
 
+
 ### Use .Value2 rather than .Value or .Text when reading data from an Excel range
 
 - **.Text** returns the formatted value of a cell. This is slow, can return ### if the user zooms, and can lose precision.
@@ -678,9 +681,9 @@ The following code example shows optimized code that uses an array to get and se
 ### Avoid selecting and activating objects
 
 Selecting and activating objects is more processing intensive than referencing objects directly. By referencing an object such as a **Range** or a **Shape** directly, you can improve performance. The following code examples compare the two methods.
-    
+
 The following code example shows non-optimized code that selects each Shape on the active sheet and changes the text to "Hello".
-  
+
 ```
   For i = 0 To ActiveSheet.Shapes.Count
       ActiveSheet.Shapes(i).Select
@@ -738,7 +741,7 @@ If one or more of your workbooks open and close more slowly than is reasonable, 
 
   Too many temporary files can cause problems, so you should occasionally clean them out. However, if you have installed software that requires that you restart your computer, and you have not yet done so, you should restart before deleting the temporary files. 
 
-  An easy way to open your temp directory is from the Windows **Start** menu: Click **Start**, and then click **Run**. In the text box, type **%temp%**, and then click **OK**.
+  An easy way to open your temp directory is from the Windows **Start** menu: Click **Start**, and then click **Run**. In the text box, type **%temp%**, and then click **OK**.
 
 - **Tracking changes in a shared workbook**
 
@@ -788,9 +791,9 @@ You can make performance improvements in the following areas.
 
   - **Totals as intermediate results**. PivotTables are a great way to produce summary reports, but try to avoid creating formulas that use PivotTable results as intermediate totals and subtotals in your calculation chain unless you can ensure the following conditions:
 
-   - The PivotTable has been refreshed correctly during the calculation. 
+    - The PivotTable has been refreshed correctly during the calculation. 
 
-   - The PivotTable has not been changed so that the information is still visible.
+    - The PivotTable has not been changed so that the information is still visible.
 
   If you still want to use PivotTables as intermediate results, use the **GETPIVOTDATA** function.
 
@@ -821,8 +824,8 @@ This article covered ways to optimize Excel functionality such as links, lookups
 ## Additional resources
 
 -  [Excel performance: Improving calculation performance](excel-improving-calcuation-performance.md)
-    
+
 -  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)
-    
+
 -  [Excel Developer Portal](http://msdn.microsoft.com/en-us/office/aa905411.aspx)
 

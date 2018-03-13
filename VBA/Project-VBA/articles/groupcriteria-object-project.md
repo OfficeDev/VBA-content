@@ -25,7 +25,7 @@ For groups where the group hierarchy can be maintained and cell color can be a h
  
 
  
-Use  **GroupCriteria(***Index* **)**, where*Index* is the criterion index, to return a single **GroupCriterion** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
+Use  <strong>GroupCriteria(</strong><em>Index</em> <strong>)</strong>, where<em>Index</em> is the criterion index, to return a single <strong>GroupCriterion</strong> object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
  
 
  

@@ -37,16 +37,25 @@ The value of the  **PresetExtrusionDirection** property can be one of these **Ms
 
 ||
 |:-----|
-|**msoExtrusionBottom**|
-|**msoExtrusionBottomLeft**|
-|**msoExtrusionBottomRight**|
-|**msoExtrusionLeft**|
-|**msoExtrusionNone**|
-|**msoExtrusionRight**|
-|**msoExtrusionTop**|
-|**msoExtrusionTopLeft**|
-|**msoExtrusionTopRight**|
-|**msoPresetExtrusionDirectionMixed**|
+|<strong>msoExtrusionBottom</strong>|
+|
+<strong>msoExtrusionBottomLeft</strong>|
+|
+<strong>msoExtrusionBottomRight</strong>|
+|
+<strong>msoExtrusionLeft</strong>|
+|
+<strong>msoExtrusionNone</strong>|
+|
+<strong>msoExtrusionRight</strong>|
+|
+<strong>msoExtrusionTop</strong>|
+|
+<strong>msoExtrusionTopLeft</strong>|
+|
+<strong>msoExtrusionTopRight</strong>|
+|
+<strong>msoPresetExtrusionDirectionMixed</strong>|
 
 ## Example
 

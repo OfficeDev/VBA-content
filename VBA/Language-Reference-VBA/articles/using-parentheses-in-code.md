@@ -16,7 +16,6 @@ ms.date: 06/08/2017
 
 ```
 MySub "stringArgument", integerArgument 
-
 ```
 
 
@@ -27,7 +26,6 @@ MySub "stringArgument", integerArgument
 
 ```vb
 MsgBox "Task Completed!", 0, "Task Box" 
-
 ```
 
 To use the return value of a function, enclose the arguments in parentheses, as shown in the following example.
@@ -36,7 +34,6 @@ To use the return value of a function, enclose the arguments in parentheses, as 
 
 ```
 Answer3 = MsgBox("Are you happy with your salary?", 4, "Question 3") 
-
 ```
 
 A statement in a  **Sub** or **Function** procedure can pass values to a called procedure using[named arguments](vbe-glossary.md). The guidelines for using parentheses apply, whether or not you use named arguments. When you use named arguments, you can list them in any order, and you can omit optional arguments. Named arguments are always followed by a colon and an equal sign ( **:=** ), and then the argument value.
@@ -46,7 +43,6 @@ The following example calls the  **MsgBox** function using named arguments, but 
 
 ```vb
 MsgBox Title:="Task Box", Prompt:="Task Completed!" 
-
 ```
 
 The following example calls the  **MsgBox** function using named arguments and assigns the return value to the variable :
@@ -56,7 +52,6 @@ The following example calls the  **MsgBox** function using named arguments and a
 ```
 answer3 = MsgBox(Title:="Question 3", _ 
  Prompt:="Are you happy with your salary?", Buttons:=4) 
-
 ```
 
 

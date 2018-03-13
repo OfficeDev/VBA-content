@@ -29,10 +29,11 @@ The value returned by the  **RotateWithObject** property can be one of these **M
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The fill does not rotate with the shape.|
-|**msoTrue**| The fill rotates with the shape.|
+| <strong>Constant</strong> | <strong>Description</strong>             |
+|:--------------------------|:-----------------------------------------|
+| <strong>msoFalse</strong> | The fill does not rotate with the shape. |
+| <strong>msoTrue</strong>  | The fill rotates with the shape.         |
+
 The setting of the  **RotateWithObject** property corresponds to the setting of the **Rotate with shape** box on the **Fill** pane of the **Format Picture** dialog box in the Microsoft PowerPoint user interface (under **Drawing Tools**, on the  **Format Tab**, in the  **Shape Styles** group, click **Format Shape**.)
 
 

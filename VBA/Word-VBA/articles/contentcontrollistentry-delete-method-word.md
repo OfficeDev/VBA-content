@@ -31,7 +31,7 @@ The following example deletes a drop-down list item if the display text of the i
 ```vb
 Dim objCC As ContentControl 
 Dim objCL As ContentControlListEntry 
- 
+
 For Each objCC In ActiveDocument.ContentControls 
  If objCC.Type = wdContentControlComboBox Or _ 
  objCC.Type = wdContentControlDropdownList Then 
@@ -40,7 +40,6 @@ For Each objCC In ActiveDocument.ContentControls
  Next 
  End If 
 Next 
- 
 ```
 
 

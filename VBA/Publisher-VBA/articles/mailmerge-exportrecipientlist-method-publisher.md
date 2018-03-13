@@ -39,10 +39,11 @@ Possible values for the FileType parameter include the following constants from 
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **pbAsCsvFile**|1|Save as comma-delimited CSV file.|
-| **pbAsMdbFile**|0|Save as Microsoft Office Access MDB file.|
+| <strong>Constant</strong>    | <strong>Value</strong> | <strong>Description</strong>              |
+|:-----------------------------|:-----------------------|:------------------------------------------|
+| <strong>pbAsCsvFile</strong> | 1                      | Save as comma-delimited CSV file.         |
+| <strong>pbAsMdbFile</strong> | 0                      | Save as Microsoft Office Access MDB file. |
+
 The  **ExportRecipientList** method corresponds to the **Export recipient list to new file** command in the **E-mail Merge** and **Mail Merge** task panes in the Microsoft Publisher user interface.
 
 
@@ -59,12 +60,12 @@ Note that the folder path used in this example is typical of folder paths in Mic
 
 ```vb
 Public Sub ExportRecipientList_Example() 
- 
+
  Dim pubMailMerge As Publisher.MailMerge 
- 
+
  Set pubMailMerge = ThisDocument.MailMerge 
  pubMailMerge.ExportRecipientList "C:\Users\username\Documents\My Data Sources\MyAddressList", pbAsMdbFile, True 
- 
+
 End Sub
 ```
 

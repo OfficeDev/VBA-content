@@ -53,7 +53,7 @@ The following example, written in C#, shows the implementation of the  **ShowSig
  MessageBox.Show(window, "You need a digital certificate to sign this document", "Signing Ceremony", MessageBoxButtons.OK); 
  throw new System.Runtime.InteropServices.COMException("Canceled", -2147467260 /*E_ABORT*/); 
  } 
- 
+
  using (SigningCeremonyForm signForm = new SigningCeremonyForm(sigsetup, siginfo)) 
  { 
  signForm.ShowDialog(window); 
@@ -62,7 +62,6 @@ The following example, written in C#, shows the implementation of the  **ShowSig
  } 
  } 
  } 
-
 ```
 
 

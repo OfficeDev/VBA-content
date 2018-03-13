@@ -51,7 +51,6 @@ The following example, written in C#, shows the implementation of the  **NotifyS
  MessageBox.Show(window, "Signature has been applied", "Signing Ceremony", MessageBoxButtons.OK); 
  } 
  } 
-
 ```
 
 

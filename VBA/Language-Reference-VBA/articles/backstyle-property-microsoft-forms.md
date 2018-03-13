@@ -19,18 +19,20 @@ Returns or sets the background style for an object.
 The  **BackStyle** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmBackStyle_|Optional. Specifies the control background.|
+| <strong>Part</strong> | <strong>Description</strong>                |
+|:----------------------|:--------------------------------------------|
+| <em>object</em>       | Required. A valid object.                   |
+| <em>fmBackStyle</em>  | Optional. Specifies the control background. |
+
  **Settings**
 The settings for  _fmBackStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmBackStyleTransparent_|0|The background is transparent.|
-| _fmBackStyleOpaque_|1|The background is opaque (default).|
+| <strong>Constant</strong>       | <strong>Value</strong> | <strong>Description</strong>        |
+|:--------------------------------|:-----------------------|:------------------------------------|
+| <em>fmBackStyleTransparent</em> | 0                      | The background is transparent.      |
+| <em>fmBackStyleOpaque</em>      | 1                      | The background is opaque (default). |
+
  **Remarks**
 The  **BackStyle** property determines whether a control is[transparent](glossary-vba.md). If  **BackStyle** is **fmBackStyleOpaque**, the control is not transparent and you cannot see anything behind the control on a form. If **BackStyle** is **fmBackStyleTransparent**, you can see through the control and look at anything on the form located behind the control.
 

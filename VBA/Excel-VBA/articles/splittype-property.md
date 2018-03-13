@@ -18,10 +18,13 @@ Returns or sets the way the two sections of either a pie of pie chart or a bar o
 
 
 |XlChartSplitType can be one of these XlChartSplitType constants.|
-| **xlSplitByPercentValue**|
-| **xlSplitByValue**|
-| **xlSplitByCustomSplit**|
-| **xlSplitByPosition**|
+| <strong>xlSplitByPercentValue</strong>|
+| 
+<strong>xlSplitByValue</strong>|
+| 
+<strong>xlSplitByCustomSplit</strong>|
+| 
+<strong>xlSplitByPosition</strong>|
 
  _expression_. **SplitType**
 

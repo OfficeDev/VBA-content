@@ -34,7 +34,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.SeriesCollection(1).ApplyPictToSides = True 
  End If 
 End With 
-
 ```
 
 

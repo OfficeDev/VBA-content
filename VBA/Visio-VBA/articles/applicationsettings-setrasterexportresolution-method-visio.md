@@ -30,6 +30,7 @@ _expression_ An expression that returns an **[ApplicationSettings](applicationse
 
 <br/>
 
+
 ### Return value
 
 Nothing
@@ -47,6 +48,7 @@ The _resolution_ parameter must be one of the following **VisRasterExportResolut
 
 <br/>
 
+
 If _resolution_ is a constant other than **visRasterUseCustomResolution**, **SetRasterExportResolution** ignores all other parameters.
 
 If _resolution_ is **visRasterUseCustomResolution**, **SetRasterExportResolution** accepts values for all parameters if they meet the noted constraints. If they do not meet these constraints, **SetRasterExportResolution** returns an Invalid Parameter error.
@@ -59,5 +61,6 @@ The _resolutionUnits_ parameter must be one of the following **VisRasterExportRe
 |**visRasterPixelsPerCm**|1|Pixels per centimeter.|
 
 <br/>
+
 
 When the **SetRasterExportResolution** method runs successfully, the resulting settings will remain in effect until you either run the method again or change the settings in the user interface.

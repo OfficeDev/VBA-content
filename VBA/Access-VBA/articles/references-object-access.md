@@ -31,7 +31,7 @@ Individual  **Reference** objects in the **References** collection are indexed b
 
 
 - [Display List of References - Both Good and Broken](http://www.utteraccess.com/forum/Display-List-References-t126939.html)
-    
+
 
 ## Events
 
@@ -65,11 +65,13 @@ Individual  **Reference** objects in the **References** collection are indexed b
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Other resources

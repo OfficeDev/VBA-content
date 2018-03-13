@@ -42,16 +42,17 @@ Shape
 
 ## Remarks
 
- The begin and endpoints define the bounding rectangle of the arc, and the _SweepFlag_argument determines which of the two possible arcs within the bounding rectangle is drawn. The bounding rectangle is always aligned to the page coordinate system; that is, the  _x_ -axis of the ellipse is parallel to the _x_ -axis of the page.
+ The begin and endpoints define the bounding rectangle of the arc, and the <em>SweepFlag_argument determines which of the two possible arcs within the bounding rectangle is drawn. The bounding rectangle is always aligned to the page coordinate system; that is, the  _x</em> -axis of the ellipse is parallel to the <em>x</em> -axis of the page.
 
 The following possible values for the  _SweepFlag_ argument are declared in **VisArcSweepFlags** in the Visio type library.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visArcSweepFlagConcave**|0|Concave arc|
-| **visArcSweepFlagConvex**|1|Convex arc|
+| <strong>Constant</strong>               | <strong>Value</strong> | <strong>Description</strong> |
+|:----------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visArcSweepFlagConcave</strong> | 0                      | Concave arc                  |
+| <strong>visArcSweepFlagConvex</strong>  | 1                      | Convex arc                   |
+
 If  _SweepFlag_ is **visArcSweepFlagConcave** , the line joining the center of the ellipse to the arc sweeps through decreasing angles; if it is **visArcSweepFlagConvex** , it sweeps through increasing angles.
 
 
@@ -62,10 +63,10 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 ```vb
 Public Sub DrawQuarterArc_Example 
- 
+
  Dim vsoShape As Visio.Shape 
  Set vsoShape = ActivePage.DrawQuarterArc(3, 3, 6, 8, visArcSweepFlagConcave) 
- 
+
 End Sub
 ```
 

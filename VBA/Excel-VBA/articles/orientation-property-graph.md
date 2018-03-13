@@ -16,11 +16,15 @@ Returns or sets the text orientation. Can be an integer value from -90 degrees t
 
 
 |XlTickLabelOrientation can be one of these XlTickLabelOrientation constants.|
-| **xlTickLabelOrientationAutomatic**|
-| **xlTickLabelOrientationDownward**|
-| **xlTickLabelOrientationHorizontal**|
-| **xlTickLabelOrientationUpward**|
-| **xlTickLabelOrientationVertical**|
+| <strong>xlTickLabelOrientationAutomatic</strong>|
+| 
+<strong>xlTickLabelOrientationDownward</strong>|
+| 
+<strong>xlTickLabelOrientationHorizontal</strong>|
+| 
+<strong>xlTickLabelOrientationUpward</strong>|
+| 
+<strong>xlTickLabelOrientationVertical</strong>|
 
  _expression_. **Orientation**
 

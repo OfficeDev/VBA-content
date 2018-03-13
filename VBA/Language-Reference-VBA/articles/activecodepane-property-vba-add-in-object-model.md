@@ -21,7 +21,6 @@ You can set the  **ActiveCodePane** property to any valid **CodePane** object, a
 
 ```vb
 Set MyApp.VBE. ActiveCodePane = MyApp.VBE.CodePanes(1)
-
 ```
 
 The preceding example sets the first [code pane](vbe-glossary.md) in a[collection](vbe-glossary.md) of code panes to be the active code pane. You can also activate a code pane using the **Set** method.

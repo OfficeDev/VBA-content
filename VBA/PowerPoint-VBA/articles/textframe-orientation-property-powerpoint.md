@@ -37,13 +37,19 @@ The value of the  **Orientation** property can be one of these **MsoTextOrientat
 
 ||
 |:-----|
-|**msoTextOrientationDownward**|
-|**msoTextOrientationHorizontal**|
-|**msoTextOrientationHorizontalRotatedFarEast**|
-|**msoTextOrientationMixed**|
-|**msoTextOrientationUpward**|
-|**msoTextOrientationVertical**|
-|**msoTextOrientationVerticalFarEast**|
+|<strong>msoTextOrientationDownward</strong>|
+|
+<strong>msoTextOrientationHorizontal</strong>|
+|
+<strong>msoTextOrientationHorizontalRotatedFarEast</strong>|
+|
+<strong>msoTextOrientationMixed</strong>|
+|
+<strong>msoTextOrientationUpward</strong>|
+|
+<strong>msoTextOrientationVertical</strong>|
+|
+<strong>msoTextOrientationVerticalFarEast</strong>|
 
 ## Example
 
@@ -54,8 +60,6 @@ This example orients the text horizontally within shape three on myDocument.
 Set myDocument = ActivePresentation.Slides(1)
 
 myDocument.Shapes(3).TextFrame.Orientation = msoTextOrientationHorizontal
-
-
 ```
 
 

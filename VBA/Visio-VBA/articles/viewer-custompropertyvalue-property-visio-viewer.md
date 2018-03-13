@@ -58,8 +58,6 @@ If strPropertyValue = "Hello" Then
     vsoViewer.DisplayPropertyDialog
 
 End If
-
-
 ```
 
 

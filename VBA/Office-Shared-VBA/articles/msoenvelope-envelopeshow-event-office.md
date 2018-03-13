@@ -35,19 +35,18 @@ The following example sets up event-handling routines for the  **MsoEnvelope** o
 
 ```
 Public WithEvents env As MsoEnvelope 
- 
+
 Private Sub Class_Initialize() 
  Set env = Application.ActiveDocument.MailEnvelope 
 End Sub 
- 
+
 Private Sub env_EnvelopeShow() 
  MsgBox "The MsoEnvelope UI is showing." 
 End Sub 
- 
+
 Private Sub env_EnvelopeHide() 
  MsgBox "The MsoEnvelope UI is hidden." 
 End Sub 
-
 ```
 
 

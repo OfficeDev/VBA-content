@@ -31,6 +31,7 @@ _expression_ A variable that represents an **OlkCheckBox** object.
 
 <br/>
 
+
 ## Remarks
 
 Canceling this property will revert the control to the current value of the property and return the focus to the control.
@@ -38,16 +39,16 @@ Canceling this property will revert the control to the current value of the prop
 **BeforeUpdate** and **AfterUpdate** can occur any time the data in the control is being saved to the item. The typical sequence of events involving **BeforeUpdate** for this control is as follows:
 
 1. User focuses on the control.
-    
+
 2.  **BeforeUpdate**
-    
+
 3. Control data is updated.
-    
+
 4.  **AfterUpdate**
-    
+
 5.  **Exit**: User moves focus away from control.
-    
-    
+
+
 ## See also
 
 #### Concepts

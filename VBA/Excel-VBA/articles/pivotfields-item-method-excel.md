@@ -49,7 +49,6 @@ This example makes the Year field a row field in the first PivotTable report on 
 ```vb
 Worksheets("sheet3").PivotTables(1) _ 
  .PivotFields.Item("year").Orientation = xlRowField 
-
 ```
 
 

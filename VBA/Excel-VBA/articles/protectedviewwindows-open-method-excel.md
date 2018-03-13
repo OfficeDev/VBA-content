@@ -51,7 +51,6 @@ The following code example opens a workbook in a new  **Protected View** window.
 
 ```vb
 ProtectedViewWindows.Open FileName:="C:\MyFiles\MyWorkbook.xls" 
-
 ```
 
 

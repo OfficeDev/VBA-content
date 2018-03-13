@@ -64,7 +64,7 @@ Sub AddShapeSetAnimPath()
     MsgBox "Is motion path relative or absolute: " &; _
         effDiamond.EffectParameters.Relative &; vbCrLf &; _
         "0 = Relative, -1 = Absolute"
-		
+        
 End Sub
 ```
 

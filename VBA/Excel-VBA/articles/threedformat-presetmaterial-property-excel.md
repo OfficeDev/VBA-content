@@ -29,12 +29,17 @@ Returns or sets the extrusion surface material. Read/write  **MsoPresetMaterial*
 
 
 
-| **MsoPresetMaterial** can be one of these **MsoPresetMaterial** constants.|
-| **msoMaterialMatte**|
-| **msoMaterialMetal**|
-| **msoMaterialPlastic**|
-| **msoMaterialWireFrame**|
-| **msoPresetMaterialMixed**|
+| <strong>MsoPresetMaterial</strong> can be one of these <strong>MsoPresetMaterial</strong> constants.|
+| 
+<strong>msoMaterialMatte</strong>|
+| 
+<strong>msoMaterialMetal</strong>|
+| 
+<strong>msoMaterialPlastic</strong>|
+| 
+<strong>msoMaterialWireFrame</strong>|
+| 
+<strong>msoPresetMaterialMixed</strong>|
 
 ## Example
 

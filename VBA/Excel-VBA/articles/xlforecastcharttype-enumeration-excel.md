@@ -16,8 +16,9 @@ Constants passed to the [Workbook.CreateForecastSheet Method](workbook-createfor
 
 
 |xlForecastChartTypeColumnxlForecastChartTypeLine|10|Column chartLine chart|
-| **xlForecastChartTypeColumn**| **1**||
-| **xlForecastChartTypeLine**| **0**||
+| <strong>xlForecastChartTypeColumn</strong>| <strong>1</strong>||
+| 
+<strong>xlForecastChartTypeLine</strong>| <strong>0</strong>||
 
 ## See also
 

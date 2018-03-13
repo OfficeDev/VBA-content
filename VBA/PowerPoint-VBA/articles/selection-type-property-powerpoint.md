@@ -35,10 +35,13 @@ The value of the  **Type** property can be one of these **PpSelectionType** cons
 
 ||
 |:-----|
-|**ppSelectionNone**|
-|**ppSelectionShapes**|
-|**ppSelectionSlides**|
-|**ppSelectionText**|
+|<strong>ppSelectionNone</strong>|
+|
+<strong>ppSelectionShapes</strong>|
+|
+<strong>ppSelectionSlides</strong>|
+|
+<strong>ppSelectionText</strong>|
 
 ## See also
 

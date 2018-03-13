@@ -54,7 +54,7 @@ Private Sub App_PresentationSave(ByVal Pres As Presentation)
             &; PresName &; "'" &; " in PowerPoint" _
             &; Chr(10) &; Chr(13) _
             &; " format and HTML version 4.0 format")
-			
+            
         .Publish
     End With
 End Sub

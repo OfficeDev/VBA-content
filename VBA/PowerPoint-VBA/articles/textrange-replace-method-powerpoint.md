@@ -46,10 +46,11 @@ The  _MatchCase_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The default. Does not distinguish between uppercase and lowercase characters.|
-|**msoTrue**|Distinguish between uppercase and lowercase characters.|
+| <strong>Constant</strong> | <strong>Description</strong>                                                  |
+|:--------------------------|:------------------------------------------------------------------------------|
+| <strong>msoFalse</strong> | The default. Does not distinguish between uppercase and lowercase characters. |
+| <strong>msoTrue</strong>  | Distinguish between uppercase and lowercase characters.                       |
+
 The  _WholeWords_ parameter value can be one of these **MsoTriState** constants.
 
 
@@ -67,7 +68,7 @@ This example replaces every whole-word occurrence of "like" in all of the shapes
 ```vb
 Sub ReplaceText()
 
-    
+
 
     Dim oSld As Slide
 
@@ -77,11 +78,11 @@ Sub ReplaceText()
 
     Dim oTmpRng As TextRange
 
-     
+
 
     Set oSld = Application.ActivePresentation.Slides(1)
 
-    
+
 
     For Each oShp In oSld.Shapes
 

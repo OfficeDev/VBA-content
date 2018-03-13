@@ -70,7 +70,6 @@ The following line of code sets proposed resources in the Resource Graph view as
 
 ```vb
 Application.ResourceGraphBarStylesEx ProposedRightShowAs:=pjStepLine, ProposedRightColor:=pjTeal 
-
 ```
 
 

@@ -72,12 +72,11 @@ The following example adds a Web form check box control to the first page of the
 
 ```vb
 Dim shpCheckBox As Shape 
- 
+
 Set shpCheckBox = ActiveDocument.Pages(1).Shapes.AddWebControl _ 
  (Type:=pbWebControlCheckBox, _ 
  Left:=216, Top:=216, _ 
  Width:=18, Height:=18) 
-
 ```
 
 The following example adds hot spots to a shape on page four of the active Web publication. First, a four-point star AutoShape is added to the page. Next, a hot spot is added to each arm of the star by using the  **AddWebControl** method with a Type of **pbWebControlHotSpot**. Finally, a hyperlink is added to each hot spot by using the  **Hyperlink** property of each hot spot shape.
@@ -92,32 +91,32 @@ Dim theWC1 As Shape
 Dim theWC2 As Shape 
 Dim theWC3 As Shape 
 Dim theWC4 As Shape 
- 
+
 Set theDoc = ActiveDocument 
 Set theStar = theDoc.Pages(4).Shapes.AddShape _ 
  (Type:=msoShape4pointStar, Left:=200, Top:=25, _ 
  Width:=200, Height:=200) 
- 
+
 With theDoc.Pages(4).Shapes 
- 
+
  Set theWC1 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=280, Top:=25, Width:=40, Height:=80) 
  With theWC1 
  .Hyperlink.Address = "http://www.contoso.com/page1.htm" 
  End With 
- 
+
  Set theWC2 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=320, Top:=105, Width:=80, Height:=40) 
  With theWC2 
  .Hyperlink.Address = "http://www.contoso.com/page2.htm" 
  End With 
- 
+
  Set theWC3 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=280, Top:=145, Width:=40, Height:=80) 
  With theWC3 
  .Hyperlink.Address = "http://www.contoso.com/page3.htm" 
  End With 
- 
+
  Set theWC4 = .AddWebControl(Type:=pbWebControlHotSpot, _ 
  Left:=200, Top:=105, Width:=80, Height:=40) 
  With theWC4 

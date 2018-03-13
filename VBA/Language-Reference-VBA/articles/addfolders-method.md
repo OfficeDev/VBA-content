@@ -22,10 +22,11 @@ Adds a new  **Folder** to a **Folders** collection.
 The  **Add** method has the following parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **Folders** collection.|
-| _folderName_|Required. The name of the new  **Folder** being added.|
+| <strong>Part</strong> | <strong>Description</strong>                                         |
+|:----------------------|:---------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>Folders</strong> collection. |
+| <em>folderName</em>   | Required. The name of the new  <strong>Folder</strong> being added.  |
+
  **Remarks**
 An error occurs if the  _folderName_ already exists.
 

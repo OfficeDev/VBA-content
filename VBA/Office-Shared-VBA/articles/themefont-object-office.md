@@ -24,7 +24,6 @@ Dim tfThemeFontScheme As ThemeFontScheme
 Dim tfThemeFont As ThemeFont 
 Set tfThemeFontScheme = tTheme.ThemeFontScheme 
 Set tfThemeFont = tfThemeFontScheme.MajorFont(msoThemeLatin) 
-
 ```
 
 

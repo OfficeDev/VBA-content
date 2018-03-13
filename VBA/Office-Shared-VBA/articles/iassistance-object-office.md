@@ -28,7 +28,6 @@ Sub DisplayHelpTopic()
  Application.Assistance.ShowHelp "xlmain11.chm60407", "" 
  Application.Assistance.ShowHelp "vbaxl10.chm65879", "DEV" 
 End Sub 
-
 ```
 
 

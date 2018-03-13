@@ -31,15 +31,15 @@ The  **UserPermission** object associates a set of permissions on the active doc
 
 
 - The  **msoPermissionView** or **msoPermissionRead** option corresponds to the **Read** option in the user interface.
-    
+
 - The  **msoPermissionExtract** option corresponds to the **Allow users with read access to copy content** option in the user interface.
-    
+
 - The  **msoPermissionChange** option corresponds to the **Change** option in the user interface. The **msoPermissionChange** option represents the sum of **msoPermissionView** + **msoPermissionEdit** + **msoPermissionSave** + **msoPermissionExtract** and allows users to view, edit, copy, and save, but not print the document.
-    
+
 - The  **msoPermissionPrint** option corresponds to the **Print content** option in the user interface.
-    
+
 - The  **msoPermissionObjectModel** option corresponds to the **Access content programmatically** option in the user interface and allows users to access the document programmatically through its object model. Users without **msoPermissionObjectModel** cannot use the object model to determine their own rights, since programmatic access is disabled.
-    
+
 
 ## Example
 
@@ -62,7 +62,6 @@ The following example uses the bitwise  **And** operator with the **Permission**
  End If 
  Set irmUserPerm = Nothing 
  Set irmPermission = Nothing 
-
 ```
 
 

@@ -35,9 +35,11 @@ The value of the  **Restart** property can be one of these **MsoAnimEffectRestar
 
 ||
 |:-----|
-|**msoAnimEffectRestartAlways**|
-|**msoAnimEffectRestartNever**|
-|**msoAnimEffectRestartWhenOff**|
+|<strong>msoAnimEffectRestartAlways</strong>|
+|
+<strong>msoAnimEffectRestartNever</strong>|
+|
+<strong>msoAnimEffectRestartWhenOff</strong>|
 
 ## Example
 

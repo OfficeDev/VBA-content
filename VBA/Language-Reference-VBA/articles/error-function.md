@@ -38,8 +38,6 @@ Private Sub PrintError()
     Loop
 EOSb: Debug.Print ErrorNumber
 End Sub
-
-
 ```
 
 

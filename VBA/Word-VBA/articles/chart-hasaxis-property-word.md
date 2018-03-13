@@ -50,7 +50,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.HasAxis(xlValue, xlPrimary) = True 
  End If 
 End With 
-
 ```
 
 

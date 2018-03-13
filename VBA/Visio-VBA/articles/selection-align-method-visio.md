@@ -44,22 +44,24 @@ The following possible values for  _AlignHorizontal_ are declared in **VisHorizo
 
 
 
-|** Constant**|** Value**|** Description**|
-|:-----|:-----|:-----|
-| **visHorzAlignCenter**|2|Aligns to the center of the primary selected shape.|
-| **visHorzAlignLeft**|1|Aligns to the left of the primary selected shape.|
-| **visHorzAlignNone**|0|Does not align horizontally.|
-| **visHorzAlignRight**|3|Aligns to the right of the primary selected shape.|
+| ** Constant**                       | ** Value** | ** Description**                                    |
+|:------------------------------------|:-----------|:----------------------------------------------------|
+| <strong>visHorzAlignCenter</strong> | 2          | Aligns to the center of the primary selected shape. |
+| <strong>visHorzAlignLeft</strong>   | 1          | Aligns to the left of the primary selected shape.   |
+| <strong>visHorzAlignNone</strong>   | 0          | Does not align horizontally.                        |
+| <strong>visHorzAlignRight</strong>  | 3          | Aligns to the right of the primary selected shape.  |
+
 The following possible values for  _AlignVertical_ are declared in **VisVerticalSelectionTypes** in the Visio type library.
 
 
 
-|** Constant**|** Value**|** Description**|
-|:-----|:-----|:-----|
-| **visVertAlignBottom**|3|Aligns to bottom of primary selected shape.|
-| **visVertAlignMiddle**|2|Aligns to middle of primary selected shape.|
-| **visVertAlignNone**|0|Does not align vertically. |
-| **visVertAlignTop**|1|Aligns to top of primary selected shape.|
+| ** Constant**                       | ** Value** | ** Description**                            |
+|:------------------------------------|:-----------|:--------------------------------------------|
+| <strong>visVertAlignBottom</strong> | 3          | Aligns to bottom of primary selected shape. |
+| <strong>visVertAlignMiddle</strong> | 2          | Aligns to middle of primary selected shape. |
+| <strong>visVertAlignNone</strong>   | 0          | Does not align vertically.                  |
+| <strong>visVertAlignTop</strong>    | 1          | Aligns to top of primary selected shape.    |
+
 If you pass non-zero values for both  _AlignHorizontal_ and _AlignVertical_, the selected shapes appear superimposed. The most recently created shape appears at the front of the z-order.
 
 Calling the  **Align** method is equivalent to clicking **Position** on the **Home** tab and then setting options under **Align Shapes**. 
@@ -72,23 +74,23 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 ```vb
 Public Sub Align_Example() 
- 
+
     Dim vsoShape1 As Visio.Shape 
     Dim vsoShape2 As Visio.Shape 
     Dim vsoShape3 As Visio.Shape 
-     
+
     Set vsoShape1 = Application.ActiveWindow.Page.DrawRectangle(1, 9, 3, 7) 
     Set vsoShape2 = Application.ActiveWindow.Page.DrawRectangle(3, 6, 5, 5) 
     Set vsoShape3 = Application.ActiveWindow.Page.DrawRectangle(6, 4, 8, 2) 
- 
+
     ActiveWindow.DeselectAll 
-     
+
     ActiveWindow.Select vsoShape1, visSelect 
     ActiveWindow.Select vsoShape2, visSelect 
     ActiveWindow.Select vsoShape3, visSelect 
-     
+
     Application.ActiveWindow.Selection.Align visHorzAlignRight, visVertAlignNone, False 
- 
+
 End Sub
 ```
 

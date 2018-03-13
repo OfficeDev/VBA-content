@@ -30,14 +30,13 @@ The following example changes the grid layout guides so that there are three col
 
 ```vb
 Dim layTemp As LayoutGuides 
- 
+
 Set layTemp = ActiveDocument.LayoutGuides 
- 
+
 With layTemp 
  .Rows = 5 
  .Columns = 3 
 End With 
-
 ```
 
 

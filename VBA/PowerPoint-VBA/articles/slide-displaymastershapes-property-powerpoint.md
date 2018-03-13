@@ -34,10 +34,11 @@ The value of the  **DisplayMasterShapes** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The specified slide does not display the background objects on the slide master.|
-|**msoTrue**| The specified slide displays the background objects on the slide master. These background objects can include text, drawings, OLE objects, and clip art you add to the slide master. Headers and footers aren't included.|
+| <strong>Constant</strong> | <strong>Description</strong>                                                                                                                                                                                              |
+|:--------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>msoFalse</strong> | The specified slide does not display the background objects on the slide master.                                                                                                                                          |
+| <strong>msoTrue</strong>  | The specified slide displays the background objects on the slide master. These background objects can include text, drawings, OLE objects, and clip art you add to the slide master. Headers and footers aren't included. |
+
 When you create a new slide, the default value for this property is  **msoTrue**. If you copy a slide from another presentation, it retains the setting it had in the original presentation. That is, if the slide omitted slide master background objects in the original presentation, it will omit them in the new presentation as well.
 
 Note that the look of the slide's background is determined by the color scheme and background and by the background objects. If setting the  **DisplayMasterShapes** property alone doesn't give you the results you want, try setting the **FollowMasterBackground** and **ColorScheme** properties as well.

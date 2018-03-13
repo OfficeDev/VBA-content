@@ -35,10 +35,13 @@ The value of the  **Speed** property can be one of these **PpTransitionSpeed** c
 
 ||
 |:-----|
-|**ppTransitionSpeedFast**|
-|**ppTransitionSpeedMedium**|
-|**ppTransitionSpeedMixed**|
-|**ppTransitionSpeedSlow**|
+|<strong>ppTransitionSpeedFast</strong>|
+|
+<strong>ppTransitionSpeedMedium</strong>|
+|
+<strong>ppTransitionSpeedMixed</strong>|
+|
+<strong>ppTransitionSpeedSlow</strong>|
 
 ## Example
 

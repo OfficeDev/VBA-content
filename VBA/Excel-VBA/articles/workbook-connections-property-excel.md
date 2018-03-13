@@ -30,7 +30,6 @@ The following example rereshes the OBDC and OLEDB connections of the active work
 ```vb
 ActiveWorkbook.Connections(1).ODBCConnection.Refresh 
 ActiveWorkbook.Connections(1).OLEDBConnection.Refresh 
-
 ```
 
 

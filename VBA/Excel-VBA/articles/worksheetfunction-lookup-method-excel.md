@@ -52,7 +52,7 @@ Variant
 A vector is a range of only one row or one column. The vector form of LOOKUP looks in a one-row or one-column range (known as a vector) for a value and returns a value from the same position in a second one-row or one-column range. Use this form of the LOOKUP function when you want to specify the range that contains the values that you want to match. The other form of LOOKUP automatically looks in the first column or row. 
 
 
--      **Important**  The values in lookup_vector must be placed in ascending order: ...,-2, -1, 0, 1, 2, ..., A-Z, FALSE, TRUE; otherwise, LOOKUP may not give the correct value. Uppercase and lowercase text are equivalent.
+- **Important**  The values in lookup_vector must be placed in ascending order: ...,-2, -1, 0, 1, 2, ..., A-Z, FALSE, TRUE; otherwise, LOOKUP may not give the correct value. Uppercase and lowercase text are equivalent.
 
 - If LOOKUP can't find the lookup_value, it matches the largest value in lookup_vector that is less than or equal to lookup_value.
     

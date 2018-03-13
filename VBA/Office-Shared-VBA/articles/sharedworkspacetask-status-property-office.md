@@ -34,9 +34,9 @@ The shared workspace task schema on the server can be customized. Customization 
 
 
 - Downloaded values 1 through 5 are mapped to  **msoSharedWorkspaceTaskStatus** enumeration values 1 through 5. Schema values beyond 5 are mapped to enumeration value 1 ( **msoSharedWorkspaceTaskStatusInProgress** ).
-    
+
 - Uploaded enumeration values 1 through 5 are mapped to schema values 1 through 5. If a user-specified value does not map to any value defined in the schema, the user-specified value is silently ignored and the  **Status** property is not updated on the server.
-    
+
 
 
 
@@ -56,7 +56,6 @@ The following example displays a list of all tasks in the current shared workspa
     MsgBox "The following tasks have not been completed:" &amp; vbCrLf &amp; _ 
         strTaskStatus, vbInformation + vbOKOnly, "Incomplete Tasks" 
     Set swsTask = Nothing 
-
 ```
 
 

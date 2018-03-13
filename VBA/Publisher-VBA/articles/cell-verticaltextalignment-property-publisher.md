@@ -29,9 +29,11 @@ The  **VerticalTextAlignment** property value can be one of these **PbVerticalTe
 
 
 
-| **pbVerticalTextAlignmentBottom**|
-| **pbVerticalTextAlignmentCenter**|
-| **pbVerticalTextAlignmentTop**|
+| <strong>pbVerticalTextAlignmentBottom</strong>|
+| 
+<strong>pbVerticalTextAlignmentCenter</strong>|
+| 
+<strong>pbVerticalTextAlignmentTop</strong>|
 
 ## Example
 

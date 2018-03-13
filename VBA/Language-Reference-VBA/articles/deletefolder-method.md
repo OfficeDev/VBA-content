@@ -22,11 +22,12 @@ Deletes a specified folder and its contents.
 The  **DeleteFolder** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _folderspec_|Required. The name of the folder to delete. The  _folderspec_ can contain wildcard characters in the last path component.|
-| _force_|Optional.  **Boolean** value that is **True** if folders with the read-only attribute set are to be deleted; **False** (default) if they are not.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                             |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                                                                                                                       |
+| <em>folderspec</em>   | Required. The name of the folder to delete. The  <em>folderspec</em> can contain wildcard characters in the last path component.                                                         |
+| <em>force</em>        | Optional.  <strong>Boolean</strong> value that is <strong>True</strong> if folders with the read-only attribute set are to be deleted; <strong>False</strong> (default) if they are not. |
+
  **Remarks**
 The  **DeleteFolder** method does not distinguish between folders that have contents and those that do not. The specified folder is deleted regardless of whether or not it has contents.
 An error occurs if no matching folders are found. The  **DeleteFolder** method stops on the first error it encounters. No attempt is made to roll back or undo any changes that were made before an error occurred.

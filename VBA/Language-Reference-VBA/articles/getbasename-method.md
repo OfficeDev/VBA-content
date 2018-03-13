@@ -22,10 +22,11 @@ Returns a string containing the base name of the last component, less any file e
 The  **GetBaseName** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _path_|Required. The path specification for the component whose base name is to be returned.|
+| <strong>Part</strong> | <strong>Description</strong>                                                          |
+|:----------------------|:--------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                    |
+| <em>path</em>         | Required. The path specification for the component whose base name is to be returned. |
+
  **Remarks**
 The  **GetBaseName** method returns a zero-length string ("") if no component matches the _path_ argument.
 

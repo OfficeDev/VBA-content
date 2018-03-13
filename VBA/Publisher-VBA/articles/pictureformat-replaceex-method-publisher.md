@@ -39,9 +39,11 @@ The  _InsertAs_ parameter can be one of the following **PbPictureInsertAs** cons
 
 
 
-| **pbPictureInsertAsEmbedded**|
-| **pbPictureInsertAsLinked**|
-| **pbPictureInsertAsOriginalState**|
+| <strong>pbPictureInsertAsEmbedded</strong>|
+| 
+<strong>pbPictureInsertAsLinked</strong>|
+| 
+<strong>pbPictureInsertAsOriginalState</strong>|
 
 ## Example
 
@@ -54,27 +56,27 @@ Before running this macro, replace replacementPicturePath with the path to the p
 
 ```vb
 Public Sub ReplaceEx_Example()
-    
+
     Dim pubPage As Page
     Dim pubShape As Shape
     Dim strReplacePicturePath As String
-    
+
     strReplacePicturePath = replacementPicturePath
-    
+
     For Each pubPage In ActiveDocument.Pages
-        
+
         For Each pubShape In pubPage.Shapes
-            
+
             If pubShape.Type = pbPicture Then
 
                 pubShape.PictureFormat.ReplaceEx strReplacePicturePath, pbPictureInsertAsOriginalState, pbFit
 
             End If
-        
+
         Next pubShape
-        
+
     Next pubPage
-            
+
 End Sub
 ```
 

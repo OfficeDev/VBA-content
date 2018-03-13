@@ -9,27 +9,25 @@ ms.date: 06/08/2017
 # Groups2 Object (Project)
 
 Represents a collection of  **[Group2](group2-object-project.md)** objects, which can maintain group hierarchy.
- 
+
 
 
 ## Remarks
 
 Use  `TaskGroups2(Index)` or `ResourceGroups2(Index)`, where *Index* is the group definition index or group definition name, to return a **Group2** object.
- 
 
- 
+
+
 
 ## Example
 
 The following example ensures that the Standard Rate resource group displays summary task information.
- 
 
- 
+
+
 
 ```
 ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True 
-
-
 ```
 
 
@@ -59,5 +57,5 @@ ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 #### Other resources
 
 
- 
+
 [Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)

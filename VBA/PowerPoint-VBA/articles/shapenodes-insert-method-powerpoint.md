@@ -53,8 +53,9 @@ The  _EditingType_ parameter value can be one of these **MsoEditingType** consta
 
 ||
 |:-----|
-|**msoEditingAuto**|
-|**msoEditingCorner**|
+|<strong>msoEditingAuto</strong>|
+|
+<strong>msoEditingCorner</strong>|
 
 ## Example
 

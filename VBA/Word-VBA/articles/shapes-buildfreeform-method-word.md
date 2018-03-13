@@ -50,9 +50,8 @@ This example adds a freeform with five vertices to the active document.
 
 ```vb
 Dim docActive As Document 
- 
-Set docActive = ActiveDocument 
 
+Set docActive = ActiveDocument 
 ```
 
 

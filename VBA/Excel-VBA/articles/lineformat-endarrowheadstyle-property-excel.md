@@ -29,14 +29,21 @@ Returns or sets the style of the arrowhead at the end of the specified line. Rea
 
 
 
-| **MsoArrowheadStyle** can be one of these **MsoArrowheadStyle** constants.|
-| **msoArrowheadNone**|
-| **msoArrowheadOval**|
-| **msoArrowheadStyleMixed**|
-| **msoArrowheadDiamond**|
-| **msoArrowheadOpen**|
-| **msoArrowheadStealth**|
-| **msoArrowheadTriangle**|
+| <strong>MsoArrowheadStyle</strong> can be one of these <strong>MsoArrowheadStyle</strong> constants.|
+| 
+<strong>msoArrowheadNone</strong>|
+| 
+<strong>msoArrowheadOval</strong>|
+| 
+<strong>msoArrowheadStyleMixed</strong>|
+| 
+<strong>msoArrowheadDiamond</strong>|
+| 
+<strong>msoArrowheadOpen</strong>|
+| 
+<strong>msoArrowheadStealth</strong>|
+| 
+<strong>msoArrowheadTriangle</strong>|
 
 ## Example
 

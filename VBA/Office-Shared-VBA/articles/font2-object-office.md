@@ -23,7 +23,6 @@ With ActiveDocument.Styles(wdStyleHeading2).Font2
  .Name = "Arial" 
  .Italic = True 
 End With 
-
 ```
 
 

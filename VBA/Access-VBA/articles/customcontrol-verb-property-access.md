@@ -31,20 +31,22 @@ If you don't use the  **ObjectVerbs** property to identify a specific verb, you 
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**acOLEVerbPrimary**|Performs the default operation for the object.|
-|**acOLEVerbShow**|Activates the object for editing.|
-|**acOLEVerbOpen**|Opens the object in a separate application window.|
-|**acOLEVerbHide**|For embedded objects, hides the application that was used to create the object.|
+| <strong>Constant</strong>         | <strong>Description</strong>                                                    |
+|:----------------------------------|:--------------------------------------------------------------------------------|
+| <strong>acOLEVerbPrimary</strong> | Performs the default operation for the object.                                  |
+| <strong>acOLEVerbShow</strong>    | Activates the object for editing.                                               |
+| <strong>acOLEVerbOpen</strong>    | Opens the object in a separate application window.                              |
+| <strong>acOLEVerbHide</strong>    | For embedded objects, hides the application that was used to create the object. |
+
 With some applications' objects, you can use these additional values. 
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**acOLEVerbInPlaceUIActivate**|Activates the object for editing within the control. The menus and toolbars of the OLE server become available in the OLE container.|
-|**acOLEVerbInPlaceActivate**|Activates the object within the control. The menus and toolbars of the OLE server aren't available in the OLE container.|
+| <strong>Constant</strong>                   | <strong>Description</strong>                                                                                                         |
+|:--------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>acOLEVerbInPlaceUIActivate</strong> | Activates the object for editing within the control. The menus and toolbars of the OLE server become available in the OLE container. |
+| <strong>acOLEVerbInPlaceActivate</strong>   | Activates the object within the control. The menus and toolbars of the OLE server aren't available in the OLE container.             |
+
 Each object supports its own set of verbs. For example, many objects support the verbs Edit and Play. You can use the  **ObjectVerbs** and **ObjectVerbsCount** properties to find out which verbs are supported by an object.
 
 Microsoft Access automatically uses an object's default verb if the user double-clicks an object for which the  **AutoActivate** property is set to Double-Click.

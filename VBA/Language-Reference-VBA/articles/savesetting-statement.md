@@ -20,12 +20,13 @@ Saves or creates an application entry in the application's entry in the Windows 
 The  **SaveSetting** statement syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_appname_**|Required. [String expression](vbe-glossary.md) containing the name of the application or[project](vbe-glossary.md) to which the setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
-|**_section_**|Required. String expression containing the name of the section where the key setting is being saved.|
-|**_key_**|Required. String expression containing the name of the key setting being saved.|
-|**_setting_**|Required. [Expression](vbe-glossary.md) containing the value that **_key_** is being set to.|
+| <strong>Part</strong>             | <strong>Description</strong>                                                                                                                                                                                                                                       |
+|:----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>appname</em></strong> | Required. [String expression](vbe-glossary.md) containing the name of the application or[project](vbe-glossary.md) to which the setting applies. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder. |
+| <strong><em>section</em></strong> | Required. String expression containing the name of the section where the key setting is being saved.                                                                                                                                                               |
+| <strong><em>key</em></strong>     | Required. String expression containing the name of the key setting being saved.                                                                                                                                                                                    |
+| <strong><em>setting</em></strong> | Required. [Expression](vbe-glossary.md) containing the value that <strong><em>key</em></strong> is being set to.                                                                                                                                                   |
+
  **Remarks**
 An error occurs if the key setting can't be saved for any reason.
 
@@ -41,7 +42,6 @@ SaveSetting appname := "MyApp", section := "Startup", _
 SaveSetting "MyApp","Startup", "Left", 50 
 ' Remove section and all its settings from registry. 
 DeleteSetting "MyApp", "Startup" 
-
 ```
 
 

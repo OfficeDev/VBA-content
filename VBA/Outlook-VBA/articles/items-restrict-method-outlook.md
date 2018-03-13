@@ -47,29 +47,51 @@ This method cannot be used and will cause an error with the following properties
 
 
 
-| **Body**| **LastFirstNoSpaceCompany**|
-| **Categories**| **LastFirstSpaceOnly**|
-| **Children**| **LastFirstSpaceOnlyCompany**|
-| **Class**| **LastFirstNoSpaceAndSuffix**|
-| **Companies**| **MemberCount**|
-| **CompanyLastFirstNoSpace**| **NetMeetingAlias**|
-| **CompanyLastFirstSpaceOnly**| **NetMeetingAutoStart**|
-| **ContactNames**| **NetMeetingOrganizerAlias**|
-| **Contacts**| **NetMeetingServer**|
-| **ConversationIndex**| **NetMeetingType**|
-| **DLName**| **RecurrenceState**|
-| **Email1EntryID**| **ReceivedByEntryID**|
-| **Email2EntryID**| **RecevedOnBehalfOfEntryID**|
-| **Email3EntryID**| **ReplyRecipients**|
-| **EntryID**| **ResponseState**|
-| **HTMLBody**| **Saved**|
-| **IsOnlineMeeting**| **Sent**|
-| **LastFirstAndSuffix**| **Submitted**|
-| **LastFirstNoSpace**| **VotingOptions**|
-| **AutoResolvedWinner**| **DownloadState**|
-| **BodyFormat**| **IsConflict**|
-| **InternetCodePage**| **MeetingWorkspaceURL**|
-| **Permission**||
+| <strong>Body</strong>| <strong>LastFirstNoSpaceCompany</strong>|
+| 
+<strong>Categories</strong>| <strong>LastFirstSpaceOnly</strong>|
+| 
+<strong>Children</strong>| <strong>LastFirstSpaceOnlyCompany</strong>|
+| 
+<strong>Class</strong>| <strong>LastFirstNoSpaceAndSuffix</strong>|
+| 
+<strong>Companies</strong>| <strong>MemberCount</strong>|
+| 
+<strong>CompanyLastFirstNoSpace</strong>| <strong>NetMeetingAlias</strong>|
+| 
+<strong>CompanyLastFirstSpaceOnly</strong>| <strong>NetMeetingAutoStart</strong>|
+| 
+<strong>ContactNames</strong>| <strong>NetMeetingOrganizerAlias</strong>|
+| 
+<strong>Contacts</strong>| <strong>NetMeetingServer</strong>|
+| 
+<strong>ConversationIndex</strong>| <strong>NetMeetingType</strong>|
+| 
+<strong>DLName</strong>| <strong>RecurrenceState</strong>|
+| 
+<strong>Email1EntryID</strong>| <strong>ReceivedByEntryID</strong>|
+| 
+<strong>Email2EntryID</strong>| <strong>RecevedOnBehalfOfEntryID</strong>|
+| 
+<strong>Email3EntryID</strong>| <strong>ReplyRecipients</strong>|
+| 
+<strong>EntryID</strong>| <strong>ResponseState</strong>|
+| 
+<strong>HTMLBody</strong>| <strong>Saved</strong>|
+| 
+<strong>IsOnlineMeeting</strong>| <strong>Sent</strong>|
+| 
+<strong>LastFirstAndSuffix</strong>| <strong>Submitted</strong>|
+| 
+<strong>LastFirstNoSpace</strong>| <strong>VotingOptions</strong>|
+| 
+<strong>AutoResolvedWinner</strong>| <strong>DownloadState</strong>|
+| 
+<strong>BodyFormat</strong>| <strong>IsConflict</strong>|
+| 
+<strong>InternetCodePage</strong>| <strong>MeetingWorkspaceURL</strong>|
+| 
+<strong>Permission</strong>||
 
 ### Creating Filters for the Find and Restrict Methods
 
@@ -194,7 +216,6 @@ OR: The following code returns all contact items that have either Business or Pe
 
 ```vb
 sFilter = "[Categories] = 'Personal' Or [Categories] = 'Business'"  
-
 ```
 
 AND: The following code retrieves all personal contacts who work at Microsoft. 
@@ -238,7 +259,7 @@ Sub MoveItems()
     Dim myItems As Outlook.Items  
     Dim myRestrictItems As Outlook.Items  
     Dim myItem As Outlook.MailItem  
-  
+
     Set myNamespace = Application.GetNamespace("MAPI")  
     Set myFolder = _  
         myNamespace.GetDefaultFolder(olFolderInbox)  
@@ -261,7 +282,7 @@ Public Sub ContactDateCheck()
     Dim myContacts As Outlook.Items  
     Dim myItems As Outlook.Items  
     Dim myItem As Object  
-      
+
     Set myNamespace = Application.GetNamespace("MAPI")  
     Set myContacts = myNamespace.GetDefaultFolder(olFolderContacts).Items  
     Set myItems = myContacts.Restrict("[LastModificationTime] > '01/1/2003'")  
@@ -286,7 +307,7 @@ Public Sub ContactDateCheck2()
     Dim DateStart As Date  
     Dim DateToCheck As String  
     Dim myRestrictItems As Outlook.Items  
-  
+
     Set myNameSpace = Application.GetNamespace("MAPI")  
     Set myContacts = myNameSpace.GetDefaultFolder(olFolderContacts).Items  
     DateStart = #01/1/2003#  

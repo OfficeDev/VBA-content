@@ -12,35 +12,36 @@ Contains constants that specify a view in Project.
 
 
 
-|**Name**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**pjViewUndefined**|-1|The view is undefined.|
-|**pjViewBarRollup**|0|**Bar Rollup** view.|
-|**pjViewCalendar**|1|**Calendar** view.|
-|**pjViewDescriptiveNetworkDiagram**|2|**Descriptive Network Diagram** view.|
-|**pjViewDetailGantt**|3|**Detail Gantt** view.|
-|**pjViewGantt**|4|**Gantt Chart** view.|
-|**pjViewGanttWithTimeline**|5|**Gantt with Timeline** view.|
-|**pjViewLevelingGantt**|6|**Leveling Gantt** view.|
-|**pjViewMilestoneDateRollup**|7|**Milestone Date Rollup** view.|
-|**pjViewMilestoneRollup**|8|**Milestone Rollup** view.|
-|**pjViewMultipleBaselinesGantt**|9|**Multiple Baselines Gantt** view.|
-|**pjViewNetworkDiagram**|10|**Network Diagram** view.|
-|**pjViewRelationshipDiagram**|11|**Relationship Diagram** view.|
-|**pjViewResourceAllocation**|12|**Resource Allocation** view.|
-|**pjViewResourceForm**|13|**Resource Form** view.|
-|**pjViewResourceGraph**|14|**Resource Graph** View.|
-|**pjViewResourceNameForm**|15|**Resource Name Form** view.|
-|**pjViewResourceSchedulingView**|16|**Team Planner** view.|
-|**pjViewResourceSheet**|17|**Resource Sheet** view.|
-|**pjViewResourceUsage**|18|**Resource Usage** view.|
-|**pjViewTaskDetailsForm**|20|**Task Details Form** view.|
-|**pjViewTaskEntry**|21|**Task Entry** view.|
-|**pjViewTaskForm**|19|**Task Form** view.|
-|**pjViewTaskNameForm**|22|**Task Name Form** view.|
-|**pjViewTaskSheet**|23|**Task Sheet** view.|
-|**pjViewTaskUsage**|24|**Task Usage** view.|
-|**pjViewTimeline**|25|**Timeline** view.|
-|**pjViewTrackingGantt**|26|**Tracking Gantt** view.|
+| <strong>Name</strong>                            | <strong>Value</strong> | <strong>Description</strong>                       |
+|:-------------------------------------------------|:-----------------------|:---------------------------------------------------|
+| <strong>pjViewUndefined</strong>                 | -1                     | The view is undefined.                             |
+| <strong>pjViewBarRollup</strong>                 | 0                      | <strong>Bar Rollup</strong> view.                  |
+| <strong>pjViewCalendar</strong>                  | 1                      | <strong>Calendar</strong> view.                    |
+| <strong>pjViewDescriptiveNetworkDiagram</strong> | 2                      | <strong>Descriptive Network Diagram</strong> view. |
+| <strong>pjViewDetailGantt</strong>               | 3                      | <strong>Detail Gantt</strong> view.                |
+| <strong>pjViewGantt</strong>                     | 4                      | <strong>Gantt Chart</strong> view.                 |
+| <strong>pjViewGanttWithTimeline</strong>         | 5                      | <strong>Gantt with Timeline</strong> view.         |
+| <strong>pjViewLevelingGantt</strong>             | 6                      | <strong>Leveling Gantt</strong> view.              |
+| <strong>pjViewMilestoneDateRollup</strong>       | 7                      | <strong>Milestone Date Rollup</strong> view.       |
+| <strong>pjViewMilestoneRollup</strong>           | 8                      | <strong>Milestone Rollup</strong> view.            |
+| <strong>pjViewMultipleBaselinesGantt</strong>    | 9                      | <strong>Multiple Baselines Gantt</strong> view.    |
+| <strong>pjViewNetworkDiagram</strong>            | 10                     | <strong>Network Diagram</strong> view.             |
+| <strong>pjViewRelationshipDiagram</strong>       | 11                     | <strong>Relationship Diagram</strong> view.        |
+| <strong>pjViewResourceAllocation</strong>        | 12                     | <strong>Resource Allocation</strong> view.         |
+| <strong>pjViewResourceForm</strong>              | 13                     | <strong>Resource Form</strong> view.               |
+| <strong>pjViewResourceGraph</strong>             | 14                     | <strong>Resource Graph</strong> View.              |
+| <strong>pjViewResourceNameForm</strong>          | 15                     | <strong>Resource Name Form</strong> view.          |
+| <strong>pjViewResourceSchedulingView</strong>    | 16                     | <strong>Team Planner</strong> view.                |
+| <strong>pjViewResourceSheet</strong>             | 17                     | <strong>Resource Sheet</strong> view.              |
+| <strong>pjViewResourceUsage</strong>             | 18                     | <strong>Resource Usage</strong> view.              |
+| <strong>pjViewTaskDetailsForm</strong>           | 20                     | <strong>Task Details Form</strong> view.           |
+| <strong>pjViewTaskEntry</strong>                 | 21                     | <strong>Task Entry</strong> view.                  |
+| <strong>pjViewTaskForm</strong>                  | 19                     | <strong>Task Form</strong> view.                   |
+| <strong>pjViewTaskNameForm</strong>              | 22                     | <strong>Task Name Form</strong> view.              |
+| <strong>pjViewTaskSheet</strong>                 | 23                     | <strong>Task Sheet</strong> view.                  |
+| <strong>pjViewTaskUsage</strong>                 | 24                     | <strong>Task Usage</strong> view.                  |
+| <strong>pjViewTimeline</strong>                  | 25                     | <strong>Timeline</strong> view.                    |
+| <strong>pjViewTrackingGantt</strong>             | 26                     | <strong>Tracking Gantt</strong> view.              |
+
 The  **PjViewType** enumeration is used in the[ViewApplyEx](application-viewapplyex-method-project.md) method.
 

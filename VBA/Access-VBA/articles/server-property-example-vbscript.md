@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Server Property Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -47,6 +47,7 @@ font-size: x-small;}
 <PARAM NAME="SQL" VALUE="Select * from Employees"><PARAM NAME="SERVER" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">
 <PARAM NAME="CONNECT" VALUE="Provider='sqloledb';Integrated Security='SSPI';Initial Catalog='Northwind'"></OBJECT> 
 </body></html>
+
 <!-- EndServerDesignVBS -->
 ```
 
@@ -95,6 +96,7 @@ RDC.Connect = txtConnect.ValueRDC.Refresh
 End Sub-->
 </Script> 
 </body></html>
+
 <!-- EndServerRuntimeVBS -->
 ```
 

@@ -22,14 +22,15 @@ The required  _arraylist_[argument](vbe-glossary.md) is one or more comma-delimi
  **Erase** behaves differently depending on whether an array is fixed-size (ordinary) or dynamic. **Erase** recovers no memory for fixed-size arrays. **Erase** sets the elements of a fixed array as follows:
 
 
-|**Type of Array**|**Effect of Erase on Fixed-Array Elements**|
-|:-----|:-----|
-|Fixed numeric array|Sets each element to zero.|
-|Fixed string array (variable length)|Sets each element to a zero-length string ("").|
-|Fixed string array (fixed length)|Sets each element to zero.|
-|Fixed [Variant](vbe-glossary.md) array|Sets each element to [Empty](vbe-glossary.md).|
-|Array of [user-defined types](vbe-glossary.md)|Sets each element as if it were a separate variable.|
-|Array of objects|Sets each element to the special value  **Nothing**.|
+| <strong>Type of Array</strong>                 | <strong>Effect of Erase on Fixed-Array Elements</strong>          |
+|:-----------------------------------------------|:------------------------------------------------------------------|
+| Fixed numeric array                            | Sets each element to zero.                                        |
+| Fixed string array (variable length)           | Sets each element to a zero-length string ("").                   |
+| Fixed string array (fixed length)              | Sets each element to zero.                                        |
+| Fixed [Variant](vbe-glossary.md) array         | Sets each element to [Empty](vbe-glossary.md).                    |
+| Array of [user-defined types](vbe-glossary.md) | Sets each element as if it were a separate variable.              |
+| Array of objects                               | Sets each element to the special value  <strong>Nothing</strong>. |
+
  **Erase** frees the memory used by dynamic arrays. Before your program can refer to the dynamic array again, it must redeclare the array variable's dimensions using a **ReDim** statement.
 
 ## Example
@@ -51,7 +52,6 @@ Erase StrVarArray ' Each element set to zero-length
 Erase StrFixArray ' Each element set to 0. 
 Erase VarArray ' Each element set to Empty. 
 Erase DynamicArray ' Free memory used by array. 
-
 ```
 
 

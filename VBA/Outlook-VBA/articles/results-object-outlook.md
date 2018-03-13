@@ -30,36 +30,34 @@ The following event procedure stores the results of a search in a variable named
 
 ```
 Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search) 
- 
- 
- 
- Dim objRsts As Outlook.Results 
- 
- MsgBox "The search " &amp; SearchObject.Tag &amp; _ 
- 
- "has completed. The scope of the search was " &amp; _ 
- 
- SearchObject.Scope &amp; "." 
- 
- Set objRsts = SearchObject.Results 
- 
- 'Print out number in Results collection 
- 
- Debug.Print objRsts.Count 
- 
- 'Print out each member of Results collection 
- 
- For Each Item In objRsts 
- 
- Debug.Print Item 
- 
- Next 
- 
- 
- 
-End Sub 
- 
 
+
+
+ Dim objRsts As Outlook.Results 
+
+ MsgBox "The search " &amp; SearchObject.Tag &amp; _ 
+
+ "has completed. The scope of the search was " &amp; _ 
+
+ SearchObject.Scope &amp; "." 
+
+ Set objRsts = SearchObject.Results 
+
+ 'Print out number in Results collection 
+
+ Debug.Print objRsts.Count 
+
+ 'Print out each member of Results collection 
+
+ For Each Item In objRsts 
+
+ Debug.Print Item 
+
+ Next 
+
+
+
+End Sub 
 ```
 
 

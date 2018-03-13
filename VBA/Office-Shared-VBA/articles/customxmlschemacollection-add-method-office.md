@@ -47,28 +47,27 @@ The following example adds a schema to the schema collection, selects a single n
 ```
 Function AddSchema() 
     On Error GoTo Err 
- 
+
     Dim objCustomXMLSchemaCollection As CustomXMLSchemaCollection 
     Dim cxp1 As  CustomXMLSchema 
     Dim cxn As CustomXMLNode 
- 
+
     ' Adds a schema to the collection. 
     cxp1 = objCustomXMLSchemaCollection.Add("urn:invoice:namespace", "coreDefinitions", wdCore.xsd", True) 
- 
+
 ... 
- 
+
     Set cxn = cxp4.SelectSingleNode("//*[@quantity < 4]") 
- 
+
     AddSchema = cxn 
-      
+
     Exit Function 
-                 
+
 ' Exception handling. Show the message and resume. 
 Err: 
         MsgBox (Err.Description) 
         Resume Next 
 End Function 
-
 ```
 
 

@@ -28,7 +28,6 @@ This example sets color five in the color palette for the active chart.
 
 ```vb
 ActiveChart.Colors(5) = RGB(255, 0, 0) 
-
 ```
 
 

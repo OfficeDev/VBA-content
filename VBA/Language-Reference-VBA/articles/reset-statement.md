@@ -35,7 +35,6 @@ For FileNumber = 1 To 5 ' Loop 5 times.
 Next FileNumber 
 Reset ' Close files and write contents 
  ' to disk. 
-
 ```
 
 

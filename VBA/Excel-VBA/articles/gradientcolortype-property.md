@@ -18,10 +18,13 @@ Returns the gradient color type for the specified fill. Read-only MsoGradientCol
 
 
 |MsoGradientColorType can be one of these MsoGradientColorType constants.|
-| **msoGradientColorMixed**|
-| **msoGradientOneColor**|
-| **msoGradientPresetColors**|
-| **msoGradientTwoColors**|
+| <strong>msoGradientColorMixed</strong>|
+| 
+<strong>msoGradientOneColor</strong>|
+| 
+<strong>msoGradientPresetColors</strong>|
+| 
+<strong>msoGradientTwoColors</strong>|
 
  _expression_. **GradientColorType**
 

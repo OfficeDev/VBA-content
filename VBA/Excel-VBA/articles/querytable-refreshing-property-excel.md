@@ -48,7 +48,6 @@ With Worksheets(1).QueryTables(1)
  .ResultRange.Select 
  End If 
 End With 
-
 ```
 
 

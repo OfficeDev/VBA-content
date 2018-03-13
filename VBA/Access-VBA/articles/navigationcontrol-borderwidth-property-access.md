@@ -29,10 +29,11 @@ The  **BorderWidth** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Hairline|0|(Default) The narrowest border possible on your system.|
-|1 pt to 6 pt|1 to 6|The width as indicated in points.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                            |
+|:-------------------------|:------------------------------|:--------------------------------------------------------|
+| Hairline                 | 0                             | (Default) The narrowest border possible on your system. |
+| 1 pt to 6 pt             | 1 to 6                        | The width as indicated in points.                       |
+
 You can set the default for this property by using the control's default control style or the  **DefaultControl** property in Visual Basic.
 
 To use the  **BorderWidth** property, the **SpecialEffect** property must be set to Flat or Shadowed and the **BorderStyle** property must not be set to Transparent. If the **SpecialEffect** property is set to any other value and/or the **BorderStyle** property is set to Transparent, and you set the **BorderWidth** property, the **SpecialEffect** property is automatically reset to Flat and the **BorderStyle** property is automatically reset to Solid.

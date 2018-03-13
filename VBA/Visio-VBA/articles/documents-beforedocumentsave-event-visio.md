@@ -18,7 +18,7 @@ Occurs before a document is saved.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeDocumentSave**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeDocumentSave</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents a **Documents** object.
 

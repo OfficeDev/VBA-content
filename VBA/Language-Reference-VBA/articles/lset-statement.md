@@ -21,12 +21,13 @@ Left aligns a string within a string [variable](vbe-glossary.md), or copies a va
 The  **LSet** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _stringvar_|Required. Name of string [variable](vbe-glossary.md).|
-| _string_|Required. [String expression](vbe-glossary.md) to be left-aligned within _stringvar._|
-| _varname1_|Required. Variable name of the user-defined type being copied to.|
-| _varname2_|Required. Variable name of the user-defined type being copied from.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                 |
+|:----------------------|:---------------------------------------------------------------------------------------------|
+| <em>stringvar</em>    | Required. Name of string [variable](vbe-glossary.md).                                        |
+| <em>string</em>       | Required. [String expression](vbe-glossary.md) to be left-aligned within <em>stringvar.</em> |
+| <em>varname1</em>     | Required. Variable name of the user-defined type being copied to.                            |
+| <em>varname2</em>     | Required. Variable name of the user-defined type being copied from.                          |
+
  **Remarks**
  **LSet** replaces any leftover characters in _stringvar_ with spaces.
 If  _string_ is longer than _stringvar_, **LSet** places only the leftmost characters, up to the length of the _stringvar,_ in _stringvar_.
@@ -42,7 +43,6 @@ This example uses the  **LSet** statement to left align a string within a string
 Dim MyString 
 MyString = "0123456789" ' Initialize string. 
 Lset MyString = "<-Left" ' MyString contains "<-Left ". 
-
 ```
 
 

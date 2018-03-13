@@ -33,17 +33,18 @@ In Visual Basic, the  **DatasheetFontWeight** property setting uses the followin
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|100|Thin|
-|200|Extra Light|
-|300|Light|
-|400|(Default) Normal|
-|500|Medium|
-|600|Semi-bold|
-|700|Bold|
-|800|Extra Bold|
-|900|Heavy|
+| <strong>Setting</strong> | <strong>Description</strong> |
+|:-------------------------|:-----------------------------|
+| 100                      | Thin                         |
+| 200                      | Extra Light                  |
+| 300                      | Light                        |
+| 400                      | (Default) Normal             |
+| 500                      | Medium                       |
+| 600                      | Semi-bold                    |
+| 700                      | Bold                         |
+| 800                      | Extra Bold                   |
+| 900                      | Heavy                        |
+
 The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 
@@ -65,19 +66,19 @@ The following example sets the font to MS Serif, the font size to 10 points, and
 
 ```vb
 Sub SetDatasheetFont 
- 
+
    Dim dbs As Object, objProducts As Object 
    Set dbs = CurrentDb 
    Const DB_Text As Long = 10 
    Const DB_Integer As Long = 3 
    Set objProducts = dbs!Products 
-    
+
    SetTableProperty objProducts, "DatasheetFontName", DB_Text, "MS Serif" 
    SetTableProperty objProducts, "DatasheetFontHeight", DB_Integer, 10 
    SetTableProperty objProducts, "DatasheetFontWeight", DB_Integer, 500 
- 
+
 End Sub 
- 
+
 Sub SetTableProperty(objTableObj As Object, strPropertyName As String, _ 
         intPropertyType As Integer, varPropertyValue As Variant) 
     ' Set Microsoft Access-defined table property without causing 

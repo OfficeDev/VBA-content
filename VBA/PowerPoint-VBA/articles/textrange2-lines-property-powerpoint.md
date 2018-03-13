@@ -54,7 +54,6 @@ This example formats as italic the first two lines of the second paragraph in sh
 Application.ActivePresentation.Slides(1).Shapes(2) _ 
  .TextFrame.TextRange2.Paragraphs(2) _ 
  .Lines(1, 2).Font.Italic = True 
-
 ```
 
 

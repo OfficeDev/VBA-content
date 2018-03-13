@@ -29,11 +29,12 @@ The  **Cycle** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|All Records|0|(Default) Pressing the TAB key from the last control on a report moves the focus to the first control in the tab order in the next record.|
-|Current Record|1|Pressing the TAB key from the last control on a record moves the focus to the first control in the tab order in the same record.|
-|Current Page|2|Pressing the TAB key from the last control on a page moves the focus back to the first control in the tab order on the page.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                               |
+|:-------------------------|:------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| All Records              | 0                             | (Default) Pressing the TAB key from the last control on a report moves the focus to the first control in the tab order in the next record. |
+| Current Record           | 1                             | Pressing the TAB key from the last control on a record moves the focus to the first control in the tab order in the same record.           |
+| Current Page             | 2                             | Pressing the TAB key from the last control on a page moves the focus back to the first control in the tab order on the page.               |
+
 You can set the  **Cycle** property by using the report's property sheet, a macro, or Visual Basic.
 
 You can set the  **Cycle** property in any view.

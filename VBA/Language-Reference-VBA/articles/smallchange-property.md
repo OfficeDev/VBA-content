@@ -21,10 +21,11 @@ Specifies the amount of movement that occurs when the user clicks either scroll 
 The  **SmallChange** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. An integer that specifies the amount of change to the  **Value** property.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                      |
+|:----------------------|:--------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                         |
+| <em>Long</em>         | Optional. An integer that specifies the amount of change to the  <strong>Value</strong> property. |
+
  **Remarks**
 The  **SmallChange** property does not have units.
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.

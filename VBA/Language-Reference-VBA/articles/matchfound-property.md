@@ -21,17 +21,19 @@ Indicates whether the text that a user has typed into a combo box matches any of
 The  **MatchFound** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Return Values**
 The  **MatchFound** property return values are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The contents of the  **Value** property matches one of the records in the list.|
-|**False**|The contents of  **Value** does not match any of the records in the list (default).|
+| <strong>Value</strong> | <strong>Description</strong>                                                                     |
+|:-----------------------|:-------------------------------------------------------------------------------------------------|
+| <strong>True</strong>  | The contents of the  <strong>Value</strong> property matches one of the records in the list.     |
+| <strong>False</strong> | The contents of  <strong>Value</strong> does not match any of the records in the list (default). |
+
  **Remarks**
 The  **MatchFound** property is read-only. It is not applicable when the **MatchEntry** property is set to **fmMatchEntryNone**.
 

@@ -26,7 +26,6 @@ With myChart.ChartArea.Fill
  .Visible = True 
  .PresetGradient msoGradientDiagonalDown, 3, msoGradientBrass 
 End With 
-
 ```
 
 

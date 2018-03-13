@@ -35,11 +35,11 @@ Sub ShowManagerDistLists()
  Dim oAE As Outlook.AddressEntry 
  Dim oExUser As Outlook.ExchangeUser 
  Dim oDistListEntries As Outlook.AddressEntries 
- 
+
  'Obtain the AddressEntry for CurrentUser 
  Set oExUser = _ 
  Application.Session.CurrentUser.AddressEntry.GetExchangeUser 
- 
+
  'Obtain distribution lists that the user's manager has joined 
  Set oDistListEntries = oExUser.GetExchangeUserManager.GetMemberOfList 
  For Each oAE In oDistListEntries 
@@ -49,7 +49,6 @@ Sub ShowManagerDistLists()
  End If 
  Next 
 End Sub 
-
 ```
 
 

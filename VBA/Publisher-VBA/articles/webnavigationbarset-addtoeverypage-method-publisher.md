@@ -51,7 +51,6 @@ The following example adds a Web navigation bar set named "WebNavBarSet1" to the
 ```vb
 ActiveDocument.WebNavigationBarSets("WebNavBarSet1") _ 
  .AddToEveryPage Left:=10, Top:=20 
-
 ```
 
 The following example adds a new Web navigation bar set to the active document and adds it to every page of the publication.
@@ -61,12 +60,12 @@ The following example adds a new Web navigation bar set to the active document a
 
 ```vb
 Dim objWebNavBarSet As WebNavigationBarSet 
- 
+
 Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets.AddSet( _ 
  Name:="WebNavBarSet1", _ 
  Design:=pbnbDesignTopLine, _ 
  AutoUpdate:=True) 
- 
+
 objWebNavBarSet.AddToEveryPage Left:=50, Top:=10, Width:=500
 ```
 

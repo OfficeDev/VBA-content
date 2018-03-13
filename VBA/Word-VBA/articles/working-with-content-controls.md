@@ -14,13 +14,13 @@ Content controls are bounded and potentially labeled regions in a document that 
 
 
 - Specify structured regions in a template. Each structured region has its own unique ID so that you can read from and write to it. Examples of types of structured regions (or content controls) are combo boxes, pictures, text blocks, and calendars.
-    
+
 - Determine the behavior of content controls. Each content control takes up a portion of a document and, as the template author, you can specify what each region does. For example, if you want a region of your template to be a calendar, you insert a calendar content control in that area of the document, which automatically determines what that block of content does. Similarly, if you want a section of a template to display an image, create a picture content control in that area. In this way, you can build a template with predefined block types.
-    
+
 - Restrict the ability to modify content controls within a document. Each content control can be restricted, so that it cannot be deleted or edited. This is useful if, for example, you have copyright information in a template that the user should be able to read but not edit. Or, as another example, you can also lock a content control that you have placed within a template document so that a user does not accidentally delete the content contained in the content control. This makes templates more robust than in previous versions.
-    
+
 - Map the contents of a content control to data in a custom XML part. For example, if you insert plain text content controls into cells of a table of stock prices, you can map the content controls in the table cells to nodes in an XML file that contain the current stock prices. When the prices change, an add-in can programmatically update the attached XML file, which is bound to each plain text content control, and the new, updated prices automatically appear in the table.
-    
+
 The easiest way to create a content control is through the user interface (although you can also create them programmatically). To create a content control through the user interface (UI), select the content that you want to turn into a content control (for example, some text or a picture) and then choose the content control type you want from the content controls section of the Developer ribbon. This creates a content control around the selected content.
 
 
@@ -30,12 +30,13 @@ The following table shows the objects in the Word object model that relate to co
 
 
 
-|**Name**|**Description**|
-|:-----|:-----|
-| **[ContentControl](contentcontrol-object-word.md)**|Each  **ContentControl** object represents an individual content control within a document. Use the **ContentControls** collection to access individual **ContentControl** objects.|
-| **[ContentControls](contentcontrols-object-word.md)**|You can use the  **ContentControls** properties of the **[Document](document-object-word.md)**,  **[Range](range-object-word.md)**, and  **[Selection](selection-object-word.md)** objects to access the collection of content controls. You can also use the **[SelectContentControlsByTitle](document-selectcontentcontrolsbytitle-method-word.md)** method and the **[SelectContentControlsByTag](document-selectcontentcontrolsbytag-method-word.md)** method of the **Document** object to access a **ContentControls** collection that includes specific content controls that all have the same title or tag value.|
-| **[ContentControlListEntry](contentcontrollistentry-object-word.md)**|When a content control is a drop-down list or combo box, the  **ContentControlListEntry** object represents individual items within the list.|
-| **[ContentControlListEntries](contentcontrollistentries-object-word.md)**|Use the  **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property of the **ContentControl** object to access all the items in an individual drop-down list or combo box.|
+| <strong>Name</strong>                                                                                                                                                                     | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><a href="contentcontrol-object-word.md" data-raw-source="[ContentControl](contentcontrol-object-word.md)">ContentControl</a></strong>                                             | Each  <strong>ContentControl</strong> object represents an individual content control within a document. Use the <strong>ContentControls</strong> collection to access individual <strong>ContentControl</strong> objects.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| <strong><a href="contentcontrols-object-word.md" data-raw-source="[ContentControls](contentcontrols-object-word.md)">ContentControls</a></strong>                                         | You can use the  <strong>ContentControls</strong> properties of the <strong><a href="document-object-word.md" data-raw-source="[Document](document-object-word.md)">Document</a></strong>,  <strong><a href="range-object-word.md" data-raw-source="[Range](range-object-word.md)">Range</a></strong>, and  <strong><a href="selection-object-word.md" data-raw-source="[Selection](selection-object-word.md)">Selection</a></strong> objects to access the collection of content controls. You can also use the <strong><a href="document-selectcontentcontrolsbytitle-method-word.md" data-raw-source="[SelectContentControlsByTitle](document-selectcontentcontrolsbytitle-method-word.md)">SelectContentControlsByTitle</a></strong> method and the <strong><a href="document-selectcontentcontrolsbytag-method-word.md" data-raw-source="[SelectContentControlsByTag](document-selectcontentcontrolsbytag-method-word.md)">SelectContentControlsByTag</a></strong> method of the <strong>Document</strong> object to access a <strong>ContentControls</strong> collection that includes specific content controls that all have the same title or tag value. |
+| <strong><a href="contentcontrollistentry-object-word.md" data-raw-source="[ContentControlListEntry](contentcontrollistentry-object-word.md)">ContentControlListEntry</a></strong>         | When a content control is a drop-down list or combo box, the  <strong>ContentControlListEntry</strong> object represents individual items within the list.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| <strong><a href="contentcontrollistentries-object-word.md" data-raw-source="[ContentControlListEntries](contentcontrollistentries-object-word.md)">ContentControlListEntries</a></strong> | Use the  <strong><a href="contentcontrol-dropdownlistentries-property-word.md" data-raw-source="[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)">DropdownListEntries</a></strong> property of the <strong>ContentControl</strong> object to access all the items in an individual drop-down list or combo box.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
 Each of these objects or collections has methods and properties that allow you to work with the content controls both individually and as a collection. Because there are various types of content controls (see the following section "Types of Content Controls"), the  **ContentControl** object has members that might not apply to all the different types of content controls. The following table shows those properties and methods of the **ContentControl** object that only apply to certain types of content controls.
 
 
@@ -101,15 +102,15 @@ As mentioned previously, there are eight different types of content controls tha
 
 ```vb
 Sub AddDatePicker() 
- 
+
     Dim objCC As ContentControl 
     Dim objDate As Date 
- 
+
     Set objCC = ActiveDocument.ContentControls _ 
         .Add(wdContentControlDate) 
     objDate = Date 
     objCC.Range.Text = objDate 
-     
+
 End Sub
 ```
 
@@ -123,14 +124,14 @@ Use the  **Title** property to add a title to a content control. This is text th
 
 ```vb
 Sub SetTitleForContentControl() 
- 
+
     Dim objCC As ContentControl 
-     
+
     Set objCC = ActiveDocument.ContentControls _ 
         .Add(wdContentControlText) 
-         
+
     objCC.Title = "Please enter your name" 
-     
+
 End Sub
 ```
 
@@ -142,15 +143,15 @@ Placeholder text is temporary text. It can be a simple one-word or two-word desc
 
 ```vb
 Sub SetPlaceholderText() 
- 
+
     Dim objCC As ContentControl 
-     
+
     Set objCC = Selection.ContentControls _ 
         .Add(wdContentControlComboBox) 
     objCC.Title = "Favorite Animal" 
     objCC.SetPlaceholderText _ 
         Text:="Please select your favorite animal " 
-     
+
     'List entries 
     objCC.DropdownListEntries.Add "Cat" 
     objCC.DropdownListEntries.Add "Dog" 
@@ -158,7 +159,7 @@ Sub SetPlaceholderText()
     objCC.DropdownListEntries.Add "Monkey" 
     objCC.DropdownListEntries.Add "Snake" 
     objCC.DropdownListEntries.Add "Other" 
- 
+
 End Sub
 ```
 

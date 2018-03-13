@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Duplicate output alias <name>. (Error 3062)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,7 +22,6 @@ You tried to execute an SQL statement that has more than one alias with the same
 
 ```sql
 SELECT LastName AS Name, FirstName AS Name FROM Employees;
-
 ```
 
 Rename one or more of the aliases, and then try the operation again.

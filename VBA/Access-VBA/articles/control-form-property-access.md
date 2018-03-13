@@ -68,9 +68,8 @@ The following example uses the  **Form** property to refer to a control on a sub
 
 ```vb
 Dim curTotalAmount As Currency 
- 
-curTotalAmount = Forms!Orders!OrderDetails.Form!TotalAmount 
 
+curTotalAmount = Forms!Orders!OrderDetails.Form!TotalAmount 
 ```
 
 

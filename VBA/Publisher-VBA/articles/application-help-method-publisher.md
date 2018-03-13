@@ -37,11 +37,12 @@ The HelpType parameter can be one of the following  **PbHelpType** constants dec
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **pbHelp**|Displays the  **Help Topics** dialog box.|
-| **pbHelpActiveWindow**|Displays Help describing the command associated with the active view or pane.|
-| **pbHelpPSSHelp**| Displays product support information.|
+| <strong>Constant</strong>           | <strong>Description</strong>                                                  |
+|:------------------------------------|:------------------------------------------------------------------------------|
+| <strong>pbHelp</strong>             | Displays the  <strong>Help Topics</strong> dialog box.                        |
+| <strong>pbHelpActiveWindow</strong> | Displays Help describing the command associated with the active view or pane. |
+| <strong>pbHelpPSSHelp</strong>      | Displays product support information.                                         |
+
 Some of the constants listed above may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 
 

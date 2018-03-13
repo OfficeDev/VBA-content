@@ -24,6 +24,7 @@ The timeline view is used to create a high level visualization of the project pl
 
 
 
+
 |**Name**|
 |:-----|
 |[Application](http://msdn.microsoft.com/library/4e9beeb2-5fd9-3631-b60e-1f41666f50b4%28Office.15%29.aspx)|
@@ -34,6 +35,7 @@ The timeline view is used to create a high level visualization of the project pl
 
 ## See also
 <a name="properties"> </a>
+
 
 
 #### Other resources

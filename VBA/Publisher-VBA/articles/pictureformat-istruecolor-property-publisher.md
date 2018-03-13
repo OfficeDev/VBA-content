@@ -51,7 +51,7 @@ The following example tests each picture in the active document and prints wheth
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Or shpLoop.Type = pbPicture Then 
- 
+
  With shpLoop.PictureFormat 
  If .IsEmpty = msoFalse Then 
  Debug.Print .Filename 
@@ -62,11 +62,10 @@ For Each pgLoop In ActiveDocument.Pages
  End If 
  End If 
  End With 
- 
+
  End If 
  Next shpLoop 
 Next pgLoop 
-
 ```
 
 

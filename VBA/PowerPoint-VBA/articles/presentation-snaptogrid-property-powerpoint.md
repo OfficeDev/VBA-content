@@ -35,8 +35,9 @@ The value of the  **SnapToGrid** property can be one of these **MsoTriState** co
 
 ||
 |:-----|
-|**msoFalse**|
-|**msoTrue**|
+|<strong>msoFalse</strong>|
+|
+<strong>msoTrue</strong>|
 
 ## Example
 

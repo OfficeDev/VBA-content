@@ -35,9 +35,11 @@ The value of the  **Type** property can be one of these **MsoHyperlinkType** con
 
 ||
 |:-----|
-|**msoHyperlinkInlineShape** For use in Microsoft Word only.|
-|**msoHyperlinkRange**|
-|**msoHyperlinkShape**|
+|<strong>msoHyperlinkInlineShape</strong> For use in Microsoft Word only.|
+|
+<strong>msoHyperlinkRange</strong>|
+|
+<strong>msoHyperlinkShape</strong>|
 
 ## See also
 

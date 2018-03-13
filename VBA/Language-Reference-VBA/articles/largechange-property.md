@@ -21,10 +21,11 @@ Specifies the amount of movement that occurs when the user clicks between the sc
 The  **LargeChange** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. An integer that specifies the amount of change to the  **Value** property.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                      |
+|:----------------------|:--------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                         |
+| <em>Long</em>         | Optional. An integer that specifies the amount of change to the  <strong>Value</strong> property. |
+
  **Remarks**
 The  **LargeChange** property applies only to the **ScrollBar**. It does not apply to the scrollbars in other controls such as a **TextBox** or a drop-down **ComboBox**.
 The value of  **LargeChange** is the amount by which the **ScrollBar's Value** property changes when the user clicks the area between the scroll box and scroll arrow. The direction of the movement is always toward the place where the user clicks. For example, in a horizontal **ScrollBar**, clicking to the left of the scroll box moves the scroll box to the left. In a vertical **ScrollBar**, clicking above the scroll box moves the scroll box up.

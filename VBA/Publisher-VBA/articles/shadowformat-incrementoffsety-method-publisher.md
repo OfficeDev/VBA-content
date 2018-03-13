@@ -46,7 +46,6 @@ This example moves the shadow for the third shape in the active publication up b
 ```vb
 ActiveDocument.Pages(1).Shapes(3).Shadow _ 
  .IncrementOffsetY Increment:=-3 
-
 ```
 
 

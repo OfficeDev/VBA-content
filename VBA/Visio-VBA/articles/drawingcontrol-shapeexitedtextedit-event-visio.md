@@ -15,7 +15,7 @@ Occurs after a shape is no longer open for interactive text editing.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeExitedTextEdit**( **_ByVal shape As [IVSHAPE]_** )
+Private Sub  <em>expression</em> <em><strong>ShapeExitedTextEdit</strong>( **_ByVal shape As [IVSHAPE]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

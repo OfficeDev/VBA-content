@@ -33,7 +33,6 @@ The following example opens the previous saved version of the active document in
  Set dlvVersions = ActiveDocument.DocumentLibraryVersions 
  dlvVersions(dlvVersions.Count - 1).Open 
  Set dlvVersions = Nothing 
-
 ```
 
 

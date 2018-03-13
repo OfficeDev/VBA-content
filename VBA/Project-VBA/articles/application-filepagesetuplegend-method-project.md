@@ -41,6 +41,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### Format codes
 
 |**Format code**|**Description**|
@@ -74,6 +75,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### PjColor constants
 
 |||
@@ -89,6 +91,7 @@ _expression_ A variable that represents an **Application** object.
 |**pjMaroon**||
 
 <br/>
+
 
 ### Return value
 
@@ -108,18 +111,18 @@ The following example sets up a legend for printing.
 
 ```vb
 Sub SetLegend() 
- 
+
  Dim strLegend As String 
- 
+
  strLegend = GetFontFormatCode("Arial") 
  strLegend = strLegend &; "&;BThis text will appear in the legend.&;B" 
- 
+
  Application.FilePageSetupLegend Text:=strLegend, _ 
  Alignment:=pjCenter, LegendOn:=pjOnEveryPage 
 End Sub 
- 
+
 Public Function GetFontFormatCode(strFontName As String) As String 
- 
+
  GetFontFormatCode = "&;" &; Chr(34) &; strFontName &; Chr(34) 
 End Function
 ```

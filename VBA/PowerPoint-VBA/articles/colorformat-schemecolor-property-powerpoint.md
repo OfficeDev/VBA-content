@@ -35,16 +35,25 @@ The value of the  **SchemeColor** property can be one of these **PpColorSchemeIn
 
 ||
 |:-----|
-|**ppAccent1**|
-|**ppAccent2**|
-|**ppAccent3**|
-|**ppBackground**|
-|**ppFill**|
-|**ppForeground**|
-|**ppNotSchemeColor**|
-|**ppSchemeColorMixed**|
-|**ppShadow**|
-|**ppTitle**|
+|<strong>ppAccent1</strong>|
+|
+<strong>ppAccent2</strong>|
+|
+<strong>ppAccent3</strong>|
+|
+<strong>ppBackground</strong>|
+|
+<strong>ppFill</strong>|
+|
+<strong>ppForeground</strong>|
+|
+<strong>ppNotSchemeColor</strong>|
+|
+<strong>ppSchemeColorMixed</strong>|
+|
+<strong>ppShadow</strong>|
+|
+<strong>ppTitle</strong>|
 
 ## Example
 

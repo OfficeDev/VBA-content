@@ -55,6 +55,7 @@ Conjunction can be one of these  **MsoFilterConjunction** constants.
 
 
 
-| **msoFilterConjunctionAnd**|
-| **msoFilterConjunctionOr**|
+| <strong>msoFilterConjunctionAnd</strong>|
+| 
+<strong>msoFilterConjunctionOr</strong>|
 

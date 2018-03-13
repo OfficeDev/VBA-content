@@ -37,9 +37,11 @@ The value of the  **TextDirection** property can be one of these **PpDirection**
 
 ||
 |:-----|
-|**ppDirectionLeftToRight**|
-|**ppDirectionMixed**|
-|**ppDirectionRightToLeft**|
+|<strong>ppDirectionLeftToRight</strong>|
+|
+<strong>ppDirectionMixed</strong>|
+|
+<strong>ppDirectionRightToLeft</strong>|
 
 ## Example
 

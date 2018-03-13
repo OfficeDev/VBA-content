@@ -29,9 +29,13 @@ The  **Type** property value can be one of these **MsoCalloutType** constants.
 
 
 
-| **msoCalloutFour**|
-| **msoCalloutMixed**|
-| **msoCalloutOne**|
-| **msoCalloutThree**|
-| **msoCalloutTwo**|
+| <strong>msoCalloutFour</strong>|
+| 
+<strong>msoCalloutMixed</strong>|
+| 
+<strong>msoCalloutOne</strong>|
+| 
+<strong>msoCalloutThree</strong>|
+| 
+<strong>msoCalloutTwo</strong>|
 

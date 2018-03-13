@@ -36,9 +36,9 @@ Use either of the following properties to determine whether a shape represents a
 
 
 -  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
-    
+
 - The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
-    
+
 
 
 The  **LinkedFileStatus** property value can be one of the **[PbLinkedFileStatus](pblinkedfilestatus-enumeration-publisher.md)** constants declared in the Microsoft Publisher type library.
@@ -52,21 +52,20 @@ The following example generates a list of the linked pictures in the active publ
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
  If .LinkedFileStatus = pbLinkedFileMissing Then 
  Debug.Print .Filename 
  End If 
  End With 
- 
+
  End If 
  Next shpLoop 
 Next pgLoop 
-
 ```
 
 

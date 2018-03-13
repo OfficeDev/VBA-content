@@ -50,7 +50,6 @@ With ActiveDocument.Pages(1).Shapes
  Left:=300, Top:=0, Width:=200, Height:=100).Fill _ 
  .UserTextured TextureFile:="PathToFile" 
 End With 
-
 ```
 
 

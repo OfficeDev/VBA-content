@@ -59,7 +59,6 @@ IntVar = 459: StrVar = "Hello World": DateVar = #2/12/69#
 MyCheck = VarType(IntVar)    ' Returns 2.
 MyCheck = VarType(DateVar)    ' Returns 7.
 MyCheck = VarType(StrVar)    ' Returns 8.
-
 ```
 
 

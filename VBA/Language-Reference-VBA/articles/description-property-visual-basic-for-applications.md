@@ -26,7 +26,6 @@ This example assigns a user-defined message to the  **Description** property of 
 ```
 Err. Description = "It was not possible to access an object necessary " _
 &; "for this operation."
-
 ```
 
 

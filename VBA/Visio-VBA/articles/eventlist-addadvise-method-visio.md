@@ -77,7 +77,7 @@ The  **IVisEventProc** interface contains a single function with the following d
 
 ```vb
 Implements IVisEventProc 
- 
+
 Private Function IVisEventProc_VisEventProc( _  
     ByVal nEventCode As Integer, _  
     ByVal pSourceObj As Object, _  
@@ -92,11 +92,12 @@ Following are descriptions of the arguments to  **VisEventProc** .
 
 
 
-|** Argument**|** Description**|
-|:-----|:-----|
-| nEventCode| The event(s) that occurred. You can provide a distinct object for each event or provide a single object that receives all notifications and switches internally based on nEventCode.|
-| pSourceObj| The object whose ** EventList** collection contains the **Event** object that triggered the notification.|
-| nEventID|The unique identifier of the  **Event** object within the **EventList** collection. (Unlike the **Index** property of the **EventList** collection, nEventID does not change as **Event** objects are added to or deleted from the collection.) You can get the **Event** object from **VisEventProc** by using the following code:
+| ** Argument** | ** Description**                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| nEventCode    | The event(s) that occurred. You can provide a distinct object for each event or provide a single object that receives all notifications and switches internally based on nEventCode.                                                                                                                                                                                                                                           |
+| pSourceObj    | The object whose ** EventList** collection contains the <strong>Event</strong> object that triggered the notification.                                                                                                                                                                                                                                                                                                         |
+| nEventID      | The unique identifier of the  <strong>Event</strong> object within the <strong>EventList</strong> collection. (Unlike the <strong>Index</strong> property of the <strong>EventList</strong> collection, nEventID does not change as <strong>Event</strong> objects are added to or deleted from the collection.) You can get the <strong>Event</strong> object from <strong>VisEventProc</strong> by using the following code: |
+
 ```
 pSourceObj .EventList.ItemFromID(nEventID )
 ```
@@ -111,12 +112,12 @@ The connection between the source object and the  **Event** object exists until 
 
 
 - The program deletes the  **Event** object.
-    
+
 - The program releases the last reference to the source object. (The  **EventList** collection and **Event** objects hold a reference on their source object.)
-    
+
 - The application terminates.
-    
- Beginning with Visio 2000, **VisEventProc** is defined as a function that returns a value. However, Visio only looks at return values from calls to **VisEventProc** that are passed a query event code. **Event** objects that provide **VisEventProc** through **IDispatch** require no change. To modify existing event handlers so that they can handle query events, change the **Sub** procedure to a **Function** procedure and return the appropriate value. (For details about query events, see this reference for event topics prefixed with **Query** .)
+
+  Beginning with Visio 2000, **VisEventProc** is defined as a function that returns a value. However, Visio only looks at return values from calls to **VisEventProc** that are passed a query event code. **Event** objects that provide **VisEventProc** through **IDispatch** require no change. To modify existing event handlers so that they can handle query events, change the **Sub** procedure to a **Function** procedure and return the appropriate value. (For details about query events, see this reference for event topics prefixed with **Query** .)
 
 
 ## Example
@@ -130,11 +131,11 @@ Copy this sample code into a new class module in Microsoft Visual Basic for Appl
 
 ```vb
 Implements Visio.IVisEventProc  
- 
+
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
 Private Const visEvtAdd% = &;H8000 
- 
+
 Private Function IVisEventProc_VisEventProc( _  
     ByVal nEventCode As Integer, _  
     ByVal pSourceObj As Object, _  
@@ -142,9 +143,9 @@ Private Function IVisEventProc_VisEventProc( _
     ByVal nEventSeqNum As Long, _  
     ByVal pSubjectObj As Object, _  
     ByVal vMoreInfo As Variant) As Variant  
- 
+
     Dim strMessage As String 
-     
+
     'Find out which event fired 
     Select Case nEventCode  
         Case visEvtCodeDocSave  
@@ -156,10 +157,10 @@ Private Function IVisEventProc_VisEventProc( _
         Case Else  
             strMessage = "Other (" &; nEventCode &; ")"  
     End Select 
-     
+
     'Display the event name and the event code 
     Debug.Print strMessage  
- 
+
 End Function
 ```
 
@@ -182,56 +183,56 @@ The example assumes that there is an active document in the Visio application wi
 
 ```vb
 Option Explicit 
- 
+
 Private mEventSink As clsEventSink 
- 
+
 Dim vsoDocumentEvents As Visio.EventList       
 Dim vsoDocumentSavedEvent As Visio.Event  
 Dim vsoPageAddedEvent As Visio.Event  
 Dim vsoShapesDeletedEvent As Visio.Event 
-    
+
 'Declare visEvtAdd as a 2-byte value 
 'to avoid a run-time overflow error 
 Private Const visEvtAdd% = &;H8000  
- 
+
 Public Sub CreateEventObjects()      
- 
+
     'Create an instance of the clsEventSink class 
     'to pass to the AddAdvise method. 
     Set mEventSink = New clsEventSink 
-  
+
     'Get the EventList collection of the active document. 
     Set vsoDocumentEvents = ActiveDocument.EventList  
- 
+
     'Add Event objects that will send notifications. 
     'Add an Event object for the DocumentSaved event. 
     Set vsoDocumentSavedEvent= vsoDocumentEvents.AddAdvise( _  
      visEvtCodeDocSave, mEventSink, "", "Document saved...")  
- 
+
     'Add an Event object for the PageAdded event. 
     Set vsoPageAddedEvent= vsoDocumentEvents.AddAdvise( _  
      visEvtAdd + visEvtPage, mEventSink, "", "Page added...")  
- 
+
     'Add an Event object for the ShapesDeleted event. 
     Set vsoShapesDeletedEvent = vsoDocumentEvents.AddAdvise( _  
      visEvtCodeShapeDelete, mEventSink, "", "Shapes deleted...")  
- 
+
 End Sub   
- 
+
 Public Sub DeleteEventObjects()  
- 
+
     'Delete the Event object for the DocumentSaved event.    
     vsoDocumentSavedEvent.Delete  
     Set vsoDocumentSavedEvent = Nothing 
- 
+
     'Delete the Event object for the PageAdded event. 
     vsoPageAddedEvent.Delete  
     Set vsoPageAddedEvent = Nothing 
- 
+
     'Delete the Event object for the ShapesDeleted event.  
     vsoShapesDeletedEvent.Delete  
     Set vsoShapesDeletedEvent = Nothing 
- 
+
 End Sub
 ```
 

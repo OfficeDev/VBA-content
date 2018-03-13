@@ -47,20 +47,20 @@ The following example uses the  **Column** property and the **ColumnCount** prop
 
 ```vb
 Public Sub Read_ListBox() 
- 
+
     Dim intNumColumns As Integer 
     Dim intI As Integer 
     Dim frmCust As Form 
- 
+
     Set frmCust = Forms!frmCustomers 
     If frmCust!lstCustomerNames.ItemsSelected.Count > 0 Then 
- 
+
         ' Any selection? 
         intNumColumns = frmCust!lstCustomerNames.ColumnCount 
         Debug.Print "The list box contains "; intNumColumns; _ 
             IIf(intNumColumns = 1, " column", " columns"); _ 
              " of data." 
- 
+
         Debug.Print "The current selection contains:" 
         For intI = 0 To intNumColumns - 1 
             ' Print column data. 
@@ -70,9 +70,9 @@ Public Sub Read_ListBox()
         Debug.Print "You haven't selected an entry in the " _ 
             &; "list box." 
     End If 
- 
+
     Set frmCust = Nothing 
- 
+
 End Sub
 ```
 
@@ -103,11 +103,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

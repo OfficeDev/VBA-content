@@ -22,17 +22,18 @@ Defines a basic Solver model. Equivalent to clicking  **Solver** in the **Data**
  **MaxMinVal** Optional **Variant**. Corresponds to the  **Max**,  **Min**, and  **Value** options in the **Solver Parameters** dialog box.
 
 
-|**MaxMinVal**|**Specifies**|
-|:-----|:-----|
-|1|Maximize|
-|2|Minimize|
-|3|Match a specific value|
+| <strong>MaxMinVal</strong> | <strong>Specifies</strong> |
+|:---------------------------|:---------------------------|
+| 1                          | Maximize                   |
+| 2                          | Minimize                   |
+| 3                          | Match a specific value     |
+
  **ValueOf** Optional **Variant**. If  **_MaxMinVal_** is 3, you must specify the value to which the target cell is matched.
- 
+
  **ByChange** Optional **Variant**. The cell or range of cells that will be changed so that you will obtain the desired result in the target cell. Corresponds to the  **By Changing Cells** box in the **Solver Parameters** dialog box.
- 
+
  **Engine** Optional **Variant**. The Solving method that should be used to solve the problem: 2 for the Simplex LP method, 1 for the GRG Nonlinear method, or 3 for the Evolutionary method. Corresponds to the  **Select a Solving Method** dropdown list in the **Solver Parameters** dialog box.
- 
+
  **EngineDesc** Optional **Variant**. An alternate way to specify the Solving method that should be used to solve the problem as a string: "Simplex LP", "GRG Nonlinear", or "Evolutionary". Corresponds to the  **Select a Solving Method** dropdown list in the **Solver Parameters** dialog box.
 
 ## Example

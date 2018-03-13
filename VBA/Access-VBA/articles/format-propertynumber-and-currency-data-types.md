@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Format Property - Number and Currency Data Types
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,6 +22,7 @@ You can set the  **Format** property to predefined number formats or custom numb
 
 ## Setting
 <a name="sectionSection0"> </a>
+
 
  **Predefined Formats**
 
@@ -45,12 +46,13 @@ Custom number formats can have one to four sections with semicolons (;) as the l
 
 
 
-|**Section**|**Description**|
-|:-----|:-----|
-|First|The format for positive numbers.|
-|Second|The format for negative numbers.|
-|Third|The format for zero values.|
-|Fourth|The format for  **Null** values.|
+| <strong>Section</strong> | <strong>Description</strong>                  |
+|:-------------------------|:----------------------------------------------|
+| First                    | The format for positive numbers.              |
+| Second                   | The format for negative numbers.              |
+| Third                    | The format for zero values.                   |
+| Fourth                   | The format for  <strong>Null</strong> values. |
+
 For example, you could use the following custom Currency format:
 
 
@@ -82,6 +84,7 @@ You can create custom number formats by using the following symbols.
 ## Remarks
 <a name="sectionSection1"> </a>
 
+
 You can use the  **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
 
 The predefined currency and euro formats follow the settings in the regional settings of Windows. You can override these by entering your own currency format.
@@ -89,6 +92,7 @@ The predefined currency and euro formats follow the settings in the regional set
 
 ## Examples
 <a name="sectionSection2"> </a>
+
 
 The following are examples of the predefined number formats.
 

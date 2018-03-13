@@ -31,6 +31,7 @@ _expression_ Required. A variable that represents an **[Application](application
 
 <br/>
 
+
 #### Themes
 
 |**String**|**Description**|
@@ -39,6 +40,7 @@ _expression_ Required. A variable that represents an **[Application](application
 |nnn|A three-digit string that indicates which theme formatting options to activate (1 to activate, 0 to deactivate). The digits correspond to the **Vivid Colors**, **Active Graphics**, and **Background Image** check boxes in the **Theme** dialog box (**Theme** command, **Format** menu). If this string is omitted, the default value for _nnn_ is "011" (Active Graphics and Background Image are activated).|
 
 <br/>
+
 
 ## Remarks
 

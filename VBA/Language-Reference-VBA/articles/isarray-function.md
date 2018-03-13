@@ -30,8 +30,6 @@ Dim MyArray(1 To 5) As Integer, YourArray, MyCheck    ' Declare array variables.
 YourArray = Array(1, 2, 3)    ' Use Array function.
 MyCheck = IsArray(MyArray)    ' Returns True.
 MyCheck = IsArray(YourArray)    ' Returns True.
-
-
 ```
 
 

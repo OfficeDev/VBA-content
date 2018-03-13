@@ -43,16 +43,17 @@ The following possible values for  _Distribute_ are declared in **VisDistributeT
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visDistHorzCenter**|2|Distributes shapes horizontally so that their bottom edges are uniformly spaced.|
-| **visDistHorzLeft**|1|Distributes shapes horizontally so that their left edges are uniformly spaced.|
-| **visDistHorzRight**|3|Distributes shapes horizontally so that their right edges are uniformly spaced.|
-| **visDistHorzSpace**|0|Distributes shapes horizontally so that there is a uniform space between shapes.|
-| **visDistVertBottom**|7|Distributes shapes vertically so that their bottom edges are uniformly spaced.|
-| **visDistVertMiddle**|6|Distributes shapes vertically so that their centers are uniformly spaced.|
-| **visDistVertSpace**|4|Distributes shapes vertically so that there is a uniform space between shapes.|
-| **visDistVertTop**|5|Distributes shapes vertically so that their top edges are uniformly spaced.|
+| <strong>Constant</strong>          | <strong>Value</strong> | <strong>Description</strong>                                                     |
+|:-----------------------------------|:-----------------------|:---------------------------------------------------------------------------------|
+| <strong>visDistHorzCenter</strong> | 2                      | Distributes shapes horizontally so that their bottom edges are uniformly spaced. |
+| <strong>visDistHorzLeft</strong>   | 1                      | Distributes shapes horizontally so that their left edges are uniformly spaced.   |
+| <strong>visDistHorzRight</strong>  | 3                      | Distributes shapes horizontally so that their right edges are uniformly spaced.  |
+| <strong>visDistHorzSpace</strong>  | 0                      | Distributes shapes horizontally so that there is a uniform space between shapes. |
+| <strong>visDistVertBottom</strong> | 7                      | Distributes shapes vertically so that their bottom edges are uniformly spaced.   |
+| <strong>visDistVertMiddle</strong> | 6                      | Distributes shapes vertically so that their centers are uniformly spaced.        |
+| <strong>visDistVertSpace</strong>  | 4                      | Distributes shapes vertically so that there is a uniform space between shapes.   |
+| <strong>visDistVertTop</strong>    | 5                      | Distributes shapes vertically so that their top edges are uniformly spaced.      |
+
 Calling the  **Distribute** method is equivalent to setting options in the **Distribute Shapes** dialog box (on the **Home** tab, click **Position**, point to  **Space Shapes**, and then click  **More Distribute Options**). 
 
 Passing  **True** for the optional _GlueToGuide_ argument is the equivalent of selecting the **Create guides and glue shapes to them** check box in the **Distribute Shapes** dialog box.
@@ -67,23 +68,23 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 ```vb
 Public Sub Distribute_Example() 
- 
+
  Dim vsoShape1 As Visio.Shape 
  Dim vsoShape2 As Visio.Shape 
  Dim vsoShape3 As Visio.Shape 
- 
+
  Set vsoShape1 = Application.ActiveWindow.Page.DrawRectangle(1, 9, 3, 7) 
  Set vsoShape2 = Application.ActiveWindow.Page.DrawRectangle(3, 6, 5, 5) 
  Set vsoShape3 = Application.ActiveWindow.Page.DrawRectangle(6, 4, 8, 2) 
- 
+
  ActiveWindow.DeselectAll 
- 
+
  ActiveWindow.Select vsoShape1, visSelect 
  ActiveWindow.Select vsoShape2, visSelect 
  ActiveWindow.Select vsoShape3, visSelect 
- 
+
  Application.ActiveWindow.Selection.Distribute visDistVertRight, True 
- 
+
 End Sub
 ```
 

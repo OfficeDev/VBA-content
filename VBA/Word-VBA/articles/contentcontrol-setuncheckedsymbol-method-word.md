@@ -39,10 +39,9 @@ The following code example sets the unchecked symbol of the specified content co
 
 ```vb
 Dim objCC As ContentControl 
- 
+
 Set objCC = ActiveDocument.ContentControls.Add (wdContentControlCheckbox) 
 objCC.SetUncheckedSymbol CharacterNumber:=&;H2610, Font:="MS Gothic" 
-
 ```
 
 

@@ -43,8 +43,6 @@ Dim MyAngle, MyLog
 MyAngle = 1.3
 ' Calculate inverse hyperbolic sine.
 MyLog = Log(MyAngle + Sqr(MyAngle * MyAngle + 1))
-
-
 ```
 
 

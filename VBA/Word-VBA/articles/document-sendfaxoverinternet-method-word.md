@@ -37,7 +37,7 @@ Sends a document to a fax service provider, who faxes the document to one or mor
 
 Using the  **SendFaxOverInternet** method requires that a fax service is enabled on a user's computer. If a fax service is not enabled, the **SendFaxOverInternet** method will cause a runtime error.
 
-The format used for specifying fax numbers in the Recipients parameter is either recipientsfaxnumber@usersfaxprovider or recipientsname@recipientsfaxnumber. You can access the user's fax provider information using the following registry path:
+The format used for specifying fax numbers in the Recipients parameter is either recipientsfaxnumber@"usersfaxprovider" or recipientsname@recipientsfaxnumber. You can access the user's fax provider information using the following registry path:
 
 
 

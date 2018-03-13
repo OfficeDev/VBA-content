@@ -34,7 +34,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.Axes(xlValue).ScaleType = xlScaleLogarithmic 
  End If 
 End With 
-
 ```
 
 

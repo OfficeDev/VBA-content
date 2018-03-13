@@ -25,7 +25,7 @@ Use the  **Application** property to return the **Application** object. The foll
 MsgBox Application.UserName
 ```
 
-Many of the properties and methods that return the most common user-interface objects—such as the active document ( **ActiveDocument** property)—can be used without the **Application** object qualifier. For example, instead of writing `Application.ActiveDocument.PrintOut`, you can write  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the **Object Browser**, click  **<globals>** at the top of the list in the **Classes** box. (Also see the **[Global](http://msdn.microsoft.com/library/b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c%28Office.15%29.aspx)** object.)
+Many of the properties and methods that return the most common user-interface objects—such as the active document ( <strong>ActiveDocument</strong> property)—can be used without the <strong>Application</strong> object qualifier. For example, instead of writing `Application.ActiveDocument.PrintOut`, you can write  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  <strong>Application</strong> object qualifier are considered "global." To view the global properties and methods in the <strong>Object Browser</strong>, click  <strong><globals></strong> at the top of the list in the <strong>Classes</strong> box. (Also see the <strong><a href="http://msdn.microsoft.com/library/b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c%28Office.15%29.aspx" data-raw-source="[Global](http://msdn.microsoft.com/library/b91e7459-08d5-ea8c-42e0-f7b9bfd1a72c%28Office.15%29.aspx)">Global</a></strong> object.)
 
 Remarks
 

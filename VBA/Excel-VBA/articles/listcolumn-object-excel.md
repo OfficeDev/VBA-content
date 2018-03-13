@@ -32,11 +32,10 @@ The following example adds a new  **ListColumn** object to the default **ListObj
 Sub AddListColumn() 
  Dim wrksht As Worksheet 
  Dim objListCol As ListColumn 
- 
+
  Set wrksht = ActiveWorkbook.Worksheets("Sheet1") 
  Set objListCol = wrksht.ListObjects(1).ListColumns.Add 
 End Sub 
-
 ```
 
 

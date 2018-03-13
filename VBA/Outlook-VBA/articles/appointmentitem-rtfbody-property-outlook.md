@@ -35,51 +35,49 @@ The following code samples in Microsoft Visual Basic for Applications (VBA) and 
 
 ```vb
 Sub GetRTFBodyForMeeting() 
- 
+
  Dim oAppt As Outlook.AppointmentItem 
- 
+
  Dim strRTF As String 
- 
+
  If Application.ActiveInspector.CurrentItem.Class = olAppointment Then 
- 
+
  Set oAppt = Application.ActiveInspector.CurrentItem 
- 
+
  strRTF = StrConv(oAppt.RTFBody, vbUnicode) 
- 
+
  Debug.Print strRTF 
- 
+
  End If 
- 
+
 End Sub
 ```
 
 
 ```
 private void GetRTFBodyForAppt() 
- 
-{ 
- 
- if (Application.ActiveInspector().CurrentItem is Outlook.AppointmentItem) 
- 
- { 
- 
- Outlook.AppointmentItem appt = 
- 
- Application.ActiveInspector().CurrentItem as Outlook.AppointmentItem; 
- 
- byte[] byteArray = appt.RTFBody as byte[]; 
- 
- System.Text.Encoding encoding = new System.Text.ASCIIEncoding(); 
- 
- string RTF = encoding.GetString(byteArray); 
- 
- Debug.WriteLine(RTF); 
- 
- } 
- 
-} 
- 
 
+{ 
+
+ if (Application.ActiveInspector().CurrentItem is Outlook.AppointmentItem) 
+
+ { 
+
+ Outlook.AppointmentItem appt = 
+
+ Application.ActiveInspector().CurrentItem as Outlook.AppointmentItem; 
+
+ byte[] byteArray = appt.RTFBody as byte[]; 
+
+ System.Text.Encoding encoding = new System.Text.ASCIIEncoding(); 
+
+ string RTF = encoding.GetString(byteArray); 
+
+ Debug.WriteLine(RTF); 
+
+ } 
+
+} 
 ```
 
 

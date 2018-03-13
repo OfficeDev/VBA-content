@@ -29,10 +29,11 @@ The  **CanShrink** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The section or control shrinks vertically so that the data it contains can be printed or previewed without leaving blank lines.|
-|No|**False**|(Default) The section or control doesn't shrink.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                    |
+|:-------------------------|:------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The section or control shrinks vertically so that the data it contains can be printed or previewed without leaving blank lines. |
+| No                       | <strong>False</strong>        | (Default) The section or control doesn't shrink.                                                                                |
+
 This property setting is read-only in a macro or Visual Basic in any view but Design view.
 
 You can use this property to control the appearance of printed forms and reports. When you set the property to Yes, the object automatically adjusts so any amount of data can be printed. When a control shrinks, the controls below it move up the page.
@@ -45,11 +46,11 @@ When you use the  **CanShrink** property, remember that:
 
 
 - The property settings don't affect the horizontal spacing between controls; they affect only the vertical space the controls occupy.
-    
+
 - Overlapping controls can't shrink.
-    
+
 - The height of a large control can prevent controls beside it from shrinking. For example, if several short controls are on the left side of a report's detail section and one tall control, such as an unbound object frame, is on the right side, the controls on the left won't shrink, even if they contain no data.
-    
+
 
  **Note**  
 

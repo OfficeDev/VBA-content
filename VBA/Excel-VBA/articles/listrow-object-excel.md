@@ -31,10 +31,9 @@ Use the  **[ListRows](listobject-listrows-property-excel.md)** property of the *
 ```
 Dim wrksht As Worksheet 
 Dim oListRow As ListRow 
- 
+
 Set wrksht = ActiveWorkbook.Worksheets("Sheet1") 
 Set oListRow = wrksht.ListObjects(1).ListRows.Add 
-
 ```
 
 

@@ -36,7 +36,6 @@ myDocument.Shapes.SelectAll
 
 ```vb
 Set sr = Selection.ShapeRange 
-
 ```
 
 

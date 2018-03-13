@@ -51,7 +51,6 @@ When you retrieve objects from a collection, you can omit  **Item** from the exp
 ```
 objectReturned = expression(Index) 
 objectReturned = expression(Name) 
-
 ```
 
  The **DataColumns** collection is indexed starting with 1.

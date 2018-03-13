@@ -41,7 +41,6 @@ With ActiveDocument.Pages(1).Shapes _
  .ForeColor.RGB = RGB(0, 255, 255) 
  .Weight = 2 
 End With 
-
 ```
 
 

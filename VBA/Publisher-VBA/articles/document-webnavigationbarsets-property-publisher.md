@@ -35,13 +35,12 @@ The following example sets an object variable to the collection of Web navigatio
 
 ```vb
 Dim objWebNavBarSets As WebNavigationBarSets 
- 
+
 Set objWebNavBarSets = ActiveDocument.WebNavigationBarSets 
 objWebNavBarSets.AddSet _ 
  Name:="WebNavBarSet1", _ 
  Design:=pbnbDesignBracket, _ 
  AutoUpdate:=True 
-
 ```
 
 

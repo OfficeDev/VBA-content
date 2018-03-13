@@ -35,9 +35,11 @@ The value of the  **AutoSize** property can be one of these **PpAutoSize** const
 
 ||
 |:-----|
-|**ppAutoSizeMixed**|
-|**ppAutoSizeNone**|
-|**ppAutoSizeShapeToFitText**|
+|<strong>ppAutoSizeMixed</strong>|
+|
+<strong>ppAutoSizeNone</strong>|
+|
+<strong>ppAutoSizeShapeToFitText</strong>|
 
 ## Example
 

@@ -11,16 +11,17 @@ ms.date: 06/08/2017
 
 # Values for the TTOption Member
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
 
-|**Value**|**Meaning**|
-|:-----|:-----|
-|1|Print TrueType fonts as graphics. This is the default for dot-matrix printers.|
-|2|Download TrueType fonts as soft fonts (fonts that are loaded into the printer's memory for rendering). This is the default for Hewlett-Packard printers that use Printer Control Language (PCL).|
-|3|Substitute device fonts for TrueType fonts. This is the default for PostScript printers.|
+| <strong>Value</strong> | <strong>Meaning</strong>                                                                                                                                                                         |
+|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1                      | Print TrueType fonts as graphics. This is the default for dot-matrix printers.                                                                                                                   |
+| 2                      | Download TrueType fonts as soft fonts (fonts that are loaded into the printer's memory for rendering). This is the default for Hewlett-Packard printers that use Printer Control Language (PCL). |
+| 3                      | Substitute device fonts for TrueType fonts. This is the default for PostScript printers.                                                                                                         |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

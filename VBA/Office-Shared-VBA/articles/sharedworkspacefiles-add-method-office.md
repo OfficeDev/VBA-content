@@ -51,7 +51,6 @@ The following example adds a new file to the files collection of the shared work
         vbInformation + vbOKOnly, _ 
         "New File in Shared Workspace Files" 
     Set swsfile = Nothing 
-
 ```
 
 

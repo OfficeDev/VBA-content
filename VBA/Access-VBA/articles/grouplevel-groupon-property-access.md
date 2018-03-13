@@ -29,20 +29,21 @@ The  **GroupOn** property settings available for a field depend on its data type
 
 
 
-|**Field data type**|**Setting**|**Groups records with**|**Visual Basic**|
-|:-----|:-----|:-----|:-----|
-|Text|(Default) Each Value|The same value in the field or expression.|0|
-||Prefix Characters|The same first  _n_ number of characters in the field or expression.|1|
-|Date/Time|(Default) Each Value|The same value in the field or expression.|0|
-||Year|Dates in the same calendar year.|2|
-||Qtr|Dates in the same calendar quarter.|3|
-||Month|Dates in the same month.|4|
-||Week|Dates in the same week.|5|
-||Day|Dates on the same date.|6|
-||Hour|Times in the same hour.|7|
-||Minute|Times in the same minute.|8|
-|AutoNumber, Currency, Number|(Default) Each Value|The same value in the field or expression.|0|
-||Interval|Values within an interval you specify.|9|
+| <strong>Field data type</strong> | <strong>Setting</strong> | <strong>Groups records with</strong>                                        | <strong>Visual Basic</strong> |
+|:---------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------------------------|
+| Text                             | (Default) Each Value     | The same value in the field or expression.                                  | 0                             |
+|                                  | Prefix Characters        | The same first  <em>n</em> number of characters in the field or expression. | 1                             |
+| Date/Time                        | (Default) Each Value     | The same value in the field or expression.                                  | 0                             |
+|                                  | Year                     | Dates in the same calendar year.                                            | 2                             |
+|                                  | Qtr                      | Dates in the same calendar quarter.                                         | 3                             |
+|                                  | Month                    | Dates in the same month.                                                    | 4                             |
+|                                  | Week                     | Dates in the same week.                                                     | 5                             |
+|                                  | Day                      | Dates on the same date.                                                     | 6                             |
+|                                  | Hour                     | Times in the same hour.                                                     | 7                             |
+|                                  | Minute                   | Times in the same minute.                                                   | 8                             |
+| AutoNumber, Currency, Number     | (Default) Each Value     | The same value in the field or expression.                                  | 0                             |
+|                                  | Interval                 | Values within an interval you specify.                                      | 9                             |
+
 In Visual Basic, you set this property in the  **[Open](report-open-event-access.md)** event procedure of a report.
 
 To set the  **GroupOn** property to a value other than Each Value, you must first set the **GroupHeader** or **GroupFooter** property or both to Yes for the selected field or expression.

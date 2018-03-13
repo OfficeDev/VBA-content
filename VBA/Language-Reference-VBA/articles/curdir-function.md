@@ -31,7 +31,6 @@ Dim MyPath
 MyPath = CurDir    ' Returns "C:\WINDOWS\SYSTEM".
 MyPath = CurDir("C")    ' Returns "C:\WINDOWS\SYSTEM".
 MyPath = CurDir("D")    ' Returns "D:\EXCEL".
-
 ```
 
 

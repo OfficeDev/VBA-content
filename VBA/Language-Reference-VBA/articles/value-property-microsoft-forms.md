@@ -19,28 +19,30 @@ Specifies the state or content of a given control.
 The  **Value** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Variant_|Optional. The state or content of the control.|
+| <strong>Part</strong> | <strong>Description</strong>                   |
+|:----------------------|:-----------------------------------------------|
+| <em>object</em>       | Required. A valid object.                      |
+| <em>Variant</em>      | Optional. The state or content of the control. |
+
  **Settings**
 
 
-|**Control**|**Description**|
-|:-----|:-----|
-|**CheckBox**|An integer value indicating whether the item is selected:|
-||Null Indicates the item is in a null state, neither selected nor [cleared](glossary-vba.md).|
-||-1 True. Indicates the item is selected.|
-||0 False. Indicates the item is cleared.|
-|**OptionButton**|Same as  **CheckBox**.|
-|**ToggleButton**|Same as  **CheckBox**.|
-|**ScrollBar**|An integer between the values specified for the  **Max** and **Min** properties.|
-|**SpinButton**|Same as  **ScrollBar**.|
-|**ComboBox, ListBox**|The value in the  **BoundColumn** of the currently selected rows.|
-|**CommandButton**|Always  **False**.|
-|**MultiPage**|An integer indicating the currently active page.|
-||Zero (0) indicates the first page. The maximum value is one less than the number of pages.|
-|**TextBox**|The text in the edit region.|
+| <strong>Control</strong>           | <strong>Description</strong>                                                                               |
+|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------|
+| <strong>CheckBox</strong>          | An integer value indicating whether the item is selected:                                                  |
+|                                    | Null Indicates the item is in a null state, neither selected nor [cleared](glossary-vba.md).               |
+|                                    | -1 True. Indicates the item is selected.                                                                   |
+|                                    | 0 False. Indicates the item is cleared.                                                                    |
+| <strong>OptionButton</strong>      | Same as  <strong>CheckBox</strong>.                                                                        |
+| <strong>ToggleButton</strong>      | Same as  <strong>CheckBox</strong>.                                                                        |
+| <strong>ScrollBar</strong>         | An integer between the values specified for the  <strong>Max</strong> and <strong>Min</strong> properties. |
+| <strong>SpinButton</strong>        | Same as  <strong>ScrollBar</strong>.                                                                       |
+| <strong>ComboBox, ListBox</strong> | The value in the  <strong>BoundColumn</strong> of the currently selected rows.                             |
+| <strong>CommandButton</strong>     | Always  <strong>False</strong>.                                                                            |
+| <strong>MultiPage</strong>         | An integer indicating the currently active page.                                                           |
+|                                    | Zero (0) indicates the first page. The maximum value is one less than the number of pages.                 |
+| <strong>TextBox</strong>           | The text in the edit region.                                                                               |
+
  **Remarks**
 For a  **CommandButton**, setting the **Value** property to **True** in a macro or procedure initiates the button's Click event.
 For a  **ComboBox**, changing the contents of **Value** does not change the value of **BoundColumn**. To add or delete entries in a **ComboBox**, you can use the **AddItem** or **RemoveItem** method.

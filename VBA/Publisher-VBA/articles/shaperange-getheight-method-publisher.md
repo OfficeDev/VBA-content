@@ -57,7 +57,6 @@ With ActiveDocument.Pages(1).Shapes.Range
  &; Format(.GetWidth(Unit:=pbUnitInch), "0.00") _ 
  &; " in" 
 End With 
-
 ```
 
 

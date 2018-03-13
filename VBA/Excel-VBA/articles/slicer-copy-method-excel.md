@@ -32,7 +32,6 @@ The following code example accesses the Customer slicer by using the  **[Range](
 ActiveSheet.Shapes.Range(Array("Customer")).Select 
 Selection.Copy 
 ActiveSheet.Paste 
-
 ```
 
 Alternatively, you can perform the same operation by using the  **[Slicers](slicercache-slicers-property-excel.md)** property of the **[SlicerCaches](slicercaches-object-excel.md)** collection to access the slicer, as shown in the following code example.

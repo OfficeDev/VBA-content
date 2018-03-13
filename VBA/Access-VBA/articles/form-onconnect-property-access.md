@@ -35,7 +35,6 @@ The following example specifies that when the  **OnConnect** event occurs on the
 
 ```vb
 Forms(0).OnConnect = "[Event Procedure]" 
-
 ```
 
 

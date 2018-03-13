@@ -54,15 +54,16 @@ The  _nTargets_ argument can be any combination of the values of the constants d
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visDocCleanTargAll**|&;HFF|Examine all objects (default for  _nTargets_ ).|
-| **visDocCleanTargFPages**|&;H1|Examine foreground pages.|
-| **visDocCleanTargBPages**|&;H2|Examine background pages.|
-| **visDocCleanTargMasters**|&;H4|Examine masters.|
-| **visDocCleanTargStyles**|&;H8|Examine styles. |
-| **visDocCleanTargDoc**|&;H10 |Examine document sheet.|
-| **visDocCleanTargPageSheet**|&;H100|Examine page sheet(s). |
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong>                           |
+|:------------------------------------------|:-----------------------|:-------------------------------------------------------|
+| <strong>visDocCleanTargAll</strong>       | &;HFF                  | Examine all objects (default for  <em>nTargets</em> ). |
+| <strong>visDocCleanTargFPages</strong>    | &;H1                   | Examine foreground pages.                              |
+| <strong>visDocCleanTargBPages</strong>    | &;H2                   | Examine background pages.                              |
+| <strong>visDocCleanTargMasters</strong>   | &;H4                   | Examine masters.                                       |
+| <strong>visDocCleanTargStyles</strong>    | &;H8                   | Examine styles.                                        |
+| <strong>visDocCleanTargDoc</strong>       | &;H10                  | Examine document sheet.                                |
+| <strong>visDocCleanTargPageSheet</strong> | &;H100                 | Examine page sheet(s).                                 |
+
 The nActions, nAlerts, and nFixes arguments can be any combination of the values of the constants defined in  **VisDocCleanActions** in the Visio type library, and described in the following table.
 
 
@@ -93,23 +94,23 @@ The following procedure demonstrates one use of the  **Clean** method. In this c
 
 
 1. Create a new blank drawing.
-    
+
 2. Use the  **Rectangle** tool to draw a rectangle on the drawing page. If you view the shape in the ShapeSheet window, you can see that the color of the value ("1") in the LinePattern cell is black, indicating that the value is inherited.
-    
+
 3. Right-click the shape, point to  **Format**, click  **Line**, and in the  **Line** dialog box, reapply the same line pattern. This action creates a local value in the shape, or a local override. Now if you view the shape in the ShapeSheet window, you can see that the color of the value in the LinePattern cell is blue, indicating that the value is local.
-    
+
 4. Insert the  **Clean_Example** procedure shown below into your document's Microsoft Visual Basic for Applications project:
-    
+
 5. Run the  **Clean_Example** procedure (on the **View** tab, click **Macros**; then, in the  **Macros** dialog box, in the list of macros, select **ThisDocument.Clean_Example**, and then click  **Run**).
-    
+
 
 ```vb
- 
+
     Public Sub Clean_Example() 
-     
+
         ActiveDocument.Clean, visDocCleanActLocalFormulas, _  
            visDocCleanActLocalFormulas, visDocCleanActLocalFormulas 
-     
+
 End Sub
 ```
 

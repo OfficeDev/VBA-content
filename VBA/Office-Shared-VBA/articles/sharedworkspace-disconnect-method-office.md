@@ -53,7 +53,6 @@ The following example determines whether the active document is connected to a s
         MsgBox "The active document is not connected to a shared workspace.", _ 
             vbInformation + vbOKOnly, "Not Connected" 
     End If 
-
 ```
 
 

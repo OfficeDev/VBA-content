@@ -21,10 +21,11 @@ Stores additional information about an object.
 The  **Tag** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. A string expression identifying the object. The default is a zero-length string ("").|
+| <strong>Part</strong> | <strong>Description</strong>                                                                    |
+|:----------------------|:------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                       |
+| <em>String</em>       | Optional. A string expression identifying the object. The default is a zero-length string (""). |
+
  **Remarks**
 Use the  **Tag** property to assign an identification string to an object without affecting other property settings or attributes.
 For example, you can use  **Tag** to check the identity of a form or control that is passed as a variable to a procedure.

@@ -22,10 +22,11 @@ Executes a series of [statements](vbe-glossary.md) on a single object or a [user
 The  **With** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Name of an object or a user-defined type.|
-| _statements_|Optional. One or more statements to be executed on  _object_.|
+| <strong>Part</strong> | <strong>Description</strong>                                         |
+|:----------------------|:---------------------------------------------------------------------|
+| <em>object</em>       | Required. Name of an object or a user-defined type.                  |
+| <em>statements</em>   | Optional. One or more statements to be executed on  <em>object</em>. |
+
  **Remarks**
 The  **With** statement allows you to perform a series of statements on a specified object without requalifying the name of the object. For example, to change a number of different[properties](vbe-glossary.md) on a single object, place the property assignment statements within the **With** control structure, referring to the object once instead of referring to it with each property assignment. The following example illustrates use of the **With** statement to assign values to several properties of the same object.
 
@@ -37,7 +38,6 @@ With MyLabel
  .Width = 2000 
  .Caption = "This is MyLabel" 
 End With 
-
 ```
 
 

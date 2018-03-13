@@ -19,21 +19,23 @@ Returns a  **Variant** ( **Integer** ) indicating the result of a[string compari
 The  **StrComp** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_string1_**|Required. Any valid [string expression](vbe-glossary.md).|
-|**_string2_**|Required. Any valid string expression.|
-|**_compare_**|Optional. Specifies the type of string comparison. If the  **_compare_**[argument](vbe-glossary.md) is[Null](vbe-glossary.md), an error occurs. If  **_compare_** is omitted, the **Option Compare** setting determines the type of comparison.|
+| <strong>Part</strong>             | <strong>Description</strong>                                                                                                                                                                                                                                                                         |
+|:----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>string1</em></strong> | Required. Any valid [string expression](vbe-glossary.md).                                                                                                                                                                                                                                            |
+| <strong><em>string2</em></strong> | Required. Any valid string expression.                                                                                                                                                                                                                                                               |
+| <strong><em>compare</em></strong> | Optional. Specifies the type of string comparison. If the  <strong><em>compare</em></strong>[argument](vbe-glossary.md) is[Null](vbe-glossary.md), an error occurs. If  <strong><em>compare</em></strong> is omitted, the <strong>Option Compare</strong> setting determines the type of comparison. |
+
  **Settings**
 The  **compare** argument settings are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
-|**vbBinaryCompare**|0|Performs a binary comparison.|
-|**vbTextCompare**|1|Performs a textual comparison.|
-|**vbDatabaseCompare**|2|Microsoft Access only. Performs a comparison based on information in your database.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>                                                               |
+|:------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------|
+| <strong>vbUseCompareOption</strong> | -1                     | Performs a comparison using the setting of the  <strong>Option Compare</strong> statement. |
+| <strong>vbBinaryCompare</strong>    | 0                      | Performs a binary comparison.                                                              |
+| <strong>vbTextCompare</strong>      | 1                      | Performs a textual comparison.                                                             |
+| <strong>vbDatabaseCompare</strong>  | 2                      | Microsoft Access only. Performs a comparison based on information in your database.        |
+
  **Return Values**
 The  **StrComp** function has the following return values:
 
@@ -56,8 +58,6 @@ MyStr1 = "ABCD": MyStr2 = "abcd"    ' Define variables.
 MyComp = StrComp(MyStr1, MyStr2, 1)    ' Returns 0.
 MyComp = StrComp(MyStr1, MyStr2, 0)    ' Returns -1.
 MyComp = StrComp(MyStr2, MyStr1)    ' Returns 1.
-
-
 ```
 
 

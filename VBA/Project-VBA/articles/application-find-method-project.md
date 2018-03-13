@@ -37,6 +37,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|
@@ -54,6 +55,7 @@ _expression_ A variable that represents an **Application** object.
 |"contains exactly"|_Field_ contains exactly _Value_.|
 
 <br/>
+
 
 ### Return value
 

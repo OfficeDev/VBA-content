@@ -45,22 +45,21 @@ The following example tests each picture in the active publication, and returns 
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
- 
+
  Debug.Print "File Name: " &; .Filename 
  Debug.Print "Resolution in Publication: " &; .EffectiveResolution &; " dpi" 
  Debug.Print "Original Resolution: " &; .OriginalResolution &; " dpi" 
- 
+
  End With 
  End If 
  Next shpLoop 
 Next pgLoop 
-
 ```
 
 

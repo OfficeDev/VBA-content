@@ -42,15 +42,16 @@ The _ContainerFlags_ parameter can be one or more of the following **VisContaine
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visContainerFlagsDefault**|0|Returns all shape types and includes items in nested containers.|
-| **visContainerFlagsExcludeContainers**|1|Excludes member shapes that are containers.|
-| **visContainerFlagsExcludeConnectors**|2|Excludes member shapes that are connectors.|
-| **visContainerFlagsExcludeCallouts**|4|Excludes member shapes that are callouts.|
-| **visContainerFlagsExcludeElements**|8|Excludes member shapes that are not containers, lists, connectors, or callouts.|
-| **visContainerFlagsExcludeNested**|16|Excludes any member shapes that are members of containers or lists nested within the container.|
-| **visContainerFlagsExcludeListMembers**|32|Excludes members of a list container that are explicitly members of any list. Does not exclude other shapes in the list container.|
+| <strong>Constant</strong>                            | <strong>Value</strong> | <strong>Description</strong>                                                                                                       |
+|:-----------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| <strong>visContainerFlagsDefault</strong>            | 0                      | Returns all shape types and includes items in nested containers.                                                                   |
+| <strong>visContainerFlagsExcludeContainers</strong>  | 1                      | Excludes member shapes that are containers.                                                                                        |
+| <strong>visContainerFlagsExcludeConnectors</strong>  | 2                      | Excludes member shapes that are connectors.                                                                                        |
+| <strong>visContainerFlagsExcludeCallouts</strong>    | 4                      | Excludes member shapes that are callouts.                                                                                          |
+| <strong>visContainerFlagsExcludeElements</strong>    | 8                      | Excludes member shapes that are not containers, lists, connectors, or callouts.                                                    |
+| <strong>visContainerFlagsExcludeNested</strong>      | 16                     | Excludes any member shapes that are members of containers or lists nested within the container.                                    |
+| <strong>visContainerFlagsExcludeListMembers</strong> | 32                     | Excludes members of a list container that are explicitly members of any list. Does not exclude other shapes in the list container. |
+
  **GetMemberShapes** returns an empty array if there are no member shapes.
 
 

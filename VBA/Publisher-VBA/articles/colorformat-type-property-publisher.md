@@ -29,8 +29,11 @@ The  **Type** property value can be one of these **PbColorType** constants.
 
 
 
-| **pbColorTypeCMYK**|
-| **pbColorTypeInk**|
-| **pbColorTypeRGB**|
-| **pbColorTypeScheme**|
+| <strong>pbColorTypeCMYK</strong>|
+| 
+<strong>pbColorTypeInk</strong>|
+| 
+<strong>pbColorTypeRGB</strong>|
+| 
+<strong>pbColorTypeScheme</strong>|
 

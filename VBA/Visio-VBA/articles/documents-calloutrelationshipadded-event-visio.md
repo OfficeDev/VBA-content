@@ -18,7 +18,7 @@ Occurs when a new callout relationship is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**CalloutRelationshipAdded**( **_By Val ShapePair As RelatedShapePairEvent_** )
+Private Sub  <em>expression</em> <em><strong>CalloutRelationshipAdded</strong>( **_By Val ShapePair As RelatedShapePairEvent</em>** )
 
  _expression_ A variable that represents a **[Documents](documents-object-visio.md)** object.
 

@@ -29,11 +29,12 @@ The  **OLEType** property uses the following settings.
 
 
 
-|**Setting**|**Constant**|**Description**|
-|:-----|:-----|:-----|
-|Linked|**acOLELinked**|The control contains a linked object. All the object's data is managed by the application that created it.|
-|Embedded|**acOLEEmbedded**|The control contains an embedded object. All the object's data is managed by Microsoft Access.|
-|None|**acOLENone**|The control doesn't contain an OLE object.|
+| <strong>Setting</strong> | <strong>Constant</strong>      | <strong>Description</strong>                                                                               |
+|:-------------------------|:-------------------------------|:-----------------------------------------------------------------------------------------------------------|
+| Linked                   | <strong>acOLELinked</strong>   | The control contains a linked object. All the object's data is managed by the application that created it. |
+| Embedded                 | <strong>acOLEEmbedded</strong> | The control contains an embedded object. All the object's data is managed by Microsoft Access.             |
+| None                     | <strong>acOLENone</strong>     | The control doesn't contain an OLE object.                                                                 |
+
 When creating an OLE object, use the  **OLETypeAllowed** property to determine what type of object a control can contain.
 
 
@@ -45,7 +46,7 @@ The following example illustrates how to display the  **Insert Object** dialog b
 ```vb
 Sub InsertObject_Click() 
  Dim conUserCancelled As Integer 
- 
+
  ' Error message returned when user cancels. 
  conUserCancelled = 2001 
  On Error GoTo ButtonErr 
@@ -55,7 +56,7 @@ Sub InsertObject_Click()
  OLE1.Action = acOLEInsertObjDlg 
  End If 
  Exit Sub 
- 
+
 ButtonErr: 
  If Err = conUserCancelled Then ' Display message. 
  MsgBox "You clicked the Cancel button; " _ 

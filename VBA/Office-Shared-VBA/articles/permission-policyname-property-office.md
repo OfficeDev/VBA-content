@@ -53,7 +53,6 @@ The following example displays permission policy information about the active do
  End If 
  MsgBox strIRMInfo, vbInformation + vbOKOnly, "IRM Information" 
  Set irmPermission = Nothing 
-
 ```
 
 

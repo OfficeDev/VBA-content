@@ -24,9 +24,9 @@ The Example section describes the following properties and methods for returning
 
 
 - The  **[Chart](inlineshape-chart-property-word.md)** property.
-    
+
 - The  **[AddChart](http://msdn.microsoft.com/library/1b168e7b-543a-a817-51b0-8171beecc946%28Office.15%29.aspx)** method.
-    
+
 
 
 
@@ -56,7 +56,6 @@ The following example creates a new 3-D column chart and adds it to the active d
 
 ```
 ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn 
-
 ```
 
 

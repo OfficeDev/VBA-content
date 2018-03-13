@@ -26,12 +26,17 @@ Returns or sets if the fill style should rotate with the object. Read/write  **[
 
 
 
-|MsoTriState can be one of these  **MsoTriState** constants.|
-| **msoCTrue**|
-| **msoFalse**|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue**|
+|MsoTriState can be one of these  <strong>MsoTriState</strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong>|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong>|
 
 ## See also
 

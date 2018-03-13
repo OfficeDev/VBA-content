@@ -27,9 +27,9 @@ Auto macros in code modules are recognized if either of the following conditions
 
 
 - The module is named after the auto macro (for example, AutoExec) and it contains a procedure named "Main."
-    
+
 - A procedure in any module is named after the auto macro.
-    
+
 Just like other macros, auto macros can be stored in the Normal template, another template, or a document. In order for an auto macro to run, it must be either in the Normal template, in the active document, or in the template on which the active document is based. The only exception is the AutoExec macro, which will not run automatically unless it is stored in one of the following: the Normal template, a template that is loaded globally through the  **Templates and Add-Ins** dialog box, or a global template stored in the folder specified as the Startup folder.
 In the case of a naming conflict (multiple auto macros with the same name), Word runs the auto macro stored in the closest context. For example, if you create an AutoClose macro in a document and in the attached template, only the auto macro stored in the document will execute. If you create an AutoNew macro in the normal template, the macro will run if a macro named AutoNew does not exist in the document or the attached template.
 
@@ -40,7 +40,6 @@ In the case of a naming conflict (multiple auto macros with the same name), Word
 
 ```
 WordBasic.DisableAutoMacros
-
 ```
 
 

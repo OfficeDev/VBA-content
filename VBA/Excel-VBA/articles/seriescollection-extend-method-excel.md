@@ -51,7 +51,6 @@ This example extends the series on Chart1 by adding the data in cells B1:B6 on S
 ```vb
 Charts("Chart1").SeriesCollection.Extend _ 
         Source:=Worksheets("Sheet1").Range("B1:B6") 
-
 ```
 
 

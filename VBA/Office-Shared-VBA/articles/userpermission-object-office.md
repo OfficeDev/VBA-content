@@ -47,7 +47,6 @@ The following example determines whether the active document has restricted perm
  End If 
  Set irmUserPerm = Nothing 
  Set irmPermission = Nothing 
-
 ```
 
 

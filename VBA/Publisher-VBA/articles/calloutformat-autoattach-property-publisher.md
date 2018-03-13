@@ -55,7 +55,6 @@ With ActivePublication.Pages(1).Shapes
  .Callout.AutoAttach = msoFalse 
  End With 
 End With 
-
 ```
 
 

@@ -15,7 +15,7 @@ Occurs before a Microsoft Visio instance enters a modal state.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeModal**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeModal</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

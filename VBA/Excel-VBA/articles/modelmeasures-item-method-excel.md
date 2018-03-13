@@ -16,7 +16,7 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_ . **Item**_(Index) _
+ <em>expression</em> . <strong>Item</strong><em>(Index) </em>
 
  _expression_ A variable that represents a **ModelMeasures** object.
 

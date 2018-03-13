@@ -26,7 +26,7 @@ Sub LocalVariable()
  strMsg = "This variable can't be used outside this procedure." 
  MsgBox strMsg 
 End Sub 
- 
+
 Sub OutsideScope() 
  MsgBox strMsg 
 End Sub
@@ -45,11 +45,11 @@ In the following example, the string variable  `strMsg` is available to any proc
 ```vb
 ' Add following to Declarations section of module. 
 Private strMsg sAs String 
- 
+
 Sub InitializePrivateVariable() 
  strMsg = "This variable can't be used outside this module." 
 End Sub 
- 
+
 Sub UsePrivateVariable() 
  MsgBox strMsg 
 End Sub
@@ -67,7 +67,6 @@ If you declare a module-level variable as public, it's available to all procedur
 ```vb
 ' Include in Declarations section of module. 
 Public strMsg As String 
-
 ```
 
 All procedures are public by default, except for event procedures. When Visual Basic creates an event procedure, the  **Private** [keyword](vbe-glossary.md) is automatically inserted before the procedure declaration. For all other procedures, you must explicitly declare the procedure with the **Private** keyword if you do not want it to be public.

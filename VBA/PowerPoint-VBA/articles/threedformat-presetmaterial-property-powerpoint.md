@@ -35,11 +35,15 @@ The value of the  **PresetMaterial** property can be one of these **MsoPresetMat
 
 ||
 |:-----|
-|**msoMaterialMatte**|
-|**msoMaterialMetal**|
-|**msoMaterialPlastic**|
-|**msoMaterialWireFrame**|
-|**msoPresetMaterialMixed**|
+|<strong>msoMaterialMatte</strong>|
+|
+<strong>msoMaterialMetal</strong>|
+|
+<strong>msoMaterialPlastic</strong>|
+|
+<strong>msoMaterialWireFrame</strong>|
+|
+<strong>msoPresetMaterialMixed</strong>|
 
 ## Example
 

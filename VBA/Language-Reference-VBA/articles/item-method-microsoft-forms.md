@@ -19,10 +19,11 @@ Returns a member of a [collection](vbe-glossary.md), either by position or by na
 The  **Item** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _collectionindex_|Required. A member's position, or index, within a collection.|
+| <strong>Part</strong>    | <strong>Description</strong>                                  |
+|:-------------------------|:--------------------------------------------------------------|
+| <em>object</em>          | Required. A valid object.                                     |
+| <em>collectionindex</em> | Required. A member's position, or index, within a collection. |
+
  **Settings**
 The  _collectionindex_ can be either a string or an integer. If it is a string, it must be a valid member name. If it is an integer, the minimum value is 0 and the maximum value is one less than the number of items in the collection.
  **Remarks**

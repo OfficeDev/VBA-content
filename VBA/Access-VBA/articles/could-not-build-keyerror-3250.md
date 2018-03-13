@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Could not build key. (Error 3250)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -23,7 +23,6 @@ This error can occur when you use the  **Seek** method and pass it a value for a
 
 ```
 rstEmployees.Seek "=", "Smith", "Joe"
-
 ```
 
 The Microsoft Access database engine will try to construct a primary key from two fields, but because one field is indexed, the attempt will fail and this error results.

@@ -36,23 +36,24 @@ The number of elements in the array is a multiple of 3, as follows:
 
 
 - The first element contains the beginning mouse action ( **MouseMove** event extension) of the range (any member of **VisFilterActions** ).
-    
+
 - The second element contains the end mouse action ( **MouseMove** event extension) of the range (any member of **VisFilterActions** whose value is higher than that of the first element ).
-    
+
 - The third element contains a  **True** or **False** value indicating whether you want to listen to events for that action range ( **True** to listen to events of a certain sub-type, or **MouseMove** event extension; **False** to exclude an event sub-type).
-    
+
 The filter actions that are returned in the first and second array elements of each element triplet are defined in the  **VisFilterActions** enumeration, which is declared in the Visio type library, and shown in the following table. Note that mouse actions that occupy the second position in an array-element triplet will always be later in the sequence (that is, higher in value) than those that occupy the first position in an array-element triplet.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visFilterMouseMoveDragBegin**|1|Filter the  **DragBegin** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragDrop**|5|Filter the  **DragDrop** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragEnter**|2|Filter the  **DragEnter** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragLeave**|4|Filter the  **DragLeave** extension of the **MouseMove** event.|
-| **visFilterMouseMoveDragOver**|3|Filter the  **DragOver** extension of the **MouseMove** event.|
-| **visFilterMouseMoveNoDrag**|0|Do not filter any extensions of the  **MouseMove** event.|
+| <strong>Constant</strong>                    | <strong>Value</strong> | <strong>Description</strong>                                                              |
+|:---------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------|
+| <strong>visFilterMouseMoveDragBegin</strong> | 1                      | Filter the  <strong>DragBegin</strong> extension of the <strong>MouseMove</strong> event. |
+| <strong>visFilterMouseMoveDragDrop</strong>  | 5                      | Filter the  <strong>DragDrop</strong> extension of the <strong>MouseMove</strong> event.  |
+| <strong>visFilterMouseMoveDragEnter</strong> | 2                      | Filter the  <strong>DragEnter</strong> extension of the <strong>MouseMove</strong> event. |
+| <strong>visFilterMouseMoveDragLeave</strong> | 4                      | Filter the  <strong>DragLeave</strong> extension of the <strong>MouseMove</strong> event. |
+| <strong>visFilterMouseMoveDragOver</strong>  | 3                      | Filter the  <strong>DragOver</strong> extension of the <strong>MouseMove</strong> event.  |
+| <strong>visFilterMouseMoveNoDrag</strong>    | 0                      | Do not filter any extensions of the  <strong>MouseMove</strong> event.                    |
+
 For more information about using event extensions to define filter actions, see the  **[SetFilterActions](event-setfilteractions-method-visio.md)** method.
 
 

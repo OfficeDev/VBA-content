@@ -35,7 +35,6 @@ The following example specifies that when the BeforeUpdate event occurs on the f
 
 ```vb
 Forms(0).BeforeUpdate = "[Event Procedure]" 
-
 ```
 
 

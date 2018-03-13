@@ -35,7 +35,6 @@ The following example sets the starting page number for the first section of the
 
 ```vb
 ActiveDocument.Sections(1).PageNumberStart = 45 
-
 ```
 
 

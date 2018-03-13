@@ -22,15 +22,16 @@ For the Controls collection _object_. **Move(** X, Y **)**
 The  **Move** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object name.|
-| _Left_|Optional. [Single-precision value](vbe-glossary.md), in points, indicating the horizontal coordinate for the left edge of the object.|
-| _Top_|Optional. Single-precision value, in points, that specifies the vertical coordinate for the top edge of the object.|
-| _Width_|Optional. Single-precision value, in points, indicating the width of the object.|
-| _Height_|Optional. Single-precision value, in points, indicating the height of the object.|
-| _Layout_|Optional. A Boolean value indicating whether the Layout event is initiated for the control's parent following this move.  **False** is the default value.|
-| _X, Y_|Required. Single-precision value, in points, that specifies the change from the current horizontal and vertical position for each control in the  **Controls** collection.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                            |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object name.                                                                                                                                                          |
+| <em>Left</em>         | Optional. [Single-precision value](vbe-glossary.md), in points, indicating the horizontal coordinate for the left edge of the object.                                                   |
+| <em>Top</em>          | Optional. Single-precision value, in points, that specifies the vertical coordinate for the top edge of the object.                                                                     |
+| <em>Width</em>        | Optional. Single-precision value, in points, indicating the width of the object.                                                                                                        |
+| <em>Height</em>       | Optional. Single-precision value, in points, indicating the height of the object.                                                                                                       |
+| <em>Layout</em>       | Optional. A Boolean value indicating whether the Layout event is initiated for the control's parent following this move.  <strong>False</strong> is the default value.                  |
+| <em>X, Y</em>         | Required. Single-precision value, in points, that specifies the change from the current horizontal and vertical position for each control in the  <strong>Controls</strong> collection. |
+
  **Settings**
 The maximum and minimum values for the  _Left_, _Top_, _Width_, _Height_, _X_, and _Y_ arguments vary from one application to another.
  **Remarks**

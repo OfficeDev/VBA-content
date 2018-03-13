@@ -29,10 +29,11 @@ The  **LineSlant** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|**\**|**False**|(Default) Upper left to lower right|
-|**/**|**True**|Upper right to lower left|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>        |
+|:-------------------------|:------------------------------|:------------------------------------|
+| <strong>\</strong>       | <strong>False</strong>        | (Default) Upper left to lower right |
+| <strong>/</strong>       | <strong>True</strong>         | Upper right to lower left           |
+
 Use the  **LineSlant** property to change a line's direction. To position and size the line on your form or report, use the mouse.
 
 
@@ -43,7 +44,6 @@ The following example slants a line on a form from upper right to lower left.
 
 ```vb
 Forms("Purchase Orders").Controls("Section Separator").LineSlant = True 
-
 ```
 
 

@@ -29,10 +29,11 @@ The  **PopUp** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The report opens as a pop-up window. It remains on top of all other Microsoft Access windows.|
-|No|**False**|(Default) The report isn't a pop-up window.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                  |
+|:-------------------------|:------------------------------|:----------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The report opens as a pop-up window. It remains on top of all other Microsoft Access windows. |
+| No                       | <strong>False</strong>        | (Default) The report isn't a pop-up window.                                                   |
+
 The  **PopUp** property can be set only in Design view.
 
 To specify the type of border you want on a pop-up window, use the  **BorderStyle** property. You typically set the **BorderStyle** property to Thin for pop-up windows.
@@ -41,11 +42,11 @@ Setting the  **PopUp** property to Yes makes the report a pop-up window only whe
 
 
 - Open it in Form view from the Database window.
-    
+
 - Open it in Form view by using a macro or Visual Basic.
-    
+
 - Switch from Design view to Form view.
-    
+
 
 ## See also
 

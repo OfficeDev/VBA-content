@@ -30,7 +30,7 @@ The following example displays information about all the printers available on t
 
 ```vb
 Dim prtLoop As Printer 
- 
+
 For Each prtLoop In Application.Printers 
  With prtLoop 
  MsgBox "Device name: " &; .DeviceName &; vbCr _ 
@@ -38,7 +38,6 @@ For Each prtLoop In Application.Printers
  &; "Port: " &; .Port 
  End With 
 Next prtLoop 
-
 ```
 
 

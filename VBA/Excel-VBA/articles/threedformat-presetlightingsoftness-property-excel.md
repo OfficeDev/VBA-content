@@ -29,11 +29,15 @@ Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPreset
 
 
 
-| **MsoPresetLightingSoftness** can be one of these **MsoPresetLightingSoftness** constants.|
-| **msoLightingBright**|
-| **msoLightingDim**|
-| **msoLightingNormal**|
-| **msoPresetLightingSoftnessMixed**|
+| <strong>MsoPresetLightingSoftness</strong> can be one of these <strong>MsoPresetLightingSoftness</strong> constants.|
+| 
+<strong>msoLightingBright</strong>|
+| 
+<strong>msoLightingDim</strong>|
+| 
+<strong>msoLightingNormal</strong>|
+| 
+<strong>msoPresetLightingSoftnessMixed</strong>|
 
 ## Example
 

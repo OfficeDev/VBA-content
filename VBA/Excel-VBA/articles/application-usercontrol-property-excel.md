@@ -39,7 +39,6 @@ If Application.UserControl Then
 Else 
  MsgBox "This workbook was created programmatically" 
 End If 
-
 ```
 
 

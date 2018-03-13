@@ -21,18 +21,20 @@ Specifies whether an automatic tab occurs when a user enters the maximum allowab
 The  **AutoTab** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Specifies whether an automatic tab occurs.|
+| <strong>Part</strong> | <strong>Description</strong>                         |
+|:----------------------|:-----------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                            |
+| <em>Boolean</em>      | Optional. Specifies whether an automatic tab occurs. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Tab occurs.|
-|**False**|Tab does not occur (default).|
+| <strong>Value</strong> | <strong>Description</strong>  |
+|:-----------------------|:------------------------------|
+| <strong>True</strong>  | Tab occurs.                   |
+| <strong>False</strong> | Tab does not occur (default). |
+
  **Remarks**
 The  **MaxLength** property specifies the maximum number of characters allowed in a **TextBox** or the text box portion of a **ComboBox**.
 You can specify the  **AutoTab** property for a **TextBox** or **ComboBox** on a form for which you usually enter a set number of characters. Once a user enters the maximum number of characters, the[focus](vbe-glossary.md) automatically moves to the next control in the[tab order](vbe-glossary.md). For example, if a  **TextBox** displays inventory stock numbers that are always five characters long, you can use **MaxLength** to specify the maximum number of characters to enter into the **TextBox** and **AutoTab** to automatically tab to the next control after the user enters five characters.

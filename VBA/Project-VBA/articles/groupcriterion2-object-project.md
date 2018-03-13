@@ -20,7 +20,7 @@ Represents a criterion in a group definition where the group hierarchy can be ma
  
 
  
-Use  **GroupCriteria2(***Index* **)**, where*Index* is the criterion index, to return a single **GroupCriterion2** object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
+Use  <strong>GroupCriteria2(</strong><em>Index</em> <strong>)</strong>, where<em>Index</em> is the criterion index, to return a single <strong>GroupCriterion2</strong> object. The following example sets the cell color for the first criterion in the Standard Rate resource group to blue.
  
 
  

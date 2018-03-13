@@ -15,13 +15,13 @@ There are a number of ways you can reference existing items in a folder using Mi
 
 
 - Using a  `For … Next` or `For Each … Next` loop
-    
+
 - Using the  **[Items](items-object-outlook.md)** collection
-    
+
 - Using the  **[Find](items-find-method-outlook.md)** method
-    
+
 - Using the  **[Restrict](items-restrict-method-outlook.md)** method
-    
+
 
 ## Using a For…Next or For Each...Next Loop
 
@@ -47,7 +47,6 @@ Set myItems = myFolder.Items.Restrict("[MessageClass] = 'IPM.Contact'")
 For I = 1 to NumItems 
    MsgBox MyItems(I).FullName 
 Next 
-
 ```
 
 
@@ -113,7 +112,6 @@ Set olns = Application.GetNameSpace("MAPI")
 Set MyFolder = olns.GetDefaultFolder(olFolderInbox) 
 Set MyItem = MyFolder.Items("Please help on Friday!") 
 MyItem.Display 
-
 ```
 
 

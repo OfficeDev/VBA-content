@@ -29,9 +29,10 @@ The following table shows how the  **Vertices** property associates values in th
 
 
 
-|**vertArray element**|**Contains**|
-|:-----|:-----|
-|
+| <strong>vertArray element</strong> | <strong>Contains</strong> |
+|:-----------------------------------|:--------------------------|
+|                                    |                           |
+
 ```
 vertArray(1, 1)
 ```

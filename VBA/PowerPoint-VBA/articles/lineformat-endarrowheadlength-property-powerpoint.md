@@ -35,10 +35,13 @@ The  **EndArrowheadLength** property value can be one of these **MsoArrowheadLen
 
 ||
 |:-----|
-|**msoArrowheadLengthMedium**|
-|**msoArrowheadLengthMixed**|
-|**msoArrowheadLong**|
-|**msoArrowheadShort**|
+|<strong>msoArrowheadLengthMedium</strong>|
+|
+<strong>msoArrowheadLengthMixed</strong>|
+|
+<strong>msoArrowheadLong</strong>|
+|
+<strong>msoArrowheadShort</strong>|
 
 ## Example
 

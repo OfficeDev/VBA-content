@@ -71,7 +71,6 @@ With Worksheets(1)
  ScreenTip:="Write us today", _ 
  TextToDisplay:="Support" 
 End With 
-
 ```
 
 

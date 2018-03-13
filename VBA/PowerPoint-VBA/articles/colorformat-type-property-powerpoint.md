@@ -35,12 +35,17 @@ The value of the  **Type** property can be one of these **MsoColorType** constan
 
 ||
 |:-----|
-|**msoColorTypeCMS**|
-|**msoColorTypeCMYK**|
-|**msoColorTypeInk**|
-|**msoColorTypeMixed**|
-|**msoColorTypeRGB**|
-|**msoColorTypeScheme**|
+|<strong>msoColorTypeCMS</strong>|
+|
+<strong>msoColorTypeCMYK</strong>|
+|
+<strong>msoColorTypeInk</strong>|
+|
+<strong>msoColorTypeMixed</strong>|
+|
+<strong>msoColorTypeRGB</strong>|
+|
+<strong>msoColorTypeScheme</strong>|
 
 ## See also
 

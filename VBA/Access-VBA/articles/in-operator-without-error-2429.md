@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # In operator without (). (Error 2429)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,7 +22,6 @@ When coding an SQL statement that includes the  **In** operator, you must surrou
 
 ```vb
 WHERE Region In ('TX', 'CA', 'WA')
-
 ```
 
 This code tests to see if the Region field contains any of the above abbreviations, which represent Texas, California, and Washington.

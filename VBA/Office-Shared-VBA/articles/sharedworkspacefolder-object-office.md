@@ -40,7 +40,6 @@ Use the  **FolderName** property to return the name of the shared workspace fold
     Set swsFolder = ActiveWorkbook.SharedWorkspace.Folders(1) 
     MsgBox swsFolder.FolderName, vbInformation + vbOKOnly, "Folder Name" 
     Set swsFolder = Nothing 
-
 ```
 
 

@@ -27,15 +27,15 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _Name_|Required|**String**|The name of the view.|
-| _Screen_|Optional|**Long**| The project view. Can be one of the **[PjViewScreen](pjviewscreen-enumeration-project.md)** constants. The default value is **pjGantt**.|
-| _ShowInMenu_|Optional|**Boolean**|**True** if Project Server adds the single-pane view to the **View** menu. The default value is **False**.|
-| _Table_|Optional|**Variant**|Specifies the table to be used by the view. This value is ignored if the view specified with the  **Screen** argument does not use tables.|
-| _Filter_|Optional|**Variant**|Specifies the filter to be used on the view.|
-| _Group_|Optional|**Variant**|Specifies the group to be used by the view. If a group is required for the view, but none is specified, the default is ** No Group**. This value is ignored if the view specified with the **Screen** argument does not use groups.|
-| _HighlightFilt_|Optional|**Boolean**|**True** if the filter applied is a highlight filter. The default value is **False**.|
+| <strong>Name</strong>  | <strong>Required/Optional</strong> | <strong>Data Type</strong> | <strong>Description</strong>                                                                                                                                                                                                                        |
+|:-----------------------|:-----------------------------------|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>Name</em>          | Required                           | <strong>String</strong>    | The name of the view.                                                                                                                                                                                                                               |
+| <em>Screen</em>        | Optional                           | <strong>Long</strong>      | The project view. Can be one of the <strong><a href="pjviewscreen-enumeration-project.md" data-raw-source="[PjViewScreen](pjviewscreen-enumeration-project.md)">PjViewScreen</a></strong> constants. The default value is <strong>pjGantt</strong>. |
+| <em>ShowInMenu</em>    | Optional                           | <strong>Boolean</strong>   | <strong>True</strong> if Project Server adds the single-pane view to the <strong>View</strong> menu. The default value is <strong>False</strong>.                                                                                                   |
+| <em>Table</em>         | Optional                           | <strong>Variant</strong>   | Specifies the table to be used by the view. This value is ignored if the view specified with the  <strong>Screen</strong> argument does not use tables.                                                                                             |
+| <em>Filter</em>        | Optional                           | <strong>Variant</strong>   | Specifies the filter to be used on the view.                                                                                                                                                                                                        |
+| <em>Group</em>         | Optional                           | <strong>Variant</strong>   | Specifies the group to be used by the view. If a group is required for the view, but none is specified, the default is ** No Group<strong>. This value is ignored if the view specified with the **Screen</strong> argument does not use groups.    |
+| <em>HighlightFilt</em> | Optional                           | <strong>Boolean</strong>   | <strong>True</strong> if the filter applied is a highlight filter. The default value is <strong>False</strong>.                                                                                                                                     |
 
 ### Return Value
 

@@ -58,7 +58,6 @@ The following example lists the links in a shared workspace site that were modif
         vbInformation + vbOKOnly, "Modified Links" 
     Set swsOwner = Nothing 
     Set swsLink = Nothing 
-
 ```
 
 

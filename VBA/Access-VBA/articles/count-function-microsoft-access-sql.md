@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Count Function (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,6 +26,7 @@ Calculates the number of records returned by a query.
 ## Syntax
 <a name="sectionSection0"> </a>
 
+
  **Count(** _expr_ **)**
 
 The  _expr_ placeholder represents a string expression identifying the field that contains the data you want to count or an expression that performs a calculation using the data in the field. Operands in _expr_ can include the name of a table field or function (which can be either intrinsic or user-defined but not other SQL aggregate functions). You can count any kind of data, including text.
@@ -34,11 +35,12 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
+
 You can use  **Count** to count the number of records in an underlying query. For example, you could use **Count** to count the number of orders shipped to a particular country or region.
 
 Although  _expr_ can perform a calculation on a field, **Count** simply tallies the number of records. It does not matter what values are stored in the records.
 
-The  **Count** function does not count records that have **Null** fields unless _expr_ is the asterisk (*) wildcard character. If you use an asterisk, **Count** calculates the total number of records, including those that contain **Null** fields. **Count(** * **)** is considerably faster than **Count(** [ _Column Name_ ] **)**. Do not enclose the asterisk in quotation marks (' '). The following example calculates the number of records in the Orders table:
+The  <strong>Count</strong> function does not count records that have <strong>Null</strong> fields unless <em>expr</em> is the asterisk (<em>) wildcard character. If you use an asterisk, **Count</em>* calculates the total number of records, including those that contain <strong>Null</strong> fields. <strong>Count(</strong> * <strong>)</strong> is considerably faster than <strong>Count(</strong> [ <em>Column Name</em> ] <strong>)</strong>. Do not enclose the asterisk in quotation marks (' '). The following example calculates the number of records in the Orders table:
 
 
 
@@ -65,6 +67,7 @@ You can use  **Count** in a query expression. You can also use this expression i
 ## Example
 <a name="sectionSection2"> </a>
 
+
 This example uses the Orders table to calculate the number of orders shipped to the United Kingdom.
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
@@ -74,32 +77,31 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub CountX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
-    
+
     ' Calculate the number of orders shipped  
     ' to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT" _ 
         &; " Count (ShipCountry)" _ 
         &; " AS [UK Orders] FROM Orders" _ 
         &; " WHERE ShipCountry = 'UK';") 
-     
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 25 
- 
-    dbs.Close 
- 
-End Sub 
 
+    dbs.Close 
+
+End Sub 
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

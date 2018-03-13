@@ -21,17 +21,19 @@ Indicates whether the last user action can be undone.
 The  **CanUndo** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Return Values**
 The  **CanUndo** property return values are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The most recent user action can be undone.|
-|**False**|The most recent user action cannot be undone.|
+| <strong>Value</strong> | <strong>Description</strong>                  |
+|:-----------------------|:----------------------------------------------|
+| <strong>True</strong>  | The most recent user action can be undone.    |
+| <strong>False</strong> | The most recent user action cannot be undone. |
+
  **Remarks**
  **CanUndo** is read-only.
 Many user actions can be undone with the Undo command. The  **CanUndo** property indicates whether the most recent action can be undone.

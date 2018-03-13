@@ -38,11 +38,12 @@ If you don?t specify the index arguments, this property returns an array that co
 
 
 
-|**Column**|**Contents**|
-|:-----|:-----|
-|1|The name of the DLL or code resource|
-|2|The name of the procedure in the DLL or code resource|
-|3|Strings specifying the data types of the return values, and the number and data types of the arguments|
+| <strong>Column</strong> | <strong>Contents</strong>                                                                              |
+|:------------------------|:-------------------------------------------------------------------------------------------------------|
+| 1                       | The name of the DLL or code resource                                                                   |
+| 2                       | The name of the procedure in the DLL or code resource                                                  |
+| 3                       | Strings specifying the data types of the return values, and the number and data types of the arguments |
+
 If there are no registered functions, this property returns  **null** .
 
 

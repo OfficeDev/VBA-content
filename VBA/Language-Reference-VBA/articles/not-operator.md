@@ -19,19 +19,21 @@ Used to perform logical negation on an [expression](vbe-glossary.md).
 The  **Not** operator syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _result_|Required; any numeric [variable](vbe-glossary.md).|
-| _expression_|Required; any expression.|
+| <strong>Part</strong> | <strong>Description</strong>                       |
+|:----------------------|:---------------------------------------------------|
+| <em>result</em>       | Required; any numeric [variable](vbe-glossary.md). |
+| <em>expression</em>   | Required; any expression.                          |
+
  **Remarks**
 The following table illustrates how  _result_ is determined:
 
 
-|**If  _expression_ is**|**Then  _result_ is**|
-|:-----|:-----|
-|**True**|**False**|
-|**False**|**True**|
-|[Null](vbe-glossary.md)|**Null**|
+| <strong>If  <em>expression</em> is</strong> | <strong>Then  <em>result</em> is</strong> |
+|:--------------------------------------------|:------------------------------------------|
+| <strong>True</strong>                       | <strong>False</strong>                    |
+| <strong>False</strong>                      | <strong>True</strong>                     |
+| [Null](vbe-glossary.md)                     | <strong>Null</strong>                     |
+
 In addition, the  **Not** operator inverts the bit values of any variable and sets the corresponding bit in _result_ according to the following table:
 
 
@@ -52,7 +54,6 @@ MyCheck = Not(A > B)    ' Returns False.
 MyCheck = Not(B > A)    ' Returns True.
 MyCheck = Not(C > D)    ' Returns Null.
 MyCheck = Not A    ' Returns -11 (bitwise comparison).
-
 ```
 
 

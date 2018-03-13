@@ -41,7 +41,6 @@ The following example retrieves the  **[OutlookBarPane](outlookbarpane-object-ou
 
 ```
 Set myOLBarPane = myExplorer.Panes.Item("OutlookBar") 
-
 ```
 
 

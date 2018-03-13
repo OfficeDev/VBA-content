@@ -20,12 +20,13 @@ The optional  _number_[argument](vbe-glossary.md) is a[Single](vbe-glossary.md) 
  **Return Values**
 
 
-|**If  _number_ is**|**Rnd generates**|
-|:-----|:-----|
-|Less than zero|The same number every time, using  _number_ as the[seed](vbe-glossary.md).|
-|Greater than zero|The next random number in the sequence.|
-|Equal to zero|The most recently generated number.|
-|Not supplied|The next random number in the sequence.|
+| <strong>If  <em>number</em> is</strong> | <strong>Rnd generates</strong>                                                    |
+|:----------------------------------------|:----------------------------------------------------------------------------------|
+| Less than zero                          | The same number every time, using  <em>number</em> as the[seed](vbe-glossary.md). |
+| Greater than zero                       | The next random number in the sequence.                                           |
+| Equal to zero                           | The most recently generated number.                                               |
+| Not supplied                            | The next random number in the sequence.                                           |
+
  **Remarks**
 The  **Rnd** function returns a value less than 1 but greater than or equal to zero.
 The value of  _number_ determines how **Rnd** generates a random number:
@@ -37,7 +38,6 @@ To produce random integers in a given range, use this formula:
 
 ```
 Int((upperbound - lowerbound + 1) * Rnd + lowerbound)
-
 ```
 
 Here,  _upperbound_ is the highest number in the range, and _lowerbound_ is the lowest number in the range.
@@ -53,8 +53,6 @@ This example uses the  **Rnd** function to generate a random integer value from 
 ```vb
 Dim MyValue
 MyValue = Int((6 * Rnd) + 1)    ' Generate random value between 1 and 6.
-
-
 ```
 
 

@@ -64,10 +64,10 @@ The following example returns estimates of the standard deviation for a populati
 ```vb
 Dim dblX As Double 
 Dim dblY As Double 
- 
+
 ' Sample estimate. 
 dblX = DStDev("[Freight]", "Orders", "[ShipCountry] = 'UK'") 
- 
+
 ' Population estimate. 
 dblY = DStDevP("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
@@ -81,12 +81,12 @@ The next example calculates the same estimates by using a variable,  `strCountry
 Dim strCountry As String 
 Dim dblX As Double 
 Dim dblY As Double 
- 
+
 strCountry = "UK" 
- 
+
 dblX = DStDev("[Freight]", "Orders", _ 
     "[ShipCountry] = '" &; strCountry &; "'") 
- 
+
 dblY = DStDevP("[Freight]", "Orders", _ 
     "[ShipCountry] = '" &; strCountry &; "'")
 ```
@@ -133,13 +133,13 @@ The following examples show how to use various types of criteria with the  **DSt
     variable = DStDevP("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
              &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
             &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
-    
+
     ' Use two fields from a single record.
     variable = DStDevP("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
-            
+
     ' Expressions
     variable = DStDevP("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")
-    
+
     ' Control Structures
     variable = DStDevP("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
@@ -149,11 +149,13 @@ The following examples show how to use various types of criteria with the  **DSt
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

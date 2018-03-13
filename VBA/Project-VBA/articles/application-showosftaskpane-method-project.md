@@ -23,9 +23,10 @@ Shows an empty Office Add-ins task pane.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _Name_|Optional|**String**|The name of the task pane app.
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data type</strong> | <strong>Description</strong>   |
+|:----------------------|:-----------------------------------|:---------------------------|:-------------------------------|
+| <em>Name</em>         | Optional                           | <strong>String</strong>    | The name of the task pane app. |
+
  **Note**  Not implemented in Project.
 
 |

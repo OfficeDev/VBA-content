@@ -32,9 +32,11 @@ The value of the  **AdvanceMode** property can be one of these **PpAdvanceMode**
 
 ||
 |:-----|
-|**ppAdvanceModeMixed**|
-|**ppAdvanceOnClick**|
-|**ppAdvanceOnTime**|
+|<strong>ppAdvanceModeMixed</strong>|
+|
+<strong>ppAdvanceOnClick</strong>|
+|
+<strong>ppAdvanceOnTime</strong>|
 
 ## Example
 

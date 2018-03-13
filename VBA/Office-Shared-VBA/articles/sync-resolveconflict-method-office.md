@@ -64,7 +64,6 @@ The following example attempts to resolve a conflict by merging changes between 
         MsgBox strStatus, vbInformation + vbOKOnly, "Sync Information" 
     End If 
     Set objSync = Nothing 
-
 ```
 
 

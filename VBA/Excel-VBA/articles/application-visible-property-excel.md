@@ -33,7 +33,6 @@ Application.Wait Now + TimeValue("00:00:05")
 
 'Makes Excel visible again.
 Application.Visible = True
-
 ```
 
 ## See also

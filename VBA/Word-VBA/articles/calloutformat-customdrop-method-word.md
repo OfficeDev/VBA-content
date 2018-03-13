@@ -52,9 +52,8 @@ This example cancels any preset drop that's been set for the first shape in the 
 
 ```vb
 Dim docActive As Document 
- 
-Set docActive = ActiveDocument 
 
+Set docActive = ActiveDocument 
 ```
 
 

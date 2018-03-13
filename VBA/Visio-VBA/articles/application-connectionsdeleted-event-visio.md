@@ -15,7 +15,7 @@ Occurs after connections between shapes have been removed.
 
 ## Syntax
 
-Private Sub  _expression_ _**ConnectionsDeleted**( **_ByVal Connects As [IVCONNECTS]_** )
+Private Sub  <em>expression</em> <em><strong>ConnectionsDeleted</strong>( **_ByVal Connects As [IVCONNECTS]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

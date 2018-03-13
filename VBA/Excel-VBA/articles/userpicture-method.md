@@ -35,8 +35,9 @@ Fills the specified shape with an image.
 
 
 |XlChartPicturePlacement can be one of these XlChartPicturePlacement constants.|
-| **xlSides**|
-| **xlEnd** **xlEndSides** **xlFront** **xlFrontSides** **xlFrontEnd** **xlAllFaces**|
+| <strong>xlSides</strong>|
+| 
+<strong>xlEnd</strong> <strong>xlEndSides</strong> <strong>xlFront</strong> <strong>xlFrontSides</strong> <strong>xlFrontEnd</strong> <strong>xlAllFaces</strong>|
 
 ## Example
 

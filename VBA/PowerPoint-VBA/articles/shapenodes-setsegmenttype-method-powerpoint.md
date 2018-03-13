@@ -41,8 +41,9 @@ The  _SegmentType_ parameter value can be one of these **MsoSegmentType** consta
 
 ||
 |:-----|
-|**msoSegmentCurve**|
-|**msoSegmentLine**|
+|<strong>msoSegmentCurve</strong>|
+|
+<strong>msoSegmentLine</strong>|
 
 ## Example
 

@@ -42,10 +42,11 @@ The  _NestedOptions_ parameter must be one of the following **VisContainerNested
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visContainerIncludeNested**|0|Include shapes that are in nested containers.|
-| **visContainerExcludeNested**|1|Exclude shapes that are in nested containers..|
+| <strong>Constant</strong>                  | <strong>Value</strong> | <strong>Description</strong>                   |
+|:-------------------------------------------|:-----------------------|:-----------------------------------------------|
+| <strong>visContainerIncludeNested</strong> | 0                      | Include shapes that are in nested containers.  |
+| <strong>visContainerExcludeNested</strong> | 1                      | Exclude shapes that are in nested containers.. |
+
 You can use the  **[Shapes.ItemFromID](shapes-itemfromid-property-visio.md)** property to get the actual shapes from the IDs returned by **GetContainers** .
 
 

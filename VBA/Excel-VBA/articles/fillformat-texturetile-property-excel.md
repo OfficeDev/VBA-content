@@ -26,12 +26,17 @@ Returns the texture tile style for the specified fill. Read/write  **[MsoTriStat
 
 
 
-|MsoTriState can be one of these  **MsoTriState** constants.|
-| **msoCTrue**|
-| **msoFalse**|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue**|
+|MsoTriState can be one of these  <strong>MsoTriState</strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong>|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong>|
 
 ## See also
 

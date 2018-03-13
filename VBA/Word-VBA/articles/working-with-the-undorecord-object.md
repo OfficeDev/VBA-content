@@ -20,10 +20,10 @@ For example, a developer might write code that performs the task of inserting do
 ```
 Sub AddDocMetadata() 
 Dim rngFooter As Range 
- 
+
     Set rngFooter = ActiveDocument.Sections(1) _ 
         .Footers(wdHeaderFooterPrimary).Range 
-         
+
     With rngFooter 
         .Delete 
         .Fields.Add Range:=rngFooter, Type:=wdFieldFileName, Text:="\p" 
@@ -32,7 +32,6 @@ Dim rngFooter As Range
         .Fields.Add Range:=rngFooter, Type:=wdFieldAuthor 
     End With     
 End Sub 
-
 ```
 
 The resulting undo records appear on the undo stack for the actions performed by the code.
@@ -50,18 +49,18 @@ The [UndoRecord](http://msdn.microsoft.com/library/77bf9801-e940-e661-6bbe-20a87
 
 ```
 Dim objUndo As UndoRecord 
- 
+
 Sub AddDocMetadata() 
 Dim rngFooter As Range 
- 
+
 Set objUndo = Application.UndoRecord 
- 
+
 'Begin the custom undo record and provide a name for the record 
 objUndo.StartCustomRecord ("Add Doc Metadata") 
-     
+
  Set rngFooter = ActiveDocument.Sections(1) _ 
         .Footers(wdHeaderFooterPrimary).Range 
-         
+
  With rngFooter 
         .Delete 
         .Fields.Add Range:=rngFooter, Type:=wdFieldFileName, Text:="\p" 
@@ -69,12 +68,11 @@ objUndo.StartCustomRecord ("Add Doc Metadata")
         .Collapse Direction:=wdCollapseStart 
         .Fields.Add Range:=rngFooter, Type:=wdFieldAuthor 
  End With 
- 
+
 'End the custom undo record 
 objUndo.EndCustomRecord 
-     
-End Sub 
 
+End Sub 
 ```
 
 The [StartCustomRecord](http://msdn.microsoft.com/library/cd8d4337-4bbc-1943-6e0a-bc764861e886%28Office.15%29.aspx) method begins recording the actions that are included in the custom undo record. You can give the custom undo record a name as an argument to the [StartCustomRecord](http://msdn.microsoft.com/library/cd8d4337-4bbc-1943-6e0a-bc764861e886%28Office.15%29.aspx) method, but this is optional. If you do not specify a name, Word uses the Visual Basic name of the first command executed as the name of the record. The name of the custom undo record is the string that appears in the user interface in the dropdown next to the **Undo** button.
@@ -101,23 +99,23 @@ The following table lists other important members of the [UndoRecord](http://msd
 
 
 - Close each custom undo record with a call to [EndCustomRecord](http://msdn.microsoft.com/library/af11d231-f799-d592-2bc5-de08030b41e4%28Office.15%29.aspx). Word will attempt to determine where to end the record, but it may not be at the desired point of code execution.
-    
+
 - Call the [Document](http://msdn.microsoft.com/library/8d83487a-2345-a036-a916-971c9db5b7fb%28Office.15%29.aspx) object's [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method in the right order when calling from within a custom undo record. Calling the [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method in the wrong order within a custom undo record can have undesired effects on your code execution. The following code example shows the [Undo](http://msdn.microsoft.com/library/f9fd64c9-aeb9-b698-6318-beb1db653ee6%28Office.15%29.aspx) method being called from inside a custom undo record.
-    
+
 ```
 Sub UndoInUndoRecord() 
-   
+
   Set objUndo = Application.UndoRecord 
-  
+
   objUndo.StartCustomRecord ("New Paragraph") 
-  
+
   ActiveDocument.Content.InsertAfter Text:=" The end." 
   ActiveDocument.Undo 
   ActiveDocument.Content.InsertAfter Text:=" The end, again." 
   ActiveDocument.Content.InsertAfter Text:=" The last end." 
- 
+
   objUndo.EndCustomRecord 
- 
+
 End Sub
 ```
 
@@ -130,18 +128,18 @@ Dim objUndo As UndoRecord
 
 Sub SwitchDocsInsideUndo() 
   Set objUndo = Application.UndoRecord objUndo.StartCustomRecord ("New Paragraph") 
-  
+
   'Insert some text into the first document Documents(1).Content.InsertAfter "A new paragraph in doc1." 
-  
+
   'Switch documents to the second document 
   'The custom undo record will terminate here Documents(2).Content.InsertAfter "A new paragraph in doc2." 
-  
+
   objUndo.EndCustomRecord 
 End Sub
 ```
 
 When this code is run, Word terminates the custom undo record when the code begins to write to the second document. When the procedure is finished, only the first document will have a custom undo record with the name "New Paragraph."
-    
+
 - Avoid using Breaks when running code that contains custom undo records in Debug mode. When code that contains undo records is run in Debug mode in the Visual Basic editor and the code encounters a breakpoint, Word automatically ends all custom records that are currently in progress.
-    
+
 

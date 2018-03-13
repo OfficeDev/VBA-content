@@ -35,10 +35,13 @@ The  **EndArrowheadWidth** property value can be one of these **MsoArrowheadWidt
 
 ||
 |:-----|
-|**msoArrowheadNarrow**|
-|**msoArrowheadWide**|
-|**msoArrowheadWidthMedium**|
-|**msoArrowheadWidthMixed**|
+|<strong>msoArrowheadNarrow</strong>|
+|
+<strong>msoArrowheadWide</strong>|
+|
+<strong>msoArrowheadWidthMedium</strong>|
+|
+<strong>msoArrowheadWidthMixed</strong>|
 
 ## Example
 

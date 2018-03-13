@@ -45,7 +45,6 @@ Dim mFormula As String
 mFormula = _
 "let Source = Csv.Document(File.Contents(""C:\data.txt""),null,""#(tab)"",null,1252) in Source"
 query1 = ActiveWorkbook.Queries.Add(?query1?, mFormula)
-
 ```
 
 

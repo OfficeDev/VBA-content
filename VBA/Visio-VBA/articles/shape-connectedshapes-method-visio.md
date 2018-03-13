@@ -43,11 +43,12 @@ The  _Flags_ value must be one of the following **VisConnectedShapesFlags** cons
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visConnectedShapesAllNodes**|0|Return IDs of shapes that are associated with both incoming and outgoing connections.|
-| **visConnectedShapesIncomingNodes**|1|Return IDs of shapes that are associated with incoming connections.|
-| **visConnectedShapesOutgoingNodes**|2|Return IDs of shapes that are associated with outgoing connections.|
+| <strong>Constant</strong>                        | <strong>Value</strong> | <strong>Description</strong>                                                          |
+|:-------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------|
+| <strong>visConnectedShapesAllNodes</strong>      | 0                      | Return IDs of shapes that are associated with both incoming and outgoing connections. |
+| <strong>visConnectedShapesIncomingNodes</strong> | 1                      | Return IDs of shapes that are associated with incoming connections.                   |
+| <strong>visConnectedShapesOutgoingNodes</strong> | 2                      | Return IDs of shapes that are associated with outgoing connections.                   |
+
 Categories are user-defined strings that you can use to categorize shapes and thereby to restrict membership in a container. You can define categories in the User.msvShapeCategories cell in the ShapeSheet for a shape. You can define multiple categories for a shape by separating the categories with semi-colons.
 
 If the source object is a 1-D shape or part of a master, the  **ConnectedShapes** method returns an Invalid Source error.

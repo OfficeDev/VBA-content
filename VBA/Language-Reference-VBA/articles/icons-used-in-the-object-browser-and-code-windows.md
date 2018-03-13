@@ -15,9 +15,10 @@ The  **Object** **Browser** and **Code** window contain many icons that represen
 
 
 
-|**This Icon:**|**Represents a:**|
-|:-----|:-----|
-|
+| <strong>This Icon:</strong> | <strong>Represents a:</strong> |
+|:----------------------------|:-------------------------------|
+|                             |                                |
+
 ![Icon](images/property_ZA01201646.gif)
 
 |Property|

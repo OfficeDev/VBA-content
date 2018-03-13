@@ -9,26 +9,26 @@ ms.date: 06/08/2017
 # Days Object (Project)
 
 Contains a collection of  **[Day](day-object-project.md)** objects.
- 
+
 
 
 ## Example
 
  **Using the Days Collection Object**
- 
 
- 
-Use  **Days(***Index* **)**, where*Index* is the day index number or **[PjWeekday](pjweekday-enumeration-project.md)** constant, to return a single **Day** object. The following example counts the number of working days in the month of September 2002 for each selected resource.
- 
 
- 
+
+Use  <strong>Days(</strong><em>Index</em> <strong>)</strong>, where<em>Index</em> is the day index number or <strong><a href="pjweekday-enumeration-project.md" data-raw-source="[PjWeekday](pjweekday-enumeration-project.md)">PjWeekday</a></strong> constant, to return a single <strong>Day</strong> object. The following example counts the number of working days in the month of September 2002 for each selected resource.
+
+
+
 
 
 
 ```
 Dim R As Resource, D As Integer, WorkingDays As Integer 
 
- 
+
 
 For Each R In ActiveSelection.Resources() 
 
@@ -56,20 +56,18 @@ Next R
 ```
 
  **Getting the Days Collection Object.**
- 
 
- 
+
+
 Use the  **[Days](month-days-property-project.md)** property to return a **Days** collection. The following example counts the number of days in the month of September 2002.
- 
 
- 
+
+
 
 
 
 ```
 MsgBox ActiveProject.Calendar.Years(2006).Months(pjNovember).Days.Count 
-
-
 ```
 
 
@@ -90,5 +88,5 @@ MsgBox ActiveProject.Calendar.Years(2006).Months(pjNovember).Days.Count
 #### Other resources
 
 
- 
+
 [Project Object Model](http://msdn.microsoft.com/library/900b167b-88ec-ea88-15b7-27bb90c22ac6%28Office.15%29.aspx)

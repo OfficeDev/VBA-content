@@ -20,9 +20,10 @@ Returns a Boolean value that indicates the text display direction and controls t
 The settings for the  **RightToLeft** property are:
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|The control is running on a bidirectional platform, such as Arabic Windows95 or Hebrew Windows95, and text is running from right to left. The control should modify its behavior, such as putting vertical scroll bars at the left side of a text or list box, putting labels to the right of text boxes, and so forth.|
-|**False**|The control should act as though it was running on a non-bidirectional platform, such as English Windows95, and text is running from left to right. If the container does not implement this ambient property,  **False** is the default value.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                            |
+|:-------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>True</strong>    | The control is running on a bidirectional platform, such as Arabic Windows95 or Hebrew Windows95, and text is running from right to left. The control should modify its behavior, such as putting vertical scroll bars at the left side of a text or list box, putting labels to the right of text boxes, and so forth. |
+| <strong>False</strong>   | The control should act as though it was running on a non-bidirectional platform, such as English Windows95, and text is running from left to right. If the container does not implement this ambient property,  <strong>False</strong> is the default value.                                                            |
+
 The  **RightToLeft** property holds ambient information from the **Userform** that suggests behavior to controls contained within the **UserForm**. This property is a Boolean that indicates text display direction and controls visual appearance on bidirectional systems. The default is **False**.
 

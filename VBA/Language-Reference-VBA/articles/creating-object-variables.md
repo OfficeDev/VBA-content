@@ -19,9 +19,9 @@ You can treat an [object variable](vbe-glossary.md) exactly the same as the [obj
 
 
 1. Declare the object variable.
-    
+
 2. Assign the object variable to an object.
-    
+
 
 
 ## Declaring an Object Variable
@@ -36,7 +36,6 @@ Dim MyObject
 Dim MyObject As Object 
 ' Declare MyObject as Font type. 
 Dim MyObject As Font 
-
 ```
 
 
@@ -52,7 +51,6 @@ If you know the specific object type, you should declare the object variable as 
 ```vb
 Dim MyObject As Object ' Declared as generic object. 
 Dim MyObject As Sample ' Declared only as Sample object. 
-
 ```
 
 Declaring specific object types provides automatic type checking, faster code, and improved readability.
@@ -66,7 +64,6 @@ Use the  **Set** statement to assign an object to an object variable. You can as
 ```vb
 Set MyObject = YourObject ' Assign object reference. 
 Set MyObject = Nothing ' Discontinue association. 
-
 ```
 
 You can combine declaring an object variable with assigning an object to it by using the  **New** [keyword](vbe-glossary.md) with the **Set** statement. For example:
@@ -76,7 +73,6 @@ You can combine declaring an object variable with assigning an object to it by u
 
 ```vb
 Set MyObject = New Object ' Create and Assign 
-
 ```
 
 Setting an object variable equal to  **Nothing** discontinues the association of the object variable with any specific object. This prevents you from accidentally changing the object by changing the variable. An object variable is always set to **Nothing** after closing the associated object so you can test whether or not the object variable points to a valid object. For example:
@@ -89,7 +85,6 @@ If Not MyObject Is Nothing Then
  ' Variable refers to valid object. 
  . . . 
 End If 
-
 ```
 
 Of course, this test can never determine with absolute certainty whether or not a user has closed the application containing the object to which the object variable refers.
@@ -113,7 +108,6 @@ You can call the procedure and pass the current instance of the object as an arg
 
 ```
 ChangeObjectColor Me 
-
 ```
 
 

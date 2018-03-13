@@ -27,10 +27,11 @@ Returns a collection of axes on the chart.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Variant**|The axis to return. Can be one of the following  **[XlAxisType](xlaxistype-enumeration-powerpoint.md)** constants: **xlValue**, **xlCategory**, or **xlSeriesAxis** ( **xlSeriesAxis** is valid only for 3-D charts).|
-| _AxisGroup_|Optional|**[XlAxisGroup](xlaxisgroup-enumeration-powerpoint.md)**|One of the enumeration values that specifies the axis group. The default is  **xlPrimary**.
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data Type</strong>                                                                                                                              | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                           |
+|:----------------------|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>Type</em>         | Optional                           | <strong>Variant</strong>                                                                                                                                | The axis to return. Can be one of the following  <strong><a href="xlaxistype-enumeration-powerpoint.md" data-raw-source="[XlAxisType](xlaxistype-enumeration-powerpoint.md)">XlAxisType</a></strong> constants: <strong>xlValue</strong>, <strong>xlCategory</strong>, or <strong>xlSeriesAxis</strong> ( <strong>xlSeriesAxis</strong> is valid only for 3-D charts). |
+| <em>AxisGroup</em>    | Optional                           | <strong><a href="xlaxisgroup-enumeration-powerpoint.md" data-raw-source="[XlAxisGroup](xlaxisgroup-enumeration-powerpoint.md)">XlAxisGroup</a></strong> | One of the enumeration values that specifies the axis group. The default is  <strong>xlPrimary</strong>.                                                                                                                                                                                                                                                               |
+
  **Note**  3-D charts have only one axis group.
 
 |

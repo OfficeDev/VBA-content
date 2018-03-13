@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Parameter (ADO/WFC Syntax)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,14 +19,13 @@ ms.date: 06/08/2017
 
 
 ```
- 
+
 public Invalid DDUE based on source, error:link not allowed in code, link filename:mdobjparameter_HV10294590.xml() 
 public Parameter(String name ) 
 public Parameter(String name , int type ) 
 public Parameter(String name , int type , int dir ) 
 public Parameter(String name , int type , int dir , int size ) 
 public Parameter(String name , int type , int dir , int size , Object value ) 
-
 ```
 
  **Methods**
@@ -34,11 +33,10 @@ public Parameter(String name , int type , int dir , int size , Object value )
 
 
 ```
- 
+
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml(byte[] bytes ) 
 public void appendChunk(char[] chars ) 
 public void appendChunk(String chars ) 
-
 ```
 
  **Properties**
@@ -46,7 +44,7 @@ public void appendChunk(String chars )
 
 
 ```
- 
+
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproattributes_HV10294098.xml() 
 public void setAttributes(int attr ) 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprodirection_HV10294320.xml() 
@@ -64,7 +62,6 @@ public void setType(int type )
 public com.ms.com.Variant Invalid DDUE based on source, error:link not allowed in code, link filename:mdprovalue_HV10294920.xml() 
 public void setValue(Object v ) 
 public AdoProperties Invalid DDUE based on source, error:link not allowed in code, link filename:mdcolproperties_HV10294633.xml() 
-
 ```
 
 
@@ -82,7 +79,7 @@ There is one noteworthy exception: There is no  **getNull** property; instead, t
 
 
 ```js
- 
+
 public boolean getBoolean() 
 public void setBoolean(boolean v ) 
 public byte getByte() 
@@ -101,7 +98,6 @@ public String getString()
 public void setString(String v ) 
 public boolean isNull() 
 public void setNull() 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

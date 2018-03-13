@@ -50,8 +50,6 @@ Dim strPropertyName As String
 strPropertyName = vsoViewer.CustomPropertyName(1, 1)
 
 Debug.Print strPropertyName
-
-
 ```
 
 

@@ -13,25 +13,25 @@ Visio Viewer is an ActiveX control that lets you open, view, or print Visio draw
 Visio Viewer provides an application programming interface (API) that lets solution developers perform numerous tasks, among them the following:
 
 - Load and unload Visio drawings.
-    
+
 - Select shapes.
-    
+
 - Follow hyperlinks.
-    
+
 - Display various Visio Viewer dialog boxes to the user.
-    
+
 - Customize the size and position of the Visio Viewer window.
-    
+
 - Customize the user interface by changing foreground and background colors and displaying or hiding the grid and the scroll bars.
-    
+
 - Control the color and transparency of layers in the drawing.
-    
+
 - Control the color and visibility of reviewer markups (comments).
-    
+
 - Customize the toolbar by adding or removing buttons.
-    
+
 - Respond to user actions in the Visio Viewer interface.
-    
+
 
 ## Programming Visio Viewer in Visual Basic 6.0
 
@@ -44,15 +44,15 @@ Use the following steps to get a reference to the Visio Viewer API in a Visual B
 
 
 1. Open Visual Basic 6.0. In Windows Vista or Windows 7, right-click the program shortcut, and then click  **Run as administrator**
-    
+
 2. In Visual Basic 6.0, open a new  **Standard EXE** project.
-    
+
 3. In your project, right-click the Toolbox, click  **Components**, select  **Microsoft Visio Viewer 14.0 Type Library**, and then click  **OK**.
-    
+
 4. Before you compile your code, on the  **Project** menu, click [ _your project name_]  **Properties**.
-    
+
 5. On the  **Make** tab, verify that **Remove information about unused ActiveX controls** is not selected.
-    
+
 The following code shows how to instantiate Visio Viewer in a form in Visual Basic 6.0. It creates a Visio Viewer control, displays the  **Properties and Settings** dialog box, sets the location, size, and visibility of the control within the form, and loads a document named "MyFile.vsd" into the control.
 
 Add the following code to the project you created.
@@ -64,7 +64,7 @@ Add the following code to the project you created.
 Dim Viewer1 As VisioViewerCtl.Viewer
 
 Private Sub Form_Load()
-    
+
     Set Viewer1 = Form1.Controls.Add("VisioViewer.Viewer", "Viewer1", Form1)
 
     Viewer1.Visible = True
@@ -117,23 +117,23 @@ Use the following steps to get a reference to the Visio Viewer API in a Visual S
 
 
 1. On the  **Start** menu, point to **All Programs**, click  **Accessories**, and then click  **Command Prompt** to open the **Command Prompt** window.
-    
+
 2. In the Command Prompt window, navigate to the Microsoft Office/Office 14 subfolder of the Program Files folder.
-    
+
 3. Copy the file VViewer.dll to a folder location to which you have permission to write new files (for example, your user folder).
-    
+
 4. Close the Command Prompt window, and then open the Visual Studio 2008 Command Prompt window. (On the  **Start** menu, point to **All Programs**, click  **Microsoft Visual Studio 2008**, click  **Visual Studio Tools**, and then click  **Visual Studio 2008 Command Prompt**).
-    
+
 5. In the Visual Studio 2008 Command Prompt window, navigate to the folder to which you copied the Visio Viewer DLL file.
-    
+
 6. In that folder, type AxImp.exe vviewer.dll to generate several files, including AxVisioViewer.dll.
-    
+
 7. In Visual Studio 2008, open a new Windows Forms Application project.
-    
+
 8. In your project, on the  **Project** menu, click **Add Reference**, and then click  **Browse**.
-    
+
 9. Browse to the folder where you created the AxVisioViewer.dll file, select that file in the list, and then click  **OK**.
-    
+
 In your Visual Studio project, in the Form1.cs file, add the following code to instantiate the Visio Viewer control, set some of its properties, and load a test file into the control. This code assumes that you have a Visio file named "test.vsd" in your Documents folder, at the path shown. Modify the path and file names accordingly for your computer.
 
 
@@ -165,7 +165,7 @@ In your Visual Studio project, in the Form1.cs file, add the following code to i
 
             this.viewer.Location = new Point(0, 0);
             this.UpdateSize(null, null);
-         
+
         }
 
         public void UpdateSize(object obj, EventArgs ea)

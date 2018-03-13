@@ -19,10 +19,11 @@ Returns or sets the text in a  **TextBox**. Changes the selected row in a **Comb
 The  **Text** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. A string expression specifying text. The default value is a zero-length string ("").|
+| <strong>Part</strong> | <strong>Description</strong>                                                                   |
+|:----------------------|:-----------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                      |
+| <em>String</em>       | Optional. A string expression specifying text. The default value is a zero-length string (""). |
+
  **Remarks**
 For a  **TextBox**, any value you assign to the **Text** property is also assigned to the **Value** property.
 For a  **ComboBox**, you can use **Text** to update the value of the control. If the value of **Text** matches an existing list entry, the value of the **ListIndex** property (the index of the current row) is set to the row that matches **Text**. If the value of **Text** does not match a row, **ListIndex** is set to -1.

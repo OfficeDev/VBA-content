@@ -30,9 +30,8 @@ This example adds a line to the active document. There is a short, narrow oval o
 
 ```vb
 Dim docActive As Document 
- 
-Set docActive = ActiveDocument 
 
+Set docActive = ActiveDocument 
 ```
 
 

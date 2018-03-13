@@ -93,28 +93,28 @@ Sub FindAddress()
     'Defining the variables.
     Dim GCell As Range
     Dim Page$, Txt$, MyPath$, MyWB$, MySheet$
-    
-    
+
+
     'The text for which to search.
     Txt = "Hello"
     'The path to the workbook in which to search.
     MyPath = "C:\Your\File\Path\"
     'The name of the workbook in which to search.
     MyWB = "YourFileName.xls"
-    
+
     'Use the current sheet as the place to store the data for which to search.
     MySheet = ActiveSheet.Name
-    
+
     'If an error occurs, use the error handling routine at the end of this file.
     On Error GoTo ErrorHandler
-    
+
     'Turn off screen updating, and then open the target workbook.
     Application.ScreenUpdating = False
     Workbooks.Open FileName:=MyPath &; MyWB
-    
+
     'Search for the specified text
     Set GCell = ActiveSheet.Cells.Find(Txt)
-    
+
     'Record the address of the data, along with the date, in the current workbook.
     With ThisWorkbook.ActiveSheet.Range("D10")
         .Value = "Address of " &; Txt &; ":"
@@ -124,7 +124,7 @@ Sub FindAddress()
         .Columns.AutoFit
         .Offset(1, 1).Columns.AutoFit
     End With
-    
+
     'Close the data workbook, without saving any changes, and turn screen updating back on.
     ActiveWorkbook.Close savechanges:=False
     Application.ScreenUpdating = True
@@ -139,7 +139,7 @@ Select Case Err.Number
             Application.ScreenUpdating = True
             MsgBox "The workbook " &; MyWB &; " could not be found in the path" &; vbCrLf &; MyPath &; "."
         Exit Sub
-        
+
         'Common error #2: the specified text wasn't in the target workbook.
         Case 9, 91
             ThisWorkbook.Sheets(MySheet).Range("D10:E11").ClearContents
@@ -147,7 +147,7 @@ Select Case Err.Number
             Application.ScreenUpdating = True
             MsgBox "The value " &; Txt &; " was not found."
         Exit Sub
-        
+
         'General case: turn screenupdating back on, and exit.
         Case Else
             Application.ScreenUpdating = True
@@ -161,11 +161,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Concepts

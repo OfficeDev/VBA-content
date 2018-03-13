@@ -21,10 +21,11 @@ Specifies the maximum number of characters a user can enter in a  **TextBox** or
 The  **MaxLength** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. An integer indicating the allowable number of characters.|
+| <strong>Part</strong> | <strong>Description</strong>                                        |
+|:----------------------|:--------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                           |
+| <em>Long</em>         | Optional. An integer indicating the allowable number of characters. |
+
  **Remarks**
 Setting the  **MaxLength** property to 0 indicates there is no limit other than that created by memory constraints.
 

@@ -20,10 +20,11 @@ Sets or returns the fixed height or width of the tabs in [points](vbe-glossary.m
 The  **TabFixedHeight** and **TabFixedWidth** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Single_|Optional. The number of points of the height or width of the tabs on a  **TabStrip** or **MultiPage**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                     |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                                                        |
+| <em>Single</em>       | Optional. The number of points of the height or width of the tabs on a  <strong>TabStrip</strong> or <strong>MultiPage</strong>. |
+
  **Settings**
 If the value is 0, tab widths are automatically adjusted so that each tab is wide enough to accommodate its contents and each row of tabs spans the width of the control.
 If the value is greater than 0, all tabs have an identical width as specified by this property.

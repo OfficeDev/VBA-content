@@ -16,7 +16,6 @@ In most ways, a tab control works like other controls on a form and can be refer
 
 ```vb
 Form1.Controls!TabControl1 
-
 ```
 
 However, because the  **Controls** collection is the default collection of the **[Form](form-object-access.md)** object, you do not have to explicitly refer to the **Controls** collection. That is, you can omit the reference to the **Controls** collection from the expression, like this:
@@ -25,7 +24,6 @@ However, because the  **Controls** collection is the default collection of the *
 
 ```vb
 Form1!TabControl1 
-
 ```
 
 
@@ -40,7 +38,6 @@ For example, to change the value of the  **[Caption](page-caption-property-acces
 
 ```vb
 TabControl1.Pages(0).Caption = "First Page" 
-
 ```
 
 Because each page is a member of the form's  **Controls** collection, you can refer to a page solely by its **Name** property without referring to the tab control's name or its **Pages** collection. For example, to change the value of the **Caption** property of a page with its **Name** property set to Page1, use the following statement:
@@ -50,7 +47,6 @@ Because each page is a member of the form's  **Controls** collection, you can re
 
 ```vb
 Page1.Caption = "First Page" 
-
 ```
 
 
@@ -63,7 +59,6 @@ The  **Pages** collection has one property, **[Count](pages-count-property-acces
 
 ```vb
 TabControl1.Pages.Count 
-
 ```
 
 
@@ -74,7 +69,6 @@ A tab control's default property is  **[Value](tabcontrol-value-property-access.
 
 ```vb
 TabControl1.Value 
-
 ```
 
 
@@ -87,7 +81,6 @@ Setting a tab control's  **Value** property at run time changes the focus to the
 
 ```vb
 TabControl1 = 2 
-
 ```
 
 This is useful if you set a tab control's  **[Style](tabcontrol-style-property-access.md)** property to None (which displays no tabs) and want to use command buttons on the form to determine which page has the focus. To use a command button to display a page, add an event procedure to the button's **[OnClick](commandbutton-onclick-property-access.md)** event that sets the tab control's **Value** property to the integer that identifies the appropriate page.
@@ -99,7 +92,6 @@ By using the  **Value** property with the **Pages** collection, you can set prop
 
 ```vb
 TabControl1.Pages(TabControl1).Visible = False 
-
 ```
 
 Each page in a tab control also has a  **PageIndex** property that specifies the position of a page within the **Pages** collection using the same numbering sequence as the tab control's **Value** property: 0 for the first page, 1 for the second page, and so on. Setting the value of a page's **PageIndex** property changes the order in which pages appear in the tab control. For example, if you wanted to make a page named Page1 the second page, you'd use the following statement:
@@ -109,7 +101,6 @@ Each page in a tab control also has a  **PageIndex** property that specifies the
 
 ```vb
 Page1.PageIndex = 1 
-
 ```
 
 The  **PageIndex** property is more typically set at design time in a page's property sheet. You can also set the page order by right-clicking the border of a tab control and then clicking **Page Order** on the shortcut menu.
@@ -122,7 +113,6 @@ The controls you place on a tab control page are part of the same collection as 
 
 ```vb
 Forms!Employees!HomePhone 
-
 ```
 
 Because each control on a form has its own  **Controls** collection, you can also refer to the controls on a tab control as members of its **Controls** collection. For example, the following code enumerates (lists) all the controls on the tab control of the Employees form.
@@ -132,25 +122,25 @@ Because each control on a form has its own  **Controls** collection, you can als
 
 ```vb
 Sub ListTabControlControls() 
- 
+
    Dim tabCtl As TabControl 
    Dim ctlCurrent As Control 
- 
+
 On Error GoTo ErrorHandler 
- 
+
    ' Return reference to tab control on Employees form. 
    Set tabCtl = Forms!Employees!TabCtl0 
- 
+
    ' List all controls on the tab control in the Debug window. 
    For Each ctlCurrent In tabCtl 
       Debug.Print ctlCurrent.Name 
    Next ctlCurrent 
- 
+
    Set tabCtl = Nothing 
    Set ctlCurrent = Nothing 
- 
+
    Exit Sub 
- 
+
 ErrorHandler: 
    MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
 End Sub
@@ -163,17 +153,17 @@ Additionally, each page on a tab control has its own  **Controls** collection. B
 
 ```vb
 Sub ListPageControls() 
- 
+
    Dim tabCtl As TabControl 
    Dim pagCurrent As Page 
    Dim ctlCurrent As Control 
    Dim intPageNum As Integer 
- 
+
 On Error GoTo ErrorHandler 
- 
+
    ' Return reference to tab control on Employees form. 
    Set tabCtl = Forms!Employees!TabCtl0 
- 
+
    ' List all controls for each page on the tab control in the 
    ' Debug window. 
    For Each pagCurrent In tabCtl.Pages 
@@ -184,13 +174,13 @@ On Error GoTo ErrorHandler
       Next ctlCurrent 
       Debug.Print 
    Next pagCurrent 
- 
+
    Set tabCtl = Nothing 
    Set ctlCurrent = Nothing 
    Set pagCurrent = Nothing 
- 
+
    Exit Sub 
- 
+
 ErrorHandler: 
    MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
 End Sub

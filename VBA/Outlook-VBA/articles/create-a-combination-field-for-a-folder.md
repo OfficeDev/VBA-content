@@ -30,7 +30,7 @@ ms.date: 06/08/2017
     
 11. Click  **OK** twice.
     
-12.  To position the field between the other fields in the view, click the field, and then click **Move Up** or **Move Down**. 
+12. To position the field between the other fields in the view, click the field, and then click **Move Up** or **Move Down**. 
     
     To remove the field from the view, click  **Remove**.
     

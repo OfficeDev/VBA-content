@@ -41,12 +41,11 @@ The following example adds an error message to the collection.
 
 ```
 Dim objCustomXMLValidationErrors as CustomXMLValidationErrors 
- 
+
 On Error GoTo Err 
- 
+
 ' Adds the specified error message to the collection. 
 objCustomXMLValidationErrors.Add("//badTag", "ValidationError", "To add content to this stream, it must be valid, well-formed XML.", True) 
-
 ```
 
 

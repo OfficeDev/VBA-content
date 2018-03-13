@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Error (ADO/WFC Syntax)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,13 +19,12 @@ ms.date: 06/08/2017
 
 
 ```
- 
+
 public String Invalid DDUE based on source, error:link not allowed in code, link filename:mdprodescription_HV10294309.xml() 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdpronativeerror_HV10294539.xml() 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdpronumber_HV10294545.xml() 
 public String Invalid DDUE based on source, error:link not allowed in code, link filename:mdproerrsource_HV10294791.xml() 
 public String Invalid DDUE based on source, error:link not allowed in code, link filename:mdprosqlstate_HV10294801.xml() 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

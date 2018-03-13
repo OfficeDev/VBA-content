@@ -53,7 +53,6 @@ With ActiveSheet.PivotTables("PivotTable1")
  .Position = 0 
  End With 
 End With 
-
 ```
 
 

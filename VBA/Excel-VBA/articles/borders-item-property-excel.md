@@ -37,15 +37,23 @@ Returns a  **[Border](border-object-excel.md)** object that represents one of th
 
 
 
-| **XlBordersIndex** can be one of these **XlBordersIndex** constants.|
-| **xlDiagonalDown**|
-| **xlDiagonalUp**|
-| **xlEdgeBottom**|
-| **xlEdgeLeft**|
-| **xlEdgeRight**|
-| **xlEdgeTop**|
-| **xlInsideHorizontal**|
-| **xlInsideVertical**|
+| <strong>XlBordersIndex</strong> can be one of these <strong>XlBordersIndex</strong> constants.|
+| 
+<strong>xlDiagonalDown</strong>|
+| 
+<strong>xlDiagonalUp</strong>|
+| 
+<strong>xlEdgeBottom</strong>|
+| 
+<strong>xlEdgeLeft</strong>|
+| 
+<strong>xlEdgeRight</strong>|
+| 
+<strong>xlEdgeTop</strong>|
+| 
+<strong>xlInsideHorizontal</strong>|
+| 
+<strong>xlInsideVertical</strong>|
 
 ## Example
 

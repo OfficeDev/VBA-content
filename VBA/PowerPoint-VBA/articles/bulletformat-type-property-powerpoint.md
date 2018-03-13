@@ -35,11 +35,15 @@ The value of the  **Type** property can be one of these **PpBulletType** constan
 
 ||
 |:-----|
-|**ppBulletMixed**|
-|**ppBulletNone**|
-|**ppBulletNumbered**|
-|**ppBulletPicture**|
-|**ppBulletUnnumbered**|
+|<strong>ppBulletMixed</strong>|
+|
+<strong>ppBulletNone</strong>|
+|
+<strong>ppBulletNumbered</strong>|
+|
+<strong>ppBulletPicture</strong>|
+|
+<strong>ppBulletUnnumbered</strong>|
 
 ## See also
 

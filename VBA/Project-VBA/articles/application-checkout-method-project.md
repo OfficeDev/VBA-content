@@ -35,14 +35,13 @@ This example verifies that a project is not checked out by another user and can 
 
 ```vb
 Sub CheckOutProject(docCheckOut As String) 
- 
+
  ' Determine if project can be checked out. 
  If Projects.CanCheckOut(docCheckOut) = True Then 
  Projects.CheckOut docCheckOut 
  Else 
  MsgBox "Unable to check out this project at this time." 
  End If 
-
 ```
 
 

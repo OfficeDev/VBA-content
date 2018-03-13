@@ -29,10 +29,11 @@ The  **AutoTab** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|Generates a tab when the last allowable character in a text box is entered.|
-|No|**False**|(Default) Doesn't generate a tab when the last allowable character in a text box is entered.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                 |
+|:-------------------------|:------------------------------|:---------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | Generates a tab when the last allowable character in a text box is entered.                  |
+| No                       | <strong>False</strong>        | (Default) Doesn't generate a tab when the last allowable character in a text box is entered. |
+
 You can also set the default for this property by setting a control's  **DefaultControl** property in Visual Basic.
 
 You can also create an input mask for a text box control bound to a field by setting the  **InputMask** property for the field in the form's underlying table or query. If the field is dragged to a form from the field list, the field's input mask is inherited by the text box control.

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Object is invalid or no longer set. (Error 3420)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -21,20 +21,19 @@ Possible causes:
 
 
 - The object has been closed.
-    
+
 - The object has been orphaned (the parent object has been closed or deleted).
-    
+
 - The object is out of scope.
-    
+
 - The object library is not registered in the Microsoft Windows Registry.
-    
+
 - You are trying to reference a method or property of the collection, but you have not assigned it to a variable first. For example, to reference the  **Name** property, use the following:
-    
+
 ```vb
   Dim dbsPublish As Database 
 Set dbsPublish = OpenDatabase("BIBLIO.mdb")
 dbname = dbsPublish.Name
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

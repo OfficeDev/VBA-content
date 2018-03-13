@@ -63,8 +63,6 @@ With Windows(2)
     .View.Paste
 
 End With
-
-
 ```
 
 

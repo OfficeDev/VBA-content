@@ -27,11 +27,12 @@ Occurs immediately before a protected view window or a document in a protected v
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _PvWindow_|Required| **ProtectedViewWindow**|The protected view window that is closed.|
-| _CloseReason_|Required| **[INT]**|A constant in the [WdProtectedViewCloseReason](wdprotectedviewclosereason-enumeration-word.md) enumeration that specifies the reason the protected view window is closed.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the window does not close when the procedure is finished.
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data Type</strong>           | <strong>Description</strong>                                                                                                                                                 |
+|:----------------------|:-----------------------------------|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>PvWindow</em>     | Required                           | <strong>ProtectedViewWindow</strong> | The protected view window that is closed.                                                                                                                                    |
+| <em>CloseReason</em>  | Required                           | <strong>[INT]</strong>               | A constant in the [WdProtectedViewCloseReason](wdprotectedviewclosereason-enumeration-word.md) enumeration that specifies the reason the protected view window is closed.    |
+| <em>Cancel</em>       | Required                           | <strong>Boolean</strong>             | <strong>False</strong> when the event occurs. If the event procedure sets this argument to <strong>True</strong> , the window does not close when the procedure is finished. |
+
  **Note**  If the  **ProtectedViewWindowsBeforeClose** event is called as part of the[ProtectedView.Edit](protectedviewwindow-edit-method-word.md) method, setting _Cancel_ to **True** produces no action.
 
 |
@@ -48,13 +49,13 @@ The following code example assumes that you have declared an application variabl
 ```vb
 Private Sub App_ProtectedViewWindowBeforeClose(ByVal PvWindow As ProtectedViewWindow, ByVal CloseReason As Long, Cancel As Boolean) 
 Dim intResponse As Integer 
- 
+
     intResponse = MsgBox("Do you really " _ 
         &; "want to close the document?", _ 
         vbYesNo) 
- 
+
     If intResponse = vbNo Then Cancel = True 
- 
+
 End Sub
 ```
 

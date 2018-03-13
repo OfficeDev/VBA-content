@@ -29,12 +29,13 @@ Can be one of the  **XlAxisCrosses** constants listed in the following table.
 
 
 
-|**Constant**|**Meaning**|
-|:-----|:-----|
-| **xlAxisCrossesAutomatic**|Microsoft Excel sets the axis crossing point.|
-| **xlMinimum**|The axis crosses at the minimum value.|
-| **xlMaximum**|The axis crosses at the maximum value.|
-| **xlAxisCrossesCustom**|The  **[CrossesAt](axis-crossesat-property-excel.md)** property specifies the axis crossing point.|
+| <strong>Constant</strong>               | <strong>Meaning</strong>                                                                                                                                                                   |
+|:----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>xlAxisCrossesAutomatic</strong> | Microsoft Excel sets the axis crossing point.                                                                                                                                              |
+| <strong>xlMinimum</strong>              | The axis crosses at the minimum value.                                                                                                                                                     |
+| <strong>xlMaximum</strong>              | The axis crosses at the maximum value.                                                                                                                                                     |
+| <strong>xlAxisCrossesCustom</strong>    | The  <strong><a href="axis-crossesat-property-excel.md" data-raw-source="[CrossesAt](axis-crossesat-property-excel.md)">CrossesAt</a></strong> property specifies the axis crossing point. |
+
 This property isn't available for radar charts. For 3-D charts, this property can only be applied to the value axis and indicates where the plane defined by the category axes crosses the value axis.
 
 This property can be used for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category.

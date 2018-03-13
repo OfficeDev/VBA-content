@@ -21,18 +21,20 @@ Lets you tile a picture in a form or page.
 The  **PictureTiling** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether a picture is repeated across a background.|
+| <strong>Part</strong> | <strong>Description</strong>                                 |
+|:----------------------|:-------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                    |
+| <em>Boolean</em>      | Optional. Whether a picture is repeated across a background. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The picture is tiled across the background.|
-|**False**|The picture is not tiled across the background (default).|
+| <strong>Value</strong> | <strong>Description</strong>                              |
+|:-----------------------|:----------------------------------------------------------|
+| <strong>True</strong>  | The picture is tiled across the background.               |
+| <strong>False</strong> | The picture is not tiled across the background (default). |
+
  **Remarks**
 If a picture is smaller than the form or page that contains it, you can tile the picture on the form or page.
 The tiling pattern depends on the current setting of the  **PictureAlignment** and **PictureSizeMode** properties. For example, if **PictureAlignment** is set to **fmPictureAlignmentTopLeft**, the tiling pattern starts at the upper left and repeats the picture across the form or page and down the height of the form or page. If **PictureSizeMode** is set to **fmPictureSizeModeClip**, the tiling pattern crops the last tile if it doesn't completely fit on the form or page.

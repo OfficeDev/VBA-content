@@ -82,7 +82,6 @@ The following is an example of the XML schema definition.
     </xs:unique>
   </xs:element>
 </xs:schema>
-
 ```
 
 

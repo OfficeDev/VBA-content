@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FieldSize Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -30,15 +30,16 @@ If the  **DataType** property is set to Number, the **FieldSize** property setti
 
 
 
-|**Setting**|**Description**|**Decimal precision**|**Storage size**|
-|:-----|:-----|:-----|:-----|
-|Byte|Stores numbers from 0 to 255 (no fractions).|None|1 byte|
-|Decimal|Stores numbers from -10^38-1 through 10^38-1 (.adp)Stores numbers from -10^28-1 through 10^28-1 (.mdb, .accdb)|28|2 bytes|
-|Integer|Stores numbers from -32,768 to 32,767 (no fractions).|None|2 bytes|
-|Long Integer|(Default) Stores numbers from -2,147,483,648 to 2,147,483,647 (no fractions).|None|4 bytes|
-|Single|Stores numbers from -3.402823E38 to -1.401298E-45 for negative values and from 1.401298E-45 to 3.402823E38 for positive values.|7|4 bytes|
-|Double|Stores numbers from -1.79769313486231E308 to -4.94065645841247E-324 for negative values and from4.94065645841247E-324 to 1.79769313486231E308 for positive values.|15|8 bytes|
-|Replication ID|Globally unique identifier (GUID)|N/A|16 bytes|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                                                                                       | <strong>Decimal precision</strong> | <strong>Storage size</strong> |
+|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------|
+| Byte                     | Stores numbers from 0 to 255 (no fractions).                                                                                                                       | None                               | 1 byte                        |
+| Decimal                  | Stores numbers from -10^38-1 through 10^38-1 (.adp)Stores numbers from -10^28-1 through 10^28-1 (.mdb, .accdb)                                                     | 28                                 | 2 bytes                       |
+| Integer                  | Stores numbers from -32,768 to 32,767 (no fractions).                                                                                                              | None                               | 2 bytes                       |
+| Long Integer             | (Default) Stores numbers from -2,147,483,648 to 2,147,483,647 (no fractions).                                                                                      | None                               | 4 bytes                       |
+| Single                   | Stores numbers from -3.402823E38 to -1.401298E-45 for negative values and from 1.401298E-45 to 3.402823E38 for positive values.                                    | 7                                  | 4 bytes                       |
+| Double                   | Stores numbers from -1.79769313486231E308 to -4.94065645841247E-324 for negative values and from4.94065645841247E-324 to 1.79769313486231E308 for positive values. | 15                                 | 8 bytes                       |
+| Replication ID           | Globally unique identifier (GUID)                                                                                                                                  | N/A                                | 16 bytes                      |
+
 You can set this property only from the table's property sheet.
 
 To set the size of a field from Visual Basic , use the DAO  **Size** property to read and set the maximum size of Text fields (for data types other than Text, the DAO **Type** property setting automatically determines the **Size** property setting).

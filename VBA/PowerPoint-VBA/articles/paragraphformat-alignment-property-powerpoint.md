@@ -30,14 +30,21 @@ The value of the  **Alignment** property can be one of these **PpParagraphAlignm
 
 ||
 |:-----|
-|**ppAlignCenter**|
-|**ppAlignDistribute**|
-|**ppAlignJustify**|
-|**ppAlignJustifyLow**|
-|**ppAlignLeft**|
-|**ppAlignmentMixed**|
-|**ppAlignRight**|
-|**ppAlignThaiDistribute**|
+|<strong>ppAlignCenter</strong>|
+|
+<strong>ppAlignDistribute</strong>|
+|
+<strong>ppAlignJustify</strong>|
+|
+<strong>ppAlignJustifyLow</strong>|
+|
+<strong>ppAlignLeft</strong>|
+|
+<strong>ppAlignmentMixed</strong>|
+|
+<strong>ppAlignRight</strong>|
+|
+<strong>ppAlignThaiDistribute</strong>|
 
 ## Example
 

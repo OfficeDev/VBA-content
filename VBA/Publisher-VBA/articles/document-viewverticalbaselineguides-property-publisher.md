@@ -42,7 +42,6 @@ The following example makes the vertical baseline guides visible in the active d
 Dim objDocument As Document 
 Set objDocument = ActiveDocument 
 objDocument.ViewVerticalBaseLineGuides = True 
-
 ```
 
 

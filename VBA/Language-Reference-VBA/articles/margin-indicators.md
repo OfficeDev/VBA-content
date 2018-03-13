@@ -19,9 +19,10 @@ You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** t
 
 
 
-|**Margin Indicator**|**Margin Indicator Name**|**Description**|
-|:-----|:-----|:-----|
-|
+| <strong>Margin Indicator</strong> | <strong>Margin Indicator Name</strong> | <strong>Description</strong> |
+|:----------------------------------|:---------------------------------------|:-----------------------------|
+|                                   |                                        |                              |
+
 ![Breakpoint](images/wbrkpnt_ZA01201808.gif)
 
 |Breakpoint|Indicates that you have set a breakpoint using the  **Toggle** **Breakpoint** command on the **Debug** menu. You can toggle the breakpoint by placing your mouse pointer in the margin indicator region and clicking.|

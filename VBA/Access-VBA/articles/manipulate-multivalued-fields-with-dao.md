@@ -24,7 +24,6 @@ The following code example shows how to instantiate the child recordset of the A
 ```vb
 Set rs  = db.OpenRecordSet("Tasks") 
 Set childRs = rs.AssignedTo.Value 
-
 ```
 
 The child recordset has the same functionality as any DAO  **Recordset** object.
@@ -37,24 +36,24 @@ Sub BrowseMultiValueField()
    Dim db As Database 
    Dim rs As Recordset 
    Dim childRS As Recordset 
-     
+
    Set db = CurrentDb() 
-     
+
    ' Open a Recordset for the Tasks table. 
    Set rs = db.OpenRecordset("Tasks") 
    rs.MoveFirst 
-     
+
    Do Until rs.EOF 
       ' Print the name of the task to the Immediate window. 
       Debug.Print rs!TaskName.Value 
-         
+
       ' Open a Recordset for the multivalued field. 
       Set childRS = rs!AssignedTo.Value 
- 
+
          ' Exit the loop if the multivalued field contains no records. 
          Do Until childRS.EOF 
              childRS.MoveFirst 
-                     
+
              ' Loop through the records in the child recordset. 
              Do Until childRS.EOF 
                  ' Print the owner(s) of the task to the Immediate  

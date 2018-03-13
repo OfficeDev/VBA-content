@@ -49,7 +49,6 @@ The following example displays the number of subfolders in the shared workspace 
     MsgBox strFolderInfo, vbInformation + vbOKOnly, _ 
         "Folders in Shared Workspace" 
     Set swsFolder = Nothing 
-
 ```
 
 

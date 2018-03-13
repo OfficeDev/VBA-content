@@ -35,10 +35,13 @@ The value of the  **Type** property can be one of these **PpSoundEffectType** co
 
 ||
 |:-----|
-|**ppSoundEffectsMixed**|
-|**ppSoundFile**|
-|**ppSoundNone**|
-|**ppSoundStopPrevious**|
+|<strong>ppSoundEffectsMixed</strong>|
+|
+<strong>ppSoundFile</strong>|
+|
+<strong>ppSoundNone</strong>|
+|
+<strong>ppSoundStopPrevious</strong>|
 
 ## See also
 

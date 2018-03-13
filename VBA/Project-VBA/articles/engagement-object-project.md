@@ -21,6 +21,7 @@ Engagement objects expose a  **Resource Plan** view, enabling users to display a
 
 
 
+
 |**Name **|
 |:-----|
 |[Delete](http://msdn.microsoft.com/library/87c34ec9-157f-5f76-150d-036161f35363%28Office.15%29.aspx)|
@@ -29,6 +30,7 @@ Engagement objects expose a  **Resource Plan** view, enabling users to display a
 
 ## Properties
 <a name="properties"> </a>
+
 
 
 
@@ -71,6 +73,7 @@ Engagement objects expose a  **Resource Plan** view, enabling users to display a
 
 ## See also
 <a name="properties"> </a>
+
 
 
 #### Other resources

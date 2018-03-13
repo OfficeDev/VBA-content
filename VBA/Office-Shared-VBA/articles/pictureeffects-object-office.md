@@ -27,24 +27,23 @@ The following code sets several Picture Effect fill properties on a shape in a M
 Sub PictureEffectSample() 
 ' Setup a slide with one picture shape. 
 With ActivePresentation.Slides(1).Shapes(1).Fill.PictureEffects 
- 
+
  ' Insert a 150% Saturation effect. 
  .Insert(msoEffectSaturation).EffectParameters(1).Value = 1.5 
- 
+
  ' Insert Brightness/Contrast effect and set values to -50% Brightness and +25% Contrast. 
  Dim brightnessContrast As PictureEffect 
  Set brightnessContrast = .Insert(msoEffectBrightnessContrast) 
  brightnessContrast.EffectParameters(1).Value = -0.5 
  brightnessContrast.EffectParameters(2).Value = 0.25 
- 
+
  ' Remove all Picture effects. 
  While .Count > 0 
  .Delete (1) 
  Wend 
- 
+
 End With 
 End Sub 
-
 ```
 
 

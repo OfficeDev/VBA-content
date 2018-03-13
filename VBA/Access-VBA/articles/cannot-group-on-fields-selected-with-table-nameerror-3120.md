@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot group on fields selected with '*' <table name>. (Error 3120)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,7 +22,6 @@ You tried to execute a SELECT statement that groups or totals all fields in a si
 
 ```sql
 SELECT Orders.* FROM Orders GROUP BY ShipVia;
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

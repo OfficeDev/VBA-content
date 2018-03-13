@@ -55,7 +55,7 @@ Sub UnknownRange()
         Dim FirstRow&;, FirstCol&;, LastRow&;, LastCol&;
         Dim myUsedRange As Range
         FirstRow = Cells.Find(What:="*", SearchDirection:=xlNext, SearchOrder:=xlByRows).Row
-        
+
         On Error Resume Next
         FirstCol = Cells.Find(What:="*", SearchDirection:=xlNext, SearchOrder:=xlByColumns).Column
         If Err.Number <> 0 Then
@@ -65,7 +65,7 @@ Sub UnknownRange()
             "that should be removed in order to locate the range.", 64, "Please unmerge all cells."
             Exit Sub
         End If
-        
+
         LastRow = Cells.Find(What:="*", SearchDirection:=xlPrevious, SearchOrder:=xlByRows).Row
         LastCol = Cells.Find(What:="*", SearchDirection:=xlPrevious, SearchOrder:=xlByColumns).Column
         Set myUsedRange = Range(Cells(FirstRow, FirstCol), Cells(LastRow, LastCol))
@@ -78,6 +78,7 @@ End Sub
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
 

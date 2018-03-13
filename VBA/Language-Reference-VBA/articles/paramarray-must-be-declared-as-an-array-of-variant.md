@@ -19,7 +19,6 @@ Sub MySub(ParamArray VarArg())
     . . . 
 End Sub 
 Call MySub ("First arg", 2, 3.54) 
-
 ```
 
 
@@ -28,11 +27,11 @@ This error has the following causes and solutions:
 
 
 - In the definition of the [procedure](vbe-glossary.md), the  **ParamArray** parameter is defined as an array of a type other than **Variant**.
-    
+
     Redeclare the parameter type as an array of  **Variant** elements.
-    
+
 - No data type was specified for the  **ParamArray** parameter, but the procedure definition is within the scope of a **Def**_type_ statement, so the parameter is implicitly declared as having a type other than **Variant**. Use an explicit **As Variant** clause in the specification of the **ParamArray** parameter.
-    
+
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

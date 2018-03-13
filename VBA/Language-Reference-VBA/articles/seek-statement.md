@@ -20,10 +20,11 @@ Sets the position for the next read/write operation within a file opened using t
 The  **Seek** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
-| _position_|Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                 |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| <em>filenumber</em>   | Required. Any valid [file number](vbe-glossary.md).                                                                          |
+| <em>position</em>     | Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur. |
+
  **Remarks**
 Record numbers specified in  **Get** and **Put** statements override file positioning performed by **Seek**.
 Performing a file-write operation after a  **Seek** operation beyond the end of a file extends the file. If you attempt a **Seek** operation to a negative or zero position, an error occurs.
@@ -38,7 +39,6 @@ Type Record ' Define user-defined type.
  ID As Integer 
  Name As String * 20 
 End Type 
-
 ```
 
 For files opened in Random mode,  **Seek** sets the next record.
@@ -57,7 +57,6 @@ For RecordNumber = MaxSize To 1 Step - 1
  Get #1, , MyRecord ' Read record. 
 Next RecordNumber 
 Close #1 ' Close file. 
-
 ```
 
 For files opened in modes other than Random mode,  **Seek** sets the byte position at which the next operation takes place. Assume is a file containing a few lines of text.
@@ -75,7 +74,6 @@ For NextChar = MaxSize To 1 Step -1
  MyChar = Input(1, #1) ' Read character. 
 Next NextChar 
 Close #1 ' Close file. 
-
 ```
 
 

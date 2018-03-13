@@ -43,10 +43,11 @@ For the  _eType_ parameter, pass a value from the **VisThemeTypes** enumeration,
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visThemeTypeColor**|1|Color themes.|
-| **visThemeTypeEffect**|2|Effect themes.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong> |
+|:------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visThemeTypeColor</strong>  | 1                      | Color themes.                |
+| <strong>visThemeTypeEffect</strong> | 2                      | Effect themes.               |
+
 For the  _NameArray()_ out parameter, pass an empty, dimensionless array of type **String** . Visio returns the array filled with locale-independent names of themes contained in the document.
 
 To get the names of locale-specific themes in the document, use the  **[Document.GetThemeNames](document-getthemenames-method-visio.md)** method.
@@ -64,27 +65,27 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 ```vb
 Public Sub GetThemeNamesU_Example() 
- 
+
     Dim astrNames() As String 
     Dim strThemeName As String 
     Dim intArrayCounter As Integer 
-     
+
     ActiveDocument.GetThemeNamesU visThemeTypeColor, astrNames 
-     
+
     For intArrayCounter = LBound(astrNames) To UBound(astrNames) 
         strThemeName = astrNames(intArrayCounter) 
         Debug.Print strThemeName 
     Next 
-     
+
     Debug.Print "-------------------------------------------" 
-     
+
     ActiveDocument.GetThemeNamesU visThemeTypeEffect, astrNames 
-     
+
     For intArrayCounter = LBound(astrNames) To UBound(astrNames) 
         strThemeName = astrNames(intArrayCounter) 
         Debug.Print strThemeName 
     Next 
-     
+
 End Sub
 ```
 

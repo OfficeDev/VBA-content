@@ -34,12 +34,13 @@ The  **TransparentBackground** property value can be one of the **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**| Parts of the picture whose color is the transparency color do not appear transparent.|
-| **msoTriStateMixed**|Return value only, indicating a combination of  **msoTrue** and **msoFalse** for the specified objects..|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**| Parts of the picture whose color is the transparency color appear transparent.|
+| <strong>Constant</strong>          | <strong>Description</strong>                                                                                                       |
+|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| <strong>msoFalse</strong>          | Parts of the picture whose color is the transparency color do not appear transparent.                                              |
+| <strong>msoTriStateMixed</strong>  | Return value only, indicating a combination of  <strong>msoTrue</strong> and <strong>msoFalse</strong> for the specified objects.. |
+| <strong>msoTriStateToggle</strong> | Set value that switches between  <strong>msoTrue</strong> and <strong>msoFalse</strong>.                                           |
+| <strong>msoTrue</strong>           | Parts of the picture whose color is the transparency color appear transparent.                                                     |
+
 Use the  **[TransparencyColor](pictureformat-transparencycolor-property-publisher.md)** property to set the transparent color.
 
 This property applies only to bitmaps.
@@ -54,17 +55,16 @@ This example sets the color blue as the transparent color for shape one in the a
 
 ```vb
 With ActiveDocument.Pages(1).Shapes(1) 
- 
+
  With .PictureFormat 
  .TransparentBackground = msoTrue 
  ' RGB(0, 0, 255) is the color blue. 
  .TransparencyColor = RGB(0, 0, 255) 
  End With 
- 
- .Fill.Visible = False 
- 
-End With 
 
+ .Fill.Visible = False 
+
+End With 
 ```
 
 

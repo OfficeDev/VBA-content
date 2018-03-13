@@ -33,8 +33,6 @@ This example uses the  **DateValue** function to convert a string to a date. You
 ```vb
 Dim MyDate
 MyDate = DateValue("February 12, 1969")    ' Return a date.
-
-
 ```
 
 

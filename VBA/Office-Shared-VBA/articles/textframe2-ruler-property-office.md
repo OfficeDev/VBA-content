@@ -29,7 +29,6 @@ The following code shows how to set a left-aligned tab stop at 2 inches (144 poi
 Dim pptSlide As Slide 
 Set pptSlide = ActivePresentation.Slides(1) 
 pptSlide.Shapes(1).TextFrame2.Ruler.TabStops.Add ppTabStopLeft, 144 
-
 ```
 
 

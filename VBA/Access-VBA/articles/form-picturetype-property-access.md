@@ -29,10 +29,11 @@ The  **PictureType** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|0|(Default) The picture is embedded in the object and becomes part of the database file.|
-|1|The picture is linked to the object. Microsoft Access stores a pointer to the location of the picture on the disk.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                                       |
+|:-------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| 0                        | (Default) The picture is embedded in the object and becomes part of the database file.                             |
+| 1                        | The picture is linked to the object. Microsoft Access stores a pointer to the location of the picture on the disk. |
+
 This property can be set only in form Design view or report Design view.
 
 For controls, you can set the default for this property by using the default control style or the  **DefaultControl** property in Visual Basic.
@@ -54,7 +55,6 @@ The following example links the picture in the "Customer Photo" image control on
 
 ```vb
 Forms("Order Entry").Controls("Customer Photo").PictureType = 1 
-
 ```
 
 

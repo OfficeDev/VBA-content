@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Recordset (ADO/WFC Syntax)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,10 +19,9 @@ ms.date: 06/08/2017
 
 
 ```
- 
+
 public Invalid DDUE based on source, error:link not allowed in code, link filename:mdobjodbrec_HV10294709.xml() 
 public Recordset(Object r ) 
-
 ```
 
  **Methods**
@@ -30,7 +29,7 @@ public Recordset(Object r )
 
 
 ```js
- 
+
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthaddnew_HV10294007.xml(Object[] fieldList , Object[] valueList ) 
 public void addNew(Object[] valueList ) 
 public void addNew() 
@@ -76,7 +75,6 @@ public void update(Object[] valueList )
 public void update(Object[] fieldList , Object[] valueList ) 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthupdatebatch_HV10294893.xml() 
 public void updateBatch(int affectRecords ) 
-
 ```
 
  **Properties**
@@ -84,7 +82,7 @@ public void updateBatch(int affectRecords )
 
 
 ```js
- 
+
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproabpage_HV10293970.xml() 
 public void setAbsolutePage(int page ) 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproabpos_HV10293979.xml() 
@@ -133,7 +131,6 @@ public com.ms.wfc.data.Field Invalid DDUE based on source, error:link not allowe
 public com.ms.wfc.data.Field getField(String n ) 
 public com.ms.wfc.data.Fields Invalid DDUE based on source, error:link not allowed in code, link filename:mdcolfields_HV10294366.xml() 
 public AdoProperties Invalid DDUE based on source, error:link not allowed in code, link filename:mdcolproperties_HV10294633.xml() 
-
 ```
 
  **Events**
@@ -142,7 +139,7 @@ For more information about ADO/WFC events, see [ADO Event Instantiation by Langu
 
 
 ```
- 
+
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtendofrecordset_HV10294329.xml(RecordsetEventHandler handler ) 
 public void removeOnEndOfRecordset(RecordsetEventHandler handler ) 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtfetchcomplete_HV10294356.xml(RecordsetEventHandler handler ) 
@@ -165,7 +162,6 @@ public void Invalid DDUE based on source, error:link not allowed in code, link f
 public void removeOnWillChangeRecordset(RecordsetEventHandler handler ) 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdevtwillmove_HV10294955.xml(RecordsetEventHandler handler ) 
 public void removeOnWillMove(RecordsetEventHandler handler ) 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

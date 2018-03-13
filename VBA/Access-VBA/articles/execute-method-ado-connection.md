@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Execute Method (ADO Connection)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -25,6 +25,7 @@ Executes the specified query, SQL statement, stored procedure, or provider-speci
 ## Syntax
 <a name="sectionSection1"> </a>
 
+
 For a non-row-returning command string:
 
 For a row-returning command string:
@@ -33,6 +34,7 @@ For a row-returning command string:
 ## Return Value
 <a name="sectionSection2"> </a>
 
+
 Returns a [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-f427de712df1%28Office.15%29.aspx) object reference.
 
 
@@ -40,18 +42,19 @@ Returns a [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-
 <a name="sectionSection3"> </a>
 
 
+
 -  _CommandText_
-    
+
 - A  **String** value that contains the SQL statement, stored procedure, a URL, or provider-specific text to execute. Optionally, table names can be used but only if the provider is SQL aware. For example if a table name of "Customers" is used, ADO will automatically prepend the standard SQL Select syntax to form and pass "SELECT * FROM Customers" as a T-SQL statement to the provider.
-    
+
 -  _RecordsAffected_
-    
+
 - Optional. A  **Long** variable to which the provider returns the number of records that the operation affected.
-    
+
 -  _Options_
-    
+
 - Optional. A  **Long** value that indicates how the provider should evaluate the _CommandText_ argument. Can be a bitmask of one or more[CommandTypeEnum](http://msdn.microsoft.com/library/9ad8f155-88a0-00eb-2855-1e1a2a677437%28Office.15%29.aspx) or[ExecuteOptionEnum](http://msdn.microsoft.com/library/bd6d44a3-e471-7aa0-3e65-6775334de2ff%28Office.15%29.aspx) values.
-    
+
 
  **Note**  Use the  **ExecuteOptionEnum** value **adExecuteNoRecords** to improve performance by minimizing internal processing.
 
@@ -60,6 +63,7 @@ Do not use the  **CommandTypeEnum** values of **adCmdFile** or **adCmdTableDirec
 
 ## Remarks
 <a name="sectionSection4"> </a>
+
 
 Using the  **Execute** method on a[Connection](http://msdn.microsoft.com/library/c16023aa-0321-2513-ee71-255d6ffba03d%28Office.15%29.aspx) object executes whatever query you pass to the method in the _CommandText_ argument on the specified connection. If the _CommandText_ argument specifies a row-returning query, any results that the execution generates are stored in a new **Recordset** object. If the command is not intended to return results (for example, an SQL UPDATE query) the provider returns **Nothing** as long as the option **adExecuteNoRecords** is specified; otherwise Execute returns a closed **Recordset**.
 

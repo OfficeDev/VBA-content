@@ -61,12 +61,11 @@ The following example adds a new horizontal text box to the first page of the ac
 
 ```vb
 Dim shpTextBox As Shape 
- 
+
 Set shpTextBox = ActiveDocument.Pages(1).Shapes.AddTextBox _ 
  (Orientation:=pbTextOrientationHorizontal, _ 
  Left:=144, Top:=144, _ 
  Width:=72, Height:=18) 
-
 ```
 
 

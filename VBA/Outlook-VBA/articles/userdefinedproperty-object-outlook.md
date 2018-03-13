@@ -35,11 +35,11 @@ The following Visual Basic for Applications (VBA) example displays the name of a
 ```
 Sub DisplayUserProperties(ByRef FolderToCheck As Folder) 
  Dim objProperty As UserDefinedProperty 
- 
+
  ' Print the name of the specified Folder object 
  ' reference to the Immediate window. 
  Debug.Print "--- Folder: " &amp; FolderToCheck.Name 
- 
+
  ' Check if there are any user-defined properties 
  ' associated with the Folder object reference. 
  If FolderToCheck.UserDefinedProperties.Count = 0 Then 
@@ -84,14 +84,13 @@ Sub DisplayUserProperties(ByRef FolderToCheck As Folder)
  Case Else 
  strPropertyInfo = strPropertyInfo &amp; " (Unknown)" 
  End Select 
- 
+
  ' Print the name and type of the user-defined property 
  ' to the Immediate window. 
  Debug.Print strPropertyInfo 
  Next 
  End If 
 End Sub 
-
 ```
 
 

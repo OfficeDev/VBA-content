@@ -37,11 +37,12 @@ Keep in mind that when you create the property, you must correctly specify its  
 
 
 
-|**If the property setting is**|**Then the Type property setting should be**|
-|:-----|:-----|
-|A string|**adLongVarWChar** or **adVarWChar**|
-|**True** / **False**|**adBoolean**|
-|An integer|**adInteger**|
+| <strong>If the property setting is</strong>    | <strong>Then the Type property setting should be</strong>      |
+|:-----------------------------------------------|:---------------------------------------------------------------|
+| A string                                       | <strong>adLongVarWChar</strong> or <strong>adVarWChar</strong> |
+| <strong>True</strong> / <strong>False</strong> | <strong>adBoolean</strong>                                     |
+| An integer                                     | <strong>adInteger</strong>                                     |
+
 The following table lists some Access-defined properties that apply to ADO objects.
 
 

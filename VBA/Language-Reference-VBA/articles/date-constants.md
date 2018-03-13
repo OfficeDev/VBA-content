@@ -20,16 +20,17 @@ The  _firstdayofweek_[argument](vbe-glossary.md) has the following values:
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseSystem**|0|Use NLS API setting.|
-|**vbSunday**|1|Sunday (default)|
-|**vbMonday**|2|Monday|
-|**vbTuesday**|3|Tuesday|
-|**vbWednesday**|4|Wednesday|
-|**vbThursday**|5|Thursday|
-|**vbFriday**|6|Friday|
-|**vbSaturday**|7|Saturday|
+| <strong>Constant</strong>    | <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------------|:-----------------------|:-----------------------------|
+| <strong>vbUseSystem</strong> | 0                      | Use NLS API setting.         |
+| <strong>vbSunday</strong>    | 1                      | Sunday (default)             |
+| <strong>vbMonday</strong>    | 2                      | Monday                       |
+| <strong>vbTuesday</strong>   | 3                      | Tuesday                      |
+| <strong>vbWednesday</strong> | 4                      | Wednesday                    |
+| <strong>vbThursday</strong>  | 5                      | Thursday                     |
+| <strong>vbFriday</strong>    | 6                      | Friday                       |
+| <strong>vbSaturday</strong>  | 7                      | Saturday                     |
+
 The  _firstdayofyear_ argument has the following values:
 
 

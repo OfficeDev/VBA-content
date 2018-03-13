@@ -22,10 +22,11 @@ Returns a  **File** object corresponding to the file in a specified path.
 The  **GetFile** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _filespec_|Required. The  _filespec_ is the path (absolute or relative) to a specific file.|
+| <strong>Part</strong> | <strong>Description</strong>                                                            |
+|:----------------------|:----------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                      |
+| <em>filespec</em>     | Required. The  <em>filespec</em> is the path (absolute or relative) to a specific file. |
+
  **Remarks**
 An error occurs if the specified file does not exist.
 

@@ -33,7 +33,6 @@ With myDocument.Shapes(1).TextEffect
  .FontBold = True 
  .FontItalic = True 
 End With 
-
 ```
 
 

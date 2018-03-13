@@ -32,7 +32,7 @@ The  **References** collection corresponds to the list of references in the **Re
 
 
 - [Display List of References - Both Good and Broken](http://www.utteraccess.com/forum/Display-List-References-t126939.html)
-    
+
 
 ## Example
 
@@ -47,11 +47,13 @@ MsgBox "There are " &; Application.References.Count &; " references."
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

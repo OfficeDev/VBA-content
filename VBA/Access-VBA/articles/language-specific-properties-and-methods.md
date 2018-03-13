@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Language-Specific Properties and Methods
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -21,19 +21,20 @@ Properties and methods that are available only in Asian or right-to-left languag
 
 
 
-|**Property or Method**|**Object**|
-|:-----|:-----|
-|**[AsianLineBreak](http://msdn.microsoft.com/library/2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad%28Office.15%29.aspx)**|**TextBox**|
-|**[FuriganaControl](http://msdn.microsoft.com/library/7d70cffa-06bb-fa9d-686a-0031558aa5a3%28Office.15%29.aspx)**|**TextBox**|
-|**IMEHold**|**ComboBox, ListBox, TextBox**|
-|**IMEMode**|**ComboBox, Label, ListBox, TextBox**|
-|**IMESentenceMode**|**ComboBox, Label, ListBox, TextBox**|
-|**KeyboardLanguage**|**ComboBox, TextBox**|
-|**NumeralShapes**|**ComboBox, Label, ListBox, TextBox**|
-|**[Orientation](http://msdn.microsoft.com/library/25a13b75-48b7-69bd-4d70-e9aa8a94652e%28Office.15%29.aspx)**|**Form**|
-|**[PostalAddress](http://msdn.microsoft.com/library/04fb29c5-909c-a0b8-a4aa-7701abc07037%28Office.15%29.aspx)**|**TextBox**|
-|**ReadingOrder**|**CheckBox, ComboBox, CommandButton, Label, ListBox, OptionButton, TextBox, ToggleButton**|
-|**ScrollBarAlign**|**ComboBox, ListBox, TextBox**|
+| <strong>Property or Method</strong>                                                                                                                                                                                                                                       | <strong>Object</strong>                                                                                 |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
+| <strong><a href="http://msdn.microsoft.com/library/2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad%28Office.15%29.aspx" data-raw-source="[AsianLineBreak](http://msdn.microsoft.com/library/2ee42bb4-e6ae-c6b4-ef6a-71de5d35edad%28Office.15%29.aspx)">AsianLineBreak</a></strong>   | <strong>TextBox</strong>                                                                                |
+| <strong><a href="http://msdn.microsoft.com/library/7d70cffa-06bb-fa9d-686a-0031558aa5a3%28Office.15%29.aspx" data-raw-source="[FuriganaControl](http://msdn.microsoft.com/library/7d70cffa-06bb-fa9d-686a-0031558aa5a3%28Office.15%29.aspx)">FuriganaControl</a></strong> | <strong>TextBox</strong>                                                                                |
+| <strong>IMEHold</strong>                                                                                                                                                                                                                                                  | <strong>ComboBox, ListBox, TextBox</strong>                                                             |
+| <strong>IMEMode</strong>                                                                                                                                                                                                                                                  | <strong>ComboBox, Label, ListBox, TextBox</strong>                                                      |
+| <strong>IMESentenceMode</strong>                                                                                                                                                                                                                                          | <strong>ComboBox, Label, ListBox, TextBox</strong>                                                      |
+| <strong>KeyboardLanguage</strong>                                                                                                                                                                                                                                         | <strong>ComboBox, TextBox</strong>                                                                      |
+| <strong>NumeralShapes</strong>                                                                                                                                                                                                                                            | <strong>ComboBox, Label, ListBox, TextBox</strong>                                                      |
+| <strong><a href="http://msdn.microsoft.com/library/25a13b75-48b7-69bd-4d70-e9aa8a94652e%28Office.15%29.aspx" data-raw-source="[Orientation](http://msdn.microsoft.com/library/25a13b75-48b7-69bd-4d70-e9aa8a94652e%28Office.15%29.aspx)">Orientation</a></strong>         | <strong>Form</strong>                                                                                   |
+| <strong><a href="http://msdn.microsoft.com/library/04fb29c5-909c-a0b8-a4aa-7701abc07037%28Office.15%29.aspx" data-raw-source="[PostalAddress](http://msdn.microsoft.com/library/04fb29c5-909c-a0b8-a4aa-7701abc07037%28Office.15%29.aspx)">PostalAddress</a></strong>     | <strong>TextBox</strong>                                                                                |
+| <strong>ReadingOrder</strong>                                                                                                                                                                                                                                             | <strong>CheckBox, ComboBox, CommandButton, Label, ListBox, OptionButton, TextBox, ToggleButton</strong> |
+| <strong>ScrollBarAlign</strong>                                                                                                                                                                                                                                           | <strong>ComboBox, ListBox, TextBox</strong>                                                             |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

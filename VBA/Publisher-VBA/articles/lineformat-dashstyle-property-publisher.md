@@ -45,7 +45,6 @@ With ActiveDocument.Pages(1).Shapes _
  .DashStyle = msoLineDashDotDot 
  .ForeColor.RGB = RGB(50, 0, 128) 
 End With 
-
 ```
 
 

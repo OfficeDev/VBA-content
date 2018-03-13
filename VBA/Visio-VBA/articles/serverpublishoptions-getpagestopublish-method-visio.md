@@ -44,10 +44,11 @@ The  _Flags_ parameter can be one of the following **VisLangFlags** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visLangLocal**|0|The page name is a local name.|
-| **visLangUniversal**|1|The page name is a universal name.|
+| <strong>Constant</strong>         | <strong>Value</strong> | <strong>Description</strong>       |
+|:----------------------------------|:-----------------------|:-----------------------------------|
+| <strong>visLangLocal</strong>     | 0                      | The page name is a local name.     |
+| <strong>visLangUniversal</strong> | 1                      | The page name is a universal name. |
+
 The  _PublishPages_ parameter can be one of the following **VisPublishPages** constants.
 
 

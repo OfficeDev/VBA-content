@@ -35,20 +35,33 @@ The value of the  **SlideSize** property can be one of these **PpSlideSizeType**
 
 ||
 |:-----|
-|**ppSlideSize35MM**|
-|**ppSlideSizeA3Paper**|
-|**ppSlideSizeA4Paper**|
-|**ppSlideSizeB4ISOPaper**|
-|**ppSlideSizeB4JISPaper**|
-|**ppSlideSizeB5ISOPaper**|
-|**ppSlideSizeB5JISPaper**|
-|**ppSlideSizeBanner**|
-|**ppSlideSizeCustom**|
-|**ppSlideSizeHagakiCard**|
-|**ppSlideSizeLedgerPaper**|
-|**ppSlideSizeLetterPaper**|
-|**ppSlideSizeOnScreen**|
-|**ppSlideSizeOverhead**|
+|<strong>ppSlideSize35MM</strong>|
+|
+<strong>ppSlideSizeA3Paper</strong>|
+|
+<strong>ppSlideSizeA4Paper</strong>|
+|
+<strong>ppSlideSizeB4ISOPaper</strong>|
+|
+<strong>ppSlideSizeB4JISPaper</strong>|
+|
+<strong>ppSlideSizeB5ISOPaper</strong>|
+|
+<strong>ppSlideSizeB5JISPaper</strong>|
+|
+<strong>ppSlideSizeBanner</strong>|
+|
+<strong>ppSlideSizeCustom</strong>|
+|
+<strong>ppSlideSizeHagakiCard</strong>|
+|
+<strong>ppSlideSizeLedgerPaper</strong>|
+|
+<strong>ppSlideSizeLetterPaper</strong>|
+|
+<strong>ppSlideSizeOnScreen</strong>|
+|
+<strong>ppSlideSizeOverhead</strong>|
 
 ## Example
 

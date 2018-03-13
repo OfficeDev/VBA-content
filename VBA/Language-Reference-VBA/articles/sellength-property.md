@@ -21,10 +21,11 @@ The number of characters selected in a text box or the text portion of a combo b
 The  **SelLength** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. A numeric expression specifying the number of characters selected. For  **SelLength** and **SelStart**, the valid range of settings is 0 to the total number of characters in the edit area of a **ComboBox** or **TextBox**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                |
+|:----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                                                                                                                                                                                                                   |
+| <em>Long</em>         | Optional. A numeric expression specifying the number of characters selected. For  <strong>SelLength</strong> and <strong>SelStart</strong>, the valid range of settings is 0 to the total number of characters in the edit area of a <strong>ComboBox</strong> or <strong>TextBox</strong>. |
+
  **Remarks**
 The  **SelLength** property is always valid, even when the control does not have[focus](vbe-glossary.md). Setting  **SelLength** to a value less than zero creates an error. Attempting to set **SelLength** to a value greater than the number of characters available in a control results in a value equal to the number of characters in the control.
 

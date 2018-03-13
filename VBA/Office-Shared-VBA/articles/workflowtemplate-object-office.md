@@ -31,18 +31,17 @@ Sub DisplayWorkTemplates()
 Dim objWorkflowTemplates As WorkflowTemplates 
 Dim objWorkflowTemplate As WorkflowTemplate 
 Dim cnt As Integer 
- 
+
 Set objWorkflowTemplates = Document.GetWorkflowTemplates() 
- 
+
 For cnt = 1 To objWorkflowTemplates.Count 
  Debug.Print objWorkflowTemplate(cnt).Name 
 Next 
- 
+
 Set objWorkflowTemplate = objWorkflowTemplates(1) 
 objWorkflowTemplate.Show 
- 
-End Sub 
 
+End Sub 
 ```
 
 

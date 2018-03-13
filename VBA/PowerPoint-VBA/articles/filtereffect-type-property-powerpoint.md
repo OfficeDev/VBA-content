@@ -35,14 +35,21 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 
 ||
 |:-----|
-|**MsoAnimTypeColor**|
-|**MsoAnimTypeMixed**|
-|**MsoAnimTypeMotion**|
-|**MsoAnimTypeNone**|
-|**MsoAnimTypeProperty**|
-|**MsoAnimTypeRoatation**|
-|**MsoAnimTypeScale**|
-|**MsoAnimTypeTransition**|
+|<strong>MsoAnimTypeColor</strong>|
+|
+<strong>MsoAnimTypeMixed</strong>|
+|
+<strong>MsoAnimTypeMotion</strong>|
+|
+<strong>MsoAnimTypeNone</strong>|
+|
+<strong>MsoAnimTypeProperty</strong>|
+|
+<strong>MsoAnimTypeRoatation</strong>|
+|
+<strong>MsoAnimTypeScale</strong>|
+|
+<strong>MsoAnimTypeTransition</strong>|
 
 ## See also
 

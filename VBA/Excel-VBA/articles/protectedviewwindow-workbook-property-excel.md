@@ -42,11 +42,10 @@ A workbook displayed in a protected view window is not a member of the  **[Workb
 
 ```vb
 Dim wbProtected As Workbook 
- 
+
 If Application.ProtectedViewWindows.Count > 0 Then 
     Set wbProtected = Application.ProtectedViewWindows(1).Workbook 
 End If 
-
 ```
 
 

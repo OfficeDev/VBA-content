@@ -14,16 +14,17 @@ Constants that specify the type of document information, passed to the  **Remove
 
 
 
-|**Name**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**ppRDIAll**|99|Remove all document information.|
-|**ppRDIComments**|1|Remove comments.|
-|**ppRDIContentType**|16|Remove content type information.|
-|**ppRDIDocumentManagementPolicy**|15|Remove document management policy information.|
-|**ppRDIDocumentProperties**|8|Remove document properties.|
-|**ppRDIDocumentServerProperties**|14|Remove document server properties.|
-|**ppRDIDocumentWorkspace**|10|Remove document workspace information. |
-|**ppRDIInkAnnotations**|11|Remove Ink annotations.
+| <strong>Name</strong>                          | <strong>Value</strong> | <strong>Description</strong>                   |
+|:-----------------------------------------------|:-----------------------|:-----------------------------------------------|
+| <strong>ppRDIAll</strong>                      | 99                     | Remove all document information.               |
+| <strong>ppRDIComments</strong>                 | 1                      | Remove comments.                               |
+| <strong>ppRDIContentType</strong>              | 16                     | Remove content type information.               |
+| <strong>ppRDIDocumentManagementPolicy</strong> | 15                     | Remove document management policy information. |
+| <strong>ppRDIDocumentProperties</strong>       | 8                      | Remove document properties.                    |
+| <strong>ppRDIDocumentServerProperties</strong> | 14                     | Remove document server properties.             |
+| <strong>ppRDIDocumentWorkspace</strong>        | 10                     | Remove document workspace information.         |
+| <strong>ppRDIInkAnnotations</strong>           | 11                     | Remove Ink annotations.                        |
+
  **Note**  This constant has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
 |

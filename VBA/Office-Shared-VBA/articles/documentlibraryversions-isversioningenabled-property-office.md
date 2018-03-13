@@ -45,7 +45,6 @@ The following example displays the number of saved versions of the active docume
  vbInformation + vbOKOnly, "No Versioning" 
  End If 
  Set dlvVersions = Nothing 
-
 ```
 
 

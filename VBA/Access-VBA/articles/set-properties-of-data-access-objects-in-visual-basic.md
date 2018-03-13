@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Set Properties of Data Access Objects in Visual Basic
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -45,23 +45,25 @@ Keep in mind that when you create the property, you must correctly specify its  
 
 
 
-|**If the property setting is**|**Then the Type property setting should be**|
-|:-----|:-----|
-|A string|**dbText**|
-|**True** / **False**|**dbBoolean**|
-|An integer|**dbInteger**|
+| <strong>If the property setting is</strong>    | <strong>Then the Type property setting should be</strong> |
+|:-----------------------------------------------|:----------------------------------------------------------|
+| A string                                       | <strong>dbText</strong>                                   |
+| <strong>True</strong> / <strong>False</strong> | <strong>dbBoolean</strong>                                |
+| An integer                                     | <strong>dbInteger</strong>                                |
+
 The following table lists some Microsoft Access-defined properties that apply to DAO objects.
 
 
 
-|**DAO object**|**Microsoft Access-defined properties**|
-|:-----|:-----|
-|**Database**|**AppTitle**, **AppIcon**, **StartupShowDBWindow**, **StartupShowStatusBar**, **AllowShortcutMenus**, **AllowFullMenus**, **AllowBuiltInToolbars**, **AllowToolbarChanges**, **AllowBreakIntoCode**, **AllowSpecialKeys**, **Replicable**, **ReplicationConflictFunction**|
-|SummaryInfo  **Container**|**Title**, **Subject**, **Author**, **Manager**, **Company**, **Category**, **Keywords**, **Comments**, **Hyperlink Base** (See the **Summary** tab of the ** _DatabaseName_ Properties** dialog box, available by clicking **Database Properties** on the **File** menu.)|
-|UserDefined  **Container**|(See the  **Summary** tab of the ** _DatabaseName_ Properties** dialog box, available by clicking **Database Properties** on the **File** menu.)|
-|**TableDef**|**DatasheetBackColor**, **DatasheetCellsEffect**, **DatasheetFontHeight**, **DatasheetFontItalic**, **DatasheetFontName**, **DatasheetFontUnderline**, **DatasheetFontWeight**, **DatasheetForeColor**, **DatasheetGridlinesBehavior**, **DatasheetGridlinesColor**, **Description**, **FrozenColumns**, **RowHeight**, **ShowGrid**|
-|**QueryDef**|**DatasheetBackColor**, **DatasheetCellsEffect**, **DatasheetFontHeight**, **DatasheetFontItalic**, **DatasheetFontName**, **DatasheetFontUnderline**, **DatasheetFontWeight**, **DatasheetForeColor**, **DatasheetGridlinesBehavior**, **DatasheetGridlinesColor**, **Description**, **FailOnError**, **FrozenColumns**, **LogMessages**, **MaxRecords**, **RecordLocks**, **RowHeight**, **ShowGrid, UseTransaction**|
-|**Field**|**Caption**, **ColumnHidden**, **ColumnOrder**, **ColumnWidth**, **DecimalPlaces**, **Description**, **Format**, **InputMask**|
+| <strong>DAO object</strong>             | <strong>Microsoft Access-defined properties</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|:----------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Database</strong>               | <strong>AppTitle</strong>, <strong>AppIcon</strong>, <strong>StartupShowDBWindow</strong>, <strong>StartupShowStatusBar</strong>, <strong>AllowShortcutMenus</strong>, <strong>AllowFullMenus</strong>, <strong>AllowBuiltInToolbars</strong>, <strong>AllowToolbarChanges</strong>, <strong>AllowBreakIntoCode</strong>, <strong>AllowSpecialKeys</strong>, <strong>Replicable</strong>, <strong>ReplicationConflictFunction</strong>                                                                                                                                                                                                                            |
+| SummaryInfo  <strong>Container</strong> | <strong>Title</strong>, <strong>Subject</strong>, <strong>Author</strong>, <strong>Manager</strong>, <strong>Company</strong>, <strong>Category</strong>, <strong>Keywords</strong>, <strong>Comments</strong>, <strong>Hyperlink Base</strong> (See the <strong>Summary</strong> tab of the ** <em>DatabaseName</em> Properties** dialog box, available by clicking <strong>Database Properties</strong> on the <strong>File</strong> menu.)                                                                                                                                                                                                                     |
+| UserDefined  <strong>Container</strong> | (See the  <strong>Summary</strong> tab of the ** <em>DatabaseName</em> Properties** dialog box, available by clicking <strong>Database Properties</strong> on the <strong>File</strong> menu.)                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| <strong>TableDef</strong>               | <strong>DatasheetBackColor</strong>, <strong>DatasheetCellsEffect</strong>, <strong>DatasheetFontHeight</strong>, <strong>DatasheetFontItalic</strong>, <strong>DatasheetFontName</strong>, <strong>DatasheetFontUnderline</strong>, <strong>DatasheetFontWeight</strong>, <strong>DatasheetForeColor</strong>, <strong>DatasheetGridlinesBehavior</strong>, <strong>DatasheetGridlinesColor</strong>, <strong>Description</strong>, <strong>FrozenColumns</strong>, <strong>RowHeight</strong>, <strong>ShowGrid</strong>                                                                                                                                        |
+| <strong>QueryDef</strong>               | <strong>DatasheetBackColor</strong>, <strong>DatasheetCellsEffect</strong>, <strong>DatasheetFontHeight</strong>, <strong>DatasheetFontItalic</strong>, <strong>DatasheetFontName</strong>, <strong>DatasheetFontUnderline</strong>, <strong>DatasheetFontWeight</strong>, <strong>DatasheetForeColor</strong>, <strong>DatasheetGridlinesBehavior</strong>, <strong>DatasheetGridlinesColor</strong>, <strong>Description</strong>, <strong>FailOnError</strong>, <strong>FrozenColumns</strong>, <strong>LogMessages</strong>, <strong>MaxRecords</strong>, <strong>RecordLocks</strong>, <strong>RowHeight</strong>, <strong>ShowGrid, UseTransaction</strong> |
+| <strong>Field</strong>                  | <strong>Caption</strong>, <strong>ColumnHidden</strong>, <strong>ColumnOrder</strong>, <strong>ColumnWidth</strong>, <strong>DecimalPlaces</strong>, <strong>Description</strong>, <strong>Format</strong>, <strong>InputMask</strong>                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

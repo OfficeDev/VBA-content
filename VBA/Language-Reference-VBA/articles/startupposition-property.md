@@ -19,12 +19,13 @@ Returns or sets a value specifying the position of a  **UserForm** when it first
 You can use one of four settings for  **StartUpPosition**:
 
 
-|**Setting**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**Manual**|0|No initial setting specified.|
-|**CenterOwner**|1|Center on the item to which the  **UserForm** belongs.|
-|**CenterScreen**|2|Center on the whole screen.|
-|**WindowsDefault**|3|Position in upper-left corner of screen.|
+| <strong>Setting</strong>        | <strong>Value</strong> | <strong>Description</strong>                                        |
+|:--------------------------------|:-----------------------|:--------------------------------------------------------------------|
+| <strong>Manual</strong>         | 0                      | No initial setting specified.                                       |
+| <strong>CenterOwner</strong>    | 1                      | Center on the item to which the  <strong>UserForm</strong> belongs. |
+| <strong>CenterScreen</strong>   | 2                      | Center on the whole screen.                                         |
+| <strong>WindowsDefault</strong> | 3                      | Position in upper-left corner of screen.                            |
+
  **Remarks**
 You can set the  **StartUpPosition** property programmatically or from the **Properties** window.
 

@@ -33,7 +33,6 @@ With Charts("Chart1").SeriesCollection(1).Trendlines(1)
  .Forward2 = 5 
  .Backward2 = .5 
 End With 
-
 ```
 
 

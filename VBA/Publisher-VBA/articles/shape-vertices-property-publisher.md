@@ -49,7 +49,7 @@ This example assigns the vertex coordinates for shape one in the active publicat
 Dim vertArray As Variant 
 Dim sngX1 As Single 
 Dim sngY1 As Single 
- 
+
 With ActiveDocument.Pages(1).Shapes(1) 
  vertArray = .Vertices 
  sngX1 = vertArray(1, 1) 
@@ -67,7 +67,6 @@ This example creates a curve that has the same geometric description as shape on
 With ActiveDocument.Pages(1).Shapes 
  .AddCurve SafeArrayOfPoints:=.Item(1).Vertices 
 End With 
-
 ```
 
 

@@ -45,7 +45,6 @@ With ActiveDocument.Pages(1).Shapes _
  .ZOrder msoSendBackward 
  Loop 
 End With 
-
 ```
 
 

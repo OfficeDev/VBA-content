@@ -50,7 +50,6 @@ From Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA), a 
 ```
 object.AddToFavorites "SomeString " 
 object.AddToFavorites 
-
 ```
 
 From C/C++, if a string is supplied, pass a  **Variant** of type VT_BSTR. The application assigns the string as the title of the shortcut. If a string is not supplied, pass a **Variant** of type VT_EMPTY, or of type VT_ERROR and HRESULT DISP_E_PARAMNOTFOUND.
@@ -71,35 +70,35 @@ Before running this macro, replace  _address_ with a valid Internet or intranet 
 
 ```vb
 Sub AddToFavorites_Example() 
- 
+
  Dim vsoShape As Visio.Shape 
  Dim vsoHyperlink As Visio.Hyperlink 
- 
+
  'Create a new shape to add the hyperlink to. 
  Set vsoShape = ActivePage.DrawRectangle(1, 2, 2, 1) 
  Set vsoHyperlink = vsoShape.AddHyperlink 
- 
+
  'Assign a description and an address to the hyperlink. 
  vsoHyperlink.Description = "Web site" 
  vsoHyperlink.Address = "http://address " 
- 
+
  'Use the default name for the new favorite link. 
  vsoHyperlink.AddToFavorites 
- 
+
  'Specify a different name for the new favorite link. 
  'You don't need to specify the URL extension. 
  vsoHyperlink.AddToFavorites "New Favorite Name" 
- 
+
  'Specify a different path to the favorite. 
  vsoHyperlink.AddToFavorites "path\favoriteName " 
- 
+
  'Set a hyperlink base to allow relative hyperlinks. 
  ThisDocument.HyperlinkBase = "path " 
- 
+
  'Specify a relative path to the Favorites folder. 
  'The URL extension is added automatically. 
  vsoHyperlink.AddToFavorites ".\favoriteName " 
- 
+
 End Sub
 ```
 

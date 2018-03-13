@@ -29,10 +29,11 @@ The  **NextRecord** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|(Default) The section advances to the next record.|
-|**False**|The section doesn't advance to the next record.|
+| <strong>Setting</strong> | <strong>Description</strong>                       |
+|:-------------------------|:---------------------------------------------------|
+| <strong>True</strong>    | (Default) The section advances to the next record. |
+| <strong>False</strong>   | The section doesn't advance to the next record.    |
+
 To set this property, specify an event procedure for a section's  **[OnFormat](section-onformat-property-access.md)** property.
 
 Microsoft Access sets this property to  **True** before each section's **Format** event.

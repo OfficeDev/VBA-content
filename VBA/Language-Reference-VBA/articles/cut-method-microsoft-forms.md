@@ -19,9 +19,10 @@ Removes selected information from an object and transfers it to the Clipboard.
 The  **Cut** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
 For a  **ComboBox** or **TextBox**, the **Cut** method removes currently selected text in the control to the Clipboard. This method does not require that the control have the[focus](vbe-glossary.md).
 On a  **Page**, **Frame**, or form, **Cut** removes currently selected controls to the Clipboard. This method only removes controls created at[run time](vbe-glossary.md).

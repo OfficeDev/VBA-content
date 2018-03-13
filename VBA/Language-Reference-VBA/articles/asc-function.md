@@ -36,8 +36,6 @@ Dim MyNumber
 MyNumber = Asc("A")    ' Returns 65.
 MyNumber = Asc("a")    ' Returns 97.
 MyNumber = Asc("Apple")    ' Returns 65.
-
-
 ```
 
 

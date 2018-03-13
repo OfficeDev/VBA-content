@@ -25,7 +25,7 @@ Returns the disk or Web path to the specified subdocument. Read-only  **String**
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the  **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](subdocument-name-property-word.md)** property to return the file name without the path.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "<http://MyServer>". Use the  <strong><a href="application-pathseparator-property-word.md" data-raw-source="[PathSeparator](application-pathseparator-property-word.md)">PathSeparator</a></strong> property to add the character that separates folders and drive letters. Use the <strong><a href="subdocument-name-property-word.md" data-raw-source="[Name](subdocument-name-property-word.md)">Name</a></strong> property to return the file name without the path.
 
 
  **Note**  You can use the  **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).

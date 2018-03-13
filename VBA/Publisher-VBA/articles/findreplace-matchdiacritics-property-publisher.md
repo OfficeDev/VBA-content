@@ -42,7 +42,7 @@ This example finds the first occurrence of the word "gegenüber" in a German doc
 
 ```vb
 Dim objDocument As Document 
- 
+
 Set objDocument = ActiveDocument 
 With objDocument.Find 
  .Clear 
@@ -50,7 +50,6 @@ With objDocument.Find
  .MatchDiacritics = True 
  .Execute 
 End With 
-
 ```
 
 

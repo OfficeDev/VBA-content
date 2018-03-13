@@ -20,21 +20,23 @@ Writes display-formatted data to a sequential file.
 The  **Print #** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
-| _outputlist_|Optional. [Expression](vbe-glossary.md) or list of expressions to print.|
+| <strong>Part</strong> | <strong>Description</strong>                                             |
+|:----------------------|:-------------------------------------------------------------------------|
+| <em>filenumber</em>   | Required. Any valid [file number](vbe-glossary.md).                      |
+| <em>outputlist</em>   | Optional. [Expression](vbe-glossary.md) or list of expressions to print. |
+
  **Settings**
 The  _outputlist_[argument](vbe-glossary.md) settings are:
 [{ **Spc(**_n_**)** |**Tab** [ **(**_n_**)** ]}] [ _expression_ ] [ _charpos_ ]
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**Spc(**_n_**)**|Used to insert space characters in the output, where  _n_ is the number of space characters to insert.|
-|**Tab(**_n_**)**|Used to position the insertion point to an absolute column number, where  _n_ is the column number. Use **Tab** with no argument to position the insertion point at the beginning of the next[print zone](vbe-glossary.md).|
-| _expression_|[Numeric expressions](vbe-glossary.md) or[string expressions](vbe-glossary.md) to print.|
-| _charpos_|Specifies the insertion point for the next character. Use a semicolon to position the insertion point immediately after the last character displayed. Use  **Tab(**_n_**)** to position the insertion point to an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
+| <strong>Setting</strong>                          | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|:--------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Spc(</strong><em>n</em><strong>)</strong> | Used to insert space characters in the output, where  <em>n</em> is the number of space characters to insert.                                                                                                                                                                                                                                                                                                                                                                 |
+| <strong>Tab(</strong><em>n</em><strong>)</strong> | Used to position the insertion point to an absolute column number, where  <em>n</em> is the column number. Use <strong>Tab</strong> with no argument to position the insertion point at the beginning of the next[print zone](vbe-glossary.md).                                                                                                                                                                                                                               |
+| <em>expression</em>                               | [Numeric expressions](vbe-glossary.md) or[string expressions](vbe-glossary.md) to print.                                                                                                                                                                                                                                                                                                                                                                                      |
+| <em>charpos</em>                                  | Specifies the insertion point for the next character. Use a semicolon to position the insertion point immediately after the last character displayed. Use  <strong>Tab(</strong><em>n</em><strong>)</strong> to position the insertion point to an absolute column number. Use <strong>Tab</strong> with no argument to position the insertion point at the beginning of the next print zone. If <em>charpos</em> is omitted, the next character is printed on the next line. |
+
  **Remarks**
 Data written with  **Print #** is usually read from a file with **Line Input #** or **Input**.
 If you omit  _outputlist_ and include only a list separator after _filenumber_, a blank line is printed to the file. Multiple expressions can be separated with either a space or a semicolon. A space has the same effect as a semicolon.
@@ -61,7 +63,7 @@ Print #1, "Zone 1"; Tab ; "Zone 2" ' Print in two print zones.
 Print #1, "Hello" ; " " ; "World" ' Separate strings with space. 
 Print #1, Spc(5) ; "5 leading spaces " ' Print five leading spaces. 
 Print #1, Tab(10) ; "Hello" ' Print word at column 10. 
- 
+
 ' Assign Boolean, Date, Null and Error values. 
 Dim MyBool, MyDate, MyNull, MyError 
 MyBool = False : MyDate = #February 12, 1969# : MyNull = Null 
@@ -74,7 +76,6 @@ Print #1, MyDate ; " is a date"
 Print #1, MyNull ; " is a null value" 
 Print #1, MyError ; " is an error value" 
 Close #1 ' Close file. 
-
 ```
 
 

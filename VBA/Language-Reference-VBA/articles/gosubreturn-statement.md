@@ -51,7 +51,6 @@ MyRoutine:
  Num = Num/2 ' Perform the division. 
  Return ' Return control to statement. 
 End Sub ' following the GoSub statement. 
-
 ```
 
 

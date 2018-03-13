@@ -52,7 +52,6 @@ For Each pvtField In pvtTable.PageFields
  rw = rw + 1 
  nwSheet.Cells(rw, 1).Value = pvtField.Name 
 Next pvtField 
-
 ```
 
 

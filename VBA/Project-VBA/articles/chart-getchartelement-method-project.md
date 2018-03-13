@@ -45,6 +45,7 @@ The  **GetChartElement** method returns **Nothing**. Returned values are in the 
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
 
+
  **Note**  The  **GetChartElement** method will be removed in the released version of Project 2013. The **Chart** object in Project does not implement events; so, a chart in Project cannot be animated with the **GetChartElement** method by interacting with mouse events.
 
 The  **GetChartElement** method is unusual because you specify values for only the first two arguments. Project returns data in the other arguments, and your code should examine those values when the method returns.
@@ -55,40 +56,41 @@ The value of  _ElementID_ after the method returns determines whether _Arg1_ and
 **Table 1. Information in Arg1 and Arg2, based on the element ID**
 
 
-|**ElementID Constant**|**Constant Value **|**Arg1**|**Arg2**|
-|:-----|:-----|:-----|:-----|
-|**xlAxis**|21|AxisIndex|AxisType|
-|**xlAxisTitle**|17|AxisIndex|AxisType|
-|**xlDisplayUnitLabel**|30|AxisIndex|AxisType|
-|**xlMajorGridlines**|15|AxisIndex|AxisType|
-|**xlMinorGridlines**|16|AxisIndex|AxisType|
-|**xlPivotChartDropZone**|32|DropZoneType|None|
-|**xlPivotChartFieldButton**|31|DropZoneType|PivotFieldIndex|
-|**xlDownBars**|20|GroupIndex|None|
-|**xlDropLines**|26|GroupIndex|None|
-|**xlHiLoLines**|25|GroupIndex|None|
-|**xlRadarAxisLabels**|27|GroupIndex|None|
-|**xlSeriesLines**|22|GroupIndex|None|
-|**xlUpBars**|18|GroupIndex|None|
-|**xlChartArea**|2|None|None|
-|**xlChartTitle**|4|None|None|
-|**xlCorners**|6|None|None|
-|**xlDataTable**|7|None|None|
-|**xlFloor**|23|None|None|
-|**xlLeaderLines**|29|None|None|
-|**xlLegend**|24|None|None|
-|**xlNothing**|28|None|None|
-|**xlPlotArea**|19|None|None|
-|**xlWalls**|5|None|None|
-|**xlDataLabel**|7|SeriesIndex|PointIndex|
-|**xlErrorBars**|9|SeriesIndex|None|
-|**xlLegendEntry**|12|SeriesIndex|None|
-|**xlLegendKey**|13|SeriesIndex|None|
-|**xlSeries**|3|SeriesIndex|PointIndex|
-|**xlShape**|14|ShapeIndex|None|
-|**xlTrendline**|8|SeriesIndex|TrendLineIndex|
-|**xlXErrorBars**|10|SeriesIndex|None|
-|**xlYErrorBars**|11|SeriesIndex|None|
+| <strong>ElementID Constant</strong>      | **Constant Value ** | <strong>Arg1</strong> | <strong>Arg2</strong> |
+|:-----------------------------------------|:--------------------|:----------------------|:----------------------|
+| <strong>xlAxis</strong>                  | 21                  | AxisIndex             | AxisType              |
+| <strong>xlAxisTitle</strong>             | 17                  | AxisIndex             | AxisType              |
+| <strong>xlDisplayUnitLabel</strong>      | 30                  | AxisIndex             | AxisType              |
+| <strong>xlMajorGridlines</strong>        | 15                  | AxisIndex             | AxisType              |
+| <strong>xlMinorGridlines</strong>        | 16                  | AxisIndex             | AxisType              |
+| <strong>xlPivotChartDropZone</strong>    | 32                  | DropZoneType          | None                  |
+| <strong>xlPivotChartFieldButton</strong> | 31                  | DropZoneType          | PivotFieldIndex       |
+| <strong>xlDownBars</strong>              | 20                  | GroupIndex            | None                  |
+| <strong>xlDropLines</strong>             | 26                  | GroupIndex            | None                  |
+| <strong>xlHiLoLines</strong>             | 25                  | GroupIndex            | None                  |
+| <strong>xlRadarAxisLabels</strong>       | 27                  | GroupIndex            | None                  |
+| <strong>xlSeriesLines</strong>           | 22                  | GroupIndex            | None                  |
+| <strong>xlUpBars</strong>                | 18                  | GroupIndex            | None                  |
+| <strong>xlChartArea</strong>             | 2                   | None                  | None                  |
+| <strong>xlChartTitle</strong>            | 4                   | None                  | None                  |
+| <strong>xlCorners</strong>               | 6                   | None                  | None                  |
+| <strong>xlDataTable</strong>             | 7                   | None                  | None                  |
+| <strong>xlFloor</strong>                 | 23                  | None                  | None                  |
+| <strong>xlLeaderLines</strong>           | 29                  | None                  | None                  |
+| <strong>xlLegend</strong>                | 24                  | None                  | None                  |
+| <strong>xlNothing</strong>               | 28                  | None                  | None                  |
+| <strong>xlPlotArea</strong>              | 19                  | None                  | None                  |
+| <strong>xlWalls</strong>                 | 5                   | None                  | None                  |
+| <strong>xlDataLabel</strong>             | 7                   | SeriesIndex           | PointIndex            |
+| <strong>xlErrorBars</strong>             | 9                   | SeriesIndex           | None                  |
+| <strong>xlLegendEntry</strong>           | 12                  | SeriesIndex           | None                  |
+| <strong>xlLegendKey</strong>             | 13                  | SeriesIndex           | None                  |
+| <strong>xlSeries</strong>                | 3                   | SeriesIndex           | PointIndex            |
+| <strong>xlShape</strong>                 | 14                  | ShapeIndex            | None                  |
+| <strong>xlTrendline</strong>             | 8                   | SeriesIndex           | TrendLineIndex        |
+| <strong>xlXErrorBars</strong>            | 10                  | SeriesIndex           | None                  |
+| <strong>xlYErrorBars</strong>            | 11                  | SeriesIndex           | None                  |
+
 ?
 
 Table 2 describes the meaning of  _Arg1_ and _Arg2_ after the method returns. Values in the **Argument** column are from Table 1.
@@ -112,6 +114,7 @@ Table 2 describes the meaning of  _Arg1_ and _Arg2_ after the method returns. Va
 ## Example
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
 
+
 The following example gets the chart element information for point (100, 100) in the chart. For example, if the point is within the plot area, output in the Immediate pane is  `idNum: 19, a: 0, b: 0`. From the information in Table 1,  **xlPlotArea** = 19.
 
 
@@ -124,16 +127,16 @@ Sub TestGetChartElements()
     Dim idNum As Long
     Dim a As Long
     Dim b As Long
-    
+
     reportName = "Simple scalar chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
-    
+
     ' Specify a point in the chart.
     x = 100
     y = 100
-    
+
     chartShape.Chart.GetChartElement x, y, idNum, a, b
-    
+
     Debug.Print "idNum: " &; idNum &; ", a: " &; a &; ", b: " &; b
 End Sub
 ```
@@ -141,6 +144,7 @@ End Sub
 
 ## See also
 <a name="pj15_VBAGetChartElement_Remarks"> </a>
+
 
 
 #### Other resources

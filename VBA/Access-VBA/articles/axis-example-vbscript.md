@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Axis Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -18,7 +18,7 @@ This Active Server Page displays OLAP data from an MDX Query string and writes t
 
 
 ```vb
- 
+
 <%@ Language=VBScript %> 
 <% 
 '************************************************************************ 
@@ -35,17 +35,17 @@ Response.Expires=0
 </HEAD> 
 <BODY bgcolor=Ivory> 
 <FONT FACE=Verdana> 
- 
+
 <% 
- 
+
 Dim cat,cst,i,j,strSource,csw,intDC0,intDC1,intPC0,intPC1 
- 
+
 '************************************************************************ 
 '*** Set Connection Objects for Multidimensional Catalog and Cellset 
 '************************************************************************ 
 Set cat = Server.CreateObject("ADOMD.Catalog") 
 Set cst = Server.CreateObject("ADOMD.CellSet") 
- 
+
 '************************************************************************ 
 '*** Use default settings of a known OLAP Server 
 '*** for Server Name for Connection Set Server Name Session Object 
@@ -57,7 +57,7 @@ Set cst = Server.CreateObject("ADOMD.CellSet")
    OLAPServerName = "Please set to present OLAP Server" 
    cat.ActiveConnection = "Data Source='" &; OLAPServerName &; _ 
       "';Initial Catalog='FoodMart';Provider='msolap';" 
- 
+
 '************************************************************************ 
 '*** Use default MDX Query string of a known query that works 
 '*** with default server Set MDXQuery Session Object to default value 
@@ -67,44 +67,44 @@ Set cst = Server.CreateObject("ADOMD.CellSet")
    strSource = strSource &; _ 
       "NON EMPTY [Store].[Store City].members ON ROWS" 
    strSource = strSource &; " FROM Sales" 
- 
+
 '************************************************************************ 
 '*** Set Cell Set Source property to strSource to be passed on cell set '*** open method 
 '************************************************************************ 
     cst.Source = strSource 
- 
+
 '************************************************************************ 
 '*** Set Cell Sets Active connection to use the current Catalogs Active  
 '*** connection 
 '************************************************************************ 
 Set cst.ActiveConnection = cat.ActiveConnection 
- 
+
 '************************************************************************ 
 '*** Using Open method, Open cell set 
 '************************************************************************ 
 cst.Open 
- 
+
 '************************************************************************ 
 '*** Set Dimension Counts minus 1 for Both Axes to intDC0, intDC1 
 '*** Set Position Counts minus 1 for Both Axes to intPC0, intPC1 
 '************************************************************************ 
 intDC0 = cst.Axes(0).DimensionCount-1 
 intDC1 = cst.Axes(1).DimensionCount-1 
- 
+
 intPC0 = cst.Axes(0).Positions.Count - 1 
 intPC1 = cst.Axes(1).Positions.Count - 1 
- 
+
 '************************************************************************ 
 '*** Create HTML Table structure to hold MDX Query return Record set 
 '************************************************************************ 
       Response.Write "<Table width=100% border=1>" 
- 
+
 '************************************************************************ 
 '*** Loop to create Column header 
 '************************************************************************ 
       For h=0 to intDC0 
          Response.Write "<TR>" 
- 
+
 '************************************************************************ 
 '*** Loop to create spaces in front of Column headers 
 '*** to align with Row header 
@@ -112,7 +112,7 @@ intPC1 = cst.Axes(1).Positions.Count - 1
          For c=0 to intDC1 
             Response.Write "<TD></TD>" 
          Next 
- 
+
 '************************************************************************ 
 '*** Iterate through Axes(0) Positions writing member captions to table  
 '*** header 
@@ -151,12 +151,11 @@ intPC1 = cst.Axes(1).Positions.Count - 1
          Response.Write "</TR>" 
       Next 
       Response.Write "</Table>" 
- 
+
 %> 
 </FONT> 
 </BODY> 
 </HTML> 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

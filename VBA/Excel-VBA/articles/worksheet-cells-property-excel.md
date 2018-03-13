@@ -75,26 +75,26 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
     Dim LastColumn As Long, keyColumn As Long, LastRow As Long
     Dim SortRange As Range
     LastColumn = Cells.Find(What:="*", After:=Range("A1"), SearchOrder:=xlByColumns, SearchDirection:=xlPrevious).Column
-    
+
     keyColumn = Target.Column
-    
+
     If keyColumn <= LastColumn Then
-    
+
         Application.ScreenUpdating = False
         Cancel = True
         LastRow = Cells(Rows.Count, keyColumn).End(xlUp).Row
         Set SortRange = Target.CurrentRegion
-        
+
         blnToggle = Not blnToggle
         If blnToggle = True Then
             SortRange.Sort Key1:=Cells(2, keyColumn), Order1:=xlAscending, Header:=xlYes
         Else
             SortRange.Sort Key1:=Cells(2, keyColumn), Order1:=xlDescending, Header:=xlYes
         End If
-    
+
         Set SortRange = Nothing
         Application.ScreenUpdating = True
-        
+
     End If
 End Sub
 ```
@@ -103,11 +103,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the co author of "Holy Macro! It's 2,500 Excel VBA Examples." 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Concepts

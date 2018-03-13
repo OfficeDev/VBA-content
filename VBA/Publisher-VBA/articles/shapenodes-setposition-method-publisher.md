@@ -47,14 +47,13 @@ This example moves the second node in the third shape in the active publication 
 Dim arrPoints As Variant 
 Dim intX As Integer 
 Dim intY As Integer 
- 
+
 With ActiveDocument.Pages(1).Shapes(3).Nodes 
  arrPoints = .Item(2).Points 
  intX = arrPoints(1, 1) 
  intY = arrPoints(1, 2) 
  .SetPosition Index:=2, X1:=intX + 200, Y1:=intY + 300 
 End With 
-
 ```
 
 

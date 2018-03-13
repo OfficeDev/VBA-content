@@ -39,7 +39,7 @@ To run Visual Basic code at intervals specified by the  **TimerInterval** proper
 
 
 - [Delay Event/Actions for Set Time Interval](http://www.utteraccess.com/wiki/index.php/Delay_Event/Actions_for_Set_Time_Interval)
-    
+
 
 ## Example
 
@@ -50,7 +50,7 @@ The following example shows how to create a flashing button on a form by display
 Sub Form_Load() 
     Me.TimerInterval = 1000 
 End Sub 
- 
+
 Sub Form_Timer() 
     Static intShowPicture As Integer 
     If intShowPicture Then 
@@ -68,11 +68,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

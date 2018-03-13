@@ -47,7 +47,6 @@ The following command moves the beginning of the visible Gantt chart to March 18
 
 ```
 PanZoomPanTo Start:="3/18/2012" 
-
 ```
 
 

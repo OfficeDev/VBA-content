@@ -21,9 +21,10 @@ Moves the [focus](vbe-glossary.md) to this instance of an object.
 The  **SetFocus** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
 If setting the focus fails, the focus reverts to the previous object and an error is generated.
 By default, setting the focus to a control does not activate the control's window or place it on top of other controls.

@@ -50,30 +50,53 @@ The PresetGradientType parameter can be one of the  **MsoPresetGradientType** co
 
 
 
-| **msoGradientBrass**|
-| **msoGradientCalmWater**|
-| **msoGradientChrome**|
-| **msoGradientChromeII**|
-| **msoGradientDaybreak**|
-| **msoGradientDesert**|
-| **msoGradientEarlySunset**|
-| **msoGradientFire**|
-| **msoGradientFog**|
-| **msoGradientGold**|
-| **msoGradientGoldII**|
-| **msoGradientHorizon**|
-| **msoGradientLateSunset**|
-| **msoGradientMahogany**|
-| **msoGradientMoss**|
-| **msoGradientNightfall**|
-| **msoGradientOcean**|
-| **msoGradientParchment**|
-| **msoGradientPeacock**|
-| **msoGradientRainbow**|
-| **msoGradientRainbowII**|
-| **msoGradientSapphire**|
-| **msoGradientSilver**|
-| **msoGradientWheat**|
+| <strong>msoGradientBrass</strong>|
+| 
+<strong>msoGradientCalmWater</strong>|
+| 
+<strong>msoGradientChrome</strong>|
+| 
+<strong>msoGradientChromeII</strong>|
+| 
+<strong>msoGradientDaybreak</strong>|
+| 
+<strong>msoGradientDesert</strong>|
+| 
+<strong>msoGradientEarlySunset</strong>|
+| 
+<strong>msoGradientFire</strong>|
+| 
+<strong>msoGradientFog</strong>|
+| 
+<strong>msoGradientGold</strong>|
+| 
+<strong>msoGradientGoldII</strong>|
+| 
+<strong>msoGradientHorizon</strong>|
+| 
+<strong>msoGradientLateSunset</strong>|
+| 
+<strong>msoGradientMahogany</strong>|
+| 
+<strong>msoGradientMoss</strong>|
+| 
+<strong>msoGradientNightfall</strong>|
+| 
+<strong>msoGradientOcean</strong>|
+| 
+<strong>msoGradientParchment</strong>|
+| 
+<strong>msoGradientPeacock</strong>|
+| 
+<strong>msoGradientRainbow</strong>|
+| 
+<strong>msoGradientRainbowII</strong>|
+| 
+<strong>msoGradientSapphire</strong>|
+| 
+<strong>msoGradientSilver</strong>|
+| 
+<strong>msoGradientWheat</strong>|
 
 ## Example
 
@@ -85,7 +108,6 @@ ActiveDocument.Pages(1).Shapes _
  .AddShape(msoShapeRectangle, 90, 90, 140, 80) _ 
  .Fill.PresetGradient Style:=msoGradientHorizontal, _ 
  Variant:=1, PresetGradientType:=msoGradientBrass 
-
 ```
 
 

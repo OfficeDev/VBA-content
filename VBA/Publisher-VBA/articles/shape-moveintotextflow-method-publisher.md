@@ -42,15 +42,15 @@ The  **MoveIntoTextFlow** method will fail if the shape to be moved is already i
 
 
 - Inline shapes
-    
+
 - Grouped shapes
-    
+
 - HTML fragments
-    
+
 - Smart objects
-    
+
 - Chained text boxes
-    
+
 
 
 
@@ -62,14 +62,13 @@ The following example checks if the second shape on the second page of the publi
 ```vb
 Dim theShape As Shape 
 Dim theRange As TextRange 
- 
+
 Set theRange = ActiveDocument.Pages(2).Shapes(1).TextFrame.TextRange 
 Set theShape = ActiveDocument.Pages(2).Shapes(2) 
- 
+
 If Not theShape.IsInline = msoTrue Then 
  theShape.MoveIntoTextFlow Range:=theRange 
 End If 
-
 ```
 
 

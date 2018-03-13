@@ -36,7 +36,6 @@ This example displays outline symbols for the active window in Book1.xls.
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.DisplayOutline = True 
-
 ```
 
 

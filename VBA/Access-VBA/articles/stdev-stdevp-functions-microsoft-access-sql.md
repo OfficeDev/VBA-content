@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # StDev, StDevP Functions (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,6 +26,7 @@ Return estimates of the standard deviation for a population or a population samp
 ## Syntax
 <a name="sectionSection0"> </a>
 
+
  **StDev(** _expr_ **)**
 
  **StDevP(** _expr_ **)**
@@ -35,6 +36,7 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 The  **StDevP** function evaluates a population, and the **StDev** function evaluates a population sample.
 
@@ -46,6 +48,7 @@ You can use the  **StDev** and **StDevP** functions in a query expression. You c
 ## Example
 <a name="sectionSection2"> </a>
 
+
 This example uses the Orders table to estimate the standard deviation of the freight charges for orders shipped to the United Kingdom.
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
@@ -55,47 +58,46 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub StDevX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Calculate the standard deviation of the freight 
     ' charges for orders shipped to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
         &; "StDev(Freight) " _ 
         &; "AS [Freight Deviation] FROM Orders " _ 
         &; "WHERE ShipCountry = 'UK';") 
- 
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 15 
-     
+
     Debug.Print 
-     
+
     Set rst = dbs.OpenRecordset("SELECT " _ 
         &; "StDevP(Freight) " _ 
         &; "AS [Freight DevP] FROM Orders " _ 
         &; "WHERE ShipCountry = 'UK';") 
- 
+
     ' Populate the Recordset. 
     rst.MoveLast 
- 
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 15 
- 
-    dbs.Close 
- 
-End Sub 
 
+    dbs.Close 
+
+End Sub 
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

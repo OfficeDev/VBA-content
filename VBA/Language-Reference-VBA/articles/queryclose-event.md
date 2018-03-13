@@ -21,20 +21,22 @@ Occurs before a  **UserForm** closes.
 The  **QueryClose** event syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _cancel_|An integer. Setting this [argument](vbe-glossary.md) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
-| _closemode_|A value or [constant](vbe-glossary.md) indicating the cause of the QueryClose event.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                |
+|:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>cancel</em>       | An integer. Setting this [argument](vbe-glossary.md) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the <strong>UserForm</strong> and application from closing. |
+| <em>closemode</em>    | A value or [constant](vbe-glossary.md) indicating the cause of the QueryClose event.                                                                                                                        |
+
  **Return Values**
 The  _closemode_ argument returns the following values:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbFormControlMenu**|0|The user has chosen the  **Close** command from the **Control** menu on the **UserForm**.|
-|**vbFormCode**|1|The  **Unload** statement is invoked from code.|
-|**vbAppWindows**|2|The current Windows operating environment session is ending.|
-|**vbAppTaskManager**|3|The Windows  **Task Manager** is closing the application.|
+| <strong>Constant</strong>          | <strong>Value</strong> | <strong>Description</strong>                                                                                                     |
+|:-----------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| <strong>vbFormControlMenu</strong> | 0                      | The user has chosen the  <strong>Close</strong> command from the <strong>Control</strong> menu on the <strong>UserForm</strong>. |
+| <strong>vbFormCode</strong>        | 1                      | The  <strong>Unload</strong> statement is invoked from code.                                                                     |
+| <strong>vbAppWindows</strong>      | 2                      | The current Windows operating environment session is ending.                                                                     |
+| <strong>vbAppTaskManager</strong>  | 3                      | The Windows  <strong>Task Manager</strong> is closing the application.                                                           |
+
 These constants are listed in the Visual Basic for Applications [object library](vbe-glossary.md) in the[Object Browser](vbe-glossary.md). Note that  **vbFormMDIForm** is also specified in the **Object Browser**, but is not yet supported.
  **Remarks**
 This event is typically used to make sure there are no unfinished tasks in the user forms included in an application before that application closes. For example, if a user hasn't saved new data in any  **UserForm**, the application can prompt the user to save the data.

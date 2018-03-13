@@ -53,35 +53,38 @@ Possible values for the Property parameter are declared in  **VisDataColumnPrope
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| ** visDataColumnPropertyCalendar**|3|Calendar of the data-column property.|
-| **visDataColumnPropertyCurrency**|5|Currency of the data-column property.|
-| **visDataColumnPropertyDisplayName**|6|Display name of the data-column property in the UI.|
-| **visDataColumnPropertyHyperlink**|8|Whether the data-column value becomes a hyperlink in the Visio UI when it is linked to a shape.|
-| **visDataColumnPropertyLangID**|2|Language ID of the data-column property.|
-| **visDataColumnPropertyType**|1|Data type of the data-column property.|
-| **visDataColumnPropertyUnits**|4|Units of the data-column property.|
-| **visDataColumnPropertyVisible**|7|Whether the data-column property is visible in the UI.|
+| <strong>Constant</strong>                         | <strong>Value</strong> | <strong>Description</strong>                                                                    |
+|:--------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------|
+| ** visDataColumnPropertyCalendar**                | 3                      | Calendar of the data-column property.                                                           |
+| <strong>visDataColumnPropertyCurrency</strong>    | 5                      | Currency of the data-column property.                                                           |
+| <strong>visDataColumnPropertyDisplayName</strong> | 6                      | Display name of the data-column property in the UI.                                             |
+| <strong>visDataColumnPropertyHyperlink</strong>   | 8                      | Whether the data-column value becomes a hyperlink in the Visio UI when it is linked to a shape. |
+| <strong>visDataColumnPropertyLangID</strong>      | 2                      | Language ID of the data-column property.                                                        |
+| <strong>visDataColumnPropertyType</strong>        | 1                      | Data type of the data-column property.                                                          |
+| <strong>visDataColumnPropertyUnits</strong>       | 4                      | Units of the data-column property.                                                              |
+| <strong>visDataColumnPropertyVisible</strong>     | 7                      | Whether the data-column property is visible in the UI.                                          |
+
 Possible values for the Value parameter depend on the Property parameter value. The following table shows valid data-column property values for each data-column property, depending on the data-column data type.
 
 
 
-|****|****|**Data Column Data Type**|****|****|****|****|****|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|||Number (VisCellVals.visPropTypeNumber)|Date (VisCellVals.visPropTypeDate)|Currency (VisCellVals.visPropTypeCurrency)|Duration (VisCellVals.visPropTypeDuration)|String (VisCellVals.visPropTypeString)|Boolean (VisCellVals.visPropTypeBoolean)|
-|Data Column Property |Type| **visPropTypeNumber**| **visPropTypeDate**| **visPropTypeCurrency**| **visPropTypeDuration**| **visPropTypeString**| **visPropTypeBoolean**|
-||Visible| **Boolean**| **Boolean**| **Boolean**| **Boolean**| **Boolean**| **Boolean**|
-||DisplayName| **String**| **String**| **String**| **String**| **String**| **String**|
-||LangID||Valid LCID number|||||
-||Currency|||Valid 3-letter currency-constant string as used in the CY function in the Visio ShapeSheet spreadsheet.||||
-||Calendar||One of the members of  **VisCellVals** , depending on the LangID value. (See table below.)|||||
-||Units|One of the following members of  **VisUnitsCodes** :
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>visAcre</b></p></li><li><p><b>visAngleUnits</b></p></li><li><p><b>visCentimeters</b></p></li><li><p><b>visCiceros</b></p></li><li><p><b>visCicerosAndDidots</b></p></li><li><p><b>visDegreeMinSec</b></p></li><li><p><b>visDegrees</b></p></li><li><p><b>visDrawingUnits</b></p></li><li><p><b>visFeet</b></p></li><li><p><b>visFeetAndInches</b></p></li><li><p><b>visHectare</b></p></li><li><p><b>visDidots</b></p></li><li><p><b>visInches</b></p></li><li><p><b>visInchFrac</b></p></li><li><p><b>visKilometers</b></p></li><li><p><b>visMeters</b></p></li><li><p><b>visMileFrac</b></p></li><li><p><b>visMiles</b></p></li><li><p><b>visMillimeters</b></p></li><li><p><b>visMin</b></p></li><li><p><b>visNautMiles</b></p></li><li><p><b>visPageUnits</b></p></li><li><p><b>visPicas</b></p></li><li><p><b>visPicasAndPoints</b></p></li><li><p><b>visPoints</b></p></li><li><p><b>visRadians</b></p></li><li><p><b>visSec</b></p></li><li><p><b>visYards</b></p></li><li><p><b>visNumber</b>  (special behavior ? this constant makes the value unitless)  
-</p></li></ul>OR Descriptive string?a string used for units, such as  _cm_ or _sq cm_ . This string will be validated so that it is one of the supported Visio units. Passing invalid strings causes the method to fail.|||One of the following members of  **VisUnitsCodes** :
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>visDurationUnits</b></p></li><li><p><b>visElapsedDay</b></p></li><li><p><b>visElapsedHour</b></p></li><li><p><b>visElapsedMin</b></p></li><li><p><b>visElapsedSec</b></p></li><li><p><b>visElapsedWeek</b></p></li></ul>OR Descriptive string?a string used for units such as  _ew_ . This string will be validated so that it is one of the supported Visio units. Passing an invalid string will cause this method to fail.|||
-||HyperLink||||| **Boolean**||
+| ****                 | ****        | <strong>Data Column Data Type</strong>                            | ****                                                                                                    | ****                                                                                                    | ****                                       | ****                                   | ****                                     |
+|:---------------------|:------------|:------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-------------------------------------------|:---------------------------------------|:-----------------------------------------|
+|                      |             | Number (VisCellVals.visPropTypeNumber)                            | Date (VisCellVals.visPropTypeDate)                                                                      | Currency (VisCellVals.visPropTypeCurrency)                                                              | Duration (VisCellVals.visPropTypeDuration) | String (VisCellVals.visPropTypeString) | Boolean (VisCellVals.visPropTypeBoolean) |
+| Data Column Property | Type        | <strong>visPropTypeNumber</strong>                                | <strong>visPropTypeDate</strong>                                                                        | <strong>visPropTypeCurrency</strong>                                                                    | <strong>visPropTypeDuration</strong>       | <strong>visPropTypeString</strong>     | <strong>visPropTypeBoolean</strong>      |
+|                      | Visible     | <strong>Boolean</strong>                                          | <strong>Boolean</strong>                                                                                | <strong>Boolean</strong>                                                                                | <strong>Boolean</strong>                   | <strong>Boolean</strong>               | <strong>Boolean</strong>                 |
+|                      | DisplayName | <strong>String</strong>                                           | <strong>String</strong>                                                                                 | <strong>String</strong>                                                                                 | <strong>String</strong>                    | <strong>String</strong>                | <strong>String</strong>                  |
+|                      | LangID      |                                                                   | Valid LCID number                                                                                       |                                                                                                         |                                            |                                        |                                          |
+|                      | Currency    |                                                                   |                                                                                                         | Valid 3-letter currency-constant string as used in the CY function in the Visio ShapeSheet spreadsheet. |                                            |                                        |                                          |
+|                      | Calendar    |                                                                   | One of the members of  <strong>VisCellVals</strong> , depending on the LangID value. (See table below.) |                                                                                                         |                                            |                                        |                                          |
+|                      | Units       | One of the following members of  <strong>VisUnitsCodes</strong> : |                                                                                                         |                                                                                                         |                                            |                                        |                                          |
+
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>visAcre</b></p></li><li><p><b>visAngleUnits</b></p></li><li><p><b>visCentimeters</b></p></li><li><p><b>visCiceros</b></p></li><li><p><b>visCicerosAndDidots</b></p></li><li><p><b>visDegreeMinSec</b></p></li><li><p><b>visDegrees</b></p></li><li><p><b>visDrawingUnits</b></p></li><li><p><b>visFeet</b></p></li><li><p><b>visFeetAndInches</b></p></li><li><p><b>visHectare</b></p></li><li><p><b>visDidots</b></p></li><li><p><b>visInches</b></p></li><li><p><b>visInchFrac</b></p></li><li><p><b>visKilometers</b></p></li><li><p><b>visMeters</b></p></li><li><p><b>visMileFrac</b></p></li><li><p><b>visMiles</b></p></li><li><p><b>visMillimeters</b></p></li><li><p><b>visMin</b></p></li><li><p><b>visNautMiles</b></p></li><li><p><b>visPageUnits</b></p></li><li><p><b>visPicas</b></p></li><li><p><b>visPicasAndPoints</b></p></li><li><p><b>visPoints</b></p></li><li><p><b>visRadians</b></p></li><li><p><b>visSec</b></p></li><li><p><b>visYards</b></p></li><li><p><b>visNumber</b>  (special behavior ? this constant makes the value unitless)<br/></p></li></ul>OR Descriptive string?a string used for units, such as  <em>cm</em> or <em>sq cm</em> . This string will be validated so that it is one of the supported Visio units. Passing invalid strings causes the method to fail.|||One of the following members of  <strong>VisUnitsCodes</strong> :
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>visDurationUnits</b></p></li><li><p><b>visElapsedDay</b></p></li><li><p><b>visElapsedHour</b></p></li><li><p><b>visElapsedMin</b></p></li><li><p><b>visElapsedSec</b></p></li><li><p><b>visElapsedWeek</b></p></li></ul>OR Descriptive string?a string used for units such as  <em>ew</em> . This string will be validated so that it is one of the supported Visio units. Passing an invalid string will cause this method to fail.|||
+||HyperLink||||| 
+<strong>Boolean</strong>||
 The LangID and Calendar properties are bound by the validation rules shown in the following table. Languages not shown use the Western calendar only.
+
 
 
 
@@ -117,18 +120,18 @@ Before running this macro, create at least one data recordset in your VBA projec
 
 
 ```vb
- 
+
 Public Sub SetProperty_Example(vsoDataRecordset As Visio.DataRecordset) 
     Dim strPropertyName As String 
     Dim strNewName As String 
     Dim vsoDataColumn As Visio.DataColumn 
- 
+
     strNewName = "New Property Name" 
     Set vsoDataColumn = vsoDataRecordset.DataColumns(1) 
- 
+
     strPropertyName = vsoDataColumn.GetProperty(visDataColumnPropertyDisplayName) 
     Debug.Print strPropertyName 
- 
+
     vsoDataColumn.SetProperty visDataColumnPropertyDisplayName, strNewName 
     strPropertyName = vsoDataColumn.GetProperty(visDataColumnPropertyDisplayName) 
     Debug.Print strPropertyName 

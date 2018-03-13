@@ -32,7 +32,6 @@ Use the  **[Links](sharedworkspace-links-property-office.md)** property of the *
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsLinks = Nothing 
-
 ```
 
 

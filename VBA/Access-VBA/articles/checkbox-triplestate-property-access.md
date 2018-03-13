@@ -29,10 +29,11 @@ The  **Null** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|The control will cycle through states for Yes, No, and  **Null** values. The control appears dimmed (grayed) when its **Value** property is set to **Null**.|
-|**False**|(Default) The control will cycle through states for Yes and No values.  **Null** values display as if they were No values.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                                                                                                                        |
+|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>True</strong>    | The control will cycle through states for Yes, No, and  <strong>Null</strong> values. The control appears dimmed (grayed) when its <strong>Value</strong> property is set to <strong>Null</strong>. |
+| <strong>False</strong>   | (Default) The control will cycle through states for Yes and No values.  <strong>Null</strong> values display as if they were No values.                                                             |
+
 This property can be set in any view.
 
 
@@ -43,9 +44,9 @@ The following example displays a message describing in detail the state of a che
 
 ```vb
 Dim strTripleState As String 
- 
+
 strTripleState = Forms.Item("frmOperations").Controls.Item("Check1").TripleState 
- 
+
 Select Case strTripleState 
  Case True 
  MsgBox "For Check1, TripleState = " &; strTripleState &; _ 
@@ -59,7 +60,6 @@ Select Case strTripleState
  Case Else 
  MsgBox "Can't determine the TripleState property for Check1." 
 End Select 
-
 ```
 
 

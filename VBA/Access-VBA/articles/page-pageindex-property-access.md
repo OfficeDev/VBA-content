@@ -39,8 +39,6 @@ The following example moves the page named "Notes" on the tab control named "Inf
 
 ```vb
 Forms("Order Entry").Controls("Information").Pages("Notes").PageIndex = 0 
- 
-
 ```
 
 

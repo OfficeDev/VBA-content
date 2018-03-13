@@ -45,7 +45,6 @@ Dim tcThemeColor As ThemeColor
 tcThemeColor.RGB = RGB(255, 0, 0) 
 Set tcColorScheme.Colors(msoThemeAccent1) = tcThemeColor 
 tcsThemeColorScheme.Save ("C:\myThemeColorScheme.xml") 
-
 ```
 
 

@@ -30,13 +30,19 @@ The value of the  **Alignment** property can be one of these **MsoTextEffectAlig
 
 ||
 |:-----|
-|**msoTextEffectAlignmentCentered**|
-|**msoTextEffectAlignmentLeft**|
-|**msoTextEffectAlignmentMixed**|
-|**msoTextEffectAlignmentRight**|
-|**msoTextEffectAlignmentStretchJustify**|
-|**msoTextEffectAlignmentWordJustify**|
-|**msoTextEffectAlignmentLetterJustify**|
+|<strong>msoTextEffectAlignmentCentered</strong>|
+|
+<strong>msoTextEffectAlignmentLeft</strong>|
+|
+<strong>msoTextEffectAlignmentMixed</strong>|
+|
+<strong>msoTextEffectAlignmentRight</strong>|
+|
+<strong>msoTextEffectAlignmentStretchJustify</strong>|
+|
+<strong>msoTextEffectAlignmentWordJustify</strong>|
+|
+<strong>msoTextEffectAlignmentLetterJustify</strong>|
 
 ## Example
 

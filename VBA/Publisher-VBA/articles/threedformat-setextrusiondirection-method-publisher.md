@@ -61,7 +61,6 @@ With ActiveDocument.Pages(1).Shapes(1).ThreeD
  PresetExtrusionDirection:=msoExtrusionTop 
  .PresetLightingDirection = msoLightingLeft 
 End With 
-
 ```
 
 

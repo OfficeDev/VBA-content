@@ -69,7 +69,7 @@ Although you can use the  **DMin** or **DMax** function to find the minimum or m
 
 
 - [Sequential Numbering](http://www.utteraccess.com/wiki/index.php/Sequential_Numbering)
-    
+
 
 ## Example
 
@@ -79,7 +79,7 @@ The following example returns the lowest and highest values from the Freight fie
 ```vb
 Dim curX As Currency 
 Dim curY As Currency 
- 
+
 curX = DMin("[Freight]", "Orders", "[ShipCountry] = 'UK'") 
 curY = DMax("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
@@ -137,13 +137,13 @@ The following examples show how to use various types of criteria with the  **DMa
     variable = DMax("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
              &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
             &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
-    
+
     ' Use two fields from a single record.
     variable = DMax("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
-            
+
     ' Expressions
     variable = DMax("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")
-    
+
     ' Control Structures
     variable = DMax("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
@@ -153,11 +153,13 @@ The following examples show how to use various types of criteria with the  **DMa
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

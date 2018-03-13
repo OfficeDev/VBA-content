@@ -59,7 +59,7 @@ Passing integers (master indices) or strings (master names) to  **DropManyU** is
     
 
 
-The  _xyArray()_ argument should be a one-dimensional array of 2 _m_ doubles with lower bound _xylb_ and upper bound _xyub_ , where _m_ >= _n_ . The values in the array tell the **DropManyU** method where to position the **Shape** objects it produces. _ObjectsToInstance_( _vlb_ + ( _ i_ - 1)) is dropped at ( _xy_ [( _i_ - 1)2 + _xylb_ ], _xy_ [(i - 1)2 + _xylb_ + 1]) for 1 <= _i_ <= _n_ .
+The  <em>xyArray()</em> argument should be a one-dimensional array of 2 <em>m</em> doubles with lower bound <em>xylb</em> and upper bound <em>xyub</em> , where <em>m</em> >= <em>n</em> . The values in the array tell the <strong>DropManyU</strong> method where to position the <strong>Shape</strong> objects it produces. <em>ObjectsToInstance</em>( <em>vlb</em> + ( <em> i</em> - 1)) is dropped at ( <em>xy</em> [( <em>i</em> - 1)2 + <em>xylb</em> ], <em>xy</em> [(i - 1)2 + <em>xylb</em> + 1]) for 1 <= <em>i</em> <= <em>n</em> .
 
 Note that  _m_ > _n_ is allowed. For _n_ < _i_ <= _m_ , the _i_ 'th thing instanced is the same thing as the _n_ 'th thing instanced. Thus to make _m_ >= 1 instances of the same thing, you can pass an _ObjectsToInstance()_ array with one entry and an _m_ entry _xyArray()_ array.
 

@@ -42,10 +42,9 @@ The following example refreshes the shared workspace if it has not been refreshe
         ActiveWorkbook.SharedWorkspace.Refresh 
     End If 
     Exit Sub 
-     
+
 err_NeverRefreshed: 
           ActiveWorkbook.SharedWorkspace.Refresh 
-
 ```
 
 

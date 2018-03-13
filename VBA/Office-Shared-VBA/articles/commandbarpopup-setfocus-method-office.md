@@ -36,7 +36,6 @@ Dim cbPopup As CommandBarPopup
 Set cbPopup = Application.CommandBars.FindControl _ 
 (Type:=msoControlPopup, Tag:="Graphics") 
 cbPopup.Reset 
-
 ```
 
 

@@ -19,7 +19,6 @@ criteria = "[FullName] = " &; Chr(34) &; fullname _ &; Chr(34)
 criteria = "[FullName] = """ &; fullname &; """" 
 ' This approach uses the escaped hexadecimal value of the double quotation mark to delimit the value.  
 criteria = "[FullName] = "%22" &; fullname &; "%22"" 
-
 ```
 
 

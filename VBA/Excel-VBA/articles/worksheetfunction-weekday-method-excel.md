@@ -41,18 +41,19 @@ Double
 
 
 
-|**Return_type**|**Number returned**|
-|:-----|:-----|
-|1 or omitted|Numbers 1 (Sunday) through 7 (Saturday). Behaves like previous versions of Microsoft Excel.|
-|2|Numbers 1 (Monday) through 7 (Sunday).|
-|3|Numbers 0 (Monday) through 6 (Sunday).|
-|11|Numbers 1 (Monday) through 7 (Sunday).|
-|12|Numbers 1 (Tuesday) through 7 (Monday)|
-|13|Numbers 1 (Wednesday) through 7 (Tuesday)|
-|14|Numbers 1 (Thursday) through 7 (Wednesday)|
-|15|Numbers 1 (Friday) through 7 (Thursday)|
-|16|Numbers 1 (Saturday) through 7 (Friday)|
-|17|Numbers 1 (Sunday) through 7 (Saturday)|
+| <strong>Return_type</strong> | <strong>Number returned</strong>                                                            |
+|:-----------------------------|:--------------------------------------------------------------------------------------------|
+| 1 or omitted                 | Numbers 1 (Sunday) through 7 (Saturday). Behaves like previous versions of Microsoft Excel. |
+| 2                            | Numbers 1 (Monday) through 7 (Sunday).                                                      |
+| 3                            | Numbers 0 (Monday) through 6 (Sunday).                                                      |
+| 11                           | Numbers 1 (Monday) through 7 (Sunday).                                                      |
+| 12                           | Numbers 1 (Tuesday) through 7 (Monday)                                                      |
+| 13                           | Numbers 1 (Wednesday) through 7 (Tuesday)                                                   |
+| 14                           | Numbers 1 (Thursday) through 7 (Wednesday)                                                  |
+| 15                           | Numbers 1 (Friday) through 7 (Thursday)                                                     |
+| 16                           | Numbers 1 (Saturday) through 7 (Friday)                                                     |
+| 17                           | Numbers 1 (Sunday) through 7 (Saturday)                                                     |
+
 Microsoft Excel stores dates as sequential serial numbers so they can be used in calculations. By default, January 1, 1900 is serial number 1, and January 1, 2008 is serial number 39448 because it is 39,448 days after January 1, 1900. Microsoft Excel for the Macintosh uses a different date system as its default. 
 
 

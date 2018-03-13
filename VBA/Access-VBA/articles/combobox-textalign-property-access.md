@@ -29,13 +29,14 @@ The  **TextAlign** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|General|0|(Default) The text aligns to the left; numbers and dates align to the right.|
-|Left|1|The text, numbers, and dates align to the left.|
-|Center|2|The text, numbers, and dates are centered.|
-|Right|3|The text, numbers, and dates align to the right.|
-|Distribute|4|The text, numbers, and dates are evenly distributed.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                 |
+|:-------------------------|:------------------------------|:-----------------------------------------------------------------------------|
+| General                  | 0                             | (Default) The text aligns to the left; numbers and dates align to the right. |
+| Left                     | 1                             | The text, numbers, and dates align to the left.                              |
+| Center                   | 2                             | The text, numbers, and dates are centered.                                   |
+| Right                    | 3                             | The text, numbers, and dates align to the right.                             |
+| Distribute               | 4                             | The text, numbers, and dates are evenly distributed.                         |
+
 You can set the default for the  **TextAlign** property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
 

@@ -41,9 +41,9 @@ When used with a stored procedure:
 
 An example  **InputParameters** property string used with stored procedure would be:
 
-@state char=[Forms]![formname]![StateList], @salesyear smallint=[Forms]![formname]![Enter year of interest]
+@state char=[Forms]![formname]![StateList], @"salesyear" smallint=[Forms]![formname]![Enter year of interest]
 
-This would result in the @state parameter being set to the current value of the StateList control, and the user getting prompted for the @salesyear parameter. If there were any other parameters to the stored proc that were not in this list, they would get default values assigned.
+This would result in the @state parameter being set to the current value of the StateList control, and the user getting prompted for the @"salesyear" parameter. If there were any other parameters to the stored proc that were not in this list, they would get default values assigned.
 
 The stored procedure should be executed using a command string containing the {call } syntax with one ? marker for each non-default parameter in the  **InputParameters** list.
 

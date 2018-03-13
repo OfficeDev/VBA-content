@@ -18,6 +18,7 @@ Unlike other versions of Office apps that support VBA, Office 2016 for Mac apps 
 
 Sandboxing restricts the apps from accessing resources outside the app container. This affects any add-ins or macros that involve file access or communication across processes. You can minimize the effects of sandboxing by using the new commands described in the following section.
 <br><br>
+
 ## Creating an installer or putting user content
 For instructions on creating an installer for your add-in, please refer to the article here:  [Installing User Content in Office 2016 for Mac](http://macadmins.software/docs/UserContentIn2016.pdf) 
 
@@ -47,6 +48,7 @@ Office 2016 for Mac supports ribbon customization using Ribbon XML. Note that th
 ## idMSOs compatible with Office 2016 for Mac
 For information about the idMSOs that are compatible with Office 2016 for Mac, see the following:
 <a name="idMSOs-compatible-with-Office-2016-for-Mac"></a>
+
 
 - [idMSOs supported in Excel for Mac](Office-Mac-VBA/idMSOExcelMac.md)
 - [idMSOs supported in PowerPoint for Mac](Office-Mac-VBA/idMSOPowerPointMac.md)

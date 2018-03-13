@@ -35,7 +35,6 @@ The following example specifies that when the  **AfterInsert** event occurs on t
 
 ```vb
 Forms(0).After Insert = "[Event Procedure]" 
-
 ```
 
 

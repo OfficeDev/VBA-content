@@ -47,7 +47,6 @@ The following example modifies the first link in the shared workspace site to po
         .Save 
     End With 
     Set swsLink = Nothing 
-
 ```
 
 

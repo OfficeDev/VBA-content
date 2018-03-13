@@ -40,7 +40,7 @@ String
 
 The  **CreateURL** method of the **Hyperlink** object can be used to resolve relative URLs against a hyperlink's base address.
 
-When you use the canonical form, the  **CreateURL** method applies URL canonicalization rules to the hyperlink. Only spaces are URL-encoded during canonicalization. Port 80 is assumed for HTTP URLs and is removed during canonicalization. For example, the URL "http://www.microsoft.com:80/" is returned as "http://www.microsoft.com/", whereas http://www.microsoft.com:1000/" is unchanged.
+When you use the canonical form, the  <strong>CreateURL</strong> method applies URL canonicalization rules to the hyperlink. Only spaces are URL-encoded during canonicalization. Port 80 is assumed for HTTP URLs and is removed during canonicalization. For example, the URL "<http://www.microsoft.com:80/>" is returned as "<http://www.microsoft.com/>", whereas <http://www.microsoft.com:1000/>" is unchanged.
 
 
 ## Example
@@ -51,12 +51,10 @@ Here are some examples of results of the  **CreateURL** method:
 ```
 Address = "http://www.microsoft.com/" 
 CreateURL(False) returns "http://www.microsoft.com/" 
- 
+
 Address = "C:\My Documents\Spreadsheet.XLS" 
 CreateURL(False) returns "file://C:\My Documents\Spreadsheet.XLS" 
 CreateURL(True) returns "file://C:\My%20Documents\Spreadsheet.XLS" 
- 
-
 ```
 
 Relative path example:
@@ -68,8 +66,6 @@ Relative path example:
 Assume : Document.HyperlinkBase = "http://www.microsoft.com/widgets/" 
 Address = "../file.htm" 
 CreateURL(False) returns "http://www.microsoft.com/file.htm" 
- 
-
 ```
 
 
@@ -80,37 +76,37 @@ The following example shows how to use the  **CreateURL** method to resolve rela
 
 
 ```vb
- 
+
 Sub CreateURL_Example() 
- 
+
  Dim vsoShape As Visio.Shape 
  Dim vsoHyperlink As Visio.Hyperlink 
- 
+
  'Draw a rectangle shape on the active page 
  Set vsoShape = ActivePage.DrawRectangle(1, 2, 2, 1) 
- 
+
  'Add a hyperlink to a shape 
  Set vsoHyperlink = vsoShape.AddHyperlink 
- 
+
  'Allow relative hyperlink addresses 
  ActiveDocument.HyperlinkBase = "drive :\folder \subfolder " 
- 
+
  'Return a relative address 
  vsoHyperlink.Address = "..\drawing.vsd " 
- 
+
  'Print the resulting URLs to the Debug window 
  'to show how the relative path is derived 
  'from the base path and the difference 
  'between canonical and non-canonical forms 
  Debug.Print vsoHyperlink.CreateURL(False) 
  Debug.Print vsoHyperlink.CreateURL(True) 
- 
+
  'Return an absolute address 
  vsoHyperlink.Address = "http://address " 
- 
+
  'Print the resulting URL to the Debug window 
  Debug.Print vsoHyperlink.CreateURL(False) 
- 
+
 End Sub
 ```
 

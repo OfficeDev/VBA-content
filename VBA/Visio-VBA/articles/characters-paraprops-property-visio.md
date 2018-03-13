@@ -42,16 +42,17 @@ The possible values of the CellIndex argument correspond to named cells in the P
 
 
 
-|** Constant**|** Value**|
-|:-----|:-----|
-| **visIndentFirst**| 0|
-| **visIndentLeft**| 1|
-| **visIndentRight**| 2|
-| **visSpaceLine**| 3|
-| **visSpaceBefore**| 4|
-| **visSpaceAfter**| 5|
-| **visHorzAlign**| 6|
-| **visBulletIndex**| 7|
+| ** Constant**                   | ** Value** |
+|:--------------------------------|:-----------|
+| <strong>visIndentFirst</strong> | 0          |
+| <strong>visIndentLeft</strong>  | 1          |
+| <strong>visIndentRight</strong> | 2          |
+| <strong>visSpaceLine</strong>   | 3          |
+| <strong>visSpaceBefore</strong> | 4          |
+| <strong>visSpaceAfter</strong>  | 5          |
+| <strong>visHorzAlign</strong>   | 6          |
+| <strong>visBulletIndex</strong> | 7          |
+
 Depending on the extent of the text range and the format, setting the  **ParaProps** property may cause rows to be added or removed from the Paragraph section of the ShapeSheet.
 
 To retrieve information about an existing format, use the  **ParaPropsRow** property.
@@ -60,5 +61,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.set_ParaProps**
-    
+
 

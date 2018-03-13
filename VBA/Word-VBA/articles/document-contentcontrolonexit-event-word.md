@@ -18,7 +18,7 @@ Occurs when a user leaves a content control.
 
 ## Syntax
 
-Private Sub  _expression_ _**ContentControlOnExit**( **_ContentControl_** , **_Cancel_** )
+Private Sub  <em>expression</em> <em><strong>ContentControlOnExit</strong>( **_ContentControl</em>** , <strong><em>Cancel</em></strong> )
 
  _expression_ An expression that returns a **[Document](document-object-word.md)** object.
 

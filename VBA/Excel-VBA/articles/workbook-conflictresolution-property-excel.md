@@ -41,7 +41,6 @@ This example causes the local user's changes to be accepted whenever there's a c
 
 ```vb
 ActiveWorkbook.ConflictResolution = xlLocalSessionChanges 
-
 ```
 
 

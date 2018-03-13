@@ -18,7 +18,7 @@ Occurs before selected objects are deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeSelectionDelete**( **_ByVal Selection As [IVSELECTION]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeSelectionDelete</strong>( **_ByVal Selection As [IVSELECTION]</em>** )
 
  _expression_ A variable that represents a **Document** object.
 

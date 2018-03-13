@@ -22,29 +22,32 @@ Opens a specified file and returns a  **TextStream** object that can be used to 
 The  **OpenTextFile** method has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _filename_|Required. [String expression](vbe-glossary.md) that identifies the file to open.|
-| _iomode_|Optional. Indicates input/output mode. Can be one of two constants, either  **ForReading** or **ForAppending**.|
-| _create_|Optional.  **Boolean** value that indicates whether a new file can be created if the specified _filename_ doesn't exist. The value is **True** if a new file is created; **False** if it isn't created. The default is **False**.|
-| _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                 |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                                                                                                                                                                                                                           |
+| <em>filename</em>     | Required. [String expression](vbe-glossary.md) that identifies the file to open.                                                                                                                                                                                                             |
+| <em>iomode</em>       | Optional. Indicates input/output mode. Can be one of two constants, either  <strong>ForReading</strong> or <strong>ForAppending</strong>.                                                                                                                                                    |
+| <em>create</em>       | Optional.  <strong>Boolean</strong> value that indicates whether a new file can be created if the specified <em>filename</em> doesn't exist. The value is <strong>True</strong> if a new file is created; <strong>False</strong> if it isn't created. The default is <strong>False</strong>. |
+| <em>format</em>       | Optional. One of three  <strong>Tristate</strong> values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.                                                                                                                                            |
+
  **Settings**
 The  _iomode_ argument can have either of the following settings:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**ForReading**|1|Open a file for reading only. You can't write to this file.|
-|**ForAppending**|8|Open a file and write to the end of the file.|
+| <strong>Constant</strong>     | <strong>Value</strong> | <strong>Description</strong>                                |
+|:------------------------------|:-----------------------|:------------------------------------------------------------|
+| <strong>ForReading</strong>   | 1                      | Open a file for reading only. You can't write to this file. |
+| <strong>ForAppending</strong> | 8                      | Open a file and write to the end of the file.               |
+
 The  _format_ argument can have any of the following settings:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**TristateUseDefault**|-2|Opens the file using the system default.|
-|**TristateTrue**|-1|Opens the file as Unicode.|
-|**TristateFalse**| 0|Opens the file as ASCII.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>             |
+|:------------------------------------|:-----------------------|:-----------------------------------------|
+| <strong>TristateUseDefault</strong> | -2                     | Opens the file using the system default. |
+| <strong>TristateTrue</strong>       | -1                     | Opens the file as Unicode.               |
+| <strong>TristateFalse</strong>      | 0                      | Opens the file as ASCII.                 |
+
  **Remarks**
 The following code illustrates the use of the  **OpenTextFile** method to open a file for appending text:
 

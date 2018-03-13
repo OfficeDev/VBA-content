@@ -53,8 +53,6 @@ With Application.ActivePresentation.Slides(1).Tags
     Next
 
 End With
-
-
 ```
 
 This example searches through the tags for each slide in the active presentation. If there's a tag named "PRIORITY," a message box displays the tag value. If there isn't a tag named "PRIORITY," the example adds this tag that has the value "Unknown."

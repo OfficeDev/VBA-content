@@ -42,7 +42,6 @@ This example adjusts the kerning of all text in the first story to 6 point.
 
 ```vb
 Application.ActiveDocument.Stories(1).TextRange.Font.Kerning = 6 
-
 ```
 
 

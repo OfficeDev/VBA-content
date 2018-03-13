@@ -29,12 +29,17 @@ ms.date: 06/08/2017
 
 
 
-| **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue**|
-| **msoFalse**|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** All characters (both uppercase and lowercase) in the specified WordArt are the same height.|
+| <strong>MsoTriState</strong> can be one of these <strong>MsoTriState</strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong>|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong> All characters (both uppercase and lowercase) in the specified WordArt are the same height.|
 
 ## Example
 

@@ -42,7 +42,6 @@ This example sets the horizontal baseline spacing of the layout guides object to
 Dim objLayout As LayoutGuides 
 Set objLayout = ActiveDocument.MasterPages(2).LayoutGuides 
 objLayout.HorizontalBaseLineSpacing = 20 
-
 ```
 
 

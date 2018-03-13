@@ -104,15 +104,16 @@ The following table describes the custom properties exposed by the Visio Drawing
 
 
 
-|**Property**|**Description**|
-|:-----|:-----|
-| **Document**|Read-only. Returns the Visio  **Document** object associated with the instance of the Visio Drawing Control.|
-| **HostID**|Read/write.  **String**. Returns or sets the GUID or other string assigned to the registry key that identifies the host container application (your executable program). The default is an empty string.|
-| **NegotiateMenus**|Read/write.  **Boolean**. Specifies whether the control can merge menus with those of the host container application. The default is  **False**.|
-| **NegotiateToolbars**|Read/write.  **Boolean**. Specifies whether the control can merge toolbars with those of the host container application. The default is  **False**.|
-| **PageSizingBehavior**|Read/write. Enumerated type  **VisPageSizingBehavior**. Specifies how pages are sized and how shapes are sized and positioned when existing Visio drawings are loaded into instances of the control.|
-| **Src**|Read/write.  **String**. Specifies the path to and file name of the existing Visio drawing that is loaded into an instance of the control at run time. The default is an empty string.|
-| **Window**|Read-only. Returns the Visio  **Window** object associated with the instance of the Visio Drawing Control. The **Window** property is accessible only when the control is in-place active.|
+| <strong>Property</strong>           | <strong>Description</strong>                                                                                                                                                                                          |
+|:------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Document</strong>           | Read-only. Returns the Visio  <strong>Document</strong> object associated with the instance of the Visio Drawing Control.                                                                                             |
+| <strong>HostID</strong>             | Read/write.  <strong>String</strong>. Returns or sets the GUID or other string assigned to the registry key that identifies the host container application (your executable program). The default is an empty string. |
+| <strong>NegotiateMenus</strong>     | Read/write.  <strong>Boolean</strong>. Specifies whether the control can merge menus with those of the host container application. The default is  <strong>False</strong>.                                            |
+| <strong>NegotiateToolbars</strong>  | Read/write.  <strong>Boolean</strong>. Specifies whether the control can merge toolbars with those of the host container application. The default is  <strong>False</strong>.                                         |
+| <strong>PageSizingBehavior</strong> | Read/write. Enumerated type  <strong>VisPageSizingBehavior</strong>. Specifies how pages are sized and how shapes are sized and positioned when existing Visio drawings are loaded into instances of the control.     |
+| <strong>Src</strong>                | Read/write.  <strong>String</strong>. Specifies the path to and file name of the existing Visio drawing that is loaded into an instance of the control at run time. The default is an empty string.                   |
+| <strong>Window</strong>             | Read-only. Returns the Visio  <strong>Window</strong> object associated with the instance of the Visio Drawing Control. The <strong>Window</strong> property is accessible only when the control is in-place active.  |
+
 For more information about any of these custom properties, and to view code examples that show how to use them, see the specific topics associated with these properties in this Automation Reference.
 
 
@@ -124,17 +125,17 @@ The following new events are available:
 
 
 -  **KeyDown**
-    
+
 -  **KeyPress**
-    
+
 -  **KeyUp**
-    
+
 -  **MouseDown**
-    
+
 -  **MouseMove**
-    
+
 -  **MouseUp**
-    
+
 These events are similar to the Visual Basic events that have the same names, although they take different arguments. To view the syntax, and for additional information about these events, see the specific topics associated with them in this Automation Reference. For more information about the Visual Basic events, consult Visual Basic Help.
 
 
@@ -145,9 +146,9 @@ You can use events or status changes in your host application to modify a drawin
 
 ```vb
 Private Sub DrawingControl1_MouseDown(ByVal Button As Long, ByVal KeyButtonState As Long, ByVal x As Double, ByVal y As Double, CancelDefault As Boolean)
- 
+
   MsgBox "You have clicked the mouse.", , "Drawing Control Event"
- 
+
 End Sub
 ```
 

@@ -29,11 +29,11 @@ Returns or sets the major unit scale value for the category axis when the  **[Ca
 
 
 -  **xlMonths**
-    
+
 -  **xlDays**
-    
+
 -  **xlYears**
-    
+
 
 ## Example
 
@@ -52,7 +52,6 @@ With ActiveDocument.InlineShapes(1)
  End With 
  End If 
 End With 
-
 ```
 
 

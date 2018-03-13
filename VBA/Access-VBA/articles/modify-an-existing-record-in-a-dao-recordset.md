@@ -13,13 +13,13 @@ You can modify existing records in a table-type or dynaset-type  **[Recordset](h
 To modify an existing record in a table-type or dynaset-type  **Recordset** object:
 
 1. Go to the record that you want to change.
-    
+
 2. Use the  **Edit** method to prepare the current record for editing.
-    
+
 3. Make the necessary changes to the record.
-    
+
 4. Use the  **Update** method to save the changes to the current record.
-    
+
 The following code example shows how to change the job titles for all sales representatives in a table called Employees.
 
 
@@ -27,10 +27,10 @@ The following code example shows how to change the job titles for all sales repr
 ```vb
 Dim dbsNorthwind As DAO.Database 
 Dim rstEmployees As DAO.Recordset 
- 
+
    Set dbsNorthwind = CurrentDb 
    Set rstEmployees = dbsNorthwind.OpenRecordset("Employees") 
- 
+
    rstEmployees.MoveFirst 
    Do Until rstEmployees.EOF 
       If rstEmployees!Title = "Sales Representative" Then 
@@ -40,7 +40,6 @@ Dim rstEmployees As DAO.Recordset
       End If 
       rstEmployees.MoveNext 
    Loop 
-
 ```
 
 

@@ -29,11 +29,15 @@ The value of this property can be set to one of the following constants:
 
 
 
-| **xlBottom**|
-| **xlCenter**|
-| **xlDistributed**|
-| **xlJustify**|
-| **xlTop**|
+| <strong>xlBottom</strong>|
+| 
+<strong>xlCenter</strong>|
+| 
+<strong>xlDistributed</strong>|
+| 
+<strong>xlJustify</strong>|
+| 
+<strong>xlTop</strong>|
 
 ## See also
 

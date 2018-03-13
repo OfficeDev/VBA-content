@@ -48,12 +48,13 @@ The  _size_ parameter must be one of the following **VisRasterExportSize** const
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRasterFitToScreenSize**|0|Use screen size.|
-| **visRasterFitToPrinterSize**|1|Use printer size.|
-| **visRasterFitToSourceSize**|2|Use source size.|
-| **visRasterFitToCustomSize**|3|Use custom size.|
+| <strong>Constant</strong>                  | <strong>Value</strong> | <strong>Description</strong> |
+|:-------------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visRasterFitToScreenSize</strong>  | 0                      | Use screen size.             |
+| <strong>visRasterFitToPrinterSize</strong> | 1                      | Use printer size.            |
+| <strong>visRasterFitToSourceSize</strong>  | 2                      | Use source size.             |
+| <strong>visRasterFitToCustomSize</strong>  | 3                      | Use custom size.             |
+
 If  _size_ is anything other than **visRasterFitToCustomSize** , **SetRasterExportSize** ignores all other parameters.
 
 If  _size_ is **visRasterFitToCustomSize** , **SetRasterExportSize** accepts values for all parameters, if they meet the noted constraints. If they do not meet these constraints, **SetRasterExportSize** returns an Invalid Parameter error.
@@ -62,11 +63,12 @@ The  _sizeUnits_ parameter must be one of the following **VisRasterExportSizeUni
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRasterPixel**|0|Pixels|
-| **visRasterCm**|1|Centimeters|
-| **visRasterInch**|2|Inches|
+| <strong>Constant</strong>       | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------------|:-----------------------|:-----------------------------|
+| <strong>visRasterPixel</strong> | 0                      | Pixels                       |
+| <strong>visRasterCm</strong>    | 1                      | Centimeters                  |
+| <strong>visRasterInch</strong>  | 2                      | Inches                       |
+
 When the  **SetRasterExportSize** method runs successfully, the resulting settings will remain in effect until you either run the method again or change the settings in the user interface.
 
 

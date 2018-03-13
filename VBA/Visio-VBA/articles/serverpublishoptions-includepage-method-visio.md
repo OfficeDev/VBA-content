@@ -43,10 +43,11 @@ The  _Flags_ parameter must be one of the following **VisLangFlags** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visLangLocal**|0|The page name is a local name.|
-| **visLangUniversal**|1|The page name is a universal name.|
+| <strong>Constant</strong>         | <strong>Value</strong> | <strong>Description</strong>       |
+|:----------------------------------|:-----------------------|:-----------------------------------|
+| <strong>visLangLocal</strong>     | 0                      | The page name is a local name.     |
+| <strong>visLangUniversal</strong> | 1                      | The page name is a universal name. |
+
 Calling the  **IncludePage** method corresponds to selecting a page in the **Pages** list in the **Publish Settings** dialog box (click the **File** tab, click **Save &; Send**, click  **Save to SharePoint**, click  **Web Drawing (*.vdw)**, click  **Save As**, and then click  **Options**).
 
 

@@ -18,7 +18,7 @@ Occurs when the editing area of a document window is right-clicked, before the d
 
 ## Syntax
 
-Private Sub  _expression_ ._**WindowBeforeRightClick**( **_ByVal Sel As Selection_** , **_Cancel As Boolean_** )
+Private Sub  <em>expression</em> .<em><strong>WindowBeforeRightClick</strong>( **_ByVal Sel As Selection</em>** , <strong><em>Cancel As Boolean</em></strong> )
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object that has been declared with events in a class module.
 

@@ -1,4 +1,4 @@
-#[Office shared VBA ](articles/TOC.md)
+# [Office shared VBA ](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing Office solutions.
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Min, Max Functions (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -27,6 +27,7 @@ Return the minimum or maximum of a set of values contained in a specified field 
 ## Syntax
 <a name="sectionSection0"> </a>
 
+
  **Min(** _expr_ **)**
 
  **Max(** _expr_ **)**
@@ -37,6 +38,7 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 ## Remarks
 <a name="sectionSection1"> </a>
 
+
 You can use  **Min** and **Max** to determine the smallest and largest values in a field based on the specified aggregation, or grouping. For example, you could use these functions to return the lowest and highest freight cost. If there is no aggregation specified, then the entire table is used.
 
 You can use  **Min** and **Max** in a query expression and in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
@@ -46,10 +48,11 @@ You can use  **Min** and **Max** in a query expression and in the **SQL** proper
 
 
 - [Record Order](http://www.utteraccess.com/wiki/index.php/Record_Order)
-    
+
 
 ## Example
 <a name="sectionSection2"> </a>
+
 
 This example uses the Orders table to return the lowest and highest freight charges for orders shipped to the United Kingdom.
 
@@ -60,37 +63,37 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub MinMaxX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
-     
+
     ' Return the lowest and highest freight charges for  
     ' orders shipped to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT " _  
         &; "Min(Freight) AS [Low Freight], " _ 
         &; "Max(Freight)AS [High Freight] " _ 
         &; "FROM Orders WHERE ShipCountry = 'UK';") 
-     
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 12 
- 
-    dbs.Close 
- 
-End Sub 
 
+    dbs.Close 
+
+End Sub 
 ```
 
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
+
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 

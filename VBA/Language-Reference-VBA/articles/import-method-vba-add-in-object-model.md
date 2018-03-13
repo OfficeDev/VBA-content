@@ -19,10 +19,11 @@ Adds a component to a [project](vbe-glossary.md) from a file; returns the newly 
 The  **Import** syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _filename_|Required. A [String](vbe-glossary.md) specifying path and file name of the component that you want to import the component from.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                     |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.                            |
+| <em>filename</em>     | Required. A [String](vbe-glossary.md) specifying path and file name of the component that you want to import the component from. |
+
  **Remarks**
 You can use the  **Import** method to add a component,[form](vbe-glossary.md), [module](vbe-glossary.md), [class](vbe-glossary.md), and so on, to your project.
 

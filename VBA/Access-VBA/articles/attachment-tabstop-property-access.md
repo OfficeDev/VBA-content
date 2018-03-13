@@ -29,10 +29,11 @@ The  **TabStop** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|(Default) You can move the focus to the control by pressing the TAB key.|
-|No|**False**|You cannot move the focus to the control by pressing the TAB key.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                             |
+|:-------------------------|:------------------------------|:-------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | (Default) You can move the focus to the control by pressing the TAB key. |
+| No                       | <strong>False</strong>        | You cannot move the focus to the control by pressing the TAB key.        |
+
 When you create a control on a form, Microsoft Access automatically assigns the control a position in the form's tab order. Each new control is placed last in the tab order. If you want to prevent a control from being available when you tab through the controls in a form, set the control's  **TabStop** property to No.
 
 In Form view, hidden or disabled controls remain in the tab order but are skipped when you move through the controls by pressing TAB, even if their  **TabStop** properties are set to Yes.

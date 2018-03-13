@@ -34,7 +34,7 @@ The  **CloseBtn_Click** procedure is called when you click the button on the use
 Private Sub UserForm_Activate()
     'The sparkline group
     Dim oSparkGroup As SparklineGroup
-    
+
     'Loop through all the sparkline groups on the sheet
     For Each oSparkGroup In ActiveSheet.Range("A:XFD").SparklineGroups
         'For each sparkline group found, add the address to the listbox
@@ -65,5 +65,6 @@ End Sub
 
 
  <br>
- [Programming With Sparklines In Excel](http://msdn.microsoft.com/library/e26f3356-882e-44d5-94a5-c7e8d1026d78%28Office.15%29.aspx)
+ 
+[Programming With Sparklines In Excel](http://msdn.microsoft.com/library/e26f3356-882e-44d5-94a5-c7e8d1026d78%28Office.15%29.aspx)
 

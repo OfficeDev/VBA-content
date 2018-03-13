@@ -20,10 +20,11 @@ Copies a file.
 The  **FileCopy** statement syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_source_**|Required. [String expression](vbe-glossary.md) that specifies the name of the file to be copied. The **_source_** may include directory or folder, and drive.|
-|**_destination_**|Required. String expression that specifies the target file name. The  **_destination_** may include directory or folder, and drive.|
+| <strong>Part</strong>                 | <strong>Description</strong>                                                                                                                                                      |
+|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>source</em></strong>      | Required. [String expression](vbe-glossary.md) that specifies the name of the file to be copied. The <strong><em>source</em></strong> may include directory or folder, and drive. |
+| <strong><em>destination</em></strong> | Required. String expression that specifies the target file name. The  <strong><em>destination</em></strong> may include directory or folder, and drive.                           |
+
  **Remarks**
 If you try to use the  **FileCopy** statement on a currently open file, an error occurs.
 
@@ -37,7 +38,6 @@ Dim SourceFile, DestinationFile
 SourceFile = "SRCFILE" ' Define source file name. 
 DestinationFile = "DESTFILE" ' Define target file name. 
 FileCopy SourceFile, DestinationFile ' Copy source to target. 
-
 ```
 
 

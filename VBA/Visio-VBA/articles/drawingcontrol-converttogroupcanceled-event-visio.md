@@ -15,7 +15,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _**ConvertToGroupCanceled**( **_ByVal selection As [IVSELECTION]_** )
+Private Sub  <em>expression</em> <em><strong>ConvertToGroupCanceled</strong>( **_ByVal selection As [IVSELECTION]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

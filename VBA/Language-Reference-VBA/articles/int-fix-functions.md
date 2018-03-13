@@ -27,7 +27,6 @@ The difference between  **Int** and **Fix** is that if _number_ is negative, **I
 
 ```vb
 Sgn(number) * Int(Abs(number))
-
 ```
 
 
@@ -46,8 +45,6 @@ MyNumber = Fix(-99.8)    ' Returns -99.
 
 MyNumber = Int(-99.2)    ' Returns -100.
 MyNumber = Fix(-99.2)    ' Returns -99.
-
-
 ```
 
 

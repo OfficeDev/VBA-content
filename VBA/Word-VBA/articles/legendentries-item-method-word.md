@@ -48,7 +48,6 @@ With ActiveDocument.InlineShapes(1)
  Font.Italic = True 
  End If 
 End With 
-
 ```
 
 

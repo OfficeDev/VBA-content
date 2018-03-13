@@ -36,7 +36,6 @@ The following example makes Datasheet View valid for the specified form and then
 ```vb
 Forms(0).AllowDatasheetView = True 
 DoCmd.OpenForm FormName:=Forms(0).Name, View:=acFormDS 
-
 ```
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Set Startup Properties from Visual Basic
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,21 +22,22 @@ When you set startup properties from Visual Basic, you should include error-hand
 The names of the startup properties differ from the text that appears in the  **Startup** dialog box. The following table provides the name of each startup property as it's used in Visual Basic code.
 
 
-|**Text in Startup dialog box**|**Property name**|
-|:-----|:-----|
-|Application Title|**[AppTitle](apptitle-property.md)**|
-|Application Icon|**[AppIcon](appicon-property.md)**|
-|Display Form/Page|**StartupForm**|
-|Display Database Window|**StartupShowDBWindow**|
-|Display Status Bar|**StartupShowStatusBar**|
-|Menu Bar|**StartupMenuBar**|
-|Shortcut Menu Bar|**StartupShortcutMenuBar**|
-|Allow Full Menus|**AllowFullMenus**|
-|Allow Default Shortcut Menus|**AllowShortcutMenus**|
-|Allow Built-In Toolbars|**AllowBuiltInToolbars**|
-|Allow Toolbar/Menu Changes|**AllowToolbarChanges**|
-|Allow Viewing Code After Error|**AllowBreakIntoCode**|
-|Use Access Special Keys|**AllowSpecialKeys**|
+| <strong>Text in Startup dialog box</strong> | <strong>Property name</strong>                                                                                  |
+|:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
+| Application Title                           | <strong><a href="apptitle-property.md" data-raw-source="[AppTitle](apptitle-property.md)">AppTitle</a></strong> |
+| Application Icon                            | <strong><a href="appicon-property.md" data-raw-source="[AppIcon](appicon-property.md)">AppIcon</a></strong>     |
+| Display Form/Page                           | <strong>StartupForm</strong>                                                                                    |
+| Display Database Window                     | <strong>StartupShowDBWindow</strong>                                                                            |
+| Display Status Bar                          | <strong>StartupShowStatusBar</strong>                                                                           |
+| Menu Bar                                    | <strong>StartupMenuBar</strong>                                                                                 |
+| Shortcut Menu Bar                           | <strong>StartupShortcutMenuBar</strong>                                                                         |
+| Allow Full Menus                            | <strong>AllowFullMenus</strong>                                                                                 |
+| Allow Default Shortcut Menus                | <strong>AllowShortcutMenus</strong>                                                                             |
+| Allow Built-In Toolbars                     | <strong>AllowBuiltInToolbars</strong>                                                                           |
+| Allow Toolbar/Menu Changes                  | <strong>AllowToolbarChanges</strong>                                                                            |
+| Allow Viewing Code After Error              | <strong>AllowBreakIntoCode</strong>                                                                             |
+| Use Access Special Keys                     | <strong>AllowSpecialKeys</strong>                                                                               |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

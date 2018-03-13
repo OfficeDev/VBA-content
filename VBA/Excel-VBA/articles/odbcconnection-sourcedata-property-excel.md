@@ -27,12 +27,13 @@ Returns the data source for the ODBC connection, as shown in the table. Read/wri
 
 
 
-|**Data source**|**Return value**|
-|:-----|:-----|
-|Microsoft Excel list or database|The cell reference, as text.|
-|External data source|An array. Each row consists of an SQL connection string with the remaining elements as the query string, broken down into 255-character segments.|
-|Multiple consolidation ranges|A two-dimensional array. Each row consists of a reference and its associated page field items.|
-|Another PivotTable report|One of the above three kinds of information.|
+| <strong>Data source</strong>     | <strong>Return value</strong>                                                                                                                     |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Microsoft Excel list or database | The cell reference, as text.                                                                                                                      |
+| External data source             | An array. Each row consists of an SQL connection string with the remaining elements as the query string, broken down into 255-character segments. |
+| Multiple consolidation ranges    | A two-dimensional array. Each row consists of a reference and its associated page field items.                                                    |
+| Another PivotTable report        | One of the above three kinds of information.                                                                                                      |
+
 This property is not available for OLE DB data sources.
 
 

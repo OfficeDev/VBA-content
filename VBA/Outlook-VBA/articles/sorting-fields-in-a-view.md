@@ -34,7 +34,7 @@ You can add either built-in or custom Outlook item properties to the  **OrderFie
 The following guidelines should be used when specifying built-in Outlook item properties:
 
 
-- Built-in properties can be specified either by property name (for example, "Subject") or by namespace (for example, "http://schemas.microsoft.com/mapi/proptag/0x0037001E").
+- Built-in properties can be specified either by property name (for example, "Subject") or by namespace (for example, "<http://schemas.microsoft.com/mapi/proptag/0x0037001E>").
     
 - Property names are not case-sensitive and cannot include spaces.
     

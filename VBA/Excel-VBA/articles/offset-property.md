@@ -27,7 +27,6 @@ With myChart.Axes(xlCategory).TickLabels
  .Offset = .Offset * 2 
  End If 
 End With 
-
 ```
 
 

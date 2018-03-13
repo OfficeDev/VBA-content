@@ -44,9 +44,11 @@ Destination can be one of these  **PbMailMergeDestination** constants. The defau
 
 
 
-| **pbSendToPrinter**|
-| **pbMergeToNewPublication**|
-| **pbMergeToExistingPublication**|
+| <strong>pbSendToPrinter</strong>|
+| 
+<strong>pbMergeToNewPublication</strong>|
+| 
+<strong>pbMergeToExistingPublication</strong>|
 
 ## Example
 

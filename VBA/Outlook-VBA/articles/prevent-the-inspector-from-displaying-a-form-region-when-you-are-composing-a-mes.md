@@ -15,7 +15,7 @@ When you create a form region in a custom form, by default, the form region will
 
 
 - In the form region manifest XML file, specify  **false** as the value of the **showInspectorCompose** element.
-    
+
 The following example disables the inspector from displaying a form region when in compose mode:
 
 

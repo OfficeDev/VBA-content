@@ -50,7 +50,6 @@ Do While Not EOF(1)    ' Loop until end of file.
             ' Immediate window.
 Loop
 Close #1    ' Close file.
-
 ```
 
 For files opened in modes other than Random mode,  **Seek** returns the byte position at which the next operation takes place. Assume `TESTFILE` is a file containing a few lines of text.

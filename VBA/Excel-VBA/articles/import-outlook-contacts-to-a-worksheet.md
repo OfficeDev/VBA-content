@@ -23,23 +23,23 @@ Sub Import_Contacts()
     Dim olFolder As Outlook.MAPIFolder
     Dim olConItems As Outlook.Items
     Dim olItem As Object
-    
+
     'Excel objects.
     Dim wbBook As Workbook
     Dim wsSheet As Worksheet
-    
+
     'Location in the imported contact list.
     Dim lnContactCount As Long
-    
+
     Dim strDummy As String
-    
+
     'Turn off screen updating.
     Application.ScreenUpdating = False
-    
+
     'Initialize the Excel objects.
     Set wbBook = ThisWorkbook
     Set wsSheet = wbBook.Worksheets(1)
-    
+
     'Format the target worksheet.
     With wsSheet
         .Range("A1").CurrentRegion.Clear
@@ -55,18 +55,18 @@ Sub Import_Contacts()
             .Font.Size = 11
         End With
     End With
-    
+
     wsSheet.Activate
-    
+
     'Initalize the Outlook variables with the MAPI namespace and the default Outlook folder of the current user.
     Set olApp = New Outlook.Application
     Set olNamespace = olApp.GetNamespace("MAPI")
     Set olFolder = olNamespace.GetDefaultFolder(10)
     Set olConItems = olFolder.Items
-            
+
     'Row number to place the new information on; starts at 2 to avoid overwriting the header
     lnContactCount = 2
-    
+
     'For each contact: if it is a business contact, write out the business info in the Excel worksheet;
     'otherwise, write out the personal info.
     For Each olItem In olConItems
@@ -94,31 +94,32 @@ Sub Import_Contacts()
             lnContactCount = lnContactCount + 1
         End If
     Next olItem
-    
+
     'Null out the variables.
     Set olItem = Nothing
     Set olConItems = Nothing
     Set olFolder = Nothing
     Set olNamespace = Nothing
     Set olApp = Nothing
-    
+
     'Sort the rows alphabetically using the CompanyName or FullName as appropriate, and then autofit.
     With wsSheet
         .Range("A2", Cells(2, 6).End(xlDown)).Sort key1:=Range("A2"), order1:=xlAscending
         .Range("A:F").EntireColumn.AutoFit
     End With
-            
+
     'Turn screen updating back on.
     Application.ScreenUpdating = True
-    
+
     MsgBox "The list has successfully been created!", vbInformation
-    
+
 End Sub
 ```
 
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 

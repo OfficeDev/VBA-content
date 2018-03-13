@@ -32,7 +32,7 @@ String
 
 The  **StartupPaths** property is set to an empty string ("") by default.
 
-The string passed to and received from the  **StartupPaths** property is the same string shown in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\StartupPath** subkey.
+The string passed to and received from the  <strong>StartupPaths</strong> property is the same string shown in the <strong>File Locations</strong> dialog box. (Click the <strong>File</strong> tab, click <strong>Options</strong>, click  <strong>Advanced</strong>, and then, under  <strong>General</strong>, click ** File Locations<strong>.) This string is stored in the  **HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Visio\Application\StartupPath</strong> subkey.
 
 When the application looks for third-party and user startup add-on files, it looks in all paths named in the  **StartupPaths** property, as well as at the paths of any startup add-ons installed at setup, and all the subfolders of those paths. If you pass the **StartupPaths** property to the **EnumDirectories** method, it returns a complete list of fully qualified paths in the folders passed in.
 

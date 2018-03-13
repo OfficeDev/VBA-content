@@ -20,12 +20,13 @@ Replaces a specified number of characters in a  **Variant** ( **String** )[varia
 The  **Mid** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _stringvar_|Required. Name of string variable to modify.|
-| _start_|Required;  **Variant** ( **Long** ). Character position in _stringvar_ where the replacement of text begins.|
-| _length_|Optional;  **Variant** ( **Long** ). Number of characters to replace. If omitted, all of _string_ is used.|
-| _string_|Required. [String expression](vbe-glossary.md) that replaces part of _stringvar_.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                  |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>stringvar</em>    | Required. Name of string variable to modify.                                                                                                  |
+| <em>start</em>        | Required;  <strong>Variant</strong> ( <strong>Long</strong> ). Character position in <em>stringvar</em> where the replacement of text begins. |
+| <em>length</em>       | Optional;  <strong>Variant</strong> ( <strong>Long</strong> ). Number of characters to replace. If omitted, all of <em>string</em> is used.   |
+| <em>string</em>       | Required. [String expression](vbe-glossary.md) that replaces part of <em>stringvar</em>.                                                      |
+
  **Remarks**
 The number of characters replaced is always less than or equal to the number of characters in  _stringvar_.
 
@@ -44,7 +45,6 @@ Mid(MyString, 5, 3) = "fox" ' MyString = "The fox jumps".
 Mid(MyString, 5) = "cow" ' MyString = "The cow jumps". 
 Mid(MyString, 5) = "cow jumped over" ' MyString = "The cow jumpe". 
 Mid(MyString, 5, 3) = "duck" ' MyString = "The duc jumpe". 
-
 ```
 
 

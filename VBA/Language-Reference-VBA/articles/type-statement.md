@@ -48,9 +48,8 @@ Type StateData
     CityCode (1 To 100) As Integer    ' Declare a static array. 
     County As String * 30 
 End Type 
- 
-Dim Washington(1 To 100) As StateData 
 
+Dim Washington(1 To 100) As StateData 
 ```
 
 In the preceding example,  `StateData` includes the `CityCode` static array, and the record `Washington` has the same structure as `StateData`.
@@ -71,7 +70,7 @@ Type EmployeeRecord    ' Create user-defined type.
 End Type 
 Sub CreateRecord() 
     Dim MyRecord As EmployeeRecord    ' Declare variable. 
- 
+
     ' Assignment to EmployeeRecord variable must occur in a procedure. 
     MyRecord.ID = 12003    ' Assign a value to an element. 
 End Sub

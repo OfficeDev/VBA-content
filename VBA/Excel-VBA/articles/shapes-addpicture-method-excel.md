@@ -48,20 +48,30 @@ Shape
 
 
 
-| **MsoTriState** can be one of these **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants.|
-| **msoCTrue**|
-| **msoFalse** To make the picture an independent copy of the file.|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** To link the picture to the file from which it was created.|
+| <strong>MsoTriState</strong> can be one of these <strong><a href="http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx" data-raw-source="[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)">MsoTriState</a></strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong> To make the picture an independent copy of the file.|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong> To link the picture to the file from which it was created.|
 
 
-| **MsoTriState** can be one of these **[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)** constants.|
-| **msoCTrue**|
-| **msoFalse** To store only the link information in the document.|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** To save the linked picture with the document into which it?s inserted. This argument must be **msoTrue** if _LinkToFile_ is **msoFalse** .|
+| <strong>MsoTriState</strong> can be one of these <strong><a href="http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx" data-raw-source="[MsoTriState](http://msdn.microsoft.com/library/2036cfc9-be7d-e05c-bec7-af05e3c3c515%28Office.15%29.aspx)">MsoTriState</a></strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong> To store only the link information in the document.|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong> To save the linked picture with the document into which it?s inserted. This argument must be <strong>msoTrue</strong> if <em>LinkToFile</em> is <strong>msoFalse</strong> .|
 
 ## Example
 

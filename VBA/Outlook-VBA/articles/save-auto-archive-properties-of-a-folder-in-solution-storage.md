@@ -16,29 +16,29 @@ The following illustrates the procedure:
     
       -  `oFolder` is the **[Folder](folder-object-outlook.md)** object to which the aging properties apply and where their values are stored.
     
-  -  `AgeFolder` indicates whether to archive or delete items in the folder as specified.
+   -  `AgeFolder` indicates whether to archive or delete items in the folder as specified.
     
-  -  `DeleteItems` indicates whether to delete, instead of archive, items that are older than the aging period.
+   -  `DeleteItems` indicates whether to delete, instead of archive, items that are older than the aging period.
     
-  -  `FileName` indicates a specific file for archiving aged items. If this is an empty string, the default archive file, archive.pst, will be used.
+   -  `FileName` indicates a specific file for archiving aged items. If this is an empty string, the default archive file, archive.pst, will be used.
     
-  -  `Granularity` indicates the unit of time for aging, whether archiving is to be calculated in units of months, weeks, or days.
+   -  `Granularity` indicates the unit of time for aging, whether archiving is to be calculated in units of months, weeks, or days.
     
-  -  `Period` indicates the amount of time in the given granularity. Together, the `Granularity` and `Period` values indicate an aging period. Items in the given folder older than this aging period are to be archived or deleted as specified. For example, a `Granularity` of 2 and `Period` of 14 specifies an aging period of 14 days, when items in the given folder older than 14 days should be either archived or deleted as specified.
+   -  `Period` indicates the amount of time in the given granularity. Together, the `Granularity` and `Period` values indicate an aging period. Items in the given folder older than this aging period are to be archived or deleted as specified. For example, a `Granularity` of 2 and `Period` of 14 specifies an aging period of 14 days, when items in the given folder older than 14 days should be either archived or deleted as specified.
     
-  -  `Default` indicates which settings should be set to the default. The possible values are 0, 1, and 3:
+   -  `Default` indicates which settings should be set to the default. The possible values are 0, 1, and 3:
     
       - 0 indicates nothing assumes a default value.
     
-  - 1 indicates that only the file location assumes a default value. This is the same as checking  **Archive this folder using these settings** and **Move old items to default archive folder** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
+   - 1 indicates that only the file location assumes a default value. This is the same as checking  **Archive this folder using these settings** and **Move old items to default archive folder** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
     
-  - 3 indicates all settings assume a default value. This is the same as checking  **Archive items in this folder using default settings** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
+   - 3 indicates all settings assume a default value. This is the same as checking  **Archive items in this folder using default settings** in the **AutoArchive** tab of the **Properties** dialog box for the folder.
     
 2. The validity of the parameters is checked.
     
 3. If the parameters are valid,  ** [Folder.GetStorage](folder-getstorage-method-outlook.md)** is used to create or get an existing **StorageItem** object with the message class, **IPC.MS.Outlook.AgingProperties**. 
     
-4.  **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**,  ** [StorageItem.Save](storageitem-save-method-outlook.md)** is used to save changes to the **StorageItem**.
+4. **PropertyAccessor** is then used to set the auto-archive properties on the **StorageItem**,  ** [StorageItem.Save](storageitem-save-method-outlook.md)** is used to save changes to the **StorageItem**.
     
 5. The  `TestAgingProps` procedure sets the auto-archive settings for the aging properties of the current folder so that items older than six months are moved to the default archive file.
     

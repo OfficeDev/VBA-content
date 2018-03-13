@@ -29,16 +29,17 @@ The string used with this property is the file converter class name. The class n
 
 
 
-|**Word format**|**File converter class name**|
-|:-----|:-----|
-|Word Document|""|
-|Document Template|"Dot"|
-|Text Only|"Text"|
-|Text Only with Line Breaks|"CRText"|
-|MS-DOS Text|"8Text"|
-|MS-DOS Text with Line Breaks|"8CRText"|
-|Rich Text Format|"Rtf"|
-|Unicode Text|"Unicode"|
+| <strong>Word format</strong> | <strong>File converter class name</strong> |
+|:-----------------------------|:-------------------------------------------|
+| Word Document                | ""                                         |
+| Document Template            | "Dot"                                      |
+| Text Only                    | "Text"                                     |
+| Text Only with Line Breaks   | "CRText"                                   |
+| MS-DOS Text                  | "8Text"                                    |
+| MS-DOS Text with Line Breaks | "8CRText"                                  |
+| Rich Text Format             | "Rtf"                                      |
+| Unicode Text                 | "Unicode"                                  |
+
 Use the  **[ClassName](fileconverter-classname-property-word.md)** property of the **[FileConverter](fileconverter-object-word.md)** object to determine the class name of an external file converter.
 
 

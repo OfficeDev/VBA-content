@@ -15,20 +15,22 @@ ms.date: 06/08/2017
 
 
 1. Select the controls or groups to center.
-    
-2. From the  **Format** menu, choose **Center in Form**.
-    
-3. From the cascading menu, choose one of the following:
-    
-    
-    
-      -  **Horizontally**
-    
-  -  **Vertically**
-    
 
-    
-    
+2. From the  **Format** menu, choose **Center in Form**.
+
+3. From the cascading menu, choose one of the following:
+
+
+
+~~~
+  -  **Horizontally**
+~~~
+
+  -  **Vertically**
+
+
+
+
 
 
 

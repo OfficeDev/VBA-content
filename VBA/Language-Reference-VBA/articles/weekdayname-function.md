@@ -20,11 +20,12 @@ Returns a string indicating the specified day of the week.
 The  **WeekdayName** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _weekday_|Required. The numeric designation for the day of the week. Numeric value of each day depends on setting of the  _firstdayofweek_ setting.|
-| _abbreviate_|Optional.  **Boolean** value that indicates if the weekday name is to be abbreviated. If omitted, the default is **False**, which means that the weekday name is not abbreviated.|
-| _firstdayofweek_|Optional. Numeric value indicating the first day of the week. See Settings section for values.|
+| <strong>Part</strong>   | <strong>Description</strong>                                                                                                                                                                                |
+|:------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>weekday</em>        | Required. The numeric designation for the day of the week. Numeric value of each day depends on setting of the  <em>firstdayofweek</em> setting.                                                            |
+| <em>abbreviate</em>     | Optional.  <strong>Boolean</strong> value that indicates if the weekday name is to be abbreviated. If omitted, the default is <strong>False</strong>, which means that the weekday name is not abbreviated. |
+| <em>firstdayofweek</em> | Optional. Numeric value indicating the first day of the week. See Settings section for values.                                                                                                              |
+
  **Settings**
 The  _firstdayofweek_ argument can have the following values:
 

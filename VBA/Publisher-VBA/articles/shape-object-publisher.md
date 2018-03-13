@@ -20,17 +20,17 @@ Represents an object in the drawing layer, such as an AutoShape, freeform, OLE o
 
 
 - Return an existing shape on a document.
-    
+
 - Return a shape or shapes within a selection.
-    
+
 - Return a newly created shape.
-    
+
 - Work with a group of shapes.
-    
+
 - Format a shape.
-    
+
 - Use other important shape properties.
-    
+
 
 ## Example
 
@@ -84,7 +84,6 @@ Sub FillAllSelectedShapes()
 
 ```
 shpShape In Selection.ShapeRange 
-       
 ```
 
 
@@ -115,7 +114,7 @@ Use  **[GroupItems](http://msdn.microsoft.com/library/9194f43b-bd8a-76a9-aa8c-17
 
 ```
 Sub WorkWithGroupShapes() 
- 
+
     With ActiveDocument.Pages(1).Shapes 
         .AddShape Type:=msoShapeIsoscelesTriangle, Left:=100, _ 
             Top:=72, Width:=100, Height:=100 
@@ -124,7 +123,7 @@ Sub WorkWithGroupShapes()
         .AddShape Type:=msoShapeIsoscelesTriangle, Left:=400, _ 
             Top:=72, Width:=100, Height:=100 
         .SelectAll 
- 
+
         With Selection.ShapeRange 
             .Group 
             .GroupItems(1).Fill.ForeColor _ 

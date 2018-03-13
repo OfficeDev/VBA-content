@@ -51,7 +51,6 @@ The following example alerts the user and displays the sync status if more than 
         MsgBox strStatus, vbInformation + vbOKOnly, "Error Information" 
     End If 
     Set objSync = Nothing 
-
 ```
 
 

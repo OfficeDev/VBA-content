@@ -45,7 +45,7 @@ You can use the  **OpenQuery** method to open a select or crosstab query in Data
 
 
 - [Calling Action Queries](http://www.utteraccess.com/wiki/index.php/Calling_Action_Queries)
-    
+
 
 ## Example
 
@@ -60,11 +60,13 @@ DoCmd.OpenQuery "Sales Totals Query", , acReadOnly
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

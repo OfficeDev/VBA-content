@@ -37,30 +37,53 @@ The PresetTexture parameter can be one of the following  **MsoPresetTexture** co
 
 
 
-| **msoTextureBlueTissuePaper**|
-| **msoTextureBouquet**|
-| **msoTextureBrownMarble**|
-| **msoTextureCanvas**|
-| **msoTextureCork**|
-| **msoTextureDenim**|
-| **msoTextureFishFossil**|
-| **msoTextureGranite**|
-| **msoTextureGreenMarble**|
-| **msoTextureMediumWood**|
-| **msoTextureNewsprint**|
-| **msoTextureOak**|
-| **msoTexturePaperBag**|
-| **msoTexturePapyrus**|
-| **msoTextureParchment**|
-| **msoTexturePinkTissuePaper**|
-| **msoTexturePurpleMesh**|
-| **msoTextureRecycledPaper**|
-| **msoTextureSand**|
-| **msoTextureStationery**|
-| **msoTextureWalnut**|
-| **msoTextureWaterDroplets**|
-| **msoTextureWhiteMarble**|
-| **msoTextureWovenMat**|
+| <strong>msoTextureBlueTissuePaper</strong>|
+| 
+<strong>msoTextureBouquet</strong>|
+| 
+<strong>msoTextureBrownMarble</strong>|
+| 
+<strong>msoTextureCanvas</strong>|
+| 
+<strong>msoTextureCork</strong>|
+| 
+<strong>msoTextureDenim</strong>|
+| 
+<strong>msoTextureFishFossil</strong>|
+| 
+<strong>msoTextureGranite</strong>|
+| 
+<strong>msoTextureGreenMarble</strong>|
+| 
+<strong>msoTextureMediumWood</strong>|
+| 
+<strong>msoTextureNewsprint</strong>|
+| 
+<strong>msoTextureOak</strong>|
+| 
+<strong>msoTexturePaperBag</strong>|
+| 
+<strong>msoTexturePapyrus</strong>|
+| 
+<strong>msoTextureParchment</strong>|
+| 
+<strong>msoTexturePinkTissuePaper</strong>|
+| 
+<strong>msoTexturePurpleMesh</strong>|
+| 
+<strong>msoTextureRecycledPaper</strong>|
+| 
+<strong>msoTextureSand</strong>|
+| 
+<strong>msoTextureStationery</strong>|
+| 
+<strong>msoTextureWalnut</strong>|
+| 
+<strong>msoTextureWaterDroplets</strong>|
+| 
+<strong>msoTextureWhiteMarble</strong>|
+| 
+<strong>msoTextureWovenMat</strong>|
 
 ## Example
 
@@ -73,7 +96,6 @@ ActiveDocument.Pages(1).Shapes _
  Left:=90, Top:=90, Width:=40, Height:=80) _ 
  .Fill.PresetTextured _ 
  PresetTexture:=msoTextureGreenMarble 
-
 ```
 
 

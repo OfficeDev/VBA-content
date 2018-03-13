@@ -38,8 +38,9 @@ The SegmentType parameter can be one of the  **MsoSegmentType** constants declar
 
 
 
-| **msoSegmentCurve**|
-| **msoSegmentLine**|
+| <strong>msoSegmentCurve</strong>|
+| 
+<strong>msoSegmentLine</strong>|
 
 ## Example
 
@@ -48,7 +49,7 @@ This example changes all straight segments to curved segments in the third shape
 
 ```vb
 Dim intCount As Integer 
- 
+
 With ActiveDocument.Pages(1).Shapes(3).Nodes 
  intCount = 1 
  Do While intCount <= .Count 
@@ -59,7 +60,6 @@ With ActiveDocument.Pages(1).Shapes(3).Nodes
  intCount = intCount + 1 
  Loop 
 End With 
-
 ```
 
 

@@ -50,12 +50,13 @@ The following table shows the values returned by the  **HyperlinkPart** method f
 
 
 
-|**Hyperlink field data**|**HyperlinkPart method returned values**|
-|:-----|:-----|
-|#http://www.microsoft.com#|**acDisplayedValue**: http://www.microsoft.com **acDisplayText**: **acAddress**: http://www.microsoft.com **acSubAddress**: **acScreenTip**: **acFullAddress**: http://www.microsoft.com|
-|Microsoft#http://www.microsoft.com#|**acDisplayedValue**: Microsoft **acDisplayText**: Microsoft **acAddress**: http://www.microsoft.com **acSubAddress**: **acScreenTip**: **acFullAddress**: http://www.microsoft.com|
-|Customers#http://www.microsoft.com#Form Customers|**acDisplayedValue**: Customers **acDisplayText**: Customers **acAddress**: http://www.microsoft.com **acSubAddress**: Form Customers **acScreenTip**: **acFullAddress**: http://www.microsoft.com#Form Customer|
-|##Form Customers#Enter Information|**acDisplayedValue**: Form Customers **acDisplayText**: **acAddress**: **acSubAddress**: Form Customers **acScreenTip**: Enter Information **acFullAddress**: #FormCustomer|
+| <strong>Hyperlink field data</strong>               | <strong>HyperlinkPart method returned values</strong>                                                                                                                                                                                                                                              |
+|:----------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| #<http://www.microsoft.com#>                        | <strong>acDisplayedValue</strong>: <http://www.microsoft.com> <strong>acDisplayText</strong>: <strong>acAddress</strong>: <http://www.microsoft.com> <strong>acSubAddress</strong>: <strong>acScreenTip</strong>: <strong>acFullAddress</strong>: http://www.microsoft.com                         |
+| Microsoft#<http://www.microsoft.com#>               | <strong>acDisplayedValue</strong>: Microsoft <strong>acDisplayText</strong>: Microsoft <strong>acAddress</strong>: <http://www.microsoft.com> <strong>acSubAddress</strong>: <strong>acScreenTip</strong>: <strong>acFullAddress</strong>: http://www.microsoft.com                                |
+| Customers#<http://www.microsoft.com#Form> Customers | <strong>acDisplayedValue</strong>: Customers <strong>acDisplayText</strong>: Customers <strong>acAddress</strong>: <http://www.microsoft.com> <strong>acSubAddress</strong>: Form Customers <strong>acScreenTip</strong>: <strong>acFullAddress</strong>: <http://www.microsoft.com#Form> Customer |
+| ##Form Customers#Enter Information                  | <strong>acDisplayedValue</strong>: Form Customers <strong>acDisplayText</strong>: <strong>acAddress</strong>: <strong>acSubAddress</strong>: Form Customers <strong>acScreenTip</strong>: Enter Information <strong>acFullAddress</strong>: #FormCustomer                                          |
+
 When you add an  _address_ part to a Hyperlink field by using the **Insert Hyperlink** dialog box (available by clicking **Hyperlink** on the **Insert** menu) or by typing an address part directly into a Hyperlink field, Microsoft Access adds the two # symbols that delimit parts of the hyperlink data.
 
 You can add or edit the  _displaytext_ part of a hyperlink field by right-clicking a hyperlink in a table, form, or report, pointing to **Hyperlink** on the shortcut menu, and then typing the display text in the **Text to display** box.
@@ -70,17 +71,17 @@ The following example uses all four of the  _part_ argument constants to display
 
 ```vb
 DisplayHyperlinkParts "MyHyperlinkTableName", "MyHyperlinkFieldName" 
- 
+
 Public Sub DisplayHyperlinkParts(ByVal strTable As String, _ 
  ByVal strField As String) 
- 
+
  Dim rst As New ADODB.Recordset 
  Dim strMsg As String 
- 
- 
+
+
  rst.Open strTable, CurrentProject.Connection, _ 
  adOpenForwardOnly, adLockReadOnly 
- 
+
  ' For each record in table. 
  Do Until rst.EOF 
  strMsg = "DisplayValue = " _ 
@@ -95,12 +96,12 @@ Public Sub DisplayHyperlinkParts(ByVal strTable As String, _
  &; HyperlinkPart(rst(strField), acScreenTip) _ 
  &; vbCrLf &; "Full Address = " _ 
  &; HyperlinkPart(rst(strField), acFullAddress) 
- 
+
  ' Show parts returned by HyperlinkPart function. 
  MsgBox strMsg 
  rst.MoveNext 
  Loop 
- 
+
 End Sub
 ```
 

@@ -49,7 +49,7 @@ Sub ChildShapes()
     With shpCanvas.CanvasItems
         .AddShape msoShapeRectangle, Left:=0, Top:=0, _
             Width:=100, Height:=100
-			
+            
         .AddShape msoShapeOval, Left:=0, Top:=50, _
             Width:=100, Height:=100
 
@@ -69,7 +69,7 @@ Sub ChildShapes()
             MsgBox "This is not a range of child shapes."
         End If
     End With
-	
+    
 End Sub
 ```
 

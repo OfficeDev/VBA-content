@@ -47,7 +47,6 @@ If myObject.Creator = wdCreatorCode Then
 Else 
     MsgBox "This is not a Microsoft Word object" 
 End If 
-
 ```
 
 

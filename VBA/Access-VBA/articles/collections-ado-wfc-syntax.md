@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Collections (ADO/WFC Syntax)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -23,18 +23,18 @@ ms.date: 06/08/2017
 ## Parameters
 <a name="sectionSection0"> </a>
 
+
  **Methods**
 
 
 ```
- 
+
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml(com.ms.wfc.data.Parameter param ) 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldelete_HV10294294.xml(int n ) 
 public void delete(String s ) 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml() 
 public Parameter Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml(int n ) 
 public Parameter getItem(String s ) 
-
 ```
 
  **Properties**
@@ -43,20 +43,20 @@ public Parameter getItem(String s )
 
 
 ```
- 
-public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml() 
 
+public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml() 
 ```
 
 
 ## Fields
 <a name="sectionSection1"> </a>
 
+
  **Methods**
 
 
 ```
- 
+
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml(String name,  int type ) 
 public void append(String name,  int type,  int definedSize ) 
 public void append(String name,  int type,  int definedSize,  int attrib ) 
@@ -65,7 +65,6 @@ public void delete(String s )
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml() 
 public com.ms.wfc.data.Field Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml(int n ) 
 public com.ms.wfc.data.Field getItem(String s ) 
-
 ```
 
  **Properties**
@@ -74,25 +73,24 @@ public com.ms.wfc.data.Field getItem(String s )
 
 
 ```
- 
-public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml() 
 
+public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml() 
 ```
 
 
 ## Errors
 <a name="sectionSection2"> </a>
 
+
  **Methods**
 
 
 ```
- 
+
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthclear_HV10294165.xml() 
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml() 
 public com.ms.wfc.data.Error Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml(int n ) 
 public com.ms.wfc.data.Error getItem(String s ) 
-
 ```
 
  **Properties**
@@ -101,9 +99,8 @@ public com.ms.wfc.data.Error getItem(String s )
 
 
 ```
- 
-public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml() 
 
+public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml() 
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

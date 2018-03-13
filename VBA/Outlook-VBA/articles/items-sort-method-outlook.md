@@ -40,15 +40,23 @@ Sorts the collection of items by the specified property. The index for the colle
 
 
 
-| **Categories**| **[LastFirstSpaceOnly](contactitem-lastfirstspaceonly-property-outlook.md)**|
-| **[Children](contactitem-children-property-outlook.md)**| **[LastFirstSpaceOnlyCompany](contactitem-lastfirstspaceonlycompany-property-outlook.md)**|
-| **Class**| **[MemberCount](distlistitem-membercount-property-outlook.md)**|
-| **[CompanyLastFirstNoSpace](contactitem-companylastfirstnospace-property-outlook.md)**| **[NetMeetingAlias](contactitem-netmeetingalias-property-outlook.md)**|
-| **[CompanyLastFirstSpaceOnly](contactitem-companylastfirstspaceonly-property-outlook.md)**| **[RecurrenceState](appointmentitem-recurrencestate-property-outlook.md)**|
-| **[DLName](distlistitem-dlname-property-outlook.md)**| **[ResponseState](taskitem-responsestate-property-outlook.md)**|
-| **[LastFirstAndSuffix](contactitem-lastfirstandsuffix-property-outlook.md)**| **Saved**|
-| **[LastFirstNoSpace](contactitem-lastfirstnospace-property-outlook.md)**| **Sent**|
-| **[LastFirstNoSpaceCompany](contactitem-lastfirstnospacecompany-property-outlook.md)**||
+| <strong>Categories</strong>| <strong><a href="contactitem-lastfirstspaceonly-property-outlook.md" data-raw-source="[LastFirstSpaceOnly](contactitem-lastfirstspaceonly-property-outlook.md)">LastFirstSpaceOnly</a></strong>|
+| 
+<strong><a href="contactitem-children-property-outlook.md" data-raw-source="[Children](contactitem-children-property-outlook.md)">Children</a></strong>| <strong><a href="contactitem-lastfirstspaceonlycompany-property-outlook.md" data-raw-source="[LastFirstSpaceOnlyCompany](contactitem-lastfirstspaceonlycompany-property-outlook.md)">LastFirstSpaceOnlyCompany</a></strong>|
+| 
+<strong>Class</strong>| <strong><a href="distlistitem-membercount-property-outlook.md" data-raw-source="[MemberCount](distlistitem-membercount-property-outlook.md)">MemberCount</a></strong>|
+| 
+<strong><a href="contactitem-companylastfirstnospace-property-outlook.md" data-raw-source="[CompanyLastFirstNoSpace](contactitem-companylastfirstnospace-property-outlook.md)">CompanyLastFirstNoSpace</a></strong>| <strong><a href="contactitem-netmeetingalias-property-outlook.md" data-raw-source="[NetMeetingAlias](contactitem-netmeetingalias-property-outlook.md)">NetMeetingAlias</a></strong>|
+| 
+<strong><a href="contactitem-companylastfirstspaceonly-property-outlook.md" data-raw-source="[CompanyLastFirstSpaceOnly](contactitem-companylastfirstspaceonly-property-outlook.md)">CompanyLastFirstSpaceOnly</a></strong>| <strong><a href="appointmentitem-recurrencestate-property-outlook.md" data-raw-source="[RecurrenceState](appointmentitem-recurrencestate-property-outlook.md)">RecurrenceState</a></strong>|
+| 
+<strong><a href="distlistitem-dlname-property-outlook.md" data-raw-source="[DLName](distlistitem-dlname-property-outlook.md)">DLName</a></strong>| <strong><a href="taskitem-responsestate-property-outlook.md" data-raw-source="[ResponseState](taskitem-responsestate-property-outlook.md)">ResponseState</a></strong>|
+| 
+<strong><a href="contactitem-lastfirstandsuffix-property-outlook.md" data-raw-source="[LastFirstAndSuffix](contactitem-lastfirstandsuffix-property-outlook.md)">LastFirstAndSuffix</a></strong>| <strong>Saved</strong>|
+| 
+<strong><a href="contactitem-lastfirstnospace-property-outlook.md" data-raw-source="[LastFirstNoSpace](contactitem-lastfirstnospace-property-outlook.md)">LastFirstNoSpace</a></strong>| <strong>Sent</strong>|
+| 
+<strong><a href="contactitem-lastfirstnospacecompany-property-outlook.md" data-raw-source="[LastFirstNoSpaceCompany](contactitem-lastfirstnospacecompany-property-outlook.md)">LastFirstNoSpaceCompany</a></strong>||
 
 ## Example
 
@@ -61,7 +69,7 @@ Sub SortByDueDate()
  Dim myFolder As Outlook.Folder 
  Dim myItem As Outlook.TaskItem 
  Dim myItems As Outlook.Items 
- 
+
  Set myNameSpace = Application.GetNamespace("MAPI") 
  Set myFolder = myNameSpace.GetDefaultFolder(olFolderTasks) 
  Set myItems = myFolder.Items 

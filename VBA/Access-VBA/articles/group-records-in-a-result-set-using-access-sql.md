@@ -22,7 +22,6 @@ SELECT CustomerID, Count(*) AS [Number of Invoices],
     Avg(Amount) AS [Average Invoice Amount] 
     FROM tblInvoices 
     GROUP BY CustomerID 
-
 ```
 
 Be aware that the statement will return one record that shows the customer ID, the number of invoices the customer has, and the average invoice amount, for every customer who has an invoice record in the invoices table. Because each customer invoice is handled as a group, you are able to count the number of invoices and then determine the average invoice amount.
@@ -36,7 +35,6 @@ SELECT CustomerID, Count(*) AS [Number of Invoices],
     FROM tblInvoices 
     GROUP BY CustomerID 
     HAVING Avg(Amount) < 100 
-
 ```
 
 

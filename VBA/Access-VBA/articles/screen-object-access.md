@@ -42,7 +42,7 @@ The following example uses the  **Screen** object to print the name of the form 
 ```
 Sub ActiveObjects() 
  Dim frm As Form, ctl As Control 
- 
+
  ' Return Form object pointing to active form. 
  Set frm = Screen.ActiveForm 
  MsgBox frm.Name &amp; " is the active form." 
@@ -51,7 +51,6 @@ Sub ActiveObjects()
  MsgBox ctl.Name &amp; " is the active control " _ 
  &amp; "on this form." 
 End Sub 
-
 ```
 
 

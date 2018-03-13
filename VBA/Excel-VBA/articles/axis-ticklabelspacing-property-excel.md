@@ -35,7 +35,6 @@ This example sets the number of categories between tick-mark labels on the categ
 
 ```vb
 Charts("Chart1").Axes(xlCategory).TickLabelSpacing = 10 
-
 ```
 
 

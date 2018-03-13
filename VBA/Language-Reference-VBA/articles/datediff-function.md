@@ -19,28 +19,30 @@ Returns a  **Variant** ( **Long** ) specifying the number of time intervals betw
 The  **DateDiff** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_interval_**|Required. [String expression](vbe-glossary.md) that is the interval of time you use to calculate the difference between **_date1_** and **_date2_**.|
-|**_date1_**, **_date2_**|Required;  **Variant** ( **Date** ). Two dates you want to use in the calculation.|
-|**_firstdayofweek_**|Optional. A [constant](vbe-glossary.md) that specifies the first day of the week. If not specified, Sunday is assumed.|
-|**_firstweekofyear_**|Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.|
+| <strong>Part</strong>                                            | <strong>Description</strong>                                                                                                                                                                 |
+|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>interval</em></strong>                               | Required. [String expression](vbe-glossary.md) that is the interval of time you use to calculate the difference between <strong><em>date1</em></strong> and <strong><em>date2</em></strong>. |
+| <strong><em>date1</em></strong>, <strong><em>date2</em></strong> | Required;  <strong>Variant</strong> ( <strong>Date</strong> ). Two dates you want to use in the calculation.                                                                                 |
+| <strong><em>firstdayofweek</em></strong>                         | Optional. A [constant](vbe-glossary.md) that specifies the first day of the week. If not specified, Sunday is assumed.                                                                       |
+| <strong><em>firstweekofyear</em></strong>                        | Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.                                        |
+
  **Settings**
 The  **_interval_**[argument](vbe-glossary.md) has these settings:
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|yyyy|Year|
-|q|Quarter|
-|m|Month|
-|y|Day of year|
-|d|Day|
-|w|Weekday|
-|ww|Week|
-|h|Hour|
-|n|Minute|
-|s|Second|
+| <strong>Setting</strong> | <strong>Description</strong> |
+|:-------------------------|:-----------------------------|
+| yyyy                     | Year                         |
+| q                        | Quarter                      |
+| m                        | Month                        |
+| y                        | Day of year                  |
+| d                        | Day                          |
+| w                        | Weekday                      |
+| ww                       | Week                         |
+| h                        | Hour                         |
+| n                        | Minute                       |
+| s                        | Second                       |
+
 The  **_firstdayofweek_** argument has these settings:
 
 
@@ -56,12 +58,13 @@ The  **_firstdayofweek_** argument has these settings:
 |**vbSaturday**|7|Saturday|
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseSystem**|0|Use the NLS API setting.|
-|**vbFirstJan1**|1|Start with week in which January 1 occurs (default).|
-|**vbFirstFourDays**|2|Start with the first week that has at least four days in the new year.|
-|**vbFirstFullWeek**|3|Start with first full week of the year.|
+| <strong>Constant</strong>        | <strong>Value</strong> | <strong>Description</strong>                                           |
+|:---------------------------------|:-----------------------|:-----------------------------------------------------------------------|
+| <strong>vbUseSystem</strong>     | 0                      | Use the NLS API setting.                                               |
+| <strong>vbFirstJan1</strong>     | 1                      | Start with week in which January 1 occurs (default).                   |
+| <strong>vbFirstFourDays</strong> | 2                      | Start with the first week that has at least four days in the new year. |
+| <strong>vbFirstFullWeek</strong> | 3                      | Start with first full week of the year.                                |
+
  **Remarks**
 You can use the  **DateDiff** function to determine how many specified time intervals exist between two dates. For example, you might use **DateDiff** to calculate the number of days between two dates, or the number of weeks between today and the end of the year.
 To calculate the number of days between  **_date1_** and **_date2_**, you can use either Day of year ("y") or Day ("d"). When **_interval_** is Weekday ("w"), **DateDiff** returns the number of weeks between the two dates. If **_date1_** falls on a Monday, **DateDiff** counts the number of Mondays until **_date2_**. It counts **_date2_** but not **_date1_**. If **_interval_** is Week ("ww"), however, the **DateDiff** function returns the number of calendar weeks between the two dates. It counts the number of Sundays between **_date1_** and **_date2_**. **DateDiff** counts **_date2_** if it falls on a Sunday; but it doesn't count **_date1_**, even if it does fall on a Sunday.
@@ -84,8 +87,6 @@ Dim Msg
 TheDate = InputBox("Enter a date")
 Msg = "Days from today: " &; DateDiff("d", Now, TheDate)
 MsgBox Msg
-
-
 ```
 
 

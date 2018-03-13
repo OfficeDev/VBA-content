@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # URL Property Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,6 +19,7 @@ The following code demonstrates how to set the  **URL** property on the client s
 
 ```vb
 <!-- BeginURLClientVBS --> 
+
 <%@ Language=VBScript %> 
 <html>
 <head> 
@@ -93,6 +94,7 @@ End Sub
 </script> 
 </body> 
 </html> 
+
 <!-- EndURLClientVBS -->
 ```
 
@@ -102,6 +104,7 @@ The server-side code that exists in  **URLServerVBS.asp** submits the updated **
 
 ```vb
 <!-- BeginURLServerVBS --> 
+
 <%@ Language=VBScript %> 
 <% 
 ' XML output req's 

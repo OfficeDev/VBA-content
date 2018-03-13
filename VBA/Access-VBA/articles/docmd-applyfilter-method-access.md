@@ -96,11 +96,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

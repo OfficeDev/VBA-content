@@ -31,11 +31,11 @@ Use the  **SharedWorkspaceMember** object's three distinct name properties to re
 
 
 - the  **Name** property returns the members display name;
-    
+
 - the  **Email** property returns the member's e-mail address; and,
-    
+
 - the  **DomainName** property returns the member's domain and user name in the format `domain\user`.
-    
+
 
 
 
@@ -59,7 +59,6 @@ The following example displays the number of members in the active document's sh
     MsgBox strMemberInfo, vbInformation + vbOKOnly, _ 
         "Members in Shared Workspace" 
     Set swsMember = Nothing 
-
 ```
 
 

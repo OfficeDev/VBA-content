@@ -49,6 +49,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### Format strings
 
 |**Format string**|**Description**|

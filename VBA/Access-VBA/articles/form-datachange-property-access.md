@@ -35,7 +35,6 @@ The following example specifies that when the  **DataChange** event occurs on th
 
 ```vb
 Forms(0).DataChange = "[Event Procedure]" 
-
 ```
 
 

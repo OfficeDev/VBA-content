@@ -48,11 +48,12 @@ The following possible values for  _RotationType_ are declared in **VisRotationT
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRotateSelectionWithPin**|1|Rotates the selection around a pin.|
-| **visRotateSelection**|0|Rotates the selection relative to the center of the selection.|
-| **visRotateShapes**|2|Rotates the selected shapes around their pins relative to their current angle.|
+| <strong>Constant</strong>                  | <strong>Value</strong> | <strong>Description</strong>                                                   |
+|:-------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+| <strong>visRotateSelectionWithPin</strong> | 1                      | Rotates the selection around a pin.                                            |
+| <strong>visRotateSelection</strong>        | 0                      | Rotates the selection relative to the center of the selection.                 |
+| <strong>visRotateShapes</strong>           | 2                      | Rotates the selected shapes around their pins relative to their current angle. |
+
 Passing  **True** for the optional _BlastGuards_ argument overrides formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied.
 
 The default value for  _RotationType_ is **visRotateSelection** .
@@ -69,20 +70,20 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 ```vb
 Public Sub Rotate_Example() 
- 
+
  Dim vsoShape1 As Visio.Shape 
  Dim vsoShape2 As Visio.Shape 
- 
+
  Set vsoShape1 = Application.ActiveWindow.Page.DrawRectangle(1, 9, 3, 7) 
  Set vsoShape2 = Application.ActiveWindow.Page.DrawRectangle(3, 6, 5, 5) 
- 
+
  ActiveWindow.DeselectAll 
- 
+
  ActiveWindow.Select vsoShape1, visSelect 
  ActiveWindow.Select vsoShape2, visSelect 
- 
+
  Application.ActiveWindow.Selection.Rotate 45, visDegrees 
- 
+
 End Sub
 ```
 

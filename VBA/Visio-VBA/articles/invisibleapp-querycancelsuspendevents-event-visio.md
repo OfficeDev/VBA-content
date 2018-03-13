@@ -15,7 +15,7 @@ Occurs before the application suspends events in response to a client code. If a
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelSuspendEvents**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelSuspendEvents</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ An expression that returns a **InvisibleApp** object.
 

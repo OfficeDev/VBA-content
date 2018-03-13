@@ -46,14 +46,13 @@ The following code sets various properties of the  **PickerDialog** object.
 ```
 Dim objPickerDialog As PickerDialog 
 Dim objPickerProperties As PickerProperties 
- 
+
 ' Configure Picker Dialog properties. 
 Set objPickerDialog = Application.PickerDialog 
 objPickerDialog.DataHandlerId = "{000CDF0A-0000-0000-C000-000000000046}" 
 objPickerDialog.Title = "Sample Picker Dialog" 
 Set objPickerProperties = objPickerDialog.Properties 
 Set objPickerProperty = objPickerProperties.Add("SiteUrl", "http://my", msoPickerFieldtypeText) 
-
 ```
 
 

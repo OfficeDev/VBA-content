@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Avg Function (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,6 +26,7 @@ Calculates the arithmetic mean of a set of values contained in a specified field
 ## Syntax
 <a name="sectionSection0"> </a>
 
+
  **Avg(** _expr_ **)**
 
 The  _expr_ placeholder represents a string expression identifying the field that contains the numeric data you want to average or an expression that performs a calculation using the data in that field. Operands in _expr_ can include the name of a table field, a constant, or a function (which can be either intrinsic or user-defined but not one of the other SQL aggregate functions).
@@ -33,6 +34,7 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 The average calculated by  **Avg** is the arithmetic mean (the sum of the values divided by the number of values). You could use **Avg**, for example, to calculate average freight cost.
 
@@ -44,6 +46,7 @@ You can use  **Avg** in a query expression and in the **SQL** property of a **Qu
 ## Example
 <a name="sectionSection2"> </a>
 
+
 This example uses the Orders table to calculate the average freight charges for orders with freight charges over $100. 
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
@@ -53,29 +56,29 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub AvgX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Calculate the average freight charges for orders 
     ' with freight charges over $100.   
     Set rst = dbs.OpenRecordset("SELECT Avg(Freight)" _ 
         &; " AS [Average Freight]" _ 
         &; " FROM Orders WHERE Freight > 100;") 
-    
+
     ' Populate the Recordset. 
     rst.MoveLast 
-    
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 25 
- 
+
     dbs.Close 
- 
+
 End Sub
 ```
 

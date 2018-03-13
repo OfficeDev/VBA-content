@@ -19,11 +19,12 @@ Occurs when the  **OnAction**[property](vbe-glossary.md) of a corresponding comm
 The Click event syntax has these [named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_ctrl_**|Required; [Object](vbe-glossary.md). Specifies the object that is the source of the Click event.|
-|**_handled_**|Required; [Boolean](vbe-glossary.md). If  **True**, other[add-ins](vbe-glossary.md) should handle the event. If **False**, the action of the command bar item has not been handled.|
-|**_canceldefault_**|Required;  **Boolean**. If **True**, default behavior is performed unless canceled by a downstream add-in. If **False**, default behavior is not performed unless restored by a downstream add-in.|
+| <strong>Part</strong>                   | <strong>Description</strong>                                                                                                                                                                                                              |
+|:----------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>ctrl</em></strong>          | Required; [Object](vbe-glossary.md). Specifies the object that is the source of the Click event.                                                                                                                                          |
+| <strong><em>handled</em></strong>       | Required; [Boolean](vbe-glossary.md). If  <strong>True</strong>, other[add-ins](vbe-glossary.md) should handle the event. If <strong>False</strong>, the action of the command bar item has not been handled.                             |
+| <strong><em>canceldefault</em></strong> | Required;  <strong>Boolean</strong>. If <strong>True</strong>, default behavior is performed unless canceled by a downstream add-in. If <strong>False</strong>, default behavior is not performed unless restored by a downstream add-in. |
+
  **Remarks**
 The Click event is specific to the  **CommandBarEvents** object. Use a[variable](vbe-glossary.md) declared using the **WithEvents** keyword to receive the Click event for a **CommandBar** control. This variable should be set to the return value of the **CommandBarEvents** property of the **Events** object. The **CommandBarEvents** property takes the **CommandBar** control as an[argument](vbe-glossary.md). When the  **CommandBar** control is clicked (for the variable you declared using the **WithEvents** keyword), the code is executed.
 

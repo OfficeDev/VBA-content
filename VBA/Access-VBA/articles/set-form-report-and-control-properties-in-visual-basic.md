@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Set Form, Report, and Control Properties in Visual Basic
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -25,6 +25,7 @@ ms.date: 06/08/2017
 
 ## To set a property of a form or report
 <a name="sectionSection0"> </a>
+
 
 Refer to the individual form or report within the  **[Forms](http://msdn.microsoft.com/library/A41AF7BE-873C-EF8B-20CD-24B78A25B5CA%28Office.15%29.aspx)** or **[Reports](http://msdn.microsoft.com/library/37C5F55E-3C3A-6140-D305-7E8118D9D2B1%28Office.15%29.aspx)** collection, followed by the name of the property and its value. For example, to set the **Visible** property of the Customers form to **True** (-1), use the following line of code:
 
@@ -46,6 +47,7 @@ Me.RecordSource = "SELECT * FROM Customers " _
 
 ## To set a property of a control
 <a name="sectionSection1"> </a>
+
 
 Refer to the control in the  **[Controls](http://msdn.microsoft.com/library/26771888-86E8-28C3-6668-F793474CBB5B%28Office.15%29.aspx)** collection of the **Form** or **Report** object on which it resides. You can refer to the **Controls** collection either implicitly or explicitly, but the code executes faster if you use an implicit reference. The following examples set the **Visible** property of a text box called CustomerID on the Customers form:
 
@@ -75,6 +77,7 @@ End With
 
 ## To set a property of a form or report section
 <a name="sectionSection2"> </a>
+
 
 Refer to the form or report within the  **Forms** or **Reports** collection, followed by the **Section** property and the integer or constant that identifies the section. The following examples set the **Visible** property of the page header section of the Customers form to **False**:
 

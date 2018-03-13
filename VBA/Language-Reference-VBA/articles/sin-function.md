@@ -31,7 +31,6 @@ This example uses the  **Sin** function to return the sine of an angle.
 Dim MyAngle, MyCosecant
 MyAngle = 1.3    ' Define angle in radians.
 MyCosecant = 1 / Sin(MyAngle)    ' Calculate cosecant.
-
 ```
 
 

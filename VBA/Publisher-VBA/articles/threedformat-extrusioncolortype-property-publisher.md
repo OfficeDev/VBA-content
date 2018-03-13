@@ -44,7 +44,6 @@ With ActiveDocument.Pages(1).Shapes(1).ThreeD
         .ExtrusionColor.RGB = RGB(240, 235, 16) 
     End If 
 End With 
-
 ```
 
 

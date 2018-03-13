@@ -33,9 +33,9 @@ Instead of creating the main form, and then adding the subform control to it, yo
 
 
 - [Create a Subform with Alternating Color Rows](http://www.utteraccess.com/wiki/index.php/Create_a_Subform_with_Alternating_Color_Rows)
-    
+
 - [Referring To Properties And Controls On Subforms](http://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
-    
+
 
 ## Events
 
@@ -132,11 +132,13 @@ Instead of creating the main form, and then adding the subform control to it, yo
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Other resources

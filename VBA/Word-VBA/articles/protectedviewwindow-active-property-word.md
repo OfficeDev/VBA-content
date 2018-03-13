@@ -30,7 +30,6 @@ The following code example activates the first protected view window in the [Pro
 
 ```
 ProtectedViewWindows.Open FileName:="C:\MyFiles\MyDoc.doc" 
-
 ```
 
 

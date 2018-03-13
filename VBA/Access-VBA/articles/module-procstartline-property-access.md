@@ -38,25 +38,26 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**vbext_pk_Get**|A  **Property Get** procedure.|
-|**vbext_pk_Let**|A  **Property Let** procedure.|
-|**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
-|**vbext_pk_Set**|A  **Property Se** t procedure.|
+| <strong>Constant</strong>      | <strong>Description</strong>                                    |
+|:-------------------------------|:----------------------------------------------------------------|
+| <strong>vbext_pk_Get</strong>  | A  <strong>Property Get</strong> procedure.                     |
+| <strong>vbext_pk_Let</strong>  | A  <strong>Property Let</strong> procedure.                     |
+| <strong>vbext_pk_Proc</strong> | A  <strong>Sub</strong> or <strong>Function</strong> procedure. |
+| <strong>vbext_pk_Set</strong>  | A  <strong>Property Se</strong> t procedure.                    |
+
 A procedure begins with any comments and compilation constants that immediately precede the procedure definition, denoted by one of the following:
 
 
 - A  **Sub** statement.
-    
+
 - A  **Function** statement.
-    
+
 - A  **Property Get** statement.
-    
+
 - A  **Property Let** statement.
-    
+
 - A  **Property Set** statement.
-    
+
 The  **ProcStartLine** property returns the number of the line on which the specified procedure begins. The beginning of the procedure may include comments or compilation constants that precede the procedure definition.
 
 To determine the line on which the procedure definition begins, use the  **[ProcBodyLine](module-procbodyline-property-access.md)** property. This property returns the number of the line that begins with a **Sub**, **Function**, **Property Get**, **Property Let**, or **Property Set** statement.
@@ -77,10 +78,10 @@ The following example displays a message indicating where a particular procedure
 ```vb
 Dim strForm As String 
 Dim strProc As String 
- 
+
 strForm = "Products" 
 strProc = "Form_Activate" 
- 
+
 MsgBox "The procedure " &; strProc &; " starts on line " &; _ 
  Forms(strForm).Module.ProcStartLine(strProc, vbext_pk_Proc) &; "."
 ```

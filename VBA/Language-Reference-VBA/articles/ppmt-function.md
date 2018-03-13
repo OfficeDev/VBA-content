@@ -19,14 +19,15 @@ Returns a [Double](vbe-glossary.md) specifying the principal payment for a given
 The  **PPmt** function has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_rate_**|Required.  **Double** specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.|
-|**_per_**|Required. [Integer](vbe-glossary.md) specifying payment period in the range 1 through **_nper_**.|
-|**_nper_**|Required.  **Integer** specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
-|**_pv_**|Required.  **Double** specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make.|
-|**_fv_**|Optional. [Variant](vbe-glossary.md) specifying future value or cash balance you want after you've made the final payment. For example, the future value of a loan is $0 because that's its value after the final payment. However, if you want to save $50,000 over 18 years for your child's education, then $50,000 is the future value. If omitted, 0 is assumed.|
-|**_type_**|Optional.  **Variant** specifying when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.|
+| <strong>Part</strong>          | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                          |
+|:-------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>rate</em></strong> | Required.  <strong>Double</strong> specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.                                                                                                                                      |
+| <strong><em>per</em></strong>  | Required. [Integer](vbe-glossary.md) specifying payment period in the range 1 through <strong><em>nper</em></strong>.                                                                                                                                                                                                                                                 |
+| <strong><em>nper</em></strong> | Required.  <strong>Integer</strong> specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.                                                                                                                                            |
+| <strong><em>pv</em></strong>   | Required.  <strong>Double</strong> specifying present value, or value today, of a series of future payments or receipts. For example, when you borrow money to buy a car, the loan amount is the present value to the lender of the monthly car payments you will make.                                                                                               |
+| <strong><em>fv</em></strong>   | Optional. [Variant](vbe-glossary.md) specifying future value or cash balance you want after you've made the final payment. For example, the future value of a loan is $0 because that's its value after the final payment. However, if you want to save $50,000 over 18 years for your child's education, then $50,000 is the future value. If omitted, 0 is assumed. |
+| <strong><em>type</em></strong> | Optional.  <strong>Variant</strong> specifying when payments are due. Use 0 if payments are due at the end of the payment period, or use 1 if payments are due at the beginning of the period. If omitted, 0 is assumed.                                                                                                                                              |
+
  **Remarks**
 An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
 The  **_rate_** and **_nper_**[arguments](vbe-glossary.md) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
@@ -69,7 +70,6 @@ If MakeChart <> vbNo Then
     Next Period
     MsgBox Msg    ' Display amortization table.
 End If
-
 ```
 
 

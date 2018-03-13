@@ -44,16 +44,17 @@ The  _Direction_ parameter must be one of the following **VisResizeDirection** c
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visResizeDirE**|0|Right, middle shape handle.|
-| **visResizeDirNE**|1|Right, top shape handle.|
-| **visResizeDirN**|2|Center, top shape handle.|
-| **visResizeDirNW**|3|Left, top shape handle.|
-| **visResizeDirW**|4|Left, middle shape handle.|
-| **visResizeDirSW**|5|Left, bottom shape handle.|
-| **visResizeDirS**|6|Center, bottom shape handle.|
-| **visResizeDirSE**|7|Right, bottom shape handle.|
+| <strong>Constant</strong>       | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------------|:-----------------------|:-----------------------------|
+| <strong>visResizeDirE</strong>  | 0                      | Right, middle shape handle.  |
+| <strong>visResizeDirNE</strong> | 1                      | Right, top shape handle.     |
+| <strong>visResizeDirN</strong>  | 2                      | Center, top shape handle.    |
+| <strong>visResizeDirNW</strong> | 3                      | Left, top shape handle.      |
+| <strong>visResizeDirW</strong>  | 4                      | Left, middle shape handle.   |
+| <strong>visResizeDirSW</strong> | 5                      | Left, bottom shape handle.   |
+| <strong>visResizeDirS</strong>  | 6                      | Center, bottom shape handle. |
+| <strong>visResizeDirSE</strong> | 7                      | Right, bottom shape handle.  |
+
 When you resize a selection in a diagonal direction (that is, NE, NW, SE, or SW), the specified distance is applied along both the horizontal and vertical axes (as opposed to along the compass direction).
 
 

@@ -30,12 +30,17 @@ If you set the value of this property to anything other than  **msoCalloutAngleA
 
 
 |MsoCalloutAngleType can be one of these MsoCalloutAngleType constants.|
-| **msoCalloutAngle30**|
-| **msoCalloutAngle45**|
-| **msoCalloutAngle60**|
-| **msoCalloutAngle90**|
-| **msoCalloutAngleAutomatic**|
-| **msoCalloutAngleMixed**|
+| <strong>msoCalloutAngle30</strong>|
+| 
+<strong>msoCalloutAngle45</strong>|
+| 
+<strong>msoCalloutAngle60</strong>|
+| 
+<strong>msoCalloutAngle90</strong>|
+| 
+<strong>msoCalloutAngleAutomatic</strong>|
+| 
+<strong>msoCalloutAngleMixed</strong>|
 
 ## Example
 

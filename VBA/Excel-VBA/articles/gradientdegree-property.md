@@ -37,7 +37,6 @@ With myChart.ChartArea.Fill
  End If 
  End If 
 End With 
-
 ```
 
 

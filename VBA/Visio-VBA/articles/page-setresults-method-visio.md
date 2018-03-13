@@ -70,12 +70,13 @@ The  _Flags_ parameter should be a bitmask of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visSetFormulas**|&;H1|Treat strings in results as formulas.|
-| **visSetBlastGuards**|&;H2|Override present cell values even if they're guarded.|
-| **visSetTestCircular**|&;H4|Test for establishment of circular cell references.|
-| **visSetUniversalSyntax**|&;H8|Formulas are in universal syntax|
+| <strong>Constant</strong>              | <strong>Value</strong> | <strong>Description</strong>                          |
+|:---------------------------------------|:-----------------------|:------------------------------------------------------|
+| <strong>visSetFormulas</strong>        | &;H1                   | Treat strings in results as formulas.                 |
+| <strong>visSetBlastGuards</strong>     | &;H2                   | Override present cell values even if they're guarded. |
+| <strong>visSetTestCircular</strong>    | &;H4                   | Test for establishment of circular cell references.   |
+| <strong>visSetUniversalSyntax</strong> | &;H8                   | Formulas are in universal syntax                      |
+
 The value returned by the  **SetResults** method is the number of entries in _SID_SRCStream()_ that were successfully processed. If _i < n_ entries are processed correctly, but an error occurs on the _i_ + 1st entry, the **SetResults** method raises an exception and returns _i_ . Otherwise, _n_ is returned.
 
 
@@ -89,27 +90,27 @@ This example uses the  **GetResults** method of the **Page** object to get 3 cel
 
 
 ```vb
- 
+
 Public Sub Set Results_Example() 
- 
+
  On Error GoTo HandleError 
- 
+
  Dim aintSheetSectionRowColumn(1 To (3 * 4)) As Integer 
  aintSheetSectionRowColumn(1) = ActivePage.Shapes(1).ID 
  aintSheetSectionRowColumn(2) = visSectionObject 
  aintSheetSectionRowColumn(3) = visRowXFormOut 
  aintSheetSectionRowColumn(4) = visXFormWidth 
- 
+
  aintSheetSectionRowColumn(5) = ActivePage.Shapes(2).ID 
  aintSheetSectionRowColumn(6) = visSectionObject 
  aintSheetSectionRowColumn(7) = visRowXFormOut 
  aintSheetSectionRowColumn(8) = visXFormHeight 
- 
+
  aintSheetSectionRowColumn(9) = ActivePage.Shapes(3).ID 
  aintSheetSectionRowColumn(10) = visSectionObject 
  aintSheetSectionRowColumn(11) = visRowXFormOut 
  aintSheetSectionRowColumn(12) = visXFormAngle 
- 
+
  'Get the first two values in inches. The second element in 
  'the units array is left uninitialized (empty) because we 
  'want the second result in the same units as the first 
@@ -118,43 +119,43 @@ Public Sub Set Results_Example()
  Dim avarUnits(1 To 3) As Variant 
  avarUnits(1) = "in." 
  avarUnits(3) = visDegrees 
- 
+
  'Return results of cells as an array of floating point numbers. 
  Dim avarResults() As Variant 
  ActivePage.GetResults aintSheetSectionRowColumn, visGetFloats, _ 
  avarUnits, avarResults 
- 
+
  'Use SetResults to: 
- 
+
  ' - Set the width of shape 1 to the height of shape 2. 
- 
+
  ' - Set the height of shape 2 to the width of shape 1. 
- 
+
  'NOTE: avarResults() is indexed from 0 to 2. 
- 
+
  Dim varTemp As variant 
  varTemp = avarResults(0) 
  avarResults(0) = avarResults(1) 
  avarResults(1) = varTemp 
- 
+
  'Pass the same array back to SetResults that we 
  'just passed to GetResults, but leave the angle 
  'alone. By setting the sheet ID entry in the third 
  'slot of the aintSheetSectionRowColumn array to 
  'visInvalShapeID, we tell SetResults to ignore that slot. 
  aintSheetSectionRowColumn(9) = visInvalShapeID 
- 
+
  'Set the results of the cells. 
  ActivePage.SetResults aintSheetSectionRowColumn, avarUnits, avarResults, 0 
- 
+
  Exit Sub 
- 
+
 HandleError: 
- 
+
  MsgBox "Error" 
- 
+
  Exit Sub 
- 
+
 End Sub
 ```
 

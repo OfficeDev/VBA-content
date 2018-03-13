@@ -18,7 +18,6 @@ The  _wherecondition_ argument of the **[OpenForm](docmd-openform-method-access.
 
 ```vb
 DoCmd.OpenReport "Invoice", acViewPreview, , "OrderID = " &; OrderID 
-
 ```
 
 The  `"OrderID = "` in the filter expression refers to the OrderID field in the Invoice report's underlying query. The OrderID on the right side of the expression refers to the value the user selected from the OrderID list in the dialog box. The expression concatenates the two, causing the report to include only the invoice for the record the user selected.

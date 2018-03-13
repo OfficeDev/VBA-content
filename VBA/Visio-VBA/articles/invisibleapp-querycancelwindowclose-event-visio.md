@@ -15,7 +15,7 @@ Occurs before the application closes a window in response to a user action in th
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelWindowClose**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelWindowClose</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

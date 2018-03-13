@@ -19,18 +19,20 @@ Retrieves a text string from the  **DataObject** using the specified[format](glo
 The  **GetText** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object name.|
-| _format_|Optional. A string or integer specifying the format of the data to retrieve from the  **DataObject**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                       |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object name.                                                                                     |
+| <em>format</em>       | Optional. A string or integer specifying the format of the data to retrieve from the  <strong>DataObject</strong>. |
+
  **Settings**
 The settings for  _format_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|1|Text format.|
-|A string or any integer other than 1|A user-defined  **DataObject** format passed to the **DataObject** from **SetText**.|
+| <strong>Value</strong>               | <strong>Description</strong>                                                                                                |
+|:-------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| 1                                    | Text format.                                                                                                                |
+| A string or any integer other than 1 | A user-defined  <strong>DataObject</strong> format passed to the <strong>DataObject</strong> from <strong>SetText</strong>. |
+
  **Remarks**
 The  **DataObject** supports multiple formats, but only supports one data item of each format. For example, the **DataObject** might include one text item and one item in a custom format; but cannot include two text items.
 If no format is specified, the  **GetText** method requests information in the Text format from the **DataObject**.

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # IN Clause (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -25,6 +25,7 @@ Identifies tables in any external database to which the Microsoft Access databas
 
 ## Syntax
 <a name="sectionSection0"> </a>
+
 
 To identify a destination table:
 
@@ -47,6 +48,7 @@ A SELECT statement containing an IN clause has these parts:
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 You can use IN to connect to only one external database at a time.
 
@@ -72,15 +74,17 @@ You can also use the DATABASE reserved word to specify the external database. Fo
 ## Example
 <a name="sectionSection2"> </a>
 
+
 The following table shows how you can use the IN clause to retrieve data from an external database. In each example, assume the hypothetical Customers table is stored in an external database.
 
 
 
 
 
-|**External database**|**SQL statement**|
-|:-----|:-----|
-|Microsoft® Access atabase engine database|
+| <strong>External database</strong>        | <strong>SQL statement</strong> |
+|:------------------------------------------|:-------------------------------|
+| Microsoft® Access atabase engine database |                                |
+
 ```
 SELECT CustomerID
 FROM Customers
@@ -95,7 +99,6 @@ SELECT CustomerID
 FROM Customer
 IN "C:\DBASE\DATA\SALES" "dBASE IV;"
 WHERE CustomerID Like "A*";
-
 ```
 
 |
@@ -105,7 +108,6 @@ SELECT CustomerID
 FROM Customer
 IN "" [dBASE IV; Database=C:\DBASE\DATA\SALES;] 
 WHERE CustomerID Like "A*";
-
 ```
 
 |
@@ -115,7 +117,6 @@ SELECT CustomerID
 FROM Customer
 IN "C:\PARADOX\DATA\SALES" "Paradox 4.x;"
 WHERE CustomerID Like "A*";
-
 ```
 
 |
@@ -125,7 +126,6 @@ SELECT CustomerID
 FROM Customer
 IN "" [Paradox 4.x;Database=C:\PARADOX\DATA\SALES;] 
 WHERE CustomerID Like "A*";
-
 ```
 
 |
@@ -136,7 +136,6 @@ FROM [Customers$]
 IN "c:\documents\xldata.xls" "EXCEL 5.0;"
 WHERE CustomerID Like "A*"
 ORDER BY CustomerID;
-
 ```
 
 |

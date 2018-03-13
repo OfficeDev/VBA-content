@@ -21,9 +21,10 @@ Returns the number of text lines in a  **TextBox** or **ComboBox**.
 The  **LineCount** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
 The  **LineCount** property is read-only.
 

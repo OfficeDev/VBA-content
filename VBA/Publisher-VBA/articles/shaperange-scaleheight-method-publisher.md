@@ -39,10 +39,11 @@ The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constant
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**|Scales the shape relative to its current size.|
-| **msoTrue**|Scales the shape relative to its original size.|
+| <strong>Constant</strong> | <strong>Description</strong>                    |
+|:--------------------------|:------------------------------------------------|
+| <strong>msoFalse</strong> | Scales the shape relative to its current size.  |
+| <strong>msoTrue</strong>  | Scales the shape relative to its original size. |
+
 The fScale parameter can be one of the  **MsoScaleFrom** constants declared in the Microsoft Office type library and shown in the following table. The default is **msoScaleFromTopLeft**.
 
 
@@ -63,7 +64,7 @@ This example scales all pictures and OLE objects on the first page of the active
 ```vb
 ' Looping variable. 
 Dim shpLoop As Shape 
- 
+
 ' Loop through all the shapes on the first page. 
 For Each shpLoop In ActiveDocument.Pages(1).Shapes 
  With shpLoop 
@@ -87,7 +88,6 @@ For Each shpLoop In ActiveDocument.Pages(1).Shapes
  End Select 
  End With 
 Next shpLoop 
-
 ```
 
 

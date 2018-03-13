@@ -25,11 +25,10 @@ The following example uses the  **GetCertificationDetails** method of the **Sign
 Sub GetCertDetails() 
 Dim objSignatureInfo As SignatureInfo 
 Dim varDetail As Variant 
- 
-strDetail = objSignatureInfo.GetCertificationDetail(certdetExpirationDate) 
- 
-End Sub 
 
+strDetail = objSignatureInfo.GetCertificationDetail(certdetExpirationDate) 
+
+End Sub 
 ```
 
 

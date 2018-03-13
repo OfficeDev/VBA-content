@@ -18,8 +18,9 @@ Returns or sets the value axis scale type. Applies only to the value axis. Read/
 
 
 |XlScaleType can be one of these XlScaleType constants.|
-| **xlScaleLinear**|
-| **xlScaleLogarithmic**|
+| <strong>xlScaleLinear</strong>|
+| 
+<strong>xlScaleLogarithmic</strong>|
 
  _expression_. **ScaleType**
 

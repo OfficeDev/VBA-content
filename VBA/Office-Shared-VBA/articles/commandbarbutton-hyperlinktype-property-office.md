@@ -31,7 +31,7 @@ Sets or gets a  **MsoCommandBarButtonHyperlinkType** constant that represents th
 
 ## Example
 
-This example checks the  **HyperlinkType** property for the specified command bar button on the command bar named "Custom.". If **HyperlinkType** is set to **msoCommandBarButtonHyperlinkNone**, the example sets the property to **msoCommandBarButtonHyperlinkOpen** and sets the URL to www.microsoft.com.
+This example checks the  <strong>HyperlinkType</strong> property for the specified command bar button on the command bar named "Custom.". If <strong>HyperlinkType</strong> is set to <strong>msoCommandBarButtonHyperlinkNone</strong>, the example sets the property to <strong>msoCommandBarButtonHyperlinkOpen</strong> and sets the URL to www.microsoft.com.
 
 
 ```

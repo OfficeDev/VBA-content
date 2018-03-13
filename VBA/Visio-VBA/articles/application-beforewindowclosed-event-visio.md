@@ -15,7 +15,7 @@ Occurs before a window is closed.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeWindowClosed**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeWindowClosed</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

@@ -21,20 +21,22 @@ Specifies the symbol displayed on the drop button in a  **ComboBox**.
 The  **DropButtonStyle** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmDropButtonStyle_|Optional. The appearance of the drop button.|
+| <strong>Part</strong>      | <strong>Description</strong>                 |
+|:---------------------------|:---------------------------------------------|
+| <em>object</em>            | Required. A valid object.                    |
+| <em>fmDropButtonStyle</em> | Optional. The appearance of the drop button. |
+
  **Settings**
 The settings for  _fmDropButtonStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmDropButtonStylePlain_|0|Displays a plain button, with no symbol.|
-| _fmDropButtonStyleArrow_|1|Displays a down arrow (default).|
-| _fmDropButtonStyleEllipsis_|2|Displays an ellipsis (...).|
-| _fmDropButtonStyleReduce_|3|Displays a horizontal line like an underscore character.|
+| <strong>Constant</strong>          | <strong>Value</strong> | <strong>Description</strong>                             |
+|:-----------------------------------|:-----------------------|:---------------------------------------------------------|
+| <em>fmDropButtonStylePlain</em>    | 0                      | Displays a plain button, with no symbol.                 |
+| <em>fmDropButtonStyleArrow</em>    | 1                      | Displays a down arrow (default).                         |
+| <em>fmDropButtonStyleEllipsis</em> | 2                      | Displays an ellipsis (...).                              |
+| <em>fmDropButtonStyleReduce</em>   | 3                      | Displays a horizontal line like an underscore character. |
+
  **Remarks**
 The recommended setting for showing items in a list is  **fmDropButtonStyleArrow**. If you want to use the drop button in another way, such as to display a dialog box, specify **fmDropButtonStyleEllipsis**, **fmDropButtonStylePlain**, or **fmDropButtonStyleReduce** and trap the DropButtonClick event.
 

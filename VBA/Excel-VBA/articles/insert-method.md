@@ -25,8 +25,9 @@ Inserts a cell or a range of cells into the datasheet and shifts other cells awa
 
 
 |XlInsertShiftDirection can be one of these XlInsertShiftDirection constants.|
-| **xlShiftToRight**|
-| **xlShiftDown**If this argument is omitted, Microsoft Graph decides based on the shape of the range.|
+| <strong>xlShiftToRight</strong>|
+| 
+<strong>xlShiftDown</strong>If this argument is omitted, Microsoft Graph decides based on the shape of the range.|
 
 ## Example
 

@@ -30,9 +30,8 @@ The following code example gets the document range for the first update in the a
 
 ```vb
 Dim rng As Range 
- 
-Set rng = ActiveDocument.CoAuthoring.Updates(1).Range 
 
+Set rng = ActiveDocument.CoAuthoring.Updates(1).Range 
 ```
 
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ORDER BY Clause (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,6 +26,7 @@ Sorts a query's resulting records on a specified field or fields in ascending or
 
 ## Syntax
 <a name="sectionSection0"> </a>
+
 
 SELECT  _fieldlist_ FROM _table_ WHERE _selectcriteria_ [ORDER BY _field1_ [ASC | DESC ][, _field2_ [ASC | DESC ]][, …]]]
 
@@ -42,6 +43,7 @@ A SELECT statement containing an ORDER BY clause has these parts:
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 ORDER BY is optional. However, if you want your data displayed in sorted order, then you must use ORDER BY.
 
@@ -81,10 +83,11 @@ You can include additional fields in the ORDER BY clause. Records are sorted fir
 
 
 - [Record Order](http://www.utteraccess.com/wiki/index.php/Record_Order)
-    
+
 
 ## Example
 <a name="sectionSection2"> </a>
+
 
 The SQL statement shown in the following example uses the ORDER BY clause to sort records by last name in descending order (Z-A).
 
@@ -95,34 +98,35 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub OrderByX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Select the last name and first name values from  
     ' the Employees table, and sort them in descending  
     ' order. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
         &; "FirstName FROM Employees " _ 
         &; "ORDER BY LastName DESC;") 
-     
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print recordset contents. 
     EnumFields rst, 12 
- 
+
     dbs.Close 
- 
+
 End Sub
 ```
 
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
+
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 

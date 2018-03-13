@@ -21,18 +21,20 @@ Indicates whether the contents of a control automatically wrap at the end of a l
 The  **WordWrap** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the control expands to fit the text.|
+| <strong>Part</strong> | <strong>Description</strong>                           |
+|:----------------------|:-------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                              |
+| <em>Boolean</em>      | Optional. Whether the control expands to fit the text. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The text wraps (default).|
-|**False**|The text does not wrap.|
+| <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------|:-----------------------------|
+| <strong>True</strong>  | The text wraps (default).    |
+| <strong>False</strong> | The text does not wrap.      |
+
  **Remarks**
 For controls that support the  **MultiLine** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
 

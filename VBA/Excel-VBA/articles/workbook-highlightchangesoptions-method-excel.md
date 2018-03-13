@@ -45,7 +45,6 @@ With ActiveWorkbook
  Who:="Everyone" 
  .ListChangesOnNewSheet = True 
 End With 
-
 ```
 
 

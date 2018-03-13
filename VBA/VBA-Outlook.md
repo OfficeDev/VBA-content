@@ -17,5 +17,5 @@ This documentation contains the following information:
     
 - **Reference**: Provides reference materials for the Outlook object model.
 
- **Note**  The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the  [Visual Basic for Applications language reference](https://github.com/OfficeDev/VBA-content/tree/master/VBA/Language-Reference-VBA).
+  **Note**  The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the  [Visual Basic for Applications language reference](https://github.com/OfficeDev/VBA-content/tree/master/VBA/Language-Reference-VBA).
 

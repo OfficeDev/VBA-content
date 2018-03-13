@@ -73,17 +73,17 @@ The following procedure describes how to hide the ribbon by changing settings in
      **Note**  You must select a menu bar. You cannot select a toolbar.
 4. Clear the  **Allow Built-in Toolbars** check box, click **OK**, and then close the database. When you open the database in Access 2010, Access shows the Message Bar (if necessary), the custom menu bar set for the database, and any other startup settings, such as a form and any custom toolbars.
     
- **Set Access 2010 to use custom menu bars**
+   **Set Access 2010 to use custom menu bars**
 
 
-1. Open your legacy database in Access 2010.
+5. Open your legacy database in Access 2010.
     
-2. Click the  **File** tab, and then click **Options**.
+6. Click the  **File** tab, and then click **Options**.
     
-3. In the  **Access Options** dialog box, click **Current Database**.
+7. In the  **Access Options** dialog box, click **Current Database**.
     
-4. Under  **Ribbon and Toolbar Options**, clear the  **Allow Full Menus** and **Allow Built-in Toolbars** check boxes.
+8. Under  **Ribbon and Toolbar Options**, clear the  **Allow Full Menus** and **Allow Built-in Toolbars** check boxes.
     
-5. Click  **OK**.
+9. Click  **OK**.
     
 

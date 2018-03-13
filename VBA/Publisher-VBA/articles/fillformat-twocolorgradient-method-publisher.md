@@ -38,13 +38,19 @@ The Style parameter can be one of the  **MsoGradientStyle** constants declared i
 
 
 
-| **msoGradientDiagonalDown**|
-| **msoGradientDiagonalUp**|
-| **msoGradientFromCenter**|
-| **msoGradientFromCorner**|
-| **msoGradientFromTitle**|
-| **msoGradientHorizontal**|
-| **msoGradientVertical**|
+| <strong>msoGradientDiagonalDown</strong>|
+| 
+<strong>msoGradientDiagonalUp</strong>|
+| 
+<strong>msoGradientFromCenter</strong>|
+| 
+<strong>msoGradientFromCorner</strong>|
+| 
+<strong>msoGradientFromTitle</strong>|
+| 
+<strong>msoGradientHorizontal</strong>|
+| 
+<strong>msoGradientVertical</strong>|
 
 ## Example
 
@@ -59,7 +65,6 @@ With ActiveDocument.Pages(1).Shapes _
  .BackColor.RGB = RGB(0, 170, 170) 
  .TwoColorGradient Style:=msoGradientHorizontal, Variant:=1 
 End With 
-
 ```
 
 

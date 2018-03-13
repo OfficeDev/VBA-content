@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # HAVING Clause (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -25,6 +25,7 @@ Specifies which grouped records are displayed in a [SELECT](http://msdn.microsof
 
 ## Syntax
 <a name="sectionSection0"> </a>
+
 
 SELECT  _fieldlist_ FROM _table_ WHERE _selectcriteria_ GROUP BY _groupfieldlist_ [HAVING _groupcriteria_ ]
 
@@ -42,6 +43,7 @@ A SELECT statement containing a HAVING clause has these parts:
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 HAVING is optional.
 
@@ -64,6 +66,7 @@ A HAVING clause can contain up to 40 expressions linked by logical operators, su
 ## Example
 <a name="sectionSection2"> </a>
 
+
 This example selects the job titles assigned to more than one employee in the Washington region.
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
@@ -73,30 +76,29 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub HavingX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Select the job titles assigned to more than one  
     ' employee in the Washington region.  
     Set rst = dbs.OpenRecordset("SELECT Title, " _ 
         &; "Count(Title) as Total FROM Employees " _ 
         &; "WHERE Region = 'WA' " _ 
         &; "GROUP BY Title HAVING Count(Title) > 1;") 
-     
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print recordset contents. 
     EnumFields rst, 25 
- 
-    dbs.Close 
- 
-End Sub 
 
+    dbs.Close 
+
+End Sub 
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

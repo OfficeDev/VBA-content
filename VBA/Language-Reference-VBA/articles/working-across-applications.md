@@ -20,13 +20,12 @@ To create an new object or get an existing object from another application, use 
 ```vb
 ' Start Microsoft Excel and create a new Worksheet object. 
 Set ExcelWorksheet = CreateObject("Excel.Sheet") 
- 
+
 ' Start Microsoft Excel and open an existing Worksheet object. 
 Set ExcelWorksheet = GetObject("SHEET1.XLS") 
- 
+
 ' Start Microsoft Word. 
 Set WordBasic = CreateObject("Word.Basic") 
-
 ```
 
 Most applications provide an  **Exit** or **Quit** method that closes the application whether or not it is visible. For more information on the objects, methods, and properties an application provides, see the application's documentation.
@@ -36,7 +35,6 @@ Some applications allow you to use the  **New**[keyword](vbe-glossary.md) to cre
 
 ```vb
 Dim X As New Field 
-
 ```
 
 In this case, is an example of a [class](vbe-glossary.md) in the data access type library. A new instance of a **Field** object is created using this syntax. Refer to the application's documentation for information about which object classes can be created in this way.

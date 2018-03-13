@@ -48,11 +48,11 @@ In the following example, starting the host application triggers the  **onLoad**
 
 ```
 Dim MyRibbon As IRibbonUI 
- 
+
 Sub MyAddInInitialize(Ribbon As IRibbonUI) 
  Set MyRibbon = Ribbon 
 End Sub 
- 
+
 Sub myFunction() 
  MyRibbon.InvalidateControl("control1") ' Invalidates the cache of a single control 
 End Sub

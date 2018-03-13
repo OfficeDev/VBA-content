@@ -43,8 +43,8 @@ appWD.Documents.Add
 
 5. When you have finished working with the other application, use the  **Quit** method to close it, as shown in the following example.
     
-  ```
-  appWd.Quit 
-  ```
+   ```
+   appWd.Quit 
+   ```
 
 

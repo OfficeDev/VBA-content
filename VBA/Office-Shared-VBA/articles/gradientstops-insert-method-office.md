@@ -53,7 +53,6 @@ Sub gradients()
  .GradientStops.Insert RGB(0, 0, 255), 0.75 
  End With 
 End Sub 
-
 ```
 
 

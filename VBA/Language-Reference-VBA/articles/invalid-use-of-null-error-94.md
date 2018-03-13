@@ -16,18 +16,19 @@ ms.date: 06/08/2017
 
 
 - You are trying to obtain the value of a  **Variant** variable or an[expression](vbe-glossary.md) that is **Null**. For example:
-    
+
   ```
   MyVar = Null 
-For Count = 1 To MyVar 
-. . . 
-Next Count 
-
+  For Count = 1 To MyVar 
+  . . . 
+  Next Count 
   ```
 
 
-    Make sure the [variable](vbe-glossary.md) contains a valid value.
-    
+~~~
+Make sure the [variable](vbe-glossary.md) contains a valid value.
+~~~
+
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

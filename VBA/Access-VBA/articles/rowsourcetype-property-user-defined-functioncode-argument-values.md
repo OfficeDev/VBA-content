@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # RowSourceType Property (User-Defined Function) - Code Argument Values
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
 The Visual Basic function you create must accept five arguments. The first argument must be declared as a control and the remaining arguments as  **Variants**. The function itself must return a **Variant**.
 
- **Function** _functionname_ ( ** _fld_ As Control**, ** _id_ As Variant**, ** _row_ As Variant**, ** _col_ As Variant**, ** _code_ As Variant** ) As Variant
-The  **Function** procedure has the following five required arguments.
+ <strong>Function</strong> <em>functionname</em> ( ** <em>fld</em> As Control<strong>, ** <em>id</em> As Variant</strong>, ** <em>row</em> As Variant<strong>, ** <em>col</em> As Variant</strong>, ** <em>code</em> As Variant** ) As Variant
+The  <strong>Function</strong> procedure has the following five required arguments.
 
 
 |**Argument**|**Description**|
@@ -34,17 +34,18 @@ The  **Function** procedure has the following five required arguments.
 Microsoft Access calls the user-defined function by repeatedly using different values in the  _code_ argument to specify the information it needs. The _code_ argument can use the following intrinsic constants.
 
 
-|**Constant**|**Meaning**|**Function returns**|
-|:-----|:-----|:-----|
-|**acLBInitialize**|Initialize|Nonzero if the function can fill the list;  **False** (0) or **Null** otherwise.|
-|**acLBOpen**|Open|Nonzero ID value if the function can fill the list;  **False** or **Null** otherwise.|
-|**acLBGetRowCount**|Number of rows|Number of rows in the list (can be zero); -1 if unknown.|
-|**acLBGetColumnCount**|Number of columns|Number of columns in the list (can't be zero); must match the property sheet value.|
-|**acLBGetColumnWidth**|Column width|Width (in twips) of the column specified by the  _col_ argument; -1 to use the default width.|
-|**acLBGetValue**|List entry|List entry to be displayed in the row and column specified by the  _row_ and _col_ arguments.|
-|**acLBGetFormat**|Format string|Format string to be used to format the list entry displayed in the row and column specified by the  _row_ and _col_ arguments; -1 to use the default format.|
-|**acLBEnd**|End (the last call to a user-defined function always uses this value)|Nothing.|
-|**acLBClose**|(Not used)|Not used.|
+| <strong>Constant</strong>           | <strong>Meaning</strong>                                              | <strong>Function returns</strong>                                                                                                                                          |
+|:------------------------------------|:----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>acLBInitialize</strong>     | Initialize                                                            | Nonzero if the function can fill the list;  <strong>False</strong> (0) or <strong>Null</strong> otherwise.                                                                 |
+| <strong>acLBOpen</strong>           | Open                                                                  | Nonzero ID value if the function can fill the list;  <strong>False</strong> or <strong>Null</strong> otherwise.                                                            |
+| <strong>acLBGetRowCount</strong>    | Number of rows                                                        | Number of rows in the list (can be zero); -1 if unknown.                                                                                                                   |
+| <strong>acLBGetColumnCount</strong> | Number of columns                                                     | Number of columns in the list (can't be zero); must match the property sheet value.                                                                                        |
+| <strong>acLBGetColumnWidth</strong> | Column width                                                          | Width (in twips) of the column specified by the  <em>col</em> argument; -1 to use the default width.                                                                       |
+| <strong>acLBGetValue</strong>       | List entry                                                            | List entry to be displayed in the row and column specified by the  <em>row</em> and <em>col</em> arguments.                                                                |
+| <strong>acLBGetFormat</strong>      | Format string                                                         | Format string to be used to format the list entry displayed in the row and column specified by the  <em>row</em> and <em>col</em> arguments; -1 to use the default format. |
+| <strong>acLBEnd</strong>            | End (the last call to a user-defined function always uses this value) | Nothing.                                                                                                                                                                   |
+| <strong>acLBClose</strong>          | (Not used)                                                            | Not used.                                                                                                                                                                  |
+
 Microsoft Access calls your user-defined function once for  **acLBInitialize**, **acLBOpen**, **acLBGetRowCount**, and **acLBGetColumnCount**. It initializes the user-defined function, opens the query, and determines the number of rows and columns.
 Microsoft Access calls your user-defined function twice for  **acLBGetColumnWidth** — once to determine the total width of the list box or combo box and a second time to set the column width.
 The number of times your user-defined function is called for  **acLBGetValue** and **acLBGetFormat** to get list entries and to format strings varies depending on the number of entries, the user's scrolling, and other factors.

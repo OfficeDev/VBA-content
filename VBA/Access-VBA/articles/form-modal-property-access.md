@@ -29,10 +29,11 @@ The  **Modal** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The form or report opens as a modal window.|
-|No|**False**|(Default) The form opens as a non-modal window.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                    |
+|:-------------------------|:------------------------------|:------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The form or report opens as a modal window.     |
+| No                       | <strong>False</strong>        | (Default) The form opens as a non-modal window. |
+
 When you open a modal window, other windows in Microsoft Access are disabled until you close the form (although you can switch to windows in other applications). To disable menus and toolbars in addition to other windows, set both the  **Modal** and **PopUp** properties to Yes.
 
 You can use the  **BorderStyle** property to specify the kind of border a form will have. Typically, modal forms have the **BorderStyle** property set to Dialog.
@@ -43,11 +44,11 @@ Setting the  **Modal** property to Yes makes the form modal only when you:
 
 
 - Open it in Form view from the Database window.
-    
+
 - Open it in Form view by using a macro or Visual Basic.
-    
+
 - Switch from Design view to Form view.
-    
+
 When the form is modal, you can't switch to Datasheet view from Form view, although you can switch to Design view and then to Datasheet view.
 
 The form isn't modal in Design view or Datasheet view and also isn't modal if you switch from Datasheet view to Form view.

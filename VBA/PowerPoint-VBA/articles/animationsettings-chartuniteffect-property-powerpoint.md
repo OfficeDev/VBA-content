@@ -37,12 +37,17 @@ The value of the  **ChartUnitEffect** property can be one of these **PpChartUnit
 
 ||
 |:-----|
-|**ppAnimateByCategory**|
-|**ppAnimateByCategoryElements**|
-|**ppAnimateBySeries**|
-|**ppAnimateBySeriesElements**|
-|**ppAnimateChartAllAtOnce**|
-|**ppAnimateChartMixed**|
+|<strong>ppAnimateByCategory</strong>|
+|
+<strong>ppAnimateByCategoryElements</strong>|
+|
+<strong>ppAnimateBySeries</strong>|
+|
+<strong>ppAnimateBySeriesElements</strong>|
+|
+<strong>ppAnimateChartAllAtOnce</strong>|
+|
+<strong>ppAnimateChartMixed</strong>|
 
 ## Example
 

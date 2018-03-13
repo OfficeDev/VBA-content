@@ -26,21 +26,34 @@ Returns or sets the top Bevel type for a  **ThreeDFormat** object. Read/write **
 
 
 
-|MsoBevelType can be one of these  **MsoBevelType** constants.|
-| ** msoBevelAngle**|
-| **msoBevelArtDeco**|
-| **msoBevelCircle**|
-| **msoBevelConvex**|
-| **msoBevelCoolSlant**|
-| **msoBevelCross**|
-| **msoBevelDivot**|
-| **msoBevelHardEdge**|
-| **msoBevelNone**|
-| **msoBevelRelaxedInset**|
-| **msoBevelRiblet**|
-| **msoBevelSlope**|
-| **msoBevelSoftRound**|
-| **msoBevelTypeMixed**|
+|MsoBevelType can be one of these  <strong>MsoBevelType</strong> constants.|
+| 
+** msoBevelAngle<strong>|
+| **msoBevelArtDeco</strong>|
+| 
+<strong>msoBevelCircle</strong>|
+| 
+<strong>msoBevelConvex</strong>|
+| 
+<strong>msoBevelCoolSlant</strong>|
+| 
+<strong>msoBevelCross</strong>|
+| 
+<strong>msoBevelDivot</strong>|
+| 
+<strong>msoBevelHardEdge</strong>|
+| 
+<strong>msoBevelNone</strong>|
+| 
+<strong>msoBevelRelaxedInset</strong>|
+| 
+<strong>msoBevelRiblet</strong>|
+| 
+<strong>msoBevelSlope</strong>|
+| 
+<strong>msoBevelSoftRound</strong>|
+| 
+<strong>msoBevelTypeMixed</strong>|
 
 ## See also
 

@@ -18,7 +18,7 @@ Occurs when a rule set is validated.
 
 ## Syntax
 
-Private Sub  _expression_ _**RuleSetValidated**( **_ByVal RuleSet As ValidationRuleSet_** )
+Private Sub  <em>expression</em> <em><strong>RuleSetValidated</strong>( **_ByVal RuleSet As ValidationRuleSet</em>** )
 
  _expression_ A variable that represents a **[Document](document-object-visio.md)** object.
 

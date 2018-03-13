@@ -29,7 +29,6 @@ This example formats the text in the text frame, if the text frame contains text
 With ActiveSheet.Shapes(1).TextFrame2 
 If .HasText Then 
 .TextRange2.Font.Name = "Arial" 
-
 ```
 
 

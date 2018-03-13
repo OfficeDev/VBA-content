@@ -43,11 +43,12 @@ The  _addOptions_ parameter value must be one of the following **VisMemberAddOpt
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visMemberAddUseResizeSetting**|0|Defer to the setting of the  **[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)** property.|
-| **visMemberAddExpandContainer**|1|Expand the container to fit the incoming shapes.|
-| **visMemberAddDoNotExpand**|2|Do not expand the container to fit the incoming shapes.|
+| <strong>Constant</strong>                     | <strong>Value</strong> | <strong>Description</strong>                                                                                                                                                                                                                                               |
+|:----------------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>visMemberAddUseResizeSetting</strong> | 0                      | Defer to the setting of the  <strong><a href="containerproperties-resizeasneeded-property-visio.md" data-raw-source="[ContainerProperties.ResizeAsNeeded](containerproperties-resizeasneeded-property-visio.md)">ContainerProperties.ResizeAsNeeded</a></strong> property. |
+| <strong>visMemberAddExpandContainer</strong>  | 1                      | Expand the container to fit the incoming shapes.                                                                                                                                                                                                                           |
+| <strong>visMemberAddDoNotExpand</strong>      | 2                      | Do not expand the container to fit the incoming shapes.                                                                                                                                                                                                                    |
+
 Passing  **visMemberAddUseResizeSetting** or **visMemberAddDoNotExpand** for _addOptions_ can create a situation in which a shape is a container member but not physically within the container. In such a case, the shape can lose its container membership on subsequent moves or resizing of either the container or the member.
 
 If the container is a list,  **AddMember** adds the specified object to the list container, but not to the list itself. In other words, the shape is contained by the list but is not actually in the list. This is common for shapes in containers that are themselves in a list.

@@ -49,7 +49,7 @@ Private Sub Detail_Format(Cancel As Integer, FormatCount As Integer)
     Dim lngOffset As Long
     lngOffset = (Me.boxInside.Left - Me.boxOutside.Left) * 2
     Me.boxInside.Width = (Me.boxOutside.Width * (Me.AvgOfRating / 10)) - lngOffset
-    
+
     ' do conditional formatting for the control in print preview
     SetControlFormatting
 End Sub
@@ -64,11 +64,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

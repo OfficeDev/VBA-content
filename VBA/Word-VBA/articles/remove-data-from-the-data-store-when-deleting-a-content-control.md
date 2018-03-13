@@ -22,15 +22,15 @@ For more information about content controls, see  [Working with Content Controls
 The objects used in these samples are:
 
 -  **[ContentControl](contentcontrol-object-word.md)**
-    
+
 -  **[ContentControls](contentcontrols-object-word.md)**
-    
+
 -  **CustomXMLPart** (Microsoft Office system core object model)
-    
+
 -  **CustomXMLParts** (Microsoft Office system core object model)
-    
+
 -  **[XMLMapping](xmlmapping-object-word.md)**
-    
+
 
 ## Sample 1
 
@@ -61,21 +61,21 @@ Now, suppose the content control is mapped to a <fruitType> node of the previous
 
 ```vb
 Sub AddContentControlAndCustomXMLPart() 
- 
+
     Dim strTitle As String 
     strTitle = "MyTitle" 
     Dim oContentControl As Word.ContentControl 
- 
+
     Set oContentControl = ActiveDocument.ContentControls.Add(wdContentControlText) 
     oContentControl.Title = strTitle 
- 
+
     ActiveDocument.CustomXMLParts.Add 
     ActiveDocument.CustomXMLParts(4).Load ("c:\mySampleCustomXMLFile.xml") 
- 
+
     Dim strXPath As String 
     strXPath = "tree/fruit/fruitType" 
     oContentControl.XMLMapping.SetMapping strXPath 
-     
+
 End Sub
 ```
 
@@ -89,14 +89,14 @@ The second code sample removes the entire  **CustomXMLPart** object when the con
 Private Sub Document_ContentControlBeforeDelete( _ 
         ByVal OldContentControl As ContentControl, _ 
         ByVal InUndoRedo As Boolean) 
- 
+
     Dim objPart As CustomXMLPart 
-     
+
     'Always void changing the Word document surface during undo! 
     If InUndoRedo Then 
         Return 
     End If 
- 
+
     'Also delete the part with a root element called 'tree' 
     If OldContentControl.Title = "MyTitle" Then 
         For Each objPart In ActiveDocument.CustomXMLParts 
@@ -105,7 +105,7 @@ Private Sub Document_ContentControlBeforeDelete( _
             End If 
         Next part 
     End If 
- 
+
 End Sub
 ```
 ## Additional Resources

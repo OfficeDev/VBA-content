@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Primary Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -27,21 +27,22 @@ The  **Primary** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The selected index is the primary key.|
-|No|**False**|The selected index isn't the primary key.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>              |
+|:-------------------------|:------------------------------|:------------------------------------------|
+| Yes                      | <strong>True</strong>         | The selected index is the primary key.    |
+| No                       | <strong>False</strong>        | The selected index isn't the primary key. |
+
 You can set the  **Primary** property in three ways:
 
 
 
 
 - In table Design view, select the field or fields in the order you want for the primary key and then click  **Primary Key** on the toolbar.
-    
+
 - In the Indexes window, select or enter the name of an index in the  **Index Name** column and set the **Primary** property to Yes in the Index Properties section.
-    
+
 - In Visual Basic, to access the  **Primary** property of an index, use the DAO **PrimaryKey** property.
-    
+
 
 
 

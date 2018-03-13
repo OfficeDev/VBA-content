@@ -68,8 +68,6 @@ The following example returns a reference to the document workspace in which the
 Dim objWorkspace As SharedWorkspace
 
 Set objWorkspace = ActivePresentation.SharedWorkspace
-
-
 ```
 
 

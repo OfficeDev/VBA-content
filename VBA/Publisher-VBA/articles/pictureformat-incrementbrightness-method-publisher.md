@@ -49,7 +49,6 @@ With ActiveDocument.Pages(1).Shapes(1).Duplicate
  .IncrementLeft Increment:=50 
  .IncrementTop Increment:=50 
 End With 
-
 ```
 
 

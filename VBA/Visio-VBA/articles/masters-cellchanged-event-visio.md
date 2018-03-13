@@ -18,7 +18,7 @@ Occurs after the value changes in a cell in a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**CellChanged**( **_ByVal Cell As [IVCELL]_** )
+Private Sub  <em>expression</em> <em><strong>CellChanged</strong>( **_ByVal Cell As [IVCELL]</em>** )
 
  _expression_ A variable that represents a **Masters** object.
 

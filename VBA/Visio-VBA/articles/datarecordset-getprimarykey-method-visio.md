@@ -48,11 +48,12 @@ A data recordset for which a primary key has been specified can have single or c
 
 
 
-|**Constant**|**Value **|**Description**|
-|:-----|:-----|:-----|
-| **visKeyRowOrder**|1|Use row order as the primary key.|
-| **visKeySingle**|2|Use a single column as the primary key column.|
-| **visKeyComposite**|3|Use multiple columns as primary key columns.|
+| <strong>Constant</strong>        | **Value ** | <strong>Description</strong>                   |
+|:---------------------------------|:-----------|:-----------------------------------------------|
+| <strong>visKeyRowOrder</strong>  | 1          | Use row order as the primary key.              |
+| <strong>visKeySingle</strong>    | 2          | Use a single column as the primary key column. |
+| <strong>visKeyComposite</strong> | 3          | Use multiple columns as primary key columns.   |
+
 For the PrimaryKey() out parameter, pass a dimensionless array of strings. If the primary key setting returned is  **visKeySingle** or **visKeyComposite** , the method also returns an array of primary key column name strings in the PrimaryKey() out parameter. If the primary key setting is **visKeyRowOrder** , the default, the method returns an empty array.
 
 You can use the  **[DataRecordset.SetPrimaryKey](datarecordset-setprimarykey-method-visio.md)** method to specify the primary key setting for the data recordset as well as the name of the column or columns that you want to set as the primary key column or columns. When you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.
@@ -69,23 +70,23 @@ Before running this macro, create at least one data recordset in the current doc
 
 ```vb
 Public Sub GetPrimaryKey_Example() 
- 
+
     Dim vsoDataRecordset As Visio.DataRecordset 
     Dim intCount As Integer 
     Dim astrPrimaryKeyColumns() As String 
     Dim vsoKeySettings As VisPrimaryKeySettings 
- 
- 
+
+
     intCount = ThisDocument.DataRecordsets.Count 
     Set vsoDataRecordset = ThisDocument.DataRecordsets(intCount) 
     vsoDataRecordset.GetPrimaryKey vsoKeySettings, astrPrimaryKeyColumns 
- 
+
     If vsoKeySettings = visKeyRowOrder Then 
         Debug.Print vsoKeySettings, "No primary key" 
     Else 
         Debug.Print vsoKeySettings, astrPrimaryKeyColumns(0) 
     End If 
-    
+
 End Sub
 ```
 

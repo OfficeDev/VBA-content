@@ -45,11 +45,10 @@ The following example gets the expiration date of the digital certificate.
 Sub GetCertDetails() 
 Dim objSignatureInfo As SignatureInfo 
 Dim varDetail As Variant 
- 
-strDetail = objSignatureInfo.GetCertificationDetail(certdetExpirationDate) 
- 
-End Sub 
 
+strDetail = objSignatureInfo.GetCertificationDetail(certdetExpirationDate) 
+
+End Sub 
 ```
 
 

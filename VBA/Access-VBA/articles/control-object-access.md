@@ -103,7 +103,6 @@ If you do know the data type of the control to which you are referring, and the 
 ```
 Dim txt As TextBox 
 Set txt = Forms!Employees!LastName 
-
 ```
 
 

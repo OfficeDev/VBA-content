@@ -40,7 +40,6 @@ If myObject.Application.Value = "Microsoft Excel" Then
 Else 
  MsgBox "This is not an Excel Application object." 
 End If 
-
 ```
 
 

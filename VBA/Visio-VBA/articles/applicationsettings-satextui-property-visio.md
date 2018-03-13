@@ -34,10 +34,11 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRegionalUIOptionsHide**|0|Always hides regional UI.|
-| **visRegionalUIOptionsShow**|1|Always shows regional UI|
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong> |
+|:------------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visRegionalUIOptionsHide</strong> | 0                      | Always hides regional UI.    |
+| <strong>visRegionalUIOptionsShow</strong> | 1                      | Always shows regional UI     |
+
 The setting of the  **SATextUI** property corresponds to the regional options setting in the **Microsoft Office Language Preferences** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office Language Preferences**). 
 
 The setting of the  **SATextUI** property influences the setting of the **[ApplicationSettings.ComplexTextUI](applicationsettings-complextextui-property-visio.md)** property. If **SATextUI** is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.

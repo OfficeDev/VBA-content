@@ -22,10 +22,11 @@ Executes a series of [statements](vbe-glossary.md) as long as a given condition 
 The  **While...Wend** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _condition_|Required. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) that evaluates to **True** or **False**. If _condition_ is[Null](vbe-glossary.md),  _condition_ is treated as **False**.|
-| _statements_|Optional. One or more statements executed while condition is  **True**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                         |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>condition</em>    | Required. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) that evaluates to <strong>True</strong> or <strong>False</strong>. If <em>condition</em> is[Null](vbe-glossary.md),  <em>condition</em> is treated as <strong>False</strong>. |
+| <em>statements</em>   | Optional. One or more statements executed while condition is  <strong>True</strong>.                                                                                                                                                                                 |
+
  **Remarks**
 If  _condition_ is **True**, all _statements_ are executed until the **Wend** statement is encountered. Control then returns to the **While** statement and _condition_ is again checked. If _condition_ is still **True**, the process is repeated. If it is not **True**, execution resumes with the statement following the **Wend** statement.
  **While...Wend** loops can be nested to any level. Each **Wend** matches the most recent **While**.
@@ -45,7 +46,6 @@ While Counter < 20 ' Test value of Counter.
  Counter = Counter + 1 ' Increment Counter. 
 Wend ' End While loop when Counter > 19. 
 Debug.Print Counter ' Prints 20 in the Immediate window. 
-
 ```
 
 

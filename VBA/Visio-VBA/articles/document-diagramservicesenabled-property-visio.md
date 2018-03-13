@@ -38,15 +38,16 @@ The value of the  **DiagramServicesEnabled** property setting must be one or a b
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visServiceNone**|0|No diagram services.|
-| **visServiceAll**|-1|All diagram services.|
-| **visServiceAutoSizePage**|1|AutoSize (automatic page-sizing) behaviors.|
-| **visServiceStructureBasic**|2|Structured-diagram behaviors that maintain existing relationships but do not create new relationships.|
-| **visServiceStructureFull**|4|Structured-diagram behaviors that match all those in the user interface (UI).|
-| **visServiceVersion140**|7|All diagram services that exist in Visio.|
-| **visServiceVersion150**|8|All diagram services that exist in Visio.|
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong>                                                                           |
+|:------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------|
+| <strong>visServiceNone</strong>           | 0                      | No diagram services.                                                                                   |
+| <strong>visServiceAll</strong>            | -1                     | All diagram services.                                                                                  |
+| <strong>visServiceAutoSizePage</strong>   | 1                      | AutoSize (automatic page-sizing) behaviors.                                                            |
+| <strong>visServiceStructureBasic</strong> | 2                      | Structured-diagram behaviors that maintain existing relationships but do not create new relationships. |
+| <strong>visServiceStructureFull</strong>  | 4                      | Structured-diagram behaviors that match all those in the user interface (UI).                          |
+| <strong>visServiceVersion140</strong>     | 7                      | All diagram services that exist in Visio.                                                              |
+| <strong>visServiceVersion150</strong>     | 8                      | All diagram services that exist in Visio.                                                              |
+
  If you combine **visServiceStructureBasic** and **visServiceStructureFull** , the latter overrides the former. However, you can combine **visServiceAutoSizePage** with either **visServiceStructureBasic** (3) or **visServiceStructureFull** (5) and assign either of those values to the property.
 
 Diagram services apply only to solutions that manipulate Visio programmatically (by Automation). They do not have any effect on the behaviors that are exposed in the UI. UI settings that disable these behaviors have no effect on behaviors that are triggered programmatically.

@@ -36,11 +36,11 @@ The items in a  **Selection** object are a subset of the descendants of the **Se
 
 
 - A top-level shape in a  **Selection** object is an immediate child of the selection's containing shape.
-    
+
 - A subselected shape in a  **Selection** object is not an immediate child of the selection's containing shape.
-    
+
 - A superselected shape in a  **Selection** object has at least one immediate child that is subselected.
-    
+
 
 
 If a shape is subselected, each of its ancestors?except the containing shape itself?is superselected.
@@ -49,12 +49,13 @@ The value of the  **IterationMode** property is a combination of the following v
 
 
 
-|**Constant **|**Value **|**Description **|
-|:-----|:-----|:-----|
-| **visSelModeSkipSuper**|&;H0100 |Selection does not report superselected shapes. |
-| **visSelModeOnlySuper**|&;H0200 |Selection only reports superselected shapes. |
-| **visSelModeSkipSub**|&;H0400 |Selection does not report subselected shapes. |
-| **visSelModeOnlySub**|&;H0800 |Selection only reports subselected shapes. |
+| **Constant **                        | **Value ** | **Description **                                |
+|:-------------------------------------|:-----------|:------------------------------------------------|
+| <strong>visSelModeSkipSuper</strong> | &;H0100    | Selection does not report superselected shapes. |
+| <strong>visSelModeOnlySuper</strong> | &;H0200    | Selection only reports superselected shapes.    |
+| <strong>visSelModeSkipSub</strong>   | &;H0400    | Selection does not report subselected shapes.   |
+| <strong>visSelModeOnlySub</strong>   | &;H0800    | Selection only reports subselected shapes.      |
+
 When a  **Selection** object is created, its initial iteration mode is **visSelModeSkipSub** + **visSelModeSkipSuper** . It reports neither subselected nor superselected shapes and behaves identically to **Selection** objects in versions of Microsoft Visio prior to Visio 2000.
 
 You can determine whether an individual item in a  **Selection** object is a subselected or superselected item by using the **ItemStatus** property.

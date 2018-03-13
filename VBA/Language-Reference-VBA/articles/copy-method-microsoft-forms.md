@@ -19,9 +19,10 @@ Copies the contents of an object to the Clipboard.
 The  **Copy** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
 The original content remains on the object.
 The actual content that is copied depends on the object. For example, on a  **Page**, the **Copy** method copies the currently selected control or controls. On a **TextBox** or **ComboBox**, it copies the currently selected text.

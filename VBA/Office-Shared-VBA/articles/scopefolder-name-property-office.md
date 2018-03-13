@@ -41,12 +41,11 @@ The following example displays a message box with the name of the folder that wi
 ```
 Dim sf As ScopeFolder 
  Dim strScopeFolder As String 
- 
+
  Set sf = SearchScopes.Item(1).ScopeFolder 
  strScopeFolder = sf.Name 
- 
- MsgBox ("The name of the folder that will be searched is " &amp; strScopeFolder) 
 
+ MsgBox ("The name of the folder that will be searched is " &amp; strScopeFolder) 
 ```
 
 

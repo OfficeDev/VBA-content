@@ -27,10 +27,11 @@ You can use the  **SysCmd** method to, display a progress meter or optional spec
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _Action_|Required|**AcSysCmdAction**|A  **[AcSysCmdAction](acsyscmdaction-enumeration-access.md)** constant that identifies the type of action to take. This set of constants applies to a progress meter. The **SysCmd** method returns a **null** if these actions are successful. Otherwise, Microsoft Access generates a run-time error.|
-| _Argument2_|Optional|**Variant**|The text to be displayed left-aligned in the status bar. This argument is required when the action argument is  **acSysCmdInitMeter**, **acSysCmdUpdateMeter**, or **acSysCmdSetStatus**; this argument isn't valid for other action argument values.
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data Type</strong>      | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                       |
+|:----------------------|:-----------------------------------|:--------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>Action</em>       | Required                           | <strong>AcSysCmdAction</strong> | A  <strong><a href="acsyscmdaction-enumeration-access.md" data-raw-source="[AcSysCmdAction](acsyscmdaction-enumeration-access.md)">AcSysCmdAction</a></strong> constant that identifies the type of action to take. This set of constants applies to a progress meter. The <strong>SysCmd</strong> method returns a <strong>null</strong> if these actions are successful. Otherwise, Microsoft Access generates a run-time error. |
+| <em>Argument2</em>    | Optional                           | <strong>Variant</strong>        | The text to be displayed left-aligned in the status bar. This argument is required when the action argument is  <strong>acSysCmdInitMeter</strong>, <strong>acSysCmdUpdateMeter</strong>, or <strong>acSysCmdSetStatus</strong>; this argument isn't valid for other action argument values.                                                                                                                                       |
+
  **Note**  When you specify the  **acSysCmdGetObjectState** value for the Action parameter, then you must specify the appropriate **[AcObjectType](acobjecttype-enumeration-access.md)** constant.
 
 |

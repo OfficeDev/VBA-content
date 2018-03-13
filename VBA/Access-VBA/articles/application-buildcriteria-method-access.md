@@ -48,7 +48,7 @@ For example, a user creating a query on an Orders table might restrict the resul
 
 Microsoft Access automatically parses this expression and returns the following expression:
 
->#1/1/95#
+> # 1/1/95#
 
 The  **BuildCriteria** method provides the same parsing from Visual Basic code. For example, to return the preceding correctly parsed string, you can supply the following arguments to the **BuildCriteria** method:
 

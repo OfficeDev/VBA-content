@@ -46,12 +46,11 @@ The following example opens the first user-defined function in the current datab
 ```vb
 Dim objFunction As AccessObject 
 Dim strFunction As String 
- 
+
 Set objFunction = Application.AllFunctions(0) 
- 
+
 DoCmd.OpenFunction FunctionName:=objFunction.Name, _ 
  View:=acViewDesign, Mode:=acReadOnly 
-
 ```
 
 

@@ -50,8 +50,6 @@ The following example displays a list of the titles of all tasks in the current 
     MsgBox strTasks, vbInformation + vbOKOnly, _ 
         "Tasks in Shared Workspace" 
     Set swsTask = Nothing 
- 
-
 ```
 
 

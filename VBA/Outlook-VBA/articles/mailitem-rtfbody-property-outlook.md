@@ -35,51 +35,49 @@ The following code samples in Microsoft Visual Basic for Applications (VBA) and 
 
 ```vb
 Sub GetRTFBodyForMail() 
- 
+
  Dim oMail As Outlook.MailItem 
- 
+
  Dim strRTF As String 
- 
+
  If Application.ActiveInspector.CurrentItem.Class = olMail Then 
- 
+
  Set oMail = Application.ActiveInspector.CurrentItem 
- 
+
  strRTF = StrConv(oMail.RTFBody, vbUnicode) 
- 
+
  Debug.Print strRTF 
- 
+
  End If 
- 
+
 End Sub
 ```
 
 
 ```
 private void GetRTFBodyForMail() 
- 
-{ 
- 
- if (Application.ActiveInspector().CurrentItem is Outlook.MailItem) 
- 
- { 
- 
- Outlook.MailItem mail = 
- 
- Application.ActiveInspector().CurrentItem as Outlook.MailItem; 
- 
- byte[] byteArray = mail.RTFBody as byte[]; 
- 
- System.Text.Encoding encoding = new System.Text.ASCIIEncoding(); 
- 
- string RTF = encoding.GetString(byteArray); 
- 
- Debug.WriteLine(RTF); 
- 
- } 
- 
-} 
- 
 
+{ 
+
+ if (Application.ActiveInspector().CurrentItem is Outlook.MailItem) 
+
+ { 
+
+ Outlook.MailItem mail = 
+
+ Application.ActiveInspector().CurrentItem as Outlook.MailItem; 
+
+ byte[] byteArray = mail.RTFBody as byte[]; 
+
+ System.Text.Encoding encoding = new System.Text.ASCIIEncoding(); 
+
+ string RTF = encoding.GetString(byteArray); 
+
+ Debug.WriteLine(RTF); 
+
+ } 
+
+} 
 ```
 
 

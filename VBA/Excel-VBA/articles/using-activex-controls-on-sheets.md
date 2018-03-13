@@ -16,10 +16,10 @@ This topic covers specific information about using ActiveX controls on worksheet
 Keep the following points in mind when you are working with controls on sheets:
 
 - In addition to the standard properties available for ActiveX controls, the following properties can be used with ActiveX controls in Microsoft Excel:  **[BottomRightCell](oleobject-bottomrightcell-property-excel.md)**,  **[LinkedCell](oleobject-linkedcell-property-excel.md)**,  **[ListFillRange](oleobject-listfillrange-property-excel.md)**,  **[Placement](oleobject-placement-property-excel.md)**,  **[PrintObject](oleobject-printobject-property-excel.md)**,  **[TopLeftCell](oleobject-topleftcell-property-excel.md)**, and  **[ZOrder](oleobject-zorder-property-excel.md)**.
-    
-    
+
+
 These properties can be set and returned using the ActiveX control name. The following example scrolls the workbook window so CommandButton1 is in the upper-left corner.
-    
+
 
 
 ```vb
@@ -28,12 +28,11 @@ With ActiveWindow
     .ScrollRow = t.Row
     .ScrollColumn = t.Column
 End With
-
 ```
 
 
 - Some Microsoft Excel Visual Basic methods and properties are disabled when an ActiveX control is activated. For example, the  **Sort** method cannot be used when a control is active, so the following code fails in a button click event procedure (because the control is still active after the user clicks it).
-    
+
 ```vb
   Private Sub CommandButton1.Click 
     Range("a1:a10").Sort Key1:=Range("a1") 
@@ -42,7 +41,7 @@ End Sub
 
 
     You can work around this problem by activating some other element on the sheet before you use the property or method that failed. For example, the following code sorts the range:
-    
+
 
 
 ```vb
@@ -55,11 +54,11 @@ End Sub
 
 
 - Controls on a Microsoft Excel workbook embedded in a document in another application will not work if the user double-clicks the workbook to edit it. The controls will work if the user right-clicks the workbook and selects the  **Open** command from the shortcut menu.
-    
+
 - When a Microsoft Excel workbook is saved using the Microsoft Excel 5.0/95 Workbook file format, ActiveX control information is lost.
-    
+
 - The  **Me** keyword in an event procedure for an ActiveX control on a sheet refers to the sheet, not to the control.
-    
+
 
 ## Adding Controls with Visual Basic
 

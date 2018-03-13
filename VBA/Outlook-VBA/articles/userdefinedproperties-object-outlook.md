@@ -34,46 +34,44 @@ The following Visual Basic for Applications (VBA) example uses the  **Add** meth
 
 ```
 Sub AddStatusProperties() 
- 
- Dim objNamespace As NameSpace 
- 
- Dim objFolder As Folder 
- 
- Dim objProperty As UserDefinedProperty 
- 
- 
- 
- ' Obtain a Folder object reference to the 
- 
- ' Inbox default folder. 
- 
- Set objNamespace = Application.GetNamespace("MAPI") 
- 
- Set objFolder = objNamespace.GetDefaultFolder(olFolderInbox) 
- 
- 
- 
- ' Add five user-defined properties, used to identify and 
- 
- ' track customer issues. 
- 
- With objFolder.UserDefinedProperties 
- 
- Set objProperty = .Add("Issue?", olYesNo, olFormatYesNoIcon) 
- 
- Set objProperty = .Add("Issue Research Time", olDuration) 
- 
- Set objProperty = .Add("Issue Resolution Time", olDuration) 
- 
- Set objProperty = .Add("Customer Follow-Up", olYesNo, olFormatYesNoYesNo) 
- 
- Set objProperty = .Add("Issue Closed", olYesNo, olFormatYesNoYesNo) 
- 
- End With 
- 
-End Sub 
- 
 
+ Dim objNamespace As NameSpace 
+
+ Dim objFolder As Folder 
+
+ Dim objProperty As UserDefinedProperty 
+
+
+
+ ' Obtain a Folder object reference to the 
+
+ ' Inbox default folder. 
+
+ Set objNamespace = Application.GetNamespace("MAPI") 
+
+ Set objFolder = objNamespace.GetDefaultFolder(olFolderInbox) 
+
+
+
+ ' Add five user-defined properties, used to identify and 
+
+ ' track customer issues. 
+
+ With objFolder.UserDefinedProperties 
+
+ Set objProperty = .Add("Issue?", olYesNo, olFormatYesNoIcon) 
+
+ Set objProperty = .Add("Issue Research Time", olDuration) 
+
+ Set objProperty = .Add("Issue Resolution Time", olDuration) 
+
+ Set objProperty = .Add("Customer Follow-Up", olYesNo, olFormatYesNoYesNo) 
+
+ Set objProperty = .Add("Issue Closed", olYesNo, olFormatYesNoYesNo) 
+
+ End With 
+
+End Sub 
 ```
 
 

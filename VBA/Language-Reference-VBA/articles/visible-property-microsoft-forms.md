@@ -19,18 +19,20 @@ Specifies whether an object is visible or hidden.
 The  **Visible** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the object is visible or hidden.|
+| <strong>Part</strong> | <strong>Description</strong>                       |
+|:----------------------|:---------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                          |
+| <em>Boolean</em>      | Optional. Whether the object is visible or hidden. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Object is visible (default).|
-|**False**|Object is hidden.|
+| <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------|:-----------------------------|
+| <strong>True</strong>  | Object is visible (default). |
+| <strong>False</strong> | Object is hidden.            |
+
  **Remarks**
 Use the  **Visible** property to control access to information without displaying it. For example, you could use the value of a control on a hidden form as the criteria for a query.
 All controls are visible at [design time](vbe-glossary.md).

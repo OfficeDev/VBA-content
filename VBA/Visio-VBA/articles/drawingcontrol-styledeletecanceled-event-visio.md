@@ -15,7 +15,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _**StyleDeleteCanceled**( **_ByVal style As [IVSTYLE]_** )
+Private Sub  <em>expression</em> <em><strong>StyleDeleteCanceled</strong>( **_ByVal style As [IVSTYLE]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

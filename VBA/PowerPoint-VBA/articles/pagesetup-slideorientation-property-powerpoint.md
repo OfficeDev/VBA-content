@@ -35,9 +35,11 @@ The value of the  **SlideOrientation** property can be one of these **MsoOrienta
 
 ||
 |:-----|
-|**msoOrientationHorizontal**|
-|**msoOrientationMixed**|
-|**msoOrientationVertical**|
+|<strong>msoOrientationHorizontal</strong>|
+|
+<strong>msoOrientationMixed</strong>|
+|
+<strong>msoOrientationVertical</strong>|
 
 ## Example
 

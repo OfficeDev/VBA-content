@@ -39,7 +39,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.SeriesCollection(1).MarkerSize = 10 
  End If 
 End With 
-
 ```
 
 

@@ -28,7 +28,7 @@ For more information, see  [How to: Create Separate Read and Compose Pages Using
     
       - To create or edit the compose page, click  **Page**, then click  **Edit Compose Page**.
     
-  - To create or edit the read page, click  **Page**, then click  **Edit Read Page**.
+   - To create or edit the read page, click  **Page**, then click  **Edit Read Page**.
     
 2. Customize pages on the form.
     

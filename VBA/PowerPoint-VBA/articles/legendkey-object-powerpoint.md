@@ -40,8 +40,6 @@ With ActiveDocument.InlineShapes(1)
             .MarkerBackgroundColorIndex = 5
     End If
 End With
-
-
 ```
 
 

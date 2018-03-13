@@ -34,17 +34,18 @@ The value of the  **RasterExportDataCompression** property must be one of the fo
 
 
 
-|**Constant**|**Value**|**Description**|**Applicable File Format**|
-|:-----|:-----|:-----|:-----|
-| **visRasterNone**|0|No compression, the default for BMP.|BMP|
-| **visRasterRLE**|1|RLE compression.|BMP|
-| **visRasterGroup3**|2|Group 3 compression.|TIFF|
-| **visRasterPackbits**|3|Packbits compression.|TIFF|
-| **visRasterGroup4**|4|Group 4 compression.|TIFF|
-| **visRasterLZW**|5|LZW compression.|TIFF|
-| **visRasterModifiedHuffman**|6|Modified Huffman compression.|TIFF|
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong>         | <strong>Applicable File Format</strong> |
+|:------------------------------------------|:-----------------------|:-------------------------------------|:----------------------------------------|
+| <strong>visRasterNone</strong>            | 0                      | No compression, the default for BMP. | BMP                                     |
+| <strong>visRasterRLE</strong>             | 1                      | RLE compression.                     | BMP                                     |
+| <strong>visRasterGroup3</strong>          | 2                      | Group 3 compression.                 | TIFF                                    |
+| <strong>visRasterPackbits</strong>        | 3                      | Packbits compression.                | TIFF                                    |
+| <strong>visRasterGroup4</strong>          | 4                      | Group 4 compression.                 | TIFF                                    |
+| <strong>visRasterLZW</strong>             | 5                      | LZW compression.                     | TIFF                                    |
+| <strong>visRasterModifiedHuffman</strong> | 6                      | Modified Huffman compression.        | TIFF                                    |
+
 For any given session of Microsoft Visio, when the  **RasterExportDataCompression** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 
-The setting of the  **RasterExportDataCompression** property corresponds to the **Data compression** setting in the **BMP Output Options** or **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)** or **Tag Image File Format (*.tif)**, and then click  **Save**.)
+The setting of the  <strong>RasterExportDataCompression</strong> property corresponds to the <strong>Data compression</strong> setting in the <strong>BMP Output Options</strong> or <strong>TIFF Output Options</strong> dialog box. (Click the <strong>File</strong> tab, click <strong>Save As</strong>, in the  <strong>Save as type</strong> list, select <strong>Windows Bitmap (*.bmp; *.dib)</strong> or <strong>Tag Image File Format (*.tif)</strong>, and then click  <strong>Save</strong>.)
 
 

@@ -38,6 +38,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|

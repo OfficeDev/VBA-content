@@ -16,20 +16,21 @@ You can place nothing but a [comment](vbe-glossary.md) between the **Select Case
 
 
 - You placed a statement between  **Select Case** and its first **Case** clause. For example:
-    
+
   ```
   Select Case SomeVar 
-' This is a comment and is valid. 
-Stop ' Even a Stop statement is invalid here. 
-Case SomeValue 
-. . . 
-End Select 
-
+  ' This is a comment and is valid. 
+  Stop ' Even a Stop statement is invalid here. 
+  Case SomeValue 
+  . . . 
+  End Select 
   ```
 
 
-    The  **Select Case** statement must be immediately followed by its first **Case** statement. If the intervening[expression](vbe-glossary.md) is a comment, precede it with a comment delimiter ( **'** ). Otherwise, place the expression where it belongs or delete it.
-    
+~~~
+The  **Select Case** statement must be immediately followed by its first **Case** statement. If the intervening[expression](vbe-glossary.md) is a comment, precede it with a comment delimiter ( **'** ). Otherwise, place the expression where it belongs or delete it.
+~~~
+
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

@@ -61,7 +61,6 @@ The following example creates a shared workspace site at the URL http://server/s
     MsgBox strSWSInfo, vbInformation + vbOKOnly, _ 
         "New Shared Workspace Information" 
     Set sws = Nothing 
-
 ```
 
 

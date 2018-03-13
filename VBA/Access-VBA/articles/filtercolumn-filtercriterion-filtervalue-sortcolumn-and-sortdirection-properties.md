@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # FilterColumn, FilterCriterion, FilterValue, SortColumn, and SortDirection Properties and Reset Method Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -101,6 +101,7 @@ txtFilterValue.value = ""
 RDS.Reset(FALSE)End Sub
 --></Script> 
 </BODY></HTML>
+
 <!-- EndFilterColumnVBS -->
 ```
 

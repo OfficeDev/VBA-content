@@ -21,18 +21,20 @@ Determines whether a user can specify, from the user interface, the [Null](vbe-g
 The  **TripleState** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the control supports the Null state.|
+| <strong>Part</strong> | <strong>Description</strong>                           |
+|:----------------------|:-------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                              |
+| <em>Boolean</em>      | Optional. Whether the control supports the Null state. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The button clicks through three states.|
-|**False**|The button only supports True and False (default).|
+| <strong>Value</strong> | <strong>Description</strong>                       |
+|:-----------------------|:---------------------------------------------------|
+| <strong>True</strong>  | The button clicks through three states.            |
+| <strong>False</strong> | The button only supports True and False (default). |
+
  **Remarks**
 Although the  **TripleState** property exists on the **OptionButton**, the property is disabled. Regardless of the value of **TripleState**, you cannot set the control to **Null** through the user interface.
 When the  **TripleState** property is **True**, a user can choose from the values of **Null**, **True**, and **False**. The null value is displayed as a shaded button.

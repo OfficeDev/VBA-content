@@ -25,6 +25,6 @@ In a multicolumn list box or combo box, you can use the  **List** and **Column**
     
       - Assign the array as the value of the  **List** property. The contents of the list box will match the contents of the array exactly.
     
-  - Assign the array as the value of the  **Column** property. **Column** transposes rows and columns, so each row of the list box matches the corresponding column of the array.
+   - Assign the array as the value of the  **Column** property. **Column** transposes rows and columns, so each row of the list box matches the corresponding column of the array.
     
 

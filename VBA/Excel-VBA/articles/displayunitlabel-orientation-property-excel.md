@@ -29,10 +29,13 @@ The value of this property can be an integer value from -90 to 90 degrees or one
 
 
 
-| **xlDownward**|
-| **xlHorizontal**|
-| **xlUpward**|
-| **xlVertical**|
+| <strong>xlDownward</strong>|
+| 
+<strong>xlHorizontal</strong>|
+| 
+<strong>xlUpward</strong>|
+| 
+<strong>xlVertical</strong>|
 
 ## See also
 

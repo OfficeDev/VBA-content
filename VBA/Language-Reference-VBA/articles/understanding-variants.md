@@ -21,7 +21,6 @@ The following statements create  **Variant** variables:
 Dim myVar 
 Dim yourVar As Variant 
 theVar = "This is some text." 
-
 ```
 
 The last statement does not explicitly declare the variable , but rather declares the variable implicitly, or automatically. Variables that are declared implicitly are specified as the  **Variant** data type.

@@ -35,7 +35,6 @@ The following example loads a theme effect scheme from a file.
 
 ```
 tesEffectScheme.Load("C:\myThemeEffectScheme.eftx") 
-
 ```
 
 

@@ -36,6 +36,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|
@@ -50,6 +51,7 @@ _expression_ An expression that returns an **Application** object.
 |"is not within"|The value of _FieldName_ is not within _Criteria1_.|
 
 <br/>
+
 
 ### Return value
 
@@ -73,7 +75,7 @@ Sub TestAutoFilter()
     If Not ActiveProject.AutoFilter Then 
         Application.AutoFilter 
     End If 
- 
+
     Application.SetAutoFilter FieldName:="% Work Complete", FilterType:=pjAutoFilterCustom, _ 
     Test1:="equals", Criteria1:="0%" 
 End Sub

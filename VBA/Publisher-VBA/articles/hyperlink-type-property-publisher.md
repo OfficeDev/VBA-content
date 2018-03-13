@@ -29,7 +29,9 @@ The  **Type** property value can be one of these **MsoHyperlinkType** constants.
 
 
 
-| **msoHyperlinkInlineShape**|
-| **msoHyperlinkRange**|
-| **msoHyperlinkShape**|
+| <strong>msoHyperlinkInlineShape</strong>|
+| 
+<strong>msoHyperlinkRange</strong>|
+| 
+<strong>msoHyperlinkShape</strong>|
 

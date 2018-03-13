@@ -61,10 +61,10 @@ Dim sngPercent As Single
 Dim shpCrop As Shape 
 Dim sngPoints As Single 
 Dim sngWidth As Single 
- 
+
 sngPercent = InputBox("What percentage do you " &; _ 
  "want to crop off the left of this picture?") 
- 
+
 Set shpCrop = Selection.ShapeRange(1) 
 With shpCrop.Duplicate 
  .ScaleWidth Factor:=1, _ 
@@ -72,11 +72,10 @@ With shpCrop.Duplicate
  sngWidth = .Width 
  .Delete 
 End With 
- 
-sngPoints = sngWidth * sngPercent / 100 
- 
-shpCrop.PictureFormat.CropLeft = sngPoints 
 
+sngPoints = sngWidth * sngPercent / 100 
+
+shpCrop.PictureFormat.CropLeft = sngPoints 
 ```
 
 

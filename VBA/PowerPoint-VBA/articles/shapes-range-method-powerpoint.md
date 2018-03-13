@@ -148,8 +148,6 @@ With myDocument.Shapes
     End If
 
 End With
-
-
 ```
 
 

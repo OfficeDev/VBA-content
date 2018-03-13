@@ -29,15 +29,23 @@ This method sets the following properties to  **True** :
 
 
 
-| **MatchFuzzyAY**| **MatchFuzzyKanji**|
-| **MatchFuzzyBV**| **MatchFuzzyKiKu**|
-| **MatchFuzzyByte**| **MatchFuzzyOldKana**|
-| **MatchFuzzyCase**| **MatchFuzzyProlongedSoundMark**|
-| **MatchFuzzyDash**| **MatchFuzzyPunctuation**|
-| **MatchFuzzyDZ**| **MatchFuzzySmallKana**|
-| **MatchFuzzyHF**| **MatchFuzzySpace**|
-| **MatchFuzzyHiragana**| **MatchFuzzyTC**|
-| **MatchFuzzyIterationMark**| **MatchFuzzyZJ**|
+| <strong>MatchFuzzyAY</strong>| <strong>MatchFuzzyKanji</strong>|
+| 
+<strong>MatchFuzzyBV</strong>| <strong>MatchFuzzyKiKu</strong>|
+| 
+<strong>MatchFuzzyByte</strong>| <strong>MatchFuzzyOldKana</strong>|
+| 
+<strong>MatchFuzzyCase</strong>| <strong>MatchFuzzyProlongedSoundMark</strong>|
+| 
+<strong>MatchFuzzyDash</strong>| <strong>MatchFuzzyPunctuation</strong>|
+| 
+<strong>MatchFuzzyDZ</strong>| <strong>MatchFuzzySmallKana</strong>|
+| 
+<strong>MatchFuzzyHF</strong>| <strong>MatchFuzzySpace</strong>|
+| 
+<strong>MatchFuzzyHiragana</strong>| <strong>MatchFuzzyTC</strong>|
+| 
+<strong>MatchFuzzyIterationMark</strong>| <strong>MatchFuzzyZJ</strong>|
 
 ## Example
 

@@ -40,7 +40,6 @@ This example hides the mail merge field codes in the active publication.
 
 ```vb
 ActiveDocument.MailMerge.ViewMailMergeFieldCodes = False 
-
 ```
 
 

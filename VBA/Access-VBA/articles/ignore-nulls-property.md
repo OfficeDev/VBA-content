@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Ignore Nulls Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -23,10 +23,11 @@ You can use the IgnoreNulls property to specify that records with Null values in
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|Records that contain Null values in the indexed fields aren't included in the index.|
-|No|**False**|(Default) Records that contain Null values in the indexed fields are included in the index.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                |
+|:-------------------------|:------------------------------|:--------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | Records that contain Null values in the indexed fields aren't included in the index.        |
+| No                       | <strong>False</strong>        | (Default) Records that contain Null values in the indexed fields are included in the index. |
+
 You can set this property by using the Indexes window of table Design view or Visual Basic.
 
 To access the  **Ignore Nulls** property of an index by using Visual Basic, use the DAO **IgnoreNulls** property.

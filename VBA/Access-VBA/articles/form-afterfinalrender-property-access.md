@@ -35,7 +35,6 @@ The following example specifies that when the  **AfterFinalRender** event occurs
 
 ```vb
 Forms(0).AfterFinalRender = "[Event Procedure]" 
-
 ```
 
 

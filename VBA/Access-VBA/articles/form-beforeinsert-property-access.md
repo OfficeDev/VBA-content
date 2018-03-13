@@ -35,7 +35,6 @@ The following example specifies that when the  **BeforeInsert** event occurs on 
 
 ```vb
 Forms(0).BeforeInsert = "[Event Procedure]" 
-
 ```
 
 

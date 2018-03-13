@@ -43,15 +43,16 @@ Variant
 
 
 
-- Because the equal sign is used to indicate a formula when you type text or a value in a cell, Microsoft Excel evaluates what you type; however, this may cause unexpected filter results. To indicate an equality comparison operator for either text or a value, type the criteria as a string expression in the appropriate cell in the criteria range: **=''=**_entry_**''**Where  _entry_ is the text or value you want to find. For example:
-    
+- Because the equal sign is used to indicate a formula when you type text or a value in a cell, Microsoft Excel evaluates what you type; however, this may cause unexpected filter results. To indicate an equality comparison operator for either text or a value, type the criteria as a string expression in the appropriate cell in the criteria range: <strong>=''=</strong><em>entry</em><strong>''</strong>Where  <em>entry</em> is the text or value you want to find. For example:
 
-|**What you type in the cell**|**What Excel evaluates and displays**|
-|:-----|:-----|
-|="=Davolio"|=Davolio|
-|="=3000"|=3000|
+
+| <strong>What you type in the cell</strong> | <strong>What Excel evaluates and displays</strong> |
+|:-------------------------------------------|:---------------------------------------------------|
+| ="=Davolio"                                | =Davolio                                           |
+| ="=3000"                                   | =3000                                              |
+
 - When filtering text data, Excel does not distinguish between uppercase and lowercase characters. However, you can use a formula to perform a case-sensitive search.
-    
+
 
 ## See also
 

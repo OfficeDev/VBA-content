@@ -49,20 +49,20 @@ The  **projectGuid** value returned by the **GetServerProjectGuid** method inclu
 
 ```vb
 Option Explicit 
- 
+
 Sub TestDeliverables() 
     Dim projectGuid As String 
     Dim ds As Object 
- 
+
     projectGuid = ActiveProject.GetServerProjectGuid 
- 
+
     ' Optional: Removing the braces on the GUID value makes no difference. 
     ' projectGuid = Mid(projectGuid, 2, 36) 
- 
+
     Set ds = ActiveProject.DeliverablesGetByProject(projectGuid) 
- 
+
     MsgBox ds.XML 
- 
+
     Debug.Print ds.XML 
 End Sub
 ```

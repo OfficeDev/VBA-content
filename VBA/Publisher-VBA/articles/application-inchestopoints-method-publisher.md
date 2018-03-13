@@ -49,25 +49,24 @@ This example converts measurements in inches entered by the user to measurements
 ```vb
 Dim strInput As String 
 Dim strOutput As String 
- 
+
 Do While True 
  ' Get input from user. 
  strInput = InputBox( _ 
  Prompt:="Enter measurement in inches (0 to cancel): ", _ 
  Default:="0") 
- 
+
  ' Exit the loop if user enters zero. 
  If Val(strInput) = 0 Then Exit Do 
- 
+
  ' Evaluate and display result. 
  strOutput = Trim(strInput) &; " in = " _ 
  &; Format(Application _ 
  .InchesToPoints(Value:=Val(strInput)), _ 
  "0.00") &; " points" 
- 
+
  MsgBox strOutput 
 Loop 
-
 ```
 
 

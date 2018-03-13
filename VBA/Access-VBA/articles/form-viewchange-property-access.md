@@ -35,7 +35,6 @@ The following example specifies that when the  **ViewChange** event occurs on th
 
 ```vb
 Forms(0).ViewChange = "[Event Procedure]" 
-
 ```
 
 

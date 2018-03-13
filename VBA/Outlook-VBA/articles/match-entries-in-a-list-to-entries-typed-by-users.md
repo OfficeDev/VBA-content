@@ -18,7 +18,7 @@ ms.date: 06/08/2017
     
       -  [MatchEntry](listbox-matchentry-property-outlook-forms-script.md) property for the **ListBox** control.
     
-  -  [MatchEntry](combobox-matchentry-property-outlook-forms-script.md) property for the **ComboBox** control.
+   -  [MatchEntry](combobox-matchentry-property-outlook-forms-script.md) property for the **ComboBox** control.
     
 
 

@@ -35,16 +35,25 @@ The value of the  **OutputType** property can be one of these **PpPrintOutputTyp
 
 ||
 |:-----|
-|**ppPrintOutputBuildSlides**|
-|**ppPrintOutputFourSlideHandouts**|
-|**ppPrintOutputNineSlideHandouts**|
-|**ppPrintOutputNotesPages**|
-|**ppPrintOutputOneSlideHandouts**|
-|**ppPrintOutputOutline**|
-|**ppPrintOutputSixSlideHandouts**|
-|**ppPrintOutputSlides**|
-|**ppPrintOutputThreeSlideHandouts**|
-|**ppPrintOutputTwoSlideHandouts**|
+|<strong>ppPrintOutputBuildSlides</strong>|
+|
+<strong>ppPrintOutputFourSlideHandouts</strong>|
+|
+<strong>ppPrintOutputNineSlideHandouts</strong>|
+|
+<strong>ppPrintOutputNotesPages</strong>|
+|
+<strong>ppPrintOutputOneSlideHandouts</strong>|
+|
+<strong>ppPrintOutputOutline</strong>|
+|
+<strong>ppPrintOutputSixSlideHandouts</strong>|
+|
+<strong>ppPrintOutputSlides</strong>|
+|
+<strong>ppPrintOutputThreeSlideHandouts</strong>|
+|
+<strong>ppPrintOutputTwoSlideHandouts</strong>|
 
 ## Example
 

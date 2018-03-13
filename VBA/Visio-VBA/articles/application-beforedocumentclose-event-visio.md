@@ -15,7 +15,7 @@ Occurs before a document is closed.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeDocumentClose**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeDocumentClose</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

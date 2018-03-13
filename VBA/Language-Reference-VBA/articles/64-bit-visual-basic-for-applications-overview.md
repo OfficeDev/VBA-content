@@ -24,11 +24,11 @@ To address this problem and enable VBA code to work correctly in both 32-bit and
 
 
 -  **[LongPtr](longptr-data-type.md)** - VBA now includes a variable type alias: **LongPtr**. The actual data type that **LongPtr** resolves to depends on the version of Office that it is running in: **LongPtr** resolves to **Long** in 32-bit versions of Office, and **LongPtr** resolves to **LongLong** in 64-bit versions of Office. Use **LongPtr** for pointers and handles.
-    
+
 -  **[LongLong](longlong-data-type.md)** - The **LongLong** data type is a signed 64-bit integer that is only available on 64-bit versions of Office. Use **LongLong** for 64-bit integrals. Conversion functions must be used to explicitly assign **LongLong** (including **LongPtr** on 64-bit platforms) to smaller integral types. Implicit conversions of **LongLong** to smaller integrals are not allowed.
-    
+
 -  **[PtrSafe](ptrsafe-keyword.md)** - The **PtrSafe** keyword asserts that a **Declare** statement is safe to run in 64-bit versions of Office.
-    
+
 
 All [Declare Statements](declare-statement.md) must now include the **PtrSafe** keyword when running in 64-bit versions of Office. It is important to understand that simply adding the **PtrSafe** keyword to a **Declare** statement only signifies the **Declare** statement explicitly targets 64-bits, all data types within the statement that need to store 64-bits (including return values and parameters) must still be modified to hold 64-bit quantities.
 
@@ -94,13 +94,12 @@ To write code that can work in both new and older versions of Office you can use
 #else 
 ' Code is running in VBA version 6 or earlier 
 #end if 
- 
+
 #If Vba7 Then 
 Declare PtrSafe Sub... 
 #Else 
 Declare Sub... 
 #EndIf 
-
 ```
 
 

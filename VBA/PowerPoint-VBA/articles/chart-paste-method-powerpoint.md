@@ -58,8 +58,6 @@ With ActiveDocument.InlineShapes(1)
         .Chart.Paste
     End If
 End With
-
-
 ```
 
 

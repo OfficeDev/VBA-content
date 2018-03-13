@@ -19,8 +19,8 @@ This procedure is available only for the  [ComboBox](combobox-object-outlook-for
     
       -  [TextAlign](combobox-textalign-property-outlook-forms-script.md) property for the [ComboBox](combobox-object-outlook-forms-script.md) control.
     
-  -  [TextAlign](label-textalign-property-outlook-forms-script.md) property for the [Label](label-object-outlook-forms-script.md) control.
+   -  [TextAlign](label-textalign-property-outlook-forms-script.md) property for the [Label](label-object-outlook-forms-script.md) control.
     
-  -  [TextAlign](textbox-textalign-property-outlook-forms-script.md) property for the [TextBox](textbox-object-outlook-forms-script.md) control.
+   -  [TextAlign](textbox-textalign-property-outlook-forms-script.md) property for the [TextBox](textbox-object-outlook-forms-script.md) control.
     
 

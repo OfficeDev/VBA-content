@@ -29,12 +29,11 @@ Function Factorial (ByVal MyVar As Integer) ' Function declaration.
  End If 
  Factorial = Factorial(MyVar) * (MyVar + 1) 
 End Function 
- 
+
 ' Call Factorial with a variable S. 
 S = 5 
 Print Factorial(S) ' Displays 120 (the factorial of 5) 
 Print S ' Displays 5. 
-
 ```
 
 Without including  **ByVal** in the function declaration, the preceding **Print** statements would display 1 and 0. This is because `MyVar` would then refer to variable would then refer to variable `S`, which is reduced by 1 until it equals 0.

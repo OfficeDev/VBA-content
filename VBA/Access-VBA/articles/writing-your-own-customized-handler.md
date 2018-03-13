@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Writing Your Own Customized Handler
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -27,6 +27,7 @@ The MSDFMAP.Handler implements the  **IDataFactoryHandler** interface.
 ## IDataFactoryHandler Interface
 <a name="sectionSection0"> </a>
 
+
 This interface has two methods,  **GetRecordset** and **Reconnect**. Both methods require that the[CursorLocation](http://msdn.microsoft.com/library/8A048BD4-AE25-A555-1C07-14364B7E6560%28Office.15%29.aspx) property be set to **adUseClient**.
 
 Both methods take arguments that appear after the first comma in the " **Handler=** " keyword. For example, `"Handler=progid,arg1,arg2;"` will pass an argument string of `"arg1,arg2"`, and will pass an argument string of  `"arg1,arg2"`, and  `"Handler=progid"` will pass a null argument.
@@ -35,11 +36,13 @@ Both methods take arguments that appear after the first comma in the " **Handler
 ## GetRecordset Method
 <a name="sectionSection1"> </a>
 
+
 This method queries the data source and creates a new [Recordset](http://msdn.microsoft.com/library/0F963BF8-F066-DC8A-B754-F427DE712DF1%28Office.15%29.aspx) object using the arguments provided. The **Recordset** must be opened with **adLockBatchOptimistic** and must not be opened asynchronously.
 
 
 ## Arguments
 <a name="sectionSection2"> </a>
+
 
  _conn_ The connection string.
 
@@ -53,11 +56,13 @@ This method queries the data source and creates a new [Recordset](http://msdn.mi
 ## Reconnect Method
 <a name="sectionSection3"> </a>
 
+
 This method updates the data source. It creates a new [Connection](http://msdn.microsoft.com/library/C16023AA-0321-2513-EE71-255D6FFBA03D%28Office.15%29.aspx) object and attaches the given **Recordset**.
 
 
 ## Arguments
 <a name="sectionSection4"> </a>
+
 
  ** _conn_** The connection string.
 
@@ -69,11 +74,12 @@ This method updates the data source. It creates a new [Connection](http://msdn.m
 ## msdfhdl.idl
 <a name="sectionSection5"> </a>
 
+
 This is the interface definition for  **IDataFactoryHandler** that appears in the **msdfhdl.idl** file.
 
 
 ```
- 
+
 [ 
   uuid(D80DE8B3-0001-11d1-91E6-00C04FBBBFB3), 
   version(1.0) 
@@ -82,7 +88,7 @@ library MSDFHDL
 { 
     importlib("stdole32.tlb"); 
     importlib("stdole2.tlb"); 
- 
+
     // TLib : Microsoft ActiveX Data Objects 2.0 Library 
     // {00000200-0000-0010-8000-00AA006D2EA4} 
     #ifdef IMPLIB 
@@ -90,7 +96,7 @@ library MSDFHDL
     #else 
     importlib("msado20.dll"); 
     #endif 
- 
+
     [ 
       odl, 
       uuid(D80DE8B5-0001-11d1-91E6-00C04FBBBFB3), 
@@ -103,7 +109,7 @@ HRESULT _stdcall GetRecordset(
       [in] BSTR args, 
       [in] BSTR query, 
       [out, retval] _Recordset **ppRS); 
- 
+
 // DataFactory will use the ActiveConnection property 
 // on the Recordset after calling Reconnect. 
    HRESULT _stdcall Reconnect( 
@@ -112,7 +118,6 @@ HRESULT _stdcall GetRecordset(
       [in] _Recordset *pRS); 
     }; 
 }; 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

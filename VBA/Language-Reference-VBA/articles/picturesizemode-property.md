@@ -21,19 +21,21 @@ Specifies how to display the background picture on a control, form, or page.
 The  **PictureSizeMode** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmPictureSizeMode_|Optional. The action to take if the picture and the form or page that contains it are not the same size.|
+| <strong>Part</strong>      | <strong>Description</strong>                                                                             |
+|:---------------------------|:---------------------------------------------------------------------------------------------------------|
+| <em>object</em>            | Required. A valid object.                                                                                |
+| <em>fmPictureSizeMode</em> | Optional. The action to take if the picture and the form or page that contains it are not the same size. |
+
  **Settings**
 The settings for  _fmPictureSizeMode_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmPictureSizeModeClip_|0|Crops any part of the picture that is larger than the form or page (default).|
-| _fmPictureSizeModeStretch_|1|Stretches the picture to fill the form or page. This setting distorts the picture in either the horizontal or vertical direction.|
-| _fmPictureSizeModeZoom_|3|Enlarges the picture, but does not distort the picture in either the horizontal or vertical direction.|
+| <strong>Constant</strong>         | <strong>Value</strong> | <strong>Description</strong>                                                                                                      |
+|:----------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| <em>fmPictureSizeModeClip</em>    | 0                      | Crops any part of the picture that is larger than the form or page (default).                                                     |
+| <em>fmPictureSizeModeStretch</em> | 1                      | Stretches the picture to fill the form or page. This setting distorts the picture in either the horizontal or vertical direction. |
+| <em>fmPictureSizeModeZoom</em>    | 3                      | Enlarges the picture, but does not distort the picture in either the horizontal or vertical direction.                            |
+
  **Remarks**
 The  **fmPictureSizeModeClip** setting indicates you want to show the picture in its original size and scale. If the form or page is smaller than the picture, this setting only shows the part of the picture that fits within the form or page.
 The  **fmPictureSizeModeStretch** and **fmPictureSizeModeZoom** settings both enlarge the image, but **fmPictureSizeModeStretch** causes distortion. The **fmPictureSizeModeStretch** setting enlarges the image horizontally and vertically until the image reaches the corresponding edges of the[container](vbe-glossary.md) or control. The **fmPictureSizeModeZoom** setting enlarges the image until it reaches either the horizontal or vertical edges of the container or control. If the image reaches the horizontal edges first, any remaining distance to the vertical edges remains blank. If it reaches the vertical edges first, any remaining distance to the horizontal edges remains blank.

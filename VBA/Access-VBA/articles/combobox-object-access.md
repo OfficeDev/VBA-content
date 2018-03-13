@@ -36,21 +36,21 @@ The list can be single- or multiple-column, and the columns can appear with or w
 
 
 - [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
-    
- **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+
+  **Links provided by:**
+  ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Combo Box](http://www.utteraccess.com/wiki/index.php/Combo_Box)
-    
+
 - [Cascading Combo Boxes](http://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes)
-    
+
 - [Cascading Combo Boxes: Demo](http://www.utteraccess.com/wiki/index.php/Cascading_Combo_Boxes:_Demo)
-    
+
 - [Cascading Combo Boxes - Leaving Null Values](http://www.utteraccess.com/wiki/index.php/Cascade_Combo_Leaving_Null_Values)
-    
+
 - [Forms: Populate Controls/Text Boxes Based on Combobox Selection](http://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
-    
+
 
 ## Example
 
@@ -69,31 +69,31 @@ Private Sub cmdSearch_Click()
     Dim db As Database
     Dim qd As QueryDef
     Dim vWhere As Variant
-    
+
     Set db = CurrentDb()
-    
+
     On Error Resume Next
     db.QueryDefs.Delete "Query1"
     On Error GoTo 0
-    
+
     vWhere = Null
     vWhere = vWhere &amp; " AND [PymtTypeID]=" + Me.cboPaymentTypes
     vWhere = vWhere &amp; " AND [RefundTypeID]=" + Me.cboRefundType
     vWhere = vWhere &amp; " AND [RefundCDMID]=" + Me.cboRefundCDM
     vWhere = vWhere &amp; " AND [RefundOptionID]=" + Me.cboRefundOption
     vWhere = vWhere &amp; " AND [RefundCodeID]=" + Me.cboRefundCode
-    
+
     If Nz(vWhere, "") = "" Then
         MsgBox "There are no search criteria selected." &amp; vbCrLf &amp; vbCrLf &amp; _
         "Search Cancelled.", vbInformation, "Search Canceled."
-        
+
     Else
         Set qd = db.CreateQueryDef("Query1", "SELECT * FROM tblRefundData WHERE " &amp; _
         Mid(vWhere, 6))
-        
+
         db.Close
         Set db = Nothing
-        
+
         DoCmd.OpenQuery "Query1", acViewNormal, acReadOnly
     End If
 End Sub
@@ -382,6 +382,7 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
@@ -393,6 +394,7 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Other resources

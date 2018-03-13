@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # CancelUpdate Method Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -24,6 +24,7 @@ To test this example, cut and paste this code between the <Body> and </Body> tag
 <!--METADATA TYPE="typelib" uuid="00000205-0000-0010-8000-00AA006D2EA4" --><HTML>
 <HEAD><META NAME="GENERATOR" Content="Microsoft Visual Studio 6.0">
 <TITLE></TITLE></HEAD>
+
 <BODY><CENTER>
 <H1>Remote Data Service</H1><H2>SubmitChanges and CancelUpdate Methods</H2> 
 <% ' to integrate/test this code replace the Server property value and' the Data Source value in the Connect property with appropriate values%> 
@@ -59,7 +60,7 @@ msgbox "Changes will be cancelled"RDS.CancelUpdate
 RDS.Refresh 
 End Sub-->
 </SCRIPT> 
- 
+
 </BODY></HTML>
 <!-- EndCancelUpdateVBS -->
 ```

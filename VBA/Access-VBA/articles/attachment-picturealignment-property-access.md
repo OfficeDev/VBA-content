@@ -29,13 +29,14 @@ The  **PictureAlignment** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Top Left|0|The picture is displayed in the top-left corner of the control.|
-|Top Right|1|The picture is displayed in the top-right corner of the control.|
-|Center|2|(Default) The picture is centered in the control.|
-|Bottom Left|3|The picture is displayed in the bottom-left corner of the control.|
-|Bottom Right|4|The picture is displayed in the bottom-right corner of the control.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                        |
+|:-------------------------|:------------------------------|:--------------------------------------------------------------------|
+| Top Left                 | 0                             | The picture is displayed in the top-left corner of the control.     |
+| Top Right                | 1                             | The picture is displayed in the top-right corner of the control.    |
+| Center                   | 2                             | (Default) The picture is centered in the control.                   |
+| Bottom Left              | 3                             | The picture is displayed in the bottom-left corner of the control.  |
+| Bottom Right             | 4                             | The picture is displayed in the bottom-right corner of the control. |
+
 You can also set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 This property can be set in any view.

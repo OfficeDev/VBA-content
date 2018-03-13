@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Connect Property Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -18,7 +18,7 @@ This code shows how to set the [Connect](http://msdn.microsoft.com/library/11aa3
 
 
 ```
- 
+
 <OBJECT CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID="ADC1"> 
 . 
    <PARAM NAME="SQL" VALUE="Select * from Sales"> 
@@ -26,7 +26,6 @@ This code shows how to set the [Connect](http://msdn.microsoft.com/library/11aa3
    <PARAM NAME="Server" VALUE="http://MyWebServer"> 
 . 
 </OBJECT> 
-
 ```
 
 The following example shows how to set the  **Connect** property at run time in VBScript code.
@@ -71,6 +70,7 @@ RDS.Server = document.frmInput.txtServer.valueRDS.SQL = document.frmInput.txtSQL
 RDS.Connect = document.frmInput.txtConnect.valueRDS.Refresh
 End Sub</Script>
 </BODY></HTML>
+
 <!-- EndConnectVBS -->
 ```
 

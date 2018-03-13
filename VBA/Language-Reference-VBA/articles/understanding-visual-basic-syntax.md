@@ -36,7 +36,6 @@ Arguments for functions and methods can be specified in code either by position 
 
 ```vb
 MsgBox "Your answer is correct!",0,"Answer Box" 
-
 ```
 
 To specify an argument by name, use the argument name followed by a colon and an equal sign ( **:=** ), and the argument's value. You can specify named arguments in any order, for example:
@@ -45,7 +44,6 @@ To specify an argument by name, use the argument name followed by a colon and an
 
 ```vb
 MsgBox Title:="Answer Box", Prompt:="Your answer is correct!" 
-
 ```
 
 The syntax for functions and some methods shows the arguments enclosed in parentheses. These functions and methods return values, so you must enclose the arguments in parentheses to assign the value to a variable. If you ignore the return value or if you don't pass arguments at all, don't include the parentheses. Methods that don't return values do not need their arguments enclosed in parentheses. These guidelines apply whether you're using positional arguments or named arguments.
@@ -69,7 +67,6 @@ In the  **Option** **Compare** statement syntax, the braces and vertical bar ind
 
 ```vb
 Option Compare Text 
-
 ```
 
  **Dim Statement Syntax**
@@ -80,7 +77,6 @@ In the  **Dim** statement syntax, the word **Dim** is a required[keyword](vbe-gl
 
 ```vb
 Dim myVar, nextVar, thirdVar 
-
 ```
 
 The following example declares a variable as a  **String**. Including a [data type](vbe-glossary.md) saves memory and can help you find errors in your code.
@@ -89,7 +85,6 @@ The following example declares a variable as a  **String**. Including a [data ty
 
 ```vb
 Dim myAnswer As String 
-
 ```
 
 To declare several variables in one statement, include the data type for each variable. Variables declared without a data type are automatically declared as  **Variant**.
@@ -98,7 +93,6 @@ To declare several variables in one statement, include the data type for each va
 
 ```vb
 Dim x As Integer, y As Integer, z As Integer 
-
 ```
 
 In the following statement,  `x` and `y` are assigned the **Variant** data type. Only `z` is assigned the **Integer** data type.
@@ -107,7 +101,6 @@ In the following statement,  `x` and `y` are assigned the **Variant** data type.
 
 ```vb
 Dim x, y, z As Integer 
-
 ```
 
 If you are declaring an [array](vbe-glossary.md) variable, you must include parentheses. The subscripts are optional. The following statement dimensions a dynamic array, `myArray`.
@@ -116,7 +109,6 @@ If you are declaring an [array](vbe-glossary.md) variable, you must include pare
 
 ```vb
 Dim myArray() 
-
 ```
 
 

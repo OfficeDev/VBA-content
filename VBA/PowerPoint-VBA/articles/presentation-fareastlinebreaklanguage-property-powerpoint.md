@@ -35,10 +35,13 @@ The value of the  **FarEastLineBreakLanguage** property can be one of these **Ms
 
 ||
 |:-----|
-|**MsoFarEastLineBreakLanguageJapanese**|
-|**MsoFarEastLineBreakLanguageKorean**|
-|**MsoFarEastLineBreakLanguageSimplifiedChinese**|
-|**MsoFarEastLineBreakLanguageTraditionalChinese**|
+|<strong>MsoFarEastLineBreakLanguageJapanese</strong>|
+|
+<strong>MsoFarEastLineBreakLanguageKorean</strong>|
+|
+<strong>MsoFarEastLineBreakLanguageSimplifiedChinese</strong>|
+|
+<strong>MsoFarEastLineBreakLanguageTraditionalChinese</strong>|
 
 ## Example
 

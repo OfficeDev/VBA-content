@@ -24,14 +24,13 @@ The notation used to refer to an element of an array consists of the [variable](
 
 ```vb
 Dim A As Variant, B As Long, i As Long
-A = Array(10, 20, 30)  ' A is a three element list by defeault indexed 0 to 2
-B = A(2)               ' B is now 30
-ReDim Preserve A(4)    ' Extend A's length to five elements
-A(4) = 40              ' Set the fifth element's value
+A = Array(10, 20, 30)  ' A is a three element list by defeault indexed 0 to 2
+B = A(2)               ' B is now 30
+ReDim Preserve A(4)    ' Extend A's length to five elements
+A(4) = 40              ' Set the fifth element's value
 For i = LBound(A) To UBound(A)
     Debug.Print "A(" & i & ") = " & A(i)
 Next i
-
 ```
 
 The lower bound of an array created using the  **Array** function is determined by the lower bound specified with the **Option Base** statement, unless **Array** is qualified with the name of the type library (for example **VBA.Array** ). If qualified with the type-library name, **Array** is unaffected by **Option Base**.

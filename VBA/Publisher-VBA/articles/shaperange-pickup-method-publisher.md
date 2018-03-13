@@ -38,7 +38,6 @@ With ActiveDocument.Pages(1)
  .Shapes(1).PickUp 
  .Shapes(2).Apply 
 End With 
-
 ```
 
 

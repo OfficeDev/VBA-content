@@ -48,24 +48,25 @@ Constants for CellIndex and for the  **CharProps** property value are declared i
 
 
 
-|** CellIndex**|** Value**|** intExpression**|** Value**|
-|:-----|:-----|:-----|:-----|
-| **visCharacterFont**| 0| An integer that represents an index into the **Fonts** collection installed on a system. Zero (0) represents the default font.| N/A|
-| **visCharacterColor**| 1| An integer from 0 to 23 that corresponds to a color in the current color palette.| N/A|
-| **visCharacterStyle**| 2| **visBold** **visItalic** **visUnderLine** **visSmallCaps**| &;H1 &;H2 &;H4 &;H8|
-| **visCharacterCase**| 3| **visCaseNormal** **visCaseAllCaps** **visCaseInitialCaps**| 0 1 2|
-| **visCharacterPos**| 4| **visPosNormal** **visPosSuper** **visPosSub**| 0 1 2|
-| **visCharacterSize**| 7| An integer that represents point size.| N/A|
-| **visCharacterColorTrans**|17|An integer from 0 to 100 that corresponds to the degree of transparency of the text color, as a percentage.|N/A|
-| **visCharacterDblUnderline**|8| **Boolean**|N/A|
-| **visCharacterFontScale**|5|An integer from 0 to 655 that represents the width of the text font, as a percentage, relative to the default (100%). |N/A|
-| **visCharacterLangID**|57|A  **Long** that represents the language the text is in. The language ID (LANGID) for a character is a 16-bit value defined by Windows, consisting of a primary language ID and a secondary language ID. To determine the value for particular languages, see the Platform SDK documentation on MSDN.|N/A|
-| **visCharacterLetterspace**|16|An integer that represents additional space between adjacent letters, in points.|N/A|
-| **visCharacterOverline**|9| **Boolean**|N/A|
-| **visCharacterStrikethru**|10| **Boolean**|N/A|
+| ** CellIndex**                            | ** Value** | ** intExpression**                                                                                                                                                                                                                                                                                                 | ** Value**          |
+|:------------------------------------------|:-----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
+| <strong>visCharacterFont</strong>         | 0          | An integer that represents an index into the <strong>Fonts</strong> collection installed on a system. Zero (0) represents the default font.                                                                                                                                                                        | N/A                 |
+| <strong>visCharacterColor</strong>        | 1          | An integer from 0 to 23 that corresponds to a color in the current color palette.                                                                                                                                                                                                                                  | N/A                 |
+| <strong>visCharacterStyle</strong>        | 2          | <strong>visBold</strong> <strong>visItalic</strong> <strong>visUnderLine</strong> <strong>visSmallCaps</strong>                                                                                                                                                                                                    | &;H1 &;H2 &;H4 &;H8 |
+| <strong>visCharacterCase</strong>         | 3          | <strong>visCaseNormal</strong> <strong>visCaseAllCaps</strong> <strong>visCaseInitialCaps</strong>                                                                                                                                                                                                                 | 0 1 2               |
+| <strong>visCharacterPos</strong>          | 4          | <strong>visPosNormal</strong> <strong>visPosSuper</strong> <strong>visPosSub</strong>                                                                                                                                                                                                                              | 0 1 2               |
+| <strong>visCharacterSize</strong>         | 7          | An integer that represents point size.                                                                                                                                                                                                                                                                             | N/A                 |
+| <strong>visCharacterColorTrans</strong>   | 17         | An integer from 0 to 100 that corresponds to the degree of transparency of the text color, as a percentage.                                                                                                                                                                                                        | N/A                 |
+| <strong>visCharacterDblUnderline</strong> | 8          | <strong>Boolean</strong>                                                                                                                                                                                                                                                                                           | N/A                 |
+| <strong>visCharacterFontScale</strong>    | 5          | An integer from 0 to 655 that represents the width of the text font, as a percentage, relative to the default (100%).                                                                                                                                                                                              | N/A                 |
+| <strong>visCharacterLangID</strong>       | 57         | A  <strong>Long</strong> that represents the language the text is in. The language ID (LANGID) for a character is a 16-bit value defined by Windows, consisting of a primary language ID and a secondary language ID. To determine the value for particular languages, see the Platform SDK documentation on MSDN. | N/A                 |
+| <strong>visCharacterLetterspace</strong>  | 16         | An integer that represents additional space between adjacent letters, in points.                                                                                                                                                                                                                                   | N/A                 |
+| <strong>visCharacterOverline</strong>     | 9          | <strong>Boolean</strong>                                                                                                                                                                                                                                                                                           | N/A                 |
+| <strong>visCharacterStrikethru</strong>   | 10         | <strong>Boolean</strong>                                                                                                                                                                                                                                                                                           | N/A                 |
+
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.set_CharProps**
-    
+
 

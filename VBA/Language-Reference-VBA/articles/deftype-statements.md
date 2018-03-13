@@ -36,22 +36,23 @@ The  _letter1_ and _letter2_ arguments specify the name range for which you can 
 The statement name determines the data type:
 
 
-|**Statement**|**Data Type**|
-|:-----|:-----|
-|**DefBool**|[Boolean](vbe-glossary.md)|
-|**DefByte**|[Byte](vbe-glossary.md)|
-|**DefInt**|[Integer](vbe-glossary.md)|
-|**DefLng**|[Long](vbe-glossary.md)|
-|**DefLngLng**|[LongLong](longlong-data-type.md) (Valid on 64-bit platforms only.)|
-|**DefLngPtr**|[LongPtr](longptr-data-type.md)|
-|**DefCur**|[Currency](vbe-glossary.md)|
-|**DefSng**|[Single](vbe-glossary.md)|
-|**DefDbl**|[Double](vbe-glossary.md)|
-|**DefDec**|[Decimal](vbe-glossary.md) (not currently supported)|
-|**DefDate**|[Date](vbe-glossary.md)|
-|**DefStr**|[String](vbe-glossary.md)|
-|**DefObj**|[Object](vbe-glossary.md)|
-|**DefVar**|[Variant](vbe-glossary.md)|
+| <strong>Statement</strong> | <strong>Data Type</strong>                                          |
+|:---------------------------|:--------------------------------------------------------------------|
+| <strong>DefBool</strong>   | [Boolean](vbe-glossary.md)                                          |
+| <strong>DefByte</strong>   | [Byte](vbe-glossary.md)                                             |
+| <strong>DefInt</strong>    | [Integer](vbe-glossary.md)                                          |
+| <strong>DefLng</strong>    | [Long](vbe-glossary.md)                                             |
+| <strong>DefLngLng</strong> | [LongLong](longlong-data-type.md) (Valid on 64-bit platforms only.) |
+| <strong>DefLngPtr</strong> | [LongPtr](longptr-data-type.md)                                     |
+| <strong>DefCur</strong>    | [Currency](vbe-glossary.md)                                         |
+| <strong>DefSng</strong>    | [Single](vbe-glossary.md)                                           |
+| <strong>DefDbl</strong>    | [Double](vbe-glossary.md)                                           |
+| <strong>DefDec</strong>    | [Decimal](vbe-glossary.md) (not currently supported)                |
+| <strong>DefDate</strong>   | [Date](vbe-glossary.md)                                             |
+| <strong>DefStr</strong>    | [String](vbe-glossary.md)                                           |
+| <strong>DefObj</strong>    | [Object](vbe-glossary.md)                                           |
+| <strong>DefVar</strong>    | [Variant](vbe-glossary.md)                                          |
+
 For example, in the following program fragment, is a string variable:
 A  **Def**_type_ statement affects only the[module](vbe-glossary.md) where it is used. For example, a **DefInt** statement in one module affects only the default data type of variables, arguments passed to procedures, and the return type for **Function** and **Property** **Get** procedures declared in that module; the default data type of variables, arguments, and return types in other modules is unaffected. If not explicitly declared with a **Def**_type_ statement, the default data type for all variables, all arguments, all **Function** procedures, and all **Property** **Get** procedures is **Variant**.
 When you specify a letter range, it usually defines the data type for variables that begin with letters in the first 128 characters of the character set. However, when you specify the letter range A-Z, you set the default to the specified data type for all variables, including variables that begin with international characters from the extended part of the character set (128-255).

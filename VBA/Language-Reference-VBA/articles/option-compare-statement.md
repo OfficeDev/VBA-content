@@ -26,7 +26,6 @@ The  **Option Compare** statement specifies the[string comparison](vbe-glossary.
 
 ```
 A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø 
-
 ```
 
  **Option Compare Text** results in string comparisons based on a case-insensitive text sort order determined by your system's[locale](vbe-glossary.md). When the same characters are sorted using  **Option Compare Text**, the following text sort order is produced:
@@ -35,7 +34,6 @@ A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø
 
 ```
 (A=a) < ( À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø) 
-
 ```
 
  **Option** **Compare** **Database** can only be used within Microsoft Access. This results in string comparisons based on the sort order determined by the locale ID of the database where the string comparisons occur.
@@ -50,7 +48,6 @@ This example uses the  **Option Compare** statement to set the default string co
 Option Compare Binary ' That is, "AAA" is less than "aaa". 
 ' Set the string comparison method to Text. 
 Option Compare Text ' That is, "AAA" is equal to "aaa". 
-
 ```
 
 

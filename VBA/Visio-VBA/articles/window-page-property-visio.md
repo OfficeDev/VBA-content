@@ -44,13 +44,12 @@ Beginning with Visio 5.0b, the  **Page** property no longer returns an exception
 Set vsoWindow = Windows(intCounter) 
 On Error Resume Next 
 Set vsoPage = vsoWindow.Page 
- 
+
 On Error GoTo 0 
- 
+
 If Not vsoPage Is Nothing Then 
  vsoWindow.Close 
 End If 
-
 ```
 
 

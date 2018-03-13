@@ -40,6 +40,7 @@ _expression_ A variable that represents a **[Chart](chart-object-powerpoint.md)*
 
 <br/>
 
+
 ## Remarks
 
 If the Source parameter is omitted, and the selection is not a chart on the active document, this method fails and an error occurs.

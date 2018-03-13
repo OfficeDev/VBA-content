@@ -15,7 +15,7 @@ Occurs when a keyboard key is released.
 
 ## Syntax
 
-Private Sub  _expression_ _**KeyUp**( **_ByVal KeyCode As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal CancelDefault As Boolean_** )
+Private Sub  <em>expression</em> <em><strong>KeyUp</strong>( **_ByVal KeyCode As Long</em>** , <strong><em>ByVal KeyButtonState As Long</em></strong> , <strong><em>ByVal CancelDefault As Boolean</em></strong> )
 
  _expression_ A variable that represents an **Application** object.
 
@@ -38,13 +38,14 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 
 
 
-|**Constant **|**Value **|
-|:-----|:-----|
-| **visKeyControl **|8|
-| **visKeyShift **|4|
-| **visMouseLeft **|1|
-| **visMouseMiddle **|16|
-| **visMouseRight **|2|
+| **Constant **       | **Value ** |
+|:--------------------|:-----------|
+| **visKeyControl **  | 8          |
+| **visKeyShift **    | 4          |
+| **visMouseLeft **   | 1          |
+| **visMouseMiddle ** | 16         |
+| **visMouseRight **  | 2          |
+
 If you set  _CancelDefault_ to **True** , Visio will not process the message received when the mouse button is clicked.
 
 Unlike some other Visio events,  **KeyUp** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **KeyUp** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
@@ -65,37 +66,37 @@ To run this example, insert a new class module in your VBA project, name it  **K
 
 ```vb
 Dim WithEvents vsoWindow As Visio.Window 
- 
+
 Private Sub Class_Initialize() 
- 
+
  Set vsoWindow = ActiveWindow 
- 
+
 End Sub 
- 
+
 Private Sub Class_Terminate() 
- 
+
  Set vsoWindow = Nothing 
- 
+
 End Sub 
- 
+
 Private Sub vsoWindow_KeyDown(ByVal KeyCode As Long, ByVal KeyButtonState As Long, CancelDefault As Boolean) 
- 
+
  Debug.Print "KeyCode is "; KeyCode 
  Debug.Print "KeyButtonState is" ; KeyButtonState 
- 
+
 End Sub 
- 
+
 Private Sub vsoWindow_KeyPress(ByVal KeyAscii As Long, CancelDefault As Boolean) 
- 
+
  Debug.Print "KeyAscii value is "; KeyAscii 
- 
+
 End Sub 
- 
+
 Private Sub vsoWindow_KeyUp(ByVal KeyCode As Long, ByVal KeyButtonState As Long, CancelDefault As Boolean) 
- 
+
  Debug.Print "KeyCode is "; KeyCode 
  Debug.Print "KeyButtonState is" ; KeyButtonState 
- 
+
 End Sub
 ```
 
@@ -106,17 +107,17 @@ Then, insert the following code in the  **ThisDocument** project.
 
 ```vb
 Dim myKeyboardListener As KeyboardListener 
- 
+
 Private Sub Document_DocumentSaved(ByVal doc As IVDocument) 
- 
+
  Set myKeyboardListener = New KeyboardListener 
- 
+
 End Sub 
- 
+
 Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument) 
- 
+
  Set myKeyboardListener = Nothing 
- 
+
 End Sub
 ```
 

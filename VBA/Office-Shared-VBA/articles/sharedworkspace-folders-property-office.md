@@ -44,7 +44,6 @@ The following example lists the subfolders in the current shared workspace.
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsFolders = Nothing 
-
 ```
 
 

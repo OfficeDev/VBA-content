@@ -19,12 +19,13 @@ Returns or sets the list entries of a  **ListBox** or **ComboBox**.
 The  **List** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _row_|Required. An integer with a range from 0 to one less than the number of entries in the list.|
-| _column_|Required. An integer with a range from 0 to one less than the number of columns.|
-| _Variant_|Optional. The contents of the specified entry in the  **ListBox** or **ComboBox**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                 |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                                    |
+| <em>row</em>          | Required. An integer with a range from 0 to one less than the number of entries in the list.                 |
+| <em>column</em>       | Required. An integer with a range from 0 to one less than the number of columns.                             |
+| <em>Variant</em>      | Optional. The contents of the specified entry in the  <strong>ListBox</strong> or <strong>ComboBox</strong>. |
+
  **Settings**
 Row and column numbering begins with zero. That is, the row number of the first row in the list is zero; the column number of the first column is zero. The number of the second row or column is 1, and so on.
  **Remarks**

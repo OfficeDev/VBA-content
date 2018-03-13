@@ -16,24 +16,26 @@ During remote access (that is, when accessing an object that is part of another 
 
 
 - You lost your connection to the remote process's [object library](vbe-glossary.md) or[type library](vbe-glossary.md).
-    
-    To reconnect, follow these steps:
-    
-    
-    
-      1. Restart the  **Application** object.
-    
-  2. In the error dialog box through which you entered this Help topic, click  **OK** to display the **References** dialog box.
-    
-  3. The lost reference appears with the word MISSING to its left.
-    
-  4. Remove the lost reference.
-    
-  5. In the  **References** dialog box, click the check box for the object you started in step 1.
-    
 
-    
-    
+    To reconnect, follow these steps:
+
+
+
+~~~
+  1. Restart the  **Application** object.
+~~~
+
+  2. In the error dialog box through which you entered this Help topic, click  **OK** to display the **References** dialog box.
+
+  3. The lost reference appears with the word MISSING to its left.
+
+  4. Remove the lost reference.
+
+  5. In the  **References** dialog box, click the check box for the object you started in step 1.
+
+
+
+
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

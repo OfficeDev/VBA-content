@@ -37,6 +37,7 @@ ms.date: 06/08/2017
 
 <br/>
 
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|
@@ -55,6 +56,7 @@ ms.date: 06/08/2017
 
 <br/>
 
+
 ### Return value
 
  **Variant**
@@ -66,13 +68,13 @@ The following example determines whether value of Duration is equal to 1 and dis
 
 ```vb
 Sub Check_Field() 
- 
+
  Dim T As Task 
  Dim Result As Boolean 
- 
+
  Set T = ActiveProject.Tasks(3) 
  Result = CheckField("Duration", "1", "equals") 
- 
+
  If Result Then 
  Result = MsgBox(T.GetField(pjTaskName) + " task Duration is equal to value specified.", vbOKOnly, "CheckField Method") 
  Else 

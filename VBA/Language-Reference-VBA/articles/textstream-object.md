@@ -31,7 +31,6 @@ Set fs = CreateObject("Scripting.FileSystemObject")
 Set a = fs.CreateTextFile("c:\testfile.txt", True)
 a.WriteLine("This is a test.")
 a.Close
-
 ```
 
 

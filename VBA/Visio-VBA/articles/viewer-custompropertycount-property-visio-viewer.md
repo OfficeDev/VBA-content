@@ -49,8 +49,6 @@ Dim intShapeData As Integer
 intShapeData = vsoViewer.CustomPropertyCount(1)
 
 Debug.Print intShapeData
-
-
 ```
 
 

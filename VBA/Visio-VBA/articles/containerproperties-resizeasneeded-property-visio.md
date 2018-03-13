@@ -34,11 +34,12 @@ The value of the  **ResizeAsNeeded** property can be one of the following **VisC
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visContainerAutoResizeNone**|0|Do not automatically resize container.|
-| **visContainerAutoResizeExpand**|1|Automatically expand the container size, but do not contract.|
-| **visContainerAutoResizeExpandContract**|2|Automatically expand and contract the container size.|
+| <strong>Constant</strong>                             | <strong>Value</strong> | <strong>Description</strong>                                  |
+|:------------------------------------------------------|:-----------------------|:--------------------------------------------------------------|
+| <strong>visContainerAutoResizeNone</strong>           | 0                      | Do not automatically resize container.                        |
+| <strong>visContainerAutoResizeExpand</strong>         | 1                      | Automatically expand the container size, but do not contract. |
+| <strong>visContainerAutoResizeExpandContract</strong> | 2                      | Automatically expand and contract the container size.         |
+
 The setting of the  **ResizeAsNeeded** property corresponds to the selection in the **Automatic Resize** drop-down list in the **Size** group on the **Container Tools Format** tab.
 
 

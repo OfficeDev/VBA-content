@@ -46,11 +46,11 @@ The number of elements in  _Commands()_ is a multiple of 3:
 
 
 - The first element contains the beginning command ID of the range (any member of  **VisUICmds** ).
-    
+
 - The second element contains the end command ID of the range (any member of  **VisUICmds** ).
-    
+
 - The third element contains a  **True** or **False** value, which indicates whether you are listening to events for that command range ( **True** to listen to events; **False** to exclude events).
-    
+
 
 
 For an event to successfully pass through a command filter, it must satisfy the following criteria:
@@ -59,13 +59,13 @@ For an event to successfully pass through a command filter, it must satisfy the 
 
 
 - It must have a valid command ID.
-    
+
 - If all filters are  **True** , the event must match at least one filter.
-    
+
 - If all filters are  **False** , the event must not match any filter.
-    
+
 - If the filters are a mixture of  **True** and **False** , the event must match at least one **True** filter and not match any **False** filters.
-    
+
 
 
 If there are no  **True** ranges in the array, events are considered **True** .
@@ -76,14 +76,13 @@ For example, to set up an array that blocks out a single command, use the follow
 
 
 ```vb
- 
+
     Dim aFilterCommands(1 To (1 * 3)) As Long  
- 
+
     'Ignore the layout command. 
     aFilterCommands(1) = visCmdLayoutDynamic  
     aFilterCommands(2) = visCmdLayoutDynamic  
     aFilterCommands(3) = False 
-
 ```
 
 Or, to set up an array that listens only to the  **Send to Back** command:
@@ -92,24 +91,23 @@ Or, to set up an array that listens only to the  **Send to Back** command:
 
 
 ```vb
- 
+
     Dim aFilterCommands(1 To (3 * 3)) As Long  
- 
+
     'Pay attention to the "Send to Back" command.  
     aFilterCommands(1) = visCmdObjectSendToBack  
     aFilterCommands(2) = visCmdObjectSendToBack  
     aFilterCommands(3) = True  
- 
+
     'Ignore any command IDs before the "Send to Back" command.  
     aFilterCommands(4) = visCmdFirst  
     aFilterCommands(5) = visCmdObjectSendToBack - 1  
     aFilterCommands(6) = False  
- 
+
     'Ignore any command IDs after the "Send to Back" command.  
     aFilterCommands(7) = visCmdObjectSendToBack + 1  
     aFilterCommands(8) = visCmdLast  
     aFilterCommands(9) = False 
-
 ```
 
 

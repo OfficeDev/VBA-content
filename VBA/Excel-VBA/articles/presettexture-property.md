@@ -18,31 +18,55 @@ Returns the preset texture for the specified fill. Read-only MsoPresetTexture .
 
 
 |MsoPresetTexture can be one of these MsoPresetTexture constants.|
-| **msoPresetTextureMixed**|
-| **msoTextureBouquet**|
-| **msoTextureCanvas**|
-| **msoTextureDenim**|
-| **msoTextureGranite**|
-| **msoTextureMediumWood**|
-| **msoTextureOak**|
-| **msoTexturePapyrus**|
-| **msoTexturePinkTissuePaper**|
-| **msoTextureRecycledPaper**|
-| **msoTextureStationery**|
-| **msoTextureWaterDroplets**|
-| **msoTextureWovenMat**|
-| **msoTextureBlueTissuePaper**|
-| **msoTextureBrownMarble**|
-| **msoTextureCork**|
-| **msoTextureFishFossil**|
-| **msoTextureGreenMarble**|
-| **msoTextureNewsprint**|
-| **msoTexturePaperBag**|
-| **msoTextureParchment**|
-| **msoTexturePurpleMesh**|
-| **msoTextureSand**|
-| **msoTextureWalnut**|
-| **msoTextureWhiteMarble**|
+| <strong>msoPresetTextureMixed</strong>|
+| 
+<strong>msoTextureBouquet</strong>|
+| 
+<strong>msoTextureCanvas</strong>|
+| 
+<strong>msoTextureDenim</strong>|
+| 
+<strong>msoTextureGranite</strong>|
+| 
+<strong>msoTextureMediumWood</strong>|
+| 
+<strong>msoTextureOak</strong>|
+| 
+<strong>msoTexturePapyrus</strong>|
+| 
+<strong>msoTexturePinkTissuePaper</strong>|
+| 
+<strong>msoTextureRecycledPaper</strong>|
+| 
+<strong>msoTextureStationery</strong>|
+| 
+<strong>msoTextureWaterDroplets</strong>|
+| 
+<strong>msoTextureWovenMat</strong>|
+| 
+<strong>msoTextureBlueTissuePaper</strong>|
+| 
+<strong>msoTextureBrownMarble</strong>|
+| 
+<strong>msoTextureCork</strong>|
+| 
+<strong>msoTextureFishFossil</strong>|
+| 
+<strong>msoTextureGreenMarble</strong>|
+| 
+<strong>msoTextureNewsprint</strong>|
+| 
+<strong>msoTexturePaperBag</strong>|
+| 
+<strong>msoTextureParchment</strong>|
+| 
+<strong>msoTexturePurpleMesh</strong>|
+| 
+<strong>msoTextureSand</strong>|
+| 
+<strong>msoTextureWalnut</strong>|
+| 
+<strong>msoTextureWhiteMarble</strong>|
 
  _expression_. **PresetTexture**
 

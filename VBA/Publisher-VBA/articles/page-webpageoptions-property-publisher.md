@@ -38,7 +38,6 @@ With ActiveDocument.Pages(4).WebPageOptions
  .Description = "Company Profile" 
  .BackgroundSound = "C:\CompanySounds\corporate_jingle.wav" 
 End With 
-
 ```
 
 

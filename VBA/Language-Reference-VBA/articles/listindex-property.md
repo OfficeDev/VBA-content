@@ -21,10 +21,11 @@ Identifies the currently selected item in a  **ListBox** or **ComboBox**.
 The  **ListIndex** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Variant_|Optional. The currently selected item in the control.|
+| <strong>Part</strong> | <strong>Description</strong>                          |
+|:----------------------|:------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                             |
+| <em>Variant</em>      | Optional. The currently selected item in the control. |
+
  **Remarks**
 The  **ListIndex** property contains an index of the selected row in a list. Values of **ListIndex** range from -1 to one less than the total number of rows in a list (that is, **ListCount** - 1). When no rows are selected, **ListIndex** returns -1. When the user selects a row in a **ListBox** or **ComboBox**, the system sets the **ListIndex** value. The **ListIndex** value of the first row in a list is 0, the value of the second row is 1, and so on.
 

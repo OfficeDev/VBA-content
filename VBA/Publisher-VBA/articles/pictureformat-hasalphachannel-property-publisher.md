@@ -52,7 +52,7 @@ With ActiveDocument.Pages(1).Shapes(1).PictureFormat
  If .HasAlphaChannel = msoTrue Then 
  Debug.Print .Filename 
  Debug.Print "This picture contains an alpha channel." 
- 
+
  If .IsLinked = msoTrue Then 
  If .OriginalHasAlphaChannel = msoTrue Then 
  Debug.Print "The linked picture " &; _ 
@@ -61,7 +61,6 @@ With ActiveDocument.Pages(1).Shapes(1).PictureFormat
  End If 
  End If 
 End With 
-
 ```
 
 

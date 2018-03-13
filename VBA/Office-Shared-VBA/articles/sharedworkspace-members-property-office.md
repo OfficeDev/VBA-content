@@ -39,7 +39,6 @@ Dim swsMembers As Office.SharedWorkspaceMembers
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsMembers = Nothing 
-
 ```
 
 

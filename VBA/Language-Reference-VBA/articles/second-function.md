@@ -27,8 +27,6 @@ This example uses the  **Second** function to obtain the second of the minute fr
 Dim MyTime, MySecond
 MyTime = #4:35:17 PM#    ' Assign a time.
 MySecond = Second(MyTime)    ' MySecond contains 17.
-
-
 ```
 
 

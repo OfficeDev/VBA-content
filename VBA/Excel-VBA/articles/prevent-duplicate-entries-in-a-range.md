@@ -19,15 +19,15 @@ Private Sub Workbook_SheetChange(ByVal Sh As Object, ByVal Target As Range)
 
     'Define your variables.
     Dim ws As Worksheet, EvalRange As Range
-    
+
     'Set the range where you want to prevent duplicate entries.
     Set EvalRange = Range("A1:B20")
-    
+
     'If the cell where value was entered is not in the defined range, if the value pasted is larger than a single cell,
     'or if no value was entered in the cell, then exit the macro.
     If Intersect(Target, EvalRange) Is Nothing Or Target.Cells.Count > 1 Then Exit Sub
     If IsEmpty(Target) Then Exit Sub
-    
+
     'If the value entered already exists in the defined range on the current worksheet, throw an
     'error message and undo the entry.
     If WorksheetFunction.CountIf(EvalRange, Target.Value) > 1 Then
@@ -36,7 +36,7 @@ Private Sub Workbook_SheetChange(ByVal Sh As Object, ByVal Target As Range)
         Application.Undo
         Application.EnableEvents = True
     End If
-    
+
     'Check the other worksheets in the workbook.
     For Each ws In Worksheets
         With ws
@@ -61,6 +61,7 @@ End Sub
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 

@@ -46,7 +46,6 @@ Application.DeferRecalc = True
 vsoShape.Cells("height").ResultIU = 12 
 vsoShape.Cells("width").ResultIU = 14 
 Application.DeferRecalc = blsDeferCalcOriginalValue 
-
 ```
 
 Because VBA makes and releases a temporary  **Cell** object in the preceding code, Visio will process its queue at that point.
@@ -65,7 +64,6 @@ Set vsoCell2 = vsoShape.Cells("Width")
 vsoCell1.ResultIU = 12 
 vsoCell2.ResultIU = 14 
 Application.DeferRecalc = blsDeferCalcOriginalValue 
-
 ```
 
 

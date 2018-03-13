@@ -53,13 +53,13 @@ You often use the BeforeUpdate event to validate data, especially when you perfo
 
 
 - Involve conditions for more than one value on a form.
-    
+
 - Display different error messages for different data entered.
-    
+
 - Can be overridden by the user.
-    
+
 - Contain references to controls on other forms or contain user-defined functions. 
-    
+
 
  **Note**  To perform simple validations, or more complex validations such as requiring a value in a field or validating more than one control on a form, you can use the  **ValidationRule** property for controls and the **ValidationRule** and **Required** properties for fields and records in tables.
 
@@ -70,7 +70,7 @@ A run-time error will occur if you attempt to modify the data contained in the c
 
 
 - [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
-    
+
 
 ## Example
 
@@ -97,11 +97,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

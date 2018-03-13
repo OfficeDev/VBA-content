@@ -40,8 +40,6 @@ With Application.ActiveWindow
     .FitToPage
 
 End With
-
-
 ```
 
 

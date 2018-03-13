@@ -32,7 +32,6 @@ Use the  **[Members](sharedworkspace-members-property-office.md)** property of t
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsMembers = Nothing 
-
 ```
 
 

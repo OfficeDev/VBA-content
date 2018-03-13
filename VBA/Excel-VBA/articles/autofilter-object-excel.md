@@ -31,9 +31,9 @@ Use the  **[AutoFilter](worksheet-autofilter-property-excel.md)** property to re
 Dim w As Worksheet 
 Dim filterArray() 
 Dim currentFiltRange As String 
- 
+
 Sub ChangeFilters() 
- 
+
 Set w = Worksheets("Crew") 
 With w.AutoFilter 
  currentFiltRange = .Range.Address 
@@ -52,10 +52,10 @@ With w.AutoFilter
  Next 
  End With 
 End With 
- 
+
 w.AutoFilterMode = False 
 w.Range("A1").AutoFilter field:=1, Criteria1:="S" 
- 
+
 End Sub
 ```
 
@@ -82,7 +82,6 @@ For col = 1 To UBound(filterArray(), 1)
  End If 
 Next 
 End Sub 
-
 ```
 
 

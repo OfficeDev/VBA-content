@@ -19,10 +19,11 @@ Descriptive text that appears on an object to identify or describe it.
 The  **Caption** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. A string expression that evaluates to the text displayed as the caption.|
+| <strong>Part</strong> | <strong>Description</strong>                                                       |
+|:----------------------|:-----------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                          |
+| <em>String</em>       | Optional. A string expression that evaluates to the text displayed as the caption. |
+
  **Settings**
 The default setting for a control is a unique name based on the type of control. For example, CommandButton1 is the default caption for the first command button in a form.
  **Remarks**

@@ -18,9 +18,11 @@ Returns or sets the minor unit scale value for the category axis when the Catego
 
 
 |XlTimeUnit can be one of these XlTimeUnit constants.|
-| **xlDays**|
-| **xlMonths**|
-| **xlYears**|
+| <strong>xlDays</strong>|
+| 
+<strong>xlMonths</strong>|
+| 
+<strong>xlYears</strong>|
 
  _expression_. **MinorUnitScale**
 

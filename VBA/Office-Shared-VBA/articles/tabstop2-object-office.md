@@ -27,7 +27,6 @@ The following example removes the first custom tab stop from the selected paragr
 Sub ClearTabStop() 
  Selection.TextRange.ParagraphFormat.Tabs(1).Clear 
 End Sub 
-
 ```
 
 

@@ -15,7 +15,7 @@ Occurs after a new style is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**StyleAdded**( **_ByVal style As [IVSTYLE]_** )
+Private Sub  <em>expression</em> <em><strong>StyleAdded</strong>( **_ByVal style As [IVSTYLE]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

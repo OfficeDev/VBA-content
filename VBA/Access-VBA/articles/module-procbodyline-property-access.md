@@ -38,25 +38,26 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**vbext_pk_Get**|A  **Property Get** procedure.|
-|**vbext_pk_Let**|A  **Property Let** procedure.|
-|**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
-|**vbext_pk_Set**|A  **Property Set** procedure.|
+| <strong>Constant</strong>      | <strong>Description</strong>                                    |
+|:-------------------------------|:----------------------------------------------------------------|
+| <strong>vbext_pk_Get</strong>  | A  <strong>Property Get</strong> procedure.                     |
+| <strong>vbext_pk_Let</strong>  | A  <strong>Property Let</strong> procedure.                     |
+| <strong>vbext_pk_Proc</strong> | A  <strong>Sub</strong> or <strong>Function</strong> procedure. |
+| <strong>vbext_pk_Set</strong>  | A  <strong>Property Set</strong> procedure.                     |
+
 The body of a procedure begins with the procedure definition, denoted by one of the following:
 
 
 - A  **Sub** statement.
-    
+
 - A  **Function** statement.
-    
+
 - A  **Property Get** statement.
-    
+
 - A  **Property Let** statement.
-    
+
 - A  **Property Set** statement.
-    
+
 The  **ProcBodyLine** property returns a number that identifies the line on which the procedure definition begins. In contrast, the **[ProcStartLine](module-procstartline-property-access.md)** property returns a number that identifies the line at which a procedure is separated from the preceding procedure in a module. Any comments or compilation constants that precede the procedure definition (the body of a procedure) are considered part of the procedure, but the **ProcBodyLine** property ignores them.
 
 
@@ -71,10 +72,10 @@ The following example displays a message indicating on which line the procedure 
 ```vb
 Dim strForm As String 
 Dim strProc As String 
- 
+
 strForm = "Products" 
 strProc = "Products_Subform_Enter" 
- 
+
 MsgBox "The definition of the " &; strProc &; " procedure begins on line " &; _ 
  Forms(strForm).Module.ProcStartLine(strProc, vbext_pk_Proc) &; "."
 ```

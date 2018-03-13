@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TopValues Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -31,6 +31,7 @@ You can use the  **TopValues** property to return a specified number of records 
 ## Setting
 <a name="sectionSection0"> </a>
 
+
 The  **TopValues** property setting is an Integer value that represents the exact number of values to return or a number followed by a percent sign (%) that represents the percent of records to return. For example, to return the top 10 values, set the **TopValues** property to 10; to return the top 10 percent of values, set the **TopValues** property to 10%.
 
 You cannot set this property in code directly. It is set in SQL view of the Query window by using a TOP n or TOP n PERCENT clause in the SQL statement.
@@ -44,20 +45,22 @@ You can also set the  **TopValues** property by using the query property sheet o
 ## Remarks
 <a name="sectionSection1"> </a>
 
+
 Typically, you use the  **TopValues** property setting together with sorted fields. The field you want to display top values for should be the leftmost field that has the Sort box selected in the query design grid. An ascending sort returns the bottom-most records, and a descending sort returns the topmost records. If you specify that a specific number of records be returned, all records with values that match the value in the last record are also returned.
 
 For example, suppose a set of employees has the following sales totals.
 
 
 
-|**Sales**|**Salesperson**|
-|:-----|:-----|
-|90,000|Leverling|
-|80,000|Peacock|
-|70,000|Davilio|
-|70,000|King|
-|60,000|Suyama|
-|50,000|Buchanan|
+| <strong>Sales</strong> | <strong>Salesperson</strong> |
+|:-----------------------|:-----------------------------|
+| 90,000                 | Leverling                    |
+| 80,000                 | Peacock                      |
+| 70,000                 | Davilio                      |
+| 70,000                 | King                         |
+| 60,000                 | Suyama                       |
+| 50,000                 | Buchanan                     |
+
 If you set the  **TopValues** property to 3 with a descending sort on the Sales field, Microsoft Access returns the following four records.
 
 
@@ -75,6 +78,7 @@ If you set the  **TopValues** property to 3 with a descending sort on the Sales 
 ## Example
 <a name="sectionSection2"> </a>
 
+
 The following code example assigns an SQL string that returns the top 10 most expensive products to the  **RecordSource** property for a form that will display the ten most expensive products.
 
 
@@ -84,7 +88,6 @@ strGetSQL = "SELECT TOP 10 Products.[ProductName] " _
     &; "AS TenMostExpensiveProducts, Products.UnitPrice FROM Products " _ 
     &; "ORDER BY Products.[UnitPrice] DESC;" 
 Me.RecordSource = strGetSQL  
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

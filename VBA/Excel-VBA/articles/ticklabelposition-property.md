@@ -18,10 +18,13 @@ Describes the position of tick-mark labels on the specified axis. Read/write XlT
 
 
 |XlTickLabelPosition can be one of these XlTickLabelPosition constants.|
-| **xlTickLabelPositionHigh**|
-| **xlTickLabelPositionLow**|
-| **xlTickLabelPositionNextToAxis**|
-| **xlTickLabelPositionNone**|
+| <strong>xlTickLabelPositionHigh</strong>|
+| 
+<strong>xlTickLabelPositionLow</strong>|
+| 
+<strong>xlTickLabelPositionNextToAxis</strong>|
+| 
+<strong>xlTickLabelPositionNone</strong>|
 
  _expression_. **TickLabelPosition**
 

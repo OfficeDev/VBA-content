@@ -48,8 +48,6 @@ The following example returns a list of shared workspace files whose date and ti
  MsgBox "Files older than today: " &amp; vbCrLf &amp; strOlderFiles, _ 
  vbInformation + vbOKOnly, "Older Files" 
  Set swsFile = Nothing 
- 
-
 ```
 
 

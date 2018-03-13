@@ -42,17 +42,15 @@ This example tests to see if the list type is a numbered list, specifically  **p
 
 ```vb
 Dim objParaForm As ParagraphFormat 
- 
+
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
 .TextFrame.TextRange.ParagraphFormat 
- 
+
 With objParaForm 
  If .ListType = pbListTypeArabic Then 
  .ListNumberSeparator = pbListSeparatorParenthesis 
  End If 
 End With 
- 
-
 ```
 
 

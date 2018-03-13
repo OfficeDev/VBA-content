@@ -37,10 +37,11 @@ The  **Selected** property is a zero-based array that contains the selected stat
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|The list box item is selected.|
-|**False**|The list box item isn't selected.|
+| <strong>Setting</strong> | <strong>Description</strong>      |
+|:-------------------------|:----------------------------------|
+| <strong>True</strong>    | The list box item is selected.    |
+| <strong>False</strong>   | The list box item isn't selected. |
+
 This property is available only at run time.
 
 When a list box control's  **MultiSelect** property is set to None, only one item can have its **Selected** property set to **True**. When a list box control's **MultiSelect** property is set to Simple or Extended, any or all of the items can have their **Selected** property set to **True**. A multiple-selection list box bound to a field will always have a **Value** property equal to **Null**. You use the **Selected** property or the **ItemsSelected** collection to retrieve information about which items are selected.
@@ -64,31 +65,31 @@ The following example uses the  **Selected** property to move selected items in 
 Private Sub cmdCopyItem_Click() 
  CopySelected Me 
 End Sub 
- 
+
 Public Sub CopySelected(ByRef frm As Form) 
- 
+
  Dim ctlSource As Control 
  Dim ctlDest As Control 
  Dim strItems As String 
  Dim intCurrentRow As Integer 
- 
+
  Set ctlSource = frm!lstSource 
  Set ctlDest = frm!lstDestination 
- 
+
  For intCurrentRow = 0 To ctlSource.ListCount - 1 
  If ctlSource.Selected(intCurrentRow) Then 
  strItems = strItems &; ctlSource.Column(0, _ 
  intCurrentRow) &; ";" 
  End If 
  Next intCurrentRow 
- 
+
  ' Reset destination control's RowSource property. 
  ctlDest.RowSource = "" 
  ctlDest.RowSource = strItems 
- 
+
  Set ctlSource = Nothing 
  Set ctlDest = Nothing 
- 
+
 End Sub
 ```
 

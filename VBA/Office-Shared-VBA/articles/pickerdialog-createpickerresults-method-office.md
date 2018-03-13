@@ -41,15 +41,14 @@ The following code sets various properties of the Picker Dialog and adds the alr
 ```
 Dim objPickerDialog As PickerDialog 
 Dim objPickerExistingResults As PickerResults 
- 
+
 Set objPickerDialog = Application.PickerDialog 
 objPickerDialog.DataHandlerId = "{000CDF0A-0000-0000-C000-000000000046}" 
 objPickerDialog.Title = "Sample Picker Dialog" 
- 
+
 Set objPickerExistingResults = objPickerDialog.CreatePickerResults 
 Set objPickerExistingResult = objPickerExistingResults.Add("johndoe@contoso.com", "John Doe", "User") 
 Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult) 
-
 ```
 
 

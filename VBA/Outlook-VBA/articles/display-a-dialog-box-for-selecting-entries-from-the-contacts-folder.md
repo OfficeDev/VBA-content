@@ -12,7 +12,7 @@ This topic describes how to use the  **[SelectNamesDialog](selectnamesdialog-obj
 
 
 
-1. Look for the address list that corresponds with the Contacts folder.The  **SelectNamesDialog** object displays entires in a dialog box based on an **[AddressList](addresslist-object-outlook.md)**. To display entries in the Contacts folder, look for the  **AddressList** that corresponds with the Contacts folder. Iterate through all the address lists defined for the current session, and for each address list, use **[AddressList.GetContactsFolder](addresslist-getcontactsfolder-method-outlook.md)**to match the corresponding folder with the Contacts folder. 
+1. Look for the address list that corresponds with the Contacts folder.The  <strong>SelectNamesDialog</strong> object displays entires in a dialog box based on an <strong><a href="addresslist-object-outlook.md" data-raw-source="[AddressList](addresslist-object-outlook.md)">AddressList</a></strong>. To display entries in the Contacts folder, look for the  <strong>AddressList</strong> that corresponds with the Contacts folder. Iterate through all the address lists defined for the current session, and for each address list, use <strong><a href="addresslist-getcontactsfolder-method-outlook.md" data-raw-source="[AddressList.GetContactsFolder](addresslist-getcontactsfolder-method-outlook.md)">AddressList.GetContactsFolder</a></strong>to match the corresponding folder with the Contacts folder. 
     
 2. Initialize the dialog box with the address list of the Contacts folder.
     

@@ -12,7 +12,7 @@ This topic shows a code sample that uses a DAV Searching and Locating (DASL) que
 
 When filtering an empty string with a DASL query, you can use the  **Is Null** keyword. **Is Null** operations are useful to determine if a string property is empty or if a date property has been set. For more information, see [Filtering Items Using Query Keywords](filtering-items-using-query-keywords.md).
 
-The code sample sets up a DASL filter on the  **Categories** property, which in the DASL query is expressed in the Office namespace as **urn:schemas-microsoft-com:office:office#Keywords**. The filter compares the value of the  **Categories** property with an emptry string using the **Is Null** keyword. The code sample then applies the filer to items in the current folder. It then prints the number of items in the current folder that have been found to have no categories.
+The code sample sets up a DASL filter on the  <strong>Categories</strong> property, which in the DASL query is expressed in the Office namespace as <strong>urn:schemas-microsoft-com<span class="emoji" shortCode="office">🏢</span>office#Keywords</strong>. The filter compares the value of the  <strong>Categories</strong> property with an emptry string using the <strong>Is Null</strong> keyword. The code sample then applies the filer to items in the current folder. It then prints the number of items in the current folder that have been found to have no categories.
 
 
 

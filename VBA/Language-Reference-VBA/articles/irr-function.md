@@ -19,10 +19,11 @@ Returns a [Double](vbe-glossary.md) specifying the internal rate of return for a
 The  **IRR** function has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_values_ ()**|Required. [Array](vbe-glossary.md) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
-|**_guess_**|Optional. [Variant](vbe-glossary.md) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|
+| <strong>Part</strong>               | <strong>Description</strong>                                                                                                                                                                  |
+|:------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>values</em> ()</strong> | Required. [Array](vbe-glossary.md) of <strong>Double</strong> specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt). |
+| <strong><em>guess</em></strong>     | Optional. [Variant](vbe-glossary.md) specifying value you estimate will be returned by <strong>IRR</strong>. If omitted, <strong><em>guess</em></strong> is 0.1 (10 percent).                 |
+
  **Remarks**
 The internal rate of return is the interest rate received for an investment consisting of payments and receipts that occur at regular intervals.
 The  **IRR** function uses the order of values within the array to interpret the order of payments and receipts. Be sure to enter your payment and receipt values in the correct sequence. The cash flow for each period doesn't have to be fixed, as it is for an annuity.
@@ -46,8 +47,6 @@ RetRate = IRR(Values(), Guess) * 100    ' Calculate internal rate.
 Msg = "The internal rate of return for these five cash flows is "
 Msg = Msg &; Format(RetRate, Fmt) &; " percent."
 MsgBox Msg    ' Display internal return rate.
-
-
 ```
 
 

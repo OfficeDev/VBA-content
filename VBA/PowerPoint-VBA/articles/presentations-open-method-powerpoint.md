@@ -47,18 +47,20 @@ The ReadOnly parameter value can be one of these  **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The default. Opens the file with read/write status.|
-|**msoTrue**| Opens the file with read-only status.|
+| <strong>Constant</strong> | <strong>Description</strong>                        |
+|:--------------------------|:----------------------------------------------------|
+| <strong>msoFalse</strong> | The default. Opens the file with read/write status. |
+| <strong>msoTrue</strong>  | Opens the file with read-only status.               |
+
 The  _Untitled_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The default. The file name automatically becomes the title of the opened presentation.|
-|**msoTrue**|Opens the file without a title. This is equivalent to creating a copy of the file.|
+| <strong>Constant</strong> | <strong>Description</strong>                                                           |
+|:--------------------------|:---------------------------------------------------------------------------------------|
+| <strong>msoFalse</strong> | The default. The file name automatically becomes the title of the opened presentation. |
+| <strong>msoTrue</strong>  | Opens the file without a title. This is equivalent to creating a copy of the file.     |
+
 The  _WithWindow_ parameter value can be one of these **MsoTriState** constants.
 
 

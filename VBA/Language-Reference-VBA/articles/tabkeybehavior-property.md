@@ -21,18 +21,20 @@ Determines whether tabs are allowed in the edit region.
 The  **TabKeyBehavior** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. The effect of pressing TAB.|
+| <strong>Part</strong> | <strong>Description</strong>          |
+|:----------------------|:--------------------------------------|
+| <em>object</em>       | Required. A valid object.             |
+| <em>Boolean</em>      | Optional. The effect of pressing TAB. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Pressing TAB inserts a tab character in the edit region.|
-|**False**|Pressing TAB moves the focus to the next object in the tab order (default).|
+| <strong>Value</strong> | <strong>Description</strong>                                                |
+|:-----------------------|:----------------------------------------------------------------------------|
+| <strong>True</strong>  | Pressing TAB inserts a tab character in the edit region.                    |
+| <strong>False</strong> | Pressing TAB moves the focus to the next object in the tab order (default). |
+
  **Remarks**
 The  **TabKeyBehavior** and **MultiLine** properties are closely related. The values described above only apply if **MultiLine** is **True**. If **MultiLine** is **False**, pressing TAB always moves the[focus](vbe-glossary.md) to the next control in the[tab order](vbe-glossary.md) regardless of the value of **TabKeyBehavior**.
 The effect of pressing CTRL+TAB also depends on the value of  **MultiLine**. If **MultiLine** is **True**, pressing CTRL+TAB creates a new line regardless of the value of **TabKeyBehavior**. If **MultiLine** is **False**, pressing CTRL+TAB has no effect.

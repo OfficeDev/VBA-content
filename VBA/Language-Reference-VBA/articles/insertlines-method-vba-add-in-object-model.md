@@ -19,11 +19,12 @@ Inserts a line or lines of code at a specified location in a block of code.
 The  **InsertLines** syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _line_|Required. A [Long](vbe-glossary.md) specifying the location at which you want to insert the code.|
-| _code_|Required. A [String](vbe-glossary.md) containing the code you want to insert.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                          |
+|:----------------------|:------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list. |
+| <em>line</em>         | Required. A [Long](vbe-glossary.md) specifying the location at which you want to insert the code.     |
+| <em>code</em>         | Required. A [String](vbe-glossary.md) containing the code you want to insert.                         |
+
  **Remarks**
 If the text you insert using the  **InsertLines** method is carriage return-linefeed delimited, it will be inserted as consecutive lines.
 

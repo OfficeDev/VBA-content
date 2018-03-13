@@ -35,13 +35,19 @@ The value of the  **Type** property can be one of these **MsoFillType** constant
 
 ||
 |:-----|
-|**msoFillBackground**|
-|**msoFillGradient**|
-|**msoFillMixed**|
-|**msoFillPatterned**|
-|**msoFillPicture**|
-|**msoFillSolid**|
-|**msoFillTextured**|
+|<strong>msoFillBackground</strong>|
+|
+<strong>msoFillGradient</strong>|
+|
+<strong>msoFillMixed</strong>|
+|
+<strong>msoFillPatterned</strong>|
+|
+<strong>msoFillPicture</strong>|
+|
+<strong>msoFillSolid</strong>|
+|
+<strong>msoFillTextured</strong>|
 
 ## See also
 

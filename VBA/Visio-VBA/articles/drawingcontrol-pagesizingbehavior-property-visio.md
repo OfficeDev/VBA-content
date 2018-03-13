@@ -34,10 +34,11 @@ Possible values for  **PageSizingBehavior** are declared in the Visio type libra
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visNeverResizePages**|0|Does not automatically resize pages under any circumstances. The default.|
-| **visResizePages**|1|Automatically resizes all pages when the Visio Drawing Control is resized or when a new document is loaded into it. Leaves shapes unchanged.|
+| <strong>Constant</strong>            | <strong>Value</strong> | <strong>Description</strong>                                                                                                                 |
+|:-------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>visNeverResizePages</strong> | 0                      | Does not automatically resize pages under any circumstances. The default.                                                                    |
+| <strong>visResizePages</strong>      | 1                      | Automatically resizes all pages when the Visio Drawing Control is resized or when a new document is loaded into it. Leaves shapes unchanged. |
+
 You can set the  **PageSizingBehavior** property either at design time (for example, in the **Properties** window in Microsoft Visual Basic 6.0), or at run time, typically in the **Form_Load()** procedure. It is recommended that you set **PageSizingBehavior** at design time.
 
 If  **PageSizingBehavior** is set to **visResizePages** , when a new document is loaded into the Visio Drawing Control, the pages of that document are resized to match the size of the control itself. However, the shapes on those pages neither change size nor move; they retain their existing sizes and their locations relative to the coordinate system of the Visio page, which has its origin in the bottom left corner of the page.

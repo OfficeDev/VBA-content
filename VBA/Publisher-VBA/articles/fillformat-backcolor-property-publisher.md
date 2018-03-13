@@ -57,7 +57,6 @@ With ActiveDocument.Pages(1).Shapes.AddLine _
  .BackColor.RGB = RGB(128, 0, 0) 
  .Pattern = msoPatternDarkDownwardDiagonal 
 End With 
-
 ```
 
 

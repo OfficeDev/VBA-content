@@ -30,10 +30,13 @@ The value of the  **VerticalAnchor** property can be one of these **MsoVerticalA
 
 ||
 |:-----|
-|**msoAnchorBottom**|
-|**msoAnchorMiddle**|
-|**msoAnchorTop**|
-|**msoVerticalAnchorMixed**|
+|<strong>msoAnchorBottom</strong>|
+|
+<strong>msoAnchorMiddle</strong>|
+|
+<strong>msoAnchorTop</strong>|
+|
+<strong>msoVerticalAnchorMixed</strong>|
 
 ## Example
 
@@ -53,7 +56,7 @@ Public Sub VerticalAnchor_Example()
 
     End With
 
-    
+
 
 End Sub
 ```

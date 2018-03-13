@@ -40,7 +40,6 @@ With ActivePresentation.Slides(1).Shapes(1)
  txb.BoundLeft, txb.BoundTop, txb.BoundWidth, txb.BoundHeight) 
  roundRect.Fill.Transparency = 0.25 
 End With 
-
 ```
 
 

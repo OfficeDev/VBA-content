@@ -37,14 +37,15 @@ The following table shows the compatibility of several browsers with various gra
 
 
 
-|**Format type**|**Microsoft Internet Explorer 6 or later**|**Microsoft Internet Explorer 5 or earlier**|**Firefox 3 or later**|
-|:-----|:-----|:-----|:-----|
-|XAML|Yes with plug-in|No|Yes with plug-in|
-|VML|Yes|Varies|No|
-|SVG|Yes with plug-in|Yes with plug-in|Partial|
-|PNG|Yes|Yes|Yes|
-|GIF|Yes|Yes|Yes|
-|JPEG|Yes|Yes|Yes|
+| <strong>Format type</strong> | <strong>Microsoft Internet Explorer 6 or later</strong> | <strong>Microsoft Internet Explorer 5 or earlier</strong> | <strong>Firefox 3 or later</strong> |
+|:-----------------------------|:--------------------------------------------------------|:----------------------------------------------------------|:------------------------------------|
+| XAML                         | Yes with plug-in                                        | No                                                        | Yes with plug-in                    |
+| VML                          | Yes                                                     | Varies                                                    | No                                  |
+| SVG                          | Yes with plug-in                                        | Yes with plug-in                                          | Partial                             |
+| PNG                          | Yes                                                     | Yes                                                       | Yes                                 |
+| GIF                          | Yes                                                     | Yes                                                       | Yes                                 |
+| JPEG                         | Yes                                                     | Yes                                                       | Yes                                 |
+
 The  **AltFormat** property corresponds to the **Provide alternate format for older browsers** check box on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**).
 
 

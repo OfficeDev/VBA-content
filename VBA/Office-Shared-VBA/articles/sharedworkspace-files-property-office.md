@@ -39,7 +39,6 @@ The following example lists the files saved in the current shared workspace.
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsFiles = Nothing 
-
 ```
 
 

@@ -48,7 +48,6 @@ Create a project where task 4 is a successor of task 3, and then run the followi
 Application.SelectRow Row:=3, RowRelative:=False 
 Application.HighlightSuccessors True
 ? ActiveProject.Tasks(4).PathSuccessor
-
 ```
 
 

@@ -34,7 +34,6 @@ Dim MyAngle, MyHSin
 MyAngle = 1.3    
 ' Calculate hyperbolic sine.
 MyHSin = (Exp(MyAngle) - Exp(-1 * MyAngle)) / 2  
-
 ```
 
 

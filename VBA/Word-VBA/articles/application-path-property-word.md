@@ -25,7 +25,7 @@ Returns the disk or Web path to the specified object. Read-only  **String** .
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the  **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](document-name-property-word.md)** property of the **[Document](document-object-word.md)** object to return the file name without the path and use the **[FullName](document-fullname-property-word.md)** property to return the file name and the path together.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "<http://MyServer>". Use the  <strong><a href="application-pathseparator-property-word.md" data-raw-source="[PathSeparator](application-pathseparator-property-word.md)">PathSeparator</a></strong> property to add the character that separates folders and drive letters. Use the <strong><a href="document-name-property-word.md" data-raw-source="[Name](document-name-property-word.md)">Name</a></strong> property of the <strong><a href="document-object-word.md" data-raw-source="[Document](document-object-word.md)">Document</a></strong> object to return the file name without the path and use the <strong><a href="document-fullname-property-word.md" data-raw-source="[FullName](document-fullname-property-word.md)">FullName</a></strong> property to return the file name and the path together.
 
 
  **Note**  You can use the  **PathSeparator** property to build Web addresses even though they contain forward slashes (/) and the **PathSeparator** property defaults to a backslash (\).

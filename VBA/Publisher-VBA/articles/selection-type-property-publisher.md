@@ -29,11 +29,15 @@ The  **Type** property value can be one of these **PbSelectionType** constants.
 
 
 
-| **pbSelectionNone**|
-| **pbSelectionShape**|
-| **pbSelectionShapeSubSelection**|
-| **pbSelectionTableCells**|
-| **pbSelectionText**|
+| <strong>pbSelectionNone</strong>|
+| 
+<strong>pbSelectionShape</strong>|
+| 
+<strong>pbSelectionShapeSubSelection</strong>|
+| 
+<strong>pbSelectionTableCells</strong>|
+| 
+<strong>pbSelectionText</strong>|
 
 ## Example
 

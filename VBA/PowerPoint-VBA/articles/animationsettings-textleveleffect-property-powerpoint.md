@@ -37,14 +37,21 @@ The value of the  **TextLevelEffect** property can be one of these **PpTextLevel
 
 ||
 |:-----|
-|**ppAnimateByAllLevels**|
-|**ppAnimateByFifthLevel**|
-|**ppAnimateByFirstLevel**|
-|**ppAnimateByFourthLevel**|
-|**ppAnimateBySecondLevel**|
-|**ppAnimateByThirdLevel**|
-|**ppAnimateLevelMixed**|
-|**ppAnimateLevelNone**|
+|<strong>ppAnimateByAllLevels</strong>|
+|
+<strong>ppAnimateByFifthLevel</strong>|
+|
+<strong>ppAnimateByFirstLevel</strong>|
+|
+<strong>ppAnimateByFourthLevel</strong>|
+|
+<strong>ppAnimateBySecondLevel</strong>|
+|
+<strong>ppAnimateByThirdLevel</strong>|
+|
+<strong>ppAnimateLevelMixed</strong>|
+|
+<strong>ppAnimateLevelNone</strong>|
 
 ## Example
 

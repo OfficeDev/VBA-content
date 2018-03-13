@@ -18,14 +18,21 @@ Returns the gradient style for the specified fill. Read-only MsoGradientStyle .
 
 
 |MsoGradientStyle can be one of these MsoGradientStyle constants.|
-| **msoGradientDiagonalDown**|
-| **msoGradientDiagonalUp**|
-| **msoGradientFromCenter**|
-| **msoGradientFromCorner**|
-| **msoGradientFromTitle**|
-| **msoGradientHorizontal**|
-| **msoGradientMixed**|
-| **msoGradientVertical**This property is read-only. Use the  **OneColorGradient** or **TwoColorGradient** method to set the gradient style for the fill.|
+| <strong>msoGradientDiagonalDown</strong>|
+| 
+<strong>msoGradientDiagonalUp</strong>|
+| 
+<strong>msoGradientFromCenter</strong>|
+| 
+<strong>msoGradientFromCorner</strong>|
+| 
+<strong>msoGradientFromTitle</strong>|
+| 
+<strong>msoGradientHorizontal</strong>|
+| 
+<strong>msoGradientMixed</strong>|
+| 
+<strong>msoGradientVertical</strong>This property is read-only. Use the  <strong>OneColorGradient</strong> or <strong>TwoColorGradient</strong> method to set the gradient style for the fill.|
 
  _expression_. **GradientStyle**
 

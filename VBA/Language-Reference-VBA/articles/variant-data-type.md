@@ -24,7 +24,6 @@ You can use the  **Variant** data type in place of any data type to work with da
 ```vb
 Dim MyVar As Variant 
 MyVar = 98052 
-
 ```
 
 In the preceding example,  `MyVar` contains a numeric representation — the actual value `98052`. Arithmetic operators work as expected on  **Variant** variables that contain numeric values or string data that can be interpreted as numbers. If you use the **+** operator to add contains a numeric representation — the actual value `98052`. Arithmetic operators work as expected on  **Variant** variables that contain numeric values or string data that can be interpreted as numbers. If you use the **+** operator to add `MyVar` to another **Variant** containing a number or to a variable of a[numeric type](vbe-glossary.md), the result is an arithmetic sum.

@@ -27,7 +27,6 @@ With myChart
  .ChartTitle.Text = "1996 sales" 
  .ChartTitle.AutoScaleFont = False 
 End With 
-
 ```
 
 

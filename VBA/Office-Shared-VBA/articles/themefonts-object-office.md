@@ -22,7 +22,6 @@ The following example sets a  **ThemeFonts** object to a minor theme font.
 Dim tTheme As OfficeTheme 
 Dim tfThemeFonts As ThemeFonts 
 Set tfThemeFonts = tTheme.ThemeFontScheme.MinorFont 
-
 ```
 
 

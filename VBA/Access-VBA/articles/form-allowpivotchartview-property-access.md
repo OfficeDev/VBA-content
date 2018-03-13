@@ -36,7 +36,6 @@ The following example makes PivotChart View valid for the specified form and the
 ```vb
 Forms(0).AllowPivotChartView = True 
 DoCmd.OpenForm FormName:=Forms(0).Name, View:=acFormPivotChart 
-
 ```
 
 

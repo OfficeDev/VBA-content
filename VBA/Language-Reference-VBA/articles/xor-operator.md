@@ -19,21 +19,23 @@ Used to perform a logical exclusion on two [expressions](vbe-glossary.md).
 The  **Xor** operator syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _result_|Optional; any numeric [variable](vbe-glossary.md).|
-| _expression1_|Required; any expression.|
-| _expression2_|Required; any expression.|
+| <strong>Part</strong> | <strong>Description</strong>                       |
+|:----------------------|:---------------------------------------------------|
+| <em>result</em>       | Optional; any numeric [variable](vbe-glossary.md). |
+| <em>expression1</em>  | Required; any expression.                          |
+| <em>expression2</em>  | Required; any expression.                          |
+
  **Remarks**
 If one, and only one, of the expressions evaluates to  **True**, _result_ is **True**. However, if either expression is [Null](vbe-glossary.md),  _result_ is also **Null**. When neither expression is **Null**, _result_ is determined according to the following table:
 
 
-|**If  _expression1_ is**|**And  _expression2_ is**|**Then  _result_ is**|
-|:-----|:-----|:-----|
-|**True**|**True**|**False**|
-|**True**|**False**|**True**|
-|**False**|**True**|**True**|
-|**False**|**False**|**False**|
+| <strong>If  <em>expression1</em> is</strong> | <strong>And  <em>expression2</em> is</strong> | <strong>Then  <em>result</em> is</strong> |
+|:---------------------------------------------|:----------------------------------------------|:------------------------------------------|
+| <strong>True</strong>                        | <strong>True</strong>                         | <strong>False</strong>                    |
+| <strong>True</strong>                        | <strong>False</strong>                        | <strong>True</strong>                     |
+| <strong>False</strong>                       | <strong>True</strong>                         | <strong>True</strong>                     |
+| <strong>False</strong>                       | <strong>False</strong>                        | <strong>False</strong>                    |
+
 The  **Xor** operator performs as both a logical and bitwise operator. A [bit-wise comparison](vbe-glossary.md) of two [expressions](vbe-glossary.md) using exclusive-or logic to form the result, as shown in the following table:
 
 

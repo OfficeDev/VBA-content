@@ -51,11 +51,10 @@ The following example adds a new line to the first page of the active publicatio
 
 ```vb
 Dim shpLine As Shape 
- 
+
 Set shpLine = ActiveDocument.Pages(1).Shapes.AddLine _ 
  (BeginX:=144, BeginY:=144, _ 
  EndX:=180, EndY:=72) 
-
 ```
 
 

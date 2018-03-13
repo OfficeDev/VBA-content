@@ -20,7 +20,6 @@ When matching string properties, you can use either a pair of single quotes ('),
 sFilter = "[CompanyName] = 'Microsoft'"
 
 sFilter = "[CompanyName] = " &; Chr(34) &; "Microsoft" &; Chr(34)
-
 ```
 
 In specifying a filter in a Jet or DASL query, if you use a pair of single quotes to delimit a string that is part of the filter, and the string contains another single quote or apostrophe, then add a single quote as an escape character before the single quote or apostrophe. Use a similar approach if you use a pair of double quotes to delimit a string. If the string contains a double quote, then add a double quote as an escape character before the double quote. 
@@ -121,15 +120,15 @@ As another example, assume that the folder you are searching contains items with
 
 
 - Question
-    
+
 - Questionable
-    
+
 - Unquestionable
-    
+
 - RE: Question
-    
+
 - The big question
-    
+
 The following = restriction: 
 
 
@@ -145,9 +144,9 @@ will return the following results:
 
 
 - Question
-    
+
 - RE: Question
-    
+
 
 ## Prefix, Phrase, and Substring Matching
 
@@ -163,7 +162,6 @@ The syntax of  **ci_startswith** is as follows:
 
 ```
 <PropertySchemaName> ci_startswith <ComparisonString> 
-
 ```
 
 where  _PropertySchemaName_ is a valid name of a property referenced by namespace, and _ComparisonString_ is the string used for comparison.
@@ -172,36 +170,36 @@ where  _PropertySchemaName_ is a valid name of a property referenced by namespac
 
 
 - Restricting for "sea" would match "search"
-    
+
 - Restricting for "sea" would not match "research"
-    
+
 - Restricting for "sea" would match "Subject: the deep blue sea"
-    
+
 - Restricting for "law order" would match "law and order" or "law &; order"
-    
+
 - Restricting for "law and order" would match "I like the show Law and Order."
-    
+
 - Restricting for "law and order" would not match "above the law"
-    
+
 - Restricting for "sea creatures" would match "Nova special on sea creatures"
-    
+
 - Restricting for "sea creatures" would match "sealife creatures"
-    
+
 - Restricting for "sea creatures" would not match "undersea creatures"
-    
+
 Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects: 
 
 
 - Question
-    
+
 - Questionable
-    
+
 - Unquestionable
-    
+
 - RE: Question
-    
+
 - The big question
-    
+
 The following  **ci_startswith** restriction:
 
 
@@ -217,13 +215,13 @@ will return the following results:
 
 
 - Question
-    
+
 - Questionable
-    
+
 - RE: Question
-    
+
 - The big question
-    
+
 
 ### ci_phrasematch
 
@@ -232,7 +230,6 @@ The syntax of  **ci_phrasematch** is as follows:
 
 ```
 <PropertySchemaName> ci_phrasematch <ComparisonString> 
-
 ```
 
 where  _PropertySchemaName_ is a valid name of a property referenced by namespace and _ComparisonString_ is the string used for comparison.
@@ -241,28 +238,28 @@ where  _PropertySchemaName_ is a valid name of a property referenced by namespac
 
 
 - Restricting for "cat" would match "cat", "cat box", "black cat"
-    
+
 - Restricting for "cat" would match "re: cat is out" 
-    
+
 - Restricting for "cat" would not match "catalog", "kittycat"
-    
+
 - Restricting for "kitty cat" would match "put the kitty cat out"
-    
+
 - Restricting for "kitty cat" would not match "great kitty catalog"
-    
+
 Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects: 
 
 
 - Question
-    
+
 - Questionable
-    
+
 - Unquestionable
-    
+
 - RE: Question
-    
+
 - The big question
-    
+
 The following  **ci_phrasematch** restriction:
 
 
@@ -278,11 +275,11 @@ will return the following results:
 
 
 - Question
-    
+
 - RE: Question
-    
+
 - The big question
-    
+
 
 ### like
 
@@ -290,65 +287,71 @@ will return the following results:
 
 
 - 
-```
+  ```
   like '<token>%'
-```
+  ```
 
 
-    provides prefix matching. For example, restricting for
-    
+~~~
+provides prefix matching. For example, restricting for
+~~~
+
 ```
   like 'cat%'
 ```
 
 
     would match "cat" and "catalog".
-    
+
 - 
-```
+  ```
   like '%<token>%'
-```
+  ```
 
 
-    provides substring matching. For example, restricting for
-    
+~~~
+provides substring matching. For example, restricting for
+~~~
+
 ```
   like '%cat%'
 ```
 
 
     would match "cat", "catalog", "kittycat", "decathalon".
-    
+
 - 
-```
+  ```
   like '<token>'
-```
+  ```
 
 
-    provides equivalence matching. For example, restricting for
-    
+~~~
+provides equivalence matching. For example, restricting for
+~~~
+
 ```
   like 'cat'
 ```
 
 
     would match "cat" and "RE: Cat".
-    
+
 Each token can match any part of a word in the string property. If the comparison string contains multiple tokens, every token in the comparison string must have a substring match. Any word within a multiple word property like  **Subject** or **Body** can match; it does not have to be the first word.
 
 Using the same example in Equivalence Matching, assume that the folder you are searching contains items with the following subjects: 
 
 
 - Question
-    
+
 - Questionable
-    
+
 - Unquestionable
-    
+
 - RE: Question
-    
+
 - The big question
-    
+
 The following like restriction :
 
 
@@ -364,13 +367,13 @@ will return the following results:
 
 
 - Question
-    
+
 - Questionable
-    
+
 - Unquestionable
-    
+
 - RE: Question
-    
+
 - The big question
-    
+
 

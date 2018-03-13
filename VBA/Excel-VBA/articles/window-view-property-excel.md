@@ -29,10 +29,13 @@ Returns or sets the view showing in the window. Read/write  **[XlWindowView](xlw
 
 
 
-| **XlWindowView** can be one of these **XlWindowView** constants.|
-| **xlNormalView**|
-| **xlPageBreakPreview**|
-| **xlPageLayoutView**|
+| <strong>XlWindowView</strong> can be one of these <strong>XlWindowView</strong> constants.|
+| 
+<strong>xlNormalView</strong>|
+| 
+<strong>xlPageBreakPreview</strong>|
+| 
+<strong>xlPageLayoutView</strong>|
 
 ## Example
 

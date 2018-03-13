@@ -32,7 +32,6 @@ This example cancels a query table refresh operation.
 With Worksheets(1).QueryTables(1) 
  If .Refreshing Then .CancelRefresh 
 End With 
-
 ```
 
 

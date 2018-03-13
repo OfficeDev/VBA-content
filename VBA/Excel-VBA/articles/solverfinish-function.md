@@ -30,8 +30,8 @@ Tells Microsoft Office Excel what to do with the results and what kind of report
     
 - When  **SolverSolve** returns 7 (the linearity conditions are not satisfied), 1 creates a Linearity report.
     
- Use the **Array** function to specify the reports you want to display — for example, `ReportArray:= Array(1,3)`.
- **OutlineReports** Optional **Variant**. Can be either  **True** or **False**. If  **_OutlineReports_** is **False** or omitted, reports are produced in the "regular" format, without outlining. If **_OutlineReports_** is **True**, reports are produced with outlined groups corresponding to the cell ranges you've entered for decision variables and constraints. 
+  Use the **Array** function to specify the reports you want to display — for example, `ReportArray:= Array(1,3)`.
+  **OutlineReports** Optional **Variant**. Can be either  **True** or **False**. If  **_OutlineReports_** is **False** or omitted, reports are produced in the "regular" format, without outlining. If **_OutlineReports_** is **True**, reports are produced with outlined groups corresponding to the cell ranges you've entered for decision variables and constraints. 
 
 ## Example
 

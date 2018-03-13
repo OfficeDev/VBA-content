@@ -33,11 +33,12 @@ The  **DatasheetCellsEffect** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Flat|**acEffectNormal**|(Default) No special effects are applied to the cells in the datasheet.|
-|Raised|**acEffectRaised**|Cells in the datasheet appear raised.|
-|Sunken|**acEffectSunken**|Cells in the datasheet appear sunken.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong>   | <strong>Description</strong>                                            |
+|:-------------------------|:--------------------------------|:------------------------------------------------------------------------|
+| Flat                     | <strong>acEffectNormal</strong> | (Default) No special effects are applied to the cells in the datasheet. |
+| Raised                   | <strong>acEffectRaised</strong> | Cells in the datasheet appear raised.                                   |
+| Sunken                   | <strong>acEffectSunken</strong> | Cells in the datasheet appear sunken.                                   |
+
 This property applies the selected effect to the entire datasheet.
 
 When this property is set to Raised or Sunken, gridlines will be visible on the datasheet regardless of the  **[DatasheetGridlinesBehavior](form-datasheetgridlinesbehavior-property-access.md)** property setting.

@@ -37,7 +37,7 @@ There are three supported types of calculated members:  _Named Sets_ , _Calculat
     
 - They support the property [CalculatedMember.NumberFormat Property (Excel)](calculatedmember-numberformat-property-excel.md).
     
- **Calculated Measures** have the following changes for Excel 2013:
+  **Calculated Measures** have the following changes for Excel 2013:
 
 
 - They now use the method called CalculatedMembers.[CalculatedMembers.AddCalculatedMember Method (Excel)](calculatedmembers-addcalculatedmember-method-excel.md).

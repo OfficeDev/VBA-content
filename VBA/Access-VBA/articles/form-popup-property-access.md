@@ -29,10 +29,11 @@ The  **PopUp** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The form opens as a pop-up window. It remains on top of all other Microsoft Access windows.|
-|No|**False**|(Default) The form isn't a pop-up window.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                |
+|:-------------------------|:------------------------------|:--------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The form opens as a pop-up window. It remains on top of all other Microsoft Access windows. |
+| No                       | <strong>False</strong>        | (Default) The form isn't a pop-up window.                                                   |
+
 The  **PopUp** property can be set only in form Design view.
 
 To specify the type of border you want on a pop-up window, use the  **BorderStyle** property. You typically set the **BorderStyle** property to Thin for pop-up windows.
@@ -43,11 +44,11 @@ Setting the  **PopUp** property to Yes makes the form a pop-up window only when 
 
 
 - Open it in Form view from the Database window.
-    
+
 - Open it in Form view by using a macro or Visual Basic.
-    
+
 - Switch from Design view to Form view.
-    
+
 When the  **PopUp** property is set to Yes, you can't switch to other views from Form view because the form's toolbar isn't available. (You can't switch a pop-up form from Form view to Datasheet view, even in a macro or Visual Basic.) You must close the form and reopen it in Design or Datasheet view.
 
 The form isn't a pop-up form in Design or Datasheet view, and also isn't if you switch from Datasheet to Form view.

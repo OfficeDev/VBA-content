@@ -48,7 +48,6 @@ This example sets the datasheet border line style on the first open form to shor
 
 ```vb
 Forms(0).DatasheetBorderLineStyle = 3 
-
 ```
 
 

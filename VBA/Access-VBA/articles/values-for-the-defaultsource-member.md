@@ -11,26 +11,27 @@ ms.date: 06/08/2017
 
 # Values for the DefaultSource Member
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
 
-|**Value**|**Meaning**|
-|:-----|:-----|
-|1|Upper or only one bin|
-|2|Lower bin|
-|3|Middle bin|
-|4|Manual bin|
-|5|Envelope bin|
-|6|Envelope manual bin|
-|7|Automatic bin|
-|8|Tractor bin|
-|9|Small-format bin|
-|10|Large-format bin|
-|11|Large-capacity bin|
-|14|Cassette bin|
-|256|Device-specific bins start here|
+| <strong>Value</strong> | <strong>Meaning</strong>        |
+|:-----------------------|:--------------------------------|
+| 1                      | Upper or only one bin           |
+| 2                      | Lower bin                       |
+| 3                      | Middle bin                      |
+| 4                      | Manual bin                      |
+| 5                      | Envelope bin                    |
+| 6                      | Envelope manual bin             |
+| 7                      | Automatic bin                   |
+| 8                      | Tractor bin                     |
+| 9                      | Small-format bin                |
+| 10                     | Large-format bin                |
+| 11                     | Large-capacity bin              |
+| 14                     | Cassette bin                    |
+| 256                    | Device-specific bins start here |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

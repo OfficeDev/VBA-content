@@ -47,7 +47,6 @@ The following example adds a new folder to the folders collection of the shared 
         vbInformation + vbOKOnly, _ 
         "New Folder in Shared Workspace" 
     Set swsFolder = Nothing 
-
 ```
 
 

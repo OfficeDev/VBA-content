@@ -64,7 +64,6 @@ With ActiveDocument.Pages(1).Shapes _
  .ZOrder ZOrderCmd:=msoSendBackward 
  Wend 
 End With 
-
 ```
 
 

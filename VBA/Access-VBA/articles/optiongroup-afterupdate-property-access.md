@@ -35,7 +35,6 @@ The following example specifies that when the AfterUpdate event occurs on the fi
 
 ```vb
 Forms(0).AfterUpdate = "[Event Procedure]" 
-
 ```
 
 

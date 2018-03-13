@@ -41,7 +41,6 @@ The following example determines whether the active Excel workbook has an XML ex
  Else 
  MsgBox "No XML expansion pack attached." 
  End If 
-
 ```
 
 

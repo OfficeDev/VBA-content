@@ -35,9 +35,11 @@ The value of the  **FarEastLineBreakLevel** property can be one of these **PpFar
 
 ||
 |:-----|
-|**ppFarEastLineBreakLevelCustom**|
-|**ppFarEastLineBreakLevelNormal**|
-|**ppFarEastLineBreakLevelStrict**|
+|<strong>ppFarEastLineBreakLevelCustom</strong>|
+|
+<strong>ppFarEastLineBreakLevelNormal</strong>|
+|
+<strong>ppFarEastLineBreakLevelStrict</strong>|
 
 ## Example
 

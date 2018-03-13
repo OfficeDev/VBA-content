@@ -32,7 +32,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.SeriesCollection(1).DataLabels(5).NumberFormat = "0.000" 
  End If 
 End With 
-
 ```
 
 Use the  **[Point.DataLabel](point-datalabel-property-word.md)** property to return the **DataLabel** object for a single point. The following example turns on the data label for the second point in the first series of the first chart in the active document and sets the data label text to "Saturday."
@@ -49,7 +48,6 @@ With ActiveDocument.InlineShapes(1)
  End With 
  End If 
 End With 
-
 ```
 
 On a trendline, the  **[Trendline.DataLabel](trendline-datalabel-property-word.md)** property returns the text shown with the trendline. This can be the equation, the R-squared value, or both (if both are showing). The following example sets the trendline text for the first trendline in the first series of the first chart in the active document to show only the equation.

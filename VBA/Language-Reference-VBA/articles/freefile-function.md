@@ -34,8 +34,6 @@ For MyIndex = 1 To 5    ' Loop 5 times.
     Write #FileNumber, "This is a sample."    ' Output text.
     Close #FileNumber    ' Close file.
 Next MyIndex
-
-
 ```
 
 

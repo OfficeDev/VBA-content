@@ -29,11 +29,15 @@ Returns or sets the type of minor tick mark for the specified axis. Read/write  
 
 
 
-| **XlTickMark** can be one of these **XlTickMark** constants.|
-| **xlTickMarkInside**|
-| **xlTickMarkOutside**|
-| **xlTickMarkCross**|
-| **xlTickMarkNone**|
+| <strong>XlTickMark</strong> can be one of these <strong>XlTickMark</strong> constants.|
+| 
+<strong>xlTickMarkInside</strong>|
+| 
+<strong>xlTickMarkOutside</strong>|
+| 
+<strong>xlTickMarkCross</strong>|
+| 
+<strong>xlTickMarkNone</strong>|
 
 ## Example
 

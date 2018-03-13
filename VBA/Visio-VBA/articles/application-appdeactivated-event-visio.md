@@ -15,7 +15,7 @@ Occurs after a Microsoft Visio instance becomes inactive.
 
 ## Syntax
 
-Private Sub  _expression_ _**AppDeactivated**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>AppDeactivated</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

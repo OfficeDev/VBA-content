@@ -19,7 +19,7 @@ ms.date: 06/08/2017
     
   ```
   ' Form already has a BackColor property. 
-Dim BackColor As Integer    ' Generates the error. 
+  Dim BackColor As Integer    ' Generates the error. 
  
 Function BackColor()    ' Generates the error. 
 End Function

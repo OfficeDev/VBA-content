@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Recordset and SourceRecordset Properties Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -64,8 +64,8 @@ RDC.Refresh
 End Sub 
 </Script> 
 </body></html>
-<!-- EndRecordsetVBS -->
 
+<!-- EndRecordsetVBS -->
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

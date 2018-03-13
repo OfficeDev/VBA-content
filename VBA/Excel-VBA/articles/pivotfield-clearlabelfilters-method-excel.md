@@ -51,46 +51,85 @@ The following table lists the different date filter types that will be deleted b
 
 
 ||
-| **xlSpecificDate**|
-| **xlNotSpecificDate**|
-| **xlBefore**|
-| **xlBeforeOrEqualTo**|
-| **xlAfter**|
-| **xlAfterOrEqualTo**|
-| **xlDateBetween**|
-| **xlDateNotBetween**|
-| **xlDateToday**|
-| **xlDateYesterday**|
-| **xlDateTomorrow**|
-| **xlDateThisWeek**|
-| **xlDateLastWeek**|
-| **xlDateNextWeek**|
-| **xlDateThisMonth**|
-| **xlDateLastMonth**|
-| **xlDateNextMonth**|
-| **xlDateThisQuarter**|
-| **xlDateLastQuarter**|
-| **xlDateNextQuarter**|
-| **xlDateThisYear**|
-| **xlDateLastYear**|
-| **xlDateNextYear**|
-| **xlYearToDate**|
-| **xlAllDatesInPeriodQuarter1**|
-| **xlAllDatesInPeriodQuarter2**|
-| **xlAllDatesInPeriodQuarter3**|
-| **xlAllDatesInPeriodQuarter4**|
-| **xlAllDatesInPeriodJanuary**|
-| **xlAllDatesInPeriodFebruary**|
-| **xlAllDatesInPeriodMarch**|
-| **xlAllDatesInPeriodApril**|
-| **xlAllDatesInPeriodMay**|
-| **xlAllDatesInPeriodJune**|
-| **xlAllDatesInPeriodJuly**|
-| **xlAllDatesInPeriodAugust**|
-| **xlAllDatesInPeriodSeptember**|
-| **xlAllDatesInPeriodOctober**|
-| **xlAllDatesInPeriodNovember**|
-| **xlAllDatesInPeriodDecember**|
+| <strong>xlSpecificDate</strong>|
+| 
+<strong>xlNotSpecificDate</strong>|
+| 
+<strong>xlBefore</strong>|
+| 
+<strong>xlBeforeOrEqualTo</strong>|
+| 
+<strong>xlAfter</strong>|
+| 
+<strong>xlAfterOrEqualTo</strong>|
+| 
+<strong>xlDateBetween</strong>|
+| 
+<strong>xlDateNotBetween</strong>|
+| 
+<strong>xlDateToday</strong>|
+| 
+<strong>xlDateYesterday</strong>|
+| 
+<strong>xlDateTomorrow</strong>|
+| 
+<strong>xlDateThisWeek</strong>|
+| 
+<strong>xlDateLastWeek</strong>|
+| 
+<strong>xlDateNextWeek</strong>|
+| 
+<strong>xlDateThisMonth</strong>|
+| 
+<strong>xlDateLastMonth</strong>|
+| 
+<strong>xlDateNextMonth</strong>|
+| 
+<strong>xlDateThisQuarter</strong>|
+| 
+<strong>xlDateLastQuarter</strong>|
+| 
+<strong>xlDateNextQuarter</strong>|
+| 
+<strong>xlDateThisYear</strong>|
+| 
+<strong>xlDateLastYear</strong>|
+| 
+<strong>xlDateNextYear</strong>|
+| 
+<strong>xlYearToDate</strong>|
+| 
+<strong>xlAllDatesInPeriodQuarter1</strong>|
+| 
+<strong>xlAllDatesInPeriodQuarter2</strong>|
+| 
+<strong>xlAllDatesInPeriodQuarter3</strong>|
+| 
+<strong>xlAllDatesInPeriodQuarter4</strong>|
+| 
+<strong>xlAllDatesInPeriodJanuary</strong>|
+| 
+<strong>xlAllDatesInPeriodFebruary</strong>|
+| 
+<strong>xlAllDatesInPeriodMarch</strong>|
+| 
+<strong>xlAllDatesInPeriodApril</strong>|
+| 
+<strong>xlAllDatesInPeriodMay</strong>|
+| 
+<strong>xlAllDatesInPeriodJune</strong>|
+| 
+<strong>xlAllDatesInPeriodJuly</strong>|
+| 
+<strong>xlAllDatesInPeriodAugust</strong>|
+| 
+<strong>xlAllDatesInPeriodSeptember</strong>|
+| 
+<strong>xlAllDatesInPeriodOctober</strong>|
+| 
+<strong>xlAllDatesInPeriodNovember</strong>|
+| 
+<strong>xlAllDatesInPeriodDecember</strong>|
 
 ## See also
 

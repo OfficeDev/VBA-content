@@ -19,19 +19,21 @@ Adds an object to a [collection](vbe-glossary.md).
 The  **Add** syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _component_|Required. For the  **LinkedWindows** collection, an object. For the **VBComponents** collection, an enumerated[constant](vbe-glossary.md) representing a[class module](vbe-glossary.md), a form, or a [standard module](vbe-glossary.md). For the  **VBProjects** collection, an enumerated constant representing a project type.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                             |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.                                                                                                                                                                                                                                                                    |
+| <em>component</em>    | Required. For the  <strong>LinkedWindows</strong> collection, an object. For the <strong>VBComponents</strong> collection, an enumerated[constant](vbe-glossary.md) representing a[class module](vbe-glossary.md), a form, or a [standard module](vbe-glossary.md). For the  <strong>VBProjects</strong> collection, an enumerated constant representing a project type. |
+
 You can use one of the following constants for the  _component_ argument:
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**vbext_ct_ClassModule**|Adds a class module to the collection.|
-|**vbext_ct_MSForm**|Adds a form to the collection.|
-|**vbext_ct_StdModule**|Adds a standard module to the collection.|
-|**vbext_pt_StandAlone**|Adds a standalone project to the collection.|
+| <strong>Constant</strong>             | <strong>Description</strong>                 |
+|:--------------------------------------|:---------------------------------------------|
+| <strong>vbext_ct_ClassModule</strong> | Adds a class module to the collection.       |
+| <strong>vbext_ct_MSForm</strong>      | Adds a form to the collection.               |
+| <strong>vbext_ct_StdModule</strong>   | Adds a standard module to the collection.    |
+| <strong>vbext_pt_StandAlone</strong>  | Adds a standalone project to the collection. |
+
  **Remarks**
 For the  **LinkedWindows** collection, the **Add** method adds a window to the collection of currently[linked windows](vbe-glossary.md).
 

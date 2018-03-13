@@ -19,43 +19,47 @@ Used to sum two numbers.
 The  **+** operator syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _result_|Required; any numeric [variable](vbe-glossary.md).|
-| _expression1_|Required; any [expression](vbe-glossary.md).|
-| _expression2_|Required; any expression.|
+| <strong>Part</strong> | <strong>Description</strong>                       |
+|:----------------------|:---------------------------------------------------|
+| <em>result</em>       | Required; any numeric [variable](vbe-glossary.md). |
+| <em>expression1</em>  | Required; any [expression](vbe-glossary.md).       |
+| <em>expression2</em>  | Required; any expression.                          |
+
  **Remarks**
 When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
 If at least one expression is not a [Variant](vbe-glossary.md), the following rules apply:
 
 
-|**If**|**Then**|
-|:-----|:-----|
-|Both expressions are [numeric data types](vbe-glossary.md) ([Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Date](vbe-glossary.md), [Currency](vbe-glossary.md), or [Decimal](vbe-glossary.md))|Add.|
-|Both expressions are [String](vbe-glossary.md)|Concatenate.|
-|One expression is a numeric data type and the other is any  **Variant** except [Null](vbe-glossary.md)|Add.|
-|One expression is a  **String** and the other is any **Variant** except **Null**|Concatenate.|
-|One expression is an [Empty](vbe-glossary.md) **Variant**|Return the remaining expression unchanged as  _result_.|
-|One expression is a numeric data type and the other is a  **String**|A  `Type mismatch`error occurs.|
-|Either expression is  **Null**| _result_ is **Null**.|
+| <strong>If</strong>                                                                                                                                                                                                                                                                                              | <strong>Then</strong>                                          |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|
+| Both expressions are [numeric data types](vbe-glossary.md) ([Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Date](vbe-glossary.md), [Currency](vbe-glossary.md), or [Decimal](vbe-glossary.md)) | Add.                                                           |
+| Both expressions are [String](vbe-glossary.md)                                                                                                                                                                                                                                                                   | Concatenate.                                                   |
+| One expression is a numeric data type and the other is any  <strong>Variant</strong> except [Null](vbe-glossary.md)                                                                                                                                                                                              | Add.                                                           |
+| One expression is a  <strong>String</strong> and the other is any <strong>Variant</strong> except <strong>Null</strong>                                                                                                                                                                                          | Concatenate.                                                   |
+| One expression is an [Empty](vbe-glossary.md) <strong>Variant</strong>                                                                                                                                                                                                                                           | Return the remaining expression unchanged as  <em>result</em>. |
+| One expression is a numeric data type and the other is a  <strong>String</strong>                                                                                                                                                                                                                                | A  `Type mismatch`error occurs.                                |
+| Either expression is  <strong>Null</strong>                                                                                                                                                                                                                                                                      | <em>result</em> is <strong>Null</strong>.                      |
+
 If both expressions are  **Variant** expressions, the following rules apply:
 
 
-|**If**|**Then**|
-|:-----|:-----|
-|Both  **Variant** expressions are numeric|Add.|
-|Both  **Variant** expressions are strings|Concatenate.|
-|One  **Variant** expression is numeric and the other is a string|Add.|
+| <strong>If</strong>                                                           | <strong>Then</strong> |
+|:------------------------------------------------------------------------------|:----------------------|
+| Both  <strong>Variant</strong> expressions are numeric                        | Add.                  |
+| Both  <strong>Variant</strong> expressions are strings                        | Concatenate.          |
+| One  <strong>Variant</strong> expression is numeric and the other is a string | Add.                  |
+
 For simple arithmetic addition involving only expressions of numeric data types, the [data type](vbe-glossary.md) of _result_ is usually the same as that of the most precise expression. The order of precision, from least to most precise, is **Byte**, **Integer**, **Long**, **Single**, **Double**, **Currency**, and **Decimal**. The following are exceptions to this order:
 
 
-|**If**|**Then  _result_ is**|
-|:-----|:-----|
-|A  **Single** and a **Long** are added,|a  **Double**.|
-|The data type of  _result_ is a **Long**, **Single**, or **Date** variant that overflows its legal range,|converted to a  **Double** variant.|
-|The data type of  _result_ is a **Byte** variant that overflows its legal range,|converted to an  **Integer** variant.|
-|The data type of  _result_ is an **Integer** variant that overflows its legal range,|converted to a  **Long** variant.|
-|A  **Date** is added to any data type,|a  **Date**.|
+| <strong>If</strong>                                                                                                                                     | <strong>Then  <em>result</em> is</strong>          |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|
+| A  <strong>Single</strong> and a <strong>Long</strong> are added,                                                                                       | a  <strong>Double</strong>.                        |
+| The data type of  <em>result</em> is a <strong>Long</strong>, <strong>Single</strong>, or <strong>Date</strong> variant that overflows its legal range, | converted to a  <strong>Double</strong> variant.   |
+| The data type of  <em>result</em> is a <strong>Byte</strong> variant that overflows its legal range,                                                    | converted to an  <strong>Integer</strong> variant. |
+| The data type of  <em>result</em> is an <strong>Integer</strong> variant that overflows its legal range,                                                | converted to a  <strong>Long</strong> variant.     |
+| A  <strong>Date</strong> is added to any data type,                                                                                                     | a  <strong>Date</strong>.                          |
+
 If one or both expressions are  **Null** expressions, _result_ is **Null**. If both expressions are **Empty**, _result_ is an **Integer**. However, if only one expression is **Empty**, the other expression is returned unchanged as _result_.
 
  **Note**  The order of precision used by addition and subtraction is not the same as the order of precision used by multiplication.
@@ -76,7 +80,6 @@ MyNumber = Var1 + Var2    ' Returns 40.
 
 Var1 = "34": Var2 = "6"    ' Initialize variables with strings.
 MyNumber = Var1 + Var2    ' Returns "346" (string concatenation).
-
 ```
 
 

@@ -47,7 +47,6 @@ The following example uses the  **RemoveAll** method to remove all user permissi
  vbInformation + vbOKOnly, "IRM Information" 
  End If 
  Set irmPermission = Nothing 
-
 ```
 
 

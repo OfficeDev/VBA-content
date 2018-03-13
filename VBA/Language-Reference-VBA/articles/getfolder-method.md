@@ -22,10 +22,11 @@ Returns a  **Folder** object corresponding to the folder in a specified path.
 The  **GetFolder** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _folderspec_|Required. The  _folderspec_ is the path (absolute or relative) to a specific folder.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                |
+|:----------------------|:--------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                          |
+| <em>folderspec</em>   | Required. The  <em>folderspec</em> is the path (absolute or relative) to a specific folder. |
+
  **Remarks**
 An error occurs if the specified folder does not exist.
 

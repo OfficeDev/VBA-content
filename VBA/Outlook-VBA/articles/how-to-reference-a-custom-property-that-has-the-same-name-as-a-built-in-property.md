@@ -15,19 +15,23 @@ Assume a new control has a  **Top** property that is different from the standard
 
 
 - 
-```
+  ```
   control.Top
-```
+  ```
 
 
-    uses the standard  **Top** property.
-    
+~~~
+uses the standard  **Top** property.
+~~~
+
 - 
-```
+  ```
   control.Object.Top
-```
+  ```
 
 
-    uses the  **Top** property from the added control.
-    
+~~~
+uses the  **Top** property from the added control.
+~~~
+
 

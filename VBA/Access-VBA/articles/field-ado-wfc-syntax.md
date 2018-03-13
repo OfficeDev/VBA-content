@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Field (ADO/WFC Syntax)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,14 +19,13 @@ ms.date: 06/08/2017
 
 
 ```
- 
+
 public void Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml(byte[] bytes ) 
 public void appendChunk(char[] chars ) 
 public void appendChunk(String chars ) 
 public byte[] getByteChunk(int len ) 
 public char[] getCharChunk(int len ) 
 public String getStringChunk(int len ) 
-
 ```
 
  **Properties**
@@ -34,13 +33,12 @@ public String getStringChunk(int len )
 
 
 ```
- 
+
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproactualsize_HV10293998.xml() 
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdproattributes_HV10294098.xml() 
 public void setAttributes(int pl ) 
 public com.ms.com.IUnknown getDataFormat() 
 public void setDataFormat(com.ms.com.IUnknown format ) 
-
 ```
 
 (For more information, see the Microsoft Visual J++ WFC Reference documentation for the com.ms.wfc.data.IDataFormat interface.)
@@ -48,7 +46,7 @@ public void setDataFormat(com.ms.com.IUnknown format )
 
 
 ```
- 
+
 public int Invalid DDUE based on source, error:link not allowed in code, link filename:mdprodefinedsize_HV10294289.xml() 
 public void setDefinedSize(int pl ) 
 public String Invalid DDUE based on source, error:link not allowed in code, link filename:mdproname_HV10294535.xml() 
@@ -63,7 +61,6 @@ public Variant Invalid DDUE based on source, error:link not allowed in code, lin
 public Variant Invalid DDUE based on source, error:link not allowed in code, link filename:mdprovalue_HV10294920.xml() 
 public void setValue(Variant value ) 
 public AdoProperties Invalid DDUE based on source, error:link not allowed in code, link filename:mdcolproperties_HV10294633.xml() 
-
 ```
 
  **Field Accessor Methods**
@@ -75,7 +72,7 @@ There are two noteworthy exceptions: One of the  **getObject** methods returns a
 
 
 ```js
- 
+
 public native boolean getBoolean(); 
 public void setBoolean(boolean v ) 
 public native byte getByte(); 
@@ -99,7 +96,6 @@ public void setNull()
 public Object getObject() 
 public Object getObject(Class c ) 
 public void setObject(Object value ) 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

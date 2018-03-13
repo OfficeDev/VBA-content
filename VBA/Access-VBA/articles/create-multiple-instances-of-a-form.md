@@ -19,7 +19,6 @@ To create a new instance of a form or report class, you declare a new object var
 
 ```vb
 Dim frmInstance As New Form_Employees 
-
 ```
 
 By creating multiple instances of an Employees form class, you could show information about one employee on one form instance, and show information about another employee on another form instance. 

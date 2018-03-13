@@ -30,19 +30,18 @@ The following example selects one or more matching the XPath expression.
 Sub CustomXmlNodes() 
     Dim cxp1 As CustomXMLPart 
     Dim cxns As CustomXMLNodes 
- 
+
     With ActiveDocument 
-  
+
         ' Returns the first custom xml part with the given root namespace. 
         Set cxp1 = .CustomXMLParts("urn:invoice:namespace")  
-         
+
         ' Get custom xml nodes using XPath.                              
         Set cxns = cxp1.SelectNodes("//*[@unitPrice > 20]")  
-                      
-    End With 
-     
-End Sub 
 
+    End With 
+
+End Sub 
 ```
 
 

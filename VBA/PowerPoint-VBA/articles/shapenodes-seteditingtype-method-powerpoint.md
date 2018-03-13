@@ -41,10 +41,13 @@ The  _EditingType_ parameter value can be one of these **MsoEditingType** consta
 
 ||
 |:-----|
-|**msoEditingAuto**|
-|**msoEditingCorner**|
-|**msoEditingSmooth**|
-|**msoEditingSymmetric**|
+|<strong>msoEditingAuto</strong>|
+|
+<strong>msoEditingCorner</strong>|
+|
+<strong>msoEditingSmooth</strong>|
+|
+<strong>msoEditingSymmetric</strong>|
 
 ## Example
 

@@ -40,14 +40,15 @@ The AlignCmd parameter can be one of the  **MsoAlignCmd** constants declared in 
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoAlignBottoms**|Aligns shapes along their bottom edges. If  _RelativeTo_ is **msoFalse**, the bottommost shape determines the line against which the other shapes are aligned.|
-| **msoAlignCenters**|Aligns shapes on a vertical line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the left- and rightmost shapes.|
-| **msoAlignLefts**|Aligns shapes along their left edges. If  _RelativeTo_ is **msoFalse**, the leftmost shape determines the line against which the other shapes are aligned.|
-| **msoAlignMiddles**|Aligns shapes on a horizontal line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the top- and bottommost shapes.|
-| **msoAlignRights**| **msoAlignRights** Aligns shapes along their right edges. If _RelativeTo_ is **msoFalse**, the rightmost shape determines the line against which the other shapes are aligned.|
-| **msoAlignTops**| Aligns shapes along their top edges. If _RelativeTo_ is **msoFalse**, the topmost shape determines the line against which the other shapes are aligned.|
+| <strong>Constant</strong>        | <strong>Description</strong>                                                                                                                                                                                    |
+|:---------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>msoAlignBottoms</strong> | Aligns shapes along their bottom edges. If  <em>RelativeTo</em> is <strong>msoFalse</strong>, the bottommost shape determines the line against which the other shapes are aligned.                              |
+| <strong>msoAlignCenters</strong> | Aligns shapes on a vertical line through their centers. If  <em>RelativeTo</em> is <strong>msoFalse</strong>, shapes are aligned on a line halfway between the left- and rightmost shapes.                      |
+| <strong>msoAlignLefts</strong>   | Aligns shapes along their left edges. If  <em>RelativeTo</em> is <strong>msoFalse</strong>, the leftmost shape determines the line against which the other shapes are aligned.                                  |
+| <strong>msoAlignMiddles</strong> | Aligns shapes on a horizontal line through their centers. If  <em>RelativeTo</em> is <strong>msoFalse</strong>, shapes are aligned on a line halfway between the top- and bottommost shapes.                    |
+| <strong>msoAlignRights</strong>  | <strong>msoAlignRights</strong> Aligns shapes along their right edges. If <em>RelativeTo</em> is <strong>msoFalse</strong>, the rightmost shape determines the line against which the other shapes are aligned. |
+| <strong>msoAlignTops</strong>    | Aligns shapes along their top edges. If <em>RelativeTo</em> is <strong>msoFalse</strong>, the topmost shape determines the line against which the other shapes are aligned.                                     |
+
 The RelativeTo parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
@@ -66,7 +67,6 @@ The following example aligns all the shapes on the first page of the active publ
 ActiveDocument.Pages(1).Shapes.Range.Align _ 
  AlignCmd:=msoAlignCenters, _ 
  RelativeTo:=msoTrue 
-
 ```
 
 

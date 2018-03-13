@@ -20,9 +20,8 @@ The following example creates a  **CustomXMLPrefixMapping** object by adding a n
 
 ```
 Dim objNamespace As CustomXMLPrefixMapping 
- 
-objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace") 
 
+objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace") 
 ```
 
 

@@ -18,7 +18,7 @@ Occurs after shapes are grouped or a group is ungrouped.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeParentChanged**( **_ByVal Shape As [IVSHAPE]_** )
+Private Sub  <em>expression</em> <em><strong>ShapeParentChanged</strong>( **_ByVal Shape As [IVSHAPE]</em>** )
 
  _expression_ A variable that represents a **Document** object.
 

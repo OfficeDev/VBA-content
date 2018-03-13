@@ -52,7 +52,6 @@ The following example updates the server copy of the document from the local cop
         MsgBox strStatus, vbInformation + vbOKOnly, "Sync Information" 
     End If 
     Set objSync = Nothing 
-
 ```
 
 

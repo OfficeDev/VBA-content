@@ -59,7 +59,6 @@ The following example enables permissions on the active document and applies an 
  End Select 
  MsgBox strIRMInfo, vbInformation + vbOKOnly, "IRM Information" 
  Set irmPermission = Nothing 
-
 ```
 
 

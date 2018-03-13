@@ -31,9 +31,9 @@ Use either of the following properties to determine whether a shape represents a
 
 
 -  The **[Type](shape-type-property-publisher.md)** property of the **[Shape](shape-object-publisher.md)** object
-    
+
 - The  **[IsLinked](pictureformat-islinked-property-publisher.md)** property of the **[PictureFormat](pictureformat-object-publisher.md)** object
-    
+
 
 
 
@@ -45,21 +45,20 @@ The following example tests each picture in the active publication, and prints s
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
- 
+
  Debug.Print "File Name: " &; .Filename 
  Debug.Print "Original File Size: " &; .OriginalFileSize &; " bytes" 
- 
+
  End With 
  End If 
  Next shpLoop 
 Next pgLoop 
-
 ```
 
 

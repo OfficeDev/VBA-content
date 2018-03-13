@@ -35,9 +35,11 @@ The value of the  **PrintColorType** property can be one of these **PpPrintColor
 
 ||
 |:-----|
-|**ppPrintBlackAndWhite**|
-|**ppPrintColor**|
-|**ppPrintPureBlackAndWhite**|
+|<strong>ppPrintBlackAndWhite</strong>|
+|
+<strong>ppPrintColor</strong>|
+|
+<strong>ppPrintPureBlackAndWhite</strong>|
 
 ## Example
 

@@ -22,7 +22,6 @@ In the following line of code, a fixed-size array is declared as an  **Integer**
 
 ```vb
 Dim MyArray(10, 10) As Integer 
-
 ```
 
 The first argument represents the rows; the second argument represents the columns.
@@ -35,22 +34,21 @@ As with any other variable declaration, unless you specify a [data type](vbe-glo
 ```vb
 ' Integer array uses 22 bytes (11 elements * 2 bytes). 
 ReDim MyIntegerArray(10) As Integer 
- 
+
 ' Double-precision array uses 88 bytes (11 elements * 8 bytes). 
 ReDim MyDoubleArray(10) As Double 
- 
+
 ' Variant array uses at least 176 bytes (11 elements * 16 bytes). 
 ReDim MyVariantArray(10) 
- 
+
 ' Integer array uses 100 * 100 * 2 bytes (20,000 bytes). 
 ReDim MyIntegerArray (99, 99) As Integer 
- 
+
 ' Double-precision array uses 100 * 100 * 8 bytes (80,000 bytes). 
 ReDim MyDoubleArray (99, 99) As Double 
- 
+
 ' Variant array uses at least 160,000 bytes (100 * 100 * 16 bytes). 
 ReDim MyVariantArray(99, 99) 
-
 ```
 
 The maximum size of an array varies, based on your operating system and how much memory is available. Using an array that exceeds the amount of RAM available on your system is slower because the data must be read from and written to disk.
@@ -63,7 +61,6 @@ By declaring a dynamic array, you can size the array while the code is running. 
 
 ```vb
 Dim sngArray() As Single 
-
 ```
 
 
@@ -76,7 +73,6 @@ In a procedure within the array's [scope](vbe-glossary.md), use the  **ReDim** s
 
 ```vb
 ReDim Preserve varArray(UBound(varArray) + 10) 
-
 ```
 
 

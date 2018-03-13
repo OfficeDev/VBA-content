@@ -29,7 +29,6 @@ You can call this procedure by supplying its arguments in the correct position, 
 
 ```vb
 PassArgs "Mary", 29, #2-21-69# 
-
 ```
 
 You can also call this procedure by supplying [named arguments](vbe-glossary.md), delimiting each with a comma.
@@ -38,7 +37,6 @@ You can also call this procedure by supplying [named arguments](vbe-glossary.md)
 
 ```vb
 PassArgs intAge:=29, dteBirth:=#2/21/69#, strName:="Mary" 
-
 ```
 
 A named argument consists of an argument name followed by a colon and an equal sign ( **:=** ), followed by the argument value.
@@ -79,9 +77,8 @@ You can call this procedure using named arguments as shown in the following exam
 
 ```vb
 OptionalArgs varCountry:="USA", strState:="MD" 
- 
-OptionalArgs strState:= "MD", varRegion:=5 
 
+OptionalArgs strState:= "MD", varRegion:=5 
 ```
 
 

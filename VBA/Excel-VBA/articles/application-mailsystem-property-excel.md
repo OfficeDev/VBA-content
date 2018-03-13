@@ -29,10 +29,13 @@ Returns the mail system that's installed on the host machine. Read-only  **[XlMa
 
 
 
-| **XlMailSystem** can be one of these **XlMailSystem** constants.|
-| **xlMAPI**|
-| **xlNoMailSystem**|
-| **xlPowerTalk**|
+| <strong>XlMailSystem</strong> can be one of these <strong>XlMailSystem</strong> constants.|
+| 
+<strong>xlMAPI</strong>|
+| 
+<strong>xlNoMailSystem</strong>|
+| 
+<strong>xlPowerTalk</strong>|
 
 ## Example
 

@@ -62,7 +62,6 @@ This example creates a command bar named "Custom" and adds two buttons to it. Th
  .PasteFace 
  .State = msoButtonDown 
  End With 
-
 ```
 
 

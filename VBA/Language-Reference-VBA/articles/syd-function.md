@@ -19,12 +19,13 @@ Returns a [Double](vbe-glossary.md) specifying the sum-of-years' digits deprecia
 The  **SYD** function has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_cost_**|Required.  **Double** specifying initial cost of the asset.|
-|**_salvage_**|Required.  **Double** specifying value of the asset at the end of its useful life.|
-|**_life_**|Required.  **Double** specifying length of the useful life of the asset.|
-|**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
+| <strong>Part</strong>             | <strong>Description</strong>                                                                     |
+|:----------------------------------|:-------------------------------------------------------------------------------------------------|
+| <strong><em>cost</em></strong>    | Required.  <strong>Double</strong> specifying initial cost of the asset.                         |
+| <strong><em>salvage</em></strong> | Required.  <strong>Double</strong> specifying value of the asset at the end of its useful life.  |
+| <strong><em>life</em></strong>    | Required.  <strong>Double</strong> specifying length of the useful life of the asset.            |
+| <strong><em>period</em></strong>  | Required.  <strong>Double</strong> specifying period for which asset depreciation is calculated. |
+
  **Remarks**
 The  **_life_** and **_period_**[arguments](vbe-glossary.md) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
 

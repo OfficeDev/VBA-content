@@ -17,7 +17,6 @@ When you save a [project](vbe-glossary.md) for which a reference has been select
 ```text
 Reference=*\G{00025E01-0000-0000-C000-000000000046}#0.0#0#C:\WINDOWS\SYSTEM\DAO2516.DLL#Microsoft 
 DAO 2.5 Object Library 
-
 ```
 
 
@@ -26,7 +25,7 @@ This error occurs when such a reference has been edited or corrupted. This error
 
 
 - A reference in the .vbp file has become invalid. Delete the incorrect line from the .vbp file and check the appropriate [object library](vbe-glossary.md) in the **References** dialog box from the **Tools** menu. Then save the project, and the correct information will be entered in the .vbp file.
-    
+
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

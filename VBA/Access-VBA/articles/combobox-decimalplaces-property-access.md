@@ -29,10 +29,11 @@ The  **DecimalPlaces** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Auto|255|(Default) Numbers appear as specified by the  **Format** property setting.|
-|0 to 15|0 to 15|Digits to the right of the decimal separator appear with the specified number of decimal places; digits to the left of the decimal separator appear as specified by the  **Format** property setting.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                                                                                                       |
+|:-------------------------|:------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Auto                     | 255                           | (Default) Numbers appear as specified by the  <strong>Format</strong> property setting.                                                                                                                            |
+| 0 to 15                  | 0 to 15                       | Digits to the right of the decimal separator appear with the specified number of decimal places; digits to the left of the decimal separator appear as specified by the  <strong>Format</strong> property setting. |
+
 You should set the  **DecimalPlaces** property in the table's property sheet. A bound control you create on a form or report inherits the **DecimalPlaces** property set in the field in the underlying table or query, so you won't have to specify the property individually for every bound control you create.
 
 The  **DecimalPlaces** property setting has no effect if the **Format** property is blank or is set to General Number.

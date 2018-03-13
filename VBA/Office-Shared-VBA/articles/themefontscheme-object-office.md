@@ -22,7 +22,6 @@ The following example creates an object that represents the font scheme for a Mi
 Dim tTheme As OfficeTheme 
 Dim tfsThemeFontScheme As ThemeFontScheme 
 Set tfsThemeFontScheme = tTheme.ThemeFontScheme 
-
 ```
 
 

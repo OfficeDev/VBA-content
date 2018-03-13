@@ -40,7 +40,7 @@ This example adds a rectangle to the active publication and sets the degree of i
 
 ```vb
 Dim sngDegree As Single 
- 
+
 With ActiveDocument.Pages(1).Shapes 
  ' Store degree of one-color gradient. 
  sngDegree = .Item("Rectangle 2").Fill.GradientDegree 
@@ -52,7 +52,6 @@ With ActiveDocument.Pages(1).Shapes
  Variant:=1, Degree:=sngDegree 
  End With 
 End With 
-
 ```
 
 

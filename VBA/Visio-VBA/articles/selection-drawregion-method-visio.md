@@ -48,23 +48,24 @@ The  **DrawRegion** method creates a new **Shape** object from pieces of the pat
 
 
 - If both  _x_ and _y_ are specified, the resulting shape is the smallest region that contains the point ( _x_, _y_).
-    
+
 - In the absence of either  _x_ or _y_, or if the point ( _x_, _y_) is not contained in any region enclosed by the paths of the selected shapes, the result is the union of all the shapes that would have been created by using the  **Fragment** operation.
-    
+
 - If no closed region is defined by the selected shapes, the  **DrawRegion** method returns **Nothing** and raises no exception.
-    
+
 
 
 The  _Flags_ argument can be one or a combination of the following constants declared by the Visio type library in **VisDrawRegionFlags** .
 
 
 
-|**Name **|**Value **|**Description **|
-|:-----|:-----|:-----|
-| **visDrawRegionDeleteInput**|&;H4 |Delete items in selection. |
-| **visDrawRegionIgnoreVisible**|&;H20 |Exclude visible geometry. |
-| **visDrawRegionIncludeDataGraphics**|&;H40|Include data graphic callout shapes and their sub-shapes. |
-| **visDrawRegionIncludeHidden**|&;H10 |Include hidden geometry. |
+| **Name **                                         | **Value ** | **Description **                                          |
+|:--------------------------------------------------|:-----------|:----------------------------------------------------------|
+| <strong>visDrawRegionDeleteInput</strong>         | &;H4       | Delete items in selection.                                |
+| <strong>visDrawRegionIgnoreVisible</strong>       | &;H20      | Exclude visible geometry.                                 |
+| <strong>visDrawRegionIncludeDataGraphics</strong> | &;H40      | Include data graphic callout shapes and their sub-shapes. |
+| <strong>visDrawRegionIncludeHidden</strong>       | &;H10      | Include hidden geometry.                                  |
+
 If the  **DrawRegion** method is passed a _ResultsMaster_ of type VT_EMPTY or VT_ERROR (which is how VBA passes an unspecified optional argument), the new shape is not an instance of a master and the fill, line, and text styles of the new region are set to the document's default styles.
 
 If the  **DrawRegion** method is passed a reference to a **Master** object in _ResultsMaster_ (type VT_UNKNOWN or VT_DISPATCH), the **DrawRegion** method instances that **Master** object and adds geometry computed given the **Selection** object.

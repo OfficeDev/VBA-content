@@ -45,9 +45,8 @@ To remove or apply a single border, use  **Borders** ( _index_ ), where **index*
 
 ```vb
 Dim rngTemp 
- 
-rngTemp.Borders(wdBorderBottom).LineStyle = wdLineStyleNone 
 
+rngTemp.Borders(wdBorderBottom).LineStyle = wdLineStyleNone 
 ```
 
 

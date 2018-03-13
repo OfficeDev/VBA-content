@@ -18,7 +18,7 @@ Occurs when the mouse is moved.
 
 ## Syntax
 
-Private Sub  _expression_ _**MouseMove**( **_ByVal Button As Long_** , **_ByVal KeyButtonState As Long_** , **_ByVal x As Double_** , **_ByVal y As Double_** , **_ByVal CancelDefault As Boolean_** )
+Private Sub  <em>expression</em> <em><strong>MouseMove</strong>( **_ByVal Button As Long</em>** , <strong><em>ByVal KeyButtonState As Long</em></strong> , <strong><em>ByVal x As Double</em></strong> , <strong><em>ByVal y As Double</em></strong> , <strong><em>ByVal CancelDefault As Boolean</em></strong> )
 
  _expression_ A variable that represents a **Windows** object.
 
@@ -41,22 +41,24 @@ Possible values for  _Button_ are shown in the following table, and are declared
 
 
 
-|**Constant **|**Value **|
-|:-----|:-----|
-| **visMouseLeft**|1|
-| **visMouseMiddle**|16|
-| **visMouseRight**|2|
+| **Constant **                   | **Value ** |
+|:--------------------------------|:-----------|
+| <strong>visMouseLeft</strong>   | 1          |
+| <strong>visMouseMiddle</strong> | 16         |
+| <strong>visMouseRight</strong>  | 2          |
+
 Possible values for  _KeyButtonState_ can be a combination of the values shown in the following table, which are declared in **VisKeyButtonFlags** in the Visio type library. For example, if _KeyButtonState_ returns 9, it indicates that the user clicked the left mouse button while pressing CTRL.
 
 
 
-|**Constant **|**Value **|
-|:-----|:-----|
-| **visKeyControl**|8|
-| **visKeyShift**|4|
-| **visMouseLeft**|1|
-| **visMouseMiddle**|16|
-| **visMouseRight**|2|
+| **Constant **                   | **Value ** |
+|:--------------------------------|:-----------|
+| <strong>visKeyControl</strong>  | 8          |
+| <strong>visKeyShift</strong>    | 4          |
+| <strong>visMouseLeft</strong>   | 1          |
+| <strong>visMouseMiddle</strong> | 16         |
+| <strong>visMouseRight</strong>  | 2          |
+
 If you set  _CancelDefault_ to **True** , Visio will not process the message received when the mouse button is clicked.
 
 Unlike some other Visio events,  **MouseMove** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **MouseMove** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
@@ -77,60 +79,60 @@ To run this example, insert a new class module in your VBA project, name it  **M
 
 ```vb
 Dim WithEvents vsoWindow As Visio.Window 
- 
+
 Private Sub Class_Initialize() 
- 
+
  Set vsoWindow = ActiveWindow 
- 
+
 End Sub 
- 
+
 Private Sub Class_Terminate() 
- 
+
  Set vsoWindow = Nothing 
- 
+
 End Sub 
- 
+
 Private Sub vsoWindow_MouseDown(ByVal Button As Long, ByVal KeyButtonState As Long, ByVal x As Double, ByVal y As Double, CancelDefault As Boolean) 
- 
+
  If Button = 1 Then 
- 
+
  Debug.Print "Left mouse button clicked" 
- 
+
  ElseIf Button = 2 Then 
- 
+
  Debug.Print "Right mouse button clicked" 
- 
+
  ElseIf Button = 16 Then 
- 
+
  Debug.Print "Center mouse button clicked" 
- 
+
  End If 
- 
+
 End Sub 
- 
+
 Private Sub vsoWindow_MouseMove(ByVal Button As Long, ByVal KeyButtonState As Long, ByVal x As Double, ByVal y As Double, CancelDefault As Boolean) 
- 
+
  Debug.Print "x-position is "; x 
  Debug.Print "y-position is "; y 
- 
+
 End Sub 
- 
+
 Private Sub vsoWindow_MouseUp(ByVal Button As Long, ByVal KeyButtonState As Long, ByVal x As Double, ByVal y As Double, CancelDefault As Boolean) 
- 
+
  If Button = 1 Then 
- 
+
  Debug.Print "Left mouse button released" 
- 
+
  ElseIf Button = 2 Then 
- 
+
  Debug.Print "Right mouse button released" 
- 
+
  ElseIf Button = 16 Then 
- 
+
  Debug.Print "Center mouse button released" 
- 
+
  End If 
- 
+
 End Sub
 ```
 
@@ -141,17 +143,17 @@ Then, insert the following code in the  **ThisDocument** project.
 
 ```vb
 Dim myMouseListener As MouseListener 
- 
+
 Private Sub Document_DocumentSaved(ByVal doc As IVDocument) 
- 
+
  Set myMouseListener = New MouseListener 
- 
+
 End Sub 
- 
+
 Private Sub Document_BeforeDocumentClose(ByVal doc As IVDocument) 
- 
+
  Set myMouseListener = Nothing 
- 
+
 End Sub
 ```
 

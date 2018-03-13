@@ -18,11 +18,10 @@ Integers use less memory than the [Variant data type](vbe-glossary.md) and are s
 Dim CountFaster As Integer    ' First case, use Integer. 
 For CountFaster = 0 to 32766     
 Next CountFaster 
- 
+
 Dim CountSlower As Variant    ' Second case, use Variant. 
 For CountSlower = 0 to 32766 
 Next CountSlower 
-
 ```
 
 

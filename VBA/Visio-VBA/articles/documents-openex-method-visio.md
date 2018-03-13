@@ -45,17 +45,18 @@ The Flags argument should be a combination of zero or more of the following valu
 
 
 
-|** Constant**|** Value**|
-|:-----|:-----|
-| **visOpenCopy**| &;H1|
-| **visOpenRO**| &;H2|
-| **visOpenDocked**| &;H4|
-| **visOpenDontList**| &;H8|
-| **visOpenMinimized**| &;H10|
-| **visOpenRW**| &;H20|
-| **visOpenHidden**| &;H40|
-| **visOpenMacrosDisabled**| &;H80|
-| **visOpenNoWorkspace**|&;H100|
+| ** Constant**                          | ** Value** |
+|:---------------------------------------|:-----------|
+| <strong>visOpenCopy</strong>           | &;H1       |
+| <strong>visOpenRO</strong>             | &;H2       |
+| <strong>visOpenDocked</strong>         | &;H4       |
+| <strong>visOpenDontList</strong>       | &;H8       |
+| <strong>visOpenMinimized</strong>      | &;H10      |
+| <strong>visOpenRW</strong>             | &;H20      |
+| <strong>visOpenHidden</strong>         | &;H40      |
+| <strong>visOpenMacrosDisabled</strong> | &;H80      |
+| <strong>visOpenNoWorkspace</strong>    | &;H100     |
+
 If  **visOpenDocked** is specified, the file appears in a docked rather than an MDI window, provided that the file is a stencil file and there is an active drawing window in which to put the docked stencil window.
 
 If  **visOpenDontList** is specified, the name of the opened file does not appear in the list of recently opened documents in the **Recent Documents** list on the **Recent** tab (click the **File** tab, and then click **Recent**).
@@ -72,7 +73,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVDocuments.OpenEx(string, short)**
-    
+
 
 ## Example
 
@@ -80,12 +81,12 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 
 ```vb
- 
+
 Public Sub OpenEx_Example()  
- 
+
     'Use the OpenEx method to open a copy of a stencil.  
     Documents.OpenEx "Basic_U.vss", visOpenDocked + visOpenCopy  
- 
+
 End Sub
 ```
 

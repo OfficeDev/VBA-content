@@ -23,8 +23,6 @@ Multiline scripts can be created by embedding carriage-return characters ( **Chr
 
 ```
 ThePath$ = Macscript("ChooseFile")
-
-
 ```
 
 

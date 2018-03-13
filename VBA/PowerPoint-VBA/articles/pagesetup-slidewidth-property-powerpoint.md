@@ -41,8 +41,6 @@ With Application.ActivePresentation.PageSetup
     .SlideHeight = 8.5 * 72
 
 End With
-
-
 ```
 
 

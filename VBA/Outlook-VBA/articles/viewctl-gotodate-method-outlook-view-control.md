@@ -20,7 +20,7 @@ Opens a calendar view of a specific date.
 
  _expression_. **GoToDate** **_(newDate)_**
 
- _expression _ A variable that represents a **ViewCtl** object.
+ <em>expression </em> A variable that represents a <strong>ViewCtl</strong> object.
 
 
 ## Parameters

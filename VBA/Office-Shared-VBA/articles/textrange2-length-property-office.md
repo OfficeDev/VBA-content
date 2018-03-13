@@ -35,13 +35,13 @@ Sub SetTextRange()
  Dim shpStar As Shape 
  Dim sldOne As Slide 
  Dim effNew As Effect 
- 
+
  Set sldOne = ActivePresentation.Slides(1) 
  Set shpStar = sldOne.Shapes.AddShape(Type:=msoShape5pointStar, _ 
  Left:=32, Top:=32, Width:=300, Height:=300) 
- 
+
  shpStar.TextFrame.TextRange2.Text = "Animated shape." 
- 
+
  Set effNew = sldOne.TimeLine.MainSequence.AddEffect(Shape:=shpStar, _ 
  EffectId:=msoAnimEffectPath5PointStar, Level:=msoAnimateTextByAllLevels, _ 
  Trigger:=msoAnimTriggerAfterPrevious) 
@@ -55,7 +55,6 @@ Sub SetTextRange()
  End If 
  End With 
 End Sub 
-
 ```
 
 

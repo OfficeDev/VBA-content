@@ -38,10 +38,9 @@ Dim objCustomXMLSchema As  CustomXMLSchema
 Dim strSchemaLocation As String 
 ' Set the location of the schema.. 
 objCustomXMLSchema.Location = "c:\mySchema.xsd" 
- 
+
 ' Reload the schema. 
 objCustomXMLSchema.Reload 
-
 ```
 
 

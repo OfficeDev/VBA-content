@@ -20,13 +20,15 @@ Renames a disk file, directory, or folder.
 The  **Name** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _oldpathname_|Required. [String expression](vbe-glossary.md) that specifies the existing file name and location — may include directory or folder, and drive.|
-| _newpathname_|Required. String expression that specifies the new file name and location — may include directory or folder, and drive. The file name specified by  _newpathname_ can't already exist.|
- **Remarks**
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                  |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>oldpathname</em>  | Required. [String expression](vbe-glossary.md) that specifies the existing file name and location — may include directory or folder, and drive.                                               |
+| <em>newpathname</em>  | Required. String expression that specifies the new file name and location — may include directory or folder, and drive. The file name specified by  <em>newpathname</em> can't already exist. |
+
+ <strong>Remarks</strong>
 The Name statement renames a file and moves it to a different directory or folder, if necessary. Name can move a file across drives, but it can only rename an existing directory or folder when both newpathname and oldpathname are located on the same drive. Name cannot create a new file, directory, or folder.
-Using  **Name** on an open file produces an error. You must close an open file before renaming it. **Name**[arguments](vbe-glossary.md) cannot include multiple-character ( **\*** ) and single-character ( **?** ) wildcards.
+Using  
+<strong>Name</strong> on an open file produces an error. You must close an open file before renaming it. <strong>Name</strong>[arguments](vbe-glossary.md) cannot include multiple-character ( <strong>\</strong>* ) and single-character ( <strong>?</strong> ) wildcards.
 
 ## Example
 
@@ -37,10 +39,9 @@ This example uses the  **Name** statement to rename a file. For purposes of this
 Dim OldName, NewName 
 OldName = "OLDFILE": NewName = "NEWFILE" ' Define file names. 
 Name OldName As NewName ' Rename file. 
- 
+
 OldName = "C:\MYDIR\OLDFILE": NewName = "C:\YOURDIR\NEWFILE" 
 Name OldName As NewName ' Move and rename file. 
-
 ```
 
 

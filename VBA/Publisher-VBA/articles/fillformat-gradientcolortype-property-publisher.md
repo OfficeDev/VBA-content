@@ -42,7 +42,7 @@ This example changes the fill for all shapes on the first page of the active pub
 
 ```vb
 Dim shpLoop As Shape 
- 
+
 ' Loop through collection of shapes. 
 For Each shpLoop In ActiveDocument.Pages(1).Shapes 
  With shpLoop.Fill 
@@ -54,7 +54,6 @@ For Each shpLoop In ActiveDocument.Pages(1).Shapes
  End If 
  End With 
 Next shpLoop 
-
 ```
 
 

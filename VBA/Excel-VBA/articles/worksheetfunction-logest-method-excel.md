@@ -45,7 +45,7 @@ The equation for the curve is:
 
 y = b*m^x or
 
-y = (b*(m1^x1)*(m2^x2)*_) (if there are multiple x-values)
+y = (b<em>(m1^x1)</em>(m2^x2)*_) (if there are multiple x-values)
 
 where the dependent y-value is a function of the independent x-values. The m-values are bases corresponding to each exponent x-value, and b is a constant value. Note that y, x, and m can be vectors. The array that LOGEST returns is {mn,mn-1,...,m1,b}.
 

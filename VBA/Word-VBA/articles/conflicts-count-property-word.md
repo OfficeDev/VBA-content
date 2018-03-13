@@ -30,9 +30,8 @@ The following code example gets the number of  **Conflict** objects in the activ
 
 ```vb
 Dim confCount as Long 
- 
-confCount = ActiveDocument.CoAuthoring.Conflicts.Count 
 
+confCount = ActiveDocument.CoAuthoring.Conflicts.Count 
 ```
 
 

@@ -62,7 +62,6 @@ Dim rst As New ADODB.Recordset
 rst.Open "Contacts",CurrentProject.Connection, _ 
  adOpenKeySet,adLockOptimistic 
 Debug.Print rst!AddNew 
-
 ```
 
 

@@ -31,8 +31,6 @@ This example uses the  **Cos** function to return the cosine of an angle.
 Dim MyAngle, MySecant
 MyAngle = 1.3    ' Define angle in radians.
 MySecant = 1 / Cos(MyAngle)    ' Calculate secant.
-
-
 ```
 
 

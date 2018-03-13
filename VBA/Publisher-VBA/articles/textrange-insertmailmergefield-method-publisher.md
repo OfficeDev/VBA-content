@@ -60,12 +60,11 @@ This example adds a text box to the specified publication's catalog merge area, 
 ```vb
 Set pbTextBox1 = ThisDocument.Pages(1).Shapes.AddTextbox(1, 100, 100, 175, 25) 
 pbTextBox1.AddToCatalogMergeArea 
- 
+
 With pbTextBox1.TextFrame.TextRange 
  .Text = "List Price: " 
  .InsertMailMergeField "List Price" 
 End With 
-
 ```
 
 

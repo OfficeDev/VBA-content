@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 - In the form region manifest XML file, specify  **false** as the value of the **hidden** element.
-    
+
 The following example disables a replacement form region from being used to create a new item or from being modified in the Forms Designer:
 
 

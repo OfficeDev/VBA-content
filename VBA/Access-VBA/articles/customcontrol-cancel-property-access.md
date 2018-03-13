@@ -29,10 +29,11 @@ The  **Cancel** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The command button is the Cancel button.|
-|No|**False**|(Default) The command button isn't the Cancel button.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                          |
+|:-------------------------|:------------------------------|:------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The command button is the Cancel button.              |
+| No                       | <strong>False</strong>        | (Default) The command button isn't the Cancel button. |
+
 Setting the  **Cancel** property to Yes makes the command button the Cancel button in the form. However, you must still write the macro or Visual Basic event procedure that performs whatever action or actions you want the Cancel button to carry out (for example, closing the form without saving any changes to it). Set the command button's **OnClick** event property to the name of the macro or event procedure.
 
 When a command button's  **Cancel** property setting is Yes and the Form window is active, the user can choose the command button by pressing ESC, by pressing ENTER when the command button has the focus, or by clicking the command button.

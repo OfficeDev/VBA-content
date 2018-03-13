@@ -19,18 +19,20 @@ Returns or sets a value indicating whether a command button is the Cancel button
 The  **Cancel** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the object is the Cancel button.|
+| <strong>Part</strong> | <strong>Description</strong>                       |
+|:----------------------|:---------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                          |
+| <em>Boolean</em>      | Optional. Whether the object is the Cancel button. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The  **CommandButton** is the Cancel button.|
-|**False**|The  **CommandButton** is not the Cancel button (default).|
+| <strong>Value</strong> | <strong>Description</strong>                                            |
+|:-----------------------|:------------------------------------------------------------------------|
+| <strong>True</strong>  | The  <strong>CommandButton</strong> is the Cancel button.               |
+| <strong>False</strong> | The  <strong>CommandButton</strong> is not the Cancel button (default). |
+
  **Remarks**
 A  **CommandButton** or an object that acts like a command button can be designated as the default command button. For[OLE container controls](glossary-vba.md) (Windows only), the **Cancel** property is provided only for those objects that specifically behave as command buttons.
 Only one  **CommandButton** on a form can be the Cancel button. Setting **Cancel** to **True** for one command button automatically sets it to **False** for all other objects on the form. When a **CommandButton's Cancel** property is set to **True** and the form is the active form, the user can choose the command button by clicking it, pressing ESC, or pressing ENTER when the button has the[focus](vbe-glossary.md).

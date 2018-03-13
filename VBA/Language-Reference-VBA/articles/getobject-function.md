@@ -19,17 +19,19 @@ Returns a reference to an object provided by an ActiveX component.
 The  **GetObject** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_pathname_**|Optional;  **Variant** ( **String** ). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
-|**_class_**|Optional;  **Variant** ( **String** ). A string representing the[class](vbe-glossary.md) of the object.|
+| <strong>Part</strong>              | <strong>Description</strong>                                                                                                                                                                                                          |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>pathname</em></strong> | Optional;  <strong>Variant</strong> ( <strong>String</strong> ). The full path and name of the file containing the object to retrieve. If <strong><em>pathname</em></strong> is omitted, <strong><em>class</em></strong> is required. |
+| <strong><em>class</em></strong>    | Optional;  <strong>Variant</strong> ( <strong>String</strong> ). A string representing the[class](vbe-glossary.md) of the object.                                                                                                     |
+
 The  **_class_**[argument](vbe-glossary.md) uses the syntax _appname_**.**_objecttype_ and has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _appname_|Required;  **Variant** ( **String** ). The name of the application providing the object.|
-| _objecttype_|Required;  **Variant** ( **String** ). The type or class of object to create.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                       |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------|
+| <em>appname</em>      | Required;  <strong>Variant</strong> ( <strong>String</strong> ). The name of the application providing the object. |
+| <em>objecttype</em>   | Required;  <strong>Variant</strong> ( <strong>String</strong> ). The type or class of object to create.            |
+
  **Remarks**
 Use the  **GetObject** function to access an ActiveX object from a file and assign the object to an[object variable](vbe-glossary.md). Use the  **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
 

@@ -34,7 +34,6 @@ With pptSlide.Shapes.AddShape(msoShapeRectangle, 0, 0, 250, 140).TextFrame2
  .MarginRight = 10 
  .MarginTop = 10 
 End With 
-
 ```
 
 

@@ -32,7 +32,7 @@ The sample performs the following actions:
     
       - The sample sets the  **[IsSelected](navigationfolder-isselected-property-outlook.md)** property to **True** to display it in the active explorer.
     
-  - The sample then sets the  **IsSideBySide** property to **False** to display it by default in overlay mode.
+   - The sample then sets the  **IsSideBySide** property to **False** to display it by default in overlay mode.
     
 
 

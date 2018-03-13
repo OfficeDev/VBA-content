@@ -21,11 +21,12 @@ The required  _number_[argument](vbe-glossary.md) is any valid[numeric expressio
 If  _number_ is not already a whole number, it is rounded to the nearest whole number before being evaluated.
 
 
-|**If  _number_ is**|**Oct returns**|
-|:-----|:-----|
-|[Null](vbe-glossary.md)|**Null**|
-|[Empty](vbe-glossary.md)|Zero (0)|
-|Any other number|Up to 11 octal characters|
+| <strong>If  <em>number</em> is</strong> | <strong>Oct returns</strong> |
+|:----------------------------------------|:-----------------------------|
+| [Null](vbe-glossary.md)                 | <strong>Null</strong>        |
+| [Empty](vbe-glossary.md)                | Zero (0)                     |
+| Any other number                        | Up to 11 octal characters    |
+
 You can represent octal numbers directly by preceding numbers in the proper range with  `&;O`. For example, . For example,  `&;O10` is the octal notation for decimal 8.
 
 ## Example
@@ -38,8 +39,6 @@ Dim MyOct
 MyOct = Oct(4)     ' Returns 4.
 MyOct = Oct(8)    ' Returns 10.
 MyOct = Oct(459)    ' Returns 713.
-
-
 ```
 
 

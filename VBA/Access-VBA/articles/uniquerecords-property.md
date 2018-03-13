@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueRecords Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -33,14 +33,16 @@ You can use the  **UniqueRecords** property to specify whether to return only un
 ## Setting
 <a name="sectionSection0"> </a>
 
+
 The  **UniqueRecords** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|Yes|Doesn't return duplicate records.|
-|No|(Default) Returns duplicate records.|
+| <strong>Setting</strong> | <strong>Description</strong>         |
+|:-------------------------|:-------------------------------------|
+| Yes                      | Doesn't return duplicate records.    |
+| No                       | (Default) Returns duplicate records. |
+
 You can set the  **UniqueRecords** property in the query's property sheet or in SQL view of the Query window.
 
 
@@ -49,6 +51,7 @@ You can set the  **UniqueRecords** property in the query's property sheet or in 
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 You can use the  **UniqueRecords** property when you want to omit data based on entire duplicate records, not just duplicate fields. Microsoft Access considers a record to be unique as long as the value in one field in the record differs from the value in the same field in another record.
 
@@ -60,11 +63,13 @@ The  **UniqueRecords** and **UniqueValues** properties are related in that only 
 ## Example
 <a name="sectionSection2"> </a>
 
+
 The query in this example returns a list of customers from the Customers table who have at least one order in the Orders table.
 
 
 ## Customers table
 <a name="sectionSection3"> </a>
+
 
 
 
@@ -80,13 +85,15 @@ The query in this example returns a list of customers from the Customers table w
 
 
 
-|**Customer ID**|**Order ID**|
-|:-----|:-----|
-|ERNSH|10698|
-|FAMIA|10512|
-|FAMIA|10725|
-|FOLIG|10763|
-|FOLIG|10408|
+
+| <strong>Customer ID</strong> | <strong>Order ID</strong> |
+|:-----------------------------|:--------------------------|
+| ERNSH                        | 10698                     |
+| FAMIA                        | 10512                     |
+| FAMIA                        | 10725                     |
+| FOLIG                        | 10763                     |
+| FOLIG                        | 10408                     |
+
 The following SQL statement returns the customer names in the following table:
 
 
@@ -94,16 +101,16 @@ The following SQL statement returns the customer names in the following table:
 SELECT DISTINCTROW Customers.CompanyName, Customers.CustomerID 
 FROM Customers INNER JOIN Orders 
 ON Customers.CustomerID = Orders.CustomerID; 
- 
 ```
 
 
 
-|**Customers returned**|**Customer ID**|
-|:-----|:-----|
-|Ernst Handel|ERNSH|
-|Familia Arquibaldo|FAMIA|
-|Folies gourmandes|FOLIG|
+| <strong>Customers returned</strong> | <strong>Customer ID</strong> |
+|:------------------------------------|:-----------------------------|
+| Ernst Handel                        | ERNSH                        |
+| Familia Arquibaldo                  | FAMIA                        |
+| Folies gourmandes                   | FOLIG                        |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

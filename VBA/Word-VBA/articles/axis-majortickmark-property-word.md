@@ -29,13 +29,13 @@ Returns or sets the type of major tick mark for the specified axis. Read/write  
 
 
 -  **xlTickMarkInside**
-    
+
 -  **xlTickMarkOutside**
-    
+
 -  **xlTickMarkCross**
-    
+
 -  **xlTickMarkNone**
-    
+
 
 ## Example
 
@@ -48,7 +48,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.Axes(xlValue).MajorTickMark = xlTickMarkOutside 
  End If 
 End With 
-
 ```
 
 

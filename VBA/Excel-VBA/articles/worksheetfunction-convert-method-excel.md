@@ -118,17 +118,18 @@ Double
 |Kelvin|"K" (or "kel")|
 
 
-|**Liquid measure**|**From_unit or to_unit**|
-|:-----|:-----|
-|Teaspoon|"tsp"|
-|Tablespoon|"tbs"|
-|Fluid ounce|"oz"|
-|Cup|"cup"|
-|U.S. pint|"pt" (or "us_pt")|
-|U.K. pint|"uk_pt"|
-|Quart|"qt"|
-|Gallon|"gal"|
-|Liter|"l" (or "lt")|
+| <strong>Liquid measure</strong> | <strong>From_unit or to_unit</strong> |
+|:--------------------------------|:--------------------------------------|
+| Teaspoon                        | "tsp"                                 |
+| Tablespoon                      | "tbs"                                 |
+| Fluid ounce                     | "oz"                                  |
+| Cup                             | "cup"                                 |
+| U.S. pint                       | "pt" (or "us_pt")                     |
+| U.K. pint                       | "uk_pt"                               |
+| Quart                           | "qt"                                  |
+| Gallon                          | "gal"                                 |
+| Liter                           | "l" (or "lt")                         |
+
 The following abbreviated unit prefixes can be prepended to any metric from_unit or to_unit. 
 
 
@@ -153,15 +154,15 @@ The following abbreviated unit prefixes can be prepended to any metric from_unit
 |atto|1E-18|"a"|
 
 - If the input data types are incorrect, Convert generates an error.
-    
+
 - If the unit does not exist, Convert generates an error.
-    
+
 - If the unit does not support an abbreviated unit prefix, Convert generates an error.
-    
+
 - If the units are in different groups, Convert generates an error.
-    
+
 - Unit names and prefixes are case-sensitive.
-    
+
 
 ## See also
 

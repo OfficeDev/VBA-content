@@ -23,9 +23,8 @@ The following example adds a  **CustomXMLSchema** object to a **CustomXMLSchemaC
 
 ```
 Dim SchemaCollection As CustomXMLSchemaCollection 
- 
-SchemaCollection.Add "http://tempuri.org/XMLSchema.xsd" 
 
+SchemaCollection.Add "http://tempuri.org/XMLSchema.xsd" 
 ```
 
 

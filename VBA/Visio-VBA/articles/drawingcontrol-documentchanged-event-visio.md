@@ -15,7 +15,7 @@ Occurs after certain properties of a document are changed.
 
 ## Syntax
 
-Private Sub  _expression_ _**DocumentChanged**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>DocumentChanged</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

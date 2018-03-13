@@ -36,7 +36,6 @@ The following code illustrates how to instantiate the  **AccessDeveloperExtensio
 
 ```vb
 Set objADE = Application.COMAddIns("AccessAddIn.ADE").Object 
-
 ```
 
 The following code illustrates how to instantiate the  **AccessDeveloperExtensions** object by using the **CreateObject** method.
@@ -46,7 +45,6 @@ The following code illustrates how to instantiate the  **AccessDeveloperExtensio
 
 ```vb
 Set objADE = CreateObject("AccessAddIn.ADE") 
-
 ```
 
 The following example wraps the steps necessary to call the  **CreateInstallPackage** method in a subroutine named **CreatePackage**. To use this example, pass the path and file name of the wizard template file to the subroutine. A deployment package will be created.
@@ -56,15 +54,15 @@ The following example wraps the steps necessary to call the  **CreateInstallPack
 
 ```vb
 Sub CreatePackage(strSettingsPath As String) 
-     
+
     Dim objAde As AccessDeveloperExtensions 
-     
+
     ' Instantiate a AccessDeveloperExtensions object. 
     Set objAde = Application.COMAddIns("AccessAddIn.ADE").Object 
-     
+
     ' Create the deployment package. 
     objAde.CreateInstallPackage strSettingsFilePath 
-     
+
     Set objAde = Nothing 
 End Sub
 ```
@@ -73,7 +71,7 @@ To use this example, you must set a reference to the Access Developer Extensions
 
 
 1. On the  **Tools** menu, click **References**.
-    
+
 2. Select the  **Microsoft Office Access Developer Extensions Type Library 1.0** check box, and then click **OK**.
-    
+
 

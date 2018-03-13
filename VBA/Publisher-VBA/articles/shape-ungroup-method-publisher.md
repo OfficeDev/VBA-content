@@ -42,11 +42,10 @@ This example ungroups any grouped shapes on the first page of the active publica
 
 ```vb
 Dim shpLoop As Shape 
- 
+
 For Each shpLoop In ActiveDocument.Pages(1).Shapes 
  If shpLoop.Type = pbGroup Then shpLoop.Ungroup 
 Next shpLoop 
-
 ```
 
 

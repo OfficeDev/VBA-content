@@ -46,7 +46,6 @@ The following example sets the status bar text to be displayed when the "Address
 ```vb
 Forms("Mailing List").Controls("Address_TextBox"). _ 
  StatusBarText = "Enter the company's mailing address." 
-
 ```
 
 

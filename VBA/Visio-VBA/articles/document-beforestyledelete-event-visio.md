@@ -18,7 +18,7 @@ Occurs before a style is deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeStyleDelete**( **_ByVal Style As [IVSTYLE]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeStyleDelete</strong>( **_ByVal Style As [IVSTYLE]</em>** )
 
  _expression_ A variable that represents a **Document** object.
 

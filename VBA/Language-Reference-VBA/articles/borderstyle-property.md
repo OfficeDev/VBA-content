@@ -21,18 +21,20 @@ Specifies the type of border used by a control or a form.
 The  **BorderStyle** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmBorderStyle_|Optional. Specifies the border style.|
+| <strong>Part</strong>  | <strong>Description</strong>          |
+|:-----------------------|:--------------------------------------|
+| <em>object</em>        | Required. A valid object.             |
+| <em>fmBorderStyle</em> | Optional. Specifies the border style. |
+
  **Settings**
 The settings for  _fmBorderStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmBorderStyleNone_|0|The control has no visible border line.|
-| _fmBorderStyleSingle_|1|The control has a single-line border (default).|
+| <strong>Constant</strong>    | <strong>Value</strong> | <strong>Description</strong>                    |
+|:-----------------------------|:-----------------------|:------------------------------------------------|
+| <em>fmBorderStyleNone</em>   | 0                      | The control has no visible border line.         |
+| <em>fmBorderStyleSingle</em> | 1                      | The control has a single-line border (default). |
+
 The default value for a  **ComboBox**, **Frame**, **Label**, **ListBox** or **TextBox** is 0 ( _None_ ). The default value for an **Image** is 1 ( _Single_ ).
  **Remarks**
 For a  **Frame**, the **BorderStyle** property is ignored if the **SpecialEffect** property is _None_.

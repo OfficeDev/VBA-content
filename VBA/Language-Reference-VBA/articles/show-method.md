@@ -21,18 +21,20 @@ Displays a  **UserForm** object.
 The  **Show** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Optional. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** associated with the active **UserForm**[module](vbe-glossary.md) is assumed to be _object._|
-| _modal_|Optional. Boolean value that determines if the  **UserForm** is modal or modeless.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                       |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Optional. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list. If <em>object</em> is omitted, the <strong>UserForm</strong> associated with the active <strong>UserForm</strong>[module](vbe-glossary.md) is assumed to be <em>object.</em> |
+| <em>modal</em>        | Optional. Boolean value that determines if the  <strong>UserForm</strong> is modal or modeless.                                                                                                                                                                                    |
+
  **Settings**
 The settings for  _modal_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbModal**|1|**UserForm** is modal. Default.|
-|**vbModeless**|0|**UserForm** is modeless.|
+| <strong>Constant</strong>   | <strong>Value</strong> | <strong>Description</strong>                 |
+|:----------------------------|:-----------------------|:---------------------------------------------|
+| <strong>vbModal</strong>    | 1                      | <strong>UserForm</strong> is modal. Default. |
+| <strong>vbModeless</strong> | 0                      | <strong>UserForm</strong> is modeless.       |
+
  **Remarks**
 If the specified object isn't loaded when the  **Show** method is invoked, Visual Basic automatically loads it.
 

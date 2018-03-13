@@ -35,12 +35,11 @@ This example reports the version of Microsoft Office Web Components in use for t
 
 ```vb
 Dim objChartSpace As ChartSpace 
- 
+
 Set objChartSpace = Forms(0).ChartSpace 
- 
+
 MsgBox "Current version of Office Web Components: " _ 
  &; objChartSpace.Version 
-
 ```
 
 

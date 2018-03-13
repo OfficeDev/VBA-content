@@ -13,19 +13,19 @@ You can specify custom actions for a form region. By default, four built-in acti
 When you create a custom action, you can specify the following characteristics in the form region manifest XML file that you register for the form region:
 
 - The display name for the custom action.
-    
+
 - Whether the custom action will be displayed on the ribbon of an inspector.
-    
+
 - The way that the resulting item will be addressed.
-    
+
 - The message class of the item that results from executing the action.
-    
+
 - The way that the body of the current item is included in the resulting item.
-    
+
 - The way that Outlook responds when executing the action.
-    
+
 - The prefix value in the subject of the resulting item.
-    
+
 For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
 ## Identifying Actions for a Form Region
@@ -37,9 +37,9 @@ Whether you choose to modify a built-in action or create a custom action, you de
 
 
 1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
-    
+
 2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
-    
+
 The following example assigns  `replyToBlog` as the internal name of one custom action, and `postToBlog` as the internal name of another custom action:
 
 
@@ -66,11 +66,11 @@ After you have identified an action in an  **action** element, you can further d
 
 
 1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
-    
+
 2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
-    
+
 3. Specify the display name of the action as the value of the child  **title** element of the **action** element.
-    
+
 The following example assigns  `replyToBlog` as the internal name of a custom action, and `Reply to Blog` as the display name of the action:
 
 
@@ -92,11 +92,11 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
 
 1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
-    
+
 2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
-    
+
 3. Specify  **true** as the value of the child **showOnRibbon** element of the **action** element.
-    
+
 The following example assigns  `replyToBlog` as the internal name of a custom action and specifies that it should not be displayed in the ribbon of an inspector:
 
 
@@ -121,11 +121,11 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
 
 1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
-    
+
 2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
-    
+
 3. Specify a value for the child  **addressLike** element of the **action** element.
-    
+
 The following example assigns  `replyToBlog` as the internal name of a custom action and specifies that the resulting new item will be addressed as a reply-all item, with all the original recipients copied over to the new item:
 
 
@@ -138,7 +138,6 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
         <!-- Further characterize this action -->
     </action>
 </customActions>
-
 ```
 
 

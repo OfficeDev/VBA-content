@@ -44,39 +44,40 @@ The meaning of  _Arg1_ and _Arg2_ depends on the _ElementID_ value, as shown in 
 
 
 
-|**_ElementID_**|**_Arg1_**|**_Arg2_**|
-|:-----|:-----|:-----|
-| **xlAxis**|AxisIndex|AxisType|
-| **xlAxisTitle**|AxisIndex|AxisType|
-| **xlDisplayUnitLabel**|AxisIndex|AxisType|
-| **xlMajorGridlines**|AxisIndex|AxisType|
-| **xlMinorGridlines**|AxisIndex|AxisType|
-| **xlPivotChartDropZone**|DropZoneType|None|
-| **xlPivotChartFieldButton**|DropZoneType|PivotFieldIndex|
-| **xlDownBars**|GroupIndex|None|
-| **xlDropLines**|GroupIndex|None|
-| **xlHiLoLines**|GroupIndex|None|
-| **xlRadarAxisLabels**|GroupIndex|None|
-| **xlSeriesLines**|GroupIndex|None|
-| **xlUpBars**|GroupIndex|None|
-| **xlChartArea**|None|None|
-| **xlChartTitle**|None|None|
-| **xlCorners**|None|None|
-| **xlDataTable**|None|None|
-| **xlFloor**|None|None|
-| **xlLegend**|None|None|
-| **xlNothing**|None|None|
-| **xlPlotArea**|None|None|
-| **xlWalls**|None|None|
-| **xlDataLabel**|SeriesIndex|PointIndex|
-| **xlErrorBars**|SeriesIndex|None|
-| **xlLegendEntry**|SeriesIndex|None|
-| **xlLegendKey**|SeriesIndex|None|
-| **xlSeries**|SeriesIndex|PointIndex|
-| **xlTrendline**|SeriesIndex|TrendLineIndex|
-| **xlXErrorBars**|SeriesIndex|None|
-| **xlYErrorBars**|SeriesIndex|None|
-| **xlShape**|ShapeIndex|None|
+| <strong><em>ElementID</em></strong>      | <strong><em>Arg1</em></strong> | <strong><em>Arg2</em></strong> |
+|:-----------------------------------------|:-------------------------------|:-------------------------------|
+| <strong>xlAxis</strong>                  | AxisIndex                      | AxisType                       |
+| <strong>xlAxisTitle</strong>             | AxisIndex                      | AxisType                       |
+| <strong>xlDisplayUnitLabel</strong>      | AxisIndex                      | AxisType                       |
+| <strong>xlMajorGridlines</strong>        | AxisIndex                      | AxisType                       |
+| <strong>xlMinorGridlines</strong>        | AxisIndex                      | AxisType                       |
+| <strong>xlPivotChartDropZone</strong>    | DropZoneType                   | None                           |
+| <strong>xlPivotChartFieldButton</strong> | DropZoneType                   | PivotFieldIndex                |
+| <strong>xlDownBars</strong>              | GroupIndex                     | None                           |
+| <strong>xlDropLines</strong>             | GroupIndex                     | None                           |
+| <strong>xlHiLoLines</strong>             | GroupIndex                     | None                           |
+| <strong>xlRadarAxisLabels</strong>       | GroupIndex                     | None                           |
+| <strong>xlSeriesLines</strong>           | GroupIndex                     | None                           |
+| <strong>xlUpBars</strong>                | GroupIndex                     | None                           |
+| <strong>xlChartArea</strong>             | None                           | None                           |
+| <strong>xlChartTitle</strong>            | None                           | None                           |
+| <strong>xlCorners</strong>               | None                           | None                           |
+| <strong>xlDataTable</strong>             | None                           | None                           |
+| <strong>xlFloor</strong>                 | None                           | None                           |
+| <strong>xlLegend</strong>                | None                           | None                           |
+| <strong>xlNothing</strong>               | None                           | None                           |
+| <strong>xlPlotArea</strong>              | None                           | None                           |
+| <strong>xlWalls</strong>                 | None                           | None                           |
+| <strong>xlDataLabel</strong>             | SeriesIndex                    | PointIndex                     |
+| <strong>xlErrorBars</strong>             | SeriesIndex                    | None                           |
+| <strong>xlLegendEntry</strong>           | SeriesIndex                    | None                           |
+| <strong>xlLegendKey</strong>             | SeriesIndex                    | None                           |
+| <strong>xlSeries</strong>                | SeriesIndex                    | PointIndex                     |
+| <strong>xlTrendline</strong>             | SeriesIndex                    | TrendLineIndex                 |
+| <strong>xlXErrorBars</strong>            | SeriesIndex                    | None                           |
+| <strong>xlYErrorBars</strong>            | SeriesIndex                    | None                           |
+| <strong>xlShape</strong>                 | ShapeIndex                     | None                           |
+
 The following table describes the meaning of the arguments.
 
 
@@ -101,12 +102,12 @@ This example overrides the default double-click behavior for the chart floor.
 ```vb
 Private Sub Chart_BeforeDoubleClick(ByVal ElementID As Long, _ 
  ByVal Arg1 As Long, ByVal Arg2 As Long, Cancel As Boolean) 
- 
+
  If ElementID = xlFloor Then 
  Cancel = True 
  MsgBox "Chart formatting for this item is restricted." 
  End If 
- 
+
 End Sub
 ```
 

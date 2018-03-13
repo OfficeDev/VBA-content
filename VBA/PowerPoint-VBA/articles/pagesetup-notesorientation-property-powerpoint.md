@@ -35,9 +35,11 @@ The value returned by the  **NotesOrientation** property can be one of these **M
 
 ||
 |:-----|
-|**msoOrientationHorizontal**|
-|**msoOrientationMixed**|
-|**msoOrientationVertical**|
+|<strong>msoOrientationHorizontal</strong>|
+|
+<strong>msoOrientationMixed</strong>|
+|
+<strong>msoOrientationVertical</strong>|
 
 ## Example
 

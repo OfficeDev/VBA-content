@@ -55,7 +55,6 @@ The following example creates a Microsoft Access project named "Order Entry.adp"
 
 ```vb
 Application.CreateAccessProject "C:\Order Entry.adp" 
-
 ```
 
 

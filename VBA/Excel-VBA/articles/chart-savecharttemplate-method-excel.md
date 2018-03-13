@@ -44,7 +44,6 @@ This example adds a new chart template based on the active chart.
 ```vb
 ActiveChart.SaveChartTemplate _ 
  Filename:="Presentation Chart" 
-
 ```
 
 

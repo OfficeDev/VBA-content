@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Format Property - Yes/No Data Type
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -27,17 +27,20 @@ You can set the  **Format** property to the Yes/No, **True** / **False**, or On/
 ## Setting
 <a name="sectionSection0"> </a>
 
+
 Microsoft Access uses a check box control as the default control for the Yes/No data type. Predefined and custom formats are ignored when a check box control is used. Therefore, these formats apply only to data that is displayed in a text box control.
 
 
 ## Predefined Formats
 <a name="sectionSection1"> </a>
 
+
 Yes,  **True**, and On are equivalent, as are No, **False**, and Off. If you specify one predefined format and then enter an equivalent value, the predefined format of equivalent value will be displayed. For example, if you enter **True** or On in a text box control with its **Format** property set to Yes/No, the value is automatically converted to Yes.
 
 
 ## Custom Formats
 <a name="sectionSection2"> </a>
+
 
 The Yes/No data type can use custom formats containing up to three sections.
 
@@ -51,6 +54,7 @@ The Yes/No data type can use custom formats containing up to three sections.
 
 ## Example
 <a name="sectionSection3"> </a>
+
 
 The following example shows a custom yes/no format for a text box control. The control displays the word "Always" in blue text for Yes,  **True**, or On, and the word "Never" in red text for No, **False**, or Off.
 

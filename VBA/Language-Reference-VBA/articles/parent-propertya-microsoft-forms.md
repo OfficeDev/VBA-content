@@ -19,9 +19,10 @@ Returns the name of the form, object, or [collection](vbe-glossary.md) that cont
 The  **Parent** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
  **Parent** is read-only.
 Use the  **Parent** property to access the properties, methods, or controls of an object's parent.

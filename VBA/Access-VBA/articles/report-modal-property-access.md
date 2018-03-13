@@ -29,10 +29,11 @@ The  **Modal** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The form or report opens as a modal window.|
-|No|**False**|(Default) The form opens as a non-modal window.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                    |
+|:-------------------------|:------------------------------|:------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The form or report opens as a modal window.     |
+| No                       | <strong>False</strong>        | (Default) The form opens as a non-modal window. |
+
 When you open a modal window, other windows in Microsoft Access are disabled until you close it (although you can switch to windows in other applications). To disable menus and toolbars in addition to other windows, set both the  **Modal** and **PopUp** properties to Yes.
 
 

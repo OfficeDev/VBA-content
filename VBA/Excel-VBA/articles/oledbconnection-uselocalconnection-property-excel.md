@@ -37,7 +37,6 @@ With ActiveWorkbook.PivotCaches(1)
  "OLEDB;Provider=MSOLAP;Data Source=C:\Data\DataCube.cub" 
  .UseLocalConnection = True 
 End With 
-
 ```
 
 

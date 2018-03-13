@@ -32,11 +32,15 @@ The value of the  **AfterEffect** property can be one of these **PpAfterEffect**
 
 ||
 |:-----|
-|**ppAfterEffectDim**|
-|**ppAnimAfterEffectHide**|
-|**ppAfterEffectHideOnNextClick**|
-|**ppAfterEffectMixed**|
-|**ppAfterEffectNone**|
+|<strong>ppAfterEffectDim</strong>|
+|
+<strong>ppAnimAfterEffectHide</strong>|
+|
+<strong>ppAfterEffectHideOnNextClick</strong>|
+|
+<strong>ppAfterEffectMixed</strong>|
+|
+<strong>ppAfterEffectNone</strong>|
 
 ## Example
 

@@ -36,7 +36,7 @@ The  **TimerInterval** property setting of the form specifies the interval, in m
 
 
 - [Delay Event/Actions for Set Time Interval](http://www.utteraccess.com/wiki/index.php/Delay_Event/Actions_for_Set_Time_Interval)
-    
+
 
 ## Example
 
@@ -57,11 +57,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

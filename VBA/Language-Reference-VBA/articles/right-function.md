@@ -19,10 +19,11 @@ Returns a  **Variant** ( **String** ) containing a specified number of character
 The  **Right** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_string_**|Required. [String expression](vbe-glossary.md) from which the rightmost characters are returned. If **_string_** contains[Null](vbe-glossary.md),  **Null** is returned.|
-|**_length_**|Required;  **Variant** ( **Long** ).[Numeric expression](vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|
+| <strong>Part</strong>            | <strong>Description</strong>                                                                                                                                                                                                                                                                                        |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>string</em></strong> | Required. [String expression](vbe-glossary.md) from which the rightmost characters are returned. If <strong><em>string</em></strong> contains[Null](vbe-glossary.md),  <strong>Null</strong> is returned.                                                                                                           |
+| <strong><em>length</em></strong> | Required;  <strong>Variant</strong> ( <strong>Long</strong> ).[Numeric expression](vbe-glossary.md) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in <strong><em>string</em></strong>, the entire string is returned. |
+
  **Remarks**
 To determine the number of characters in  **_string_**, use the **Len** function.
 
@@ -40,8 +41,6 @@ AnyString = "Hello World"    ' Define string.
 MyStr = Right(AnyString, 1)    ' Returns "d".
 MyStr = Right(AnyString, 6)    ' Returns " World".
 MyStr = Right(AnyString, 20)    ' Returns "Hello World".
-
-
 ```
 
 

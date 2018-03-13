@@ -50,26 +50,25 @@ The following are some possible uses of the  **ExecuteLine** method:
 'Executes the macro (procedure without an argument) named "SomeMacro" 
  'that is in some module of the Visual Basic project of ThisDocument. 
  ThisDocument.ExecuteLine("SomeMacro ") 
- 
+
  'Executes the procedure named SomeProcedure and passes it 3 arguments. 
  ThisDocument.ExecuteLine("SomeProcedure  1, 2, 3") 
- 
+
  'Same as previous example, but procedure name qualified 
  'with module name. 
  ThisDocument.ExecuteLine("Module1.SomeProcedure  1, 2, 3") 
- 
+
  'Shows the form UserForm1. 
  ThisDocument.ExecuteLine("UserForm1.Show") 
- 
+
  'Prints "some string" to the Immediate window. 
  ThisDocument.ExecuteLine("Debug.Print ""some string """) 
- 
+
  'Prints number of open documents to the Immediate window. 
  ThisDocument.ExecuteLine("Debug.Print Documents.Count") 
- 
+
  'Tells ThisDocument to save itself. 
  ThisDocument.ExecuteLine("ThisDocument.Save") 
-
 ```
 
 

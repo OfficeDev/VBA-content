@@ -48,12 +48,13 @@ The following table summarizes the interaction between these events.
 
 
 
-|**Event**|**Occurs when**|
-|:-----|:-----|
-|BeforeInsert|User types the first character in a new record.|
-|BeforeUpdate|User updates the record.|
-|AfterUpdate|Record is updated.|
-|AfterInsert|Record updated is a new record.|
+| <strong>Event</strong> | <strong>Occurs when</strong>                    |
+|:-----------------------|:------------------------------------------------|
+| BeforeInsert           | User types the first character in a new record. |
+| BeforeUpdate           | User updates the record.                        |
+| AfterUpdate            | Record is updated.                              |
+| AfterInsert            | Record updated is a new record.                 |
+
 If the first character in a new record is typed into a text box or combo box, the  **BeforeInsert** event occurs before the **Change** event.
 
 
@@ -73,7 +74,7 @@ Private Sub Form_BeforeInsert(Cancel As Integer)
  Cancel = True 
  End If 
 End Sub 
- 
+
 Private Sub Form_AfterInsert() 
  Forms!Employees.Requery 
 End Sub

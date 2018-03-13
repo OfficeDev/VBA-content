@@ -48,7 +48,6 @@ The following example lists files in the shared workspace site that were created
  vbInformation + vbOKOnly, "Files Created by Other Users" 
  Set swsOwner = Nothing 
  Set swsFile = Nothing 
-
 ```
 
 

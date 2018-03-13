@@ -66,12 +66,12 @@ Sub SplitComments()
    'Set up your variables
    Dim cmt As Comment
    Dim iRow As Integer
-   
+
    'Go through all the cells in Column C, and check to see if the cell has a comment.
    For iRow = 1 To WorksheetFunction.CountA(Columns(3))
       Set cmt = Cells(iRow, 3).Comment
       If Not cmt Is Nothing Then
-      
+
          'If there is a comment, paste the comment text into column D and delete the original comment.
          Cells(iRow, 4) = Cells(iRow, 3).Comment.Text
          Cells(iRow, 3).Comment.Delete
@@ -84,11 +84,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Concepts

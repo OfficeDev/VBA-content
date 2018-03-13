@@ -15,7 +15,7 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 ## Syntax
 
-Private Sub  _expression_ _**MasterDeleteCanceled**( **_ByVal master As [IVMASTER]_** )
+Private Sub  <em>expression</em> <em><strong>MasterDeleteCanceled</strong>( **_ByVal master As [IVMASTER]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

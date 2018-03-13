@@ -42,7 +42,6 @@ This example removes the personal information from the active document.
 
 ```vb
 ActiveDocument.RemovePersonalInformation = True 
-
 ```
 
 

@@ -25,12 +25,17 @@ Use  **Borders** (index), where index identifies the cell border or diagonal lin
 
 ||
 |:-----|
-|**ppBorderBottom**|
-|**ppBorderLeft**|
-|**ppBorderRight**|
-|**ppBorderTop**|
-|**ppBorderDiagonalDown**|
-|**ppBorderDiagonalUp**|
+|<strong>ppBorderBottom</strong>|
+|
+<strong>ppBorderLeft</strong>|
+|
+<strong>ppBorderRight</strong>|
+|
+<strong>ppBorderTop</strong>|
+|
+<strong>ppBorderDiagonalDown</strong>|
+|
+<strong>ppBorderDiagonalUp</strong>|
 
 ## Example
 

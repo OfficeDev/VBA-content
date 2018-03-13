@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OutputAllFields Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -29,14 +29,15 @@ The  **OutputAllFields** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|Yes|Displays all the fields in the underlying tables and in the field list of a form or report.|
-|No|(Default) Displays only fields that have the Show box selected in the query design grid.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                |
+|:-------------------------|:--------------------------------------------------------------------------------------------|
+| Yes                      | Displays all the fields in the underlying tables and in the field list of a form or report. |
+| No                       | (Default) Displays only fields that have the Show box selected in the query design grid.    |
+
 You can set this property only by using the query's property sheet.
 
 
- **Note**  The use of an asterisk (*) in an SQL statement in place of a field name is the equivalent of setting the  **OutputAllFields** property to Yes.
+ <strong>Note</strong>  The use of an asterisk (<em>) in an SQL statement in place of a field name is the equivalent of setting the  **OutputAllFields</em>* property to Yes.
 
 
 ## Remarks

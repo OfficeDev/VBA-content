@@ -41,14 +41,14 @@ This example adds a rectangle with a one-color gradient fill to the active docum
 ```vb
 With ActiveDocument
     
-	.Shapes.AddShape(msoShapeRectangle, _ 
+    .Shapes.AddShape(msoShapeRectangle, _ 
         90, 90, 90, 80).Fill 
 
     .ForeColor.RGB = RGB(0, 128, 128) 
 
     .OneColorGradient msoGradientHorizontal, 1, 1 
 
-	End With
+    End With
 ```
 
 

@@ -43,7 +43,7 @@ Range
 Unlike the  **[XmlDataQuery](worksheet-xmldataquery-method-excel.md)** method, the **XmlMapQuery** method returns the entire column of an XML list, including the header row.
 
 
- **Note**   **XmlMapQuery** allows developers to query for the existence of particular maps. It can not be used to query for a piece of data in a map. For example, it is valid for a mapped range to exist in which the XPath for that range is "/root/People[@Age="23"]/FirstName". An XmlMapQuery call for this XPath will returnreturns the correct range. However, a query for "/root/People[FirstName="Joe"]" expecting to find "Joe" within the above mapped range will fail because the XPath definitions for the mapped ranges are different.
+ <strong>Note</strong>   <strong>XmlMapQuery</strong> allows developers to query for the existence of particular maps. It can not be used to query for a piece of data in a map. For example, it is valid for a mapped range to exist in which the XPath for that range is "/root/People[@"Age=""23"]/FirstName". An XmlMapQuery call for this XPath will returnreturns the correct range. However, a query for "/root/People[FirstName="Joe"]" expecting to find "Joe" within the above mapped range will fail because the XPath definitions for the mapped ranges are different.
 
 
 ## See also

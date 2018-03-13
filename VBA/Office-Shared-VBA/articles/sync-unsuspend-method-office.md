@@ -47,7 +47,6 @@ The following example resumes document synchronization if it has been suspended.
             vbInformation + vbOKOnly, "Sync Status" 
     End If 
     Set objSync = Nothing 
-
 ```
 
 

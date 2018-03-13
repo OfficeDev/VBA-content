@@ -60,8 +60,6 @@ With Presentations.Add
     .SaveAs "Sample"
 
 End With
-
-
 ```
 
 

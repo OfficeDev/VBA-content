@@ -61,10 +61,10 @@ Dim sngPercent As Single
 Dim shpCrop As Shape 
 Dim sngPoints As Single 
 Dim sngHeight As Single 
- 
+
 sngPercent = InputBox("What percentage do you " &; _ 
  "want to crop off the top of this picture?") 
- 
+
 Set shpCrop = Selection.ShapeRange(1) 
 With shpCrop.Duplicate 
  .ScaleHeight Factor:=1, _ 
@@ -72,11 +72,10 @@ With shpCrop.Duplicate
  sngHeight = .Height 
  .Delete 
 End With 
- 
-sngPoints = sngHeight * sngPercent / 100 
- 
-shpCrop.PictureFormat.CropTop = sngPoints 
 
+sngPoints = sngHeight * sngPercent / 100 
+
+shpCrop.PictureFormat.CropTop = sngPoints 
 ```
 
 

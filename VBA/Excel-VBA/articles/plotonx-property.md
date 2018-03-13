@@ -23,7 +23,6 @@ This example sets row 0 as the row whose contents will be plotted as values on t
 
 ```
 myChart.PlotOnX = 0 
-
 ```
 
 

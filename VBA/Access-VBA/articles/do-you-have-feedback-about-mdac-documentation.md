@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Do You Have Feedback About MDAC Documentation?
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -24,14 +24,15 @@ The MDAC documentation now includes a  **Documentation Feedback** button at the 
 
 
 
-|**Documentation**|**Address**|
-|:-----|:-----|
-|MDAC Overview|mdacdoc@microsoft.com|
-|ADO|adodoc@microsoft.com|
-|OLE DB and providers|oledbdoc@microsoft.com|
-|ODBC and drivers|odbcdoc@microsoft.com|
-|MDAC technical articles|datech@microsoft.com|
-|MDAC samples|dacode@microsoft.com|
+| <strong>Documentation</strong> | <strong>Address</strong> |
+|:-------------------------------|:-------------------------|
+| MDAC Overview                  | mdacdoc@microsoft.com    |
+| ADO                            | adodoc@microsoft.com     |
+| OLE DB and providers           | oledbdoc@microsoft.com   |
+| ODBC and drivers               | odbcdoc@microsoft.com    |
+| MDAC technical articles        | datech@microsoft.com     |
+| MDAC samples                   | dacode@microsoft.com     |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

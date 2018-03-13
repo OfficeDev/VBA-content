@@ -45,35 +45,34 @@ The following Visual Basic for Applications (VBA) example configures the current
 ```
 Sub ConfigureDayViewFonts() 
  Dim objView As CalendarView 
- 
+
  ' Check if the current view is a calendar view. 
  If Application.ActiveExplorer.CurrentView.ViewType = _ 
  olCalendarView Then 
- 
+
  ' Obtain a CalendarView object reference for the 
  ' current calendar view. 
  Set objView = _ 
  Application.ActiveExplorer.CurrentView 
- 
+
  With objView 
  ' Set the calendar view to show a 
  ' single day. 
  .CalendarViewMode = olCalendarViewDay 
- 
+
  ' Set the DayWeekFont to 8-point Verdana. 
  .DayWeekFont.Name = "Verdana" 
  .DayWeekFont.Size = 8 
- 
+
  ' Set the DayWeekTimeFont to 16-point Verdana. 
  .DayWeekTimeFont.Name = "Verdana" 
  .DayWeekTimeFont.Size = 16 
- 
+
  ' Save the calendar view. 
  .Save 
  End With 
  End If 
 End Sub 
-
 ```
 
 

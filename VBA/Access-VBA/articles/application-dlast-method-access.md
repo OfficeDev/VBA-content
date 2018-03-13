@@ -90,13 +90,13 @@ The following examples show how to use various types of criteria with the  **DLa
     variable = DLast("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
              &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
             &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
-    
+
     ' Use two fields from a single record.
     variable = DLast("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
-            
+
     ' Expressions
     variable = DLast("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")
-    
+
     ' Control Structures
     variable = DLast("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
@@ -106,11 +106,13 @@ The following examples show how to use various types of criteria with the  **DLa
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

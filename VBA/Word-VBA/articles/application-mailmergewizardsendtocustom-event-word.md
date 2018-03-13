@@ -18,7 +18,7 @@ Occurs when the custom button is clicked during step six of the Mail Merge Wizar
 
 ## Syntax
 
-Private Sub  _expression_ _**MailMergeWizardSendToCustom**( **_ByVal Doc As Document_** )
+Private Sub  <em>expression</em> <em><strong>MailMergeWizardSendToCustom</strong>( **_ByVal Doc As Document</em>** )
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object that has been declared with events in a class module.
 

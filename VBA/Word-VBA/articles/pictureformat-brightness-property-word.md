@@ -30,9 +30,8 @@ This example sets the brightness for the first shape on the active document. The
 
 ```vb
 Dim docActive As Document 
- 
-Set docActive = ActiveDocument 
 
+Set docActive = ActiveDocument 
 ```
 
 

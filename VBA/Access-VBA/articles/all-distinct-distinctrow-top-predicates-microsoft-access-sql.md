@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ALL, DISTINCT, DISTINCTROW, TOP Predicates (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,14 +26,14 @@ A SELECT statement containing these predicates has the following parts:
 
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|ALL|Assumed if you do not include one of the predicates. The Microsoft Access database engine selects all of the records that meet the conditions in the SQL statement. The following two examples are equivalent and return all records from the Employees table:
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                   |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ALL                   | Assumed if you do not include one of the predicates. The Microsoft Access database engine selects all of the records that meet the conditions in the SQL statement. The following two examples are equivalent and return all records from the Employees table: |
+
 ```sql
 SELECT ALL * 
 FROM Employees 
 ORDER BY EmployeeID; 
-
 ```
 
 
@@ -95,28 +95,27 @@ Sub AllDistinctX()
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
-   
+
     ' Join the Customers and Orders tables on the  
     ' CustomerID field. Select a list of companies  
     ' that have at least one order. 
- 
+
     Set rst = dbs.OpenRecordset("SELECT DISTINCTROW " _ 
         &; "CompanyName FROM Customers " _ 
         &; "INNER JOIN Orders " _ 
         &; "ON Customers.CustomerID = " _ 
         &; "Orders.CustomerID " _ 
         &; "ORDER BY CompanyName;") 
- 
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 25 
     dbs.Close 
 End Sub 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

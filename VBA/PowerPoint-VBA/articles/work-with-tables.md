@@ -57,7 +57,6 @@ With ActivePresentation.Slides(2).Shapes(4).Table
     .Columns(1).Width = 110
     .Cell(2, 1).Shape.TextFrame.TextRange.Text = "Mallard"
 End With
-
 ```
 
 

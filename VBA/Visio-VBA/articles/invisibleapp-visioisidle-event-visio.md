@@ -15,7 +15,7 @@ Occurs after the application empties its message queue.
 
 ## Syntax
 
-Private Sub  _expression_ _**VisioIsIdle**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>VisioIsIdle</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

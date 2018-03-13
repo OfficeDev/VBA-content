@@ -35,6 +35,7 @@ _expression_ Required. A variable that represents a **[DocumentProperties](docum
 
 <br/>
 
+
 ## Remarks
 
 If you add a custom document property to the **DocumentProperties** collection that's linked to a given value in an Office document, you must save the document to see the change to the **DocumentProperty** object.
@@ -65,6 +66,7 @@ End With
 ```
 
 <br/>
+
 
 ## See also
 

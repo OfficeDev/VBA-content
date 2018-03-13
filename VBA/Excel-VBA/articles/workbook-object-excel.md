@@ -74,14 +74,14 @@ Sub SendTab()
    Dim wks As Worksheet
    Application.ScreenUpdating = False
    Set wks = ActiveSheet
-   
+
    'Copy the target worksheet, specified in cell C1, to the clipboard.
    Worksheets(Range("C1").Value).Copy
-   
+
    'Send the content in the clipboard to the email account specified in cell A1,
    'using the subject line specified in cell B1.
    ActiveWorkbook.SendMail wks.Range("A1").Value, wks.Range("B1").Value
-   
+
    'Do not save changes and turn screen updating back on.
    ActiveWorkbook.Close savechanges:=False
    Application.ScreenUpdating = True
@@ -331,11 +331,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Other resources

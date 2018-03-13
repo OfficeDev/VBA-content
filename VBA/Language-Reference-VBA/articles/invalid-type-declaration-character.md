@@ -16,19 +16,21 @@ ms.date: 06/08/2017
 
 
 - A type-declaration character is appended to a [variable](vbe-glossary.md) declared in a **Private**, **Public**, or **Static** statement with an **As** clause.
-    
+
     Remove the type-declaration character.
-    
+
 - A type-declaration character is appended to an inconsistent literal. For example, since the ampersand ( **&;** ) is the type-declaration character for a **Long** integer, appending it to a literal of a different type causes this error:
-    
+
   ```
   10.253&; 
 
   ```
 
 
-     Remove the type-declaration character or replace it with the correct one.
-    
+~~~
+ Remove the type-declaration character or replace it with the correct one.
+~~~
+
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

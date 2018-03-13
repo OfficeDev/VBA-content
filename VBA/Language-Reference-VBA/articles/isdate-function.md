@@ -41,7 +41,6 @@ MyCheck = IsDate(MyVar)    ' Returns True.
 
 MyVar = "04.28.2014"    ' Assign invalid time value.
 MyCheck = IsDate(MyVar)    ' Returns False.
-
 ```
 
 

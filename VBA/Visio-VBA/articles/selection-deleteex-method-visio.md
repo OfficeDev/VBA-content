@@ -42,13 +42,14 @@ Deletes additional shapes associated with the selection, such as connectors and 
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visDeleteNormal**|0|Match the deletion behavior in the user interface.|
-| **visDeleteHealConnectors**|1|Delete connectors attached to deleted shapes.|
-| **visDeleteNoHealConnectors**|2|Do not delete connectors attached to deleted shapes.|
-| **visDeleteNoContainerMembers**|4|Do not delete unselected members of containers or lists.|
-| **visDeleteNoAssociatedCallouts**|8|Do not delete unselected callouts associated with shapes.|
+| <strong>Constant</strong>                      | <strong>Value</strong> | <strong>Description</strong>                              |
+|:-----------------------------------------------|:-----------------------|:----------------------------------------------------------|
+| <strong>visDeleteNormal</strong>               | 0                      | Match the deletion behavior in the user interface.        |
+| <strong>visDeleteHealConnectors</strong>       | 1                      | Delete connectors attached to deleted shapes.             |
+| <strong>visDeleteNoHealConnectors</strong>     | 2                      | Do not delete connectors attached to deleted shapes.      |
+| <strong>visDeleteNoContainerMembers</strong>   | 4                      | Do not delete unselected members of containers or lists.  |
+| <strong>visDeleteNoAssociatedCallouts</strong> | 8                      | Do not delete unselected callouts associated with shapes. |
+
 In a bitwise combination of  _DelFlags_ constants, you cannot combine **visDeleteHealConnectors** and **visDeleteNoHealConnectors** . If you attempt to do so, Microsoft Visio returns an Invalid Parameter error.
 
 

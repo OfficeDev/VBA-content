@@ -18,15 +18,23 @@ Returns or sets the units displayed for the value axis in the specified chart. I
 
 
 |XlDisplayUnit can be one of these XlDisplayUnit constants.|
-| **xlHundredMillions**|
-| **xlHundreds**|
-| **xlHundredThousands**|
-| **xlMillionMillions**|
-| **xlMillions**|
-| **xlTenMillions**|
-| **xlTenThousands**|
-| **xlThousandMillions**|
-| **xlThousands**|
+| <strong>xlHundredMillions</strong>|
+| 
+<strong>xlHundreds</strong>|
+| 
+<strong>xlHundredThousands</strong>|
+| 
+<strong>xlMillionMillions</strong>|
+| 
+<strong>xlMillions</strong>|
+| 
+<strong>xlTenMillions</strong>|
+| 
+<strong>xlTenThousands</strong>|
+| 
+<strong>xlThousandMillions</strong>|
+| 
+<strong>xlThousands</strong>|
 
  _expression_. **DisplayUnit**
 

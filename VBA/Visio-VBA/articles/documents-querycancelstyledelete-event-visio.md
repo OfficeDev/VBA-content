@@ -18,7 +18,7 @@ Occurs before the application deletes a style in response to a user action in th
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelStyleDelete**( **_ByVal Style As [IVSTYLE]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelStyleDelete</strong>( **_ByVal Style As [IVSTYLE]</em>** )
 
  _expression_ A variable that represents a **Documents** object.
 

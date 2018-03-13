@@ -39,7 +39,6 @@ With ActiveChart.Axes(xlValue)
  .Characters(10, 8).Font.Italic = True 
  End With 
 End With 
-
 ```
 
 

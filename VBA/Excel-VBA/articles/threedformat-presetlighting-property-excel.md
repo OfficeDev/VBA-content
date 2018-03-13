@@ -26,35 +26,62 @@ Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Re
 
 
 
-|MsoLightRigType can be one of these  **MsoLightRigType** constants.|
-| **msoLightRigBalanced**|
-| **msoLightRigBrightRoom**|
-| **msoLightRigChilly**|
-| **msoLightRigContrasting**|
-| **msoLightRigFlat**|
-| **msoLightRigFlood**|
-| **msoLightRigFreezing**|
-| ** msoLightRigGlow**|
-| **msoLightRigHarsh**|
-| **msoLightRigLegacyFlat1**|
-| **msoLightRigLegacyFlat2**|
-| **msoLightRigLegacyFlat3**|
-| **msoLightRigLegacyFlat4**|
-| **msoLightRigLegacyHarsh1**|
-| **msoLightRigLegacyHarsh2**|
-| **msoLightRigLegacyHarsh3**|
-| **msoLightRigLegacyHarsh4**|
-| **msoLightRigLegacyNormal1**|
-| **msoLightRigLegacyNormal2**|
-| **msoLightRigLegacyNormal3**|
-| **msoLightRigLegacyNormal4**|
-| **msoLightRigMixed**|
-| **msoLightRigMorning**|
-| **msoLightRigSoft**|
-| **msoLightRigSunrise**|
-| **msoLightRigSunset**|
-| **msoLightRigThreePoint**|
-| ** msoLightRigTwoPoint**|
+|MsoLightRigType can be one of these  <strong>MsoLightRigType</strong> constants.|
+| 
+<strong>msoLightRigBalanced</strong>|
+| 
+<strong>msoLightRigBrightRoom</strong>|
+| 
+<strong>msoLightRigChilly</strong>|
+| 
+<strong>msoLightRigContrasting</strong>|
+| 
+<strong>msoLightRigFlat</strong>|
+| 
+<strong>msoLightRigFlood</strong>|
+| 
+<strong>msoLightRigFreezing</strong>|
+| 
+** msoLightRigGlow<strong>|
+| **msoLightRigHarsh</strong>|
+| 
+<strong>msoLightRigLegacyFlat1</strong>|
+| 
+<strong>msoLightRigLegacyFlat2</strong>|
+| 
+<strong>msoLightRigLegacyFlat3</strong>|
+| 
+<strong>msoLightRigLegacyFlat4</strong>|
+| 
+<strong>msoLightRigLegacyHarsh1</strong>|
+| 
+<strong>msoLightRigLegacyHarsh2</strong>|
+| 
+<strong>msoLightRigLegacyHarsh3</strong>|
+| 
+<strong>msoLightRigLegacyHarsh4</strong>|
+| 
+<strong>msoLightRigLegacyNormal1</strong>|
+| 
+<strong>msoLightRigLegacyNormal2</strong>|
+| 
+<strong>msoLightRigLegacyNormal3</strong>|
+| 
+<strong>msoLightRigLegacyNormal4</strong>|
+| 
+<strong>msoLightRigMixed</strong>|
+| 
+<strong>msoLightRigMorning</strong>|
+| 
+<strong>msoLightRigSoft</strong>|
+| 
+<strong>msoLightRigSunrise</strong>|
+| 
+<strong>msoLightRigSunset</strong>|
+| 
+<strong>msoLightRigThreePoint</strong>|
+| 
+** msoLightRigTwoPoint**|
 
 ## See also
 

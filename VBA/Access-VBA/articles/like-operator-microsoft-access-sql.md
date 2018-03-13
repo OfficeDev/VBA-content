@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Like Operator (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,6 +26,7 @@ Compares a string expression to a pattern in an SQL expression.
 ## Syntax
 <a name="sectionSection0"> </a>
 
+
  _expression_ **Like** " _pattern_ "
 
 The  **Like** operator syntax has these parts:
@@ -39,6 +40,7 @@ The  **Like** operator syntax has these parts:
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 You can use the  **Like** operator to find values in a field that match the pattern you specify. For _pattern_, you can specify the complete value (for example, `Like "Smith"`), or you can use wildcard characters to find a range of values (for example, ), or you can use wildcard characters to find a range of values (for example,  `Like "Sm*")`.
 
@@ -73,6 +75,7 @@ The following table shows how you can use  **Like** to test expressions for diff
 ## Example
 <a name="sectionSection2"> </a>
 
+
 This example returns a list of employees whose names begin with the letters A through D.
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
@@ -82,29 +85,29 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub LikeX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Return a list of employees whose names begin with 
     ' the letters A through D. 
     Set rst = dbs.OpenRecordset("SELECT LastName," _ 
         &; " FirstName FROM Employees" _ 
         &; " WHERE LastName Like '[A-D]*';") 
- 
+
     ' Populate the Recordset. 
     rst.MoveLast 
- 
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 15 
-    
+
     dbs.Close 
- 
+
 End Sub
 ```
 

@@ -34,8 +34,9 @@ The  **Conjunction** property value can be one of the following **MsoFilterConju
 
 
 
-| **msoFilterConjunctionAnd**|
-| **msoFilterConjunctionOr**|
+| <strong>msoFilterConjunctionAnd</strong>|
+| 
+<strong>msoFilterConjunctionOr</strong>|
 
 ## Example
 

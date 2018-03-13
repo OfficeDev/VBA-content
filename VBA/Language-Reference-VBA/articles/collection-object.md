@@ -24,7 +24,6 @@ A collection can be created the same way other objects are created. For example:
 
 ```vb
 Dim X As New Collection
-
 ```
 
 Once a collection is created, members can be added using the  **Add** method and removed using the **Remove** method. Specific members can be returned from the collection using the **Item** method, while the entire collection can be iterated using the **For** **Each...Next** statement.

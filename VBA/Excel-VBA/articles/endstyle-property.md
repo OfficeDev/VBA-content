@@ -32,7 +32,6 @@ This example sets the end style for the error bars for series one. The example s
 
 ```
 myChart.SeriesCollection(1).ErrorBars. EndStyle = xlCap
-
 ```
 
 

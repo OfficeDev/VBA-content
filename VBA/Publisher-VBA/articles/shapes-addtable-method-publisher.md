@@ -63,12 +63,11 @@ This example creates a new table on the first page of the active publication.
 
 ```vb
 Dim shpTable As Shape 
- 
+
 Set shpTable = ActiveDocument.Pages(1).Shapes.AddTable _ 
  (NumRows:=3, NumColumns:=4, _ 
  Left:=10, Top:=10, _ 
  Width:=288, Height:=216) 
-
 ```
 
 

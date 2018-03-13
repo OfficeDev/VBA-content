@@ -35,10 +35,13 @@ The value of the  **BeginArrowheadLength** property can be one of these **MsoArr
 
 ||
 |:-----|
-|**msoArrowheadLengthMedium**|
-|**msoArrowheadLengthMixed**|
-|**msoArrowheadLong**|
-|**msoArrowheadShort**|
+|<strong>msoArrowheadLengthMedium</strong>|
+|
+<strong>msoArrowheadLengthMixed</strong>|
+|
+<strong>msoArrowheadLong</strong>|
+|
+<strong>msoArrowheadShort</strong>|
 
 ## Example
 

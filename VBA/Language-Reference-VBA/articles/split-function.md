@@ -20,12 +20,13 @@ Returns a zero-based, one-dimensional [array](vbe-glossary.md) containing a spec
 The  **Split** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_expression_**|Required. [String expression](vbe-glossary.md) containing substrings and delimiters. If _expression_ is a zero-length string(""), **Split** returns an empty array, that is, an array with no elements and no data.|
-|**_delimiter_**|Optional. String character used to identify substring limits. If omitted, the space character (" ") is assumed to be the delimiter. If  **_delimiter_** is a zero-length string, a single-element array containing the entire **_expression_** string is returned.|
-|**_limit_**|Optional. Number of substrings to be returned; -1 indicates that all substrings are returned.|
-|**_compare_**|Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. See Settings section for values.|
+| <strong>Part</strong>                | <strong>Description</strong>                                                                                                                                                                                                                                                                               |
+|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>expression</em></strong> | Required. [String expression](vbe-glossary.md) containing substrings and delimiters. If <em>expression</em> is a zero-length string(""), <strong>Split</strong> returns an empty array, that is, an array with no elements and no data.                                                                    |
+| <strong><em>delimiter</em></strong>  | Optional. String character used to identify substring limits. If omitted, the space character (" ") is assumed to be the delimiter. If  <strong><em>delimiter</em></strong> is a zero-length string, a single-element array containing the entire <strong><em>expression</em></strong> string is returned. |
+| <strong><em>limit</em></strong>      | Optional. Number of substrings to be returned; -1 indicates that all substrings are returned.                                                                                                                                                                                                              |
+| <strong><em>compare</em></strong>    | Optional. Numeric value indicating the kind of comparison to use when evaluating substrings. See Settings section for values.                                                                                                                                                                              |
+
  **Settings**
 The  **_compare_** argument can have the following values:
 

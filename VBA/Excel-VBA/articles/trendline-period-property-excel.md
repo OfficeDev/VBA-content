@@ -32,7 +32,6 @@ This example sets the period for the moving-average trendline on Chart1. The exa
 With Charts("Chart1").SeriesCollection(1).Trendlines(1) 
  If .Type = xlMovingAvg Then .Period = 5 
 End With 
-
 ```
 
 

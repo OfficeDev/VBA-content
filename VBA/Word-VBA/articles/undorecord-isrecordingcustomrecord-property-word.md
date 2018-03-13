@@ -31,14 +31,12 @@ The following code example displays whether a custom undo action is currently be
 ```vb
 Dim objUndo as UndoRecord 
 Set objUndo = Application.UndoRecord 
- 
+
 If objUndo.IsRecordingCustomRecord = False Then 
 objUndo.StartCustomRecord ("My Custom Undo") 
 End If 
 'Custom undo actions here 
 objUndo.EndCustomRecord 
-
-
 ```
 
 

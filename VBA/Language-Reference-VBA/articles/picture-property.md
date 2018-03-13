@@ -21,10 +21,11 @@ Specifies the bitmap to display on an object.
 The  **Picture** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _pathname_|Required. The full path to a picture file.|
+| <strong>Part</strong> | <strong>Description</strong>               |
+|:----------------------|:-------------------------------------------|
+| <em>object</em>       | Required. A valid object.                  |
+| <em>pathname</em>     | Required. The full path to a picture file. |
+
  **Remarks**
 While designing a form, you can use the control's [property page](glossary-vba.md) to assign a bitmap to the **Picture** property. While running a form, you must use the **LoadPicture** function to assign a bitmap to **Picture**.
 To remove a picture that is assigned to a control, click the value of the  **Picture** property in the property page and then press DELETE. Pressing BACKSPACE will not remove the picture.

@@ -95,7 +95,7 @@ Sub CreateTableOfContents()
         WST.Name = "TOC" 
     End If 
     On Error GoTo 0 
-     
+
     ' Set up the table of contents page 
     WST.[A2] = "Table of Contents" 
     With WST.[A6] 
@@ -106,14 +106,14 @@ Sub CreateTableOfContents()
     WST.Range("A1:B1").ColumnWidth = Array(36, 12) 
     TOCRow = 7 
     PageCount = 0 
- 
+
     ' Do a print preview on all sheets so Excel calcs page breaks 
     ' The user must manually close the PrintPreview window 
     Msg = "Excel needs to do a print preview to calculate the number of pages. " 
     Msg = Msg &; "Please dismiss the print preview by clicking close." 
     MsgBox Msg 
     ActiveWindow.SelectedSheets.PrintPreview 
- 
+
     ' Loop through each sheet, collecting TOC information 
     For Each S In Worksheets 
         If S.Visible = -1 Then 
@@ -122,7 +122,7 @@ Sub CreateTableOfContents()
             HPages = ActiveSheet.HPageBreaks.Count + 1 
             VPages = ActiveSheet.VPageBreaks.Count + 1 
             ThisPages = HPages * VPages 
- 
+
             ' Enter info about this sheet on TOC 
             Sheets("TOC").Select 
             Range("A" &; TOCRow).Value = ThisName 
@@ -142,6 +142,7 @@ End Sub
 
 ## About the Contributors
 <a name="AboutContributor"> </a>
+
 
 Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 

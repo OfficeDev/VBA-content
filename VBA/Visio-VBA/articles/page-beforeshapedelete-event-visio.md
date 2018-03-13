@@ -18,7 +18,7 @@ Occurs before a shape is deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeShapeDelete**( **_ByVal Shape As [IVSHAPE]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeShapeDelete</strong>( **_ByVal Shape As [IVSHAPE]</em>** )
 
  _expression_ A variable that represents a **Page** object.
 

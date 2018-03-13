@@ -49,7 +49,6 @@ With objWebNav
 End With 
 ActiveDocument.Pages(1).Shapes.AddWebNavigationBar _ 
  Name:="newBar", Left:=10, Top:=10 
-
 ```
 
 

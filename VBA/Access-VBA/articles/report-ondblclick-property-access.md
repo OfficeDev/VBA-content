@@ -33,11 +33,11 @@ The  **OnDblClick** value will be one of the following, depending on the selecti
 
 
 - If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
-    
+
 - If Macro Builder is chosen, the value is the name of the macro. 
-    
+
 - If Code Builder is chosen, the value will be "[Event Procedure]". 
-    
+
 If the  **On Dbl Click** box is blank, the property value is an empty string.
 
 
@@ -52,7 +52,6 @@ With Reports("Catalog").Controls("OK")
  .OnDblClick = "[Event Procedure]" 
  End If 
 End With 
-
 ```
 
 

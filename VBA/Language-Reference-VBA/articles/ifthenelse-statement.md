@@ -28,17 +28,18 @@ Or, you can use the block form syntax:
 The  **If...Then...Else** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _condition_|Required. One or more of the following two types of expressions:|
-|
-|A [numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) that evaluates to **True** or **False**. If _condition_ is[Null](vbe-glossary.md),  _condition_ is treated as **False**.|
-|
-|An expression of the form  **TypeOf**_objectname_**Is**_objecttype_. The _objectname_ is any object reference and _objecttype_ is any valid object type. The expression is **True** if _objectname_ is of the[object type](vbe-glossary.md) specified by _objecttype_; otherwise it is **False**.|
-| _statements_|Optional in block form; required in single-line form that has no  **Else** clause. One or more statements separated by colons; executed if _condition_ is **True**.|
-| _condition-n_|Optional. Same as  _condition_.|
-| _elseifstatements_|Optional. One or more statements executed if associated  _condition-n_ is **True**.|
-| _elsestatements_|Optional. One or more statements executed if no previous  _condition_ or _condition-n_ expression is **True**.|
+| <strong>Part</strong>                                                                                                                                                                                                                                                                                                                                                                           | <strong>Description</strong>                                                                                                                                                                         |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>condition</em>                                                                                                                                                                                                                                                                                                                                                                              | Required. One or more of the following two types of expressions:                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                      |
+| A [numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) that evaluates to <strong>True</strong> or <strong>False</strong>. If <em>condition</em> is[Null](vbe-glossary.md),  <em>condition</em> is treated as <strong>False</strong>.                                                                                                                                    |                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                      |
+| An expression of the form  <strong>TypeOf</strong><em>objectname</em><strong>Is</strong><em>objecttype</em>. The <em>objectname</em> is any object reference and <em>objecttype</em> is any valid object type. The expression is <strong>True</strong> if <em>objectname</em> is of the[object type](vbe-glossary.md) specified by <em>objecttype</em>; otherwise it is <strong>False</strong>. |                                                                                                                                                                                                      |
+| <em>statements</em>                                                                                                                                                                                                                                                                                                                                                                             | Optional in block form; required in single-line form that has no  <strong>Else</strong> clause. One or more statements separated by colons; executed if <em>condition</em> is <strong>True</strong>. |
+| <em>condition-n</em>                                                                                                                                                                                                                                                                                                                                                                            | Optional. Same as  <em>condition</em>.                                                                                                                                                               |
+| <em>elseifstatements</em>                                                                                                                                                                                                                                                                                                                                                                       | Optional. One or more statements executed if associated  <em>condition-n</em> is <strong>True</strong>.                                                                                              |
+| <em>elsestatements</em>                                                                                                                                                                                                                                                                                                                                                                         | Optional. One or more statements executed if no previous  <em>condition</em> or <em>condition-n</em> expression is <strong>True</strong>.                                                            |
+
  **Remarks**
 You can use the single-line form (first syntax) for short, simple tests. However, the block form (second syntax) provides more structure and flexibility than the single-line form and is usually easier to read, maintain, and debug.
 
@@ -49,7 +50,6 @@ You can use the single-line form (first syntax) for short, simple tests. However
 
 ```
 If A > 10 Then A = A + 1 : B = B + A : C = C + B 
-
 ```
 
 A block form  **If** statement must be the first statement on a line. The **Else**, **ElseIf**, and **End If** parts of the statement can have only a[line number](vbe-glossary.md) or[line label](vbe-glossary.md) preceding them. The block **If** must end with an **End If** statement.
@@ -77,10 +77,9 @@ ElseIf Number < 100 Then
 Else 
  Digits = 3 
 End If 
- 
+
 ' Assign a value using the single-line form of syntax. 
 If Digits = 1 Then MyString = "One" Else MyString = "More than one" 
-
 ```
 
 Use  **If TypeOf** construct to determine whether the Control passed into a procedure is a text box.

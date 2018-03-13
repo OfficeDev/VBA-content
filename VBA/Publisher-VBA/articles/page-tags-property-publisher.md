@@ -33,27 +33,26 @@ Dim shp As Shape
 Dim tagsAll As Tags 
 Dim tagLoop As Tag 
 Dim blnTag As Boolean 
- 
+
 With ActiveDocument.Pages(1) 
  For Each shp In .Shapes 
  If shp.AutoShapeType = msoShapeOval Then 
  Set tagsAll = shp.Tags 
  blnTag = False 
- 
+
  For Each tagLoop In tagsAll 
  If tagLoop.Name = "Shape" Then 
  blnTag = True 
  Exit For 
  End If 
  Next tagLoop 
- 
+
  If blnTag = False Then 
  tagsAll.Add Name:="Shape", Value:="Oval" 
  End If 
  End If 
  Next shp 
 End With 
-
 ```
 
 

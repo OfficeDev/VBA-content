@@ -29,11 +29,15 @@ Returns or sets the way the two sections of either a pie of pie chart or a bar o
 
 
 
-| **XlChartSplitType** can be one of these **XlChartSplitType** constants.|
-| **xlSplitByCustomSplit**|
-| **xlSplitByPercentValue**|
-| **xlSplitByPosition**|
-| **xlSplitByValue**|
+| <strong>XlChartSplitType</strong> can be one of these <strong>XlChartSplitType</strong> constants.|
+| 
+<strong>xlSplitByCustomSplit</strong>|
+| 
+<strong>xlSplitByPercentValue</strong>|
+| 
+<strong>xlSplitByPosition</strong>|
+| 
+<strong>xlSplitByValue</strong>|
 
 ## Example
 

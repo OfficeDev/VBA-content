@@ -28,7 +28,6 @@ You can call this procedure and pass the current instance of the Form class as a
 
 ```
 ChangeFormColor Me 
-
 ```
 
 

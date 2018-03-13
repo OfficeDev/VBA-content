@@ -21,18 +21,20 @@ Specifies whether selected text remains highlighted when a control does not have
 The  **HideSelection** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the selected text remains highlighted even when the control does not have the focus.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                           |
+|:----------------------|:-------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                              |
+| <em>Boolean</em>      | Optional. Whether the selected text remains highlighted even when the control does not have the focus. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Selected text is not highlighted unless the control has the focus (default).|
-|**False**|Selected text always appears highlighted.|
+| <strong>Value</strong> | <strong>Description</strong>                                                 |
+|:-----------------------|:-----------------------------------------------------------------------------|
+| <strong>True</strong>  | Selected text is not highlighted unless the control has the focus (default). |
+| <strong>False</strong> | Selected text always appears highlighted.                                    |
+
  **Remarks**
 You can use the  **HideSelection** property to maintain highlighted text when another form or a dialog box receives the focus, such as in a spell-checking procedure.
 

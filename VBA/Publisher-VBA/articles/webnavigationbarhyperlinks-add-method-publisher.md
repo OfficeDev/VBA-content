@@ -46,11 +46,17 @@ RelativePage can be one of these  [PbHlinkTargetType](pbhlinktargettype-enumerat
 
 
 
-| **pbHlinkTargetTypeEmail**|
-| **pbHlinkTargetTypeFirstPage**|
-| **pbHlinkTargetTypeLastPage**|
-| **pbHlinkTargetTypeNextPage**|
-| **pbHlinkTargetTypePageID**|
-| **pbHlinkTargetTypePreviousPage**|
-| **pbHlinkTargetTypeURL**|
+| <strong>pbHlinkTargetTypeEmail</strong>|
+| 
+<strong>pbHlinkTargetTypeFirstPage</strong>|
+| 
+<strong>pbHlinkTargetTypeLastPage</strong>|
+| 
+<strong>pbHlinkTargetTypeNextPage</strong>|
+| 
+<strong>pbHlinkTargetTypePageID</strong>|
+| 
+<strong>pbHlinkTargetTypePreviousPage</strong>|
+| 
+<strong>pbHlinkTargetTypeURL</strong>|
 

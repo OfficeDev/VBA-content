@@ -18,8 +18,9 @@ Returns or sets the horizontal alignment for the specified object. Read/write
 
 
 |XlHAlign can be one of these XlHAlign constants.|
-| **xlHAlignCenter**|
-| **xlHAlignCenterAcrossSelection** **xlHAlignDistributed** **xlHAlignFill** **xlHAlignGeneral** **xlHAlignJustify** **xlHAlignLeft** **xlHAlignRight**|
+| <strong>xlHAlignCenter</strong>|
+| 
+<strong>xlHAlignCenterAcrossSelection</strong> <strong>xlHAlignDistributed</strong> <strong>xlHAlignFill</strong> <strong>xlHAlignGeneral</strong> <strong>xlHAlignJustify</strong> <strong>xlHAlignLeft</strong> <strong>xlHAlignRight</strong>|
 
  _expression_. **HorizontalAlignment**
 

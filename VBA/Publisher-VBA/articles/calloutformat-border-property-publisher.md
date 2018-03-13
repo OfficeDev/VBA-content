@@ -43,14 +43,14 @@ With ActiveDocument.Pages(1).Shapes
  ' Add an oval. 
  .AddShape Type:=msoShapeOval, _ 
  Left:=180, Top:=200, Width:=280, Height:=130 
- 
+
  ' Add a callout. 
  With .AddCallout(Type:=msoCalloutTwo, _ 
  Left:=420, Top:=170, Width:=170, Height:=40) 
- 
+
  ' Add text to the callout. 
  .TextFrame.TextRange.Text = "This is an oval" 
- 
+
  ' Add an accent bar to the callout. 
  With .Callout 
  .Accent = msoFalse 
@@ -58,7 +58,6 @@ With ActiveDocument.Pages(1).Shapes
  End With 
  End With 
 End With 
-
 ```
 
 

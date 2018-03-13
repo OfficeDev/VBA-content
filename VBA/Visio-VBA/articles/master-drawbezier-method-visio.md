@@ -44,7 +44,7 @@ The  _xyArray()_ and _degree_ parameters must meet the following conditions:
 
 1 <=  _degree_ <= 9
 
-The number of points must be _ k * degree_ + 1, where _k_ is a positive integer. If the first point is called _p0_ , for any integer _m_ between 1 and _k_ , _p(m * degree)_ is assumed to be the last control point of a Bezier segment, as well as the first control point of the next.
+The number of points must be <em> k * degree</em> + 1, where <em>k</em> is a positive integer. If the first point is called <em>p0</em> , for any integer <em>m</em> between 1 and <em>k</em> , <em>p(m * degree)</em> is assumed to be the last control point of a Bezier segment, as well as the first control point of the next.
 
 The result is a composite curve that consists of  _k_ Bezier segments. The input points from _xyArray()_ define the curve's control points. If you want a smooth curve, make sure the points _p(n - 1)_ , _pn_ , and _p(n + 1)_ are co-linear whenever _n = m * degree_ with an integer _m_ . The composite Bezier curve is represented in the application as a B-spline with integer _knots_ of _multiplicity = degree_ .
 

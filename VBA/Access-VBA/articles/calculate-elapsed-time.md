@@ -41,30 +41,30 @@ The following procedure illustrates how to use the  **Format** function to forma
 Function ElapsedTime(endTime As Date, startTime As Date) 
     Dim strOutput As String 
     Dim Interval As Date 
-     
+
     ' Calculate the time interval. 
     Interval = endTime - startTime 
-  
+
     ' Format and print the time interval in seconds. 
     strOutput = Int(CSng(Interval * 24 * 3600)) &; " Seconds" 
     Debug.Print strOutput 
-         
+
     ' Format and print the time interval in minutes and seconds. 
     strOutput = Int(CSng(Interval * 24 * 60)) &; ":" &; Format(Interval, "ss") _ 
         &; " Minutes:Seconds" 
     Debug.Print strOutput 
-     
+
     ' Format and print the time interval in hours, minutes and seconds. 
     strOutput = Int(CSng(Interval * 24)) &; ":" &; Format(Interval, "nn:ss") _ 
            &; " Hours:Minutes:Seconds" 
     Debug.Print strOutput 
-         
+
     ' Format and print the time interval in days, hours, minutes and seconds. 
     strOutput = Int(CSng(Interval)) &; " days " &; Format(Interval, "hh") _ 
         &; " Hours " &; Format(Interval, "nn") &; " Minutes " &; _ 
         Format(Interval, "ss") &; " Seconds" 
     Debug.Print strOutput 
- 
+
 End Function
 ```
 
@@ -154,10 +154,11 @@ var2 = DateAdd("n", 10, var1)
 
 
 - [Summing elapsed time that could go over 24 hours](http://www.utteraccess.com/wiki/index.php/Summing_elapsed_time_that_could_go_over_24_hours)
-    
+
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
+
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 

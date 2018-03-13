@@ -84,22 +84,22 @@ Where a string is specified
 ```vb
 ' Prints 1.00 
 Debug.Print Application.FormatResult("0.5 * 2", "ft", "ft", "#.00 u") 
- 
+
 ' Prints 12.00 in. 
 Debug.Print Application.FormatResult("0.5 * 2", "ft", "in", "#.00 u") 
- 
+
 ' Prints .39 in. 
 Debug.Print Application.FormatResult("1 cm", "ft", "in", "#.00 u") 
- 
+
 ' Prints 1.00 cm. 
 Debug.Print Application.FormatResult("1 cm", "ft", "NOCAST", "#.00 u") 
- 
+
 ' Prints 0.39 
 Debug.Print Application.FormatResult("1 cm", "ft", "", "0.00 u") 
- 
+
 ' Prints 1858.06 sq. cm. 
 Debug.Print Application.FormatResult("1 sq. ft. * 2", "in^2", "cm^2", "0.00 u") 
- 
+
 ' Throws an exception because of bad measurement unit ("bz") 
 Debug.Print Application.FormatResult("1 cm", "ft", "bz", "#.00 u") 
 ```
@@ -112,19 +112,18 @@ Where a number is specified
 ```vb
 ' Prints 1.00 
 Debug.Print Application.FormatResult(1, "ft", "ft", "#.00 u") 
- 
+
 ' Prints 12.00 in. 
 Debug.Print Application.FormatResult(1, "ft", "in", "#.00 u") 
- 
+
 ' Prints .08 ft. 
 Debug.Print Application.FormatResult(1.0, "in", "ft", "#.00 u") 
- 
+
 ' Prints 12.00 
 Debug.Print Application.FormatResult(1.0, visFeet, "", "#.00 u") 
- 
+
 ' Throws an exception because of bad measurement unit ("bz") 
 Debug.Print Application.FormatResult(1, "bz", "in", "#.00 u") 
-
 ```
 
 The following macro shows how to use the  **FormatResult** method to convert a value from centimeters to inches and display the result in a message box.
@@ -133,22 +132,22 @@ The following macro shows how to use the  **FormatResult** method to convert a v
 
 
 ```vb
- 
+
 Public Sub FormatResult_Example() 
- 
+
  Dim strOldValue As String 
  Dim strNewValue As String 
- 
+
  'Set old value. 
  strOldValue = "1 cm" 
- 
+
  'Format value. 
  strNewValue = Application.FormatResult _ 
  (strOldValue, "ft", "in", "#.00 u") 
- 
+
  'Display new value. 
  MsgBox (strNewValue) 
- 
+
 End Sub
 ```
 

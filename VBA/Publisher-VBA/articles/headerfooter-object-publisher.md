@@ -14,27 +14,26 @@ ms.date: 06/08/2017
 # HeaderFooter Object (Publisher)
 
 Represents the header or footer of a master page.
- 
+
 
 
 ## Example
 
 Use  **MasterPages.Header** or **MasterPages.Footer** to return a **HeaderFooter** object. The following example adds text to the header of the first master page of the active document.
- 
 
- 
+
+
 
 ```
 Dim objHeader As HeaderFooter 
 Set objHeader = ActiveDocument.MasterPages(1).Header 
 objHeader.TextRange.Text = "Master Page 1 Header" 
-
 ```
 
 Use  **HeaderFooter.Delete** to delete any existing content from a header or footer. Calling this method does not delete the text frame, just the contents of it. The following example deletes all of the header and footer content of all the master pages in a publication.
- 
 
- 
+
+
 
 
 
@@ -47,9 +46,9 @@ Next
 ```
 
 Use  **HeaderFooter.TextRange** to return a **TextRange** object representing the header or footer of a master page. Any header or footer content manipulation is done with through this property of the **HeaderFooter** object. The following example first deletes any existing content and then adds some boilerplate text to the header of a master page.
- 
 
- 
+
+
 
 
 

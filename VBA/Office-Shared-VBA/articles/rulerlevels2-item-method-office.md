@@ -45,7 +45,6 @@ With ActivePresentation.SlideMaster.TextStyles.Item(ppBodyStyle)
  .LeftMargin = 54 
  End With 
 End With 
-
 ```
 
 

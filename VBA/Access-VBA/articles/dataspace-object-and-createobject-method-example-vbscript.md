@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # DataSpace Object and CreateObject Method Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -37,6 +37,7 @@ text-align: center;background-color: #f7efde;
 font-family: 'Verdana','Arial','Helvetica',sans-serif;font-size: x-small;
 }-->
 </style></head> 
+
 <body><h1>DataSpace Object and CreateObject Method Example (VBScript)</h1> 
 <H2>RDS API Code Examples</H2><HR>
 <H3>Using Query Method of RDSServer.DataFactory</H3> 
@@ -73,14 +74,13 @@ To see the complete example, open the sample applications selector. In the  **Cl
 
 
 ```vb
- 
+
 Sub Window_OnLoad() 
    strServer = "http://<%=Request.ServerVariables("SERVER_NAME")%>" 
    Set BO = ADS1.CreateObject("VbBusObj.VbBusObjCls", strServer) 
    txtConnect.Value = "dsn=Pubs;uid=MyUserId;pwd=MyPassword;" 
    txtGetRecordset.Value = "Select * From authors for Browse" 
 End Sub 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

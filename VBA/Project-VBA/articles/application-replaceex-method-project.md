@@ -39,6 +39,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|
@@ -56,6 +57,7 @@ _expression_ An expression that returns an **Application** object.
 |"contains exactly"|_Field_ contains exactly _Value_.|
 
 <br/>
+
 
 ### Return value
 

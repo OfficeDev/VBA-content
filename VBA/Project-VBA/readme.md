@@ -1,4 +1,4 @@
-#[Project VBA reference](articles/TOC.md)
+# [Project VBA reference](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Project.
 

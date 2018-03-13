@@ -25,17 +25,18 @@ Gets or sets the color of the cell background for a field used as a criterion in
 The  **CellColor** property can be one of the following **[PjColor](pjcolor-enumeration-project.md)** constants:
 
 
-|||
-|:-----|:-----|
-|**pjColorAutomatic**|**pjNavy**|
-|**pjAqua**|**pjOlive**|
-|**pjBlack**|**pjPurple**|
-|**pjBlue**|**pjRed**|
-|**pjFuchsia**|**pjSilver**|
-|**pjGray**|**pjTeal**|
-|**pjGreen**|**pjYellow**|
-|**pjLime**|**pjWhite**|
-|**pjMaroon**||
+|                                   |                           |
+|:----------------------------------|:--------------------------|
+| <strong>pjColorAutomatic</strong> | <strong>pjNavy</strong>   |
+| <strong>pjAqua</strong>           | <strong>pjOlive</strong>  |
+| <strong>pjBlack</strong>          | <strong>pjPurple</strong> |
+| <strong>pjBlue</strong>           | <strong>pjRed</strong>    |
+| <strong>pjFuchsia</strong>        | <strong>pjSilver</strong> |
+| <strong>pjGray</strong>           | <strong>pjTeal</strong>   |
+| <strong>pjGreen</strong>          | <strong>pjYellow</strong> |
+| <strong>pjLime</strong>           | <strong>pjWhite</strong>  |
+| <strong>pjMaroon</strong>         |                           |
+
 To use a hexadecimal RGB value for the cell color, see the  **[CellColorEx](groupcriterion2-cellcolorex-property-project.md)** property of the **GroupCriterion2** object.
 
 

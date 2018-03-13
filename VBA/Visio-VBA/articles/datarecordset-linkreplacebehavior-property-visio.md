@@ -37,11 +37,12 @@ The following constants for link replacement behaviors are declared by the Visio
 
 
 
-|**Constant**|**Value **|**Description**|
-|:-----|:-----|:-----|
-| **visLinkReplaceAlways**|1|Always replace links when linking to a shape that has existing links|
-| **visLinkReplaceNever**|0|Never replace links when linking to a shape that has existing links|
-| **visLinkReplacePrompt**|2|Prompt the user before replacing links when the user attempts to create links in the Visio user interface (UI). |
+| <strong>Constant</strong>             | **Value ** | <strong>Description</strong>                                                                                    |
+|:--------------------------------------|:-----------|:----------------------------------------------------------------------------------------------------------------|
+| <strong>visLinkReplaceAlways</strong> | 1          | Always replace links when linking to a shape that has existing links                                            |
+| <strong>visLinkReplaceNever</strong>  | 0          | Never replace links when linking to a shape that has existing links                                             |
+| <strong>visLinkReplacePrompt</strong> | 2          | Prompt the user before replacing links when the user attempts to create links in the Visio user interface (UI). |
+
 These options correspond to those available in the  **Properties** dialog box for the tab corresponding to the data recordset in the **External Data** window. (In the **External Data** window, on the tab for the data recordset, right-click, point to **Data Source**, and then click  **Properties**.)
 
 Methods affected by this property setting include  **[Selection.LinkToData](selection-linktodata-method-visio.md)** , **[Shape.LinkToData](shape-linktodata-method-visio.md)** , and **[Selection.AutomaticLink](selection-automaticlink-method-visio.md)** .

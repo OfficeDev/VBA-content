@@ -47,32 +47,35 @@ The  _AlignOrSpace_ parameter must be one or the combination of both (3) of the 
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visLayoutIncrAlign**|1|Align shapes.|
-| **visLayoutIncrSpace**|2|Space shapes evenly.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong> |
+|:------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visLayoutIncrAlign</strong> | 1                      | Align shapes.                |
+| <strong>visLayoutIncrSpace</strong> | 2                      | Space shapes evenly.         |
+
 The _AlignHorizontal_ parameter must be one of the following **VisLayoutHorzAlignType** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visLayoutHorzAlignNone**|0|Do not align horizontally.|
-| **visLayoutHorzAlignDefault**|1|Visio chooses how to align horizontally.|
-| **visLayoutHorzAlignLeft**|2|Align the left edges of the shapes.|
-| **visLayoutHorzAlignCenter**|3|Align the centers of the shapes.|
-| **visLayoutHorzAlignRight**|4|Align the right edges of the shapes.|
+| <strong>Constant</strong>                  | <strong>Value</strong> | <strong>Description</strong>             |
+|:-------------------------------------------|:-----------------------|:-----------------------------------------|
+| <strong>visLayoutHorzAlignNone</strong>    | 0                      | Do not align horizontally.               |
+| <strong>visLayoutHorzAlignDefault</strong> | 1                      | Visio chooses how to align horizontally. |
+| <strong>visLayoutHorzAlignLeft</strong>    | 2                      | Align the left edges of the shapes.      |
+| <strong>visLayoutHorzAlignCenter</strong>  | 3                      | Align the centers of the shapes.         |
+| <strong>visLayoutHorzAlignRight</strong>   | 4                      | Align the right edges of the shapes.     |
+
 The  _AlignVertical_ parameter must be one of the following **VisLayoutVertAlignType** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visLayoutVertAlignNone**|0|Do not align vertically.|
-| **visLayoutVertAlignDefault**|1|Visio chooses how to align vertically.|
-| **visLayoutVertAlignTop**|2|Align the top edges of the shapes.|
-| **visLayoutVertAlignMiddle**|3|Align the middles of the shapes.|
-| **visLayoutVertAlignBottom**|4|Align the bottom edges of the shapes.|
+| <strong>Constant</strong>                  | <strong>Value</strong> | <strong>Description</strong>           |
+|:-------------------------------------------|:-----------------------|:---------------------------------------|
+| <strong>visLayoutVertAlignNone</strong>    | 0                      | Do not align vertically.               |
+| <strong>visLayoutVertAlignDefault</strong> | 1                      | Visio chooses how to align vertically. |
+| <strong>visLayoutVertAlignTop</strong>     | 2                      | Align the top edges of the shapes.     |
+| <strong>visLayoutVertAlignMiddle</strong>  | 3                      | Align the middles of the shapes.       |
+| <strong>visLayoutVertAlignBottom</strong>  | 4                      | Align the bottom edges of the shapes.  |
+
 If  _AlignOrSpace_ is **visLayoutIncrAlign** , either _AlignHorizontal_ must be a value other than **visLayoutHorzAlignNone** , or _AlignVertical_ must be a value other than **visLayoutVertAlignNone** .
 
 If  _AlignOrSpace_ is **visLayoutIncrSpace** , both _AlignHorizontal_ and _AlignVertical_ must be greater than zero.

@@ -19,11 +19,12 @@ Returns a  **Variant** ( **String** ) containing a specified number of character
 The  **Mid** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_string_**|Required. [String expression](vbe-glossary.md) from which characters are returned. If **_string_** contains[Null](vbe-glossary.md),  **Null** is returned.|
-|**_start_**|Required; [Long](vbe-glossary.md). Character position in  **_string_** at which the part to be taken begins. If **_start_** is greater than the number of characters in **_string_**, **Mid** returns a zero-length string ("").|
-|**_length_**|Optional;  **Variant** ( **Long** ). Number of characters to return. If omitted or if there are fewer than **_length_** characters in the text (including the character at **_start_** ), all characters from the **_start_** position to the end of the string are returned.|
+| <strong>Part</strong>            | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                        |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>string</em></strong> | Required. [String expression](vbe-glossary.md) from which characters are returned. If <strong><em>string</em></strong> contains[Null](vbe-glossary.md),  <strong>Null</strong> is returned.                                                                                                                                                                         |
+| <strong><em>start</em></strong>  | Required; [Long](vbe-glossary.md). Character position in  <strong><em>string</em></strong> at which the part to be taken begins. If <strong><em>start</em></strong> is greater than the number of characters in <strong><em>string</em></strong>, <strong>Mid</strong> returns a zero-length string ("").                                                           |
+| <strong><em>length</em></strong> | Optional;  <strong>Variant</strong> ( <strong>Long</strong> ). Number of characters to return. If omitted or if there are fewer than <strong><em>length</em></strong> characters in the text (including the character at <strong><em>start</em></strong> ), all characters from the <strong><em>start</em></strong> position to the end of the string are returned. |
+
  **Remarks**
 To determine the number of characters in  **_string_**, use the **Len** function.
 
@@ -41,7 +42,6 @@ MyString = "Mid Function Demo"    ' Create text string.
 FirstWord = Mid(MyString, 1, 3)    ' Returns "Mid".
 LastWord = Mid(MyString, 14, 4)    ' Returns "Demo".
 MidWords = Mid(MyString, 5)    ' Returns "Function Demo".
-
 ```
 
 The second example use  **MidB** and a user-defined function ( **MidMbcs** ) to also return characters from string. The difference here is that the input string is ANSI and the length is in bytes.
@@ -64,8 +64,6 @@ MyNewString = MidB(MyString, 3, 4)
 ' Returns ""bC"
 MyNewString = MidMbcs(MyString, 3, 4)
 ' Returns "bCd"
-
-
 ```
 
 

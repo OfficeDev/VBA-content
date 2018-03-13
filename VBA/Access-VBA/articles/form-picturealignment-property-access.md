@@ -29,14 +29,15 @@ The  **PictureAlignment** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Top Left|0|The picture is displayed in the top-left corner of the image control, Form window, or page of a report.|
-|Top Right|1|The picture is displayed in the top-right corner of the image control, Form window, or page of a report.|
-|Center|2|(Default) The picture is centered in the image control, Form window, or page of a report.|
-|Bottom Left|3|The picture is displayed in the bottom-left corner of the image control, Form window, or page of a report.|
-|Bottom Right|4|The picture is displayed in the bottom-right corner of the image control, Form window, or page of a report.|
-|Form Center|5|(Forms only) The form's picture is centered horizontally in relation to the width of the form and vertically in relation to the height the entire form.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                                            |
+|:-------------------------|:------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Top Left                 | 0                             | The picture is displayed in the top-left corner of the image control, Form window, or page of a report.                                                 |
+| Top Right                | 1                             | The picture is displayed in the top-right corner of the image control, Form window, or page of a report.                                                |
+| Center                   | 2                             | (Default) The picture is centered in the image control, Form window, or page of a report.                                                               |
+| Bottom Left              | 3                             | The picture is displayed in the bottom-left corner of the image control, Form window, or page of a report.                                              |
+| Bottom Right             | 4                             | The picture is displayed in the bottom-right corner of the image control, Form window, or page of a report.                                             |
+| Form Center              | 5                             | (Forms only) The form's picture is centered horizontally in relation to the width of the form and vertically in relation to the height the entire form. |
+
 You can also set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 This property can be set in any view.

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Indexed Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,11 +26,12 @@ The  **Indexed** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|No|(Default) No index.|
-|Yes (Duplicates OK)|The index allows duplicates.|
-|Yes (No Duplicates)|The index doesn't allow duplicates.|
+| <strong>Setting</strong> | <strong>Description</strong>        |
+|:-------------------------|:------------------------------------|
+| No                       | (Default) No index.                 |
+| Yes (Duplicates OK)      | The index allows duplicates.        |
+| Yes (No Duplicates)      | The index doesn't allow duplicates. |
+
 You can set this property only in the Field Properties section in table Design view. You can set a single-field index by setting the  **Indexed** property in the Field Properties section in table Design view. You can set multiple-field indexes in the Indexes window. To open the **Indexes** window, on the **Design** tab, in the **Show/Hide** group, click **Indexes**.
 
 If you add a single-field index in the Indexes window, Microsoft Access will set the  **Indexed** property for the field to Yes.

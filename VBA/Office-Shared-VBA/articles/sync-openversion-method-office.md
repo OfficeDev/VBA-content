@@ -58,7 +58,6 @@ The following example prompts the user to open the server copy of the shared doc
         objSync.OpenVersion msoSyncVersionServer 
     End If 
     Set objSync = Nothing 
-
 ```
 
 

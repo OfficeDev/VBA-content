@@ -15,7 +15,7 @@ Occurs after a document is opened.
 
 ## Syntax
 
-Private Sub  _expression_ _**DocumentOpened**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>DocumentOpened</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

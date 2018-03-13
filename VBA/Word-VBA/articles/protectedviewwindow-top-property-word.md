@@ -34,7 +34,6 @@ With ActiveProtectedViewWindow
  .Left = 0 
  .Top = 100 
 End With 
-
 ```
 
 

@@ -57,7 +57,6 @@ The following example returns the number of tasks in the shared workspace and in
     MsgBox strTaskInfo, vbInformation + vbOKOnly, _ 
         "Tasks in Shared Workspace" 
     Set swsTask = Nothing 
-
 ```
 
 

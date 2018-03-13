@@ -34,8 +34,6 @@ Dim MyString
 MyString = Str(459)    ' Returns " 459".
 MyString = Str(-459.65)    ' Returns "-459.65".
 MyString = Str(459.001)    ' Returns " 459.001".
-
-
 ```
 
 

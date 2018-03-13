@@ -31,6 +31,7 @@ For settings, use section 1 to 3, delimiting with semicolon (;).
 
 <br/>
 
+
 **Setting for field/textbox for Postal code**
 
 Specifies the type of postal code for the field/textbox.
@@ -42,6 +43,7 @@ Specifies the type of postal code for the field/textbox.
 |3|Specifies field/textbox for Street/Town/Village|
 
 <br/>
+
 
 **Setting for field/textbox for address**
 
@@ -56,6 +58,7 @@ Specifies that the field/textbox contains a postal code or Customer Barcode data
 
 <br/>
 
+
 **Setting for field/textbox for Customer Barcode data**
 
 Specifies the type of Customer Barcode data in the field/textbox. This setting is the same as the field/textbox for postal code.
@@ -67,6 +70,7 @@ Specifies the type of Customer Barcode data in the field/textbox. This setting i
 |3|Specifies field/textbox for Street/Town/Village|
 
 <br/>
+
 
 The postal code consists of 3 address items: Prefecture, City/Ward/County, Street/Town/Village. Sections in the **PostalAddress Property** property of field/textbox for a postal code can be omitted. The following table shows how to omit sections from the property setting.
 

@@ -61,8 +61,6 @@ Set cxn = cxp1.SelectSingleNode("//supplier[@ID=1]")
 
 ' Display the node value 'Contoso'.
 MsgBox cxn.NodeValue
-
-
 ```
 
 

@@ -69,10 +69,10 @@ Private Sub Report_Page()
     With Me
         '// Print page border
         Me.Line (0, 0)-(.ScaleWidth - 1, .ScaleHeight - 1), vbBlack, B
-    
+
         '// Print watermark
         strWatermarkText = "Confidential"
-        
+
         .ScaleMode = 3
         .FontName = "Segoe UI"
         .FontSize = 48
@@ -81,11 +81,11 @@ Private Sub Report_Page()
         '// Calculate text metrics
         sizeHor = .TextWidth(strWatermarkText)
         sizeVer = .TextHeight(strWatermarkText)
-        
+
         '// Set the print location
         .CurrentX = (.ScaleWidth / 2) - (sizeHor / 2)
         .CurrentY = (.ScaleHeight / 2) - (sizeVer / 2)
-    
+
         '// Print the watermark
         .Print strWatermarkText
     End With
@@ -98,11 +98,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

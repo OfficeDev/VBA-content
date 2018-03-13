@@ -45,9 +45,8 @@ This example switches between an automatically scaling first segment and one wit
 
 ```vb
 Dim docActive As Document 
- 
-Set docActive = ActiveDocument 
 
+Set docActive = ActiveDocument 
 ```
 
 

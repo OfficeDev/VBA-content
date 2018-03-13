@@ -19,50 +19,54 @@ Returns a  **Variant** ( **Integer** ) containing the specified part of a given 
 The  **DatePart** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_interval_**|Required. [String expression](vbe-glossary.md) that is the interval of time you want to return.|
-|**_date_**|Required.  **Variant** ( **Date** ) value that you want to evaluate.|
-|**_firstdayofweek_**|Optional. A [constant](vbe-glossary.md) that specifies the first day of the week. If not specified, Sunday is assumed.|
-|**_firstweekofyear_**|Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs.|
+| <strong>Part</strong>                     | <strong>Description</strong>                                                                                                                          |
+|:------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>interval</em></strong>        | Required. [String expression](vbe-glossary.md) that is the interval of time you want to return.                                                       |
+| <strong><em>date</em></strong>            | Required.  <strong>Variant</strong> ( <strong>Date</strong> ) value that you want to evaluate.                                                        |
+| <strong><em>firstdayofweek</em></strong>  | Optional. A [constant](vbe-glossary.md) that specifies the first day of the week. If not specified, Sunday is assumed.                                |
+| <strong><em>firstweekofyear</em></strong> | Optional. A constant that specifies the first week of the year. If not specified, the first week is assumed to be the week in which January 1 occurs. |
+
  **Settings**
 The  **_interval_**[argument](vbe-glossary.md) has these settings:
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|yyyy|Year|
-|q|Quarter|
-|m|Month|
-|y|Day of year|
-|d|Day|
-|w|Weekday|
-|ww|Week|
-|h|Hour|
-|n|Minute|
-|s|Second|
+| <strong>Setting</strong> | <strong>Description</strong> |
+|:-------------------------|:-----------------------------|
+| yyyy                     | Year                         |
+| q                        | Quarter                      |
+| m                        | Month                        |
+| y                        | Day of year                  |
+| d                        | Day                          |
+| w                        | Weekday                      |
+| ww                       | Week                         |
+| h                        | Hour                         |
+| n                        | Minute                       |
+| s                        | Second                       |
+
 The  **_firstdayofweek_** argument has these settings:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseSystem**|0|Use the NLS API setting.|
-|**vbSunday**|1|Sunday (default)|
-|**vbMonday**|2|Monday|
-|**vbTuesday**|3|Tuesday|
-|**vbWednesday**|4|Wednesday|
-|**vbThursday**|5|Thursday|
-|**vbFriday**|6|Friday|
-|**vbSaturday**|7|Saturday|
+| <strong>Constant</strong>    | <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------------|:-----------------------|:-----------------------------|
+| <strong>vbUseSystem</strong> | 0                      | Use the NLS API setting.     |
+| <strong>vbSunday</strong>    | 1                      | Sunday (default)             |
+| <strong>vbMonday</strong>    | 2                      | Monday                       |
+| <strong>vbTuesday</strong>   | 3                      | Tuesday                      |
+| <strong>vbWednesday</strong> | 4                      | Wednesday                    |
+| <strong>vbThursday</strong>  | 5                      | Thursday                     |
+| <strong>vbFriday</strong>    | 6                      | Friday                       |
+| <strong>vbSaturday</strong>  | 7                      | Saturday                     |
+
 The  **_firstweekofyear_** argument has these settings:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseSystem**|0|Use the NLS API setting.|
-|**vbFirstJan1**|1|Start with week in which January 1 occurs (default).|
-|**vbFirstFourDays**|2|Start with the first week that has at least four days in the new year.|
-|**vbFirstFullWeek**|3|Start with first full week of the year.|
+| <strong>Constant</strong>        | <strong>Value</strong> | <strong>Description</strong>                                           |
+|:---------------------------------|:-----------------------|:-----------------------------------------------------------------------|
+| <strong>vbUseSystem</strong>     | 0                      | Use the NLS API setting.                                               |
+| <strong>vbFirstJan1</strong>     | 1                      | Start with week in which January 1 occurs (default).                   |
+| <strong>vbFirstFourDays</strong> | 2                      | Start with the first week that has at least four days in the new year. |
+| <strong>vbFirstFullWeek</strong> | 3                      | Start with first full week of the year.                                |
+
  **Remarks**
 You can use the  **DatePart** function to evaluate a date and return a specific interval of time. For example, you might use **DatePart** to calculate the day of the week or the current hour.
 The  **_firstdayofweek_** argument affects calculations that use the "w" and "ww" interval symbols.
@@ -83,8 +87,6 @@ Dim Msg
 TheDate = InputBox("Enter a date:")
 Msg = "Quarter: " &; DatePart("q", TheDate)
 MsgBox Msg
-
-
 ```
 
 

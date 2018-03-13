@@ -58,28 +58,29 @@ For the optional AutoLinkBehavior parameter, you can pass a combination of one o
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visAutoLinkDontReplaceExistingLinks**|16|Do not replace existing links.|
-| **visAutoLinkGenericProgressBar**|2|Show generic progress bar instead of more detailed one.|
-| **visAutoLinkIncludeHiddenProps**|64|Include hidden properties.|
-| **visAutoLinkNoApplyDataGraphic**|4|Do not apply the default data graphic to linked shapes.|
-| **visAutoLinkNullMatchesNoFormula**|32|Allow null database values to map to "No Formula" in the Visio ShapeSheet spreadsheet.|
-| **visAutoLinkReplaceExistingLinks**|8|Replace existing links.|
-| **visAutoLinkSelectedShapesOnly**|1|Link selected shapes only, not sub-shapes of selected shapes.|
+| <strong>Constant</strong>                            | <strong>Value</strong> | <strong>Description</strong>                                                           |
+|:-----------------------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------|
+| <strong>visAutoLinkDontReplaceExistingLinks</strong> | 16                     | Do not replace existing links.                                                         |
+| <strong>visAutoLinkGenericProgressBar</strong>       | 2                      | Show generic progress bar instead of more detailed one.                                |
+| <strong>visAutoLinkIncludeHiddenProps</strong>       | 64                     | Include hidden properties.                                                             |
+| <strong>visAutoLinkNoApplyDataGraphic</strong>       | 4                      | Do not apply the default data graphic to linked shapes.                                |
+| <strong>visAutoLinkNullMatchesNoFormula</strong>     | 32                     | Allow null database values to map to "No Formula" in the Visio ShapeSheet spreadsheet. |
+| <strong>visAutoLinkReplaceExistingLinks</strong>     | 8                      | Replace existing links.                                                                |
+| <strong>visAutoLinkSelectedShapesOnly</strong>       | 1                      | Link selected shapes only, not sub-shapes of selected shapes.                          |
+
 You cannot pass a value that includes both  **visAutoLinkDontReplaceExistingLinks** and **visAutoLinkReplaceExistingLinks** . The method returns an error if you attempt to do so.
 
 If you pass a value for AutoLinkBehavior, it modifies the default behavior, which is as follows:
 
 
 - Use the data recordset's  **LinkReplaceBehavior** setting to determine whether to break existing links. If the setting is **visLinkReplacePrompt** , it is treated as if it were **visLinkReplaceAlways** .
-    
+
 - Link selected shapes and their subshapes.
-    
+
 - Do not replace the detailed progress bar with the generic progress bar.
-    
+
 - Apply data graphics.
-    
+
 For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long** . Visio will return the array filled with the IDs of the shapes that were linked to data by the method.
 
 To provide Visio with enough information to create the links, you must supply at least one set of matching data: the name of a column in the data recordset, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method. The shape attribute type indicates the attribute of the shape to base the matching upon. The attribute can be the value of a shape data item, shape text, or another of the values specified in the  **VisAutoLinkFieldTypes** enumeration.
@@ -88,11 +89,11 @@ For example, say that your drawing contains a selection of shapes representing d
 
 
 - For the ColumnNames() parameter, an array that contains the "EmployeeName" column name at array position 0.
-    
+
 - For the AutoLinkFieldTypes() parameter, enumeration value  **visAutoLinkShapeText** at array position 0.
-    
+
 - For the FieldNames() parameter, an empty string (''") at array position 0, because, when AutoLinkFieldTypes() is  **visAutoLinkShapeText** , it is not necessary to specify the FieldNames() value.
-    
+
 
 ## Example
 
@@ -105,7 +106,7 @@ Before running this macro, create a data recordset that contains a column named 
 
 ```vb
 Public Sub AutomaticLink_Example() 
- 
+
     Dim vsoDataRecordset As Visio.DataRecordset 
     Dim vsoSelection As Visio.Selection 
     Dim astrColumnNames(1) As String 
@@ -113,23 +114,23 @@ Public Sub AutomaticLink_Example()
     Dim astrFieldNames(1) As String 
     Dim alngShapesLinked() As Long 
     Dim intCount As Integer 
-     
+
     intCount = Visio.ActiveDocument.DataRecordsets.Count 
     Set vsoDataRecordset = Visio.ActiveDocument.DataRecordsets(intCount ) 
- 
+
     astrColumnNames(0) = "EmployeeName" 
     alngFieldTypes(0) = Visio.VisAutoLinkFieldTypes.visAutoLinkShapeText 
     astrFieldNames(0) = "" 
- 
+
     ActiveWindow.DeselectAll 
     ActiveWindow.SelectAll 
- 
+
     Set vsoSelection = ActiveWindow.Selection 
     vsoSelection.AutomaticLink vsoDataRecordset.ID, _ 
                     astrColumnNames, _ 
                     alngFieldTypes, _ 
                     astrFieldNames, 0, alngShapesLinked 
- 
+
 End Sub
 ```
 

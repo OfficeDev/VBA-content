@@ -45,7 +45,6 @@ Dim objParaForm As ParagraphFormat
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange.Paragraphs(1).ParagraphFormat 
 objParaForm.KeepLinesTogether = msoTrue 
-
 ```
 
 

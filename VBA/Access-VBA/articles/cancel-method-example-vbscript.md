@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Cancel Method Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,17 +26,21 @@ The following example shows how to read the [Cancel](http://msdn.microsoft.com/l
 End Sub 
 Sub cmdRefreshTable_OnClickADC.Refresh
 End Sub-->
+
 </Script> 
 <OBJECT CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33" ID="ADC">.
 <PARAM NAME="SQL" VALUE="Select FirstName, LastName from Employees"><PARAM NAME="CONNECT" VALUE="Provider='sqloledb';Integrated Security='SSPI';Initial Catalog='Northwind'">
 <PARAM NAME="Server" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">.
 </OBJECT> 
+
 <TABLE DATASRC=#ADC><TBODY>
 <TR><TD><SPAN DATAFLD="FirstName"></SPAN></TD>
 <TD><SPAN DATAFLD="LastName"></SPAN></TD></TR>
 </TBODY></TABLE> 
+
 <FORM><INPUT type="button" value="Refresh" id=cmdRefreshTable name=cmdRefreshTable>
 <INPUT type="button" value="Cancel" id=cmdCancelAsync name=cmdCancelAsync></FORM>
+
 <!-- EndCancelVBS -->
 ```
 

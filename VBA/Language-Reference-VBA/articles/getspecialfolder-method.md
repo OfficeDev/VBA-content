@@ -22,10 +22,11 @@ Returns the special folder specified.
 The  **GetSpecialFolder** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _folderspec_|Required. The name of the special folder to be returned. Can be any of the constants shown in the Settings section.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                        |
+|:----------------------|:--------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                                                  |
+| <em>folderspec</em>   | Required. The name of the special folder to be returned. Can be any of the constants shown in the Settings section. |
+
  **Settings**
 The  _folderspec_ argument can have any of the following values:
 

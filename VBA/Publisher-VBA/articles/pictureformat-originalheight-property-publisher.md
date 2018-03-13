@@ -43,23 +43,22 @@ The following example tests each picture in the active publication, and returns 
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
- 
+
  Debug.Print "File Name: " &; .Filename 
  Debug.Print "Horizontal Scaling: " &; .HorizontalScale &; "%" 
  Debug.Print "Original Image Height: " &; .OriginalHeight &; " points" 
  Debug.Print "Height in publication: " &; .Height &; " points" 
- 
+
  End With 
  End If 
  Next shpLoop 
 Next pgLoop 
-
 ```
 
 

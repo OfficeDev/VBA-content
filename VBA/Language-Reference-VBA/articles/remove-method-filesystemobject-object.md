@@ -20,10 +20,11 @@ Removes a key, item pair from a  **Dictionary** object.
 The  **Remove** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **Dictionary** object.|
-| _key_|Required.  _Key_ associated with the key, item pair you want to remove from the **Dictionary** object.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                               |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>Dictionary</strong> object.                                                        |
+| <em>key</em>          | Required.  <em>Key</em> associated with the key, item pair you want to remove from the <strong>Dictionary</strong> object. |
+
  **Remarks**
 An error occurs if the specified key, item pair does not exist.
 The following code illustrates use of the  **Remove** method:
@@ -38,7 +39,6 @@ d.Add "b", "Belgrade"
 d.Add "c", "Cairo"
 ...
 a = d. Remove()          'Remove second pair
-
 ```
 
 

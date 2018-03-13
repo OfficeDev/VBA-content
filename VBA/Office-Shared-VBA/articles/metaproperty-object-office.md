@@ -24,11 +24,10 @@ In the following example, a  **MetaProperties** object is passed to a validation
 ```
 Function ValidateMetaProperty(ByVal metaProps As MetaProperties) As String 
 Dim result As String 
- 
+
 result = metaProps(1).Validate 
 ValidateMetaProperty = result 
 End Function 
-
 ```
 
 

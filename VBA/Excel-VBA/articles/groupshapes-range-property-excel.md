@@ -57,7 +57,6 @@ Dim arShapes() As Variant
 Dim objRange As Object 
 arShapes = Array("Oval 4", "Rectangle 5") 
 Set objRange = ActiveSheet.Shapes.Range(arShapes) 
- 
 ```
 
 In Microsoft Excel, you cannot use this property to return a  **ShapeRange** object containing all the **Shape** objects on a worksheet. Instead, use the following code:
@@ -68,7 +67,6 @@ In Microsoft Excel, you cannot use this property to return a  **ShapeRange** obj
 ```vb
 Worksheets(1).Shapes.SelectAll ' select all shapes 
 set sr = Selection.ShapeRange ' create ShapeRange 
- 
 ```
 
 This example sets the fill pattern for the shapes named "Oval 4" and "Rectangle 5" on  `myDocument`.

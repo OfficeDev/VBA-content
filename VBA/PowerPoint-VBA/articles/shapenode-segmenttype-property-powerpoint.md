@@ -37,8 +37,9 @@ The value returned by the  **SegmentType** property can be one of these **MsoSeg
 
 ||
 |:-----|
-|**msoSegmentCurve**|
-|**msoSegmentLine**|
+|<strong>msoSegmentCurve</strong>|
+|
+<strong>msoSegmentLine</strong>|
 
 ## Example
 

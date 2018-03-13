@@ -18,7 +18,7 @@ Specifies the pages to publish to a server.
 
 ## Syntax
 
- _expression_ . **SetPagesToPublish**( **_PublishPages_** , **_NamesArray()_** , **_ Flags_** )
+ <em>expression</em> . <strong>SetPagesToPublish</strong>( <strong><em>PublishPages</em></strong> , <strong><em>NamesArray()</em></strong> , <strong><em> Flags</em></strong> )
 
  _expression_ A variable that represents a **[ServerPublishOptions](serverpublishoptions-object-visio.md)** object.
 
@@ -44,10 +44,11 @@ The  _PublishPages_ parameter must be one of the following **VisPublishPages** c
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visPublishPageAll**|0|Publish all pages.|
-| **visPublishPageSelect**|1|Publish selected pages.|
+| <strong>Constant</strong>             | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visPublishPageAll</strong>    | 0                      | Publish all pages.           |
+| <strong>visPublishPageSelect</strong> | 1                      | Publish selected pages.      |
+
 The  _Flags_ parameter must be one of the following **VisLangFlags** constants.
 
 

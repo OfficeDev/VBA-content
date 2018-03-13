@@ -33,11 +33,11 @@ The  **OnCurrent** value will be one of the following, depending on the selectio
 
 
 - If Expression Builder is chosen, the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
-    
+
 - If Macro Builder is chosen, the value is the name of the macro. 
-    
+
 - If Code Builder is chosen, the value will be "[Event Procedure]". 
-    
+
 If the  **On Current** box is blank, the property value is an empty string.
 
 
@@ -48,7 +48,6 @@ The following example associates the  **Current** event with the macro "Current_
 
 ```vb
 Forms("Order Entry").OnDeactivate = "Current_Macro" 
-
 ```
 
 

@@ -41,7 +41,6 @@ The following example creates a  **PageBackground** object and sets it to the ba
 ```vb
 Dim objPageBackground As PageBackground 
 Set objPageBackground = ActiveDocument.Pages(1).Background 
- 
 ```
 
 

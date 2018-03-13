@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Collections (Visual C++ Syntax Index with #import)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -25,13 +25,13 @@ All collections inherit the  **Count** property and **Refresh** method, and all 
 ## Properties Collection
 <a name="sectionSection0"> </a>
 
+
  **Methods**
 
 
 ```
- 
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 ```
 
  **Properties**
@@ -40,28 +40,27 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 
 
 ```
- 
+
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
- 
+
 PropertyPtr GetItem( const _variant_t &; Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
-
 ```
 
 
 ## Errors Collection
 <a name="sectionSection1"> </a>
 
+
  **Methods**
 
 
 ```
- 
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthclear_HV10294165.xml( ); 
- 
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthclear_HV10294165.xml( ); 
+
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 ```
 
  **Properties**
@@ -70,30 +69,29 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 
 
 ```
- 
+
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
- 
+
 PropertyPtr GetItem( const _variant_t &; Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
-
 ```
 
 
 ## Parameters Collection
 <a name="sectionSection2"> </a>
 
+
  **Methods**
 
 
 ```
- 
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml( IDispatch * Object ); 
- 
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldelete_HV10294294.xml( const _variant_t &; Index ); 
- 
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml( IDispatch * Object ); 
+
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldelete_HV10294294.xml( const _variant_t &; Index ); 
+
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 ```
 
  **Properties**
@@ -102,32 +100,32 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 
 
 ```
- 
+
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
- 
+
 PropertyPtr GetItem( const _variant_t &; Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
-
 ```
 
 
 ## Fields Collection
 <a name="sectionSection3"> </a>
 
+
  **Methods**
 
 
 ```c#
- 
+
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml( _bstr_t Name , enum DataTypeEnum Type , long DefinedSize , 
  enum FieldAttributeEnum Attrib , const _variant_t &; FieldValue  = 
  vtMissing ); 
- 
+
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldeletefield_HV10294293.xml( const _variant_t &; Index ); 
- 
+
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
- 
+
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthupdate_HV10294888.xml( ); 
 
 ```
@@ -138,13 +136,12 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 
 
 ```
- 
+
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
- 
+
 PropertyPtr GetItem( const _variant_t &; Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

@@ -16,7 +16,7 @@ The following code example shows how to find the product that makes the most and
 
 ```vb
 Sub GetProductStats() 
- 
+
 Dim dbsNorthwind As DAO.Database 
 Dim rstProducts As DAO.Recordset 
 Dim rstCategories As DAO.Recordset 
@@ -28,35 +28,35 @@ Dim curLowRev As Currency
 Dim strSQL As String 
 Dim strCriteria As String 
 Dim strMessage As String 
- 
+
 On Error GoTo ErrorHandler 
- 
+
    Set dbsNorthwind = CurrentDb 
- 
+
    strSQL = "SELECT * FROM Products WHERE UnitsOnOrder >= 40 " &; _ 
             "ORDER BY CategoryID, UnitsOnOrder DESC" 
    Set rstProducts = dbsNorthwind.OpenRecordset(strSQL, dbOpenSnapshot) 
    If rstProducts.EOF Then Exit Sub 
- 
+
    StrSQL = "SELECT CategoryID, CategoryName FROM Categories " &; _ 
             "ORDER BY CategoryID" 
    Set rstCategories = dbsNorthwind.OpenRecordset(strSQL, dbOpenSnapshot) 
- 
+
    ' For each category find the product generating the least revenue 
    ' and the product generating the most revenue. 
    Do Until rstCategories.EOF 
- 
+
       strCriteria = "CategoryID = " &; rstCategories![CategoryID] 
       rstProducts.FindFirst strCriteria 
       curHighRev = rstProducts![UnitPrice] * rstProducts![UnitsOnOrder] 
- 
+
       If Not rstProducts.NoMatch Then 
- 
+
          ' Set bookmarks at the first record containing the CategoryID. 
          varFirstMark = rstProducts.Bookmark 
          varHighMark = varFirstMark 
          varLowMark = varFirstMark 
- 
+
          ' Find the product generating the most revenue. 
          Do While rstProducts![CategoryID] = rstCategories![CategoryID] 
             If rstProducts![UnitPrice] * rstProducts![UnitsOnOrder] > _ 
@@ -67,11 +67,11 @@ On Error GoTo ErrorHandler
             End If 
             rstProducts.MoveNext 
          Loop 
- 
+
          ' Move to the first record containing the CategoryID. 
          rstProducts.Bookmark = varFirstMark 
          curLowRev = rstProducts![UnitPrice] * rstProducts![UnitsOnOrder] 
- 
+
          ' Find the product generating the least revenue. 
          Do While rstProducts![CategoryID] = rstCategories![CategoryID] 
             If rstProducts![UnitPrice] * rstProducts![UnitsOnOrder] < _ 
@@ -82,9 +82,9 @@ On Error GoTo ErrorHandler
             End If 
             rstProducts.MoveNext 
          Loop 
- 
+
       End If 
- 
+
       ' Set high and low bookmarks to build the message string. 
       strMessage = "CATEGORY:  " &; rstCategories!CategoryName &; _ 
                    vbCrLf &; vbCrLf 
@@ -97,17 +97,17 @@ On Error GoTo ErrorHandler
       MsgBox strMessage, , "Product Statistics" 
       rstCategories.MoveNext 
    Loop 
- 
+
    rstProducts.Close 
    rstCategories.Close 
    dbsNorthwind.Close 
- 
+
    Set rstProducts = Nothing 
    Set rstCategories = Nothing 
    Set dbsNorthwind = Nothing 
- 
+
 Exit Sub 
- 
+
 ErrorHandler: 
    MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
 End Sub
@@ -120,7 +120,6 @@ The  **[LastModified](http://msdn.microsoft.com/library/7386F25B-BDE1-A446-E980-
 
 ```
 rstCustomers.Bookmark = rstCustomers.LastModified 
-
 ```
 
 This moves the current record position to the last record that was added or modified. This is particularly useful when adding new records, because after you add a new record, the current record is the one you were on before you added the record. With the  **LastModified** property, you can move to the newly added record if that is what your application expects.
@@ -133,23 +132,22 @@ Dim dbsNorthwind As DAO.Database
 Dim rstOriginal As DAO.Recordset 
 Dim rstDuplicate As DAO.Recordset 
 Dim varBookMark As Variant 
- 
+
    Set dbsNorthwind = CurrentDb 
- 
+
    ' Create the first Recordset. 
    Set rstOriginal = dbsNorthwind.OpenRecordset("Orders", dbOpenDynaset) 
- 
+
    ' Save the current record position. 
    varBookMark = rstOriginal.Bookmark 
- 
+
    ' Create a duplicate Recordset. 
    Set rstDuplicate = rstOriginal.Clone() 
- 
+
    ' Go to the same record. 
    rstDuplicate.Bookmark = varBookMark 
- 
-   rstOriginal.Close 
 
+   rstOriginal.Close 
 ```
 
 You can also use the DAO  **Bookmark** property on the **Recordset** object underlying a form. With this property, your code can mark which record is currently displayed on the form, and then change the record that is being displayed. For example, on a form containing employee information, you may want to include a button that a user can click to show the record for an employee's supervisor.

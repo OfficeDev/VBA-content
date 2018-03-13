@@ -21,25 +21,26 @@ The required  _varname_[argument](vbe-glossary.md) is a[Variant](vbe-glossary.md
 The string returned by  **TypeName** can be any one of the following:
 
 
-|**String returned**|**Variable**|
-|:-----|:-----|
-|[object type](vbe-glossary.md)|An object whose type is  _objecttype_|
-|[Byte](vbe-glossary.md)|Byte value|
-|[Integer](vbe-glossary.md)|Integer|
-|[Long](vbe-glossary.md)|Long integer|
-|[Single](vbe-glossary.md)|Single-precision floating-point number|
-|[Double](vbe-glossary.md)|Double-precision floating-point number|
-|[Currency](vbe-glossary.md)|Currency value|
-|[Decimal](vbe-glossary.md)|Decimal value|
-|[Date](vbe-glossary.md)|Date value|
-|[String](vbe-glossary.md)|String|
-|[Boolean](vbe-glossary.md)|Boolean value|
-|**Error**|An error value|
-|[Empty](vbe-glossary.md)|Uninitialized|
-|[Null](vbe-glossary.md)|No valid data|
-|[Object](vbe-glossary.md)|An object|
-|Unknown|An object whose type is unknown|
-|**Nothing**|Object variable that doesn't refer to an object|
+| <strong>String returned</strong> | <strong>Variable</strong>                       |
+|:---------------------------------|:------------------------------------------------|
+| [object type](vbe-glossary.md)   | An object whose type is  <em>objecttype</em>    |
+| [Byte](vbe-glossary.md)          | Byte value                                      |
+| [Integer](vbe-glossary.md)       | Integer                                         |
+| [Long](vbe-glossary.md)          | Long integer                                    |
+| [Single](vbe-glossary.md)        | Single-precision floating-point number          |
+| [Double](vbe-glossary.md)        | Double-precision floating-point number          |
+| [Currency](vbe-glossary.md)      | Currency value                                  |
+| [Decimal](vbe-glossary.md)       | Decimal value                                   |
+| [Date](vbe-glossary.md)          | Date value                                      |
+| [String](vbe-glossary.md)        | String                                          |
+| [Boolean](vbe-glossary.md)       | Boolean value                                   |
+| <strong>Error</strong>           | An error value                                  |
+| [Empty](vbe-glossary.md)         | Uninitialized                                   |
+| [Null](vbe-glossary.md)          | No valid data                                   |
+| [Object](vbe-glossary.md)        | An object                                       |
+| Unknown                          | An object whose type is unknown                 |
+| <strong>Nothing</strong>         | Object variable that doesn't refer to an object |
+
 If  _varname_ is an[array](vbe-glossary.md), the returned string can be any one of the possible returned strings (or  **Variant** ) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
 
 ## Example
@@ -57,7 +58,6 @@ MyType = TypeName(IntVar)    ' Returns "Integer".
 MyType = TypeName(CurVar)    ' Returns "Currency".
 MyType = TypeName(NullVar)    ' Returns "Null".
 MyType = TypeName(ArrayVar)    ' Returns "Integer()".
-
 ```
 
 

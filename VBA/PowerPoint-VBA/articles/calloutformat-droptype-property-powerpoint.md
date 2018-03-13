@@ -39,11 +39,15 @@ The value returned by the  **DropType** property can be one of these **MsoCallou
 
 ||
 |:-----|
-|**msoCalloutDropBottom**|
-|**msoCalloutDropCenter**|
-|**msoCalloutDropCustom**|
-|**msoCalloutDropMixed**|
-|**msoCalloutDropTop**|
+|<strong>msoCalloutDropBottom</strong>|
+|
+<strong>msoCalloutDropCenter</strong>|
+|
+<strong>msoCalloutDropCustom</strong>|
+|
+<strong>msoCalloutDropMixed</strong>|
+|
+<strong>msoCalloutDropTop</strong>|
 
 ## Example
 

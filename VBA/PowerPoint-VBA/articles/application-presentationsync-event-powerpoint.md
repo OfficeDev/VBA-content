@@ -39,14 +39,21 @@ The  _SyncEventType_ parameter value can be one of these **MsoSyncEventType** co
 
 ||
 |:-----|
-|**msoSyncEventDownloadInitiated**|
-|**msoSyncEventDownloadSucceeded**|
-|**msoSyncEventDownloadFailed**|
-|**msoSyncEventUploadInitiated**|
-|**msoSyncEventUploadSucceeded**|
-|**msoSyncEventUploadFailed**|
-|**msoSyncEventDownloadNoChange**|
-|**msoSyncEventOffline**|
+|<strong>msoSyncEventDownloadInitiated</strong>|
+|
+<strong>msoSyncEventDownloadSucceeded</strong>|
+|
+<strong>msoSyncEventDownloadFailed</strong>|
+|
+<strong>msoSyncEventUploadInitiated</strong>|
+|
+<strong>msoSyncEventUploadSucceeded</strong>|
+|
+<strong>msoSyncEventUploadFailed</strong>|
+|
+<strong>msoSyncEventDownloadNoChange</strong>|
+|
+<strong>msoSyncEventOffline</strong>|
 
 ## Example
 

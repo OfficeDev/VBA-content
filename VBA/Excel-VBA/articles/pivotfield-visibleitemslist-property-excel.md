@@ -44,7 +44,6 @@ ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geograp
 .[Postal Code]").VisibleItemsList = Array("") 
 ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geography] &; _ 
 .[Full Name]").VisibleItemsList = Array("") 
-
 ```
 
 

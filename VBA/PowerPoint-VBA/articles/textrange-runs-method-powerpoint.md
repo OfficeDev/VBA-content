@@ -74,8 +74,6 @@ With Application.ActivePresentation.Slides(1).Shapes(2) _
     End With
 
 End With
-
-
 ```
 
 

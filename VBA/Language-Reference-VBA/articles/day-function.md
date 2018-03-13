@@ -30,8 +30,6 @@ This example uses the  **Day** function to obtain the day of the month from a sp
 Dim MyDate, MyDay
 MyDate = #February 12, 1969#    ' Assign a date.
 MyDay = Day(MyDate)    ' MyDay contains 12.
-
-
 ```
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppIcon Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -28,6 +28,7 @@ You can use the  **AppIcon** property to specify the name of the bitmap (.bmp) o
 ## Setting
 <a name="sectionSection0"> </a>
 
+
 The  **AppIcon** property is a string expression that's a valid bitmap or icon file name (/including the path).
 
 The easiest way to set this property is by using the  **Application Icon** option in the **Access Options** dialog box, available by clicking the click the **Microsoft Office Button**
@@ -37,14 +38,15 @@ To set the  **AppIcon** property by using a macro or Visual Basic, you must firs
 
 
 - In a Microsoft Access database , you can add it by using the  **CreateProperty** method and append it to the **Properties** collection of the **Database** object.
-    
+
 - In a Microsoft Access project (.adp), you can add it to the  **AccessObjectProperties** collection of the **CurrentProject** object by using the **Add** method.
-    
+
 You must also use the  **RefreshTitleBar** method to make any changes visible immediately.
 
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 If you are distributing your application, it's recommended that the .bmp or .ico file containing the icon reside in the same directory as your Microsoft Access application.
 
@@ -55,6 +57,7 @@ This property setting takes effect immediately after it's set in code (as long a
 
 ## Example
 <a name="sectionSection2"> </a>
+
 
 The following example shows how to change the  **AppIcon** and **AppTitle** properties in a Microsoft Access database. If the properties haven't already been set or created, you must create them and append them to the **Properties** collection by using the **CreateProperty** method.
 
@@ -68,20 +71,20 @@ Sub cmdAddProp_Click()
  CurrentDb.Properties("UseAppIconForFrmRpt") = 1 
  Application.RefreshTitleBar 
 End Sub 
- 
+
 Function AddAppProperty(strName As String, _ 
  varType As Variant, varValue As Variant) As Integer 
  Dim dbs As Object, prp As Variant 
  Const conPropNotFoundError = 3270 
- 
+
  Set dbs = CurrentDb 
  On Error GoTo AddProp_Err 
  dbs.Properties(strName) = varValue 
  AddAppProperty = True 
- 
+
 AddProp_Bye: 
  Exit Function 
- 
+
 AddProp_Err: 
  If Err = conPropNotFoundError Then 
  Set prp = dbs.CreateProperty(strName, varType, varValue) 

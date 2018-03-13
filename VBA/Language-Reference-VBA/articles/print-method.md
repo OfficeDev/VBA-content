@@ -21,20 +21,22 @@ Prints text in the  **Immediate** window.
 The  **Print** method syntax has the following object qualifier and part:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Optional. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _outputlist_|Optional. [Expression](vbe-glossary.md) or list of expressions to print. If omitted, a blank line is printed.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                  |
+|:----------------------|:--------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Optional. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.         |
+| <em>outputlist</em>   | Optional. [Expression](vbe-glossary.md) or list of expressions to print. If omitted, a blank line is printed. |
+
 The  _outputlist_[argument](vbe-glossary.md) has the following syntax and parts:
 { **Spc(**_n_**)** |**Tab(**_n_**)** } _expression charpos_
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**Spc(**_n_**)**|Optional. Used to insert space characters in the output, where  _n_ is the number of space characters to insert.|
-|**Tab(**_n_**)**|Optional. Used to position the insertion point at an absolute column number where  _n_ is the column number. Use **Tab** with no argument to position the insertion point at the beginning of the next[print zone](vbe-glossary.md).|
-| _expression_|Optional. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) to print.|
-| _charpos_|Optional. Specifies the insertion point for the next character. Use a semicolon ( **;** ) to position the insertion point immediately following the last character displayed. Use **Tab(**_n_**)** to position the insertion point at an absolute column number. Use **Tab** with no argument to position the insertion point at the beginning of the next print zone. If _charpos_ is omitted, the next character is printed on the next line.|
+| <strong>Part</strong>                             | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:--------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Spc(</strong><em>n</em><strong>)</strong> | Optional. Used to insert space characters in the output, where  <em>n</em> is the number of space characters to insert.                                                                                                                                                                                                                                                                                                                                                                                           |
+| <strong>Tab(</strong><em>n</em><strong>)</strong> | Optional. Used to position the insertion point at an absolute column number where  <em>n</em> is the column number. Use <strong>Tab</strong> with no argument to position the insertion point at the beginning of the next[print zone](vbe-glossary.md).                                                                                                                                                                                                                                                          |
+| <em>expression</em>                               | Optional. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) to print.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| <em>charpos</em>                                  | Optional. Specifies the insertion point for the next character. Use a semicolon ( <strong>;</strong> ) to position the insertion point immediately following the last character displayed. Use <strong>Tab(</strong><em>n</em><strong>)</strong> to position the insertion point at an absolute column number. Use <strong>Tab</strong> with no argument to position the insertion point at the beginning of the next print zone. If <em>charpos</em> is omitted, the next character is printed on the next line. |
+
  **Remarks**
 Multiple expressions can be separated with either a space or a semicolon.
 All data printed to the  **Immediate** window is properly formatted using the decimal separator for the[locale](vbe-glossary.md) settings specified for your system. The[keywords](vbe-glossary.md) are output in the appropriate language for the[host application](vbe-glossary.md).
@@ -56,7 +58,6 @@ Using the  **Print** method, this example displays the value of the variable `My
 Dim MyVar
 MyVar = "Come see me in the Immediate pane."
 Debug.Print MyVar
-
 ```
 
 

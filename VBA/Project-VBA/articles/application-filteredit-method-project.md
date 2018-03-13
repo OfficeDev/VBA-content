@@ -42,6 +42,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|
@@ -81,7 +82,7 @@ Sub CreateAndApplyHighestPriorityFilter()
             Exit For 
         End If 
     Next TaskFilter 
- 
+
     ' If filter doesn't exist, create it. 
     If Not Found Then FilterEdit Name:="Highest Priority", _ 
         Create:=True, TaskFilter:=True, FieldName:="Priority", _ 

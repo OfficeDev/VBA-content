@@ -53,7 +53,6 @@ With ActiveDocument.Pages(1).Shapes(1).Duplicate
  .IncrementTop Increment:=-50 
  .IncrementRotation Increment:=30 
 End With 
-
 ```
 
 

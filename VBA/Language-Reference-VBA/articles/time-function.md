@@ -27,8 +27,6 @@ This example uses the  **Time** function to return the current system time.
 ```vb
 Dim MyTime
 MyTime = Time    ' Return current system time.
-
-
 ```
 
 

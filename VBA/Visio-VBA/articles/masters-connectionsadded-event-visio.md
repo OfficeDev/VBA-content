@@ -18,7 +18,7 @@ Occurs after connections have been established between shapes.
 
 ## Syntax
 
-Private Sub  _expression_ _**ConnectionsAdded**( **_ByVal Connects As [IVCONNECTS]_** )
+Private Sub  <em>expression</em> <em><strong>ConnectionsAdded</strong>( **_ByVal Connects As [IVCONNECTS]</em>** )
 
  _expression_ A variable that represents a **Masters** object.
 

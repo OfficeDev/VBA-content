@@ -63,11 +63,12 @@ The  _Flags_ argument should be a bitmask of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visSetBlastGuards**|&;H2|Override present cell values even if they're guarded.|
-| **visSetTestCircular**|&;H4|Test for establishment of circular cell references.|
-| **visSetUniversalSyntax**|&;H8|Formulas are in universal syntax.|
+| <strong>Constant</strong>              | <strong>Value</strong> | <strong>Description</strong>                          |
+|:---------------------------------------|:-----------------------|:------------------------------------------------------|
+| <strong>visSetBlastGuards</strong>     | &;H2                   | Override present cell values even if they're guarded. |
+| <strong>visSetTestCircular</strong>    | &;H4                   | Test for establishment of circular cell references.   |
+| <strong>visSetUniversalSyntax</strong> | &;H8                   | Formulas are in universal syntax.                     |
+
 The value returned by the  **SetFormulas** method is the number of entries in _SID_SRCStream()_ that were successfully processed. If _i_ < _n_ entries process correctly, but an error occurs on the _i_ + 1st entry, the **SetFormulas** method raises an exception and returns _i_ . Otherwise, _n_ is returned.
 
 
@@ -81,31 +82,31 @@ This example uses the  **GetFormulas** method of the **Page** object to get thre
 
 
 ```vb
- 
+
 Public Sub SetFormulas_Example() 
- 
+
  On Error GoTo HandleError 
- 
+
  Dim aintSheetSectionRowColumn(1 To 3 * 4) As Integer 
  aintSheetSectionRowColumn(1) = ActivePage.Shapes(1).ID 
  aintSheetSectionRowColumn(2) = visSectionObject 
  aintSheetSectionRowColumn(3) = visRowXFormOut 
  aintSheetSectionRowColumn(4) = visXFormWidth 
- 
+
  aintSheetSectionRowColumn(5) = ActivePage.Shapes(2).ID 
  aintSheetSectionRowColumn(6) = visSectionObject 
  aintSheetSectionRowColumn(7) = visRowXFormOut 
  aintSheetSectionRowColumn(8) = visXFormHeight 
- 
+
  aintSheetSectionRowColumn(9) = ActivePage.Shapes(3).ID 
  aintSheetSectionRowColumn(10) = visSectionObject 
  aintSheetSectionRowColumn(11) = visRowXFormOut 
  aintSheetSectionRowColumn(12) = visXFormAngle 
- 
+
  'Return the formulas of the cells. 
  Dim avarFormulaArray() As Variant 
  ActivePage.GetFormulas aintSheetSectionRowColumn, avarFormulaArray 
- 
+
  'Use SetFormulas to: 
  ' - Set the width of shape 1 to height of shape 2. 
  ' - Set height of shape 2 to width of shape 1. 
@@ -114,25 +115,25 @@ Public Sub SetFormulas_Example()
  varTemp = avarFormulaArray(0) 
  avarFormulaArray(0) = avarFormulaArray(1) 
  avarFormulaArray(1) = varTemp 
- 
+
  'Pass the same array back to SetFormulas that we 
  'just passed to GetFormulas, leaving angle alone. By setting 
  'the sheet ID entry in the third slot of the 
  'aintSheetSectionRowColumn array to visInvalShapeID, 
  'we tell SetFormulas to ignore that slot. 
  aintSheetSectionRowColumn (9) = visInvalShapeID 
- 
+
  'Tell Microsoft Visio to set the formulas of the cells. 
  ActivePage.SetFormulas aintSheetSectionRowColumn, avarFormulaArray, 0 
- 
+
  Exit Sub 
- 
+
 HandleError: 
- 
+
  MsgBox "Error" 
- 
+
  Exit Sub 
- 
+
 End Sub
 ```
 

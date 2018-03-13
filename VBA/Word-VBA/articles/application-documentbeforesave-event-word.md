@@ -18,7 +18,7 @@ Occurs before any open document is saved.
 
 ## Syntax
 
-Private Sub  _expression_ _**DocumentBeforeSave**( **_ByVal DocAs Document_** , **_SaveAsUIAs Boolean_** , **_CancelAs Boolean_** )
+Private Sub  <em>expression</em> <em><strong>DocumentBeforeSave</strong>( **_ByVal DocAs Document</em>** , <strong><em>SaveAsUIAs Boolean</em></strong> , <strong><em>CancelAs Boolean</em></strong> )
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object declared with events in a class module.
 

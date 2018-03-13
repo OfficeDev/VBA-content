@@ -48,7 +48,6 @@ With ActiveDocument.InlineShapes(1)
  MarkerStyle = xlDiamond 
  End If 
 End With 
-
 ```
 
 

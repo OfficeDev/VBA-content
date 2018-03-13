@@ -19,17 +19,19 @@ Creates and returns a reference to an [ActiveX object](vbe-glossary.md).
 The  **CreateObject** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _class_|Required;  **Variant** ( **String** ). The application name and class of the object to create.|
-| _servername_|Optional;  **Variant** ( **String** ). The name of the network server where the object will be created. If _servername_ is an empty string (""), the local machine is used.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                 |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>class</em>        | Required;  <strong>Variant</strong> ( <strong>String</strong> ). The application name and class of the object to create.                                                                                     |
+| <em>servername</em>   | Optional;  <strong>Variant</strong> ( <strong>String</strong> ). The name of the network server where the object will be created. If <em>servername</em> is an empty string (""), the local machine is used. |
+
 The  _class_[argument](vbe-glossary.md) uses the syntax _appname_**.**_objecttype_ and has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _appname_|Required;  **Variant** ( **String** ). The name of the application providing the object.|
-| _objecttype_|Required;  **Variant** ( **String** ). The type or[class](vbe-glossary.md) of object to create.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                              |
+|:----------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| <em>appname</em>      | Required;  <strong>Variant</strong> ( <strong>String</strong> ). The name of the application providing the object.        |
+| <em>objecttype</em>   | Required;  <strong>Variant</strong> ( <strong>String</strong> ). The type or[class](vbe-glossary.md) of object to create. |
+
  **Remarks**
 Every application that supports Automation provides at least one type of object. For example, a word processing application may provide an  **Application** object, a **Document** object, and a **Toolbar** object.
 To create an ActiveX object, assign the object returned by  **CreateObject** to an[object variable](vbe-glossary.md):
@@ -58,7 +60,6 @@ ExcelSheet.SaveAs "C:\TEST.XLS"
 ExcelSheet.Application.Quit
 ' Release the object variable.
 Set ExcelSheet = Nothing
-
 ```
 
 Declaring an object variable with the  `As Object` clause creates a variable that can contain a reference to any type of object. However, access to the object through that variable is late bound; that is, the binding occurs when your program is run. To create an object variable that results in early binding, that is, binding when the program is compiled, declare the object variable with a specific class ID. For example, you can declare and create the following Microsoft Excel references:
@@ -72,7 +73,6 @@ Dim xlSheet As Excel.WorkSheet
 Set xlApp = CreateObject("Excel.Application")
 Set xlBook = xlApp.Workbooks.Add
 Set xlSheet = xlBook.Worksheets(1)
-
 ```
 
 The reference through an early-bound variable can give better performance, but can only contain a reference to the [class](vbe-glossary.md) specified in the[declaration](vbe-glossary.md).
@@ -111,14 +111,13 @@ This example uses the  **CreateObject** function to set a reference ( `xlApp`) t
 
 ```vb
 Dim xlApp As Object    ' Declare variable to hold the reference.
-    
+
 Set xlApp = CreateObject("excel.application")
     ' You may have to set Visible property to True
     ' if you want to see the application.
 xlApp.Visible = True
     ' Use xlApp to access Microsoft Excel's 
     ' other objects.
-
 ```
 
 

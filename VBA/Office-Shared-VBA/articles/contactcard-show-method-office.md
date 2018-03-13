@@ -45,13 +45,14 @@ Nothing
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**msoContactCardTypeEnterpriseContact**|0|Represents a contact card for an enterprise contact address.|
-|**msoContactCardTypePersonalContact**|1|Represents a contact card for a personal contact address.|
-|**msoContactCardTypeUnknownContact**|2|Represents a contact card for an unknown contact address.|
-|**msoContactCardTypeEnterpriseGroup**|3|Represents a contact card for an enterprise distribution list contact address.|
-|**msoContactCardTypePersonalDistributionList**|4|Represents a contact card for a personal distribution list contact address.|
+| <strong>Constant</strong>                                   | <strong>Value</strong> | <strong>Description</strong>                                                   |
+|:------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
+| <strong>msoContactCardTypeEnterpriseContact</strong>        | 0                      | Represents a contact card for an enterprise contact address.                   |
+| <strong>msoContactCardTypePersonalContact</strong>          | 1                      | Represents a contact card for a personal contact address.                      |
+| <strong>msoContactCardTypeUnknownContact</strong>           | 2                      | Represents a contact card for an unknown contact address.                      |
+| <strong>msoContactCardTypeEnterpriseGroup</strong>          | 3                      | Represents a contact card for an enterprise distribution list contact address. |
+| <strong>msoContactCardTypePersonalDistributionList</strong> | 4                      | Represents a contact card for a personal distribution list contact address.    |
+
  _fDelay_ applies only if _Style_ is **msoContactCardStyleHover**. For all other card styles, _fDelay_ is ignored.
 
 

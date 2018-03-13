@@ -40,7 +40,6 @@ The following example checks the  **Connected** property to determine whether th
     If ActiveWorkbook.SharedWorkspace.Connected Then 
         MsgBox "This document is already saved in a shared workspace." 
     End If 
-
 ```
 
 

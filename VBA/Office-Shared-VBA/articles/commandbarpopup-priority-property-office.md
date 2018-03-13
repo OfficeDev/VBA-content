@@ -45,12 +45,11 @@ The following example sets the descriptive text and priority of a command bar po
 Dim popControl As CommandBarPopup 
 Set popControl = Application.CommandBars.FindControl _ 
 (Type:=msoControlPopup, Tag:="Graphics") 
- 
+
 With popControl. 
             .DescriptionText = "Graphics Selection dialog" 
             .Priority = 5 
 End With 
-
 ```
 
 

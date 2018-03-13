@@ -15,20 +15,22 @@ ms.date: 06/08/2017
 
 
 1. Select the  **CommandButton** controls to arrange.
-    
-2. From the  **Format** menu, choose **Arrange Buttons**.
-    
-3. From the cascading menu, choose one of the following:
-    
-    
-    
-      -  **Bottom** — to put the buttons in a row starting at the bottom left corner of the form and align the bottoms of all buttons.
-    
-  -  **Right** — to put the buttons in a column starting at the upper right corner of the form and align the right edges of all buttons.
-    
 
-    
-    
+2. From the  **Format** menu, choose **Arrange Buttons**.
+
+3. From the cascading menu, choose one of the following:
+
+
+
+~~~
+  -  **Bottom** — to put the buttons in a row starting at the bottom left corner of the form and align the bottoms of all buttons.
+~~~
+
+  -  **Right** — to put the buttons in a column starting at the upper right corner of the form and align the right edges of all buttons.
+
+
+
+
 
 
 

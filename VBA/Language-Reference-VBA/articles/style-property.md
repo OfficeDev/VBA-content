@@ -19,19 +19,21 @@ For MultiPage and TabStrip _object_. **Style** [= _fmTabStyle_ ]
 The  **Style** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmStyle_|Optional. Specifies how a user sets the value of a  **ComboBox**.|
-| _fmTabStyle_|Optional. Specifies the tab style in a  **MultiPage** or **TabStrip**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                     |
+|:----------------------|:-------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                        |
+| <em>fmStyle</em>      | Optional. Specifies how a user sets the value of a  <strong>ComboBox</strong>.                   |
+| <em>fmTabStyle</em>   | Optional. Specifies the tab style in a  <strong>MultiPage</strong> or <strong>TabStrip</strong>. |
+
  **Settings**
 The settings for  _fmStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmStyleDropDownCombo_|0|The  **ComboBox** behaves as a drop-down combo box. The user can type a value in the edit region or select a value from the drop-down list (default).|
-| _fmStyleDropDownList_|2|The  **ComboBox** behaves as a list box. The user must choose a value from the list.|
+| <strong>Constant</strong>     | <strong>Value</strong> | <strong>Description</strong>                                                                                                                                       |
+|:------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>fmStyleDropDownCombo</em> | 0                      | The  <strong>ComboBox</strong> behaves as a drop-down combo box. The user can type a value in the edit region or select a value from the drop-down list (default). |
+| <em>fmStyleDropDownList</em>  | 2                      | The  <strong>ComboBox</strong> behaves as a list box. The user must choose a value from the list.                                                                  |
+
 The settings for  _fmTabStyle_ are:
 
 

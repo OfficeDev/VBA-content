@@ -20,10 +20,10 @@ The following code example shows how to use the  **BOF** and **EOF** properties 
 ```vb
 Dim dbsNorthwind As DAO.Database 
 Dim rstOrders As DAO.Recordset 
- 
+
    Set dbsNorthwind = CurrentDb 
    Set rstOrders = dbsNorthwind.OpenRecordset("Orders") 
- 
+
    ' Do until ending of file. 
    Do Until rstOrders.EOF 
       ' 
@@ -31,9 +31,9 @@ Dim rstOrders As DAO.Recordset
       ' 
       rstOrders.MoveNext            ' Move to the next record. 
    Loop 
- 
+
    rstOrders.MoveLast               ' Move to the last record. 
- 
+
    ' Do until beginning of file. 
    Do Until rstOrders.BOF 
       ' 
@@ -41,21 +41,20 @@ Dim rstOrders As DAO.Recordset
       ' 
       rstOrders.MovePrevious        ' Move to the previous record. 
    Loop 
-
 ```
 
 Be aware that there is no current record immediately following the first loop. The  **BOF** and **EOF** properties both have the following characteristics.
 
 - If the  **Recordset** contains no records when you open it, both **BOF** and **EOF** are **True**.
-    
+
 - When  **BOF** or **EOF** is **True**, the property remains **True** until you move to an existing record, at which time the value of **BOF** or **EOF** becomes **False**.
-    
+
 - When  **BOF** or **EOF** is **False**, and the only record in a **Recordset** is deleted, the property remains **False** until you try to move to another record, at which time both **BOF** and **EOF** become **True**.
-    
+
 - At the moment you create or open a  **Recordset** that contains at least one record, the first record is the current record, and both **BOF** and **EOF** are **False**.
-    
+
 - If the first record is the current record when you use the  **MovePrevious** method, **BOF** is set to **True**. If you use **MovePrevious** while **BOF** is **True**, a run-time error occurs. When this happens, **BOF** remains **True** and there is no current record.
-    
+
 - Similarly, moving past the last record in the  **Recordset** changes the value of the **EOF** property to **True**. If you use the **MoveNext** method while **EOF** is **True**, a run-time error occurs. When this happens, **EOF** remains **True** and there is no current record.
-    
+
 

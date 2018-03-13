@@ -35,7 +35,6 @@ The following example loads a theme color scheme from a file.
 
 ```
 ThemeColorScheme.Load ("C:\myThemeColorScheme.xml") 
-
 ```
 
 

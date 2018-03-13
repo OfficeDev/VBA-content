@@ -30,8 +30,6 @@ The following example sets a reference to an  **AddressEntry** object.
 
 ```
 Set myAddressEntry = myRecipient.AddressEntry 
- 
-
 ```
 
 

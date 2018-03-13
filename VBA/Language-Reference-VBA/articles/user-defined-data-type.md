@@ -20,7 +20,6 @@ Type MyType
  MyBirthDate As Date ' Date variable stores a birthdate. 
  MySex As Integer ' Integer variable stores sex (0 for 
 End Type ' female, 1 for male). 
-
 ```
 
 

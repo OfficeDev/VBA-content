@@ -38,10 +38,10 @@ This example uses the  **CountA** worksheet function to determine how many cells
 Sub StartSpelling()
    'Set up your variables
    Dim iRow As Integer
-   
+
    'And define your error handling routine.
    On Error GoTo ERRORHANDLER
-   
+
    'Go through all the cells in column A, and perform a spellcheck on the value.
    'If the value is spelled incorrectly, write "Wrong" in column B, otherwise write "OK".
    For iRow = 1 To WorksheetFunction.CountA(Columns(1))
@@ -57,7 +57,7 @@ Sub StartSpelling()
     'Error handling routine.
 ERRORHANDLER:
     MsgBox "The spell check feature is not installed!"
-    
+
 End Sub
 ```
 
@@ -65,11 +65,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## Methods
 <a name="AboutContributor"> </a>
+
 
 
 
@@ -468,6 +470,7 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 
+
 |**Name**|
 |:-----|
 |[Application](worksheetfunction-application-property-excel.md)|
@@ -476,6 +479,7 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Other resources

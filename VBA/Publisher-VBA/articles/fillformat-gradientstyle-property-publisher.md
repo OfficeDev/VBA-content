@@ -44,7 +44,7 @@ This example adds a rectangle to the active publication and sets its fill gradie
 
 ```vb
 Dim intStyle As Integer 
- 
+
 With ActiveDocument.Pages(1).Shapes 
  ' Store gradient style of rect1. 
  intStyle = .Item("rect1").Fill.GradientStyle 
@@ -57,7 +57,6 @@ With ActiveDocument.Pages(1).Shapes
  Variant:=1, Degree:=1 
  End With 
 End With 
-
 ```
 
 

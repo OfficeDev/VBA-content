@@ -24,10 +24,11 @@ Connection sites are generally numbered according to the rules presented in the 
 
 
 
-|**Shape type**|**Connection site numbering scheme**|
-|:-----|:-----|
-|AutoShapes, WordArt, pictures, and OLE objects|The connection sites are numbered starting at the top and proceeding counterclockwise.|
-|Freeforms|The connection sites are the vertices, and they correspond to the vertex numbers.|
+| <strong>Shape type</strong>                    | <strong>Connection site numbering scheme</strong>                                      |
+|:-----------------------------------------------|:---------------------------------------------------------------------------------------|
+| AutoShapes, WordArt, pictures, and OLE objects | The connection sites are numbered starting at the top and proceeding counterclockwise. |
+| Freeforms                                      | The connection sites are the vertices, and they correspond to the vertex numbers.      |
+
 Use the  **ConnectorFormat** property to return a **ConnectorFormat** object. Use the **[BeginConnect](connectorformat-beginconnect-method-excel.md)** and **[EndConnect](connectorformat-endconnect-method-excel.md)** methods to attach the ends of the connector to other shapes in the document. Use the **[RerouteConnections](shape-rerouteconnections-method-excel.md)** method to automatically find the shortest path between the two shapes connected by the connector. Use the **[Connector](shape-connector-property-excel.md)** property to see whether a shape is a connector.
 
 

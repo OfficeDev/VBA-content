@@ -15,7 +15,7 @@ Queued when an internal command begins, or when an Automation client opens a sco
 
 ## Syntax
 
-Private Sub  _expression_ _**EnterScope**( **_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_** )
+Private Sub  <em>expression</em> <em><strong>EnterScope</strong>( **_ByVal app As [IVAPPLICATION]</em>** , <strong><em>ByVal nScopeID As Long</em></strong> , <strong><em>ByVal bstrDescription As String</em></strong> )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

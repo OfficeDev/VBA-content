@@ -40,31 +40,32 @@ To specify characters that aren't displayed when you press the corresponding key
 
 
 
-|**Key**|**Code**|
-|:-----|:-----|
-|BACKSPACE| `{BACKSPACE}` or `{BS}`|
-|BREAK| `{BREAK}`|
-|CAPS LOCK| `{CAPSLOCK}`|
-|CLEAR| `{CLEAR}`|
-|DELETE or DEL| `{DELETE}` or `{DEL}`|
-|DOWN ARROW| `{DOWN}`|
-|END| `{END}`|
-|ENTER (numeric keypad)| `{ENTER}`|
-|ENTER| `~` (tilde)|
-|ESC| `{ESCAPE}` or `{ESC}`|
-|HELP| `{HELP}`|
-|HOME| `{HOME}`|
-|INS| `{INSERT}`|
-|LEFT ARROW| `{LEFT}`|
-|NUM LOCK| `{NUMLOCK}`|
-|PAGE DOWN| `{PGDN}`|
-|PAGE UP| `{PGUP}`|
-|RETURN| `{RETURN}`|
-|RIGHT ARROW| `{RIGHT}`|
-|SCROLL LOCK| `{SCROLLLOCK}`|
-|TAB| `{TAB}`|
-|UP ARROW| `{UP}`|
-|F1 through F15| `{F1}` through `{F15}`|
+| <strong>Key</strong>   | <strong>Code</strong>   |
+|:-----------------------|:------------------------|
+| BACKSPACE              | `{BACKSPACE}` or `{BS}` |
+| BREAK                  | `{BREAK}`               |
+| CAPS LOCK              | `{CAPSLOCK}`            |
+| CLEAR                  | `{CLEAR}`               |
+| DELETE or DEL          | `{DELETE}` or `{DEL}`   |
+| DOWN ARROW             | `{DOWN}`                |
+| END                    | `{END}`                 |
+| ENTER (numeric keypad) | `{ENTER}`               |
+| ENTER                  | `~` (tilde)             |
+| ESC                    | `{ESCAPE}` or `{ESC}`   |
+| HELP                   | `{HELP}`                |
+| HOME                   | `{HOME}`                |
+| INS                    | `{INSERT}`              |
+| LEFT ARROW             | `{LEFT}`                |
+| NUM LOCK               | `{NUMLOCK}`             |
+| PAGE DOWN              | `{PGDN}`                |
+| PAGE UP                | `{PGUP}`                |
+| RETURN                 | `{RETURN}`              |
+| RIGHT ARROW            | `{RIGHT}`               |
+| SCROLL LOCK            | `{SCROLLLOCK}`          |
+| TAB                    | `{TAB}`                 |
+| UP ARROW               | `{UP}`                  |
+| F1 through F15         | `{F1}` through `{F15}`  |
+
 You can also specify keys combined with SHIFT and/or CTRL and/or ALT. To specify a key combined with one or more of the keys just mentioned, use the following table.
 
 

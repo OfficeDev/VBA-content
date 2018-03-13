@@ -45,7 +45,6 @@ The following example displays properties of the shared workspace member.
     MsgBox strSWSInfo, vbInformation + vbOKOnly, _ 
         "Shared Workspace Member Information" 
     Set swsWorkspaceMember = Nothing 
-
 ```
 
 

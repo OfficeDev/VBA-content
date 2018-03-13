@@ -22,7 +22,7 @@ You can use an OLE programmatic identifier (sometimes called a ProgID) to create
 ```vb
 Sub CreateWordDoc_Late() 
     Dim wdDoc As Object 
- 
+
     Set wdDoc = CreateObject("Word.Document") 
     wdDoc.Save 
 End Sub
@@ -39,7 +39,7 @@ The following macro performs better and does the same job as the  **CreateWordDo
 ```vb
 Sub CreateWordDoc_Early() 
     Dim wdDoc As Word.Document 
- 
+
     Set wdDoc = New Word.Document 
     wdDoc.Save 
 End Sub
@@ -55,13 +55,13 @@ Sub CreateExcelWorkbook_Early()
     Dim xlApp As Excel.Application
     Dim xlWorkbook As Excel.Workbook
     Dim xlWorksheet As Excel.Worksheet
-    
+
     Set xlApp = Excel.Application
     xlApp.Visible = True
-        
+
     Set xlWorkbook = xlApp.Workbooks.Add
     Set xlWorksheet = xlWorkbook.Worksheets(1)
-    
+
     xlWorksheet.Cells(1, 1).Value = "Data from Project"
     xlWorksheet.SaveAs ("C:\Project\VBA\ProjectWorksheet.xlsx")
     xlWorkbook.Close
@@ -82,56 +82,60 @@ To create the ActiveX controls listed in the following table, use the correspond
 
 
 
-|**To create this control**|**Use this identifier**|
-|:-----|:-----|
-|CheckBox|Forms.CheckBox.1|
-|ComboBox|Forms.ComboBox.1|
-|CommandButton|Forms.CommandButton.1|
-|Frame|Forms.Frame.1|
-|Image|Forms.Image.1|
-|Label|Forms.Label.1|
-|ListBox|Forms.ListBox.1|
-|MultiPage|Forms.MultiPage.1|
-|OptionButton|Forms.OptionButton.1|
-|ScrollBar|Forms.ScrollBar.1|
-|SpinButton|Forms.SpinButton.1|
-|TabStrip|Forms.TabStrip.1|
-|TextBox|Forms.TextBox.1|
-|ToggleButton|Forms.ToggleButton.1|
+| <strong>To create this control</strong> | <strong>Use this identifier</strong> |
+|:----------------------------------------|:-------------------------------------|
+| CheckBox                                | Forms.CheckBox.1                     |
+| ComboBox                                | Forms.ComboBox.1                     |
+| CommandButton                           | Forms.CommandButton.1                |
+| Frame                                   | Forms.Frame.1                        |
+| Image                                   | Forms.Image.1                        |
+| Label                                   | Forms.Label.1                        |
+| ListBox                                 | Forms.ListBox.1                      |
+| MultiPage                               | Forms.MultiPage.1                    |
+| OptionButton                            | Forms.OptionButton.1                 |
+| ScrollBar                               | Forms.ScrollBar.1                    |
+| SpinButton                              | Forms.SpinButton.1                   |
+| TabStrip                                | Forms.TabStrip.1                     |
+| TextBox                                 | Forms.TextBox.1                      |
+| ToggleButton                            | Forms.ToggleButton.1                 |
+
  **Microsoft Access**
 
 To create the Access objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Access that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Access 15.0 Object Library**.
 
 
 
-|**To create this object**|**Use one of these identifiers**|
-|:-----|:-----|
-|Application|Access.Application, Access.Application.15|
-|CurrentData|Access.CodeData, Access.CurrentData|
-|CurrentProject|Access.CodeProject, Access.CurrentProject|
-|DefaultWebOptions|Access.DefaultWebOptions|
+| <strong>To create this object</strong> | <strong>Use one of these identifiers</strong> |
+|:---------------------------------------|:----------------------------------------------|
+| Application                            | Access.Application, Access.Application.15     |
+| CurrentData                            | Access.CodeData, Access.CurrentData           |
+| CurrentProject                         | Access.CodeProject, Access.CurrentProject     |
+| DefaultWebOptions                      | Access.DefaultWebOptions                      |
+
  **Microsoft Excel**
 
 To create the Excel objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Excel that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Excel 15.0 Object Library**.
 
 
 
-|**To create this object**|**Use one of these identifiers**|**Comments**|
-|:-----|:-----|:-----|
-|Application|Excel.Application, Excel.Application.15||
-|Workbook|Excel.AddIn||
-|Workbook|Excel.Chart, Excel.Chart.8|Returns a workbook containing two worksheets: one for the chart, and one for its data. The chart worksheet is the active worksheet.|
-|Workbook|Excel.Sheet, Excel.Sheet.12|Returns a workbook with one worksheet.|
+| <strong>To create this object</strong> | <strong>Use one of these identifiers</strong> | <strong>Comments</strong>                                                                                                           |
+|:---------------------------------------|:----------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
+| Application                            | Excel.Application, Excel.Application.15       |                                                                                                                                     |
+| Workbook                               | Excel.AddIn                                   |                                                                                                                                     |
+| Workbook                               | Excel.Chart, Excel.Chart.8                    | Returns a workbook containing two worksheets: one for the chart, and one for its data. The chart worksheet is the active worksheet. |
+| Workbook                               | Excel.Sheet, Excel.Sheet.12                   | Returns a workbook with one worksheet.                                                                                              |
+
  **Microsoft Graph**
 
 To create the Microsoft Graph objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Graph that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft Graph 15.0 Object Library**.
 
 
 
-|**To create this object**|**Use one of these identifiers**|
-|:-----|:-----|
-|Application|MSGraph.Application, MSGraph.Application.8|
-|Chart|MSGraph.Chart, MSGraph.Chart.8|
+| <strong>To create this object</strong> | <strong>Use one of these identifiers</strong> |
+|:---------------------------------------|:----------------------------------------------|
+| Application                            | MSGraph.Application, MSGraph.Application.8    |
+| Chart                                  | MSGraph.Chart, MSGraph.Chart.8                |
+
  **Microsoft Office Web Components**
 
 
@@ -143,18 +147,20 @@ To create the Microsoft Outlook object given in the following table, use one of 
 
 
 
-|**To create this object**|**Use one of these identifiers**|
-|:-----|:-----|
-|Application|Outlook.Application, Outlook.Application.15|
+| <strong>To create this object</strong> | <strong>Use one of these identifiers</strong> |
+|:---------------------------------------|:----------------------------------------------|
+| Application                            | Outlook.Application, Outlook.Application.15   |
+
  **Microsoft PowerPoint**
 
 To create the Microsoft PowerPoint object given in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of PowerPoint that is available on the computer where the macro is running. For early binding, set a reference to  **Microsoft PowerPoint 15.0 Object Library**.
 
 
 
-|**To create this object**|**Use one of these identifiers**|
-|:-----|:-----|
-|Application|PowerPoint.Application, PowerPoint.Application.15|
+| <strong>To create this object</strong> | <strong>Use one of these identifiers</strong>     |
+|:---------------------------------------|:--------------------------------------------------|
+| Application                            | PowerPoint.Application, PowerPoint.Application.15 |
+
  **Microsoft Word**
 
 To create the Microsoft Word objects listed in the following table, use one of the corresponding OLE programmatic identifiers. If you use an identifier without a version number suffix, you create an object in the most recent version of Word that is available on the computer where the macro is running. Word.Document.8 and Word.Document.12 both create a document in the default Open XML format (.docx). For early binding, set a reference to  **Microsoft Word 15.0 Object Library**.

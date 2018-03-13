@@ -59,16 +59,18 @@ When the  **Filter** property is set in form Design view, Microsoft Access does 
 
 
 - [Forms: Populate Controls/Text Boxes Based on Combobox Selection](http://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
-    
+
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
+
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

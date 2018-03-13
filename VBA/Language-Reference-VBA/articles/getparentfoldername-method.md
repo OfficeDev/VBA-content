@@ -22,10 +22,11 @@ Returns a string containing the name of the parent folder of the last component 
 The  **GetParentFolderName** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _path_|Required. The path specification for the component whose parent folder name is to be returned.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                   |
+|:----------------------|:-----------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                             |
+| <em>path</em>         | Required. The path specification for the component whose parent folder name is to be returned. |
+
  **Remarks**
 The  **GetParentFolderName** method returns a zero-length string ("") if there is no parent folder for the component specified in the _path_ argument.
 

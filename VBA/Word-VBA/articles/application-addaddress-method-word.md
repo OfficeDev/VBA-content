@@ -31,6 +31,7 @@ _expression_ Required. A variable that represents an **[Application](application
 
 <br/>
 
+
 #### Tag IDs
 
 |**Tag ID**|**Description**|
@@ -68,6 +69,7 @@ _expression_ Required. A variable that represents an **[Application](application
 
 <br/>
 
+
 ## Example
 
 This example adds an entry to the address book.
@@ -75,7 +77,7 @@ This example adds an entry to the address book.
 ```vb
 Dim tagIDArray(0 To 3) As String 
 Dim valueArray(0 To 3) As String 
- 
+
 tagIDArray(0) = "PR_DISPLAY_NAME" 
 tagIDArray(1) = "PR_GIVEN_NAME" 
 tagIDArray(2) = "PR_SURNAME" 
@@ -84,7 +86,7 @@ valueArray(0) = "Kim Buhler"
 valueArray(1) = "Kim" 
 valueArray(2) = "Buhler" 
 valueArray(3) = "This is a comment" 
- 
+
 Application.AddAddress TagID:=tagIDArray(), Value:=valueArray()
 ```
 

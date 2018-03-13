@@ -43,7 +43,6 @@ With Worksheets(1).QueryTables(1)
  MsgBox "Query complete: all records returned." 
  End If 
 End With 
-
 ```
 
 

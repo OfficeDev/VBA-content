@@ -21,18 +21,20 @@ Specifies whether a control can accept and display multiple lines of text.
 The  **MultiLine** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the control supports more than one line of text.|
+| <strong>Part</strong> | <strong>Description</strong>                                       |
+|:----------------------|:-------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                          |
+| <em>Boolean</em>      | Optional. Whether the control supports more than one line of text. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|The text is displayed across multiple lines (default).|
-|**False**|The text is not displayed across multiple lines.|
+| <strong>Value</strong> | <strong>Description</strong>                           |
+|:-----------------------|:-------------------------------------------------------|
+| <strong>True</strong>  | The text is displayed across multiple lines (default). |
+| <strong>False</strong> | The text is not displayed across multiple lines.       |
+
  **Remarks**
 A multiline  **TextBox** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
 A single-line  **TextBox** doesn't allow absolute line breaks and doesn't use vertical scroll bars.

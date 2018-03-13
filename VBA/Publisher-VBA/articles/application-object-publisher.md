@@ -18,7 +18,7 @@ Represents the Microsoft Publisher application. The  **Application** object incl
 
 ## Remarks
 
-When using Microsoft Visual Basic for Applications in Publisher, all of the properties and methods of the  **Application** object can be used without the **Application** object qualifier. For example, instead of typing `Application.ActiveDocument.PrintOut`, you can type  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the Object Browser, click **<globals>** at the top of the list in the **Classes** box. When accessing the Publisher object model from a non-Publisher project, all properties and methods must be fully qualified.
+When using Microsoft Visual Basic for Applications in Publisher, all of the properties and methods of the  <strong>Application</strong> object can be used without the <strong>Application</strong> object qualifier. For example, instead of typing `Application.ActiveDocument.PrintOut`, you can type  `ActiveDocument.PrintOut`. Properties and methods that can be used without the  <strong>Application</strong> object qualifier are considered "global." To view the global properties and methods in the Object Browser, click <strong><globals></strong> at the top of the list in the <strong>Classes</strong> box. When accessing the Publisher object model from a non-Publisher project, all properties and methods must be fully qualified.
 
 
 ## Example

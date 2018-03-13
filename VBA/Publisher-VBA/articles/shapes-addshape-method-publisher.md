@@ -52,12 +52,11 @@ The following example adds a rectangle to the first page of the active publicati
 
 ```vb
 Dim shpShape As Shape 
- 
+
 Set shpShape = ActiveDocument.Pages(1).Shapes.AddShape _ 
  (Type:=msoShapeRectangle, _ 
  Left:=144, Top:=144, _ 
  Width:=72, Height:=144) 
-
 ```
 
 

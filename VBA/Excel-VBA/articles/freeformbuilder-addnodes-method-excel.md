@@ -44,15 +44,20 @@ Adds a point in the current shape and then draws a line from the current node to
 
 
 
-| **MsoSegmentType** can be one of these **MsoSegmentType** constants.|
-| **msoSegmentLine**|
-| **msoSegmentCurve**|
+| <strong>MsoSegmentType</strong> can be one of these <strong>MsoSegmentType</strong> constants.|
+| 
+<strong>msoSegmentLine</strong>|
+| 
+<strong>msoSegmentCurve</strong>|
 
 
-| **MsoEditingType** can be one of these **MsoEditingType** constants.|
-| **msoEditingAuto**|
-| **msoEditingCorner**|
-|Cannot be  **msoEditingSmooth** or **msoEditingSymmetric** If _SegmentType_ is **msoSegmentLine** , _EditingType_ must be **msoEditingAuto** .|
+| <strong>MsoEditingType</strong> can be one of these <strong>MsoEditingType</strong> constants.|
+| 
+<strong>msoEditingAuto</strong>|
+| 
+<strong>msoEditingCorner</strong>|
+|Cannot be  
+<strong>msoEditingSmooth</strong> or <strong>msoEditingSymmetric</strong> If <em>SegmentType</em> is <strong>msoSegmentLine</strong> , <em>EditingType</em> must be <strong>msoEditingAuto</strong> .|
 
 ## Example
 

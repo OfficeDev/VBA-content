@@ -37,11 +37,12 @@ The following sample settings show how you use the  **GroupLevel** property to r
 
 
 
-|**Group level**|**Refers to**|
-|:-----|:-----|
-|**GroupLevel** (0)|The first field or expression you sort or group on.|
-|**GroupLevel** (1)|The second field or expression you sort or group on.|
-|**GroupLevel** (2)|The third field or expression you sort or group on.|
+| <strong>Group level</strong>    | <strong>Refers to</strong>                           |
+|:--------------------------------|:-----------------------------------------------------|
+| <strong>GroupLevel</strong> (0) | The first field or expression you sort or group on.  |
+| <strong>GroupLevel</strong> (1) | The second field or expression you sort or group on. |
+| <strong>GroupLevel</strong> (2) | The third field or expression you sort or group on.  |
+
 The  **GroupLevel** property setting is an array in which each entry identifies a group level. You can have up to 10 group levels (0 to 9).
 
 

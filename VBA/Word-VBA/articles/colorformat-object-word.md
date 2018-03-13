@@ -22,14 +22,15 @@ Use one of the properties listed in the following table to return a  **ColorForm
 
 
 
-|**Use this property**|**With this object**|**To return a ColorFormat object that represents this**|
-|:-----|:-----|:-----|
-|**[BackColor](fillformat-backcolor-property-word.md)**|**[FillFormat](fillformat-object-word.md)**|Background fill color (used in a shaded or patterned fill)|
-|**[ForeColor](fillformat-forecolor-property-word.md)**|**[FillFormat](fillformat-object-word.md)**|Foreground fill color (or the fill color for a solid fill)|
-|**[BackColor](lineformat-backcolor-property-word.md)**|**[LineFormat](lineformat-object-word.md)**|Background line color (used in a patterned line)|
-|**[ForeColor](lineformat-forecolor-property-word.md)**|**[LineFormat](lineformat-object-word.md)**|Foreground line color (or the line color for a solid line)|
-|**[ForeColor](shadowformat-forecolor-property-word.md)**|**[ShadowFormat](shadowformat-object-word.md)**|Shadow color|
-|**[ExtrusionColor](threedformat-extrusioncolor-property-word.md)**|**[ThreeDFormat](threedformat-object-word.md)**|Color of the sides of an extruded object|
+| <strong>Use this property</strong>                                                                                                                                          | <strong>With this object</strong>                                                                                                     | <strong>To return a ColorFormat object that represents this</strong> |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
+| <strong><a href="fillformat-backcolor-property-word.md" data-raw-source="[BackColor](fillformat-backcolor-property-word.md)">BackColor</a></strong>                         | <strong><a href="fillformat-object-word.md" data-raw-source="[FillFormat](fillformat-object-word.md)">FillFormat</a></strong>         | Background fill color (used in a shaded or patterned fill)           |
+| <strong><a href="fillformat-forecolor-property-word.md" data-raw-source="[ForeColor](fillformat-forecolor-property-word.md)">ForeColor</a></strong>                         | <strong><a href="fillformat-object-word.md" data-raw-source="[FillFormat](fillformat-object-word.md)">FillFormat</a></strong>         | Foreground fill color (or the fill color for a solid fill)           |
+| <strong><a href="lineformat-backcolor-property-word.md" data-raw-source="[BackColor](lineformat-backcolor-property-word.md)">BackColor</a></strong>                         | <strong><a href="lineformat-object-word.md" data-raw-source="[LineFormat](lineformat-object-word.md)">LineFormat</a></strong>         | Background line color (used in a patterned line)                     |
+| <strong><a href="lineformat-forecolor-property-word.md" data-raw-source="[ForeColor](lineformat-forecolor-property-word.md)">ForeColor</a></strong>                         | <strong><a href="lineformat-object-word.md" data-raw-source="[LineFormat](lineformat-object-word.md)">LineFormat</a></strong>         | Foreground line color (or the line color for a solid line)           |
+| <strong><a href="shadowformat-forecolor-property-word.md" data-raw-source="[ForeColor](shadowformat-forecolor-property-word.md)">ForeColor</a></strong>                     | <strong><a href="shadowformat-object-word.md" data-raw-source="[ShadowFormat](shadowformat-object-word.md)">ShadowFormat</a></strong> | Shadow color                                                         |
+| <strong><a href="threedformat-extrusioncolor-property-word.md" data-raw-source="[ExtrusionColor](threedformat-extrusioncolor-property-word.md)">ExtrusionColor</a></strong> | <strong><a href="threedformat-object-word.md" data-raw-source="[ThreeDFormat](threedformat-object-word.md)">ThreeDFormat</a></strong> | Color of the sides of an extruded object                             |
+
 Use the  **RGB** property to set a color to an explicit red-green-blue value. The following example adds a rectangle to the active document and then sets the foreground color, background color, and gradient for the rectangle's fill.
 
 

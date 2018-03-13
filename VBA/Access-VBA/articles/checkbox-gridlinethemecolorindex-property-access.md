@@ -29,20 +29,21 @@ The  **GridlineThemeColorIndex** property uses one of the values listed in the f
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|0 |Text 1|
-|1 (Default)|Background 1|
-|2|Text 2|
-|3|Background 2|
-|4|Accent 1|
-|5|Accent 2|
-|6|Accent 3|
-|7|Accent 4|
-|8|Accent 5|
-|9|Accent 6|
-|10|Hyperlink|
-|11|Followed Hyperlink|
+| <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------|:-----------------------------|
+| 0                      | Text 1                       |
+| 1 (Default)            | Background 1                 |
+| 2                      | Text 2                       |
+| 3                      | Background 2                 |
+| 4                      | Accent 1                     |
+| 5                      | Accent 2                     |
+| 6                      | Accent 3                     |
+| 7                      | Accent 4                     |
+| 8                      | Accent 5                     |
+| 9                      | Accent 6                     |
+| 10                     | Hyperlink                    |
+| 11                     | Followed Hyperlink           |
+
 If no theme is applied, the  **GridlineThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet. 

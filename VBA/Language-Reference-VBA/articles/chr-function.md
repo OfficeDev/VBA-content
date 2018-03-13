@@ -37,8 +37,6 @@ MyChar = Chr(65)    ' Returns A.
 MyChar = Chr(97)    ' Returns a.
 MyChar = Chr(62)    ' Returns >.
 MyChar = Chr(37)    ' Returns %.
-
-
 ```
 
 

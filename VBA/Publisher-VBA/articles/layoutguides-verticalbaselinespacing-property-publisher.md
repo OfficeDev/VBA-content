@@ -42,7 +42,6 @@ This example sets the vertical baseline spacing of the  **LayoutGuides** object 
 Dim objLayout As LayoutGuides 
 Set objLayout = ActiveDocument.MasterPages(2).LayoutGuides 
 objLayout.VerticalBaseLineSpacing = 12 
-
 ```
 
 

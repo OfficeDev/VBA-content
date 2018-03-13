@@ -35,15 +35,23 @@ The value of the  **DashStyle** property can be one of these **MsoLineDashStyle*
 
 ||
 |:-----|
-|**msoLineDash**|
-|**msoLineDashDot**|
-|**msoLineDashDotDot**|
-|**msoLineDashStyleMixed**|
-|**msoLineLongDash**|
-|**msoLineLongDashDot**|
-|**msoLineRoundDot**|
-|**msoLineSolid**|
-|**msoLineSquareDot**|
+|<strong>msoLineDash</strong>|
+|
+<strong>msoLineDashDot</strong>|
+|
+<strong>msoLineDashDotDot</strong>|
+|
+<strong>msoLineDashStyleMixed</strong>|
+|
+<strong>msoLineLongDash</strong>|
+|
+<strong>msoLineLongDashDot</strong>|
+|
+<strong>msoLineRoundDot</strong>|
+|
+<strong>msoLineSolid</strong>|
+|
+<strong>msoLineSquareDot</strong>|
 
 ## Example
 

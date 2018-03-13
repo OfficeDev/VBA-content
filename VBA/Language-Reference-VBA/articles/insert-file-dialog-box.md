@@ -50,7 +50,7 @@ Selector type the name of the file you want to insert.
 
  **List Files of Type**
 
-Select a file type; the default is Text Files (*.txt). Files of the selected type will appear in the  **File Name** box.
+Select a file type; the default is Text Files (<em>.txt). Files of the selected type will appear in the  **File Name</em>* box.
 
  **Open**
 

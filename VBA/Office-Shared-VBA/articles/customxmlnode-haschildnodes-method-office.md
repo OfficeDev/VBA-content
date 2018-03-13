@@ -41,7 +41,7 @@ The following example demonstrates using various methods to add custom XML parts
 ```
 Sub ShowCustomXmlParts() 
     On Error GoTo Err 
- 
+
     Dim cxps As CustomXMLParts 
     Dim cxp1 As CustomXMLPart 
     Dim cxp2 As CustomXMLPart 
@@ -49,23 +49,23 @@ Sub ShowCustomXmlParts()
     Dim cxns As CustomXMLNodes 
     Dim strXml As String 
     Dim strUri As String 
- 
+
     With ActiveDocument 
         ' Example written for Word. 
- 
+
         ' Adding a custom XML part. 
         .CustomXMLParts.Add "<custXMLPart />" 
-         
+
         ' Add and then load from a file. 
         Set cxp1 = .CustomXMLParts.Add 
         cxp1.Load "c:\invoice.xml" 
-         
+
         ' Returns the first custom XML part with the given root namespace. 
         Set cxp2 = .CustomXMLParts("urn:invoice:namespace")     '  
-         
+
         ' Access all with a given root namespace; returns the entire collection. 
         Set cxps = .CustomXMLParts.SelectByNamespace("urn:invoice:namespace") 
-         
+
         ' DOM-type operations. 
         ' Get the XML. 
         strXml = cxp2.XML 
@@ -76,29 +76,28 @@ Sub ShowCustomXmlParts()
         Set cxns = cxp2.SelectNodes("//*[@unitPrice > 20]") 
         ' Append a child subtree to the single node selected previously. 
         cxn.AppendChildSubtree("<discounts><discount>0.10</discount></discounts>")   
- 
+
          ' Tell user that the child subtree was added. 
          If  cxn.HasChildNodes then 
             MsgBox("The 'Discounts' nodes were added.")  
          Else 
             MsgBox("The 'Discounts' nodes were not added.")  
          End If          
-         
+
         ' Delete custom XML part and node and its children. 
         cxp2.Delete 
         cxn.Delete 
- 
-                 
+
+
     End With 
-     
+
     Exit Sub 
-                 
+
 ' Exception handling. Show the message and resume. 
 Err: 
         MsgBox (Err.Description) 
         Resume Next 
 End Sub 
-
 ```
 
 

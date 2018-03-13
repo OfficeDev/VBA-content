@@ -48,9 +48,9 @@ The number of elements in the array is a multiple of 2:
 
 
 - The first element contains an object type (one of  **visTypePage** , **visTypeGroup** , **visTypeShape** , **visTypeForeignObject** , **visTypeGuide** , or **visTypeDoc** ).
-    
+
 - The second element contains a  **True** or **False** value indicating whether you are listening to events for that object ( **True** to listen to an object's events; **False** to exclude an object's events).
-    
+
 
 
 For an event to successfully pass through an object event filter, it must satisfy the following criteria:
@@ -59,13 +59,13 @@ For an event to successfully pass through an object event filter, it must satisf
 
 
 - It must be a valid object type.
-    
+
 - If all filters are  **True** , the event must match at least one filter.
-    
+
 - If all filters are  **False** , the event must not match any filter.
-    
+
 - If the filters are a mixture of  **True** and **False** , the event must match at least one **True** filter and not match any **False** filters.
-    
+
 
 
 If there are no  **True** ranges defined in the array, events are considered **True** .
@@ -76,13 +76,12 @@ For example, if you want to listen only to events sourced by a shape or guide, y
 
 
 ```vb
- 
+
  Dim aFilterObjects(1 To (2 * 2)) As Long 
  aFilterObjects(1) = visTypeShape 
  aFilterObjects(2) = True 
  aFilterObjects(3) = visTypeGuide 
  aFilterObjects(4) = True 
-
 ```
 
 

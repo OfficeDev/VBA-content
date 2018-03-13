@@ -40,10 +40,9 @@ You should attempt to maintain the property at its current value across the comp
 ```vb
 blsPrevious = Application.UndoEnabled 
 Application.UndoEnabled = False 
- 
+
 'Large operation here 
 Application.UndoEnabled = blsPrevious 
-
 ```
 
 
@@ -54,18 +53,18 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 ```vb
 Public Sub UndoEnabled_Example() 
- 
+
  'Disable undo 
  Application.UndoEnabled = False 
- 
+
  'Draw three shapes. 
  ActivePage.DrawRectangle 1, 2, 2, 1 
  ActivePage.DrawOval 3, 4, 4, 3 
  ActivePage.DrawLine 4, 5, 5, 4 
- 
+
  'Enable undo. 
  Application.UndoEnabled = True 
- 
+
 End Sub
 ```
 

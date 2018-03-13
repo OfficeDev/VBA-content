@@ -29,11 +29,12 @@ The  **ScrollBarAlign** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|System|0|Vertical scroll bar is placed on the left if the form or report  **Orientation** property is right to left; and on the right if the form or report **Orientation** property is left to right.|
-|Right|1|Aligns vertical scroll bar on the right side of the control.|
-|Left|2|Aligns vertical scroll bar on the left side of the control.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                                                                                                            |
+|:-------------------------|:------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| System                   | 0                             | Vertical scroll bar is placed on the left if the form or report  <strong>Orientation</strong> property is right to left; and on the right if the form or report <strong>Orientation</strong> property is left to right. |
+| Right                    | 1                             | Aligns vertical scroll bar on the right side of the control.                                                                                                                                                            |
+| Left                     | 2                             | Aligns vertical scroll bar on the left side of the control.                                                                                                                                                             |
+
 For combo and list boxes,  **ScrollBarAlign** also controls the placement of the box button above the scroll bar.
 
 

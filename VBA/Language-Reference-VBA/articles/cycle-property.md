@@ -21,18 +21,20 @@ Specifies the action to take when the user leaves the last control on a  **Frame
 The  **Cycle** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmCycle_|Optional. Specifies whether cycling includes controls nested in a  **Frame** or **MultiPage**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                             |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                                                |
+| <em>fmCycle</em>      | Optional. Specifies whether cycling includes controls nested in a  <strong>Frame</strong> or <strong>MultiPage</strong>. |
+
  **Settings**
 The settings for  _fmCycle_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmCycleAllForms_|0|[Cycles](glossary-vba.md) through the controls on the form and the controls of the **Frame** and **MultiPage** controls that are currently displayed on the form.|
-| _fmCycleCurrentForm_|2|Cycles through the controls on the form,  **Frame**, or **MultiPage**. The focus stays within the form, **Frame**, or **MultiPage** until the focus is explicitly set to a control outside the form, **Frame**, or **MultiPage**.|
+| <strong>Constant</strong>   | <strong>Value</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                    |
+|:----------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>fmCycleAllForms</em>    | 0                      | [Cycles](glossary-vba.md) through the controls on the form and the controls of the <strong>Frame</strong> and <strong>MultiPage</strong> controls that are currently displayed on the form.                                                                                                                     |
+| <em>fmCycleCurrentForm</em> | 2                      | Cycles through the controls on the form,  <strong>Frame</strong>, or <strong>MultiPage</strong>. The focus stays within the form, <strong>Frame</strong>, or <strong>MultiPage</strong> until the focus is explicitly set to a control outside the form, <strong>Frame</strong>, or <strong>MultiPage</strong>. |
+
 If you specify a non-integer value for  **Cycle**, the value is rounded up to the nearest integer.
  **Remarks**
 The [tab order](vbe-glossary.md) identifies the order in which controls receive the[focus](vbe-glossary.md) as the user tabs through a form or subform. The **Cycle** property determines the action to take when a user tabs from the last control in the tab order.

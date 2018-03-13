@@ -29,9 +29,11 @@ Specifies the orientation for the sort. Read/write  **[XlSortOrientation](xlsort
 
 
 
-|XlSortOrientation can be one of these  **XlSortOrientation** constants.|
-| **xlSortColumns**|
-| **xlSortRows**|
+|XlSortOrientation can be one of these  <strong>XlSortOrientation</strong> constants.|
+| 
+<strong>xlSortColumns</strong>|
+| 
+<strong>xlSortRows</strong>|
 
 ## See also
 

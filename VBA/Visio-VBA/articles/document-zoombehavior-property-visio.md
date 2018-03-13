@@ -36,12 +36,13 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visZoomNone**|0|Undefined zoom behavior; use the zoom behavior of the document or application. This is the default.|
-| **visZoomInPlaceContainer**|1|The container performs the zoom.|
-| **visZoomVisio**|2|Visio performs the zoom. |
-| **visZoomVisioExact**|4|Visio zooms when open in place; Visio does not adjust the zoom level|
+| <strong>Constant</strong>                | <strong>Value</strong> | <strong>Description</strong>                                                                        |
+|:-----------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------|
+| <strong>visZoomNone</strong>             | 0                      | Undefined zoom behavior; use the zoom behavior of the document or application. This is the default. |
+| <strong>visZoomInPlaceContainer</strong> | 1                      | The container performs the zoom.                                                                    |
+| <strong>visZoomVisio</strong>            | 2                      | Visio performs the zoom.                                                                            |
+| <strong>visZoomVisioExact</strong>       | 4                      | Visio zooms when open in place; Visio does not adjust the zoom level                                |
+
 If  **ZoomBehavior** is set to **visZoomVisio** , Visio adjusts the zoom level to certain discrete values, for example 50% or 100%, to optimize the appearance of the page rulers and grid, and of snap behavior.
 
 If  **ZoomBehavior** is set to **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
@@ -61,9 +62,9 @@ The following procedure shows how to set the  **Document.ZoomBehavior** property
 
 ```vb
 Sub ZoomBehavior_Example() 
- 
+
  ActiveDocument.ZoomBehavior = visZoomInPlaceContainer 
- 
+
 End Sub
 ```
 

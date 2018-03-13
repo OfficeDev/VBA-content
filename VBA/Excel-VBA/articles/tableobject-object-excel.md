@@ -42,7 +42,6 @@ Set objTable = objWorksheet.ListObjects.Add(SourceType:=xlSrcModel, Source:=objW
 objTable.Refresh
 
 End Sub
-
 ```
 
 

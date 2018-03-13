@@ -17,9 +17,9 @@ Whether a form or report uses the settings of the default application printer (t
 
 
 - A user can save printer settings by opening the form or report in any view, and using the  **Print** or **Page Setup** dialog boxes to change the settings for the form or report.
-    
+
 - You can make changes to the  **Printer** object of a form or report in code, and those changes will be saved with the form or report if you use the **[Save](docmd-save-method-access.md)** method before closing the form or report, or specify **acSaveYes** for the _Save_ argument when using the **[Close](docmd-close-method-access.md)** method to close the form or report.
-    
+
 
  **Note**  When printer settings are saved with a form or report, Access creates a new data structure for the form or report to contain the saved settings. Initially, this new data structure contains a copy of all of the settings of the default printer. Any settings the user or your code overrides are saved with the data structure. Access does not maintain any sort of inheritance between settings of the default printer and the settings saved with a form or report. If you change settings of the default printer after saving settings for a form or report, the settings that were originally saved will remain in effect.
 
@@ -31,7 +31,6 @@ To determine whether a form or report has saved printer settings, you can read t
 
 ```
 expression .UseDefaultPrinter 
-
 ```
 
 Where  _expression_ is any expression that returns a **Form** or **Report** object. The **UseDefaultPrinter** property is read/write in Design view and read-only in all other views.
@@ -55,7 +54,6 @@ For Each obj In CurrentProject.AllReports
     End If 
     DoCmd.Close 
 Next obj 
-
 ```
 
 
@@ -69,36 +67,36 @@ Sub RestoreReportPrinter()
     Dim rpt As Report 
     Dim prtOld As Printer 
     Dim prtNew As Printer 
- 
+
     ' Open the Invoice report in Print Preview. 
     DoCmd.OpenReport ReportName:="Invoice", View:=acViewPreview 
- 
+
     ' Initialize rpt variable. 
     Set rpt = Reports!Invoice 
- 
+
     ' Save the report's current printer settings 
     ' in the prtOld variable. 
     Set prtOld = rpt.Printer 
- 
+
     ' Load the report's current printer settings 
     ' into the prtNew variable. 
     Set prtNew = rpt.Printer 
- 
+
     ' Change the report's Orientation property. 
     prtNew.Orientation = acPRORLandscape 
- 
+
     ' Change other Printer properties, and then print 
     ' or perform other operations here. 
- 
+
     ' If you comment out the following line of code, 
     ' and a user interactively closes the report preview 
     ' any changes made to properties of the report's Printer 
     ' object are saved when the report is closed.  
     Set rpt.Printer = prtOld 
- 
+
     ' Close report without saving. 
     DoCmd.Close ObjectType:=acReport, ObjectName:="Invoice", Save:=acSaveNo 
- 
+
 End Sub
 ```
 

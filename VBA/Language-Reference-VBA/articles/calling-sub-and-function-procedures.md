@@ -22,13 +22,13 @@ Sub Main()
  MultiBeep 56 
  Message 
 End Sub 
- 
+
 Sub MultiBeep(numbeeps) 
  For counter = 1 To numbeeps 
  Beep 
  Next counter 
 End Sub 
- 
+
 Sub Message() 
  MsgBox "Time to take a break!" 
 End Sub
@@ -45,7 +45,7 @@ Sub Main()
  HouseCalc 99800, 43100 
  Call HouseCalc(380950, 49500) 
 End Sub 
- 
+
 Sub HouseCalc(price As Single, wage As Single) 
  If 2.5 * wage <= 0.8 * price Then 
  MsgBox "You cannot afford this house." 
@@ -63,7 +63,6 @@ To use the return value of a function, assign the function to a [variable](vbe-g
 
 ```vb
 Answer3 = MsgBox("Are you happy with your salary?", 4, "Question 3") 
-
 ```
 
 If you're not interested in the return value of a function, you can call a function the same way you call a  **Sub** procedure. Omit the parentheses, list the arguments, and do not assign the function to a variable, as shown in the following example.
@@ -73,7 +72,6 @@ If you're not interested in the return value of a function, you can call a funct
 
 ```vb
 MsgBox "Task Completed!", 0, "Task Box" 
-
 ```
 
 If you include parentheses in the preceding example, the statement causes a syntax error.
@@ -90,7 +88,6 @@ The following example calls the  **MsgBox** function using named arguments with 
 
 ```vb
 MsgBox Title:="Task Box", Prompt:="Task Completed!" 
-
 ```
 
 The following example calls the  **MsgBox** function using named arguments. The return value is assigned to the variable .
@@ -101,7 +98,6 @@ The following example calls the  **MsgBox** function using named arguments. The 
 ```
 answer3 = MsgBox(Title:="Question 3", _ 
 Prompt:="Are you happy with your salary?", Buttons:=4) 
-
 ```
 
 

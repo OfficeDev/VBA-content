@@ -21,18 +21,20 @@ Returns an integer value indicating whether a specific [format](glossary-vba.md)
 The  **GetFormat** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _format_|Required. An integer or string specifying a specific format that might exist in the  **DataObject**. If the specified format exists in the **DataObject**, **GetFormat** returns **True**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                   |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                                                                                                                                                                      |
+| <em>format</em>       | Required. An integer or string specifying a specific format that might exist in the  <strong>DataObject</strong>. If the specified format exists in the <strong>DataObject</strong>, <strong>GetFormat</strong> returns <strong>True</strong>. |
+
  **Settings**
 The settings for  _format_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|1|Text format.|
-|A string or any integer other than 1|A user-defined  **DataObject** format passed to the **DataObject** from **SetText**.|
+| <strong>Value</strong>               | <strong>Description</strong>                                                                                                |
+|:-------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| 1                                    | Text format.                                                                                                                |
+| A string or any integer other than 1 | A user-defined  <strong>DataObject</strong> format passed to the <strong>DataObject</strong> from <strong>SetText</strong>. |
+
  **Remarks**
 The  **GetFormat** method searches for a format in the current list of formats on the **DataObject**. If the format is on the **DataObject**, **GetFormat** returns **True**; if not, **GetFormat** returns **False**.
 The  **DataObject** currently supports only text formats.

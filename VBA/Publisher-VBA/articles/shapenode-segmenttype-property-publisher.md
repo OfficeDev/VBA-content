@@ -38,8 +38,9 @@ The  **SegmentType** property value can be one of these **MsoSegmentType** const
 
 
 
-| **msoSegmentCurve**|
-| **msoSegmentLine**|
+| <strong>msoSegmentCurve</strong>|
+| 
+<strong>msoSegmentLine</strong>|
 
 ## Example
 

@@ -31,10 +31,11 @@ The  **DisplayType** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Content|**acOLEDisplayContent**|(Default) When the control contains an OLE object, the control displays the object's data, such as a document or spreadsheet.|
-|Icon|**acOLEDisplayIcon**|When the control contains an OLE object, the control displays the object's icon.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong>        | <strong>Description</strong>                                                                                                  |
+|:-------------------------|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| Content                  | <strong>acOLEDisplayContent</strong> | (Default) When the control contains an OLE object, the control displays the object's data, such as a document or spreadsheet. |
+| Icon                     | <strong>acOLEDisplayIcon</strong>    | When the control contains an OLE object, the control displays the object's icon.                                              |
+
 For a bound object frame, the  **DisplayType** property can be set either in Design view or in Form view or Datasheet view for new records while they are being added; it can be read in all views. For an unbound object frame or chart, the property can be set in the **Insert Object** dialog box when the object is created (the default setting is Content or, if you select the **Display As Icon** check box, the setting is Icon).
 
 The  **DisplayType** property determines the default setting of the **Display As Icon** check box in the **Paste Special** dialog box, available by clicking **Paste Special** on the **Edit** menu, and the **Insert Object** dialog box, displayed when inserting an unbound object frame. When you display these dialog boxes in Form view, Datasheet view, or Design view, the **Display As Icon** check box is automatically selected if the **DisplayType** property is set to Icon. For example, you will see these boxes selected when using Visual Basic to set the control's **Action** property to **acOLEInsertObjDlg** or **acOLEPasteSpecialDlg**.

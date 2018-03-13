@@ -32,7 +32,6 @@ Use the  **[Files](sharedworkspace-files-property-office.md)** property of the *
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsFiles = Nothing 
-
 ```
 
 

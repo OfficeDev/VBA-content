@@ -29,10 +29,11 @@ The  **AutoResize** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|(Default) The Report window is automatically sized to display a complete record.|
-|No|**False**|When opened, the Report window has the last saved size. To save a window's size, open the form, size the window, save the form by clicking  **Save** on the **File** menu, and close the form or report. When you next open the form or report, it will be the saved window size.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                |
+|:-------------------------|:------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | (Default) The Report window is automatically sized to display a complete record.                                                                                                                                                                                                                            |
+| No                       | <strong>False</strong>        | When opened, the Report window has the last saved size. To save a window's size, open the form, size the window, save the form by clicking  <strong>Save</strong> on the <strong>File</strong> menu, and close the form or report. When you next open the form or report, it will be the saved window size. |
+
 This property can be set only in Design view.
 
 

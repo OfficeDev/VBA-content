@@ -34,7 +34,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.Title.Characters.Font.Size = 12 
  End If 
 End With 
-
 ```
 
 

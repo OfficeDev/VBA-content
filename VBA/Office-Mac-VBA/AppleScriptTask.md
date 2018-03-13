@@ -43,5 +43,5 @@ The following is an example of a handler.
     end myapplescripthandler
 ```
 
-##What happened to MacScript?
+## What happened to MacScript?
 Earlier versions of Office for Mac implemented a command called **MacScript** that supported inline AppleScripts. Although that command still exists in Office 2016 for Mac, **MacScript** is deprecated. Due to sandbox restrictions, the **MacScript** command cannot invoke other applications, such as Finder, in Office 2016 for Mac. We recommend that you use the **AppleScriptTask** command instead of the **MacScript** command in apps for Office 2016 for Mac.

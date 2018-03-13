@@ -42,7 +42,6 @@ This example deletes the value axis if it is in the secondary group.
 With myChart.Axes(xlValue) 
  If .AxisGroup = xlSecondary Then .Delete 
 End With 
-
 ```
 
 

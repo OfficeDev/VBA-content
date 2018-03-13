@@ -45,11 +45,11 @@ The schema that defines shared workspace tasks and their properties for a ShareP
 
 
 - If a  _Status_ argument is supplied, and the status field has been removed from the customized tasks schema, the argument will be ignored and no error will be raised.
-    
+
 - If a  _Status_ value is supplied that lies outside the status values recognized by the customized tasks schema, the argument will be ignored, the default value will be used, and no error will be raised.
-    
+
 - If a new required field has been added to the customized tasks schema, then the  **Add** method will fail with an error, and it will no longer be possible to use the **Add** method to add new tasks.
-    
+
 
 
 
@@ -73,7 +73,6 @@ The following example adds a new task to the tasks collection of the shared work
         "New Task in Shared Workspace" 
     Set swsMember = Nothing 
     Set swsTask = Nothing 
-
 ```
 
 

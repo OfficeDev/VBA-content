@@ -36,7 +36,7 @@ This example returns the full path and file name of the active spelling dictiona
 ```vb
 Dim lngLanguage As Long 
 Dim dicSpelling As Dictionary 
- 
+
 lngLanguage = Selection.LanguageID 
 Set dicSpelling = Languages(lngLanguage).ActiveSpellingDictionary 
 If dicSpelling Is Nothing Then 
@@ -45,7 +45,6 @@ Else
  MsgBox dicSpelling.Path &; Application.PathSeparator _ 
  &; dicSpelling.Name 
 End If 
-
 ```
 
 

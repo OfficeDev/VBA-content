@@ -21,9 +21,10 @@ Copies data from the Clipboard to a  **DataObject**.
 The  **GetFromClipboard** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object name.|
+| <strong>Part</strong> | <strong>Description</strong>   |
+|:----------------------|:-------------------------------|
+| <em>object</em>       | Required. A valid object name. |
+
  **Remarks**
 The  **DataObject** can contain multiple data items, but each item must be in a different format. For example, the **DataObject** might include one text item and one item in a custom format; but cannot include two text items.
 

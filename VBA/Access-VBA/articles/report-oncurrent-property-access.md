@@ -33,11 +33,11 @@ If you set the form's  **On Current** property in the UI, it gets it value based
 
 
 - If you select  **Code Builder**, then the value will be  _[Event Procedure]_.
-    
+
 - If you select  **Expression Builder**, then the value will be "= _expression_ ", where _expression_ is the expression from the Expression Builder window.
-    
+
 - If you select  **Macro Builder**, then the value will be the name of the macro.
-    
+
 
 ## Example
 
@@ -51,7 +51,6 @@ Private Sub Report_Load()
         Me.OnCurrent = "[Event Procedure]"
 
 End Sub
-		
 ```
 
 The event procedure  **Report_Current()** is automatically called when the **Current** event is fired. This procedure simply collects the values of two of the Report's text boxes and sends them to another procedure for processing.
@@ -75,7 +74,6 @@ Private Sub Report_Current()
         VerifyCreditAvail curPrice, curCreditAvail
 
 End Sub
-		
 ```
 
 The following code example simply processes the two values passed to it.

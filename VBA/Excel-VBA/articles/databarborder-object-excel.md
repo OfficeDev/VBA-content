@@ -29,14 +29,13 @@ The following code example selects a range of cells, adds a data bar conditional
 ```vb
 Range("A1:A10").Select 
 Range("A1:A10").Activate 
- 
+
 Set myDataBar = Selection.FormatConditions.AddDatabar 
 With myDataBar.BarBorder 
  .Type = xlDataBarBorderSolid 
  .Color.ThemeColor = xlThemeColorAccent2 
  .Color.TintAndShade = 0 
 End With 
-
 ```
 
 

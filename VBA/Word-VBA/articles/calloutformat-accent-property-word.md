@@ -30,18 +30,17 @@ This example adds an oval to the active document and a callout that points to th
 
 ```vb
 Dim shapeCallout As Shape 
- 
+
 With ActiveDocument.Shapes 
  .AddShape msoShapeOval, 180, 200, 280, 130 
  Set shapeCallout = .AddCallout(msoCalloutTwo, 420, 170, 170, 40) 
- 
+
  With shapeCallout 
  .TextFrame.TextRange.Text = "My oval" 
  .Callout.Accent = msoTrue 
  .Callout.Border = msoFalse 
  End With 
 End With 
-
 ```
 
 

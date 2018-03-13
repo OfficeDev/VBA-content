@@ -29,7 +29,6 @@ This example deletes the custom autoformat named "Presentation Chart."
 ```
 myChart.Application.DeleteChartAutoFormat _ 
  name:="Presentation Chart" 
-
 ```
 
 

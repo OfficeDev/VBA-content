@@ -35,10 +35,13 @@ The value of the  **PresetLightingSoftness** property can be one of these **MsoP
 
 ||
 |:-----|
-|**msoLightingBright**|
-|**msoLightingDim**|
-|**msoLightingNormal**|
-|**msoPresetLightingSoftnessMixed**|
+|<strong>msoLightingBright</strong>|
+|
+<strong>msoLightingDim</strong>|
+|
+<strong>msoLightingNormal</strong>|
+|
+<strong>msoPresetLightingSoftnessMixed</strong>|
 
 ## Example
 

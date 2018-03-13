@@ -26,15 +26,15 @@ Returns or sets MsoTriState enumerations with the following values:
 
 
 -  **msoCTrue**
-    
+
 -  **msoFalse**
-    
+
 -  **msoTriStateMixed**
-    
+
 -  **msoTriStateToggle**
-    
+
 -  **msoTrue**
-    
+
 
 ## Example
 
@@ -52,7 +52,6 @@ With myDocument.Shapes.AddShape(msoShapeRectangle, _
  .MarginTop = 10 
  .NoTextRotation = msoFalse 
 End With 
-
 ```
 
 

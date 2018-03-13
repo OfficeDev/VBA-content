@@ -15,7 +15,7 @@ Occurs before the application closes a document in response to a user action in 
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelDocumentClose**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelDocumentClose</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

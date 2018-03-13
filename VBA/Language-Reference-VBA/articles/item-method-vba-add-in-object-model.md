@@ -19,22 +19,24 @@ Returns the indexed member of a [collection](vbe-glossary.md).
 The  **Item** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _index_|Required. An expression that specifies the position of a member of the collection. If a [numeric expression](vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count** property. If a[string expression](vbe-glossary.md),  _index_ must correspond to the _key_[argument](vbe-glossary.md) specified when the member was added to the collection.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                             |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.                                                                                                                                                                                                                                                                                                                    |
+| <em>index</em>        | Required. An expression that specifies the position of a member of the collection. If a [numeric expression](vbe-glossary.md),  <em>index</em> must be a number from 1 to the value of the collection's <strong>Count</strong> property. If a[string expression](vbe-glossary.md),  <em>index</em> must correspond to the <em>key</em>[argument](vbe-glossary.md) specified when the member was added to the collection. |
+
 The following table lists the collections and their corresponding  _key_ arguments for use with the **Item** method. The string you pass to the **Item** method must match the collection's _key_ argument.
 
 
-|**Collection**|**Key argument**|
-|:-----|:-----|
-|**Windows**|**Caption** property setting|
-|**LinkedWindows**|**Caption** property setting|
-|**CodePanes**|No unique string is associated with this collection.|
-|**VBProjects**|**Name** property setting|
-|**VBComponents**|**Name** property setting|
-|**References**|**Name** property setting|
-|**Properties**|**Name** property setting|
+| <strong>Collection</strong>    | <strong>Key argument</strong>                        |
+|:-------------------------------|:-----------------------------------------------------|
+| <strong>Windows</strong>       | <strong>Caption</strong> property setting            |
+| <strong>LinkedWindows</strong> | <strong>Caption</strong> property setting            |
+| <strong>CodePanes</strong>     | No unique string is associated with this collection. |
+| <strong>VBProjects</strong>    | <strong>Name</strong> property setting               |
+| <strong>VBComponents</strong>  | <strong>Name</strong> property setting               |
+| <strong>References</strong>    | <strong>Name</strong> property setting               |
+| <strong>Properties</strong>    | <strong>Name</strong> property setting               |
+
  **Remarks**
 The  _index_ argument can be a numeric value or a string containing the title of the object.
 

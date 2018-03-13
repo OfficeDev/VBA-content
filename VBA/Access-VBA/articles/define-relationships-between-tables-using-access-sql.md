@@ -17,11 +17,11 @@ A foreign key is a field (or fields) in one table that references the primary ke
 There are essentially three types of relationships: 
 
 -  **One-to-one** For every record in the primary table, there is one and only one record in the foreign table.
-    
+
 -  **One-to-many** For every record in the primary table, there are one or more related records in the foreign table.
-    
+
 -  **Many-to-many** For every record in the primary table, there are many related records in the foreign table, and for every record in the foreign table, there are many related records in the primary table.
-    
+
 For example, suppose you want to add an invoices table to an invoicing database. Every customer in your customers table can have many invoices in the invoices table—this is a classic one-to-many scenario. You can take the primary key from the customers table and define it as the foreign key in the invoices table, thereby establishing the proper relationship between the tables.
 When defining the relationships between tables, you must make the  **CONSTRAINT** declarations at the field level. This means that the constraints are defined within a **[CREATE TABLE](http://msdn.microsoft.com/library/FC45D36E-6E43-C030-5016-CCA8BB1379FE%28Office.15%29.aspx)** statement. To apply the constraints, use the **CONSTRAINT** keyword after a field declaration, name the constraint, name the table that it references, and name the field or fields within that table that will make up the matching foreign key.
 The following statement assumes that the tblCustomers table has already been built, and that it has a primary key defined on the CustomerID field. The statement now builds the tblInvoices table, defining its primary key on the InvoiceID field. It also builds the one-to-many relationship between the tblCustomers and tblInvoices tables by defining another CustomerID field in the tblInvoices table. This field is defined as a foreign key that references the CustomerID field in the customers table. Note that the name of each constraint follows the  **CONSTRAINT** keyword.
@@ -35,7 +35,6 @@ CREATE TABLE tblInvoices
         REFERENCES tblCustomers (CustomerID),  
     InvoiceDate DATETIME, 
     Amount CURRENCY) 
-
 ```
 
 Note that the primary key index (PK_InvoiceID) for the invoices table is declared within the  **CREATE TABLE** statement. To enhance the performance of the primary key, an index is automatically created for it, so there is no need to use a separate **[CREATE INDEX](http://msdn.microsoft.com/library/C5919EF4-A08D-DF06-7078-5331ADBCB45C%28Office.15%29.aspx)** statement.
@@ -51,7 +50,6 @@ CREATE TABLE tblShipping
     City TEXT(50), 
     State TEXT(2), 
     Zip TEXT(10)) 
-
 ```
 
 Note that the CustomerID field is both the primary key for the shipping table and the foreign key reference to the customers table.
@@ -71,7 +69,6 @@ A single-field constraint, also known as a column-level constraint, is declared 
 ALTER TABLE tblCustomers 
    ALTER COLUMN CustomerID INTEGER 
    CONSTRAINT PK_tblCustomers PRIMARY KEY 
-
 ```
 
 Notice that the name of the constraint is given. You could use a shortcut for declaring the primary key that omits the  **CONSTRAINT** clause entirely.
@@ -82,7 +79,6 @@ Notice that the name of the constraint is given. You could use a shortcut for de
 ```sql
 ALTER TABLE tblCustomers 
    ALTER COLUMN CustomerID INTEGER PRIMARY KEY 
-
 ```
 
 However, using the shortcut method will cause Access to randomly generate a name for the constraint, which will make it difficult to reference in code. It is a good idea always to name your constraints.
@@ -95,7 +91,6 @@ To drop a constraint, use the  **DROP CONSTRAINT** clause with the **ALTER TABLE
 ```sql
 ALTER TABLE tblCustomers 
    DROP CONSTRAINT PK_tblCustomers 
-
 ```
 
 Constraints also can be used to restrict the allowable values for a field. You can restrict values to  **NOT NULL** or **UNIQUE**, or you can define a check constraint, which is a type of business rule that can be applied to a field. Assume that you want to restrict (or constrain) the values of the first name and last name fields to be unique, meaning that there should never be a combination of first name and last name that is the same for any two records in the table. Because this is a multi-field constraint, it is declared at the table level, not the field level. Use the **ADD CONSTRAINT** clause and define a multi-field list.
@@ -107,7 +102,6 @@ Constraints also can be used to restrict the allowable values for a field. You c
 ALTER TABLE tblCustomers 
    ADD CONSTRAINT CustomerID UNIQUE 
    ([Last Name], [First Name]) 
-
 ```
 
 A check constraint is a powerful SQL feature that allows you to add data validation to a table by creating an expression that can refer to a single field, or multiple fields across one or more tables. Suppose that you want to make sure that the amounts entered in an invoice record are always greater than $0.00. To do so, use a check constraint by declaring the  **CHECK** keyword and your validation expression in the **ADD CONSTRAINT** clause of an **ALTER TABLE** statement.
@@ -119,7 +113,6 @@ A check constraint is a powerful SQL feature that allows you to add data validat
 ALTER TABLE tblInvoices 
    ADD CONSTRAINT CheckAmount 
    CHECK (Amount > 0) 
-
 ```
 
 The expression used to define a check constraint also can refer to more than one field in the same table, or to fields in other tables, and can use any operations that are valid in Access SQL, such as  **[SELECT](http://msdn.microsoft.com/library/A5C9DA94-5F9E-0FC0-767A-4117F38A5EF3%28Office.15%29.aspx)** statements, mathematical operators, and aggregate functions. The expression that defines the check constraint can be no more than 64 characters long.
@@ -132,22 +125,21 @@ Suppose that you want to check each customer's credit limit before he or she is 
 ```sql
 CREATE TABLE tblCreditLimit ( 
    Limit DOUBLE) 
- 
+
 INSERT INTO tblCreditLimit 
    VALUES (100) 
- 
+
 ALTER TABLE tblCustomers 
    ADD COLUMN CustomerLimit DOUBLE 
- 
+
 ALTER TABLE tblCustomers 
    ADD CONSTRAINT LimitRule 
    CHECK (CustomerLimit <= (SELECT Limit 
       FROM tblCreditLimit)) 
- 
+
 UPDATE TABLE tblCustomers 
    SET CustomerLimit = 200 
    WHERE CustomerID = 1 
-
 ```
 
 Note that when you execute the  **[UPDATE TABLE](http://msdn.microsoft.com/library/08F9C3D6-C020-ECF1-5748-43B93A76DFBB%28Office.15%29.aspx)** statement, you receive a message indicating that the update did not succeed because it violated the check constraint. If you update the CustomerLimit field to a value that is equal to or less than 100, the update will succeed.

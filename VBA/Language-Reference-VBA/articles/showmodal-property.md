@@ -20,10 +20,11 @@ Sets a  **UserForm** to be modal or modeless in its display. Read-only at[run ti
 The settings for the  **ShowModal** property are:
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|(Default) The  **UserForm** is modal.|
-|**False**|The  **UserForm** is modeless.|
+| <strong>Setting</strong> | <strong>Description</strong>                       |
+|:-------------------------|:---------------------------------------------------|
+| <strong>True</strong>    | (Default) The  <strong>UserForm</strong> is modal. |
+| <strong>False</strong>   | The  <strong>UserForm</strong> is modeless.        |
+
  **Remarks**
 When a  **UserForm** is modal, the user must supply information or close the **UserForm** before using any other part of the application. No subsequent code is executed until the **UserForm** is hidden or unloaded. Although other forms in the application are disabled when a **UserForm** is displayed, other applications are not.
 When the  **UserForm** is modeless, the user can view other forms or windows without closing the **UserForm**.

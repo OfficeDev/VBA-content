@@ -41,8 +41,9 @@ The  _PasswordEncryptionFileProperties_ parameter value can be one of these **Ms
 
 ||
 |:-----|
-|**msoFalse**|
-|**msoTrue**|
+|<strong>msoFalse</strong>|
+|
+<strong>msoTrue</strong>|
 
 ## Example
 

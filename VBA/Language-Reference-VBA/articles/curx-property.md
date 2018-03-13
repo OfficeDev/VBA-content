@@ -21,10 +21,11 @@ Specifies the current horizontal position of the insertion point in a multiline 
 The  **CurX** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. Indicates the current position, measured in himetrics. A himetric is 0.0001 meter.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                 |
+|:----------------------|:---------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                    |
+| <em>Long</em>         | Optional. Indicates the current position, measured in himetrics. A himetric is 0.0001 meter. |
+
  **Remarks**
 The  **CurX** property applies to a multiline **TextBox** or **ComboBox**. The return value is valid when the object has the[focus](vbe-glossary.md).
 You can use  **CurTargetX** and **CurX** to position the insertion point as the user scrolls through the contents of a multiline **TextBox** or **ComboBox**. When the user moves the insertion point to another line of text by scrolling the content of the object, **CurTargetX** specifies the preferred position for the insertion point. **CurX** is set to this value if the line of text is longer than the value of **CurTargetX**. Otherwise, **CurX** is set to the end of the line of text.

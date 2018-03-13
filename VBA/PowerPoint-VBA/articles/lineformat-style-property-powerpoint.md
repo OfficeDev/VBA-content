@@ -35,12 +35,17 @@ The value of the  **Style** property can be one of these **MsoLineStyle** consta
 
 ||
 |:-----|
-|**msoLineSingle**|
-|**msoLineStyleMixed**|
-|**msoLineThickBetweenThin**|
-|**msoLineThickThin**|
-|**msoLineThinThick**|
-|**msoLineThinThin**|
+|<strong>msoLineSingle</strong>|
+|
+<strong>msoLineStyleMixed</strong>|
+|
+<strong>msoLineThickBetweenThin</strong>|
+|
+<strong>msoLineThickThin</strong>|
+|
+<strong>msoLineThinThick</strong>|
+|
+<strong>msoLineThinThin</strong>|
 
 ## Example
 

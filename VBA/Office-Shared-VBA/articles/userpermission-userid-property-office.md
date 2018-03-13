@@ -50,7 +50,6 @@ The following example lists the users who have permissions on the active documen
  End If 
  Set irmUserPerm = Nothing 
  Set irmPermission = Nothing 
-
 ```
 
 

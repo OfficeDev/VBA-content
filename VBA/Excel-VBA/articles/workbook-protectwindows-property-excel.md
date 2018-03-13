@@ -33,7 +33,6 @@ If ActiveWorkbook.ProtectWindows = True Then
  MsgBox "Remember, you cannot rearrange any" &; _ 
  " window in this workbook." 
 End If 
-
 ```
 
 

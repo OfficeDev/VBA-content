@@ -44,66 +44,125 @@ The Value parameter can be one of the  **PbListType** constants declared in the 
 
 
 
-| **pbListTypeAiueo**|
-| **pbListTypeArabic**|
-| **pbListTypeArabic1**|
-| **pbListTypeArabic2**|
-| **pbListTypeArabicLeadingZero**|
-| **pbListTypeBullet**|
-| **pbListTypeCardinalText**|
-| **pbListTypeChiManSty**|
-| **pbListTypeChinaDbNum1**|
-| **pbListTypeChinaDbNum2**|
-| **pbListTypeChinaDbNum3**|
-| **pbListTypeChinaDbNum4**|
-| **pbListTypeChosung**|
-| **pbListTypeCirclenum**|
-| **pbListTypeDAiueo**|
-| **pbListTypeDArabic**|
-| **pbListTypeDbChar**|
-| **pbListTypeDbNum1**|
-| **pbListTypeDbNum2**|
-| **pbListTypeDbNum3**|
-| **pbListTypeDbNum4**|
-| **pbListTypeDIroha**|
-| **pbListTypeGanada**|
-| **pbListTypeGB1**|
-| **pbListTypeGB2**|
-| **pbListTypeGB3**|
-| **pbListTypeGB4**|
-| **pbListTypeHebrew1**|
-| **pbListTypeHebrew2**|
-| **pbListTypeHex**|
-| **pbListTypeHindi1**|
-| **pbListTypeHindi2**|
-| **pbListTypeHindi3**|
-| **pbListTypeHindi4**|
-| **pbListTypeIroha**|
-| **pbListTypeKoreaDbNum1**|
-| **pbListTypeKoreaDbNum2**|
-| **pbListTypeKoreaDbNum3**|
-| **pbListTypeKoreaDbNum4**|
-| **pbListTypeLowerCaseLetter**|
-| **pbListTypeLowerCaseRoman**|
-| **pbListTypeLowerCaseRussian**|
-| **pbListTypeNone**|
-| **pbListTypeOrdinal**|
-| **pbListTypeOrdinalText**|
-| **pbListTypeSbChar**|
-| **pbListTypeTaiwanDbNum1**|
-| **pbListTypeTaiwanDbNum2**|
-| **pbListTypeTaiwanDbNum3**|
-| **pbListTypeTaiwanDbNum4**|
-| **pbListTypeThai1**|
-| **pbListTypeThai2**|
-| **pbListTypeThai3**|
-| **pbListTypeUpperCaseLetter**|
-| **pbListTypeUpperCaseRoman**|
-| **pbListTypeUpperCaseRussian**|
-| **pbListTypeVietnamese1**|
-| **pbListTypeZodiac1**|
-| **pbListTypeZodiac2**|
-| **pbListTypeZodiac3**|
+| <strong>pbListTypeAiueo</strong>|
+| 
+<strong>pbListTypeArabic</strong>|
+| 
+<strong>pbListTypeArabic1</strong>|
+| 
+<strong>pbListTypeArabic2</strong>|
+| 
+<strong>pbListTypeArabicLeadingZero</strong>|
+| 
+<strong>pbListTypeBullet</strong>|
+| 
+<strong>pbListTypeCardinalText</strong>|
+| 
+<strong>pbListTypeChiManSty</strong>|
+| 
+<strong>pbListTypeChinaDbNum1</strong>|
+| 
+<strong>pbListTypeChinaDbNum2</strong>|
+| 
+<strong>pbListTypeChinaDbNum3</strong>|
+| 
+<strong>pbListTypeChinaDbNum4</strong>|
+| 
+<strong>pbListTypeChosung</strong>|
+| 
+<strong>pbListTypeCirclenum</strong>|
+| 
+<strong>pbListTypeDAiueo</strong>|
+| 
+<strong>pbListTypeDArabic</strong>|
+| 
+<strong>pbListTypeDbChar</strong>|
+| 
+<strong>pbListTypeDbNum1</strong>|
+| 
+<strong>pbListTypeDbNum2</strong>|
+| 
+<strong>pbListTypeDbNum3</strong>|
+| 
+<strong>pbListTypeDbNum4</strong>|
+| 
+<strong>pbListTypeDIroha</strong>|
+| 
+<strong>pbListTypeGanada</strong>|
+| 
+<strong>pbListTypeGB1</strong>|
+| 
+<strong>pbListTypeGB2</strong>|
+| 
+<strong>pbListTypeGB3</strong>|
+| 
+<strong>pbListTypeGB4</strong>|
+| 
+<strong>pbListTypeHebrew1</strong>|
+| 
+<strong>pbListTypeHebrew2</strong>|
+| 
+<strong>pbListTypeHex</strong>|
+| 
+<strong>pbListTypeHindi1</strong>|
+| 
+<strong>pbListTypeHindi2</strong>|
+| 
+<strong>pbListTypeHindi3</strong>|
+| 
+<strong>pbListTypeHindi4</strong>|
+| 
+<strong>pbListTypeIroha</strong>|
+| 
+<strong>pbListTypeKoreaDbNum1</strong>|
+| 
+<strong>pbListTypeKoreaDbNum2</strong>|
+| 
+<strong>pbListTypeKoreaDbNum3</strong>|
+| 
+<strong>pbListTypeKoreaDbNum4</strong>|
+| 
+<strong>pbListTypeLowerCaseLetter</strong>|
+| 
+<strong>pbListTypeLowerCaseRoman</strong>|
+| 
+<strong>pbListTypeLowerCaseRussian</strong>|
+| 
+<strong>pbListTypeNone</strong>|
+| 
+<strong>pbListTypeOrdinal</strong>|
+| 
+<strong>pbListTypeOrdinalText</strong>|
+| 
+<strong>pbListTypeSbChar</strong>|
+| 
+<strong>pbListTypeTaiwanDbNum1</strong>|
+| 
+<strong>pbListTypeTaiwanDbNum2</strong>|
+| 
+<strong>pbListTypeTaiwanDbNum3</strong>|
+| 
+<strong>pbListTypeTaiwanDbNum4</strong>|
+| 
+<strong>pbListTypeThai1</strong>|
+| 
+<strong>pbListTypeThai2</strong>|
+| 
+<strong>pbListTypeThai3</strong>|
+| 
+<strong>pbListTypeUpperCaseLetter</strong>|
+| 
+<strong>pbListTypeUpperCaseRoman</strong>|
+| 
+<strong>pbListTypeUpperCaseRussian</strong>|
+| 
+<strong>pbListTypeVietnamese1</strong>|
+| 
+<strong>pbListTypeZodiac1</strong>|
+| 
+<strong>pbListTypeZodiac2</strong>|
+| 
+<strong>pbListTypeZodiac3</strong>|
 
 ## Example
 
@@ -112,9 +171,9 @@ This example tests to see if the list type is a numbered list, specifically  **p
 
 ```vb
 Dim objParaForm As ParagraphFormat 
- 
+
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange.ParagraphFormat 
- 
+
 With objParaForm 
  If .ListType = pbListTypeArabic Then 
  .ListNumberSeparator = pbListSeparatorParenthesis 
@@ -123,8 +182,6 @@ With objParaForm
  .ListNumberSeparator = pbListSeparatorParenthesis 
  End If 
 End With 
- 
-
 ```
 
 This example demonstrates how an organized document structure containing named text frames with lists can be configured. This example assumes that the publication has a naming convention for  **TextFrame** objects containing lists that use the word "list" as a prefix. This example uses nested collection iterations to access each of the **TextFrame** objects in each **Shapes** collection of each **Page**. The  **ParagraphFormat** object of each **TextFrame** name with the prefix "list" has the **ListType** and **ListBulletFontSize** set.
@@ -136,7 +193,7 @@ This example demonstrates how an organized document structure containing named t
 Dim objPage As page 
 Dim objShp As Shape 
 Dim objTxtFrm As TextFrame 
- 
+
 'Iterate through all pages of th ePublication 
 For Each objPage In ActiveDocument.Pages 
  'Iterate through the Shapes collection of objPage 
@@ -158,8 +215,6 @@ For Each objPage In ActiveDocument.Pages
  End If 
  Next 
 Next 
- 
-
 ```
 
 

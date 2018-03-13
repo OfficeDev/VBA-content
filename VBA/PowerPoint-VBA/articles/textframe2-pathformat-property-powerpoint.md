@@ -35,12 +35,17 @@ The value of the  **PathFormat** property can be one of these **MsoPathType** co
 
 ||
 |:-----|
-|**msoPathType1**|
-|**msoPathType2**|
-|**msoPathType3**|
-|**msoPathType4**|
-|**msoPathTypeMixed**|
-|**msoPathTypeNone**|
+|<strong>msoPathType1</strong>|
+|
+<strong>msoPathType2</strong>|
+|
+<strong>msoPathType3</strong>|
+|
+<strong>msoPathType4</strong>|
+|
+<strong>msoPathTypeMixed</strong>|
+|
+<strong>msoPathTypeNone</strong>|
 
 ## See also
 

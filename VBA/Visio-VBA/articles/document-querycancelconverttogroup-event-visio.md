@@ -18,7 +18,7 @@ Occurs before the application converts a selection of shapes to a group in respo
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelConvertToGroup**( **_ByVal Selection As [IVSELECTION]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelConvertToGroup</strong>( **_ByVal Selection As [IVSELECTION]</em>** )
 
  _expression_ A variable that represents a **Document** object.
 

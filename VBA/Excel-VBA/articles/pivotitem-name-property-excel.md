@@ -29,19 +29,21 @@ The following table shows example values of the  **Name** property and related p
 
 
 
-|**Property**|**Value (OLAP data source)**|**Value (non-OLAP data source)**|
-|:-----|:-----|:-----|
-| **[Caption](pivotitem-caption-property-excel.md)**|Paris|Paris|
-| **[Name](pivotitem-name-property-excel.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
-| **[SourceName](pivotitem-sourcename-property-excel.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|(Same as SQL property value, read-only)|
-| **[Value](pivotitem-value-property-excel.md)**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
+| <strong>Property</strong>                                                                                                                               | <strong>Value (OLAP data source)</strong>   | <strong>Value (non-OLAP data source)</strong> |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|:----------------------------------------------|
+| <strong><a href="pivotitem-caption-property-excel.md" data-raw-source="[Caption](pivotitem-caption-property-excel.md)">Caption</a></strong>             | Paris                                       | Paris                                         |
+| <strong><a href="pivotitem-name-property-excel.md" data-raw-source="[Name](pivotitem-name-property-excel.md)">Name</a></strong>                         | [Europe].[France].[Paris] &nbsp;(read-only) | Paris                                         |
+| <strong><a href="pivotitem-sourcename-property-excel.md" data-raw-source="[SourceName](pivotitem-sourcename-property-excel.md)">SourceName</a></strong> | [Europe].[France].[Paris] &nbsp;(read-only) | (Same as SQL property value, read-only)       |
+| <strong><a href="pivotitem-value-property-excel.md" data-raw-source="[Value](pivotitem-value-property-excel.md)">Value</a></strong>                     | [Europe].[France].[Paris] &nbsp;(read-only) | Paris                                         |
+
 When specifying an index into the  **[PivotItems](pivotitems-object-excel.md)** collection, you can use the syntax shown in the following table.
 
 
 
-|**Syntax (OLAP data source)**|**Syntax (non-OLAP data source)**|
-|:-----|:-----|
-|expression.PivotItems("[Europe].[France].[Paris]")|expression.PivotItems("Paris")|
+| <strong>Syntax (OLAP data source)</strong>         | <strong>Syntax (non-OLAP data source)</strong> |
+|:---------------------------------------------------|:-----------------------------------------------|
+| expression.PivotItems("[Europe].[France].[Paris]") | expression.PivotItems("Paris")                 |
+
 When using the  **[Item](iconcriteria-item-property-excel.md)** property to reference a specific member of a collection, you can use the text index name as shown in the following table.
 
 

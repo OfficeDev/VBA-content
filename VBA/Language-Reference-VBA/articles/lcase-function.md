@@ -29,8 +29,6 @@ This example uses the  **LCase** function to return a lowercase version of a str
 Dim UpperCase, LowerCase
 Uppercase = "Hello World 1234"    ' String to convert.
 Lowercase = Lcase(UpperCase)    ' Returns "hello world 1234".
-
-
 ```
 
 

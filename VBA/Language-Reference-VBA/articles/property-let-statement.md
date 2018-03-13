@@ -24,16 +24,17 @@ Declares the name, [arguments](vbe-glossary.md), and code that form the body of 
 The  **Property Let** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**Public**|Optional. Indicates that the  **Property** **Let** procedure is accessible to all other procedures in all[modules](vbe-glossary.md). If used in a module that contains an  **Option Private** statement, the procedure is not available outside the[project](vbe-glossary.md).|
-|**Private**|Optional. Indicates that the  **Property** **Let** procedure is accessible only to other procedures in the module where it is declared.|
-|**Friend**|Optional. Used only in a [class module](vbe-glossary.md). Indicates that the  **Property Let** procedure is visible throughout the[project](vbe-glossary.md), but not visible to a controller of an instance of an object.|
-|**Static**|Optional. Indicates that the  **Property Let** procedure's local[variables](vbe-glossary.md) are preserved between calls. The **Static** attribute doesn't affect variables that are declared outside the **Property Let** procedure, even if they are used in the procedure.|
-| _name_|Required. Name of the  **Property Let** procedure; follows standard variable naming conventions, except that the name can be the same as a **Property Get** or **Property Set** procedure in the same module.|
-| _arglist_|Required. List of variables representing arguments that are passed to the  **Property Let** procedure when it is called. Multiple arguments are separated by commas. The name and[data type](vbe-glossary.md) of each argument in a **Property Let** procedure must be the same as the corresponding argument in a **Property Get** procedure.|
-| _value_|Required. Variable to contain the value to be assigned to the property. When the procedure is called, this argument appears on the right side of the calling [expression](vbe-glossary.md). The data type of  _value_ must be the same as the return type of the corresponding **Property Get** procedure.|
-| _statements_|Optional. Any group of [statements](vbe-glossary.md) to be executed within the **Property Let** procedure.|
+| <strong>Part</strong>    | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                          |
+|:-------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Public</strong>  | Optional. Indicates that the  <strong>Property</strong> <strong>Let</strong> procedure is accessible to all other procedures in all[modules](vbe-glossary.md). If used in a module that contains an  <strong>Option Private</strong> statement, the procedure is not available outside the[project](vbe-glossary.md).                                                                 |
+| <strong>Private</strong> | Optional. Indicates that the  <strong>Property</strong> <strong>Let</strong> procedure is accessible only to other procedures in the module where it is declared.                                                                                                                                                                                                                     |
+| <strong>Friend</strong>  | Optional. Used only in a [class module](vbe-glossary.md). Indicates that the  <strong>Property Let</strong> procedure is visible throughout the[project](vbe-glossary.md), but not visible to a controller of an instance of an object.                                                                                                                                               |
+| <strong>Static</strong>  | Optional. Indicates that the  <strong>Property Let</strong> procedure's local[variables](vbe-glossary.md) are preserved between calls. The <strong>Static</strong> attribute doesn't affect variables that are declared outside the <strong>Property Let</strong> procedure, even if they are used in the procedure.                                                                  |
+| <em>name</em>            | Required. Name of the  <strong>Property Let</strong> procedure; follows standard variable naming conventions, except that the name can be the same as a <strong>Property Get</strong> or <strong>Property Set</strong> procedure in the same module.                                                                                                                                  |
+| <em>arglist</em>         | Required. List of variables representing arguments that are passed to the  <strong>Property Let</strong> procedure when it is called. Multiple arguments are separated by commas. The name and[data type](vbe-glossary.md) of each argument in a <strong>Property Let</strong> procedure must be the same as the corresponding argument in a <strong>Property Get</strong> procedure. |
+| <em>value</em>           | Required. Variable to contain the value to be assigned to the property. When the procedure is called, this argument appears on the right side of the calling [expression](vbe-glossary.md). The data type of  <em>value</em> must be the same as the return type of the corresponding <strong>Property Get</strong> procedure.                                                        |
+| <em>statements</em>      | Optional. Any group of [statements](vbe-glossary.md) to be executed within the <strong>Property Let</strong> procedure.                                                                                                                                                                                                                                                               |
+
 The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
 
@@ -64,7 +65,7 @@ This example uses the  **Property Let** statement to define a procedure that ass
 ```vb
 Dim CurrentColor As Integer 
 Const BLACK = 0, RED = 1, GREEN = 2, BLUE = 3 
- 
+
 ' Set the pen color property for a Drawing package. 
 ' The module-level variable CurrentColor is set to 
 ' a numeric value that identifies the color used for drawing. 
@@ -80,12 +81,11 @@ Property Let PenColor(ColorName As String)
  CurrentColor = BLACK ' Assign default value. 
  End Select 
 End Property 
- 
+
 ' The following code sets the PenColor property for a drawing package 
 ' by calling the Property let procedure. 
- 
-PenColor = "Red" 
 
+PenColor = "Red" 
 ```
 
 

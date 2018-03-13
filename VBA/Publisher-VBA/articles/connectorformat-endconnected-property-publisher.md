@@ -50,29 +50,28 @@ If the third shape on the first page in the active publication is a connector wh
 ```vb
 Dim intSite As Integer 
 Dim shpConnected As Shape 
- 
+
 With ActiveDocument.Pages(1).Shapes(3) 
- 
+
  ' Test whether shape is a connector. 
  If .Connector Then 
  With .ConnectorFormat 
- 
+
  ' Test whether connector is connected to another shape. 
  If .End Connected Then 
- 
+
  ' Store connection site number. 
  intSite = .EndConnectionSite 
- 
+
  ' Set reference to connected shape. 
  Set shpConnected = .EndConnectedShape 
- 
+
  ' Disconnect connector and shape. 
  .EndDisconnect 
  End If 
  End With 
  End If 
 End With 
-
 ```
 
 

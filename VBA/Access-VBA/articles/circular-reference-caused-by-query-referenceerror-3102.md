@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Circular reference caused by <query reference>. (Error 3102)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -23,7 +23,6 @@ Query1
 
 ```sql
 SELECT * FROM Employees, Query2;
-
 ```
 
 Query2
@@ -32,8 +31,6 @@ Query2
 
 ```sql
 SELECT * FROM Query1;
-
-
 ```
 
 Redesign the queries to eliminate the dependency.

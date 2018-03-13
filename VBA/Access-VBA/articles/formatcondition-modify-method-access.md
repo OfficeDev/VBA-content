@@ -27,10 +27,11 @@ You can use the  **Modify** method to change the format conditions of a **[Forma
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _Type_|Required|**AcFormatConditionType**|A  **[AcFormatConditionType](acformatconditiontype-enumeration-access.md)** constant that specifies the type of condition to be modified.|
-| _Operator_|Optional|**AcFormatConditionOperator**|A  **[AcFormatConditionOperator](acformatconditionoperator-enumeration-access.md)** constant that specifies the type of operator to be used.
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data Type</strong>                 | <strong>Description</strong>                                                                                                                                                                                                                                        |
+|:----------------------|:-----------------------------------|:-------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>Type</em>         | Required                           | <strong>AcFormatConditionType</strong>     | A  <strong><a href="acformatconditiontype-enumeration-access.md" data-raw-source="[AcFormatConditionType](acformatconditiontype-enumeration-access.md)">AcFormatConditionType</a></strong> constant that specifies the type of condition to be modified.            |
+| <em>Operator</em>     | Optional                           | <strong>AcFormatConditionOperator</strong> | A  <strong><a href="acformatconditionoperator-enumeration-access.md" data-raw-source="[AcFormatConditionOperator](acformatconditionoperator-enumeration-access.md)">AcFormatConditionOperator</a></strong> constant that specifies the type of operator to be used. |
+
  **Note**  If the type argument is  **acExpression**, the operator argument is ignored. If you leave this argument blank, the default constant ( **acBetween** ) is assumed.
 
 |

@@ -47,14 +47,14 @@ The following table contains examples of  **HyperlinkAddress** and **HyperlinkSu
 
 
 
-|**HyperlinkAddress**|**HyperlinkSubAddress**|**Description**|
-|:-----|:-----|:-----|
-|http://www.microsoft.com/||The Microsoft home page on the Web.|
-|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm||The Cajun Delights page in the Access sample applications subdirectory.|
-|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm|NewProducts|The "NewProducts" Name tag in the Cajun Delights page.|
-|C:\Personal\MyResume.doc|References|The bookmark named "References" in the Microsoft Word document "MyResume.doc".|
-|C:\Finance\First Quarter.xls|Sheet1!TotalSales|The range named "TotalSales" in the Microsoft Excel spreadsheet "First Quarter.xls".|
-|C:\Presentation\NewPlans.ppt|10|The 10th slide in the Microsoft PowerPoint document "NewPlans.ppt".|
+| <strong>HyperlinkAddress</strong>                          | <strong>HyperlinkSubAddress</strong> | <strong>Description</strong>                                                         |
+|:-----------------------------------------------------------|:-------------------------------------|:-------------------------------------------------------------------------------------|
+| http://www.microsoft.com/                                  |                                      | The Microsoft home page on the Web.                                                  |
+| C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm |                                      | The Cajun Delights page in the Access sample applications subdirectory.              |
+| C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm | NewProducts                          | The "NewProducts" Name tag in the Cajun Delights page.                               |
+| C:\Personal\MyResume.doc                                   | References                           | The bookmark named "References" in the Microsoft Word document "MyResume.doc".       |
+| C:\Finance\First Quarter.xls                               | Sheet1!TotalSales                    | The range named "TotalSales" in the Microsoft Excel spreadsheet "First Quarter.xls". |
+| C:\Presentation\NewPlans.ppt                               | 10                                   | The 10th slide in the Microsoft PowerPoint document "NewPlans.ppt".                  |
 
 ## See also
 

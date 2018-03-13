@@ -48,11 +48,12 @@ If the  **Characters** object represents an insertion point rather than a sequen
 
 
 
-|**Constant **|**Value **|
-|:-----|:-----|
-| **visBiasLetVisioChoose**|0 |
-| **visBiasLeft**|1 |
-| **visBiasRight**|2 |
+| **Constant **                          | **Value ** |
+|:---------------------------------------|:-----------|
+| <strong>visBiasLetVisioChoose</strong> | 0          |
+| <strong>visBiasLeft</strong>           | 1          |
+| <strong>visBiasRight</strong>          | 2          |
+
 Specify  **visBiasLeft** for the row that covers tab formatting for the character to the left of the insertion point. Use **visBiasRight** for the row that covers tab formatting for the character to the right of the insertion point.
 
 If you specify  **visBiasLetVisioChoose** , Visio uses the same logic it would apply to new text typed in the user interface starting at the insertion point. Usually, that means that Visio will apply the tab formatting of the character to the left of the insertion point to the new text, so **TabPropsRow** will return the same value it would if passed **visBiasLeft** . (For an explanation of the meaning of "left" in this context, see the following note.) However, if the insertion point is at the beginning of a new paragraph, **TabPropsRow** returns the value it would return if passed **visBiasRight** .

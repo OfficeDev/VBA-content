@@ -29,11 +29,12 @@ The  **SizeMode** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Clip|**acOLESizeClip**|(Default) Displays the object at actual size. If the object is larger than the control, its image is clipped on the right and bottom by the control's borders.|
-|Stretch|**acOLESizeStretch**|Sizes the object to fill the control. This setting may distort the proportions of the object.|
-|Zoom|**acOLESizeZoom**|Displays the entire object, resizing it as necessary without distorting the proportions of the object. This setting may leave extra space in the control if the control is resized.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong>     | <strong>Description</strong>                                                                                                                                                        |
+|:-------------------------|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Clip                     | <strong>acOLESizeClip</strong>    | (Default) Displays the object at actual size. If the object is larger than the control, its image is clipped on the right and bottom by the control's borders.                      |
+| Stretch                  | <strong>acOLESizeStretch</strong> | Sizes the object to fill the control. This setting may distort the proportions of the object.                                                                                       |
+| Zoom                     | <strong>acOLESizeZoom</strong>    | Displays the entire object, resizing it as necessary without distorting the proportions of the object. This setting may leave extra space in the control if the control is resized. |
+
 Use the Clip setting for the fastest display. You can use the Stretch setting for bar graphs and line graphs without concern for size adjustments. The Stretch setting can distort circles and photos.
 
 

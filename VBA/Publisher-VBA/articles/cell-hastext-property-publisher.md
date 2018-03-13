@@ -30,12 +30,12 @@ If shape one on page one contains a table and the first cell of the table contai
 
 ```vb
 With ActiveDocument.Pages(1).Shapes(1) 
- 
+
  ' Check for table. 
  If .HasTable Then 
  With .Table.Cells(StartRow:=1, StartColumn:=1, _ 
  EndRow:=1, EndColumn:=1).Item(1) 
- 
+
  ' Check for text in first cell. 
  If .HasText Then 
  MsgBox "Text from first cell of table: " _ 
@@ -43,14 +43,13 @@ With ActiveDocument.Pages(1).Shapes(1)
  Else 
  MsgBox "No text in first cell." 
  End If 
- 
+
  End With 
  Else 
  MsgBox "No table in shape one." 
  End If 
- 
-End With 
 
+End With 
 ```
 
 

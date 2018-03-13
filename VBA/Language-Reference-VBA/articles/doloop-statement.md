@@ -30,10 +30,11 @@ Or, you can use this syntax:
 The  **Do Loop** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _condition_|Optional. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) that is **True** or **False**. If _condition_ is[Null](vbe-glossary.md),  _condition_ is treated as **False**.|
-| _statements_|One or more statements that are repeated while, or until,  _condition_ is **True**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                               |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>condition</em>    | Optional. [Numeric expression](vbe-glossary.md) or[string expression](vbe-glossary.md) that is <strong>True</strong> or <strong>False</strong>. If <em>condition</em> is[Null](vbe-glossary.md),  <em>condition</em> is treated as <strong>False</strong>. |
+| <em>statements</em>   | One or more statements that are repeated while, or until,  <em>condition</em> is <strong>True</strong>.                                                                                                                                                    |
+
  **Remarks**
 Any number of  **Exit Do** statements may be placed anywhere in the **Do…Loop** as an alternate way to exit a **Do…Loop**. **Exit Do** is often used after evaluating some condition, for example, **If…Then**, in which case the **Exit Do** statement transfers control to the statement immediately following the **Loop**.
 When used within nested  **Do…Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit Do** occurs.
@@ -54,7 +55,6 @@ Do ' Outer loop.
  Exit Do ' Exit inner loop. 
  End If 
  LoopLoop Until Check = False ' Exit outer loop immediately. 
-
 ```
 
 

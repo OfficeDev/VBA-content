@@ -16,10 +16,11 @@ Indicates whether an object can receive [focus](vbe-glossary.md) when the user t
 The  **TabStop** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the object is a tab stop.|
+| <strong>Part</strong> | <strong>Description</strong>                |
+|:----------------------|:--------------------------------------------|
+| <em>object</em>       | Required. A valid object.                   |
+| <em>Boolean</em>      | Optional. Whether the object is a tab stop. |
+
  **Settings**
 The settings for  _Boolean_ are:
 

@@ -18,6 +18,7 @@ Specifies the type of layout that the control is part of.
 
 |
 |
+
 |**Name**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**acLayoutNone**|0|The control is not part of a layout.|

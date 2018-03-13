@@ -42,7 +42,7 @@ Sub OpenToCallahan()
     DoCmd.OpenForm "Employees", acNormal, , , acReadOnly, _ 
      , "Callahan" 
 End Sub 
- 
+
 Sub Form_Open(Cancel As Integer) 
     Dim strEmployeeName As String 
     ' If OpenArgs property contains employee name, find 
@@ -76,11 +76,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

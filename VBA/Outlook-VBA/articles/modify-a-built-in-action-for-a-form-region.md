@@ -12,15 +12,15 @@ By default, there are four built-in actions available to a form region: reply, r
 
 
 - The message class of the item that results from executing the action.
-    
+
 - The way that the body of the current item is included in the resulting item.
-    
+
 - The way that Outlook responds when executing the action.
-    
+
 - The prefix value in the subject of the resulting item.
-    
+
 - Disabling the built-in action for the form region.
-    
+
 
 For more information on registering a form region, see  [Specifying Form Regions in the Windows Registry](specifying-form-regions-in-the-windows-registry.md).
 
@@ -35,9 +35,9 @@ Whether you choose to modify a built-in action or create a custom action, you de
 
 
 1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
-    
+
 2. Specify the internal name of the built-in action as the value of the  **name** attribute of the **action** element.
-    
+
 The following example identifies the two built-in actions,  `reply` and `replyAll`, before modifying them:
 
 
@@ -81,11 +81,11 @@ After you have identified a built-in action in an  **action** element, you can m
 
 
 1. In the form region manifest XML file, specify the action as a child  **action** element of the **customActions** element for that form region.
-    
+
 2. Specify the internal name of the action as the value of the  **name** attribute of the **action** element.
-    
+
 3. Specify  **true** as the value of the disabled attribute of the **action** element.
-    
+
 The following example identifies the built-in action,  `replyToFolder`, and disables it:
 
 

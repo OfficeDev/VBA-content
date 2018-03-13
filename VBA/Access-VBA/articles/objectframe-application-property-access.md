@@ -34,7 +34,6 @@ Each Microsoft Access object has an  **Application** property that returns the c
 
 ```vb
 Me.Application.MenuBar 
-
 ```
 
 

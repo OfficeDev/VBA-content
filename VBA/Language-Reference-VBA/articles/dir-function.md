@@ -19,10 +19,11 @@ Returns a  **String** representing the name of a file, directory, or folder that
 The  **Dir** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _pathname_|Optional. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive. A zero-length string ("") is returned if _pathname_ is not found.|
-| _attributes_|Optional. [Constant](vbe-glossary.md) or[numeric expression](vbe-glossary.md), whose sum specifies file attributes. If omitted, returns files that match  _pathname_ but have no attributes.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                        |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>pathname</em>     | Optional. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive. A zero-length string ("") is returned if <em>pathname</em> is not found.    |
+| <em>attributes</em>   | Optional. [Constant](vbe-glossary.md) or[numeric expression](vbe-glossary.md), whose sum specifies file attributes. If omitted, returns files that match  <em>pathname</em> but have no attributes. |
+
  **Settings**
 The  _attributes_[argument](vbe-glossary.md) settings are:
 
@@ -39,16 +40,16 @@ The  _attributes_[argument](vbe-glossary.md) settings are:
 
  **Note**  These constants are specified by Visual Basic for Applications and can be used anywhere in your code in place of the actual values.
 
- **Remarks**
-In Microsoft Windows,  **Dir** supports the use of multiple character ( **\*** ) and single character ( **?** ) wildcards to specify multiple files. On the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
-Since the Macintosh doesn't support the wildcards, use the file type to identify groups of files. You can use the  **MacID** function to specify file type instead of using the file names. For example, the following statement returns the name of the first TEXT file in the current folder:
+ <strong>Remarks</strong>
+In Microsoft Windows,  
+<strong>Dir</strong> supports the use of multiple character ( <strong>\</strong>* ) and single character ( <strong>?</strong> ) wildcards to specify multiple files. On the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
+Since the Macintosh doesn't support the wildcards, use the file type to identify groups of files. You can use the  
+<strong>MacID</strong> function to specify file type instead of using the file names. For example, the following statement returns the name of the first TEXT file in the current folder:
 
 
 
 ```
 Dir("SomePath", MacID("TEXT"))
-
-
 ```
 
 To iterate over all files in a folder, specify an empty string:
@@ -57,7 +58,6 @@ To iterate over all files in a folder, specify an empty string:
 
 ```
 Dir("")
-
 ```
 
 If you use the  **MacID** function with **Dir** in Microsoft Windows, an error occurs.

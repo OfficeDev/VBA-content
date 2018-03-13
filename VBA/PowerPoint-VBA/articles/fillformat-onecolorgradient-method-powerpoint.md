@@ -40,14 +40,21 @@ The  _Style_ parameter value can be one of these **MsoGradientStyle** constants.
 
 ||
 |:-----|
-|**msoGradientDiagonalDown**|
-|**msoGradientDiagonalUp**|
-|**msoGradientFromCenter**|
-|**msoGradientFromCorner**|
-|**msoGradientFromTitle**|
-|**msoGradientHorizontal**|
-|**msoGradientMixed**|
-|**msoGradientVertical**|
+|<strong>msoGradientDiagonalDown</strong>|
+|
+<strong>msoGradientDiagonalUp</strong>|
+|
+<strong>msoGradientFromCenter</strong>|
+|
+<strong>msoGradientFromCorner</strong>|
+|
+<strong>msoGradientFromTitle</strong>|
+|
+<strong>msoGradientHorizontal</strong>|
+|
+<strong>msoGradientMixed</strong>|
+|
+<strong>msoGradientVertical</strong>|
 
 ## Example
 

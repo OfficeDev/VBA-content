@@ -24,7 +24,6 @@ If Mac = True ' Check your platform constant
  MyObj.SaveAs "HD:\WORDPROC\DOCS\TESTOBJ.DOC" ' Save the object (Macintosh). 
 Else 
  MyObj.SaveAs "C:\WORDPROC\DOCS\TESTOBJ.DOC" ' Save the object (Windows). 
-
 ```
 
 Use the following functions to access an Automation object:

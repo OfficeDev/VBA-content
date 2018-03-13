@@ -21,18 +21,20 @@ Displays a single row of column headings for list boxes, combo boxes, and object
 The  **ColumnHeads** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Specifies whether the column headings are displayed.|
+| <strong>Part</strong> | <strong>Description</strong>                                   |
+|:----------------------|:---------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                      |
+| <em>Boolean</em>      | Optional. Specifies whether the column headings are displayed. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Display column headings.|
-|**False**|Do not display column headings (default).|
+| <strong>Value</strong> | <strong>Description</strong>              |
+|:-----------------------|:------------------------------------------|
+| <strong>True</strong>  | Display column headings.                  |
+| <strong>False</strong> | Do not display column headings (default). |
+
 Headings in combo boxes appear only when the list drops down.
  **Remarks**
 When the system uses the first row of data items as column headings, they can't be selected.

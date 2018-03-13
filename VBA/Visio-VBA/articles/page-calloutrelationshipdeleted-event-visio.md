@@ -18,7 +18,7 @@ Occurs when a callout relationship is deleted from the page.
 
 ## Syntax
 
-Private Sub  _expression_ _**CalloutRelationshipDeleted**( **_By Val ShapePair As RelatedShapePairEvent_** )
+Private Sub  <em>expression</em> <em><strong>CalloutRelationshipDeleted</strong>( **_By Val ShapePair As RelatedShapePairEvent</em>** )
 
  _expression_ A variable that represents a **[Page](page-object-visio.md)** object.
 

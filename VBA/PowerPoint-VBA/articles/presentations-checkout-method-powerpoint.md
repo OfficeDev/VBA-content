@@ -63,7 +63,7 @@ Sub CheckOutPresentation(strPresentation As String)
 End Sub
 ```
 
-To call the subroutine above, use the following subroutine and replace the  _"http://servername/workspace/report.ppt"_ file name for an actual file located on a server mentioned in the Remarks section above.
+To call the subroutine above, use the following subroutine and replace the  <em>"<http://servername/workspace/report.ppt>"</em> file name for an actual file located on a server mentioned in the Remarks section above.
 
 
 

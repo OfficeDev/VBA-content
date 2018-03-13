@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # The SQL statement could not be executed because it contains ambiguous outer joins. To force one of the joins to be performed first, create a separate query that performs the first join and then include that query in your SQL statement. (Error 3258)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,7 +26,6 @@ Customers LEFT JOIN Orders
 ON Customers.CustomerID = Orders.CustomerID, 
 Orders INNER JOIN [Order Details] 
 ON Orders.OrderID = [Order Details].OrderID;
-
 ```
 
 Executing this statement produces an error because the order of the joins is ambiguous. To force one of the joins to be performed first, create a separate query that performs the first join and then include that query in your SQL statement. The following queries illustrate how you might construct the preceding query so that the INNER JOIN operation is performed before the LEFT JOIN and RIGHT JOIN operation:

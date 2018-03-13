@@ -16,16 +16,15 @@ There are limitations on the way you can specify the number of elements in an [a
 
 
 - You specified your array boundaries incorrectly. For example, the following ranges are invalid:
-    
+
 ```vb
 Dim MyArray(10 To -5)    ' Descending order not permitted. 
 Dim MyArray(0 To 0)        ' No elements in the array. 
-
   ```
 
 
     Check to be sure your syntax is correct. For example, the following range is valid:
-    
+
 
 
 ```vb

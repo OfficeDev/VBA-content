@@ -15,7 +15,7 @@ Occurs before a document enters design mode.
 
 ## Syntax
 
-Private Sub  _expression_ _**DesignModeEntered**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>DesignModeEntered</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

@@ -34,9 +34,10 @@ When you get the  **Attributes** property of a **Font** object, the following va
 
 
 
-|**Constant**|**Value**|
-|:-----|:-----|
-| **visFont0Alias**|128|
+| <strong>Constant</strong>      | <strong>Value</strong> |
+|:-------------------------------|:-----------------------|
+| <strong>visFont0Alias</strong> | 128                    |
+
 A font marked as the font 0 alias is used instead of font 0 (the default font). The font 0 alias is used in some localized versions of Microsoft Visio and is controlled by means of entries in the registry.
 
 

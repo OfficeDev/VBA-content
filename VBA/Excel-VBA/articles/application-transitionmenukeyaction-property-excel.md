@@ -30,7 +30,6 @@ This example sets the Microsoft Excel menu key to run Lotus 1-2-3 Help when it i
 
 ```vb
 Application.TransitionMenuKeyAction = xlLotusHelp 
-
 ```
 
 

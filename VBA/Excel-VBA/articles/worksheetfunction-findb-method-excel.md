@@ -46,9 +46,9 @@ Double
 
 - FIND always counts each character, whether single-byte or double-byte, as 1, no matter what the default language setting is.
     
--  FINDB counts each double-byte character as 2 when you have enabled the editing of a language that supports DBCS and then set it as the default language. Otherwise, FINDB counts each character as 1.
+- FINDB counts each double-byte character as 2 when you have enabled the editing of a language that supports DBCS and then set it as the default language. Otherwise, FINDB counts each character as 1.
     
- The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean.
+  The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean.
 
 
 - FIND and FINDB are case sensitive and don't allow wildcard characters. If you don't want to do a case sensitive search or use wildcard characters, you can use SEARCH and SEARCHB.

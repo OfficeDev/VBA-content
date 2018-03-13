@@ -33,8 +33,9 @@ Returns an object that represents either a single axis or a collection of the ax
 
 
 |XlAxisGroup can be one of these XlAxisGroup constants.|
-| **xlPrimary**|
-| **xlSecondary**If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|
+| <strong>xlPrimary</strong>|
+| 
+<strong>xlSecondary</strong>If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|
 
 ## Example
 

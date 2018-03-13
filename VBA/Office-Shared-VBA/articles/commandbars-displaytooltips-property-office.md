@@ -41,10 +41,9 @@ This example displays large controls and ToolTips on all command bars.
 
 ```
 Set allBars = CommandBars 
- 
+
 allBars.LargeButtons = True  
 allBars.DisplayTooltips = True  
-
 ```
 
 

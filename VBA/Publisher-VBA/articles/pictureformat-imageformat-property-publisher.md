@@ -38,11 +38,12 @@ The  **ImageFormat** property indicates the format of the picture after it has b
 
 
 
-|**File format**|**Constant returned**|
-|:-----|:-----|
-|.bmp, .dib, .gif, .pict|pbImageFormatPNG|
-|.emf, .eps, .epfs|pbImageFormatWMF|
-|CMYK .jfif, .jpeg, .jpg|pbImageFormatJPEG|
+| <strong>File format</strong> | <strong>Constant returned</strong> |
+|:-----------------------------|:-----------------------------------|
+| .bmp, .dib, .gif, .pict      | pbImageFormatPNG                   |
+| .emf, .eps, .epfs            | pbImageFormatWMF                   |
+| CMYK .jfif, .jpeg, .jpg      | pbImageFormatJPEG                  |
+
 Windows GDI+ is the portion of the Microsoft Windows XP operating system and the Microsoft Windows Server 2003 operating system that provides two-dimensional vector graphics, imaging, and typography.
 
 
@@ -54,27 +55,26 @@ The following example prints a list of the .jpg and .jpeg images present in the 
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
- 
+
  If shpLoop.Type = pbPicture Or shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
  If .IsEmpty = msoFalse Then 
- 
+
  If .ImageFormat = pbImageFormatJPEG Then 
  Debug.Print .Filename 
  End If 
- 
+
  End If 
  End With 
- 
+
  End If 
- 
+
  Next shpLoop 
 Next pgLoop 
-
 ```
 
 

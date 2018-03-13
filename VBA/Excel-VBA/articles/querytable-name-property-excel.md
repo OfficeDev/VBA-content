@@ -29,12 +29,13 @@ The following table shows example values of the  **Name** property and related p
 
 
 
-|**Property**|**Value (OLAP data source)**|**Value (non-OLAP data source)**|
-|:-----|:-----|:-----|
-| **Caption**|Paris|Paris|
-| **Name**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
-| **SourceName**|[Europe].[France].[Paris] &nbsp;(read-only)|(Same as SQL property value, read-only)|
-| **Value**|[Europe].[France].[Paris] &nbsp;(read-only)|Paris|
+| <strong>Property</strong>   | <strong>Value (OLAP data source)</strong>   | <strong>Value (non-OLAP data source)</strong> |
+|:----------------------------|:--------------------------------------------|:----------------------------------------------|
+| <strong>Caption</strong>    | Paris                                       | Paris                                         |
+| <strong>Name</strong>       | [Europe].[France].[Paris] &nbsp;(read-only) | Paris                                         |
+| <strong>SourceName</strong> | [Europe].[France].[Paris] &nbsp;(read-only) | (Same as SQL property value, read-only)       |
+| <strong>Value</strong>      | [Europe].[France].[Paris] &nbsp;(read-only) | Paris                                         |
+
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
 If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .

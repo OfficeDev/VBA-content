@@ -30,9 +30,8 @@ This example displays the date and time that the last version of the active docu
 
 ```vb
 Dim docActive As Document 
- 
-Set docActive = ActiveDocument 
 
+Set docActive = ActiveDocument 
 ```
 
 
@@ -48,7 +47,7 @@ This example displays the date and time of the next tracked change found in the 
 
 ```vb
 Dim revTemp As Revision 
- 
+
 If ActiveDocument.Revisions.Count >= 1 Then 
  Set revTemp = Selection.NextRevision 
  If Not (revTemp Is Nothing) Then MsgBox revTemp.Date 

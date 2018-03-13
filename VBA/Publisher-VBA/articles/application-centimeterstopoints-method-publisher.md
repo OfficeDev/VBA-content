@@ -49,25 +49,24 @@ This example converts measurements in centimeters entered by the user to measure
 ```vb
 Dim strInput As String 
 Dim strOutput As String 
- 
+
 Do While True 
  ' Get input from user. 
  strInput = InputBox( _ 
  Prompt:="Enter measurement in centimeters (0 to cancel): ", _ 
  Default:="0") 
- 
+
  ' Exit the loop if user enters zero. 
  If Val(strInput) = 0 Then Exit Do 
- 
+
  ' Evaluate and display result. 
  strOutput = Trim(strInput) &; " cm = " _ 
  &; Format(Application _ 
  .CentimetersToPoints(Value:=Val(strInput)), _ 
  "0.00") &; " points" 
- 
+
  MsgBox strOutput 
 Loop 
-
 ```
 
 

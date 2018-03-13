@@ -37,8 +37,9 @@ The value of the  **ShowScrollbar** property can be one of these **MsoTriState**
 
 ||
 |:-----|
-|**msoFalse**|
-|**msoTrue**|
+|<strong>msoFalse</strong>|
+|
+<strong>msoTrue</strong>|
 
 ## Example
 

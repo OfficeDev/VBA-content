@@ -34,10 +34,11 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRegionalUIOptionsHide**|0|Always hides regional UI.|
-| **visRegionalUIOptionsShow**|1|Always shows regional UI.|
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong> |
+|:------------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visRegionalUIOptionsHide</strong> | 0                      | Always hides regional UI.    |
+| <strong>visRegionalUIOptionsShow</strong> | 1                      | Always shows regional UI.    |
+
 The setting of  **ComplexTextUI** is dependent on the settings of three other properties of the **ApplicationSettings** object: **[ApplicationSettings.BIDITextUI](applicationsettings-biditextui-property-visio.md)** , **[ApplicationSettings.KashidaTextUI](applicationsettings-kashidatextui-property-visio.md)** , and **[ApplicationSettings.SATextUI ](applicationsettings-satextui-property-visio.md)** . If any of these properties is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.
 
 You can determine current language settings by getting the value of the  **[Application.LanguageSettings](application-languagesettings-property-visio.md)** property. Or, you can change language settings in the **Microsoft Office Language Prefernces** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office Language Preferences**. 

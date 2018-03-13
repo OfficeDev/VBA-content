@@ -15,11 +15,11 @@ You can add a new record to a table-type or dynaset-type  **[Recordset](http://m
 
 
 1. Use the  **AddNew** method to create a record you can edit.
-    
+
 2. Assign values to each of the record's fields.
-    
+
 3. Use the  **[Update](http://msdn.microsoft.com/library/AAD4171A-DA95-ED72-86B3-714615EA0AC8%28Office.15%29.aspx)** method to save the new record.
-    
+
 The following code example adds a record to a table-type  **Recordset** called Shippers.
 
 
@@ -27,18 +27,17 @@ The following code example adds a record to a table-type  **Recordset** called S
 ```vb
 Dim dbsNorthwind As DAO.Database 
 Dim rstShippers As DAO.Recordset 
- 
+
    Set dbsNorthwind = CurrentDb 
    Set rstShippers = dbsNorthwind.OpenRecordset("Shippers") 
- 
+
    rstShippers.AddNew 
    rstShippers!CompanyName = "Global Parcel Service" 
       . 
       . ' Set remaining fields. 
       . 
- 
-   rstShippers.Update 
 
+   rstShippers.Update 
 ```
 
 When you use the  **AddNew** method, the Access database engine prepares a new, blank record and makes it the current record. When you use the **Update** method to save the new record, the record that was current before you used the **AddNew** method becomes the current record again.

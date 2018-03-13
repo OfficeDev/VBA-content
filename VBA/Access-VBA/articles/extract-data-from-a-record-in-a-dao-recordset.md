@@ -22,15 +22,14 @@ Dim rstEmployees As DAO.Recordset
 Dim strFirstName As String 
 Dim strLastName As String 
 Dim strTitle As String 
- 
+
    Set dbsNorthwind = CurrentDb 
    Set rstEmployees = dbsNorthwind.OpenRecordset("Employees") 
- 
+
    rstEmployees.MoveFirst 
    strFirstName = rstEmployees!FirstName 
    strLastName = rstEmployees!LastName 
    strTitle = rstEmployees!Title 
-
 ```
 
 
@@ -45,7 +44,6 @@ A fast way to do this is to use the  **[GetRows](http://msdn.microsoft.com/libra
 
 ```
 varRecords(intField, intRecord) 
-
 ```
 
 The following code example uses an SQL statement to retrieve three fields from a table called Employees into a  **Recordset** object. It then uses the **GetRows** method to retrieve the first three records of the **Recordset**, and it stores the selected records in a two-dimensional array. It then prints each record, one field at a time, by using the two array indexes to select specific fields and records.
@@ -57,7 +55,7 @@ To show how the array indexes are used, the following example uses a separate st
 
 ```vb
 Sub GetRowsTest() 
- 
+
 Dim dbsNorthwind As DAO.Database 
 Dim rstEmployees As DAO.Recordset 
 Dim varRecords As Variant 
@@ -66,31 +64,31 @@ Dim intNumColumns As Integer
 Dim intColumn As Integer 
 Dim intRow As Integer 
 Dim strSQL As String 
- 
+
 On Error GoTo ErrorHandler 
- 
+
    Set dbsNorthwind = CurrentDb 
    strSQL = "SELECT FirstName, LastName, Title FROM Employees" 
    Set rstEmployees = dbsNorthwind.OpenRecordset(strSQL, dbOpenSnapshot) 
- 
+
    varRecords = rstEmployees.GetRows(3) 
    intNumReturned = UBound(varRecords, 2) + 1 
    intNumColumns = UBound(varRecords, 1) + 1 
- 
+
    For intRow = 0 To intNumReturned - 1 
       For intColumn = 0 To intNumColumns - 1 
          Debug.Print varRecords(intColumn, intRow) 
       Next intColumn 
    Next intRow 
- 
+
    rstEmployees.Close 
    dbsNorthwind.Close 
- 
+
    Set rstEmployees = Nothing 
    Set dbsNorthwind = Nothing 
- 
+
 Exit Sub 
- 
+
 ErrorHandler: 
    MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
 End Sub

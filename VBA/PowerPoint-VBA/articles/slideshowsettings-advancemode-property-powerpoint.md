@@ -30,9 +30,11 @@ The value of the  **AdvanceMode** property can be one of these **PpSlideShowAdva
 
 ||
 |:-----|
-|**ppSlideShowManualAdvance**|
-|**ppSlideShowRehearseNewTimings**|
-|**ppSlideShowUseSlideTimings**|
+|<strong>ppSlideShowManualAdvance</strong>|
+|
+<strong>ppSlideShowRehearseNewTimings</strong>|
+|
+<strong>ppSlideShowUseSlideTimings</strong>|
 
 ## See also
 

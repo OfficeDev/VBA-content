@@ -59,7 +59,7 @@ If you simply want to count all records in  _domain_ without specifying any rest
 
 You can use the  **DCount** function to count the number of records containing a particular field that isn't in the record source on which your form or report is based. For example, you could display the number of orders in the Orders table in a calculated control on a form based on the Products table.
 
-The  **DCount** function doesn't count records that contain **Null** values in the field referenced by _expr_ unless _expr_ is the asterisk (*) wildcard character. If you use an asterisk, the **DCount** function calculates the total number of records, including those that contain **Null** fields. The following example calculates the number of records in an Orders table.
+The  <strong>DCount</strong> function doesn't count records that contain <strong>Null</strong> values in the field referenced by <em>expr</em> unless <em>expr</em> is the asterisk (<em>) wildcard character. If you use an asterisk, the **DCount</em>* function calculates the total number of records, including those that contain <strong>Null</strong> fields. The following example calculates the number of records in an Orders table.
 
 
 
@@ -94,7 +94,7 @@ The following function returns the number of orders shipped to a specified count
 ```vb
 Public Function OrdersCount(ByVal strCountry As String, _ 
                             ByVal dteShipDate As Date) As Integer 
- 
+
     OrdersCount = DCount("[ShippedDate]", "Orders", _ 
                   "[ShipCountry] = '" &; strCountry &; _ 
                   "' AND [ShippedDate] > #" &; dteShipDate &; "#") 
@@ -143,13 +143,13 @@ The following examples show how to use various types of criteria with the  **DCo
     variable = DCount("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
              &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
             &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
-    
+
     ' Use two fields from a single record.
     variable = DCount("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
-            
+
     ' Expressions
     variable = DCount("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")
-    
+
     ' Control Structures
     variable = DCount("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
@@ -159,11 +159,13 @@ The following examples show how to use various types of criteria with the  **DCo
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

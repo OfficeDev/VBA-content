@@ -58,7 +58,7 @@ Allows you to specify advanced options for your Solver model. This function and 
  
  **SolveWithout** Optional **Variant**.  **True** to have Solver ignore any integer constraints and solve the "relaxation" of the problem. **False** to have Solver use the integer constraints in solving the problem.
  
- **MaxTimeNoImp ** Optional **Variant**. When the  **Evolutionary Solving** method is used, the maximum amount of time (in seconds) Solver will continue solving without finding significantly improved solutions to add to the population. The value must be a positive integer.
+ <strong>MaxTimeNoImp ** Optional **Variant</strong>. When the  <strong>Evolutionary Solving</strong> method is used, the maximum amount of time (in seconds) Solver will continue solving without finding significantly improved solutions to add to the population. The value must be a positive integer.
 
 ## Example
 

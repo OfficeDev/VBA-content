@@ -18,7 +18,7 @@ Occurs when a data recordset changes as a result of being refreshed.
 
 ## Syntax
 
-Private Sub  _expression_ _**DataRecordsetChanged**( **_ByVal DataRecordsetChanged As IVDATARECORDSETCHANGEDEVENT_** )
+Private Sub  <em>expression</em> <em><strong>DataRecordsetChanged</strong>( **_ByVal DataRecordsetChanged As IVDATARECORDSETCHANGEDEVENT</em>** )
 
  _expression_ An expression that returns a **InvisibleApp** object.
 

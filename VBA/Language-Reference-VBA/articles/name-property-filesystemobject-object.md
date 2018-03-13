@@ -20,10 +20,11 @@ Sets or returns the name of a specified file or folder. Read/write.
 The  **Name** property has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **File** or **Folder** object.|
-| _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
+| <strong>Part</strong> | <strong>Description</strong>                                                               |
+|:----------------------|:-------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>File</strong> or <strong>Folder</strong> object.   |
+| <em>newname</em>      | Optional. If provided,  <em>newname</em> is the new name of the specified <em>object</em>. |
+
  **Remarks**
 The following code illustrates the use of the  **Name** property:
 

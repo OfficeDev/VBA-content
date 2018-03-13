@@ -43,7 +43,6 @@ The following example removes the second user's permissions on the active docume
  vbInformation + vbOKOnly, "IRM Information" 
  Set irmUserPerm = Nothing 
  Set irmPermission = Nothing 
-
 ```
 
 

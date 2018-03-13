@@ -28,7 +28,6 @@ Sub ClearTabStop()
     ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _ 
         .ParagraphFormat.Tabs(1).Clear 
 End Sub 
-
 ```
 
 

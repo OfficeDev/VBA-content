@@ -34,10 +34,11 @@ The value of the  **AnimateTextInReverse Property** property can be one of these
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The specified shape is not built in reverse order.|
-|**msoTrue**| The specified shape is built in reverse order.|
+| <strong>Constant</strong> | <strong>Description</strong>                       |
+|:--------------------------|:---------------------------------------------------|
+| <strong>msoFalse</strong> | The specified shape is not built in reverse order. |
+| <strong>msoTrue</strong>  | The specified shape is built in reverse order.     |
+
 You do not see the effects of setting this property unless the specified shape gets animated. For a shape to be animated, the  **TextLevelEffect** property of the **AnimationSettings** object for the shape must be set to something other than **ppAnimateLevelNone** and the **[Animate](animationsettings-animate-property-powerpoint.md)** property must be set to **True**.
 
 

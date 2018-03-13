@@ -27,11 +27,11 @@ Sets the location of the node specified by  **Index**. Note that, depending on t
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The node whose position is to be set.|
-| _ Y1_|Required|**Single**|The x-position (in points) of the new node relative to the upper-left corner of the document.|
-| _ Y1_|Required|**Single**|The y-position (in points) of the new node relative to the upper-left corner of the document.|
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data Type</strong> | <strong>Description</strong>                                                                  |
+|:----------------------|:-----------------------------------|:---------------------------|:----------------------------------------------------------------------------------------------|
+| <em>Index</em>        | Required                           | <strong>Long</strong>      | The node whose position is to be set.                                                         |
+| <em> Y1</em>          | Required                           | <strong>Single</strong>    | The x-position (in points) of the new node relative to the upper-left corner of the document. |
+| <em> Y1</em>          | Required                           | <strong>Single</strong>    | The y-position (in points) of the new node relative to the upper-left corner of the document. |
 
 ## Example
 

@@ -21,8 +21,6 @@ When returning a user-defined error from an object, set  **Err.Number** by addin
 
 ```
 Err.Raise Number := vbObjectError + 1051, Source:= "SomeClass"
-
-
 ```
 
 
@@ -35,7 +33,7 @@ The first example illustrates a typical use of the  **Number** property in an er
 ' Typical use of Number property
 Sub test()
     On Error GoTo out
-    
+
     Dim x, y
     x = 1 / y    ' Create division by zero error
     Exit Sub
@@ -70,7 +68,6 @@ Else
             &; " topic for this error."
 End If
     MsgBox Msg, , "Object Error", Err.HelpFile, Err.HelpContext
-
 ```
 
 

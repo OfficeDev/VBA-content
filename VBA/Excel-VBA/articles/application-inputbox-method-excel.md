@@ -97,7 +97,7 @@ This example uses an InputBox for the user to select a range to pass to the user
 Sub Cbm_Value_Select()
    'Set up the variables.
    Dim rng As Range
-   
+
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
@@ -105,7 +105,7 @@ Sub Cbm_Value_Select()
          vbLf &; "please select three cells!"
       Exit Sub
    End If
-   
+
    'Call MyFunction by value using the active cell.
    ActiveCell.Value = MyFunction(rng)
 End Sub
@@ -117,6 +117,7 @@ End Function
 
 ## About the contributor
 <a name="AboutContributor"> </a>
+
 
 *Holy Macro! Books* publishes entertaining books for people who use Office. See the complete catalog at MrExcel.com. 
 

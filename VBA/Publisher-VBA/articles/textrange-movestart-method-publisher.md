@@ -43,23 +43,39 @@ The Unit parameter can be one of the  **PbTextUnit** constants declared in the M
 
 
 
-| **pbTextUnitCell**|
-| **pbTextUnitCharacter**|
-| **pbTextUnitCharFormat**|
-| **pbTextUnitCodePoint**|
-| **pbTextUnitColumn**|
-| **pbTextUnitLine**|
-| **pbTextUnitObject**|
-| **pbTextUnitParaFormat**|
-| **pbTextUnitParagraph**|
-| **pbTextUnitRow**|
-| **pbTextUnitScreen**|
-| **pbTextUnitSection**|
-| **pbTextUnitSentence**|
-| **pbTextUnitStory**|
-| **pbTextUnitTable**|
-| **pbTextUnitWindow**|
-| **pbTextUnitWord**|
+| <strong>pbTextUnitCell</strong>|
+| 
+<strong>pbTextUnitCharacter</strong>|
+| 
+<strong>pbTextUnitCharFormat</strong>|
+| 
+<strong>pbTextUnitCodePoint</strong>|
+| 
+<strong>pbTextUnitColumn</strong>|
+| 
+<strong>pbTextUnitLine</strong>|
+| 
+<strong>pbTextUnitObject</strong>|
+| 
+<strong>pbTextUnitParaFormat</strong>|
+| 
+<strong>pbTextUnitParagraph</strong>|
+| 
+<strong>pbTextUnitRow</strong>|
+| 
+<strong>pbTextUnitScreen</strong>|
+| 
+<strong>pbTextUnitSection</strong>|
+| 
+<strong>pbTextUnitSentence</strong>|
+| 
+<strong>pbTextUnitStory</strong>|
+| 
+<strong>pbTextUnitTable</strong>|
+| 
+<strong>pbTextUnitWindow</strong>|
+| 
+<strong>pbTextUnitWord</strong>|
 
 ## Example
 
@@ -69,10 +85,10 @@ This example sets a text range, moves the range's starting and ending character 
 ```vb
 Sub MoveStartEnd() 
  Dim rngText As TextRange 
- 
+
  Set rngText = ActiveDocument.Pages(1).Shapes(1).TextFrame _ 
  .TextRange.Paragraphs(Start:=3, Length:=1) 
- 
+
  With rngText 
  .MoveStart Unit:=pbTextUnitLine, Size:=-2 
  .MoveEnd Unit:=pbTextUnitLine, Size:=1 
@@ -81,7 +97,7 @@ Sub MoveStartEnd()
  .Size = 15 
  End With 
  End With 
- 
+
 End Sub
 ```
 

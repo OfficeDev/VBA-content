@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WHERE Clause (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -25,6 +25,7 @@ Specifies which records from the tables listed in the [FROM](from-clause-microso
 
 ## Syntax
 <a name="sectionSection0"> </a>
+
 
 SELECT  _fieldlist_ FROM _tableexpression_ WHERE _criteria_
 
@@ -40,6 +41,7 @@ A SELECT statement containing a WHERE clause has these parts:
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 The Microsoft Access database engine selects the records that meet the conditions listed in the WHERE clause. If you do not specify a WHERE clause, your query returns all rows from the table. If you specify more than one table in your query and you have not included a WHERE clause or a JOIN clause, your query generates a Cartesian product of the tables.
 
@@ -124,6 +126,7 @@ Be sure to include the nested braces and hyphens as shown.
 ## Example
 <a name="sectionSection2"> </a>
 
+
 The following example assumes the existence of a hypothetical Salary field in an Employees table. Note that this field does not actually exist in the Northwind database Employees table.
 
 This example selects the LastName and FirstName fields of each record in which the last name is King.
@@ -135,30 +138,29 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub WhereX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Select records from the Employees table where the 
     ' last name is King. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
         &; "FirstName FROM Employees " _ 
         &; "WHERE LastName = 'King';") 
-     
+
     ' Populate the Recordset. 
     rst.MoveLast 
-     
+
     ' Call EnumFields to print the contents of the 
     ' Recordset. 
     EnumFields rst, 12 
- 
-    dbs.Close 
- 
-End Sub 
 
+    dbs.Close 
+
+End Sub 
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

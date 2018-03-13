@@ -39,7 +39,6 @@ If Forms(0).Moveable Then
 Else 
  MsgBox "The form cannot be moved." 
 End If 
-
 ```
 
 

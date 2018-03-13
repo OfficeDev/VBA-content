@@ -27,9 +27,10 @@ The  **CopyObject** method carries out the CopyObject action in Visual Basic.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _DestinationDatabase_|Optional|**Variant**|A string expression that's the valid path and file name for the database you want to copy the object into. To select the current database, leave this argument blank.
+| <strong>Name</strong>        | <strong>Required/Optional</strong> | <strong>Data Type</strong> | <strong>Description</strong>                                                                                                                                          |
+|:-----------------------------|:-----------------------------------|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>DestinationDatabase</em> | Optional                           | <strong>Variant</strong>   | A string expression that's the valid path and file name for the database you want to copy the object into. To select the current database, leave this argument blank. |
+
  **Note**  In a Microsoft Access project (.adp) you must leave the destinationdatabase argument blank. If you execute Visual Basic code containing the  **CopyObject** method in a library database and leave this argument blank, Microsoft Access copies the object into the library database.
 
 |

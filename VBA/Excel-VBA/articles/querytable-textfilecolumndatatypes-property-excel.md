@@ -29,18 +29,19 @@ Use the  **xlColumnDataType** constants listed in the following table to specify
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **xlGeneralFormat**|General|
-| **xlTextFormat**|Text|
-| **xlSkipColumn**|Skip column|
-| **xlDMYFormat**|Day-Month-Year date format|
-| **xlDYMFormat**|Day-Year-Month date format|
-| **xlEMDFormat**|EMD date|
-| **xlMDYFormat**|Month-Day-Year date format|
-| **xlMYDFormat**|Month-Year-Day date format|
-| **xlYDMFormat**|Year-Day-Month date format|
-| **xlYMDFormat**|Year-Month-Day date format|
+| <strong>Constant</strong>        | <strong>Description</strong> |
+|:---------------------------------|:-----------------------------|
+| <strong>xlGeneralFormat</strong> | General                      |
+| <strong>xlTextFormat</strong>    | Text                         |
+| <strong>xlSkipColumn</strong>    | Skip column                  |
+| <strong>xlDMYFormat</strong>     | Day-Month-Year date format   |
+| <strong>xlDYMFormat</strong>     | Day-Year-Month date format   |
+| <strong>xlEMDFormat</strong>     | EMD date                     |
+| <strong>xlMDYFormat</strong>     | Month-Day-Year date format   |
+| <strong>xlMYDFormat</strong>     | Month-Year-Day date format   |
+| <strong>xlYDMFormat</strong>     | Year-Day-Month date format   |
+| <strong>xlYMDFormat</strong>     | Year-Month-Day date format   |
+
 Use this property only when your query table is based on data from a text file (with the  **[QueryType](querytable-querytype-property-excel.md)** property set to **xlTextImport** ).
 
 If you specify more elements in the array that there are columns, those values are ignored.

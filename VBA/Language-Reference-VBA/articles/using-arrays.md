@@ -19,7 +19,6 @@ For example, to store daily expenses for each day of the year, you can declare o
 
 ```vb
 Dim curExpense(364) As Currency 
-
 ```
 
 To set the value of an individual element, you specify the element's index. The following example assigns an initial value of 20 to each element in the array.
@@ -45,7 +44,6 @@ You can use the  **Option Base** statement at the top of a [module](vbe-glossary
 ```vb
 Option Base 1 
 Dim curExpense(365) As Currency 
-
 ```
 
 You can also explicitly set the lower bound of an array by using a  **To** clause, as shown in the following example.
@@ -56,7 +54,6 @@ You can also explicitly set the lower bound of an array by using a  **To** claus
 ```vb
 Dim curExpense(1 To 365) As Currency 
 Dim strWeekday(7 To 13) As String 
-
 ```
 
 
@@ -71,7 +68,6 @@ varData(0) = "Claudia Bendel"
 varData(1) = "4242 Maple Blvd" 
 varData(2) = 38 
 varData(3) = Format("06-09-1952", "General Date") 
-
 ```
 
 The other way is to assign the array returned by the  **Array** function to a **Variant** variable, as shown in the following example.
@@ -83,7 +79,6 @@ The other way is to assign the array returned by the  **Array** function to a **
 Dim varData As Variant 
 varData = Array("Ron Bendel", "4242 Maple Blvd", 38, _ 
 Format("06-09-1952", "General Date")) 
-
 ```
 
 You identify the elements in an array of  **Variant** values by index, no matter which technique you use to create the array. For example, the following statement can be added to either of the preceding examples.
@@ -93,7 +88,6 @@ You identify the elements in an array of  **Variant** values by index, no matter
 
 ```vb
 MsgBox "Data for " &; varData(0) &; " has been recorded." 
-
 ```
 
 
@@ -104,7 +98,6 @@ In Visual Basic, you can declare arrays with up to 60 dimensions. For example, t
 
 ```vb
 Dim sngMulti(1 To 5, 1 To 10) As Single 
-
 ```
 
 If you think of the array as a matrix, the first argument represents the rows and the second argument represents the columns.
@@ -118,7 +111,7 @@ Use nested  **For...Next** statements to process multidimensional arrays. The fo
 Sub FillArrayMulti() 
  Dim intI As Integer, intJ As Integer 
  Dim sngMulti(1 To 5, 1 To 10) As Single 
- 
+
  ' Fill array with values. 
  For intI = 1 To 5 
  For intJ = 1 To 10 

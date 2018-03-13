@@ -29,11 +29,15 @@ Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn]
 
 
 
-|XlSortOn can be one of these  **XlSortOn** constants.|
-| **SortOnCellColor**|
-| **SortOnFontColor**|
-| **SortOnIcon**|
-| **SortOnValues**|
+|XlSortOn can be one of these  <strong>XlSortOn</strong> constants.|
+| 
+<strong>SortOnCellColor</strong>|
+| 
+<strong>SortOnFontColor</strong>|
+| 
+<strong>SortOnIcon</strong>|
+| 
+<strong>SortOnValues</strong>|
 
 ## See also
 

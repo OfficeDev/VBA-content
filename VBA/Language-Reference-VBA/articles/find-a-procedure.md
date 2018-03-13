@@ -21,7 +21,7 @@ ms.date: 06/08/2017
     
      **Note**  To visually separate [procedures](vbe-glossary.md) in the **Code** window, you can select the **Procedure Separator** check box on the **Editor** tab of the **Options** dialog box ( **Tools** menu). You can switch between Procedure view and Full Module view using the buttons in the lower-left corner of the **Code** window.
 
- **To find a procedure in another module**
+  **To find a procedure in another module**
 
 
 1. On the  **View** menu, click **Object Browser**, or press F2.

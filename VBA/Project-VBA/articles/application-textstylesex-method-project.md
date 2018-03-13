@@ -38,6 +38,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### If the Gantt Chart is active
 
 |||
@@ -54,6 +55,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### If the Task Usage view is active
 
 |||
@@ -67,6 +69,7 @@ _expression_ A variable that represents an **Application** object.
 |**pjSummary**||
 
 <br/>
+
 
 #### If the Task Sheet is active
 
@@ -102,6 +105,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### PjColor constants
 
 |||
@@ -117,6 +121,7 @@ _expression_ A variable that represents an **Application** object.
 |**pjMaroon**||
 
 <br/>
+
 
 ### Return value
 

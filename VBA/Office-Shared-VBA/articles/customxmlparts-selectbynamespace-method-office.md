@@ -49,13 +49,12 @@ The following example selects all of the custom XML parts matching the namespace
 ```
 Dim cxp1 As CustomXMLParts 
 Dim cxn As CustomXMLNode 
- 
+
 ' Returns all of the custom xml parts with the given namespace. 
  Set cxp1 = ActiveDocument.CustomXMLParts.SelectByNamespace("urn:invoice:namespace")    
- 
+
 ' Get the node matching the XPath expression.                              
 Set cxn = cxp1(1).SelectSingleNode("//*[@supplierID = 1]") 
-
 ```
 
 

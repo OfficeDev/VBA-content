@@ -18,43 +18,43 @@ If you want to run code in one Microsoft Office application that works with the 
 
 
 1. Set a reference to the other application's type library in the  **References** dialog box ( **Tools** menu). Then, the objects, properties, and methods will appear in the Object Browser and the syntax will be checked at compile time. You can also get context-sensitive Help on them.
-    
+
 2. Declare object variables that will refer to the objects in the other application as specific types. Qualify each type with the name of the application that is supplying the object. For example, the following statement declares a variable that points to a Microsoft Word document and another that refers to a Microsoft Excel workbook.
-    
+
     ```vb
       Dim appWD As Word.Application, wbXL As Excel.Workbook
     ```
-    
+
      **Note**  You must follow the preceding steps if you want your code to be early bound.
-     
+
 3. Use the  **CreateObject** function with the [OLE Programmatic Identifiers](http://msdn.microsoft.com/library/9d3418b1-cf9e-4c4d-c387-07952f41608e%28Office.15%29.aspx) of the object you want to work with in the other application, as shown in the following example. To see the session of the other application, set the **Visible** property to **True**.
-        
+
     ```vb
       Dim appWD As Word.Application 
-     
+
     Set appWD = CreateObject("Word.Application") 
     appWd.Visible = True
     ```
-    
+
 4. Apply properties and methods to the object contained in the variable. For example, the following instruction creates a new Word document.
-        
+
     ```vb
     Dim appWD As Word.Application 
-     
+
     Set appWD = CreateObject("Word.Application") 
     appWD.Documents.Add
     ```
 
 5. When finished working with the other application, use the  **Quit** method to close it, and then set its object variable to **Nothing** to free any memory it is using, as shown in the following example.
-    
+
     ```vb
     appWd.Quit 
     Set appWd = Nothing
     ```
-    
- **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
-The following code example creates a new Microsoft Office Word file for each row of data in a spreadsheet.
-    
+
+   **Sample code provided by:** Bill Jelen, [MrExcel.com](http://www.mrexcel.com/)
+   The following code example creates a new Microsoft Office Word file for each row of data in a spreadsheet.
+
 ```vb
 ' You must pick Microsoft Word Object Library from Tools>References
 ' in the VB editor to execute Word commands.
@@ -145,6 +145,7 @@ End Sub
 ## About the Contributors
 
 <a name="AboutContributor"> </a>
+
 
 MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel. 
 

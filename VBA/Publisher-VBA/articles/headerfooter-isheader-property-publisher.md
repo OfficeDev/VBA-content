@@ -37,13 +37,13 @@ The following example creates a new collection and fills it with the headers and
 Dim objHeadersFooters As Collection 
 Dim objMasterPage As page 
 Dim objHeadFoot As HeaderFooter 
- 
+
 Set objHeadersFooters = New Collection 
 For Each objMasterPage In ActiveDocument.masterPages 
  objHeadersFooters.Add objMasterPage.Header 
  objHeadersFooters.Add objMasterPage.Footer 
 Next objMasterPage 
- 
+
 For Each objHeadFoot In objHeadersFooters 
  If objHeadFoot.IsHeader = True Then 
  objHeadFoot.TextRange.Text = "Header Text" 
@@ -51,7 +51,6 @@ For Each objHeadFoot In objHeadersFooters
  objHeadFoot.TextRange.Text = "Footer Text" 
  End If 
 Next 
-
 ```
 
 

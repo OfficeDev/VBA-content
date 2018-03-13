@@ -45,15 +45,16 @@ The  **Boolean** array for the _Periods_ parameter contains the following elemen
 
 
 
-|**Array element**|**Period**|
-|:-----|:-----|
-|1|Seconds|
-|2|Minutes|
-|3|Hours|
-|4|Days|
-|5|Months|
-|6|Quarters|
-|7|Years|
+| <strong>Array element</strong> | <strong>Period</strong> |
+|:-------------------------------|:------------------------|
+| 1                              | Seconds                 |
+| 2                              | Minutes                 |
+| 3                              | Hours                   |
+| 4                              | Days                    |
+| 5                              | Months                  |
+| 6                              | Quarters                |
+| 7                              | Years                   |
+
 Because a group of shapes is treated as a single shape, grouping and ungrouping shapes changes the number of items in the  **[Shapes](shapes-object-excel.md)** collection and changes the index numbers of items that come after the affected items in the collection.
 
 The  **Range** object must be a single cell in the PivotTable field?s data range. If you attempt to apply this method to more than one cell, it will fail (without displaying an error message).

@@ -27,14 +27,12 @@ The  **KeyDown** event occurs when the user presses a key while a report has the
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _KeyCode_|Required|**Integer**|A key code, such as  **vbKeyF1** (the F1 key) or **vbKeyHome** (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0.|
-| _Shift_|Required|**Integer**|The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:
-<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acShiftMask</b>  The bit mask for the SHIFT key.  
-  </p></li><li><p><b>acCtrlMask</b>  The bit mask for the CTRL key.  
-  </p></li><li><p><b>acAltMask</b>  The bit mask for the ALT key.  
-</p></li></ul>|
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data Type</strong> | <strong>Description</strong>                                                                                                                                                                                                                                          |
+|:----------------------|:-----------------------------------|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>KeyCode</em>      | Required                           | <strong>Integer</strong>   | A key code, such as  <strong>vbKeyF1</strong> (the F1 key) or <strong>vbKeyHome</strong> (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0. |
+| <em>Shift</em>        | Required                           | <strong>Integer</strong>   | The state of the SHIFT, CTRL, and ALT keys at the time of the event. If you need to test for the Shift argument, you can use one of the following intrinsic constants as bit masks:                                                                                   |
+
+<ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acShiftMask</b>  The bit mask for the SHIFT key.<br/>  </p></li><li><p><b>acCtrlMask</b>  The bit mask for the CTRL key.<br/>  </p></li><li><p><b>acAltMask</b>  The bit mask for the ALT key.<br/></p></li></ul>|
 
 ## Remarks
 
@@ -48,13 +46,13 @@ Although the  **KeyDown** event occurs when most keys are pressed, it is typical
 
 
 - Extended character keys, such as function keys.
-    
+
 - Navigation keys, such as HOME, END, PAGE UP, PAGE DOWN, UP ARROW, DOWN ARROW, RIGHT ARROW, LEFT ARROW, and TAB.
-    
+
 - Combinations of keys and standard keyboard modifiers (SHIFT, CTRL, or ALT keys).
-    
+
 - The numeric keypad and keyboard number keys.
-    
+
 To find out the ANSI character corresponding to the key pressed, use the  **KeyPress** event.
 
 If a modal dialog box is displayed as a result of pressing or sending a key, the  **KeyDown** and **KeyPress** events occur, but the **KeyUp** event doesn't occur.

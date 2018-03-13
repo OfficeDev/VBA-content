@@ -43,13 +43,13 @@ If you don't have room on your form to display a list box, or if you want to be 
 
 
 - [Create a Query that uses a Multi-select Listbox as Criteria](http://www.utteraccess.com/forum/Creating-Query-Multi-t414388.html)
-    
+
 - [ListBox Picker](http://www.utteraccess.com/forum/ListBox-Picker-t426483.html)
-    
+
 - [Move/Change Order of List Box Items with Up/Down Buttons](http://www.utteraccess.com/wiki/index.php/List_Box:_Reorder_Items)
-    
+
 - [Populate a Listbox with Files from a Directory](http://www.utteraccess.com/forum/Populate-Listbox-Files-t1209291.html)
-    
+
 
 ## Example
 
@@ -69,17 +69,17 @@ To do this, use the Change event of the text box to build a SQL statement that w
 Private Sub FilterBy_Change()
 
     Dim sql As String
-    
+
     'This will match any entry in the list that begins with what the user 
     'has typed in the FilterBy control
     sql = "SELECT ColorID, ColorName FROM Colors WHERE ColorName Like '" &amp; Me.FilterBy.Text &amp; "*' ORDER BY ColorName"
-    
+
     'If you want to match any part of the string then add wildcard (*) before
     'the FilterBy.Text, too:
     'sql = "SELECT ColorID, ColorName FROM Colors WHERE ColorName Like '*" &amp; Me.FilterBy.Text &amp; "*' ORDER BY ColorName"
-    
+
     Me.ColorID.RowSource = sql
-    
+
 End Sub
 ```
 
@@ -252,11 +252,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

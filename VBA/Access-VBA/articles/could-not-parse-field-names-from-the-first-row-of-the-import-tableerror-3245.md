@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Could not parse field names from the first row of the import table. (Error 3245)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,7 +22,6 @@ The first row of data contains invalid field names, such as quoted and unquoted 
 
 ```
 "Name", Date, "ID " Number, Phone" Number"
-
 ```
 
 The first two fields are valid, but the third and fourth are not because they contain nonspace characters outside the quotation marks.

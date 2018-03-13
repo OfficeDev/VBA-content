@@ -53,70 +53,73 @@ The A key through the Z key are the same as the ASCII equivalents A - Z:
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbKeyA**|65|A key|
-|**vbKeyB**|66|B key|
-|**vbKeyC**|67|C key|
-|**vbKeyD**|68|D key|
-|**vbKeyE**|69|E key|
-|**vbKeyF**|70|F key|
-|**vbKeyG**|71|G key|
-|**vbKeyH**|72|H key|
-|**vbKeyI**|73|I key|
-|**vbKeyJ**|74|J key|
-|**vbKeyK**|75|K key|
-|**vbKeyL**|76|L key|
-|**vbKeyM**|77|M key|
-|**vbKeyN**|78|N key|
-|**vbKeyO**|79|O key|
-|**vbKeyP**|80|P key|
-|**vbKeyQ**|81|Q key|
-|**vbKeyR**|82|R key|
-|**vbKeyS**|83|S key|
-|**vbKeyT**|84|T key|
-|**vbKeyU**|85|U key|
-|**vbKeyV**|86|V key|
-|**vbKeyW**|87|W key|
-|**vbKeyX**|88|X key|
-|**vbKeyY**|89|Y key|
-|**vbKeyZ**|90|Z key|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------|:-----------------------|:-----------------------------|
+| <strong>vbKeyA</strong>   | 65                     | A key                        |
+| <strong>vbKeyB</strong>   | 66                     | B key                        |
+| <strong>vbKeyC</strong>   | 67                     | C key                        |
+| <strong>vbKeyD</strong>   | 68                     | D key                        |
+| <strong>vbKeyE</strong>   | 69                     | E key                        |
+| <strong>vbKeyF</strong>   | 70                     | F key                        |
+| <strong>vbKeyG</strong>   | 71                     | G key                        |
+| <strong>vbKeyH</strong>   | 72                     | H key                        |
+| <strong>vbKeyI</strong>   | 73                     | I key                        |
+| <strong>vbKeyJ</strong>   | 74                     | J key                        |
+| <strong>vbKeyK</strong>   | 75                     | K key                        |
+| <strong>vbKeyL</strong>   | 76                     | L key                        |
+| <strong>vbKeyM</strong>   | 77                     | M key                        |
+| <strong>vbKeyN</strong>   | 78                     | N key                        |
+| <strong>vbKeyO</strong>   | 79                     | O key                        |
+| <strong>vbKeyP</strong>   | 80                     | P key                        |
+| <strong>vbKeyQ</strong>   | 81                     | Q key                        |
+| <strong>vbKeyR</strong>   | 82                     | R key                        |
+| <strong>vbKeyS</strong>   | 83                     | S key                        |
+| <strong>vbKeyT</strong>   | 84                     | T key                        |
+| <strong>vbKeyU</strong>   | 85                     | U key                        |
+| <strong>vbKeyV</strong>   | 86                     | V key                        |
+| <strong>vbKeyW</strong>   | 87                     | W key                        |
+| <strong>vbKeyX</strong>   | 88                     | X key                        |
+| <strong>vbKeyY</strong>   | 89                     | Y key                        |
+| <strong>vbKeyZ</strong>   | 90                     | Z key                        |
+
 The 0 key through 9 key are the same as their ASCII equivalents 0 - 9:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbKey0**|48|0 key|
-|**vbKey1**|49|1 key|
-|**vbKey2**|50|2 key|
-|**vbKey3**|51|3 key|
-|**vbKey4**|52|4 key|
-|**vbKey5**|53|5 key|
-|**vbKey6**|54|6 key|
-|**vbKey7**|55|7 key|
-|**vbKey8**|56|8 key|
-|**vbKey9**|57|9 key|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------|:-----------------------|:-----------------------------|
+| <strong>vbKey0</strong>   | 48                     | 0 key                        |
+| <strong>vbKey1</strong>   | 49                     | 1 key                        |
+| <strong>vbKey2</strong>   | 50                     | 2 key                        |
+| <strong>vbKey3</strong>   | 51                     | 3 key                        |
+| <strong>vbKey4</strong>   | 52                     | 4 key                        |
+| <strong>vbKey5</strong>   | 53                     | 5 key                        |
+| <strong>vbKey6</strong>   | 54                     | 6 key                        |
+| <strong>vbKey7</strong>   | 55                     | 7 key                        |
+| <strong>vbKey8</strong>   | 56                     | 8 key                        |
+| <strong>vbKey9</strong>   | 57                     | 9 key                        |
+
 The following constants represent keys on the numeric keypad:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbKeyNumpad0**|0x60|0 key|
-|**vbKeyNumpad1**|0x61|1 key|
-|**vbKeyNumpad2**|0x62|2 key|
-|**vbKeyNumpad3**|0x63|3 key|
-|**vbKeyNumpad4**|0x64|4 key|
-|**vbKeyNumpad5**|0x65|5 key|
-|**vbKeyNumpad6**|0x66|6 key|
-|**vbKeyNumpad7**|0x67|7 key|
-|**vbKeyNumpad8**|0x68|8 key|
-|**vbKeyNumpad9**|0x69|9 key|
-|**vbKeyMultiply**|0x6A|MULTIPLICATION SIGN ( **\*** ) key|
-|**vbKeyAdd**|0x6B|PLUS SIGN ( **+** ) key|
-|**vbKeySeparator**|0x6C|ENTER key|
-|**vbKeySubtract**|0x6D|MINUS SIGN ( **-** ) key|
-|**vbKeyDecimal**|0x6E|DECIMAL POINT ( **.** ) key|
-|**vbKeyDivide**|0x6F|DIVISION SIGN ( **/** ) key|
+| <strong>Constant</strong>       | <strong>Value</strong> | <strong>Description</strong>                    |
+|:--------------------------------|:-----------------------|:------------------------------------------------|
+| <strong>vbKeyNumpad0</strong>   | 0x60                   | 0 key                                           |
+| <strong>vbKeyNumpad1</strong>   | 0x61                   | 1 key                                           |
+| <strong>vbKeyNumpad2</strong>   | 0x62                   | 2 key                                           |
+| <strong>vbKeyNumpad3</strong>   | 0x63                   | 3 key                                           |
+| <strong>vbKeyNumpad4</strong>   | 0x64                   | 4 key                                           |
+| <strong>vbKeyNumpad5</strong>   | 0x65                   | 5 key                                           |
+| <strong>vbKeyNumpad6</strong>   | 0x66                   | 6 key                                           |
+| <strong>vbKeyNumpad7</strong>   | 0x67                   | 7 key                                           |
+| <strong>vbKeyNumpad8</strong>   | 0x68                   | 8 key                                           |
+| <strong>vbKeyNumpad9</strong>   | 0x69                   | 9 key                                           |
+| <strong>vbKeyMultiply</strong>  | 0x6A                   | MULTIPLICATION SIGN ( <strong>\</strong>* ) key |
+| <strong>vbKeyAdd</strong>       | 0x6B                   | PLUS SIGN ( <strong>+</strong> ) key            |
+| <strong>vbKeySeparator</strong> | 0x6C                   | ENTER key                                       |
+| <strong>vbKeySubtract</strong>  | 0x6D                   | MINUS SIGN ( <strong>-</strong> ) key           |
+| <strong>vbKeyDecimal</strong>   | 0x6E                   | DECIMAL POINT ( <strong>.</strong> ) key        |
+| <strong>vbKeyDivide</strong>    | 0x6F                   | DIVISION SIGN ( <strong>/</strong> ) key        |
+
 The following constants represent function keys:
 
 

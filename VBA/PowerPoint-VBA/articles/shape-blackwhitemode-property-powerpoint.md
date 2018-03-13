@@ -35,17 +35,27 @@ The value of the  **BlackWhiteMode** property can be one of these **MsoBlackWhit
 
 ||
 |:-----|
-|**msoBlackWhiteAutomatic**|
-|**msoBlackWhiteBlack**|
-|**msoBlackWhiteBlackTextAndLine**|
-|**msoBlackWhiteDontShow**|
-|**msoBlackWhiteGrayOutline**|
-|**msoBlackWhiteGrayScale**|
-|**msoBlackWhiteHighContrast**|
-|**msoBlackWhiteInverseGrayScale**|
-|**msoBlackWhiteLightGrayScale**|
-|**msoBlackWhiteMixed**|
-|**msoBlackWhiteWhite**|
+|<strong>msoBlackWhiteAutomatic</strong>|
+|
+<strong>msoBlackWhiteBlack</strong>|
+|
+<strong>msoBlackWhiteBlackTextAndLine</strong>|
+|
+<strong>msoBlackWhiteDontShow</strong>|
+|
+<strong>msoBlackWhiteGrayOutline</strong>|
+|
+<strong>msoBlackWhiteGrayScale</strong>|
+|
+<strong>msoBlackWhiteHighContrast</strong>|
+|
+<strong>msoBlackWhiteInverseGrayScale</strong>|
+|
+<strong>msoBlackWhiteLightGrayScale</strong>|
+|
+<strong>msoBlackWhiteMixed</strong>|
+|
+<strong>msoBlackWhiteWhite</strong>|
 
 ## Example
 

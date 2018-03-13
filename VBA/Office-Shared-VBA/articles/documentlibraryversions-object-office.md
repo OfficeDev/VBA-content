@@ -24,13 +24,13 @@ Use the  **DocumentLibraryVersions** object with documents stored in a SharePoin
 
 
 - Check In
-    
+
 - Save - A new version is created on the server when the user first saves the document after opening it. Additional changes saved while the document is open apply to the same version.
-    
+
 - Restore
-    
+
 - Upload
-    
+
 
 
 The  **DocumentLibraryVersions** object model is available whether versioning is enabled or disabled on the active document. The **DocumentLibraryVersions** property of the **Document**, **Workbook** and **Presentation** objects does not return **Nothing** when the active document is not stored in a document library or versioning is not enabled. Use the **IsVersioningEnabled** property to determine whether the document library is configured to save a backup copy, or version, each time the document is edited on the Web site.
@@ -62,7 +62,6 @@ Dim dlvVersions As Office.DocumentLibraryVersions
  MsgBox strVersionInfo, vbInformation + vbOKOnly, "Version Information" 
  Set dlvVersion = Nothing 
  Set dlvVersions = Nothing 
-
 ```
 
 

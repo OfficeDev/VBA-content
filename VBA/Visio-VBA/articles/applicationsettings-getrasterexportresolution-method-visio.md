@@ -48,12 +48,13 @@ The  _pResolution_ parameter must be one of the following **VisRasterExportResol
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRasterUseScreenResolution**|0|Use screen resolution.|
-| **visRasterUsePrinterResolution**|1|Use printer resolution.|
-| **visRasterUseSourceResolution**|2|Use source resolution.|
-| **visRasterUseCustomResolution**|3|Use custom resolution.|
+| <strong>Constant</strong>                      | <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visRasterUseScreenResolution</strong>  | 0                      | Use screen resolution.       |
+| <strong>visRasterUsePrinterResolution</strong> | 1                      | Use printer resolution.      |
+| <strong>visRasterUseSourceResolution</strong>  | 2                      | Use source resolution.       |
+| <strong>visRasterUseCustomResolution</strong>  | 3                      | Use custom resolution.       |
+
 If  _pResolution_ is a constant other than **visRasterUseCustomResolution** , **GetRasterExportResolution** returns null for all other parameters. If _pResolution_ is **visRasterUseCustomResolution** , **GetRasterExportResolution** returns non-null values for all parameters.
 
 The  _pResolutionUnits_ parameter must be one of the following **VisRasterExportResolutionUnits** constants.

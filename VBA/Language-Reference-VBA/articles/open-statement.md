@@ -20,14 +20,15 @@ Enables input/output (I/O) to a file.
 The  **Open** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _pathname_|Required. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.|
-| _mode_|Required. [Keyword](vbe-glossary.md) specifying the file mode: **Append**, **Binary**, **Input**, **Output**, or **Random**. If unspecified, the file is opened for **Random** access.|
-| _access_|Optional. Keyword specifying the operations permitted on the open file:  **Read**, **Write**, or **Read Write**.|
-| _lock_|Optional. Keyword specifying the operations restricted on the open file by other processes:  **Shared**, **Lock Read**, **Lock Write**, and **Lock Read Write**.|
-| _filenumber_|Required. A valid [file number](vbe-glossary.md) in the range 1 to 511, inclusive. Use the **FreeFile** function to obtain the next available file number.|
-| _reclength_|Optional. Number less than or equal to 32,767 (bytes). For files opened for random access, this value is the record length. For sequential files, this value is the number of characters buffered.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                         |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>pathname</em>     | Required. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.                                                                                                                                              |
+| <em>mode</em>         | Required. [Keyword](vbe-glossary.md) specifying the file mode: <strong>Append</strong>, <strong>Binary</strong>, <strong>Input</strong>, <strong>Output</strong>, or <strong>Random</strong>. If unspecified, the file is opened for <strong>Random</strong> access. |
+| <em>access</em>       | Optional. Keyword specifying the operations permitted on the open file:  <strong>Read</strong>, <strong>Write</strong>, or <strong>Read Write</strong>.                                                                                                              |
+| <em>lock</em>         | Optional. Keyword specifying the operations restricted on the open file by other processes:  <strong>Shared</strong>, <strong>Lock Read</strong>, <strong>Lock Write</strong>, and <strong>Lock Read Write</strong>.                                                 |
+| <em>filenumber</em>   | Required. A valid [file number](vbe-glossary.md) in the range 1 to 511, inclusive. Use the <strong>FreeFile</strong> function to obtain the next available file number.                                                                                              |
+| <em>reclength</em>    | Optional. Number less than or equal to 32,767 (bytes). For files opened for random access, this value is the record length. For sequential files, this value is the number of characters buffered.                                                                   |
+
  **Remarks**
 You must open a file before any I/O operation can be performed on it.  **Open** allocates a buffer for I/O to the file and determines the mode of access to use with the buffer.
 If the file specified by  _pathname_ doesn't exist, it is created when a file is opened for **Append**, **Binary**, **Output**, or **Random** modes.
@@ -52,7 +53,6 @@ The following code opens the file in sequential-input mode.
 Open "TESTFILE" For InputAs#1 
 ' Close before reopening in another mode. 
 Close #1 
-
 ```
 
 This example opens the file in Binary mode for writing operations only.
@@ -64,7 +64,6 @@ This example opens the file in Binary mode for writing operations only.
 Open "TESTFILE" For Binary Access Write As #1 
 ' Close before reopening in another mode. 
 Close #1 
-
 ```
 
 The following example opens the file in Random mode. The file contains records of the user-defined type .
@@ -77,12 +76,11 @@ Type Record ' Define user-defined type.
  ID As Integer 
  Name As String * 20 
 End Type 
- 
+
 Dim MyRecord As Record ' Declare variable. 
 Open "TESTFILE" For Random As #1 Len = Len(MyRecord) 
 ' Close before reopening in another mode. 
 Close #1 
-
 ```
 
 This code example opens the file for sequential output; any process can read or write to file.

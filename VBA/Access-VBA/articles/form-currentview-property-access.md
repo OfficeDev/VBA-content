@@ -29,11 +29,12 @@ The  **CurrentView** property uses the following settings.
 
 
 
-|**Setting**|**Form Displayed In:**|
-|:-----|:-----|
-|0|Design view|
-|1|Form view|
-|2|Datasheet view|
+| <strong>Setting</strong> | <strong>Form Displayed In:</strong> |
+|:-------------------------|:------------------------------------|
+| 0                        | Design view                         |
+| 1                        | Form view                           |
+| 2                        | Datasheet view                      |
+
 Use this property to perform different tasks depending on the current view. For example, an event procedure could determine which view the form is displayed in and perform one task if the form is displayed in Form view or another task if it's displayed in Datasheet view.
 
 
@@ -44,7 +45,7 @@ The following example uses the GetCurrentView subroutine to determine whether a 
 
 ```vb
 GetCurrentView Me, "Please contact system administrator." 
- 
+
 Sub GetCurrentView(frm As Form, strDisplayMsg As String) 
  Const conFormView = 1 
  Const conDataSheet = 2 

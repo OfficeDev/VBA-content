@@ -46,18 +46,18 @@ The following example sets the image and mask of the first  **CommandBarButton**
 Sub ChangeButtonImage() 
     Dim picPicture As IPictureDisp 
     Dim picMask As IPictureDisp 
- 
+
     Set picPicture = stdole.StdFunctions.LoadPicture( _ 
         "c:\images\picture.bmp") 
     Set picMask = stdole.StdFunctions.LoadPicture( _ 
         "c:\images\mask.bmp") 
- 
+
     'Reference the first button on the first command bar 
     'using a With...End With block. 
     With Application.CommandBars.FindControl(msoControlButton) 
         'Change the button image. 
         .Picture = picPicture 
- 
+
         'Use the second image to define the area of the 
         'button that should be transparent. 
         .Mask = picMask 
@@ -74,18 +74,17 @@ The following example gets the image and mask of the first  **CommandBarButton**
 Sub GetButtonImageAndMask() 
     Dim picPicture As IPictureDisp 
     Dim picMask As IPictureDisp 
- 
+
     With Application.CommandBars.FindControl(msoControlButton) 
         'Get the button image and mask of this CommandBarButton object. 
         Set picPicture = .Picture 
         Set picMask = .Mask 
     End With 
- 
+
     'Save the button image and mask in a folder. 
     stdole.SavePicture picPicture, "c:\image.bmp" 
     stdole.SavePicture picMask, "c:\mask.bmp" 
 End Sub 
-
 ```
 
 

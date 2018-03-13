@@ -21,10 +21,11 @@ Removes a member from a [collection](vbe-glossary.md); or, removes a control fro
 The  **Remove** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _collectionindex_|Required. A member's position, or index, within a collection. Numeric as well as string values are acceptable. If the value is a number, the minimum value is zero, and the maximum value is one less than the number of members in the collection. If the value is a string, it must correspond to a valid member name.|
+| <strong>Part</strong>    | <strong>Description</strong>                                                                                                                                                                                                                                                                                             |
+|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>          | Required. A valid object.                                                                                                                                                                                                                                                                                                |
+| <em>collectionindex</em> | Required. A member's position, or index, within a collection. Numeric as well as string values are acceptable. If the value is a number, the minimum value is zero, and the maximum value is one less than the number of members in the collection. If the value is a string, it must correspond to a valid member name. |
+
  **Remarks**
 This method deletes any control that was added at [run time](vbe-glossary.md). However, attempting to delete a control that was added at [design time](vbe-glossary.md) will result in an error.
 

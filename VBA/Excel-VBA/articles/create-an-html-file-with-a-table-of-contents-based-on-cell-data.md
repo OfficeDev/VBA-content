@@ -21,12 +21,12 @@ Sub CreateHTML()
    Dim iStage As Integer
    Dim iCounter As Integer
    Dim iPage As Integer
-   
+
    'Create an .htm file in the same directory as your active workbook.
    Dim sFile As String
    sFile = ActiveWorkbook.Path &; "\test.htm"
    Close
-   
+
    'Open up the temp HTML file and format the header.
    Open sFile For Output As #1
    Print #1, "<html>"
@@ -36,10 +36,10 @@ Sub CreateHTML()
    Print #1, "</style>"
    Print #1, "</head>"
    Print #1, "<body>"
-   
+
    'Start on the 2nd row to avoid the header.
    iRow = 2
-   
+
    'Translate the first column of the table into the first level of the hierarchy.
    Do While WorksheetFunction.CountA(Rows(iRow)) > 0
       If Not IsEmpty(Cells(iRow, 1)) Then
@@ -54,7 +54,7 @@ Sub CreateHTML()
             iStage = iStage + 1
          End If
       End If
-      
+
     'Translate the second column of the table into the second level of the hierarchy.
       If Not IsEmpty(Cells(iRow, 2)) Then
          For iCounter = 2 To iStage
@@ -68,7 +68,7 @@ Sub CreateHTML()
             iStage = iStage + 1
          End If
       End If
-      
+
       'Translate the third column of the table into the third level of the hierarchy.
       If Not IsEmpty(Cells(iRow, 3)) Then
          If iStage < 3 Then
@@ -82,7 +82,7 @@ Sub CreateHTML()
       End If
       iRow = iRow + 1
    Loop
-   
+
    'Add ending HTML tags
    For iCounter = 2 To iStage
       Print #1, "    </ul>"
@@ -98,6 +98,7 @@ End Sub
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 

@@ -31,7 +31,6 @@ With ActivePresentation.Slides(1).Shapes(2)
  .Softedgeformat = msosoftedge6 
  End With 
 End With 
-
 ```
 
 

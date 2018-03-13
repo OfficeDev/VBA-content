@@ -41,7 +41,6 @@ For Each swsLink In ActiveWorkbook.SharedWorkspace.Links
 Next 
 MsgBox "Building Links: " &amp; vbCrLf &amp; strBuildingLinks, _ 
    vbInformation + vbOKOnly, "Building Links in Shared Workspace" 
-
 ```
 
 

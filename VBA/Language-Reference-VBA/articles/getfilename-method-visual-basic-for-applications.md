@@ -20,10 +20,11 @@ Returns the last component of specified path that is not part of the drive speci
 The  **GetFileName** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _pathspec_|Required. The path (absolute or relative) to a specific file.|
+| <strong>Part</strong> | <strong>Description</strong>                                       |
+|:----------------------|:-------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>. |
+| <em>pathspec</em>     | Required. The path (absolute or relative) to a specific file.      |
+
  **Remarks**
 The  **GetFileName** method returns a zero-length string ("") if _pathspec_ does not end with the named component.
 

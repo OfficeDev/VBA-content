@@ -20,10 +20,11 @@ Sets attribute information for a file.
 The  **SetAttr** statement syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_pathname_**|Required. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive.|
-|**_attributes_**|Required. [Constant](vbe-glossary.md) or[numeric expression](vbe-glossary.md), whose sum specifies file attributes.|
+| <strong>Part</strong>                | <strong>Description</strong>                                                                                            |
+|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>pathname</em></strong>   | Required. [String expression](vbe-glossary.md) that specifies a file name — may include directory or folder, and drive. |
+| <strong><em>attributes</em></strong> | Required. [Constant](vbe-glossary.md) or[numeric expression](vbe-glossary.md), whose sum specifies file attributes.     |
+
  **Settings**
 The  **_attributes_**[argument](vbe-glossary.md) settings are:
 
@@ -51,7 +52,6 @@ This example uses the  **SetAttr** statement to set attributes for a file. On th
 SetAttr "TESTFILE", vbHidden ' Set hidden attribute. 
 SetAttr "TESTFILE", vbHidden + vbReadOnly ' Set hidden and read-only 
  ' attributes. 
-
 ```
 
 

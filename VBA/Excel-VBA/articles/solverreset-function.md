@@ -42,7 +42,6 @@ SolverAdd CellRef:=Range("C4:E6"), _
  Relation:=4 
 SolverSolve UserFinish:=False 
 SolverSave SaveArea:=Range("A33") 
-
 ```
 
 

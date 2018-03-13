@@ -45,13 +45,14 @@ For the  _PlacementDirs()_ parameter, pass an array of values from the **VisAuto
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|visAutoConnectDirDown|2|Connect down.|
-|visAutoConnectDirLeft|3|Connect to the left.|
-|visAutoConnectDirNone|0|Connect without relocating the shapes.|
-|visAutoConnectDirRight|4|Connect to the right|
-|visAutoConnectDirUp|1|Connect up.|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong>           |
+|:--------------------------|:-----------------------|:---------------------------------------|
+| visAutoConnectDirDown     | 2                      | Connect down.                          |
+| visAutoConnectDirLeft     | 3                      | Connect to the left.                   |
+| visAutoConnectDirNone     | 0                      | Connect without relocating the shapes. |
+| visAutoConnectDirRight    | 4                      | Connect to the right                   |
+| visAutoConnectDirUp       | 1                      | Connect up.                            |
+
 Calling the  **AutoConnectMany** method is equivalent to calling the **[Shape.AutoConnect](shape-autoconnect-method-visio.md)** method multiple times.
 
 You can include the same shape multiple times in each array you pass as a parameter. You cannot use the  **AutoConnectMany** method to connect a shape to itself.

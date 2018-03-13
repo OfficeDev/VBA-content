@@ -35,7 +35,6 @@ The following example saves the color scheme for an Office theme to a file.
 
 ```
 ThemeColorScheme.Save("C:\myThemeColorScheme.xml") 
-
 ```
 
 

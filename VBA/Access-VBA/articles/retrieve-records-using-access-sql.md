@@ -25,7 +25,6 @@ To select all fields from a table, use an asterisk (*). For example, the followi
 ```sql
 SELECT * 
     FROM tblCustomers 
-
 ```
 
 To limit the fields retrieved by the query, simply use the field names instead. For example.
@@ -35,7 +34,6 @@ To limit the fields retrieved by the query, simply use the field names instead. 
 ```sql
 SELECT [Last Name], Phone 
     FROM tblCustomers 
-
 ```
 
 To designate a different name for a field in the result set, use the  **[AS](as-microsoft-access-sql-reserved-word.md)** keyword to establish an alias for that field.
@@ -45,7 +43,6 @@ To designate a different name for a field in the result set, use the  **[AS](as-
 ```sql
 SELECT CustomerID AS [Customer Number] 
     FROM tblCustomers 
-
 ```
 
 
@@ -58,7 +55,6 @@ More often than not, you will not want to retrieve all records from a table. You
 SELECT * 
     FROM tblInvoices 
     WHERE CustomerID = 1 
-
 ```
 
 Be aware of the  `CustomerID = 1` portion of the **WHERE** clause. A **WHERE** clause can contain up to 40 such expressions, and they can be joined with the And or Or logical operators. Using more than one expression allows you to further filter out records in the result set.
@@ -70,7 +66,6 @@ Be aware of the  `CustomerID = 1` portion of the **WHERE** clause. A **WHERE** c
 SELECT * 
     FROM tblInvoices 
     WHERE CustomerID = 1 AND InvoiceDate > #01/01/98# 
-
 ```
 
 Be aware that the date string is enclosed in number signs (#). If you are using a regular string in an expression, you must enclose the string in single quotation marks ('). For example.
@@ -82,7 +77,6 @@ Be aware that the date string is enclosed in number signs (#). If you are using 
 SELECT * 
     FROM tblCustomers 
     WHERE [Last Name] = 'White' 
-
 ```
 
 If you do not know the whole string value, you can use wildcard characters with the  **[Like](like-operator-microsoft-access-sql.md)** operator.
@@ -94,7 +88,6 @@ If you do not know the whole string value, you can use wildcard characters with 
 SELECT * 
     FROM tblCustomers 
     WHERE [Last Name] LIKE 'W*' 
-
 ```
 
 There are a number of wildcard characters to choose from, and the following table lists what they are and what they can be used for.
@@ -122,7 +115,6 @@ Fields referenced in the  **ORDER BY** clause do not have to be part of the **SE
 SELECT * 
     FROM tblCustomers 
     ORDER BY [Last Name], [First Name] DESC 
-
 ```
 
 You can also use the field numbers (or positions) instead of field names in the  **ORDER BY** clause.
@@ -134,7 +126,6 @@ You can also use the field numbers (or positions) instead of field names in the 
 SELECT * 
     FROM tblCustomers 
     ORDER BY 2, 3 DESC 
-
 ```
 
 

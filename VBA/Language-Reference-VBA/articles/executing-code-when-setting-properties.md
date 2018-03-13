@@ -19,7 +19,6 @@ The  **Property Let** statement allows you to create a procedure that sets the v
 
 ```
 Form1.Inverted = True 
-
 ```
 
 The actual work of inverting a bitmap on the form is done within the  **Property Let** procedure:
@@ -28,7 +27,7 @@ The actual work of inverting a bitmap on the form is done within the  **Property
 
 ```vb
 Private IsInverted As Boolean 
- 
+
 Property Let Inverted(X As Boolean) 
  IsInverted = X 
  If IsInverted Then 
@@ -38,7 +37,6 @@ Property Let Inverted(X As Boolean)
  (statements) 
  End If 
 End Property 
-
 ```
 
 The form-level variable stores the setting of your property. By declaring it  **Private**, the user can only change it only using your **Property Let** procedure. Use a name that makes it easy to recognize that the variable is used for the property.
@@ -50,15 +48,14 @@ This  **Property Get** procedure is used to return the current state of the prop
 Property Get Inverted() As Boolean 
  Inverted = IsInverted 
 End Property 
-
 ```
 
 [Property procedures](vbe-glossary.md) make it easy to execute code at the same time the value of a property is set. You can use property procedures to do the following processing:
 
 
 - Before a property value is set to determine the value of the property.
-    
+
 - After a property value is set, based on the new value.
-    
+
 
 

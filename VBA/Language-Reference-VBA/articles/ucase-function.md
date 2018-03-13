@@ -29,8 +29,6 @@ This example uses the  **UCase** function to return an uppercase version of a st
 Dim LowerCase, UpperCase
 LowerCase = "Hello World 1234"    ' String to convert.
 UpperCase = UCase(LowerCase)    ' Returns "HELLO WORLD 1234".
-
-
 ```
 
 

@@ -29,10 +29,11 @@ The  **AutoCenter** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The report will be centered automatically on opening.|
-|No|**False**|(Default) The report upper-left corner will be in the same location as when the form was last saved.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                         |
+|:-------------------------|:------------------------------|:-----------------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The report will be centered automatically on opening.                                                |
+| No                       | <strong>False</strong>        | (Default) The report upper-left corner will be in the same location as when the form was last saved. |
+
 You can set this property only in Design view.
 
 Depending on the size and placement of the application window, reports can appear off to one side of the application window, hiding part of the form or report. Centering the report automatically when it's opened makes it easier to view and use.

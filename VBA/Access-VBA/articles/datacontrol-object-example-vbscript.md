@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # DataControl Object Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -49,6 +49,7 @@ font-size: x-small;}
 <PARAM NAME="SQL" VALUE="Select * from Employees for browse"><PARAM NAME="SERVER" VALUE="http://<%=Request.ServerVariables("SERVER_NAME")%>">
 <PARAM NAME="CONNECT" VALUE="Provider='sqloledb';Integrated Security='SSPI';Initial Catalog='Northwind'"></OBJECT> 
 </BODY></HTML>
+
 <!-- EndDataControlDesignVBS -->
 ```
 
@@ -98,6 +99,7 @@ RDS.Refresh
 End Sub 
 </Script> 
 </body></html>
+
 <!-- EndDataControlRuntimeVBS -->
 ```
 

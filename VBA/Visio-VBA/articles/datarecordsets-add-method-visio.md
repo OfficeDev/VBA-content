@@ -61,13 +61,14 @@ The AddOptions parameter can be a combination of one or more of the following va
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visDataRecordsetNoExternalDataUI**|1|Prevents data in the new data recordset from being displayed in the  **External Data** window.|
-| **visDataRecordsetNoRefreshUI**|2|Prevents the data recordset from being displayed in the  **Refresh Data** dialog box.|
-| **visDataRecordsetNoAdvConfig**|4|Prevents the data recordset from being displayed in the  **Configure Refresh** dialog box.|
-| **visDataRecordsetDelayQuery**|8|Adds a data recordset but does not execute the CommandString query until the next time you call the  **Refresh** method.|
-| **visDataRecordsetDontCopyLinks**|16|Adds a data recordset, but shape-data links are not copied to the Clipboard when shapes are copied or cut.|
+| <strong>Constant</strong>                         | <strong>Value</strong> | <strong>Description</strong>                                                                                                          |
+|:--------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>visDataRecordsetNoExternalDataUI</strong> | 1                      | Prevents data in the new data recordset from being displayed in the  <strong>External Data</strong> window.                           |
+| <strong>visDataRecordsetNoRefreshUI</strong>      | 2                      | Prevents the data recordset from being displayed in the  <strong>Refresh Data</strong> dialog box.                                    |
+| <strong>visDataRecordsetNoAdvConfig</strong>      | 4                      | Prevents the data recordset from being displayed in the  <strong>Configure Refresh</strong> dialog box.                               |
+| <strong>visDataRecordsetDelayQuery</strong>       | 8                      | Adds a data recordset but does not execute the CommandString query until the next time you call the  <strong>Refresh</strong> method. |
+| <strong>visDataRecordsetDontCopyLinks</strong>    | 16                     | Adds a data recordset, but shape-data links are not copied to the Clipboard when shapes are copied or cut.                            |
+
  Once you assign these values, you cannot change them for the life of the **DataRecordset** object.
 
 The Name parameter is an optional string that lets you assign the data recordset a display name. If you specify that the  **External Data** window be displayed in the Visio UI, the name you pass for this argument appears on the tab of the **External Data** window that corresponds to the data recordset added.
@@ -76,20 +77,20 @@ If the  **Add** method succeeds, it performs the following actions:
 
 
 - Creates a  **DataRecordset** object and assigns it the name specified in the Name parameter. If you do not specify a name, Visio assigns the data recordset the name of the database table that is the source of the data.
-    
+
 - Associates a new or existing  **DataConnection** object with the **DataRecordset** object.
-    
+
 - Opens the  **External Data** window in the Visio UI, unless **visDataRecordsetNoExternalDataUI** is set.
-    
+
 Unless you pass  **visDataRecordsetDelayQuery** as part of the AddOptions parameter, the **Add** method also does the following:
 
 
 - Executes the query string specified in the CommandString parameter and retreive the resulting data.
-    
+
 - Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined** , **Chapter** , and **IDispatch** .
-    
+
 -  Assigns a row ID to each row in the data recordset. For more information about row IDs, see **[DataRecordset.GetDataRowIDs ](datarecordset-getdatarowids-method-visio.md)** topic.
-    
+
 
 
 
@@ -107,12 +108,12 @@ In this example, there is no existing data connection, so for the first paramete
 
 ```vb
 Public Sub AddDataRecordset_Example() 
- 
+
     Dim strConnection As String 
     Dim strCommand As String 
     Dim strOfficePath As String 
     Dim vsoDataRecordset As Visio.DataRecordset 
- 
+
     strOfficePath = Visio.Application.Path     
     strConnection = "Provider=Microsoft.ACE.OLEDB.12.0;" _ 
                        &; "User ID=Admin;" _ 
@@ -120,11 +121,11 @@ Public Sub AddDataRecordset_Example()
                        &; "Mode=Read;" _ 
                        &; "Extended Properties=""HDR=YES;IMEX=1;MaxScanRows=0;Excel 12.0;"";" _ 
                        &; "Jet OLEDB:Engine Type=34;" 
- 
+
     strCommand = "SELECT * FROM [Sheet1$]" 
- 
+
     Set vsoDataRecordset = ActiveDocument.DataRecordsets.Add(strConnection, strCommand, 0, "Org Data") 
- 
+
 End Sub
 ```
 

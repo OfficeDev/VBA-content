@@ -18,7 +18,7 @@ Occurs before the application deletes a master in response to a user action in t
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelMasterDelete**( **_ByVal Master As [IVMASTER]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelMasterDelete</strong>( **_ByVal Master As [IVMASTER]</em>** )
 
  _expression_ A variable that represents a **Document** object.
 

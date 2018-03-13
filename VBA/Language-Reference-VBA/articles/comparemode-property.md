@@ -22,20 +22,22 @@ Sets and returns the comparison mode for comparing string keys in a  **Dictionar
 The  **CompareMode** property has the following parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **Dictionary** object.|
-| _compare_|Optional. If provided,  _compare_ is a value representing the comparison mode used by functions such as **StrComp**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                             |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>Dictionary</strong> object.                                                                      |
+| <em>compare</em>      | Optional. If provided,  <em>compare</em> is a value representing the comparison mode used by functions such as <strong>StrComp</strong>. |
+
  **Settings**
 The  _compare_ argument can have the following values:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
-|**vbBinaryCompare**| 0|Performs a binary comparison.|
-|**vbTextCompare**| 1|Performs a textual comparison.|
-|**vbDatabaseCompare**| 2|Microsoft Access only. Performs a comparison based on information in your database.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>                                                               |
+|:------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------|
+| <strong>vbUseCompareOption</strong> | -1                     | Performs a comparison using the setting of the  <strong>Option Compare</strong> statement. |
+| <strong>vbBinaryCompare</strong>    | 0                      | Performs a binary comparison.                                                              |
+| <strong>vbTextCompare</strong>      | 1                      | Performs a textual comparison.                                                             |
+| <strong>vbDatabaseCompare</strong>  | 2                      | Microsoft Access only. Performs a comparison based on information in your database.        |
+
  **Remarks**
 An error occurs if you try to change the comparison mode of a  **Dictionary** object that already contains data.
 The  **CompareMode** property uses the same values as the _compare_ argument for the **StrComp** function. Values greater than 2 can be used to refer to comparisons using specific Locale IDs (LCID).

@@ -28,7 +28,7 @@ To download a tool that shows how much virtual memory is available and how much 
 In earlier versions of Excel, workbooks using large numbers of full column references and multiple worksheets (for example `=COUNTIF(Sheet2!A:A,Sheet3!A1)`) might use large amounts of CPU and memory when opened or when rows were deleted. 
 
 Excel 2016 Build 16.0.8212.1000 reduces the memory and CPU used in these circumstances.
- 
+
 *In a sample test on a workbook with 6 million formulas, using full column references failed with an out-of-memory message at 4 GB of virtual memory with Excel 2013 LAA and with Excel 2010, but only used 2 GB of virtual memory with Excel 2016*.
 
 ## Structured references
@@ -97,6 +97,7 @@ For more information about the 64-bit version of Office 2010, see [Compatibility
 ### Shapes
 <a name="Shapes"> </a>
 
+
 Excel 2010 introduces significant improvements in the performance of graphics in Excel. At a high level, these improvements are in two areas: scalability and rendering. 
 
 The scalability improvements have a large impact in Excel scenarios because of the large number of graphics contained on worksheets. Often, this large number of shapes is created accidentally by copying and pasting data from a website, or by commonly run automation that creates shapes, but never removes them. This large number of graphics, combined with the way that graphics relate to the data grid in Excel, presents several unique performance challenges. Improvements in Excel 2010 increase the performance speed for worksheets that contain many shapes. 
@@ -109,7 +110,7 @@ In addition, starting in Excel 2010, support for hardware acceleration improves 
 |**Text links** <br/> |A text link on a shape is created when the user specifies a formula, for example "=A1", that defines the text for a given shape. These particular shapes were prone to cause performance issues on sheets with a large number of objects and/or when changes were made to cell content. Starting in Excel 2010, the way Excel tracks and updates these shapes has improved to optimize performance for changing cell content. This work improves scenarios such as typing a new value in a cell or performing complex object model operations.  <br/> |
 |**Big Grid** <br/> |Starting in Excel 2007, the size of the grid expanded from 65,000 rows to over one million rows. This increase caused some performance and rendering issues when working with graphics objects in the new regions of the larger grid. Starting in Excel 2010, Excel optimizes functionality that relies on using the top left of the grid as the origin to improve the experience of working with graphics in the new regions of the grid. Rendering fidelity and performance are improved relative to Excel 2007.  <br/> |
 |**Rendering: Hardware acceleration** <br/> |Starting in Excel 2010, improvements were made to the graphics platform by adding support for hardware acceleration when rendering 3-D objects. While the GPU can render these objects faster than the CPU, the experience in Excel 2010 depends on the content on your worksheet. If you have a sheet full of 3-D shapes, you will see more benefit from the hardware acceleration improvements than on a worksheet with only 2-D shapes (which do not leverage the GPU).  <br/> |
- 
+
 ### Calculation improvements
 
 Starting in Excel 2007, multithreaded calculation improved calculation performance. 
@@ -119,7 +120,7 @@ Starting in Excel 2010, additional performance improvements were made to further
 ### Multi-core processing
 
 Excel 2010 made additional investments to take advantage of multi-core processors and increase performance for routine tasks. Starting in Excel 2010, the following features use multi-core processors: saving a file, opening a file, refreshing a PivotTable (for external data sources, except OLAP and SharePoint), sorting a cell table, sorting a PivotTable, and auto-sizing a column.
- 
+
 For operations that involve reading and loading or writing data, such as opening a file, saving a file, or refreshing data, splitting the operation into two processes increases performance speed. The first process gets the data, and the second process loads the data into the appropriate structure in memory or writes the data to a file. In this way, as soon as the first process begins reading a portion of data, the second process can immediately start loading or writing that data, while the first process continues to read the next portion of data. Previously, the first process had to finish reading all the data in a certain section before the second process could load that section of the data into memory or write the data to a file.
 
 ### PowerPivot
@@ -127,13 +128,13 @@ For operations that involve reading and loading or writing data, such as opening
 PowerPivot refers to a collection of applications and services that provide an end-to-end approach for creating data-driven, user-managed business intelligence solutions in Excel workbooks. PowerPivot for Excel is a data analysis tool that delivers unmatched computational power directly within Excel. Leveraging familiar Excel features, users can transform large quantities of data from almost any source with amazing speed into meaningful information to get the answers they need in seconds.
 
 PowerPivot also integrates with SharePoint. In a SharePoint farm, PowerPivot for SharePoint is the set of server-side applications, services, and features that support team collaboration on business intelligence data. SharePoint provides the platform for collaborating and sharing business intelligence across the team and larger organization. Workbook authors and owners publish and manage the business intelligence that they develop to their SharePoint sites.
-  
+
 For more information about PowerPivot, see  [PowerPivot Overview](http://msdn.microsoft.com/library/c4c393d3-4856-47ac-ab5f-15da2f240d1d.aspx).
 
 ### HPC Services for Excel 2010
 
 With a wealth of statistical analysis functions, support for constructing complex analyses, and broad extensibility, Excel 2010 is the tool of choice for analyzing business data. As models grow larger and workbooks become more complex, the value of the information generated increases. However, more complex workbooks also require more time to calculate. For complex analyses, it is common for users to spend hours, days, or even weeks completing such complex workbooks.
- 
+
 One solution is to use Windows HPC Server 2008 to scale out Excel calculations across multiple nodes in a Windows high-performance computing (HPC) cluster in parallel. There are three methods for running Excel 2010 calculations in a Windows HPC Server 2008 based cluster: running Excel workbooks in a cluster, running Excel user-defined functions (UDFs) in a cluster, and using Excel as a cluster service-oriented architecture (SOA) client. 
 
 For more information about HPC Services for Excel 2010, see [Accelerating Excel 2010 with Windows HPC Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=a48ac6fe-7ea0-4314-97c7-d6875bc895c5).
@@ -141,17 +142,19 @@ For more information about HPC Services for Excel 2010, see [Accelerating Excel 
 ## Conclusion
 <a name="office2016excelperf_Conclusion"> </a>
 
+
 Excel 2016 introduces performance and limitation improvements focused on increasing Excel's ability to efficiently handle large and complex workbooks. These improvements allow Excel to scale along with hardware, improving performance as the CPU and RAM capacity of computers expand.
 
 ## Additional resources
 <a name="office2007excelperf_AdditionalResources"> </a>
 
+
 - [Excel performance: Improving calculation performance](excel-improving-calcuation-performance.md)
-    
+
 - [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)
-    
+
 - [Excel Developer Portal](http://msdn.microsoft.com/en-us/office/aa905411.aspx)
-    
+
 - [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://support.office.com/en-US/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
-    
-  
+
+

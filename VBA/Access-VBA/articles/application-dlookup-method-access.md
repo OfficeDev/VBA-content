@@ -74,17 +74,17 @@ You can also use the  **DLookup** function in an expression in a calculated cont
 
 
 - Although you can use the  **DLookup** function to display a value from a field in a foreign table, it may be more efficient to create a query that contains the fields that you need from both tables and then to base your form or report on that query.
-    
+
 - You can also use the Lookup Wizard to find values in a foreign table.
-    
- **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+
+  **Links provided by:**
+  ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 - [Forms: Populate Controls/Text Boxes Based on Combobox Selection](http://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
-    
+
 - [Search all tables/all fields in a database for a value](http://www.utteraccess.com/wiki/index.php/Search:_All_Tables_All_Fields)
-    
+
 
 ## Example
 
@@ -115,7 +115,7 @@ The next example uses a variable,  `intSearch`, to get the value.
 ```vb
 Dim intSearch As Integer 
 Dim varX As Variant 
- 
+
 intSearch = 1 
 varX = DLookup("[CompanyName]", "Shippers", _ 
     "[ShipperID] = " &; intSearch)
@@ -163,13 +163,13 @@ The following examples show how to use various types of criteria with the  **DLo
     variable = DLookup("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
              &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
             &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
-    
+
     ' Use two fields from a single record.
     variable = DLookup("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
-            
+
     ' Expressions
     variable = DLookup("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")
-    
+
     ' Control Structures
     variable = DLookup("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
@@ -179,11 +179,13 @@ The following examples show how to use various types of criteria with the  **DLo
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

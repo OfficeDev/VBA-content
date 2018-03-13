@@ -49,10 +49,9 @@ The following example retrieves the namespace prefix associated with the namespa
 ```
 Dim objCustomPrefixMappings As  CustomPrefixMappings 
 Dim strNamespacePrefix As String 
- 
+
 ' Gets the namespace corresponding to the prefix. 
 strNamespacePrefix = objCustomPrefixMappings.LookupPrefix("urn:invoice:namespace") 
-
 ```
 
 

@@ -16,8 +16,9 @@ Returns or sets the vertical alignment of the specified object. Required  **XlVA
 
 
 |XlVAlign can be one of these XlVAlign constants.|
-| **xlVAlignBottom**|
-| **xlVAlignCenter** **xlVAlignDistributed** **xlVAlignJustify** **xlVAlignTop**|
+| <strong>xlVAlignBottom</strong>|
+| 
+<strong>xlVAlignCenter</strong> <strong>xlVAlignDistributed</strong> <strong>xlVAlignJustify</strong> <strong>xlVAlignTop</strong>|
 
  _expression_. **VerticalAlignment**
 

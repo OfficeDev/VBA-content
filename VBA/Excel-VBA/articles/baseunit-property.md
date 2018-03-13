@@ -18,9 +18,11 @@ Returns or sets the base unit for the specified category axis Read/write XlTimeU
 
 
 |XlTimeUnit can be one of these XlTimeUnit constants.|
-| **xlDays**|
-| **xlMonths**|
-| **xlYears**|
+| <strong>xlDays</strong>|
+| 
+<strong>xlMonths</strong>|
+| 
+<strong>xlYears</strong>|
 
  _expression_. **BaseUnit**
 

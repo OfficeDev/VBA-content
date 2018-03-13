@@ -18,8 +18,9 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write Xl
 
 
 |XlSizeRepresents can be one of these XlSizeRepresents constants.|
-| **xlSizeIsArea**|
-| **xlSizeIsWidth**|
+| <strong>xlSizeIsArea</strong>|
+| 
+<strong>xlSizeIsWidth</strong>|
 
  _expression_. **SizeRepresents**
 

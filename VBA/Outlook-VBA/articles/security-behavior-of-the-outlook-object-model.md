@@ -19,7 +19,7 @@ The Object Model Guard warns users and prompts users for confirmation when untru
     
 - The limitations of COM and Windows in identifying the specific application that is invoking the Object Model Guard have made it difficult for users to respond to the security prompts with certainty.
     
- For more information on the various security prompts of the Object Model Guard, see [Outlook Object Model Security Warnings](outlook-object-model-security-warnings.md). For more information on the protected object model entry points, see  [Protected Properties and Methods](protected-properties-and-methods.md).
+  For more information on the various security prompts of the Object Model Guard, see [Outlook Object Model Security Warnings](outlook-object-model-security-warnings.md). For more information on the protected object model entry points, see  [Protected Properties and Methods](protected-properties-and-methods.md).
 
 
 ## Default Security Behavior
@@ -49,7 +49,7 @@ By default, Outlook relies on the existence and the status of an appropriate ant
     
   - Uses security settings defined by Group Policy which is set to warn when the antivirus software is inactive or out of date
     
- For more information, see the "Code Security Changes in Microsoft Office Outlook 2007" article on MSDN.
+  For more information, see the "Code Security Changes in Microsoft Office Outlook 2007" article on MSDN.
 
 
 ## Security Options
@@ -61,11 +61,11 @@ Administrators can use the Trust Center in Outlook to change the default behavio
 The three settings in the  **Programmatic Access Security** dialog are:
 
 
--  **Warn me about suspicious activity when my antivirus software is inactive or out-of-date (recommended)** This setting is the default, and implements the behavior described above. This is the recommended setting for all users.
+- **Warn me about suspicious activity when my antivirus software is inactive or out-of-date (recommended)** This setting is the default, and implements the behavior described above. This is the recommended setting for all users.
     
--  **Always warn me about suspicious activity** This setting will revert Outlook to behave like Outlook 2003, where cross-process COM callers and untrusted add-ins will invoke security warnings.
+- **Always warn me about suspicious activity** This setting will revert Outlook to behave like Outlook 2003, where cross-process COM callers and untrusted add-ins will invoke security warnings.
     
--  **Never warn me about suspicious activity (not recommended)**This setting will never show security warnings and the Object Model Guard will be disabled. This setting should only be used in controlled environments where the risk of malicious code running on the computer is low.
+- <strong>Never warn me about suspicious activity (not recommended)</strong>This setting will never show security warnings and the Object Model Guard will be disabled. This setting should only be used in controlled environments where the risk of malicious code running on the computer is low.
     
 These settings are only available if the current user is an administrator on the computer. Non-administrator users can see the current setting but will not be able to change it. Programmatic Access settings can also be controlled through Group Policy. For more information on configuring Outlook settings with Group Policy, see the Office Resource Kit Web site.
 

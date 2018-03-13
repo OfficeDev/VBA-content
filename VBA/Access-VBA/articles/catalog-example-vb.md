@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Catalog Example (VB)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -18,10 +18,10 @@ This Visual Basic project creates a new cube using MDX. Then, it documents the s
 
 
 ```vb
- 
+
 Sub cmdCreateDocForCube_Click() 
  On Error GoTo Error_cmdCreateDocForCube_Click 
- 
+
  Dim cn As ADODB.Connection 
  Dim s As String 
  Dim strProvider As String 
@@ -30,23 +30,23 @@ Sub cmdCreateDocForCube_Click()
  Dim strSourceDSNSuffix As String 
  Dim strCreateCube As String 
  Dim strInsertInto As String 
- 
+
  '*----------------------------------------------------------------------- 
  '* The following code builds a cube file then documents the properties 
  '* with an OLE Connection to Word 8.0 
  '*----------------------------------------------------------------------- 
- 
+
  '*----------------------------------------------------------------------- 
  '* Add Provider to the connection string. 
  '*----------------------------------------------------------------------- 
  strProvider = "PROVIDER=MSOLAP" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Add DataSource, the name of the file we will create. 
  '*----------------------------------------------------------------------- 
- 
+
  strDataSource = "DATA SOURCE=c:\DocumentCube.cub" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Add Source DSN, the connection string for where the data comes from. 
  '* We need to quote the value so it is parsed as one value. 
@@ -54,7 +54,7 @@ Sub cmdCreateDocForCube_Click()
  '* string. (As returned by the Data Source Locator component.) 
  '*----------------------------------------------------------------------- 
  strSourceDSN = "SOURCE_DSN=FoodMart 2000" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Add CREATE CUBE. This defines the structure of the cube, but not the 
  '* data in it. The BNF for is documented in the OLE DB for OLAP 
@@ -160,7 +160,7 @@ Sub cmdCreateDocForCube_Click()
  '* storage mode is MOLAP or ROLAP (DEFER_DATA). 
  '* strInsertInto = strInsertInto &; " OPTIONS ATTEMPT_ANALYSIS" 
  '*----------------------------------------------------------------------- 
- 
+
  '*----------------------------------------------------------------------- 
  '* Add the SELECT clause of the INSERT INTO statement. Note that it is 
  '* merely concatenated onto the end of the INSERT INTO statement. OLAP 
@@ -168,7 +168,7 @@ Sub cmdCreateDocForCube_Click()
  '* parse it. Note that for OLAP Services to analyze the SELECT clause, 
  '* each column must be qualified with the table name. 
  '*----------------------------------------------------------------------- 
- 
+
  strInsertInto = strInsertInto &; _ 
  "SELECT product_class.product_family AS Col1," 
  strInsertInto = strInsertInto &; _ 
@@ -220,22 +220,22 @@ Sub cmdCreateDocForCube_Click()
  "[inventory_fact_1997].[store_id] = [store].[store_id] And " 
  strInsertInto = strInsertInto &; _ 
  "[inventory_fact_1997].[warehouse_id] = [warehouse].[warehouse_id]" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Create the cube by passing connection string to Open. 
  '*----------------------------------------------------------------------- 
- 
+
  Set cn = New ADODB.Connection 
  s = strProvider &; ";" &; strDataSource &; ";" &; strSourceDSN &; ";" &; _ 
  strCreateCube &; ";" &; strInsertInto &; ";" 
  Screen.MousePointer = vbHourglass 
  cn.Open s 
- 
+
  '*----------------------------------------------------------------------- 
  '* Cube file is written to hard drive a Word Document can be produced by 
  '* automating Word with VB 
  '*----------------------------------------------------------------------- 
- 
+
  Dim cat As New ADOMD.Catalog 
  Dim cdf As ADOMD.CubeDef 
  Dim i As Integer 
@@ -254,26 +254,26 @@ Sub cmdCreateDocForCube_Click()
  '* Connection is made to cube file 
  '*----------------------------------------------------------------------- 
  cat.ActiveConnection = "DATA SOURCE=c:\DocumentCube.cub;Provider=msolap;" 
- 
+
  '*----------------------------------------------------------------------- 
  '* Cube Definition is set to Name of Cube in cube file 
  '*----------------------------------------------------------------------- 
  Set cdf = cat.CubeDefs("Sample") 
- 
+
  '*----------------------------------------------------------------------- 
  '* Object is created to hold Word 
  '*----------------------------------------------------------------------- 
  Set appWord = CreateObject("Word.Application") 
- 
+
  '*----------------------------------------------------------------------- 
  '* Create the document variable 
  '*----------------------------------------------------------------------- 
  Set docWord = appWord.Documents.Add() 
- 
+
  Set rngCurrent = docWord.Content 
- 
+
  SenCount = 0 
- 
+
  '*----------------------------------------------------------------------- 
  '* Cube Title and Header written to Document 
  '*----------------------------------------------------------------------- 
@@ -285,7 +285,7 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Underline = wdUnderlineSingle 
  docWord.Paragraphs(SenCount).Range.Italic = False 
  docWord.Paragraphs(SenCount).Range.Font.Size = 18 
- 
+
  '*----------------------------------------------------------------------- 
  '* Properties of Cube are written to Document 
  '*----------------------------------------------------------------------- 
@@ -299,7 +299,7 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Italic = True 
  docWord.Paragraphs(SenCount).Range.Font.Size = 8 
  Next i 
- 
+
  '*----------------------------------------------------------------------- 
  '* Dimension Name(s) written to Document 
  '*----------------------------------------------------------------------- 
@@ -311,7 +311,7 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Bold = True 
  docWord.Paragraphs(SenCount).Range.Italic = False 
  docWord.Paragraphs(SenCount).Range.Font.Size = 14 
- 
+
  '*----------------------------------------------------------------------- 
  '* Properties of Dimension are written to Document 
  '*----------------------------------------------------------------------- 
@@ -326,7 +326,7 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Italic = True 
  docWord.Paragraphs(SenCount).Range.Font.Size = 8 
  Next i 
- 
+
  '*----------------------------------------------------------------------- 
  '* Hierarchy Name(s) written to Document 
  '*----------------------------------------------------------------------- 
@@ -339,7 +339,7 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Bold = True 
  docWord.Paragraphs(SenCount).Range.Italic = False 
  docWord.Paragraphs(SenCount).Range.Font.Size = 12 
- 
+
  '*----------------------------------------------------------------------- 
  '* Properties of Hierarchy are written to Document 
  '*----------------------------------------------------------------------- 
@@ -354,7 +354,7 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Italic = True 
  docWord.Paragraphs(SenCount).Range.Font.Size = 8 
  Next i 
- 
+
  '*----------------------------------------------------------------------- 
  '* Level Name(s) written to Document 
  '*----------------------------------------------------------------------- 
@@ -369,7 +369,7 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Bold = True 
  docWord.Paragraphs(SenCount).Range.Italic = False 
  docWord.Paragraphs(SenCount).Range.Font.Size = 10 
- 
+
  '*----------------------------------------------------------------------- 
  '* Properties of Level are written to Document 
  '*----------------------------------------------------------------------- 
@@ -385,33 +385,32 @@ Sub cmdCreateDocForCube_Click()
  docWord.Paragraphs(SenCount).Range.Italic = True 
  docWord.Paragraphs(SenCount).Range.Font.Size = 8 
  Next i 
- 
+
  Next le 
  Next hi 
  Next di 
- 
+
  '*----------------------------------------------------------------------- 
  '* Set Word Document to visible 
  '*----------------------------------------------------------------------- 
  Debug.Print "Set Word Document to visible" 
  appWord.Visible = True 
  End With 
- 
+
  Screen.MousePointer = vbDefault 
- 
+
  '*----------------------------------------------------------------------- 
  '* Set Word Object to nothing to drop OLE connection 
  '*----------------------------------------------------------------------- 
  Set appWord = Nothing 
 Exit Sub 
- 
+
 Error_cmdCreateDocForCube_Click: 
  cn.Cancel 
  Set cn = Nothing 
  Screen.MousePointer = vbDefault 
  MsgBox Err.Description 
 End Sub 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

@@ -43,8 +43,6 @@ With Application.ActiveWindow.Selection
     End If
 
 End With
-
-
 ```
 
 

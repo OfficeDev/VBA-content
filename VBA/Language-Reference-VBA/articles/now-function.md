@@ -25,8 +25,6 @@ This example uses the  **Now** function to return the current system date and ti
 ```vb
 Dim Today
 Today = Now    ' Assign current system date and time.
-
-
 ```
 
 

@@ -18,7 +18,7 @@ Occurs before the application groups a selection of shapes in response to a user
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelGroup**( **_ByVal Selection As [IVSELECTION]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelGroup</strong>( **_ByVal Selection As [IVSELECTION]</em>** )
 
  _expression_ A variable that represents a **Pages** object.
 

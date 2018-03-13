@@ -27,7 +27,6 @@ Use the  **Add** method to add a column to the collection of columns. By default
 ActiveDocument.PageSetup.TextColumns2.Add _ 
  Width:=InchesToPoints(2.5), _ 
  Spacing:=InchesToPoints(0.5), EvenlySpaced:=False 
-
 ```
 
 

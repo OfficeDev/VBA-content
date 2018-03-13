@@ -31,10 +31,11 @@ The  **DisplayType** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Content|**acOLEDisplayContent**|(Default) When the control contains an OLE object, the control displays the object's data, such as a document or spreadsheet.|
-|Icon|**acOLEDisplayIcon**|When the control contains an OLE object, the control displays the object's icon.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong>        | <strong>Description</strong>                                                                                                  |
+|:-------------------------|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| Content                  | <strong>acOLEDisplayContent</strong> | (Default) When the control contains an OLE object, the control displays the object's data, such as a document or spreadsheet. |
+| Icon                     | <strong>acOLEDisplayIcon</strong>    | When the control contains an OLE object, the control displays the object's icon.                                              |
+
 The  **DisplayType** property determines the default setting of the **Display As Icon** check box in the **Paste Special** dialog box, available by clicking **Paste Special** on the **Edit** menu, and the **Insert Object** dialog box, displayed when inserting an unbound object frame. When you display these dialog boxes in Form view, Datasheet view, or Design view, the **Display As Icon** check box is automatically selected if the **DisplayType** property is set to Icon. For example, you will see these boxes selected when using Visual Basic to set the control's **Action** property to **acOLEInsertObjDlg** or **acOLEPasteSpecialDlg**.
 
 The  **DisplayType** property setting has no effect on the state of the **Display As Icon** check box in the **Object** dialog box when you insert an object into an unbound object frame. When you paste an object from the Clipboard, the **Display As Icon** check box reflects the state of the object on the Clipboard.

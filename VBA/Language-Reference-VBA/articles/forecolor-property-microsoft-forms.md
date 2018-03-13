@@ -19,10 +19,11 @@ Specifies the [foreground color](glossary-vba.md) of an object.
 The  **ForeColor** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. A value or constant that determines the foreground color of an object.|
+| <strong>Part</strong> | <strong>Description</strong>                                                     |
+|:----------------------|:---------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                        |
+| <em>Long</em>         | Optional. A value or constant that determines the foreground color of an object. |
+
  **Settings**
 You can use any integer that represents a valid color. You can also specify a color by using the [RGB](glossary-vba.md) function with red, green, and blue color components. The value of each color component is an integer that ranges from zero to 255. For example, you can specify teal blue as the integer value 4966415 or as red, green, and blue color components 15, 200, 75.
  **Remarks**

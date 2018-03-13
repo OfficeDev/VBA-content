@@ -15,7 +15,7 @@ Occurs after a set of shapes selected in a window changes.
 
 ## Syntax
 
-Private Sub  _expression_ _**SelectionChanged**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>SelectionChanged</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

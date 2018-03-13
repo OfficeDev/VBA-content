@@ -18,12 +18,13 @@ An action query changes data or copies data. Action queries include append, dele
 
 
 
-|**Action query type**|**Description**|
-|:-----|:-----|
-|Append|Adds the records in a query's result set to the end of an existing table.|
-|Delete|Deletes a set of rows that match the criteria you specify.|
-|Make-Table|Creates a new table from the result set of an existing query.|
-|Update|Changes a set of records according to criteria you specify.|
+| <strong>Action query type</strong> | <strong>Description</strong>                                              |
+|:-----------------------------------|:--------------------------------------------------------------------------|
+| Append                             | Adds the records in a query's result set to the end of an existing table. |
+| Delete                             | Deletes a set of rows that match the criteria you specify.                |
+| Make-Table                         | Creates a new table from the result set of an existing query.             |
+| Update                             | Changes a set of records according to criteria you specify.               |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

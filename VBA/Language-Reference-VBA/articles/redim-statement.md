@@ -20,12 +20,13 @@ Used at [procedure level](vbe-glossary.md) to reallocate storage space for dynam
 The  **ReDim** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**Preserve**|Optional. [Keyword](vbe-glossary.md) used to preserve the data in an existing[array](vbe-glossary.md) when you change the size of the last dimension.|
-| _varname_|Required. Name of the variable; follows standard variable naming conventions.|
-| _subscripts_|Required. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_[argument](vbe-glossary.md) uses the following syntax: [ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .** When not explicitly stated in _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
-| _type_|Optional. [Data type](vbe-glossary.md) of the variable; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an [object type](vbe-glossary.md). Use a separate  **As**_type_ clause for each variable being defined. For a **Variant** containing an array, _type_ describes the type of each element of the array, but doesn't change the **Variant** to some other type.|
+| <strong>Part</strong>     | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|:--------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Preserve</strong> | Optional. [Keyword](vbe-glossary.md) used to preserve the data in an existing[array](vbe-glossary.md) when you change the size of the last dimension.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <em>varname</em>          | Required. Name of the variable; follows standard variable naming conventions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <em>subscripts</em>       | Required. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  <em>subscripts</em>[argument](vbe-glossary.md) uses the following syntax: [ <em>lower</em><strong>To</strong> ] <em>upper</em> [ <strong>,</strong> [ <em>lower</em><strong>To</strong> ] <em>upper</em> ] <strong>. . .</strong> When not explicitly stated in <em>lower</em>, the lower bound of an array is controlled by the <strong>Option</strong> <strong>Base</strong> statement. The lower bound is zero if no <strong>Option</strong> <strong>Base</strong> statement is present.                                                                                                                                                                                                                                                                                                   |
+| <em>type</em>             | Optional. [Data type](vbe-glossary.md) of the variable; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (for variable-length strings), <strong>String</strong> * <em>length</em> (for fixed-length strings),[Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an [object type](vbe-glossary.md). Use a separate  <strong>As</strong><em>type</em> clause for each variable being defined. For a <strong>Variant</strong> containing an array, <em>type</em> describes the type of each element of the array, but doesn't change the <strong>Variant</strong> to some other type. |
+
  **Remarks**
 The  **ReDim**[statement](vbe-glossary.md) is used to size or resize a dynamic array that has already been formally declared using a **Private**, **Public**, or **Dim** statement with empty parentheses (without dimension subscripts).
 You can use the  **ReDim** statement repeatedly to change the number of elements and dimensions in an array. However, you can't declare an array of one data type and later use **ReDim** to change the array to another data type, unless the array is contained in a **Variant**. If the array is contained in a **Variant**, the type of the elements can be changed using an **As**_type_ clause, unless you're using the **Preserve** keyword, in which case, no changes of data type are permitted.
@@ -37,7 +38,6 @@ If you use the  **Preserve** keyword, you can resize only the last array dimensi
 ReDim X(10, 10, 10) 
 . . . 
 ReDim Preserve X(10, 10, 15) 
-
 ```
 
 Similarly, when you use  **Preserve**, you can change the size of the array only by changing the upper bound; changing the lower bound causes an error.
@@ -59,7 +59,6 @@ Redim MyArray(5) ' Allocate 5 elements.
 For I = 1 To 5 ' Loop 5 times. 
  MyArray(I) = I ' Initialize array. 
 Next I 
-
 ```
 
 The next statement resizes the array and erases the elements.
@@ -72,7 +71,6 @@ Redim MyArray(10) ' Resize to 10 elements.
 For I = 1 To 10 ' Loop 10 times. 
  MyArray(I) = I ' Initialize array. 
 Next I 
-
 ```
 
 The following statement resizes the array but does not erase elements.
@@ -82,7 +80,6 @@ The following statement resizes the array but does not erase elements.
 
 ```
 Redim Preserve MyArray(15) ' Resize to 15 elements. 
-
 ```
 
 

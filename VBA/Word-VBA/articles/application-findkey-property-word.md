@@ -18,7 +18,7 @@ Returns a  **[KeyBinding](keybinding-object-word.md)** object that represents th
 
 ## Syntax
 
- _expression_ . **FindKey**( **_KeyCode_** , **_ KeyCode2_** )
+ <em>expression</em> . <strong>FindKey</strong>( <strong><em>KeyCode</em></strong> , <strong><em> KeyCode2</em></strong> )
 
  _expression_ Optional. An expression that returns an **[Application](application-object-word.md)** object.
 

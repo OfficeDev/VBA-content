@@ -43,7 +43,6 @@ The following code illustrates how to instantiate the  **AccessDeveloperExtensio
 
 ```vb
 Set objTemplate = Application.COMAddIns("AccessAddIn.ADE").Object.TemplateObject 
-
 ```
 
 The following example creates a new template named Asset Tracker and assigns it to the Departmental data category on the  **Getting Started with Microsoft Office Access** page.
@@ -54,14 +53,14 @@ The following example creates a new template named Asset Tracker and assigns it 
 ```vb
     Dim objTemplate As TemplateCreator 
     Dim strTemplateLocation As String 
-     
+
     ' The database template must be saved to this location to appear on the 
     ' Getting Started with Microsoft Office Access page. 
     strTemplateLocation = Environ("AppData") &; "\Microsoft\Templates\" 
-     
+
     ' Instantiate a TemplateObject object. 
     Set objTemplate = Application.COMAddIns("AccessAddIn.ADE").Object.TemplateObject 
- 
+
     ' Create the database template.     
     objTemplate.SaveAsTemplate TemplateLocation:=strTemplateLocation &; "AssetTracker.accdt", _ 
                                TemplateName:="Asset Tracker", _ 
@@ -72,9 +71,9 @@ You must set a reference to the Access Developer Extensions type library in orde
 
 
 1. On the  **Tools** menu, click **References**.
-    
+
 2. Select the  **Microsoft Office Access Developer Extensions Type Library 1.0** check box, and then click **OK**.
-    
+
 
 
 

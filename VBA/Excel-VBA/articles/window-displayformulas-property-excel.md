@@ -36,7 +36,6 @@ This example changes the active window in Book1.xls to display formulas.
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.DisplayFormulas = True 
-
 ```
 
 

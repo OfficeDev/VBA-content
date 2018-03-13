@@ -12,22 +12,26 @@ This topic includes Visual Basic examples related to the following tasks:
 
 
 -  [Determining whether text is selected](#Determining)
-    
+
 -  [Collapsing a selection or range](#Collapsing)
-    
+
 -  [Extending a selection or range](#Extending)
-    
+
 -  [Redefining a selection or range](#Redefining)
-    
+
 -  [Changing text](#Changing)
-    
+
 
 For information about, and examples of, other editing tasks, see the following topics:
 
  [Returning text from a document](returning-text-from-a-document.md)<br>
- [Selecting text in a document](selecting-text-in-a-document.md)<br>
- [Inserting text in a document](inserting-text-in-a-document.md)<br>
- [Manipulating a portion of a document](modifying-a-portion-of-a-document.md)<br>
+ 
+[Selecting text in a document](selecting-text-in-a-document.md)<br>
+ 
+[Inserting text in a document](inserting-text-in-a-document.md)<br>
+ 
+[Manipulating a portion of a document](modifying-a-portion-of-a-document.md)<br>
+
 
 ## Determining whether text is selected
 
@@ -60,7 +64,7 @@ The following example cancels the range to its ending point (after the first wor
 ```vb
 Sub CollapseToEnd() 
  Dim rngWords As Range 
- 
+
  Set rngWords = ActiveDocument.Words(1) 
  With rngWords 
  .Collapse Direction:=wdCollapseEnd 
@@ -89,7 +93,7 @@ The following example uses the  **[MoveEnd](range-moveend-method-word.md)** meth
 ```vb
 Sub ExtendRange() 
  Dim rngParagraphs As Range 
- 
+
  Set rngParagraphs = ActiveDocument.Paragraphs(1).Range 
  rngParagraphs.MoveEnd Unit:=wdParagraph, Count:=2 
 End Sub
@@ -120,7 +124,7 @@ You can also use the  **Delete**method or the  **Selection** object or the **Ran
 ```vb
 Sub DeleteText() 
  Dim rngFirstParagraph As Range 
- 
+
  Set rngFirstParagraph = ActiveDocument.Paragraphs(1).Range 
  With rngFirstParagraph 
  .Delete 

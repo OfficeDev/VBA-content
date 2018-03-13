@@ -44,16 +44,15 @@ The following example demonstrates adding a custom XML part, selecting a part ma
 ```
 Dim cxp1 As CustomXMLPart 
 Dim cxn As CustomXMLNode 
- 
+
 ' Add a custom xml part. 
 ActiveDocument.CustomXMLParts.Add "<supplier>" 
- 
+
 ' Return the first custom xml part with the given namespace. 
 Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")  
- 
+
 ' Get all of the nodes matching an XPath expression. 
  Set cxns = cxp1.SelectNodes("//*[@unitPrice > 20]") 
-
 ```
 
 

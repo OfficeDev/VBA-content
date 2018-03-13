@@ -101,7 +101,6 @@ With ActiveDocument.Pages(1).Shapes _
  .BackColor.RGB = RGB(0, 0, 255) 
  .Patterned Pattern:=msoPatternDarkVertical 
 End With 
-
 ```
 
 

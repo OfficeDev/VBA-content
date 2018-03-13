@@ -29,11 +29,15 @@ Returns or sets the width of the arrowhead at the end of the specified line. Rea
 
 
 
-| **MsoArrowheadWidth** can be one of these **MsoArrowheadWidth** constants.|
-| **msoArrowheadNarrow**|
-| **msoArrowheadWidthMedium**|
-| **msoArrowheadWide**|
-| **msoArrowheadWidthMixed**|
+| <strong>MsoArrowheadWidth</strong> can be one of these <strong>MsoArrowheadWidth</strong> constants.|
+| 
+<strong>msoArrowheadNarrow</strong>|
+| 
+<strong>msoArrowheadWidthMedium</strong>|
+| 
+<strong>msoArrowheadWide</strong>|
+| 
+<strong>msoArrowheadWidthMixed</strong>|
 
 ## Example
 

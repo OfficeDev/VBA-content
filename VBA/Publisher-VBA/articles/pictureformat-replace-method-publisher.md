@@ -40,9 +40,11 @@ The InsertAs parameter can be one of the following  **PbPictureInsertAs** consta
 
 
 
-| **pbPictureInsertAsEmbedded**|
-| **pbPictureInsertAsLinked**|
-| **pbPictureInsertAsOriginalState**|
+| <strong>pbPictureInsertAsEmbedded</strong>|
+| 
+<strong>pbPictureInsertAsLinked</strong>|
+| 
+<strong>pbPictureInsertAsOriginalState</strong>|
 
 ## Example
 
@@ -51,31 +53,31 @@ The following example replaces every occurrence of a specific picture in the act
 
 ```vb
 Sub ReplaceLogo() 
- 
+
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
 Dim strExistingArtName As String 
 Dim strReplaceArtName As String 
- 
- 
+
+
 strExistingArtName = "C:\path\logo 1.bmp" 
 strReplaceArtName = "C:\path\logo 2.bmp" 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
  If .Filename = strExistingArtName Then 
  .Replace (strReplaceArtName) 
  End If 
  End With 
- 
+
  End If 
- 
+
  Next shpLoop 
 Next pgLoop 
- 
+
 End Sub
 ```
 
@@ -86,27 +88,27 @@ This example tests each linked picture to determine if the linked file has been 
 
 ```vb
 Sub UpdateModifiedLinkedPictures() 
- 
+
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
 Dim strPictureName As String 
- 
- 
+
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
  If .LinkedFileStatus = pbLinkedFileModified Then 
  strPictureName = .Filename 
  .Replace (strPictureName) 
  End If 
  End With 
- 
+
  End If 
  Next shpLoop 
 Next pgLoop 
- 
+
 End Sub
 ```
 

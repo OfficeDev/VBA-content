@@ -47,12 +47,13 @@ If  _TargetDocument_ is null, the custom UI is defined at the level of the appli
 
 
 
-|**Names**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRxModeNone**|0|Display the custom UI when no documents are open.|
-| **visRxModeDrawing**|1|Display the custom UI in Drawing mode.|
-| **visRxModeStencil**|2|Display the custom UI in Stencil mode.|
-| **visRxModePrintPreview**|4|Display the custom UI in Print Preview mode.|
+| <strong>Names</strong>                 | <strong>Value</strong> | <strong>Description</strong>                      |
+|:---------------------------------------|:-----------------------|:--------------------------------------------------|
+| <strong>visRxModeNone</strong>         | 0                      | Display the custom UI when no documents are open. |
+| <strong>visRxModeDrawing</strong>      | 1                      | Display the custom UI in Drawing mode.            |
+| <strong>visRxModeStencil</strong>      | 2                      | Display the custom UI in Stencil mode.            |
+| <strong>visRxModePrintPreview</strong> | 4                      | Display the custom UI in Print Preview mode.      |
+
 If  _FriendlyName_ is null, the method fails.
 
 

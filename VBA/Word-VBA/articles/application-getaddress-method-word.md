@@ -38,6 +38,7 @@ _expression_ Required. A variable that represents an **[Application](application
 
 <br/>
 
+
 #### Results
 
 |**Value**|**Result**|
@@ -47,6 +48,7 @@ _expression_ Required. A variable that represents an **[Application](application
 |2|The **Select Name** dialog box isn't displayed, and no search for a specific name is performed. The address returned by this method will be the previously selected address.|
 
 <br/>
+
 
 #### Display mode
 
@@ -58,6 +60,7 @@ _expression_ Required. A variable that represents an **[Application](application
 
 <br/>
 
+
 ### Return value
 
 String
@@ -68,7 +71,7 @@ This example sets the variable _strAddress_ to John Smith's address, moves the i
 
 ```vb
 Dim strAddress 
- 
+
 strAddress = Application.GetAddress(Name:="John Smith", _ 
     CheckNamesDialog:=True) 
 ActiveDocument.Range(Start:=0, End:=0).InsertAfter strAddress
@@ -80,7 +83,7 @@ The following example returns John Smith's address, using the "My Address Layout
 Dim TagIDArray(0 To 3) As String 
 Dim ValueArray(0 To 3) As String 
 Dim strAddress As String 
- 
+
 TagIDArray(0) = "PR_DISPLAY_NAME" 
 TagIDArray(1) = "PR_GIVEN_NAME" 
 TagIDArray(2) = "PR_SURNAME" 
@@ -89,7 +92,7 @@ ValueArray(0) = "Display_Name"
 ValueArray(1) = "John" 
 ValueArray(2) = "Smith" 
 ValueArray(3) = "This is a comment" 
- 
+
 Application.AddAddress TagID:=TagIDArray(), Value:=ValueArray() 
 strAddress = Application.GetAddress(Name:="John Smith", _ 
     UpdateRecentAddresses:=True)

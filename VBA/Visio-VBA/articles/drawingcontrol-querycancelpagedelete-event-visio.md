@@ -15,7 +15,7 @@ Occurs before the application deletes a page in response to a user action in the
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelPageDelete**( **_ByVal page As [IVPAGE]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelPageDelete</strong>( **_ByVal page As [IVPAGE]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

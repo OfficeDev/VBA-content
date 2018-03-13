@@ -54,69 +54,76 @@ The  _FixedFormatType_ parameter value can be one of these **PpFixedFormatType**
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
-|**msoTrue**|Displays the embedded object (or link) as an icon.|
+| <strong>Constant</strong> | <strong>Description</strong>                                            |
+|:--------------------------|:------------------------------------------------------------------------|
+| <strong>msoFalse</strong> | The default. Does not display the embedded object (or link) as an icon. |
+| <strong>msoTrue</strong>  | Displays the embedded object (or link) as an icon.                      |
+
 The  _Intent_ parameter value can be one of these **PpFixedFormatIntent** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**ppFixedFormatIntentPrint**|Intended to be published online and printed|
-|**ppFixedFormatIntentScreen**|The default. Intended to be published only online|
+| <strong>Constant</strong>                  | <strong>Description</strong>                      |
+|:-------------------------------------------|:--------------------------------------------------|
+| <strong>ppFixedFormatIntentPrint</strong>  | Intended to be published online and printed       |
+| <strong>ppFixedFormatIntentScreen</strong> | The default. Intended to be published only online |
+
 The  _FrameSlides_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The default. Does not frame exported slides.|
-|**msoTrue**|Frames exported slides.|
+| <strong>Constant</strong> | <strong>Description</strong>                 |
+|:--------------------------|:---------------------------------------------|
+| <strong>msoFalse</strong> | The default. Does not frame exported slides. |
+| <strong>msoTrue</strong>  | Frames exported slides.                      |
+
 The  _HandoutOrder_ parameter value can be one of these **PpPrintHandoutOrder** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**ppPrintHandoutHorizontalFirst**|Prints handouts with consecutive slides displayed horizontally first (in horizontal rows).|
-|**ppPrintHandoutVerticalFirst**|The default. Prints handouts with consecutive slides displayed vertically first (in vertical columns).|
+| <strong>Constant</strong>                      | <strong>Description</strong>                                                                           |
+|:-----------------------------------------------|:-------------------------------------------------------------------------------------------------------|
+| <strong>ppPrintHandoutHorizontalFirst</strong> | Prints handouts with consecutive slides displayed horizontally first (in horizontal rows).             |
+| <strong>ppPrintHandoutVerticalFirst</strong>   | The default. Prints handouts with consecutive slides displayed vertically first (in vertical columns). |
+
 The  _OutputType_ parameter value can be a combination of one or more of these **PpPrintOutputType** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**ppPrintOutputBuildSlides**||
-|**ppPrintOutputFourSlideHandouts**|Prints four slides per handout page.|
-|**ppPrintOutputNineSlideHandouts**|Prints nine slides per handout page.|
-|**ppPrintOutputNotesPages**|Prints notes pages.|
-|**ppPrintOutputOneSlideHandouts**|Prints one slide per handout page.|
-|**ppPrintOutputOutline**|Prints outine view.|
-|**ppPrintOutputSixSlideHandouts**|Prints six slides per handout page.|
-|**ppPrintOutputSlides**|Prints all slides in the presentation. The default.|
-|**ppPrintOutputThreeSlideHandouts**|Prints three slides per handout page.|
-|**ppPrintOutputTwoSlideHandouts**|Prints two slides per handout page.|
+| <strong>Constant</strong>                        | <strong>Description</strong>                        |
+|:-------------------------------------------------|:----------------------------------------------------|
+| <strong>ppPrintOutputBuildSlides</strong>        |                                                     |
+| <strong>ppPrintOutputFourSlideHandouts</strong>  | Prints four slides per handout page.                |
+| <strong>ppPrintOutputNineSlideHandouts</strong>  | Prints nine slides per handout page.                |
+| <strong>ppPrintOutputNotesPages</strong>         | Prints notes pages.                                 |
+| <strong>ppPrintOutputOneSlideHandouts</strong>   | Prints one slide per handout page.                  |
+| <strong>ppPrintOutputOutline</strong>            | Prints outine view.                                 |
+| <strong>ppPrintOutputSixSlideHandouts</strong>   | Prints six slides per handout page.                 |
+| <strong>ppPrintOutputSlides</strong>             | Prints all slides in the presentation. The default. |
+| <strong>ppPrintOutputThreeSlideHandouts</strong> | Prints three slides per handout page.               |
+| <strong>ppPrintOutputTwoSlideHandouts</strong>   | Prints two slides per handout page.                 |
+
 The  _PrintHiddenSlides_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The default. Does not print hidden slides.|
-|**msoTrue**|Prints hidden slides.|
+| <strong>Constant</strong> | <strong>Description</strong>               |
+|:--------------------------|:-------------------------------------------|
+| <strong>msoFalse</strong> | The default. Does not print hidden slides. |
+| <strong>msoTrue</strong>  | Prints hidden slides.                      |
+
 The  _RangeType_ parameter value can be one of these **PpPrintRangeType** constants.
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**ppPrintAll**|The default. Exports all slides.|
-|**ppPrintCurrent**|Exports only the current slide.|
-|**ppPrintNamedSlideShow**|Exports the named (custom) slide show specified in  _SlideShowName_.|
-|**ppPrintSelection**|Exports selected slides.|
-|**ppPrintSlideRange**|Exports the specified slide range.|
+| <strong>Constant</strong>              | <strong>Description</strong>                                                |
+|:---------------------------------------|:----------------------------------------------------------------------------|
+| <strong>ppPrintAll</strong>            | The default. Exports all slides.                                            |
+| <strong>ppPrintCurrent</strong>        | Exports only the current slide.                                             |
+| <strong>ppPrintNamedSlideShow</strong> | Exports the named (custom) slide show specified in  <em>SlideShowName</em>. |
+| <strong>ppPrintSelection</strong>      | Exports selected slides.                                                    |
+| <strong>ppPrintSlideRange</strong>     | Exports the specified slide range.                                          |
+
  Set _BitmapMissingFonts_ to **True** when font licensing does not permit you to embed a font in the PDF file. If you set this parameter to **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available.
 
 
@@ -127,9 +134,9 @@ The following example shows how to use the  **ExportAsFixedFormat** method to ex
 
 ```vb
 Public Sub ExportAsFixedFormat_Example() 
- 
+
        ActivePresentation.ExportAsFixedFormat "C:\Users\username \Documents\test.pdf", ppFixedFormatTypePDF, ppFixedFormatIntentScreen, msoCTrue, ppPrintHandoutHorizontalFirst, ppPrintOutputBuildSlides, msoFalse, , , , False, False, False, False, False 
- 
+
 End Sub
 ```
 

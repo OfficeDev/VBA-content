@@ -27,8 +27,6 @@ This example uses the  **Minute** function to obtain the minute of the hour from
 Dim MyTime, MyMinute
 MyTime = #4:35:17 PM#    ' Assign a time.
 MyMinute = Minute(MyTime)    ' MyMinute contains 35.
-
-
 ```
 
 

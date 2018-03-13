@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Object Properties
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -29,13 +29,14 @@ The  **Object** properties provide general information about objects contained i
 ## Setting
 <a name="sectionSection0"> </a>
 
+
 You can view the  **Object** properties, and set the **Description** or **Attributes** properties, in the following ways:
 
 
 - Click an object in the Database window. On the  **Database Tools** tab, in the **Show/Hide** group, click **Property Sheet**.
-    
+
 - Right-click an object in the Database window, and then click  **Properties** on the shortcut menu.
-    
+
 You can also specify or determine the  **Object** properties in an Access database by using Visual Basic . The **Object** properties of an Access project (.adp) are not available using Visual Basic.
 
 
@@ -44,6 +45,7 @@ You can also specify or determine the  **Object** properties in an Access databa
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 The objects for which you can display properties in the Database window are tables, queries, forms, reports, macros, and modules. Each class of objects in the database is represented by a separate DAO  **Document** object within the DAO **Containers** collection. For example, the **Containers** collection contains a **Document** object that represents all the forms in the database.
 
@@ -64,6 +66,7 @@ The following  **Object** properties are available from the Database window.
 ## Example
 <a name="sectionSection2"> </a>
 
+
 The following example uses the PrintObjectProperties subroutine to print the values of an object's  **Object** properties to the Debug window. The subroutine requires the object type and object name as arguments.
 
 
@@ -71,7 +74,7 @@ The following example uses the PrintObjectProperties subroutine to print the val
 Dim strObjectType As String 
 Dim strObjectName As String 
 Dim strMsg As String 
- 
+
 strMsg = "Enter object type (e.g., Forms, Scripts, " _ 
  &; "Modules, Reports, Tables)." 
 ' Get object type. 
@@ -83,14 +86,14 @@ strObjectName = InputBox(strMsg)
 ' Pass object type and object name to 
 ' PrintObjectProperties subroutine. 
 PrintObjectProperties strObjectType, strObjectName 
- 
+
 Sub PrintObjectProperties(strObjectType As String, strObjectName _ 
  As String) 
 Dim dbs As Database, ctr As Container, doc As Document 
 Dim intI As Integer 
 Dim strTabChar As String 
 Dim prp As DAO.Property 
- 
+
 Set dbs = CurrentDb 
 strTabChar = vbTab 
 ' Set Container object variable. 

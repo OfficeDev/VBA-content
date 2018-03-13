@@ -46,32 +46,34 @@ The following table contains the ISO codes that can be used with the  _SourceCur
 
 
 
-|**Currency**|**ISO Code**|**Calculation Precision**|**Display Precision**|
-|:-----|:-----|:-----|:-----|
-|Belgian franc|BEF|0|0|
-|Luxembourg franc|LUF|0|0|
-|Deutsche mark|DEM|2|2|
-|Spanish peseta|ESP|0|0|
-|French franc|FRF|2|2|
-|Irish punt|IEP|2|2|
-|Italian lira|ITL|0|0|
-|Netherlands guilder|NLG|2|2|
-|Austrian schilling|ATS|2|2|
-|Portuguese escudo|PTE|0|0|
-|Finnish Markka|FIM|2|2|
-|euro|EUR|2|2|
+| <strong>Currency</strong> | <strong>ISO Code</strong> | <strong>Calculation Precision</strong> | <strong>Display Precision</strong> |
+|:--------------------------|:--------------------------|:---------------------------------------|:-----------------------------------|
+| Belgian franc             | BEF                       | 0                                      | 0                                  |
+| Luxembourg franc          | LUF                       | 0                                      | 0                                  |
+| Deutsche mark             | DEM                       | 2                                      | 2                                  |
+| Spanish peseta            | ESP                       | 0                                      | 0                                  |
+| French franc              | FRF                       | 2                                      | 2                                  |
+| Irish punt                | IEP                       | 2                                      | 2                                  |
+| Italian lira              | ITL                       | 0                                      | 0                                  |
+| Netherlands guilder       | NLG                       | 2                                      | 2                                  |
+| Austrian schilling        | ATS                       | 2                                      | 2                                  |
+| Portuguese escudo         | PTE                       | 0                                      | 0                                  |
+| Finnish Markka            | FIM                       | 2                                      | 2                                  |
+| euro                      | EUR                       | 2                                      | 2                                  |
+
 In the preceding table, the calculation precision determines what currency unit to round the result to based on the conversion currency. For example, when converting to Deutsche marks, the calculation precision is 2, and the result is rounded to the nearest pfennig, 100 pfennigs to a mark. The display precision determines how many decimal places appear in the field containing the result.
 
 Later versions of the  **EuroConvert** function may support additional currencies. For information about new participating currencies and updates to the **EuroConvert** function, see the Microsoft Office Euro Currency Web site.
 
 
 
-|**Currency**|**ISO Code**|
-|:-----|:-----|
-|Danish Krone|DKK|
-|Drachma|GRD|
-|Swedish Krona|SEK|
-|Pound Sterling|GBP|
+| <strong>Currency</strong> | <strong>ISO Code</strong> |
+|:--------------------------|:--------------------------|
+| Danish Krone              | DKK                       |
+| Drachma                   | GRD                       |
+| Swedish Krona             | SEK                       |
+| Pound Sterling            | GBP                       |
+
 Any trailing zeros are truncated and invalid parameters return #Error.
 
 If the source ISO code is the same as the target ISO code, the original value of the number is active.

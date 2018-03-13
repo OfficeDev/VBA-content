@@ -18,7 +18,7 @@ Occurs after a document is created.
 
 ## Syntax
 
-Private Sub  _expression_ _**DocumentCreated**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>DocumentCreated</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents a **Documents** object.
 

@@ -34,8 +34,6 @@ If ActiveDocument.CoAuthoring.Authors.Count <> 0 Then
 Else
  MsgBox "There are no co authors in this document."
 End If 
- 
-
 ```
 
 

@@ -9,18 +9,19 @@ ms.prod: project-server
 # EngagementComments Object (Project)
 
 A collection of  **EngagementComments** objects. Introduced in Office 2016.
- 
+
 
 
 ## Remarks
 
  **EngagementComments** objects expose a **Resource Plan** view, enabling users to display and edit engagement data to Project when connected to Project Online.
- 
 
- 
+
+
 
 ## Methods
 <a name="methods"> </a>
+
 
 
 
@@ -30,6 +31,7 @@ A collection of  **EngagementComments** objects. Introduced in Office 2016.
 
 ## Properties
 <a name="properties"> </a>
+
 
 
 

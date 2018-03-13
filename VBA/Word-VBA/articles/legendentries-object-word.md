@@ -21,9 +21,9 @@ A collection of all the  **[LegendEntry](legendentry-object-word.md)** objects i
 
 
 - The text of the entry, which is the name of the series or trendline associated with the legend entry.
-    
+
 - The entry marker, which visually links the legend entry with its associated series or trendline in the chart.
-    
+
 
 
 The formatting properties for the entry marker and its associated series or trendline are contained in the  **[LegendKey](legendkey-object-word.md)** object.
@@ -44,7 +44,6 @@ With ActiveDocument.InlineShapes(1)
  End With 
  End If 
 End With 
-
 ```
 
 Use  **[LegendEntries](legend-legendentries-method-word.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
@@ -60,7 +59,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.Legend.LegendEntries(1).Font.Italic = True 
  End If 
 End With 
-
 ```
 
 

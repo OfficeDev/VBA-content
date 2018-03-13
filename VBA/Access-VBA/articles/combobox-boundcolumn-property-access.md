@@ -29,10 +29,11 @@ The  **BoundColumn** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|0|The  **ListIndex** property value, rather than the column value, is stored in the current record. The **ListIndex** property value of the first row is 0, the second row is 1, and so on. Microsoft Access sets the **ListIndex** property when an item is selected from a list box or the list box portion of a combo box. Setting the **BoundColumn** property to 0 and using the **ListIndex** property value of the control might be useful if, for example, you are only interested in storing a sequence of numbers.|
-|1 or greater|(Default is 1) The value in the specified column becomes the control's value. If the control is bound to a field, then this setting is stored in that field in the current record. The BoundColumn property can't be set to a value larger than the setting of the ColumnCount property.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|:-------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0                        | The  <strong>ListIndex</strong> property value, rather than the column value, is stored in the current record. The <strong>ListIndex</strong> property value of the first row is 0, the second row is 1, and so on. Microsoft Access sets the <strong>ListIndex</strong> property when an item is selected from a list box or the list box portion of a combo box. Setting the <strong>BoundColumn</strong> property to 0 and using the <strong>ListIndex</strong> property value of the control might be useful if, for example, you are only interested in storing a sequence of numbers. |
+| 1 or greater             | (Default is 1) The value in the specified column becomes the control's value. If the control is bound to a field, then this setting is stored in that field in the current record. The BoundColumn property can't be set to a value larger than the setting of the ColumnCount property.                                                                                                                                                                                                                                                                                                    |
+
 For table fields , you can set this property on the  **Lookup** tab in the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box.
 
 In Visual Basic, set the  **BoundColumn** property by using a number or a numeric expression equal to a value from 0 to the setting of the **ColumnCount** property.
@@ -73,11 +74,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

@@ -29,34 +29,35 @@ Sources are added to the source lists programmatically by using XML strings. Dep
 
 
 1. On the  **References** ribbon, click **Manage Sources**.
-    
-2. In the  **Source Manager** dialog box, click **New**.
-    
-3. In the  **Create Source** dialog box, select the type of source to create. For this example, select **Book**.
-    
-4. Fill out the source fields, as shown in the following table:
-    
 
-|**Field**|**Value**|
-|:-----|:-----|
-|Author|Andrew Dixon|
-|Title|Stylish Bibliographies|
-|Year|2006|
-|City|Chicago|
-|Publisher|Adventure Works Press|
-|Tag name|And01|
+2. In the  **Source Manager** dialog box, click **New**.
+
+3. In the  **Create Source** dialog box, select the type of source to create. For this example, select **Book**.
+
+4. Fill out the source fields, as shown in the following table:
+
+
+| <strong>Field</strong> | <strong>Value</strong> |
+|:-----------------------|:-----------------------|
+| Author                 | Andrew Dixon           |
+| Title                  | Stylish Bibliographies |
+| Year                   | 2006                   |
+| City                   | Chicago                |
+| Publisher              | Adventure Works Press  |
+| Tag name               | And01                  |
+
 5. You can view and add information to additional fields by checking  **Show All Bibliography Fields**.
-    
+
 6. Click  **OK**.
-    
+
 7. Close the  **Source Manager** dialog box.
-    
+
 8. Start the Visual Basic Editor (Alt+F11).
-    
+
 9. Display the  **Immediate Window** (Ctrl+G).
-    
+
 10. Paste and run the following code. `Sub GetBibliographyXML() Dim strXml As String Dim objSource As Source Set objSource = Application.Bibliography.Sources( _ Application.Bibliography.Sources.Count) Debug.Print objSource.XML End Sub`
-    
+
 After following the previous steps, the Immediate Window contains the following XML code.
 
 
@@ -132,9 +133,9 @@ The following example uses the basic structure determined previously to add anot
 
 ```vb
 Sub AddBibSource() 
- 
+
     Dim strXml As String 
-     
+
     strXml = "<b:Source xmlns:b=""http://schemas.microsoft.com/" &; _ 
         "office/word/2004/10/bibliography""><b:Tag>Mor01</b:Tag>" &; _ 
         "<b:SourceType>Book</b:SourceType><b:Author><b:Author>" &; _ 
@@ -144,9 +145,9 @@ Sub AddBibSource()
         "<b:Year>2006</b:Year><b:City>Seattle</b:City>" &; _ 
         "<b:Publisher>Adventure Works Press</b:Publisher>" &; _ 
         "</b:Source>" 
-     
+
     Application.Bibliography.Sources.Add strXml 
- 
+
 End Sub
 ```
 
@@ -161,9 +162,9 @@ Inserting a source programmatically into the master source list does not automat
 Sub CopyToCurrentList() 
     Dim objSource As Source 
     Dim strXml As String 
-     
+
     On Error Resume Next 
-     
+
     For Each objSource In Application.Bibliography.Sources 
         strXml = objSource.XML 
         ActiveDocument.Bibliography.Sources.Add strXml 
@@ -228,25 +229,25 @@ After you insert a bibliography into a document, you can set the bibliography st
 
 
 - APA
-    
+
 - Chicago
-    
+
 - GB7714
-    
+
 - GOST - Name Sort
-    
+
 - GOST - Title Sort
-    
+
 - ISO 690 - First Element Date
-    
+
 - ISO 690 - Numerical Reference
-    
+
 - MLA
-    
+
 - SISTO2
-    
+
 - Turabian
-    
+
 
  **Note**  These values are included in Word, but new values may be added at any point in the future as new bibliography styles are defined.
 

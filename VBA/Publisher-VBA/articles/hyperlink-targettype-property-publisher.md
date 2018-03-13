@@ -34,14 +34,21 @@ The  **TargetType** property value can be one of the following **PbHlinkTargetTy
 
 
 
-| **pbHlinkTargetTypeEmail**|
-| **pbHlinkTargetTypeFirstPage**|
-| **pbHlinkTargetTypeLastPage**|
-| **pbHlinkTargetTypeNextPage**|
-| **pbHlinkTargetTypeNone**|
-| **pbHlinkTargetTypePageID**|
-| **pbHlinkTargetTypePreviousPage**|
-| **pbHlinkTargetTypeURL**|
+| <strong>pbHlinkTargetTypeEmail</strong>|
+| 
+<strong>pbHlinkTargetTypeFirstPage</strong>|
+| 
+<strong>pbHlinkTargetTypeLastPage</strong>|
+| 
+<strong>pbHlinkTargetTypeNextPage</strong>|
+| 
+<strong>pbHlinkTargetTypeNone</strong>|
+| 
+<strong>pbHlinkTargetTypePageID</strong>|
+| 
+<strong>pbHlinkTargetTypePreviousPage</strong>|
+| 
+<strong>pbHlinkTargetTypeURL</strong>|
 
 ## Example
 

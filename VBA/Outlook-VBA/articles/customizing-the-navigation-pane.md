@@ -17,17 +17,18 @@ The Navigation Pane contains the set of navigation modules that are available in
 
 
 
-|**Navigation module**|**Object**|
-|:-----|:-----|
-| **Calendar**| **[CalendarModule](calendarmodule-object-outlook.md)**|
-| **Contacts**| **[ContactsModule](contactsmodule-object-outlook.md)**|
-| **Journal**| **[JournalModule](journalmodule-object-outlook.md)**|
-| **Folder List**| **NavigationModule**|
-| **Mail**| **[MailModule](mailmodule-object-outlook.md)**|
-| **Notes**| **[NotesModule](notesmodule-object-outlook.md)**|
-| **Shortcuts**| **NavigationModule**|
-| **Solutions**| **[SolutionsModule](solutionsmodule-object-outlook.md)**|
-| **Tasks**| **[TasksModule](tasksmodule-object-outlook.md)**|
+| <strong>Navigation module</strong> | <strong>Object</strong>                                                                                                                                 |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Calendar</strong>          | <strong><a href="calendarmodule-object-outlook.md" data-raw-source="[CalendarModule](calendarmodule-object-outlook.md)">CalendarModule</a></strong>     |
+| <strong>Contacts</strong>          | <strong><a href="contactsmodule-object-outlook.md" data-raw-source="[ContactsModule](contactsmodule-object-outlook.md)">ContactsModule</a></strong>     |
+| <strong>Journal</strong>           | <strong><a href="journalmodule-object-outlook.md" data-raw-source="[JournalModule](journalmodule-object-outlook.md)">JournalModule</a></strong>         |
+| <strong>Folder List</strong>       | <strong>NavigationModule</strong>                                                                                                                       |
+| <strong>Mail</strong>              | <strong><a href="mailmodule-object-outlook.md" data-raw-source="[MailModule](mailmodule-object-outlook.md)">MailModule</a></strong>                     |
+| <strong>Notes</strong>             | <strong><a href="notesmodule-object-outlook.md" data-raw-source="[NotesModule](notesmodule-object-outlook.md)">NotesModule</a></strong>                 |
+| <strong>Shortcuts</strong>         | <strong>NavigationModule</strong>                                                                                                                       |
+| <strong>Solutions</strong>         | <strong><a href="solutionsmodule-object-outlook.md" data-raw-source="[SolutionsModule](solutionsmodule-object-outlook.md)">SolutionsModule</a></strong> |
+| <strong>Tasks</strong>             | <strong><a href="tasksmodule-object-outlook.md" data-raw-source="[TasksModule](tasksmodule-object-outlook.md)">TasksModule</a></strong>                 |
+
 Note that the  **Solutions** module is not displayed in the Navigation Pane by default, and can only be created programmatically. The default name of the module is **Solutions**, but you can customize that name.
 
 

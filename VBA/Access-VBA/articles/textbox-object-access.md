@@ -28,7 +28,6 @@ Private Sub txtValue1_BeforeUpdate(Cancel As Integer)
 MsgBox "The Text box is being updated."
 
 End Sub
-
 ```
 
 

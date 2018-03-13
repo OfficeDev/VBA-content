@@ -13,9 +13,9 @@ When you define a form region for a custom message class, such as  **IPM.Note.Cu
 Icons are specified as resources in a Win32 resource DLL file. You can refer to an icon file in the standard Win32 embedded icon notation. For example:
 
 -  `<default>c:\myicon.ico<.default>` loads the default icon from the specified path, c:\
-    
+
 -  `<unread>c:\myresource.dll,101</unread>` loads the icon resource that has the resource ID 101 from the resource file myresource.dll in the specified path, c:\
-    
+
 
 Note that you can specify environment variables in the file path names, but you cannot specify paths in Universal Naming Convention (UNC).
 By default, if you do not specify any custom icons, the icons assigned to the parent message class will be used. For example, if you do not specify any icons for a form region for  **IPM.Note.Customer**, then the icons for  **IPM.Note** will be used.
@@ -41,13 +41,13 @@ The following table shows the states of an item that you can consider to identif
 
 
 1. In the form region manifest XML file, under the  **icons** element, specify the child element that maps to the state that you would like to customize.
-    
+
 2. Depending on how you would like the custom icon file to be specified, do either of the following: 
-    
+
       - If you want Outlook to load the icon from an icon file or a resource file, specify the location of the icon file or resource file in the child element.
-    
-  - If you want an add-in to inform Outlook which icon to display, specify  `addin` in the child element.
-    
+
+   - If you want an add-in to inform Outlook which icon to display, specify  `addin` in the child element.
+
 The following example specifies custom icons for several states of an item belonging to the message class supported by a form region: 
 
 
@@ -64,13 +64,13 @@ The four custom icons include:
 
 
 - A custom icon file for the read state
-    
+
 - A custom icon file for the unread state
-    
+
 - A location in a resource file for the encrypted state
-    
+
 - A default icon file for all other states applicable to the item
-    
+
 
  **Note**  The value of the child element can be expressed either as a file path to an icon file or a resource file, or as  `addin`. The file path can be expressed as a full path or a path relative to the location of the form region manifest XML file, and can involve system variables. For more information on specifying an icon using an add-in, see  [How to: Use an Add-in to Specify Icons for a Form Region](use-an-add-in-to-specify-icons-for-a-form-region.md).
 

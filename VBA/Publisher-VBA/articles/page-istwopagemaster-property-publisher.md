@@ -54,7 +54,6 @@ For i = 1 To pageCount
  objMasterPage.PageNumber &; ", Page 2 of 2" 
  End If 
 Next i 
-
 ```
 
 

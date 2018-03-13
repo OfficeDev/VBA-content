@@ -42,7 +42,7 @@ This example finds the first occurrence of the word "" in an Arabic document mat
 
 ```vb
 Dim objDocument As Document 
- 
+
 Set objDocument = ActiveDocument 
 With objDocument.Find 
  .Clear 
@@ -50,7 +50,6 @@ With objDocument.Find
  .MatchAlefHamza = True 
  .Execute 
 End With 
-
 ```
 
 This example follows from the previous one except that alef hamzas will not be matched. Therefore the words "" or "" will both be found because alefs and hamzas will be ignored.
@@ -60,7 +59,7 @@ This example follows from the previous one except that alef hamzas will not be m
 
 ```vb
 Dim objDocument As Document 
- 
+
 Set objDocument = ActiveDocument 
 With objDocument.Find 
  .Clear 
@@ -68,7 +67,6 @@ With objDocument.Find
  .MatchAlefHamza = False 
  .Execute 
 End With 
-
 ```
 
 

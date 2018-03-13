@@ -93,7 +93,6 @@ This example sets the font style in cells A1:C5 on Sheet1 to italic. The example
 ```vb
 Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _ 
  Font.Italic = True 
-
 ```
 
 

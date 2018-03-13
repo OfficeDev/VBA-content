@@ -35,23 +35,39 @@ The value of the  **Type** property can be one of these **PpPlaceholderType** co
 
 ||
 |:-----|
-|**ppPlaceholderBitmap**|
-|**ppPlaceholderBody**|
-|**ppPlaceholderCenterTitle**|
-|**ppPlaceholderChart**|
-|**ppPlaceholderDate**|
-|**ppPlaceholderFooter**|
-|**ppPlaceholderHeader**|
-|**ppPlaceholderMediaClip**|
-|**ppPlaceholderMixed**|
-|**ppPlaceholderObject**|
-|**ppPlaceholderOrgChart**|
-|**ppPlaceholderSlideNumber**|
-|**ppPlaceholderSubtitle**|
-|**ppPlaceholderTable**|
-|**ppPlaceholderTitle**|
-|**ppPlaceholderVerticalBody**|
-|**ppPlaceholderVerticalTitle**|
+|<strong>ppPlaceholderBitmap</strong>|
+|
+<strong>ppPlaceholderBody</strong>|
+|
+<strong>ppPlaceholderCenterTitle</strong>|
+|
+<strong>ppPlaceholderChart</strong>|
+|
+<strong>ppPlaceholderDate</strong>|
+|
+<strong>ppPlaceholderFooter</strong>|
+|
+<strong>ppPlaceholderHeader</strong>|
+|
+<strong>ppPlaceholderMediaClip</strong>|
+|
+<strong>ppPlaceholderMixed</strong>|
+|
+<strong>ppPlaceholderObject</strong>|
+|
+<strong>ppPlaceholderOrgChart</strong>|
+|
+<strong>ppPlaceholderSlideNumber</strong>|
+|
+<strong>ppPlaceholderSubtitle</strong>|
+|
+<strong>ppPlaceholderTable</strong>|
+|
+<strong>ppPlaceholderTitle</strong>|
+|
+<strong>ppPlaceholderVerticalBody</strong>|
+|
+<strong>ppPlaceholderVerticalTitle</strong>|
 
 ## See also
 

@@ -29,11 +29,11 @@ The ** RequestPermissionURL** setting corresponds to the **Users can request add
 
 
 - A Web address:  `http://companyserver/request_permissions.asp`
-    
+
 - A file:  `\\companyserver\share\requesting_permissions.txt`
-    
+
 - An email address:  `mailto:permissionsmgr@example.com?Subject=Request%20permissions`
-    
+
 
 ## Example
 
@@ -64,7 +64,6 @@ The following example displays information about the permissions settings of the
  End If 
  MsgBox strIRMInfo, vbInformation + vbOKOnly, "IRM Information" 
  Set irmPermission = Nothing 
-
 ```
 
 

@@ -22,13 +22,16 @@ Returns a complete and unambiguous path from a provided path specification.
 The  **GetAbsolutePathName** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _pathspec_|Required. Path specification to change to a complete and unambiguous path.|
- **Remarks**
-A path is complete and unambiguous if it provides a complete reference from the root of the specified drive. A complete path can only end with a path separator character ( **\** ) if it specifies the root folder of a mapped drive.
-Assuming the current directory is c:\mydocuments\reports, the following table illustrates the behavior of the  **GetAbsolutePathName** method.
+| <strong>Part</strong> | <strong>Description</strong>                                               |
+|:----------------------|:---------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.         |
+| <em>pathspec</em>     | Required. Path specification to change to a complete and unambiguous path. |
+
+ <strong>Remarks</strong>
+A path is complete and unambiguous if it provides a complete reference from the root of the specified drive. A complete path can only end with a path separator character ( 
+<strong>\</strong> ) if it specifies the root folder of a mapped drive.
+Assuming the current directory is c
+:\mydocuments\reports, the following table illustrates the behavior of the  <strong>GetAbsolutePathName</strong> method.
 
 
 |**_pathspec_**|**Returned path**|

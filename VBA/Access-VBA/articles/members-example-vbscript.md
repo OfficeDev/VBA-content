@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Members Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -18,7 +18,7 @@ This sample uses an MDX query string to retrieve OLAP data and writes the result
 
 
 ```vb
- 
+
 <%@ Language=VBScript %> 
 <% 
 '************************************************************************ 
@@ -35,9 +35,9 @@ Response.Expires=0
 </head> 
 <body bgcolor="Ivory"> 
 <font FACE="Verdana"> 
- 
+
 <% 
- 
+
 Dim cat,cst,i,j,strSource,csw,LevelValue,intDC0,intDC1,intPC0, intPC1 
 '************************************************************************ 
 '*** Gather Server Name and MDX Query Strings from text box and 
@@ -46,13 +46,13 @@ Dim cat,cst,i,j,strSource,csw,LevelValue,intDC0,intDC1,intPC0, intPC1
 Session("ServerName")=Request.Form("strServerName") 
 Session("InitialCatalog")=Request.Form("strInitialCatalog") 
 Session("MDXQuery")=Request.Form("MDXQuery") 
- 
+
 '************************************************************************ 
 '*** Set Connection Objects for Multi dimensional Catalog and Cell Set 
 '************************************************************************ 
 Set cat = Server.CreateObject("ADOMD.Catalog") 
 Set cst = Server.CreateObject("ADOMD.CellSet") 
- 
+
 '************************************************************************ 
 '*** Check to see if the Session Object Server Name is present 
 '*** If present then: Create Active Connection using Server Name 
@@ -66,7 +66,7 @@ If Len(Session("ServerName")) > 0 Then
       "';Initial Catalog='" &; Session("InitialCatalog") &; _ 
       "';Provider='msolap';" 
 Else 
- 
+
 '************************************************************************ 
 '*** Must set OLAPServerName to OLAP Server that is 
 '*** present on network 
@@ -96,24 +96,24 @@ If Len(Session("MDXQuery")) < 5 Then
 Else 
    strSource = Session("MDXQuery") 
 End if 
- 
+
 '************************************************************************ 
 '*** Set Cell Set Source property to strSource to be passed on cell set  
 '*** open method 
 '************************************************************************ 
    cst.Source = strSource 
- 
+
 '************************************************************************ 
 '*** Set Cell Sets Active connection to use the current Catalogs Active  
 '*** connection 
 '************************************************************************ 
 Set cst.ActiveConnection = cat.ActiveConnection 
- 
+
 '************************************************************************ 
 '*** Using Open method, Open cell set 
 '************************************************************************ 
 cst.Open 
- 
+
 '************************************************************************ 
 '*** Standard HTML to collect Server Name and MDX Query Information 
 '*** Note that post action posts back to same page to process 
@@ -153,22 +153,22 @@ cst.Open
 '************************************************************************ 
 intDC0 = cst.Axes(0).DimensionCount-1 
 intDC1 = cst.Axes(1).DimensionCount-1 
- 
+
 intPC0 = cst.Axes(0).Positions.Count - 1 
 intPC1 = cst.Axes(1).Positions.Count - 1 
- 
+
 '************************************************************************ 
 '*** Create HTML Table structure to hold MDX Query return Record set 
 '************************************************************************ 
 Response.Write "<Table width=100% border=1>" 
- 
+
 '************************************************************************ 
 '*** Loop to create Column header for all Dimensions based 
 '*** on Count of Dimensions for Axes(0) 
 '************************************************************************ 
 For h=0 to intDC0 
    Response.Write "<TR>" 
- 
+
 '************************************************************************ 
 '*** Loop to create spaces in front of Column headers 
 '*** to align with Row headers 
@@ -176,7 +176,7 @@ For h=0 to intDC0
    For c=0 to intDC1 
       Response.Write "<TD></TD>" 
    Next 
- 
+
 '************************************************************************ 
 '*** Check current dimension to see if equal to Last Dimension 
 '*** If True: Write Table header titles normally to HTML output with out  
@@ -185,7 +185,7 @@ For h=0 to intDC0
 '*** output 
 '************************************************************************ 
    If h = intDC0 then 
- 
+
 '************************************************************************ 
 '*** Iterate through Axes(0) Positions writing member captions to table  
 '*** header 
@@ -198,7 +198,7 @@ For h=0 to intDC0
          Response.Write "</TH>" 
       Next 
    Else 
- 
+
 '************************************************************************ 
 '*** Iterate through Axes(0) Positions writing member captions to table  
 '*** header taking into account for the span of columns for duplicate  
@@ -208,7 +208,7 @@ For h=0 to intDC0
       LastCaption = cst.Axes(0).Positions(0).Members(h).Caption 
       Response.Write "<TH" 
       For t=1 to intPC0 
- 
+
 '************************************************************************ 
 '*** Check to see if LastCaption is equal to current members caption 
 '*** If True: Add one to CaptionCount to increase Colspan value 
@@ -219,7 +219,7 @@ For h=0 to intDC0
          If LastCaption = _ 
             cst.Axes(0).Positions(t).Members(h).Caption then 
             CaptionCount = CaptionCount+1 
- 
+
 '************************************************************************ 
 '*** Check if at last position 
 '*** If True: Write HTML to finish table row using current 
@@ -229,7 +229,7 @@ For h=0 to intDC0
                Response.Write " colspan=" &; CaptionCount &; _ 
                   "><FONT size=-2>" &; LastCaption &; "</FONT></TH>" 
             End if 
- 
+
          Else 
             Response.Write " colspan=" &; CaptionCount &; _ 
                "><FONT size=-2>" &; LastCaption &; "</FONT></TH><TH" 
@@ -240,7 +240,7 @@ For h=0 to intDC0
          End if 
          Response.Write "</TR>" 
       Next 
- 
+
 '************************************************************************ 
 '*** Iterate through Axes(1) Positions first writing member captions  
 '*** to table row headers then writing cell set data to table structure 
@@ -248,7 +248,7 @@ For h=0 to intDC0
       Dim aryRows() 
       Dim intArray,Marker 
       intArray=0 
- 
+
 '************************************************************************ 
 '*** Set value of Array for row header formatting 
 '************************************************************************ 
@@ -258,7 +258,7 @@ For h=0 to intDC0
       intArray = intArray-1 
       ReDim aryRows(intArray) 
       Marker=0 
- 
+
 '************************************************************************ 
 '*** Use Array values for row header formatting to provide 
 '*** spaces under beginning row header titles 
@@ -299,7 +299,7 @@ For h=0 to intDC0
                End if 
             End if 
          Next 
- 
+
 '************************************************************************ 
 '*** Alternates Cell background color 
 '************************************************************************ 
@@ -313,7 +313,7 @@ For h=0 to intDC0
             Response.Write csw 
             Response.Write ">" 
             Response.Write "<FONT size=-2>" 
- 
+
 '************************************************************************ 
 '*** FormattedValue property pulls data 
 '************************************************************************ 
@@ -324,12 +324,11 @@ For h=0 to intDC0
          Response.Write "</TR>" 
       Next 
       Response.Write "</Table>" 
- 
+
 %> 
 </font> 
 </body> 
 </html> 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

@@ -34,9 +34,9 @@ Normally you can distinguish between controls in a Ribbon user interface XML cus
 
 
 - If you need to store a special string with your control such as a filename. For example: tag="C:\path\file.xlsm."
-    
+
 - If you want multiple controls to be treated the same way by your callback procedures, but you don't want to maintain a list of all of their IDs (which must be unique). For example, you could have buttons on different tabs on the Ribbon, all with tag="blue", and then just check the  **Tag** property instead of the **ID** property when perfroming some common action.
-    
+
 
 
 

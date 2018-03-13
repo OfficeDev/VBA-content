@@ -15,22 +15,24 @@ ms.date: 06/08/2017
 
 
 1. In the  **Properties** window, choose the **TextAlign** property.
-    
-2. Click the drop-down arrow next to the property's value to display a list of available choices.
-    
-3. Choose one of the following:
-    
-    
-    
-      -  **Left** — to align the text with the left edge of the control.
-    
-  -  **Right** — to align the text with the right edge of the control.
-    
-  -  **Center** — to center the text relative to the length of the control.
-    
 
-    
-    
+2. Click the drop-down arrow next to the property's value to display a list of available choices.
+
+3. Choose one of the following:
+
+
+
+~~~
+  -  **Left** — to align the text with the left edge of the control.
+~~~
+
+  -  **Right** — to align the text with the right edge of the control.
+
+  -  **Center** — to center the text relative to the length of the control.
+
+
+
+
 
 
 

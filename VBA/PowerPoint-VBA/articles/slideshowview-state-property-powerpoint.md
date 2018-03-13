@@ -35,11 +35,15 @@ The value of the  **State** property can be one of these **PpSlideShowState** co
 
 ||
 |:-----|
-|**ppSlideShowBlackScreen**|
-|**ppSlideShowDone**|
-|**ppSlideShowPaused**|
-|**ppSlideShowRunning**|
-|**ppSlideShowWhiteScreen**|
+|<strong>ppSlideShowBlackScreen</strong>|
+|
+<strong>ppSlideShowDone</strong>|
+|
+<strong>ppSlideShowPaused</strong>|
+|
+<strong>ppSlideShowRunning</strong>|
+|
+<strong>ppSlideShowWhiteScreen</strong>|
 
 ## Example
 

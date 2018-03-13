@@ -17,15 +17,15 @@ This makes it easier to update your data. To update one of these items, you can 
 The objects used in these samples are:
 
 -  **[ContentControl](contentcontrol-object-word.md)**
-    
+
 -  **[ContentControls](contentcontrols-object-word.md)**
-    
+
 -  **CustomXMLPart** (Microsoft Office core object model)
-    
+
 -  **CustomXMLParts** (Microsoft Office core object model)
-    
+
 -  **[XMLMapping](xmlmapping-object-word.md)**
-    
+
 
 ## Sample
 
@@ -52,21 +52,21 @@ The following sample code loads the previous XML file and maps each content cont
 Private Sub Document_BuildingBlockInsert(ByVal Range As Range, _ 
         ByVal Name As String, ByVal Category As String, _ 
         ByVal Type As String, ByVal Template As String) 
- 
+
     Dim cc As ContentControl 
     Dim part As CustomXMLPart 
- 
+
     If Name = "Company Report" Then 
         'add the custom XML 
         ActiveDocument.CustomXMLParts.Add 
         Set part = ActiveDocument.CustomXMLParts(ActiveDocument.CustomXMLParts.Count).Load("c:\myProjects.xml") 
- 
+
         'map the controls 
         For Each cc In Range.ContentControls 
             cc.XMLMapping.SetMapping cc.XMLMapping.XPath, cc.XMLMapping.PrefixMappings, part 
         Next cc 
     End If 
- 
+
 End Sub
 ```
 

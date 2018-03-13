@@ -52,7 +52,7 @@ The following example, written in C#, shows the implementation of the  **ShowSig
  sigsetup.ShowSignDate = true; 
  sigsetup.AdditionalXml = "<TestSignatureData />"; 
  } 
- 
+
  using (Win32WindowFromOleWindow window = new Win32WindowFromOleWindow(parentWindow)) 
  { 
  using (SignatureSetupForm sigsetupForm = new SignatureSetupForm(sigsetup)) 
@@ -63,7 +63,6 @@ The following example, written in C#, shows the implementation of the  **ShowSig
  } 
  } 
  } 
-
 ```
 
 

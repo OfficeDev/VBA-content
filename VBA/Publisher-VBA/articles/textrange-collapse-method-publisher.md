@@ -39,8 +39,9 @@ The Direction parameter can be one of the following  **PbCollapseDirection** con
 
 
 
-| **pbCollapseEnd**|
-| **pbCollapseStart**|
+| <strong>pbCollapseEnd</strong>|
+| 
+<strong>pbCollapseStart</strong>|
 
 ## Example
 
@@ -52,7 +53,7 @@ Sub CollapseRange()
  Dim rngText As TextRange 
  Set rngText = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange 
- 
+
  'Collapses range to the end of the range and 
  'enters new text and a new paragraph 
  With rngText 
@@ -71,7 +72,7 @@ This example places new text at the end of the first paragraph in the first shap
 Sub CollapseSelection() 
  ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange _ 
  .Paragraphs(Start:=1, Length:=1).Select 
- 
+
  'Collapses selection to end and moves cursor back 
  'one character, then enters new text 
  With Selection.TextRange 

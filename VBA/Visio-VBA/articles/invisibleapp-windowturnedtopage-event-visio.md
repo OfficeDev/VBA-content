@@ -15,7 +15,7 @@ Occurs after a window shows a different page.
 
 ## Syntax
 
-Private Sub  _expression_ _**WindowTurnedToPage**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>WindowTurnedToPage</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

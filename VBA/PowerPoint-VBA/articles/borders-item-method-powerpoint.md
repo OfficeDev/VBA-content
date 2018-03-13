@@ -43,12 +43,17 @@ The  _BorderType_ parameter value can be one of these **PpBorderType** constants
 
 ||
 |:-----|
-|**ppBorderBottom**|
-|**ppBorderDiagonalDown**|
-|**ppBorderDiagonalUp**|
-|**ppBorderLeft**|
-|**ppBorderRight**|
-|**ppBorderTop**|
+|<strong>ppBorderBottom</strong>|
+|
+<strong>ppBorderDiagonalDown</strong>|
+|
+<strong>ppBorderDiagonalUp</strong>|
+|
+<strong>ppBorderLeft</strong>|
+|
+<strong>ppBorderRight</strong>|
+|
+<strong>ppBorderTop</strong>|
 
 ## See also
 

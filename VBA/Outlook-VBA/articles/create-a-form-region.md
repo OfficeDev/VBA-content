@@ -31,7 +31,7 @@ The following procedure details the steps to create a form region using the Form
     
       - The actions associated with the form, for example, whether you will be sending the form to other people, in which case you should choose the Message form. 
     
-  - The kinds of fields you will need in the form, for example, whether they are mostly contact-specific fields.
+   - The kinds of fields you will need in the form, for example, whether they are mostly contact-specific fields.
     
 3. Plan the scope of your customization. Will it suffice if you add extra controls to the bottom of the default page of the standard form? Will you need an extra custom page? Or, will you want to modify the user interface so substantially that it would be easier to create a new form? Note that you can replace pages on a form only if you specify that form for a derived message class.
     
@@ -51,19 +51,19 @@ The following procedure details the steps to create a form region using the Form
     
       - The \<addin\> tag specifies the ProgID of the add-in that manages the form region and provides storage for it. You should only specify this tag if you use an add-in to create and manage the form region.
     
-  - The \<customActions\> tag that specifies the actions supported by the form region, for example, reply and forward.
+   - The \<customActions\> tag that specifies the actions supported by the form region, for example, reply and forward.
     
-  - The \<displayAfter\> tag specifies the form region that precedes the current form region in the same form. This information defines the initial order of multiple adjoining form regions or multiple separate form regions in the same form. 
+   - The \<displayAfter\> tag specifies the form region that precedes the current form region in the same form. This information defines the initial order of multiple adjoining form regions or multiple separate form regions in the same form. 
     
-  - The \<formRegionType\> tag specifies whether the form region is an additive form region (adjoining or separate form region), or is a replacement or replace-all form region (replacing the default page or the entire standard form and resulting as a new form for a derived message class).
+   - The \<formRegionType\> tag specifies whether the form region is an additive form region (adjoining or separate form region), or is a replacement or replace-all form region (replacing the default page or the entire standard form and resulting as a new form for a derived message class).
     
-  - The \<layoutFile\> tag specifies the location of the .OFS file, if one exists. Note that any file paths in the .OFS file, including this file path, can be specified as a relative path to the location of the form region manifest XML file specified in the registry. However, also note that UNC paths are not supported. If you use an add-in to create and manage the form region, you must specify the \<addin\> tag but not this tag.
+   - The \<layoutFile\> tag specifies the location of the .OFS file, if one exists. Note that any file paths in the .OFS file, including this file path, can be specified as a relative path to the location of the form region manifest XML file specified in the registry. However, also note that UNC paths are not supported. If you use an add-in to create and manage the form region, you must specify the \<addin\> tag but not this tag.
     
-  - The \<name\> tag specifies the name for the form region used only in code.
+   - The \<name\> tag specifies the name for the form region used only in code.
     
-  - The \<title\> tag specifies the display name of a separate form region in the  **Actions** menu and the **Choose Form** dialog box.
+   - The \<title\> tag specifies the display name of a separate form region in the  **Actions** menu and the **Choose Form** dialog box.
     
-  - The \<icons\> tag specifies the location of icon files. 
+   - The \<icons\> tag specifies the location of icon files. 
     
      **Note**  By default, the icon file is in the same folder as, or in a path relative to, the form region manifest XML file. You can also specify a full path for the icon file, for example: `<icons><default>c:\myicon.ico</default></icons>`or a full path for a resource file, for example: `<icons><unread>c:\myresource.dll,101</unread> </icons>`which loads the icon resource 101 in the resource file c:\myresource.dll. However, do not use the implicit convention that specifies icons embedded in the add-in assembly file. For example: `<icons><read>,102</read></icons>`will not be supported and will not load the icon resource 102 in the add-in dll.
 8. Close Outlook.

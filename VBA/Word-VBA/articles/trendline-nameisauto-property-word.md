@@ -35,7 +35,6 @@ With ActiveDocument.InlineShapes(1)
  .Trendlines(1).NameIsAuto = True 
  End If 
 End With 
-
 ```
 
 

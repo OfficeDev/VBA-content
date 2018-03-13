@@ -22,28 +22,31 @@ Opens a specified file and returns a  **TextStream** object that can be used to 
 The  **OpenAsTextStream** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **File** object.|
-| _iomode_|Optional. Indicates input/output mode. Can be one of three constants:  **ForReading**, **ForWriting**, or **ForAppending**.|
-| _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                       |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>File</strong> object.                                                                                                      |
+| <em>iomode</em>       | Optional. Indicates input/output mode. Can be one of three constants:  <strong>ForReading</strong>, <strong>ForWriting</strong>, or <strong>ForAppending</strong>. |
+| <em>format</em>       | Optional. One of three  <strong>Tristate</strong> values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.                  |
+
  **Settings**
 The  _iomode_ argument can have any of the following settings:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**ForReading**|1|Open a file for reading only. You can't write to this file.|
-|**ForWriting**|2|Open a file for writing. If a file with the same name exists, its previous contents are overwritten.|
-|**ForAppending**|8|Open a file and write to the end of the file.|
+| <strong>Constant</strong>     | <strong>Value</strong> | <strong>Description</strong>                                                                         |
+|:------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------------------|
+| <strong>ForReading</strong>   | 1                      | Open a file for reading only. You can't write to this file.                                          |
+| <strong>ForWriting</strong>   | 2                      | Open a file for writing. If a file with the same name exists, its previous contents are overwritten. |
+| <strong>ForAppending</strong> | 8                      | Open a file and write to the end of the file.                                                        |
+
 The  _format_ argument can have any of the following settings:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**TristateUseDefault**|-2|Opens the file using the system default.|
-|**TristateTrue**|-1|Opens the file as Unicode.|
-|**TristateFalse**| 0|Opens the file as ASCII.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>             |
+|:------------------------------------|:-----------------------|:-----------------------------------------|
+| <strong>TristateUseDefault</strong> | -2                     | Opens the file using the system default. |
+| <strong>TristateTrue</strong>       | -1                     | Opens the file as Unicode.               |
+| <strong>TristateFalse</strong>      | 0                      | Opens the file as ASCII.                 |
+
  **Remarks**
 The  **OpenAsTextStream** method provides the same functionality as the **OpenTextFile** method of the **FileSystemObject**. In addition, the **OpenAsTextStream** method can be used to write to a file.
 The following code illustrates the use of the  **OpenAsTextStream** method:

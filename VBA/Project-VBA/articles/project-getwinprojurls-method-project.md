@@ -50,6 +50,7 @@ The following is an example of the XML schema definition.
         <Tables></Tables>
         <Sources></Sources>
       </DataSource>
+
     </xs:appinfo>
   </xs:annotation>
   <xs:element name="WinprojURLsDataSet" msdata:IsDataSet="true">
@@ -90,6 +91,7 @@ The following is an example of the XML schema definition.
         <Tables></Tables>
         <Sources></Sources>
       </DataSource>
+
     </xs:appinfo>
   </xs:annotation>
   <xs:element name="WinprojURLsDataSet" msdata:IsDataSet="true">

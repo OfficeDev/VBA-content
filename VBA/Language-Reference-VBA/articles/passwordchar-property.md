@@ -21,10 +21,11 @@ Specifies whether [placeholder](glossary-vba.md) characters are displayed instea
 The  **PasswordChar** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. A string expression specifying the placeholder character.|
+| <strong>Part</strong> | <strong>Description</strong>                                        |
+|:----------------------|:--------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                           |
+| <em>String</em>       | Optional. A string expression specifying the placeholder character. |
+
  **Remarks**
 You can use the  **PasswordChar** property to protect sensitive information, such as passwords or security codes. The value of **PasswordChar** is the character that appears in a control instead of the actual characters that the user types. If you don't specify a character, the control displays the characters that the user types.
 

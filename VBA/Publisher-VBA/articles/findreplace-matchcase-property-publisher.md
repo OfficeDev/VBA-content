@@ -45,7 +45,6 @@ With ActiveDocument.Find
  .FindText = "factory" 
  .Execute 
 End With 
-
 ```
 
 

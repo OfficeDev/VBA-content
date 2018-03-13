@@ -42,22 +42,21 @@ This example adds two shapes to the first page of the active publication, groups
 
 ```vb
 With ActiveDocument.Pages(1).Shapes 
- 
+
  ' Add two shapes to the page. 
  .AddShape(Type:=msoShapeCan, _ 
  Left:=50, Top:=10, Width:=100, Height:=200).Name = "shpOne" 
  .AddShape(Type:=msoShapeCube, _ 
  Left:=150, Top:=250, Width:=100, Height:=200).Name = "shpTwo" 
- 
+
  ' Group the shapes and change the formatting for the whole group. 
  With .Range(Index:=Array("shpOne", "shpTwo")).Group 
  .Fill.PresetTextured PresetTexture:=msoTextureBlueTissuePaper 
  .Rotation = 45 
  .ZOrder ZOrderCmd:=msoSendToBack 
  End With 
- 
-End With 
 
+End With 
 ```
 
 

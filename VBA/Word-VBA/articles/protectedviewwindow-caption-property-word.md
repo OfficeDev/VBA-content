@@ -36,7 +36,6 @@ The following code example displays the caption for the active protected view wi
 ```vb
 MsgBox "The caption for the active protected " &; _ 
  "view window is: " &; ActiveProtectedViewWindow.Caption 
-
 ```
 
 The following code example changes the caption for the active protected view window.
@@ -46,7 +45,6 @@ The following code example changes the caption for the active protected view win
 
 ```vb
 ActiveProtectedViewWindow.Caption = Application.UserName &; "'s copy of Word" 
-
 ```
 
 

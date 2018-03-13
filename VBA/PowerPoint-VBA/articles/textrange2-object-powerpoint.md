@@ -31,7 +31,6 @@ With myDocument.Shapes.AddShape(msoShapeRectangle, _
  .MarginRight = 10 
  .MarginTop = 10 
 End With 
-
 ```
 
 

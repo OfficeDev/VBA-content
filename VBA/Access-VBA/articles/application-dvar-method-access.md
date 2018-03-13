@@ -71,10 +71,10 @@ The following example returns estimates of the variance for a population and a p
 ```vb
 Dim dblX As Double 
 Dim dblY As Double 
- 
+
 ' Sample estimate. 
 dblX = DVar("[Freight]", "Orders", "[ShipCountry] = 'UK'") 
- 
+
 ' Population estimate. 
 dblY = DVarP("[Freight]", "Orders", "[ShipCountry] = 'UK'")
 ```
@@ -87,9 +87,9 @@ The next example returns estimates by using a variable,  `strCountry`, in the  _
 ```vb
 Dim strCountry As String| 
 Dim dblX As Double 
- 
+
 strCountry = "UK" 
- 
+
 dblX = DVar("[Freight]", "Orders", "[ShipCountry] = '" _ 
     &; strCountry &; "'")
 ```
@@ -136,13 +136,13 @@ The following examples show how to use various types of criteria with the  **DVa
     variable = DVar("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
              &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
             &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
-    
+
     ' Use two fields from a single record.
     variable = DVar("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
-            
+
     ' Expressions
     variable = DVar("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")
-    
+
     ' Control Structures
     variable = DVar("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
@@ -152,11 +152,13 @@ The following examples show how to use various types of criteria with the  **DVa
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

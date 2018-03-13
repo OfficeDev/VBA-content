@@ -41,8 +41,6 @@ With Application.ActivePresentation
     If Not .Saved And .Path <> "" Then .Save
 
 End With
-
-
 ```
 
 

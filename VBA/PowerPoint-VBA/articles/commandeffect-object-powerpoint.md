@@ -29,7 +29,7 @@ The following example shows how to set a command effect animation behavior.
 ```vb
 Set bhvEffect = effectNew.Behaviors.Add(msoAnimTypeCommand)
 
- 
+
 
     With bhvEffect.CommandEffect
 
@@ -38,8 +38,6 @@ Set bhvEffect = effectNew.Behaviors.Add(msoAnimTypeCommand)
          .Command = Play
 
     End With
-
-
 ```
 
 

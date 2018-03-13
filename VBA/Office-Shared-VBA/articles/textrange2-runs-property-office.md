@@ -67,7 +67,6 @@ With Application.ActivePresentation.Slides(1).Shapes(2) _
         End If 
     End With 
 End With
-
 ```
 
 

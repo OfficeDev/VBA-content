@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # CubeDef Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -18,7 +18,7 @@ This example displays cube metadata on a web page.
 
 
 ```vb
- 
+
 <%@ Language=VBScript %> 
 <% 
 Response.Buffer=True 
@@ -29,11 +29,11 @@ Response.Buffer=True
 <meta NAME="GENERATOR" Content="Microsoft Visual Studio 6.0"> 
 </head> 
 <body> 
- 
+
 <% 
 Server.ScriptTimeout=360 
 Dim cat,cdf,di,hi,le,mem,strServer,strSource,strCubeName 
- 
+
 '************************************************************************ 
 '*** Set Session Variables 
 '************************************************************************ 
@@ -43,12 +43,12 @@ Session("ServerName") = Request.Form("strServerName")
 Session("chkDim") = Request.Form("chkDimension") 
 Session("chkHier") =  Request.Form("chkHierarchy") 
 Session("chkLev") =  Request.Form("chkLevel") 
- 
+
 '************************************************************************ 
 '*** Create Catalog Object 
 '************************************************************************************ 
 Set cat = Server.CreateObject("ADOMD.Catalog") 
- 
+
 If Len(Session("ServerName")) > 0 Then 
    cat.ActiveConnection = "Data Source='" &; Session("ServerName") &; "';Initial Catalog='" &; Session("CatalogName") &; "';Provider='msolap';" 
 Else 
@@ -62,14 +62,14 @@ OLAPServerName = "Please set to present OLAP Server"
    Session("ServerName") = OLAPServerName 
    Session("InitialCatalog") = "FoodMart" 
 End if 
- 
+
 If Len(Session("CubeName")) > 0 Then 
    Set cdf = cat.CubeDefs(Session("CubeName")) 
 Else 
    Set cdf = cat.CubeDefs("Sales") 
    Session("CubeName")="Sales" 
 End if 
- 
+
 '************************************************************************ 
 '*** Collect Information in HTML Form 
 '************************************************************************ 
@@ -79,17 +79,17 @@ End if
    <tr> 
       <td> 
       <b>Olap Server name:  </b><br><input type="text" id="strServerName" name="strServerName" value="<%=Session("ServerName")%>" size="20"><br> 
- 
+
       <b>Catalog Name:  </b><br><input type="text" id="strCatalogName" name="strCatalogName" value="<%=Session("CatalogName")%>" size="20"><br> 
- 
+
       <b>Cube Name:  </b><br><input type="text" id="strCubeName" name="strCubeName" value="<%=Session("CubeName")%>" size="20"> 
       </td> 
       <td <TD> 
          <b>Add Property Detail:  </b><br> 
          Dimension Detail: <input type="checkbox" id="chkDimension" name="chkDimension"><br> 
- 
+
          Hierarchy Detail: <input type="checkbox" id="chkHierarchy" name="chkHierarchy"><br> 
- 
+
          Level Detail: <input type="checkbox" id="chkLevel" name="chkLevel"> 
       </td>  
    </tr> 
@@ -97,13 +97,13 @@ End if
 <input type="submit" value="Cube Information" id="submit1" name="submit1"><input type="reset" value="Reset" id="reset1" name="reset1"> 
 </form> 
 <% 
- 
+
 '************************************************************************ 
 '*** Start of Report 
 '************************************************************************ 
 Response.Write "<H3>Report for " &; Session("CubeName") &; " Cube</H3>" 
 Response.Write "<OL TYPE='i'>" 
- 
+
 '************************************************************************ 
 '*** Show properties of Cube 
 '************************************************************************ 
@@ -187,7 +187,6 @@ Response.Write "<OL TYPE='i'>"
 %> 
 </body> 
 </html> 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

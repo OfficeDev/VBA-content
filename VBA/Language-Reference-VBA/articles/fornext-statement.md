@@ -24,21 +24,23 @@ Repeats a group of [statements](vbe-glossary.md) a specified number of times.
 The  **For…Next** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _counter_|Required. Numeric [variable](vbe-glossary.md) used as a loop counter. The variable can't be a[Boolean](vbe-glossary.md) or an[array](vbe-glossary.md) element.|
-| _start_|Required. Initial value of  _counter_.|
-| _end_|Required. Final value of  _counter_.|
-| _step_|Optional. Amount  _counter_ is changed each time through the loop. If not specified, _step_ defaults to one.|
-| _statements_|Optional. One or more statements between  **For** and **Next** that are executed the specified number of times.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                   |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>counter</em>      | Required. Numeric [variable](vbe-glossary.md) used as a loop counter. The variable can't be a[Boolean](vbe-glossary.md) or an[array](vbe-glossary.md) element. |
+| <em>start</em>        | Required. Initial value of  <em>counter</em>.                                                                                                                  |
+| <em>end</em>          | Required. Final value of  <em>counter</em>.                                                                                                                    |
+| <em>step</em>         | Optional. Amount  <em>counter</em> is changed each time through the loop. If not specified, <em>step</em> defaults to one.                                     |
+| <em>statements</em>   | Optional. One or more statements between  <strong>For</strong> and <strong>Next</strong> that are executed the specified number of times.                      |
+
  **Remarks**
 The  _step_[argument](vbe-glossary.md) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
 
 
-|**Value**|**Loop executes if**|
-|:-----|:-----|
-|Positive or 0| _counter_ <= _end_|
-|Negative| _counter_ >= _end_|
+| <strong>Value</strong> | <strong>Loop executes if</strong> |
+|:-----------------------|:----------------------------------|
+| Positive or 0          | <em>counter</em> <= <em>end</em>  |
+| Negative               | <em>counter</em> >= <em>end</em>  |
+
 After all statements in the loop have executed,  _step_ is added to _counter_. At this point, either the statements in the loop execute again (based on the same test that caused the loop to execute initially), or the loop is exited and execution continues with the statement following the **Next** statement.
 
  **Tip**  Changing the value of  _counter_ while inside a loop can make it more difficult to read and debug your code.
@@ -56,7 +58,6 @@ For I = 1 To 10
  Next K 
  Next J 
 Next I 
-
 ```
 
 
@@ -76,7 +77,6 @@ For Words = 10 To 1 Step -1 ' Set up 10 repetitions.
  Next Chars ' Increment counter 
  MyString = MyString &; " " ' Append a space. 
 Next Words 
-
 ```
 
 

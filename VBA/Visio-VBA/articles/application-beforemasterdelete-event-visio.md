@@ -15,7 +15,7 @@ Occurs before a master is deleted from a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeMasterDelete**( **_ByVal Master As [IVMASTER]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeMasterDelete</strong>( **_ByVal Master As [IVMASTER]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

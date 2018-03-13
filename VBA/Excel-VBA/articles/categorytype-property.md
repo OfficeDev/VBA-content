@@ -18,9 +18,11 @@ Returns or sets the category axis type. Read/write XlCategoryType .
 
 
 |XlCategoryType can be one of these XlCategoryType constants.|
-| **xlCategoryScale**|
-| **xlAutomaticScale**|
-| **xlTimeScale**|
+| <strong>xlCategoryScale</strong>|
+| 
+<strong>xlAutomaticScale</strong>|
+| 
+<strong>xlTimeScale</strong>|
 
  _expression_. **CategoryType**
 

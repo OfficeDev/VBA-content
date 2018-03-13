@@ -43,13 +43,13 @@ The following example tests each picture in the active publication, and prints s
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
- 
+
  Debug.Print "File Name: " &; .Filename 
  Debug.Print "Original File Size: " &; .OriginalFileSize &; " bytes" 
  Debug.Print "File size in publication: " &; .FileSize &; " bytes" 
@@ -57,7 +57,6 @@ For Each pgLoop In ActiveDocument.Pages
  End If 
  Next shpLoop 
 Next pgLoop 
-
 ```
 
 

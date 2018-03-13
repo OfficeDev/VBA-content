@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Cannot group on fields selected with '*'. (Error 3121)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -21,10 +21,9 @@ Possible cause:
 
 
 - You created an SQL statement that includes an aggregate function or GROUP BY clause that refers to a field you selected with an asterisk. This error occurs, for example, if you enter the following SQL statement:
-    
+
 ```sql
   SELECT * FROM Orders GROUP BY ShipVia; 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

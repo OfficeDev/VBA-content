@@ -42,7 +42,7 @@ The worksheet name is shown on the tab for the worksheet. Use the [Name](http://
 
 
 ```
- 
+
 Dim strPassword As String 
 strPassword = InputBox ("Enter the password for the worksheet") 
 Worksheets("Sheet1").Protect password:=strPassword, scenarios:=True
@@ -65,13 +65,13 @@ This example uses the BeforeDoubleClick event to open a specified set of files i
 
 
 - Cell A1 must contain the names of the files to open, each separated by a comma and a space.
-    
+
 - Cell D1 must contain the path to where the Notepad files are located.
-    
+
 - Cell D2 must contain the path to where the Notepad program is located.
-    
+
 - Cell D3 must contain the file extension, without the period, for the Notepad files (txt).
-    
+
 When you double-click cell A1, the files specified in cell A1 are opened in Notepad.
 
 
@@ -81,23 +81,23 @@ When you double-click cell A1, the files specified in cell A1 are opened in Note
 Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
    'Define your variables.
    Dim sFile As String, sPath As String, sTxt As String, sExe As String, sSfx As String
-   
+
    'If you did not double-click on A1, then exit the function.
    If Target.Address <> "$A$1" Then Exit Sub
-   
+
    'If you did double-click on A1, then override the default double-click behaviour with this function.
    Cancel = True
-   
+
    'Set the path to the files, the path to Notepad, the file extension of the files, and the names of the files,
    'based on the information in the worksheet.
    sPath = Range("D1").Value
    sExe = Range("D2").Value
    sSfx = Range("D3").Value
    sFile = Range("A1").Value
-   
+
    'Remove the spaces between the file names.
    sFile = WorksheetFunction.Substitute(sFile, " ", "")
-   
+
    'Go through each file in the list (separated by commas) and
    'create the path, call the executable, and move on to the next comma.
    Do While InStr(sFile, ",")
@@ -105,7 +105,7 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
       If Dir(sTxt) <> "" Then Shell sExe &amp; " " &amp; sTxt, vbNormalFocus
       sFile = Right(sFile, Len(sFile) - InStr(sFile, ","))
    Loop
-   
+
    'Finish off the last file name in the list
    sTxt = sPath &amp; "\" &amp; sFile &amp; "." &amp; sSfx
    If Dir(sTxt) <> "" Then Shell sExe &amp; " " &amp; sTxt, vbNormalNoFocus
@@ -239,11 +239,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Other resources

@@ -20,10 +20,11 @@ For all other controls and objects _object_. **Name** [= _String_ ]
 The  **Name** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. The name you want to assign to the font or control.|
+| <strong>Part</strong> | <strong>Description</strong>                                  |
+|:----------------------|:--------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                     |
+| <em>String</em>       | Optional. The name you want to assign to the font or control. |
+
  **Settings**
 Guidelines for assigning a string to  **Name**, such as the maximum length of the name, vary from one application to another.
  **Remarks**

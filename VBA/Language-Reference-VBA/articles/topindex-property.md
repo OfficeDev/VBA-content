@@ -21,10 +21,11 @@ Sets and returns the item that appears in the topmost position in the list.
 The  **TopIndex** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Variant_|Optional. The number of the list item that is displayed in the topmost position. The default is 0, or the first item in the list.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                      |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                                                                         |
+| <em>Variant</em>      | Optional. The number of the list item that is displayed in the topmost position. The default is 0, or the first item in the list. |
+
  **Settings**
 Returns the value -1 if the list is empty or not displayed.
 

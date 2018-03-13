@@ -20,8 +20,9 @@ Returns or sets the text background type. This property is used only for text on
 
 
 |XlBackground can be one of these XlBackground constants.|
-| **xlBackgroundAutomatic**|
-| **xlBackgroundOpaque** **xlBackgroundTransparent**|
+| <strong>xlBackgroundAutomatic</strong>|
+| 
+<strong>xlBackgroundOpaque</strong> <strong>xlBackgroundTransparent</strong>|
 
  _expression_. **Background**
 

@@ -34,7 +34,6 @@ With ActiveProtectedViewWindow
  .Height = 400 
  .Width = 500 
 End With 
-
 ```
 
 

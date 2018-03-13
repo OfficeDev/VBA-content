@@ -50,7 +50,6 @@ Since the filter is applied to the rows in the  **Table** object, this is equiva
 ```
 criteria = "[LastModificationTime] < '" &; Format$("6/12/2005 3:30PM","General Date") &; "'"criteria = "@SQL=" &; Chr(34) &; "DAV:getlastmodified" &; Chr(34) 
  &; " < '" &; Format$("6/12/2005 3:30PM","General Date") &; "'" 
-
 ```
 
 For more information on specifying filters for the  **Table** object, see[Filtering Items](http://msdn.microsoft.com/library/4038e042-1b07-5d18-18b0-c2b58c9c42da%28Office.15%29.aspx).
@@ -75,15 +74,15 @@ Sub RestrictTable()
  Dim oRow As Outlook.Row 
  Dim oTable As Outlook.Table 
  Dim oFolder As Outlook.Folder 
- 
+
  'Get a Folder object for the Inbox 
  Set oFolder = Application.Session.GetDefaultFolder(olFolderInbox) 
- 
+
  'Define Filter to obtain items last modified after November 1, 2005 
  Filter = "[LastModificationTime] > '11/1/2005'" 
  'Restrict with Filter 
  Set oTable = oFolder.GetTable(Filter) 
- 
+
  'Enumerate the table using test for EndOfTable 
  Do Until (oTable.EndOfTable) 
  Set oRow = oTable.GetNextRow() 

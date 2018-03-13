@@ -18,12 +18,17 @@ Returns or sets the shape used with the specified 3-D bar or column chart. Read/
 
 
 |XlBarShape can be one of these XlBarShape constants.|
-| **xlConeToMax**|
-| **xlCylinder**|
-| **xlPyramidToPoint**|
-| **xlBox**|
-| **xlConeToPoint**|
-| **xlPyramidToMax**|
+| <strong>xlConeToMax</strong>|
+| 
+<strong>xlCylinder</strong>|
+| 
+<strong>xlPyramidToPoint</strong>|
+| 
+<strong>xlBox</strong>|
+| 
+<strong>xlConeToPoint</strong>|
+| 
+<strong>xlPyramidToMax</strong>|
 
  _expression_. **BarShape**
 

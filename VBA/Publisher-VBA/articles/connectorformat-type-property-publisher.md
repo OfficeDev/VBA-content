@@ -29,8 +29,11 @@ The  **Type** property value can be one of these **MsoConnectorType** constants.
 
 
 
-| **msoConnectorCurve**|
-| **msoConnectorElbow**|
-| **msoConnectorStraight**|
-| **msoConnectorTypeMixed**|
+| <strong>msoConnectorCurve</strong>|
+| 
+<strong>msoConnectorElbow</strong>|
+| 
+<strong>msoConnectorStraight</strong>|
+| 
+<strong>msoConnectorTypeMixed</strong>|
 

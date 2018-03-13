@@ -48,8 +48,6 @@ With ActivePresentation.Slides(1).SlideShowTransition
     .AdvanceTime = 5
 
 End With
-
-
 ```
 
 

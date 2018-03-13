@@ -30,18 +30,29 @@ The value of the  **ViewType** property can be one of these **PpViewType** const
 
 ||
 |:-----|
-|**ppViewHandoutMaster**|
-|**ppViewMasterThumbnails**|
-|**ppViewNormal**|
-|**ppViewNotesMaster**|
-|**ppViewNotesPage**|
-|**ppViewOutline**|
-|**ppViewPrintPreview**|
-|**ppViewSlide**|
-|**ppViewSlideMaster**|
-|**ppViewSlideSorter**|
-|**ppViewThumbnails**|
-|**ppViewTitleMaster**|
+|<strong>ppViewHandoutMaster</strong>|
+|
+<strong>ppViewMasterThumbnails</strong>|
+|
+<strong>ppViewNormal</strong>|
+|
+<strong>ppViewNotesMaster</strong>|
+|
+<strong>ppViewNotesPage</strong>|
+|
+<strong>ppViewOutline</strong>|
+|
+<strong>ppViewPrintPreview</strong>|
+|
+<strong>ppViewSlide</strong>|
+|
+<strong>ppViewSlideMaster</strong>|
+|
+<strong>ppViewSlideSorter</strong>|
+|
+<strong>ppViewThumbnails</strong>|
+|
+<strong>ppViewTitleMaster</strong>|
 
 ## Example
 

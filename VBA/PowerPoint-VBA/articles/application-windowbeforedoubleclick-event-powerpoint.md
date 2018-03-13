@@ -38,11 +38,12 @@ For information about using events with the  **Application** object, see[How to:
 
 
 
-|**View**|**Item**|
-|:-----|:-----|
-|Normal or slide view|Shape|
-|Slide sorter view|Slide|
-|Notes page view|Slide image|
+| <strong>View</strong> | <strong>Item</strong> |
+|:----------------------|:----------------------|
+| Normal or slide view  | Shape                 |
+| Slide sorter view     | Slide                 |
+| Notes page view       | Slide image           |
+
 The default double-click action occurs after this event unless the Cancel argument is set to  **True**.
 
 

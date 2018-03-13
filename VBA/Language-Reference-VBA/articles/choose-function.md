@@ -19,10 +19,11 @@ Selects and returns a value from a list of [arguments](vbe-glossary.md).
 The  **Choose** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _index_|Required. [Numeric expression](vbe-glossary.md) or field that results in a value between 1 and the number of available choices.|
-| _choice_|Required. [Variant expression](vbe-glossary.md) containing one of the possible choices.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                    |
+|:----------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| <em>index</em>        | Required. [Numeric expression](vbe-glossary.md) or field that results in a value between 1 and the number of available choices. |
+| <em>choice</em>       | Required. [Variant expression](vbe-glossary.md) containing one of the possible choices.                                         |
+
  **Remarks**
  **Choose** returns a value from the list of choices based on the value of _index_. If _index_ is 1, **Choose** returns the first choice in the list; if _index_ is 2, it returns the second choice, and so on.
 You can use  **Choose** to look up a value in a list of possibilities. For example, if _index_ evaluates to 3 and _choice-1_ = "one", _choice-2_ = "two", and _choice-3_ = "three", **Choose** returns "three". This capability is particularly useful if _index_ represents the value in an option group.

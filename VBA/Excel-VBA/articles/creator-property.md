@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 
 |XlCreator can be one of these XlCreator constants.|
-| **xlCreatorCode**|
+| <strong>xlCreatorCode</strong>|
 
  _expression_. **Creator**
 

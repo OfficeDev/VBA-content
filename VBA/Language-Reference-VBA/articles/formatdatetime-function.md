@@ -20,10 +20,11 @@ Returns an expression formatted as a date or time.
 The  **FormatDateTime** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _Date_|Required. Date expression to be formatted.|
-| _NamedFormat_|Optional. Numeric value that indicates the date/time format used. If omitted,  **vbGeneralDate** is used.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                           |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| <em>Date</em>         | Required. Date expression to be formatted.                                                                             |
+| <em>NamedFormat</em>  | Optional. Numeric value that indicates the date/time format used. If omitted,  <strong>vbGeneralDate</strong> is used. |
+
  **Settings**
 The  _NamedFormat_ argument has the following settings:
 

@@ -54,7 +54,7 @@ Sub ChangeScale()
         .ToX = 100
         .ToY = 100
     End With
-	
+    
 End Sub
 ```
 

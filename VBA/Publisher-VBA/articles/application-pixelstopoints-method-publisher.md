@@ -49,25 +49,24 @@ This example converts measurements in pixels entered by the user to measurements
 ```vb
 Dim strInput As String 
 Dim strOutput As String 
- 
+
 Do While True 
  ' Get input from user. 
  strInput = InputBox( _ 
  Prompt:="Enter measurement in pixels (0 to cancel): ", _ 
  Default:="0") 
- 
+
  ' Exit the loop if user enters zero. 
  If Val(strInput) = 0 Then Exit Do 
- 
+
  ' Evaluate and display result. 
  strOutput = Trim(strInput) &; " pixels = " _ 
  &; Format(Application _ 
  .PixelsToPoints(Value:=Val(strInput)), _ 
  "0.00") &; " points" 
- 
+
  MsgBox strOutput 
 Loop 
-
 ```
 
 

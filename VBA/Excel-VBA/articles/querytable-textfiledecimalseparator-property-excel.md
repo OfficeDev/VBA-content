@@ -31,13 +31,14 @@ The following table shows the results when you import text into Microsoft Excel 
 
 
 
-|**System decimal separator**|**System thousands separator**|**TextFileDecimalSeparator value**|**TextFileThousandsSeparator value**|**Text imported**|**Cell value (data type)**|
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|Period|Comma|Comma|Period|123.123,45|123,123.45 (numeric)|
-|Period|Comma|Comma|Comma|123.123,45|123.123,45 (text)|
-|Comma|Period|Comma|Period|123,123.45|123,123.45 (numeric)|
-|Period|Comma|Period|Comma|123 123.45|123 123.45 (text)|
-|Period|Comma|Period|Space|123 123.45|123,123.45 (numeric)|
+| <strong>System decimal separator</strong> | <strong>System thousands separator</strong> | <strong>TextFileDecimalSeparator value</strong> | <strong>TextFileThousandsSeparator value</strong> | <strong>Text imported</strong> | <strong>Cell value (data type)</strong> |
+|:------------------------------------------|:--------------------------------------------|:------------------------------------------------|:--------------------------------------------------|:-------------------------------|:----------------------------------------|
+| Period                                    | Comma                                       | Comma                                           | Period                                            | 123.123,45                     | 123,123.45 (numeric)                    |
+| Period                                    | Comma                                       | Comma                                           | Comma                                             | 123.123,45                     | 123.123,45 (text)                       |
+| Comma                                     | Period                                      | Comma                                           | Period                                            | 123,123.45                     | 123,123.45 (numeric)                    |
+| Period                                    | Comma                                       | Period                                          | Comma                                             | 123 123.45                     | 123 123.45 (text)                       |
+| Period                                    | Comma                                       | Period                                          | Space                                             | 123 123.45                     | 123,123.45 (numeric)                    |
+
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](querytable-object-excel.md)** object, while all other external data is imported as a **[ListObject](listobject-object-excel.md)** object.
 
 If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .

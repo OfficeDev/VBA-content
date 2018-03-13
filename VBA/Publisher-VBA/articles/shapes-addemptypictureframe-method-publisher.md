@@ -53,17 +53,15 @@ This example places an empty picture frame in the center of the first page of th
 
 ```vb
 Dim shpPlaceholder As Shape 
- 
+
 Set shpPlaceholder = _ 
  ActiveDocument.Pages(1).Shapes.AddEmptyPictureFrame( _ 
  230, 320, 150, 150) 
- 
+
 With shpPlaceholder 
  .AlternativeText = "Picture Placeholder 1" 
  .Rotation = 45 
 End With 
- 
-
 ```
 
 

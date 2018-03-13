@@ -29,16 +29,25 @@ Returns a constant that describes the part of the  **[PivotTable](pivottable-obj
 
 
 
-| **XlLocationInTable** can be one of these **XlLocationInTable** constants.|
-| **xlRowHeader**|
-| **xlColumnHeader**|
-| **xlPageHeader**|
-| **xlDataHeader**|
-| **xlRowItem**|
-| **xlColumnItem**|
-| **xlPageItem**|
-| **xlDataItem**|
-| **xlTableBody**|
+| <strong>XlLocationInTable</strong> can be one of these <strong>XlLocationInTable</strong> constants.|
+| 
+<strong>xlRowHeader</strong>|
+| 
+<strong>xlColumnHeader</strong>|
+| 
+<strong>xlPageHeader</strong>|
+| 
+<strong>xlDataHeader</strong>|
+| 
+<strong>xlRowItem</strong>|
+| 
+<strong>xlColumnItem</strong>|
+| 
+<strong>xlPageItem</strong>|
+| 
+<strong>xlDataItem</strong>|
+| 
+<strong>xlTableBody</strong>|
 
 ## Example
 

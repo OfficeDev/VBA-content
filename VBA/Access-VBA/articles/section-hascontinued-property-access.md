@@ -29,10 +29,11 @@ The  **HasContinued** property is set by Microsoft Access and is read-only in al
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Part of the current section has been printed on the previous page.|
-|**False**|Part of the current section hasn't been printed on the previous page.|
+| <strong>Value</strong> | <strong>Description</strong>                                          |
+|:-----------------------|:----------------------------------------------------------------------|
+| <strong>True</strong>  | Part of the current section has been printed on the previous page.    |
+| <strong>False</strong> | Part of the current section hasn't been printed on the previous page. |
+
 You can use this property to determine whether to show or hide certain controls depending on the value of the property. For example, you may have a hidden label in a page header containing the text "Continued from previous page". If the value of the  **HasContinued** property is **True**, you can make the hidden label visible.
 
 

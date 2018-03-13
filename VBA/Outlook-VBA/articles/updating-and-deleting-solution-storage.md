@@ -20,7 +20,7 @@ Attempting to save to a  **StorageItem** object that has been deleted will resul
 
 ## Deleting Solution Storage
 
-Solutions can remove a  **StorageItem** object by calling ** [StorageItem.Delete](storageitem-delete-method-outlook.md)**. This call permanently removes the object from the folder; it does not move it to the  **Deleted Items** folder. This allows a solution to clean up or reset the storage for its private data.
+Solutions can remove a  <strong>StorageItem</strong> object by calling ** [StorageItem.Delete](storageitem-delete-method-outlook.md)<strong>. This call permanently removes the object from the folder; it does not move it to the  **Deleted Items</strong> folder. This allows a solution to clean up or reset the storage for its private data.
 
 Attempting to delete a  **StorageItem** that has been removed by a prior **StorageItem.Delete** call will result in the error, "Could not complete the deletion."
 

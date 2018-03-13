@@ -31,7 +31,6 @@ This example demonstrates the  **Option Private** statement, which is used at mo
 
 ```vb
 Option Private Module ' Indicates that module is private. 
-
 ```
 
 

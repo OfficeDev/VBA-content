@@ -40,7 +40,6 @@ The following code example removes all ephemeral locks from the active document.
 
 ```vb
 ActiveDocument.CoAuthoring.Locks.RemoveEphemeralLocks  
-
 ```
 
 

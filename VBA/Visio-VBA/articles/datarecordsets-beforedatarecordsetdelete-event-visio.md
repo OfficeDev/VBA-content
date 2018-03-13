@@ -21,7 +21,7 @@ Occurs before a  **DataRecordset** object is deleted from the **DataRecordsets**
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeDataRecordsetDelete**( **_ByVal DataRecordset As IVDATARECORDSET_** )
+Private Sub  <em>expression</em> <em><strong>BeforeDataRecordsetDelete</strong>( **_ByVal DataRecordset As IVDATARECORDSET</em>** )
 
  _expression_ An expression that returns a **DataRecordsets** object.
 

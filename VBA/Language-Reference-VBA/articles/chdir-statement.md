@@ -30,7 +30,6 @@ The  **ChDir** statement changes the default directory or folder but does not ch
 ChDir "D:\TMP" ' Make "D:\TMP" the current folder. 
 
 ChDrive "D"    ' Make "D" the current drive. 
-
 ```
 
 
@@ -39,7 +38,6 @@ On the Power Macintosh, the default drive always changes to the drive specified 
 
 ```
 ChDir "MacDrive:Tmp" ' On the Macintosh. 
-
 ```
 
 
@@ -63,7 +61,6 @@ This example uses the  **ChDir** statement to change the current directory or fo
 ' Assume "C:" is the current drive. The following statement changes 
 ' the default directory on drive "D:". "C:" remains the current drive. 
 ChDir "D:\WINDOWS\SYSTEM" 
-
 ```
 
 

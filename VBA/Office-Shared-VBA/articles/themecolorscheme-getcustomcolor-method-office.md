@@ -49,7 +49,6 @@ Dim tcsThemeColorScheme As ThemeColorScheme
 Dim csCustomColor As MsoRGBType 
 Set tcsThemeColorScheme = tTheme.ThemeColorScheme 
 csCustomColor = tcsThemeColorScheme.GetCustomColor("CheerfulColor") 
-
 ```
 
 

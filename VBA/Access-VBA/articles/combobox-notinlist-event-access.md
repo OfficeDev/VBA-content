@@ -67,7 +67,7 @@ Next add the following event procedure to the form. Switch to Form view and ente
 Private Sub Colors_NotInList(NewData As String, _ 
         Response As Integer) 
     Dim ctl As Control 
-     
+
     ' Return Control object that points to combo box. 
     Set ctl = Me!Colors 
     ' Prompt user to verify they wish to add new value. 
@@ -165,6 +165,7 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
@@ -172,6 +173,7 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

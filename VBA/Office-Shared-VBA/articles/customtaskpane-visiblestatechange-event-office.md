@@ -39,17 +39,17 @@ The following example, written in C#, creates a custom task pane and adds an Act
 ```
 object missing = Type.Missing; 
 public CustomTaskPane CTP = null; 
- 
+
 public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst) 
 { 
  CTP = CTPFactoryInst.CreateCTP("SampleActiveX.myControl", "Task Pane Example", missing); 
  sampleAX = (myControl)CTP.ContentControl; 
  sampleAX.InsertTextClicked += new InsertTextEventHandler(sampleAX_InsertTextClicked); 
  CTP.Visible = true; 
- 
+
  CTP.VisibleStateChange += new _CustomTaskPaneEvents_VisibleStateChangeEventHandler(CTP_VisibleStateChange); 
 } 
- 
+
 private void CTP_VisibleStateChange(object sender, string visiblestateArgs) 
 { 
  if (CTP.Visible) 
@@ -61,7 +61,6 @@ private void CTP_VisibleStateChange(object sender, string visiblestateArgs)
  Console.WriteLine("The custom task pane has been hidden"); 
  } 
 } 
-
 ```
 
 

@@ -18,7 +18,7 @@ Returns or sets a value for an entry in the Windows registry under the following
 
 ## Syntax
 
- _expression_ . **ProfileString**( **_Section_** , **_ Key_** )
+ <em>expression</em> . <strong>ProfileString</strong>( <strong><em>Section</em></strong> , <strong><em> Key</em></strong> )
 
  _expression_ An expression that returns a **[System](system-object-word.md)** object.
 

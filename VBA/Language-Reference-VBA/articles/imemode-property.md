@@ -21,27 +21,29 @@ Specifies the default [run time](vbe-glossary.md) mode of the[Input Method Edito
 The  **IMEMode** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmIMEMode_|Optional. The mode of the Input Method Editor (IME).|
+| <strong>Part</strong> | <strong>Description</strong>                         |
+|:----------------------|:-----------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                            |
+| <em>fmIMEMode</em>    | Optional. The mode of the Input Method Editor (IME). |
+
  **Settings**
 The settings for  _fmIMEMode_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmIMEModeNoControl_|0|Does not control IME (default).|
-| _fmIMEModeOn_|1|IME on.|
-| _fmIMEModeOff_|2|IME off. English mode.|
-| _fmIMEModeDisable_|3|IME off. User can't turn on IME by keyboard.|
-| _fmIMEModeHiragana_|4|IME on with Full-width Hiragana mode.|
-| _fmIMEModeKatakana_|5|IME on with Full-width Katakana mode.|
-| _fmIMEModeKatakanaHalf_|6|IME on with Half-width Katakana mode.|
-| _fmIMEModeAlphaFull_|7|IME on with Full-width Alphanumeric mode.|
-| _fmIMEModeAlpha_|8|IME on with Half-width Alphanumeric mode.|
-| _fmIMEModeHangulFull_|9|IME on with Full-width Hangul mode.|
-| _fmIMEModeHangul_|10|IME on with Half-width Hangul mode.|
+| <strong>Constant</strong>      | <strong>Value</strong> | <strong>Description</strong>                 |
+|:-------------------------------|:-----------------------|:---------------------------------------------|
+| <em>fmIMEModeNoControl</em>    | 0                      | Does not control IME (default).              |
+| <em>fmIMEModeOn</em>           | 1                      | IME on.                                      |
+| <em>fmIMEModeOff</em>          | 2                      | IME off. English mode.                       |
+| <em>fmIMEModeDisable</em>      | 3                      | IME off. User can't turn on IME by keyboard. |
+| <em>fmIMEModeHiragana</em>     | 4                      | IME on with Full-width Hiragana mode.        |
+| <em>fmIMEModeKatakana</em>     | 5                      | IME on with Full-width Katakana mode.        |
+| <em>fmIMEModeKatakanaHalf</em> | 6                      | IME on with Half-width Katakana mode.        |
+| <em>fmIMEModeAlphaFull</em>    | 7                      | IME on with Full-width Alphanumeric mode.    |
+| <em>fmIMEModeAlpha</em>        | 8                      | IME on with Half-width Alphanumeric mode.    |
+| <em>fmIMEModeHangulFull</em>   | 9                      | IME on with Full-width Hangul mode.          |
+| <em>fmIMEModeHangul</em>       | 10                     | IME on with Half-width Hangul mode.          |
+
 The  **fmIMEModeNoControl** setting indicates that the mode of the IME does not change when the control receives[focus](vbe-glossary.md) at run time. For any other value, the mode of the IME is set to the value specified by the **IMEMode** property when the control receives focus at run time.
  **Remarks**
 There are two ways to set the mode of the IME. One is through the toolbar of the IME. The other is with the  **IMEMode** property of a control, which sets or returns the current mode of the IME. This property allows dynamic control of the IME through code.

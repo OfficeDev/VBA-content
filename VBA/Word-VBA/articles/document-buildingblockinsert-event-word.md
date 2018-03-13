@@ -18,7 +18,7 @@ Occurs when you insert a building block into a document. .
 
 ## Syntax
 
-Private Sub  _expression_ _**BuildingBlockInsert**( **_Range_** , **_Name_** , **_Category_** , **_Type_** , **_Template_** )
+Private Sub  <em>expression</em> <em><strong>BuildingBlockInsert</strong>( **_Range</em>** , <strong><em>Name</em></strong> , <strong><em>Category</em></strong> , <strong><em>Type</em></strong> , <strong><em>Template</em></strong> )
 
  _expression_ An expression that returns a **Document** object.
 

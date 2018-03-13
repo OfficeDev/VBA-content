@@ -38,25 +38,26 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**vbext_pk_Get**|A  **Property Get** procedure.|
-|**vbext_pk_Let**|A  **Property Let** procedure.|
-|**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
-|**vbext_pk_Set**|A  **Property Set** procedure.|
+| <strong>Constant</strong>      | <strong>Description</strong>                                    |
+|:-------------------------------|:----------------------------------------------------------------|
+| <strong>vbext_pk_Get</strong>  | A  <strong>Property Get</strong> procedure.                     |
+| <strong>vbext_pk_Let</strong>  | A  <strong>Property Let</strong> procedure.                     |
+| <strong>vbext_pk_Proc</strong> | A  <strong>Sub</strong> or <strong>Function</strong> procedure. |
+| <strong>vbext_pk_Set</strong>  | A  <strong>Property Set</strong> procedure.                     |
+
 The procedure begins with any comments and compilation constants that immediately precede the procedure definition, denoted by one of the following:
 
 
 - A  **Sub** statement.
-    
+
 - A  **Function** statement.
-    
+
 - A  **Property Get** statement.
-    
+
 - A  **Property Let** statement.
-    
+
 - A  **Property Set** statement.
-    
+
 The  **ProcCountLines** property returns the number of lines in a procedure, beginning with the line returned by the **[ProcStartLine](module-procstartline-property-access.md)** property and ending with the line that ends the procedure. The procedure may be ended with **End Sub**, **End Function**, or **End Property**.
 
 
@@ -71,10 +72,10 @@ The following example displays a message indicating the number of lines in a giv
 ```vb
 Dim strForm As String 
 Dim strProc As String 
- 
+
 strForm = "Products" 
 strProc = "Form_Activate" 
- 
+
 MsgBox "There are " &; Forms(strForm).Module.ProcCountLines(strProc, vbext_pk_Proc) &; _ 
  " lines in the " &; strProc &; " procedure."
 ```

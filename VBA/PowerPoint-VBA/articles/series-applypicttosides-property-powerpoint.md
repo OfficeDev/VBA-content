@@ -42,8 +42,6 @@ With ActiveDocument.InlineShapes(1)
     End If
 
 End With
-
-
 ```
 
 

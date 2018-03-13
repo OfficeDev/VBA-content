@@ -32,6 +32,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### PjResAssignOperation constants
 
 |**Constant**|**Description**|
@@ -42,6 +43,7 @@ _expression_ A variable that represents an **Application** object.
 |**pjChange**|Changes the resource units for the specified resource. This constant can be used only for a single resource.|
 
 <br/>
+
 
 ### Return value
 
@@ -60,7 +62,7 @@ End Sub
 
 > [!NOTE]
 > When using the _Resources_ parameter in this way, **D** specifies "Demand," **R** specifies "Request," and **N** specifies "None." In addition, spaces are not allowed between the units value and the Request/Demand value. For example, `Resources:="100%,R"` works, but `Resources:="100%, R"` does not.
-
+> 
 > The Resource Substitution Wizard cannot substitute material resources. Therefore, you cannot request or demand a material resource for a particular assignment by using the _Resources_ parameter.
 
 
@@ -71,21 +73,21 @@ The following example prompts the user for the name of a resource, and then assi
 
 ```vb
 Sub AssignResourceToSelectedTasks() 
- 
+
     Dim Entry As String     ' The name of the resource to add to selected tasks 
     Dim R As Resource       ' Resource object used in For Each...Next loop 
     Dim Found As Boolean    ' Whether or not the resource is in the active project 
- 
+
     Entry = InputBox$("Enter the name of the resource you want to add to the selected tasks.") 
-     
+
     ' Assume resource doesn't exist in the active project. 
     Found = False 
- 
+
     ' Look for the resource. 
     For Each R In ActiveProject.Resources 
         If Entry = R.Name Then Found = True 
     Next R 
- 
+
     ' If the resource is found, then assign it to selected tasks. 
     If Found Then 
         ResourceAssignment Resources:=Entry, Operation:=pjAssign 
@@ -93,7 +95,7 @@ Sub AssignResourceToSelectedTasks()
     Else 
         MsgBox ("There is no resource in the active project named " &; Entry &; ".") 
     End If 
-     
+
 End Sub
 ```
 

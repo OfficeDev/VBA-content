@@ -20,11 +20,12 @@ Adds a key and item pair to a  **Dictionary** object.
 The  **Add** method has the following parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **Dictionary** object.|
-| _key_|Required. The key associated with the item being added.|
-| _item_|Required. The item associated with the key being added.|
+| <strong>Part</strong> | <strong>Description</strong>                                        |
+|:----------------------|:--------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>Dictionary</strong> object. |
+| <em>key</em>          | Required. The key associated with the item being added.             |
+| <em>item</em>         | Required. The item associated with the key being added.             |
+
  **Remarks**
 An error occurs if the  _key_ already exists.
 

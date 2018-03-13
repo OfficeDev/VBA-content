@@ -45,7 +45,6 @@ The following example determines whether an XML expansion pack is attached to th
  objSmartDoc.SolutionID 
  End If 
  Set objSmartDoc = Nothing 
-
 ```
 
 

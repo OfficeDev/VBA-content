@@ -16,9 +16,11 @@ Constants passed to and returned by the  **Series.ParentDataLabelOption** proper
 
 
 |xlParentDataLabelOptionsBannerxlParentDataLabelOptionsNonexlParentDataLabelOptionsOverlapping|102|Banner parent data labelNo parent data labelOverlapping parent data label|
-| **xlParentDataLabelOptionsBanner**| **1**||
-| **xlParentDataLabelOptionsNone**| **0**||
-| **xlParentDataLabelOptionsOverlapping**| **2**||
+| <strong>xlParentDataLabelOptionsBanner</strong>| <strong>1</strong>||
+| 
+<strong>xlParentDataLabelOptionsNone</strong>| <strong>0</strong>||
+| 
+<strong>xlParentDataLabelOptionsOverlapping</strong>| <strong>2</strong>||
 
 ## See also
 

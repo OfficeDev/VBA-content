@@ -40,11 +40,10 @@ These are strings that the  **ProgID** property might return:
 
 
 ```
- 
+
 Visio.Drawing.5 
 MSGraph.Chart.5 
 Forms.CommandButton.1 
-
 ```
 
 After using a shape's  **Object** property to obtain an **IDispatch** interface on the object the shape represents, you can obtain the shape's **ClassID** or **ProgID** property to determine the methods and properties provided by that interface.
@@ -56,20 +55,20 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to get the  *
 
 
 ```vb
- 
+
 Public Sub ProgID_Example() 
- 
+
  Dim intCounter As Integer 
  Dim vsoOLEObjects As Visio.OLEObjects 
- 
+
  'Get the OLEObjects collection of the active page. 
  Set vsoOLEObjects = ActivePage.OLEObjects 
- 
+
  'Step through the OLEObjects collection. 
  For intCounter = 1 To vsoOLEObjects.Count 
  Debug.Print vsoOLEObjects(intCounter).ProgID 
  Next intCounter 
- 
+
 End Sub
 ```
 

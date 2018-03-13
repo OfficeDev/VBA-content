@@ -40,11 +40,10 @@ The following example displays a dialog box with details about the digital certi
 Sub SelectDigCertificate(ByVal strVerificationDetail As String) 
 Dim objSignatureInfo As SignatureInfo 
 Dim objDialog As Object 
- 
-objDialog = objSignatureInfo.SelectCertificateDetailByThumbprint(strVerificationDetail) 
- 
-End Sub 
 
+objDialog = objSignatureInfo.SelectCertificateDetailByThumbprint(strVerificationDetail) 
+
+End Sub 
 ```
 
 

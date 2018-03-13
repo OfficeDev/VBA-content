@@ -51,7 +51,6 @@ This example assumes that Sheet1 contains a table that has a header row. The exa
 Set tbl = ActiveCell.CurrentRegion 
 tbl.Offset(1, 0).Resize(tbl.Rows.Count - 1, _ 
  tbl.Columns.Count).Select 
-
 ```
 
 

@@ -21,9 +21,10 @@ Returns the currently selected  **Tab** or **Page** object.
 The  **SelectedItem** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid  **TabStrip** or **MultiPage**.|
+| <strong>Part</strong> | <strong>Description</strong>                                                |
+|:----------------------|:----------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid  <strong>TabStrip</strong> or <strong>MultiPage</strong>. |
+
  **Remarks**
 The  **SelectedItem** property is read-only. Use **SelectedItem** to programmatically control the currently selected **Tab** or **Page** object. For example, you can use **SelectedItem** to assign values to properties of a **Tab** or **Page** object.
 

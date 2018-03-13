@@ -18,10 +18,13 @@ Returns or sets the type of major tick mark for the specified axis. Read/write X
 
 
 |XlTickMark can be one of these XlTickMark constants.|
-| **xlTickMarkCross**|
-| **xlTickMarkInside**|
-| **xlTickMarkNone**|
-| **xlTickMarkOutside**|
+| <strong>xlTickMarkCross</strong>|
+| 
+<strong>xlTickMarkInside</strong>|
+| 
+<strong>xlTickMarkNone</strong>|
+| 
+<strong>xlTickMarkOutside</strong>|
 
  _expression_. **MajorTickMark**
 

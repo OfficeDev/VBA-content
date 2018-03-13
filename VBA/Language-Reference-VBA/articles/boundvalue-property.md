@@ -21,28 +21,30 @@ Contains the value of a control when that control receives the focus.
 The  **BoundValue** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Variant_|Optional. The current state or content of the control.|
+| <strong>Part</strong> | <strong>Description</strong>                           |
+|:----------------------|:-------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                              |
+| <em>Variant</em>      | Optional. The current state or content of the control. |
+
  **Settings**
 
 
-|**Control**|**Description**|
-|:-----|:-----|
-|**CheckBox**|An integer value indicating whether the item is selected:|
-||Null Indicates the item is in a null state, neither selected nor [cleared](glossary-vba.md).|
-||-1 True. Indicates the item is selected.|
-||0 False. Indicates the item is cleared.|
-|**OptionButton**|Same as  **CheckBox**.|
-|**ToggleButton**|Same as  **CheckBox**.|
-|**ScrollBar**|An integer between the values specified for the  **Max** and **Min** properties.|
-|**SpinButton**|Same as  **ScrollBar**.|
-|**ComboBox, ListBox**|The value in the  **BoundColumn** of the currently selected rows.|
-|**CommandButton**|Always  **False**.|
-|**MultiPage**|An integer indicating the currently active page.|
-||Zero (0) indicates the first page. The maximum value is one less than the number of pages.|
-|**TextBox**|The text in the edit region.|
+| <strong>Control</strong>           | <strong>Description</strong>                                                                               |
+|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------|
+| <strong>CheckBox</strong>          | An integer value indicating whether the item is selected:                                                  |
+|                                    | Null Indicates the item is in a null state, neither selected nor [cleared](glossary-vba.md).               |
+|                                    | -1 True. Indicates the item is selected.                                                                   |
+|                                    | 0 False. Indicates the item is cleared.                                                                    |
+| <strong>OptionButton</strong>      | Same as  <strong>CheckBox</strong>.                                                                        |
+| <strong>ToggleButton</strong>      | Same as  <strong>CheckBox</strong>.                                                                        |
+| <strong>ScrollBar</strong>         | An integer between the values specified for the  <strong>Max</strong> and <strong>Min</strong> properties. |
+| <strong>SpinButton</strong>        | Same as  <strong>ScrollBar</strong>.                                                                       |
+| <strong>ComboBox, ListBox</strong> | The value in the  <strong>BoundColumn</strong> of the currently selected rows.                             |
+| <strong>CommandButton</strong>     | Always  <strong>False</strong>.                                                                            |
+| <strong>MultiPage</strong>         | An integer indicating the currently active page.                                                           |
+|                                    | Zero (0) indicates the first page. The maximum value is one less than the number of pages.                 |
+| <strong>TextBox</strong>           | The text in the edit region.                                                                               |
+
  **Remarks**
  **BoundValue** applies to the control that has the focus.
 The contents of the  **BoundValue** and **Value** properties are identical most of the time. When the user edits a control so that its value changes, the contents of **BoundValue** and **Value** are different until the change is final.
@@ -50,11 +52,11 @@ Several things occur when the user changes the value of a control. For example, 
 
 
 1. The  **Change** event is initiated. At this time the **Value** property contains the new text and **BoundValue** contains the previous text.
-    
+
 2. The  **BeforeUpdate** event is initiated.
-    
+
 3. The  **AfterUpdate** event is initiated. The values for **BoundValue** and **Value** are once again identical, containing the new text.
-    
+
 
  **BoundValue** cannot be used with a multi-select list box.
 

@@ -21,10 +21,11 @@ Returns or sets the selected text of a control.
 The  **SelText** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. A string expression containing the selected text.|
+| <strong>Part</strong> | <strong>Description</strong>                                |
+|:----------------------|:------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                   |
+| <em>String</em>       | Optional. A string expression containing the selected text. |
+
  **Remarks**
 If no characters are selected in the edit region of the control, the  **SelText** property returns a zero length string. This property is valid regardless of whether the control has the[focus](vbe-glossary.md).
 

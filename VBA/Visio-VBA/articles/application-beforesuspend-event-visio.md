@@ -15,7 +15,7 @@ Occurs before the operating system enters a suspended state.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeSuspend**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeSuspend</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

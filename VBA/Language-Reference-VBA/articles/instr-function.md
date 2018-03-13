@@ -19,34 +19,37 @@ Returns a  **Variant** ( **Long** ) specifying the position of the first occurre
 The  **InStr** function syntax has these[arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _start_|Optional. [Numeric expression](vbe-glossary.md) that sets the starting position for each search. If omitted, search begins at the first character position. If **_start_** contains[Null](vbe-glossary.md), an error occurs. The  **_start_** argument is required if **_compare_** is specified.|
-| _string1_|Required. [String expression](vbe-glossary.md) being searched.|
-| _string2_|Required. String expression sought.|
-| _compare_|Optional. Specifies the type of [string comparison](vbe-glossary.md). If  **_compare_** is Null, an error occurs. If **_compare_** is omitted, the **Option** **Compare** setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                           |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>start</em>        | Optional. [Numeric expression](vbe-glossary.md) that sets the starting position for each search. If omitted, search begins at the first character position. If <strong><em>start</em></strong> contains[Null](vbe-glossary.md), an error occurs. The  <strong><em>start</em></strong> argument is required if <strong><em>compare</em></strong> is specified.          |
+| <em>string1</em>      | Required. [String expression](vbe-glossary.md) being searched.                                                                                                                                                                                                                                                                                                         |
+| <em>string2</em>      | Required. String expression sought.                                                                                                                                                                                                                                                                                                                                    |
+| <em>compare</em>      | Optional. Specifies the type of [string comparison](vbe-glossary.md). If  <strong><em>compare</em></strong> is Null, an error occurs. If <strong><em>compare</em></strong> is omitted, the <strong>Option</strong> <strong>Compare</strong> setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison. |
+
  **Settings**
 The  _compare_ argument settings are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
-|**vbBinaryCompare**|0|Performs a binary comparison.|
-|**vbTextCompare**|1|Performs a textual comparison.|
-|**vbDatabaseCompare**|2|Microsoft Access only. Performs a comparison based on information in your database.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>                                                               |
+|:------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------|
+| <strong>vbUseCompareOption</strong> | -1                     | Performs a comparison using the setting of the  <strong>Option Compare</strong> statement. |
+| <strong>vbBinaryCompare</strong>    | 0                      | Performs a binary comparison.                                                              |
+| <strong>vbTextCompare</strong>      | 1                      | Performs a textual comparison.                                                             |
+| <strong>vbDatabaseCompare</strong>  | 2                      | Microsoft Access only. Performs a comparison based on information in your database.        |
+
  **Return Values**
 
 
-|**If**|**InStr returns**|
-|:-----|:-----|
-|**_string1_** is zero-length|0|
-|**_string1_** is **Null**|Null|
-|**_string2_** is zero-length|**_start_**|
-|**_string2_** is **Null**|Null|
-|**_string2_** is not found|0|
-|**_string2_** is found within **_string1_**|Position at which match is found|
-|**_start_** > **_string2_**|0|
+| <strong>If</strong>                                                                 | <strong>InStr returns</strong>   |
+|:------------------------------------------------------------------------------------|:---------------------------------|
+| <strong><em>string1</em></strong> is zero-length                                    | 0                                |
+| <strong><em>string1</em></strong> is <strong>Null</strong>                          | Null                             |
+| <strong><em>string2</em></strong> is zero-length                                    | <strong><em>start</em></strong>  |
+| <strong><em>string2</em></strong> is <strong>Null</strong>                          | Null                             |
+| <strong><em>string2</em></strong> is not found                                      | 0                                |
+| <strong><em>string2</em></strong> is found within <strong><em>string1</em></strong> | Position at which match is found |
+| <strong><em>start</em></strong> > <strong><em>string2</em></strong>                 | 0                                |
+
  **Remarks**
 The  **InStrB** function is used with byte data contained in a string. Instead of returning the character position of the first occurrence of one string within another, **InStrB** returns the byte position.
 

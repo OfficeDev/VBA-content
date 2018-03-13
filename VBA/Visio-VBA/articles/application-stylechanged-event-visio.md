@@ -15,7 +15,7 @@ Occurs after the name of a style is changed or a change to the style propagates 
 
 ## Syntax
 
-Private Sub  _expression_ _**StyleChanged**( **_ByVal Style As [IVSTYLE]_** )
+Private Sub  <em>expression</em> <em><strong>StyleChanged</strong>( **_ByVal Style As [IVSTYLE]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

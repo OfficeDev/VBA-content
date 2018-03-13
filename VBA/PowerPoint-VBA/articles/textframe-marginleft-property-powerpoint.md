@@ -44,8 +44,6 @@ With myDocument.Shapes.AddShape(msoShapeRectangle, _
     .MarginRight = 0
     .MarginTop = 20
 End With
-
-
 ```
 
 

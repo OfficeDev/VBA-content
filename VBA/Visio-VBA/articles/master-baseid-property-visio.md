@@ -48,7 +48,6 @@ If you know the base ID of a master, you can use the following code to retrieve 
 '{0478DA94-1315-9876-8E4C-006523ABC9B2} 
 Dim vsoMaster As Visio.Master 
 Set vsoMaster = Visio.ActiveDocument.Masters("B{0478DA94-1315-9876-8E4C-006523ABC9B2}") 
-
 ```
 
 If you know the base ID or the unique ID of a master, but are not sure which kind of ID it is, you can use the following code to retrieve the master from the  **Masters** collection of the active document:

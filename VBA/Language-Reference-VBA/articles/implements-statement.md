@@ -62,7 +62,7 @@ Public CustomerAgentId As Long
 Private Property Let PersonalData_Name(ByVal RHS As String)
     m_name = RHS
 End Property
- 
+
 Private Property Get PersonalData_Name() As String
     PersonalData_Name = m_name
 End Property
@@ -83,7 +83,6 @@ Private Sub Class_Initialize()
     m_address = "[customer address]"
     CustomerAgentID = 0
 End Sub
-
 ```
 
 Note that the PersonalData interface is implemented with members that are named with the interface name "PersonalData\_" as a prefix.
@@ -128,8 +127,6 @@ Private Sub Class_Initialize()
     m_address = "[supplier address]"
     NumberOfProductLines = 15
 End Sub
-
-
 ```
 
 The following code supports the Selector form:
@@ -140,13 +137,13 @@ The following code supports the Selector form:
 ```vb
 Private cust As New Customer 
 Private sup As New Supplier 
- 
+
 Private Sub Customer_Click() 
 Dim frm As New DataEntryForm 
  Set frm.PD = cust 
  frm.Show 1 
 End Sub 
- 
+
 Private Sub Supplier_Click() 
 Dim frm As New DataEntryForm
  Set frm.PD = sup 
@@ -181,7 +178,6 @@ End Sub
 Private Sub Text2_Change()
     m_pd.Address = Text2.Text
 End Sub
-
 ```
 
 Note how, in the data entry form, the m_pd variable is declared using the PersonalData interface, and it can be assigned objects of either the Customer or Supplier class since both classes implement the PersonalData interface.
@@ -207,6 +203,5 @@ End Property
 Public Property Get Address() As String
     Address = PersonalData_Address
 End Property
-
 ```
 

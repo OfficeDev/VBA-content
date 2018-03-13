@@ -43,23 +43,39 @@ The Unit parameter can be one of the  **PbTextUnit** constants declared in the M
 
 
 
-| **pbTextUnitCell**|
-| **pbTextUnitCharacter**|
-| **pbTextUnitCharFormat**|
-| **pbTextUnitCodePoint**|
-| **pbTextUnitColumn**|
-| **pbTextUnitLine**|
-| **pbTextUnitObject**|
-| **pbTextUnitParaFormat**|
-| **pbTextUnitParagraph**|
-| **pbTextUnitRow**|
-| **pbTextUnitScreen**|
-| **pbTextUnitSection**|
-| **pbTextUnitSentence**|
-| **pbTextUnitStory**|
-| **pbTextUnitTable**|
-| **pbTextUnitWindow**|
-| **pbTextUnitWord**|
+| <strong>pbTextUnitCell</strong>|
+| 
+<strong>pbTextUnitCharacter</strong>|
+| 
+<strong>pbTextUnitCharFormat</strong>|
+| 
+<strong>pbTextUnitCodePoint</strong>|
+| 
+<strong>pbTextUnitColumn</strong>|
+| 
+<strong>pbTextUnitLine</strong>|
+| 
+<strong>pbTextUnitObject</strong>|
+| 
+<strong>pbTextUnitParaFormat</strong>|
+| 
+<strong>pbTextUnitParagraph</strong>|
+| 
+<strong>pbTextUnitRow</strong>|
+| 
+<strong>pbTextUnitScreen</strong>|
+| 
+<strong>pbTextUnitSection</strong>|
+| 
+<strong>pbTextUnitSentence</strong>|
+| 
+<strong>pbTextUnitStory</strong>|
+| 
+<strong>pbTextUnitTable</strong>|
+| 
+<strong>pbTextUnitWindow</strong>|
+| 
+<strong>pbTextUnitWord</strong>|
 
 ## Example
 

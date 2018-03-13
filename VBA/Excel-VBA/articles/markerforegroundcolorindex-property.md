@@ -18,8 +18,9 @@ Returns or sets the marker foreground color as an index into the current color p
 
 
 |XlColorIndex can be one of these XlColorIndex constants.|
-| **xlColorIndexNone**|
-| **xlColorIndexAutomatic**|
+| <strong>xlColorIndexNone</strong>|
+| 
+<strong>xlColorIndexAutomatic</strong>|
 
  _expression_. **MarkerForegroundColorIndex**
 

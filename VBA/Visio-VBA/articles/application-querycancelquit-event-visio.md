@@ -15,7 +15,7 @@ Occurs before the application terminates in response to a user action in the int
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelQuit**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelQuit</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

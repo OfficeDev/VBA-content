@@ -45,19 +45,19 @@ You can use the **SendObject** action to include the specified Microsoft Access 
 The following rules apply when you use the **SendObject** action to include a database object in a mail message:
 
 - You can send table, query, and form datasheets. In the included object, all fields in the datasheet look as they do in Access, except fields containing OLE objects. The columns for these fields are included in the object, but the fields are blank.
-    
+
 - For a control bound to a **Yes/No** field (a toggle button, option button, or check box), the output file displays the value ?1 (Yes) or 0 (No).
-    
+
 - For a text box bound to a **Hyperlink** field, the output file displays the hyperlink for all output formats except MS-DOS text (in this case, the hyperlink is just displayed as normal text).
-    
+
 - If you send a form in Form view, the included object always contains the form's Datasheet view.
-    
+
 - If you send a report, the only controls that are included in the object are text boxes (for .xls files), or text boxes and labels (for .rtf, .txt, and .html files). All other controls are ignored. Header and footer information is also not included. The only exception to this is that when you send a report in Excel format, a text box in a group footer containing an expression with the  **Sum** function is included in the object. No other control in a header or footer (and no aggregate function other than **Sum**) is included in the object.
-    
+
 - Subreports are included in the object. Subforms are included when outputting to .asp, but only when outputting as a form (not a datasheet).
-    
+
 - When you send a datasheet, form, or data access page in HTML format, one .html file is created. When you send a report in HTML format, one .html file is created for each page in the report.
-    
+
 Modules can be sent only in MS-DOS Text format, so if you specify **acSendModule** for the _ObjectType_ argument, you must specify **acFormatTXT** for the _OutputFormat_ argument.
 
 
@@ -67,12 +67,12 @@ Modules can be sent only in MS-DOS Text format, so if you specify **acSendModule
 **Link provided by:**  ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](http://www.fmsinc.com/)
 
 - [Features and Limits of Using the SendObject Method to Send Emails](http://www.fmsinc.com/microsoftaccess/email/sendobject.html)
-    
+
 
 **Link provided by:**  ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 - [Email from Access](http://www.utteraccess.com/forum/Email-Access-t130485.html)
-    
+
 
 ## Example
 
@@ -99,7 +99,7 @@ Public Function CreateEmailWithOutlook( _
     ' Define app variable and get Outlook using the "New" keyword
     Dim olApp As New Outlook.Application
     Dim olMailItem As Outlook.MailItem  ' An Outlook Mail item
- 
+
     ' Create a new email object
     Set olMailItem = olApp.CreateItem(olMailItem)
 
@@ -129,7 +129,7 @@ Public Function SendEmailWithOutlook( _
     ' Define app variable and get Outlook using the "New" keyword
     Dim olApp As New Outlook.Application
     Dim olMailItem As Outlook.MailItem  ' An Outlook Mail item
- 
+
     ' Create a new email object
     Set olMailItem = olApp.CreateItem(olMailItem)
 
@@ -151,6 +151,7 @@ End Function
 
 ## About the contributors
 <a name="AboutContributors"> </a>
+
 
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 

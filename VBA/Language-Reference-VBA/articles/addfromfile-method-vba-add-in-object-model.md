@@ -19,10 +19,11 @@ For the  **References** collection, adds a reference to a[project](vbe-glossary.
 The  **AddFromFile** syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _filename_|Required. A [string expression](vbe-glossary.md) specifying the name of the file you want to add to the project or module. If the file name isn't found and a path name isn't specified, the directories searched by the **Windows OpenFile** function are searched.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                      |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.                                                                                                                                                                             |
+| <em>filename</em>     | Required. A [string expression](vbe-glossary.md) specifying the name of the file you want to add to the project or module. If the file name isn't found and a path name isn't specified, the directories searched by the <strong>Windows OpenFile</strong> function are searched. |
+
  **Remarks**
 For the  **CodeModule** object, the **AddFromFile** method inserts the contents of the file starting on the line preceding the first[procedure](vbe-glossary.md) in the[code module](vbe-glossary.md). If the module doesn't contain procedures,  **AddFromFile** places the contents of the file at the end of the module.
 

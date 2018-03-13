@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Refresh Method Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -86,8 +86,8 @@ MsgBox "Control goes back to user immediately"End If
 RDC.RefreshEnd Sub
 --></Script> 
 </body></html>
-<!-- EndRefreshVBS -->
 
+<!-- EndRefreshVBS -->
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

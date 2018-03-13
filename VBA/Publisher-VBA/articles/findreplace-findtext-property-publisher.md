@@ -42,7 +42,7 @@ This example replaces all occurrences of the word "This" in the selection with "
 
 ```vb
 Dim objDocument As Document 
- 
+
 For Each objDocument In Documents 
  With objDocument.Find 
  .Clear 
@@ -54,7 +54,6 @@ For Each objDocument In Documents
  .Execute 
  End With 
 Next objDocument 
-
 ```
 
 

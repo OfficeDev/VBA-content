@@ -34,7 +34,6 @@ With ActiveWorkbook
  "[Customer].[Customer Geography]").Slicers.Add SlicerDestination:="Sheet2", _ 
  Level:="[Customer].[Customer Geography].[Country]", Caption:="Country" 
 End With 
-
 ```
 
 

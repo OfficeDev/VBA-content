@@ -17,16 +17,18 @@ Deletes files from a disk.
 
  **Kill**_pathname_
 
-The required  _pathname_[argument](vbe-glossary.md) is a[string expression](vbe-glossary.md) that specifies one or more file names to be deleted. The _pathname_ may include the directory or folder, and the drive.
- **Remarks**
-In Microsoft Windows,  **Kill** supports the use of multiple-character ( **\*** ) and single-character ( **?** ) wildcards to specify multiple files. However, on the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
-Since the Macintosh doesn't support the wildcards, use the file type to identify groups of files to delete. You can use the  **MacID** function to specify file type instead of repeating the command with separate file names. For example, the following statement deletes all TEXT files in the current folder.
+The required  <em>pathname</em>[argument](vbe-glossary.md) is a[string expression](vbe-glossary.md) that specifies one or more file names to be deleted. The <em>pathname</em> may include the directory or folder, and the drive.
+ 
+<strong>Remarks</strong>
+In Microsoft Windows,  
+<strong>Kill</strong> supports the use of multiple-character ( <strong>\</strong>* ) and single-character ( <strong>?</strong> ) wildcards to specify multiple files. However, on the Macintosh, these characters are treated as valid file name characters and can't be used as wildcards to specify multiple files.
+Since the Macintosh doesn't support the wildcards, use the file type to identify groups of files to delete. You can use the  
+<strong>MacID</strong> function to specify file type instead of repeating the command with separate file names. For example, the following statement deletes all TEXT files in the current folder.
 
 
 
 ```vb
 Kill MacID("TEXT") 
-
 ```
 
 If you use the  **MacID** function with **Kill** in Microsoft Windows, an error occurs.
@@ -43,10 +45,9 @@ This example uses the  **Kill** statement to delete a file from a disk.
 ```vb
 ' Assume TESTFILE is a file containing some data. 
 Kill "TestFile" ' Delete file. 
- 
+
 ' Delete all *.TXT files in current directory. 
 Kill "*.TXT" 
-
 ```
 
 

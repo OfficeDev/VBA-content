@@ -48,18 +48,19 @@ For the PlacementDir parameter, pass a value from the  **VisAutoConnectDir** enu
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|visAutoConnectDirDown|2|Connect down.|
-|visAutoConnectDirLeft|3|Connect to the left.|
-|visAutoConnectDirNone|0|Connect without relocating the shapes.|
-|visAutoConnectDirRight|4|Connect to the right|
-|visAutoConnectDirUp|1|Connect up.|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong>           |
+|:--------------------------|:-----------------------|:---------------------------------------|
+| visAutoConnectDirDown     | 2                      | Connect down.                          |
+| visAutoConnectDirLeft     | 3                      | Connect to the left.                   |
+| visAutoConnectDirNone     | 0                      | Connect without relocating the shapes. |
+| visAutoConnectDirRight    | 4                      | Connect to the right                   |
+| visAutoConnectDirUp       | 1                      | Connect up.                            |
+
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVShape.AutoConnect(Microsoft.Office.Interop.Visio.Shape, Microsoft.Office.Interop.Visio.VisAutoConnectDir, object)**
-    
+
 
 ## Example
 
@@ -72,17 +73,17 @@ Because the example calls the method on the decision shape, Visio draws the conn
 
 ```vb
 Public Sub AutoConnect_Example() 
- 
+
     Dim vsoShape1 As Visio.Shape 
     Dim vsoShape2 As Visio.Shape 
     Dim vsoConnectorShape As Visio.Shape 
- 
+
     Set vsoShape1 = Visio.ActivePage.Shapes("Decision") 
     Set vsoShape2 = Visio.ActivePage.Shapes("Process") 
     Set vsoConnectorShape = Visio.ActivePage.Shapes("Dynamic connector") 
- 
+
     vsoShape1.AutoConnect vsoShape2, visAutoConnectDirRight, vsoConnectorShape 
- 
+
 End Sub
 ```
 

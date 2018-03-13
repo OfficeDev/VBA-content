@@ -40,31 +40,55 @@ Sets the specified fill to a preset gradient.
 
 
 |MsoPresetGradientType can be one of these MsoPresetGradientType constants.|
-| **msoGradientBrass**|
-| **msoGradientChrome**|
-| **msoGradientDaybreak**|
-| **msoGradientEarlySunset**|
-| **msoGradientFog**|
-| **msoGradientGoldII**|
-| **msoGradientLateSunset**|
-| **msoGradientMoss**|
-| **msoGradientOcean**|
-| **msoGradientPeacock**|
-| **msoGradientRainbowII**|
-| **msoGradientSilver**|
-| **msoGradientWheat**|
-| **msoPresetGradientMixed**|
-| **msoGradientCalmWater**|
-| **msoGradientChromeII**|
-| **msoGradientDesert**|
-| **msoGradientFire**|
-| **msoGradientGold**|
-| **msoGradientHorizon**|
-| **msoGradientMahogany**|
-| **msoGradientNightfall**|
-| **msoGradientParchment**|
-| **msoGradientRainbow**|
-| **msoGradientSapphire**|
+| <strong>msoGradientBrass</strong>|
+| 
+<strong>msoGradientChrome</strong>|
+| 
+<strong>msoGradientDaybreak</strong>|
+| 
+<strong>msoGradientEarlySunset</strong>|
+| 
+<strong>msoGradientFog</strong>|
+| 
+<strong>msoGradientGoldII</strong>|
+| 
+<strong>msoGradientLateSunset</strong>|
+| 
+<strong>msoGradientMoss</strong>|
+| 
+<strong>msoGradientOcean</strong>|
+| 
+<strong>msoGradientPeacock</strong>|
+| 
+<strong>msoGradientRainbowII</strong>|
+| 
+<strong>msoGradientSilver</strong>|
+| 
+<strong>msoGradientWheat</strong>|
+| 
+<strong>msoPresetGradientMixed</strong>|
+| 
+<strong>msoGradientCalmWater</strong>|
+| 
+<strong>msoGradientChromeII</strong>|
+| 
+<strong>msoGradientDesert</strong>|
+| 
+<strong>msoGradientFire</strong>|
+| 
+<strong>msoGradientGold</strong>|
+| 
+<strong>msoGradientHorizon</strong>|
+| 
+<strong>msoGradientMahogany</strong>|
+| 
+<strong>msoGradientNightfall</strong>|
+| 
+<strong>msoGradientParchment</strong>|
+| 
+<strong>msoGradientRainbow</strong>|
+| 
+<strong>msoGradientSapphire</strong>|
 
 ## Example
 

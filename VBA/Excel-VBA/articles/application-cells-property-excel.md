@@ -43,11 +43,11 @@ This example looks at data in each row and inserts a blank row each time the val
 Sub ChangeInsertRows()
     Application.ScreenUpdating = False
     Dim xRow As Long
-    
+
     For xRow = Application.Cells(Rows.Count, 1).End(xlUp).Row To 3 Step -1
         If Application.Cells(xRow, 1).Value <> Application.Cells(xRow - 1, 1).Value Then Rows(xRow).Resize(1).Insert
     Next xRow
-    
+
     Application.ScreenUpdating = True
 End Sub
 ```
@@ -56,11 +56,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 MVP Tom Urtis is the founder of Atlas Programming Management, a full-service Microsoft Office and Excel business solutions company in Silicon Valley. Tom has over 25 years of experience in business management and developing Microsoft Office applications, and is the coauthor of "Holy Macro! It's 2,500 Excel VBA Examples." 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Concepts

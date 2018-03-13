@@ -35,9 +35,11 @@ The value of the  **HorizontalAnchor** property can be one of these **MsoHorizon
 
 ||
 |:-----|
-|**msoAnchorNone**|
-|**msoHorizontalAnchorMixed**|
-|**msoAnchorCenter**|
+|<strong>msoAnchorNone</strong>|
+|
+<strong>msoHorizontalAnchorMixed</strong>|
+|
+<strong>msoAnchorCenter</strong>|
 
 ## Example
 
@@ -57,7 +59,7 @@ Public Sub HorizontalAnchor_Example()
 
     End With
 
-    
+
 
 End Sub
 ```

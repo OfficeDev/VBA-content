@@ -36,8 +36,6 @@ For I = 1 To 150000    ' Start loop.
         OpenForms = DoEvents    ' Yield to operating system.
     End If
 Next I    ' Increment loop counter.
-
-
 ```
 
 

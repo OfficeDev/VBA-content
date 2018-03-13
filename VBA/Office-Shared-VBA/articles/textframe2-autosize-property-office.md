@@ -27,10 +27,13 @@ The value of the  **AutoSize** property can be one of the following **MsoAutoSiz
 
 ||
 |:-----|
-|**msoAutoSizeMixed**|
-|**msoAutoSizeNone**|
-|**msoAutoSizeShapeToFitText**|
-|**msoAutoSizeTextToFitShape**|
+|<strong>msoAutoSizeMixed</strong>|
+|
+<strong>msoAutoSizeNone</strong>|
+|
+<strong>msoAutoSizeShapeToFitText</strong>|
+|
+<strong>msoAutoSizeTextToFitShape</strong>|
 
 ## Example
 

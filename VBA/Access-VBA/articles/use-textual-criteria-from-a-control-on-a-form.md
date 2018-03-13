@@ -32,7 +32,6 @@ If the current value of the control is  `King`, the following  _criteria_ argume
 
 ```
 "[LastName] = 'King'"
-
 ```
 
 Keep in mind that the entire string comprising the  _criteria_ argument must also be enclosed in double quotation marks once the strings have been concatenated.

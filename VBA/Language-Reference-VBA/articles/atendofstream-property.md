@@ -35,7 +35,6 @@ Do While a. AtEndOfStream <> True
     ...
 Loop
 a.Close
-
 ```
 
 

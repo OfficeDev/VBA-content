@@ -36,19 +36,18 @@ The following example displays the current value for the first wizard property i
 ```vb
 Dim valAll As WizardValues 
 Dim valLoop As WizardValue 
- 
+
 With ActiveDocument.Wizard 
  Set valAll = .Properties(1).Values 
- 
+
  MsgBox "Wizard: " &; .Name &; vbLf &; _ 
  "Property: " &; .Properties(1).Name &; vbLf &; _ 
  "Current value: " &; .Properties(1).CurrentValueId 
- 
+
  For Each valLoop In valAll 
  MsgBox "Possible value: " &; valLoop.ID &; " (" &; valLoop.Name &; ")" 
  Next valLoop 
 End With 
-
 ```
 
 

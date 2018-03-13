@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Between operator without And. (Error 2430)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,7 +22,6 @@ When using the  **Between** operator to test whether a value of an expression li
 
 ```vb
 WHERE fldName Between "A" And "C"
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

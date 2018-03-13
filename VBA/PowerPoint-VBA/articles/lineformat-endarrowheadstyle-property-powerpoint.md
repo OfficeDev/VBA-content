@@ -35,13 +35,19 @@ The  **EndArrowheadStyle** proerty value can be one of these **MsoArrowheadStyle
 
 ||
 |:-----|
-|**msoArrowheadDiamond**|
-|**msoArrowheadNone**|
-|**msoArrowheadOpen**|
-|**msoArrowheadOval**|
-|**msoArrowheadStealth**|
-|**msoArrowheadStyleMixed**|
-|**msoArrowheadTriangle**|
+|<strong>msoArrowheadDiamond</strong>|
+|
+<strong>msoArrowheadNone</strong>|
+|
+<strong>msoArrowheadOpen</strong>|
+|
+<strong>msoArrowheadOval</strong>|
+|
+<strong>msoArrowheadStealth</strong>|
+|
+<strong>msoArrowheadStyleMixed</strong>|
+|
+<strong>msoArrowheadTriangle</strong>|
 
 ## Example
 

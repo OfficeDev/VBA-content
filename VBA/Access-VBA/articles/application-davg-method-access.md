@@ -75,11 +75,11 @@ You can use the  **DAvg** function in a module or macro or in a calculated contr
 
 
 - If you use the  **DAvg** function in a calculated control, you may want to place the control on the form header or footer so that the value for this control is not recalculated each time you move to a new record.
-    
+
 - If the data type of the field from which  _expr_ is derived is a number, the **DAvg** function returns a **Double** data type. If you use the **DAvg** function in a calculated control, include a data type conversion function in the expression to improve performance.
-    
+
 - Although you can use the  **DAvg** function to determine the average of values in a field in a foreign table, it may be more efficient to create a query that contains all of the fields that you need and then base your form or report on that query.
-    
+
 
 ## Example
 
@@ -89,11 +89,11 @@ The following function returns the average freight cost for orders shipped on or
 ```vb
 Public Function AvgFreightCost(ByVal strCountry As String, _ 
                                ByVal dteShipDate As Date) As Double 
- 
+
     AvgFreightCost = DAvg("[Freight]", "Orders", _ 
                      "[ShipCountry] = '" &; strCountry &; _ 
                      "'AND [ShippedDate] >= #" &; dteShipDate &; "#") 
- 
+
 End Function
 ```
 
@@ -139,13 +139,13 @@ The following examples show how to use various types of criteria with the  **DAv
     variable = DAvg("[FieldName]", "TableName", "[Criteria1] = " &; Forms![FormName]![Control1] _
              &; " AND [Criteria2] = '" &; Forms![FormName]![Control2] &; "'" _
             &; " AND [Criteria3] =#" &; Forms![FormName]![Control3] &; "#")
-    
+
     ' Use two fields from a single record.
     variable = DAvg("[LastName] &; ', ' &; [FirstName]", "tblPeople", "[PrimaryKey] = 7")
-            
+
     ' Expressions
     variable = DAvg("[Field1] + [Field2]", "tableName", "[PrimaryKey] = 7")
-    
+
     ' Control Structures
     variable = DAvg("IIf([LastName] Like 'Smith', 'True', 'False')", "tableName", "[PrimaryKey] = 7")
     ' ***************************
@@ -155,11 +155,13 @@ The following examples show how to use various types of criteria with the  **DAv
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

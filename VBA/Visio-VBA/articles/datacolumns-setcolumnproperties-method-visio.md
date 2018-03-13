@@ -51,16 +51,17 @@ Possible values for items in the Properties() parameter array are declared in  *
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| ** visDataColumnPropertyCalendar**|3|Calendar of the data-column property.|
-| **visDataColumnPropertyCurrency**|5|Currency of the data-column property.|
-| **visDataColumnPropertyDisplayName**|6|Display name of the data-column property in the UI.|
-| **visDataColumnPropertyHyperlink**|8|Whether the data-column value becomes a hyperlink in the Visio UI when it is linked to a shape.|
-| **visDataColumnPropertyLangID**|2|Language ID of the data-column property.|
-| **visDataColumnPropertyType**|1|Data type of the data-column property.|
-| **visDataColumnPropertyUnits**|4|Units of the data-column property.|
-| **visDataColumnPropertyVisible**|7|Whether the data-column property is visible in the UI.|
+| <strong>Constant</strong>                         | <strong>Value</strong> | <strong>Description</strong>                                                                    |
+|:--------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------|
+| ** visDataColumnPropertyCalendar**                | 3                      | Calendar of the data-column property.                                                           |
+| <strong>visDataColumnPropertyCurrency</strong>    | 5                      | Currency of the data-column property.                                                           |
+| <strong>visDataColumnPropertyDisplayName</strong> | 6                      | Display name of the data-column property in the UI.                                             |
+| <strong>visDataColumnPropertyHyperlink</strong>   | 8                      | Whether the data-column value becomes a hyperlink in the Visio UI when it is linked to a shape. |
+| <strong>visDataColumnPropertyLangID</strong>      | 2                      | Language ID of the data-column property.                                                        |
+| <strong>visDataColumnPropertyType</strong>        | 1                      | Data type of the data-column property.                                                          |
+| <strong>visDataColumnPropertyUnits</strong>       | 4                      | Units of the data-column property.                                                              |
+| <strong>visDataColumnPropertyVisible</strong>     | 7                      | Whether the data-column property is visible in the UI.                                          |
+
 Possible values for items in the Values() parameter array depend on the corresponding Property() array parameter values. The table in the  **[DataColumn.SetProperty](datacolumn-setproperty-method-visio.md)** topic shows valid data-column property values for each data-column property, depending on the data-column data type.
 
 
@@ -76,30 +77,30 @@ Note that changing the display name of a data column changes only its  **[Displa
 
 
 ```vb
- 
+
 Public Sub SetColumnProperties_Example() 
- 
+
     Dim vsoDataRecordset As Visio.DataRecordset 
     Dim intCount As Integer 
-     
+
     intCount = Visio.ActiveDocument.DataRecordsets.Count 
     Set vsoDataRecordset = Visio.ActiveDocument.DataRecordsets(intCount) 
-     
+
     Dim astrColumnNames(1) As String 
     Dim alngProperties(1) As Long 
     Dim avarValues(1) As Variant 
-     
+
     astrColumnNames(0) = vsoDataRecordset.DataColumns(1).DisplayName 
     astrColumnNames(1) = vsoDataRecordset.DataColumns(2).DisplayName 
-        
+
     alngProperties(0) = visDataColumnPropertyDisplayName 
     alngProperties(1) = visDataColumnPropertyHyperlink 
-        
+
     avarValues(0) = "Dept." 
     avarValues(1) = True 
-         
+
     vsoDataRecordset.DataColumns.SetColumnProperties astrColumnNames, alngProperties, avarValues 
- 
+
 End Sub
 ```
 

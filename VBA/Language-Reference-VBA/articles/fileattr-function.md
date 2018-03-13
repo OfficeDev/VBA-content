@@ -19,10 +19,11 @@ Returns a [Long](vbe-glossary.md) representing the file mode for files opened us
 The  **FileAttr** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_filenumber_**|Required; [Integer](vbe-glossary.md). Any valid [file number](vbe-glossary.md).|
-|**_returntype_**|Required;  **Integer**. Number indicating the type of information to return. Specify 1 to return a value indicating the file mode. On 16-bit systems only, specify 2 to retrieve an operating system file handle. **_Returntype_** 2 is not supported in 32-bit systems and causes an error.|
+| <strong>Part</strong>                | <strong>Description</strong>                                                                                                                                                                                                                                                                                                  |
+|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>filenumber</em></strong> | Required; [Integer](vbe-glossary.md). Any valid [file number](vbe-glossary.md).                                                                                                                                                                                                                                               |
+| <strong><em>returntype</em></strong> | Required;  <strong>Integer</strong>. Number indicating the type of information to return. Specify 1 to return a value indicating the file mode. On 16-bit systems only, specify 2 to retrieve an operating system file handle. <strong><em>Returntype</em></strong> 2 is not supported in 32-bit systems and causes an error. |
+
  **Return Values**
 When the  **_returntype_**[argument](vbe-glossary.md) is 1, the following return values indicate the file access mode:
 
@@ -47,7 +48,6 @@ Open "TESTFILE" For Append As FileNum    ' Open file.
 Mode = FileAttr(FileNum, 1)    ' Returns 8 (Append file mode).
 Handle = FileAttr(FileNum, 2)    ' Returns file handle.
 Close FileNum    ' Close file.
-
 ```
 
 

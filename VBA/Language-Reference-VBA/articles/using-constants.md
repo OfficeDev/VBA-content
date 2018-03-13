@@ -24,9 +24,9 @@ Visual Basic constants are listed in the Visual Basic for Applications type libr
 
 
 - Symbolic or user-defined constants are declared using the  **Const** statement.
-    
+
 - [Conditional compiler constants](vbe-glossary.md) are declared using the **#Const** statement.
-    
+
 
 In earlier versions of Visual Basic, constant names were usually capitalized with underscores. For example:
 
@@ -34,16 +34,15 @@ In earlier versions of Visual Basic, constant names were usually capitalized wit
 
 ```vb
 TILE_HORIZONTAL 
-
 ```
 
 Intrinsic constants are now qualified to avoid the confusion when constants with the same name exist in more than one object library, which may have different values assigned to them. There are two ways to qualify constant names:
 
 
 - By prefix
-    
+
 - By library reference
-    
+
 
 
 ## Qualifying Constants by Prefix
@@ -54,9 +53,9 @@ The intrinsic constants supplied by all objects appear in a mixed-case format, w
 
 
 -  **vbTileHorizontal**
-    
+
 -  **xlDialogBorder**
-    
+
 
 
 
@@ -86,7 +85,6 @@ For example:
 
 ```vb
 Threed.LeftJustify 
-
 ```
 
 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # DataFactory Object, Query Method, and CreateObject Method Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -19,6 +19,7 @@ This example creates an [RDSServer.DataFactory](http://msdn.microsoft.com/librar
 
 ```vb
 <!-- BeginDataFactoryVBS --> 
+
 <HTML> 
 <HEAD> 
 <!--use the following META tag instead of adovbs.inc--> 
@@ -131,6 +132,7 @@ End Sub
 </Script> 
 </BODY> 
 </HTML> 
+
 <!-- EndDataFactoryVBS -->
 ```
 

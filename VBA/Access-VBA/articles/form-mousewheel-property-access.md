@@ -35,7 +35,6 @@ The following example specifies that when the  **MouseWheel** event occurs on th
 
 ```vb
 Forms(0).MouseWheel = "[Event Procedure]" 
-
 ```
 
 

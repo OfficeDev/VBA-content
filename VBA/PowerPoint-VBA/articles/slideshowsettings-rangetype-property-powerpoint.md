@@ -30,9 +30,11 @@ The value of the  **RangeType** property can be one of these **PpSlideShowRangeT
 
 ||
 |:-----|
-|**ppShowAll**|
-|**ppShowNamedSlideShow**|
-|**ppShowSlideRange**|
+|<strong>ppShowAll</strong>|
+|
+<strong>ppShowNamedSlideShow</strong>|
+|
+<strong>ppShowSlideRange</strong>|
 
 ## Example
 

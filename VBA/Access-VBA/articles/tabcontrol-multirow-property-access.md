@@ -29,10 +29,11 @@ The  **MultiRow** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|Multiple rows are allowed.|
-|No|**False**|(Default) Multiple rows aren't allowed.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>            |
+|:-------------------------|:------------------------------|:----------------------------------------|
+| Yes                      | <strong>True</strong>         | Multiple rows are allowed.              |
+| No                       | <strong>False</strong>        | (Default) Multiple rows aren't allowed. |
+
 You can also set the default for this property by setting a control's  **DefaultControl** property in Visual Basic.
 
 When the  **MultiRow** property is set to **True**, the number of rows is determined by the width and number of tabs. The number of rows may change if the control is resized or if additional tabs are added to the control.

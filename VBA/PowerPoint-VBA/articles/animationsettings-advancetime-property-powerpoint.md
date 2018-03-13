@@ -50,8 +50,6 @@ With ActivePresentation.Slides(1).Shapes(2).AnimationSettings
     .Animate = True
 
 End With
-
-
 ```
 
 

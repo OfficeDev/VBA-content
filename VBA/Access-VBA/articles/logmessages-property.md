@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LogMessages Property
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -29,10 +29,11 @@ The  **LogMessages** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True** (-1)|Microsoft Access stores messages returned from the SQL database in a messages table.|
-|No|**False** (0)|(Default) Microsoft Access doesn't store messages returned from the SQL database.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                         |
+|:-------------------------|:------------------------------|:-------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong> (-1)    | Microsoft Access stores messages returned from the SQL database in a messages table. |
+| No                       | <strong>False</strong> (0)    | (Default) Microsoft Access doesn't store messages returned from the SQL database.    |
+
 You can set this property by using the query's property sheet or Visual Basic .
 
 

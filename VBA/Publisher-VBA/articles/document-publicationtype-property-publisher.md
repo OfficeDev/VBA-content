@@ -34,8 +34,9 @@ The  **PublicationType** property value can be one of these **PbPublicationType*
 
 
 
-| **pbTypePrint**|
-| **pbTypeWeb**|
+| <strong>pbTypePrint</strong>|
+| 
+<strong>pbTypeWeb</strong>|
 
 ## Example
 

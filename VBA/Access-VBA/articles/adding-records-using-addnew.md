@@ -28,7 +28,7 @@ The following code uses this technique to add a new Shipper to the sample  **Rec
 
 
 ```vb
- 
+
 'BeginAddNew1.1 
  If objRs1.Supports(adAddNew) Then 
  With objRs1 
@@ -39,7 +39,6 @@ The following code uses this technique to add a new Shipper to the sample  **Rec
  End With 
  End If 
 'EndAddNew1.1 
-
 ```
 
 Because this code uses a disconnected  **Recordset** with a client-side cursor in batch mode, you must reconnect the **Recordset** to the data source with a new **Connection** object before you can call the **UpdateBatch** method to post changes to the database. This is easily done by using the new function GetNewConnection.
@@ -47,13 +46,12 @@ Because this code uses a disconnected  **Recordset** with a client-side cursor i
 
 
 ```
- 
+
 'BeginAddNew1.2 
  'Re-establish a Connection and update 
  Set objRs1.ActiveConnection = GetNewConnection 
  objRs1.UpdateBatch 
 'EndAddNew1.2 
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

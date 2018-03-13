@@ -15,7 +15,7 @@ Occurs after one or more shapes are added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**ShapeAdded**( **_ByVal shape As [IVSHAPE]_** )
+Private Sub  <em>expression</em> <em><strong>ShapeAdded</strong>( **_ByVal shape As [IVSHAPE]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

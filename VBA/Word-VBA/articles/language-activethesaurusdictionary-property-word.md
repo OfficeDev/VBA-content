@@ -36,7 +36,7 @@ This example returns the full path and file name of the active thesaurus diction
 ```vb
 Dim lngLanguage As Long 
 Dim dicThesaurus As Dictionary 
- 
+
 lngLanguage = Selection.LanguageID 
 Set dicThesaurus = Languages(lngLanguage).ActiveThesaurusDictionary 
 If dicThesaurus Is Nothing Then 
@@ -45,7 +45,6 @@ Else
  MsgBox dicThesaurus.Path &; Application.PathSeparator _ 
  &; dicThesaurus.Name 
 End If 
-
 ```
 
 

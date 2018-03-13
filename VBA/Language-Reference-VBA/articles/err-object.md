@@ -49,7 +49,6 @@ If Err.Number <> 0 Then
             &; Err.Source &; Chr(13) &; Err.Description
     MsgBox Msg, , "Error", Err.Helpfile, Err.HelpContext
 End If
-
 ```
 
 ## See also

@@ -21,16 +21,17 @@ The required  _color_[argument](vbe-glossary.md) is a whole number in the range 
 The  _color_ argument has these settings:
 
 
-|**Number**|**Color**|**Number**|**Color**|
-|:-----|:-----|:-----|:-----|
-|0|Black|8|Gray|
-|1|Blue|9|Light Blue|
-|2|Green|10|Light Green|
-|3|Cyan|11|Light Cyan|
-|4|Red|12|Light Red|
-|5|Magenta|13|Light Magenta|
-|6|Yellow|14|Light Yellow|
-|7|White|15|Bright White|
+| <strong>Number</strong> | <strong>Color</strong> | <strong>Number</strong> | <strong>Color</strong> |
+|:------------------------|:-----------------------|:------------------------|:-----------------------|
+| 0                       | Black                  | 8                       | Gray                   |
+| 1                       | Blue                   | 9                       | Light Blue             |
+| 2                       | Green                  | 10                      | Light Green            |
+| 3                       | Cyan                   | 11                      | Light Cyan             |
+| 4                       | Red                    | 12                      | Light Red              |
+| 5                       | Magenta                | 13                      | Light Magenta          |
+| 6                       | Yellow                 | 14                      | Light Yellow           |
+| 7                       | White                  | 15                      | Bright White           |
+
  **Remarks**
 The  _color_ argument represents color values used by earlier versions of Basic (such as Microsoft Visual Basic for MS-DOS and the Basic Compiler). Starting with the least-significant byte, the returned value specifies the red, green, and blue values used to set the appropriate color in the RGB system used by Visual Basic for Applications.
 

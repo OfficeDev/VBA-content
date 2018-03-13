@@ -88,7 +88,7 @@ For additional information and examples, see the  **[Range](range-checksynonyms-
 
 ## Using the Range property
 
-The  **Range** property appears on multiple objects—such as **[Paragraph](paragraph-object-word.md)**,  **[Bookmark](bookmark-object-word.md)**, and  ** [Cell](cell-object-word.md)**—and is used to return a  **Range** object. The following example returns a **Range** object that refers to the first paragraph in the active document.
+The  <strong>Range</strong> property appears on multiple objects—such as <strong><a href="paragraph-object-word.md" data-raw-source="[Paragraph](paragraph-object-word.md)">Paragraph</a></strong>,  <strong><a href="bookmark-object-word.md" data-raw-source="[Bookmark](bookmark-object-word.md)">Bookmark</a></strong>, and  ** [Cell](cell-object-word.md)<strong>—and is used to return a  **Range</strong> object. The following example returns a <strong>Range</strong> object that refers to the first paragraph in the active document.
 
 
 ```vb

@@ -24,11 +24,12 @@ Repeats a group of [statements](vbe-glossary.md) for each element in an[array](v
 The  **For...Each...Next** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _element_|Required. [Variable](vbe-glossary.md) used to iterate through the elements of the collection or array. For collections, _element_ can only be a[Variant](vbe-glossary.md) variable, a generic object variable, or any specific object variable. For arrays, _element_ can only be a **Variant** variable.|
-| _group_|Required. Name of an object collection or array (except an array of [user-defined types](vbe-glossary.md)).|
-| _statements_|Optional. One or more statements that are executed on each item in  _group_.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                         |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>element</em>      | Required. [Variable](vbe-glossary.md) used to iterate through the elements of the collection or array. For collections, <em>element</em> can only be a[Variant](vbe-glossary.md) variable, a generic object variable, or any specific object variable. For arrays, <em>element</em> can only be a <strong>Variant</strong> variable. |
+| <em>group</em>        | Required. Name of an object collection or array (except an array of [user-defined types](vbe-glossary.md)).                                                                                                                                                                                                                          |
+| <em>statements</em>   | Optional. One or more statements that are executed on each item in  <em>group</em>.                                                                                                                                                                                                                                                  |
+
  **Remarks**
 The  **For…Each** block is entered if there is at least one element in _group_. Once the loop has been entered, all the statements in the loop are executed for the first element in _group_. If there are more elements in _group_, the statements in the loop continue to execute for each element. When there are no more elements in _group_, the loop is exited and execution continues with the statement following the **Next** statement.
 Any number of  **Exit For** statements may be placed anywhere in the loop as an alternative way to exit. **Exit For** is often used after evaluating some condition, for example **If…Then**, and transfers control to the statement immediately following **Next**.

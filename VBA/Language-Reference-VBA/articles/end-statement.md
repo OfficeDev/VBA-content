@@ -27,16 +27,17 @@ Ends a [procedure](vbe-glossary.md) or block.
 The  **End** statement syntax has these forms:
 
 
-|**Statement**|**Description**|
-|:-----|:-----|
-|**End**|Terminates execution immediately. Never required by itself but may be placed anywhere in a procedure to end code execution, close files opened with the  **Open** statement and to clear[variables](vbe-glossary.md).|
-|**End Function**|Required to end a  **Function** statement.|
-|**End If**|Required to end a block  **If…Then…Else** statement.|
-|**End Property**|Required to end a  **Property Let**, **Property Get**, or **Property Set** procedure.|
-|**End Select**|Required to end a  **Select Case** statement.|
-|**End Sub**|Required to end a  **Sub** statement.|
-|**End Type**|Required to end a [user-defined type](vbe-glossary.md) definition ( **Type** statement).|
-|**End With**|Required to end a  **With** statement.|
+| <strong>Statement</strong>    | <strong>Description</strong>                                                                                                                                                                                                       |
+|:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>End</strong>          | Terminates execution immediately. Never required by itself but may be placed anywhere in a procedure to end code execution, close files opened with the  <strong>Open</strong> statement and to clear[variables](vbe-glossary.md). |
+| <strong>End Function</strong> | Required to end a  <strong>Function</strong> statement.                                                                                                                                                                            |
+| <strong>End If</strong>       | Required to end a block  <strong>If…Then…Else</strong> statement.                                                                                                                                                                  |
+| <strong>End Property</strong> | Required to end a  <strong>Property Let</strong>, <strong>Property Get</strong>, or <strong>Property Set</strong> procedure.                                                                                                       |
+| <strong>End Select</strong>   | Required to end a  <strong>Select Case</strong> statement.                                                                                                                                                                         |
+| <strong>End Sub</strong>      | Required to end a  <strong>Sub</strong> statement.                                                                                                                                                                                 |
+| <strong>End Type</strong>     | Required to end a [user-defined type](vbe-glossary.md) definition ( <strong>Type</strong> statement).                                                                                                                              |
+| <strong>End With</strong>     | Required to end a  <strong>With</strong> statement.                                                                                                                                                                                |
+
  **Remarks**
 When executed, the  **End** statement resets all[module-level](vbe-glossary.md) variables and all static local variables in all[modules](vbe-glossary.md). To preserve the value of these variables, use the  **Stop** statement instead. You can then resume execution while preserving the value of those variables.
 

@@ -51,7 +51,6 @@ With ActiveDocument.Pages(1).Shapes _
  .EndArrowheadStyle = msoArrowheadTriangle 
  .EndArrowheadWidth = msoArrowheadWide 
 End With 
-
 ```
 
 

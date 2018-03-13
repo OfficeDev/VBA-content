@@ -27,7 +27,7 @@ This example displays a message about the creator of an Excel workbook. In this 
 
 ```
 Sub FindCreator() 
- 
+
  Dim myObject As Excel.Workbook 
  Set myObject = ActiveWorkbook 
  If myObject.TextFrame2.Creator = &amp;h5843454c Then 
@@ -35,9 +35,8 @@ Sub FindCreator()
  Else 
  MsgBox "This is not a Microsoft Excel object." 
  End If 
- 
-End Sub 
 
+End Sub 
 ```
 
 

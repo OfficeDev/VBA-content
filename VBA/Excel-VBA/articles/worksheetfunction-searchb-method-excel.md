@@ -46,9 +46,9 @@ Double
 
 - SEARCH always counts each character, whether single-byte or double-byte, as 1, no matter what the default language setting is.
     
--  SEARCHB counts each double-byte character as 2 when you have enabled the editing of a language that supports DBCS and then set it as the default language. Otherwise, SEARCHB counts each character as 1.
+- SEARCHB counts each double-byte character as 2 when you have enabled the editing of a language that supports DBCS and then set it as the default language. Otherwise, SEARCHB counts each character as 1.
     
- The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean.
+  The languages that support DBCS include Japanese, Chinese (Simplified), Chinese (Traditional), and Korean.
 
 
 - Use SEARCH and SEARCHB to determine the location of a character or text string within another text string so that you can use the MID and MIDB or REPLACE and REPLACEB functions to change the text.

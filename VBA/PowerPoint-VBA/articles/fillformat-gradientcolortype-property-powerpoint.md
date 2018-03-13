@@ -37,10 +37,13 @@ The value returned by the  **GradientColorType** property can be one of these **
 
 ||
 |:-----|
-|**msoGradientColorMixed**|
-|**msoGradientOneColor**|
-|**msoGradientPresetColors**|
-|**msoGradientTwoColors**|
+|<strong>msoGradientColorMixed</strong>|
+|
+<strong>msoGradientOneColor</strong>|
+|
+<strong>msoGradientPresetColors</strong>|
+|
+<strong>msoGradientTwoColors</strong>|
 
 ## Example
 

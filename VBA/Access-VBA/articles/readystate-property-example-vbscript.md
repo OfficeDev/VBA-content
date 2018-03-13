@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ReadyState Property Example (VBScript)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -57,8 +57,8 @@ MsgBox "Fetching records in background"case 4 'adcReadyStateComplete
 MsgBox "All records fetched"End Select 
 End Sub</Script> 
 </body></html>
-<!-- EndReadyStateVBS -->
 
+<!-- EndReadyStateVBS -->
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

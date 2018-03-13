@@ -269,7 +269,7 @@ When you create a  **DataRecordset** object, its **RefreshInterval** property va
 
 To determine the date and time of the last refresh operation, get the  **[DataRecordset.TimeRefreshed](datarecordset-timerefreshed-property-visio.md)** property.
 
-Additionally, the  **[DataRecordset.RefreshSettings](datarecordset-refreshsettings-property-visio.md)** property allows you to customize automatic refreshes of data. By setting this property to a combination of the values in the**[VisRefreshSettings](visrefreshsettings-enumeration-visio.md)** enumeration, you can specify that either or both of the following occur:
+Additionally, the  <strong><a href="datarecordset-refreshsettings-property-visio.md" data-raw-source="[DataRecordset.RefreshSettings](datarecordset-refreshsettings-property-visio.md)">DataRecordset.RefreshSettings</a></strong> property allows you to customize automatic refreshes of data. By setting this property to a combination of the values in the<strong><a href="visrefreshsettings-enumeration-visio.md" data-raw-source="[VisRefreshSettings](visrefreshsettings-enumeration-visio.md)">VisRefreshSettings</a></strong> enumeration, you can specify that either or both of the following occur:
 
 
 - The UI for reconciling refresh conflicts (the  **Refresh Conflicts** task pane) is disabled. (See the next section for more information.)
@@ -299,7 +299,7 @@ You can help prevent these broken or mismatched links by assigning primary keys 
 
 As a result, when you refresh or when Visio refreshes a data recordset that includes primary keys, its rows retain the same row IDs they had before the refresh operation. Because Visio links shapes to data rows by ID—shape ID to row ID—and because row IDs remain the same after a refresh operation, data-linked shapes remain linked to the correct row. Note that row IDs are never recycled for a given a data recordset.
 
-You can use the  **[DataRecordset.GetPrimaryKey](datarecordset-getprimarykey-method-visio.md)** method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the**[VisPrimaryKeySettings](visprimarykeysettings-enumeration-visio.md)** enumeration. You can use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
+You can use the  <strong><a href="datarecordset-getprimarykey-method-visio.md" data-raw-source="[DataRecordset.GetPrimaryKey](datarecordset-getprimarykey-method-visio.md)">DataRecordset.GetPrimaryKey</a></strong> method to determine the existing primary key for a data recordset, if one is specified. This method returns the primary key setting for the data recordset, as a value from the<strong><a href="visprimarykeysettings-enumeration-visio.md" data-raw-source="[VisPrimaryKeySettings](visprimarykeysettings-enumeration-visio.md)">VisPrimaryKeySettings</a></strong> enumeration. You can use single or composite primary keys. A single key bases row identification on the values in a single column. A composite primary key uses two or more columns to identify a row uniquely.
 
 If the primary key setting is  **visKeySingle** or **visKeyComposite**, the method also returns an array of primary key column-name strings. If the primary key setting is  **visKeyRowOrder**, the default, the method returns an empty array of primary keys.
 

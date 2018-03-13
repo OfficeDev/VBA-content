@@ -29,11 +29,15 @@ The value of this property can be set to one of the following constants:
 
 
 
-| **xlBottom**|
-| **xlCenter**|
-| **xlDistributed**|
-| **xlJustify**|
-| **xlTop**|
+| <strong>xlBottom</strong>|
+| 
+<strong>xlCenter</strong>|
+| 
+<strong>xlDistributed</strong>|
+| 
+<strong>xlJustify</strong>|
+| 
+<strong>xlTop</strong>|
 
 ## Example
 
@@ -44,7 +48,6 @@ This example sets the height of row 2 on Sheet1 to twice the standard height and
 Worksheets("Sheet1").Rows(2).RowHeight = _ 
  2 * Worksheets("Sheet1").StandardHeight 
 Worksheets("Sheet1").Rows(2).VerticalAlignment = xlVAlignCenter 
-
 ```
 
 

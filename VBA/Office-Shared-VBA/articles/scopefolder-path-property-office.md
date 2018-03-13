@@ -25,7 +25,7 @@ Gets a  **String** indicating the full path of a **ScopeFolder** object. Read-on
 
 ## Example
 
-The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the  **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be "A:\", "C:\", etc.
+The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the  <strong>ScopeFolder</strong> object at the root of My Computer. The path of this <strong>ScopeFolder</strong> will always be "<em>". As with all **ScopeFolder</em>* objects, the root object contains a <strong>ScopeFolders</strong> collection. This example loops through this <strong>ScopeFolders</strong> collection and displays the path of each <strong>ScopeFolder</strong> object in it. The paths of these <strong>ScopeFolder</strong> objects will be "A:\", "C:\", etc.
 
 
 ```

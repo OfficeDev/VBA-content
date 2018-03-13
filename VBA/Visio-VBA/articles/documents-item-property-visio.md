@@ -44,7 +44,6 @@ When retrieving objects from a collection, you can omit  **Item** from the expre
 ```
 objRet = object(index) 
 objRet = object(stringExpression) 
-
 ```
 
 You can retrieve an object in an  **Addons** , **Documents** , **Fonts** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **OLEObjects** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant** .

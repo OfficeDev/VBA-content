@@ -45,9 +45,9 @@ Shape
 
 
 - If  _ClassOrProgID_ is a string representing a class ID, it looks like "{D3E34B21-9D75-101A-8C3D-00AA001A1652}."
-    
+
 - If  _ClassOrProgID_ is a string representing a program ID, it looks like "paint.picture" or "forms.combobox.1".
-    
+
 
 
 See vendor-specific documentation or browse the registry to determine which class IDs and program IDs are associated with objects and controls provided by other applications.
@@ -56,20 +56,22 @@ The  _Flags_ argument is a bitmask that can include one of the following values.
 
 
 
-|**Constant **|**Value **|**Description **|
-|:-----|:-----|:-----|
-| **visInsertIcon**|&;H10|Displays the new shape as an icon.|
-| **visInsertDontShow**|&;H1000|Does not execute the new object's show verb.|
+| **Constant **                      | **Value ** | **Description **                             |
+|:-----------------------------------|:-----------|:---------------------------------------------|
+| <strong>visInsertIcon</strong>     | &;H10      | Displays the new shape as an icon.           |
+| <strong>visInsertDontShow</strong> | &;H1000    | Does not execute the new object's show verb. |
+
 If both  **visInsertIcon** and **visInsertDontShow** are specified, the **InsertObject** method fails. If you want to insert an object that is displayed as an icon, you must allow the application to execute the object's show verb.
 
 The  _Flags_ argument can also include one of the following values.
 
 
 
-|**Constant **|**Value **|
-|:-----|:-----|
-| **visInsertAsControl**|&;H2000|
-| **visInsertAsEmbed**|&;H4000|
+| **Constant **                       | **Value ** |
+|:------------------------------------|:-----------|
+| <strong>visInsertAsControl</strong> | &;H2000    |
+| <strong>visInsertAsEmbed</strong>   | &;H4000    |
+
 Values in  **visInsertAsControl** and **visInsertAsEmbed** only have an effect if the class identified by _ClassOrProgID_ is identified in the registry as a control that can be inserted. If neither **visInsertAsControl** nor **visInsertAsEmbed** is specified and the object can be either a control or an embedded object, the application inserts it as a control.
 
 In rare cases, Visio 5.0 or later versions may insert a control whereas earlier versions of Visio would have responded to the same call by inserting an embedded object. If a control is inserted, this method places the document in design mode, causing any code executing in the document to halt until the document is returned to run mode.

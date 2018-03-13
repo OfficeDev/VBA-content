@@ -35,7 +35,6 @@ The following example specifies that when the  **CommandEnabled** event occurs o
 
 ```vb
 Forms(0).CommandEnabled = "[Event Procedure]" 
-
 ```
 
 

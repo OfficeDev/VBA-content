@@ -89,7 +89,7 @@ varResult = Nz(varFreight, "No Freight Charge")
 
 
 - [Nulls and Their Behavior](http://www.utteraccess.com/wiki/index.php/Nulls_And_Their_Behavior)
-    
+
 
 ## Example
 
@@ -98,24 +98,24 @@ The following example evaluates a control on a form and returns one of two strin
 
 ```vb
 Public Sub CheckValue() 
- 
+
     Dim frm As Form 
     Dim ctl As Control 
     Dim varResult As Variant 
- 
+
     ' Return Form object variable pointing to Orders form. 
     Set frm = Forms!Orders 
- 
+
     ' Return Control object variable pointing to ShipRegion. 
     Set ctl = frm!ShipRegion 
- 
+
     ' Choose result based on value of control. 
     varResult = IIf(Nz(ctl.Value) = vbNullString, _ 
         "No value.", "Value is " &; ctl.Value &; ".") 
- 
+
     ' Display result. 
     MsgBox varResult, vbExclamation 
- 
+
 End Sub
 ```
 
@@ -123,11 +123,13 @@ End Sub
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

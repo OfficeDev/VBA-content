@@ -44,7 +44,7 @@ Function MayCauseAnError()
     .            ' Include code here that may generate error. 
     . 
     . 
- 
+
 Error_MayCauseAnError: 
     .            ' Include code here to handle error. 
     . 
@@ -82,10 +82,10 @@ Function MayCauseAnError()
     .            ' Include code here that may generate error. 
     . 
     . 
- 
+
 Exit_MayCauseAnError: 
     Exit Function 
- 
+
 Error_MayCauseAnError: 
     .            ' Include code to handle error. 
     . 
@@ -109,9 +109,9 @@ In summary, Visual Basic searches back up the calls list for an enabled error ha
 
 
 - An error occurs in a procedure that doesn't include an enabled error handler.
-    
+
 - An error occurs within an active error handler. If you use the  **Raise** method of the **Err** object to raise an error, you can force Visual Basic to search backward through the calls list for an enabled error handler.
-    
+
 
 ## Getting Information About an Error
 
@@ -121,16 +121,16 @@ The language elements available for error handling include:
 
 
 - The  **Err** object.
-    
+
 - The ADO  **Error** object and **Errors** collection
-    
+
 - The DAO  **Error** object and **Errors** collection.
-    
+
 - The  **AccessError** method.
-    
+
 - The  **Error** event.
-    
- _The Err Object_
+
+  _The Err Object_
 
 The  **Err** object is provided by Visual Basic. When a Visual Basic error occurs, information about that error is stored in the **Err** object. The **Err** object maintains information about only one error at a time. When a new error occurs, the **Err** object is updated to include information about that error instead.
 
@@ -145,15 +145,15 @@ The following example shows how to use the  **Err** object in a procedure that m
 Function MayCauseAnError() 
     ' Declare constant to represent likely error. 
     Const conTypeMismatch As Integer = 13 
- 
+
     On Error GoTo Error_MayCauseAnError 
         .            ' Include code here that may generate error. 
         . 
         . 
- 
+
 Exit_MayCauseAnError: 
     Exit Function 
- 
+
 Error_MayCauseAnError: 
     ' Check Err object properties. 
     If Err = conTypeMismatch Then 
@@ -199,10 +199,11 @@ The Error event procedure takes an integer argument, DataErr. When an Error even
 
 
 - [Handling Access Errors with VBA](http://www.utteraccess.com/wiki/index.php/Error_Handling)
-    
+
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
+
 
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 

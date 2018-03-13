@@ -34,8 +34,9 @@ The  **TableDirection** property value can be one of the **PbTableDirectionType*
 
 
 
-| **pbTableDirectionLeftToRight**|
-| **pbTableDirectionRightToLeft**|
+| <strong>pbTableDirectionLeftToRight</strong>|
+| 
+<strong>pbTableDirectionRightToLeft</strong>|
 
 ## Example
 
@@ -48,12 +49,12 @@ Sub CountCellsByColumn()
  Dim rowTable As row 
  Dim celTable As Cell 
  Dim intCount As Integer 
- 
+
  Set tblTable = ActiveDocument.Pages(1).Shapes(1).Table 
- 
+
  'Loops through each row in the table 
  For Each rowTable In tblTable.Rows 
- 
+
  'Loops through each cell in the row 
  For Each celTable In rowTable.Cells 
  With celTable.TextRange 

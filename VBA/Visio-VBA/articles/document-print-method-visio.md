@@ -40,15 +40,14 @@ If you're using Microsoft Visual Basic for Applications (VBA) or Visual Basic, y
 
 
 ```vb
- 
+
  Dim vsoDocument As Visio.Document 
  Dim vsoDocumentTemp as Object 
  Dim strDummy As String 
- 
+
  Set vsoDocument = ThisDocument 
  Set vsoDocumentTemp = vsoDocument 
  strDummy = vsoDocumentTemp.Print 
-
 ```
 
 

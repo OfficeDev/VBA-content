@@ -35,11 +35,15 @@ The value of the  **Type** property can be one of these **MsoCalloutType** const
 
 ||
 |:-----|
-|**msoCalloutFour**|
-|**msoCalloutMixed**|
-|**msoCalloutOne**|
-|**msoCalloutThree**|
-|**msoCalloutTwo**|
+|<strong>msoCalloutFour</strong>|
+|
+<strong>msoCalloutMixed</strong>|
+|
+<strong>msoCalloutOne</strong>|
+|
+<strong>msoCalloutThree</strong>|
+|
+<strong>msoCalloutTwo</strong>|
 
 ## See also
 

@@ -26,7 +26,7 @@ Sub ListGlobalReports()
     Dim oReport As Report
 
     Debug.Print "Number of global reports: " &; GlobalReports.Count
-    
+
     For Each oReport In GlobalReports
         Debug.Print oReport.Index &; ": " &; oReport.Name
     Next oReport
@@ -61,7 +61,6 @@ Number of global reports: 21
 19: Organize tasks
 20: Share with your team
 21: Best Practice Analyzer
-
 ```
 
 

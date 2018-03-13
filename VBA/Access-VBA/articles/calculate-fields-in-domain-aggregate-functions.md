@@ -16,14 +16,15 @@ You can use the string expression argument (the  _expr_ argument) in a domain ag
 The following table provides examples of calculations on fields from an Orders table and an Order Details table.
 
 
-|**Calculation**|**Example**|
-|:-----|:-----|
-|Add a number to a field|"[Freight] + 5"|
-|Subtract a number from a field|"[Freight] - 5"|
-|Multiply a field by a number|"[Freight] * 2"|
-|Divide a field by a number|"[Freight] / 2"|
-|Add one field to another|"[UnitsInStock] + [UnitsOnOrder]"|
-|Subtract one field from another|"[ReorderLevel] - [UnitsInStock]"|
+| <strong>Calculation</strong>    | <strong>Example</strong>          |
+|:--------------------------------|:----------------------------------|
+| Add a number to a field         | "[Freight] + 5"                   |
+| Subtract a number from a field  | "[Freight] - 5"                   |
+| Multiply a field by a number    | "[Freight] * 2"                   |
+| Divide a field by a number      | "[Freight] / 2"                   |
+| Add one field to another        | "[UnitsInStock] + [UnitsOnOrder]" |
+| Subtract one field from another | "[ReorderLevel] - [UnitsInStock]" |
+
 You would most likely use a domain aggregate function in a macro or module, in a calculated control on a form or report, or in a criteria expression in a query.
 For example, you can calculate the average discount amount for all orders in an Order Details table. Multiply the Unit Price and Discount fields to determine the discount for each order, then calculate the average. Enter the following example in a procedure in a module.
 

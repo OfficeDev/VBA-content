@@ -18,7 +18,7 @@ Occurs after adding a content control to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**ContentControlAfterAdd**( **_NewContentControl_** , **_InUndoRedo_** )
+Private Sub  <em>expression</em> <em><strong>ContentControlAfterAdd</strong>( **_NewContentControl</em>** , <strong><em>InUndoRedo</em></strong> )
 
  _expression_ An expression that returns a **[Document](document-object-word.md)** object.
 

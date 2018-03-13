@@ -31,11 +31,12 @@ The  **RowSource** property setting depends on the **RowSourceType** property se
 
 
 
-|**For this RowSourceType setting**|**Enter this RowSource setting**|
-|:-----|:-----|
-|Table/Query|A table name, query name, or SQL statement.|
-|Value List|A list of items with semicolons (;) as separators.|
-|Field List|A table name, query name, or SQL statement.|
+| <strong>For this RowSourceType setting</strong> | <strong>Enter this RowSource setting</strong>      |
+|:------------------------------------------------|:---------------------------------------------------|
+| Table/Query                                     | A table name, query name, or SQL statement.        |
+| Value List                                      | A list of items with semicolons (;) as separators. |
+| Field List                                      | A table name, query name, or SQL statement.        |
+
 If the  **RowSourceType** property is set to a user-defined function, the **RowSource** property can be left blank.
 
 For table fields, you can set these properties on the  **Lookup** tab in the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box.

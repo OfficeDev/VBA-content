@@ -20,7 +20,6 @@ This example sets the explosion value for point two. The example should be run o
 
 ```
 myChart.SeriesCollection(1).Points(2). Explosion = 20
-
 ```
 
 

@@ -15,7 +15,7 @@ When you register a form region for a message class, by default, the inspector d
 
 
 - In the form region manifest XML file, specify  **true** as the value of the **exactMessageClass** element.
-    
+
 The following example disables a form region from being modified in the Forms Designer:
 
 

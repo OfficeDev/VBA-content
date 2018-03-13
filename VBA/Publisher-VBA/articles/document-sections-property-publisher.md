@@ -37,7 +37,6 @@ This example sets an object variable to the  **Sections** object of the active d
 Dim objSections As Sections 
 Set objSections = ActiveDocument.Sections 
 objSections.Add StartPageIndex:=2 
-
 ```
 
 

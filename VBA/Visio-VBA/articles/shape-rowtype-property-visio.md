@@ -45,27 +45,28 @@ You can specify the type of row you want by setting  **RowType** equal to any of
 
 
 
-|**Constant**|**Value**|
-|:-----|:-----|
-| **visTagComponent**|137|
-| **visTagMoveTo**|138|
-| **visTagLineTo**|139|
-| **visTagArcTo**|140|
-| **visTagInfiniteLine**|141|
-| **visTagEllipse**|143|
-| **visTagEllipticalArcTo**|144|
-| **visTagSplineBeg**|165|
-| **visTagSplineSpan**|166|
-| **visTagPolylineTo**|193|
-| **visTagNURBSTo**|195|
-| **visTagTab0**|136|
-| **visTagTab2**|150|
-| **visTagTab10**|151|
-| **visTagTab60**|181|
-| **visTagCnnctPt**|153|
-| **visTagCnnctNamed**|185|
-| **visTagCtlPt**|162|
-| **visTagCtlPtTip**|170|
+| <strong>Constant</strong>              | <strong>Value</strong> |
+|:---------------------------------------|:-----------------------|
+| <strong>visTagComponent</strong>       | 137                    |
+| <strong>visTagMoveTo</strong>          | 138                    |
+| <strong>visTagLineTo</strong>          | 139                    |
+| <strong>visTagArcTo</strong>           | 140                    |
+| <strong>visTagInfiniteLine</strong>    | 141                    |
+| <strong>visTagEllipse</strong>         | 143                    |
+| <strong>visTagEllipticalArcTo</strong> | 144                    |
+| <strong>visTagSplineBeg</strong>       | 165                    |
+| <strong>visTagSplineSpan</strong>      | 166                    |
+| <strong>visTagPolylineTo</strong>      | 193                    |
+| <strong>visTagNURBSTo</strong>         | 195                    |
+| <strong>visTagTab0</strong>            | 136                    |
+| <strong>visTagTab2</strong>            | 150                    |
+| <strong>visTagTab10</strong>           | 151                    |
+| <strong>visTagTab60</strong>           | 181                    |
+| <strong>visTagCnnctPt</strong>         | 153                    |
+| <strong>visTagCnnctNamed</strong>      | 185                    |
+| <strong>visTagCtlPt</strong>           | 162                    |
+| <strong>visTagCtlPtTip</strong>        | 170                    |
+
 If an inappropriate row tag is passed or the row does not exist, no changes occur and an error is returned.
 
 Use the  **RowName** property to transition from unnamed to named Connection Points rows.
@@ -81,52 +82,52 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 
 ```vb
- 
+
 Public Sub RowType_Example() 
- 
+
  Dim vsoPage As Visio.Page 
  Dim vsoShape As Visio.Shape 
  Dim vsoCell As Visio.Cell 
  Dim strBowCell As String 
  Dim strBowFormula As String 
  Dim intCounter As Integer 
- 
+
  'Set the value of the strBowCell string. 
  strBowCell = "Scratch.X1" 
- 
+
  'Set the value of the strBowFormula string. 
  strBowFormula = "=Min(Width, Height) / 5" 
  Set vsoPage = ActivePage 
- 
+
  'If there isn't an active page, set vsoPage 
  'to the first page of the active document. 
  If vsoPage Is Nothing Then 
- 
+
  Set vsoPage = ActiveDocument.Pages(1) 
- 
+
  End If 
- 
+
  'Draw a rectangle on the active page. 
  Set vsoShape = vsoPage.DrawRectangle(1, 5, 5, 1) 
- 
+
  'Add a scratch section and add a row to the scratch section. 
  vsoShape.AddSection visSectionScratch 
  vsoShape.AddRow visSectionScratch, visRowScratch, 0 
- 
+
  'Set vsoCell to the Scratch.X1 cell and set its formula. 
  Set vsoCell = vsoShape.Cells(strBowCell) 
  vsoCell.formula = strBowFormula 
- 
+
  'Bow in or curve the rectangle's lines by changing 
  'each row type from LineTo to ArcTo and entering the bow value. 
  For intCounter = 1 To 4 
- 
+
  vsoShape.RowType(visSectionFirstComponent, visRowVertex + intCounter) = visTagArcTo 
  Set vsoCell = vsoShape.CellsSRC(visSectionFirstComponent, visRowVertex + intCounter, 2) 
  vsoCell.formula = "-" &; strBowCell 
- 
+
  Next intCounter 
- 
+
 End Sub
 ```
 

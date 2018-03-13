@@ -99,15 +99,15 @@ Temporary suspension of program execution in the development environment. In bre
 
 
 - Encounter a breakpoint during program execution.
-    
+
 - Press CTRL+BREAK during program execution.
-    
+
 - Encounter a  **Stop** statement or untrapped run-time error during program execution.
-    
+
 - Add a  **Break When True** watch expression. Execution stops when the value of the watch changes and evaluates to **True**.
-    
+
 - Add a  **Break When Changed** watch expression. Execution stops when the value of the watch changes.
-    
+
 
 
 
@@ -504,7 +504,6 @@ By assigning values to named arguments, you can use the following statement:
 
 ```
 DoSomeThing namedarg3 := 4, namedarg2 := 5, namedarg1 := 20 
-
 ```
 
 Note that the named arguments don't have to appear in the normal positional order in the syntax.

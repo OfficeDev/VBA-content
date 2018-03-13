@@ -18,8 +18,9 @@ Returns or sets the color of the interior pattern as an index into the current c
 
 
 |XlColorIndex can be one of these XlColorIndex constants.|
-| **xlColorIndexAutomatic**|
-| **xlColorIndexNone**|
+| <strong>xlColorIndexAutomatic</strong>|
+| 
+<strong>xlColorIndexNone</strong>|
 
  _expression_. **PatternColorIndex**
 

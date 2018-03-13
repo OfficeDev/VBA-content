@@ -15,7 +15,7 @@ Queued when an internal command ends, or when an automation client exits a scope
 
 ## Syntax
 
-Private Sub  _expression_ _**ExitScope**( **_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_** , **_ByVal bErrOrCancelled As Boolean_** )
+Private Sub  <em>expression</em> <em><strong>ExitScope</strong>( **_ByVal app As [IVAPPLICATION]</em>** , <strong><em>ByVal nScopeID As Long</em></strong> , <strong><em>ByVal bstrDescription As String</em></strong> , <strong><em>ByVal bErrOrCancelled As Boolean</em></strong> )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

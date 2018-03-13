@@ -20,10 +20,11 @@ Right aligns a string within a string [variable](vbe-glossary.md).
 The  **RSet** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _stringvar_|Required. Name of string variable.|
-| _string_|Required. [String expression](vbe-glossary.md) to be right-aligned within _stringvar_.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                  |
+|:----------------------|:----------------------------------------------------------------------------------------------|
+| <em>stringvar</em>    | Required. Name of string variable.                                                            |
+| <em>string</em>       | Required. [String expression](vbe-glossary.md) to be right-aligned within <em>stringvar</em>. |
+
  **Remarks**
 If  _stringvar_ is longer than _string_, **RSet** replaces any leftover characters in _stringvar_ with spaces, back to its beginning.
 
@@ -39,7 +40,6 @@ This example uses the  **RSet** statement to right align a string within a strin
 Dim MyString 
 MyString = "0123456789" ' Initialize string. 
 Rset MyString = "Right->" ' MyString contains " Right->". 
-
 ```
 
 

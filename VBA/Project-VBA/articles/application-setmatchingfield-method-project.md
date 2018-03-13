@@ -39,6 +39,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 #### Comparison strings
 
 |**Comparison string**|**Description**|
@@ -57,6 +58,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
+
 ### Return value
 
  **Boolean**
@@ -68,14 +70,14 @@ The following example checks for equality of task field `Name`, changes the valu
 
 ```vb
 Sub Set_MatchingField() 
- 
+
  Dim T As Task 
  Dim OldName As String 
- 
+
  'Save the task name 
  Set T = ActiveProject.Tasks(3) 
  OldName = T.GetField(pjTaskName) 
- 
+
  ViewApply Name:="&;Gantt Chart" 
  'Change the field to "New Task's Name" 
  SetMatchingField Field:="Name", Value:="New Task Name", CheckField:="Name", CheckValue:=OldName, CheckTest:="equals" 

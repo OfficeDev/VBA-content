@@ -19,10 +19,11 @@ Returns a [Long](vbe-glossary.md) containing the smallest available subscript fo
 The  **LBound** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _arrayname_|Required. Name of the array [variable](vbe-glossary.md); follows standard variable naming conventions.|
-| _dimension_|Optional;  **Variant** ( **Long** ). Whole number indicating which dimension's lower bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If _dimension_ is omitted, 1 is assumed.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                  |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>arrayname</em>    | Required. Name of the array [variable](vbe-glossary.md); follows standard variable naming conventions.                                                                                                                                        |
+| <em>dimension</em>    | Optional;  <strong>Variant</strong> ( <strong>Long</strong> ). Whole number indicating which dimension's lower bound is returned. Use 1 for the first dimension, 2 for the second, and so on. If <em>dimension</em> is omitted, 1 is assumed. |
+
  **Remarks**
 The  **LBound** function is used with the **UBound** function to determine the size of an array. Use the **UBound** function to find the upper limit of an array dimension.
  **LBound** returns the values in the following table for an array with the following dimensions:
@@ -50,8 +51,6 @@ Lower = Lbound(MyArray, 1)     ' Returns 1.
 Lower = Lbound(MyArray, 3)    ' Returns 10.
 Lower = Lbound(AnyArray)    ' Returns 0 or 1, depending on
     ' setting of Option Base.
-
-
 ```
 
 

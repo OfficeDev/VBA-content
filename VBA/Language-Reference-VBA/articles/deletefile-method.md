@@ -22,11 +22,12 @@ Deletes a specified file.
 The  **DeleteFile** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _filespec_|Required. The name of the file to delete. The  _filespec_ can contain wildcard characters in the last path component.|
-| _force_|Optional.  **Boolean** value that is **True** if files with the read-only attribute set are to be deleted; **False** (default) if they are not.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                           |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                                                                                                                     |
+| <em>filespec</em>     | Required. The name of the file to delete. The  <em>filespec</em> can contain wildcard characters in the last path component.                                                           |
+| <em>force</em>        | Optional.  <strong>Boolean</strong> value that is <strong>True</strong> if files with the read-only attribute set are to be deleted; <strong>False</strong> (default) if they are not. |
+
  **Remarks**
 An error occurs if no matching files are found. The  **DeleteFile** method stops on the first error it encounters. No attempt is made to roll back or undo any changes that were made before an error occurred.
 

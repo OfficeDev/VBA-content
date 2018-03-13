@@ -22,15 +22,15 @@ A  **Protected View** window is used to display a workbook from a potentially un
 
 
 - Files opened from the Internet.
-    
+
 - Attachments opened from Outlook.
-    
+
 - Files blocked by File Block Policy.
-    
+
 - Files that fail Office File Validation.
-    
+
 - Files explicitly opened in  **Protected View** by using the **Open in Protected View** command of the **Open** button in the **Open** dialog box.
-    
+
 
 
 Workbooks displayed in a  **Protected View** window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and data connections. For more information about **Protected View** windows, see[What is Protected View?](http://office.microsoft.com/en-us/excel-help/what-is-protected-view-HA010355931.aspx?CTT=1)
@@ -47,11 +47,10 @@ After you access a  **ProtectedViewWindow** object, use the **[Workbook](protect
 
 ```vb
 Dim wbProtected As Workbook 
- 
+
 If Application.ProtectedViewWindows.Count > 0 Then 
     Set wbProtected = Application.ProtectedViewWindows(1).Workbook 
 End If 
-
 ```
 
 

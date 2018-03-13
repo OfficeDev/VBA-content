@@ -38,7 +38,6 @@ If (MsgBox("Press Yes to pause for 5 seconds", 4)) = vbYes Then
 Else
     End
 End If
-
 ```
 
 

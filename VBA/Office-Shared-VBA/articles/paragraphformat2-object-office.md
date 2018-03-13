@@ -21,7 +21,6 @@ The following example left aligns the paragraphs in shape two on slide one in th
 ```
 ActivePresentation.Slides(1).Shapes(2).TextFrame2.TextRange2 _ 
  .ParagraphFormat2.Alignment = ppAlignLeft 
-
 ```
 
 

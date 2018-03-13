@@ -57,9 +57,8 @@ The following code example opens the workbook that is open in the active  **Prot
 
 ```vb
 Dim pvWbk As Workbook 
- 
-Set pvWbk = ActiveProtectedViewWindow.Edit 
 
+Set pvWbk = ActiveProtectedViewWindow.Edit 
 ```
 
 

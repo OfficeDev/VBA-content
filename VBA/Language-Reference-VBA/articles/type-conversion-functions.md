@@ -77,10 +77,9 @@ This example uses the  **CBool** function to convert an expression to a **Boolea
 Dim A, B, Check 
 A = 5: B = 5 ' Initialize variables. 
 Check = CBool(A = B) ' Check contains True. 
- 
+
 A = 0 ' Define variable. 
 Check = CBool(A) ' Check contains False. 
-
 ```
 
 
@@ -93,7 +92,6 @@ This example uses the  **CByte** function to convert an expression to a **Byte**
 Dim MyDouble, MyByte 
 MyDouble = 125.5678 ' MyDouble is a Double. 
 MyByte = CByte(MyDouble) ' MyByte contains 126. 
-
 ```
 
 
@@ -108,7 +106,6 @@ MyDouble = 543.214588 ' MyDouble is a Double.
 MyCurr = CCur(MyDouble * 2) ' Convert result of MyDouble +ACo- 2 
  ' (1086.429176) to a 
  ' Currency (1086.4292). 
-
 ```
 
 
@@ -121,10 +118,9 @@ This example uses the  **CDate** function to convert a string to a **Date**. In 
 Dim MyDate, MyShortDate, MyTime, MyShortTime 
 MyDate = February 12, 1969 ' Define date. 
 MyShortDate = CDate(MyDate) ' Convert to Date data type. 
- 
+
 MyTime = 4:35:47 PM ' Define time. 
 MyShortTime = CDate(MyTime) ' Convert to Date data type. 
-
 ```
 
 
@@ -137,7 +133,6 @@ This example uses the  **CDbl** function to convert an expression to a **Double*
 Dim MyCurr, MyDouble 
 MyCurr = CCur(234.456784) ' MyCurr is a Currency. 
 MyDouble = CDbl(MyCurr * 8.2 * 0.01) ' Convert result to a Double. 
-
 ```
 
 
@@ -150,7 +145,6 @@ This example uses the  **CDec** function to convert a numeric value to a **Decim
 Dim MyDecimal, MyCurr 
 MyCurr = 10000000.0587 ' MyCurr is a Currency. 
 MyDecimal = CDec(MyCurr) ' MyDecimal is a Decimal. 
-
 ```
 
 
@@ -163,7 +157,6 @@ This example uses the  **CInt** function to convert a value to an **Integer**.
 Dim MyDouble, MyInt 
 MyDouble = 2345.5678 ' MyDouble is a Double. 
 MyInt = CInt(MyDouble) ' MyInt contains 2346. 
-
 ```
 
 
@@ -177,7 +170,6 @@ Dim MyVal1, MyVal2, MyLong1, MyLong2
 MyVal1 = 25427.45: MyVal2 = 25427.55 ' MyVal1, MyVal2 are Doubles. 
 MyLong1 = CLng(MyVal1) ' MyLong1 contains 25427. 
 MyLong2 = CLng(MyVal2) ' MyLong2 contains 25428. 
-
 ```
 
 
@@ -192,7 +184,6 @@ Dim MyDouble1, MyDouble2, MySingle1, MySingle2
 MyDouble1 = 75.3421115: MyDouble2 = 75.3421555 
 MySingle1 = CSng(MyDouble1) ' MySingle1 contains 75.34211. 
 MySingle2 = CSng(MyDouble2) ' MySingle2 contains 75.34216. 
-
 ```
 
 
@@ -205,7 +196,6 @@ This example uses the  **CStr** function to convert a numeric value to a **Strin
 Dim MyDouble, MyString 
 MyDouble = 437.324 ' MyDouble is a Double. 
 MyString = CStr(MyDouble) ' MyString contains +ACI-437.324+ACI-. 
-
 ```
 
 
@@ -219,7 +209,6 @@ Dim MyInt, MyVar
 MyInt = 4534 ' MyInt is an Integer. 
 MyVar = CVar(MyInt & 000) ' MyVar contains the string 
  ' 4534000. 
-
 ```
 
 

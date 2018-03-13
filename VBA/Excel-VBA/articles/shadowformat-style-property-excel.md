@@ -29,10 +29,13 @@ Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle
 
 
 
-|MsoShadowStyle can be one of these  **MsoShadowStyle** constants.|
-| **msoShadowStyleInnerShadow**|
-| **msoShadowStyleMixed**|
-| **msoShadowStyleOuterShadow**|
+|MsoShadowStyle can be one of these  <strong>MsoShadowStyle</strong> constants.|
+| 
+<strong>msoShadowStyleInnerShadow</strong>|
+| 
+<strong>msoShadowStyleMixed</strong>|
+| 
+<strong>msoShadowStyleOuterShadow</strong>|
 
 ## See also
 

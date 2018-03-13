@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-The default value for the  **ActionURL** property is "http://example.microsoft.com/~user/ispscript.cgi". This property is ignored for Reset command buttons.
+The default value for the  <strong>ActionURL</strong> property is "<http://example.microsoft.com/~user/ispscript.cgi>". This property is ignored for Reset command buttons.
 
 
 ## Example

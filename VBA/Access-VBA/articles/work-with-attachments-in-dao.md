@@ -31,23 +31,22 @@ The following code example uses the  **LoadFromFile** method to load an employee
 ```vb
    '  Instantiate the parent recordset.  
    Set rsEmployees = db.OpenRecordset("Employees") 
-  
+
    … Code to move to desired employee 
-  
+
    ' Activate edit mode. 
    rsEmployees.Edit 
-  
+
    ' Instantiate the child recordset. 
    Set rsPictures = rsEmployees.Fields("Pictures").Value  
-  
+
    ' Add a new attachment. 
    rsPictures.AddNew 
    rsPictures.Fields("FileData").LoadFromFile "EmpPhoto39392.jpg" 
    rsPictures.Update 
-  
+
    ' Update the parent record 
    rsEmployees.Update 
-
 ```
 
 
@@ -59,21 +58,20 @@ The following code example shows how to use the  **SaveToFile** method to save a
 ```vb
 '  Instantiate the parent recordset.  
    Set rsEmployees = db.OpenRecordset("Employees") 
-  
+
    … Code to move to desired employee 
-  
+
    ' Instantiate the child recordset. 
    Set rsPictures = rsEmployees.Fields("Pictures").Value  
- 
+
    '  Loop through the attachments. 
    While Not rsPictures.EOF 
-  
+
       '  Save current attachment to disk in the "My Documents" folder. 
       rsPictures.Fields("FileData").SaveToFile _ 
                   "C:\Documents and Settings\Username\My Documents" 
       rsPictures.MoveNext 
    Wend 
-
 ```
 
 

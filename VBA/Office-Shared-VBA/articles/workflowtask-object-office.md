@@ -26,18 +26,17 @@ Sub DisplayWorkTask()
 Dim objWorkflowTasks As WorkflowTasks 
 Dim objWorkflowTask As WorkflowTask 
 Dim cnt As Integer 
- 
+
 Set objWorkflowTasks = Document.GetWorkflowTasks() 
- 
+
 For cnt = 1 To objWorkflowTasks.Count 
  Debug.Print objWorkflowTask(cnt).Name 
 Next 
- 
+
 Set objWorkflowTask = objWorkflowTasks(1) 
 objWorkflowTask.Show 
- 
-End Sub 
 
+End Sub 
 ```
 
 

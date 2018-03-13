@@ -34,7 +34,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.Floor.Interior.ColorIndex = 5 
  End If 
 End With 
-
 ```
 
 

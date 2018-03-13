@@ -38,11 +38,15 @@ The  _DropType_ parameter value can be one of the following **MsoCalloutDropType
 
 ||
 |:-----|
-|**msoCalloutDropBottom**|
-|**msoCalloutDropCenter**|
-|**msoCalloutDropCustom**|
-|**msoCalloutDropMixed**|
-|**msoCalloutDropTop**|
+|<strong>msoCalloutDropBottom</strong>|
+|
+<strong>msoCalloutDropCenter</strong>|
+|
+<strong>msoCalloutDropCustom</strong>|
+|
+<strong>msoCalloutDropMixed</strong>|
+|
+<strong>msoCalloutDropTop</strong>|
 
 ## Example
 

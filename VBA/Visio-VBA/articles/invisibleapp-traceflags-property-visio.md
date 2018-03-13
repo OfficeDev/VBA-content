@@ -34,12 +34,13 @@ The value of the  **TraceFlags** property can be a combination of the following 
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visTraceEvents**|&;H1|Event occurrences|
-| **visTraceAdvises**|&;H2|Outgoing advise calls|
-| **visTraceAddonInvokes**|&;H4|Add-on invocations|
-| **visTraceCallsToVBA**|&;H8|VBA invocations|
+| <strong>Constant</strong>             | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------------------|:-----------------------|:-----------------------------|
+| <strong>visTraceEvents</strong>       | &;H1                   | Event occurrences            |
+| <strong>visTraceAdvises</strong>      | &;H2                   | Outgoing advise calls        |
+| <strong>visTraceAddonInvokes</strong> | &;H4                   | Add-on invocations           |
+| <strong>visTraceCallsToVBA</strong>   | &;H8                   | VBA invocations              |
+
 Setting the  **visTraceEvents** flag causes Visio to log most events as they happen and display them in the Immediate window. In most cases this occurs even if no external agent is listening or responding to the event. In a few cases, Visio knows there is no listener for an event and does not log those events. Visio also does not log idle events or advises. In addition, some events are specializations of other events and aren't recorded. For example, the **SelectionAdded** event is manufactured from distinct **ShapeAdded** events, so the Immediate window records the **ShapeAdded** events but not the **SelectionAdded** events.
 
 Here is a string Visio might log when  **visTraceEvents** is set:
@@ -61,7 +62,6 @@ Setting the  **visTraceAdvises** flag writes a line to the Immediate window just
 ```
 >advise seq=4 event=0x8040 sink=0x40097598 
 <advise seq=4 
-
 ```
 
 These strings indicate the call to and return from an event handler. The sequence number also indicates this event was the fourth one fired by Visio. The code of the event is 0x8040 and the address of the interface Visio called is 0x40097598.
@@ -74,7 +74,6 @@ Setting the  **visTraceAddonInvokes** flag records when Visio invokes an EXE or 
 ```
 >invokeAO: SHOWARGS.EXE 
 <invokeAO: completed 
-
 ```
 
 Setting the  **visTraceAddonInvokes** flag also traces attempts to invoke add-ons that are not present. For example, if a cell's formula is =RunAddon("xxx") and there is no add-on named "xxx", the message "InvokeAO: Failed to map 'xxx' to known Add-on" is logged.
@@ -87,7 +86,6 @@ Setting the  **visTraceCallToVBA flag** writes a line to the Immediate window ju
 ```
 >invokeVBA: Module1.MyMacro 
 <invokeVBA: completed 
-
 ```
 
 A message doesn't appear in the Immediate window unless a document that has a VBA project is open. Visio queues a small number of messages to log when such a document opens. However, messages are lost if no document with a project is available for lengthy periods. Messages are also lost if VBA resets or if there are undismissed breakpoints.
@@ -103,12 +101,12 @@ This VBA macro shows how to use the  **TraceFlags** property to log events, advi
 
 
 ```vb
- 
+
 Public Sub TraceFlags_Example() 
- 
+
  Application.TraceFlags = visTraceEvents + visTraceAdvises + _ 
  visTraceAddonInvokes + visTraceCallsToVBA 
- 
+
 End Sub
 ```
 

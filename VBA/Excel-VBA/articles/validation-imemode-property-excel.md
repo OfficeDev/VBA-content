@@ -27,17 +27,18 @@ Returns or sets the description of the Japanese input rules. Can be one of the  
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **xlIMEModeAlpha**|Half-width alphanumeric|
-| **xlIMEModeAlphaFull**|Full-width alphanumeric|
-| **xlIMEModeDisable**|Disable|
-| **xlIMEModeHiragana**|Hiragana|
-| **xlIMEModeKatakana**|Katakana|
-| **xlIMEModeKatakanaHalf**|Katakana (half-width)|
-| **xlIMEModeNoControl**|No control|
-| **xlIMEModeOff**|Off (English mode)|
-| **xlIMEModeOn**|On|
+| <strong>Constant</strong>              | <strong>Description</strong> |
+|:---------------------------------------|:-----------------------------|
+| <strong>xlIMEModeAlpha</strong>        | Half-width alphanumeric      |
+| <strong>xlIMEModeAlphaFull</strong>    | Full-width alphanumeric      |
+| <strong>xlIMEModeDisable</strong>      | Disable                      |
+| <strong>xlIMEModeHiragana</strong>     | Hiragana                     |
+| <strong>xlIMEModeKatakana</strong>     | Katakana                     |
+| <strong>xlIMEModeKatakanaHalf</strong> | Katakana (half-width)        |
+| <strong>xlIMEModeNoControl</strong>    | No control                   |
+| <strong>xlIMEModeOff</strong>          | Off (English mode)           |
+| <strong>xlIMEModeOn</strong>           | On                           |
+
 Note that this property can be set only when Japanese language support has been installed and selected.
 
 

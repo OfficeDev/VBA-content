@@ -17,9 +17,9 @@ You can use the  **FontBold** property to specify whether a font appears in a bo
 
 
 - When displaying or printing controls on forms and reports.
-    
+
 - When using the  **Print** method on a report.
-    
+
 
  Read/write **Boolean**.
 
@@ -37,10 +37,11 @@ The  **FontBold** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|The text is bold.|
-|**False**|(Default) The text isn't bold.|
+| <strong>Setting</strong> | <strong>Description</strong>   |
+|:-------------------------|:-------------------------------|
+| <strong>True</strong>    | The text is bold.              |
+| <strong>False</strong>   | (Default) The text isn't bold. |
+
 To use the  **FontBold** property on a report, first create a **Print** event procedure that prints the desired text.
 
 A font's appearance on screen and in print may differ, depending on your computer and printer.
@@ -65,7 +66,7 @@ The following Print event procedure prints a report title and the current date i
 Private Sub ReportHeader0_Print(Cancel As Integer, _ 
  PrintCount As Integer) 
  Dim MyDate 
- 
+
  MyDate = Date 
  Me.FontBold = True 
  ' Print report title in bold. 

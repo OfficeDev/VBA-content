@@ -39,7 +39,6 @@ With ActiveDocument.InlineShapes(1)
  .Chart.ChartGroups(1).FirstSliceAngle = 15 
  End If 
 End With 
-
 ```
 
 

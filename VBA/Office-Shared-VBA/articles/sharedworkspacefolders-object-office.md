@@ -32,7 +32,6 @@ Use the  **Folders** property of the **SharedWorkspace** object to return a **Sh
         vbInformation + vbOKOnly, _ 
         "Collection Information" 
     Set swsFolders = Nothing 
-
 ```
 
 

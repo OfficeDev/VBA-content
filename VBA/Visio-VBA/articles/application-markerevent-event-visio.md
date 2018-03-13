@@ -15,7 +15,7 @@ Caused by calling the  **QueueMarkerEvent** method.
 
 ## Syntax
 
-Private Sub  _expression_ _**MarkerEvent**( **_ByVal app As [IVAPPLICATION]_** , **_ByVal SequenceNum As Long_** , **_ByVal ContextString As String_** )
+Private Sub  <em>expression</em> <em><strong>MarkerEvent</strong>( **_ByVal app As [IVAPPLICATION]</em>** , <strong><em>ByVal SequenceNum As Long</em></strong> , <strong><em>ByVal ContextString As String</em></strong> )
 
  _expression_ A variable that represents an **Application** object.
 
@@ -44,11 +44,11 @@ For example, a client program that changes the values of Visio cells may only wa
 
 
 ```
- 
+
 vsoObject.QueueMarkerEvent "ScopeStart" 
  <My program changes cells here> 
-vsoObject.QueueMarkerEvent "ScopeEnd" 
 
+vsoObject.QueueMarkerEvent "ScopeEnd" 
 ```
 
 Then, in the  **MarkerEvent** event handler, the client program could use the context string passed to the **QueueMarkerEvent** method to identify the **CellChanged** events that it caused:
@@ -57,27 +57,28 @@ Then, in the  **MarkerEvent** event handler, the client program could use the co
 
 
 ```vb
- 
+
 Dim blsICausedCellChanges as Boolean 
- 
+
 Private Sub vsoObject_MarkerEvent (ByVal vsoApplication As Visio.IVApplication, _ 
  ByVal lngSequenceNum As Long, ByVal strContextString As String) 
- 
+
  If strContextString = "ScopeStart" Then 
  blsICausedCellChanges = True 
  ElseIf strContextString = "ScopeEnd" Then 
  blsICausedCellChanges = "False" 
  End If 
- 
+
 End Sub 
- 
+
 Private Sub vsoObject_CellChanged (ByVal Cell As Visio.IVCell) 
- 
+
  'Respond only if this client didn't cause a cell change. 
  If blsICausedCellChanges = False Then 
  <respond to the cell changes> 
+
  End If 
- 
+
 End Sub
 ```
 
@@ -100,30 +101,30 @@ Paste this example code into the  **ThisDocument** code window and then run **Us
 
 
 ```vb
- 
+
 Dim WithEvents vsoApplication As Visio.Application 
- 
+
 Private Sub vsoApplication_MarkerEvent(ByVal app As Visio.IVApplication, _ 
  ByVal lngSequenceNum As Long, ByVal strContextString As String) 
  Debug.Print "Marker: " &; app.EventInfo(0) 
- 
+
 End Sub 
- 
+
 Private Sub vsoApplication_ShapeAdded(ByVal vsoShape As Visio.IVShape) 
  Debug.Print " ShapeAdded: " &; vsoShape.Name 
- 
+
 End Sub 
- 
+
 Public Sub UseMarker() 
- 
+
  Set vsoApplication = ThisDocument.Application 
- 
+
  'MarkerEvent events can be used to comment a segment 
  'of events in the queue. 
  vsoApplication.QueueMarkerEvent "I am starting..." 
  ActivePage.DrawRectangle 0, 0, 3, 3 
  vsoApplication.QueueMarkerEvent "I am finished..." 
- 
+
 End Sub
 ```
 

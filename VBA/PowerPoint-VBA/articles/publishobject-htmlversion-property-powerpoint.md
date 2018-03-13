@@ -35,10 +35,13 @@ The value returned by the  **HTMLVersion** property can be one of these **PpHTML
 
 ||
 |:-----|
-|**ppHTMLAutodetect**|
-|**ppHTMLDual**|
-|**ppHTMLv3**|
-|**ppHTMLv4**|
+|<strong>ppHTMLAutodetect</strong>|
+|
+<strong>ppHTMLDual</strong>|
+|
+<strong>ppHTMLv3</strong>|
+|
+<strong>ppHTMLv4</strong>|
 
 ## Example
 

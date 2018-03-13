@@ -22,13 +22,13 @@ The  **DocumentLibraryVersion** object represents a single saved version of a sh
 
 
 - Check In
-    
+
 - Save - A new version is created on the server when the user first saves the document after opening it. Additional changes saved while the document is open apply to the same version.
-    
+
 - Restore
-    
+
 - Upload
-    
+
 
 
 Use the  **Modified**, **ModifiedBy**, and **Comments** properties to return information about a saved version of a shared document.
@@ -62,7 +62,6 @@ The following example displays the properties of each saved version of the activ
  MsgBox strVersionInfo, vbInformation + vbOKOnly, "Version Information" 
  Set dlvVersion = Nothing 
  Set dlvVersions = Nothing 
-
 ```
 
 

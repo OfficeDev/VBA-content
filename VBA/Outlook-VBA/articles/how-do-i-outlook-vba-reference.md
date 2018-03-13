@@ -50,30 +50,30 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
 
  **Appointments**
 
--  [How to: Create an Appointment as a Meeting on the Calendar](create-an-appointment-as-a-meeting-on-the-calendar.md)
+- [How to: Create an Appointment as a Meeting on the Calendar](create-an-appointment-as-a-meeting-on-the-calendar.md)
     
--  [How to: Create a Recurring Appointment that Occurs Every 2 Years](create-a-recurring-appointment-that-occurs-every-2-years.md)
+- [How to: Create a Recurring Appointment that Occurs Every 2 Years](create-a-recurring-appointment-that-occurs-every-2-years.md)
     
--  [How to: Import Appointment XML Data into Outlook Appointment Objects](import-appointment-xml-data-into-outlook-appointment-objects-outlook.md)
+- [How to: Import Appointment XML Data into Outlook Appointment Objects](import-appointment-xml-data-into-outlook-appointment-objects-outlook.md)
     
- **Attachments**
+  **Attachments**
 
--  [Attach a File to an Outlook Email Message](attach-a-file-to-an-outlook-email-message.md)
+- [Attach a File to an Outlook Email Message](attach-a-file-to-an-outlook-email-message.md)
     
--  [Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)
+- [Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)
     
--  [Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
+- [Limit the Size of an Attachment to an Outlook Email Message](limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
     
--  [Modify an Attachment of an Outlook Email Message](modify-an-attachment-of-an-outlook-email-message.md)
+- [Modify an Attachment of an Outlook Email Message](modify-an-attachment-of-an-outlook-email-message.md)
     
- **Contact Pictures**
+  **Contact Pictures**
 
--  [How to: Specify Whether to Display a Contact's Picture in Outlook](http://msdn.microsoft.com/library/0c518245-2c52-435d-98ad-ffad72a4527b%28Office.15%29.aspx)
+- [How to: Specify Whether to Display a Contact's Picture in Outlook](http://msdn.microsoft.com/library/0c518245-2c52-435d-98ad-ffad72a4527b%28Office.15%29.aspx)
     
- **Electronic Business Cards**
+  **Electronic Business Cards**
 
 
--  [How to: Share Contact Information Including the Business Card](share-contact-information-including-the-business-card.md)
+- [How to: Share Contact Information Including the Business Card](share-contact-information-including-the-business-card.md)
     
 
  **Forms**
@@ -123,12 +123,12 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
 
  **Properties**
 
--  [How to: Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request](identify-a-meeting-item-as-a-counter-proposal-to-a-prior-meeting-request.md)
+- [How to: Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request](identify-a-meeting-item-as-a-counter-proposal-to-a-prior-meeting-request.md)
     
- **Rules**
+  **Rules**
 
 
--  [How to: Create a Rule to Move Specific E-mails to a Folder](create-a-rule-to-move-specific-e-mails-to-a-folder.md)
+- [How to: Create a Rule to Move Specific E-mails to a Folder](create-a-rule-to-move-specific-e-mails-to-a-folder.md)
     
 
  **Search and Filter**

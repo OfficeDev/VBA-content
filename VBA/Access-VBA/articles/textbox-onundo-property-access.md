@@ -46,13 +46,12 @@ The following example specifies that when the  **Undo** event occurs in any text
 
 ```vb
 Dim ctlLoop As Control 
- 
+
 For Each ctlLoop In Forms(0).Controls 
  If ctlLoop.Type = acTextBox Then 
  ctlLoop.OnUndo = "[Event Procedure]" 
  End If 
 Next ctlLoop 
-
 ```
 
 

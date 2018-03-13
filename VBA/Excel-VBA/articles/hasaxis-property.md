@@ -29,8 +29,9 @@ Returns or sets which axes exist on the chart. Read/write Variant.
 
 
 |XlAxisGroup can be one of these XlAxisGroup constants.|
-| **xlPrimary**|
-| **xlSecondary**3-D charts have only one set of axes.|
+| <strong>xlPrimary</strong>|
+| 
+<strong>xlSecondary</strong>3-D charts have only one set of axes.|
 
 ## Remarks
 

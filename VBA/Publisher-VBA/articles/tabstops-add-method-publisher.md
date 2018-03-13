@@ -47,11 +47,15 @@ Leader can be one of these  **PbTabLeaderType** constants.
 
 
 
-| **pbTabLeaderBullet**|
-| **pbTabLeaderDashes**|
-| **pbTabLeaderDot**|
-| **pbTabLeaderLine**|
-| **pbTabLeaderNone**|
+| <strong>pbTabLeaderBullet</strong>|
+| 
+<strong>pbTabLeaderDashes</strong>|
+| 
+<strong>pbTabLeaderDot</strong>|
+| 
+<strong>pbTabLeaderLine</strong>|
+| 
+<strong>pbTabLeaderNone</strong>|
 
 ## Example
 

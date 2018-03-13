@@ -29,7 +29,6 @@ With ActivePresentation.SlideMaster _
  .FirstMargin = 9 
  .LeftMargin = 54 
 End With 
-
 ```
 
 

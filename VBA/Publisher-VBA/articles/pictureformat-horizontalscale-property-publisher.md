@@ -43,13 +43,13 @@ The following example prints selected image properties for each picture in the a
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbPicture Or shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
- 
+
  If .IsEmpty = msoFalse Then 
  Debug.Print "File Name: " &; .Filename 
  Debug.Print "Resolution in Publication: " &; .EffectiveResolution &; " dpi" 
@@ -58,13 +58,11 @@ For Each pgLoop In ActiveDocument.Pages
  Debug.Print "Vertical Scaling: " &; .VerticalScale &; "%" 
  Debug.Print "Width in publication: " &; .Width &; " points" 
  End If 
- 
+
  End With 
  End If 
  Next shpLoop 
 Next pgLoop 
- 
-
 ```
 
 

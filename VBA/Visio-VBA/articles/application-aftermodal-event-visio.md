@@ -15,7 +15,7 @@ Occurs after the Microsoft Visio instance leaves a modal state.
 
 ## Syntax
 
-Private Sub  _expression_ _**AfterModal**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>AfterModal</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

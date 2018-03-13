@@ -20,7 +20,7 @@ If you use the objects in other applications as part of your Visual Basic applic
 
 1. From the  **Tools** menu, choose **References** to display the **References** dialog box.
     
-2. The  **References** dialog box shows all object libraries registered with the operating system. Scroll through the list for the application whose object library you want to reference. If the application isn't listed, you can use the **Browse** button to search for object libraries (*.olb and *.tlb) or[executable files](vbe-glossary.md) (*.exe and *.dll on Windows). References whose check boxes are checked are used by your[project](vbe-glossary.md); those that aren't checked are not used, but can be added.
+2. The  <strong>References</strong> dialog box shows all object libraries registered with the operating system. Scroll through the list for the application whose object library you want to reference. If the application isn't listed, you can use the <strong>Browse</strong> button to search for object libraries (<em>.olb and *.tlb) or<a href="vbe-glossary.md" data-raw-source="[executable files](vbe-glossary.md)">executable files</a> (</em>.exe and *.dll on Windows). References whose check boxes are checked are used by your[project](vbe-glossary.md); those that aren't checked are not used, but can be added.
     
 
  **To add a object library reference to your project**

@@ -45,31 +45,31 @@ Sub SortAll()
     Application.ScreenUpdating = False
     Dim lngLastRow As Long, lngRow As Long
     Dim rngHidden As Range
-    
+
     'Determine the number of rows in your sheet, and add the header row to the hidden range variable.
     lngLastRow = Cells(Rows.Count, 1).End(xlUp).Row
     Set rngHidden = Rows(1)
-    
+
     'For each row in the list, if the row is hidden add that that row to the hidden range variable.
     For lngRow = 1 To lngLastRow
         If Rows(lngRow).Hidden = True Then
             Set rngHidden = Union(rngHidden, Rows(lngRow))
         End If
     Next lngRow
-    
+
     'Unhide everything in the hidden range variable.
     rngHidden.EntireRow.Hidden = False
-    
+
     'Perform the sort on all the data.
     Range("A1").CurrentRegion.Sort _
         key1:=Range("A2"), _
         order1:=xlAscending, _
         header:=xlYes
-        
+
     'Re-hide the rows that were originally hidden, but unhide the header.
     rngHidden.EntireRow.Hidden = True
     Rows(1).Hidden = False
-    
+
     'Turn screen updating back on.
     Set rngHidden = Nothing
     Application.ScreenUpdating = True
@@ -80,11 +80,13 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
+
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 <a name="AboutContributor"> </a>
+
 
 
 #### Concepts

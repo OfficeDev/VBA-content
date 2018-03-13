@@ -47,7 +47,6 @@ The following example checks for a conflict between the local and the server cop
         MsgBox strStatus, vbInformation + vbOKOnly, "Server Copy Changed" 
     End If 
     Set objSync = Nothing 
-
 ```
 
 

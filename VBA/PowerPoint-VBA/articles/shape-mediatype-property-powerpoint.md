@@ -35,10 +35,13 @@ The value of the  **MediaType** property can be one of these **PpMediaType** con
 
 ||
 |:-----|
-|**ppMediaTypeMixed**|
-|**ppMediaTypeMovie**|
-|**ppMediaTypeOther**|
-|**ppMediaTypeSound**|
+|<strong>ppMediaTypeMixed</strong>|
+|
+<strong>ppMediaTypeMovie</strong>|
+|
+<strong>ppMediaTypeOther</strong>|
+|
+<strong>ppMediaTypeSound</strong>|
 
 ## Example
 

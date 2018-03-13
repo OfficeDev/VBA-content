@@ -19,11 +19,12 @@ Used to divide two numbers and return only the remainder.
 The  **Mod** operator syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _result_|Required; any numeric [variable](vbe-glossary.md).|
-| _number1_|Required; any [numeric expression](vbe-glossary.md).|
-| _number2_|Required; any numeric expression.|
+| <strong>Part</strong> | <strong>Description</strong>                         |
+|:----------------------|:-----------------------------------------------------|
+| <em>result</em>       | Required; any numeric [variable](vbe-glossary.md).   |
+| <em>number1</em>      | Required; any [numeric expression](vbe-glossary.md). |
+| <em>number2</em>      | Required; any numeric expression.                    |
+
  **Remarks**
 The modulus, or remainder, operator divides  _number1_ by _number2_ (rounding floating-point numbers to integers) and returns only the remainder as _result_. For example, in the following[expression](vbe-glossary.md), A ( _result_ ) equals 5.
 Usually, the [data type](vbe-glossary.md) of _result_ is a[Byte](vbe-glossary.md),  **Byte** variant,[Integer](vbe-glossary.md),  **Integer** variant,[Long](vbe-glossary.md), or [Variant](vbe-glossary.md) containing a **Long**, regardless of whether or not _result_ is a whole number. Any fractional portion is truncated. However, if any expression is[Null](vbe-glossary.md),  _result_ is **Null**. Any expression that is[Empty](vbe-glossary.md) is treated as 0.

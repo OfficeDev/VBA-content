@@ -24,11 +24,12 @@ The settings for  **Orientation** are:
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|-1|Automatically determines the orientation based upon the dimensions of the control (default).|
-|0|Control is rendered vertically.|
-|1|Control is rendered horizontally.|
+| <strong>Value</strong> | <strong>Description</strong>                                                                 |
+|:-----------------------|:---------------------------------------------------------------------------------------------|
+| -1                     | Automatically determines the orientation based upon the dimensions of the control (default). |
+| 0                      | Control is rendered vertically.                                                              |
+| 1                      | Control is rendered horizontally.                                                            |
+
 If you specify automatic orientation, the height and width of the control determine whether it appears horizontally or vertically. For example, if the control is wider than it is tall, it appears horizontally; if it is taller than it is wide, the control appears vertically.
 
 

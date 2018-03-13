@@ -35,33 +35,32 @@ Private Sub ListCategoryIDs()
  Dim objNameSpace As NameSpace 
  Dim objCategory As Category 
  Dim strOutput As String 
- 
+
  ' Obtain a NameSpace object reference. 
  Set objNameSpace = Application.GetNamespace("MAPI") 
- 
+
  ' Check if the Categories collection for the Namespace 
  ' contains one or more Category objects. 
  If objNameSpace.Categories.Count > 0 Then 
- 
+
  ' Enumerate the Categories collection. 
  For Each objCategory In objNameSpace.Categories 
- 
+
  ' Add the name and ID of the Category object to 
  ' the output string. 
  strOutput = strOutput &amp; objCategory.Name &amp; _ 
  ": " &amp; objCategory.CategoryID &amp; vbCrLf 
  Next 
  End If 
- 
+
  ' Display the output string. 
  MsgBox strOutput 
- 
+
  ' Clean up. 
  Set objCategory = Nothing 
  Set objNameSpace = Nothing 
- 
-End Sub 
 
+End Sub 
 ```
 
 

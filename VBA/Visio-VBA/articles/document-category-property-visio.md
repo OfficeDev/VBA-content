@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Setting the  **Category** property is equivalent to entering information in the **Categories** box in the **Properties** dialog box (click the **File** tab, click **Info**, click  ** Properties**, and then click  **Advanced Properties**).
+Setting the  <strong>Category</strong> property is equivalent to entering information in the <strong>Categories</strong> box in the <strong>Properties</strong> dialog box (click the <strong>File</strong> tab, click <strong>Info</strong>, click  ** Properties<strong>, and then click  **Advanced Properties</strong>).
 
 
  **Security Note**  

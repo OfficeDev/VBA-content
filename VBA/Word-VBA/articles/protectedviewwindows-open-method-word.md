@@ -52,7 +52,6 @@ The following code example opens a document in a new protected view window.
 
 ```
 ProtectedViewWindows.Open FileName:="C:\MyFiles\MyDoc.doc" 
-
 ```
 
 

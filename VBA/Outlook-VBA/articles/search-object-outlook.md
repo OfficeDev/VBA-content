@@ -32,30 +32,28 @@ The following Microsoft Visual Basic for Applications (VBA) example returns a se
 
 ```
 Sub SearchInboxFolder() 
- 
-'Searches the Inbox 
- 
- 
- 
- Dim objSch As Search 
- 
- Const strF As String = _ 
- 
- "urn:schemas:mailheader:subject = 'Office Christmas Party'" 
- 
- Const strS As String = "Inbox" 
- 
- Const strTag As String = "SubjectSearch" 
- 
- Set objSch = Application.AdvancedSearch(Scope:=strS, _ 
- 
- Filter:=strF, SearchSubFolders:=True, Tag:=strTag) 
- 
- 
- 
-End Sub 
- 
 
+'Searches the Inbox 
+
+
+
+ Dim objSch As Search 
+
+ Const strF As String = _ 
+
+ "urn:schemas:mailheader:subject = 'Office Christmas Party'" 
+
+ Const strS As String = "Inbox" 
+
+ Const strTag As String = "SubjectSearch" 
+
+ Set objSch = Application.AdvancedSearch(Scope:=strS, _ 
+
+ Filter:=strF, SearchSubFolders:=True, Tag:=strTag) 
+
+
+
+End Sub 
 ```
 
 The following VBA example displays information about the search and the results of the search.
@@ -65,32 +63,30 @@ The following VBA example displays information about the search and the results 
 
 ```
 Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search) 
- 
- 
- 
- Dim objRsts As Results 
- 
- MsgBox "The search " &amp; SearchObject.Tag &amp; "has completed. 
- 
- Set objRsts = SearchObject.Results 
- 
- 'Print out number in Results collection 
- 
- Debug.Print objRsts.Count 
- 
- 'Print out each member of Results collection 
- 
- For Each Item In objRsts 
- 
- Debug.Print Item 
- 
- Next 
- 
- 
- 
-End Sub 
- 
 
+
+
+ Dim objRsts As Results 
+
+ MsgBox "The search " &amp; SearchObject.Tag &amp; "has completed. 
+
+ Set objRsts = SearchObject.Results 
+
+ 'Print out number in Results collection 
+
+ Debug.Print objRsts.Count 
+
+ 'Print out each member of Results collection 
+
+ For Each Item In objRsts 
+
+ Debug.Print Item 
+
+ Next 
+
+
+
+End Sub 
 ```
 
 

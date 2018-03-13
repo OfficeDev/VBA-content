@@ -29,12 +29,17 @@ ms.date: 06/08/2017
 
 
 
-| **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue**|
-| **msoFalse** . You can change the height and width of the shape independently of one another when you resize it.|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** . The specified shape retains its original proportions when you resize it.|
+| <strong>MsoTriState</strong> can be one of these <strong>MsoTriState</strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong> . You can change the height and width of the shape independently of one another when you resize it.|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong> . The specified shape retains its original proportions when you resize it.|
 
 ## See also
 

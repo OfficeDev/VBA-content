@@ -22,12 +22,13 @@ A  **Form** object is a member of the **Forms** collection, which is a collectio
 
 
 
-|**Syntax**|**Example**|
-|:-----|:-----|
-|**AllForms** ! _formname_|AllForms!OrderForm|
-|**AllForms** ![ _form name_]|AllForms![Order Form]|
-|**AllForms** (" _formname_")|AllForms("OrderForm")|
-|**AllForms** ( _formname_)|AllForms(0)|
+| <strong>Syntax</strong>                          | <strong>Example</strong> |
+|:-------------------------------------------------|:-------------------------|
+| <strong>AllForms</strong> ! <em>formname</em>    | AllForms!OrderForm       |
+| <strong>AllForms</strong> ![ <em>form name</em>] | AllForms![Order Form]    |
+| <strong>AllForms</strong> (" <em>formname</em>") | AllForms("OrderForm")    |
+| <strong>AllForms</strong> ( <em>formname</em>)   | AllForms(0)              |
+
 Each  **Form** object has a **Controls** collection, which contains all controls on the form. You can refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**:
 
 
@@ -67,23 +68,23 @@ Forms!OrderForm.ctlSubForm!NewData
 
 
 - [Microsoft Access Form Tips and Avoiding Common Mistakes](http://www.fmsinc.com/tpapers/genaccess/formtips.html)
-    
+
 - [Microsoft Office Access 2007 Form Design Tips](http://www.fmsinc.com/tpapers/access/Forms/Access2007FormTips.html)
-    
- **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+
+  **Links provided by:**
+  ![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Display Pictures on a Form](http://www.utteraccess.com/wiki/index.php/Display_Pictures_on_a_Form)
-    
+
 - [Display Related Data](http://www.utteraccess.com/wiki/index.php/Display_Related_Data)
-    
+
 - [Opening a Detail Form to Related Information](http://www.utteraccess.com/wiki/index.php/Forms:_Open_a_Detail_Form_to_Related_Information)
-    
+
 - [Forms: Populate Controls/Text Boxes Based on Combobox Selection](http://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
-    
+
 - [Referring To Properties And Controls On Subforms](http://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
-    
+
 
 ## Example
 
@@ -473,6 +474,7 @@ End Sub
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
+
 
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 

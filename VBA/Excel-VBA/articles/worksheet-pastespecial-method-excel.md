@@ -62,7 +62,6 @@ This example pastes a picture object and does not display it as an icon
 Worksheets("Sheet1").Range("F5").PasteSpecial _ 
  Format:="Picture (Enhanced Metafile)", Link:=False,
  DisplayAsIcon:=False 
-
 ```
 
 **Note**  For developers of languages other than English, you can substitute one of the following constants (0-5) to correspond with the string equivalent of the picture file format:

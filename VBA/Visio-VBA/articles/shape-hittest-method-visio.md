@@ -48,11 +48,12 @@ The following are possible values returned by the  **HitTest** method, and are d
 
 
 
-|**Constant**|**Value**|
-|:-----|:-----|
-| **visHitOutside**|0|
-| **visHitOnBoundary**|1|
-| **visHitInside**|2|
+| <strong>Constant</strong>         | <strong>Value</strong> |
+|:----------------------------------|:-----------------------|
+| <strong>visHitOutside</strong>    | 0                      |
+| <strong>visHitOnBoundary</strong> | 1                      |
+| <strong>visHitInside</strong>     | 2                      |
+
 Data graphic callout shapes (and their sub-shapes) that are applied to the parent shape are excluded from hit-test calculations. If the parent shape is itself a data graphic callout shape, its geometry (and that of its sub-shapes) is  _not_ excluded from hit-test calculations.
 
 

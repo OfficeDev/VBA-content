@@ -56,7 +56,6 @@ This example formats as bold the second sentence in the second paragraph in shap
 Application.ActivePresentation.Slides(1).Shapes(2) _ 
  .TextFrame.TextRange2.Paragraphs(2).Sentences(2).Font _ 
  .Bold = True 
- 
 ```
 
 

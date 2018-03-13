@@ -35,7 +35,6 @@ The following example specifies that when the  **SelectionChange** event occurs 
 
 ```vb
 Forms(0).SelectionChange = "[Event Procedure]" 
-
 ```
 
 

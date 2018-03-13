@@ -71,8 +71,9 @@ The Link paramter can be one of these  **MsoTriState** constants.
 
 ||
 |:-----|
-|**msoFalse** The default. Does not create a link to the source file of the Clipboard contents.|
-|**msoTrue** Creates a link to the source file of the Clipboard contents.|
+|<strong>msoFalse</strong> The default. Does not create a link to the source file of the Clipboard contents.|
+|
+<strong>msoTrue</strong> Creates a link to the source file of the Clipboard contents.|
 
 ## Example
 

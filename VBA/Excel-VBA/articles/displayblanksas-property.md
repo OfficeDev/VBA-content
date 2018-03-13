@@ -18,9 +18,11 @@ Returns or sets the way that blank cells are plotted on a chart. Read/write XlDi
 
 
 |XlDisplayBlanksAs can be one of these XlDisplayBlanksAs constants.|
-| **xlInterpolated**|
-| **xlNotPlotted**|
-| **xlZero**|
+| <strong>xlInterpolated</strong>|
+| 
+<strong>xlNotPlotted</strong>|
+| 
+<strong>xlZero</strong>|
 
  _expression_. **DisplayBlanksAs**
 

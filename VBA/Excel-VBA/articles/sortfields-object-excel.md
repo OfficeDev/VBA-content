@@ -28,7 +28,6 @@ The object contains properties to add, count, sort, and remove  **SortField** ob
 ActiveWorksheet.SortFields.Add Key:=Range("A1"), Order:=xlDescending 
 ActiveWorksheet.SortFields.Add Key:=Range("B1"), Order:=xlDescending 
 ActiveWorksheet.SortFields.Sort Header:=xlGuess 
-
 ```
 
 

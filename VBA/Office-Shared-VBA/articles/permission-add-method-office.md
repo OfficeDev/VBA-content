@@ -48,7 +48,6 @@ The following example assigns a combination of read and edit permissions on the 
  vbInformation + vbOKOnly, _ 
  "Permissions Added" 
  Set objUserPerm = Nothing 
-
 ```
 
 

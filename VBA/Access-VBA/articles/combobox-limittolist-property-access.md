@@ -29,10 +29,11 @@ The  **LimitToList** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|If the user selects an item from the list in the combo box or enters text that matches a listed item, Microsoft Access accepts it. If the entered text doesn't match a listed item, the text isn't accepted and the user must then retype the entry, select a listed item, press ESC, or click  **Undo** on the **Edit** menu.|
-|No|**False**|(Default) Microsoft Access accepts any text that conforms to the  **[ValidationRule](combobox-validationrule-property-access.md)** property.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                             |
+|:-------------------------|:------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | If the user selects an item from the list in the combo box or enters text that matches a listed item, Microsoft Access accepts it. If the entered text doesn't match a listed item, the text isn't accepted and the user must then retype the entry, select a listed item, press ESC, or click  <strong>Undo</strong> on the <strong>Edit</strong> menu. |
+| No                       | <strong>False</strong>        | (Default) Microsoft Access accepts any text that conforms to the  <strong><a href="combobox-validationrule-property-access.md" data-raw-source="[ValidationRule](combobox-validationrule-property-access.md)">ValidationRule</a></strong> property.                                                                                                      |
+
 For [table fields](table-field.md) , you can set this property on the **Lookup** tab of the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box.
 
 
@@ -54,7 +55,7 @@ Combo boxes accept  **null** values when the **LimitToList** property is set to 
 
 
 - [Tips and Techniques for Using and Validating Combo Boxes](http://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
-    
+
 
 ## Example
 
@@ -63,18 +64,19 @@ The following example limits a given combo box's values to its listed items.
 
 ```vb
 Forms("Order Entry").Controls("States").LimitToList = True  
-
 ```
 
 
 ## About the Contributors
 <a name="AboutContributors"> </a>
 
+
 Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
 
 ## See also
 <a name="AboutContributors"> </a>
+
 
 
 #### Concepts

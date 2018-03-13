@@ -34,11 +34,11 @@ Use the  **Restore** method to return to an earlier saved version of the active 
 
 
 1. It changes the open version of the shared document to read-only mode but leaves it open.
-    
+
 2. It opens the restored version in read/write mode.
-    
+
 3. It saves the restored version to the server as a new document version, making the restored version the latest version.
-    
+
 
 
 The  **Restore** method raises a run-time error if the active document has changes that have not been saved.
@@ -54,7 +54,6 @@ The following example restores the previous version of the active document.
  Set dlvVersions = ActiveDocument.DocumentLibraryVersions 
  dlvVersions(dlvVersions.Count - 1).Restore 
  Set dlvVersions = Nothing 
-
 ```
 
 

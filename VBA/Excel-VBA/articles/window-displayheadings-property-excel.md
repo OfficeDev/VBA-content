@@ -38,7 +38,6 @@ This example turns off the display of row and column headings in the active wind
 ```vb
 Workbooks("BOOK1.XLS").Worksheets("Sheet1").Activate 
 ActiveWindow.DisplayHeadings = False 
-
 ```
 
 

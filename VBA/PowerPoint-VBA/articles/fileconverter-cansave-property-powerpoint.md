@@ -45,10 +45,10 @@ Dim lngSaveFormat As Long
 
 If Application.FileConverters("WordPerfect6x").CanSave = _
         True Then
-		
+        
     lngSaveFormat = _
         Application.FileConverters("WordPerfect6x").SaveFormat
-		
+        
     ActiveDocument.SaveAs FileName:="C:\Document.wp", _
         FileFormat:=lngSaveFormat
 

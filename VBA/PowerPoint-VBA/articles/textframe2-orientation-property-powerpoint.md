@@ -35,13 +35,19 @@ The value of the  **Orientation** property can be one of these **MsoTextOrientat
 
 ||
 |:-----|
-|**msoTextOrientationDownward**|
-|**msoTextOrientationHorizontal**|
-|**msoTextOrientationHorizontalRotatedFarEast**|
-|**msoTextOrientationMixed**|
-|**msoTextOrientationUpward**|
-|**msoTextOrientationVertical**|
-|**msoTextOrientationVerticalFarEast**|
+|<strong>msoTextOrientationDownward</strong>|
+|
+<strong>msoTextOrientationHorizontal</strong>|
+|
+<strong>msoTextOrientationHorizontalRotatedFarEast</strong>|
+|
+<strong>msoTextOrientationMixed</strong>|
+|
+<strong>msoTextOrientationUpward</strong>|
+|
+<strong>msoTextOrientationVertical</strong>|
+|
+<strong>msoTextOrientationVerticalFarEast</strong>|
 
  **Note**  Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 

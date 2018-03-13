@@ -19,9 +19,10 @@ Transfers the contents of the Clipboard to an object.
 The  **Paste** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
 Data pasted into a  **ComboBox** or **TextBox** is treated as text.
 When the paste method is used with a form, you can paste any object onto the form.

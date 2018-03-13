@@ -24,6 +24,7 @@ This article explores some of the primary reasons to leverage the power of VBA p
 ## When to Use VBA and Why
 <a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_WhenAndWhyToUseVBA"> </a>
 
+
 There are three principal reasons to consider VBA programming in Office.
 
 
@@ -57,6 +58,7 @@ Before you begin a VBA project, ensure that you have the time to work with VBA. 
 
 ## VBA Programming 101
 <a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_VBAProgramming101"> </a>
+
 
 
 ### Using Code to Make Applications Do Things
@@ -141,15 +143,15 @@ All Office applications use the ribbon. One tab on the ribbon is the  **Develope
 
 
 1. On the  **File** tab, choose **Options** to open the **Options** dialog box.
-    
+
 2. Click  **Customize Ribbon** on the left side of the dialog box.
-    
+
 3. Under  **Choose commands from** on the left side of the dialog box, select **Popular Commands**.
-    
+
 4. Under  **Customize the Ribbon** on the right side of the dialog box, select **Main Tabs** in the drop down list box, and then select the **Developer** checkbox.
-    
+
 5. Click  **OK**.
-    
+
 
  **Note**  In Office 2007, you displayed the Developer tab by clicking the Office button, clicking  **Options**, and then selecting the  **Show Developer tab in Ribbon** checkbox in the **Popular** category of the **Options** dialog box
 
@@ -184,15 +186,15 @@ Another button on the  **Developer** tab in Word and Excel is the **Record Macro
 
 
 1. Open Excel to a new Workbook and click the  **Developer** tab in the ribbon. Click **Record Macro** and accept all of the default settings in the **Record Macro** dialog box, includingMacro1 as the name of the macro andThis Workbook as the location.
-    
+
 2. Click  **OK** to begin recording the macro. Note how the button text changes to **Stop Recording**. Click that button the instant you complete the actions that you want to record.
-    
+
 3. Click in cell B1 and type the programmer's classic first string: Hello World. Stop typing and look at the  **Stop Recording** button; it is grayed out because Excel is waiting for you to finish typing the value in the cell.
-    
+
 4. Click in cell B2 to complete the action in cell B1, and then click  **Stop Recording**.
-    
+
 5. Click  **Macros** on the ** Developer** tab, select **Macro1** if it is not selected, and then click **Edit** to view the code from Macro1 in the Visual Basic Editor.
-    
+
 
 **Figure 2. Macro code in Visual Basic Editor**
 
@@ -273,6 +275,7 @@ Did not work? Read on for debugging suggestions in VBA.
 <a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_ProgrammingTipsAndTricks"> </a>
 
 
+
 ### Start with Examples
 
 The VBA community is very large; a search on the Web can almost always yield an example of VBA code that does something similar to what you want to do. If you cannot find a good example, try to break the task down into smaller units and search on each of those, or try to think of a more common, but similar problem. Starting with an example can save you hours of time.
@@ -336,16 +339,17 @@ The following are a few points of etiquette to follow when you post to a develop
 
 
 - Before you post, look on the site for an FAQ or for guidelines that members want you to follow. Ensure that you post content that is consistent with those guidelines and in the correct section of the forum.
-    
+
 - Include a clear and complete code sample, and consider editing your code to clarify it for others if it is part of a longer section of code.
-    
+
 - Describe your problem clearly and concisely, and summarize any steps that you have taken to solve the problem. Take the time to write your post as well as you can, especially if you are flustered or in a hurry. Present the situation in a way that will make sense to readers the first time that they read the problem statement.
-    
+
 - Be polite and express your appreciation.
-    
+
 
 ## Going Further with Programming
 <a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_GoingFurtherWithProgramming"> </a>
+
 
 Although this article is short and only scratches the surface of VBA and programming, it is hopefully enough to get you started.
 
@@ -391,6 +395,7 @@ Type or paste the code into the Visual Basic Editor and then run it. Follow the 
 
 ## All of My Office Applications: Example Code
 <a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_AllOfMyOfficeAppsExampleCode"> </a>
+
 
 Here are a few scripts to try; each solves a real-world Office problem.
 
@@ -475,6 +480,7 @@ Be aware that this code copies the currently open contact in Outlook into the op
 
 ## Summary
 <a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_Summary"> </a>
+
 
 This article introduced you to the power of Visual Basic for Applications (VBA) in Office and how VBA can automate repetitive tasks.
 

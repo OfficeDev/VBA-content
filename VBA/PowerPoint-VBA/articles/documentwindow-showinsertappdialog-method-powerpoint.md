@@ -13,7 +13,7 @@ ms.prod: powerpoint
 
 ## Syntax
 
- _expression_. **ShowInsertAppDialog**_(Filter) _
+ <em>expression</em>. <strong>ShowInsertAppDialog</strong><em>(Filter) </em>
 
  _expression_ A variable that represents a **DocumentWindow** object.
 

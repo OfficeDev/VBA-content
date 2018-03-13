@@ -17,21 +17,19 @@ The following table summarizes the namespaces and the Outlook objects that the n
 
 
 
-| **Namespaces**| **Supported Outlook Objects**|
-|:-----|:-----|
-|http://schemas.microsoft.com/mapi/proptag| [Outlook item objects](outlook-item-objects.md),  **[AddressEntry](addressentry-object-outlook.md)**,  **[AddressList](addresslist-object-outlook.md)**,  **[Attachment](attachment-object-outlook.md)**,  **[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)**,  **[ExchangeUser](exchangeuser-object-outlook.md)**,  **[Folder](folder-object-outlook.md)**,  **[Recipient](recipient-object-outlook.md)**, and  **[Store](store-object-outlook.md)** objects.|
-|http://schemas.microsoft.com/mapi/id| (Same as above)|
-|http://schemas.microsoft.com/mapi/string|(Same as above)|
-|http://schemas.microsoft.com/exchange|(Same as above)|
-|urn:schemas-microsoft-com:office:office|Outlook item objects|
-|urn:schemas-microsoft-com:office:outlook|Outlook item objects|
-|DAV:|Outlook item objects|
-|urn:schemas:calendar|Outlook item objects|
-|urn:schemas:contacts|Outlook item objects|
-|urn:schemas:httpmail|Outlook item objects|
-|urn:schemas:mailheader|Outlook item objects|
-
-
+| <strong>Namespaces</strong>               | <strong>Supported Outlook Objects</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|:------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| http://schemas.microsoft.com/mapi/proptag | [Outlook item objects](outlook-item-objects.md),  <strong><a href="addressentry-object-outlook.md" data-raw-source="[AddressEntry](addressentry-object-outlook.md)">AddressEntry</a></strong>,  <strong><a href="addresslist-object-outlook.md" data-raw-source="[AddressList](addresslist-object-outlook.md)">AddressList</a></strong>,  <strong><a href="attachment-object-outlook.md" data-raw-source="[Attachment](attachment-object-outlook.md)">Attachment</a></strong>,  <strong><a href="exchangedistributionlist-object-outlook.md" data-raw-source="[ExchangeDistributionList](exchangedistributionlist-object-outlook.md)">ExchangeDistributionList</a></strong>,  <strong><a href="exchangeuser-object-outlook.md" data-raw-source="[ExchangeUser](exchangeuser-object-outlook.md)">ExchangeUser</a></strong>,  <strong><a href="folder-object-outlook.md" data-raw-source="[Folder](folder-object-outlook.md)">Folder</a></strong>,  <strong><a href="recipient-object-outlook.md" data-raw-source="[Recipient](recipient-object-outlook.md)">Recipient</a></strong>, and  <strong><a href="store-object-outlook.md" data-raw-source="[Store](store-object-outlook.md)">Store</a></strong> objects. |
+| http://schemas.microsoft.com/mapi/id      | (Same as above)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| http://schemas.microsoft.com/mapi/string  | (Same as above)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| http://schemas.microsoft.com/exchange     | (Same as above)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| urn:schemas-microsoft-com:office:office   | Outlook item objects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| urn:schemas-microsoft-com:office:outlook  | Outlook item objects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| DAV:                                      | Outlook item objects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| urn:schemas:calendar                      | Outlook item objects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| urn:schemas:contacts                      | Outlook item objects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| urn:schemas:httpmail                      | Outlook item objects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| urn:schemas:mailheader                    | Outlook item objects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## Messaging Application Programming Interface (MAPI) Namespaces
 
@@ -39,13 +37,13 @@ Many properties that Outlook supports are MAPI properties. The  **[PropertyAcces
 
 
 -  **proptag** namespace
-    
+
     This namespace is used to access properties in the MAPI namespace using the property tag of a property. It supports only properties in the MAPI property range (that is, properties with a property identifier below 0x8000). The following is the format to reference a property in this namespace:
-    
+
      **http://schemas.microsoft.com/mapi/proptag/0xHHHHHHHH**
-    
+
      **HHHHHHHH** represents a hexadecimal property tag value, with a unique property identifier in the higher-order 16 bits, and a property type in the lower-order 16 bits. Every MAPI property must have a property tag, regardless of whether the property is defined by MAPI, Outlook, or a service provider. The hexadecimal value must follow the prefix "0x". Formally, references of properties in this namespace can be defined in ABNF as follows:
-    
+
 
 
 ```
@@ -56,19 +54,19 @@ property-type = 4HEXDIG
 
 
     For example, the following represents the MAPI property  **PidTagSubject** that Outlook exposes in its object model as **Subject**: 
-    
+
      **http://schemas.microsoft.com/mapi/proptag/0x0037001E**
-    
--  **id** namespace
-    
-    This namespace is used to access properties in a namespace identified by the globally unique identifier (GUID) of the namespace, using the identifier of the property. The following is the format to reference a property in this namespace:
-    
-     **http://schemas.microsoft.com/mapi/id/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/HHHHHHHH**
-    
-     **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **HHHHHHHH** represents the property tag.
-    
-    Formally, references of properties in this namespace can be defined in ABNF as follows:
-    
+
+- **id** namespace
+
+   This namespace is used to access properties in a namespace identified by the globally unique identifier (GUID) of the namespace, using the identifier of the property. The following is the format to reference a property in this namespace:
+
+    <strong>http://schemas.microsoft.com/mapi/id/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/HHHHHHHH</strong>
+
+    **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **HHHHHHHH** represents the property tag.
+
+   Formally, references of properties in this namespace can be defined in ABNF as follows:
+
 
 
 ```
@@ -79,19 +77,19 @@ property-long-id = 8HEXDIG
 
 
     For example, the following represents the Outlook  **NoAging** property:
-    
+
      **http://schemas.microsoft.com/mapi/id/{00062008-0000-0000-C000-000000000046}/850E000B**
-    
--  **string** namespace
-    
-    This namespace is used to access string-named properties in an identified namespace. The following is the format to reference a property in this namespace:
-    
-     **http://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/ _name_**
-    
-     **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **_name_** is the local property name defined as a string.
-    
-    Formally, references of properties in this namespace can be defined in ABNF as follows:
-    
+
+- **string** namespace
+
+   This namespace is used to access string-named properties in an identified namespace. The following is the format to reference a property in this namespace:
+
+    <strong>http://schemas.microsoft.com/mapi/string/{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}/ <em>name</em></strong>
+
+    **{HHHHHHHH-HHHH-HHHH-HHHH-HHHHHHHHHHHH}** represents the namespace GUID, and **_name_** is the local property name defined as a string.
+
+   Formally, references of properties in this namespace can be defined in ABNF as follows:
+
 
 
 ```
@@ -102,11 +100,11 @@ property-name = 1*CHAR
 
 
     The following is an example that uses this namespace:
-    
+
      **http://schemas.microsoft.com/mapi/string/{00020386-0000-0000-C000-000000000046}/content-class**
-    
+
     Escaping rules apply to referencing named properties in the  **string** namespace. When referencing a named property that has a string identifier (for example, Author, Company, and Title), if the property name contains a space, single quote, double quote, or percent character, you must use Universal Resource Locator (URL) escaping and represent such characters with the corresponding escape string as shown in the following table.
-    
+
 
 | **Character in Property Reference**| **Escape String**|
 |Space character|%20|
@@ -115,7 +113,7 @@ property-name = 1*CHAR
 |Percent character|%25|
 
     The following is an example of how you specify and get the value of a named property,  **Mom's "Gift"**, defined in the MAPI string namespace, by using the  ** [PropertyAccessor.GetProperty](propertyaccessor-getproperty-method-outlook.md)** method:
-    
+
 
 
 ```vb
@@ -142,31 +140,31 @@ The  **PropertyAccessor** object supports two Office subnamespaces:
 
 
 - Office namespace 
-    
+
     This namespace is used to access properties of the  **[DocumentItem](documentitem-object-outlook.md)** object. The following is the format to reference a property in this namespace:
-    
-     **urn:schemas-microsoft-com:office:office# _name_**
-    
+
+     <strong>urn:schemas-microsoft-com<span class="emoji" shortCode="office">🏢</span>office# <em>name</em></strong>
+
      **_name_** is the local property name defined as a string.
-    
+
     The following are some examples of referencing  **DocumentItem** properties using the Office namespace:
-    
+
       -  **urn:schemas-microsoft-com:office:office#Subject**
-    
-  -  **urn:schemas-microsoft-com:office:office#Template**
-    
+
+  - <strong>urn:schemas-microsoft-com<span class="emoji" shortCode="office">🏢</span>office#Template</strong>
+
 - Outlook namespace
-    
+
     This namespace is used to access Outlook item-level properties. Similar to other namespaces that support property referencing, use this namespace to access Outlook properties that are not explicitly exposed in the object model. The following is the format to reference a property in this namespace: 
-    
-     **urn:schemas-microsoft-com:office:outlook# _name_**
-    
+
+     <strong>urn:schemas-microsoft-com<span class="emoji" shortCode="office">🏢</span>outlook# <em>name</em></strong>
+
      **_name_** is the local property name defined as a string.
-    
+
     The following is an example of referencing an Outlook item-level property by using the Outlook namespace: 
-    
-     **urn:schemas-microsoft-com:office:outlook#remotemessagesize**
-    
+
+     <strong>urn:schemas-microsoft-com<span class="emoji" shortCode="office">🏢</span>outlook#remotemessagesize</strong>
+
 
 ## Distributed Authoring and Versioning (DAV) Namespaces
 
@@ -176,24 +174,24 @@ The following are the DAV namespaces that the  **PropertyAccessor** object suppo
 
 
 -  **DAV:**
-    
+
 -  **urn:schemas:calendar**
-    
+
 -  **urn:schemas:contacts**
-    
+
 -  **urn:schemas:httpmail**
-    
+
 -  **urn:schemas:mailheader**
-    
+
 These are some examples of properties being referenced by different DAV namespaces:
 
 
 -  **DAV:checkintime**
-    
+
 -  **urn:schemas:httpmail:subject**
-    
+
 -  **urn:schemas:mailheader:subject**
-    
+
 
 ## See also
 

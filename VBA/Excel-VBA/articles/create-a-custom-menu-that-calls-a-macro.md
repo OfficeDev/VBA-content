@@ -86,22 +86,22 @@ End Function
 Sub Cbm_Active_Formula()
    'setting up the variables.
    Dim intLen As Integer, strRng As String
-   
+
    'Using the active cell, E6.
    With ActiveCell
       'Check to see if the preceding offset has valid data, and if there are three values
       If IsEmpty(.Offset(0, -1)) Or .Column < 4 Then
-         
+
           'If the data is not valid, call MyFunction directly as a formula, but with no parameters.
          .Formula = "=MyFunction()"
           Application.SendKeys "{ENTER}"
       Else
-      
+
          'If the data is valid, create a range of the preceding 3 cells
          strRng = Range(Cells(.Row, .Column - 3), _
             Cells(.Row, .Column - 1)).Address
          intLen = Len(strRng)
-         
+
          'Call MyFunction as a formula, with the range as the parameter.
          .Formula = "=MyFunction(" &; strRng &; ")"
             Application.SendKeys "{ENTER}"
@@ -118,14 +118,14 @@ End Sub
 Sub Cbm_Active_Value()
    'Set up the variables.
    Dim intLen As Integer, strRng As String
-   
+
    'Using the active cell, E6.
    With ActiveCell
       'If there isn't enough room in the column, then send a warning.
       If .Column < 4 Then
          Beep
          MsgBox "The function can be used only starting from column D!"
-      
+
       'Otherwise, call MyFunction, using the range of the previous 3 cells.
       Else
          ActiveCell.Value = MyFunction(Range(ActiveCell.Offset(0, -3), _
@@ -143,7 +143,7 @@ End Sub
 Sub Cbm_Formula_Select()
    'Set up the variables.
    Dim rng As Range
-   
+
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
@@ -164,7 +164,7 @@ End Sub
 Sub Cbm_Value_Select()
    'Set up the variables.
    Dim rng As Range
-   
+
    'Use the InputBox dialog to set the range for MyFunction, with some simple error handling.
    Set rng = Application.InputBox("Range:", Type:=8)
    If rng.Cells.Count <> 3 Then
@@ -172,7 +172,7 @@ Sub Cbm_Value_Select()
          vbLf &; "please select three cells!"
       Exit Sub
    End If
-   
+
    'Call MyFunction by value using the active cell, E6.
    ActiveCell.Value = MyFunction(rng)
 End Sub
@@ -181,6 +181,7 @@ End Sub
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 

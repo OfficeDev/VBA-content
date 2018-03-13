@@ -19,13 +19,13 @@ For example, when you create a custom contact form to replace the default Outloo
 
 
 1. Start with a new, default contact item to use as the basis for your custom form.
-    
+
 2. Modify the form to meet your needs.
-    
+
 3. Publish the form to the  **Contacts** folder.
-    
+
 4. Set the form as the default form for the  **Contacts** folder by changing the folder properties.
-    
+
 In this typical scenario, information about the form (the form definition) is not saved with each item. Instead, the form is stored in the location where it was published and is referenced by using the  **Message Class** field. This way, each item only stores the data associated with it, and its size is relatively small.
 
 However, it is possible to have Outlook store the form definition within individual items in a folder. These items are called one-off items and always use the form definition that is stored within the item instead of the published form.
@@ -41,39 +41,41 @@ The following scenarios commonly result in items becoming one-off items.
 
 
 - You have a folder-based solution whereby the form is published in the folder and the items use the published form. You open an existing item in a folder, make changes to the form in design mode, and then save the item.
-    
-    Because the form definition has changed and the form was not republished, Outlook saves the new form definition with the item. To change the form for all items in the folder, instead of opening an existing item, follow these steps:
-    
-      1. Open a new item based on your custom form.
-    
-  2. Make the form design changes to that item.
-    
-  3. Republish the form with the same name.
-    
-  4. Close and do not save changes to the item.
-    
 
-    All the items in the folder will use the updated custom form the next time that the items are opened, because the message class of the items still refers to the published form.
-    
+    Because the form definition has changed and the form was not republished, Outlook saves the new form definition with the item. To change the form for all items in the folder, instead of opening an existing item, follow these steps:
+
+      1. Open a new item based on your custom form.
+
+  2. Make the form design changes to that item.
+
+  3. Republish the form with the same name.
+
+  4. Close and do not save changes to the item.
+
+
+~~~
+All the items in the folder will use the updated custom form the next time that the items are opened, because the message class of the items still refers to the published form.
+~~~
+
 - VBScript code in the custom form changed the form definition of the item.
-    
+
     If VBScript code within an item programmatically changes the form, in many cases the result is that the form definition is saved with the item. The following Outlook object model methods most commonly cause this behavior:
-    
+
       -  **UserProperties.Add** method.
-    
+
   - Methods and properties of the  **[FormDescription](formdescription-object-outlook.md)** object.
-    
+
   - Some methods or properties of controls, such as  **Enabled**.
-    
+
   - Methods and properties of the  **[Actions](actions-object-outlook.md)** collection object.
-    
+
 Although solutions and situations vary greatly, the following might indicate that an item has become a one-off item.
 
 
 - VBScript code in the form does not run, or a macro virus warning unexpectedly appears, indicating that the item itself, and not just a published form, contains VBScript code.
-    
+
 - The size of an item increases unexpectedly.
-    
+
 - An item's icon changes unexpectedly.
-    
+
 

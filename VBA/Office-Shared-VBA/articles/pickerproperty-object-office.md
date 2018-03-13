@@ -28,8 +28,8 @@ Dim objPickerProperty As PickerProperty
 Dim objPickerExistingResults As PickerResults 
 Dim objPickerExistingResult As PickerResult 
 Dim objPickerResults As PickerResults 
- 
- 
+
+
 ' Configure the Picker Dialog properties. 
 Set objPickerDialog = Application.PickerDialog 
 objPickerDialog.DataHandlerId = "{000CDF0A-0000-0000-C000-000000000046}" 
@@ -38,10 +38,9 @@ Set objPickerProperties = objPickerDialog.Properties
 Set objPickerProperty = objPickerProperties.Add("SiteUrl", "http://my", msoPickerFieldtypeText) 
 Set objPickerExistingResults = objPickerDialog.CreatePickerResults 
 Set objPickerExistingResult = objPickerExistingResults.Add("johndoe@contoso.com", "John Doe", "User") 
- 
+
 ' Show the Picker Dialog and get the results. 
 Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult) 
-
 ```
 
 

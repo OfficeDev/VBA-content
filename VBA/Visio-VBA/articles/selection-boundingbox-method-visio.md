@@ -52,30 +52,32 @@ The bounding rectangle returned for an individual shape depends on its  **Type**
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **visTypePage**|Equivalent to  **Page.BoundingBox** or **Master.BoundingBox** .|
-| **visTypeGroup**|Rectangle that tightly encloses the group and its subshapes.|
-| **visTypeShape**|Determined rectangle depends on flags. See the following table.|
-| **visTypeForeignObject**|Determined rectangle depends on flags. See the following table.|
-| **visTypeGuide**|Determined rectangle depends on flags. See the following table.|
+| <strong>Constant</strong>             | <strong>Description</strong>                                                              |
+|:--------------------------------------|:------------------------------------------------------------------------------------------|
+| <strong>visTypePage</strong>          | Equivalent to  <strong>Page.BoundingBox</strong> or <strong>Master.BoundingBox</strong> . |
+| <strong>visTypeGroup</strong>         | Rectangle that tightly encloses the group and its subshapes.                              |
+| <strong>visTypeShape</strong>         | Determined rectangle depends on flags. See the following table.                           |
+| <strong>visTypeForeignObject</strong> | Determined rectangle depends on flags. See the following table.                           |
+| <strong>visTypeGuide</strong>         | Determined rectangle depends on flags. See the following table.                           |
+
 The method will raise an exception for object type  **visTypeDoc** .
 
 The  _Flags_ argument has several bits that control the bounding box retrieved for each shape. If more than one of the bits described in the following table is set, the rectangle determined for the shape covers all rectangles implied by the bits.
 
 
 
-|**Flag**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visBBoxUprightWH**|&;H1|Returns a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the shape's width-height box.If the shape is not rotated, its upright width-height box and its width-height box are the same. Paths in the shape's geometry need not and often do not lie entirely within the shape's width-height box.|
-| **visBBoxUprightText**|&;H2|Returns a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the shape's text.|
-| **visBBoxExtents**|&;H4|Returns a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the paths stroked by the shape's geometry.This may be larger or smaller than the shape's upright width-height box. The extents box determined for a shape of type  **visTypeForeignObject** equals that shape's upright width-height box.|
-| **visBBoxIncludeHidden**|&;H10|Includes hidden geometry.|
-| **visBBoxIgnoreVisible**|&;H20|Ignores visible geometry.|
-| **visBBoxIncludeDataGraphics**|&;H10000|Includes data-graphic callout shapes (and their sub-shapes) that are applied to the shapes in the selection. Off by default.|
-| **visBBoxIncludeGuides**|&;H1000|Includes extents for shapes of type  **visTypeguide** . By default, the extents of shapes of type **visTypeGuide** are ignored.If you request guide extents, then only the _x_ positions of vertical guides and the _y_ positions of horizontal guides contribute to the rectangle that is returned. If any vertical guides are reported on, an infinite _y_ extent is returned. If any horizontal guides are reported on, an infinite _ x_ extent is returned. If any rotated guides are reported on, infinite _x_ and _y_ extents are returned.|
-| **visBBoxDrawingCoords**|&;H2000|Returns numbers in the drawing coordinate system of the page or master whose shapes are being considered. By default, the returned numbers are drawing units in the local coordinate system of the parent of the considered shapes.|
-| **visBBoxNoNonPrint**|&;H4000|Ignores the extents of shapes that are nonprinting. A shape is nonprinting if the value of its NonPrinting cell is non-zero or it belongs only to nonprinting layers.|
+| <strong>Flag</strong>                       | <strong>Value</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|:--------------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>visBBoxUprightWH</strong>           | &;H1                   | Returns a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the shape's width-height box.If the shape is not rotated, its upright width-height box and its width-height box are the same. Paths in the shape's geometry need not and often do not lie entirely within the shape's width-height box.                                                                                                                                                                                                                                                |
+| <strong>visBBoxUprightText</strong>         | &;H2                   | Returns a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the shape's text.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| <strong>visBBoxExtents</strong>             | &;H4                   | Returns a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the paths stroked by the shape's geometry.This may be larger or smaller than the shape's upright width-height box. The extents box determined for a shape of type  <strong>visTypeForeignObject</strong> equals that shape's upright width-height box.                                                                                                                                                                                                                                 |
+| <strong>visBBoxIncludeHidden</strong>       | &;H10                  | Includes hidden geometry.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| <strong>visBBoxIgnoreVisible</strong>       | &;H20                  | Ignores visible geometry.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| <strong>visBBoxIncludeDataGraphics</strong> | &;H10000               | Includes data-graphic callout shapes (and their sub-shapes) that are applied to the shapes in the selection. Off by default.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| <strong>visBBoxIncludeGuides</strong>       | &;H1000                | Includes extents for shapes of type  <strong>visTypeguide</strong> . By default, the extents of shapes of type <strong>visTypeGuide</strong> are ignored.If you request guide extents, then only the <em>x</em> positions of vertical guides and the <em>y</em> positions of horizontal guides contribute to the rectangle that is returned. If any vertical guides are reported on, an infinite <em>y</em> extent is returned. If any horizontal guides are reported on, an infinite <em> x</em> extent is returned. If any rotated guides are reported on, infinite <em>x</em> and <em>y</em> extents are returned. |
+| <strong>visBBoxDrawingCoords</strong>       | &;H2000                | Returns numbers in the drawing coordinate system of the page or master whose shapes are being considered. By default, the returned numbers are drawing units in the local coordinate system of the parent of the considered shapes.                                                                                                                                                                                                                                                                                                                                                                                   |
+| <strong>visBBoxNoNonPrint</strong>          | &;H4000                | Ignores the extents of shapes that are nonprinting. A shape is nonprinting if the value of its NonPrinting cell is non-zero or it belongs only to nonprinting layers.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
 The extents rectangle is determined using the center of the shape's strokes; it does not take into account the width of the strokes. Nor does the rectangle include any area covered by shadows or line end markers. Microsoft Visio does not expose a means to determine a shape's "black bits" box, that is, the extents box adjusted to account for stroke widths, shadows, and line ends.
 
 A shape may have control points or connection points that lie outside any of the bounding rectangles reported by the shape. You can determine the position of control points and connection points by querying results of the shape's cells.
@@ -91,11 +93,11 @@ If the shape is a guide, the procedure passes  **visBBoxIncludeGuides** to the *
 
 
 -  **visBBoxUprightWH** : an upright box that encloses the shape's width-height box
-    
+
 -  **visBBoxUprightText** : an upright box that encloses the shape's text box
-    
+
 -  **visBBoxExtents** : an upright box that encloses the shape's paths
-    
+
 
 
 To run this macro, make sure exactly one shape is selected on the Visio drawing page.
@@ -104,63 +106,63 @@ To run this macro, make sure exactly one shape is selected on the Visio drawing 
 
 
 ```vb
- 
+
 Public Sub BoundingBox_Example() 
- 
+
  Dim vsoSelection As Visio.Selection 
  Set vsoSelection = ActiveWindow.Selection 
  vsoSelection.IterationMode = visSelModeSkipSub 
- 
+
  If vsoSelection.Count <> 1 Then 
  MsgBox "BoundingBox_Example() expects exactly one selected shape." 
- 
+
  Else 
- 
+
  Dim vsoShape As Visio.Shape 
  Set vsoShape = vsoSelection(1) 
  Dim intFlags As Integer 
  intFlags = 0 
- 
+
  If vsoShape.ContainingShape.Type = visTypeGroup Then 
- 
+
  intFlags = visBBoxDrawingCoords 
- 
+
  End If 
- 
+
  If vsoShape.Type = visTypeGuide Then 
- 
+
  intFlags = intFlags + visBBoxIncludeGuides 
- 
+
  End If 
- 
+
  Dim dblTop As Double 
  Dim dblBottom As Double 
  Dim dblLeft As Double 
  Dim dblRight As Double 
- 
+
  vsoShape.BoundingBox intFlags + visBBoxUprightWH, dblLeft, dblBottom, dblRight, dblTop 
  Debug.Print "Upright WH "; _ 
  "dblLeft:" &; Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
  "dblBottom:" &; Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
  "dblRight:" &; Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
  "dblTop:" &; Application.FormatResult(dblTop, "in", "", "#0.00 u") 
- 
+
  vsoShape.BoundingBox intFlags + visBBoxUprightText, dblLeft, dblBottom, dblRight, dblTop 
  Debug.Print "Upright text "; _ 
  "dblLeft:" &; Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
  "dblBottom:" &; Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
  "dblRight:" &; Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
  "dblTop:" &; Application.FormatResult(dblTop, "in", "", "#0.00 u") 
- 
+
  vsoShape.BoundingBox intFlags + visBBoxExtents, dblLeft, dblBottom, dblRight, dblTop 
  Debug.Print "Bounding Box "; _ 
  "dblLeft:" &; Application.FormatResult(dblLeft, "in", "", "#0.00 u"); _ 
  "dblBottom:" &; Application.FormatResult(dblBottom, "in", "", "#0.00 u"); _ 
  "dblRight:" &; Application.FormatResult(dblRight, "in", "", "#0.00 u"); _ 
  "dblTop:" &; Application.FormatResult(dblTop, "in", "", "#0.00 u") 
- 
+
  End If 
- 
+
 End Sub
 ```
 
@@ -171,29 +173,29 @@ The following macro uses the  **BoundingBox** method and the **ShapesOverlap()**
 
 ```vb
 Public Sub OverlappingShapes_Example() 
- 
+
  Dim vsoShape1 As Visio.Shape 
  Dim vsoShape2 As Visio.Shape 
  Dim blsIsOverlapping As Boolean 
- 
- 
+
+
  Set vsoShape1 = Application.ActiveWindow.Page.Drop(Application.Documents.Item("BASIC_U.VSS").Masters.ItemU("Square"), 3, 9) 
- 
+
  Set vsoShape2 = Application.ActiveWindow.Page.Drop(Application.Documents.Item("BASIC_U.VSS").Masters.ItemU("Pentagon"), 3, 8) 
- 
+
  blsIsOverlapping = ShapesOverlap(vsoShape2, vsoShape1) 
- 
+
  If blsIsOverlapping Then 
  Debug.Print "Shapes overlap." 
  Else 
  Debug.Print "Shapes do not overlap." 
  End If 
- 
+
 End Sub 
- 
- 
+
+
 Private Function ShapesOverlap(vsoShape1 As IVShape, vsoShape2 As IVShape) As Boolean 
- 
+
  Dim dblLeft1 As Double 
  Dim dblLeft2 As Double 
  Dim dblBottom1 As Double 
@@ -202,10 +204,10 @@ Private Function ShapesOverlap(vsoShape1 As IVShape, vsoShape2 As IVShape) As Bo
  Dim dblRight2 As Double 
  Dim dblTop1 As Double 
  Dim dblTop2 As Double 
- 
+
  vsoShape1.BoundingBox Flags + visBBoxExtents, dblLeft1, dblBottom1, dblRight1, dblTop1 
  vsoShape2.BoundingBox Flags + visBBoxExtents, dblLeft2, dblBottom2, dblRight2, dblTop2 
- 
+
  If ((dblLeft2 >= dblLeft1 And dblLeft2 <= dblRight1) Or _ 
  (dblRight2 >= dblLeft1 And dblRight2 <= dblRight1)) And _ 
  ((dblTop2 >= dblBottom1 And dblTop2 <= dblTop1) Or _ 
@@ -214,7 +216,7 @@ Private Function ShapesOverlap(vsoShape1 As IVShape, vsoShape2 As IVShape) As Bo
  Else 
  ShapesOverlap = False 
  End If 
- 
+
 End Function
 ```
 

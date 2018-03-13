@@ -24,19 +24,20 @@ The  **Image** supports the following file formats:
 
 
 - *.bmp
-    
+
 - *.cur
-    
+
 - *.gif
-    
+
 - *.ico
-    
+
 - *.jpg
-    
+
 - *.wmf
-    
 
 
-You can also display a picture on a  **[Label](label-object-outlook-forms-script.md)**. However, a  **Label** does not let you crop, size, or zoom the picture.<P>
+
+You can also display a picture on a  <strong><a href="label-object-outlook-forms-script.md" data-raw-source="[Label](label-object-outlook-forms-script.md)">Label</a></strong>. However, a  <strong>Label</strong> does not let you crop, size, or zoom the picture.<P>
+
 
 

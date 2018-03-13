@@ -60,8 +60,6 @@ For Each s In ActivePresentation.Slides(1).Shapes
     End If
 
 Next
-
-
 ```
 
 This example adds text to cell A1 on worksheet one in the Microsoft Excel workbook contained in shape three on slide one in the active presentation.

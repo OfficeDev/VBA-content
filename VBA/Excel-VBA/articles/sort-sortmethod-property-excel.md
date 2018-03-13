@@ -29,9 +29,11 @@ Specifies the sort method for Chinese languages. Read/write  **[XlSortMethod](xl
 
 
 
-|XlSortMethod can be one of these  **SortMethod** constants.|
-| **xlStroke**|
-| **xlPinYin**|
+|XlSortMethod can be one of these  <strong>SortMethod</strong> constants.|
+| 
+<strong>xlStroke</strong>|
+| 
+<strong>xlPinYin</strong>|
 
 ## See also
 

@@ -34,10 +34,13 @@ The  **PageType** property value can be one of the following **PbPageType** cons
 
 
 
-| **pbPageLeftPage**|
-| **pbPageMasterPage**|
-| **pbPageRightPage**|
-| **pbPageScratchPage**|
+| <strong>pbPageLeftPage</strong>|
+| 
+<strong>pbPageMasterPage</strong>|
+| 
+<strong>pbPageRightPage</strong>|
+| 
+<strong>pbPageScratchPage</strong>|
 
 ## Example
 

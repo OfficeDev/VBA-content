@@ -44,20 +44,19 @@ The following example selects a custom part and then a node in that part. The co
 ```
 Dim cxp1 As CustomXMLPart 
  Dim cxn As CustomXMLNode 
- 
+
  With ActiveDocument 
- 
+
     ' Return the first part with the given root namespace. 
     Set cxp1 = .CustomXMLParts("urn:invoice:namespace")    
-         
+
     ' Get node using XPath expression.                              
     Set cxn = cxp1.SelectSingleNode("//*[@supplierID = 1]")  
- 
+
     ' Remove a child node. 
     cxn.RemoveChild(cxn.SelectSingleNode("//discount"))   
-        
-End With     
 
+End With     
 ```
 
 

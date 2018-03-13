@@ -29,10 +29,11 @@ The  **OrderByOn** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The  **OrderBy** property setting is applied when the object is opened.|
-|No|**False**|(Default) The  **OrderBy** property setting isn't applied when the object is opened.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                      |
+|:-------------------------|:------------------------------|:--------------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | The  <strong>OrderBy</strong> property setting is applied when the object is opened.              |
+| No                       | <strong>False</strong>        | (Default) The  <strong>OrderBy</strong> property setting isn't applied when the object is opened. |
+
 When a new object is created, it inherits the  **RecordSource**, **Filter**, **OrderBy**, **OrderByOn**, and **FilterOn** properties of the table or query it was created from.
 
 

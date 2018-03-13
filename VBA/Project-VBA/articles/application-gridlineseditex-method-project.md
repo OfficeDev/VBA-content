@@ -27,17 +27,23 @@ Edits gridlines, where colors can be hexadecimal values.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _Item_|Required|**Integer**|The gridline to edit. Can be one of the following  **[PjGridline](pjgridline-enumeration-project.md)** constants:
+| <strong>Name</strong> | <strong>Required/Optional</strong> | <strong>Data Type</strong> | <strong>Description</strong>                                                                                                                                                                                |
+|:----------------------|:-----------------------------------|:---------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>Item</em>         | Required                           | <strong>Integer</strong>   | The gridline to edit. Can be one of the following  <strong><a href="pjgridline-enumeration-project.md" data-raw-source="[PjGridline](pjgridline-enumeration-project.md)">PjGridline</a></strong> constants: |
+
 <ul xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>If the Gantt Chart is active: <b>pjBarRows</b> , <b>pjGanttCurrentDate</b> , <b>pjGanttPageBreaks</b> , <b>pjGanttProjectFinish</b> , <b>pjGanttProjectStart</b> , <b>pjGanttRows</b> , <b>pjGanttSheetColumns</b> , <b>pjGanttSheetRows</b> , <b>pjGanttStatusDate</b> , <b>pjGanttTitleHorizontal</b> , <b>pjGanttTitleVertical</b> ,  <b>pjMajorColumns</b> , or <b>pjMinorColumns</b> .</p></li><li><p>If the Calendar view is active: <b>pjCalendarDays</b> , <b>pjCalendarWeeks</b> , <b>pjTitleHorizontal</b> , <b>pjTitleVertical</b> , <b>pjDateBoxTop</b> , or <b>pjDateBoxBottom</b> . 
 </p></li><li><p>If the Resource Graph is active: <b>pjMajorVertical</b> , <b>pjMinorVertical</b> , <b>pjHorizontal</b> , <b>pjGraphCurrentDate</b> , <b>pjGraphTitleHorizontal</b> , <b>pjGraphTitleVertical</b> , <b>pjGraphProjectStart</b> , <b>pjGraphProjectFinish</b> , or <b>pjGraphStatusDate</b> . 
 </p></li><li><p>If the Task Sheet or Resource Sheet is active: <b>pjSheetColumns</b> , <b>pjSheetRows</b> , <b>pjSheetTitleHorizontal</b> , <b>pjSheetTitleVertical</b> , or <b>pjSheetPageBreaks</b> .</p></li><li><p>If the Task Usage or Resource Usage view is active: <b>pjUsageColumns</b> , <b>pjUsageRows</b> , <b>pjUsageSheetRows</b> , <b>pjUsageSheetColumns</b> , <b>pjUsageTitleHorizontal</b> , <b>pjUsageTitleVertical</b> , or <b>pjUsagePageBreaks</b> .</p></li></ul>|
-| _NormalType_|Optional|**Integer**| The type for normal gridlines. Can be one of the following **[PjLineType](pjlinetype-enumeration-project.md)** constants: **pjNoLines**, **pjContinuous**, **pjCloseDot**, **pjDot**, or **pjDash**.|
-| _NormalColor_|Optional|**Long**|The color of normal gridlines. Can be a hexadecimal RGB value, where red is the last byte. For example, &;H0088FF is orange.|
-| _Interval_|Optional|**Integer**|A number from 0 to 99 that specifies the interval between gridlines.|
-| _IntervalType_|Optional|**Integer**|The type for secondary gridlines. Can be one of the  **[PjLineType](pjlinetype-enumeration-project.md)** constants.|
-| _IntervalColor_|Optional|**Long**|The color of secondary gridlines. Can be a hexadecimal RGB value, where red is the last byte.|
+| 
+<em>NormalType</em>|Optional|<strong>Integer</strong>| The type for normal gridlines. Can be one of the following <strong><a href="pjlinetype-enumeration-project.md" data-raw-source="[PjLineType](pjlinetype-enumeration-project.md)">PjLineType</a></strong> constants: <strong>pjNoLines</strong>, <strong>pjContinuous</strong>, <strong>pjCloseDot</strong>, <strong>pjDot</strong>, or <strong>pjDash</strong>.|
+| 
+<em>NormalColor</em>|Optional|<strong>Long</strong>|The color of normal gridlines. Can be a hexadecimal RGB value, where red is the last byte. For example, &;H0088FF is orange.|
+| 
+<em>Interval</em>|Optional|<strong>Integer</strong>|A number from 0 to 99 that specifies the interval between gridlines.|
+| 
+<em>IntervalType</em>|Optional|<strong>Integer</strong>|The type for secondary gridlines. Can be one of the  <strong><a href="pjlinetype-enumeration-project.md" data-raw-source="[PjLineType](pjlinetype-enumeration-project.md)">PjLineType</a></strong> constants.|
+| 
+<em>IntervalColor</em>|Optional|<strong>Long</strong>|The color of secondary gridlines. Can be a hexadecimal RGB value, where red is the last byte.|
 
 ### Return Value
 

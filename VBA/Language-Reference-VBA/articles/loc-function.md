@@ -42,7 +42,6 @@ Do While MyLocation < LOF(1)    ' Loop until end of file.
     Debug.Print MyLine; Tab; MyLocation
 Loop
 Close #1    ' Close file.
-
 ```
 
 

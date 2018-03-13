@@ -21,10 +21,11 @@ Specifies the number of columns to display in a list box or combo box.
 The  **ColumnCount** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. Specifies the number of columns to display.|
+| <strong>Part</strong> | <strong>Description</strong>                          |
+|:----------------------|:------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                             |
+| <em>Long</em>         | Optional. Specifies the number of columns to display. |
+
  **Remarks**
 If you set the  **ColumnCount** property for a list box to 3 on an employee form, one column can list last names, another can list first names, and the third can list employee ID numbers.
 Setting  **ColumnCount** to 0 displays zero columns, and setting it to -1 displays all the available columns. For an[unbound](glossary-vba.md)[data source](glossary-vba.md), there is a 10-column limit (0 to 9).

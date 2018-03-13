@@ -18,7 +18,7 @@ Occurs before updating the document's XML data store with the value of a content
 
 ## Syntax
 
-Private Sub  _expression_ _**ContentControlBeforeStoreUpdate**( **_ContentControl_** , **_Content_** )
+Private Sub  <em>expression</em> <em><strong>ContentControlBeforeStoreUpdate</strong>( **_ContentControl</em>** , <strong><em>Content</em></strong> )
 
  _expression_ An expression that returns a **[Document](document-object-word.md)** object.
 

@@ -35,7 +35,6 @@ The following example specifies that when the  **DataSetChange** event occurs on
 
 ```vb
 Forms(0).DataSetChange = "[Event Procedure]" 
-
 ```
 
 

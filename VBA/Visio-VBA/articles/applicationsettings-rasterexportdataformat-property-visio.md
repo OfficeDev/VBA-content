@@ -34,10 +34,11 @@ The value of the  **RasterExportDataFormat** property must be one of the followi
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visRasterInterlace**|0|Interlace format, the default.|
-| **visRasterNonInterlace**|1|Non-interlace format.|
+| <strong>Constant</strong>              | <strong>Value</strong> | <strong>Description</strong>   |
+|:---------------------------------------|:-----------------------|:-------------------------------|
+| <strong>visRasterInterlace</strong>    | 0                      | Interlace format, the default. |
+| <strong>visRasterNonInterlace</strong> | 1                      | Non-interlace format.          |
+
 For any given session of Microsoft Visio, when the  **RasterExportDataFormat** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 
 The setting of the  **RasterExportDataFormat** property corresponds to the **Data format** setting in the **GIF Output Options** or **PNG Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Graphics Interchange Format (*.gif)** or **Portable Network Graphics (*.png)**, and then click  **Save**.)

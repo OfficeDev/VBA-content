@@ -18,8 +18,9 @@ Returns or sets the way columns or rows are used as data series on the chart. Re
 
 
 |XlRowCol can be one of these XlRowCol constants.|
-| **xlColumns**|
-| **xlRows**|
+| <strong>xlColumns</strong>|
+| 
+<strong>xlRows</strong>|
 
  _expression_. **PlotBy**
 

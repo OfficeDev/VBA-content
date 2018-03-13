@@ -23,14 +23,15 @@ Adds a constraint to the current problem. Equivalent to clicking  **Solver** in 
  **Relation** Required **Integer**. The arithmetic relationship between the left and right sides of the constraint. If you choose 4, 5, or 6,  **_CellRef_** must refer to decision variable cells, and **_FormulaText_** should not be specified.
 
 
-|**Relation**|**Arithmetic relationship**|
-|:-----|:-----|
-|1|<=|
-|2|=|
-|3|>=|
-|4|Cells referenced by  **_CellRef_** must have final values that are integers.|
-|5|Cells referenced by  **_CellRef_** must have final values of either 0 (zero) or 1.|
-|6|Cells referenced by  **_CellRef_** must have final values that are all different and integers.|
+| <strong>Relation</strong> | <strong>Arithmetic relationship</strong>                                                                           |
+|:--------------------------|:-------------------------------------------------------------------------------------------------------------------|
+| 1                         | <=                                                                                                                 |
+| 2                         | =                                                                                                                  |
+| 3                         | >=                                                                                                                 |
+| 4                         | Cells referenced by  <strong><em>CellRef</em></strong> must have final values that are integers.                   |
+| 5                         | Cells referenced by  <strong><em>CellRef</em></strong> must have final values of either 0 (zero) or 1.             |
+| 6                         | Cells referenced by  <strong><em>CellRef</em></strong> must have final values that are all different and integers. |
+
  **FormulaText** Optional **Variant**. The right side of the constraint.
 
 ## Remarks

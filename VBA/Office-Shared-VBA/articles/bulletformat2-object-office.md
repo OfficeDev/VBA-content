@@ -30,7 +30,6 @@ With ActivePresentation.Slides(1).Shapes(2)
  End With 
  End With 
 End With 
-
 ```
 
 

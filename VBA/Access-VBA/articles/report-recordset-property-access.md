@@ -34,10 +34,11 @@ The read/write behavior of the  **Recordset** property is determined by the type
 
 
 
-|**Recordset type**|**Based on SQL data**|**Based on data stored by the Access database engine**|
-|:-----|:-----|:-----|
-|**ADO**|Read/Write|Read/Write|
-|**DAO**|N/A|Read/Write|
+| <strong>Recordset type</strong> | <strong>Based on SQL data</strong> | <strong>Based on data stored by the Access database engine</strong> |
+|:--------------------------------|:-----------------------------------|:--------------------------------------------------------------------|
+| <strong>ADO</strong>            | Read/Write                         | Read/Write                                                          |
+| <strong>DAO</strong>            | N/A                                | Read/Write                                                          |
+
 The following example opens a form, opens a recordset, and then binds the form to the recordset by setting the form's  **Recordset** property to the newly created **Recordset** object.
 
 
@@ -59,16 +60,16 @@ Use the  **Recordset** property:
 
 
 - To use methods with the  **Recordset** object that aren't directly supported on forms. For example, you can use the **Recordset** property with the ADO **Find** or DAO **Find** methods in a custom dialog for finding a record.
-    
+
 - To wrap a transaction (which can be rolled back) around a set of edits that affect multiple forms.
-    
+
 Changing a form's  **Recordset** property may also change the **RecordSource**, **RecordsetType**, and **RecordLocks** properties. Also, some data-related properties may be overridden, for example, the **Filter**, **FilterOn**, **OrderBy**, and **OrderByOn** properties.
 
 Calling the  **Requery** method of a form's recordset (for example, `Forms(0).Recordset.Requery`) can cause the form to become unbound. To refresh the data in a form bound to a recordset, set the  **RecordSource** property of the form to itself ( `Forms(0).RecordSource = Forms(0).RecordSource`).
 
 
 - To bind multiple forms to a common data set. This allows synchronization of multiple forms. For example,
-    
+
 
 
 
@@ -88,7 +89,7 @@ The following example uses the  **Recordset** property to create a new copy of t
 Sub Print_Field_Names() 
     Dim rst As DAO.Recordset, intI As Integer 
     Dim fld As Field 
- 
+
     Set rst = Me.Recordset 
     For Each fld in rst.Fields 
         ' Print field names. 
@@ -106,7 +107,7 @@ The next example uses the  **Recordset** property and the **Recordset** object t
 Sub SupplierID_AfterUpdate() 
     Dim rst As DAO.Recordset 
     Dim strSearchName As String 
- 
+
     Set rst = Me.Recordset 
     strSearchName = CStr(Me!SupplierID) 
     rst.FindFirst "SupplierID = " &; strSearchName 
@@ -125,7 +126,7 @@ The following code helps to determine what type of recordset is returned by the 
 ```vb
 Sub CheckRSType() 
     Dim rs as Object 
- 
+
     Set rs=Forms(0).Recordset 
     If TypeOf rs Is DAO.Recordset Then 
         MsgBox "DAO Recordset" 

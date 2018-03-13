@@ -1,4 +1,4 @@
-#[Language reference VBA](articles/TOC.md)
+# [Language reference VBA](articles/TOC.md)
 
 This reference contains conceptual overviews, programming tasks, samples, and references to guide you in developing Office solutions.
 

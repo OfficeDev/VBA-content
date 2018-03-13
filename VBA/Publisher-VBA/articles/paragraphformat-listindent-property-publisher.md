@@ -35,14 +35,13 @@ This example sets the  **ListIndent** property of a **ParagraphFormat** object t
 
 ```vb
 Dim objParaForm As ParagraphFormat 
- 
+
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
 .TextFrame.TextRange.ParagraphFormat 
- 
+
 With objParaForm 
  .ListIndent = InchesToPoints(0.25) 
 End With 
-
 ```
 
 

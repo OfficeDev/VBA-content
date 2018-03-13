@@ -17,11 +17,11 @@ The Office Fluent ribbon replaces the previous system of layered menus, toolbars
 Using XML markup files to customize the ribbon greatly reduces the need to create complex add-ins that are based on the  **CommandBars** object model. However, add-ins written in previous versions of Office continue to work in the ribbon with little or no modification. You can create application-level customizations for the ribbon in Word, in Excel, or PowerPoint by doing any of the following:
 
 - Use COM add-ins in managed or unmanaged code
-    
+
 - Use application-specific add-ins, such as .ppam and .xlam files
-    
+
 - Use templates (.dotm files) in Word
-    
+
 
 In a typical scenario, code in the COM add-in contains procedures that return XML markup from an external customization file or from XML that is in the code itself. When the application starts, the add-in loads and executes the code that returns the XML markup. Microsoft Office validates the XML markup against an XSD schema, and then loads it into memory and applies it to the ribbon before the ribbon is displayed. Menu items and controls use callback procedures to execute code in the add-in. Document-level customizations use the same XML markup and an Open XML Formats file with one of these extensions: docx, .docm, .xlsx, .xlsm, .pptx, .or pptm. In this scenario, you create a customization file that contains the XML markup and save it to a folder. You then modify the parts in the Open XML Formats container to point to the customization file. When you open the document in the Office application, the customization file loads into memory and is applied to the ribbon. The commands and controls then call code that is contained in the document to provide their functionality.
  **What About Existing Solutions?**
@@ -45,42 +45,42 @@ public void MyButtonOnAction (IRibbonControl control)
 Customization at the application-level results in a modified ribbon that appears in the application no matter which document is open. You create COM add-ins primarily to make these modifications. To customize the ribbon by using COM add-ins, do the following: 
 
 1. Create a COM add-in project. The add-in that you create must implement the Extensibility.IDTExtensibility2 interface that all COM add-ins implement, as well as the  **IRibbonExtensibility** interface that is in the Microsoft.Office.Core namespace.
-    
+
 2. Build the add-in and setup project, and then install the project.
-    
+
 3. Start the Office application. When the add-in loads, it triggers the IDTExtensibility2::OnConnection event, which initializes the add-in, just as in previous versions of Office.
-    
+
 4. Next, the  **QueryInterface** method is called, which determines if the **IRibbonExtensibility** interface is implemented.
-    
+
 5. If so, the  **IRibbonExtensibility::GetCustomUI** method is called, which loads the XML markup from the XML customization file or from XML markup embedded in the procedure, and then loads the customizations into the application.
-    
+
 6. The customized UI is now ready for the user.
-    
+
 
  **Customizing the Ribbon with Office Open XML Formats Files**
 To customize the UI by using XML markup, do the following: 
 
 1. Create the customization file in any text editor. Add XML markup that adds new components to the ribbon, modifies existing components, or hides components. Save the file as  **customUI.xml**.
-    
+
 2. Create a folder on your desktop named  **customUI** and copy the customization file to the folder.
-    
+
 3. Validate the XML markup with custom UI schema. 
-    
+
      **Note**  This step is optional.
 4. Create a document in the Office application, and then save it as an Open XML Formats file with one of these extensions:  _.docx_, _.docm_, _.xlsx_, _.xlsm_, _.pptm_, or _.pptx_. For security, files that contain macros have an _m_ suffix, and can contain procedures that are called by RibbonX commands and controls.
-    
+
 5. Add a  _.zip_ extension to the document file name, and then open the file.
-    
+
 6. Add the customization file to the container by dragging the folder to the file.
-    
+
 7. Extract the  **.rels** file that is in the .zip file to your desktop. A **_rels** folder that contains the .rels file is copied to your desktop.
-    
+
 8. Open the .rels file and add a line that creates a relationship between the document file and the customization file, and then save the file.
-    
+
 9. Add the _rels folder back to the container, overwriting the existing file.
-    
+
 10. Rename the file to its original name by removing the .zip extension. When you open the Office file, the ribbon appears, including your customization to the ribbon.
-    
+
 
  **General Format of XML Markup Files**
 You can use XML markup to customize the ribbon. The following example shows the general format of an XML markup file that you can use to customize the ribbon in Word.
@@ -116,36 +116,35 @@ You can use XML markup to customize the ribbon. The following example shows the 
     </tabs> 
   </ribbon> 
 </customUI> 
-
 ```
 
 This sample makes the following changes to the ribbon in Word, in the following order:
 
 1. Declares the default namespace and a custom namespace.
-    
+
 2. Hides the built-in  **GroupFont** group that is located on the built-in **Home** tab.
-    
+
 3. Adds a new  **CustomTab** tab to the right of the last built-in tab.
-    
+
      **Note**  Use the  _id= identifier_ attribute to create a custom item, such as a custom tab. Use the _idMso= identifier_ attribute to refer to a built-in item, such as the **TabHome** tab.
 4. Adds a new  **SampleGroup** group to the **My Tab** tab.
-    
+
 5. Adds a large-sized ToogleButton1 button to  **My Group** and specifies an onAction callback along with a GetPressed callback.
-    
+
 6. Adds a CheckBox1 check box to  **My Group** with a custom screentip and specifies an onAction callback.
-    
+
 7. Adds a EditBox1 edit box to  **My Group** and specifies an onChange callback.
-    
+
 8. Adds a Combo1 combo box to  **My Group** with three items. The combo box specifies an onChange callback that uses the text from each item.
-    
+
 9. Adds a Launcher1 launcher to  **My Group** with the onAction callback set. A launcher can also display a custom dialog box to offer more options to the user.
-    
+
 10. Adds a new  **MyGroup** group to the custom tab.
-    
+
 11. Adds a large-sized Button1 button to  **MyGroup** and specifies an onAction callback.
-    
+
 12. Adds a normal-sized Button1 button that is a normal-sized button to  **MyGroup** and specifies an onAction callback.
-    
+
 
  **Working with Legacy Command Bar Add-Ins**
 When you create COM add-ins, you usually need a way for users to interact with the add-in. In earlier versions of Office, you added a menu item or toolbar button to the application by using the  **CommandBars** object model. In this release of Office, custom applications continue to work in the ribbon without modification in most cases. However, changes that you made with the **CommandBars** object model, or any other technology that modified the menus or toolbars like WordBasic or XLM, appear on a separate **Add-Ins** tab. This makes it easier for users to locate the controls.
@@ -159,7 +158,7 @@ In C#: Write a callback in your Connect class.
 
 ```C#
 IRibbonUI myRibbon; 
- 
+
      public void ribbonLoaded(IRibbonUI ribbon) { 
          myRibbon = ribbon; 
      } 

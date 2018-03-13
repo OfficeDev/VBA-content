@@ -34,13 +34,14 @@ The  **GetTable** method returns a **Table** that has all items of the conversat
 
 
 
-|**Column**|**Property**|
-|:-----|:-----|
-|1| **EntryID**|
-|2| **Subject**|
-|3| **CreationTime**|
-|4| **LastModificationTime**|
-|5| **MessageClass**|
+| <strong>Column</strong> | <strong>Property</strong>             |
+|:------------------------|:--------------------------------------|
+| 1                       | <strong>EntryID</strong>              |
+| 2                       | <strong>Subject</strong>              |
+| 3                       | <strong>CreationTime</strong>         |
+| 4                       | <strong>LastModificationTime</strong> |
+| 5                       | <strong>MessageClass</strong>         |
+
 By default, the rows in the table are sorted by the  **ConversationIndex** property of the items.
 
 To modify the default column set, use the  **[Add](columns-add-method-outlook.md)** , **[Remove](columns-remove-method-outlook.md)** , or **[RemoveAll](columns-removeall-method-outlook.md)** methods of the **[Columns](columns-object-outlook.md)** collection object.
@@ -65,11 +66,11 @@ Sub DemoConversationTable()
  Dim oItem As Outlook.MailItem 
  Const PR_STORE_ENTRYID As String = _ 
  "http://schemas.microsoft.com/mapi/proptag/0x0FFB0102" 
- 
+
  On Error Resume Next 
  ' Obtain the current item for the active inspector. 
  Set oMail = Application.ActiveInspector.CurrentItem 
- 
+
  If Not (oMail Is Nothing) Then 
  ' Obtain the Conversation object. 
  Set oConv = oMail.GetConversation 

@@ -29,10 +29,11 @@ The KeyPreview property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|True|The form receives keyboard events first, then the active control receives keyboard events. |
-|No|False| (Default) Only the active control receives keyboard events.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                               |
+|:-------------------------|:------------------------------|:-------------------------------------------------------------------------------------------|
+| Yes                      | True                          | The form receives keyboard events first, then the active control receives keyboard events. |
+| No                       | False                         | (Default) Only the active control receives keyboard events.                                |
+
 You can set the  **KeyPreview** property in any view
 
 You can use the  **KeyPreview** property to create a keyboard-handling procedure for a form. For example, when an application uses function keys, setting the **KeyPreview** property to **True** allows you to process keystrokes at the form level rather than writing code for each control that might receive keystroke events.
@@ -51,7 +52,7 @@ In the following example, the  **KeyPreview** property is set to **True** in the
 Private Sub Form_Load() 
  Me.KeyPreview = True 
 End Sub 
- 
+
 Private Sub Form_KeyDown(KeyCode As Integer, Shift As Integer) 
  Select Case KeyCode 
  Case vbKeyF2 

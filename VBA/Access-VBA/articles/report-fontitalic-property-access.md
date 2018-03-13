@@ -17,9 +17,9 @@ You can use the  **FontItalic** property to specify whether text is italic in th
 
 
 - When displaying or printing controls on forms and reports.
-    
+
 - When using the  **Print** method on a report.
-    
+
 
  Read/write **Boolean**.
 
@@ -37,10 +37,11 @@ The  **FontItalic** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|The text is italic.|
-|**False**|(Default) The text isn't italic.|
+| <strong>Setting</strong> | <strong>Description</strong>     |
+|:-------------------------|:---------------------------------|
+| <strong>True</strong>    | The text is italic.              |
+| <strong>False</strong>   | (Default) The text isn't italic. |
+
 For reports, you can use this property only in an event procedure or in a macro specified by the  **OnPrint** event property setting.
 
 You can set the default for this property by using the default control style or the  **DefaultControl** property in Visual Basic.

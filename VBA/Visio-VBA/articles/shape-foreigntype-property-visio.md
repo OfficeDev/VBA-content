@@ -34,14 +34,15 @@ If the  **Type** property of a **Shape** object returns any value other than **v
 
 
 
-|**Constant **|**Value **|
-|:-----|:-----|
-| **visTypeMetafile**|&;H0010|
-| **visTypeBitmap**|&;H0020|
-| **visTypeIsLinked**|&;H0100|
-| **visTypeIsEmbedded**|&;H0200|
-| **visTypeIsControl**|&;H0400|
-| **visTypeIsOLE2**|&;H8000|
+| **Constant **                      | **Value ** |
+|:-----------------------------------|:-----------|
+| <strong>visTypeMetafile</strong>   | &;H0010    |
+| <strong>visTypeBitmap</strong>     | &;H0020    |
+| <strong>visTypeIsLinked</strong>   | &;H0100    |
+| <strong>visTypeIsEmbedded</strong> | &;H0200    |
+| <strong>visTypeIsControl</strong>  | &;H0400    |
+| <strong>visTypeIsOLE2</strong>     | &;H8000    |
+
 If the shape represents an OLE 2.0 embedded object, for example, its  **ForeignType** property is &;H8200.
 
 

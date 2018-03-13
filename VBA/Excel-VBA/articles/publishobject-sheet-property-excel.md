@@ -40,7 +40,6 @@ For Each objPO In Workbooks(1).PublishObjects
  Exit For 
  End If 
 Next objPO 
-
 ```
 
 

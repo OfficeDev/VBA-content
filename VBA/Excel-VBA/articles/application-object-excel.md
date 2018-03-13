@@ -25,6 +25,7 @@ Application.Windows("book1.xls").Activate
 
 <br/>
 
+
 The following example creates an Excel workbook object in another application and then opens a workbook in Excel.
 
 ```
@@ -33,6 +34,7 @@ xl.Application.Workbooks.Open "newbook.xls"
 ```
 
 <br/>
+
 
 Many of the properties and methods that return the most common user-interface objects, such as the active cell (**ActiveCell** property), can be used without the **Application** object qualifier. For example, instead of writing:
 
@@ -52,9 +54,9 @@ ActiveCell.Font.Bold = True
 The  **Application** object contains:
 
 - Application-wide settings and options.
-    
+
 - Methods that return top-level objects, such as **[ActiveCell](http://msdn.microsoft.com/library/7ebfbec8-dc4e-36c5-188a-347d42649e76%28Office.15%29.aspx)**, **[ActiveSheet](http://msdn.microsoft.com/library/6ed42d87-2ad5-eecc-ad5b-4c92617a04bc%28Office.15%29.aspx)**, and so on.
-    
+
 ## Events
 
 |**Name**|
@@ -108,6 +110,7 @@ The  **Application** object contains:
 |[WorkbookSync](http://msdn.microsoft.com/library/ca23985c-e5ea-d2cb-bce3-2b52c5dff3a1%28Office.15%29.aspx)|
 
 <br/>
+
 
 ## Methods
 
@@ -165,6 +168,7 @@ The  **Application** object contains:
 |[Wait](http://msdn.microsoft.com/library/71425d1c-6b37-a510-d8b5-072136e98f04%28Office.15%29.aspx)|
 
 <br/>
+
 
 ## Properties
 
@@ -382,6 +386,7 @@ The  **Application** object contains:
 
 
 <br/>
+
 
 ## See also
 

@@ -16,7 +16,6 @@ The  **Nothing**[keyword](vbe-glossary.md) is used to disassociate an object[var
 
 ```vb
 Set MyObject = Nothing 
-
 ```
 
 

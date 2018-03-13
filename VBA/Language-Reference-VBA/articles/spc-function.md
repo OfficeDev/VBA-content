@@ -36,7 +36,6 @@ This example uses the  **Spc** function to position output in a file and in the 
 Open "TESTFILE" For Output As #1    ' Open file for output.
 Print #1, "10 spaces between here"; Spc(10); "and here."
 Close #1    ' Close file.
-
 ```
 
 The following statement causes the text to be printed in the  **Immediate** window (using the **Print** method), preceded by 30 spaces.
@@ -46,8 +45,6 @@ The following statement causes the text to be printed in the  **Immediate** wind
 
 ```vb
 Debug.Print Spc(30); "Thirty spaces later..."
-
-
 ```
 
 

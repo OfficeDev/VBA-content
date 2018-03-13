@@ -15,7 +15,7 @@ Occurs when the operating system resumes normal operation after having been susp
 
 ## Syntax
 
- Private Sub _expression_ _**AfterResume**( **_ByVal app As [IVAPPLICATION]_** )
+ Private Sub <em>expression</em> <em><strong>AfterResume</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

@@ -30,22 +30,36 @@ The following table lists the different value filter types that will be deleted 
 
 
 ||
-| **xlTopCount**|
-| **xlBottomCount**|
-| **xlTopPercent**|
-| **xlBottomPercent**|
-| **xlTopSum**|
-| **xlBottomSum**|
-| **xlValueEquals**|
-| **xlValueDoesNotEqual**|
-| **xlValueIsGreaterThan**|
-| **xlValueIsGreaterThanOrEqualTo**|
-| **xlValueIsLessThan**|
-| **xlValueIsLessThanOrEqualTo**|
-| **xlValueIsBetween**|
-| **xlValueIsNotBetween**|
+| <strong>xlTopCount</strong>|
+| 
+<strong>xlBottomCount</strong>|
+| 
+<strong>xlTopPercent</strong>|
+| 
+<strong>xlBottomPercent</strong>|
+| 
+<strong>xlTopSum</strong>|
+| 
+<strong>xlBottomSum</strong>|
+| 
+<strong>xlValueEquals</strong>|
+| 
+<strong>xlValueDoesNotEqual</strong>|
+| 
+<strong>xlValueIsGreaterThan</strong>|
+| 
+<strong>xlValueIsGreaterThanOrEqualTo</strong>|
+| 
+<strong>xlValueIsLessThan</strong>|
+| 
+<strong>xlValueIsLessThanOrEqualTo</strong>|
+| 
+<strong>xlValueIsBetween</strong>|
+| 
+<strong>xlValueIsNotBetween</strong>|
 ||
 ||
+
 
 ## See also
 

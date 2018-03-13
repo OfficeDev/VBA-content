@@ -67,7 +67,7 @@ This example adds a freeform with four vertices to the first page in the active 
 With ActiveDocument.Pages(1).Shapes _ 
  .BuildFreeform(EditingType:=msoEditingCorner, _ 
  X1:=100, Y1:=100) 
- 
+
  ' Add three more nodes and close the polygon. 
  .AddNodes SegmentType:=msoSegmentCurve, _ 
  EditingType:=msoEditingCorner, _ 
@@ -78,11 +78,10 @@ With ActiveDocument.Pages(1).Shapes _
  EditingType:=msoEditingAuto, X1:=150, Y1:=50 
  .AddNodes SegmentType:=msoSegmentLine, _ 
  EditingType:=msoEditingAuto, X1:=100, Y1:=100 
- 
+
  ' Convert the polygon to a Shape object. 
  .ConvertToShape 
 End With 
-
 ```
 
 

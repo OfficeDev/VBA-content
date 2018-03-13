@@ -15,7 +15,7 @@ Occurs after a new master is added to a document.
 
 ## Syntax
 
-Private Sub  _expression_ _**MasterAdded**( **_ByVal master As [IVMASTER]_** )
+Private Sub  <em>expression</em> <em><strong>MasterAdded</strong>( **_ByVal master As [IVMASTER]</em>** )
 
  _expression_ A variable that represents a **DrawingControl** object.
 

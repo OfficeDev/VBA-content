@@ -26,7 +26,6 @@ This example uses the  **MkDir** statement to create a directory or folder. If t
 
 ```
 MkDir "MYDIR" ' Make new directory or folder. 
-
 ```
 
 

@@ -28,8 +28,6 @@ This example uses the  **Date** function to return the current system date.
 ```vb
 Dim MyDate
 MyDate = Date    ' MyDate contains the current system date.
-
-
 ```
 
 

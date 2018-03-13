@@ -29,10 +29,11 @@ The  **KeepTogether** property for a section uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|Microsoft Access starts printing the section at the top of the next page if it can't print the entire section on the current page.|
-|No|**False**|(Default) Microsoft Access prints as much of the section as possible on the current page and prints the rest on the next page.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                       |
+|:-------------------------|:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | Microsoft Access starts printing the section at the top of the next page if it can't print the entire section on the current page. |
+| No                       | <strong>False</strong>        | (Default) Microsoft Access prints as much of the section as possible on the current page and prints the rest on the next page.     |
+
 You can set the  **KeepTogether** property for a section only in form Design view or report Design view.
 
 Usually, when a page break occurs while a section is being printed, Microsoft Access continues printing the section on the next page. By using the section's  **KeepTogether** property, you can print the section all on one page. If a section is longer than one page, Microsoft Access starts printing it on the next page and continues on the following page.

@@ -18,7 +18,7 @@ Occurs before the application ungroups a selection of shapes in response to a us
 
 ## Syntax
 
-Private Sub  _expression_ _**QueryCancelUngroup**( **_ByVal Selection As [IVSELECTION]_** )
+Private Sub  <em>expression</em> <em><strong>QueryCancelUngroup</strong>( **_ByVal Selection As [IVSELECTION]</em>** )
 
  _expression_ A variable that represents a **Page** object.
 

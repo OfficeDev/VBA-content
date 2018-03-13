@@ -50,8 +50,6 @@ With ActivePresentation.Slides(1).Shapes(2).TextFrame
     End With
 
 End With
-
-
 ```
 
 

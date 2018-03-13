@@ -21,10 +21,11 @@ Sets or retrieves the [accelerator key](glossary-vba.md) for a control.
 The  **Accelerator** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _String_|Optional. The character to use as the accelerator key.|
+| <strong>Part</strong> | <strong>Description</strong>                           |
+|:----------------------|:-------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                              |
+| <em>String</em>       | Optional. The character to use as the accelerator key. |
+
  **Remarks**
 To designate an accelerator key, enter a single character for the  **Accelerator** property. You can set **Accelerator** in the control's property sheet or in code. If the value of this property contains more than one character, the first character in the string becomes the value of **Accelerator**.
 When an accelerator key is used, there is no visual feedback (other than [focus](vbe-glossary.md)) to indicate that the control initiated the Click event. For example, if the accelerator key applies to a  **CommandButton**, the user will not see the button pressed in the interface. The button receives the focus, however, when the user presses the accelerator key.

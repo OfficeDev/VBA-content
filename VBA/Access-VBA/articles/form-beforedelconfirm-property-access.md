@@ -35,7 +35,6 @@ The following example specifies that when the BeforeDelConfirm event occurs on t
 
 ```vb
 Forms(0).BeforeDelConfirm = "[Event Procedure]" 
-
 ```
 
 

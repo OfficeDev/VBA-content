@@ -37,7 +37,6 @@ The following example specifies that when the  **Query** event occurs on the fir
 
 ```vb
 Forms(0).Query = "[Event Procedure]" 
-
 ```
 
 

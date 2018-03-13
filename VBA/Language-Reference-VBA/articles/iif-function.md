@@ -19,11 +19,12 @@ Returns one of two parts, depending on the evaluation of an [expression](vbe-glo
 The  **IIf** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_expr_**|Required. Expression you want to evaluate.|
-|**_truepart_**|Required. Value or expression returned if  **_expr_** is **True**.|
-|**_falsepart_**|Required. Value or expression returned if  **_expr_** is **False**.|
+| <strong>Part</strong>               | <strong>Description</strong>                                                                         |
+|:------------------------------------|:-----------------------------------------------------------------------------------------------------|
+| <strong><em>expr</em></strong>      | Required. Expression you want to evaluate.                                                           |
+| <strong><em>truepart</em></strong>  | Required. Value or expression returned if  <strong><em>expr</em></strong> is <strong>True</strong>.  |
+| <strong><em>falsepart</em></strong> | Required. Value or expression returned if  <strong><em>expr</em></strong> is <strong>False</strong>. |
+
  **Remarks**
  **IIf** always evaluates both **_truepart_** and **_falsepart_**, even though it returns only one of them. Because of this, you should watch for undesirable side effects. For example, if evaluating **_falsepart_** results in a division by zero error, an error occurs even if **_expr_** is **True**.
 

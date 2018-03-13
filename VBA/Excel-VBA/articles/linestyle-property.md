@@ -20,9 +20,11 @@ Returns or sets the line style for the border. Read/write
 
 
 |XlLineStyle can be one of these XlLineStyle constants.|
-| **xlContinuous**|
-| **xlDash**|
-| **xlDashDot** **xlDashDotDot** **xlDot** **xlDouble** **xlSlantDashDot** **xlLineStyleNone**|
+| <strong>xlContinuous</strong>|
+| 
+<strong>xlDash</strong>|
+| 
+<strong>xlDashDot</strong> <strong>xlDashDotDot</strong> <strong>xlDot</strong> <strong>xlDouble</strong> <strong>xlSlantDashDot</strong> <strong>xlLineStyleNone</strong>|
 
  _expression_. **LineStyle**
 

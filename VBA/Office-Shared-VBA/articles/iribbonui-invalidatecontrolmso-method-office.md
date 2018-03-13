@@ -53,7 +53,7 @@ Invalidating a control repaints the screen and causes any callback procedures as
 Sub MyAddInInitialize(Ribbon As IRibbonUI) 
  Set MyRibbon = Ribbon 
 End Sub 
- 
+
 Sub myFunction() 
  MyRibbon.InvalidateControlMso("TabInsert") ' Invalidates the Insert control 
 End Sub

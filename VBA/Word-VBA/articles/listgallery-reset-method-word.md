@@ -53,8 +53,6 @@ For Each lg In ListGalleries
  lg.Reset Index:=i 
  Next i 
 Next lg 
- 
-
 ```
 
 

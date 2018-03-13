@@ -56,8 +56,6 @@ lngScreenPosX = 300
 lngScreenPosY = 300 
 
 vsoViewer.DisplayPropertyDialog lngScreenPosX, lngScreenPosY
-
-
 ```
 
 

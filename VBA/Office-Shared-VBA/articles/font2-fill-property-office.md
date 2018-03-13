@@ -33,25 +33,24 @@ Sub TestShapeAttributes()
  Dim rngRun As Office.TextRange2 
  Dim rngPara As Office.TextRange2 
  Dim fnt As Office.Font2 
- 
+
  Set shp = ActiveSheet.Shapes(1) 
  Set rng = shp.TextFrame2.TextRange 
  rng.Text = "This is test text." 
- 
+
  Set rngWord = rng.Words(2) 
  Set fnt = rngWord.Font 
  With fnt 
  .Fill.ForeColor.RGB = RGB(255, 0, 0) 
  .Bold = msoTrue 
  End With 
- 
+
  Set rngRun = rng.Runs(3) 
  rngRun.InsertBefore vbCr 
- 
+
  Set rngPara = rng.Paragraphs(2) 
  rngPara.ParagraphFormat.Alignment = msoAlignRight 
 End Sub 
-
 ```
 
 

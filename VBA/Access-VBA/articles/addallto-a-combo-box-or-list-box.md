@@ -12,7 +12,7 @@ When you use a list box or combo box to enter selection criteria, you might want
 
 To utilize the AddAllToList procedure, you must set the  **RowSourceType** property of the combo box or list box to **AddAllToList**.
 
-You can specify a different item than  **(All)** to add to the list by setting the **Tag** property of the combo box or list box. For example, you can add **<None>** to the top of the list by setting the value of the **Tag** property to `1;<None>`.
+You can specify a different item than  <strong>(All)</strong> to add to the list by setting the <strong>Tag</strong> property of the combo box or list box. For example, you can add <strong><None></strong> to the top of the list by setting the value of the <strong>Tag</strong> property to <code>1;&lt;None&gt;</code>.
 
 
 

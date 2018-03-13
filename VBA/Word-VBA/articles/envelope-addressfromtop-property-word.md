@@ -36,7 +36,6 @@ This example creates a new document and adds an envelope with a predefined deliv
 ```vb
 Dim strAddress As String 
 Dim strReturn As String 
-
 ```
 
 
@@ -45,13 +44,13 @@ strAddress = "Michael Bunney" &; vbCr &; "123 Skye St." &; vbCr _
  &; "Our Town, WA 98040" 
 strReturn = "Kate Dresen" &; vbCr &; "123 Main" &; vbCr _ 
  &; "Other Town, WA 98040" 
- 
+
 With Documents.Add.Envelope 
  .Insert Address:=strAddress, ReturnAddress:=strReturn 
  .AddressFromTop = InchesToPoints(1.75) 
  .AddressFromLeft = InchesToPoints(3.75) 
 End With 
- 
+
 ActiveDocument.ActiveWindow.View.Type = wdPrintView
 ```
 

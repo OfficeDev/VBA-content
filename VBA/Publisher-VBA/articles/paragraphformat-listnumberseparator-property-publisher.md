@@ -36,15 +36,23 @@ The  **ListNumberSeparator** property value can be one of these **PbListSeparato
 
 
 
-| **pbListSeparatorColon**|
-| **pbListSeparatorDoubleHyphen**|
-| **pbListSeparatorDoubleParen**|
-| **pbListSeparatorDoubleSquare**|
-| **pbListSeparatorParenthesis**|
-| **pbListSeparatorPeriod**|
-| **pbListSeparatorPlain**|
-| **pbListSeparatorSquare**|
-| **pbListSeparatorWideComma**|
+| <strong>pbListSeparatorColon</strong>|
+| 
+<strong>pbListSeparatorDoubleHyphen</strong>|
+| 
+<strong>pbListSeparatorDoubleParen</strong>|
+| 
+<strong>pbListSeparatorDoubleSquare</strong>|
+| 
+<strong>pbListSeparatorParenthesis</strong>|
+| 
+<strong>pbListSeparatorPeriod</strong>|
+| 
+<strong>pbListSeparatorPlain</strong>|
+| 
+<strong>pbListSeparatorSquare</strong>|
+| 
+<strong>pbListSeparatorWideComma</strong>|
 
 ## Example
 
@@ -53,10 +61,10 @@ This example tests to see if the list type is a numbered list, specifically  **p
 
 ```vb
 Dim objParaForm As ParagraphFormat 
- 
+
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
 .TextFrame.TextRange.ParagraphFormat 
- 
+
 With objParaForm 
  If .ListType = pbListTypeArabic Then 
  .ListNumberSeparator = pbListSeparatorParenthesis 
@@ -65,7 +73,6 @@ With objParaForm
  .ListNumberSeparator = pbListSeparatorParenthesis 
  End If 
 End With 
-
 ```
 
 

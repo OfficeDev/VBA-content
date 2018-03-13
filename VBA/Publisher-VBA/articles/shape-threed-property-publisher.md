@@ -35,10 +35,10 @@ This example sets the depth, extrusion color, extrusion direction, and lighting 
 
 ```vb
 Dim tdfTemp As ThreeDFormat 
- 
+
 Set tdfTemp = _ 
  ActiveDocument.Pages(1).Shapes(1).ThreeD 
- 
+
 With tdfTemp 
  .Visible = True 
  .Depth = 50 
@@ -47,7 +47,6 @@ With tdfTemp
  PresetExtrusionDirection:=msoExtrusionTop 
  .PresetLightingDirection = msoLightingLeft 
 End With 
-
 ```
 
 

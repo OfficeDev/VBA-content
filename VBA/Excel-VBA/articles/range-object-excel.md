@@ -170,37 +170,37 @@ Sub Create_Unique_List_Count()
     Dim vaUnique As Variant
     'Number of unique values in the data
     Dim lnCount As Long
-    
+
     'Initialize the Excel objects
     Set wbBook = ThisWorkbook
     With wbBook
         Set wsSource = .Worksheets("Sheet1")
         Set wsTarget = .Worksheets("Sheet2")
     End With
-    
+
     'On the source worksheet, set the range to the data stored in column A
     With wsSource
         Set rnSource = .Range(.Range("A1"), .Range("A100").End(xlDown))
     End With
-    
+
     'On the target worksheet, set the range as column A.
     Set rnTarget = wsTarget.Range("A1")
-    
+
     'Use AdvancedFilter to copy the data from the source to the target,
     'while filtering for duplicate values.
     rnSource.AdvancedFilter Action:=xlFilterCopy, _
                             CopyToRange:=rnTarget, _
                             Unique:=True
-                            
+
     'On the target worksheet, set the unique range on Column A, excluding the first cell
     '(which will contain the "List" header for the column).
     With wsTarget
         Set rnUnique = .Range(.Range("A2"), .Range("A100").End(xlUp))
     End With
-    
+
     'Assign all the values of the Unique range into the Unique variant.
     vaUnique = rnUnique.Value
-    
+
     'Count the number of occurrences of every unique value in the source data,
     'and list it next to its relevant value.
     For lnCount = 1 To UBound(vaUnique)
@@ -209,7 +209,7 @@ Sub Create_Unique_List_Count()
             rnSource.Address(External:=True) &amp; _
             ",""" &amp; rnUnique(lnCount, 1).Text &amp; """)")
     Next lnCount
-    
+
     'Label the column of occurrences with "Occurrences"
     With rnTarget.Offset(0, 1)
         .Value = "Occurrences"
@@ -226,15 +226,15 @@ The following properties and methods for returning a  **Range** object are descr
 
 
 -  **[Range](http://msdn.microsoft.com/library/9a323305-c822-ef9e-1cc8-ec077a976834%28Office.15%29.aspx)** property
-    
+
 -  **[Cells](http://msdn.microsoft.com/library/19c14e41-7d8e-b56f-fd60-717df64edee8%28Office.15%29.aspx)** property
-    
+
 -  **Range** and **Cells**
-    
+
 -  **[Offset](http://msdn.microsoft.com/library/dfbbd1a2-2f73-fd6a-6277-4584823f55a4%28Office.15%29.aspx)** property
-    
+
 -  **[Union](http://msdn.microsoft.com/library/7c70a5be-2696-5fc2-bd69-6c6ff4d3291e%28Office.15%29.aspx)** method
-    
+
 
 ## Methods
 
@@ -426,6 +426,7 @@ The following properties and methods for returning a  **Range** object are descr
 
 ## About the Contributor
 <a name="AboutContributor"> </a>
+
 
 Dennis Wallentin is the author of VSTO &amp; .NET &amp; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 

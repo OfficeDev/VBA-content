@@ -21,11 +21,12 @@ Returns a string containing the specified number of lines of code.
 The  **Lines** syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _startline_|Required. A [Long](vbe-glossary.md) specifying the line number in which to start.|
-| _count_|Required. A  **Long** specifying the number of lines you want to return.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                          |
+|:----------------------|:------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list. |
+| <em>startline</em>    | Required. A [Long](vbe-glossary.md) specifying the line number in which to start.                     |
+| <em>count</em>        | Required. A  <strong>Long</strong> specifying the number of lines you want to return.                 |
+
  **Remarks**
 The [line numbers](vbe-glossary.md) in a[code module](vbe-glossary.md) begin at 1.
 

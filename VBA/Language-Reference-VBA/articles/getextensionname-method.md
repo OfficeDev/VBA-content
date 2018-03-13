@@ -22,11 +22,14 @@ Returns a string containing the extension name for the last component in a path.
 The  **GetExtensionName** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _path_|Required. The path specification for the component whose extension name is to be returned.|
- **Remarks**
-For network drives, the root directory ( **\** ) is considered to be a component.
-The  **GetExtensionName** method returns a zero-length string ("") if no component matches the _path_ argument.
+| <strong>Part</strong> | <strong>Description</strong>                                                               |
+|:----------------------|:-------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                         |
+| <em>path</em>         | Required. The path specification for the component whose extension name is to be returned. |
+
+ <strong>Remarks</strong>
+For network drives, the root directory ( 
+<strong>\</strong> ) is considered to be a component.
+The  
+<strong>GetExtensionName</strong> method returns a zero-length string ("") if no component matches the <em>path</em> argument.
 

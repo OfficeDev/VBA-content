@@ -35,7 +35,7 @@ The following example displays the  **PageIndex**,  **PageNumber**, and  **PageI
 
 ```vb
 Dim lngLoop As Long 
- 
+
 With ActiveDocument.Pages 
 For lngLoop = 1 To .Count 
 With .Item(lngLoop) 
@@ -45,8 +45,6 @@ Debug.Print "PageIndex = " &; .PageIndex _
 End With 
 Next lngLoop 
 End With 
- 
-
 ```
 
 

@@ -29,10 +29,11 @@ The  **ColumnHeads** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|Column headings are enabled and either field captions, field names, or the first row of data items are used as column headings or chart labels.|
-|No|**False**|(Default) Column headings are not enabled.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>                                                                                                                    |
+|:-------------------------|:------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yes                      | <strong>True</strong>         | Column headings are enabled and either field captions, field names, or the first row of data items are used as column headings or chart labels. |
+| No                       | <strong>False</strong>        | (Default) Column headings are not enabled.                                                                                                      |
+
 For table fields , you can set this property on the  **Lookup** tab of the Field Properties section of table Design view for fields with the **DisplayControl** property set to Combo Box or List Box.
 
 The  **RowSourceType** property specifies whether field names or the first row of data items are used to create column headings. If the **RowSourceType** property is set to Table/Query, the field names are used as column headings. If the field has a caption, then the caption is displayed. For example, if a list box has three columns (the **ColumnCount** property is set to 3) and the **RowSourceType** property is set to Table/Query, the first three field names (or captions) are used as headings.

@@ -35,7 +35,6 @@ The following example specifies that when the  **OnDisconnect** event occurs on 
 
 ```vb
 Forms(0).OnDisconnect = "[Event Procedure]" 
-
 ```
 
 

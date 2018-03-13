@@ -64,7 +64,6 @@ For example, you can use the following code to retrieve the master from the  **M
 ```vb
 Dim vsoMaster As Visio.Master 
 Set vsoMaster = Visio.ActiveDocument.Masters("{0478DA94-1315-9876-8E4C-006523ABC9B2}") 
-
 ```
 
 Alternatively, you can use the following code, which adds the letter "U" before the string to identify it as a unique ID:
@@ -75,7 +74,6 @@ Alternatively, you can use the following code, which adds the letter "U" before 
 ```vb
 Dim vsoShape As Visio.Shape 
 Set vsoMaster = Visio.ActiveDocument.Masters("U{0478DA94-1315-9876-8E4C-006523ABC9B2}") 
-
 ```
 
 

@@ -22,25 +22,27 @@ Sets or returns the attributes of files or folders. Read/write or read-only, dep
 The  **Attributes** property has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **File** or **Folder** object.|
-| _newattributes_|Optional. If provided,  _newattributes_ is the new value for the attributes of the specified _object_.|
+| <strong>Part</strong>  | <strong>Description</strong>                                                                                         |
+|:-----------------------|:---------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>        | Required. Always the name of a  <strong>File</strong> or <strong>Folder</strong> object.                             |
+| <em>newattributes</em> | Optional. If provided,  <em>newattributes</em> is the new value for the attributes of the specified <em>object</em>. |
+
  **Settings**
 The  _newattributes_ argument can have any of the following values or any logical combination of the following values:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**Normal**|0|Normal file. No attributes are set.|
-|**ReadOnly**|1|Read-only file. Attribute is read/write.|
-|**Hidden**|2|Hidden file. Attribute is read/write.|
-|**System**|4|System file. Attribute is read/write.|
-|**Volume**|8|Disk drive volume label. Attribute is read-only.|
-|**Directory**|16|Folder or directory. Attribute is read-only.|
-|**Archive**|32|File has changed since last backup. Attribute is read/write.|
-|**Alias**|64|Link or shortcut. Attribute is read-only.|
-|**Compressed**|128|Compressed file. Attribute is read-only.|
+| <strong>Constant</strong>   | <strong>Value</strong> | <strong>Description</strong>                                 |
+|:----------------------------|:-----------------------|:-------------------------------------------------------------|
+| <strong>Normal</strong>     | 0                      | Normal file. No attributes are set.                          |
+| <strong>ReadOnly</strong>   | 1                      | Read-only file. Attribute is read/write.                     |
+| <strong>Hidden</strong>     | 2                      | Hidden file. Attribute is read/write.                        |
+| <strong>System</strong>     | 4                      | System file. Attribute is read/write.                        |
+| <strong>Volume</strong>     | 8                      | Disk drive volume label. Attribute is read-only.             |
+| <strong>Directory</strong>  | 16                     | Folder or directory. Attribute is read-only.                 |
+| <strong>Archive</strong>    | 32                     | File has changed since last backup. Attribute is read/write. |
+| <strong>Alias</strong>      | 64                     | Link or shortcut. Attribute is read-only.                    |
+| <strong>Compressed</strong> | 128                    | Compressed file. Attribute is read-only.                     |
+
  **Remarks**
 The following code illustrates the use of the  **Attributes** property with a file:
 

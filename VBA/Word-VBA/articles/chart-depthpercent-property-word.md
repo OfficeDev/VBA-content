@@ -39,7 +39,6 @@ With ActiveDocument.InlineShapes(1)
  Chart.DepthPercent = 50 
  End If 
 End With 
-
 ```
 
 

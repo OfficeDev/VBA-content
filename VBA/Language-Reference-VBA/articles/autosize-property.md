@@ -21,18 +21,20 @@ Specifies whether an object automatically resizes to display its entire contents
 The  **AutoSize** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Boolean_|Optional. Whether the control is resized.|
+| <strong>Part</strong> | <strong>Description</strong>              |
+|:----------------------|:------------------------------------------|
+| <em>object</em>       | Required. A valid object.                 |
+| <em>Boolean</em>      | Optional. Whether the control is resized. |
+
  **Settings**
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|**True**|Automatically resizes the control to display its entire contents.|
-|**False**|Keeps the size of the control constant. Contents are clipped when they exceed the area of the control (default).|
+| <strong>Value</strong> | <strong>Description</strong>                                                                                     |
+|:-----------------------|:-----------------------------------------------------------------------------------------------------------------|
+| <strong>True</strong>  | Automatically resizes the control to display its entire contents.                                                |
+| <strong>False</strong> | Keeps the size of the control constant. Contents are clipped when they exceed the area of the control (default). |
+
  **Remarks**
 For controls with captions, the  **AutoSize** property specifies whether the control automatically adjusts to display the entire caption.
 For controls without captions, this property specifies whether the control automatically adjusts to display the information stored in the control. In a  **ComboBox**, for example, setting **AutoSize** to **True** automatically sets the width of the display area to match the length of the current text.

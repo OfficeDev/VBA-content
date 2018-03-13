@@ -34,6 +34,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
+
 #### ApplyTo values
 
 |||
@@ -45,6 +46,7 @@ _expression_ An expression that returns an **Application** object.
 |5|Primary pane, or the Timeline if it is active|
 
 <br/>
+
 
 ### Return value
 

@@ -34,34 +34,34 @@ Use the  **Status** property to determine whether the local copy of the active d
 
 
 -  ** msoSyncStatusConflict** - **True** when both the local and the server copies have changes. Use the **ResolveConflict** method to resolve the differences.
-    
+
 -  **msoSyncStatusError** - Check the **ErrorType** property.
-    
+
 -  ** msoSyncStatusLocalChanges** - **True** when only the local copy has changes. Use the **PutUpdate** method to save local changes to the server copy.
-    
+
 -  ** msoSyncStatusNewerAvailable** - **True** when only the server copy has changes. Close and re-open the document to work with the latest copy from the server.
-    
+
 -  ** msoSyncStatusSuspended** - Use the **Unsuspend** method to resume synchronization.
-    
+
 
 
 The  **Status** property returns a single constant from the list in the following order of precedence:
 
 
 1.  **msoSyncStatusNoSharedWorkspace**
-    
+
 2.  **msoSyncStatusError**
-    
+
 3.  **msoSyncStatusSuspended**
-    
+
 4.  **msoSyncStatusConflict**
-    
+
 5.  **msoSyncStatusNewerAvailable**
-    
+
 6.  **msoSyncStatusLocalChanges**
-    
+
 7.  **msoSyncStatusLatest**
-    
+
 
 
 
@@ -99,7 +99,6 @@ The following example examines the  **Status** property and takes an appropriate
     End If 
     MsgBox strStatus, vbInformation + vbOKOnly, "Sync Information" 
     Set objSync = Nothing 
-
 ```
 
 

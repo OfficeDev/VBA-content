@@ -24,9 +24,9 @@ A collection of all the  **[LegendEntry](legendentry-object-powerpoint.md)** obj
 
 
 - The text of the entry, which is the name of the series or trendline associated with the legend entry.
-    
+
 - The entry marker, which visually links the legend entry with its associated series or trendline in the chart.
-    
+
 
 
 The formatting properties for the entry marker and its associated series or trendline are contained in the  **[LegendKey](legendkey-object-powerpoint.md)** object.
@@ -62,8 +62,6 @@ With ActiveDocument.InlineShapes(1)
     End If
 
 End With
-
-
 ```
 
 
@@ -88,8 +86,6 @@ With ActiveDocument.InlineShapes(1)
     End If
 
 End With
-
-
 ```
 
 

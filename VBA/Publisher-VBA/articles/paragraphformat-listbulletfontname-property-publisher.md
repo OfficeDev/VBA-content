@@ -40,17 +40,16 @@ This example tests to see if the list type is a bulleted list. If it is, the  **
 
 ```vb
 Dim objParaForm As ParagraphFormat 
- 
+
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
 .TextFrame.TextRange.ParagraphFormat 
- 
+
 With objParaForm 
  If .ListType = pbListTypeBullet Then 
  .ListBulletFontName = "Verdana" 
  .ListBulletFontSize = 24 
  End If 
 End With 
-
 ```
 
 

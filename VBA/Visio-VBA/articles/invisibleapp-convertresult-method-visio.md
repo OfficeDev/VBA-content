@@ -68,14 +68,13 @@ Examples where string is specified:
 
 
 ```
- 
+
 Debug.Print vsoApplication.ConvertResult("0.5 * 2", "ft", "ft") >>> 1.0 
 Debug.Print vsoApplication.ConvertResult("0.5 * 2", "ft", "in") >>> 12.0 
 Debug.Print vsoApplication.ConvertResult("1 cm", "ft", "in") >>> 0.39 
 Debug.Print vsoApplication.ConvertResult("1 cm", "ft", "NOCAST") >>> 1.0 
 Debug.Print vsoApplication.ConvertResult("1 cm", "ft", "") >>> 0.39 
 Debug.Print vsoApplication.ConvertResult("1 cm", "ft", "bz") >>> exception: Bad measurement unit. 
-
 ```
 
 Examples where number is specified:
@@ -84,13 +83,12 @@ Examples where number is specified:
 
 
 ```
- 
+
 Debug.Print vsoApplication.ConvertResult(1, "ft", "ft") >>> 1 
 Debug.Print vsoApplication.ConvertResult(1, "ft", "in") >>> 12 
 Debug.Print vsoApplication.ConvertResult(1.0, "in", "ft") >>> 8.33333333333333E-02 
 Debug.Print vsoApplication.ConvertResult(1.0, visFeet, "") >>> 12 
 Debug.Print vsoApplication.ConvertResult(1, "bz", "in") >>> exception: Bad measurement unit. 
-
 ```
 
 
@@ -101,13 +99,13 @@ The following macro shows how to use the  **ConvertResult** method to report the
 
 ```vb
 Sub ConvertResult_Example() 
- 
+
  Dim vsoApplication As Visio.Application 
  Dim vsoWindow As Visio.Window 
  Dim vsoSelection As Visio.Selection 
  Dim vsoShape1 As Visio.Shape 
  Dim vsoShape2 As Visio.Shape 
- 
+
  Dim dblPinX1 As Double 
  Dim dblPinY1 As Double 
  Dim dblPinX2 As Double 
@@ -124,12 +122,12 @@ Sub ConvertResult_Example()
  Dim strUnit As String 
  Set vsoApplication = Visio.Application 
  Set vsoWindow = vsoApplication.ActiveWindow 
- 
+
  'Drawing page must be active window 
  If vsoWindow.Type = 1 Then 
  Set vsoSelection = vsoWindow.Selection 
  lngCount = vsoSelection.Count 
- 
+
  'Exactly two shapes should be selected 
  If lngCount <> 2 Then 
  MsgBox "A total of " &; lngCount &; " shapes are " _ 
@@ -138,7 +136,7 @@ Sub ConvertResult_Example()
  Else 
  Set vsoShape1 = vsoSelection.Item(1) 
  Set vsoShape2 = vsoSelection.Item(2) 
- 
+
  'Pass the Visio Automation constant for inches (visInches, which is defined as 65) to the Result method to force units to inches 
  dblPinX1in = vsoShape1.Cells("PinX").Result(65) 
  dblPinY1in = vsoShape1.Cells("PinY").Result(65) 
@@ -146,24 +144,24 @@ Sub ConvertResult_Example()
  dblPinY2in = vsoShape2.Cells("PinY").Result(65) 
  dblDistance = Sqr((dblPinX2in - dblPinX1in) ^ 2 + _ 
  (dblPinY2in - dblPinY1in) ^ 2) 
- 
+
  'Convert distances from inches to centimeters, feet, yards, and miles 
  dblResult(1) = vsoApplication.ConvertResult(dblDistance, "in", "cm") 
  dblResult(2) = vsoApplication.ConvertResult(dblDistance, "in", "ft") 
  dblResult(3) = vsoApplication.ConvertResult(dblDistance, "in", "yd") 
  dblResult(4) = vsoApplication.ConvertResult(dblDistance, "in", "mi") 
- 
+
  'Display results 
  MsgBox dblResult(1) &; " centimeters; " &; dblResult(2) &; " feet; " &; _ 
  dblResult(3) &; " ;yards; " &; dblResult(4) &; " miles ", 0 
- 
+
  End If 
- 
+
  Else 
  MsgBox "The drawing page must be active.", 0 
- 
+
  End If 
- 
+
 End Sub
 ```
 

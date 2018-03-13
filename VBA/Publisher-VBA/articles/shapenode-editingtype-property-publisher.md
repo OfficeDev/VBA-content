@@ -42,7 +42,7 @@ This example changes all corner nodes to smooth curve nodes in the third shape i
 
 ```vb
 Dim intNode As Integer 
- 
+
 With ActiveDocument.Pages(1).Shapes(3).Nodes 
  For intNode = 1 to .Count 
  If .Item(intNode).EditingType = msoEditingCorner Then 
@@ -51,7 +51,6 @@ With ActiveDocument.Pages(1).Shapes(3).Nodes
  End If 
  Next 
 End With 
-
 ```
 
 

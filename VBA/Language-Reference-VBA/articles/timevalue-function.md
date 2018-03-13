@@ -29,7 +29,6 @@ This example uses the  **TimeValue** function to convert a string to a time. You
 ```vb
 Dim MyTime
 MyTime = TimeValue("4:35:17 PM")    ' Return a time.
-
 ```
 
 

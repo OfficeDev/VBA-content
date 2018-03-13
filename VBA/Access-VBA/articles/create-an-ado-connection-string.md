@@ -51,7 +51,6 @@ With objConn
  .Properties("Integrated Security") = "SSPI" 
  .Open 
 End With 
-
 ```
 
 

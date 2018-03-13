@@ -57,10 +57,11 @@ The FontBold parameter can be one of the  **MsoTriState** constants declared in 
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**|Do not format the WordArt text as bold.|
-| **msoTrue**|Format the WordArt text as bold.|
+| <strong>Constant</strong> | <strong>Description</strong>            |
+|:--------------------------|:----------------------------------------|
+| <strong>msoFalse</strong> | Do not format the WordArt text as bold. |
+| <strong>msoTrue</strong>  | Format the WordArt text as bold.        |
+
 The FontItalic parameter can be one of the  **MsoTriState** constants declared in the Microsoft Office type library and shown in the following table.
 
 
@@ -77,13 +78,12 @@ The following example adds a WordArt object to the first page of the active publ
 
 ```vb
 Dim shpWordArt As Shape 
- 
+
 Set shpWordArt = ActiveDocument.Pages(1).Shapes.AddTextEffect _ 
  (PresetTextEffect:=msoTextEffect7, Text:="Annual Report", _ 
  FontName:="Arial Black", FontSize:=24, _ 
  FontBold:=msoFalse, FontItalic:=msoFalse, _ 
  Left:=144, Top:=72) 
-
 ```
 
 

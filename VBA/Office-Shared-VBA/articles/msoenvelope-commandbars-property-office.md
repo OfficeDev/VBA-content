@@ -37,7 +37,6 @@ The following example return the  **CommandBars** collection from the **MsoEnvel
 ```
 Dim cbars As CommandBars 
 Set cbars = Application.ActiveDocument.MailEnvelope.Commandbars 
-
 ```
 
 

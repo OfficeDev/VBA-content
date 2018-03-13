@@ -21,10 +21,11 @@ Specifies the color of an object's border.
 The  **BorderColor** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _Long_|Optional. A value or constant that determines the border color of an object.|
+| <strong>Part</strong> | <strong>Description</strong>                                                 |
+|:----------------------|:-----------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object.                                                    |
+| <em>Long</em>         | Optional. A value or constant that determines the border color of an object. |
+
  **Settings**
 You can use any integer that represents a valid color. You can also specify a color by using the [RGB](glossary-vba.md) function with red, green, and blue color components. The value of each color component is an integer that ranges from zero to 255. For example, you can specify teal blue as the integer value 4966415 or as RGB color component values 15, 200, 75.
  **Remarks**

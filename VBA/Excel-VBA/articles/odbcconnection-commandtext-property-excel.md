@@ -44,7 +44,6 @@ With qtQtrResults
  "Select ProductID From Products Where ProductID < 10" 
  .Refresh 
 End With 
-
 ```
 
 

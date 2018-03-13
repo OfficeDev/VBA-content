@@ -32,7 +32,6 @@ With ActiveDocument.InlineShapes(1)
  End With 
  End If 
 End With 
-
 ```
 
 Use  **[DataLabels](series-datalabels-method-word.md)** ( _Index_ ), where _Index_ is the data label index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in the first series of the first chart in the active document.

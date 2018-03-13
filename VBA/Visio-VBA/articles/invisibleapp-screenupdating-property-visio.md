@@ -49,15 +49,14 @@ This Microsoft Visual Basic code snippet shows how to use the  **ScreenUpdating*
 'Turn off screen updating to improve performance during 
 'the series of actions that follow. 
  Visio.Application.ScreenUpdating = False 
- 
+
 'Drop several shapes. 
 'Set the shapes' text. 
 'Connect the shapes. 
 'Format the connectors. 
- 
+
 'Turn screen updating on again when the actions are complete. 
 Visio.Application.ScreenUpdating = True 
-
 ```
 
 

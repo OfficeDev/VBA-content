@@ -46,22 +46,23 @@ Control, field, and record validation rules are applied as follows:
 
 
 - Validation rules you set for fields and controls are applied when you edit the data and the focus leaves the field or control.
-    
+
 - Validation rules for records are applied when you move to another record.
-    
+
 - If you create validation rules for both a field and a control bound to the field, both validation rules are applied when you edit data and the focus leaves the control.
-    
+
 The following table contains expression examples for the  **ValidationRule** and **ValidationText** properties.
 
 
 
-|**ValidationRule property**|**ValidationText property**|
-|:-----|:-----|
-|<> 0|Entry must be a nonzero value.|
-|> 1000 Or Is Null|Entry must be blank or greater than 1000.|
-|Like "A????"|Entry must be 5 characters and begin with the letter "A".|
-|>= #1/1/96# And <#1/1/97#|Entry must be a date in 1996.|
-|DLookup("CustomerID", "Customers", "CustomerID = Forms!Customers!CustomerID") Is Null|Entry must be a unique CustomerID (domain aggregate functions are allowed only for form-level validation).|
+| <strong>ValidationRule property</strong>                                              | <strong>ValidationText property</strong>                                                                   |
+|:--------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
+| <> 0                                                                                  | Entry must be a nonzero value.                                                                             |
+| > 1000 Or Is Null                                                                     | Entry must be blank or greater than 1000.                                                                  |
+| Like "A????"                                                                          | Entry must be 5 characters and begin with the letter "A".                                                  |
+| >= #1/1/96# And <#1/1/97#                                                             | Entry must be a date in 1996.                                                                              |
+| DLookup("CustomerID", "Customers", "CustomerID = Forms!Customers!CustomerID") Is Null | Entry must be a unique CustomerID (domain aggregate functions are allowed only for form-level validation). |
+
 If you create a validation rule for a field, Microsoft Access doesn't normally allow a  **Null** value to be stored in the field. If you want to allow a **Null** value, add "Is Null" to the validation rule, as in "<> 8 Or Is Null" and make sure the **Required** property is set to No.
 
 You can't set field or record validation rules for tables created outside Microsoft Access (for example, dBASE, Paradox, or SQL Server). For these kinds of tables, you can create validation rules for controls only.
@@ -76,20 +77,20 @@ The following example creates a validation rule for a field that allows only val
 Dim strTblName As String, strFldName As String 
 Dim strValidRule As String 
 Dim strValidText As String, intX As Integer 
- 
+
 strTblName = "Customers" 
 strFldName = "Age" 
 strValidRule = ">= 65" 
 strValidText = "Enter a number greater than or equal to 65." 
 intX = SetFieldValidation(strTblName, strFldName, _ 
  strValidRule, strValidText) 
- 
+
 Function SetFieldValidation(strTblName As String, _ 
  strFldName As String, strValidRule As String, _ 
  strValidText As String) As Integer 
- 
+
  Dim dbs As Database, tdf As TableDef, fld As Field 
- 
+
  Set dbs = CurrentDb 
  Set tdf = dbs.TableDefs(strTblName) 
  Set fld = tdf.Fields(strFldName) 
@@ -107,18 +108,18 @@ The next example uses the SetTableValidation function to set record-level valida
 Dim strTblName As String, strValidRule As String 
 Dim strValidText As String 
 Dim intX As Integer 
- 
+
 strTblName = "Employees" 
 strValidRule = "EndDate > StartDate" 
 strValidText = "Enter an EndDate that is later than the StartDate." 
 intX = SetTableValidation(strTblName, strValidRule, strValidText) 
- 
+
 Function SetTableValidation(strTblName As String, _ 
  strValidRule As String, strValidText As String) _ 
  As Integer 
- 
+
  Dim dbs As Database, tdf As TableDef 
- 
+
  Set dbs = CurrentDb 
  Set tdf = dbs.TableDefs(strTblName) 
  tdf.ValidationRule = strValidRule 

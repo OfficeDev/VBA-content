@@ -16,13 +16,19 @@ Constants passed to various  **WorksheetFunction** and **Workbook** statistical 
 
 
 |xlForecastAggregationAveragexlForecastAggregationCountxlForecastAggregationCountAxlForecastAggregationMaxxlForecastAggregationMedianxlForecastAggregationMinimumxlForecastAggregationSum|1234567|Average aggregationCount aggregationCountA aggregationMaximum aggregationMedian aggregationMinimum aggregationSum aggregation|
-| **xlForecastAggregationAverage**| **1**||
-| **xlForecastAggregationCount**| **2**||
-| **xlForecastAggregationCountA**| **3**||
-| **xlForecastAggregationMax**| **4**||
-| **xlForecastAggregationMedian**| **5**||
-| **xlForecastAggregationMin**| **6**||
-| **xlForecastAggregationSum**| **7**||
+| <strong>xlForecastAggregationAverage</strong>| <strong>1</strong>||
+| 
+<strong>xlForecastAggregationCount</strong>| <strong>2</strong>||
+| 
+<strong>xlForecastAggregationCountA</strong>| <strong>3</strong>||
+| 
+<strong>xlForecastAggregationMax</strong>| <strong>4</strong>||
+| 
+<strong>xlForecastAggregationMedian</strong>| <strong>5</strong>||
+| 
+<strong>xlForecastAggregationMin</strong>| <strong>6</strong>||
+| 
+<strong>xlForecastAggregationSum</strong>| <strong>7</strong>||
 
 ## See also
 

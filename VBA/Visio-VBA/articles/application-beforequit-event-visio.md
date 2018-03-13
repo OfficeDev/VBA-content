@@ -15,7 +15,7 @@ Occurs before a Microsoft Visio instance terminates.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeQuit**( **_ByVal app As [IVAPPLICATION]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeQuit</strong>( **_ByVal app As [IVAPPLICATION]</em>** )
 
  _expression_ A variable that represents an **Application** object.
 

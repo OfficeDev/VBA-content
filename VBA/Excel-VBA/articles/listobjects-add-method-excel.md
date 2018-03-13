@@ -64,7 +64,6 @@ Set objListObject = ActiveWorkbook.Worksheets(1).ListObjects.Add(SourceType:= xl
 Source:= Array(strServerName, strListName, strListGUID), LinkSource:=True, _ 
 XlListObjectHasHeaders:=xlGuess, Destination:=Range("A1")), 
 TableStyleName:=xlGuess, Destination:=Range("A10")) 
-
 ```
 
 

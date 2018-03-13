@@ -20,22 +20,24 @@ Returns a zero-based array containing subset of a string array based on a specif
 The  **Filter** function syntax has these[named argument](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_sourcearray_**|Required. One-dimensional array of strings to be searched.|
-|**_match_**|Required. String to search for.|
-|**_include_**|Optional.  **Boolean** value indicating whether to return substrings that include or exclude **_match_**. If **_include_** is **True**, **Filter** returns the subset of the array that contains **_match_** as a substring. If **_include_** is **False**, **Filter** returns the subset of the array that does not contain **_match_** as a substring.|
-|**_compare_**|Optional. Numeric value indicating the kind of string comparison to use. See Settings section for values.|
+| <strong>Part</strong>                 | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|:--------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>sourcearray</em></strong> | Required. One-dimensional array of strings to be searched.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| <strong><em>match</em></strong>       | Required. String to search for.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <strong><em>include</em></strong>     | Optional.  <strong>Boolean</strong> value indicating whether to return substrings that include or exclude <strong><em>match</em></strong>. If <strong><em>include</em></strong> is <strong>True</strong>, <strong>Filter</strong> returns the subset of the array that contains <strong><em>match</em></strong> as a substring. If <strong><em>include</em></strong> is <strong>False</strong>, <strong>Filter</strong> returns the subset of the array that does not contain <strong><em>match</em></strong> as a substring. |
+| <strong><em>compare</em></strong>     | Optional. Numeric value indicating the kind of string comparison to use. See Settings section for values.                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
  **Settings**
 The  **_compare_** argument can have the following values:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
-|**vbBinaryCompare**| 0|Performs a binary comparison.|
-|**vbTextCompare**| 1|Performs a textual comparison.|
-|**vbDatabaseCompare**| 2|Microsoft Access only. Performs a comparison based on information in your database.|
+| <strong>Constant</strong>           | <strong>Value</strong> | <strong>Description</strong>                                                               |
+|:------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------|
+| <strong>vbUseCompareOption</strong> | -1                     | Performs a comparison using the setting of the  <strong>Option Compare</strong> statement. |
+| <strong>vbBinaryCompare</strong>    | 0                      | Performs a binary comparison.                                                              |
+| <strong>vbTextCompare</strong>      | 1                      | Performs a textual comparison.                                                             |
+| <strong>vbDatabaseCompare</strong>  | 2                      | Microsoft Access only. Performs a comparison based on information in your database.        |
+
  **Remarks**
 If no matches of  **_match_** are found within **_sourcearray_**, **Filter** returns an empty array. An error occurs if **_sourcearray_** is **Null** or is not a one-dimensional array.
 The array returned by the  **Filter** function contains only enough elements to contain the number of matched items.

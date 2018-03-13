@@ -44,13 +44,19 @@ The  _Type_ parameter value can be one of these **MsoAnimType** constants.
 
 ||
 |:-----|
-|**msoAnimTypeColor**|
-|**msoAnimTypeMixed**|
-|**msoAnimTypeMotion**|
-|**msoAnimTypeNone**|
-|**msoAnimTypeProperty**|
-|**msoAnimTypeRotation**|
-|**msoAnimTypeScale**|
+|<strong>msoAnimTypeColor</strong>|
+|
+<strong>msoAnimTypeMixed</strong>|
+|
+<strong>msoAnimTypeMotion</strong>|
+|
+<strong>msoAnimTypeNone</strong>|
+|
+<strong>msoAnimTypeProperty</strong>|
+|
+<strong>msoAnimTypeRotation</strong>|
+|
+<strong>msoAnimTypeScale</strong>|
 
 ## See also
 

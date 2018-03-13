@@ -30,11 +30,10 @@ The following code example gets the type of each conflict in the active document
 
 ```vb
 Dim conf As Conflict 
- 
+
 For Each conf In ActiveDocument.CoAuthoring.Conflicts 
     MsgBox conf.Type 
 Next conf 
-
 ```
 
 

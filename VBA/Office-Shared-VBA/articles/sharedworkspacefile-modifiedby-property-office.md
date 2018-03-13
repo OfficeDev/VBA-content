@@ -53,7 +53,6 @@ The following example lists the files in a shared workspace site that were last 
  vbInformation + vbOKOnly, "Files Modified by Other Users" 
  Set swsOwner = Nothing 
  Set swsFile = Nothing 
-
 ```
 
 

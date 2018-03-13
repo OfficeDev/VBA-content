@@ -38,9 +38,9 @@ Valid values for an  **OLE_COLOR** property within Visio can be one of the follo
 
 
 - &;H00 _bbggrr,_ where _bb_ is the blue value between 0 and 0xFF (255), _gg_ the green value, and _rr_ the red value.
-    
+
 - &;H800000 _xx_ , where _xx_ is a valid **GetSysColor** index.
-    
+
 
 
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN.
@@ -51,16 +51,17 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **vbBlack**|0x0 |Black|
-| **vbRed**|0xFF |Red|
-| ** vbGreen**|0xFF00 |Green|
-| **vbYellow**|0xFFFF|Yellow|
-| **vbBlue**|0xFF0000 |Blue|
-| ** vbMagenta**|0xFF00FF |Magenta|
-| ** vbCyan**|0xFFFF00|Cyan|
-| ** vbWhite**|0xFFFFFF|White|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------|:-----------------------|:-----------------------------|
+| <strong>vbBlack</strong>  | 0x0                    | Black                        |
+| <strong>vbRed</strong>    | 0xFF                   | Red                          |
+| ** vbGreen**              | 0xFF00                 | Green                        |
+| <strong>vbYellow</strong> | 0xFFFF                 | Yellow                       |
+| <strong>vbBlue</strong>   | 0xFF0000               | Blue                         |
+| ** vbMagenta**            | 0xFF00FF               | Magenta                      |
+| ** vbCyan**               | 0xFFFF00               | Cyan                         |
+| ** vbWhite**              | 0xFFFFFF               | White                        |
+
 You can set the background gradient color for an individual stencil window by using the  **ActiveWindow.Windows(**_n_**).BackgroundColorGradient** property, where _n_ represents the index number of the stencil window in the **Windows** collection. When a stencil window is opened as a floating window, it can be an active window, and you can set its background gradient color by using the **ActiveWindow.BackgroundColorGradient** property. If you have opened a stencil window in this manner, setting the **BackgroundColor** property of the active stencil window to a value other than the default (-1) overrides the **StencilBackgroundColorGradient** setting for that window. To be able to reset the background gradient color of the same active stencil window by setting the **StencilBackgroundColorGradient** property, you must reset **BackgroundColorGradient** to its default value, -1. If multiple stencil windows of this type are open, setting **BackgroundColorGradient** for one window has no effect on the setting for other open windows.
 
 

@@ -51,7 +51,7 @@ Dim x2 As Single, y2 As Single
 Dim x3 As Single, y3 As Single 
 Dim x4 As Single, y4 As Single 
 Dim myDocument As Slide 
- 
+
 Set myDocument = ActivePresentation.Slides(1) 
 myDocument.Shapes(1).TextFrame2.TextRange2.Words(3).RotatedBounds _ 
  x1, y1, x2, y2, x3, y3, x4, y4 
@@ -62,7 +62,6 @@ With myDocument.Shapes.BuildFreeform(msoEditingCorner, x1, y1)
  .AddNodes msoSegmentLine, msoEditingAuto, x1, y1 
  .ConvertToShape.ZOrder msoSendToBack 
 End With 
-
 ```
 
 

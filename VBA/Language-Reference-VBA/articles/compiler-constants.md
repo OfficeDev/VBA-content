@@ -31,25 +31,27 @@ This applies to both Winx and VBAx constants.
 On 16-bit development platforms, the compiler constants are defined as follows:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**Win16**|**True**|Indicates development environment is 16-bit compatible.|
-|**Win32**|**False**|Indicates that the development environment is not 32-bit compatible.|
-|**Win64**|**False**|Indicates that the development environment is not 64-bit compatible.|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong>                                         |
+|:--------------------------|:-----------------------|:---------------------------------------------------------------------|
+| <strong>Win16</strong>    | <strong>True</strong>  | Indicates development environment is 16-bit compatible.              |
+| <strong>Win32</strong>    | <strong>False</strong> | Indicates that the development environment is not 32-bit compatible. |
+| <strong>Win64</strong>    | <strong>False</strong> | Indicates that the development environment is not 64-bit compatible. |
+
 On 32-bit development platforms, the compiler constants are defined as follows:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**Vba6**|**True**|Indicates that the development environment is Visual Basic for Applications, version 6.0 compatible.|
-|**Vba6**|**False**|Indicates that the development environment is not Visual Basic for Applications, version 6.0 compatible.|
-|**Vba7**|**True**|Indicates that the development environment is Visual Basic for Applications, version 7.0 compatible.|
-|**Vba7**|**False**|Indicates that the development environment is not Visual Basic for Applications, version 7.0 compatible.|
-|**Win16**|**False**|Indicates that the development environment is not 16-bit compatible.|
-|**Win32**|**True**|Indicates that the development environment is 32-bit compatible.|
-|**Win64**|**False**|Indicates that the development environment is not 64-bit compatible.|
-|**Mac**|**True**|Indicates that the development environment is Macintosh.|
-|**Mac**|**False**|Indicates that the development environment is not Macintosh.|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong>                                                                             |
+|:--------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------|
+| <strong>Vba6</strong>     | <strong>True</strong>  | Indicates that the development environment is Visual Basic for Applications, version 6.0 compatible.     |
+| <strong>Vba6</strong>     | <strong>False</strong> | Indicates that the development environment is not Visual Basic for Applications, version 6.0 compatible. |
+| <strong>Vba7</strong>     | <strong>True</strong>  | Indicates that the development environment is Visual Basic for Applications, version 7.0 compatible.     |
+| <strong>Vba7</strong>     | <strong>False</strong> | Indicates that the development environment is not Visual Basic for Applications, version 7.0 compatible. |
+| <strong>Win16</strong>    | <strong>False</strong> | Indicates that the development environment is not 16-bit compatible.                                     |
+| <strong>Win32</strong>    | <strong>True</strong>  | Indicates that the development environment is 32-bit compatible.                                         |
+| <strong>Win64</strong>    | <strong>False</strong> | Indicates that the development environment is not 64-bit compatible.                                     |
+| <strong>Mac</strong>      | <strong>True</strong>  | Indicates that the development environment is Macintosh.                                                 |
+| <strong>Mac</strong>      | <strong>False</strong> | Indicates that the development environment is not Macintosh.                                             |
+
 On 64-bit development platforms, the compiler constants are defined as follows:
 
 

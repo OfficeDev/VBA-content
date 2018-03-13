@@ -13,19 +13,19 @@ The client can listen for and respond to changes on a node or on a node and on a
 On the  **CustomXMLParts** collection:
 
 -  **StreamAfterAdd.** Allows a client to respond after a new store is added to the document.
-    
+
 -  **StreamBeforeDelete.** Allows a client to respond before a store is removed from the document.
-    
+
 -  **StreamAfterLoad.** Allows a client to respond after a store item is loaded with XML.
-    
+
 On the  **CustomXMLPart** object:
 
 -  **NodeAfterInsert.** Allows a client to respond after a new node is added to a store. If the added node contains a subtree, the event fires only once , for the top-most node.
-    
+
 -  **NodeAfterDelete.** Allows a client to respond after a node is deleted. If the deleted node contains a subtree, the event fires only once, for the top-most node.
-    
+
 -  **NodeAfterReplace.** Allows a client to respond after an XML node is replaced in the store.
-    
+
 
 ## Sample
 
@@ -51,7 +51,7 @@ One of the powerful things that you can accomplish with XML mapping is to have o
 
 ```vb
 Dim WithEvents objStream As CustomXMLPart 
- 
+
 Sub Demo() 
   Set objStream = ThisDocument.CustomXMLParts(4) 
 End Sub
@@ -69,13 +69,13 @@ Private Sub objStream_NodeAfterReplace( _
         ByVal OldNode As Office.CustomXMLNode, _ 
         ByVal NewNode As Office.CustomXMLNode, _ 
         ByVal InUndoRedo As Boolean) 
- 
+
     ' Check if NewNode, which is the node after the change, is 
     ' the "a" node by checking the BaseName of its ParentNode 
   If NewNode.ParentNode.BaseName = "a" Then 
     objStream.DocumentElement.LastChild.Text = "You changed a!" 
   End If 
- 
+
 End Sub
 ```
 

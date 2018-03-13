@@ -51,8 +51,6 @@ Dim intCounter As Integer
     Debug.Print Viewer1.ShapeIndexToID(intCounter)
 
 Next intCounter
-
-
 ```
 
 

@@ -20,13 +20,14 @@ Declares [constants](vbe-glossary.md) for use in place of literal values.
 The  **Const** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**Public**|Optional. [Keyword](vbe-glossary.md) used at [module level](vbe-glossary.md) to declare constants that are available to all [procedures](vbe-glossary.md) in all [modules](vbe-glossary.md). Not allowed in procedures.|
-|**Private**|Optional. Keyword used at module level to declare constants that are available only within the module where the [declaration](vbe-glossary.md) is made. Not allowed in procedures.|
-| _constname_|Required. Name of the constant; follows standard [variable](vbe-glossary.md) naming conventions.|
-| _type_|Optional. [Data type](vbe-glossary.md) of the constant; may be [Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported), [Date](vbe-glossary.md), [String](vbe-glossary.md), or [Variant](vbe-glossary.md). Use a separate  **As** _type_ clause for each constant being declared.|
-| _expression_|Required. Literal, other constant, or any combination that includes all arithmetic or logical operators except  **Is**.|
+| <strong>Part</strong>    | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|:-------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Public</strong>  | Optional. [Keyword](vbe-glossary.md) used at [module level](vbe-glossary.md) to declare constants that are available to all [procedures](vbe-glossary.md) in all [modules](vbe-glossary.md). Not allowed in procedures.                                                                                                                                                                                                                                                                         |
+| <strong>Private</strong> | Optional. Keyword used at module level to declare constants that are available only within the module where the [declaration](vbe-glossary.md) is made. Not allowed in procedures.                                                                                                                                                                                                                                                                                                              |
+| <em>constname</em>       | Required. Name of the constant; follows standard [variable](vbe-glossary.md) naming conventions.                                                                                                                                                                                                                                                                                                                                                                                                |
+| <em>type</em>            | Optional. [Data type](vbe-glossary.md) of the constant; may be [Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported), [Date](vbe-glossary.md), [String](vbe-glossary.md), or [Variant](vbe-glossary.md). Use a separate  <strong>As</strong> <em>type</em> clause for each constant being declared. |
+| <em>expression</em>      | Required. Literal, other constant, or any combination that includes all arithmetic or logical operators except  <strong>Is</strong>.                                                                                                                                                                                                                                                                                                                                                            |
+
  **Remarks**
 Constants are private by default. Within procedures, constants are always private; their visibility can't be changed. In [standard modules](vbe-glossary.md), the default visibility of module-level constants can be changed using the  **Public** keyword. In [class modules](vbe-glossary.md), however, constants can only be private and their visibility can't be changed using the  **Public** keyword.
 To combine several constant declarations on the same line, separate each constant assignment with a comma. When constant declarations are combined in this way, the  **Public** or **Private** keyword, if used, applies to all of them.
@@ -45,16 +46,15 @@ This example uses the  **Const** statement to declare constants for use in place
 ```vb
 ' Constants are Private by default. 
 Const MyVar = 459 
- 
+
 ' Declare Public constant. 
 Public Const MyString = "HELP" 
- 
+
 ' Declare Private Integer constant. 
 Private Const MyInt As Integer = 5 
- 
+
 ' Declare multiple constants on same line. 
 Const MyStr = "Hello", MyDouble As Double = 3.4567 
-
 ```
 
 

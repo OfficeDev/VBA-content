@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 Generally, if a multi-valued property is added to a  **[Table](table-object-outlook.md)** using its explicit built-in name, the format of the values of the property is a comma-delimited string. If the multi-valued property is added to the **Table** using a reference by namespace, the format of the values of the property is a variant array.
 
-The following code sample adds the multi-valued  **Categories** property to a **Table** using a name that references its namespace, **urn:schemas-microsoft-com:office:office#Keywords**. To obtain the values for the  **Categories** column for each row in the **Table**, assign
+The following code sample adds the multi-valued  <strong>Categories</strong> property to a <strong>Table</strong> using a name that references its namespace, <strong>urn:schemas-microsoft-com<span class="emoji" shortCode="office">🏢</span>office#Keywords</strong>. To obtain the values for the  <strong>Categories</strong> column for each row in the <strong>Table</strong>, assign
 
 
 

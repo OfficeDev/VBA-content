@@ -20,11 +20,12 @@ The required  _number_[argument](vbe-glossary.md) can be any valid[numeric expre
  **Return Values**
 
 
-|**If  _number_ is**|**Sgn returns**|
-|:-----|:-----|
-|Greater than zero|1|
-|Equal to zero|0|
-|Less than zero|-1|
+| <strong>If  <em>number</em> is</strong> | <strong>Sgn returns</strong> |
+|:----------------------------------------|:-----------------------------|
+| Greater than zero                       | 1                            |
+| Equal to zero                           | 0                            |
+| Less than zero                          | -1                           |
+
  **Remarks**
 The sign of the  _number_ argument determines the return value of the **Sgn** function.
 

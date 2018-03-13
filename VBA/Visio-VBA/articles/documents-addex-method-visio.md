@@ -47,23 +47,25 @@ The  _MeasurementSystem_ argument should be one of the following members of **Vi
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visMSDefault**|0|Choose metric or US depending on regional options set in Control Panel.|
-| **visMSMetric**|1|Metric measurement system.|
-| **visMSUS**|2|US units measurement system.|
+| <strong>Constant</strong>     | <strong>Value</strong> | <strong>Description</strong>                                            |
+|:------------------------------|:-----------------------|:------------------------------------------------------------------------|
+| <strong>visMSDefault</strong> | 0                      | Choose metric or US depending on regional options set in Control Panel. |
+| <strong>visMSMetric</strong>  | 1                      | Metric measurement system.                                              |
+| <strong>visMSUS</strong>      | 2                      | US units measurement system.                                            |
+
 The  _Flags_ argument should be a combination of one or more of the following members of **VisOpenSaveArgs** , which is declared in the Visio type library.
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visAddDocked**|4|Adds a document in a docked window.|
-| **visAddHidden**|64|Adds a document in a hidden window.|
-| **visAddMacrosDisabled**|128|Adds a document with macros disabled.|
-| **visAddMinimized**|16|Adds a document in a minimized window.|
-| **visAddNoWorkspace**|256|Adds a document with no workspace information.|
-| **visAddStencil**|512|Adds a new stencil file.|
+| <strong>Constant</strong>             | <strong>Value</strong> | <strong>Description</strong>                   |
+|:--------------------------------------|:-----------------------|:-----------------------------------------------|
+| <strong>visAddDocked</strong>         | 4                      | Adds a document in a docked window.            |
+| <strong>visAddHidden</strong>         | 64                     | Adds a document in a hidden window.            |
+| <strong>visAddMacrosDisabled</strong> | 128                    | Adds a document with macros disabled.          |
+| <strong>visAddMinimized</strong>      | 16                     | Adds a document in a minimized window.         |
+| <strong>visAddNoWorkspace</strong>    | 256                    | Adds a document with no workspace information. |
+| <strong>visAddStencil</strong>        | 512                    | Adds a new stencil file.                       |
+
 The  _LangID_ argument should be one of the standard IDs used by Microsoft Windows to encode different language versions. For example, the language ID is &;H0409 for the U.S. version of Visio. To see a list of language IDs, search for "VERSIONINFO" in the Microsoft Platform SDK on MSDN.
 
 To create a new drawing based on no template, pass a zero-length string ("") to the  **AddEx** method.
@@ -89,9 +91,9 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 ```vb
 Public Sub AddEx_Example() 
- 
+
  Application.Documents.AddEx "BASICD_U.VST", visMSDefault 
- 
+
 End Sub
 ```
 

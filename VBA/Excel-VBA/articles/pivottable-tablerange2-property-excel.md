@@ -36,7 +36,6 @@ This example selects the entire PivotTable report, including its page fields.
 ```vb
 Worksheets("Sheet1").Activate 
 Range("A3").PivotTable.TableRange2.Select 
-
 ```
 
 

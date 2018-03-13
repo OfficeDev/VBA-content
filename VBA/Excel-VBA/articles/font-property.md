@@ -31,7 +31,6 @@ With myChart.ChartTitle.Font
  .Bold = True 
  .Italic = True 
 End With 
-
 ```
 
 

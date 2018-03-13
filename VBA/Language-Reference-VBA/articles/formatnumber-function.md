@@ -20,22 +20,24 @@ Returns an expression formatted as a number.
 The  **FormatNumber** function syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _Expression_|Required. Expression to be formatted.|
-| _NumDigitsAfterDecimal_|Optional. Numeric value indicating how many places to the right of the decimal are displayed. Default value is -1, which indicates that the computer's regional settings are used.|
-| _IncludeLeadingDigit_|Optional. Tristate constant that indicates whether or not a leading zero is displayed for fractional values. See Settings section for values.|
-| _UseParensForNegativeNumbers_|Optional. Tristate constant that indicates whether or not to place negative values within parentheses. See Settings section for values.|
-| _GroupDigits_|Optional. Tristate constant that indicates whether or not numbers are grouped using the group delimiter specified in the computer's regional settings. See Settings section for values.|
+| <strong>Part</strong>                | <strong>Description</strong>                                                                                                                                                            |
+|:-------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>Expression</em>                  | Required. Expression to be formatted.                                                                                                                                                   |
+| <em>NumDigitsAfterDecimal</em>       | Optional. Numeric value indicating how many places to the right of the decimal are displayed. Default value is -1, which indicates that the computer's regional settings are used.      |
+| <em>IncludeLeadingDigit</em>         | Optional. Tristate constant that indicates whether or not a leading zero is displayed for fractional values. See Settings section for values.                                           |
+| <em>UseParensForNegativeNumbers</em> | Optional. Tristate constant that indicates whether or not to place negative values within parentheses. See Settings section for values.                                                 |
+| <em>GroupDigits</em>                 | Optional. Tristate constant that indicates whether or not numbers are grouped using the group delimiter specified in the computer's regional settings. See Settings section for values. |
+
  **Settings**
 The  _IncludeLeadingDigit_, _UseParensForNegativeNumbers_, and _GroupDigits_ arguments have the following settings:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbTrue**|-1|True|
-|**vbFalse**| 0|False|
-|**vbUseDefault**|-2|Use the setting from the computer's regional settings.|
+| <strong>Constant</strong>     | <strong>Value</strong> | <strong>Description</strong>                           |
+|:------------------------------|:-----------------------|:-------------------------------------------------------|
+| <strong>vbTrue</strong>       | -1                     | True                                                   |
+| <strong>vbFalse</strong>      | 0                      | False                                                  |
+| <strong>vbUseDefault</strong> | -2                     | Use the setting from the computer's regional settings. |
+
  **Remarks**
 When one or more optional arguments are omitted, the values for omitted arguments are provided by the computer's regional settings.
 

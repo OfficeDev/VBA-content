@@ -38,8 +38,9 @@ The  _FlipCmd_ parameter value can be one of these **MsoFlipCmd** constants.
 
 ||
 |:-----|
-|**msoFlipHorizontal**|
-|**msoFlipVertical**|
+|<strong>msoFlipHorizontal</strong>|
+|
+<strong>msoFlipVertical</strong>|
 
 ## Example
 

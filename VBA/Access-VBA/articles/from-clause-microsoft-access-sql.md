@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # FROM Clause (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -22,6 +22,7 @@ Specifies the tables or queries that contain the fields listed in the [SELECT](h
 
 ## Syntax
 <a name="sectionSection0"> </a>
+
 
 SELECT  _fieldlist_ FROM _tableexpression_ [IN _externaldatabase_ ]
 
@@ -37,6 +38,7 @@ A SELECT statement containing a FROM clause has these parts:
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 FROM is required and follows any SELECT statement.
 
@@ -58,6 +60,7 @@ FROM Employees;
 ## Example
 <a name="sectionSection2"> </a>
 
+
 Some of the following examples assume the existence of a hypothetical Salary field in an Employees table. Note that this field does not actually exist in the Northwind database Employees table.
 
 This example creates a dynaset-type  **Recordset** based on an SQL statement that selects the LastName and FirstName fields of all records in the Employees table. It calls the EnumFields procedure, which prints the contents of a **Recordset** object to the **Debug** window.
@@ -67,27 +70,27 @@ This example creates a dynaset-type  **Recordset** based on an SQL statement tha
 
 ```vb
 Sub SelectX1() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Select the last name and first name values of all  
     ' records in the Employees table. 
     Set rst = dbs.OpenRecordset("SELECT LastName, " _ 
         &; "FirstName FROM Employees;") 
- 
+
     ' Populate the recordset. 
     rst.MoveLast 
- 
+
     ' Call EnumFields to print the contents of the 
     ' Recordset. 
     EnumFields rst,12 
- 
+
     dbs.Close 
- 
+
 End Sub
 ```
 
@@ -98,27 +101,27 @@ This example counts the number of records that have an entry in the PostalCode f
 
 ```vb
 Sub SelectX2() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Count the number of records with a PostalCode  
     ' value and return the total in the Tally field. 
     Set rst = dbs.OpenRecordset("SELECT Count " _ 
         &; "(PostalCode) AS Tally FROM Customers;") 
- 
+
     ' Populate the Recordset. 
     rst.MoveLast 
- 
+
     ' Call EnumFields to print the contents of  
     ' the Recordset. Specify field width = 12. 
     EnumFields rst, 12 
- 
+
     dbs.Close 
- 
+
 End Sub
 ```
 
@@ -129,30 +132,30 @@ This example shows the number of employees and the average and maximum salaries.
 
 ```vb
 Sub SelectX3() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Count the number of employees, calculate the  
     ' average salary, and return the highest salary. 
     Set rst = dbs.OpenRecordset("SELECT Count (*) " _ 
         &; "AS TotalEmployees, Avg(Salary) " _ 
         &; "AS AverageSalary, Max(Salary) " _ 
         &; "AS MaximumSalary FROM Employees;") 
- 
+
     ' Populate the Recordset. 
     rst.MoveLast 
- 
+
     ' Call EnumFields to print the contents of 
     ' the Recordset. Pass the Recordset object and 
     ' desired field width. 
     EnumFields rst, 17 
- 
+
     dbs.Close 
- 
+
 End Sub
 ```
 
@@ -163,24 +166,24 @@ The  **Sub** procedure EnumFields is passed a **Recordset** object from the call
 
 ```vb
 Sub EnumFields(rst As Recordset, intFldLen As Integer) 
- 
+
     Dim lngRecords As Long, lngFields As Long 
     Dim lngRecCount As Long, lngFldCount As Long 
     Dim strTitle As String, strTemp As String 
- 
+
     ' Set the lngRecords variable to the number of 
     ' records in the Recordset. 
     lngRecords = rst.RecordCount 
- 
+
     ' Set the lngFields variable to the number of 
     ' fields in the Recordset. 
     lngFields = rst.Fields.Count 
- 
+
     Debug.Print "There are " &; lngRecords _ 
         &; " records containing " &; lngFields _ 
         &; " fields in the recordset." 
     Debug.Print 
- 
+
     ' Form a string to print the column heading. 
     strTitle = "Record  " 
     For lngFldCount = 0 To lngFields - 1 
@@ -188,19 +191,19 @@ Sub EnumFields(rst As Recordset, intFldLen As Integer)
         &; Left(rst.Fields(lngFldCount).Name _ 
         &; Space(intFldLen), intFldLen) 
     Next lngFldCount     
- 
+
     ' Print the column heading. 
     Debug.Print strTitle 
     Debug.Print 
- 
+
     ' Loop through the Recordset; print the record 
     ' number and field values. 
     rst.MoveFirst 
- 
+
     For lngRecCount = 0 To lngRecords - 1 
         Debug.Print Right(Space(6) &; _ 
             Str(lngRecCount), 6) &; "  "; 
- 
+
         For lngFldCount = 0 To lngFields - 1 
             ' Check for Null values. 
             If IsNull(rst.Fields(lngFldCount)) Then 
@@ -219,17 +222,17 @@ Sub EnumFields(rst As Recordset, intFldLen As Integer)
                             str(rst.Fields(lngFldCount)) 
                 End Select 
             End If 
- 
+
             Debug.Print Left(strTemp _  
                 &; Space(intFldLen), intFldLen); 
         Next lngFldCount 
- 
+
         Debug.Print 
- 
+
         rst.MoveNext 
- 
+
     Next lngRecCount 
- 
+
 End Sub
 ```
 

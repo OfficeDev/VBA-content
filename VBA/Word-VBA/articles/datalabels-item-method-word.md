@@ -48,7 +48,6 @@ With ActiveDocument.InlineShapes(1)
  NumberFormat = "0.000" 
  End If 
 End With 
-
 ```
 
 

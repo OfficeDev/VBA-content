@@ -22,10 +22,11 @@ Returns a string containing the name of the drive for a specified path.
 The  **GetDriveName** method syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _path_|Required. The path specification for the component whose drive name is to be returned.|
+| <strong>Part</strong> | <strong>Description</strong>                                                           |
+|:----------------------|:---------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                     |
+| <em>path</em>         | Required. The path specification for the component whose drive name is to be returned. |
+
  **Remarks**
 The  **GetDriveName** method returns a zero-length string ("") if the drive can't be determined.
 

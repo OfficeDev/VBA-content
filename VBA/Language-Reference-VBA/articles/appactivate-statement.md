@@ -20,10 +20,11 @@ Activates an application window.
 The  **AppActivate** statement syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_title_**|Required. [String expression](vbe-glossary.md) specifying the title in the title bar of the application window you want to activate. The task ID returned by the **Shell** function can be used in place of **_title_** to activate an application.|
-|**_wait_**|Optional. [Boolean](vbe-glossary.md) value specifying whether the calling application has the focus before activating another. If **False** (default), the specified application is immediately activated, even if the calling application does not have the focus. If **True**, the calling application waits until it has the focus, then activates the specified application.|
+| <strong>Part</strong>           | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                               |
+|:--------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>title</em></strong> | Required. [String expression](vbe-glossary.md) specifying the title in the title bar of the application window you want to activate. The task ID returned by the <strong>Shell</strong> function can be used in place of <strong><em>title</em></strong> to activate an application.                                                                                                                       |
+| <strong><em>wait</em></strong>  | Optional. [Boolean](vbe-glossary.md) value specifying whether the calling application has the focus before activating another. If <strong>False</strong> (default), the specified application is immediately activated, even if the calling application does not have the focus. If <strong>True</strong>, the calling application waits until it has the focus, then activates the specified application. |
+
  **Remarks**
 The  **AppActivate** statement changes the focus to the named application or window but does not affect whether it is maximized or minimized. Focus moves from the activated application window when the user takes some action to change the focus or close the window. Use the **Shell** function to start an application and set the window style.
 In determining which application to activate,  **_title_** is compared to the title string of each running application. If there is no exact match, any application whose title string begins with **_title_** is activated. If there is more than one instance of the application named by **_title_**, one instance is arbitrarily activated.
@@ -37,19 +38,18 @@ This example illustrates various uses of the  **AppActivate** statement to activ
 Dim MyAppID, ReturnValue 
 AppActivate "Microsoft Word" ' Activate Microsoft 
  ' Word. 
- 
+
 ' AppActivate can also use the return value of the Shell function. 
 MyAppID = Shell("C:\WORD\WINWORD.EXE", 1) ' Run Microsoft Word. 
 AppActivate MyAppID ' Activate Microsoft 
  ' Word. 
  
  
- 
+
 ' You can also use the return value of the Shell function. 
 ReturnValue = Shell("c:\EXCEL\EXCEL.EXE",1) ' Run Microsoft Excel. 
 AppActivate ReturnValue ' Activate Microsoft 
  ' Excel. 
-
 ```
 
 

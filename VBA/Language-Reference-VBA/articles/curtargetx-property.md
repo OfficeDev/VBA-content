@@ -21,9 +21,10 @@ Retrieves the preferred horizontal position of the insertion point in a multilin
 The  **CurTargetX** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Return Values**
 The  **CurTargetX** property retrieves the preferred position, measured in himetric units. A himetric is 0.0001 meter.
  **Remarks**

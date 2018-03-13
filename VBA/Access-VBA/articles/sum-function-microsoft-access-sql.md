@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Sum Function (Microsoft Access SQL)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -26,6 +26,7 @@ Returns the sum of a set of values contained in a specified field on a query.
 ## Syntax
 <a name="sectionSection0"> </a>
 
+
  **Sum(** _expr_ **)**
 
 The  _expr_ placeholder represents a string expression identifying the field that contains the numeric data you want to add or an expression that performs a calculation using the data in that field. Operands in _expr_ can include the name of a table field, a constant, or a function (which can be either intrinsic or user-defined but not one of the other SQL aggregate functions).
@@ -33,6 +34,7 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 
 ## Remarks
 <a name="sectionSection1"> </a>
+
 
 The  **Sum** function totals the values in a field. For example, you could use the **Sum** function to determine the total cost of freight charges.
 
@@ -53,6 +55,7 @@ You can use the  **Sum** function in a query expression. You can also use this e
 ## Example
 <a name="sectionSection2"> </a>
 
+
 This example uses the Orders table to calculate the total sales for orders shipped to the United Kingdom.
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
@@ -62,13 +65,13 @@ This example calls the EnumFields procedure, which you can find in the SELECT st
 
 ```vb
 Sub SumX() 
- 
+
     Dim dbs As Database, rst As Recordset 
- 
+
     ' Modify this line to include the path to Northwind 
     ' on your computer. 
     Set dbs = OpenDatabase("Northwind.mdb") 
- 
+
     ' Calculate the total sales for orders shipped to 
     ' the United Kingdom.   
     Set rst = dbs.OpenRecordset("SELECT" _ 
@@ -77,17 +80,17 @@ Sub SumX()
         &; " INNER JOIN [Order Details] ON" _ 
         &; " Orders.OrderID = [Order Details].OrderID" _ 
         &; " WHERE (ShipCountry = 'UK');") 
- 
+
     ' Populate the Recordset. 
     rst.MoveLast 
- 
+
     ' Call EnumFields to print the contents of the  
     ' Recordset. Pass the Recordset object and desired 
     ' field width. 
     EnumFields rst, 15 
-     
+
     dbs.Close 
- 
+
 End Sub
 ```
 

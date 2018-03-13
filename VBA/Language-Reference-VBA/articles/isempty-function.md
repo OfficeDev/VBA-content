@@ -34,8 +34,6 @@ MyCheck = IsEmpty(MyVar)    ' Returns False.
 
 MyVar = Empty    ' Assign Empty.
 MyCheck = IsEmpty(MyVar)    ' Returns True.
-
-
 ```
 
 

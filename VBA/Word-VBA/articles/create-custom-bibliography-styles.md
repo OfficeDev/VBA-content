@@ -17,6 +17,7 @@ The bibliography sources you create are all listed in the following file: \Micro
 ## Building a basic bibliography style
 <a name="Biblio_BuildBasicStyle"> </a>
 
+
 First, create a basic bibliography style that the custom style will follow.
 
 
@@ -33,15 +34,18 @@ At the top of the file, add the following code:
 <?xml version="1.0" ?> 
 
 <!--List of the external resources that we are referencing-->
- 
+
+
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
- 
+
 <!--When the bibliography or citation is in your document, it's just HTML-->
- 
+
+
 <xsl:output method="html" encoding="us-ascii"/>
-   
+
 <!--Match the root element, and dispatch to its children-->
-   
+
+
 <xsl:template match="/">
 
 <xsl:apply-templates select="*" />
@@ -62,7 +66,6 @@ As the comments indicate, Word uses HTML to represent a bibliography or citation
    <xsl:text>2006.5.07</xsl:text>
 
 </xsl:template>
-
 ```
 
 More importantly, you can give your style a name. Add this tag: <xsl:when test="b:StyleNameLocalized">; and then give your style a name, in the language of your choice, by using the following code.
@@ -74,7 +77,7 @@ More importantly, you can give your style a name. Add this tag: <xsl:when test="
 <xsl:when test="b:StyleNameLocalized/b:Lcid='1033'">
 
    <xsl:text>[Your Style Name]</xsl:text>
- 
+
 </xsl:when>
 ```
 
@@ -85,6 +88,7 @@ This section contains the locale name of your style. In the case of our example 
 
 ```XML
 <!--Defines the name of the style in the References dropdown list-->
+
 <xsl:when test="b:StyleNameLocalized"> 
    <xsl:choose> 
       <xsl:when test="b:StyleNameLocalized/b:Lcid='1033'"> 
@@ -101,37 +105,37 @@ A book source type has the following fields available:
 
 
 - Author
-    
+
 - Title
-    
+
 - Year
-    
+
 - City
-    
+
 - State/Province
-    
+
 - Country/Region
-    
+
 - Publisher
-    
+
 - Editor
-    
+
 - Volume
-    
+
 - Number of Volumes
-    
+
 - Translator
-    
+
 - Short Title
-    
+
 - Standard Number
-    
+
 - Pages
-    
+
 - Edition
-    
+
 - Comments
-    
+
 In the code, you can specify the fields that are important for your bibliography style. Even when  **Show All Bibliography Fields** is cleared, these fields will appear and have a red asterisk next to them. For our book example, I want to ensure that the author, title, year, city, and publisher are entered, so I want a red asterisk to appear next to these fields to alert the user that these are recommended fields that should be filled out.
 
 
@@ -167,6 +171,7 @@ The text in the <xsl:text> tags are references to the Sources.xml file. These re
 ### Design the layout
 <a name="Biblio_DesignLayout"> </a>
 
+
 Output for bibliographies and citations is represented in a Word document as HTML, so to define how our custom bibliography and citation styles should look in Word, we'll have to add some HTML to our style sheet.
 
 Suppose you want to format each entry in your bibliography in this manner:
@@ -201,6 +206,7 @@ The HTML required to do this would be embedded in your style sheet as follows.
       <xsl:value-of select="b:Publisher"/> 
       <xsl:text>.</xsl:text> 
    </p> 
+
 </xsl:template>
 ```
 
@@ -211,11 +217,12 @@ When you reference a book source in your Word document, Word needs to access thi
 
 ```XML
 <!--Defines the output of the entire Bibliography-->
- 
+
+
 <xsl:template match="b:Bibliography"> 
 
    <html xmlns="http://www.w3.org/TR/REC-html40"> 
-   
+
       <body> 
 
          <xsl:apply-templates select ="b:Source[b:SourceType = 'Book']"> 
@@ -223,8 +230,9 @@ When you reference a book source in your Word document, Word needs to access thi
          </xsl:apply-templates> 
 
       </body> 
-   
+
    </html> 
+
 </xsl:template>
 ```
 
@@ -235,6 +243,7 @@ In a similar fashion, you'll need to do the same thing for the citation output. 
 
 ```XML
 <!--Defines the output of the Citation-->
+
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
    <html xmlns="http://www.w3.org/TR/REC-html40"> 
       <body> 
@@ -246,6 +255,7 @@ In a similar fashion, you'll need to do the same thing for the citation output. 
          <xsl:text>)</xsl:text> 
       </body> 
    </html> 
+
 </xsl:template>
 ```
 
@@ -263,6 +273,7 @@ Save the file as MyBookStyle.XSL and drop it into the Styles directory (\Microso
 
 ## Create a complex style
 <a name="Biblio_CreateComplexStyle"> </a>
+
 
 One of the issues that complicate bibliography styles is that they often need to have a significant amount of conditional logic. For example, if the date is specified, you need to show the date, whereas if the date is not specified, you may need to use an abbreviation to indicate that there is no date for that source.
 
@@ -284,13 +295,13 @@ To display a corporate author only if appropriate, use the following procedure.
 
 
 1. Add a variable to count the number of corporate authors in the citation section of the code.
-    
+
 2. Display the corporate author in the citation if the corporate author is filled in. Display the normal author in the citation if the corporate author is not filled in.
-    
+
 3. Add a variable to count the number of corporate authors in the bibliography section of the code.
-    
+
 4. Display the corporate author in the bibliography if the corporate author is filled in. Display the normal author in the bibliography if the corporate author is not filled in.
-    
+
 
 ### Getting started
 
@@ -299,6 +310,7 @@ Let's start by changing the citation. Here is the code for citations from last t
 
 ```XML
 <!--Defines the output of the Citation-->
+
 <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']"> 
    <html xmlns="http://www.w3.org/TR/REC-html40"> 
       <body> 
@@ -310,6 +322,7 @@ Let's start by changing the citation. Here is the code for citations from last t
          <xsl:text>)</xsl:text> 
       </body>
    </html> 
+
 </xsl:template>
 ```
 
@@ -321,6 +334,7 @@ Declare a new variable to help determine whether a corporate author is available
 
 ```
 <!--Defines the output of the Citation-->
+
 <html xmlns="http://www.w3.org/TR/REC-html40">
    <!--Count the number of Corporate Authors (can only be 0 or 1)-->
       <xsl:variable name="cCorporateAuthors"> 
@@ -367,7 +381,6 @@ Now that you've made the change for citations, make the change for the bibliogra
 <xsl:value-of select="b:Year"/> 
 <xsl:text>). </xsl:text> 
 <i>
-
 ```
 
 
@@ -488,8 +501,10 @@ Here's the complete final code.
             </xsl:apply-templates>
          </body>
       </html>
+
    </xsl:template>
    <!--Defines the output of the Citation-->
+
    <xsl:template match="b:Citation/b:Source[b:SourceType = 'Book']">
       <html xmlns="http://www.w3.org/TR/REC-html40"> 
          <xsl:variable name="cCorporateAuthors"> 
@@ -513,6 +528,7 @@ Here's the complete final code.
                <xsl:text>)</xsl:text> 
             </body> 
          </html>
+
    </xsl:template>
    <xsl:template match="text()" />
 </xsl:stylesheet>
@@ -522,6 +538,7 @@ Here's the complete final code.
 ## Conclusion
 <a name="Biblio_Conclusion"> </a>
 
+
 This article showed how to create a custom bibliography style in Word, first by creating a simple style, and then by using conditional statements to create a more complex style.
 
 
@@ -529,10 +546,11 @@ This article showed how to create a custom bibliography style in Word, first by 
 <a name="Biblio_AdditionalResources"> </a>
 
 
+
 -  [What's new for Word 2013 developers](http://msdn.microsoft.com/library/d7de81f7-ac7f-a88c-4765-7e8f8c7df4b4.aspx)
-    
+
 -  [Office and Office 365 Developer Blog](http://msdn.microsoft.com/library/http://blogs.msdn.com/b/officedevdocs/.aspx)
-    
+
 -  [Word for developers website](http://msdn.microsoft.com/library/http://msdn.microsoft.com/en-us/office/aa905482.aspx.aspx)
-    
+
 

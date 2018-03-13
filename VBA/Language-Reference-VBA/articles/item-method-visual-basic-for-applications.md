@@ -19,10 +19,11 @@ Returns a specific [member](vbe-glossary.md) of a **Collection** object either b
 The  **Item** method syntax has the following object qualifier and part:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.|
-| _index_|Required. An [expression](vbe-glossary.md) that specifies the position of a member of the[collection](vbe-glossary.md). If a [numeric expression](vbe-glossary.md),  _index_ must be a number from 1 to the value of the collection's **Count** property. If a[string expression](vbe-glossary.md),  _index_ must correspond to the **_key_**[argument](vbe-glossary.md) specified when the member referred to was added to the collection.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. An [object expression](vbe-glossary.md) that evaluates to an object in the Applies To list.                                                                                                                                                                                                                                                                                                                                                                                      |
+| <em>index</em>        | Required. An [expression](vbe-glossary.md) that specifies the position of a member of the[collection](vbe-glossary.md). If a [numeric expression](vbe-glossary.md),  <em>index</em> must be a number from 1 to the value of the collection's <strong>Count</strong> property. If a[string expression](vbe-glossary.md),  <em>index</em> must correspond to the <strong><em>key</em></strong>[argument](vbe-glossary.md) specified when the member referred to was added to the collection. |
+
  **Remarks**
 If the value provided as  _index_ doesn't match any existing member of the collection, an error occurs.
 The  **Item** method is the default method for a collection. Therefore, the following lines of code are equivalent:
@@ -32,7 +33,6 @@ The  **Item** method is the default method for a collection. Therefore, the foll
 ```
 Print MyCollection(1)
 Print MyCollection.Item(1)
-
 ```
 
 

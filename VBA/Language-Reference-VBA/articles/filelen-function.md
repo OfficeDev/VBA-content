@@ -31,8 +31,6 @@ This example uses the  **FileLen** function to return the length of a file in by
 ```vb
 Dim MySize
 MySize = FileLen("TESTFILE")    ' Returns file length (bytes).
-
-
 ```
 
 

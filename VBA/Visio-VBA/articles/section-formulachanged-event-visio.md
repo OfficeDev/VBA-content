@@ -18,7 +18,7 @@ Occurs after a formula changes in a cell in the object that receives the event.
 
 ## Syntax
 
-Private Sub  _expression_ _**FormulaChanged**( **_ByVal Cell As [IVCELL]_** )
+Private Sub  <em>expression</em> <em><strong>FormulaChanged</strong>( **_ByVal Cell As [IVCELL]</em>** )
 
  _expression_ A variable that represents a **Section** object.
 

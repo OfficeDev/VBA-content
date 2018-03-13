@@ -28,11 +28,12 @@ To return a reference to a particular standard or class  **Module** object in th
 
 
 
-|**Syntax**|**Description**|
-|:-----|:-----|
-|**Modules** !modulename|The  _modulename_ argument is the name of the **Module** object.|
-|**Modules** (" _modulename_")|The  _modulename_ argument is the name of the **Module** object.|
-|**Modules** ( _index_)|The  _index_ argument is the numeric position of the object within the collection.|
+| <strong>Syntax</strong>                           | <strong>Description</strong>                                                              |
+|:--------------------------------------------------|:------------------------------------------------------------------------------------------|
+| <strong>Modules</strong> !modulename              | The  <em>modulename</em> argument is the name of the <strong>Module</strong> object.      |
+| <strong>Modules</strong> (" <em>modulename</em>") | The  <em>modulename</em> argument is the name of the <strong>Module</strong> object.      |
+| <strong>Modules</strong> ( <em>index</em>)        | The  <em>index</em> argument is the numeric position of the object within the collection. |
+
 The following example returns a reference to a standard  **Module** object and assigns it to an object variable:
 
 

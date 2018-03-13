@@ -50,7 +50,6 @@ The following example compares the local and server copies of the document using
         MsgBox strStatus, vbInformation + vbOKOnly, "Sync Information" 
     End If 
     Set objSync = Nothing 
-
 ```
 
 

@@ -9,273 +9,275 @@ ms.date: 06/08/2017
 # Enumerations (Excel)
 This section contains documentation for the enumerations in the Excel object model.
 
-| Name / Link                                                                                   |
-|-----------------------------------------------------------------------------------------------|
-| **[XlAboveBelow Enumeration](xlabovebelow-enumeration-excel.md)**                             |
-| **[XlActionType Enumeration](xlactiontype-enumeration-excel.md)**                             |
-| **[XlAllocation Enumeration](xlallocation-enumeration-excel.md)**                             |
-| **[XlAllocationMethod Enumeration](xlallocationmethod-enumeration-excel.md)**                 |
-| **[XlAllocationValue Enumeration](xlallocationvalue-enumeration-excel.md)**                   |
-| **[XlApplicationInternational Enumeration](xlapplicationinternational-enumeration-excel.md)** |
-| **[XlApplyNamesOrder Enumeration](xlapplynamesorder-enumeration-excel.md)**                   |
-| **[XlArabicModes Enumeration](xlarabicmodes-enumeration-excel.md)**                           |
-| **[XlArrangeStyle Enumeration](xlarrangestyle-enumeration-excel.md)**                         |
-| **[XlArrowHeadLength Enumeration](xlarrowheadlength-enumeration-excel.md)**                   |
-| **[XlArrowHeadStyle Enumeration](xlarrowheadstyle-enumeration-excel.md)**                     |
-| **[XlArrowHeadWidth Enumeration](xlarrowheadwidth-enumeration-excel.md)**                     |
-| **[XlAutoFillType Enumeration](xlautofilltype-enumeration-excel.md)**                         |
-| **[XlAutoFilterOperator Enumeration](xlautofilteroperator-enumeration-excel.md)**             |
-| **[XlAxisCrosses Enumeration](xlaxiscrosses-enumeration-excel.md)**                           |
-| **[XlAxisGroup Enumeration](xlaxisgroup-enumeration-excel.md)**                               |
-| **[XlAxisType Enumeration](xlaxistype-enumeration-excel.md)**                                 |
-| **[XlBackground Enumeration](xlbackground-enumeration-excel.md)**                             |
-| **[XlBarShape Enumeration](xlbarshape-enumeration-excel.md)**                                 |
-| **[XlBinsType Enumeration](xlbinstype-enumeration-excel.md)**                                 |
-| **[XlBorderWeight Enumeration](xlborderweight-enumeration-excel.md)**                         |
-| **[XlBordersIndex Enumeration](xlbordersindex-enumeration-excel.md)**                         |
-| **[XlBuiltInDialog Enumeration](xlbuiltindialog-enumeration-excel.md)**                       |
-| **[XlCVError Enumeration](xlcverror-enumeration-excel.md)**                                   |
-| **[XlCalcFor Enumeration](xlcalcfor-enumeration-excel.md)**                                   |
-| **[XlCalcMemNumberFormatType Enumeration](xlcalcmemnumberformattype-enumeration-excel.md)**   |
-| **[XlCalculatedMemberType Enumeration](xlcalculatedmembertype-enumeration-excel.md)**         |
-| **[XlCalculation Enumeration](xlcalculation-enumeration-excel.md)**                           |
-| **[XlCalculationInterruptKey Enumeration](xlcalculationinterruptkey-enumeration-excel.md)**   |
-| **[XlCalculationState Enumeration](xlcalculationstate-enumeration-excel.md)**                 |
-| **[XlCategoryLabelLevel Enumeration](xlcategorylabellevel-enumeration-excel.md)**             |
-| **[XlCategoryType Enumeration](xlcategorytype-enumeration-excel.md)**                         |
-| **[XlCellChangedState Enumeration](xlcellchangedstate-enumeration-excel.md)**                 |
-| **[XlCellInsertionMode Enumeration](xlcellinsertionmode-enumeration-excel.md)**               |
-| **[XlCellType Enumeration](xlcelltype-enumeration-excel.md)**                                 |
-| **[XlChartElementPosition Enumeration](xlchartelementposition-enumeration-excel.md)**         |
-| **[XlChartGallery Enumeration](xlchartgallery-enumeration-excel.md)**                         |
-| **[XlChartItem Enumeration](xlchartitem-enumeration-excel.md)**                               |
-| **[XlChartLocation Enumeration](xlchartlocation-enumeration-excel.md)**                       |
-| **[XlChartPicturePlacement Enumeration](xlchartpictureplacement-enumeration-excel.md)**       |
-| **[XlChartPictureType Enumeration](xlchartpicturetype-enumeration-excel.md)**                 |
-| **[XlChartSplitType Enumeration](xlchartsplittype-enumeration-excel.md)**                     |
-| **[XlChartType Enumeration](xlcharttype-enumeration-excel.md)**                               |
-| **[XlCheckInVersionType Enumeration](xlcheckinversiontype-enumeration-excel.md)**             |
-| **[XlClipboardFormat Enumeration](xlclipboardformat-enumeration-excel.md)**                   |
-| **[XlCmdType Enumeration](xlcmdtype-enumeration-excel.md)**                                   |
-| **[XlColorIndex Enumeration](xlcolorindex-enumeration-excel.md)**                             |
-| **[XlColumnDataType Enumeration](xlcolumndatatype-enumeration-excel.md)**                     |
-| **[XlCommandUnderlines Enumeration](xlcommandunderlines-enumeration-excel.md)**               |
-| **[XlCommentDisplayMode Enumeration](xlcommentdisplaymode-enumeration-excel.md)**             |
-| **[XlConditionValueTypes Enumeration](xlconditionvaluetypes-enumeration-excel.md)**           |
-| **[XlConnectionType Enumeration](xlconnectiontype-enumeration-excel.md)**                     |
-| **[XlConsolidationFunction Enumeration](xlconsolidationfunction-enumeration-excel.md)**       |
-| **[XlContainsOperator Enumeration](xlcontainsoperator-enumeration-excel.md)**                 |
-| **[XlCopyPictureFormat Enumeration](xlcopypictureformat-enumeration-excel.md)**               |
-| **[XlCorruptLoad Enumeration](xlcorruptload-enumeration-excel.md)**                           |
-| **[XlCreator Enumeration](xlcreator-enumeration-excel.md)**                                   |
-| **[XlCredentialsMethod Enumeration](xlcredentialsmethod-enumeration-excel.md)**               |
-| **[XlCubeFieldSubType Enumeration](xlcubefieldsubtype-enumeration-excel.md)**                 |
-| **[XlCubeFieldType Enumeration](xlcubefieldtype-enumeration-excel.md)**                       |
-| **[XlCutCopyMode Enumeration](xlcutcopymode-enumeration-excel.md)**                           |
-| **[XlDVAlertStyle Enumeration](xldvalertstyle-enumeration-excel.md)**                         |
-| **[XlDVType Enumeration](xldvtype-enumeration-excel.md)**                                     |
-| **[XlDataBarAxisPosition Enumeration](xldatabaraxisposition-enumeration-excel.md)**           |
-| **[XlDataBarBorderType Enumeration](xldatabarbordertype-enumeration-excel.md)**               |
-| **[XlDataBarFillType Enumeration](xldatabarfilltype-enumeration-excel.md)**                   |
-| **[XlDataBarNegativeColorType Enumeration](xldatabarnegativecolortype-enumeration-excel.md)** |
-| **[XlDataLabelPosition Enumeration](xldatalabelposition-enumeration-excel.md)**               |
-| **[XlDataLabelSeparator Enumeration](xldatalabelseparator-enumeration-excel.md)**             |
-| **[XlDataLabelsType Enumeration](xldatalabelstype-enumeration-excel.md)**                     |
-| **[XlDataSeriesDate Enumeration](xldataseriesdate-enumeration-excel.md)**                     |
-| **[XlDataSeriesType Enumeration](xldataseriestype-enumeration-excel.md)**                     |
-| **[XlDeleteShiftDirection Enumeration](xldeleteshiftdirection-enumeration-excel.md)**         |
-| **[XlDirection Enumeration](xldirection-enumeration-excel.md)**                               |
-| **[XlDisplayBlanksAs Enumeration](xldisplayblanksas-enumeration-excel.md)**                   |
-| **[XlDisplayDrawingObjects Enumeration](xldisplaydrawingobjects-enumeration-excel.md)**       |
-| **[XlDisplayUnit Enumeration](xldisplayunit-enumeration-excel.md)**                           |
-| **[XlDupeUnique Enumeration](xldupeunique-enumeration-excel.md)**                             |
-| **[XlDynamicFilterCriteria Enumeration](xldynamicfiltercriteria-enumeration-excel.md)**       |
-| **[XlEditionFormat Enumeration](xleditionformat-enumeration-excel.md)**                       |
-| **[XlEditionOptionsOption Enumeration](xleditionoptionsoption-enumeration-excel.md)**         |
-| **[XlEditionType Enumeration](xleditiontype-enumeration-excel.md)**                           |
-| **[XlEnableCancelKey Enumeration](xlenablecancelkey-enumeration-excel.md)**                   |
-| **[XlEnableSelection Enumeration](xlenableselection-enumeration-excel.md)**                   |
-| **[XlEndStyleCap Enumeration](xlendstylecap-enumeration-excel.md)**                           |
-| **[XlErrorBarDirection Enumeration](xlerrorbardirection-enumeration-excel.md)**               |
-| **[XlErrorBarInclude Enumeration](xlerrorbarinclude-enumeration-excel.md)**                   |
-| **[XlErrorBarType Enumeration](xlerrorbartype-enumeration-excel.md)**                         |
-| **[XlErrorChecks Enumeration](xlerrorchecks-enumeration-excel.md)**                           |
-| **[XlFileAccess Enumeration](xlfileaccess-enumeration-excel.md)**                             |
-| **[XlFileFormat Enumeration](xlfileformat-enumeration-excel.md)**                             |
-| **[XlFileValidationPivotMode Enumeration](xlfilevalidationpivotmode-enumeration-excel.md)**   |
-| **[XlFillWith Enumeration](xlfillwith-enumeration-excel.md)**                                 |
-| **[XlFilterAction Enumeration](xlfilteraction-enumeration-excel.md)**                         |
-| **[XlFilterAllDatesInPeriod Enumeration](xlfilteralldatesinperiod-enumeration-excel.md)**     |
-| **[XlFilterStatus Enumeration](xlfilterstatus-enumeration-excel.md)**                         |
-| **[XlFindLookIn Enumeration](xlfindlookin-enumeration-excel.md)**                             |
-| **[XlFixedFormatQuality Enumeration](xlfixedformatquality-enumeration-excel.md)**             |
-| **[XlFixedFormatType Enumeration](xlfixedformattype-enumeration-excel.md)**                   |
-| **[XlForecastAggregation Enumeration](xlforecastaggregation-enumeration-excel.md)**           |
-| **[XlForecastChartType Enumeration](xlforecastcharttype-enumeration-excel.md)**               |
-| **[XlForecastDataCompletion Enumeration](xlforecastdatacompletion-enumeration-excel.md)**     |
-| **[XlFormControl Enumeration](xlformcontrol-enumeration-excel.md)**                           |
-| **[XlFormatConditionOperator Enumeration](xlformatconditionoperator-enumeration-excel.md)**   |
-| **[XlFormatConditionType Enumeration](xlformatconditiontype-enumeration-excel.md)**           |
-| **[XlFormatFilterTypes Enumeration](xlformatfiltertypes-enumeration-excel.md)**               |
-| **[XlFormulaLabel Enumeration](xlformulalabel-enumeration-excel.md)**                         |
-| **[XlGenerateTableRefs Enumeration](xlgeneratetablerefs-enumeration-excel.md)**               |
-| **[XlGradientFillType Enumeration](xlgradientfilltype-enumeration-excel.md)**                 |
-| **[XlHAlign Enumeration](xlhalign-enumeration-excel.md)**                                     |
-| **[XlHebrewModes Enumeration](xlhebrewmodes-enumeration-excel.md)**                           |
-| **[XlHighlightChangesTime Enumeration](xlhighlightchangestime-enumeration-excel.md)**         |
-| **[XlHtmlType Enumeration](xlhtmltype-enumeration-excel.md)**                                 |
-| **[XlIMEMode Enumeration](xlimemode-enumeration-excel.md)**                                   |
-| **[XlIcon Enumeration](xlicon-enumeration-excel.md)**                                         |
-| **[XlIconSet Enumeration](xliconset-enumeration-excel.md)**                                   |
-| **[XlImportDataAs Enumeration](xlimportdataas-enumeration-excel.md)**                         |
-| **[XlInsertFormatOrigin Enumeration](xlinsertformatorigin-enumeration-excel.md)**             |
-| **[XlInsertShiftDirection Enumeration](xlinsertshiftdirection-enumeration-excel.md)**         |
-| **[XlLayoutFormType Enumeration](xllayoutformtype-enumeration-excel.md)**                     |
-| **[XlLayoutRowType Enumeration](xllayoutrowtype-enumeration-excel.md)**                       |
-| **[XlLegendPosition Enumeration](xllegendposition-enumeration-excel.md)**                     |
-| **[XlLineStyle Enumeration](xllinestyle-enumeration-excel.md)**                               |
-| **[XlLink Enumeration](xllink-enumeration-excel.md)**                                         |
-| **[XlLinkInfo Enumeration](xllinkinfo-enumeration-excel.md)**                                 |
-| **[XlLinkInfoType Enumeration](xllinkinfotype-enumeration-excel.md)**                         |
-| **[XlLinkStatus Enumeration](xllinkstatus-enumeration-excel.md)**                             |
-| **[XlLinkType Enumeration](xllinktype-enumeration-excel.md)**                                 |
-| **[XlListConflict Enumeration](xllistconflict-enumeration-excel.md)**                         |
-| **[XlListDataType Enumeration](xllistdatatype-enumeration-excel.md)**                         |
-| **[XlListObjectSourceType Enumeration](xllistobjectsourcetype-enumeration-excel.md)**         |
-| **[XlLocationInTable Enumeration](xllocationintable-enumeration-excel.md)**                   |
-| **[XlLookAt Enumeration](xllookat-enumeration-excel.md)**                                     |
-| **[XlLookFor Enumeration](xllookfor-enumeration-excel.md)**                                   |
-| **[XlMSApplication Enumeration](xlmsapplication-enumeration-excel.md)**                       |
-| **[XlMailSystem Enumeration](xlmailsystem-enumeration-excel.md)**                             |
-| **[XlMarkerStyle Enumeration](xlmarkerstyle-enumeration-excel.md)**                           |
-| **[XlMeasurementUnits Enumeration](xlmeasurementunits-enumeration-excel.md)**                 |
-| **[XlModelChangeSource Enumeration](xlmodelchangesource-enumeration-excel.md)**               |
-| **[XlMouseButton Enumeration](xlmousebutton-enumeration-excel.md)**                           |
-| **[XlMousePointer Enumeration](xlmousepointer-enumeration-excel.md)**                         |
-| **[XlOLEType Enumeration](xloletype-enumeration-excel.md)**                                   |
-| **[XlOLEVerb Enumeration](xloleverb-enumeration-excel.md)**                                   |
-| **[XlOartHorizontalOverflow Enumeration](xloarthorizontaloverflow-enumeration-excel.md)**     |
-| **[XlOartVerticalOverflow Enumeration](xloartverticaloverflow-enumeration-excel.md)**         |
-| **[XlObjectSize Enumeration](xlobjectsize-enumeration-excel.md)**                             |
-| **[XlOrder Enumeration](xlorder-enumeration-excel.md)**                                       |
-| **[XlOrientation Enumeration](xlorientation-enumeration-excel.md)**                           |
-| **[XlPTSelectionMode Enumeration](xlptselectionmode-enumeration-excel.md)**                   |
-| **[XlPageBreak Enumeration](xlpagebreak-enumeration-excel.md)**                               |
-| **[XlPageBreakExtent Enumeration](xlpagebreakextent-enumeration-excel.md)**                   |
-| **[XlPageOrientation Enumeration](xlpageorientation-enumeration-excel.md)**                   |
-| **[XlPageOrientation Enumeration (Excel)](#.md)**                                             |
-| **[XlPaperSize Enumeration](xlpapersize-enumeration-excel.md)**                               |
-| **[XlParameterDataType Enumeration](xlparameterdatatype-enumeration-excel.md)**               |
-| **[XlParameterType Enumeration](xlparametertype-enumeration-excel.md)**                       |
-| **[XlParentDataLabelOptions Enumeration](xlparentdatalabeloptions-enumeration-excel.md)**     |
-| **[XlPasteSpecialOperation Enumeration](xlpastespecialoperation-enumeration-excel.md)**       |
-| **[XlPasteType Enumeration](xlpastetype-enumeration-excel.md)**                               |
-| **[XlPattern Enumeration](xlpattern-enumeration-excel.md)**                                   |
-| **[XlPhoneticAlignment Enumeration](xlphoneticalignment-enumeration-excel.md)**               |
-| **[XlPhoneticCharacterType Enumeration](xlphoneticcharactertype-enumeration-excel.md)**       |
-| **[XlPictureAppearance Enumeration](xlpictureappearance-enumeration-excel.md)**               |
-| **[XlPictureConvertorType Enumeration](xlpictureconvertortype-enumeration-excel.md)**         |
-| **[XlPieSliceIndex Enumeration](xlpiesliceindex-enumeration-excel.md)**                       |
-| **[XlPieSliceLocation Enumeration](xlpieslicelocation-enumeration-excel.md)**                 |
-| **[XlPivotCellType Enumeration](xlpivotcelltype-enumeration-excel.md)**                       |
-| **[XlPivotConditionScope Enumeration](xlpivotconditionscope-enumeration-excel.md)**           |
-| **[XlPivotFieldCalculation Enumeration](xlpivotfieldcalculation-enumeration-excel.md)**       |
-| **[XlPivotFieldDataType Enumeration](xlpivotfielddatatype-enumeration-excel.md)**             |
-| **[XlPivotFieldOrientation Enumeration](xlpivotfieldorientation-enumeration-excel.md)**       |
-| **[XlPivotFieldRepeatLabels Enumeration](xlpivotfieldrepeatlabels-enumeration-excel.md)**     |
-| **[XlPivotFilterType Enumeration](xlpivotfiltertype-enumeration-excel.md)**                   |
-| **[XlPivotFormatType Enumeration](xlpivotformattype-enumeration-excel.md)**                   |
-| **[XlPivotLineType Enumeration](xlpivotlinetype-enumeration-excel.md)**                       |
-| **[XlPivotTableMissingItems Enumeration](xlpivottablemissingitems-enumeration-excel.md)**     |
-| **[XlPivotTableSourceType Enumeration](xlpivottablesourcetype-enumeration-excel.md)**         |
-| **[XlPivotTableVersionList Enumeration](xlpivottableversionlist-enumeration-excel.md)**       |
-| **[XlPlacement Enumeration](xlplacement-enumeration-excel.md)**                               |
-| **[XlPlatform Enumeration](xlplatform-enumeration-excel.md)**                                 |
-| **[XlPortugueseReform Enumeration](xlportuguesereform-enumeration-excel.md)**                 |
-| **[XlPrintErrors Enumeration](xlprinterrors-enumeration-excel.md)**                           |
-| **[XlPrintLocation Enumeration](xlprintlocation-enumeration-excel.md)**                       |
-| **[XlPriority Enumeration](xlpriority-enumeration-excel.md)**                                 |
-| **[XlPropertyDisplayedIn Enumeration](xlpropertydisplayedin-enumeration-excel.md)**           |
-| **[XlProtectedViewCloseReason Enumeration](xlprotectedviewclosereason-enumeration-excel.md)** |
-| **[XlProtectedViewWindowState Enumeration](xlprotectedviewwindowstate-enumeration-excel.md)** |
-| **[XlQueryType Enumeration](xlquerytype-enumeration-excel.md)**                               |
-| **[XlQuickAnalysisMode Enumeration](xlquickanalysismode-enumeration-excel.md)**               |
-| **[XlRangeAutoFormat Enumeration](xlrangeautoformat-enumeration-excel.md)**                   |
-| **[XlRangeValueDataType Enumeration](xlrangevaluedatatype-enumeration-excel.md)**             |
-| **[XlReferenceStyle Enumeration](xlreferencestyle-enumeration-excel.md)**                     |
-| **[XlReferenceType Enumeration](xlreferencetype-enumeration-excel.md)**                       |
-| **[XlRemoveDocInfoType Enumeration](xlremovedocinfotype-enumeration-excel.md)**               |
-| **[XlRgbColor Enumeration](xlrgbcolor-enumeration-excel.md)**                                 |
-| **[XlRobustConnect Enumeration](xlrobustconnect-enumeration-excel.md)**                       |
-| **[XlRoutingSlipDelivery Enumeration](xlroutingslipdelivery-enumeration-excel.md)**           |
-| **[XlRoutingSlipStatus Enumeration](xlroutingslipstatus-enumeration-excel.md)**               |
-| **[XlRowCol Enumeration](xlrowcol-enumeration-excel.md)**                                     |
-| **[XlRunAutoMacro Enumeration](xlrunautomacro-enumeration-excel.md)**                         |
-| **[XlSaveAction Enumeration](xlsaveaction-enumeration-excel.md)**                             |
-| **[XlSaveAsAccessMode Enumeration](xlsaveasaccessmode-enumeration-excel.md)**                 |
-| **[XlSaveConflictResolution Enumeration](xlsaveconflictresolution-enumeration-excel.md)**     |
-| **[XlScaleType Enumeration](xlscaletype-enumeration-excel.md)**                               |
-| **[XlSearchDirection Enumeration](xlsearchdirection-enumeration-excel.md)**                   |
-| **[XlSearchOrder Enumeration](xlsearchorder-enumeration-excel.md)**                           |
-| **[XlSearchWithin Enumeration](xlsearchwithin-enumeration-excel.md)**                         |
-| **[XlSeriesNameLevel Enumeration](xlseriesnamelevel-enumeration-excel.md)**                   |
-| **[XlSheetType Enumeration](xlsheettype-enumeration-excel.md)**                               |
-| **[XlSheetVisibility Enumeration](xlsheetvisibility-enumeration-excel.md)**                   |
-| **[XlSizeRepresents Enumeration](xlsizerepresents-enumeration-excel.md)**                     |
-| **[XlSlicerCacheType Enumeration](xlslicercachetype-enumeration-excel.md)**                   |
-| **[XlSlicerCrossFilterType Enumeration](xlslicercrossfiltertype-enumeration-excel.md)**       |
-| **[XlSlicerSort Enumeration](xlslicersort-enumeration-excel.md)**                             |
-| **[XlSmartTagControlType Enumeration](xlsmarttagcontroltype-enumeration-excel.md)**           |
-| **[XlSmartTagDisplayMode Enumeration](xlsmarttagdisplaymode-enumeration-excel.md)**           |
-| **[XlSortDataOption Enumeration](xlsortdataoption-enumeration-excel.md)**                     |
-| **[XlSortMethod Enumeration](xlsortmethod-enumeration-excel.md)**                             |
-| **[XlSortMethodOld Enumeration](xlsortmethodold-enumeration-excel.md)**                       |
-| **[XlSortOn Enumeration](xlsorton-enumeration-excel.md)**                                     |
-| **[XlSortOrder Enumeration](xlsortorder-enumeration-excel.md)**                               |
-| **[XlSortOrientation Enumeration](xlsortorientation-enumeration-excel.md)**                   |
-| **[XlSortType Enumeration](xlsorttype-enumeration-excel.md)**                                 |
-| **[XlSourceType Enumeration](xlsourcetype-enumeration-excel.md)**                             |
-| **[XlSpanishModes Enumeration](xlspanishmodes-enumeration-excel.md)**                         |
-| **[XlSparkScale Enumeration](xlsparkscale-enumeration-excel.md)**                             |
-| **[XlSparkType Enumeration](xlsparktype-enumeration-excel.md)**                               |
-| **[XlSparklineRowCol Enumeration](xlsparklinerowcol-enumeration-excel.md)**                   |
-| **[XlSpeakDirection Enumeration](xlspeakdirection-enumeration-excel.md)**                     |
-| **[XlSpecialCellsValue Enumeration](xlspecialcellsvalue-enumeration-excel.md)**               |
-| **[XlStdColorScale Enumeration](xlstdcolorscale-enumeration-excel.md)**                       |
-| **[XlSubscribeToFormat Enumeration](xlsubscribetoformat-enumeration-excel.md)**               |
-| **[XlSubtototalLocationType Enumeration](xlsubtototallocationtype-enumeration-excel.md)**     |
-| **[XlSummaryColumn Enumeration](xlsummarycolumn-enumeration-excel.md)**                       |
-| **[XlSummaryReportType Enumeration](xlsummaryreporttype-enumeration-excel.md)**               |
-| **[XlSummaryRow Enumeration](xlsummaryrow-enumeration-excel.md)**                             |
-| **[XlTabPosition Enumeration](xltabposition-enumeration-excel.md)**                           |
-| **[XlTableStyleElementType Enumeration](xltablestyleelementtype-enumeration-excel.md)**       |
-| **[XlTextParsingType Enumeration](xltextparsingtype-enumeration-excel.md)**                   |
-| **[XlTextQualifier Enumeration](xltextqualifier-enumeration-excel.md)**                       |
-| **[XlTextVisualLayoutType Enumeration](xltextvisuallayouttype-enumeration-excel.md)**         |
-| **[XlThemeColor Enumeration](xlthemecolor-enumeration-excel.md)**                             |
-| **[XlThemeFont Enumeration](xlthemefont-enumeration-excel.md)**                               |
-| **[XlThreadMode Enumeration](xlthreadmode-enumeration-excel.md)**                             |
-| **[XlTickLabelOrientation Enumeration](xlticklabelorientation-enumeration-excel.md)**         |
-| **[XlTickLabelPosition Enumeration](xlticklabelposition-enumeration-excel.md)**               |
-| **[XlTickMark Enumeration](xltickmark-enumeration-excel.md)**                                 |
-| **[XlTimePeriods Enumeration](xltimeperiods-enumeration-excel.md)**                           |
-| **[XlTimeUnit Enumeration](xltimeunit-enumeration-excel.md)**                                 |
-| **[XlTimelineLevel Enumeration](xltimelinelevel-enumeration-excel.md)**                       |
-| **[XlToolbarProtection Enumeration](xltoolbarprotection-enumeration-excel.md)**               |
-| **[XlTopBottom Enumeration](xltopbottom-enumeration-excel.md)**                               |
-| **[XlTotalsCalculation Enumeration](xltotalscalculation-enumeration-excel.md)**               |
-| **[XlTrendlineType Enumeration](xltrendlinetype-enumeration-excel.md)**                       |
-| **[XlUnderlineStyle Enumeration](xlunderlinestyle-enumeration-excel.md)**                     |
-| **[XlUpdateLinks Enumeration](xlupdatelinks-enumeration-excel.md)**                           |
-| **[XlVAlign Enumeration](xlvalign-enumeration-excel.md)**                                     |
-| **[XlWBATemplate Enumeration](xlwbatemplate-enumeration-excel.md)**                           |
-| **[XlWebFormatting Enumeration](xlwebformatting-enumeration-excel.md)**                       |
-| **[XlWebSelectionType Enumeration](xlwebselectiontype-enumeration-excel.md)**                 |
-| **[XlWindowState Enumeration](xlwindowstate-enumeration-excel.md)**                           |
-| **[XlWindowType Enumeration](xlwindowtype-enumeration-excel.md)**                             |
-| **[XlWindowView Enumeration](xlwindowview-enumeration-excel.md)**                             |
-| **[XlXLMMacroType Enumeration](xlxlmmacrotype-enumeration-excel.md)**                         |
-| **[XlXmlExportResult Enumeration](xlxmlexportresult-enumeration-excel.md)**                   |
-| **[XlXmlImportResult Enumeration](xlxmlimportresult-enumeration-excel.md)**                   |
-| **[XlXmlLoadOption Enumeration](xlxmlloadoption-enumeration-excel.md)**                       |
-| **[XlYesNoGuess Enumeration](xlyesnoguess-enumeration-excel.md)**                             |
+
+|                                                                                                            Name / Link                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                             <strong><a href="xlabovebelow-enumeration-excel.md" data-raw-source="[XlAboveBelow Enumeration](xlabovebelow-enumeration-excel.md)">XlAboveBelow Enumeration</a></strong>                             |
+|                             <strong><a href="xlactiontype-enumeration-excel.md" data-raw-source="[XlActionType Enumeration](xlactiontype-enumeration-excel.md)">XlActionType Enumeration</a></strong>                             |
+|                             <strong><a href="xlallocation-enumeration-excel.md" data-raw-source="[XlAllocation Enumeration](xlallocation-enumeration-excel.md)">XlAllocation Enumeration</a></strong>                             |
+|                 <strong><a href="xlallocationmethod-enumeration-excel.md" data-raw-source="[XlAllocationMethod Enumeration](xlallocationmethod-enumeration-excel.md)">XlAllocationMethod Enumeration</a></strong>                 |
+|                   <strong><a href="xlallocationvalue-enumeration-excel.md" data-raw-source="[XlAllocationValue Enumeration](xlallocationvalue-enumeration-excel.md)">XlAllocationValue Enumeration</a></strong>                   |
+| <strong><a href="xlapplicationinternational-enumeration-excel.md" data-raw-source="[XlApplicationInternational Enumeration](xlapplicationinternational-enumeration-excel.md)">XlApplicationInternational Enumeration</a></strong> |
+|                   <strong><a href="xlapplynamesorder-enumeration-excel.md" data-raw-source="[XlApplyNamesOrder Enumeration](xlapplynamesorder-enumeration-excel.md)">XlApplyNamesOrder Enumeration</a></strong>                   |
+|                           <strong><a href="xlarabicmodes-enumeration-excel.md" data-raw-source="[XlArabicModes Enumeration](xlarabicmodes-enumeration-excel.md)">XlArabicModes Enumeration</a></strong>                           |
+|                         <strong><a href="xlarrangestyle-enumeration-excel.md" data-raw-source="[XlArrangeStyle Enumeration](xlarrangestyle-enumeration-excel.md)">XlArrangeStyle Enumeration</a></strong>                         |
+|                   <strong><a href="xlarrowheadlength-enumeration-excel.md" data-raw-source="[XlArrowHeadLength Enumeration](xlarrowheadlength-enumeration-excel.md)">XlArrowHeadLength Enumeration</a></strong>                   |
+|                     <strong><a href="xlarrowheadstyle-enumeration-excel.md" data-raw-source="[XlArrowHeadStyle Enumeration](xlarrowheadstyle-enumeration-excel.md)">XlArrowHeadStyle Enumeration</a></strong>                     |
+|                     <strong><a href="xlarrowheadwidth-enumeration-excel.md" data-raw-source="[XlArrowHeadWidth Enumeration](xlarrowheadwidth-enumeration-excel.md)">XlArrowHeadWidth Enumeration</a></strong>                     |
+|                         <strong><a href="xlautofilltype-enumeration-excel.md" data-raw-source="[XlAutoFillType Enumeration](xlautofilltype-enumeration-excel.md)">XlAutoFillType Enumeration</a></strong>                         |
+|             <strong><a href="xlautofilteroperator-enumeration-excel.md" data-raw-source="[XlAutoFilterOperator Enumeration](xlautofilteroperator-enumeration-excel.md)">XlAutoFilterOperator Enumeration</a></strong>             |
+|                           <strong><a href="xlaxiscrosses-enumeration-excel.md" data-raw-source="[XlAxisCrosses Enumeration](xlaxiscrosses-enumeration-excel.md)">XlAxisCrosses Enumeration</a></strong>                           |
+|                               <strong><a href="xlaxisgroup-enumeration-excel.md" data-raw-source="[XlAxisGroup Enumeration](xlaxisgroup-enumeration-excel.md)">XlAxisGroup Enumeration</a></strong>                               |
+|                                 <strong><a href="xlaxistype-enumeration-excel.md" data-raw-source="[XlAxisType Enumeration](xlaxistype-enumeration-excel.md)">XlAxisType Enumeration</a></strong>                                 |
+|                             <strong><a href="xlbackground-enumeration-excel.md" data-raw-source="[XlBackground Enumeration](xlbackground-enumeration-excel.md)">XlBackground Enumeration</a></strong>                             |
+|                                 <strong><a href="xlbarshape-enumeration-excel.md" data-raw-source="[XlBarShape Enumeration](xlbarshape-enumeration-excel.md)">XlBarShape Enumeration</a></strong>                                 |
+|                                 <strong><a href="xlbinstype-enumeration-excel.md" data-raw-source="[XlBinsType Enumeration](xlbinstype-enumeration-excel.md)">XlBinsType Enumeration</a></strong>                                 |
+|                         <strong><a href="xlborderweight-enumeration-excel.md" data-raw-source="[XlBorderWeight Enumeration](xlborderweight-enumeration-excel.md)">XlBorderWeight Enumeration</a></strong>                         |
+|                         <strong><a href="xlbordersindex-enumeration-excel.md" data-raw-source="[XlBordersIndex Enumeration](xlbordersindex-enumeration-excel.md)">XlBordersIndex Enumeration</a></strong>                         |
+|                       <strong><a href="xlbuiltindialog-enumeration-excel.md" data-raw-source="[XlBuiltInDialog Enumeration](xlbuiltindialog-enumeration-excel.md)">XlBuiltInDialog Enumeration</a></strong>                       |
+|                                   <strong><a href="xlcverror-enumeration-excel.md" data-raw-source="[XlCVError Enumeration](xlcverror-enumeration-excel.md)">XlCVError Enumeration</a></strong>                                   |
+|                                   <strong><a href="xlcalcfor-enumeration-excel.md" data-raw-source="[XlCalcFor Enumeration](xlcalcfor-enumeration-excel.md)">XlCalcFor Enumeration</a></strong>                                   |
+|   <strong><a href="xlcalcmemnumberformattype-enumeration-excel.md" data-raw-source="[XlCalcMemNumberFormatType Enumeration](xlcalcmemnumberformattype-enumeration-excel.md)">XlCalcMemNumberFormatType Enumeration</a></strong>   |
+|         <strong><a href="xlcalculatedmembertype-enumeration-excel.md" data-raw-source="[XlCalculatedMemberType Enumeration](xlcalculatedmembertype-enumeration-excel.md)">XlCalculatedMemberType Enumeration</a></strong>         |
+|                           <strong><a href="xlcalculation-enumeration-excel.md" data-raw-source="[XlCalculation Enumeration](xlcalculation-enumeration-excel.md)">XlCalculation Enumeration</a></strong>                           |
+|   <strong><a href="xlcalculationinterruptkey-enumeration-excel.md" data-raw-source="[XlCalculationInterruptKey Enumeration](xlcalculationinterruptkey-enumeration-excel.md)">XlCalculationInterruptKey Enumeration</a></strong>   |
+|                 <strong><a href="xlcalculationstate-enumeration-excel.md" data-raw-source="[XlCalculationState Enumeration](xlcalculationstate-enumeration-excel.md)">XlCalculationState Enumeration</a></strong>                 |
+|             <strong><a href="xlcategorylabellevel-enumeration-excel.md" data-raw-source="[XlCategoryLabelLevel Enumeration](xlcategorylabellevel-enumeration-excel.md)">XlCategoryLabelLevel Enumeration</a></strong>             |
+|                         <strong><a href="xlcategorytype-enumeration-excel.md" data-raw-source="[XlCategoryType Enumeration](xlcategorytype-enumeration-excel.md)">XlCategoryType Enumeration</a></strong>                         |
+|                 <strong><a href="xlcellchangedstate-enumeration-excel.md" data-raw-source="[XlCellChangedState Enumeration](xlcellchangedstate-enumeration-excel.md)">XlCellChangedState Enumeration</a></strong>                 |
+|               <strong><a href="xlcellinsertionmode-enumeration-excel.md" data-raw-source="[XlCellInsertionMode Enumeration](xlcellinsertionmode-enumeration-excel.md)">XlCellInsertionMode Enumeration</a></strong>               |
+|                                 <strong><a href="xlcelltype-enumeration-excel.md" data-raw-source="[XlCellType Enumeration](xlcelltype-enumeration-excel.md)">XlCellType Enumeration</a></strong>                                 |
+|         <strong><a href="xlchartelementposition-enumeration-excel.md" data-raw-source="[XlChartElementPosition Enumeration](xlchartelementposition-enumeration-excel.md)">XlChartElementPosition Enumeration</a></strong>         |
+|                         <strong><a href="xlchartgallery-enumeration-excel.md" data-raw-source="[XlChartGallery Enumeration](xlchartgallery-enumeration-excel.md)">XlChartGallery Enumeration</a></strong>                         |
+|                               <strong><a href="xlchartitem-enumeration-excel.md" data-raw-source="[XlChartItem Enumeration](xlchartitem-enumeration-excel.md)">XlChartItem Enumeration</a></strong>                               |
+|                       <strong><a href="xlchartlocation-enumeration-excel.md" data-raw-source="[XlChartLocation Enumeration](xlchartlocation-enumeration-excel.md)">XlChartLocation Enumeration</a></strong>                       |
+|       <strong><a href="xlchartpictureplacement-enumeration-excel.md" data-raw-source="[XlChartPicturePlacement Enumeration](xlchartpictureplacement-enumeration-excel.md)">XlChartPicturePlacement Enumeration</a></strong>       |
+|                 <strong><a href="xlchartpicturetype-enumeration-excel.md" data-raw-source="[XlChartPictureType Enumeration](xlchartpicturetype-enumeration-excel.md)">XlChartPictureType Enumeration</a></strong>                 |
+|                     <strong><a href="xlchartsplittype-enumeration-excel.md" data-raw-source="[XlChartSplitType Enumeration](xlchartsplittype-enumeration-excel.md)">XlChartSplitType Enumeration</a></strong>                     |
+|                               <strong><a href="xlcharttype-enumeration-excel.md" data-raw-source="[XlChartType Enumeration](xlcharttype-enumeration-excel.md)">XlChartType Enumeration</a></strong>                               |
+|             <strong><a href="xlcheckinversiontype-enumeration-excel.md" data-raw-source="[XlCheckInVersionType Enumeration](xlcheckinversiontype-enumeration-excel.md)">XlCheckInVersionType Enumeration</a></strong>             |
+|                   <strong><a href="xlclipboardformat-enumeration-excel.md" data-raw-source="[XlClipboardFormat Enumeration](xlclipboardformat-enumeration-excel.md)">XlClipboardFormat Enumeration</a></strong>                   |
+|                                   <strong><a href="xlcmdtype-enumeration-excel.md" data-raw-source="[XlCmdType Enumeration](xlcmdtype-enumeration-excel.md)">XlCmdType Enumeration</a></strong>                                   |
+|                             <strong><a href="xlcolorindex-enumeration-excel.md" data-raw-source="[XlColorIndex Enumeration](xlcolorindex-enumeration-excel.md)">XlColorIndex Enumeration</a></strong>                             |
+|                     <strong><a href="xlcolumndatatype-enumeration-excel.md" data-raw-source="[XlColumnDataType Enumeration](xlcolumndatatype-enumeration-excel.md)">XlColumnDataType Enumeration</a></strong>                     |
+|               <strong><a href="xlcommandunderlines-enumeration-excel.md" data-raw-source="[XlCommandUnderlines Enumeration](xlcommandunderlines-enumeration-excel.md)">XlCommandUnderlines Enumeration</a></strong>               |
+|             <strong><a href="xlcommentdisplaymode-enumeration-excel.md" data-raw-source="[XlCommentDisplayMode Enumeration](xlcommentdisplaymode-enumeration-excel.md)">XlCommentDisplayMode Enumeration</a></strong>             |
+|           <strong><a href="xlconditionvaluetypes-enumeration-excel.md" data-raw-source="[XlConditionValueTypes Enumeration](xlconditionvaluetypes-enumeration-excel.md)">XlConditionValueTypes Enumeration</a></strong>           |
+|                     <strong><a href="xlconnectiontype-enumeration-excel.md" data-raw-source="[XlConnectionType Enumeration](xlconnectiontype-enumeration-excel.md)">XlConnectionType Enumeration</a></strong>                     |
+|       <strong><a href="xlconsolidationfunction-enumeration-excel.md" data-raw-source="[XlConsolidationFunction Enumeration](xlconsolidationfunction-enumeration-excel.md)">XlConsolidationFunction Enumeration</a></strong>       |
+|                 <strong><a href="xlcontainsoperator-enumeration-excel.md" data-raw-source="[XlContainsOperator Enumeration](xlcontainsoperator-enumeration-excel.md)">XlContainsOperator Enumeration</a></strong>                 |
+|               <strong><a href="xlcopypictureformat-enumeration-excel.md" data-raw-source="[XlCopyPictureFormat Enumeration](xlcopypictureformat-enumeration-excel.md)">XlCopyPictureFormat Enumeration</a></strong>               |
+|                           <strong><a href="xlcorruptload-enumeration-excel.md" data-raw-source="[XlCorruptLoad Enumeration](xlcorruptload-enumeration-excel.md)">XlCorruptLoad Enumeration</a></strong>                           |
+|                                   <strong><a href="xlcreator-enumeration-excel.md" data-raw-source="[XlCreator Enumeration](xlcreator-enumeration-excel.md)">XlCreator Enumeration</a></strong>                                   |
+|               <strong><a href="xlcredentialsmethod-enumeration-excel.md" data-raw-source="[XlCredentialsMethod Enumeration](xlcredentialsmethod-enumeration-excel.md)">XlCredentialsMethod Enumeration</a></strong>               |
+|                 <strong><a href="xlcubefieldsubtype-enumeration-excel.md" data-raw-source="[XlCubeFieldSubType Enumeration](xlcubefieldsubtype-enumeration-excel.md)">XlCubeFieldSubType Enumeration</a></strong>                 |
+|                       <strong><a href="xlcubefieldtype-enumeration-excel.md" data-raw-source="[XlCubeFieldType Enumeration](xlcubefieldtype-enumeration-excel.md)">XlCubeFieldType Enumeration</a></strong>                       |
+|                           <strong><a href="xlcutcopymode-enumeration-excel.md" data-raw-source="[XlCutCopyMode Enumeration](xlcutcopymode-enumeration-excel.md)">XlCutCopyMode Enumeration</a></strong>                           |
+|                         <strong><a href="xldvalertstyle-enumeration-excel.md" data-raw-source="[XlDVAlertStyle Enumeration](xldvalertstyle-enumeration-excel.md)">XlDVAlertStyle Enumeration</a></strong>                         |
+|                                     <strong><a href="xldvtype-enumeration-excel.md" data-raw-source="[XlDVType Enumeration](xldvtype-enumeration-excel.md)">XlDVType Enumeration</a></strong>                                     |
+|           <strong><a href="xldatabaraxisposition-enumeration-excel.md" data-raw-source="[XlDataBarAxisPosition Enumeration](xldatabaraxisposition-enumeration-excel.md)">XlDataBarAxisPosition Enumeration</a></strong>           |
+|               <strong><a href="xldatabarbordertype-enumeration-excel.md" data-raw-source="[XlDataBarBorderType Enumeration](xldatabarbordertype-enumeration-excel.md)">XlDataBarBorderType Enumeration</a></strong>               |
+|                   <strong><a href="xldatabarfilltype-enumeration-excel.md" data-raw-source="[XlDataBarFillType Enumeration](xldatabarfilltype-enumeration-excel.md)">XlDataBarFillType Enumeration</a></strong>                   |
+| <strong><a href="xldatabarnegativecolortype-enumeration-excel.md" data-raw-source="[XlDataBarNegativeColorType Enumeration](xldatabarnegativecolortype-enumeration-excel.md)">XlDataBarNegativeColorType Enumeration</a></strong> |
+|               <strong><a href="xldatalabelposition-enumeration-excel.md" data-raw-source="[XlDataLabelPosition Enumeration](xldatalabelposition-enumeration-excel.md)">XlDataLabelPosition Enumeration</a></strong>               |
+|             <strong><a href="xldatalabelseparator-enumeration-excel.md" data-raw-source="[XlDataLabelSeparator Enumeration](xldatalabelseparator-enumeration-excel.md)">XlDataLabelSeparator Enumeration</a></strong>             |
+|                     <strong><a href="xldatalabelstype-enumeration-excel.md" data-raw-source="[XlDataLabelsType Enumeration](xldatalabelstype-enumeration-excel.md)">XlDataLabelsType Enumeration</a></strong>                     |
+|                     <strong><a href="xldataseriesdate-enumeration-excel.md" data-raw-source="[XlDataSeriesDate Enumeration](xldataseriesdate-enumeration-excel.md)">XlDataSeriesDate Enumeration</a></strong>                     |
+|                     <strong><a href="xldataseriestype-enumeration-excel.md" data-raw-source="[XlDataSeriesType Enumeration](xldataseriestype-enumeration-excel.md)">XlDataSeriesType Enumeration</a></strong>                     |
+|         <strong><a href="xldeleteshiftdirection-enumeration-excel.md" data-raw-source="[XlDeleteShiftDirection Enumeration](xldeleteshiftdirection-enumeration-excel.md)">XlDeleteShiftDirection Enumeration</a></strong>         |
+|                               <strong><a href="xldirection-enumeration-excel.md" data-raw-source="[XlDirection Enumeration](xldirection-enumeration-excel.md)">XlDirection Enumeration</a></strong>                               |
+|                   <strong><a href="xldisplayblanksas-enumeration-excel.md" data-raw-source="[XlDisplayBlanksAs Enumeration](xldisplayblanksas-enumeration-excel.md)">XlDisplayBlanksAs Enumeration</a></strong>                   |
+|       <strong><a href="xldisplaydrawingobjects-enumeration-excel.md" data-raw-source="[XlDisplayDrawingObjects Enumeration](xldisplaydrawingobjects-enumeration-excel.md)">XlDisplayDrawingObjects Enumeration</a></strong>       |
+|                           <strong><a href="xldisplayunit-enumeration-excel.md" data-raw-source="[XlDisplayUnit Enumeration](xldisplayunit-enumeration-excel.md)">XlDisplayUnit Enumeration</a></strong>                           |
+|                             <strong><a href="xldupeunique-enumeration-excel.md" data-raw-source="[XlDupeUnique Enumeration](xldupeunique-enumeration-excel.md)">XlDupeUnique Enumeration</a></strong>                             |
+|       <strong><a href="xldynamicfiltercriteria-enumeration-excel.md" data-raw-source="[XlDynamicFilterCriteria Enumeration](xldynamicfiltercriteria-enumeration-excel.md)">XlDynamicFilterCriteria Enumeration</a></strong>       |
+|                       <strong><a href="xleditionformat-enumeration-excel.md" data-raw-source="[XlEditionFormat Enumeration](xleditionformat-enumeration-excel.md)">XlEditionFormat Enumeration</a></strong>                       |
+|         <strong><a href="xleditionoptionsoption-enumeration-excel.md" data-raw-source="[XlEditionOptionsOption Enumeration](xleditionoptionsoption-enumeration-excel.md)">XlEditionOptionsOption Enumeration</a></strong>         |
+|                           <strong><a href="xleditiontype-enumeration-excel.md" data-raw-source="[XlEditionType Enumeration](xleditiontype-enumeration-excel.md)">XlEditionType Enumeration</a></strong>                           |
+|                   <strong><a href="xlenablecancelkey-enumeration-excel.md" data-raw-source="[XlEnableCancelKey Enumeration](xlenablecancelkey-enumeration-excel.md)">XlEnableCancelKey Enumeration</a></strong>                   |
+|                   <strong><a href="xlenableselection-enumeration-excel.md" data-raw-source="[XlEnableSelection Enumeration](xlenableselection-enumeration-excel.md)">XlEnableSelection Enumeration</a></strong>                   |
+|                           <strong><a href="xlendstylecap-enumeration-excel.md" data-raw-source="[XlEndStyleCap Enumeration](xlendstylecap-enumeration-excel.md)">XlEndStyleCap Enumeration</a></strong>                           |
+|               <strong><a href="xlerrorbardirection-enumeration-excel.md" data-raw-source="[XlErrorBarDirection Enumeration](xlerrorbardirection-enumeration-excel.md)">XlErrorBarDirection Enumeration</a></strong>               |
+|                   <strong><a href="xlerrorbarinclude-enumeration-excel.md" data-raw-source="[XlErrorBarInclude Enumeration](xlerrorbarinclude-enumeration-excel.md)">XlErrorBarInclude Enumeration</a></strong>                   |
+|                         <strong><a href="xlerrorbartype-enumeration-excel.md" data-raw-source="[XlErrorBarType Enumeration](xlerrorbartype-enumeration-excel.md)">XlErrorBarType Enumeration</a></strong>                         |
+|                           <strong><a href="xlerrorchecks-enumeration-excel.md" data-raw-source="[XlErrorChecks Enumeration](xlerrorchecks-enumeration-excel.md)">XlErrorChecks Enumeration</a></strong>                           |
+|                             <strong><a href="xlfileaccess-enumeration-excel.md" data-raw-source="[XlFileAccess Enumeration](xlfileaccess-enumeration-excel.md)">XlFileAccess Enumeration</a></strong>                             |
+|                             <strong><a href="xlfileformat-enumeration-excel.md" data-raw-source="[XlFileFormat Enumeration](xlfileformat-enumeration-excel.md)">XlFileFormat Enumeration</a></strong>                             |
+|   <strong><a href="xlfilevalidationpivotmode-enumeration-excel.md" data-raw-source="[XlFileValidationPivotMode Enumeration](xlfilevalidationpivotmode-enumeration-excel.md)">XlFileValidationPivotMode Enumeration</a></strong>   |
+|                                 <strong><a href="xlfillwith-enumeration-excel.md" data-raw-source="[XlFillWith Enumeration](xlfillwith-enumeration-excel.md)">XlFillWith Enumeration</a></strong>                                 |
+|                         <strong><a href="xlfilteraction-enumeration-excel.md" data-raw-source="[XlFilterAction Enumeration](xlfilteraction-enumeration-excel.md)">XlFilterAction Enumeration</a></strong>                         |
+|     <strong><a href="xlfilteralldatesinperiod-enumeration-excel.md" data-raw-source="[XlFilterAllDatesInPeriod Enumeration](xlfilteralldatesinperiod-enumeration-excel.md)">XlFilterAllDatesInPeriod Enumeration</a></strong>     |
+|                         <strong><a href="xlfilterstatus-enumeration-excel.md" data-raw-source="[XlFilterStatus Enumeration](xlfilterstatus-enumeration-excel.md)">XlFilterStatus Enumeration</a></strong>                         |
+|                             <strong><a href="xlfindlookin-enumeration-excel.md" data-raw-source="[XlFindLookIn Enumeration](xlfindlookin-enumeration-excel.md)">XlFindLookIn Enumeration</a></strong>                             |
+|             <strong><a href="xlfixedformatquality-enumeration-excel.md" data-raw-source="[XlFixedFormatQuality Enumeration](xlfixedformatquality-enumeration-excel.md)">XlFixedFormatQuality Enumeration</a></strong>             |
+|                   <strong><a href="xlfixedformattype-enumeration-excel.md" data-raw-source="[XlFixedFormatType Enumeration](xlfixedformattype-enumeration-excel.md)">XlFixedFormatType Enumeration</a></strong>                   |
+|           <strong><a href="xlforecastaggregation-enumeration-excel.md" data-raw-source="[XlForecastAggregation Enumeration](xlforecastaggregation-enumeration-excel.md)">XlForecastAggregation Enumeration</a></strong>           |
+|               <strong><a href="xlforecastcharttype-enumeration-excel.md" data-raw-source="[XlForecastChartType Enumeration](xlforecastcharttype-enumeration-excel.md)">XlForecastChartType Enumeration</a></strong>               |
+|     <strong><a href="xlforecastdatacompletion-enumeration-excel.md" data-raw-source="[XlForecastDataCompletion Enumeration](xlforecastdatacompletion-enumeration-excel.md)">XlForecastDataCompletion Enumeration</a></strong>     |
+|                           <strong><a href="xlformcontrol-enumeration-excel.md" data-raw-source="[XlFormControl Enumeration](xlformcontrol-enumeration-excel.md)">XlFormControl Enumeration</a></strong>                           |
+|   <strong><a href="xlformatconditionoperator-enumeration-excel.md" data-raw-source="[XlFormatConditionOperator Enumeration](xlformatconditionoperator-enumeration-excel.md)">XlFormatConditionOperator Enumeration</a></strong>   |
+|           <strong><a href="xlformatconditiontype-enumeration-excel.md" data-raw-source="[XlFormatConditionType Enumeration](xlformatconditiontype-enumeration-excel.md)">XlFormatConditionType Enumeration</a></strong>           |
+|               <strong><a href="xlformatfiltertypes-enumeration-excel.md" data-raw-source="[XlFormatFilterTypes Enumeration](xlformatfiltertypes-enumeration-excel.md)">XlFormatFilterTypes Enumeration</a></strong>               |
+|                         <strong><a href="xlformulalabel-enumeration-excel.md" data-raw-source="[XlFormulaLabel Enumeration](xlformulalabel-enumeration-excel.md)">XlFormulaLabel Enumeration</a></strong>                         |
+|               <strong><a href="xlgeneratetablerefs-enumeration-excel.md" data-raw-source="[XlGenerateTableRefs Enumeration](xlgeneratetablerefs-enumeration-excel.md)">XlGenerateTableRefs Enumeration</a></strong>               |
+|                 <strong><a href="xlgradientfilltype-enumeration-excel.md" data-raw-source="[XlGradientFillType Enumeration](xlgradientfilltype-enumeration-excel.md)">XlGradientFillType Enumeration</a></strong>                 |
+|                                     <strong><a href="xlhalign-enumeration-excel.md" data-raw-source="[XlHAlign Enumeration](xlhalign-enumeration-excel.md)">XlHAlign Enumeration</a></strong>                                     |
+|                           <strong><a href="xlhebrewmodes-enumeration-excel.md" data-raw-source="[XlHebrewModes Enumeration](xlhebrewmodes-enumeration-excel.md)">XlHebrewModes Enumeration</a></strong>                           |
+|         <strong><a href="xlhighlightchangestime-enumeration-excel.md" data-raw-source="[XlHighlightChangesTime Enumeration](xlhighlightchangestime-enumeration-excel.md)">XlHighlightChangesTime Enumeration</a></strong>         |
+|                                 <strong><a href="xlhtmltype-enumeration-excel.md" data-raw-source="[XlHtmlType Enumeration](xlhtmltype-enumeration-excel.md)">XlHtmlType Enumeration</a></strong>                                 |
+|                                   <strong><a href="xlimemode-enumeration-excel.md" data-raw-source="[XlIMEMode Enumeration](xlimemode-enumeration-excel.md)">XlIMEMode Enumeration</a></strong>                                   |
+|                                         <strong><a href="xlicon-enumeration-excel.md" data-raw-source="[XlIcon Enumeration](xlicon-enumeration-excel.md)">XlIcon Enumeration</a></strong>                                         |
+|                                   <strong><a href="xliconset-enumeration-excel.md" data-raw-source="[XlIconSet Enumeration](xliconset-enumeration-excel.md)">XlIconSet Enumeration</a></strong>                                   |
+|                         <strong><a href="xlimportdataas-enumeration-excel.md" data-raw-source="[XlImportDataAs Enumeration](xlimportdataas-enumeration-excel.md)">XlImportDataAs Enumeration</a></strong>                         |
+|             <strong><a href="xlinsertformatorigin-enumeration-excel.md" data-raw-source="[XlInsertFormatOrigin Enumeration](xlinsertformatorigin-enumeration-excel.md)">XlInsertFormatOrigin Enumeration</a></strong>             |
+|         <strong><a href="xlinsertshiftdirection-enumeration-excel.md" data-raw-source="[XlInsertShiftDirection Enumeration](xlinsertshiftdirection-enumeration-excel.md)">XlInsertShiftDirection Enumeration</a></strong>         |
+|                     <strong><a href="xllayoutformtype-enumeration-excel.md" data-raw-source="[XlLayoutFormType Enumeration](xllayoutformtype-enumeration-excel.md)">XlLayoutFormType Enumeration</a></strong>                     |
+|                       <strong><a href="xllayoutrowtype-enumeration-excel.md" data-raw-source="[XlLayoutRowType Enumeration](xllayoutrowtype-enumeration-excel.md)">XlLayoutRowType Enumeration</a></strong>                       |
+|                     <strong><a href="xllegendposition-enumeration-excel.md" data-raw-source="[XlLegendPosition Enumeration](xllegendposition-enumeration-excel.md)">XlLegendPosition Enumeration</a></strong>                     |
+|                               <strong><a href="xllinestyle-enumeration-excel.md" data-raw-source="[XlLineStyle Enumeration](xllinestyle-enumeration-excel.md)">XlLineStyle Enumeration</a></strong>                               |
+|                                         <strong><a href="xllink-enumeration-excel.md" data-raw-source="[XlLink Enumeration](xllink-enumeration-excel.md)">XlLink Enumeration</a></strong>                                         |
+|                                 <strong><a href="xllinkinfo-enumeration-excel.md" data-raw-source="[XlLinkInfo Enumeration](xllinkinfo-enumeration-excel.md)">XlLinkInfo Enumeration</a></strong>                                 |
+|                         <strong><a href="xllinkinfotype-enumeration-excel.md" data-raw-source="[XlLinkInfoType Enumeration](xllinkinfotype-enumeration-excel.md)">XlLinkInfoType Enumeration</a></strong>                         |
+|                             <strong><a href="xllinkstatus-enumeration-excel.md" data-raw-source="[XlLinkStatus Enumeration](xllinkstatus-enumeration-excel.md)">XlLinkStatus Enumeration</a></strong>                             |
+|                                 <strong><a href="xllinktype-enumeration-excel.md" data-raw-source="[XlLinkType Enumeration](xllinktype-enumeration-excel.md)">XlLinkType Enumeration</a></strong>                                 |
+|                         <strong><a href="xllistconflict-enumeration-excel.md" data-raw-source="[XlListConflict Enumeration](xllistconflict-enumeration-excel.md)">XlListConflict Enumeration</a></strong>                         |
+|                         <strong><a href="xllistdatatype-enumeration-excel.md" data-raw-source="[XlListDataType Enumeration](xllistdatatype-enumeration-excel.md)">XlListDataType Enumeration</a></strong>                         |
+|         <strong><a href="xllistobjectsourcetype-enumeration-excel.md" data-raw-source="[XlListObjectSourceType Enumeration](xllistobjectsourcetype-enumeration-excel.md)">XlListObjectSourceType Enumeration</a></strong>         |
+|                   <strong><a href="xllocationintable-enumeration-excel.md" data-raw-source="[XlLocationInTable Enumeration](xllocationintable-enumeration-excel.md)">XlLocationInTable Enumeration</a></strong>                   |
+|                                     <strong><a href="xllookat-enumeration-excel.md" data-raw-source="[XlLookAt Enumeration](xllookat-enumeration-excel.md)">XlLookAt Enumeration</a></strong>                                     |
+|                                   <strong><a href="xllookfor-enumeration-excel.md" data-raw-source="[XlLookFor Enumeration](xllookfor-enumeration-excel.md)">XlLookFor Enumeration</a></strong>                                   |
+|                       <strong><a href="xlmsapplication-enumeration-excel.md" data-raw-source="[XlMSApplication Enumeration](xlmsapplication-enumeration-excel.md)">XlMSApplication Enumeration</a></strong>                       |
+|                             <strong><a href="xlmailsystem-enumeration-excel.md" data-raw-source="[XlMailSystem Enumeration](xlmailsystem-enumeration-excel.md)">XlMailSystem Enumeration</a></strong>                             |
+|                           <strong><a href="xlmarkerstyle-enumeration-excel.md" data-raw-source="[XlMarkerStyle Enumeration](xlmarkerstyle-enumeration-excel.md)">XlMarkerStyle Enumeration</a></strong>                           |
+|                 <strong><a href="xlmeasurementunits-enumeration-excel.md" data-raw-source="[XlMeasurementUnits Enumeration](xlmeasurementunits-enumeration-excel.md)">XlMeasurementUnits Enumeration</a></strong>                 |
+|               <strong><a href="xlmodelchangesource-enumeration-excel.md" data-raw-source="[XlModelChangeSource Enumeration](xlmodelchangesource-enumeration-excel.md)">XlModelChangeSource Enumeration</a></strong>               |
+|                           <strong><a href="xlmousebutton-enumeration-excel.md" data-raw-source="[XlMouseButton Enumeration](xlmousebutton-enumeration-excel.md)">XlMouseButton Enumeration</a></strong>                           |
+|                         <strong><a href="xlmousepointer-enumeration-excel.md" data-raw-source="[XlMousePointer Enumeration](xlmousepointer-enumeration-excel.md)">XlMousePointer Enumeration</a></strong>                         |
+|                                   <strong><a href="xloletype-enumeration-excel.md" data-raw-source="[XlOLEType Enumeration](xloletype-enumeration-excel.md)">XlOLEType Enumeration</a></strong>                                   |
+|                                   <strong><a href="xloleverb-enumeration-excel.md" data-raw-source="[XlOLEVerb Enumeration](xloleverb-enumeration-excel.md)">XlOLEVerb Enumeration</a></strong>                                   |
+|     <strong><a href="xloarthorizontaloverflow-enumeration-excel.md" data-raw-source="[XlOartHorizontalOverflow Enumeration](xloarthorizontaloverflow-enumeration-excel.md)">XlOartHorizontalOverflow Enumeration</a></strong>     |
+|         <strong><a href="xloartverticaloverflow-enumeration-excel.md" data-raw-source="[XlOartVerticalOverflow Enumeration](xloartverticaloverflow-enumeration-excel.md)">XlOartVerticalOverflow Enumeration</a></strong>         |
+|                             <strong><a href="xlobjectsize-enumeration-excel.md" data-raw-source="[XlObjectSize Enumeration](xlobjectsize-enumeration-excel.md)">XlObjectSize Enumeration</a></strong>                             |
+|                                       <strong><a href="xlorder-enumeration-excel.md" data-raw-source="[XlOrder Enumeration](xlorder-enumeration-excel.md)">XlOrder Enumeration</a></strong>                                       |
+|                           <strong><a href="xlorientation-enumeration-excel.md" data-raw-source="[XlOrientation Enumeration](xlorientation-enumeration-excel.md)">XlOrientation Enumeration</a></strong>                           |
+|                   <strong><a href="xlptselectionmode-enumeration-excel.md" data-raw-source="[XlPTSelectionMode Enumeration](xlptselectionmode-enumeration-excel.md)">XlPTSelectionMode Enumeration</a></strong>                   |
+|                               <strong><a href="xlpagebreak-enumeration-excel.md" data-raw-source="[XlPageBreak Enumeration](xlpagebreak-enumeration-excel.md)">XlPageBreak Enumeration</a></strong>                               |
+|                   <strong><a href="xlpagebreakextent-enumeration-excel.md" data-raw-source="[XlPageBreakExtent Enumeration](xlpagebreakextent-enumeration-excel.md)">XlPageBreakExtent Enumeration</a></strong>                   |
+|                   <strong><a href="xlpageorientation-enumeration-excel.md" data-raw-source="[XlPageOrientation Enumeration](xlpageorientation-enumeration-excel.md)">XlPageOrientation Enumeration</a></strong>                   |
+|                                             <strong><a href="#.md" data-raw-source="[XlPageOrientation Enumeration (Excel)](#.md)">XlPageOrientation Enumeration (Excel)</a></strong>                                             |
+|                               <strong><a href="xlpapersize-enumeration-excel.md" data-raw-source="[XlPaperSize Enumeration](xlpapersize-enumeration-excel.md)">XlPaperSize Enumeration</a></strong>                               |
+|               <strong><a href="xlparameterdatatype-enumeration-excel.md" data-raw-source="[XlParameterDataType Enumeration](xlparameterdatatype-enumeration-excel.md)">XlParameterDataType Enumeration</a></strong>               |
+|                       <strong><a href="xlparametertype-enumeration-excel.md" data-raw-source="[XlParameterType Enumeration](xlparametertype-enumeration-excel.md)">XlParameterType Enumeration</a></strong>                       |
+|     <strong><a href="xlparentdatalabeloptions-enumeration-excel.md" data-raw-source="[XlParentDataLabelOptions Enumeration](xlparentdatalabeloptions-enumeration-excel.md)">XlParentDataLabelOptions Enumeration</a></strong>     |
+|       <strong><a href="xlpastespecialoperation-enumeration-excel.md" data-raw-source="[XlPasteSpecialOperation Enumeration](xlpastespecialoperation-enumeration-excel.md)">XlPasteSpecialOperation Enumeration</a></strong>       |
+|                               <strong><a href="xlpastetype-enumeration-excel.md" data-raw-source="[XlPasteType Enumeration](xlpastetype-enumeration-excel.md)">XlPasteType Enumeration</a></strong>                               |
+|                                   <strong><a href="xlpattern-enumeration-excel.md" data-raw-source="[XlPattern Enumeration](xlpattern-enumeration-excel.md)">XlPattern Enumeration</a></strong>                                   |
+|               <strong><a href="xlphoneticalignment-enumeration-excel.md" data-raw-source="[XlPhoneticAlignment Enumeration](xlphoneticalignment-enumeration-excel.md)">XlPhoneticAlignment Enumeration</a></strong>               |
+|       <strong><a href="xlphoneticcharactertype-enumeration-excel.md" data-raw-source="[XlPhoneticCharacterType Enumeration](xlphoneticcharactertype-enumeration-excel.md)">XlPhoneticCharacterType Enumeration</a></strong>       |
+|               <strong><a href="xlpictureappearance-enumeration-excel.md" data-raw-source="[XlPictureAppearance Enumeration](xlpictureappearance-enumeration-excel.md)">XlPictureAppearance Enumeration</a></strong>               |
+|         <strong><a href="xlpictureconvertortype-enumeration-excel.md" data-raw-source="[XlPictureConvertorType Enumeration](xlpictureconvertortype-enumeration-excel.md)">XlPictureConvertorType Enumeration</a></strong>         |
+|                       <strong><a href="xlpiesliceindex-enumeration-excel.md" data-raw-source="[XlPieSliceIndex Enumeration](xlpiesliceindex-enumeration-excel.md)">XlPieSliceIndex Enumeration</a></strong>                       |
+|                 <strong><a href="xlpieslicelocation-enumeration-excel.md" data-raw-source="[XlPieSliceLocation Enumeration](xlpieslicelocation-enumeration-excel.md)">XlPieSliceLocation Enumeration</a></strong>                 |
+|                       <strong><a href="xlpivotcelltype-enumeration-excel.md" data-raw-source="[XlPivotCellType Enumeration](xlpivotcelltype-enumeration-excel.md)">XlPivotCellType Enumeration</a></strong>                       |
+|           <strong><a href="xlpivotconditionscope-enumeration-excel.md" data-raw-source="[XlPivotConditionScope Enumeration](xlpivotconditionscope-enumeration-excel.md)">XlPivotConditionScope Enumeration</a></strong>           |
+|       <strong><a href="xlpivotfieldcalculation-enumeration-excel.md" data-raw-source="[XlPivotFieldCalculation Enumeration](xlpivotfieldcalculation-enumeration-excel.md)">XlPivotFieldCalculation Enumeration</a></strong>       |
+|             <strong><a href="xlpivotfielddatatype-enumeration-excel.md" data-raw-source="[XlPivotFieldDataType Enumeration](xlpivotfielddatatype-enumeration-excel.md)">XlPivotFieldDataType Enumeration</a></strong>             |
+|       <strong><a href="xlpivotfieldorientation-enumeration-excel.md" data-raw-source="[XlPivotFieldOrientation Enumeration](xlpivotfieldorientation-enumeration-excel.md)">XlPivotFieldOrientation Enumeration</a></strong>       |
+|     <strong><a href="xlpivotfieldrepeatlabels-enumeration-excel.md" data-raw-source="[XlPivotFieldRepeatLabels Enumeration](xlpivotfieldrepeatlabels-enumeration-excel.md)">XlPivotFieldRepeatLabels Enumeration</a></strong>     |
+|                   <strong><a href="xlpivotfiltertype-enumeration-excel.md" data-raw-source="[XlPivotFilterType Enumeration](xlpivotfiltertype-enumeration-excel.md)">XlPivotFilterType Enumeration</a></strong>                   |
+|                   <strong><a href="xlpivotformattype-enumeration-excel.md" data-raw-source="[XlPivotFormatType Enumeration](xlpivotformattype-enumeration-excel.md)">XlPivotFormatType Enumeration</a></strong>                   |
+|                       <strong><a href="xlpivotlinetype-enumeration-excel.md" data-raw-source="[XlPivotLineType Enumeration](xlpivotlinetype-enumeration-excel.md)">XlPivotLineType Enumeration</a></strong>                       |
+|     <strong><a href="xlpivottablemissingitems-enumeration-excel.md" data-raw-source="[XlPivotTableMissingItems Enumeration](xlpivottablemissingitems-enumeration-excel.md)">XlPivotTableMissingItems Enumeration</a></strong>     |
+|         <strong><a href="xlpivottablesourcetype-enumeration-excel.md" data-raw-source="[XlPivotTableSourceType Enumeration](xlpivottablesourcetype-enumeration-excel.md)">XlPivotTableSourceType Enumeration</a></strong>         |
+|       <strong><a href="xlpivottableversionlist-enumeration-excel.md" data-raw-source="[XlPivotTableVersionList Enumeration](xlpivottableversionlist-enumeration-excel.md)">XlPivotTableVersionList Enumeration</a></strong>       |
+|                               <strong><a href="xlplacement-enumeration-excel.md" data-raw-source="[XlPlacement Enumeration](xlplacement-enumeration-excel.md)">XlPlacement Enumeration</a></strong>                               |
+|                                 <strong><a href="xlplatform-enumeration-excel.md" data-raw-source="[XlPlatform Enumeration](xlplatform-enumeration-excel.md)">XlPlatform Enumeration</a></strong>                                 |
+|                 <strong><a href="xlportuguesereform-enumeration-excel.md" data-raw-source="[XlPortugueseReform Enumeration](xlportuguesereform-enumeration-excel.md)">XlPortugueseReform Enumeration</a></strong>                 |
+|                           <strong><a href="xlprinterrors-enumeration-excel.md" data-raw-source="[XlPrintErrors Enumeration](xlprinterrors-enumeration-excel.md)">XlPrintErrors Enumeration</a></strong>                           |
+|                       <strong><a href="xlprintlocation-enumeration-excel.md" data-raw-source="[XlPrintLocation Enumeration](xlprintlocation-enumeration-excel.md)">XlPrintLocation Enumeration</a></strong>                       |
+|                                 <strong><a href="xlpriority-enumeration-excel.md" data-raw-source="[XlPriority Enumeration](xlpriority-enumeration-excel.md)">XlPriority Enumeration</a></strong>                                 |
+|           <strong><a href="xlpropertydisplayedin-enumeration-excel.md" data-raw-source="[XlPropertyDisplayedIn Enumeration](xlpropertydisplayedin-enumeration-excel.md)">XlPropertyDisplayedIn Enumeration</a></strong>           |
+| <strong><a href="xlprotectedviewclosereason-enumeration-excel.md" data-raw-source="[XlProtectedViewCloseReason Enumeration](xlprotectedviewclosereason-enumeration-excel.md)">XlProtectedViewCloseReason Enumeration</a></strong> |
+| <strong><a href="xlprotectedviewwindowstate-enumeration-excel.md" data-raw-source="[XlProtectedViewWindowState Enumeration](xlprotectedviewwindowstate-enumeration-excel.md)">XlProtectedViewWindowState Enumeration</a></strong> |
+|                               <strong><a href="xlquerytype-enumeration-excel.md" data-raw-source="[XlQueryType Enumeration](xlquerytype-enumeration-excel.md)">XlQueryType Enumeration</a></strong>                               |
+|               <strong><a href="xlquickanalysismode-enumeration-excel.md" data-raw-source="[XlQuickAnalysisMode Enumeration](xlquickanalysismode-enumeration-excel.md)">XlQuickAnalysisMode Enumeration</a></strong>               |
+|                   <strong><a href="xlrangeautoformat-enumeration-excel.md" data-raw-source="[XlRangeAutoFormat Enumeration](xlrangeautoformat-enumeration-excel.md)">XlRangeAutoFormat Enumeration</a></strong>                   |
+|             <strong><a href="xlrangevaluedatatype-enumeration-excel.md" data-raw-source="[XlRangeValueDataType Enumeration](xlrangevaluedatatype-enumeration-excel.md)">XlRangeValueDataType Enumeration</a></strong>             |
+|                     <strong><a href="xlreferencestyle-enumeration-excel.md" data-raw-source="[XlReferenceStyle Enumeration](xlreferencestyle-enumeration-excel.md)">XlReferenceStyle Enumeration</a></strong>                     |
+|                       <strong><a href="xlreferencetype-enumeration-excel.md" data-raw-source="[XlReferenceType Enumeration](xlreferencetype-enumeration-excel.md)">XlReferenceType Enumeration</a></strong>                       |
+|               <strong><a href="xlremovedocinfotype-enumeration-excel.md" data-raw-source="[XlRemoveDocInfoType Enumeration](xlremovedocinfotype-enumeration-excel.md)">XlRemoveDocInfoType Enumeration</a></strong>               |
+|                                 <strong><a href="xlrgbcolor-enumeration-excel.md" data-raw-source="[XlRgbColor Enumeration](xlrgbcolor-enumeration-excel.md)">XlRgbColor Enumeration</a></strong>                                 |
+|                       <strong><a href="xlrobustconnect-enumeration-excel.md" data-raw-source="[XlRobustConnect Enumeration](xlrobustconnect-enumeration-excel.md)">XlRobustConnect Enumeration</a></strong>                       |
+|           <strong><a href="xlroutingslipdelivery-enumeration-excel.md" data-raw-source="[XlRoutingSlipDelivery Enumeration](xlroutingslipdelivery-enumeration-excel.md)">XlRoutingSlipDelivery Enumeration</a></strong>           |
+|               <strong><a href="xlroutingslipstatus-enumeration-excel.md" data-raw-source="[XlRoutingSlipStatus Enumeration](xlroutingslipstatus-enumeration-excel.md)">XlRoutingSlipStatus Enumeration</a></strong>               |
+|                                     <strong><a href="xlrowcol-enumeration-excel.md" data-raw-source="[XlRowCol Enumeration](xlrowcol-enumeration-excel.md)">XlRowCol Enumeration</a></strong>                                     |
+|                         <strong><a href="xlrunautomacro-enumeration-excel.md" data-raw-source="[XlRunAutoMacro Enumeration](xlrunautomacro-enumeration-excel.md)">XlRunAutoMacro Enumeration</a></strong>                         |
+|                             <strong><a href="xlsaveaction-enumeration-excel.md" data-raw-source="[XlSaveAction Enumeration](xlsaveaction-enumeration-excel.md)">XlSaveAction Enumeration</a></strong>                             |
+|                 <strong><a href="xlsaveasaccessmode-enumeration-excel.md" data-raw-source="[XlSaveAsAccessMode Enumeration](xlsaveasaccessmode-enumeration-excel.md)">XlSaveAsAccessMode Enumeration</a></strong>                 |
+|     <strong><a href="xlsaveconflictresolution-enumeration-excel.md" data-raw-source="[XlSaveConflictResolution Enumeration](xlsaveconflictresolution-enumeration-excel.md)">XlSaveConflictResolution Enumeration</a></strong>     |
+|                               <strong><a href="xlscaletype-enumeration-excel.md" data-raw-source="[XlScaleType Enumeration](xlscaletype-enumeration-excel.md)">XlScaleType Enumeration</a></strong>                               |
+|                   <strong><a href="xlsearchdirection-enumeration-excel.md" data-raw-source="[XlSearchDirection Enumeration](xlsearchdirection-enumeration-excel.md)">XlSearchDirection Enumeration</a></strong>                   |
+|                           <strong><a href="xlsearchorder-enumeration-excel.md" data-raw-source="[XlSearchOrder Enumeration](xlsearchorder-enumeration-excel.md)">XlSearchOrder Enumeration</a></strong>                           |
+|                         <strong><a href="xlsearchwithin-enumeration-excel.md" data-raw-source="[XlSearchWithin Enumeration](xlsearchwithin-enumeration-excel.md)">XlSearchWithin Enumeration</a></strong>                         |
+|                   <strong><a href="xlseriesnamelevel-enumeration-excel.md" data-raw-source="[XlSeriesNameLevel Enumeration](xlseriesnamelevel-enumeration-excel.md)">XlSeriesNameLevel Enumeration</a></strong>                   |
+|                               <strong><a href="xlsheettype-enumeration-excel.md" data-raw-source="[XlSheetType Enumeration](xlsheettype-enumeration-excel.md)">XlSheetType Enumeration</a></strong>                               |
+|                   <strong><a href="xlsheetvisibility-enumeration-excel.md" data-raw-source="[XlSheetVisibility Enumeration](xlsheetvisibility-enumeration-excel.md)">XlSheetVisibility Enumeration</a></strong>                   |
+|                     <strong><a href="xlsizerepresents-enumeration-excel.md" data-raw-source="[XlSizeRepresents Enumeration](xlsizerepresents-enumeration-excel.md)">XlSizeRepresents Enumeration</a></strong>                     |
+|                   <strong><a href="xlslicercachetype-enumeration-excel.md" data-raw-source="[XlSlicerCacheType Enumeration](xlslicercachetype-enumeration-excel.md)">XlSlicerCacheType Enumeration</a></strong>                   |
+|       <strong><a href="xlslicercrossfiltertype-enumeration-excel.md" data-raw-source="[XlSlicerCrossFilterType Enumeration](xlslicercrossfiltertype-enumeration-excel.md)">XlSlicerCrossFilterType Enumeration</a></strong>       |
+|                             <strong><a href="xlslicersort-enumeration-excel.md" data-raw-source="[XlSlicerSort Enumeration](xlslicersort-enumeration-excel.md)">XlSlicerSort Enumeration</a></strong>                             |
+|           <strong><a href="xlsmarttagcontroltype-enumeration-excel.md" data-raw-source="[XlSmartTagControlType Enumeration](xlsmarttagcontroltype-enumeration-excel.md)">XlSmartTagControlType Enumeration</a></strong>           |
+|           <strong><a href="xlsmarttagdisplaymode-enumeration-excel.md" data-raw-source="[XlSmartTagDisplayMode Enumeration](xlsmarttagdisplaymode-enumeration-excel.md)">XlSmartTagDisplayMode Enumeration</a></strong>           |
+|                     <strong><a href="xlsortdataoption-enumeration-excel.md" data-raw-source="[XlSortDataOption Enumeration](xlsortdataoption-enumeration-excel.md)">XlSortDataOption Enumeration</a></strong>                     |
+|                             <strong><a href="xlsortmethod-enumeration-excel.md" data-raw-source="[XlSortMethod Enumeration](xlsortmethod-enumeration-excel.md)">XlSortMethod Enumeration</a></strong>                             |
+|                       <strong><a href="xlsortmethodold-enumeration-excel.md" data-raw-source="[XlSortMethodOld Enumeration](xlsortmethodold-enumeration-excel.md)">XlSortMethodOld Enumeration</a></strong>                       |
+|                                     <strong><a href="xlsorton-enumeration-excel.md" data-raw-source="[XlSortOn Enumeration](xlsorton-enumeration-excel.md)">XlSortOn Enumeration</a></strong>                                     |
+|                               <strong><a href="xlsortorder-enumeration-excel.md" data-raw-source="[XlSortOrder Enumeration](xlsortorder-enumeration-excel.md)">XlSortOrder Enumeration</a></strong>                               |
+|                   <strong><a href="xlsortorientation-enumeration-excel.md" data-raw-source="[XlSortOrientation Enumeration](xlsortorientation-enumeration-excel.md)">XlSortOrientation Enumeration</a></strong>                   |
+|                                 <strong><a href="xlsorttype-enumeration-excel.md" data-raw-source="[XlSortType Enumeration](xlsorttype-enumeration-excel.md)">XlSortType Enumeration</a></strong>                                 |
+|                             <strong><a href="xlsourcetype-enumeration-excel.md" data-raw-source="[XlSourceType Enumeration](xlsourcetype-enumeration-excel.md)">XlSourceType Enumeration</a></strong>                             |
+|                         <strong><a href="xlspanishmodes-enumeration-excel.md" data-raw-source="[XlSpanishModes Enumeration](xlspanishmodes-enumeration-excel.md)">XlSpanishModes Enumeration</a></strong>                         |
+|                             <strong><a href="xlsparkscale-enumeration-excel.md" data-raw-source="[XlSparkScale Enumeration](xlsparkscale-enumeration-excel.md)">XlSparkScale Enumeration</a></strong>                             |
+|                               <strong><a href="xlsparktype-enumeration-excel.md" data-raw-source="[XlSparkType Enumeration](xlsparktype-enumeration-excel.md)">XlSparkType Enumeration</a></strong>                               |
+|                   <strong><a href="xlsparklinerowcol-enumeration-excel.md" data-raw-source="[XlSparklineRowCol Enumeration](xlsparklinerowcol-enumeration-excel.md)">XlSparklineRowCol Enumeration</a></strong>                   |
+|                     <strong><a href="xlspeakdirection-enumeration-excel.md" data-raw-source="[XlSpeakDirection Enumeration](xlspeakdirection-enumeration-excel.md)">XlSpeakDirection Enumeration</a></strong>                     |
+|               <strong><a href="xlspecialcellsvalue-enumeration-excel.md" data-raw-source="[XlSpecialCellsValue Enumeration](xlspecialcellsvalue-enumeration-excel.md)">XlSpecialCellsValue Enumeration</a></strong>               |
+|                       <strong><a href="xlstdcolorscale-enumeration-excel.md" data-raw-source="[XlStdColorScale Enumeration](xlstdcolorscale-enumeration-excel.md)">XlStdColorScale Enumeration</a></strong>                       |
+|               <strong><a href="xlsubscribetoformat-enumeration-excel.md" data-raw-source="[XlSubscribeToFormat Enumeration](xlsubscribetoformat-enumeration-excel.md)">XlSubscribeToFormat Enumeration</a></strong>               |
+|     <strong><a href="xlsubtototallocationtype-enumeration-excel.md" data-raw-source="[XlSubtototalLocationType Enumeration](xlsubtototallocationtype-enumeration-excel.md)">XlSubtototalLocationType Enumeration</a></strong>     |
+|                       <strong><a href="xlsummarycolumn-enumeration-excel.md" data-raw-source="[XlSummaryColumn Enumeration](xlsummarycolumn-enumeration-excel.md)">XlSummaryColumn Enumeration</a></strong>                       |
+|               <strong><a href="xlsummaryreporttype-enumeration-excel.md" data-raw-source="[XlSummaryReportType Enumeration](xlsummaryreporttype-enumeration-excel.md)">XlSummaryReportType Enumeration</a></strong>               |
+|                             <strong><a href="xlsummaryrow-enumeration-excel.md" data-raw-source="[XlSummaryRow Enumeration](xlsummaryrow-enumeration-excel.md)">XlSummaryRow Enumeration</a></strong>                             |
+|                           <strong><a href="xltabposition-enumeration-excel.md" data-raw-source="[XlTabPosition Enumeration](xltabposition-enumeration-excel.md)">XlTabPosition Enumeration</a></strong>                           |
+|       <strong><a href="xltablestyleelementtype-enumeration-excel.md" data-raw-source="[XlTableStyleElementType Enumeration](xltablestyleelementtype-enumeration-excel.md)">XlTableStyleElementType Enumeration</a></strong>       |
+|                   <strong><a href="xltextparsingtype-enumeration-excel.md" data-raw-source="[XlTextParsingType Enumeration](xltextparsingtype-enumeration-excel.md)">XlTextParsingType Enumeration</a></strong>                   |
+|                       <strong><a href="xltextqualifier-enumeration-excel.md" data-raw-source="[XlTextQualifier Enumeration](xltextqualifier-enumeration-excel.md)">XlTextQualifier Enumeration</a></strong>                       |
+|         <strong><a href="xltextvisuallayouttype-enumeration-excel.md" data-raw-source="[XlTextVisualLayoutType Enumeration](xltextvisuallayouttype-enumeration-excel.md)">XlTextVisualLayoutType Enumeration</a></strong>         |
+|                             <strong><a href="xlthemecolor-enumeration-excel.md" data-raw-source="[XlThemeColor Enumeration](xlthemecolor-enumeration-excel.md)">XlThemeColor Enumeration</a></strong>                             |
+|                               <strong><a href="xlthemefont-enumeration-excel.md" data-raw-source="[XlThemeFont Enumeration](xlthemefont-enumeration-excel.md)">XlThemeFont Enumeration</a></strong>                               |
+|                             <strong><a href="xlthreadmode-enumeration-excel.md" data-raw-source="[XlThreadMode Enumeration](xlthreadmode-enumeration-excel.md)">XlThreadMode Enumeration</a></strong>                             |
+|         <strong><a href="xlticklabelorientation-enumeration-excel.md" data-raw-source="[XlTickLabelOrientation Enumeration](xlticklabelorientation-enumeration-excel.md)">XlTickLabelOrientation Enumeration</a></strong>         |
+|               <strong><a href="xlticklabelposition-enumeration-excel.md" data-raw-source="[XlTickLabelPosition Enumeration](xlticklabelposition-enumeration-excel.md)">XlTickLabelPosition Enumeration</a></strong>               |
+|                                 <strong><a href="xltickmark-enumeration-excel.md" data-raw-source="[XlTickMark Enumeration](xltickmark-enumeration-excel.md)">XlTickMark Enumeration</a></strong>                                 |
+|                           <strong><a href="xltimeperiods-enumeration-excel.md" data-raw-source="[XlTimePeriods Enumeration](xltimeperiods-enumeration-excel.md)">XlTimePeriods Enumeration</a></strong>                           |
+|                                 <strong><a href="xltimeunit-enumeration-excel.md" data-raw-source="[XlTimeUnit Enumeration](xltimeunit-enumeration-excel.md)">XlTimeUnit Enumeration</a></strong>                                 |
+|                       <strong><a href="xltimelinelevel-enumeration-excel.md" data-raw-source="[XlTimelineLevel Enumeration](xltimelinelevel-enumeration-excel.md)">XlTimelineLevel Enumeration</a></strong>                       |
+|               <strong><a href="xltoolbarprotection-enumeration-excel.md" data-raw-source="[XlToolbarProtection Enumeration](xltoolbarprotection-enumeration-excel.md)">XlToolbarProtection Enumeration</a></strong>               |
+|                               <strong><a href="xltopbottom-enumeration-excel.md" data-raw-source="[XlTopBottom Enumeration](xltopbottom-enumeration-excel.md)">XlTopBottom Enumeration</a></strong>                               |
+|               <strong><a href="xltotalscalculation-enumeration-excel.md" data-raw-source="[XlTotalsCalculation Enumeration](xltotalscalculation-enumeration-excel.md)">XlTotalsCalculation Enumeration</a></strong>               |
+|                       <strong><a href="xltrendlinetype-enumeration-excel.md" data-raw-source="[XlTrendlineType Enumeration](xltrendlinetype-enumeration-excel.md)">XlTrendlineType Enumeration</a></strong>                       |
+|                     <strong><a href="xlunderlinestyle-enumeration-excel.md" data-raw-source="[XlUnderlineStyle Enumeration](xlunderlinestyle-enumeration-excel.md)">XlUnderlineStyle Enumeration</a></strong>                     |
+|                           <strong><a href="xlupdatelinks-enumeration-excel.md" data-raw-source="[XlUpdateLinks Enumeration](xlupdatelinks-enumeration-excel.md)">XlUpdateLinks Enumeration</a></strong>                           |
+|                                     <strong><a href="xlvalign-enumeration-excel.md" data-raw-source="[XlVAlign Enumeration](xlvalign-enumeration-excel.md)">XlVAlign Enumeration</a></strong>                                     |
+|                           <strong><a href="xlwbatemplate-enumeration-excel.md" data-raw-source="[XlWBATemplate Enumeration](xlwbatemplate-enumeration-excel.md)">XlWBATemplate Enumeration</a></strong>                           |
+|                       <strong><a href="xlwebformatting-enumeration-excel.md" data-raw-source="[XlWebFormatting Enumeration](xlwebformatting-enumeration-excel.md)">XlWebFormatting Enumeration</a></strong>                       |
+|                 <strong><a href="xlwebselectiontype-enumeration-excel.md" data-raw-source="[XlWebSelectionType Enumeration](xlwebselectiontype-enumeration-excel.md)">XlWebSelectionType Enumeration</a></strong>                 |
+|                           <strong><a href="xlwindowstate-enumeration-excel.md" data-raw-source="[XlWindowState Enumeration](xlwindowstate-enumeration-excel.md)">XlWindowState Enumeration</a></strong>                           |
+|                             <strong><a href="xlwindowtype-enumeration-excel.md" data-raw-source="[XlWindowType Enumeration](xlwindowtype-enumeration-excel.md)">XlWindowType Enumeration</a></strong>                             |
+|                             <strong><a href="xlwindowview-enumeration-excel.md" data-raw-source="[XlWindowView Enumeration](xlwindowview-enumeration-excel.md)">XlWindowView Enumeration</a></strong>                             |
+|                         <strong><a href="xlxlmmacrotype-enumeration-excel.md" data-raw-source="[XlXLMMacroType Enumeration](xlxlmmacrotype-enumeration-excel.md)">XlXLMMacroType Enumeration</a></strong>                         |
+|                   <strong><a href="xlxmlexportresult-enumeration-excel.md" data-raw-source="[XlXmlExportResult Enumeration](xlxmlexportresult-enumeration-excel.md)">XlXmlExportResult Enumeration</a></strong>                   |
+|                   <strong><a href="xlxmlimportresult-enumeration-excel.md" data-raw-source="[XlXmlImportResult Enumeration](xlxmlimportresult-enumeration-excel.md)">XlXmlImportResult Enumeration</a></strong>                   |
+|                       <strong><a href="xlxmlloadoption-enumeration-excel.md" data-raw-source="[XlXmlLoadOption Enumeration](xlxmlloadoption-enumeration-excel.md)">XlXmlLoadOption Enumeration</a></strong>                       |
+|                             <strong><a href="xlyesnoguess-enumeration-excel.md" data-raw-source="[XlYesNoGuess Enumeration](xlyesnoguess-enumeration-excel.md)">XlYesNoGuess Enumeration</a></strong>                             |
+

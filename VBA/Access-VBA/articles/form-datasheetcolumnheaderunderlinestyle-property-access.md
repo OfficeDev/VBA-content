@@ -48,7 +48,6 @@ This example sets the column header underline style for the first open form to s
 
 ```vb
 Forms(0).DatasheetColumnHeaderUnderlineStyle = 5 
-
 ```
 
 

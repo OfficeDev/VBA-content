@@ -39,20 +39,33 @@ The  **Format** property value can be one of these **PpDateTimeFormat** constant
 
 ||
 |:-----|
-|**ppDateTimeddddMMMMddyyyy**|
-|**ppDateTimedMMMMyyyy**|
-|**ppDateTimedMMMyy**|
-|**ppDateTimeFormatMixed**|
-|**ppDateTimeHmm**|
-|**ppDateTimehmmAMPM**|
-|**ppDateTimeHmmss**|
-|**ppDateTimehmmssAMPM**|
-|**ppDateTimeMdyy**|
-|**ppDateTimeMMddyyHmm**|
-|**ppDateTimeMMddyyhmmAMPM**|
-|**ppDateTimeMMMMdyyyy**|
-|**ppDateTimeMMMMyy**|
-|**ppDateTimeMMyy**|
+|<strong>ppDateTimeddddMMMMddyyyy</strong>|
+|
+<strong>ppDateTimedMMMMyyyy</strong>|
+|
+<strong>ppDateTimedMMMyy</strong>|
+|
+<strong>ppDateTimeFormatMixed</strong>|
+|
+<strong>ppDateTimeHmm</strong>|
+|
+<strong>ppDateTimehmmAMPM</strong>|
+|
+<strong>ppDateTimeHmmss</strong>|
+|
+<strong>ppDateTimehmmssAMPM</strong>|
+|
+<strong>ppDateTimeMdyy</strong>|
+|
+<strong>ppDateTimeMMddyyHmm</strong>|
+|
+<strong>ppDateTimeMMddyyhmmAMPM</strong>|
+|
+<strong>ppDateTimeMMMMdyyyy</strong>|
+|
+<strong>ppDateTimeMMMMyy</strong>|
+|
+<strong>ppDateTimeMMyy</strong>|
 
 ## Example
 

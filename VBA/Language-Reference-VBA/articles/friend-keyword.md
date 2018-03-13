@@ -28,15 +28,14 @@ When placed in a class module, the following code makes the member variable dblB
 
 ```vb
 Private dblBalance As Double 
- 
+
 Public Property Get Balance() As Double 
  Balance = dblBalance 
 End Property 
- 
+
 Friend Property Let Balance(dblNewBalance As Double) 
  dblBalance = dblNewBalance 
 End Property 
-
 ```
 
 

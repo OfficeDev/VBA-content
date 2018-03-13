@@ -22,20 +22,22 @@ Controls access by other processes to all or part of a file opened using the  **
 The  **Lock** and **Unlock** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _filenumber_|Required. Any valid [file number](vbe-glossary.md).|
-| _recordrange_|Optional. The range of records to lock or unlock.|
+| <strong>Part</strong> | <strong>Description</strong>                        |
+|:----------------------|:----------------------------------------------------|
+| <em>filenumber</em>   | Required. Any valid [file number](vbe-glossary.md). |
+| <em>recordrange</em>  | Optional. The range of records to lock or unlock.   |
+
  **Settings**
 The  _recordrange_[argument](vbe-glossary.md) settings are:
  _recnumber_ | [ _start_ ] **To**_end_
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-| _recnumber_|Record number ( **Random** mode files) or byte number ( **Binary** mode files) at which locking or unlocking begins.|
-| _start_|Number of the first record or byte to lock or unlock.|
-| _end_|Number of the last record or byte to lock or unlock.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                                                                   |
+|:-------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>recnumber</em>       | Record number ( <strong>Random</strong> mode files) or byte number ( <strong>Binary</strong> mode files) at which locking or unlocking begins. |
+| <em>start</em>           | Number of the first record or byte to lock or unlock.                                                                                          |
+| <em>end</em>             | Number of the last record or byte to lock or unlock.                                                                                           |
+
  **Remarks**
 The  **Lock** and **Unlock** statements are used in environments where several processes might need access to the same file.
  **Lock** and **Unlock** statements are always used in pairs. The arguments to **Lock** and **Unlock** must match exactly.
@@ -55,7 +57,7 @@ Type Record    ' Define user-defined type.
     ID As Integer 
     Name As String * 20 
 End Type 
- 
+
 Dim MyRecord As Record, RecordNumber    ' Declare variables. 
 ' Open sample file for random access. 
 Open "TESTFILE" For Random Shared As #1 Len = Len(MyRecord) 
@@ -67,7 +69,6 @@ MyRecord.Name = "John Smith"
 Put #1, RecordNumber, MyRecord    ' Write modified record. 
 Unlock #1, RecordNumber    ' Unlock current record. 
 Close #1    ' Close file. 
-
 ```
 
 

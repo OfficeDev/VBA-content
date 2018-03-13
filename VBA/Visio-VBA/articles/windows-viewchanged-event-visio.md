@@ -18,7 +18,7 @@ Occurs when the zoom level or scroll position of a drawing window changes.
 
 ## Syntax
 
-Private Sub  _expression_ _**ViewChanged**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>ViewChanged</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents a **Windows** object.
 

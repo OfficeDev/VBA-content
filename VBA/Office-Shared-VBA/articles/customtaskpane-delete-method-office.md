@@ -33,7 +33,7 @@ public class Connect : Object, Extensibility.IDTExtensibility2, ICustomTaskPaneC
 ... 
 object missing = Type.Missing; 
 public CustomTaskPane CTP = null; 
- 
+
 public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst) 
 { 
  CTP = CTPFactoryInst.CreateCTP("SampleActiveX.myControl", "Task Pane Example", missing); 
@@ -42,7 +42,6 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
  CTP.Visible = true; 
 } 
 ... 
-
 ```
 
 

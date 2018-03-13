@@ -19,26 +19,28 @@ Returns a  **Variant** ( **String** ) converted as specified.
 The  **StrConv** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_string_**|Required. [String expression](vbe-glossary.md) to be converted.|
-|**_conversion_**|Required. [Integer](vbe-glossary.md). The sum of values specifying the type of conversion to perform.|
-|**_LCID_**|Optional. The LocaleID, if different than the system LocaleID. (The system LocaleID is the default.)|
+| <strong>Part</strong>                | <strong>Description</strong>                                                                          |
+|:-------------------------------------|:------------------------------------------------------------------------------------------------------|
+| <strong><em>string</em></strong>     | Required. [String expression](vbe-glossary.md) to be converted.                                       |
+| <strong><em>conversion</em></strong> | Required. [Integer](vbe-glossary.md). The sum of values specifying the type of conversion to perform. |
+| <strong><em>LCID</em></strong>       | Optional. The LocaleID, if different than the system LocaleID. (The system LocaleID is the default.)  |
+
  **Settings**
 The  **_conversion_**[argument](vbe-glossary.md) settings are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**vbUpperCase**|1|Converts the string to uppercase characters.|
-|**vbLowerCase**|2|Converts the string to lowercase characters.|
-|**vbProperCase**|3|Converts the first letter of every word in string to uppercase.|
-|**vbWide***|4*|Converts narrow (single-byte) characters in string to wide (double-byte) characters.|
-|**vbNarrow***|8*|Converts wide (double-byte) characters in string to narrow (single-byte) characters.|
-|**vbKatakana****|16**|Converts Hiragana characters in string to Katakana characters.|
-|**vbHiragana****|32**|Converts Katakana characters in string to Hiragana characters.|
-|**vbUnicode**|64|Converts the string to [Unicode](vbe-glossary.md) using the default code page of the system. (Not available on the Macintosh.)|
-|**vbFromUnicode**|128|Converts the string from Unicode to the default code page of the system. (Not available on the Macintosh.)|
+| <strong>Constant</strong>      | <strong>Value</strong> | <strong>Description</strong>                                                                                                   |
+|:-------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| <strong>vbUpperCase</strong>   | 1                      | Converts the string to uppercase characters.                                                                                   |
+| <strong>vbLowerCase</strong>   | 2                      | Converts the string to lowercase characters.                                                                                   |
+| <strong>vbProperCase</strong>  | 3                      | Converts the first letter of every word in string to uppercase.                                                                |
+| <strong>vbWide</strong>*       | 4*                     | Converts narrow (single-byte) characters in string to wide (double-byte) characters.                                           |
+| <strong>vbNarrow</strong>*     | 8*                     | Converts wide (double-byte) characters in string to narrow (single-byte) characters.                                           |
+| <strong>vbKatakana</strong>**  | 16**                   | Converts Hiragana characters in string to Katakana characters.                                                                 |
+| <strong>vbHiragana</strong>**  | 32**                   | Converts Katakana characters in string to Hiragana characters.                                                                 |
+| <strong>vbUnicode</strong>     | 64                     | Converts the string to [Unicode](vbe-glossary.md) using the default code page of the system. (Not available on the Macintosh.) |
+| <strong>vbFromUnicode</strong> | 128                    | Converts the string from Unicode to the default code page of the system. (Not available on the Macintosh.)                     |
+
 *Applies to East Asia locales.
 **Applies to Japan only.
 
@@ -60,7 +62,6 @@ x = StrConv("ABCDEFG", vbFromUnicode)    ' Convert string.
 For i = 0 To UBound(x)
     Debug.Print x(i)
 Next
-
 ```
 
 

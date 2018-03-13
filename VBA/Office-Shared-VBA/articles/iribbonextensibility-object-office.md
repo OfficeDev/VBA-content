@@ -35,7 +35,6 @@ public string GetCustomUI(string RibbonID)
  string customUIData = customUIReader.ReadToEnd(); 
  return customUIData; 
 } 
-
 ```
 
 

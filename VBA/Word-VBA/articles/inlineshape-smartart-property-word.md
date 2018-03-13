@@ -37,11 +37,10 @@ The following code example adds a SmartArt graphic to the active document.
 Dim myDoc As Document 
 Dim myInlineShape As InlineShape 
 Dim mySmartArt As SmartArt 
- 
+
 Set myDoc = ActiveDocument 
 Set myInlineShape = myDoc.InlineShapes.AddSmartArt(Application.SmartArtLayouts(2), myDoc.Paragraphs(2).Range) 
 Set mySmartArt = myShape.SmartArt 
-
 ```
 
 

@@ -40,7 +40,6 @@ The following example searches all command bars for a CommandBarPopup object who
 Set myControl = Application.CommandBars.FindControl _ 
 (Type:=msoControlPopup, Tag:="Graphics")  
 myControl.Reset 
-
 ```
 
 

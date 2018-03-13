@@ -21,20 +21,22 @@ Branch to one of several specified lines, depending on the value of an [expressi
 The  **On...GoSub** and **On...GoTo** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _expression_|Required. Any [numeric expression](vbe-glossary.md) that evaluates to a whole number between 0 and 255, inclusive. If _expression_ is any number other than a whole number, it is rounded before it is evaluated.|
-| _destinationlist_|Required. List of [line numbers](vbe-glossary.md) or[line labels](vbe-glossary.md) separated by commas.|
+| <strong>Part</strong>    | <strong>Description</strong>                                                                                                                                                                                             |
+|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>expression</em>      | Required. Any [numeric expression](vbe-glossary.md) that evaluates to a whole number between 0 and 255, inclusive. If <em>expression</em> is any number other than a whole number, it is rounded before it is evaluated. |
+| <em>destinationlist</em> | Required. List of [line numbers](vbe-glossary.md) or[line labels](vbe-glossary.md) separated by commas.                                                                                                                  |
+
  **Remarks**
 The value of  _expression_ determines which line is branched to in _destinationlist_. If the value of _expression_ is less than 1 or greater than the number of items in the list, one of the following results occurs:
 
 
-|**If  _expression_ is**|**Then**|
-|:-----|:-----|
-|Equal to 0|Control drops to the [statement](vbe-glossary.md) following **On...GoSub** or **On...GoTo**.|
-|Greater than number of items in list|Control drops to the statement following  **On...GoSub** or **On...GoTo**.|
-|Negative|An error occurs.|
-|Greater than 255|An error occurs.|
+| <strong>If  <em>expression</em> is</strong> | <strong>Then</strong>                                                                                                  |
+|:--------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Equal to 0                                  | Control drops to the [statement](vbe-glossary.md) following <strong>On...GoSub</strong> or <strong>On...GoTo</strong>. |
+| Greater than number of items in list        | Control drops to the statement following  <strong>On...GoSub</strong> or <strong>On...GoTo</strong>.                   |
+| Negative                                    | An error occurs.                                                                                                       |
+| Greater than 255                            | An error occurs.                                                                                                       |
+
 You can mix line numbers and line labels in the same list. You can use as many line labels and line numbers as you like with  **On...GoSub** and **On...GoTo**. However, if you use more labels or numbers than fit on a single line, you must use the[line-continuation character](vbe-glossary.md) to continue the logical line onto the next physical line.
 
  **Tip**   **Select Case** provides a more structured and flexible way to perform multiple branching.

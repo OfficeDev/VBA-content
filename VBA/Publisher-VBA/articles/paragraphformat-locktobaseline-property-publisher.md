@@ -50,7 +50,6 @@ Dim objParaForm As ParagraphFormat
 Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _ 
  .TextFrame.TextRange.ParagraphFormat 
 objParaForm.LockToBaseLine = msoTrue 
-
 ```
 
 

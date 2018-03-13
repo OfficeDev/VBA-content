@@ -29,10 +29,11 @@ The  **PictureTiling** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
-|:-----|:-----|:-----|
-|Yes|**True**|The picture is tiled.|
-|No|**False**|(Default) The picture isn't tiled.|
+| <strong>Setting</strong> | <strong>Visual Basic</strong> | <strong>Description</strong>       |
+|:-------------------------|:------------------------------|:-----------------------------------|
+| Yes                      | <strong>True</strong>         | The picture is tiled.              |
+| No                       | <strong>False</strong>        | (Default) The picture isn't tiled. |
+
 You can also set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 You can create interesting effects by placing a picture on a form or report and setting the  **PictureTiling** property to Yes. The alignment of the tiled images is affected by the **PictureAlignment** property setting. For example, if the **PictureTiling** property is set to Top Left, tiling begins at the top left of the image control, Form window, or page of a report.

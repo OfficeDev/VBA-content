@@ -33,7 +33,7 @@ While this property appears in the property sheet, it takes effect only after th
 
 You can use the  **SourceDoc** property to specify the file to create a link to and the control's **SourceItem** property to specify the data within that file. If you want to create a link to the entire object, leave the **SourceItem** property blank.
 
-When a linked unbound object is created, the control's  **SourceItem** property setting is concatenated with its **SourceItem** property setting. In Form view, Datasheet view, and Print Preview, the control's **SourceItem** property setting is a zero-length string (" "), and its **SourceDoc** property setting is the full path to the linked file, followed by an exclamation point (!) or a backslash ( **\** ) and the **SourceItem** property setting, as in the following example:
+When a linked unbound object is created, the control's  <strong>SourceItem</strong> property setting is concatenated with its <strong>SourceItem</strong> property setting. In Form view, Datasheet view, and Print Preview, the control's <strong>SourceItem</strong> property setting is a zero-length string (" "), and its <strong>SourceDoc</strong> property setting is the full path to the linked file, followed by an exclamation point (!) or a backslash ( <strong>\</strong> ) and the <strong>SourceItem</strong> property setting, as in the following example:
 
 
 

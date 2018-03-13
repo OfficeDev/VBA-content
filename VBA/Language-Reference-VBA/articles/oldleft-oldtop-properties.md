@@ -20,9 +20,10 @@ Returns the distance, in [points](vbe-glossary.md), between the previous positio
 The  **OldLeft** and **OldTop** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
+| <strong>Part</strong> | <strong>Description</strong> |
+|:----------------------|:-----------------------------|
+| <em>object</em>       | Required. A valid object.    |
+
  **Remarks**
  **OldLeft** and **OldTop** are read-only.
 The  **OldLeft** and **OldTop** properties are automatically updated when you move or size a control. If you move a control, the **Left** and **Top** properties store the new distance from the control to the left edge of its[container](vbe-glossary.md) and **OldLeft** and **OldTop** store the previous value of **Left**.

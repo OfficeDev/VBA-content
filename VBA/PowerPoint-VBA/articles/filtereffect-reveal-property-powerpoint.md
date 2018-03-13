@@ -37,8 +37,9 @@ The value of the  **Reveal** property can be one of these **MsoTriState** consta
 
 ||
 |:-----|
-|**msoFalse**|
-|**msoTrue**|
+|<strong>msoFalse</strong>|
+|
+<strong>msoTrue</strong>|
 
 ## Example
 

@@ -45,10 +45,11 @@ The  _Flags_ argument is a bitmask that should be a combination of the following
 
 
 
-|**Constant **|**Value **|**Description **|
-|:-----|:-----|:-----|
-| **visInsertLink**|&;H8|If set, the new shape represents an OLE link to the named file. Otherwise, the  **InsertFromFile** method produces an OLE object from the contents of the named file and embeds it in the document that contains the page, master, or group.|
-| **visInsertIcon**|&;H10|Displays the new shape as an icon.|
+| **Constant **                  | **Value ** | **Description **                                                                                                                                                                                                                                          |
+|:-------------------------------|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>visInsertLink</strong> | &;H8       | If set, the new shape represents an OLE link to the named file. Otherwise, the  <strong>InsertFromFile</strong> method produces an OLE object from the contents of the named file and embeds it in the document that contains the page, master, or group. |
+| <strong>visInsertIcon</strong> | &;H10      | Displays the new shape as an icon.                                                                                                                                                                                                                        |
+
  **Security** Use caution when you are adding ActiveX controls to your application. ActiveX controls may be designed in such a way that their use could pose a security risk. We recommend that you use controls from trusted sources only.
 
 

@@ -35,9 +35,11 @@ The value returned by the  **HorizontalAnchor** property can be one of these **M
 
 ||
 |:-----|
-|**msoAnchorNone**|
-|**msoHorizontalAnchorMixed**|
-|**msoAnchorCenter**|
+|<strong>msoAnchorNone</strong>|
+|
+<strong>msoHorizontalAnchorMixed</strong>|
+|
+<strong>msoAnchorCenter</strong>|
 
 ## Example
 

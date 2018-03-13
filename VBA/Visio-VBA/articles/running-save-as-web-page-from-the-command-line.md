@@ -16,21 +16,21 @@ You can choose either of the following techniques:
 
 
 - Create a formula that uses the RUNADDONWARGS function in a shape's event section. 
-    
+
     You can do this in the ShapeSheet window without writing any code. For example, you could create a shape and insert a call to RUNADDONWARGS in the shape's double-click event. A user would need only to double-click the shape to create a Web page from the drawing. You can also use Automation to set formulas by using the  **Formula** property of the **Cell** object of the Visio object model.
-    
+
     For details about the RUNADDONWARGS function,  **Cell** object, or **Formula** property, see the Visio Developer Reference (click **Help**, click  **Search**, and then click  **Developer Reference**). 
-    
+
     For more details about using the RUNADDONWARGS function with Save as Web Page, see "Using the RUNADDONWARGS function" later in this topic.
-    
+
 - Write a Visual Basic macro in Visio (or write code in a separate component) that launches the SaveAsWeb add-on by using the Visio Automation object model. You can use the  **Run** method of the **Addon** object and pass the command-line parameters to specify the properties of the Web page.
-    
+
     Using this technique may mean that you would write less code than if you used the Save as Web Page object model to specify parameters, but using the Run method requires familiarity with command-line parameters.
-    
+
     For details about the  **Addon** object or **Run** method, see the Visio Developer Reference (click **Help**, click  **Search**, and then click  **Developer Reference**). 
-    
+
     For more details about using the  **Run** method to call Save as Web Page, see "Calling the **Run** method of the SaveAsWeb add-on" later in this topic.
-    
+
 
 ## Save as Web Page command-line options
 
@@ -42,26 +42,27 @@ The following table lists the command-line options for the Save as Web Page comm
 
 
 
-|**Option**|**Default**|**Value type**|**Method/Property name**|
-|:-----|:-----|:-----|:-----|
-|target|None. You must supply a target value or Visio will generate an error.|Text| [TargetPath](viswebpagesettings-targetpath-property-visio-save-as-web.md)|
-|pagetitle|Same as document file name|Text| [PageTitle](viswebpagesettings-pagetitle-property-visio-save-as-web.md)|
-|prop|TRUE|Boolean| [PropControl](viswebpagesettings-propcontrol-property-visio-save-as-web.md)|
-|altformat|TRUE|Boolean| [AltFormat](viswebpagesettings-altformat-property-visio-save-as-web.md)|
-|folder|TRUE|Boolean| [StoreInFolder](viswebpagesettings-storeinfolder-property-visio-save-as-web.md)|
-|theme|Null|Text| [ThemeName](viswebpagesettings-themename-property-visio-save-as-web.md)|
-|startpage|-1 (all pages)|Number| [StartPage](viswebpagesettings-startpage-property-visio-save-as-web.md)|
-|endpage|-1 (all pages)|Number| [EndPage](viswebpagesettings-endpage-property-visio-save-as-web.md)|
-|openbrowser|TRUE|Boolean| [OpenBrowser](viswebpagesettings-openbrowser-property-visio-save-as-web.md)|
-|screenres|1024x768|Text/Number1| [DispScreenRes](viswebpagesettings-dispscreenres-property-visio-save-as-web.md)|
-|priformat|XAML|Text/Number1| [PriFormat](viswebpagesettings-priformat-property-visio-save-as-web.md)|
-|secformat|PNG|Text/Number1| [SecFormat](viswebpagesettings-secformat-property-visio-save-as-web.md)|
-|silent|FALSE|Boolean| [SilentMode](viswebpagesettings-silentmode-property-visio-save-as-web.md)|
-|quiet|FALSE|Boolean| [QuietMode](viswebpagesettings-quietmode-property-visio-save-as-web.md)|
-|stylesheet|\ _your_Visio_path\your_language_ID_\Default.css|Text| [Stylesheet](viswebpagesettings-stylesheet-property-visio-save-as-web.md)|
-|navbar|TRUE|Boolean| [NavBar](viswebpagesettings-navbar-property-visio-save-as-web.md)|
-|search|TRUE|Boolean| [Search](viswebpagesettings-search-property-visio-save-as-web.md)|
-|panzoom|TRUE|Boolean| [PanAndZoom](viswebpagesettings-panandzoom-property-visio-save-as-web.md)|
+| <strong>Option</strong> | <strong>Default</strong>                                              | <strong>Value type</strong> | <strong>Method/Property name</strong>                                           |
+|:------------------------|:----------------------------------------------------------------------|:----------------------------|:--------------------------------------------------------------------------------|
+| target                  | None. You must supply a target value or Visio will generate an error. | Text                        | [TargetPath](viswebpagesettings-targetpath-property-visio-save-as-web.md)       |
+| pagetitle               | Same as document file name                                            | Text                        | [PageTitle](viswebpagesettings-pagetitle-property-visio-save-as-web.md)         |
+| prop                    | TRUE                                                                  | Boolean                     | [PropControl](viswebpagesettings-propcontrol-property-visio-save-as-web.md)     |
+| altformat               | TRUE                                                                  | Boolean                     | [AltFormat](viswebpagesettings-altformat-property-visio-save-as-web.md)         |
+| folder                  | TRUE                                                                  | Boolean                     | [StoreInFolder](viswebpagesettings-storeinfolder-property-visio-save-as-web.md) |
+| theme                   | Null                                                                  | Text                        | [ThemeName](viswebpagesettings-themename-property-visio-save-as-web.md)         |
+| startpage               | -1 (all pages)                                                        | Number                      | [StartPage](viswebpagesettings-startpage-property-visio-save-as-web.md)         |
+| endpage                 | -1 (all pages)                                                        | Number                      | [EndPage](viswebpagesettings-endpage-property-visio-save-as-web.md)             |
+| openbrowser             | TRUE                                                                  | Boolean                     | [OpenBrowser](viswebpagesettings-openbrowser-property-visio-save-as-web.md)     |
+| screenres               | 1024x768                                                              | Text/Number1                | [DispScreenRes](viswebpagesettings-dispscreenres-property-visio-save-as-web.md) |
+| priformat               | XAML                                                                  | Text/Number1                | [PriFormat](viswebpagesettings-priformat-property-visio-save-as-web.md)         |
+| secformat               | PNG                                                                   | Text/Number1                | [SecFormat](viswebpagesettings-secformat-property-visio-save-as-web.md)         |
+| silent                  | FALSE                                                                 | Boolean                     | [SilentMode](viswebpagesettings-silentmode-property-visio-save-as-web.md)       |
+| quiet                   | FALSE                                                                 | Boolean                     | [QuietMode](viswebpagesettings-quietmode-property-visio-save-as-web.md)         |
+| stylesheet              | \ <em>your_Visio_path\your_language_ID</em>\Default.css               | Text                        | [Stylesheet](viswebpagesettings-stylesheet-property-visio-save-as-web.md)       |
+| navbar                  | TRUE                                                                  | Boolean                     | [NavBar](viswebpagesettings-navbar-property-visio-save-as-web.md)               |
+| search                  | TRUE                                                                  | Boolean                     | [Search](viswebpagesettings-search-property-visio-save-as-web.md)               |
+| panzoom                 | TRUE                                                                  | Boolean                     | [PanAndZoom](viswebpagesettings-panandzoom-property-visio-save-as-web.md)       |
+
 1For the text/number value type, the user may specify text such as  _vml_ for the output type, or a number (for example, 1) representing the index of this output type. Each output type will have its own unique index. For **screenres**, text and number values are defined by the  [VISWEB_DISP_RES](visweb_disp_res-enumeration-visio-save-as-web.md) enumeration.
 
 

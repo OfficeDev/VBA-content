@@ -30,19 +30,31 @@ Returns or sets a Long value that represents the series type.
 
 
 |The following constants can be used for this property.|
-| **xlColumn**|
-| **xlBar**|
-| **xl3DBar**|
-| **xlLine**|
-| **xlPie**|
-| **xlXYScatter**|
-| **xlArea**|
-| **xl3DArea**|
-| **xlDoughnut**|
-| **xlRadar**|
-| **xl3DSurface**|
-| **xl3DColumn**|
-| **xl3DBar**|
+| <strong>xlColumn</strong>|
+| 
+<strong>xlBar</strong>|
+| 
+<strong>xl3DBar</strong>|
+| 
+<strong>xlLine</strong>|
+| 
+<strong>xlPie</strong>|
+| 
+<strong>xlXYScatter</strong>|
+| 
+<strong>xlArea</strong>|
+| 
+<strong>xl3DArea</strong>|
+| 
+<strong>xlDoughnut</strong>|
+| 
+<strong>xlRadar</strong>|
+| 
+<strong>xl3DSurface</strong>|
+| 
+<strong>xl3DColumn</strong>|
+| 
+<strong>xl3DBar</strong>|
 
 ## See also
 

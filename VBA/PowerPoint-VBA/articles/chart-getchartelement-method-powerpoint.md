@@ -43,40 +43,41 @@ The value of ElementID after the method returns determines whether Arg1 and Arg2
 
 
 
-|**ElementID Constant**|**Constant Value **|**Arg1**|**Arg2**|
-|:-----|:-----|:-----|:-----|
-|**xlAxis**|21|AxisIndex|AxisType|
-|**xlAxisTitle**|17|AxisIndex|AxisType|
-|**xlDisplayUnitLabel**|30|AxisIndex|AxisType|
-|**xlMajorGridlines**|15|AxisIndex|AxisType|
-|**xlMinorGridlines**|16|AxisIndex|AxisType|
-|**xlPivotChartDropZone**|32|DropZoneType|None|
-|**xlPivotChartFieldButton**|31|DropZoneType|None|
-|**xlDownBars**|20|GroupIndex|None|
-|**xlDropLines**|26|GroupIndex|None|
-|**xlHiLoLines**|25|GroupIndex|None|
-|**xlRadarAxisLabels**|27|GroupIndex|None|
-|**xlSeriesLines**|22|GroupIndex|None|
-|**xlUpBars**|18|GroupIndex|None|
-|**xlChartArea**|2|None|None|
-|**xlChartTitle**|4|None|None|
-|**xlCorners**|6|None|None|
-|**xlDataTable**|7|None|None|
-|**xlFloor**|23|None|None|
-|**xlLeaderLines**|29|None|None|
-|**xlLegend**|24|None|None|
-|**xlNothing**|28|None|None|
-|**xlPlotArea**|19|None|None|
-|**xlWalls**|5|None|None|
-|**xlDataLabel**|7|SeriesIndex|PointIndex|
-|**xlErrorBars**|9|SeriesIndex|None|
-|**xlLegendEntry**|12|SeriesIndex|None|
-|**xlLegendKey**|13|SeriesIndex|None|
-|**xlSeries**|3|SeriesIndex|PointIndex|
-|**xlShape**|14|ShapeIndex|None|
-|**xlTrendline**|8|SeriesIndex|TrendLineIndex|
-|**xlXErrorBars**|10|SeriesIndex|None|
-|**xlYErrorBars**|11|SeriesIndex|None|
+| <strong>ElementID Constant</strong>      | **Constant Value ** | <strong>Arg1</strong> | <strong>Arg2</strong> |
+|:-----------------------------------------|:--------------------|:----------------------|:----------------------|
+| <strong>xlAxis</strong>                  | 21                  | AxisIndex             | AxisType              |
+| <strong>xlAxisTitle</strong>             | 17                  | AxisIndex             | AxisType              |
+| <strong>xlDisplayUnitLabel</strong>      | 30                  | AxisIndex             | AxisType              |
+| <strong>xlMajorGridlines</strong>        | 15                  | AxisIndex             | AxisType              |
+| <strong>xlMinorGridlines</strong>        | 16                  | AxisIndex             | AxisType              |
+| <strong>xlPivotChartDropZone</strong>    | 32                  | DropZoneType          | None                  |
+| <strong>xlPivotChartFieldButton</strong> | 31                  | DropZoneType          | None                  |
+| <strong>xlDownBars</strong>              | 20                  | GroupIndex            | None                  |
+| <strong>xlDropLines</strong>             | 26                  | GroupIndex            | None                  |
+| <strong>xlHiLoLines</strong>             | 25                  | GroupIndex            | None                  |
+| <strong>xlRadarAxisLabels</strong>       | 27                  | GroupIndex            | None                  |
+| <strong>xlSeriesLines</strong>           | 22                  | GroupIndex            | None                  |
+| <strong>xlUpBars</strong>                | 18                  | GroupIndex            | None                  |
+| <strong>xlChartArea</strong>             | 2                   | None                  | None                  |
+| <strong>xlChartTitle</strong>            | 4                   | None                  | None                  |
+| <strong>xlCorners</strong>               | 6                   | None                  | None                  |
+| <strong>xlDataTable</strong>             | 7                   | None                  | None                  |
+| <strong>xlFloor</strong>                 | 23                  | None                  | None                  |
+| <strong>xlLeaderLines</strong>           | 29                  | None                  | None                  |
+| <strong>xlLegend</strong>                | 24                  | None                  | None                  |
+| <strong>xlNothing</strong>               | 28                  | None                  | None                  |
+| <strong>xlPlotArea</strong>              | 19                  | None                  | None                  |
+| <strong>xlWalls</strong>                 | 5                   | None                  | None                  |
+| <strong>xlDataLabel</strong>             | 7                   | SeriesIndex           | PointIndex            |
+| <strong>xlErrorBars</strong>             | 9                   | SeriesIndex           | None                  |
+| <strong>xlLegendEntry</strong>           | 12                  | SeriesIndex           | None                  |
+| <strong>xlLegendKey</strong>             | 13                  | SeriesIndex           | None                  |
+| <strong>xlSeries</strong>                | 3                   | SeriesIndex           | PointIndex            |
+| <strong>xlShape</strong>                 | 14                  | ShapeIndex            | None                  |
+| <strong>xlTrendline</strong>             | 8                   | SeriesIndex           | TrendLineIndex        |
+| <strong>xlXErrorBars</strong>            | 10                  | SeriesIndex           | None                  |
+| <strong>xlYErrorBars</strong>            | 11                  | SeriesIndex           | None                  |
+
 The following table describes the meaning of Arg1 and Arg2 after the method returns.
 
 

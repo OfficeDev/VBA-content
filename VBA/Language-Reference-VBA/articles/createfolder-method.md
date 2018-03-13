@@ -22,10 +22,11 @@ Creates a folder.
 The  **CreateFolder** method has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. Always the name of a  **FileSystemObject**.|
-| _foldername_|Required. [String expression](vbe-glossary.md) that identifies the folder to create.|
+| <strong>Part</strong> | <strong>Description</strong>                                                         |
+|:----------------------|:-------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. Always the name of a  <strong>FileSystemObject</strong>.                   |
+| <em>foldername</em>   | Required. [String expression](vbe-glossary.md) that identifies the folder to create. |
+
  **Remarks**
 An error occurs if the specified folder already exists.
 

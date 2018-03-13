@@ -39,7 +39,6 @@ This example aligns the left edge of the chart title with the left edge of the c
 
 ```
 myChart.ChartTitle.Left = 0 
-
 ```
 
 Left property as it applies to the  **AxisTitle**,  **ChartArea**,  **ChartTitle**,  **DataLabel**,  **DisplayUnitLabel**,  **Legend**, and  **PlotArea** objects.

@@ -15,7 +15,7 @@ Occurs after a document enters run mode.
 
 ## Syntax
 
-Private Sub  _expression_ _**RunModeEntered**( **_ByVal doc As [IVDOCUMENT]_** )
+Private Sub  <em>expression</em> <em><strong>RunModeEntered</strong>( **_ByVal doc As [IVDOCUMENT]</em>** )
 
  _expression_ A variable that represents an **InvisibleApp** object.
 

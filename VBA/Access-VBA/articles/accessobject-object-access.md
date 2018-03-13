@@ -22,18 +22,19 @@ An  **AccessObject** object includes information about one instance of an object
 
 
 
-|**AccessObject**|**Collection**|**Contains information about**|
-|:-----|:-----|:-----|
-|**Database diagram**|**AllDatabaseDiagrams**|Saved database diagrams|
-|**Form**|**AllForms**|Saved forms|
-|**Function**|**AllFunctions**|Saved functions|
-|**Macro**|**AllMacros**|Saved macros|
-|**Module**|**AllModules**|Saved modules|
-|**Query**|**AllQueries**|Saved queries|
-|**Report**|**AllReports**|Saved reports|
-|**Stored procedure**|**AllStoredProcedures**|Saved stored procedures|
-|**Table**|**AllTables**|Saved tables|
-|**View**|**AllViews**|Saved views|
+| <strong>AccessObject</strong>     | <strong>Collection</strong>          | <strong>Contains information about</strong> |
+|:----------------------------------|:-------------------------------------|:--------------------------------------------|
+| <strong>Database diagram</strong> | <strong>AllDatabaseDiagrams</strong> | Saved database diagrams                     |
+| <strong>Form</strong>             | <strong>AllForms</strong>            | Saved forms                                 |
+| <strong>Function</strong>         | <strong>AllFunctions</strong>        | Saved functions                             |
+| <strong>Macro</strong>            | <strong>AllMacros</strong>           | Saved macros                                |
+| <strong>Module</strong>           | <strong>AllModules</strong>          | Saved modules                               |
+| <strong>Query</strong>            | <strong>AllQueries</strong>          | Saved queries                               |
+| <strong>Report</strong>           | <strong>AllReports</strong>          | Saved reports                               |
+| <strong>Stored procedure</strong> | <strong>AllStoredProcedures</strong> | Saved stored procedures                     |
+| <strong>Table</strong>            | <strong>AllTables</strong>           | Saved tables                                |
+| <strong>View</strong>             | <strong>AllViews</strong>            | Saved views                                 |
+
 Because an  **AccessObject** object corresponds to an existing object, you can't create new **AccessObject** objects or delete existing ones. To refer to an **AccessObject** object in a collection by its ordinal number or by its **Name** property setting, use any of the following syntax forms:
 
 

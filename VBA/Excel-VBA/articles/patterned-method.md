@@ -25,55 +25,103 @@ Sets a pattern for the specified fill.
 
 
 |MsoPatternType can be one of these MsoPatternType constants.|
-| **msoPattern10Percent**|
-| **msoPattern20Percent**|
-| **msoPattern25Percent**|
-| **msoPattern30Percent**|
-| **msoPattern40Percent**|
-| **msoPattern50Percent**|
-| **msoPattern5Percent**|
-| **msoPattern60Percent**|
-| **msoPattern70Percent**|
-| **msoPattern75Percent**|
-| **msoPattern80Percent**|
-| **msoPattern90Percent**|
-| **msoPatternDarkDownwardDiagonal**|
-| **msoPatternDarkHorizontal**|
-| **msoPatternDarkUpwardDiagonal**|
-| **msoPatternDarkVertical**|
-| **msoPatternDashedDownwardDiagonal**|
-| **msoPatternDashedHorizontal**|
-| **msoPatternDashedUpwardDiagonal**|
-| **msoPatternDashedVertical**|
-| **msoPatternDiagonalBrick**|
-| **msoPatternDivot**|
-| **msoPatternDottedDiamond**|
-| **msoPatternDottedGrid**|
-| **msoPatternHorizontalBrick**|
-| **msoPatternLargeCheckerBoard**|
-| **msoPatternLargeConfetti**|
-| **msoPatternLargeGrid**|
-| **msoPatternLightDownwardDiagonal**|
-| **msoPatternLightHorizontal**|
-| **msoPatternLightUpwardDiagonal**|
-| **msoPatternLightVertical**|
-| **msoPatternMixed**|
-| **msoPatternNarrowHorizontal**|
-| **msoPatternNarrowVertical**|
-| **msoPatternOutlinedDiamond**|
-| **msoPatternPlaid**|
-| **msoPatternShingle**|
-| **msoPatternSmallCheckerBoard**|
-| **msoPatternSmallConfetti**|
-| **msoPatternSmallGrid**|
-| **msoPatternSolidDiamond**|
-| **msoPatternSphere**|
-| **msoPatternTrellis**|
-| **msoPatternWave**|
-| **msoPatternWeave**|
-| **msoPatternWideDownwardDiagonal**|
-| **msoPatternWideUpwardDiagonal**|
-| **msoPatternZigZag**|
+| <strong>msoPattern10Percent</strong>|
+| 
+<strong>msoPattern20Percent</strong>|
+| 
+<strong>msoPattern25Percent</strong>|
+| 
+<strong>msoPattern30Percent</strong>|
+| 
+<strong>msoPattern40Percent</strong>|
+| 
+<strong>msoPattern50Percent</strong>|
+| 
+<strong>msoPattern5Percent</strong>|
+| 
+<strong>msoPattern60Percent</strong>|
+| 
+<strong>msoPattern70Percent</strong>|
+| 
+<strong>msoPattern75Percent</strong>|
+| 
+<strong>msoPattern80Percent</strong>|
+| 
+<strong>msoPattern90Percent</strong>|
+| 
+<strong>msoPatternDarkDownwardDiagonal</strong>|
+| 
+<strong>msoPatternDarkHorizontal</strong>|
+| 
+<strong>msoPatternDarkUpwardDiagonal</strong>|
+| 
+<strong>msoPatternDarkVertical</strong>|
+| 
+<strong>msoPatternDashedDownwardDiagonal</strong>|
+| 
+<strong>msoPatternDashedHorizontal</strong>|
+| 
+<strong>msoPatternDashedUpwardDiagonal</strong>|
+| 
+<strong>msoPatternDashedVertical</strong>|
+| 
+<strong>msoPatternDiagonalBrick</strong>|
+| 
+<strong>msoPatternDivot</strong>|
+| 
+<strong>msoPatternDottedDiamond</strong>|
+| 
+<strong>msoPatternDottedGrid</strong>|
+| 
+<strong>msoPatternHorizontalBrick</strong>|
+| 
+<strong>msoPatternLargeCheckerBoard</strong>|
+| 
+<strong>msoPatternLargeConfetti</strong>|
+| 
+<strong>msoPatternLargeGrid</strong>|
+| 
+<strong>msoPatternLightDownwardDiagonal</strong>|
+| 
+<strong>msoPatternLightHorizontal</strong>|
+| 
+<strong>msoPatternLightUpwardDiagonal</strong>|
+| 
+<strong>msoPatternLightVertical</strong>|
+| 
+<strong>msoPatternMixed</strong>|
+| 
+<strong>msoPatternNarrowHorizontal</strong>|
+| 
+<strong>msoPatternNarrowVertical</strong>|
+| 
+<strong>msoPatternOutlinedDiamond</strong>|
+| 
+<strong>msoPatternPlaid</strong>|
+| 
+<strong>msoPatternShingle</strong>|
+| 
+<strong>msoPatternSmallCheckerBoard</strong>|
+| 
+<strong>msoPatternSmallConfetti</strong>|
+| 
+<strong>msoPatternSmallGrid</strong>|
+| 
+<strong>msoPatternSolidDiamond</strong>|
+| 
+<strong>msoPatternSphere</strong>|
+| 
+<strong>msoPatternTrellis</strong>|
+| 
+<strong>msoPatternWave</strong>|
+| 
+<strong>msoPatternWeave</strong>|
+| 
+<strong>msoPatternWideDownwardDiagonal</strong>|
+| 
+<strong>msoPatternWideUpwardDiagonal</strong>|
+| 
+<strong>msoPatternZigZag</strong>|
 
 ## Example
 

@@ -58,7 +58,7 @@ Sub CheckInOut(docCheckIn As String)
 End Sub
 ```
 
-To call the CheckInOut subroutine, use the following subroutine and replace  _"http://servername/workspace/report.doc"_ with the file name of an actual file located on the server mentioned in the Remarks section above.
+To call the CheckInOut subroutine, use the following subroutine and replace  <em>"<http://servername/workspace/report.doc>"</em> with the file name of an actual file located on the server mentioned in the Remarks section above.
 
 
 

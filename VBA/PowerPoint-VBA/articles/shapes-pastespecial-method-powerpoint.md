@@ -63,10 +63,11 @@ The  _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-|**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
-|**msoTrue**|Displays the embedded object (or link) as an icon.|
+| <strong>Constant</strong> | <strong>Description</strong>                                            |
+|:--------------------------|:------------------------------------------------------------------------|
+| <strong>msoFalse</strong> | The default. Does not display the embedded object (or link) as an icon. |
+| <strong>msoTrue</strong>  | Displays the embedded object (or link) as an icon.                      |
+
 An error occurs if there is no data on the Clipboard when the  **PasteSpecial** method is called.
 
 

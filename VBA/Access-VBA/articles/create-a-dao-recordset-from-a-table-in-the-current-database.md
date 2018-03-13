@@ -14,10 +14,9 @@ The following code example uses the  **[OpenRecordset](http://msdn.microsoft.com
 ```vb
 Dim dbsNorthwind As DAO.Database 
 Dim rstCustomers As DAO.Recordset 
- 
+
 Set dbsNorthwind = CurrentDb 
 Set rstCustomers = dbsNorthwind.OpenRecordset("Customers") 
-
 ```
 
 

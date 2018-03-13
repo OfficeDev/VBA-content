@@ -16,54 +16,61 @@ ms.date: 06/08/2017
 
 
 Occurs when the user moves the mouse.
- **Syntax**
-For MultiPage, TabStrip **Private Sub**_object_ _**MouseMove(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
-For other controls **Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
-The  **MouseMove** event syntax has these parts:
+ <strong>Syntax</strong>
+For MultiPage, TabStrip 
+<strong>Private Sub</strong><em>object</em> <em><strong>MouseMove(</strong>_index</em><strong>As Long</strong>, <strong>ByVal</strong><em>Button</em><strong>As fmButton</strong>, <strong>ByVal</strong><em>Shift</em><strong>As fmShiftState</strong>, <strong>ByVal</strong><em>X</em><strong>As Single</strong>, <strong>ByVal</strong><em>Y</em><strong>As Single)</strong>
+For other controls 
+<strong>Private Sub</strong><em>object</em> <em><strong>MouseMove( ByVal</strong>_Button</em><strong>As fmButton</strong>, <strong>ByVal</strong><em>Shift</em><strong>As fmShiftState</strong>, <strong>ByVal</strong><em>X</em><strong>As Single</strong>, <strong>ByVal</strong><em>Y</em><strong>As Single)</strong>
+The  
+<strong>MouseMove</strong> event syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object name.|
-| _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|
-| _Button_|Required. An integer value that identifies the state of the mouse buttons.|
-| _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
-| _X, Y_|Required. The horizontal or vertical position, measured in points, from the left or top edge of the control.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                     |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| <em>object</em>       | Required. A valid object name.                                                                                                   |
+| <em>index</em>        | Required. The index of the page or tab in a  <strong>MultiPage</strong> or <strong>TabStrip</strong> associated with this event. |
+| <em>Button</em>       | Required. An integer value that identifies the state of the mouse buttons.                                                       |
+| <em>Shift</em>        | Required. Specifies the state of SHIFT, CTRL, and ALT.                                                                           |
+| <em>X, Y</em>         | Required. The horizontal or vertical position, measured in points, from the left or top edge of the control.                     |
+
  **Settings**
 The  _index_ argument specifies which page or tab was clicked over. A _-_ 1 designates that the user did not click on any of the pages or tabs.
 The settings for  _Button_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|0|No button is pressed.|
-|1|The left button is pressed.|
-|2|The right button is pressed.|
-|3|The right and left buttons are pressed.|
-|4|The middle button is pressed.|
-|5|The middle and left buttons are pressed.|
-|6|The middle and right buttons are pressed.|
-|7|All three buttons are pressed.|
+| <strong>Value</strong> | <strong>Description</strong>              |
+|:-----------------------|:------------------------------------------|
+| 0                      | No button is pressed.                     |
+| 1                      | The left button is pressed.               |
+| 2                      | The right button is pressed.              |
+| 3                      | The right and left buttons are pressed.   |
+| 4                      | The middle button is pressed.             |
+| 5                      | The middle and left buttons are pressed.  |
+| 6                      | The middle and right buttons are pressed. |
+| 7                      | All three buttons are pressed.            |
+
 The settings for  _Shift_ are:
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|1|SHIFT was pressed.|
-|2|CTRL was pressed.|
-|3|SHIFT and CTRL were pressed.|
-|4|ALT was pressed.|
-|5|ALT and SHIFT were pressed.|
-|6|ALT and CTRL were pressed.|
-|7|ALT, SHIFT, and CTRL were pressed.|
+| <strong>Value</strong> | <strong>Description</strong>       |
+|:-----------------------|:-----------------------------------|
+| 1                      | SHIFT was pressed.                 |
+| 2                      | CTRL was pressed.                  |
+| 3                      | SHIFT and CTRL were pressed.       |
+| 4                      | ALT was pressed.                   |
+| 5                      | ALT and SHIFT were pressed.        |
+| 6                      | ALT and CTRL were pressed.         |
+| 7                      | ALT, SHIFT, and CTRL were pressed. |
+
 You can identify individual keyboard modifiers by using the following constants:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmShiftMask_|1|Mask to detect SHIFT.|
-| _fmCtrlMask_|2|Mask to detect CTRL.|
-| _fmAltMask_|4|Mask to detect ALT.|
+| <strong>Constant</strong> | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------|:-----------------------|:-----------------------------|
+| <em>fmShiftMask</em>      | 1                      | Mask to detect SHIFT.        |
+| <em>fmCtrlMask</em>       | 2                      | Mask to detect CTRL.         |
+| <em>fmAltMask</em>        | 4                      | Mask to detect ALT.          |
+
  **Remarks**
 The MouseMove event applies to forms, controls on a form, and labels.
 MouseMove events are generated continually as the mouse pointer moves across objects. Unless another object has captured the mouse, an object recognizes a MouseMove event whenever the mouse position is within its borders.

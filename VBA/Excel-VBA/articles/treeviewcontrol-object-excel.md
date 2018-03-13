@@ -32,7 +32,6 @@ ActiveSheet.PivotTables("PivotTable2") _
  Array(Array("", ""), _ 
  Array("[state].[states].[CA]", _ 
  "[state].[states].[MD]")) 
-
 ```
 
 

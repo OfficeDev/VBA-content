@@ -16,11 +16,12 @@ You can use the Visual Basic Editor and Microsoft Forms version 2.0 in all Micro
 Three Microsoft Forms 2.0 properties are generally used to add bidirectional characteristics to forms and dialog boxes. These properties are listed and described in the following table.
 
 
-|**Property**|**Exposed on**|**Affects**|
-|:-----|:-----|:-----|
-|[Alignment](alignment-property.md)|Controls|Controls|
-|[TextAlign](textalign-property.md)|Controls|Controls|
-|[RightToLeft](righttoleft-property-microsoft-forms.md)|Forms|Forms and controls|
+| <strong>Property</strong>                              | <strong>Exposed on</strong> | <strong>Affects</strong> |
+|:-------------------------------------------------------|:----------------------------|:-------------------------|
+| [Alignment](alignment-property.md)                     | Controls                    | Controls                 |
+| [TextAlign](textalign-property.md)                     | Controls                    | Controls                 |
+| [RightToLeft](righttoleft-property-microsoft-forms.md) | Forms                       | Forms and controls       |
+
 These properties affect the controls listed in the following table, which are available in the Control Toolbox. You can set these properties in the Properties window in the editor or by using Visual Basic for Applications statements.
 
 

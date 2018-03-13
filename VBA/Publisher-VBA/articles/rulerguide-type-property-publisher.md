@@ -29,6 +29,7 @@ The  **Type** property value can be one of these **PbRulerGuideType** constants.
 
 
 
-| **pbRulerGuideTypeHorizontal**|
-| **pbRulerGuideTypeVertical**|
+| <strong>pbRulerGuideTypeHorizontal</strong>|
+| 
+<strong>pbRulerGuideTypeVertical</strong>|
 

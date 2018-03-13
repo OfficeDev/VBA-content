@@ -20,8 +20,9 @@ Returns or sets the weight of the border. Read/write
 
 
 |XlBorderWeight can be one of these XlBorderWeight constants.|
-| **xlHairline**|
-| **xlThin** **xlMedium** **xlThick**|
+| <strong>xlHairline</strong>|
+| 
+<strong>xlThin</strong> <strong>xlMedium</strong> <strong>xlThick</strong>|
 
  _expression_. **Weight**
 

@@ -34,12 +34,13 @@ The  **SuperScript** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**| No characters in the range are formatted as superscript.|
-| **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|
-| **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
-| **msoTrue**|All characters in the range are formatted as superscript.|
+| <strong>Constant</strong>          | <strong>Description</strong>                                                                                                    |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| <strong>msoFalse</strong>          | No characters in the range are formatted as superscript.                                                                        |
+| <strong>msoTriStateMixed</strong>  | Return value indicating a combination of  <strong>msoTrue</strong> and <strong>msoFalse</strong> for the specified shape range. |
+| <strong>msoTriStateToggle</strong> | Set value that switches between  <strong>msoTrue</strong> and <strong>msoFalse</strong>.                                        |
+| <strong>msoTrue</strong>           | All characters in the range are formatted as superscript.                                                                       |
+
 Setting the  **SuperScript** property to **msoTrue** removes subscript formatting from the text range.
 
 
@@ -50,9 +51,9 @@ This example tests the text in the second story and, if it has mixed superscript
 
 ```vb
 Sub SuperScript() 
- 
+
  Dim fntSuper As Font 
- 
+
  Set fntSuper = Application.ActiveDocument.Stories(2).TextRange.Font 
  With fntSuper 
  If .SuperScript = msoTriStateMixed Then 
@@ -61,7 +62,7 @@ Sub SuperScript()
  MsgBox "Mixed superscript not in this story." 
  End If 
  End With 
- 
+
 End Sub
 ```
 

@@ -26,7 +26,6 @@ This example adds the title "Annual Salary Figures" to the chart.
 ```vb
 myChart.HasTitle = True 
 myChart.ChartTitle.Caption = "Annual Salary Figures" 
-
 ```
 
 

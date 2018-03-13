@@ -27,16 +27,17 @@ Edits a local outline code custom field definition.
 
 
 
-|**Name**|**Required/Optional**|**Data Type**|**Description**|
-|:-----|:-----|:-----|:-----|
-| _FieldID_|Required|**PjCustomField**|Specifies the custom outline code to edit. Can be one of the non-enterprise  **[PjCustomField](pjcustomfield-enumeration-project.md)** constants.|
-| _Level_|Optional|**Long**|The level of code mask to edit. The default value is one greater than the highest level currently specified for the field.|
-| _Sequence_|Optional|**PjCustomOutlineCodeSequence**|The sequence for the level specified in Level. Can be one of the  **[PjCustomOutlineCodeSequence](pjcustomoutlinecodesequence-enumeration-project.md)** constants. The default value is **pjCustomOutlineCodeNumbers**.|
-| _Length_|Optional|**Variant**|Specifies the length for a given level. Can be the string "Any" or an integer value from 1 through 255. The default value is "Any".|
-| _Separator_|Optional|**String**|The character that separates the level specified in Level from the next. Can be one of ".", "-", "+", or "/". The default value is ".".|
-| _OnlyLookUpTableCodes_|Optional|**Boolean**|**True** if only codes listed in the lookup table can be used; otherwise **false**. The default value is **false**, which allows additional items to be added.|
-| _OnlyCompleteCodes_|Optional|**Boolean**|**True** if only codes with values at all levels of the mask can be used; otherwise **false**. The default value is **false**.|
-| _LookupTableLink_|Optional|**Long**|Deprecated in Project and later versions. Local outline codes cannot share lookup tables.
+| <strong>Name</strong>         | <strong>Required/Optional</strong> | <strong>Data Type</strong>                   | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                     |
+|:------------------------------|:-----------------------------------|:---------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>FieldID</em>              | Required                           | <strong>PjCustomField</strong>               | Specifies the custom outline code to edit. Can be one of the non-enterprise  <strong><a href="pjcustomfield-enumeration-project.md" data-raw-source="[PjCustomField](pjcustomfield-enumeration-project.md)">PjCustomField</a></strong> constants.                                                                                                                |
+| <em>Level</em>                | Optional                           | <strong>Long</strong>                        | The level of code mask to edit. The default value is one greater than the highest level currently specified for the field.                                                                                                                                                                                                                                       |
+| <em>Sequence</em>             | Optional                           | <strong>PjCustomOutlineCodeSequence</strong> | The sequence for the level specified in Level. Can be one of the  <strong><a href="pjcustomoutlinecodesequence-enumeration-project.md" data-raw-source="[PjCustomOutlineCodeSequence](pjcustomoutlinecodesequence-enumeration-project.md)">PjCustomOutlineCodeSequence</a></strong> constants. The default value is <strong>pjCustomOutlineCodeNumbers</strong>. |
+| <em>Length</em>               | Optional                           | <strong>Variant</strong>                     | Specifies the length for a given level. Can be the string "Any" or an integer value from 1 through 255. The default value is "Any".                                                                                                                                                                                                                              |
+| <em>Separator</em>            | Optional                           | <strong>String</strong>                      | The character that separates the level specified in Level from the next. Can be one of ".", "-", "+", or "/". The default value is ".".                                                                                                                                                                                                                          |
+| <em>OnlyLookUpTableCodes</em> | Optional                           | <strong>Boolean</strong>                     | <strong>True</strong> if only codes listed in the lookup table can be used; otherwise <strong>false</strong>. The default value is <strong>false</strong>, which allows additional items to be added.                                                                                                                                                            |
+| <em>OnlyCompleteCodes</em>    | Optional                           | <strong>Boolean</strong>                     | <strong>True</strong> if only codes with values at all levels of the mask can be used; otherwise <strong>false</strong>. The default value is <strong>false</strong>.                                                                                                                                                                                            |
+| <em>LookupTableLink</em>      | Optional                           | <strong>Long</strong>                        | Deprecated in Project and later versions. Local outline codes cannot share lookup tables.                                                                                                                                                                                                                                                                        |
+
  **Caution**  Do not use  _LookupTableLink_ with the enterprise global or enterprise lookup tables. Data corruption can result.
 
 |
@@ -61,9 +62,9 @@ The  _OnlyLeaves_,  _MatchGeneric_, and  _RequiredCode_ arguments are available 
 
 ## Example
 
-The following example edits an existing  **Outline Code 1** for tasks, in which the only code mask is "*" for the first level. With default values in the **CustomOutlineCodeEditEx** method, the first command in the example specifies that the second level uses two-digit codes, sorted by number, and is separated from the third level by the "-" character. The second command specifies that the third level uses a single uppercase letter. It also specifies that only codes that contain all three levels can be used.
+The following example edits an existing  <strong>Outline Code 1</strong> for tasks, in which the only code mask is "<em>" for the first level. With default values in the **CustomOutlineCodeEditEx</em>* method, the first command in the example specifies that the second level uses two-digit codes, sorted by number, and is separated from the third level by the "-" character. The second command specifies that the third level uses a single uppercase letter. It also specifies that only codes that contain all three levels can be used.
 
-To use the example, the original  **Outline Code 1** contains the characters "oc1" in the first level. After running the code, the code mask is "*.11-A". A user can edit the lookup table and add, for example, "23" in the level under "oc1" and "X" in the third level. When setting the value of **Outline Code 1**, the user can choose  **oc1.23-X**, but can not choose  **oc1.23**.
+To use the example, the original  <strong>Outline Code 1</strong> contains the characters "oc1" in the first level. After running the code, the code mask is "<em>.11-A". A user can edit the lookup table and add, for example, "23" in the level under "oc1" and "X" in the third level. When setting the value of **Outline Code 1</em><em>, the user can choose  **oc1.23-X</em><em>, but can not choose  **oc1.23</em>*.
 
 
 
@@ -85,7 +86,7 @@ In the following example, the task  **Outline Code 3** contains the lookup table
 ```vb
 Sub ChangeOCDefaults() 
     CustomOutlineCodeEditEx FieldID:=pjCustomTaskOutlineCode3, SortOrder:=pjListOrderDescending 
-     
+
     CustomOutlineCodeEditEx FieldID:=pjCustomTaskOutlineCode3, LookupDefault:=True, DefaultValue:="b" 
 End Sub
 ```

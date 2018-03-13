@@ -21,18 +21,20 @@ Specifies whether a vertical scroll bar appears on the right or left side of a f
 The  **VerticalScrollbarSide** property syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _object_|Required. A valid object.|
-| _fmVerticalScrollbarSide_|Optional. Where the scroll bar should appear.|
+| <strong>Part</strong>            | <strong>Description</strong>                  |
+|:---------------------------------|:----------------------------------------------|
+| <em>object</em>                  | Required. A valid object.                     |
+| <em>fmVerticalScrollbarSide</em> | Optional. Where the scroll bar should appear. |
+
  **Settings**
 The settings for  _fmVerticalScrollbarSide_ are:
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| _fmVerticalScrollbarSideRight_|0|Puts the scroll bar on the right side (default).|
-| _fmVerticalScrollBarSideLeft_|1|Puts the scroll bar on the left side.|
+| <strong>Constant</strong>             | <strong>Value</strong> | <strong>Description</strong>                     |
+|:--------------------------------------|:-----------------------|:-------------------------------------------------|
+| <em>fmVerticalScrollbarSideRight</em> | 0                      | Puts the scroll bar on the right side (default). |
+| <em>fmVerticalScrollBarSideLeft</em>  | 1                      | Puts the scroll bar on the left side.            |
+
  **Remarks**
 The  **VerticalScrollBarSide** property is is particularly useful if the form will be used in an environment where reading occurs from right to left.
 

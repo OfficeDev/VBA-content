@@ -35,10 +35,11 @@ The settings for  _zPosition_ are:
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|0|Places the control at the front of the z-order. The control appears on top of other controls (default).|
-|1|Places the control at the back of the z-order. The control appears underneath other controls.|
+| <strong>Value</strong> | <strong>Description</strong>                                                                            |
+|:-----------------------|:--------------------------------------------------------------------------------------------------------|
+| 0                      | Places the control at the front of the z-order. The control appears on top of other controls (default). |
+| 1                      | Places the control at the back of the z-order. The control appears underneath other controls.           |
+
 The z-order determines how windows and controls are stacked when they are presented to the user. Items at the back of the z-order are overlaid by closer items; items at the front of the z-order appear to be on top of items at the back. When the  _zPosition_ argument is omitted, the object is brought to the front.
 
 In design mode, the  **Bring to Front** or **Send To Back** commands set the z-order. **Bring to Front** is equivalent to using the **ZOrder** method and putting the object at the front of the z-order. **Send To Back** is equivalent to using **ZOrder** and putting the object at the back of the z-order.

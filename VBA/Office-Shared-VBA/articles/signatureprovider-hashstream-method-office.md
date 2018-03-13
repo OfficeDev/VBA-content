@@ -58,7 +58,6 @@ The following example gets the hash value of a data stream.
  } 
  } 
  } 
-
 ```
 
 

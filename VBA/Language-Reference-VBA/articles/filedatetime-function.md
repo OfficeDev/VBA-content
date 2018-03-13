@@ -28,8 +28,6 @@ Dim MyStamp
 ' Assume TESTFILE was last modified on February 12, 1993 at 4:35:47 PM.
 ' Assume English/U.S. locale settings.
 MyStamp = FileDateTime("TESTFILE")    ' Returns "2/12/93 4:35:47 PM".
-
-
 ```
 
 

@@ -31,13 +31,13 @@ The  **Format** property uses different settings for different data types. For i
 
 
 - [Date/Time Data Type](format-propertydate-time-data-type.md)
-    
+
 - [Number and Currency Data Types](format-propertynumber-and-currency-data-types.md)
-    
+
 - [Text and Memo Data Types](format-propertytext-and-memo-data-types.md)
-    
+
 - [Yes/No Data Type](format-propertyyes-no-data-type.md)
-    
+
 In Visual Basic, enter a string expression that corresponds to one of the predefined formats or enter a custom format.
 
 The  **Format** property affects only how data is displayed. It doesn't affect how data is stored.
@@ -50,14 +50,15 @@ You can use the following symbols in custom formats for any data type.
 
 
 
-|**Symbol**|**Meaning**|
-|:-----|:-----|
-|(space)|Display spaces as literal characters.|
-|"ABC"|Display anything inside quotation marks as literal characters.|
-|!|Force left alignment instead of right alignment.|
-|*|Fill available space with the next character.|
-|\|Display the next character as a literal character. You can also display literal characters by placing quotation marks around them.|
-|[ _color_ ]|Display the formatted data in the color specified between the brackets. Available colors: Black, Blue, Green, Cyan, Red, Magenta, Yellow, White.|
+| <strong>Symbol</strong>                                                                                                              | <strong>Meaning</strong>                                                                                                                         |
+|:-------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|
+| (space)                                                                                                                              | Display spaces as literal characters.                                                                                                            |
+| "ABC"                                                                                                                                | Display anything inside quotation marks as literal characters.                                                                                   |
+| !                                                                                                                                    | Force left alignment instead of right alignment.                                                                                                 |
+| *                                                                                                                                    | Fill available space with the next character.                                                                                                    |
+| \|Display the next character as a literal character. You can also display literal characters by placing quotation marks around them. |                                                                                                                                                  |
+| [ <em>color</em> ]                                                                                                                   | Display the formatted data in the color specified between the brackets. Available colors: Black, Blue, Green, Cyan, Red, Magenta, Yellow, White. |
+
 You can't mix custom formatting symbols for the Number and Currency data types with Date/Time, Yes/No, or Text and Memo formatting symbols.
 
 When you have defined an input mask and set the  **Format** property for the same data, the **Format** property takes precedence when the data is displayed and the input mask is ignored. For example, if you create a Password input mask in table Design view and also set the **Format** property for the same field, either in the table or in a control on a form, the Password input mask is ignored and the data is displayed according to the **Format** property.
@@ -70,9 +71,9 @@ The following three examples set the  **Format** property by using a predefined 
 
 ```vb
 Me!Date.Format = "Medium Date" 
- 
+
 Me!Time.Format = "Long Time" 
- 
+
 Me!Registered.Format = "Yes/No"
 ```
 
@@ -93,7 +94,7 @@ The following example demonstrates a Visual Basic function that formats numeric 
 ```vb
 Function FormatValue() As Integer 
     Dim varEnteredValue As Variant 
- 
+
     varEnteredValue = Forms!Survey!TaxRefund.Value 
     If IsNumeric(varEnteredValue) = True Then 
         Forms!Survey!TaxRefund.Format = "Currency" 

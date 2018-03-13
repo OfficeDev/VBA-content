@@ -15,7 +15,7 @@ When you create a form region in a custom form, by default, the form region will
 
 
 - In the form region manifest XML file, specify  **false** as the value of the **showReadingPane** element.
-    
+
 The following example disables the Reading Pane from displaying a form region:
 
 

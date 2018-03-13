@@ -20,20 +20,22 @@ Declares a user-defined event.
 The  **Event** statement has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**Public**|Optional. Specifies that the  **Event** visible throughout the[project](vbe-glossary.md).  **Events** types are **Public** by default. Note that events can only be raised in the[module](vbe-glossary.md) in which they are declared.|
-| _procedurename_|Required. Name of the event; follows standard variable naming conventions.|
+| <strong>Part</strong>   | <strong>Description</strong>                                                                                                                                                                                                                                                  |
+|:------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Public</strong> | Optional. Specifies that the  <strong>Event</strong> visible throughout the[project](vbe-glossary.md).  <strong>Events</strong> types are <strong>Public</strong> by default. Note that events can only be raised in the[module](vbe-glossary.md) in which they are declared. |
+| <em>procedurename</em>  | Required. Name of the event; follows standard variable naming conventions.                                                                                                                                                                                                    |
+
 The  _arglist_ argument has the following syntax and parts:
 [ **ByVal** |**ByRef** ] _varname_ [ **( )** ] [ **As**_type_ ]
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**ByVal**|Optional. Indicates that the [argument](vbe-glossary.md) is passed[by value](vbe-glossary.md).|
-|**ByRef**|Optional. Indicates that the argument is passed [by reference](vbe-glossary.md).  **ByRef** is the default in Visual Basic.|
-| _varname_|Required. Name of the variable representing the argument being passed to the [procedure](vbe-glossary.md); follows standard variable naming conventions.|
-| _type_|Optional. [Data type](vbe-glossary.md) of the argument passed to the procedure; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (variable length only),[Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an object type.|
+| <strong>Part</strong>  | <strong>Description</strong>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|:-----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>ByVal</strong> | Optional. Indicates that the [argument](vbe-glossary.md) is passed[by value](vbe-glossary.md).                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| <strong>ByRef</strong> | Optional. Indicates that the argument is passed [by reference](vbe-glossary.md).  <strong>ByRef</strong> is the default in Visual Basic.                                                                                                                                                                                                                                                                                                                                                                                            |
+| <em>varname</em>       | Required. Name of the variable representing the argument being passed to the [procedure](vbe-glossary.md); follows standard variable naming conventions.                                                                                                                                                                                                                                                                                                                                                                            |
+| <em>type</em>          | Optional. [Data type](vbe-glossary.md) of the argument passed to the procedure; may be[Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (variable length only),[Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an object type. |
+
  **Remarks**
 Once the event has been declared, use the  **RaiseEvent** statement to fire the event. A syntax error occurs if an **Event** declaration appears in a[standard module](vbe-glossary.md). An event can't be declared to return a value. A typical event might be declared and raised as shown in the following fragments:
 
@@ -41,9 +43,9 @@ Once the event has been declared, use the  **RaiseEvent** statement to fire the 
 
 ```vb
 ' Declare an event at module level of a class module 
- 
+
 Event LogonCompleted (UserName as String) 
- 
+
 Sub 
  RaiseEvent LogonCompleted("AntoineJan") 
 End Sub
@@ -68,9 +70,9 @@ The code for specifies the initial and terminal states of the form. It also cont
 
 ```vb
 Option Explicit 
- 
+
 Private WithEvents mText As TimerState 
- 
+
 Private Sub Command1_Click() 
 Text1.Text = "From Now" 
  Text1.Refresh 
@@ -78,7 +80,7 @@ Text1.Text = "From Now"
  Text2.Refresh 
 Call mText.TimerTask(9.84) 
 End Sub 
- 
+
 Private Sub Form_Load() 
  Command1.Caption = "Click to Start Timer" 
  Text1.Text = "" 
@@ -86,12 +88,12 @@ Private Sub Form_Load()
  Label1.Caption = "The fastest 100 meter run took this long:" 
  Set mText = New TimerState 
  End Sub 
- 
+
 Private Sub mText_ChangeText() 
  Text1.Text = "Until Now" 
  Text2.Text = "9.84" 
 End Sub 
- 
+
 Private Sub mText_UpdateTime(ByVal dblJump As Double) 
  Text2.Text = Str(Format(dblJump, "0")) 
  DoEvents 
@@ -106,23 +108,23 @@ The remaining code is in a class module named TimerState. The  **Event** stateme
 ```vb
 Option Explicit 
 Public Event UpdateTime(ByVal dblJump As Double)Public Event ChangeText() 
- 
+
 Public Sub TimerTask(ByVal Duration As Double) 
  Dim dblStart As Double 
  Dim dblSecond As Double 
  Dim dblSoFar As Double 
  dblStart = Timer 
  dblSoFar = dblStart 
- 
+
  Do While Timer < dblStart + Duration 
  If Timer - dblSoFar >= 1 Then 
  dblSoFar = dblSoFar + 1 
  RaiseEvent UpdateTime(Timer - dblStart) 
  End If 
  Loop 
- 
+
  RaiseEvent ChangeText 
- 
+
 End Sub
 ```
 

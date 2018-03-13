@@ -50,21 +50,22 @@ The  _Flags_ parameter is a bitmask that specifies options for drawing the new s
 
 
 
-|**Constant**|**Value**|
-|:-----|:-----|
-| **visSplinePeriodic**|1(&;H1)|
-| **visSplineDoCircles**|2(&;H2)|
-| **visSplineAbrupt**|4(&;H4)|
-| **visSpline1D**|8(&;H8)|
+| <strong>Constant</strong>           | <strong>Value</strong> |
+|:------------------------------------|:-----------------------|
+| <strong>visSplinePeriodic</strong>  | 1(&;H1)                |
+| <strong>visSplineDoCircles</strong> | 2(&;H2)                |
+| <strong>visSplineAbrupt</strong>    | 4(&;H4)                |
+| <strong>visSpline1D</strong>        | 8(&;H8)                |
+
 If  _Flags_ includes **visSplinePeriodic** and the following conditions are met, the application attempts to draw a periodic spline. Otherwise, Visio draws a non-periodic spline:
 
 
 
 
 - The last point must be a repetition of the first one.
-    
+
 - If the flag  **visSplineAbrupt** is included as well, the entire closed path outlined by the points must be free of abrupt changes of direction and curvature.
-    
+
 
 
 If  _Flags_ includes **visSplineDoCircles** , Microsoft Visio recognizes circular segments in the given array of points and generates circular arcs instead of spline rows for those segments.
@@ -82,24 +83,24 @@ The following example shows how to draw a periodic spline through five arbitrary
 
 
 ```vb
- 
+
 Public Sub DrawSpline_Example() 
- 
+
  Dim vsoShape As Visio.Shape 
  Dim intCounter As Integer 
  Dim adblXYPoints(1 To (5 * 2)) As Double 
- 
+
  For intCounter = 1 To 5 
- 
+
  'Set x components (array elements 1,3,5,7,9) to 1,2,3,4,5 
  adblXYPoints((intCounter * 2) - 1) = intCounter 
- 
+
  'Set y components (array elements 2,4,6,8,10) to f(i) 
  adblXYPoints(intCounter * 2) = (intCounter * intCounter) - (7 * intCounter) + 15 
  Next intCounter 
- 
+
  Set vsoShape = ActivePage.DrawSpline(adblXYPoints, 0.25, visSplineAbrupt) 
- 
+
 End Sub
 ```
 

@@ -42,11 +42,11 @@ The following conditions must be met or else an error occurs:
 
 
 - The current and destination servers are SQL Server version 7.0 or later.
-    
+
 - The user has system administrator login rights on the destination server.
-    
+
 - The destination database doesn't already exist on the destination server.
-    
+
 
 ## Example
 
@@ -59,7 +59,6 @@ DoCmd.TransferCompleteSQLDatabase _
  Database:="Inventory", _ 
  UseTrustedConnection:=True, _ 
  TransferCopyData:=False 
-
 ```
 
 

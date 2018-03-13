@@ -54,7 +54,6 @@ Set vsoDocument = Visio.ActiveDocument
 ' Add a validation rule set to the document.
 Set vsoValidationRuleSet = 
 vsoDocument.Validation.RuleSets.Add("Connectivity")
-
 ```
 
 

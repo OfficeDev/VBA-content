@@ -21,10 +21,11 @@ The required  _eventname_ is the name of an event declared within the[module](vb
 The  **RaiseEvent** statement syntax has these parts:
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-| _eventname_|Required. Name of the event to fire.|
-| _argumentlist_|Optional. Comma-delimited list of [variables](vbe-glossary.md), [arrays](vbe-glossary.md), or [expressions](vbe-glossary.md) The _argumentlist_ must be enclosed by parentheses. If there are no[arguments](vbe-glossary.md), the parentheses must be omitted.|
+| <strong>Part</strong> | <strong>Description</strong>                                                                                                                                                                                                                                          |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <em>eventname</em>    | Required. Name of the event to fire.                                                                                                                                                                                                                                  |
+| <em>argumentlist</em> | Optional. Comma-delimited list of [variables](vbe-glossary.md), [arrays](vbe-glossary.md), or [expressions](vbe-glossary.md) The <em>argumentlist</em> must be enclosed by parentheses. If there are no[arguments](vbe-glossary.md), the parentheses must be omitted. |
+
  **Remarks**
 If the event has not been declared within the module in which it is raised, an error occurs. The following fragment illustrates an event declaration and a procedure in which the event is raised.
 
@@ -33,7 +34,7 @@ If the event has not been declared within the module in which it is raised, an e
 ```vb
 ' Declare an event at module level of a class module 
 Event LogonCompleted (UserName as String) 
- 
+
 Sub 
  ' Raise the event. 
  RaiseEvent LogonCompleted ("AntoineJan") 
@@ -58,9 +59,9 @@ The code for specifies the initial and terminal states of the form. It also cont
 
 ```vb
 Option Explicit 
- 
+
 Private WithEvents mText As TimerState 
- 
+
 Private Sub Command1_Click() 
  Text1.Text = "From Now" 
  Text1.Refresh 
@@ -68,7 +69,7 @@ Private Sub Command1_Click()
  Text2.Refresh 
  Call mText.TimerTask(9.84) 
 End Sub 
- 
+
 Private Sub Form_Load() 
  Command1.Caption = "Click to Start Timer" 
  Text1.Text = "" 
@@ -76,12 +77,12 @@ Private Sub Form_Load()
  Label1.Caption = "The fastest 100 meters ever run took this long:" 
  Set mText = New TimerState 
  End Sub 
- 
+
 Private Sub mText_ChangeText() 
  Text1.Text = "Until Now" 
  Text2.Text = "9.84" 
 End Sub 
- 
+
 Private Sub mText_UpdateTime(ByVal dblJump As Double) 
  Text2.Text = Str(Format(dblJump, "0")) 
  DoEvents 
@@ -97,23 +98,23 @@ The remaining code is in a class module named TimerState. Included among the com
 Option Explicit 
 Public Event UpdateTime(ByVal dblJump As Double) 
 Public Event ChangeText() 
- 
+
 Public Sub TimerTask(ByVal Duration As Double) 
  Dim dblStart As Double 
  Dim dblSecond As Double 
  Dim dblSoFar As Double 
  dblStart = Timer 
  dblSoFar = dblStart 
- 
+
  Do While Timer < dblStart + Duration 
  If Timer - dblSoFar >= 1 Then 
  dblSoFar = dblSoFar + 1 
  RaiseEvent UpdateTime(Timer - dblStart) 
  End If 
  Loop 
- 
+
  RaiseEvent ChangeText 
- 
+
 End Sub
 ```
 

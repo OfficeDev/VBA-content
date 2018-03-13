@@ -61,7 +61,6 @@ The following example displays information about the permissions settings of the
  End If 
  MsgBox strIRMInfo, vbInformation + vbOKOnly, "IRM Information" 
  Set irmPermission = Nothing 
-
 ```
 
 

@@ -42,17 +42,16 @@ This example adds an oval to the active publication, and then specifies that the
 
 ```vb
 Dim shpNew As Shape 
- 
+
 Set shpNew = ActiveDocument.Pages(1).Shapes _ 
  .AddShape(Type:=msoShapeOval, _ 
  Left:=90, Top:=90, Width:=90, Height:=40) 
- 
+
 With shpNew.ThreeD 
  .Visible = True 
  .Depth = 50 
  .ExtrusionColor.RGB = RGB(255, 100, 255) 
 End With 
-
 ```
 
 

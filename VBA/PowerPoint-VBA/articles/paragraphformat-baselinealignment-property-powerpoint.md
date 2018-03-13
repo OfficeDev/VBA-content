@@ -35,11 +35,15 @@ The value of the  **BaseLineAlignment** property can be one of these **PpBaselin
 
 ||
 |:-----|
-|**ppBaselineAlignBaseline**|
-|**ppBaselineAlignCenter**|
-|**ppBaselineAlignFarEast50**|
-|**ppBaselineAlignMixed**|
-|**ppBaselineAlignTop**|
+|<strong>ppBaselineAlignBaseline</strong>|
+|
+<strong>ppBaselineAlignCenter</strong>|
+|
+<strong>ppBaselineAlignFarEast50</strong>|
+|
+<strong>ppBaselineAlignMixed</strong>|
+|
+<strong>ppBaselineAlignTop</strong>|
 
 ## Example
 

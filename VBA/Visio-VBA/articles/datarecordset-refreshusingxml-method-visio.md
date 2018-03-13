@@ -89,13 +89,13 @@ In the following sample code, we pass the  **RefreshUsingXML** method the name o
 
 ```vb
 Public Sub RefreshUsingXML_Example() 
- 
+
     Dim strXML As String 
     Dim intCount As Integer 
     Dim vsoDataRecordset As Visio.DataRecordset 
- 
+
 intCount = ThisDocument.DataRecordsets.Count 
- 
+
     strXML = "<xml xmlns:s='uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882'" + Chr(10) _ 
     &; "xmlns:dt='uuid:C2F41010-65B3-11d1-A29F-00AA00C14882'" + Chr(10) _ 
     &; "xmlns:rs='urn:schemas-microsoft-com:rowset'" + Chr(10) _ 
@@ -114,9 +114,9 @@ intCount = ThisDocument.DataRecordsets.Count
     &; "<z:row c1='London'/>" + Chr(10) _ 
     &; "</rs:data>" + Chr(10) _ 
     &; "</xml>" 
- 
+
     ThisDocument.DataRecordsets(intCount).RefreshUsingXML(strXML) 
- 
+
 End Sub
 ```
 

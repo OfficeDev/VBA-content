@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Calculating Fields in SQL Functions
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -17,22 +17,21 @@ You can use the string expression argument in an SQL aggregate function to perfo
 The following table provides examples of calculations on fields from the Orders and Order Details tables in the Northwind.mdb database.
 
 
-|**Calculation**|**Example**|
-|:-----|:-----|
-|Add a number to a field| `Freight + 5`|
-|Subtract a number from a field| `Freight - 5`|
-|Multiply a field by a number| `UnitPrice * 2`|
-|Divide a field by a number| `Freight / 2`|
-|Add one field to another| `UnitsInStock + UnitsOnOrder`|
-|Subtract one field from another| `ReorderLevel - UnitsInStock`|
+| <strong>Calculation</strong>    | <strong>Example</strong>      |
+|:--------------------------------|:------------------------------|
+| Add a number to a field         | `Freight + 5`                 |
+| Subtract a number from a field  | `Freight - 5`                 |
+| Multiply a field by a number    | `UnitPrice * 2`               |
+| Divide a field by a number      | `Freight / 2`                 |
+| Add one field to another        | `UnitsInStock + UnitsOnOrder` |
+| Subtract one field from another | `ReorderLevel - UnitsInStock` |
+
 The following example calculates the average discount amount of all orders in the Northwind.mdb database. It multiplies the values in the UnitPrice and Discount fields to determine the discount amount of each order and then calculates the average. You can use this expression in an SQL statement in Visual Basic code:
 
 
 
 ```sql
 SELECT Avg(UnitPrice * Discount) AS [Average Discount] FROM [Order Details];
-
-
 ```
 
  **ACCESS SUPPORT RESOURCES**<br>

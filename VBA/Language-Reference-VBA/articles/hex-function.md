@@ -21,11 +21,12 @@ The required  _number_[argument](vbe-glossary.md) is any valid[numeric expressio
 If  _number_ is not already a whole number, it is rounded to the nearest whole number before being evaluated.
 
 
-|**If  _number_ is**|**Hex returns**|
-|:-----|:-----|
-|[Null](vbe-glossary.md)|Null|
-|[Empty](vbe-glossary.md)|Zero (0)|
-|Any other number|Up to eight hexadecimal characters|
+| <strong>If  <em>number</em> is</strong> | <strong>Hex returns</strong>       |
+|:----------------------------------------|:-----------------------------------|
+| [Null](vbe-glossary.md)                 | Null                               |
+| [Empty](vbe-glossary.md)                | Zero (0)                           |
+| Any other number                        | Up to eight hexadecimal characters |
+
 You can represent hexadecimal numbers directly by preceding numbers in the proper range with  `&;H.` For example, For example, `&;H10` represents decimal 16 in hexadecimal notation.
 
 ## Example

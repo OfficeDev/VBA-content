@@ -31,7 +31,7 @@ The following table lists the values that are supported by the  **InternetCodePa
 
 
 
-| **Name**| **Character Set **| **Code Page**|
+| <strong>Name</strong>| <strong>Character Set **| **Code Page</strong>|
 |Arabic (ISO)| iso-8859-6|28596|
 |Arabic (Windows) |windows-1256|1256|
 |Baltic (ISO)| iso-8859-4|28594|
@@ -67,6 +67,7 @@ The following table lists the values that are supported by the  **InternetCodePa
 |Western European (ISO)| iso-8859-1|28591|
 |Western European (Windows)|Windows-1252|1252|
 The following table lists the code pages Microsoft recommends that you use for the best compatiblity with older e-mail systems.
+
 
 
 

@@ -43,11 +43,12 @@ The  _Flags_ parameter value must be combination of one of more of the following
 
 
 
-|**Constant**|**Value**|**Description**|
-|:-----|:-----|:-----|
-| **visCenterViewDefault**|0|Display the page that contains the specified shape and center the view on the shape.|
-| **visCenterViewIfOffScreen**|1|Center the view only if the shape is currently off screen.|
-| **visCenterViewSelectShape**|2|Also select the shape.|
+| <strong>Constant</strong>                 | <strong>Value</strong> | <strong>Description</strong>                                                         |
+|:------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------|
+| <strong>visCenterViewDefault</strong>     | 0                      | Display the page that contains the specified shape and center the view on the shape. |
+| <strong>visCenterViewIfOffScreen</strong> | 1                      | Center the view only if the shape is currently off screen.                           |
+| <strong>visCenterViewSelectShape</strong> | 2                      | Also select the shape.                                                               |
+
 If the specified shape is not valid, Microsoft Visio returns an Invalid Parameter error.
 
 

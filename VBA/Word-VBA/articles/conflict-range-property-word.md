@@ -30,9 +30,8 @@ The following code example returns the range associated with the second conflict
 
 ```vb
 Dim rng As Range 
- 
-Set rng = ActiveDocument.CoAuthoring.Conflicts(2).Range 
 
+Set rng = ActiveDocument.CoAuthoring.Conflicts(2).Range 
 ```
 
 

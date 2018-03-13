@@ -35,9 +35,11 @@ The value of the  **LayoutDirection** property can be one of these **PpDirection
 
 ||
 |:-----|
-|**ppDirectionLeftToRight**|
-|**ppDirectionMixed**|
-|**ppDirectionRightToLeft**|
+|<strong>ppDirectionLeftToRight</strong>|
+|
+<strong>ppDirectionMixed</strong>|
+|
+<strong>ppDirectionRightToLeft</strong>|
 
 ## Example
 

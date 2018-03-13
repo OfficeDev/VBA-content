@@ -40,6 +40,7 @@ Reports!OrderReport!NewData
 
 <br/>
 
+
 ```
 ' Explicit reference. 
 Reports!OrderReport.Controls!NewData
@@ -67,6 +68,7 @@ End Sub
 
 <br/>
 
+
 The following example shows how to use the **Page** event to add a watermark to a report before it is printed.
 
 ```
@@ -79,10 +81,10 @@ Private Sub Report_Page()
     With Me
         '// Print page border
         Me.Line (0, 0)-(.ScaleWidth - 1, .ScaleHeight - 1), vbBlack, B
-    
+
         '// Print watermark
         strWatermarkText = "Confidential"
-        
+
         .ScaleMode = 3
         .FontName = "Segoe UI"
         .FontSize = 48
@@ -91,11 +93,11 @@ Private Sub Report_Page()
         '// Calculate text metrics
         sizeHor = .TextWidth(strWatermarkText)
         sizeVer = .TextHeight(strWatermarkText)
-        
+
         '// Set the print location
         .CurrentX = (.ScaleWidth / 2) - (sizeHor / 2)
         .CurrentY = (.ScaleHeight / 2) - (sizeVer / 2)
-    
+
         '// Print the watermark
         .Print strWatermarkText
     End With
@@ -105,6 +107,7 @@ End Sub
 ```
 
 <br/>
+
 
 The following example shows how to set the **BackColor** property of a control based on its value.
 
@@ -124,7 +127,7 @@ Private Sub Detail_Format(Cancel As Integer, FormatCount As Integer)
     Dim lngOffset As Long
     lngOffset = (Me.boxInside.Left - Me.boxOutside.Left) * 2
     Me.boxInside.Width = (Me.boxOutside.Width * (Me.AvgOfRating / 10)) - lngOffset
-    
+
     ' do conditional formatting for the control in print preview
     SetControlFormatting
 End Sub
@@ -136,6 +139,7 @@ End Sub
 ```
 
 <br/>
+
 
 The following example shows how to format a report to show progress bars. The example uses a pair of rectangle controls, **boxInside** and **boxOutside**, to create a progress bar based on the value of **AvgOfRating**. The progress bars are visible only when the report is opened in **Print Preview** mode or it is printed.
 
@@ -155,7 +159,7 @@ Private Sub Detail_Format(Cancel As Integer, FormatCount As Integer)
     Dim lngOffset As Long
     lngOffset = (Me.boxInside.Left - Me.boxOutside.Left) * 2
     Me.boxInside.Width = (Me.boxOutside.Width * (Me.AvgOfRating / 10)) - lngOffset
-    
+
     ' do conditional formatting for the control in print preview
     SetControlFormatting
 End Sub
@@ -356,6 +360,7 @@ End Sub
 
 ## About the contributors
 <a name="AboutContributors"> </a>
+
 
 Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
 

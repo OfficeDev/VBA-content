@@ -59,7 +59,6 @@ With ActiveWorkbook
      .SaveAs Filename:=Environ("TEMP") &; "\New1.xlsx", FileFormat:=xlOpenXMLWorkbook
      .Close SaveChanges:=False
 End With
-
 ```
 
 This example copies worksheets Sheet1, Sheet2 and Sheet4 to a new blank workbook, then saves and closes the new workbook.
@@ -73,7 +72,6 @@ With ActiveWorkbook
      .SaveAs Filename:=Environ("TEMP") &; "\New3.xlsx", FileFormat:=xlOpenXMLWorkbook 
      .Close SaveChanges:=False 
 End With 
-
 ```
 
 

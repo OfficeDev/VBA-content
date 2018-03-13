@@ -53,16 +53,15 @@ The  **GeometryCount** property returns the number of Geometry sections included
 
 ```
 Shape.AddSection(visSectionFirstComponent + i) 
-
 ```
 
  where 0 <= i < **visSectionLastComponent** - **visSectionFirstComponent** .
 
 
 - When 0 <= i <  **Shape.GeometryCount** , the new section precedes the present i'th Geometry section.
-    
+
 - When  **Shape.GeometryCount** <= i < **visSectionLastComponent** - **visSectionFirstComponent** , the new section is the last section.
-    
+
 
 
 
@@ -72,21 +71,21 @@ The following macro shows how to add a Scratch section to the ShapeSheet of a re
 
 
 ```vb
- 
+
 Public Sub AddSection_Example() 
- 
+
  Dim vsoPage As Visio.Page 
  Dim vsoShape As Visio.Shape 
- 
+
  'Get the active page. 
  Set vsoPage = ActivePage 
- 
+
  'Draw a rectangle on the active page. 
  Set vsoShape = vsoPage.DrawRectangle(1, 5, 5, 1) 
- 
+
  'Add a scratch section to the ShapeSheet. 
  vsoShape.AddSection visSectionScratch 
- 
+
 End Sub
 ```
 

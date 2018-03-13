@@ -25,7 +25,7 @@ Returns the disk or Web path to the specified object. Read-only  **String** .
 
 ## Remarks
 
-The path doesn't include a trailing character — for example, "C:\MSOffice" or "http://MyServer". Use the  **[PathSeparator](application-pathseparator-property-word.md)** property to add the character that separates folders and drive letters. Use the **[Name](fileconverter-name-property-word.md)** property to return the file name without the path. You can create the full name of a file converter by concatenating the **Path** , **PathSeparator** , and **Name** properties.
+The path doesn't include a trailing character — for example, "C:\MSOffice" or "<http://MyServer>". Use the  <strong><a href="application-pathseparator-property-word.md" data-raw-source="[PathSeparator](application-pathseparator-property-word.md)">PathSeparator</a></strong> property to add the character that separates folders and drive letters. Use the <strong><a href="fileconverter-name-property-word.md" data-raw-source="[Name](fileconverter-name-property-word.md)">Name</a></strong> property to return the file name without the path. You can create the full name of a file converter by concatenating the <strong>Path</strong> , <strong>PathSeparator</strong> , and <strong>Name</strong> properties.
 
 
 ## See also

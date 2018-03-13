@@ -25,7 +25,6 @@ The following code example accepts the first conflict in the active document.
 
 ```vb
 ActiveDocument.CoAuthoring.Conflicts(1).Accept 
-
 ```
 
 

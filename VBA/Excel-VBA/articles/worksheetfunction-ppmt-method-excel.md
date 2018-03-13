@@ -47,10 +47,11 @@ For a more complete description of the arguments in PPMT, see PV.
 
 
 
-|**Set type equal to**|**If payments are due**|
-|:-----|:-----|
-|0 or omitted|At the end of the period|
-|1|At the beginning of the period|
+| <strong>Set type equal to</strong> | <strong>If payments are due</strong> |
+|:-----------------------------------|:-------------------------------------|
+| 0 or omitted                       | At the end of the period             |
+| 1                                  | At the beginning of the period       |
+
 Make sure that you are consistent about the units you use for specifying rate and nper. If you make monthly payments on a four-year loan at 12 percent annual interest, use 12%/12 for rate and 4*12 for nper. If you make annual payments on the same loan, use 12% for rate and 4 for nper.
 
 

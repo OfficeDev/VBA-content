@@ -26,13 +26,13 @@ Once you have obtained a  **StorageItem** object, you can do the following to st
 
 
 - Add attachments to the item for storage.
-    
+
 - Use explicit built-in properties of the item such as  **[Body](storageitem-body-property-outlook.md)** to store custom data.
-    
+
 - Add custom properties to the item using  **[UserProperties.Add](userproperties-add-method-outlook.md)** method. Note that in this case, the optional _AddToFolderFields_ and _DisplayFormat_ arguments of the **UserProperties.Add** method will be ignored.
-    
+
 - Use the  **[PropertyAccessor](propertyaccessor-object-outlook.md)** object to get or set custom properties.
-    
+
 
 
 The default message class for a new  **StorageItem** is **IPM.Storage**. If the **StorageItem** existed as a hidden message in a version of Outlook prior to Microsoft Office Outlook 2007, the message class will remain unchanged. In order to prevent modification of the message class, **StorageItem** does not expose an explicit **MessageClass** property.
@@ -46,11 +46,11 @@ The following code sample in Visual Basic for Applications shows how to use the 
 
 
 1. The code sample calls  **[Folder.GetStorage](folder-getstorage-method-outlook.md)** to obtain an existing **StorageItem** object that has the subject "My Private Storage" in the Inbox. If no **StorageItem** with that subject already exists, **GetStorage** creates a **StorageItem** object with that subject.
-    
+
 2. If the  **StorageItem** is newly created, the code sample creates a custom property "Order Number" for the object. Note that "Order Number" is a property of a hidden item in the Inbox.
-    
+
 3. The code sample then assigns a value to "Order Number" and saves the  **StorageItem** object.
-    
+
 
 
 
@@ -58,36 +58,34 @@ The following code sample in Visual Basic for Applications shows how to use the 
 
 ```
 Sub AssignStorageData() 
- 
- Dim oInbox As Outlook.Folder 
- 
- Dim myStorage As Outlook.StorageItem 
- 
- 
- 
- Set oInbox = Application.Session.GetDefaultFolder(olFolderInbox) 
- 
- ' Get an existing instance of StorageItem, or create new if it doesn't exist 
- 
- Set myStorage = oInbox.GetStorage("My Private Storage", olIdentifyBySubject) 
- 
- ' If StorageItem is new, add a custom property for Order Number 
- 
- If myStorage.Size = 0 Then 
- 
- myStorage.UserProperties.Add "Order Number", olNumber 
- 
- End If 
- 
- ' Assign a value to the custom property 
- 
- myStorage.UserProperties("Order Number").Value = 100 
- 
- myStorage.Save 
- 
-End Sub 
- 
 
+ Dim oInbox As Outlook.Folder 
+
+ Dim myStorage As Outlook.StorageItem 
+
+
+
+ Set oInbox = Application.Session.GetDefaultFolder(olFolderInbox) 
+
+ ' Get an existing instance of StorageItem, or create new if it doesn't exist 
+
+ Set myStorage = oInbox.GetStorage("My Private Storage", olIdentifyBySubject) 
+
+ ' If StorageItem is new, add a custom property for Order Number 
+
+ If myStorage.Size = 0 Then 
+
+ myStorage.UserProperties.Add "Order Number", olNumber 
+
+ End If 
+
+ ' Assign a value to the custom property 
+
+ myStorage.UserProperties("Order Number").Value = 100 
+
+ myStorage.Save 
+
+End Sub 
 ```
 
 

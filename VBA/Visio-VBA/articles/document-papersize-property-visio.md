@@ -34,24 +34,25 @@ Setting the  **PaperSize** property is the equivalent of choosing a printer pape
 
 
 
-|** Constant**|** Value**|** Description**|
-|:-----|:-----|:-----|
-| **visPaperSizeUnknown**| 0| Not known|
-| **visPaperSizeLetter**| 1| Letter 8 1/2 x 11 in|
-| **visPaperSizeLegal**| 5| Legal 8 1/2 x 14 in|
-| **visPaperSizeA3**| 8| A3 297 x 420 mm|
-| **visPaperSizeA4**| 9| A4 210 x 297 mm|
-| **visPaperSizeA5**| 11| A5 148 x 210 mm|
-| **visPaperSizeB4**| 12| B4 (JIS) 250 x 354 mm|
-| **visPaperSizeB5**| 13| B5 (JIS) 182 x 257 mm|
-| **visPaperSizeFolio**| 14| Folio 8 1/2 x 13 in|
-| **visPaperSizeNote**| 18| Note 8 1/2 x 11 in|
-| **visPaperSizeSizeC**| 24| C size sheet 17 x 22 in.|
-| **visPaperSizeSizeD**| 25| D size sheet 22 x 34 in.|
-| **visPaperSizeSizeE**| 26| E size sheet 34 x 44 in.|
+| ** Constant**                        | ** Value** | ** Description**         |
+|:-------------------------------------|:-----------|:-------------------------|
+| <strong>visPaperSizeUnknown</strong> | 0          | Not known                |
+| <strong>visPaperSizeLetter</strong>  | 1          | Letter 8 1/2 x 11 in     |
+| <strong>visPaperSizeLegal</strong>   | 5          | Legal 8 1/2 x 14 in      |
+| <strong>visPaperSizeA3</strong>      | 8          | A3 297 x 420 mm          |
+| <strong>visPaperSizeA4</strong>      | 9          | A4 210 x 297 mm          |
+| <strong>visPaperSizeA5</strong>      | 11         | A5 148 x 210 mm          |
+| <strong>visPaperSizeB4</strong>      | 12         | B4 (JIS) 250 x 354 mm    |
+| <strong>visPaperSizeB5</strong>      | 13         | B5 (JIS) 182 x 257 mm    |
+| <strong>visPaperSizeFolio</strong>   | 14         | Folio 8 1/2 x 13 in      |
+| <strong>visPaperSizeNote</strong>    | 18         | Note 8 1/2 x 11 in       |
+| <strong>visPaperSizeSizeC</strong>   | 24         | C size sheet 17 x 22 in. |
+| <strong>visPaperSizeSizeD</strong>   | 25         | D size sheet 22 x 34 in. |
+| <strong>visPaperSizeSizeE</strong>   | 26         | E size sheet 34 x 44 in. |
+
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 
 
 -  **Microsoft.Office.Interop.Visio.IVDocument.PaperSize**
-    
+
 

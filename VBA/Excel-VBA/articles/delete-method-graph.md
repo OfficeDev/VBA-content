@@ -28,8 +28,9 @@ Deletes the specified object.
 
 
 |XlDeleteShiftDirection can be one of these XlDeleteShiftDirection constants.|
-| **xlShiftToLeft**|
-| **xlShiftUp** If this argument is omitted, Microsoft Graph decides how to shift cells based on the shape of the specified range.|
+| <strong>xlShiftToLeft</strong>|
+| 
+<strong>xlShiftUp</strong> If this argument is omitted, Microsoft Graph decides how to shift cells based on the shape of the specified range.|
 
 ## Remarks
 

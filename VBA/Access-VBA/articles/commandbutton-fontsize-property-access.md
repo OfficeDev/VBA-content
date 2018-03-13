@@ -17,9 +17,9 @@ You can use the  **FontSize** property to specify the point size for text in the
 
 
 - When displaying or printing controls on forms and reports.
-    
+
 - When using the  **Print** method on a report.
-    
+
 
 Read/write  **Integer**.
 
@@ -37,11 +37,12 @@ The  **FontSize** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|8|(Default for all reports and controls except command buttons) The text is 8-point type.|
-|10|(Default for command buttons) The text is 10-point type.|
-|Other sizes|The text is the indicated size.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                            |
+|:-------------------------|:----------------------------------------------------------------------------------------|
+| 8                        | (Default for all reports and controls except command buttons) The text is 8-point type. |
+| 10                       | (Default for command buttons) The text is 10-point type.                                |
+| Other sizes              | The text is the indicated size.                                                         |
+
 You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
 
 For reports, you can set this property only in an event procedure or in a macro specified by the  **OnPrint** event property setting.
@@ -60,7 +61,7 @@ Private Sub Detail_Format(Cancel As Integer, _
  Dim rpt as Report 
  Dim strMessage As String 
  Dim intHorSize As Integer, intVerSize As Integer 
- 
+
  Set rpt = Me 
  strMessage = "DisplayMessage" 
  With rpt 

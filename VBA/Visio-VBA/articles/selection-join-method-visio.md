@@ -30,7 +30,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Join** method is equivalent to clicking **Join** in the Microsoft Visio user interface (click **Operations** in the **Shape Design** group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab). The new shape inherits the text and formatting of the first selected shape and is the topmost shape in its container—the _n_th shape in the  **Shapes** collection of its containing shape, where _n_ = Count.
+Calling the  <strong>Join</strong> method is equivalent to clicking <strong>Join</strong> in the Microsoft Visio user interface (click <strong>Operations</strong> in the <strong>Shape Design</strong> group on the[Developer](http://msdn.microsoft.com/library/1bdc55f5-8fc7-7257-03d5-c049eceb29ff%28Office.15%29.aspx) tab). The new shape inherits the text and formatting of the first selected shape and is the topmost shape in its container—the <em>n_th shape in the  <strong>Shapes</strong> collection of its containing shape, where _n</em> = Count.
 
 The original shapes are deleted and no shapes are selected when the operation is complete.
 

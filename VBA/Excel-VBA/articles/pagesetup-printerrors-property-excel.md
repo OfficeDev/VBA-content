@@ -29,11 +29,15 @@ Sets or returns an  **[XlPrintErrors](xlprinterrors-enumeration-excel.md)** cont
 
 
 
-| **XlPrintErrors** can be one of these **XlPrintErrors** constants.|
-| **xlPrintErrorsBlank**|
-| **xlPrintErrorsDash**|
-| **xlPrintErrorsDisplayed**|
-| **xlPrintErrorsNA**|
+| <strong>XlPrintErrors</strong> can be one of these <strong>XlPrintErrors</strong> constants.|
+| 
+<strong>xlPrintErrorsBlank</strong>|
+| 
+<strong>xlPrintErrorsDash</strong>|
+| 
+<strong>xlPrintErrorsDisplayed</strong>|
+| 
+<strong>xlPrintErrorsNA</strong>|
 
 ## Example
 
@@ -42,22 +46,22 @@ In this example, Microsoft Excel uses a formula that returns an error in the act
 
 ```vb
 Sub UsePrintErrors() 
- 
+
  Dim wksOne As Worksheet 
- 
+
  Set wksOne = Application.ActiveSheet 
- 
+
  ' Create a formula that returns an error value. 
  Range("A1").Value = 1 
  Range("A2").Value = 0 
  Range("A3").Formula = "=A1/A2" 
- 
+
  ' Change print errors to display dashes. 
  wksOne.PageSetup.PrintErrors = xlPrintErrorsDash 
- 
+
  ' Use the Print Preview window to see the dashes used for print errors. 
  ActiveWindow.SelectedSheets.PrintPreview 
- 
+
 End Sub
 ```
 

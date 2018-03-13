@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Constants Enumeration (Access)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -21,235 +21,236 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Value**|**Description**|
-|:-----|:-----|:-----|
-|**acAltMask**|4||
-|**acApplyFilter**|1||
-|**acApplyServerFilter**|3||
-|**acCloseFilterWindow**|2||
-|**acCloseServerFilterWindow**|4||
-|**acCopy**|2||
-|**acCtrlMask**|2||
-|**acCut**|1||
-|**acDataErrAdded**|2||
-|**acDataErrContinue**|0||
-|**acDataErrDisplay**|1||
-|**acDelete**|6||
-|**acDeleteCancel**|1||
-|**acDeleteOK**|0||
-|**acDeleteUserCancel**|2||
-|**acEditMenu**|1||
-|**acEffectChisel**|5||
-|**acEffectEtched**|3||
-|**acEffectNormal**|0||
-|**acEffectRaised**|1||
-|**acEffectShadow**|4||
-|**acEffectSunken**|2||
-|**acExit**|2||
-|**acFile**|0||
-|**acFilterAdvanced**|1||
-|**acFilterByForm**|0||
-|**acFormatASP**|Microsoft||
-|**acFormatHTML**|HTML||
-|**acFormatIIS**|Microsoft||
-|**acFormatPDF**|PDF||
-|**acFormatRTF**|Rich||
-|**acFormatSNP**|Snapshot||
-|**acFormatTXT**|MS-DOS||
-|**acFormatXLS**|Microsoft||
-|**acFormatXPS**|XPS||
-|**acFormBar**|0||
-|**acGridlinesBoth**|3||
-|**acGridlinesBothV2**|-1||
-|**acGridlinesHoriz**|1||
-|**acGridlinesNone**|0||
-|**acGridlinesVert**|2||
-|**acLBClose**|8||
-|**acLBEnd**|9||
-|**acLBGetColumnCount**|4||
-|**acLBGetColumnWidth**|5||
-|**acLBGetFormat**|7||
-|**acLBGetRowCount**|3||
-|**acLBGetValue**|6||
-|**acLBInitialize**|0||
-|**acLBOpen**|1||
-|**acLeftButton**|1||
-|**acMenuCheck**|3||
-|**acMenuGray**|1||
-|**acMenuUncheck**|2||
-|**acMenuUngray**|0||
-|**acMenuVer1X**|11||
-|**acMenuVer20**|20||
-|**acMenuVer70**|70||
-|**acMiddleButton**|4||
-|**acNew**|0||
-|**acObject**|14||
-|**acObjectUpdate**|3||
-|**acObjectVerb**|0||
-|**acObjStateDirty**|2||
-|**acObjStateNew**|4||
-|**acObjStateOpen**|1||
-|**acOLEActivate**|7||
-|**acOLEActivateDoubleClick**|2||
-|**acOLEActivateGetFocus**|1||
-|**acOLEActivateManual**|0||
-|**acOLEChanged**|0||
-|**acOLEClose**|9||
-|**acOLEClosed**|2||
-|**acOLECopy**|4||
-|**acOLECreateEmbed**|0||
-|**acOLECreateFromFile**|1||
-|**acOLECreateLink**|1||
-|**acOLECreateNew**|0||
-|**acOLEDelete**|10||
-|**acOLEDisplayContent**|0||
-|**acOLEDisplayIcon**|1||
-|**acOLEEither**|2||
-|**acOLEEmbedded**|1||
-|**acOLEFetchVerbs**|17||
-|**acOLEInsertObjDlg**|14||
-|**acOLELinked**|0||
-|**acOLENone**|3||
-|**acOLEPaste**|5||
-|**acOLEPasteSpecialDlg**|15||
-|**acOLERenamed**|3||
-|**acOLESaved**|1||
-|**acOLESizeAutoSize**|2||
-|**acOLESizeClip**|0||
-|**acOLESizeStretch**|1||
-|**acOLESizeZoom**|3||
-|**acOLEUpdate**|6||
-|**acOLEUpdateAutomatic**|0||
-|**acOLEUpdateFrozen**|1||
-|**acOLEUpdateManual**|2||
-|**acOLEVerbHide**|-3||
-|**acOLEVerbInPlaceActivate**|-5||
-|**acOLEVerbInPlaceUIActivate**|-4||
-|**acOLEVerbOpen**|-2||
-|**acOLEVerbPrimary**|0||
-|**acOLEVerbShow**|-1||
-|**acPaste**|3||
-|**acPrompt**|0||
-|**acRecordsMenu**|5||
-|**acRefresh**|5||
-|**acRightButton**|2||
-|**acSave**|1||
-|**acSaveForm**|4||
-|**acSaveFormAs**|5||
-|**acSaveRecord**|4||
-|**acSecFrmRptExecute**|256||
-|**acSecFrmRptReadDef**|4||
-|**acSecFrmRptWriteDef**|65548||
-|**acSecMacExecute**|8||
-|**acSecMacReadDef**|10||
-|**acSecMacWriteDef**|65542||
-|**acSecModReadDef**|2||
-|**acSecModWriteDef**|65542||
-|**acSelectAllRecords**|9||
-|**acSelectRecord**|8||
-|**acServerFilterByForm**|2||
-|**acShiftMask**|1||
-|**acShowAllRecords**|0||
-|**acUndo**|0||
-|**vbKey0**|48||
-|**vbKey1**|49||
-|**vbKey2**|50||
-|**vbKey3**|51||
-|**vbKey4**|52||
-|**vbKey5**|53||
-|**vbKey6**|54||
-|**vbKey7**|55||
-|**vbKey8**|56||
-|**vbKey9**|57||
-|**vbKeyA**|65||
-|**vbKeyAdd**|107||
-|**vbKeyB**|66||
-|**vbKeyBack**|8||
-|**vbKeyC**|67||
-|**vbKeyCancel**|3||
-|**vbKeyCapital**|20||
-|**vbKeyClear**|12||
-|**vbKeyControl**|17||
-|**vbKeyD**|68||
-|**vbKeyDecimal**|110||
-|**vbKeyDelete**|46||
-|**vbKeyDivide**|111||
-|**vbKeyDown**|40||
-|**vbKeyE**|69||
-|**vbKeyEnd**|35||
-|**vbKeyEscape**|27||
-|**vbKeyExecute**|43||
-|**vbKeyF**|70||
-|**vbKeyF1**|112||
-|**vbKeyF10**|121||
-|**vbKeyF11**|122||
-|**vbKeyF12**|123||
-|**vbKeyF13**|124||
-|**vbKeyF14**|125||
-|**vbKeyF15**|126||
-|**vbKeyF16**|127||
-|**vbKeyF2**|113||
-|**vbKeyF3**|114||
-|**vbKeyF4**|115||
-|**vbKeyF5**|116||
-|**vbKeyF6**|117||
-|**vbKeyF7**|118||
-|**vbKeyF8**|119||
-|**vbKeyF9**|120||
-|**vbKeyG**|71||
-|**vbKeyH**|72||
-|**vbKeyHelp**|47||
-|**vbKeyHome**|36||
-|**vbKeyI**|73||
-|**vbKeyInsert**|45||
-|**vbKeyJ**|74||
-|**vbKeyK**|75||
-|**vbKeyL**|76||
-|**vbKeyLButton**|1||
-|**vbKeyLeft**|37||
-|**vbKeyM**|77||
-|**vbKeyMButton**|4||
-|**vbKeyMenu**|18||
-|**vbKeyMultiply**|106||
-|**vbKeyN**|78||
-|**vbKeyNumlock**|144||
-|**vbKeyNumpad0**|96||
-|**vbKeyNumpad1**|97||
-|**vbKeyNumpad2**|98||
-|**vbKeyNumpad3**|99||
-|**vbKeyNumpad4**|100||
-|**vbKeyNumpad5**|101||
-|**vbKeyNumpad6**|102||
-|**vbKeyNumpad7**|103||
-|**vbKeyNumpad8**|104||
-|**vbKeyNumpad9**|105||
-|**vbKeyO**|79||
-|**vbKeyP**|80||
-|**vbKeyPageDown**|34||
-|**vbKeyPageUp**|33||
-|**vbKeyPause**|19||
-|**vbKeyPrint**|42||
-|**vbKeyQ**|81||
-|**vbKeyR**|82||
-|**vbKeyRButton**|2||
-|**vbKeyReturn**|13||
-|**vbKeyRight**|39||
-|**vbKeyS**|83||
-|**vbKeySelect**|41||
-|**vbKeySeparator**|108||
-|**vbKeyShift**|16||
-|**vbKeySnapshot**|44||
-|**vbKeySpace**|32||
-|**vbKeySubtract**|109||
-|**vbKeyT**|84||
-|**vbKeyTab**|9||
-|**vbKeyU**|85||
-|**vbKeyUp**|38||
-|**vbKeyV**|86||
-|**vbKeyW**|87||
-|**vbKeyX**|88||
-|**vbKeyY**|89||
-|**vbKeyZ**|90||
+| <strong>Name</strong>                       | <strong>Value</strong> | <strong>Description</strong> |
+|:--------------------------------------------|:-----------------------|:-----------------------------|
+| <strong>acAltMask</strong>                  | 4                      |                              |
+| <strong>acApplyFilter</strong>              | 1                      |                              |
+| <strong>acApplyServerFilter</strong>        | 3                      |                              |
+| <strong>acCloseFilterWindow</strong>        | 2                      |                              |
+| <strong>acCloseServerFilterWindow</strong>  | 4                      |                              |
+| <strong>acCopy</strong>                     | 2                      |                              |
+| <strong>acCtrlMask</strong>                 | 2                      |                              |
+| <strong>acCut</strong>                      | 1                      |                              |
+| <strong>acDataErrAdded</strong>             | 2                      |                              |
+| <strong>acDataErrContinue</strong>          | 0                      |                              |
+| <strong>acDataErrDisplay</strong>           | 1                      |                              |
+| <strong>acDelete</strong>                   | 6                      |                              |
+| <strong>acDeleteCancel</strong>             | 1                      |                              |
+| <strong>acDeleteOK</strong>                 | 0                      |                              |
+| <strong>acDeleteUserCancel</strong>         | 2                      |                              |
+| <strong>acEditMenu</strong>                 | 1                      |                              |
+| <strong>acEffectChisel</strong>             | 5                      |                              |
+| <strong>acEffectEtched</strong>             | 3                      |                              |
+| <strong>acEffectNormal</strong>             | 0                      |                              |
+| <strong>acEffectRaised</strong>             | 1                      |                              |
+| <strong>acEffectShadow</strong>             | 4                      |                              |
+| <strong>acEffectSunken</strong>             | 2                      |                              |
+| <strong>acExit</strong>                     | 2                      |                              |
+| <strong>acFile</strong>                     | 0                      |                              |
+| <strong>acFilterAdvanced</strong>           | 1                      |                              |
+| <strong>acFilterByForm</strong>             | 0                      |                              |
+| <strong>acFormatASP</strong>                | Microsoft              |                              |
+| <strong>acFormatHTML</strong>               | HTML                   |                              |
+| <strong>acFormatIIS</strong>                | Microsoft              |                              |
+| <strong>acFormatPDF</strong>                | PDF                    |                              |
+| <strong>acFormatRTF</strong>                | Rich                   |                              |
+| <strong>acFormatSNP</strong>                | Snapshot               |                              |
+| <strong>acFormatTXT</strong>                | MS-DOS                 |                              |
+| <strong>acFormatXLS</strong>                | Microsoft              |                              |
+| <strong>acFormatXPS</strong>                | XPS                    |                              |
+| <strong>acFormBar</strong>                  | 0                      |                              |
+| <strong>acGridlinesBoth</strong>            | 3                      |                              |
+| <strong>acGridlinesBothV2</strong>          | -1                     |                              |
+| <strong>acGridlinesHoriz</strong>           | 1                      |                              |
+| <strong>acGridlinesNone</strong>            | 0                      |                              |
+| <strong>acGridlinesVert</strong>            | 2                      |                              |
+| <strong>acLBClose</strong>                  | 8                      |                              |
+| <strong>acLBEnd</strong>                    | 9                      |                              |
+| <strong>acLBGetColumnCount</strong>         | 4                      |                              |
+| <strong>acLBGetColumnWidth</strong>         | 5                      |                              |
+| <strong>acLBGetFormat</strong>              | 7                      |                              |
+| <strong>acLBGetRowCount</strong>            | 3                      |                              |
+| <strong>acLBGetValue</strong>               | 6                      |                              |
+| <strong>acLBInitialize</strong>             | 0                      |                              |
+| <strong>acLBOpen</strong>                   | 1                      |                              |
+| <strong>acLeftButton</strong>               | 1                      |                              |
+| <strong>acMenuCheck</strong>                | 3                      |                              |
+| <strong>acMenuGray</strong>                 | 1                      |                              |
+| <strong>acMenuUncheck</strong>              | 2                      |                              |
+| <strong>acMenuUngray</strong>               | 0                      |                              |
+| <strong>acMenuVer1X</strong>                | 11                     |                              |
+| <strong>acMenuVer20</strong>                | 20                     |                              |
+| <strong>acMenuVer70</strong>                | 70                     |                              |
+| <strong>acMiddleButton</strong>             | 4                      |                              |
+| <strong>acNew</strong>                      | 0                      |                              |
+| <strong>acObject</strong>                   | 14                     |                              |
+| <strong>acObjectUpdate</strong>             | 3                      |                              |
+| <strong>acObjectVerb</strong>               | 0                      |                              |
+| <strong>acObjStateDirty</strong>            | 2                      |                              |
+| <strong>acObjStateNew</strong>              | 4                      |                              |
+| <strong>acObjStateOpen</strong>             | 1                      |                              |
+| <strong>acOLEActivate</strong>              | 7                      |                              |
+| <strong>acOLEActivateDoubleClick</strong>   | 2                      |                              |
+| <strong>acOLEActivateGetFocus</strong>      | 1                      |                              |
+| <strong>acOLEActivateManual</strong>        | 0                      |                              |
+| <strong>acOLEChanged</strong>               | 0                      |                              |
+| <strong>acOLEClose</strong>                 | 9                      |                              |
+| <strong>acOLEClosed</strong>                | 2                      |                              |
+| <strong>acOLECopy</strong>                  | 4                      |                              |
+| <strong>acOLECreateEmbed</strong>           | 0                      |                              |
+| <strong>acOLECreateFromFile</strong>        | 1                      |                              |
+| <strong>acOLECreateLink</strong>            | 1                      |                              |
+| <strong>acOLECreateNew</strong>             | 0                      |                              |
+| <strong>acOLEDelete</strong>                | 10                     |                              |
+| <strong>acOLEDisplayContent</strong>        | 0                      |                              |
+| <strong>acOLEDisplayIcon</strong>           | 1                      |                              |
+| <strong>acOLEEither</strong>                | 2                      |                              |
+| <strong>acOLEEmbedded</strong>              | 1                      |                              |
+| <strong>acOLEFetchVerbs</strong>            | 17                     |                              |
+| <strong>acOLEInsertObjDlg</strong>          | 14                     |                              |
+| <strong>acOLELinked</strong>                | 0                      |                              |
+| <strong>acOLENone</strong>                  | 3                      |                              |
+| <strong>acOLEPaste</strong>                 | 5                      |                              |
+| <strong>acOLEPasteSpecialDlg</strong>       | 15                     |                              |
+| <strong>acOLERenamed</strong>               | 3                      |                              |
+| <strong>acOLESaved</strong>                 | 1                      |                              |
+| <strong>acOLESizeAutoSize</strong>          | 2                      |                              |
+| <strong>acOLESizeClip</strong>              | 0                      |                              |
+| <strong>acOLESizeStretch</strong>           | 1                      |                              |
+| <strong>acOLESizeZoom</strong>              | 3                      |                              |
+| <strong>acOLEUpdate</strong>                | 6                      |                              |
+| <strong>acOLEUpdateAutomatic</strong>       | 0                      |                              |
+| <strong>acOLEUpdateFrozen</strong>          | 1                      |                              |
+| <strong>acOLEUpdateManual</strong>          | 2                      |                              |
+| <strong>acOLEVerbHide</strong>              | -3                     |                              |
+| <strong>acOLEVerbInPlaceActivate</strong>   | -5                     |                              |
+| <strong>acOLEVerbInPlaceUIActivate</strong> | -4                     |                              |
+| <strong>acOLEVerbOpen</strong>              | -2                     |                              |
+| <strong>acOLEVerbPrimary</strong>           | 0                      |                              |
+| <strong>acOLEVerbShow</strong>              | -1                     |                              |
+| <strong>acPaste</strong>                    | 3                      |                              |
+| <strong>acPrompt</strong>                   | 0                      |                              |
+| <strong>acRecordsMenu</strong>              | 5                      |                              |
+| <strong>acRefresh</strong>                  | 5                      |                              |
+| <strong>acRightButton</strong>              | 2                      |                              |
+| <strong>acSave</strong>                     | 1                      |                              |
+| <strong>acSaveForm</strong>                 | 4                      |                              |
+| <strong>acSaveFormAs</strong>               | 5                      |                              |
+| <strong>acSaveRecord</strong>               | 4                      |                              |
+| <strong>acSecFrmRptExecute</strong>         | 256                    |                              |
+| <strong>acSecFrmRptReadDef</strong>         | 4                      |                              |
+| <strong>acSecFrmRptWriteDef</strong>        | 65548                  |                              |
+| <strong>acSecMacExecute</strong>            | 8                      |                              |
+| <strong>acSecMacReadDef</strong>            | 10                     |                              |
+| <strong>acSecMacWriteDef</strong>           | 65542                  |                              |
+| <strong>acSecModReadDef</strong>            | 2                      |                              |
+| <strong>acSecModWriteDef</strong>           | 65542                  |                              |
+| <strong>acSelectAllRecords</strong>         | 9                      |                              |
+| <strong>acSelectRecord</strong>             | 8                      |                              |
+| <strong>acServerFilterByForm</strong>       | 2                      |                              |
+| <strong>acShiftMask</strong>                | 1                      |                              |
+| <strong>acShowAllRecords</strong>           | 0                      |                              |
+| <strong>acUndo</strong>                     | 0                      |                              |
+| <strong>vbKey0</strong>                     | 48                     |                              |
+| <strong>vbKey1</strong>                     | 49                     |                              |
+| <strong>vbKey2</strong>                     | 50                     |                              |
+| <strong>vbKey3</strong>                     | 51                     |                              |
+| <strong>vbKey4</strong>                     | 52                     |                              |
+| <strong>vbKey5</strong>                     | 53                     |                              |
+| <strong>vbKey6</strong>                     | 54                     |                              |
+| <strong>vbKey7</strong>                     | 55                     |                              |
+| <strong>vbKey8</strong>                     | 56                     |                              |
+| <strong>vbKey9</strong>                     | 57                     |                              |
+| <strong>vbKeyA</strong>                     | 65                     |                              |
+| <strong>vbKeyAdd</strong>                   | 107                    |                              |
+| <strong>vbKeyB</strong>                     | 66                     |                              |
+| <strong>vbKeyBack</strong>                  | 8                      |                              |
+| <strong>vbKeyC</strong>                     | 67                     |                              |
+| <strong>vbKeyCancel</strong>                | 3                      |                              |
+| <strong>vbKeyCapital</strong>               | 20                     |                              |
+| <strong>vbKeyClear</strong>                 | 12                     |                              |
+| <strong>vbKeyControl</strong>               | 17                     |                              |
+| <strong>vbKeyD</strong>                     | 68                     |                              |
+| <strong>vbKeyDecimal</strong>               | 110                    |                              |
+| <strong>vbKeyDelete</strong>                | 46                     |                              |
+| <strong>vbKeyDivide</strong>                | 111                    |                              |
+| <strong>vbKeyDown</strong>                  | 40                     |                              |
+| <strong>vbKeyE</strong>                     | 69                     |                              |
+| <strong>vbKeyEnd</strong>                   | 35                     |                              |
+| <strong>vbKeyEscape</strong>                | 27                     |                              |
+| <strong>vbKeyExecute</strong>               | 43                     |                              |
+| <strong>vbKeyF</strong>                     | 70                     |                              |
+| <strong>vbKeyF1</strong>                    | 112                    |                              |
+| <strong>vbKeyF10</strong>                   | 121                    |                              |
+| <strong>vbKeyF11</strong>                   | 122                    |                              |
+| <strong>vbKeyF12</strong>                   | 123                    |                              |
+| <strong>vbKeyF13</strong>                   | 124                    |                              |
+| <strong>vbKeyF14</strong>                   | 125                    |                              |
+| <strong>vbKeyF15</strong>                   | 126                    |                              |
+| <strong>vbKeyF16</strong>                   | 127                    |                              |
+| <strong>vbKeyF2</strong>                    | 113                    |                              |
+| <strong>vbKeyF3</strong>                    | 114                    |                              |
+| <strong>vbKeyF4</strong>                    | 115                    |                              |
+| <strong>vbKeyF5</strong>                    | 116                    |                              |
+| <strong>vbKeyF6</strong>                    | 117                    |                              |
+| <strong>vbKeyF7</strong>                    | 118                    |                              |
+| <strong>vbKeyF8</strong>                    | 119                    |                              |
+| <strong>vbKeyF9</strong>                    | 120                    |                              |
+| <strong>vbKeyG</strong>                     | 71                     |                              |
+| <strong>vbKeyH</strong>                     | 72                     |                              |
+| <strong>vbKeyHelp</strong>                  | 47                     |                              |
+| <strong>vbKeyHome</strong>                  | 36                     |                              |
+| <strong>vbKeyI</strong>                     | 73                     |                              |
+| <strong>vbKeyInsert</strong>                | 45                     |                              |
+| <strong>vbKeyJ</strong>                     | 74                     |                              |
+| <strong>vbKeyK</strong>                     | 75                     |                              |
+| <strong>vbKeyL</strong>                     | 76                     |                              |
+| <strong>vbKeyLButton</strong>               | 1                      |                              |
+| <strong>vbKeyLeft</strong>                  | 37                     |                              |
+| <strong>vbKeyM</strong>                     | 77                     |                              |
+| <strong>vbKeyMButton</strong>               | 4                      |                              |
+| <strong>vbKeyMenu</strong>                  | 18                     |                              |
+| <strong>vbKeyMultiply</strong>              | 106                    |                              |
+| <strong>vbKeyN</strong>                     | 78                     |                              |
+| <strong>vbKeyNumlock</strong>               | 144                    |                              |
+| <strong>vbKeyNumpad0</strong>               | 96                     |                              |
+| <strong>vbKeyNumpad1</strong>               | 97                     |                              |
+| <strong>vbKeyNumpad2</strong>               | 98                     |                              |
+| <strong>vbKeyNumpad3</strong>               | 99                     |                              |
+| <strong>vbKeyNumpad4</strong>               | 100                    |                              |
+| <strong>vbKeyNumpad5</strong>               | 101                    |                              |
+| <strong>vbKeyNumpad6</strong>               | 102                    |                              |
+| <strong>vbKeyNumpad7</strong>               | 103                    |                              |
+| <strong>vbKeyNumpad8</strong>               | 104                    |                              |
+| <strong>vbKeyNumpad9</strong>               | 105                    |                              |
+| <strong>vbKeyO</strong>                     | 79                     |                              |
+| <strong>vbKeyP</strong>                     | 80                     |                              |
+| <strong>vbKeyPageDown</strong>              | 34                     |                              |
+| <strong>vbKeyPageUp</strong>                | 33                     |                              |
+| <strong>vbKeyPause</strong>                 | 19                     |                              |
+| <strong>vbKeyPrint</strong>                 | 42                     |                              |
+| <strong>vbKeyQ</strong>                     | 81                     |                              |
+| <strong>vbKeyR</strong>                     | 82                     |                              |
+| <strong>vbKeyRButton</strong>               | 2                      |                              |
+| <strong>vbKeyReturn</strong>                | 13                     |                              |
+| <strong>vbKeyRight</strong>                 | 39                     |                              |
+| <strong>vbKeyS</strong>                     | 83                     |                              |
+| <strong>vbKeySelect</strong>                | 41                     |                              |
+| <strong>vbKeySeparator</strong>             | 108                    |                              |
+| <strong>vbKeyShift</strong>                 | 16                     |                              |
+| <strong>vbKeySnapshot</strong>              | 44                     |                              |
+| <strong>vbKeySpace</strong>                 | 32                     |                              |
+| <strong>vbKeySubtract</strong>              | 109                    |                              |
+| <strong>vbKeyT</strong>                     | 84                     |                              |
+| <strong>vbKeyTab</strong>                   | 9                      |                              |
+| <strong>vbKeyU</strong>                     | 85                     |                              |
+| <strong>vbKeyUp</strong>                    | 38                     |                              |
+| <strong>vbKeyV</strong>                     | 86                     |                              |
+| <strong>vbKeyW</strong>                     | 87                     |                              |
+| <strong>vbKeyX</strong>                     | 88                     |                              |
+| <strong>vbKeyY</strong>                     | 89                     |                              |
+| <strong>vbKeyZ</strong>                     | 90                     |                              |
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

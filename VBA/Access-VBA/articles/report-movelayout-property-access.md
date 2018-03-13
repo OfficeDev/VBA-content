@@ -29,10 +29,11 @@ The  **MoveLayout** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
-|:-----|:-----|
-|**True**|(Default) The section's  **Left** and **Top** properties are advanced to the next print location.|
-|**False**|The section's  **Left** and **Top** properties are unchanged.|
+| <strong>Setting</strong> | <strong>Description</strong>                                                                                                |
+|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| <strong>True</strong>    | (Default) The section's  <strong>Left</strong> and <strong>Top</strong> properties are advanced to the next print location. |
+| <strong>False</strong>   | The section's  <strong>Left</strong> and <strong>Top</strong> properties are unchanged.                                     |
+
 To set this property, specify an [event procedure](set-properties-by-using-visual-basic.md)for a section's  **[OnFormat](section-onformat-property-access.md)** property.
 
 Microsoft Access sets this property to  **True** before each section's **Format** event.
@@ -45,7 +46,6 @@ The following example sets the  **MoveLayout** property for the "Purchase Order"
 
 ```vb
 Reports("Purchase Order").MoveLayout = True 
-
 ```
 
 

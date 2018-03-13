@@ -65,8 +65,6 @@ With Application.ActivePresentation.Slides(1).Shapes(2)
     charRange.Characters(2).Font.BaselineOffset = -0.2
 
 End With
-
-
 ```
 
 This example formats every subscript character in shape two on slide one as bold.
@@ -89,8 +87,6 @@ With Application.ActivePresentation.Slides(1).Shapes(2) _
     Next
 
 End With
-
-
 ```
 
 

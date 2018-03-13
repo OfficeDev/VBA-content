@@ -29,11 +29,15 @@ Returns or sets the length of the arrowhead at the end of the specified line. Re
 
 
 
-| **MsoArrowheadLength** can be one of these **MsoArrowheadLength** constants.|
-| **msoArrowheadLengthMixed**|
-| **msoArrowheadShort**|
-| **msoArrowheadLengthMedium**|
-| **msoArrowheadLong**|
+| <strong>MsoArrowheadLength</strong> can be one of these <strong>MsoArrowheadLength</strong> constants.|
+| 
+<strong>msoArrowheadLengthMixed</strong>|
+| 
+<strong>msoArrowheadShort</strong>|
+| 
+<strong>msoArrowheadLengthMedium</strong>|
+| 
+<strong>msoArrowheadLong</strong>|
 
 ## Example
 

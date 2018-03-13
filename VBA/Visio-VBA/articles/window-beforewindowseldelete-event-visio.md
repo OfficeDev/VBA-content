@@ -18,7 +18,7 @@ Occurs before the shapes in the selection of a window are deleted.
 
 ## Syntax
 
-Private Sub  _expression_ _**BeforeWindowSelDelete**( **_ByVal Window As [IVWINDOW]_** )
+Private Sub  <em>expression</em> <em><strong>BeforeWindowSelDelete</strong>( **_ByVal Window As [IVWINDOW]</em>** )
 
  _expression_ A variable that represents a **Window** object.
 

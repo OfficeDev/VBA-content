@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorksheetFunction.Fact Method (Excel)
 
-Returns the factorial of a number. The factorial of a number is equal to 1*2*3*...* number.
+Returns the factorial of a number. The factorial of a number is equal to 1<em>2</em>3<em>...</em> number.
 
 
 ## Syntax

@@ -27,13 +27,14 @@ The settings for  **PictureAlignment** are:
 
 
 
-|**Value**|**Description**|
-|:-----|:-----|
-|0|The top left corner.|
-|1|The top right corner.|
-|2|The center.|
-|3|The bottom left corner.|
-|4|The bottom right corner.|
+| <strong>Value</strong> | <strong>Description</strong> |
+|:-----------------------|:-----------------------------|
+| 0                      | The top left corner.         |
+| 1                      | The top right corner.        |
+| 2                      | The center.                  |
+| 3                      | The bottom left corner.      |
+| 4                      | The bottom right corner.     |
+
 The  **PictureAlignment** property identifies which corner of the picture is the same as the corresponding corner of the control or container where the picture is used.
 
 For example, setting  **PictureAlignment** to 0 means that the top left corner of the picture coincides with the top left corner of the control or container. Setting **PictureAlignment** to 2 positions the picture in the middle, relative to the height as well as the width of the control or container.

@@ -48,11 +48,12 @@ You can specify that the data recordset have either a single-column or a composi
 
 
 
-|**Constant**|**Value **|**Description**|
-|:-----|:-----|:-----|
-| **visKeyRowOrder**|1|Use row order as the primary key.|
-| **visKeySingle**|2|Use a single column as the primary key column.|
-| **visKeyComposite**|3|Use multiple columns as primary key columns.|
+| <strong>Constant</strong>        | **Value ** | <strong>Description</strong>                   |
+|:---------------------------------|:-----------|:-----------------------------------------------|
+| <strong>visKeyRowOrder</strong>  | 1          | Use row order as the primary key.              |
+| <strong>visKeySingle</strong>    | 2          | Use a single column as the primary key column. |
+| <strong>visKeyComposite</strong> | 3          | Use multiple columns as primary key columns.   |
+
 For the PrimaryKey() parameter, pass an array of one or more strings that represent the name of the column or columns you want to set as the primary key column(s). The value you pass for the PrimaryKeySettings parameter must be consistent with the number of array items. When you set primary keys, make sure that the column or columns you pick to be primary key columns contain unique values (or value sets) for each row.
 
 You can use the  **[GetPrimaryKey](datarecordset-getprimarykey-method-visio.md)** method to determine the current primary key setting for the data recordset as well as the name of the column or columns, if any, that are currently set as the primary key column or columns.
@@ -69,16 +70,16 @@ Before running this macro, create at least one data recordset in the current doc
 
 ```vb
 Public Sub SetPrimaryKey_Example() 
- 
+
     Dim vsoDataRecordset As Visio.DataRecordset 
     Dim intCount As Integer 
     Dim aPrimaryKeyColumns() As String 
-     
+
     intCount = ThisDocument.DataRecordsets.Count 
     aPrimaryKeyColumns(0) = "columnName " 
     Set vsoDataRecordset = ThisDocument.DataRecordsets(intCount) 
     vsoDataRecordset.SetPrimaryKey visKeySingle, aPrimaryKeyColumns 
-    
+
 End Sub
 ```
 

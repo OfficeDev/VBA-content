@@ -37,14 +37,21 @@ The value of the  **RGB** property can be one of these **PpColorSchemeIndex** co
 
 ||
 |:-----|
-|**ppAccent1**|
-|**ppAccent2**|
-|**ppAccent3**|
-|**ppBackground**|
-|**ppFill**|
-|**ppForeground**|
-|**ppShadow**|
-|**ppTitle**|
+|<strong>ppAccent1</strong>|
+|
+<strong>ppAccent2</strong>|
+|
+<strong>ppAccent3</strong>|
+|
+<strong>ppBackground</strong>|
+|
+<strong>ppFill</strong>|
+|
+<strong>ppForeground</strong>|
+|
+<strong>ppShadow</strong>|
+|
+<strong>ppTitle</strong>|
 
 ## Example
 

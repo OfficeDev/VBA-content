@@ -35,8 +35,6 @@ This example clears the chart area (the chart data and formatting) of Chart1.
 
 ```vb
 Charts("Chart1").ChartArea.Clear 
- 
-
 ```
 
 

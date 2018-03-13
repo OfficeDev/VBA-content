@@ -42,7 +42,6 @@ The following example extracts the domain name from the  **DomainName** property
  MsgBox strMemberList, vbInformation + vbOKOnly, _ 
  "Members in the MYCOMPANY Domain" 
  Set swsMember = Nothing 
-
 ```
 
 

@@ -19,10 +19,11 @@ Returns the  **String** associated with an operating system environment variable
 The  **Environ** function syntax has these[named arguments](vbe-glossary.md):
 
 
-|**Part**|**Description**|
-|:-----|:-----|
-|**_envstring_**|Optional. [String expression](vbe-glossary.md) containing the name of an environment variable.|
-|**_number_**|Optional. [Numeric expression](vbe-glossary.md) corresponding to the numeric order of the environment string in the environment-string table. The **_number_**[argument](vbe-glossary.md) can be any numeric expression, but is rounded to a whole number before it is evaluated.|
+| <strong>Part</strong>               | <strong>Description</strong>                                                                                                                                                                                                                                                                          |
+|:------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong><em>envstring</em></strong> | Optional. [String expression](vbe-glossary.md) containing the name of an environment variable.                                                                                                                                                                                                        |
+| <strong><em>number</em></strong>    | Optional. [Numeric expression](vbe-glossary.md) corresponding to the numeric order of the environment string in the environment-string table. The <strong><em>number</em></strong>[argument](vbe-glossary.md) can be any numeric expression, but is rounded to a whole number before it is evaluated. |
+
  **Remarks**
 If  **_envstring_** can't be found in the environment-string table, a zero-length string ("") is returned. Otherwise, **Environ** returns the text assigned to the specified **_envstring_**; that is, the text following the equal sign (=) in the environment-string table for that environment variable.
 If you specify  **_number_**, the string occupying that numeric position in the environment-string table is returned. In this case, **Environ** returns all of the text, including **_envstring_**. If there is no environment string in the specified position, **Environ** returns a zero-length string.
@@ -51,7 +52,6 @@ If PathLen > 0 Then
 Else
     MsgBox "No PATH environment variable exists."
 End If
-
 ```
 
 

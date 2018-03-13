@@ -29,9 +29,11 @@ Returns or sets how Microsoft Excel displays cell references and row and column 
 
 
 
-| **XlReferenceStyle** can be one of these **XlReferenceStyle** constants.|
-| **xlA1**|
-| **xlR1C1**|
+| <strong>XlReferenceStyle</strong> can be one of these <strong>XlReferenceStyle</strong> constants.|
+| 
+<strong>xlA1</strong>|
+| 
+<strong>xlR1C1</strong>|
 
 ## Example
 

@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 # New in Access for developers
 Learn about the features in Access 2013 that make it easy to create, deploy, and manage collaborative web-based applications on premise or in the cloud.
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -27,11 +27,13 @@ Learn about the features in Access 2013 that make it easy to create, deploy, and
 ## Introduction
 <a name="ac15_WhatsNew_Introduction"> </a>
 
+
 Access 2013 features a new application model that is designed for one purpose―to simplify web development much like earlier versions of Access with Windows development. Access 2013 enables subject matter experts to quickly create an application that can be used to run their business. By using Microsoft SharePoint 2013 to host the front end of the app and Microsoft SQL Server 2012 as its data storage technology, Access 2013 significantly improves the manageability and scalability of Access applications. Compatibility with Office 365 and SQL Azure significantly expand the reach of Access applications.
 
 
 ## New application model
 <a name="ac15_WhatsNew_NewAppModel"> </a>
+
 
 In an on-premise environment, Access 2013 apps are hosted by SharePoint 2013 while the data is stored in SQL Server 2012. SharePoint 2013 provides authentication, authorization, and security for Access 2013 apps. The back-end tables, views, macros, and queries are stored in a SQL Server 2012 database.
 
@@ -49,6 +51,7 @@ An Access 2013 app is online the moment it's created. You can decide to share th
 
 ## Views
 <a name="ac15_WhatsNew_Views"> </a>
+
 
 Views (known as  _"forms"_ in Access desktop databases) provide the means by which users will interact with your Access app. Views in Access 2013 apps contain a common set of user interface elements that enable rapid creation of new apps.
 
@@ -137,6 +140,7 @@ The Related Items control displays a set of records from tables related to the v
 ## Programmability in Access apps
 <a name="ac15_WhatsNew_Programmability"> </a>
 
+
 Programmability in Access 2013 apps is provided by a custom macro language authored in the Access client. There are two kinds of macros, user interface (UI) macros and data macros. UI macros can perform actions that affect the user interface of your app, whereas data macros can work directly with the records contained in the app.
 
 
@@ -150,31 +154,33 @@ Table 1 lists the events that you can attach a UI macro to in a control or view.
 
 
 
-|**Event Type**|**When it occurs**|
-|:-----|:-----|
-|After Update|Occurs after you type data into a control or choose data from a control.|
-|On Click|Occurs when a control is selected.|
-|On Current|Occurs when the user moves to a different record in the view.|
-|On Load|Occurs when a view is opened.|
+| <strong>Event Type</strong> | <strong>When it occurs</strong>                                          |
+|:----------------------------|:-------------------------------------------------------------------------|
+| After Update                | Occurs after you type data into a control or choose data from a control. |
+| On Click                    | Occurs when a control is selected.                                       |
+| On Current                  | Occurs when the user moves to a different record in the view.            |
+| On Load                     | Occurs when a view is opened.                                            |
+
 Table 2 lists the events supported by each control.
 
  **Table 2. Events supported by each control**
 
 
 
-|**Control or object type**|**Supported events**|
-|:-----|:-----|
-|Action Bar Button|On Click|
-|AutoComplete|After Update, On Click|
-|Button|On Click|
-|Check Box|After Update|
-|Combo Box|After Update|
-|Hyperlink|After Update, On Click|
-|Image|On Click|
-|Label|On Click|
-|Multiline Textbox|After Update, On Click|
-|Text Box|After Update, On Click|
-|View|On Current, On Load|
+| <strong>Control or object type</strong> | <strong>Supported events</strong> |
+|:----------------------------------------|:----------------------------------|
+| Action Bar Button                       | On Click                          |
+| AutoComplete                            | After Update, On Click            |
+| Button                                  | On Click                          |
+| Check Box                               | After Update                      |
+| Combo Box                               | After Update                      |
+| Hyperlink                               | After Update, On Click            |
+| Image                                   | On Click                          |
+| Label                                   | On Click                          |
+| Multiline Textbox                       | After Update, On Click            |
+| Text Box                                | After Update, On Click            |
+| View                                    | On Current, On Load               |
+
 Reuse standalone UI macros by calling them from other macros, helping you avoid duplicate code. Standalone UI macros are visible in the Navigation Pane, under  **Macros**. However, you can't run them directly from the Navigation Pane. Use the  **RunMacro** action to run a standalone UI macro from an embedded UI macro.
 
 
@@ -190,11 +196,12 @@ Table 3 lists the events that you can attach a data macro to in a table.
 
 
 
-|**Event type**|**When it occurs**|
-|:-----|:-----|
-|On Insert|Occurs after a new record is added to the table.|
-|On Update|Occurs after an existing record is changed.|
-|On Delete|Occurs after a record is deleted|
+| <strong>Event type</strong> | <strong>When it occurs</strong>                  |
+|:----------------------------|:-------------------------------------------------|
+| On Insert                   | Occurs after a new record is added to the table. |
+| On Update                   | Occurs after an existing record is changed.      |
+| On Delete                   | Occurs after a record is deleted                 |
+
 Figure 12 shows a data macro embedded in the  **On Update** event of the Issues table. The data macro verifies that a resolution is selected when an issue is resolved or closed.
 
 
@@ -208,17 +215,20 @@ Standalone data macros can be called from UI macros and data macros by using the
 ## Publishing your Access app
 <a name="ac15_WhatsNew_PublishApp"> </a>
 
+
 Access 2013 provides the ability for users to discover solutions directly from a private corporate catalog on SharePoint 2013 or the Office Store hosted on Office.com. The Office Store provides a convenient location for developers to upload new Access web apps aimed at both consumers and businesses. As a developer, when you upload your app to the Office Store, Microsoft runs some validation checks on it. If all tests are passed, the app package is wrapped into a file and signed by Microsoft.
 
 
 ## Conclusion
 <a name="ac15_WhatsNew_Conclusion"> </a>
 
+
 Access 2013 introduces a new application model that enables subject matter experts to quickly create and share applications that can be used to run their business. A new interactive view designer makes it easy for users who have little or no programming experience to build apps. By using SharePoint 2013 to host the app and SQL Server 2012 to store data, Access apps are more manageable and scalable than ever. Compatibility with Office 365 and SQL Azure significantly expand the reach of Access apps.
 
 
 ## Additional Resources
 <a name="ac15_WhatsNew_AdditionalResources2"> </a>
+
 
 [How to: Create and customize a web app in Access](http://msdn.microsoft.com/library/628745f4-82e9-4838-9726-6f3e506a654f%28Office.15%29.aspx)
 

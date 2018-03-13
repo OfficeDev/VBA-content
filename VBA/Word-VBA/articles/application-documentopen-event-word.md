@@ -18,7 +18,7 @@ Occurs when a document is opened.
 
 ## Syntax
 
-Private Sub  _expression_ _**DocumentOpen**( **_ByVal Doc As Document_** )
+Private Sub  <em>expression</em> <em><strong>DocumentOpen</strong>( **_ByVal Doc As Document</em>** )
 
  _expression_ A variable that represents an **[Application](application-object-word.md)** object declared with events in a class module.
 

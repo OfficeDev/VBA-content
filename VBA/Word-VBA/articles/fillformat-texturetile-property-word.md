@@ -29,10 +29,11 @@ The value returned by the  **TextureTile** property can be one of the following[
 
 
 
-|**Constant**|**Description**|
-|:-----|:-----|
-| **msoFalse**|The texture fill is centered.|
-| **msoTrue**|The texture fill is tiled.|
+| <strong>Constant</strong> | <strong>Description</strong>  |
+|:--------------------------|:------------------------------|
+| <strong>msoFalse</strong> | The texture fill is centered. |
+| <strong>msoTrue</strong>  | The texture fill is tiled.    |
+
 The setting of the  **TextureTile** property corresponds to the setting of the **Tile picture as texture** box under **Tiling Options** on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the  **Format** tab, expand the **Shape Styles** group.)
 
 

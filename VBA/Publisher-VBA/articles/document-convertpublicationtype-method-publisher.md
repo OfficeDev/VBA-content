@@ -41,8 +41,9 @@ The Value parameter can be one of the following  **PbPublicationType** constants
 
 
 
-| **pbTypePrint**|
-| **pbTypeWeb**|
+| <strong>pbTypePrint</strong>|
+| 
+<strong>pbTypeWeb</strong>|
 
 ## Example
 

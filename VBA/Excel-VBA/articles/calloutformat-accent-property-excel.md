@@ -29,12 +29,17 @@ Allows the user to place a vertical accent bar to separate the callout text from
 
 
 
-| **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue**|
-| **msoFalse**|
-| **msoTriStateMixed**|
-| **msoTriStateToggle**|
-| **msoTrue** . A vertical accent bar separates the callout text from the callout line.|
+| <strong>MsoTriState</strong> can be one of these <strong>MsoTriState</strong> constants.|
+| 
+<strong>msoCTrue</strong>|
+| 
+<strong>msoFalse</strong>|
+| 
+<strong>msoTriStateMixed</strong>|
+| 
+<strong>msoTriStateToggle</strong>|
+| 
+<strong>msoTrue</strong> . A vertical accent bar separates the callout text from the callout line.|
 
 ## Example
 

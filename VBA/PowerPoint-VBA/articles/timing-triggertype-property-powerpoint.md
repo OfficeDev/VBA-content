@@ -35,12 +35,17 @@ The value of the  **TriggerType** property can be one of these **MsoAnimTriggerT
 
 ||
 |:-----|
-|**msoAnimTriggerAfterPrevious**|
-|**msoAnimTriggerMixed**|
-|**msoAnimTriggerNone**|
-|**msoAnimTriggerOnPageClick**|
-|**msoAnimTriggerOnShapeClick**|
-|**msoAnimTriggerWithPrevious**|
+|<strong>msoAnimTriggerAfterPrevious</strong>|
+|
+<strong>msoAnimTriggerMixed</strong>|
+|
+<strong>msoAnimTriggerNone</strong>|
+|
+<strong>msoAnimTriggerOnPageClick</strong>|
+|
+<strong>msoAnimTriggerOnShapeClick</strong>|
+|
+<strong>msoAnimTriggerWithPrevious</strong>|
 
 ## Example
 
@@ -49,22 +54,22 @@ The following example adds a shape to a slide, adds an animation to the shape, a
 
 ```vb
 Sub AddShapeSetTiming() 
- 
+
     Dim effDiamond As Effect 
     Dim shpRectangle As Shape 
- 
+
     Set shpRectangle = ActivePresentation.Slides(1).Shapes _ 
         .AddShape(Type:=msoShapeRectangle, Left:=100, _ 
         Top:=100, Width:=50, Height:=50) 
     Set effDiamond = ActivePresentation.Slides(1).TimeLine.MainSequence _ 
         .AddEffect(Shape:=shpRectangle, effectId:=msoAnimEffectPathDiamond) 
- 
+
     With effDiamond.Timing 
         .Duration = 5 
         .TriggerType = msoAnimTriggerWithPrevious
         .TriggerDelayTime = 3 
     End With 
- 
+
 End Sub
 ```
 

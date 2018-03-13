@@ -28,7 +28,6 @@ This example uses the  **Date** statement to set the computer system date. In th
 Dim MyDate 
 MyDate = #February 12, 1985# ' Assign a date. 
 Date= MyDate ' Change system date. 
-
 ```
 
 

@@ -63,7 +63,7 @@ Use the  **[AddNodes](freeformbuilder-addnodes-method-publisher.md)** method to 
 With ActiveDocument.Shapes _ 
  .BuildFreeform(EditingType:=msoEditingCorner, _ 
  X1:=100, Y1:=100) 
- 
+
  ' Add three more nodes and close the polygon. 
  .AddNodes SegmentType:=msoSegmentCurve, _ 
  EditingType:=msoEditingCorner, _ 
@@ -74,12 +74,10 @@ With ActiveDocument.Shapes _
  EditingType:=msoEditingAuto, X1:=150, Y1:=50 
  .AddNodes SegmentType:=msoSegmentLine, _ 
  EditingType:=msoEditingAuto, X1:=100, Y1:=100 
- 
+
  ' Convert the polygon to a Shape object. 
  .ConvertToShape 
 End With 
- 
-
 ```
 
 

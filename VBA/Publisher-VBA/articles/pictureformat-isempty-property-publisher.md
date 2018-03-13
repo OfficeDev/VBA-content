@@ -48,28 +48,26 @@ The following example tests each picture in the active publication, and if it is
 ```vb
 Dim pgLoop As Page 
 Dim shpLoop As Shape 
- 
+
 For Each pgLoop In ActiveDocument.Pages 
  For Each shpLoop In pgLoop.Shapes 
  If shpLoop.Type = pbPicture Or shpLoop.Type = pbLinkedPicture Then 
- 
+
  With shpLoop.PictureFormat 
- 
+
  If .IsEmpty = msoFalse Then 
- 
+
  Debug.Print "File Name: " &; .Filename 
  Debug.Print "Horizontal Scaling: " &; .HorizontalScale &; "%" 
  Debug.Print "Vertical Scaling: " &; .VerticalScale &; "%" 
  Debug.Print "File size in publication: " &; .FileSize &; " bytes" 
- 
+
  End If 
- 
+
  End With 
  End If 
  Next shpLoop 
 Next pgLoop 
- 
-
 ```
 
 

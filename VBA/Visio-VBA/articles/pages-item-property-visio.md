@@ -44,7 +44,6 @@ When retrieving objects from a collection, you can omit  **Item** from the expre
 ```
 objRet = object(index)  
 objRet = object(stringExpression) 
-
 ```
 
 You can retrieve an object in an  **Addons** , **Documents** , **Fonts** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **OLEObjects** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant** .
@@ -62,7 +61,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVPages.this[object]**
-    
+
 
 ## Example
 
@@ -74,21 +73,21 @@ Before running this macro, make sure that the active document has shapes on Page
 
 
 ```vb
- 
+
 Public Sub Item_Example() 
-  
+
     Dim intCounter As Integer 
     Dim intShapeCount As Integer 
     Dim vsoShapes As Visio.Shapes  
- 
+
     Set vsoShapes = ActiveDocument.Pages.Item(1).Shapes  
- 
+
     Debug.Print "Shape Name List For..." 
     Debug.Print "Document: "; ActiveDocument.Name  
     Debug.Print "Page: "; ActiveDocument.Pages.Item(1).Name  
- 
+
     intShapeCount = vsoShapes.Count  
- 
+
     If intShapeCount > 0 Then 
         For intCounter = 1 To intShapeCount  
             Debug.Print " "; vsoShapes.Item(intCounter).Name  
@@ -96,7 +95,7 @@ Public Sub Item_Example()
     Else 
         Debug.Print " No Shapes On Page"  
     End If   
- 
+
 End Sub
 ```
 

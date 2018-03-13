@@ -29,7 +29,6 @@ With ActivePresentation.Slides(1).Shapes(2).TextFrame2.Ruler2
  .Levels(1).FirstMargin = 0 
  .Levels(1).LeftMargin = 36 
 End With 
-
 ```
 
 

@@ -45,57 +45,107 @@ The Wizard parameter can be one of the  **PbWizard** constants declared in the M
 
 
 
-| **pbWizardAdvertisements**|
-| **pbWizardAirplanes**|
-| **pbWizardBanners**|
-| **pbWizardBrochures**|
-| **pbWizardBusinessCards**|
-| **pbWizardBusinessForms**|
-| **pbWizardCalendars**|
-| **pbWizardCatalogs**|
-| **pbWizardCertificates**|
-| **pbWizardEnvelopes**|
-| **pbWizardFlyers**|
-| **pbWizardGiftCertificates**|
-| **pbWizardGreetingCards**|
-| **pbWizardInvitations**|
-| **pbWizardJapaneseAdvertisements**|
-| **pbWizardJapaneseAirplanes**|
-| **pbWizardJapaneseBanners**|
-| **pbWizardJapaneseBrochures**|
-| **pbWizardJapaneseBusinessCards**|
-| **pbWizardJapaneseBusinessForms**|
-| **pbWizardJapaneseCalendars**|
-| **pbWizardJapaneseCatalogs**|
-| **pbWizardJapaneseCertificates**|
-| **pbWizardJapaneseEnvelopes**|
-| **pbWizardJapaneseFlyers**|
-| **pbWizardJapaneseGiftCertificates**|
-| **pbWizardJapaneseGreetingCards**|
-| **pbWizardJapaneseInvitations**|
-| **pbWizardJapaneseLabels**|
-| **pbWizardJapaneseLetterheads**|
-| **pbWizardJapaneseMenus**|
-| **pbWizardJapaneseNewsletters**|
-| **pbWizardJapaneseOrigami**|
-| **pbWizardJapanesePostcards**|
-| **pbWizardJapanesePrograms**|
-| **pbWizardJapaneseSigns**|
-| **pbWizardJapaneseWebSites**|
-| **pbWizardLabels**|
-| **pbWizardLetterheads**|
-| **pbWizardMenus**|
-| **pbWizardNewsletters**|
-| **pbWizardNone**|
-| **pbWizardOrigami**|
-| **pbWizardPostcards**|
-| **pbWizardPrograms**|
-| **pbWizardQuickPublications**|
-| **pbWizardResumes**|
-| **pbWizardSigns**|
-| **pbWizardWebSites**|
-| **pbWizardWithComplimentsCards**|
-| **pbWizardWordDocument**|
+| <strong>pbWizardAdvertisements</strong>|
+| 
+<strong>pbWizardAirplanes</strong>|
+| 
+<strong>pbWizardBanners</strong>|
+| 
+<strong>pbWizardBrochures</strong>|
+| 
+<strong>pbWizardBusinessCards</strong>|
+| 
+<strong>pbWizardBusinessForms</strong>|
+| 
+<strong>pbWizardCalendars</strong>|
+| 
+<strong>pbWizardCatalogs</strong>|
+| 
+<strong>pbWizardCertificates</strong>|
+| 
+<strong>pbWizardEnvelopes</strong>|
+| 
+<strong>pbWizardFlyers</strong>|
+| 
+<strong>pbWizardGiftCertificates</strong>|
+| 
+<strong>pbWizardGreetingCards</strong>|
+| 
+<strong>pbWizardInvitations</strong>|
+| 
+<strong>pbWizardJapaneseAdvertisements</strong>|
+| 
+<strong>pbWizardJapaneseAirplanes</strong>|
+| 
+<strong>pbWizardJapaneseBanners</strong>|
+| 
+<strong>pbWizardJapaneseBrochures</strong>|
+| 
+<strong>pbWizardJapaneseBusinessCards</strong>|
+| 
+<strong>pbWizardJapaneseBusinessForms</strong>|
+| 
+<strong>pbWizardJapaneseCalendars</strong>|
+| 
+<strong>pbWizardJapaneseCatalogs</strong>|
+| 
+<strong>pbWizardJapaneseCertificates</strong>|
+| 
+<strong>pbWizardJapaneseEnvelopes</strong>|
+| 
+<strong>pbWizardJapaneseFlyers</strong>|
+| 
+<strong>pbWizardJapaneseGiftCertificates</strong>|
+| 
+<strong>pbWizardJapaneseGreetingCards</strong>|
+| 
+<strong>pbWizardJapaneseInvitations</strong>|
+| 
+<strong>pbWizardJapaneseLabels</strong>|
+| 
+<strong>pbWizardJapaneseLetterheads</strong>|
+| 
+<strong>pbWizardJapaneseMenus</strong>|
+| 
+<strong>pbWizardJapaneseNewsletters</strong>|
+| 
+<strong>pbWizardJapaneseOrigami</strong>|
+| 
+<strong>pbWizardJapanesePostcards</strong>|
+| 
+<strong>pbWizardJapanesePrograms</strong>|
+| 
+<strong>pbWizardJapaneseSigns</strong>|
+| 
+<strong>pbWizardJapaneseWebSites</strong>|
+| 
+<strong>pbWizardLabels</strong>|
+| 
+<strong>pbWizardLetterheads</strong>|
+| 
+<strong>pbWizardMenus</strong>|
+| 
+<strong>pbWizardNewsletters</strong>|
+| 
+<strong>pbWizardNone</strong>|
+| 
+<strong>pbWizardOrigami</strong>|
+| 
+<strong>pbWizardPostcards</strong>|
+| 
+<strong>pbWizardPrograms</strong>|
+| 
+<strong>pbWizardQuickPublications</strong>|
+| 
+<strong>pbWizardResumes</strong>|
+| 
+<strong>pbWizardSigns</strong>|
+| 
+<strong>pbWizardWebSites</strong>|
+| 
+<strong>pbWizardWithComplimentsCards</strong>|
+| 
+<strong>pbWizardWordDocument</strong>|
 
 ## Example
 
@@ -106,11 +156,11 @@ This example creates a new publication and edits the master page to contain a pa
 Sub CreateNewPublication() 
  Dim AppPub As Application 
  Dim DocPub As Document 
- 
+
  Set AppPub = New Publisher.Application 
  Set DocPub = AppPub.NewDocument 
  AppPub.ActiveWindow.Visible = True 
- 
+
  With DocPub.MasterPages(1).Shapes.AddShape _ 
  (Type:=msoShape5pointStar, Left:=36, _ 
  Top:=36, Width:=50, Height:=50) 

@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Collections (ADO for Visual C++ Syntax)
 
-  
+
 
 **Applies to:** Access 2013 | Access 2016
 
@@ -18,14 +18,18 @@ ms.date: 06/08/2017
 [Properties](#sectionSection2)
 
 
- **Parameters**
- **Methods**
-[Append](http://msdn.microsoft.com/library/cca133af-2b95-877d-0488-0d99631623f2%28Office.15%29.aspx)(IDispatch * _Object_ )[Delete](http://msdn.microsoft.com/library/03ffc24d-fea2-30fa-c8e9-43eb524fd51f%28Office.15%29.aspx)(VARIANT  _Index_ )[Refresh](http://msdn.microsoft.com/library/f1c8829f-9c7d-12b6-7470-727ff38d663e%28Office.15%29.aspx)(void)
- **Properties**
-[get_Count](http://msdn.microsoft.com/library/b59f9581-ffd1-471d-44fa-3c1bb812e140%28Office.15%29.aspx)(long * _c_ )[get_Item](http://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx)(VARIANT  _Index,_ _ADOParameter ** _ppvObject_ )
+ <strong>Parameters</strong>
+ 
+<strong>Methods</strong>
+
+[Append](http://msdn.microsoft.com/library/cca133af-2b95-877d-0488-0d99631623f2%28Office.15%29.aspx)(IDispatch * <em>Object</em> )[Delete](http://msdn.microsoft.com/library/03ffc24d-fea2-30fa-c8e9-43eb524fd51f%28Office.15%29.aspx)(VARIANT  <em>Index</em> )[Refresh](http://msdn.microsoft.com/library/f1c8829f-9c7d-12b6-7470-727ff38d663e%28Office.15%29.aspx)(void)
+ <strong>Properties</strong>
+
+[get_Count](http://msdn.microsoft.com/library/b59f9581-ffd1-471d-44fa-3c1bb812e140%28Office.15%29.aspx)(long * <em>c</em> )[get_Item](http://msdn.microsoft.com/library/793c305f-0e5b-a529-e21f-b7ab0843ed49%28Office.15%29.aspx)(VARIANT  <em>Index,</em> <em>ADOParameter ** _ppvObject</em> )
 
 ## Fields
 <a name="sectionSection0"> </a>
+
 
  **Methods**
 
@@ -39,6 +43,7 @@ ms.date: 06/08/2017
 ## Errors
 <a name="sectionSection1"> </a>
 
+
  **Methods**
 
 [Clear](http://msdn.microsoft.com/library/5d51f42c-147b-1fcf-d05b-123e5714ecb7%28Office.15%29.aspx)(void)[Refresh](http://msdn.microsoft.com/library/f1c8829f-9c7d-12b6-7470-727ff38d663e%28Office.15%29.aspx)(void)
@@ -50,6 +55,7 @@ ms.date: 06/08/2017
 
 ## Properties
 <a name="sectionSection2"> </a>
+
 
  **Methods**
 

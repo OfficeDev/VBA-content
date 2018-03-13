@@ -40,8 +40,6 @@ MyCheck = IsNull(MyVar)    ' Returns False.
 
 MyVar = Null
 MyCheck = IsNull(MyVar)    ' Returns True.
-
-
 ```
 
 

@@ -49,17 +49,16 @@ Dim objPickerProperty As PickerProperty
 Dim objPickerExistingResults As PickerResults 
 Dim objPickerExistingResult As PickerResult 
 Dim objPickerResults As PickerResults 
- 
+
 ' Configure the Picker Dialog properties. 
 Set objPickerDialog = Application.PickerDialog 
 objPickerDialog.DataHandlerId = "{000CDF0A-0000-0000-C000-000000000046}" 
 objPickerDialog.Title = "Sample Picker Dialog" 
 Set objPickerProperties = objPickerDialog.Properties 
 Set objPickerProperty = objPickerProperties.Add("SiteUrl", "http://my", msoPickerFieldtypeText) 
- 
+
 ' Resolve the token by using Picker Dialog and get the results. 
 Set objPickerResults = objPickerDialog.Resolve("johndoe", False) 
-
 ```
 
 
