@@ -18,8 +18,11 @@ ms.date: The date that the topic is checked in to master branch for publication
 -->
 
 
+<!-- 
+Method name. For example,  AccessObject.Name Property (Access)
+-->
 
-# {<Method name>  //For example: Application.FileOpenEx Method (Project)}
+# method name
 
 <!--
 {One sentence description of method}
