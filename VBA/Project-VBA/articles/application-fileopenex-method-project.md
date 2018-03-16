@@ -38,24 +38,7 @@ Opens a project or imports data.
 | _NoAuto_|Optional|**Boolean**|**True** if any **Auto_Open** macro is prevented from running. The default value is **False**.|
 | _UserID_|Optional|**String**|A user ID to use when accessing a database. If  _Name_ or _FormatID_ is not a database, _UserID_ is ignored.|
 | _DatabasePassWord_|Optional|**String**|A password to use when accessing a database. If  _Name_ or _FormatID_ is not a database, _DatabasePassWord_ is ignored.|
-| _FormatID_|Optional|**String**|Specifies the file or database format to use. If Project recognizes the format of the file specified with  _Name_,  _FormatID_ is ignored. _FormatID_ can be one of the following values:
-
-|**Format String**|**Description**|
-|:-----|:-----|
-|"MSProject.mpp"|Project file|
-|"MSProject.mpt"|Project template|
-|"MSProject.mpp.8"|Project 98 file|
-|"MSProject.mpp.9" |Project 2000 - 2003 file|
-|"MSProject.mpp.12"|Project 2007 file|
-|"MSProject.odbc|Open a project from an ODBC database|
-|"MSProject.xls"|Microsoft Excel workbook|
-|"MSProject.xls5"|Microsoft Excel 97-2003 workbook|
-|"MSProject.pdf"|PDF file|
-|"MSProject.xpf"|XPF file|
-|"MSProject.csv"|CSV (Comma delimited) file|
-|"MSProject.txt"|TXT (Tab delimited) file|
-|"MSProject.xml"|Project XML file|
-|
+| _FormatID_|Optional|**String**|Specifies the file or database format to use. If Project recognizes the format of the file specified with  _Name_,  _FormatID_ is ignored. _FormatID_ can be one of the following values:<br/>* "MSProject.mpp". Project file <br/>* "MSProject.mpt". Project template <br/>* "MSProject.mpp.8". Project 98 file<br/>* "MSProject.mpp.9". Project 2000 - 2003 file<br/>* "MSProject.mpp.12". Project 2007 file <br/>* "MSProject.odbc". Open a project from an ODBC database <br/>*"MSProject.xls". Microsoft Excel workbook<br/>* "MSProject.xls5". Microsoft Excel 97-2003 workbook <br/>* "MSProject.pdf". PDF file <br/>* "MSProject.xpf". XPF file <br/>* "MSProject.csv". CSV (Comma delimited) file <br/>* "MSProject.txt". TXT (Tab delimited) file <br/>* "MSProject.xml". Project XML file |
 | _Map_|Optional|**String**|The name of the import/export map to use when importing data.|
 | _openPool_|Optional|**Long**|The action to take when opening a resource pool or sharer file. When opening a master project, the value for  _openPool_ is also applied to the subprojects. Can be one of the[PjPoolOpen](pjpoolopen-enumeration-project.md) constants. The default value is **pjPromptPool**.|
 | _Password_|Optional|**String**|A password to use when opening password-protected project files. If  _Password_ is incorrect or omitted and a file requires a password, the user is prompted for the password.|

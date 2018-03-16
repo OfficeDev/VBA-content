@@ -63,25 +63,39 @@ Creates a legend for printing views of task data.
 |&;[Author]|Prints the author.|
 |&;[Keyword]|Prints the keyword(s).|
 |&;[ _Field_Name_ ]|Prints the value of the field specified with  _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. For example, &;[Actual Cost].|
-|
+
+|**Format Code**|**Description**|Data Type|Description
+|:-----|:-----|:-----|:-----|
 | _LabelFontName_|Optional|**String**|The name of the font.|
 | _LabelFontSize_|Optional|**Integer**|The size of the font in points.|
 | _LabelFontBold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _LabelFontItalic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _LabelFontUnderline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _LabelFontColor_|Optional|**Long**|The color of the font. Can be one the following  **[PjColor](pjcolor-enumeration-project.md)** constants:
-|||
-|:-----|:-----|
-|**pjColorAutomatic**|**pjNavy**|
-|**pjAqua**|**pjOlive**|
-|**pjBlack**|**pjPurple**|
-|**pjBlue**|**pjRed**|
-|**pjFuchsia**|**pjSilver**|
-|**pjGray**|**pjTeal**|
-|**pjGreen**|**pjYellow**|
-|**pjLime**|**pjWhite**|
-|**pjMaroon**||
-|
+| _LabelFontColor_|Optional|**Long**|The color of the font. Can be one the following  **[PjColor](pjcolor-enumeration-project.md)** constants:<br/><ul style="list-style-type:circle">
+  <li><b>pjColorAutomatic</b></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>|
+
+|color|
+|:-----|
+|**pjColorAutomatic**
+|**pjNavy**|
+|**pjAqua**|
+|**pjOlive**|
+|**pjBlack**|
+|**pjPurple**|
+|**pjBlue**|
+|**pjRed**|
+|**pjFuchsia**|
+|**pjSilver**|
+|**pjGray**|
+|**pjTeal**|
+|**pjGreen**|
+|**pjYellow**|
+|**pjLime**|
+|**pjWhite**|
+|**pjMaroon**|
 
 ### Return Value
 

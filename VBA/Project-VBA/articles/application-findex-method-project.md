@@ -45,7 +45,9 @@ Searches for an unfiltered value in a specified field or in all available fields
 |"contains"| _Field_ contains _Value_.|
 |"does not contain"| _Field_ does not contain _Value_.|
 |"contains exactly"| _Field_ contains exactly _Value_.|
-|
+
+|**Comparison string**|**Description**|Type|Description|
+|:-----|:-----|:-----|:------|
 | _Value_|Optional|**String**|The value to compare with the field specified by Field.|
 | _Next_|Optional|**Boolean**|**True** if Project searches down for the next occurrence of a value that matches the search criteria. **False** if Project searches up for the next occurrence. The default value is **True**.|
 | _MatchCase_|Optional|**Boolean**|**True** if the search is case-sensitive. The default value is **False**.|
