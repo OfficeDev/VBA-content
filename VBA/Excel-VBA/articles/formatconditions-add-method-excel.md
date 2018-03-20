@@ -41,7 +41,7 @@ A  **[FormatCondition](formatcondition-object-excel.md)** object that represents
 
 ## Remarks
 
-You cannot define more than three conditional formats for a range. Use the  **[Modify](formatcondition-modify-method-excel.md)** method to modify an existing conditional format, or use the **[Delete](formatcondition-delete-method-excel.md)** method to delete an existing format before adding a new one.
+Use the  **[Modify](formatcondition-modify-method-excel.md)** method to modify an existing conditional format, or use the **[Delete](formatcondition-delete-method-excel.md)** method to delete an existing format before adding a new one.
 
 
 ## Example
