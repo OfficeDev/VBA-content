@@ -9,7 +9,12 @@ author: FastExcel
 
 **Applies to:** Excel | Excel 2016 | Excel 2013 | Excel 2010 | Office 2016 | SharePoint Server 2010 | VBA
 
-Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks.
+Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks
+
+## VLOOKUP, HLOOKUP, MATCH improvements
+In Excel 16.0.9126.2xxx onwards VLOOKUP, HLOOKUP and MATCH for exact match on unsorted data is much faster than ever before. 
+
+*For example... TBD *
 
 ## LAA memory improvement for 32-bit Excel
 
