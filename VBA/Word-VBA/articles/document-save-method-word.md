@@ -26,7 +26,8 @@ Saves the specified document.
 
 _NoPrompt_ (Optional)
 
-True to have Microsoft Word automatically save all documents; False to have Word prompt the user to save each document that has changed since it was last saved.
+If `true`, then Word automatically saves all documents.
+If `false`, then Word prompts the user to save each document that has changed since it was last saved.
 
 _OriginalFormat_ (Optional)
 
