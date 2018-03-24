@@ -810,9 +810,9 @@ You can make performance improvements in the following areas.
 
 - **Use enough memory**
 
-  The 32-bit version of Excel can use up to 2 GB of RAM. However, the computer that is running Excel also requires memory resources. Therefore, if you only have 2 GB of RAM on your computer, Excel cannot take advantage of the full 2 GB because a portion of the memory is allocated to the operating system and other programs that are running. To optimize the performance of Excel on a 32-bit computer, we recommend that the computer have at least 3 GB of RAM.
+  The 32-bit version of Excel can use up to 2 GB of RAM or up to 4 GB of RAM for Large Address Aware 32-bit versions of Excel 2013 and 2016. However, the computer that is running Excel also requires memory resources. Therefore, if you only have 2 GB of RAM on your computer, Excel cannot take advantage of the full 2 GB because a portion of the memory is allocated to the operating system and other programs that are running. To optimize the performance of Excel on a 32-bit computer, we recommend that the computer have at least 3 GB of RAM.
 
-  The 64-bit version of Excel does not have a 2 GB limit. For more information, see the "Large data sets and the 64-bit version of Excel" section in [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
+  The 64-bit version of Excel does not have a 2 GB or up to 4 GB limit. For more information, see the "Large data sets and the 64-bit version of Excel" section in [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md).
 
 ## Conclusion
 
