@@ -75,7 +75,7 @@ ChDir "D:\WINDOWS\SYSTEM"
 
 [ChDrive](chdrive-statement.md)
 
-[CurDir](curdir-statement.md)
+[CurDir](curdir-function.md)
 
 [MkDir](mkdir-statement.md)
 
