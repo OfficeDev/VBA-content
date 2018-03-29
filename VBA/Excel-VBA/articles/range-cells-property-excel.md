@@ -47,9 +47,9 @@ This example scans a column of data named "myRange." If a cell has the same valu
 
 ```vb
 Set r = Range("myRange") 
-For n = 1 To r.Rows.Count 
-    If r.Cells(n, 1) = r.Cells(n + 1, 1) Then 
-        MsgBox "Duplicate data in " &; r.Cells(n + 1, 1).Address 
+For n = 2 To r.Rows.Count 
+    If r.Cells(n-1, 1) = r.Cells(n, 1) Then 
+        MsgBox "Duplicate data in " &; r.Cells(n, 1).Address 
     End If 
 Next n
 ```

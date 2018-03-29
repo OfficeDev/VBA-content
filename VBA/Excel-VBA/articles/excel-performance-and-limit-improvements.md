@@ -9,7 +9,12 @@ author: FastExcel
 
 **Applies to:** Excel | Excel 2016 | Excel 2013 | Excel 2010 | Office 2016 | SharePoint Server 2010 | VBA
 
-Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks.
+Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks
+
+## VLOOKUP, HLOOKUP, MATCH improvements
+In Excel 16.0.9126.2xxx onwards VLOOKUP, HLOOKUP and MATCH for exact match on unsorted data is much faster than ever before. 
+
+*For example... TBD *
 
 ## LAA memory improvement for 32-bit Excel
 
@@ -19,13 +24,13 @@ The 32-bit versions of Excel 2013 and Excel 2016 now have Large Address Aware (L
 
 LAA doubles available virtual memory from 2 GB to 4 GB on 64-bit versions of Windows, and increases available virtual memory from 2 GB to 3 GB on 32-bit versions of Windows.
 
-For more information, see [LAA Capability Change for Excel](https://support.microsoft.com/en-ca/help/3160741/large-address-aware-capability-change-for-excel).
+For more information, see [Large Address Aware Capability Change for Excel](https://support.microsoft.com/en-ca/help/3160741/large-address-aware-capability-change-for-excel).
 
 To download a tool that shows how much virtual memory is available and how much is being used, see [Excel Memory Checking Tool](https://fastexcel.wordpress.com/2016/11/27/excel-memory-checking-tool-using-laa-to-increase-useable-excel-memory/).
 
 ## Full column references
 
-In earlier versions of Excel, workbooks using large numbers of full column references and multiple worksheets (for example `=COUNTIF(Sheet2!A:A,Sheet3!A1)`) might use large amounts of CPU and memory when opened or when rows were deleted. 
+In earlier versions of Excel, workbooks using large numbers of full column references and multiple worksheets (for example `=COUNTIF(Sheet2!A:A,Sheet3!A1)`) might use large amounts of memory and CPU when opened or when rows were deleted. 
 
 Excel 2016 Build 16.0.8212.1000 reduces the memory and CPU used in these circumstances.
  
@@ -88,11 +93,11 @@ Based on user feedback about Excel 2007, Excel 2010 introduces improvements to s
 
 ### Large data sets and the 64-bit version of Excel
 
-The 64-bit version of Excel 2010 is not constrained to 2 GB of RAM like the 32-bit version applications. Therefore, the 64-bit version of Excel 2010 enables users to create much larger workbooks. The 64-bit version of Windows enables a larger addressable memory capacity, and Excel is designed to take advantage of that capacity. For example, users are able to fill more of the grid with data than was possible in previous versions of Excel. As more RAM is added to the computer, Excel uses that additional memory, allows larger and larger workbooks, and scales with the amount of RAM available.
+The 64-bit version of Excel 2010 is not constrained to 2 GB of RAM like the 32-bit version applications nor upto 4 GB of RAM like the Large Address Aware 32-bit version applications. Therefore, the 64-bit version of Excel 2010 enables users to create much larger workbooks. The 64-bit version of Windows enables a larger addressable memory capacity, and Excel is designed to take advantage of that capacity. For example, users are able to fill more of the grid with data than was possible in previous versions of Excel. As more RAM is added to the computer, Excel uses that additional memory, allows larger and larger workbooks, and scales with the amount of RAM available.
 
 In addition, because the 64-bit version of Excel enables larger data sets, both the 32-bit and 64-bit versions of Excel 2010 introduce improvements to common large data set tasks such as entering and filling down data, sorting, filtering, and copying and pasting data. Memory usage is also optimized to be more efficient in both the 32-bit and 64-bit versions of Excel. 
 
-For more information about the 64-bit version of Office 2010, see [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](http://msdn.microsoft.com/library/24acd0f0-1d3a-435e-8b76-44820648ab54%28Office.14%29.aspx).
+For more information about the 64-bit version of Office 2010, see [Compatibility Between the 32-bit and 64-bit Versions of Office 2010](http://msdn.microsoft.com/library/24acd0f0-1d3a-435e-8b76-44820648ab54%28Office.14%29.aspx) and for choosing between 64-bit and 32-bit, see [Choose between the 64-bit or 32-bit version of Office](https://support.office.com/en-us/article/Choose-between-the-64-bit-or-32-bit-version-of-Office-2dee7807-8f95-4d0c-b5fe-6c6f49b8d261#32or64Bit&32or64Bit).
 
 ### Shapes
 <a name="Shapes"> </a>

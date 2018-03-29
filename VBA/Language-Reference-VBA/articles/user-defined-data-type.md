@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # User-Defined Data Type
 
-Any [data type](vbe-glossary.md) you define using the **Type** statement. User-defined data types can contain one or more elements of a data type, an[array](vbe-glossary.md), or a previously defined user-defined type. For example:
+Any [data type](vbe-glossary.md) you define using the **Type** statement. User-defined data types can contain one or more elements of a data type, an [array](vbe-glossary.md), or a previously defined user-defined type. For example:
 
 
 ```vb
