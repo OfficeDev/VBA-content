@@ -12,12 +12,12 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[IDataFactoryHandler Interface](#sectionSection0)
-[GetRecordset Method](#sectionSection1)
-[Arguments](#sectionSection2)
-[Reconnect Method](#sectionSection3)
-[Arguments](#sectionSection4)
+ **In this article**<br/>
+[IDataFactoryHandler Interface](#sectionSection0)<br/>
+[GetRecordset Method](#sectionSection1)<br/>
+[Arguments](#sectionSection2)<br/>
+[Reconnect Method](#sectionSection3)<br/>
+[Arguments](#sectionSection4)<br/>
 [msdfhdl.idl](#sectionSection5)
 
 
@@ -27,7 +27,7 @@ The MSDFMAP.Handler implements the  **IDataFactoryHandler** interface.
 ## IDataFactoryHandler Interface
 <a name="sectionSection0"> </a>
 
-This interface has two methods,  **GetRecordset** and **Reconnect**. Both methods require that the[CursorLocation](http://msdn.microsoft.com/library/8A048BD4-AE25-A555-1C07-14364B7E6560%28Office.15%29.aspx) property be set to **adUseClient**.
+This interface has two methods,  **GetRecordset** and **Reconnect**. Both methods require that the [CursorLocation](http://msdn.microsoft.com/library/8A048BD4-AE25-A555-1C07-14364B7E6560%28Office.15%29.aspx) property be set to **adUseClient**.
 
 Both methods take arguments that appear after the first comma in the " **Handler=** " keyword. For example, `"Handler=progid,arg1,arg2;"` will pass an argument string of `"arg1,arg2"`, and will pass an argument string of  `"arg1,arg2"`, and  `"Handler=progid"` will pass a null argument.
 

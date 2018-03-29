@@ -17,7 +17,7 @@ In earlier versions of  **Access**, you could use the  **Customize** dialog box 
 To create an shortcut menu, you first have to create a  **[CommandBar](http://msdn.microsoft.com/library/78603954-40aa-64cb-c407-2e0820d65231%28Office.15%29.aspx)** object. The **CommandBar** object represents the shortcut menu. Then, you use the **[Add](http://msdn.microsoft.com/library/53e2b0b9-b11a-bf52-a1a3-523aae2c35d8%28Office.15%29.aspx)** method to create **[CommandBarControl](http://msdn.microsoft.com/library/b104ec00-beeb-a927-4b7b-108f4e3164f5%28Office.15%29.aspx)** objects. Each time that you create a CommandBarControl object, a command is added to the shortcut menu.
 The following example creates a shortcut menu named  **SimpleShortcutMenu** that contains two commands, **Remove Filter/Sort** and **Filter by Selection**.
 
- **Note**  To use the following examples, you must set a reference to the  **Microsoft Office 15.0 Object Library**. See[Set References to Type Libraries](set-references-to-type-libraries.md) for more information about how to set references.
+ **Note**  To use the following examples, you must set a reference to the  **Microsoft Office 15.0 Object Library**. See [Set References to Type Libraries](set-references-to-type-libraries.md) for more information about how to set references.
 
 
 

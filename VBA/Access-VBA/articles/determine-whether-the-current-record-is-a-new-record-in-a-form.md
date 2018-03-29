@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Determine Whether The Current Record is a New Record In a Form
 
-The following example shows how to use the  **NewRecord** property to determine if the current record is a new record. The **NewRecordMark** procedure sets the current record to the variable _intnewrec_. If the record is new, a message notifies the user. You could call this procedure when the[Current](form-current-event-access.md) event for a form occurs.
+The following example shows how to use the  **NewRecord** property to determine if the current record is a new record. The **NewRecordMark** procedure sets the current record to the variable _intnewrec_. If the record is new, a message notifies the user. You could call this procedure when the [Current](form-current-event-access.md) event for a form occurs.
 
 
 ```vb

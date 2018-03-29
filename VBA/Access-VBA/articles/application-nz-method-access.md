@@ -85,7 +85,7 @@ varResult = Nz(varFreight, "No Freight Charge")
 ```
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Nulls and Their Behavior](http://www.utteraccess.com/wiki/index.php/Nulls_And_Their_Behavior)

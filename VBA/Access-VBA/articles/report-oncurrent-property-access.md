@@ -99,6 +99,6 @@ End Sub
 #### Concepts
 
 
-[Report.Current Event (Access)](report-current-event-access.md)
+[Report.Current Event (Access)](report-current-event-access.md)<br/>
 [Report Object](report-object-access.md)
 

@@ -12,9 +12,9 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
+ **In this article**<br/>
+[Syntax](#sectionSection0)<br/>
+[Remarks](#sectionSection1)<br/>
 [ Example](#sectionSection2)
 
 
@@ -32,7 +32,7 @@ A SELECT statement containing a FROM clause has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, [SQL aggregate functions](http://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
-| _tableexpression_|An expression that identifies one or more tables from which data is retrieved. The expression can be a single table name, a saved query name, or a compound resulting from an [INNER JOIN](http://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN,](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx) or[RIGHT JOIN](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|
+| _tableexpression_|An expression that identifies one or more tables from which data is retrieved. The expression can be a single table name, a saved query name, or a compound resulting from an [INNER JOIN](http://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN,](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx) or [RIGHT JOIN](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|
 | _externaldatabase_|The full path of an external database containing all the tables in  _tableexpression._|
 
 ## Remarks

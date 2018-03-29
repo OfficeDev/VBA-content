@@ -18,7 +18,7 @@ Indicates the type of the key.
 
 ## Settings and Return Values
 
-Sets or returns a  **Long** value that can be one of the[KeyTypeEnum](http://msdn.microsoft.com/library/333fe365-ff74-9a12-63a7-f3e3f5eff7f4%28Office.15%29.aspx) constants. The default value is **adKeyPrimary**.
+Sets or returns a  **Long** value that can be one of the [KeyTypeEnum](http://msdn.microsoft.com/library/333fe365-ff74-9a12-63a7-f3e3f5eff7f4%28Office.15%29.aspx) constants. The default value is **adKeyPrimary**.
 
 
 ## Remarks

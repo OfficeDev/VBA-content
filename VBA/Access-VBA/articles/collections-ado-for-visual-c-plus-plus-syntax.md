@@ -12,9 +12,9 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Fields](#sectionSection0)
-[Errors](#sectionSection1)
+ **In this article**<br/>
+[Fields](#sectionSection0)<br/>
+[Errors](#sectionSection1)<br/>
 [Properties](#sectionSection2)
 
 

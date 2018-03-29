@@ -15,6 +15,7 @@ ms.date: 06/08/2017
 The FIRST keyword is used in these contexts:
 
 [First, Last Functions](first-last-functions-microsoft-access-sql.md)
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

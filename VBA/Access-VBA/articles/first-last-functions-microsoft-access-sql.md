@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
+ **In this article**<br/>
+[Syntax](#sectionSection0)<br/>
+[Remarks](#sectionSection1)<br/>
+[ Example](#sectionSection2)<br/>
 [About the Contributors](#AboutContributors)
 
 
@@ -40,7 +40,7 @@ The  _expr_ placeholder represents a string expression identifying the field tha
 The  **First** and **Last** functions are analogous to the **MoveFirst** and **MoveLast** methods of a DAO Recordset object. They simply return the value of a specified field in the first or last record, respectively, of the result set returned by a query. Because records are usually returned in no particular order (unless the query includes an[ORDER BY](order-by-clause-microsoft-access-sql.md) clause), the records returned by these functions will be arbitrary.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
 
 
 - [Record Order](http://www.utteraccess.com/wiki/index.php/Record_Order)

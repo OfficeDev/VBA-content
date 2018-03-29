@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Syntax](#sectionSection1)
-[Return Value](#sectionSection2)
-[Parameters](#sectionSection3)
+ **In this article**<br/>
+[Syntax](#sectionSection1)<br/>
+[Return Value](#sectionSection2)<br/>
+[Parameters](#sectionSection3)<br/>
 [Remarks](#sectionSection4)
 
 
@@ -45,7 +45,7 @@ Returns a [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-
 
 -  _RecordsAffected_
     
-- Optional. A  **Long** variable to which the provider returns the number of records that the operation affected. The _RecordsAffected_ parameter applies only for action queries or stored procedures. _RecordsAffected_ does not return the number of records returned by a result-returning query or stored procedure. To obtain this information, use the[RecordCount](http://msdn.microsoft.com/library/e3072d10-5bf7-02a8-027e-a9d9a34e3f27%28Office.15%29.aspx) property. The **Execute** method will not return the correct information when used with **adAsyncExecute**, simply because when a command is executed asynchronously, the number of records affected may not yet be known at the time the method returns.
+- Optional. A  **Long** variable to which the provider returns the number of records that the operation affected. The _RecordsAffected_ parameter applies only for action queries or stored procedures. _RecordsAffected_ does not return the number of records returned by a result-returning query or stored procedure. To obtain this information, use the [RecordCount](http://msdn.microsoft.com/library/e3072d10-5bf7-02a8-027e-a9d9a34e3f27%28Office.15%29.aspx) property. The **Execute** method will not return the correct information when used with **adAsyncExecute**, simply because when a command is executed asynchronously, the number of records affected may not yet be known at the time the method returns.
     
 -  _Parameters_
     
@@ -53,7 +53,7 @@ Returns a [Recordset](http://msdn.microsoft.com/library/0f963bf8-f066-dc8a-b754-
     
 -  _Options_
     
-- Optional. A  **Long** value that indicates how the provider should evaluate the[CommandText](http://msdn.microsoft.com/library/0debec1c-068f-0aea-fce8-e61aa39c5907%28Office.15%29.aspx) property of the[Command](http://msdn.microsoft.com/library/64f4ef03-f858-c004-b891-0c96d13a5e6e%28Office.15%29.aspx) object. Can be a bitmask value made using[CommandTypeEnum](http://msdn.microsoft.com/library/9ad8f155-88a0-00eb-2855-1e1a2a677437%28Office.15%29.aspx) and/or[ExecuteOptionEnum](http://msdn.microsoft.com/library/bd6d44a3-e471-7aa0-3e65-6775334de2ff%28Office.15%29.aspx) values. For example, you could use both **adCmdText** and **adExecuteNoRecords** together in combination if you want to have ADO evaluate the value of the **CommandText** property as text and indicate that the command should discard and not return any records that might be generated when the command text executes.
+- Optional. A  **Long** value that indicates how the provider should evaluate the [CommandText](http://msdn.microsoft.com/library/0debec1c-068f-0aea-fce8-e61aa39c5907%28Office.15%29.aspx) property of the [Command](http://msdn.microsoft.com/library/64f4ef03-f858-c004-b891-0c96d13a5e6e%28Office.15%29.aspx) object. Can be a bitmask value made using[CommandTypeEnum](http://msdn.microsoft.com/library/9ad8f155-88a0-00eb-2855-1e1a2a677437%28Office.15%29.aspx) and/or[ExecuteOptionEnum](http://msdn.microsoft.com/library/bd6d44a3-e471-7aa0-3e65-6775334de2ff%28Office.15%29.aspx) values. For example, you could use both **adCmdText** and **adExecuteNoRecords** together in combination if you want to have ADO evaluate the value of the **CommandText** property as text and indicate that the command should discard and not return any records that might be generated when the command text executes.
     
 
 ## Remarks

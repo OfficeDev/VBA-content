@@ -65,7 +65,7 @@ If you simply want to find the minimum or maximum value of all records in  _doma
 Although you can use the  **DMin** or **DMax** function to find the minimum or maximum value from a field in a foreign table, it may be more efficient to create a query that contains the fields that you need from both tables and base your form or report on that query.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Sequential Numbering](http://www.utteraccess.com/wiki/index.php/Sequential_Numbering)
@@ -100,7 +100,7 @@ curX = DMax("[Freight]", "Orders", "[OrderDate] = #" _
 The following examples show how to use various types of criteria with the  **DMax** function.
 
  **Sample code provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 

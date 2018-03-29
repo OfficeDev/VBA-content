@@ -146,5 +146,5 @@ Use the [ControlSource](http://msdn.microsoft.com/library/f15e6d9c-fa41-8ca9-525
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [WebBrowserControl Object Members](http://msdn.microsoft.com/library/bd19a10a-fbbc-5fd6-0818-23a377be9583%28Office.15%29.aspx)

@@ -52,7 +52,7 @@ font-size: x-small;}
 <!-- EndExecuteOptionsDesignVBS -->
 ```
 
-The following example shows how to set the  **ExecuteOptions** and **FetchOptions** properties at run time in VBScript code. See the[Refresh](http://msdn.microsoft.com/library/968baa7c-9128-7155-a1eb-d77aedda6601%28Office.15%29.aspx) method for a working example of these properties. Cut and paste the following code to Notepad or another text editor and save it as **ExecuteOptionsRuntimeVBS.asp**.
+The following example shows how to set the  **ExecuteOptions** and **FetchOptions** properties at run time in VBScript code. See the [Refresh](http://msdn.microsoft.com/library/968baa7c-9128-7155-a1eb-d77aedda6601%28Office.15%29.aspx) method for a working example of these properties. Cut and paste the following code to Notepad or another text editor and save it as **ExecuteOptionsRuntimeVBS.asp**.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.DatasheetBackColor Property (Access)
 
-You can use the  **DatasheetBackColor** property in[Visual Basic](set-properties-by-using-visual-basic.md)to specify or determine the background color of an entire table, query, or form in Datasheet view within a Microsoft Access database. Read/write  **Long**.
+You can use the  **DatasheetBackColor** property in [Visual Basic](set-properties-by-using-visual-basic.md)to specify or determine the background color of an entire table, query, or form in Datasheet view within a Microsoft Access database. Read/write  **Long**.
 
 
 ## Syntax
