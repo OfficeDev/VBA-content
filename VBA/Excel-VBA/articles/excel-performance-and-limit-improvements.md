@@ -12,9 +12,18 @@ author: FastExcel
 Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks
 
 ## VLOOKUP, HLOOKUP, MATCH improvements
-In Excel 16.0.9126.2xxx onwards VLOOKUP, HLOOKUP and MATCH for exact match on unsorted data is much faster than ever before. 
+In Excel 16.0.9126.2xxx onwards VLOOKUP, HLOOKUP and MATCH for exact match on unsorted data is much faster than ever before when looking up multiple columns (or rows with HLOOKUP) from the same table range.
 
-*For example... TBD *
+These lookup functions now create an internal cached index for the column range being searched. This cached index is reused in any subsequent lookups that are pulling from the same row (VLOOKUP and MATCH) or column (HLOOKUP). The effect is dramatic: lookups on 5 different columns in the same table range can be up to 4 times faster than the same lookups using Excel 2010 or Excel 2016, and the improvement is larger as more columns are looked up.
+
+*For example calculating 100 rows of these 5 VLOOKUP formulas took 37 seconds to calculate using Excel 2010 and only 12 seconds using Excel 2016.*
+```
+ =VLOOKUP($A900000,$A$2:$E$1000000,1,FALSE)
+ =VLOOKUP($A900000,$A$2:$E$1000000,2,FALSE)
+ =VLOOKUP($A900000,$A$2:$E$1000000,3,FALSE)
+ =VLOOKUP($A900000,$A$2:$E$1000000,4,FALSE)
+ =VLOOKUP($A900000,$A$2:$E$1000000,5,FALSE)
+```
 
 ## LAA memory improvement for 32-bit Excel
 
