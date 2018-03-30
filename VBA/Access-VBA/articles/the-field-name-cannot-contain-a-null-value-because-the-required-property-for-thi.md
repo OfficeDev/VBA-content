@@ -15,11 +15,11 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[What Is a Null?](#sectionSection0)
-[What Is the Required Property?](#sectionSection1)
-[Solution](#sectionSection2)
-[To remove the required property](#sectionSection3)
+ **In this article**<br/>
+[What Is a Null?](#sectionSection0)<br/>
+[What Is the Required Property?](#sectionSection1)<br/>
+[Solution](#sectionSection2)<br/>
+[To remove the required property](#sectionSection3)<br/>
 [Setting the AllowZeroLength Property](#sectionSection4)
 
 

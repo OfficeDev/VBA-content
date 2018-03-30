@@ -70,7 +70,7 @@ public AdoProperties Invalid DDUE based on source, error:link not allowed in cod
 
 ## Parameter Accessor Methods
 
-The [Value](http://msdn.microsoft.com/library/ff21d122-98e3-2b48-d92f-e696b8079fc5%28Office.15%29.aspx) property of a[Parameter](http://msdn.microsoft.com/library/7577598e-3d0c-30c6-5f24-1cfe98791798%28Office.15%29.aspx) object gets or sets the content of that object. The content is represented as a VARIANT, a type of object that can be assigned a value and any of several data types.
+The [Value](http://msdn.microsoft.com/library/ff21d122-98e3-2b48-d92f-e696b8079fc5%28Office.15%29.aspx) property of a [Parameter](http://msdn.microsoft.com/library/7577598e-3d0c-30c6-5f24-1cfe98791798%28Office.15%29.aspx) object gets or sets the content of that object. The content is represented as a VARIANT, a type of object that can be assigned a value and any of several data types.
 
 ADO/WFC implements the  **Value** property with the **getValue** method, which returns a VARIANT object; and the **setValue** method, which takes a VARIANT as an argument. VARIANTs are highly efficient in certain languages, such as Microsoft Visual Basic. However, you can attain better performance in Microsoft Visual J++ by using native Java data types.
 

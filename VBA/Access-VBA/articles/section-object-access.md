@@ -93,5 +93,5 @@ You can set section properties which are attributes of a form that affect the ap
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
 [Section Object Members](http://msdn.microsoft.com/library/9c145cfa-d2c2-6559-cdd9-63813774c026%28Office.15%29.aspx)

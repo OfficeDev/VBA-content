@@ -39,7 +39,7 @@ The  **ScaleMode** property uses the following settings.
 |5|Inches|
 |6|Millimeters|
 |7|Centimeters|
-You can set the  **ScaleMode** property by using a macro or a[Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
+You can set the  **ScaleMode** property by using a macro or a [Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
 
 By using the related  **ScaleHeight**, **ScaleWidth**, **ScaleLeft**, and **ScaleTop** properties, you can create a custom coordinate system with both positive and negative coordinates. All four properties interact with the **ScaleMode** property in the following ways:
 

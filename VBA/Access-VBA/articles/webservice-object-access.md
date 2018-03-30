@@ -18,7 +18,7 @@ Represents a Data Service data connection.
 
 ## Remarks
 
-Use the [Item](webservices-item-property-access.md) property of the[WebServices](webservices-object-access.md) collection to return a **WebService** object.
+Use the [Item](webservices-item-property-access.md) property of the [WebServices](webservices-object-access.md) collection to return a **WebService** object.
 
 A Data Service data connection may contain one or more entities. Each entity specifies an external content type. Used throughout the functionality and services offered by Business Connectivity Services, external content types are reusable metadata descriptions of connectivity information and data definitions plus the behaviors you want to apply to a certain category of external data. Use the [Entities](webservice-entities-property-access.md) property to return the entities defined for a Data Service data connection.
 

@@ -38,7 +38,7 @@ You can use the  **SetWarnings** method to turn system messages on or off.
 If you turn the display of system messages off in Visual Basic, you must turn it back on, or it will remain off, even if the user presses CTRL+BREAK or Visual Basic encounters a breakpoint. You may want to create a macro that turns the display of system messages on and then assign that macro to a key combination or a custom menu command. You could then use the key combination or menu command to turn the display of system messages on if it has been turned off in Visual Basic.
 
  **Sample code provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Calling Action Queries](http://www.utteraccess.com/wiki/index.php/Calling_Action_Queries)

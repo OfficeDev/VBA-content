@@ -18,7 +18,7 @@ Represents the collection of parameters of defined for an [Operation](operation-
 
 ## Remarks
 
-Use the [WSParameters](operation-wsparameters-property-access.md) property of the[Operation](operation-object-access.md) object to get the parameters of a operation.
+Use the [WSParameters](operation-wsparameters-property-access.md) property of the [Operation](operation-object-access.md) object to get the parameters of a operation.
 
 
 ## Properties

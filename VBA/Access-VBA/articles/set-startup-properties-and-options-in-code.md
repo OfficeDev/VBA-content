@@ -17,6 +17,6 @@ You can set options in the  **Access Options** dialog box to change various aspe
 
 The following topics provide specific information about setting startup properties and options in code.
 
-[Set Startup Properties from Visual Basic](set-startup-properties-and-options-in-code.md)
+[Set Startup Properties from Visual Basic](set-startup-properties-and-options-in-code.md)<br/>
 [Set Options from Visual Basic](set-options-from-visual-basic.md)
 

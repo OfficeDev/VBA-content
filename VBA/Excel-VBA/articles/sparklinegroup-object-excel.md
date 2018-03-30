@@ -1,4 +1,4 @@
- ---
+---
 title: SparklineGroup Object (Excel)
 keywords: vbaxl10.chm870072
 f1_keywords:

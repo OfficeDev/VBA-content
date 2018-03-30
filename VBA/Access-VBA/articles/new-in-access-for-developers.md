@@ -13,13 +13,13 @@ Learn about the features in Access 2013 that make it easy to create, deploy, and
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Introduction](#ac15_WhatsNew_Introduction)
-[New application model](#ac15_WhatsNew_NewAppModel)
-[Views](#ac15_WhatsNew_Views)
-[Programmability in Access apps](#ac15_WhatsNew_Programmability)
-[Publishing your Access app](#ac15_WhatsNew_PublishApp)
-[Conclusion](#ac15_WhatsNew_Conclusion)
+ **In this article**<br/>
+[Introduction](#ac15_WhatsNew_Introduction)<br/>
+[New application model](#ac15_WhatsNew_NewAppModel)<br/>
+[Views](#ac15_WhatsNew_Views)<br/>
+[Programmability in Access apps](#ac15_WhatsNew_Programmability)<br/>
+[Publishing your Access app](#ac15_WhatsNew_PublishApp)<br/>
+[Conclusion](#ac15_WhatsNew_Conclusion)<br/>
 [Additional Resources](#ac15_WhatsNew_AdditionalResources2)
 
 

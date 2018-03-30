@@ -17,8 +17,9 @@ ms.date: 06/08/2017
 
 The BY keyword is used in these contexts:
 
-[GROUP BY Clause](group-by-clause-microsoft-access-sql.md)
+[GROUP BY Clause](group-by-clause-microsoft-access-sql.md)<br/>
 [ORDER BY Clause](order-by-clause-microsoft-access-sql.md)
+
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

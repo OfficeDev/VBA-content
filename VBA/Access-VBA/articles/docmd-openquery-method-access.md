@@ -41,7 +41,7 @@ You can use the  **OpenQuery** method to open a select or crosstab query in Data
  **Note**  This method is only available in the Microsoft Access database environment. See the  **OpenView** or **OpenStoredProcedure** methods if using the Microsoft Access Project environment (.adp).
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
 
 
 - [Calling Action Queries](http://www.utteraccess.com/wiki/index.php/Calling_Action_Queries)

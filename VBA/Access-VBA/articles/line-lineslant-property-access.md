@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Line.LineSlant Property (Access)
 
-You use the  **LineSlant** property to specify whether a[line control](line-control.md)slants from upper left to lower right or from upper right to lower left. Read/write  **Boolean**.
+You use the  **LineSlant** property to specify whether a [line control](line-control.md)slants from upper left to lower right or from upper right to lower left. Read/write  **Boolean**.
 
 
 ## Syntax

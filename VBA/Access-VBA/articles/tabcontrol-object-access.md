@@ -157,5 +157,5 @@ With the tab control, you can construct a single form or dialog box that contain
 #### Other resources
 
 
-[TabControl Object Members](http://msdn.microsoft.com/library/d6de9ec4-e7f9-5c26-d750-d7c134ec9fb0%28Office.15%29.aspx)
+[TabControl Object Members](http://msdn.microsoft.com/library/d6de9ec4-e7f9-5c26-d750-d7c134ec9fb0%28Office.15%29.aspx)<br/>
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

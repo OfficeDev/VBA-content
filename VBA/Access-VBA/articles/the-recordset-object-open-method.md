@@ -12,11 +12,11 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**
-[Source and Options Arguments](#sectionSection0)
-[ActiveConnection Argument](#sectionSection1)
-[CursorType Argument](#sectionSection2)
-[LockType Argument](#sectionSection3)
+ **In this article**<br/>
+[Source and Options Arguments](#sectionSection0)<br/>
+[ActiveConnection Argument](#sectionSection1)<br/>
+[CursorType Argument](#sectionSection2)<br/>
+[LockType Argument](#sectionSection3)<br/>
 [Retrieving Multiple Recordsets](#sectionSection4)
 
 

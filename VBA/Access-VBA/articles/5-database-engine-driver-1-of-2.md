@@ -64,10 +64,7 @@ The Microsoft Access database engine uses the following entries.
 |LockDelay|This setting works in conjunction with the LockRetry setting in that it causes each LockRetry to wait 100 milliseconds before issuing another lock request. The LockDelay setting was added to prevent "bursting" that would occur with certain networking operating systems.|
 |MaxLocksPerFile|This setting prevents transactions in Microsoft Jet from exceeding the specified value. If the locks in a transaction attempts to exceed this value, then the transaction is split into two or more parts and partially committed. This setting was added to prevent Netware 3.1 server crashes when the specified Netware lock limit was exceeded and to improve performance with both Netware and NT.|
 |LockRetry|The number of times to repeat attempts to access a locked page before returning a lock conflict message. The default is 20. Values are of type REG_DWORD.|
-|RecycleLVs|This setting, when enabled, will cause Microsoft Jet to recycle long value (LV) pages (Memo, Long Binary [OLE object], and Binary data types). Microsoft Jet 3.0 would not recycle those types of pages until the last user closed the database. If the RecyleLVs setting is enabled, Microsoft Jet 3.5 will start to recycle most LV pages when the database is expanded (that is, when groups of pages are added).
- **Note**  By enabling this feature, users will notice a performance degradation when manipulating long value data types. Microsoft Access 97 automatically enables and disables this feature when manipulating modules, forms, and reports, thus eliminating the need to turn it on when modifying those objects. The default value is 0. Values are of type REG_DWORD.
-
-|
+|RecycleLVs|This setting, when enabled, will cause Microsoft Jet to recycle long value (LV) pages (Memo, Long Binary [OLE object], and Binary data types). Microsoft Jet 3.0 would not recycle those types of pages until the last user closed the database. If the RecyleLVs setting is enabled, Microsoft Jet 3.5 will start to recycle most LV pages when the database is expanded (that is, when groups of pages are added). <br/> **Note**  By enabling this feature, users will notice a performance degradation when manipulating long value data types. Microsoft Access 97 automatically enables and disables this feature when manipulating modules, forms, and reports, thus eliminating the need to turn it on when modifying those objects. The default value is 0. Values are of type REG_DWORD.|
 |MaxBufferSize|The size of the database engine internal cache, measured in kilobytes (K). MaxBufferSize must be an integer value greater than or equal to 512. The default is based on the following formula: `((TotalRAM in MB - 12 MB) / 4) + 512 KB` For example, on a system with 32 MB of RAM, the default buffer size is ((32 MB - 12 MB) / 4) + 512 KB or 5632 KB. To set the value to the default, set the registry key to `MaxBufferSize=` Values are of type REG_DWORD.|
 |Threads|The number of background threads available to the Microsoft Jet database engine. The default is 3. Values are of type REG_DWORD.|
 |UserCommitSync|Specifies whether the system waits for a commit to finish. A value of Yes instructs the system to wait; a value of No instructs the system to perform the commit asynchronously. The default is Yes. Values are of type REG_DWORD.|
@@ -82,7 +79,7 @@ The  **Jet\4.0\ISAM Formats\Jet 3.x** folder contains the following entries.
 
 
 
-|**Entry name**|** Type**|**Value**|
+|**Entry name**|**Type**|**Value**|
 |:-----|:-----|:-----|
 |Engine|REG_SZ|Jet 3.x|
 |OneTablePerFile|REG_BINARY|00|

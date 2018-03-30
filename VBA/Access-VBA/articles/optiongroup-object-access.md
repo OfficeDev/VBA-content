@@ -135,5 +135,5 @@ An option group can also be set to an expression, or it can be unbound. You can 
 #### Other resources
 
 
-[OptionGroup Object Members](http://msdn.microsoft.com/library/90e68eb2-20f2-510c-4332-241eeac27f14%28Office.15%29.aspx)
+[OptionGroup Object Members](http://msdn.microsoft.com/library/90e68eb2-20f2-510c-4332-241eeac27f14%28Office.15%29.aspx)<br/>
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
