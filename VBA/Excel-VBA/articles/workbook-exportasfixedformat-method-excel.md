@@ -41,7 +41,7 @@ The  **ExportAsFixedFormat** method is used to publish a workbook to either the 
 
 ## Example
 
-The following example creates the PDF at standard quality in the current file?s directory and displays file in viewer after it is published.
+The following example creates the PDF at standard quality in the current files directory and displays file in viewer after it is published.
 
 
  **Note**  An error will occur if the PDF add-in is not currently installed.
