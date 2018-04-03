@@ -25,7 +25,7 @@ Returns an automation object (WordBasic) that includes methods for all the WordB
 
 ## Remarks
 
-In Word 2000 and later, when you open a Word version 6.0 or Word for Windows 95 template that contains WordBasic macros, the macros are automatically converted to Visual Basic modules. Each WordBasic statement and function in the macro is converted to the corresponding Word.Basic method.
+In Word 2000 and later, when you open a Word version 6.0 or Word for Windows 95 template that contains WordBasic macros, the macros are automatically converted to Visual Basic modules. Each WordBasic statement and function in the macro is converted to the corresponding WordBasic method.
 
 For information about WordBasic statements and functions, see the WordBasic Help in Word version 6.0 or Word for Windows 95. For information about converting WordBasic to Visual Basic, see [Converting WordBasic Macros to Visual Basic](http://msdn.microsoft.com/library/44a08969-f0e9-291e-7663-b7cc2e3660db%28Office.15%29.aspx). For general information, see [Conceptual Differences Between WordBasic and Visual Basic](http://msdn.microsoft.com/library/2ec0fa57-68c4-f4e9-000c-91a2b97ac9ac%28Office.15%29.aspx).
 
