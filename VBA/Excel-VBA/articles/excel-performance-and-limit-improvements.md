@@ -11,11 +11,6 @@ author: FastExcel
 
 Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks
 
-## VLOOKUP, HLOOKUP, MATCH improvements
-In Excel 16.0.9126.2xxx onwards VLOOKUP, HLOOKUP and MATCH for exact match on unsorted data is much faster than ever before. 
-
-*For example... TBD *
-
 ## LAA memory improvement for 32-bit Excel
 
 Although the 64-bit version of Excel has large virtual memory limits, the 32-bit version has only 2 GBs of virtual memory. Some customers use the 32-bit version because some third-party add-ins and controls are not available in the 64-bit version.
