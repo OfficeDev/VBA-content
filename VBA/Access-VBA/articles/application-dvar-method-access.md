@@ -99,7 +99,7 @@ dblX = DVar("[Freight]", "Orders", "[ShipCountry] = '" _
 The following examples show how to use various types of criteria with the  **DVar** function.
 
  **Sample code provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 

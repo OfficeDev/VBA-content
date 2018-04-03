@@ -18,7 +18,7 @@ Represents the collection of Data Services data connections installed in the dat
 
 ## Remarks
 
-Use the [WebServices](application-webservices-property-access.md) property of the [Application Object](application-object-access.md) to return the colleciton of installed Data Services data connections.
+Use the [WebServices](application-webservices-property-access.md) property of the[Application Object](application-object-access.md) to return the colleciton of installed Data Services data connections.
 
 Use the following steps to install a Data Services data connection in your database.
 

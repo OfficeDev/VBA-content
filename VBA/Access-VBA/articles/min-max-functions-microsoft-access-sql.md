@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**<br/>
-[Syntax](#sectionSection0)<br/>
-[Remarks](#sectionSection1)<br/>
-[ Example](#sectionSection2)<br/>
+ **In this article**
+[Syntax](#sectionSection0)
+[Remarks](#sectionSection1)
+[ Example](#sectionSection2)
 [About the Contributors](#AboutContributors)
 
 
@@ -42,7 +42,7 @@ You can use  **Min** and **Max** to determine the smallest and largest values in
 You can use  **Min** and **Max** in a query expression and in the **SQL** property of a **QueryDef** object or when creating a **Recordset** object based on an SQL query.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
 
 
 - [Record Order](http://www.utteraccess.com/wiki/index.php/Record_Order)

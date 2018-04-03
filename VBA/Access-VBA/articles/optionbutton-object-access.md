@@ -155,5 +155,5 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 #### Other resources
 
 
-[OptionButton Object Members](http://msdn.microsoft.com/library/5173d5c5-b898-97ee-a005-7f5a4d77efa1%28Office.15%29.aspx)<br/>
+[OptionButton Object Members](http://msdn.microsoft.com/library/5173d5c5-b898-97ee-a005-7f5a4d77efa1%28Office.15%29.aspx)
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

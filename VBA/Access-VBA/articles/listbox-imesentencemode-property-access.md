@@ -26,7 +26,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **IMESentenceMode** property accepts the [AcImeSentenceMode Enumeration (Access)](acimesentencemode-enumeration-access.md) enumeration.
+The  **IMESentenceMode** property accepts the[AcImeSentenceMode Enumeration (Access)](acimesentencemode-enumeration-access.md) enumeration.
 
 
 

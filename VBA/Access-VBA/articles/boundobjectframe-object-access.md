@@ -152,5 +152,5 @@ The object in a bound object frame is different for each record. The bound objec
 #### Other resources
 
 
-[BoundObjectFrame Object Members](http://msdn.microsoft.com/library/e2bbeb0c-1b13-5953-999a-4a0b93cb3ec7%28Office.15%29.aspx)<br/>
+[BoundObjectFrame Object Members](http://msdn.microsoft.com/library/e2bbeb0c-1b13-5953-999a-4a0b93cb3ec7%28Office.15%29.aspx)
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

@@ -17,11 +17,10 @@ ms.date: 06/08/2017
 
 The USER keyword is used in these contexts:
 
-[CREATE USER or GROUP Statement](http://msdn.microsoft.com/library/62148ce2-0f81-944e-a1ab-edef990fff9f%28Office.15%29.aspx)<br/>
-[ADD USER Statement](http://msdn.microsoft.com/library/1feb631f-cb8c-14ae-6214-276f1faf1a55%28Office.15%29.aspx)<br/>
-[DROP USER or GROUP Statement](http://msdn.microsoft.com/library/46bc5916-556b-17df-2f4c-8fd7bbd21ef7%28Office.15%29.aspx)<br/>
+[CREATE USER or GROUP Statement](http://msdn.microsoft.com/library/62148ce2-0f81-944e-a1ab-edef990fff9f%28Office.15%29.aspx)
+[ADD USER Statement](http://msdn.microsoft.com/library/1feb631f-cb8c-14ae-6214-276f1faf1a55%28Office.15%29.aspx)
+[DROP USER or GROUP Statement](http://msdn.microsoft.com/library/46bc5916-556b-17df-2f4c-8fd7bbd21ef7%28Office.15%29.aspx)
 [ALTER USER or DATABASE Statement](http://msdn.microsoft.com/library/86ccd296-5171-97e7-683f-cdaab4bde9ab%28Office.15%29.aspx)
-
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

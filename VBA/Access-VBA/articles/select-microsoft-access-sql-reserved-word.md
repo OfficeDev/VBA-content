@@ -17,13 +17,12 @@ ms.date: 06/08/2017
 
 The SELECT keyword is used in these contexts:
 
-[SELECT Statement](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx)<br/>
-[SELECT … INTO Statement](http://msdn.microsoft.com/library/29f3bd55-52f5-a36e-4e33-4b3499c6ce8d%28Office.15%29.aspx)<br/>
-[CREATE VIEW Statement](http://msdn.microsoft.com/library/ecaabd75-3081-fd35-830d-5a59b0a51922%28Office.15%29.aspx)<br/>
-[CREATE PROCEDURE Statement](http://msdn.microsoft.com/library/1fbb5267-9862-bfb4-6436-176152d7a6cd%28Office.15%29.aspx)<br/>
-[GRANT Statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)<br/>
+[SELECT Statement](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx)
+[SELECT … INTO Statement](http://msdn.microsoft.com/library/29f3bd55-52f5-a36e-4e33-4b3499c6ce8d%28Office.15%29.aspx)
+[CREATE VIEW Statement](http://msdn.microsoft.com/library/ecaabd75-3081-fd35-830d-5a59b0a51922%28Office.15%29.aspx)
+[CREATE PROCEDURE Statement](http://msdn.microsoft.com/library/1fbb5267-9862-bfb4-6436-176152d7a6cd%28Office.15%29.aspx)
+[GRANT Statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
 [REVOKE Statement](http://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
-
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

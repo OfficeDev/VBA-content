@@ -35,7 +35,7 @@ You can set this property by using the form's property sheet, a macro, or Visual
 To run Visual Basic code at intervals specified by the  **TimerInterval** property, put the code in the form's **Timer** event procedure. For example, to requery records every 30 seconds, put the code to requery the records in the form's **Timer** event procedure, and then set the **TimerInterval** property to 30000.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 - [Delay Event/Actions for Set Time Interval](http://www.utteraccess.com/wiki/index.php/Delay_Event/Actions_for_Set_Time_Interval)

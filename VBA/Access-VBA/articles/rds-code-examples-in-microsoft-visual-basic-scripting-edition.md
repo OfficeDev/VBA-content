@@ -12,9 +12,9 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**<br/>
-[Objects](#sectionSection0)<br/>
-[Methods](#sectionSection1)<br/>
+ **In this article**
+[Objects](#sectionSection0)
+[Methods](#sectionSection1)
 [Properties](#sectionSection2)
 
 

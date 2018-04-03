@@ -157,5 +157,5 @@ Use  **[SelectedTab](http://msdn.microsoft.com/library/8e6da4b2-eada-51db-b198-d
 #### Other resources
 
 
-[NavigationControl Object Members](http://msdn.microsoft.com/library/c972327e-9b46-f9fb-d69d-104d1d130ee4%28Office.15%29.aspx)<br/>
+[NavigationControl Object Members](http://msdn.microsoft.com/library/c972327e-9b46-f9fb-d69d-104d1d130ee4%28Office.15%29.aspx)
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

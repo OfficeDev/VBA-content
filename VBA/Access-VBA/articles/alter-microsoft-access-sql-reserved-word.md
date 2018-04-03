@@ -17,9 +17,8 @@ ms.date: 06/08/2017
 
 The ALTER keyword is used in these contexts:
 
-[ALTER TABLE Statement](http://msdn.microsoft.com/library/78e6c92c-e88c-e55f-6b89-435360c166a6%28Office.15%29.aspx)<br/>
+[ALTER TABLE Statement](http://msdn.microsoft.com/library/78e6c92c-e88c-e55f-6b89-435360c166a6%28Office.15%29.aspx)
 [ALTER USER or DATABASE Statement](http://msdn.microsoft.com/library/86ccd296-5171-97e7-683f-cdaab4bde9ab%28Office.15%29.aspx)
-
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
