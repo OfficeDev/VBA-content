@@ -41,7 +41,7 @@ This method only applies to Microsoft Access databases.
 The maximum length of the  _sqlstatement_ argument is 32,768 characters (unlike the SQL Statement action argument in the Macro window, whose maximum length is 256 characters).
 
  **Links provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 - [Calling Action Queries](http://www.utteraccess.com/wiki/index.php/Calling_Action_Queries)

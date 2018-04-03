@@ -17,9 +17,8 @@ ms.date: 06/08/2017
 
 The TO keyword is used in these contexts:
 
-[ADD USER Statement](http://msdn.microsoft.com/library/1FEB631F-CB8C-14AE-6214-276F1FAF1A55%28Office.15%29.aspx)<br/>
+[ADD USER Statement](http://msdn.microsoft.com/library/1FEB631F-CB8C-14AE-6214-276F1FAF1A55%28Office.15%29.aspx)
 [GRANT Statement](http://msdn.microsoft.com/library/50AE97AE-D5BE-57E5-D9DA-F3FC42F01D83%28Office.15%29.aspx)
-
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

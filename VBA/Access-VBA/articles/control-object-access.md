@@ -176,5 +176,5 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 #### Other resources
 
 
-[Control Object Members](http://msdn.microsoft.com/library/c6f2ed0f-f8e1-d56e-22a5-a365b64b7754%28Office.15%29.aspx)<br/>
+[Control Object Members](http://msdn.microsoft.com/library/c6f2ed0f-f8e1-d56e-22a5-a365b64b7754%28Office.15%29.aspx)
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

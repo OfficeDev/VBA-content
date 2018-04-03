@@ -15,10 +15,10 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**<br/>
-[Syntax](#sectionSection0)<br/>
-[Remarks](#sectionSection1)<br/>
-[ Example](#sectionSection2)<br/>
+ **In this article**
+[Syntax](#sectionSection0)
+[Remarks](#sectionSection1)
+[ Example](#sectionSection2)
 [About the Contributors](#AboutContributors)
 
 
@@ -77,7 +77,7 @@ ORDER BY is usually the last item in an SQL statement.
 You can include additional fields in the ORDER BY clause. Records are sorted first by the first field listed after ORDER BY. Records that have equal values in that field are then sorted by the value in the second field listed, and so on.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community |[About the Contributors](#AboutContributors)
 
 
 - [Record Order](http://www.utteraccess.com/wiki/index.php/Record_Order)

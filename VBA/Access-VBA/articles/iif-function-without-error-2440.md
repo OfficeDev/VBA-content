@@ -18,7 +18,6 @@ ms.date: 06/08/2017
 The  **IIf** function requires parentheses around its arguments, as shown in the following syntax:
 
  **IIf** ( _expr_, _truepart_, _falsepart_ )
-
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

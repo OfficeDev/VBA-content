@@ -15,14 +15,14 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
- **In this article**<br/>
-[General](#sectionSection0)<br/>
-[Symbolic Constants](#sectionSection1)<br/>
-[Intrinsic Constants](#sectionSection2)<br/>
-[System-Defined Constants](#sectionSection3)<br/>
-[General](#sectionSection4)<br/>
-[Symbolic Constants](#sectionSection5)<br/>
-[Intrinsic Constants](#sectionSection6)<br/>
+ **In this article**
+[General](#sectionSection0)
+[Symbolic Constants](#sectionSection1)
+[Intrinsic Constants](#sectionSection2)
+[System-Defined Constants](#sectionSection3)
+[General](#sectionSection4)
+[Symbolic Constants](#sectionSection5)
+[Intrinsic Constants](#sectionSection6)
 [System-Defined Constants](#sectionSection7)
 
 
@@ -64,7 +64,7 @@ Const conVersion = "Version 12.0"        ' Declare a string constant.
 ## Intrinsic Constants
 <a name="sectionSection2"> </a>
 
-In addition to the constants you declare with the  **Const** statement, Microsoft Access automatically declares a number of intrinsic constants and provides access to the Visual Basic for Applications (VBA) constants, and ActiveX Data Objects (ADO) constants. You can also use constants in other referenced object libraries. For more information on adding references see [Set References to Type Libraries](http://msdn.microsoft.com/library/6314a89b-89e9-d8c1-5964-889a361afcd1%28Office.15%29.aspx).
+In addition to the constants you declare with the  **Const** statement, Microsoft Access automatically declares a number of intrinsic constants and provides access to the Visual Basic for Applications (VBA) constants, and ActiveX Data Objects (ADO) constants. You can also use constants in other referenced object libraries. For more information on adding references see[Set References to Type Libraries](http://msdn.microsoft.com/library/6314a89b-89e9-d8c1-5964-889a361afcd1%28Office.15%29.aspx).
 
 Any intrinsic constant can be used in a macro or Visual Basic. These constants are available at all times. The specific built-in constants used with a particular function, method, or property are described in the Help topic for that function, method, or property.
 
@@ -156,7 +156,7 @@ Const conVersion = "Version 12.0"        ' Declare a string constant.
 ## Intrinsic Constants
 <a name="sectionSection6"> </a>
 
-In addition to the constants you declare with the  **Const** statement, Microsoft Access automatically declares a number of intrinsic constants and provides access to the Visual Basic for Applications (VBA) constants, and ActiveX Data Objects (ADO) constants. You can also use constants in other referenced object libraries. For more information on adding references see [Set References to Type Libraries](http://msdn.microsoft.com/library/6314a89b-89e9-d8c1-5964-889a361afcd1%28Office.15%29.aspx).
+In addition to the constants you declare with the  **Const** statement, Microsoft Access automatically declares a number of intrinsic constants and provides access to the Visual Basic for Applications (VBA) constants, and ActiveX Data Objects (ADO) constants. You can also use constants in other referenced object libraries. For more information on adding references see[Set References to Type Libraries](http://msdn.microsoft.com/library/6314a89b-89e9-d8c1-5964-889a361afcd1%28Office.15%29.aspx).
 
 Any intrinsic constant can be used in a macro or Visual Basic. These constants are available at all times. The specific built-in constants used with a particular function, method, or property are described in the Help topic for that function, method, or property.
 

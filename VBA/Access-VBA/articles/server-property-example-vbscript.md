@@ -99,7 +99,6 @@ End Sub-->
 ```
 
 [DataControl Object (RDS)](http://msdn.microsoft.com/library/ac430669-7628-696c-c036-b5d35405d788%28Office.15%29.aspx) |[Server Property (RDS)](http://msdn.microsoft.com/library/17519dbe-a43a-1d0d-22c1-dc0def2f63ab%28Office.15%29.aspx)
-
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>

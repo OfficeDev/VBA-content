@@ -27,7 +27,7 @@ The  **References** collection belongs to the Microsoft Access **Application** o
 Individual  **Reference** objects in the **References** collection are indexed beginning with 1.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 - [Display List of References - Both Good and Broken](http://www.utteraccess.com/forum/Display-List-References-t126939.html)

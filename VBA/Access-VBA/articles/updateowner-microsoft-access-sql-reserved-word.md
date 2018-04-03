@@ -17,9 +17,8 @@ ms.date: 06/08/2017
 
 The UPDATEOWNER keyword is used in these contexts:
 
-[GRANT Statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)<br/>
+[GRANT Statement](http://msdn.microsoft.com/library/50ae97ae-d5be-57e5-d9da-f3fc42f01d83%28Office.15%29.aspx)
 [REVOKE Statement](http://msdn.microsoft.com/library/69399fd6-c4e8-f2e2-e5f4-48ae779323f5%28Office.15%29.aspx)
-
  **ACCESS SUPPORT RESOURCES**<br>
 [Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
 [Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
