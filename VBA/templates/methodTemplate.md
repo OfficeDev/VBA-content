@@ -46,8 +46,7 @@ List the parameters of the method in a table.
 For example: 
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
-|-----|-----|-----|-----|
-| _Name_|Optional|**String**|The name of the project file, source file, or data source to open. If  _Name_ is not specified, Project displays the **Open** dialog box.|
+
 -->
 
 
