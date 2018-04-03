@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WordBasic Property (Word)
 
-Returns an automation object (Word.Basic) that includes methods for all the WordBasic statements and functions available in Word version 6.0 and Word for Windows 95. Read-only.
+Returns an automation object (WordBasic) that includes methods for all the WordBasic statements and functions available in Word version 6.0 and Word for Windows 95. Read-only.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ For information about WordBasic statements and functions, see the WordBasic Help
 
 ## Example
 
-This example uses the Word.Basic object to create a new document in Word version 6.0 or Word for Windows 95 and insert the available font names. Each font name is formatted in its corresponding font.
+This example uses the WordBasic object to create a new document in Word version 6.0 or Word for Windows 95 and insert the available font names. Each font name is formatted in its corresponding font.
 
 
 ```vb
