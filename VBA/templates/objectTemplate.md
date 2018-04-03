@@ -152,7 +152,7 @@ For example:
 
 
 |**Name**|
-|-----|
+|:-----|
 |[ActiveWindow](windows2-activewindow-property-project.md)|
 |[Application](windows2-application-property-project.md)|
 |[Count](windows2-count-property-project.md)|
