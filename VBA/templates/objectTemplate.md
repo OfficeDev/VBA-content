@@ -152,12 +152,6 @@ For example:
 
 
 |**Name**|
-|:-----|
-|[ActiveWindow](windows2-activewindow-property-project.md)|
-|[Application](windows2-application-property-project.md)|
-|[Count](windows2-count-property-project.md)|
-|[Item](windows2-item-property-project.md)|
-|[Parent](windows2-parent-property-project.md)|
 
 -->
 ## Methods
@@ -170,9 +164,6 @@ For example:
 
 
 |**Name**|
-|:-----|
-|[refresh](window-refresh-method-project.md)|
-
 
 -->
 
