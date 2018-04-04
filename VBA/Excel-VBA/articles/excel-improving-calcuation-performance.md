@@ -342,10 +342,10 @@ Sub DoCalcTimer(jMethod As Long)
             End If
         Next oCell
 
-        sCalcType = "Calculate " &amp; CStr(oRng.Count) &amp; _
+        sCalcType = "Calculate " & CStr(oRng.Count) & _
             " Cell(s) in Selected Range: "
     Case 2
-        sCalcType = "Recalculate Sheet " &amp; ActiveSheet.Name &amp; ": "
+        sCalcType = "Recalculate Sheet " & ActiveSheet.Name & ": "
     Case 3
         sCalcType = "Recalculate open workbooks: "
     Case 4
@@ -374,7 +374,7 @@ Sub DoCalcTimer(jMethod As Long)
     On Error GoTo 0
 
     dTime = Round(dTime, 5)
-    MsgBox sCalcType &amp; " " &amp; CStr(dTime) &amp; " Seconds", _
+    MsgBox sCalcType & " " & CStr(dTime) & " Seconds", _
         vbOKOnly + vbInformation, "CalcTimer"
 
 Finish:
@@ -384,12 +384,12 @@ Finish:
          Application.Calculation = lCalcSave
     End If
     If Application.Iteration <> bIterSave Then
-         Application.Calculation = bIterSave
+         Application.Iteration = bIterSave
     End If
     Exit Sub
 Errhandl:
     On Error GoTo 0
-    MsgBox "Unable to Calculate " &amp; sCalcType, _
+    MsgBox "Unable to Calculate " & sCalcType, _
         vbOKOnly + vbCritical, "CalcTimer"
     GoTo Finish
 End Sub
