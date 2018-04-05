@@ -18,7 +18,7 @@ An  **AccessObject** object refers to a particular Access object.
 
 ## Remarks
 
-An  **AccessObject** object includes information about one instance of an object. The following table list the types of objects each **AccessObject** describes, the name of its collection, and what type of information **AccessObject** contains.
+An **AccessObject** object includes information about one instance of an object. The following table list the types of objects each **AccessObject** describes, the name of its collection, and what type of information **AccessObject** contains.
 
 
 
@@ -34,7 +34,7 @@ An  **AccessObject** object includes information about one instance of an object
 |**Stored procedure**|**AllStoredProcedures**|Saved stored procedures|
 |**Table**|**AllTables**|Saved tables|
 |**View**|**AllViews**|Saved views|
-Because an  **AccessObject** object corresponds to an existing object, you can't create new **AccessObject** objects or delete existing ones. To refer to an **AccessObject** object in a collection by its ordinal number or by its **Name** property setting, use any of the following syntax forms:
+Because an **AccessObject** object corresponds to an existing object, you can't create new **AccessObject** objects or delete existing ones. To refer to an **AccessObject** object in a collection by its ordinal number or by its **Name** property setting, use any of the following syntax forms:
 
 
 |Syntax|
@@ -71,9 +71,5 @@ Because an  **AccessObject** object corresponds to an existing object, you can't
 
 ## See also
 
-
-#### Other resources
-
-
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
-[AccessObject Object Members](http://msdn.microsoft.com/library/78aaacb1-c0d3-d809-088d-d543ecd71de3%28Office.15%29.aspx)
+[Access Object Object Members](http://msdn.microsoft.com/library/78aaacb1-c0d3-d809-088d-d543ecd71de3%28Office.15%29.aspx)
