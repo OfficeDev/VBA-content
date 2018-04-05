@@ -362,5 +362,5 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 ## See also
 
-[Report Object Members](http://msdn.microsoft.com/library/73370a33-1ca0-da4d-9e36-88011bc2b93e%28Office.15%29.aspx)<br/>
+[Report Object Members](http://msdn.microsoft.com/library/73370a33-1ca0-da4d-9e36-88011bc2b93e%28Office.15%29.aspx)
 [Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)

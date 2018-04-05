@@ -158,4 +158,3 @@ End Sub
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
-

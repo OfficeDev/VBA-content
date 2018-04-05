@@ -32,7 +32,7 @@ By running a macro or event procedure when a  **Timer** event occurs, you can co
 The  **TimerInterval** property setting of the form specifies the interval, in milliseconds, between **Timer** events. The interval can be between 0 and 2,147,483,647 milliseconds. Setting the **TimerInterval** property to 0 prevents the **Timer** event from occurring.
 
  **Link provided by:**
-![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The [UtterAccess](http://www.utteraccess.com) community
+![Community Member Icon](images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](http://www.utteraccess.com) community
 
 
 - [Delay Event/Actions for Set Time Interval](http://www.utteraccess.com/wiki/index.php/Delay_Event/Actions_for_Set_Time_Interval)

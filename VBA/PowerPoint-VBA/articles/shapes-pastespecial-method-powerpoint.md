@@ -7,7 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Shapes.PasteSpecial
 ms.assetid: 6a1e5b6d-da09-fae8-7165-0c9bf71d525c
-ms.date: 06/08/2017
+ms.date: 11/24/2017
 ---
 
 
@@ -18,7 +18,7 @@ Pastes the contents of the Clipboard, using a special format.
 
 ## Syntax
 
- _expression_. **PasteSpecial**( **_DataType_**, **_DisplayAsIcon_**, **_IconFileName_**, **_IconIndex_**, **_IconLabel_**, **_Link_** )
+ _expression_. **PasteSpecial**(**_DataType_**, **_DisplayAsIcon_**, **_IconFileName_**, **_IconIndex_**, **_IconLabel_**, **_Link_**)
 
  _expression_ A variable that represents a **Shapes** object.
 
@@ -43,38 +43,33 @@ ShapeRange
 
 ## Remarks
 
-Adds the shape to the collection of shapes in the specified format. If the specified data type is a text data type, a new text box is created with the text. If the paste succeeds, the  **PasteSpecial** method returns a **[ShapeRange](shaperange-object-powerpoint.md)** object representing the shape range that was pasted.
+Adds the shape to the collection of shapes in the specified format. If the specified data type is a text data type, a new text box is created with the text. If the paste succeeds, the **PasteSpecial** method returns a **[ShapeRange](shaperange-object-powerpoint.md)** object representing the shape range that was pasted.
 
-The  _DataType_ parameter value can be one of these **PpPasteDataType** constants.
+The _DataType_ parameter value can be one of these **PpPasteDataType** constants:
 
+- **ppPasteBitmap**
+- **ppPasteDefault**
+- **ppPasteEnhancedMetafile**
+- **ppPasteHTML**
+- **ppPasteGIF**
+- **ppPasteJPG**
+- **ppPasteMetafilePicture**
+- **ppPastePNG**
+- **ppPasteShape**
 
-||
-|:-----|
-|**ppPasteBitmap**|
-|**ppPasteDefault**|
-|**ppPasteEnhancedMetafile**|
-|**ppPasteHTML**|
-|**ppPasteGIF**|
-|**ppPasteJPG**|
-|**ppPasteMetafilePicture**|
-|**ppPastePNG**|
-|**ppPasteShape**|
-The  _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constants.
+<br/>
 
-
+The _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constants.
 
 |**Constant**|**Description**|
 |:-----|:-----|
 |**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue**|Displays the embedded object (or link) as an icon.|
-An error occurs if there is no data on the Clipboard when the  **PasteSpecial** method is called.
 
+
+An error occurs if there is no data on the Clipboard when the **PasteSpecial** method is called.
 
 ## See also
-
-
-#### Concepts
-
 
 [Shapes Object](shapes-object-powerpoint.md)
 

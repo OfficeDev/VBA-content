@@ -38,7 +38,7 @@ For example, suppose you've opened a DDE channel in Microsoft Access to transfer
 
 The value of the  _command_ argument depends on the application and topic specified when the channel indicated by the _channum_ argument is opened. An error occurs if the _channum_ argument isn't an integer corresponding to an open channel or if the other application can't carry out the specified command.
 
-From Visual Basic, you can use the  **DDEExecute** statement only to send commands to another application. For information on sending commands to Microsoft Access from another application, see [Use Microsoft Access as a DDE Server](http://msdn.microsoft.com/library/a3e82bf7-94b5-8eec-86bc-2d5387d66738%28Office.15%29.aspx).
+From Visual Basic, you can use the  **DDEExecute** statement only to send commands to another application. For information on sending commands to Microsoft Access from another application, see[Use Microsoft Access as a DDE Server](http://msdn.microsoft.com/library/a3e82bf7-94b5-8eec-86bc-2d5387d66738%28Office.15%29.aspx).
 
 If you need to manipulate another application's objects from Microsoft Access, you may want to consider using Automation.
 

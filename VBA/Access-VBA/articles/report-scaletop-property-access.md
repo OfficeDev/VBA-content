@@ -25,7 +25,7 @@ You can use the  **ScaleTop** property to specify the units for the vertical coo
 
 ## Remarks
 
-You can set the  **ScaleTop** property by using a macro or a [Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
+You can set the  **ScaleTop** property by using a macro or a[Visual Basic](set-properties-by-using-visual-basic.md)event procedure specified by a section's **OnPrint** property setting.
 
 By using these properties and the related  **ScaleHeight** and **ScaleWidth** properties, you can set up a custom coordinate system with both positive and negative coordinates. All four of these Scale properties interact with the **[ScaleMode](report-scalemode-property-access.md)** property in the following ways:
 

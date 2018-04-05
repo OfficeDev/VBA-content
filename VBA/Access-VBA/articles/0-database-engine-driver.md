@@ -45,7 +45,6 @@ The **Access Connectivity Engine\Engines\ACE** folder includes initialization se
 
 
 
-
 ```
 FlushTransactionTimeout=500 
 
@@ -93,6 +92,7 @@ The Microsoft Access database engine uses the following entries.
 |ExclusiveAsyncDelay|Specifies the length of time, in milliseconds, to defer an asynchronous flush of an exclusive database. The default value is 2000, or 2 seconds. Values are of type REG_DWORD.|
 |SharedAsyncDelay|Specifies the length of time, in milliseconds, to defer an asynchronous flush of a shared database. The default value is 0. Values are of type REG_DWORD.|
 |PagesLockedToTableLock|During bulk operations it is often more efficient to lock a whole table, instead of obtaining locks for each individual page of the table as you try to access it. This setting specifies the number of pages that the Microsoft Access database engine will allow to be locked in any particular transaction before the Access database engine attempts to escalate to an exclusive table lock The default value of 0 indicates that the Access database engine will never automatically change from page locking to table locking.|
+
 
 
 > **Note** This setting should be used carefully. If a database is needed for multi-user access, then locking a whole table could cause locking conflicts for other users. This would be especially severe if a small number was used for this setting. Even when a larger number was used, such as 25 or 50, the operation for other users might become unpredictable.

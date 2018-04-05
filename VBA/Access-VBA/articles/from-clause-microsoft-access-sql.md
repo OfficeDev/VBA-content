@@ -8,8 +8,6 @@ ms.date: 06/08/2017
 
 # FROM Clause (Microsoft Access SQL)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
@@ -228,4 +226,3 @@ End Sub
 [Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
 [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
-

@@ -51,7 +51,7 @@ End Sub
 
 The following example shows how to prevent a user form opening a particular form directly from the Navigation Pane.
 
- **Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
+ **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](http://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 
 ```
@@ -89,5 +89,5 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 #### Other resources
 
 
-[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)<br/>
+[Access Object Model Reference](http://msdn.microsoft.com/library/2de134a4-6c5c-d2a3-8377-f4dd973ba650%28Office.15%29.aspx)
 [AllForms Object Members](http://msdn.microsoft.com/library/a508646e-4478-fdfb-b1b5-177af651b73f%28Office.15%29.aspx)
