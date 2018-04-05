@@ -8,21 +8,16 @@ ms.date: 06/08/2017
 
 # FROM Clause (Microsoft Access SQL)
 
-  
-
 **Applies to:** Access 2013 | Access 2016
 
  **In this article**
-[Syntax](#sectionSection0)
-[Remarks](#sectionSection1)
-[ Example](#sectionSection2)
-
+[Syntax](#syntax)
+[Remarks](#remarks)
+[Example](#example)
 
 Specifies the tables or queries that contain the fields listed in the [SELECT](http://msdn.microsoft.com/library/a5c9da94-5f9e-0fc0-767a-4117f38a5ef3%28Office.15%29.aspx) statement.
 
 ## Syntax
-<a name="sectionSection0"> </a>
-
 SELECT  _fieldlist_ FROM _tableexpression_ [IN _externaldatabase_ ]
 
 A SELECT statement containing a FROM clause has these parts:
@@ -32,11 +27,10 @@ A SELECT statement containing a FROM clause has these parts:
 |**Part**|**Description**|
 |:-----|:-----|
 | _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, [SQL aggregate functions](http://msdn.microsoft.com/library/8866cd71-0216-25b4-6a6a-02cb7acad9a2%28Office.15%29.aspx), selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
-| _tableexpression_|An expression that identifies one or more tables from which data is retrieved. The expression can be a single table name, a saved query name, or a compound resulting from an [INNER JOIN](http://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN,](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx) or[RIGHT JOIN](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|
+| _tableexpression_|An expression that identifies one or more tables from which data is retrieved. The expression can be a single table name, a saved query name, or a compound resulting from an [INNER JOIN](http://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN,](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx) or [RIGHT JOIN](http://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|
 | _externaldatabase_|The full path of an external database containing all the tables in  _tableexpression._|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 FROM is required and follows any SELECT statement.
 
@@ -47,8 +41,6 @@ For improved performance and ease of use, it is recommended that you use a linke
 The following example shows how you can retrieve data from the Employees table:
 
 
-
-
 ```sql
 SELECT LastName, FirstName 
 FROM Employees;
@@ -56,12 +48,9 @@ FROM Employees;
 
 
 ## Example
-<a name="sectionSection2"> </a>
-
 Some of the following examples assume the existence of a hypothetical Salary field in an Employees table. Note that this field does not actually exist in the Northwind database Employees table.
 
 This example creates a dynaset-type  **Recordset** based on an SQL statement that selects the LastName and FirstName fields of all records in the Employees table. It calls the EnumFields procedure, which prints the contents of a **Recordset** object to the **Debug** window.
-
 
 
 
@@ -95,7 +84,6 @@ This example counts the number of records that have an entry in the PostalCode f
 
 
 
-
 ```vb
 Sub SelectX2() 
  
@@ -123,9 +111,6 @@ End Sub
 ```
 
 This example shows the number of employees and the average and maximum salaries.
-
-
-
 
 ```vb
 Sub SelectX3() 
@@ -156,8 +141,7 @@ Sub SelectX3()
 End Sub
 ```
 
-The  **Sub** procedure EnumFields is passed a **Recordset** object from the calling procedure. The procedure then formats and prints the fields of the **Recordset** to the **Debug** window. The variable is the desired printed field width. Some fields may be truncated.
-
+The **Sub** procedure EnumFields is passed a **Recordset** object from the calling procedure. The procedure then formats and prints the fields of the **Recordset** to the **Debug** window. The variable is the desired printed field width. Some fields may be truncated.
 
 
 
@@ -233,13 +217,12 @@ Sub EnumFields(rst As Recordset, intFldLen As Integer)
 End Sub
 ```
 
- **ACCESS SUPPORT RESOURCES**<br>
-[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)<br>
-[Access help on support.office.com](https://support.office.com/search/results?query=Access)<br>
-[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)<br>
-[Search for specific Access error codes on Bing](http://www.bing.com/)<br>
-[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)<br>
-[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)<br>
+## See also
+[Access for developers forum on MSDN](https://social.msdn.microsoft.com/Forums/office/en-US/home?forum=accessdev)
+[Access help on support.office.com](https://support.office.com/search/results?query=Access)
+[Access help on answers.microsoft.com](http://answers.microsoft.com/en-us/office/forum/access?page=1&;tab=question&;status=all&;auth=1)
+[Search for specific Access error codes on Bing](http://www.bing.com/)
+[Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
+[Access wiki on UtterAcess](http://www.utteraccess.com/forum/index.php?act=idx)
+[Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 [Access posts on StackOverflow](http://stackoverflow.com/questions/tagged/ms-access)
-
