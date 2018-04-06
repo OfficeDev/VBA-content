@@ -24,18 +24,10 @@ There are two ways to write code for Microsoft Outlook:
 The following table shows the major objects in the Outlook object model.
 
 
-
-| **[Application](application-object-outlook.md)**|The top of the object hierarchy that represents the entire application. Enables you to reference other objects in the application and create items and objects. For example, this code creates an appointment in Outlook: 
-```vb
-Application.CreateItem(1).Display
-```
-
-|
-| **[NameSpace](namespace-object-outlook.md)**|Represents the MAPI message store where all the Outlook items are stored. Provides methods for logging on and off Outlook and for referencing the default folders such as Mailbox, Inbox, Contacts, and others. For example, this code references the active user in Outlook: 
-```vb
-Application.GetNameSpace("MAPI").CurrentUser
-```
-
+| Component | Description | Example |
+| ---------- | ------------- | --------- |
+| **[Application](application-object-outlook.md)**|The top of the object hierarchy that represents the entire application. Enables you to reference other objects in the application and create items and objects. | This code creates an appointment in Outlook: `Application.CreateItem(1).Display`|
+| **[NameSpace](namespace-object-outlook.md)**|Represents the MAPI message store where all the Outlook items are stored. Provides methods for logging on and off Outlook and for referencing the default folders such as Mailbox, Inbox, Contacts, and others. | This code references the active user in Outlook: `Application.GetNameSpace("MAPI").CurrentUser`
 |
 | **[Account](account-object-outlook.md)**|Represents an account defined for the current profile.|
 | **[Store](store-object-outlook.md)**|Represents a file on the local computer or a network drive that stores e-mail messages and other items for an account in the current profile. |
@@ -43,7 +35,6 @@ Application.GetNameSpace("MAPI").CurrentUser
 ```vb
 Application.GetNameSpace("MAPI").Folders("Personal Folders")
 ```
-
 |
 | **[Table](table-object-outlook.md)**|Represents a set of item data from a  **Folder** or **[Search](search-object-outlook.md)** object, with items as rows of the table and properties as columns of the table.|
 | **[Rule](rule-object-outlook.md)**|Represents an Outlook rule.|
@@ -52,20 +43,17 @@ Application.GetNameSpace("MAPI").Folders("Personal Folders")
 ```vb
 Application.ActiveExplorer.Display
 ```
-
 |
 | **[NavigationPane](navigationpane-object-outlook.md)**|Represents the Navigation Pane displayed by the active  **Explorer** object.|
 |Outlook items|There are two item objects, the  **[Items](items-object-outlook.md)** collection that enables you to work with items within a folder and the item objects that represents the standard item types in Outlook, such as **[MailItem](mailitem-object-outlook.md)** that represents a mail message. In VBScript, the active item is assumed, so you do not need to enter the object model to reference it. For example, this code sets the Subject field of the active message in VBScript:
 ```
 Item.Subject = "New Subject"
 ```
-
 |
 | **[Inspector](inspector-object-outlook.md)**|References forms. Use to show forms and pages. For example, this code shows the  **Options** page of a form in Outlook:
 ```vb
 Application.ActiveInspector.SetCurrentFormPage("Options")
 ```
-
 |
 | **[FormRegion](formregion-object-outlook.md)**|Represents a form region in an Outlook form.|
 | **[Attachment](attachment-object-outlook.md)**|Represents a document or link to a document contained in an Outlook item.|
