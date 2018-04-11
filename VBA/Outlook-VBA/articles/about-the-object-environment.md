@@ -25,7 +25,7 @@ The following table shows the major objects in the Outlook object model.
 
 
 | Component | Description | Example |
-| ---------- | ------------- | --------- |
+| ------- | ------------------------ | --------- |
 | **[Application](application-object-outlook.md)**|The top of the object hierarchy that represents the entire application. Enables you to reference other objects in the application and create items and objects. | This code creates an appointment in Outlook: `Application.CreateItem(1).Display`|
 | **[NameSpace](namespace-object-outlook.md)**|Represents the MAPI message store where all the Outlook items are stored. Provides methods for logging on and off Outlook and for referencing the default folders such as Mailbox, Inbox, Contacts, and others. | This code references the active user in Outlook: `Application.GetNameSpace("MAPI").CurrentUser`|
 | **[Account](account-object-outlook.md)**|Represents an account defined for the current profile.| |
@@ -34,10 +34,9 @@ The following table shows the major objects in the Outlook object model.
 | **[Table](table-object-outlook.md)**|Represents a set of item data from a **Folder** or **[Search](search-object-outlook.md)** object, with items as rows of the table and properties as columns of the table.| |
 | **[Rule](rule-object-outlook.md)**|Represents an Outlook rule.| |
 | **[View](view-object-outlook.md)**|Represents a customizable view used to sort, group, and view data.| |
-| **[Explorer](explorer-object-outlook.md)**|Represents the Outlook window. Enables you to show, return, and close the active window. | This code shows the active Outlook window in Outlook:
-`Application.ActiveExplorer.Display`|
+| **[Explorer](explorer-object-outlook.md)**|Represents the Outlook window. Enables you to show, return, and close the active window. | This code shows the active Outlook window in Outlook: `Application.ActiveExplorer.Display`|
 | **[NavigationPane](navigationpane-object-outlook.md)**|Represents the Navigation Pane displayed by the active **Explorer** object.| |
-|There are two Outlook item objects, the **[Items](items-object-outlook.md)** collection that enables you to work with items within a folder and the item objects that represents the standard item types in Outlook, such as **[MailItem](mailitem-object-outlook.md)** that represents a mail message. In VBScript, the active item is assumed, so you do not need to enter the object model to reference it. | This code sets the Subject field of the active message in VBScript: `Item.Subject = "New Subject"`|
+| **[Items](items-object-outlook.md)** collection | Enables you to work with items within a folder and the item objects that represents the standard item types in Outlook, such as **[MailItem](mailitem-object-outlook.md)** that represents a mail message. In VBScript, the active item is assumed, so you do not need to enter the object model to reference it. | This code sets the Subject field of the active message in VBScript: `Item.Subject = "New Subject"`|
 | **[Inspector](inspector-object-outlook.md)**|References forms. Use to show forms and pages. | This code shows the  **Options** page of a form in Outlook: `Application.ActiveInspector.SetCurrentFormPage("Options")`|
 | **[FormRegion](formregion-object-outlook.md)**|Represents a form region in an Outlook form.| |
 | **[Attachment](attachment-object-outlook.md)**|Represents a document or link to a document contained in an Outlook item.| |
