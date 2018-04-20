@@ -22,6 +22,9 @@ Sets or gets the title of a file dialog box displayed using the  **FileDialog** 
 
  _expression_ Required. A variable that represents a **[FileDialog](filedialog-object-office.md)** object.
 
+## Remarks
+
+**Title** cannot exceed 127 characters.
 
 ## See also
 
