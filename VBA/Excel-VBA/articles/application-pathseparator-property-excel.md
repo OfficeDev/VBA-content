@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PathSeparator Property (Excel)
 
-Returns the path separator character ("\"). Read-only  **String** .
+Returns the path separator character ("\\"). Read-only  **String** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ This example displays the current path separator.
 
 
 ```vb
-MsgBox "The path separator character is " &; _ 
+MsgBox "The path separator character is " & _ 
  Application.PathSeparator
 ```
 
