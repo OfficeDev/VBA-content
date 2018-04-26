@@ -67,7 +67,7 @@ The following table lists the new properties for the new charts.
 |Chart.ChartValuesCollection|
 
 
-**This content is currently under development. Please check back soon for updates. For information about Access VBA, see [Introduction to Access VBA](https://msdn.microsoft.com/en-us/vba/vba-access)
+This content is currently under development. Please check back soon for updates. For information about Access VBA, see [Introduction to Access VBA](https://msdn.microsoft.com/en-us/vba/vba-access)
 
 
 
