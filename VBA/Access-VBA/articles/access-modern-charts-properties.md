@@ -36,7 +36,7 @@ ms.date: 04/25/18
 
 Supporting new charts in Access, use these properties to programatically customize your charts in forms/reports to create a modern data visualization experience.
 
-## Supported properties:
+### Supported properties
 The following table lists the new properties for the new charts.
 
 |**Name**|
