@@ -11,12 +11,12 @@ ms.date: 04/27/2018
 
 # TypeName Function
 
-Returns a  **String** that provides information about a [variable](vbe-glossary.md).<br>
-**Syntax**<br>
-**TypeName(**_varname_**)**<br>
-The required  _varname_[argument](vbe-glossary.md) is a [Variant](vbe-glossary.md) containing any variable except a variable of a [user-defined type](vbe-glossary.md).<br><br>
-**Remarks**<br>
-The string returned by **TypeName** can be any one of the following:<br>
+Returns a  **String** that provides information about a [variable](vbe-glossary.md).</br></br>
+## Syntax
+**TypeName(**_varname_**)**</br>
+The required _varname_ [argument](vbe-glossary.md) is a [Variant](vbe-glossary.md) containing any variable except a variable of a [user-defined type](vbe-glossary.md).
+## Remarks
+The string returned by **TypeName** can be any one of the following:</br>
 
 |**String returned**|**Variable**|
 |:-----|:-----|
