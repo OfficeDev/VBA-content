@@ -66,6 +66,6 @@ End Sub
 
 ## See also
 
-[TypeName function](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/typename-function)
+[TypeName function](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/typename-function)<br>
 [Application Object](application-object-excel.md)
 
