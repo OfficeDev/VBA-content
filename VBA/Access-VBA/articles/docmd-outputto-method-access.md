@@ -35,7 +35,7 @@ The  **OutputTo** method carries out the OutputTo action in Visual Basic.
 | _OutputFile_|Optional|**Variant**|A string expression that's the full name, including the path, of the file you want to output the object to. If you leave this argument blank, Access prompts you for an output file name.|
 | _AutoStart_|Optional|**Variant**|Use  **True** (?1) to start the appropriate Microsoft Windows?based application immediately, with the file specified by the _OutputFile_ argument loaded. Use **False** (0) if you don't want to start the application. This argument is ignored for Microsoft Internet Information Server (.htx, .idc) files and Microsoft ActiveX Server (*.asp) files. If you leave this argument blank, the default ( **False** ) is assumed.|
 | _TemplateFile_|Optional|**Variant**|A string expression that's the full name, including the path, of the file you want to use as a template for an HTML, HTX, or ASP file.|
-| _Encoding_|Optional|**Variant**|The type of character encoding format you want used to output the text or HTML data. |
+| _Encoding_|Optional|**Variant**|The type of character encoding format you want used to output the text or HTML data. You can select MS-DOS, Unicode, or Unicode (UTF-8). The MS-DOS argument setting is available only for text files. If you leave this argument blank, Access outputs the data by using the Windows default encoding for text files and the default system encoding for HTML files.|
 | _OutputQuality_|Optional|**AcExportQuality**|An  **[AcExportQuality](acexportquality-enumeration-access.md)** constant that specifies the type of output device to optimize for. The default value is **acExportQualityPrint**.|
 
 ## Remarks
