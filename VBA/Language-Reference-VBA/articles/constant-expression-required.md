@@ -15,7 +15,7 @@ A [constant](vbe-glossary.md) must be initialized. This error has the following 
 
 
 
-- You tried to initialize a constant with a [variable](vbe-glossary.md), and instance of a [user-defined type](vbe-glossary.md), an object, or the return value of a function call.
+- You tried to initialize a constant with a [variable](vbe-glossary.md), an instance of a [user-defined type](vbe-glossary.md), an object, or the return value of a function call.
     
     Initialize constants with literals, previously declared constants, or literals and constants joined by operators (except the  **Is** logical operator).
     

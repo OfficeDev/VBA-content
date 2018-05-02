@@ -39,7 +39,7 @@ The following example returns autofilter for the current worksheet.
 Dim Worksheet1 As Worksheet 
  
 Dim returnValue As AutoFilter 
-returnValue = Worksheet1.AutoFilter
+Set returnValue = Worksheet1.AutoFilter
 ```
 
 

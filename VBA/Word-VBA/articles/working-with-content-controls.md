@@ -39,26 +39,24 @@ The following table shows the objects in the Word object model that relate to co
 Each of these objects or collections has methods and properties that allow you to work with the content controls both individually and as a collection. Because there are various types of content controls (see the following section "Types of Content Controls"), the  **ContentControl** object has members that might not apply to all the different types of content controls. The following table shows those properties and methods of the **ContentControl** object that only apply to certain types of content controls.
 
 
- **Note**  For a complete list of all properties and methods of the  **ContentControl** object, see ** **.
-
-
+**Note**: For a complete list of all properties and methods of the **ContentControl** object, see [Content Controls](https://msdn.microsoft.com/en-us/library/bb157891.aspx).
 
 |**Property/Method**|**Applies To**|
 |:-----|:-----|
-| **[BuildingBlockCategory](contentcontrol-buildingblockcategory-property-word.md)** property|BuildingBlock Gallery content controls ( **wdContentControlBuildingBlockGallery**)|
-| **[BuildingBlockType](contentcontrol-buildingblocktype-property-word.md)** property|BuildingBlock Gallery content controls ( **wdContentControlBuildingBlockGallery**)|
-| **[DateDisplayFormat](contentcontrol-datedisplayformat-property-word.md)** property|Date content controls ( **wdContentControlDate**)|
-| **[DateDisplayLocale](contentcontrol-datedisplaylocale-property-word.md)** property|Date content controls ( **wdContentControlDate**)|
-| **[DateStorageFormat](contentcontrol-datestorageformat-property-word.md)** property|Date content controls ( **wdContentControlDate**)|
-| **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property|Combo box and drop-down list content controls ( **wdContentControlComboBox** and **wdContentControlDropdownList**)|
-| **[MultiLine](contentcontrol-multiline-property-word.md)** property|Plain-text content controls ( **wdContentControlText**)|
-| **[Ungroup](contentcontrol-ungroup-method-word.md)** method|Group content controls ( **wdContentControlGroup**)|
-| **[SetCheckedSymbol](contentcontrol-setcheckedsymbol-method-word.md)** method|Check Box content control ( **wdContentControlCheckBox**)|
-| **[SetUncheckedSymbol](contentcontrol-setuncheckedsymbol-method-word.md)** method|Check Box content control ( **wdContentControlCheckBox**)|
+| **[BuildingBlockCategory](contentcontrol-buildingblockcategory-property-word.md)** property|BuildingBlock Gallery content controls (**wdContentControlBuildingBlockGallery**)|
+| **[BuildingBlockType](contentcontrol-buildingblocktype-property-word.md)** property|BuildingBlock Gallery content controls (**wdContentControlBuildingBlockGallery**)|
+| **[DateDisplayFormat](contentcontrol-datedisplayformat-property-word.md)** property|Date content controls (**wdContentControlDate**)|
+| **[DateDisplayLocale](contentcontrol-datedisplaylocale-property-word.md)** property|Date content controls (**wdContentControlDate**)|
+| **[DateStorageFormat](contentcontrol-datestorageformat-property-word.md)** property|Date content controls (**wdContentControlDate**)|
+| **[DropdownListEntries](contentcontrol-dropdownlistentries-property-word.md)** property|Combo box and drop-down list content controls (**wdContentControlComboBox** and **wdContentControlDropdownList**)|
+| **[MultiLine](contentcontrol-multiline-property-word.md)** property|Plain-text content controls (**wdContentControlText**)|
+| **[Ungroup](contentcontrol-ungroup-method-word.md)** method|Group content controls (**wdContentControlGroup**)|
+| **[SetCheckedSymbol](contentcontrol-setcheckedsymbol-method-word.md)** method|Check Box content control (**wdContentControlCheckBox**)|
+| **[SetUncheckedSymbol](contentcontrol-setuncheckedsymbol-method-word.md)** method|Check Box content control (**wdContentControlCheckBox**)|
 
 ## Types of Content Controls
 
-There are eight different types of content controls that you can add to a document, each of which is represented in a new enumeration called  **[WdContentControlType](wdcontentcontroltype-enumeration-word.md)**.
+There are eight different types of content controls that you can add to a document, each of which is represented in a new enumeration called **[WdContentControlType](wdcontentcontroltype-enumeration-word.md)**.
 
 
 
@@ -76,7 +74,7 @@ There are eight different types of content controls that you can add to a docume
 
 ## Content Control Events
 
-In addition to the properties and methods available with the content control object model in Word, you can also use several events that allow you to run code when adding or removing a content control or when a user edits a content control. The following list describes each of the events and when the event code runs. All of these events are members of the  **Document** object.
+In addition to the properties and methods available with the content control object model in Word, you can also use several events that allow you to run code when adding or removing a content control or when a user edits a content control. The following list describes each of the events and when the event code runs. All of these events are members of the **Document** object.
 
 
 
