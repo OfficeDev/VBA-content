@@ -29,7 +29,7 @@ Returns a single object from a collection.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|The name or index number of the object.|
+| _Index_|Required| **Integer**|The index number of the object.|
 
 ## Example
 
