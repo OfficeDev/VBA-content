@@ -29,7 +29,7 @@ Inserts the contents of the specified  **LetterContent** object into a document.
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _LetterContent_|Required| **[LetterContent](lettercontent-object-word.md)**|The that includes the various elements of the letter.|
+| _LetterContent_|Required| **[LetterContent](lettercontent-object-word.md)**|The **[Document](document-object-word.md)** object that includes the various elements of the letter.|
 
 ## Remarks
 
