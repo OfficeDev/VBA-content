@@ -1,8 +1,8 @@
 ---
 title: Modern charts properties (Access)
-keywords: vbaac10.chm6110
+keywords: vbaac10.chm6124
 f1_keywords:
-- vbaac10.chm6110
+- vbaac10.chm6124
 ms.prod: access
 ms.date: 04/25/18
 ---
