@@ -52,10 +52,10 @@ The following code illustrates the use of the  **OpenTextFile** method to open a
 
 ```vb
 Sub OpenTextFileTest
-    Const ForReading = 1, ForWriting = 2, ForAppending = 3
+    Const ForReading = 1, ForWriting = 2, ForAppending = 8
     Dim fs, f
     Set fs = CreateObject("Scripting.FileSystemObject")
-    Set f = fs.OpenTextFile("c:\testfile.txt", ForAppending,TristateFalse)
+    Set f = fs.OpenTextFile("c:\testfile.txt", ForAppending, TristateFalse)
     f.Write "Hello world!"
     f.Close
 End Sub
