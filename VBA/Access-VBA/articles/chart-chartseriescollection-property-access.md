@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # Chart.ChartSeriesCollection Property (Access)
 
-A collection of all the **[ChartSeries](chartseries-object.md)** objects in the specified chart.
+A collection of all the **[ChartSeries](chartseries-object-access.md)** objects in the specified chart.
 
 
 ## Syntax

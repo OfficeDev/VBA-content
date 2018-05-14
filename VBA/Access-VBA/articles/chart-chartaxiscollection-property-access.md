@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # Chart.ChartAxisCollection Property (Access)
 
-A collection of all the **[ChartAxis](chartaxis-object.md)** objects in the specified chart.
+A collection of all the **[ChartAxis](chartaxis-object-access.md)** objects in the specified chart.
 
 
 ## Syntax
@@ -28,6 +28,6 @@ A collection of all the **[ChartAxis](chartaxis-object.md)** objects in the spec
 #### Concepts
 
 
-[ChartAxisCollection Collection](chartaxiscollection-collection-access.md)
+[ChartAxisCollection Collection](chartaxiscollection-object-access.md)
 
 [Chart Object](chart-object-access.md)

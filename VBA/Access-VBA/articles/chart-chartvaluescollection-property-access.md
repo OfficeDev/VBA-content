@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # Chart.ChartValuesCollection Property (Access)
 
-A collection of all the **[ChartValues](chartvalues-object.md)** objects in the specified chart.
+A collection of all the **[ChartValues](chartvalues-object-access.md)** objects in the specified chart.
 
 
 ## Syntax
