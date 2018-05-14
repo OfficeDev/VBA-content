@@ -1,0 +1,23 @@
+---
+title: AcDashType Enumeration (Access)
+keywords: [TBD]
+f1_keywords:
+- [TBD]
+ms.prod: access
+api_name:
+- Access.AcDashType
+ms.date: 05/02/2018
+---
+
+
+# AcDashType Enumeration (Access)
+
+Specifies the line dash style for a series when its effective chart type is line-based.
+
+
+|**Name**|**Value**|**Description**|
+|:-----|:-----|:-----|
+|**acDashTypeDash**|1|Dash.|
+|**acDashTypeDashDot**|3|Dash Dot.|
+|**acDashTypeDot**|2|Dot.|
+|**acDashTypeSolid**|0|Solid.|
