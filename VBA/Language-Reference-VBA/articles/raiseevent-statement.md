@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # RaiseEvent Statement
 
-Fires an event declared at [module level](vbe-glossary.md) within a[class](vbe-glossary.md), form, or document.
+Fires an event declared at [module level](vbe-glossary.md) within a [class](vbe-glossary.md), form, or document.
 
  **Syntax**
 
- **RaiseEvent**_eventname_ [ **(**_argumentlis_ t **)** ]
+ **RaiseEvent**_eventname_ [ **(** argumentlist **)** ]
 
-The required  _eventname_ is the name of an event declared within the[module](vbe-glossary.md) and follows Basic variable naming conventions.
+The required  _eventname_ is the name of an event declared within the [module](vbe-glossary.md) and follows Basic variable naming conventions.
 The  **RaiseEvent** statement syntax has these parts:
 
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _eventname_|Required. Name of the event to fire.|
-| _argumentlist_|Optional. Comma-delimited list of [variables](vbe-glossary.md), [arrays](vbe-glossary.md), or [expressions](vbe-glossary.md) The _argumentlist_ must be enclosed by parentheses. If there are no[arguments](vbe-glossary.md), the parentheses must be omitted.|
+| _argumentlist_|Optional. Comma-delimited list of [variables](vbe-glossary.md), [arrays](vbe-glossary.md), or [expressions](vbe-glossary.md) The _argumentlist_ must be enclosed by parentheses. If there are no [arguments](vbe-glossary.md), the parentheses must be omitted.|
  **Remarks**
 If the event has not been declared within the module in which it is raised, an error occurs. The following fragment illustrates an event declaration and a procedure in which the event is raised.
 
@@ -34,13 +34,13 @@ If the event has not been declared within the module in which it is raised, an e
 ' Declare an event at module level of a class module 
 Event LogonCompleted (UserName as String) 
  
-Sub 
+Sub ExampleEvent()
  ' Raise the event. 
  RaiseEvent LogonCompleted ("AntoineJan") 
 End Sub
 ```
 
-If the event has no arguments, including empty parentheses, in the  **RaiseEvent**, invocation of the event causes an error. You can't use **RaiseEvent** to fire events that are not explicitly declared in the module. For example, if a form has a Click event, you can't fire its Click event using **RaiseEvent**. If you declare a Click event in the[form module](vbe-glossary.md), it shadows the form's own Click event. You can still invoke the form's Click event using normal syntax for calling the event, but not using the  **RaiseEvent** statement.
+If the event has no arguments, including empty parentheses, in the  **RaiseEvent**, invocation of the event causes an error. You can't use **RaiseEvent** to fire events that are not explicitly declared in the module. For example, if a form has a Click event, you can't fire its Click event using **RaiseEvent**. If you declare a Click event in the [form module](vbe-glossary.md), it shadows the form's own Click event. You can still invoke the form's Click event using normal syntax for calling the event, but not using the  **RaiseEvent** statement.
 Event firing is done in the order that the connections are established. Since events can have  **ByRef** parameters, a process that connects late may receive parameters that have been changed by an earlier event handler.
 
 ## Example
@@ -61,30 +61,30 @@ Option Explicit
  
 Private WithEvents mText As TimerState 
  
-Private Sub Command1_Click() 
- Text1.Text = "From Now" 
- Text1.Refresh 
- Text2.Text = "0" 
- Text2.Refresh 
- Call mText.TimerTask(9.84) 
-End Sub 
+Private Sub Command1_Click()
+    Text1.Text = "From Now"
+    Text2.Text = "0"
+
+    mText.TimerTask 9.58
+End Sub
  
-Private Sub Form_Load() 
- Command1.Caption = "Click to Start Timer" 
- Text1.Text = "" 
- Text2.Text = "" 
- Label1.Caption = "The fastest 100 meters ever run took this long:" 
- Set mText = New TimerState 
- End Sub 
+Private Sub UserForm_Initialize()
+    Command1.Caption = "Click to start Timer"
+    Text1.Text = vbNullString
+    Text2.Text = vbNullString
+    Label1.Caption = "The fastest 100 meters ever run took this long:"
+    Set mText = New TimerState
+End Sub
+
  
-Private Sub mText_ChangeText() 
- Text1.Text = "Until Now" 
- Text2.Text = "9.84" 
-End Sub 
+Private Sub mText_ChangeText()
+    Text1.Text = "Until Now"
+    Text2.Text = "9.58"
+End Sub
  
-Private Sub mText_UpdateTime(ByVal dblJump As Double) 
- Text2.Text = Str(Format(dblJump, "0")) 
- DoEvents 
+Private Sub mText_UpdateTime(ByVal jump As Double)
+    Text2.Text = Str$(Format(jump, "0"))
+    DoEvents
 End Sub
 ```
 
@@ -98,22 +98,21 @@ Option Explicit
 Public Event UpdateTime(ByVal dblJump As Double) 
 Public Event ChangeText() 
  
-Public Sub TimerTask(ByVal Duration As Double) 
- Dim dblStart As Double 
- Dim dblSecond As Double 
- Dim dblSoFar As Double 
- dblStart = Timer 
- dblSoFar = dblStart 
- 
- Do While Timer < dblStart + Duration 
- If Timer - dblSoFar >= 1 Then 
- dblSoFar = dblSoFar + 1 
- RaiseEvent UpdateTime(Timer - dblStart) 
- End If 
- Loop 
- 
- RaiseEvent ChangeText 
- 
+Public Sub TimerTask(ByVal duration As Double)
+    Dim start As Double
+    start = Timer
+    
+    Dim soFar As Double
+    soFar = start
+    
+    Do While Timer < start + duration
+        If Timer - soFar >= 1 Then
+            soFar = soFar + 1
+            RaiseEvent UpdateTime(Timer - start)
+        End If
+    Loop
+    
+    RaiseEvent ChangeText
 End Sub
 ```
 

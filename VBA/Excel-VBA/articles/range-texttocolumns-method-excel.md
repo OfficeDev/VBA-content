@@ -39,7 +39,7 @@ Parses a column of cells that contain text into several columns.
 | _Space_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the space character be a delimiter. The default value is **False** .|
 | _Other_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the character specified by the _OtherChar_ argument be a delimiter. The default value is **False** .|
 | _OtherChar_|Optional| **Variant**|(required if  _Other_ is **True** ). The delimiter character when _Other_ is **True** . If more than one character is specified, only the first character of the string is used; the remaining characters are ignored.|
-| _FieldInfo_|Optional| **Variant**|An array containing parse information for the individual columns of data. The interpretation depends on the value of  _DataType_. When the data is delimited, this argument is an array of two-element arrays, with each two-element array specifying the conversion options for a particular column. The first element is the column number (1-based), and the second element is one of the [xlColumnDataType](xlcolumndatatype-enumeration-excel.md)constants specifying how the column is parsed.|
+| _FieldInfo_|Optional| **Variant**|An array containing parse information for the individual columns of data. The interpretation depends on the value of  _DataType_, but generally, this argument is an array of two-element arrays, each one specifying the conversion options for a particular column. The first element is an integer, and the second element is one of the [xlColumnDataType](xlcolumndatatype-enumeration-excel.md) constants. See Remarks for more detail.|
 | _DecimalSeparator_|Optional| **Variant**|The decimal separator that Microsoft Excel uses when recognizing numbers. The default setting is the system setting.|
 | _ThousandsSeparator_|Optional| **Variant**|The thousands separator that Excel uses when recognizing numbers. The default setting is the system setting.|
 | _TrailingMinusNumbers_|Optional| **Variant**|Numbers that begin with a minus character.|
@@ -64,28 +64,48 @@ The following table shows the results of importing text into Excel for various i
 |Period|Comma|Period|Space|123 123.45|123,123.45 (numeric)|
 
 
-| **XlColumnDataType** can be one of these **XlColumnDataType** constants.|
-| **xlGeneralFormat** . General|
-| **xlTextFormat** . Text|
-| **xlMDYFormat** . MDY Date|
-| **xlDMYFormat** . DMY Date|
-| **xlYMDFormat** . YMD Date|
-| **xlMYDFormat** . MYD Date|
-| **xlDYMFormat** . DYM Date|
-| **xlYDMFormat** . YDM Date|
-| **xlEMDFormat** . EMD Date|
-| **xlSkipColumn** . Skip Column|
-You can use  **xlEMDFormat** only if Taiwanese language support is installed and selected. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
+### FieldInfo
 
-The column specifiers can be in any order. If a given column specifier is not present for a particular column in the input data, the column is parsed with the  **xlGeneralFormat** setting. This example causes the third column to be skipped, the first column to be parsed as text, and the remaining columns in the source data to be parsed with the **xlGeneralFormat** setting.
+_FieldInfo_ consists of an array of two-element arrays, with the first element as an integer representing either the column number or starting character position, and the second element as one of the [xlColumnDataType](xlcolumndatatype-enumeration-excel.md) constants that specifies the parse option for the column, as listed below.
+
+#### First element
+
+The interpretation of the first element depends on the value of  _DataType_.
+
+|**DataType** equals|**First element**|
+|:-----|:-----|
+|xlDelimited|Column number (1-based)|
+|xlFixedWidth|Starting character position for the column (0-based)|
+
+
+If _DataType_ is **xlDelimited**, the first element is the column number (1-based). The two-element arrays can be in any order, regardless of column number. If a given column number is not present for a particular column in the input data, the column is parsed with the  **xlGeneralFormat** setting. This example causes the third column to be skipped, the first column to be parsed as text, and the remaining columns in the source data to be parsed with the **xlGeneralFormat** setting.
 
  `Array(Array(3, 9), Array(1, 2))`
 
-If the source data has fixed-width columns, the first element of each two-element array specifies the starting character position in the column (as an integer; 0 (zero) is the first character). The second element of the two-element array specifies the parse option for the column as a number from 1 through 9, as listed above.
 
-The following example parses two columns from a fixed-width file, with the first column starting at the beginning of the line and extending for 10 characters. The second column starts at position 15 and goes to the end of the line. To avoid including the characters between position 10 and position 15, Microsoft Excel adds a skipped column entry.
+If the source data has fixed-width columns, the first element specifies the starting character position as an integer for the column; 0 (zero) is the first character. The following example parses two columns from a fixed-width file, with the first column starting at the beginning of the line and extending for 10 characters. The second column starts at position 15 and goes to the end of the line. To avoid including the characters between position 10 and position 15, Microsoft Excel adds a skipped column entry.
 
  `Array(Array(0, 1), Array(10, 9), Array(15, 1))`
+
+#### Second element
+
+The second element of the two-element child arrays of _FieldInfo_ can be one of these **XlColumnDataType** constants.
+
+|**Constant**|**Value**|**Description**|
+|:-----|:-----|:-----|
+|**xlGeneralFormat**|1|General|
+|**xlTextFormat**|2|Text|
+|**xlMDYFormat**|3|MDY Date|
+|**xlDMYFormat**|4|DMY Date|
+|**xlYMDFormat**|5|YMD Date|
+|**xlMYDFormat**|6|MYD Date|
+|**xlDYMFormat**|7|DYM Date|
+|**xlYDMFormat**|8|YDM Date|
+|**xlEMDFormat**|10|EMD Date|
+|**xlSkipColumn**|9|Skip Column|
+
+You can use  **xlEMDFormat** only if Taiwanese language support is installed and selected. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
+
 
 
 ## Example
