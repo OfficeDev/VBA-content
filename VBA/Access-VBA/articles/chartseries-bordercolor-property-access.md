@@ -1,8 +1,8 @@
 ---
 title: ChartSeries.BorderColor Property (Access)
-keywords: vbaac10.chm14750
+keywords: vbaac10.chm14780
 f1_keywords:
-- vbaac10.chm14750
+- vbaac10.chm14780
 ms.prod: access
 api_name:
 - Access.ChartSeries.BorderColor

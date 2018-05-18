@@ -1,8 +1,8 @@
 ---
 title: ChartValues.AggregateType Property (Access)
-keywords: vbaac10.chm14750
+keywords: vbaac10.chm14797
 f1_keywords:
-- vbaac10.chm14750
+- vbaac10.chm14797
 ms.prod: access
 api_name:
 - Access.ChartValues.AggregateType

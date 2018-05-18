@@ -1,8 +1,8 @@
 ---
 title: ChartAxis.GroupType Property (Access)
-keywords: vbaac10.chm14752
+keywords: vbaac10.chm14770
 f1_keywords:
-- vbaac10.chm14752
+- vbaac10.chm14770
 ms.prod: access
 api_name:
 - Access.ChartAxis.GroupType

@@ -1,8 +1,8 @@
 ---
 title: ChartSeries.PlotSeriesOn Property (Access)
-keywords: vbaac10.chm14750
+keywords: vbaac10.chm14790
 f1_keywords:
-- vbaac10.chm14750
+- vbaac10.chm14790
 ms.prod: access
 api_name:
 - Access.ChartSeries.PlotSeriesOn
