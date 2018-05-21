@@ -18,7 +18,7 @@ You can use the  **Modify** method to change the format conditions of a **[Forma
 
 ## Syntax
 
- _expression_. **Modify**( ** _Type_**, ** _Operator_**, ** _Expression1_**, ** _Expression2_** )
+ _expression_. **Modify**( **_Type_**, **_Operator_**, **_Expression1_**, **_Expression2_** )
 
  _expression_ A variable that represents a **FormatCondition** object.
 
