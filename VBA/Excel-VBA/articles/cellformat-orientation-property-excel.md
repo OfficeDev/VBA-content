@@ -27,12 +27,10 @@ Returns or sets a  **Variant** value that represents the text orientation.
 
 The value of this property can be set to an integer value from -90 to 90 degrees or to one of the following constants:
 
-
-
-| **xlDownward**|
-| **xlHorizontal**|
-| **xlUpward**|
-| **xlVertical**|
+* **xlDownward**
+* **xlHorizontal**
+* **xlUpward**
+* **xlVertical**
 
 ## See also
 
