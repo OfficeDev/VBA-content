@@ -31,15 +31,13 @@ The  **OpenTextFile** method has these parts:
 | _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
 
 ## Settings
-The  _iomode_ argument can have either of the following settings:
+The  _iomode_ argument can have any of the following settings:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**ForReading**|1|Open a file for reading only. You can't write to this file.|
 |**ForWriting**|2|Open a file for writing only. Use this mode to replace an existing file with new data. You can't read from this file.|
 |**ForAppending**|8|Open a file and write to the end of the file. You can't read from this file.|
-The  _format_ argument can have any of the following settings:
-
 
 The  _format_ argument can have any of the following settings:
 
