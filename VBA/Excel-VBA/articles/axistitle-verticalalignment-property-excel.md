@@ -27,13 +27,11 @@ Returns or sets a  **Variant** value that represents the vertical alignment of t
 
 The value of this property can be set to one of the following constants:
 
-
-
-| **xlBottom**|
-| **xlCenter**|
-| **xlDistributed**|
-| **xlJustify**|
-| **xlTop**|
+* **xlBottom**
+* **xlCenter**
+* **xlDistributed**
+* **xlJustify**
+* **xlTop**
 
 ## See also
 
