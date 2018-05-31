@@ -25,12 +25,7 @@ Returns or sets a  **Variant** value that represents the text orientation.
 
 ## Remarks
 
-The value of this property can be set to an integer value from -90 to 90 degrees or to one of the following constants:
-
-* **xlDownward**
-* **xlHorizontal**
-* **xlUpward**
-* **xlVertical**
+The value of this property can be set to an integer value from -90 to 90 degrees or to one of the [**XlOrientation**](xlorientation-enumeration-excel.md) constants.
 
 ## See also
 
