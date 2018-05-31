@@ -36,7 +36,7 @@ The following example uses the  **Load** statement and the **Show** method in Us
 ```vb
 Private Sub UserForm_Click()
     Load UserForm2
-    UserForm2. StartUpPosition = 3
+    UserForm2.StartUpPosition = 3
     UserForm2.Show
 End Sub
 ```
