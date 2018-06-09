@@ -36,7 +36,7 @@ Runs a specified procedure when a particular key or key combination is pressed.
 
 The  _Key_ argument can specify any single key combined with ALT, CTRL, or SHIFT, or any combination of these keys. Each key is represented by one or more characters, such as `"a"` for the character a, or `"{ENTER}"` for the ENTER key.
 
-To specify characters that aren't displayed when you press the corresponding key (ENTER or TAB, for example), use the codes listed in the following table. Each code in the table represents one key on the keyboard.
+To specify characters that aren't displayed when you press the corresponding key (for example: ENTER or TAB ), use the codes listed in the following table. Each code in the table represents one key on the keyboard.
 
 
 
