@@ -36,14 +36,15 @@ Returns a single member of the  **[Error](error-object-excel.md)** object.
  _Index_ can also be one the following constants.
 
 
-
-| **xlEvaluateToError** The cell evaluates to an error value.|
-| **xlTextDate** The cell contains a text date with 2 digit years.|
-| **xlNumberAsText** The cell contains a number stored as text.|
-| **xlInconsistentFormula** The cell contains an inconsistent formula for a region.|
-| **xlOmittedCells** The cell contains a formula omitting a cell for a region.|
-| **xlUnlockedFormulaCells** The cell which is unlocked contains a formula.|
-| **xlEmptyCellReferences** The cell contains a formula referring to empty cells.|
+| **Constant** | **Description** |
+|---|---|
+| **xlEvaluateToError** | The cell evaluates to an error value.|
+| **xlTextDate** | The cell contains a text date with 2 digit years.|
+| **xlNumberAsText** | The cell contains a number stored as text.|
+| **xlInconsistentFormula** | The cell contains an inconsistent formula for a region.|
+| **xlOmittedCells** | The cell contains a formula omitting a cell for a region.|
+| **xlUnlockedFormulaCells** | The cell which is unlocked contains a formula.|
+| **xlEmptyCellReferences** | The cell contains a formula referring to empty cells.|
 
 ## See also
 
