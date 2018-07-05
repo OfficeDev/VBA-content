@@ -13,21 +13,19 @@ ms.date: 06/08/2017
 
 Enables an error-handling routine and specifies the location of the routine within a [procedure](vbe-glossary.md); can also be used to disable an error-handling routine.
 
- **Syntax**
+## Syntax
 
- **On Error** **GoTo**_line_
-
- **On Error** **Resume Next**
- **On Error** **GoTo** **0**
 The  **On Error** statement syntax can have any of the following forms:
-
 
 |**Statement**|**Description**|
 |:-----|:-----|
-|**On Error GoTo**_line_|Enables the error-handling routine that starts at  _line_ specified in the required _line_[argument](vbe-glossary.md). The  _line_ argument is any[line label](vbe-glossary.md) or[line number](vbe-glossary.md). If a [run-time error](vbe-glossary.md) occurs, control branches to _line_, making the error handler active _._ The specified _line_ must be in the same procedure as the **On Error** statement; otherwise, a[compile-time](vbe-glossary.md) error occurs.|
+|**On Error GoTo** _line_|Enables the error-handling routine that starts at  _line_ specified in the required _line_ [argument](vbe-glossary.md). The  _line_ argument is any [line label](vbe-glossary.md) or [line number](vbe-glossary.md). If a [run-time error](vbe-glossary.md) occurs, control branches to _line_, making the error handler active. The specified _line_ must be in the same procedure as the **On Error** statement; otherwise, a [compile-time](vbe-glossary.md) error occurs.|
 |**On Error Resume Next**|Specifies that when a run-time error occurs, control goes to the [statement](vbe-glossary.md) immediately following the statement where the error occurred where execution continues. Use this form rather than **On Error GoTo** when accessing objects.|
 |**On Error GoTo 0**|Disables any enabled error handler in the current procedure.|
- **Remarks**
+
+
+## Remarks
+
 If you don't use an  **On Error** statement, any run-time error that occurs is fatal; that is, an error message is displayed and execution stops.
 An "enabled" error handler is one that is turned on by an  **On Error** statement; an "active" error handler is an enabled handler that is in the process of handling an error. If an error occurs while an error handler is active (between the occurrence of the error and a **Resume**, **Exit Sub**, **Exit Function**, or **Exit Property** statement), the current procedure's error handler can't handle the error. Control returns to the calling procedure. If the calling procedure has an enabled error handler, it is activated to handle the error. If the calling procedure's error handler is also active, control passes back through previous calling procedures until an enabled, but inactive, error handler is found. If no inactive, enabled error handler is found, the error is fatal at the point at which it actually occurred. Each time the error handler passes control back to a calling procedure, that procedure becomes the current procedure. Once an error is handled by an error handler in any procedure, execution resumes in the current procedure at the point designated by the **Resume** statement.
 
