@@ -211,7 +211,6 @@ The following table identifies characters you can use to create user-defined dat
 |dddd|Display the day as a full name (Sunday - Saturday). Localized.|
 |ddddd|Display the date as a complete date (including day, month, and year), formatted according to your system's short date format setting. The default short date format is  `m/d/yy`.|
 |dddddd|Display a date serial number as a complete date (including day, month, and year) formatted according to the long date setting recognized by your system. The default long date format is  `mmmm dd, yyyy`.|
-|aaaa|The same as dddd, only it's the localized version of the string.|
 |w|Display the day of the week as a number (1 for Sunday through 7 for Saturday).|
 |ww|Display the week of the year as a number (1 - 54).|
 |m|Display the month as a number without a leading zero (1 - 12). If  `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|
