@@ -29,10 +29,10 @@ Pastes a  **[Range](range-object-excel.md)** that has been copied into the speci
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Paste_|Optional| **[XlPasteType](xlpastetype-enumeration-excel.md)**|. The part of the range to be pasted.|
-| _Operation_|Optional| **[XlPasteSpecialOperation](xlpastespecialoperation-enumeration-excel.md)**|. The paste operation.|
-| _SkipBlanks_|Optional| **Variant**| **True** to have blank cells in the range on the Clipboard not be pasted into the destination range. The default value is **False** .|
-| _Transpose_|Optional| **Variant**| **True** to transpose rows and columns when the range is pasted.The default value is **False** .|
+| _Paste_|Optional| **[XlPasteType](xlpastetype-enumeration-excel.md)**| The part of the range to be pasted, such as **xlPasteAll** or **xlPasteValues**.|
+| _Operation_|Optional| **[XlPasteSpecialOperation](xlpastespecialoperation-enumeration-excel.md)**| The paste operation, such as **xlPasteSpecialOperationAdd**.|
+| _SkipBlanks_|Optional| **Variant**| **True** to have blank cells in the range on the Clipboard not be pasted into the destination range. The default value is **False**.|
+| _Transpose_|Optional| **Variant**| **True** to transpose rows and columns when the range is pasted. The default value is **False**.|
 
 ### Return Value
 
@@ -48,7 +48,7 @@ This example replaces the data in cells D1:D5 on Sheet1 with the sum of the exis
 With Worksheets("Sheet1") 
  .Range("C1:C5").Copy 
  .Range("D1:D5").PasteSpecial _ 
- Operation:=xlPasteSpecialOperationAdd 
+  Operation:=xlPasteSpecialOperationAdd 
 End With
 ```
 
