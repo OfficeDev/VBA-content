@@ -279,3 +279,9 @@ This section contains documentation for the enumerations in the Excel object mod
 | **[XlXmlImportResult Enumeration](xlxmlimportresult-enumeration-excel.md)**                   |
 | **[XlXmlLoadOption Enumeration](xlxmlloadoption-enumeration-excel.md)**                       |
 | **[XlYesNoGuess Enumeration](xlyesnoguess-enumeration-excel.md)**                             |
+
+
+
+## See also
+
+[Visual Basic Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-constants)
