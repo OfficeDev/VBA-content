@@ -25,9 +25,15 @@ Returns a  **[Range](range-object-excel.md)** object that represents the columns
 
 ## Remarks
 
-Using this property without an object qualifier is equivalent to using  `ActiveSheet.Columns`.
+To return a single column, include an index in parentheses. For example, `Selection.Columns(1)` returns the first column of the selection. 
 
 When applied to a  **Range** object that's a multiple-area selection, this property returns columns from only the first area of the range. For example, if the **Range** object has two areas — A1:B2 and C3:D4 — `Selection.Columns.Count` returns 2, not 4. To use this property on a range that may contain a multiple-area selection, test `Areas.Count` to determine whether the range contains more than one area. If it does, loop over each area in the range.
+
+The returned range might be outside the specified range. For example, `Range("A1:B2").Columns(5).Select` returns cells E1:E2.
+
+If a letter is used as an index, it is equivalent to a number. For example, `Range("B1:C10").Columns("B").Select` returns cells C1:C10, not cells B1:B10. In the example, "B" is equivalent to 2. 
+
+`Columns` without an object qualifier is equivalent to `ActiveSheet.Columns`. For more information, see the [Worksheet.Columns Property](worksheet-columns-property-excel.md).
 
 
 ## Example
@@ -60,6 +66,11 @@ End If
 
 
 ## See also
+
+
+#### Related
+
+[Worksheet.Columns Property](worksheet-columns-property-excel.md)
 
 
 #### Concepts
