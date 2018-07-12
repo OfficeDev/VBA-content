@@ -51,12 +51,26 @@ End Sub
 ```
 
 
+## Properties
+
+
+
+|**Name**|
+|:-----|
+|[Application Property](formatcolor-application-property-excel.md)|
+|[Color Property](formatcolor-color-property-excel.md)|
+|[ColorIndex Property](formatcolor-colorindex-property-excel.md)|
+|[Creator Property](formatcolor-creator-property-excel.md)|
+|[Parent Property](formatcolor-parent-property-excel.md)|
+|[ThemeColor Property](formatcolor-themecolor-property-excel.md)|
+|[TintAndShade Property](formatcolor-tintandshade-property-excel.md)|
+
+
+
 ## See also
 
 
-#### Other resources
+[ColorScaleCriterion.FormatColor Property](colorscalecriterion-formatcolor-property-excel.md)
 
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
 
 
