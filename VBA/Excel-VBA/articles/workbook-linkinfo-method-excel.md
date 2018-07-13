@@ -47,7 +47,7 @@ This example displays a message box if the link is updated automatically.
 ```vb
 If ActiveWorkbook.LinkInfo( _ 
  "Word.Document|Document1!'!DDE_LINK1", xlUpdateState, _ 
- xlOLELinks) = 1 Then 
+ xlLinkInfoOLELinks) = 1 Then 
  MsgBox "Link updates automatically" 
 End If
 ```
