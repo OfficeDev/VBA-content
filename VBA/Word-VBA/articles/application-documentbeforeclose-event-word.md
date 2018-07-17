@@ -52,7 +52,7 @@ Private Sub appWord_DocumentBeforeClose _
     Dim intResponse As Integer 
  
     intResponse = MsgBox("Do you really " _ 
-        &; "want to close the document?", _ 
+        & "want to close the document?", _ 
         vbYesNo) 
  
     If intResponse = vbNo Then Cancel = True 

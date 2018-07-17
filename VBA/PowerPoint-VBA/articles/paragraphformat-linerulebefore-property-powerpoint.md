@@ -65,7 +65,7 @@ With Application.ActivePresentation.Slides(1).Shapes(2).TextFrame
 
 End With
 
-MsgBox "Current spacing before paragraphs: " &; sb &; sbUnits
+MsgBox "Current spacing before paragraphs: " & sb & sbUnits
 ```
 
 

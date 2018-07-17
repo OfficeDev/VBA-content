@@ -66,7 +66,7 @@ Sub TestValidation()
  
  tki.Display 
  
- MsgBox "The Work Hours are: " &; upr.Value / 60 
+ MsgBox "The Work Hours are: " & upr.Value / 60 
  
 End Sub
 ```

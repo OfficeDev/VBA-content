@@ -45,9 +45,9 @@ This example posts a message that indicates the number of windows that exist bef
 
 
 ```vb
-MsgBox Windows.Count &; " windows open" 
+MsgBox Windows.Count & " windows open" 
 Windows("Document1").NewWindow 
-MsgBox Windows.Count &; " windows open"
+MsgBox Windows.Count & " windows open"
 ```
 
 This example opens a new window, arranges all the open windows, closes the new window, and then rearranges the open windows.

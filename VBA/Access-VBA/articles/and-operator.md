@@ -81,12 +81,12 @@ Sub SubQueryX()
     ' 1995. 
  
     Set rst = dbs.OpenRecordset("SELECT ContactName," _ 
-        &; " CompanyName, ContactTitle, Phone" _ 
-        &; " FROM Customers" _ 
-        &; " WHERE CustomerID" _ 
-        &; " IN (SELECT CustomerID FROM Orders" _ 
-        &; " WHERE OrderDate Between #04/1/95#" _ 
-        &; " And #07/1/95#);") 
+        & " CompanyName, ContactTitle, Phone" _ 
+        & " FROM Customers" _ 
+        & " WHERE CustomerID" _ 
+        & " IN (SELECT CustomerID FROM Orders" _ 
+        & " WHERE OrderDate Between #04/1/95#" _ 
+        & " And #07/1/95#);") 
      
     ' Populate the Recordset. 
     rst.MoveLast 

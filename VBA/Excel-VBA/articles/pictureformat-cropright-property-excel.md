@@ -45,7 +45,7 @@ Using this example, you can specify the percentage you want to cropp off the rig
 
 ```vb
 percentToCrop = InputBox( _ 
- "What percentage do you want to crop" &; _ 
+ "What percentage do you want to crop" & _ 
  " off the right of this picture?") 
 Set shapeToCrop = ActiveWindow.Selection.ShapeRange(1) 
 With shapeToCrop.Duplicate 

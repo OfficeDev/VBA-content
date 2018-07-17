@@ -48,7 +48,7 @@ The following example demonstrates the syntax for a subroutine that traps the  *
 
 ```vb
 Private Sub Form_CommandExecute(ByVal Command As Variant) MsgBox "The command specified by " _ 
- &; Command.Name &; " has been executed." 
+ & Command.Name & " has been executed." 
 End Sub
 ```
 

@@ -49,11 +49,11 @@ Sub CSSTitles()
  Set docNew = Documents.Add 
  
  With docNew.Range(Start:=0, End:=0) 
- .InsertAfter "CSS Name : Assigned to " &; ActiveDocument.Name _ 
- &; vbTab &; "Title" 
+ .InsertAfter "CSS Name : Assigned to " & ActiveDocument.Name _ 
+ & vbTab & "Title" 
  .InsertParagraphAfter 
  For Each styCSS In ActiveDocument.StyleSheets 
- .InsertAfter styCSS.Name &; vbTab &; styCSS.Title 
+ .InsertAfter styCSS.Name & vbTab & styCSS.Title 
  .InsertParagraphAfter 
  Next styCSS 
  .ConvertToTable 

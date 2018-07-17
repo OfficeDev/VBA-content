@@ -42,7 +42,7 @@ End Sub
  
 Sub CommandButton1_Click() 
  EntryCount = EntryCount + 1 
- ListBox1.AddItem (EntryCount &; " - Selection") 
+ ListBox1.AddItem (EntryCount & " - Selection") 
 End Sub 
  
  

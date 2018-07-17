@@ -71,7 +71,7 @@ End Sub
  
 Private Sub vsoApplication_CellChanged(ByVal vsoCell As IVCell) 
  
- Debug.Print vsoCell.Shape.Name &; " " &; vsoCell.Name &; " changed to =" &; vsoCell.Formula 
+ Debug.Print vsoCell.Shape.Name & " " & vsoCell.Name & " changed to =" & vsoCell.Formula 
  
 End Sub
 ```

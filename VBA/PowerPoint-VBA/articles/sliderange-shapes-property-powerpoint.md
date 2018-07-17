@@ -76,8 +76,8 @@ Assuming that shape two on slide two in the active presentation contains a text 
 ```vb
 Set tShape = ActivePresentation.Slides(2).Shapes(2)
 
-tShape.TextFrame.TextRange.Text = "First Item" &; Chr(13) &; _
-    "Second Item" &; Chr(13) &; "Third Item"
+tShape.TextFrame.TextRange.Text = "First Item" & Chr(13) & _
+    "Second Item" & Chr(13) & "Third Item"
 ```
 
 For most slide layouts, the first shapes on the slide are text placeholders, and the following example accomplishes the same task as the preceding example.
@@ -88,8 +88,8 @@ For most slide layouts, the first shapes on the slide are text placeholders, and
 ```vb
 Set testShape = ActivePresentation.Slides(2).Shapes.Placeholders(2)
 
-testShape.TextFrame.TextRange.Text = "First Item" &; _
-    Chr(13) &; "Second Item" &; Chr(13) &; "Third Item"
+testShape.TextFrame.TextRange.Text = "First Item" & _
+    Chr(13) & "Second Item" & Chr(13) & "Third Item"
 ```
 
 

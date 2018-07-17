@@ -37,7 +37,7 @@ On Error GoTo ErrorHandler
  Exit Sub 
  
 ErrorHandler: 
- MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+ MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Sub
 ```
 

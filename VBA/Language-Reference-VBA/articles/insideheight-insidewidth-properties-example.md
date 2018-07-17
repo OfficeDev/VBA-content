@@ -41,7 +41,7 @@ Private Sub CommandButton1_Click()
  UserForm1.InsideWidth * Resize, _ 
  UserForm1.InsideHeight * Resize 
  CommandButton1.Caption = "Button resized " _ 
- &; "using InsideHeight and InsideWidth!" 
+ & "using InsideHeight and InsideWidth!" 
 End Sub
 ```
 

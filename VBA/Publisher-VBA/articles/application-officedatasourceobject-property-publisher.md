@@ -39,9 +39,9 @@ Dim odsoTemp As Office.OfficeDataSourceObject
 Set odsoTemp = Application.OfficeDataSourceObject 
  
 With odsoTemp 
- Debug.Print "Connection string: " &; .ConnectString 
- Debug.Print "Data source: " &; .DataSource 
- Debug.Print "Table: " &; .Table 
+ Debug.Print "Connection string: " & .ConnectString 
+ Debug.Print "Data source: " & .DataSource 
+ Debug.Print "Table: " & .Table 
 End With
 ```
 

@@ -62,8 +62,8 @@ greenComponent = c \ 256 Mod 256
 
 blueComponent = c \ 65536 Mod 256
 
-MsgBox "RGB components: " &; redComponent &; _
-    ", " &; greenComponent &; ", " &; blueComponent
+MsgBox "RGB components: " & redComponent & _
+    ", " & greenComponent & ", " & blueComponent
 ```
 
 

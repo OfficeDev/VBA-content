@@ -84,9 +84,9 @@ Sub CountX()
     ' Calculate the number of orders shipped  
     ' to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT" _ 
-        &; " Count (ShipCountry)" _ 
-        &; " AS [UK Orders] FROM Orders" _ 
-        &; " WHERE ShipCountry = 'UK';") 
+        & " Count (ShipCountry)" _ 
+        & " AS [UK Orders] FROM Orders" _ 
+        & " WHERE ShipCountry = 'UK';") 
      
     ' Populate the Recordset. 
     rst.MoveLast 

@@ -73,11 +73,11 @@ Dim strObjectName As String
 Dim strMsg As String 
  
 strMsg = "Enter object type (e.g., Forms, Scripts, " _ 
- &; "Modules, Reports, Tables)." 
+ & "Modules, Reports, Tables)." 
 ' Get object type. 
 strObjectType = InputBox(strMsg) 
 strMsg = "Enter the name of a form, macro, module, " _ 
- &; "query, report, or table." 
+ & "query, report, or table." 
 ' Get object name from user. 
 strObjectName = InputBox(strMsg) 
 ' Pass object type and object name to 
@@ -102,7 +102,7 @@ doc.Properties.Refresh
 Debug.Print doc.Name 
 ' Print each Object property to Debug window. 
 For Each prp in doc.Properties 
- Debug.Print strTabChar &; prp.Name &; " = " &; prp.Value 
+ Debug.Print strTabChar & prp.Name & " = " & prp.Value 
 Next 
 End Sub
 ```

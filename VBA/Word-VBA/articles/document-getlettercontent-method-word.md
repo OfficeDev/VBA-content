@@ -35,7 +35,7 @@ This example displays the salutation and recipient name from the letter in the a
 
 ```vb
 MsgBox ActiveDocument.GetLetterContent.Salutation _ 
- &; ActiveDocument.GetLetterContent.RecipientName
+ & ActiveDocument.GetLetterContent.RecipientName
 ```
 
 This example retrieves letter elements from the active document, changes the list of carbon copy (CC) recipients by setting the CClist property, and then uses the SetLetterContent method to update the active document to reflect the changes.
@@ -48,7 +48,7 @@ Set myLetterContent = ActiveDocument.GetLetterContent
 With myLetterContent 
  .CCList = "J. Burns, L. Scarpaczyk, K. Wong" 
  .RecipientName = "Amy Anderson" 
- .RecipientAddress = "123 Main" &; vbCr &; "Bellevue, WA 98004" 
+ .RecipientAddress = "123 Main" & vbCr & "Bellevue, WA 98004" 
  .LetterStyle = wdFullBlock 
 End With 
 ActiveDocument.SetLetterContent LetterContent:=myLetterContent

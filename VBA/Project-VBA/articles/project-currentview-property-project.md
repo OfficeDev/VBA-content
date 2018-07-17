@@ -29,9 +29,9 @@ The following example displays the names of the active view, table, and filter i
 Sub ViewDetails() 
  
     Dim Temp As String 
-    Temp = "View: " &; ActiveProject.CurrentView &; vbCrLf 
-    Temp = Temp &; "Table:" &; ActiveProject.CurrentTable &; vbCrLf 
-    Temp = Temp &; "Filter: " &; ActiveProject.CurrentFilter 
+    Temp = "View: " & ActiveProject.CurrentView & vbCrLf 
+    Temp = Temp & "Table:" & ActiveProject.CurrentTable & vbCrLf 
+    Temp = Temp & "Filter: " & ActiveProject.CurrentFilter 
     MsgBox Temp 
 End Sub
 ```

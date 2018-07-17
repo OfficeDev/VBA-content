@@ -66,7 +66,7 @@ Sub ReturnToDefault()
     Application.BoxLayoutEx LayoutMode:=pjLayoutManual, LayoutScheme:=pjLayoutTopDownFromLeft, _
         SummaryPrecedence:=True, RowAlignment:=pjCenter, ColumnAlignment:=pjMiddle, RowSpacing:=45, _
         ColumnSpacing:=60, RowHeight:=pjSizeBestFit, ColumnWidth:=pjSizeBestFit, AdjustForPageBreaks:=True, _
-        ShowSummaryTasks:=True, ViewBackgroundColor:=&;HFFFFFF, ViewBackgroundPattern:=pjBackgroundSolidFill, _
+        ShowSummaryTasks:=True, ViewBackgroundColor:=&HFFFFFF, ViewBackgroundPattern:=pjBackgroundSolidFill, _
         ShowProgressMarks:=False, ShowPageBreaks:=True, ShowIDOnly:=False
 End Sub
 ```

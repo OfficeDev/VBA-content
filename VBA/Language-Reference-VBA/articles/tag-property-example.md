@@ -43,26 +43,26 @@ Private Sub UserForm_Initialize()
  TextBox1.AutoSize = True 
  
  CommandButton1.Caption = "Show Tag of Current " _ 
- &; "Control." 
+ & "Control." 
  CommandButton1.AutoSize = True 
  CommandButton1.WordWrap = True 
  CommandButton1.TakeFocusOnClick = False 
  CommandButton1.Tag = "Shows tag of control " _ 
- &; "that has the focus." 
+ & "that has the focus." 
  
  ComboBox1.Style = fmStyleDropDownList 
  ComboBox1.Tag = "ComboBox Style is that of " _ 
- &; "a ListBox." 
+ & "a ListBox." 
  
  ScrollBar1.Max = 100 
  ScrollBar1.Min = -273 
- ScrollBar1.Tag = "Max = " &; ScrollBar1.Max _ 
- &; " , Min = " &; ScrollBar1.Min 
+ ScrollBar1.Tag = "Max = " & ScrollBar1.Max _ 
+ & " , Min = " & ScrollBar1.Min 
  
  MultiPage1.Pages.Add 
  MultiPage1.Pages.Add 
  MultiPage1.Tag = "This MultiPage has " _ 
- &; MultiPage1.Pages.Count &; " pages." 
+ & MultiPage1.Pages.Count & " pages." 
 End Sub
 ```
 

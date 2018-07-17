@@ -83,8 +83,8 @@ Private Declare Function FindWindow Lib "user32" Alias "FindWindowA" (ByVal lpCl
 Private Declare Function SetWindowLong Lib "user32" Alias "SetWindowLongA" (ByVal hwnd As Long, ByVal nIndex As Long, ByVal dwNewLong As Long) As Long 
  
 Private Const GWL_STYLE = (-16) 
-Private Const WS_CHILD = &;H40000000 
-Private Const WS_VISIBLE = &;H10000000 
+Private Const WS_CHILD = &H40000000 
+Private Const WS_VISIBLE = &H10000000 
  
 Public Sub AddWindow_Example() 
  

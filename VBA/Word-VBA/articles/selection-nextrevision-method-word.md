@@ -89,7 +89,7 @@ Do While True
  Set revTemp = Selection.NextRevision(Wrap:=False) 
  If Not (revTemp Is Nothing) Then 
  If revTemp.Author = strAuthor Then 
- MsgBox Prompt:="Another revision by " &; strAuthor &; "!" 
+ MsgBox Prompt:="Another revision by " & strAuthor & "!" 
  Exit Do 
  End If 
  Else 

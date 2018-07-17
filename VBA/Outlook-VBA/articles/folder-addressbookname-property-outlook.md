@@ -74,9 +74,9 @@ Sub Changebook(ByRef fldFolder As Folder, ByVal strName As String)
  
  'Display message to user 
  
- MsgBox ("The new address book name for the " &; fldFolder.Name &; " folder is " _ 
+ MsgBox ("The new address book name for the " & fldFolder.Name & " folder is " _ 
  
- &; strName &; ".") 
+ & strName & ".") 
  
 End Sub
 ```

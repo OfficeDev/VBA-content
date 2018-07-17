@@ -51,17 +51,17 @@ End With
 lnRow = 2 
 lnCount = 1 
 'Iterate through the worksheets in the workbook and create 
-'sheetnames, add hyperlink and count &; write the running number 
+'sheetnames, add hyperlink and count & write the running number 
 'of pages to be printed for each sheet on the TOC sheet. 
 For Each wsSheet In wbBook.Worksheets 
     If wsSheet.Name <> wsActive.Name Then 
         wsSheet.Activate 
         With wsActive 
             .Hyperlinks.Add .Cells(lnRow, 1), "", _ 
-            SubAddress:="'" &; wsSheet.Name &; "'!A1", _ 
+            SubAddress:="'" & wsSheet.Name & "'!A1", _ 
             TextToDisplay:=wsSheet.Name 
             lnPages = wsSheet.PageSetup.Pages().Count 
-            .Cells(lnRow, 2).Value = "'" &; lnCount &; "-" &; lnPages 
+            .Cells(lnRow, 2).Value = "'" & lnCount & "-" & lnPages 
         End With 
         lnRow = lnRow + 1 
         lnCount = lnCount + 1 
@@ -110,7 +110,7 @@ Sub CreateTableOfContents()
     ' Do a print preview on all sheets so Excel calcs page breaks 
     ' The user must manually close the PrintPreview window 
     Msg = "Excel needs to do a print preview to calculate the number of pages. " 
-    Msg = Msg &; "Please dismiss the print preview by clicking close." 
+    Msg = Msg & "Please dismiss the print preview by clicking close." 
     MsgBox Msg 
     ActiveWindow.SelectedSheets.PrintPreview 
  
@@ -125,12 +125,12 @@ Sub CreateTableOfContents()
  
             ' Enter info about this sheet on TOC 
             Sheets("TOC").Select 
-            Range("A" &; TOCRow).Value = ThisName 
-            Range("B" &; TOCRow).NumberFormat = "@" 
+            Range("A" & TOCRow).Value = ThisName 
+            Range("B" & TOCRow).NumberFormat = "@" 
             If ThisPages = 1 Then 
-                Range("B" &; TOCRow).Value = PageCount + 1 &; " " 
+                Range("B" & TOCRow).Value = PageCount + 1 & " " 
             Else 
-                Range("B" &; TOCRow).Value = PageCount + 1 &; " - " &; PageCount + ThisPages 
+                Range("B" & TOCRow).Value = PageCount + 1 & " - " & PageCount + ThisPages 
             End If 
         PageCount = PageCount + ThisPages 
         TOCRow = TOCRow + 1 

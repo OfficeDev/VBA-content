@@ -19,9 +19,9 @@ Use the  **AddIns** property to return the **AddIns** collection. The following 
 ```vb
 For Each ad In AddIns 
  If ad.Installed = True Then 
- MsgBox ad.Name &; " is installed" 
+ MsgBox ad.Name & " is installed" 
  Else 
- MsgBox ad.Name &; " is available but not installed" 
+ MsgBox ad.Name & " is available but not installed" 
  End If 
 Next ad
 ```

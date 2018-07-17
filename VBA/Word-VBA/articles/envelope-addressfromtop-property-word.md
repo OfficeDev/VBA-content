@@ -41,10 +41,10 @@ Dim strReturn As String
 
 
 ```vb
-strAddress = "Michael Bunney" &; vbCr &; "123 Skye St." &; vbCr _ 
- &; "Our Town, WA 98040" 
-strReturn = "Kate Dresen" &; vbCr &; "123 Main" &; vbCr _ 
- &; "Other Town, WA 98040" 
+strAddress = "Michael Bunney" & vbCr & "123 Skye St." & vbCr _ 
+ & "Our Town, WA 98040" 
+strReturn = "Kate Dresen" & vbCr & "123 Main" & vbCr _ 
+ & "Other Town, WA 98040" 
  
 With Documents.Add.Envelope 
  .Insert Address:=strAddress, ReturnAddress:=strReturn 

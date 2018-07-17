@@ -38,7 +38,7 @@ This example displays a message with the document's name when opening a document
 
 ```vb
 Private Sub appPub_DocumentOpen(ByVal Doc As Document) 
- MsgBox "Please wait. " &; Doc.Name &; " is opening." 
+ MsgBox "Please wait. " & Doc.Name & " is opening." 
 End Sub
 ```
 

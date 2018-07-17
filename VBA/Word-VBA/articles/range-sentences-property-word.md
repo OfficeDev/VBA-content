@@ -35,7 +35,7 @@ This example displays the number of sentences in the first paragraph in the acti
 
 ```vb
 MsgBox ActiveDocument.Paragraphs(1).Range _ 
- .Sentences.Count &; " sentences"
+ .Sentences.Count & " sentences"
 ```
 
 

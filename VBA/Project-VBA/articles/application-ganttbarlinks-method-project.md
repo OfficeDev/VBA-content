@@ -45,7 +45,7 @@ The following example first clears the links and then displays them from the end
 Sub GanttBar_Links() 
 'First clear links, than links from end to top of the next bar 
  'Activate Gantt Chart view 
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  GanttBarLinks pjNoGanttBarLinks 
  GanttBarLinks pjToTop 
 End Sub

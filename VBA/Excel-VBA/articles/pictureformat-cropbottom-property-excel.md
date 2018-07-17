@@ -45,7 +45,7 @@ Using this example, you can specify the percentage you want to crop off the bott
 
 ```vb
 percentToCrop = InputBox( _ 
- "What percentage do you want to crop off" &; _ 
+ "What percentage do you want to crop off" & _ 
  " the bottom of this picture?") 
 Set shapeToCrop = ActiveWindow.Selection.ShapeRange(1) 
 With shapeToCrop.Duplicate 

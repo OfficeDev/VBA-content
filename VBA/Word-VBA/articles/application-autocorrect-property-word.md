@@ -52,7 +52,7 @@ For Each aceLoop in AutoCorrect.Entries
  If .Name = strInput Then 
  blnMatch = True 
  intConfirm = _ 
- MsgBox("Are you sure you want to delete " &; _ 
+ MsgBox("Are you sure you want to delete " & _ 
  .Name, 4) 
  If intConfirm = vbYes Then 
  .Delete 
@@ -62,7 +62,7 @@ For Each aceLoop in AutoCorrect.Entries
 Next aceLoop 
  
 If blnMatch <> True Then 
- MsgBox "There was no AutoCorrect entry: " &; strInput 
+ MsgBox "There was no AutoCorrect entry: " & strInput 
 End If
 ```
 

@@ -41,7 +41,7 @@ Select Case Selection.Range.Kana
  MsgBox "This text is katakana." 
  Case wdUndefined 
  MsgBox "This text is a mix of " _ 
- &; "hiragana and katakana." 
+ & "hiragana and katakana." 
 End Select
 ```
 

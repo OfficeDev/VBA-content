@@ -29,7 +29,7 @@ The following example displays a message indicating the GUID for Microsoft Acces
 
 
 ```vb
-MsgBox "The GUID for Microsoft Access on this computer is " &; Application.ProductCode &; "."
+MsgBox "The GUID for Microsoft Access on this computer is " & Application.ProductCode & "."
 ```
 
 

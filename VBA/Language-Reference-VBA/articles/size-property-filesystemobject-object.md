@@ -28,7 +28,7 @@ Sub ShowFolderSize(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFolder(filespec)
-    s = UCase(f.Name) &; " uses " &; f.size &; " bytes."
+    s = UCase(f.Name) & " uses " & f.size & " bytes."
     MsgBox s, 0, "Folder Size Info"
 End Sub
 ```

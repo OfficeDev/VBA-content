@@ -78,8 +78,8 @@ Public Sub SetColumnHidden()
  If Err.Number <> 0 Then 
  If Err.Number <> conErrPropertyNotFound Then 
  On Error GoTo 0 
- MsgBox "Couldn't set property 'ColumnHidden' " &; _ 
- "on field '" &; fld.Name &; "'", vbCritical 
+ MsgBox "Couldn't set property 'ColumnHidden' " & _ 
+ "on field '" & fld.Name & "'", vbCritical 
  Else 
  On Error GoTo 0 
  Set prp = fld.CreateProperty("ColumnHidden", dbLong, True) 

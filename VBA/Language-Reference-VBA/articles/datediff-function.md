@@ -82,7 +82,7 @@ This example uses the  **DateDiff** function to display the number of days betwe
 Dim TheDate As Date    ' Declare variables.
 Dim Msg
 TheDate = InputBox("Enter a date")
-Msg = "Days from today: " &; DateDiff("d", Now, TheDate)
+Msg = "Days from today: " & DateDiff("d", Now, TheDate)
 MsgBox Msg
 
 

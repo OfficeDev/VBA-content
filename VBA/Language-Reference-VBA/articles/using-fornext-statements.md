@@ -29,7 +29,7 @@ Sub TwosTotal()
     For j = 2 To 10 Step 2 
         total = total + j 
     Next j 
-    MsgBox "The total is " &; total 
+    MsgBox "The total is " & total 
 End Sub
 ```
 
@@ -40,7 +40,7 @@ Sub NewTotal()
     For myNum = 16 To 2 Step -2 
         total = total + myNum 
     Next myNum 
-    MsgBox "The total is " &; total 
+    MsgBox "The total is " & total 
 End Sub
 ```
 

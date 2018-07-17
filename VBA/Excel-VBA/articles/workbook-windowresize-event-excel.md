@@ -38,7 +38,7 @@ This example runs when any workbook window is resized.
 
 ```vb
 Private Sub Workbook_WindowResize(ByVal Wn As Excel.Window) 
- Application.StatusBar = Wn.Caption &; " resized" 
+ Application.StatusBar = Wn.Caption & " resized" 
 End Sub
 ```
 

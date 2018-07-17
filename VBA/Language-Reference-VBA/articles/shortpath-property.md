@@ -30,9 +30,9 @@ Sub ShowShortPath(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
-    s = "The short path for " &; "" &; UCase(f.Name)
-    s = s &; "" &; vbCrLf
-    s = s &; "is: " &; "" &; f.ShortPath &; ""
+    s = "The short path for " & "" & UCase(f.Name)
+    s = s & "" & vbCrLf
+    s = s & "is: " & "" & f.ShortPath & ""
     MsgBox s, 0, "Short Path Info"
 End Sub
 ```

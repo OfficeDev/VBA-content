@@ -37,7 +37,7 @@ This example displays the path and file name of the active document.
 
 
 ```vb
-MsgBox ActiveDocument.Path &; Application.PathSeparator &; _ 
+MsgBox ActiveDocument.Path & Application.PathSeparator & _ 
  ActiveDocument.Name
 ```
 

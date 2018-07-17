@@ -37,8 +37,8 @@ This example displays the path and file name of the data source attached to the 
 Sub DataSourceName() 
  With ActiveDocument.MailMerge.DataSource 
  If .Name <> "" Then _ 
- MsgBox "The path and file name of the " &; _ 
- "attached data source is : " &; vbCr &; .Name 
+ MsgBox "The path and file name of the " & _ 
+ "attached data source is : " & vbCr & .Name 
  End With 
 End Sub
 ```

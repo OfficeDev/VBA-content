@@ -50,10 +50,10 @@ For Each pgLoop In ActiveDocument.Pages
  
  With shpLoop.PictureFormat 
  
- Debug.Print "File Name: " &; .Filename 
- Debug.Print "Vertical Scaling: " &; .VerticalScale &; "%" 
- Debug.Print "Original Image Width: " &; .OriginalWidth &; " points" 
- Debug.Print "Width in publication: " &; .Width &; " points" 
+ Debug.Print "File Name: " & .Filename 
+ Debug.Print "Vertical Scaling: " & .VerticalScale & "%" 
+ Debug.Print "Original Image Width: " & .OriginalWidth & " points" 
+ Debug.Print "Width in publication: " & .Width & " points" 
  
  End With 
  End If 

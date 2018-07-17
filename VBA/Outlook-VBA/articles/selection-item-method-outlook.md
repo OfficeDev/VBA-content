@@ -69,18 +69,18 @@ Sub GetSelectedItems()
  If myOlSel.Item(x).Class = OlObjectClass.olMail Then 
  ' For mail item, use the SenderName property. 
  Set oMail = myOlSel.Item(x) 
- MsgTxt = MsgTxt &; oMail.SenderName &; ";" 
+ MsgTxt = MsgTxt & oMail.SenderName & ";" 
  ElseIf myOlSel.Item(x).Class = OlObjectClass.olAppointment Then 
  ' For appointment item, use the Organizer property. 
  Set oAppt = myOlSel.Item(x) 
- MsgTxt = MsgTxt &; oAppt.Organizer &; ";" 
+ MsgTxt = MsgTxt & oAppt.Organizer & ";" 
  Else 
  ' For other items, use the property accessor to get sender ID, 
  ' then get the address entry to display the sender name. 
  Set oPA = myOlSel.Item(x).PropertyAccessor 
  strSenderID = oPA.GetProperty(PR_SENT_REPRESENTING_ENTRYID) 
  Set mySender = Application.Session.GetAddressEntryFromID(strSenderID) 
- MsgTxt = MsgTxt &; mySender.Name &; ";" 
+ MsgTxt = MsgTxt & mySender.Name & ";" 
  End If 
  Next x 
  Debug.Print MsgTxt 

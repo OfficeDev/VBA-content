@@ -31,7 +31,7 @@ answer = InputBox(Prompt:="What is your name?")
  MsgBox Prompt:="You did not enter a name." 
  Else 
  ' MsgBox function concatenated with the variable answer 
- MsgBox Prompt:="Your name is " &; answer 
+ MsgBox Prompt:="Your name is " & answer 
  ' Ends the If...Then...Else statement 
  End If 
 ' Ends the Sub procedure 

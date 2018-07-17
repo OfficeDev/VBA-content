@@ -52,7 +52,7 @@ Private Sub objReminders_Snooze(ByVal ReminderObject As Reminder)
  'Occurs when a user clicks Snooze or when snooze is 
  'programmatically executed. 
  MsgBox "The reminder was originally set at " _ 
- &; ReminderObject.OriginalReminderDate 
+ & ReminderObject.OriginalReminderDate 
 End Sub
 ```
 

@@ -45,11 +45,11 @@ Dim intReply As Integer
 With ExcelApp 
  If .FeatureInstall = msoFeatureInstallNone Then 
  intReply = MsgBox("Uninstalled features for " _ 
- &; "this application may " &; vbCrLf _ 
- &; "cause a run-time error when called." _ 
- &; vbCrLf &; vbCrLf _ 
- &; "Would you like to change this setting" &; vbCrLf _ 
- &; "to automatically install missing features?", _ 
+ & "this application may " & vbCrLf _ 
+ & "cause a run-time error when called." _ 
+ & vbCrLf & vbCrLf _ 
+ & "Would you like to change this setting" & vbCrLf _ 
+ & "to automatically install missing features?", _ 
  vbYesNo, "Feature Install Setting") 
  If intReply = vbYes Then 
  .FeatureInstall = msoFeatureInstallOnDemand 

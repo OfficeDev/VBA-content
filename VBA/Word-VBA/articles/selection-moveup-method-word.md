@@ -54,9 +54,9 @@ This example displays the current line number, moves the selection up three line
 
 
 ```vb
-MsgBox "Line " &; Selection.Information(wdFirstCharacterLineNumber) 
+MsgBox "Line " & Selection.Information(wdFirstCharacterLineNumber) 
 Selection.MoveUp Unit:=wdLine, Count:=3, Extend:=wdMove 
-MsgBox "Line " &; Selection.Information(wdFirstCharacterLineNumber)
+MsgBox "Line " & Selection.Information(wdFirstCharacterLineNumber)
 ```
 
 

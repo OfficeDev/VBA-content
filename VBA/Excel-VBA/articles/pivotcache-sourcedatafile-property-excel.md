@@ -42,7 +42,7 @@ Sub CheckSourceConnection()
  
  On Error GoTo No_Connection 
  
- MsgBox "The data source connection is: " &; _ 
+ MsgBox "The data source connection is: " & _ 
  pvtCache.SourceDataFile 
  Exit Sub 
  

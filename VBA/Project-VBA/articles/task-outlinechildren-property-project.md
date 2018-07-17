@@ -35,10 +35,10 @@ Sub Siblings()
  Set MyParent = ActiveCell.Task.OutlineParent 
  
  For Each Sibling In MyParent.OutlineChildren 
- Temp = Sibling.Name &; ListSeparator &; " " &; Temp 
+ Temp = Sibling.Name & ListSeparator & " " & Temp 
  Next Sibling 
  
- Temp = Left$(Temp, Len(Temp) - Len(ListSeparator &; " ")) 
+ Temp = Left$(Temp, Len(Temp) - Len(ListSeparator & " ")) 
  MsgBox Temp 
  
 End Sub

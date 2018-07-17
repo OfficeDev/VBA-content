@@ -53,13 +53,13 @@ Sub CheckOutOpenEnterpriseProjects()
     For Each proj In openProjects
         If Application.IsCheckedOut(proj.Name) Then
             If proj.Type = pjProjectTypeEnterpriseCheckedOut Then
-                Debug.Print "'" &; proj.Name &; "'" &; " is already checked out."
+                Debug.Print "'" & proj.Name & "'" & " is already checked out."
             ElseIf proj.Type = pjProjectTypeNonEnterprise Then
-                Debug.Print "'" &; proj.Name &; "'" &; " is not an enterprise project."
+                Debug.Print "'" & proj.Name & "'" & " is not an enterprise project."
             End If
         Else
             proj.CheckoutProject
-            Debug.Print "Attempted to check out: '" &; proj.Name &; "'"
+            Debug.Print "Attempted to check out: '" & proj.Name & "'"
         End If
     Next proj
 End Sub

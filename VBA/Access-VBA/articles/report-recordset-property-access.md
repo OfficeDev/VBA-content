@@ -109,7 +109,7 @@ Sub SupplierID_AfterUpdate()
  
     Set rst = Me.Recordset 
     strSearchName = CStr(Me!SupplierID) 
-    rst.FindFirst "SupplierID = " &; strSearchName 
+    rst.FindFirst "SupplierID = " & strSearchName 
     If rst.NoMatch Then 
         MsgBox "Record not found" 
     End If 

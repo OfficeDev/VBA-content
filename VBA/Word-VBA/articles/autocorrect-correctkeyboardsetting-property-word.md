@@ -35,7 +35,7 @@ This example displays a dialog box where the user can choose whether or not Word
 
 ```vb
 x = MsgBox("Do you want Microsoft Word to tranpose " _ 
- &; "foreign words to their native alphabet?", _ 
+ & "foreign words to their native alphabet?", _ 
  vbYesNo) 
 If x = vbYes Then 
  Application.CheckLanguage = True 

@@ -34,7 +34,7 @@ This example displays the name of the active printer.
 
 
 ```vb
-MsgBox "The name of the active printer is " &; ActivePrinter
+MsgBox "The name of the active printer is " & ActivePrinter
 ```
 
 This example makes a network HP LaserJet IIISi printer the active printer.

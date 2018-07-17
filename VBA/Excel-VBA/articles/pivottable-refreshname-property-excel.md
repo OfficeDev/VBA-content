@@ -35,7 +35,7 @@ This example displays the name of the person who last refreshed the PivotTable r
 
 ```vb
 Set pvtTable = Worksheets("Sheet1").Range("A3").PivotTable 
-MsgBox "The data was last refreshed by " &; pvtTable.RefreshName
+MsgBox "The data was last refreshed by " & pvtTable.RefreshName
 ```
 
 

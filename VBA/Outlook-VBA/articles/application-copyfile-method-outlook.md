@@ -59,7 +59,7 @@ Sub CopyFileSample()
  
  Set ExcelApp = CreateObject("Excel.Application") 
  
- strPath = ExcelApp.DefaultFilePath &; "\MyExcelDoc.xlsx" 
+ strPath = ExcelApp.DefaultFilePath & "\MyExcelDoc.xlsx" 
  
  Set ExcelSheet = ExcelApp.Workbooks.Add 
  

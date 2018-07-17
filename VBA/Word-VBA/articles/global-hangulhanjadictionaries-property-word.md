@@ -38,8 +38,8 @@ This example adds a new, blank custom dictionary to the collection. The path and
 ```vb
 Set myHome = _ 
  HangulHanjaDictionaries.Add(Filename:="Home.hhd") 
-Msgbox myHome.Path &; Application.PathSeparator _ 
- &; myHome.Name
+Msgbox myHome.Path & Application.PathSeparator _ 
+ & myHome.Name
 ```
 
 This example deactivates all custom dictionaries but does not delete the custom dictionary files.

@@ -47,7 +47,7 @@ mySel = Selection.Font.Size
 If mySel = wdUndefined Then 
  MsgBox "there is a mix of font sizes in the selection." 
 Else 
- MsgBox mySel &; " points" 
+ MsgBox mySel & " points" 
 End If
 ```
 

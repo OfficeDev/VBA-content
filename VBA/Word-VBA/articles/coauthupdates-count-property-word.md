@@ -29,8 +29,8 @@ The following code example displays the number of content updates that were merg
 
 
 ```vb
-MsgBox "The active document contains " &; _ 
-    ActiveDocument.CoAuthoring.Updates.Count &; " update(s)."
+MsgBox "The active document contains " & _ 
+    ActiveDocument.CoAuthoring.Updates.Count & " update(s)."
 ```
 
 

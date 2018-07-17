@@ -54,12 +54,12 @@ If LifeTime <> Int(MonthLife / YRMOS) Then
 End If 
 DepYear = CInt(InputBox("Enter year for depreciation calculation."))
 Do While DepYear < 1 Or DepYear > LifeTime
-    MsgBox "You must enter at least 1 but not more than " &; LifeTime
+    MsgBox "You must enter at least 1 but not more than " & LifeTime
     DepYear = InputBox("Enter year for depreciation calculation.")
 Loop
 Depr = DDB(InitCost, SalvageVal, LifeTime, DepYear)
-MsgBox "The depreciation for year " &; DepYear &; " is " &; _
-Format(Depr, Fmt) &; "."
+MsgBox "The depreciation for year " & DepYear & " is " & _
+Format(Depr, Fmt) & "."
 ```
 
 

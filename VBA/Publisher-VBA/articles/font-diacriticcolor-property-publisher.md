@@ -46,7 +46,7 @@ Sub FontDiColor()
  MsgBox "Your text is red" 
  Else 
  MsgBox "This is not a right-to-left language" _ 
- &; " or your color is not red" 
+ & " or your color is not red" 
  End If 
  
 End Sub

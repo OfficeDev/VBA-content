@@ -52,7 +52,7 @@ Sub Initialize_handler()
 End Sub 
  
 Private Sub mySync_OnError(ByVal Code As Long, ByVal Description As String) 
- MsgBox "Unexpected sync error" &; Code &; ": " &; Description 
+ MsgBox "Unexpected sync error" & Code & ": " & Description 
 End Sub
 ```
 

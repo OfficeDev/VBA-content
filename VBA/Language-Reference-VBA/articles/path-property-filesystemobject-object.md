@@ -29,10 +29,10 @@ Sub ShowFileAccessInfo(filespec)
     Dim fs, d, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
-    s = UCase(f.Path) &; vbCrLf
-    s = s &; "Created: " &; f.DateCreated &; vbCrLf
-    s = s &; "Last Accessed: " &; f.DateLastAccessed &; vbCrLf
-    s = s &; "Last Modified: " &; f.DateLastModified  
+    s = UCase(f.Path) & vbCrLf
+    s = s & "Created: " & f.DateCreated & vbCrLf
+    s = s & "Last Accessed: " & f.DateLastAccessed & vbCrLf
+    s = s & "Last Modified: " & f.DateLastModified  
     MsgBox s, 0, "File Access Info"
 End Sub
 ```

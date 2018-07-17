@@ -55,9 +55,9 @@ Sub TestStoresForSynchronousSearch()
  
  For Each oStore In Outlook.Session.Stores 
  
- folderPath = "'" &; oStore.GetRootFolder.folderPath &; "'" 
+ folderPath = "'" & oStore.GetRootFolder.folderPath & "'" 
  
- Debug.Print folderPath &; " IsSearchSynchronous = " &; _ 
+ Debug.Print folderPath & " IsSearchSynchronous = " & _ 
  
  Application.IsSearchSynchronous(folderPath) 
  

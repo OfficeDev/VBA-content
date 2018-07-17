@@ -29,7 +29,7 @@ The following code sample uses the  **PivotCell** property to get the Multi-dime
 ```vb
 Sub GetMDX()
    'Get the MDX query for a particular PivotCell in a workbook level PivotTable
-   MsgBox "The MDX for the PivotCell 1, 1: " &; _
+   MsgBox "The MDX for the PivotCell 1, 1: " & _
    ThisWorkbook.PivotTables(1).PivotValueCell(1, 1).PivotCell.MDX
 End Sub
 ```

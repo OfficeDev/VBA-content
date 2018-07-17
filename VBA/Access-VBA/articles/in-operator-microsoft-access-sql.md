@@ -73,9 +73,9 @@ Sub InX()
     ' Select records from the Orders table that 
     ' have a ShipRegion value of Lancashire or Essex. 
     Set rst = dbs.OpenRecordset("SELECT " _ 
-        &; "CustomerID, ShippedDate FROM Orders " _ 
-        &; "WHERE ShipRegion In " _ 
-        &; "('Lancashire','Essex');") 
+        & "CustomerID, ShippedDate FROM Orders " _ 
+        & "WHERE ShipRegion In " _ 
+        & "('Lancashire','Essex');") 
      
     ' Populate the Recordset. 
     rst.MoveLast 

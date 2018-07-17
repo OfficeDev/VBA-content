@@ -43,8 +43,8 @@ Sub ClassNamer()
     Do
         Dim Inst As New Class1    ' Create a new instance of Class1.
         Num = Num + 1    ' Increment Num, then get a name.
-        Msg = "Please enter a name for this object." &; Chr(13) _
-         &; "Press Cancel to see names in collection."
+        Msg = "Please enter a name for this object." & Chr(13) _
+         & "Press Cancel to see names in collection."
         TheName = InputBox(Msg, "Name the Collection Items")
         Inst.InstanceName = TheName    ' Put name in object instance.
         ' If user entered name, add it to the collection.
@@ -56,7 +56,7 @@ Sub ClassNamer()
         Set Inst = Nothing
     Loop Until TheName = ""
     For Each MyObject In MyClasses    ' Create list of names.
-        NameList = NameList &; MyObject.InstanceName &; Chr(13)
+        NameList = NameList & MyObject.InstanceName & Chr(13)
     Next MyObject
     ' Display the list of names in a message box.
     MsgBox NameList, , "Instance Names In MyClasses Collection"

@@ -54,7 +54,7 @@ Choose if you want the Recordset brought back Synchronously on thecurrent callin
 <TR><TD>Synchronously: <BR>
 <Input Type="Radio" Name="optExecuteOptions" Checked OnClick="SetExO('adcExecSync')"></TD>
 <TD>Asynchronously: <BR><Input Type="Radio" Name="optExecuteOptions" OnClick="SetExO('adcExecAsync')">
-</TD><TD>&;nbsp;</TD>
+</TD><TD>&nbsp;</TD>
 </TR><TR>
 <TD COLSPAN=3 BGCOLOR=silver>Fetch Up Front, Background Fetch with Blocking or Background Fetch
 without Blocking</TD>

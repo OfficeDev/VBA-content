@@ -48,7 +48,7 @@ Sub TableCategories()
         If Not (IsEmpty(varCat)) Then 
             'Form a string out of the item's categories 
             For j = 0 To UBound(varCat) 
-                strCategories = strCategories &; (varCat(j)) &; ", " 
+                strCategories = strCategories & (varCat(j)) & ", " 
             Next 
             'Remove last trailing ", " 
             strCategories = Left(strCategories, Len(strCategories) - 2) 
@@ -57,7 +57,7 @@ Sub TableCategories()
             strCategories = "" 
         End If 
         Debug.Print ("Subject: " _ 
-           &; oRow("Subject") &; vbCrLf &; "Categories: ") &; strCategories &; vbCrLf 
+           & oRow("Subject") & vbCrLf & "Categories: ") & strCategories & vbCrLf 
     Loop 
 End Sub
 ```

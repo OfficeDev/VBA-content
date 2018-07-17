@@ -85,7 +85,7 @@ Sub SetContactsFolderAsInitialAddressList()
  
  .Caption = "Select Customer Contact" 
  
- .ToLabel = "Customer C&;ontact" 
+ .ToLabel = "Customer C&ontact" 
  
  .NumberOfRecipientSelectors = olShowTo 
  

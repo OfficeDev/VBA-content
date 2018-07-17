@@ -80,7 +80,7 @@ Public Sub Menus_Example()
  Set vsoMenuItem = vsoMenuItems.Add 
  
  'Set the Caption property for the new menu item. 
- vsoMenuItem.Caption = "&;MyNewMenuItem" 
+ vsoMenuItem.Caption = "&MyNewMenuItem" 
  
  'Tell Visio to use the new UI when the document is active. 
  ThisDocument.SetCustomMenus vsoUIObject 

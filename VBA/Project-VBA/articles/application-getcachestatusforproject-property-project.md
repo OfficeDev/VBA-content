@@ -54,7 +54,7 @@ Sub TestCacheStatus()
     
         Application.Publish
         If WaitForJob(PjJobType.pjCacheProjectPublish, millisec2Wait) Then
-            Debug.Print "Publish completed: " &; ActiveProject.Name
+            Debug.Print "Publish completed: " & ActiveProject.Name
         End If
     Else
         Debug.Print "Save job not completed"
@@ -99,7 +99,7 @@ Function WaitForJob(job As PjJobType, msWait As Long) As Boolean
     Else
         Do
             jobState = Application.GetCacheStatusForProject(ActiveProject.Name, job)
-            Debug.Print jobType &; " job state: " &; jobState
+            Debug.Print jobType & " job state: " & jobState
             
             ' Bail out if something is wrong.
             If jobState = previousJobState Then bail = bail + 1

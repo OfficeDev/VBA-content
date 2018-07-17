@@ -44,7 +44,7 @@ Values(1) = 22000 : Values(2) = 25000
 Values(3) = 28000 : Values(4) = 31000
 RetRate = IRR(Values(), Guess) * 100    ' Calculate internal rate.
 Msg = "The internal rate of return for these five cash flows is "
-Msg = Msg &; Format(RetRate, Fmt) &; " percent."
+Msg = Msg & Format(RetRate, Fmt) & " percent."
 MsgBox Msg    ' Display internal return rate.
 
 

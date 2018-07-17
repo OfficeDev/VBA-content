@@ -63,8 +63,8 @@ Sub AvgX()
     ' Calculate the average freight charges for orders 
     ' with freight charges over $100.   
     Set rst = dbs.OpenRecordset("SELECT Avg(Freight)" _ 
-        &; " AS [Average Freight]" _ 
-        &; " FROM Orders WHERE Freight > 100;") 
+        & " AS [Average Freight]" _ 
+        & " FROM Orders WHERE Freight > 100;") 
     
     ' Populate the Recordset. 
     rst.MoveLast 

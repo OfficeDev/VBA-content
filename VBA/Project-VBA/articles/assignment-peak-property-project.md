@@ -36,11 +36,11 @@ Sub FindOverassigned()
  If Not (T Is Nothing) Then 
  For Each A In T.Assignments 
  If A.Peak > TooMany Then 
- Results = Results &; T.Name &; ": " &; A.ResourceName &; vbCrLf 
+ Results = Results & T.Name & ": " & A.ResourceName & vbCrLf 
  End If 
  Next A 
- If Results <> "" Then MsgBox "The following resources are " &; _ 
- "assigned more than " &; TooMany &; " units:" &; vbCrLf &; Results 
+ If Results <> "" Then MsgBox "The following resources are " & _ 
+ "assigned more than " & TooMany & " units:" & vbCrLf & Results 
  Results = "" 
  End If 
  Next T 

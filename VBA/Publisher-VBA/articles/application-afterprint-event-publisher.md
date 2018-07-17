@@ -45,7 +45,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to h
 
 ```vb
 Private Sub pubApplication_AfterPrint(ByVal Doc As Document) 
- MsgBox "Printing of " &; Doc.Name &; "is complete." 
+ MsgBox "Printing of " & Doc.Name & "is complete." 
 End Sub
 ```
 

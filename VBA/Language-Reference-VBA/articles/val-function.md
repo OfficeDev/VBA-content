@@ -32,7 +32,7 @@ In the code below,  **Val** returns the decimal value -1 for the hexadecimal val
 
 
 ```vb
-Val("&;HFFFF")
+Val("&HFFFF")
 ```
 
 

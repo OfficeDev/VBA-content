@@ -56,9 +56,9 @@ Selection.TextRange.Font.Size = 10
  
 ' Display result for one line of text. 
 strOutput = "1 line = " _ 
- &; Format(Application _ 
+ & Format(Application _ 
  .LinesToPoints(Value:=1), _ 
- "0.00") &; " points"
+ "0.00") & " points"
 ```
 
 

@@ -74,8 +74,8 @@ Sub GetManagerOpenInterval()
  TimeValue(DateBusySlot) <= TimeValue(#5:00:00 PM#) And _ 
  Not (Weekday(DateBusySlot) = vbSaturday Or _ 
  Weekday(DateBusySlot) = vbSunday) Then 
- Debug.Print oManager.name &; " first open interval:" &; _ 
- vbCrLf &; _ 
+ Debug.Print oManager.name & " first open interval:" & _ 
+ vbCrLf & _ 
  Format$(DateBusySlot, "dddd, mmm d yyyy hh:mm AMPM") 
  Exit For 
  End If 

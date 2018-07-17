@@ -48,8 +48,8 @@ This example returns the value of the foreground color of the first shape on the
 
 ```vb
 Sub ShowFillColor() 
- MsgBox "The RGB fill value of this shape is " &; _ 
- ActiveDocument.Pages(1).Shapes(1).Fill.ForeColor.RGB &; "." 
+ MsgBox "The RGB fill value of this shape is " & _ 
+ ActiveDocument.Pages(1).Shapes(1).Fill.ForeColor.RGB & "." 
 End Sub
 ```
 

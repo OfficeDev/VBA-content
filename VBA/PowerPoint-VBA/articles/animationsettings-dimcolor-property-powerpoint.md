@@ -52,7 +52,7 @@ With ActivePresentation.Slides.Add(2, ppLayoutText).Shapes
 
     With .Item(2)
         .TextFrame.TextRange.Text = "Item one" _
-            &; Chr(13) &; "Item two"
+            & Chr(13) & "Item two"
         With .AnimationSettings
             .TextLevelEffect = ppAnimateByFirstLevel
             .AfterEffect = ppAfterEffectDim

@@ -26,7 +26,7 @@ On Error GoTo ErrorHandler
    Set dbsNorthwind = CurrentDb 
  
    Set qdfSalesReps = dbsNorthwind.CreateQueryDef("SalesRepQuery") 
-   qdfSalesReps.SQL = "SELECT * FROM Employees WHERE Title = " &; _ 
+   qdfSalesReps.SQL = "SELECT * FROM Employees WHERE Title = " & _ 
                       "'Sales Representative'" 
  
    Set rstSalesReps = qdfSalesReps.OpenRecordset() 
@@ -48,7 +48,7 @@ On Error GoTo ErrorHandler
    Exit Sub 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Sub 
  
 Sub AddQueryFilter(rstData As Recordset) 
@@ -74,12 +74,12 @@ On Error GoTo ErrorHandler
       strRightSQL = Right(qdfData.SQL, 1) 
    Loop 
  
-   qdfData.SQL = qdfData.SQL &; " AND " &; strNewFilter 
+   qdfData.SQL = qdfData.SQL & " AND " & strNewFilter 
    rstData.Requery qdfData         'Requery the Recordset. 
    rstData.MoveLast               'Populate the Recordset. 
  
    ' "Lastname LIKE 'D*'" should return 2 records. 
-   MsgBox "Number of records found:  " &; rstData.RecordCount &; "." 
+   MsgBox "Number of records found:  " & rstData.RecordCount & "." 
  
    qdfData.Close 
    Set qdfData = Nothing 
@@ -87,7 +87,7 @@ On Error GoTo ErrorHandler
    Exit Sub 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Sub
 ```
 

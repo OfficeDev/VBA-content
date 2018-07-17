@@ -70,9 +70,9 @@ Sub MinMaxX()
     ' Return the lowest and highest freight charges for  
     ' orders shipped to the United Kingdom. 
     Set rst = dbs.OpenRecordset("SELECT " _  
-        &; "Min(Freight) AS [Low Freight], " _ 
-        &; "Max(Freight)AS [High Freight] " _ 
-        &; "FROM Orders WHERE ShipCountry = 'UK';") 
+        & "Min(Freight) AS [Low Freight], " _ 
+        & "Max(Freight)AS [High Freight] " _ 
+        & "FROM Orders WHERE ShipCountry = 'UK';") 
      
     ' Populate the Recordset. 
     rst.MoveLast 

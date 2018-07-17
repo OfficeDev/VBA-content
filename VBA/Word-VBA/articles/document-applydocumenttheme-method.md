@@ -38,7 +38,7 @@ The following example applies the Verve document theme to the active document.
 
 ```vb
 ActiveDocument.ApplyDocumentTheme _ 
- "C:\Program Files\Microsoft Office\" &; _ 
+ "C:\Program Files\Microsoft Office\" & _ 
  "Document Themes 12\Verve.thmx"
 ```
 

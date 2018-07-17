@@ -42,7 +42,7 @@ Set dicHyphen = Languages(lngLanguage).ActiveHyphenationDictionary
 If dicHyphen Is Nothing Then 
  MsgBox "No hyphenation dictionary installed!" 
 Else 
- MsgBox dicHyphen.Path &; Application.PathSeparator &; dicHyphen.Name 
+ MsgBox dicHyphen.Path & Application.PathSeparator & dicHyphen.Name 
 End If
 ```
 

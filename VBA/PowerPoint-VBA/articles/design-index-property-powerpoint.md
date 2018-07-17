@@ -43,8 +43,8 @@ Sub EffectInfo()
 
     For Each effIndex In seqMain
         With effIndex
-            MsgBox "Effect Name: " &; .DisplayName &; vbLf &; _
-                "Effect Index: " &; .Index
+            MsgBox "Effect Name: " & .DisplayName & vbLf & _
+                "Effect Index: " & .Index
         End With
     Next
 

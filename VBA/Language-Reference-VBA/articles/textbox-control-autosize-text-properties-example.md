@@ -29,12 +29,12 @@ To use this example, copy this sample code to the Declarations portion of a form
 ```vb
 Private Sub UserForm_Initialize() 
  TextBox1.Text = "Single-line TextBox. " _ 
- &; "Type your text here." 
+ & "Type your text here." 
  
  TextBox2.MultiLine = True 
  TextBox2.Text = "Multi-line TextBox. Type " _ 
- &; "your text here. Use CTRL+ENTER to start " _ 
- &; "a new line." 
+ & "your text here. Use CTRL+ENTER to start " _ 
+ & "a new line." 
  
  ToggleButton1.Value = True 
  ToggleButton1.Caption = "AutoSize On" 

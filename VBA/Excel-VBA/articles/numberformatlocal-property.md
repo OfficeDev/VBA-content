@@ -27,7 +27,7 @@ This example displays the number format for the data labels in the first series 
 
 
 ```vb
-MsgBox "The number format for the first series is " &; _ 
+MsgBox "The number format for the first series is " & _ 
  myChart.SeriesCollection(1).DataLabels.NumberFormatLocal
 ```
 

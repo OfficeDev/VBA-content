@@ -63,10 +63,10 @@ This example adds an envelope to the active document, using predefined addresses
 Dim strAddress As String 
 Dim strReturn As String 
  
-strAddress = "Darlene Rudd" &; vbCr &; "1234 E. Main St." _ 
- &; vbCr &; "Our Town, WA 98004" 
-strReturn = "Patricia Reed" &; vbCr &; "N. 33rd St." _ 
- &; vbCr &; "Other Town, WA 98040" 
+strAddress = "Darlene Rudd" & vbCr & "1234 E. Main St." _ 
+ & vbCr & "Our Town, WA 98004" 
+strReturn = "Patricia Reed" & vbCr & "N. 33rd St." _ 
+ & vbCr & "Other Town, WA 98040" 
 ActiveDocument.Envelope.Insert _ 
  Address:=strAddress, ReturnAddress:=strReturn 
 With ActiveDocument.Envelope 

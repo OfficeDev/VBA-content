@@ -33,8 +33,8 @@ Sub SpeechCheck()
  
  ' Determine mode setting and notify user. 
  If Application.Speech.SpeakCellOnEnter = True Then 
- MsgBox "The Speak On Enter mode is turned on. " &; _ 
- "The active cell will be spoken when the ENTER "&; _ 
+ MsgBox "The Speak On Enter mode is turned on. " & _ 
+ "The active cell will be spoken when the ENTER "& _ 
  "key is pressed or it is done being edited." 
  Else 
  MsgBox "The Speaker On Enter mode is turned off." 

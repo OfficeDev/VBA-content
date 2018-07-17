@@ -63,15 +63,15 @@ Sub SaveAsTXT()
  
  Dim strPrompt As String 
  
- strPrompt = "Are you sure you want to save the item? " &; _ 
+ strPrompt = "Are you sure you want to save the item? " & _ 
  
- "If a file with the same name already exists, " &; _ 
+ "If a file with the same name already exists, " & _ 
  
  "it will be overwritten with this copy of the file." 
  
  If MsgBox(strPrompt, vbYesNo + vbQuestion) = vbYes Then 
  
- objItem.SaveAs Environ("HOMEPATH") &; "\My Documents\" &; strname &; ".txt", olTXT 
+ objItem.SaveAs Environ("HOMEPATH") & "\My Documents\" & strname & ".txt", olTXT 
  
  End If 
  

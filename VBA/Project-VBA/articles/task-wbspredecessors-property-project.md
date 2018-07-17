@@ -45,15 +45,15 @@ Sub EnumeratePredecessors()
  Count = 1 
  
  If PredTasks.Count = 0 Then 
- List = "Task " &; Task.UniqueID &; ", " &; Task.Name &; ", has no predecessors." 
+ List = "Task " & Task.UniqueID & ", " & Task.Name & ", has no predecessors." 
  Else 
- List = "Predecessors to task " &; Task.UniqueID &; ", " &; Task.Name &; ":" &; vbCrLf &; vbCrLf 
+ List = "Predecessors to task " & Task.UniqueID & ", " & Task.Name & ":" & vbCrLf & vbCrLf 
  Do While InStr(Predecessors, ListSeparator) <> 0 
- List = List &; PredTasks(Count).Name &; ": " &; Mid$(Predecessors, 1, InStr(Predecessors, ListSeparator) - 1) &; vbCrLf 
+ List = List & PredTasks(Count).Name & ": " & Mid$(Predecessors, 1, InStr(Predecessors, ListSeparator) - 1) & vbCrLf 
  Predecessors = Right$(Predecessors, Len(Predecessors) - InStr(Predecessors, ListSeparator)) 
  Count = Count + 1 
  Loop 
- List = List &; PredTasks(Count).Name &; ": " &; Predecessors 
+ List = List & PredTasks(Count).Name & ": " & Predecessors 
  End If 
  
  MsgBox List 

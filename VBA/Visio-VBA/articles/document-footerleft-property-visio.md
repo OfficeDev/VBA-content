@@ -62,7 +62,7 @@ Sub FooterLeft_Example()
     Dim strFooter as String 
  
     'Build the footer string.  
-    strFooter = "The date is " &; "&;D"  
+    strFooter = "The date is " & "&D"  
  
     'Set the footer of the current document.  
     ThisDocument.FooterLeft = strFooter  

@@ -40,7 +40,7 @@ Sub SaveAndStatus()
  
  Application.ActiveDocument.SaveAs "c:\testfile.pub" 
  bStatus = Application.ActiveDocument.ReadOnly 
- MsgBox "File Saved and Read-only Status = " &; bStatus 
+ MsgBox "File Saved and Read-only Status = " & bStatus 
  
 End Sub
 ```

@@ -96,8 +96,8 @@ Public Function OrdersCount(ByVal strCountry As String, _
                             ByVal dteShipDate As Date) As Integer 
  
     OrdersCount = DCount("[ShippedDate]", "Orders", _ 
-                  "[ShipCountry] = '" &; strCountry &; _ 
-                  "' AND [ShippedDate] > #" &; dteShipDate &; "#") 
+                  "[ShipCountry] = '" & strCountry & _ 
+                  "' AND [ShippedDate] > #" & dteShipDate & "#") 
 End Function
 ```
 

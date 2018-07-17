@@ -43,8 +43,8 @@ This example displays an ODBC error.
 
 ```vb
 Set er = Application.ODBCErrors.Item(1) 
-MsgBox "The following error occurred:" &; 
- er.ErrorString &; " : " &; er.SqlState
+MsgBox "The following error occurred:" & 
+ er.ErrorString & " : " & er.SqlState
 ```
 
 

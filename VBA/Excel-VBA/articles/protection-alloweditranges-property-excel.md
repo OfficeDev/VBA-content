@@ -51,8 +51,8 @@ Sub UseAllowEditRanges()
  ' Notify the user 
  ' the title and address of the range. 
  With wksOne.Protection.AllowEditRanges.Item(1) 
- MsgBox "Title of range: " &; .Title 
- MsgBox "Address of range: " &; .Range.Address 
+ MsgBox "Title of range: " & .Title 
+ MsgBox "Address of range: " & .Range.Address 
  End With 
  
 End Sub

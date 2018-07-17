@@ -43,7 +43,7 @@ Private Sub UserForm_Initialize()
  Dim i As Integer 
  
  For i = 1 To 9 
- ComboBox1.AddItem "Choice " &; i 
+ ComboBox1.AddItem "Choice " & i 
  Next i 
  ComboBox1.AddItem "Chocoholic" 
  

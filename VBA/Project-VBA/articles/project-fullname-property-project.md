@@ -50,7 +50,7 @@ Sub CloseFile()
  Next P 
  
  ' Inform user if the file is not found. 
- MsgBox ("Could not find the file " &; FileName &; ".") 
+ MsgBox ("Could not find the file " & FileName & ".") 
  
 End Sub
 ```

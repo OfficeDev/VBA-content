@@ -31,11 +31,11 @@ Private Declare Function SQLCancel Lib "ODBC32.dll" _
 Private Sub UserForm_Click()
     Dim RetVal
     ' Call with invalid argument.
-    RetVal = SQLCancel(myhandle&;)
+    RetVal = SQLCancel(myhandle&)
     ' Check for SQL error code.    
     If RetVal = -2 Then
         'Display the information code.
-        MsgBox "Error code is :" &; Err. LastDllError 
+        MsgBox "Error code is :" & Err. LastDllError 
     End If
 End Sub
 ```

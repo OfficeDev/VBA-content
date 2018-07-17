@@ -47,7 +47,7 @@ On Error GoTo ErrorHandler
 Exit Function 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Function
 ```
 

@@ -32,8 +32,8 @@ This example sets the comments for the e-mail header of the active document.
 Sub HeaderComments() 
  
  ActiveDocument.MailEnvelope.Introduction = _ 
- "Please review this document and let me know " &; _ 
- "what you think. I need your input by Friday." &; _ 
+ "Please review this document and let me know " & _ 
+ "what you think. I need your input by Friday." & _ 
  " Thanks." 
  
 End Sub

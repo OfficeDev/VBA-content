@@ -60,8 +60,8 @@ This example displays a message box that reports the number of items in each lis
 Set myDoc = Documents("MyLetter.doc") 
 i = myDoc.Lists.Count 
 For each li in myDoc.Lists 
- Msgbox "List " &; i &; " has " &; li.CountNumberedItems _ 
- &; " items." 
+ Msgbox "List " & i & " has " & li.CountNumberedItems _ 
+ & " items." 
  i = i - 1 
 Next li
 ```

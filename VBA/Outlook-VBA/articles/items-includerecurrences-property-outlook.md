@@ -63,9 +63,9 @@ Sub DemoFindNext()
  
  myAppointments.IncludeRecurrences = True 
  
- Set currentAppointment = myAppointments.Find("[Start] >= """ &; _ 
+ Set currentAppointment = myAppointments.Find("[Start] >= """ & _ 
  
- tdystart &; """ and [Start] <= """ &; tdyend &; """") 
+ tdystart & """ and [Start] <= """ & tdyend & """") 
  
  While TypeName(currentAppointment) <> "Nothing" 
  

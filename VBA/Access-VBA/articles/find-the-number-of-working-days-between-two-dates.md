@@ -51,7 +51,7 @@ Exit Function
  Exit Function 
  Else 
 ' If some other error occurs, provide a message. 
- MsgBox "Error " &; Err.Number &; ": " &; Err.Description 
+ MsgBox "Error " & Err.Number & ": " & Err.Description 
  End If 
  
 End Function

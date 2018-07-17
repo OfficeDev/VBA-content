@@ -47,13 +47,13 @@ Dim strValid As String
 For Each objNode In ActiveDocument.XMLNodes 
  objNode.Validate 
  If objNode.ValidationStatus <> wdXMLValidationStatusOK Then 
- strValid = strValid &; objNode.BaseName &; vbTab &; _ 
- objNode.ValidationErrorText &; vbCrLf 
+ strValid = strValid & objNode.BaseName & vbTab & _ 
+ objNode.ValidationErrorText & vbCrLf 
  End If 
 Next 
  
-MsgBox "The following elements do not validate against " &; _ 
- "the schema." &; vbCrLf &; vbCrLf &; strValid &; vbCrLf &; _ 
+MsgBox "The following elements do not validate against " & _ 
+ "the schema." & vbCrLf & vbCrLf & strValid & vbCrLf & _ 
  "You should fix these elements before continuing."
 ```
 

@@ -39,7 +39,7 @@ This example prompts the user to delete or keep each AutoCorrect exception on th
 For Each anEntry In _ 
  AutoCorrect.OtherCorrectionsExceptions 
  response = MsgBox("Delete entry: " _ 
- &; anEntry.Name, vbYesNoCancel) 
+ & anEntry.Name, vbYesNoCancel) 
  If response = vbYes Then 
  anEntry.Delete 
  Else 

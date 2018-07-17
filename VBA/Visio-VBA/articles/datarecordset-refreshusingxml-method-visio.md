@@ -97,23 +97,23 @@ Public Sub RefreshUsingXML_Example()
 intCount = ThisDocument.DataRecordsets.Count 
  
     strXML = "<xml xmlns:s='uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882'" + Chr(10) _ 
-    &; "xmlns:dt='uuid:C2F41010-65B3-11d1-A29F-00AA00C14882'" + Chr(10) _ 
-    &; "xmlns:rs='urn:schemas-microsoft-com:rowset'" + Chr(10) _ 
-    &; "xmlns:z='#RowsetSchema'>" + Chr(10) _ 
-    &; "<s:Schema id='RowsetSchema'>" + Chr(10) _ 
-    &; "<s:ElementType name='row' content='eltOnly' rs:updatable='true'>" + Chr(10) _ 
-    &; "<s:AttributeType name='c1' rs:name='Cities'" + Chr(10) _ 
-    &; "rs:number='2' rs:nullable='true' rs:maydefer='true' rs:write='true'>" + Chr(10) _ 
-    &; "<s:datatype dt:type='string' dt:maxLength='255' rs:precision='0'/>" + Chr(10) _ 
-    &; "</s:AttributeType>" + Chr(10) _ 
-    &; "<s:extends type='rs:rowbase'/>" + Chr(10) _ 
-    &; "</s:ElementType>" + Chr(10) _ 
-    &; "</s:Schema>" + Chr(10) _ 
-    &; "<rs:data>" + Chr(10) _ 
-    &; "<z:row c1='New York'/>" + Chr(10) _ 
-    &; "<z:row c1='London'/>" + Chr(10) _ 
-    &; "</rs:data>" + Chr(10) _ 
-    &; "</xml>" 
+    & "xmlns:dt='uuid:C2F41010-65B3-11d1-A29F-00AA00C14882'" + Chr(10) _ 
+    & "xmlns:rs='urn:schemas-microsoft-com:rowset'" + Chr(10) _ 
+    & "xmlns:z='#RowsetSchema'>" + Chr(10) _ 
+    & "<s:Schema id='RowsetSchema'>" + Chr(10) _ 
+    & "<s:ElementType name='row' content='eltOnly' rs:updatable='true'>" + Chr(10) _ 
+    & "<s:AttributeType name='c1' rs:name='Cities'" + Chr(10) _ 
+    & "rs:number='2' rs:nullable='true' rs:maydefer='true' rs:write='true'>" + Chr(10) _ 
+    & "<s:datatype dt:type='string' dt:maxLength='255' rs:precision='0'/>" + Chr(10) _ 
+    & "</s:AttributeType>" + Chr(10) _ 
+    & "<s:extends type='rs:rowbase'/>" + Chr(10) _ 
+    & "</s:ElementType>" + Chr(10) _ 
+    & "</s:Schema>" + Chr(10) _ 
+    & "<rs:data>" + Chr(10) _ 
+    & "<z:row c1='New York'/>" + Chr(10) _ 
+    & "<z:row c1='London'/>" + Chr(10) _ 
+    & "</rs:data>" + Chr(10) _ 
+    & "</xml>" 
  
     ThisDocument.DataRecordsets(intCount).RefreshUsingXML(strXML) 
  

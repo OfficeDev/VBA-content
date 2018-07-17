@@ -84,7 +84,7 @@ Sub SortByDueDate()
  
  For Each myItem In myItems 
  
- MsgBox myItem.Subject &; " " &; myItem.DueDate 
+ MsgBox myItem.Subject & " " & myItem.DueDate 
  
  Next myItem 
  

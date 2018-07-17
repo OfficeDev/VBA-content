@@ -58,7 +58,7 @@ Sub ItemProperty()
  
  Set objItem = objItems.Item(2) 
  
- MsgBox objItem.Name &; " = " &; objItem.Value 
+ MsgBox objItem.Name & " = " & objItem.Value 
  
 End Sub
 ```

@@ -26,7 +26,7 @@ Private Sub CommandButton1_Click()
  Set myMail = Application.CreateItem(olMailItem) 
  With myMail 
  .To = TextBox1.Text 
- .Subject = "Book overdue: " &; TextBox2.Text 
+ .Subject = "Book overdue: " & TextBox2.Text 
  .Body = "Please return this book as soon as possible." 
  End With 
  myMail.Send 

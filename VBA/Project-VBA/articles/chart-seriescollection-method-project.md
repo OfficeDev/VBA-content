@@ -58,8 +58,8 @@ Sub GetSeriesValue()
         
         If (seriesInChart.Count > 1) Then
             Set chartSeries = theChart.SeriesCollection("Actual Work")
-            Debug.Print "Value of the Actual Work series, for task " &; chartSeries.XValues(1) _
-                &; ": " &; chartSeries.Values(1)
+            Debug.Print "Value of the Actual Work series, for task " & chartSeries.XValues(1) _
+                & ": " & chartSeries.Values(1)
         End If
         
     End If

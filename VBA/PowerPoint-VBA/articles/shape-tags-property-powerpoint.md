@@ -66,7 +66,7 @@ For Each s In Application.ActivePresentation.Slides
 
               slNum = .Parent.SlideIndex
 
-              MsgBox "Slide " &; slNum &; " Priority: " &; .Value(i)
+              MsgBox "Slide " & slNum & " Priority: " & .Value(i)
 
           End If
 
@@ -78,7 +78,7 @@ For Each s In Application.ActivePresentation.Slides
 
           .Add "Priority", "Unknown"
 
-          MsgBox "Slide " &; slNum &; " Priority tag added: Unknown"
+          MsgBox "Slide " & slNum & " Priority tag added: Unknown"
 
         End If
 

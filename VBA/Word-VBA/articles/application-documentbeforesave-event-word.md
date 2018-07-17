@@ -54,7 +54,7 @@ Private Sub appWord_DocumentBeforeSave _
  Dim intResponse As Integer 
  
  intResponse = MsgBox("Do you really want to " _ 
- &; "save the document?", _ 
+ & "save the document?", _ 
  vbYesNo) 
  
  If intResponse = vbNo Then Cancel = True 

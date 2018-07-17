@@ -76,13 +76,13 @@ Public Sub NameU_Example()
  vsoLayer.Add vsoShape, 1 
  
  'Verify that the shape has been assigned to 2 layers. 
- Debug.Print "The page has " &; vsoShape.LayerCount &; " layers." 
+ Debug.Print "The page has " & vsoShape.LayerCount & " layers." 
  
  'Get a reference to the first layer. 
  Set vsoLayer = vsoShape.Layer(1) 
  
  'Verify by using the NameU property. 
- Debug.Print "Current vsoLayer name is """ &; vsoLayer.NameU &; ".""" 
+ Debug.Print "Current vsoLayer name is """ & vsoLayer.NameU & ".""" 
  
 End Sub
 ```

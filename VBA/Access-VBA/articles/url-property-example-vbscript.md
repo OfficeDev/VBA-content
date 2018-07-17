@@ -113,8 +113,8 @@ const adPersistXML = 1
 Dim strSQL, rsEmployees 
 Dim strCnxn, Cnxn 
 
-strCnxn = "Provider='sqloledb';Data Source=" &; _ 
-Request.ServerVariables("SERVER_NAME") &; ";" &; _ 
+strCnxn = "Provider='sqloledb';Data Source=" & _ 
+Request.ServerVariables("SERVER_NAME") & ";" & _ 
 "Integrated Security='SSPI';Initial Catalog='Northwind';" 
 
 Set Cnxn = Server.CreateObject("ADODB.Connection") 

@@ -49,11 +49,11 @@ Public Sub SelectedCell_Example()
  
  'If vsoCell is Nothing, a row is probably selected. 
  If (Not vsoCell Is Nothing) Then 
- Debug.Print "Cell Name: " &; vsoCell.Name 
- Debug.Print "Section: " &; vsoCell.Section 
- Debug.Print "Row: " &; vsoCell.Row 
- Debug.Print "Column: " &; vsoCell.Column 
- Debug.Print "Formula: " &; vsoCell.Formula 
+ Debug.Print "Cell Name: " & vsoCell.Name 
+ Debug.Print "Section: " & vsoCell.Section 
+ Debug.Print "Row: " & vsoCell.Row 
+ Debug.Print "Column: " & vsoCell.Column 
+ Debug.Print "Formula: " & vsoCell.Formula 
  Else 
  Debug.Print "vsoCell is Nothing--a row is probably selected." 
  

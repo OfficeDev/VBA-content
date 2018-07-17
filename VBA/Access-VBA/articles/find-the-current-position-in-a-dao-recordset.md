@@ -52,7 +52,7 @@ On Error GoTo ErrorHandler
       Do Until .EOF 
          If !HireDate < #1/1/93# Then 
             .Edit 
-            !Notes = !Notes &; ";" &; "Senior Staff" 
+            !Notes = !Notes & ";" & "Senior Staff" 
             .Update 
          End If 
  
@@ -74,7 +74,7 @@ On Error GoTo ErrorHandler
 Exit Sub 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
    varReturn = SysCmd(acSysCmdSetStatus, " ") 
 End Sub
 ```

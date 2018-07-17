@@ -18,7 +18,7 @@ Use the  **Documents** property to return the **Documents** collection. The foll
 
 ```vb
 For Each aDoc In Documents 
- aName = aName &; aDoc.Name &; vbCr 
+ aName = aName & aDoc.Name & vbCr 
 Next aDoc 
 MsgBox aName
 ```

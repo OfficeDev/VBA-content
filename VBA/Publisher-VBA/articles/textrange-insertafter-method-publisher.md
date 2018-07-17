@@ -45,7 +45,7 @@ This example adds the Microsoft Publisher build number to the end of the first s
 Sub AppendText() 
  With ActiveDocument.Pages(1).Shapes(1) 
  .TextFrame.TextRange.InsertAfter _ 
- NewText:="Microsoft Publisher Build : " &; Build 
+ NewText:="Microsoft Publisher Build : " & Build 
  End With 
 End Sub
 ```

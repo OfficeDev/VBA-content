@@ -31,7 +31,7 @@ In this example, Microsoft Excel determines the quantity of objects that have be
 ```vb
 Sub CountUsedObjects() 
  
- MsgBox "The number of used objects in this application is: " &; _ 
+ MsgBox "The number of used objects in this application is: " & _ 
  Application.UsedObjects.Count 
  
 End Sub

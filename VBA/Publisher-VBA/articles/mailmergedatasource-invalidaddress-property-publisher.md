@@ -48,8 +48,8 @@ Sub ExcludeRecords()
  With .DataSource 
  .Included = False 
  .InvalidAddress = True 
- .InvalidComments = "This record is removed " &; _ 
- "from the mail merge because its postal code" &; _ 
+ .InvalidComments = "This record is removed " & _ 
+ "from the mail merge because its postal code" & _ 
  "has less than five digits." 
  End With 
  End If 

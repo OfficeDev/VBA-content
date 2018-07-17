@@ -36,7 +36,7 @@ This example asks the user whether Microsoft Word should ignore auxiliary verb f
 ```vb
 If Options.AllowCombinedAuxiliaryForms = False Then 
  x = MsgBox("Do you want to ignore auxiliary " _ 
- &; "verb forms when checking spelling?", _ 
+ & "verb forms when checking spelling?", _ 
  vbYesNo) 
  If x = vbYes Then 
  Options.AllowCombinedAuxiliaryForms = True 

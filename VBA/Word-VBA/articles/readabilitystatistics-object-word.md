@@ -18,7 +18,7 @@ Use the  **ReadabilityStatistics** property to return the **ReadabilityStatistic
 
 ```vb
 For Each rs in Selection.Range.ReadabilityStatistics 
- Msgbox rs.Name &; " - " &; rs.Value 
+ Msgbox rs.Name & " - " & rs.Value 
 Next rs
 ```
 

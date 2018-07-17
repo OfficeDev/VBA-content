@@ -39,7 +39,7 @@ If Worksheets("Sheet1").AutoFilterMode Then
 Else 
  isOn = "Off" 
 End If 
-MsgBox "AutoFilterMode is " &; isOn
+MsgBox "AutoFilterMode is " & isOn
 ```
 
 

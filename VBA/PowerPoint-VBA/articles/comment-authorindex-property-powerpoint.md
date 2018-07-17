@@ -42,16 +42,16 @@ Sub GetCommentAuthorInfo()
     With ActivePresentation.Slides(1)
         If .Comments.Count > 0 Then
             For Each cmtComment In .Comments
-                strAuthorInfo = strAuthorInfo &; "Comment Number:  " &; _
-                    cmtComment.AuthorIndex &; vbLf &; _
-                    "Made by:  " &; cmtComment.Author &; vbLf &; _
-                    "Says:  " &; cmtComment.Text &; vbLf &; vbLf
+                strAuthorInfo = strAuthorInfo & "Comment Number:  " & _
+                    cmtComment.AuthorIndex & vbLf & _
+                    "Made by:  " & cmtComment.Author & vbLf & _
+                    "Says:  " & cmtComment.Text & vbLf & vbLf
             Next cmtComment
         End If
     End With
 
-    MsgBox "The comments for this slide are as follows: " &; _
-        vbLf &; vbLf &; strAuthorInfo
+    MsgBox "The comments for this slide are as follows: " & _
+        vbLf & vbLf & strAuthorInfo
 
 End Sub
 ```
