@@ -1,120 +1,35 @@
 {
-    "build_entry_point": "",
-    "need_generate_pdf": false,
-    "git_repository_url_open_to_public_contributors": "",
-    "docsets_to_publish": [
-        {
-            "docset_name": "Access-VBAs",
-            "build_output_subfolder": "Access-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-       {
-            "docset_name": "Excel-VBA",
-            "build_output_subfolder": "Excel-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Language-Reference-VBA",
-            "build_output_subfolder": "Language-Reference-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Library-Reference-VBA",
-            "build_output_subfolder": "Library-Reference-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Office-Mac-VBA",
-            "build_output_subfolder": "Office-Mac-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Outlook-VBA",
-            "build_output_subfolder": "Outlook-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Powerpoint-VBA",
-            "build_output_subfolder": "Powerpoint-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Project-VBA",
-            "build_output_subfolder": "Project-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Publisher-VBA",
-            "build_output_subfolder": "Publisher-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Visio-VBA",
-            "build_output_subfolder": "Visio-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        },
-        {
-            "docset_name": "Word-VBA",
-            "build_output_subfolder": "Word-VBA",
-            "locale": "en-us",
-            "version": 0,
-            "open_to_public_contributors": "false",
-            "type_mapping": {
-                "Conceptual": "Content"
-            }
-        }  
-    ],
-    "notification_subscribers": ["lauragra@microsoft.com", "saldana@microsoft.com"], 
-    "branches_to_filter": ["live"] 
-
+  "build_entry_point": "op",
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "VBA",
+      "build_source_folder": "VBA",
+      "build_output_subfolder": "vba",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    }
+  ],
+  "notification_subscribers": [
+    "lauragra@microsoft.com",
+    "saldana@microsoft.com",
+    "johnau@microsoft.com"
+  ],
+  "branches_to_filter": [
+    ""
+  ],
+  "git_repository_url_open_to_public_contributors": "https://github.com/OfficeDev/VBA-content",
+  "git_repository_branch_open_to_public_contributors": "master",
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [],
+  "need_generate_pdf_url_template": false
 }
