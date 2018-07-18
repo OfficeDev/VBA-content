@@ -18,7 +18,7 @@ ms.date: 06/08/2017
  **Description**
 Moves one or more files from one location to another.
  **Syntax**
- _object_. **MoveFile**_source_, _destination_
+ _object_.**MoveFile** _source_, _destination_
 The  **MoveFile** method syntax has these parts:
 
 
@@ -35,7 +35,7 @@ If  _source_ contains wildcards or _destination_ ends with a path separator ( **
     
 - If  _destination_ is an existing file, an error occurs.
     
-- If desti _n_ ation is a directory, an error occurs.
+- If  _destination_ is a directory, an error occurs.
     
 
 An error also occurs if a wildcard character that is used in  _source_ doesn't match any files. The **MoveFile** method stops on the first error it encounters. No attempt is made to roll back any changes made before the error occurs.
