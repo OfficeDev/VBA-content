@@ -39,6 +39,7 @@ ActiveWorksheet.SortFields.Sort Header:=xlGuess
 |**Name**|
 |:-----|
 |[Add](sortfields-add-method-excel.md)|
+|[Add2](sortfields-add2-method-excel.md)|
 |[Clear](sortfields-clear-method-excel.md)|
 
 ## Properties
