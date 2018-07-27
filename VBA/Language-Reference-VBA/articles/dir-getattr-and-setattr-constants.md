@@ -28,4 +28,10 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 
 Only  **VbNormal**, **vbReadOnly**, **vbHidden**, and **vbAlias** are available on the Macintosh.
 
+## See also
 
+[Dir Function](dir-function.md)
+
+[GetAttr Function](getattr-function.md)
+
+[SetAttr Statement](setattr-statement.md)
