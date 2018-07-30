@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Height Property (Excel)
 
-Returns or sets a  **Variant** value that represents the height, in points, of the range.
+Returns a **Double** value that represents the height, in points, of the range.
 
 
 ## Syntax
