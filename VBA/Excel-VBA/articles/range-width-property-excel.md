@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Width Property (Excel)
 
-Returns a  **Variant** value that represents the width, in units, of the range.
+Returns a  **Double** value that represents the width of a range in points.
 
 
 ## Syntax
@@ -21,6 +21,11 @@ Returns a  **Variant** value that represents the width, in units, of the range.
  _expression_ . **Width**
 
  _expression_ A variable that represents a **Range** object.
+
+
+## Remarks
+
+To set the width, use the **[ColumnWidth](range-columnwidth-property-excel.md)** Property.
 
 
 ## See also
