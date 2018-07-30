@@ -13,43 +13,29 @@ ms.date: 06/08/2017
 
 # Tab Object (Excel)
 
-Represents a tab in a chart or a worksheet.
+Represents the tab of a chart or worksheet.
 
 
 ## Remarks
 
-Use the  **[Tab](chart-tab-property-excel.md)** property of the **[Chart](chart-object-excel.md)** object or **[Worksheet](worksheet-object-excel.md)** object to return a **Tab** object.
-
-Once a  **Tab** object is returned, you can use the **[ColorIndex](tab-colorindex-property-excel.md)** property determine the settings of a tab for a chart or worksheet.
+Use the  **Tab** property of the **[Chart](chart-object-excel.md)** object or **[Worksheet](worksheet-object-excel.md)** object to return a **Tab** object.
 
 
-## Example
+## Properties
 
-In the following example, Microsoft Excel determines if the worksheet's first tab color index is set to none and notifies the user.
-
-
-```vb
-Sub CheckTab() 
- 
- ' Determine if color index of 1st tab is set to none. 
- If Worksheets(1).Tab.ColorIndex = xlColorIndexNone Then 
- MsgBox "The color index is set to none for the first " &; _ 
- "worksheet tab." 
- Else 
- MsgBox "The color index for the tab of the first worksheet " &; _ 
- "is not set none." 
- End If 
- 
-End Sub
-```
+|**Name**|
+|:-----|
+|[Application Property](tab-application-property-excel.md)|
+|[Color Property](tab-color-property-excel.md)|
+|[ColorIndex Property](tab-colorindex-property-excel.md)|
+|[Creator Property](tab-creator-property-excel.md)|
+|[Parent Property](tab-parent-property-excel.md)|
+|[ThemeColor Property](tab-themecolor-property-excel.md)|ty
+|[TintAndShade Property](tab-tintandshade-property-excel.md)|
 
 
 ## See also
 
+[Chart.Tab Property](chart-tab-property-excel.md)
 
-#### Other resources
-
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
-
-
+[Worksheet.Tab Property](worksheet-tab-property-excel.md)
