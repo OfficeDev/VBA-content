@@ -23,6 +23,11 @@ Returns a **Double** value that represents the height, in points, of the range.
  _expression_ A variable that represents a **Range** object.
 
 
+## Remarks
+
+To set the height, use the **[RowHeight](range-rowheight-property-excel.md)** Property.
+
+
 ## See also
 
 
