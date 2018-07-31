@@ -366,4 +366,4 @@ This section contains documentation for the enumerations in the Word object mode
 
 ## See Also
 
-[Constants (Visual Basic for Applications)](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/constants-visual-basic-for-applications)
+[Visual Basic Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-constants)
