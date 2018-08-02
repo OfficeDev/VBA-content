@@ -20,6 +20,7 @@ The object that is returned by the  **onLoad** procedure specified on the **cust
 
 You can customize the Ribbon user interface (UI) by using callback procedures in COM add-ins. When the host application starts, the  **onLoad** callback procedure is called. The callback procedure then returns a **IRibbonUI** object pointing to the user interface (UI). YOu can use that object to invoke the **Invalidate**, **InvalidateControl**, and **Refresh** methods.
 
+The iRibbonUI does not generate Events in its interaction with the user. Instead, ribbon elements perform *callbacks* to your code, and the linkage between ribbon elements and your code is defined in the XML that describes your ribbon additions. For information about the callback functions available for each UI element, see https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2007/aa722523(v=office.12) and search for "How can I determine the correct signatures for each callback procedure?"
 
 ## Example
 
@@ -46,6 +47,7 @@ End Sub
 
 ## See also
 
+[RibbonXML Callbacks]https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2007/aa722523(v=office.12)
 
 #### Concepts
 
