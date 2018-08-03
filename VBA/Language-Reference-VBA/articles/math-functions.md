@@ -18,13 +18,22 @@ ms.date: 06/08/2017
 [Cos Function](cos-function.md)
 
 [Exp Function](exp-function.md)
+
 [Fix Function](int-fix-functions.md)
+
 [Int Function](int-fix-functions.md)
+
 [Log Function](log-function.md)
+
 [Rnd Function](rnd-function.md)
+
 [Sgn Function](sgn-function.md)
+
 [Sin Function](sin-function.md)
+
 [Sqr Function](sqr-function.md)
+
 [Tan Function](tan-function.md)
+
 [Derived Math Functions](derived-math-functions.md)
 
