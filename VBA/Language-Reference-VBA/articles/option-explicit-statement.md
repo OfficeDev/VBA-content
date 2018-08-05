@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # Option Explicit Statement
 
-Used at [module level](vbe-glossary.md) to force explicit declaration of all[variables](vbe-glossary.md) in that[module](vbe-glossary.md).
+Used at [module level](vbe-glossary.md) to force explicit declaration of all [variables](vbe-glossary.md) in that [module](vbe-glossary.md).
 
  **Syntax**
 
  **Option Explicit**
 
  **Remarks**
-If used, the  **Option** **Explicit** statement must appear in a module before any[procedures](vbe-glossary.md).
-When  **Option Explicit** appears in a module, you must explicitly declare all variables using the **Dim**, **Private**, **Public**, **ReDim**, or **Static** statements. If you attempt to use an undeclared variable name, an error occurs at[compile time](vbe-glossary.md).
+If used, the  **Option** **Explicit** statement must appear in a module before any [procedures](vbe-glossary.md).
+When  **Option Explicit** appears in a module, you must explicitly declare all variables using the **Dim**, **Private**, **Public**, **ReDim**, or **Static** statements. If you attempt to use an undeclared variable name, an error occurs at [compile time](vbe-glossary.md).
 If you don't use the  **Option Explicit** statement, all undeclared variables are of **Variant** type unless the default type is otherwise specified with a **Def**_type_ statement.
 
- **Note**  Use  **Option Explicit** to avoid incorrectly typing the name of an existing variable or to avoid confusion in code where the[scope](vbe-glossary.md) of the variable is not clear.
+ **Note**  Use  **Option Explicit** to avoid incorrectly typing the name of an existing variable or to avoid confusion in code where the [scope](vbe-glossary.md) of the variable is not clear.
 
 
 ## Example
