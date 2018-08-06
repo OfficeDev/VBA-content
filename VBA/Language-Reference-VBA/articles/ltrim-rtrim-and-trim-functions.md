@@ -38,3 +38,16 @@ TrimString = LTrim(RTrim(MyString))    ' TrimString = "<-Trim->".
 ' Using the Trim function alone achieves the same result.
 TrimString = Trim(MyString)    ' TrimString = "<-Trim->".
 ```
+
+The **Trim** function returns a different result than the **[WorksheetFunction.Trim](worksheetfunction-trim-method-excel.md)** method, which removes extra spaces everywhere in a string.
+
+```vb
+Dim MyString As String, TrimString As String
+MyString = "  a     b  "                       ' MyString = "  a     b  "
+TrimString = Trim(MyString)                    ' TrimString = "a     b"
+TrimString = WorksheetFunction.Trim(MyString)  ' TrimString = "a b"
+```
+
+## See also
+
+[WorksheetFunction Object](worksheetfunction-object-excel.md)
