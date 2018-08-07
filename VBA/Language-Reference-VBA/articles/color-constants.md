@@ -27,6 +27,8 @@ The following [constants](vbe-glossary.md#constant) can be used anywhere in your
 |**vbWhite**|0xFFFFFF|White|
 
 
-## See Also
+## See also
 
 [RGB Function](rgb-function.md)
+
+[XlRgbColor Enumeration](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/xlrgbcolor-enumeration-excel) (available in Excel, PowerPoint, and Word)
