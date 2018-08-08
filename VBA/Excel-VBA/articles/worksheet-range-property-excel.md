@@ -18,7 +18,7 @@ Returns a  **[Range](range-object-excel.md)** object that represents a cell or a
 
 ## Syntax
 
- _expression_ . **Range**( **_Cell1_** , **_Cell2_** )
+ _expression_ . **Range** ( **_Arg1_** , **_Arg2_** )
 
  _expression_ A variable that represents a **Worksheet** object.
 
@@ -29,14 +29,21 @@ Returns a  **[Range](range-object-excel.md)** object that represents a cell or a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Cell1_|Required| **Variant**|The name of the range. This must be an A1-style reference in the language of the macro. It can include the range operator (a colon), the intersection operator (a space), or the union operator (a comma). It can also include dollar signs, but they?re ignored. You can use a local defined name in any part of the range. If you use a name, the name is assumed to be in the language of the macro.|
-| _Cell2_|Optional| **Variant**|The cell in the upper-left and lower-right corner of the range. Can be a  **Range** object that contains a single cell, an entire column, or entire row, or it can be a string that names a single cell in the language of the macro.|
+| _Arg1_|Required| **Variant**|A **String** that is a range reference when one argument is used. Either a **String** that is a range reference or a **Range** object when two arguments are used.|
+| _Arg2_|Optional| **Variant**|Either a **String** that is a range reference or a **Range** object. _Arg2_ defines another extremity of the range returned by the property.|
+
 
 ## Remarks
 
+_Arg1_ and _Arg2_ can be A1-style references in the language of the macro. The range references can include the range operator (a colon), intersection operator (a space), or union operator (a comma). They can also include dollar signs, which are ignored. A local defined name can be a range reference. If you use a name, the name is assumed to be in the language of the macro.   
+
+_Arg1_ and _Arg2_ can be **Range** objects that contain a single cell, an entire column, or entire row, or any other range of cells.
+
+Often, _Arg1_ and _Arg2_ are single cells in the upper-left and lower-right corner of the range returned.
+
 When used without an object qualifier, this property is a shortcut for  `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn?t a worksheet, the property fails).
 
-When applied to a  **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, then `Selection.Range("B1")` returns cell D3 because it?s relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
+When applied to a  **Range** object, the property is relative to the **Range** object. For example, if the selection is cell C3, then `Selection.Range("B1")` returns cell D3 because it is relative to the **Range** object returned by the **Selection** property. On the other hand, the code `ActiveSheet.Range("B1")` always returns cell B1.
 
 
 ## Example
@@ -94,6 +101,19 @@ This example sets the font style in cells A1:C5 on Sheet1 to italic. The example
 Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _ 
  Font.Italic = True 
 
+```
+
+This example compares the **Worksheet.Range** property, **[Application.Union](application-union-method-excel.md)** method, and **[Application.Intersect](application-intersect-method-excel.md)** method.
+
+```vb
+Range("A1:A10").Select                            'Selects cells A1 to A10.
+Range(Range("A1"), Range("A10")).Select           'Selects cells A1 to A10.
+
+Range("A1, A10").Select                           'Selects cells A1 and A10.
+Union(Range("A1"), Range("A10")).Select           'Selects cells A1 and A10.
+
+Range("A1:A5 A5:A10").Select                      'Selects cell A5.
+Intersect(Range("A1:A5"), Range("A5:A10")).Select 'Selects cell A5.
 ```
 
 
