@@ -76,7 +76,7 @@ Set bigRange = Application.Union(Range("Range1"), Range("Range2"))
 bigRange.Formula = "=RAND()"
 ```
 
-This example compares the **[Worksheet.Range](worksheet-range-property-excel.md)** property, **[Application.Union](application-union-method-excel.md)** method, and **[Application.Intersect](application-intersect-method-excel.md)** method.
+This example compares the **[Worksheet.Range](worksheet-range-property-excel.md)** property, **Application.Union** method, and **[Application.Intersect](application-intersect-method-excel.md)** method.
 
 ```vb
 Range("A1:A10").Select                            'Selects cells A1 to A10.
@@ -85,6 +85,7 @@ Range(Range("A1"), Range("A10")).Select           'Selects cells A1 to A10.
 Range("A1, A10").Select                           'Selects cells A1 and A10.
 Union(Range("A1"), Range("A10")).Select           'Selects cells A1 and A10.
 
+Range("A1:A5 A5:A10").Select                      'Selects cell A5.
 Intersect(Range("A1:A5"), Range("A5:A10")).Select 'Selects cell A5.
 ```
 
