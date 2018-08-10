@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Width Property (Excel)
 
-Returns a  **Double** value that represents the width of a range in points.
+Returns a  **Double** value that represents the width of a range in points. Read-only.
 
 
 ## Syntax
