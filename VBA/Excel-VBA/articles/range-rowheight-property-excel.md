@@ -27,9 +27,11 @@ Returns or sets the height of rows in the range specified, measured in points. R
 
 **RowHeight** sets the height for all rows in a range.
 
-Use the  **[Height](range-height-property-excel.md)** property to return the total height of a range of cells.
+Use the **[AutoFit](range-autofit-method-excel.md)** method to set row heights based on the contents of cells.
 
-**Note**  When a range contains rows of different heights, **RowHeight** might return the height of the first row or might return **Null**. 
+Use the **[Height](range-height-property-excel.md)** property to return the total height of a range of cells.
+
+**Note**  When a range contains rows of different heights, **RowHeight** might return the height of the first row or might return **Null**.
 
 
 ## Example
@@ -54,3 +56,5 @@ End With
 [Range.Height Property](range-height-property-excel.md)
 
 [Slicer.RowHeight Property](slicer-rowheight-property-excel.md)
+
+[Range.AutoFit Method](range-autofit-method-excel.md)
