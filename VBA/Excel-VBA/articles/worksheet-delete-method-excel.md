@@ -30,7 +30,10 @@ Boolean
 
 ## Remarks
 
-When you delete a  **[Worksheet](worksheet-object-excel.md)** , this method displays a dialog box that prompts the user to confirm the deletion. This dialog box is displayed by default. When called on the **Worksheet** object, the **Delete** method returns a **Boolean** value that is **False** if the user clicked **Cancel** on the dialog box or **True** if the user clicked **Delete**.
+When you delete a  **[Worksheet](worksheet-object-excel.md)**, this method displays a dialog box that prompts the user to confirm the deletion. This dialog box is displayed by default. When called on the **Worksheet** object, the **Delete** method returns a **Boolean** value that is **False** if the user clicked **Cancel** on the dialog box or **True** if the user clicked **Delete**.
+
+To delete a worksheet without displaying a dialog box, set the **[Application.DisplayAlerts](application-displayalerts-property-excel.md)** property to **False**.
+
 
 
 ## See also
