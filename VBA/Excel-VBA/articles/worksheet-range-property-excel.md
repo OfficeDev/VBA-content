@@ -18,7 +18,7 @@ Returns a  **[Range](range-object-excel.md)** object that represents a cell or a
 
 ## Syntax
 
- _expression_ . **Range** ( **_Arg1_** , **_Arg2_** )
+ _expression_ . **Range** ( _Cell1_ , _Cell2_ )
 
  _expression_ A variable that represents a **Worksheet** object.
 
@@ -29,17 +29,17 @@ Returns a  **[Range](range-object-excel.md)** object that represents a cell or a
 
 |**Name**|**Required/Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required| **Variant**|A **String** that is a range reference when one argument is used. Either a **String** that is a range reference or a **Range** object when two arguments are used.|
-| _Arg2_|Optional| **Variant**|Either a **String** that is a range reference or a **Range** object. _Arg2_ defines another extremity of the range returned by the property.|
+| _Cell1_|Required| **Variant**|A **String** that is a range reference when one argument is used. Either a **String** that is a range reference or a **Range** object when two arguments are used.|
+| _Cell2_|Optional| **Variant**|Either a **String** that is a range reference or a **Range** object. _Cell2_ defines another extremity of the range returned by the property.|
 
 
 ## Remarks
 
-_Arg1_ and _Arg2_ can be A1-style references in the language of the macro. The range references can include the range operator (a colon), intersection operator (a space), or union operator (a comma). They can also include dollar signs, which are ignored. A local defined name can be a range reference. If you use a name, the name is assumed to be in the language of the macro.   
+_Cell1_ and _Cell2_ can be A1-style references in the language of the macro. The range references can include the range operator (a colon), intersection operator (a space), or union operator (a comma). They can also include dollar signs, which are ignored. A local defined name can be a range reference. If you use a name, the name is assumed to be in the language of the macro.   
 
-_Arg1_ and _Arg2_ can be **Range** objects that contain a single cell, an entire column, or entire row, or any other range of cells.
+_Cell1_ and _Cell2_ can be **Range** objects that contain a single cell, column, row, or any other range of cells.
 
-Often, _Arg1_ and _Arg2_ are single cells in the upper-left and lower-right corner of the range returned.
+Often, _Cell1_ and _Cell2_ are single cells in the upper-left and lower-right corner of the range returned.
 
 When used without an object qualifier, this property is a shortcut for  `ActiveSheet.Range` (it returns a range from the active sheet; if the active sheet isn?t a worksheet, the property fails).
 
