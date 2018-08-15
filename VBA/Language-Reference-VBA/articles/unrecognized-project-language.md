@@ -24,3 +24,5 @@ The specified code [locale](vbe-glossary.md) for the[project](vbe-glossary.md) t
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+2018-08-16: One working solution for this problem is to unselect the UTF-8 beta setting in the Control Panel - Regional Settings - Administrative settings. The original solution in Vietnamese (use Google Translate to read): https://blog.hocexcel.online/sua-loi-unrecognized-project-language-trong-vba.html 
+
