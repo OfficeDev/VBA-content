@@ -31,7 +31,10 @@ Once a collection is created, members can be added using the  **[Add](add-method
 
 ## Example
 
-This example creates a  **Collection** object (`MyClasses`), and then creates a dialog box in which users can add objects to the collection. To see how this works, choose the  **Class Module** command from the **Insert** menu and declare a public variable called `InstanceName` at module level of Class1 (type **Public** `InstanceName)` to hold the names of each instance. Leave the default name as Class1. Copy and paste the following code into the General section of another module, and then start it with the statement `ClassNamer` in another procedure. (This example only works with host applications that support classes.)
+This example creates a  **Collection** object (`MyClasses`) and then creates a dialog box in which users can add objects to the collection. 
+
+To see how this works, choose the Class Module command from the Insert menu and declare a public variable called `InstanceName` at the module level of Class1 (type `Public InstanceName`) to hold the names of each instance. Leave the default name as Class1. Copy and paste the following code into the General section of another module, and then start it with the statement `ClassNamer` in another procedure. (This example only works with host applications that support classes.)
+
 
 ```vb
 Sub ClassNamer()
@@ -42,8 +45,8 @@ Sub ClassNamer()
     Do
         Dim Inst As New Class1    ' Create a new instance of Class1.
         Num = Num + 1    ' Increment Num, then get a name.
-        Msg = "Please enter a name for this object." &; Chr(13) _
-         &; "Press Cancel to see names in collection."
+        Msg = "Please enter a name for this object." & Chr(13) _
+         & "Press Cancel to see names in collection."
         TheName = InputBox(Msg, "Name the Collection Items")
         Inst.InstanceName = TheName    ' Put name in object instance.
         ' If user entered name, add it to the collection.
@@ -55,14 +58,14 @@ Sub ClassNamer()
         Set Inst = Nothing
     Loop Until TheName = ""
     For Each MyObject In MyClasses    ' Create list of names.
-        NameList = NameList &; MyObject.InstanceName &; Chr(13)
+        NameList = NameList & MyObject.InstanceName & Chr(13)
     Next MyObject
     ' Display the list of names in a message box.
     MsgBox NameList, , "Instance Names In MyClasses Collection"
     For Num = 1 To MyClasses.Count    ' Remove name from the collection.
         MyClasses.Remove 1    ' Since collections are reindexed
-                ' automatically, remove the first
-    Next        ' member on each iteration.
+                              ' automatically, remove the first
+    Next                      ' member on each iteration.
 End Sub
 ```
 
