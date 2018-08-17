@@ -15,6 +15,8 @@ ms.date: 06/08/2017
 
 Occurs when a document is opened.
 
+[!NOTE] 
+If you are working with a document embedded within another document, this event will not occur.
 
 ## Syntax
 
