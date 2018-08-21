@@ -52,7 +52,7 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the center footer. 
- ActiveSheet.PageSetup.CenterFooter = "&;G" 
+ ActiveSheet.PageSetup.CenterFooter = "&G" 
  
 End Sub
 ```

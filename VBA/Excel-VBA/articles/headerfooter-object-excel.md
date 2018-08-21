@@ -33,7 +33,7 @@ The following example adds the date and time to the center header in the active 
 
 ```vb
 With ActiveSheet.PageSetup 
- .CenterHeader = "&;D&;T" 
+ .CenterHeader = "&D&T" 
  .OddAndEvenPagesHeaderFooter = False 
  .DifferentFirstPageHeaderFooter = False 
  .ScaleWithDocHeaderFooter = True 

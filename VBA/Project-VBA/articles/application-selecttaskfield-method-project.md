@@ -50,7 +50,7 @@ The following example selects the  **Name** column and the next two columns of t
 ```vb
 Sub Select_TaskField() 
  
- ViewApply Name:="&;Gantt Chart" 
+ ViewApply Name:="&Gantt Chart" 
  SelectTaskField Row:=3, Column:="Name", RowRelative:=False, Width:=2, Height:=1 
 End Sub
 ```

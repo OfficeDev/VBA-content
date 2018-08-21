@@ -35,7 +35,7 @@ EndRoutine:
  Exit Function 
  
 ErrRoutine: 
- MsgBox Err.Number &; " - " &; Err.Description, _ 
+ MsgBox Err.Number & " - " & Err.Description, _ 
  vbOKOnly Or vbCritical, _ 
  "ForwardContactItem" 
  GoTo EndRoutine 

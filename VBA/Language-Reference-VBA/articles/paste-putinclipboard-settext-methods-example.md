@@ -40,8 +40,8 @@ End Sub
  
 Private Sub UserForm_Initialize() 
  TextBox1.Text = "Move this data to a " _ 
- &; "DataObject, to the Clipboard, then to " _ 
- &; "TextBox2!" 
+ & "DataObject, to the Clipboard, then to " _ 
+ & "TextBox2!" 
 End Sub
 ```
 

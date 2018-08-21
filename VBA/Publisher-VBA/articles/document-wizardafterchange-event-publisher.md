@@ -40,7 +40,7 @@ This example displays a message when a publication is altered using the wizard p
 ```vb
 Private Sub Document_WizardAfterChange() 
  MsgBox "Remember to save changes made " _ 
- &; "through the wizard pane!" 
+ & "through the wizard pane!" 
 End Sub
 ```
 

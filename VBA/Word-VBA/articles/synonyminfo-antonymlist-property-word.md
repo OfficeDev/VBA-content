@@ -56,7 +56,7 @@ Dim intLoop As Integer
 arrayAntonyms = Selection.Range.SynonymInfo.AntonymList 
 If UBound(arrayAntonyms) <> 0 Then 
  For intLoop = 1 To UBound(arrayAntonyms) 
- Debug.Print arrayAntonyms(intLoop) &; Str(intLoop) 
+ Debug.Print arrayAntonyms(intLoop) & Str(intLoop) 
  Next intLoop 
 Else 
  MsgBox "No antonyms were found." 

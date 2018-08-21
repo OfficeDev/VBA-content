@@ -40,7 +40,7 @@ Sub UseFindFormat()
  
  ' Notify user. 
  With Application.FindFormat.Font 
- MsgBox .Name &; "-" &; .FontStyle &; "-" &; .Size &; _ 
+ MsgBox .Name & "-" & .FontStyle & "-" & .Size & _ 
  " font is what the search criteria is set to." 
  End With 
  

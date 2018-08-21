@@ -32,7 +32,7 @@ The following example displays the file format identifier for the first file con
 Dim fcTemp As FileExportConverter 
 Set fcTemp = FileExportConverters(1) 
  
-MsgBox "The file format identifier for the file converter is: " &; fcTemp.FileFormat
+MsgBox "The file format identifier for the file converter is: " & fcTemp.FileFormat
 ```
 
 The following example shows how to use the file format identifier as a parameter in the  **[SaveAs](workbook-saveas-method-excel.md)** method of the **Workbook** object to save a file using the first file converter in the **[FileExportConverters](fileexportconverters-object-excel.md)** collection.

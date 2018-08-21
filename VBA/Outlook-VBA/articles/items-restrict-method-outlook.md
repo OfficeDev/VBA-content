@@ -267,7 +267,7 @@ Public Sub ContactDateCheck()
     Set myItems = myContacts.Restrict("[LastModificationTime] > '01/1/2003'")  
     For Each myItem In myItems  
         If (myItem.Class = olContact) Then  
-            MsgBox myItem.FullName &; ": " &; myItem.LastModificationTime  
+            MsgBox myItem.FullName & ": " & myItem.LastModificationTime  
         End If  
     Next  
 End Sub
@@ -290,11 +290,11 @@ Public Sub ContactDateCheck2()
     Set myNameSpace = Application.GetNamespace("MAPI")  
     Set myContacts = myNameSpace.GetDefaultFolder(olFolderContacts).Items  
     DateStart = #01/1/2003#  
-    DateToCheck = "[LastModificationTime] >= """ &; DateStart &; """"  
+    DateToCheck = "[LastModificationTime] >= """ & DateStart & """"  
     Set myRestrictItems = myContacts.Restrict(DateToCheck)  
     For Each myItem In myRestrictItems  
         If (myItem.Class = olContact) Then  
-            MsgBox myItem.FullName &; ": " &; myItem.LastModificationTime  
+            MsgBox myItem.FullName & ": " & myItem.LastModificationTime  
         End If  
     Next  
 End Sub

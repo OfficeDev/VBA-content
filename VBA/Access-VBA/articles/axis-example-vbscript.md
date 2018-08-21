@@ -55,18 +55,18 @@ Set cst = Server.CreateObject("ADOMD.CellSet")
 '*** present on network 
 '************************************************************************ 
    OLAPServerName = "Please set to present OLAP Server" 
-   cat.ActiveConnection = "Data Source='" &; OLAPServerName &; _ 
+   cat.ActiveConnection = "Data Source='" & OLAPServerName & _ 
       "';Initial Catalog='FoodMart';Provider='msolap';" 
  
 '************************************************************************ 
 '*** Use default MDX Query string of a known query that works 
 '*** with default server Set MDXQuery Session Object to default value 
 '************************************************************************ 
-   strSource = strSource &; "SELECT " 
-   strSource = strSource &; "{[Measures].members} ON COLUMNS," 
-   strSource = strSource &; _ 
+   strSource = strSource & "SELECT " 
+   strSource = strSource & "{[Measures].members} ON COLUMNS," 
+   strSource = strSource & _ 
       "NON EMPTY [Store].[Store City].members ON ROWS" 
-   strSource = strSource &; " FROM Sales" 
+   strSource = strSource & " FROM Sales" 
  
 '************************************************************************ 
 '*** Set Cell Set Source property to strSource to be passed on cell set '*** open method 

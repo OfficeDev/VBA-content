@@ -84,7 +84,7 @@ Public Sub ActionText_Example()
  Set vsoMenuItem = vsoMenuItems.Add 
  
  'Set the properties for the new menu item 
- vsoMenuItem.Caption = "&;macroname " 
+ vsoMenuItem.Caption = "&macroname " 
  vsoMenuItem.AddOnName = "ThisDocument.macroname " 
  vsoMenuItem.AddOnArgs = "/Arg1 = True" 
  vsoMenuItem.ActionText = "Run(macroname )" 

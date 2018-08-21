@@ -41,7 +41,7 @@ CustomizationContext = NormalTemplate
 lngCode = BuildKeyCode(wdKeyAlt, wdKeyControl, wdKeyW) 
 For Each kbLoop In KeyBindings 
  If lngCode = kbLoop.KeyCode Then 
- MsgBox kbLoop.KeyString &; " is already in use" 
+ MsgBox kbLoop.KeyString & " is already in use" 
  End If 
 Next kbLoop
 ```

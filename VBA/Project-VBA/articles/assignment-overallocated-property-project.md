@@ -36,8 +36,8 @@ Sub DisplayOverallocatedPercentage()
  Next R 
  
  MsgBox (Str$((NOverallocated / ActiveProject.Resources.Count) * 100) _ 
- &; " percent (" &; Str$(NOverallocated) &; "/" &; Str$(ActiveProject.Resources.Count) _ 
- &; ")" &; " of the resources in this project are overallocated.") 
+ & " percent (" & Str$(NOverallocated) & "/" & Str$(ActiveProject.Resources.Count) _ 
+ & ")" & " of the resources in this project are overallocated.") 
  
 End Sub
 ```

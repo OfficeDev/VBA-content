@@ -49,11 +49,11 @@ For Each usedFont In Presentations(1).Fonts
 
     If usedFont.Embeddable Then
 
-        MsgBox usedFont.Name &; ": Embeddable"
+        MsgBox usedFont.Name & ": Embeddable"
 
     Else
 
-        MsgBox usedFont.Name &; ": Not embeddable"
+        MsgBox usedFont.Name & ": Not embeddable"
 
     End If
 

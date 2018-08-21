@@ -32,7 +32,7 @@ This example displays all of the  **Phonetic** objects in the active cell.
 Set objPhon = ActiveCell.Phonetics 
 With objPhon 
  For Each objPhonItem in objPhon 
- MsgBox "Phonetic object: " &; .Text 
+ MsgBox "Phonetic object: " & .Text 
  Next 
 End With
 ```

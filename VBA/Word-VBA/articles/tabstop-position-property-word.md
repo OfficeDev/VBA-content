@@ -32,8 +32,8 @@ This example adds a right tab stop to the selected paragraphs 2 inches from the 
 With Selection.Paragraphs.TabStops 
  .ClearAll 
  .Add Position:=InchesToPoints(2), Alignment:=wdAlignTabRight 
- MsgBox .Item(1).Position &; " or " &; _ 
- PointsToInches(.Item(1).Position) &; " inches" 
+ MsgBox .Item(1).Position & " or " & _ 
+ PointsToInches(.Item(1).Position) & " inches" 
 End With
 ```
 

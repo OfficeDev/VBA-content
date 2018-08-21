@@ -73,7 +73,7 @@ To try this example, create a new database called WizCode.mdb and set its  **Pro
 
 ```vb
 Public Sub Greeting(ByVal strName As String) 
- MsgBox ("Hello, " &; strName &; "!"), vbInformation, "Greetings" 
+ MsgBox ("Hello, " & strName & "!"), vbInformation, "Greetings" 
 End Sub
 ```
 

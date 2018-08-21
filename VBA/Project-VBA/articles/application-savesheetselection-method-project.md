@@ -55,9 +55,9 @@ Sub SelectionDemo()
  End If 
  
  MsgBox "The Project Guide display state has been toggled. " _ 
- &; "Notice that your active selection was cleared in the " _ 
- &; "process." &; Chr(10) &; Chr(10) _ 
- &; "Now the call to RestoreSheetSelection restores the ActiveSelection...", _ 
+ & "Notice that your active selection was cleared in the " _ 
+ & "process." & Chr(10) & Chr(10) _ 
+ & "Now the call to RestoreSheetSelection restores the ActiveSelection...", _ 
  vbOKOnly 
  
  Application.RestoreSheetSelection 

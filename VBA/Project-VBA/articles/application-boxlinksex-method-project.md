@@ -57,7 +57,7 @@ Sub BoxLink_ChangeColor()
     ViewApply Name:="Network Diagram" 
  
     BoxLinksEx Style:=pjLinkRectilinear, ShowArrows:=True, ShowLabels:=True, ColorMode:=pjColorModeCustom, _ 
-        CriticalColor:=&;HBB00BB, noncriticalcolor:=&;H999900 
+        CriticalColor:=&HBB00BB, noncriticalcolor:=&H999900 
 End Sub
 ```
 

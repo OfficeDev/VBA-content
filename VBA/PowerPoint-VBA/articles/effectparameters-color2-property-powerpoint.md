@@ -52,8 +52,8 @@ Sub SetStartEndColors()
     'Sets duration of effect and displays a message containing
     'the starting and ending colors for the fill effect
     effChangeFill.Timing.Duration = 3
-    MsgBox "Start Color = " &; effChangeFill.EffectParameters _
-        .Color1 &; vbCrLf &; "End Color = " &; effChangeFill _
+    MsgBox "Start Color = " & effChangeFill.EffectParameters _
+        .Color1 & vbCrLf & "End Color = " & effChangeFill _
         .EffectParameters.Color2
 
 End Sub

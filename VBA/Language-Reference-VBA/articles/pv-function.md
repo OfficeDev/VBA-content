@@ -46,7 +46,7 @@ YrIncome = 50000    ' Yearly income.
 FVal = 1000000    ' Future value.
 PayType = BEGINPERIOD    ' Payment at beginning of month.
 PVal = PV(APR, TotPmts, -YrIncome, FVal, PayType)
-MsgBox "The present value is " &; Format(PVal, Fmt) &; "."
+MsgBox "The present value is " & Format(PVal, Fmt) & "."
 
 ```
 

@@ -59,7 +59,7 @@ Sub objViews_ViewAdd(ByVal View As View)
  
  With View 
  
- Msgbox .Name &; " was created programmatically." 
+ Msgbox .Name & " was created programmatically." 
  
  .Save 
  

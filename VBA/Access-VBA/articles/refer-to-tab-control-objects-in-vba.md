@@ -152,7 +152,7 @@ On Error GoTo ErrorHandler
    Exit Sub 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Sub
 ```
 
@@ -178,7 +178,7 @@ On Error GoTo ErrorHandler
    ' Debug window. 
    For Each pagCurrent In tabCtl.Pages 
       intPageNum = intPageNum + 1 
-      Debug.Print "Page " &; intPageNum &; " Controls:" 
+      Debug.Print "Page " & intPageNum & " Controls:" 
       For Each ctlCurrent In pagCurrent.Controls 
          Debug.Print ctlCurrent.Name 
       Next ctlCurrent 
@@ -192,7 +192,7 @@ On Error GoTo ErrorHandler
    Exit Sub 
  
 ErrorHandler: 
-   MsgBox "Error #: " &; Err.Number &; vbCrLf &; vbCrLf &; Err.Description 
+   MsgBox "Error #: " & Err.Number & vbCrLf & vbCrLf & Err.Description 
 End Sub
 ```
 

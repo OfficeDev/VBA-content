@@ -48,7 +48,7 @@ End Sub
 
 ' Resize event for UserForm1
 Private Sub UserForm_Resize()
-    UserForm1.Caption = "New Height: " &; Height &; "  " &; "Click to resize me!"
+    UserForm1.Caption = "New Height: " & Height & "  " & "Click to resize me!"
 End Sub
 ```
 

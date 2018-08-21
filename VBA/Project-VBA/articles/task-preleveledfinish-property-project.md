@@ -33,9 +33,9 @@ Sub DateDifferences()
  If Not (T Is Nothing) Then 
  ' Tasks that have never been leveled return "NA" 
  If T.PreleveledFinish <> "NA" And T.Finish <> T.PreleveledFinish Then 
- Results = Results &; T.Name &; ": " &; _ 
- DateDiff("d", T.PreleveledFinish, T.Finish) &; _ 
- " days" &; vbCrLf 
+ Results = Results & T.Name & ": " & _ 
+ DateDiff("d", T.PreleveledFinish, T.Finish) & _ 
+ " days" & vbCrLf 
  End If 
  End If 
  Next T 

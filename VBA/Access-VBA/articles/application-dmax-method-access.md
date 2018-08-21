@@ -92,7 +92,7 @@ In the next example, the  _criteria_ argument includes the current value of a te
 ```vb
 Dim curX As Currency 
 curX = DMax("[Freight]", "Orders", "[OrderDate] = #" _ 
-    &; Forms!Orders!OrderDate &; "#")
+    & Forms!Orders!OrderDate & "#")
 ```
 
 

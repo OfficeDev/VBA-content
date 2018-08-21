@@ -34,7 +34,7 @@ This example displays the z-order position of embedded chart one on Sheet1.
 
 
 ```vb
-MsgBox "The chart's z-order position is " &; _ 
+MsgBox "The chart's z-order position is " & _ 
  Worksheets("Sheet1").ChartObjects(1).ZOrder
 ```
 

@@ -45,8 +45,8 @@ Dim kbLoop As KeyBinding
  
 CustomizationContext = NormalTemplate 
 For Each kbLoop In KeyBindings 
- Selection.InsertAfter kbLoop.Command &; vbTab _ 
- &; kbLoop.KeyString &; vbCr 
+ Selection.InsertAfter kbLoop.Command & vbTab _ 
+ & kbLoop.KeyString & vbCr 
  Selection.Collapse Direction:=wdCollapseEnd 
 Next kbLoop
 ```

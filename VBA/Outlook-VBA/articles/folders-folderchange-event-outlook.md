@@ -60,7 +60,7 @@ Private Sub myFolders_FolderChange(ByVal Folder As Outlook.Folder)
  
  If Folder.Items.Count = 0 Then 
  
- MyPrompt = Folder.Name &; " is empty. Do you want to delete it?" 
+ MyPrompt = Folder.Name & " is empty. Do you want to delete it?" 
  
  If MsgBox(MyPrompt, vbYesNo + vbQuestion) = vbYes Then 
  

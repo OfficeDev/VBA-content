@@ -104,7 +104,7 @@ The next example from the Shippers table uses the form control ShipperID to prov
 ```vb
 Dim varX As Variant 
 varX = DLookup("[CompanyName]", "Shippers", "[ShipperID] = " _ 
-    &; Forms!Shippers!ShipperID)
+    & Forms!Shippers!ShipperID)
 ```
 
 The next example uses a variable,  `intSearch`, to get the value.
@@ -118,7 +118,7 @@ Dim varX As Variant
  
 intSearch = 1 
 varX = DLookup("[CompanyName]", "Shippers", _ 
-    "[ShipperID] = " &; intSearch)
+    "[ShipperID] = " & intSearch)
 ```
 
 

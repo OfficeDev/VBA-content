@@ -102,7 +102,7 @@ Public Sub Document_ShapeAdded(ByVal Shape As IVShape)
         End Select  
         
         'Display relationship in the shape's text. 
-        vsoShapeOnPage.Text = Shape.Name &; " " &; strReturn &; " " &; _  
+        vsoShapeOnPage.Text = Shape.Name & " " & strReturn & " " & _  
             vsoShapeOnPage.Name  
  
     Next  

@@ -132,13 +132,13 @@ Public Sub CheckCustomPage(ByVal rptName As String)
  If DM.intPaperSize = 256 Then 
  
  ' Display user-defined size. 
- intResponse = MsgBox("The current custom page size is " &; _ 
- DM.intPaperWidth / 254 &; " inches wide by " &; _ 
- DM.intPaperLength / 254 &; " inches long. Do you want " &; _ 
+ intResponse = MsgBox("The current custom page size is " & _ 
+ DM.intPaperWidth / 254 & " inches wide by " & _ 
+ DM.intPaperLength / 254 & " inches long. Do you want " & _ 
  "to change the settings?", vbYesNo + vbQuestion) 
  Else 
  ' Currently not user-defined. 
- intResponse = MsgBox("The report does not have a custom page size. " &; _ 
+ intResponse = MsgBox("The report does not have a custom page size. " & _ 
  "Do you want to define one?", vbYesNo + vbQuestion) 
  End If 
  

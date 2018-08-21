@@ -31,7 +31,7 @@ This example displays the version and build information for Publisher.
 ```vb
 With Application 
  MsgBox "Current Publisher: version " _ 
- &; .Version &; " build " &; .Build 
+ & .Version & " build " & .Build 
 End With
 ```
 

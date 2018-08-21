@@ -59,14 +59,14 @@ Dim objCustomPart As CustomXMLPart
 Dim objCustomControl As ContentControl 
  
 Set objCustomPart = ActiveDocument.CustomXMLParts.Add 
-objCustomPart.LoadXML ("<books><book><author>Matt Hink</author>" &; _ 
- "<title>Migration Paths of the Red Breasted Robin</title>" &; _ 
- "<genre>non-fiction</genre><price>29.95</price>" &; _ 
- "<pub_date>2/1/2007</pub_date><abstract>You see them in " &; _ 
- "the spring outside your windows. You hear their lovely " &; _ 
- "songs wafting in the warm spring air. Now follow the path " &; _ 
- "of the red breasted robin as it migrates to warmer climes " &; _ 
- "in the fall, and then back to your back yard in the spring." &; _ 
+objCustomPart.LoadXML ("<books><book><author>Matt Hink</author>" & _ 
+ "<title>Migration Paths of the Red Breasted Robin</title>" & _ 
+ "<genre>non-fiction</genre><price>29.95</price>" & _ 
+ "<pub_date>2/1/2007</pub_date><abstract>You see them in " & _ 
+ "the spring outside your windows. You hear their lovely " & _ 
+ "songs wafting in the warm spring air. Now follow the path " & _ 
+ "of the red breasted robin as it migrates to warmer climes " & _ 
+ "in the fall, and then back to your back yard in the spring." & _ 
  "</abstract></book></books>") 
  
 ActiveDocument.Range.InsertParagraphBefore 

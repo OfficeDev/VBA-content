@@ -40,7 +40,7 @@ For each language for which proofing tools are installed, you can use the  **Act
 ```vb
 Sub ShowDictionaryPath 
  Set myspell = Languages(wdEnglishUS).ActiveSpellingDictionary 
- MsgBox mySpell.Path &; Application.PathSeparator &; mySpell.Name 
+ MsgBox mySpell.Path & Application.PathSeparator & mySpell.Name 
 End Sub
 ```
 

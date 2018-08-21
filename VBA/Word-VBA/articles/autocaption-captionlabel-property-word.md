@@ -38,7 +38,7 @@ Dim acLoop As AutoCaption
  
 For Each acLoop In AutoCaptions 
  If acLoop.AutoInsert = True Then MsgBox acLoop.Name _ 
- &; vbCr &; "Label = " &; acLoop.CaptionLabel.Name 
+ & vbCr & "Label = " & acLoop.CaptionLabel.Name 
 Next acLoop
 ```
 

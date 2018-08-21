@@ -68,14 +68,14 @@ Function ClickEventProc() As Boolean
  ' Add event procedure. 
  lngReturn = mdl.CreateEventProc("Click", ctl.Name) 
  ' Insert text into body of procedure. 
- mdl.InsertLines lngReturn + 1, vbTab &; "MsgBox ""Way cool!""" 
+ mdl.InsertLines lngReturn + 1, vbTab & "MsgBox ""Way cool!""" 
  ClickEventProc = True 
  
 Exit_ClickEventProc: 
  Exit Function 
  
 Error_ClickEventProc: 
- MsgBox Err &; " :" &; Err.Description 
+ MsgBox Err & " :" & Err.Description 
  ClickEventProc = False 
  Resume Exit_ClickEventProc 
 End Function

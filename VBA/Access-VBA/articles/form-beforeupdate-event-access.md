@@ -75,7 +75,7 @@ To try the example, add the following event procedure to a form named **Products
 Private Sub ProductName_BeforeUpdate(Cancel As Integer) 
     If(Not IsNull(DLookup("[ProductName]", _ 
         "Products", "[ProductName] ='" _ 
-        &; Me!ProductName &; "'"))) Then 
+        & Me!ProductName & "'"))) Then 
         MsgBox "Product has already been entered in the database." 
         Cancel = True 
         Me!ProductName.Undo 
@@ -92,7 +92,7 @@ Private Sub Form_BeforeUpdate(Cancel As Integer)
     Dim oContr As Control
     For Each oContr In Me.Detail.Controls
         If IsNull(oContr) = True Then
-            If MsgBox(oContr.Name &; " is empty", vbOKCancel) = vbCancel Then
+            If MsgBox(oContr.Name & " is empty", vbOKCancel) = vbCancel Then
                 Cancel = True: oContr.SetFocus: Exit Sub
             End If
         End If
@@ -110,7 +110,7 @@ If (IsNull(Me.FieldOne)) Or (Me.FieldOne.Value =  "") Then
     ' No action required
 Else
     If (IsNull(Me.FieldTwo)) or (Me.FieldTwo.Value = "") Then
-        MsgBox "You must provide data for field 'FieldTwo', " &; _
+        MsgBox "You must provide data for field 'FieldTwo', " & _
             "if a value is entered in FieldOne", _
             vbOKOnly, "Required Field"
         Me.FieldTwo.SetFocus

@@ -25,10 +25,10 @@ The following example prints a list of built-in reports in the  **Immediate** wi
 Sub ListGlobalReports()
     Dim oReport As Report
 
-    Debug.Print "Number of global reports: " &; GlobalReports.Count
+    Debug.Print "Number of global reports: " & GlobalReports.Count
     
     For Each oReport In GlobalReports
-        Debug.Print oReport.Index &; ": " &; oReport.Name
+        Debug.Print oReport.Index & ": " & oReport.Name
     Next oReport
 End Sub
 ```

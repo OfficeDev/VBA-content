@@ -61,13 +61,13 @@ This example displays the number of rows in the selection on Sheet1. If more tha
 Worksheets("Sheet1").Activate 
 areaCount = Selection.Areas.Count 
 If areaCount <= 1 Then 
- MsgBox "The selection contains " &; _ 
- Selection.Rows.Count &; " rows." 
+ MsgBox "The selection contains " & _ 
+ Selection.Rows.Count & " rows." 
 Else 
  i = 1 
  For Each a In Selection.Areas 
- MsgBox "Area " &; i &; " of the selection contains " &; _ 
- a.Rows.Count &; " rows." 
+ MsgBox "Area " & i & " of the selection contains " & _ 
+ a.Rows.Count & " rows." 
  i = i + 1 
  Next a 
 End If

@@ -47,7 +47,7 @@ Dim intTotalPages As Integer
 Dim strMsg As String 
  
 intTotalPages = Me.Pages 
-strMsg = "This report contains " &; intTotalPages &; " pages." 
+strMsg = "This report contains " & intTotalPages & " pages." 
 MsgBox strMsg
 ```
 

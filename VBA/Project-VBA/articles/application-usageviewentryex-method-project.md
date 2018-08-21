@@ -139,8 +139,8 @@ In the Resource Usage view, the following statement colors the cells for data en
 
 
 ```vb
-Application.UsageViewEntryEx CellBackground:=&;H01ffff, Pattern:=pjBackgroundDiagonalLeft, _ 
- FontColor:=&;Hff00ff
+Application.UsageViewEntryEx CellBackground:=&H01ffff, Pattern:=pjBackgroundDiagonalLeft, _ 
+ FontColor:=&Hff00ff
 ```
 
 In the Task Usage view, the default field is  **Work**. The following statement adds the  **Actual Cost** field in green, after the **Work** field.
@@ -149,7 +149,7 @@ In the Task Usage view, the default field is  **Work**. The following statement 
 
 
 ```vb
-Application.UsageViewEntryEx Order:=11, CurIndex:=1, DisplayField:=True, FontColor:=&;H10FF10
+Application.UsageViewEntryEx Order:=11, CurIndex:=1, DisplayField:=True, FontColor:=&H10FF10
 ```
 
 

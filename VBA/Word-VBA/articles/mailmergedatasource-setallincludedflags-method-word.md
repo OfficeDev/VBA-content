@@ -46,7 +46,7 @@ Sub FlagAllRecords()
  With ActiveDocument.MailMerge.DataSource 
  .SetAllErrorFlags Invalid:=True, InvalidComment:= _ 
  "All records in the data source have only 5-" _ 
- &; "digit ZIP Codes. Need 5+4 digit ZIP Codes." 
+ & "digit ZIP Codes. Need 5+4 digit ZIP Codes." 
  .SetAllIncludedFlags Included:=False 
  End With 
 End Sub

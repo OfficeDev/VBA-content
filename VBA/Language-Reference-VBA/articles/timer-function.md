@@ -34,7 +34,7 @@ If (MsgBox("Press Yes to pause for 5 seconds", 4)) = vbYes Then
     Loop
     Finish = Timer    ' Set end time.
     TotalTime = Finish - Start    ' Calculate total time.
-    MsgBox "Paused for " &; TotalTime &; " seconds"
+    MsgBox "Paused for " & TotalTime & " seconds"
 Else
     End
 End If

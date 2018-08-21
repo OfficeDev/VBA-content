@@ -45,7 +45,7 @@ Sub GrowFont()
  With shpText.TextFrame.TextRange 
  .Text = "This is a test of the Grow method." 
  Do Until intResponse = vbNo 
- intResponse = MsgBox("Do you want to increase the " &; _ 
+ intResponse = MsgBox("Do you want to increase the " & _ 
  "size of the font?", vbYesNo) 
  If intResponse = vbYes Then 
  .Words(4).Font.Grow 

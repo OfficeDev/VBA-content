@@ -88,7 +88,7 @@ Sub Import_Contacts()
                     Cells(lnContactCount, 6) = .Email1Address
                 End If
                 wsSheet.Hyperlinks.Add Anchor:=Cells(lnContactCount, 6), _
-                                       Address:="mailto:" &; Cells(lnContactCount, 6).Value, _
+                                       Address:="mailto:" & Cells(lnContactCount, 6).Value, _
                                        TextToDisplay:=Cells(lnContactCount, 6).Value
             End With
             lnContactCount = lnContactCount + 1

@@ -21,15 +21,15 @@ Sub ShowPrinters()
  
     If Printers.Count > 0 Then 
         ' Get count of installed printers. 
-        strMsg = "Printers installed: " &; Printers.Count &; vbCrLf &; vbCrLf 
+        strMsg = "Printers installed: " & Printers.Count & vbCrLf & vbCrLf 
      
         ' Enumerate printer system properties. 
         For Each prtLoop In Application.Printers 
             With prtLoop 
                 strMsg = strMsg _ 
-                    &; "Device name: " &; .DeviceName &; vbCrLf _ 
-                    &; "Driver name: " &; .DriverName &; vbCrLf _ 
-                    &; "Port: " &; .Port &; vbCrLf &; vbCrLf 
+                    & "Device name: " & .DeviceName & vbCrLf _ 
+                    & "Driver name: " & .DriverName & vbCrLf _ 
+                    & "Port: " & .Port & vbCrLf & vbCrLf 
             End With 
         Next prtLoop 
      
@@ -44,8 +44,8 @@ ShowPrinters_End:
     Exit Sub 
      
 ShowPrinters_Err: 
-    MsgBox Prompt:=Err.Description, Buttons:=vbCritical &; vbOKOnly, _ 
-        Title:="Error Number " &; Err.Number &; " Occurred" 
+    MsgBox Prompt:=Err.Description, Buttons:=vbCritical & vbOKOnly, _ 
+        Title:="Error Number " & Err.Number & " Occurred" 
     Resume ShowPrinters_End 
      
 End Sub

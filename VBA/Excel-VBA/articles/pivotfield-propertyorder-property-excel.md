@@ -48,7 +48,7 @@ Sub CheckPropertyOrder()
  If pvtField.IsMemberProperty = False Then 
  MsgBox "No member properties present." 
  Else 
- MsgBox "The property order of the members is: " &; _ 
+ MsgBox "The property order of the members is: " & _ 
  pvtField.PropertyOrder 
  End If 
  

@@ -54,7 +54,7 @@ End Sub
 Private Sub UserForm_Initialize() 
  For i = 1 To 10 
  ListBox1.AddItem "Choice " _ 
- &; (ListBox1.ListCount + 1) 
+ & (ListBox1.ListCount + 1) 
  Next i 
 End Sub
 ```

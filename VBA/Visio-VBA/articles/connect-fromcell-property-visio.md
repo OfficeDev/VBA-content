@@ -122,7 +122,7 @@ Public Sub FromCell_Example()
         For intCounter = 1 To vsoConnects.Count  
             Set vsoConnect = vsoConnects(intCounter)  
             Set vsoConnectCell = vsoConnect.FromCell  
-            Debug.Print "From " &; vsoConnectCell.Name  
+            Debug.Print "From " & vsoConnectCell.Name  
         Next intCounter  
  
     Next intCurrentShapeIndex  

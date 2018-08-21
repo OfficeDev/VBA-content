@@ -38,7 +38,7 @@ Sub DisplayLevelDepth(pathspec)
             Set f = f.ParentFolder
             n = n + 1
         Loop
-        MsgBox "The specified folder is nested " &; n &; " levels deep."
+        MsgBox "The specified folder is nested " & n & " levels deep."
     End If
 End Sub
 ```

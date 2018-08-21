@@ -62,8 +62,8 @@ Set cst = Server.CreateObject("ADOMD.CellSet")
 '*** to default value 
 '************************************************************************ 
 If Len(Session("ServerName")) > 0 Then 
-   cat.ActiveConnection = "Data Source='" &; Session("ServerName") &; _ 
-      "';Initial Catalog='" &; Session("InitialCatalog") &; _ 
+   cat.ActiveConnection = "Data Source='" & Session("ServerName") & _ 
+      "';Initial Catalog='" & Session("InitialCatalog") & _ 
       "';Provider='msolap';" 
 Else 
  
@@ -72,7 +72,7 @@ Else
 '*** present on network 
 '************************************************************************ 
    OLAPServerName = "Please set to present OLAP Server" 
-   cat.ActiveConnection = "Data Source=" &; OLAPServerName &; _ 
+   cat.ActiveConnection = "Data Source=" & OLAPServerName & _ 
       ";Initial Catalog=FoodMart;Provider=msolap;" 
    Session("ServerName") = OLAPServerName 
    Session("InitialCatalog") = "FoodMart" 
@@ -85,14 +85,14 @@ End if
 '*** default value 
 '************************************************************************ 
 If Len(Session("MDXQuery")) < 5 Then 
-   strSource = strSource &; "SELECT " 
-   strSource = strSource &; "CROSSJOIN({[Store].[Store Country].MEMBERS}," 
-   strSource = strSource &; "{[Measures].[Store " &; _ 
+   strSource = strSource & "SELECT " 
+   strSource = strSource & "CROSSJOIN({[Store].[Store Country].MEMBERS}," 
+   strSource = strSource & "{[Measures].[Store " & _ 
       "Invoice],[Measures].[Supply Time]}) ON COLUMNS," 
-   strSource = strSource &; "CROSSJOIN({[Time].[Year].MEMBERS}," 
-   strSource = strSource &; "CROSSJOIN({[Store Type].[Store " &; _ 
+   strSource = strSource & "CROSSJOIN({[Time].[Year].MEMBERS}," 
+   strSource = strSource & "CROSSJOIN({[Store Type].[Store " & _ 
       "Type].Members},{[Product].[Product Family].members})) ON ROWS" 
-   strSource = strSource &; " FROM Warehouse" 
+   strSource = strSource & " FROM Warehouse" 
 Else 
    strSource = Session("MDXQuery") 
 End if 
@@ -226,13 +226,13 @@ For h=0 to intDC0
 '*** CaptionCount and LastCaption 
 '************************************************************************ 
             If t = intPC0 then 
-               Response.Write " colspan=" &; CaptionCount &; _ 
-                  "><FONT size=-2>" &; LastCaption &; "</FONT></TH>" 
+               Response.Write " colspan=" & CaptionCount & _ 
+                  "><FONT size=-2>" & LastCaption & "</FONT></TH>" 
             End if 
  
          Else 
-            Response.Write " colspan=" &; CaptionCount &; _ 
-               "><FONT size=-2>" &; LastCaption &; "</FONT></TH><TH" 
+            Response.Write " colspan=" & CaptionCount & _ 
+               "><FONT size=-2>" & LastCaption & "</FONT></TH><TH" 
             CaptionCount = 1 
             LastCaption=cst.Axes(0).Positions(t).Members(h).Caption 
          End if 
@@ -285,7 +285,7 @@ For h=0 to intDC0
                   Marker = Marker + 1 
                Else 
                   If aryRows(Marker) = aryRows(Marker - intDC1) then 
-                     Response.Write "<TD>&;nbsp;</TD>" 
+                     Response.Write "<TD>&nbsp;</TD>" 
                      Marker = Marker + 1 
                   Else 
                      Response.Write "<TD><B>" 

@@ -39,7 +39,7 @@ The following example displays a message indicating the OLE class for the "Custo
 
 
 ```vb
-MsgBox "The OLE class = " &; Forms("Order Entry").Controls("Customer Picture").OLEClass
+MsgBox "The OLE class = " & Forms("Order Entry").Controls("Customer Picture").OLEClass
 ```
 
 

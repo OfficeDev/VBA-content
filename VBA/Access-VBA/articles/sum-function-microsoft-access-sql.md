@@ -72,11 +72,11 @@ Sub SumX()
     ' Calculate the total sales for orders shipped to 
     ' the United Kingdom.   
     Set rst = dbs.OpenRecordset("SELECT" _ 
-        &; " Sum(UnitPrice*Quantity)" _ 
-        &; " AS [Total UK Sales] FROM Orders" _ 
-        &; " INNER JOIN [Order Details] ON" _ 
-        &; " Orders.OrderID = [Order Details].OrderID" _ 
-        &; " WHERE (ShipCountry = 'UK');") 
+        & " Sum(UnitPrice*Quantity)" _ 
+        & " AS [Total UK Sales] FROM Orders" _ 
+        & " INNER JOIN [Order Details] ON" _ 
+        & " Orders.OrderID = [Order Details].OrderID" _ 
+        & " WHERE (ShipCountry = 'UK');") 
  
     ' Populate the Recordset. 
     rst.MoveLast 

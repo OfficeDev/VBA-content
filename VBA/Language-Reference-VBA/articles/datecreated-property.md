@@ -30,7 +30,7 @@ Sub ShowFileInfo(filespec)
     Dim fs, f, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set f = fs.GetFile(filespec)
-    s = "Created: " &; f.DateCreated
+    s = "Created: " & f.DateCreated
     MsgBox s
 End Sub
 ```

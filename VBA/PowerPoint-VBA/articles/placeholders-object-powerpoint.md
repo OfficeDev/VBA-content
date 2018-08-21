@@ -32,7 +32,7 @@ Use the [Placeholders](shapes-placeholders-property-powerpoint.md)property to re
 Set sObj = ActivePresentation.Slides.Add(1, ppLayoutText).Shapes
 sObj.Title.TextFrame.TextRange.Text = "This is the title text"
 sObj.Placeholders(2).TextFrame.TextRange.Text = _
-    "Item 1" &; Chr(13) &; "Item 2"
+    "Item 1" & Chr(13) & "Item 2"
 ```
 
 

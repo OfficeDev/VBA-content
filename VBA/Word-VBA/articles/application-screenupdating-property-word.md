@@ -38,7 +38,7 @@ Application.ScreenUpdating = False
 Documents.Add 
 For x = 1 To 500 
  With ActiveDocument.Content 
- .InsertAfter "This is line " &; x &; "." 
+ .InsertAfter "This is line " & x & "." 
  .InsertParagraphAfter 
  End With 
 If x Mod 50 = 0 Then 

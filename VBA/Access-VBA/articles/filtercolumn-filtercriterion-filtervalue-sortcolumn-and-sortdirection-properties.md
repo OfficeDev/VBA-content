@@ -43,11 +43,11 @@ Filter Column: <SELECT NAME="cboFilterColumn"><OPTION VALUE=""></OPTION>
 <OPTION VALUE=Phone>Extension</OPTION></SELECT>
 <br>Filter Criterion: <SELECT NAME="cboCriterion">
 <OPTION VALUE=""></OPTION><OPTION VALUE="=">=</OPTION>
-<OPTION VALUE="&;gt;">&;gt;</OPTION><OPTION VALUE="&;lt;">&;lt;</OPTION>
-<OPTION VALUE="&;gt;=">&;gt;=</OPTION><OPTION VALUE="&;lt;=">&;lt;=</OPTION>
-<OPTION VALUE="&;lt;&;gt;">&;lt;&;gt;</OPTION></SELECT>
+<OPTION VALUE="&gt;">&gt;</OPTION><OPTION VALUE="&lt;">&lt;</OPTION>
+<OPTION VALUE="&gt;=">&gt;=</OPTION><OPTION VALUE="&lt;=">&lt;=</OPTION>
+<OPTION VALUE="&lt;&gt;">&lt;&gt;</OPTION></SELECT>
 <br>Filter Value: <INPUT NAME="txtFilterValue">
-<HR WIDTH="25%"><INPUT TYPE=BUTTON NAME=Clear VALUE="CLEAR ALL"> &;nbsp;
+<HR WIDTH="25%"><INPUT TYPE=BUTTON NAME=Clear VALUE="CLEAR ALL"> &nbsp;
 <INPUT TYPE=BUTTON NAME=SortFilter VALUE="APPLY"> 
 <HR><TABLE DATASRC=#RDS ID="DataTable">
 <THEAD><TR>

@@ -184,8 +184,8 @@ Sub TableForIsMarkedAsTask()
     Dim oRow As Outlook.Row 
     Dim filter As String 
     '0x0E2B0003 represents IsMarkedAsTask 
-    filter = "@SQL=" &; Chr(34) _ 
-    &; "http://schemas.microsoft.com/mapi/proptag/0x0E2B0003" &; Chr(34) &; " = 1" 
+    filter = "@SQL=" & Chr(34) _ 
+    & "http://schemas.microsoft.com/mapi/proptag/0x0E2B0003" & Chr(34) & " = 1" 
     'Table only contains rows for items where IsMarkedAsTask is True 
     Set oT = Application.Session.GetDefaultFolder(olFolderInbox).GetTable(filter) 
     oT.Columns.Add ("TaskStartDate") 

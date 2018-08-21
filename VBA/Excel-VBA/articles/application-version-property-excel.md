@@ -29,9 +29,9 @@ This example displays a message box that contains the Microsoft Excel version nu
 
 
 ```vb
-MsgBox "Welcome to Microsoft Excel version " &; _ 
- Application.Version &; " running on " &; _ 
- Application.OperatingSystem &; "!"
+MsgBox "Welcome to Microsoft Excel version " & _ 
+ Application.Version & " running on " & _ 
+ Application.OperatingSystem & "!"
 ```
 
 

@@ -57,13 +57,13 @@ The following example creates a new template named Asset Tracker and assigns it 
      
     ' The database template must be saved to this location to appear on the 
     ' Getting Started with Microsoft Office Access page. 
-    strTemplateLocation = Environ("AppData") &; "\Microsoft\Templates\" 
+    strTemplateLocation = Environ("AppData") & "\Microsoft\Templates\" 
      
     ' Instantiate a TemplateObject object. 
     Set objTemplate = Application.COMAddIns("AccessAddIn.ADE").Object.TemplateObject 
  
     ' Create the database template.     
-    objTemplate.SaveAsTemplate TemplateLocation:=strTemplateLocation &; "AssetTracker.accdt", _ 
+    objTemplate.SaveAsTemplate TemplateLocation:=strTemplateLocation & "AssetTracker.accdt", _ 
                                TemplateName:="Asset Tracker", _ 
                                Category:="Departmental Data"
 ```

@@ -31,10 +31,10 @@ Sub ShowDriveLetter(drvPath)
     Dim fs, d, s
     Set fs = CreateObject("Scripting.FileSystemObject")
     Set d = fs.GetDrive(fs.GetDriveName(drvPath))
-    s = "Drive " &; d.DriveLetter &; ": - " 
-    s = s &; d.VolumeName  &; vbCrLf
-    s = s &; "Free Space: " &; FormatNumber(d.FreeSpace/1024, 0) 
-    s = s &; " Kbytes"
+    s = "Drive " & d.DriveLetter & ": - " 
+    s = s & d.VolumeName  & vbCrLf
+    s = s & "Free Space: " & FormatNumber(d.FreeSpace/1024, 0) 
+    s = s & " Kbytes"
     MsgBox s
 End Sub
 ```

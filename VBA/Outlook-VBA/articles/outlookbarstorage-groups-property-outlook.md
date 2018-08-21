@@ -29,7 +29,7 @@ The following Microsoft Visual Basic for Applications (VBA) example displays the
 
 
 ```vb
-Sub CountOlBarGroups()     Dim myOlBar As Outlook.OutlookBarPane     Dim myCount As Integer      Set myOlBar = Application.ActiveExplorer.Panes.Item("OutlookBar")     myCount = myOlBar.Contents.Groups.Count     MsgBox "There are " &; myCount &; " groups in the Shortcuts pane" End Sub
+Sub CountOlBarGroups()     Dim myOlBar As Outlook.OutlookBarPane     Dim myCount As Integer      Set myOlBar = Application.ActiveExplorer.Panes.Item("OutlookBar")     myCount = myOlBar.Contents.Groups.Count     MsgBox "There are " & myCount & " groups in the Shortcuts pane" End Sub
 ```
 
 

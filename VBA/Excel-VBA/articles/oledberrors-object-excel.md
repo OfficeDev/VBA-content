@@ -28,8 +28,8 @@ Use the  **[OLEDBErrors](application-oledberrors-property-excel.md)** property t
 
 ```vb
 For Each objEr in Application.OLEDBErrors 
- MsgBox "The following error occurred:" &; _ 
- objEr.ErrorString &; " : " &; objEr.SqlState 
+ MsgBox "The following error occurred:" & _ 
+ objEr.ErrorString & " : " & objEr.SqlState 
 Next objEr
 ```
 
@@ -40,8 +40,8 @@ Use  **OLEDBErrors** ( _index_ ), where _index_ is the index number of the OLE D
 
 ```vb
 Set objEr = Application.OLEDBErrors(1) 
-MsgBox "The following error occurred:" &; _ 
- objEr.ErrorString &; " : " &; objEr.SqlState
+MsgBox "The following error occurred:" & _ 
+ objEr.ErrorString & " : " & objEr.SqlState
 ```
 
 

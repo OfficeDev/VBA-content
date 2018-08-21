@@ -48,7 +48,7 @@ If LifeTime <> Int(MonthLife / YEARMONTHS) Then
     LifeTime = Int(LifeTime + 1)    ' Round up to nearest year.
 End If
 PDepr = SLN(InitCost, SalvageVal, LifeTime)
-MsgBox "The depreciation is " &; Format(PDepr, Fmt) &; " per year."
+MsgBox "The depreciation is " & Format(PDepr, Fmt) & " per year."
 
 ```
 

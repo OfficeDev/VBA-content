@@ -59,7 +59,7 @@ Sub CreateNewPubTemplate()
  End With 
  End With 
  End With 
- .SaveAs FileName:=strFolder &; "\NewPubTemplt.pub" 
+ .SaveAs FileName:=strFolder & "\NewPubTemplt.pub" 
  End With 
 End Sub
 ```

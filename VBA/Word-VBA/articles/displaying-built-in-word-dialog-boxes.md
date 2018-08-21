@@ -110,7 +110,7 @@ Prior to returning or changing a dialog box setting using the  **[Dialog](dialog
 Sub ShowRightIndent() 
  Dim dlgParagraph As Dialog 
  Set dlgParagraph = Dialogs(wdDialogFormatParagraph) 
- MsgBox "Right indent = " &; dlgParagraph.RightIndent 
+ MsgBox "Right indent = " & dlgParagraph.RightIndent 
 End Sub
 ```
 

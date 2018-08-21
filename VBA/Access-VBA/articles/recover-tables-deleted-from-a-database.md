@@ -40,10 +40,10 @@ On Error GoTo ExitHere
  For intCount = 0 To db.TableDefs.Count - 1 
  strTableName = db.TableDefs(intCount).Name 
  If Left(strTableName, 4) = "~tmp" Then 
- strSQL = "SELECT DISTINCTROW [" &; strTableName &; "].* INTO " &; Mid(strTableName, 5) &; " FROM [" &; strTableName &; "];" 
+ strSQL = "SELECT DISTINCTROW [" & strTableName & "].* INTO " & Mid(strTableName, 5) & " FROM [" & strTableName & "];" 
  DoCmd.SetWarnings False 
  DoCmd.RunSQL strSQL 
- MsgBox "A deleted table has been restored, using the name '" &; Mid(strTableName, 5) &; "'", vbOKOnly, "Restored" 
+ MsgBox "A deleted table has been restored, using the name '" & Mid(strTableName, 5) & "'", vbOKOnly, "Restored" 
  blnRestored = True 
  End If 
  Next intCount 

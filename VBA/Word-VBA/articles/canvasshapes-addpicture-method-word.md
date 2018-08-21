@@ -53,7 +53,7 @@ Sub NewCanvasPicture()
  
  'Add a graphic to the drawing canvas 
  shpCanvas.CanvasItems.AddPicture _ 
- FileName:="C:\Program Files\Microsoft Office\" &; _ 
+ FileName:="C:\Program Files\Microsoft Office\" & _ 
  "Office\Bitmaps\Styles\stone.bmp", _ 
  LinkToFile:=False, SaveWithDocument:=True 
 End Sub

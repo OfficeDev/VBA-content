@@ -67,8 +67,8 @@ Sub SetTableProperty(objTableObj As Object, strPropertyName As String, _
  If Err <> 0 Then ' Error occurred when value set. 
  If Err <> conErrPropertyNotFound Then 
  ' Error is unknown. 
- MsgBox "Couldn't set property '" &; strPropertyName _ 
- &; "' on table '" &; tdfTableObj.Name &; "'", vbExclamation, Err.Description 
+ MsgBox "Couldn't set property '" & strPropertyName _ 
+ & "' on table '" & tdfTableObj.Name & "'", vbExclamation, Err.Description 
  Err.Clear 
  Else 
  ' Error is "Property not found", so add it to collection. 

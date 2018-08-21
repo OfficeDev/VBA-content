@@ -52,7 +52,7 @@ Sub InsertPicture()
  End With 
  
  ' Enable the image to show up in the center header. 
- ActiveSheet.PageSetup.CenterHeader = "&;G" 
+ ActiveSheet.PageSetup.CenterHeader = "&G" 
  
 End Sub
 ```

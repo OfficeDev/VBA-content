@@ -48,12 +48,12 @@ This example displays the number of columns in the selection on Sheet1. If more 
 Worksheets("Sheet1").Activate 
 areaCount = Selection.Areas.Count 
 If areaCount <= 1 Then 
- MsgBox "The selection contains " &; _ 
- Selection.Columns.Count &; " columns." 
+ MsgBox "The selection contains " & _ 
+ Selection.Columns.Count & " columns." 
 Else 
  For i = 1 To areaCount 
- MsgBox "Area " &; i &; " of the selection contains " &; _ 
- Selection.Areas(i).Columns.Count &; " columns." 
+ MsgBox "Area " & i & " of the selection contains " & _ 
+ Selection.Areas(i).Columns.Count & " columns." 
  Next i 
 End If
 ```

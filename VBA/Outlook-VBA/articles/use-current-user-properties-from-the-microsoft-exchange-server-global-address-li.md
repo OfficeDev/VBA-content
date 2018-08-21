@@ -21,7 +21,7 @@ myPage = Item.GetInspector.ModifiedFormPages("Message")
 Set myUser = olemSession.CurrentUser 
 Item.UserProperties.Find("Name") = myUser.Name 
 Item.UserProperties.Find("Messaging Address") = myUser.Address 
-Item.UserProperties.Find("MAPI First Name") = myUser.Fields.item(&;h3a06001e)
+Item.UserProperties.Find("MAPI First Name") = myUser.Fields.item(&h3a06001e)
 ```
 
 

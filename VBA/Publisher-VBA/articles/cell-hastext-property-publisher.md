@@ -39,7 +39,7 @@ With ActiveDocument.Pages(1).Shapes(1)
  ' Check for text in first cell. 
  If .HasText Then 
  MsgBox "Text from first cell of table: " _ 
- &; vbCr &; .Text 
+ & vbCr & .Text 
  Else 
  MsgBox "No text in first cell." 
  End If 

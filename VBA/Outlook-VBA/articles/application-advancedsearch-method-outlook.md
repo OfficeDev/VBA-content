@@ -121,17 +121,17 @@ Sub TestSearchForMultipleFolders()
     Dim nextRow As Outlook.Row  
     m_SearchComplete = False  
     'Establish scope for multiple folders  
-    Scope = "'" &; Application.Session.GetDefaultFolder( _  
+    Scope = "'" & Application.Session.GetDefaultFolder( _  
     olFolderInbox).FolderPath _  
-    &; "','" &; Application.Session.GetDefaultFolder( _  
-    olFolderSentMail).FolderPath &; "'"  
+    & "','" & Application.Session.GetDefaultFolder( _  
+    olFolderSentMail).FolderPath & "'"  
     'Establish filter  
     If Application.Session.DefaultStore.IsInstantSearchEnabled Then  
-        Filter = Chr(34) &; "urn:schemas:httpmail:subject" _  
-        &; Chr(34) &; " ci_phrasematch 'Office'"  
+        Filter = Chr(34) & "urn:schemas:httpmail:subject" _  
+        & Chr(34) & " ci_phrasematch 'Office'"  
     Else  
-        Filter = Chr(34) &; "urn:schemas:httpmail:subject" _  
-        &; Chr(34) &; " like '%Office%'"  
+        Filter = Chr(34) & "urn:schemas:httpmail:subject" _  
+        & Chr(34) & " like '%Office%'"  
     End If  
     Set MySearch = Application.AdvancedSearch( _  
     Scope, Filter, True, "MySearch")  

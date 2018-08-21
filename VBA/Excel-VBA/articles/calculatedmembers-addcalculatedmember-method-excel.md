@@ -56,7 +56,7 @@ Adds a calculated field or calculated item to a PivotTable.
 ```vb
      OLEDBConnection.CalculatedMembers.AddCalculatedMember Name:="[UK+US]", _
      Formula:= _
-    "[Customer].[Customer Geography].[Country].&;[United Kingdom] + [Customer].[Customer Geography].[Country].&;[United States] " _
+    "[Customer].[Customer Geography].[Country].&[United Kingdom] + [Customer].[Customer Geography].[Country].&[United States] " _
      , Type:=xlCalculatedMember, SolveOrder:=0, ParentHierarchy:= _
      "[Account].[Accounts]", ParentMember:= _
     "[Customer].[Customer Geography].[Australia]", NumberFormat:= _
@@ -111,7 +111,7 @@ Dim strParentMember As String
 
 Set pvt = Sheet1.PivotTables("PivotTable1")
 strName = "[Customer].[Customer Geography].[All Customers].[North America]"
-strFormula = "[Customer].[Customer Geography].[Country].&;[United States] + [Customer].[Customer Geography].[Country].&;[Canada]"
+strFormula = "[Customer].[Customer Geography].[Country].&[United States] + [Customer].[Customer Geography].[Country].&[Canada]"
 strParentHierarchy = "[Customer].[Customer Geography]"
 strParentMember = "[Customer].[Customer Geography].[All Customers]"
 

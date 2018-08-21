@@ -49,10 +49,10 @@ With Selection
 End With 
 If Selection.End = ActiveDocument.Content.End - 1 Then 
  MsgBox "All paragraphs share the same left " _ 
- &; "and right indents." 
+ & "and right indents." 
 Else 
  MsgBox "Not all paragraphs share the same left " _ 
- &; "and right indents." 
+ & "and right indents." 
 End If
 ```
 

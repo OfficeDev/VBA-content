@@ -93,7 +93,7 @@ Public Sub Read_ListBox()
  Next intI 
  Else 
  Debug.Print "You haven't selected an entry in the " _ 
- &; "list box." 
+ & "list box." 
  End If 
  
  Set frmCust = Nothing 

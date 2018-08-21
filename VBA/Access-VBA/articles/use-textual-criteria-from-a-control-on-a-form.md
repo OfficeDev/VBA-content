@@ -48,7 +48,7 @@ Dim varResult As Variant
 
 strLastName = "King"
 varResult = DLookup("[EmployeeID]", "Employees", "[LastName] = '" _
-    &; strLastName &; "'")
+    & strLastName & "'")
 ```
 
 

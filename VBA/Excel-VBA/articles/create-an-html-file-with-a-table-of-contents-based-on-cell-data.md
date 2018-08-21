@@ -24,7 +24,7 @@ Sub CreateHTML()
    
    'Create an .htm file in the same directory as your active workbook.
    Dim sFile As String
-   sFile = ActiveWorkbook.Path &; "\test.htm"
+   sFile = ActiveWorkbook.Path & "\test.htm"
    Close
    
    'Open up the temp HTML file and format the header.
@@ -48,7 +48,7 @@ Sub CreateHTML()
             iStage = iStage - 1
          Next iCounter
          Print #1, "<ul>"
-         Print #1, "<li><a href=""" &; iPage &; ".html"">" &; Cells(iRow, 1).Value &; "</a>"
+         Print #1, "<li><a href=""" & iPage & ".html"">" & Cells(iRow, 1).Value & "</a>"
          iPage = iPage + 1
          If iStage < 1 Then
             iStage = iStage + 1
@@ -62,7 +62,7 @@ Sub CreateHTML()
             iStage = iStage - 1
          Next iCounter
          Print #1, "<ul>"
-         Print #1, "<li><a href=""" &; iPage &; ".html"">" &; Cells(iRow, 2).Value &; "</a>"
+         Print #1, "<li><a href=""" & iPage & ".html"">" & Cells(iRow, 2).Value & "</a>"
          iPage = iPage + 1
          If iStage < 2 Then
             iStage = iStage + 1
@@ -74,7 +74,7 @@ Sub CreateHTML()
          If iStage < 3 Then
             Print #1, "<ul>"
          End If
-         Print #1, "<li><a href=""" &; iPage &; ".html"">" &; Cells(iRow, 3).Value &; "</a>"
+         Print #1, "<li><a href=""" & iPage & ".html"">" & Cells(iRow, 3).Value & "</a>"
          iPage = iPage + 1
          If iStage < 3 Then
             iStage = iStage + 1
@@ -91,7 +91,7 @@ Sub CreateHTML()
    Print #1, "</body>"
    Print #1, "</html>"
    Close
-   Shell "hh " &; vbLf &; sFile, vbMaximizedFocus
+   Shell "hh " & vbLf & sFile, vbMaximizedFocus
 End Sub
 ```
 

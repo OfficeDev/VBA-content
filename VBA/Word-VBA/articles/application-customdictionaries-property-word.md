@@ -36,7 +36,7 @@ This example adds a new, blank custom dictionary to the collection. The path and
 ```vb
 Dim dicHome As Dictionary 
 Set dicHome = CustomDictionaries.Add(Filename:="Home.dic") 
-Msgbox dicHome.Path &; Application.PathSeparator &; dicHome.Name
+Msgbox dicHome.Path & Application.PathSeparator & dicHome.Name
 ```
 
 This example removes all custom dictionaries so that no custom dictionaries are active. The custom dictionary files aren't deleted, though.

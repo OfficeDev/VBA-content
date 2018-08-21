@@ -23,8 +23,8 @@ Private Sub cboCategories_AfterUpdate()
     ' Update the row source of the cboProducts combo box 
     ' when the user makes a selection in the cboCategories 
     ' combo box. 
-    Me.cboProducts.RowSource = "SELECT ProductName FROM" &; _ 
-                            " tblProducts WHERE CategoryID = " &; Me.cboCategories &; _ 
+    Me.cboProducts.RowSource = "SELECT ProductName FROM" & _ 
+                            " tblProducts WHERE CategoryID = " & Me.cboCategories & _ 
                             " ORDER BY ProductName" 
                              
     Me.cboProducts = Me.cboProducts.ItemData(0) 

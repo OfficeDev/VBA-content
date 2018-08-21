@@ -57,7 +57,7 @@ The following example formats text in the selected cells using 16-point Tahoma i
 
 ```vb
 Sub FormatTahoma16() 
-    Font32Ex Name:="Tahoma", Size:=16, Color:=&;HFF88FF, CellColor:=&;H99FFFF 
+    Font32Ex Name:="Tahoma", Size:=16, Color:=&HFF88FF, CellColor:=&H99FFFF 
 End Sub
 ```
 

@@ -42,16 +42,16 @@ Sub ListPrintablePlates()
  
  
  Set pplTemp = ActiveDocument.AdvancedPrintOptions.PrintablePlates 
- Debug.Print "There are " &; pplTemp.Count &; " printable plates in this publication." 
+ Debug.Print "There are " & pplTemp.Count & " printable plates in this publication." 
  
  For Each pplLoop In pplTemp 
  With pplLoop 
- Debug.Print "Printable Plate Name: " &; .Name 
- Debug.Print "Index: " &; .Index 
- Debug.Print "Ink Name: " &; .InkName 
- Debug.Print "Plate Angle: " &; .Angle 
- Debug.Print "Plate Frequency: " &; .Frequency 
- Debug.Print "Print Plate?: " &; .PrintPlate 
+ Debug.Print "Printable Plate Name: " & .Name 
+ Debug.Print "Index: " & .Index 
+ Debug.Print "Ink Name: " & .InkName 
+ Debug.Print "Plate Angle: " & .Angle 
+ Debug.Print "Plate Frequency: " & .Frequency 
+ Debug.Print "Print Plate?: " & .PrintPlate 
  End With 
  Next pplLoop 
 End Sub

@@ -58,7 +58,7 @@ Sub CheckDLs()
  
  If myOlDistList.MemberCount > 20 Then 
  
- MsgBox myOlDistList.DLName &; " has more than 20 members." 
+ MsgBox myOlDistList.DLName & " has more than 20 members." 
  
  myOlDistList.Display 
  

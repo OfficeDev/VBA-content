@@ -34,7 +34,7 @@ Sub CausesAnError()
  
 ErrorHandler: 
     ' Display error information. 
-    MsgBox "Error number " &; Err.Number &; ": " &; Err.Description 
+    MsgBox "Error number " & Err.Number & ": " & Err.Description 
     ' Resume with statement following occurrence of error. 
     Resume Next 
 End Sub

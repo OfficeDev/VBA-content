@@ -39,8 +39,8 @@ Sub ShowDriveInfo(drvpath)
         Case 4: t = "CD-ROM"
         Case 5: t = "RAM Disk"
     End Select
-    s = "Drive " &; d.DriveLetter &; ": - " &; t
-    s = s &; vbCrLf &; "SN: " &; d.SerialNumber
+    s = "Drive " & d.DriveLetter & ": - " & t
+    s = s & vbCrLf & "SN: " & d.SerialNumber
     MsgBox s
 End Sub
 ```

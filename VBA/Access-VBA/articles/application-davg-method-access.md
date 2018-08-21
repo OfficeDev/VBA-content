@@ -91,8 +91,8 @@ Public Function AvgFreightCost(ByVal strCountry As String, _
                                ByVal dteShipDate As Date) As Double 
  
     AvgFreightCost = DAvg("[Freight]", "Orders", _ 
-                     "[ShipCountry] = '" &; strCountry &; _ 
-                     "'AND [ShippedDate] >= #" &; dteShipDate &; "#") 
+                     "[ShipCountry] = '" & strCountry & _ 
+                     "'AND [ShippedDate] >= #" & dteShipDate & "#") 
  
 End Function
 ```

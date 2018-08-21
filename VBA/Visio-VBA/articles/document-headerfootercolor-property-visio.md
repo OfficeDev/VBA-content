@@ -54,7 +54,7 @@ The following macro shows how to assign the color blue to text in the header and
 Sub HeaderFooterColor_Example() 
   
     'Set color of the header of this document to blue.  
-    ThisDocument.HeaderFooterColor = &;H00FF0000  
+    ThisDocument.HeaderFooterColor = &H00FF0000  
  
 End Sub
 ```

@@ -60,7 +60,7 @@ Public Sub SetWindowRect_Example()
  
  Set vsoApplication = Visio.Application 
  
- 'Display the Pan &; Zoom window 
+ 'Display the Pan & Zoom window 
  Set vsoPZWindow = vsoApplication.ActiveWindow.Windows.ItemFromID(visWinIDPanZoom) 
  vsoPZWindow.Visible = True 
  

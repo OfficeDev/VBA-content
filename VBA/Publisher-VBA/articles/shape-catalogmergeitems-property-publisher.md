@@ -52,9 +52,9 @@ Sub ListCatalogMergeAreaContents()
  
  With mmLoop.CatalogMergeItems 
  For intCount = 1 To .Count 
- Debug.Print "Shape ID: " &; _ 
+ Debug.Print "Shape ID: " & _ 
  mmLoop.CatalogMergeItems.Item(intCount).ID 
- Debug.Print "Shape Name: " &; _ 
+ Debug.Print "Shape Name: " & _ 
  mmLoop.CatalogMergeItems.Item(intCount).Name 
  Next 
  End With 

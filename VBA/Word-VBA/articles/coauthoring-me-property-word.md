@@ -32,7 +32,7 @@ The following code example gets the number of locks in the active document that 
 Dim coAuth As CoAuthor 
  
 Set coAuth = ActiveDocument.CoAuthoring.Me 
-MsgBox "The current user has " &; coAuth.Locks.Count &; _ 
+MsgBox "The current user has " & coAuth.Locks.Count & _ 
 " locks in the active document."
 ```
 

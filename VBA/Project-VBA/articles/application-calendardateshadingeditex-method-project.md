@@ -44,7 +44,7 @@ Besides  _Item_, **CalendarDateShadingEditEx** requires either the _Pattern_ or 
 
 
 ```vb
-? CalendarDateShadingEditEx (PjCalendarShading.pjBaseWorking, , &;H01dddd)
+? CalendarDateShadingEditEx (PjCalendarShading.pjBaseWorking, , &H01dddd)
 ```
 
 
@@ -58,8 +58,8 @@ Sub CalendarDate_ShadingEdit()
     ' Activate the Caldender view. 
     ViewApply Name:="Calendar" 
  
-    CalendarDateShadingEditEx Item:=pjBaseWorking, Pattern:=pjLightFillPattern, Color:=&;H900090 
-    CalendarDateShadingEditEx Item:=pjBaseNonworking, Color:=&;HDDDDDD 
+    CalendarDateShadingEditEx Item:=pjBaseWorking, Pattern:=pjLightFillPattern, Color:=&H900090 
+    CalendarDateShadingEditEx Item:=pjBaseNonworking, Color:=&HDDDDDD 
 End Sub
 ```
 

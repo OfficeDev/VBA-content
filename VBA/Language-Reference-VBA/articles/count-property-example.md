@@ -34,16 +34,16 @@ Private Sub UserForm_Initialize()
  Dim MyControl As Control 
  
  MsgBox "UserForm1.Controls.Count = " _ 
- &; Controls.Count 
+ & Controls.Count 
  
  For Each MyControl In Controls 
  If (MyControl.Name Like "MultiPage*") Then 
  MsgBox MyControl.Name _ 
- &; ".Pages.Count = " _ 
- &; MyControl.Pages.Count 
+ & ".Pages.Count = " _ 
+ & MyControl.Pages.Count 
  ElseIf (MyControl.Name Like "TabStrip*") Then 
- MsgBox MyControl.Name &; ".Tabs.Count = " _ 
- &; MyControl.Tabs.Count 
+ MsgBox MyControl.Name & ".Tabs.Count = " _ 
+ & MyControl.Tabs.Count 
  End If 
  Next 
  

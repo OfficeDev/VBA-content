@@ -49,7 +49,7 @@ Private Sub Detail_Format(Cancel As Integer, _
  If FormatCount = 1 Then 
  If DLookup("CompanyName", _ 
  "Customers", "CustomerID = Reports!" _ 
- &; "[Customer Labels]!CustomerID") _ 
+ & "[Customer Labels]!CustomerID") _ 
  Like "B*" Then 
  CompanyNameLine.FontWeight = conBold 
  Else 

@@ -17,7 +17,7 @@ The  _wherecondition_ argument of the **[OpenForm](docmd-openform-method-access.
 
 
 ```vb
-DoCmd.OpenReport "Invoice", acViewPreview, , "OrderID = " &; OrderID 
+DoCmd.OpenReport "Invoice", acViewPreview, , "OrderID = " & OrderID 
 
 ```
 

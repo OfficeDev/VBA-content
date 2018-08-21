@@ -57,7 +57,7 @@ The following example changes the major gridlines to red.
 ```vb
 Sub Gridlines_Edit()    
     'Activate Gantt Chart view 
-    ViewApply Name:="&;Gantt Chart" 
+    ViewApply Name:="&Gantt Chart" 
     GridlinesEdit Item:=pjMajorColumns, NormalColor:=pjRed 
 End Sub
 ```

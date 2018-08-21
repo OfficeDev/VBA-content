@@ -65,7 +65,7 @@ Exit_AddPage:
  Exit Function 
  
 Error_AddPage: 
- MsgBox Err &; ": " &; Err.Description 
+ MsgBox Err & ": " & Err.Description 
  AddPage = False 
  Resume Exit_AddPage 
 End Function
