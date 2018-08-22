@@ -13,14 +13,15 @@ ms.date: 06/08/2017
 
 # FileSystemObject Object
 
-
-
- **Description**
 Provides access to a computer's file system.
- **Syntax**
+
+## Syntax
+
  **Scripting.FileSystemObject**
- **Remarks**
-The following code illustrates how the  **FileSystemObject** is used to return a **TextStream** object that can be read from or written to:
+
+## Remarks
+
+The following code illustrates how the  **FileSystemObject** is used to return a **[TextStream](textstream-object.md)** object that can be read from or written to:
 
 
 
@@ -31,5 +32,5 @@ a.WriteLine("This is a test.")
 a.Close
 ```
 
-In the code shown above, the  **CreateObject** function returns the **FileSystemObject** ( `fs` ). The **CreateTextFile** method then creates the file as a **TextStream** object ( `a` ), and the **WriteLine** method writes a line of text to the created text file. The **Close** method flushes the buffer and closes the file.
+In the code shown above, the  **[CreateObject](createobject-function.md)** function returns the **FileSystemObject** ( `fs` ). The **[CreateTextFile](createtextfile-method.md)** method then creates the file as a **[TextStream](textstream-object.md)** object ( `a` ), and the **[WriteLine](writeline-method.md)** method writes a line of text to the created text file. The **[Close](close-method-filesystemobject-object.md)** method flushes the buffer and closes the file.
 
