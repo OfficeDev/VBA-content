@@ -34,3 +34,14 @@ A double-quotation-mark can be embedded within a [string literal](vbe-glossary.m
 
         Dim s As String
         s = "This string literal has an embedded " & Chr(34) & " in it."
+
+A fixed-length string includes appended spaces or truncates as necessary. 
+
+```
+    Dim s As String * 3
+    Debug.Print Len(s) & " characters [" & s & "]" 'Prints 3 characters [   ]
+    s = "a"
+    Debug.Print Len(s) & " characters [" & s & "]" 'Prints 3 characters [a  ]
+    s = "abcdefghijklmnopqrstuvwxyz"
+    Debug.Print Len(s) & " characters [" & s & "]" 'Prints 3 characters [abc]
+```
