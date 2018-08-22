@@ -56,3 +56,4 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 
 [Borders Collection](borders-object-excel.md)
 
+[RGB Function](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/rgb-function)
