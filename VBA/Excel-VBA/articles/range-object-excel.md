@@ -81,7 +81,7 @@ For TheYear = 1 To 5
     Cells(1, TheYear + 1).Value = 1990 + TheYear 
 Next TheYear 
 For TheQuarter = 1 To 4 
-    Cells(TheQuarter + 1, 1).Value = "Q" &amp; TheQuarter 
+    Cells(TheQuarter + 1, 1).Value = "Q" & TheQuarter 
 Next TheQuarter 
 End Sub
 ```
@@ -144,7 +144,7 @@ If you work with selections that contain more than one area, the  **[Areas](http
 Sub NoMultiAreaSelection() 
     NumberOfSelectedAreas = Selection.Areas.Count 
     If NumberOfSelectedAreas > 1 Then 
-        MsgBox "You cannot carry out this command " &amp; _ 
+        MsgBox "You cannot carry out this command " & _ 
             "on multi-area selections" 
     End If 
 End Sub
@@ -205,9 +205,9 @@ Sub Create_Unique_List_Count()
     'and list it next to its relevant value.
     For lnCount = 1 To UBound(vaUnique)
         rnUnique(lnCount, 1).Offset(0, 1).Value = _
-            Application.Evaluate("COUNTIF(" &amp; _
-            rnSource.Address(External:=True) &amp; _
-            ",""" &amp; rnUnique(lnCount, 1).Text &amp; """)")
+            Application.Evaluate("COUNTIF(" & _
+            rnSource.Address(External:=True) & _
+            ",""" & rnUnique(lnCount, 1).Text & """)")
     Next lnCount
     
     'Label the column of occurrences with "Occurrences"
