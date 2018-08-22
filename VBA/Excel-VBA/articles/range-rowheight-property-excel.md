@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.RowHeight Property (Excel)
 
-Returns or sets the height of the first row in the range specified, measured in points. Read/write  **Variant** .
+Returns or sets the height of rows in the range specified, measured in points. Read/write **Variant**.
 
 
 ## Syntax
@@ -25,10 +25,13 @@ Returns or sets the height of the first row in the range specified, measured in 
 
 ## Remarks
 
-You can use the  **Height** property to return the total height of a range of cells.
+**RowHeight** sets the height for all rows in a range.
 
+Use the **[AutoFit](range-autofit-method-excel.md)** method to set row heights based on the contents of cells.
 
- **Note**  If a merged cell is in the range,  **RowHeight** returns **Null** for varied row heights.
+Use the **[Height](range-height-property-excel.md)** property to return the total height of a range of cells.
+
+**Note**  When a range contains rows of different heights, **RowHeight** might return the height of the first row or might return **Null**.
 
 
 ## Example
@@ -48,7 +51,10 @@ End With
 
 #### Concepts
 
-
-[Slicer Object](slicer-object-excel.md)
 [Range Object](range-object-excel.md)
 
+[Range.Height Property](range-height-property-excel.md)
+
+[Slicer.RowHeight Property](slicer-rowheight-property-excel.md)
+
+[Range.AutoFit Method](range-autofit-method-excel.md)
