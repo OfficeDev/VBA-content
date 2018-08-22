@@ -14,11 +14,12 @@ When you use Visual Basic for Applications (VBA) to concatenate dates into an SQ
 ```vb
 Function MakeUSDate(DateIn As Variant) As String 
  
- ' Do nothing if the value is not a date. 
- If Not IsDate(DateIn) Then Exit Function 
+    ' Do nothing if the value is not a date. 
+    If Not IsDate(DateIn) Then Exit Function 
  
- ' Convert the date to a U.S. Date format. 
- MakeUSDate = "#" &; Month(DateIn) &; "/" &; Day(DateIn) &; "/" &; Year(DateIn) &; "#" 
+    ' Format the date value as a U.S. date formatted string expression. 
+    MakeUSDate = "#" & Month(DateIn) & "/" & Day(DateIn) & "/" & Year(DateIn) & "#" 
+     
 End Function
 ```
 
