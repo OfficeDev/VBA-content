@@ -22,16 +22,15 @@ Represents the color of a one-color object, the foreground or background color o
 
 Use one of the properties listed in the following table to return a  **ColorFormat** object.
 
-
-
-|**Use this property**|**With this object**|**To return a ColorFormat object that represents this**|
+|**Use this property**|**With this object**|**To return a ColorFormat object that represents this color**|
 |:-----|:-----|:-----|
-|**[BackColor](fillformat-backcolor-property-excel.md)**|**FillFormat**|The background fill color (used in a shaded or patterned fill)|
-|**[ForeColor](fillformat-forecolor-property-excel.md)**|**FillFormat**|The foreground fill color (or simply the fill color for a solid fill)|
-|**[BackColor](lineformat-backcolor-property-excel.md)**|**LineFormat**|The background line color (used in a patterned line)|
-|**[ForeColor](lineformat-forecolor-property-excel.md)**|**LineFormat**|The foreground line color (or just the line color for a solid line)|
-|**[ForeColor](shadowformat-forecolor-property-excel.md)**|**ShadowFormat**|The shadow color|
-|**[ExtrusionColor](threedformat-extrusioncolor-property-excel.md)**|**ThreeDFormat**|The color of the sides of an extruded object|
+|**[BackColor](fillformat-backcolor-property-excel.md)**|**[FillFormat](fillformat-object-excel.md)**|The background fill color (used in a shaded or patterned fill)|
+|**[ForeColor](fillformat-forecolor-property-excel.md)**|**[FillFormat](fillformat-object-excel.md)**|The foreground fill color (or simply the fill color for a solid fill)|
+|**[BackColor](lineformat-backcolor-property-excel.md)**|**[LineFormat](lineformat-object-excel.md)**|The background line color (used in a patterned line)|
+|**[ForeColor](lineformat-forecolor-property-excel.md)**|**[LineFormat](lineformat-object-excel.md)**|The foreground line color (or just the line color for a solid line)|
+|**[ForeColor](shadowformat-forecolor-property-excel.md)**|**[ShadowFormat](shadowformat-object-excel.md)**|The shadow color|
+|**[ExtrusionColor](threedformat-extrusioncolor-property-excel.md)**|**[ThreeDFormat](threedformat-object-excel.md)**|The color of the sides of an extruded object|
+
 
 ## Example
 
@@ -65,10 +64,3 @@ End With
 |[TintAndShade](colorformat-tintandshade-property-excel.md)|
 |[Type](colorformat-type-property-excel.md)|
 
-## See also
-
-
-#### Other resources
-
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
