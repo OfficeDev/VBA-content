@@ -46,13 +46,16 @@ Applies data labels to all the series in a chart.
 
 
 
-| **XlDataLabelsType** can be one of these **XlDataLabelsType** constants.|
-| **xlDataLabelsShowBubbleSizes** . The bubble size for the data label.|
-| **xlDataLabelsShowLabelAndPercent** . Percentage of the total, and category for the point. Available only for pie charts and doughnut charts.|
-| **xlDataLabelsShowPercent** . Percentage of the total. Available only for pie charts and doughnut charts.|
-| **xlDataLabelsShowLabel** . Category for the point.|
-| **xlDataLabelsShowNone** . No data labels.|
-| **xlDataLabelsShowValue** . _default_ . Value for the point (assumed if this argument isn't specified).|
+**XlDataLabelsType** can be one of these **XlDataLabelsType** constants.
+
+| **Constant** | **Description** |
+|---|---|
+| **xlDataLabelsShowBubbleSizes** | The bubble size for the data label.|
+| **xlDataLabelsShowLabelAndPercent** | Percentage of the total, and category for the point. Available only for pie charts and doughnut charts.|
+| **xlDataLabelsShowPercent** | Percentage of the total. Available only for pie charts and doughnut charts.|
+| **xlDataLabelsShowLabel** | Category for the point.|
+| **xlDataLabelsShowNone** | No data labels.|
+| **xlDataLabelsShowValue** | Value for the point (assumed if this argument isn't specified).|
 
 ## Example
 
