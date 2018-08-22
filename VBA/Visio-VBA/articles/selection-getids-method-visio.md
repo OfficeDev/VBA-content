@@ -58,7 +58,8 @@ Public Sub GetIDs_Example()
  
     Dim vsoSelection As Visio.Selection 
     Dim lngShapeIDs() As Long 
-    Dim lngShapeID As Long 
+    Dim lngShapeID As Long
+    Dim intShapeIndex As Integer
      
     ActiveWindow.DeselectAll 
     ActiveWindow.SelectAll 
@@ -67,7 +68,8 @@ Public Sub GetIDs_Example()
      
     Call vsoSelection.GetIDs(lngShapeIDs) 
      
-    For lngShapeID = LBound(lngShapeIDs) To UBound(lngShapeIDs) 
+    For intShapeIndex = LBound(lngShapeIDs) To UBound(lngShapeIDs) 
+        lngShapeID = lngShapeIDs(intShapeIndex)
         Debug.Print lngShapeID 
     Next 
  
