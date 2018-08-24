@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.VerticalAlignment Property (Excel)
 
-Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
+Returns or sets a  **Variant** value that represents the vertical alignment of the specified object. Read/write.
 
 
 ## Syntax
@@ -25,15 +25,8 @@ Returns or sets a  **Variant** value that represents the vertical alignment of t
 
 ## Remarks
 
-The value of this property can be set to one of the following constants:
+The value of this property can be set to one of the **[XlVAlign](xlvalign-enumeration-excel.md)** constants (**xlVAlignBottom**, **xlVAlignCenter**, **xlVAlignDistributed**, **xlVAlignJustify**, or **xlVAlignTop**).
 
-
-
-| **xlBottom**|
-| **xlCenter**|
-| **xlDistributed**|
-| **xlJustify**|
-| **xlTop**|
 
 ## See also
 
