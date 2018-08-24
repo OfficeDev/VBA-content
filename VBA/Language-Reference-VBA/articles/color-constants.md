@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Color Constants
 
-The following [constants](vbe-glossary.md) can be used anywhere in your code in place of the actual values:
+The following [constants](vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
 
 
 
@@ -26,3 +26,9 @@ The following [constants](vbe-glossary.md) can be used anywhere in your code in 
 |**vbCyan**|0xFFFF00|Cyan|
 |**vbWhite**|0xFFFFFF|White|
 
+
+## See also
+
+[RGB Function](rgb-function.md)
+
+[XlRgbColor Enumeration](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/xlrgbcolor-enumeration-excel) (available in Excel, PowerPoint, and Word)
