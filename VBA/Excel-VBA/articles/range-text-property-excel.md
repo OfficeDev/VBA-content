@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Text Property (Excel)
 
-Returns or sets the text for the specified object. Read-only  **String** .
+Returns the formatted text for the specified object. Read-only  **String**.
 
 
 ## Syntax
@@ -23,17 +23,23 @@ Returns or sets the text for the specified object. Read-only  **String** .
  _expression_ A variable that represents a **Range** object.
 
 
+## Remarks
+
+The **Text** property is most often used for a **Range** of one cell. If the **Range** includes more than one cell, the **Text** property returns **Null**, except when all the cells in the **Range** have identical contents and formats.
+
+
 ## Example
 
-This example illustrates the difference between the  **Text** and **Value** properties of cells that contain formatted numbers.
+This example illustrates the difference between the  **Text** and **[Value](range-value-property-excel.md)** properties of cells that contain formatted numbers.
 
 
 ```vb
-Set c = Worksheets("Sheet1").Range("B14") 
-c.Value = 1198.3 
-c.NumberFormat = "$#,##0_);($#,##0)" 
-MsgBox c.Value 
-MsgBox c.Text
+Dim c As Range
+Set c = Worksheets("Sheet1").Range("A1")
+c.Value = 1198.3
+c.NumberFormat = "$#,##0_);($#,##0)"
+MsgBox c.Value & " is the value." 'Returns "1198.3 is the value."
+MsgBox c.Text & " is the text."   'Returns "$1,198 is the text."
 ```
 
 
@@ -45,3 +51,4 @@ MsgBox c.Text
 
 [Range Object](range-object-excel.md)
 
+[Range.Value Property](range-value-property-excel.md)
