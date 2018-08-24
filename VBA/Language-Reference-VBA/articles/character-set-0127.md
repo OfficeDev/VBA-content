@@ -11,8 +11,9 @@ ms.date: 06/08/2017
 
 # Character Set (0 - 127)
 
-|||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+
+|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|
+|-----:|:-----|-----:|:-----|-----:|:-----|-----:|:-----|
 |0||32|[space]|64|@|96|`|
 |1||33|!|65|A|97|a|
 |2||34|"|66|B|98|b|
@@ -48,10 +49,13 @@ ms.date: 06/08/2017
 
 <br/>
 
-The values with blanks are characters that aren't supported by Windows.
+The values with blanks are control characters, not characters displayed or printed by Windows.
 
 <!--These characters aren't supported by Windows.-->
 
-Values 8, 9, 10, and 13 convert to backspace, tab, linefeed, and carriage return characters, respectively. They have no graphical representation but, depending on the application, can affect the visual display of text.
+**Note** Values 8, 9, 10, and 13 convert to backspace, tab, linefeed, and carriage return characters, respectively. They have no graphical representation but, depending on the application, can affect the visual display of text.
 
 
+## See also
+
+[Chr Function](chr-function.md)
