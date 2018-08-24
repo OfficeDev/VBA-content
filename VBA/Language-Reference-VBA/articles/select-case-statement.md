@@ -74,7 +74,7 @@ Select Case Number    ' Evaluate Number.
 Case 1 To 5    ' Number between 1 and 5, inclusive. 
     Debug.Print "Between 1 and 5" 
 ' The following is the only Case clause that evaluates to True. 
-Case 6, 7, 8    ' Number between 6 and 8. 
+Case 6, 7, 8    ' Number is 6, 7 or 8. 
     Debug.Print "Between 6 and 8" 
 Case 9 To 10    ' Number is 9 or 10. 
     Debug.Print "Greater than 8" 
