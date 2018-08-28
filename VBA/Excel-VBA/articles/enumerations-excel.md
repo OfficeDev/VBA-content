@@ -11,6 +11,7 @@ This section contains documentation for the enumerations in the Excel object mod
 
 | Name / Link                                                                                   |
 |-----------------------------------------------------------------------------------------------|
+| **[Constants Enumeration](constants-enumeration-excel.md)**                                   |
 | **[XlAboveBelow Enumeration](xlabovebelow-enumeration-excel.md)**                             |
 | **[XlActionType Enumeration](xlactiontype-enumeration-excel.md)**                             |
 | **[XlAllocation Enumeration](xlallocation-enumeration-excel.md)**                             |
@@ -163,7 +164,6 @@ This section contains documentation for the enumerations in the Excel object mod
 | **[XlPageBreak Enumeration](xlpagebreak-enumeration-excel.md)**                               |
 | **[XlPageBreakExtent Enumeration](xlpagebreakextent-enumeration-excel.md)**                   |
 | **[XlPageOrientation Enumeration](xlpageorientation-enumeration-excel.md)**                   |
-| **[XlPageOrientation Enumeration (Excel)](#.md)**                                             |
 | **[XlPaperSize Enumeration](xlpapersize-enumeration-excel.md)**                               |
 | **[XlParameterDataType Enumeration](xlparameterdatatype-enumeration-excel.md)**               |
 | **[XlParameterType Enumeration](xlparametertype-enumeration-excel.md)**                       |
@@ -279,3 +279,8 @@ This section contains documentation for the enumerations in the Excel object mod
 | **[XlXmlImportResult Enumeration](xlxmlimportresult-enumeration-excel.md)**                   |
 | **[XlXmlLoadOption Enumeration](xlxmlloadoption-enumeration-excel.md)**                       |
 | **[XlYesNoGuess Enumeration](xlyesnoguess-enumeration-excel.md)**                             |
+
+
+## See Also
+
+[Visual Basic Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-constants)
