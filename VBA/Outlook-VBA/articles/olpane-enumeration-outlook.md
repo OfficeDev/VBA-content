@@ -22,5 +22,5 @@ Specifies the pane (window).
 | **olFolderList**|2|The folder list pane|
 | **olNavigationPane**|4|The navigation pane|
 | **olOutlookBar**|1|The Outlook bar pane|
-| **olPreview**|3|The Preview pane|
+| **olPreview**|3|The Reading pane|
 
