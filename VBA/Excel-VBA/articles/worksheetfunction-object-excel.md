@@ -480,5 +480,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 #### Other resources
 
-
-[Excel Object Model Reference](http://msdn.microsoft.com/library/11ea8598-8a20-92d5-f98b-0da04263bf2c%28Office.15%29.aspx)
+[Using a worksheet function in a Visual Basic macro in Excel](https://support.microsoft.com/en-us/help/291309/using-a-worksheet-function-in-a-visual-basic-macro-in-excel)
