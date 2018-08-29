@@ -22,16 +22,14 @@ The  **Private** statement syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**WithEvents**|Optional. [Keyword](vbe-glossary.md) that specifies that _varname_ is an[object variable](vbe-glossary.md) used to respond to events triggered by an[ActiveX object](vbe-glossary.md).  **WithEvents** is valid only in[class modules](vbe-glossary.md). You can declare as many individual variables as you like using  **WithEvents**, but you can't create[arrays](vbe-glossary.md) with **WithEvents**. You can't use **New** with **WithEvents**.|
+|**WithEvents**|Optional. [Keyword](vbe-glossary.md) that specifies that _varname_ is an [object variable](vbe-glossary.md) used to respond to events triggered by an [ActiveX object](vbe-glossary.md).  **WithEvents** is valid only in [class modules](vbe-glossary.md). You can declare as many individual variables as you like using  **WithEvents**, but you can't create [arrays](vbe-glossary.md) with **WithEvents**. You can't use **New** with **WithEvents**.|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|
-| _subscripts_|Optional. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_[argument](vbe-glossary.md) uses the following syntax:|
-|
-|[ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .**|
-|
-|When not explicitly stated in  _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
-|**New**|Optional. Keyword that enables implicit creation of an object. If you use  **New** when declaring the object variable, a new instance of the object is created on first reference to it, so you don't have to use the **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic[data type](vbe-glossary.md), can't be used to declare instances of dependent objects, and can't be used with  **WithEvents**.|
-| _type_|Optional. Data type of the variable; may be [Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported),[Date](vbe-glossary.md), [String](vbe-glossary.md) (for variable-length strings), **String** * _length_ (for fixed-length strings),[Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an [object type](vbe-glossary.md). Use a separate  **As**_type_ clause for each variable being defined.|
- **Remarks**
+| _subscripts_|Optional. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_ [argument](vbe-glossary.md) uses the following syntax:|
+|[ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .**|When not explicitly stated in  _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|
+|**New**|Optional. Keyword that enables implicit creation of an object. If you use  **New** when declaring the object variable, a new instance of the object is created on first reference to it, so you don't have to use the **Set** statement to assign the object reference. The **New** keyword can't be used to declare variables of any intrinsic [data type](vbe-glossary.md), can't be used to declare instances of dependent objects, and can't be used with  **WithEvents**.|
+| _type_|Optional. Data type of the variable; may be [Byte](vbe-glossary.md), [Boolean](vbe-glossary.md), [Integer](vbe-glossary.md), [Long](vbe-glossary.md), [Currency](vbe-glossary.md), [Single](vbe-glossary.md), [Double](vbe-glossary.md), [Decimal](vbe-glossary.md) (not currently supported), [Date](vbe-glossary.md), [String](vbe-glossary.md) (for variable-length strings), **String** * _length_ (for fixed-length strings), [Object](vbe-glossary.md), [Variant](vbe-glossary.md), a [user-defined type](vbe-glossary.md), or an [object type](vbe-glossary.md). Use a separate  **As**_type_ clause for each variable being defined.|
+
+**Remarks**
  **Private** variables are available only to the module in which they are declared.
 Use the  **Private** statement to declare the data type of a variable. For example, the following statement declares a variable as an **Integer**:
 
